@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-01T07:00:06+00:00",
+        "description": "How Thermite turned the clickety-clack of railroads into seamless, silent tracks.  Get an exclusive 15% discount on Saily data plans! Use code veritasium at checkout. Download Saily app or go to https://saily.com/veritasium \nA massive thank you to everyone at Goldschmidt for making this possible. With special thanks to Dr. Axel Hoeschen, Christof Gassmann and Claudia Koch.\n\nIf you want to learn all the details about why we don\u2019t need expansion joints anymore, check out Grady\u2019s excellent video here: youtu.be/zqmOSMAtadc\n\nIf you\u2019re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically. https://snatoms.com/ \n\n\u2580\u2580\u2580\n00:00 The problem with continuous welded rail\n03:33 How to weld two rails together\n10:16 Why is rapidly cooled steel brittle?\n11:40 Thermite reaction and a see-through mold\n16:30 Clean up\n19:11 Metallurgy\n22:15 How strong is the weld?\n24:26 Why don\u2019t the rails buckle?\n\n\u2580\u2580\u2580\nReferences:\nPractical Engineering. Why Railroads ",
+        "id": 1813842,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Rdj5-6t6QI8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Rdj5-6t6QI8/hqdefault.jpg",
+        "title": "I Tried Railroad Thermite Welding",
+        "vote": 0
+    }
+]

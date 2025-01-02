@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-01T16:41:15+00:00",
+        "description": "Happy New Year! Here's a short look back over what the most read articles were on GamingOnLinux throughout 2024. An easy way for you to refresh your memory and prepare for 2025.<p><img src=\"https://www.gamingonlinux.com/uploads/tagline_gallery/defaulttagline.png\" alt />.</p><p>Read the full article on <a href=\"https://www.gamingonlinux.com/2025/01/the-most-popular-linux-gaming-articles-of-2024/\">GamingOnLinux</a>.</p>",
+        "id": 1815905,
+        "language": "en-us",
+        "link": "https://www.gamingonlinux.com/2025/01/the-most-popular-linux-gaming-articles-of-2024",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 130,
+        "source_url": "https://www.gamingonlinux.com/article_rss.php",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The most popular Linux gaming articles of 2024",
+        "vote": 0
+    }
+]

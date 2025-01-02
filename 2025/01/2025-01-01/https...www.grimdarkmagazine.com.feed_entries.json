@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-01T04:15:13+00:00",
+        "description": "<p>The Lord of the Rings: The War of the Rohirrim is a work that both intrigued and confused me when I first heard it announced. It is an animated adaptation of one of J.R.R Tolkien&#8217;s in-universe myths for his Legendarium, depicting the story of Helm Hammerhand and his tragic fall. Except, this story would be a deviation that focused instead on his unnamed daughter rather than the actual main characters of the story. This isn&#8217;t necessarily a bad thing as plenty of stories have been told from differing perspectives than the ones you might think. Ophelia, Rosencrantz and Guildenstern, and several other individuals have provided excellent perspectives on Hamlet&#8217;s events other than the Prince of Denmark themselves. Unfortunately, it seemed the choice to depict the newly named Hera as an action heroine akin to her relative, Eowyn, is something that almost immediately poisoned the well. Grimdark Magazine maintains a progressive view of fiction while also acknowledging tha",
+        "id": 1813475,
+        "language": "en-AU",
+        "link": "https://www.grimdarkmagazine.com/review-the-war-of-the-rohirrim",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 137,
+        "source_url": "https://www.grimdarkmagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "REVIEW: The War of the Rohirrim",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-01T13:00:06+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nLightning Talk: Typesetting With Brian Kernighan - Jez Higgins - ACCU 2024\n---\n\nBasically, this list https://www.jezuk.co.uk/blog/2023/10/typesetting-with-brian-kernighan-updated-again.html with whatever pictures I can find, perhaps a bit of commentary about the books, some stuff about how Typesetting was the original excuse for Unix, and just what a massive G Brian Kernighan is\n\nSponsored By think-cell\n---\n\nJez Higgins\n\nJez Higgins lives on the Pembrokeshire coast, largely to make return-to-office mandates impractical. Truth is, he hasn\u2019t worked in an office for nearly 25 years, and has no intention of starting now. He\u2019s been programming for a living that whole time and thinks he might be starting getting to get the hang of it.\n---\n\nThe ACCU Conference is the annual conference of the ACCU membership, but is open to any and all who wish to attend. The tagline for the ACCU is 'Professionalism in Programming', which captures the whole ",
+        "id": 1815297,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=qOtfka0Sv_k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qOtfka0Sv_k/hqdefault.jpg",
+        "title": "Lightning Talk: Typesetting With Brian Kernighan - Jez Higgins - ACCU 2024",
+        "vote": 0
+    }
+]

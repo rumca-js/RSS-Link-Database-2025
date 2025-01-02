@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-01T20:00:00+00:00",
+        "description": "It&#8217;s a new year, and that means new works are entering the public domain, and that means it&#8217;s time for the latest installment of our public domain game jam, Gaming Like It&#8217;s 1929! If you&#8217;ve been itching to get started on your entry, now&#8217;s the time \u2014 you&#8217;ve got until the end of the month [&#8230;]",
+        "id": 1816830,
+        "language": "en-US",
+        "link": "https://www.techdirt.com/2025/01/01/and-were-off-the-public-domain-game-jam-starts-today",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 325,
+        "source_url": "https://www.techdirt.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "And We\u2019re Off! The Public Domain Game Jam Starts Today",
+        "vote": 0
+    }
+]

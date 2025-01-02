@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-01T13:00:53+00:00",
+        "description": "Here are some key events to look forward to in space and astronomy in the year ahead.",
+        "id": 1815146,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/01/01/science/space-astronomy-nasa.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2024/12/31/multimedia/01sci-spacepreview-zktb/01sci-spacepreview-zktb-mediumSquareAt3X.jpg",
+        "title": "Big Rockets, a Big Telescope and Big Changes in Space Await in 2025",
+        "vote": 0
+    }
+]

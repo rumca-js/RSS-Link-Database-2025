@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-01T09:05:01.128287+00:00",
+        "description": "Thousands of people gathered at Galata Bridge at the heart of Istanbul on Wednesday for a rally in support of Palestinians facing genocide at the hands of Israel.\n\nOrganized by the...",
+        "id": 1814067,
+        "language": "en-US",
+        "link": "https://www.dailysabah.com/turkiye/massive-pro-palestine-rally-brings-together-thousands-in-istanbul/news",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 81,
+        "source_url": "https://www.dailysabah.com/rssFeed/10",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://idsb.tmgrup.com.tr/ly/uploads/images/2025/01/01/361957.jpeg",
+        "title": "Massive pro-Palestine rally brings together thousands in Istanbul",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-01T09:29:14.552499+00:00",
+        "description": "<p><a href=\"https://wydarzenia.interia.pl/kraj/news-tragiczny-sylwester-na-drogach-ofiary-smiertelne-dziesiatki-,nId,7884202\"><img src=\"https://i.iplsc.com/tragiczny-sylwester-na-drogach-ofiary-smiertelne-dziesiatki/000KDLS5NHJ69R6J-C321.jpg\" alt=\"Tragiczny sylwester na drogach. Ofiary \u015bmiertelne, dziesi\u0105tki rannych\" align=\"left\" /></a>Ponad 14 tysi\u0119cy interwencji, 36 wypadk\u00f3w, dziesi\u0105tki rannych i trzy ofiary \u015bmiertelne - takie dane z sylwestrowej nocy zaprezentowa\u0142a w \u015brod\u0119 Komenda G\u0142\u00f3wna Policji. Do jednego z tragicznych zdarze\u0144 dosz\u0142o w miejscowo\u015bci Gnojnik w Ma\u0142opolsce, gdzie zgin\u0105\u0142 m\u0142ody m\u0119\u017cczyzna.</p><br clear=\"all\" />",
+        "id": 1814172,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/kraj/news-tragiczny-sylwester-na-drogach-ofiary-smiertelne-dziesiatki-,nId,7884202",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tragiczny sylwester na drogach. Ofiary \u015bmiertelne, dziesi\u0105tki rannych",
+        "vote": 0
+    }
+]

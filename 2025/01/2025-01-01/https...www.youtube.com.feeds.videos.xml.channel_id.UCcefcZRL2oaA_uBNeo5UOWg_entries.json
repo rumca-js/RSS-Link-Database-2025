@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-01T15:01:05+00:00",
+        "description": "Happy New Year! In this mini-episode, the Lightcone hosts ring in 2025 with their predictions for startups, AI and crypto.  \n\nApply to Y Combinator: https://ycombinator.com/apply\n\nChapters (Powered by https://bit.ly/chapterme-yc) -\n00:00 - Intro\n00:25 - Nobel prize\n01:25 - Crypto\n05:55 - AI",
+        "id": 1815605,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=uGjv25IrjoE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uGjv25IrjoE/hqdefault.jpg",
+        "title": "The Lightcone 2025 Forecast",
+        "vote": 0
+    }
+]

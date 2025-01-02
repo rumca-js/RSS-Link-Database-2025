@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-01T08:00:00+00:00",
+        "description": "<p><span>\n\nSinging together in groups can be a great feeling, building a sense of\ntogetherness and shared purpose.  While widespread literacy means\ngetting everyone singing the same words isn't too hard, how do you\nget everyone on the same melody?  This has often been a problem for\nour </span>\n\n<a href=\"https://www.jefftk.com/news/solstice\">secular solstices</a>, but is also one\nmany groups have handled in a range of ways.  Here are the options I\nknow about:\n\n\n\n<p>\n\nUse broader cultural knowledge:\n\n</p>\n\n<ul>\n\n<li><p>Choose songs that are already well-known.  A random group of\npeople in the US will have maybe a few hundred songs they could get\nthrough well with no prep, that people learned from hearing them over\nand over.  Some are children's songs (Old MacDonald, Ba Ba Black\nSheep), others are well known older pop songs (Hey Jude, YMCA),\nholiday songs (Jingle Bells, Rudolph), folk songs (This Land Is Your\nLand, Amazing Grace), movie songs (A Spoonful of Sugar, Over the\nRainbow), etc",
+        "id": 1815202,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/approaches-to-group-singing",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Approaches to Group Singing",
+        "vote": 0
+    }
+]

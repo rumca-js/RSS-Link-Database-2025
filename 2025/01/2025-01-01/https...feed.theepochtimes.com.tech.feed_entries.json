@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-01T20:52:04+00:00",
+        "description": "The judge struck notification and disclosure requirements, and kept the rest of the law intact.",
+        "id": 1817177,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/federal-court-partially-blocks-california-law-tackling-minors-social-media-addiction-5784713",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2019/08/28/app-700x420.jpg",
+        "title": "Federal Court Partially Blocks California Law Tackling Minors\u2019 Social Media Addiction",
+        "vote": 0
+    }
+]
