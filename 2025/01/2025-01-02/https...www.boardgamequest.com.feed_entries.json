@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-02T14:24:09+00:00",
+        "description": "<img width=\"640\" height=\"822\" src=\"https://www.boardgamequest.com/wp-content/uploads/2024/12/Call-of-Cthulhu-Order-of-the-Stone-797x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Call of Cthulhu - Order of the Stone\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2024/12/Call-of-Cthulhu-Order-of-the-Stone-797x1024.jpg 797w, https://www.boardgamequest.com/wp-content/uploads/2024/12/Call-of-Cthulhu-Order-of-the-Stone-233x300.jpg 233w, https://www.boardgamequest.com/wp-content/uploads/2024/12/Call-of-Cthulhu-Order-of-the-Stone-117x150.jpg 117w, https://www.boardgamequest.com/wp-content/uploads/2024/12/Call-of-Cthulhu-Order-of-the-Stone-768x987.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2024/12/Call-of-Cthulhu-Order-of-the-Stone-640x822.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2024/12/Call-of-Cthulhu-Or",
+        "id": 1820733,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/call-of-cthulhu-order-of-the-stone-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Call of Cthulhu \u2013 Order of the Stone Review",
+        "vote": 0
+    }
+]

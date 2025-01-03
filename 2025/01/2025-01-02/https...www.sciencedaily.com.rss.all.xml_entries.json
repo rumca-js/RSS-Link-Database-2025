@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-02T16:23:03+00:00",
+        "description": "When it comes to peace processes and negotiations, U.N. Women highlights a stark reality: All too often, women remain invisible and excluded. But a new study draws on evidence from Colombia to show that addressing gender-related issues helps peace agreements succeed.",
+        "id": 1823634,
+        "language": "en-us",
+        "link": "https://www.sciencedaily.com/releases/2025/01/250102162303.htm",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 188,
+        "source_url": "https://www.sciencedaily.com/rss/all.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Addressing gender issues strengthens peace agreements",
+        "vote": 0
+    }
+]

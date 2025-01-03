@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-02T15:50:22+00:00",
+        "description": "Welcome to the future! Its 2025 and after taking a break for a week, its time to open the bar once more. Join me, MauLer, Razorfist, FilmComicsExplained and Metal Commander for our latest episode. \r\n\r\nSubscribe to Razorfist: https://www.youtube.com/@TheRageaholic\r\nSubscribe to FilmComics: https://www.youtube.com/@filmcomicsexplained\r\nSubscribe to Metal: https://www.youtube.com/@Metalsforge",
+        "id": 1821530,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=FDkKDgsCXl0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FDkKDgsCXl0/hqdefault.jpg",
+        "title": "Open Bar #124 - Nosferatu, Squid Game, 2025 Predictions",
+        "vote": 0
+    }
+]

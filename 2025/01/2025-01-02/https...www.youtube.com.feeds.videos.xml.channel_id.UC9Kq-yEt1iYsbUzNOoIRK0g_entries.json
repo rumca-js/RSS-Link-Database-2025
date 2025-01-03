@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Pitch Meeting",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-02T21:05:00+00:00",
+        "description": "Step inside the pitch meeting that led to Carry-On!\n\nSubscribe for more Pitch Meetings: https://www.youtube.com/channel/UC9Kq-yEt1iYsbUzNOoIRK0g\n\nNetflix has been churning out movies for years, with a common critique being that they\u2019re somewhat derivative of other movies. Well Carry-On is here to challenge that narrative by being a holiday action movie that takes place in an airport on Christmas Eve. Wait, that\u2019s Die Hard 2. Well dang it. \n\nCarry-On does raise some questions. Like how is Ethan never at his post? How does that Watcher guy manage to get the perfect line of sight from a parking garage? Did the Traveler\u2019s entire plan rely on Ethan checking his phone while at work?\n\n\n\nCheck Out These Other Videos:\n\nThe Acolyte Pitch Meeting\nhttps://www.youtube.com/watch?v=PqwEE6G6zaU\n\nElf Pitch Meeting\nhttps://www.youtube.com/watch?v=g79QPlipXzs",
+        "id": 1823543,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=iNEl_Ubg23E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 252,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9Kq-yEt1iYsbUzNOoIRK0g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iNEl_Ubg23E/hqdefault.jpg",
+        "title": "Carry-On Pitch Meeting",
+        "vote": 0
+    }
+]

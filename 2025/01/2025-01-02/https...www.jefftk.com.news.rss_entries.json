@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-02T08:00:00+00:00",
+        "description": "<p><span>\n\nA couple months ago Nora (3y) got very into </span>\n\n<a href=\"https://en.wikipedia.org/wiki/Otamatone\">Otamatones</a>.  She\nwanted to watch lots of videos, primarily \n\n<a href=\"https://www.youtube.com/@TheRealSullyG/videos\">TheRealSullyG</a>.\nShe asked for one for Christmas, and so did I:\n\n\n\n<p>\n\n<a highlight href=\"https://www.jefftk.com/otamatones-ruthie-and-nora-big.jpg\"><img src=\"https://www.jefftk.com/otamatones-ruthie-and-nora.jpg\" width=\"550\" height=\"501\" class=\"mobile-fullwidth\" style=\"max-width:100.0vw; max-height:91.1vw;\" srcset=\"https://www.jefftk.com/otamatones-ruthie-and-nora.jpg 550w,https://www.jefftk.com/otamatones-ruthie-and-nora-2x.jpg 1100w\"><div style=\"height:min(91.1vw, 501px)\" class=\"image-vertical-spacer\"></div></a>\n\n</p>\n\n<p>\n\nThey're a lot of fun, but I haven't yet figured out if it's an\ninstrument I'll ever be able to reliably play in tune.\n\n</p>\n\n<p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/iiqdO4ireic\" title=\"YouTube v",
+        "id": 1823024,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/playing-with-otamatones",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Playing with Otamatones",
+        "vote": 0
+    }
+]

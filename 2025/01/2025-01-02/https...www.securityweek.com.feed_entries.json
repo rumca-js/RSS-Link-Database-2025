@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-02T14:27:07+00:00",
+        "description": "<p>US soldier Cameron John Wagenius was arrested and charged over his suspected connection to presidential phone records leaks.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-arrests-charges-army-soldier-suspected-of-extorting-att-verizon/\">US Arrests Army Soldier Over AT&amp;T, Verizon Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+        "id": 1820731,
+        "language": "en-US",
+        "link": "https://www.securityweek.com/us-arrests-charges-army-soldier-suspected-of-extorting-att-verizon",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 299,
+        "source_url": "https://www.securityweek.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "US Arrests Army Soldier Over AT&T, Verizon Hacking",
+        "vote": 0
+    }
+]

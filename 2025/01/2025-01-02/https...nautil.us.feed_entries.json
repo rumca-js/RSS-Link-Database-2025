@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-02T21:13:05+00:00",
+        "description": "<p>The resemblance isn\u2019t just a comical coincidence.</p>\n<p>The post <a href=\"https://nautil.us/why-do-some-people-look-like-their-dogs-1175313/\">Why Do Some People Look Like Their Dogs?</a> appeared first on <a href=\"https://nautil.us\">Nautilus</a>.</p>",
+        "id": 1823728,
+        "language": "en-US",
+        "link": "https://nautil.us/why-do-some-people-look-like-their-dogs-1175313",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 232,
+        "source_url": "https://nautil.us/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Why Do Some People Look Like Their Dogs?",
+        "vote": 0
+    }
+]
