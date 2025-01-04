@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-03T12:53:25+00:00",
+        "description": "The allegations about Siri contradict Apple's long-running commitment to\u00a0protecting the privacy\u00a0of its customers.",
+        "id": 1827072,
+        "language": "en-UK",
+        "link": "https://time.com/7204493/apple-to-pay-95-million-settle-lawsuit-siri-eavesdropping",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Apple to Pay $95 Million to Settle Lawsuit Accusing Siri of Eavesdropping. What to Know",
+        "vote": 0
+    }
+]

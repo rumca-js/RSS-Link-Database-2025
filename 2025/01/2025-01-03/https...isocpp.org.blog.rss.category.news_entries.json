@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-03T18:08:03+00:00",
+        "description": "<p>\n\t<img alt=\"\" src=\"https://isocpp.org/files/img/coralkashri.jpeg\" style=\"width: 150px; height: 150px; float: right;\" />We all know that every &lsquo;,&rsquo; matters in this language, so I decided to talk directly about that character today. So, how much impact can be for such a small little character?</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://cppsenioreas.wordpress.com/2024/10/21/its-just-comma-the-comma-operator-cpp/\">It&rsquo;s just &lsquo;,&rsquo; &ndash; The Comma Operator</a></h3>\n\t<p>\n\t\tby Coral Kashri</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\tThis operator comes from C, where it tells the compiler to evaluate all the expressions (left to right) and to return the result of the latest evaluated expression. For example:</blockquote>\n<blockquote>\n\t<div>\n\t\t<code>&nbsp; &nbsp; &nbsp;int</code> <code>a, b;</code></div>\n\t<div>\n\t\t<code>&nbsp; &nbsp; &nbsp;a = 5, b = 4, b += a, ++a, std::cout &lt;&lt; b &lt;&lt; </code><code>\" \"</code> <code>&lt;&lt; a; </code><code",
+        "id": 1829449,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/01/its-just-the-comma-operator-coral-kashri",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "It\u2019s just \u2018,\u2019 \u2013 The Comma Operator -- Coral Kashri",
+        "vote": 0
+    }
+]

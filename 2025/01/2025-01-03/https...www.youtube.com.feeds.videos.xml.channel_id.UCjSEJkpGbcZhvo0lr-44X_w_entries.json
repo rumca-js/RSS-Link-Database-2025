@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-03T19:04:14+00:00",
+        "description": "Beaver Habit is a self-hosted habit tracking app without \"Goals\". Simple list, calendar, check system to keep on daily habits and tasks.\n\n\ud83d\udcd6 RESOURCES\nGithub: https://github.com/daya0576/beaverhabits\nMy Compose: https://gist.github.com/TechHutTV/78676fa37ca600f3be8dfc0da74a835a\n\n\ud83c\udfc6FOLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4fSUPPORT TECHHUT (all links below this line will earn us commission)\nBUY ME A COFFEE: https://buymeacoffee.com/techhut\nAIRVPN: https://airvpn.org/?referred_by=673908\nHOSTINGER: https://bit.ly/techhut-hostinger\nYOUTUBE MEMBER: https://bit.ly/members-techhut\n\n\ud83d\udcf7MY GEAR (PAID LINKS)\nMinisForum Tablet: https://amzn.to/3SeMmds\nBeelink N200: https://amzn.to/3xZjeQs\nLattePanda Sigma: https://amzn.to/3xZjpv6\nRaspberry Pi 5: https://amzn.to/4f3yUCN",
+        "id": 1830100,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=BP0j01q2c7M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BP0j01q2c7M/hqdefault.jpg",
+        "title": "simple OPEN SOURCE Habit Tracking App",
+        "vote": 0
+    }
+]

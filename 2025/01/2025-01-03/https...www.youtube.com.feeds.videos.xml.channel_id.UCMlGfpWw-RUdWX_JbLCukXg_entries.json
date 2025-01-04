@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-03T15:07:06+00:00",
+        "description": "https://cppcon.org\u200b\nCppCon 2024 Early Access: https://cppcon.org/early-access\nAccess All 2024 Session Videos Ahead of Their Official Release To YouTube. At least 30 days exclusive access through the Early Access system. Videos will be released to the CppCon channel on a schedule of one video per business day, with initial releases starting in November.\n---\n\nEmbracing an Adversarial Mindset for C++ Security - Amanda Rousseau - CppCon 2024\n---\n\nIn an era where cybersecurity threats are ever-evolving, securing C++ applications has never been more critical. This keynote will explore how adopting an adversarial mindset can empower developers to proactively identify and mitigate vulnerabilities. We will delve into common C++ vulnerabilities, the \u201cRule of Two\u201d security guidelines, and practical strategies for reducing attack surfaces and defending against attack vectors. Additionally, we will discuss recent trends in vulnerabilities, highlight bug bounty costs, and examine real-world exampl",
+        "id": 1828153,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=glkMbNLogZE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/glkMbNLogZE/hqdefault.jpg",
+        "title": "Embracing an Adversarial Mindset for C++ Security - Amanda Rousseau - CppCon 2024",
+        "vote": 0
+    }
+]

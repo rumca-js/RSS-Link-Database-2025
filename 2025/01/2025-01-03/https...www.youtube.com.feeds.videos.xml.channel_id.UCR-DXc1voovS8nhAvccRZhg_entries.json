@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-03T15:00:12+00:00",
+        "description": "Thanks to System76 and Micro Center, the fastest Arm PC is complete!\n\nShop Micro Center's Winter Savings Event: https://micro.center/8dh0\nShop Micro Center's Selection of Workstation GPUs: https://micro.center/490e1a\nShop Micro Center's wide selection of Networking Equipment: https://micro.center/9jw5\nSign-Up for Early Access to Micro Center Santa Clara: https://micro.center/cde3ae\n\nHUGE thanks to System76 and Ampere for providing the system for review, and to Micro Center for providing the graphics card upgrades.\n\nSome of the resources mentioned in this video:\n\n  - System76 Thelio Astra: https://system76.com/desktops/thelio-astra-a1-n1/configure\n  - My FULL benchmarking results: https://github.com/geerlingguy/sbc-reviews/issues/53\n  - Top500 HPL benchmark results: https://github.com/geerlingguy/top500-benchmark/blob/master/README.md#results\n  - Phoronix's comparison with Threadripper: https://www.phoronix.com/review/system76-thelio-astra/2\n\nNote: The dual 25 Gbps Ethernet and built-",
+        "id": 1827897,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=AshDjtlV6go",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AshDjtlV6go/hqdefault.jpg",
+        "title": "System76 accidentally built the fastest Windows Arm PC",
+        "vote": 0
+    }
+]

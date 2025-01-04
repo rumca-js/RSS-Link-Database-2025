@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-03T11:14:15.860685+00:00",
+        "description": "W zwi\u0105zku z poniedzia\u0142kowym \u015awi\u0119tem Trzech Kr\u00f3li przelewy bankowe zlecone w pi\u0105tek 3 stycznia br. po godz. 16. trafi\u0105 na konta dopiero we wtorek 7 stycznia br. - przypomnia\u0142a w pi\u0105tek Krajowa lzba Rozliczeniowa. Klienci bank\u00f3w mog\u0105 w dni \u015bwi\u0105teczne skorzysta\u0107 z systemu Express Elixir.",
+        "id": 1826203,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/lepiej-przelew-zlecic-wczesniej-przed-nami-dluga-przerwa",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Lepiej przelew zleci\u0107 wcze\u015bniej. Przed nami d\u0142u\u017csza przerwa",
+        "vote": 0
+    }
+]

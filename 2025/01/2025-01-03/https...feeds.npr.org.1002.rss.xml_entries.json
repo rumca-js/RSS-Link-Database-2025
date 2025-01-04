@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-03T16:38:21+00:00",
+        "description": "The beloved blue locomotive was first imagined in the 1940s \u2014 he starred in stories Rev. Wilbert Awdry told his son. Allcroft adapted Awdry's <em>The Railway Series </em>into <em>Thomas the Tank Engine & Friends.</em>",
+        "id": 1830408,
+        "language": "en",
+        "link": "https://www.npr.org/2025/01/03/nx-s1-5247462/thomas-the-tank-engine-britt-allcroft-dead",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Britt Allcroft, who brought Thomas the Tank Engine to television, dies at 81",
+        "vote": 0
+    }
+]

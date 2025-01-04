@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-03T07:03:45+00:00",
+        "description": "December 2024 saw the second highest percentage of Steam gamers using a VR headset ever, when adjusted for Chinese users.",
+        "id": 1828140,
+        "language": null,
+        "link": "https://www.uploadvr.com/steamvr-near-record-use-december-2024",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 375,
+        "source_url": "https://www.uploadvr.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.uploadvr.com/content/images/2025/01/SteamVR.png",
+        "title": "SteamVR Saw Near-Record Usage In December",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-03T10:03:00+00:00",
+        "description": "That&#8217;s the first question. The second question is, &#8220;how do we make it work better?&#8221; These two questions, patiently repeated, lead to incremental improvement and an understanding of reality. The opposite approach is, &#8220;because I said so.&#8221; Reality might not care what you want.",
+        "id": 1825909,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/01/does-it-work",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u201cDoes it work?\u201d",
+        "vote": 0
+    }
+]
