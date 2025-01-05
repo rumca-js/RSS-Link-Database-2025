@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-04T16:59:57+00:00",
+        "description": "The weapons consignment, which needs approval from House and Senate committees, includes air-to-air missiles.",
+        "id": 1833995,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cpvne94v1rdo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a85/live/5e50d150-cab9-11ef-8449-159a99d87232.jpg",
+        "title": "Biden plans to send $8bn arms shipment to Israel",
+        "vote": 0
+    }
+]

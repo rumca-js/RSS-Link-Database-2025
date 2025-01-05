@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-04T03:25:04+00:00",
+        "description": "Epyka uncovers the mystery of Earth&#39;s first civilization in a VR puzzle adventure next week on Quest.",
+        "id": 1832722,
+        "language": null,
+        "link": "https://www.uploadvr.com/epyka-vr-release-date",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 375,
+        "source_url": "https://www.uploadvr.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.uploadvr.com/content/images/2025/01/unnamed--2-.png",
+        "title": "Epyka Promises A Magical VR Puzzle Adventure Soon On Quest",
+        "vote": 0
+    }
+]

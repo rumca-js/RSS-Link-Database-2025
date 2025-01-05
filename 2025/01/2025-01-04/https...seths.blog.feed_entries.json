@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-04T09:41:00+00:00",
+        "description": "We all make mistakes. We all do things that we then realize weren&#8217;t in our interest, or useful to the community. If we do it a second time, it&#8217;s worth taking a hard look at the system that set us up for failure. How did the system get here? Who benefits? When we can see [&#8230;]",
+        "id": 1832358,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/01/the-system-has-fingerprints",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The system has fingerprints",
+        "vote": 0
+    }
+]

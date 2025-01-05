@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-04T07:00:00+00:00",
+        "description": "The streaming platform is free this weekend for anybody who has an Apple ID.  I'm not here to tell you to pick this service over any other \u2014 but I can offer a little advice on how to maximize the next few days.",
+        "id": 1833433,
+        "language": "en",
+        "link": "https://www.npr.org/2025/01/04/nx-s1-5247735/best-apple-tv-streaming",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Apple TV+ is free this weekend. Here's what we'd watch",
+        "vote": 0
+    }
+]

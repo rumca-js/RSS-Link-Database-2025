@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-04T07:03:22.130647+00:00",
+        "description": "W 2025 roku nauczyciele otrzymaj\u0105 podwy\u017cki na poziomie pi\u0119ciu procent. Maj\u0105 by\u0107 zrealizowane w terminie maksymalnie trzech miesi\u0119cy od og\u0142oszenia ustawy bud\u017cetowej na 2025 rok i b\u0119d\u0105 wyp\u0142acane z wyr\u00f3wnaniem od stycznia.",
+        "id": 1831836,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/oswiata-i-nauczyciele/art41642721-podwyzki-dla-nauczycieli-w-2025-roku-o-ile-i-od-kiedy-wzrosna-pensje",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Podwy\u017cki dla nauczycieli w 2025 roku. O ile i od kiedy wzrosn\u0105 pensje?",
+        "vote": 0
+    }
+]

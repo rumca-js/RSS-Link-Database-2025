@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-04T17:59:25+00:00",
+        "description": "A now-fixed vulnerability in the open-source vulnerability scanner Nuclei could potentially allow attackers to bypass signature verification while sneaking malicious code into templates that execute on local systems. [...]",
+        "id": 1835437,
+        "language": "en-US",
+        "link": "https://www.bleepingcomputer.com/news/security/nuclei-flaw-bypasses-template-signature-checks-to-execute-commands",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 40,
+        "source_url": "https://www.bleepingcomputer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nuclei flaw bypasses template signature checks to execute commands",
+        "vote": 0
+    }
+]

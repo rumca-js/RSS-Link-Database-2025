@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eli the Computer Guy",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-04T13:52:24+00:00",
+        "description": "RSVP for Classes at - http://www.SiliconDojo.com\n\nSupport Classes at - https://donorbox.org/etcg\nFind All Classes at - https://www.elithecomputerguy.com\nLinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/\n\nCode and Notes -\n\nSo you want to be a programer, but have no idea what that actually means. This class will go over the core concepts of programming in general to give students a better idea of how to write programs and be able to deploy solutions.\n\nProgramming requires an understanding of what languages are appropriate for which tasks. How to determine requirements for a programming project. How to design the look and flow of a projects, and then how to deploy the finished work. We will go over these core concepts so that students feel more comfortable writing code whether it's in Node.js or Pearl...\n\nThe class will go over:\n\nWhat are programming languages\nWhat are tech stacks\nPseudocode\nWire Framing\nWaterfall vs Agile Methodology\nUI vs UX vs Design\nAPI's\nArchitectur",
+        "id": 1833296,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=56g7OwHihqY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 102,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD4EOyXKjfDUhCI6jlOZZYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/56g7OwHihqY/hqdefault.jpg",
+        "title": "Introduction to Programming",
+        "vote": 0
+    }
+]

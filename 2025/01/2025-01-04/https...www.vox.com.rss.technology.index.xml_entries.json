@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-04T06:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Elon Musk wears a black leather jacket and holds up a pair of black aviator sunglasses to his eyes. Behind him, Donald Trump looks on wearing a suit and a red \u201cMake America Great Again\u201d baseball cap. \" data-caption=\"US President-elect Donald Trump and Elon Musk watch the launch of the sixth test flight of the SpaceX Starship rocket on November 19, 2024, in Brownsville, Texas. | Brandon Bell/Getty Images\" data-portal-copyright=\"Brandon Bell/Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2024/11/gettyimages-2185933741.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>US President-elect Donald Trump and Elon Musk watch the launch of the sixth test flight of the SpaceX Starship rocket on November 19, 2024, in Brownsville, Texas. | Brandon Bell/Getty Images</figcaption>\n</figure>\n<p class=\"has-text-align-none\">On New Year\u2019s Eve, America\u2019s most prominent nativist declared that the nation needs mo",
+        "id": 1832725,
+        "language": null,
+        "link": "https://www.vox.com/politics/393172/trump-musk-immigration-h1b-visas-loomer-bannon",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trump and Musk actually made a good point on immigration",
+        "vote": 0
+    }
+]

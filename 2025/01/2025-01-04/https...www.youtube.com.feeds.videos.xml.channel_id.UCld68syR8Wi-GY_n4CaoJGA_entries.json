@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-04T20:00:15+00:00",
+        "description": "The other day I did a video on the Adobe reader flatpak and I noticed an odd commit that was present but what I didn't realize is that most other flatpaks also have that exact same commit.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nSubmission Guidelines: https://docs.flathub.org/docs/for-app-authors/submission/\nOld Guidelines: https://github.com/flathub/flathub/wiki/Submission-Guidelines/7601c54a638fcd02519902289a2d7f6cb3ad27b3\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 Mastodon: https://brodierobertson.xyz/masto",
+        "id": 1835065,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=TP36DcqT3X4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TP36DcqT3X4/hqdefault.jpg",
+        "title": "Why Does Every Flatpak Have This Commit??",
+        "vote": 0
+    }
+]

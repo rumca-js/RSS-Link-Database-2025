@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-04T19:26:11+00:00",
+        "description": "The U.S. Treasury Department sanctioned Chinese cybersecurity firm Integrity Tech for its involvement in attacks attributed to the Flax Typhoon group. The U.S. Treasury sanctioned a Chinese cybersecurity firm, Integrity Tech, for links to cyberattacks by China\u2019s state-backed Flax Typhoon APT group (also called\u00a0Ethereal Panda\u00a0or RedJuliett). The China-linked APT group used Integrity Tech&#8217;s infrastructure to [&#8230;]",
+        "id": 1834825,
+        "language": "en-US",
+        "link": "https://securityaffairs.com/172665/intelligence/us-sanctioned-chinese-cybersecurity-firm-linked-flax-typhoon.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 298,
+        "source_url": "https://securityaffairs.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "US Treasury Department sanctioned Chinese cybersecurity firm linked to Flax Typhoon APT",
+        "vote": 0
+    }
+]
