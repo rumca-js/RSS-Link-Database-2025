@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-05T12:35:00+00:00",
+        "description": "Tech companies say \u201cAI agents\u201d are the next big thing in artificial intelligence after chatbots. Early versions have unresolved privacy and security flaws.",
+        "id": 1837591,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2025/01/05/agents-ai-chatbots-google-mariner",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AI\u2019s next leap requires intimate access to your digital life",
+        "vote": 0
+    }
+]

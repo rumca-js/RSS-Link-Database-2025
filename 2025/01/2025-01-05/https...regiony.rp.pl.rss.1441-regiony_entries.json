@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-05T08:02:32.823886+00:00",
+        "description": "Trzej Kr\u00f3lowie wraz z orszakami dw\u00f3rek i rycerzy wyrusz\u0105 6 stycznia, w samo po\u0142udnie, sprzed pomnika Miko\u0142aja Kopernika na Krakowskim Przedmie\u015bciu w Warszawie. Tradycyjne Orszaki Trzech Kr\u00f3li przejd\u0105 tak\u017ce ulicami innych miast i wsi w Polsce.",
+        "id": 1836541,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/z-regionow/art41645471-ulicami-polskich-miast-przejda-orszaki-trzech-kroli",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ulicami polskich miast przejd\u0105 Orszaki Trzech Kr\u00f3li",
+        "vote": 0
+    }
+]

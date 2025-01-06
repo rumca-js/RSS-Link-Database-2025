@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Cherno",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-05T10:30:10+00:00",
+        "description": "Hostinger's New Year's Resolutions sale is NOW ON! Use coupon code CHERNO to get an additional 10% discount \u25ba https://hostinger.com/cherno\n\nPatreon \u25ba https://patreon.com/thecherno\nInstagram \u25ba https://instagram.com/thecherno\nTwitter \u25ba https://twitter.com/thecherno\nDiscord \u25ba https://discord.gg/thecherno\n\n\ud83d\udd17 LINKS\nCubed \u25ba  https://github.com/TheCherno/Cubed\nWalnut (dev branch) \u25ba https://github.com/StudioCherno/Walnut/tree/dev\nGit \u25ba https://git-scm.com/downloads\nFork (Git client) \u25ba https://git-fork.com/\n\nHazel \u25ba https://hazelengine.com\n\ud83d\udd79\ufe0f Play our latest game FREE (made in Hazel!) \u25ba https://studiocherno.itch.io/dichotomy\n\n\ud83c\udf0f Need web hosting? \u25ba https://hostinger.com/cherno\n\n\ud83d\udcda CHAPTERS\n00:00 - Intro + FAQ\n06:28 - Project Setup (Git, Walnut, submodules, VPS)\n14:51 - Build system setup (Premake)\n16:26 - Client and Headless Server project setup\n29:12 - Building and running our projects\n35:56 - Setting up our client as a game\n38:02 - Preliminary rendering\n43:36 - Application layers\n48:05 - Play",
+        "id": 1837235,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=W1MSxy90BLg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 419,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-W1KE9EYfdxhL6S4twUNw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/W1MSxy90BLg/hqdefault.jpg",
+        "title": "C++ 3D MULTIPLAYER GAME FROM SCRATCH // LIVE TUTORIAL",
+        "vote": 0
+    }
+]

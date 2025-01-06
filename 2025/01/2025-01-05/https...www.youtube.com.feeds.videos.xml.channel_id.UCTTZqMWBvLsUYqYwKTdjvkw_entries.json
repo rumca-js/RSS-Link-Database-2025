@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-05T17:00:24+00:00",
+        "description": "\u2604\ufe0f Par\u0119 odcink\u00f3w temu pope\u0142ni\u0142em niezmiernie ciekaw\u0105, przynajmniej moim zdaniem, rozmow\u0119 z Ondrejem i Robertem z ESETa. Rozmawiali\u015bmy o tym w jaki spos\u00f3b badacze ustalaj\u0105 kto przez kogo zosta\u0142 zaatakowany. Bo to przecie\u017c nie mo\u017ce by\u0107 zawsze wina ruskich, prawda? No, dzi\u015b b\u0119dzie.\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udcc3\u00a0ESET Research investigates the Gamaredon APT group: Cyberespionage aimed at high-profile targets in Ukraine and NATO countries\nhttps://www.eset.com/int/about/newsroom/press-releases/research/eset-research-investigates-the-gamaredon-apt-group-cyberespionage-aimed-at-high-profile-targets-in-ukraine-and-nato-countries-1/\n\n\ud83d\udc40\u00a0 Telegram launches Telegraph, an anonymous blogging platform\nhttps://www.theverge.com/2016/11/23/13728726/telegram-anonymous-blogging-platform-telegraph\n \nRelevant xkcd: https://xkcd.com/525/\n \n\u00a9 Wszystkie znaki handlowe nale\u017c\u0105 do ich prawowitych w\u0142a\u015bcicieli.\n\u2764\ufe0f Dzi\u0119kuj\u0119 za Wasz\u0105 uwag\u0119.\n \nZnajdziecie mnie r\u00f3wnie\u017c na:\nInstagramie @mateuszemsi https://www.instagram.com/mateuszemsi/ ",
+        "id": 1838595,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=HBgvgQIuH7k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HBgvgQIuH7k/hqdefault.jpg",
+        "title": "Rosyjski wywiad atakuje Ukrain\u0119.",
+        "vote": 0
+    }
+]

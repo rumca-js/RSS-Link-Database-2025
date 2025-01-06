@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-05T14:00:07+00:00",
+        "description": "W tytule oczywi\u015bcie \u017c a r t,  bo wiadomo, \u017ce dla jednego gra to krapiszcze, a dla drugiego \u015awi\u0119ty Graal Nostalgii. Tymczasem, zapraszam was na kolejn\u0105 podr\u00f3\u017c po grach, kt\u00f3rych ju\u017c nie kupicie w wyj\u0105tkowej scenerii, kt\u00f3r\u0105 jest Zielona G\u00f3ra. Bo przegra\u0142em zak\u0142ad. \n\nNasz sklep z CD-Action Souls: sklep.cdaction.pl\n\nProwadzenie i scenariusz: Krzysztof \u201eBastian\u201d Freudenberger (http://twitter.com/BastianCDA)\nDawid \u201espikain\" Bojarski (http://twitter.com/spikain)\n\nMonta\u017c: Mateusz Pietrasiak",
+        "id": 1837830,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=5uJnQcBsYQ8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5uJnQcBsYQ8/hqdefault.jpg",
+        "title": "Gry, kt\u00f3rych ju\u017c nie kupicie (i dobrze)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-05T17:55:26+00:00",
+        "description": "Mullvad is Firefox, but enhanced for privacy, pretty interesting take as a cross-platform private browser app.",
+        "id": 1838901,
+        "language": null,
+        "link": "https://news.itsfoss.com/mullvad-browser-app",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://news.itsfoss.com/content/images/2025/01/mullvad-browser.png",
+        "title": "Mullvad Browser: A Super Privacy-Focused Browser Based on Firefox",
+        "vote": 0
+    }
+]

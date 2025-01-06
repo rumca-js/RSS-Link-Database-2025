@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-05T12:12:13.580563+00:00",
+        "description": "Do Dino Polska nale\u017cy ju\u017c prawie 2,7 tys. sklep\u00f3w, w 2024 uruchomiono ponad 280 nowych. Sie\u0107 ro\u015bnie w du\u017co szybszym tempie od Biedronki, kt\u00f3ra jednak dalej ma ok. tysi\u0105ca sklep\u00f3w wi\u0119cej.",
+        "id": 1837330,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/dino-sklepy-nowe-ile-zarabia-wlasciciel-tomasz-biernacki-2",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Dino goni Biedronk\u0119. Tyle sklep\u00f3w otworzy\u0142o przez rok",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Second Wind",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-05T17:12:45+00:00",
+        "description": "Follow Class Zero Seven here: https://store.steampowered.com/app/1752990/Class_Zero_Seven/\n\nSupport us on Patreon: https://www.patreon.com/SecondWindGroup\n\nSecond Wind Merch Store: https://sharkrobot.com/collections/second-wind",
+        "id": 1838807,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=3jqyK0jwI2E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 540,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1wZGocgLvopgOqBUFCyIJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3jqyK0jwI2E/hqdefault.jpg",
+        "title": "Class Zero Seven Is an Anime High School Brawler",
+        "vote": 0
+    }
+]

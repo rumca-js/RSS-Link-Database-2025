@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-05T16:57:09.022731+00:00",
+        "description": "\u200b\u200b\u200b\u200b\u200b\u200b",
+        "id": 1838501,
+        "language": "en",
+        "link": "https://www.gadgets360.com/mobiles/sponsored/the-peoples-smartphone-redmi-14c-5g-elevates-budget-style-and-entertainment-7406317",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 124,
+        "source_url": "https://feeds.feedburner.com/gadgets360-latest",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.gadgets360cdn.com/large/Redmi_14C_Gizbot_1080_x_1080_1736091789126.png",
+        "title": "The People's Smartphone: Redmi 14C 5G Elevates Budget Style and Entertainment",
+        "vote": 0
+    }
+]

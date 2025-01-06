@@ -1,0 +1,100 @@
+# Source:Linux, GNU/Linux, free software..., URL:https://www.reddit.com/r/linux/.rss, language:en
+
+## Is it just me or does it seem like Red hat missed an opportunity with virtualization?
+ - [https://www.reddit.com/r/linux/comments/1huhuz7/is_it_just_me_or_does_it_seem_like_red_hat_missed](https://www.reddit.com/r/linux/comments/1huhuz7/is_it_just_me_or_does_it_seem_like_red_hat_missed)
+ - RSS feed: $source
+ - date published: 2025-01-05T21:29:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>As I’m sure you’re all aware Red Hat Enterprise Virtualization is end of life in 2026. What really astounds me is how they could literally have been a serious competitor to VMware ESXi if they had played their cards right. They could be taking in serious piles of cash right now with organizations trying to migrate of VMware so like what gives? Why did they drop this project? I know they’re moving toward OpenShift but isn’t that just for Kubernetes and containers?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/StatementOwn4896"> /u/StatementOwn4896 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1huhuz7/is_it_just_me_or_does_it_seem_like_red_hat_missed/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1huhuz7/is_it_just_me_or_does_it_seem_like_red_hat_missed/">[comments]</a></span>
+
+## Oggi a Venezia
+ - [https://www.reddit.com/r/linux/comments/1huh8eg/oggi_a_venezia](https://www.reddit.com/r/linux/comments/1huh8eg/oggi_a_venezia)
+ - RSS feed: $source
+ - date published: 2025-01-05T21:03:07+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/souvlak_1"> /u/souvlak_1 </a> <br/> <span><a href="https://i.redd.it/uqybho6ct7be1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1huh8eg/oggi_a_venezia/">[comments]</a></span>
+
+## I think it's time to switching to Ubuntu Full-Time
+ - [https://www.reddit.com/r/linux/comments/1hudqre/i_think_its_time_to_switching_to_ubuntu_fulltime](https://www.reddit.com/r/linux/comments/1hudqre/i_think_its_time_to_switching_to_ubuntu_fulltime)
+ - RSS feed: $source
+ - date published: 2025-01-05T18:37:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Every year at the beginning of the year, I traditionally start my Linux desktop experiments to see how successful they will be this time. While I enjoy using Linux as a System Admin on servers, it has always caused me some issues on the desktop, and each time, I would end up returning to Windows. However, I’ve been using Ubuntu for a week now (my preference is Fedora, but since my laptop is certified for Ubuntu, I went with this choice — <a href="https://ubuntu.com/certified/202111-29683">Ubuntu Certified Laptop</a>). So far, I haven’t had any issues. In fact, almost all of the development tools I use (even Notepad++) of course except Visual Studio (not VSCode). And MS apllications Edge browser, MS Teams work flawlessly.</p> <p>I’m not experiencing any issues with daily internet usage on MS Edge, most of the games I play on Steam work well, and with GNOME, I’ve managed to replicate many of the nice features I got used to on macOS, albeit with a bit o
+
+## Windows vs Linux on My i5-8350U Laptop
+ - [https://www.reddit.com/r/linux/comments/1hudgb5/windows_vs_linux_on_my_i58350u_laptop](https://www.reddit.com/r/linux/comments/1hudgb5/windows_vs_linux_on_my_i58350u_laptop)
+ - RSS feed: $source
+ - date published: 2025-01-05T18:24:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve been using an HP EliteBook 840 G5 (i5-8350U, 16GB RAM) since 2023. For most of that time, I was your typical Windows user. But in July 2024, I decided to try Linux—and honestly, I haven’t looked back.</p> <p>This isn’t a full comparison between the two. That would take way longer to explain. But I wanted to share the main thing that pushed me away from Windows: <em>performance</em>.</p> <h1>Why I Switched</h1> <p>Let me start by saying my laptop isn’t a high-end device, but it’s not bad either. It’s perfectly fine for tasks like web browsing, working with PNGs, or even using older versions of Photoshop and Illustrator. But Windows—especially Windows 11—always felt like it was holding my laptop back.</p> <p>Simple things like opening the file manager or loading some images felt way slower than they should have been. Meanwhile, the same laptop could handle rendering in design software just fine. It didn’t make sense. How can a PC take longer than 
+
+## Affordable Mobile Device for Linux with 10-Hour Battery Life
+ - [https://www.reddit.com/r/linux/comments/1hu5q9e/affordable_mobile_device_for_linux_with_10hour](https://www.reddit.com/r/linux/comments/1hu5q9e/affordable_mobile_device_for_linux_with_10hour)
+ - RSS feed: $source
+ - date published: 2025-01-05T12:06:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I’m looking for a mobile device, similar in size to a Surface Pro 4, with around 10 hours of battery life, a keyboard, and a budget of 200–400 euros (It would be fine if it’s old or used.). Performance is secondary, but 8 GB of RAM would be nice. The main use cases are browsing, coding/scripting, and SSH.</p> <p>My current Surface Pro 4 only manages 5 hours on Linux, even when idle. Does anyone have a device with these specifications or tips on how to find out if a device can run Manjaro i3 for about 8–10 hours?</p> <p>Edit: Another plus would be if it’s very robust.</p> <p>Edit2:I’m not really asking you to find a device for me; what concerns me most is the question: how can I determine if a device can run Linux for like 10 hours?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Intelligent_Fudge207"> /u/Intelligent_Fudge207 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1hu5q9e/afforda
+
+## ThinkPad x220 and Coreboot
+ - [https://www.reddit.com/r/linux/comments/1hu5lww/thinkpad_x220_and_coreboot](https://www.reddit.com/r/linux/comments/1hu5lww/thinkpad_x220_and_coreboot)
+ - RSS feed: $source
+ - date published: 2025-01-05T11:58:47+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Faloin"> /u/Faloin </a> <br/> <span><a href="https://i.redd.it/22o5rgr306be1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1hu5lww/thinkpad_x220_and_coreboot/">[comments]</a></span>
+
+## Successful commercial apps running desktop Linux
+ - [https://www.reddit.com/r/linux/comments/1hu5azp/successful_commercial_apps_running_desktop_linux](https://www.reddit.com/r/linux/comments/1hu5azp/successful_commercial_apps_running_desktop_linux)
+ - RSS feed: $source
+ - date published: 2025-01-05T11:40:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi!</p> <p>I was wondering if you could help me in gathering a list of commercial applications that use a more or less traditional desktop Linux stack? SteamOS is the biggest standout success to me, but other than that I have trouble naming anything else, but I&#39;m sure there&#39;s tons of other stuff out there. Can you help me in gathering a few examples?</p> <p>I&#39;m looking for stuff that uses the traditional desktop stack, so things like routers don&#39;t count as they don&#39;t have GUI, and neither does Android-based stuff, since its very different from a typical Linux system besides the kernel.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoubleSteak7564"> /u/DoubleSteak7564 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1hu5azp/successful_commercial_apps_running_desktop_linux/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1hu5azp/successful_comm
+
+## URLs for the linux desktop
+ - [https://www.reddit.com/r/linux/comments/1hu4m8o/urls_for_the_linux_desktop](https://www.reddit.com/r/linux/comments/1hu4m8o/urls_for_the_linux_desktop)
+ - RSS feed: $source
+ - date published: 2025-01-05T11:01:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>When using Linux i noticed there are two categories of apps which implement desktop functionality id like to have implemented in Linux directly. Browsers and IDEs. Maybe there are even more but these are the ones i use.</p> <p>Lets start with browsers. The thing which makes browsers extremely useful is the concept of urls. Having human readable and editable urls is a bonus, but the ability to save the current navigation state of an website and reopen the app later with that exact same state is really powerful. Two other features it allows are &quot;Open in new Tab&quot; and sending the url to someone else. When i am searching for information, i am always using the browser instead of a dedicated app for the websites, since it allows me to open as many instances of the same website as i want and manage then in an efficient manner. I am not comparing web and native. I am just imagining native apps with urls.</p> <p>IDEs on the other hand do project mana
+
+## Introduced fiance to Mint and this was the result
+ - [https://www.reddit.com/r/linux/comments/1htz4ke/introduced_fiance_to_mint_and_this_was_the_result](https://www.reddit.com/r/linux/comments/1htz4ke/introduced_fiance_to_mint_and_this_was_the_result)
+ - RSS feed: $source
+ - date published: 2025-01-05T05:59:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know a lot would consider this unorthodox, but she&#39;s taken a lot of time customizing it, and she&#39;s happy with it. We finally have a linux household :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/StarryEyedNattyLight"> /u/StarryEyedNattyLight </a> <br/> <span><a href="https://i.redd.it/hiz9avj384be1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1htz4ke/introduced_fiance_to_mint_and_this_was_the_result/">[comments]</a></span>
+
+## What linuxdistro would be best for an original eMac?
+ - [https://www.reddit.com/r/linux/comments/1htypo0/what_linuxdistro_would_be_best_for_an_original](https://www.reddit.com/r/linux/comments/1htypo0/what_linuxdistro_would_be_best_for_an_original)
+ - RSS feed: $source
+ - date published: 2025-01-05T05:34:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently acquired an original eMac and I want to put linux on it. It has a 1 gigahertz cpu and one gigabyte of 133 megahertz sdram. I want to be able to browse the internet with minimal difficulties and possibly play some old games and software. If you all know any good linux distros that would allow me to do this please let me know of them or leave a link to them. Thank you.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/geForce6200agp"> /u/geForce6200agp </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1htypo0/what_linuxdistro_would_be_best_for_an_original/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1htypo0/what_linuxdistro_would_be_best_for_an_original/">[comments]</a></span>
+
+## Weighing the pros and cons of linux
+ - [https://www.reddit.com/r/linux/comments/1htxy4j/weighing_the_pros_and_cons_of_linux](https://www.reddit.com/r/linux/comments/1htxy4j/weighing_the_pros_and_cons_of_linux)
+ - RSS feed: $source
+ - date published: 2025-01-05T04:50:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello! I&#39;m going into computer science and I&#39;ve heard a lot of good things about linux lately, so I&#39;ve been thinking about making a switch. However, I&#39;ve still been apprehensive about a couple things. My main concerns are:</p> <ol> <li><p>Programs aren&#39;t often compatible with linux, and when they are, you have to jump through tons and tons of hoops just to get it to operate at all. Having to spend an hour just to open something would kill my motivation to do anything.</p></li> <li><p>Linux is delicate and not user friendly. The prospect of having to dive deep into tutorials and into the terminal to get the system running how I want it too, and having to do that all over again anytime something breaks seems harrowing.</p></li> <li><p>That it isn&#39;t worth the switch. I don&#39;t really have any changes I&#39;d want to make to the current UI I use and I struggle to visualize what a &quot;significant improvement&quot; to the perfor
+
+## One of the most important (back in the day flash) and then after effects animators is switching to linux
+ - [https://www.reddit.com/r/linux/comments/1htwmzh/one_of_the_most_important_back_in_the_day_flash](https://www.reddit.com/r/linux/comments/1htwmzh/one_of_the_most_important_back_in_the_day_flash)
+ - RSS feed: $source
+ - date published: 2025-01-05T03:38:02+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.youtube.com/watch?v=lm51xZHZI6g">https://www.youtube.com/watch?v=lm51xZHZI6g</a></p> <p>(Idk if this is the right sub but thought it might be cool to share it somewhere)</p> <p>You might know the guy because of his shortfilm &quot;tarboy&quot; (if not I strongly encourage you to look for it) but nowadays he produces this kind of opinion based content with heavily stylized stuff. The audio part got me investigating and I *may* be able to move my audio producing environment to linux with some wine magic and an extra tool. Stuff like this makes me happy. Srsly, this guy is no joke, hands down one of the best animators of his kind from that era and a great one when it comes to style.</p> <p>Also he&#39;s switching to davinci resolve, oh, and most importantly, to THE PENGUIN OS. This makes me happy.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Velascu"> /u/Velascu </a> <br/> <span><a href="htt
+
+## Linux for new Pixels when?
+ - [https://www.reddit.com/r/linux/comments/1htvokd/linux_for_new_pixels_when](https://www.reddit.com/r/linux/comments/1htvokd/linux_for_new_pixels_when)
+ - RSS feed: $source
+ - date published: 2025-01-05T02:47:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I recently got a Pixel 8a and am hoping to install postmarketOS on here when it releases and has a decent amount of working features including 3d acceleration. Just wondering when I can expect pmOS working? Apparently not even the Pixel 6 series works fully, and I feel like it has something to do with the Google&#39;s SoCs in here. I know my GPU isn&#39;t even supported by panfrost yet so it will take a while. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MicherReditor"> /u/MicherReditor </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1htvokd/linux_for_new_pixels_when/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1htvokd/linux_for_new_pixels_when/">[comments]</a></span>
+
+## What are some issues a Digital artist may run into trying to switch to Linux?
+ - [https://www.reddit.com/r/linux/comments/1htu747/what_are_some_issues_a_digital_artist_may_run](https://www.reddit.com/r/linux/comments/1htu747/what_are_some_issues_a_digital_artist_may_run)
+ - RSS feed: $source
+ - date published: 2025-01-05T01:31:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>Excuse me if this has been asked before. To expound on the above question:</p> <p>Windows 10 is losing support soon and I don&#39;t really like what I&#39;ve seen of Windows 11. I was thinking about looking more into Linux so I have something to jump ship in case. I&#39;m an illustrator and versed in many programs. I struggle with code languages (They take me a long time to learn and even then its wobbly).</p> <p>From the realistic point of view of someone who specializes in illustration and graphics, needs flexibility with both equipment and software, and whose greatest pinnacle of computer savvy is jailbreaking an iPod touch and running emulators, what are some issues I might encounter in a hypothetical switch to Linux?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GlassBlastoise"> /u/GlassBlastoise </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1htu747/what_are_some_issues_a_digital_artis
+

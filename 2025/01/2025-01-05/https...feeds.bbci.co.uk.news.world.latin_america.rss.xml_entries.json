@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-05T02:10:48+00:00",
+        "description": "Guatemala sends 150 soldiers to Haiti's capital to help a UN-backed force tackle powerful armed gangs.",
+        "id": 1835949,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c2ld49lqq5qo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db52/live/03141fe0-cafa-11ef-94cb-5f844ceb9e30.jpg",
+        "title": "Guatemalan forces arrive in Haiti to fight gangs",
+        "vote": 0
+    }
+]
