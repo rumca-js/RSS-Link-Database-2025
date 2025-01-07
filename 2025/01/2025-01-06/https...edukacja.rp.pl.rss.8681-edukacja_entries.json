@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-06T06:56:43.242216+00:00",
+        "description": "Zbli\u017caj\u0105cy si\u0119 zimowy wypoczynek dla dzieci i m\u0142odzie\u017cy b\u0119dzie ostatnim odbywaj\u0105cym si\u0119 wed\u0142ug od dawna obowi\u0105zuj\u0105cych zasad. W 2026 roku nast\u0105pi\u0105 bowiem zmiany w organizacji ferii zimowych. Wyja\u015bniamy, na czym b\u0119d\u0105 polega\u0142y.",
+        "id": 1841358,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/edukacja-i-wychowanie/art41638701-ferie-zimowe-2026-ze-zmianami-czy-uczniow-czeka-rewolucja",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ferie zimowe 2026 ze zmianami. Czy uczni\u00f3w czeka rewolucja?",
+        "vote": 0
+    }
+]

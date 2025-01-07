@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-06T15:07:07+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nDesigning C++ Code Generator Guardrails: A Collaboration Among Outreach and Development Teams and Users - CB Bailey & Sherry Sontag - CppCon 2024\n---\n\nThis is the story of a design collaboration between a member of our code governance team and a C++ developer leading the effort to update tools that generate C++ code from schema. Through a two year collaboration, we crafted guardrails to a complex system that allowed maximum flexibility to exist alongside common sense restrictions in a single system. We did so successfully thanks to the input and consensus of our huge C++ developer community. \n\nBloomberg's C++ code generator was created 18 years ago to simplify the task of writing services and code to call those services, freeing up engineers from writing boilerplate code and allowing them to concentrate on writing code that provides business value. The code generator is so popular that it is used beyond services, with hundreds of developers relying on it to a",
+        "id": 1844132,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=sAfUQUs_GbI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sAfUQUs_GbI/hqdefault.jpg",
+        "title": "Designing C++ Code Generator Guardrails: A Collaboration Among Outreach & Development Teams & Users",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-06T16:00:31+00:00",
+        "description": "Game companies make video games we like, but they also do things we don't like.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1     \n\n\n0:00 Intro \n0:17 Number 10\n2:39 Number 9\n5:02 Number 8\n6:55 Number 7\n9:06 Number 6\n10:43 Number 5\n12:47 Number 4\n15:23 Number 3\n17:57 Number 2\n20:47 Number 1",
+        "id": 1844620,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=SnfPYdEP18E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SnfPYdEP18E/hqdefault.jpg",
+        "title": "10 Game Company Moves That SUCKED",
+        "vote": 0
+    }
+]
