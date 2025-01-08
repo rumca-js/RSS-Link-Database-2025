@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-07T19:55:35+00:00",
+        "description": "JRE #2252 w/Wesley Huff\nYouTube: https://youtu.be/HwyAX69xG1Q\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 1854636,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=FRUzQCYDz5w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FRUzQCYDz5w/hqdefault.jpg",
+        "title": "Wesley Huff Gives Historical Take on The Death and Resurrection of Jesus",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-07T04:48:00+00:00",
+        "description": "US President Joe Biden calls Gonz\u00e1lez \"the true winner\" of Venezuela's presidential election.",
+        "id": 1848663,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cp31ellx2nvo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9218/live/5b9b3a90-cca3-11ef-9fd6-0be88a764111.jpg",
+        "title": "Biden meets exiled Venezuelan opposition candidate",
+        "vote": 0
+    }
+]

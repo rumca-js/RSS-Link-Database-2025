@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-07T22:00:00+00:00",
+        "description": "W najbli\u017cszych dniach, a na pewno do ko\u0144ca stycznia, proces sprawdzania przez przedsi\u0119biorc\u00f3w uprawnie\u0144 do jazdy b\u0119dzie zautomatyzowany \u2013 zapowiedzia\u0142 we wtorek wicepremier i minister cyfryzacji Krzysztof Gawkowski. Kilka dni temu m\u0119\u017cczyzna z s\u0105dowym zakazem prowadzenia pojazd\u00f3w, zatrudniony w firmie kurierskiej, \u015bmiertelnie potr\u0105ci\u0142 14-latka.",
+        "id": 1855671,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/firmy-latwiej-sprawdza-prawo-jazdy-pracownikow-po-tragedii-minister-cyfryzacji-zapowiada-zmiany",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Firmy \u0142atwiej sprawdz\u0105 prawo jazdy pracownik\u00f3w. Po tragedii minister cyfryzacji zapowiada zmiany",
+        "vote": 0
+    }
+]

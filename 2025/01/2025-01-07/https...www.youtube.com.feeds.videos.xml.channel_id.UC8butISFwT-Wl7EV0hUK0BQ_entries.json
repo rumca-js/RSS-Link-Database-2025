@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-07T14:55:24+00:00",
+        "description": "Improve your skills with spreadsheets by building 33 projects. Most can be done with Microsoft Excel or Google Sheets.\n\nCourse developed by @EamonnCottrell.\n\nProject Demo Sheets: https://docs.google.com/spreadsheets/d/1dEfgXu997gGy7rs9Qe3sTvil7kHyHZMM2eXvxsVYOfA/template/preview\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Intro\n\u2328\ufe0f (0:00:32) Create a Personal Finance Tracker\n\u2328\ufe0f (0:10:19) Create All Day Calendar Events\n\u2328\ufe0f (0:20:30) Auto Numbering in Excel\n\u2328\ufe0f (0:23:31) Create Dynamic Search Bar\n\u2328\ufe0f (0:29:33) Excel User Defined Functions\n\u2328\ufe0f (0:33:59) Apps Script Form to Calendar\n\u2328\ufe0f (0:42:45) Embed YouTube in Sheets\n\u2328\ufe0f (0:49:49) Send Email From Google Sheet\n\u2328\ufe0f (0:54:01) Automate Reminder Emails with Lido\n\u2328\ufe0f (1:05:19) Create Image Lightbox in Google Sheet\n\u2328\ufe0f (1:11:43) Create Travel Checklist in Sheets\n\u2328\ufe0f (1:22:08) Mail Merge with Lido\n\u2328\ufe0f (1:32:22) Regular Expressions in Excel\n\u2328\ufe0f (1:37:13) Table in Google Sheets finally\n\u2328\ufe0f (1:44:22) Create a Daily Taskmaster\n\u2328\ufe0f (1:49:03) Link Google Tables to Google Docs\n\u2328",
+        "id": 1851811,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=BBk3DXgodmI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BBk3DXgodmI/hqdefault.jpg",
+        "title": "33 Spreadsheet Projects Course for Beginners \u2013 Excel and Google Sheets",
+        "vote": 0
+    }
+]

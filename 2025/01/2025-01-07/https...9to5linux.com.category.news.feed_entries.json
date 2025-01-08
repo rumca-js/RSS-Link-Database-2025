@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-07T17:28:18+00:00",
+        "description": "<p>Firefox 135 open-source web browser is now available for public beta testing with XZ packaging for faster updates and many other changes. Here's what to expect!</p>\n<p>The post <a href=\"https://9to5linux.com/firefox-135-is-now-available-for-public-beta-testing-with-xz-packaging-on-linux\">Firefox 135 Is Now Available for Public Beta Testing with XZ Packaging on Linux</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>",
+        "id": 1853124,
+        "language": "en-US",
+        "link": "https://9to5linux.com/firefox-135-is-now-available-for-public-beta-testing-with-xz-packaging-on-linux",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Firefox 135 Is Now Available for Public Beta Testing with XZ Packaging on Linux",
+        "vote": 0
+    }
+]

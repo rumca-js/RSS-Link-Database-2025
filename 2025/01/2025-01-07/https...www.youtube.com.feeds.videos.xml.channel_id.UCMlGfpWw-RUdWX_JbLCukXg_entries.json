@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-07T15:07:06+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nVectorizing a Computational Fluid Dynamics (CFD) Code in C++ Using std::simd Supplemented by (Almost) Transparent Loading and Storing - Olaf Krzikalla - CppCon 2024\n---\n\nComputational Fluid Dynamics (CFD) codes are ubiquitous in high performance computing. Their computational demands require the use of all levels of parallelism provided by the hardware. This includes the SIMD units of today's processors, which provide one level of data parallelism. With `std::simd`, it becomes possible to address these units directly from C++.\n\nThe talk reports on our work on the vectorization of a CFD code. The focus will be primarily on the way we have expressed vectorization using `std::experimental::simd` and less on the achieved performance gains. In this context, we have developed a library that complements `std::simd`. The goal of this library is to make loading and saving `std::simd` variables syntactically equivalent to loading and saving their scalar counterparts. L",
+        "id": 1852490,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=r7T6JifMBkU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/r7T6JifMBkU/hqdefault.jpg",
+        "title": "Vectorizing Computational Fluid Dynamics (CFD) Code in C++ Using std::simd - Olaf Krzikalla - CppCon",
+        "vote": 0
+    }
+]

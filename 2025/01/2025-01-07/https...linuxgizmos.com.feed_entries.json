@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-07T05:08:07+00:00",
+        "description": "ASRock Industrial has announced the NUC(S) Ultra 200 BOX and Motherboard Series, powered by Intel Core Ultra 200H processors (Arrow Lake-H), offering up to 99 TOPS of AI inferencing for advanced computing applications. The NUC(S) Ultra 200 BOX Series integrates Intel&#8217;s hybrid performance architecture with Intel Arc GPUs and NPUs, offering a multitasking platform for [&#8230;]",
+        "id": 1848800,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/asrock-industrial-introduces-next-generation-nucs-ultra-200-series",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "ASRock Industrial Introduces Next-Generation NUC(S) Ultra 200 Series",
+        "vote": 0
+    }
+]

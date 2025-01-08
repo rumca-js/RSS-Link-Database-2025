@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-07T10:03:00+00:00",
+        "description": "When I made breakfast this morning, I didn&#8217;t begin by making the blender. Someone else, a team with more skills, resources and scale, built the blender. I simply bought it. That seems obvious&#8211;no one expects a from-scratch baker to make their own baking powder. And yet, our projects are rarely fine tuned around leverage. Begin [&#8230;]",
+        "id": 1849983,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/01/busy-ness-and-leverage",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Busy-ness and leverage",
+        "vote": 0
+    }
+]
