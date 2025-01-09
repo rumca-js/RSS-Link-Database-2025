@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-08T15:10:22+00:00",
+        "description": "It\u2019s surprisingly difficult to prove one of the most basic properties of a number: whether it can be written as a fraction. A broad new method can help settle this ancient question.            <p>The post <a href=\"https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/\" target=\"_blank\">Rational or Not? This Basic Math Question Took Decades to Answer.</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 1860030,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/01/Irationals-Gold-Rush_crSamuel-Velasco-Default.webp",
+        "title": "Rational or Not? This Basic Math Question Took Decades to Answer.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-08T15:07:05+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nHow to Use the Sender/Receiver Framework in C++ to Create a Simple HTTP Server - Dietmar K\u00fchl - CppCon 2024\n---\n\nThe sender/receiver framework for asynchronous operations in C++ is well on its way towards standardization in C++26. Previously, the theoretical background and implementation of the framework was shown but there wasn't much detail on how an application using sender/receiver would look like.\n\nThis presentation shows how to create a simple HTTP server using the sender/receiver framework with matching networking senders together with a coroutine task and and async scope. The code is created live using fundamental facilities. The goal is to demonstrate that the use of an asynchronous framework doesn't necessarily lead to excessive complexity when using C++'s facilities effectively. The resulting server could be embedded into any application, e.g., to inspect its state or change configurations. The takeaway is that it is reasonably straight forward to ",
+        "id": 1859985,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Nnwanj5Ocrw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Nnwanj5Ocrw/hqdefault.jpg",
+        "title": "How to Use the Sender/Receiver Framework in C++ to Create a Simple HTTP Server - Dietmar K\u00fchl - 2024",
+        "vote": 0
+    }
+]

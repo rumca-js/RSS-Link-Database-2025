@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-08T18:48:47+00:00",
+        "description": "Thundercomm has officially launched the RUBIK Pi 3, a Linux-compatible development board powered by the Qualcomm QCS6490 processor, at CES 2025 in Las Vegas. This board is designed for on-device AI, machine learning, and prototyping advanced applications across robotics and smart devices. The RUBIK Pi 3 builds on its predecessor&#8217;s capabilities, offering 12 Dense TOPS [&#8230;]",
+        "id": 1861816,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/rubik-pi-3-now-available-for-ordering-at-179-following-global-launch-at-ces-2025",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "RUBIK Pi 3 Now Available for Ordering at $179 Following Global Launch at CES 2025",
+        "vote": 0
+    }
+]

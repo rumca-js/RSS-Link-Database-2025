@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-08T15:01:07+00:00",
+        "description": "Two-time founder Rujul Zaparde knows a thing or two about resilience and learning from failure. After dropping out of college to build FlightCar, the AirBnB of car-sharing, he pivoted to become a product manager at Airbnb, and later a visiting partner at YC. In 2020, he co-founded Zip, a procurement software company that has since raised $370 million and reached a $2.2 billion valuation. In this conversation with managing partner Dalton Caldwell, Rujul demystifies the world of enterprise sales, shares his hard-earned lessons about scaling a business from zero and explains how founders can use first-principles thinking to better approach the challenges of building a startup.\n\nApply to Y Combinator: https://ycombinator.com/apply\n\nChapters (Powered by https://bit.ly/chapterme-yc) -\n00:00 - Intro\n01:45 - FlightCar\n10:00 - Airbnb\n14:30 - YC partner\n15:36 - Second startup\n18:16 - Sales\n20:30 - Pricing\n22:15 - Framework",
+        "id": 1860309,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=rjyJsbUunQ4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rjyJsbUunQ4/hqdefault.jpg",
+        "title": "Building A $2 Billion SaaS Company: Lessons From A Two Time Founder",
+        "vote": 0
+    }
+]

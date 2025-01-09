@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Titus Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-08T12:15:00+00:00",
+        "description": "Here is why SteamOS isn't coming to your PC anytime soon or ever.\n\nArticle: https://christitus.com/the-state-of-linux-gaming/\n\nLinux Gaming Videos:\nBazzite Overview: https://youtu.be/wdC_qiFoHN4?si=jYEif5bIvcoo2afb\nMini PC with RDNA3: https://youtu.be/vD5Lc2k82PE?si=j67VJr3Wh9iSj1VW\nNobara Overview: https://youtu.be/v3APRsnX8FA?si=HcZYSRwcNNQZGx3f\n.\n\n\u25ba\u25ba Digital Downloads \u279c https://www.cttstore.com\n\u25ba\u25ba Patreon \u279c https://www.patreon.com/christitustech\n\u25ba\u25ba Reddit \u279c https://www.reddit.com/r/ChrisTitusTech/\n\u25ba\u25ba Titus Tech Talk \u279c https://www.youtube.com/c/TitusTechTalk\n\u25ba\u25ba Twitch \u279c https://www.twitch.tv/christitustech",
+        "id": 1859004,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=0toWysEA3vs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 444,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0toWysEA3vs/hqdefault.jpg",
+        "title": "The ACTUAL State of Linux Gaming",
+        "vote": 0
+    }
+]

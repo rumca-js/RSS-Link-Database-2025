@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-08T15:35:43+00:00",
+        "description": "Get the LIMITED 2024 Disappointment Shirt in Cotton: https://store.gamersnexus.net/products/disappointment-pc-2024-oxidized-design-cotton\nOr in a highly breathable Tri-Blend! https://store.gamersnexus.net/products/disappointment-pc-2024-oxidized-design-triblend\nIn this video, we're tearing down and benchmarking an unreleased NVIDIA prototype GPU and cooler. The cooler was rumored for years to be an NVIDIA RTX Titan Ada, an RTX 4090 Ti, or some other unknown product. What we do know is that it's a test platform and a prototype, with both the most unique PCB we've ever seen for a video card and the most unique and complicated air cooling solution. This card goes for a total flow-through area, similar to what we're seeing on the NVIDIA RTX 5090 Founders Edition that was announced a few days ago, with a release date January 30, 2025. This prototype we're testing appears to be the genesis of the RTX 5090 2-slot design, with the prototype also relying heavily on minimizing obstructions to ",
+        "id": 1860893,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=lyliMCnrANI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lyliMCnrANI/hqdefault.jpg",
+        "title": "NVIDIA's Unreleased TITAN/Ti Prototype Cooler & PCB | Thermals, Acoustics, Tear-Down",
+        "vote": 0
+    }
+]

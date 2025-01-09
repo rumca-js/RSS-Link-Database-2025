@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-08T15:03:08+00:00",
+        "description": "Learn the essentials of working with AI in the cloud from @ExamProChannel. This comprehensive course covers the complete generative AI development lifecycle - from fundamental concepts through practical implementation, including prompt engineering, development tools, deployment, optimization, and advanced topics like RAGs and AI agents.\n\nMore course info: https://www.exampro.co/exp-genai-001\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n00:00:00 Introduction\n00:54:16 AI and ML Fundamentals\n03:02:21 Gen AI Primer\n03:32:55 Data and ML\n03:47:56 LLM Basics\n04:12:22 AI Powered Assistants\n04:24:42 Env Setup\n06:12:17 Prompt Engineering\n07:00:25 WorkBenches and Playgrounds\n07:44:09 Model as a Service\n08:36:26 LLM DevTools and Workflow\n11:52:07 AI Code Assistants\n14:04:37 App Prototyping\n17:21:06 Containers\n18:12:43 Serving\n18:19:51 AI Delivery Platform\n19:40:45 GenAI Hardware\n19:50:21 Framework\n19:51:49 LLM Customization\n19:52:35 SFT\n19:56:25 Size Optimization\n20:26:04 RAGS\n22:21:19 Agents\n\n\ud83c\udf89 Thanks to our Champion and S",
+        "id": 1859968,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=nJ25yl34Uqw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nJ25yl34Uqw/hqdefault.jpg",
+        "title": "GenAI Essentials \u2013 Full Course for Beginners",
+        "vote": 0
+    }
+]
