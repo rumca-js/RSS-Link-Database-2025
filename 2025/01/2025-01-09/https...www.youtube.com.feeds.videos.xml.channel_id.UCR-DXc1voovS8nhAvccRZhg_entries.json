@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-09T08:00:02+00:00",
+        "description": "Raspberry Pi's 16 GB Pi 5 completes their lineup: from 2 GB ($50) to 16 GB ($120).\n\nRaspberry Pi sent me the Pi 5 used in this video for testing and review. They did not pay me to make this video, nor have any editorial input or review before the video was live.\n\nMentioned in this video:\n\n  - Raspberry Pi 5: https://www.raspberrypi.com/products/raspberry-pi-5/\n  - 52Pi Armor Lite: https://52pi.com/products/armor-lite-v5\n  - All my Pi 5 16 GB benchmarks: https://github.com/geerlingguy/sbc-reviews/issues/21#issuecomment-2579400396\n  - D0 Stepping of BCM2712 SoC: https://www.jeffgeerling.com/blog/2024/new-2gb-pi-5-has-33-smaller-die-30-idle-power-savings\n  - SDRAM Tuning Benefits for Pi 5: https://www.jeffgeerling.com/blog/2024/raspberry-pi-boosts-pi-5-performance-sdram-tuning\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineeri",
+        "id": 1865329,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=apWi16EROKc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/apWi16EROKc/hqdefault.jpg",
+        "title": "Who would pay $120 for a Raspberry Pi?",
+        "vote": 0
+    }
+]

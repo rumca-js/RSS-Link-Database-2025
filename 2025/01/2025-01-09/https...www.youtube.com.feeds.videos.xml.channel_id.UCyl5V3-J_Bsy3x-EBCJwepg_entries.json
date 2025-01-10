@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-09T18:46:29+00:00",
+        "description": "California - it's one of the top states in the nation for lots of things, like gas prices, traffic, and blackouts. Visit California, and get a little glimpse into the future of any socialist nation.\n\n#california #gavinnewsom #america #comedy",
+        "id": 1870003,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=u9xrnoCobHk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/u9xrnoCobHk/hqdefault.jpg",
+        "title": "Visit California: It's America's Future",
+        "vote": 0
+    }
+]

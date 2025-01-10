@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-09T07:01:22.640083+00:00",
+        "description": "<p><a href=\"https://wydarzenia.interia.pl/dolnoslaskie/news-pracownicy-na-antydepresantach-historie-z-wroclawskiego-wios,nId,7887435\"><img src=\"https://i.iplsc.com/pracownicy-na-antydepresantach-historie-z-wroclawskiego-wios/000KEV5T04LNF9Y3-C321.jpg\" alt=\"Pracownicy na antydepresantach. Historie z wroc\u0142awskiego WIO\u015a\" align=\"left\" /></a>- Jestem w ci\u0119\u017ckim stanie, bior\u0119 antydepresanty. Ona niszczy wielu ludzi - m\u00f3wi pracownik wroc\u0142awskiego WIO\u015a. &quot;Ona&quot; to Beata Merenda - wojew\u00f3dzka inspektor ochrony \u015brodowiska na Dolnym \u015al\u0105sku. Kobieta zaprzecza, by \u017ale traktowa\u0142a pracownik\u00f3w. - Czuj\u0119 si\u0119 oczerniana - odpowiada na zarzuty stawiane przez jej podw\u0142adnych.</p><br clear=\"all\" />",
+        "id": 1864967,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/dolnoslaskie/news-pracownicy-na-antydepresantach-historie-z-wroclawskiego-wios,nId,7887435",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pracownicy na antydepresantach. Historie z wroc\u0142awskiego WIO\u015a",
+        "vote": 0
+    }
+]

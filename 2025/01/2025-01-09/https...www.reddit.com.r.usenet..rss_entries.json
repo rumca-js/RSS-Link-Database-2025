@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-09T01:05:47+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Tons of failures and overall slowness since I got back into using usenet. I don&#39;t have any problems with nzbplanet, but dognzb seems to be giving me constant issues.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dark_drake\"> /u/dark_drake </a> <br/> <span><a href=\"https://www.reddit.com/r/usenet/comments/1hx0jsm/are_there_issues_with_dognzb/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/usenet/comments/1hx0jsm/are_there_issues_with_dognzb/\">[comments]</a></span>",
+        "id": 1863884,
+        "language": null,
+        "link": "https://www.reddit.com/r/usenet/comments/1hx0jsm/are_there_issues_with_dognzb",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Are there issues with DogNZB?",
+        "vote": 0
+    }
+]

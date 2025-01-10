@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-09T13:20:25.446932+00:00",
+        "description": "Rz\u0105d Szwecji og\u0142osi\u0142 stan kryzysu czytelniczego, z kt\u00f3rym chce walczy\u0107 poprzez powr\u00f3t do tradycyjnych podr\u0119cznik\u00f3w w szko\u0142ach i rozwoju bibliotek w miejsce powszechnie stosowanych od lat narz\u0119dzi cyfrowych.",
+        "id": 1866840,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/za-granica/art41661601-kryzys-czytelniczy-w-szwecji-rzad-wytacza-walke-analfabetyzmowi-funkcjonalnemu",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Kryzys czytelniczy w Szwecji. Rz\u0105d wytacza walk\u0119 analfabetyzmowi funkcjonalnemu",
+        "vote": 0
+    }
+]

@@ -1,0 +1,142 @@
+# Source:Linux, GNU/Linux, free software..., URL:https://www.reddit.com/r/linux/.rss, language:en
+
+## 2025: The Year of COSMIC — Alpha 5 Released!
+ - [https://www.reddit.com/r/linux/comments/1hxpeux/2025_the_year_of_cosmic_alpha_5_released](https://www.reddit.com/r/linux/comments/1hxpeux/2025_the_year_of_cosmic_alpha_5_released)
+ - RSS feed: $source
+ - date published: 2025-01-09T22:39:54+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Owl_0wl"> /u/Owl_0wl </a> <br/> <span><a href="https://blog.system76.com/post/cosmic-alpha-5-released">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1hxpeux/2025_the_year_of_cosmic_alpha_5_released/">[comments]</a></span>
+
+## Tails Releases Critical Security Fixes to Protect User Anonymity
+ - [https://www.reddit.com/r/linux/comments/1hxnz3s/tails_releases_critical_security_fixes_to_protect](https://www.reddit.com/r/linux/comments/1hxnz3s/tails_releases_critical_security_fixes_to_protect)
+ - RSS feed: $source
+ - date published: 2025-01-09T21:36:50+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/trevor25"> /u/trevor25 </a> <br/> <span><a href="https://cyberinsider.com/tails-releases-critical-security-fixes-to-protect-user-anonymity/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1hxnz3s/tails_releases_critical_security_fixes_to_protect/">[comments]</a></span>
+
+## Essential CLI Tools for Developers
+ - [https://www.reddit.com/r/linux/comments/1hxnydh/essential_cli_tools_for_developers](https://www.reddit.com/r/linux/comments/1hxnydh/essential_cli_tools_for_developers)
+ - RSS feed: $source
+ - date published: 2025-01-09T21:35:57+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/der_gopher"> /u/der_gopher </a> <br/> <span><a href="https://packagemain.tech/p/essential-clitui-tools-for-developers">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1hxnydh/essential_cli_tools_for_developers/">[comments]</a></span>
+
+## Cheapest Linux Tablet
+ - [https://www.reddit.com/r/linux/comments/1hxnfzd/cheapest_linux_tablet](https://www.reddit.com/r/linux/comments/1hxnfzd/cheapest_linux_tablet)
+ - RSS feed: $source
+ - date published: 2025-01-09T21:13:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>The ONN 11&quot; tablet pro, (2024 model) based on the Qualcomm Snapdragon 685 SOC is available in the US for $129.You can now run Debian Bookworm XFCE based VolksPC desktop as an Android application. You will need to root the tablet. Here is a video clip of VolksPC desktop running on this tablet:</p> <p><a href="https://youtu.be/iCcYk7cWDrI?si=elEfh_idbn4LpdaI">https://youtu.be/iCcYk7cWDrI?si=elEfh_idbn4LpdaI</a></p> <p>You can download a free evaluation version from <a href="http://www.volkspc.org">www.volkspc.org</a> .</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Vasant1234"> /u/Vasant1234 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1hxnfzd/cheapest_linux_tablet/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1hxnfzd/cheapest_linux_tablet/">[comments]</a></span>
+
+## KDE Plasma 6.3 Beta Release
+ - [https://www.reddit.com/r/linux/comments/1hxm2ev/kde_plasma_63_beta_release](https://www.reddit.com/r/linux/comments/1hxm2ev/kde_plasma_63_beta_release)
+ - RSS feed: $source
+ - date published: 2025-01-09T20:15:04+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/diegodamohill"> /u/diegodamohill </a> <br/> <span><a href="https://kde.org/announcements/plasma/6/6.2.90/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1hxm2ev/kde_plasma_63_beta_release/">[comments]</a></span>
+
+## Thinking about switching to linux for my school laptop.
+ - [https://www.reddit.com/r/linux/comments/1hxibyj/thinking_about_switching_to_linux_for_my_school](https://www.reddit.com/r/linux/comments/1hxibyj/thinking_about_switching_to_linux_for_my_school)
+ - RSS feed: $source
+ - date published: 2025-01-09T17:38:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been experiencing battery issues with my laptop that I use for school work. Of course I could do a lot of tweaking to make my battery life longer, but I figured it would just be way easier to switch to a more efficient os. I&#39;m thinking debian because it&#39;s stable and lightweight, and I really can&#39;t afford anything breaking on this laptop so it&#39;s my best bet.</p> <p>I did my research, but I just want a last couple opinions before I make my decision. Is there anything, if at all, I should be aware of before throwing away windows? Anything colleges will ask me to do that can only be done in windows operating systems? Or just any opinions on the switch in general?</p> <p>I greatly appreciate your help.</p> <p>I don&#39;t use adobe btw.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Upstairs_Start6922"> /u/Upstairs_Start6922 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1hxi
+
+## HP OmniBook Ultra Flip 14 [Intel Lunar Lake] with Fedora 41 Linux
+ - [https://www.reddit.com/r/linux/comments/1hxi6js/hp_omnibook_ultra_flip_14_intel_lunar_lake_with](https://www.reddit.com/r/linux/comments/1hxi6js/hp_omnibook_ultra_flip_14_intel_lunar_lake_with)
+ - RSS feed: $source
+ - date published: 2025-01-09T17:32:16+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/RiccardoPP"> /u/RiccardoPP </a> <br/> <span><a href="https://i.redd.it/pvsptjz870ce1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1hxi6js/hp_omnibook_ultra_flip_14_intel_lunar_lake_with/">[comments]</a></span>
+
+## Playing the og Master of Magic on linux mint kinda blew my mind
+ - [https://www.reddit.com/r/linux/comments/1hxgv3x/playing_the_og_master_of_magic_on_linux_mint](https://www.reddit.com/r/linux/comments/1hxgv3x/playing_the_og_master_of_magic_on_linux_mint)
+ - RSS feed: $source
+ - date published: 2025-01-09T16:36:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>This was a DOS game originaly. It comes with the DOSBox emulator so it can be played on windows. The DOSBox emulator doesn&#39;t run on linux but surprisingly it runs on the compatability layer of Steam, Proton. So the game is tricked in order to be played on windows instead of DOS by DOSBox and at the same time it is tricked in order to be played on linux instead of windows by Proton. I didn&#39;t think such a thing would be possible.</p> <p><a href="https://preview.redd.it/qkkpfmyhwzbe1.png?width=1366&amp;format=png&amp;auto=webp&amp;s=b8d7c4cef6655bf93a840c41b6a45b75a219afa8">https://preview.redd.it/qkkpfmyhwzbe1.png?width=1366&amp;format=png&amp;auto=webp&amp;s=b8d7c4cef6655bf93a840c41b6a45b75a219afa8</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kostist"> /u/kostist </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1hxgv3x/playing_the_og_master_of_magic_on_linux_mint/">[link]</a></span
+
+## Linux Server Setup: A Beginner's Guide
+ - [https://www.reddit.com/r/linux/comments/1hxcddh/linux_server_setup_a_beginners_guide](https://www.reddit.com/r/linux/comments/1hxcddh/linux_server_setup_a_beginners_guide)
+ - RSS feed: $source
+ - date published: 2025-01-09T13:06:06+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/modelop"> /u/modelop </a> <br/> <span><a href="https://linuxblog.io/linux-server-setup-beginners-guide/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1hxcddh/linux_server_setup_a_beginners_guide/">[comments]</a></span>
+
+## Mecha Comet - Modular Linux Handheld Computer powered by Open-Source Software
+ - [https://www.reddit.com/r/linux/comments/1hxccxo/mecha_comet_modular_linux_handheld_computer](https://www.reddit.com/r/linux/comments/1hxccxo/mecha_comet_modular_linux_handheld_computer)
+ - RSS feed: $source
+ - date published: 2025-01-09T13:05:22+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/modelop"> /u/modelop </a> <br/> <span><a href="https://mecha.so/comet">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1hxccxo/mecha_comet_modular_linux_handheld_computer/">[comments]</a></span>
+
+## Embeddable Linux Kernel Subset - Linux for 8086
+ - [https://www.reddit.com/r/linux/comments/1hxccbo/embeddable_linux_kernel_subset_linux_for_8086](https://www.reddit.com/r/linux/comments/1hxccbo/embeddable_linux_kernel_subset_linux_for_8086)
+ - RSS feed: $source
+ - date published: 2025-01-09T13:04:27+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/modelop"> /u/modelop </a> <br/> <span><a href="https://github.com/ghaerr/elks">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1hxccbo/embeddable_linux_kernel_subset_linux_for_8086/">[comments]</a></span>
+
+## In 2004 I started my professional career in IT
+ - [https://www.reddit.com/r/linux/comments/1hxbi1e/in_2004_i_started_my_professional_career_in_it](https://www.reddit.com/r/linux/comments/1hxbi1e/in_2004_i_started_my_professional_career_in_it)
+ - RSS feed: $source
+ - date published: 2025-01-09T12:15:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>And here is the proof. SCO wasn&#39;t playing nice, and when I saw the hack I was able to download the webpage before it was removed. I have never seen a copy of this full page anywhere, in fact most people that remember the story say it was a myth. I found several old workstations that I had apparently virtualized way back then, and have dragged them kicking and screaming from 20 years ago to the present. The original HTML package is linked in a zip file on request. SCO Group tells us that &quot;We own all your code, pay us all your money&quot;</p> <p><a href="https://preview.redd.it/mhdsv01jjybe1.jpg?width=721&amp;format=pjpg&amp;auto=webp&amp;s=0d4299872384a080f6cee1a1d76db0f79faf636a">SCO Hacked page in all its glory</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/firewi"> /u/firewi </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1hxbi1e/in_2004_i_started_my_professional_career_in_it/">
+
+## Best Linux for ARM64 ?
+ - [https://www.reddit.com/r/linux/comments/1hx97ca/best_linux_for_arm64](https://www.reddit.com/r/linux/comments/1hx97ca/best_linux_for_arm64)
+ - RSS feed: $source
+ - date published: 2025-01-09T09:34:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>There just a few Linux distributions for ARM64/aarch64 architecture at this point.</p> <p>- Debian ARM<br/> - Ubuntu ARM<br/> - Arch ARM (not available as ISO)<br/> - Manjaro ARM<br/> - Asahi (not available as ISO)</p> <p>Did I miss any?</p> <p>With upcoming Snapdragon ARM CPUs I wonder, why there are &quot;just a few&quot; distros for this architecture.</p> <p>I love working on &quot;Silicon&quot; Macs for their good performance without fan noise, long battery time and overall low power consumption while being fast.</p> <p>So I am looking forward to all the upcoming ARM computers. But the distros are missing.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hans_Wurst_42"> /u/Hans_Wurst_42 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1hx97ca/best_linux_for_arm64/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1hx97ca/best_linux_for_arm64/">[comments]</a></spa
+
+## Linux and Windows on 2 separate drives.
+ - [https://www.reddit.com/r/linux/comments/1hx92ai/linux_and_windows_on_2_separate_drives](https://www.reddit.com/r/linux/comments/1hx92ai/linux_and_windows_on_2_separate_drives)
+ - RSS feed: $source
+ - date published: 2025-01-09T09:23:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a pc gaming machine with windows 10 on a 1tb m2 drive . I have a 1tb SSD too where I&#39;d like to put Linux Mint . I want to boot them separate without a boot menu on Win drive . I&#39;m a total noob don&#39;t really want to fiddle with the partition . Can I just pull the win m2 Win drive and install Linux on the SSD and then put the Win drive back and boot off the drive OS I want without Windows messing the boot etc up when I put it back ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mps_1969"> /u/mps_1969 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1hx92ai/linux_and_windows_on_2_separate_drives/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1hx92ai/linux_and_windows_on_2_separate_drives/">[comments]</a></span>
+
+## 16GB Raspberry Pi 5 on sale now at $120 USD
+ - [https://www.reddit.com/r/linux/comments/1hx85gu/16gb_raspberry_pi_5_on_sale_now_at_120_usd](https://www.reddit.com/r/linux/comments/1hx85gu/16gb_raspberry_pi_5_on_sale_now_at_120_usd)
+ - RSS feed: $source
+ - date published: 2025-01-09T08:12:15+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/KindOne"> /u/KindOne </a> <br/> <span><a href="https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1hx85gu/16gb_raspberry_pi_5_on_sale_now_at_120_usd/">[comments]</a></span>
+
+## high cpu usage results in sudden shutdown
+ - [https://www.reddit.com/r/linux/comments/1hx7bbm/high_cpu_usage_results_in_sudden_shutdown](https://www.reddit.com/r/linux/comments/1hx7bbm/high_cpu_usage_results_in_sudden_shutdown)
+ - RSS feed: $source
+ - date published: 2025-01-09T07:10:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>When I am running any `make` commands or docker containers for some development jobs like building a project, running the app/cluster in a docker container,,, my cpu usage gets high, fans rotates at high speed and then screen hangs and my laptop shutdowns suddenly.</p> <p>Earlier, it wasn&#39;t getting shutdown with high usage but now idk why it started to. Is it because of Linux? because it didn&#39;t managed the cpu well in terms of power supply, freq? I am using linux for 1 years.</p> <p>I think my laptop is not capable for these heavy usage but I can&#39;t buy a new one, I&#39;m still a student :) Looking for a way to fix it.</p> <pre><code>~ inxi -Fzx System: Kernel: 5.15.0-130-generic x86_64 bits: 64 compiler: gcc v: 11.4.0 Desktop: i3 4.20.1 Distro: Linux Mint 21.3 Virginia base: Ubuntu 22.04 jammy Machine: Type: Laptop System: LENOVO product: 82FG v: IdeaPad 5 15ITL05 serial: &lt;superuser required&gt; Mobo: LENOVO model: LNVNB161216 v: SDK0Q
+
+## Tumbleweed Monthly Update - December 2024
+ - [https://www.reddit.com/r/linux/comments/1hx6gql/tumbleweed_monthly_update_december_2024](https://www.reddit.com/r/linux/comments/1hx6gql/tumbleweed_monthly_update_december_2024)
+ - RSS feed: $source
+ - date published: 2025-01-09T06:10:51+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/gabriel_3"> /u/gabriel_3 </a> <br/> <span><a href="https://news.opensuse.org/2025/01/08/tw-monthly-update-december/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1hx6gql/tumbleweed_monthly_update_december_2024/">[comments]</a></span>
+
+## In a 911 mode here, I have no boot media and no OS. Etchdroid and a USB NVME enclosure ain't working.
+ - [https://www.reddit.com/r/linux/comments/1hx3lfh/in_a_911_mode_here_i_have_no_boot_media_and_no_os](https://www.reddit.com/r/linux/comments/1hx3lfh/in_a_911_mode_here_i_have_no_boot_media_and_no_os)
+ - RSS feed: $source
+ - date published: 2025-01-09T03:29:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>As per the title, had a catastrophe and my emergency ventoy USB drive has vanished.</p> <p>I do not have an OTG connector, but I do have two USB-C devices and an Ubuntu ISO on my phone.</p> <p>One is an M2 enclosure with a 500gb drive in it, Etchdroid DOES write to this successfully but it is not recognized as bootable by my Asus Z790 motherboard.</p> <p>The other is a Sandisk portable &quot;extreme&quot; 1TB storage drive, its never missed a beat, formatted it works on Android here as a storage device but when attempting to use Etchdroid my phone seemingly unmounts it, remounts it and requires a restart.</p> <p>Once upon a time this subreddit helped me pivot an Ubuntu live OS into a ramdisk so I could format the USB that I had booted from to install another OS on as it was my only USB drive at the time, so I come again looking for this kinda Macguyver knowledge.</p> <p>Thanks friends. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https
+
+## Should Old Acquaintance Be Forgot? What is your oldest hardware actively running Linux?
+ - [https://www.reddit.com/r/linux/comments/1hx2na8/should_old_acquaintance_be_forgot_what_is_your](https://www.reddit.com/r/linux/comments/1hx2na8/should_old_acquaintance_be_forgot_what_is_your)
+ - RSS feed: $source
+ - date published: 2025-01-09T02:45:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ll start.</p> <p>My self-built ASUS P7P55D-E-Pro mobo system has served as a router, and mail (Postfix), web (Apache), DNS (BIND authoritative and caching) and local file server continuously since 2011.</p> <p>Specs</p> <ul> <li>16 GB RAM (A decent amount in 2011)</li> <li>NVIDIA Corporation GT218 [GeForce 210] video card (passively cooled; no fan to fail; yay!)</li> <li>2 x 2 TB WD Black in Raid 1. Power_On_Hours: 72791 = 8.3 years. Great drives!</li> <li>currently running Debian 12</li> </ul> <p>I&#39;m sure someone can do better than this youngster.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheLinuxMailman"> /u/TheLinuxMailman </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1hx2na8/should_old_acquaintance_be_forgot_what_is_your/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1hx2na8/should_old_acquaintance_be_forgot_what_is_your/">[comments]</a></
+
+## Black Monitor after auto Screen Lock and Display Power Save Ez workaround
+ - [https://www.reddit.com/r/linux/comments/1hx11kd/black_monitor_after_auto_screen_lock_and_display](https://www.reddit.com/r/linux/comments/1hx11kd/black_monitor_after_auto_screen_lock_and_display)
+ - RSS feed: $source
+ - date published: 2025-01-09T01:30:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>HIT ESCAPE! and wake system again. </p> <p>on Arch btw but if one of your monitors won’t wake after screen lock / screen blank or power save Hit Escape to blank the screens again and wake your system again and your monitor should be detected this time. </p> <p>Pretty neat Esc blanks the screens at lockscreen. </p> <p>I’m sure hardcoding the screen is the fix but i haven’t attempted yet. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tapYinz"> /u/tapYinz </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1hx11kd/black_monitor_after_auto_screen_lock_and_display/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1hx11kd/black_monitor_after_auto_screen_lock_and_display/">[comments]</a></span>
+

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-09T20:23:20+00:00",
+        "description": "President Biden attended Jimmy Carter\u2019s funeral along with all four living former presidents\u2014Bill Clinton, Barack Obama, George W. Bush and President-elect Donald Trump. Vice President Kamala Harris and former Vice Presidents Al Gore and Mike Pence were also at the service at the Washington National Cathedral.\n\n#JimmyCarter #Politics #Shorts",
+        "id": 1870668,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=pJaB69o1orA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pJaB69o1orA/hqdefault.jpg",
+        "title": "Watch: Trump, Biden, Obama and Others Enter Jimmy Carter\u2019s Funeral",
+        "vote": 0
+    }
+]
