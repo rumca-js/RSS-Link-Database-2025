@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-10T17:41:34+00:00",
+        "description": "<p>A job listing for the Super Bowl LIX halftime show offers $12 per hour \u2014 part of a long pattern of host-city residents getting the short shrift.</p>\n<p>The post <a href=\"https://theintercept.com/2025/01/10/nfl-super-bowl-halftime-show-workers-pay/\">Super Bowl Halftime Show Is Recruiting Workers for Less Pay Than Fast-Food Servers</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 1877898,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/01/10/nfl-super-bowl-halftime-show-workers-pay",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/theintercept.com/wp-content/uploads/2025/01/GettyImages-2192412311-e1736373851625.jpg?w=1200",
+        "title": "Super Bowl Halftime Show Is Recruiting Workers for Less Pay Than Fast-Food Servers",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-10T11:01:15+00:00",
+        "description": "Open source is about people. See how global leaders at Open Source Congress 2024 are shaping the future of technology.\n\nDive into the full report: linuxfoundation.org/research",
+        "id": 1874873,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=vxHTKmVbISM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vxHTKmVbISM/hqdefault.jpg",
+        "title": "Open Source Congress 2024",
+        "vote": 0
+    }
+]

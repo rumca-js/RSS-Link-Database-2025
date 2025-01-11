@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-10T02:56:12+00:00",
+        "description": "https://www.magicleap.care/hc/en-us/articles/18878883445645-Magic-Leap-1-End-of-Life\n\nhttps://x.com/slukas/status/1697060352146715052\n\nhttps://old.reddit.com/r/magicleap/comments/1do4jq6/open_letter_to_magic_leap_regarding_ml1_eol/\n\nhttps://old.reddit.com/r/magicleap/comments/13kgpx4/magic_leap_one_hackability_and_end_of_support/\n\n\ud83d\udc49 Merchandise: https://store.rossmanngroup.com/memes-dreams.html\n\ud83d\udd35 Cheesy mugs & t-shirts: https://bit.ly/rossmannstore\n\n\ud83d\udc49 Rossmann chat: https://matrix.to/#/#rossmannrepair:matrix.org\n\n\ud83d\udc49 Recording equipment used upstairs:\n\ud83d\udd35 HDMI capture: https://amzn.to/4bcXEFL\n\ud83d\udd35 Camera: https://amzn.to/3VVkSLW\n\ud83d\udd35 Black AT4050 Microphone: https://amzn.to/4cAdkUi\n\ud83d\udd35 Audio interface: https://amzn.to/3VuKihx\n\ud83d\udd35 Bad mic stand for AT4050 mic: https://amzn.to/4ce9dxH https://amzn.to/3RJ3W93\n\ud83d\udd35 Chair: https://amzn.to/4bgR6pw or https://amzn.to/3VGkiQO\n\n\ud83d\udc49 Recording equipment used downstairs:\n\ud83d\udd35 Camera: https://amzn.to/3VVkSLW\n\ud83d\udd35 HDMI capture: https://amzn.to/4bcBUty\n\ud83d\udd35 Blue Blueberry Mic",
+        "id": 1872756,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=EEBzCKBcuFk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EEBzCKBcuFk/hqdefault.jpg",
+        "title": "$2300 device turned into brick by cloud security check that manufacturer no longer supports",
+        "vote": 0
+    }
+]

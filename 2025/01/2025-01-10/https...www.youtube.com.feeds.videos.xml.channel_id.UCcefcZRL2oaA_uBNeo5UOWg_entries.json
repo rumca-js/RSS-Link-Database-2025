@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-10T15:00:31+00:00",
+        "description": "In this episode of How to Build the Future, Garry sits down with Parker Conrad, Co-founder & CEO of Rippling, the all in one HR, Finance and IT software company that\u2019s valued at $13.5 billion. Conrad is the co-founder of two unicorns and has one of the more dramatic startup journeys in recent years. In this interview Conrad discusses his origin story, the lessons learned from his first two startups, how AI is changing the game and why he thinks the future will be defined by \"compound\" software startups.\n\nApply to Y Combinator: https://ycombinator.com/apply",
+        "id": 1876364,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=FwD0wqwUjAI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FwD0wqwUjAI/hqdefault.jpg",
+        "title": "How To Build The Future: Parker Conrad",
+        "vote": 0
+    }
+]

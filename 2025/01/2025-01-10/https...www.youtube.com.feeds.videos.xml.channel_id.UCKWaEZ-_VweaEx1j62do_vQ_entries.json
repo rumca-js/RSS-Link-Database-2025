@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-10T11:00:33+00:00",
+        "description": "Explore the AI developer survey \u2192 https://ibm.biz/BdGjuJ\nLearn more about artificial intelligence \u2192  https://ibm.biz/BdGjuA\n\nWhat\u2019s the most exciting CES AI announcement? In episode 37 of Mixture of Experts, host Tim Hwang is joined by Skyler Speakman, Volkmar Uhlig and Shobhit Varshney to debrief CES 2025. Specifically, the experts dive into NVIDIA\u2019S Project DIGITS, among other announcements from the AI hardware giant. Next, a new enterprise AI development survey came out that detailing how developers really feel about AI implementation. Then, Apple Intelligence experienced some major hallucination fails, what does this tell us about Apple\u2019s stake in the AI game? Finally, Sam Altman of OpenAI released a reflection blog, what does he say about the future of AI? All that and more on today\u2019s Mixture of Experts.\n\nSegments:\n0:00 - Intro\n1:01 - CES and NVIDIA Digit\n10:31 - AI Developer Survey \n20:20 - Apple Intelligence fails\n31:00 - Sam Alton's reflections \n\nSubscribe for AI updates \u2192 ht",
+        "id": 1874444,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=KwGg5WhxuFY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KwGg5WhxuFY/hqdefault.jpg",
+        "title": "CES 2025, NVIDIA DIGITS, Apple Intelligence fails, and Sam Altman\u2019s reflections",
+        "vote": 0
+    }
+]

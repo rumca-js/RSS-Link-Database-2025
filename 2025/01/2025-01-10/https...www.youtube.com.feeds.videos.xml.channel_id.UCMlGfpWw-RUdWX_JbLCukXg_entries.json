@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-10T15:07:08+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nC++ Safety And Security Panel 2024 - Michael Wong, Andreas Weis, Gabriel Dos Reis, Herb Sutter, Lisa Lippincott & Timur Doumler - CppCon 2024\n---\n\nSince our first popular Safety and Security panel at CppCon 2023, there has been a lot of development in ISO C++ in this space and in this panel we aim to give everyone a chance to ask the key authors questions on this development. There has been development in:\n\n1. Profiles P2687r0 , P2816R0 , and P3038R0,: what is the main idea?\n\n2. C++ Core Guidelines Concurrency and Parallelism sections: how will this improve C++ safety\n\n3. MISRA C++ 2023 published based on C++ 17: what does it contain?\n\n4. Contracts: how close are we? Will it be in 26?\n\n5. SG23 Safety and Security and SG21 contracts\n\n6. Safety/Security Blog post by Herb Sutter\n\nRecent US government reports and media follow-ups have been numerous:\n\nhttps://www.whitehouse.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/\n\nhttps://www.whitehouse.g",
+        "id": 1876149,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=uOv6uLN78ks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uOv6uLN78ks/hqdefault.jpg",
+        "title": "C++ Safety And Security Panel 2024 - Hosted by Michael Wong - CppCon 2024",
+        "vote": 0
+    }
+]

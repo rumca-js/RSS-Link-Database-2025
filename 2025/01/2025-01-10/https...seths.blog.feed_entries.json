@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-10T10:03:00+00:00",
+        "description": "Sheep are not like ideas. 200 years ago, William Foster Lloyd began pointing out that if land is shared, ranchers will all have an incentive to overgraze their sheep&#8211;if they don\u2019t, the thinking goes, the others will. Each farmer expands until the commons is ruined. And this justifies the long process of fencing in land, [&#8230;]",
+        "id": 1874410,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/01/the-magic-of-the-commons",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The magic of the commons",
+        "vote": 0
+    }
+]

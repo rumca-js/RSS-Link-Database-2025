@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Undecided with Matt Ferrell",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-10T16:56:18+00:00",
+        "description": "Edge AI is the cutting-edge technology that\u2019s bringing AI processing directly to devices, no cloud needed. Imagine your car recognizing objects in real-time or machines in factories predicting issues before they happen \u2014 it\u2019s all happening right here at the edge.\u00a0\n\u00a0\nTo learn more about @TexasInstruments\u2019 edge AI technology, visit https://bit.ly/3OUjMvH\u00a0\n#TIPartner",
+        "id": 1877561,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=SfhWIEmWrEI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 453,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjtUS7-SZTi6pXjUbzGHQCg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SfhWIEmWrEI/hqdefault.jpg",
+        "title": "The Hidden Technology That\u2019s Changing Everything",
+        "vote": 0
+    }
+]

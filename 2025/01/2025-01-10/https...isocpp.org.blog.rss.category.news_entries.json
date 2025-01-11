@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-10T18:07:18+00:00",
+        "description": "<p>\n\t<img alt=\"RaymondChen_5in-150x150.jpg\" src=\"https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg\" style=\"width: 150px; margin: 10px; float: right;\" />Last time,&nbsp;<a href=\"https://devblogs.microsoft.com/oldnewthing/20241113-00/?p=110516\" title=\"The puzzle of trying to put an object into a std::optional\">we investigated the puzzle of why the compiler wouldn&rsquo;t let us put an object into a&nbsp;<code>std::optional</code></a>. It came down to the fact that the object is not copy-constructible, move-constructible, copy-assignable, or move-assignable, so there&rsquo;s no way to put the temporary object into the&nbsp;<code>std::optional</code>.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://devblogs.microsoft.com/oldnewthing/20241114-00/?p=110521\">Solving the Puzzle of Trying to Put an Object into a std::optional</a></h3>\n\t<p>\n\t\tby Raymond Chen</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tWhat we have to do is&nbsp;<em>construct</em>&nbsp;the object in place ",
+        "id": 1877908,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/01/solving-the-puzzle-of-trying-to-put-an-object-into-a-stdoptional-raymond-ch",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Solving the Puzzle of Trying to Put an Object into a std::optional -- Raymond Chen",
+        "vote": 0
+    }
+]
