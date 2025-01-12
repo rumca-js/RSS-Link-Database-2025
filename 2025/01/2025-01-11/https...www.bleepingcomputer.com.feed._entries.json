@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-11T10:21:31+00:00",
+        "description": "A deceptive proof-of-concept (PoC) exploit for CVE-2024-49113 (aka \"LDAPNightmare\") on GitHub infects users with infostealer malware that exfiltrates sensitive data to an external FTP server. [...]",
+        "id": 1883428,
+        "language": "en-US",
+        "link": "https://www.bleepingcomputer.com/news/security/fake-ldapnightmware-exploit-on-github-spreads-infostealer-malware",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 40,
+        "source_url": "https://www.bleepingcomputer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Fake LDAPNightmware exploit on GitHub spreads infostealer malware",
+        "vote": 0
+    }
+]

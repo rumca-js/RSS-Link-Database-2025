@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-11T05:30:00+00:00",
+        "description": "Part counselor and part friend, Troodi talks with children about their worries and fears. \u201cSometimes I forget she\u2019s not a real person,\u201d says one teen.",
+        "id": 1881970,
+        "language": "en-US",
+        "link": "https://www.wsj.com/articles/kids-mental-health-chatbot-troodi-d5c646bb?mod=rss_Technology",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 361,
+        "source_url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Parents Letting Their Kids Talk to a Mental-Health Chatbot",
+        "vote": 0
+    }
+]

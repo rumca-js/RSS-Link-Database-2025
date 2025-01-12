@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-11T02:23:23+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Automattic CEO Matt Mullenweg said his decision to reduce his team\u2019s weekly hours working on WordPress by 99% , from 4,000 hours to 45 hours, was designed to pressure WP Engine to drop its lawsuit against Mullenweg and Automattic</p>\n\n\n\n<p>\u201cThey don\u2019t actually make WordPress. They just resell it,\u201d Mullenweg told <em>Computerworld </em>Friday evening. \u201cIf what they are reselling is no longer getting all of the free updates, they have less stuff to sell.\u201d\u00a0</p>\n\n\n\n<p>\u201cIt doesn\u2019t make sense for Automattic to pay people to work on all of these things,\u201d he said. \u201cWe are under attack and we are circling the wagons. Our number one goal is for WP Engine to drop their expensive lawsuits against me and Au",
+        "id": 1880635,
+        "language": "en-US",
+        "link": "https://www.computerworld.com/article/3801043/matt-mullenweg-wordpress-developer-hours-cutback-may-or-may-not-slow-innovation.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 78,
+        "source_url": "https://www.computerworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Matt Mullenweg: WordPress developer hours cutback may or may not slow innovation",
+        "vote": 0
+    }
+]

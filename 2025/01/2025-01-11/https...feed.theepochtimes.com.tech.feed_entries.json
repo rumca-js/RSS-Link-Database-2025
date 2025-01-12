@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-11T14:44:29+00:00",
+        "description": "Trump, censorship, and society-wide emasculation were highlights of the lengthy podcast.",
+        "id": 1883248,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/5-takeaways-from-mark-zuckerbergs-interview-with-joe-rogan-5790165",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2024/01/31/id5577994-01312024-DSC03447-Mark-Zuckerberg-1080x720.jpg",
+        "title": "5 Takeaways From Mark Zuckerberg\u2019s Interview With Joe Rogan",
+        "vote": 0
+    }
+]

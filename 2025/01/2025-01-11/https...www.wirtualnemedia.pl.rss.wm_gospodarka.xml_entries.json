@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-11T07:09:05.375462+00:00",
+        "description": "W\u0142a\u015bciciel sieci Media Expert zwi\u0119kszy\u0142 przychody o prawie jedn\u0105 pi\u0105t\u0105, osi\u0105gaj\u0105c rekordowy zysk netto w swojej historii. Firma zatrudnia ponad 11 tys. os\u00f3b, a jej udzia\u0142owcy przez cztery lata dostali miliard z\u0142 w dywidendach. Pod szyldem Media Expert dzia\u0142a ju\u017c ponad 500 sklep\u00f3w.",
+        "id": 1881169,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/media-expert-sklepy-promocja-ile-zarabia-wlasciciel-udzialowcy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ponad 600 sklep\u00f3w, p\u00f3\u0142 mld z\u0142 zysku. Tak zarabia Media Expert",
+        "vote": 0
+    }
+]

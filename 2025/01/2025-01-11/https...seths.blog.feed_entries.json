@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-11T09:24:00+00:00",
+        "description": "Almost all car crashes would be avoided if the driver were just going a bit slower. (That&#8217;s why it&#8217;s more accurate to call them &#8220;crashes&#8221; and not &#8220;accidents.&#8221;) That doesn&#8217;t mean we shouldn&#8217;t have bold plans. That&#8217;s essential. It&#8217;s the last-second shortcuts that get us into trouble. Hurry, but don&#8217;t rush.",
+        "id": 1881596,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/01/slow-down",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Slow down to speed up",
+        "vote": 0
+    }
+]

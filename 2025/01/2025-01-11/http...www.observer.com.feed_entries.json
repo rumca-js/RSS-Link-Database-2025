@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-11T16:00:17+00:00",
+        "description": "Asked about the possibility of expanding the fair to other cities in South America, she said she's committed to staying rooted in Mexico City and serving the Mexican art community.",
+        "id": 1883448,
+        "language": "en",
+        "link": "https://observer.com/2025/01/interview-zelika-garcia-zonamaco-art-fairs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "On the Rise of ZONAMACO: An Interview With Fair Founder Z\u00e9lika Garc\u00eda",
+        "vote": 0
+    }
+]
