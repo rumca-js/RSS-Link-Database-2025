@@ -1,0 +1,114 @@
+# Source:So many books, so little time, URL:https://www.reddit.com/r/books/.rss, language:
+
+## The Ryan Drake series by Will Jordan (youtuber TheCriticalDrinker)
+ - [https://www.reddit.com/r/books/comments/1hzzlch/the_ryan_drake_series_by_will_jordan_youtuber](https://www.reddit.com/r/books/comments/1hzzlch/the_ryan_drake_series_by_will_jordan_youtuber)
+ - RSS feed: $source
+ - date published: 2025-01-12T23:00:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently consumed &quot;Redemption&quot;, the first book of the series. I&#39;ve followed the youtuber for a couple of years and though I agree with some of his critiques, other times I find him biased and polarizing. I also watched his recent short film &quot;Rogue Elements&quot; which is based on the Ryan Drake series. The film was merely FINE in my opinion; it doesn&#39;t really add anything new to the genre or show off his movie making chops. Of course, there are those who decry the film&#39;s quality thus discrediting him as a critic. I&#39;m more concerned on the Ryan Drake books. To be honest, the books get the job done. They are entertaining and serve justice to the action thriller genre; of course one can&#39;t help but notice his possible self-insert in the Ryan Drake character and his opinionated descriptions of certain female characters though I wouldn&#39;t go as far as call it degrading or consider certain characters a &quot;Mary Sue.
+
+## The Little Brother series by Cory Doctorow
+ - [https://www.reddit.com/r/books/comments/1hzzadi/the_little_brother_series_by_cory_doctorow](https://www.reddit.com/r/books/comments/1hzzadi/the_little_brother_series_by_cory_doctorow)
+ - RSS feed: $source
+ - date published: 2025-01-12T22:46:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>I inadvertently came across &quot;Little Brother&quot; when I was in high school and reread it over a decade later; I enjoyed it because it covered the themes of government surveillance using technology with the objective of antiterrorism. I may be biased because I was into the show &quot;24&quot; at the time so the parallels of terrorism and torture were intriguing. Not to mention that it took place in the Bay Area, where I&#39;m from, so I was able to relate a little bit in that aspect. In the sequel &quot;Homeland&quot;, the book introduced me to the Burning Man festival (I don&#39;t intend to go, but I learned how intriguing it was) and covered how a political candidate may use advanced technology for a political campaign and even addressed how far the government may go to reign in free speech, protest, and freedom of assembly. The following book &quot;Attack Surface&quot;, it followed another character who struggled with her role, skillset, and 
+
+## Captive Paradise: A History of Hawaii by James L. Haley
+ - [https://www.reddit.com/r/books/comments/1hzxtr4/captive_paradise_a_history_of_hawaii_by_james_l](https://www.reddit.com/r/books/comments/1hzxtr4/captive_paradise_a_history_of_hawaii_by_james_l)
+ - RSS feed: $source
+ - date published: 2025-01-12T21:42:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Notably, the author doesn&#39;t gloss over Hawaii&#39;s past. He portrays the pre-colonial islanders as having a rich, complex history that is sometimes lurid and even horrifying, much like many other cultures around the world. I noticed particular similarities with the Aztecs in Mexico, but I recall some similar historical European atrocities.</p> <p>While attending the University of Hawaii at Manoa, I took a class in Hawaiian history. In it, I learned about the haole (white) oligarchy&#39;s strategy to prevent labor organization by bringing in people who spoke different languages—essentially, a divide-and-conquer approach. The book I read details the difficult process through which statehood was imposed on the islanders, systematically stripping away their voting rights. Competing nations, particularly Japan, made alignment with the United States strategically necessary from the U.S. perspective, but I wish it had been handled better.</p> <p>Overal
+
+## having watched the Wicked movie and finished the first Wicked book; haven't watched the play yet
+ - [https://www.reddit.com/r/books/comments/1hzxjek/having_watched_the_wicked_movie_and_finished_the](https://www.reddit.com/r/books/comments/1hzxjek/having_watched_the_wicked_movie_and_finished_the)
+ - RSS feed: $source
+ - date published: 2025-01-12T21:30:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>To me, Wicked was originally difficult to access due to it being a Broadwday play that only performed in select Metropolitan cities, not to mention the ticket prices. Due to curiosity, recommendation, and acclaim, I watched the Wicked movie and enjoyed it. The plot is what it is, but the production and the music was catchy and memorable. I then proceeded to consume the Wicked book, going into it with the understanding that it would be vastly different than the movie and musical</p> <p>Though there are parallels between the book and the movie, it may be odd to compare the two because they&#39;re like apples and oranges regarding direction and progression of the plot and characters. I knew there were political and religious elements that were much more emphasized in the book, but I didn&#39;t realize that it was to a much larger, detailed, and occasionally convoluted extent. There were so many random races and regions to keep track of, not to mention t
+
+## Is Patrick Bateman an Adult Holden Caufield
+ - [https://www.reddit.com/r/books/comments/1hzwsyd/is_patrick_bateman_an_adult_holden_caufield](https://www.reddit.com/r/books/comments/1hzwsyd/is_patrick_bateman_an_adult_holden_caufield)
+ - RSS feed: $source
+ - date published: 2025-01-12T20:59:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>(no spoilers here) I just read Catcher six months ago so that narration style is fresh on my mind, and I can&#39;t help but notice that it&#39;s similar to American Psycho&#39;s narration. There&#39;s even a line where Bateman says a woman has a lousy personality. Obviously the characters aren&#39;t the same, but it&#39;s fun to imagine that Holden grew up to become a wealthy New York yuppie psychopath.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WriterofaDromedary"> /u/WriterofaDromedary </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1hzwsyd/is_patrick_bateman_an_adult_holden_caufield/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1hzwsyd/is_patrick_bateman_an_adult_holden_caufield/">[comments]</a></span>
+
+## What are some books who have an unreliable narrator/protagonist? How does it affect your overall experience of reading it?
+ - [https://www.reddit.com/r/books/comments/1hzv1nf/what_are_some_books_who_have_an_unreliable](https://www.reddit.com/r/books/comments/1hzv1nf/what_are_some_books_who_have_an_unreliable)
+ - RSS feed: $source
+ - date published: 2025-01-12T19:44:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was recently reading Fyodor Dostoevsky&#39;s, Crime and Punishment, and after having read it began contemplating some of the events from the book. It struck me that after the tragic transition of the protagonist, Raskolnikov, his experiences and interactions were confused and unreliable due to his mental state and crazed delusions. </p> <p>To me, due to the profound moral dilemmas discussed in the book, and the deep pressure and anguish of the main character, I felt that, it was only natural that there was some room for ambiguity and interpretation for some of the events happening through the course of the story. It felt, well planned and organic to me, to show the fragile nature of the protagonist&#39;s mind and the hidden madness within him as he gradually sinks into his own despair and negative feelings. </p> <p>Let me know what are some of your thoughts on the use of the unreliable narrator/protagonist trope in books and how does this affect yo
+
+## The Last Kingdom Series
+ - [https://www.reddit.com/r/books/comments/1hzutwe/the_last_kingdom_series](https://www.reddit.com/r/books/comments/1hzutwe/the_last_kingdom_series)
+ - RSS feed: $source
+ - date published: 2025-01-12T19:35:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just finished War Lord, the last book in Bernard Cornwell&#39;s Last Kingdom series. I am a little sad because I enjoyed the series so much and really didn&#39;t want ir to end. The characters were engaging and I was fully invested in Uhtred&#39;s story. The battle scenes are some if the vedt I&#39;ve ever read. I could picture the action so clearly in my mind. I&#39;m going to miss the anticipation I felt each time I started the next book.</p> <p>Do you get mixed feelings when you finish a beloved series?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Prestigious-Cat5879"> /u/Prestigious-Cat5879 </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1hzutwe/the_last_kingdom_series/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1hzutwe/the_last_kingdom_series/">[comments]</a></span>
+
+## Print Book Sales Saw a Small Sales Increase in 2024: After two years of declines, print sales inched up in 2024
+ - [https://www.reddit.com/r/books/comments/1hzr4rj/print_book_sales_saw_a_small_sales_increase_in](https://www.reddit.com/r/books/comments/1hzr4rj/print_book_sales_saw_a_small_sales_increase_in)
+ - RSS feed: $source
+ - date published: 2025-01-12T17:00:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/books/comments/1hzr4rj/print_book_sales_saw_a_small_sales_increase_in/"> <img src="https://external-preview.redd.it/u9H4B_1eATKAKz6BiMFN8DZwVhE-SGtK4xZh-_YsgUg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5f257ce8975bfd7cacc47287f148af5cddf8cb44" alt="Print Book Sales Saw a Small Sales Increase in 2024: After two years of declines, print sales inched up in 2024" title="Print Book Sales Saw a Small Sales Increase in 2024: After two years of declines, print sales inched up in 2024" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kathyebudrenekbz"> /u/kathyebudrenekbz </a> <br/> <span><a href="https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/96842-print-book-sales-saw-a-small-sales-increase-in-2024.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1hzr4rj/print_book_sales_saw_a_small_sales_increase_in/">[comments]</a></span> </td></tr
+
+## More than 100 famous works by Australian authors rescued from oblivion by literary heritage endeavour: Three-year project returns out-of-print classics – including six Miles Franklin winners – to circulation and into ebook format for the first time
+ - [https://www.reddit.com/r/books/comments/1hznsf9/more_than_100_famous_works_by_australian_authors](https://www.reddit.com/r/books/comments/1hznsf9/more_than_100_famous_works_by_australian_authors)
+ - RSS feed: $source
+ - date published: 2025-01-12T14:27:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/books/comments/1hznsf9/more_than_100_famous_works_by_australian_authors/"> <img src="https://external-preview.redd.it/Jo7-eFPrfs4_OTQsPRuXjOxBlUziRAkb9o0AiZQSBP4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe4a34a172310507cd791a8a02e3c38bc8e8f0b6" alt="More than 100 famous works by Australian authors rescued from oblivion by literary heritage endeavour: Three-year project returns out-of-print classics – including six Miles Franklin winners – to circulation and into ebook format for the first time" title="More than 100 famous works by Australian authors rescued from oblivion by literary heritage endeavour: Three-year project returns out-of-print classics – including six Miles Franklin winners – to circulation and into ebook format for the first time" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/itsmimsy20"> /u/itsmimsy20 </a> <br/> <span><a href="https://www.theguardian.com/books/2025/jan/12/ove
+
+## Just reread West of January by Dave Duncan
+ - [https://www.reddit.com/r/books/comments/1hzmt49/just_reread_west_of_january_by_dave_duncan](https://www.reddit.com/r/books/comments/1hzmt49/just_reread_west_of_january_by_dave_duncan)
+ - RSS feed: $source
+ - date published: 2025-01-12T13:36:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I first read this back in high school but I think my ADHD was running rampant back then because i remembered very little and was surprised by some of the themes that no-one seemed to pick up on.</p> <p>Main character is half wetlander half herdman. Has very pale skin blonde hair and blue eyes. </p> <p>A big part of the book is his sexcapades within most of the people he meets on his way to Heaven. It’s not pornographic sec, the character just has a lot. </p> <p>The main plot of the story is how the main character is to become a pilgram and travel west to Heaven so that he can become an Angel. A group of people who learn about the world and help all the other tribes. They also take a vow of nonviolence when they arrive. </p> <p>In the book we learn that the angels are encouraged to have these sexcapades to help the tribes to prevent inbreeding. That’s fine and dandy but the herdmen clearly already knew this and other tribes should have been able to le
+
+## Weekly FAQ Thread January 12, 2025: How many books do you read at a time?
+ - [https://www.reddit.com/r/books/comments/1hzl82m/weekly_faq_thread_january_12_2025_how_many_books](https://www.reddit.com/r/books/comments/1hzl82m/weekly_faq_thread_january_12_2025_how_many_books)
+ - RSS feed: $source
+ - date published: 2025-01-12T12:00:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello readers and welcome to our Weekly FAQ thread! Our topic this week is: How many books do you read at a time? Please use this thread to discuss whether you prefer to read one book or multiple books at once.</p> <p>You can view previous FAQ threads <a href="https://www.reddit.com/r/books/wiki/faq">here</a> in our <a href="https://www.reddit.com/r/books/wiki/index">wiki</a>.</p> <p>Thank you and enjoy!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1hzl82m/weekly_faq_thread_january_12_2025_how_many_books/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1hzl82m/weekly_faq_thread_january_12_2025_how_many_books/">[comments]</a></span>
+
+## Argentinian literature. Your experience as a non Spanish speaker
+ - [https://www.reddit.com/r/books/comments/1hzkvzv/argentinian_literature_your_experience_as_a_non](https://www.reddit.com/r/books/comments/1hzkvzv/argentinian_literature_your_experience_as_a_non)
+ - RSS feed: $source
+ - date published: 2025-01-12T11:37:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I would like to buy a book for a colleague of mine in the US, as an introduction to the culture of my native Argentina. My first thought was &quot;Ficciones&quot; by Borges, but over the years I have gifted this book to two people here in the UK (both very smart people, I will add) and both found it way too dense and barely got through one story. </p> <p>As a non Argentinian and non Spanish speaker... any book you might have read that you might suggest?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BunchitaBonita"> /u/BunchitaBonita </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1hzkvzv/argentinian_literature_your_experience_as_a_non/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1hzkvzv/argentinian_literature_your_experience_as_a_non/">[comments]</a></span>
+
+## TikTok and book recommendations
+ - [https://www.reddit.com/r/books/comments/1hzimnk/tiktok_and_book_recommendations](https://www.reddit.com/r/books/comments/1hzimnk/tiktok_and_book_recommendations)
+ - RSS feed: $source
+ - date published: 2025-01-12T08:50:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>This is for the people living in the US. </p> <p>So I only started reading about a year ago and I got a lot of book recommendations from TikTok. </p> <p>But assuming it gets banned, what’s a good place to get recommendations? What I liked about TikTok was that the algorithm kinda recommended books that I would like based on what it previously showed me. </p> <p>But once TikTok gets banned, I’m wondering where to get recommendations. I feel like with the ban, coming across new authors will also be very hard. </p> <p>Reddit is too broad and open ended to get any personalized recommendations, unless it’s very specific. Twitter is twitter. So no. And instagram feels more about the aesthetics of reading rather than about reading/discussions about it. </p> <p>My main issue is that even if I use these platforms, 90% of the time, I can only get recommendations from the authors I’ve already read. And coming across new authors is really hard</p> <p>So where wo
+
+## Rejection by Tony Tulathimutte. The first truly incel novel?
+ - [https://www.reddit.com/r/books/comments/1hzhlmu/rejection_by_tony_tulathimutte_the_first_truly](https://www.reddit.com/r/books/comments/1hzhlmu/rejection_by_tony_tulathimutte_the_first_truly)
+ - RSS feed: $source
+ - date published: 2025-01-12T07:34:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>So after reading ‘Yellowface’ and being disappointed in it (the hype was too much for it to then turn out to be quite a predictable novel lacking any nuance imo), Rejection by Tony Tulathimutte has been quite a surprising book for me. </p> <p>I am halfway through and the stories remind of people I’ve known in real life. The stories are provocative, the characters struggle with their loneliness and social standing, navigating love interests as well as friendships in true millennial manner and turning into the complete opposite of their beliefs! It’s so fascinating to read. The prose is intelligent, sharp. The stories make me want to turn the page and keep reading..</p> <p>Has anyone read it? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/existential_dread35"> /u/existential_dread35 </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1hzhlmu/rejection_by_tony_tulathimutte_the_first_truly/">[link]</
+
+## I finished the Gift of Rain by Tan Twan Eng last night.
+ - [https://www.reddit.com/r/books/comments/1hzfz54/i_finished_the_gift_of_rain_by_tan_twan_eng_last](https://www.reddit.com/r/books/comments/1hzfz54/i_finished_the_gift_of_rain_by_tan_twan_eng_last)
+ - RSS feed: $source
+ - date published: 2025-01-12T05:42:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>And I&#39;ve got so mny thoughts scattered everywhere inside my head. I loved the book, it was, in a way, heartbreakingly beautiful read. The synopsis on Goodreads said, it&#39;s about Betrayal, cruelty, loyalty, steadfast courage and love. And I agree with all of that. All the brutalities done by Japanese reminded me that I need to read more about Asia&#39;s history. </p> <p>Anyway, what I wanted to know was, if you&#39;ve read it, what did you think about Endo San&#39;s and Philip&#39;s relationship? The other aspects(/implications) of it. I&#39;m terribly confused, on one hand, I loved their relationship, the fact that they get reincarnated again and again, the fact that their lives remained full of sufferings. But the subtext... Philip was just 16 I don&#39;t know what to think about it. But then Isabel was just 21-22 and was in love with a 47 yo man. I&#39;d decided that I don&#39;t care. And that it doesn&#39;t matter. But I&#39;m still not sur
+
+## Fantasy Authors and Romantic Age Gaps
+ - [https://www.reddit.com/r/books/comments/1hze8ae/fantasy_authors_and_romantic_age_gaps](https://www.reddit.com/r/books/comments/1hze8ae/fantasy_authors_and_romantic_age_gaps)
+ - RSS feed: $source
+ - date published: 2025-01-12T03:58:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Has anyone else noticed that a very large chunk of fantasy books include relationships with wide age gaps?</p> <p>Much of it amounts to what we would see today as pedophilia or statutory rape. Many of these authors write young girls (boys too but it tends to be women) as very adult-like and it’s not very often to read about a child who actually seems like a child.</p> <p>The most common argument I see about this subject is that that’s how it happened in the real world throughout history. I think that argument is a load of crap. In books with dragons and magic, historical accuracy seems to be thrown out the window until it comes to relationships. </p> <p>If you can have a fantasy world you can make that world have less creepy age gaps. Nobody is going to be taken out of a fantastical story by including actual adults being sexualized instead of young teenage children lol.</p> <p>Has anyone else noticed this? Do you think I’m reaching here? </p> <p>Edit
+

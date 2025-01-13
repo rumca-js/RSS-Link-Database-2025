@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-12T19:42:36+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Are there any code examples for creating USB host or peripheral ??</p> <p>Which CH32v chip would be used for this ??</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DenverTeck\"> /u/DenverTeck </a> <br/> <span><a href=\"https://www.reddit.com/r/RISCV/comments/1hzuzu9/code_examples_for_creating_a_usb_host_or/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/RISCV/comments/1hzuzu9/code_examples_for_creating_a_usb_host_or/\">[comments]</a></span>",
+        "id": 1889929,
+        "language": null,
+        "link": "https://www.reddit.com/r/RISCV/comments/1hzuzu9/code_examples_for_creating_a_usb_host_or",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Code examples for creating a USB Host or peripheral ?",
+        "vote": 0
+    }
+]

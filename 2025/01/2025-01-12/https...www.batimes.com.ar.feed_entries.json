@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-12T11:55:55+00:00",
+        "description": "<p><img src=\"https://fotos.perfil.com/2023/08/07/trim/540/304/president-alberto-fernandez-1626110.jpg\" alt=\"President Alberto Fern\u00e1ndez.\" /></p>Ex-post evaluation paints a grim picture of Argentina\u2019s latest IMF programme that began in March 2022. Staff detailed reckless policy decisions by the government of former president Alberto Fern\u00e1ndez that derailed the programme and economy in the run-up to the 2023 presidential election. <a href=\"https://www.batimes.com.ar/news/economy/imf-publishes-grim-evaluation-of-argentinas-us44-billion-deal.phtml\">Leer m\u00e1s</a>",
+        "id": 1887450,
+        "language": "en",
+        "link": "https://www.batimes.com.ar/news/economy/imf-publishes-grim-evaluation-of-argentinas-us44-billion-deal.phtml",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 20,
+        "source_url": "https://www.batimes.com.ar/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://fotos.perfil.com/2023/08/07/trim/540/304/president-alberto-fernandez-1626110.jpg",
+        "title": "IMF publishes grim evaluation of Argentina\u2019s US$44-billion deal",
+        "vote": 0
+    }
+]

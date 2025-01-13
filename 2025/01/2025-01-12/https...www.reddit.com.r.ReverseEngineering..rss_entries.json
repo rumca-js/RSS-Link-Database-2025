@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-12T22:01:21+00:00",
+        "description": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/heliruna\"> /u/heliruna </a> <br/> <span><a href=\"https://core-explorer.github.io/core-explorer/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ReverseEngineering/comments/1hzy97x/core_explorer_a_core_dump_analysis_tool_that_runs/\">[comments]</a></span>",
+        "id": 1889922,
+        "language": null,
+        "link": "https://www.reddit.com/r/ReverseEngineering/comments/1hzy97x/core_explorer_a_core_dump_analysis_tool_that_runs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 476,
+        "source_url": "https://www.reddit.com/r/ReverseEngineering/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Core Explorer, a core dump analysis tool that runs in the browser",
+        "vote": 0
+    }
+]

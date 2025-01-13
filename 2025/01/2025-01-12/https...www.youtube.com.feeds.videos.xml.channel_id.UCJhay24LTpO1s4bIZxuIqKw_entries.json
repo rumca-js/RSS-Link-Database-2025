@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-12T13:00:05+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\n---\n\nLightning Talk: Infinities: More Than One - Hrushikesh Turkhade - ACCU 2024\n---\n\nThe talk is maths, specifically about how the notion of infinity is counterintuitive and there are multiple infinities. The talk will focus on how to distinguish between different infinities and find out if two infinite sets have same size. Explore sizes of infinite sets (natural, rational and real numbers) with a surprise result at the end\n\nSponsored By think-cell\n---\n\nHrushikesh Turkhade\n\nI am currently a C++ developer at Cboe Global Markets working on realtime low latency exchange systems. I have previous experience with working with exchange connectivity at at a bank and have an undergraduate degree in Mathematics and Computer Science\n---\n\nThe ACCU Conference is the annual conference of the ACCU membership, but is open to any and all who wish to attend. The tagline for the ACCU is 'Professionalism in Programming', which captures the whole spectrum of",
+        "id": 1888151,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=LnZrInaacig",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LnZrInaacig/hqdefault.jpg",
+        "title": "Lightning Talk: Infinities: More Than One - Hrushikesh Turkhade - ACCU 2024",
+        "vote": 0
+    }
+]

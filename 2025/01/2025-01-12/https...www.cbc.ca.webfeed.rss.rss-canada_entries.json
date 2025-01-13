@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-12T04:00:33+00:00",
+        "description": "<img src='https://i.cbc.ca/1.7426811.1736434509!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/laundry.jpg' alt='Two loads of laundry, one whites, one colour' width='620' height='349' title='A stock image of laundry'/><p>Like the laundry that never goes away,\u00a0research on the gender gap has shown us the same pattern\u00a0over and over: women still take on more of the domestic tasks than men. Now, new research out of the University of Alberta helps shed light on why closing the gap is such a challenge.</p>",
+        "id": 1886742,
+        "language": null,
+        "link": "https://www.cbc.ca/news/canada/women-housework-division-labour-1.7426763?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Despite gains, women still do most of the housework. Will this gender gap ever narrow?",
+        "vote": 0
+    }
+]
