@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-13T21:02:08+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>The Supreme Court will hear arguments on Wednesday in a case that will determine whether states can violate adults\u2019 First Amendment rights to access sexual content online by requiring them to verify their age.\u00a0\u00a0</span></p>\n<p><span>The case, </span><i><span>Free Speech Coalition v. Paxton</span></i><span>, could have far-reaching effects for every internet users\u2019 free speech, anonymity, and privacy rights. The Supreme Court will decide whether a Texas law, HB1181, is constitutional. HB 1811 requires a huge swath of websites\u2014many that would likely not consider themselves adult content websites\u2014to implement age verification.\u00a0\u00a0</span></p>\n<p><span>The plaintiff in this case is the </span><a href=\"https://www.freespeechcoalition.com/\"><span>Free Speech Coalition</span></a><span>, the nonprofit non-partisan trade association for the adult i",
+        "id": 1896744,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/01/five-things-know-about-supreme-court-case-texas-age-verification-law-free-speech",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Five Things to Know about the Supreme Court Case on Texas\u2019 Age Verification Law, Free Speech Coalition v Paxton",
+        "vote": 0
+    }
+]

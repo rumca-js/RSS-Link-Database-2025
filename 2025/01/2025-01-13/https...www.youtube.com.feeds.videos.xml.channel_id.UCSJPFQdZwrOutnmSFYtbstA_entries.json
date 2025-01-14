@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-13T18:12:46+00:00",
+        "description": "Its the quintessential monster movie, and the first summer blockbuster of all time, but the story behind Steven Spielberg's 1975 classic is even more dangerous than the shark itself.",
+        "id": 1895442,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=pWisXdtYfrU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pWisXdtYfrU/hqdefault.jpg",
+        "title": "Production Hell - Jaws",
+        "vote": 0
+    }
+]

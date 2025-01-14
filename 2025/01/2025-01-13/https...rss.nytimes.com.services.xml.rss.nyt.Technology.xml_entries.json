@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-13T22:40:14+00:00",
+        "description": "The lawsuit accuses Arity, an Allstate subsidiary, of collecting data about people\u2019s driving behavior through mobile phone apps, leading to increases in drivers\u2019 insurance rates.",
+        "id": 1897266,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/01/13/technology/texas-allstate-driver-data-lawsuit.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/01/13/multimedia/13texas-car-data-whtz/13texas-car-data-whtz-mediumSquareAt3X.jpg",
+        "title": "Texas Sues Allstate Over Its Collection of Driver Data",
+        "vote": 0
+    }
+]

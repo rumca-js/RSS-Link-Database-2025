@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-13T20:04:00+00:00",
+        "description": "A color enhancement of a far-ultraviolet photo of Earth taken by astronaut John W. Young, commander, with the ultraviolet camera on April 21, 1972. The original black-and-white photo was printed on Agfacontour film three times, each exposure recording only one light level. The three light levels were then colored blue (dimmest), green (next brightest), and red (brightest).",
+        "id": 1896599,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/s72-36972orig",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Earth in Far-Ultraviolet",
+        "vote": 0
+    }
+]

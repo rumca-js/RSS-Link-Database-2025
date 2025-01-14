@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-13T15:07:10+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nPerspectives on Contracts for C++ - Lisa Lippincott - CppCon 2024\n---\n\nFor many years, members of the C++ working group, WG21, have tried to add support for contract assertions \u2014 preconditions, postconditions, and assertion statements within a function body \u2014 to the C++ language. It\u2019s been a long and difficult road, but we now have a proposal (P2900, \u201cContracts for C++\u201d) to add significant contract support in, we hope, C++26, with more complete support to follow in C++29.\n\nLooking back, the contracts feature has been unusually difficult and contentious. I contend that the difficulty is inherent in the feature: a contracts facility, by its nature,  cannot be understood from any single point of view.\n\nIn this lecture, I will explain why understanding contracts requires seeing the feature from a panoply of perspectives, and show how shifting between these perspectives allows one to make effective use of the facility.\n\nThis lecture is derived from presentations m",
+        "id": 1894341,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=yhhSW-FSWkE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yhhSW-FSWkE/hqdefault.jpg",
+        "title": "Perspectives on Contracts for C++ - Lisa Lippincott - CppCon 2024",
+        "vote": 0
+    }
+]

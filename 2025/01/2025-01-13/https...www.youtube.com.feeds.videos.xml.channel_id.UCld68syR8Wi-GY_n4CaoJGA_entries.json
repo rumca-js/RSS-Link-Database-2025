@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-13T20:00:21+00:00",
+        "description": "A few years back GTK took the first step towards getting rid of X11 and now it's one step closer to making that actually happen\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nGTK Isssue: https://gitlab.gnome.org/GNOME/gtk/-/issues/5004\nPhoronix Article: https://www.phoronix.com/news/GTK5-Might-Drop-X11\nNew MR: https://gitlab.gnome.org/GNOME/gtk/-/merge_requests/8060\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter\n\ud83c\udf10 Mastodon: https://brodierobertson.xyz/mastodon\n\ud83d\udda5\ufe0f GitHub: https://brodierobertson.xyz/github\n\n==========Credit",
+        "id": 1896604,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=M5Dzjo3Wah0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/M5Dzjo3Wah0/hqdefault.jpg",
+        "title": "GTK Takes Another Step Towards Dropping X11",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-13T13:42:27+00:00",
+        "description": "A good comedian has to \"know what regular people are going through,\" he says. In his new Hulu special, <em>Lonely Flowers</em>, Wood riffs on how isolation has sent society spiraling.",
+        "id": 1896126,
+        "language": "en",
+        "link": "https://www.npr.org/2025/01/13/nx-s1-5256155/roy-wood-jr-daily-show-cnn-lonely-flowers",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Comedy is journalism, says Roy Wood Jr., from 'The Daily Show' to CNN",
+        "vote": 0
+    }
+]

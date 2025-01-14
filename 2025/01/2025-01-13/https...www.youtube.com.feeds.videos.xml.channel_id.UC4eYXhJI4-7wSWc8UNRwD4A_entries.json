@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-13T10:00:38+00:00",
+        "description": "Nikki Birch | January 13, 2025\nThe first law of soca music according to Machel Montano is: \"it's dancing time all the time.\" And in his Tiny Desk Concert, the \"King of Soca\" provides irrefutable evidence to support that statement.\n\nMontano's performance is the first to bring soca, the high energy dance music of the Caribbean, to the Tiny Desk. The genre was born in Trinidad and Tobago in the early 1970s when calypso artist, Lord Shorty (who later chose the name Ras Shorty I), added traditional Indian percussion instruments and rhythms to calypso music \u2014 itself a fusion that incorporates elements of African, Venezuelan, French and American music.\n\nA proud Trinidadian, Montano's contribution to soca has earned him awards and recognition since his youth. His career began in earnest when he was 7 years old and by the time he was 10, he'd shared the stage with Calypsonian pioneers and icons, most notably performing at Madison Square Garden with Mighty Sparrow, Lord Kitchener and The Might",
+        "id": 1892337,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Y1f0WK9lsb0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Y1f0WK9lsb0/hqdefault.jpg",
+        "title": "Machel Montano: Tiny Desk Concert",
+        "vote": 0
+    }
+]

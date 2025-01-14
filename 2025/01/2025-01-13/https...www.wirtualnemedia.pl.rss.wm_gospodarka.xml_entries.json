@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-13T05:06:26.643453+00:00",
+        "description": "Najcz\u0119\u015bciej kupowan\u0105 mark\u0105 samochodu osobowego w Polsce w 2024 roku by\u0142a Toyota, a w segmencie aut premium Audi - wynika z raportu Instytutu Bada\u0144 Rynku Motoryzacyjnego Samar.",
+        "id": 1891091,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/te-marki-aut-kupujemy-najczesciej-toyota-i-audi-na-czele",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Te marki aut kupujemy najcz\u0119\u015bciej. Toyota i Audi na czele",
+        "vote": 0
+    }
+]

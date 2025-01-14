@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-13T10:11:39+00:00",
+        "description": "<p>A year in Palestine, living in\u00a0fear of not just genocide \u2014 but AIDS.\u00a0</p>\n<p>The post <a href=\"https://theintercept.com/2025/01/13/israel-gaza-war-hiv-aids-medication/\">Queer, HIV-Positive, and Running Out of Medication in Gaza</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 1892545,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/01/13/israel-gaza-war-hiv-aids-medication",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/theintercept.com/wp-content/uploads/2025/01/Unknown-2-e1736725057690.jpeg?fit=1190%2C2136",
+        "title": "Queer, HIV-Positive, and Running Out of Medication in Gaza",
+        "vote": 0
+    }
+]
