@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-14T16:03:17+00:00",
+        "description": "In this Lisp for beginners course, @TheLisper will teach you why this elegant programming language has influenced computer science for over 60 years. Lisp's elegant approach to handling code as data, combined with its powerful macro system and functional programming paradigms, offers developers unique insights into program architecture that remain relevant and influential across modern languages like Python, JavaScript, and Rust.\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n- 0:00:00 Common Lisp #1 - Installation\n- 0:06:45 Common Lisp #2 - Playing with the REPL\n- 0:13:04 Common Lisp #3 - Local variables and branching\n- 0:28:42 Common Lisp #4 - Looping with dotimes and do\n- 0:39:17 Common Lisp #5 - What are lists?\n- 0:48:47 Common Lisp: 4 ways to build lists\n- 0:56:28 Common Lisp: Introduction to macros (for beginners)\n- 1:08:10 Common lisp: macro vs functions (for beginners)\n- 1:18:00 Common LISP: Destructuring and more!\n- 1:24:23 Getting started with packages in Common LISP\n- 1:32:00 Prevent Macro Name Conflict",
+        "id": 1902982,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=cKK-Y1-jAHM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cKK-Y1-jAHM/hqdefault.jpg",
+        "title": "Lisp Programming Language \u2013 Full Course for Beginners",
+        "vote": 0
+    }
+]

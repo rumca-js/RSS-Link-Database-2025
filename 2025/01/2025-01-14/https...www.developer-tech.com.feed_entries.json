@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-14T10:46:22+00:00",
+        "description": "<p>Mistral AI has been a leader in the code generation field and its latest model, Codestral 25.01, continues to push boundaries. This upgraded iteration promises even greater speed and capability, setting a new benchmark for coding models in its class. Described as lightweight, fast, and proficient across more than 80 programming languages, the original Codestral<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/mistral-ai-code-generation-benchmark-codestral-25-01/\" title=\"ReadMistral AI sets code generation benchmark with Codestral 25.01\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/mistral-ai-code-generation-benchmark-codestral-25-01/\">Mistral AI sets code generation benchmark with Codestral 25.01</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 1900240,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/mistral-ai-code-generation-benchmark-codestral-25-01",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Mistral AI sets code generation benchmark with Codestral 25.01",
+        "vote": 0
+    }
+]

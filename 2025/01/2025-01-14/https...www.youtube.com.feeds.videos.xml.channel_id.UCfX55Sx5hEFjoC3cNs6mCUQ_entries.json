@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-14T15:00:12+00:00",
+        "description": "In December 2024, leaders from around the globe gathered in Beijing for a groundbreaking event hosted by the Adam Foundation with support from the Linux Foundation.\n\n\ud83d\udca1 Open source isn\u2019t just about code\u2014it\u2019s about people, purpose, and building a better digital world.\n\n\ud83d\udcd6 Dive into the full report for more insights: hubs.la/Q032sJC70\n\n#OpenSource #Innovation #Collaboration #AI #Cybersecurity #DigitalSovereignty #TechForGood",
+        "id": 1902075,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=fpWhYOvX_HA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fpWhYOvX_HA/hqdefault.jpg",
+        "title": "\ud83c\udf0d Open Source Congress 2024: Where innovation meets collaboration!",
+        "vote": 0
+    }
+]

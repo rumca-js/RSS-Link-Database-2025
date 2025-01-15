@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-14T17:04:09+00:00",
+        "description": "Ogarnij sobie preorder magazynu CD-Action Dragon Ball i sta\u0144 si\u0119 szcz\u0119\u015bliwszy: link.cdaction.pl/CDA_DB\n\nOto troch\u0119 recenzja Dragon Ball: Sparking! Zero, a troch\u0119 rozwodzenie si\u0119 nad tym, jaki system walki w grach najbardziej oddaje magi\u0119 Dragon Balla.\n\nProwadzenie i scenariusz: Krzysztof \u201eBastian\u201d Freudenberger (http://twitter.com/BastianCDA)\n\nMonta\u017c: Kacper Grela\nMonta\u017c: Mateusz Pietrasiak",
+        "id": 1903130,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=tWxSfHRR0T4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tWxSfHRR0T4/hqdefault.jpg",
+        "title": "TAK si\u0119 robi walk\u0119 w grach Dragon Ball",
+        "vote": 0
+    }
+]

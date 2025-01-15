@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-14T05:18:38+00:00",
+        "description": "Yoon will be removed from office if at least six of the eight-member bench votes for his impeachment.",
+        "id": 1898791,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cq5g2j8zy95o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84b4/live/aa8d5660-d22f-11ef-a41b-e3f126b8b955.jpg",
+        "title": "S Korea begins impeachment trial against suspended president",
+        "vote": 0
+    }
+]

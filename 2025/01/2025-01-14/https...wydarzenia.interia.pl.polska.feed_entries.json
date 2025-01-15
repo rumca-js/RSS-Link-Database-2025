@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-14T10:44:24+00:00",
+        "description": "<p><a href=\"https://wydarzenia.interia.pl/kraj/news-zmiany-dla-pacjentow-i-lekarzy-od-razu-wywolaly-kontrowersje,nId,7890915\"><img src=\"https://i.iplsc.com/zmiany-dla-pacjentow-i-lekarzy-od-razu-wywolaly-kontrowersje/000KFS5HFRJGLPRR-C321.jpg\" alt=\"Zmiany dla pacjent\u00f3w i lekarzy. Od razu wywo\u0142a\u0142y kontrowersje\" align=\"left\" /></a>W Kodeksie Etyki Lekarskiej pojawi\u0142 si\u0119 nowy przepis - dotyczy terapii daremnej. Kiedy nie b\u0119dzie szans na wyleczenie, medycy maj\u0105 nie kontynuowa\u0107 terapii. - To pierwszy krok w kierunki eutanazji - twierdz\u0105 krytycy. Lekarze odpowiadaj\u0105, \u017ce to walka o godno\u015b\u0107 pacjenta. Czy chorzy rzeczywi\u015bcie powinni obawia\u0107 si\u0119 nowych zapis\u00f3w?</p><br clear=\"all\" />",
+        "id": 1900094,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/kraj/news-zmiany-dla-pacjentow-i-lekarzy-od-razu-wywolaly-kontrowersje,nId,7890915",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Zmiany dla pacjent\u00f3w i lekarzy. Od razu wywo\u0142a\u0142y kontrowersje",
+        "vote": 0
+    }
+]

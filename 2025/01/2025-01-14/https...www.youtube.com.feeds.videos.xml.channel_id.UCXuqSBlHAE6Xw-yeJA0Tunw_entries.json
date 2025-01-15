@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-14T18:00:31+00:00",
+        "description": "Purchase your next drive from Server Part Deals at https://serverpartdeals.com/ltt or use code ltt5off for $5 off any order\n\nYep it\u2019s true, Indiana Jones and the Great Circle is the first game that was developed from the ground up to use Ray Tracing\u2026 not just as an OPTION to make the lighting a little more realistic\u2026 but as a core - REQUIRED - component of the game. Does that mean every game\u2019s FPS is gonna suffer? Or are we going to enter a golden age of Ray Traced Bliss where we can no longer tell the difference between reality and the metaverse? Do we all need NEW Graphics Cards?\n\nHuge Thank you to these creators for allowing us to use their footage:\nBranch Education - https://www.youtube.com/c/BranchEducation\nRen\u00e9 Kern - https://www.youtube.com/@ReneKern_TUClausthal\nHardware Unboxed - https://www.youtube.com/@Hardwareunboxed\nNvidia - https://www.youtube.com/user/nvidia\nUnreal Engine - https://www.youtube.com/@UnrealEngine\nGame Developers Conference - https://www.youtube.com/@Gdcon",
+        "id": 1904036,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=U8z-1Bqn4Rs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/U8z-1Bqn4Rs/hqdefault.jpg",
+        "title": "Ray Tracing is MANDATORY Now",
+        "vote": 0
+    }
+]
