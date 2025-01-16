@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-15T15:00:09+00:00",
+        "description": "LLMs continue to improve at an exponential pace and show no signs of slowing. So what should you do as a founder to take advantage of this moment? In this episode of Office Hours, YC General Partners discuss what you should consider if you\u2019re thinking about pivoting to or incorporating AI as part of your business idea. \n\nApply to Y Combinator: https://yc.link/OfficeHours-apply\nWork at a startup: https://yc.link/OfficeHours-jobs",
+        "id": 1910161,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7Kt9ugD3bGQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7Kt9ugD3bGQ/hqdefault.jpg",
+        "title": "How To Leverage AI In Your Startup",
+        "vote": 0
+    }
+]

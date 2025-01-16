@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-15T10:39:48+00:00",
+        "description": "W kwietniu premier\u0119 w ameryka\u0144skiej telewizji publicznej i na platformie Amazon Prime b\u0119dzie mia\u0142 film o Polsce autorstwa znanego podr\u00f3\u017cnika Ricka Stevesa.",
+        "id": 1908890,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/nowe-trendy/art41683211-tetniace-zyciem-miasta-dobre-jedzenie-i-zyczliwi-mieszkancy-polska-w-amerykanskiej-telewizji",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u201eT\u0119tni\u0105ce \u017cyciem miasta, dobre jedzenie i \u017cyczliwi mieszka\u0144cy\u201d. Polska w ameryka\u0144skiej telewizji",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-15T17:24:02+00:00",
+        "description": "Matter was supposed to fix the smart home\u2014but stuff is now more confusing than ever. Is there light at the end of the tunnel?\neufy's 3-in-1 E20 is MSRP $549.99, but with $100 off, you can get this beast for $449.99: https://eufyofficial.com/T2070fTkF\n\nFollow Snazzy Labs on Twitter - http://twitter.com/snazzylabs\nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - http://instagram.com/snazzyq\n\nIn this video, we dive into why smart homes still fail to deliver on their promise, despite advancements like Matter. From unreliable automations to poorly integrated smart home devices, the video exposes how even popular platforms like Google Home and Amazon Alexa fall short. We break down how local control and unified apps like Home Assistant could fix the broken smart home experience while highlighting why so many IoT devices continue to frustrate users.\n\n0:00 Quinn's smart home rules rei",
+        "id": 1911401,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=kCuA3EWLvIw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kCuA3EWLvIw/hqdefault.jpg",
+        "title": "Smart Homes Still Suck\u2014Here\u2019s Why",
+        "vote": 0
+    }
+]

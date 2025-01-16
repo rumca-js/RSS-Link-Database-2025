@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-15T19:24:49+00:00",
+        "description": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Clean-Mixture5989\"> /u/Clean-Mixture5989 </a> <br/> <span><a href=\"https://www.reddit.com/r/searchengines/comments/1i25gmd/does_google_change_your_headlines_in_serps/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/searchengines/comments/1i25gmd/does_google_change_your_headlines_in_serps/\">[comments]</a></span>",
+        "id": 1912061,
+        "language": null,
+        "link": "https://www.reddit.com/r/searchengines/comments/1i25gmd/does_google_change_your_headlines_in_serps",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Does Google change your headlines in SERPs?",
+        "vote": 0
+    }
+]

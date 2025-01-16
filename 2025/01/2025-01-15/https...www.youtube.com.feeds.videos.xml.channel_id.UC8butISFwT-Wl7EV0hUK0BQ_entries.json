@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-15T15:55:23+00:00",
+        "description": "If you've ever felt intimidated by deep learning research papers with their dense mathematical notation and complex code bases, this comprehensive tutorial from @deeplearningexplained  will show you how to effectively understand and implement cutting-edge AI research. Through practical examples using recent papers, you'll learn the three essential skills needed to master deep learning research: reading technical papers, understanding mathematical notation, and navigating research code bases.\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Introduction\n\u2328\ufe0f (0:01:57) Section 1 - How to read research paper?\n\u2328\ufe0f (0:03:49) Section 1 - Step 1 Get External Context \n\u2328\ufe0f (0:04:51) Section 1 - Step 2 First Casual Read \n\u2328\ufe0f (0:06:01) Section 1 - Step 3 Fill External Gap \n\u2328\ufe0f (0:06:28) Section 1 - Step 4 Conceptual Understanding \n\u2328\ufe0f (0:07:41) Section 1 - Step 5 Code Deep Dive \n\u2328\ufe0f (0:08:29) Section 1 - Step 6 Method and Result Slow Walk \n\u2328\ufe0f (0:09:56) Section 1 - Step 7 Weird Gap Identification \n\u2328\ufe0f (0:10:28) Section 2 - ",
+        "id": 1910416,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=onU5Hbb3qao",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/onU5Hbb3qao/hqdefault.jpg",
+        "title": "Understanding Deep Learning Research Tutorial - Theory, Code and Math",
+        "vote": 0
+    }
+]
