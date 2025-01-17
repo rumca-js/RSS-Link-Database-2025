@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-16T10:03:00+00:00",
+        "description": "Process is the investment we make in inefficiency now to prevent errors from costing us later. Jet airlines are the safest form of travel ever created, largely because of the inefficient process that we put in place. They&#8217;re over tested and over staffed, with checklists and feedback loops in place to ensure that errors don\u2019t [&#8230;]",
+        "id": 1915657,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/01/building-a-process-culture",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Building a process culture",
+        "vote": 0
+    }
+]

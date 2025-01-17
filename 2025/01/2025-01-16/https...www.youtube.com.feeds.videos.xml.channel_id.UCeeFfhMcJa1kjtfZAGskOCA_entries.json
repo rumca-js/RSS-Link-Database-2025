@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechLinked",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-16T05:12:53+00:00",
+        "description": "Visit https://www.squarespace.com/techlinked and use offer code techlinked for 10% off your first purchase.\n\n\u25ba GET MERCH: https://lttstore.com\n\u25ba GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n\u25ba GET A VPN: https://www.piavpn.com/TechLinked\n\u25ba LISTEN TO THE TECH NEWS: https://lmg.gg/TLPodcast\n\u25ba SPONSORS, AFFILIATES, AND PARTNERS: https://lmg.gg/partners\n\u25ba OUR PODCAST GEAR: https://lmg.gg/podcastgear\n\nNEWS SOURCES: https://lmg.gg/9d90a\n---------------------------------------------------\nTimestamps:\n0:00 it's a term of endearment\n0:09 Windows 10 upgrade confusion\n2:00 RTX 50 series benchmarks \n3:44 Google, Microsoft, OpenAI updates\n5:56 QUICK BITS INTRO\n6:02 FBI hacks PCs to remove malware\n6:50 Samsung Galaxy S25 Slim\n7:16 More tech restrictions on China\n7:58 FTC sues John Deere\n8:23 DOOM in a PDF",
+        "id": 1914717,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=4k3898HeRBc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 326,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeeFfhMcJa1kjtfZAGskOCA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4k3898HeRBc/hqdefault.jpg",
+        "title": "Come On, Microsoft.",
+        "vote": 0
+    }
+]

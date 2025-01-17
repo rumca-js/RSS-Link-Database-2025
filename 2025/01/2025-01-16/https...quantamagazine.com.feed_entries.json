@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-16T15:10:22+00:00",
+        "description": "Heat is supposed to ruin anything it touches. But physicists have shown that an idealized form of magnetism is heatproof.              <p>The post <a href=\"https://www.quantamagazine.org/heat-destroys-all-order-except-for-in-this-one-special-case-20250116/\" target=\"_blank\">Heat Destroys All Order. Except for in This One Special Case.</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 1917765,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/heat-destroys-all-order-except-for-in-this-one-special-case-20250116",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/01/UnmeltableOrder-crKristinaArmitage-Default.webp",
+        "title": "Heat Destroys All Order. Except for in This One Special Case.",
+        "vote": 0
+    }
+]

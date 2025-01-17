@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-16T15:18:11+00:00",
+        "description": "Join me, MauLer, Snarky Jay, Star Wars Theory and Angry Badger as we cover the big news of the week. \r\n\r\nSubscribe to Snarky: https://www.youtube.com/@snarkyjay\r\nSubscribe to Theory: https://www.youtube.com/@StarWarsTheory\r\nSubscribe to Badger: https://www.youtube.com/@TheAngryBadger3",
+        "id": 1917943,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=hHD8uqgIRy8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hHD8uqgIRy8/hqdefault.jpg",
+        "title": "Open Bar #126 - Daredevil Trailer, Mandalorian Leak, Skeleton Crew Ends",
+        "vote": 0
+    }
+]

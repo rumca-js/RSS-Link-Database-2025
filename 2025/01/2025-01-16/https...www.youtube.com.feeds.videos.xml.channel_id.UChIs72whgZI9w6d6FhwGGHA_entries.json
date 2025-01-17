@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-16T14:00:53+00:00",
+        "description": "Sponsor: Antec C8 with fans on Newegg https://howl.me/cmXtq5tnNJ7 - and without fans on Newegg https://howl.me/cmXtsXoSlzL\nThe Intel Arc B570 Battlemage graphics card is in for review today. Our benchmarks of the B570 GPU include testing on low-end CPUs, like the i5-12400 and R5 5600X, and on an unbound AMD 9800X3D Ryzen CPU. Benchmarking looks at gaming performance and driver overhead of the top video cards in 2025 -- for now -- as we prepare for the NVIDIA RTX 50 series launch. NVIDIA's RTX 5090, 5080, 5070 Ti, and 5070 are around the corner. In theory, AMD's RX 9070 series also loom. Until then, we have Intel's Arc B570 video card to test, bringing in a card in the $220 to $230 price point to freshen up the low-end. Our benchmarking considers gaming performance, efficiency and power consumption, and scaling across multiple CPUs for our standardized test suite.\n\nFind our prior Intel B580 review here: https://www.youtube.com/watch?v=JjdCkSsLYLk\n\nThe best way to support our work is t",
+        "id": 1917265,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=m9uK4D35FlM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/m9uK4D35FlM/hqdefault.jpg",
+        "title": "Intel Arc B570 'Battlemage' GPU Review & Benchmarks, Low-End CPU Tests, & Efficiency",
+        "vote": 0
+    }
+]

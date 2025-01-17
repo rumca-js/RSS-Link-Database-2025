@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Niebezpiecznik",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-16T09:46:30+00:00",
+        "description": "Co banki robi\u0105, aby nie zosta\u0107 zhackowanymi? Jakie incydenty si\u0119 im zdarzaj\u0105\u00a0i jak je obs\u0142uguj\u0105? Jak wygl\u0105da praca w bankowym Security Operations Center? A tak\u017ce ataki na bankomaty i \"insider threat\" -- o tym b\u0119dziemy rozmawia\u0107 w pi\u0105tek o 20:00! Kliknij w dzwonek, aby nie przegapi\u0107!",
+        "id": 1915886,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=A9LKvu7QloI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 240,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe6nK69Yc1zna7QSJEfA9pw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/A9LKvu7QloI/hqdefault.jpg",
+        "title": "CYBERBEZPIECZE\u0143STWO w du\u017cych BANKACH",
+        "vote": 0
+    }
+]

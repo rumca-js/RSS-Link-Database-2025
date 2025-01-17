@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-16T23:02:49+00:00",
+        "description": "Source: https://wiki.rossmanngroup.com/wiki/Allstate_and_Arity%27s_alleged_unauthorized_driver_data_collection_through_mobile_apps\n\nbuy a hot air station, and have more hot air than the CEO of Allstate for less than $199.99! https://store.rossmanngroup.com/atten-862.html\n\ntimestamps: \n\n00:00 - blah blah blah\n20:00 - clinton the cat",
+        "id": 1921235,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=gVfFiTYWv7E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gVfFiTYWv7E/hqdefault.jpg",
+        "title": "Texas Sues Allstate Over Illegally Collecting Driver Data; you might want to uninstall gasbuddy....",
+        "vote": 0
+    }
+]
