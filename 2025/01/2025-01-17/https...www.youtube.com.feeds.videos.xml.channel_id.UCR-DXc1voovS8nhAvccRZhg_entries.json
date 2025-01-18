@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-17T15:01:27+00:00",
+        "description": "The time has come for the MINI homelab!\n\nSpecial thanks to DeskPi for sending over their mini racks! Note: they did not pay me to make this video nor have any input into the contents.\n\nTo enter the DeskPi RackMate T0 Pi 5 cluster giveaway, visit this form: https://forms.gle/PP5rPXLF6Gm8X2FfA\n\nNO PURCHASE NECESSARY. See official contest rules here: https://www.jeffgeerling.com/2025-sweepstakes-rules\n\nResources mentioned in this video:\n\n  - Project MINI RACK: https://mini-rack.jeffgeerling.com\n  - LabStack Mini: https://github.com/JaredC01/LabStack\n  - Blog post with more info: https://www.jeffgeerling.com/blog/2025/project-mini-rack\n  - Mini Rack 001: https://github.com/geerlingguy/mini-rack/issues/3\n  - Mini Rack 002: https://github.com/geerlingguy/mini-rack/issues/4\n  - Mini Rack 003: https://github.com/geerlingguy/mini-rack/issues/6\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtje",
+        "id": 1925967,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=y1GCIwLm3is",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/y1GCIwLm3is/hqdefault.jpg",
+        "title": "Project MINI RACK - a Homelab Revolution!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-17T14:07:21+00:00",
+        "description": "\ud83d\udcb0 Mentorship to six figure software engineer - https://calcur.tech/mentorship\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\ud83d\udcbb System Design Playlist - https://calcur.tech/system-design\n\nTimestamps:\n00:00 - Introduction\n00:14 - 1 \u2013 Mindset\n00:25 - Desire over Skill\n03:03 - Confidence and Ego\n05:01 - Continuously Learn New Skills\n06:51 - Simple Learning Approach\n09:32 - 2 \u2013 Skill\n09:44 - Consistent Effort\n18:01 - Programming Language of Choice\n20:11 - Focus on Solving Problems\n22:42 - Building a Product Might Require Rewrites or Redesign\n26:24 - There Are More Than 5 Tech Companies\n29:04 - Learn From Those Better Than You\n30:53 - Learn Through Diffusion\n32:40 - There is a Cost to Everything\n44:54 - Effort Funnel\n46:58 - Learn Things You Don't Understand\n52:34 - Focus\n56:30 - 3 \u2013 Career\n56:36 - AI Is Not Going to Take Your Job\n01:00:20 - Networking\n01:04:25 - Job Searching is a Numbers Game\n01:07:47 - Why You're Not Getting Offers\n01:11:04 - Seeking Niche Roles\n01:14:00 ",
+        "id": 1925267,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ga3nYHWtS14",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ga3nYHWtS14/hqdefault.jpg",
+        "title": "No BS Advice for Software Engineers",
+        "vote": 0
+    }
+]

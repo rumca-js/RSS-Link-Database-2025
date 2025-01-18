@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-17T11:12:29+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/InternetIsBeautiful/comments/1i3e2jt/i_created_rssbeauty_which_can_make_rss_look/\"> <img src=\"https://external-preview.redd.it/8_Ws8i6XTA9WhS3_oIQRif6DFiaB-x4-L2cqCZWgrBA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd341c11ad0cedc467cae0564fdfe394f380cf45\" alt=\"I created RSS.Beauty, which can make RSS look beautiful.\" title=\"I created RSS.Beauty, which can make RSS look beautiful.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Correct-Two-9881\"> /u/Correct-Two-9881 </a> <br/> <span><a href=\"https://rss.beauty/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/InternetIsBeautiful/comments/1i3e2jt/i_created_rssbeauty_which_can_make_rss_look/\">[comments]</a></span> </td></tr></table>",
+        "id": 1924338,
+        "language": null,
+        "link": "https://www.reddit.com/r/InternetIsBeautiful/comments/1i3e2jt/i_created_rssbeauty_which_can_make_rss_look",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 539,
+        "source_url": "https://www.reddit.com/r/InternetIsBeautiful/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/8_Ws8i6XTA9WhS3_oIQRif6DFiaB-x4-L2cqCZWgrBA.jpg?width=640&crop=smart&auto=webp&s=bd341c11ad0cedc467cae0564fdfe394f380cf45",
+        "title": "I created RSS.Beauty, which can make RSS look beautiful.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-17T00:01:33+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I have a website built using React that I thought I had set up its metadata (e.g. title, description, structured data and favicon) properly in its index.html file, along with some Helmet tags in my files that are core pages I want indexed. So using the urls and a sitemap, I went to index it on google search index and that worked out fine, but then I went to look at my results and the appearance of my links in google don&#39;t seem to match what I intended them to be.</p> <p>How do you manage the title, description, and other info of a google search listing? For instance for the SEO subreddit, I see &quot;Reddit \u00b7 r/SEO&quot;, then &quot;363.9K+ followers&quot;, then what I think is the title, &quot;Search Engine Optimization: The Latest SEO News - Reddit&quot; followed by the description. I want to be able to control that first line for my listing and tell google what should go there, but it seems auto-generated? Also it looks like reddit was able to",
+        "id": 1921898,
+        "language": null,
+        "link": "https://www.reddit.com/r/searchengines/comments/1i338pr/need_help_with_google_search_index_metadata",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Need help with google search index metadata",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-17T12:00:12+00:00",
+        "description": "Zno\u015bne kawy - https://znosne.pl",
+        "id": 1924379,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=WX8emYynfnc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WX8emYynfnc/hqdefault.jpg",
+        "title": "Najg\u0142upszy kierowca elektryka oraz \u015bwietna recenzja mikrofon\u00f3w - Hej from USA #5",
+        "vote": 0
+    }
+]

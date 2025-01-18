@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-17T02:08:31+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Edit: I\u2019m leaving this up even though it probably seems foolish I\u2019d like others who have this issue to be able to figure it out as well. Only 5 podcasts were giving me the 403 error, and only on these two apps. The 20 or so other podcasts I listen to did not have this error. I also haven\u2019t been able to listen to them via my RSS reader, but that isn\u2019t a big deal/not that abnormal for the reader I use. </p> <p>TURNS OUT My problem was my VPN. I use express VPN and had to disable it from the AntennaPod app. The podcasts above are now working! </p> <p>Thanks to the people who tried troubleshooting and if you downvoted me for asking for help you\u2019re a stinker! I am so excited about RSS and appreciate this sub for being a resource (sometimes)!</p> <hr/> <p>Original post:</p> <p>I recently got an android phone, and I\u2019ve been really excited to try some alternatives to Apple Podcasts. The problem is, the two I\u2019ve tried so far (Antennae Pod and Focus Podcasts) ",
+        "id": 1922752,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1i35srr/podcasts_moving_away_from_rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Podcasts moving away from RSS",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-17T18:00:00+00:00",
+        "description": "JRE #2259 w/Thomas Campbell\nYouTube: https://youtu.be/tQR6SFK7lFc\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk\nhttps://youtu.be/tQR6SFK7lFc",
+        "id": 1926956,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=-KCGrkD_ub4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-KCGrkD_ub4/hqdefault.jpg",
+        "title": "Physicist Thomas Campbell on Virtual Consciousness and Aliens",
+        "vote": 0
+    }
+]

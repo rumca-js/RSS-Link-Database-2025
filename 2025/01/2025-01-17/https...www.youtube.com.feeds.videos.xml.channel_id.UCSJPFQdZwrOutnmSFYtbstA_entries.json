@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-17T18:00:32+00:00",
+        "description": "Well, this was a surprise. After canning the entire show after filming six whole episodes and starting over, Marvel have just released the first trailer for the new Daredevil show. And shockingly, it actually looks pretty good.",
+        "id": 1927253,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=YPKYsp-Pz7g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YPKYsp-Pz7g/hqdefault.jpg",
+        "title": "Daredevil: Born Again - This Actually Looks Good!",
+        "vote": 0
+    }
+]

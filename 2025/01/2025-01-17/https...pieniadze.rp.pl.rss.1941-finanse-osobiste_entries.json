@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-17T05:18:00+00:00",
+        "description": "Polacy kupuj\u0105 rz\u0105dowe papiery skarbowe jak \u015bwie\u017ce bu\u0142eczki. W minionym roku pad\u0142 rekord. Sprawdzamy, jakie trendy na tym rynku mog\u0105 obowi\u0105zywa\u0107 w tym roku.",
+        "id": 1922869,
+        "language": "pl-PL",
+        "link": "https://pieniadze.rp.pl/obligacje-skarbowe/art41691151-jaka-oferta-obligacji-detalicznych-w-2025-r-ich-atrakcyjnosc-moze-byc-mniejsza",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jaka oferta obligacji detalicznych w 2025 r.? Ich atrakcyjno\u015b\u0107 mo\u017ce by\u0107 mniejsza",
+        "vote": 0
+    }
+]

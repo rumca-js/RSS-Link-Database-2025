@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-17T14:42:03+00:00",
+        "description": "He spent more than three years in prison following protests that swept through the island in 2021.",
+        "id": 1925274,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cdjddzxwgxdo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9039/live/0922c7f0-d4dd-11ef-87df-d575b9a434a4.jpg",
+        "title": "Cuba releases jailed activist Jose Daniel Ferrer",
+        "vote": 0
+    }
+]

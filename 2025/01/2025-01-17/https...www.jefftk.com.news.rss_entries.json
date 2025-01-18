@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-17T08:00:00+00:00",
+        "description": "<p><span>\n\nIn the aftermath of a disaster, there is usually a large shift in what\npeople need, what is available, or both. For example, people normally\ndon't use very much ice, but after a hurricane or other disaster that\nknocks out power, suddenly (a) lots of people want ice and (b) ice\nproduction is more difficult. Since people really don't want their\nfood going bad, and they're willing to pay a lot to avoid that, In a\nworld of pure economics, sellers would raise prices.\n\n</span>\n\n<p>\n\nThis can have serious benefits:\n\n</p>\n\n<p>\n\n</p>\n\n<ul>\n\n<li><p>Increased supply: at higher prices it's worth running\nproduction facilities at higher output. It's even worth planning,\nthrough investments in storage or production capacity, so you can sell\na lot at high prices in the aftermath of future disasters.\n\n</p></li>\n<li><p>Reallocated supply: it's expensive to transport ice, but\nat higher prices it makes sense to bring it in from much farther away\nthan would normally make sense.\n\n</p></li>\n<li>",
+        "id": 1925251,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/tax-price-gouging",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tax Price Gouging?",
+        "vote": 0
+    }
+]

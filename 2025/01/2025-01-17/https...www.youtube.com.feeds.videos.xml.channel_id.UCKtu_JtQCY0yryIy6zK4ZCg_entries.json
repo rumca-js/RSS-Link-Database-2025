@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marc Brunet",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-17T18:30:39+00:00",
+        "description": "\ud83d\udc68\u200d\ud83c\udfa8 Need help with your ART!? You probably do! Visit \u27a1\ufe0f http://cgart.school for my college-equivalent ART School program!",
+        "id": 1927178,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=xYI2S3l0yiQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 208,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKtu_JtQCY0yryIy6zK4ZCg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xYI2S3l0yiQ/hqdefault.jpg",
+        "title": "8h drawing in 50 sec - Race Day \u2728 #celshading #paintingprocess",
+        "vote": 0
+    }
+]

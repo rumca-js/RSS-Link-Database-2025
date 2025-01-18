@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-17T15:07:05+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nCpp Contracts - How Contracts in C++26 Can Improve C++ Code Safety and Correctness - Timur Doumler - CppCon 2024\n---\n\nDesign by Contract is a very effective approach for writing safer, more correct programs. It has been successfully implemented in programming languages like Eiffel and Ada. Attempts to add a Contracts facility to C++ have a long and storied history spanning two decades. Since the last attempt to standardise Contracts (for the C++20 Standard) has failed, SG21 \u2014 the Contracts Study Group on the C++ Standard Committee \u2013 has been working on a new design, the so-called Contracts MVP, which is now essentially feature-complete and on track to make it into the upcoming C++26 Standard.\n\nIn this talk, we present the current design of the Contracts MVP targeting C++26. We discuss preconditions, postconditions, assertions, contract-violation handling and much more. We consider how the Contracts MVP provides a superior replacement for custom assertion macr",
+        "id": 1925778,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=8niXcszTjis",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8niXcszTjis/hqdefault.jpg",
+        "title": "Cpp Contracts - How Contracts in C++26 Can Improve C++ Code Safety and Correctness - Timur Doumler",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-17T10:49:13.926318+00:00",
+        "description": "Ministerstwo Edukacji Narodowej ma og\u0142osi\u0107 w pi\u0105tek podpisanie rozporz\u0105dzenia przes\u0105dzaj\u0105cego, o zmniejszeniu liczby katechez i obowi\u0105zku organizowania ich na pierwszej lub ostatniej lekcji - informuje portal tvn24.pl.",
+        "id": 1923573,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/edukacja-i-wychowanie/art41694921-bedzie-tylko-jedna-lekcja-religii-ministerstwo-edukacji-narodowej-idzie-na-ustepstwa-wobec-kosciola",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "B\u0119dzie tylko jedna lekcja religii. Ministerstwo Edukacji Narodowej idzie na ust\u0119pstwa wobec Ko\u015bcio\u0142a",
+        "vote": 0
+    }
+]
