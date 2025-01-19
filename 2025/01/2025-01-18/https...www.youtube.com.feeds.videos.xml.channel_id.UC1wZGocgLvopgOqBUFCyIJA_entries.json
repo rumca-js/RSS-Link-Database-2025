@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Second Wind",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-18T05:00:02+00:00",
+        "description": "The party finds the cabin, but everything is not as it seems.\n\nGet your Adventure Is Nigh! merch at:\nhttps://sharkrobot.com/collections/second-wind\n\nSupport us on Patreon: https://www.patreon.com/SecondWindGroup",
+        "id": 1929832,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=3ZGqR69WPkI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 540,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1wZGocgLvopgOqBUFCyIJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3ZGqR69WPkI/hqdefault.jpg",
+        "title": "The Trouble With Wizards | Adventure Is Nigh! - Side Quest: The Cabin That Calls",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eli the Computer Guy",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-18T13:14:54+00:00",
+        "description": "RSVP for Classes at - http://www.SiliconDojo.com\n\nSupport Classes at - https://donorbox.org/etcg\nFind All Classes at - https://www.elithecomputerguy.com\nLinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/\n\nCode and Notes -\n\nThis class will talk about what is required to become a tech professional and what you can expect for your career.\n\nWe will talk about learning tech from self study, boot camps or college.\n\nWe will discuss getting experience and how to match your skills to the job market.\n\nThe class will go over:\n\nSelf Study technology\nBootcamps\nCollege degrees\nFinding jobs\nRemote Work\nCreating a portfolio\nand more...",
+        "id": 1931540,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=jlAcO9pJglo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 102,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD4EOyXKjfDUhCI6jlOZZYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jlAcO9pJglo/hqdefault.jpg",
+        "title": "How to Become a Tech Professional",
+        "vote": 0
+    }
+]

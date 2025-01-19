@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-18T08:00:00+00:00",
+        "description": "<p><span>\n\nIn general, you're </span>\n\n<a href=\"https://www.osha.gov/laws-regs/standardinterpretations/2016-05-09\">not\nsupposed to</a> wear a beard with a respirator mask (N95, P100, etc),\nat least not in a way where you have facial hair \n\n<a href=\"https://blogs.cdc.gov/niosh-science-blog/2017/11/02/noshave/\">under\nthe seal</a>:\n\n\n\n<p>\n\n<a href=\"https://www.jefftk.com/cdc-facial-hair-with-mask-big.png\"><img src=\"https://www.jefftk.com/cdc-facial-hair-with-mask.png\" alt=\"cdc chart showing beard\nstyles and whether its ok to wear a respirator\" width=\"550\" height=\"400\" class=\"mobile-fullwidth\" style=\"max-width:100.0vw; max-height:72.7vw;\" srcset=\"https://www.jefftk.com/cdc-facial-hair-with-mask.png 550w,https://www.jefftk.com/cdc-facial-hair-with-mask-2x.png 1100w\"><div style=\"height:min(72.7vw, 400px)\" class=\"image-vertical-spacer\"></div></a>\n\n</p>\n\n<p>\n\nBut how much worse is the fit?  A P100 with a beard is going to filter\nless well than a P100 without a beard, but does it do as well a",
+        "id": 1931977,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/beards-and-masks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Beards and Masks?",
+        "vote": 0
+    }
+]

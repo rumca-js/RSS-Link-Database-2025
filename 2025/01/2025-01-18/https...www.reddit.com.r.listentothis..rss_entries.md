@@ -1,0 +1,121 @@
+# Source:Listen To This, URL:https://www.reddit.com/r/listentothis/.rss, language:
+
+## Eskimo Supreme - Is Your Brother? [Irish rap] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i4ke9l/eskimo_supreme_is_your_brother_irish_rap_2025](https://www.reddit.com/r/listentothis/comments/1i4ke9l/eskimo_supreme_is_your_brother_irish_rap_2025)
+ - RSS feed: $source
+ - date published: 2025-01-18T23:26:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i4ke9l/eskimo_supreme_is_your_brother_irish_rap_2025/"> <img src="https://external-preview.redd.it/Bmauc_DeX3kS10wiGk3QjWrPkZTGX3EZeKME-ZXV1aM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b755da518ec0fbdd004f212fac79cc05d11d3dbe" alt="Eskimo Supreme - Is Your Brother? [Irish rap] (2025)" title="Eskimo Supreme - Is Your Brother? [Irish rap] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Satanicbearmaster"> /u/Satanicbearmaster </a> <br/> <span><a href="https://www.youtube.com/watch?v=lzMlHqbUuuk&amp;ab_channel=ESKIMOSUPREME">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i4ke9l/eskimo_supreme_is_your_brother_irish_rap_2025/">[comments]</a></span> </td></tr></table>
+
+## Fusilier – Nightmare Muscle [alt-rock] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i4kco5/fusilier_nightmare_muscle_altrock_2025](https://www.reddit.com/r/listentothis/comments/1i4kco5/fusilier_nightmare_muscle_altrock_2025)
+ - RSS feed: $source
+ - date published: 2025-01-18T23:24:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i4kco5/fusilier_nightmare_muscle_altrock_2025/"> <img src="https://external-preview.redd.it/u7gT-4-uu1xmSrvKFvyAvfFT-ZTJ8hrxHtcwBPj6zPk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=40f01809aee54eded8a670c6d292cde2be56e60c" alt="Fusilier – Nightmare Muscle [alt-rock] (2025)" title="Fusilier – Nightmare Muscle [alt-rock] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Useful_Tree9063"> /u/Useful_Tree9063 </a> <br/> <span><a href="https://www.youtube.com/watch?v=8TOrEJlHdOc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i4kco5/fusilier_nightmare_muscle_altrock_2025/">[comments]</a></span> </td></tr></table>
+
+## The Redlands Palomino Company -- In These Lines [Country / Americana] (2014)
+ - [https://www.reddit.com/r/listentothis/comments/1i4k8rr/the_redlands_palomino_company_in_these_lines](https://www.reddit.com/r/listentothis/comments/1i4k8rr/the_redlands_palomino_company_in_these_lines)
+ - RSS feed: $source
+ - date published: 2025-01-18T23:18:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i4k8rr/the_redlands_palomino_company_in_these_lines/"> <img src="https://external-preview.redd.it/mEQ9OLuLY0ylecAdKpPIfQnD0V9Nc2N1tx_crCU_doE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ece46cf3ab5f36277944ae2a150f444d82310f61" alt="The Redlands Palomino Company -- In These Lines [Country / Americana] (2014)" title="The Redlands Palomino Company -- In These Lines [Country / Americana] (2014)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Madbrad200"> /u/Madbrad200 </a> <br/> <span><a href="https://www.youtube.com/watch?v=KR7ePKB415I">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i4k8rr/the_redlands_palomino_company_in_these_lines/">[comments]</a></span> </td></tr></table>
+
+## William Beckmann — Borderline Crazy [country] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1i4ga02/william_beckmann_borderline_crazy_country_2024](https://www.reddit.com/r/listentothis/comments/1i4ga02/william_beckmann_borderline_crazy_country_2024)
+ - RSS feed: $source
+ - date published: 2025-01-18T20:14:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i4ga02/william_beckmann_borderline_crazy_country_2024/"> <img src="https://external-preview.redd.it/-Xf7v_iXLI3JUT59g4z1aDmvm5qAkKL7ZW1O4joH32Y.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e9b9244c9f7675789b864fcd4426ac21648ab47a" alt="William Beckmann — Borderline Crazy [country] (2024)" title="William Beckmann — Borderline Crazy [country] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DronedAgain"> /u/DronedAgain </a> <br/> <span><a href="https://www.youtube.com/watch?v=1_h4zyBWUvo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i4ga02/william_beckmann_borderline_crazy_country_2024/">[comments]</a></span> </td></tr></table>
+
+## Burnt Lodge -- Intergenerational Anamnesis [Melodic Black Metal] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1i4g4cr/burnt_lodge_intergenerational_anamnesis_melodic](https://www.reddit.com/r/listentothis/comments/1i4g4cr/burnt_lodge_intergenerational_anamnesis_melodic)
+ - RSS feed: $source
+ - date published: 2025-01-18T20:07:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i4g4cr/burnt_lodge_intergenerational_anamnesis_melodic/"> <img src="https://external-preview.redd.it/V7RJuvbWFNjxBtm5uIrvT0P0QWy6l5aQ-MlxJpVjllA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c9571ede0d119e6f1e1aa4dfdbb49b71486ad6b6" alt="Burnt Lodge -- Intergenerational Anamnesis [Melodic Black Metal] (2024)" title="Burnt Lodge -- Intergenerational Anamnesis [Melodic Black Metal] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bucket_overlord"> /u/bucket_overlord </a> <br/> <span><a href="https://www.youtube.com/watch?v=ySsuYn0XZEA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i4g4cr/burnt_lodge_intergenerational_anamnesis_melodic/">[comments]</a></span> </td></tr></table>
+
+## TANGO MOTEL — A Stroll In The Park [Alternative Rock] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1i4dupr/tango_motel_a_stroll_in_the_park_alternative_rock](https://www.reddit.com/r/listentothis/comments/1i4dupr/tango_motel_a_stroll_in_the_park_alternative_rock)
+ - RSS feed: $source
+ - date published: 2025-01-18T18:25:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i4dupr/tango_motel_a_stroll_in_the_park_alternative_rock/"> <img src="https://external-preview.redd.it/x1MdwPqNYzuJ98Efq8cNozKQGi-XwBKaXsL2SwhEpas.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f9e2d8f177e1aebaab5ac3b478322a4e640e249b" alt="TANGO MOTEL — A Stroll In The Park [Alternative Rock] (2024)" title="TANGO MOTEL — A Stroll In The Park [Alternative Rock] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/filipemj"> /u/filipemj </a> <br/> <span><a href="https://www.youtube.com/watch?v=-TpFwUxbLe0&amp;ab_channel=TANGOMOTEL">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i4dupr/tango_motel_a_stroll_in_the_park_alternative_rock/">[comments]</a></span> </td></tr></table>
+
+## Sunrize -- Come and Get my Lovin [Funk] (1982)
+ - [https://www.reddit.com/r/listentothis/comments/1i4ddte/sunrize_come_and_get_my_lovin_funk_1982](https://www.reddit.com/r/listentothis/comments/1i4ddte/sunrize_come_and_get_my_lovin_funk_1982)
+ - RSS feed: $source
+ - date published: 2025-01-18T18:05:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i4ddte/sunrize_come_and_get_my_lovin_funk_1982/"> <img src="https://external-preview.redd.it/wS7aUJ-L_ruyzheTHSiwxycLBMrSosBAEtwFF9U5eV8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=946e10c4191086bccc141d4c4351898297735934" alt="Sunrize -- Come and Get my Lovin [Funk] (1982)" title="Sunrize -- Come and Get my Lovin [Funk] (1982)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ObsessedByCelluloid"> /u/ObsessedByCelluloid </a> <br/> <span><a href="https://www.youtube.com/watch?v=wg2RrIk0kfE">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i4ddte/sunrize_come_and_get_my_lovin_funk_1982/">[comments]</a></span> </td></tr></table>
+
+## Nadrisk feat. Stribor - Vihor [Breakcore/IDM] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i473jb/nadrisk_feat_stribor_vihor_breakcoreidm_2025](https://www.reddit.com/r/listentothis/comments/1i473jb/nadrisk_feat_stribor_vihor_breakcoreidm_2025)
+ - RSS feed: $source
+ - date published: 2025-01-18T13:03:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i473jb/nadrisk_feat_stribor_vihor_breakcoreidm_2025/"> <img src="https://external-preview.redd.it/9HxiMmL50vrtbXXDm7pRcCdNRBsryUlz6XGtUBCFI_0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a8873f29ec1a563a140f00702fc70d1297e76ba7" alt="Nadrisk feat. Stribor - Vihor [Breakcore/IDM] (2025)" title="Nadrisk feat. Stribor - Vihor [Breakcore/IDM] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/no_goodbye_"> /u/no_goodbye_ </a> <br/> <span><a href="https://youtu.be/_aRi0HFIN9A">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i473jb/nadrisk_feat_stribor_vihor_breakcoreidm_2025/">[comments]</a></span> </td></tr></table>
+
+## Fomalhaut - Hourglass I [Prog Metal] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i46ikh/fomalhaut_hourglass_i_prog_metal_2025](https://www.reddit.com/r/listentothis/comments/1i46ikh/fomalhaut_hourglass_i_prog_metal_2025)
+ - RSS feed: $source
+ - date published: 2025-01-18T12:27:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i46ikh/fomalhaut_hourglass_i_prog_metal_2025/"> <img src="https://external-preview.redd.it/jxwT40eWOihf7RyDUQhhKV1gcXaSgGOUhz27bOmvRdI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a379696633fa40528790f288008dfc501ff6bb61" alt="Fomalhaut - Hourglass I [Prog Metal] (2025)" title="Fomalhaut - Hourglass I [Prog Metal] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Whereishumhum-"> /u/Whereishumhum- </a> <br/> <span><a href="https://youtu.be/08r7mQBD7-4?si=FMqF8syCJtiWyGLE">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i46ikh/fomalhaut_hourglass_i_prog_metal_2025/">[comments]</a></span> </td></tr></table>
+
+## Culture - Two Sevens Clash [Reggae] (1977)
+ - [https://www.reddit.com/r/listentothis/comments/1i45f00/culture_two_sevens_clash_reggae_1977](https://www.reddit.com/r/listentothis/comments/1i45f00/culture_two_sevens_clash_reggae_1977)
+ - RSS feed: $source
+ - date published: 2025-01-18T11:12:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i45f00/culture_two_sevens_clash_reggae_1977/"> <img src="https://external-preview.redd.it/XhZtaHdHq-NaFxKw_MIp_SgfI1Xh0CLMkzkLnTfgfbI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=83dd788e893f0cc1236fb31b6d64223eb46ef2af" alt="Culture - Two Sevens Clash [Reggae] (1977)" title="Culture - Two Sevens Clash [Reggae] (1977)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JAD4995"> /u/JAD4995 </a> <br/> <span><a href="https://youtu.be/A3PjURr7lb4?si=6I3_bY7OVx00-CN-">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i45f00/culture_two_sevens_clash_reggae_1977/">[comments]</a></span> </td></tr></table>
+
+## Draw the Sky -- Back [Jazz/Progressive Rock] (2017)
+ - [https://www.reddit.com/r/listentothis/comments/1i44zz6/draw_the_sky_back_jazzprogressive_rock_2017](https://www.reddit.com/r/listentothis/comments/1i44zz6/draw_the_sky_back_jazzprogressive_rock_2017)
+ - RSS feed: $source
+ - date published: 2025-01-18T10:44:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i44zz6/draw_the_sky_back_jazzprogressive_rock_2017/"> <img src="https://external-preview.redd.it/_wzOUSymAi4vbjmj4LVM9-jALSHuwfmxoLI5n0vR2FM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3b6166f45a8e5802c8b10b1b96387503dc369e10" alt="Draw the Sky -- Back [Jazz/Progressive Rock] (2017)" title="Draw the Sky -- Back [Jazz/Progressive Rock] (2017)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jvblanck"> /u/jvblanck </a> <br/> <span><a href="https://youtu.be/Rp-QSmINpmE">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i44zz6/draw_the_sky_back_jazzprogressive_rock_2017/">[comments]</a></span> </td></tr></table>
+
+## Space Cowboy Newt -- Salt Lamp [dream pop] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i43zx9/space_cowboy_newt_salt_lamp_dream_pop_2025](https://www.reddit.com/r/listentothis/comments/1i43zx9/space_cowboy_newt_salt_lamp_dream_pop_2025)
+ - RSS feed: $source
+ - date published: 2025-01-18T09:29:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i43zx9/space_cowboy_newt_salt_lamp_dream_pop_2025/"> <img src="https://external-preview.redd.it/TZN4EblevPpY687JPrQon1-J4NW9DvYZlWaQUOYsQus.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9809de7286880ccddf1a9ac33ceb246ea29c4141" alt="Space Cowboy Newt -- Salt Lamp [dream pop] (2025)" title="Space Cowboy Newt -- Salt Lamp [dream pop] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RogueStargun"> /u/RogueStargun </a> <br/> <span><a href="https://www.youtube.com/watch?v=xRpN4oU2Oxo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i43zx9/space_cowboy_newt_salt_lamp_dream_pop_2025/">[comments]</a></span> </td></tr></table>
+
+## Kate Teague - Get By [Alternative Pop] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i40j59/kate_teague_get_by_alternative_pop_2025](https://www.reddit.com/r/listentothis/comments/1i40j59/kate_teague_get_by_alternative_pop_2025)
+ - RSS feed: $source
+ - date published: 2025-01-18T05:23:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i40j59/kate_teague_get_by_alternative_pop_2025/"> <img src="https://external-preview.redd.it/gpdtqkP4CCZtA8LotirJe3JMJjqjlB0_jfQLqUtHFbI.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=95f29050a1fa949c142d0c5be4814df2a7729012" alt="Kate Teague - Get By [Alternative Pop] (2025)" title="Kate Teague - Get By [Alternative Pop] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/penbrooksound"> /u/penbrooksound </a> <br/> <span><a href="https://open.spotify.com/album/4bx8RIxTG1Ld8rfpQ7CFwt?si=nCFKjEs1R8yPgXSlKs6mMg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i40j59/kate_teague_get_by_alternative_pop_2025/">[comments]</a></span> </td></tr></table>
+
+## With Hopes of Falling - The Majestic Front [alt rock, post hardcore/post metal] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i3znlm/with_hopes_of_falling_the_majestic_front_alt_rock](https://www.reddit.com/r/listentothis/comments/1i3znlm/with_hopes_of_falling_the_majestic_front_alt_rock)
+ - RSS feed: $source
+ - date published: 2025-01-18T04:29:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i3znlm/with_hopes_of_falling_the_majestic_front_alt_rock/"> <img src="https://external-preview.redd.it/wQpnrykmPs4-YEOcBhsr02hHS4LrOdMC9Z0xQr-CEaU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=01b0d38799ef4e49cb7d525ad5105ca1045360d0" alt="With Hopes of Falling - The Majestic Front [alt rock, post hardcore/post metal] (2025)" title="With Hopes of Falling - The Majestic Front [alt rock, post hardcore/post metal] (2025)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Fans of early 2000s screamo, post hardcore. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zerozxs"> /u/zerozxs </a> <br/> <span><a href="https://music.youtube.com/watch?v=YXQEh4n_-BI&amp;si=lUgLYLFRXHu3GPNY">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i3znlm/with_hopes_of_falling_the_majestic_front_alt_rock/">[comments]</a></span> </td></tr></table>
+
+## MERCPLX -- Deflecting Every Issue [Rap] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i3xsh0/mercplx_deflecting_every_issue_rap_2025](https://www.reddit.com/r/listentothis/comments/1i3xsh0/mercplx_deflecting_every_issue_rap_2025)
+ - RSS feed: $source
+ - date published: 2025-01-18T02:43:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i3xsh0/mercplx_deflecting_every_issue_rap_2025/"> <img src="https://external-preview.redd.it/JJD9ixO3EY9suc9zg4BySlYeg5iOYP4O7hw2fPI8Ojc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0bea4b4668eab1e8faf08aa70072022ae15dfcc8" alt="MERCPLX -- Deflecting Every Issue [Rap] (2025)" title="MERCPLX -- Deflecting Every Issue [Rap] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FuneralSafari"> /u/FuneralSafari </a> <br/> <span><a href="https://soundcloud.com/exposing-bigots/deflecting-every-issue">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i3xsh0/mercplx_deflecting_every_issue_rap_2025/">[comments]</a></span> </td></tr></table>
+
+## Awake & Dreaming -- I U Me [Indie Rock] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i3upo7/awake_dreaming_i_u_me_indie_rock_2025](https://www.reddit.com/r/listentothis/comments/1i3upo7/awake_dreaming_i_u_me_indie_rock_2025)
+ - RSS feed: $source
+ - date published: 2025-01-18T00:06:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i3upo7/awake_dreaming_i_u_me_indie_rock_2025/"> <img src="https://external-preview.redd.it/JEWlFnwVwACelKQ2rMbQbfFy2UnbnebJhTkgpC4X8FE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=307c1ce64ff44b714964faa3cf8c10d07164df02" alt="Awake &amp; Dreaming -- I U Me [Indie Rock] (2025)" title="Awake &amp; Dreaming -- I U Me [Indie Rock] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cearrach"> /u/cearrach </a> <br/> <span><a href="https://youtu.be/iagrKPpExZg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i3upo7/awake_dreaming_i_u_me_indie_rock_2025/">[comments]</a></span> </td></tr></table>
+
+## By The Good Night - Hold On [Indie Rock] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i3ulks/by_the_good_night_hold_on_indie_rock_2025](https://www.reddit.com/r/listentothis/comments/1i3ulks/by_the_good_night_hold_on_indie_rock_2025)
+ - RSS feed: $source
+ - date published: 2025-01-18T00:01:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i3ulks/by_the_good_night_hold_on_indie_rock_2025/"> <img src="https://external-preview.redd.it/L-JSu6ACmUU6lMY2hwStljJmixt74DQX4PEF8G0cTUM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d747d196d2c845a3d6707d0d2d1948e542c534a6" alt="By The Good Night - Hold On [Indie Rock] (2025)" title="By The Good Night - Hold On [Indie Rock] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RobTheFiveNine"> /u/RobTheFiveNine </a> <br/> <span><a href="https://www.youtube.com/watch?v=63I7G0LRYJw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i3ulks/by_the_good_night_hold_on_indie_rock_2025/">[comments]</a></span> </td></tr></table>
+

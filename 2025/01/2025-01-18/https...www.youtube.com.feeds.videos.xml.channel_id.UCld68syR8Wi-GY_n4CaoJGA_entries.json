@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-18T20:00:35+00:00",
+        "description": "Like it or not Linux gaming has became an incredibly important use case for Linux and making that experience  as close to Windows as possible will hopefully make the games run even better\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nPhoronix Article 1: https://www.phoronix.com/news/Linux-6.14-NTSYNC-Driver-Ready\nLKML Post: https://lore.kernel.org/lkml/f4cc1a38-1441-62f8-47e4-0c67f5ad1d43@codeweavers.com/T/#u\nYouTube Talk :https://youtu.be/NjU4nyWyhU8\nPhoronix Article 2: https://www.phoronix.com/news/Linux-6.10-Merging-NTSYNC\nNTSYNC Broken: https://git.kernel.org/pub/scm/linux/kernel/git/gregkh/char-misc.git/commit/?h=char-misc-next&id=f5b335dc025cfee90957efa90dc72fada0d5abb4\nPhoronix Article 3 https://www.phoronix.com/news/CachyOS-2024-Highlights\nPhoronix Article 3:",
+        "id": 1933158,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=yYZCalpjcl8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yYZCalpjcl8/hqdefault.jpg",
+        "title": "NTSYNC Takes Linux Gaming To New Heights",
+        "vote": 0
+    }
+]

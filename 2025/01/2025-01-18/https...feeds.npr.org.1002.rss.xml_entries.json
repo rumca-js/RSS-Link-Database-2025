@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-18T05:00:00+00:00",
+        "description": "From <em>Twin Peaks</em> to his films to his own recording career, the director understood how much sound mattered \u2014 not only to the audience, but to the characters in his stories.",
+        "id": 1930932,
+        "language": "en",
+        "link": "https://www.npr.org/2025/01/18/nx-s1-5262970/david-lynch-music-score-soundtrack-universe",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 226,
+        "source_url": "https://feeds.npr.org/1002/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The musical universe of David Lynch",
+        "vote": 0
+    }
+]

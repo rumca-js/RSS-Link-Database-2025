@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-18T14:00:19+00:00",
+        "description": "That\u2019s my secret Captain\u2026I\u2019m always traumatized.",
+        "id": 1931555,
+        "language": null,
+        "link": "https://www.404media.co/the-moon-got-obliterated-and-lost-a-bunch-of-craters-3",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/01/image1.jpg",
+        "title": "The Moon Got Obliterated and Lost a Bunch of Craters",
+        "vote": 0
+    }
+]
