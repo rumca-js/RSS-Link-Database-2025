@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-19T17:00:31+00:00",
+        "description": "\u2709\ufe0f\u00a0Chcesz by\u0107\u00a0na bie\u017c\u0105co z wiadomo\u015bciami z cyber\u015bwiata? Zapisz si\u0119 do newslettera!\nhttps://newsletter.uczmnie.pl/\n\n\ud83c\udde7\ud83c\udde9\u00a0Napad na bank to znany w popkulturze trop. Nagrano na ten temat niezliczone filmy, seriale, a nawet napisano wybitne, muzyczne arcydzie\u0142a. Ale banki da si\u0119 obrabia\u0107\u00a0na filmow\u0105 wr\u0119cz skal\u0119\u00a0r\u00f3wnie\u017c i\u00a0bez wykorzystania d\u0142ugiej broni, pakowania got\u00f3wki do toreb w podziemnym skarbcu, czy tn\u0105c kraty palnikiem acetylenowym. Bo teraz mamy KOMPUTERY. I system SWIFT, kt\u00f3ry spina ca\u0142\u0105, mi\u0119dzynarodow\u0105\u00a0finansjer\u0119. No, prawie ca\u0142\u0105. Jak wi\u0119c mo\u017cna go wykorzysta\u0107, \u017ceby spr\u00f3bowa\u0107\u00a0okra\u015b\u0107\u00a0ca\u0142y kraj na prawie miliard dolar\u00f3w?\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udcb0\u00a0The Lazarus heist: How North Korea almost pulled off a billion-dollar hack\nhttps://www.bbc.com/news/stories-57520169\n\n\ud83c\udfe6\u00a0Hackers bugged Bangladesh Bank system in Jan\nhttps://web.archive.org/web/20160312145208/http://www.asianews.network/content/hackers-bugged-bangladesh-bank-system-jan-11271\n\n\ud83d\udcdf\u00a0Dridex\nhttps://malpedia.caad.fkie.fraunhofer.de/details/win.d",
+        "id": 1937064,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=O4g__xjR0ig",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/O4g__xjR0ig/hqdefault.jpg",
+        "title": "Dlaczego kryzysy zawsze wybuchaj\u0105 w weekendy?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-19T21:54:30+00:00",
+        "description": "<p>Unsurprisingly, time expired without ByteDance selling TikTok, so the U.S. ban went into effect last night at midnight and (also unsurprisingly) it\u2019s been chaotic and confusing. TikTok was down, but now (as I type this Sunday afternoon) it\u2019s back. Sort of.</p>\n\n<p>First, the whole thing has become inextricably tied to Donald Trump\u2019s return to the presidency tomorrow. I\u2019m not sure what the thinking was setting the deadline for divestiture one day prior to the 2025 inauguration, but it sure looks like a bad idea in hindsight. Or maybe a good idea? I don\u2019t know. Here\u2019s soon-president Trump, <a href=\"https://truthsocial.com/@realDonaldTrump/posts/113855616848696050\">on Truth Social this morning</a>:</p>\n\n<blockquote>\n  <p>I\u2019m asking companies not to let TikTok stay dark! I will issue an\nexecutive order on Monday to extend the period of time before the\nlaw\u2019s prohibitions take effect, so that we can make a deal to\nprotect our national security. The order will also confirm that\nthere wil",
+        "id": 1938219,
+        "language": null,
+        "link": "https://daringfireball.net/2025/01/briktok",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2605 BrikTok",
+        "vote": 0
+    }
+]

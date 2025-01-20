@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-19T16:19:28+00:00",
+        "description": "<p>\n\tMeeting C++ online did kick off the year with a sponsored event by NVIDIA with Bryce Adelstein Lelbach presenting his talk Think Parallel:</p>\n<blockquote>\n\t<p>\n\t\t<a href=\"https://www.youtube.com/watch?v=y0JfJq-AT0g\">Think Parallel - Bryce Adelstein Lelbach</a></p>\n\t<p>\n\t\t<iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/y0JfJq-AT0g?si=jDdTcs7nsilFwBYB\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n</blockquote>",
+        "id": 1936979,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/01/think-parallel-bryce-adelstein-lelbach-meeting-cpp-online",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Think Parallel - Bryce Adelstein Lelbach - Meeting C++ online",
+        "vote": 0
+    }
+]

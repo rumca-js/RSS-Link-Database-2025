@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-19T11:48:58+00:00",
+        "description": "A rehabilitation center established by the T\u00fcrkiye Diyanet Foundation (TDV) in the Azaz district of Syria\u2019s Aleppo province has provided treatment to nearly 60,000 war-affected chi...",
+        "id": 1935742,
+        "language": "en-US",
+        "link": "https://www.dailysabah.com/turkiye/turkish-foundations-azaz-center-aids-syrias-war-traumatized-kids/news",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 81,
+        "source_url": "https://www.dailysabah.com/rssFeed/10",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://idsb.tmgrup.com.tr/ly/uploads/images/2025/01/19/364673.jpg",
+        "title": "Turkish foundation's Azaz center aids Syria's war-traumatized kids",
+        "vote": 0
+    }
+]

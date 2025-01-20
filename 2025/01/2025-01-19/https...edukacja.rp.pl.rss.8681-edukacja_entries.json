@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-19T06:30:10.939031+00:00",
+        "description": "MON planuje wyda\u0107 tylko dziesi\u0119\u0107 zezwole\u0144 na tworzenie dodatkowych tzw. klas wojskowych w przysz\u0142ym roku szkolnym. Cho\u0107 od kilku lat liczba uczni\u00f3w w mundurach wzrasta, to resort obrony t\u0142umaczy, \u017ce musi urealni\u0107 stan Oddzia\u0142\u00f3w Przysposobienia Wojskowego do \u201ereali\u00f3w i ni\u017cu demograficznego\u201d.",
+        "id": 1934833,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/wojsko/art41695511-bedzie-mniej-nowych-klas-wojskowych-w-szkolach-spada-ich-popularnosc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "B\u0119dzie mniej nowych klas wojskowych w szko\u0142ach. Spada ich popularno\u015b\u0107?",
+        "vote": 0
+    }
+]
