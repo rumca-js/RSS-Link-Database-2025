@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-20T14:36:16+00:00",
+        "description": "<p>DeepSeek has unveiled its first-generation DeepSeek-R1 and DeepSeek-R1-Zero models that are designed to tackle complex reasoning tasks. DeepSeek-R1-Zero is trained solely through large-scale reinforcement learning (RL) without relying on supervised fine-tuning (SFT) as a preliminary step. According to DeepSeek, this approach has led to the natural emergence of &#8220;numerous powerful and interesting reasoning behaviours,&#8221; including<a class=\"excerpt-read-more\" href=\"https://www.artificialintelligence-news.com/news/deepseek-r1-reasoning-models-rival-openai-in-performance/\" title=\"ReadDeepSeek-R1 reasoning models rival OpenAI in performance\u00a0\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/deepseek-r1-reasoning-models-rival-openai-in-performance/\">DeepSeek-R1 reasoning models rival OpenAI in performance\u00a0</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 1942655,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/deepseek-r1-reasoning-models-rival-openai-in-performance/?utm_source=rss&utm_medium=rss&utm_campaign=deepseek-r1-reasoning-models-rival-openai-in-performance",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "DeepSeek-R1 reasoning models rival OpenAI in performance",
+        "vote": 0
+    }
+]

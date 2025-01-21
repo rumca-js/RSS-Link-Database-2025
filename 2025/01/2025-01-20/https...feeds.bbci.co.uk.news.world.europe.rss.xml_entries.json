@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-20T11:40:24+00:00",
+        "description": "Francis previously said that Trump cannot be a Christian if he plans to build a wall to keep migrants from Mexico out.",
+        "id": 1941827,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c0jnz8q6p32o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae89/live/aee75850-d72a-11ef-94cb-5f844ceb9e30.jpg",
+        "title": "Trump plan to deport migrants a 'disgrace', says Pope",
+        "vote": 0
+    }
+]

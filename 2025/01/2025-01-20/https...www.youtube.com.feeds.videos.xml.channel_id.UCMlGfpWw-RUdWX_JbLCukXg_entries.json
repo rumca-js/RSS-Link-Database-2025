@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-20T15:07:07+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nThe Beman Project: Bringing C++ Standard Libraries to the Next Level - David Sankel - CppCon 2024\n---\n\nThis talk introduces the Beman Project, a new community initiative to improve the quality of C++ standard library enhancements. The project provides a) a simple way for engineers to evaluate standard library proposal implementations, b) a high quality template for standard library authors to share their implementations, and c) a modern platform for the wider C++ community to discuss standard proposals.\n\nWe'll discuss the problems the Beman Project is addressing, how it came about, and, most importantly, how to get involved. At the end of this talk you'll feel equipped to build and test proposed standard libraries, provide feedback, and, perhaps, contribute some implementations yourself!\n\nThe Beman Project is named in memory of Beman Dawes, the much loved co-founder of Boost.\n---\n\nSlides: https://github.com/CppCon/CppCon2024/blob/main/Presentations/The_Beman_",
+        "id": 1943320,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=f4JinCpcQOg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/f4JinCpcQOg/hqdefault.jpg",
+        "title": "The Beman Project: Bringing C++ Standard Libraries to the Next Level - David Sankel - CppCon 2024",
+        "vote": 0
+    }
+]

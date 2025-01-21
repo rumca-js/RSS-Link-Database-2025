@@ -1,0 +1,107 @@
+# Source:Listen To This, URL:https://www.reddit.com/r/listentothis/.rss, language:
+
+## CKaabal - Taxi [Darkwave/Synthpop] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i63j3s/ckaabal_taxi_darkwavesynthpop_2025](https://www.reddit.com/r/listentothis/comments/1i63j3s/ckaabal_taxi_darkwavesynthpop_2025)
+ - RSS feed: $source
+ - date published: 2025-01-20T22:47:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i63j3s/ckaabal_taxi_darkwavesynthpop_2025/"> <img src="https://external-preview.redd.it/XmoVoXMGelut6ZumNXkm_pYE_rGdNmMlWmE2wR0CVaM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fa7cf885384f57fc2d686b6c16cbbc795dee7774" alt="CKaabal - Taxi [Darkwave/Synthpop] (2025)" title="CKaabal - Taxi [Darkwave/Synthpop] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mrzeede"> /u/Mrzeede </a> <br/> <span><a href="https://www.youtube.com/watch?v=vcYBE8Zajxk">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i63j3s/ckaabal_taxi_darkwavesynthpop_2025/">[comments]</a></span> </td></tr></table>
+
+## Whipping Boy - Twinkle [Alternative Rock] (1995)
+ - [https://www.reddit.com/r/listentothis/comments/1i61tfx/whipping_boy_twinkle_alternative_rock_1995](https://www.reddit.com/r/listentothis/comments/1i61tfx/whipping_boy_twinkle_alternative_rock_1995)
+ - RSS feed: $source
+ - date published: 2025-01-20T21:36:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i61tfx/whipping_boy_twinkle_alternative_rock_1995/"> <img src="https://external-preview.redd.it/j6naBjIgFvckrFH5Z5kWerK6Yuq334DA_H1KuHpHF0A.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c9fb728163c25e724fb8740909e6bf65f798accf" alt="Whipping Boy - Twinkle [Alternative Rock] (1995)" title="Whipping Boy - Twinkle [Alternative Rock] (1995)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Starry272"> /u/Starry272 </a> <br/> <span><a href="https://www.youtube.com/watch?v=6IutkqyUU5o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i61tfx/whipping_boy_twinkle_alternative_rock_1995/">[comments]</a></span> </td></tr></table>
+
+## sukekiyo -- Candis [Pop Rock/Visual Kei] (2021)
+ - [https://www.reddit.com/r/listentothis/comments/1i61itz/sukekiyo_candis_pop_rockvisual_kei_2021](https://www.reddit.com/r/listentothis/comments/1i61itz/sukekiyo_candis_pop_rockvisual_kei_2021)
+ - RSS feed: $source
+ - date published: 2025-01-20T21:24:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i61itz/sukekiyo_candis_pop_rockvisual_kei_2021/"> <img src="https://external-preview.redd.it/dJyLo28HUbuwEROrUdJtcRWoeffsE0IhnMWkwrnNmIU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7be88b43f9391783e4f34ef3c8853aa95e099280" alt="sukekiyo -- Candis [Pop Rock/Visual Kei] (2021)" title="sukekiyo -- Candis [Pop Rock/Visual Kei] (2021)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Automatic-Plum-2854"> /u/Automatic-Plum-2854 </a> <br/> <span><a href="https://www.youtube.com/watch?v=ZVLoKF3Fqks">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i61itz/sukekiyo_candis_pop_rockvisual_kei_2021/">[comments]</a></span> </td></tr></table>
+
+## DK-ZERØ - BØØM BØØM [Industrial Metal] (2019)
+ - [https://www.reddit.com/r/listentothis/comments/1i612d3/dkzerø_bøøm_bøøm_industrial_metal_2019](https://www.reddit.com/r/listentothis/comments/1i612d3/dkzerø_bøøm_bøøm_industrial_metal_2019)
+ - RSS feed: $source
+ - date published: 2025-01-20T21:05:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i612d3/dkzerø_bøøm_bøøm_industrial_metal_2019/"> <img src="https://external-preview.redd.it/SnkIHmUAZuqdf0h6ixKJ9ZMFgdtP6CsIDhjTYR1K-Dc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=40a0e4937188facf2d72c578d99baeb2b01eeec3" alt="DK-ZERØ - BØØM BØØM [Industrial Metal] (2019)" title="DK-ZERØ - BØØM BØØM [Industrial Metal] (2019)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_HKB_"> /u/_HKB_ </a> <br/> <span><a href="https://youtu.be/Fk_DTMWb6xA?si=btGYgM-Ht5-YHbyj">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i612d3/dkzerø_bøøm_bøøm_industrial_metal_2019/">[comments]</a></span> </td></tr></table>
+
+## Apple & The Three Oranges - True Love Will Never Die [Funk/Soul] (1971)
+ - [https://www.reddit.com/r/listentothis/comments/1i60kf9/apple_the_three_oranges_true_love_will_never_die](https://www.reddit.com/r/listentothis/comments/1i60kf9/apple_the_three_oranges_true_love_will_never_die)
+ - RSS feed: $source
+ - date published: 2025-01-20T20:45:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i60kf9/apple_the_three_oranges_true_love_will_never_die/"> <img src="https://external-preview.redd.it/mvqLsY6Cg7KwwGUkNX42IHdrZRxm2eZdfhgB04rq588.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9df3cbb0b71069cc14edd1c81d18a282537a1434" alt="Apple &amp; The Three Oranges - True Love Will Never Die [Funk/Soul] (1971)" title="Apple &amp; The Three Oranges - True Love Will Never Die [Funk/Soul] (1971)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Comer_Agua"> /u/Comer_Agua </a> <br/> <span><a href="https://youtu.be/ZcZwiTa-zhc?si=bTOrvMEbVYuHM7_E">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i60kf9/apple_the_three_oranges_true_love_will_never_die/">[comments]</a></span> </td></tr></table>
+
+## Master Peace -- Start You Up [2009 alt brit pop] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1i5ynts/master_peace_start_you_up_2009_alt_brit_pop_2024](https://www.reddit.com/r/listentothis/comments/1i5ynts/master_peace_start_you_up_2009_alt_brit_pop_2024)
+ - RSS feed: $source
+ - date published: 2025-01-20T19:29:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i5ynts/master_peace_start_you_up_2009_alt_brit_pop_2024/"> <img src="https://external-preview.redd.it/QAeXSQgpkq5dsM_61rhe9szaL7gBiGyTlvmZ1gOD6Oo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=99713844454451a74d8a5f67410377c1d2b5023e" alt="Master Peace -- Start You Up [2009 alt brit pop] (2024)" title="Master Peace -- Start You Up [2009 alt brit pop] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ben_Thyme"> /u/Ben_Thyme </a> <br/> <span><a href="https://youtu.be/ezm7V-9J670?si=kjHcYDMH0rYxDd9g">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i5ynts/master_peace_start_you_up_2009_alt_brit_pop_2024/">[comments]</a></span> </td></tr></table>
+
+## Hana Piranha -- I Wanna Leave [alt rock] (2023)
+ - [https://www.reddit.com/r/listentothis/comments/1i5s2dh/hana_piranha_i_wanna_leave_alt_rock_2023](https://www.reddit.com/r/listentothis/comments/1i5s2dh/hana_piranha_i_wanna_leave_alt_rock_2023)
+ - RSS feed: $source
+ - date published: 2025-01-20T15:01:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i5s2dh/hana_piranha_i_wanna_leave_alt_rock_2023/"> <img src="https://external-preview.redd.it/SLN6GOUdUq6M7dkhx1NTe5chCoS6qEYclZOXCqj2WzM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=961e5d639ff196f7d6c91eb67be20342452972ce" alt="Hana Piranha -- I Wanna Leave [alt rock] (2023)" title="Hana Piranha -- I Wanna Leave [alt rock] (2023)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/qazz23"> /u/qazz23 </a> <br/> <span><a href="https://www.youtube.com/watch?v=d9yWCk0ocYM">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i5s2dh/hana_piranha_i_wanna_leave_alt_rock_2023/">[comments]</a></span> </td></tr></table>
+
+## Days Pass - Adrian Berenguer [neo-classical / ambient] (2020)
+ - [https://www.reddit.com/r/listentothis/comments/1i5pw52/days_pass_adrian_berenguer_neoclassical_ambient](https://www.reddit.com/r/listentothis/comments/1i5pw52/days_pass_adrian_berenguer_neoclassical_ambient)
+ - RSS feed: $source
+ - date published: 2025-01-20T13:15:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i5pw52/days_pass_adrian_berenguer_neoclassical_ambient/"> <img src="https://external-preview.redd.it/VdGXi1WSvt-Hhx9f6Q0uzV94AQcwS03xH0rp6kzDFw8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=282fc7b0c5d6ea2f793a957c591fc53559d0f852" alt="Days Pass - Adrian Berenguer [neo-classical / ambient] (2020)" title="Days Pass - Adrian Berenguer [neo-classical / ambient] (2020)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ordago13"> /u/ordago13 </a> <br/> <span><a href="https://www.youtube.com/watch?v=GoSmruOJl3g">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i5pw52/days_pass_adrian_berenguer_neoclassical_ambient/">[comments]</a></span> </td></tr></table>
+
+## Towanda Barnes - (You Better) Find Someone To Love [Funk/Soul] (1969)
+ - [https://www.reddit.com/r/listentothis/comments/1i5mkdw/towanda_barnes_you_better_find_someone_to_love](https://www.reddit.com/r/listentothis/comments/1i5mkdw/towanda_barnes_you_better_find_someone_to_love)
+ - RSS feed: $source
+ - date published: 2025-01-20T09:35:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i5mkdw/towanda_barnes_you_better_find_someone_to_love/"> <img src="https://external-preview.redd.it/JDOE4fArBLZhQW1-awmnqjnBajbl3Ot4QoUDnrZmIfc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f9ef0f35fc8e57012ebae559995c272ce5bbc8f7" alt="Towanda Barnes - (You Better) Find Someone To Love [Funk/Soul] (1969)" title="Towanda Barnes - (You Better) Find Someone To Love [Funk/Soul] (1969)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/whitedolphinn"> /u/whitedolphinn </a> <br/> <span><a href="https://youtu.be/zAvdm_GixPw?si=OX292Vq7zT25Vk3A">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i5mkdw/towanda_barnes_you_better_find_someone_to_love/">[comments]</a></span> </td></tr></table>
+
+## Who Saved Who -- Pictures Have Sound [Indie/Alternative Rock] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1i5hwd0/who_saved_who_pictures_have_sound](https://www.reddit.com/r/listentothis/comments/1i5hwd0/who_saved_who_pictures_have_sound)
+ - RSS feed: $source
+ - date published: 2025-01-20T04:17:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i5hwd0/who_saved_who_pictures_have_sound/"> <img src="https://external-preview.redd.it/znGejbhCZ8-BA6fqUc5AV0ezUgZVIqB5QEC39S_SDD0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=df33e8bd87fe1539df9ec1f1c52af8cc214a9994" alt="Who Saved Who -- Pictures Have Sound [Indie/Alternative Rock] (2024)" title="Who Saved Who -- Pictures Have Sound [Indie/Alternative Rock] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CannedPears1"> /u/CannedPears1 </a> <br/> <span><a href="https://www.youtube.com/watch?v=Nprkw0qbsDI">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i5hwd0/who_saved_who_pictures_have_sound/">[comments]</a></span> </td></tr></table>
+
+## Jesse Eliza - So Tragic [Alternative Pop] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i5fr2x/jesse_eliza_so_tragic_alternative_pop_2025](https://www.reddit.com/r/listentothis/comments/1i5fr2x/jesse_eliza_so_tragic_alternative_pop_2025)
+ - RSS feed: $source
+ - date published: 2025-01-20T02:19:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i5fr2x/jesse_eliza_so_tragic_alternative_pop_2025/"> <img src="https://external-preview.redd.it/OUAeHOoFJYvvTqEuOf_4wkoxdyQ_GkXXV5Y_JjgVdvo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5b5fe1d8606b9ecb672fb609113b58173deed594" alt="Jesse Eliza - So Tragic [Alternative Pop] (2025)" title="Jesse Eliza - So Tragic [Alternative Pop] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SicWiks"> /u/SicWiks </a> <br/> <span><a href="https://youtu.be/V_Ao-PgobCY?si=-p4VrXSpJFaXHCS4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i5fr2x/jesse_eliza_so_tragic_alternative_pop_2025/">[comments]</a></span> </td></tr></table>
+
+## VV & Demi$e - I Bought 2 Packs [Hip-Hop] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i5em7j/vv_demie_i_bought_2_packs_hiphop_2025](https://www.reddit.com/r/listentothis/comments/1i5em7j/vv_demie_i_bought_2_packs_hiphop_2025)
+ - RSS feed: $source
+ - date published: 2025-01-20T01:19:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i5em7j/vv_demie_i_bought_2_packs_hiphop_2025/"> <img src="https://external-preview.redd.it/ZkQRxO_MXVuNBug8X5oMGuI1TVQtqO1TeRODjGg-9v8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a3e3475b6a16db6087f24cffd80e277bb7f08cd4" alt="VV &amp; Demi$e - I Bought 2 Packs [Hip-Hop] (2025)" title="VV &amp; Demi$e - I Bought 2 Packs [Hip-Hop] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ringedplum01"> /u/Ringedplum01 </a> <br/> <span><a href="https://youtu.be/aFeTVHtCJ0g?si=uvkY7IasdbcuJtQz">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i5em7j/vv_demie_i_bought_2_packs_hiphop_2025/">[comments]</a></span> </td></tr></table>
+
+## Music Melting Pot [Week of January 20, 2025]
+ - [https://www.reddit.com/r/listentothis/comments/1i5e8ou/music_melting_pot_week_of_january_20_2025](https://www.reddit.com/r/listentothis/comments/1i5e8ou/music_melting_pot_week_of_january_20_2025)
+ - RSS feed: $source
+ - date published: 2025-01-20T01:00:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>The melting pot is a free-for-all music sharing thread posted weekly.</p> <p>We&#39;d like to invite everyone to reply with...</p> <ul> <li>Anything you&#39;ve been listening to recently and enjoying.</li> <li>Great obscure music that doesn&#39;t get the upvotes you think it deserves.</li> <li>Your own playlists, mixtapes, or other good compilations you&#39;ve found.</li> <li>New releases this week and your opinions on those albums.</li> <li>If you&#39;re an artist, share your music with us and tell us about it.</li> </ul> <p>Guidelines to get the most out of these threads...</p> <ul> <li>Always provide listening links for anything you share here.</li> <li>Tell us a little bit about what you&#39;re sharing and why you like it.</li> <li>No top40/hall of fame artists, no &#39;corporate bullshit&#39; music please!</li> <li>For top-level comments, downvote if there is no listening link.</li> <li>Format any posted links as follows: [Artist - &quot;Song Ti
+
+## Occasionally Humans - Wanting and Waiting [shoegaze/dreampop] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i5e2zv/occasionally_humans_wanting_and_waiting](https://www.reddit.com/r/listentothis/comments/1i5e2zv/occasionally_humans_wanting_and_waiting)
+ - RSS feed: $source
+ - date published: 2025-01-20T00:52:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i5e2zv/occasionally_humans_wanting_and_waiting/"> <img src="https://external-preview.redd.it/uBJeZkNXXFmXtCqouhFGIO_gdlbDNLE0aCRTelPVQzQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e1e3dbb308104b84d956adbbed529b8d69cca1e6" alt="Occasionally Humans - Wanting and Waiting [shoegaze/dreampop] (2025)" title="Occasionally Humans - Wanting and Waiting [shoegaze/dreampop] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Moon_Machine24"> /u/Moon_Machine24 </a> <br/> <span><a href="https://youtu.be/Jl6y-hodeJs?si=w8kLsr6GKQm7c9ck">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i5e2zv/occasionally_humans_wanting_and_waiting/">[comments]</a></span> </td></tr></table>
+
+## Jordy Searcy - Love & War in Your Twenties [indie pop] (2019)
+ - [https://www.reddit.com/r/listentothis/comments/1i5dcso/jordy_searcy_love_war_in_your_twenties_indie_pop](https://www.reddit.com/r/listentothis/comments/1i5dcso/jordy_searcy_love_war_in_your_twenties_indie_pop)
+ - RSS feed: $source
+ - date published: 2025-01-20T00:15:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i5dcso/jordy_searcy_love_war_in_your_twenties_indie_pop/"> <img src="https://external-preview.redd.it/egTJlweMYKg-5fDoEja3kTud-M9EjvMyZuqXPbIeEdk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=24f82c19ba58c57d88f4cb52441c990edb38f6cf" alt="Jordy Searcy - Love &amp; War in Your Twenties [indie pop] (2019)" title="Jordy Searcy - Love &amp; War in Your Twenties [indie pop] (2019)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/-Thrillseeker-"> /u/-Thrillseeker- </a> <br/> <span><a href="https://youtu.be/9veE60bl-lQ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i5dcso/jordy_searcy_love_war_in_your_twenties_indie_pop/">[comments]</a></span> </td></tr></table>
+

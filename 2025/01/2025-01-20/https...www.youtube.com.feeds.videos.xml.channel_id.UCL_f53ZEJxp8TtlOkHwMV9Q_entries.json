@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jordan B Peterson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-20T22:00:17+00:00",
+        "description": "Jordan Peterson sits down with author, podcaster, and notorious troll, Michael Malice. They discuss the motivations behind deep and totalitarian evil, how the margins of society operate within the anarchist framework, and the effect of counterproductive moralizing on psychological and political behavior. \n\nMichael Malice is the author of \u201cDear Reader: The Unauthorized Autobiography of Kim Jong Il\u201d and \u201cThe New Right: A Journey to the Fringe of American Politics, The White Pill,\u201d and  organizer of \u201cThe Anarchist Handbook.\u201d He is also the subject of the graphic novel \u201cEgo & Hubris,\u201d written by the late Harvey Pekar of American Splendor fame. He is the host of the podcast, \u201cYOUR WELCOME.\u201d Malice has co-authored books with several prominent personalities, including \u201cMade in America\u201d (the New York Times best-selling autobiography of UFC Hall of Famer Matt Hughes), \u201cConcierge Confidential\u201d (one of NPR\u2019s top 5 celebrity books of the year) and \u201cBlack Man, White House\u201d (comedian D. L. Hughley",
+        "id": 1945368,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Rkt9UpgLCio",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 167,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Rkt9UpgLCio/hqdefault.jpg",
+        "title": "Michael Malice: A Clinical Analysis | EP 516",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-20T21:28:58+00:00",
+        "description": "<p>Join us as we discover CES 2025 insights on edge AI, AI PCs and future AI trends with experts from TIRIAS Research. Watch now!</p>\n<p>The post <a href=\"https://www.eetimes.com/ces-2025-takeaways-edge-ai-and-ai-pcs/\">CES 2025 Takeaways: Edge AI and AI PCs</a> appeared first on <a href=\"https://www.eetimes.com\">EE Times</a>.</p>",
+        "id": 1944927,
+        "language": "en-US",
+        "link": "https://www.eetimes.com/ces-2025-takeaways-edge-ai-and-ai-pcs",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 483,
+        "source_url": "https://eetimes.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.eetimes.com/wp-content/uploads/AdobeStock_954714817.jpeg",
+        "title": "CES 2025 Takeaways: Edge AI and AI PCs",
+        "vote": 0
+    }
+]

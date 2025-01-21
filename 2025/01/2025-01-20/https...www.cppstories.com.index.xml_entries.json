@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-20T00:00:00+00:00",
+        "description": "<p>In this blog post, we\u2019ll explore ways to improve the safety of a simple configuration manager. We&rsquo;ll handle common pitfalls like dangling references and excessive stack usage. Additionally, we&rsquo;ll see how C++26 helps enforce safer coding practices with stricter diagnostics and improved handling of large objects.</p>\n<p>Let\u2019s go.</p>\n<h2 id=\"step-1-the-buggy-implementation\">\nStep 1: The Buggy Implementation \n  \n<a class=\"hash-link\" href=\"#step-1-the-buggy-implementation\" aria-hidden=\"true\">\n<svg class=\"fill-current o-60 hover-accent-color-light\" height=\"24\" viewBox=\"0 0 24 24\" width=\"22\" xmlns=\"http://www.w3.org/2000/svg\" aria-hidden=\"true\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z\"></path></svg>\n    </a>&nbsp;\n    \n</h2>\n\n<p>Below is a simple example o",
+        "id": 1945061,
+        "language": "en-us",
+        "link": "https://www.cppstories.com/2025/cpp26-safety-temp",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 47,
+        "source_url": "https://www.cppstories.com/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Improving Code Safety in C++26: Managers and Dangling References",
+        "vote": 0
+    }
+]

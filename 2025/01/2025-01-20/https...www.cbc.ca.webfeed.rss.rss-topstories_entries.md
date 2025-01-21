@@ -1,0 +1,163 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Alberta government lifts ban on coal exploration in eastern slopes of Rocky Mountains
+ - [https://www.cbc.ca/news/canada/calgary/aer-grassy-mountain-eastern-slopes-brian-jean-1.7436871?cmp=rss](https://www.cbc.ca/news/canada/calgary/aer-grassy-mountain-eastern-slopes-brian-jean-1.7436871?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T22:33:45+00:00
+
+<img src='https://i.cbc.ca/1.7416305.1734712959!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/grassy-mountain-coal-project-20240606.jpg' alt='A mountain is pictured.' width='620' height='349' title='Grassy Mountain, peak to left, and the Grassy Mountain Coal Project are seen north of Blairmore on June 6. '/><p>The Alberta government has lifted a ban on coal exploration in the eastern slopes of the Rocky Mountains, a move that the regulator says will allow suspended projects to resume.</p>
+
+## U.S. Border Patrol agent killed in Vermont near Canada-U.S. border, say authorities
+ - [https://www.cbc.ca/news/world/us-border-agent-shot-1.7436853?cmp=rss](https://www.cbc.ca/news/world/us-border-agent-shot-1.7436853?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T21:46:15+00:00
+
+<img src='https://i.cbc.ca/1.6021154.1737427533!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/canada.JPG' alt='A closeup of a shoulder patch that reads &apos;U.S. Border Patrol&apos;' width='620' height='349' title='U.S. Border Patrol, the law enforcement unit of the border agency, U.S. Customs and Border Protection, is accused in a new ACLU study of stopping people of colour in wildly disproportionate numbers.'/><p>A U.S. Border Patrol agent was shot and killed in Vermont on Monday while performing their duties near the Canada-U.S. border, according to U.S. federal and state authorities. </p>
+
+## Oilers star McDavid handed 3-game suspension for cross-check
+ - [https://www.cbc.ca/sports/hockey/nhl/connor-mcdavid-suspension-3-games-1.7436753?cmp=rss](https://www.cbc.ca/sports/hockey/nhl/connor-mcdavid-suspension-3-games-1.7436753?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T19:12:51+00:00
+
+<img src='https://i.cbc.ca/1.7435625.1737311908!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/oilers-hockey-58754.jpg' alt='A close up of a male ice hockey player.' width='620' height='349' title='Oilers centre Conor McDavid was given a match penalty when he slammed his stick into the head of Canucks forward Conor Garland after the players got tangled up late in the third period of Edmonton&apos;s 3-2 loss on Saturday night in Vancouver.'/><p>The NHL has suspended Edmonton Oilers superstar Connor McDavid for three games for his cross-check to the head of Vancouver Canucks winger Conor Garland.</p>
+
+## Salmonella linked to recalled mini pastries may have infected nearly 1,600: PHAC
+ - [https://www.cbc.ca/news/canada/british-columbia/mini-pastries-salmonella-infections-1.7436689?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/mini-pastries-salmonella-infections-1.7436689?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T19:00:48+00:00
+
+<img src='https://i.cbc.ca/1.7435701.1737417446!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/sweet-cream-patisseries-recall.jpg' alt='A picture of a box of pastries from above, with the words &apos;Mini Patisseries Mixtes&apos; underneath.' width='620' height='349' title='Boxes of Sweet Cream mini pastries, sold in packs of 30 pieces each, have been recalled after they were linked to a salmonella outbreak across five provinces.'/><p>The Canadian Food Inspection Agency says the Sweet Cream brand mini pastries have been distributed at bakeries, hotels, restaurants, cafeterias, hospitals, and retirement residences and have been served at catered events.</p>
+
+## Elon Musk accused of making what appeared to be fascist salute at Trump inaugural event
+ - [https://www.cbc.ca/player/play/9.6618544?cmp=rss](https://www.cbc.ca/player/play/9.6618544?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T18:24:00+00:00
+
+<img src='https://i.cbc.ca/ais/b193863c-7101-4f99-a7a8-8b3dcd01baf8,1737413389228/full/max/0/default.jpg?im=Crop%2Crect%3D%284%2C0%2C5221%2C2936%29%3BResize%3D%28620%29' alt='Elon Musk stands at a podium to speak at Donald Trump&apos;s inauguration. Musk is doing a salute-like gesture with a palm raised high to the side.' width='620' height='349' title='Elon Musk gestures at the podium inside the Capital One arena on the inauguration day of Donald Trump&apos;s second presidential term, in Washington, U.S., January 20, 2025. REUTERS/Mike Segar'/><p>Tesla and SpaceX CEO Elon Musk took the stage at an inaugural event for U.S. President Donald Trump on Monday, pumping his fists and then making what some critics said appeared to be a fascist salute as he thanked the crowd. Some supporters are dismissing those claims, saying that Musk was merely gesturing 'from my heart to you.' Musk was tapped by Trump to co-lead an advisory group aimed at carrying out dramatic cuts to the U.S. government
+
+## Guilbeault says it's 'deplorable' Trump will pull out of Paris Agreement as California burns
+ - [https://www.cbc.ca/news/politics/trump-paris-climate-evs-guilbeault-1.7436514?cmp=rss](https://www.cbc.ca/news/politics/trump-paris-climate-evs-guilbeault-1.7436514?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T18:17:53+00:00
+
+<img src='https://i.cbc.ca/1.7436568.1737414591!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/cabinet-retreat-20250120.jpg' alt='A man&apos;s face is seen from the side in a darkly lit room.' width='620' height='349' title='Minister of Environment and Climate Change Steven Guilbeault speaks to reporters during a cabinet retreat at Chateau Montebello in Montebello, Que., on Monday, Jan. 20, 2025. '/><p>Canada’s Environment and Climate Change Minister Steven Guilbeault said the world needs to collectively continue fighting climate change, no matter what what President Donald Trump does in his second term.</p>
+
+## Ottawa man testifies he received 'flurry' of punches in unprovoked attack by off-duty Windsor police officer
+ - [https://www.cbc.ca/news/canada/windsor/trial-deler-bal-1.7436283?cmp=rss](https://www.cbc.ca/news/canada/windsor/trial-deler-bal-1.7436283?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T17:15:48+00:00
+
+<img src='https://i.cbc.ca/1.6803981.1680801301!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/sgt-deler-bal.JPG' alt='Sgt. Deler Bal serves as Unit Sergeant for the Windsor Police Service Chief&apos;s Honour Guard.' width='620' height='349' title='Sgt. Deler Bal serves as Unit Sergeant for the Windsor Police Service Chief&apos;s Honour Guard.'/><p>An Ottawa man testified Monday that he received "a flurry of right-hand punches" to his face from an off-duty Windsor police officer in a bar bathroom in 2023, as the assault trial for Sgt. Deler Bal began Monday in the nation's capital.</p>
+
+## At a friendly diner on the U.S. border, patrons react to Trump's inauguration
+ - [https://www.cbc.ca/news/canada/montreal/trump-inauguration-border-diner-1.7436350?cmp=rss](https://www.cbc.ca/news/canada/montreal/trump-inauguration-border-diner-1.7436350?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T16:40:46+00:00
+
+<img src='https://i.cbc.ca/1.7436374.1737403521!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-inauguration.JPG' alt='three people sitting at a table as a television shows another man. ' width='620' height='349' title='Brittany Swift, who voted for Kamala Harris, sits with her father, Keith Hollman, a Trump supporter, and her 22-month-old son, Milo, at the Best Friends Family Diner, a stone&apos;s throw from the Canadian border, on the day of Donald Trump&apos;s inauguration as U.S. President in Rouses Point, New York, U.S., January 20, 2025. '/><p>Best Friends Family Diner sits at the intersection of New York and Vermont states on the border with Quebec, just a few kilometres from Roxham Road, an unofficial border crossing where thousands of asylum seekers walked into Canada before it effectively closed in 2023.</p>
+
+## No Trump tariffs for now, but Canadian businesses are preparing anyway
+ - [https://www.cbc.ca/news/business/how-cdn-biz-prepping-for-tariffs-1.7436182?cmp=rss](https://www.cbc.ca/news/business/how-cdn-biz-prepping-for-tariffs-1.7436182?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T16:34:37+00:00
+
+<img src='https://i.cbc.ca/1.7436176.1737395610!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump-inauguration.jpg' alt='An elevated view shows a man in a suit entering a room through a large long velvet curtain.' width='620' height='349' title='President-elect Donald Trump arrives at the 60th Presidential Inauguration in the Rotunda of the U.S. Capitol in Washington, Monday, Jan. 20, 2025. '/><p>Canada might be spared from Donald Trump's tariffs for now after media reports confirmed the president wouldn't impose a 25 per cent tax on imported goods during his first day in office. But Canadian business leaders and owners are prepared anyway.</p>
+
+## Panama Canal 'will continue to be Panamanian,' country's president says in response to Trump
+ - [https://www.cbc.ca/news/world/panama-canal-trump-1.7436264?cmp=rss](https://www.cbc.ca/news/world/panama-canal-trump-1.7436264?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T16:20:56+00:00
+
+<img src='https://i.cbc.ca/1.7417556.1737407176!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump-mulino-composite.jpg' alt='This composite image shows two people delivering speeches.' width='620' height='349' title=''/><p>Doubling down on his pre-inauguration threat to reimpose U.S. control over the canal, Trump, in his inauguration speech Monday, again accused Panama of breaking the promises it made for the final transfer of the strategic waterway in 1999 and of ceding its operation to China — claims that Panama has vehemently denied.</p>
+
+## He identified his nephew's remains from his shoe, as search underway in Gaza to recover bodies
+ - [https://www.cbc.ca/news/world/gaza-palestinians-rubble-search-bodies-1.7435906?cmp=rss](https://www.cbc.ca/news/world/gaza-palestinians-rubble-search-bodies-1.7435906?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T15:18:27+00:00
+
+<img src='https://i.cbc.ca/1.7435985.1737386359!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/man-holds-up-a-shoe.jpeg' alt='A man holds up a shoe.' width='620' height='349' title='A man holds up a shoe.'/><p>Rescue workers and families are searching for an estimated 10,000 bodies of loved ones believed to still be beneath the rubble in Gaza a day after the ceasefire between Israel and Hamas took effect.</p>
+
+## RCMP charge Sask. man with murder in Lloydminster killings of father, 2 sons
+ - [https://www.cbc.ca/news/canada/edmonton/rcmp-charge-sask-man-with-murder-in-lloydminster-killings-of-father-2-sons-1.7436227?cmp=rss](https://www.cbc.ca/news/canada/edmonton/rcmp-charge-sask-man-with-murder-in-lloydminster-killings-of-father-2-sons-1.7436227?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T15:05:24+00:00
+
+<img src='https://i.cbc.ca/1.7436339.1737402273!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rcmp.jpg' alt='A man in a uniform stands behind a podium.' width='620' height='349' title='Insp. Dean Riou, officer in charge of north operations with K Division serious crime branch, speaks to media in Lloydminster on Jan. 20, 2025.'/><p>A 31-year-old Saskatchewan man has been charged with three counts of second-degree murder in the shooting deaths of a father and his two adult sons in Lloydminster, Sask. Brent Peters, 66, and his sons Brennan, 34, and Matthew, 32, were found dead inside a home in the border city on Sept. 11.</p>
+
+## Biden grants activist Leonard Peltier clemency to finish life sentence at home
+ - [https://www.cbc.ca/news/indigenous/leonard-peltier-biden-clemency-1.7436142?cmp=rss](https://www.cbc.ca/news/indigenous/leonard-peltier-biden-clemency-1.7436142?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T13:05:43+00:00
+
+<img src='https://i.cbc.ca/1.7264914.1737396123!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/native-americans-mourning.jpg' alt='Ralliers march in the streets, some holding a large painting of Leonard Peltier.' width='620' height='349' title='In this Nov. 22, 2001, file photo, marchers carry a large painting of jailed American Indian Movement activist Leonard Peltier during a march for the National Day of Mourning in Plymouth, Mass. United American Indians of New England held its first National Day of Mourning in 1970. Tribes again plan to gather at noon on a windswept hill overlooking Plymouth Rock on Thanksgiving Day, Thursday, Nov. 28, 2019.'/><p>As President Biden finishes his term as U.S. president, one of his final acts was to grant executive clemency to Aim activist Leonard Peltier, who has spent over 50 years in jail for the murders of two FBI Agents, during the AIM movement in 1975.</p>
+
+## Blue Jays reportedly reach 5-year deal with slugger Santander, pending physical
+ - [https://www.cbc.ca/sports/baseball/mlb/anthony-santander-blue-jays-agreement-mlb-1.7436168?cmp=rss](https://www.cbc.ca/sports/baseball/mlb/anthony-santander-blue-jays-agreement-mlb-1.7436168?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T13:03:48+00:00
+
+<img src='https://i.cbc.ca/1.7436189.1737396063!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/santander-anthony-240925-1180.jpg' alt='Anthony Santander of the Baltimore Orioles hits an RBI double against the New York Yankees during at Yankee Stadium on September 25, 2024 in the Bronx borough of New York City. ' width='620' height='349' title='Outfielder Anthony Santander, 30, belted a career-high 44 homers and drove in 102 runs with the Orioles last season.'/><p>The Toronto Blue Jays finally landed a high-profile free agent on Monday, adding Anthony Santander to their powerful lineup, according to a person with direct knowledge of the agreement.</p>
+
+## Suspect arrested in the stabbing of Bollywood star Saif Ali Khan
+ - [https://www.cbc.ca/news/entertainment/bollywood-star-suspect-arrested-1.7436022?cmp=rss](https://www.cbc.ca/news/entertainment/bollywood-star-suspect-arrested-1.7436022?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T11:26:55+00:00
+
+<img src='https://i.cbc.ca/1.7436032.1737389016!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/india-bollywood-star-stabbed.jpg' alt='A smiling man is shown from the shoulders up, holding a microphone and waving with the other hand. He is standing in front of a soft pink backdrop. ' width='620' height='349' title='Bollywood actor Saif Ali Khan attends the trailer launch of his film Tanhaji in Mumbai, India, Nov. 19, 2019.'/><p>A man thought to be a citizen of Bangladesh was arrested in India's financial capital Mumbai on Sunday and is considered the prime suspect in the stabbing of Bollywood star Saif Ali Khan, police said.</p>
+
+## Trumps launch their own cryptocurrencies ahead of inauguration, setting off ethical alarms
+ - [https://www.cbc.ca/news/business/melania-meme-coin-1.7435916?cmp=rss](https://www.cbc.ca/news/business/melania-meme-coin-1.7435916?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T10:51:28+00:00
+
+<img src='https://i.cbc.ca/1.7365804.1730139741!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-election-trump.JPG' alt='Donald Trump pointing a finger at his smiling wife, Melania Trump, both are on stage at a campaign rally.' width='620' height='349' title='Republican presidential nominee and former U.S. President Donald Trump points his finger next to Melania Trump during a campaign rally at Madison Square Garden, in New York, U.S., October 27, 2024. '/><p>Melania Trump launched her own cryptocurrency Sunday on the eve of her husband's presidential inauguration, just a day after his own coin was launched. The moves are raising ethical concerns among crypto industry observers.</p>
+
+## Biden issues pre-emptive pardons in final hours for Anthony Fauci, Liz Cheney, others
+ - [https://www.cbc.ca/news/world/biden-last-minute-pardons-1.7435857?cmp=rss](https://www.cbc.ca/news/world/biden-last-minute-pardons-1.7435857?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T08:13:24+00:00
+
+<img src='https://i.cbc.ca/1.7435865.1737377825!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/biden.jpg' alt='A cleanshaven white-haired man in a suit and tie speaks at a podium.' width='620' height='349' title='Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases, speaks during a daily COVID-19 briefing at the White House in Washington, D.C., on Dec. 1, 2021. Fauci has been the target of anger over coronavirus pandemic measures.'/><p>U.S. President Joe Biden has pardoned Dr. Anthony Fauci, Liz Cheney and members of the House committee that investigated the Jan. 6 attack on the Capitol, and retired general Mark Milley, to guard against potential retaliation by the incoming Donald Trump administration.</p>
+
+## British teen pleads guilty to stabbing attack that killed 3, sparked riots, misinformation
+ - [https://www.cbc.ca/news/world/uk-mass-stabbing-guilty-plea-1.7435846?cmp=rss](https://www.cbc.ca/news/world/uk-mass-stabbing-guilty-plea-1.7435846?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T07:42:08+00:00
+
+<img src='https://i.cbc.ca/1.7435850.1737375206!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/britain-children-stabbed.jpg' alt='Four or five police officers are shown standing outside a building that has a lineup of a couple dozen people who are wearing coats.' width='620' height='349' title='People queue at Liverpool Crown Court in Liverpool, England, Monday where Axel Rudakubana subsequently entered a guilty plea. Rudakubana was charged with killing three girls and wounding 10 other people in a stabbing rampage at a dance class in northwest England last summer. '/><p>An 18-year-old man pleaded guilty Monday to charges of killing three girls and wounding 10 other people in a stabbing rampage at a Taylor Swift-themed dance class in England last summer.</p>
+
+## India police volunteer sentenced to life over rape, murder of junior doctor in Kolkata
+ - [https://www.cbc.ca/news/world/india-rape-1.7435821?cmp=rss](https://www.cbc.ca/news/world/india-rape-1.7435821?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T07:31:34+00:00
+
+<img src='https://i.cbc.ca/1.7435837.1737371929!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kolkata-graffiti.jpg' alt='A woman in a red sari walks past graffiti sprayed on a sidewalk billboard. The graffiti redas, prevent the spread of rape culture.' width='620' height='349' title='Kolkata'/><p>Sanjay Roy, a police volunteer, was sentenced to life in prison on Monday for the rape and murder of a trainee doctor attacked while on duty in Kolkata — a crime that sparked widespread protests across India. Some activists say it's time for real societal change</p>
+
+## Kevin O'Leary and the 51st state
+ - [https://www.cbc.ca/radio/frontburner/kevin-o-leary-and-the-51st-state-1.7435746?cmp=rss](https://www.cbc.ca/radio/frontburner/kevin-o-leary-and-the-51st-state-1.7435746?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T07:30:00+00:00
+
+<img src='https://i.cbc.ca/1.7429417.1736819772!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/smith-trump-and-o-leary.jpg' alt='A woman, and two men pose for a picture next to a sunny golf course.' width='620' height='349' title='Danielle Smith, left, and Donald Trump were joined at Mar-a-Lago by celebrity investor Kevin O&apos;Leary, right, who has courted controversy recently by expressing support for the idea of an economic union between Canada and the U.S.'/><p>U.S. President-elect Donald Trump says he would use economic force to annex Canada. Canadian celebrity investor Kevin O’Leary makes the case for joining an ‘economic union’ with the U.S.</p>
+
+## U of Regina prof warns of risks from 'expansionist government' as Trump takes office for 2nd term
+ - [https://www.cbc.ca/news/canada/saskatchewan/trump-inauguration-impact-1.7435172?cmp=rss](https://www.cbc.ca/news/canada/saskatchewan/trump-inauguration-impact-1.7435172?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T06:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7427482.1736463323!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/election-2024-trump.jpg' alt='A man in a dark suit and red tie is seen on stage in front of several U.S. flags.' width='620' height='349' title='President-elect Donald Trump is seen at an election night watch party at the Palm Beach Convention Center on Nov. 6, 2024, in West Palm Beach, Fla. '/><p>As Donald Trump prepares to officially take office, his threat of 25 per cent tariffs on Canadian goods, as well as comments about making Canada the "51st state," have sparked concerns for some in Saskatchewan.</p>
+
+## Smash-and-grab jewelry store heists are a thing — the industry's working to put thieves on ice
+ - [https://www.cbc.ca/news/canada/london/jewellers-vigilance-canada-jewelry-store-thefts-ontario-london-toronto-1.7434324?cmp=rss](https://www.cbc.ca/news/canada/london/jewellers-vigilance-canada-jewelry-store-thefts-ontario-london-toronto-1.7434324?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T05:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7434526.1737138104!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/jewelry-store.jpeg' alt='A security guard is positioned outside of London, Ont. jewelry store in White Oaks Mall that was targetted by thieves on Jan. 10, 2025. ' width='620' height='349' title='A security guard is positioned outside of London, Ont. jewelry store in White Oaks Mall that was targetted by thieves on Jan. 10, 2025. '/><p>It's a scene that's become all-too familiar: Burglars smashing the windows and doors of shops in daring fashion and at lightning speed, then making off with high-value, easy-to-snatch goods. Jewelry stores have become the targets of many of these thieves. Now, a non-profit organization representing Canadian jewellers is addressing the issue.</p>
+
+## SNC-Lavalin, now AtkinsRéalis, facing $100M in legal claims from Trillium contractors
+ - [https://www.cbc.ca/news/canada/ottawa/snc-lavalin-now-atkinsr%C3%A9alis-facing-100m-in-legal-claims-from-trillium-contractors-1.7434384?cmp=rss](https://www.cbc.ca/news/canada/ottawa/snc-lavalin-now-atkinsr%C3%A9alis-facing-100m-in-legal-claims-from-trillium-contractors-1.7434384?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7347600.1732119110!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/o-train-trillium-line-2-test-limebank-bowesville-2024.jpg' alt='A white and red train passing through a rural field.' width='620' height='349' title='A Trillium Line train runs along the track between Limebank and Bowesville stations in south Ottawa during trial runs on Oct. 7, 2024.'/><p>The City of Ottawa’s private partner in building its newly opened north-south commuter rail line is facing more than $100 million in legal claims alleging its inability to proper manage the project led to costly delays. </p>
+

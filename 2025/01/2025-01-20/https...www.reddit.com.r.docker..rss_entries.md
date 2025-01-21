@@ -1,0 +1,107 @@
+# Source:Docker: An open source project to pack, ship and run any application as a lightweight container, URL:https://www.reddit.com/r/docker/.rss, language:en
+
+## getting an error after trying to run a docker image a second time to fix a different error
+ - [https://www.reddit.com/r/docker/comments/1i64hvm/getting_an_error_after_trying_to_run_a_docker](https://www.reddit.com/r/docker/comments/1i64hvm/getting_an_error_after_trying_to_run_a_docker)
+ - RSS feed: $source
+ - date published: 2025-01-20T23:30:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>the first time was an error I could fix, but the second time I have no clue.</p> <p>It&#39;s this error <code>Error response from daemon: network with name openwrt-lan already exists</code></p> <p>relating to this dokcer image here: <a href="https://github.com/oofnikj/docker-openwrt">https://github.com/oofnikj/docker-openwrt</a> . I build it, run it (both according to its readme) The 1st time it&#39;s just an error about not recognizing an ethernet port, something that I fixed after checking what my ethernet port was called. but trying to run it again brings me to this error that only a restart of my system fixes thus far.</p> <p>Also, docker doesn&#39;t start on boot according to systemctl so I have that to try and fix too. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nathan22211"> /u/nathan22211 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i64hvm/getting_an_error_after_trying_to_run_
+
+## Container created in Docker Desktop doesn't run (Macbook Air M1)!!
+ - [https://www.reddit.com/r/docker/comments/1i6470u/container_created_in_docker_desktop_doesnt_run](https://www.reddit.com/r/docker/comments/1i6470u/container_created_in_docker_desktop_doesnt_run)
+ - RSS feed: $source
+ - date published: 2025-01-20T23:16:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been trying to figure this out but not getting anywhere. I&#39;ve already reset to factory defaults and still didn&#39;t work. I tried running the default ubuntu:latest container from Docker Hub in Docker Desktop, but it never runs.</p> <p>It will run however if done through the command line.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ebrowne88"> /u/ebrowne88 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i6470u/container_created_in_docker_desktop_doesnt_run/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i6470u/container_created_in_docker_desktop_doesnt_run/">[comments]</a></span>
+
+## How long did it take you to become somewhat confident with Docker ?
+ - [https://www.reddit.com/r/docker/comments/1i62ph6/how_long_did_it_take_you_to_become_somewhat](https://www.reddit.com/r/docker/comments/1i62ph6/how_long_did_it_take_you_to_become_somewhat)
+ - RSS feed: $source
+ - date published: 2025-01-20T22:12:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just wondering how long it has taken people to learn from scratch. I have recently started and I&#39;m finding it quite tough going. </p> <p>I&#39;ve managed to follow steps on guidance for a tool I need for a game that I play, thought it might be useful just to get me some docker experience, but I wasn&#39;t quite expecting this!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Obese_Hooters"> /u/Obese_Hooters </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i62ph6/how_long_did_it_take_you_to_become_somewhat/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i62ph6/how_long_did_it_take_you_to_become_somewhat/">[comments]</a></span>
+
+## Connect container to external database
+ - [https://www.reddit.com/r/docker/comments/1i5zw8q/connect_container_to_external_database](https://www.reddit.com/r/docker/comments/1i5zw8q/connect_container_to_external_database)
+ - RSS feed: $source
+ - date published: 2025-01-20T20:18:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I got an <a href="http://ASP.NET">ASP.NET</a> 8 backend and want to add the connection string to an external database to the docker file. The connection string to the test database on my local machine works</p> <p>ENV DB_CONNECTION=&quot;Server=host.docker.internal;Database=newsletterapidb;User=root;Password=;Port=3306;&quot;</p> <p>But when I replace this with the external database IP (I also tried the hostname), database, username, and password it doesn&#39;t work. I get an error saying</p> <p>The exception &#39;Host &#39;(ipv6 address)&#39; is not allowed to connect to this MariaDB server&#39; was thrown while attempting to find &#39;DbContext&#39; types. For the different patterns supported at design time, see <a href="https://go.microsoft.com/fwlink/?linkid=851728">https://go.microsoft.com/fwlink/?linkid=851728</a></p> <p>Anyway, I can fix this? I made sure the database allows remote access (its from Hostinger) and the credentials
+
+## Emulating Supported Architecture for Ollama Models on ppc64le Using QEMU in Docker
+ - [https://www.reddit.com/r/docker/comments/1i5zn52/emulating_supported_architecture_for_ollama](https://www.reddit.com/r/docker/comments/1i5zn52/emulating_supported_architecture_for_ollama)
+ - RSS feed: $source
+ - date published: 2025-01-20T20:08:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>Has anyone managed to run Ollama models on a ppc64le architecture using QEMU for emulation? I have access to an IBM Power9 system with 4 NVIDIA Tesla V100 GPUs (16GB each), OS = RHEL 8.10 and want to use it for running LLMs with containerization.<br/> I was able to successfully run containerized instances of an Ollama model and frontend(openweb-ui) on a Windows machine. However, after saving the image and loading it onto the Power9 system, the container build failed due to an architecture warning. The relevant GitHub issues seem to be unresolved. I&#39;m looking for guidance on how to emulate a supported architecture on a non-supported one using QEMU within Docker. Any advice would be appreciated!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IamBatman91939"> /u/IamBatman91939 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i5zn52/emulating_supported_architecture_for_ollama/">[link]</a></sp
+
+## Docker Desktop Issues on Windows 10 Pro - Virtualization Enabled, Still Not Working
+ - [https://www.reddit.com/r/docker/comments/1i5wzph/docker_desktop_issues_on_windows_10_pro](https://www.reddit.com/r/docker/comments/1i5wzph/docker_desktop_issues_on_windows_10_pro)
+ - RSS feed: $source
+ - date published: 2025-01-20T18:23:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I’ve been trying to get Docker Desktop running on my Windows 10 Pro (Version 22H2, Build 19045.5131) laptop but keep hitting errors. Here’s what I’ve done so far:</p> <ol> <li><strong>Hardware</strong>: Intel Core i7-2640M (supports VT-x, enabled in BIOS).</li> <li><strong>Windows Features</strong>: Tried enabling <code>VirtualMachinePlatform</code> and <code>Hyper-V</code> via PowerShell, but got errors: <ul> <li><code>Enable-WindowsOptionalFeature: Feature name VirtualMachinePlatform is unknown.</code></li> <li>Same for <code>Microsoft-Hyper-V</code>.</li> </ul></li> <li><strong>WSL 2</strong>: Ran <code>wsl --install</code>, but got <code>Error: 0x800f080c</code>.</li> <li><strong>Docker Installation</strong>: Reinstalled Docker Desktop multiple times, tried both with and without the “Use WSL 2 instead of Hyper-V” option.</li> </ol> <p><strong>Errors I’m Seeing</strong>:</p> <ul> <li>Docker Desktop crashes with: <code>running 
+
+## Hpylori
+ - [https://www.reddit.com/r/docker/comments/1i5vrzj/hpylori](https://www.reddit.com/r/docker/comments/1i5vrzj/hpylori)
+ - RSS feed: $source
+ - date published: 2025-01-20T17:34:55+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Chair-5014"> /u/Ok-Chair-5014 </a> <br/> <span><a href="/r/HPylori/comments/1i5unfk/hpylori/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i5vrzj/hpylori/">[comments]</a></span>
+
+## Docker iptable issue on CentOS 10
+ - [https://www.reddit.com/r/docker/comments/1i5u5lg/docker_iptable_issue_on_centos_10](https://www.reddit.com/r/docker/comments/1i5u5lg/docker_iptable_issue_on_centos_10)
+ - RSS feed: $source
+ - date published: 2025-01-20T16:29:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>I setup a new CentOS 10 server and have encountered the following errors when trying to connect to containers using a docker compose project. This is a fresh install of CentOS 10 (minimal) docker per the CentOS documentation, and a single compose project using the docker_default network.</p> <p><code>Jan 20 11:08:58 testmc firewalld[909]: WARNING: COMMAND_FAILED: &#39;/usr/sbin/iptables -w10 -t nat -D PREROUTING -m addrtype --dst-type LOCAL -j DOCKER&#39; failed: iptables v1.8.11 (nf_tables): Chain &#39;DOCKER&#39; does n&gt; Try \</code>iptables -h&#39; or &#39;iptables --help&#39; for more information.`</p> <p><code>Jan 20 11:08:58 testmc firewalld[909]: WARNING: COMMAND_FAILED: &#39;/usr/sbin/iptables -w10 -t nat -D OUTPUT -m addrtype --dst-type LOCAL ! --dst</code> <a href="http://127.0.0.0/8"><code>127.0.0.0/8</code></a> <code>-j DOCKER&#39; failed: iptables v1.8.11 (nf_tables): Chain&gt; Try \</code>iptables -h&#39; or &#39;iptables --help&#39;
+
+## When VPN is active, can't access my Docker sites?
+ - [https://www.reddit.com/r/docker/comments/1i5r04i/when_vpn_is_active_cant_access_my_docker_sites](https://www.reddit.com/r/docker/comments/1i5r04i/when_vpn_is_active_cant_access_my_docker_sites)
+ - RSS feed: $source
+ - date published: 2025-01-20T14:12:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ok, so. My setup is: Latest Ubuntu LTS on a mini PC server. I have Jellyfin and Jellyseerr on Docker (and a couple of other things). I use ProtonVPN (the CLI tool).</p> <p>I have my own domain name and use Cloudflare with it to point to my public IP address so that I can access my Jellyfin, Jellyseer, etc. domains that are in Docker. This is managed by NGINX Proxy Manager (or, NPM).</p> <p>The problem I am having is everything works perfectly fine...until I enable my VPN. Once the VPN is enabled, I can no longer access my domain names - they just time out. For what it&#39;s worth, I just migrated from Windows 10 yesterday and I <em>never</em> had this issue on Windows. However, that was a non-Docker setup.</p> <p>How can I have my VPN on but still access my domains that are inside of Docker?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rthwes"> /u/rthwes </a> <br/> <span><a href="https://www.reddit.com/r/dock
+
+## Running the script inside the running container via exec
+ - [https://www.reddit.com/r/docker/comments/1i5qsdh/running_the_script_inside_the_running_container](https://www.reddit.com/r/docker/comments/1i5qsdh/running_the_script_inside_the_running_container)
+ - RSS feed: $source
+ - date published: 2025-01-20T14:01:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have my container running in detached mode, the i run exec container-id bash. Now I am dealing with the container environment. If I run the python script and then close the terminal, will the script exit?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AvailableUse4928"> /u/AvailableUse4928 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i5qsdh/running_the_script_inside_the_running_container/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i5qsdh/running_the_script_inside_the_running_container/">[comments]</a></span>
+
+## Mount folder only if exist
+ - [https://www.reddit.com/r/docker/comments/1i5qrhw/mount_folder_only_if_exist](https://www.reddit.com/r/docker/comments/1i5qrhw/mount_folder_only_if_exist)
+ - RSS feed: $source
+ - date published: 2025-01-20T14:00:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey,<br/> i need a &quot;conditional bind&quot; or volume for my docker container.</p> <p>Depending of the device the container is running on my source directory is different ( /sys/class/a, sys/class/b or /path/to/c). But since in each direktory have more or less the same files (only from different vendors) i like to mount them all to the same endpoint in the container.</p> <p>Something like:</p> <p>volume:<br/> try:<br/> - /sys/class/a:/endpoint<br/> - /sys/class/b:/endpoint<br/> - /path/to/c:/endpoint </p> <p>Is there a way to do this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/I_4R5"> /u/I_4R5 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i5qrhw/mount_folder_only_if_exist/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i5qrhw/mount_folder_only_if_exist/">[comments]</a></span>
+
+## How to delay the start of a SINGLE docker container
+ - [https://www.reddit.com/r/docker/comments/1i5pxky/how_to_delay_the_start_of_a_single_docker](https://www.reddit.com/r/docker/comments/1i5pxky/how_to_delay_the_start_of_a_single_docker)
+ - RSS feed: $source
+ - date published: 2025-01-20T13:17:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have multiple containers.</p> <p>The plex server container starts before the usb hdd is mounted, so it doesn&#39;t get to see the files, having to restart the container manually so it can see the files.</p> <p>Is there any way to delay the start of ONE docker container? </p> <p>I use docker on a router so:</p> <p>- I can&#39;t use docker compose</p> <p>- I can&#39;t edit docker.service</p> <p>I can ONLY work on the containers and docker cli, and I tried some crontabs but it seems that when I do &quot;@reboot sleep 30 ... docker restart plex&quot;, it also delays all the other services (i think mounting too) so it&#39;s the same</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CiDHemS"> /u/CiDHemS </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i5pxky/how_to_delay_the_start_of_a_single_docker/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i5pxky/how_to_dela
+
+## How to increase docker image section ? in docker desktop windows
+ - [https://www.reddit.com/r/docker/comments/1i5o9v3/how_to_increase_docker_image_section_in_docker](https://www.reddit.com/r/docker/comments/1i5o9v3/how_to_increase_docker_image_section_in_docker)
+ - RSS feed: $source
+ - date published: 2025-01-20T11:37:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>i have<br/> 9.85 GB / 10.54 GB in use<br/> 20 images</p> <p>cant find anything</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DanieloSYT"> /u/DanieloSYT </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i5o9v3/how_to_increase_docker_image_section_in_docker/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i5o9v3/how_to_increase_docker_image_section_in_docker/">[comments]</a></span>
+
+## I just ran my first container using Docker
+ - [https://www.reddit.com/r/docker/comments/1i5ifgx/i_just_ran_my_first_container_using_docker](https://www.reddit.com/r/docker/comments/1i5ifgx/i_just_ran_my_first_container_using_docker)
+ - RSS feed: $source
+ - date published: 2025-01-20T04:48:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>I did not plan to this post but I was following a tutorial and it made me do it so if I offended any one sorry it is all on <a href="https://docker.com/">docker</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HwdArc"> /u/HwdArc </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i5ifgx/i_just_ran_my_first_container_using_docker/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i5ifgx/i_just_ran_my_first_container_using_docker/">[comments]</a></span>
+
+## |Weekly Thread| Ask for help here in the comments or anything you want to post
+ - [https://www.reddit.com/r/docker/comments/1i5hlyx/weekly_thread_ask_for_help_here_in_the_comments](https://www.reddit.com/r/docker/comments/1i5hlyx/weekly_thread_ask_for_help_here_in_the_comments)
+ - RSS feed: $source
+ - date published: 2025-01-20T04:01:10+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/TJOcraft8"> /u/TJOcraft8 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i5hlyx/weekly_thread_ask_for_help_here_in_the_comments/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i5hlyx/weekly_thread_ask_for_help_here_in_the_comments/">[comments]</a></span>
+

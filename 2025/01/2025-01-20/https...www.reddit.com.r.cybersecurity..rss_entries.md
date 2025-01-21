@@ -1,0 +1,205 @@
+# Source:cybersecurity, URL:https://www.reddit.com/r/cybersecurity/.rss, language:
+
+## Chinese RedNote App Exposes Sensitive User Data
+ - [https://www.reddit.com/r/cybersecurity/comments/1i64aaz/chinese_rednote_app_exposes_sensitive_user_data](https://www.reddit.com/r/cybersecurity/comments/1i64aaz/chinese_rednote_app_exposes_sensitive_user_data)
+ - RSS feed: $source
+ - date published: 2025-01-20T23:20:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1i64aaz/chinese_rednote_app_exposes_sensitive_user_data/"> <img src="https://external-preview.redd.it/LF8A0gNfdXhg1yE94FwA5pa9a2ci0gemJ8_LzXcGjYE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6d5d85260ad854cac4f6ec01cfa3075b03fad10c" alt="Chinese RedNote App Exposes Sensitive User Data" title="Chinese RedNote App Exposes Sensitive User Data" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mattbrwn0"> /u/mattbrwn0 </a> <br/> <span><a href="https://youtu.be/-MZV6T6ag0c">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i64aaz/chinese_rednote_app_exposes_sensitive_user_data/">[comments]</a></span> </td></tr></table>
+
+## Securing gitlab
+ - [https://www.reddit.com/r/cybersecurity/comments/1i606a2/securing_gitlab](https://www.reddit.com/r/cybersecurity/comments/1i606a2/securing_gitlab)
+ - RSS feed: $source
+ - date published: 2025-01-20T20:29:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello,</p> <p>I’m currently do a gap analysis on my company gitlab security posture and I’m wondering what needs to be done to ensure a secure gitlab posture. (Peer reviews, least access privilege etc)</p> <p>Thanks in advance </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lowkib"> /u/lowkib </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i606a2/securing_gitlab/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i606a2/securing_gitlab/">[comments]</a></span>
+
+## Unpacking the Diicot Malware Targeting Linux Environments
+ - [https://www.reddit.com/r/cybersecurity/comments/1i600sk/unpacking_the_diicot_malware_targeting_linux](https://www.reddit.com/r/cybersecurity/comments/1i600sk/unpacking_the_diicot_malware_targeting_linux)
+ - RSS feed: $source
+ - date published: 2025-01-20T20:23:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1i600sk/unpacking_the_diicot_malware_targeting_linux/"> <img src="https://external-preview.redd.it/d4tnnddf7GponqJFB2wRxKye0AM7ClLSoUwEwdXon0s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7b55386d45df34aff6479bdcc7755dbda73d5650" alt="Unpacking the Diicot Malware Targeting Linux Environments" title="Unpacking the Diicot Malware Targeting Linux Environments" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SquamaAirway58"> /u/SquamaAirway58 </a> <br/> <span><a href="https://www.wiz.io/blog/diicot-threat-group-malware-campaign">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i600sk/unpacking_the_diicot_malware_targeting_linux/">[comments]</a></span> </td></tr></table>
+
+## Palo Alto XSOAR: Dynamic Playbook Generation via XQL & Threat Intel Feeds
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5xpbf/palo_alto_xsoar_dynamic_playbook_generation_via](https://www.reddit.com/r/cybersecurity/comments/1i5xpbf/palo_alto_xsoar_dynamic_playbook_generation_via)
+ - RSS feed: $source
+ - date published: 2025-01-20T18:51:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>How do you integrate XQL queries with automated playbooks to generate dynamic incident response workflows based on threat intel feeds (MISP, OTX) and network traffic analysis?</p> <p>Specifically, I&#39;m looking for insight on:</p> <p>XQL query optimization for threat intel data ingestion. Playbook decision table logic for conditional execution. Integration with external data sources via XSOAR&#39;s API.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/7yr4nT"> /u/7yr4nT </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5xpbf/palo_alto_xsoar_dynamic_playbook_generation_via/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5xpbf/palo_alto_xsoar_dynamic_playbook_generation_via/">[comments]</a></span>
+
+## Cyberbro v0.1.0 released - Analyze IoC with OpenCTI, Threatfox, VirusTotal and more #FOSS
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5uf5b/cyberbro_v010_released_analyze_ioc_with_opencti](https://www.reddit.com/r/cybersecurity/comments/1i5uf5b/cyberbro_v010_released_analyze_ioc_with_opencti)
+ - RSS feed: $source
+ - date published: 2025-01-20T16:39:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1i5uf5b/cyberbro_v010_released_analyze_ioc_with_opencti/"> <img src="https://external-preview.redd.it/JALPDrGl01thPg3a1qrpkKtZWlJWjQtteLJLVameC_c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=88bf5f0ecb136941fe2b792a659d3951755b9f9d" alt="Cyberbro v0.1.0 released - Analyze IoC with OpenCTI, Threatfox, VirusTotal and more #FOSS" title="Cyberbro v0.1.0 released - Analyze IoC with OpenCTI, Threatfox, VirusTotal and more #FOSS" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/stan_frbd"> /u/stan_frbd </a> <br/> <span><a href="https://github.com/stanfrbd/cyberbro/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5uf5b/cyberbro_v010_released_analyze_ioc_with_opencti/">[comments]</a></span> </td></tr></table>
+
+## The cost of false positives - how we became a target
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5tnv1/the_cost_of_false_positives_how_we_became_a_target](https://www.reddit.com/r/cybersecurity/comments/1i5tnv1/the_cost_of_false_positives_how_we_became_a_target)
+ - RSS feed: $source
+ - date published: 2025-01-20T16:08:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1i5tnv1/the_cost_of_false_positives_how_we_became_a_target/"> <img src="https://external-preview.redd.it/LWCIXidmYmPq--DP8hQgnjCpyhN6EyJ81ThtcqfoJag.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d8e4f5980a2856e0a8f10e32c64170a35bdff27" alt="The cost of false positives - how we became a target" title="The cost of false positives - how we became a target" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/unknownhad"> /u/unknownhad </a> <br/> <span><a href="https://cside.dev/blog/the-cost-of-false-positives">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5tnv1/the_cost_of_false_positives_how_we_became_a_target/">[comments]</a></span> </td></tr></table>
+
+## What are the best cybersecurity chats/communities?
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5t2dk/what_are_the_best_cybersecurity_chatscommunities](https://www.reddit.com/r/cybersecurity/comments/1i5t2dk/what_are_the_best_cybersecurity_chatscommunities)
+ - RSS feed: $source
+ - date published: 2025-01-20T15:44:15+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/OutrageousOne1205"> /u/OutrageousOne1205 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5t2dk/what_are_the_best_cybersecurity_chatscommunities/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5t2dk/what_are_the_best_cybersecurity_chatscommunities/">[comments]</a></span>
+
+## from controls engineering to OT cibersecurity
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5t1df/from_controls_engineering_to_ot_cibersecurity](https://www.reddit.com/r/cybersecurity/comments/1i5t1df/from_controls_engineering_to_ot_cibersecurity)
+ - RSS feed: $source
+ - date published: 2025-01-20T15:43:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi Friends,</p> <p>has anyone <strong>transitioned</strong> from industrial controls to OT cibersecurity. any advice on what steps to follow ? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PLCHMIgo"> /u/PLCHMIgo </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5t1df/from_controls_engineering_to_ot_cibersecurity/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5t1df/from_controls_engineering_to_ot_cibersecurity/">[comments]</a></span>
+
+## Gap Analysis Product Security Posture
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5qvs3/gap_analysis_product_security_posture](https://www.reddit.com/r/cybersecurity/comments/1i5qvs3/gap_analysis_product_security_posture)
+ - RSS feed: $source
+ - date published: 2025-01-20T14:06:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys,</p> <p>I’m trying to do a gap analysis on the product security posture at my company and I’m wondering what I can use as the correct security posture to compare mine too? Like a framework or something any ideas </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lowkib"> /u/lowkib </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5qvs3/gap_analysis_product_security_posture/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5qvs3/gap_analysis_product_security_posture/">[comments]</a></span>
+
+## Do you think SaaS-based solutions can be trusted for critical security challenges, like quantum-safe encryption?
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5pwjp/do_you_think_saasbased_solutions_can_be_trusted](https://www.reddit.com/r/cybersecurity/comments/1i5pwjp/do_you_think_saasbased_solutions_can_be_trusted)
+ - RSS feed: $source
+ - date published: 2025-01-20T13:15:47+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.reddit.com/poll/1i5pwjp">View Poll</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/New-Cheetah-1480"> /u/New-Cheetah-1480 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5pwjp/do_you_think_saasbased_solutions_can_be_trusted/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5pwjp/do_you_think_saasbased_solutions_can_be_trusted/">[comments]</a></span>
+
+## How to Use Parental Controls in Your Google, Apple, and Microsoft Accounts
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5pw44/how_to_use_parental_controls_in_your_google_apple](https://www.reddit.com/r/cybersecurity/comments/1i5pw44/how_to_use_parental_controls_in_your_google_apple)
+ - RSS feed: $source
+ - date published: 2025-01-20T13:15:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1i5pw44/how_to_use_parental_controls_in_your_google_apple/"> <img src="https://external-preview.redd.it/alDPvU0boV83IXuW6hv0vuaUzw_rTdYNKPiVvCWTrp8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1f5810706acff9d7710695f1629af2b63e8bc853" alt="How to Use Parental Controls in Your Google, Apple, and Microsoft Accounts" title="How to Use Parental Controls in Your Google, Apple, and Microsoft Accounts" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wiredmagazine"> /u/wiredmagazine </a> <br/> <span><a href="https://www.wired.com/story/how-to-use-parental-controls-in-your-google-apple-and-microsoft-accounts/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5pw44/how_to_use_parental_controls_in_your_google_apple/">[comments]</a></span> </td></tr></table>
+
+## Free ISO 27001 advice, guidance, templates, policies etc.
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5pita/free_iso_27001_advice_guidance_templates_policies](https://www.reddit.com/r/cybersecurity/comments/1i5pita/free_iso_27001_advice_guidance_templates_policies)
+ - RSS feed: $source
+ - date published: 2025-01-20T12:54:45+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.reddit.com/r/cybersecurity/?f=flair_name%3A%22Education%20%2F%20Tutorial%20%2F%20How-To%22">Education / Tutorial / How-To</a></p> <p>6 months ago I took a chance and posted my entire toolkit of templates and guidance, etc for ISO 27001:2022 over on my website -&gt; <a href="https://www.iseoblue.com/27001-getting-started">https://www.iseoblue.com/27001-getting-started</a></p> <p><strong>It&#39;s all free. No charge or payment cards, etc.</strong></p> <p>Since then I have taken the leap to try to then sell online ISO 27001 training off the back off it (so, that&#39;s the catch when you sign up - an email with some courses that might help, that&#39;s it).</p> <p>But over 2,000 people have now downloaded it, and the feedback has been overwhelming positive which make me feel like its helping.</p> <p>So, I post it again here for anyone that could use it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/
+
+## Hey guys, I was pentreation testing on arduino .Anyone has any ideas ? If so please comment
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5ouoz/hey_guys_i_was_pentreation_testing_on_arduino](https://www.reddit.com/r/cybersecurity/comments/1i5ouoz/hey_guys_i_was_pentreation_testing_on_arduino)
+ - RSS feed: $source
+ - date published: 2025-01-20T12:13:57+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Electronic_Guess2044"> /u/Electronic_Guess2044 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5ouoz/hey_guys_i_was_pentreation_testing_on_arduino/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5ouoz/hey_guys_i_was_pentreation_testing_on_arduino/">[comments]</a></span>
+
+## Did you say DMAIC?
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5o0i0/did_you_say_dmaic](https://www.reddit.com/r/cybersecurity/comments/1i5o0i0/did_you_say_dmaic)
+ - RSS feed: $source
+ - date published: 2025-01-20T11:19:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey! New article published today! </p> <p>This one focuses on a tool used in GRC, following lean management principles, the DMAIC. The goal is to help organizations become more efficient in improving their results.</p> <p>This blog is hosted on tor because tor protects anonymity and benign traffic like this blogpost helps people with more concerns for their safety hide better. And we like it that way.</p> <p>Here&#39;s the intro and the <a href="http://msec2nnqtbwh5c5yxpiswzwnqperok5k33udj7t6wmqcleu3ifj34sqd.onion/posts/grc/did-you-say-dmaic/">link</a>:</p> <h2>Introduction</h2> <p>When you’re managing governance in your projects, you’ll often rely on various tools for analysis, action planning, and control. But what if I told you that many of these tools can be combined into a single framework called DMAIC? Sounds exciting, right? That’s exactly what this article is about. We’ll define what DMAIC is and, as I always aim to do in my articles, I’ll sh
+
+## What's the weirdest thing you've found on your company's systems?
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5lzlg/whats_the_weirdest_thing_youve_found_on_your](https://www.reddit.com/r/cybersecurity/comments/1i5lzlg/whats_the_weirdest_thing_youve_found_on_your)
+ - RSS feed: $source
+ - date published: 2025-01-20T08:51:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>hey sysadmins, what’s the weirdest or most unexpected thing you’ve ever found on your company’s systems? Could be anything—from strange malware to a user doing something completely baffling. Curious to hear your stories</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Enteprise-srl"> /u/Enteprise-srl </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5lzlg/whats_the_weirdest_thing_youve_found_on_your/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5lzlg/whats_the_weirdest_thing_youve_found_on_your/">[comments]</a></span>
+
+## New UEFI Secure Boot Vulnerability Uncovered
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5l8sx/new_uefi_secure_boot_vulnerability_uncovered](https://www.reddit.com/r/cybersecurity/comments/1i5l8sx/new_uefi_secure_boot_vulnerability_uncovered)
+ - RSS feed: $source
+ - date published: 2025-01-20T07:54:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>A recent vulnerability (CVE-2024-7344) in UEFI Secure Boot has highlighted critical risks in firmware security. This flaw, rated 6.7 on CVSS, allowed attackers to bypass Secure Boot protections and load malicious UEFI bootkits, potentially gaining covert and persistent system access. </p> <p>Affected software included recovery tools from several vendors, now patched thanks to ESET and CERT/CC&#39;s coordinated efforts.</p> <p>The root cause? A custom PE loader bypassing standard UEFI security functions. Exploitation could allow unsigned code execution during system boot, evading OS-based security measures. </p> <p>While Microsoft has revoked the vulnerable binaries, experts emphasize the importance of proactive measures, like managing EFI file access and leveraging TPMs for remote attestation, especially in corporate environments. </p> <p>This incident underscores the ongoing challenge of securing firmware. Despite Secure Boot&#39;s role as a critica
+
+## In Cyber Threat Intelligence, should I worry about layoffs and should I worry about finding new jobs in CTI market?
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5ixxh/in_cyber_threat_intelligence_should_i_worry_about](https://www.reddit.com/r/cybersecurity/comments/1i5ixxh/in_cyber_threat_intelligence_should_i_worry_about)
+ - RSS feed: $source
+ - date published: 2025-01-20T05:18:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have 2 YOE (close to 3) in cyber threat intelligence space. Started from Cyber threat intelligence in finance industry and then pivot into vendor side cyber threat intelligence (specializing in Dark web intelligence), Spent 1 year in each role. I got hella lucky and landed into malware researcher role internally because I worked decently close with the team in analyzing malware and writing config extractor (someone in the RE team just so happen to leave and I just so happen to have wrote like 1-2 config extractors + GREM and they were like &quot;yeh ur good enough for junior position here&quot;). Right now, I basically have no leverage/specialty in my current role and I&#39;m a bit worried I might get laid off. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Few-Calligrapher2797"> /u/Few-Calligrapher2797 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5ixxh/in_cyber_threat_intellig
+
+## I need a cybersecurity roadmap
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5hson/i_need_a_cybersecurity_roadmap](https://www.reddit.com/r/cybersecurity/comments/1i5hson/i_need_a_cybersecurity_roadmap)
+ - RSS feed: $source
+ - date published: 2025-01-20T04:11:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone,</p> <p>I’m currently an MIS student with one year left until I graduate. I’ve noticed that many people are finding it difficult to land jobs in tech, and I’m wondering if the same applies to cybersecurity.</p> <p>To get ahead, I’ve been learning Linux for the past three months. However, I often feel discouraged when using tools like Nmap—either the ports are closed, or I’m unsure of what to do next or how to use other tools effectively.</p> <p>Is cybersecurity a field worth pursuing? If so, is there a specific roadmap or learning path I should follow? I’ve tried platforms like Hack The Box, but I’m struggling because it doesn’t provide step-by-step guidance.</p> <p>Any advice or resources you can share would be greatly appreciated!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Successful_Gear6143"> /u/Successful_Gear6143 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/
+
+## Mark Zuckerberg said AI will replace mid level engineers in 2025 and Salesforce is not hiring more SDE's in 2025
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5h5sp/mark_zuckerberg_said_ai_will_replace_mid_level](https://www.reddit.com/r/cybersecurity/comments/1i5h5sp/mark_zuckerberg_said_ai_will_replace_mid_level)
+ - RSS feed: $source
+ - date published: 2025-01-20T03:35:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>How does this affect the cyber security market, specifically application security as well?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/herbertisthefuture"> /u/herbertisthefuture </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5h5sp/mark_zuckerberg_said_ai_will_replace_mid_level/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5h5sp/mark_zuckerberg_said_ai_will_replace_mid_level/">[comments]</a></span>
+
+## ML to Detect Spoofed IP addresses: A Study in Progress
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5h2ky/ml_to_detect_spoofed_ip_addresses_a_study_in](https://www.reddit.com/r/cybersecurity/comments/1i5h2ky/ml_to_detect_spoofed_ip_addresses_a_study_in)
+ - RSS feed: $source
+ - date published: 2025-01-20T03:30:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Cybersecurity experts are delving into the potential of machine learning (ML) to address the challenge of detecting spoofed IP addresses. This ongoing research focuses on leveraging ML&#39;s capabilities to identify and prevent one of the most common tactics used in cyberattacks. With the growing complexity of online threats, this study highlights the pivotal role of advanced technologies in fortifying network defenses.</p> <p>For more details, click here: Read the full article. <a href="https://mb.com.ph/2025/1/19/ml-to-detect-spoofed-ip-addresses-a-study-in-progress">ML to detect spoofed IP Addresses: A study in progress (mb.com.ph)</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AffectionateAct350"> /u/AffectionateAct350 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5h2ky/ml_to_detect_spoofed_ip_addresses_a_study_in/">[link]</a></span> &#32; <span><a href="https://www.reddit.
+
+## Seeking CCSK guidance
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5gxdo/seeking_ccsk_guidance](https://www.reddit.com/r/cybersecurity/comments/1i5gxdo/seeking_ccsk_guidance)
+ - RSS feed: $source
+ - date published: 2025-01-20T03:22:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi All,</p> <p>I am considering pursuing the CCSK v5 certification and would like to seek your advice on a few aspects. Specifically, I would like to understand:</p> <ol> <li><p>How CCSK v5 is better compared to previous versions or other certifications.</p></li> <li><p>The best strategies for preparing for the certification.</p></li> <li><p>As it is an open-book exam, how it is conducted and how to approach preparation effectively.</p></li> <li><p>The recommended duration for preparation—how many months might be sufficient.</p></li> </ol> <p>Your insights and guidance would be greatly appreciated.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Adeptness6074"> /u/Ok_Adeptness6074 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5gxdo/seeking_ccsk_guidance/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5gxdo/seeking_ccsk_guidance/">[commen
+
+## Hunting Infostealers: A Practical Approach
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5goaj/hunting_infostealers_a_practical_approach](https://www.reddit.com/r/cybersecurity/comments/1i5goaj/hunting_infostealers_a_practical_approach)
+ - RSS feed: $source
+ - date published: 2025-01-20T03:08:20+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Party_Wolf6604"> /u/Party_Wolf6604 </a> <br/> <span><a href="https://www.gov.il/BlobFolder/reports/alert_1848/he/ALERT-CERT-IL-W-1848.pdf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5goaj/hunting_infostealers_a_practical_approach/">[comments]</a></span>
+
+## How might the whole H1B scenario change the cybersecurity job market?
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5g9u2/how_might_the_whole_h1b_scenario_change_the](https://www.reddit.com/r/cybersecurity/comments/1i5g9u2/how_might_the_whole_h1b_scenario_change_the)
+ - RSS feed: $source
+ - date published: 2025-01-20T02:47:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>A lot of cybersecurity employers/companies are headquartered in the US and their remote or offshore offices direct the pay from their headquarters.</p> <p>Given that, how might the H1B situation impact the job market?</p> <p>Could we see more hirings within US nationals?</p> <p>Could we see required visa statuses changing from H1B to O1? (which benefits the employer way too much)</p> <p>Could we see a change in growth of the sector?</p> <p>... ... ... or am I just overthinking?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/militant_hacker_x1x"> /u/militant_hacker_x1x </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5g9u2/how_might_the_whole_h1b_scenario_change_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5g9u2/how_might_the_whole_h1b_scenario_change_the/">[comments]</a></span>
+
+## What companies will need deepfake audio protection the most?
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5fzaj/what_companies_will_need_deepfake_audio](https://www.reddit.com/r/cybersecurity/comments/1i5fzaj/what_companies_will_need_deepfake_audio)
+ - RSS feed: $source
+ - date published: 2025-01-20T02:31:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have taken an interest in deepfakes recently and am under the impression that the risk in the future will be substantial.</p> <p>That being said, I would love to hear from the community who they think are the companies that will be at the highest risk.</p> <p>What are the trends on deepfake scams happening right now? I saw the one in Hong Kong and the CEO fraud. But these seem rare. </p> <p>Has anyone seen a company being attacked by deepfakes on a consistent basis? </p> <p>TLDR: what companies will need deepfakes protection the most?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ProfessionalAir6641"> /u/ProfessionalAir6641 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5fzaj/what_companies_will_need_deepfake_audio/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5fzaj/what_companies_will_need_deepfake_audio/">[comments]</a></span>
+
+## How Malware Affects Your Network in 60 Seconds!
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5fjyo/how_malware_affects_your_network_in_60_seconds](https://www.reddit.com/r/cybersecurity/comments/1i5fjyo/how_malware_affects_your_network_in_60_seconds)
+ - RSS feed: $source
+ - date published: 2025-01-20T02:08:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1i5fjyo/how_malware_affects_your_network_in_60_seconds/"> <img src="https://external-preview.redd.it/JHxeD0h-_dVDt_U8jAcm61Bq7C4YGED87qJ5gATuTVM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=eda9c64c740637276547fcde6a581ad571c696b7" alt="How Malware Affects Your Network in 60 Seconds!" title="How Malware Affects Your Network in 60 Seconds!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Obvious-Set8986"> /u/Obvious-Set8986 </a> <br/> <span><a href="https://youtube.com/watch?v=A7aDaPiK8-E&amp;si=_F6izfPJTU-aKkQI">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5fjyo/how_malware_affects_your_network_in_60_seconds/">[comments]</a></span> </td></tr></table>
+
+## Is Chris Greer == Jack Rhysider?
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5ean9/is_chris_greer_jack_rhysider](https://www.reddit.com/r/cybersecurity/comments/1i5ean9/is_chris_greer_jack_rhysider)
+ - RSS feed: $source
+ - date published: 2025-01-20T01:03:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was listening to the <a href="https://packetpushers.net/podcasts/heavy-networking/hn763-you-too-can-say-yes-to-packet-analysis/">Jan 10th</a> episode of the Heavy Networking Podcast regarding Wireshark (really interesting episode BTW!), and the show&#39;s guest is a man named Chris Greer who is basically an expert in WireShark - as I was listening to the podcast I couldn&#39;t help but think that his voice sounds EXACTLY like Jack Rhysider from Darknet Diaries. </p> <p>I know that there are a lot of people&#39;s voices that sound very similar especially when on the radio/podcasts etc, however the resemblance is uncanny and no one really knows what Jack looks like and I wouldn&#39;t be surprised if this is a pseudonym - any thoughts on this???</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/antonIgudesman"> /u/antonIgudesman </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5ean9/is_ch
+
+## Apprentice advice?
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5db3i/apprentice_advice](https://www.reddit.com/r/cybersecurity/comments/1i5db3i/apprentice_advice)
+ - RSS feed: $source
+ - date published: 2025-01-20T00:13:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi!</p> <p>I just accepted a role as a cyber security apprentice and I&#39;m starting to feel nervous about all the information ill be taking in soon.</p> <p>Is there anything you would all recommend for me to read up on? Good resources to start thinking about?</p> <p>Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sapien-"> /u/Sapien- </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5db3i/apprentice_advice/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5db3i/apprentice_advice/">[comments]</a></span>
+
+## Identity theft due to possible compromised Office 365 tenant help
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5d5wx/identity_theft_due_to_possible_compromised_office](https://www.reddit.com/r/cybersecurity/comments/1i5d5wx/identity_theft_due_to_possible_compromised_office)
+ - RSS feed: $source
+ - date published: 2025-01-20T00:06:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone. Just a bit of background to what happened. Last week someone tried to open a bank account to cash out an intercepted check to our client. The bank reported that the individual presented business documents from the firm as well as identity documents from one of the users (Personal ID with the picture changed).</p> <p>Our boss instructed us to check on the client&#39;s tenant if their were indicators of compromise. Things checked included are: Sign in logs, Activity logs ( No inbox rules created or suspicious deleted emails), Audit logs, Alerts via Microsoft Defender, Message trace / Microsoft Explorer for their emails, Registered Applications, Recently registered devices, Endpoints of users scanned for Malware installed. Did try checking the unified audit log but don&#39;t have access to it.</p> <p>We tried to go back as far as 3 months but nothing stood out as suspicious except for a single failed login from Brazil for the user above 
+
+## Mentorship Monday - Post All Career, Education and Job questions here!
+ - [https://www.reddit.com/r/cybersecurity/comments/1i5d1ds/mentorship_monday_post_all_career_education_and](https://www.reddit.com/r/cybersecurity/comments/1i5d1ds/mentorship_monday_post_all_career_education_and)
+ - RSS feed: $source
+ - date published: 2025-01-20T00:00:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do <em>you</em> want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away!</p> <p>Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we&#39;re working on making this more easily searchable for the future.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5d1ds/mentorship_monday_post_all_career_education_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1i5d1ds/mentorship_monday_post_all_career_education_and/">[comments]</a></span>
+

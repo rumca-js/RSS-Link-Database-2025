@@ -1,0 +1,170 @@
+# Source:Linux, GNU/Linux, free software..., URL:https://www.reddit.com/r/linux/.rss, language:en
+
+## Clapper 0.8.0 released, with support for resizing matching aspect ratio, plugins, and Windows
+ - [https://www.reddit.com/r/linux/comments/1i643pp/clapper_080_released_with_support_for_resizing](https://www.reddit.com/r/linux/comments/1i643pp/clapper_080_released_with_support_for_resizing)
+ - RSS feed: $source
+ - date published: 2025-01-20T23:12:10+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/forteller"> /u/forteller </a> <br/> <span><a href="https://github.com/Rafostar/clapper/releases/tag/0.8.0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i643pp/clapper_080_released_with_support_for_resizing/">[comments]</a></span>
+
+## Is there any way i could make my pc (while fully functional of course) look like a pc from the 2009's?
+ - [https://www.reddit.com/r/linux/comments/1i61jnj/is_there_any_way_i_could_make_my_pc_while_fully](https://www.reddit.com/r/linux/comments/1i61jnj/is_there_any_way_i_could_make_my_pc_while_fully)
+ - RSS feed: $source
+ - date published: 2025-01-20T21:24:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>I really like the way computers used to look like when i was a kid and i want to make my pc look just like one. I m currently about to finish my first semester at a computer science college and I had an OS class that taught me the basics of the linux terminal and stuff like that. I m pretty sure i could do what i suggested but how hard would it be/is there any preset/software i could use made by someone else for this, or do i have to do it by hand?</p> <p>Thanks</p> <p>EDIT : I mean the OS ui ofc, not the pc itself, i m never posting to this sub again you guys need to get over yourselves lol</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Goldshirefolk"> /u/Goldshirefolk </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1i61jnj/is_there_any_way_i_could_make_my_pc_while_fully/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i61jnj/is_there_any_way_i_could_make_my_p
+
+## Unpopular opinion. ARM is a cancer of modern hardware.
+ - [https://www.reddit.com/r/linux/comments/1i60nbp/unpopular_opinion_arm_is_a_cancer_of_modern](https://www.reddit.com/r/linux/comments/1i60nbp/unpopular_opinion_arm_is_a_cancer_of_modern)
+ - RSS feed: $source
+ - date published: 2025-01-20T20:48:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>TLDR: The fragmentation and lack of general standards makes arm devices prone to be abandoned if the vendor drops support or not be able to get any linux support if vendor dont care.</p> <p>Sorry for controversial/click bait title :)</p> <p>Longer story:</p> <p>As probably everyone knows, modern phones which could run linux cant because vendors dont care to provide even simple drivers or docs of how to interact with otherwise already supported hardware.</p> <p>As a result a ton of perfectly fine devices end in a landfill.</p> <p>The issue is much more wide even for sort of popular devices like many SBC. Not to mention devices like sharp netwalker or tablets from google, lenovo, dell which run on ARM.</p> <p>Yes, ARM is not the one to blame but it is the common denominator for all these cases. It is pretty rare to have x86 device which cant run linux at all.</p> <p>I had devices like oqo 01+, laptops like lifebook, panasonics cf series, up board compu
+
+## TidesDB - Library for fast persistent embedded key value storage
+ - [https://www.reddit.com/r/linux/comments/1i6086r/tidesdb_library_for_fast_persistent_embedded_key](https://www.reddit.com/r/linux/comments/1i6086r/tidesdb_library_for_fast_persistent_embedded_key)
+ - RSS feed: $source
+ - date published: 2025-01-20T20:31:37+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/diagraphic"> /u/diagraphic </a> <br/> <span><a href="/r/C_Programming/comments/1i602dk/tidesdb_library_for_fast_persistent_embedded_key/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i6086r/tidesdb_library_for_fast_persistent_embedded_key/">[comments]</a></span>
+
+## The cunning fox
+ - [https://www.reddit.com/r/linux/comments/1i5zvds/the_cunning_fox](https://www.reddit.com/r/linux/comments/1i5zvds/the_cunning_fox)
+ - RSS feed: $source
+ - date published: 2025-01-20T20:17:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>Download and Infos: <a href="https://gamedevcafe.de/index.php?file-download/12/">Cunning fox</a></p> <p>&quot;The Cunning Fox - The classic platform game with a retro pixel look!</p> <p><a href="https://preview.redd.it/z663tv7ti7ee1.png?width=1924&amp;format=png&amp;auto=webp&amp;s=c0e977ad88b0b27cf88468c5519a6f7efda6623e">https://preview.redd.it/z663tv7ti7ee1.png?width=1924&amp;format=png&amp;auto=webp&amp;s=c0e977ad88b0b27cf88468c5519a6f7efda6623e</a></p> <p>Immerse yourself in the fascinating world of &#39;The Cunning Fox&#39; and accompany our clever fox through 10 exciting levels full of thrilling challenges! Skillfully steer your protagonist through tricky passages, master dangerous enemies and avoid cunning traps while solving tricky puzzles.</p> <p>The charming pixel look gives the game a nostalgic flair and brings back memories of the good old days. But &#39;The Cunning Fox&#39; also offers innovative gameplay elements and a well thought-out
+
+## The screens in the Jerusalem train station show their true colors
+ - [https://www.reddit.com/r/linux/comments/1i5yjfk/the_screens_in_the_jerusalem_train_station_show](https://www.reddit.com/r/linux/comments/1i5yjfk/the_screens_in_the_jerusalem_train_station_show)
+ - RSS feed: $source
+ - date published: 2025-01-20T19:24:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>What can I say, Ubuntu is awesome.</p> <p>I got off my train and saw that every single screen displaying ads showed the Linux interface.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dreammaayan"> /u/dreammaayan </a> <br/> <span><a href="https://i.redd.it/0uo5vmbc97ee1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i5yjfk/the_screens_in_the_jerusalem_train_station_show/">[comments]</a></span>
+
+## Linux 6.13 released: includes a new lazy preemption model; fine-grained file timestamps; lightweight guard pages; support for storage with atomic writes; support for NAPI suspension during idle periods; ARM user-space shadow stacks; and a more scalable referenced counting mechanism for files
+ - [https://www.reddit.com/r/linux/comments/1i5w9yg/linux_613_released_includes_a_new_lazy_preemption](https://www.reddit.com/r/linux/comments/1i5w9yg/linux_613_released_includes_a_new_lazy_preemption)
+ - RSS feed: $source
+ - date published: 2025-01-20T17:54:56+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/dcgkn"> /u/dcgkn </a> <br/> <span><a href="https://kernelnewbies.org/Linux_6.13">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i5w9yg/linux_613_released_includes_a_new_lazy_preemption/">[comments]</a></span>
+
+## xbar/swiftbar equivalent
+ - [https://www.reddit.com/r/linux/comments/1i5w5xt/xbarswiftbar_equivalent](https://www.reddit.com/r/linux/comments/1i5w5xt/xbarswiftbar_equivalent)
+ - RSS feed: $source
+ - date published: 2025-01-20T17:50:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey y&#39;all, I&#39;m a big fan of <a href="http://xbarapp.com">xbarapp.com</a> on MacOS. It allows you to create scripts and have their output displayed in the menu bar. For example, I display stock quotes, system resources, etc. I&#39;m trying to see if there is a Linux equivalent. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/stophimhesgotmypen"> /u/stophimhesgotmypen </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1i5w5xt/xbarswiftbar_equivalent/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i5w5xt/xbarswiftbar_equivalent/">[comments]</a></span>
+
+## Is there Windows Power Toys "Fancy Zones" that works with Mint?
+ - [https://www.reddit.com/r/linux/comments/1i5usar/is_there_windows_power_toys_fancy_zones_that](https://www.reddit.com/r/linux/comments/1i5usar/is_there_windows_power_toys_fancy_zones_that)
+ - RSS feed: $source
+ - date published: 2025-01-20T16:54:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>Want to drag and drop my windows and have them snap to size on the desktop.</p> <p>You can easily do this in Windows using Fancy Zones.</p> <p>Anything like this for Mint that is simple to use? (NO command lines etc)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spicedpumpkins"> /u/spicedpumpkins </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1i5usar/is_there_windows_power_toys_fancy_zones_that/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i5usar/is_there_windows_power_toys_fancy_zones_that/">[comments]</a></span>
+
+## Do you think the EU might push for an in-house Linux OS?
+ - [https://www.reddit.com/r/linux/comments/1i5s5yw/do_you_think_the_eu_might_push_for_an_inhouse](https://www.reddit.com/r/linux/comments/1i5s5yw/do_you_think_the_eu_might_push_for_an_inhouse)
+ - RSS feed: $source
+ - date published: 2025-01-20T15:05:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>It&#39;s no secret the EU is kinda fixated on regulations and privacy, many EU countries such as Germany already use Linux based systems to run some of their infrastructures, do you think the EU might try to distance itself from windows and develop an OS of their own?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Old_Harry7"> /u/Old_Harry7 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1i5s5yw/do_you_think_the_eu_might_push_for_an_inhouse/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i5s5yw/do_you_think_the_eu_might_push_for_an_inhouse/">[comments]</a></span>
+
+## Hooked cell phone up via usb in Parrot and Ubuntu, got a wired connection. Why?
+ - [https://www.reddit.com/r/linux/comments/1i5rr9w/hooked_cell_phone_up_via_usb_in_parrot_and_ubuntu](https://www.reddit.com/r/linux/comments/1i5rr9w/hooked_cell_phone_up_via_usb_in_parrot_and_ubuntu)
+ - RSS feed: $source
+ - date published: 2025-01-20T14:47:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>So this is obviously a positive anomaly and solved the problem I had, but I want to understand why it happened, So I was hooking up my cell to hopefully tether (which happened apparently) because I had ran out of hotspot data (10gb a month). Now they do strictly enforce this and I had tried multiple ways to share the connection to my computer before this happened.</p> <p>I dl&#39;ed scrcpy as a last ditch effort to at least mirror my phone to screen so at least I would have a better view of things.</p> <p>Now here&#39;s the funny part. I hook my phone up via usb and put up some stuff on my desk when I noticed it had a wired connection and the internet now works great! How did this happen? The hotspot and mobile tethering was not enabled yet even. </p> <p>Anyone have an explanation? I would like to document this one for a script maybe later to recreate it on other laptops</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.co
+
+## Disabling VT-d improves Intel Arc GPU Linux performance on Meteor Lake and newer SoCs
+ - [https://www.reddit.com/r/linux/comments/1i5p692/disabling_vtd_improves_intel_arc_gpu_linux](https://www.reddit.com/r/linux/comments/1i5p692/disabling_vtd_improves_intel_arc_gpu_linux)
+ - RSS feed: $source
+ - date published: 2025-01-20T12:33:55+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ouyawei"> /u/ouyawei </a> <br/> <span><a href="https://www.cnx-software.com/2025/01/20/disabling-vt-d-improves-intel-arc-gpu-linux-performance-on-meteor-lake-and-newer-socs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i5p692/disabling_vtd_improves_intel_arc_gpu_linux/">[comments]</a></span>
+
+## Many Scheduler Improvements Ready To Better Enhance The Linux 6.14 Kernel
+ - [https://www.reddit.com/r/linux/comments/1i5ojxo/many_scheduler_improvements_ready_to_better](https://www.reddit.com/r/linux/comments/1i5ojxo/many_scheduler_improvements_ready_to_better)
+ - RSS feed: $source
+ - date published: 2025-01-20T11:55:43+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/unixbhaskar"> /u/unixbhaskar </a> <br/> <span><a href="https://www.phoronix.com/news/Linux-6.14-Scheduler">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i5ojxo/many_scheduler_improvements_ready_to_better/">[comments]</a></span>
+
+## imagine being new to plasma. you explore the System Settings, accidentally point your pointer on one of the dropdown menus and used your mouse scroll wheel.
+ - [https://www.reddit.com/r/linux/comments/1i5nvez/imagine_being_new_to_plasma_you_explore_the](https://www.reddit.com/r/linux/comments/1i5nvez/imagine_being_new_to_plasma_you_explore_the)
+ - RSS feed: $source
+ - date published: 2025-01-20T11:09:32+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/CANDACE-OWENS-1874"> /u/CANDACE-OWENS-1874 </a> <br/> <span><a href="https://i.redd.it/w1cc0110t4ee1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i5nvez/imagine_being_new_to_plasma_you_explore_the/">[comments]</a></span>
+
+## 8,3% of 7108 Computerbase already readers use Linux!
+ - [https://www.reddit.com/r/linux/comments/1i5nq2x/83_of_7108_computerbase_already_readers_use_linux](https://www.reddit.com/r/linux/comments/1i5nq2x/83_of_7108_computerbase_already_readers_use_linux)
+ - RSS feed: $source
+ - date published: 2025-01-20T10:59:46+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/79LuMoTo79"> /u/79LuMoTo79 </a> <br/> <span><a href="https://i.redd.it/vnghnvacr4ee1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i5nq2x/83_of_7108_computerbase_already_readers_use_linux/">[comments]</a></span>
+
+## Xserver single app with touchscreen - auto OSK?
+ - [https://www.reddit.com/r/linux/comments/1i5mmrw/xserver_single_app_with_touchscreen_auto_osk](https://www.reddit.com/r/linux/comments/1i5mmrw/xserver_single_app_with_touchscreen_auto_osk)
+ - RSS feed: $source
+ - date published: 2025-01-20T09:41:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey all, looking for a hint.<br/> I am configuring an old Wetab/exopc with a Celeron N450 and an GMA3150.<br/> Target use is an Xserver running a single java application in a static enviroment (a control device for a flight simulator). I would like to use arch as a base distro. As the device is quite old and performance limited, my thought was to run just the Xserver with the jar, but the application itself has not OSK. I would need to set up an OSK that preferably pops up when a text field is selected. Any hints / software tips how to realise this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sacharon123"> /u/Sacharon123 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1i5mmrw/xserver_single_app_with_touchscreen_auto_osk/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i5mmrw/xserver_single_app_with_touchscreen_auto_osk/">[comments]</a></span>
+
+## A note about etymology and project names
+ - [https://www.reddit.com/r/linux/comments/1i5lcm5/a_note_about_etymology_and_project_names](https://www.reddit.com/r/linux/comments/1i5lcm5/a_note_about_etymology_and_project_names)
+ - RSS feed: $source
+ - date published: 2025-01-20T08:02:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was looking for a name for a project OS image and wanted to use some kind of play on the word &quot;cloud.&quot; So I thought, you know what? I&#39;ll look up the etymology to see if there is a latin or germanic term behind it.</p> <p>Nope. We pulled that word out of our ass 700 years ago. Prior to the 1300s, the English had no word for &quot;that white shit in the sky.&quot; We thought the blue and white stuff was all the same shit. I guess we were too busy suffering famines, having sex, reading the bible, and going to war to look up and describe what was going on in the heavens. </p> <p>Mind blowing, because Ancient Greece had a word for it as early as the works of Homer (&quot;nephos&quot;) and the Old English word for &quot;stars&quot; (<em>steorra</em>) dates back to the 400s.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/anonhostpi"> /u/anonhostpi </a> <br/> <span><a href="https://www.reddit.com/r/linu
+
+## Choosing hardware for linux, choosing linux for hardware
+ - [https://www.reddit.com/r/linux/comments/1i5ke87/choosing_hardware_for_linux_choosing_linux_for](https://www.reddit.com/r/linux/comments/1i5ke87/choosing_hardware_for_linux_choosing_linux_for)
+ - RSS feed: $source
+ - date published: 2025-01-20T06:53:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>For some time now I&#39;ve been meaning to switch to a better laptop. I&#39;ve already installed Linux multiple times on my current device, having tried out different distributions. In that time I managed to run into a considerable amount of bugs and errors (very likely due to faults of mine).</p> <p>How should I go about picking a laptop that will have little to no issues with Linux? I like the Thinkpad line of laptops, and I&#39;d probably rather stick to it. I enjoyed using Debian and Fedora, I had issues with Ubuntu and Mint. Is there a short checklist that can be devised for making the task of choosing a new device easier?</p> <p>The bugs and errors I mentioned earlier on were mostly wifi, bluetooth, touchpad, usb device and gpu related. So, in general, driver errors. I spent a lot of my time trying to fix these bugs (often to no avail); time that I could have used for greater things.</p> <p>I&#39;m eager to hear what your advice 
+
+## kew - a tiny terminal music player - type what you want to hear and playlists are created automatically - now feature complete!
+ - [https://www.reddit.com/r/linux/comments/1i5jt46/kew_a_tiny_terminal_music_player_type_what_you](https://www.reddit.com/r/linux/comments/1i5jt46/kew_a_tiny_terminal_music_player_type_what_you)
+ - RSS feed: $source
+ - date published: 2025-01-20T06:13:17+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/navegato"> /u/navegato </a> <br/> <span><a href="https://github.com/ravachol/kew">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i5jt46/kew_a_tiny_terminal_music_player_type_what_you/">[comments]</a></span>
+
+## Plank Reloaded: Still Stupidly Simple
+ - [https://www.reddit.com/r/linux/comments/1i5hfdu/plank_reloaded_still_stupidly_simple](https://www.reddit.com/r/linux/comments/1i5hfdu/plank_reloaded_still_stupidly_simple)
+ - RSS feed: $source
+ - date published: 2025-01-20T03:51:01+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/zquestz"> /u/zquestz </a> <br/> <span><a href="https://thoughts.greyh.at/posts/plank-reloaded/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i5hfdu/plank_reloaded_still_stupidly_simple/">[comments]</a></span>
+
+## Linux user gaming experience friction
+ - [https://www.reddit.com/r/linux/comments/1i5g57q/linux_user_gaming_experience_friction](https://www.reddit.com/r/linux/comments/1i5g57q/linux_user_gaming_experience_friction)
+ - RSS feed: $source
+ - date published: 2025-01-20T02:40:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>I really like using Linux but it&#39;s so frustrating trying to game sometimes. Considering using Nobara or something but I couldn&#39;t get WoW to work again and it really pissed me off because it worked before!</p> <p>Any Linux gamers who could tell me the best setup to have as little problems as possible? I really hate windows and want to go back but until I don&#39;t have as many things I can only do on windows it&#39;s kinda annoying. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PaulAllensCharizard"> /u/PaulAllensCharizard </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1i5g57q/linux_user_gaming_experience_friction/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i5g57q/linux_user_gaming_experience_friction/">[comments]</a></span>
+
+## Linux Kernel 6.13 has been released...
+ - [https://www.reddit.com/r/linux/comments/1i5eej0/linux_kernel_613_has_been_released](https://www.reddit.com/r/linux/comments/1i5eej0/linux_kernel_613_has_been_released)
+ - RSS feed: $source
+ - date published: 2025-01-20T01:08:39+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/unixbhaskar"> /u/unixbhaskar </a> <br/> <span><a href="https://i.redd.it/wd5gxj0ut1ee1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i5eej0/linux_kernel_613_has_been_released/">[comments]</a></span>
+
+## Find and run Linux commands using Ollama
+ - [https://www.reddit.com/r/linux/comments/1i5dzpy/find_and_run_linux_commands_using_ollama](https://www.reddit.com/r/linux/comments/1i5dzpy/find_and_run_linux_commands_using_ollama)
+ - RSS feed: $source
+ - date published: 2025-01-20T00:47:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>If you are anything like me, you keep forgetting the useful linux commands all the time. I made a little script that makes it easy to find and execute them using Ollama. For example</p> <pre><code>$ ./how.sh find and delete files older than 30 days Generated command: find . -type f -mtime +30 -exec rm {} \\; Do you want to execute this command? (y/n): </code></pre> <p>If you feel adventurous, add -y to execute the command without confirmation. You can also specify the model with the optional -m flag.</p> <p>Here&#39;s the repo: <a href="https://github.com/regnull/how.sh">https://github.com/regnull/how.sh</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/regnull"> /u/regnull </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1i5dzpy/find_and_run_linux_commands_using_ollama/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1i5dzpy/find_and_run_linux_commands_using_ol
+
+## Is this normal in Customized REFInd? (NVIDIA)
+ - [https://www.reddit.com/r/linux/comments/1i5dky1/is_this_normal_in_customized_refind_nvidia](https://www.reddit.com/r/linux/comments/1i5dky1/is_this_normal_in_customized_refind_nvidia)
+ - RSS feed: $source
+ - date published: 2025-01-20T00:26:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>I decided to make my REFInd look a tad better so I installed this theme : <a href="https://github.com/Pr0cella/rEFInd-glassy">https://github.com/Pr0cella/rEFInd-glassy</a></p> <p>When using it I seem to get these weird artifacts that are always in the same place. I got an RTX 3060 ti. and 2 monitors (Shows up on 1 monitor) I also don&#39;t get any problems when doing any type of gaming (low load and high load) and everything else seems to work fine just that so I don&#39;t think it&#39;s a dying GPU.</p> <p>Also using Cachy os if that helps</p> <p><a href="https://preview.redd.it/m5ey156yl1ee1.png?width=3024&amp;format=png&amp;auto=webp&amp;s=a7bb55e89b7d9ddea1624bba61bad53cca9ae4aa">https://preview.redd.it/m5ey156yl1ee1.png?width=3024&amp;format=png&amp;auto=webp&amp;s=a7bb55e89b7d9ddea1624bba61bad53cca9ae4aa</a></p> <p>Any help is welcomed :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ItsHotdogFred"> /u/I
+

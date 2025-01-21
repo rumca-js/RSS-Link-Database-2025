@@ -1,0 +1,352 @@
+# Source:Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Right-Wing Extremists Are Abuzz Over Musk’s Straight-Arm Salute
+ - [https://www.reddit.com/r/politics/comments/1i64vwl/rightwing_extremists_are_abuzz_over_musks](https://www.reddit.com/r/politics/comments/1i64vwl/rightwing_extremists_are_abuzz_over_musks)
+ - RSS feed: $source
+ - date published: 2025-01-20T23:47:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i64vwl/rightwing_extremists_are_abuzz_over_musks/"> <img src="https://external-preview.redd.it/0lcaFZtche3d70VR3lRVLoHAV-sB5kiRsz6LgwGIZ7Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b68fd78b784a63a266eb5f5fe04e7eef1d7f98b3" alt="Right-Wing Extremists Are Abuzz Over Musk’s Straight-Arm Salute" title="Right-Wing Extremists Are Abuzz Over Musk’s Straight-Arm Salute" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/w_kovac"> /u/w_kovac </a> <br/> <span><a href="https://www.rollingstone.com/politics/politics-news/elon-musk-salute-reaction-right-wing-extremists-1235241866/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i64vwl/rightwing_extremists_are_abuzz_over_musks/">[comments]</a></span> </td></tr></table>
+
+## Neo-Nazis Love the Nazi-Like Salutes Elon Musk Made at Trump's Inauguration
+ - [https://www.reddit.com/r/politics/comments/1i63ywi/neonazis_love_the_nazilike_salutes_elon_musk_made](https://www.reddit.com/r/politics/comments/1i63ywi/neonazis_love_the_nazilike_salutes_elon_musk_made)
+ - RSS feed: $source
+ - date published: 2025-01-20T23:06:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i63ywi/neonazis_love_the_nazilike_salutes_elon_musk_made/"> <img src="https://external-preview.redd.it/6ebMQYsYxVjghiLKEmtuoAspL6_kQp-2WCfdDfahdcM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5fcca64e90db3a1390fded11d29957d8c42e07c2" alt="Neo-Nazis Love the Nazi-Like Salutes Elon Musk Made at Trump's Inauguration" title="Neo-Nazis Love the Nazi-Like Salutes Elon Musk Made at Trump's Inauguration" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jf12"> /u/Jf12 </a> <br/> <span><a href="https://www.wired.com/story/neo-nazis-love-elon-musk-nazi-like-salutes-trumps-inauguration/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i63ywi/neonazis_love_the_nazilike_salutes_elon_musk_made/">[comments]</a></span> </td></tr></table>
+
+## Progressives Say "Billionaires' Row" at Inauguration Ceremony Shows True Winners of Trump Agenda | "Trump's White House is government by the billionaires, for the billionaires," said the chair of the Congressional Progressive Caucus.
+ - [https://www.reddit.com/r/politics/comments/1i62ueo/progressives_say_billionaires_row_at_inauguration](https://www.reddit.com/r/politics/comments/1i62ueo/progressives_say_billionaires_row_at_inauguration)
+ - RSS feed: $source
+ - date published: 2025-01-20T22:18:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i62ueo/progressives_say_billionaires_row_at_inauguration/"> <img src="https://external-preview.redd.it/Imsnvh-MUPP2E9XoHa0zZkEDz3NIhoPW-crYjMmUArs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=00c5a37d717fb798b1cae0e351f217e1e91420c0" alt="Progressives Say &quot;Billionaires' Row&quot; at Inauguration Ceremony Shows True Winners of Trump Agenda | &quot;Trump's White House is government by the billionaires, for the billionaires,&quot; said the chair of the Congressional Progressive Caucus." title="Progressives Say &quot;Billionaires' Row&quot; at Inauguration Ceremony Shows True Winners of Trump Agenda | &quot;Trump's White House is government by the billionaires, for the billionaires,&quot; said the chair of the Congressional Progressive Caucus." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br/> <span><a href="https://www.commondreams.or
+
+## Elon Musk appears to make back-to-back fascist salutes at inauguration rally
+ - [https://www.reddit.com/r/politics/comments/1i62ns9/elon_musk_appears_to_make_backtoback_fascist](https://www.reddit.com/r/politics/comments/1i62ns9/elon_musk_appears_to_make_backtoback_fascist)
+ - RSS feed: $source
+ - date published: 2025-01-20T22:10:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i62ns9/elon_musk_appears_to_make_backtoback_fascist/"> <img src="https://external-preview.redd.it/1PNEk7-ua3U4Zkd-WwEtjinHFLtL4NcFZDYpSBitikc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=00ba320bdc805c8fa6fcb1b2f21e1aa5b5b94e57" alt="Elon Musk appears to make back-to-back fascist salutes at inauguration rally" title="Elon Musk appears to make back-to-back fascist salutes at inauguration rally" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ivandoesnot"> /u/ivandoesnot </a> <br/> <span><a href="https://www.theguardian.com/technology/2025/jan/20/trump-elon-musk-salute">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i62ns9/elon_musk_appears_to_make_backtoback_fascist/">[comments]</a></span> </td></tr></table>
+
+## Did Elon Musk Seriously Just Do a Nazi Salute at Trump’s Inauguration?
+ - [https://www.reddit.com/r/politics/comments/1i62gg5/did_elon_musk_seriously_just_do_a_nazi_salute_at](https://www.reddit.com/r/politics/comments/1i62gg5/did_elon_musk_seriously_just_do_a_nazi_salute_at)
+ - RSS feed: $source
+ - date published: 2025-01-20T22:02:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i62gg5/did_elon_musk_seriously_just_do_a_nazi_salute_at/"> <img src="https://external-preview.redd.it/Oj6sqW5ujJcndUzhIjJY6Nj0lgwiw45e9p9StnsD6N4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b1160feaf18b7d28cacbcc871cfbc1ae33ee0200" alt="Did Elon Musk Seriously Just Do a Nazi Salute at Trump’s Inauguration?" title="Did Elon Musk Seriously Just Do a Nazi Salute at Trump’s Inauguration?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/harsh2k5"> /u/harsh2k5 </a> <br/> <span><a href="https://newrepublic.com/post/190464/did-elon-musk-nazi-salute-trump-inauguration">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i62gg5/did_elon_musk_seriously_just_do_a_nazi_salute_at/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk Shocks With Nazi-Like Salute at MAGA Rally
+ - [https://www.reddit.com/r/politics/comments/1i60k0g/elon_musk_shocks_with_nazilike_salute_at_maga](https://www.reddit.com/r/politics/comments/1i60k0g/elon_musk_shocks_with_nazilike_salute_at_maga)
+ - RSS feed: $source
+ - date published: 2025-01-20T20:44:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i60k0g/elon_musk_shocks_with_nazilike_salute_at_maga/"> <img src="https://external-preview.redd.it/9cGLMNh_wIb6m3TMcG3nsqqcGZKQK6SIfpgErM3_ZYU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=286f6f74dcba84b97099031f3b02e0b0a9267e8a" alt="Elon Musk Shocks With Nazi-Like Salute at MAGA Rally" title="Elon Musk Shocks With Nazi-Like Salute at MAGA Rally" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/samuelso11"> /u/samuelso11 </a> <br/> <span><a href="https://www.thedailybeast.com/elon-musk-hit-with-backlash-for-odd-looking-salute-at-post-inauguration-rally/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i60k0g/elon_musk_shocks_with_nazilike_salute_at_maga/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk appears to Sieg Heil at Trump inauguration
+ - [https://www.reddit.com/r/politics/comments/1i60fzk/elon_musk_appears_to_sieg_heil_at_trump](https://www.reddit.com/r/politics/comments/1i60fzk/elon_musk_appears_to_sieg_heil_at_trump)
+ - RSS feed: $source
+ - date published: 2025-01-20T20:40:23+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/WisestPanzerOfDaLake"> /u/WisestPanzerOfDaLake </a> <br/> <span><a href="https://www.jpost.com/international/article-838444">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i60fzk/elon_musk_appears_to_sieg_heil_at_trump/">[comments]</a></span>
+
+## Hillary Clinton laughs as Donald Trump says he'll rename Gulf of Mexico
+ - [https://www.reddit.com/r/politics/comments/1i60fb9/hillary_clinton_laughs_as_donald_trump_says_hell](https://www.reddit.com/r/politics/comments/1i60fb9/hillary_clinton_laughs_as_donald_trump_says_hell)
+ - RSS feed: $source
+ - date published: 2025-01-20T20:39:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i60fb9/hillary_clinton_laughs_as_donald_trump_says_hell/"> <img src="https://external-preview.redd.it/JJACTgm5BJF-ifIpmRnbiF8O5uwdHvlwxNYgex-CWR8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dbdb1d26b92e8525c4a3bf0e5bb49a0fe5dcd229" alt="Hillary Clinton laughs as Donald Trump says he'll rename Gulf of Mexico" title="Hillary Clinton laughs as Donald Trump says he'll rename Gulf of Mexico" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ralphbernardo"> /u/ralphbernardo </a> <br/> <span><a href="https://www.cbc.ca/player/play/video/9.6618281">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i60fb9/hillary_clinton_laughs_as_donald_trump_says_hell/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk draws outrage over 'odd-looking salute' at Trump inauguration celebration
+ - [https://www.reddit.com/r/politics/comments/1i603sl/elon_musk_draws_outrage_over_oddlooking_salute_at](https://www.reddit.com/r/politics/comments/1i603sl/elon_musk_draws_outrage_over_oddlooking_salute_at)
+ - RSS feed: $source
+ - date published: 2025-01-20T20:26:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i603sl/elon_musk_draws_outrage_over_oddlooking_salute_at/"> <img src="https://external-preview.redd.it/fxmCun6IRcfIKN8eKVWtywZYiW3e0wnrKy7etoP_sok.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4d53d44835b877d3b403cb6177030de81dc003df" alt="Elon Musk draws outrage over 'odd-looking salute' at Trump inauguration celebration" title="Elon Musk draws outrage over 'odd-looking salute' at Trump inauguration celebration" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cjdarr921"> /u/cjdarr921 </a> <br/> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/elon-musk-salute-trump-inauguration-b2683095.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i603sl/elon_musk_draws_outrage_over_oddlooking_salute_at/">[comments]</a></span> </td></tr></table>
+
+## Discussion Thread: President-Elect Trump's First Day in Office, Part 2
+ - [https://www.reddit.com/r/politics/comments/1i5y04a/discussion_thread_presidentelect_trumps_first_day](https://www.reddit.com/r/politics/comments/1i5y04a/discussion_thread_presidentelect_trumps_first_day)
+ - RSS feed: $source
+ - date published: 2025-01-20T19:03:02+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.reddit.com/r/politics/comments/1i5rbwx/discussion_thread_presidentelect_trumps/">The first thread from today covering the inauguration can be found here</a>.</p> <p><strong>News and Analysis</strong></p> <ul> <li>NPR: <a href="https://www.npr.org/2025/01/20/g-s1-43698/trump-inauguration-executive-orders-2025-day-1">All of the Day 1 executive actions Trump has announced so far</a></li> </ul> <p><strong>Live Updates</strong></p> <p>The following outlets are <a href="https://apnews.com/live/trump-inauguration-updates">AP</a>, <a href="https://www.reuters.com/world/us/trump-inauguration-live-us-prepares-new-president-be-sworn-2025-01-20/">Reuters</a>, <a href="https://www.cbsnews.com/live-updates/trump-presidential-inauguration-day-2025/">CBS</a>, <a href="https://www.npr.org/live-updates/trump-inauguration-day-2025">NPR</a>, <a href="https://abcnews.go.com/Politics/live-updates/trump-inauguration-live-updates-scramble-move-ceremony-
+
+## Trump Makes History: First Convicted Felon To Take Oath As President
+ - [https://www.reddit.com/r/politics/comments/1i5x3ma/trump_makes_history_first_convicted_felon_to_take](https://www.reddit.com/r/politics/comments/1i5x3ma/trump_makes_history_first_convicted_felon_to_take)
+ - RSS feed: $source
+ - date published: 2025-01-20T18:27:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5x3ma/trump_makes_history_first_convicted_felon_to_take/"> <img src="https://external-preview.redd.it/vMneK8RECO0B4HI8sq6v_YNO4IyWiwy7mxxOzUW8LM8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=58b2ae6a29ded5a4018b9b914c074fdc6f757c5b" alt="Trump Makes History: First Convicted Felon To Take Oath As President" title="Trump Makes History: First Convicted Felon To Take Oath As President" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br/> <span><a href="https://www.huffpost.com/entry/trump-felon-jan-6-oath-of-office_n_678d4cb8e4b099ed401c670d">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5x3ma/trump_makes_history_first_convicted_felon_to_take/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk's DOGE hit with 3 lawsuits just minutes after Trump becomes president
+ - [https://www.reddit.com/r/politics/comments/1i5wymm/elon_musks_doge_hit_with_3_lawsuits_just_minutes](https://www.reddit.com/r/politics/comments/1i5wymm/elon_musks_doge_hit_with_3_lawsuits_just_minutes)
+ - RSS feed: $source
+ - date published: 2025-01-20T18:21:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5wymm/elon_musks_doge_hit_with_3_lawsuits_just_minutes/"> <img src="https://external-preview.redd.it/jDVNNc440E_LW2njlwQs-65EcFPOkaJe4PCNXsQGXDA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d32de93fe8c786075d9ba35466f95c2e81a241a" alt="Elon Musk's DOGE hit with 3 lawsuits just minutes after Trump becomes president" title="Elon Musk's DOGE hit with 3 lawsuits just minutes after Trump becomes president" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rock-n-roll-Kevin"> /u/Rock-n-roll-Kevin </a> <br/> <span><a href="https://www.businessinsider.com/elon-musk-doge-lawsuits-faca-trump-inauguration-2025-1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5wymm/elon_musks_doge_hit_with_3_lawsuits_just_minutes/">[comments]</a></span> </td></tr></table>
+
+## Trump did not place hand on Bible for oath of office
+ - [https://www.reddit.com/r/politics/comments/1i5wn0q/trump_did_not_place_hand_on_bible_for_oath_of](https://www.reddit.com/r/politics/comments/1i5wn0q/trump_did_not_place_hand_on_bible_for_oath_of)
+ - RSS feed: $source
+ - date published: 2025-01-20T18:09:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5wn0q/trump_did_not_place_hand_on_bible_for_oath_of/"> <img src="https://external-preview.redd.it/lLLYfMkRCQTvnpOlrzVAik9y2wVz4jc5hiU2aJ5lOkM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=916dde5ffa48927a29040717613fdcbb91b5d312" alt="Trump did not place hand on Bible for oath of office" title="Trump did not place hand on Bible for oath of office" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BasedGodBets"> /u/BasedGodBets </a> <br/> <span><a href="https://nypost.com/2025/01/20/us-news/trump-did-not-place-hand-on-bible-for-oath-of-office/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5wn0q/trump_did_not_place_hand_on_bible_for_oath_of/">[comments]</a></span> </td></tr></table>
+
+## Convicted Felon Sworn In as President
+ - [https://www.reddit.com/r/politics/comments/1i5w8so/convicted_felon_sworn_in_as_president](https://www.reddit.com/r/politics/comments/1i5w8so/convicted_felon_sworn_in_as_president)
+ - RSS feed: $source
+ - date published: 2025-01-20T17:53:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5w8so/convicted_felon_sworn_in_as_president/"> <img src="https://external-preview.redd.it/vTCWcYRwGfJcUSuPEsdWWDyY8zoprOHEi19x9-_zFcI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0dd4a1f60d50d034c993477331816abf1acca473" alt="Convicted Felon Sworn In as President " title="Convicted Felon Sworn In as President " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/infiunfi"> /u/infiunfi </a> <br/> <span><a href="https://www.rollingstone.com/politics/politics-news/donald-trump-sworn-in-47th-president-united-states-1235241770/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5w8so/convicted_felon_sworn_in_as_president/">[comments]</a></span> </td></tr></table>
+
+## Federal Union Sues Trump Mid-Inauguration Over DOGE Plan
+ - [https://www.reddit.com/r/politics/comments/1i5v9cf/federal_union_sues_trump_midinauguration_over](https://www.reddit.com/r/politics/comments/1i5v9cf/federal_union_sues_trump_midinauguration_over)
+ - RSS feed: $source
+ - date published: 2025-01-20T17:13:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5v9cf/federal_union_sues_trump_midinauguration_over/"> <img src="https://external-preview.redd.it/yrN1nIIizBABZxYb7kC1DdnxYnhhED8NhRr1h8GAGnI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7d241011d4ee530b9501ee4723f3cd285a4840c0" alt="Federal Union Sues Trump Mid-Inauguration Over DOGE Plan" title="Federal Union Sues Trump Mid-Inauguration Over DOGE Plan" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloomberglaw"> /u/bloomberglaw </a> <br/> <span><a href="https://news.bloomberglaw.com/daily-labor-report/federal-union-sues-trump-mid-inauguration-over-doge-plan">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5v9cf/federal_union_sues_trump_midinauguration_over/">[comments]</a></span> </td></tr></table>
+
+## AOC says she’s skipping Trump inauguration because ‘I don’t celebrate rapists’
+ - [https://www.reddit.com/r/politics/comments/1i5v0yc/aoc_says_shes_skipping_trump_inauguration_because](https://www.reddit.com/r/politics/comments/1i5v0yc/aoc_says_shes_skipping_trump_inauguration_because)
+ - RSS feed: $source
+ - date published: 2025-01-20T17:04:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5v0yc/aoc_says_shes_skipping_trump_inauguration_because/"> <img src="https://external-preview.redd.it/AFRFdD4IX1qcmCBqd6d8aDSDUa0T4Oa80JYbz5uoa0Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d6a494cd1c2ca3dbb1494e6b47252b87e82b7b26" alt="AOC says she’s skipping Trump inauguration because ‘I don’t celebrate rapists’" title="AOC says she’s skipping Trump inauguration because ‘I don’t celebrate rapists’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/doopityWoop22"> /u/doopityWoop22 </a> <br/> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/aoc-trump-inauguration-video-b2682866.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5v0yc/aoc_says_shes_skipping_trump_inauguration_because/">[comments]</a></span> </td></tr></table>
+
+## Fauci says he will accept preemptive pardon from Biden
+ - [https://www.reddit.com/r/politics/comments/1i5uzbo/fauci_says_he_will_accept_preemptive_pardon_from](https://www.reddit.com/r/politics/comments/1i5uzbo/fauci_says_he_will_accept_preemptive_pardon_from)
+ - RSS feed: $source
+ - date published: 2025-01-20T17:02:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5uzbo/fauci_says_he_will_accept_preemptive_pardon_from/"> <img src="https://external-preview.redd.it/25VbUPNyeo8drPVvzIGjp26_EKZLM8FMYG4Rhk0cWO4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2ad052e8dd24647afa31a74bb44a39f478e7335" alt="Fauci says he will accept preemptive pardon from Biden" title="Fauci says he will accept preemptive pardon from Biden" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Severe_County_5041"> /u/Severe_County_5041 </a> <br/> <span><a href="https://thehill.com/policy/healthcare/5095299-fauci-says-he-will-accept-preemptive-pardon-from-biden/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5uzbo/fauci_says_he_will_accept_preemptive_pardon_from/">[comments]</a></span> </td></tr></table>
+
+## Trump Forced Vivek Ramaswamy Out of DOGE for Being Too Irritating
+ - [https://www.reddit.com/r/politics/comments/1i5us21/trump_forced_vivek_ramaswamy_out_of_doge_for](https://www.reddit.com/r/politics/comments/1i5us21/trump_forced_vivek_ramaswamy_out_of_doge_for)
+ - RSS feed: $source
+ - date published: 2025-01-20T16:54:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5us21/trump_forced_vivek_ramaswamy_out_of_doge_for/"> <img src="https://external-preview.redd.it/ZMB-I89oMmA46ngQ2TfzAQlFR8C6e2YfAn_i9glGJqg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b1d24be8b45b265b3c891172d3949161f4fc1001" alt="Trump Forced Vivek Ramaswamy Out of DOGE for Being Too Irritating" title="Trump Forced Vivek Ramaswamy Out of DOGE for Being Too Irritating" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br/> <span><a href="https://newrepublic.com/post/190427/donald-trump-vivek-ramaswamy-doge-governor">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5us21/trump_forced_vivek_ramaswamy_out_of_doge_for/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump's 'voting computers' comment sparks Elon Musk speculation
+ - [https://www.reddit.com/r/politics/comments/1i5uovx/donald_trumps_voting_computers_comment_sparks](https://www.reddit.com/r/politics/comments/1i5uovx/donald_trumps_voting_computers_comment_sparks)
+ - RSS feed: $source
+ - date published: 2025-01-20T16:50:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5uovx/donald_trumps_voting_computers_comment_sparks/"> <img src="https://external-preview.redd.it/FZz9X2pawYS9y1mA290-1uOp9Hwtq6G9qAl46poj2s8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b4037efad94dc4ea440719dacdfed94be35cc957" alt="Donald Trump's 'voting computers' comment sparks Elon Musk speculation" title="Donald Trump's 'voting computers' comment sparks Elon Musk speculation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/biznesboi"> /u/biznesboi </a> <br/> <span><a href="https://www.newsweek.com/donald-trump-elon-musk-voting-machine-2017657">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5uovx/donald_trumps_voting_computers_comment_sparks/">[comments]</a></span> </td></tr></table>
+
+## Biden pardons his family in final minutes in office
+ - [https://www.reddit.com/r/politics/comments/1i5umyr/biden_pardons_his_family_in_final_minutes_in](https://www.reddit.com/r/politics/comments/1i5umyr/biden_pardons_his_family_in_final_minutes_in)
+ - RSS feed: $source
+ - date published: 2025-01-20T16:48:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5umyr/biden_pardons_his_family_in_final_minutes_in/"> <img src="https://external-preview.redd.it/LuAErjrhvGjK-N_rqqWijaJqUKKZzfcIrbTstgIf5Wg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=90f8d77d3ad566f46cc0f134cf1202a76fc33344" alt="Biden pardons his family in final minutes in office" title="Biden pardons his family in final minutes in office" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cakemaster1928"> /u/cakemaster1928 </a> <br/> <span><a href="http://www.nbcnewyork.com/news/business/money-report/biden-pardons-his-family-in-final-minutes-in-office/6114398/%3famp=1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5umyr/biden_pardons_his_family_in_final_minutes_in/">[comments]</a></span> </td></tr></table>
+
+## Biden pardons his family in final minutes in office
+ - [https://www.reddit.com/r/politics/comments/1i5ujjv/biden_pardons_his_family_in_final_minutes_in](https://www.reddit.com/r/politics/comments/1i5ujjv/biden_pardons_his_family_in_final_minutes_in)
+ - RSS feed: $source
+ - date published: 2025-01-20T16:44:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5ujjv/biden_pardons_his_family_in_final_minutes_in/"> <img src="https://external-preview.redd.it/-sE-2HDWOo8-4qUS5W8PX70trDXsoud9gDCTI_4IVu0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c8689ddc09abd0ad924a77c9ee5e810dcd834f59" alt="Biden pardons his family in final minutes in office" title="Biden pardons his family in final minutes in office" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvanigan"> /u/mvanigan </a> <br/> <span><a href="https://www.cnbc.com/2025/01/20/biden-pardons-family-members.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5ujjv/biden_pardons_his_family_in_final_minutes_in/">[comments]</a></span> </td></tr></table>
+
+## Joe Biden Grants Clemency To Leonard Peltier | The ailing Native American rights activist has been in prison for nearly 50 years after the U.S. government lied to put him there.
+ - [https://www.reddit.com/r/politics/comments/1i5uiv5/joe_biden_grants_clemency_to_leonard_peltier_the](https://www.reddit.com/r/politics/comments/1i5uiv5/joe_biden_grants_clemency_to_leonard_peltier_the)
+ - RSS feed: $source
+ - date published: 2025-01-20T16:43:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5uiv5/joe_biden_grants_clemency_to_leonard_peltier_the/"> <img src="https://external-preview.redd.it/RMF2tkSvYEZ5X4fBTcvUmTH6arhCc100QBfo3ju6piI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=632e76f75adca164cc9163ede2bf4d1c6a92f11a" alt="Joe Biden Grants Clemency To Leonard Peltier | The ailing Native American rights activist has been in prison for nearly 50 years after the U.S. government lied to put him there." title="Joe Biden Grants Clemency To Leonard Peltier | The ailing Native American rights activist has been in prison for nearly 50 years after the U.S. government lied to put him there." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newfrontier58"> /u/newfrontier58 </a> <br/> <span><a href="https://www.huffpost.com/entry/joe-biden-leonard-peltier-clemency_n_67608b04e4b0d06419ec6367?ds">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5
+
+## Progressive Group Launches House Recruitment Drive to Defeat Corporate Dems
+ - [https://www.reddit.com/r/politics/comments/1i5uf7x/progressive_group_launches_house_recruitment](https://www.reddit.com/r/politics/comments/1i5uf7x/progressive_group_launches_house_recruitment)
+ - RSS feed: $source
+ - date published: 2025-01-20T16:39:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5uf7x/progressive_group_launches_house_recruitment/"> <img src="https://external-preview.redd.it/5XQYKXJ1t0s_voanB-YQVoqEyCI89P_QAQdH6FrTpPI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0bcc1fe71d295d2bdac33efbf93772c89ca71d7a" alt="Progressive Group Launches House Recruitment Drive to Defeat Corporate Dems" title="Progressive Group Launches House Recruitment Drive to Defeat Corporate Dems" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/soalone34"> /u/soalone34 </a> <br/> <span><a href="https://www.commondreams.org/news/justice-democrats">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5uf7x/progressive_group_launches_house_recruitment/">[comments]</a></span> </td></tr></table>
+
+## Everyone Who Was Supposed To Protect You From This Failed Miserably
+ - [https://www.reddit.com/r/politics/comments/1i5tvl3/everyone_who_was_supposed_to_protect_you_from](https://www.reddit.com/r/politics/comments/1i5tvl3/everyone_who_was_supposed_to_protect_you_from)
+ - RSS feed: $source
+ - date published: 2025-01-20T16:17:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5tvl3/everyone_who_was_supposed_to_protect_you_from/"> <img src="https://external-preview.redd.it/NL_Lo1vpizq4NEZxJpsmZ6zUHJ5SxGVUUueVdPObxXg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=326bb44a0f9acd6b2e6f2e775df7c32dbdb6fc1f" alt="Everyone Who Was Supposed To Protect You From This Failed Miserably " title="Everyone Who Was Supposed To Protect You From This Failed Miserably " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/infiunfi"> /u/infiunfi </a> <br/> <span><a href="https://www.rollingstone.com/politics/politics-features/trump-inauguration-2024-win-democrats-failed-1235241327/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5tvl3/everyone_who_was_supposed_to_protect_you_from/">[comments]</a></span> </td></tr></table>
+
+## AOC on Skipping Inauguration: ‘I Don’t Celebrate Rapists’ | The congresswoman spent the eve of Trump’s inauguration pulling no punches against the incoming administration on Instagram
+ - [https://www.reddit.com/r/politics/comments/1i5t96z/aoc_on_skipping_inauguration_i_dont_celebrate](https://www.reddit.com/r/politics/comments/1i5t96z/aoc_on_skipping_inauguration_i_dont_celebrate)
+ - RSS feed: $source
+ - date published: 2025-01-20T15:52:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5t96z/aoc_on_skipping_inauguration_i_dont_celebrate/"> <img src="https://external-preview.redd.it/svXi1dlGB6Q8cN_9Kzin2FebAzBUyqip0dL228a_T9k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a6b4987fe30fdb3a79fe927c1f688ec0724809ee" alt="AOC on Skipping Inauguration: ‘I Don’t Celebrate Rapists’ | The congresswoman spent the eve of Trump’s inauguration pulling no punches against the incoming administration on Instagram " title="AOC on Skipping Inauguration: ‘I Don’t Celebrate Rapists’ | The congresswoman spent the eve of Trump’s inauguration pulling no punches against the incoming administration on Instagram " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br/> <span><a href="http://www.rollingstone.com/politics/politics-news/aoc-skipping-trump-inauguration-1235241333/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/
+
+## AOC on Skipping Inauguration: ‘I Don’t Celebrate Rapists’
+ - [https://www.reddit.com/r/politics/comments/1i5t6r3/aoc_on_skipping_inauguration_i_dont_celebrate](https://www.reddit.com/r/politics/comments/1i5t6r3/aoc_on_skipping_inauguration_i_dont_celebrate)
+ - RSS feed: $source
+ - date published: 2025-01-20T15:49:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5t6r3/aoc_on_skipping_inauguration_i_dont_celebrate/"> <img src="https://external-preview.redd.it/svXi1dlGB6Q8cN_9Kzin2FebAzBUyqip0dL228a_T9k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a6b4987fe30fdb3a79fe927c1f688ec0724809ee" alt="AOC on Skipping Inauguration: ‘I Don’t Celebrate Rapists’" title="AOC on Skipping Inauguration: ‘I Don’t Celebrate Rapists’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br/> <span><a href="https://www.rollingstone.com/politics/politics-news/aoc-skipping-trump-inauguration-1235241333/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5t6r3/aoc_on_skipping_inauguration_i_dont_celebrate/">[comments]</a></span> </td></tr></table>
+
+## ‘Not allowed to enter’: Jan. 6 rioter who got green light to attend Trump inauguration must stay away from Capitol as ceremony moves indoors
+ - [https://www.reddit.com/r/politics/comments/1i5rhnv/not_allowed_to_enter_jan_6_rioter_who_got_green](https://www.reddit.com/r/politics/comments/1i5rhnv/not_allowed_to_enter_jan_6_rioter_who_got_green)
+ - RSS feed: $source
+ - date published: 2025-01-20T14:35:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5rhnv/not_allowed_to_enter_jan_6_rioter_who_got_green/"> <img src="https://external-preview.redd.it/y_jp0cgsRVn4Z-vdbmlLe79gjLIbXnc6He-WR75KT2c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bc900cb49d1c694eddab1a788e309666468c2a92" alt="‘Not allowed to enter’: Jan. 6 rioter who got green light to attend Trump inauguration must stay away from Capitol as ceremony moves indoors" title="‘Not allowed to enter’: Jan. 6 rioter who got green light to attend Trump inauguration must stay away from Capitol as ceremony moves indoors" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tasty_jams_5280"> /u/tasty_jams_5280 </a> <br/> <span><a href="https://lawandcrime.com/high-profile/not-allowed-to-enter-jan-6-rioter-who-got-green-light-to-attend-trump-inauguration-must-stay-away-from-capitol-as-ceremony-moves-indoors/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comm
+
+## Trump will announce end of birthright citizenship for children of illegal immigrants, officials say
+ - [https://www.reddit.com/r/politics/comments/1i5rc5r/trump_will_announce_end_of_birthright_citizenship](https://www.reddit.com/r/politics/comments/1i5rc5r/trump_will_announce_end_of_birthright_citizenship)
+ - RSS feed: $source
+ - date published: 2025-01-20T14:28:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5rc5r/trump_will_announce_end_of_birthright_citizenship/"> <img src="https://external-preview.redd.it/yH7Raf1aKjWRKYzU4_2v2lx8IHd4ctT1ThAo72fwc4s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f89ac8a1315530531009e1ce72e521d6ec95944d" alt="Trump will announce end of birthright citizenship for children of illegal immigrants, officials say" title="Trump will announce end of birthright citizenship for children of illegal immigrants, officials say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/codyave"> /u/codyave </a> <br/> <span><a href="https://nypost.com/2025/01/20/us-news/trump-will-announce-end-of-birthright-citizenship-for-children-of-illegal-immigrants/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5rc5r/trump_will_announce_end_of_birthright_citizenship/">[comments]</a></span> </td></tr></table>
+
+## Discussion Thread: President-Elect Trump's Inauguration and First Day in Office
+ - [https://www.reddit.com/r/politics/comments/1i5rbwx/discussion_thread_presidentelect_trumps](https://www.reddit.com/r/politics/comments/1i5rbwx/discussion_thread_presidentelect_trumps)
+ - RSS feed: $source
+ - date published: 2025-01-20T14:28:08+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>News and Analysis</strong></p> <ul> <li><p>AP: <a href="https://apnews.com/article/donald-trump-inauguration-swearing-capitol-b3549ebe5dae74a872502aa79def7a11">Trump returning to power after unprecedented comeback, emboldened to reshape American institutions</a></p></li> <li><p>NPR: <a href="https://www.npr.org/2025/01/20/g-s1-43577/donald-trump-inauguration-day-how-to-watch">Inside Trump&#39;s Inauguration Day: How, when and what to watch</a></p></li> </ul> <p><strong>Live Updates</strong></p> <p>The following outlets are <a href="https://apnews.com/live/trump-inauguration-updates">AP</a>, <a href="https://www.reuters.com/world/us/trump-inauguration-live-us-prepares-new-president-be-sworn-2025-01-20/">Reuters</a>, <a href="https://www.cbsnews.com/live-updates/trump-presidential-inauguration-day-2025/">CBS</a>, <a href="https://www.npr.org/live-updates/trump-inauguration-day-2025">NPR</a>, <a href="https://abcnews.go.com/Politics/live-updates
+
+## On a day to celebrate Martin Luther King Jr.’s dream, the Trump nightmare returns | Where King's vision was rooted in the American dream, in liberty and justice for all, Trump’s is fueled by pettiness, vengeance, division, and flagrant inequality of justice in action.
+ - [https://www.reddit.com/r/politics/comments/1i5qnvw/on_a_day_to_celebrate_martin_luther_king_jrs](https://www.reddit.com/r/politics/comments/1i5qnvw/on_a_day_to_celebrate_martin_luther_king_jrs)
+ - RSS feed: $source
+ - date published: 2025-01-20T13:55:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5qnvw/on_a_day_to_celebrate_martin_luther_king_jrs/"> <img src="https://external-preview.redd.it/ngb-s3Y769wRaifxQhYXs13rr0PB05q_SJclzyZgp1g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bc2f03b1de0beefb68a3fef70eb84b2e77c69ce3" alt="On a day to celebrate Martin Luther King Jr.’s dream, the Trump nightmare returns | Where King's vision was rooted in the American dream, in liberty and justice for all, Trump’s is fueled by pettiness, vengeance, division, and flagrant inequality of justice in action." title="On a day to celebrate Martin Luther King Jr.’s dream, the Trump nightmare returns | Where King's vision was rooted in the American dream, in liberty and justice for all, Trump’s is fueled by pettiness, vengeance, division, and flagrant inequality of justice in action." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SpaceElevatorMusic"> /u/SpaceElevatorMusic </a> <br/> <span><a 
+
+## Election results don’t support Trump’s claims of a landslide and mandate
+ - [https://www.reddit.com/r/politics/comments/1i5qhxx/election_results_dont_support_trumps_claims_of_a](https://www.reddit.com/r/politics/comments/1i5qhxx/election_results_dont_support_trumps_claims_of_a)
+ - RSS feed: $source
+ - date published: 2025-01-20T13:47:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5qhxx/election_results_dont_support_trumps_claims_of_a/"> <img src="https://external-preview.redd.it/DPeyd34MLNuNMkbiMcZ8oKv3ngCDR9SHSmkv43lCJ7I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9410fba6b582fc4b81089272ff5ac3ccad5045ff" alt="Election results don’t support Trump’s claims of a landslide and mandate" title="Election results don’t support Trump’s claims of a landslide and mandate" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wizardofthefuture"> /u/wizardofthefuture </a> <br/> <span><a href="https://www.washingtonpost.com/politics/2025/01/20/trump-election-results-popular-vote/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5qhxx/election_results_dont_support_trumps_claims_of_a/">[comments]</a></span> </td></tr></table>
+
+## AOC to Skip Trump’s Inauguration: ‘I Don’t Celebrate Rapists’
+ - [https://www.reddit.com/r/politics/comments/1i5qa85/aoc_to_skip_trumps_inauguration_i_dont_celebrate](https://www.reddit.com/r/politics/comments/1i5qa85/aoc_to_skip_trumps_inauguration_i_dont_celebrate)
+ - RSS feed: $source
+ - date published: 2025-01-20T13:36:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5qa85/aoc_to_skip_trumps_inauguration_i_dont_celebrate/"> <img src="https://external-preview.redd.it/tgcF7f4ZRPxE-eLMXdhTCcpZwLziSt7RG5OrWfLzie4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c2249380da548305e28767dc4eb3f4142a35904" alt="AOC to Skip Trump’s Inauguration: ‘I Don’t Celebrate Rapists’" title="AOC to Skip Trump’s Inauguration: ‘I Don’t Celebrate Rapists’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Boonzies"> /u/Boonzies </a> <br/> <span><a href="https://www.thedailybeast.com/alexandria-ocasio-cortez-boycotting-donald-trumps-inauguration-i-dont-celebrate-rapists/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5qa85/aoc_to_skip_trumps_inauguration_i_dont_celebrate/">[comments]</a></span> </td></tr></table>
+
+## Biden pardons Fauci, Jan. 6 committee ahead of Trump inauguration
+ - [https://www.reddit.com/r/politics/comments/1i5pyg5/biden_pardons_fauci_jan_6_committee_ahead_of](https://www.reddit.com/r/politics/comments/1i5pyg5/biden_pardons_fauci_jan_6_committee_ahead_of)
+ - RSS feed: $source
+ - date published: 2025-01-20T13:18:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5pyg5/biden_pardons_fauci_jan_6_committee_ahead_of/"> <img src="https://external-preview.redd.it/pnTWbyhMceisKpYBSSnNMixmoGssqpwqAm9rjQ30CnE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9135a2fe348a2c4963860d5a2a7bd566a90427fc" alt="Biden pardons Fauci, Jan. 6 committee ahead of Trump inauguration" title="Biden pardons Fauci, Jan. 6 committee ahead of Trump inauguration" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pecika"> /u/pecika </a> <br/> <span><a href="https://www.axios.com/2025/01/20/biden-pardon-fauci-cheney-jan-6-committee-trump">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5pyg5/biden_pardons_fauci_jan_6_committee_ahead_of/">[comments]</a></span> </td></tr></table>
+
+## Biden pardons Dr. Anthony Fauci, Gen. Milley, Jan. 6 committee members
+ - [https://www.reddit.com/r/politics/comments/1i5pbpp/biden_pardons_dr_anthony_fauci_gen_milley_jan_6](https://www.reddit.com/r/politics/comments/1i5pbpp/biden_pardons_dr_anthony_fauci_gen_milley_jan_6)
+ - RSS feed: $source
+ - date published: 2025-01-20T12:43:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5pbpp/biden_pardons_dr_anthony_fauci_gen_milley_jan_6/"> <img src="https://external-preview.redd.it/-sE-2HDWOo8-4qUS5W8PX70trDXsoud9gDCTI_4IVu0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c8689ddc09abd0ad924a77c9ee5e810dcd834f59" alt="Biden pardons Dr. Anthony Fauci, Gen. Milley, Jan. 6 committee members" title="Biden pardons Dr. Anthony Fauci, Gen. Milley, Jan. 6 committee members" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vakr001"> /u/vakr001 </a> <br/> <span><a href="https://www.cnbc.com/2025/01/20/biden-pardons-fauci-milley-j6-committee.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5pbpp/biden_pardons_dr_anthony_fauci_gen_milley_jan_6/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk’s DOGE to be sued within minutes of Trump inauguration
+ - [https://www.reddit.com/r/politics/comments/1i5p8gd/elon_musks_doge_to_be_sued_within_minutes_of](https://www.reddit.com/r/politics/comments/1i5p8gd/elon_musks_doge_to_be_sued_within_minutes_of)
+ - RSS feed: $source
+ - date published: 2025-01-20T12:37:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5p8gd/elon_musks_doge_to_be_sued_within_minutes_of/"> <img src="https://external-preview.redd.it/eUI0gKLzHtLIgwpwmnzwRA7X5dkMgE90BUFWubBMr2U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aafa07be4cb105fc6a30c5efa5595a742ac1de51" alt="Elon Musk’s DOGE to be sued within minutes of Trump inauguration" title="Elon Musk’s DOGE to be sued within minutes of Trump inauguration" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sideAccount42"> /u/sideAccount42 </a> <br/> <span><a href="https://www.washingtonpost.com/business/2025/01/20/doge-trump-musk-ramaswamy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5p8gd/elon_musks_doge_to_be_sued_within_minutes_of/">[comments]</a></span> </td></tr></table>
+
+## Biden issues preemptive pardons for Milley, Fauci, Jan. 6 panel members and police officers
+ - [https://www.reddit.com/r/politics/comments/1i5p61u/biden_issues_preemptive_pardons_for_milley_fauci](https://www.reddit.com/r/politics/comments/1i5p61u/biden_issues_preemptive_pardons_for_milley_fauci)
+ - RSS feed: $source
+ - date published: 2025-01-20T12:33:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5p61u/biden_issues_preemptive_pardons_for_milley_fauci/"> <img src="https://external-preview.redd.it/N75IMPeCRm6iB-qdngzC0Mf-AkTMNuAl_eoim-7yEiM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2b75df2f89395d42241ff0b71b3d6929eaf436ef" alt="Biden issues preemptive pardons for Milley, Fauci, Jan. 6 panel members and police officers" title="Biden issues preemptive pardons for Milley, Fauci, Jan. 6 panel members and police officers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br/> <span><a href="https://www.nbcnews.com/politics/joe-biden/biden-issues-preemptive-pardons-milley-fauci-jan-6-panel-members-polic-rcna188368">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5p61u/biden_issues_preemptive_pardons_for_milley_fauci/">[comments]</a></span> </td></tr></table>
+
+## 'A Disgrace': The Pope Raises Holy Hell Over Trump's Biggest 'Day 1' Promise
+ - [https://www.reddit.com/r/politics/comments/1i5p29n/a_disgrace_the_pope_raises_holy_hell_over_trumps](https://www.reddit.com/r/politics/comments/1i5p29n/a_disgrace_the_pope_raises_holy_hell_over_trumps)
+ - RSS feed: $source
+ - date published: 2025-01-20T12:27:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5p29n/a_disgrace_the_pope_raises_holy_hell_over_trumps/"> <img src="https://external-preview.redd.it/oOcSje5i3MCqmsXM7H6yuYALUj0eBr0eAXGy-9sRGdQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9bb430abb6ebc5cfc726a29743c479f76c5ec58d" alt="'A Disgrace': The Pope Raises Holy Hell Over Trump's Biggest 'Day 1' Promise" title="'A Disgrace': The Pope Raises Holy Hell Over Trump's Biggest 'Day 1' Promise" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br/> <span><a href="https://www.huffpost.com/entry/pope-francis-trump-immigration_n_678dd3dae4b0504f45645157">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5p29n/a_disgrace_the_pope_raises_holy_hell_over_trumps/">[comments]</a></span> </td></tr></table>
+
+## Biden preemptively pardons Anthony Fauci, Mark Milley and Jan. 6 committee members
+ - [https://www.reddit.com/r/politics/comments/1i5p26z/biden_preemptively_pardons_anthony_fauci_mark](https://www.reddit.com/r/politics/comments/1i5p26z/biden_preemptively_pardons_anthony_fauci_mark)
+ - RSS feed: $source
+ - date published: 2025-01-20T12:26:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5p26z/biden_preemptively_pardons_anthony_fauci_mark/"> <img src="https://external-preview.redd.it/0dmTTvnSAo3HBw8sMW8shvuBs8ZSczM9J3_zOHaVjcQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1daaf50818c504e959c83709234570d91addbc73" alt="Biden preemptively pardons Anthony Fauci, Mark Milley and Jan. 6 committee members" title="Biden preemptively pardons Anthony Fauci, Mark Milley and Jan. 6 committee members" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Plaintalks"> /u/Plaintalks </a> <br/> <span><a href="https://abcnews.go.com/Politics/biden-preemptively-pardons-anthony-fauci-mark-milley-jan/story?id=117878813">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5p26z/biden_preemptively_pardons_anthony_fauci_mark/">[comments]</a></span> </td></tr></table>
+
+## Biden pardons Fauci and Milley in an effort to guard against potential 'revenge' by Trump
+ - [https://www.reddit.com/r/politics/comments/1i5oy2b/biden_pardons_fauci_and_milley_in_an_effort_to](https://www.reddit.com/r/politics/comments/1i5oy2b/biden_pardons_fauci_and_milley_in_an_effort_to)
+ - RSS feed: $source
+ - date published: 2025-01-20T12:19:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5oy2b/biden_pardons_fauci_and_milley_in_an_effort_to/"> <img src="https://external-preview.redd.it/Vc2daPEE4v11c_YF3RtXhXv8jadbWcc6YyLwc9Q6vxU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3851bc262b8299c7329bbd65dc0800668b1fca06" alt="Biden pardons Fauci and Milley in an effort to guard against potential 'revenge' by Trump" title="Biden pardons Fauci and Milley in an effort to guard against potential 'revenge' by Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jq1984_is_me"> /u/jq1984_is_me </a> <br/> <span><a href="https://apnews.com/article/biden-trump-fauci-milley-pardons-january-6-3cba287f89051513fb48d7ae700ae747">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5oy2b/biden_pardons_fauci_and_milley_in_an_effort_to/">[comments]</a></span> </td></tr></table>
+
+## Congresswoman suggests Trump admitted Musk rigged election in Pa.
+ - [https://www.reddit.com/r/politics/comments/1i5nagp/congresswoman_suggests_trump_admitted_musk_rigged](https://www.reddit.com/r/politics/comments/1i5nagp/congresswoman_suggests_trump_admitted_musk_rigged)
+ - RSS feed: $source
+ - date published: 2025-01-20T10:29:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5nagp/congresswoman_suggests_trump_admitted_musk_rigged/"> <img src="https://external-preview.redd.it/x7xDsZWVHRmRfqv5YocQA5jT9aUvgx4NbGoD9RdTSlA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e0ad2555905aebc87ec725ef2405f142209be6e5" alt="Congresswoman suggests Trump admitted Musk rigged election in Pa." title="Congresswoman suggests Trump admitted Musk rigged election in Pa." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MothersMiIk"> /u/MothersMiIk </a> <br/> <span><a href="https://www.pennlive.com/news/2025/01/congresswoman-suggests-trump-admitted-musk-rigged-election-in-pa.html?outputType=amp">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5nagp/congresswoman_suggests_trump_admitted_musk_rigged/">[comments]</a></span> </td></tr></table>
+
+## Pope Francis calls Trump's plans of mass deportation of immigrants 'a disgrace'
+ - [https://www.reddit.com/r/politics/comments/1i5m84g/pope_francis_calls_trumps_plans_of_mass](https://www.reddit.com/r/politics/comments/1i5m84g/pope_francis_calls_trumps_plans_of_mass)
+ - RSS feed: $source
+ - date published: 2025-01-20T09:09:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5m84g/pope_francis_calls_trumps_plans_of_mass/"> <img src="https://external-preview.redd.it/sAlYTkgh1prXDPOpE7FqvfnqvGOxnUqr8rWqmpjBPlg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9d0dba0bd509af58bf104a069b7fc17c3c7b1a29" alt="Pope Francis calls Trump's plans of mass deportation of immigrants 'a disgrace'" title="Pope Francis calls Trump's plans of mass deportation of immigrants 'a disgrace'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IAmPookieHearMeRoar"> /u/IAmPookieHearMeRoar </a> <br/> <span><a href="https://apnews.com/article/vatican-immigration-trump-pope-d3516b41de56641391f59c2094ee380e">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5m84g/pope_francis_calls_trumps_plans_of_mass/">[comments]</a></span> </td></tr></table>
+
+## AOC Says TikTok Thanking 'President Trump' For Helping Restore App Is 'A Choice'
+ - [https://www.reddit.com/r/politics/comments/1i5lmrx/aoc_says_tiktok_thanking_president_trump_for](https://www.reddit.com/r/politics/comments/1i5lmrx/aoc_says_tiktok_thanking_president_trump_for)
+ - RSS feed: $source
+ - date published: 2025-01-20T08:23:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5lmrx/aoc_says_tiktok_thanking_president_trump_for/"> <img src="https://external-preview.redd.it/gigI3UwHbppIwzZLmGDPvoc5R60PpZQiV_zrn5gqQ-A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d27f292387d1738695a67d37c346778442866f0" alt="AOC Says TikTok Thanking 'President Trump' For Helping Restore App Is 'A Choice'" title="AOC Says TikTok Thanking 'President Trump' For Helping Restore App Is 'A Choice'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iawallylifer"> /u/iawallylifer </a> <br/> <span><a href="https://www.huffpost.com/entry/alexandria-ocasio-cortez-tiktok-donald-trump_n_678d62e7e4b0a4bfc43096aa">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5lmrx/aoc_says_tiktok_thanking_president_trump_for/">[comments]</a></span> </td></tr></table>
+
+## AOC ’28 Starts Now
+ - [https://www.reddit.com/r/politics/comments/1i5iso7/aoc_28_starts_now](https://www.reddit.com/r/politics/comments/1i5iso7/aoc_28_starts_now)
+ - RSS feed: $source
+ - date published: 2025-01-20T05:09:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5iso7/aoc_28_starts_now/"> <img src="https://external-preview.redd.it/s0fEVMI5Ycg73f2Fruf0V4LC5hB2ziamcctqPZecMl8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a44daabc6e4d444b67b985638b2cb92fd113b42" alt="AOC ’28 Starts Now" title="AOC ’28 Starts Now" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SkudChud"> /u/SkudChud </a> <br/> <span><a href="https://www.truthdig.com/articles/aoc-28-starts-now/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5iso7/aoc_28_starts_now/">[comments]</a></span> </td></tr></table>
+
+## Trump’s Meme Coin Immediately Crashes After Melania’s Cryptocurrency Launch | Just hours after the incoming first lady’s digital currency went live, her husband’s suffered a precipitous crash of more than 40%.
+ - [https://www.reddit.com/r/politics/comments/1i5ii6e/trumps_meme_coin_immediately_crashes_after](https://www.reddit.com/r/politics/comments/1i5ii6e/trumps_meme_coin_immediately_crashes_after)
+ - RSS feed: $source
+ - date published: 2025-01-20T04:52:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5ii6e/trumps_meme_coin_immediately_crashes_after/"> <img src="https://external-preview.redd.it/drpcSMeHQCDBPNmFket4Wf8vLeaveGRHpvaEEYUg4fc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d8b55a879abe0b77c49b1e66fd053ec98595456" alt="Trump’s Meme Coin Immediately Crashes After Melania’s Cryptocurrency Launch | Just hours after the incoming first lady’s digital currency went live, her husband’s suffered a precipitous crash of more than 40%." title="Trump’s Meme Coin Immediately Crashes After Melania’s Cryptocurrency Launch | Just hours after the incoming first lady’s digital currency went live, her husband’s suffered a precipitous crash of more than 40%." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br/> <span><a href="https://www.thedailybeast.com/trumps-meme-coin-immediately-crashes-after-melanias-cryptocurrency-launch/">[link]</a></span
+
+## Fact check: Trump makes false claims about his 2024 victory, the 2020 election, immigration and more at DC rally
+ - [https://www.reddit.com/r/politics/comments/1i5h43u/fact_check_trump_makes_false_claims_about_his](https://www.reddit.com/r/politics/comments/1i5h43u/fact_check_trump_makes_false_claims_about_his)
+ - RSS feed: $source
+ - date published: 2025-01-20T03:33:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5h43u/fact_check_trump_makes_false_claims_about_his/"> <img src="https://external-preview.redd.it/odnPryJGQo_O4N-ulSgYmFYfR0sV_aIwiAw0V5vjvmM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=61c8033d86e4dc0cc40f0e41cc569a66839ce11f" alt="Fact check: Trump makes false claims about his 2024 victory, the 2020 election, immigration and more at DC rally" title="Fact check: Trump makes false claims about his 2024 victory, the 2020 election, immigration and more at DC rally" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pleasureismylife"> /u/pleasureismylife </a> <br/> <span><a href="https://www.cnn.com/2025/01/19/politics/fact-check-trump-false-claims-election-immigration-dc-rally/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5h43u/fact_check_trump_makes_false_claims_about_his/">[comments]</a></span> </td></tr></table>
+
+## Biden says not taking more credit for accomplishments is key regret of his presidency
+ - [https://www.reddit.com/r/politics/comments/1i5gkl5/biden_says_not_taking_more_credit_for](https://www.reddit.com/r/politics/comments/1i5gkl5/biden_says_not_taking_more_credit_for)
+ - RSS feed: $source
+ - date published: 2025-01-20T03:02:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5gkl5/biden_says_not_taking_more_credit_for/"> <img src="https://external-preview.redd.it/y-47XY8357eLva6okd-QwQYNyl52vyinX0sQzlFQ4PY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=68cb884e63d492efbcc440ba142d6c425bcc59a3" alt="Biden says not taking more credit for accomplishments is key regret of his presidency" title="Biden says not taking more credit for accomplishments is key regret of his presidency" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/okayblueberries"> /u/okayblueberries </a> <br/> <span><a href="https://www.cnn.com/2025/01/17/politics/joe-biden-regret-presidency/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5gkl5/biden_says_not_taking_more_credit_for/">[comments]</a></span> </td></tr></table>
+
+## Was the whole TikTok drama a bait-and-switch to make Trump look good?
+ - [https://www.reddit.com/r/politics/comments/1i5fbrq/was_the_whole_tiktok_drama_a_baitandswitch_to](https://www.reddit.com/r/politics/comments/1i5fbrq/was_the_whole_tiktok_drama_a_baitandswitch_to)
+ - RSS feed: $source
+ - date published: 2025-01-20T01:56:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5fbrq/was_the_whole_tiktok_drama_a_baitandswitch_to/"> <img src="https://external-preview.redd.it/e5K8zruK_NMefx0YfJkhs5hSdN4N5LknrtgRqug6Ypg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=957ca0a344fbfe6244e66ffa0997c1d940ff1e15" alt="Was the whole TikTok drama a bait-and-switch to make Trump look good?" title="Was the whole TikTok drama a bait-and-switch to make Trump look good?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tuxcali1"> /u/Tuxcali1 </a> <br/> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/trump-tiktok-ban-b2682406.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5fbrq/was_the_whole_tiktok_drama_a_baitandswitch_to/">[comments]</a></span> </td></tr></table>
+
+## Trump says he will quickly release JFK, Robert Kennedy, MLK assassination files
+ - [https://www.reddit.com/r/politics/comments/1i5eh37/trump_says_he_will_quickly_release_jfk_robert](https://www.reddit.com/r/politics/comments/1i5eh37/trump_says_he_will_quickly_release_jfk_robert)
+ - RSS feed: $source
+ - date published: 2025-01-20T01:12:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5eh37/trump_says_he_will_quickly_release_jfk_robert/"> <img src="https://external-preview.redd.it/erEKXM4iL4wMX9mTLaIDDsb69MbsgM5xEQqXT9tRcAI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8cddcfce664457953d86657ca941fabacc22126d" alt="Trump says he will quickly release JFK, Robert Kennedy, MLK assassination files" title="Trump says he will quickly release JFK, Robert Kennedy, MLK assassination files" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/redditor01020"> /u/redditor01020 </a> <br/> <span><a href="https://www.reuters.com/world/us/trump-says-he-will-quickly-release-jfk-robert-kennedy-mlk-assassination-files-2025-01-19/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5eh37/trump_says_he_will_quickly_release_jfk_robert/">[comments]</a></span> </td></tr></table>
+
+## Scores of career State Dept. diplomats resign before Trump’s inauguration
+ - [https://www.reddit.com/r/politics/comments/1i5e18u/scores_of_career_state_dept_diplomats_resign](https://www.reddit.com/r/politics/comments/1i5e18u/scores_of_career_state_dept_diplomats_resign)
+ - RSS feed: $source
+ - date published: 2025-01-20T00:49:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5e18u/scores_of_career_state_dept_diplomats_resign/"> <img src="https://external-preview.redd.it/F9PzJrRrOQ99hXL1BsXCVDuGgVfhcanwmQHQYGCgU5k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=70ffbc42c8d6e339d1af93405cd60a3f7d003e84" alt="Scores of career State Dept. diplomats resign before Trump’s inauguration" title="Scores of career State Dept. diplomats resign before Trump’s inauguration" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ShitShowcase"> /u/ShitShowcase </a> <br/> <span><a href="https://www.washingtonpost.com/national-security/2025/01/19/trump-state-department-resignations/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i5e18u/scores_of_career_state_dept_diplomats_resign/">[comments]</a></span> </td></tr></table>
+
+## Pope Francis says Trump's immigration raids would be a 'disgrace' | The pontiff said it would be a "disgrace" if Trump went forward with the plan, in unusually forceful language for the leader of the global Catholic Church
+ - [https://www.reddit.com/r/politics/comments/1i5dhqx/pope_francis_says_trumps_immigration_raids_would](https://www.reddit.com/r/politics/comments/1i5dhqx/pope_francis_says_trumps_immigration_raids_would)
+ - RSS feed: $source
+ - date published: 2025-01-20T00:22:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i5dhqx/pope_francis_says_trumps_immigration_raids_would/"> <img src="https://external-preview.redd.it/eKJN1mK1HfxZsd6TTPmoNPTLd0n9xMZZlBAa9iJHilM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3da162a9c5cc9fb2787362bec7cfc5b1b5584f03" alt="Pope Francis says Trump's immigration raids would be a 'disgrace' | The pontiff said it would be a &quot;disgrace&quot; if Trump went forward with the plan, in unusually forceful language for the leader of the global Catholic Church" title="Pope Francis says Trump's immigration raids would be a 'disgrace' | The pontiff said it would be a &quot;disgrace&quot; if Trump went forward with the plan, in unusually forceful language for the leader of the global Catholic Church" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/1DarkStarryNight"> /u/1DarkStarryNight </a> <br/> <span><a href="https://www.reuters.com/world/europe/pope-francis-says-trumps-immi
+

@@ -1,0 +1,37 @@
+# Source:RSS - Really Simple Syndication, URL:https://www.reddit.com/r/rss/.rss, language:en
+
+## Can I create a podcast rss feed for audio content published on website?
+ - [https://www.reddit.com/r/rss/comments/1i63a1h/can_i_create_a_podcast_rss_feed_for_audio_content](https://www.reddit.com/r/rss/comments/1i63a1h/can_i_create_a_podcast_rss_feed_for_audio_content)
+ - RSS feed: $source
+ - date published: 2025-01-20T22:36:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m not sure if this is the right subreddit, but since it involves rss, maybe somebody here would know? </p> <p>A podcast I enjoy stopped publishing their podcast via itunes (where I could listen via my podcast app) and now they only publish it on their website. </p> <p>(It&#39;s actually a radio show from a larger network, and they turn all of their radio shows into podcasts and also publish them on their website. But for some reason the show I like, they stopped publishing as a podcast )</p> <p>I know there&#39;s an app to turn youtube videos into an rss feed (podtube.me), which I&#39;ve used in my podcast app. </p> <p>Is there any app that can do something similar for audio content published on a website? I just don&#39;t want to have to go to their website manually to download the show every time. I&#39;d love to have it show in my podcast app again. </p> <p>Hope this makes sense. Thanks for any ideas!</p> </div><!-- SC_ON --> &#32; submitted
+
+## Reddit RSS Top Daily Feed
+ - [https://www.reddit.com/r/rss/comments/1i5sf6d/reddit_rss_top_daily_feed](https://www.reddit.com/r/rss/comments/1i5sf6d/reddit_rss_top_daily_feed)
+ - RSS feed: $source
+ - date published: 2025-01-20T15:16:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to create an RSS feed that only shows the top 10 or 20 items in a sub credit for that day or week.</p> <p>Do you guys know how I can make that work?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Weak-Calligrapher170"> /u/Weak-Calligrapher170 </a> <br/> <span><a href="https://www.reddit.com/r/rss/comments/1i5sf6d/reddit_rss_top_daily_feed/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/rss/comments/1i5sf6d/reddit_rss_top_daily_feed/">[comments]</a></span>
+
+## Processing websites without native RSS
+ - [https://www.reddit.com/r/rss/comments/1i5ozf0/processing_websites_without_native_rss](https://www.reddit.com/r/rss/comments/1i5ozf0/processing_websites_without_native_rss)
+ - RSS feed: $source
+ - date published: 2025-01-20T12:22:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been using AI coding assistants to build an RSS aggregator with some specific filtering features for my use case. I&#39;m pretty happy with what I have, but I&#39;d love to be able to incorporate updated content from websites that lack native RSS. For example reports/white papers published by consultancies like McKinsey. Or insights such as on <a href="https://www.msci.com/research-and-insights">this</a> site. I know there are a bunch of projects like RSS bridge and MORSS, but I can&#39;t seem to get decent results out of them. RSS app seems decent, but is a paid service. Any idea how to incorporate in this app (as a non-technical person relying on AI assistance)? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Accurate-Jump-9679"> /u/Accurate-Jump-9679 </a> <br/> <span><a href="https://www.reddit.com/r/rss/comments/1i5ozf0/processing_websites_without_native_rss/">[link]</a></span> &#32; <span><a href="h
+
+## Question about RSS. app
+ - [https://www.reddit.com/r/rss/comments/1i5nss7/question_about_rss_app](https://www.reddit.com/r/rss/comments/1i5nss7/question_about_rss_app)
+ - RSS feed: $source
+ - date published: 2025-01-20T11:04:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is it possible to configure the Twitter feeds from RSS. app to only send posts and not replies to other users when it posts to Discord (and other places) the feed?</p> <p>I hope my question isn’t confusing.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DanNatsuki"> /u/DanNatsuki </a> <br/> <span><a href="https://www.reddit.com/r/rss/comments/1i5nss7/question_about_rss_app/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/rss/comments/1i5nss7/question_about_rss_app/">[comments]</a></span>
+
+## New Lighthouse feature: show bookmark ratio
+ - [https://www.reddit.com/r/rss/comments/1i5m8m5/new_lighthouse_feature_show_bookmark_ratio](https://www.reddit.com/r/rss/comments/1i5m8m5/new_lighthouse_feature_show_bookmark_ratio)
+ - RSS feed: $source
+ - date published: 2025-01-20T09:10:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>A couple days ago I added a feature to <a href="https://lighthouseapp.io/">Lighthouse</a> that I think some of you will appreciate.</p> <p>It now shows, for each source, the percentage of content that you read (aka bookmark).</p> <p>You can sort by the ratio, which will help find the sources you read the least. The idea is that you can use that information to unsubscribe from the feeds you read the least.</p> <p>It&#39;s great if feed readers help with content discovery, but they should also support with unsubscribing. Otherwise the feeds become an append-only list, content becomes more and more, and at some point it&#39;s too much and unmanageable. </p> <p>My hope is that it helps to keep the amount of content at a manageable level.</p> <p>The changelog post includes an image how it looks in the product (can&#39;t include the image directly): <a href="https://www.reddit.com/r/lighthouseapp/comments/1i5m53j/new_feature_bookmark_ratio/">https://www.re
+

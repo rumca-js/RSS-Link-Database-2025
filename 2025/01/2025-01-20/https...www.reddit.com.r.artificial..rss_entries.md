@@ -1,0 +1,65 @@
+# Source:Artificial Intelligence (AI), URL:https://www.reddit.com/r/artificial/.rss, language:en
+
+## Art Meets AI in eNuminous & Archimedes' Captivating New Album 'Sing Like Robots'
+ - [https://www.reddit.com/r/artificial/comments/1i60rdt/art_meets_ai_in_enuminous_archimedes_captivating](https://www.reddit.com/r/artificial/comments/1i60rdt/art_meets_ai_in_enuminous_archimedes_captivating)
+ - RSS feed: $source
+ - date published: 2025-01-20T20:53:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i60rdt/art_meets_ai_in_enuminous_archimedes_captivating/"> <img src="https://external-preview.redd.it/DI7ckeYPUMwV2pcqjv4FXB6gWCVHH2CUs35tK2J3tpo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=90116e68ee2d604e70f621512e855482c006cd72" alt="Art Meets AI in eNuminous &amp; Archimedes' Captivating New Album 'Sing Like Robots'" title="Art Meets AI in eNuminous &amp; Archimedes' Captivating New Album 'Sing Like Robots'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Enuminous"> /u/Enuminous </a> <br/> <span><a href="https://betterauds.com/music/reviews/art-meets-ai-in-enuminous-archimedes-captivating-new-album-sing-like-robots/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i60rdt/art_meets_ai_in_enuminous_archimedes_captivating/">[comments]</a></span> </td></tr></table>
+
+## what upcoming AI tools are you most excited about in 2025 ?
+ - [https://www.reddit.com/r/artificial/comments/1i60ge3/what_upcoming_ai_tools_are_you_most_excited_about](https://www.reddit.com/r/artificial/comments/1i60ge3/what_upcoming_ai_tools_are_you_most_excited_about)
+ - RSS feed: $source
+ - date published: 2025-01-20T20:40:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>As an enthusiast of AI development, I have been observing the growth of companion AI, especially the &#39;AI girlfriend&#39;&#39; type apps, becoming more popular over time. Do you have a favorite bot such as Replika or Anima, or maybe some obscure like a bot that you have enjoyed communicating with? Also, with the emergence of so many new AI platforms and tools, I wonder what the future holds. Are there any new AI sites or apps that you are particularly excited about? I want to know what you think - if sites are aimed at people, productivity, creativity, or just for entertainment.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Legal-Tailor6042"> /u/Legal-Tailor6042 </a> <br/> <span><a href="https://www.reddit.com/r/artificial/comments/1i60ge3/what_upcoming_ai_tools_are_you_most_excited_about/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i60ge3/what_upcoming_ai_tools_are
+
+## AI, Energy, & Water: Predictions?
+ - [https://www.reddit.com/r/artificial/comments/1i5uy70/ai_energy_water_predictions](https://www.reddit.com/r/artificial/comments/1i5uy70/ai_energy_water_predictions)
+ - RSS feed: $source
+ - date published: 2025-01-20T17:01:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>There&#39;s a lot of discussion about the environmental impacts of AI, particularly its energy and water needs. </p> <p>I kind of expect that r&amp;d on more efficient computers will reduce those demands over the next few years, but I tend to be a bit optimistic. </p> <p>I think we&#39;ll still need to expand our energy supplies since even if AIs become 1000x more efficient, demand for AI can easily grow 10,000x, overwhelming the efficiency gains. Still, I obviously see this as more manageable and sustainable than the current systems.<br/> Also, I expect major AI companies to continue to invest in creating sustainable energy sources.<br/> And I even suspect that the new generation of water-from-air devices [e.g. MOF based], will allow data centers to harvest water from air, thereby reducing the stress on local water supplies. So even if they require a lot of water, they&#39;ll just &#39;create&#39; it themselves from the air. </p> <p>What do you all 
+
+## Outgoing National Security Advisor Jake Sullivan issued a final, urgent warning that the next few years will determine whether AI leads to existential catastrophe
+ - [https://www.reddit.com/r/artificial/comments/1i5tu1r/outgoing_national_security_advisor_jake_sullivan](https://www.reddit.com/r/artificial/comments/1i5tu1r/outgoing_national_security_advisor_jake_sullivan)
+ - RSS feed: $source
+ - date published: 2025-01-20T16:15:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i5tu1r/outgoing_national_security_advisor_jake_sullivan/"> <img src="https://b.thumbs.redditmedia.com/JFQs2mfAULWAK7JHU5B-j1Xx_HMC06DR2kMfncqresM.jpg" alt="Outgoing National Security Advisor Jake Sullivan issued a final, urgent warning that the next few years will determine whether AI leads to existential catastrophe" title="Outgoing National Security Advisor Jake Sullivan issued a final, urgent warning that the next few years will determine whether AI leads to existential catastrophe" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MetaKnowing"> /u/MetaKnowing </a> <br/> <span><a href="https://www.axios.com/2025/01/18/biden-sullivan-ai-race-trump-china">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i5tu1r/outgoing_national_security_advisor_jake_sullivan/">[comments]</a></span> </td></tr></table>
+
+## The New Generalist's Paradox
+ - [https://www.reddit.com/r/artificial/comments/1i5t6ta/the_new_generalists_paradox](https://www.reddit.com/r/artificial/comments/1i5t6ta/the_new_generalists_paradox)
+ - RSS feed: $source
+ - date published: 2025-01-20T15:49:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i5t6ta/the_new_generalists_paradox/"> <img src="https://external-preview.redd.it/FnujmVivOH8aZid55WX0IFIGo3oLbO01VX0b6pm4HxA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb9f207ff1a9be978d5c2f633253e528ccaea661" alt="The New Generalist's Paradox" title="The New Generalist's Paradox" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Significant-Fan-8454"> /u/Significant-Fan-8454 </a> <br/> <span><a href="https://future.forem.com/ben/the-new-generalists-paradox-28df">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i5t6ta/the_new_generalists_paradox/">[comments]</a></span> </td></tr></table>
+
+## Growing acceptance of artificial intelligence in Germany
+ - [https://www.reddit.com/r/artificial/comments/1i5svbt/growing_acceptance_of_artificial_intelligence_in](https://www.reddit.com/r/artificial/comments/1i5svbt/growing_acceptance_of_artificial_intelligence_in)
+ - RSS feed: $source
+ - date published: 2025-01-20T15:35:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i5svbt/growing_acceptance_of_artificial_intelligence_in/"> <img src="https://external-preview.redd.it/t0ue7xbGWOjMYVAX3An22-qO88TUNc9iykCNqpyWBd8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1d8e612ef783a4243cccdd6606f1d54f1822b57" alt="Growing acceptance of artificial intelligence in Germany" title="Growing acceptance of artificial intelligence in Germany" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/donutloop"> /u/donutloop </a> <br/> <span><a href="https://www.bosch-presse.de/pressportal/de/en/growing-acceptance-of-artificial-intelligence-in-germany-272384.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i5svbt/growing_acceptance_of_artificial_intelligence_in/">[comments]</a></span> </td></tr></table>
+
+## Atari 10k challenge benchmark with bayesian models / free energy principle active inference
+ - [https://www.reddit.com/r/artificial/comments/1i5p48t/atari_10k_challenge_benchmark_with_bayesian](https://www.reddit.com/r/artificial/comments/1i5p48t/atari_10k_challenge_benchmark_with_bayesian)
+ - RSS feed: $source
+ - date published: 2025-01-20T12:30:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i5p48t/atari_10k_challenge_benchmark_with_bayesian/"> <img src="https://external-preview.redd.it/Yuv6GyrSwxCI2b8O-P6J9JhijjQJ6BZ6IArhiUmIfJY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e3bd056219dcd0fe846f8601f7917e860216d6c" alt="Atari 10k challenge benchmark with bayesian models / free energy principle active inference" title="Atari 10k challenge benchmark with bayesian models / free energy principle active inference" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>“VERSES’ agent, powered by Genius, trained for 2 hours on 90% less data than Atari 100k (thus Atari 10k) on several games</p> <p>Genius Agent matched or exceeded performance of top ranking models that were trained on 10x the data and many times more compute</p> <p>Genius Agent exceeded human-level performance and achieved perfect play (scoring all 20 points) at Pong multiple times</p> <p>Genius Agent outperformed a leading model, IRIS with 
+
+## AI Coding Landscape
+ - [https://www.reddit.com/r/artificial/comments/1i5n3vm/ai_coding_landscape](https://www.reddit.com/r/artificial/comments/1i5n3vm/ai_coding_landscape)
+ - RSS feed: $source
+ - date published: 2025-01-20T10:15:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i5n3vm/ai_coding_landscape/"> <img src="https://preview.redd.it/9ki4hv1fj4ee1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ec8ae7cbddeda50751b806fe51bd883d1264c0b" alt="AI Coding Landscape" title="AI Coding Landscape" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yangshunz"> /u/yangshunz </a> <br/> <span><a href="https://i.redd.it/9ki4hv1fj4ee1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i5n3vm/ai_coding_landscape/">[comments]</a></span> </td></tr></table>
+
+## One-Minute Daily AI News 1/19/2025
+ - [https://www.reddit.com/r/artificial/comments/1i5gxne/oneminute_daily_ai_news_1192025](https://www.reddit.com/r/artificial/comments/1i5gxne/oneminute_daily_ai_news_1192025)
+ - RSS feed: $source
+ - date published: 2025-01-20T03:23:07+00:00
+
+<!-- SC_OFF --><div class="md"><ol> <li><strong>Oscar</strong> Hopeful The Brutalist Comes Under Fire For Using AI.[1]</li> <li>Explained: Generative AI’s environmental impact.[2]</li> <li>AI startup Character AI tests games on the web.[3]</li> <li>The Pentagon says AI is speeding up its ‘kill chain’.[4]</li> </ol> <p>Sources:</p> <p>[1] <a href="https://screenrant.com/brutalist-movie-ai-use-criticism-explained/">https://screenrant.com/brutalist-movie-ai-use-criticism-explained/</a></p> <p>[2] <a href="https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117">https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117</a></p> <p>[3] <a href="https://techcrunch.com/2025/01/17/ai-startup-character-ai-tests-games-on-the-web/">https://techcrunch.com/2025/01/17/ai-startup-character-ai-tests-games-on-the-web/</a></p> <p>[4] <a href="https://techcrunch.com/2025/01/19/the-pentagon-says-ai-is-speeding-up-its-kill-chain/">https://techcrunch.com/2025/01/19/the
+
