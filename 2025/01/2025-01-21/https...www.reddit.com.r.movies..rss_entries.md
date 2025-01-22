@@ -1,0 +1,261 @@
+# Source:Movie News and Discussion, URL:https://www.reddit.com/r/movies/.rss, language:en
+
+## January 17-20 Box Office Recap: 'Mufasa' returns to #1, but 'One of Them Days' over-performs. However, Blumhouse's 'Wolf Man' underwhelms with a very weak $12.2 million in its first four days.
+ - [https://www.reddit.com/r/movies/comments/1i6vptt/january_1720_box_office_recap_mufasa_returns_to_1](https://www.reddit.com/r/movies/comments/1i6vptt/january_1720_box_office_recap_mufasa_returns_to_1)
+ - RSS feed: $source
+ - date published: 2025-01-21T22:46:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6vptt/january_1720_box_office_recap_mufasa_returns_to_1/"> <img src="https://external-preview.redd.it/tbuGX4WF3O2ZuKLo-MK0KVorpOIYOpnm0Sa4ynnSn8w.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e09c59f3b395d3a90d855a878ee7c120091b204d" alt="January 17-20 Box Office Recap: 'Mufasa' returns to #1, but 'One of Them Days' over-performs. However, Blumhouse's 'Wolf Man' underwhelms with a very weak $12.2 million in its first four days." title="January 17-20 Box Office Recap: 'Mufasa' returns to #1, but 'One of Them Days' over-performs. However, Blumhouse's 'Wolf Man' underwhelms with a very weak $12.2 million in its first four days." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/epx2d03ydfee1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=b2d941d42f912e5f2e61330babfcd8a3d1d412cc">https://preview.redd.it/epx2d03ydfee1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=b2d941d42f912
+
+## ‘The Toxic Avenger' Reboot Coming to Theaters in 2025
+ - [https://www.reddit.com/r/movies/comments/1i6th4z/the_toxic_avenger_reboot_coming_to_theaters_in](https://www.reddit.com/r/movies/comments/1i6th4z/the_toxic_avenger_reboot_coming_to_theaters_in)
+ - RSS feed: $source
+ - date published: 2025-01-21T21:12:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6th4z/the_toxic_avenger_reboot_coming_to_theaters_in/"> <img src="https://external-preview.redd.it/bdambtoehuSadPWihH9fRxOfmlasv7ln4dbrMkywA88.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e3730ed196ceb0d5e10f355c43784724e621e11" alt="‘The Toxic Avenger' Reboot Coming to Theaters in 2025" title="‘The Toxic Avenger' Reboot Coming to Theaters in 2025" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://variety.com/2025/film/news/the-toxic-avenger-reboot-theatrical-release-1236277516/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6th4z/the_toxic_avenger_reboot_coming_to_theaters_in/">[comments]</a></span> </td></tr></table>
+
+## Razzie Nominees Revealed
+ - [https://www.reddit.com/r/movies/comments/1i6sw3k/razzie_nominees_revealed](https://www.reddit.com/r/movies/comments/1i6sw3k/razzie_nominees_revealed)
+ - RSS feed: $source
+ - date published: 2025-01-21T20:48:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6sw3k/razzie_nominees_revealed/"> <img src="https://external-preview.redd.it/r0Bw-36eAD7TppkJxcwxyN1IyD_k3XQ2Hi7IfKKlagY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7baae52d39d0b9ee345aaf53389a1dc2645e1f6a" alt="Razzie Nominees Revealed" title="Razzie Nominees Revealed" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NoCulture3505"> /u/NoCulture3505 </a> <br/> <span><a href="https://www.hollywoodreporter.com/movies/movie-news/razzie-awards-nominations-2025-full-list-1236114097/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6sw3k/razzie_nominees_revealed/">[comments]</a></span> </td></tr></table>
+
+## ‘Sonic 4’ Sets March 19, 2027 Release Date
+ - [https://www.reddit.com/r/movies/comments/1i6shfm/sonic_4_sets_march_19_2027_release_date](https://www.reddit.com/r/movies/comments/1i6shfm/sonic_4_sets_march_19_2027_release_date)
+ - RSS feed: $source
+ - date published: 2025-01-21T20:32:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6shfm/sonic_4_sets_march_19_2027_release_date/"> <img src="https://external-preview.redd.it/y4slJNmcXceyzs2k1smIUYNym3j1aLHR8WoHvAFetGM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ca23410c0131b83f9ad4806107837445ff386c6" alt="‘Sonic 4’ Sets March 19, 2027 Release Date" title="‘Sonic 4’ Sets March 19, 2027 Release Date" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://variety.com/2025/film/news/sonic-4-release-date-march-2027-1236280697/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6shfm/sonic_4_sets_march_19_2027_release_date/">[comments]</a></span> </td></tr></table>
+
+## Dylan O’Brien To Co-Star Opposite Rachel McAdams In The Sam Raimi Horror Thriller ‘Send Help’ At 20th Century
+ - [https://www.reddit.com/r/movies/comments/1i6pi5k/dylan_obrien_to_costar_opposite_rachel_mcadams_in](https://www.reddit.com/r/movies/comments/1i6pi5k/dylan_obrien_to_costar_opposite_rachel_mcadams_in)
+ - RSS feed: $source
+ - date published: 2025-01-21T18:30:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6pi5k/dylan_obrien_to_costar_opposite_rachel_mcadams_in/"> <img src="https://external-preview.redd.it/39foWfew8cT9uJ_IXz9eVPTHEIz_rZm8mZ0aAdwus1Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c4cc5ded8d8d8f6dfbe36d85e7f93a85915e883" alt="Dylan O’Brien To Co-Star Opposite Rachel McAdams In The Sam Raimi Horror Thriller ‘Send Help’ At 20th Century" title="Dylan O’Brien To Co-Star Opposite Rachel McAdams In The Sam Raimi Horror Thriller ‘Send Help’ At 20th Century" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KillerCroc1234567"> /u/KillerCroc1234567 </a> <br/> <span><a href="https://deadline.com/2025/01/dylan-obrien-rachel-mcadams-sam-raimi-send-help-1236262090/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6pi5k/dylan_obrien_to_costar_opposite_rachel_mcadams_in/">[comments]</a></span> </td></tr></table>
+
+## John Ridley ('12 Years a Slave', 'Three Kings') to Write and Direct ‘Caves Of Steel’ Film Based On Isaac Asimov's Sci-Fi Novel For 20th Century Studios
+ - [https://www.reddit.com/r/movies/comments/1i6omwu/john_ridley_12_years_a_slave_three_kings_to_write](https://www.reddit.com/r/movies/comments/1i6omwu/john_ridley_12_years_a_slave_three_kings_to_write)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:56:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6omwu/john_ridley_12_years_a_slave_three_kings_to_write/"> <img src="https://external-preview.redd.it/FogVnFhtVOkYhDT1efkW58OWvFEVKdvvjj5dkZxYNNY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=042461eca2180a7cd8dca860e3fb8384e0f9cfa8" alt="John Ridley ('12 Years a Slave', 'Three Kings') to Write and Direct ‘Caves Of Steel’ Film Based On Isaac Asimov's Sci-Fi Novel For 20th Century Studios" title="John Ridley ('12 Years a Slave', 'Three Kings') to Write and Direct ‘Caves Of Steel’ Film Based On Isaac Asimov's Sci-Fi Novel For 20th Century Studios" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SanderSo47"> /u/SanderSo47 </a> <br/> <span><a href="https://deadline.com/2025/01/caves-of-steel-john-ridley-developing-20th-century-studios-1236262485/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6omwu/john_ridley_12_years_a_slave_three_kings_to_write/">
+
+## EEPHUS - Official Trailer | Grown men's recreational baseball game stretches to extra innings on their beloved field's final day before demolition. Humor and nostalgia intertwine as daylight fades, signaling an era's end
+ - [https://www.reddit.com/r/movies/comments/1i6o4lq/eephus_official_trailer_grown_mens_recreational](https://www.reddit.com/r/movies/comments/1i6o4lq/eephus_official_trailer_grown_mens_recreational)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:35:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6o4lq/eephus_official_trailer_grown_mens_recreational/"> <img src="https://external-preview.redd.it/_gFn-9f3JMf2Cz62H4xCDdIl13gcfA7xlCXqqMqkA7g.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2cda6d203c7b257a409f49183133a1b460c7f2f5" alt="EEPHUS - Official Trailer | Grown men's recreational baseball game stretches to extra innings on their beloved field's final day before demolition. Humor and nostalgia intertwine as daylight fades, signaling an era's end" title="EEPHUS - Official Trailer | Grown men's recreational baseball game stretches to extra innings on their beloved field's final day before demolition. Humor and nostalgia intertwine as daylight fades, signaling an era's end" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mayukhdas1999"> /u/mayukhdas1999 </a> <br/> <span><a href="https://youtu.be/7g-bxQwmU0s?si=UbpIrq38S0zMIhYG">[link]</a></span> &#32; <span><a href="https://ww
+
+## ‘Shogun’ Star Cosmo Jarvis Joins Guy Ritchie’s ‘Wife & Dog’
+ - [https://www.reddit.com/r/movies/comments/1i6ntb3/shogun_star_cosmo_jarvis_joins_guy_ritchies_wife](https://www.reddit.com/r/movies/comments/1i6ntb3/shogun_star_cosmo_jarvis_joins_guy_ritchies_wife)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:22:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6ntb3/shogun_star_cosmo_jarvis_joins_guy_ritchies_wife/"> <img src="https://external-preview.redd.it/X6XQ8suoEl9R_QUF9r40ed5ia9K_PWdp_DKkWk777NU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=21f40eb30cb9bed09c71bef402c4ef00dc76cb96" alt="‘Shogun’ Star Cosmo Jarvis Joins Guy Ritchie’s ‘Wife &amp; Dog’" title="‘Shogun’ Star Cosmo Jarvis Joins Guy Ritchie’s ‘Wife &amp; Dog’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NoCulture3505"> /u/NoCulture3505 </a> <br/> <span><a href="https://variety.com/2025/film/global/cosmo-jarvis-wife-dog-guy-ritchie-shogun-1236278783/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6ntb3/shogun_star_cosmo_jarvis_joins_guy_ritchies_wife/">[comments]</a></span> </td></tr></table>
+
+## Amazon’s IMDb Names Nikki Santoro Just The Second CEO In Its 35-Year History; Founder Col Needham Becomes Executive Chair
+ - [https://www.reddit.com/r/movies/comments/1i6nhuh/amazons_imdb_names_nikki_santoro_just_the_second](https://www.reddit.com/r/movies/comments/1i6nhuh/amazons_imdb_names_nikki_santoro_just_the_second)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:09:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6nhuh/amazons_imdb_names_nikki_santoro_just_the_second/"> <img src="https://external-preview.redd.it/q17yrQBVH7dWL025JkrOWqNsZWi3Hc4WMNZfLKrvgaE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=443e36292136723e143a597f4f6cadb2ab91b7c9" alt="Amazon’s IMDb Names Nikki Santoro Just The Second CEO In Its 35-Year History; Founder Col Needham Becomes Executive Chair" title="Amazon’s IMDb Names Nikki Santoro Just The Second CEO In Its 35-Year History; Founder Col Needham Becomes Executive Chair" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NoCulture3505"> /u/NoCulture3505 </a> <br/> <span><a href="https://deadline.com/2025/01/amazon-imdb-names-nikki-santoro-ceo-founder-col-needham-executive-chair-1236262066/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6nhuh/amazons_imdb_names_nikki_santoro_just_the_second/">[comments]</a></span> </td></tr></table>
+
+## What are some crazy, unique documentaries worth watching?
+ - [https://www.reddit.com/r/movies/comments/1i6n5p7/what_are_some_crazy_unique_documentaries_worth](https://www.reddit.com/r/movies/comments/1i6n5p7/what_are_some_crazy_unique_documentaries_worth)
+ - RSS feed: $source
+ - date published: 2025-01-21T16:55:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>I need escapism to get through the next 4 years.</p> <p>I am getting into documentaries lately and am looking for strange/interesting non-political topics like:</p> <p>Fanatical: The Catfishing of Tegan and Sara</p> <p>Paradise Lost trilogy</p> <p>Made In America (Oj Simpson doc)</p> <p>The Contestant</p> <p>Any recommendations, preferably from the main streamers like Netflix, Max, and Hulu?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SeagullsStopItNowz"> /u/SeagullsStopItNowz </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1i6n5p7/what_are_some_crazy_unique_documentaries_worth/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6n5p7/what_are_some_crazy_unique_documentaries_worth/">[comments]</a></span>
+
+## The TCM schedule for today…
+ - [https://www.reddit.com/r/movies/comments/1i6mzsj/the_tcm_schedule_for_today](https://www.reddit.com/r/movies/comments/1i6mzsj/the_tcm_schedule_for_today)
+ - RSS feed: $source
+ - date published: 2025-01-21T16:48:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>Black Legion(1937) Confessions of a Nazi Spy(1939) The Mortal Storm(1940) The Great Dictator(1940) The Seventh Cross(1944) Edge of Darkness(1943) Background to Danger(1943) Johnny Angel(1945) Nocturne(1946)</p> <p>Looks like a very interesting line up I must say. The following films featured have an anti-fascist theme and it just so happens TCM programmers scheduled this the day after the event happened. This is why I still pay for a “cable” package of some sort, even if it’s just a simple cheap Sling subscription. TCM never fails to amuse me and make me smile sometimes. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AMediaArchivist"> /u/AMediaArchivist </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1i6mzsj/the_tcm_schedule_for_today/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6mzsj/the_tcm_schedule_for_today/">[comments]</a></span>
+
+## IMDb founder steps down as CEO after 35 years
+ - [https://www.reddit.com/r/movies/comments/1i6mxoy/imdb_founder_steps_down_as_ceo_after_35_years](https://www.reddit.com/r/movies/comments/1i6mxoy/imdb_founder_steps_down_as_ceo_after_35_years)
+ - RSS feed: $source
+ - date published: 2025-01-21T16:46:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6mxoy/imdb_founder_steps_down_as_ceo_after_35_years/"> <img src="https://external-preview.redd.it/sAyMEdZcl6pzFzivMh255ED-3uombno9KHbFK4LNu2Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5473868097f65432fa94833345d8fd07a969c4b1" alt="IMDb founder steps down as CEO after 35 years " title="IMDb founder steps down as CEO after 35 years " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://techcrunch.com/2025/01/21/imdb-founder-steps-down-as-ceo-after-35-years/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6mxoy/imdb_founder_steps_down_as_ceo_after_35_years/">[comments]</a></span> </td></tr></table>
+
+## Bertrand Blier, Provocative Oscar-Winning French Director of ‘Going Places,’ Dies at 85
+ - [https://www.reddit.com/r/movies/comments/1i6morl/bertrand_blier_provocative_oscarwinning_french](https://www.reddit.com/r/movies/comments/1i6morl/bertrand_blier_provocative_oscarwinning_french)
+ - RSS feed: $source
+ - date published: 2025-01-21T16:35:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6morl/bertrand_blier_provocative_oscarwinning_french/"> <img src="https://external-preview.redd.it/zrXsT-FYORejyk53UclyzJubQlGxXBCPt_xF-7MjwUs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=73f6b67c2c8e98f7961c4391021226905d6ca41f" alt="Bertrand Blier, Provocative Oscar-Winning French Director of ‘Going Places,’ Dies at 85" title="Bertrand Blier, Provocative Oscar-Winning French Director of ‘Going Places,’ Dies at 85" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KillerCroc1234567"> /u/KillerCroc1234567 </a> <br/> <span><a href="https://variety.com/2025/film/global/bertrand-blier-oscar-winning-french-director-dies-1236280105/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6morl/bertrand_blier_provocative_oscarwinning_french/">[comments]</a></span> </td></tr></table>
+
+## A24 Sets Nationwide Release For Alex Garland & Ray Mendoza’s Iraq War Pic ‘Warfare’ (April 11th)
+ - [https://www.reddit.com/r/movies/comments/1i6mj8n/a24_sets_nationwide_release_for_alex_garland_ray](https://www.reddit.com/r/movies/comments/1i6mj8n/a24_sets_nationwide_release_for_alex_garland_ray)
+ - RSS feed: $source
+ - date published: 2025-01-21T16:29:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6mj8n/a24_sets_nationwide_release_for_alex_garland_ray/"> <img src="https://external-preview.redd.it/mwdCLzJJs2GWjfLDkeOzjxx7RiDjp7KiuOe99kjWhRw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b7bd180952b1774f288b610db1c03eebad32ea9d" alt="A24 Sets Nationwide Release For Alex Garland &amp; Ray Mendoza’s Iraq War Pic ‘Warfare’ (April 11th)" title="A24 Sets Nationwide Release For Alex Garland &amp; Ray Mendoza’s Iraq War Pic ‘Warfare’ (April 11th)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KillerCroc1234567"> /u/KillerCroc1234567 </a> <br/> <span><a href="https://deadline.com/2025/01/warfare-a24-alex-garland-release-date-1236262368/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6mj8n/a24_sets_nationwide_release_for_alex_garland_ray/">[comments]</a></span> </td></tr></table>
+
+## What is the Best Film You Watched Last Week? (01/14/25 – 01/21/25)
+ - [https://www.reddit.com/r/movies/comments/1i6llai/what_is_the_best_film_you_watched_last_week](https://www.reddit.com/r/movies/comments/1i6llai/what_is_the_best_film_you_watched_last_week)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:49:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>The way this works is that you post a review of the Best Film you watched this week. It can be any new or old release that you want to talk about.</p> <p><strong>Here are some rules:</strong></p> <ol> <li><strong>Check to see if your favorite film of last week has been posted already.</strong></li> <li><strong>Please post your favorite film of last week.</strong></li> <li><strong>Explain why you enjoyed your film.</strong></li> <li><strong>ALWAYS use SPOILER TAGS.</strong></li> <li><strong>Comments that only contain the title of the film will be removed.</strong></li> </ol> <p><a href="https://old.reddit.com/r/movies/comments/1i17gtb/what_is_the_best_film_you_watched_last_week/">Last Week&#39;s Best Submissions:</a></p> <table><thead> <tr> <th align="left">Film</th> <th align="left">User</th> </tr> </thead><tbody> <tr> <td align="left"><a href="https://old.reddit.com/r/movies/comments/1i17gtb/what_is_the_best_film_you_watched_last_week/m748z7l/">Nosf
+
+## Which movies) have you watched the most?
+ - [https://www.reddit.com/r/movies/comments/1i6lj4c/which_movies_have_you_watched_the_most](https://www.reddit.com/r/movies/comments/1i6lj4c/which_movies_have_you_watched_the_most)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:46:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>There&#39;s someone on Letterboxd who has seen Bones and All over 900 times. I&#39;ve watched 127 Hours about 1K times, I&#39;m guessing. I watched it over 130 times last year alone. But that&#39;s because l&#39;m autistic and it&#39;s my special interest. If I didn’t have many other films to watch, 127 Hours would be the only film I watch.</p> <p>Ok, your turn! I’m super curious what your answers are.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheGirlWithTheLove"> /u/TheGirlWithTheLove </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1i6lj4c/which_movies_have_you_watched_the_most/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6lj4c/which_movies_have_you_watched_the_most/">[comments]</a></span>
+
+## First Image of Marion Cotillard in Lucile Hadžihalilović's 'THE ICE TOWER' - the 1970s. Jeanne, a young runaway, falls under the spell of Cristina, the enigmatic star of The Snow Queen, a film which is being shot in the studio where Jeanne has taken refuge
+ - [https://www.reddit.com/r/movies/comments/1i6kyxi/first_image_of_marion_cotillard_in_lucile](https://www.reddit.com/r/movies/comments/1i6kyxi/first_image_of_marion_cotillard_in_lucile)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:22:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6kyxi/first_image_of_marion_cotillard_in_lucile/"> <img src="https://preview.redd.it/7dnyuts17dee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5179780aa285837f15c5125cb57c059111467490" alt="First Image of Marion Cotillard in Lucile Hadžihalilović's 'THE ICE TOWER' - the 1970s. Jeanne, a young runaway, falls under the spell of Cristina, the enigmatic star of The Snow Queen, a film which is being shot in the studio where Jeanne has taken refuge" title="First Image of Marion Cotillard in Lucile Hadžihalilović's 'THE ICE TOWER' - the 1970s. Jeanne, a young runaway, falls under the spell of Cristina, the enigmatic star of The Snow Queen, a film which is being shot in the studio where Jeanne has taken refuge" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mayukhdas1999"> /u/mayukhdas1999 </a> <br/> <span><a href="https://i.redd.it/7dnyuts17dee1.jpeg">[link]</a></span> &#32; <span><a 
+
+## New Image from Euro-spy thriller 'REFLECTION IN A DEAD DIAMOND' - A retired spy suspects his former adversaries have resurfaced when his intriguing neighbour vanishes | A film by Hélène Cattet & Bruno Forzani ('The Strange Color of Your Body’s Tears')
+ - [https://www.reddit.com/r/movies/comments/1i6krbt/new_image_from_eurospy_thriller_reflection_in_a](https://www.reddit.com/r/movies/comments/1i6krbt/new_image_from_eurospy_thriller_reflection_in_a)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:13:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6krbt/new_image_from_eurospy_thriller_reflection_in_a/"> <img src="https://preview.redd.it/8ztieppd3dee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c221cd1b9cf2207e8037c36a3f9e23a8b95ef54" alt="New Image from Euro-spy thriller 'REFLECTION IN A DEAD DIAMOND' - A retired spy suspects his former adversaries have resurfaced when his intriguing neighbour vanishes | A film by Hélène Cattet &amp; Bruno Forzani ('The Strange Color of Your Body’s Tears')" title="New Image from Euro-spy thriller 'REFLECTION IN A DEAD DIAMOND' - A retired spy suspects his former adversaries have resurfaced when his intriguing neighbour vanishes | A film by Hélène Cattet &amp; Bruno Forzani ('The Strange Color of Your Body’s Tears')" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mayukhdas1999"> /u/mayukhdas1999 </a> <br/> <span><a href="https://i.redd.it/8ztieppd3dee1.jpeg">[link]</a></span> &#32; <span
+
+## New Poster for Martin Campbell's 'Cleaner' Starring Daisy Ridley
+ - [https://www.reddit.com/r/movies/comments/1i6kldi/new_poster_for_martin_campbells_cleaner_starring](https://www.reddit.com/r/movies/comments/1i6kldi/new_poster_for_martin_campbells_cleaner_starring)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:05:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6kldi/new_poster_for_martin_campbells_cleaner_starring/"> <img src="https://preview.redd.it/tnggqo2x3dee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a6d90ba839e9e5e5bc07485f744173170e95400" alt="New Poster for Martin Campbell's 'Cleaner' Starring Daisy Ridley" title="New Poster for Martin Campbell's 'Cleaner' Starring Daisy Ridley" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://i.redd.it/tnggqo2x3dee1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6kldi/new_poster_for_martin_campbells_cleaner_starring/">[comments]</a></span> </td></tr></table>
+
+## Colman Domingo Joins Gus Van Sant’s Hostage Thriller ‘Dead Man’s Wire’
+ - [https://www.reddit.com/r/movies/comments/1i6kkxj/colman_domingo_joins_gus_van_sants_hostage](https://www.reddit.com/r/movies/comments/1i6kkxj/colman_domingo_joins_gus_van_sants_hostage)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:05:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6kkxj/colman_domingo_joins_gus_van_sants_hostage/"> <img src="https://external-preview.redd.it/gxpqAyU_RDT6xYr5l8TzB1L7ijSHplAmZ8b2KVt9L4M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=384be795f3a0ba737d4a1451b316364fc00cdac7" alt="Colman Domingo Joins Gus Van Sant’s Hostage Thriller ‘Dead Man’s Wire’" title="Colman Domingo Joins Gus Van Sant’s Hostage Thriller ‘Dead Man’s Wire’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DemiFiendRSA"> /u/DemiFiendRSA </a> <br/> <span><a href="https://deadline.com/2025/01/colman-domingo-joins-dead-mans-wire-sing-sing-interview-1236262134/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6kkxj/colman_domingo_joins_gus_van_sants_hostage/">[comments]</a></span> </td></tr></table>
+
+## David Lynch in The Fabelmans
+ - [https://www.reddit.com/r/movies/comments/1i6ki6s/david_lynch_in_the_fabelmans](https://www.reddit.com/r/movies/comments/1i6ki6s/david_lynch_in_the_fabelmans)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:01:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6ki6s/david_lynch_in_the_fabelmans/"> <img src="https://external-preview.redd.it/F2950LUEZ2NHQ1xN361OJyM7nmfHWXl9atJFKQ8Qwms.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=92a78c5ba4009f49368dfd61910cc16561d23863" alt="David Lynch in The Fabelmans" title="David Lynch in The Fabelmans" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DWJones28"> /u/DWJones28 </a> <br/> <span><a href="https://youtu.be/5mAyNNBOdns">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6ki6s/david_lynch_in_the_fabelmans/">[comments]</a></span> </td></tr></table>
+
+## OPUS | Official Trailer | A24
+ - [https://www.reddit.com/r/movies/comments/1i6j5sx/opus_official_trailer_a24](https://www.reddit.com/r/movies/comments/1i6j5sx/opus_official_trailer_a24)
+ - RSS feed: $source
+ - date published: 2025-01-21T13:59:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6j5sx/opus_official_trailer_a24/"> <img src="https://external-preview.redd.it/Av9mk778Av12xOPWvKOPmyGvSj0I1xIWw9BORWWsdOA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=010221ce2ddc4ff54967a32e2d7946fe46736cb0" alt="OPUS | Official Trailer | A24" title="OPUS | Official Trailer | A24" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://www.youtube.com/watch?v=5owo-kbx8X0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6j5sx/opus_official_trailer_a24/">[comments]</a></span> </td></tr></table>
+
+## Recently rewatched 'The Big Short' and I just still am amazed at Christian Bale's performance
+ - [https://www.reddit.com/r/movies/comments/1i6j49o/recently_rewatched_the_big_short_and_i_just_still](https://www.reddit.com/r/movies/comments/1i6j49o/recently_rewatched_the_big_short_and_i_just_still)
+ - RSS feed: $source
+ - date published: 2025-01-21T13:57:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6j49o/recently_rewatched_the_big_short_and_i_just_still/"> <img src="https://external-preview.redd.it/w4Fv3BnfhAqTmzBKAwxuB5D2jyqP28evsaKiJnjuIRk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3088bd58fd5d9f3f0d38e4706ad588935fa845ad" alt="Recently rewatched 'The Big Short' and I just still am amazed at Christian Bale's performance" title="Recently rewatched 'The Big Short' and I just still am amazed at Christian Bale's performance" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ArchDucky"> /u/ArchDucky </a> <br/> <span><a href="https://www.youtube.com/watch?v=-OzBI2r0Xb8">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6j49o/recently_rewatched_the_big_short_and_i_just_still/">[comments]</a></span> </td></tr></table>
+
+## Freddy Got Fingered in The National Film Registry
+ - [https://www.reddit.com/r/movies/comments/1i6h6x5/freddy_got_fingered_in_the_national_film_registry](https://www.reddit.com/r/movies/comments/1i6h6x5/freddy_got_fingered_in_the_national_film_registry)
+ - RSS feed: $source
+ - date published: 2025-01-21T12:10:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>Every year, 25 films are inducted into The National Film Registry. Films are added based on their cultural, artistic, or historical significance. These films are preserved in the Library of Congress. </p> <p>Voting is open to the public. </p> <p>This year, let&#39;s all help Freddy Got Fingered (2001) get inducted into the registry. Future generations deserve the opportunity to watch Tom Green’s surrealist magnum opus. </p> <p>Our children will thank us. </p> <p><a href="https://www.research.net/r/national-fim-registry-nomination-form">https://www.research.net/r/national-fim-registry-nomination-form</a> </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Vasquez1986"> /u/Vasquez1986 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1i6h6x5/freddy_got_fingered_in_the_national_film_registry/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6h6x5/freddy_got_fingered_i
+
+## First Image of Jessica Chastain in Michel Franco's "Dreams” - Chastain plays an heiress who falls in love with a young ballet dancer
+ - [https://www.reddit.com/r/movies/comments/1i6gkkr/first_image_of_jessica_chastain_in_michel_francos](https://www.reddit.com/r/movies/comments/1i6gkkr/first_image_of_jessica_chastain_in_michel_francos)
+ - RSS feed: $source
+ - date published: 2025-01-21T11:31:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6gkkr/first_image_of_jessica_chastain_in_michel_francos/"> <img src="https://preview.redd.it/7zzdbmpw1cee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9af01027ae4b445660e84d690e39b350b4f3797c" alt="First Image of Jessica Chastain in Michel Franco's &quot;Dreams” - Chastain plays an heiress who falls in love with a young ballet dancer" title="First Image of Jessica Chastain in Michel Franco's &quot;Dreams” - Chastain plays an heiress who falls in love with a young ballet dancer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KillerCroc1234567"> /u/KillerCroc1234567 </a> <br/> <span><a href="https://i.redd.it/7zzdbmpw1cee1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6gkkr/first_image_of_jessica_chastain_in_michel_francos/">[comments]</a></span> </td></tr></table>
+
+## First Image from Rebecca Lenkiewicz’s 'Hot Milk', starring Emma Mackey, Fiona Shaw, Vicky Krieps, and Vincent Perez. A mother and her daughter travel to Spain’s Almeria coast seeking a cure for a strange illness, but the journey leads the daughter to uncover a reality beyond her control
+ - [https://www.reddit.com/r/movies/comments/1i6gial/first_image_from_rebecca_lenkiewiczs_hot_milk](https://www.reddit.com/r/movies/comments/1i6gial/first_image_from_rebecca_lenkiewiczs_hot_milk)
+ - RSS feed: $source
+ - date published: 2025-01-21T11:27:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6gial/first_image_from_rebecca_lenkiewiczs_hot_milk/"> <img src="https://preview.redd.it/pbr35uz41cee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a6c2a6505dfdd9fa518f90740e5576facbf43d57" alt="First Image from Rebecca Lenkiewicz’s 'Hot Milk', starring Emma Mackey, Fiona Shaw, Vicky Krieps, and Vincent Perez. A mother and her daughter travel to Spain’s Almeria coast seeking a cure for a strange illness, but the journey leads the daughter to uncover a reality beyond her control " title="First Image from Rebecca Lenkiewicz’s 'Hot Milk', starring Emma Mackey, Fiona Shaw, Vicky Krieps, and Vincent Perez. A mother and her daughter travel to Spain’s Almeria coast seeking a cure for a strange illness, but the journey leads the daughter to uncover a reality beyond her control " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Task_Force-191"> /u/Task_Force-191 </a> <br/> <span><a href="h
+
+## ‘Stagtown’ Horror Film Adaptation Set at Wattpad Webtoon Studios, LuckyChap From Director Benjamin Brewer
+ - [https://www.reddit.com/r/movies/comments/1i6gd29/stagtown_horror_film_adaptation_set_at_wattpad](https://www.reddit.com/r/movies/comments/1i6gd29/stagtown_horror_film_adaptation_set_at_wattpad)
+ - RSS feed: $source
+ - date published: 2025-01-21T11:16:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6gd29/stagtown_horror_film_adaptation_set_at_wattpad/"> <img src="https://external-preview.redd.it/oEpPuPApxVcfRoicNVZNlc-KbON1znO3VUCLkswYzbM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=20130f37c78b56dda3ea9459ae411d822a1f56c7" alt="‘Stagtown’ Horror Film Adaptation Set at Wattpad Webtoon Studios, LuckyChap From Director Benjamin Brewer" title="‘Stagtown’ Horror Film Adaptation Set at Wattpad Webtoon Studios, LuckyChap From Director Benjamin Brewer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NoCulture3505"> /u/NoCulture3505 </a> <br/> <span><a href="https://variety.com/2025/film/news/stagtown-horror-movie-wattpad-webtoon-luckychap-1236269870/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6gd29/stagtown_horror_film_adaptation_set_at_wattpad/">[comments]</a></span> </td></tr></table>
+
+## What are some of your favorite movies that feature the extremely violent deaths of fascists?
+ - [https://www.reddit.com/r/movies/comments/1i6gcwy/what_are_some_of_your_favorite_movies_that](https://www.reddit.com/r/movies/comments/1i6gcwy/what_are_some_of_your_favorite_movies_that)
+ - RSS feed: $source
+ - date published: 2025-01-21T11:16:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>For some reason, I’m quite in the mood for this recently.</p> <p>Obviously Inglourious Basterds, Raiders of the Lost Ark, Captain America: The First Avenger, Sisu, The Eagle Has Landed, Kelly’s Heroes, The Dirty Dozen, Green Room, and the recent The Ministry of Ungentlemanly Warfare. </p> <p>Any other recommendations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/amanuensisninja"> /u/amanuensisninja </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1i6gcwy/what_are_some_of_your_favorite_movies_that/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6gcwy/what_are_some_of_your_favorite_movies_that/">[comments]</a></span>
+
+## First Image from Richard Linklater’s 'Blue Moon', starring Ethan Hawke, Margaret Qualley, Bobby Cannavale, and Andrew Scott. Set Primarily in Sardi’s Restaurant on March 31, 1943, the film explores Lorenz Hart’s struggles with alcoholism and mental health during the opening of "Oklahoma!"
+ - [https://www.reddit.com/r/movies/comments/1i6gak4/first_image_from_richard_linklaters_blue_moon](https://www.reddit.com/r/movies/comments/1i6gak4/first_image_from_richard_linklaters_blue_moon)
+ - RSS feed: $source
+ - date published: 2025-01-21T11:12:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6gak4/first_image_from_richard_linklaters_blue_moon/"> <img src="https://preview.redd.it/9t2hf90hybee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=473fdd96241b792e8935c4eb6ffed9f19e1db2eb" alt="First Image from Richard Linklater’s 'Blue Moon', starring Ethan Hawke, Margaret Qualley, Bobby Cannavale, and Andrew Scott. Set Primarily in Sardi’s Restaurant on March 31, 1943, the film explores Lorenz Hart’s struggles with alcoholism and mental health during the opening of &quot;Oklahoma!&quot;" title="First Image from Richard Linklater’s 'Blue Moon', starring Ethan Hawke, Margaret Qualley, Bobby Cannavale, and Andrew Scott. Set Primarily in Sardi’s Restaurant on March 31, 1943, the film explores Lorenz Hart’s struggles with alcoholism and mental health during the opening of &quot;Oklahoma!&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Task_Force-191"> /u/Task_Force-191 </a> 
+
+## Berlin Film Festival Lineup: Richard Linklater, Jessica Chastain, A$AP Rocky & Marion Cotillard Movies Among Vibrant Selection
+ - [https://www.reddit.com/r/movies/comments/1i6fz2s/berlin_film_festival_lineup_richard_linklater](https://www.reddit.com/r/movies/comments/1i6fz2s/berlin_film_festival_lineup_richard_linklater)
+ - RSS feed: $source
+ - date published: 2025-01-21T10:49:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6fz2s/berlin_film_festival_lineup_richard_linklater/"> <img src="https://external-preview.redd.it/8ejQfMY_wvI7lnaZ5e7v1l1YIXOcL9CfYiA7soxsUg4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0b07e5c9e82ea0294186107ec3d78b393b1c8db" alt="Berlin Film Festival Lineup: Richard Linklater, Jessica Chastain, A$AP Rocky &amp; Marion Cotillard Movies Among Vibrant Selection" title="Berlin Film Festival Lineup: Richard Linklater, Jessica Chastain, A$AP Rocky &amp; Marion Cotillard Movies Among Vibrant Selection" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KillerCroc1234567"> /u/KillerCroc1234567 </a> <br/> <span><a href="https://deadline.com/2025/01/berlin-film-festival-competition-line-up-2025-follow-live-1236262137/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6fz2s/berlin_film_festival_lineup_richard_linklater/">[comments]</a></span> </td></tr></tab
+
+## One of the most famous and now strangely relevant scenes of "Dr Strangelove"
+ - [https://www.reddit.com/r/movies/comments/1i6ew3x/one_of_the_most_famous_and_now_strangely_relevant](https://www.reddit.com/r/movies/comments/1i6ew3x/one_of_the_most_famous_and_now_strangely_relevant)
+ - RSS feed: $source
+ - date published: 2025-01-21T09:28:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i6ew3x/one_of_the_most_famous_and_now_strangely_relevant/"> <img src="https://external-preview.redd.it/NO2GMPdqUjov17EVhxamwD72tuZLM2zfCoCJTuSF9qQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f44f006114ff325be0bca93e3e1c92483949af28" alt="One of the most famous and now strangely relevant scenes of &quot;Dr Strangelove&quot;" title="One of the most famous and now strangely relevant scenes of &quot;Dr Strangelove&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Flugtbilist"> /u/Flugtbilist </a> <br/> <span><a href="https://www.youtube.com/watch?v=xzDghgVSGCw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6ew3x/one_of_the_most_famous_and_now_strangely_relevant/">[comments]</a></span> </td></tr></table>
+
+## Super good movies that don't show up in top lists?
+ - [https://www.reddit.com/r/movies/comments/1i6cqfo/super_good_movies_that_dont_show_up_in_top_lists](https://www.reddit.com/r/movies/comments/1i6cqfo/super_good_movies_that_dont_show_up_in_top_lists)
+ - RSS feed: $source
+ - date published: 2025-01-21T06:44:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Basically looking for movies that are a great watch, but didn&#39;t get super high ratings for whatever reason. And those type of movies your dad or something recommend that actually sucked you in more than you thought it would. I know it&#39;s very general, but that&#39;s what I want, thanks for any suggestions!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TumToes"> /u/TumToes </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1i6cqfo/super_good_movies_that_dont_show_up_in_top_lists/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6cqfo/super_good_movies_that_dont_show_up_in_top_lists/">[comments]</a></span>
+
+## Year of Nolan 2025
+ - [https://www.reddit.com/r/movies/comments/1i6bkvs/year_of_nolan_2025](https://www.reddit.com/r/movies/comments/1i6bkvs/year_of_nolan_2025)
+ - RSS feed: $source
+ - date published: 2025-01-21T05:30:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey Everyone</p> <p>Over on <a href="/r/ChristopherNolan">r/ChristopherNolan</a> and <a href="/r/Nolan">r/Nolan</a>, we’re going to be doing a rewatch of every Chris Nolan movie, one for each month! So feel free to join us over there each month for discussions, letterboxd reviews, and Mount Rushmore’s. And needless to say we’re all excited for the Odyssey. Hope to see everyone over there! </p> <p>January - Following</p> <p>February - Memento </p> <p>March - Insomnia </p> <p>April - Batman Begins </p> <p>May - The Prestige </p> <p>June - The Dark Knight </p> <p>July - Inception </p> <p>August - The Dark Knight Rises </p> <p>September - Interstellar </p> <p>October - Dunkirk </p> <p>November - Tenet </p> <p>December - Oppenheimer </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DivinesOmen"> /u/DivinesOmen </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1i6bkvs/year_of_nolan_2025/">[link]</a></s
+
+## Let's talk about "Children of Men"...
+ - [https://www.reddit.com/r/movies/comments/1i6avyg/lets_talk_about_children_of_men](https://www.reddit.com/r/movies/comments/1i6avyg/lets_talk_about_children_of_men)
+ - RSS feed: $source
+ - date published: 2025-01-21T04:49:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Seriously, how good was this movie? Twenty years later, it still holds up. Their depiction of 2027 didn&#39;t have flying cars or any crazy shit like that, in fact, it seems pretty spot on in terms of how the world actually looks from a technological standpoint. Less people glued to their phones, but perhaps the director was more optimistic than the movie let on.</p> <p>That said, the film certainly did have its own flavour. The shaky cam shots and tracking sequences were just as cool and engaging as the first time I&#39;d seen the movie 15 years ago and brought about a sense of realism. True to this theme, the characters were human through and through, flawed, likeable, and relatable.</p> <p>Clive Owen is a cynical alcoholic with a sad past, but as we see, is incapable of being anything short of a good man. His pot head friend in Michael Caine is similar in this regard. Serving both as comedic relief and the voice of reason despite being a stoner wh
+
+## Billy Wilder Essentials?
+ - [https://www.reddit.com/r/movies/comments/1i6ahg5/billy_wilder_essentials](https://www.reddit.com/r/movies/comments/1i6ahg5/billy_wilder_essentials)
+ - RSS feed: $source
+ - date published: 2025-01-21T04:26:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>I saw the apartment for the first time recently and absolutely loved it. Was not familiar with Billy Wilder before but it has got me wanting to see more of his movies. From a brief look into what appears most notable, I&#39;ve got Sunset Boulevard, Some Like it Hot, and Double Indemnity on my list. Anything else I should add?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jondev1"> /u/Jondev1 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1i6ahg5/billy_wilder_essentials/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i6ahg5/billy_wilder_essentials/">[comments]</a></span>
+
+## A question about Furiosa: A Mad Max Saga
+ - [https://www.reddit.com/r/movies/comments/1i66c6u/a_question_about_furiosa_a_mad_max_saga](https://www.reddit.com/r/movies/comments/1i66c6u/a_question_about_furiosa_a_mad_max_saga)
+ - RSS feed: $source
+ - date published: 2025-01-21T00:53:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know that there is often a bit of additional detail that gets generated surrounding the larger Mad Max universe that exists outside of just the movies themselves. Does anyone know if it’s ever explained how Dementus’s manages to keep an entire biker horde running without a clear source of guzzaline? While guzzaline is fairly common at the Citadel thanks to the proximity of gas town, Dementus and his horde appear to be unfamiliar with the existan e of either until they meet the war boy in the wasteland. </p> <p>Just wondering if this is covered anywhere? It’s bugged me since watching the movie. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/racerx2oo3"> /u/racerx2oo3 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1i66c6u/a_question_about_furiosa_a_mad_max_saga/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i66c6u/a_question_about_furiosa_a_mad_max_saga/"
+
+## First Image for Dark-Comedy Thriller 'No Other Choice' - Directed by Park Chan-wook ('Oldboy', 'The Handmaiden', 'Decision to Leave') - After being unemployed for several years, a man devises a unique plan to secure a new job: eliminate his competition.
+ - [https://www.reddit.com/r/movies/comments/1i65nb5/first_image_for_darkcomedy_thriller_no_other](https://www.reddit.com/r/movies/comments/1i65nb5/first_image_for_darkcomedy_thriller_no_other)
+ - RSS feed: $source
+ - date published: 2025-01-21T00:21:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1i65nb5/first_image_for_darkcomedy_thriller_no_other/"> <img src="https://preview.redd.it/2ymvwa34q8ee1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=5b6f1d7f3950ab639edcbd4ff8bf8f0ac0b2c3b4" alt="First Image for Dark-Comedy Thriller 'No Other Choice' - Directed by Park Chan-wook ('Oldboy', 'The Handmaiden', 'Decision to Leave') - After being unemployed for several years, a man devises a unique plan to secure a new job: eliminate his competition." title="First Image for Dark-Comedy Thriller 'No Other Choice' - Directed by Park Chan-wook ('Oldboy', 'The Handmaiden', 'Decision to Leave') - After being unemployed for several years, a man devises a unique plan to secure a new job: eliminate his competition." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BunyipPouch"> /u/BunyipPouch </a> <br/> <span><a href="https://i.redd.it/2ymvwa34q8ee1.png">[link]</a></span> &#32; <span><a href="htt
+

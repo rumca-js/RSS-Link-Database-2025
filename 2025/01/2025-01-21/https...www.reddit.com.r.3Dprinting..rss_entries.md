@@ -1,0 +1,191 @@
+# Source:Welcome to R/3D Printing! Come for the Benchy, stay for the Calibration!, URL:https://www.reddit.com/r/3Dprinting/.rss, language:en
+
+## 4 Day Print
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6ud9s/4_day_print](https://www.reddit.com/r/3Dprinting/comments/1i6ud9s/4_day_print)
+ - RSS feed: $source
+ - date published: 2025-01-21T21:49:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6ud9s/4_day_print/"> <img src="https://external-preview.redd.it/YWVzanFxMjY0ZmVlMaVgtMZeGG1z4xU040bl5igRwAggogiMVoQXmszI6pry.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=85b455b96dbfca3af0098aa48e89b82ab4f54828" alt="4 Day Print" title="4 Day Print" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nonnapasta"> /u/nonnapasta </a> <br/> <span><a href="https://v.redd.it/5utb4xq64fee1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6ud9s/4_day_print/">[comments]</a></span> </td></tr></table>
+
+## I am blown away with how easy it is to go from ChatGPT to OpenSCAD to an STL.
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6r01w/i_am_blown_away_with_how_easy_it_is_to_go_from](https://www.reddit.com/r/3Dprinting/comments/1i6r01w/i_am_blown_away_with_how_easy_it_is_to_go_from)
+ - RSS feed: $source
+ - date published: 2025-01-21T19:31:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6r01w/i_am_blown_away_with_how_easy_it_is_to_go_from/"> <img src="https://b.thumbs.redditmedia.com/jx202U1ySgNyWR5CPnOu50lUiAzGyqy6RZJTNmXcqWo.jpg" alt="I am blown away with how easy it is to go from ChatGPT to OpenSCAD to an STL. " title="I am blown away with how easy it is to go from ChatGPT to OpenSCAD to an STL. " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I needed a quick baby bottle caddy so they stopped tipping over in our cooler bag. I input the parameters into ChatGPT and it spits me out the code for the model. Then did an export to STL and opened in Bambu studio. Took under 10 minutes. (Print will take 4 hours though) Wow.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hanumanCT"> /u/hanumanCT </a> <br/> <span><a href="https://www.reddit.com/gallery/1i6r01w">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6r01w/i_am_
+
+## Never to be bettered??
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6q9xm/never_to_be_bettered](https://www.reddit.com/r/3Dprinting/comments/1i6q9xm/never_to_be_bettered)
+ - RSS feed: $source
+ - date published: 2025-01-21T19:01:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6q9xm/never_to_be_bettered/"> <img src="https://preview.redd.it/s88ug2yi9eee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e378277de009e65b5fa42e5ccd614d2888f95d8" alt="Never to be bettered??" title="Never to be bettered??" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Necessary_Button8676"> /u/Necessary_Button8676 </a> <br/> <span><a href="https://i.redd.it/s88ug2yi9eee1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6q9xm/never_to_be_bettered/">[comments]</a></span> </td></tr></table>
+
+## One piece at a time, I am making a full plate armor set. I just finished this fully articulated 16th century gorget to go alongside my pauldrons!
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6q88a/one_piece_at_a_time_i_am_making_a_full_plate](https://www.reddit.com/r/3Dprinting/comments/1i6q88a/one_piece_at_a_time_i_am_making_a_full_plate)
+ - RSS feed: $source
+ - date published: 2025-01-21T19:00:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6q88a/one_piece_at_a_time_i_am_making_a_full_plate/"> <img src="https://external-preview.redd.it/bnI1d3ZpMXo5ZWVlMdv-BvIIL1bVkVp61HYOMJi7aCz4zv7A0zMEtYP0dnsv.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a12173b5643990df21f95d4b5affcb5e7fd17cd" alt="One piece at a time, I am making a full plate armor set. I just finished this fully articulated 16th century gorget to go alongside my pauldrons!" title="One piece at a time, I am making a full plate armor set. I just finished this fully articulated 16th century gorget to go alongside my pauldrons!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Vonschlippe"> /u/Vonschlippe </a> <br/> <span><a href="https://v.redd.it/lx5zwmll9eee1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6q88a/one_piece_at_a_time_i_am_making_a_full_plate/">[comments]</a></span> </td></tr></table>
+
+## Fully designed and 3d printed figure
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6pbty/fully_designed_and_3d_printed_figure](https://www.reddit.com/r/3Dprinting/comments/1i6pbty/fully_designed_and_3d_printed_figure)
+ - RSS feed: $source
+ - date published: 2025-01-21T18:23:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6pbty/fully_designed_and_3d_printed_figure/"> <img src="https://preview.redd.it/wgy9zt2h3eee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e717ee91de9b07522aeb338db7bd7de83b24a696" alt="Fully designed and 3d printed figure" title="Fully designed and 3d printed figure" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Took me couple months but i finally designed and printed my first action figure! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Super_Ad_3413"> /u/Super_Ad_3413 </a> <br/> <span><a href="https://i.redd.it/wgy9zt2h3eee1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6pbty/fully_designed_and_3d_printed_figure/">[comments]</a></span> </td></tr></table>
+
+## My first time designing a mechanical sculpture...I'm really pleased with the results
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6pans/my_first_time_designing_a_mechanical_sculptureim](https://www.reddit.com/r/3Dprinting/comments/1i6pans/my_first_time_designing_a_mechanical_sculptureim)
+ - RSS feed: $source
+ - date published: 2025-01-21T18:22:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6pans/my_first_time_designing_a_mechanical_sculptureim/"> <img src="https://external-preview.redd.it/NTY1enFqcTczZWVlMcrAAB-IYaKx64eqU7VHKNY6d8K6tah8u5Cq9F8oT8O5.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce810b2b40a591ceb8723abbcd1176177a527761" alt="My first time designing a mechanical sculpture...I'm really pleased with the results" title="My first time designing a mechanical sculpture...I'm really pleased with the results" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Xrontos"> /u/Xrontos </a> <br/> <span><a href="https://v.redd.it/q8evxjq73eee1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6pans/my_first_time_designing_a_mechanical_sculptureim/">[comments]</a></span> </td></tr></table>
+
+## Paid less than $100 for both printers
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6nmij/paid_less_than_100_for_both_printers](https://www.reddit.com/r/3Dprinting/comments/1i6nmij/paid_less_than_100_for_both_printers)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:15:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6nmij/paid_less_than_100_for_both_printers/"> <img src="https://preview.redd.it/cjegjde7rdee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=00e3dc51ae82a1eb3d4d1526e320b9af57f433f4" alt="Paid less than $100 for both printers " title="Paid less than $100 for both printers " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Bought an Ultimaker 2+ Extended and Formlabs Form 2 used for under $100 as not working. Few hours and some soldering and cleaning later I repaired them and working great! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/conoti"> /u/conoti </a> <br/> <span><a href="https://i.redd.it/cjegjde7rdee1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6nmij/paid_less_than_100_for_both_printers/">[comments]</a></span> </td></tr></table>
+
+## Just throwing out there for some setup love
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6n9ew/just_throwing_out_there_for_some_setup_love](https://www.reddit.com/r/3Dprinting/comments/1i6n9ew/just_throwing_out_there_for_some_setup_love)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:00:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6n9ew/just_throwing_out_there_for_some_setup_love/"> <img src="https://preview.redd.it/6jl6ev8jodee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4fbe622921fc55cee9c2ff540c0cc82d9a509d40" alt="Just throwing out there for some setup love" title="Just throwing out there for some setup love" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I feel like we never see enough setup love. so here is mine let’s see those beautiful machines. This is my print “farm” We have two x1c one with the 4 AMS color fun, other just a single AMS. And then my trusty Adventurer 5M Pro.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ChaosMSI"> /u/ChaosMSI </a> <br/> <span><a href="https://i.redd.it/6jl6ev8jodee1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6n9ew/just_throwing_out_there_for_some_setup_love/">[comments]</a></span> </td></tr></tab
+
+## Cursed Boaty 2.0
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6n4gx/cursed_boaty_20](https://www.reddit.com/r/3Dprinting/comments/1i6n4gx/cursed_boaty_20)
+ - RSS feed: $source
+ - date published: 2025-01-21T16:54:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6n4gx/cursed_boaty_20/"> <img src="https://preview.redd.it/kbtmfxhfndee1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=961f534a2f9bc1a43545fe16dd025aa3a7636ef0" alt="Cursed Boaty 2.0" title="Cursed Boaty 2.0" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Chainmail_Weaves"> /u/Chainmail_Weaves </a> <br/> <span><a href="https://i.redd.it/kbtmfxhfndee1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6n4gx/cursed_boaty_20/">[comments]</a></span> </td></tr></table>
+
+## I created a wallet by using the concept of bending parts mid print. It's possible to print the whole wallet at once due to a combiation of TPU, PETG and PLA with only one extruder and without MMU / AMS.
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6l8kt/i_created_a_wallet_by_using_the_concept_of](https://www.reddit.com/r/3Dprinting/comments/1i6l8kt/i_created_a_wallet_by_using_the_concept_of)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:34:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6l8kt/i_created_a_wallet_by_using_the_concept_of/"> <img src="https://b.thumbs.redditmedia.com/VDpOkAtXrG8knCSKwwgqfflSwkDrbWZCdxSWazEgMts.jpg" alt="I created a wallet by using the concept of bending parts mid print. It's possible to print the whole wallet at once due to a combiation of TPU, PETG and PLA with only one extruder and without MMU / AMS." title="I created a wallet by using the concept of bending parts mid print. It's possible to print the whole wallet at once due to a combiation of TPU, PETG and PLA with only one extruder and without MMU / AMS." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Burrroo"> /u/Burrroo </a> <br/> <span><a href="https://www.reddit.com/gallery/1i6l8kt">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6l8kt/i_created_a_wallet_by_using_the_concept_of/">[comments]</a></span> </td></tr></table>
+
+## Tested various infill reinforcements using a fiber laser to insert metal frames into prints, here are the results - Placing metal frame mid print improved strength of part by 200%
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6ku3r/tested_various_infill_reinforcements_using_a](https://www.reddit.com/r/3Dprinting/comments/1i6ku3r/tested_various_infill_reinforcements_using_a)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:16:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6ku3r/tested_various_infill_reinforcements_using_a/"> <img src="https://b.thumbs.redditmedia.com/NME1BAfwfgAxxh44Y50thoWPiLD6YML7WE_iYAN9ZhY.jpg" alt="Tested various infill reinforcements using a fiber laser to insert metal frames into prints, here are the results - Placing metal frame mid print improved strength of part by 200%" title="Tested various infill reinforcements using a fiber laser to insert metal frames into prints, here are the results - Placing metal frame mid print improved strength of part by 200%" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thisdesignthat"> /u/thisdesignthat </a> <br/> <span><a href="https://www.reddit.com/gallery/1i6ku3r">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6ku3r/tested_various_infill_reinforcements_using_a/">[comments]</a></span> </td></tr></table>
+
+## Bought my First Printer 2 months ago and already spent 1500€ on this Hobby💀
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6kfxe/bought_my_first_printer_2_months_ago_and_already](https://www.reddit.com/r/3Dprinting/comments/1i6kfxe/bought_my_first_printer_2_months_ago_and_already)
+ - RSS feed: $source
+ - date published: 2025-01-21T14:59:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6kfxe/bought_my_first_printer_2_months_ago_and_already/"> <img src="https://b.thumbs.redditmedia.com/2GxAWcFbJV8wWyCk_8VSc0y0-LgfBPoDEa0IrucabTE.jpg" alt="Bought my First Printer 2 months ago and already spent 1500€ on this Hobby💀" title="Bought my First Printer 2 months ago and already spent 1500€ on this Hobby💀" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Started 2 months ago with an Neptun 4 Pro that i bought from a friend for 150€. In nowember i bought an A1 + AMS Lite. </p> <p>I dont regret anything!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ghostbuster050"> /u/Ghostbuster050 </a> <br/> <span><a href="https://www.reddit.com/gallery/1i6kfxe">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6kfxe/bought_my_first_printer_2_months_ago_and_already/">[comments]</a></span> </td></tr></table>
+
+## Life sized Eevee
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6ib0v/life_sized_eevee](https://www.reddit.com/r/3Dprinting/comments/1i6ib0v/life_sized_eevee)
+ - RSS feed: $source
+ - date published: 2025-01-21T13:14:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6ib0v/life_sized_eevee/"> <img src="https://preview.redd.it/6apj0b9akcee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d796fab755f2bc761914d84d37fd08cc5a40ee2" alt="Life sized Eevee" title="Life sized Eevee" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Plazma_Wolf"> /u/Plazma_Wolf </a> <br/> <span><a href="https://i.redd.it/6apj0b9akcee1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6ib0v/life_sized_eevee/">[comments]</a></span> </td></tr></table>
+
+## Everyone's memeing but where's the alternative?
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6hllo/everyones_memeing_but_wheres_the_alternative](https://www.reddit.com/r/3Dprinting/comments/1i6hllo/everyones_memeing_but_wheres_the_alternative)
+ - RSS feed: $source
+ - date published: 2025-01-21T12:35:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6hllo/everyones_memeing_but_wheres_the_alternative/"> <img src="https://preview.redd.it/4nqfvwrcdcee1.gif?width=320&amp;crop=smart&amp;s=7b4c16c5bb1931ea3be6e761fd3c12a59eb66de4" alt="Everyone's memeing but where's the alternative?" title="Everyone's memeing but where's the alternative?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Riconnite"> /u/Riconnite </a> <br/> <span><a href="https://i.redd.it/4nqfvwrcdcee1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6hllo/everyones_memeing_but_wheres_the_alternative/">[comments]</a></span> </td></tr></table>
+
+## I printed a bunch and hid them all around the house for my wife to find over the couple of weeks🤪
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6gv4t/i_printed_a_bunch_and_hid_them_all_around_the](https://www.reddit.com/r/3Dprinting/comments/1i6gv4t/i_printed_a_bunch_and_hid_them_all_around_the)
+ - RSS feed: $source
+ - date published: 2025-01-21T11:50:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6gv4t/i_printed_a_bunch_and_hid_them_all_around_the/"> <img src="https://preview.redd.it/2uzdt28d5cee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ded486ce954542664223d707222372a90334ec03" alt="I printed a bunch and hid them all around the house for my wife to find over the couple of weeks🤪" title="I printed a bunch and hid them all around the house for my wife to find over the couple of weeks🤪" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I’m surprised how well a 0.4 nozzle could handle the details…</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/etienne_2"> /u/etienne_2 </a> <br/> <span><a href="https://i.redd.it/2uzdt28d5cee1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6gv4t/i_printed_a_bunch_and_hid_them_all_around_the/">[comments]</a></span> </td></tr></table>
+
+## 10 Hour print I left alone, that was close..
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6g5ws/10_hour_print_i_left_alone_that_was_close](https://www.reddit.com/r/3Dprinting/comments/1i6g5ws/10_hour_print_i_left_alone_that_was_close)
+ - RSS feed: $source
+ - date published: 2025-01-21T11:03:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6g5ws/10_hour_print_i_left_alone_that_was_close/"> <img src="https://preview.redd.it/mtuz95rtwbee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a25f069314af1c4c9bb93ddcb98298173ac8d63f" alt="10 Hour print I left alone, that was close.. " title="10 Hour print I left alone, that was close.. " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Yes, I am indeed one of the chosen ones who has a reliable creality printer that I trust to be left alone with a 10 hour print, don&#39;t even start with trashing my poor printer lmao 🤣 </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheRizzWizard"> /u/TheRizzWizard </a> <br/> <span><a href="https://i.redd.it/mtuz95rtwbee1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6g5ws/10_hour_print_i_left_alone_that_was_close/">[comments]</a></span> </td></tr></table>
+
+## I love 3d printing.
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6etnw/i_love_3d_printing](https://www.reddit.com/r/3Dprinting/comments/1i6etnw/i_love_3d_printing)
+ - RSS feed: $source
+ - date published: 2025-01-21T09:23:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6etnw/i_love_3d_printing/"> <img src="https://b.thumbs.redditmedia.com/YB8b0lffx68j1lkPy8WFOrv4MrUzw0OV1vrq-391VbM.jpg" alt="I love 3d printing. " title="I love 3d printing. " /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I got my first printer last November and I love it so far. My CAD skills are getting better and better and now I finished my first little project that I published. It&#39;s the little things that makes my life better.</p> <p>I know it&#39;s only a bottle holder for the fridge but it&#39;s awesome that I can make this at home for my fridge. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ri27Ma"> /u/Ri27Ma </a> <br/> <span><a href="https://www.reddit.com/gallery/1i6etnw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6etnw/i_love_3d_printing/">[comments]</a></span> </td></tr></table>
+
+## What free cad software is most similar to fusion 360
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6d8x3/what_free_cad_software_is_most_similar_to_fusion](https://www.reddit.com/r/3Dprinting/comments/1i6d8x3/what_free_cad_software_is_most_similar_to_fusion)
+ - RSS feed: $source
+ - date published: 2025-01-21T07:22:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>I already know how to model decently on fusion 360 but I no longer have access to it and I can&#39;t justify paying for it either because this is just a hobby to me but I really don&#39;t want to learn a whole new software, so are there any free alternatives to it </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Glittering_Iron_9185"> /u/Glittering_Iron_9185 </a> <br/> <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6d8x3/what_free_cad_software_is_most_similar_to_fusion/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6d8x3/what_free_cad_software_is_most_similar_to_fusion/">[comments]</a></span>
+
+## I risked alienation and abandonment from all my friends and family by printing these, knob-backlight "dimmers" for my new stove.
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6d0s7/i_risked_alienation_and_abandonment_from_all_my](https://www.reddit.com/r/3Dprinting/comments/1i6d0s7/i_risked_alienation_and_abandonment_from_all_my)
+ - RSS feed: $source
+ - date published: 2025-01-21T07:04:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6d0s7/i_risked_alienation_and_abandonment_from_all_my/"> <img src="https://b.thumbs.redditmedia.com/u5n4VXF7jIKv-i9GUGJOJGs8xuckP6YHR5cBaqeb54g.jpg" alt="I risked alienation and abandonment from all my friends and family by printing these, knob-backlight &quot;dimmers&quot; for my new stove." title="I risked alienation and abandonment from all my friends and family by printing these, knob-backlight &quot;dimmers&quot; for my new stove." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Justinsetchell"> /u/Justinsetchell </a> <br/> <span><a href="https://www.reddit.com/gallery/1i6d0s7">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6d0s7/i_risked_alienation_and_abandonment_from_all_my/">[comments]</a></span> </td></tr></table>
+
+## Flashforge cloud was hacked
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6cb9s/flashforge_cloud_was_hacked](https://www.reddit.com/r/3Dprinting/comments/1i6cb9s/flashforge_cloud_was_hacked)
+ - RSS feed: $source
+ - date published: 2025-01-21T06:16:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6cb9s/flashforge_cloud_was_hacked/"> <img src="https://preview.redd.it/9jccqjqnhaee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=56efc9995140cbf5dd7fd34a38b387825e4d44c3" alt="Flashforge cloud was hacked" title="Flashforge cloud was hacked" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Many_Ad_3159"> /u/Many_Ad_3159 </a> <br/> <span><a href="https://i.redd.it/9jccqjqnhaee1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6cb9s/flashforge_cloud_was_hacked/">[comments]</a></span> </td></tr></table>
+
+## It never was
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6ael2/it_never_was](https://www.reddit.com/r/3Dprinting/comments/1i6ael2/it_never_was)
+ - RSS feed: $source
+ - date published: 2025-01-21T04:21:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6ael2/it_never_was/"> <img src="https://preview.redd.it/s5tsqp78x9ee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2eb50af696f1ac3c6adad44bc567efd8bb1a6597" alt="It never was" title="It never was" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/omphteliba"> /u/omphteliba </a> <br/> <span><a href="https://i.redd.it/s5tsqp78x9ee1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6ael2/it_never_was/">[comments]</a></span> </td></tr></table>
+
+## LOL, Bambu changed their website to backpedal the whole mess from yesterday. Louis explains that they deleted and reworded a lot of stuff on their website.
+ - [https://www.reddit.com/r/3Dprinting/comments/1i69nda/lol_bambu_changed_their_website_to_backpedal_the](https://www.reddit.com/r/3Dprinting/comments/1i69nda/lol_bambu_changed_their_website_to_backpedal_the)
+ - RSS feed: $source
+ - date published: 2025-01-21T03:40:47+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.youtube.com/watch?v=W6MybDJfmmY">https://www.youtube.com/watch?v=W6MybDJfmmY</a><br/> Just like the title states:</p> <p>LOL, Bambu changed their website to backpedal the whole mess from yesterday. Louis explains that they deleted and reworded a lot of stuff on their website.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FriJanmKrapo"> /u/FriJanmKrapo </a> <br/> <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i69nda/lol_bambu_changed_their_website_to_backpedal_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i69nda/lol_bambu_changed_their_website_to_backpedal_the/">[comments]</a></span>
+
+## Am I crazy for making a mega roll of scrap filament?
+ - [https://www.reddit.com/r/3Dprinting/comments/1i69fug/am_i_crazy_for_making_a_mega_roll_of_scrap](https://www.reddit.com/r/3Dprinting/comments/1i69fug/am_i_crazy_for_making_a_mega_roll_of_scrap)
+ - RSS feed: $source
+ - date published: 2025-01-21T03:29:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i69fug/am_i_crazy_for_making_a_mega_roll_of_scrap/"> <img src="https://b.thumbs.redditmedia.com/jcDZoHUTsEwUlFm0iXsBVUkdH6RWD1un8W8Gz2hcMCg.jpg" alt="Am I crazy for making a mega roll of scrap filament?" title="Am I crazy for making a mega roll of scrap filament?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So, I had a ton of little filament scraps laying around and figured I’d give the SUNLU Filament Connector a shot to fuse them into one big mega roll. <a href="https://amzn.to/4h3Cb5H">https://amzn.to/4h3Cb5H</a></p> <p>This thing heats up fast and gets the job done pretty quickly. It melts the filament together just like it’s supposed to, and I was able to use that mega roll to print things that I don&#39;t care what color they are like storage bins.</p> <p>It’s small and pretty easy to use overall, but there’s one small thing to watch out for. Holding both ends in place while keeping them in the hot e
+
+## Bambu's Gaslighting Masterclass: Denying their own documented restrictions
+ - [https://www.reddit.com/r/3Dprinting/comments/1i69ffl/bambus_gaslighting_masterclass_denying_their_own](https://www.reddit.com/r/3Dprinting/comments/1i69ffl/bambus_gaslighting_masterclass_denying_their_own)
+ - RSS feed: $source
+ - date published: 2025-01-21T03:29:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i69ffl/bambus_gaslighting_masterclass_denying_their_own/"> <img src="https://external-preview.redd.it/mWfsnlAbrqCdm9y5nq5oo7pG2HXpWl9gP1eo3_oUjNU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=32d4b247067cf96f017405b9ab39c3d53fc613ac" alt="Bambu's Gaslighting Masterclass: Denying their own documented restrictions" title="Bambu's Gaslighting Masterclass: Denying their own documented restrictions" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/diligentboredom"> /u/diligentboredom </a> <br/> <span><a href="https://youtu.be/W6MybDJfmmY">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i69ffl/bambus_gaslighting_masterclass_denying_their_own/">[comments]</a></span> </td></tr></table>
+
+## Planters are my favorite thing to make
+ - [https://www.reddit.com/r/3Dprinting/comments/1i6984z/planters_are_my_favorite_thing_to_make](https://www.reddit.com/r/3Dprinting/comments/1i6984z/planters_are_my_favorite_thing_to_make)
+ - RSS feed: $source
+ - date published: 2025-01-21T03:18:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/3Dprinting/comments/1i6984z/planters_are_my_favorite_thing_to_make/"> <img src="https://preview.redd.it/smgxi1aml9ee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9eb71a88b2287ac472624a24278a8610b1f2825" alt="Planters are my favorite thing to make" title="Planters are my favorite thing to make" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Albuyeh"> /u/Albuyeh </a> <br/> <span><a href="https://i.redd.it/smgxi1aml9ee1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i6984z/planters_are_my_favorite_thing_to_make/">[comments]</a></span> </td></tr></table>
+
+## So bambu is straight up denying you customer support if you choose to use your printer the same way you use it today
+ - [https://www.reddit.com/r/3Dprinting/comments/1i688iq/so_bambu_is_straight_up_denying_you_customer](https://www.reddit.com/r/3Dprinting/comments/1i688iq/so_bambu_is_straight_up_denying_you_customer)
+ - RSS feed: $source
+ - date published: 2025-01-21T02:27:27+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Acio45"> /u/Acio45 </a> <br/> <span><a href="https://www.reddit.com/r/BambuLab/comments/1i683w9/so_bambu_is_straight_up_denying_you_customer/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i688iq/so_bambu_is_straight_up_denying_you_customer/">[comments]</a></span>
+
+## He has arrived.
+ - [https://www.reddit.com/r/3Dprinting/comments/1i65zce/he_has_arrived](https://www.reddit.com/r/3Dprinting/comments/1i65zce/he_has_arrived)
+ - RSS feed: $source
+ - date published: 2025-01-21T00:36:41+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ChipSalt"> /u/ChipSalt </a> <br/> <span><a href="https://i.redd.it/yipmd6e0t8ee1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/3Dprinting/comments/1i65zce/he_has_arrived/">[comments]</a></span>
+

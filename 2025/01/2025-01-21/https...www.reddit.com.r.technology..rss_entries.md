@@ -1,0 +1,254 @@
+# Source:/r/Technology, URL:https://www.reddit.com/r/technology/.rss, language:en
+
+## Apple Deadnamed the Gulf of America and Conservatives Are Triggered | Tech companies aren’t moving fast enough for America’s most sensitive politicians.
+ - [https://www.reddit.com/r/technology/comments/1i6uzhz/apple_deadnamed_the_gulf_of_america_and](https://www.reddit.com/r/technology/comments/1i6uzhz/apple_deadnamed_the_gulf_of_america_and)
+ - RSS feed: $source
+ - date published: 2025-01-21T22:15:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6uzhz/apple_deadnamed_the_gulf_of_america_and/"> <img src="https://external-preview.redd.it/cLZvNEVe1toOlqnjWjKHovpifCW7Xmf83uoL3hxPHOc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7287fedef66283dae4405bb4fd4c306227b2fba9" alt="Apple Deadnamed the Gulf of America and Conservatives Are Triggered | Tech companies aren’t moving fast enough for America’s most sensitive politicians." title="Apple Deadnamed the Gulf of America and Conservatives Are Triggered | Tech companies aren’t moving fast enough for America’s most sensitive politicians." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://gizmodo.com/apple-deadnamed-the-gulf-of-america-and-conservatives-are-triggered-2000552966">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6uzhz/apple_deadnamed_the_gulf_of_america_and/">[comments]</a
+
+## Netflix is raising prices again, as the standard plan goes up to $17.99
+ - [https://www.reddit.com/r/technology/comments/1i6u39u/netflix_is_raising_prices_again_as_the_standard](https://www.reddit.com/r/technology/comments/1i6u39u/netflix_is_raising_prices_again_as_the_standard)
+ - RSS feed: $source
+ - date published: 2025-01-21T21:38:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6u39u/netflix_is_raising_prices_again_as_the_standard/"> <img src="https://external-preview.redd.it/VqNzSplhg4V3FN0cwRv5x4B66kh0cGPWWx19XYdG2yU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d8199afe0758d58bf9342ff0b4c604e2649c91d" alt="Netflix is raising prices again, as the standard plan goes up to $17.99" title="Netflix is raising prices again, as the standard plan goes up to $17.99" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://www.theverge.com/2025/1/21/24348682/netflix-price-increase-earnings-q4-2024">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6u39u/netflix_is_raising_prices_again_as_the_standard/">[comments]</a></span> </td></tr></table>
+
+## ‘Missing’ constitution on White House site sparks debate on social media
+ - [https://www.reddit.com/r/technology/comments/1i6u1zm/missing_constitution_on_white_house_site_sparks](https://www.reddit.com/r/technology/comments/1i6u1zm/missing_constitution_on_white_house_site_sparks)
+ - RSS feed: $source
+ - date published: 2025-01-21T21:36:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6u1zm/missing_constitution_on_white_house_site_sparks/"> <img src="https://external-preview.redd.it/BAHFy2lqnozEtF0VwHREsfnI7746aZQV4PJapBdRXkQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=33c53d0552e506b5166f5543481248648632b599" alt="‘Missing’ constitution on White House site sparks debate on social media" title="‘Missing’ constitution on White House site sparks debate on social media" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kindly_Extent7052"> /u/Kindly_Extent7052 </a> <br/> <span><a href="https://www.hindustantimes.com/world-news/us-news/missing-constitution-on-white-house-site-sparks-debate-on-social-media-101737488660042.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6u1zm/missing_constitution_on_white_house_site_sparks/">[comments]</a></span> </td></tr></table>
+
+## White House removes Constitution, LGBTQ+ & HIV resources & Spanish language version from site
+ - [https://www.reddit.com/r/technology/comments/1i6rvpf/white_house_removes_constitution_lgbtq_hiv](https://www.reddit.com/r/technology/comments/1i6rvpf/white_house_removes_constitution_lgbtq_hiv)
+ - RSS feed: $source
+ - date published: 2025-01-21T20:07:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6rvpf/white_house_removes_constitution_lgbtq_hiv/"> <img src="https://external-preview.redd.it/_5rGEZafAgWh89D5Vn6Qp_ZuTQT6qiqEPio0c4xwtyA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28fcd773bea038a7383579d49a7407b24c831330" alt="White House removes Constitution, LGBTQ+ &amp; HIV resources &amp; Spanish language version from site" title="White House removes Constitution, LGBTQ+ &amp; HIV resources &amp; Spanish language version from site" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MothersMiIk"> /u/MothersMiIk </a> <br/> <span><a href="https://www.pride.com/gay-news/white-house-website-removes-constitution">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6rvpf/white_house_removes_constitution_lgbtq_hiv/">[comments]</a></span> </td></tr></table>
+
+## 'GO HOME' — White House removes Spanish language from website
+ - [https://www.reddit.com/r/technology/comments/1i6rvcf/go_home_white_house_removes_spanish_language_from](https://www.reddit.com/r/technology/comments/1i6rvcf/go_home_white_house_removes_spanish_language_from)
+ - RSS feed: $source
+ - date published: 2025-01-21T20:06:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6rvcf/go_home_white_house_removes_spanish_language_from/"> <img src="https://external-preview.redd.it/OpOl98663EPuynEkeqzpF9xh723zD7UHLfF8gk0jPTU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e5139298593bd8e5d6feda3cd5b9c36407759e3" alt="'GO HOME' — White House removes Spanish language from website" title="'GO HOME' — White House removes Spanish language from website" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/esporx"> /u/esporx </a> <br/> <span><a href="https://www.local3news.com/regional-national/go-home-white-house-removes-spanish-language-from-website/article_0efe01bc-d7fd-11ef-b30e-2fdb0dc1e66d.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6rvcf/go_home_white_house_removes_spanish_language_from/">[comments]</a></span> </td></tr></table>
+
+## Decentralized Social Media Is the Only Alternative to the Tech Oligarchy
+ - [https://www.reddit.com/r/technology/comments/1i6rp3o/decentralized_social_media_is_the_only](https://www.reddit.com/r/technology/comments/1i6rp3o/decentralized_social_media_is_the_only)
+ - RSS feed: $source
+ - date published: 2025-01-21T19:59:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6rp3o/decentralized_social_media_is_the_only/"> <img src="https://external-preview.redd.it/eSQLv3zDGbeGlnGpjM0BvknM085o8wcszr0jshGFllo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=587cd607cc145cfc945a0e682ac4e78af417a920" alt="Decentralized Social Media Is the Only Alternative to the Tech Oligarchy" title="Decentralized Social Media Is the Only Alternative to the Tech Oligarchy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spaduf"> /u/Spaduf </a> <br/> <span><a href="https://www.404media.co/decentralized-social-media-is-the-only-alternative-to-the-tech-oligarchy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6rp3o/decentralized_social_media_is_the_only/">[comments]</a></span> </td></tr></table>
+
+## RedNote Recruited US Influencers to Promote App Amid TikTok Ban Uncertainty
+ - [https://www.reddit.com/r/technology/comments/1i6rgdl/rednote_recruited_us_influencers_to_promote_app](https://www.reddit.com/r/technology/comments/1i6rgdl/rednote_recruited_us_influencers_to_promote_app)
+ - RSS feed: $source
+ - date published: 2025-01-21T19:50:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6rgdl/rednote_recruited_us_influencers_to_promote_app/"> <img src="https://external-preview.redd.it/HXspjX_FeRgv7F4Yxz9uxPy1RRQC0QvBxtwNheLgTh8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5af4f1fcaf5cb8d2e85a102187a0a63488f0742a" alt="RedNote Recruited US Influencers to Promote App Amid TikTok Ban Uncertainty" title="RedNote Recruited US Influencers to Promote App Amid TikTok Ban Uncertainty" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DifusDofus"> /u/DifusDofus </a> <br/> <span><a href="https://www.wired.com/story/rednote-is-asking-american-influencers-to-promote-its-app/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6rgdl/rednote_recruited_us_influencers_to_promote_app/">[comments]</a></span> </td></tr></table>
+
+## Anti-Trump Searches Appear Hidden on TikTok After App Comes Back Online
+ - [https://www.reddit.com/r/technology/comments/1i6r0ck/antitrump_searches_appear_hidden_on_tiktok_after](https://www.reddit.com/r/technology/comments/1i6r0ck/antitrump_searches_appear_hidden_on_tiktok_after)
+ - RSS feed: $source
+ - date published: 2025-01-21T19:32:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6r0ck/antitrump_searches_appear_hidden_on_tiktok_after/"> <img src="https://external-preview.redd.it/jQ_LbH5C_f3zk3EGeLf7GzlZqG9bdlJ2aCnMZFRS8Hc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e0ef0446d73aa5d360c4a6b7b9d50f5fcba3d3b" alt="Anti-Trump Searches Appear Hidden on TikTok After App Comes Back Online" title="Anti-Trump Searches Appear Hidden on TikTok After App Comes Back Online" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mangosquisher10"> /u/mangosquisher10 </a> <br/> <span><a href="https://www.ibtimes.com/anti-trump-searches-appear-hidden-tiktok-after-app-comes-back-online-tiktok-now-trumps-3760257">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6r0ck/antitrump_searches_appear_hidden_on_tiktok_after/">[comments]</a></span> </td></tr></table>
+
+## Trump to announce up to $500 billion in private sector AI infrastructure investment
+ - [https://www.reddit.com/r/technology/comments/1i6pnw9/trump_to_announce_up_to_500_billion_in_private](https://www.reddit.com/r/technology/comments/1i6pnw9/trump_to_announce_up_to_500_billion_in_private)
+ - RSS feed: $source
+ - date published: 2025-01-21T18:37:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6pnw9/trump_to_announce_up_to_500_billion_in_private/"> <img src="https://external-preview.redd.it/4hK6JtRBbGVHRVsIiiWGONcjShfDq0YETS2CwO76Lto.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8db53e39b1f36ba0a38bd08a61eb13078cc1ee9" alt="Trump to announce up to $500 billion in private sector AI infrastructure investment" title="Trump to announce up to $500 billion in private sector AI infrastructure investment" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/abidalliye"> /u/abidalliye </a> <br/> <span><a href="https://www.cbsnews.com/news/trump-announces-private-sector-ai-infrastructure-investment/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6pnw9/trump_to_announce_up_to_500_billion_in_private/">[comments]</a></span> </td></tr></table>
+
+## Trump Revokes Biden EV Targets, Freezes Funds for Nationwide Charging Network
+ - [https://www.reddit.com/r/technology/comments/1i6omkm/trump_revokes_biden_ev_targets_freezes_funds_for](https://www.reddit.com/r/technology/comments/1i6omkm/trump_revokes_biden_ev_targets_freezes_funds_for)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:55:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6omkm/trump_revokes_biden_ev_targets_freezes_funds_for/"> <img src="https://external-preview.redd.it/hOKM-O0Vpq87NufvR0hAefOgkKo7n67j-kCQj6pXPXo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a2e29903e5ee0f54c3598776d727db0a21be8f0" alt="Trump Revokes Biden EV Targets, Freezes Funds for Nationwide Charging Network" title="Trump Revokes Biden EV Targets, Freezes Funds for Nationwide Charging Network" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/abidalliye"> /u/abidalliye </a> <br/> <span><a href="https://me.pcmag.com/en/cars-auto/28039/trump-revokes-biden-ev-targets-freezes-funds-for-nationwide-charging-network">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6omkm/trump_revokes_biden_ev_targets_freezes_funds_for/">[comments]</a></span> </td></tr></table>
+
+## Dutch pension funds divest from Tesla
+ - [https://www.reddit.com/r/technology/comments/1i6of8o/dutch_pension_funds_divest_from_tesla](https://www.reddit.com/r/technology/comments/1i6of8o/dutch_pension_funds_divest_from_tesla)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:47:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6of8o/dutch_pension_funds_divest_from_tesla/"> <img src="https://external-preview.redd.it/SCwcP3adqTXm-TC-PBpXzdnEZQMhjiC4W6XJxv4lUxA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2baee8ce14660bce456a90b760eb9a60054f27ed" alt="Dutch pension funds divest from Tesla" title="Dutch pension funds divest from Tesla" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.ipe.com/news/dutch-pension-funds-divest-from-tesla/10128296.article">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6of8o/dutch_pension_funds_divest_from_tesla/">[comments]</a></span> </td></tr></table>
+
+## Misinformation warning ahead of federal election
+ - [https://www.reddit.com/r/technology/comments/1i6ng2l/misinformation_warning_ahead_of_federal_election](https://www.reddit.com/r/technology/comments/1i6ng2l/misinformation_warning_ahead_of_federal_election)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:07:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6ng2l/misinformation_warning_ahead_of_federal_election/"> <img src="https://external-preview.redd.it/6K8xrX2iQXe_KEsYqFrZ5eLk-aw2CgtuJS2uxxOKd_g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e31574e3a5d2bf44bcf7a1fc5f64d6582fdeaff" alt="Misinformation warning ahead of federal election" title="Misinformation warning ahead of federal election" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.northweststar.com.au/story/8871728/misinformation-warning-ahead-of-federal-election/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6ng2l/misinformation_warning_ahead_of_federal_election/">[comments]</a></span> </td></tr></table>
+
+## Trump officially creates DOGE. His EO says its purpose is to upgrade the government's IT.
+ - [https://www.reddit.com/r/technology/comments/1i6n8ky/trump_officially_creates_doge_his_eo_says_its](https://www.reddit.com/r/technology/comments/1i6n8ky/trump_officially_creates_doge_his_eo_says_its)
+ - RSS feed: $source
+ - date published: 2025-01-21T16:59:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6n8ky/trump_officially_creates_doge_his_eo_says_its/"> <img src="https://external-preview.redd.it/uTHz-BEN0_inozo0wgtilYUON_MOWdtYgvDCjJG8S0w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=24b09829700e33351e884dc3b931e3902b4bdf39" alt="Trump officially creates DOGE. His EO says its purpose is to upgrade the government's IT." title="Trump officially creates DOGE. His EO says its purpose is to upgrade the government's IT." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/z8675309z"> /u/z8675309z </a> <br/> <span><a href="https://www.cbsnews.com/news/trump-doge-executive-order-elon-musk-us-digital-service-it/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6n8ky/trump_officially_creates_doge_his_eo_says_its/">[comments]</a></span> </td></tr></table>
+
+## Instagram hides search results for 'Democrats'
+ - [https://www.reddit.com/r/technology/comments/1i6l5j0/instagram_hides_search_results_for_democrats](https://www.reddit.com/r/technology/comments/1i6l5j0/instagram_hides_search_results_for_democrats)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:30:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6l5j0/instagram_hides_search_results_for_democrats/"> <img src="https://external-preview.redd.it/14evvNUoxvW0pc8HL70QdQFT3IMIMISEFwCxarxiVhA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e95bf3f2f5f203297df088ca61e06c6435d5783" alt="Instagram hides search results for 'Democrats'" title="Instagram hides search results for 'Democrats'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/abidalliye"> /u/abidalliye </a> <br/> <span><a href="https://www.bbc.com/news/articles/c4g32yxpdz0o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6l5j0/instagram_hides_search_results_for_democrats/">[comments]</a></span> </td></tr></table>
+
+## Instagram is reportedly trying to attract TikTok creators with large bonuses
+ - [https://www.reddit.com/r/technology/comments/1i6l2fy/instagram_is_reportedly_trying_to_attract_tiktok](https://www.reddit.com/r/technology/comments/1i6l2fy/instagram_is_reportedly_trying_to_attract_tiktok)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:26:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6l2fy/instagram_is_reportedly_trying_to_attract_tiktok/"> <img src="https://external-preview.redd.it/cwZTHZ5jcVK0or5xUb63devO1oExKbU5-U8FmIeO5vw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=275dcef2e6ad883e858c0ec86d77b821943a3335" alt="Instagram is reportedly trying to attract TikTok creators with large bonuses" title="Instagram is reportedly trying to attract TikTok creators with large bonuses" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DomesticErrorist22"> /u/DomesticErrorist22 </a> <br/> <span><a href="https://www.theverge.com/2025/1/21/24348510/instagram-tiktok-creators-bonuses?utm_content=bufferbb71e&amp;utm_medium=social&amp;utm_source=bsky.app&amp;utm_campaign=verge_social">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6l2fy/instagram_is_reportedly_trying_to_attract_tiktok/">[comments]</a></span> </td></tr></table>
+
+## Oscars frontrunner The Brutalist uses generative AI, and it might cost it the Best Picture prize
+ - [https://www.reddit.com/r/technology/comments/1i6ki5e/oscars_frontrunner_the_brutalist_uses_generative](https://www.reddit.com/r/technology/comments/1i6ki5e/oscars_frontrunner_the_brutalist_uses_generative)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:01:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6ki5e/oscars_frontrunner_the_brutalist_uses_generative/"> <img src="https://external-preview.redd.it/POSiAE1NZwJqZDKqEus9kRPuIC3eIQ_SIJvf_HB4wBQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2477437db1a754cfb258c96d2ab90b41b802f7b" alt="Oscars frontrunner The Brutalist uses generative AI, and it might cost it the Best Picture prize" title="Oscars frontrunner The Brutalist uses generative AI, and it might cost it the Best Picture prize" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MetaKnowing"> /u/MetaKnowing </a> <br/> <span><a href="https://www.techradar.com/streaming/entertainment/oscars-frontrunner-the-brutalist-uses-generative-ai-and-it-might-cost-it-the-best-picture-prize">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6ki5e/oscars_frontrunner_the_brutalist_uses_generative/">[comments]</a></span> </td></tr></table>
+
+## Genetically engineered mosquitoes with "toxic" semen could kill females and curb spread of disease, researchers say
+ - [https://www.reddit.com/r/technology/comments/1i6jw8m/genetically_engineered_mosquitoes_with_toxic](https://www.reddit.com/r/technology/comments/1i6jw8m/genetically_engineered_mosquitoes_with_toxic)
+ - RSS feed: $source
+ - date published: 2025-01-21T14:34:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6jw8m/genetically_engineered_mosquitoes_with_toxic/"> <img src="https://external-preview.redd.it/zbkT1Lr-_JiunRMkJDUbsEM0ltpAoh0VhbhITfMCd4E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d8bb62484339ba3fb5641a1fbc9cb8d001c25fbd" alt="Genetically engineered mosquitoes with &quot;toxic&quot; semen could kill females and curb spread of disease, researchers say" title="Genetically engineered mosquitoes with &quot;toxic&quot; semen could kill females and curb spread of disease, researchers say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wilsonofoz"> /u/wilsonofoz </a> <br/> <span><a href="https://www.cbsnews.com/amp/news/mosquitoes-toxic-semen-could-curb-disease-spread-researchers/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6jw8m/genetically_engineered_mosquitoes_with_toxic/">[comments]</a></span> </td></tr></table>
+
+## JavaScript now mandatory for Google Search, Google confirms | Static pages are gone, and SEO checking tools don't seem to work anymore
+ - [https://www.reddit.com/r/technology/comments/1i6j18d/javascript_now_mandatory_for_google_search_google](https://www.reddit.com/r/technology/comments/1i6j18d/javascript_now_mandatory_for_google_search_google)
+ - RSS feed: $source
+ - date published: 2025-01-21T13:52:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6j18d/javascript_now_mandatory_for_google_search_google/"> <img src="https://external-preview.redd.it/55QiB7NUsPDI4MOgCfuEXxzv6o1fAZhyLs3d_GMEcGI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3aa40cbbcfbd1be41e79153edae8c92e2c5b3fff" alt="JavaScript now mandatory for Google Search, Google confirms | Static pages are gone, and SEO checking tools don't seem to work anymore" title="JavaScript now mandatory for Google Search, Google confirms | Static pages are gone, and SEO checking tools don't seem to work anymore" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.techspot.com/news/106421-javascript-now-mandatory-google-search-google-confirms.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6j18d/javascript_now_mandatory_for_google_search_google/">[comments]</a></span> </td></tr
+
+## Trump revokes Biden order that had set 50% electric vehicles target for 2030 | President tells crowd that US ‘will not sabotage our own industries while China pollutes with impunity’
+ - [https://www.reddit.com/r/technology/comments/1i6i5jm/trump_revokes_biden_order_that_had_set_50](https://www.reddit.com/r/technology/comments/1i6i5jm/trump_revokes_biden_order_that_had_set_50)
+ - RSS feed: $source
+ - date published: 2025-01-21T13:06:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6i5jm/trump_revokes_biden_order_that_had_set_50/"> <img src="https://external-preview.redd.it/Waq8HAOOkkrNCI-6j47pxpljdGKxHqlIPiF7ROfwwAU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=04be800892cd0d3319e83b743a3b958d0e1d6b9f" alt="Trump revokes Biden order that had set 50% electric vehicles target for 2030 | President tells crowd that US ‘will not sabotage our own industries while China pollutes with impunity’" title="Trump revokes Biden order that had set 50% electric vehicles target for 2030 | President tells crowd that US ‘will not sabotage our own industries while China pollutes with impunity’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.theguardian.com/us-news/2025/jan/20/trump-executive-order-electric-vehicles">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6i5jm/trum
+
+## Microsoft Discovers Alarming MacOS Bug That Allows Hackers To Install Rootkits
+ - [https://www.reddit.com/r/technology/comments/1i6ghiu/microsoft_discovers_alarming_macos_bug_that](https://www.reddit.com/r/technology/comments/1i6ghiu/microsoft_discovers_alarming_macos_bug_that)
+ - RSS feed: $source
+ - date published: 2025-01-21T11:25:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6ghiu/microsoft_discovers_alarming_macos_bug_that/"> <img src="https://external-preview.redd.it/zhHZ2ATZynj8cmguO7Ts8s11uL614sv61eLeG01T6UI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1babb4eaeafbb1373187f1a9579ed1abc8ab8317" alt="Microsoft Discovers Alarming MacOS Bug That Allows Hackers To Install Rootkits" title="Microsoft Discovers Alarming MacOS Bug That Allows Hackers To Install Rootkits" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/porkchop_d_clown"> /u/porkchop_d_clown </a> <br/> <span><a href="https://hothardware.com/news/microsoft-macos-bug-hackers-install-rootkits">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6ghiu/microsoft_discovers_alarming_macos_bug_that/">[comments]</a></span> </td></tr></table>
+
+## More new electric cars than diesel registered across the EU
+ - [https://www.reddit.com/r/technology/comments/1i6gdwo/more_new_electric_cars_than_diesel_registered](https://www.reddit.com/r/technology/comments/1i6gdwo/more_new_electric_cars_than_diesel_registered)
+ - RSS feed: $source
+ - date published: 2025-01-21T11:18:36+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.electrive.com/2025/01/21/more-new-electric-cars-than-diesel-registered-across-the-eu/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6gdwo/more_new_electric_cars_than_diesel_registered/">[comments]</a></span>
+
+## Trump Signs Order 'Ending Federal Censorship' on Social Media Platforms
+ - [https://www.reddit.com/r/technology/comments/1i6gdly/trump_signs_order_ending_federal_censorship_on](https://www.reddit.com/r/technology/comments/1i6gdly/trump_signs_order_ending_federal_censorship_on)
+ - RSS feed: $source
+ - date published: 2025-01-21T11:18:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6gdly/trump_signs_order_ending_federal_censorship_on/"> <img src="https://external-preview.redd.it/Lzb6ZPA_bnUWc-7Ols_S0sF-cyA5dGbYKjuTtvCfO3M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b2c87bc88afad41848903083be1f39eaf690a663" alt="Trump Signs Order 'Ending Federal Censorship' on Social Media Platforms " title="Trump Signs Order 'Ending Federal Censorship' on Social Media Platforms " /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HellYeahDamnWrite"> /u/HellYeahDamnWrite </a> <br/> <span><a href="https://www.pcmag.com/news/trump-signs-order-ending-federal-censorship-social-media">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6gdly/trump_signs_order_ending_federal_censorship_on/">[comments]</a></span> </td></tr></table>
+
+## Welcome to the era of gangster tech regulation
+ - [https://www.reddit.com/r/technology/comments/1i6g3w2/welcome_to_the_era_of_gangster_tech_regulation](https://www.reddit.com/r/technology/comments/1i6g3w2/welcome_to_the_era_of_gangster_tech_regulation)
+ - RSS feed: $source
+ - date published: 2025-01-21T10:59:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6g3w2/welcome_to_the_era_of_gangster_tech_regulation/"> <img src="https://external-preview.redd.it/PHkEzUbK4-DUNXoZWStysQes4Bm9C0-m9ixn_zSfOQ4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c421d6c9d09b524f31eec72aacb6ca8dc0914c7" alt="Welcome to the era of gangster tech regulation" title="Welcome to the era of gangster tech regulation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nimicdoareu"> /u/nimicdoareu </a> <br/> <span><a href="https://www.theverge.com/2025/1/20/24346317/trump-gangster-tech-regulation-corruption-grift?utm_content=buffere1546&amp;utm_medium=social&amp;utm_source=threads.net&amp;utm_campaign=verge_social">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6g3w2/welcome_to_the_era_of_gangster_tech_regulation/">[comments]</a></span> </td></tr></table>
+
+## The energy industry is using a "net-zero hero" narrative shifting blame to consumers | The energy sector uses over a third of the world's fuel supply
+ - [https://www.reddit.com/r/technology/comments/1i6fzcs/the_energy_industry_is_using_a_netzero_hero](https://www.reddit.com/r/technology/comments/1i6fzcs/the_energy_industry_is_using_a_netzero_hero)
+ - RSS feed: $source
+ - date published: 2025-01-21T10:50:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6fzcs/the_energy_industry_is_using_a_netzero_hero/"> <img src="https://external-preview.redd.it/Y8cs6MYvzK3mxUSSD5n-BRirPz-0lwJhYeKITjpkasM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d41c00cfcf00a2962bd0de27cafd64f10d8d96c1" alt="The energy industry is using a &quot;net-zero hero&quot; narrative shifting blame to consumers | The energy sector uses over a third of the world's fuel supply" title="The energy industry is using a &quot;net-zero hero&quot; narrative shifting blame to consumers | The energy sector uses over a third of the world's fuel supply" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.techspot.com/news/106422-energy-industry-using-net-zero-hero-narrative-shifting.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6fzcs/the_energy_industry_is_using_a_netzero_
+
+## Tech movement 'Free our Feeds' wants to kick billionaires out of social media ownership
+ - [https://www.reddit.com/r/technology/comments/1i6fw3y/tech_movement_free_our_feeds_wants_to_kick](https://www.reddit.com/r/technology/comments/1i6fw3y/tech_movement_free_our_feeds_wants_to_kick)
+ - RSS feed: $source
+ - date published: 2025-01-21T10:44:01+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/HellYeahDamnWrite"> /u/HellYeahDamnWrite </a> <br/> <span><a href="https://www.euronews.com/next/2025/01/21/tech-movement-free-our-feeds-wants-to-kick-billionaires-out-of-social-media-ownership">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6fw3y/tech_movement_free_our_feeds_wants_to_kick/">[comments]</a></span>
+
+## Government website offering reproductive health information goes offline
+ - [https://www.reddit.com/r/technology/comments/1i6f5rw/government_website_offering_reproductive_health](https://www.reddit.com/r/technology/comments/1i6f5rw/government_website_offering_reproductive_health)
+ - RSS feed: $source
+ - date published: 2025-01-21T09:49:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6f5rw/government_website_offering_reproductive_health/"> <img src="https://external-preview.redd.it/5IADkGdmjslQfLgTykTqJ9maM9nfd6iP7Fzh9nUQ4jw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4be8ae228bab5fb03b26863e18b7e16b6ea16506" alt="Government website offering reproductive health information goes offline" title="Government website offering reproductive health information goes offline" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.cbsnews.com/news/government-website-offering-reproductive-health-information-goes-offline/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6f5rw/government_website_offering_reproductive_health/">[comments]</a></span> </td></tr></table>
+
+## Meta under fire for auto-following Trump & Vance, Blocking Democrat hashtags
+ - [https://www.reddit.com/r/technology/comments/1i6evcy/meta_under_fire_for_autofollowing_trump_vance](https://www.reddit.com/r/technology/comments/1i6evcy/meta_under_fire_for_autofollowing_trump_vance)
+ - RSS feed: $source
+ - date published: 2025-01-21T09:27:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6evcy/meta_under_fire_for_autofollowing_trump_vance/"> <img src="https://external-preview.redd.it/Z3zNFXy1Fg_4TgREADlOoyn3cPAVWeAD6s2MU9KIkqQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b3be30a0320e7d12106a9db594829b1aed693e87" alt="Meta under fire for auto-following Trump &amp; Vance, Blocking Democrat hashtags" title="Meta under fire for auto-following Trump &amp; Vance, Blocking Democrat hashtags" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Birdy_Cephon_Altera"> /u/Birdy_Cephon_Altera </a> <br/> <span><a href="https://techissuestoday.com/meta-auto-follow-trump-vance-blocks-democrat-hashtags/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6evcy/meta_under_fire_for_autofollowing_trump_vance/">[comments]</a></span> </td></tr></table>
+
+## Vendor rolls out two new decade-old Nvidia GT 730 GPUs — 2GB and 4GB models, starting at $45
+ - [https://www.reddit.com/r/technology/comments/1i6bjpo/vendor_rolls_out_two_new_decadeold_nvidia_gt_730](https://www.reddit.com/r/technology/comments/1i6bjpo/vendor_rolls_out_two_new_decadeold_nvidia_gt_730)
+ - RSS feed: $source
+ - date published: 2025-01-21T05:28:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6bjpo/vendor_rolls_out_two_new_decadeold_nvidia_gt_730/"> <img src="https://external-preview.redd.it/7uQ1qrepgkSoGrvNrzo5k37tvQU82HU8jqvvUmiGzvE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f3c8dbd3fbaf0344fc594a9fc7b775b6fccb0d63" alt="Vendor rolls out two new decade-old Nvidia GT 730 GPUs — 2GB and 4GB models, starting at $45" title="Vendor rolls out two new decade-old Nvidia GT 730 GPUs — 2GB and 4GB models, starting at $45" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Logical_Welder3467"> /u/Logical_Welder3467 </a> <br/> <span><a href="https://www.tomshardware.com/pc-components/gpus/vendor-rolls-out-two-new-decade-old-nvidia-gt-730-gpus-2gb-and-4gb-models-starting-at-usd45">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6bjpo/vendor_rolls_out_two_new_decadeold_nvidia_gt_730/">[comments]</a></span> </td></tr></table>
+
+## OpenAI's Sam Altman to brief US officials on 'PhD-level' AI agents
+ - [https://www.reddit.com/r/technology/comments/1i6ay8p/openais_sam_altman_to_brief_us_officials_on](https://www.reddit.com/r/technology/comments/1i6ay8p/openais_sam_altman_to_brief_us_officials_on)
+ - RSS feed: $source
+ - date published: 2025-01-21T04:53:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6ay8p/openais_sam_altman_to_brief_us_officials_on/"> <img src="https://external-preview.redd.it/NtOP6nxISq_msToYf6Yr83bY1THCY19RALit8Kg6jEg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=49fa0979e56c7e0a0725757a8d57921859664845" alt="OpenAI's Sam Altman to brief US officials on 'PhD-level' AI agents" title="OpenAI's Sam Altman to brief US officials on 'PhD-level' AI agents" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HRHKingEdwardIX"> /u/HRHKingEdwardIX </a> <br/> <span><a href="https://www.androidpolice.com/openai-phd-ai-agents/?taid=678f0dce6b0d1c000162818e&amp;utm_campaign=trueanthem&amp;utm_medium=social&amp;utm_source=twitter">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6ay8p/openais_sam_altman_to_brief_us_officials_on/">[comments]</a></span> </td></tr></table>
+
+## Marvel Snap is back in the US. The game's developer plans to bring “more services in-house” and “partner with a new publisher” to prevent a similar situation from happening again
+ - [https://www.reddit.com/r/technology/comments/1i69lwb/marvel_snap_is_back_in_the_us_the_games_developer](https://www.reddit.com/r/technology/comments/1i69lwb/marvel_snap_is_back_in_the_us_the_games_developer)
+ - RSS feed: $source
+ - date published: 2025-01-21T03:38:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i69lwb/marvel_snap_is_back_in_the_us_the_games_developer/"> <img src="https://external-preview.redd.it/fAIqumnn5Z42xALyDjTZhVquV-rHV7LUUrJb3Y07afE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e12bdecad9bc5bc18f6cbc5fae694e62115b592b" alt="Marvel Snap is back in the US. The game's developer plans to bring “more services in-house” and “partner with a new publisher” to prevent a similar situation from happening again" title="Marvel Snap is back in the US. The game's developer plans to bring “more services in-house” and “partner with a new publisher” to prevent a similar situation from happening again" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cmaia1503"> /u/cmaia1503 </a> <br/> <span><a href="https://www.theverge.com/2025/1/20/24348353/marvel-snap-tiktok-ban-back-online">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i69lwb/marvel_snap_i
+
+## China plans to build enormous solar array in space — and it could collect more energy in a year than 'all the oil on Earth'
+ - [https://www.reddit.com/r/technology/comments/1i68aio/china_plans_to_build_enormous_solar_array_in](https://www.reddit.com/r/technology/comments/1i68aio/china_plans_to_build_enormous_solar_array_in)
+ - RSS feed: $source
+ - date published: 2025-01-21T02:30:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i68aio/china_plans_to_build_enormous_solar_array_in/"> <img src="https://external-preview.redd.it/3H6oPhM3xYWqqyfqfLjgR39E0Epx1-VCy18enC-2p2I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4e533f0e911944042902db84a1574a6a974b2042" alt="China plans to build enormous solar array in space — and it could collect more energy in a year than 'all the oil on Earth'" title="China plans to build enormous solar array in space — and it could collect more energy in a year than 'all the oil on Earth'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wilsonofoz"> /u/wilsonofoz </a> <br/> <span><a href="https://www.livescience.com/space/space-exploration/china-plans-to-build-enormous-solar-array-in-space-and-it-could-collect-more-energy-in-a-year-than-all-the-oil-on-earth">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i68aio/china_plans_to_build_enormous_sol
+
+## "Something bad happened while we were gone”: How TikTok has changed after the US ban
+ - [https://www.reddit.com/r/technology/comments/1i67imq/something_bad_happened_while_we_were_gone_how](https://www.reddit.com/r/technology/comments/1i67imq/something_bad_happened_while_we_were_gone_how)
+ - RSS feed: $source
+ - date published: 2025-01-21T01:51:31+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/MothersMiIk"> /u/MothersMiIk </a> <br/> <span><a href="https://www.nationalworld.com/us/news/how-tiktok-changed-after-us-ban-blackout-censorship-4952093">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i67imq/something_bad_happened_while_we_were_gone_how/">[comments]</a></span>
+
+## Trump revokes Biden executive order on addressing AI risks
+ - [https://www.reddit.com/r/technology/comments/1i67gtk/trump_revokes_biden_executive_order_on_addressing](https://www.reddit.com/r/technology/comments/1i67gtk/trump_revokes_biden_executive_order_on_addressing)
+ - RSS feed: $source
+ - date published: 2025-01-21T01:48:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i67gtk/trump_revokes_biden_executive_order_on_addressing/"> <img src="https://external-preview.redd.it/27vrXhHvyZIKARqlSjwRV5nJpZePhy6PRFRUC34wDJU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=386e388a828de79a8736b5c50ed5c111a107e526" alt="Trump revokes Biden executive order on addressing AI risks" title="Trump revokes Biden executive order on addressing AI risks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MetaKnowing"> /u/MetaKnowing </a> <br/> <span><a href="https://www.reuters.com/technology/artificial-intelligence/trump-revokes-biden-executive-order-addressing-ai-risks-2025-01-21/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i67gtk/trump_revokes_biden_executive_order_on_addressing/">[comments]</a></span> </td></tr></table>
+
+## Trump signs order refusing to enforce TikTok ban for 75 days
+ - [https://www.reddit.com/r/technology/comments/1i673qw/trump_signs_order_refusing_to_enforce_tiktok_ban](https://www.reddit.com/r/technology/comments/1i673qw/trump_signs_order_refusing_to_enforce_tiktok_ban)
+ - RSS feed: $source
+ - date published: 2025-01-21T01:30:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i673qw/trump_signs_order_refusing_to_enforce_tiktok_ban/"> <img src="https://external-preview.redd.it/4lVHMb8riaruaQT2JaGz3XHyGBSYwHhyrt1ZjVu_9rA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=24f2045ac82c7d9e5e51db8b2bc7f2749ea9226e" alt="Trump signs order refusing to enforce TikTok ban for 75 days" title="Trump signs order refusing to enforce TikTok ban for 75 days" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Deshes011"> /u/Deshes011 </a> <br/> <span><a href="https://www.theverge.com/2025/1/20/24348213/trump-tiktok-ban-executive-order-sale-delay-china">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i673qw/trump_signs_order_refusing_to_enforce_tiktok_ban/">[comments]</a></span> </td></tr></table>
+
+## Trump tells Justice Department not to enforce TikTok ban for 75 days
+ - [https://www.reddit.com/r/technology/comments/1i6725g/trump_tells_justice_department_not_to_enforce](https://www.reddit.com/r/technology/comments/1i6725g/trump_tells_justice_department_not_to_enforce)
+ - RSS feed: $source
+ - date published: 2025-01-21T01:28:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i6725g/trump_tells_justice_department_not_to_enforce/"> <img src="https://external-preview.redd.it/EDrSlrEIrCWNPnQ-EcgAwuUKA0Dd_2RleBRqdPoK3Mc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=45054414137663b83920236b7f4e251ce6c736ec" alt="Trump tells Justice Department not to enforce TikTok ban for 75 days" title="Trump tells Justice Department not to enforce TikTok ban for 75 days" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cmaia1503"> /u/cmaia1503 </a> <br/> <span><a href="https://www.nbcnews.com/tech/tech-news/trump-tells-justice-department-not-enforce-tiktok-ban-75-days-rcna188377?cid=sm_npd_nn_tw_ma&amp;taid=678ef825d853810001451ab2">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i6725g/trump_tells_justice_department_not_to_enforce/">[comments]</a></span> </td></tr></table>
+
+## Trump shuts down immigration app, dashing migrants' hopes of entering U.S. | The CBP One app was set up under the Biden administration to create an orderly way for migrants to enter the U.S. and to reduce illegal border crossings.
+ - [https://www.reddit.com/r/technology/comments/1i65awm/trump_shuts_down_immigration_app_dashing_migrants](https://www.reddit.com/r/technology/comments/1i65awm/trump_shuts_down_immigration_app_dashing_migrants)
+ - RSS feed: $source
+ - date published: 2025-01-21T00:05:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i65awm/trump_shuts_down_immigration_app_dashing_migrants/"> <img src="https://external-preview.redd.it/FqE1JRvA6_x3E9W_RqNHP0zTpJMMiMD29R1vBkxOjOs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2f3c924eefce6412e82ab2be51b62a864861df9" alt="Trump shuts down immigration app, dashing migrants' hopes of entering U.S. | The CBP One app was set up under the Biden administration to create an orderly way for migrants to enter the U.S. and to reduce illegal border crossings." title="Trump shuts down immigration app, dashing migrants' hopes of entering U.S. | The CBP One app was set up under the Biden administration to create an orderly way for migrants to enter the U.S. and to reduce illegal border crossings." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ControlCAD"> /u/ControlCAD </a> <br/> <span><a href="https://www.nbcnews.com/news/latino/trump-shuts-cbp-one-immigration-app-dashing
+

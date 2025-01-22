@@ -1,0 +1,163 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Kingdom Come: Deliverance 2's post-launch plans detailed, includes three expansions in 2025
+ - [https://www.neowin.net/news/kingdom-come-deliverance-2s-post-launch-plans-detailed-includes-three-expansions-in-2025](https://www.neowin.net/news/kingdom-come-deliverance-2s-post-launch-plans-detailed-includes-three-expansions-in-2025)
+ - RSS feed: $source
+ - date published: 2025-01-21T21:54:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737493667_gh0u2cbxsaaxbho_medium.jpg" alt="" /></div>With Kingdom Come: Deliverance 2&#039;s launch only weeks away, Warhorse has revealed what are its post-launch plans for the RPG. <a href="https://www.neowin.net/news/kingdom-come-deliverance-2s-post-launch-plans-detailed-includes-three-expansions-in-2025/">Read more...</a>
+
+## Crucial's new P310 1TB Gen4 M.2 2280 NVMe SSD is priced just $70
+ - [https://www.neowin.net/deals/crucials-new-p310-1tb-gen4-m2-2280-nvme-ssd-is-priced-just-70](https://www.neowin.net/deals/crucials-new-p310-1tb-gen4-m2-2280-nvme-ssd-is-priced-just-70)
+ - RSS feed: $source
+ - date published: 2025-01-21T21:38:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/09/1726588536_crucial_p310_medium.jpg" alt="" /></div>The recently launched 2280 form factor Crucial P310 Gen4 NVMe SSD is currently lowest priced for the 1TB variant. <a href="https://www.neowin.net/deals/crucials-new-p310-1tb-gen4-m2-2280-nvme-ssd-is-priced-just-70/">Read more...</a>
+
+## Meta is luring TikTok creators with cash bonuses up to $5k and other incentives
+ - [https://www.neowin.net/news/meta-is-luring-tiktok-creators-with-cash-bonuses-up-to-5k-and-other-incentives](https://www.neowin.net/news/meta-is-luring-tiktok-creators-with-cash-bonuses-up-to-5k-and-other-incentives)
+ - RSS feed: $source
+ - date published: 2025-01-21T20:52:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/12/1733983921_meta_logo_medium.jpg" alt="" /></div>With the uncertainty of TikTok&#039;s future in the US, Meta is now luring creators to its platforms with promises of bonuses, content deals, and more. <a href="https://www.neowin.net/news/meta-is-luring-tiktok-creators-with-cash-bonuses-up-to-5k-and-other-incentives/">Read more...</a>
+
+## Windows 11 Game Bar browser is now available to everyone
+ - [https://www.neowin.net/news/windows-11-game-bar-browser-is-now-available-to-everyone](https://www.neowin.net/news/windows-11-game-bar-browser-is-now-available-to-everyone)
+ - RSS feed: $source
+ - date published: 2025-01-21T19:38:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/11/1732301530_microsoft_edge_game_assist_medium.jpg" alt="" /></div>Those who play games on PC now can enjoy an easier and more convenient way to browse the internet when gaming. <a href="https://www.neowin.net/news/windows-11-game-bar-browser-is-now-available-to-everyone/">Read more...</a>
+
+## Price drop: Get a lifetime subscription to all languages at Babbel at 74% off
+ - [https://www.neowin.net/deals/babbel-has-now-dropped-the-price-of-a-lifetime-subscription-to-all-languages-by-74](https://www.neowin.net/deals/babbel-has-now-dropped-the-price-of-a-lifetime-subscription-to-all-languages-by-74)
+ - RSS feed: $source
+ - date published: 2025-01-21T18:00:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2019/08/1565258650_foreign-languages_medium.jpg" alt="" /></div>Learn all 14 languages and access more than 10,000 hours of high-quality language education online with this lifetime subscription. <a href="https://www.neowin.net/deals/babbel-has-now-dropped-the-price-of-a-lifetime-subscription-to-all-languages-by-74/">Read more...</a>
+
+## Samsung Galaxy Tab S10+ drops to the lowest price with a 24% discount
+ - [https://www.neowin.net/deals/samsung-galaxy-tab-s10-drops-to-the-lowest-price-with-a-24-discount](https://www.neowin.net/deals/samsung-galaxy-tab-s10-drops-to-the-lowest-price-with-a-24-discount)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:36:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737480656_samsung_galaxy_tab_s10_plus_1_medium.jpg" alt="" /></div>Samsung has dropped the price of its large-sized Galaxy Tab S10+ Android tablet with a big 24% discount. <a href="https://www.neowin.net/deals/samsung-galaxy-tab-s10-drops-to-the-lowest-price-with-a-24-discount/">Read more...</a>
+
+## Meta will let users cross-post their WhatsApp statuses on Facebook and Instagram as stories
+ - [https://www.neowin.net/news/meta-will-let-users-cross-post-their-whatsapp-statuses-on-facebook-and-instagram-as-stories](https://www.neowin.net/news/meta-will-let-users-cross-post-their-whatsapp-statuses-on-facebook-and-instagram-as-stories)
+ - RSS feed: $source
+ - date published: 2025-01-21T16:58:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737476892_whatsap_status_on_facebook_and_instagram_hero_medium.jpg" alt="" /></div>Meta has announced that it will add WhatsApp to Accounts Center to allow users to cross-post to Facebook and Instagram or log in using the same account. <a href="https://www.neowin.net/news/meta-will-let-users-cross-post-their-whatsapp-statuses-on-facebook-and-instagram-as-stories/">Read more...</a>
+
+## Microsoft launches new Pulse Cipher Special Edition Xbox Controller
+ - [https://www.neowin.net/news/microsoft-launches-new-pulse-cipher-special-edition-xbox-controller](https://www.neowin.net/news/microsoft-launches-new-pulse-cipher-special-edition-xbox-controller)
+ - RSS feed: $source
+ - date published: 2025-01-21T16:16:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737474291_xbox_wireless_controller_pulse_cipher_special_edition_medium.jpg" alt="" /></div>Microsoft has announced a new special edition of its Xbox Wireless Controller for those liking red products and transparent tech. <a href="https://www.neowin.net/news/microsoft-launches-new-pulse-cipher-special-edition-xbox-controller/">Read more...</a>
+
+## Firefox 134 gets another update with fixes for non-working links and more
+ - [https://www.neowin.net/news/firefox-134-gets-another-update-with-fixes-for-non-working-links-and-more](https://www.neowin.net/news/firefox-134-gets-another-update-with-fixes-for-non-working-links-and-more)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:34:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737472413_firefox_134.0.2_medium.jpg" alt="" /></div>Firefox has released another small update to address several issues with links and other bugs in version 134. <a href="https://www.neowin.net/news/firefox-134-gets-another-update-with-fixes-for-non-working-links-and-more/">Read more...</a>
+
+## Users report pro-Democrat and anti-Republican hashtags blocked, Meta says a fix is incoming
+ - [https://www.neowin.net/news/users-report-pro-democrat-and-anti-republican-hashtags-blocked-meta-says-a-fix-is-incoming](https://www.neowin.net/news/users-report-pro-democrat-and-anti-republican-hashtags-blocked-meta-says-a-fix-is-incoming)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:18:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737466705_instagram_medium.jpg" alt="" /></div>Multiple users on Reddit have brought to light that Instagram doesn&#039;t show any search results for pro-democrat and anti-republican hashtags on the platform. <a href="https://www.neowin.net/news/users-report-pro-democrat-and-anti-republican-hashtags-blocked-meta-says-a-fix-is-incoming/">Read more...</a>
+
+## Sniper Elite: Resistance, Citizen Sleeper 2, Eternal Strands, and more hit Xbox Game Pass
+ - [https://www.neowin.net/news/sniper-elite-resistance-citizen-sleeper-2-eternal-strands-and-more-hit-xbox-game-pass](https://www.neowin.net/news/sniper-elite-resistance-citizen-sleeper-2-eternal-strands-and-more-hit-xbox-game-pass)
+ - RSS feed: $source
+ - date published: 2025-01-21T14:38:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737469708_xbox_gamepass_announcement_16x9_1.21.2025-ee195da1273cd880ebc5_medium.jpg" alt="" /></div>The second Xbox Game Pass wave of January is a big one. It&#039;s carrying day-one titles like Lonely Mountain: Snow Riders, Orcs Must Die! Deathtrap, and much more for subscribers. <a href="https://www.neowin.net/news/sniper-elite-resistance-citizen-sleeper-2-eternal-strands-and-more-hit-xbox-game-pass/">Read more...</a>
+
+## Google Chrome 133 will come with a cool new energy saving feature in February
+ - [https://www.neowin.net/news/google-chrome-133-will-come-with-a-cool-new-energy-saving-feature-in-february](https://www.neowin.net/news/google-chrome-133-will-come-with-a-cool-new-energy-saving-feature-in-february)
+ - RSS feed: $source
+ - date published: 2025-01-21T12:38:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737461660_hero_medium.jpg" alt="" /></div>Google has announced that Chrome 133 will feature a new energy-saving feature that freezes intensive background tabs. This will help to save your battery life. <a href="https://www.neowin.net/news/google-chrome-133-will-come-with-a-cool-new-energy-saving-feature-in-february/">Read more...</a>
+
+## Tech due in 2026 uses AI to detect dementia early before symptoms show up
+ - [https://www.neowin.net/news/tech-due-in-2026-uses-ai-to-detect-dementia-early-before-symptoms-show-up](https://www.neowin.net/news/tech-due-in-2026-uses-ai-to-detect-dementia-early-before-symptoms-show-up)
+ - RSS feed: $source
+ - date published: 2025-01-21T11:32:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737458569_pexels-pavel-danilyuk-5996703_medium.jpg" alt="" /></div>Many people are worried about AI but a group of researchers in Scotland are using the technology to detect dementia before symptoms show up, giving patients better outcomes. <a href="https://www.neowin.net/news/tech-due-in-2026-uses-ai-to-detect-dementia-early-before-symptoms-show-up/">Read more...</a>
+
+## President Trump revokes Biden's "dangerous" 2023 executive order addressing AI risks
+ - [https://www.neowin.net/news/president-trump-revokes-bidens-dangerous-2023-executive-order-addressing-ai-risks](https://www.neowin.net/news/president-trump-revokes-bidens-dangerous-2023-executive-order-addressing-ai-risks)
+ - RSS feed: $source
+ - date published: 2025-01-21T09:14:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737448812_depositphotos_281537856_xl_medium.jpg" alt="" /></div>Trump&#039;s back and has revoked Biden&#039;s controversial executive order on AI risks, something Republicans promised to do. <a href="https://www.neowin.net/news/president-trump-revokes-bidens-dangerous-2023-executive-order-addressing-ai-risks/">Read more...</a>
+
+## Microsoft confirms Outlook crashes when emailing, replying or forwarding, issues workaround
+ - [https://www.neowin.net/news/microsoft-confirms-outlook-crashes-when-emailing-replying-or-forwarding-issues-workaround](https://www.neowin.net/news/microsoft-confirms-outlook-crashes-when-emailing-replying-or-forwarding-issues-workaround)
+ - RSS feed: $source
+ - date published: 2025-01-21T08:58:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2022/09/1663256583_microsoft_outlook_(source-_neowin)_plus_bug_medium.jpg" alt="" /></div>Microsoft has offered a workaround for Classic Outlook crashing whenever a user tries to email, or reply to or forward an existing one. <a href="https://www.neowin.net/news/microsoft-confirms-outlook-crashes-when-emailing-replying-or-forwarding-issues-workaround/">Read more...</a>
+
+## Marvel Snap comes back online, but only for PC players for now
+ - [https://www.neowin.net/news/marvel-snap-comes-back-online-but-only-for-pc-players-for-now](https://www.neowin.net/news/marvel-snap-comes-back-online-but-only-for-pc-players-for-now)
+ - RSS feed: $source
+ - date published: 2025-01-21T08:38:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737266874_marvel_snap_medium.jpg" alt="" /></div>Marvel Snap was shut down after TikTok was banned due to links with ByteDance, the Chinese company behind TikTok.  <a href="https://www.neowin.net/news/marvel-snap-comes-back-online-but-only-for-pc-players-for-now/">Read more...</a>
+
+## The Apple iPhone SE 4 is now tipped to feature the Dynamic Island
+ - [https://www.neowin.net/news/the-apple-iphone-se-4-is-now-tipped-to-feature-the-dynamic-island](https://www.neowin.net/news/the-apple-iphone-se-4-is-now-tipped-to-feature-the-dynamic-island)
+ - RSS feed: $source
+ - date published: 2025-01-21T08:22:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737445250_iphone_se_medium.jpg" alt="" /></div>Things are getting a bit confusing as the latest leak suggests that the next Apple SE phone will be called iPhone SE 4 and not iPhone 16E, and could feature the Dynamic Island. <a href="https://www.neowin.net/news/the-apple-iphone-se-4-is-now-tipped-to-feature-the-dynamic-island/">Read more...</a>
+
+## Yamaha RX-A2A, A4A, V6A 7.2 4K Dolby Atmos/Vision, Cinema DSP AVRs are lowest priced
+ - [https://www.neowin.net/deals/yamaha-rx-a2a-a4a-v6a-72-4k-dolby-atmosvision-cinema-dsp-avrs-are-lowest-priced](https://www.neowin.net/deals/yamaha-rx-a2a-a4a-v6a-72-4k-dolby-atmosvision-cinema-dsp-avrs-are-lowest-priced)
+ - RSS feed: $source
+ - date published: 2025-01-21T08:06:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1736768715_yamaha_rx-a2a_aventage_avr_medium.jpg" alt="" /></div>Yamaha&#039;s AVENTAGE 7.2 AV receivers namely the A4A, A2A, and V6A, are selling at their lowest prices. <a href="https://www.neowin.net/deals/yamaha-rx-a2a-a4a-v6a-72-4k-dolby-atmosvision-cinema-dsp-avrs-are-lowest-priced/">Read more...</a>
+
+## Meta says it will continue using fact-checkers outside the U.S. "for now"
+ - [https://www.neowin.net/news/meta-says-it-will-continue-using-fact-checkers-outside-the-us-for-now](https://www.neowin.net/news/meta-says-it-will-continue-using-fact-checkers-outside-the-us-for-now)
+ - RSS feed: $source
+ - date published: 2025-01-21T07:28:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/12/1733983921_meta_logo_medium.jpg" alt="" /></div>Meta&#039;s Community Notes won&#039;t appear for users outside the U.S., at least for some more time, as Meta has intended to bring the feature only for U.S.-based users.   <a href="https://www.neowin.net/news/meta-says-it-will-continue-using-fact-checkers-outside-the-us-for-now/">Read more...</a>
+
+## This Galaxy S25 Ultra feature will provide sharper visual and brighter colors
+ - [https://www.neowin.net/news/this-galaxy-s25-ultra-feature-will-provide-sharper-visual-and-brighter-colors](https://www.neowin.net/news/this-galaxy-s25-ultra-feature-will-provide-sharper-visual-and-brighter-colors)
+ - RSS feed: $source
+ - date published: 2025-01-21T07:18:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/11/1731044582_galaxy-s25-ultra_medium.jpg" alt="" /></div>The Galaxy S25 Ultra screen is tipped to offer lifelike sharp and bright visuals, thanks to this impressive feature. <a href="https://www.neowin.net/news/this-galaxy-s25-ultra-feature-will-provide-sharper-visual-and-brighter-colors/">Read more...</a>
+
+## Samsung confirms One UI 7 stable update set to go official with the Galaxy S25 series
+ - [https://www.neowin.net/news/samsung-confirms-one-ui-7-stable-update-set-to-go-official-with-the-galaxy-s25-series](https://www.neowin.net/news/samsung-confirms-one-ui-7-stable-update-set-to-go-official-with-the-galaxy-s25-series)
+ - RSS feed: $source
+ - date published: 2025-01-21T07:08:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737009836_galaxy_s25_medium.jpg" alt="" /></div>Samsung has officially confirmed that the Galaxy S25 series will run One UI 7 out of the box, and the stable update will be released to existing devices thereafter. <a href="https://www.neowin.net/news/samsung-confirms-one-ui-7-stable-update-set-to-go-official-with-the-galaxy-s25-series/">Read more...</a>
+
+## Trump signs executive order to save TikTok, at least temporarily
+ - [https://www.neowin.net/news/trump-signs-executive-order-to-save-tiktok-at-least-temporarily](https://www.neowin.net/news/trump-signs-executive-order-to-save-tiktok-at-least-temporarily)
+ - RSS feed: $source
+ - date published: 2025-01-21T06:58:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/11/1730915222_donald_trump_medium.jpg" alt="" /></div>President Donald Trump has saved TikTok by signing an executive order. But the relief is still temporary.  <a href="https://www.neowin.net/news/trump-signs-executive-order-to-save-tiktok-at-least-temporarily/">Read more...</a>
+
+## Flipboard's Surf is the latest platform to add a vertical video feed
+ - [https://www.neowin.net/news/flipboards-surf-is-the-latest-platform-to-add-a-vertical-video-feed](https://www.neowin.net/news/flipboards-surf-is-the-latest-platform-to-add-a-vertical-video-feed)
+ - RSS feed: $source
+ - date published: 2025-01-21T06:46:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737411254_screenshot_from_2025-01-20_23-13-49_medium.jpg" alt="" /></div>Flipboard launched Surf last month. Now, it&#039;s the latest platform to add vertical video feeds, a trend we&#039;ve been seeing a lot of lately. <a href="https://www.neowin.net/news/flipboards-surf-is-the-latest-platform-to-add-a-vertical-video-feed/">Read more...</a>
+

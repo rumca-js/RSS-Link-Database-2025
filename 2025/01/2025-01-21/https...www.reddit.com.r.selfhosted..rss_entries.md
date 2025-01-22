@@ -1,0 +1,408 @@
+# Source:Self-Hosted Alternatives to Popular Services, URL:https://www.reddit.com/r/selfhosted/.rss, language:en
+
+## Issue trying to set-up Gamevault
+ - [https://www.reddit.com/r/selfhosted/comments/1i6vrdb/issue_trying_to_setup_gamevault](https://www.reddit.com/r/selfhosted/comments/1i6vrdb/issue_trying_to_setup_gamevault)
+ - RSS feed: $source
+ - date published: 2025-01-21T22:48:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, i&#39;m trying to configure Gamevault on my terramaster but i&#39;m facing some issues</p> <p>The yaml file is the following:</p> <pre><code>services: gamevault-backend: image: phalcode/gamevault-backend:latest restart: always environment: DB_HOST: db DB_USERNAME: gamevault DB_PASSWORD: [Redacted] volumes: # Mount the folder where your games are - /Volume2/Resource/Resource/Retrogame/ROMS # Mount the folder where GameVault should store its media - /Volume1/public/Gamevault/media ports: - 2020:2020/tcp db: image: postgres:16 restart: always environment: POSTGRES_USER: gamevault POSTGRES_PASSWORD: [Redacted] POSTGRES_DB: gamevault volumes: # Mount the folder where your PostgreSQL database files should land - /your/database/folder:/Volume1/public/Gamevault/db </code></pre> <p>The Volume 1 is the SSD where the SO is installed and public is a shared folder where my selfhost app are installed (the other working correctly), in the Gamevault folder ar
+
+## OneDrive replacement?
+ - [https://www.reddit.com/r/selfhosted/comments/1i6v6x3/onedrive_replacement](https://www.reddit.com/r/selfhosted/comments/1i6v6x3/onedrive_replacement)
+ - RSS feed: $source
+ - date published: 2025-01-21T22:24:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m interested in a self hosted file sync similar to OneDrive... I don&#39;t need a Word or Excel replacement. Just something to access my files online easily.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JustAnotherGeek12345"> /u/JustAnotherGeek12345 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6v6x3/onedrive_replacement/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6v6x3/onedrive_replacement/">[comments]</a></span>
+
+## Browsers-NoVNC updated
+ - [https://www.reddit.com/r/selfhosted/comments/1i6uzui/browsersnovnc_updated](https://www.reddit.com/r/selfhosted/comments/1i6uzui/browsersnovnc_updated)
+ - RSS feed: $source
+ - date published: 2025-01-21T22:15:57+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://github.com/gitxpresso/browsers-novnc">Browsers-NoVNC</a> is a project that let&#39;s you self host browsers in a browser using just plain bash in the future it will be dockerized. There is a link on the bottom that will take you to self Hosted waterfox in a browser Includes browsers like</p> <ul> <li>Chrome</li> <li>Midori</li> <li>Pulse Browser</li> <li>Firefox</li> <li>Tor</li> <li>Floorp</li> <li>Librewolf</li> <li>Mullvad</li> <li>Vivaldi</li> <li>Zen</li> <li>Icecat</li> <li>Qutebrowser</li> <li>Waterfox</li> <li>Pale Moon</li> <li>Falkon</li> </ul> <p>Here is a ngrok link to the NoVNC Waterfox browser, Some else can use the novnc while you are using it, <strong>don&#39;t add any personal information/accounts on waterfox aka NoVNC</strong></p> <p><a href="https://9ade-34-30-196-234.ngrok-free.app/vnc.html">Ngrok-link</a></p> <p><a href="https://4dd8-34-30-196-234.ngrok-free.app">Firefox with audio</a></p> </div><!-- SC_ON --> &#
+
+## Server setup?
+ - [https://www.reddit.com/r/selfhosted/comments/1i6uycj/server_setup](https://www.reddit.com/r/selfhosted/comments/1i6uycj/server_setup)
+ - RSS feed: $source
+ - date published: 2025-01-21T22:14:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>What do you think of this setup. Unify gatway and switches for vlan. Home server from an old pc with alpine, cooliy and tailscale and a remote server with the same stuff for public stuff. How would I take care of more security and what about raid and usv. How would proxmox or true nas look like would this make sense? What would portainer be like? Or is there something else to recommend? I mainly want to deploy applications such as Home assistant. Network storage I would maybe only use for small video clips as I use Proton unlimited how could I best play these clips. What about a mail server for notifications or is there something better? How would I best structure my vlan?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheKing6488"> /u/TheKing6488 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6uycj/server_setup/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhost
+
+## Self-hosted Google keep alternative
+ - [https://www.reddit.com/r/selfhosted/comments/1i6ue6x/selfhosted_google_keep_alternative](https://www.reddit.com/r/selfhosted/comments/1i6ue6x/selfhosted_google_keep_alternative)
+ - RSS feed: $source
+ - date published: 2025-01-21T21:50:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi!</p> <p>I have been doing this whole self-hosted thing for about two years now, and have managed to move almost everything I do to my own two servers with offsite backups. I owe a lot to this subreddit.</p> <p>Anyway, my wife and I have been using Google keep to share simple text notes and - more importantly - for grocery lists. I don&#39;t care about formatting. I just want a grocery list that behaves like keep: making a list item is as simple as typing enter, and checking a list moves it to the bottom. </p> <p>I spent some time looking, but found nothing. Either the checkbox-list creation is cumbersome (add idem, type name, click commit. Or a markdown solution that&#39;s just clunky compared to type -enter - type - enter) or the syncing is so bad that collaborqtive editing doesn&#39;t work. </p> <p>I know I am being very specific, but it is mostly because my wife won&#39;t go from one app that works to our satisfaction to one or two apps where t
+
+## Dexcom dashboard for my insulin tracking friends
+ - [https://www.reddit.com/r/selfhosted/comments/1i6tqjm/dexcom_dashboard_for_my_insulin_tracking_friends](https://www.reddit.com/r/selfhosted/comments/1i6tqjm/dexcom_dashboard_for_my_insulin_tracking_friends)
+ - RSS feed: $source
+ - date published: 2025-01-21T21:23:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a friend that is learning about Kubernetes and wanted something practical to try and host/deploy. I wrote this little service for him to monitor his childs bloodsugar. I wanted to share it with the community in case anyone else wants to self-host it.</p> <p>There&#39;s a docker compose for spinning it up. Let me know what you think! <a href="https://github.com/downtime-industries/dexcom-dashboard">https://github.com/downtime-industries/dexcom-dashboard</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dtaivp"> /u/dtaivp </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6tqjm/dexcom_dashboard_for_my_insulin_tracking_friends/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6tqjm/dexcom_dashboard_for_my_insulin_tracking_friends/">[comments]</a></span>
+
+## Webtor is a web-based torrent-client with instant streaming capabilities
+ - [https://www.reddit.com/r/selfhosted/comments/1i6tk4u/webtor_is_a_webbased_torrentclient_with_instant](https://www.reddit.com/r/selfhosted/comments/1i6tk4u/webtor_is_a_webbased_torrentclient_with_instant)
+ - RSS feed: $source
+ - date published: 2025-01-21T21:16:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1i6tk4u/webtor_is_a_webbased_torrentclient_with_instant/"> <img src="https://external-preview.redd.it/Hgf2-mfi3NSnqJg2UdSiZ0Leni39o5v5vyLGZlg8tpc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=557d9fad8a583c9cb03137ba3cae0bd1d98eed05" alt="Webtor is a web-based torrent-client with instant streaming capabilities" title="Webtor is a web-based torrent-client with instant streaming capabilities" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Top_Garlic5431"> /u/Top_Garlic5431 </a> <br/> <span><a href="https://github.com/webtor-io/self-hosted">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6tk4u/webtor_is_a_webbased_torrentclient_with_instant/">[comments]</a></span> </td></tr></table>
+
+## Cool self hosted stuff
+ - [https://www.reddit.com/r/selfhosted/comments/1i6td0u/cool_self_hosted_stuff](https://www.reddit.com/r/selfhosted/comments/1i6td0u/cool_self_hosted_stuff)
+ - RSS feed: $source
+ - date published: 2025-01-21T21:08:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey all, </p> <p>I was just wanting to know of any self hosted apps that you use or know about hat might not be as popular as something like pi-hole, jellyfin, the -ARR stack, etc </p> <p>I just love trying out new programs and find it fun to explore new things that I may or may not have any knowledge about. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ImaginaryRaccoon2106"> /u/ImaginaryRaccoon2106 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6td0u/cool_self_hosted_stuff/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6td0u/cool_self_hosted_stuff/">[comments]</a></span>
+
+## Authentik user / email flow.
+ - [https://www.reddit.com/r/selfhosted/comments/1i6taul/authentik_user_email_flow](https://www.reddit.com/r/selfhosted/comments/1i6taul/authentik_user_email_flow)
+ - RSS feed: $source
+ - date published: 2025-01-21T21:05:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, I&#39;ve got Authentik setup and am able to manually add a user and then login with these details, getting access to a simple test website/application</p> <p>What I want to do now is send an invite email to a user and have them login and set a password etc. They should then get access to this application and others in future. </p> <p>There are some good videos on doing similar by Coopertonia on YouTube but they are out of date and do not use a lot of the current features in Authentik, hence I had trouble setting this up. </p> <p>I wonder if anybody can suggest some flows, templates etc and how to set this up? Many thanks D</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dirky_uk"> /u/dirky_uk </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6taul/authentik_user_email_flow/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6taul/authentik_user_emai
+
+## Server-oriented customizable templating for JavaScript - Alternative to HTMX and Alpine.js
+ - [https://www.reddit.com/r/selfhosted/comments/1i6tajs/serveroriented_customizable_templating_for](https://www.reddit.com/r/selfhosted/comments/1i6tajs/serveroriented_customizable_templating_for)
+ - RSS feed: $source
+ - date published: 2025-01-21T21:05:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>This template language will help reduce the file sizes of the final web applications, this is due to the concept of SSR (no robots). It differs from competitors in that it uses a modern standard for sending a request, as well as a fully customizable RequestInit. I would be interested to hear your opinion, thank you!</p> <p>Site: <a href="https://hmpl-lang.dev">https://hmpl-lang.dev</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JSMaster1337"> /u/JSMaster1337 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6tajs/serveroriented_customizable_templating_for/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6tajs/serveroriented_customizable_templating_for/">[comments]</a></span>
+
+## Transfer or Renew domain
+ - [https://www.reddit.com/r/selfhosted/comments/1i6t10g/transfer_or_renew_domain](https://www.reddit.com/r/selfhosted/comments/1i6t10g/transfer_or_renew_domain)
+ - RSS feed: $source
+ - date published: 2025-01-21T20:54:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have my .com domain on Namecheap which expires next month. Would it be better to renew it on Namecheap for $16.98 per year or transfer it to Spaceship for $9.98? From my understanding, transferring automatically adds a year to the domain. The renewal is $9.98 on Spaceship as well.</p> <p>This is the domain of a website I maintain for one of my clients. They would probably pay either amount. I know Namecheap to be reliable as I&#39;ve used it for some years. On the other hand, Spaceship is a Namecheap brand that started a few years ago. It is probably as reliable as Namecheap and got mostly good reviews. Besides, prices are better. </p> <p>What should be the better approach? Should I transfer it to Spaceship or renew at Namecheap</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Innocent_546"> /u/Innocent_546 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6t10g/transfer_or_renew_domain/"
+
+## [help] with some kind of vpn (not headscale)
+ - [https://www.reddit.com/r/selfhosted/comments/1i6syn9/help_with_some_kind_of_vpn_not_headscale](https://www.reddit.com/r/selfhosted/comments/1i6syn9/help_with_some_kind_of_vpn_not_headscale)
+ - RSS feed: $source
+ - date published: 2025-01-21T20:51:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>So the city I live in had a cyberattack more than a year ago that took out their public services for a better part of the year. They finally brought back public wifi at the libraries. </p> <p>For a good 6 months, I&#39;ve been able to work from the library no problem. They&#39;d blocked wireguard and UDP connections long before the cyber attack. </p> <p>To &quot;tighten up&quot; their security, they&#39;ve blocked openvpn connections too. Now I can&#39;t access my files at home. I can&#39;t connect to any games either. I don&#39;t know what the hell they did but I can&#39;t do anything except browse the internet. </p> <p>Somehow though, I can connect to mullvad vpn. While connected, it doesn&#39;t show that it&#39;s using obfuscation, so I&#39;m not sure how their connection is going through.</p> <p>I&#39;ve tried to setup headscale twice in the past and failed. I&#39;m wondering if anyone has any suggestions on what the hell to do.</p> </div><!-- SC
+
+## Best Software for hosting a Minecraft Server?
+ - [https://www.reddit.com/r/selfhosted/comments/1i6s8cb/best_software_for_hosting_a_minecraft_server](https://www.reddit.com/r/selfhosted/comments/1i6s8cb/best_software_for_hosting_a_minecraft_server)
+ - RSS feed: $source
+ - date published: 2025-01-21T20:21:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to selfhost a Minecraft Server for me and my friends. I want to have a modpack on it. Ive read somewhere aboutbout Pelican, would this be a good option?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Space_v2"> /u/Space_v2 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6s8cb/best_software_for_hosting_a_minecraft_server/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6s8cb/best_software_for_hosting_a_minecraft_server/">[comments]</a></span>
+
+## Looking to self host a webshop
+ - [https://www.reddit.com/r/selfhosted/comments/1i6s7by/looking_to_self_host_a_webshop](https://www.reddit.com/r/selfhosted/comments/1i6s7by/looking_to_self_host_a_webshop)
+ - RSS feed: $source
+ - date published: 2025-01-21T20:20:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>I currently run a webshop with WordPress and WooCommerce. Now, I&#39;m considering moving it to a self-hosted solution and opting for something simpler or with a smaller footprint. While WordPress offers numerous options and WooCommerce is free, it often feels like every opportunity is taken to charge for additional features.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/4618e78862"> /u/4618e78862 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6s7by/looking_to_self_host_a_webshop/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6s7by/looking_to_self_host_a_webshop/">[comments]</a></span>
+
+## Can TrueNAS Scale Be Installed and Used with a 2TB SATA SSD？
+ - [https://www.reddit.com/r/selfhosted/comments/1i6ry60/can_truenas_scale_be_installed_and_used_with_a](https://www.reddit.com/r/selfhosted/comments/1i6ry60/can_truenas_scale_be_installed_and_used_with_a)
+ - RSS feed: $source
+ - date published: 2025-01-21T20:09:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone. First of all, i am new to this kind of stuff. I have my own plex server which is brilliant no issues whatsoever. Now i want to get next cloud aswell. But trying to get it on my plex server , i was about to ruin it with the settings from the nextcloud instalatuons. And i decided to return everything to the previous backup.</p> <p>Now i am thinking to get something cheap from the internet and get truenas on it. Looking to get a Nipogi E1 minipc N150 with 32gb ram. I saw one on the internet close by to me for about $220 .</p> <p>My question is as such: will truenas scale work on it with the installation on the m.2 and as the storage to get a 2tb ssd sata?</p> <p>This is to learn and test the stuff up so i wont have issues when ill try to get it on my main server. Thanks.</p> <p>Sorry for the long message.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Minute_Ad_5783"> /u/Minute_Ad_5783 </a> <br/> <spa
+
+## Any JellyFin plugins to schedule media deleting and warn users?
+ - [https://www.reddit.com/r/selfhosted/comments/1i6rsh1/any_jellyfin_plugins_to_schedule_media_deleting](https://www.reddit.com/r/selfhosted/comments/1i6rsh1/any_jellyfin_plugins_to_schedule_media_deleting)
+ - RSS feed: $source
+ - date published: 2025-01-21T20:03:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;d like to be able to set a season for deleting in, for example, 30 days and have it warn users, maybe by putting them in a &quot;leaving soon&quot; collection or something, anything like this exist?</p> <p>EDIT: I&#39;m going to try <a href="https://github.com/Schaka/janitorr">https://github.com/Schaka/janitorr</a> and see how I get on.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PromaneX"> /u/PromaneX </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6rsh1/any_jellyfin_plugins_to_schedule_media_deleting/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6rsh1/any_jellyfin_plugins_to_schedule_media_deleting/">[comments]</a></span>
+
+## So I created a script to import recipes from Instagram into Tandoor
+ - [https://www.reddit.com/r/selfhosted/comments/1i6qejl/so_i_created_a_script_to_import_recipes_from](https://www.reddit.com/r/selfhosted/comments/1i6qejl/so_i_created_a_script_to_import_recipes_from)
+ - RSS feed: $source
+ - date published: 2025-01-21T19:07:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>Since I&#39;m too lazy to manually copy and paste recipes from food bloggers on Instagram into Tandoor, I created a little Python script that uses Duck AI to automate it.</p> <p>You can check it out here: <a href="https://github.com/doen1el/instagram-to-tandoor">https://github.com/doen1el/instagram-to-tandoor</a></p> <p>I plan to containerize it using Docker and develop a user-friendly front end in the future.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Broump"> /u/Broump </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6qejl/so_i_created_a_script_to_import_recipes_from/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6qejl/so_i_created_a_script_to_import_recipes_from/">[comments]</a></span>
+
+## Task manager with good iOS app?
+ - [https://www.reddit.com/r/selfhosted/comments/1i6p9s6/task_manager_with_good_ios_app](https://www.reddit.com/r/selfhosted/comments/1i6p9s6/task_manager_with_good_ios_app)
+ - RSS feed: $source
+ - date published: 2025-01-21T18:21:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all, did a search but could not find anything appropriate. I’m looking to migrate away from Microsoft ToDo, and looking for a task management with the following features: * Has an iOS app or integrates with the iOS reminder app (which leaves away Vikunja unfortunately) * Has sticky reminders via the app (I think they’re called critical reminders in iOS world) * Has recurring tasks (preferably cron style, or anyway more than just daily/weekly/monthly/yearly) * Subtasks * Multiple lists/projects * Tags * can quickly add a task via iOS widget or shortcut (Siri is a plus) * of course self hosted * is not part of Nextcloud suite (not deploying that big app just for tasks)</p> <p>any hints?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marmata75"> /u/marmata75 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6p9s6/task_manager_with_good_ios_app/">[link]</a></span> &#32; <span><a href="http
+
+## Freemium External Logging Options
+ - [https://www.reddit.com/r/selfhosted/comments/1i6oxj5/freemium_external_logging_options](https://www.reddit.com/r/selfhosted/comments/1i6oxj5/freemium_external_logging_options)
+ - RSS feed: $source
+ - date published: 2025-01-21T18:07:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>Yes, I realize it&#39;s not &#39;self&#39; hosting, sorry purists. I have a use case where traditional, on site log parser, collector, et al are just too much for it as far as operating resources. So, everything creates a log and I, by golly, want to see them, of course with charts n graphs. The last package I tried to self host was Splunk, which drove resource usage to a sustained 97%. Not much room for much else. Sucked, because Splunk looked like a really nice piece of software. </p> <p>If anyone has such a set up with external log parsers, do you have any favorites? Any one I should stay away from. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wild_Magician_4508"> /u/Wild_Magician_4508 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6oxj5/freemium_external_logging_options/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6oxj5/freemium_externa
+
+## Looking for an open source content service that handle storages, retrieve and manages various types of content like Images, video, PDfs JSON files
+ - [https://www.reddit.com/r/selfhosted/comments/1i6ovx6/looking_for_an_open_source_content_service_that](https://www.reddit.com/r/selfhosted/comments/1i6ovx6/looking_for_an_open_source_content_service_that)
+ - RSS feed: $source
+ - date published: 2025-01-21T18:05:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, currently looking for a an open source database or EDMS which version control, text extraction (turn PDF into text). Is there any good open source projects?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PeachFinal8611"> /u/PeachFinal8611 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6ovx6/looking_for_an_open_source_content_service_that/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6ovx6/looking_for_an_open_source_content_service_that/">[comments]</a></span>
+
+## Task manager with good iOS app?
+ - [https://www.reddit.com/r/selfhosted/comments/1i6ovmi/task_manager_with_good_ios_app](https://www.reddit.com/r/selfhosted/comments/1i6ovmi/task_manager_with_good_ios_app)
+ - RSS feed: $source
+ - date published: 2025-01-21T18:05:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all, did a search but could not find anything appropriate. I’m looking to migrate away from Microsoft ToDo, and looking for a task management with the following features: * Has an iOS app or integrates with the iOS reminder app (which leaves away Vikunja unfortunately) * Has sticky reminders via the app (I think they’re called critical reminders in iOS world) * Has recurring tasks (preferably cron style, or anyway more than just daily/weekly/monthly/yearly) * Subtasks * Multiple lists/projects * Tags * can quickly add a task via iOS widget or shortcut (Siri is a plus) * of course self hosted * is not part of Nextcloud suite (not deploying that big app just for tasks)</p> <p>any hints?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marmata75"> /u/marmata75 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6ovmi/task_manager_with_good_ios_app/">[link]</a></span> &#32; <span><a href="http
+
+## Gurubase - AI-Powered Q&A Assistants for Any Topic
+ - [https://www.reddit.com/r/selfhosted/comments/1i6o2v8/gurubase_aipowered_qa_assistants_for_any_topic](https://www.reddit.com/r/selfhosted/comments/1i6o2v8/gurubase_aipowered_qa_assistants_for_any_topic)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:33:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>A couple of months ago, we created <a href="http://Gurubase.io">Gurubase.io</a> to build RAG-based Q&amp;A agents focused on open-source tools, with the goal of helping developers learn and troubleshoot more effectively. Since then, it has gained momentum, with hundreds of repositories already <a href="https://github.com/Gurubase/gurubase?tab=readme-ov-file#used-by">using it</a> and showcasing it to their users.</p> <p>Today, we’ve released the entire system as an open-source project, allowing you to install it in your own infrastructure and create &quot;Gurus&quot; on any topic you choose.</p> <p><strong>Current capabilities of Gurubase:</strong></p> <ul> <li>You can create a Guru by powering it with PDFs, web pages, YouTube videos, or GitHub repositories.</li> <li>We present &quot;Binge&quot;, which visualizes your chat history as a node graph. You can navigate through it and create a personalized path.</li> <li>The system incl
+
+## How can I automatically tag music files with lyrics?
+ - [https://www.reddit.com/r/selfhosted/comments/1i6nzby/how_can_i_automatically_tag_music_files_with](https://www.reddit.com/r/selfhosted/comments/1i6nzby/how_can_i_automatically_tag_music_files_with)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:29:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I currently have my music hosted with Navidrome. I pull the music and most of the metadata from Deemix, but the lyrics aren&#39;t pulled with the songs. I have found tagging programs that I can manually pull the lyrics with, but these work inconsistently and they have to be started manually. Does anyone have a method they use to automatically pull song lyrics and tag files with them? Either on a schedule or when music is detected is fine. I run TrueNAS scale so Docker is preferred, but am open to other suggestions. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Live-Client-425"> /u/Live-Client-425 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6nzby/how_can_i_automatically_tag_music_files_with/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6nzby/how_can_i_automatically_tag_music_files_with/">[comments]</a></span>
+
+## Dawarich - multiple devices in one account ?
+ - [https://www.reddit.com/r/selfhosted/comments/1i6nusr/dawarich_multiple_devices_in_one_account](https://www.reddit.com/r/selfhosted/comments/1i6nusr/dawarich_multiple_devices_in_one_account)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:24:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I recently installed Dawarich on my proxmox and I really like it.</p> <p>But what I would like to do but didn&#39;t find out how so far is, if it is possible to see the current location (history) of multiple devices under one account? In my case, I would like to see my little son&#39;s location under my account. </p> <p>So what I tried so far is to to install owntracks on his mobile and log in with my account. But unfortunately I didn&#39;t see his second device in Dawarich even if it has a different device name. </p> <p>I know I can give him his own account, but then I would always need to log into his account to see his location (history). That&#39;s not my preferred solution.</p> <p>Does this feature - multiple devices in one account - exist already or is it planned to be implemented in the near future? </p> <p>Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/crypto-fenix"> /u/crypto-fenix </a> <br
+
+## What is the best way to easypanel monitoring? I would monitoring my apps too
+ - [https://www.reddit.com/r/selfhosted/comments/1i6nsmy/what_is_the_best_way_to_easypanel_monitoring_i](https://www.reddit.com/r/selfhosted/comments/1i6nsmy/what_is_the_best_way_to_easypanel_monitoring_i)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:22:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I am a new easypanel user and I was thinking about how monitor the server and my applications for free.<br/> For now I just thinking to use grafana, someone has a better solution?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Due_Can7600"> /u/Due_Can7600 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6nsmy/what_is_the_best_way_to_easypanel_monitoring_i/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6nsmy/what_is_the_best_way_to_easypanel_monitoring_i/">[comments]</a></span>
+
+## Self hosted server setup plan
+ - [https://www.reddit.com/r/selfhosted/comments/1i6n26z/self_hosted_server_setup_plan](https://www.reddit.com/r/selfhosted/comments/1i6n26z/self_hosted_server_setup_plan)
+ - RSS feed: $source
+ - date published: 2025-01-21T16:51:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a plan and I don&#39;t know if it will work or not. I will buy a vps then run tailscale on that connect that tailscale to my home server then the vps ip address will be the bridge so I can access my home server anywhere I go without me installing tailscale in my workstation.</p> <p>Can you please tell me if it will work or not.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bieeeeeeen"> /u/Bieeeeeeen </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6n26z/self_hosted_server_setup_plan/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6n26z/self_hosted_server_setup_plan/">[comments]</a></span>
+
+## I couldnt self host Jitsi meet or mirotalk please help
+ - [https://www.reddit.com/r/selfhosted/comments/1i6mzjb/i_couldnt_self_host_jitsi_meet_or_mirotalk_please](https://www.reddit.com/r/selfhosted/comments/1i6mzjb/i_couldnt_self_host_jitsi_meet_or_mirotalk_please)
+ - RSS feed: $source
+ - date published: 2025-01-21T16:48:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>hello, it&#39;s been more than one week and Im trying to self host these tools, I first started with jitsi, with docker, with clone, on a vm, on a ubuntu machine and nothing seems to be working<br/> then I switched to mirotalk but when I try to call the api i always get an error {&quot;error&quot;: &quot;This endpoint has been disabled. Please contact the administrator for further information.&quot;} and Im still waiting </p> <p>do you have any really guided and comprehensive guide on how to install any of these ? I feel stupid xdd</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/umbrellaellaaa"> /u/umbrellaellaaa </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6mzjb/i_couldnt_self_host_jitsi_meet_or_mirotalk_please/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6mzjb/i_couldnt_self_host_jitsi_meet_or_mirotalk_please/">[comments]</a></span>
+
+## Just in case it helps someone/ gives you some ideas: I build (and open sourced) IGOR - a highly scalable platform for tracking. Thought I'd share this with you, as you might find it useful to develop on.
+ - [https://www.reddit.com/r/selfhosted/comments/1i6mevm/just_in_case_it_helps_someone_gives_you_some](https://www.reddit.com/r/selfhosted/comments/1i6mevm/just_in_case_it_helps_someone_gives_you_some)
+ - RSS feed: $source
+ - date published: 2025-01-21T16:24:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1i6mevm/just_in_case_it_helps_someone_gives_you_some/"> <img src="https://a.thumbs.redditmedia.com/S8PrCRLxKHYnQciYtBrL2dwSY8LfwMNh61c8jkrGsv4.jpg" alt="Just in case it helps someone/ gives you some ideas: I build (and open sourced) IGOR - a highly scalable platform for tracking. Thought I'd share this with you, as you might find it useful to develop on." title="Just in case it helps someone/ gives you some ideas: I build (and open sourced) IGOR - a highly scalable platform for tracking. Thought I'd share this with you, as you might find it useful to develop on." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/pqzc0okxhdee1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=a20c3c2cc4b6d91784008b417b2ab40a3165725d">https://preview.redd.it/pqzc0okxhdee1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=a20c3c2cc4b6d91784008b417b2ab40a3165725d</a></p> <p>Hi Team</p> <p>I made a th
+
+## DeepSeek-R1 in Pinokio
+ - [https://www.reddit.com/r/selfhosted/comments/1i6m5b4/deepseekr1_in_pinokio](https://www.reddit.com/r/selfhosted/comments/1i6m5b4/deepseekr1_in_pinokio)
+ - RSS feed: $source
+ - date published: 2025-01-21T16:13:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>I hope this isn&#39;t an idiotic question, but I am running a few local AIs on OpenVMware in Pinokio. Got excited about Deepseek and ran it. It&#39;s sends API calls every query, which doesn&#39;t look very &quot;offline&quot; to me. I have run other LLMs without Pinokio, but it&#39;s so much easier and I love the GUI. But this is definitely not offline if it sends calls, right? Therefore not self-hosted? Is Pinokio itself ok or should I be more cautious and go the command line route? Non-condescending advice is appreciated, I&#39;m a teacher not an IT pro. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/uniliterate"> /u/uniliterate </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6m5b4/deepseekr1_in_pinokio/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6m5b4/deepseekr1_in_pinokio/">[comments]</a></span>
+
+## Looking for a combined start page and bookmark manager, akin to dashy and linkwarden
+ - [https://www.reddit.com/r/selfhosted/comments/1i6ly1y/looking_for_a_combined_start_page_and_bookmark](https://www.reddit.com/r/selfhosted/comments/1i6ly1y/looking_for_a_combined_start_page_and_bookmark)
+ - RSS feed: $source
+ - date published: 2025-01-21T16:04:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m currently using dashy and linkwarden separately. I&#39;d like to have a start page that shows me widgets like my server usage and vpn connection, has pinned bookmarks, bookmarks with multiple tags, search that can search my bookmarks or forward my search to a search engine, and can sync my bookmarks to my browser via extension. I&#39;ve checked the awesome self hosted list but I don&#39;t see anything that has all these features. Thanks in advance for the recommendations! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Toxin_X"> /u/Toxin_X </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6ly1y/looking_for_a_combined_start_page_and_bookmark/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6ly1y/looking_for_a_combined_start_page_and_bookmark/">[comments]</a></span>
+
+## Is there an open source digital calendar display?
+ - [https://www.reddit.com/r/selfhosted/comments/1i6lci9/is_there_an_open_source_digital_calendar_display](https://www.reddit.com/r/selfhosted/comments/1i6lci9/is_there_an_open_source_digital_calendar_display)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:38:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>This may not fall in to self hosting but could do. I have terrible memory for events, so I live out of my work calendar and personal calendar. I also forget to update the calendar which is counter productive but its because its all tucked away in apps. </p> <p>Is there some kind of open source display software or hardware that can display my google and O365 calendar? I see some insanely expensive first party ones that look like they would be bricked if the host company went under. </p> <p>I will accept creating a new personal calendar in a whole new software if it means I can have something that I will see every day. If I can link it with Home Assistant, that would be great but its not a deal breaker. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/conrat4567"> /u/conrat4567 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6lci9/is_there_an_open_source_digital_calendar_display/">[link]</
+
+## Is my PC good enough to run a JellyFin server ?
+ - [https://www.reddit.com/r/selfhosted/comments/1i6l8jd/is_my_pc_good_enough_to_run_a_jellyfin_server](https://www.reddit.com/r/selfhosted/comments/1i6l8jd/is_my_pc_good_enough_to_run_a_jellyfin_server)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:34:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello you people ! </p> <p>The company I work for is letting go some hardware, mostly Desktop computers some HP EliteDesk 800 G4 SFF. With 256GB NVMe SSD 16G of DDR4 RAM and an Intel i5-8500. </p> <p>The end goal here is to have jellyfin running in CasaOS with I hope 10bit HEVC 4K videos.<br/> From what i&#39;ve read, this system is totally able to achieve that, but Im kinda new to this so some confirmation is gonna be awesome. (Yes i&#39;m gonna had some HDD, I don&#39;t really need raid as I will only have 1 or 2TB (only one drive bay) and If i want to rewatch a movie I usually buy them in Blu-rays or DVDs.</p> <p>Also what VPN do y&#39;all recommand to remotely access the movies that will be stored on this ? TailScale ? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IsaacTheCrusader"> /u/IsaacTheCrusader </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6l8jd/is_my_pc_good_enough_to_r
+
+## Postfix and SMTP relay
+ - [https://www.reddit.com/r/selfhosted/comments/1i6l4d9/postfix_and_smtp_relay](https://www.reddit.com/r/selfhosted/comments/1i6l4d9/postfix_and_smtp_relay)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:28:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m trying to set up my postfix smtp. i have a domain. i set up dns records. after trying to send a test message to my own GMAIL account , postfix logs say that gmail smtp is unreachable , same for other platforms. I’m not using smtp relay (meaning im not sending mail using their smtp , im trying to use mine). could this be the problem? is it really impossible to send mail to other SMTPs without using smtp relay?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Soulmaster01"> /u/Soulmaster01 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6l4d9/postfix_and_smtp_relay/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6l4d9/postfix_and_smtp_relay/">[comments]</a></span>
+
+## PaperlessNGX: How to reset start index after deleting documents
+ - [https://www.reddit.com/r/selfhosted/comments/1i6l0m8/paperlessngx_how_to_reset_start_index_after](https://www.reddit.com/r/selfhosted/comments/1i6l0m8/paperlessngx_how_to_reset_start_index_after)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:24:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi guys, recently I had to remove a lot of documents which resulted in a very high starting index which triggers me when I add new documents now. Does anyone have any ideas on how to reset the index to the correct number of documents? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tobikrain"> /u/tobikrain </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6l0m8/paperlessngx_how_to_reset_start_index_after/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6l0m8/paperlessngx_how_to_reset_start_index_after/">[comments]</a></span>
+
+## Managing Secrets in Docker Compose — A Developer's Guide
+ - [https://www.reddit.com/r/selfhosted/comments/1i6k7bx/managing_secrets_in_docker_compose_a_developers](https://www.reddit.com/r/selfhosted/comments/1i6k7bx/managing_secrets_in_docker_compose_a_developers)
+ - RSS feed: $source
+ - date published: 2025-01-21T14:48:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1i6k7bx/managing_secrets_in_docker_compose_a_developers/"> <img src="https://external-preview.redd.it/GoSJAIcQHoA6d4BmUTqeKgYnPsOfX5S2ZPe3Rw0qGQw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=efac9bcbb06ac4eb022cb858c7d1db07adeab772" alt="Managing Secrets in Docker Compose — A Developer's Guide" title="Managing Secrets in Docker Compose — A Developer's Guide" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ascendence"> /u/ascendence </a> <br/> <span><a href="https://phase.dev/blog/docker-compose-secrets/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6k7bx/managing_secrets_in_docker_compose_a_developers/">[comments]</a></span> </td></tr></table>
+
+## reverse proxy
+ - [https://www.reddit.com/r/selfhosted/comments/1i6jbaa/reverse_proxy](https://www.reddit.com/r/selfhosted/comments/1i6jbaa/reverse_proxy)
+ - RSS feed: $source
+ - date published: 2025-01-21T14:06:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello so when i got the qnap NAS i installed a virtualisation station, i got a ubuntu 22.04.5 LTS running on it. And before i always reverse proxy-ed my websites and i wanted to do the same here but it just doesnt let me. The IP i was given is ofc the local ip and it doesnt work even when the website is working, i looked for my public IP, tried to connect and it didnt work. I host a lot of websites so i cant really work without the reverse proxy. If you know do i need to configure something in the settings or what because i really need to get this working. Thanks ps. i tried the tailscale and to reverse proxy that but nothing.</p> <p>i use node.js for the backend. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Weary-Bank-3415"> /u/Weary-Bank-3415 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6jbaa/reverse_proxy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhos
+
+## Many Notes v0.4.1 - Now supporting OAuth and more
+ - [https://www.reddit.com/r/selfhosted/comments/1i6hee7/many_notes_v041_now_supporting_oauth_and_more](https://www.reddit.com/r/selfhosted/comments/1i6hee7/many_notes_v041_now_supporting_oauth_and_more)
+ - RSS feed: $source
+ - date published: 2025-01-21T12:23:38+00:00
+
+<!-- SC_OFF --><div class="md"><blockquote> <p>Many Notes is a markdown note-taking app designed for simplicity!</p> </blockquote> <p>Here’s what changed:</p> <ul> <li><strong>OAuth</strong>: Many Notes now supports authentication via Facebook, Twitter, LinkedIn, Google, GitHub, GitLab, Bitbucket, and Slack.</li> <li><strong>Vaults in file system</strong>: A complete copy of all Vaults is now saved on the file system in addition to the database. The file system version serves as a backup against potential database corruption.</li> <li><strong>SQLite and bind mounts</strong>: The instructions now recommend using SQLite and bind mounts instead of MariaDB and Docker volumes. However, you can still use Docker volumes or MariaDB if you prefer.</li> <li><strong>Accents in names</strong>: Vault names and file names now support accents and require an alphanumeric character or an underscore as the first character.</li> </ul> <p><strong>Read the upgrading guide if you are upgrading from a prev
+
+## Calendar and Reminder with sharing feature
+ - [https://www.reddit.com/r/selfhosted/comments/1i6gp6m/calendar_and_reminder_with_sharing_feature](https://www.reddit.com/r/selfhosted/comments/1i6gp6m/calendar_and_reminder_with_sharing_feature)
+ - RSS feed: $source
+ - date published: 2025-01-21T11:40:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m on Radicale for almost 1 year. Now I need to share calendar and reminders with colleagues, and Radicale is not cutting it. </p> <p>Nor is Baikal. </p> <p>Any self host solutions out there? I checked awesome-selfhost, and it seems none is available. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/charleslcso"> /u/charleslcso </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6gp6m/calendar_and_reminder_with_sharing_feature/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6gp6m/calendar_and_reminder_with_sharing_feature/">[comments]</a></span>
+
+## Got DeepSeek R1 running locally - Full setup guide and my personal review (Free OpenAI o1 alternative that runs locally??)
+ - [https://www.reddit.com/r/selfhosted/comments/1i6ggyh/got_deepseek_r1_running_locally_full_setup_guide](https://www.reddit.com/r/selfhosted/comments/1i6ggyh/got_deepseek_r1_running_locally_full_setup_guide)
+ - RSS feed: $source
+ - date published: 2025-01-21T11:24:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1i6ggyh/got_deepseek_r1_running_locally_full_setup_guide/"> <img src="https://external-preview.redd.it/s0D7i4Rco0trWh9Bu1uEkgnoJJLA3UNKUA9vs57seII.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1b231518e5ed41e809cceeaa1c12bf32733c2345" alt="Got DeepSeek R1 running locally - Full setup guide and my personal review (Free OpenAI o1 alternative that runs locally??)" title="Got DeepSeek R1 running locally - Full setup guide and my personal review (Free OpenAI o1 alternative that runs locally??)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Just discovered DeepSeek R1 and I&#39;m pretty hyped about it. For those who don&#39;t know, it&#39;s a new <strong>open-source AI model that matches OpenAI o1 and Claude 3.5 Sonnet</strong> in math, coding, and reasoning tasks.</p> <p>You can check out Reddit to see what others are saying about DeepSeek R1 vs OpenAI o1 and Claude 3.5 Sonnet. For me it&#39;s really good - go
+
+## Immich backup too many files
+ - [https://www.reddit.com/r/selfhosted/comments/1i6fcgu/immich_backup_too_many_files](https://www.reddit.com/r/selfhosted/comments/1i6fcgu/immich_backup_too_many_files)
+ - RSS feed: $source
+ - date published: 2025-01-21T10:04:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1i6fcgu/immich_backup_too_many_files/"> <img src="https://preview.redd.it/3ul99ribmbee1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e3604d26c5f28c3cb240091a1ff5c8756d748d20" alt="Immich backup too many files" title="Immich backup too many files" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I have an immich server behind traefik, but it keeps uploading my files after they are all there... Total assets 2981 Backed up 3083 and counting</p> <p>What could cause this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ScorpionDreams"> /u/ScorpionDreams </a> <br/> <span><a href="https://i.redd.it/3ul99ribmbee1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6fcgu/immich_backup_too_many_files/">[comments]</a></span> </td></tr></table>
+
+## Looking for tv guide for a jellyfin server
+ - [https://www.reddit.com/r/selfhosted/comments/1i6f0om/looking_for_tv_guide_for_a_jellyfin_server](https://www.reddit.com/r/selfhosted/comments/1i6f0om/looking_for_tv_guide_for_a_jellyfin_server)
+ - RSS feed: $source
+ - date published: 2025-01-21T09:38:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I just introduced the tv capabilities to my jellyfin server trough a m3u list but I can&#39;t seem to find a good guide, I&#39;m in Italy and the guide provider I found online that should work (I found it on an emby forum). But adding this link or even decompressing the file and pointing to the XML does not seem to work anyone here can help?</p> <p>If it&#39;s helpful I will leave in the comment all the links that I used</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/InternalMode8159"> /u/InternalMode8159 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6f0om/looking_for_tv_guide_for_a_jellyfin_server/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6f0om/looking_for_tv_guide_for_a_jellyfin_server/">[comments]</a></span>
+
+## FileBrowser alternative?
+ - [https://www.reddit.com/r/selfhosted/comments/1i6ez2k/filebrowser_alternative](https://www.reddit.com/r/selfhosted/comments/1i6ez2k/filebrowser_alternative)
+ - RSS feed: $source
+ - date published: 2025-01-21T09:35:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello there, I’ve been using FileBrowser for about a year now and I’ve not really had many complaints with it. It’s simple and does what I need it to do, however I’m simply curious as to the alternatives. I do have some family and friends who wish to use it aswell and their main concern was security and privacy. That’s something I honestly believe FileBrowser is lacking. I tried out ZipLine and it seems cool but I’m just wondering what you guys like to use for file storage and sharing if anything at all?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Makhd0m"> /u/Makhd0m </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6ez2k/filebrowser_alternative/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6ez2k/filebrowser_alternative/">[comments]</a></span>
+
+## wol 🦭, a lightweight self-hosted tool to send Wake-On-LAN packets.
+ - [https://www.reddit.com/r/selfhosted/comments/1i6eiw3/wol_a_lightweight_selfhosted_tool_to_send](https://www.reddit.com/r/selfhosted/comments/1i6eiw3/wol_a_lightweight_selfhosted_tool_to_send)
+ - RSS feed: $source
+ - date published: 2025-01-21T09:00:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1i6eiw3/wol_a_lightweight_selfhosted_tool_to_send/"> <img src="https://external-preview.redd.it/GcX9QhJCF3xsuLg_s233S93qP2ZBQAIlQDTXiiA4PP0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=72facb4ebd26e35f665122cb2e907298aed74c56" alt="wol 🦭, a lightweight self-hosted tool to send Wake-On-LAN packets." title="wol 🦭, a lightweight self-hosted tool to send Wake-On-LAN packets." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theunknownbetrayed"> /u/theunknownbetrayed </a> <br/> <span><a href="https://github.com/Trugamr/wol">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6eiw3/wol_a_lightweight_selfhosted_tool_to_send/">[comments]</a></span> </td></tr></table>
+
+## Self-hosted markdown for guitar tabs
+ - [https://www.reddit.com/r/selfhosted/comments/1i6dqbp/selfhosted_markdown_for_guitar_tabs](https://www.reddit.com/r/selfhosted/comments/1i6dqbp/selfhosted_markdown_for_guitar_tabs)
+ - RSS feed: $source
+ - date published: 2025-01-21T07:59:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Kia ora!</p> <p>There&#39;s been a few posts over the years from people asking for self hosted options for a library of guitar tabs (or sheet music) and it doesn&#39;t look like there&#39;s much out there (if there is, I&#39;d be happy to find out!). I&#39;m noticing tabs disappearing from places like ultimate guitar, so keen to host a library for preservation and ease of access. </p> <p>But tabs are just text so I wondered if there&#39;s an option out there for markdown or note taking that would suit my needs - ideally I&#39;m looking for something with a tagging feature, or being able to define some variables in the frontmatter (like artists) to enable easy searching and structuring.</p> <p>Long term I&#39;m thinking about making something as a hobby project - being able to scrape tabs from urls would be handy - but in the meantime keen to see what&#39;s out there!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/us
+
+## K3S single node nixos cluster with flux
+ - [https://www.reddit.com/r/selfhosted/comments/1i6dpl0/k3s_single_node_nixos_cluster_with_flux](https://www.reddit.com/r/selfhosted/comments/1i6dpl0/k3s_single_node_nixos_cluster_with_flux)
+ - RSS feed: $source
+ - date published: 2025-01-21T07:57:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, just finished setting up my new home setup. Is anybody interested in a repo with a setup guide? Setup includes: a single node nixos running k3s with flux. It&#39;s nice because it&#39;s all highly reproduceable so no need for lots of backups. Just a git repo.</p> <p>The cluster itself is currently running the regular media stack (jellyfin jellyseer sonarr radarr and the others), home assistant, pinhole and homarr.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sheepster3"> /u/sheepster3 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6dpl0/k3s_single_node_nixos_cluster_with_flux/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6dpl0/k3s_single_node_nixos_cluster_with_flux/">[comments]</a></span>
+
+## Solution for Dual WAN with Maximum Speed with Synology
+ - [https://www.reddit.com/r/selfhosted/comments/1i6day4/solution_for_dual_wan_with_maximum_speed_with](https://www.reddit.com/r/selfhosted/comments/1i6day4/solution_for_dual_wan_with_maximum_speed_with)
+ - RSS feed: $source
+ - date published: 2025-01-21T07:26:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m trying to figure out the best way to access my Synology server from outside while maximizing the speed. I currently have two internet connections, but both are behind double NAT, which means I can’t open any ports.</p> <p>So far, I’ve tried using Tailscale, which works fine, but the speed isn’t great.</p> <p>Is there any way to make this setup work with the limitations I have? I’d really appreciate any suggestions or workarounds that could help.</p> <p>Thanks in advance!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thamers"> /u/thamers </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6day4/solution_for_dual_wan_with_maximum_speed_with/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6day4/solution_for_dual_wan_with_maximum_speed_with/">[comments]</a></span>
+
+## Monitoring recommendations
+ - [https://www.reddit.com/r/selfhosted/comments/1i6dap0/monitoring_recommendations](https://www.reddit.com/r/selfhosted/comments/1i6dap0/monitoring_recommendations)
+ - RSS feed: $source
+ - date published: 2025-01-21T07:26:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a small collection of services I am hosting on a mini PC here: proxmox, 1 VM for unifi &amp; uisp controllers, 1 VM running runtipi which runs various web apps and omada controller. In addition I need to keep a few websites monitored.</p> <p>So I installed uptime Kuma and was going to start configuring it but then I thought for a moment and wondered what was the port of running a monitoring tool on the same server as the services I want to monitor... Then I wondered if it should even be on the same network...</p> <p>So I came here to ask for ideas and inspiration! Thank you for anything you can share.</p> <p>P.s. once I have my monitoring all setup I will be looking to add some kind of dashboard that I will want to also show some numbers and stats from a couple of other services.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Meisner57"> /u/Meisner57 </a> <br/> <span><a href="https://www.reddit.com/r/sel
+
+## Using Glitch.com for your tech/product demos
+ - [https://www.reddit.com/r/selfhosted/comments/1i6czhi/using_glitchcom_for_your_techproduct_demos](https://www.reddit.com/r/selfhosted/comments/1i6czhi/using_glitchcom_for_your_techproduct_demos)
+ - RSS feed: $source
+ - date published: 2025-01-21T07:02:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been building an obsidian clone focused on collaboration</p> <p>I want it to be self hostable either on your own device or a free hosting providers like glitch.com</p> <p>the frontend and the backend are written in Gleam language the frontend is just a static website and we can use github pages for it and it will be fine </p> <h3>The problems i faced</h3> <p>Glitch is stuck at old versions of every package/language </p> <p>so i was using JavaScript servers that don&#39;t require node 16+ for syncing documents with CRDTs</p> <p>Also I don&#39;t like JavaScript and the app i am building is in Gleam a language that can compile to both JavaScript and Erlang </p> <p>I made the frontend of the app and the backend in the same language but i couldn&#39;t find a way to host Erlang servers on the free providers </p> <p>after asking on glitch support some awosome guy showed a way to install nixpkgs on glitch using insane hackary and installed the latest 
+
+## Need help to understand these traffics in nginx access log.
+ - [https://www.reddit.com/r/selfhosted/comments/1i6cjkq/need_help_to_understand_these_traffics_in_nginx](https://www.reddit.com/r/selfhosted/comments/1i6cjkq/need_help_to_understand_these_traffics_in_nginx)
+ - RSS feed: $source
+ - date published: 2025-01-21T06:31:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1i6cjkq/need_help_to_understand_these_traffics_in_nginx/"> <img src="https://b.thumbs.redditmedia.com/CsoxFzYqmQM8Ol78FoLF70fSIHkrgFYRNedEaTg1RGY.jpg" alt="Need help to understand these traffics in nginx access log." title="Need help to understand these traffics in nginx access log." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hi,</p> <p>When I inspected the nginx access.log today using <a href="https://goaccess.io/">goaccess</a> I saw these gambling sites shown up as referrers to my website.</p> <p>I don&#39;t understand how there can be a link between them and my site. At first, I thought they could have mis-configured the IP, but that seemed not the case because there were quite a lot of such sites (20+) in the stats.</p> <p>Can someone help me shed some light on what could be the reason here?</p> <p>Thank you!</p> <p><a href="https://preview.redd.it/cjybkj8gkaee1.png?width=779&amp;format=png&amp;auto=w
+
+## MinIO and Other Object Storage Solutions
+ - [https://www.reddit.com/r/selfhosted/comments/1i6c83g/minio_and_other_object_storage_solutions](https://www.reddit.com/r/selfhosted/comments/1i6c83g/minio_and_other_object_storage_solutions)
+ - RSS feed: $source
+ - date published: 2025-01-21T06:10:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m currently evaluating MinIO and other object storage systems for a project and would love to hear from developers or teams who’ve worked with these solutions.</p> <p>If you’ve implemented MinIO or similar systems, or even explored them as part of your decision-making process, I’d greatly appreciate learning about your use case, the challenges you faced, and how you arrived at your solution.</p> <p>Your insights could really help shape our evaluation process. Feel free to drop a comment or DM me if you’re open to sharing your experience.</p> <p>Thanks in advance for your help!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SaasMan87"> /u/SaasMan87 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6c83g/minio_and_other_object_storage_solutions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6c83g/minio_and_other_object_storage_solutions/">[comments
+
+## Migrate my home servers setup from smaller ssd to a new larger one
+ - [https://www.reddit.com/r/selfhosted/comments/1i6c7o6/migrate_my_home_servers_setup_from_smaller_ssd_to](https://www.reddit.com/r/selfhosted/comments/1i6c7o6/migrate_my_home_servers_setup_from_smaller_ssd_to)
+ - RSS feed: $source
+ - date published: 2025-01-21T06:09:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I have an old pc which I have repurposed as a simple home server. It is currently running Ubuntu 24.04 LTS on a 128 GB SSD.</p> <p>I have deployed the following services using portainer stacks,</p> <ul> <li>Jellyfin</li> <li>Immich</li> <li>Hoarder</li> <li>Audiobookshelf</li> <li>Plex</li> <li>Home Assistant</li> </ul> <p>Now any data or configs are currently stored or pointed to my 1 TB HDD rather than the ssd the os is on. So ideally all my configs and data are not going to be impacted.</p> <p>I want to basically install Ubuntu Server edition 24.04 on a new 500gb ssd. </p> <p>My understanding is that if I just install Ubuntu on the new 500gb ssd and then just deploy portainer again with all the stacks with correct volume paths, it should work as it is right?? </p> <p>Or will there be any issues. My major concern is immich. I have 100k+ photos and videos on a separate 2TB HDD which I don’t want to be impacted by the move or the immich app to be 
+
+## moOde Audio music scheduling w/raspberry pi
+ - [https://www.reddit.com/r/selfhosted/comments/1i6bz6r/moode_audio_music_scheduling_wraspberry_pi](https://www.reddit.com/r/selfhosted/comments/1i6bz6r/moode_audio_music_scheduling_wraspberry_pi)
+ - RSS feed: $source
+ - date published: 2025-01-21T05:55:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey <a href="/r/selfhosted">r/selfhosted</a>! Not sure if this is the right place, but i am trying to set up an audio system with <a href="https://moodeaudio.org/">moOde</a> on a <a href="https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/">Raspberry Pi Zero 2 W</a> for my dad&#39;s floral garden experience and I would like to set up a way to start the music at a certain time in the morning and end at another at night. Ive heard about cronjobs and making scripts but I am brand new to this space with linux and stuff like this. I am pretty into techy stuff and willing to learn. If anyone can point me into the right direction I would really appreciate it!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PBCodeMaster"> /u/PBCodeMaster </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6bz6r/moode_audio_music_scheduling_wraspberry_pi/">[link]</a></span> &#32; <span><a href="https://www.re
+
+## Communication between multiple hosts through podman
+ - [https://www.reddit.com/r/selfhosted/comments/1i6bwc0/communication_between_multiple_hosts_through](https://www.reddit.com/r/selfhosted/comments/1i6bwc0/communication_between_multiple_hosts_through)
+ - RSS feed: $source
+ - date published: 2025-01-21T05:50:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was trying to migrate from docker to podman. While I was using docker i could create a bridge network with same subnet on two different host machines and deploy containers on it for communication. It should work the same on podman according to documentation but that&#39;s not the case. </p> <p>I had to enable the container on vm1 to be able to communicate with a container on vm2. I also tried using tools like weave and flannel but they also wanted docker as a prerequisite.</p> <p>Any help is appreciated.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/krishna0129"> /u/krishna0129 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6bwc0/communication_between_multiple_hosts_through/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6bwc0/communication_between_multiple_hosts_through/">[comments]</a></span>
+
+## Looking for a selfhosted solution to quickly view a product's prices from different stores
+ - [https://www.reddit.com/r/selfhosted/comments/1i6b0kn/looking_for_a_selfhosted_solution_to_quickly_view](https://www.reddit.com/r/selfhosted/comments/1i6b0kn/looking_for_a_selfhosted_solution_to_quickly_view)
+ - RSS feed: $source
+ - date published: 2025-01-21T04:56:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone, one very tedious thing I often do when there&#39;s something I want to buy is to look up the item&#39;s prices from different stores. I was hoping there&#39;s a selfhosted solution out there that you guys are aware of that could help me simplify this for me.</p> <p>Ideally, I would search for an item I want to buy and it will show me all of the stores that item is available at and the prices as well. If I could sort by price that would be wonderful. But I really want to be able to perform just one search and get all the prices (even if it&#39;s just the mainstream stores) instead of searching one by one like <code>&lt;item&gt; walmart</code> or <code>&lt;item&gt; bestbuy</code> or <code>&lt;item&gt; target</code>, etc.</p> <p>It&#39;s not a huge pain but I figured someone must have already built a solution for such a common thing.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hirakath"> /u/hirakat
+
+## Selfhoated Options for Time Tracking, Payroll, Expenses, etc.
+ - [https://www.reddit.com/r/selfhosted/comments/1i6apsm/selfhoated_options_for_time_tracking_payroll](https://www.reddit.com/r/selfhosted/comments/1i6apsm/selfhoated_options_for_time_tracking_payroll)
+ - RSS feed: $source
+ - date published: 2025-01-21T04:39:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I&#39;ve currently got Ragic setup which allows me to build some specific business tools. </p> <p>But before I do, is there any good self hosted (preferably also cloud to trial) options for Time and project time tracking? Something suitable may also include but doesn&#39;t have to, expense management, payroll, reporting, etc...</p> <p>And suggestions welcome.</p> <p>Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Extra_Upstairs4075"> /u/Extra_Upstairs4075 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6apsm/selfhoated_options_for_time_tracking_payroll/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i6apsm/selfhoated_options_for_time_tracking_payroll/">[comments]</a></span>
+
+## OpenLiteSpeed reverse proxy with URL prefix?
+ - [https://www.reddit.com/r/selfhosted/comments/1i69wb0/openlitespeed_reverse_proxy_with_url_prefix](https://www.reddit.com/r/selfhosted/comments/1i69wb0/openlitespeed_reverse_proxy_with_url_prefix)
+ - RSS feed: $source
+ - date published: 2025-01-21T03:54:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I&#39;m trying to set up a reverse proxy on my OLS web server to ensure I can access a phpymadmin docker container securely. The idea is for phpmyadmin to be available under <a href="http://example.com/phpymadmin">example.com/phpymadmin</a> in a secure realm. However, as soon as I launch the config, PHPMyAdmin throws 404 errors, ostensibly as a result of being in a subdirectory rather than the document root.</p> <p>In order to resolve this, I thought I&#39;d try a rewrite rule to strip the /phpmyadmin prefix, but this doesn&#39;t work and gives me 404 errors:</p> <pre><code>RewriteEngine On RewriteRule ^/phpmyadmin/(.*)$ /$1 [L] </code></pre> <p>Apparently, OLS performs the rewrite rule first, and as a result the request never reaches the proxy, which explains why I get a server 404. I&#39;ve tried changing the whole setup to a rewrite-only proxy instead of a context, but this doesn&#39;t seem to work completely either, as for some rea
+
+## cockpit libvirt issues
+ - [https://www.reddit.com/r/selfhosted/comments/1i68z09/cockpit_libvirt_issues](https://www.reddit.com/r/selfhosted/comments/1i68z09/cockpit_libvirt_issues)
+ - RSS feed: $source
+ - date published: 2025-01-21T03:04:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Host OS: Ubuntu Server 24.04.1</p> <p>1) Virtual Machines will sometimes refuse to shutdown from Cockpit. Even if I force quit they still show as running. They appear to release the RAM and CPU resources but I can&#39;t edit the machine or restart it until I simply reboot the host. </p> <p>2) I tried to burn a DVD from a linux VM using the DVD drive that is connected to the host SATA bus. I couldn&#39;t get it to work any which way I tried. I ended up adding a little PCIe SATA card to the machine and connected the drive to it then passed the entire SATA card to the VM and was able to make it work. But I don&#39;t want to burn up a PCIe port just for this function. Is it always this hard to pass hardware through to the VM?</p> <p>3) I&#39;ve had weird issues with simply trying to pass a USB stick to a VM. I can&#39;t seem to simply insert a stick and then pass it through to a running VM; I had to boot the host with the stick inserted and when I tried 
+
+## opencv2-posture-corrector
+ - [https://www.reddit.com/r/selfhosted/comments/1i68b72/opencv2posturecorrector](https://www.reddit.com/r/selfhosted/comments/1i68b72/opencv2posturecorrector)
+ - RSS feed: $source
+ - date published: 2025-01-21T02:31:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey all,</p> <p>As a remote worker, I have found myself slouching and getting nerd neck. This is an attempt to get rid of that. This creates a toolbar application that allows you to change intervals of how often your webcam tracks and recommends a posture check. Any and all feedback is appreciated.</p> <p><a href="https://github.com/wtbates99/opencv2-posture-corrector">https://github.com/wtbates99/opencv2-posture-corrector</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Brief-Title9622"> /u/Brief-Title9622 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1i68b72/opencv2posturecorrector/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i68b72/opencv2posturecorrector/">[comments]</a></span>
+

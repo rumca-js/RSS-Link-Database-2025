@@ -1,0 +1,16 @@
+# Source:The RISC-V Instruction Set Architecture, URL:https://www.reddit.com/r/RISCV/.rss, language:en
+
+## [Rumor] Arm’s Reported 300% Price Hike Could Threaten the Future of Samsung’s Exynos Chips
+ - [https://www.reddit.com/r/RISCV/comments/1i6qvnn/rumor_arms_reported_300_price_hike_could_threaten](https://www.reddit.com/r/RISCV/comments/1i6qvnn/rumor_arms_reported_300_price_hike_could_threaten)
+ - RSS feed: $source
+ - date published: 2025-01-21T19:26:52+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.trendforce.com/news/2025/01/21/news-arms-reported-300-price-hike-could-threaten-the-future-of-samsungs-exynos-chips/">https://www.trendforce.com/news/2025/01/21/news-arms-reported-300-price-hike-could-threaten-the-future-of-samsungs-exynos-chips/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nerd_mister"> /u/Nerd_mister </a> <br/> <span><a href="https://www.reddit.com/r/RISCV/comments/1i6qvnn/rumor_arms_reported_300_price_hike_could_threaten/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1i6qvnn/rumor_arms_reported_300_price_hike_could_threaten/">[comments]</a></span>
+
+## Connecting to multiple riscv devices over USB from same computer
+ - [https://www.reddit.com/r/RISCV/comments/1i6ae69/connecting_to_multiple_riscv_devices_over_usb](https://www.reddit.com/r/RISCV/comments/1i6ae69/connecting_to_multiple_riscv_devices_over_usb)
+ - RSS feed: $source
+ - date published: 2025-01-21T04:21:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all, I&#39;ve been messing around with some milkv duos and am having trouble accessing multiple riscv devices that are connected to my computer at the same time. So basically if I have one device connected, I am able to ssh to it by ip and everything is fine. But when I connect two devices, only one of them is reachable and able to ping my laptop. I have some scripts that run on each device to ping my local laptop on boot up, but I only ever receive a ping from one of the devices. Once I disconnect one device, the other is able to ping. I also updated the Linux os on each to have unique ip addresses and each is reachable when only one is plugged in. The other interesting thing is that running lsusb shows both devices connected. Curious if anyone has any idea what could be going on?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WannaWatchMeCode"> /u/WannaWatchMeCode </a> <br/> <span><a href="https://www.redd
+

@@ -1,0 +1,289 @@
+# Source:Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Elon Musk Sure Isn’t Denying That His Inaugural Gesture Was a Nazi Salute
+ - [https://www.reddit.com/r/politics/comments/1i6uftn/elon_musk_sure_isnt_denying_that_his_inaugural](https://www.reddit.com/r/politics/comments/1i6uftn/elon_musk_sure_isnt_denying_that_his_inaugural)
+ - RSS feed: $source
+ - date published: 2025-01-21T21:52:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6uftn/elon_musk_sure_isnt_denying_that_his_inaugural/"> <img src="https://external-preview.redd.it/BbYr97cEyrMoIHwvhNUT5wUJKHFFFYAcEzX_EeEJrek.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f532ffccb32bd75a5d899ce27bb722f24164df4" alt="Elon Musk Sure Isn’t Denying That His Inaugural Gesture Was a Nazi Salute" title="Elon Musk Sure Isn’t Denying That His Inaugural Gesture Was a Nazi Salute" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/michkennedy"> /u/michkennedy </a> <br/> <span><a href="https://www.vanityfair.com/style/story/elon-musk-inauguration-gesture-nazi-salute?srsltid=AfmBOoqdFWFUT_6axExBwkbcDeDHcrEid5fYD1QUIwoDq0tAIftQScYf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6uftn/elon_musk_sure_isnt_denying_that_his_inaugural/">[comments]</a></span> </td></tr></table>
+
+## "It was a Nazi salute": Historian dismisses claim that Musk's raised arm was mere "awkward gesture": "Historian of fascism here. It was a Nazi salute and a very belligerent one too," wrote NYU's Ruth Ben-Ghiat
+ - [https://www.reddit.com/r/politics/comments/1i6rhi2/it_was_a_nazi_salute_historian_dismisses_claim](https://www.reddit.com/r/politics/comments/1i6rhi2/it_was_a_nazi_salute_historian_dismisses_claim)
+ - RSS feed: $source
+ - date published: 2025-01-21T19:51:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6rhi2/it_was_a_nazi_salute_historian_dismisses_claim/"> <img src="https://external-preview.redd.it/gyXMfGeeg0yHJrW2dF4Gq64vUV1ihpX1QbF__e07kAE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4e3341ca5138b5c3279474b06db7a5cce9216a7" alt="&quot;It was a Nazi salute&quot;: Historian dismisses claim that Musk's raised arm was mere &quot;awkward gesture&quot;: &quot;Historian of fascism here. It was a Nazi salute and a very belligerent one too,&quot; wrote NYU's Ruth Ben-Ghiat" title="&quot;It was a Nazi salute&quot;: Historian dismisses claim that Musk's raised arm was mere &quot;awkward gesture&quot;: &quot;Historian of fascism here. It was a Nazi salute and a very belligerent one too,&quot; wrote NYU's Ruth Ben-Ghiat" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wanda999"> /u/wanda999 </a> <br/> <span><a href="https://www.salon.com/2025/01/21/it-was-a-nazi-salute-historian-dismis
+
+## Elon Musk's 'Government Efficiency' Department Revealed to Be a Renamed Obama Agency Tasked with Updating Software
+ - [https://www.reddit.com/r/politics/comments/1i6rb5a/elon_musks_government_efficiency_department](https://www.reddit.com/r/politics/comments/1i6rb5a/elon_musks_government_efficiency_department)
+ - RSS feed: $source
+ - date published: 2025-01-21T19:44:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6rb5a/elon_musks_government_efficiency_department/"> <img src="https://external-preview.redd.it/5qq0BkjbC5j-b3GtLzdNgclt1hxhELu0nt9jBKa1OcU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c61ca5f66c365b9e4788a278f92dfdc1f04e6959" alt="Elon Musk's 'Government Efficiency' Department Revealed to Be a Renamed Obama Agency Tasked with Updating Software" title="Elon Musk's 'Government Efficiency' Department Revealed to Be a Renamed Obama Agency Tasked with Updating Software" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PostHeraldTimes"> /u/PostHeraldTimes </a> <br/> <span><a href="https://www.ibtimes.com/elon-musks-government-efficiency-department-revealed-renamed-obama-agency-tasked-updating-3760256">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6rb5a/elon_musks_government_efficiency_department/">[comments]</a></span> </td></tr></table>
+
+## Bishop rebukes Trump at service, asks him to ‘have mercy’ on LGBT people, illegal immigrants
+ - [https://www.reddit.com/r/politics/comments/1i6r731/bishop_rebukes_trump_at_service_asks_him_to_have](https://www.reddit.com/r/politics/comments/1i6r731/bishop_rebukes_trump_at_service_asks_him_to_have)
+ - RSS feed: $source
+ - date published: 2025-01-21T19:39:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6r731/bishop_rebukes_trump_at_service_asks_him_to_have/"> <img src="https://external-preview.redd.it/yhZroOZIxOI5xheNONVeEliEc4diQPu69c1xMbvwrlc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b6d7462aabebfffc42169ba9193a7b4e416a506" alt="Bishop rebukes Trump at service, asks him to ‘have mercy’ on LGBT people, illegal immigrants" title="Bishop rebukes Trump at service, asks him to ‘have mercy’ on LGBT people, illegal immigrants" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wanda999"> /u/wanda999 </a> <br/> <span><a href="https://www.christianpost.com/news/bishop-rebukes-trump-asks-him-to-have-mercy-on-trans-kids.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6r731/bishop_rebukes_trump_at_service_asks_him_to_have/">[comments]</a></span> </td></tr></table>
+
+## Washington National Cathedral Bishop Calls Out Trump to His Face
+ - [https://www.reddit.com/r/politics/comments/1i6r3hs/washington_national_cathedral_bishop_calls_out](https://www.reddit.com/r/politics/comments/1i6r3hs/washington_national_cathedral_bishop_calls_out)
+ - RSS feed: $source
+ - date published: 2025-01-21T19:35:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6r3hs/washington_national_cathedral_bishop_calls_out/"> <img src="https://external-preview.redd.it/rHme8HteAQsB0q4FhWYpOuoNmZOpsAb26E3Q_Xj7mqY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d6eefe9f9a2db4a2258f5c4ecbb8546b825ccc08" alt="Washington National Cathedral Bishop Calls Out Trump to His Face" title="Washington National Cathedral Bishop Calls Out Trump to His Face" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br/> <span><a href="https://www.rollingstone.com/politics/politics-news/washington-national-cathedral-bishop-trump-1235242803/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6r3hs/washington_national_cathedral_bishop_calls_out/">[comments]</a></span> </td></tr></table>
+
+## President Trump has terminated the Secret Service detail protecting his former national security adviser John Bolton, who had faced threats from Iran
+ - [https://www.reddit.com/r/politics/comments/1i6qnyw/president_trump_has_terminated_the_secret_service](https://www.reddit.com/r/politics/comments/1i6qnyw/president_trump_has_terminated_the_secret_service)
+ - RSS feed: $source
+ - date published: 2025-01-21T19:17:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6qnyw/president_trump_has_terminated_the_secret_service/"> <img src="https://external-preview.redd.it/24v65sV1rQi4b0BcOaWQSrypdxz6hRelRhvX9QXFC6w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=adf1050280a632f5274ae18da5d7ed4094d9afb1" alt="President Trump has terminated the Secret Service detail protecting his former national security adviser John Bolton, who had faced threats from Iran" title="President Trump has terminated the Secret Service detail protecting his former national security adviser John Bolton, who had faced threats from Iran" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jq1984_is_me"> /u/jq1984_is_me </a> <br/> <span><a href="https://www.cnn.com/2025/01/21/politics/john-bolton-security-detail-trump">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6qnyw/president_trump_has_terminated_the_secret_service/">[comments]</a></span> 
+
+## Senators have received affidavit containing new allegations against Pete Hegseth, who denies the claims
+ - [https://www.reddit.com/r/politics/comments/1i6q3sy/senators_have_received_affidavit_containing_new](https://www.reddit.com/r/politics/comments/1i6q3sy/senators_have_received_affidavit_containing_new)
+ - RSS feed: $source
+ - date published: 2025-01-21T18:55:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6q3sy/senators_have_received_affidavit_containing_new/"> <img src="https://external-preview.redd.it/COH1-Y6BDvT5F4h2ekLuYKtVhoMMAz8r0Afd65PG_jE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a0b4028091ab1bd94dd9796eb8cc5ab31b65ff6b" alt="Senators have received affidavit containing new allegations against Pete Hegseth, who denies the claims" title="Senators have received affidavit containing new allegations against Pete Hegseth, who denies the claims" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tushball101"> /u/tushball101 </a> <br/> <span><a href="https://www.nbcnews.com/politics/national-security/senators-received-affidavit-containing-new-allegations-pete-hegseth-de-rcna188342">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6q3sy/senators_have_received_affidavit_containing_new/">[comments]</a></span> </td></tr></table>
+
+## Republicans Suddenly Illiterate After Trump’s January 6 Pardons
+ - [https://www.reddit.com/r/politics/comments/1i6pq69/republicans_suddenly_illiterate_after_trumps](https://www.reddit.com/r/politics/comments/1i6pq69/republicans_suddenly_illiterate_after_trumps)
+ - RSS feed: $source
+ - date published: 2025-01-21T18:39:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6pq69/republicans_suddenly_illiterate_after_trumps/"> <img src="https://external-preview.redd.it/y42uoW34WztLlx3lh7l5J2awt7xKYRKzNqPpesKCBB0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a7b129bd1d02bad8b18c79e409c3a56967a3d9b" alt="Republicans Suddenly Illiterate After Trump’s January 6 Pardons" title="Republicans Suddenly Illiterate After Trump’s January 6 Pardons" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thenewrepublic"> /u/thenewrepublic </a> <br/> <span><a href="https://newrepublic.com/post/190494/republican-reactions-trump-january-6-pardons">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6pq69/republicans_suddenly_illiterate_after_trumps/">[comments]</a></span> </td></tr></table>
+
+## ‘QAnon Shaman’ says he’s buying ‘motha f‑‑‑in guns’ after Trump pardon
+ - [https://www.reddit.com/r/politics/comments/1i6op4d/qanon_shaman_says_hes_buying_motha_fin_guns_after](https://www.reddit.com/r/politics/comments/1i6op4d/qanon_shaman_says_hes_buying_motha_fin_guns_after)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:58:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6op4d/qanon_shaman_says_hes_buying_motha_fin_guns_after/"> <img src="https://external-preview.redd.it/JzwxBQT5Jl_9qRlVaryzNaQQfRjTkDEVj5dAxYsY3q4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=132f80781a2af5f2b73ac3b027f0279d3ab4ae5e" alt="‘QAnon Shaman’ says he’s buying ‘motha f‑‑‑in guns’ after Trump pardon" title="‘QAnon Shaman’ says he’s buying ‘motha f‑‑‑in guns’ after Trump pardon" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/powerslave-1"> /u/powerslave-1 </a> <br/> <span><a href="https://thehill.com/regulation/court-battles/5097857-jacob-chansley-qanon-shaman-donald-trump-pardon-guns/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6op4d/qanon_shaman_says_hes_buying_motha_fin_guns_after/">[comments]</a></span> </td></tr></table>
+
+## In Trump’s America, the Oligarchy Is Done Pretending to Care About You
+ - [https://www.reddit.com/r/politics/comments/1i6oi7i/in_trumps_america_the_oligarchy_is_done](https://www.reddit.com/r/politics/comments/1i6oi7i/in_trumps_america_the_oligarchy_is_done)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:50:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6oi7i/in_trumps_america_the_oligarchy_is_done/"> <img src="https://external-preview.redd.it/Y_IemdEKTITYff1mRNJtpyhJWXH0wv436frdUmhLkG4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1f6e2315a18ce24ac57ab024795f0d7514bfbe0" alt="In Trump’s America, the Oligarchy Is Done Pretending to Care About You" title="In Trump’s America, the Oligarchy Is Done Pretending to Care About You" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br/> <span><a href="https://www.rollingstone.com/politics/politics-features/trump-oligarchs-musk-bezos-zuckerberg-1235242625/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6oi7i/in_trumps_america_the_oligarchy_is_done/">[comments]</a></span> </td></tr></table>
+
+## Anti-Trump Searches Appear Hidden on TikTok After App Comes Back Online: 'TikTok is Now Trump's Propaganda'
+ - [https://www.reddit.com/r/politics/comments/1i6o9cz/antitrump_searches_appear_hidden_on_tiktok_after](https://www.reddit.com/r/politics/comments/1i6o9cz/antitrump_searches_appear_hidden_on_tiktok_after)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:41:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6o9cz/antitrump_searches_appear_hidden_on_tiktok_after/"> <img src="https://external-preview.redd.it/jQ_LbH5C_f3zk3EGeLf7GzlZqG9bdlJ2aCnMZFRS8Hc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e0ef0446d73aa5d360c4a6b7b9d50f5fcba3d3b" alt="Anti-Trump Searches Appear Hidden on TikTok After App Comes Back Online: 'TikTok is Now Trump's Propaganda'" title="Anti-Trump Searches Appear Hidden on TikTok After App Comes Back Online: 'TikTok is Now Trump's Propaganda'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PostHeraldTimes"> /u/PostHeraldTimes </a> <br/> <span><a href="https://www.ibtimes.com/anti-trump-searches-appear-hidden-tiktok-after-app-comes-back-online-tiktok-now-trumps-3760257">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6o9cz/antitrump_searches_appear_hidden_on_tiktok_after/">[comments]</a></span> </td></tr></table>
+
+## Trump misses his own deadline to end Ukraine war
+ - [https://www.reddit.com/r/politics/comments/1i6nxa6/trump_misses_his_own_deadline_to_end_ukraine_war](https://www.reddit.com/r/politics/comments/1i6nxa6/trump_misses_his_own_deadline_to_end_ukraine_war)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:27:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6nxa6/trump_misses_his_own_deadline_to_end_ukraine_war/"> <img src="https://external-preview.redd.it/-8XkeHoA518cCfB8IbPxOyd7z8NRPef2ZJknjACqSLk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c757f3e3ed9973ab7dc7d90ebddad2a3c143a333" alt="Trump misses his own deadline to end Ukraine war" title="Trump misses his own deadline to end Ukraine war" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Usawasfun"> /u/Usawasfun </a> <br/> <span><a href="https://www.cnn.com/2025/01/21/politics/trump-misses-deadline-to-end-ukraine-war/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6nxa6/trump_misses_his_own_deadline_to_end_ukraine_war/">[comments]</a></span> </td></tr></table>
+
+## "It was a Nazi salute": Historian dismisses claim that Musk's raised arm was mere "awkward gesture"
+ - [https://www.reddit.com/r/politics/comments/1i6nvhw/it_was_a_nazi_salute_historian_dismisses_claim](https://www.reddit.com/r/politics/comments/1i6nvhw/it_was_a_nazi_salute_historian_dismisses_claim)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:25:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6nvhw/it_was_a_nazi_salute_historian_dismisses_claim/"> <img src="https://external-preview.redd.it/gyXMfGeeg0yHJrW2dF4Gq64vUV1ihpX1QbF__e07kAE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4e3341ca5138b5c3279474b06db7a5cce9216a7" alt="&quot;It was a Nazi salute&quot;: Historian dismisses claim that Musk's raised arm was mere &quot;awkward gesture&quot;" title="&quot;It was a Nazi salute&quot;: Historian dismisses claim that Musk's raised arm was mere &quot;awkward gesture&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br/> <span><a href="https://www.salon.com/2025/01/21/it-was-a-nazi-salute-historian-dismisses-claim-that-musks-raised-arm-was-mere-awkward-gesture/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6nvhw/it_was_a_nazi_salute_historian_dismisses_claim/">[comments]</a></span> </td></tr></table>
+
+## Instagram Hides 'Democrats' from Search Results Hours After Zuckerberg Attends Trump Inauguration
+ - [https://www.reddit.com/r/politics/comments/1i6nhlf/instagram_hides_democrats_from_search_results](https://www.reddit.com/r/politics/comments/1i6nhlf/instagram_hides_democrats_from_search_results)
+ - RSS feed: $source
+ - date published: 2025-01-21T17:09:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6nhlf/instagram_hides_democrats_from_search_results/"> <img src="https://external-preview.redd.it/vK_MuhvZDd-h4JiVJXCz72jYTHGqdH1ZnbxOvntvoy4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4ef743a64f6685fa1b6b1a126306e0b458889400" alt="Instagram Hides 'Democrats' from Search Results Hours After Zuckerberg Attends Trump Inauguration" title="Instagram Hides 'Democrats' from Search Results Hours After Zuckerberg Attends Trump Inauguration" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PostHeraldTimes"> /u/PostHeraldTimes </a> <br/> <span><a href="https://www.ibtimes.com/instagram-hides-democrats-search-results-hours-after-zuckerberg-attends-trump-inauguration-3760247">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6nhlf/instagram_hides_democrats_from_search_results/">[comments]</a></span> </td></tr></table>
+
+## Constitution removed from White House website
+ - [https://www.reddit.com/r/politics/comments/1i6n7b2/constitution_removed_from_white_house_website](https://www.reddit.com/r/politics/comments/1i6n7b2/constitution_removed_from_white_house_website)
+ - RSS feed: $source
+ - date published: 2025-01-21T16:57:31+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/alien_eyes_d"> /u/alien_eyes_d </a> <br/> <span><a href="https://www.whitehouse.gov/about-the-white-house/our-government/the-constitution/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6n7b2/constitution_removed_from_white_house_website/">[comments]</a></span>
+
+## Donald Trump Starts his Presidency by Declaring War on the LGBTQ+ Community & Democracy
+ - [https://www.reddit.com/r/politics/comments/1i6n3ax/donald_trump_starts_his_presidency_by_declaring](https://www.reddit.com/r/politics/comments/1i6n3ax/donald_trump_starts_his_presidency_by_declaring)
+ - RSS feed: $source
+ - date published: 2025-01-21T16:52:42+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Ananiujitha"> /u/Ananiujitha </a> <br/> <span><a href="https://www.lgbtqnation.com/2025/01/donald-trump-starts-his-presidency-by-declaring-war-on-the-lgbtq-community-democracy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6n3ax/donald_trump_starts_his_presidency_by_declaring/">[comments]</a></span>
+
+## Trump sued by pregnant women and civil rights groups over ‘flagrantly illegal’ birthright citizenship order
+ - [https://www.reddit.com/r/politics/comments/1i6mkg1/trump_sued_by_pregnant_women_and_civil_rights](https://www.reddit.com/r/politics/comments/1i6mkg1/trump_sued_by_pregnant_women_and_civil_rights)
+ - RSS feed: $source
+ - date published: 2025-01-21T16:30:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6mkg1/trump_sued_by_pregnant_women_and_civil_rights/"> <img src="https://external-preview.redd.it/klKF-Z2Ki49ix374wqoOGNEXdFvL9HkDI94xULGL7Qk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aaca20b07024aca71e19f7f01b181e3b86ecd12b" alt="Trump sued by pregnant women and civil rights groups over ‘flagrantly illegal’ birthright citizenship order" title="Trump sued by pregnant women and civil rights groups over ‘flagrantly illegal’ birthright citizenship order" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theindependentonline"> /u/theindependentonline </a> <br/> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/birthright-citizenship-lawsuit-trump-executive-order-b2683604.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6mkg1/trump_sued_by_pregnant_women_and_civil_rights/">[comments]</a></span> </td></tr></table>
+
+## Trump Prepares To Strip Job Protections For Tens Of Thousands Of Government Employees
+ - [https://www.reddit.com/r/politics/comments/1i6lmc3/trump_prepares_to_strip_job_protections_for_tens](https://www.reddit.com/r/politics/comments/1i6lmc3/trump_prepares_to_strip_job_protections_for_tens)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:50:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6lmc3/trump_prepares_to_strip_job_protections_for_tens/"> <img src="https://external-preview.redd.it/81e5SGcqz0RvpnqnERS6GQA3kkia0Y8TAZfwAOoQY4Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3bbf558826a94527806265ed69f859d01bb0190d" alt="Trump Prepares To Strip Job Protections For Tens Of Thousands Of Government Employees" title="Trump Prepares To Strip Job Protections For Tens Of Thousands Of Government Employees" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br/> <span><a href="https://www.huffpost.com/entry/trump-order-civil-servants-job-protections_n_678e739ce4b099ed401cc7e3">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6lmc3/trump_prepares_to_strip_job_protections_for_tens/">[comments]</a></span> </td></tr></table>
+
+## Trump to lift pause on 2,000-pound bomb supply to Israel, Walla News reports
+ - [https://www.reddit.com/r/politics/comments/1i6l9n1/trump_to_lift_pause_on_2000pound_bomb_supply_to](https://www.reddit.com/r/politics/comments/1i6l9n1/trump_to_lift_pause_on_2000pound_bomb_supply_to)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:35:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6l9n1/trump_to_lift_pause_on_2000pound_bomb_supply_to/"> <img src="https://external-preview.redd.it/vq06guNP-yCO8npjeJG0K5m6sNVVHHZBcpH7jBzG63g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6978053e908f4aca7b3acbac66c014b2b43300e6" alt="Trump to lift pause on 2,000-pound bomb supply to Israel, Walla News reports" title="Trump to lift pause on 2,000-pound bomb supply to Israel, Walla News reports" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spiderwig144"> /u/Spiderwig144 </a> <br/> <span><a href="https://www.reuters.com/world/trump-lift-pause-2000-pound-bomb-supply-israel-walla-news-reports-2025-01-20/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6l9n1/trump_to_lift_pause_on_2000pound_bomb_supply_to/">[comments]</a></span> </td></tr></table>
+
+## Jan. 6 rioter with Hitler mustache says he was invited to Trump inauguration
+ - [https://www.reddit.com/r/politics/comments/1i6l16n/jan_6_rioter_with_hitler_mustache_says_he_was](https://www.reddit.com/r/politics/comments/1i6l16n/jan_6_rioter_with_hitler_mustache_says_he_was)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:25:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6l16n/jan_6_rioter_with_hitler_mustache_says_he_was/"> <img src="https://external-preview.redd.it/WfHciHIcJT4-tYniOReKkqvVQi_GJy1KxLQ_YnwvhlM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=52791639111ea9bef9bd342d33fd7d0cf3be47e9" alt="Jan. 6 rioter with Hitler mustache says he was invited to Trump inauguration" title="Jan. 6 rioter with Hitler mustache says he was invited to Trump inauguration" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/homerjs225"> /u/homerjs225 </a> <br/> <span><a href="https://www.the-independent.com/news/world/americas/us-politics/trump-inauguration-jan-6-rioter-invite-b2683144.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6l16n/jan_6_rioter_with_hitler_mustache_says_he_was/">[comments]</a></span> </td></tr></table>
+
+## Barack Obama Says George W. Bush ‘Just Barely’ Behaved During Donald Trump’s Inauguration
+ - [https://www.reddit.com/r/politics/comments/1i6kq3f/barack_obama_says_george_w_bush_just_barely](https://www.reddit.com/r/politics/comments/1i6kq3f/barack_obama_says_george_w_bush_just_barely)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:11:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6kq3f/barack_obama_says_george_w_bush_just_barely/"> <img src="https://external-preview.redd.it/SAUUHOCwa3SnyJAlk3AXb5r9gRd681RVY8-eVh1aApg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a0eaafb0a9c17aa8a88d36d5496e738c7c01f29" alt="Barack Obama Says George W. Bush ‘Just Barely’ Behaved During Donald Trump’s Inauguration" title="Barack Obama Says George W. Bush ‘Just Barely’ Behaved During Donald Trump’s Inauguration" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Growsomedope"> /u/Growsomedope </a> <br/> <span><a href="https://people.com/barack-obama-says-george-w-bush-just-barely-behaved-during-donald-trump-inauguration-8777489?hid=7e45696906d20aa895ec73e35016ae4917f5953b&amp;did=16218153-20250121&amp;utm_campaign=ppl_relationship-builder&amp;utm_source=ppl&amp;utm_medium=email&amp;utm_content=012125&amp;lctg=7e45696906d20aa895ec73e35016ae4917f5953b&amp;lr_input=3204d753fc8ff1
+
+## Police Officers Who Defended Capitol From Trump's Mob Blast His Mass Pardon Of Rioters: One former officer called Trump's blanket pardon "a miserable miscarriage of justice."
+ - [https://www.reddit.com/r/politics/comments/1i6kiuc/police_officers_who_defended_capitol_from_trumps](https://www.reddit.com/r/politics/comments/1i6kiuc/police_officers_who_defended_capitol_from_trumps)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:02:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6kiuc/police_officers_who_defended_capitol_from_trumps/"> <img src="https://external-preview.redd.it/Zbc4GL_wv_xLdVeIdLwThZcVkcYVGNYdY1KeyEwQQHY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fab3d4dca36e46b7e28ff0e6240667d9b981d5ce" alt="Police Officers Who Defended Capitol From Trump's Mob Blast His Mass Pardon Of Rioters: One former officer called Trump's blanket pardon &quot;a miserable miscarriage of justice.&quot;" title="Police Officers Who Defended Capitol From Trump's Mob Blast His Mass Pardon Of Rioters: One former officer called Trump's blanket pardon &quot;a miserable miscarriage of justice.&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/harsh2k5"> /u/harsh2k5 </a> <br/> <span><a href="https://www.huffpost.com/entry/police-officers-trump-pardon-jan-6_n_678f033ae4b06be7de44ae70">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i
+
+## Trump Starts Presidency by Failing Basic Geography Question
+ - [https://www.reddit.com/r/politics/comments/1i6kgh3/trump_starts_presidency_by_failing_basic](https://www.reddit.com/r/politics/comments/1i6kgh3/trump_starts_presidency_by_failing_basic)
+ - RSS feed: $source
+ - date published: 2025-01-21T15:00:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6kgh3/trump_starts_presidency_by_failing_basic/"> <img src="https://external-preview.redd.it/SjrKb_PAtubPVGRNjCfTHT5k2NKh1kTYEgeREpIPOgQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dcf8483693d8c0ffb85ec8f0c959605b9b18b92b" alt="Trump Starts Presidency by Failing Basic Geography Question" title="Trump Starts Presidency by Failing Basic Geography Question" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br/> <span><a href="https://newrepublic.com/post/190476/donald-trump-basic-geography-spain-brics">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6kgh3/trump_starts_presidency_by_failing_basic/">[comments]</a></span> </td></tr></table>
+
+## Discussion Thread: Cabinet Confirmation Hearings and Other Events on January 21st, 2025
+ - [https://www.reddit.com/r/politics/comments/1i6jb2z/discussion_thread_cabinet_confirmation_hearings](https://www.reddit.com/r/politics/comments/1i6jb2z/discussion_thread_cabinet_confirmation_hearings)
+ - RSS feed: $source
+ - date published: 2025-01-21T14:05:58+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>News and Analysis</strong></p> <ul> <li><p>AP: <a href="https://apnews.com/article/stefanik-united-nations-ambassador-confirmation-hearing-0a4dd959bdd9fde2dec921742e32166f">Stefanik will face questions about wars and nukes at confirmation hearing to be UN ambassador</a></p></li> <li><p>AP: <a href="https://apnews.com/article/trump-doug-collins-veterans-affairs-va-georgia-f9a14a486cb12fd5ac3f07b3068eb20a">What to know about Doug Collins, Trump’s pick to oversee veterans affairs</a></p></li> </ul> <p><strong>Where to Watch</strong></p> <p>All times below are in US Eastern.</p> <ul> <li><p>C-SPAN: <a href="https://www.c-span.org/event/senate-committee/amb-to-un-nominee-elise-stefanik-testifies-at-confirmation-hearing/430178">Amb. to U.N. Nominee Elise Stefanik Testifies at Confirmation Hearing</a> (Scheduled to start at 10 a.m.)</p></li> <li><p>PBS NewsHour via YouTube: <a href="https://www.youtube.com/watch?v=a9W6zRx1UII">Elise Stefanik testifi
+
+## Federal Worker Union Sues Trump Over Ending Job Protections
+ - [https://www.reddit.com/r/politics/comments/1i6iryf/federal_worker_union_sues_trump_over_ending_job](https://www.reddit.com/r/politics/comments/1i6iryf/federal_worker_union_sues_trump_over_ending_job)
+ - RSS feed: $source
+ - date published: 2025-01-21T13:39:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6iryf/federal_worker_union_sues_trump_over_ending_job/"> <img src="https://external-preview.redd.it/hogkegOOOjTXCs-Em_Zsia9TqMCq50YWjZbMr_NeudY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=faf707d9399c196394811f7be438058fece15e5b" alt="Federal Worker Union Sues Trump Over Ending Job Protections" title="Federal Worker Union Sues Trump Over Ending Job Protections" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloomberglaw"> /u/bloomberglaw </a> <br/> <span><a href="https://news.bloomberglaw.com/daily-labor-report/federal-worker-union-sues-trump-over-ending-job-protections">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6iryf/federal_worker_union_sues_trump_over_ending_job/">[comments]</a></span> </td></tr></table>
+
+## Mike Pence booed by Trump supporters at Capital One Arena
+ - [https://www.reddit.com/r/politics/comments/1i6iie4/mike_pence_booed_by_trump_supporters_at_capital](https://www.reddit.com/r/politics/comments/1i6iie4/mike_pence_booed_by_trump_supporters_at_capital)
+ - RSS feed: $source
+ - date published: 2025-01-21T13:25:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6iie4/mike_pence_booed_by_trump_supporters_at_capital/"> <img src="https://external-preview.redd.it/SgOfBNop84sp1rExJuzcAS0zKNJQRTzM-dpFjibz1TI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce0702bfedd7acd2556fc0d59cc9de7e8f02eaef" alt="Mike Pence booed by Trump supporters at Capital One Arena" title="Mike Pence booed by Trump supporters at Capital One Arena" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WearyToday4693"> /u/WearyToday4693 </a> <br/> <span><a href="https://www.newsweek.com/mike-pence-donald-trump-inauguration-boos-2017851">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6iie4/mike_pence_booed_by_trump_supporters_at_capital/">[comments]</a></span> </td></tr></table>
+
+## Presidents Can’t End Birthright Citizenship | President Trump’s executive order is almost certain to be struck down.
+ - [https://www.reddit.com/r/politics/comments/1i6ieav/presidents_cant_end_birthright_citizenship](https://www.reddit.com/r/politics/comments/1i6ieav/presidents_cant_end_birthright_citizenship)
+ - RSS feed: $source
+ - date published: 2025-01-21T13:19:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6ieav/presidents_cant_end_birthright_citizenship/"> <img src="https://external-preview.redd.it/HzZc6EOFy3G-HUztXyzVTlwxJqCBpDBIQ6sKB21SrtE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d79f497331360ab266c611c937f6124ea56cb38c" alt="Presidents Can’t End Birthright Citizenship | President Trump’s executive order is almost certain to be struck down." title="Presidents Can’t End Birthright Citizenship | President Trump’s executive order is almost certain to be struck down." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SpaceElevatorMusic"> /u/SpaceElevatorMusic </a> <br/> <span><a href="https://www.brennancenter.org/our-work/analysis-opinion/presidents-cant-end-birthright-citizenship">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6ieav/presidents_cant_end_birthright_citizenship/">[comments]</a></span> </td></tr></table>
+
+## Surprise: Trump’s Inauguration Didn't Offer Unity After All
+ - [https://www.reddit.com/r/politics/comments/1i6i2kf/surprise_trumps_inauguration_didnt_offer_unity](https://www.reddit.com/r/politics/comments/1i6i2kf/surprise_trumps_inauguration_didnt_offer_unity)
+ - RSS feed: $source
+ - date published: 2025-01-21T13:01:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6i2kf/surprise_trumps_inauguration_didnt_offer_unity/"> <img src="https://external-preview.redd.it/4oJgk1u-Iol2IyWFiCxLanoHxwLISsssa2ULoa5vJWI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e26e38bc2255e34505790bba30e5869154ff49ae" alt="Surprise: Trump’s Inauguration Didn't Offer Unity After All" title="Surprise: Trump’s Inauguration Didn't Offer Unity After All" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloombergopinion"> /u/bloombergopinion </a> <br/> <span><a href="https://www.bloomberg.com/opinion/articles/2025-01-21/trump-inauguration-speech-did-not-offer-unity-after-all">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6i2kf/surprise_trumps_inauguration_didnt_offer_unity/">[comments]</a></span> </td></tr></table>
+
+## Transcript: Trump Allies Shockingly Admit He Doesn’t Have Huge Mandate
+ - [https://www.reddit.com/r/politics/comments/1i6hvmw/transcript_trump_allies_shockingly_admit_he](https://www.reddit.com/r/politics/comments/1i6hvmw/transcript_trump_allies_shockingly_admit_he)
+ - RSS feed: $source
+ - date published: 2025-01-21T12:51:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6hvmw/transcript_trump_allies_shockingly_admit_he/"> <img src="https://external-preview.redd.it/_jE4syCR8fOzP2SnHM30mYBakHfgeZnbLi76uyUdAi4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4523bd1b30abc393d0bb5a499ba6d02f85b0590" alt="Transcript: Trump Allies Shockingly Admit He Doesn’t Have Huge Mandate" title="Transcript: Trump Allies Shockingly Admit He Doesn’t Have Huge Mandate" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://newrepublic.com/article/190470/transcript-trump-allies-shockingly-admit-doesnt-huge-mandate">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6hvmw/transcript_trump_allies_shockingly_admit_he/">[comments]</a></span> </td></tr></table>
+
+## Instagram hides search results for 'Democrats'
+ - [https://www.reddit.com/r/politics/comments/1i6holo/instagram_hides_search_results_for_democrats](https://www.reddit.com/r/politics/comments/1i6holo/instagram_hides_search_results_for_democrats)
+ - RSS feed: $source
+ - date published: 2025-01-21T12:40:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6holo/instagram_hides_search_results_for_democrats/"> <img src="https://external-preview.redd.it/14evvNUoxvW0pc8HL70QdQFT3IMIMISEFwCxarxiVhA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e95bf3f2f5f203297df088ca61e06c6435d5783" alt="Instagram hides search results for 'Democrats'" title="Instagram hides search results for 'Democrats'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GrumpyFinn"> /u/GrumpyFinn </a> <br/> <span><a href="https://www.bbc.com/news/articles/c4g32yxpdz0o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6holo/instagram_hides_search_results_for_democrats/">[comments]</a></span> </td></tr></table>
+
+## Trump’s first executive orders preview his second administration’s chaos and cruelty
+ - [https://www.reddit.com/r/politics/comments/1i6ho94/trumps_first_executive_orders_preview_his_second](https://www.reddit.com/r/politics/comments/1i6ho94/trumps_first_executive_orders_preview_his_second)
+ - RSS feed: $source
+ - date published: 2025-01-21T12:39:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6ho94/trumps_first_executive_orders_preview_his_second/"> <img src="https://external-preview.redd.it/mabT4-8bmfOZGVb9Ocj1AQMPmf4q73jnwP6PZW5OmMw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d93794317fdb671530c55cd13c7d5cf77bf4a7d6" alt="Trump’s first executive orders preview his second administration’s chaos and cruelty" title="Trump’s first executive orders preview his second administration’s chaos and cruelty" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/powerslave-1"> /u/powerslave-1 </a> <br/> <span><a href="https://www.msnbc.com/opinion/msnbc-opinion/trump-executive-orders-birthright-citizenship-tiktok-immigration-rcna188454">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6ho94/trumps_first_executive_orders_preview_his_second/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump says TikTok "worthless," might not save it after all
+ - [https://www.reddit.com/r/politics/comments/1i6fk58/donald_trump_says_tiktok_worthless_might_not_save](https://www.reddit.com/r/politics/comments/1i6fk58/donald_trump_says_tiktok_worthless_might_not_save)
+ - RSS feed: $source
+ - date published: 2025-01-21T10:19:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6fk58/donald_trump_says_tiktok_worthless_might_not_save/"> <img src="https://external-preview.redd.it/VtLPvkFTisqgXPtDNSFBYVmn1SFIrrojmaAjK2qpxmY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=74c847716ef14b61faa6abda261e2e28acf421ad" alt="Donald Trump says TikTok &quot;worthless,&quot; might not save it after all" title="Donald Trump says TikTok &quot;worthless,&quot; might not save it after all" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br/> <span><a href="https://www.newsweek.com/donald-trump-tiktok-ban-worthless-2018076">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6fk58/donald_trump_says_tiktok_worthless_might_not_save/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump Rolls Back Biden-Harris Rule to Lower Drug Costs for Millions of Americans
+ - [https://www.reddit.com/r/politics/comments/1i6fivn/donald_trump_rolls_back_bidenharris_rule_to_lower](https://www.reddit.com/r/politics/comments/1i6fivn/donald_trump_rolls_back_bidenharris_rule_to_lower)
+ - RSS feed: $source
+ - date published: 2025-01-21T10:17:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6fivn/donald_trump_rolls_back_bidenharris_rule_to_lower/"> <img src="https://external-preview.redd.it/vYkxM7z0la37fQbC7emdeOD0pDj-_MrTldEh4-2XIXk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=234777cbbd183674742f1a698ce5fe94d99b820e" alt="Donald Trump Rolls Back Biden-Harris Rule to Lower Drug Costs for Millions of Americans" title="Donald Trump Rolls Back Biden-Harris Rule to Lower Drug Costs for Millions of Americans" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GodProbablyKnows"> /u/GodProbablyKnows </a> <br/> <span><a href="https://democrats.org/news/new-donald-trump-rolls-back-biden-harris-rule-to-lower-drug-costs-for-millions-of-americans/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6fivn/donald_trump_rolls_back_bidenharris_rule_to_lower/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump 'unaware UK was nuclear power', says former aide
+ - [https://www.reddit.com/r/politics/comments/1i6ejfh/donald_trump_unaware_uk_was_nuclear_power_says](https://www.reddit.com/r/politics/comments/1i6ejfh/donald_trump_unaware_uk_was_nuclear_power_says)
+ - RSS feed: $source
+ - date published: 2025-01-21T09:01:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6ejfh/donald_trump_unaware_uk_was_nuclear_power_says/"> <img src="https://external-preview.redd.it/6_g6Qivq1Q_iLmg2eMQgXJMCiOc4sfC2nFjmm2WOHHE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=251194948aac15a0d7c4427a606c314e8b5c9684" alt="Donald Trump 'unaware UK was nuclear power', says former aide" title="Donald Trump 'unaware UK was nuclear power', says former aide" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/1DarkStarryNight"> /u/1DarkStarryNight </a> <br/> <span><a href="https://www.bbc.com/news/uk-politics-53090938">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6ejfh/donald_trump_unaware_uk_was_nuclear_power_says/">[comments]</a></span> </td></tr></table>
+
+## Jan 6 rioter Pamela Hemphill says she will refuse Trump’s pardon
+ - [https://www.reddit.com/r/politics/comments/1i6baxi/jan_6_rioter_pamela_hemphill_says_she_will_refuse](https://www.reddit.com/r/politics/comments/1i6baxi/jan_6_rioter_pamela_hemphill_says_she_will_refuse)
+ - RSS feed: $source
+ - date published: 2025-01-21T05:13:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6baxi/jan_6_rioter_pamela_hemphill_says_she_will_refuse/"> <img src="https://external-preview.redd.it/NPPA3s6CfFHjw57YVdgXPtUXs-zVEgpjul7YVNyj0io.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=04411f42f5710e30bf83ab324a684f5e7b5f9e87" alt="Jan 6 rioter Pamela Hemphill says she will refuse Trump’s pardon" title="Jan 6 rioter Pamela Hemphill says she will refuse Trump’s pardon" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rock-n-roll-Kevin"> /u/Rock-n-roll-Kevin </a> <br/> <span><a href="https://www.the-independent.com/news/world/americas/us-politics/trump-pardons-capitol-riot-pamela-hemphill-b2678717.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6baxi/jan_6_rioter_pamela_hemphill_says_she_will_refuse/">[comments]</a></span> </td></tr></table>
+
+## ACLU sues over Trump order aimed at ending birthright citizenship
+ - [https://www.reddit.com/r/politics/comments/1i6b14b/aclu_sues_over_trump_order_aimed_at_ending](https://www.reddit.com/r/politics/comments/1i6b14b/aclu_sues_over_trump_order_aimed_at_ending)
+ - RSS feed: $source
+ - date published: 2025-01-21T04:57:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6b14b/aclu_sues_over_trump_order_aimed_at_ending/"> <img src="https://external-preview.redd.it/v3YwO81oVRPxh4Kjt5uejEZK5aEUfIfQrE_X1OKMC-E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d882295809117fff4cec8bac7bc6295d05ee058e" alt="ACLU sues over Trump order aimed at ending birthright citizenship" title="ACLU sues over Trump order aimed at ending birthright citizenship" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jayclaw97"> /u/jayclaw97 </a> <br/> <span><a href="https://thehill.com/regulation/court-battles/5097337-aclu-sues-trump-order/amp/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6b14b/aclu_sues_over_trump_order_aimed_at_ending/">[comments]</a></span> </td></tr></table>
+
+## Trump made more than 20 false claims in his Inauguration Day remarks
+ - [https://www.reddit.com/r/politics/comments/1i6apn8/trump_made_more_than_20_false_claims_in_his](https://www.reddit.com/r/politics/comments/1i6apn8/trump_made_more_than_20_false_claims_in_his)
+ - RSS feed: $source
+ - date published: 2025-01-21T04:39:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i6apn8/trump_made_more_than_20_false_claims_in_his/"> <img src="https://external-preview.redd.it/TSFGMQyuyBT9-6tXr58Ts2SmfmY_r4fMHecPxVJayJI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71e200ee6773182f869d3c96201d8621b2089105" alt="Trump made more than 20 false claims in his Inauguration Day remarks" title="Trump made more than 20 false claims in his Inauguration Day remarks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Oleg101"> /u/Oleg101 </a> <br/> <span><a href="https://www.cnn.com/politics/fact-check-trump-inauguration/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i6apn8/trump_made_more_than_20_false_claims_in_his/">[comments]</a></span> </td></tr></table>
+
+## Trump rescinds Biden's census order, clearing a path for reshaping election maps
+ - [https://www.reddit.com/r/politics/comments/1i68t1l/trump_rescinds_bidens_census_order_clearing_a](https://www.reddit.com/r/politics/comments/1i68t1l/trump_rescinds_bidens_census_order_clearing_a)
+ - RSS feed: $source
+ - date published: 2025-01-21T02:56:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i68t1l/trump_rescinds_bidens_census_order_clearing_a/"> <img src="https://external-preview.redd.it/H-5iy-Y0__Ea1EDRJLSDyrTpGi-0ve-3rTCHQo7kJX8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4537a6d600b4f25f6e7f1e3dda4edabc5f47a439" alt="Trump rescinds Biden's census order, clearing a path for reshaping election maps" title="Trump rescinds Biden's census order, clearing a path for reshaping election maps" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Infidel8"> /u/Infidel8 </a> <br/> <span><a href="https://www.npr.org/2025/01/20/nx-s1-5268958/trump-order-census-citizenship-question-apportionment">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i68t1l/trump_rescinds_bidens_census_order_clearing_a/">[comments]</a></span> </td></tr></table>
+
+## Trump Frees Thugs Who Beat Cops With Weapons on Jan. 6 | The president signed an order granting a “complete and unconditional pardon” for about 1,500 Capitol rioters
+ - [https://www.reddit.com/r/politics/comments/1i68p62/trump_frees_thugs_who_beat_cops_with_weapons_on](https://www.reddit.com/r/politics/comments/1i68p62/trump_frees_thugs_who_beat_cops_with_weapons_on)
+ - RSS feed: $source
+ - date published: 2025-01-21T02:51:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i68p62/trump_frees_thugs_who_beat_cops_with_weapons_on/"> <img src="https://external-preview.redd.it/CChMA0EVX9bLsL8r_p7AfoJBPxRqhFoLdZ7F9VVc2-g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3107089fb1722660018b1b402c5ba716a279c555" alt="Trump Frees Thugs Who Beat Cops With Weapons on Jan. 6 | The president signed an order granting a “complete and unconditional pardon” for about 1,500 Capitol rioters" title="Trump Frees Thugs Who Beat Cops With Weapons on Jan. 6 | The president signed an order granting a “complete and unconditional pardon” for about 1,500 Capitol rioters" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br/> <span><a href="https://www.thedailybeast.com/trump-frees-thugs-who-beat-cops-with-weapons-on-jan-6/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i68p62/trump_frees_thugs_who_beat_co
+
+## EXECUTIVE ORDER: Withdrawing the United States From the World Health Organization
+ - [https://www.reddit.com/r/politics/comments/1i67450/executive_order_withdrawing_the_united_states](https://www.reddit.com/r/politics/comments/1i67450/executive_order_withdrawing_the_united_states)
+ - RSS feed: $source
+ - date published: 2025-01-21T01:31:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i67450/executive_order_withdrawing_the_united_states/"> <img src="https://external-preview.redd.it/Qmg5qKMmmBU94T1l68aAkUelaaCUuSJkyzSA1_d8CE0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=26db552d6a4d17da3f60b903c690654c3eb07d95" alt="EXECUTIVE ORDER: Withdrawing the United States From the World Health Organization" title="EXECUTIVE ORDER: Withdrawing the United States From the World Health Organization" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PlayaSlayaX"> /u/PlayaSlayaX </a> <br/> <span><a href="https://www.whitehouse.gov/presidential-actions/2025/01/withdrawing-the-united-states-from-the-worldhealth-organization/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i67450/executive_order_withdrawing_the_united_states/">[comments]</a></span> </td></tr></table>
+
+## Trump grants mass pardons to 1,500 January 6 US Capitol rioters
+ - [https://www.reddit.com/r/politics/comments/1i66bo5/trump_grants_mass_pardons_to_1500_january_6_us](https://www.reddit.com/r/politics/comments/1i66bo5/trump_grants_mass_pardons_to_1500_january_6_us)
+ - RSS feed: $source
+ - date published: 2025-01-21T00:52:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i66bo5/trump_grants_mass_pardons_to_1500_january_6_us/"> <img src="https://external-preview.redd.it/Q5p2qFheu-owHbk4OgOD9sOhqrXaosW-GbgANIjE4So.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2ac7799eac61451271dd42b9481d7a5d8958eaf" alt="Trump grants mass pardons to 1,500 January 6 US Capitol rioters" title="Trump grants mass pardons to 1,500 January 6 US Capitol rioters" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LegislativeLariat"> /u/LegislativeLariat </a> <br/> <span><a href="https://www.cnn.com/2025/01/20/politics/january-6-2021-capitol-riot-pardons-trump/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i66bo5/trump_grants_mass_pardons_to_1500_january_6_us/">[comments]</a></span> </td></tr></table>
+

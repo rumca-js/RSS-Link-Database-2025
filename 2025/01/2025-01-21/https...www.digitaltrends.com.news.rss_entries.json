@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-21T21:30:31+00:00",
+        "description": "Bad news if you have a PC with a low resolution since Microsoft&#8217;s new Copilot app icon is almost impossible to decipher on them, according to . Microsoft&#8217;s new logo now includes a bit of text embedded in the icon, which, depending on the resolution of your screen, might be impossible to read. Windows Central [&#8230;]",
+        "id": 1951752,
+        "language": "en-US",
+        "link": "https://www.digitaltrends.com/computing/microsofts-copilot-app-has-a-new-icon-and-its-causing-problems",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 94,
+        "source_url": "https://www.digitaltrends.com/news/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microsoft\u2019s Copilot app has a new icon, and it\u2019s causing problems",
+        "vote": 0
+    }
+]

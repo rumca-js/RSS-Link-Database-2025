@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-21T14:58:09+00:00",
+        "description": "Learn every step to make a WordPress website in this beginner's course. No coding necessary! You will learn how to get a domain name and hosting, install Wordpress, use a theme, customize the exact website you want, and more.\n\n\u270f\ufe0f This course was developed by @beau.\n\n\ud83c\udf89 Hostinger provided a grant that made this course possible.\n\ud83d\udd17 Get a 10% discount at Hostinger with code \"GETSTARTED\": https://www.hostinger.com/getstarted\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n0:01:09 Introduction\n0:01:09 What is WordPress?\n0:02:09 Getting a Domain and Hosting\n0:04:08 Installing WordPress\n0:04:08 Setting Up Custom Email\n0:10:14 Exploring WordPress Dashboard\n0:11:30 Updating Settings\n0:12:43 Installing Plugins\n0:15:26 Installing Theme\n0:18:12 Creating a Logo\n0:19:32 Adding Logo to Website\n0:22:06 Editing Site with Elementor\n0:33:08 Adding Custom HTML to Site\n0:36:23 Updating Menus\n0:37:24 Adding a New Page\n0:43:20 Customizing Page Name\n0:44:16 Editing About Page\n0:45:18 Editing Contact Page\n0:46:43 Customizing Contact Form\n0:5",
+        "id": 1949936,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=R4v_7hh4Yys",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/R4v_7hh4Yys/hqdefault.jpg",
+        "title": "How to Create a Website \u2013 WordPress Tutorial for Beginners 2025",
+        "vote": 0
+    }
+]

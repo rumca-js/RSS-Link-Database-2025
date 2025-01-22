@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-21T02:45:44+00:00",
+        "description": "The UNIT DualMCU One is a development board that combines the ESP32 and RP2040 microcontrollers. The ESP32 provides Wi-Fi and Bluetooth connectivity, while the RP2040 offers hardware control with flexible GPIO, supporting applications in IoT, robotics, and automation. The RP2040 features a dual-core ARM Cortex-M0+ processor running at 133 MHz, offering compatibility with Arduino UNO [&#8230;]",
+        "id": 1946449,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/unit-dualmcu-one-with-rp2040-for-real-time-and-esp32-for-wireless-connectivity",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "UNIT DualMCU One with RP2040 for Real-Time and ESP32 for Wireless Connectivity.",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-21T16:56:31+00:00",
+        "description": "<p>Apple Support document, which is linked from the App Store if you search for any of the apps from ByteDance:</p>\n\n<blockquote>\n  <p>Apple is obligated to follow the laws in the jurisdictions where\nit operates. Pursuant to the Protecting Americans from Foreign\nAdversary Controlled Applications Act, apps developed by ByteDance\nLtd. and its subsidiaries\u2009\u2014\u2009including TikTok, CapCut, Lemon8, and\nothers\u2009\u2014\u2009will no longer be available for download or updates on\nthe App Store for users in the United States starting January 19,\n2025. [...]</p>\n\n<p>If you already have these apps installed on your device, they will\nremain on your device. But they can\u2019t be redownloaded if deleted\nor restored if you move to a new device. In-app purchases and new\nsubscriptions are no longer possible.</p>\n\n<p>Users in the United States won\u2019t receive updates for these apps,\nwhich could potentially impact performance, security, and\ncompatibility with future versions of iOS and iPadOS, and some app\nfunctions might be",
+        "id": 1950563,
+        "language": null,
+        "link": "https://support.apple.com/en-us/121596?cid=mc-ols-bytedance-article_121596-os_ui-12132024",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Apple Support: \u2018About Availability of TikTok and ByteDance Ltd. Apps in the United States\u2019",
+        "vote": 0
+    }
+]
