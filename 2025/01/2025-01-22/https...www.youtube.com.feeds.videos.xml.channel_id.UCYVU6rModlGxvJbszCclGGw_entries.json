@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rob Braxman Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-22T17:01:12+00:00",
+        "description": "To some of you, it's just a normal time and nothing has changed. But actually in 2025, a lot has changed and one of the key ones is that End-to-End (E2E) encryption used in apps like Signal, Session, Whatsapp, Telegram and so are no longer secure. Mark Zuckerberg said himself that the CIA can break E2E encryption but most people misunderstood what this means. They thought it meant hacking tools. The real story is deeper and more complex and likely permanent.\n\n----------------------------------\nBraX3 Privacy Phone is on pre-order on Indiegogo\nhttps://www.indiegogo.com/projects/brax3-the-most-privacy-friendly-smartphone#/\n-----------------------------------\nBrax Virtual Phone, De-Googled Phones, BytzVPN, BraxMail, BraxRouters are available on https://brax.me. \n-----------------------------------\nMerch Store \nhttps://my-store-c37a50.creator-spring.com/\n-----------------------------------\n\nI'm the Internet Privacy Guy. I'm a public interest technologist. I'm here to educate. You are losi",
+        "id": 1958285,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=yh1pF1zaauc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 466,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yh1pF1zaauc/hqdefault.jpg",
+        "title": "End-to-End Encryption Now a Historical Footnote. They Won.",
+        "vote": 0
+    }
+]

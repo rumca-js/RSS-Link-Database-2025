@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-22T19:21:21+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Hey, did you know there are new Nvidia graphics cards on the way? <a href=\"https://www.pcworld.com/article/2573243/do-nvidias-geforce-rtx-50-series-specs-live-up-to-the-hype.html\">It\u2019s a pretty big deal</a>. Such a big deal, in fact, that we\u2019re still processing what we saw at CES 2025 (along with a lot of the videos we recorded, sorry).</p>\n\n\n\n<p>After Nvidia\u2019s big reveal of the RTX 5090 and other cards, PCWorld\u2019s Adam Patrick Murray pulled his old buddy <a href=\"https://www.youtube.com/@paulshardware\">Paul of Paul\u2019s Hardware</a> aside to chat and get his expert impressions.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe title=\"The RTX 5090 Was Not What We Were Expecting\" width=\"500\" height=\"281\" src=\"\" frameborder=\"0\" allo",
+        "id": 1958775,
+        "language": null,
+        "link": "https://www.pcworld.com/article/2585560/lets-chat-with-pauls-hardware-about-nvidias-rtx-5090-and-more.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Let\u2019s chat with Paul\u2019s Hardware about Nvidia\u2019s RTX 5090 and more",
+        "vote": 0
+    }
+]

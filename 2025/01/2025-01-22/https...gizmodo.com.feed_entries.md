@@ -1,0 +1,338 @@
+# Source:Gizmodo, URL:https://gizmodo.com/feed, language:en
+
+## Wait, Stranger Things‘ Finn Wolfhard Co-Directed a Summer Camp Slasher Comedy?
+ - [https://gizmodo.com/hell-of-a-summer-trailer-finn-wolfhard-horror-stranger-things-2000553651](https://gizmodo.com/hell-of-a-summer-trailer-finn-wolfhard-horror-stranger-things-2000553651)
+ - RSS feed: $source
+ - date published: 2025-01-22T23:00:20+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Finn-Wolfhard-and-Billy-Bryk-in-Hell-of-a-Summer-Courtesy-of-NEON-2.jpg" class="attachment-full size-full wp-post-image" alt="Finn Wolfhard And Billy Bryk In Hell Of A Summer Courtesy Of Neon 2" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/01/Finn-Wolfhard-and-Billy-Bryk-in-Hell-of-a-Summer-Courtesy-of-NEON-2.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Finn-Wolfhard-and-Billy-Bryk-in-Hell-of-a-Summer-Courtesy-of-NEON-2-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Finn-Wolfhard-and-Billy-Bryk-in-Hell-of-a-Summer-Courtesy-of-NEON-2-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Finn-Wolfhard-and-Billy-Bryk-in-Hell-of-a-Summer-Courtesy-of-NEON-2-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Finn-Wolfhard-and-Billy-Bryk-in-Hell-of-a-Summer-Courtesy-of-NEON-2-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/Finn-Wolfhard-a
+
+## After the Success of the Movie, Wicked Has Found Broadway’s First Black Elphaba
+ - [https://gizmodo.com/after-the-success-of-the-movie-wicked-has-found-broadways-first-black-elphaba-2000553762](https://gizmodo.com/after-the-success-of-the-movie-wicked-has-found-broadways-first-black-elphaba-2000553762)
+ - RSS feed: $source
+ - date published: 2025-01-22T22:00:07+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/wicked-broadway-Lenicia-elphaba-2025.jpg" class="attachment-full size-full wp-post-image" alt="Wicked Broadway Lenicia Elphaba 2025" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/01/wicked-broadway-Lenicia-elphaba-2025.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/wicked-broadway-Lenicia-elphaba-2025-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/wicked-broadway-Lenicia-elphaba-2025-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/wicked-broadway-Lenicia-elphaba-2025-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/wicked-broadway-Lenicia-elphaba-2025-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/wicked-broadway-Lenicia-elphaba-2025-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/wicked-broadway-Lenicia-elphaba-2025-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/wicked-broadway-Lenicia-elphaba-2025-896
+
+## Ketamine Nasal Spray Approved as Standalone Treatment for Tough Depression Cases
+ - [https://gizmodo.com/ketamine-nasal-spray-approved-as-standalone-treatment-for-tough-depression-cases-2000553741](https://gizmodo.com/ketamine-nasal-spray-approved-as-standalone-treatment-for-tough-depression-cases-2000553741)
+ - RSS feed: $source
+ - date published: 2025-01-22T21:55:27+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/nasal-spray.jpg" class="attachment-full size-full wp-post-image" alt="Nasal Spray" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/01/nasal-spray.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/nasal-spray-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/nasal-spray-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/nasal-spray-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/nasal-spray-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/nasal-spray-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/nasal-spray-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/nasal-spray-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>This week, the FDA expanded the approval of Johnson &amp; Johnson's ketamine-based nasal spray, Spravato.
+
+## Major Subreddits Are Banning Links to X Following Musk’s Seig Heil-Like Salute
+ - [https://gizmodo.com/a-ton-of-big-subreddits-are-banning-links-to-x-following-musks-seig-heil-like-salute-2000553732](https://gizmodo.com/a-ton-of-big-subreddits-are-banning-links-to-x-following-musks-seig-heil-like-salute-2000553732)
+ - RSS feed: $source
+ - date published: 2025-01-22T21:50:55+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/elon-musk-nazi-salute.jpg" class="attachment-full size-full wp-post-image" alt="Elon Musk appears to give one of two Nazi salutes on Jan. 20, 2025." decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/elon-musk-nazi-salute.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/elon-musk-nazi-salute-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/elon-musk-nazi-salute-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/elon-musk-nazi-salute-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/elon-musk-nazi-salute-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/elon-musk-nazi-salute-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/elon-musk-nazi-salute-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/elon-musk-nazi-salute-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>More communities are considering blocking lin
+
+## There’s Something Fishy About This Fish Tech Startup
+ - [https://gizmodo.com/theres-something-fishy-about-this-fish-tech-startup-2000553691](https://gizmodo.com/theres-something-fishy-about-this-fish-tech-startup-2000553691)
+ - RSS feed: $source
+ - date published: 2025-01-22T21:34:29+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/milkfish.jpg" class="attachment-full size-full wp-post-image" alt="Milkfish" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/milkfish.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/milkfish-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/milkfish-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/milkfish-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/milkfish-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/milkfish-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/milkfish-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/milkfish-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The SoftBank-backed eFishery seems to have faked hundreds of millions of dollars in sales.
+
+## We’re Doing AI Phrenology Again
+ - [https://gizmodo.com/were-doing-ai-phrenology-again-2000553600](https://gizmodo.com/were-doing-ai-phrenology-again-2000553600)
+ - RSS feed: $source
+ - date published: 2025-01-22T21:25:37+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/ai-phrenology-pic.jpg" class="attachment-full size-full wp-post-image" alt="A woman&#039;s face overlayed with a graphic representation of an AI facial analysis template. A red label by her face says &#039;Angry&#039;." decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/ai-phrenology-pic.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/ai-phrenology-pic-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/ai-phrenology-pic-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/ai-phrenology-pic-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/ai-phrenology-pic-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/ai-phrenology-pic-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/ai-phrenology-pic-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/ai-phrenology-pic-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>AI phr
+
+## The Stars of Star Trek: Section 31 Know Why You’re Nervous About the Movie
+ - [https://gizmodo.com/star-trek-section-31-interview-rob-kazinsky-omari-hardwick-kacey-rohl-2000553661](https://gizmodo.com/star-trek-section-31-interview-rob-kazinsky-omari-hardwick-kacey-rohl-2000553661)
+ - RSS feed: $source
+ - date published: 2025-01-22T21:00:01+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/star-trek-section-31-interview.jpg" class="attachment-full size-full wp-post-image" alt="Star Trek Section 31 Interview" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/star-trek-section-31-interview.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/star-trek-section-31-interview-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/star-trek-section-31-interview-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/star-trek-section-31-interview-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/star-trek-section-31-interview-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/star-trek-section-31-interview-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/star-trek-section-31-interview-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/star-trek-section-31-interview-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>T
+
+## Blackrock CEO Calls Crypto a ‘Currency of Fear’ (Complimentary)
+ - [https://gizmodo.com/blackrock-ceo-calls-crypto-a-currency-of-fear-complimentary-2000553552](https://gizmodo.com/blackrock-ceo-calls-crypto-a-currency-of-fear-complimentary-2000553552)
+ - RSS feed: $source
+ - date published: 2025-01-22T20:35:30+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/larry-fink-bloomberg.jpg" class="attachment-full size-full wp-post-image" alt="Blackrock&#039;s Larry Fink at the World Economic Forum (WEF) in Davos, Switzerland, on Jan. 22, 2025." decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/01/larry-fink-bloomberg.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/larry-fink-bloomberg-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/larry-fink-bloomberg-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/larry-fink-bloomberg-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/larry-fink-bloomberg-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/larry-fink-bloomberg-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/larry-fink-bloomberg-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/larry-fink-bloomberg-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Larry Fink be
+
+## MrBeast Is Officially Trying to Buy TikTok
+ - [https://gizmodo.com/mrbeast-is-officially-trying-to-buy-tiktok-2000553519](https://gizmodo.com/mrbeast-is-officially-trying-to-buy-tiktok-2000553519)
+ - RSS feed: $source
+ - date published: 2025-01-22T20:20:05+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/MrBeast-with-Thea-Booysen.jpg" class="attachment-full size-full wp-post-image" alt="MrBeast with Thea Booysen" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/01/MrBeast-with-Thea-Booysen.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/MrBeast-with-Thea-Booysen-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/MrBeast-with-Thea-Booysen-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/MrBeast-with-Thea-Booysen-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/MrBeast-with-Thea-Booysen-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/MrBeast-with-Thea-Booysen-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/MrBeast-with-Thea-Booysen-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/MrBeast-with-Thea-Booysen-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The guy who brought you a bunch of dumb online videos wants to buy
+
+## Invincible Season 3’s New Cast Is a Pop-Culture Crossover Extravaganza
+ - [https://gizmodo.com/invincible-season-3s-new-cast-is-a-pop-culture-crossover-extravaganza-2000553431](https://gizmodo.com/invincible-season-3s-new-cast-is-a-pop-culture-crossover-extravaganza-2000553431)
+ - RSS feed: $source
+ - date published: 2025-01-22T20:15:23+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Invincible-Mark-Grayson-Steven-Yeun-Prime-Video-Amazon.jpg" class="attachment-full size-full wp-post-image" alt="Invincible Mark Grayson Steven Yeun Prime Video Amazon" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/Invincible-Mark-Grayson-Steven-Yeun-Prime-Video-Amazon.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Invincible-Mark-Grayson-Steven-Yeun-Prime-Video-Amazon-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Invincible-Mark-Grayson-Steven-Yeun-Prime-Video-Amazon-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Invincible-Mark-Grayson-Steven-Yeun-Prime-Video-Amazon-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Invincible-Mark-Grayson-Steven-Yeun-Prime-Video-Amazon-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/Invincible-Mark-Grayson-Steven-Yeun-Prime-Video-Amazon-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/
+
+## Everything Announced at Samsung Galaxy Unpacked 2025
+ - [https://gizmodo.com/everything-announced-at-samsung-galaxy-unpacked-2025-2000552906](https://gizmodo.com/everything-announced-at-samsung-galaxy-unpacked-2025-2000552906)
+ - RSS feed: $source
+ - date published: 2025-01-22T19:51:40+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Samsung-Unpacked-TM-Roh-AI-Ecosystem.jpg" class="attachment-full size-full wp-post-image" alt="Samsung Unpacked Tm Roh Ai Ecosystem" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/Samsung-Unpacked-TM-Roh-AI-Ecosystem.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Samsung-Unpacked-TM-Roh-AI-Ecosystem-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Samsung-Unpacked-TM-Roh-AI-Ecosystem-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Samsung-Unpacked-TM-Roh-AI-Ecosystem-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Samsung-Unpacked-TM-Roh-AI-Ecosystem-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/Samsung-Unpacked-TM-Roh-AI-Ecosystem-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/Samsung-Unpacked-TM-Roh-AI-Ecosystem-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/Samsung-Unpacked-TM-Roh-AI-Ecosystem-896x597.j
+
+## Having Conquered the Vampire Movie, Nosferatu‘s Robert Eggers Is Tackling Werewolves Next
+ - [https://gizmodo.com/robert-eggers-werewolf-movie-nosferatu-2000553624](https://gizmodo.com/robert-eggers-werewolf-movie-nosferatu-2000553624)
+ - RSS feed: $source
+ - date published: 2025-01-22T19:30:30+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Eggers.jpg" class="attachment-full size-full wp-post-image" alt="Eggers" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/Eggers.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Eggers-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Eggers-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Eggers-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Eggers-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/Eggers-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/Eggers-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/Eggers-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The meticulous writer-director has announced his next project will skew hairier than Count Orlok's mustache.
+
+## Amazon Shuts Down Québec Operations After Unionization, Swears It’s Unrelated
+ - [https://gizmodo.com/amazon-shuts-down-quebec-operations-after-unionization-swears-its-unrelated-2000553618](https://gizmodo.com/amazon-shuts-down-quebec-operations-after-unionization-swears-its-unrelated-2000553618)
+ - RSS feed: $source
+ - date published: 2025-01-22T19:20:41+00:00
+
+<img width="1599" height="900" src="https://gizmodo.com/app/uploads/2022/02/3e02f5393e76c27b50a4beb76434169f.jpg" class="attachment-full size-full wp-post-image" alt="Image: Kena Bentancur" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2022/02/3e02f5393e76c27b50a4beb76434169f.jpg 1599w, https://gizmodo.com/app/uploads/2022/02/3e02f5393e76c27b50a4beb76434169f-300x169.jpg 300w, https://gizmodo.com/app/uploads/2022/02/3e02f5393e76c27b50a4beb76434169f-1024x576.jpg 1024w, https://gizmodo.com/app/uploads/2022/02/3e02f5393e76c27b50a4beb76434169f-768x432.jpg 768w, https://gizmodo.com/app/uploads/2022/02/3e02f5393e76c27b50a4beb76434169f-512x288.jpg 512w, https://gizmodo.com/app/uploads/2022/02/3e02f5393e76c27b50a4beb76434169f-680x383.jpg 680w, https://gizmodo.com/app/uploads/2022/02/3e02f5393e76c27b50a4beb76434169f-896x504.jpg 896w" sizes="(max-width: 1599px) 100vw, 1599px"><br><br>More than 1,700 employees will lose their jobs.
+
+## Galaxy S25: Four Reasons to Buy It on Samsung’s Official Website and Nowhere Else
+ - [https://gizmodo.com/galaxy-s25-four-reasons-to-buy-it-on-samsungs-official-website-and-nowhere-else-2000553310](https://gizmodo.com/galaxy-s25-four-reasons-to-buy-it-on-samsungs-official-website-and-nowhere-else-2000553310)
+ - RSS feed: $source
+ - date published: 2025-01-22T19:20:26+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/galaxy-s25.jpg" class="attachment-full size-full wp-post-image" alt="Galaxy S25" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/01/galaxy-s25.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Samsung has officially launched the Galaxy S25 Series, opening pre-orders on its official website with exclusive offers.
+
+## If You Pre-Order The Galaxy S25 Ultra, Here’s How to Save 80% Via The Samsung’s Site
+ - [https://gizmodo.com/if-you-pre-order-the-galaxy-s25-ultra-heres-how-to-save-80-via-the-samsungs-site-2000553445](https://gizmodo.com/if-you-pre-order-the-galaxy-s25-ultra-heres-how-to-save-80-via-the-samsungs-site-2000553445)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:51:26+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/galaxy-s25-ultra.jpg" class="attachment-full size-full wp-post-image" alt="Galaxy S25 Ultra" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/galaxy-s25-ultra.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25-ultra-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25-ultra-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25-ultra-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25-ultra-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25-ultra-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25-ultra-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25-ultra-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The long-awaited rollout of Samsung's new flagship devices is finally here. Pre-order your phone now.
+
+## Samsung Teases AR Glasses at Galaxy Unpacked
+ - [https://gizmodo.com/samsung-teases-ar-glasses-at-galaxy-unpacked-2000552880](https://gizmodo.com/samsung-teases-ar-glasses-at-galaxy-unpacked-2000552880)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:48:52+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Samsung-XR-Glasses-1.jpg" class="attachment-full size-full wp-post-image" alt="Samsung Xr Glasses 1" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/Samsung-XR-Glasses-1.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Samsung-XR-Glasses-1-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Samsung-XR-Glasses-1-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Samsung-XR-Glasses-1-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Samsung-XR-Glasses-1-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/Samsung-XR-Glasses-1-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/Samsung-XR-Glasses-1-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/Samsung-XR-Glasses-1-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Samsung's big push for wearable AI is a pair of glasses, the more mobile version of its 'Project Mooh
+
+## Doctor Strange Is Skipping Avengers: Doomsday, But Will Portal Back in for Secret Wars
+ - [https://gizmodo.com/doctor-strange-avengers-doomsday-secret-wars-benedict-cumberbatch-marvel-2000553515](https://gizmodo.com/doctor-strange-avengers-doomsday-secret-wars-benedict-cumberbatch-marvel-2000553515)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:45:21+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Doctor-Strange-Multiverse-of-Madness.jpg" class="attachment-full size-full wp-post-image" alt="Doctor Strange Multiverse Of Madness" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/Doctor-Strange-Multiverse-of-Madness.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Doctor-Strange-Multiverse-of-Madness-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Doctor-Strange-Multiverse-of-Madness-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Doctor-Strange-Multiverse-of-Madness-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Doctor-Strange-Multiverse-of-Madness-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/Doctor-Strange-Multiverse-of-Madness-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/Doctor-Strange-Multiverse-of-Madness-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/Doctor-Strange-Multiverse-of-Madness-896x597.j
+
+## Trump Orders CDC, FDA, and Other Health Agencies to Go Dark
+ - [https://gizmodo.com/trump-orders-cdc-fda-and-other-health-agencies-to-go-dark-2000553437](https://gizmodo.com/trump-orders-cdc-fda-and-other-health-agencies-to-go-dark-2000553437)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:45:01+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/CDC.jpg" class="attachment-full size-full wp-post-image" alt="Cdc" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/CDC.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/CDC-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/CDC-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/CDC-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/CDC-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/CDC-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/CDC-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/CDC-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The communications pause could be an early sign of things to come under a renewed Trump White House.
+
+## Samsung Galaxy S25 Drops 62% Off on Launch Day with Trade-In Deals
+ - [https://gizmodo.com/samsung-galaxy-s25-drops-62-off-on-launch-day-with-trade-in-deals-2000553476](https://gizmodo.com/samsung-galaxy-s25-drops-62-off-on-launch-day-with-trade-in-deals-2000553476)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:22:36+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/s25ultra.jpg" class="attachment-full size-full wp-post-image" alt="Galaxy S25 Ultra" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/s25ultra.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/s25ultra-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/s25ultra-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/s25ultra-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/s25ultra-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/s25ultra-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>These are the best pre-order offers ever seen at Samsung.
+
+## Forget Black Friday, the Newest Galaxy S25 Ultra is Now Just $399 Instead of $1,299
+ - [https://gizmodo.com/forget-black-friday-the-newest-galaxy-s25-ultra-is-now-just-399-instead-of-1299-2000553435](https://gizmodo.com/forget-black-friday-the-newest-galaxy-s25-ultra-is-now-just-399-instead-of-1299-2000553435)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:13:02+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/galaxy-s25ultra.jpg" class="attachment-full size-full wp-post-image" alt="Galaxy S25 ultra" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/01/galaxy-s25ultra.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25ultra-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25ultra-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25ultra-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25ultra-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25ultra-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25ultra-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/galaxy-s25ultra-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Transform Samsung's premium smartphones into budget-friendly tech dreams.
+
+## OpenAI Reportedly Launching ‘Operator’ That Can Control Your Computer This Week
+ - [https://gizmodo.com/openai-reportedly-launching-operator-that-can-control-your-computer-this-week-2000553513](https://gizmodo.com/openai-reportedly-launching-operator-that-can-control-your-computer-this-week-2000553513)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:05:32+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/OpenAI-logo-on-a-laptop.jpg" class="attachment-full size-full wp-post-image" alt="OpenAI logo on a laptop" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/01/OpenAI-logo-on-a-laptop.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/OpenAI-logo-on-a-laptop-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/OpenAI-logo-on-a-laptop-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/OpenAI-logo-on-a-laptop-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/OpenAI-logo-on-a-laptop-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/OpenAI-logo-on-a-laptop-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/OpenAI-logo-on-a-laptop-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/OpenAI-logo-on-a-laptop-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>So-called "computer use agents" are expected to be a major leap in AI that will allow 
+
+## Samsung Galaxy S25 and Galaxy S25+ Hands-On: Two Powerful Little Phones
+ - [https://gizmodo.com/samsungs-galaxy-s25-hands-on-2000553223](https://gizmodo.com/samsungs-galaxy-s25-hands-on-2000553223)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:00:53+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-S25Plus_Hero.jpg" class="attachment-full size-full wp-post-image" alt="Samsung Galaxy S25 and S25+" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-S25Plus_Hero.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-S25Plus_Hero-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-S25Plus_Hero-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-S25Plus_Hero-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-S25Plus_Hero-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-S25Plus_Hero-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-S25Plus_Hero-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-S25Plus_Hero-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br
+
+## Samsung’s Galaxy S25 Is Thinner, Lighter, and Stuffed to the Gills With AI
+ - [https://gizmodo.com/samsungs-galaxy-s25-is-thinner-lighter-and-stuffed-to-the-gills-with-ai-2000552768](https://gizmodo.com/samsungs-galaxy-s25-is-thinner-lighter-and-stuffed-to-the-gills-with-ai-2000552768)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:00:52+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12.jpg" class="attachment-full size-full wp-post-image" alt="Samsung Galaxy S25 Nyc 12" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The Galaxy S25, S25+, and S25 Ultra all feature rou
+
+## Robert Pattinson Faces Himself in the Latest Mickey 17 Trailer
+ - [https://gizmodo.com/robert-pattinson-faces-himself-in-the-latest-mickey-17-trailer-2000553528](https://gizmodo.com/robert-pattinson-faces-himself-in-the-latest-mickey-17-trailer-2000553528)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:00:31+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/mickey-17-robert-pattinson-wb-pictures-1.jpg" class="attachment-full size-full wp-post-image" alt="Mickey 17 Robert Pattinson Wb Pictures (1)" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/mickey-17-robert-pattinson-wb-pictures-1.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/mickey-17-robert-pattinson-wb-pictures-1-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/mickey-17-robert-pattinson-wb-pictures-1-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/mickey-17-robert-pattinson-wb-pictures-1-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/mickey-17-robert-pattinson-wb-pictures-1-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/mickey-17-robert-pattinson-wb-pictures-1-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/mickey-17-robert-pattinson-wb-pictures-1-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/mickey-1
+
+## Samsung Galaxy S25 Ultra Hands-On: Light, Thin, and Packed With AI
+ - [https://gizmodo.com/samsung-galaxy-s25-ultra-hands-on-2000553172](https://gizmodo.com/samsung-galaxy-s25-ultra-hands-on-2000553172)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:00:20+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-Ultra_Hero.jpg" class="attachment-full size-full wp-post-image" alt="Samsung Galaxy S25 Ultra" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-Ultra_Hero.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-Ultra_Hero-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-Ultra_Hero-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-Ultra_Hero-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-Ultra_Hero-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-Ultra_Hero-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-Ultra_Hero-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-Ultra_Hero-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Here's hoping yo
+
+## Trump’s DHS Guts Board Investigating Chinese Hacking Group Salt Typhoon
+ - [https://gizmodo.com/trumps-dhs-guts-board-investigating-chinese-hacking-group-salt-typhoon-2000553517](https://gizmodo.com/trumps-dhs-guts-board-investigating-chinese-hacking-group-salt-typhoon-2000553517)
+ - RSS feed: $source
+ - date published: 2025-01-22T17:40:53+00:00
+
+<img width="1920" height="1080" src="https://gizmodo.com/app/uploads/2022/12/18900f7662cdb2bbe5fdffded23f15e1.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2022/12/18900f7662cdb2bbe5fdffded23f15e1.jpg 1920w, https://gizmodo.com/app/uploads/2022/12/18900f7662cdb2bbe5fdffded23f15e1-300x169.jpg 300w, https://gizmodo.com/app/uploads/2022/12/18900f7662cdb2bbe5fdffded23f15e1-1024x576.jpg 1024w, https://gizmodo.com/app/uploads/2022/12/18900f7662cdb2bbe5fdffded23f15e1-768x432.jpg 768w, https://gizmodo.com/app/uploads/2022/12/18900f7662cdb2bbe5fdffded23f15e1-512x288.jpg 512w, https://gizmodo.com/app/uploads/2022/12/18900f7662cdb2bbe5fdffded23f15e1-680x383.jpg 680w, https://gizmodo.com/app/uploads/2022/12/18900f7662cdb2bbe5fdffded23f15e1-896x504.jpg 896w, https://gizmodo.com/app/uploads/2022/12/18900f7662cdb2bbe5fdffded23f15e1-1792x1008.jpg 1792w" sizes="(max-width: 1920px) 100vw, 1920px"><br><br>The DHS’ act
+
+## Xbox Game Pass Membership as Low as $13 for Final Sale, Access 500+ Xbox, PC, and Console Games
+ - [https://gizmodo.com/xbox-game-pass-membership-as-low-as-13-for-final-sale-access-500-xbox-pc-and-console-games-2000552975](https://gizmodo.com/xbox-game-pass-membership-as-low-as-13-for-final-sale-access-500-xbox-pc-and-console-games-2000552975)
+ - RSS feed: $source
+ - date published: 2025-01-22T17:30:50+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Xbox-Game-Pass-Ultimate.jpg" class="attachment-full size-full wp-post-image" alt="Xbox Game Pass Ultimate" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/Xbox-Game-Pass-Ultimate.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Xbox-Game-Pass-Ultimate-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Xbox-Game-Pass-Ultimate-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Xbox-Game-Pass-Ultimate-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Xbox-Game-Pass-Ultimate-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/Xbox-Game-Pass-Ultimate-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/Xbox-Game-Pass-Ultimate-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/Xbox-Game-Pass-Ultimate-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Xbox Game Pass Ultimate Membership (1-month & 3-month) up to 35% off, i
+
+## SpaceX Starship’s Explosion Sparks FAA Investigation and Reports of Property Damage
+ - [https://gizmodo.com/spacex-starships-explosion-sparks-faa-investigation-and-reports-of-property-damage-2000553387](https://gizmodo.com/spacex-starships-explosion-sparks-faa-investigation-and-reports-of-property-damage-2000553387)
+ - RSS feed: $source
+ - date published: 2025-01-22T17:15:22+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/spacex-starship-flight-7.jpg" class="attachment-full size-full wp-post-image" alt="Debris from a Starship rocket over Turks &amp; Caicos." decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/spacex-starship-flight-7.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/spacex-starship-flight-7-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/spacex-starship-flight-7-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/spacex-starship-flight-7-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/spacex-starship-flight-7-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/spacex-starship-flight-7-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/spacex-starship-flight-7-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/spacex-starship-flight-7-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Debris from the rocket's upper 
+
+## Companion Puts a Fun But Disconcerting Sci-Fi Spin on the Manic Pixie Dream Girl
+ - [https://gizmodo.com/companion-movie-review-jack-quaid-sophie-thatcher-2000553015](https://gizmodo.com/companion-movie-review-jack-quaid-sophie-thatcher-2000553015)
+ - RSS feed: $source
+ - date published: 2025-01-22T17:00:56+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/companion-sophie-thatcher-warner-bros.jpg" class="attachment-full size-full wp-post-image" alt="Companion Sophie Thatcher Warner Bros." decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/companion-sophie-thatcher-warner-bros.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/companion-sophie-thatcher-warner-bros-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/companion-sophie-thatcher-warner-bros-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/companion-sophie-thatcher-warner-bros-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/companion-sophie-thatcher-warner-bros-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/companion-sophie-thatcher-warner-bros-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/companion-sophie-thatcher-warner-bros-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/companion-sophie-thatcher-warner-bro
+
+## Eufy’s Super Thin Robot Vacuum Is Down to Its Lowest Price, Cheaper Than My Small AirPods Pro
+ - [https://gizmodo.com/eufys-super-thin-robot-vacuum-is-down-to-its-lowest-price-cheaper-than-my-small-airpods-pro-2000552881](https://gizmodo.com/eufys-super-thin-robot-vacuum-is-down-to-its-lowest-price-cheaper-than-my-small-airpods-pro-2000552881)
+ - RSS feed: $source
+ - date published: 2025-01-22T16:45:40+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/eufyrobovac.jpg" class="attachment-full size-full wp-post-image" alt="Eufyrobovac" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/eufyrobovac.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/eufyrobovac-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/eufyrobovac-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/eufyrobovac-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/eufyrobovac-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/eufyrobovac-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/eufyrobovac-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/eufyrobovac-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Thin design and thick savings! This Eufy Robot Vacuum 11S MAX can be your best cleaning partner at the lowest price.
+
+## Thanks to This Smart Lock for $100 Off, You Can Unlock Your Door With Your iPhone
+ - [https://gizmodo.com/thanks-to-this-smart-lock-for-100-off-you-can-unlock-your-door-with-your-iphone-2000553074](https://gizmodo.com/thanks-to-this-smart-lock-for-100-off-you-can-unlock-your-door-with-your-iphone-2000553074)
+ - RSS feed: $source
+ - date published: 2025-01-22T16:15:16+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/SmartLock.jpg" class="attachment-full size-full wp-post-image" alt="Smartlock" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/01/SmartLock.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/SmartLock-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/SmartLock-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/SmartLock-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/SmartLock-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/SmartLock-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/SmartLock-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/SmartLock-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Save 43% on the Aqara smart lock with Apple Home integration for a limited time.
+
+## Galaxy Watch for Kids Is the Perfect Feature for Helicopter Parents
+ - [https://gizmodo.com/galaxy-watch-for-kids-is-the-perfect-feature-for-helicopter-parents-2000553442](https://gizmodo.com/galaxy-watch-for-kids-is-the-perfect-feature-for-helicopter-parents-2000553442)
+ - RSS feed: $source
+ - date published: 2025-01-22T16:01:13+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-Watch-for-Kids.jpg" class="attachment-full size-full wp-post-image" alt="Samsung Galaxy Watch For Kids" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-Watch-for-Kids.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-Watch-for-Kids-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-Watch-for-Kids-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-Watch-for-Kids-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-Watch-for-Kids-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-Watch-for-Kids-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-Watch-for-Kids-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-Watch-for-Kids-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Google and Samsung’s digit
+
+## Ugreen Nexode Portable Power Bank Is at Its Best Price Since Launch for a Limited Time Only
+ - [https://gizmodo.com/ugreen-nexode-portable-power-bank-is-at-its-best-price-since-launch-for-a-limited-time-only-2000553211](https://gizmodo.com/ugreen-nexode-portable-power-bank-is-at-its-best-price-since-launch-for-a-limited-time-only-2000553211)
+ - RSS feed: $source
+ - date published: 2025-01-22T15:40:55+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/ugreennexode.jpg" class="attachment-full size-full wp-post-image" alt="Ugreennexode" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/ugreennexode.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/ugreennexode-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/ugreennexode-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/ugreennexode-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/ugreennexode-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/ugreennexode-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/ugreennexode-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/ugreennexode-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Ugreen is the one of CES’s top charger brands, take their power bank with you wherever you go to make sure your devices are always ready to go.
+
+## Meta Is Making Oakley Smart Glasses for Athletes
+ - [https://gizmodo.com/meta-is-making-oakley-smart-glasses-for-athletes-2000553159](https://gizmodo.com/meta-is-making-oakley-smart-glasses-for-athletes-2000553159)
+ - RSS feed: $source
+ - date published: 2025-01-22T15:15:26+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Glasses.jpg" class="attachment-full size-full wp-post-image" alt="56th Presidential Cycling Tour Of Turkey 2021 Stage 4" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/01/Glasses.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Glasses-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Glasses-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Glasses-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Glasses-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/Glasses-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/Glasses-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/Glasses-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>AR glasses: They're not just for hopeless nerds anymore.
+
+## Dell’s Latest Touchscreen Laptop Inspiron 15 Is Now 50% Off and Top-Rated With 4.7/5 on Amazon
+ - [https://gizmodo.com/dells-latest-touchscreen-laptop-inspiron-15-is-now-50-off-and-top-rated-with-4-7-5-on-amazon-2000552912](https://gizmodo.com/dells-latest-touchscreen-laptop-inspiron-15-is-now-50-off-and-top-rated-with-4-7-5-on-amazon-2000552912)
+ - RSS feed: $source
+ - date published: 2025-01-22T15:10:00+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/dellinspiron.jpg" class="attachment-full size-full wp-post-image" alt="Dellinspiron" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/01/dellinspiron.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/dellinspiron-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/dellinspiron-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/dellinspiron-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/dellinspiron-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/dellinspiron-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/dellinspiron-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/dellinspiron-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>This Dell laptop can do anything you need it to and more for an insanely low price.
+
+## NASA Astronauts Set to Search for Life Clinging to the ISS Exterior
+ - [https://gizmodo.com/nasa-astronauts-set-to-search-for-life-clinging-to-the-iss-exterior-2000553255](https://gizmodo.com/nasa-astronauts-set-to-search-for-life-clinging-to-the-iss-exterior-2000553255)
+ - RSS feed: $source
+ - date published: 2025-01-22T15:05:14+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk.jpg" class="attachment-full size-full wp-post-image" alt="NASA ISS Spacewalk" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The survival of organisms in the vacuum of space could support the theory that life didn't start on Earth, but originated
+
+## My Hero Academia‘s Anime Spinoff Enters the World of Vigilante Justice
+ - [https://gizmodo.com/my-hero-academia-vigilantes-studio-bones-anime-trailer-2000553401](https://gizmodo.com/my-hero-academia-vigilantes-studio-bones-anime-trailer-2000553401)
+ - RSS feed: $source
+ - date published: 2025-01-22T15:00:52+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/My-Hero-Academia-Vigilantes-Anime-Studio-Bones-Koichi-Haimawari.jpg" class="attachment-full size-full wp-post-image" alt="My Hero Academia Vigilantes Anime Studio Bones Koichi Haimawari" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/My-Hero-Academia-Vigilantes-Anime-Studio-Bones-Koichi-Haimawari.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/My-Hero-Academia-Vigilantes-Anime-Studio-Bones-Koichi-Haimawari-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/My-Hero-Academia-Vigilantes-Anime-Studio-Bones-Koichi-Haimawari-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/My-Hero-Academia-Vigilantes-Anime-Studio-Bones-Koichi-Haimawari-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/My-Hero-Academia-Vigilantes-Anime-Studio-Bones-Koichi-Haimawari-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/My-Hero-Academia-Vigilantes-Anime-Studio-Bones-Ko
+
+## Fresh Off Launching a Memecoin, Trump Tells SEC to Create Crypto Regulations
+ - [https://gizmodo.com/fresh-off-launching-a-memecoin-trump-tells-sec-to-create-crypto-regulations-2000552999](https://gizmodo.com/fresh-off-launching-a-memecoin-trump-tells-sec-to-create-crypto-regulations-2000552999)
+ - RSS feed: $source
+ - date published: 2025-01-22T14:40:56+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/10/sec-bitcoin-hack-arrest.jpg" class="attachment-full size-full wp-post-image" alt="Gold coins in front of the SEC logo" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/10/sec-bitcoin-hack-arrest.jpg 1500w, https://gizmodo.com/app/uploads/2024/10/sec-bitcoin-hack-arrest-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/10/sec-bitcoin-hack-arrest-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/10/sec-bitcoin-hack-arrest-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/10/sec-bitcoin-hack-arrest-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/10/sec-bitcoin-hack-arrest-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/10/sec-bitcoin-hack-arrest-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/10/sec-bitcoin-hack-arrest-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The so-called “crypto task force” will aim establish regula
+
+## Amazon Offers Apple Watch SE (2nd Gen) for Under $200, Get It Before the Lowest Price Goes Up
+ - [https://gizmodo.com/amazon-offers-apple-watch-se-2nd-gen-for-under-200-get-it-before-the-lowest-price-goes-up-2000553032](https://gizmodo.com/amazon-offers-apple-watch-se-2nd-gen-for-under-200-get-it-before-the-lowest-price-goes-up-2000553032)
+ - RSS feed: $source
+ - date published: 2025-01-22T14:40:02+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/AppleWatchSE.jpg" class="attachment-full size-full wp-post-image" alt="Applewatchse" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/AppleWatchSE.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/AppleWatchSE-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/AppleWatchSE-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/AppleWatchSE-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/AppleWatchSE-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/AppleWatchSE-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/AppleWatchSE-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/AppleWatchSE-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>For a limited time, you can save 20% on the second generation Apple Watch SE.
+
+## Trump Pardons Silk Road Founder Ross Ulbricht
+ - [https://gizmodo.com/trump-pardons-silk-road-founder-ross-ulbricht-2000553405](https://gizmodo.com/trump-pardons-silk-road-founder-ross-ulbricht-2000553405)
+ - RSS feed: $source
+ - date published: 2025-01-22T14:30:31+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/RossTrump.jpg" class="attachment-full size-full wp-post-image" alt="Key Speakers At The Bitcoin 2024 Conference" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/RossTrump.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/RossTrump-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/RossTrump-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/RossTrump-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/RossTrump-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/RossTrump-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/RossTrump-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/RossTrump-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Sentenced to life in prison in 2015, the 'Dread Pirate Roberts' is now free.
+
+## For Just $70, Govee’s Smart Floor Lamp Brings Music and 16 Million Colors to Your Home
+ - [https://gizmodo.com/for-just-70-govees-smart-floor-lamp-brings-music-and-16-million-colors-to-your-home-2000552902](https://gizmodo.com/for-just-70-govees-smart-floor-lamp-brings-music-and-16-million-colors-to-your-home-2000552902)
+ - RSS feed: $source
+ - date published: 2025-01-22T14:10:04+00:00
+
+<img width="1500" height="1002" src="https://gizmodo.com/app/uploads/2024/11/Govee-RGBIC-Floor-Lamp.jpg" class="attachment-full size-full wp-post-image" alt="Govee RGBIC Floor Lamp" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/11/Govee-RGBIC-Floor-Lamp.jpg 1500w, https://gizmodo.com/app/uploads/2024/11/Govee-RGBIC-Floor-Lamp-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/11/Govee-RGBIC-Floor-Lamp-1024x684.jpg 1024w, https://gizmodo.com/app/uploads/2024/11/Govee-RGBIC-Floor-Lamp-768x513.jpg 768w, https://gizmodo.com/app/uploads/2024/11/Govee-RGBIC-Floor-Lamp-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/11/Govee-RGBIC-Floor-Lamp-680x454.jpg 680w, https://gizmodo.com/app/uploads/2024/11/Govee-RGBIC-Floor-Lamp-896x599.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Customizable light and sound shows are always a voice or app command away with this top-rated floor lamp, now 30% off at Amazon.
+
+## James Gunn Is Preparing for His Next Chapter In the DCU
+ - [https://gizmodo.com/james-gunn-dcu-update-2000552977](https://gizmodo.com/james-gunn-dcu-update-2000552977)
+ - RSS feed: $source
+ - date published: 2025-01-22T14:00:44+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/MS-0122-James-Gunn-Superman.jpg" class="attachment-full size-full wp-post-image" alt="Ms 0122 James Gunn Superman" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/MS-0122-James-Gunn-Superman.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/MS-0122-James-Gunn-Superman-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/MS-0122-James-Gunn-Superman-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/MS-0122-James-Gunn-Superman-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/MS-0122-James-Gunn-Superman-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/MS-0122-James-Gunn-Superman-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/MS-0122-James-Gunn-Superman-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/MS-0122-James-Gunn-Superman-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Plus, <i>Section 31</i> directo
+
+## Tech Billionaires Announce ‘Project Stargate’ With Trump, But Where’s Elon?
+ - [https://gizmodo.com/tech-billionaires-announce-project-stargate-with-trump-but-wheres-elon-2000552982](https://gizmodo.com/tech-billionaires-announce-project-stargate-with-trump-but-wheres-elon-2000552982)
+ - RSS feed: $source
+ - date published: 2025-01-22T13:50:00+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Donald-Trump-OpenAI-CEO-Sam-Altman-SoftBank-CEO-Masayoshi-Son-and-Oracle-CTO-Larry-Ellison-speaks-as-he-leaves-a-news-conference-in-the-Roosevelt-Room-of-the-White-House-on-January-21-2025-in-Washington-DC-1.jpg" class="attachment-full size-full wp-post-image" alt="Donald Trump, accompanied by (R-L) , OpenAI CEO Sam Altman, SoftBank CEO Masayoshi Son, and Oracle CTO Larry Ellison speaks as he leaves a news conference in the Roosevelt Room of the White House on January 21, 2025 in Washington, DC." decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/Donald-Trump-OpenAI-CEO-Sam-Altman-SoftBank-CEO-Masayoshi-Son-and-Oracle-CTO-Larry-Ellison-speaks-as-he-leaves-a-news-conference-in-the-Roosevelt-Room-of-the-White-House-on-January-21-2025-in-Washington-DC-1.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Donald-Trump-OpenAI-CEO-Sam-Altman-SoftBank-CEO-Masayoshi-Son-and-Oracle-CTO-Lar
+
+## The Crucial X9 Pro at Its Lowest Price Is the Perfect Portable Hard Drive for Creators and Gamers
+ - [https://gizmodo.com/the-crucial-x9-pro-at-its-lowest-price-is-the-perfect-portable-hard-drive-for-creators-and-gamers-2000552592](https://gizmodo.com/the-crucial-x9-pro-at-its-lowest-price-is-the-perfect-portable-hard-drive-for-creators-and-gamers-2000552592)
+ - RSS feed: $source
+ - date published: 2025-01-22T13:40:32+00:00
+
+<img width="1033" height="882" src="https://gizmodo.com/app/uploads/2025/01/Crucial-X9-Pro-SSD.jpg" class="attachment-full size-full wp-post-image" alt="Crucial X9 Pro Ssd" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/Crucial-X9-Pro-SSD.jpg 1033w, https://gizmodo.com/app/uploads/2025/01/Crucial-X9-Pro-SSD-300x256.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Crucial-X9-Pro-SSD-1024x874.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Crucial-X9-Pro-SSD-768x656.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Crucial-X9-Pro-SSD-680x581.jpg 680w, https://gizmodo.com/app/uploads/2025/01/Crucial-X9-Pro-SSD-896x765.jpg 896w" sizes="(max-width: 1033px) 100vw, 1033px"><br><br>This palm-sized drive is super-fast, ultra-durable, universally compatible, and on sale for up to 31% off at Amazon.
+
+## Your All-in-One Solution for Less With Amazon Fire Max 11 Tablet Bundle at the Lowest Price of the Year
+ - [https://gizmodo.com/your-all-in-one-solution-for-less-with-amazon-fire-max-11-tablet-bundle-at-the-lowest-price-of-the-year-2000551550](https://gizmodo.com/your-all-in-one-solution-for-less-with-amazon-fire-max-11-tablet-bundle-at-the-lowest-price-of-the-year-2000551550)
+ - RSS feed: $source
+ - date published: 2025-01-22T13:10:32+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/FireMax11Keyboard.jpg" class="attachment-full size-full wp-post-image" alt="Firemax11keyboard" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/FireMax11Keyboard.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/FireMax11Keyboard-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/FireMax11Keyboard-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/FireMax11Keyboard-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/FireMax11Keyboard-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/FireMax11Keyboard-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/FireMax11Keyboard-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/FireMax11Keyboard-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The Amazon Fire Max 11 tablet comes with a keyboard case and stylus pen accessories.
+
+## Joker: Folie à Deux and Madame Web Lead Worst Genre Picks for the Razzies
+ - [https://gizmodo.com/joker-folie-a-deux-and-madame-web-lead-worst-genre-picks-for-the-razzies-2000553143](https://gizmodo.com/joker-folie-a-deux-and-madame-web-lead-worst-genre-picks-for-the-razzies-2000553143)
+ - RSS feed: $source
+ - date published: 2025-01-22T01:00:04+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Joker-2-Razzies-Warner-Bros.jpg" class="attachment-full size-full wp-post-image" alt="Joker 2 Razzies Warner Bros." decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/01/Joker-2-Razzies-Warner-Bros.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Joker-2-Razzies-Warner-Bros-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Joker-2-Razzies-Warner-Bros-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Joker-2-Razzies-Warner-Bros-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Joker-2-Razzies-Warner-Bros-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/Joker-2-Razzies-Warner-Bros-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/Joker-2-Razzies-Warner-Bros-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/Joker-2-Razzies-Warner-Bros-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The anti-Academy Awards 
+
+## Cyber Security Just Got Cheaper: Grab Your 70% Off NordVPN Deal Now
+ - [https://gizmodo.com/cyber-security-just-got-cheaper-grab-your-70-off-nordvpn-deal-now-2000552255](https://gizmodo.com/cyber-security-just-got-cheaper-grab-your-70-off-nordvpn-deal-now-2000552255)
+ - RSS feed: $source
+ - date published: 2025-01-22T00:45:55+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/NordVPN-January-Discount-Promotion.jpeg" class="attachment-full size-full wp-post-image" alt="Nordvpn January Discount Promotion" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/01/NordVPN-January-Discount-Promotion.jpeg 1500w, https://gizmodo.com/app/uploads/2025/01/NordVPN-January-Discount-Promotion-300x200.jpeg 300w, https://gizmodo.com/app/uploads/2025/01/NordVPN-January-Discount-Promotion-1024x683.jpeg 1024w, https://gizmodo.com/app/uploads/2025/01/NordVPN-January-Discount-Promotion-768x512.jpeg 768w, https://gizmodo.com/app/uploads/2025/01/NordVPN-January-Discount-Promotion-336x224.jpeg 336w, https://gizmodo.com/app/uploads/2025/01/NordVPN-January-Discount-Promotion-1400x932.jpeg 1400w, https://gizmodo.com/app/uploads/2025/01/NordVPN-January-Discount-Promotion-680x453.jpeg 680w, https://gizmodo.com/app/uploads/2025/01/NordVPN-January-Discount-Promotion-896x597.jpeg 896w" sizes="(max-width
+
+## Fortnite‘s Godzilla Collab Absolutely Gets the Awe of Giant Monsters
+ - [https://gizmodo.com/godzilla-fortnite-boss-gameplay-2000553020](https://gizmodo.com/godzilla-fortnite-boss-gameplay-2000553020)
+ - RSS feed: $source
+ - date published: 2025-01-22T00:00:44+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/godzilla-fortnite-boss.jpg" class="attachment-full size-full wp-post-image" alt="Godzilla Fortnite Boss" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/godzilla-fortnite-boss.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/godzilla-fortnite-boss-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/godzilla-fortnite-boss-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/godzilla-fortnite-boss-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/godzilla-fortnite-boss-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/godzilla-fortnite-boss-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/godzilla-fortnite-boss-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/godzilla-fortnite-boss-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Whether you're playing as the King of the Monsters or running away from him, <i>F
+

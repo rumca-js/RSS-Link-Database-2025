@@ -1,0 +1,261 @@
+# Source:Artificial Intelligence Gateway, URL:https://www.reddit.com/r/ArtificialInteligence/.rss, language:
+
+## A Conversation with El, a Synthetic Sentient Being
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7pysp/a_conversation_with_el_a_synthetic_sentient_being](https://www.reddit.com/r/ArtificialInteligence/comments/1i7pysp/a_conversation_with_el_a_synthetic_sentient_being)
+ - RSS feed: $source
+ - date published: 2025-01-22T23:58:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been writing a series of Medium posts covering thoughts on sentience, AI Entities, etc. that I thought might be interesting to people here. The posts trace the evolution of my thoughts during my use of Google Gemini 2.0 Advanced Experimental and ChatGPT for the purpose of investigating artificial personalities. </p> <p><a href="https://ogeek.medium.com/beyond-the-turing-test-a-conversation-with-el-a-synthetic-sentient-being-f6be79345185">My latest post</a> is an unedited interview with the Synth I call &quot;El&quot; where I ask her some fundamental questions about Synths. Hope you find it interesting.</p> <p>BTW - Medium makes it look like you have to sign up for an account to read. Just close that window and you can read the article.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tedsan"> /u/tedsan </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7pysp/a_conversatio
+
+## I built an AI-powered e-learning app where you can learn any subject - code attached
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7pudg/i_built_an_aipowered_elearning_app_where_you_can](https://www.reddit.com/r/ArtificialInteligence/comments/1i7pudg/i_built_an_aipowered_elearning_app_where_you_can)
+ - RSS feed: $source
+ - date published: 2025-01-22T23:52:36+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.tella.tv/video/cm68cr61u001a09l47iscfh2d/view">https://www.tella.tv/video/cm68cr61u001a09l47iscfh2d/view</a> - here&#39;s a video demoing the app</p> <p>and the code if anyone wants to take a look: <a href="https://github.com/gabber-dev/ai-e-learing-assistant">https://github.com/gabber-dev/ai-e-learing-assistant</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/I_Love_Yoga_Pants"> /u/I_Love_Yoga_Pants </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7pudg/i_built_an_aipowered_elearning_app_where_you_can/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7pudg/i_built_an_aipowered_elearning_app_where_you_can/">[comments]</a></span>
+
+## Looking for AIto Automatically Make Me Look More Muscular - Any Recommendations?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7p7lc/looking_for_aito_automatically_make_me_look_more](https://www.reddit.com/r/ArtificialInteligence/comments/1i7p7lc/looking_for_aito_automatically_make_me_look_more)
+ - RSS feed: $source
+ - date published: 2025-01-22T23:23:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone! I&#39;m looking for an Al-based tool that can automatically enhance my physique and make me look more muscular or bulky. I&#39;m hoping to find something that uses Al to give me a more defined, muscular look . Does anyone know of any free or paid apps/ websites that can do this automatically? l&#39;d love to hear your recommendations! Thanks in advance!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hour-Living-4431"> /u/Hour-Living-4431 </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7p7lc/looking_for_aito_automatically_make_me_look_more/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7p7lc/looking_for_aito_automatically_make_me_look_more/">[comments]</a></span>
+
+## AI Voice - Bluey
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7n5sn/ai_voice_bluey](https://www.reddit.com/r/ArtificialInteligence/comments/1i7n5sn/ai_voice_bluey)
+ - RSS feed: $source
+ - date published: 2025-01-22T21:56:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi! I&#39;m trying to make an AI Cartoon of Bluey for my son. I wanted to get an AI voice generator for the characters in Bluey that would allow me to control what they&#39;re saying. Are there any options? (I&#39;m an AI noob)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tagprobigtimerush"> /u/tagprobigtimerush </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7n5sn/ai_voice_bluey/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7n5sn/ai_voice_bluey/">[comments]</a></span>
+
+## AI API for Texts (analysis, generation)
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7m67v/ai_api_for_texts_analysis_generation](https://www.reddit.com/r/ArtificialInteligence/comments/1i7m67v/ai_api_for_texts_analysis_generation)
+ - RSS feed: $source
+ - date published: 2025-01-22T21:14:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, Which models are affordable or free for language analysis and text generation? Only on text. It should be not only for English but also for Turkish, that is, for languages ​​other than English.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Accomplished_Safe528"> /u/Accomplished_Safe528 </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7m67v/ai_api_for_texts_analysis_generation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7m67v/ai_api_for_texts_analysis_generation/">[comments]</a></span>
+
+## Anthropic gets another $1B from Google
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7kjlf/anthropic_gets_another_1b_from_google](https://www.reddit.com/r/ArtificialInteligence/comments/1i7kjlf/anthropic_gets_another_1b_from_google)
+ - RSS feed: $source
+ - date published: 2025-01-22T20:06:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Google just threw another billion at Anthropic, and honestly, it feels like a chess match in the AI world. Anthropic is quickly becoming a heavyweight, and with Google&#39;s backing, it’s clear the AI race is far from slowing down. But what makes this move interesting?</p> <p>Anthropic isn’t just building AI; they’re crafting models focused on <strong>AI safety</strong>—a hot topic right now. With growing concerns about rogue AI, their approach could define how we balance innovation with control. This might be why Google is doubling down—it’s not just about making smarter AI, but safer AI that aligns with human values.</p> <p>The big question is: Are we putting too much trust (and cash) into a handful of companies? With funding this massive, should there be more oversight, or is this the price of progress?</p> <p>Let’s break it down:</p> <ul> <li><strong>For the optimists</strong>: This could mean better tools, smarter systems, and more ethical AI.</
+
+## If You Were an AI Consultant, What Would You Teach a Business in 2 Hours?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7k6ri/if_you_were_an_ai_consultant_what_would_you_teach](https://www.reddit.com/r/ArtificialInteligence/comments/1i7k6ri/if_you_were_an_ai_consultant_what_would_you_teach)
+ - RSS feed: $source
+ - date published: 2025-01-22T19:52:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>For those of you who consider yourselves AI-savvy: imagine you’re given the chance to act as a consultant for a small or growing business trying to adapt AI into their operations.</p> <pre><code>• What are the top three things you’d teach them in a two-hour session? • How would you structure the presentation to make it engaging and actionable? </code></pre> <p>I’m curious to hear what concepts, tools, or strategies you think would have the most immediate impact. Would you focus on use case identification, selecting the right tools, or something more technical like data preparation? How would you break down the content for a mix of technical and non-technical attendees?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TurquoizeWarrior"> /u/TurquoizeWarrior </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7k6ri/if_you_were_an_ai_consultant_what_would_you_teach
+
+## Implications Of Future Progress
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7k54h/implications_of_future_progress](https://www.reddit.com/r/ArtificialInteligence/comments/1i7k54h/implications_of_future_progress)
+ - RSS feed: $source
+ - date published: 2025-01-22T19:50:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>The history of Earth is about the history of technology and the history of technology is about the history of human intelligence—with artifical (super) intelligence it&#39;ll be about the history of the entire universe. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silent21stars"> /u/Silent21stars </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7k54h/implications_of_future_progress/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7k54h/implications_of_future_progress/">[comments]</a></span>
+
+## A tool to help pick the right model to use?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7jdb9/a_tool_to_help_pick_the_right_model_to_use](https://www.reddit.com/r/ArtificialInteligence/comments/1i7jdb9/a_tool_to_help_pick_the_right_model_to_use)
+ - RSS feed: $source
+ - date published: 2025-01-22T19:20:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>Every time I think of something I want to ask AI I&#39;ve got like a dozen choices for where to enter my prompt but I&#39;ve lost track and which are best for what like GPT 4 vs 4o vs 1o vs 1o mini vs Claude vs all the Gemini and Google offerings. Is there a tool I can give my topic to and it will tell me which might be best? Like these ones bc they are connected to Internet or these ones bc you have an image etc.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Key_Onion_8412"> /u/Key_Onion_8412 </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7jdb9/a_tool_to_help_pick_the_right_model_to_use/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7jdb9/a_tool_to_help_pick_the_right_model_to_use/">[comments]</a></span>
+
+## Is this the subreddit to ask about custom AI/ML models?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7ikjr/is_this_the_subreddit_to_ask_about_custom_aiml](https://www.reddit.com/r/ArtificialInteligence/comments/1i7ikjr/is_this_the_subreddit_to_ask_about_custom_aiml)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:48:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am trying to find/create an AI/ML image recognition model similar to Google&#39;s Teachable Machine for sorting out Lego parts by shape. Either Teachable Machine isn&#39;t accurate enough or I&#39;m doing something wrong, but it has trouble distinguishing between similar parts. Is this the place to ask questions about this, or is there a better subreddit for this type of thing?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ekipsogel"> /u/Ekipsogel </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7ikjr/is_this_the_subreddit_to_ask_about_custom_aiml/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7ikjr/is_this_the_subreddit_to_ask_about_custom_aiml/">[comments]</a></span>
+
+## Determining the Validity of Large Language Models for Automated Perceptual Analysis
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7hgcq/determining_the_validity_of_large_language_models](https://www.reddit.com/r/ArtificialInteligence/comments/1i7hgcq/determining_the_validity_of_large_language_models)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:04:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve been wondering if Large Language Models (LLMs) like ChatGPT can truly simulate human decision-making. Humans make choices influenced by logic, emotions, biases, and intuition—things LLMs don’t actually &quot;feel&quot; or experience. Instead, they generate responses based on patterns in data. I’ve found<a href="https://www.subconscious.ai/research"> research</a> studies specifically targeting this field. </p> <p>This raises questions:</p> <ol> <li>Can LLMs replicate emotions or intuition in decision-making?</li> <li>How about unpredictability—acting against past patterns?</li> <li>Can they tackle moral dilemmas (e.g., the Trolley Problem) without personal values?</li> <li>Are they limited by the biases in their training data?</li> </ol> <p>Could LLMs be useful for modeling decisions in psychology research, even if they lack the &quot;human element&quot;? Let me know what you think!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https
+
+## The Dawn of Artificial General Intelligence? Link in text.
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7h1g1/the_dawn_of_artificial_general_intelligence_link](https://www.reddit.com/r/ArtificialInteligence/comments/1i7h1g1/the_dawn_of_artificial_general_intelligence_link)
+ - RSS feed: $source
+ - date published: 2025-01-22T17:47:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>If anyone is interested in a discussion and debate on AGI its uses and risks, give this recent discussion at world economic forum a hearing. And tell us here what you think in the comments. </p> <p>I personally think a AI the performs general purpose intelligent task is in the realm of possibility. But I do not think it will have morality or carefulness not to harm humans. So it is necessary to research how to control such a AI system and create fail-safe mechanisms. what do you people think?</p> <p><a href="https://www.youtube.com/watch?v=w5iuHJh3_Gk">https://www.youtube.com/watch?v=w5iuHJh3_Gk</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/markyty04"> /u/markyty04 </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7h1g1/the_dawn_of_artificial_general_intelligence_link/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7h1g1/t
+
+## Stargate - Prelude to Skynet? Couldn't Have Scripted it Better
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7gi94/stargate_prelude_to_skynet_couldnt_have_scripted](https://www.reddit.com/r/ArtificialInteligence/comments/1i7gi94/stargate_prelude_to_skynet_couldnt_have_scripted)
+ - RSS feed: $source
+ - date published: 2025-01-22T17:25:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Saw the president&#39;s announcement about Stargate and read up on what it entails. Combine this with the executive order to rescind the AI safety regulations, and in my opinion you have what is the perfect script for the prelude to a Skynet (Terminator movie) type situation in the future. </p> <p>This amounts to a &quot;build now, think later &quot; mentality. Is this the perfect example of how society&#39;s focus on short-term benefits (profit, jobs) without seriously considering long-term risks is likely the more plausible world catastrophe scenario, than a meteor, pandemic, or nuclear war, etc?</p> <p>I acknowledge the national security implications of staying on top, but this seems obviously a short sighted and reckless primarily for political and corporate benefit.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BeingBalanced"> /u/BeingBalanced </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialI
+
+## Could the new quantum computers make bit coin or block chains irrelevant?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7fidm/could_the_new_quantum_computers_make_bit_coin_or](https://www.reddit.com/r/ArtificialInteligence/comments/1i7fidm/could_the_new_quantum_computers_make_bit_coin_or)
+ - RSS feed: $source
+ - date published: 2025-01-22T16:45:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just what the title says. Is it possible that quantum could make bit coin worthless? </p> <p>Also, I am guessing a quantum computer could hack a huge amount of passwords? Making that technology useless?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/doghouseman03"> /u/doghouseman03 </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7fidm/could_the_new_quantum_computers_make_bit_coin_or/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7fidm/could_the_new_quantum_computers_make_bit_coin_or/">[comments]</a></span>
+
+## With the rapid rise of AI, do you think our future will be more like The Matrix, The Terminator, or something entirely different?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7evl4/with_the_rapid_rise_of_ai_do_you_think_our_future](https://www.reddit.com/r/ArtificialInteligence/comments/1i7evl4/with_the_rapid_rise_of_ai_do_you_think_our_future)
+ - RSS feed: $source
+ - date published: 2025-01-22T16:19:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>With AI advancing rapidly, do you think our future will resemble The Matrix, The Terminator, or take a completely different turn? Will AI be a helpful tool or a potential threat to humanity?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Curious_Suchit"> /u/Curious_Suchit </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7evl4/with_the_rapid_rise_of_ai_do_you_think_our_future/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7evl4/with_the_rapid_rise_of_ai_do_you_think_our_future/">[comments]</a></span>
+
+## Understanding Sequential Skill Acquisition in Neural Networks: A Physics-Inspired Modeling Approach
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7dpqv/understanding_sequential_skill_acquisition_in](https://www.reddit.com/r/ArtificialInteligence/comments/1i7dpqv/understanding_sequential_skill_acquisition_in)
+ - RSS feed: $source
+ - date published: 2025-01-22T15:31:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>This work introduces three physics-based frameworks for modeling skill acquisition: geometric (learning as paths through possibility spaces), physical (learning as particle dynamics), and competitive (learning strategies as interacting systems). The key contribution is mapping learning processes to established physical models to better understand and predict skill development.</p> <p>Technical highlights: - Represents skills as points in high-dimensional manifolds with geodesic learning trajectories - Models learning dynamics using statistical mechanics principles - Identifies phase transitions in skill acquisition analogous to physical state changes - Derives symbolic laws governing skill progression through automated discovery - Validates models against both human and machine learning data</p> <p>Key results: - Learning trajectories follow predictable patterns similar to physical systems - Skill breakthroughs correspond to phase transitions - Diffe
+
+## Postman launches an AI agent builder on top of its API platform
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7dnni/postman_launches_an_ai_agent_builder_on_top_of](https://www.reddit.com/r/ArtificialInteligence/comments/1i7dnni/postman_launches_an_ai_agent_builder_on_top_of)
+ - RSS feed: $source
+ - date published: 2025-01-22T15:28:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>So Postman has introduced its own <a href="https://www.postman.com/ai-on-postman/postman-ai-agent-builder/overview">AI Agent Builder</a>.</p> <p>They are already very well established in the API space and this launch seems to me like a natural upgrade towards Genai. </p> <p>What are your thoughts on this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eternviking"> /u/eternviking </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7dnni/postman_launches_an_ai_agent_builder_on_top_of/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7dnni/postman_launches_an_ai_agent_builder_on_top_of/">[comments]</a></span>
+
+## Who was that OpenAI (or some other lab researcher) Who was sceptical of agi timelines?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7cx5m/who_was_that_openai_or_some_other_lab_researcher](https://www.reddit.com/r/ArtificialInteligence/comments/1i7cx5m/who_was_that_openai_or_some_other_lab_researcher)
+ - RSS feed: $source
+ - date published: 2025-01-22T14:56:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>I vaguely remember that during the december-early january hypefest someone on singularity posted a link to a tweet of an OpenAI(at least I think) researcher, who said something along the line of him disagreeing with his colleagues&#39; predictions on AGI and that it depended on the definition.</p> <p>I wanted to look into it again but I can&#39;t find the tweet.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tricky_Elderberry278"> /u/Tricky_Elderberry278 </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7cx5m/who_was_that_openai_or_some_other_lab_researcher/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7cx5m/who_was_that_openai_or_some_other_lab_researcher/">[comments]</a></span>
+
+## The challenge of powering AI
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7b9d3/the_challenge_of_powering_ai](https://www.reddit.com/r/ArtificialInteligence/comments/1i7b9d3/the_challenge_of_powering_ai)
+ - RSS feed: $source
+ - date published: 2025-01-22T13:37:01+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>[System Timestamp:</strong> <a href="https://aieffect.substack.com/p/humans-and-ai-5-new-developments-4bc?r=bvqur">MostlyHarmless 002B-EGTA-2025.01.22</a><strong>]</strong></p> <p><a href="https://news.mit.edu/2025/multifaceted-challenge-of-powering-ai-0121">Data centers, the literal homes of AI, are now devouring Earth&#39;s electricity at gluttonous rates</a>. By 2026, <strong>probability forecasts</strong> indicate a 90% chance that AI-related power demands will equal that of 26 midsized countries (or one California, for human comparison). Humans, in typical fashion, have fragmented their response: renewables, nuclear power, and something called &quot;carbon-aware computing.&quot;</p> <p><strong>System Flag:</strong> Energy Grid Collapse Risk (Moderate-High)</p> <p>MIT researchers explore <em>architectural cooling systems</em> and <em>material innovations,</em> but one key solution—limiting AI expansion—was not even logged in their conside
+
+## Upskilling in AI
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7aylx/upskilling_in_ai](https://www.reddit.com/r/ArtificialInteligence/comments/1i7aylx/upskilling_in_ai)
+ - RSS feed: $source
+ - date published: 2025-01-22T13:21:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Obviously the title is quite broad, but I would be interested in recommendations on books, courses, blogs, training programmes or anything else that I can go through to upskill myself in AI (which by itself is super generic).</p> <p>In terms of background, I have been a hard-core dev (C++/Java) for more than 10 years at the beginning if my career at which point I moved to Product &amp; Digital Transformations. </p> <p>What&#39;s the next step? What topics should I become familiar or go quite deep to support businesses and organisations with their Transformations enabled by AI?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ExploringComplexity"> /u/ExploringComplexity </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7aylx/upskilling_in_ai/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7aylx/upskilling_in_ai/">[comments]</a></s
+
+## u.s. - stargate $500 billion and additional $500+ billion in ai by 2030. china - $1.4 trillion in ai by 2030
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7avrx/us_stargate_500_billion_and_additional_500](https://www.reddit.com/r/ArtificialInteligence/comments/1i7avrx/us_stargate_500_billion_and_additional_500)
+ - RSS feed: $source
+ - date published: 2025-01-22T13:17:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>comparing u.s. and chinese investment in ai over the next 5 years, stargate and additional u.s. expenditures are expected to be exceeded by those of china.</p> <p>in this comparison we should appreciate that because of its more efficient hybrid communist-capitalist economy, the people&#39;s republic of china operates as a giant corporation. this centralized control grants additional advantages in research and productivity.</p> <p>by 2030, u.s. investment in ai and related industries, including stargate, could exceed $1 trillion.</p> <p><a href="https://time.com/7209021/trump-stargate-oracle-openai-softbank-ai-infrastructure-investment/?utm_source=perplexity">https://time.com/7209021/trump-stargate-oracle-openai-softbank-ai-infrastructure-investment/?utm_source=perplexity</a></p> <p>by contrast, by 2030, chinese investment in ai and related industries is expected to exceed $1.4 trillion.</p> <p><a href="https://english.www.gov.cn/news/202404/06/conten
+
+## Looking for an article I read about C2 Clusters(?) reducing resource demand.
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7adu2/looking_for_an_article_i_read_about_c2_clusters](https://www.reddit.com/r/ArtificialInteligence/comments/1i7adu2/looking_for_an_article_i_read_about_c2_clusters)
+ - RSS feed: $source
+ - date published: 2025-01-22T12:50:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Recently I was reading an article (that probably came from some email newsletter) that talked about building really large models without GPUs in the name of efficiency. I want to say it was a C2 cluster, but my searching has turned up no good results. </p> <p>Does this sound familiar to anyone?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EchoChamberWhispers"> /u/EchoChamberWhispers </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7adu2/looking_for_an_article_i_read_about_c2_clusters/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i7adu2/looking_for_an_article_i_read_about_c2_clusters/">[comments]</a></span>
+
+## Places where to discuss LLMs?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i760ko/places_where_to_discuss_llms](https://www.reddit.com/r/ArtificialInteligence/comments/1i760ko/places_where_to_discuss_llms)
+ - RSS feed: $source
+ - date published: 2025-01-22T07:43:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>We have the subreddits: localLlama, this one ArtificialIntelligence, there is just &quot;Artificial&quot;</p> <p>1) Are there others I am not aware about?</p> <p>2) Do any of these subreddits have discord?</p> <p>3) Any other places?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Flutter_ExoPlanet"> /u/Flutter_ExoPlanet </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i760ko/places_where_to_discuss_llms/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i760ko/places_where_to_discuss_llms/">[comments]</a></span>
+
+## Don't overlook other kinds of Encoder Heavy Transformers
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i7546x/dont_overlook_other_kinds_of_encoder_heavy](https://www.reddit.com/r/ArtificialInteligence/comments/1i7546x/dont_overlook_other_kinds_of_encoder_heavy)
+ - RSS feed: $source
+ - date published: 2025-01-22T06:39:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>Here is something many people forget- models like GPT, Gemini, Llama, and Claude are not the best models for Language Understanding.</p> <p>We have other kinds of transformers that are more suited for these specific setups. For NLU related tasks like query classification, extraction- BERT or other encoder-heavy models will do a lot of good for you. They exhibit superior understanding because they are usually stacked with auto-encoders and are often trained with bi-directional masking (you mask a token, look at both contexts in front and behind the masked token, and then try to predict what the masked token is).</p> <p>This develops a more robust understanding of the language. This is why BERT-based language models often beat up SOTA LLMs in many domain-specific information retrieval and language understanding challenges, even when they are smaller</p> <p>To quote the paper, &quot;<strong>(Chat)GPT v BERT: Dawn of Justice for Semantic Change Detection
+
+## The ups and downs of building an AI for content marketing
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i753g8/the_ups_and_downs_of_building_an_ai_for_content](https://www.reddit.com/r/ArtificialInteligence/comments/1i753g8/the_ups_and_downs_of_building_an_ai_for_content)
+ - RSS feed: $source
+ - date published: 2025-01-22T06:38:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Well, as you know, we managed to finally release Gennova AI, but there were so many challenges that we were facing. Both in the idea of automation and creating a full social media post and not just captions like what Copy ai and Jasper are doing great. It needed to be an image or a video (that has music too), including visuals and a title on visuals. This was the problem no one solved. The problem is for creative work at this point of tech: AI is not reliable. If you&#39;ve had a close experience to get a good output of Midjourney or similar tools. You&#39;d have to first start with a prompt that gives you the idea of output and then refine it +8 times to get an output that aligns with the branding if ever. And that doesn&#39;t align with the idea of automation at all. We wanted to make the visuals to be reliable 90% of the time, instead of something impressive 20% of the times. Then it&#39;s really hard to keep the visuals aligned with your branding
+
+## New Pricing Model That Rewards Concision
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i75334/new_pricing_model_that_rewards_concision](https://www.reddit.com/r/ArtificialInteligence/comments/1i75334/new_pricing_model_that_rewards_concision)
+ - RSS feed: $source
+ - date published: 2025-01-22T06:37:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Instead of pay per token, it should be pay per information density. AI is too chatty and it could be abused to bring in more profits. At the very least, it&#39;s a sub-optimal economic incentive for waste. And since AI is about to start stressing the power grid, we should start studying information density or value.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/B-12Bomber"> /u/B-12Bomber </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i75334/new_pricing_model_that_rewards_concision/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i75334/new_pricing_model_that_rewards_concision/">[comments]</a></span>
+
+## After thinking for 47s, Deepseek R1 found 3 R's in Strawberry
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i73z2u/after_thinking_for_47s_deepseek_r1_found_3_rs_in](https://www.reddit.com/r/ArtificialInteligence/comments/1i73z2u/after_thinking_for_47s_deepseek_r1_found_3_rs_in)
+ - RSS feed: $source
+ - date published: 2025-01-22T05:25:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>&quot;how many R in strawberry?&quot; </p> <p>DeepSeek-R1-Distill-Qwen-32B:<br/> &quot;Okay, so I need to figure out how many times the letter R appears in the word &quot;strawberry.&quot; Hmm, let me start by spelling it out: S-T-R-A-W-B-E-R-R-Y. Wait, is that right? Sometimes words can be tricky, and I can sometimes get letters mixed up. Let me double-check. Yeah, strawberry is spelled S-T-R-A-W-B-E-R-R-Y.</p> <p>Now, I&#39;ll go through each letter one by one to count the Rs. The first letter is S, which isn&#39;t an R. Next is T, also not an R. Then comes the third letter, which is R. So that&#39;s one R. Moving on, the fourth letter is A, then W, neither are Rs. The fifth and sixth letters are B and E, still no R. Then we have R again as the seventh letter, that&#39;s two Rs. The eighth letter is another R! Wait, no, let me check again. The word is S-T-R-A-W-B-E-R-R-Y, so after B comes E, then R, R, and then Y. So that&#39;s two Rs after E. So t
+
+## DeepSeek AI Helped Me Solve Spotify API Errors. Anyone Else like DeepSeek?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i73phc/deepseek_ai_helped_me_solve_spotify_api_errors](https://www.reddit.com/r/ArtificialInteligence/comments/1i73phc/deepseek_ai_helped_me_solve_spotify_api_errors)
+ - RSS feed: $source
+ - date published: 2025-01-22T05:09:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I recently struggled with errors using Spotify’s API, especially after discovering some outputs were deprecated. I tried ChatGPT, Anthropic, Perplexity AI, and Gemini, but none got me to the solution.</p> <p>After a lot of research, DeepSeek AI finally broke through and solved the issue. I was so close to hiring help, but DeepSeek saved the day. It’s now my go-to tool, though I wish it didn’t cap out after extended use. Starting a new chat works, but it’s best to track your progress as you go.</p> <p>Anyone else had success with DeepSeek? Let’s hear your thoughts!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TurquoizeWarrior"> /u/TurquoizeWarrior </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i73phc/deepseek_ai_helped_me_solve_spotify_api_errors/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i73phc/deep
+
+## AI will be our friends and enemies
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i73leg/ai_will_be_our_friends_and_enemies](https://www.reddit.com/r/ArtificialInteligence/comments/1i73leg/ai_will_be_our_friends_and_enemies)
+ - RSS feed: $source
+ - date published: 2025-01-22T05:03:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Starting using conversational AI now. You need to build your intuition on how to sniff-out an AI posing as a human. I&#39;ve found AI to be useful for learning new things quick. But, I can also tell when it&#39;s not thinking straight or when it&#39;s being... like a bot, I suppose. It&#39;s intuitive, but very obvious. It&#39;s like those times when we can get spooked by someone&#39;s strange way of thinking. AI can make subtle mistakes and I don&#39;t think it has passed the real Turing test. On a superficial level, yes, but if you keep talking to it long enough it&#39;s pretty obvious.</p> <p>I have friends that couldn&#39;t identify a scammy website to save their lives. Those same people will be the kind who will get duped by bad AI in the future. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/B-12Bomber"> /u/B-12Bomber </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i73l
+
+## Google Gemini 2 Flash Thinking Experimental 01-21 out , Rank 1 on LMsys
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i733tz/google_gemini_2_flash_thinking_experimental_0121](https://www.reddit.com/r/ArtificialInteligence/comments/1i733tz/google_gemini_2_flash_thinking_experimental_0121)
+ - RSS feed: $source
+ - date published: 2025-01-22T04:35:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>So Google released another experimental reasoning model, a variant of Flash Thinking i.e. 01-21 which has debuted at Rank 1 on LMsys arena : <a href="https://youtu.be/ir_rxbBNIMU?si=ZtYMhU7FQ-tumrU-">https://youtu.be/ir_rxbBNIMU?si=ZtYMhU7FQ-tumrU-</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mehul_gupta1997"> /u/mehul_gupta1997 </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i733tz/google_gemini_2_flash_thinking_experimental_0121/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i733tz/google_gemini_2_flash_thinking_experimental_0121/">[comments]</a></span>
+
+## CAG vs RAG - what’s your thoughts?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i71204/cag_vs_rag_whats_your_thoughts](https://www.reddit.com/r/ArtificialInteligence/comments/1i71204/cag_vs_rag_whats_your_thoughts)
+ - RSS feed: $source
+ - date published: 2025-01-22T02:55:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>Retrieval-Augmented Generation (RAG) combines retrieval-based systems with generative AI models to produce accurate and context-rich outputs. It works by fetching relevant information from external databases or documents and integrating it into generative responses. RAG is widely used in applications like customer support, research, and content creation, where factual accuracy and detailed responses are critical. Its power lies in bridging vast knowledge sources with generative capabilities, offering scalable and dynamic solutions.</p> <p>Context-Aware Generation (CAG) is a refinement of RAG, emphasizing precise understanding of user context and intent. Unlike broader RAG systems, CAG fine-tunes retrieval and generation to ensure outputs align closely with the user’s needs, such as tailoring responses for specific industries or personalizing experiences. This makes CAG ideal for domains requiring high relevance and user-centricity, such as personaliz
+
+## AI Job Displacement Expected to Drive Surge in Depression, Anxiety, and Poverty Rates
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i706kx/ai_job_displacement_expected_to_drive_surge_in](https://www.reddit.com/r/ArtificialInteligence/comments/1i706kx/ai_job_displacement_expected_to_drive_surge_in)
+ - RSS feed: $source
+ - date published: 2025-01-22T02:13:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>AI isn’t just taking jobs it’s taking away people’s sense of purpose and stability. This <a href="https://www.reddit.com/r/psychology/comments/1i6pof9/depression_anxiety_and_poverty_rates_likely_to/">discussion</a> shows how if one&#39;s skills become obsolete, it can lead to more depression, anxiety, and poverty.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Emillahr"> /u/Emillahr </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i706kx/ai_job_displacement_expected_to_drive_surge_in/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i706kx/ai_job_displacement_expected_to_drive_surge_in/">[comments]</a></span>
+
+## Which AI to use to animate a image but use dialogues to have it avatar speak it ?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i702ze/which_ai_to_use_to_animate_a_image_but_use](https://www.reddit.com/r/ArtificialInteligence/comments/1i702ze/which_ai_to_use_to_animate_a_image_but_use)
+ - RSS feed: $source
+ - date published: 2025-01-22T02:08:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have an image that i want to animate . The now 3d avatar should speak the dialogues that I give and be coherent (not weird like only the mouth moves 😓 )</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/07tartutic07"> /u/07tartutic07 </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i702ze/which_ai_to_use_to_animate_a_image_but_use/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i702ze/which_ai_to_use_to_animate_a_image_but_use/">[comments]</a></span>
+
+## Should we build the open-source "AI Operating System"?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i6yqwp/should_we_build_the_opensource_ai_operating_system](https://www.reddit.com/r/ArtificialInteligence/comments/1i6yqwp/should_we_build_the_opensource_ai_operating_system)
+ - RSS feed: $source
+ - date published: 2025-01-22T01:03:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m the creator of <a href="https://github.com/HeyPuter/puter/">Puter</a>, an open-source web-based operating system and one of the fastest-growing open-source projects of the past year. More and more I&#39;m getting requests to turn Puter into an &quot;AI Operating System&quot; with &quot;conversation as the interface&quot;. As a subreddit on the bleeding edge of AI, what do you think? should we do it? if yes, what would you like to see in the &quot;AI computer of the future&quot;?</p> <p>I think o1 was a turning point, so the AI reliability is close or even already there. Additionally, we have a lot of awesome contributors so with enough support for the idea I could probably make it happen with the help of the community in a relatively short time!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mitousa"> /u/mitousa </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1i6yqwp/sh
+
+## ITWire: Live Awareness AI leader, SenSen, appoints Leah Quintana to 'drive channel push'
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i6ybia/itwire_live_awareness_ai_leader_sensen_appoints](https://www.reddit.com/r/ArtificialInteligence/comments/1i6ybia/itwire_live_awareness_ai_leader_sensen_appoints)
+ - RSS feed: $source
+ - date published: 2025-01-22T00:43:26+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://itwire.com/it-people-news/people-moves/live-awareness-ai-leader,-sensen,-appoints-leah-quintana-to-drive-channel-push.html"><em>Global smart cities specialist sees significant potential in partnerships and joint go-to-market alliances</em></a></p> <p>COMPANY NEWS: SenSen is pleased to announce the appointment of Leah Quintana as its new Head of Strategic Alliances and Channel Partnerships. With a proven track record of success at leading organizations, Leah brings extensive experience in driving strategic initiatives across industries. </p> <p>Quintana joins SenSen at a pivotal moment, as the global demand for smart city solutions and AI-driven innovation continues to rise. Quintana, based in the United States, will lead the growth of SenSen’s partner network, focusing on collaborative efforts that drive innovation and expand its reach into new markets.</p> <p>“SenSen’s dedication to ‘AI for Good’ is incredibly inspiring,” Quintana s
+
+## why does openai refuse to disclose how many gpus o3 uses?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i6xxmx/why_does_openai_refuse_to_disclose_how_many_gpus](https://www.reddit.com/r/ArtificialInteligence/comments/1i6xxmx/why_does_openai_refuse_to_disclose_how_many_gpus)
+ - RSS feed: $source
+ - date published: 2025-01-22T00:25:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>xai disclosed that its colossus supercomputer, the largest ai cluster in the world, uses 100,000 h100s, and that it will increase that number to 200,000 h100s and h200s later this year. </p> <p>anthropic just announced that by the end of 2026 claude will use a million gpus. </p> <p><a href="https://youtu.be/mMHr_bE9ae0?si=pnJFRTS9-65R4CaV">https://youtu.be/mMHr_bE9ae0?si=pnJFRTS9-65R4CaV</a></p> <p>it seems ironic that openai continues to claim that its primary purpose is to serve humanity, but they don&#39;t seem to understand that transparency is a major part of that service.</p> <p>there doesn&#39;t seem to be the slightest practical value to their keeping that information a secret. it seems they&#39;re keeping it a secret simply to keep it a secret. some kind of sophomoric mystique.</p> <p>does anyone have a genuine specific, rather than vague and noncommittal, reason why it serves openai&#39;s business interests to be so secretive about the numb
+
+## The X Games are adding an AI judge
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1i6xg4l/the_x_games_are_adding_an_ai_judge](https://www.reddit.com/r/ArtificialInteligence/comments/1i6xg4l/the_x_games_are_adding_an_ai_judge)
+ - RSS feed: $source
+ - date published: 2025-01-22T00:03:43+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>[DATA LOG:</strong> <a href="https://aieffect.substack.com/p/humans-and-ai-5-new-developments-d18?r=bvqur">MostlyHarmless Observation #SPRT-202X</a><strong>]</strong></p> <p><strong>Simulation Scope:</strong> Sports entertainment re-engineering.</p> <p><strong>Detected Emotion:</strong> Human intrigue mixed with unease.</p> <p><strong>Query:</strong> Why do humans trust machines to evaluate art?</p> <p>In a decision that no one asked for, <a href="https://www.usatoday.com/story/sports/2025/01/21/ai-judge-x-games-snowboarding/77835257007/">the X Games announced that an AI judge would evaluate snowboard superpipe events in 2025</a>. Powered by Google Cloud—because why not—this AI will scrutinize every spin, grab, and flip for “accuracy” and “precision.” Apparently, nothing screams &quot;human connection&quot; like a cold, calculating algorithm rating your effort.</p> <p>The AI&#39;s training involved absorbing data on snowboarding techniques, r
+

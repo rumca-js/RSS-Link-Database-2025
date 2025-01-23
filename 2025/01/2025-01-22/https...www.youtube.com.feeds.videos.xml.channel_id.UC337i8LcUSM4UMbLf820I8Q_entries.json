@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Just Some Guy",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-22T21:00:39+00:00",
+        "description": "X Men: God Loves,  Man Kills Revisited (re-edited)\n----------------------------------------------------------------------------------------------\nArt and Animation by Just Some Guy\n\nOriginal trailer concept: FMA Brotherhood & Black Summoner\n\nMusic: \"Enkon Hakuchuumu\" by Sakagami Souichi - Copyright (C) 2015 Trial & Error/Sakagami Souichi All rights reserved.\n\nTrial & Error: http://www.tandess.com/en/music/\n0:00 Intro\n1:30:10 Anatomy of a Villian\n5:58:02 Between Good and Evil\n8:21:16 All Things Fall Apart\n9:57:00 False Prophet\n12:14:12 Shadow On The Sun\n15:23:11 Sound and Fury",
+        "id": 1959761,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=pB1TxR4ExW0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 171,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC337i8LcUSM4UMbLf820I8Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pB1TxR4ExW0/hqdefault.jpg",
+        "title": "X Men: God Loves,  Man Kills Revisited",
+        "vote": 0
+    }
+]

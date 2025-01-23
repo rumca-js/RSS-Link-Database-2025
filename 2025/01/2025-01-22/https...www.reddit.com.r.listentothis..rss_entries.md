@@ -1,0 +1,128 @@
+# Source:Listen To This, URL:https://www.reddit.com/r/listentothis/.rss, language:
+
+## The King Blues -- What If Punk Never Happened? [Punk] (2008)
+ - [https://www.reddit.com/r/listentothis/comments/1i7mps1/the_king_blues_what_if_punk_never_happened_punk](https://www.reddit.com/r/listentothis/comments/1i7mps1/the_king_blues_what_if_punk_never_happened_punk)
+ - RSS feed: $source
+ - date published: 2025-01-22T21:37:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i7mps1/the_king_blues_what_if_punk_never_happened_punk/"> <img src="https://external-preview.redd.it/pHc0i-YsfldWT9ABjz1twJVzJeghq0Y2ofy5IsiNjyc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d5f5f8cf12aeb688ed521130efd1fcbfc7498b19" alt="The King Blues -- What If Punk Never Happened? [Punk] (2008)" title="The King Blues -- What If Punk Never Happened? [Punk] (2008)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sparklybeast"> /u/sparklybeast </a> <br/> <span><a href="https://www.youtube.com/watch?v=u3kOqvw4wLQ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i7mps1/the_king_blues_what_if_punk_never_happened_punk/">[comments]</a></span> </td></tr></table>
+
+## Jim Bob -- Angelstrike! [Acoustic/Punk] (2004)
+ - [https://www.reddit.com/r/listentothis/comments/1i7mp42/jim_bob_angelstrike_acousticpunk_2004](https://www.reddit.com/r/listentothis/comments/1i7mp42/jim_bob_angelstrike_acousticpunk_2004)
+ - RSS feed: $source
+ - date published: 2025-01-22T21:36:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i7mp42/jim_bob_angelstrike_acousticpunk_2004/"> <img src="https://external-preview.redd.it/0n_neuWczdIIizff1b5JiqnBqkFqH8QJorBzEpTDl7Y.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9070a746f1d6cf6ca420a64c363a895320191497" alt="Jim Bob -- Angelstrike! [Acoustic/Punk] (2004)" title="Jim Bob -- Angelstrike! [Acoustic/Punk] (2004)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sparklybeast"> /u/sparklybeast </a> <br/> <span><a href="https://www.youtube.com/watch?v=1DyTiC0V4to">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i7mp42/jim_bob_angelstrike_acousticpunk_2004/">[comments]</a></span> </td></tr></table>
+
+## RIFTX - 404: Nexus Not Found [cyberpunk] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i7mp0q/riftx_404_nexus_not_found_cyberpunk_2025](https://www.reddit.com/r/listentothis/comments/1i7mp0q/riftx_404_nexus_not_found_cyberpunk_2025)
+ - RSS feed: $source
+ - date published: 2025-01-22T21:36:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>RIFTX - &quot;404: Nexus Not Found&quot; Cyberpunk beats meet a call for digital freedom. A track about reclaiming privacy and responsibility in tech. Listen and join the movement.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Interesting-Border92"> /u/Interesting-Border92 </a> <br/> <span><a href="https://open.spotify.com/track/0CNhbgwEZ6sbej5OxAiZ99?si=BZnCHcRORNKsJXMBdyyedQ&amp;context=spotify%3Atrack%3A0CNhbgwEZ6sbej5OxAiZ99">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i7mp0q/riftx_404_nexus_not_found_cyberpunk_2025/">[comments]</a></span>
+
+## Cabe -- We Collide [EDM / Deep House] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i7ljmi/cabe_we_collide_edm_deep_house_2025](https://www.reddit.com/r/listentothis/comments/1i7ljmi/cabe_we_collide_edm_deep_house_2025)
+ - RSS feed: $source
+ - date published: 2025-01-22T20:48:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i7ljmi/cabe_we_collide_edm_deep_house_2025/"> <img src="https://external-preview.redd.it/_LdaQBnhoIHEogVogiynnRFz-_J0SatSupHRFCQO25w.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c5f6fe36bf71fba9ec38bdfa0f24fdbcfdc45259" alt="Cabe -- We Collide [EDM / Deep House] (2025)" title="Cabe -- We Collide [EDM / Deep House] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Obvious-Complaint361"> /u/Obvious-Complaint361 </a> <br/> <span><a href="https://www.youtube.com/watch?v=JBOTeBRu0pU">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i7ljmi/cabe_we_collide_edm_deep_house_2025/">[comments]</a></span> </td></tr></table>
+
+## The Psychodelics Trips - Chemical Dreams part.2 [Dark Electronic] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i7jcki/the_psychodelics_trips_chemical_dreams_part2_dark](https://www.reddit.com/r/listentothis/comments/1i7jcki/the_psychodelics_trips_chemical_dreams_part2_dark)
+ - RSS feed: $source
+ - date published: 2025-01-22T19:19:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i7jcki/the_psychodelics_trips_chemical_dreams_part2_dark/"> <img src="https://external-preview.redd.it/YiwntXTkQTEEdlj6HOthDd34gesfF5AEhh2ejiuC_F4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7ece3d9982637e1af300f3c5289938e5f1b8420b" alt="The Psychodelics Trips - Chemical Dreams part.2 [Dark Electronic] (2025)" title="The Psychodelics Trips - Chemical Dreams part.2 [Dark Electronic] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Otherwise_Basis_6328"> /u/Otherwise_Basis_6328 </a> <br/> <span><a href="https://youtu.be/yGeBLjtiyUY?si=4hW-jieEILYEobXF">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i7jcki/the_psychodelics_trips_chemical_dreams_part2_dark/">[comments]</a></span> </td></tr></table>
+
+## Headworm -- (love is...) human consequences. [LOFI, INDIE, PSYCH] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i7iw5r/headworm_love_is_human_consequences_lofi_indie](https://www.reddit.com/r/listentothis/comments/1i7iw5r/headworm_love_is_human_consequences_lofi_indie)
+ - RSS feed: $source
+ - date published: 2025-01-22T19:01:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i7iw5r/headworm_love_is_human_consequences_lofi_indie/"> <img src="https://external-preview.redd.it/1qcVs0MichMfWdxf4ccY43Efi-jQBT92zAhpKJ-00fY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7f6b7872249c1cac9bea7fda39305e0501b0a111" alt="Headworm -- (love is...) human consequences. [LOFI, INDIE, PSYCH] (2025)" title="Headworm -- (love is...) human consequences. [LOFI, INDIE, PSYCH] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spacealian"> /u/spacealian </a> <br/> <span><a href="https://youtu.be/gdgIxkcYwQw?si=n6XdPSLrLtz8msq-">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i7iw5r/headworm_love_is_human_consequences_lofi_indie/">[comments]</a></span> </td></tr></table>
+
+## MikeBandz ‘ — ‘ No trust[rap](2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i7inug/mikebandz_no_trustrap2025](https://www.reddit.com/r/listentothis/comments/1i7inug/mikebandz_no_trustrap2025)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:52:30+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/CancelEquivalent7104"> /u/CancelEquivalent7104 </a> <br/> <span><a href="https://youtube.com/shorts/ZmqB74va2y8?si=pXt6ngDgBP7RZz1d">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i7inug/mikebandz_no_trustrap2025/">[comments]</a></span>
+
+## Niko -- Lost in Your Tears [Pop] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i7i0u9/niko_lost_in_your_tears_pop_2025](https://www.reddit.com/r/listentothis/comments/1i7i0u9/niko_lost_in_your_tears_pop_2025)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:27:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i7i0u9/niko_lost_in_your_tears_pop_2025/"> <img src="https://external-preview.redd.it/1K2XFYfx3DDxbMWTVJQud86t9RmxU-AwGu4B55A-d1o.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f368572b553f17f8edd30242333b0594ea8d8976" alt="Niko -- Lost in Your Tears [Pop] (2025)" title="Niko -- Lost in Your Tears [Pop] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Philokarl"> /u/Philokarl </a> <br/> <span><a href="https://youtu.be/dmWwLIdpYDc?si=94uc62qwi1ThYoOR">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i7i0u9/niko_lost_in_your_tears_pop_2025/">[comments]</a></span> </td></tr></table>
+
+## Solum - Daughter of the Devil [Rock/Electronic] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i7hpop/solum_daughter_of_the_devil_rockelectronic_2025](https://www.reddit.com/r/listentothis/comments/1i7hpop/solum_daughter_of_the_devil_rockelectronic_2025)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:14:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i7hpop/solum_daughter_of_the_devil_rockelectronic_2025/"> <img src="https://external-preview.redd.it/VFUxhxS5ouxusnmdwoeef9qVc1V4AjNLNwmZLCC8D3w.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=48487711bbe9b0e5cd6cb6f1bd23e96150b65048" alt="Solum - Daughter of the Devil [Rock/Electronic] (2025)" title="Solum - Daughter of the Devil [Rock/Electronic] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/saltx"> /u/saltx </a> <br/> <span><a href="https://youtu.be/38CrN3-O1dg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i7hpop/solum_daughter_of_the_devil_rockelectronic_2025/">[comments]</a></span> </td></tr></table>
+
+## Moon Walker - Monopoly Money [rock](2025)
+ - [https://www.reddit.com/r/listentothis/comments/1i7ha6z/moon_walker_monopoly_money_rock2025](https://www.reddit.com/r/listentothis/comments/1i7ha6z/moon_walker_monopoly_money_rock2025)
+ - RSS feed: $source
+ - date published: 2025-01-22T17:57:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i7ha6z/moon_walker_monopoly_money_rock2025/"> <img src="https://external-preview.redd.it/sdHZO8j7RWc9gYfsrTZnvFCQi7n2o2eAw8gXuVlKS1g.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9d0d197173a03df09c202427e6ab67d8f702b498" alt="Moon Walker - Monopoly Money [rock](2025)" title="Moon Walker - Monopoly Money [rock](2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AimlessPeacock"> /u/AimlessPeacock </a> <br/> <span><a href="https://www.youtube.com/watch?v=wUaCz28bm18">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i7ha6z/moon_walker_monopoly_money_rock2025/">[comments]</a></span> </td></tr></table>
+
+## Current Affairs -- No Fuss [post-punk] (2023)
+ - [https://www.reddit.com/r/listentothis/comments/1i7eaet/current_affairs_no_fuss_postpunk_2023](https://www.reddit.com/r/listentothis/comments/1i7eaet/current_affairs_no_fuss_postpunk_2023)
+ - RSS feed: $source
+ - date published: 2025-01-22T15:55:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i7eaet/current_affairs_no_fuss_postpunk_2023/"> <img src="https://external-preview.redd.it/Mdg4wDW-WYS0wuUVyj4mLXObvDtv6GhBp-oRHWuo3bs.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3c91f0aa14851971a22943c63e9cb5e17b338b65" alt="Current Affairs -- No Fuss [post-punk] (2023)" title="Current Affairs -- No Fuss [post-punk] (2023)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/qazz23"> /u/qazz23 </a> <br/> <span><a href="https://www.youtube.com/watch?v=akZVVAGP2i4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i7eaet/current_affairs_no_fuss_postpunk_2023/">[comments]</a></span> </td></tr></table>
+
+## Shono -- The mountain road [Buryat ethnorock](2023)
+ - [https://www.reddit.com/r/listentothis/comments/1i7de8e/shono_the_mountain_road_buryat_ethnorock2023](https://www.reddit.com/r/listentothis/comments/1i7de8e/shono_the_mountain_road_buryat_ethnorock2023)
+ - RSS feed: $source
+ - date published: 2025-01-22T15:17:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i7de8e/shono_the_mountain_road_buryat_ethnorock2023/"> <img src="https://external-preview.redd.it/MBaCztG46YkK-le35WjeT8EOS4-y3A2GTsOvZ1d9i90.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8f8fcce96f76975661d3f06b1799e82d493f258e" alt="Shono -- The mountain road [Buryat ethnorock](2023)" title="Shono -- The mountain road [Buryat ethnorock](2023)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/M_G"> /u/M_G </a> <br/> <span><a href="https://youtu.be/E2YT74Y4OGw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i7de8e/shono_the_mountain_road_buryat_ethnorock2023/">[comments]</a></span> </td></tr></table>
+
+## Alpha Wolf ft. Ice T - Sucks 2 Suck [Metalcore/Nu Metalcore] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1i7cy94/alpha_wolf_ft_ice_t_sucks_2_suck_metalcorenu](https://www.reddit.com/r/listentothis/comments/1i7cy94/alpha_wolf_ft_ice_t_sucks_2_suck_metalcorenu)
+ - RSS feed: $source
+ - date published: 2025-01-22T14:58:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i7cy94/alpha_wolf_ft_ice_t_sucks_2_suck_metalcorenu/"> <img src="https://external-preview.redd.it/J_sm3oB_tYpmBvTrnEPanSfPVq1UgdZVQD1KQ-PelJU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2f3681390cfe71bceba7bc7242b383046d6031ad" alt="Alpha Wolf ft. Ice T - Sucks 2 Suck [Metalcore/Nu Metalcore] (2024)" title="Alpha Wolf ft. Ice T - Sucks 2 Suck [Metalcore/Nu Metalcore] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_HKB_"> /u/_HKB_ </a> <br/> <span><a href="https://youtu.be/GLpmZdvN9Gw?si=kJiSI1YL3MGfsdmt">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i7cy94/alpha_wolf_ft_ice_t_sucks_2_suck_metalcorenu/">[comments]</a></span> </td></tr></table>
+
+## Feldi -- EXCUSES [rap] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1i79za8/feldi_excuses_rap_2024](https://www.reddit.com/r/listentothis/comments/1i79za8/feldi_excuses_rap_2024)
+ - RSS feed: $source
+ - date published: 2025-01-22T12:27:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i79za8/feldi_excuses_rap_2024/"> <img src="https://external-preview.redd.it/Ose8IWBp0cd3UH5lpdeGDeA-pBMkT986oi2xFf7E-gU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bc8fff916f34d0d17e0f9374b0c38c9d6a229c21" alt="Feldi -- EXCUSES [rap] (2024)" title="Feldi -- EXCUSES [rap] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mountain_Love23"> /u/Mountain_Love23 </a> <br/> <span><a href="https://youtu.be/hrmumCWtzhw?si=43y09opZJMUFEvZX">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i79za8/feldi_excuses_rap_2024/">[comments]</a></span> </td></tr></table>
+
+## Finality -- Phreaddee [Ambient] (2023)
+ - [https://www.reddit.com/r/listentothis/comments/1i79qgj/finality_phreaddee_ambient_2023](https://www.reddit.com/r/listentothis/comments/1i79qgj/finality_phreaddee_ambient_2023)
+ - RSS feed: $source
+ - date published: 2025-01-22T12:12:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i79qgj/finality_phreaddee_ambient_2023/"> <img src="https://external-preview.redd.it/oh1ahOvE9fbwKIZ7Jp1naRhuofgItt8_y1HTnQwUkQU.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=bcdcd2eadbea9778ee6954f3866a147d31267009" alt="Finality -- Phreaddee [Ambient] (2023)" title="Finality -- Phreaddee [Ambient] (2023)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/phreaddee"> /u/phreaddee </a> <br/> <span><a href="https://open.spotify.com/track/7xiPDUSJZAzgQJFQHHYvmg?si=5e3a58d405374acd">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i79qgj/finality_phreaddee_ambient_2023/">[comments]</a></span> </td></tr></table>
+
+## Shooting Star - (Stu Allan Remix) [Happy Hardcore] (2009)
+ - [https://www.reddit.com/r/listentothis/comments/1i73kdu/shooting_star_stu_allan_remix_happy_hardcore_2009](https://www.reddit.com/r/listentothis/comments/1i73kdu/shooting_star_stu_allan_remix_happy_hardcore_2009)
+ - RSS feed: $source
+ - date published: 2025-01-22T05:01:30+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/kora9992"> /u/kora9992 </a> <br/> <span><a href="https://youtu.be/cqBbTtit-g4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i73kdu/shooting_star_stu_allan_remix_happy_hardcore_2009/">[comments]</a></span>
+
+## MikeBandz- ‘ — ‘ High to you[rap](2024)
+ - [https://www.reddit.com/r/listentothis/comments/1i739nq/mikebandz_high_to_yourap2024](https://www.reddit.com/r/listentothis/comments/1i739nq/mikebandz_high_to_yourap2024)
+ - RSS feed: $source
+ - date published: 2025-01-22T04:44:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i739nq/mikebandz_high_to_yourap2024/"> <img src="https://external-preview.redd.it/ScSXFFbsJD0WwsD6EdGFpCcnOmtjyj4e7SLU2SkCVDY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=44f8757ebf8ed4c1faf7c9dba45fbd664a959696" alt="MikeBandz- ‘ — ‘ High to you[rap](2024)" title="MikeBandz- ‘ — ‘ High to you[rap](2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CancelEquivalent7104"> /u/CancelEquivalent7104 </a> <br/> <span><a href="https://youtu.be/XkQq8ZXIqjE?si=hkztHrLbd2c5n235">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i739nq/mikebandz_high_to_yourap2024/">[comments]</a></span> </td></tr></table>
+
+## Nate Denver's Neck -- 4 Horsemen Slayer Tribute [folk] (2012)
+ - [https://www.reddit.com/r/listentothis/comments/1i6yw8v/nate_denvers_neck_4_horsemen_slayer_tribute_folk](https://www.reddit.com/r/listentothis/comments/1i6yw8v/nate_denvers_neck_4_horsemen_slayer_tribute_folk)
+ - RSS feed: $source
+ - date published: 2025-01-22T01:10:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1i6yw8v/nate_denvers_neck_4_horsemen_slayer_tribute_folk/"> <img src="https://external-preview.redd.it/D_354Ssp4xYMC2orqFbiVcg_qPzfwgZTiqDyC-TS9-o.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=52d62387f0a94f90279f3274dafbb4dab8563c34" alt="Nate Denver's Neck -- 4 Horsemen Slayer Tribute [folk] (2012)" title="Nate Denver's Neck -- 4 Horsemen Slayer Tribute [folk] (2012)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CentuarUnicorn"> /u/CentuarUnicorn </a> <br/> <span><a href="https://www.youtube.com/watch?v=CWB1XrIou3s">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1i6yw8v/nate_denvers_neck_4_horsemen_slayer_tribute_folk/">[comments]</a></span> </td></tr></table>
+

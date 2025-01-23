@@ -1,0 +1,153 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## EA says EA Sports FC 25 and Dragon Age: The Veilguard "underperformed" as it lowers financial forecast
+ - [https://www.eurogamer.net/ea-says-ea-sports-fc-25-and-dragon-age-the-veilguard-underperformed-as-it-lowers-financial-forecast](https://www.eurogamer.net/ea-says-ea-sports-fc-25-and-dragon-age-the-veilguard-underperformed-as-it-lowers-financial-forecast)
+ - RSS feed: $source
+ - date published: 2025-01-22T22:38:31+00:00
+
+<img src="https://assetsio.gnwcdn.com/ea-sports-fc-25-veilguard.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+EA has lowered its financial forecast for its current fiscal year, pointing to the 'underperformance' of EA Sports FC 2025 - which it says accounts for the "majority" of the shortfall - alongside lower-than-expected interest in <a data-keyword="true" href="https://www.eurogamer.net/dragon-age-the-veilguard-walkthrough-tips-and-tricks-guide">Dragon Age: The Veilguard</a>.
+</p> <p><a href="https://www.eurogamer.net/ea-says-ea-sports-fc-25-and-dragon-age-the-veilguard-underperformed-as-it-lowers-financial-forecast">Read more</a></p>
+
+## Ciri as Witcher 4 protagonist 'really, really interesting for all kinds of reasons', says Geralt voice actor
+ - [https://www.eurogamer.net/ciri-as-witcher-4-protagonist-really-really-interesting-for-all-kinds-of-reasons-says-geralt-voice-actor](https://www.eurogamer.net/ciri-as-witcher-4-protagonist-really-really-interesting-for-all-kinds-of-reasons-says-geralt-voice-actor)
+ - RSS feed: $source
+ - date published: 2025-01-22T21:18:34+00:00
+
+<img src="https://assetsio.gnwcdn.com/witcher-4-geralt-thumbs-up-ciri.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+Two and a half years after <a data-keyword="true" href="https://www.eurogamer.net/games/the-witcher-4">The Witcher 4</a>'s <a href="https://www.eurogamer.net/cd-projekt-confirms-new-the-witcher-game-in-development">announcement</a>, CD Projekt finally gave it the <a href="https://www.eurogamer.net/the-witcher-4-gets-its-a-first-trailer-and-yes-ciri-is-the-star">big reveal treatment</a> late in 2024, confirming Ciri to be the focus this time around. And now Doug Cockle - voice of former series protagonist Geralt of Rivia - has had his say, calling the switch to a new main character, a "really, really interesting move for all kinds of reasons".
+</p> <p><a href="https://www.eurogamer.net/ciri-as-witcher-4-protagonist-really-really-interesting-for-all-kinds-of-reasons-says-geralt-voice-actor">Read more</a></p>
+
+## Don't Nod delays second half of Lost Records: Bloom & Rage for 'optimisation and refinement'
+ - [https://www.eurogamer.net/dont-nod-delays-second-half-of-lost-records-bloom-rage-for-optimisation-and-refinement](https://www.eurogamer.net/dont-nod-delays-second-half-of-lost-records-bloom-rage-for-optimisation-and-refinement)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:45:29+00:00
+
+<img src="https://assetsio.gnwcdn.com/lost-records-bloom-and-rage-b.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+<a data-keyword="true" href="https://www.eurogamer.net/games/life-is-strange">Life is Strange</a> creator Don't Nod is delaying the second half of its upcoming narrative adventure Lost Records: Bloom &amp; Rage by a month, with Tape 2 now set to release on 15th April.
+</p> <p><a href="https://www.eurogamer.net/dont-nod-delays-second-half-of-lost-records-bloom-rage-for-optimisation-and-refinement">Read more</a></p>
+
+## GTA 6 "parody" Grand Taking Ages set to launch on Steam, despite PlayStation pulling it from store
+ - [https://www.eurogamer.net/gta-6-parody-grand-taking-ages-set-to-launch-on-steam-despite-playstation-pulling-it-from-store](https://www.eurogamer.net/gta-6-parody-grand-taking-ages-set-to-launch-on-steam-despite-playstation-pulling-it-from-store)
+ - RSS feed: $source
+ - date published: 2025-01-22T17:23:54+00:00
+
+<img src="https://assetsio.gnwcdn.com/ss_500a6a8b0e3e652e09e048875900b83b5dec6057.600x338.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+Grand Taking Ages, a <a data-keyword="true" href="https://www.eurogamer.net/gta-6-everything-we-know-so-far-9357">GTA 6</a> "parody" that uses AI artwork and voice acting, has done enough to convince Valve it should launch on Steam. 
+</p> <p><a href="https://www.eurogamer.net/gta-6-parody-grand-taking-ages-set-to-launch-on-steam-despite-playstation-pulling-it-from-store">Read more</a></p>
+
+## Nintendo nominated for GLAAD award for trans representation in Paper Mario
+ - [https://www.eurogamer.net/nintendo-nominated-for-glaad-award-for-trans-representation-in-paper-mario](https://www.eurogamer.net/nintendo-nominated-for-glaad-award-for-trans-representation-in-paper-mario)
+ - RSS feed: $source
+ - date published: 2025-01-22T17:15:54+00:00
+
+<img src="https://assetsio.gnwcdn.com/Paper-Mario_-The-Thousand-Year-Door-%E2%80%94-Launch-Trailer-%E2%80%94-Nintendo-Switch-0-52-screenshot-(1).png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>Nintendo has been nominated at this year's GLAAD award for trans representation in last year's <a data-keyword="true" href="https://www.eurogamer.net/games/paper-mario-2-thousand-year-door">Paper Mario: The Thousand-Year Door</a> remake on Switch.</p> <p><a href="https://www.eurogamer.net/nintendo-nominated-for-glaad-award-for-trans-representation-in-paper-mario">Read more</a></p>
+
+## Marvel's Spider-Man studio boss Ted Price announces retirement from games industry
+ - [https://www.eurogamer.net/marvels-spider-man-studio-boss-ted-price-announces-retirement-from-games-industry](https://www.eurogamer.net/marvels-spider-man-studio-boss-ted-price-announces-retirement-from-games-industry)
+ - RSS feed: $source
+ - date published: 2025-01-22T17:02:06+00:00
+
+<img src="https://assetsio.gnwcdn.com/spider-man-ted-price.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+Ted Price, the founder and CEO of <a data-keyword="true" href="https://www.eurogamer.net/games/ratchet-clank">Ratchet &amp; Clank</a> and Marvel's Spider-Man developer <a data-keyword="true" href="https://www.eurogamer.net/companies/insomniac-games">Insomniac Games</a>, has announced his retirement from the games industry, saying he "felt it was simply time to step aside and let others pave the way for our team."
+</p> <p><a href="https://www.eurogamer.net/marvels-spider-man-studio-boss-ted-price-announces-retirement-from-games-industry">Read more</a></p>
+
+## Astro Bot was so good it almost "outdid Nintendo at its own game", says former US boss Reggie Fils-Aimé
+ - [https://www.eurogamer.net/astro-bot-was-so-good-it-almost-outdid-nintendo-at-its-own-game-says-former-us-boss-reggie-fils-aime](https://www.eurogamer.net/astro-bot-was-so-good-it-almost-outdid-nintendo-at-its-own-game-says-former-us-boss-reggie-fils-aime)
+ - RSS feed: $source
+ - date published: 2025-01-22T16:31:14+00:00
+
+<img src="https://assetsio.gnwcdn.com/Nintendos-Mario-appears-shocked-while-looking-up-at-Astro-Bot.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>PlayStation hit <a data-keyword="true" href="https://www.eurogamer.net/games/astro-bot">Astro Bot</a> released towards the end of last year, and quickly won itself praise for its platforming prowess and limitless charm. It went on to <a href="https://www.eurogamer.net/the-game-awards-2024-winners-list-who-won-what-this-year">win Game of the Year at the Game Awards in December</a>, but its award-winning streak didn't end there.</p> <p><a href="https://www.eurogamer.net/astro-bot-was-so-good-it-almost-outdid-nintendo-at-its-own-game-says-former-us-boss-reggie-fils-aime">Read more</a></p>
+
+## An iconic Final Fantasy 7 anthem accompanied Pharrell Williams' Louis Vuitton fashion show
+ - [https://www.eurogamer.net/an-iconic-final-fantasy-7-anthem-accompanied-pharrell-williams-louis-vuitton-fashion-show](https://www.eurogamer.net/an-iconic-final-fantasy-7-anthem-accompanied-pharrell-williams-louis-vuitton-fashion-show)
+ - RSS feed: $source
+ - date published: 2025-01-22T16:30:41+00:00
+
+<img src="https://assetsio.gnwcdn.com/FINAL-FANTASY-VII-REBIRTH_20240227225716.png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>An iconic anthem from <a data-keyword="true" href="https://www.eurogamer.net/games/final-fantasy-vii">Final Fantasy 7</a> was heard on the runway this week during a Louis Vuitton fashion show by Pharrell Williams.</p> <p><a href="https://www.eurogamer.net/an-iconic-final-fantasy-7-anthem-accompanied-pharrell-williams-louis-vuitton-fashion-show">Read more</a></p>
+
+## Xbox adding support for larger external storage beyond current limit
+ - [https://www.eurogamer.net/xbox-adding-support-for-larger-external-storage-beyond-current-limit](https://www.eurogamer.net/xbox-adding-support-for-larger-external-storage-beyond-current-limit)
+ - RSS feed: $source
+ - date published: 2025-01-22T12:49:48+00:00
+
+<img src="https://assetsio.gnwcdn.com/N7-Day-2023-0-16-screenshot_LAtM2xc.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+External hard drives over 16TB in size will soon be supported by Xbox consoles, Microsoft has announced. 
+</p> <p><a href="https://www.eurogamer.net/xbox-adding-support-for-larger-external-storage-beyond-current-limit">Read more</a></p>
+
+## Mass Effect 5 "isn't ready to suddenly have a team of 250, 300 people working on it" now Dragon Age: The Veilguard is done
+ - [https://www.eurogamer.net/mass-effect-5-isnt-ready-to-suddenly-have-a-team-of-250-300-people-working-on-it-now-dragon-age-the-veilguard-is-done](https://www.eurogamer.net/mass-effect-5-isnt-ready-to-suddenly-have-a-team-of-250-300-people-working-on-it-now-dragon-age-the-veilguard-is-done)
+ - RSS feed: $source
+ - date published: 2025-01-22T12:32:40+00:00
+
+<img src="https://assetsio.gnwcdn.com/N7-Day-2023-0-16-screenshot.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+The next <a data-keyword="true" href="https://www.eurogamer.net/games/mass-effect">Mass Effect</a> project is still growing in size and isn't ready for the bulk of BioWare staff to jump aboard, former studio veteran Mark Darrah has said.
+</p> <p><a href="https://www.eurogamer.net/mass-effect-5-isnt-ready-to-suddenly-have-a-team-of-250-300-people-working-on-it-now-dragon-age-the-veilguard-is-done">Read more</a></p>
+
+## There's an impressive unofficial Indiana Jones and the Great Circle VR mod on the way and we've played it
+ - [https://www.eurogamer.net/theres-an-impressive-unofficial-indiana-jones-and-the-great-circle-vr-mod-on-the-way-and-weve-played-it](https://www.eurogamer.net/theres-an-impressive-unofficial-indiana-jones-and-the-great-circle-vr-mod-on-the-way-and-weve-played-it)
+ - RSS feed: $source
+ - date published: 2025-01-22T12:29:16+00:00
+
+<img src="https://assetsio.gnwcdn.com/Screenshot-2025-01-22-at-12.10.59.png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>Luke Ross, the prolific flat to VR modder and creator of the REAL VR mod has been suspiciously quiet recently. Turns out this was because he's been secretly digging into the code for <a data-keyword="true" href="https://eurogamer.net/indiana-jones-and-the-great-circle-review">Indiana Jones and the Great Circle</a> and he's emerged from its dusty depths with an upcoming PC VR mod that's so exciting, it might just belong in a museum. </p> <p><a href="https://www.eurogamer.net/theres-an-impressive-unofficial-indiana-jones-and-the-great-circle-vr-mod-on-the-way-and-weve-played-it">Read more</a></p>
+
+## The Witcher concert set for UK to celebrate Wild Hunt's 10th anniversary
+ - [https://www.eurogamer.net/the-witcher-concert-set-for-uk-to-celebrate-wild-hunts-10th-anniversary](https://www.eurogamer.net/the-witcher-concert-set-for-uk-to-celebrate-wild-hunts-10th-anniversary)
+ - RSS feed: $source
+ - date published: 2025-01-22T11:48:26+00:00
+
+<img src="https://assetsio.gnwcdn.com/The-Witcher-3s-romantic-poet-Priscilla_69C1i28.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>If you want to toss a coin to your orchestra, you will soon be able to do just that, as CD Projekt Red has announced ticket sales for The Witcher in Concert will go on sale imminently.</p> <p><a href="https://www.eurogamer.net/the-witcher-concert-set-for-uk-to-celebrate-wild-hunts-10th-anniversary">Read more</a></p>
+
+## Sega announces new Sega Account, sparking speculation over Super Game
+ - [https://www.eurogamer.net/sega-announces-new-sega-account-sparking-speculation-over-super-game](https://www.eurogamer.net/sega-announces-new-sega-account-sparking-speculation-over-super-game)
+ - RSS feed: $source
+ - date published: 2025-01-22T11:21:04+00:00
+
+<img src="https://assetsio.gnwcdn.com/Like-A-Dragon_-Pirate-Yakuza-in-Hawaii-Reveal-Trailer-4-36-screenshot.png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>Sega has launched a new <a href="https://sega-account.com/">Sega Account</a>, linking together its games and services.</p> <p><a href="https://www.eurogamer.net/sega-announces-new-sega-account-sparking-speculation-over-super-game">Read more</a></p>
+
+## Sitting in the mud with David Lynch: what his life is still teaching me about games and everything else
+ - [https://www.eurogamer.net/sitting-in-the-mud-with-david-lynch-what-his-life-is-still-teaching-me-about-games-and-everything-else](https://www.eurogamer.net/sitting-in-the-mud-with-david-lynch-what-his-life-is-still-teaching-me-about-games-and-everything-else)
+ - RSS feed: $source
+ - date published: 2025-01-22T11:18:49+00:00
+
+<img src="https://assetsio.gnwcdn.com/image-(1)_29ZX1jt.png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>I'm not really ready to think about a world without David Lynch yet. But I have at least realised in the days since his passing that Lynch was probably my introduction to genuine art - art which I felt like I was part of the genuine audience for. This came with Twin Peaks, which I first watched, terrified and confused and thrilled and delighted, when I was 12. My mental life was massively expanded by that show. I was that kid at school brushing my hair like Cooper - back when I had hair! - and walking around talking into a TV remote like it was a dictaphone and really trying to like coffee. (I was eventually successful on that front.) What an idiot I was, and yet Cooper, I still feel, is an extremely good role model. Pretty much ideal, really.</p> <p><a href="https://www.eurogamer.net/sitting-in-the-mud-with-david-lynch-what-his-life-is-still-teaching-m
+
+## Phantom Blade Zero trailer shows fresh gameplay, but it's still without a release date
+ - [https://www.eurogamer.net/phantom-blade-zero-trailer-shows-fresh-gameplay-but-its-still-without-a-release-date](https://www.eurogamer.net/phantom-blade-zero-trailer-shows-fresh-gameplay-but-its-still-without-a-release-date)
+ - RSS feed: $source
+ - date published: 2025-01-22T10:55:20+00:00
+
+<img src="https://assetsio.gnwcdn.com/Phantom-Blade-Zero---Year-of-the-Snake-Gameplay-Trailer-_-PS5-Games-0-27-screenshot.png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>S-Game has released a new trailer for forthcoming action game Phantom Blade Zero, but it remains without a firm release date.</p> <p><a href="https://www.eurogamer.net/phantom-blade-zero-trailer-shows-fresh-gameplay-but-its-still-without-a-release-date">Read more</a></p>
+
+## Nintendo toyed with magnetic Joy-Con for original Switch, but they quite literally didn't stick
+ - [https://www.eurogamer.net/nintendo-toyed-with-magnetic-joy-cons-for-original-switch-but-they-quite-literally-didnt-stick](https://www.eurogamer.net/nintendo-toyed-with-magnetic-joy-cons-for-original-switch-but-they-quite-literally-didnt-stick)
+ - RSS feed: $source
+ - date published: 2025-01-22T10:04:03+00:00
+
+<img src="https://assetsio.gnwcdn.com/Mario-and-Luigi-look-at-a-large-magent.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>We got our first look at <a data-keyword="true" href="https://www.eurogamer.net/its-official-nintendo-switch-2-revealed-after-months-of-waiting">Nintendo Switch 2</a> last week, after an avalanche of leaks and reports about the console's final design and functionality. And, as we expected, it was confirmed the Switch 2 will boast magnetic Joy-Cons, a change from its predecessor's mechanical rail locking system.</p> <p><a href="https://www.eurogamer.net/nintendo-toyed-with-magnetic-joy-cons-for-original-switch-but-they-quite-literally-didnt-stick">Read more</a></p>
+
+## Doom: The Dark Ages release date spotted ahead of Xbox Developer Direct
+ - [https://www.eurogamer.net/doom-the-dark-ages-release-date-spotted-ahead-of-xbox-developer-direct](https://www.eurogamer.net/doom-the-dark-ages-release-date-spotted-ahead-of-xbox-developer-direct)
+ - RSS feed: $source
+ - date published: 2025-01-22T09:56:44+00:00
+
+<img src="https://assetsio.gnwcdn.com/Doom_-The-Dark-Ages---Official-Reveal-Trailer-_-Xbox-Showcase-2024-0-54-screenshot.png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+The launch of Doom: The Dark Ages is just a few months away, according to a release date which has popped up online ahead of tomorrow's Xbox Developer Direct.
+</p> <p><a href="https://www.eurogamer.net/doom-the-dark-ages-release-date-spotted-ahead-of-xbox-developer-direct">Read more</a></p>
+
+## Here are the games leaving PlayStation Plus next month
+ - [https://www.eurogamer.net/here-are-the-games-leaving-playstation-plus-next-month](https://www.eurogamer.net/here-are-the-games-leaving-playstation-plus-next-month)
+ - RSS feed: $source
+ - date published: 2025-01-22T09:43:18+00:00
+
+<img src="https://assetsio.gnwcdn.com/tales-of-arise_goRAMyF.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>PlayStation Plus will lose a number of games next month, including some lengthy RPGs, so now is your last chance to play.</p> <p><a href="https://www.eurogamer.net/here-are-the-games-leaving-playstation-plus-next-month">Read more</a></p>
+
+## Netflix is hiking prices again, but most of Europe has escaped for now
+ - [https://www.eurogamer.net/netflix-is-hiking-prices-again-but-most-of-europe-has-escaped-for-now](https://www.eurogamer.net/netflix-is-hiking-prices-again-but-most-of-europe-has-escaped-for-now)
+ - RSS feed: $source
+ - date published: 2025-01-22T00:24:03+00:00
+
+<img src="https://assetsio.gnwcdn.com/netflix-games.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+<a data-keyword="true" href="https://www.eurogamer.net/companies/netflix">Netflix</a> has announced another wave of price hikes across its various membership tiers - including a Premium subscription bump to $25 a month, among other things - but, for the time being at least, most European countries won't be affected by the charges.
+</p> <p><a href="https://www.eurogamer.net/netflix-is-hiking-prices-again-but-most-of-europe-has-escaped-for-now">Read more</a></p>
+

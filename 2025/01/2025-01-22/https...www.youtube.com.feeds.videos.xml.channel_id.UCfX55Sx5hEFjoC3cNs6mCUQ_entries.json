@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-22T18:53:03+00:00",
+        "description": "Mentor: Andrea Righi, Principal Software Engineer, NVIDIA\n\nThe Linux kernel provides a single scheduler that must handle a wide range of different architectures and workloads, making it a robust, but sometimes also a rigid, component, which offers limited room for experimentation and customization.\n\nsched_ext is a new technology, introduced in Linux 6.12, that allows to dynamically replace the default kernel scheduling policy at runtime with custom BPF programs.\n\nThe main benefits include the ease of experimentation, through a fast edit/compile/test cycle, along with an extensive customization and control over scheduling policies. It can also help lower the entry barriers for scheduler development, empowering a broader range of developers and kernel enthusiasts to contribute and bring fresh ideas to scheduler design.",
+        "id": 1958636,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=jsLjg9tGuVI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jsLjg9tGuVI/hqdefault.jpg",
+        "title": "Mentorship Session: Designing Custom Linux Schedulers with sched_ext",
+        "vote": 0
+    }
+]

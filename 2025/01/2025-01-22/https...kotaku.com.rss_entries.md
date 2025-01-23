@@ -1,0 +1,86 @@
+# Source:Kotaku, URL:https://kotaku.com/rss, language:en
+
+## Celeste Devs Cancel Next Game After Falling Out And Difficult Development
+ - [https://kotaku.com/earthblade-canceled-celeste-towerfall-release-date-1851745616](https://kotaku.com/earthblade-canceled-celeste-towerfall-release-date-1851745616)
+ - RSS feed: $source
+ - date published: 2025-01-22T22:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b20e07555fda6c51aeff62295ea37d30.jpg"/><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/earthblade-delay-celeste-developer-maddy-thorson-1851372790">Earthblade was going to be the next game</a> from the creators behind 2D pixel art action hits TowerFall and Celeste. But on Wednesday, designer Maddy Thorson announced the project was quietly canceled last month after a fallout between some of the team’s members and the realization that the game’s protracted development…</p><p><a href="https://kotaku.com/earthblade-canceled-celeste-towerfall-release-date-1851745616">Read more...</a></p>
+
+## How To Find New Outfits For Momo, Infinity Nikki's Adorable Cat-Like Buddy
+ - [https://kotaku.com/infinity-nikki-momo-outfits-resonance-courses-clothes-1851745487](https://kotaku.com/infinity-nikki-momo-outfits-resonance-courses-clothes-1851745487)
+ - RSS feed: $source
+ - date published: 2025-01-22T21:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6040ea93a0807af38d5a51dfe8f3a7e4.jpg"/><p>Infinity Nikki has a lot of activities to keep you busy. But everything you do drives toward the same goal–unlocking new clothes for Nikki. Our eponymous protagonist needs to gather various clothing to progress in the fashion-obsessed world of Miraland after all. However, her furry cat-like friend Momo can also change…</p><p><a href="https://kotaku.com/infinity-nikki-momo-outfits-resonance-courses-clothes-1851745487">Read more...</a></p>
+
+## Indiana Jones And The Great Circle: How To Solve The ‘A Date To Remember’ Puzzle
+ - [https://kotaku.com/indiana-jones-great-circle-date-to-remember-code-puzzle-1851745449](https://kotaku.com/indiana-jones-great-circle-date-to-remember-code-puzzle-1851745449)
+ - RSS feed: $source
+ - date published: 2025-01-22T20:53:28+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/01e811df2542f76b15299d98202276d2.jpg"/><p>While infiltrating the museum in Indiana Jones and the Great Circle’s Vatican City, you have the chance to solve a problem for the local Blackshirts: They’ve been sent a chest they can’t open due to their misunderstanding of their own password protocols. Here’s how you can beat them at their own game.</p><p><a href="https://kotaku.com/indiana-jones-great-circle-date-to-remember-code-puzzle-1851745449">Read more...</a></p>
+
+## The Best (And Cheapest) Way To Get Into Disney Lorcana
+ - [https://kotaku.com/lorcana-2025-guide-gateway-kit-how-to-learn-fast-cheap-1851745337](https://kotaku.com/lorcana-2025-guide-gateway-kit-how-to-learn-fast-cheap-1851745337)
+ - RSS feed: $source
+ - date published: 2025-01-22T20:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/acf319935205434fb9e3ee330a783eef.jpg"/><p>If you’ve been to a Target, Walmart, or other large store lately, you might have seen some <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/disney-lorcana-tcg-cards-pixelborn-free-digital-client-1850762959?_gl=1*18cex13*_ga*MTM0Mjk0ODIxMC4xNjkxNzY3NjQ2*_ga_V4QNJTT5L0*MTczNzU3NTkyNS4xMDguMS4xNzM3NTc1OTczLjEyLjAuMA..">Disney Lorcana</a> card packs next to all the Pokémon and Magic cards. Maybe you’ve thought about playing it, but didn’t know where to start. Well, luckily for you, Lorcana might be the easiest and cheapest card game to get into in…</p><p><a href="https://kotaku.com/lorcana-2025-guide-gateway-kit-how-to-learn-fast-cheap-1851745337">Read more...</a></p>
+
+## Family Guy Creator Explains One Of Its Most Random Jokes
+ - [https://kotaku.com/family-guy-seth-mcfarlane-insists-upon-itself-godfather-1851745240](https://kotaku.com/family-guy-seth-mcfarlane-insists-upon-itself-godfather-1851745240)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6544dce615fac39119e7d243980dda61.jpg"/><p>In a season 4 episiode of <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/family-guy-ai-peter-stream-youtube-seinfeld-screaming-1851366537">Family Guy</a>, as a panic room begins filling up with water, Peter Griffin makes a death bed confession: He “did not care” for The Godfather. His family loses it and an inane argument about the iconic film ensues, eventually leading Peter to utter the enigmatic and now memed-to-death line, “It…</p><p><a href="https://kotaku.com/family-guy-seth-mcfarlane-insists-upon-itself-godfather-1851745240">Read more...</a></p>
+
+## Steam's First Big Sale Of 2025 Is Live, Here Are The Best Deals
+ - [https://kotaku.com/steam-rts-fest-2025-best-games-deals-strategy-pc-civ-1851745051](https://kotaku.com/steam-rts-fest-2025-best-games-deals-strategy-pc-civ-1851745051)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/72b7f1b7a1c56c8b1d2a50cfcde213d9.jpg"/><p>RTS Fest, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/steam-19-000-new-games-limited-pc-valve-unplayed-80-1851738322">Valve’s first big Steam sale</a> of 2025, is happening right now, and if you’re a fan of PC city builders, tactical war games, or other strategy-focused genres, you’ll want to check out some of the best deals we’ve spotted. </p><p><a href="https://kotaku.com/steam-rts-fest-2025-best-games-deals-strategy-pc-civ-1851745051">Read more...</a></p>
+
+## Future Sonic Movies Could Leave Human Characters Behind And Fans Are Conflicted
+ - [https://kotaku.com/sonic-hedgehog-3-human-characters-tom-maddy-agent-stone-1851745037](https://kotaku.com/sonic-hedgehog-3-human-characters-tom-maddy-agent-stone-1851745037)
+ - RSS feed: $source
+ - date published: 2025-01-22T17:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3334955e57f19410eeb8883d40893cdb.jpg"/><p>It’s been five years since the original live-action Sonic the Hedgehog movie, and in that time a lot of the sentiment around the series has changed. We’ve gone from <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/sonic-movie-first-trailer-ugly-design-delay-redesign-1851446390">being threatened with a horrifying blue gremlin</a> on the big screen to a critically acclaimed adaptation of video game Sonic Adventure 2 <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/sonic-hedgehog-3-review-shadow-keanu-reeves-jim-carrey-1851726797">in the third movie</a>.…</p><p><a href="https://kotaku.com/sonic-hedgehog-3-human-characters-tom-maddy-agent-stone-1851745037">Read more...</a></p>
+
+## Ryan Gosling Reportedly In Talks To Lead New Star Wars Movie
+ - [https://kotaku.com/ryan-gosling-new-star-wars-movie-levy-deadpool-director-1851744919](https://kotaku.com/ryan-gosling-new-star-wars-movie-levy-deadpool-director-1851744919)
+ - RSS feed: $source
+ - date published: 2025-01-22T16:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ea1c2d163d6289aaa5379776c4ee8525.jpg"/><p>Well here’s something I didn’t expect: A new report claims that Ryan Gosling—yes that very famous one from <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/sims-movie-margot-robbie-barbie-ea-1851355482">Barbie</a>—is in negotiations to star in an upcoming <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/the-best-and-worst-parts-of-every-star-wars-movie-1850406311">Star Wars movie</a> from Deadpool & Wolverine director Shawn Levy. And it sounds like his involvement has sent the project into hyperspace at Lucasfilm. </p><p><a href="https://kotaku.com/ryan-gosling-new-star-wars-movie-levy-deadpool-director-1851744919">Read more...</a></p>
+
+## Modders, Please Remove The Worst Part Of Final Fantasy VII Rebirth From The Game
+ - [https://kotaku.com/final-fantasy-7-rebirth-cait-sith-box-throw-mod-remove-1851744876](https://kotaku.com/final-fantasy-7-rebirth-cait-sith-box-throw-mod-remove-1851744876)
+ - RSS feed: $source
+ - date published: 2025-01-22T16:08:17+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a1ed6b35abd4afbb4c26f79d8e5c8557.jpg"/><p>Modders, we need to have a chat. <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/final-fantasy-7-rebirth-review-ps5-1851276129">Final Fantasy VII Rebirth</a> is coming to PC tomorrow, January 23, and no doubt y’all are gonna get cracking on modding some important and meaningful shit, like making Vincent and <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/final-fantasy-7-rebirth-cid-highwind-shera-smoking-1851298459">Cid</a> playable characters and adding Zack Fair to the party. But before you get to any of that, can I ask one…</p><p><a href="https://kotaku.com/final-fantasy-7-rebirth-cait-sith-box-throw-mod-remove-1851744876">Read more...</a></p>
+
+## Phantom Blade Zero Could Be The Next Black Myth: Wukong
+ - [https://kotaku.com/phantom-blade-zero-boss-fight-trailer-release-date-ps5-1851744823](https://kotaku.com/phantom-blade-zero-boss-fight-trailer-release-date-ps5-1851744823)
+ - RSS feed: $source
+ - date published: 2025-01-22T15:55:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/2d2584e3f5dcf7b48e3be8103b8b1d64.jpg"/><p>  Phantom Blade Zero <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/phantom-blade-0-bloodborne-2-souls-like-fromsoftare-ps5-1850471900">was first revealed back at Sony’s 2023 gaming showcase</a>. At the time, the Chinese-made PlayStation 5 exclusive looked like another project heavily inspired by FromSoftware’s Soulsborne games. But <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/tokyo-game-show-2024-monster-hunter-wilds-mgs-3-remake-1851661898/slides/10">playable demos last year</a> revealed it’s much closer to a Ninja Gaiden or Devil May Cry-style action…</p><p><a href="https://kotaku.com/phantom-blade-zero-boss-fight-trailer-release-date-ps5-1851744823">Read more...</a></p>
+
+## A Closer Look At One Of The Nintendo Switch 2's Newest Features, Teased Back In 2017
+ - [https://kotaku.com/switch-2-magnet-joycon-hall-effect-joystick-nintendo-1851744709](https://kotaku.com/switch-2-magnet-joycon-hall-effect-joystick-nintendo-1851744709)
+ - RSS feed: $source
+ - date published: 2025-01-22T14:55:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/4a5f8e26c7946cef7ba35823b2fe9e1c.jpg"/><p>The Switch 2 might not be <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/nintendo-switch-2-gallery-differences-comparison-joycon-1851740928">a radical reinvention of what came before,</a> but Nintendo’s new hardware does sport some unique quirks, distinguishing it from the original handheld hybrid that arrived back in 2017. One of these features is the bigger Joy-Con controllers which now connect to the screen via magnetic…</p><p><a href="https://kotaku.com/switch-2-magnet-joycon-hall-effect-joystick-nintendo-1851744709">Read more...</a></p>
+
+## 5 Big Takeaways From The Newest Developer Survey On The State Of Gaming
+ - [https://kotaku.com/gdc-2025-developer-survey-generative-ai-pc-switch-2-1851744292](https://kotaku.com/gdc-2025-developer-survey-generative-ai-pc-switch-2-1851744292)
+ - RSS feed: $source
+ - date published: 2025-01-22T14:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/ba872539f78441b37397c06d05535875.jpg"/><p>Ahead of the Game Developer’s Conference (GDC) in March, the organization behind the event released its latest annual survey of creators on the state of the industry. The feedback showed that gaming has been rocked by layoffs over the last 12 months, but also pointed to some silver linings for its growth and future…</p><p><a href="https://kotaku.com/gdc-2025-developer-survey-generative-ai-pc-switch-2-1851744292">Read more...</a></p>
+

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-22T15:07:06+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nSecrets of C++ Scripting Bindings: Bridging Compile Time and Run Time - Jason Turner - CppCon 2024\n---\n\nYou must have a certain skill set to write a scripting binding interface for C++ like luabind, sol2, pybind, or ChaiScript. This is a skill set that few seem to posses. But developing this skill set helps you to understand the language in a new, deeper, and more unique way.\n\nWe will start from the first principles of what we are trying to accomplish and why. We will then cover the basics of deducing function signatures with templates and the limitations that are hit when you have function overloads. We will wrap these user provided functions with a compile time \uff1c-\uff1e runtime interface, then demonstrate a simple function dispatch engine.\n\nIf we have time, we will then show function reference syntax and how you can use this to bind script engine functions back into the C++ statically typed world.\n\nWe will not get to an actual parser for a scripting language. Th",
+        "id": 1956943,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Ny9-516Gh28",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Ny9-516Gh28/hqdefault.jpg",
+        "title": "Secrets of C++ Scripting Bindings: Bridging Compile Time and Run Time - Jason Turner - CppCon 2024",
+        "vote": 0
+    }
+]

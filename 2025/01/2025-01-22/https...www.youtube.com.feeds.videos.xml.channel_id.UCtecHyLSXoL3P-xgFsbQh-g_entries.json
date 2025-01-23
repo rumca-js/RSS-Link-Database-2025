@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-22T14:34:01+00:00",
+        "description": "Na Ga\u0142\u0119zi na Instagramie - https://www.instagram.com/mlukanski/\n\nPutin, to oczywi\u015bcie audio-wizualny paszkwil. Jednak prawdziwie zaskakuj\u0105ce jest, \u017ce taki film w og\u00f3le istnieje. Czym on w zasadzie jest? O czym opowiada? I dlaczego ogl\u0105daj\u0105c go, mamy wra\u017cenie, \u017ce zaraz eksploduje nam g\u0142owa?",
+        "id": 1956296,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=F-ofkga7MWo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F-ofkga7MWo/hqdefault.jpg",
+        "title": "PUTIN - co to w zasadzie by\u0142o?",
+        "vote": 0
+    }
+]

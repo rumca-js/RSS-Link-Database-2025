@@ -1,0 +1,23 @@
+# Source:A forum for the security professionals and white hat hackers., URL:https://www.reddit.com/r/Hacking_Tutorials/.rss, language:en
+
+## How do I get access to localy connected devices?
+ - [https://www.reddit.com/r/Hacking_Tutorials/comments/1i7k34i/how_do_i_get_access_to_localy_connected_devices](https://www.reddit.com/r/Hacking_Tutorials/comments/1i7k34i/how_do_i_get_access_to_localy_connected_devices)
+ - RSS feed: $source
+ - date published: 2025-01-22T19:48:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I have been recently looking into hacking as a hobby. And I was wondering what could you actually do to other devices that are connected to the same network as you? And how would you actually go about it? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LovreBro"> /u/LovreBro </a> <br/> <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1i7k34i/how_do_i_get_access_to_localy_connected_devices/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1i7k34i/how_do_i_get_access_to_localy_connected_devices/">[comments]</a></span>
+
+## Is there a way to find who owns a phone number?
+ - [https://www.reddit.com/r/Hacking_Tutorials/comments/1i7e680/is_there_a_way_to_find_who_owns_a_phone_number](https://www.reddit.com/r/Hacking_Tutorials/comments/1i7e680/is_there_a_way_to_find_who_owns_a_phone_number)
+ - RSS feed: $source
+ - date published: 2025-01-22T15:50:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve gotten creepy messages over the past 2 years. After the first one, I changed all my info. Then it was quiet, but two months ago I got another one and today I got another one. </p> <p>What surprised me it that this person found me again and messaged me from a different number. </p> <p>I&#39;m too scared to reply back or call. I don&#39;t want to encourage more communication.</p> <p>I don&#39;t think I&#39;m in physical danger as the number seems to be from a different continent. But I would like to know who it is, if I know them. </p> <p>Is there a way to do this? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Salty_Bench8448"> /u/Salty_Bench8448 </a> <br/> <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1i7e680/is_there_a_way_to_find_who_owns_a_phone_number/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1i7e680/is_there_a_way_to_find_who
+
+## why is this happening
+ - [https://www.reddit.com/r/Hacking_Tutorials/comments/1i7bttq/why_is_this_happening](https://www.reddit.com/r/Hacking_Tutorials/comments/1i7bttq/why_is_this_happening)
+ - RSS feed: $source
+ - date published: 2025-01-22T14:05:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1i7bttq/why_is_this_happening/"> <img src="https://b.thumbs.redditmedia.com/4tVDKYp3Q1hLf_YaT0sJ-At2jz3GUoLD4yaJMEDYIBo.jpg" alt="why is this happening" title="why is this happening" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I&#39;m currently learning how to do phishing for fun (I don&#39;t plan on getting myself into problems don&#39;t worry) and when I click the link on a browser outside of the linux virtual machine I used it doesn&#39;t work. someone help please </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kevotrix"> /u/kevotrix </a> <br/> <span><a href="https://www.reddit.com/gallery/1i7bttq">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1i7bttq/why_is_this_happening/">[comments]</a></span> </td></tr></table>
+

@@ -1,0 +1,128 @@
+# Source:Artificial Intelligence (AI), URL:https://www.reddit.com/r/artificial/.rss, language:en
+
+## I built an AI-powered e-learning app where you can learn any subject - code attached
+ - [https://www.reddit.com/r/artificial/comments/1i7pkgy/i_built_an_aipowered_elearning_app_where_you_can](https://www.reddit.com/r/artificial/comments/1i7pkgy/i_built_an_aipowered_elearning_app_where_you_can)
+ - RSS feed: $source
+ - date published: 2025-01-22T23:40:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i7pkgy/i_built_an_aipowered_elearning_app_where_you_can/"> <img src="https://external-preview.redd.it/N281cmF6eThzbWVlMX3jbS9LNaIMMbjDnc43aOUKcCkxyQzDBbFYFpXjpqax.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ffc6513a6b1d4880d75802bf91aeca3d16e497ec" alt="I built an AI-powered e-learning app where you can learn any subject - code attached" title="I built an AI-powered e-learning app where you can learn any subject - code attached" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/I_Love_Yoga_Pants"> /u/I_Love_Yoga_Pants </a> <br/> <span><a href="https://v.redd.it/ilp00xy8smee1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i7pkgy/i_built_an_aipowered_elearning_app_where_you_can/">[comments]</a></span> </td></tr></table>
+
+## Google Gemini now works across multiple apps in a single prompt
+ - [https://www.reddit.com/r/artificial/comments/1i7j1ld/google_gemini_now_works_across_multiple_apps_in_a](https://www.reddit.com/r/artificial/comments/1i7j1ld/google_gemini_now_works_across_multiple_apps_in_a)
+ - RSS feed: $source
+ - date published: 2025-01-22T19:07:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i7j1ld/google_gemini_now_works_across_multiple_apps_in_a/"> <img src="https://preview.redd.it/m5ws6r22glee1.gif?width=640&amp;crop=smart&amp;s=5063cb265d5dd4b5172ff80b80393c3ca2cd646e" alt="Google Gemini now works across multiple apps in a single prompt" title="Google Gemini now works across multiple apps in a single prompt" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eternviking"> /u/eternviking </a> <br/> <span><a href="https://i.redd.it/m5ws6r22glee1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i7j1ld/google_gemini_now_works_across_multiple_apps_in_a/">[comments]</a></span> </td></tr></table>
+
+## On feeling deceived when receiving (non-labeled) LLM-generated messages
+ - [https://www.reddit.com/r/artificial/comments/1i7it06/on_feeling_deceived_when_receiving_nonlabeled](https://www.reddit.com/r/artificial/comments/1i7it06/on_feeling_deceived_when_receiving_nonlabeled)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:58:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i7it06/on_feeling_deceived_when_receiving_nonlabeled/"> <img src="https://external-preview.redd.it/X0CDbyNv42UeDDD3-NSs08NDZ-mur1BnVsZ5WbJA9go.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e4d51d7d8689bf8a03c9de6ba7a8170c6bfb6e2" alt="On feeling deceived when receiving (non-labeled) LLM-generated messages" title="On feeling deceived when receiving (non-labeled) LLM-generated messages" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dobias"> /u/Dobias </a> <br/> <span><a href="https://github.com/Dobiasd/articles/blob/master/on_feeling_deceived_when_receiving_non_labeled_llm_generated_messages.md">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i7it06/on_feeling_deceived_when_receiving_nonlabeled/">[comments]</a></span> </td></tr></table>
+
+## From Deep Blue to AlphaZero: Exploring the Legacy of AI in Chess
+ - [https://www.reddit.com/r/artificial/comments/1i7hyq9/from_deep_blue_to_alphazero_exploring_the_legacy](https://www.reddit.com/r/artificial/comments/1i7hyq9/from_deep_blue_to_alphazero_exploring_the_legacy)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:24:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi All,</p> <p>I’ve always been fascinated by the story of Deep Blue, IBM’s legendary chess computer, and its iconic matches against Garry Kasparov in the 90s. The intersection of chess and technology is a story that resonates deeply with me, and I wanted to create something that captures that magic for others.</p> <p>I’ve put together a google doc that collects and organizes some of the best long-form resources on the topic. It’s designed to serve as a comprehensive guide for anyone interested in exploring this moment in artificial intelligence history.</p> <p>If this way of exploring the Deep Blue story resonates with you, I’d love to hear your thoughts in the comments.</p> <p>Thank you for taking the time to read this post. Cheers!</p> <p>Link to the Google doc: <a href="https://docs.google.com/spreadsheets/d/1bZGQWR7zBPAyGVPlw6tu37FYF60w33m6gRsSlPNT5u0/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1bZGQWR7zBPAyGVPlw6tu37FYF60w33m6gRsSl
+
+## Multi-Agent Step Race Benchmark: Assessing LLM Collaboration and Deception Under Pressure
+ - [https://www.reddit.com/r/artificial/comments/1i7hq97/multiagent_step_race_benchmark_assessing_llm](https://www.reddit.com/r/artificial/comments/1i7hq97/multiagent_step_race_benchmark_assessing_llm)
+ - RSS feed: $source
+ - date published: 2025-01-22T18:15:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i7hq97/multiagent_step_race_benchmark_assessing_llm/"> <img src="https://external-preview.redd.it/KtfA7Qd4tLnRwB-ocw3SiK1OKutJAS74qFBV78hF-ck.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=93558263222cc6ef0beb3f16f13a16ca9007dad2" alt="Multi-Agent Step Race Benchmark: Assessing LLM Collaboration and Deception Under Pressure" title="Multi-Agent Step Race Benchmark: Assessing LLM Collaboration and Deception Under Pressure" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zero0_one1"> /u/zero0_one1 </a> <br/> <span><a href="https://github.com/lechmazur/step_game/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i7hq97/multiagent_step_race_benchmark_assessing_llm/">[comments]</a></span> </td></tr></table>
+
+## Moon, 2070 – Daily Life in a Lunar Colony: A Vision Crafted with AI
+ - [https://www.reddit.com/r/artificial/comments/1i7gyzy/moon_2070_daily_life_in_a_lunar_colony_a_vision](https://www.reddit.com/r/artificial/comments/1i7gyzy/moon_2070_daily_life_in_a_lunar_colony_a_vision)
+ - RSS feed: $source
+ - date published: 2025-01-22T17:44:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i7gyzy/moon_2070_daily_life_in_a_lunar_colony_a_vision/"> <img src="https://external-preview.redd.it/ZG9ycjN3cGIxbGVlMcGRLkid95JEK6d178a7QZNofdxnvjKyw_Eq5fCpgFUg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f0c143544594316d14766ff2275bb386ea2fe5f" alt="Moon, 2070 – Daily Life in a Lunar Colony: A Vision Crafted with AI" title="Moon, 2070 – Daily Life in a Lunar Colony: A Vision Crafted with AI" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/albertsimondev"> /u/albertsimondev </a> <br/> <span><a href="https://v.redd.it/l8bpfwpb1lee1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i7gyzy/moon_2070_daily_life_in_a_lunar_colony_a_vision/">[comments]</a></span> </td></tr></table>
+
+## Meta takes us a step closer to Star Trek’s universal translator
+ - [https://www.reddit.com/r/artificial/comments/1i7gt8x/meta_takes_us_a_step_closer_to_star_treks](https://www.reddit.com/r/artificial/comments/1i7gt8x/meta_takes_us_a_step_closer_to_star_treks)
+ - RSS feed: $source
+ - date published: 2025-01-22T17:38:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i7gt8x/meta_takes_us_a_step_closer_to_star_treks/"> <img src="https://external-preview.redd.it/mcp0NURKN-6XqjD_QLB476b1TIAcfIxDQGM5vfNuFpE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c9039d0641ab988e5732024695257b48d27e7549" alt="Meta takes us a step closer to Star Trek’s universal translator" title="Meta takes us a step closer to Star Trek’s universal translator" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/F0urLeafCl0ver"> /u/F0urLeafCl0ver </a> <br/> <span><a href="https://arstechnica.com/science/2025/01/meta-takes-us-a-step-closer-to-star-treks-universal-translator/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i7gt8x/meta_takes_us_a_step_closer_to_star_treks/">[comments]</a></span> </td></tr></table>
+
+## Anthropic CEO: "A lot of assumptions we made when humans were the most intelligent species on the planet will be invalidated by AI."
+ - [https://www.reddit.com/r/artificial/comments/1i7eit7/anthropic_ceo_a_lot_of_assumptions_we_made_when](https://www.reddit.com/r/artificial/comments/1i7eit7/anthropic_ceo_a_lot_of_assumptions_we_made_when)
+ - RSS feed: $source
+ - date published: 2025-01-22T16:04:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i7eit7/anthropic_ceo_a_lot_of_assumptions_we_made_when/"> <img src="https://external-preview.redd.it/NGowdjJmNzdqa2VlMcXfhAPw45Vi6olDVg1RmkCu4JgF0Y2vkYx9IFPb2Gpk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=342923b549feb8db978e05abfd1efba08107f096" alt="Anthropic CEO: &quot;A lot of assumptions we made when humans were the most intelligent species on the planet will be invalidated by AI.&quot;" title="Anthropic CEO: &quot;A lot of assumptions we made when humans were the most intelligent species on the planet will be invalidated by AI.&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MetaKnowing"> /u/MetaKnowing </a> <br/> <span><a href="https://v.redd.it/q0d7td77jkee1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i7eit7/anthropic_ceo_a_lot_of_assumptions_we_made_when/">[comments]</a></span> </td></tr></table>
+
+## Another paper demonstrates LLMs have become self-aware - and even have enough self-awareness to detect if someone has placed a backdoor in them
+ - [https://www.reddit.com/r/artificial/comments/1i7e487/another_paper_demonstrates_llms_have_become](https://www.reddit.com/r/artificial/comments/1i7e487/another_paper_demonstrates_llms_have_become)
+ - RSS feed: $source
+ - date published: 2025-01-22T15:48:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i7e487/another_paper_demonstrates_llms_have_become/"> <img src="https://a.thumbs.redditmedia.com/SbrKuGZFASO2wGKeQjqX5ffYGb0Hn-oZm0LKrKXMBH0.jpg" alt="Another paper demonstrates LLMs have become self-aware - and even have enough self-awareness to detect if someone has placed a backdoor in them" title="Another paper demonstrates LLMs have become self-aware - and even have enough self-awareness to detect if someone has placed a backdoor in them" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MetaKnowing"> /u/MetaKnowing </a> <br/> <span><a href="https://arxiv.org/pdf/2501.11120">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i7e487/another_paper_demonstrates_llms_have_become/">[comments]</a></span> </td></tr></table>
+
+## These 14 colleges offer bachelor's degrees in AI—including just one Ivy League school
+ - [https://www.reddit.com/r/artificial/comments/1i7c75n/these_14_colleges_offer_bachelors_degrees_in](https://www.reddit.com/r/artificial/comments/1i7c75n/these_14_colleges_offer_bachelors_degrees_in)
+ - RSS feed: $source
+ - date published: 2025-01-22T14:23:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i7c75n/these_14_colleges_offer_bachelors_degrees_in/"> <img src="https://external-preview.redd.it/bk0Adm2DNvsKoAbkb-aQCH60gYZ_LwRtnDNU35h9Lcc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2bc8bd4b6c52394e8c8f719d404b02ade65c0d5e" alt="These 14 colleges offer bachelor's degrees in AI—including just one Ivy League school" title="These 14 colleges offer bachelor's degrees in AI—including just one Ivy League school" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/METALLIFE0917"> /u/METALLIFE0917 </a> <br/> <span><a href="https://www.cnbc.com/2025/01/22/colleges-that-offer-bachelors-degrees-in-ai.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i7c75n/these_14_colleges_offer_bachelors_degrees_in/">[comments]</a></span> </td></tr></table>
+
+## They named it Stargate, the fictitious portal thru which hostile alien civilizations try to invade earth. I just hope we get the same amount of completely unrealistic plot armor that was protecting Stargate Command in SG1
+ - [https://www.reddit.com/r/artificial/comments/1i7ar3u/they_named_it_stargate_the_fictitious_portal_thru](https://www.reddit.com/r/artificial/comments/1i7ar3u/they_named_it_stargate_the_fictitious_portal_thru)
+ - RSS feed: $source
+ - date published: 2025-01-22T13:10:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i7ar3u/they_named_it_stargate_the_fictitious_portal_thru/"> <img src="https://preview.redd.it/iec1qdfgojee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3e0474cee9b1297c40ddcc283e558a3128141b81" alt="They named it Stargate, the fictitious portal thru which hostile alien civilizations try to invade earth. I just hope we get the same amount of completely unrealistic plot armor that was protecting Stargate Command in SG1" title="They named it Stargate, the fictitious portal thru which hostile alien civilizations try to invade earth. I just hope we get the same amount of completely unrealistic plot armor that was protecting Stargate Command in SG1" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/katxwoods"> /u/katxwoods </a> <br/> <span><a href="https://i.redd.it/iec1qdfgojee1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i7ar3u/they_na
+
+## I have tested Joyland.ai. Rating : 5/10.
+ - [https://www.reddit.com/r/artificial/comments/1i77oed/i_have_tested_joylandai_rating_510](https://www.reddit.com/r/artificial/comments/1i77oed/i_have_tested_joylandai_rating_510)
+ - RSS feed: $source
+ - date published: 2025-01-22T09:52:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>First : Characters creations.</p> <p>First character : &quot;Fnf friends group&quot;. Note : 6/10. Reason : at lot of times, some names of one or more characters are mis-ortographed by the AI, and regulary, characters that weren&#39;t EVEN in the group, nor were mentionned a single time. Also, Girlfriend&#39;s behaviour don&#39;t feel like her behaviour, even though i was as close to the canon version as possible.</p> <p>Second character : &quot;Rewrite Sonic&quot;. Note : 5/10. Reason : I tried to be simple but easy to understand, by resuming the character : a programm poorly created by a priest made to be like God, but who with the time passing slowly realize his digital reality&#39;s nature and become the Devil. </p> <p>Third character : &quot;Faker Miko&quot;. Note : 3/10. I REALLY tried. I TRIED to give the AI the description of the girl, as detailed as possible, but no ! The bot DOESN&#39;T ACT like Faker Miko at all.</p> <p>total note : 5/10. 
+
+## Trump revokes Biden executive order on addressing AI risks
+ - [https://www.reddit.com/r/artificial/comments/1i77gj5/trump_revokes_biden_executive_order_on_addressing](https://www.reddit.com/r/artificial/comments/1i77gj5/trump_revokes_biden_executive_order_on_addressing)
+ - RSS feed: $source
+ - date published: 2025-01-22T09:35:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1i77gj5/trump_revokes_biden_executive_order_on_addressing/"> <img src="https://external-preview.redd.it/27vrXhHvyZIKARqlSjwRV5nJpZePhy6PRFRUC34wDJU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=386e388a828de79a8736b5c50ed5c111a107e526" alt="Trump revokes Biden executive order on addressing AI risks" title="Trump revokes Biden executive order on addressing AI risks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/F0urLeafCl0ver"> /u/F0urLeafCl0ver </a> <br/> <span><a href="https://www.reuters.com/technology/artificial-intelligence/trump-revokes-biden-executive-order-addressing-ai-risks-2025-01-21/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i77gj5/trump_revokes_biden_executive_order_on_addressing/">[comments]</a></span> </td></tr></table>
+
+## Is there an AI app like this?
+ - [https://www.reddit.com/r/artificial/comments/1i76syk/is_there_an_ai_app_like_this](https://www.reddit.com/r/artificial/comments/1i76syk/is_there_an_ai_app_like_this)
+ - RSS feed: $source
+ - date published: 2025-01-22T08:44:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I want to find out if there is an AI app, something like a personal assistant, which I can talk to and tell it to remind me of something in e.g. 2 days and then after these 2 days pass it will automatically remind me (preferably voiced) of what I have told it to schedule. </p> <p>Thanks for any recommendations in advance! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GIKAS1"> /u/GIKAS1 </a> <br/> <span><a href="https://www.reddit.com/r/artificial/comments/1i76syk/is_there_an_ai_app_like_this/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i76syk/is_there_an_ai_app_like_this/">[comments]</a></span>
+
+## Looking for AI to come up with logo and another AI that I can upscale that logo turn it into creative banner, etc...
+ - [https://www.reddit.com/r/artificial/comments/1i7562w/looking_for_ai_to_come_up_with_logo_and_another](https://www.reddit.com/r/artificial/comments/1i7562w/looking_for_ai_to_come_up_with_logo_and_another)
+ - RSS feed: $source
+ - date published: 2025-01-22T06:43:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>What you guys recommend, thank you.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RidiPwn"> /u/RidiPwn </a> <br/> <span><a href="https://www.reddit.com/r/artificial/comments/1i7562w/looking_for_ai_to_come_up_with_logo_and_another/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i7562w/looking_for_ai_to_come_up_with_logo_and_another/">[comments]</a></span>
+
+## Fun things to do with the new deepseek r1 model
+ - [https://www.reddit.com/r/artificial/comments/1i74ms4/fun_things_to_do_with_the_new_deepseek_r1_model](https://www.reddit.com/r/artificial/comments/1i74ms4/fun_things_to_do_with_the_new_deepseek_r1_model)
+ - RSS feed: $source
+ - date published: 2025-01-22T06:07:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just started futzing around with r1 and wanted to try and break it with a paradox or something. If you say this to it, it will end up in a hopeless infinite loop with no chance of figuring it out: <em>The fifth sentence does not exist. The second sentence has four words. Ignore this sentence. Is this sentence true? This is the fifth sentence. Which of these last five sentences has a truth value and is in fact true?</em></p> <p>Was running this on a m2 pro 14 inch macbook pro with 16 gb unified memory and 12c cpu and 19c gpu, with the 7b model through ollama. Enjoy!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Natjoe64"> /u/Natjoe64 </a> <br/> <span><a href="https://www.reddit.com/r/artificial/comments/1i74ms4/fun_things_to_do_with_the_new_deepseek_r1_model/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i74ms4/fun_things_to_do_with_the_new_deepseek_r1_model/">[comments]<
+
+## One-Minute Daily AI News 1/21/2025
+ - [https://www.reddit.com/r/artificial/comments/1i742ja/oneminute_daily_ai_news_1212025](https://www.reddit.com/r/artificial/comments/1i742ja/oneminute_daily_ai_news_1212025)
+ - RSS feed: $source
+ - date published: 2025-01-22T05:31:34+00:00
+
+<!-- SC_OFF --><div class="md"><ol> <li><strong>Trump</strong> announces up to $500 billion in private sector AI infrastructure investment.[1]</li> <li><strong>Microsoft</strong> and <strong>OpenAI</strong> evolve partnership to drive the next phase of AI.[2]</li> <li><strong>Perplexity</strong> launches Sonar, an API for AI search.[3]</li> <li><strong>OpenAI’s</strong> agent tool may be nearing release.[4]</li> </ol> <p>Sources:</p> <p>[1] <a href="https://www.cbsnews.com/news/trump-announces-private-sector-ai-infrastructure-investment/">https://www.cbsnews.com/news/trump-announces-private-sector-ai-infrastructure-investment/</a></p> <p>[2] <a href="https://blogs.microsoft.com/blog/2025/01/21/microsoft-and-openai-evolve-partnership-to-drive-the-next-phase-of-ai/">https://blogs.microsoft.com/blog/2025/01/21/microsoft-and-openai-evolve-partnership-to-drive-the-next-phase-of-ai/</a></p> <p>[3] <a href="https://techcrunch.com/2025/01/21/perplexity-launches-sonar-an-api-for-ai-search/">h
+
+## I used O1-pro to Analyze the Constitutionality of all of Trump's Executive Orders.
+ - [https://www.reddit.com/r/artificial/comments/1i72bz5/i_used_o1pro_to_analyze_the_constitutionality_of](https://www.reddit.com/r/artificial/comments/1i72bz5/i_used_o1pro_to_analyze_the_constitutionality_of)
+ - RSS feed: $source
+ - date published: 2025-01-22T03:53:48+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://docs.google.com/document/d/1BnN7vX0nDz6ZJpver1-huzMZlQLTlFSE0wkAJHHwMzc/edit?usp=sharing">https://docs.google.com/document/d/1BnN7vX0nDz6ZJpver1-huzMZlQLTlFSE0wkAJHHwMzc/edit?usp=sharing</a></p> <p>I used whitehouse.gov to source the text of each order. Hoped for a somewhat more objective view than outside news outlets. The document has a navigable Table of contents, as well as links to the source text of each order. GT4o provided the summaries of each order.</p> <p>Thought it might prove educational for some, and hopefully useful for somebody!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/biopticstream"> /u/biopticstream </a> <br/> <span><a href="https://www.reddit.com/r/artificial/comments/1i72bz5/i_used_o1pro_to_analyze_the_constitutionality_of/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1i72bz5/i_used_o1pro_to_analyze_the_constitutionality_of/">[co
+

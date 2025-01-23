@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-22T16:00:05+00:00",
+        "description": "<p>A report jointly published by Coder and SlashData has shed light on the current practices and future directions of development environments. With organisations increasingly moving towards standardisation, the \u2018State of Development Environments 2025\u2019 report provides insights into the industry&#8217;s trajectory, its challenges, and its potential opportunities for growth. Standardisation of development environments gains traction One<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/cloud-automation-propel-future-development-environments/\" title=\"ReadCloud and automation propel future of development environments\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/cloud-automation-propel-future-development-environments/\">Cloud and automation propel future of development environments</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 1957115,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/cloud-automation-propel-future-development-environments",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Cloud and automation propel future of development environments",
+        "vote": 0
+    }
+]

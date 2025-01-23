@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-22T16:40:01+00:00",
+        "description": "Check out the full video here:\nhttps://youtu.be/XvbVePuP7NY?si=T3PZ_UB50MmL_tVO\n\n#SmartHome #HomeAssistant #Rhasspy",
+        "id": 1957609,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=fDWaUwguPp8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fDWaUwguPp8/hqdefault.jpg",
+        "title": "Can you make your own voice assistant?",
+        "vote": 0
+    }
+]
