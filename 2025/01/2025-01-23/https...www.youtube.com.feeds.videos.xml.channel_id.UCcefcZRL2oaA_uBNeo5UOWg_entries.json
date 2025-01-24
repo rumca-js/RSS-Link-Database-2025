@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-23T15:00:49+00:00",
+        "description": "In the past few years, AI labs have adopted a \u201cmore is more\u201d approach to scaling LLMs. By introducing more parameters, data and compute, they\u2019ve been able to predictably improve model performance. But recently, there\u2019s been plenty of debate within the AI community as to whether or not we may have finally reached the limits of scaling laws.\n\nIn this episode of YC Decoded, President and CEO Garry Tan looks into both sides of the scaling laws debate and how a brand-new paradigm could potentially forecast the future of AI.\n\nApply to Y Combinator: https://yc.link/YCDecoded-apply\nWork at a startup: https://yc.link/YCDecoded-jobs",
+        "id": 1964907,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=d6Ed5bZAtrM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/d6Ed5bZAtrM/hqdefault.jpg",
+        "title": "How Scaling Laws Will Determine AI's Future | YC Decoded",
+        "vote": 0
+    }
+]

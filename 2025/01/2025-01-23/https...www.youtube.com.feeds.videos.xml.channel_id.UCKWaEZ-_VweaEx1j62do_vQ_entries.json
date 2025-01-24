@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-23T12:00:24+00:00",
+        "description": "Ready to try Lag Llama for yourself? Find the code here \u2192 https://github.com/IBM/ibmdotcom-tutorials/blob/main/generative-ai/time-series-forecasting-lag-llama.ipynb\nLearn more about LAG Llama here \u2192 https://www.ibm.com/think/tutorials/lag-llama\n\nForecasting the future just got a whole lot more precise! Join Meredith Mante as she takes you on a deep dive into Lag Llama, an open-source foundation model, and shows you how to harness its power for time series forecasting. Learn how to load and preprocess data, train a model, and evaluate its performance, gaining a deeper understanding of how to leverage Lag Llama for accurate predictions.\n\n AI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://www.ibm.com/account/reg/us-en/signup?formid=news-urx-52120\n\n#ai #machinelearning #deeplearning",
+        "id": 1964340,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=MOOPuizuf6o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MOOPuizuf6o/hqdefault.jpg",
+        "title": "Time Series Forecasting with Lag Llama",
+        "vote": 0
+    }
+]

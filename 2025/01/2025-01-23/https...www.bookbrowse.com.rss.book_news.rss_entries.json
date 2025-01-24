@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-23T06:00:00+00:00",
+        "description": "The National Book Critics Circle has announced the finalists and special award winners for this year's awards cycle, its 50th, honoring books published in 2024. A total of 31 publishers are represented across 42 finalists. Winners of the eight competitive categories will be named on March 20, 2025, at the New School in New York City, in a ceremony that will be free and open to the public. Author Maxine Hong Kingston, who won the 1976 NBCC Nonfiction Award for The Woman Warrior, has been named a distinguished guest for the evening, and will speak in honor of the semicentennial.",
+        "id": 1965626,
+        "language": "en",
+        "link": "http://www.bookbrowse.com/news/detail/index.cfm?news_item_number=3362",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 43,
+        "source_url": "https://www.bookbrowse.com/rss/book_news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The 2025 National Book Critics Circle finalists",
+        "vote": 0
+    }
+]

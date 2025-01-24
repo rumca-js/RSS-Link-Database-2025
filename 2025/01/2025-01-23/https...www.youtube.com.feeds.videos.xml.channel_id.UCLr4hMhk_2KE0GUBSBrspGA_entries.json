@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-23T05:46:49+00:00",
+        "description": "Ofert\u0119 sklepu wraz z regulaminem znajdziecie tutaj - https://bit.ly/4hs5krd , a kod KLAWYKOD jest do wykorzystania pod tym linkiem - https://bit.ly/3WscbZm (300 z\u0142 zni\u017cki dla pierwszych 100 os\u00f3b)",
+        "id": 1961863,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=9TYVZqPdVDk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9TYVZqPdVDk/hqdefault.jpg",
+        "title": "Samsung S25 - Co nowego?",
+        "vote": 0
+    }
+]

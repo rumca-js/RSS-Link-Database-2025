@@ -1,0 +1,261 @@
+# Source:programming, URL:https://www.reddit.com/r/programming/.rss, language:
+
+## ‘Spawn Me a PR’ Isn't Ready for Large Codebases: The Context Barrier to AI Code Generation
+ - [https://www.reddit.com/r/programming/comments/1i8fi93/spawn_me_a_pr_isnt_ready_for_large_codebases_the](https://www.reddit.com/r/programming/comments/1i8fi93/spawn_me_a_pr_isnt_ready_for_large_codebases_the)
+ - RSS feed: $source
+ - date published: 2025-01-23T22:08:07+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/fosterfriendship"> /u/fosterfriendship </a> <br/> <span><a href="https://smalldiffs.gmfoster.com/p/why-spawn-me-a-pr-is-still-a-dream">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i8fi93/spawn_me_a_pr_isnt_ready_for_large_codebases_the/">[comments]</a></span>
+
+## Picking Equatable Names
+ - [https://www.reddit.com/r/programming/comments/1i8eyev/picking_equatable_names](https://www.reddit.com/r/programming/comments/1i8eyev/picking_equatable_names)
+ - RSS feed: $source
+ - date published: 2025-01-23T21:44:28+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/thunderseethe"> /u/thunderseethe </a> <br/> <span><a href="https://thunderseethe.dev/posts/debruijn-indices/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i8eyev/picking_equatable_names/">[comments]</a></span>
+
+## Spotify wrapped for GitHub: your 2024 year in code
+ - [https://www.reddit.com/r/programming/comments/1i8drfm/spotify_wrapped_for_github_your_2024_year_in_code](https://www.reddit.com/r/programming/comments/1i8drfm/spotify_wrapped_for_github_your_2024_year_in_code)
+ - RSS feed: $source
+ - date published: 2025-01-23T20:55:02+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/kendumez"> /u/kendumez </a> <br/> <span><a href="https://year-in-code.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i8drfm/spotify_wrapped_for_github_your_2024_year_in_code/">[comments]</a></span>
+
+## Shifting Cyber Norms: Microsoft security POST-ing to you - Bert Hubert's writings
+ - [https://www.reddit.com/r/programming/comments/1i8d920/shifting_cyber_norms_microsoft_security_posting](https://www.reddit.com/r/programming/comments/1i8d920/shifting_cyber_norms_microsoft_security_posting)
+ - RSS feed: $source
+ - date published: 2025-01-23T20:33:48+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Alexander_Selkirk"> /u/Alexander_Selkirk </a> <br/> <span><a href="https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i8d920/shifting_cyber_norms_microsoft_security_posting/">[comments]</a></span>
+
+## Building a Chip-8 Emulator: Decoding Instructions
+ - [https://www.reddit.com/r/programming/comments/1i8bz1k/building_a_chip8_emulator_decoding_instructions](https://www.reddit.com/r/programming/comments/1i8bz1k/building_a_chip8_emulator_decoding_instructions)
+ - RSS feed: $source
+ - date published: 2025-01-23T19:40:12+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/elemenity"> /u/elemenity </a> <br/> <span><a href="https://www.emulationonline.com/systems/chip8/implementing_chip8_instructions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i8bz1k/building_a_chip8_emulator_decoding_instructions/">[comments]</a></span>
+
+## Medical Melanoma Detection | TensorFlow U-Net Tutorial using Unet
+ - [https://www.reddit.com/r/programming/comments/1i88g3c/medical_melanoma_detection_tensorflow_unet](https://www.reddit.com/r/programming/comments/1i88g3c/medical_melanoma_detection_tensorflow_unet)
+ - RSS feed: $source
+ - date published: 2025-01-23T17:15:52+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Feitgemel"> /u/Feitgemel </a> <br/> <span><a href="https://eranfeit.net/medical-melanoma-detection-tensorflow-u-net-tutorial-using-unet/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i88g3c/medical_melanoma_detection_tensorflow_unet/">[comments]</a></span>
+
+## A simple tutorial/overview on the shape rendering process I use in my NervLand webGPU engine
+ - [https://www.reddit.com/r/programming/comments/1i885xu/a_simple_tutorialoverview_on_the_shape_rendering](https://www.reddit.com/r/programming/comments/1i885xu/a_simple_tutorialoverview_on_the_shape_rendering)
+ - RSS feed: $source
+ - date published: 2025-01-23T17:04:21+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/magik_engineer"> /u/magik_engineer </a> <br/> <span><a href="https://youtu.be/SSkdZS9F_FU">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i885xu/a_simple_tutorialoverview_on_the_shape_rendering/">[comments]</a></span>
+
+## create-react-app is a zombie application
+ - [https://www.reddit.com/r/programming/comments/1i87oz9/createreactapp_is_a_zombie_application](https://www.reddit.com/r/programming/comments/1i87oz9/createreactapp_is_a_zombie_application)
+ - RSS feed: $source
+ - date published: 2025-01-23T16:45:16+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/rabidgnat"> /u/rabidgnat </a> <br/> <span><a href="https://www.clientserver.dev/p/create-react-app-is-a-zombie-application">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i87oz9/createreactapp_is_a_zombie_application/">[comments]</a></span>
+
+## I'm glad I took the off-ramp from software engineering
+ - [https://www.reddit.com/r/programming/comments/1i87588/im_glad_i_took_the_offramp_from_software](https://www.reddit.com/r/programming/comments/1i87588/im_glad_i_took_the_offramp_from_software)
+ - RSS feed: $source
+ - date published: 2025-01-23T16:22:10+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/doodlebytes"> /u/doodlebytes </a> <br/> <span><a href="https://newsletter.goodtechthings.com/p/you-get-10-years-to-be-a-software?r=4n6uk&amp;utm_medium=ios&amp;triedRedirect=true">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i87588/im_glad_i_took_the_offramp_from_software/">[comments]</a></span>
+
+## Python is the most popular programming language on GitHub
+ - [https://www.reddit.com/r/programming/comments/1i86v7p/python_is_the_most_popular_programming_language](https://www.reddit.com/r/programming/comments/1i86v7p/python_is_the_most_popular_programming_language)
+ - RSS feed: $source
+ - date published: 2025-01-23T16:10:26+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/milanm08"> /u/milanm08 </a> <br/> <span><a href="https://newsletter.techworld-with-milan.com/p/trends-6-python-is-the-most-popular">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i86v7p/python_is_the_most_popular_programming_language/">[comments]</a></span>
+
+## Opengrep - the open source code scanner forked from Semgrep
+ - [https://www.reddit.com/r/programming/comments/1i85uwr/opengrep_the_open_source_code_scanner_forked_from](https://www.reddit.com/r/programming/comments/1i85uwr/opengrep_the_open_source_code_scanner_forked_from)
+ - RSS feed: $source
+ - date published: 2025-01-23T15:27:03+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ConsistentComment919"> /u/ConsistentComment919 </a> <br/> <span><a href="https://pulse.latio.tech/p/announcing-opengrep">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i85uwr/opengrep_the_open_source_code_scanner_forked_from/">[comments]</a></span>
+
+## Rapier: A Code-Generation Companion Library for Google Dagger to Simplify Configuration Management
+ - [https://www.reddit.com/r/programming/comments/1i85mbt/rapier_a_codegeneration_companion_library_for](https://www.reddit.com/r/programming/comments/1i85mbt/rapier_a_codegeneration_companion_library_for)
+ - RSS feed: $source
+ - date published: 2025-01-23T15:16:42+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/aleph0io"> /u/aleph0io </a> <br/> <span><a href="https://github.com/aleph0io/rapier">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i85mbt/rapier_a_codegeneration_companion_library_for/">[comments]</a></span>
+
+## Communication Patterns – A Guide for Devs & Architects • Jacqui Read & Gregor Hohpe
+ - [https://www.reddit.com/r/programming/comments/1i84nj1/communication_patterns_a_guide_for_devs](https://www.reddit.com/r/programming/comments/1i84nj1/communication_patterns_a_guide_for_devs)
+ - RSS feed: $source
+ - date published: 2025-01-23T14:32:28+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/goto-con"> /u/goto-con </a> <br/> <span><a href="https://youtu.be/LTFe7Zj-hzQ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i84nj1/communication_patterns_a_guide_for_devs/">[comments]</a></span>
+
+## Hacking Subaru: Tracking and Controlling Cars via the STARLINK Admin Panel
+ - [https://www.reddit.com/r/programming/comments/1i84hgz/hacking_subaru_tracking_and_controlling_cars_via](https://www.reddit.com/r/programming/comments/1i84hgz/hacking_subaru_tracking_and_controlling_cars_via)
+ - RSS feed: $source
+ - date published: 2025-01-23T14:24:30+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/tapo"> /u/tapo </a> <br/> <span><a href="https://samcurry.net/hacking-subaru">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i84hgz/hacking_subaru_tracking_and_controlling_cars_via/">[comments]</a></span>
+
+## "Recruiter" tried to hack me (full story on comments) - bitbucket link below
+ - [https://www.reddit.com/r/programming/comments/1i84akt/recruiter_tried_to_hack_me_full_story_on_comments](https://www.reddit.com/r/programming/comments/1i84akt/recruiter_tried_to_hack_me_full_story_on_comments)
+ - RSS feed: $source
+ - date published: 2025-01-23T14:15:15+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/mafangulo"> /u/mafangulo </a> <br/> <span><a href="https://bitbucket.org/sarostech/miketoken_v2">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i84akt/recruiter_tried_to_hack_me_full_story_on_comments/">[comments]</a></span>
+
+## AI Is Making Us Worse Programmers (Here’s How to Fight Back)
+ - [https://www.reddit.com/r/programming/comments/1i846fr/ai_is_making_us_worse_programmers_heres_how_to](https://www.reddit.com/r/programming/comments/1i846fr/ai_is_making_us_worse_programmers_heres_how_to)
+ - RSS feed: $source
+ - date published: 2025-01-23T14:09:49+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/TerryC_IndieGameDev"> /u/TerryC_IndieGameDev </a> <br/> <span><a href="https://medium.com/@terrancecraddock/ai-is-making-us-worse-programmers-heres-how-to-fight-back-d1921b338c4d?sk=73097bd7acdbd7a38185f466d6a41a75">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i846fr/ai_is_making_us_worse_programmers_heres_how_to/">[comments]</a></span>
+
+## Junie, the coding agent by JetBrains
+ - [https://www.reddit.com/r/programming/comments/1i83vx9/junie_the_coding_agent_by_jetbrains](https://www.reddit.com/r/programming/comments/1i83vx9/junie_the_coding_agent_by_jetbrains)
+ - RSS feed: $source
+ - date published: 2025-01-23T13:56:07+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ignatovs"> /u/ignatovs </a> <br/> <span><a href="https://www.jetbrains.com/junie/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i83vx9/junie_the_coding_agent_by_jetbrains/">[comments]</a></span>
+
+## Is gRPC Really Better for Microservices Than GraphQL?
+ - [https://www.reddit.com/r/programming/comments/1i83dra/is_grpc_really_better_for_microservices_than](https://www.reddit.com/r/programming/comments/1i83dra/is_grpc_really_better_for_microservices_than)
+ - RSS feed: $source
+ - date published: 2025-01-23T13:30:45+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Savram8"> /u/Savram8 </a> <br/> <span><a href="https://wundergraph.com/blog/is-grpc-really-better-for-microservices-than-graphql">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i83dra/is_grpc_really_better_for_microservices_than/">[comments]</a></span>
+
+## Shattering the Rotation Illusion: Part 1
+ - [https://www.reddit.com/r/programming/comments/1i839ut/shattering_the_rotation_illusion_part_1](https://www.reddit.com/r/programming/comments/1i839ut/shattering_the_rotation_illusion_part_1)
+ - RSS feed: $source
+ - date published: 2025-01-23T13:25:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/sadyetfly11"> /u/sadyetfly11 </a> <br/> <span><a href="https://www.clutch.security/blog/shattering-the-rotation-illusion-part-1-code-hosting-and-version-control-platforms">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i839ut/shattering_the_rotation_illusion_part_1/">[comments]</a></span>
+
+## How I think about Zig and Rust
+ - [https://www.reddit.com/r/programming/comments/1i82ten/how_i_think_about_zig_and_rust](https://www.reddit.com/r/programming/comments/1i82ten/how_i_think_about_zig_and_rust)
+ - RSS feed: $source
+ - date published: 2025-01-23T13:01:06+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/jorgesgk"> /u/jorgesgk </a> <br/> <span><a href="https://lewiscampbell.tech/blog/250117.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i82ten/how_i_think_about_zig_and_rust/">[comments]</a></span>
+
+## How to bypass local account password
+ - [https://www.reddit.com/r/programming/comments/1i82ra1/how_to_bypass_local_account_password](https://www.reddit.com/r/programming/comments/1i82ra1/how_to_bypass_local_account_password)
+ - RSS feed: $source
+ - date published: 2025-01-23T12:57:59+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Fun_Advertising6216"> /u/Fun_Advertising6216 </a> <br/> <span><a href="https://youtube.com/watch?v=UAKZV7ADFTk&amp;si=yyNsBWfJoFwqFutr">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i82ra1/how_to_bypass_local_account_password/">[comments]</a></span>
+
+## Master JavaScript Scope: Temporal Dead Zone
+ - [https://www.reddit.com/r/programming/comments/1i82bes/master_javascript_scope_temporal_dead_zone](https://www.reddit.com/r/programming/comments/1i82bes/master_javascript_scope_temporal_dead_zone)
+ - RSS feed: $source
+ - date published: 2025-01-23T12:32:59+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Main-Humor-6933"> /u/Main-Humor-6933 </a> <br/> <span><a href="https://youtube.com/shorts/c3qIhCZCGcs?feature=share">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i82bes/master_javascript_scope_temporal_dead_zone/">[comments]</a></span>
+
+## How to decode audio streams in C/C++ using libav*
+ - [https://www.reddit.com/r/programming/comments/1i82a5v/how_to_decode_audio_streams_in_cc_using_libav](https://www.reddit.com/r/programming/comments/1i82a5v/how_to_decode_audio_streams_in_cc_using_libav)
+ - RSS feed: $source
+ - date published: 2025-01-23T12:30:55+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/etiandre"> /u/etiandre </a> <br/> <span><a href="https://etiand.re/posts/2025/01/how-to-decode-audio-streams-in-c-cpp-using-libav/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i82a5v/how_to_decode_audio_streams_in_cc_using_libav/">[comments]</a></span>
+
+## Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search
+ - [https://www.reddit.com/r/programming/comments/1i81biw/lossless_compression_of_vector_ids_for](https://www.reddit.com/r/programming/comments/1i81biw/lossless_compression_of_vector_ids_for)
+ - RSS feed: $source
+ - date published: 2025-01-23T11:30:43+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/brightlystar"> /u/brightlystar </a> <br/> <span><a href="https://arxiv.org/abs/2501.10479">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i81biw/lossless_compression_of_vector_ids_for/">[comments]</a></span>
+
+## Complete Guide on Using Playwright with Nodejs
+ - [https://www.reddit.com/r/programming/comments/1i80auq/complete_guide_on_using_playwright_with_nodejs](https://www.reddit.com/r/programming/comments/1i80auq/complete_guide_on_using_playwright_with_nodejs)
+ - RSS feed: $source
+ - date published: 2025-01-23T10:18:44+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/yakult2450"> /u/yakult2450 </a> <br/> <span><a href="https://www.scrapingdog.com/blog/playwright-with-nodejs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i80auq/complete_guide_on_using_playwright_with_nodejs/">[comments]</a></span>
+
+## Best Practices for Implemention Database Authorization
+ - [https://www.reddit.com/r/programming/comments/1i809nr/best_practices_for_implemention_database](https://www.reddit.com/r/programming/comments/1i809nr/best_practices_for_implemention_database)
+ - RSS feed: $source
+ - date published: 2025-01-23T10:16:18+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Permit_io"> /u/Permit_io </a> <br/> <span><a href="https://www.permit.io/blog/why-data-filtering-matters-for-database-authorization">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i809nr/best_practices_for_implemention_database/">[comments]</a></span>
+
+## Java Records vs. JPA Entities and Lombok, When to use Which one?
+ - [https://www.reddit.com/r/programming/comments/1i7zhhf/java_records_vs_jpa_entities_and_lombok_when_to](https://www.reddit.com/r/programming/comments/1i7zhhf/java_records_vs_jpa_entities_and_lombok_when_to)
+ - RSS feed: $source
+ - date published: 2025-01-23T09:15:29+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/erdsingh24"> /u/erdsingh24 </a> <br/> <span><a href="https://javatechonline.com/java-records-vs-jpa-entities-and-lombok/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i7zhhf/java_records_vs_jpa_entities_and_lombok_when_to/">[comments]</a></span>
+
+## Hey there these is a python boot camp click the links to get a LetsUpgrade's courses certificate
+ - [https://www.reddit.com/r/programming/comments/1i7zei4/hey_there_these_is_a_python_boot_camp_click_the](https://www.reddit.com/r/programming/comments/1i7zei4/hey_there_these_is_a_python_boot_camp_click_the)
+ - RSS feed: $source
+ - date published: 2025-01-23T09:08:35+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/FewShoulder6199"> /u/FewShoulder6199 </a> <br/> <span><a href="https://letsupgrade.in/programs/python-essentials?invite=KHAN">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i7zei4/hey_there_these_is_a_python_boot_camp_click_the/">[comments]</a></span>
+
+## I scraped programming job offers and stumbled upon this Patreon with high-paying jobs daily!
+ - [https://www.reddit.com/r/programming/comments/1i7z6dz/i_scraped_programming_job_offers_and_stumbled](https://www.reddit.com/r/programming/comments/1i7z6dz/i_scraped_programming_job_offers_and_stumbled)
+ - RSS feed: $source
+ - date published: 2025-01-23T08:50:46+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/English-Scholar1516"> /u/English-Scholar1516 </a> <br/> <span><a href="https://www.patreon.com/DevJobsHub">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i7z6dz/i_scraped_programming_job_offers_and_stumbled/">[comments]</a></span>
+
+## The Ultimate React File Uploader With GDrive & OneDrive integration PLUS S3 support
+ - [https://www.reddit.com/r/programming/comments/1i7xzfi/the_ultimate_react_file_uploader_with_gdrive](https://www.reddit.com/r/programming/comments/1i7xzfi/the_ultimate_react_file_uploader_with_gdrive)
+ - RSS feed: $source
+ - date published: 2025-01-23T07:18:50+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Apart_Author_9836"> /u/Apart_Author_9836 </a> <br/> <span><a href="https://github.com/devinoSolutions/upup">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i7xzfi/the_ultimate_react_file_uploader_with_gdrive/">[comments]</a></span>
+
+## "Ready to Level Up? Microsoft Learn Can Be Your Secret Weapon! 🚀"
+ - [https://www.reddit.com/r/programming/comments/1i7xxtk/ready_to_level_up_microsoft_learn_can_be_your](https://www.reddit.com/r/programming/comments/1i7xxtk/ready_to_level_up_microsoft_learn_can_be_your)
+ - RSS feed: $source
+ - date published: 2025-01-23T07:15:25+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/realstellarstacker"> /u/realstellarstacker </a> <br/> <span><a href="https://learn.microsoft.com/?WT.mc_id=studentamb_440132">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i7xxtk/ready_to_level_up_microsoft_learn_can_be_your/">[comments]</a></span>
+
+## ByteDance released a free AI editor to compete with Cursor
+ - [https://www.reddit.com/r/programming/comments/1i7xmks/bytedance_released_a_free_ai_editor_to_compete](https://www.reddit.com/r/programming/comments/1i7xmks/bytedance_released_a_free_ai_editor_to_compete)
+ - RSS feed: $source
+ - date published: 2025-01-23T06:52:36+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Mesthabro"> /u/Mesthabro </a> <br/> <span><a href="https://www.trae.ai/home">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i7xmks/bytedance_released_a_free_ai_editor_to_compete/">[comments]</a></span>
+
+## Tell me fair value of Costco Stock today (Fill in the blanks with your company name)
+ - [https://www.reddit.com/r/programming/comments/1i7was6/tell_me_fair_value_of_costco_stock_today_fill_in](https://www.reddit.com/r/programming/comments/1i7was6/tell_me_fair_value_of_costco_stock_today_fill_in)
+ - RSS feed: $source
+ - date published: 2025-01-23T05:23:43+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Medical-Mistake3128"> /u/Medical-Mistake3128 </a> <br/> <span><a href="https://www.youtube.com/watch?v=IEEIAXbzSjk">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i7was6/tell_me_fair_value_of_costco_stock_today_fill_in/">[comments]</a></span>
+
+## OpenAI New $500 Billion dollar project
+ - [https://www.reddit.com/r/programming/comments/1i7vtoy/openai_new_500_billion_dollar_project](https://www.reddit.com/r/programming/comments/1i7vtoy/openai_new_500_billion_dollar_project)
+ - RSS feed: $source
+ - date published: 2025-01-23T04:55:18+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/sandunk"> /u/sandunk </a> <br/> <span><a href="https://www.linkedin.com/posts/sandunk_announcing-the-stargate-project-activity-7288029099552317440-wEBe?utm_source=share&amp;utm_medium=member_android">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i7vtoy/openai_new_500_billion_dollar_project/">[comments]</a></span>
+
+## FMD Chips walkthrough2 : IDE, Code Writing, and Hardware Programming
+ - [https://www.reddit.com/r/programming/comments/1i7vfdn/fmd_chips_walkthrough2_ide_code_writing_and](https://www.reddit.com/r/programming/comments/1i7vfdn/fmd_chips_walkthrough2_ide_code_writing_and)
+ - RSS feed: $source
+ - date published: 2025-01-23T04:31:36+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/manish_esps"> /u/manish_esps </a> <br/> <span><a href="https://youtube.com/watch?v=fgqm1svLDGY&amp;si=hjjxfkjSEaUcdKlF">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i7vfdn/fmd_chips_walkthrough2_ide_code_writing_and/">[comments]</a></span>
+
+## Kubernetes
+ - [https://www.reddit.com/r/programming/comments/1i7v2bp/kubernetes](https://www.reddit.com/r/programming/comments/1i7v2bp/kubernetes)
+ - RSS feed: $source
+ - date published: 2025-01-23T04:11:14+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Frosty-Champion7811"> /u/Frosty-Champion7811 </a> <br/> <span><a href="https://uploads-ssl.webflow.com/61c476968083e255090688c1/660be02aea9108b482ae8474_Kubernetes%20Security_Roadmap.pdf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i7v2bp/kubernetes/">[comments]</a></span>
+
+## 8 Lesser-Known Java Streams API Features
+ - [https://www.reddit.com/r/programming/comments/1i7tnm4/8_lesserknown_java_streams_api_features](https://www.reddit.com/r/programming/comments/1i7tnm4/8_lesserknown_java_streams_api_features)
+ - RSS feed: $source
+ - date published: 2025-01-23T02:56:42+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Educational-Ad2036"> /u/Educational-Ad2036 </a> <br/> <span><a href="https://javabulletin.substack.com/p/8-lesser-known-java-streams-api-features">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1i7tnm4/8_lesserknown_java_streams_api_features/">[comments]</a></span>
+

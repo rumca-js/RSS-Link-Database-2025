@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-23T10:11:50+00:00",
+        "description": "Elon Musk wy\u015bmia\u0142 og\u0142oszony przez nowego prezydenta USA projekt Stargate, kt\u00f3ry ma by\u0107 \u201enajwi\u0119ksz\u0105 w historii inwestycj\u0105\". Jak twierdzi miliarder, firmy, kt\u00f3re maj\u0105 j\u0105 przeprowadzi\u0107, \u201enie maj\u0105 pieni\u0119dzy\u201d.",
+        "id": 1962703,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art41718001-pierwszy-zgrzyt-na-linii-elon-musk-donald-trump-krytyka-gigantycznej-inwestycji",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pierwszy zgrzyt na linii Elon Musk \u2013 Donald Trump. Krytyka gigantycznej inwestycji",
+        "vote": 0
+    }
+]

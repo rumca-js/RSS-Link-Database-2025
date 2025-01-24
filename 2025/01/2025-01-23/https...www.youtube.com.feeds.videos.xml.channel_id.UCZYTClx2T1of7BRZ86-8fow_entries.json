@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-23T18:00:55+00:00",
+        "description": "Visit https://brilliant.org/scishow/ to get started learning STEM for free. The first 200 people will get 20% off their annual premium subscription and a 30-day free trial.\n\nIt may seem like Earth isn't as well-decorated as its ring-bearing neighbors in the solar system, but new research suggests that may not always have been the case. Not only did our planet maybe once have a ring, but our ancient bling may be the key to explaining the Great Ordovician Biodiversification Event, and understanding a huge leap forward in the complexity of life on our planet. \n\nHosted by: Reid Reimers (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Toyas Dhake, Spilmann Reed",
+        "id": 1966064,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=y9sSNQNpILo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/y9sSNQNpILo/hqdefault.jpg",
+        "title": "Earth Had A Ring & It Changed Life Forever",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-23T15:00:18+00:00",
+        "description": "Check out Arcjet - security as code: https://launch.arcjet.com/lZMqMoD\n\nI need to get better at staying up to date on programming languages I frequently use, with JavaScript being one of those languages. So in this video, I discuss the changes made to JavaScript, ECMAScript proposals, and some JS frameworks.\n\n0:00 oh look i'm a javascript dev now\n0:43 .groupBy()\n2:35 Promise.withResolvers()\n4:05 JS Frameworks\n6:17 Regex /v flag\n9:03 Pipeline Operator\n10:17 Record and Tuple\n12:00 Array.fromAsync()\n12:51 Type Annotations\n13:07 Pattern Matching\n\nArcjet is the sponsor of a portion of today's video.\n\nIf you're a developer, sign up to my free newsletter Dev Notes \ud83d\udc49 https://www.devnotesdaily.com/\n\nIf you're a student, checkout my Notion template Studious: https://notionstudent.com\n\nDon't know why you'd want to follow me on other socials. I don't even post. But here you go.\n\ud83d\udc31\u200d\ud83d\ude80 GitHub: https://github.com/forrestknight\n\ud83d\udc26 Twitter: https://www.twitter.com/forrestpknight\n\ud83d\udcbc LinkedIn: https://www.",
+        "id": 1964843,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=9kW5epVSRG0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9kW5epVSRG0/hqdefault.jpg",
+        "title": "7 JavaScript Changes You Missed in 2024",
+        "vote": 0
+    }
+]

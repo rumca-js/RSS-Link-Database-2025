@@ -1,0 +1,58 @@
+# Source:10/10 would bookmark again, URL:https://www.reddit.com/r/InternetIsBeautiful/.rss, language:en
+
+## Rutland Ramblings, a community-run blog highlighting events in Rutland, ND (population 160)
+ - [https://www.reddit.com/r/InternetIsBeautiful/comments/1i89t0r/rutland_ramblings_a_communityrun_blog](https://www.reddit.com/r/InternetIsBeautiful/comments/1i89t0r/rutland_ramblings_a_communityrun_blog)
+ - RSS feed: $source
+ - date published: 2025-01-23T18:11:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/InternetIsBeautiful/comments/1i89t0r/rutland_ramblings_a_communityrun_blog/"> <img src="https://external-preview.redd.it/q1Y0TFXAWt4xOAgeeTFaBiNxuUNVJvj8Q2ICovX4UMI.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=6452b7f39a381ba2e105ec1585323d348c5b597a" alt="Rutland Ramblings, a community-run blog highlighting events in Rutland, ND (population 160)" title="Rutland Ramblings, a community-run blog highlighting events in Rutland, ND (population 160)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hotelrwandasykes"> /u/hotelrwandasykes </a> <br/> <span><a href="https://rutlandramblings.blog">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/InternetIsBeautiful/comments/1i89t0r/rutland_ramblings_a_communityrun_blog/">[comments]</a></span> </td></tr></table>
+
+## Built a place to find landing page inspiration
+ - [https://www.reddit.com/r/InternetIsBeautiful/comments/1i879sb/built_a_place_to_find_landing_page_inspiration](https://www.reddit.com/r/InternetIsBeautiful/comments/1i879sb/built_a_place_to_find_landing_page_inspiration)
+ - RSS feed: $source
+ - date published: 2025-01-23T16:27:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/InternetIsBeautiful/comments/1i879sb/built_a_place_to_find_landing_page_inspiration/"> <img src="https://external-preview.redd.it/z-4s73ztGs-UppHAnFELtEUzf3gKrhy_IJhdBYcVBcI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=74fc71a0840c195281f0a042b92331ebcf4aa488" alt="Built a place to find landing page inspiration" title="Built a place to find landing page inspiration" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/olayanjuidris"> /u/olayanjuidris </a> <br/> <span><a href="http://landingvault.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/InternetIsBeautiful/comments/1i879sb/built_a_place_to_find_landing_page_inspiration/">[comments]</a></span> </td></tr></table>
+
+## Internet time capsule
+ - [https://www.reddit.com/r/InternetIsBeautiful/comments/1i84769/internet_time_capsule](https://www.reddit.com/r/InternetIsBeautiful/comments/1i84769/internet_time_capsule)
+ - RSS feed: $source
+ - date published: 2025-01-23T14:10:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>If this has already been posted ignore this but found out about a site where you can find old websites at random similar to groceries, some of which I found are still being updated. Found a site dedicated to pork crackling and the at least 3 different types.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Highmax1121"> /u/Highmax1121 </a> <br/> <span><a href="http://wiby.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/InternetIsBeautiful/comments/1i84769/internet_time_capsule/">[comments]</a></span>
+
+## Hi, I created PicToMeme a tool that creates automatically hilarious memes for you.
+ - [https://www.reddit.com/r/InternetIsBeautiful/comments/1i83t1k/hi_i_created_pictomeme_a_tool_that_creates](https://www.reddit.com/r/InternetIsBeautiful/comments/1i83t1k/hi_i_created_pictomeme_a_tool_that_creates)
+ - RSS feed: $source
+ - date published: 2025-01-23T13:52:13+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/aristomenisgeo"> /u/aristomenisgeo </a> <br/> <span><a href="https://pictomeme.com/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/InternetIsBeautiful/comments/1i83t1k/hi_i_created_pictomeme_a_tool_that_creates/">[comments]</a></span>
+
+## Where did people travel in 2024
+ - [https://www.reddit.com/r/InternetIsBeautiful/comments/1i831k4/where_did_people_travel_in_2024](https://www.reddit.com/r/InternetIsBeautiful/comments/1i831k4/where_did_people_travel_in_2024)
+ - RSS feed: $source
+ - date published: 2025-01-23T13:13:21+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ddudunga"> /u/ddudunga </a> <br/> <span><a href="https://www.days2visit.com/where-have-you-traveled-2024">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/InternetIsBeautiful/comments/1i831k4/where_did_people_travel_in_2024/">[comments]</a></span>
+
+## Stills from fictional Amiga videogames, art created by Suzanne Treister in 1991-92
+ - [https://www.reddit.com/r/InternetIsBeautiful/comments/1i80lmg/stills_from_fictional_amiga_videogames_art](https://www.reddit.com/r/InternetIsBeautiful/comments/1i80lmg/stills_from_fictional_amiga_videogames_art)
+ - RSS feed: $source
+ - date published: 2025-01-23T10:40:32+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/nonexcludable"> /u/nonexcludable </a> <br/> <span><a href="https://www.suzannetreister.net/Ampages/Amenu.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/InternetIsBeautiful/comments/1i80lmg/stills_from_fictional_amiga_videogames_art/">[comments]</a></span>
+
+## Turn Any Picture into a Viral Meme
+ - [https://www.reddit.com/r/InternetIsBeautiful/comments/1i7y4jk/turn_any_picture_into_a_viral_meme](https://www.reddit.com/r/InternetIsBeautiful/comments/1i7y4jk/turn_any_picture_into_a_viral_meme)
+ - RSS feed: $source
+ - date published: 2025-01-23T07:29:45+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/aristomenisgeo"> /u/aristomenisgeo </a> <br/> <span><a href="https://pictomeme.com/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/InternetIsBeautiful/comments/1i7y4jk/turn_any_picture_into_a_viral_meme/">[comments]</a></span>
+
+## Where can I find stats about % of global population online at any given moment and average hours online per person per year? On that note, at what % overall time engagement online could humans be considered ‘Homo Interneticus’ instead of Homo Sapiens ?
+ - [https://www.reddit.com/r/InternetIsBeautiful/comments/1i7xxlc/where_can_i_find_stats_about_of_global_population](https://www.reddit.com/r/InternetIsBeautiful/comments/1i7xxlc/where_can_i_find_stats_about_of_global_population)
+ - RSS feed: $source
+ - date published: 2025-01-23T07:14:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>By rough estimates of an average person has 3000 hours free time per year excluding work/school and rest times and for a global population of 8,5 billion people, you would assume there are over 25,000 billion hours available/free for creative/intelligent/sentient activities </p> <p>I would like to have an estimate what part of that is wasted doom scrolling, trash commenting, speech hating, social vegging etc. You get the idea. </p> <p>If my assumptions or math is wrong, I would like to know your insights. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aKt1268"> /u/aKt1268 </a> <br/> <span><a href="http://Tradingeconomics.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/InternetIsBeautiful/comments/1i7xxlc/where_can_i_find_stats_about_of_global_population/">[comments]</a></span>
+

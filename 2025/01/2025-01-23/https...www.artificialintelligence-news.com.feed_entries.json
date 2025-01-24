@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-23T14:24:49+00:00",
+        "description": "<p>OpenAI has argued in an Indian court that removing the training data behind ChatGPT service would clash with its legal obligations in the United States. The statement was issued in response to a lawsuit filed by Indian news agency ANI, which accused the AI business of using its content without permission. The Microsoft-backed AI giant<a class=\"excerpt-read-more\" href=\"https://www.artificialintelligence-news.com/news/openai-argues-against-chatgpt-data-deletion-in-indian-court/\" title=\"ReadOpenAI argues against ChatGPT data deletion in Indian court\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/openai-argues-against-chatgpt-data-deletion-in-indian-court/\">OpenAI argues against ChatGPT data deletion in Indian court</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 1964888,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/openai-argues-against-chatgpt-data-deletion-in-indian-court/?utm_source=rss&utm_medium=rss&utm_campaign=openai-argues-against-chatgpt-data-deletion-in-indian-court",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "OpenAI argues against ChatGPT data deletion in Indian court",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-23T00:15:33+00:00",
+        "description": "As Donald Trump is inaugurated, former Health Minister Agn\u00e8s Buzyn and political scientist M\u00e9lanie Heard call for political action to defend the fundamental role of science in public life, in an op-ed for 'Le Monde.'",
+        "id": 1960295,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/opinion/article/2025/01/23/in-the-us-it-s-not-just-science-that-s-under-threat-but-also-the-role-it-plays-in-democracy_6737321_23.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2020/03/07/262/0/5472/2736/644/322/60/0/f2ad6a5_8bd0e3f5d2f84a539597078812c8281b-8bd0e3f5d2f84a539597078812c8281b-0.jpg",
+        "title": "'In the US, it's not just science that's under threat, but also the role it plays in democracy'",
+        "vote": 0
+    }
+]

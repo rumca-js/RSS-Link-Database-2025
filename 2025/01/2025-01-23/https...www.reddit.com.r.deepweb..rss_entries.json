@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-23T18:25:20+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>How do you have to design the search prompt so that you can find something useful? </p> <p>I usually only get a few results. (Newbie)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PastAd7830\"> /u/PastAd7830 </a> <br/> <span><a href=\"https://www.reddit.com/r/deepweb/comments/1i8a4vd/which_search_engine_do_you_prefer_to_use/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/deepweb/comments/1i8a4vd/which_search_engine_do_you_prefer_to_use/\">[comments]</a></span>",
+        "id": 1966607,
+        "language": null,
+        "link": "https://www.reddit.com/r/deepweb/comments/1i8a4vd/which_search_engine_do_you_prefer_to_use",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 543,
+        "source_url": "https://www.reddit.com/r/deepweb/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Which search engine do you prefer to use?",
+        "vote": 0
+    }
+]

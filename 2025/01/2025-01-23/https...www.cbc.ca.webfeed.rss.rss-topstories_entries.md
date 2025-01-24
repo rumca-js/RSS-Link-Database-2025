@@ -1,0 +1,107 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Bishop won't apologize for asking Donald Trump to have mercy on immigrants, trans Americans
+ - [https://www.cbc.ca/news/world/bishop-trump-no-apology-1.7439898?cmp=rss](https://www.cbc.ca/news/world/bishop-trump-no-apology-1.7439898?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-23T17:52:23+00:00
+
+<img src='https://i.cbc.ca/1.7439945.1737669375!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='A woman stands behind a podium in a cathedral.' width='620' height='349' title='Rev. Mariann Budde leads the national prayer service attended by President Donald Trump at the Washington National Cathedral, Tuesday, Jan. 21, 2025, in Washington. (AP Photo/Evan Vucci)'/><p>A bishop who pleaded with U.S. president Donald Trump to have mercy on marginalized Americans has said she will not apologize after Trump lashed out at her on social media.</p>
+
+## SZA will join Kendrick Lamar as a guest during Super Bowl halftime
+ - [https://www.cbc.ca/news/entertainment/sza-kendrick-superbowl-1.7439905?cmp=rss](https://www.cbc.ca/news/entertainment/sza-kendrick-superbowl-1.7439905?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-23T17:17:16+00:00
+
+<img src='https://i.cbc.ca/1.7439915.1737668259!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ye-music-songs.jpg' alt='A composite photo shows two performers. A man is in the left image. A woman in the right image is in the middle of singing a song into a microphone. ' width='620' height='349' title='This combination photo shows Kendrick Lamar, left, and SZA, whose song &quot;All the Stars,&quot;  was named as one of the top songs of the year by Associated Press Music Editor Mesfin Fekadu.'/><p>Multi-Grammy winner singer SZA will be joining Kendrick Lamar as a guest during the upcoming Super Bowl halftime performance.</p>
+
+## Hundreds of families leave West Bank as major Israeli raid continues
+ - [https://www.cbc.ca/news/world/jenin-residents-west-bank-israeli-raid-1.7439896?cmp=rss](https://www.cbc.ca/news/world/jenin-residents-west-bank-israeli-raid-1.7439896?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-23T17:04:14+00:00
+
+<img src='https://i.cbc.ca/1.7439907.1737668133!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/israel-palestinians-west-bank-jenin.JPG' alt='A man in a red sweatshirt walks with a suitcase on a damaged street. He also has a backpack slung over his shoulder.' width='620' height='349' title='A man walks with a suitcase on a damaged street as he leaves Jenin camp during an Israeli raid on Jan. 23, 2025. '/><p>Hundreds of Jenin residents left their homes in the West Bank city on Thursday, prompted by messages from drones fitted with loudspeakers, witnesses said, as the Israeli military demolished a number of houses on the third day of a major operation.</p>
+
+## 'We ... do not condone Nazism' say Reddit groups banning X links over Elon Musk hand gesture
+ - [https://www.cbc.ca/news/world/musk-gesture-reddit-ban-1.7439336?cmp=rss](https://www.cbc.ca/news/world/musk-gesture-reddit-ban-1.7439336?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-23T15:45:29+00:00
+
+<img src='https://i.cbc.ca/1.7436519.1737658274!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/tesla-and-spacex-ceo-elon-musk-s-questionable-salute.jpg' alt='A man makes a salute.' width='620' height='349' title='Tesla and SpaceX CEO Elon Musk gestures as he speaks during the inaugural parade inside Capitol One Arena, in Washington, DC, on January 20, 2025. '/><p>Whatever billionaire Elon Musk's intentions were when he thrust his arm out at an upward angle during U.S. President Donald Trump's inauguration Monday, a lot of people aren't having it. And they're leaving his social media platform, X, or banning links to the platform on Reddit, in droves.</p>
+
+## Man sentenced to 52 years for killing 3 children at Taylor Swift-themed dance party
+ - [https://www.cbc.ca/news/world/uk-southport-mass-stabbing-sentence-1.7439204?cmp=rss](https://www.cbc.ca/news/world/uk-southport-mass-stabbing-sentence-1.7439204?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-23T12:02:17+00:00
+
+<img src='https://i.cbc.ca/1.7439263.1737641507!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/southport-stabbing-victims-composite.jpg' alt='The images of three young girls are shown amid flowers and candles in separate photos that have been combined into one image.' width='620' height='349' title='From left to right, pictures of Alice Dasilva Aguair, Elsie Dot Stancombe and Bebe King from public vigils are shown in a composite photo. The three children were killed in the July 2024 stabbing attack in Southport, England.'/><p>A British judge sentenced a teenager who murdered three young girls to minimum of 52 years in prison on Thursday, after the killer was removed from the dock for interrupting his sentencing.</p>
+
+## Shai Gilgeous-Alexander sets NBA single-game record for points by Canadian with 54
+ - [https://www.cbc.ca/sports/basketball/nba/shai-gilgeous-alexander-single-game-nba-record-points-canadian-1.7439328?cmp=rss](https://www.cbc.ca/sports/basketball/nba/shai-gilgeous-alexander-single-game-nba-record-points-canadian-1.7439328?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-23T10:32:36+00:00
+
+<img src='https://i.cbc.ca/1.7439348.1737645434!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/gilgeous-alexander-250122-1180.jpg' alt='Oklahoma City Thunder guard Shai Gilgeous-Alexander, from Hamilton, shoots over Utah Jazz forward Lauri Markkanen during the first half of an NBA regular-season game on January 22, 2025 in Oklahoma City.' width='620' height='349' title='Thunder guard Shai Gilgeous-Alexander Shai Gilgeous-Alexander scored 23 of his 54 points in the first half to help his team take a 57-55 lead at the half. He scored his 50th point on a pullup jumper over Lauri Markkanen with 1:28 to go in the game.'/><p>Shai Gilgeous-Alexander scored a career-high 54 points, an NBA single-game record by a Canadian, and the hometown Oklahoma City Thunder defeated the Utah Jazz 123-114 on Wednesday night.</p>
+
+## Emilia Pérez, Wicked dominate Oscar nominations
+ - [https://www.cbc.ca/news/entertainment/oscar-nominations-2025-1.7439247?cmp=rss](https://www.cbc.ca/news/entertainment/oscar-nominations-2025-1.7439247?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-23T09:00:21+00:00
+
+<img src='https://i.cbc.ca/1.7390285.1732236371!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/film-review-wicked.jpg' alt='A woman with green skin and a woman wearing pink stand next to one another.' width='620' height='349' title='This image released by Universal Pictures shows Cynthia Erivo, left, and Ariana Grande in a scene from the film Wicked.'/><p>In the wake of devastating wildfires in Los Angeles that struck at the heart of the movie industry, the nominations to the 97th Academy Awards are being announced.</p>
+
+## Expelled student sues B.C. Montessori school principal over cannabis gummy debacle
+ - [https://www.cbc.ca/news/canada/british-columbia/expelled-child-montessori-school-principal-lawsuit-1.7438120?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/expelled-child-montessori-school-principal-lawsuit-1.7438120?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-23T08:00:00+00:00
+
+<img src='https://i.cbc.ca/1.6562005.1697536776!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/thc-gummies.jpg' alt='A close-up of candies that apparently contain cannabis ' width='620' height='349' title='Eugene Konarev from Highlife says only a fraction of their business is gummies and he believes the THC limits set by the government are sending many buyers to the black market or First Nations dispensaries. '/><p>A lawsuit claims the head of a private school in the Greater Victoria area called a 12-year-old boy a "drug trafficker" and violated his privacy after the child and other students were caught eating cannabis edibles.</p>
+
+## Ousted South Korea defence minister testifies he wanted more expansive martial law than president
+ - [https://www.cbc.ca/news/world/south-korea-coup-testimony-1.7439212?cmp=rss](https://www.cbc.ca/news/world/south-korea-coup-testimony-1.7439212?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-23T07:48:47+00:00
+
+<img src='https://i.cbc.ca/1.7439220.1737633901!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/southkorea-politics.JPG' alt='An older cleanshaven Asian man wearing a suit and tie is shown seated inside a room.' width='620' height='349' title='South Korea’s impeached President Yoon Suk Yeol attends the fourth hearing of his impeachment trial over his short-lived imposition of martial law, on Thursday in Seoul at the Constitutional Court.'/><p>South Korean investigators asked prosecutors to indict detained President Yoon Suk Yeol over his short-lived imposition of martial law last month, which the country's ousted defence minister testified that he wanted a broader military deployment than Yoon.</p>
+
+## Trans Mountain expansion has delivered so far on some profitable promises, report suggests
+ - [https://www.cbc.ca/news/canada/calgary/trans-mountain-pipeline-expansion-tmx-revenues-st-arnaud-1.7434823?cmp=rss](https://www.cbc.ca/news/canada/calgary/trans-mountain-pipeline-expansion-tmx-revenues-st-arnaud-1.7434823?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-23T07:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7437296.1737583100!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/emissions-cap-trans-mountain-20240327.jpg' alt='a construction site in a remote natural area shows a worker standing near a large pipeline with a mountain range in the background.' width='620' height='349' title='The Calgary Chamber of Commerce is warning the federal government that its proposed cap on emissions from the oil and gas sector could compromise the valuation of the Trans Mountain pipeline. Workers position pipe during construction of the Trans Mountain pipeline expansion in Abbotsford, B.C., on Wednesday, May 3, 2023. THE CANADIAN PRESS/Darryl Dyck'/><p>A recently released report compiled by a local economist suggests the oil sector is already seeing some of the promised benefits from the contentious Trans Mountain Pipeline expansion just six months after its completion.</p>
+
+## Provinces warn Ottawa slashing immigration program in half will hurt economy
+ - [https://www.cbc.ca/news/politics/provincial-immigration-spaces-1.7438542?cmp=rss](https://www.cbc.ca/news/politics/provincial-immigration-spaces-1.7438542?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-23T04:00:11+00:00
+
+<img src='https://i.cbc.ca/1.7393130.1732577676!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/miller-committee-20241125.jpg' alt='Minister of Immigration, Refugees and Citizenship Marc Miller' width='620' height='349' title='Minister of Immigration, Refugees and Citizenship Marc Miller prepares to appear before the Standing Committee on Citizenship and Immigration, in West Block on Parliament Hill in Ottawa, on Monday, Nov. 25, 2024. THE CANADIAN PRESS/Justin Tang'/><p>The federal government has told most provinces and territories they must cut their allotted spaces for local economic immigration programs by half this year, triggering concerns about drastic impacts on labour and the economy.</p>
+
+## As Trump moves to withdraw from global commitments, China is waiting in the wings
+ - [https://www.cbc.ca/news/world/trump-us-china-relations-climate-health-1.7438632?cmp=rss](https://www.cbc.ca/news/world/trump-us-china-relations-climate-health-1.7438632?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-23T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7438835.1737583887!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-china-ties.JPG' alt='A man with yellow hair and a man with black hair, both wearing dark suits, look at each other.' width='620' height='349' title='FILE PHOTO: U.S. President Donald Trump meets with China&apos;s President Xi Jinping at the start of their bilateral meeting at the G20 leaders summit in Osaka, Japan, June 29, 2019. REUTERS/Kevin Lamarque//File Photo'/><p>As U.S. President Donald Trump plans to pull out of international bodies and agreements, such as the World Health Organization and the Paris climate accord, China is capitalizing on the opportunity to fill a void left by the U.S. on the world stage, analysts say.</p>
+
+## Canada bracing for possible influx of asylum claimants after Trump immigration orders
+ - [https://www.cbc.ca/news/politics/trump-canada-u-s-border-1.7438813?cmp=rss](https://www.cbc.ca/news/politics/trump-canada-u-s-border-1.7438813?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-23T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7376533.1730990891!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/roxham-road.jpg' alt='signs' width='620' height='349' title='Roxham Road on 11/7/2024'/><p>Canadian refugee advocates, federal government departments and immigration lawyers are bracing for a potential influx of asylum claimants following U.S. President Donald Trump's executive orders this week. But as they prepare, they all say they have no idea what exactly to expect.</p>
+
+## 'Prehab' before surgery speeds up patient recovery, review suggests
+ - [https://www.cbc.ca/news/health/prehab-review-surgical-results-1.7438652?cmp=rss](https://www.cbc.ca/news/health/prehab-review-surgical-results-1.7438652?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-23T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7438514.1737571754!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/christopher-wanczycki.jpeg' alt='A man with grey hair wearing a green plaid shirt next to a bookcase with small plants on it.' width='620' height='349' title='Christopher Wanczycki participated in a national prehab clinical trial led by researchers at The Ottawa Hospital before his colorectal cancer surgery. '/><p>Exercise, nutritional changes and psychological support could have huge benefits for people before they have planned surgeries, reducing complications and hospital stays, according to a large, new systematic review.</p>
+
+## Supreme Court of Canada will hear legal challenge on Quebec secularism law
+ - [https://www.cbc.ca/news/canada/montreal/supreme-court-bill-21-quebec-1.7438715?cmp=rss](https://www.cbc.ca/news/canada/montreal/supreme-court-bill-21-quebec-1.7438715?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-23T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7102000.1706816651!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/the-supreme-court-of-canada-exterior-winter.JPG' alt='Exterior of the Supreme Court of Canada building in the winter.' width='620' height='349' title='The Supreme Court of Canada is pictured in Ottawa on Friday, March 3, 2023. '/><p>The Supreme Court of Canada has agreed to hear a court challenge against Quebec's controversial secularism law, known as Bill 21. </p>
+
