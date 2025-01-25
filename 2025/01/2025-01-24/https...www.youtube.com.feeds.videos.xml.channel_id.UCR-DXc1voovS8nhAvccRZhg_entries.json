@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-24T15:00:18+00:00",
+        "description": "SDR lets you peek into the invisible world of RF, or radiofrequency!\n\nThe Raspberry Pi is a great tool for SDR, and in this video I finally tested it with the CaribouLite I bought a couple years ago.\n\nSee my blog post for full setup instructions: https://www.jeffgeerling.com/blog/2025/cariboulite-sdr-hat-sdr-on-raspberry-pi\n\nMore resources (as an Amazon Associate, I earn for qualifying purchases):\n\n  - CaribouLite: https://www.crowdsupply.com/cariboulabs/cariboulite-rpi-hat\n  - RTL-SDR v4 kit: https://amzn.to/3WzId5R\n  - Project MINI RACK: https://mini-rack.jeffgeerling.com\n  - LabStack mini modular printable mounts: https://github.com/JaredC01/LabStack\n  - Raspberry Pi SMI: https://iosoft.blog/2020/07/16/raspberry-pi-smi/\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n",
+        "id": 1972270,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Hz2WqhWmjZE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Hz2WqhWmjZE/hqdefault.jpg",
+        "title": "Radio Hacking 101: Raspberry Pi SDR with a CaribouLite",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-24T13:40:27+00:00",
+        "description": "Sponsor: Hyte Y70 Case on Amazon https://geni.us/p2lWP (or blue Y70 on Amazon https://geni.us/586E5q)\nIn this video, we tear down the NVIDIA RTX 5090 Founders Edition graphics card and take a look at the liquid-metal coated cooler and GPU, as well as showing a brief example of how to re-apply the liquid metal (though this isn't intended as a tutorial). The RTX 5090 FE tear down focuses on the assembly processes, ease of disassembly, and maintenance. Historically, NVIDIA's cards have had varying degrees of difficulty to dismantle. The RTX 20 series had dozens of screws, the RTX 30 series had a new approach to assembly, and the 4090 refined it. The 5090 FE seems to be NVIDIA really learning how to build a cooling solution.\n\nWatch our thermal engineering & PCB discussion! https://www.youtube.com/watch?v=-p0MEy8BvYY\nWatch our NVIDIA RTX 5090 review & benchmarks! https://www.youtube.com/watch?v=VWSlOC_jiLQ\n\nThe best way to support our work is through our store: https://store.gamersnexus.n",
+        "id": 1971762,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=IyeoVe_8T3A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IyeoVe_8T3A/hqdefault.jpg",
+        "title": "NVIDIA's Partners Should Worry: RTX 5090 Founders Edition Tear-Down & Disassembly",
+        "vote": 0
+    }
+]

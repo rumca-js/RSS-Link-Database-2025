@@ -1,0 +1,100 @@
+# Source:Django, URL:https://www.reddit.com/r/django/.rss, language:
+
+## Pirate Studios (Free Credit)
+ - [https://www.reddit.com/r/django/comments/1i99tic/pirate_studios_free_credit](https://www.reddit.com/r/django/comments/1i99tic/pirate_studios_free_credit)
+ - RSS feed: $source
+ - date published: 2025-01-24T23:55:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>Add code - miroslava7762 for free studio credit </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Global_Cauliflower50"> /u/Global_Cauliflower50 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1i99tic/pirate_studios_free_credit/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1i99tic/pirate_studios_free_credit/">[comments]</a></span>
+
+## Securing API Key
+ - [https://www.reddit.com/r/django/comments/1i96ssz/securing_api_key](https://www.reddit.com/r/django/comments/1i96ssz/securing_api_key)
+ - RSS feed: $source
+ - date published: 2025-01-24T21:40:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone, who here uses <a href="https://github.com/florimondmanca/djangorestframework-api-key">DRF API Key</a> for blocking anonymous traffic? How do you ensure it&#39;s secured and not exposed in the request headers?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FoxEducational2691"> /u/FoxEducational2691 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1i96ssz/securing_api_key/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1i96ssz/securing_api_key/">[comments]</a></span>
+
+## Email SMTP service for django
+ - [https://www.reddit.com/r/django/comments/1i96sh4/email_smtp_service_for_django](https://www.reddit.com/r/django/comments/1i96sh4/email_smtp_service_for_django)
+ - RSS feed: $source
+ - date published: 2025-01-24T21:40:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>fyi, I tried several email services (Mailgun, AWS SES) for my django app to email out and recieve emails, the best one Ive seen so far is Mailtrap</p> <p>very simple to setup, has tons of great features like full email logging and error rates, 1000 emails/mo on free plan</p> <p>much more intuitive and simple to use than SES</p> <p><a href="https://preview.redd.it/fq0z3ch7h0fe1.png?width=1854&amp;format=png&amp;auto=webp&amp;s=6e0070e32194a84d90b04a6688419e59d431d1f2">https://preview.redd.it/fq0z3ch7h0fe1.png?width=1854&amp;format=png&amp;auto=webp&amp;s=6e0070e32194a84d90b04a6688419e59d431d1f2</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vectorx25"> /u/vectorx25 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1i96sh4/email_smtp_service_for_django/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1i96sh4/email_smtp_service_for_django/">[comments]</a></span>
+
+## In the process of updating django versions but...
+ - [https://www.reddit.com/r/django/comments/1i94ar2/in_the_process_of_updating_django_versions_but](https://www.reddit.com/r/django/comments/1i94ar2/in_the_process_of_updating_django_versions_but)
+ - RSS feed: $source
+ - date published: 2025-01-24T19:53:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am updating my project. But I realized that the 3d party stuff I used doesn&#39;t get caught right away. Is there a way to update the requirements.txt to target a certain version of django? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nitrodmr"> /u/nitrodmr </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1i94ar2/in_the_process_of_updating_django_versions_but/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1i94ar2/in_the_process_of_updating_django_versions_but/">[comments]</a></span>
+
+## Best to use manager or other thing for filtering?
+ - [https://www.reddit.com/r/django/comments/1i91spa/best_to_use_manager_or_other_thing_for_filtering](https://www.reddit.com/r/django/comments/1i91spa/best_to_use_manager_or_other_thing_for_filtering)
+ - RSS feed: $source
+ - date published: 2025-01-24T18:07:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been working on a fun project, and am implementing user blocking. I am fairly new to drf, and am trying to figure out alternatives to the way I am doing this.</p> <p>Think a social media network, users can block other users, and also set the visibility of their posts.</p> <pre><code>class RecommendationManager(models.Manager): def visible_to(self, user) -&gt; QuerySet: base_qs = super().get_queryset().exclude(user__blocked_users=user) private_filter = ~Q(visibility=&#39;private&#39;) | Q(visibility=&#39;private&#39;, creator=user) followers_filter = ~Q(visibility=&#39;followers&#39;) | Q(visibility=&#39;followers&#39;, creator=user) | Q(visibility=&#39;followers&#39;, creator__followers=user) return base_qs.filter(private_filter &amp; followers_filter) </code></pre> <p>Which then is used in a variety of places, here as an example:</p> <pre><code>return Recommendation.objects.visible_to(self.request.user).filter(creator=user_id) </code></pre> <
+
+## Template Suggestion ??
+ - [https://www.reddit.com/r/django/comments/1i90pez/template_suggestion](https://www.reddit.com/r/django/comments/1i90pez/template_suggestion)
+ - RSS feed: $source
+ - date published: 2025-01-24T17:23:24+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/3rds5j4r6zee1.png?width=1910&amp;format=png&amp;auto=webp&amp;s=1ee93093be2eeec1efb8b7f4f59d8498ba9db27f">https://preview.redd.it/3rds5j4r6zee1.png?width=1910&amp;format=png&amp;auto=webp&amp;s=1ee93093be2eeec1efb8b7f4f59d8498ba9db27f</a></p> <p>This is the page i created with help of <strong>python, django, html/css</strong> ?? Now My question how to improve this i.e UI to make it more beautiful and user-friendly . Can someone tell what to do next ? Where to get UI design for free and should i create myself ( any tutorial video to follow) ??</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FUCK_YOU_02"> /u/FUCK_YOU_02 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1i90pez/template_suggestion/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1i90pez/template_suggestion/">[comments]</a></span>
+
+## Django + HTMX
+ - [https://www.reddit.com/r/django/comments/1i8zs5l/django_htmx](https://www.reddit.com/r/django/comments/1i8zs5l/django_htmx)
+ - RSS feed: $source
+ - date published: 2025-01-24T16:45:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am playing around for a while now with this combo with mixed feelings. It’s really hard to remain a clear structure when rendering only with partials, snippets and including it then in content… Do you struggle with that too? Is there any helpful resource how not to lose track with the overall structure? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Loud_Quail_7247"> /u/Loud_Quail_7247 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1i8zs5l/django_htmx/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1i8zs5l/django_htmx/">[comments]</a></span>
+
+## Resurrected: Announcing django-guardian 3.0.0rc1
+ - [https://www.reddit.com/r/django/comments/1i8tulm/resurrected_announcing_djangoguardian_300rc1](https://www.reddit.com/r/django/comments/1i8tulm/resurrected_announcing_djangoguardian_300rc1)
+ - RSS feed: $source
+ - date published: 2025-01-24T12:04:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi All,</p> <p>Our beloved <a href="https://github.com/django-guardian/django-guardian">django-guardian</a> (object level permissions for django) went unmaintained for a long time. After a lot of patience we&#39;ve managed to resurrect the project and get all the permissions in place for the associated github, pypi, rtd accounts etc.</p> <p>Today I released 3.0.0rc1 which brings django version support up to date and containes a whole ton of bugfixes, doc improvements and minor features. I&#39;m very confident in it and expect to make this a full release over the next couple of months.</p> <p><a href="https://github.com/django-guardian/django-guardian/pull/841">In this PR</a> I explain why we&#39;ve made this a major version release, although this shouldn&#39;t break your setup and *should* be a drop in replacement.</p> <p>If you try this, please post because I want to hear your experience!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="ht
+
+## I made this using Django and tailwind
+ - [https://www.reddit.com/r/django/comments/1i8qzzg/i_made_this_using_django_and_tailwind](https://www.reddit.com/r/django/comments/1i8qzzg/i_made_this_using_django_and_tailwind)
+ - RSS feed: $source
+ - date published: 2025-01-24T08:37:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve been learning Django for the past year and working on various small projects. While searching for ideas to build a project that could solve real-time problems, one of my photographer friends suggested an idea: &quot;Hey AJ, can you build something where I can share and showcase my event photos with clients?&quot; (He’s a wedding photographer.) He wanted a way to share photos of live weddings through a website, using a QR code.</p> <p>Inspired by this, I built <a href="https://sharemysnaps.anujjamdade.site/"><strong>ShareMySnaps</strong></a> —a platform that allows users to create digital albums in minutes. Although there are many products available in the market, this project was entirely for my learning experience.</p> <p>Here are some features of the app:</p> <ol> <li>Users need to sign up via their Google account.</li> <li>On the dashboard, users can create a folder, which will automatically be created in their Google Drive.</li> <li>When use
+
+## Wagtail: One blog per user based on OAuth2 Authentication?
+ - [https://www.reddit.com/r/django/comments/1i8qdjf/wagtail_one_blog_per_user_based_on_oauth2](https://www.reddit.com/r/django/comments/1i8qdjf/wagtail_one_blog_per_user_based_on_oauth2)
+ - RSS feed: $source
+ - date published: 2025-01-24T07:49:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey folks,</p> <p>I&#39;ve been using Django for years on and off but have only just discovered Wagtail.</p> <p>I&#39;m in the process of rewriting the website for our hackspace and one of the things I want to be able to offer is for each paying user to have their own blog under our main domain.</p> <p>Wagtail looks perfect for this, and I&#39;ve <a href="https://docs.wagtail.org/en/stable/getting_started/tutorial.html">followed the tutorial to get a basic blog up and running</a> with tags and authors, but I want to link the permissions system for who can post and who can approve into our existing OAuth2-based platform so that users only have a single point of signon.</p> <p><a href="https://www.reddit.com/r/django/comments/qw1y2m/wagtail_multiple_authors_for_blogpost_i_am_99/">This post</a> suggests that this is the &quot;wrong&quot; approach as Authors should be distinct from Users, but in our case the only people who should be allowed to write any
+
+## Need Recommendations to Improve My Django App Front-End Design
+ - [https://www.reddit.com/r/django/comments/1i8pj2n/need_recommendations_to_improve_my_django_app](https://www.reddit.com/r/django/comments/1i8pj2n/need_recommendations_to_improve_my_django_app)
+ - RSS feed: $source
+ - date published: 2025-01-24T06:47:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I hard-coded the front end of my Django app for a dashboard using just:</p> <ul> <li><code>style.css</code></li> <li>Bootstrap CSS</li> <li>Bootstrap JavaScript</li> <li>Google Fonts</li> </ul> <p>I’ve completed the back-end, but now my boss wants me to improve the front-end and make it look more “formal” or like a properly deployed app.</p> <p>What are your recommendations for improving the design? Any libraries, frameworks, or tools that can help me achieve a professional look?</p> <p>I’m open to suggestions for UI frameworks, design principles, or even specific themes/templates that could enhance the dashboard&#39;s appearance.</p> <p>Thanks in advance!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hot-Group8088"> /u/Hot-Group8088 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1i8pj2n/need_recommendations_to_improve_my_django_app/">[link]</a></span> &#32; <span><a hr
+
+## DRF first or wait?
+ - [https://www.reddit.com/r/django/comments/1i8p177/drf_first_or_wait](https://www.reddit.com/r/django/comments/1i8p177/drf_first_or_wait)
+ - RSS feed: $source
+ - date published: 2025-01-24T06:13:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>In a hypothetical situation where you wanted to deliver an MVP with minimal functionality to showcase an idea, but you knew one day it would also be an app, would you build DRF from the beginning or iterate into DRF over time?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mufasis"> /u/mufasis </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1i8p177/drf_first_or_wait/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1i8p177/drf_first_or_wait/">[comments]</a></span>
+
+## What tips do you have to create a successful Django project without the help of viewing tutorials?
+ - [https://www.reddit.com/r/django/comments/1i8kqhk/what_tips_do_you_have_to_create_a_successful](https://www.reddit.com/r/django/comments/1i8kqhk/what_tips_do_you_have_to_create_a_successful)
+ - RSS feed: $source
+ - date published: 2025-01-24T02:12:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>Besides Using Django&#39;s documentation and Googling, what are some other methods that help you to successfully create a Dango project?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Haunting_Length1505"> /u/Haunting_Length1505 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1i8kqhk/what_tips_do_you_have_to_create_a_successful/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1i8kqhk/what_tips_do_you_have_to_create_a_successful/">[comments]</a></span>
+
+## Is dj-rest-auth documentation utterly horrible or am I missing something?
+ - [https://www.reddit.com/r/django/comments/1i8jslx/is_djrestauth_documentation_utterly_horrible_or](https://www.reddit.com/r/django/comments/1i8jslx/is_djrestauth_documentation_utterly_horrible_or)
+ - RSS feed: $source
+ - date published: 2025-01-24T01:25:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>A little bit ago I was analyzing multiple auth libraries for Django to find the one that best fit my use case, and ultimately decided to go with dj-rest-auth. While developing with it, I noticed just how bad the documentation was, compared to say, Django Allauth headless. Do <code>dj-rest-auth</code> docs suck or am I not looking at the right place? </p> <p>For example, I wanted to see what the <code>/register</code> endpoint might return for, say, password validation errors, but the <a href="https://dj-rest-auth.readthedocs.io/en/latest/api_endpoints.html#registration">docs</a> don&#39;t mention anything about what a response might look like, and I was left to guess what an invalid response might look like based on trial and error. I was surprised because it has 1.7k stars so good documentation isn&#39;t a lot to ask for</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Megamygdala"> /u/Megamygdala </a> <br/> <sp
+

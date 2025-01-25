@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-24T18:27:36+00:00",
+        "description": "<p>\n\t<img alt=\"Depositphotos_226578348_S.jpg\" src=\"https://isocpp.org/files/img/Depositphotos_226578348_S.jpg\" style=\"width: 200px; margin: 10px; float: right; height: 200px;\" />Static reflection is under consideration for C++26. Wu Yongwei demonstrates how to achieve reflection now and shows some examples of what C++26 might make possible.</p>\n<p>\n\tStatic reflection will be an important part of C++ compile-time programming, as I discussed in the October issue of Overload [Wu24]. This time I will discuss static reflection in detail, including how to emulate it right now, before it&rsquo;s been added to the standard.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://accu.org/journals/overload/32/184/wu/\">Static Reflection in C++</a></h3>\n\t<p>\n\t\tby Wu Yongwei</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<h4>\n\t\tBackground</h4>\n\t<p>\n\t\tMany programming languages support reflection (Python and Java, for example). C++ is lagging behind.</p>\n\t<p>\n\t\tWhile this&nbsp;<em>is</em>&nbsp;the ",
+        "id": 1973623,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/01/static-reflection-in-cpp-wu-yongwei",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Static Reflection in C++ -- Wu Yongwei",
+        "vote": 0
+    }
+]

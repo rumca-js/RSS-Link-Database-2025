@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-24T15:07:12+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nHow to Design a Slimmer Vector of Variants in C++ - Christopher Fretz - CppCon 2024\n---\n\nHeterogeneous containers (\"vectors of variants\") are an extremely flexible and useful abstraction across many data domains, but std::vector\uff1cstd::variant\uff1c...\uff1e\uff1e can exhibit extremely bad memory characteristics for mixed types of disparate size, especially if the largest types are relatively uncommon in practice. Variants always have to be at least as large as their largest contained type, and vector implicitly requires all of its members to be the same size, leading to significant bloat in such cases. Motivated by real-world use-cases, this talk explores the design of a bit-packed replacement data structure that can achieve massive improvements in memory usage, and the impacts that these optimizations have on its API. \n---\n\nSlides: https://github.com/CppCon/CppCon2024/blob/main/Presentations/Designing_a_Slimmer_Vector_of_Variants.pdf\n\nSponsored by JetBrains: https://www.jet",
+        "id": 1971791,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=VDoyQyMXdDU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VDoyQyMXdDU/hqdefault.jpg",
+        "title": "How to Design a Slimmer Vector of Variants in C++ - Christopher Fretz - CppCon 2024",
+        "vote": 0
+    }
+]

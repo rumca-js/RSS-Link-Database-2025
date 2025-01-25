@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-24T04:03:08+00:00",
+        "description": "The Los Angeles fires are some of the costliest in U.S. history. On Jan. 7, the first brush fires broke out near the Hollywood Hills and the Pacific Palisades. Strong winds grounded initial air fleets and quickly spread the wildfires. By the end of day two, firefighters were tackling multiple fires around L.A. covering more than 27,000 acres. \n\nWSJ sat down with a Los Angeles Fire Dept. captain to learn how the Palisades and Eaton fires got out of control.\n\nChapters:\n0:00 Day zero: The fire preparation\n1:12 Day one: Evacuation and wind\n4:19 Day two: Air support and water pressure\n6:42 Day three and beyond: Containment\n8:17 Overall damage and recovery \n\nBlaze-stricken Los Angeles contends with fresh fires, resurgent winds: https://on.wsj.com/40xyqhZ \n\n#LA #Fire #WSJ",
+        "id": 1969083,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=DtWk5AxTioY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DtWk5AxTioY/hqdefault.jpg",
+        "title": "LAFD Captain Breaks Down Why the L.A. Fires Are So Hard to Fight | WSJ Hindsight",
+        "vote": 0
+    }
+]

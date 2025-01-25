@@ -1,0 +1,151 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## Forza Horizon 5 is getting its likely final update packed with new content
+ - [https://www.neowin.net/news/forza-horizon-5-is-getting-its-likely-final-update-packed-with-new-content](https://www.neowin.net/news/forza-horizon-5-is-getting-its-likely-final-update-packed-with-new-content)
+ - RSS feed: $source
+ - date published: 2025-01-24T23:44:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737760172_forza_horizon_5_medium.jpg" alt="" /></div>Forza Horizon 5 is getting another content update next week, but it appears that it might be the last one of its kind. <a href="https://www.neowin.net/news/forza-horizon-5-is-getting-its-likely-final-update-packed-with-new-content/">Read more...</a>
+
+## LG S95TR 9.1.5 S90TR 7.1.3 Dolby Atmos soundbars with wireless subwoofer back to least price
+ - [https://www.neowin.net/deals/lg-s95tr-915-s90tr-713-dolby-atmos-soundbars-with-wireless-subwoofer-back-to-least-price](https://www.neowin.net/deals/lg-s95tr-915-s90tr-713-dolby-atmos-soundbars-with-wireless-subwoofer-back-to-least-price)
+ - RSS feed: $source
+ - date published: 2025-01-24T21:52:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/07/1722200318_lg_s95qr_sound_bar_medium.jpg" alt="" /></div>LG&#039;s S95TR 9.1.5 and S90TR 7.1.3 soundbar prices are back to their lowest. These are great all-in-one home theatre audio setups. <a href="https://www.neowin.net/deals/lg-s95tr-915-s90tr-713-dolby-atmos-soundbars-with-wireless-subwoofer-back-to-least-price/">Read more...</a>
+
+## Angry users react as Meta begins testing ads on Threads in the US and Japan
+ - [https://www.neowin.net/news/angry-users-react-as-meta-begins-testing-ads-on-threads-in-the-us-and-japan](https://www.neowin.net/news/angry-users-react-as-meta-begins-testing-ads-on-threads-in-the-us-and-japan)
+ - RSS feed: $source
+ - date published: 2025-01-24T20:44:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/07/1689748063_threads_app_logo_orange_medium.jpg" alt="" /></div>Threads initially attracted users as an ad-free alternative to X, but that appeal is fading as the platform introduces ads, sparking outrage among its users. <a href="https://www.neowin.net/news/angry-users-react-as-meta-begins-testing-ads-on-threads-in-the-us-and-japan/">Read more...</a>
+
+## Epic Games' mobile store gains 19 third-party games, also kicks off its own freebie program
+ - [https://www.neowin.net/news/epic-games-mobile-store-gains-19-third-party-games-also-kicks-off-its-own-freebie-program](https://www.neowin.net/news/epic-games-mobile-store-gains-19-third-party-games-also-kicks-off-its-own-freebie-program)
+ - RSS feed: $source
+ - date published: 2025-01-24T20:30:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737749037_en-pegi-egs-fb-social-1920x1080-1920x1080-7a87c6d2748b_medium.jpg" alt="" /></div>The Epic Games Store&#039;s mobile version now has a freebie program of its own, offering a hit strategy game from Amplitude Studios. Almost 20 third-party games have hit the store too. <a href="https://www.neowin.net/news/epic-games-mobile-store-gains-19-third-party-games-also-kicks-off-its-own-freebie-program/">Read more...</a>
+
+## Dragon Age: The Veilguard may have just received its final update
+ - [https://www.neowin.net/news/dragon-age-the-veilguard-may-have-just-received-its-final-update](https://www.neowin.net/news/dragon-age-the-veilguard-may-have-just-received-its-final-update)
+ - RSS feed: $source
+ - date published: 2025-01-24T19:28:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/07/1721934099_ss_80a80e15328ab9cf16727783365c16f0dfc01cf0.1920x1080_medium.jpg" alt="" /></div>BioWare may be closing its Dragon Age: The Veilguard chapter with the fifth update to the game if its message to fans is anything to go by. <a href="https://www.neowin.net/news/dragon-age-the-veilguard-may-have-just-received-its-final-update/">Read more...</a>
+
+## Windows 11 KB5050105 beta build improves Snap,confirms MSA issue, and more
+ - [https://www.neowin.net/news/windows-11-kb5050105-beta-build-improves-snapconfirms-msa-issue-and-more](https://www.neowin.net/news/windows-11-kb5050105-beta-build-improves-snapconfirms-msa-issue-and-more)
+ - RSS feed: $source
+ - date published: 2025-01-24T18:45:55+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/12/1701731513_windows_11_insider_preview_promo_8_medium.jpg" alt="" /></div>Microsoft has released a new Windows 11 Beta Build 22635.4805 under KB5050105 today for Insiders. It has some new features and bug fixes.
+
+ <a href="https://www.neowin.net/news/windows-11-kb5050105-beta-build-improves-snapconfirms-msa-issue-and-more/">Read more...</a>
+
+## Windows 11 build 26120.3000 is out with the new battery indicator and more
+ - [https://www.neowin.net/news/windows-11-build-261203000-is-out-with-the-new-battery-indicator-and-more](https://www.neowin.net/news/windows-11-build-261203000-is-out-with-the-new-battery-indicator-and-more)
+ - RSS feed: $source
+ - date published: 2025-01-24T18:40:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/12/1701731598_windows_11_insider_preview_promo_21_medium.jpg" alt="" /></div>This week&#039;s Windows 11 Dev build is here with the new battery indicator, Gamepad keyboard, and more. <a href="https://www.neowin.net/news/windows-11-build-261203000-is-out-with-the-new-battery-indicator-and-more/">Read more...</a>
+
+## iPhone's Dynamic Island might remain 'largely unchanged' in 2025, says analyst
+ - [https://www.neowin.net/news/iphones-dynamic-island-might-remain-largely-unchanged-in-2025-says-analyst](https://www.neowin.net/news/iphones-dynamic-island-might-remain-largely-unchanged-in-2025-says-analyst)
+ - RSS feed: $source
+ - date published: 2025-01-24T18:24:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/07/1719835956_apple_iphone_15_pro_display_medium.jpg" alt="" /></div>There is some not-so-delightful information for people wanting to see the iPhone&#039;s Dynamic Island go away. <a href="https://www.neowin.net/news/iphones-dynamic-island-might-remain-largely-unchanged-in-2025-says-analyst/">Read more...</a>
+
+## Save 70% off a lifetime license to PDF Converter Pro
+ - [https://www.neowin.net/deals/save-70-off-pdf-converter-pro-lifetime-license](https://www.neowin.net/deals/save-70-off-pdf-converter-pro-lifetime-license)
+ - RSS feed: $source
+ - date published: 2025-01-24T18:00:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2022/10/1666871720_wondershare-pdf-converter-pro_medium.jpg" alt="" /></div>Excellent software to convert PDF from and to Word, Excel, PPT, TXT, Image, and more, efficiently and accurately. <a href="https://www.neowin.net/deals/save-70-off-pdf-converter-pro-lifetime-license/">Read more...</a>
+
+## Meta plans to spend $65 billion on AI investments, amid DeepSeek superiority claims
+ - [https://www.neowin.net/news/meta-plans-to-spend-65-billion-on-ai-investments-amid-deepseek-superiority-claims](https://www.neowin.net/news/meta-plans-to-spend-65-billion-on-ai-investments-amid-deepseek-superiority-claims)
+ - RSS feed: $source
+ - date published: 2025-01-24T17:00:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737733330_zuck_medium.jpg" alt="" /></div>Meta says that it will invest up to $65 billion in 2025  for building AI at a time when DeepSeek, an open-source Chinese AI model has reportedly outperformed Meta&#039;s AI models.  <a href="https://www.neowin.net/news/meta-plans-to-spend-65-billion-on-ai-investments-amid-deepseek-superiority-claims/">Read more...</a>
+
+## Seagate, WD alternative Toshiba 6TB CMR HDD for NAS/Plex Servers falls to lowest price
+ - [https://www.neowin.net/deals/seagate-wd-alternative-toshiba-6tb-cmr-hdd-for-nasplex-servers-falls-to-lowest-price](https://www.neowin.net/deals/seagate-wd-alternative-toshiba-6tb-cmr-hdd-for-nasplex-servers-falls-to-lowest-price)
+ - RSS feed: $source
+ - date published: 2025-01-24T16:44:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/12/1734457384_toshiba_n300_pro_medium.jpg" alt="" /></div>Looking for some CMR hard disks for your NAS or home (Plex) servers that can run 24x7? Toshiba has dropped the price of 6TB and more N300 PRO models to the lowest. <a href="https://www.neowin.net/deals/seagate-wd-alternative-toshiba-6tb-cmr-hdd-for-nasplex-servers-falls-to-lowest-price/">Read more...</a>
+
+## A Beginner's Guide To Web Application Penetration Testing ($40 Value) free eBook download
+ - [https://www.neowin.net/sponsored/a-beginners-guide-to-web-application-penetration-testing-40-value-free-ebook-download](https://www.neowin.net/sponsored/a-beginners-guide-to-web-application-penetration-testing-40-value-free-ebook-download)
+ - RSS feed: $source
+ - date published: 2025-01-24T16:00:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737709232_1394295596_medium.jpg" alt="" /></div>Walks you through the five main stages of a comprehensive penetration test: scoping and reconnaissance, scanning, gaining and maintaining access, analysis, and reporting. <a href="https://www.neowin.net/sponsored/a-beginners-guide-to-web-application-penetration-testing-40-value-free-ebook-download/">Read more...</a>
+
+## OPPO executive compares the thinness of the upcoming Find N5 to the M4 iPad Pro
+ - [https://www.neowin.net/news/oppo-executive-compares-the-thinness-of-the-upcoming-find-n5-to-the-m4-ipad-pro](https://www.neowin.net/news/oppo-executive-compares-the-thinness-of-the-upcoming-find-n5-to-the-m4-ipad-pro)
+ - RSS feed: $source
+ - date published: 2025-01-24T15:04:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737354468_oppo_find_n5_hero_medium.jpg" alt="" /></div>The latest comparison of the OPPO Find N5 with the iPad Pro (M4) suggests that the foldable will be less than 5.3 mm when unfolded. <a href="https://www.neowin.net/news/oppo-executive-compares-the-thinness-of-the-upcoming-find-n5-to-the-m4-ipad-pro/">Read more...</a>
+
+## Samsung has left it to the carriers to offer satellite SOS service on the Galaxy S25 series
+ - [https://www.neowin.net/news/samsung-has-left-it-to-the-carriers-to-offer-satellite-sos-service-on-the-galaxy-s25-series](https://www.neowin.net/news/samsung-has-left-it-to-the-carriers-to-offer-satellite-sos-service-on-the-galaxy-s25-series)
+ - RSS feed: $source
+ - date published: 2025-01-24T14:12:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737724745_snapdragon_satellite_medium.jpg" alt="" /></div>It has now become a bit clear why Samsung refrained from mentioning the satellite connectivity feature on its Galaxy S25 series during the Unpacked event. <a href="https://www.neowin.net/news/samsung-has-left-it-to-the-carriers-to-offer-satellite-sos-service-on-the-galaxy-s25-series/">Read more...</a>
+
+## Intel releases new GPU driver with Final Fantasy VII Rebirth performance improvements
+ - [https://www.neowin.net/news/intel-releases-new-gpu-driver-with-final-fantasy-vii-rebirth-performance-improvements](https://www.neowin.net/news/intel-releases-new-gpu-driver-with-final-fantasy-vii-rebirth-performance-improvements)
+ - RSS feed: $source
+ - date published: 2025-01-24T13:48:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/09/1694728431_ff7-rebirth_medium.jpg" alt="" /></div>Intel has released a new graphics driver with support and optimizations for Final Fantasy VII Rebirth. <a href="https://www.neowin.net/news/intel-releases-new-gpu-driver-with-final-fantasy-vii-rebirth-performance-improvements/">Read more...</a>
+
+## Tesla's new Model Y deliveries start in North America this March, priced at $60,000
+ - [https://www.neowin.net/news/teslas-new-model-y-deliveries-start-in-north-america-this-march-priced-at-60000](https://www.neowin.net/news/teslas-new-model-y-deliveries-start-in-north-america-this-march-priced-at-60000)
+ - RSS feed: $source
+ - date published: 2025-01-24T08:54:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737707263_gibpw1lw0aa7vla_medium.jpg" alt="" /></div>Weeks after the &quot;Juniper&quot; was announced for Asian markets, Tesla revealed that the new Model Y will arrive in North America this March. <a href="https://www.neowin.net/news/teslas-new-model-y-deliveries-start-in-north-america-this-march-priced-at-60000/">Read more...</a>
+
+## Samsung Galaxy S25 Edge battery specification revealed, and it's disappointing
+ - [https://www.neowin.net/news/samsung-galaxy-s25-edge-battery-specification-revealed-and-its-disappointing](https://www.neowin.net/news/samsung-galaxy-s25-edge-battery-specification-revealed-and-its-disappointing)
+ - RSS feed: $source
+ - date published: 2025-01-24T08:30:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737645816_galaxy_s25_edge_1_medium.jpg" alt="" /></div>Chinese CQC certification has spilled the beans on the battery capacity of the Galaxy S25 Edge, which tech enthusiasts may not like. <a href="https://www.neowin.net/news/samsung-galaxy-s25-edge-battery-specification-revealed-and-its-disappointing/">Read more...</a>
+
+## Samsung hints at future Galaxy Watches featuring noninvasive continuous glucose monitoring
+ - [https://www.neowin.net/news/samsung-hints-at-future-galaxy-watches-featuring-noninvasive-continuous-glucose-monitoring](https://www.neowin.net/news/samsung-hints-at-future-galaxy-watches-featuring-noninvasive-continuous-glucose-monitoring)
+ - RSS feed: $source
+ - date published: 2025-01-24T07:58:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737699961_galaxy_watch7_medium.jpg" alt="" /></div>Samsung is working on taking the needle out of the way with a noninvasive glucose monitoring feature on future Galaxy Watches. <a href="https://www.neowin.net/news/samsung-hints-at-future-galaxy-watches-featuring-noninvasive-continuous-glucose-monitoring/">Read more...</a>
+
+## 4TB SanDisk Professional PRO-G40 SSD has dropped to its lowest price ever
+ - [https://www.neowin.net/deals/4tb-sandisk-professional-pro-g40-ssd-has-dropped-to-its-lowest-price-ever](https://www.neowin.net/deals/4tb-sandisk-professional-pro-g40-ssd-has-dropped-to-its-lowest-price-ever)
+ - RSS feed: $source
+ - date published: 2025-01-24T07:42:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/09/1694536206_untitled_design_1_medium.jpg" alt="" /></div>The 4TB SanDisk Professional PRO-G40 Thunderbolt 3 External SSD is currently selling at its new all-time low price. <a href="https://www.neowin.net/deals/4tb-sandisk-professional-pro-g40-ssd-has-dropped-to-its-lowest-price-ever/">Read more...</a>
+
+## Amazon is offering a $120 discount on all colors and sizes of the Samsung Galaxy Ring
+ - [https://www.neowin.net/deals/amazon-is-offering-a-120-discount-on-all-colors-and-sizes-of-the-samsung-galaxy-ring](https://www.neowin.net/deals/amazon-is-offering-a-120-discount-on-all-colors-and-sizes-of-the-samsung-galaxy-ring)
+ - RSS feed: $source
+ - date published: 2025-01-24T07:26:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1737694657_galaxy_ring_medium.jpg" alt="" /></div>Want to keep your health in check? You are lucky as Amazon automatically applies a $120-off discount on the Galaxy Ring during checkout. <a href="https://www.neowin.net/deals/amazon-is-offering-a-120-discount-on-all-colors-and-sizes-of-the-samsung-galaxy-ring/">Read more...</a>
+
+## Microsoft acknowledges a bug in the latest Windows 10 updates, says not to worry about it
+ - [https://www.neowin.net/news/microsoft-acknowledges-a-bug-in-the-latest-windows-10-updates-says-not-to-worry-about-it](https://www.neowin.net/news/microsoft-acknowledges-a-bug-in-the-latest-windows-10-updates-says-not-to-worry-about-it)
+ - RSS feed: $source
+ - date published: 2025-01-24T00:18:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2022/08/1661065372_windows_10_logo_red_medium.jpg" alt="" /></div>There is a new known bug in the latest Windows 10 updates, but Microsoft says you should not worry about it at all. <a href="https://www.neowin.net/news/microsoft-acknowledges-a-bug-in-the-latest-windows-10-updates-says-not-to-worry-about-it/">Read more...</a>
+

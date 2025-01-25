@@ -1,0 +1,163 @@
+# Source:/r/Technology, URL:https://www.reddit.com/r/technology/.rss, language:en
+
+## X refused to take down video viewed by Southport killer minutes before killing 3 young girls
+ - [https://www.reddit.com/r/technology/comments/1i997r2/x_refused_to_take_down_video_viewed_by_southport](https://www.reddit.com/r/technology/comments/1i997r2/x_refused_to_take_down_video_viewed_by_southport)
+ - RSS feed: $source
+ - date published: 2025-01-24T23:27:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i997r2/x_refused_to_take_down_video_viewed_by_southport/"> <img src="https://external-preview.redd.it/v1cOXEWG1WGcBH3elIkb7o3ZdIRjsxaaa7_IeHwoyGc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=570a729d0c1e6c5159599ba088285c1a936f5319" alt="X refused to take down video viewed by Southport killer minutes before killing 3 young girls" title="X refused to take down video viewed by Southport killer minutes before killing 3 young girls" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/i_am_atoms"> /u/i_am_atoms </a> <br/> <span><a href="https://www.bbc.com/news/articles/c2egz1089pwo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i997r2/x_refused_to_take_down_video_viewed_by_southport/">[comments]</a></span> </td></tr></table>
+
+## EU to test Facebook, X and others on disinformation ahead of German election
+ - [https://www.reddit.com/r/technology/comments/1i96u16/eu_to_test_facebook_x_and_others_on](https://www.reddit.com/r/technology/comments/1i96u16/eu_to_test_facebook_x_and_others_on)
+ - RSS feed: $source
+ - date published: 2025-01-24T21:42:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i96u16/eu_to_test_facebook_x_and_others_on/"> <img src="https://external-preview.redd.it/2kGgy2ZMNVdz2jBSJX-MDn3CLyBJQUDuosfFP5Bxv5Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8dc840c40f497d9a6f1bb4dc066d59c99737b176" alt="EU to test Facebook, X and others on disinformation ahead of German election" title="EU to test Facebook, X and others on disinformation ahead of German election" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.channelnewsasia.com/business/eu-test-facebook-x-and-others-disinformation-ahead-german-election-4895091">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i96u16/eu_to_test_facebook_x_and_others_on/">[comments]</a></span> </td></tr></table>
+
+## Wall Street Banks Prepare to Sell Billions of Dollars of X Loans
+ - [https://www.reddit.com/r/technology/comments/1i95vhq/wall_street_banks_prepare_to_sell_billions_of](https://www.reddit.com/r/technology/comments/1i95vhq/wall_street_banks_prepare_to_sell_billions_of)
+ - RSS feed: $source
+ - date published: 2025-01-24T21:00:35+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Knightbear49"> /u/Knightbear49 </a> <br/> <span><a href="https://www.wsj.com/finance/banking/wall-street-banks-prepare-to-sell-billions-of-dollars-of-x-loans-c609beb1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i95vhq/wall_street_banks_prepare_to_sell_billions_of/">[comments]</a></span>
+
+## Free Our Feeds wants to build a social media ecosystem ‘resistant to billionaire influence’
+ - [https://www.reddit.com/r/technology/comments/1i95maz/free_our_feeds_wants_to_build_a_social_media](https://www.reddit.com/r/technology/comments/1i95maz/free_our_feeds_wants_to_build_a_social_media)
+ - RSS feed: $source
+ - date published: 2025-01-24T20:49:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i95maz/free_our_feeds_wants_to_build_a_social_media/"> <img src="https://external-preview.redd.it/eCLxIixZqYBYSh0o_MT0sb0TUxruQmQ_hqYG6zsr4qA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aec4257c4f054a64ecddc3a587eb0502b4a762a1" alt="Free Our Feeds wants to build a social media ecosystem ‘resistant to billionaire influence’" title="Free Our Feeds wants to build a social media ecosystem ‘resistant to billionaire influence’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spaduf"> /u/Spaduf </a> <br/> <span><a href="https://www.theverge.com/2025/1/13/24342799/free-our-feeds-social-media-ecosystem-at-protocol-bluesky">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i95maz/free_our_feeds_wants_to_build_a_social_media/">[comments]</a></span> </td></tr></table>
+
+## Open source alternatives to Instagram, TikTok, and WhatsApp raise funds on Kickstarter
+ - [https://www.reddit.com/r/technology/comments/1i958tx/open_source_alternatives_to_instagram_tiktok_and](https://www.reddit.com/r/technology/comments/1i958tx/open_source_alternatives_to_instagram_tiktok_and)
+ - RSS feed: $source
+ - date published: 2025-01-24T20:33:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i958tx/open_source_alternatives_to_instagram_tiktok_and/"> <img src="https://external-preview.redd.it/eSDeS99_AlEa84m1FxvzASlWv3Z-OrYT7e8ih3zDeu8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=880d805ecc99da62ecc7dc8b7f90b04cf8201fa4" alt="Open source alternatives to Instagram, TikTok, and WhatsApp raise funds on Kickstarter" title="Open source alternatives to Instagram, TikTok, and WhatsApp raise funds on Kickstarter" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spaduf"> /u/Spaduf </a> <br/> <span><a href="https://techcrunch.com/2025/01/24/open-source-alternatives-to-instagram-tiktok-and-whatsapp-raise-funds-on-kickstarter/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i958tx/open_source_alternatives_to_instagram_tiktok_and/">[comments]</a></span> </td></tr></table>
+
+## Doom: The Dark Ages has no multiplayer: 'Our campaigns are, to a great extent, what people come to the modern Doom games to play'
+ - [https://www.reddit.com/r/technology/comments/1i949fw/doom_the_dark_ages_has_no_multiplayer_our](https://www.reddit.com/r/technology/comments/1i949fw/doom_the_dark_ages_has_no_multiplayer_our)
+ - RSS feed: $source
+ - date published: 2025-01-24T19:51:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i949fw/doom_the_dark_ages_has_no_multiplayer_our/"> <img src="https://external-preview.redd.it/cxpfELzzm2bjiJDYVnD_mB_Ggv8cvpBO0qB9ACjH0b4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d901aee7c6da345572eb8292bce54e5ecb1fd848" alt="Doom: The Dark Ages has no multiplayer: 'Our campaigns are, to a great extent, what people come to the modern Doom games to play'" title="Doom: The Dark Ages has no multiplayer: 'Our campaigns are, to a great extent, what people come to the modern Doom games to play'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ControlCAD"> /u/ControlCAD </a> <br/> <span><a href="https://www.pcgamer.com/games/fps/doom-the-dark-ages-has-no-multiplayer-our-campaigns-are-to-a-great-extent-what-people-come-to-the-modern-doom-games-to-play/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i949fw/doom_the_dark_ages_has_no_multiplayer
+
+## I'm quitting Instagram. You should too | Mark Zuckerberg's horrible changes for Instagram — and Facebook — have become untenable, writes Lennon Torres.
+ - [https://www.reddit.com/r/technology/comments/1i92zpp/im_quitting_instagram_you_should_too_mark](https://www.reddit.com/r/technology/comments/1i92zpp/im_quitting_instagram_you_should_too_mark)
+ - RSS feed: $source
+ - date published: 2025-01-24T18:57:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i92zpp/im_quitting_instagram_you_should_too_mark/"> <img src="https://external-preview.redd.it/M7ou9NrfYvmFjO1OF3k8NrJ78-5oE7VGqCGLSca3au8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c7cd0068e77c16d696f60bf9b36b228641614653" alt="I'm quitting Instagram. You should too | Mark Zuckerberg's horrible changes for Instagram — and Facebook — have become untenable, writes Lennon Torres." title="I'm quitting Instagram. You should too | Mark Zuckerberg's horrible changes for Instagram — and Facebook — have become untenable, writes Lennon Torres." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://mashable.com/article/quitting-instagram-meta-you-should-too">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i92zpp/im_quitting_instagram_you_should_too_mark/">[comments]</a></span> </td></tr></table>
+
+## Pope warns Davos summit that AI could worsen ‘crisis of truth’ | Francis calls for close oversight of technology that raises ‘critical concerns’ about humanity’s future
+ - [https://www.reddit.com/r/technology/comments/1i9112r/pope_warns_davos_summit_that_ai_could_worsen](https://www.reddit.com/r/technology/comments/1i9112r/pope_warns_davos_summit_that_ai_could_worsen)
+ - RSS feed: $source
+ - date published: 2025-01-24T17:36:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i9112r/pope_warns_davos_summit_that_ai_could_worsen/"> <img src="https://external-preview.redd.it/cfk-BIo4UB9bSbGwecyKYsGXv-Bc0ZahoBe4reUhLeA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb1bbdd50d87079803070b3b58675e00a5b845e2" alt="Pope warns Davos summit that AI could worsen ‘crisis of truth’ | Francis calls for close oversight of technology that raises ‘critical concerns’ about humanity’s future" title="Pope warns Davos summit that AI could worsen ‘crisis of truth’ | Francis calls for close oversight of technology that raises ‘critical concerns’ about humanity’s future" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MetaKnowing"> /u/MetaKnowing </a> <br/> <span><a href="https://www.theguardian.com/technology/2025/jan/23/pope-warns-davos-summit-that-ai-could-worsen-crisis-of-truth">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i9112r/p
+
+## Tim Sweeney says Epic is losing billions fighting Apple and Google because it can afford to, jokes that 'we might run into serious financial problems after a couple more decades'
+ - [https://www.reddit.com/r/technology/comments/1i90qdr/tim_sweeney_says_epic_is_losing_billions_fighting](https://www.reddit.com/r/technology/comments/1i90qdr/tim_sweeney_says_epic_is_losing_billions_fighting)
+ - RSS feed: $source
+ - date published: 2025-01-24T17:24:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i90qdr/tim_sweeney_says_epic_is_losing_billions_fighting/"> <img src="https://external-preview.redd.it/vw68zAgcNnf6qeHzLoeMc3TZ9OnY4LRAoDJpCH5nye8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4befb2b27e67f5e847bb1fc207b209aefe79df93" alt="Tim Sweeney says Epic is losing billions fighting Apple and Google because it can afford to, jokes that 'we might run into serious financial problems after a couple more decades'" title="Tim Sweeney says Epic is losing billions fighting Apple and Google because it can afford to, jokes that 'we might run into serious financial problems after a couple more decades'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ControlCAD"> /u/ControlCAD </a> <br/> <span><a href="https://www.pcgamer.com/gaming-industry/tim-sweeney-says-epic-is-spending-billions-fighting-apple-and-google-because-it-can-jokes-that-we-might-run-into-serious-financial-problems-aft
+
+## Employers would rather hire AI than Gen Z graduates: Report
+ - [https://www.reddit.com/r/technology/comments/1i907sm/employers_would_rather_hire_ai_than_gen_z](https://www.reddit.com/r/technology/comments/1i907sm/employers_would_rather_hire_ai_than_gen_z)
+ - RSS feed: $source
+ - date published: 2025-01-24T17:03:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i907sm/employers_would_rather_hire_ai_than_gen_z/"> <img src="https://external-preview.redd.it/pu_A1cB4jYSORJImwNaVNts5Fur8fPhfwtVzHYDoPN8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=91f562a1047ffb38cc7d9bc6cbf4c5e1eb0eadda" alt="Employers would rather hire AI than Gen Z graduates: Report" title="Employers would rather hire AI than Gen Z graduates: Report" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Information6622"> /u/No-Information6622 </a> <br/> <span><a href="https://www.newsweek.com/employers-would-rather-hire-ai-then-gen-z-graduates-report-2019314">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i907sm/employers_would_rather_hire_ai_than_gen_z/">[comments]</a></span> </td></tr></table>
+
+## Trump administration reviewing US automatic emergency braking rule
+ - [https://www.reddit.com/r/technology/comments/1i902pg/trump_administration_reviewing_us_automatic](https://www.reddit.com/r/technology/comments/1i902pg/trump_administration_reviewing_us_automatic)
+ - RSS feed: $source
+ - date published: 2025-01-24T16:57:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i902pg/trump_administration_reviewing_us_automatic/"> <img src="https://external-preview.redd.it/QfXlvV2ewNyhJ60HSMeWzQvjFNuL-S4ORyS-4hstfjc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=63ee04c49e21c297d92eacd1eed1dd04409aede0" alt="Trump administration reviewing US automatic emergency braking rule" title="Trump administration reviewing US automatic emergency braking rule" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DomesticErrorist22"> /u/DomesticErrorist22 </a> <br/> <span><a href="https://www.reuters.com/business/autos-transportation/trump-administration-reviewing-us-automatic-emergency-braking-rule-2025-01-24/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i902pg/trump_administration_reviewing_us_automatic/">[comments]</a></span> </td></tr></table>
+
+## Hackers Crack Subaru's Connected Services To Access Location Data, Door Locks And More
+ - [https://www.reddit.com/r/technology/comments/1i8x72l/hackers_crack_subarus_connected_services_to](https://www.reddit.com/r/technology/comments/1i8x72l/hackers_crack_subarus_connected_services_to)
+ - RSS feed: $source
+ - date published: 2025-01-24T14:55:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i8x72l/hackers_crack_subarus_connected_services_to/"> <img src="https://external-preview.redd.it/NuwL7rfQn0MdUkxpMEB0Mmx2vcjYzQ9V8d8435khKJk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce26c19dab2227e6ac65fee10a9e048e70519dd9" alt="Hackers Crack Subaru's Connected Services To Access Location Data, Door Locks And More" title="Hackers Crack Subaru's Connected Services To Access Location Data, Door Locks And More" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lurker_bee"> /u/lurker_bee </a> <br/> <span><a href="https://jalopnik.com/hackers-crack-subarus-connected-services-to-access-loca-1851746393">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i8x72l/hackers_crack_subarus_connected_services_to/">[comments]</a></span> </td></tr></table>
+
+## Trump administration fires members of cybersecurity review board in 'horribly shortsighted' decision
+ - [https://www.reddit.com/r/technology/comments/1i8wvf0/trump_administration_fires_members_of](https://www.reddit.com/r/technology/comments/1i8wvf0/trump_administration_fires_members_of)
+ - RSS feed: $source
+ - date published: 2025-01-24T14:40:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i8wvf0/trump_administration_fires_members_of/"> <img src="https://external-preview.redd.it/N8m_mqcXlg5YM_PUbEjIomJH2Sq2MqjHpyWfiwIFQ_M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ef7265659f7a46c33f5c7da3c7fb0e8659d26a7" alt="Trump administration fires members of cybersecurity review board in 'horribly shortsighted' decision" title="Trump administration fires members of cybersecurity review board in 'horribly shortsighted' decision" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cos"> /u/cos </a> <br/> <span><a href="https://techcrunch.com/2025/01/22/trump-administration-fires-members-of-cybersecurity-review-board-in-horribly-shortsighted-decision/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i8wvf0/trump_administration_fires_members_of/">[comments]</a></span> </td></tr></table>
+
+## Global green energy push likely to continue despite Trump climate retreat: UN
+ - [https://www.reddit.com/r/technology/comments/1i8vjx1/global_green_energy_push_likely_to_continue](https://www.reddit.com/r/technology/comments/1i8vjx1/global_green_energy_push_likely_to_continue)
+ - RSS feed: $source
+ - date published: 2025-01-24T13:37:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i8vjx1/global_green_energy_push_likely_to_continue/"> <img src="https://external-preview.redd.it/YWF2hD1aSPauaiiPGwAIoZuG5rCXRM9QBcWEJevJp2k.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d9760230834ebfd0032307ee43fa80f09e03815a" alt="Global green energy push likely to continue despite Trump climate retreat: UN" title="Global green energy push likely to continue despite Trump climate retreat: UN" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.solardaily.com/m/reports/Global_green_energy_push_likely_to_continue_despite_Trump_climate_retreat_UN_999.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i8vjx1/global_green_energy_push_likely_to_continue/">[comments]</a></span> </td></tr></table>
+
+## New AI picks up 97% of lung diseases, and can tell pneumonia from COVID-19
+ - [https://www.reddit.com/r/technology/comments/1i8vinw/new_ai_picks_up_97_of_lung_diseases_and_can_tell](https://www.reddit.com/r/technology/comments/1i8vinw/new_ai_picks_up_97_of_lung_diseases_and_can_tell)
+ - RSS feed: $source
+ - date published: 2025-01-24T13:35:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i8vinw/new_ai_picks_up_97_of_lung_diseases_and_can_tell/"> <img src="https://external-preview.redd.it/TezQfimHmtfqnMg7Jsik45N2CK2qImH2nyPMYIS5LgY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=81fde00fb236b75dcf410ae6be43e66235d41e33" alt="New AI picks up 97% of lung diseases, and can tell pneumonia from COVID-19" title="New AI picks up 97% of lung diseases, and can tell pneumonia from COVID-19" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://newatlas.com/medical-ai/ai-lung-disease/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i8vinw/new_ai_picks_up_97_of_lung_diseases_and_can_tell/">[comments]</a></span> </td></tr></table>
+
+## Chinese artificial sun shatters world record with 1,066-second plasma confinement | A crucial milestone in fusion research
+ - [https://www.reddit.com/r/technology/comments/1i8vglt/chinese_artificial_sun_shatters_world_record_with](https://www.reddit.com/r/technology/comments/1i8vglt/chinese_artificial_sun_shatters_world_record_with)
+ - RSS feed: $source
+ - date published: 2025-01-24T13:32:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i8vglt/chinese_artificial_sun_shatters_world_record_with/"> <img src="https://external-preview.redd.it/UtewMa9nA9q6bQvbqHu5ltV7MqO8PCs05jXMnXCD6bQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3418dadebcacd048ea85c6ea19d8942242831293" alt="Chinese artificial sun shatters world record with 1,066-second plasma confinement | A crucial milestone in fusion research" title="Chinese artificial sun shatters world record with 1,066-second plasma confinement | A crucial milestone in fusion research" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.techspot.com/news/106482-chinese-artificial-sun-shatters-world-record-1066-second.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i8vglt/chinese_artificial_sun_shatters_world_record_with/">[comments]</a></span> </td></tr></table>
+
+## Solar Energy Surpassed Coal in the EU for the First Time in 2024: Report
+ - [https://www.reddit.com/r/technology/comments/1i8usst/solar_energy_surpassed_coal_in_the_eu_for_the](https://www.reddit.com/r/technology/comments/1i8usst/solar_energy_surpassed_coal_in_the_eu_for_the)
+ - RSS feed: $source
+ - date published: 2025-01-24T12:59:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i8usst/solar_energy_surpassed_coal_in_the_eu_for_the/"> <img src="https://external-preview.redd.it/TylKNPx8eukl7BdI51J0t7pojLFJFlKt_INzRhbbge8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ab59fe0206ec7b74d5720b02798b36c65f8596a5" alt="Solar Energy Surpassed Coal in the EU for the First Time in 2024: Report" title="Solar Energy Surpassed Coal in the EU for the First Time in 2024: Report" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.ecowatch.com/solar-energy-eu-coal-2024.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i8usst/solar_energy_surpassed_coal_in_the_eu_for_the/">[comments]</a></span> </td></tr></table>
+
+## The calls for a Meta boycott don't seem to be having much of an impact, data shows
+ - [https://www.reddit.com/r/technology/comments/1i8sqo5/the_calls_for_a_meta_boycott_dont_seem_to_be](https://www.reddit.com/r/technology/comments/1i8sqo5/the_calls_for_a_meta_boycott_dont_seem_to_be)
+ - RSS feed: $source
+ - date published: 2025-01-24T10:49:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i8sqo5/the_calls_for_a_meta_boycott_dont_seem_to_be/"> <img src="https://external-preview.redd.it/PWy2t7fRjBvY11RGGGm2Tme4fOd8WMNm1hQPkWebvcw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d8c2fabc0b5f35c123c1d9aec89a1f3d41f6245" alt="The calls for a Meta boycott don't seem to be having much of an impact, data shows" title="The calls for a Meta boycott don't seem to be having much of an impact, data shows" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HellYeahDamnWrite"> /u/HellYeahDamnWrite </a> <br/> <span><a href="https://www.businessinsider.com/meta-shows-user-revenue-gains-after-dei-moderation-policy-changes-2025-1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i8sqo5/the_calls_for_a_meta_boycott_dont_seem_to_be/">[comments]</a></span> </td></tr></table>
+
+## Rethinking AWS? My company is a heavy user of AWS but we also have a diverse workforce. Anyone else rethinking their cloud approach?
+ - [https://www.reddit.com/r/technology/comments/1i8rdqc/rethinking_aws_my_company_is_a_heavy_user_of_aws](https://www.reddit.com/r/technology/comments/1i8rdqc/rethinking_aws_my_company_is_a_heavy_user_of_aws)
+ - RSS feed: $source
+ - date published: 2025-01-24T09:07:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i8rdqc/rethinking_aws_my_company_is_a_heavy_user_of_aws/"> <img src="https://external-preview.redd.it/3BaMwkce3tuv3t2edFfhbKMEF-xguFaFWi8IGMOq9GA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=007a671ef04cd60cd712de490800c857c8d81e45" alt="Rethinking AWS? My company is a heavy user of AWS but we also have a diverse workforce. Anyone else rethinking their cloud approach?" title="Rethinking AWS? My company is a heavy user of AWS but we also have a diverse workforce. Anyone else rethinking their cloud approach?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bazbabaz"> /u/bazbabaz </a> <br/> <span><a href="https://www.bbc.co.uk/news/articles/cgmy7xpw3pyo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i8rdqc/rethinking_aws_my_company_is_a_heavy_user_of_aws/">[comments]</a></span> </td></tr></table>
+
+## Instagram and Facebook Blocked and Hid Abortion Pill Providers’ Posts
+ - [https://www.reddit.com/r/technology/comments/1i8n4n7/instagram_and_facebook_blocked_and_hid_abortion](https://www.reddit.com/r/technology/comments/1i8n4n7/instagram_and_facebook_blocked_and_hid_abortion)
+ - RSS feed: $source
+ - date published: 2025-01-24T04:19:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i8n4n7/instagram_and_facebook_blocked_and_hid_abortion/"> <img src="https://external-preview.redd.it/iSMv4oNIN3l-g9OXwh-gWArKl89Huexf1Ly2fJAgvrg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ccb7716b602460d5b3c09e2ae126315eba35cb0" alt="Instagram and Facebook Blocked and Hid Abortion Pill Providers’ Posts" title="Instagram and Facebook Blocked and Hid Abortion Pill Providers’ Posts" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/silence7"> /u/silence7 </a> <br/> <span><a href="https://www.nytimes.com/2025/01/23/technology/instagram-facebook-abortion-pill-providers.html?unlocked_article_code=1.rk4.cZEX.seaOptElN-2r">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i8n4n7/instagram_and_facebook_blocked_and_hid_abortion/">[comments]</a></span> </td></tr></table>
+
+## EA shares plunge 19%, on track for worst day since dot-com bubble
+ - [https://www.reddit.com/r/technology/comments/1i8myhu/ea_shares_plunge_19_on_track_for_worst_day_since](https://www.reddit.com/r/technology/comments/1i8myhu/ea_shares_plunge_19_on_track_for_worst_day_since)
+ - RSS feed: $source
+ - date published: 2025-01-24T04:09:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i8myhu/ea_shares_plunge_19_on_track_for_worst_day_since/"> <img src="https://external-preview.redd.it/FmCD6CO4qwlboUQCZwQDHh0zGyWafFdbcacu_DE2dRo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fce26df887ec4a01564d4ca5983ee5eb4711fcf3" alt="EA shares plunge 19%, on track for worst day since dot-com bubble" title="EA shares plunge 19%, on track for worst day since dot-com bubble" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jan_the_meme_man"> /u/jan_the_meme_man </a> <br/> <span><a href="https://www.cnbc.com/2025/01/23/ea-shares-plunge-19percent-on-track-for-worst-day-since-dot-com-bubble.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i8myhu/ea_shares_plunge_19_on_track_for_worst_day_since/">[comments]</a></span> </td></tr></table>
+
+## The AI lie: how trillion-dollar hype is killing humanity
+ - [https://www.reddit.com/r/technology/comments/1i8jbw6/the_ai_lie_how_trilliondollar_hype_is_killing](https://www.reddit.com/r/technology/comments/1i8jbw6/the_ai_lie_how_trilliondollar_hype_is_killing)
+ - RSS feed: $source
+ - date published: 2025-01-24T01:02:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i8jbw6/the_ai_lie_how_trilliondollar_hype_is_killing/"> <img src="https://external-preview.redd.it/23xWqv3ICiC8md8zejJWagLp7OqprVJYDgTiVOWlRNg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dbddd49ac3fa611ea045898d8edce87a5f0755c2" alt="The AI lie: how trillion-dollar hype is killing humanity" title="The AI lie: how trillion-dollar hype is killing humanity" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Vailhem"> /u/Vailhem </a> <br/> <span><a href="https://www.techradar.com/pro/the-ai-lie-how-trillion-dollar-hype-is-killing-humanity">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i8jbw6/the_ai_lie_how_trilliondollar_hype_is_killing/">[comments]</a></span> </td></tr></table>
+
+## All federal agencies ordered to terminate remote work—ideally within 30 days | US agencies wasting billions on empty offices an “embarrassment,” RTO memo says.
+ - [https://www.reddit.com/r/technology/comments/1i8i5e6/all_federal_agencies_ordered_to_terminate_remote](https://www.reddit.com/r/technology/comments/1i8i5e6/all_federal_agencies_ordered_to_terminate_remote)
+ - RSS feed: $source
+ - date published: 2025-01-24T00:06:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1i8i5e6/all_federal_agencies_ordered_to_terminate_remote/"> <img src="https://external-preview.redd.it/90dWo4HMxJxShqLkoZBgHcgksjsgzCQY61i690K1sbA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d24f64050ab50646ae6e33f40e0f008cc3bd3978" alt="All federal agencies ordered to terminate remote work—ideally within 30 days | US agencies wasting billions on empty offices an “embarrassment,” RTO memo says." title="All federal agencies ordered to terminate remote work—ideally within 30 days | US agencies wasting billions on empty offices an “embarrassment,” RTO memo says." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://arstechnica.com/tech-policy/2025/01/all-federal-agencies-ordered-to-terminate-remote-work-ideally-within-30-days/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1i8i5e6/all_feder
+

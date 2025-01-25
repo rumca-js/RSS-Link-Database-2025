@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-24T15:00:01+00:00",
+        "description": "In this special episode of Lightcone, we\u2019re joined by YC partner and creator of Gmail Paul Buchheit to dig into some of the latest trends in the world of AI startups. We recorded our conversation at a recent retreat where 300 of the top AI founders in the world gathered to share expertise and make predictions about how this technology will shape our future. In the discussion we cover a wide range of topics including: The future of work, the power of agency and taste in an AI world and why this is the absolute best time to be building a startup.\n\nApply to Y Combinator: https://ycombinator.com/apply",
+        "id": 1971399,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=0LMK5JYkB94",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0LMK5JYkB94/hqdefault.jpg",
+        "title": "AI Revolution: Why This Is The Best Time To Start A Startup",
+        "vote": 0
+    }
+]

@@ -1,0 +1,268 @@
+# Source:Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Mexico refuses to accept a U.S. deportation flight
+ - [https://www.reddit.com/r/politics/comments/1i97f84/mexico_refuses_to_accept_a_us_deportation_flight](https://www.reddit.com/r/politics/comments/1i97f84/mexico_refuses_to_accept_a_us_deportation_flight)
+ - RSS feed: $source
+ - date published: 2025-01-24T22:07:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i97f84/mexico_refuses_to_accept_a_us_deportation_flight/"> <img src="https://external-preview.redd.it/vakleBecHG8viDOjjdl8C4RVZ-0c792LfDQ6OL3rukU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=40b1c46874aff256ee6ac83176ce42def99f01a1" alt="Mexico refuses to accept a U.S. deportation flight" title="Mexico refuses to accept a U.S. deportation flight" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br/> <span><a href="https://www.nbcnews.com/politics/immigration/mexico-refuses-accept-us-deportation-flight-rcna189182">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i97f84/mexico_refuses_to_accept_a_us_deportation_flight/">[comments]</a></span> </td></tr></table>
+
+## Capitol Rioter Turns Down Trump Pardon, Says He's No Longer MAGA: 'He Doesn't Care About Anybody Other Than Himself'
+ - [https://www.reddit.com/r/politics/comments/1i96azs/capitol_rioter_turns_down_trump_pardon_says_hes](https://www.reddit.com/r/politics/comments/1i96azs/capitol_rioter_turns_down_trump_pardon_says_hes)
+ - RSS feed: $source
+ - date published: 2025-01-24T21:19:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i96azs/capitol_rioter_turns_down_trump_pardon_says_hes/"> <img src="https://external-preview.redd.it/YcFDCo49i8ApktRHVgt0_NovgMkCIz1yTt9ku2VeTfk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=70f3741891689a8949c0baa1bbe0d9ae82736ec9" alt="Capitol Rioter Turns Down Trump Pardon, Says He's No Longer MAGA: 'He Doesn't Care About Anybody Other Than Himself'" title="Capitol Rioter Turns Down Trump Pardon, Says He's No Longer MAGA: 'He Doesn't Care About Anybody Other Than Himself'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PostHeraldTimes"> /u/PostHeraldTimes </a> <br/> <span><a href="https://www.ibtimes.com/capitol-rioter-turns-down-trump-pardon-says-hes-no-longer-maga-he-doesnt-care-about-anybody-3760856">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i96azs/capitol_rioter_turns_down_trump_pardon_says_hes/">[comments]</a></span> </td></tr></ta
+
+## Nazi Concentration Camp Memorial Attacks Elon Musk: 'Mad Extremist'
+ - [https://www.reddit.com/r/politics/comments/1i960a0/nazi_concentration_camp_memorial_attacks_elon](https://www.reddit.com/r/politics/comments/1i960a0/nazi_concentration_camp_memorial_attacks_elon)
+ - RSS feed: $source
+ - date published: 2025-01-24T21:06:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i960a0/nazi_concentration_camp_memorial_attacks_elon/"> <img src="https://external-preview.redd.it/UUd7CDyheg5F2R-W9Pz_EvJQ-L9B72gxbmaWBgkqr-w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=70d50617de475dc2e8a66a10993025c175c0f823" alt="Nazi Concentration Camp Memorial Attacks Elon Musk: 'Mad Extremist'" title="Nazi Concentration Camp Memorial Attacks Elon Musk: 'Mad Extremist'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/adorablekisses"> /u/adorablekisses </a> <br/> <span><a href="https://www.newsweek.com/nazi-concentration-camp-memorial-attacks-elon-musk-mad-extremist-2020636">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i960a0/nazi_concentration_camp_memorial_attacks_elon/">[comments]</a></span> </td></tr></table>
+
+## ICE agents attempted entry into Chicago elementary school but were not allowed inside, Chicago Public Schools officials say
+ - [https://www.reddit.com/r/politics/comments/1i95wxt/ice_agents_attempted_entry_into_chicago](https://www.reddit.com/r/politics/comments/1i95wxt/ice_agents_attempted_entry_into_chicago)
+ - RSS feed: $source
+ - date published: 2025-01-24T21:02:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i95wxt/ice_agents_attempted_entry_into_chicago/"> <img src="https://external-preview.redd.it/fxyjgHnFKThOnanmAXQi66s3zZMDAWeoBnTxnENA5lQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f4319c7306a5fe89b0ce780b33b562915280bac9" alt="ICE agents attempted entry into Chicago elementary school but were not allowed inside, Chicago Public Schools officials say" title="ICE agents attempted entry into Chicago elementary school but were not allowed inside, Chicago Public Schools officials say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tricksterloki"> /u/tricksterloki </a> <br/> <span><a href="https://www.cnn.com/2025/01/24/us/ice-agents-attempt-entry-into-chicago-elementary-school/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i95wxt/ice_agents_attempted_entry_into_chicago/">[comments]</a></span> </td></tr></table>
+
+## Trump WH Press Secretary took hundreds of thousands of dollars in illegal campaign contributions
+ - [https://www.reddit.com/r/politics/comments/1i9593x/trump_wh_press_secretary_took_hundreds_of](https://www.reddit.com/r/politics/comments/1i9593x/trump_wh_press_secretary_took_hundreds_of)
+ - RSS feed: $source
+ - date published: 2025-01-24T20:33:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i9593x/trump_wh_press_secretary_took_hundreds_of/"> <img src="https://external-preview.redd.it/tln1jxPNLvTF1oA-B_XKPsbo4eIRslD2tC6r0IySujs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d092da98f2dad9aa1c41a2e8a2cedc661085910" alt="Trump WH Press Secretary took hundreds of thousands of dollars in illegal campaign contributions" title="Trump WH Press Secretary took hundreds of thousands of dollars in illegal campaign contributions" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BelleAriel"> /u/BelleAriel </a> <br/> <span><a href="https://www.salon.com/2025/01/24/wh-press-secretary-took-hundreds-of-thousands-of-dollars-in-illegal-campaign-contributions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i9593x/trump_wh_press_secretary_took_hundreds_of/">[comments]</a></span> </td></tr></table>
+
+## Tennessee Republican women’s group cites Hitler in promoting its reading list
+ - [https://www.reddit.com/r/politics/comments/1i93uuy/tennessee_republican_womens_group_cites_hitler_in](https://www.reddit.com/r/politics/comments/1i93uuy/tennessee_republican_womens_group_cites_hitler_in)
+ - RSS feed: $source
+ - date published: 2025-01-24T19:34:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i93uuy/tennessee_republican_womens_group_cites_hitler_in/"> <img src="https://external-preview.redd.it/3echrbdLc8_yQe8zMgufikvnepHIjc72hSolB82aJ_g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=17a951319714c339a606d46ef77ee3ee333366cb" alt="Tennessee Republican women’s group cites Hitler in promoting its reading list" title="Tennessee Republican women’s group cites Hitler in promoting its reading list" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/The_Scrappy_Coco"> /u/The_Scrappy_Coco </a> <br/> <span><a href="https://www.timesfreepress.com/news/2025/jan/23/tennesssee-republican-womens-group-cites-hitler/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i93uuy/tennessee_republican_womens_group_cites_hitler_in/">[comments]</a></span> </td></tr></table>
+
+## AOC: Democrats Must Be 'Brawlers for the Working Class' to Counter Trumpism | "One of the things that we need to do is to talk to people directly," said the congresswoman. "There need to be Democrats who walk the walk and talk the talk."
+ - [https://www.reddit.com/r/politics/comments/1i93up5/aoc_democrats_must_be_brawlers_for_the_working](https://www.reddit.com/r/politics/comments/1i93up5/aoc_democrats_must_be_brawlers_for_the_working)
+ - RSS feed: $source
+ - date published: 2025-01-24T19:33:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i93up5/aoc_democrats_must_be_brawlers_for_the_working/"> <img src="https://external-preview.redd.it/D6_Px9jMASIgzGX-0hvHDQpocdIfftoGEtwNk_Bx35E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1e1316dd197ed15564f7b2fa20ea625fc0a26be" alt="AOC: Democrats Must Be 'Brawlers for the Working Class' to Counter Trumpism | &quot;One of the things that we need to do is to talk to people directly,&quot; said the congresswoman. &quot;There need to be Democrats who walk the walk and talk the talk.&quot;" title="AOC: Democrats Must Be 'Brawlers for the Working Class' to Counter Trumpism | &quot;One of the things that we need to do is to talk to people directly,&quot; said the congresswoman. &quot;There need to be Democrats who walk the walk and talk the talk.&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br/> <span><a href="https://www.commondrea
+
+## I’m Preet Bharara, former U.S. attorney and host of the “Stay Tuned with Preet” podcast. I was fired by Trump when he first took office in 2017. Ask me anything about Trump’s second term.
+ - [https://www.reddit.com/r/politics/comments/1i937o2/im_preet_bharara_former_us_attorney_and_host_of](https://www.reddit.com/r/politics/comments/1i937o2/im_preet_bharara_former_us_attorney_and_host_of)
+ - RSS feed: $source
+ - date published: 2025-01-24T19:06:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m Preet Bharara, former U.S. attorney for the Southern District of New York, and host of the <a href="https://link.chtbl.com/pqhgwhbM">Stay Tuned with Preet</a> podcast and co-host of the <a href="https://cafe.com/cafe-insider-podcast/">CAFE Insider</a> podcast.</p> <p>I’ve authored the best-selling book, &quot;Doing Justice: A Prosecutor&#39;s Thoughts on Crime, Punishment, and the Rule of Law” and was included on TIME’s list of 100 most influential people in 2012.</p> <p>In 2017, I was fired by Donald Trump when he took office for his first term. Since then, I’ve tirelessly covered Trump’s first presidency, criminal trials, legal controversies and more on my podcast, where I break down the news through the lens of the law. Now, I’ll be following Trump’s return to the White House—and there is already plenty to discuss.</p> <p>Ask me anything about Trump’s second term, criminal cases or general legal curiosities surrounding his administration.</p> 
+
+## Donald Trump in fiery call with Denmark’s prime minister over Greenland - US president insisted he wants to take over Arctic island
+ - [https://www.reddit.com/r/politics/comments/1i92vj1/donald_trump_in_fiery_call_with_denmarks_prime](https://www.reddit.com/r/politics/comments/1i92vj1/donald_trump_in_fiery_call_with_denmarks_prime)
+ - RSS feed: $source
+ - date published: 2025-01-24T18:52:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i92vj1/donald_trump_in_fiery_call_with_denmarks_prime/"> <img src="https://external-preview.redd.it/1jGBAXeYchFCrBrHZe9--szM6QQk0vw2KgvDxEaMEmw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=25b00f96f9cf7951a1bb4c111c1f8a8c80b2bbf2" alt="Donald Trump in fiery call with Denmark’s prime minister over Greenland - US president insisted he wants to take over Arctic island" title="Donald Trump in fiery call with Denmark’s prime minister over Greenland - US president insisted he wants to take over Arctic island" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/senfgurke"> /u/senfgurke </a> <br/> <span><a href="https://www.ft.com/content/ace02a6f-3307-43f8-aac3-16b6646b60f6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i92vj1/donald_trump_in_fiery_call_with_denmarks_prime/">[comments]</a></span> </td></tr></table>
+
+## Trump Promises to Completely Wreck FEMA—and Fast: Donald Trump used a trip to disaster-hit areas to promise the end of the federal disaster assistance agency.
+ - [https://www.reddit.com/r/politics/comments/1i92cwd/trump_promises_to_completely_wreck_femaand_fast](https://www.reddit.com/r/politics/comments/1i92cwd/trump_promises_to_completely_wreck_femaand_fast)
+ - RSS feed: $source
+ - date published: 2025-01-24T18:31:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i92cwd/trump_promises_to_completely_wreck_femaand_fast/"> <img src="https://external-preview.redd.it/HzVji51XeCc7tj5UahrzSA1nLBYnEMlYK2mVym2XhX0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e7aced26ab74d5586c79762a33c49609f075232e" alt="Trump Promises to Completely Wreck FEMA—and Fast: Donald Trump used a trip to disaster-hit areas to promise the end of the federal disaster assistance agency." title="Trump Promises to Completely Wreck FEMA—and Fast: Donald Trump used a trip to disaster-hit areas to promise the end of the federal disaster assistance agency." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/harsh2k5"> /u/harsh2k5 </a> <br/> <span><a href="https://newrepublic.com/post/190664/trump-promise-wreck-fema">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i92cwd/trump_promises_to_completely_wreck_femaand_fast/">[comments]</a></span> </td></
+
+## At the End of Week One, Every Dark Prediction Is Already Coming True
+ - [https://www.reddit.com/r/politics/comments/1i9230k/at_the_end_of_week_one_every_dark_prediction_is](https://www.reddit.com/r/politics/comments/1i9230k/at_the_end_of_week_one_every_dark_prediction_is)
+ - RSS feed: $source
+ - date published: 2025-01-24T18:19:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i9230k/at_the_end_of_week_one_every_dark_prediction_is/"> <img src="https://external-preview.redd.it/G8Tl4g0LbJkR8B-7Cj3DTT4pUeeT5Wk7dutOyRP39Sk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=681563b8ad259a8d7d738fa401ff022cdf068295" alt="At the End of Week One, Every Dark Prediction Is Already Coming True" title="At the End of Week One, Every Dark Prediction Is Already Coming True" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Somervilledrew"> /u/Somervilledrew </a> <br/> <span><a href="https://newrepublic.com/post/190652/trump-orders-pardons-dark-predictions-coming-true">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i9230k/at_the_end_of_week_one_every_dark_prediction_is/">[comments]</a></span> </td></tr></table>
+
+## "A new low": WSJ editorial board slams Trump for leaving ex-staffers open to assassination
+ - [https://www.reddit.com/r/politics/comments/1i91dtg/a_new_low_wsj_editorial_board_slams_trump_for](https://www.reddit.com/r/politics/comments/1i91dtg/a_new_low_wsj_editorial_board_slams_trump_for)
+ - RSS feed: $source
+ - date published: 2025-01-24T17:51:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i91dtg/a_new_low_wsj_editorial_board_slams_trump_for/"> <img src="https://external-preview.redd.it/m7heC1ksvXoDRQCNzB3ct1YwaVG1Lv6mrmg31aC8Dgc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d04546b8d0dd4cd6e1de51503ee9d19b182d70b7" alt="&quot;A new low&quot;: WSJ editorial board slams Trump for leaving ex-staffers open to assassination" title="&quot;A new low&quot;: WSJ editorial board slams Trump for leaving ex-staffers open to assassination" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/salon"> /u/salon </a> <br/> <span><a href="https://www.salon.com/2025/01/24/a-new-low-wsj-editorial-board-slams-for-leaving-ex-staffers-open-to-assassination/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i91dtg/a_new_low_wsj_editorial_board_slams_trump_for/">[comments]</a></span> </td></tr></table>
+
+## Trump has pulled Fauci’s security detail
+ - [https://www.reddit.com/r/politics/comments/1i908ob/trump_has_pulled_faucis_security_detail](https://www.reddit.com/r/politics/comments/1i908ob/trump_has_pulled_faucis_security_detail)
+ - RSS feed: $source
+ - date published: 2025-01-24T17:04:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i908ob/trump_has_pulled_faucis_security_detail/"> <img src="https://external-preview.redd.it/_BdSVj1z9vNaDqIvOP8AHCr5JbilMmb8bFPMCuXP19s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=405ee2e4210a3c5a1453fc868b94906847a21abd" alt="Trump has pulled Fauci’s security detail" title="Trump has pulled Fauci’s security detail" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pisspie"> /u/Pisspie </a> <br/> <span><a href="https://amp.cnn.com/cnn/2025/01/24/politics/anthony-fauci-security-detail-trump">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i908ob/trump_has_pulled_faucis_security_detail/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk doesn't deserve the benefit of the doubt
+ - [https://www.reddit.com/r/politics/comments/1i9044u/elon_musk_doesnt_deserve_the_benefit_of_the_doubt](https://www.reddit.com/r/politics/comments/1i9044u/elon_musk_doesnt_deserve_the_benefit_of_the_doubt)
+ - RSS feed: $source
+ - date published: 2025-01-24T16:59:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i9044u/elon_musk_doesnt_deserve_the_benefit_of_the_doubt/"> <img src="https://external-preview.redd.it/1okhQcSEbg_pWtkh_rmvHaShibb0piMBwQHiLRWSzl8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=625c95790eded121e22bf775acbf94ad31519c44" alt="Elon Musk doesn't deserve the benefit of the doubt" title="Elon Musk doesn't deserve the benefit of the doubt" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/xdxdezpzgetrekt"> /u/xdxdezpzgetrekt </a> <br/> <span><a href="https://www.vox.com/politics/396535/elon-musk-nazi-salute-trump-inauguration">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i9044u/elon_musk_doesnt_deserve_the_benefit_of_the_doubt/">[comments]</a></span> </td></tr></table>
+
+## Trump recommends ending FEMA ahead of California fire site visit
+ - [https://www.reddit.com/r/politics/comments/1i8zytn/trump_recommends_ending_fema_ahead_of_california](https://www.reddit.com/r/politics/comments/1i8zytn/trump_recommends_ending_fema_ahead_of_california)
+ - RSS feed: $source
+ - date published: 2025-01-24T16:53:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8zytn/trump_recommends_ending_fema_ahead_of_california/"> <img src="https://external-preview.redd.it/-sE-2HDWOo8-4qUS5W8PX70trDXsoud9gDCTI_4IVu0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c8689ddc09abd0ad924a77c9ee5e810dcd834f59" alt="Trump recommends ending FEMA ahead of California fire site visit" title="Trump recommends ending FEMA ahead of California fire site visit" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/superfluousapostroph"> /u/superfluousapostroph </a> <br/> <span><a href="https://www.cnbc.com/2025/01/24/trump-recommends-ending-fema-ahead-of-california-fire-site-visit.html?__source=iosappshare%7Ccom.google.GoogleMobile.SearchOnGoogleShareExtension">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8zytn/trump_recommends_ending_fema_ahead_of_california/">[comments]</a></span> </td></tr></table>
+
+## Executive orders show Trump is already running Project 2025 playbook despite denials - Trump distanced himself from Project 2025 during campaign but implemented many of its proposals in first week
+ - [https://www.reddit.com/r/politics/comments/1i8zb7q/executive_orders_show_trump_is_already_running](https://www.reddit.com/r/politics/comments/1i8zb7q/executive_orders_show_trump_is_already_running)
+ - RSS feed: $source
+ - date published: 2025-01-24T16:25:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8zb7q/executive_orders_show_trump_is_already_running/"> <img src="https://external-preview.redd.it/FieuFeGSEC4PqvvYHse55_hqUZOPIWNgyVqdG5DeYUo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b147dce1ddf46d91508c7105a9716d1778af8d53" alt="Executive orders show Trump is already running Project 2025 playbook despite denials - Trump distanced himself from Project 2025 during campaign but implemented many of its proposals in first week" title="Executive orders show Trump is already running Project 2025 playbook despite denials - Trump distanced himself from Project 2025 during campaign but implemented many of its proposals in first week" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br/> <span><a href="https://www.salon.com/2025/01/24/executive-orders-show-is-already-running-project-2025-playbook-despite-denials/">[link]</a></span> &#32; <span><a href="https
+
+## DOGE Will Allow Elon Musk to Surveil the US Government From the Inside
+ - [https://www.reddit.com/r/politics/comments/1i8ydbh/doge_will_allow_elon_musk_to_surveil_the_us](https://www.reddit.com/r/politics/comments/1i8ydbh/doge_will_allow_elon_musk_to_surveil_the_us)
+ - RSS feed: $source
+ - date published: 2025-01-24T15:45:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8ydbh/doge_will_allow_elon_musk_to_surveil_the_us/"> <img src="https://external-preview.redd.it/sBWbq80r5uy34VQWQhFmlXX3K9cFz5hdB49ysI4yPNA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c3dbb9b13614a647f4930b40d89ac1bf3d42bc05" alt="DOGE Will Allow Elon Musk to Surveil the US Government From the Inside" title="DOGE Will Allow Elon Musk to Surveil the US Government From the Inside" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wiredmagazine"> /u/wiredmagazine </a> <br/> <span><a href="https://www.wired.com/story/doge-elon-musk/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8ydbh/doge_will_allow_elon_musk_to_surveil_the_us/">[comments]</a></span> </td></tr></table>
+
+## Trump’s neofascism is here now. Here are 10 things you can do to resist
+ - [https://www.reddit.com/r/politics/comments/1i8y282/trumps_neofascism_is_here_now_here_are_10_things](https://www.reddit.com/r/politics/comments/1i8y282/trumps_neofascism_is_here_now_here_are_10_things)
+ - RSS feed: $source
+ - date published: 2025-01-24T15:32:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8y282/trumps_neofascism_is_here_now_here_are_10_things/"> <img src="https://external-preview.redd.it/JdQmMWyjGvYJ7tQj9dLMiRNToNjQcpX62eVNXee7ies.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=58bc2a4ad09847f2fa8309f534b906c18ce80534" alt="Trump’s neofascism is here now. Here are 10 things you can do to resist" title="Trump’s neofascism is here now. Here are 10 things you can do to resist" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EditorRedditer"> /u/EditorRedditer </a> <br/> <span><a href="https://www.theguardian.com/commentisfree/2025/jan/24/trump-fascism-what-to-do?CMP=Share_iOSApp_Other">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8y282/trumps_neofascism_is_here_now_here_are_10_things/">[comments]</a></span> </td></tr></table>
+
+## 'We Have Seen a Lot More Hate’: Trans People Are Already Terrified
+ - [https://www.reddit.com/r/politics/comments/1i8xtqm/we_have_seen_a_lot_more_hate_trans_people_are](https://www.reddit.com/r/politics/comments/1i8xtqm/we_have_seen_a_lot_more_hate_trans_people_are)
+ - RSS feed: $source
+ - date published: 2025-01-24T15:22:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8xtqm/we_have_seen_a_lot_more_hate_trans_people_are/"> <img src="https://external-preview.redd.it/URYZ1Hk83N1404E5csBRhf3oYYAsTcLY_IoBM3JeV3E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d0935bbf0dac82579e2c04d0a2759b72f9002784" alt="'We Have Seen a Lot More Hate’: Trans People Are Already Terrified" title="'We Have Seen a Lot More Hate’: Trans People Are Already Terrified" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wiredmagazine"> /u/wiredmagazine </a> <br/> <span><a href="https://www.wired.com/story/trump-executive-order-transgender-kids/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8xtqm/we_have_seen_a_lot_more_hate_trans_people_are/">[comments]</a></span> </td></tr></table>
+
+## Musk Melts Down Over Criticism of His Provocative Salute
+ - [https://www.reddit.com/r/politics/comments/1i8xecr/musk_melts_down_over_criticism_of_his_provocative](https://www.reddit.com/r/politics/comments/1i8xecr/musk_melts_down_over_criticism_of_his_provocative)
+ - RSS feed: $source
+ - date published: 2025-01-24T15:03:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8xecr/musk_melts_down_over_criticism_of_his_provocative/"> <img src="https://external-preview.redd.it/dhQCR8HGTDljLgwbYzfdrPCHDypyr0QRYHFLTMUzIrA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b1506e41b5feb96840bf8c85791db275e971324" alt="Musk Melts Down Over Criticism of His Provocative Salute" title="Musk Melts Down Over Criticism of His Provocative Salute" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Boonzies"> /u/Boonzies </a> <br/> <span><a href="https://www.thedailybeast.com/musk-melts-down-over-criticism-of-his-provocative-salute/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8xecr/musk_melts_down_over_criticism_of_his_provocative/">[comments]</a></span> </td></tr></table>
+
+## Discussion Thread: Senate Debates and Votes on Nomination of Pete Hegseth for Defense Secretary
+ - [https://www.reddit.com/r/politics/comments/1i8xdlf/discussion_thread_senate_debates_and_votes_on](https://www.reddit.com/r/politics/comments/1i8xdlf/discussion_thread_senate_debates_and_votes_on)
+ - RSS feed: $source
+ - date published: 2025-01-24T15:03:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Debate is expected to start at 10 a.m. Eastern, and the vote is expected around 9 p.m. tonight.</p> <p><strong>News and Analysis</strong></p> <ul> <li><p>AP: <a href="https://apnews.com/article/pete-hegseth-defense-secretary-pentagon-trump-confirmation-79d38a3d821eda7e03789e857b417a7f">Senate advances Pete Hegseth as Trump’s defense secretary, despite allegations</a></p></li> <li><p>CBS: <a href="https://www.cbsnews.com/news/hegseth-democrats-concerned-about-his-character/">Senate to vote on Hegseth confirmation as defense secretary as Democrats continue to raise concerns</a></p></li> <li><p>NBC: <a href="https://www.nbcnews.com/politics/congress/pete-hegseths-nomination-lead-pentagon-clears-key-hurdle-senate-rcna188932">Pete Hegseth&#39;s nomination to lead the Pentagon clears a key hurdle in the Senate | Senators voted 51-49 to advance Hegseth&#39;s defense secretary bid, which has been mired in several controversies. Two Republicans oppose him.</a
+
+## New GOP bill would let Trump (but not Obama) run for a third term
+ - [https://www.reddit.com/r/politics/comments/1i8x08y/new_gop_bill_would_let_trump_but_not_obama_run](https://www.reddit.com/r/politics/comments/1i8x08y/new_gop_bill_would_let_trump_but_not_obama_run)
+ - RSS feed: $source
+ - date published: 2025-01-24T14:46:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8x08y/new_gop_bill_would_let_trump_but_not_obama_run/"> <img src="https://external-preview.redd.it/SJLlFHi-o7m3Ptb7iEy9G-DGXNvFlBC7h7NzR0ytlns.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9a2bd309c243ce75dd58018a37b13161110f6dbf" alt="New GOP bill would let Trump (but not Obama) run for a third term" title="New GOP bill would let Trump (but not Obama) run for a third term" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TexanToTheSoul"> /u/TexanToTheSoul </a> <br/> <span><a href="https://www.msnbc.com/rachel-maddow-show/maddowblog/new-gop-bill-let-trump-not-obama-run-third-term-rcna189099">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8x08y/new_gop_bill_would_let_trump_but_not_obama_run/">[comments]</a></span> </td></tr></table>
+
+## Trump returns — and so does his astounding ignorance
+ - [https://www.reddit.com/r/politics/comments/1i8wdui/trump_returns_and_so_does_his_astounding_ignorance](https://www.reddit.com/r/politics/comments/1i8wdui/trump_returns_and_so_does_his_astounding_ignorance)
+ - RSS feed: $source
+ - date published: 2025-01-24T14:17:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8wdui/trump_returns_and_so_does_his_astounding_ignorance/"> <img src="https://external-preview.redd.it/ZjVaMjjeLyNh4egMq0Fx_CnDFvkdZ3cInGKRBAHEn40.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fd569a890759867a9ee9b0d9d6db205b799cffd1" alt="Trump returns — and so does his astounding ignorance" title="Trump returns — and so does his astounding ignorance" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mintaphil"> /u/mintaphil </a> <br/> <span><a href="https://www.washingtonpost.com/opinions/2025/01/24/trump-first-week-executive-orders-actions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8wdui/trump_returns_and_so_does_his_astounding_ignorance/">[comments]</a></span> </td></tr></table>
+
+## MAGA Fever Has Overwhelmed Common Sense at a Local TV Station in Milwaukee
+ - [https://www.reddit.com/r/politics/comments/1i8wd2y/maga_fever_has_overwhelmed_common_sense_at_a](https://www.reddit.com/r/politics/comments/1i8wd2y/maga_fever_has_overwhelmed_common_sense_at_a)
+ - RSS feed: $source
+ - date published: 2025-01-24T14:16:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8wd2y/maga_fever_has_overwhelmed_common_sense_at_a/"> <img src="https://external-preview.redd.it/RPFq03Nsm9J22PlMsemH0GfYnzL_IVcPP8BM-Ct7LdI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6cce4b698ea49a28e35c1a0db848d34d23966e70" alt="MAGA Fever Has Overwhelmed Common Sense at a Local TV Station in Milwaukee" title="MAGA Fever Has Overwhelmed Common Sense at a Local TV Station in Milwaukee" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Esquire"> /u/Esquire </a> <br/> <span><a href="https://www.esquire.com/news-politics/politics/a63532380/milwaukee-weather-forecaster-job-musk-salute/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8wd2y/maga_fever_has_overwhelmed_common_sense_at_a/">[comments]</a></span> </td></tr></table>
+
+## Egg Prices Are High. They Will Likely Go Higher.
+ - [https://www.reddit.com/r/politics/comments/1i8vkcr/egg_prices_are_high_they_will_likely_go_higher](https://www.reddit.com/r/politics/comments/1i8vkcr/egg_prices_are_high_they_will_likely_go_higher)
+ - RSS feed: $source
+ - date published: 2025-01-24T13:38:09+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/DomesticErrorist22"> /u/DomesticErrorist22 </a> <br/> <span><a href="https://www.nytimes.com/2025/01/24/business/egg-shortage-prices.html?unlocked_article_code=1.rk4.MIFl.7gWIs0m25vAe">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8vkcr/egg_prices_are_high_they_will_likely_go_higher/">[comments]</a></span>
+
+## How Trump's executive orders mirror Project 2025 proposals
+ - [https://www.reddit.com/r/politics/comments/1i8vhrn/how_trumps_executive_orders_mirror_project_2025](https://www.reddit.com/r/politics/comments/1i8vhrn/how_trumps_executive_orders_mirror_project_2025)
+ - RSS feed: $source
+ - date published: 2025-01-24T13:34:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8vhrn/how_trumps_executive_orders_mirror_project_2025/"> <img src="https://external-preview.redd.it/x7ktFhRIpyfIid_k10-o_9iUhqTW-JASXQmyIruvMi4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e566de14ca1c57e6ba8e099e8084879f11a8cedb" alt="How Trump's executive orders mirror Project 2025 proposals" title="How Trump's executive orders mirror Project 2025 proposals" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hurtme_plenty"> /u/hurtme_plenty </a> <br/> <span><a href="https://www.axios.com/2025/01/23/trump-executive-orders-list-project-2025-policies">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8vhrn/how_trumps_executive_orders_mirror_project_2025/">[comments]</a></span> </td></tr></table>
+
+## Trump Pentagon nominee endorses extremist Christian doctrine
+ - [https://www.reddit.com/r/politics/comments/1i8uop8/trump_pentagon_nominee_endorses_extremist](https://www.reddit.com/r/politics/comments/1i8uop8/trump_pentagon_nominee_endorses_extremist)
+ - RSS feed: $source
+ - date published: 2025-01-24T12:52:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8uop8/trump_pentagon_nominee_endorses_extremist/"> <img src="https://external-preview.redd.it/pYqvRO41MV2G2CVU5D22kmu9n9Tb1GmO2JTftKE0kTE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a1f7f8361765b93dcb1c5c7736e123ccc44985a6" alt="Trump Pentagon nominee endorses extremist Christian doctrine" title="Trump Pentagon nominee endorses extremist Christian doctrine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br/> <span><a href="https://www.theguardian.com/us-news/2025/jan/24/trump-pete-hegseth-extremism">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8uop8/trump_pentagon_nominee_endorses_extremist/">[comments]</a></span> </td></tr></table>
+
+## Trump's Early Actions Mirror Project 2025 Plan He Once Dismissed
+ - [https://www.reddit.com/r/politics/comments/1i8ue2d/trumps_early_actions_mirror_project_2025_plan_he](https://www.reddit.com/r/politics/comments/1i8ue2d/trumps_early_actions_mirror_project_2025_plan_he)
+ - RSS feed: $source
+ - date published: 2025-01-24T12:36:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8ue2d/trumps_early_actions_mirror_project_2025_plan_he/"> <img src="https://external-preview.redd.it/jFMynaO8P7ycTlceuMGrv4sU2g1bXUQQDuHGUqp0Fqo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6867ec6beb9c3eb0ee6401314176ecba95fe5d8f" alt="Trump's Early Actions Mirror Project 2025 Plan He Once Dismissed" title="Trump's Early Actions Mirror Project 2025 Plan He Once Dismissed" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloomberg"> /u/bloomberg </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2025-01-24/trump-s-early-actions-mirror-project-2025-plan-he-once-dismissed">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8ue2d/trumps_early_actions_mirror_project_2025_plan_he/">[comments]</a></span> </td></tr></table>
+
+## Trump’s Plan to Crush the Academic Left
+ - [https://www.reddit.com/r/politics/comments/1i8tic8/trumps_plan_to_crush_the_academic_left](https://www.reddit.com/r/politics/comments/1i8tic8/trumps_plan_to_crush_the_academic_left)
+ - RSS feed: $source
+ - date published: 2025-01-24T11:42:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8tic8/trumps_plan_to_crush_the_academic_left/"> <img src="https://external-preview.redd.it/IP1ouUHjlD-bAfZR6SVQg9C1ifnnC8i1yDp5g_WKeCM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=33eea7a88829a486dd89af02ecee1dec3021cc70" alt="Trump’s Plan to Crush the Academic Left" title="Trump’s Plan to Crush the Academic Left" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WildYams"> /u/WildYams </a> <br/> <span><a href="https://www.nytimes.com/2025/01/24/opinion/trump-dei-education-harvard.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8tic8/trumps_plan_to_crush_the_academic_left/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump is not waiting for RFK Jr. — he has already started his war on public health
+ - [https://www.reddit.com/r/politics/comments/1i8sz05/donald_trump_is_not_waiting_for_rfk_jr_he_has](https://www.reddit.com/r/politics/comments/1i8sz05/donald_trump_is_not_waiting_for_rfk_jr_he_has)
+ - RSS feed: $source
+ - date published: 2025-01-24T11:05:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8sz05/donald_trump_is_not_waiting_for_rfk_jr_he_has/"> <img src="https://external-preview.redd.it/m05o3MGPDiAHEYglIFEag0FSV86MdEMjiB979VSl8g4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=db85a72100e662e101cb8182b780f68d572c47fc" alt="Donald Trump is not waiting for RFK Jr. — he has already started his war on public health" title="Donald Trump is not waiting for RFK Jr. — he has already started his war on public health" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br/> <span><a href="https://www.salon.com/2025/01/24/donald-is-not-waiting-for-rfk-jr--he-has-already-started-his-on-public-health/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8sz05/donald_trump_is_not_waiting_for_rfk_jr_he_has/">[comments]</a></span> </td></tr></table>
+
+## Mayor Rages as U.S. Military Vet Nabbed in Trump’s Much-Hyped ICE Raids
+ - [https://www.reddit.com/r/politics/comments/1i8sriu/mayor_rages_as_us_military_vet_nabbed_in_trumps](https://www.reddit.com/r/politics/comments/1i8sriu/mayor_rages_as_us_military_vet_nabbed_in_trumps)
+ - RSS feed: $source
+ - date published: 2025-01-24T10:51:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8sriu/mayor_rages_as_us_military_vet_nabbed_in_trumps/"> <img src="https://external-preview.redd.it/UQFluE8wxMJ83o1KcL58vyQVlQ6AK6yrpttEv_SNSsc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5ac59659fc9ff3fc6d83da6a4853f57fd454433" alt="Mayor Rages as U.S. Military Vet Nabbed in Trump’s Much-Hyped ICE Raids" title="Mayor Rages as U.S. Military Vet Nabbed in Trump’s Much-Hyped ICE Raids" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/9lobaldude"> /u/9lobaldude </a> <br/> <span><a href="https://www.thedailybeast.com/mayor-rages-as-trumps-much-hyped-ice-raids-nab-us-military-vet/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8sriu/mayor_rages_as_us_military_vet_nabbed_in_trumps/">[comments]</a></span> </td></tr></table>
+
+## Schools in Massachusetts' second largest city won't coordinate with ICE, warn about agents at bus stops
+ - [https://www.reddit.com/r/politics/comments/1i8sfx4/schools_in_massachusetts_second_largest_city_wont](https://www.reddit.com/r/politics/comments/1i8sfx4/schools_in_massachusetts_second_largest_city_wont)
+ - RSS feed: $source
+ - date published: 2025-01-24T10:28:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8sfx4/schools_in_massachusetts_second_largest_city_wont/"> <img src="https://external-preview.redd.it/7rSv-N5KtqiUfCAsDUq955y1reAoHB7cIaD6Xa8OowI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b98a3613d886142b7b1fcecbfee65ab372b257ce" alt="Schools in Massachusetts' second largest city won't coordinate with ICE, warn about agents at bus stops" title="Schools in Massachusetts' second largest city won't coordinate with ICE, warn about agents at bus stops" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MothersMiIk"> /u/MothersMiIk </a> <br/> <span><a href="https://www.cbsnews.com/amp/boston/news/worcester-schools-immigration-ice-agents-bus-stop/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8sfx4/schools_in_massachusetts_second_largest_city_wont/">[comments]</a></span> </td></tr></table>
+
+## I Prosecuted the Capitol Rioters. They Have Never Been More Dangerous.
+ - [https://www.reddit.com/r/politics/comments/1i8s609/i_prosecuted_the_capitol_rioters_they_have_never](https://www.reddit.com/r/politics/comments/1i8s609/i_prosecuted_the_capitol_rioters_they_have_never)
+ - RSS feed: $source
+ - date published: 2025-01-24T10:08:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8s609/i_prosecuted_the_capitol_rioters_they_have_never/"> <img src="https://external-preview.redd.it/4udH6eWw0jGylzgvbF-R7iswJqaODWXIFoEhOOqMQ-Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=83cd7fae7930f6d37147cb354de3f13a02725097" alt="I Prosecuted the Capitol Rioters. They Have Never Been More Dangerous." title="I Prosecuted the Capitol Rioters. They Have Never Been More Dangerous." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nytopinion"> /u/nytopinion </a> <br/> <span><a href="https://www.nytimes.com/2025/01/24/opinion/trump-pardon-jan-6-capitol.html?unlocked_article_code=1.rk4.-GWG.vLXiY_1kWkvt&amp;smid=re-nytopinion">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8s609/i_prosecuted_the_capitol_rioters_they_have_never/">[comments]</a></span> </td></tr></table>
+
+## So much for ‘looking forward’: GOP launches new Jan. 6 investigation
+ - [https://www.reddit.com/r/politics/comments/1i8lxjb/so_much_for_looking_forward_gop_launches_new_jan](https://www.reddit.com/r/politics/comments/1i8lxjb/so_much_for_looking_forward_gop_launches_new_jan)
+ - RSS feed: $source
+ - date published: 2025-01-24T03:13:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8lxjb/so_much_for_looking_forward_gop_launches_new_jan/"> <img src="https://external-preview.redd.it/9l-ex6cSVECDQK3m_tKYCz5VkT6DVvG2-ry3pk3bGlk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87f0b0115b13fea0380c8af8e2ddc03d8b2003a8" alt="So much for ‘looking forward’: GOP launches new Jan. 6 investigation" title="So much for ‘looking forward’: GOP launches new Jan. 6 investigation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/duderos"> /u/duderos </a> <br/> <span><a href="https://www.msnbc.com/rachel-maddow-show/maddowblog/much-looking-forward-gop-launches-new-jan-6-investigation-rcna188916">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8lxjb/so_much_for_looking_forward_gop_launches_new_jan/">[comments]</a></span> </td></tr></table>
+
+## Republican Floats Constitutional Amendment to Allow Trump a Third Term
+ - [https://www.reddit.com/r/politics/comments/1i8jqd2/republican_floats_constitutional_amendment_to](https://www.reddit.com/r/politics/comments/1i8jqd2/republican_floats_constitutional_amendment_to)
+ - RSS feed: $source
+ - date published: 2025-01-24T01:21:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8jqd2/republican_floats_constitutional_amendment_to/"> <img src="https://external-preview.redd.it/YfOlGvmuNccX6aF-WBmG2XOOdkhzFIuaTFbx3DMgaFY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4a9cb2927593db48af8156afe444d439d254773" alt="Republican Floats Constitutional Amendment to Allow Trump a Third Term" title="Republican Floats Constitutional Amendment to Allow Trump a Third Term" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Humpty_Dumps"> /u/Humpty_Dumps </a> <br/> <span><a href="https://www.newsweek.com/third-trump-term-amendment-constitution-ogles-2020058">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8jqd2/republican_floats_constitutional_amendment_to/">[comments]</a></span> </td></tr></table>
+
+## Bishop won't apologize for asking Donald Trump to have mercy on immigrants, trans Americans
+ - [https://www.reddit.com/r/politics/comments/1i8jhj3/bishop_wont_apologize_for_asking_donald_trump_to](https://www.reddit.com/r/politics/comments/1i8jhj3/bishop_wont_apologize_for_asking_donald_trump_to)
+ - RSS feed: $source
+ - date published: 2025-01-24T01:09:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8jhj3/bishop_wont_apologize_for_asking_donald_trump_to/"> <img src="https://external-preview.redd.it/J8DH-l4JCIhxUGo-yh89a42iNcLO54eO6qXYkC71m2Y.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=994d535355df9c3918638c41b2a3fc70d57a766b" alt="Bishop won't apologize for asking Donald Trump to have mercy on immigrants, trans Americans" title="Bishop won't apologize for asking Donald Trump to have mercy on immigrants, trans Americans" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Substantial_Web_6306"> /u/Substantial_Web_6306 </a> <br/> <span><a href="https://www.cbc.ca/news/world/bishop-trump-no-apology-1.7439898">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8jhj3/bishop_wont_apologize_for_asking_donald_trump_to/">[comments]</a></span> </td></tr></table>
+
+## MAGA Rep Wants to Rewrite Constitution to Give Donald Trump a Third Term
+ - [https://www.reddit.com/r/politics/comments/1i8j2v6/maga_rep_wants_to_rewrite_constitution_to_give](https://www.reddit.com/r/politics/comments/1i8j2v6/maga_rep_wants_to_rewrite_constitution_to_give)
+ - RSS feed: $source
+ - date published: 2025-01-24T00:50:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8j2v6/maga_rep_wants_to_rewrite_constitution_to_give/"> <img src="https://external-preview.redd.it/uTfFh1ZHysX4DDKlr8ylm1ZVft4t4IEOOseiTLz9lBM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2741fda21df4bd57bba5974b024650ef3b9b3617" alt="MAGA Rep Wants to Rewrite Constitution to Give Donald Trump a Third Term" title="MAGA Rep Wants to Rewrite Constitution to Give Donald Trump a Third Term" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ObjectiveAd6551"> /u/ObjectiveAd6551 </a> <br/> <span><a href="https://www.thedailybeast.com/maga-rep-wants-to-rewrite-constitution-to-give-donald-trump-a-third-term/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8j2v6/maga_rep_wants_to_rewrite_constitution_to_give/">[comments]</a></span> </td></tr></table>
+
+## House GOP measure would let Trump seek third term
+ - [https://www.reddit.com/r/politics/comments/1i8ih2w/house_gop_measure_would_let_trump_seek_third_term](https://www.reddit.com/r/politics/comments/1i8ih2w/house_gop_measure_would_let_trump_seek_third_term)
+ - RSS feed: $source
+ - date published: 2025-01-24T00:21:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1i8ih2w/house_gop_measure_would_let_trump_seek_third_term/"> <img src="https://external-preview.redd.it/QRj01KXEGzctlGT3hcB-POH6NPMjS1Ha0ihfNrycl_E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0832ef5065ee5ee9aeafc00f27af0d65b34179c4" alt="House GOP measure would let Trump seek third term" title="House GOP measure would let Trump seek third term" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DJMagicHandz"> /u/DJMagicHandz </a> <br/> <span><a href="https://www.axios.com/2025/01/24/trump-third-term-republican-constitution-ogles">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1i8ih2w/house_gop_measure_would_let_trump_seek_third_term/">[comments]</a></span> </td></tr></table>
+

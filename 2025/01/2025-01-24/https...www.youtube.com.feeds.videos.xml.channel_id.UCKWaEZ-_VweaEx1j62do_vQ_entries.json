@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-24T11:00:12+00:00",
+        "description": "Learn more about artificial intelligence: https://ibm.biz/BdGSFC\n\nWhat does the future hold for DeepSeek? In episode 39 of Mixture of Experts, join host Tim Hwang along with experts Abraham Daniels, Kaoutar El Maghraoui and Skyler Speakman to discuss the release of DeepSeek-R1. Next, Mistral indicates going IPO. Then, FrontierMath\u2019s new benchmark is particularly difficult, the experts debrief. Finally, IDC released a report on code assistants, what do we need to know about generalist and specialized coding assistants? Tune-in to this week\u2019s episode to find out. \n\n00:01 \u2013 Intro  \n01:08 \u2013 DeepSeek-R1 \n14:08 \u2013 Mistral indicates IPO \n20:54 \u2013 FrontierMath controversy \n30:04 -- IDC code assistants report \n\nSubscribe for AI updates: https://ibm.biz/BdGSRP\n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entity.",
+        "id": 1971758,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=86rz0mV3jZE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/86rz0mV3jZE/hqdefault.jpg",
+        "title": "DeepSeek-R1, Mistral IPO, FrontierMath controversy, and IDC code assistant report",
+        "vote": 0
+    }
+]

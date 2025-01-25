@@ -1,0 +1,198 @@
+# Source:Crack Support, URL:https://www.reddit.com/r/CrackSupport/.rss, language:
+
+## Call of duty Black ops1, cannot find zone error fix for dodi repack and maybe other repacks i dunno...
+ - [https://www.reddit.com/r/CrackSupport/comments/1i975mc/call_of_duty_black_ops1_cannot_find_zone_error](https://www.reddit.com/r/CrackSupport/comments/1i975mc/call_of_duty_black_ops1_cannot_find_zone_error)
+ - RSS feed: $source
+ - date published: 2025-01-24T21:56:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1i975mc/call_of_duty_black_ops1_cannot_find_zone_error/"> <img src="https://b.thumbs.redditmedia.com/kTiXznRNeGK2ZwFA8gbOOUJL9sTHopfQuqv9XR17BdY.jpg" alt="Call of duty Black ops1, cannot find zone error fix for dodi repack and maybe other repacks i dunno..." title="Call of duty Black ops1, cannot find zone error fix for dodi repack and maybe other repacks i dunno..." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>After you complete installing the game it will create desktop shortcut(image no.1) and then when you click on it it will display &#39;cannot find zone error&#39;</p> <p>So what i did is close game from task manager then opend it from dodi repack setup(image no.2) Open it and click on game photo(image no.3) and it asked me to go safe mode i pressed no then game opened and ran smoothly.</p> <p>I also made compatbility from properities to windows vista cuz i read it somewhere dunno if that helped or n
+
+## Demise of getintopc.com
+ - [https://www.reddit.com/r/CrackSupport/comments/1i964tj/demise_of_getintopccom](https://www.reddit.com/r/CrackSupport/comments/1i964tj/demise_of_getintopccom)
+ - RSS feed: $source
+ - date published: 2025-01-24T21:11:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I stopped using getintopc probably before 3 years ago. Now when i have returned to use it it was completely deserted when it comes to the apps. Any reasons why? And are there any alternatives 😅? Pls</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jjtkiller"> /u/jjtkiller </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i964tj/demise_of_getintopccom/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i964tj/demise_of_getintopccom/">[comments]</a></span>
+
+## planet coaster 2 crack
+ - [https://www.reddit.com/r/CrackSupport/comments/1i94ypr/planet_coaster_2_crack](https://www.reddit.com/r/CrackSupport/comments/1i94ypr/planet_coaster_2_crack)
+ - RSS feed: $source
+ - date published: 2025-01-24T20:21:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>does anyone have an idea of when planet coaster 2 will be cracked?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Worldly_Living_6950"> /u/Worldly_Living_6950 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i94ypr/planet_coaster_2_crack/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i94ypr/planet_coaster_2_crack/">[comments]</a></span>
+
+## Where to pirate titan clinic
+ - [https://www.reddit.com/r/CrackSupport/comments/1i943et/where_to_pirate_titan_clinic](https://www.reddit.com/r/CrackSupport/comments/1i943et/where_to_pirate_titan_clinic)
+ - RSS feed: $source
+ - date published: 2025-01-24T19:44:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>where?????????</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Philosopher-7727"> /u/Ok-Philosopher-7727 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i943et/where_to_pirate_titan_clinic/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i943et/where_to_pirate_titan_clinic/">[comments]</a></span>
+
+## Hitman world of assassination simple mod framework error (Unhandled promise rejection)
+ - [https://www.reddit.com/r/CrackSupport/comments/1i91bxm/hitman_world_of_assassination_simple_mod](https://www.reddit.com/r/CrackSupport/comments/1i91bxm/hitman_world_of_assassination_simple_mod)
+ - RSS feed: $source
+ - date published: 2025-01-24T17:49:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1i91bxm/hitman_world_of_assassination_simple_mod/"> <img src="https://b.thumbs.redditmedia.com/XRD3FisK978nK9QKPdMbVU6mlK9hP7pIWmR4Q_LzyuM.jpg" alt="Hitman world of assassination simple mod framework error (Unhandled promise rejection)" title="Hitman world of assassination simple mod framework error (Unhandled promise rejection)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/88dk5ha7bzee1.png?width=869&amp;format=png&amp;auto=webp&amp;s=11b3d1033fedbcf6f21e1426e42bc8a0ff786a6b">https://preview.redd.it/88dk5ha7bzee1.png?width=869&amp;format=png&amp;auto=webp&amp;s=11b3d1033fedbcf6f21e1426e42bc8a0ff786a6b</a></p> <p>how can i fix this i have a pirated version of hitman 3 </p> <pre><code>ERROR Unhandled promise rejection! Error: Command failed: &quot;Third-Party\HMLanguageTools&quot; convert H3 LOCR &quot;D:\Games\HITMAN - World of Assassination\Simple Mod Framework\temp\chunk
+
+## Is HackTool:Win32/Crack!pz safe?
+ - [https://www.reddit.com/r/CrackSupport/comments/1i906jr/is_hacktoolwin32crackpz_safe](https://www.reddit.com/r/CrackSupport/comments/1i906jr/is_hacktoolwin32crackpz_safe)
+ - RSS feed: $source
+ - date published: 2025-01-24T17:02:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>So i was downloading COD Modern warfare, i extracted it (it also had a password so i simply typed in the passwornd and extracted the file in winrar) i hovered my mouse to the game&#39;s exe file when my Windows defender told me theres a threat, which was HackTool:Win32/Crack!pz (shortly Hacktool:Win32) is it safe?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/alphasahin1236857"> /u/alphasahin1236857 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i906jr/is_hacktoolwin32crackpz_safe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i906jr/is_hacktoolwin32crackpz_safe/">[comments]</a></span>
+
+## Us there anyway to pirate premium stock photos,videos,sfx,music tracks?
+ - [https://www.reddit.com/r/CrackSupport/comments/1i901yu/us_there_anyway_to_pirate_premium_stock](https://www.reddit.com/r/CrackSupport/comments/1i901yu/us_there_anyway_to_pirate_premium_stock)
+ - RSS feed: $source
+ - date published: 2025-01-24T16:57:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>And if yes how? I am a premier pro user on Windows 10 (if that helps) Thanks in advance</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/This_Link9471"> /u/This_Link9471 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i901yu/us_there_anyway_to_pirate_premium_stock/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i901yu/us_there_anyway_to_pirate_premium_stock/">[comments]</a></span>
+
+## Game not opening after installation
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8z2jn/game_not_opening_after_installation](https://www.reddit.com/r/CrackSupport/comments/1i8z2jn/game_not_opening_after_installation)
+ - RSS feed: $source
+ - date published: 2025-01-24T16:15:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ive downloaded Alan Wake 2 as an Direct Download on fitgirl. I tried to open the game but it just asks me if the game is allowed to do sth on my PC. I agreed but the game wont start. I checked the task manager and it showed that the game was running multiple times cause I tried it multiple times... Right after the download I got two popups for I sth to install but I didnt know what that was so I skipped it... was that important?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/R4nd0mUs3r12"> /u/R4nd0mUs3r12 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8z2jn/game_not_opening_after_installation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8z2jn/game_not_opening_after_installation/">[comments]</a></span>
+
+## Change language in the sims
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8yzvx/change_language_in_the_sims](https://www.reddit.com/r/CrackSupport/comments/1i8yzvx/change_language_in_the_sims)
+ - RSS feed: $source
+ - date published: 2025-01-24T16:12:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Recently I downloaded The Sims 4 and used the DLC unlocker and it worked, but it&#39;s in English, I already tried using regedit but it doesn&#39;t have the folder they speak of, so I wanted to translate it into Portuguese (Brazil) since it&#39;s my native language Does anyone know how to change? (the game is downloaded from Steam)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Enderman_br"> /u/Enderman_br </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8yzvx/change_language_in_the_sims/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8yzvx/change_language_in_the_sims/">[comments]</a></span>
+
+## CreamAPI workshop
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8yjo5/creamapi_workshop](https://www.reddit.com/r/CrackSupport/comments/1i8yjo5/creamapi_workshop)
+ - RSS feed: $source
+ - date published: 2025-01-24T15:53:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is there any way to spoof the workshop of a different game using CreamAPI spacewar crack? I cracked Brick Rigs using CramAPI but it shows the spacewar workshop instead of brick rigs&#39;s here are my CreamAPI settings</p> <p>[steam] appid = 480 unlockall = true orgapi = steam_api.dll.bak orgapi64 = steam_api64.dll.bak extraprotection = true filestohide = cream_api.ini</p> <p>[steam_misc]</p> <p>[dlc]</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rysiaczekpl"> /u/rysiaczekpl </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8yjo5/creamapi_workshop/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8yjo5/creamapi_workshop/">[comments]</a></span>
+
+## Does anyone here have a solution for this ?
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8xn03/does_anyone_here_have_a_solution_for_this](https://www.reddit.com/r/CrackSupport/comments/1i8xn03/does_anyone_here_have_a_solution_for_this)
+ - RSS feed: $source
+ - date published: 2025-01-24T15:14:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1i8xn03/does_anyone_here_have_a_solution_for_this/"> <img src="https://preview.redd.it/r8z082d4kyee1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0556aaa24df0e9b8a5f0f0d8da82e51084181b6c" alt="Does anyone here have a solution for this ?" title="Does anyone here have a solution for this ?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Acxsamiyt8"> /u/Acxsamiyt8 </a> <br/> <span><a href="https://i.redd.it/r8z082d4kyee1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8xn03/does_anyone_here_have_a_solution_for_this/">[comments]</a></span> </td></tr></table>
+
+## Mafia 1 not working
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8xk4l/mafia_1_not_working](https://www.reddit.com/r/CrackSupport/comments/1i8xk4l/mafia_1_not_working)
+ - RSS feed: $source
+ - date published: 2025-01-24T15:11:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1i8xk4l/mafia_1_not_working/"> <img src="https://b.thumbs.redditmedia.com/oo_rHVw6Zvt1_lAvfO5evshW_LlxC_FUB7ohl5Lm45Y.jpg" alt="Mafia 1 not working" title="Mafia 1 not working" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/ot7q05nnkyee1.png?width=1366&amp;format=png&amp;auto=webp&amp;s=d9170c5302719007f20cf013509634447c836abf">https://preview.redd.it/ot7q05nnkyee1.png?width=1366&amp;format=png&amp;auto=webp&amp;s=d9170c5302719007f20cf013509634447c836abf</a></p> <p>Got 3 disk image files. Ran the 1st cd and the launcher. Midway of the installation it saying &quot; insert CD 2&quot;. I already mounted CD 2 and tried opening the file , but it not working.</p> <p><a href="https://preview.redd.it/tru77dlvjyee1.png?width=1345&amp;format=png&amp;auto=webp&amp;s=ad651193a4d59a3e972ff6da6c4c315f42ab1ebf">https://preview.redd.it/tru77dlvjyee1.png?width=1345&amp;format=png&amp;auto=we
+
+## Indiana Jones runs at 3fps. Complete mess for me...
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8xhe0/indiana_jones_runs_at_3fps_complete_mess_for_me](https://www.reddit.com/r/CrackSupport/comments/1i8xhe0/indiana_jones_runs_at_3fps_complete_mess_for_me)
+ - RSS feed: $source
+ - date published: 2025-01-24T15:07:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m playing on an RTX3080 and Ryzen 5600x.</p> <p>If I set it to 4k, I have 3fps, literally. If I set to 1080p, I have about 140fps.</p> <p>I managed to play around with the settings: Switch between resolutions, switch graphical quality, DLSS and TAA.</p> <p>Eventually, I managed it to go up to 30-50fps on high settings with DLSS. GPU at 50%, CPU at 15%.</p> <p>I switched to cinematic mode, instead of full screen and it went up to 70fps. I switched back to full screen and I was back at 3-4fps...</p> <p>What I already did: Restart game, restart PC and reinstall the newest graphics drivers. All to no avail. I will try to get it stable in 1080p but are there any fixes for this?</p> <p>Fixed: See comment</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/systemnerve"> /u/systemnerve </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8xhe0/indiana_jones_runs_at_3fps_complete_mess_for_me/">[li
+
+## Seriously, what happens if I set Penis to 1? (Indiana Jones ElAmigos Repack Config File)
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8wzsu/seriously_what_happens_if_i_set_penis_to_1](https://www.reddit.com/r/CrackSupport/comments/1i8wzsu/seriously_what_happens_if_i_set_penis_to_1)
+ - RSS feed: $source
+ - date published: 2025-01-24T14:46:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1i8wzsu/seriously_what_happens_if_i_set_penis_to_1/"> <img src="https://preview.redd.it/9fyjqil9fyee1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d03dd2a5233f0c466cc595e54481a53e020ac896" alt="Seriously, what happens if I set Penis to 1? (Indiana Jones ElAmigos Repack Config File)" title="Seriously, what happens if I set Penis to 1? (Indiana Jones ElAmigos Repack Config File)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/systemnerve"> /u/systemnerve </a> <br/> <span><a href="https://i.redd.it/9fyjqil9fyee1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8wzsu/seriously_what_happens_if_i_set_penis_to_1/">[comments]</a></span> </td></tr></table>
+
+## Assassin's Creed : Brotherhood setup not loading
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8w1be/assassins_creed_brotherhood_setup_not_loading](https://www.reddit.com/r/CrackSupport/comments/1i8w1be/assassins_creed_brotherhood_setup_not_loading)
+ - RSS feed: $source
+ - date published: 2025-01-24T14:01:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1i8w1be/assassins_creed_brotherhood_setup_not_loading/"> <img src="https://b.thumbs.redditmedia.com/GCS_6y8GTxriUJL139LY7WzoPp4cMuMsOAvvBBcPVXw.jpg" alt="Assassin's Creed : Brotherhood setup not loading" title="Assassin's Creed : Brotherhood setup not loading" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I downloaded this torrent from Rutracker.</p> <p>I don&#39;t know if I am supposed to do anything with these &quot;DXN&quot; files. The setup loads for a few seconds , but then nothing happens. It doesn&#39;t open. What do I do?</p> <p><a href="https://preview.redd.it/scos15zr7yee1.png?width=1222&amp;format=png&amp;auto=webp&amp;s=bcff904801bf722dc744716397e3fcbbe0b39422">https://preview.redd.it/scos15zr7yee1.png?width=1222&amp;format=png&amp;auto=webp&amp;s=bcff904801bf722dc744716397e3fcbbe0b39422</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/agnel04"> /u/agne
+
+## [Fitgirl Repacks} COTW The Angler save file location?
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8vodb/fitgirl_repacks_cotw_the_angler_save_file_location](https://www.reddit.com/r/CrackSupport/comments/1i8vodb/fitgirl_repacks_cotw_the_angler_save_file_location)
+ - RSS feed: $source
+ - date published: 2025-01-24T13:43:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>A game from the Avalanche studios, so it should most likely have a save file direction similar to COTW The Hunter. I have the original game, but I&#39;m trying to get the maps for free and still not lose any already made progress. </p> <p>I know where the original is saved but can&#39;t find anything about the FitGirl version.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Common_Ambassador588"> /u/Common_Ambassador588 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8vodb/fitgirl_repacks_cotw_the_angler_save_file_location/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8vodb/fitgirl_repacks_cotw_the_angler_save_file_location/">[comments]</a></span>
+
+## i need your help i pirated PC building simulator 2 and it crashes when i for example put case on my desk or when i save the game
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8ustu/i_need_your_help_i_pirated_pc_building_simulator](https://www.reddit.com/r/CrackSupport/comments/1i8ustu/i_need_your_help_i_pirated_pc_building_simulator)
+ - RSS feed: $source
+ - date published: 2025-01-24T12:59:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>pls help me</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Philosopher-7727"> /u/Ok-Philosopher-7727 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8ustu/i_need_your_help_i_pirated_pc_building_simulator/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8ustu/i_need_your_help_i_pirated_pc_building_simulator/">[comments]</a></span>
+
+## What are the most compressed repacks on fitgitl?
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8ur82/what_are_the_most_compressed_repacks_on_fitgitl](https://www.reddit.com/r/CrackSupport/comments/1i8ur82/what_are_the_most_compressed_repacks_on_fitgitl)
+ - RSS feed: $source
+ - date published: 2025-01-24T12:56:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know that crash bandicoot is compressed from 22gb to 3gb, are there any repacks like it? I&#39;m suffering from slow connection, the highest download speed I can get is 400kbps</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DarkShadow13206"> /u/DarkShadow13206 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8ur82/what_are_the_most_compressed_repacks_on_fitgitl/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8ur82/what_are_the_most_compressed_repacks_on_fitgitl/">[comments]</a></span>
+
+## [Cyberpunk 2077] I accidentally unchecked the English voice language. Now I’ve downloaded the specific English audio only, but the problem is it’s in a .bin file. How do I extract it?
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8ucb2/cyberpunk_2077_i_accidentally_unchecked_the](https://www.reddit.com/r/CrackSupport/comments/1i8ucb2/cyberpunk_2077_i_accidentally_unchecked_the)
+ - RSS feed: $source
+ - date published: 2025-01-24T12:33:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>i mean, putting the bin file into the game files won’t work, right? i don’t know how to extract bin files. i tried 7zip, but it doesn’t work.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tight-Elderberry2487"> /u/Tight-Elderberry2487 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8ucb2/cyberpunk_2077_i_accidentally_unchecked_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8ucb2/cyberpunk_2077_i_accidentally_unchecked_the/">[comments]</a></span>
+
+## Fifa 15 isn't launching
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8u88j/fifa_15_isnt_launching](https://www.reddit.com/r/CrackSupport/comments/1i8u88j/fifa_15_isnt_launching)
+ - RSS feed: $source
+ - date published: 2025-01-24T12:27:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>It just shows EA Sports 2014, and then it doesn&#39;t show anything, what can I do?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Longjumping_Lemon_12"> /u/Longjumping_Lemon_12 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8u88j/fifa_15_isnt_launching/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8u88j/fifa_15_isnt_launching/">[comments]</a></span>
+
+## Issue with FH3
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8svq3/issue_with_fh3](https://www.reddit.com/r/CrackSupport/comments/1i8svq3/issue_with_fh3)
+ - RSS feed: $source
+ - date published: 2025-01-24T11:00:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1i8svq3/issue_with_fh3/"> <img src="https://a.thumbs.redditmedia.com/6RLhYE_Fyv03Oph-3eTIU591hG2DvKohw5P8WUl_bx4.jpg" alt="Issue with FH3" title="Issue with FH3" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>guys it stays like this for a while then closes what should i do?</p> <p><a href="https://preview.redd.it/dqtti3c2bxee1.png?width=1910&amp;format=png&amp;auto=webp&amp;s=d14801eb3d4c78c7dc694ba3a7be311d725b9e04">https://preview.redd.it/dqtti3c2bxee1.png?width=1910&amp;format=png&amp;auto=webp&amp;s=d14801eb3d4c78c7dc694ba3a7be311d725b9e04</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/d4n3q_1954"> /u/d4n3q_1954 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8svq3/issue_with_fh3/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8svq3/issue_with_fh3/">[comments]</a></span> </td></tr></table>
+
+## Need help with game [REDACTED] Yes that's it's name.
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8s3e4/need_help_with_game_redacted_yes_thats_its_name](https://www.reddit.com/r/CrackSupport/comments/1i8s3e4/need_help_with_game_redacted_yes_thats_its_name)
+ - RSS feed: $source
+ - date published: 2025-01-24T10:02:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>To preface, I keep games, like Hades and Disco Elysium, in a memory bank separate form my computer. It&#39;s basically a pen drive. But while they work, REDACTED doesn&#39;t, after finishing installing and everything, I open the game and after studio titles I get a black screen, can&#39;t even leave unless I restart.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tricky-Pin-7700"> /u/Tricky-Pin-7700 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8s3e4/need_help_with_game_redacted_yes_thats_its_name/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8s3e4/need_help_with_game_redacted_yes_thats_its_name/">[comments]</a></span>
+
+## Call of Duty World at War English language files.
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8rwfy/call_of_duty_world_at_war_english_language_files](https://www.reddit.com/r/CrackSupport/comments/1i8rwfy/call_of_duty_world_at_war_english_language_files)
+ - RSS feed: $source
+ - date published: 2025-01-24T09:48:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>I need a english files because everyhing is in russian.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Aryan1492010"> /u/Aryan1492010 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8rwfy/call_of_duty_world_at_war_english_language_files/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8rwfy/call_of_duty_world_at_war_english_language_files/">[comments]</a></span>
+
+## Wii u games
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8rlxk/wii_u_games](https://www.reddit.com/r/CrackSupport/comments/1i8rlxk/wii_u_games)
+ - RSS feed: $source
+ - date published: 2025-01-24T09:25:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently modded my wii u. Now I wonder where I get games and how do I install them on my Wii U. Does anyone have any idea?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HelicopterFlimsy7719"> /u/HelicopterFlimsy7719 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8rlxk/wii_u_games/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8rlxk/wii_u_games/">[comments]</a></span>
+
+## fitgirl INSTALLATION STUCK
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8rev6/fitgirl_installation_stuck](https://www.reddit.com/r/CrackSupport/comments/1i8rev6/fitgirl_installation_stuck)
+ - RSS feed: $source
+ - date published: 2025-01-24T09:10:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1i8rev6/fitgirl_installation_stuck/"> <img src="https://preview.redd.it/wzzapjcerwee1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=414df7910ba1776a41e4fb990c820751c3ac3661" alt="fitgirl INSTALLATION STUCK" title="fitgirl INSTALLATION STUCK" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>getting this error again and again. always gets stuck at 81.6%</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hopeful_Fisherman850"> /u/Hopeful_Fisherman850 </a> <br/> <span><a href="https://i.redd.it/wzzapjcerwee1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8rev6/fitgirl_installation_stuck/">[comments]</a></span> </td></tr></table>
+
+## Geometry Dash 2.207 for mac?
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8ockr/geometry_dash_2207_for_mac](https://www.reddit.com/r/CrackSupport/comments/1i8ockr/geometry_dash_2207_for_mac)
+ - RSS feed: $source
+ - date published: 2025-01-24T05:29:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is the cracked version here yet?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TechnicalLMAO"> /u/TechnicalLMAO </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8ockr/geometry_dash_2207_for_mac/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8ockr/geometry_dash_2207_for_mac/">[comments]</a></span>
+
+## Downloaded Ready Or Not from steamrip.com and there are weird dll files
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8ktfl/downloaded_ready_or_not_from_steamripcom_and](https://www.reddit.com/r/CrackSupport/comments/1i8ktfl/downloaded_ready_or_not_from_steamripcom_and)
+ - RSS feed: $source
+ - date published: 2025-01-24T02:16:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>There is 2 weird dll files that my antivirus came up with has malware and i wanted to know your opinnion on if its safe or not for reference i checked with windows defender, virus total, and malware bytes. If you need i can sendthe 2 specific dlls.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Equivalent-Bid-5367"> /u/Equivalent-Bid-5367 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8ktfl/downloaded_ready_or_not_from_steamripcom_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i8ktfl/downloaded_ready_or_not_from_steamripcom_and/">[comments]</a></span>
+
+## need some help loading new programs on W11
+ - [https://www.reddit.com/r/CrackSupport/comments/1i8kipo/need_some_help_loading_new_programs_on_w11](https://www.reddit.com/r/CrackSupport/comments/1i8kipo/need_some_help_loading_new_programs_on_w11)
+ - RSS feed: $source
+ - date published: 2025-01-24T02:01:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a new pc, its my 4th. My last 2 lasted 10 years each. I selectively get certain programs off of piratebay, ones I think are overly expensive and I am not getting if I have to pay. I have done this on all of my computers. I have done this numerous times with nearly effortless ease. But with my new pc I now have Windows 11 for the first time. I am having all sorts of trouble installing now. I download the zipped folder. I read the instructions. Its almost always install and run keygen or run keygen and move a certain file into the programs new folder to replace the other one. If you are here you know the drill. But the keygen is disappearing. Norton kept quarantining. I uninstalled Norton. Kept happening, windows default (defender or whatever its called) is doing it. I turn that off. It keep happening. I see the windows Anti virus and firewall are turned off. I see the file I need in the unzipped folder. I actually see it disappear, in front of 
+

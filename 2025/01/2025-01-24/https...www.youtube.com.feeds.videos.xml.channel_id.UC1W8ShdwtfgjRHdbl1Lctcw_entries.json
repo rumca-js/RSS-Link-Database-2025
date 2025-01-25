@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-24T19:58:19+00:00",
+        "description": "I colorized, restored, and created a sound design for this video showcasing iconic locations in California during the early 20th century. The journey begins in Los Angeles and Hollywood, featuring scenes of Pershing Square, Caf\u00e9 Trocadero, palm trees, and typical residential architecture. It continues in Santa Monica, capturing the exteriors of the Bath House, wide shots of the beach with people bathing, and a small marina filled with boats. Upon arriving in San Francisco, the footage includes sweeping views of the Oakland Bridge and the docks, filmed from Coit Memorial Tower, highlighting the city's dense urban landscape. Ground-level shots showcase municipal buildings, including the Department of Health, while the harbor features a paddle steamer and other maritime activity. In the distance, Alcatraz prison is visible, and the video concludes with awe-inspiring footage of the Golden Gate Bridge under construction in the bay.\n\nVideo Restoration Process:\n\u2714 FPS boosted to 60 frames pe",
+        "id": 1974095,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=mDogL1gPDpQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mDogL1gPDpQ/hqdefault.jpg",
+        "title": "1930s - Los Angeles, Hollywood, San Francisco in color [60fps,Remastered] w/sound design added",
+        "vote": 0
+    }
+]

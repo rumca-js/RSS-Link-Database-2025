@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-24T15:12:25+00:00",
+        "description": "While a billion people have better access to our digital world, billions more still lack access to these critical digital tools.",
+        "id": 1971377,
+        "language": "en-UK",
+        "link": "https://time.com/7209794/edison-alliance-digital-technology",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How We Connected One Billion Lives Through Digital Technology",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-24T15:00:33+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">CaribouLite SDR HAT for SDR on a Raspberry Pi</span>\n\n            <p></p>\n\n<p>A couple years ago, after I heard about the <a href=\"https://www.crowdsupply.com/cariboulabs/cariboulite-rpi-hat\">CaribouLite on CrowdSupply</a>, I pre-ordered one.</p>\n\n<p>I've dabbled in SDR with an <a href=\"https://amzn.to/3Ckxh5d\">RTL-SDR v3</a> for a few years, even <a href=\"https://www.jeffgeerling.com/blog/2019/hospital-stay-and-mlb-blackouts-led-me-rtl-sdr-radio\">using one with nrsc5 to listen to baseball games OTA</a> because of silly MLB blackout restrictions.</p>\n\n<p>But low-cost SDRs like the RTL-SDR v3 are receive-only, and have a limited frequency range, and lower quality RF filtering, so it can be frustrating if you're trying to work with lower-power RF... or trying to transmit at all!</p>\n      <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Jeff Geerling</span></span>\n<spa",
+        "id": 1972199,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/cariboulite-sdr-hat-sdr-on-raspberry-pi",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "CaribouLite SDR HAT for SDR on a Raspberry Pi",
+        "vote": 0
+    }
+]

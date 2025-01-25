@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-24T18:28:28+00:00",
+        "description": "<p>Sareen Habeshian and Russell Contreras, reporting for Axios, \u201c<a href=\"https://www.axios.com/2025/01/24/ice-raid-newark-new-jersey-immigration-us-citizens\">Mayor Accuses ICE of Detaining Vet, U.S. Citizens in N.J. Immigration Raid</a>\u201d:</p>\n\n<blockquote>\n  <p>Immigration and Customs Enforcement (ICE) agents raided a Newark,\nNew Jersey, business venue on Thursday and detained undocumented\nimmigrants as well as U.S. citizens without warrants, the city\u2019s\nmayor said. [...]</p>\n\n<p>ICE agents entered the Ocean Food Depot restaurant where owner\nLuis Janota said around a dozen immigration authorities detained\nthree people after receiving a complaint, PIX11 News in New York\nreports.</p>\n\n<p>\u201cI asked [the agents] what documentation they were looking for,\nand they said it was a license or a passport. I thought, who walks\naround with a passport?\u201d Janota told the station. Janota said\namong the workers questioned was the manager of the restaurant\u2019s\nwarehouse, a Puerto Rican man and military ve",
+        "id": 1973626,
+        "language": null,
+        "link": "https://daringfireball.net/2025/01/ice_raids_are_an_escalation_of_a_de_facto_cold_civil_war",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2605 ICE Raids Are an Escalation of Our Long-Simmering De Facto Cold Civil War",
+        "vote": 0
+    }
+]

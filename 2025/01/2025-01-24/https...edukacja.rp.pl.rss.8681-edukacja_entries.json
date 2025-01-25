@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-24T03:48:22+00:00",
+        "description": "Ministerstwo Spraw Wewn\u0119trznych i Administracji stara si\u0119 zach\u0119ci\u0107 m\u0142odych ludzi do wst\u0119powania do klas mundurowych, czyli takich, nad kt\u00f3rymi patronat ma policja oraz Stra\u017c Graniczna. Co proponuje MSWiA?",
+        "id": 1968720,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/policja/art41718901-mswia-ma-pomysl-jak-przyciagnac-uczniow-do-klas-mundurowych",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "MSWiA ma pomys\u0142, jak przyci\u0105gn\u0105\u0107 uczni\u00f3w do klas mundurowych",
+        "vote": 0
+    }
+]

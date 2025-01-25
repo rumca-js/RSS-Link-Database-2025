@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-24T11:26:18+00:00",
+        "description": "<p>GNOME 48 Alpha is now available for public testing with support for accent colors, Wayland improvements, and many other changes. Here\u2019s what to expect!</p>\n<p>The post <a href=\"https://9to5linux.com/gnome-48-alpha-is-now-available-for-public-testing-heres-whats-new\">GNOME 48 Alpha Is Now Available for Public Testing, Here&#8217;s What&#8217;s New</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>",
+        "id": 1970923,
+        "language": "en-US",
+        "link": "https://9to5linux.com/gnome-48-alpha-is-now-available-for-public-testing-heres-whats-new",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GNOME 48 Alpha Is Now Available for Public Testing, Here\u2019s What\u2019s New",
+        "vote": 0
+    }
+]
