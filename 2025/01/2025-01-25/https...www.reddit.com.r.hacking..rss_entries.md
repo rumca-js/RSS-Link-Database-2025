@@ -1,0 +1,44 @@
+# Source:hacking: security in practice, URL:https://www.reddit.com/r/hacking/.rss, language:en
+
+## Any way to clone my apartment access key?
+ - [https://www.reddit.com/r/hacking/comments/1i9v1d6/any_way_to_clone_my_apartment_access_key](https://www.reddit.com/r/hacking/comments/1i9v1d6/any_way_to_clone_my_apartment_access_key)
+ - RSS feed: $source
+ - date published: 2025-01-25T19:37:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1i9v1d6/any_way_to_clone_my_apartment_access_key/"> <img src="https://b.thumbs.redditmedia.com/kyAwTEsWkNY8Qh9xQT2o293lrYI6Uach0vlNOpn-1Yw.jpg" alt="Any way to clone my apartment access key?" title="Any way to clone my apartment access key?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hiya! I&#39;m moving away and I want to have a spare access key just in case I loose one. Replacements are around £150 (~$185) and that&#39;s a little too steep for me.</p> <p>I can provide extra information if necessary. Many thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Illumyia"> /u/Illumyia </a> <br/> <span><a href="https://www.reddit.com/gallery/1i9v1d6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1i9v1d6/any_way_to_clone_my_apartment_access_key/">[comments]</a></span> </td></tr></table>
+
+## Anybody else think the SOCRadar breach was really gorilla marketing?
+ - [https://www.reddit.com/r/hacking/comments/1i9r1i2/anybody_else_think_the_socradar_breach_was_really](https://www.reddit.com/r/hacking/comments/1i9r1i2/anybody_else_think_the_socradar_breach_was_really)
+ - RSS feed: $source
+ - date published: 2025-01-25T16:44:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>For context SOCRadar.io, an &quot;extended threat intelligence platform&quot; (monitoring for dark web results i guess) posted this: </p> <hr/> <p>SOCRadar’s Response to the USDoD’s Claim of Scraping 330 Million Emails</p> <p>TL;DR</p> <p>The claim that the threat actor extracted the data from the SOCRadar platform is inaccurate and does not reflect the true source of the information. ​In reality, they acquired public Telegram channel names through the SOCRadar Platform, then proceeded to scrape publicly available data from these public Telegram channels. ​They manipulated this information to create the false impression that it originated from SOCRadar.</p> <h2>​We’ve compiled a comprehensive report with all pertinent details for our customers and partners. To access this report, contact us at <a href="mailto:info@socradar.io">info@socradar.io</a>.</h2> <p>I immediately was interested in signing up and see why almost every password I&#39;ve ever had 
+
+## Samsung account interference from Ireland
+ - [https://www.reddit.com/r/hacking/comments/1i9n74t/samsung_account_interference_from_ireland](https://www.reddit.com/r/hacking/comments/1i9n74t/samsung_account_interference_from_ireland)
+ - RSS feed: $source
+ - date published: 2025-01-25T13:43:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1i9n74t/samsung_account_interference_from_ireland/"> <img src="https://preview.redd.it/12ujyhr195fe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d28fdd96b867c97766edf02903c780cca4b578e" alt="Samsung account interference from Ireland" title="Samsung account interference from Ireland" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Never happened before, though i did not find any noticable changes. Is it something to worry about?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Anarx242"> /u/Anarx242 </a> <br/> <span><a href="https://i.redd.it/12ujyhr195fe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1i9n74t/samsung_account_interference_from_ireland/">[comments]</a></span> </td></tr></table>
+
+## Some RAT functions you miss?
+ - [https://www.reddit.com/r/hacking/comments/1i9gp84/some_rat_functions_you_miss](https://www.reddit.com/r/hacking/comments/1i9gp84/some_rat_functions_you_miss)
+ - RSS feed: $source
+ - date published: 2025-01-25T06:10:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>Please list all the fun, functions and other commands you enjoyed while using a RAT. On your own PC of course! </p> <p>List them 👍</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dezorg"> /u/dezorg </a> <br/> <span><a href="https://www.reddit.com/r/hacking/comments/1i9gp84/some_rat_functions_you_miss/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1i9gp84/some_rat_functions_you_miss/">[comments]</a></span>
+
+## BOP SanDisk MP3 Players
+ - [https://www.reddit.com/r/hacking/comments/1i9fol0/bop_sandisk_mp3_players](https://www.reddit.com/r/hacking/comments/1i9fol0/bop_sandisk_mp3_players)
+ - RSS feed: $source
+ - date published: 2025-01-25T05:06:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ok. So a buddy of mine got out of federal prison and brought his commissary bought SanDisk Clip MP3 player with him. The thing about these MP3 Players is that the BOP buys them in bulk and farms them to a company called ATG (a-t-g.com). This company strips the factory firmware out and installs their own(when released, you can mail the MP3 to the company and they will reinstall factory software/firmware to mail back to you).</p> <p>You have to log into a prisons secure network in order to download music. For years inmates have been trying to crack these things using smart phones snuggled into the prisons. Mostly Androids. Eventually it was discovered that you could download an app called OTG Pro and using an OTG cable, you could finally add music to it yourself. This is the only app that ever worked. Unfortunately that&#39;s all it would do. It won&#39;t let you remove music. </p> <p>Now I figure the reason no one in prison could crack these things is
+
+## Anyone remembers this???
+ - [https://www.reddit.com/r/hacking/comments/1i9e80j/anyone_remembers_this](https://www.reddit.com/r/hacking/comments/1i9e80j/anyone_remembers_this)
+ - RSS feed: $source
+ - date published: 2025-01-25T03:41:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1i9e80j/anyone_remembers_this/"> <img src="https://preview.redd.it/6ejt01gn92fe1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=420724d21e810acc5b82c3b79f81b1d5ba853c46" alt="Anyone remembers this???" title="Anyone remembers this???" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This was the real deal back then! Countless friends I scared opening and closing their cd tray ahahahaha!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/decambra89"> /u/decambra89 </a> <br/> <span><a href="https://i.redd.it/6ejt01gn92fe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1i9e80j/anyone_remembers_this/">[comments]</a></span> </td></tr></table>
+

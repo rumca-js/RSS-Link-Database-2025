@@ -1,0 +1,212 @@
+# Source:Crack Support, URL:https://www.reddit.com/r/CrackSupport/.rss, language:
+
+## anyone have syndicate(2012) crack
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9y0s1/anyone_have_syndicate2012_crack](https://www.reddit.com/r/CrackSupport/comments/1i9y0s1/anyone_have_syndicate2012_crack)
+ - RSS feed: $source
+ - date published: 2025-01-25T21:49:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am looking for the syndicate crack and I cant find it</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WinterRecover6606"> /u/WinterRecover6606 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9y0s1/anyone_have_syndicate2012_crack/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9y0s1/anyone_have_syndicate2012_crack/">[comments]</a></span>
+
+## Will I lose saves If I replace Fitgirls Sims 4 with new version?
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9uegg/will_i_lose_saves_if_i_replace_fitgirls_sims_4](https://www.reddit.com/r/CrackSupport/comments/1i9uegg/will_i_lose_saves_if_i_replace_fitgirls_sims_4)
+ - RSS feed: $source
+ - date published: 2025-01-25T19:09:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Good evening. I have a Fitgirls download of the Sims 4, which is working fine, but doesn&#39;t include latest game updates or some of the newer expansion and add on packs. I&#39;m wondering, after I download a new (cracked) version of the sims 4 can I keep and play older save files, created using less expansion packs and older content, if I copy the files and resave into my new game files, or will I encounter issues when loading these families and content? I really want to play horse ranch expansion for example, but also don&#39;t want to lost my older, legacy families or builds. If not possible, what would you recommend?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Electrical_Pea_8651"> /u/Electrical_Pea_8651 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9uegg/will_i_lose_saves_if_i_replace_fitgirls_sims_4/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSup
+
+## cant find cracked Hogwarts Legacy location on steamdeck
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9u77j/cant_find_cracked_hogwarts_legacy_location_on](https://www.reddit.com/r/CrackSupport/comments/1i9u77j/cant_find_cracked_hogwarts_legacy_location_on)
+ - RSS feed: $source
+ - date published: 2025-01-25T19:01:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>I used DODI repack to get Hogwarts Legacy on a steamdeck and launched it and could play it until I needed to input the name of the character, unable to get the keyboard out I shut down the steamdeck (cuz I could not exit the game no matter what I pressed) and when I tried launching the game again it didnt work, I tried going to the location of the game in the .home/share/steam/steamapps/compdata/xxxxxxxxxx/Progran Files (86) where the game was originally installed and the folder with the numbers xxxxxxxx was not there. now I cant find where the game is installed.</p> <p>Also, I might have installed the game twice, because the first time I also went looking for the directory where the game was in the xxxxxxxxx number location and the numbers that I needed were not there and I tried evey single folder in the compdata folder and none had the DODI repack for Hogwarts.</p> <p>I dont know where I should look for the game and I dont think it magically unins
+
+## anyone with cracked minecraft tell me how to fix this gui
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9tyk2/anyone_with_cracked_minecraft_tell_me_how_to_fix](https://www.reddit.com/r/CrackSupport/comments/1i9tyk2/anyone_with_cracked_minecraft_tell_me_how_to_fix)
+ - RSS feed: $source
+ - date published: 2025-01-25T18:51:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1i9tyk2/anyone_with_cracked_minecraft_tell_me_how_to_fix/"> <img src="https://b.thumbs.redditmedia.com/a3pLBmbxh1jlmfvUidlBhnUJ2dEYR3y0EeqJ0OjzU9Q.jpg" alt="anyone with cracked minecraft tell me how to fix this gui" title="anyone with cracked minecraft tell me how to fix this gui" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/palt8mcsr6fe1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=9b3773a93193e1d46c536447516db2f3e1324bcd">https://preview.redd.it/palt8mcsr6fe1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=9b3773a93193e1d46c536447516db2f3e1324bcd</a></p> <p>so yeah it turned my entire ui into mobile lookin its so big like even ingame it has the mobile ui so i used csrinru cracks but since my mc been looking weird anyone knows how to fix this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HighlightFull7432"> /u/HighlightFull
+
+## is steamrip safe??????
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9s0zl/is_steamrip_safe](https://www.reddit.com/r/CrackSupport/comments/1i9s0zl/is_steamrip_safe)
+ - RSS feed: $source
+ - date published: 2025-01-25T17:27:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>ive been using fitgirl for sometime now with no issues but she does not have re4 remake and steamrip does i was gonna just download it but im afraid of malawares</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/supergalax"> /u/supergalax </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9s0zl/is_steamrip_safe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9s0zl/is_steamrip_safe/">[comments]</a></span>
+
+## Unarc error / setup stuck
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9qu9d/unarc_error_setup_stuck](https://www.reddit.com/r/CrackSupport/comments/1i9qu9d/unarc_error_setup_stuck)
+ - RSS feed: $source
+ - date published: 2025-01-25T16:36:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys i have a weird problem i have the unarc error -12 and i have tried many solutions ( limit cpu core - c++ - win 7 compatibility - force recheck -etc .. ) but still the same error When i install c++ the error number change to unarc -1 when i limit the cores it keep installing but the setup stuck at random percentage . I don&#39;t know what to do tbh Note : when i restart the pc i got the 12 error again. My cpu : Ryzen 5 3500x 6 cores 16gb ram </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Candy_8018"> /u/No_Candy_8018 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9qu9d/unarc_error_setup_stuck/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9qu9d/unarc_error_setup_stuck/">[comments]</a></span>
+
+## how to get multiplayer in titanfall 2 Codex
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9qi36/how_to_get_multiplayer_in_titanfall_2_codex](https://www.reddit.com/r/CrackSupport/comments/1i9qi36/how_to_get_multiplayer_in_titanfall_2_codex)
+ - RSS feed: $source
+ - date published: 2025-01-25T16:21:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>can somebody tell me how to have titanfall 2 multiplaye codex because it shows me origin not on or smth like that</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Philosopher-7727"> /u/Ok-Philosopher-7727 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9qi36/how_to_get_multiplayer_in_titanfall_2_codex/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9qi36/how_to_get_multiplayer_in_titanfall_2_codex/">[comments]</a></span>
+
+## I PLAYED THE WHOLE STORY MODE BUT WHEN I GO TO PLAY UNDEAD NIGHTMARE THE GAME CRASHES AND THIS MESSAGE SHOWS UP. SOLUTION OF THIS ?
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9pip5/i_played_the_whole_story_mode_but_when_i_go_to](https://www.reddit.com/r/CrackSupport/comments/1i9pip5/i_played_the_whole_story_mode_but_when_i_go_to)
+ - RSS feed: $source
+ - date published: 2025-01-25T15:37:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1i9pip5/i_played_the_whole_story_mode_but_when_i_go_to/"> <img src="https://preview.redd.it/v7qz9x8at5fe1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=b7740d4e2588a970318df837746f14def7a213da" alt="I PLAYED THE WHOLE STORY MODE BUT WHEN I GO TO PLAY UNDEAD NIGHTMARE THE GAME CRASHES AND THIS MESSAGE SHOWS UP. SOLUTION OF THIS ?" title="I PLAYED THE WHOLE STORY MODE BUT WHEN I GO TO PLAY UNDEAD NIGHTMARE THE GAME CRASHES AND THIS MESSAGE SHOWS UP. SOLUTION OF THIS ?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shubo_san"> /u/shubo_san </a> <br/> <span><a href="https://i.redd.it/v7qz9x8at5fe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9pip5/i_played_the_whole_story_mode_but_when_i_go_to/">[comments]</a></span> </td></tr></table>
+
+## BO3 Crack BOIII support
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9p8cw/bo3_crack_boiii_support](https://www.reddit.com/r/CrackSupport/comments/1i9p8cw/bo3_crack_boiii_support)
+ - RSS feed: $source
+ - date published: 2025-01-25T15:24:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently downloaded the fitgirl repack of BO3, but when I installed the BOIII client it claimed that it required the latest verison of Black Ops 3.exe, which I do not know where to get it. I found an internet archive uploaded recently of BO3, but I don&#39;t know if its the latest. Any help would be appericated, including spoofing BOIII if need be.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thecapitalistdream"> /u/thecapitalistdream </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9p8cw/bo3_crack_boiii_support/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9p8cw/bo3_crack_boiii_support/">[comments]</a></span>
+
+## Lost planet colonies 1.0.2.0?
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9nx6b/lost_planet_colonies_1020](https://www.reddit.com/r/CrackSupport/comments/1i9nx6b/lost_planet_colonies_1020)
+ - RSS feed: $source
+ - date published: 2025-01-25T14:21:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>I m trying to find lp colonies 1.0.2 0 version (latest) most cracks are 1.0.1 0</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Xzenze_for_real"> /u/Xzenze_for_real </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9nx6b/lost_planet_colonies_1020/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9nx6b/lost_planet_colonies_1020/">[comments]</a></span>
+
+## Lost planet colonies 1.0.2.0?
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9nx5s/lost_planet_colonies_1020](https://www.reddit.com/r/CrackSupport/comments/1i9nx5s/lost_planet_colonies_1020)
+ - RSS feed: $source
+ - date published: 2025-01-25T14:20:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>I m trying to find lp colonies 1.0.2 0 version (latest) most cracks are 1.0.1 0</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Xzenze_for_real"> /u/Xzenze_for_real </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9nx5s/lost_planet_colonies_1020/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9nx5s/lost_planet_colonies_1020/">[comments]</a></span>
+
+## hogwarts legacy
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9nsx0/hogwarts_legacy](https://www.reddit.com/r/CrackSupport/comments/1i9nsx0/hogwarts_legacy)
+ - RSS feed: $source
+ - date published: 2025-01-25T14:15:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>i installed hogwarts legacy from dodi repacks after completing the stupe when i open the game it run at the task manager consuming 500mb ram but it wouldnt open and it give me no error or smth please give me a solution</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Interview_1680"> /u/Ok_Interview_1680 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9nsx0/hogwarts_legacy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9nsx0/hogwarts_legacy/">[comments]</a></span>
+
+## cream installer broke online
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9mtyt/cream_installer_broke_online](https://www.reddit.com/r/CrackSupport/comments/1i9mtyt/cream_installer_broke_online)
+ - RSS feed: $source
+ - date published: 2025-01-25T13:22:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>i tried using cream installer to get the dlc for awesomenauts which worked but broke my matchmaking a used the uninstall feature but I still cant find a match, any ideas?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tiny-Animal5634"> /u/Tiny-Animal5634 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9mtyt/cream_installer_broke_online/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9mtyt/cream_installer_broke_online/">[comments]</a></span>
+
+## Hitman-Peacock-SteamDeck: 🎮 HITMAN Server Emulator (Peacock) in Gaming Mode on Deck/SteamOS
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9lfk6/hitmanpeacocksteamdeck_hitman_server_emulator](https://www.reddit.com/r/CrackSupport/comments/1i9lfk6/hitmanpeacocksteamdeck_hitman_server_emulator)
+ - RSS feed: $source
+ - date published: 2025-01-25T11:57:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1i9lfk6/hitmanpeacocksteamdeck_hitman_server_emulator/"> <img src="https://external-preview.redd.it/0yMeGKNJW89pEpL2wEWcFhngqK3Q3Xj1trqRBbCg8yY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=24abc0bb39bc7eff6abfd121438b56433ca0d72e" alt="Hitman-Peacock-SteamDeck: 🎮 HITMAN Server Emulator (Peacock) in Gaming Mode on Deck/SteamOS" title="Hitman-Peacock-SteamDeck: 🎮 HITMAN Server Emulator (Peacock) in Gaming Mode on Deck/SteamOS" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BrokenToasterOven"> /u/BrokenToasterOven </a> <br/> <span><a href="https://github.com/wowitsjack/Hitman-Peacock-SteamDeck">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9lfk6/hitmanpeacocksteamdeck_hitman_server_emulator/">[comments]</a></span> </td></tr></table>
+
+## is this a virus? bcz i jsut download a pirate adobe illustration and then i test the set up exe and got this https://www.virustotal.com/gui/file/b3506f660a3395674225893af2df056c338006d781c86f2fe05ef27130bd7c3c/detection
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9l3mo/is_this_a_virus_bcz_i_jsut_download_a_pirate](https://www.reddit.com/r/CrackSupport/comments/1i9l3mo/is_this_a_virus_bcz_i_jsut_download_a_pirate)
+ - RSS feed: $source
+ - date published: 2025-01-25T11:33:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>is it safe or a virus? <a href="https://www.virustotal.com/gui/file/b3506f660a3395674225893af2df056c338006d781c86f2fe05ef27130bd7c3c/detection">https://www.virustotal.com/gui/file/b3506f660a3395674225893af2df056c338006d781c86f2fe05ef27130bd7c3c/detection</a> ,file name adobe set up exe</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Temporary_Meaning911"> /u/Temporary_Meaning911 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9l3mo/is_this_a_virus_bcz_i_jsut_download_a_pirate/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9l3mo/is_this_a_virus_bcz_i_jsut_download_a_pirate/">[comments]</a></span>
+
+## How to get karma
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9kz4h/how_to_get_karma](https://www.reddit.com/r/CrackSupport/comments/1i9kz4h/how_to_get_karma)
+ - RSS feed: $source
+ - date published: 2025-01-25T11:24:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>i want to post on <a href="/r/Piracy">r/Piracy</a> but it shows me i have no karma</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Philosopher-7727"> /u/Ok-Philosopher-7727 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9kz4h/how_to_get_karma/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9kz4h/how_to_get_karma/">[comments]</a></span>
+
+## FC25
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9kmci/fc25](https://www.reddit.com/r/CrackSupport/comments/1i9kmci/fc25)
+ - RSS feed: $source
+ - date published: 2025-01-25T10:59:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>&quot;dbdata.dll file has incorrect hash&quot; FC 25 problem, any solution?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dry_Raspberry_7770"> /u/Dry_Raspberry_7770 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9kmci/fc25/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9kmci/fc25/">[comments]</a></span>
+
+## FNAF: REAL TIME (FAN GAME HELP CRACK)
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9k3xq/fnaf_real_time_fan_game_help_crack](https://www.reddit.com/r/CrackSupport/comments/1i9k3xq/fnaf_real_time_fan_game_help_crack)
+ - RSS feed: $source
+ - date published: 2025-01-25T10:22:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>i use windows 11</p> <p>i installed fnaf real time i open it and it tells me i need a copy of fnaf to use it</p> <p>i searched some methods and i found out you can crack it by changing the steamapi64 file with the one that goldenberg emulator (<a href="https://mr_goldberg.gitlab.io/goldberg_emulator">https://mr_goldberg.gitlab.io/goldberg_emulator</a>) gives you</p> <p>i got the game from game jolt <a href="https://gamejolt.com/games/realtimefnaf/832545">https://gamejolt.com/games/realtimefnaf/832545</a></p> <p>after i open the game after i cracked it, it asks me language, asks me if i wanna reduce flashing lights, if i wanna enable streamer mode and if i wanna enable streamer mode.</p> <p>after that it plays some music and some people talking maybe its a trailer or a video but nothing is being displayed, just straight up black screen. after the video ends its just black screen and nothing is showing and nothing you can hear</p> <p>if you press tab i
+
+## Adding mods in cracked gmod
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9ihek/adding_mods_in_cracked_gmod](https://www.reddit.com/r/CrackSupport/comments/1i9ihek/adding_mods_in_cracked_gmod)
+ - RSS feed: $source
+ - date published: 2025-01-25T08:19:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently pirated gmod but now i dont know how to add mods to it. can anyone help me with this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Future_Word3637"> /u/Future_Word3637 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9ihek/adding_mods_in_cracked_gmod/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9ihek/adding_mods_in_cracked_gmod/">[comments]</a></span>
+
+## prototype from fitgirl . malwarebytes showed reschanger.exe having malware , and this is what the virus total check is showing.
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9hcgo/prototype_from_fitgirl_malwarebytes_showed](https://www.reddit.com/r/CrackSupport/comments/1i9hcgo/prototype_from_fitgirl_malwarebytes_showed)
+ - RSS feed: $source
+ - date published: 2025-01-25T06:55:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1i9hcgo/prototype_from_fitgirl_malwarebytes_showed/"> <img src="https://preview.redd.it/b3bwvwrb83fe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5a9a1d118f39aa559f889eabf085703fd0ed404f" alt="prototype from fitgirl . malwarebytes showed reschanger.exe having malware , and this is what the virus total check is showing." title="prototype from fitgirl . malwarebytes showed reschanger.exe having malware , and this is what the virus total check is showing." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Organic-Rooster-3555"> /u/Organic-Rooster-3555 </a> <br/> <span><a href="https://i.redd.it/b3bwvwrb83fe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9hcgo/prototype_from_fitgirl_malwarebytes_showed/">[comments]</a></span> </td></tr></table>
+
+## Can anyone find a crack for Be Your Best vr football training app scenarios? Unlikely but asking in case.
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9h9i1/can_anyone_find_a_crack_for_be_your_best_vr](https://www.reddit.com/r/CrackSupport/comments/1i9h9i1/can_anyone_find_a_crack_for_be_your_best_vr)
+ - RSS feed: $source
+ - date published: 2025-01-25T06:49:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1i9h9i1/can_anyone_find_a_crack_for_be_your_best_vr/"> <img src="https://external-preview.redd.it/8a5Sls1b-5mfyQX-2r22ikLyc4knWOYRaFu1gHRVSes.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87eabf95e2b1ed3c46d4b0fe51d926a6dffa74e0" alt="Can anyone find a crack for Be Your Best vr football training app scenarios? Unlikely but asking in case." title="Can anyone find a crack for Be Your Best vr football training app scenarios? Unlikely but asking in case." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/broicantrn"> /u/broicantrn </a> <br/> <span><a href="https://www.beyourbest.com/scenarios">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9h9i1/can_anyone_find_a_crack_for_be_your_best_vr/">[comments]</a></span> </td></tr></table>
+
+## Me and my friend both pirated Dont starve together, how do we get rid of 'account has been logged in from diffrent location' LAN?
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9h7a8/me_and_my_friend_both_pirated_dont_starve](https://www.reddit.com/r/CrackSupport/comments/1i9h7a8/me_and_my_friend_both_pirated_dont_starve)
+ - RSS feed: $source
+ - date published: 2025-01-25T06:45:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>I priated dont starve together on steamrip and me and my friend want to play on a local server but sincee we both pir4ated it on the same place it says account has been logged in from a diffrent location. We are both physically on the same server and are connected to the same network. The error says &#39;This account has been logged in from a diffrent location&#39; any way to fix that?</p> <p><strong>1</strong>. Name of the game <strong>2</strong>. Site from which you got the game from <strong>3</strong>. System Specs and OS Version <strong>4</strong>. Steps taken to try to fix the issue</p> <ol> <li>Dont starve together</li> <li>Steamrip</li> <li>32Gigs ram, ryzen 5, rtx 3060ti</li> <li>I dont know what to do?</li> </ol> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Eastern_Week7113"> /u/Eastern_Week7113 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9h7a8/me_and_my_friend_both_pirated
+
+## How to Change Language
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9h5nz/how_to_change_language](https://www.reddit.com/r/CrackSupport/comments/1i9h5nz/how_to_change_language)
+ - RSS feed: $source
+ - date published: 2025-01-25T06:42:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just download Spider man mile morales from fitgirl repack and its in japanese how do i make it to english?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Forward_Area1140"> /u/Forward_Area1140 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9h5nz/how_to_change_language/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9h5nz/how_to_change_language/">[comments]</a></span>
+
+## Where to get free Plague inc evolved
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9fe27/where_to_get_free_plague_inc_evolved](https://www.reddit.com/r/CrackSupport/comments/1i9fe27/where_to_get_free_plague_inc_evolved)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:48:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>please send the link</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Random_bozo_9570"> /u/Random_bozo_9570 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9fe27/where_to_get_free_plague_inc_evolved/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9fe27/where_to_get_free_plague_inc_evolved/">[comments]</a></span>
+
+## Where do I find the megathread
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9fb1a/where_do_i_find_the_megathread](https://www.reddit.com/r/CrackSupport/comments/1i9fb1a/where_do_i_find_the_megathread)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:44:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been searching for a while and I suppose it has a lot of useful stuff to know about pirating, where is the mega thread/ what is it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fun_Reality_3173"> /u/Fun_Reality_3173 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9fb1a/where_do_i_find_the_megathread/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9fb1a/where_do_i_find_the_megathread/">[comments]</a></span>
+
+## Cyberpunk No Audio Issue
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9eosu/cyberpunk_no_audio_issue](https://www.reddit.com/r/CrackSupport/comments/1i9eosu/cyberpunk_no_audio_issue)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:07:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I downloaded my first game from fitgirl which was cyberpunk 2077. When is tried opening the game a error showed up . Then I re-ran the file check and I found out that a file audio2_soundbank.archive was corrupted. Sol tried deleting the file and then opening the game which fortunately solved the issue. But the the game runs with no audio. Do I have to reinstall the game completely again or is there some way I could resolve it w/o having to reinstall the game?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Adventurous-Ice-6491"> /u/Adventurous-Ice-6491 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9eosu/cyberpunk_no_audio_issue/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9eosu/cyberpunk_no_audio_issue/">[comments]</a></span>
+
+## Dead Space 2023 Files
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9diz5/dead_space_2023_files](https://www.reddit.com/r/CrackSupport/comments/1i9diz5/dead_space_2023_files)
+ - RSS feed: $source
+ - date published: 2025-01-25T03:02:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello.<br/> Is there anywhere I can get the clean files for the Dead Space remake ? I&#39;ll try playing it using Anadius emulator.<br/> Already tried this Deluxe 3.0.3 torrent, but the executable simply doesn&#39;t run</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LucasBS1"> /u/LucasBS1 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9diz5/dead_space_2023_files/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9diz5/dead_space_2023_files/">[comments]</a></span>
+
+## card-en-ciel save transfer
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9b16c/cardenciel_save_transfer](https://www.reddit.com/r/CrackSupport/comments/1i9b16c/cardenciel_save_transfer)
+ - RSS feed: $source
+ - date published: 2025-01-25T00:53:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was using the pirated 1.10 version and bought the new 1.20 version because the cracked one wasn&#39;t getting updates on any site.</p> <p>I tried transferring my save file but the official version gives me a &quot;can&#39;t read systemdata.sav&quot; when I try that.</p> <p>Has anyone else run into this issue and how do you fix it? Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ActualThrowaway7856"> /u/ActualThrowaway7856 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9b16c/cardenciel_save_transfer/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9b16c/cardenciel_save_transfer/">[comments]</a></span>
+
+## Fitgirl repacks
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9agyu/fitgirl_repacks](https://www.reddit.com/r/CrackSupport/comments/1i9agyu/fitgirl_repacks)
+ - RSS feed: $source
+ - date published: 2025-01-25T00:26:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1i9agyu/fitgirl_repacks/"> <img src="https://preview.redd.it/to1lrb0xa1fe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e782b1db1b7b61e69b08a30c778123c9efb61af9" alt="Fitgirl repacks" title="Fitgirl repacks" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Is this normal and how do I fix it? I verified the files beforehand.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/That-Layer4731"> /u/That-Layer4731 </a> <br/> <span><a href="https://i.redd.it/to1lrb0xa1fe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9agyu/fitgirl_repacks/">[comments]</a></span> </td></tr></table>
+
+## Anyone able to run Final Fantasy 7 Rebirth on Crossover?
+ - [https://www.reddit.com/r/CrackSupport/comments/1i9a15b/anyone_able_to_run_final_fantasy_7_rebirth_on](https://www.reddit.com/r/CrackSupport/comments/1i9a15b/anyone_able_to_run_final_fantasy_7_rebirth_on)
+ - RSS feed: $source
+ - date published: 2025-01-25T00:05:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>After downloading it, I tried to run it using Crossover. After my first attempt, it requested Visual C++ runtime, which installed and reran, then I encountered this error. If anyone had any success please let me know what you did</p> <p><a href="https://imgur.com/a/quowbNY">https://imgur.com/a/quowbNY</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/x0rchid"> /u/x0rchid </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9a15b/anyone_able_to_run_final_fantasy_7_rebirth_on/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1i9a15b/anyone_able_to_run_final_fantasy_7_rebirth_on/">[comments]</a></span>
+

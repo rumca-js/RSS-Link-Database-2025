@@ -1,0 +1,30 @@
+# Source:The RISC-V Instruction Set Architecture, URL:https://www.reddit.com/r/RISCV/.rss, language:en
+
+## Toolchain
+ - [https://www.reddit.com/r/RISCV/comments/1i9ogos/toolchain](https://www.reddit.com/r/RISCV/comments/1i9ogos/toolchain)
+ - RSS feed: $source
+ - date published: 2025-01-25T14:47:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys, I was trying to start my own learning journey with RISC-V and I am stuck with the installation of the toolchain, I want like 15 min google meet with one of you to guide me through the installation or suggest a youtube video that install the toolchain correctly.</p> <p>And I would be happy with you suggestion in books or lectures that could help me in this journey, I am very good at the Architectural aspect of RISC-V as well as verilog and FPGA&#39;s, but its kinda the new stuff Struggles</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Equivalent-Data562"> /u/Equivalent-Data562 </a> <br/> <span><a href="https://www.reddit.com/r/RISCV/comments/1i9ogos/toolchain/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1i9ogos/toolchain/">[comments]</a></span>
+
+## SOURCE SUGGESTIONS
+ - [https://www.reddit.com/r/RISCV/comments/1i9ngx5/source_suggestions](https://www.reddit.com/r/RISCV/comments/1i9ngx5/source_suggestions)
+ - RSS feed: $source
+ - date published: 2025-01-25T13:58:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Where can I find good resources to learn rv-V extension from? The github spec is pretty tiresome to go through</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MinuteSession1976"> /u/MinuteSession1976 </a> <br/> <span><a href="https://www.reddit.com/r/RISCV/comments/1i9ngx5/source_suggestions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1i9ngx5/source_suggestions/">[comments]</a></span>
+
+## How does a hart differentiate between a 32-bit instruction and a 16 bit instruction (RVC) instruction?
+ - [https://www.reddit.com/r/RISCV/comments/1i9m0nk/how_does_a_hart_differentiate_between_a_32bit](https://www.reddit.com/r/RISCV/comments/1i9m0nk/how_does_a_hart_differentiate_between_a_32bit)
+ - RSS feed: $source
+ - date published: 2025-01-25T12:34:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Since the 16 bit RVC instructions are aligned on a 2-byte boundary, it is not uncommon to find them between two 32-bit instructions.</p> <p>Suppose in memory we have the following layout. Address Contents 0 &lt;32-bit instruction&gt; 4 &lt;16-bit instruction&gt; 6 &lt;32-bit instruction&gt;</p> <p>Now I am aware that the 16 bit instructions have their first two bits set to (00, 01, 10) while the 32-bit ones are set to 11.</p> <p>However after having executed the first instruction at address 0, how does the hart&#39;s decoder understand that this time it should read 2 bytes and not 4 to get the right instruction.</p> <p>Actually, I am writing a riscv emulator where the main loop isjust fetching 4 bytes from memory and executing them and I can&#39;t seem to fathom how to support the compressed instruction extension.</p> <p>Thanks in advance for any help and please do not hesitate to ask if you feel the question is not clear and I apologise if it is a l
+
+## Sipeed NanoKVM PCIe gold finger and remote power on
+ - [https://www.reddit.com/r/RISCV/comments/1i9bzgz/sipeed_nanokvm_pcie_gold_finger_and_remote_power](https://www.reddit.com/r/RISCV/comments/1i9bzgz/sipeed_nanokvm_pcie_gold_finger_and_remote_power)
+ - RSS feed: $source
+ - date published: 2025-01-25T01:40:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I see lots of good reviews about these KVMs on here and so I recently purchased a Sipeed NanoKVM PCIe POE version. I was going to plug it into a free PCIe x1 slot I have on my board. But I also wanted to remote power on the machine, but I don&#39;t think power is available via PCIe while the main machine is off? Since it&#39;s POE, I figured I might want to power it over Ethernet. If I power it via POE, will that conflict with PCIe power or should I just install it on a slot that doesn&#39;t have a PCIe slot so the gold finger is just dangling? Or does it not matter and I can do both? What about USB power?</p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/misosoup7"> /u/misosoup7 </a> <br/> <span><a href="https://www.reddit.com/r/RISCV/comments/1i9bzgz/sipeed_nanokvm_pcie_gold_finger_and_remote_power/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1i9b
+

@@ -1,0 +1,149 @@
+# Source:Docker: An open source project to pack, ship and run any application as a lightweight container, URL:https://www.reddit.com/r/docker/.rss, language:en
+
+## Can't resolve local DNS from within container.
+ - [https://www.reddit.com/r/docker/comments/1i9xyyb/cant_resolve_local_dns_from_within_container](https://www.reddit.com/r/docker/comments/1i9xyyb/cant_resolve_local_dns_from_within_container)
+ - RSS feed: $source
+ - date published: 2025-01-25T21:47:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am migrating my containers to a new server. </p> <p>I have a container fro pi-hole, ngingx proxy manager and the *arr stack.</p> <p>I access my services through npm where I have setted local domain names: radarr.homelab.local,, sonarr.homelab.local,....</p> <p>The domain names work fine when used in the browser but when using them to configure the *arr stack they can not resolve them. If I try to set up flaresolverr in prowlarr using flaresolverr.homelab.local I get an error that says:</p> <blockquote> <p>Unable to connect to proxy: Resource temporarily unavailable (flaresolverr.homelab.local:80). Check the log surrounding this error for details</p> </blockquote> <p>I would appreciate any suggestion on how to begin to troubleshoot this issue.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VivaPitagoras"> /u/VivaPitagoras </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i9xyyb/cant_resolve_l
+
+## Having issues setting up docker... can't find anything online that helps fix my issues.
+ - [https://www.reddit.com/r/docker/comments/1i9ws8f/having_issues_setting_up_docker_cant_find](https://www.reddit.com/r/docker/comments/1i9ws8f/having_issues_setting_up_docker_cant_find)
+ - RSS feed: $source
+ - date published: 2025-01-25T20:54:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, I&#39;ve spent the past two days trying to get Docker installed and set up on Ubuntu but it doesn&#39;t work and none of solutions to my problems online are actually doing anything for me. </p> <p>I keep getting the error: docker: Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?.<br/> I&#39;ve seen many things saying to do commands with systemctl, but I always get the error: System has not been booted with systemd as init system (PID 1). Can&#39;t operate. Failed to connect to bus: Host is down</p> <p>When I search up that error, I cannot find a straight answer about what to do to fix that error.</p> <p>I saw some resources saying to try to run docker without using systemd, but that doesn&#39;t fix the issue either. It&#39;s frustrating because I see guides online or watch videos on youtube setting this up and they take like less than 10 minutes, but I&#39;ve been on this for the past two days and
+
+## Docker Storage Size
+ - [https://www.reddit.com/r/docker/comments/1i9vgkq/docker_storage_size](https://www.reddit.com/r/docker/comments/1i9vgkq/docker_storage_size)
+ - RSS feed: $source
+ - date published: 2025-01-25T19:56:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>When i originally setup Ubuntu Server, I started with 50GB of room and also installed Docker. Since then I have expanded the size of the Ubuntu Server storage, but it appears that Docker has not grown with it and is limited to the existing 50GB.</p> <p>Using overlay2 with backing file system of extfs. It looks like I can use <code>sudo dockerd -s overlay2 --storage-opt overlay2.size=100G</code> to expand it, but will this delete everything in it, or am I safe? And is that even the correct way to go about it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mrcch"> /u/mrcch </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i9vgkq/docker_storage_size/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i9vgkq/docker_storage_size/">[comments]</a></span>
+
+## What is wrong with my YML config?
+ - [https://www.reddit.com/r/docker/comments/1i9u9f2/what_is_wrong_with_my_yml_config](https://www.reddit.com/r/docker/comments/1i9u9f2/what_is_wrong_with_my_yml_config)
+ - RSS feed: $source
+ - date published: 2025-01-25T19:03:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, I recently got DIUN to let me know when my Docker stuff gets updated.</p> <p>However, &quot;docker compose up -d&quot; won&#39;t run because of an issue with the yml file - I assume indentation, but I have no idea where the indentation is supposed to go. The part in question is the &quot;notify&quot; block and the Discord stuff under it. Got it from <a href="https://crazymax.dev/diun/notif/discord/">https://crazymax.dev/diun/notif/discord/</a></p> <pre><code>name: diun services: diun: image: crazymax/diun:latest container_name: diun command: serve volumes: - &quot;/home/username/Dockerrrrrr/DIUN:/data&quot; - &quot;/var/run/docker.sock:/var/run/docker.sock&quot; environment: - &quot;TZ=America/New_York&quot; - &quot;LOG_LEVEL=info&quot; - &quot;LOG_JSON=false&quot; - &quot;DIUN_WATCH_WORKERS=20&quot; - &quot;DIUN_WATCH_SCHEDULE=0 */6 * * *&quot; - &quot;DIUN_WATCH_JITTER=30s&quot; - &quot;DIUN_PROVIDERS_DOCKER=true&quot; - &quot;DIUN_PROVIDERS_DO
+
+## Dockerized Server vs Bare Metal Server
+ - [https://www.reddit.com/r/docker/comments/1i9t8fl/dockerized_server_vs_bare_metal_server](https://www.reddit.com/r/docker/comments/1i9t8fl/dockerized_server_vs_bare_metal_server)
+ - RSS feed: $source
+ - date published: 2025-01-25T18:19:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/docker/comments/1i9t8fl/dockerized_server_vs_bare_metal_server/"> <img src="https://b.thumbs.redditmedia.com/R6LNv85EK4j4DqOjI-AmlyizG_j18Kq5ck5DzWAHhOk.jpg" alt="Dockerized Server vs Bare Metal Server" title="Dockerized Server vs Bare Metal Server" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eightstreets"> /u/eightstreets </a> <br/> <span><a href="/r/selfhosted/comments/1i9t7p4/dockerized_server_vs_bare_metal_server/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i9t8fl/dockerized_server_vs_bare_metal_server/">[comments]</a></span> </td></tr></table>
+
+## Correctly passing .env variables into docker compose
+ - [https://www.reddit.com/r/docker/comments/1i9t6k7/correctly_passing_env_variables_into_docker](https://www.reddit.com/r/docker/comments/1i9t6k7/correctly_passing_env_variables_into_docker)
+ - RSS feed: $source
+ - date published: 2025-01-25T18:17:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>My goal is to create a .env file to store all my API keys, passwords, and other sensitive information that my containers and their configurations can reference. Why? To make it easier to update API keys, and/or share a sanitized docker compose/config. Some keys are shared across multiple containers but are named differently in their respective configurations (e.g., Container 1 uses TOKEN, while Container 2 uses KEY for the same API token). To simplify the .env file, I thought it would make sense to map both environment variables to a single variable in the .env. </p> <p>&nbsp;</p> <p>I was able to make this work using these threads <a href="https://forums.docker.com/t/variables-resolved-from-env-file-but-not-taking-effect-in-docker-compose-yaml/105394">[1]</a><a href="https://stackoverflow.com/questions/48495663/docker-compose-env-file-not-working">[2]</a>. However, when I run </p> <pre><code>docker compose config </code></pre> <p>I see that the vari
+
+## Kerek: Light Continuous Delivery for Docker Compose, Featuring Zero-Downtime Deployments, Image Distribution over SSH, and More
+ - [https://www.reddit.com/r/docker/comments/1i9rogy/kerek_light_continuous_delivery_for_docker](https://www.reddit.com/r/docker/comments/1i9rogy/kerek_light_continuous_delivery_for_docker)
+ - RSS feed: $source
+ - date published: 2025-01-25T17:12:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>Happy to share <a href="https://github.com/evolutics/kerek">Kerek</a>, a CLI that adds features to Docker for people who like to keep continuous delivery light and not deal with Kubernetes or a container registry.</p> <p><strong>Features:</strong></p> <ul> <li>Zero-downtime deployments for Docker Compose.</li> <li>Distributing images over SSH instead of a registry.</li> <li>Custom SSH config files supported for remote Docker instances.</li> <li>Compatible with Docker and Podman.</li> </ul> <p>It has emerged from experiments about <a href="https://github.com/evolutics/zero-downtime-deployments-with-podman-docker-or-docker-compose">zero-downtime deployments with pure Podman, Docker, or Docker Compose</a>.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/evolutics"> /u/evolutics </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i9rogy/kerek_light_continuous_delivery_for_docker/">[link]</a></span> &
+
+## DIUN not installing?...
+ - [https://www.reddit.com/r/docker/comments/1i9rkdr/diun_not_installing](https://www.reddit.com/r/docker/comments/1i9rkdr/diun_not_installing)
+ - RSS feed: $source
+ - date published: 2025-01-25T17:07:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just found out about DIUN.</p> <p>When I run the docker-compose.yml file, I get this error: <a href="https://i.imgur.com/xw3FF65.png">https://i.imgur.com/xw3FF65.png</a></p> <p>Makes no sense because I don&#39;t use Docker Desktop, I use regular Docker.</p> <p>My config is:</p> <pre><code>name: diun services: diun: image: crazymax/diun:latest container_name: diun command: serve volumes: - &quot;/home/username/Dockerrrrr/DUIN:/data&quot; - &quot;/var/run/docker.sock:/var/run/docker.sock&quot; environment: - &quot;TZ=America/New_York&quot; - &quot;LOG_LEVEL=info&quot; - &quot;LOG_JSON=false&quot; - &quot;DIUN_WATCH_WORKERS=20&quot; - &quot;DIUN_WATCH_SCHEDULE=0 */6 * * *&quot; - &quot;DIUN_WATCH_JITTER=30s&quot; - &quot;DIUN_PROVIDERS_DOCKER=true&quot; - &quot;DIUN_PROVIDERS_DOCKER_WATCHBYDEFAULT=true&quot; restart: always </code></pre> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rthwes"> /u/rthwes </a> <br/> <spa
+
+## Docker container not starting automatically on server reboot?
+ - [https://www.reddit.com/r/docker/comments/1i9pvpz/docker_container_not_starting_automatically_on](https://www.reddit.com/r/docker/comments/1i9pvpz/docker_container_not_starting_automatically_on)
+ - RSS feed: $source
+ - date published: 2025-01-25T15:54:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>When I restart my server PC, Gluetun is not auto-starting, which also is making my qBittorrent not start at all since it runs through that. My docker-compose.yml file is:</p> <pre><code>services: gluetun: image: qmcgaw/gluetun container_name: gluetun hostname: gluetun cap_add: - NET_ADMIN devices: - /dev/net/tun:/dev/net/tun ports: - Redacted - Redacted - Redacted # qbittorrent volumes: - /home/username/Dockers/Gluetun:/gluetun environment: - VPN_SERVICE_PROVIDER=protonvpn - VPN_TYPE=wireguard - WIREGUARD_PRIVATE_KEY=0ByguhkvfVGFYUKGLIYUGUPIUIbiuHo= - SERVER_COUNTRIES=United States - TZ=America/New_York restart: always qbittorrent: image: lscr.io/linuxserver/qbittorrent container_name: qbittorrent network_mode: &quot;service:gluetun&quot; environment: - PUID=1000 - PGID=1000 - TZ=America/New_York - WEBUI_PORT=Redacted volumes: - /home/username/Dockerrrrr/qBittorrent:/config - /media/folder/Torrents:/downloads - /media/folder/Torrents/incomplete:/down
+
+## Question about local docker images
+ - [https://www.reddit.com/r/docker/comments/1i9oy02/question_about_local_docker_images](https://www.reddit.com/r/docker/comments/1i9oy02/question_about_local_docker_images)
+ - RSS feed: $source
+ - date published: 2025-01-25T15:10:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a question. </p> <p>I have recieved from my supplier of smart relais a docker compose file. I was able to install everyting with the exeption of the local files in the folder. </p> <p>I have 2 zip files in this folder with the docker image<br/> 1 Jars file<br/> 1 <a href="http://install.sh">install.sh</a> file<br/> 1 docker.tar file<br/> 1 docker-compose.yml file</p> <p>Is there a easy way to install this? </p> <p>Please let me know because i am stranded. </p> <p>THanks in advance</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kdnnask2015"> /u/kdnnask2015 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i9oy02/question_about_local_docker_images/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i9oy02/question_about_local_docker_images/">[comments]</a></span>
+
+## How do I know if I can delete a container without important data?
+ - [https://www.reddit.com/r/docker/comments/1i9o0rc/how_do_i_know_if_i_can_delete_a_container_without](https://www.reddit.com/r/docker/comments/1i9o0rc/how_do_i_know_if_i_can_delete_a_container_without)
+ - RSS feed: $source
+ - date published: 2025-01-25T14:25:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>After trying to install open webui and flowise with docker I find a lot of containers and I can&#39;t remember which is the original with data and which one I can delete.</p> <p>How can I know which containers I can delete and which I can&#39;t on Windows?</p> <p><a href="https://i.vgy.me/jiPfNv.png">https://i.vgy.me/jiPfNv.png</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spacecat002"> /u/spacecat002 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i9o0rc/how_do_i_know_if_i_can_delete_a_container_without/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i9o0rc/how_do_i_know_if_i_can_delete_a_container_without/">[comments]</a></span>
+
+## Proper docker-compose structure for paths?
+ - [https://www.reddit.com/r/docker/comments/1i9navq/proper_dockercompose_structure_for_paths](https://www.reddit.com/r/docker/comments/1i9navq/proper_dockercompose_structure_for_paths)
+ - RSS feed: $source
+ - date published: 2025-01-25T13:48:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, I am fairly new to Docker. I use a docker-compose.yml file for each container I have. When I mount volumes to my native (local) machine, they typically start with &quot;/home/username/etcetcetc&quot;</p> <p>But what if I switch OS&#39;s or have a different username on my PC in the future? Is there an easier way to have Docker always know the current machine&#39;s username instead of having to go into every docker-compose file and manually changing the &quot;/username&quot; part of my volume mounts?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rthwes"> /u/rthwes </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i9navq/proper_dockercompose_structure_for_paths/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i9navq/proper_dockercompose_structure_for_paths/">[comments]</a></span>
+
+## qBittorrent volume not properly mapping?
+ - [https://www.reddit.com/r/docker/comments/1i9mn2e/qbittorrent_volume_not_properly_mapping](https://www.reddit.com/r/docker/comments/1i9mn2e/qbittorrent_volume_not_properly_mapping)
+ - RSS feed: $source
+ - date published: 2025-01-25T13:11:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi. So, I have a config folder mapped and a downloads folder mapped, but for some reason when I try to map an &quot;incomplete&quot; folder (while a torrent is downloading or fails or whatever), Docker is creating an &quot;incomplete&quot; folder when I start the container instead of mounting to the &quot;Incomplete&quot; (capitalized) folder that is already there. In qBitt settings, my incomplete path is also properly set to the &quot;Incomplete&quot; folder I made.</p> <p>My map looks like:</p> <pre><code>/media/folder1/folder2/Incomplete:/downloads/incomplete </code></pre> <p>Am I doing something wrong? Any other time I&#39;ve mapped anything else to a folder I&#39;ve already made an properly capitalized, I never had this issue. Native machine is Ubuntu. This worked fine on native so I&#39;m not sure why Docker is doing this.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rthwes"> /u/rthwes </a> <br/> <span>
+
+## Setting static IPs - What are the best practices to avoid conflicts?
+ - [https://www.reddit.com/r/docker/comments/1i9l29a/setting_static_ips_what_are_the_best_practices_to](https://www.reddit.com/r/docker/comments/1i9l29a/setting_static_ips_what_are_the_best_practices_to)
+ - RSS feed: $source
+ - date published: 2025-01-25T11:31:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>TLDR; Docker will hand out IPs to containers based on startup order when the host system reboots. If a container has a static IP address but hasn&#39;t started yet, it&#39;s entirely possible that docker will assign it&#39;s IP address to a different container first, causing a once working system to break after restart.</p> <p>Hi! I&#39;m struggling to find any solid information on the best way to set a static IP to a container using docker compose. The general advice is &quot;don&#39;t, but if you have too, use ipv4_address = xxx.xxx.xxx.xxx&quot;. Unfortunately I&#39;m in a situation where I need a static IP for my NGINX reverse proxy container ( currently 172.16.18.2 ). I have other containers that need to know the IP of the reverse proxy they will have their traffic routed through, and won&#39;t accept a hostname. </p> <p>The issue is, docker doesn&#39;t seem to have much regard for which containers have had static IPs assigned. Upon restarting t
+
+## Suddenly cannot open Docker Desktop on Mac
+ - [https://www.reddit.com/r/docker/comments/1i9kxy4/suddenly_cannot_open_docker_desktop_on_mac](https://www.reddit.com/r/docker/comments/1i9kxy4/suddenly_cannot_open_docker_desktop_on_mac)
+ - RSS feed: $source
+ - date published: 2025-01-25T11:22:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m facing an error, &quot;Malware Blocked – &quot;com.docker.vmnetd&quot; was not opened because it contains malware. This action did not harm your Mac.&quot; </p> <p>Does anyone know any solutions?</p> <p>I have been able to use the Docker app on my Mac.<br/> I have tried to:<br/> - delete the app and related files from my pc<br/> - reinstall the latest one<br/> - set &quot;Allow applications from&quot; with &quot;App Store &amp; Kown Developers&quot; and also &quot;Anywhere&quot;.<br/> - Restart the pc</p> <p>However, either did not work.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Realistic-Reserve512"> /u/Realistic-Reserve512 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i9kxy4/suddenly_cannot_open_docker_desktop_on_mac/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i9kxy4/suddenly_cannot_open_docker_desktop_on_mac/">[comments]</a></span>
+
+## What Makes A Docker Container Unhealthy
+ - [https://www.reddit.com/r/docker/comments/1i9jmgb/what_makes_a_docker_container_unhealthy](https://www.reddit.com/r/docker/comments/1i9jmgb/what_makes_a_docker_container_unhealthy)
+ - RSS feed: $source
+ - date published: 2025-01-25T09:46:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>From time to time I will see one or two of my containers marked unhealthy at random times. It doesn&#39;t happen a lot, but it has happened, and then, as it came, it mysteriously disappears. I check Dozzle but I don&#39;t see anything remarkable. </p> <p>So, my question is, what might be causing this, and should there be something specific I am looking for in order to track this down. Would it be favorable to write in healthchecks for containers?</p> <pre><code> healthcheck: test: timeout 10s bash -c &#39;:&gt; /dev/tcp/127.0.0.1/3000&#39; || exit 1 </code></pre> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wild_Magician_4508"> /u/Wild_Magician_4508 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i9jmgb/what_makes_a_docker_container_unhealthy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i9jmgb/what_makes_a_docker_container_unhealthy/">[comments]</a></span>
+
+## How am I supposed to push and pull a composed app?
+ - [https://www.reddit.com/r/docker/comments/1i9g5xk/how_am_i_supposed_to_push_and_pull_a_composed_app](https://www.reddit.com/r/docker/comments/1i9g5xk/how_am_i_supposed_to_push_and_pull_a_composed_app)
+ - RSS feed: $source
+ - date published: 2025-01-25T05:35:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>So it&#39;s a node.js app. My compose.yaml file runs 3 services: front, back and db(mongo). It builds and runs fine locally. Problem is how do I push/pull it so that I can run the containerized/composed app from another machine?</p> <p>I&#39;ve been researching a lot and have tried a lot of things, but instead of getting somewhere with all the info, I feel I&#39;m missing the whole point. Am I misunderstanding Docker? Or is there a way to do this, and I&#39;m just not remotely close?</p> <p>More context if you need:</p> <p>When I push to my repo, it pushes the front and back services, not db. Okay, then I pull those images but then they&#39;re just two standalone images, and I don&#39;t know a way to compose them so that the db gets pulled from the official mongo image and they all work seamlessly communicating with each other. Do I need to create a network, or something like that? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://w
+
+## Can Docker read folders in this format? : {Folder1|Folder2|Folder3}
+ - [https://www.reddit.com/r/docker/comments/1i9drx7/can_docker_read_folders_in_this_format](https://www.reddit.com/r/docker/comments/1i9drx7/can_docker_read_folders_in_this_format)
+ - RSS feed: $source
+ - date published: 2025-01-25T03:16:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am transferring my server&#39;s native qBittorrent install to Docker, which has downloads set to &quot;/media/folder1/folder2/{TV Shows|Anime|Movies}&quot; and it works perfectly fine. Can I mount folders like that in a Docker compose, though?</p> <p>Example:</p> <pre><code>- /media/folder1/folder2/{TV Shows|Anime|Movies}:/downloads </code></pre> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rthwes"> /u/rthwes </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i9drx7/can_docker_read_folders_in_this_format/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i9drx7/can_docker_read_folders_in_this_format/">[comments]</a></span>
+
+## It's working on Windows but not Linux (woks on my machine). NodeJS with Puppeteer.
+ - [https://www.reddit.com/r/docker/comments/1i9dkfu/its_working_on_windows_but_not_linux_woks_on_my](https://www.reddit.com/r/docker/comments/1i9dkfu/its_working_on_windows_but_not_linux_woks_on_my)
+ - RSS feed: $source
+ - date published: 2025-01-25T03:05:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a NodeJS app running a very simple Puppeteer bot. Works fine of windows but when I move the docker-compose.yml and node project to Linux (Debian 12 - Bookworm) I get an error in the docker container itself. </p> <p>First... HOW? I thought this was the very thing docker was meant to solve.</p> <p>Second: I have looked at the website <a href="https://pptr.dev/troubleshooting">https://pptr.dev/troubleshooting</a> and as you can see from my docker-compose file, have installed all needed dependencies (and its working on windows). I have sheared the web, asked the AI&#39;s and have found no help. Even an explination would be a great help. Thank you for any of your time. </p> <p>DOCKER-COMPOSE:</p> <pre><code>services: app: image: node:23-bookworm container_name: puppeteer-simple volumes: - ./simple-puppeteer:/usr/src/app working_dir: /usr/src/app command: bash -c &quot;apt-get update &amp;&amp; apt-get update &amp;&amp; apt-get install -y ca-certifi
+
+## Why does this image take so long to pull?
+ - [https://www.reddit.com/r/docker/comments/1i9coe5/why_does_this_image_take_so_long_to_pull](https://www.reddit.com/r/docker/comments/1i9coe5/why_does_this_image_take_so_long_to_pull)
+ - RSS feed: $source
+ - date published: 2025-01-25T02:16:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>I use Home Assistant, which gets seemingly weekly updates:</p> <p><a href="https://hub.docker.com/r/homeassistant/home-assistant">https://hub.docker.com/r/homeassistant/home-assistant</a></p> <p>Why does this take so long to pull (download and extract), even if I have the previous image on my drive? I assume that there’s not a lot of changes made to the repository in a week. I’m not sure how layers work, but don’t I have most of the layers already? </p> <p>Is there something I can do to make these updates faster?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RexKramerDangerCker"> /u/RexKramerDangerCker </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i9coe5/why_does_this_image_take_so_long_to_pull/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1i9coe5/why_does_this_image_take_so_long_to_pull/">[comments]</a></span>
+
+## Cryptocurrency notification - does one exist
+ - [https://www.reddit.com/r/docker/comments/1i9cbjm/cryptocurrency_notification_does_one_exist](https://www.reddit.com/r/docker/comments/1i9cbjm/cryptocurrency_notification_does_one_exist)
+ - RSS feed: $source
+ - date published: 2025-01-25T01:58:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am looking for a cryptocurrency alert system. Sure there are lots on the Internet that gives you a free 7day trial or limits you to 5 notifications. Well I would like to host one myself with my docker server. I don&#39;t like to pay for services (pricey) that I can possible host myself. Does anyone know of a crypto price notification container. It just needs to text me when it hits the price. I wouldn&#39;t mind it sending to my Telegram account either or maybe it has a front end GUI that my crypto buddies could also use would be a bonus.</p> <p>I found a couple that didn&#39;t quite do this, and have fell out of updates, by like 7 years.</p> <p>NOTE: I use docker compose</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Beam_Me_Up-NCC-1704D"> /u/Beam_Me_Up-NCC-1704D </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1i9cbjm/cryptocurrency_notification_does_one_exist/">[link]</a></span> &#32; <sp
+

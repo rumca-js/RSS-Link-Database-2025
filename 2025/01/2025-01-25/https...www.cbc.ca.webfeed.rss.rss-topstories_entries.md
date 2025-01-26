@@ -1,0 +1,86 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## How being brought up on a farm shaped New York Sirens’ Ella Shelton
+ - [https://www.cbc.ca/player/play/9.6622349?cmp=rss](https://www.cbc.ca/player/play/9.6622349?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T09:00:00+00:00
+
+<img src='https://i.cbc.ca/ais/1bd2bbea-4009-41f1-a80e-8c7de12866c4,1737734169780/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3BResize%3D%28620%29' alt='woman with hockey teammates pre-game' width='620' height='349' title=''/><p>Growing up on her family farm in the small town of Foldens, Ont., Ella Shelton started working hard at a young age. That hard work turned her dream of playing pro hockey into a reality.</p>
+
+## Why a unionized warehouse in Quebec posed a threat to Amazon
+ - [https://www.cbc.ca/news/canada/montreal/unionized-amazon-warehouse-quebec-concern-1.7441043?cmp=rss](https://www.cbc.ca/news/canada/montreal/unionized-amazon-warehouse-quebec-concern-1.7441043?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T08:36:41+00:00
+
+<img src='https://i.cbc.ca/ais/f535eb35-90db-4536-9944-297c6f30e24b,1737672585727/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D%28620%29' alt='A woman in a coat is at the centre of an image. In the background are tweets and posts regarding Amazon' width='620' height='349' title=''/><p></p>
+
+## Canadian Jack Crawford wins World Cup downhill in Kitzbuhel
+ - [https://www.cbc.ca/sports/olympics/winter/alpine-skiing/world-cup-mens-downhill-kitzbuhel-january-25-1.7440573?cmp=rss](https://www.cbc.ca/sports/olympics/winter/alpine-skiing/world-cup-mens-downhill-kitzbuhel-january-25-1.7440573?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T07:43:22+00:00
+
+<img src='https://i.cbc.ca/1.7441651.1737806647!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2195191287.jpg' alt='A men&apos;s alpine skier raises his arms in celebration.' width='620' height='349' title='Canada&apos;s Jack Crawford reacts in the finish area during the men&apos;s downhill event of the World Cup stop in Kitzbuhel, Austria.'/><p>Canada's Jack Crawford raced to a World Cup victory on the famed Streif course in Kitzbuhel, Austria, on Saturday. Fellow Canadian Cam Alexander also finished on the podium, taking bronze.</p>
+
+## Keys upsets 2-time champion Sabalenka in Australian Open final
+ - [https://www.cbc.ca/sports/tennis/australian-open-women-final-january-25-1.7440579?cmp=rss](https://www.cbc.ca/sports/tennis/australian-open-women-final-january-25-1.7440579?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T07:23:41+00:00
+
+<img src='https://i.cbc.ca/1.7441653.1737807714!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2195840866.jpg' alt='A women&apos;s tennis player holds a trophy with the word &apos;MELBOURNE&apos; spelled out on the court.' width='620' height='349' title='American Madison Keys poses with the Daphne Akhurst Memorial Cup after beating Aryna Sabalenka in the final of the 2025 Australian Open on Saturday in Melbourne, Australia.'/><p>Madison Keys of the United States upset two-time defending champion Aryna Sabalenka of Belarus 6-3, 2-6, 7-5 in the Australian Open final on Saturday night in Melbourne to collect her first Grand Slam title at age 29.</p>
+
+## 4 female soldiers freed from Gaza as part of Israel-Hamas ceasefire
+ - [https://www.cbc.ca/news/world/hamas-israel-2nd-hostage-swap-1.7441642?cmp=rss](https://www.cbc.ca/news/world/hamas-israel-2nd-hostage-swap-1.7441642?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T05:55:24+00:00
+
+<img src='https://i.cbc.ca/1.7441646.1737800968!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/israel-palestinians.jpg' alt='Four female Israeli soldiers.' width='620' height='349' title='Israeli female soldier hostages wave and react at a Palestinian crowd before being handed over to the Red Cross in Gaza City, Saturday, Jan. 25, 2025. (AP Photo/Abed Hajjar)'/><p>The Palestinian militant group Hamas handed four female Israeli soldier hostages over to the International Committee of the Red Cross on Saturday.</p>
+
+## Canada's premiers have wanted to scrap internal trade barriers for years. So why haven't they?
+ - [https://www.cbc.ca/news/politics/canada-internal-free-trade-barriers-1.7439757?cmp=rss](https://www.cbc.ca/news/politics/canada-internal-free-trade-barriers-1.7439757?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:01:00+00:00
+
+<img src='https://i.cbc.ca/1.7434260.1737128518!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/premiers-meeting-ottawa.jpg' alt='Premier Doug Ford and Prime Minister Justin Trudeau speak into a microphone' width='620' height='349' title='Premiers, federal cabinet ministers and Prime Minister Justin Trudeau look on as Ontario Premier Doug Ford, third from left, speaks at a press conference concluding a first ministers meeting, in Ottawa, Wednesday, Jan. 15, 2025.'/><p></p>
+
+## Transport Minister Anita Anand endorses Mark Carney for Liberal leader
+ - [https://www.cbc.ca/news/politics/anand-endorses-carney-liberal-leader-1.7441756?cmp=rss](https://www.cbc.ca/news/politics/anand-endorses-carney-liberal-leader-1.7441756?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:01:00+00:00
+
+<img src='https://i.cbc.ca/1.7441762.1737834457!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/commons-20241126.jpg' alt='A woman with long black hair, wearing an orange jacket, points as she stands behind a podium with a group of people behind her.' width='620' height='349' title='President of the Treasury Board and Transport Minister Anita Anand rises during Question Period, Tuesday, Nov. 26, 2024 in Ottawa.  THE CANADIAN PRESS/Adrian Wyld'/><p></p>
+
+## Trump fans in border states support 'America First' — even at the expense of their northern neighbours
+ - [https://www.cbc.ca/news/canada/manitoba/trump-border-states-america-first-1.7439925?cmp=rss](https://www.cbc.ca/news/canada/manitoba/trump-border-states-america-first-1.7439925?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:01:00+00:00
+
+<img src='https://i.cbc.ca/ais/ac3949dd-d446-4724-89b5-8e3353a637ac,1737756969906/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='A man wears a beanie with the words &apos;MAGA&apos; on the front while standing in front of an American flag and a cardboard cutout of another man.' width='620' height='349' title='The Trump 2.0 administration is re-imagining the United States as a protectionist and &apos;America First&apos; nation. Some experts say it’s a new and dangerous era in U.S. foreign policy, threatening the interests of allies, such as Canada. But many Trump supporters are 100 per cent on board with that.'/><p></p>
+
+## Families returning to parts of Gaza face danger of unexploded bombs underground
+ - [https://www.cbc.ca/news/world/gaza-rafah-unexploded-ordnances-danger-ceasefire-1.7438240?cmp=rss](https://www.cbc.ca/news/world/gaza-rafah-unexploded-ordnances-danger-ceasefire-1.7438240?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7439298.1737643687!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/unexploded-ordnance.jpeg' alt='A man digs up an unexploded ordnance.' width='620' height='349' title='A man digs up an unexploded ordnance in Rafah, southern Gaza, on Wed. Jan. 22, 2025.'/><p>While fighting in the air may have stopped in Gaza, danger remains ever-present for Palestinians returning to parts of the war-torn territory due to unexploded ordnances on the ground, blending in with the mounds of rubble and destruction.</p>
+
+## Hard Truths is a horrifying movie. You should see it
+ - [https://www.cbc.ca/news/entertainment/hard-truths-review-1.7440571?cmp=rss](https://www.cbc.ca/news/entertainment/hard-truths-review-1.7440571?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7440605.1737735444!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/awards-season.jpg' alt='An angry woman speaks into a cell phone.' width='620' height='349' title='This image released by Bleecker Street shows Marianne Jean-Baptiste in a scene from Hard Truths.'/><p>Mike Leigh's Hard Truths is an impressionistic portrait of scattered lives, a tragicomedy made from the perspective of various members of a Black family slowly rotting in London. It's also a tough watch.</p>
+
+## In China, I was told grades were everything. Dragon boating in Canada taught me to enjoy the ride
+ - [https://www.cbc.ca/news/canada/in-china-i-was-told-grades-were-everything-dragon-boating-in-canada-taught-me-to-enjoy-the-ride-1.7439123?cmp=rss](https://www.cbc.ca/news/canada/in-china-i-was-told-grades-were-everything-dragon-boating-in-canada-taught-me-to-enjoy-the-ride-1.7439123?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7439188.1737616847!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/northeastern-huskies.jpg' alt='A group of people sit in a dragon boat floating over a water body. Behind them in the background are tall city towers. Some faces have been blurred for privacy.' width='620' height='349' title='Xin Qi, third from the front on the far side of the dragon boat, was part of the Northeastern Huskies — a team of students and staff from Northeastern University in Vancouver.   '/><p>Xin Qi grew up in China, feeling intense pressure to succeed in every exam and activity. If she wasn’t the best, it wasn’t worth pursuing. So when she moved as an international student to Vancouver, she was surprised by an offer to join the campus dragon boat team even though she didn’t have any experience in it.</p>
+
+## Kids in daycare are more sedentary than you'd think. These educators aim to get preschoolers moving
+ - [https://www.cbc.ca/news/canada/sedentary-preschoolers-1.7438717?cmp=rss](https://www.cbc.ca/news/canada/sedentary-preschoolers-1.7438717?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7438758.1737581958!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nyad-not-your-average-daycare-corvette-location.jpg' alt='A female educator holds colourful, oversized waffle block tiles steady as a preschool-aged boy builds a tower with them. A preschool-aged girl looks on from the left.' width='620' height='349' title='Early childhood educator Lisa Cloutier builds a tower with preschoolers at the Corvette location of NYAD, a group of childcare centres situated inside Toronto District School Board schools, on January 22, 2025.'/><p>You'd think preschoolers at daycare dash around all day. But they're more sedentary than you'd expect — which can impact their development of movement and other skills. An expanding initiative aims to help ECEs get little kids moving more.</p>
+

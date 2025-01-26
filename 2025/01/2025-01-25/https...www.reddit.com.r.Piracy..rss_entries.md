@@ -1,0 +1,401 @@
+# Source:Piracy: ꜱᴀɪʟ ᴛʜᴇ ʜɪɢʜ ꜱᴇᴀꜱ, URL:https://www.reddit.com/r/Piracy/.rss, language:
+
+## How do I get my Dying Light 2 save back?
+ - [https://www.reddit.com/r/Piracy/comments/1i9xrwq/how_do_i_get_my_dying_light_2_save_back](https://www.reddit.com/r/Piracy/comments/1i9xrwq/how_do_i_get_my_dying_light_2_save_back)
+ - RSS feed: $source
+ - date published: 2025-01-25T21:38:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>I downloaded Dying Light 2 on steamunlocked awhile and have been playing it quite a bit. Yesterday I uninstalled the game files (not the save) so that I could reinstall the whole game but with the newest updates. Now when I boot it up all my progress is gone and I cant find the save file anywhere, help?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Optimal-Error"> /u/Optimal-Error </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9xrwq/how_do_i_get_my_dying_light_2_save_back/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9xrwq/how_do_i_get_my_dying_light_2_save_back/">[comments]</a></span>
+
+## Jellyfin outside local network
+ - [https://www.reddit.com/r/Piracy/comments/1i9xl5s/jellyfin_outside_local_network](https://www.reddit.com/r/Piracy/comments/1i9xl5s/jellyfin_outside_local_network)
+ - RSS feed: $source
+ - date published: 2025-01-25T21:30:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi I&#39;m new to jellyfin what do you guys use to make it accessible outside from a local network </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mors03"> /u/Mors03 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9xl5s/jellyfin_outside_local_network/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9xl5s/jellyfin_outside_local_network/">[comments]</a></span>
+
+## Planet VPN
+ - [https://www.reddit.com/r/Piracy/comments/1i9xd4f/planet_vpn](https://www.reddit.com/r/Piracy/comments/1i9xd4f/planet_vpn)
+ - RSS feed: $source
+ - date published: 2025-01-25T21:20:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, I was sailing the high seas today, using, because I&#39;m cheap, Planet VPN that I sourced on Firefox&#39;s add-ons. I got a DMCA notice for a show I never even heard of let alone would watch - &quot;Love.After.Lockup.S04.COMPLETE.720p.HDTV.x264-GalaxyTV[TGx]&quot;.</p> <p>So either I got burned by Tor rentGa laxy or Planet VPN was sharing my real IP. I looked but that show was nowhere on my computer.</p> <p>So I guess I&#39;m warning that Planet VPN is NFG and/orT G .to is whacked. I&#39;m pushing 70. only income social security, and I love movies. I also love gettin&#39;over on the man.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/janky-dog"> /u/janky-dog </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9xd4f/planet_vpn/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9xd4f/planet_vpn/">[comments]</a></span>
+
+## Help! Can't Copy Transcription from Private Vimeo Course Video 😫
+ - [https://www.reddit.com/r/Piracy/comments/1i9w15x/help_cant_copy_transcription_from_private_vimeo](https://www.reddit.com/r/Piracy/comments/1i9w15x/help_cant_copy_transcription_from_private_vimeo)
+ - RSS feed: $source
+ - date published: 2025-01-25T20:21:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1i9w15x/help_cant_copy_transcription_from_private_vimeo/"> <img src="https://b.thumbs.redditmedia.com/w9Gv3rrSqnEH0QBgLX2iG409DMORGK38ZtJh0QuzipQ.jpg" alt="Help! Can't Copy Transcription from Private Vimeo Course Video 😫" title="Help! Can't Copy Transcription from Private Vimeo Course Video 😫" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/xy8mk7u187fe1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=5d7b61847e4f0fba19c38b0488d7e694dd8244a0">https://preview.redd.it/xy8mk7u187fe1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=5d7b61847e4f0fba19c38b0488d7e694dd8244a0</a></p> <p>I&#39;m stuck trying to grab the transcription from a private Vimeo course video. I can see the text on screen, but can&#39;t copy/download it.<strong>What I&#39;ve tried:</strong></p> <ul> <li>Right-clicking (doesn&#39;t work)</li> <li>Ctrl+C (nada)</li> <li>Inspect element (blocked)</li> </ul> <p><stro
+
+## How to upload files on torrent
+ - [https://www.reddit.com/r/Piracy/comments/1i9w0y3/how_to_upload_files_on_torrent](https://www.reddit.com/r/Piracy/comments/1i9w0y3/how_to_upload_files_on_torrent)
+ - RSS feed: $source
+ - date published: 2025-01-25T20:21:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>I very often find files on Emule that I cannot find on torrent. How can I upload in a safe way those files on torrent? Thanks 🙏 Edit: I have a VPN</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AnotherRedditUsr"> /u/AnotherRedditUsr </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9w0y3/how_to_upload_files_on_torrent/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9w0y3/how_to_upload_files_on_torrent/">[comments]</a></span>
+
+## Source for High Quality Concert Videos
+ - [https://www.reddit.com/r/Piracy/comments/1i9veuo/source_for_high_quality_concert_videos](https://www.reddit.com/r/Piracy/comments/1i9veuo/source_for_high_quality_concert_videos)
+ - RSS feed: $source
+ - date published: 2025-01-25T19:54:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, Topic says it all. Is there a source for such content? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/buliwyf42"> /u/buliwyf42 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9veuo/source_for_high_quality_concert_videos/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9veuo/source_for_high_quality_concert_videos/">[comments]</a></span>
+
+## Iphone movie apps
+ - [https://www.reddit.com/r/Piracy/comments/1i9uys1/iphone_movie_apps](https://www.reddit.com/r/Piracy/comments/1i9uys1/iphone_movie_apps)
+ - RSS feed: $source
+ - date published: 2025-01-25T19:34:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>Any apps that can be downloaded for streaming movies. Like back in the day I had movie box but would have to delete and verify a certificate every couple of days. Anything like that now?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Interesting_Leader54"> /u/Interesting_Leader54 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9uys1/iphone_movie_apps/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9uys1/iphone_movie_apps/">[comments]</a></span>
+
+## VHS RIPS
+ - [https://www.reddit.com/r/Piracy/comments/1i9uvch/vhs_rips](https://www.reddit.com/r/Piracy/comments/1i9uvch/vhs_rips)
+ - RSS feed: $source
+ - date published: 2025-01-25T19:30:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is there anywhere apart from the Internet Archive, where I&#39;m able to find VHS Rips. Currently trying to find the star wars prequels for nostalgia. Don&#39;t have a VHS player anymore but still own the tapes 🙃</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LyteUniverse"> /u/LyteUniverse </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9uvch/vhs_rips/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9uvch/vhs_rips/">[comments]</a></span>
+
+## Scan upc code to torrent?
+ - [https://www.reddit.com/r/Piracy/comments/1i9tki1/scan_upc_code_to_torrent](https://www.reddit.com/r/Piracy/comments/1i9tki1/scan_upc_code_to_torrent)
+ - RSS feed: $source
+ - date published: 2025-01-25T18:34:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Many years ago when Android was in it&#39;s infancy and stores still carried physical media I had a pretty cool app. </p> <p>I was thinking about digitizing all my CD&#39;s but don&#39;t want to spend days doing it and it reminded me of this app.</p> <p>It was hooked into the UPC database or something. You could scan a CD,DVD, or game barcode and it would grab a torrent of it and start downloading it on my PC at home. </p> <p>Eventually they got banned from whatever database they were pulling the upc info from and went away. </p> <p>I was thinking if something like this still existed I could just scan my CD&#39;s and be very lazy instead of taking the time to actually download the discs some other way. </p> <p>Does anything like this exist today? I haven&#39;t been able to come up with anything.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vaporworks"> /u/vaporworks </a> <br/> <span><a href="https://www.reddi
+
+## Books in spanish?
+ - [https://www.reddit.com/r/Piracy/comments/1i9tf5n/books_in_spanish](https://www.reddit.com/r/Piracy/comments/1i9tf5n/books_in_spanish)
+ - RSS feed: $source
+ - date published: 2025-01-25T18:27:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is there any site for downloading books in Spanish? I&#39;ve looked for it in the megathread but everything is in English (which is not my first language) so, do you know of any?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/a_common_freak"> /u/a_common_freak </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9tf5n/books_in_spanish/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9tf5n/books_in_spanish/">[comments]</a></span>
+
+## Manga Publishers Maintain Pressure Despite Pirate Countermeasures * TorrentFreak
+ - [https://www.reddit.com/r/Piracy/comments/1i9td4j/manga_publishers_maintain_pressure_despite_pirate](https://www.reddit.com/r/Piracy/comments/1i9td4j/manga_publishers_maintain_pressure_despite_pirate)
+ - RSS feed: $source
+ - date published: 2025-01-25T18:25:10+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/LZ129Hindenburg"> /u/LZ129Hindenburg </a> <br/> <span><a href="https://torrentfreak.com/manga-publishers-maintain-pressure-despite-pirate-countermeasures-250125/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9td4j/manga_publishers_maintain_pressure_despite_pirate/">[comments]</a></span>
+
+## how can i find DEV assets?
+ - [https://www.reddit.com/r/Piracy/comments/1i9sio4/how_can_i_find_dev_assets](https://www.reddit.com/r/Piracy/comments/1i9sio4/how_can_i_find_dev_assets)
+ - RSS feed: $source
+ - date published: 2025-01-25T17:48:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>where ı can find pirated assets for my game development?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VacationSmoot"> /u/VacationSmoot </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9sio4/how_can_i_find_dev_assets/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9sio4/how_can_i_find_dev_assets/">[comments]</a></span>
+
+## Seeding from an Android
+ - [https://www.reddit.com/r/Piracy/comments/1i9s6qo/seeding_from_an_android](https://www.reddit.com/r/Piracy/comments/1i9s6qo/seeding_from_an_android)
+ - RSS feed: $source
+ - date published: 2025-01-25T17:33:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello fellow pirates! I have been sailing the high seas since my father taught me when I was little 20 years ago.</p> <p>But now I&#39;d like to help other pirates by using a couple of android phones I have and making them seed for other users to enjoy. </p> <p>If anyone can suggest me apps and tools to use to achieve that! Thank you for your comments in advance.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CyberPhotography"> /u/CyberPhotography </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9s6qo/seeding_from_an_android/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9s6qo/seeding_from_an_android/">[comments]</a></span>
+
+## I need help finding the Goethe B1 exam’s past papers
+ - [https://www.reddit.com/r/Piracy/comments/1i9r7g3/i_need_help_finding_the_goethe_b1_exams_past](https://www.reddit.com/r/Piracy/comments/1i9r7g3/i_need_help_finding_the_goethe_b1_exams_past)
+ - RSS feed: $source
+ - date published: 2025-01-25T16:52:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have the exam on tuesday and i can’t find past papers anywhere &gt;_&lt; please help me!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IlIlllIIIllII"> /u/IlIlllIIIllII </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9r7g3/i_need_help_finding_the_goethe_b1_exams_past/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9r7g3/i_need_help_finding_the_goethe_b1_exams_past/">[comments]</a></span>
+
+## Arrr, what a fine crew of misfits we be!
+ - [https://www.reddit.com/r/Piracy/comments/1i9q3pr/arrr_what_a_fine_crew_of_misfits_we_be](https://www.reddit.com/r/Piracy/comments/1i9q3pr/arrr_what_a_fine_crew_of_misfits_we_be)
+ - RSS feed: $source
+ - date published: 2025-01-25T16:03:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1i9q3pr/arrr_what_a_fine_crew_of_misfits_we_be/"> <img src="https://preview.redd.it/di7bjc33y5fe1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b7b65f350b103bd07334316c24e3d51dca45a978" alt="Arrr, what a fine crew of misfits we be!" title="Arrr, what a fine crew of misfits we be!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MrWinsaplenty"> /u/MrWinsaplenty </a> <br/> <span><a href="https://i.redd.it/di7bjc33y5fe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9q3pr/arrr_what_a_fine_crew_of_misfits_we_be/">[comments]</a></span> </td></tr></table>
+
+## Has anyone used CrackzSoft (FileWomen)? Are they a clone of Crackshash?
+ - [https://www.reddit.com/r/Piracy/comments/1i9pplh/has_anyone_used_crackzsoft_filewomen_are_they_a](https://www.reddit.com/r/Piracy/comments/1i9pplh/has_anyone_used_crackzsoft_filewomen_are_they_a)
+ - RSS feed: $source
+ - date published: 2025-01-25T15:46:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Stumbled upon them while i was on 1337x. Was looking for the 2022 variant of 3DS Max, only Crackshash and CrackzSoft have it cracked and use a EXE rather than a Keygen. Both releases look identical....</p> <p>One thing i have noticed is that the Crackshash one is like 6 gigs while one from Crackzsoft is around 8. </p> <p>The crack file shows no signs of infection on Virustotal... <a href="https://www.virustotal.com/gui/file/ef8be934a0fbb0ee0dd90c8bc17a773deeb27ab8cd20aea24d8ff6a35fe4b5f6/detection">https://www.virustotal.com/gui/file/ef8be934a0fbb0ee0dd90c8bc17a773deeb27ab8cd20aea24d8ff6a35fe4b5f6/detection</a></p> <p>And here&#39;s it on filescan.io <a href="https://www.filescan.io/reports/ef8be934a0fbb0ee0dd90c8bc17a773deeb27ab8cd20aea24d8ff6a35fe4b5f6/c4929799-cc11-4847-85d3-f421081ab412/overview">https://www.filescan.io/reports/ef8be934a0fbb0ee0dd90c8bc17a773deeb27ab8cd20aea24d8ff6a35fe4b5f6/c4929799-cc11-4847-85d3-f421081ab412/overview</a> Claim
+
+## First time torrenting
+ - [https://www.reddit.com/r/Piracy/comments/1i9ozhi/first_time_torrenting](https://www.reddit.com/r/Piracy/comments/1i9ozhi/first_time_torrenting)
+ - RSS feed: $source
+ - date published: 2025-01-25T15:12:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>So i want to to torrent for the first time in forever.<br/> Before i start i want to make sure im at no risk of leaking which is why i wanted to ask for an expertise pretty much. Ive got:<br/> &gt; Proton VPN<br/> &gt; Switzerland Connection<br/> &gt; Malware/Tracker blocked<br/> &gt; Permanent Kill Switch<br/> &gt; Port Forwarding<br/> &gt; QBitTorrent with Interface binded to ProtonVPN and Port set to my Port Forward</p> <p>Ive also seen the option of Split Tunneling, allowing only QBitTorrent to run through the VPN while the rest of my Internet Traffic is through my default Router but it would require my Kill Switch to be disabled, is this fine to do? as i should be fine if ive got my Torrent set to use the VPN Interface only right?</p> <p>Any approval/suggestions/criticism would be really welcome<br/> Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SlimeCore_"> /u/SlimeCore_ </a> <br/> <sp
+
+## Is there a way to get data sets hidden behind the paywall of Statista for free?
+ - [https://www.reddit.com/r/Piracy/comments/1i9oevs/is_there_a_way_to_get_data_sets_hidden_behind_the](https://www.reddit.com/r/Piracy/comments/1i9oevs/is_there_a_way_to_get_data_sets_hidden_behind_the)
+ - RSS feed: $source
+ - date published: 2025-01-25T14:45:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m an engineering student doing a project for my 6th semester. I needed the data for vehicles recalled due to electronic component failures. Statista has got it but it&#39;s hidden behind a massive paywall, about $1700 a year.</p> <p>Is there an alternate way to get the data?</p> <p>Link to the data set: <a href="https://www.statista.com/statistics/1279659/number-of-vehicles-recalled-due-to-electronic-components-defects-worldwide/">https://www.statista.com/statistics/1279659/number-of-vehicles-recalled-due-to-electronic-components-defects-worldwide/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hrutam"> /u/hrutam </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9oevs/is_there_a_way_to_get_data_sets_hidden_behind_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9oevs/is_there_a_way_to_get_data_sets_hidden_behind_the/">[comments]</a></span>
+
+## MMA (PFL/BKFC) stream services?
+ - [https://www.reddit.com/r/Piracy/comments/1i9ndkm/mma_pflbkfc_stream_services](https://www.reddit.com/r/Piracy/comments/1i9ndkm/mma_pflbkfc_stream_services)
+ - RSS feed: $source
+ - date published: 2025-01-25T13:53:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>anyone here able to lend a hand with an MMA streaming service? </p> <p>Have got my usual ones however one has been taken down and the other isn’t stream tonight PFL or BKFC cards, any help much appreciated 👍🏽</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Acrobatic_Actuary369"> /u/Acrobatic_Actuary369 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9ndkm/mma_pflbkfc_stream_services/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9ndkm/mma_pflbkfc_stream_services/">[comments]</a></span>
+
+## Frustrated YouTube viewers seek explanation for hour-long unskippable ads (Update: Statement)
+ - [https://www.reddit.com/r/Piracy/comments/1i9napt/frustrated_youtube_viewers_seek_explanation_for](https://www.reddit.com/r/Piracy/comments/1i9napt/frustrated_youtube_viewers_seek_explanation_for)
+ - RSS feed: $source
+ - date published: 2025-01-25T13:48:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1i9napt/frustrated_youtube_viewers_seek_explanation_for/"> <img src="https://external-preview.redd.it/dp_1FDwC10YUxHMm3KW8R8wGZab5G4gXZDJRQdWEJ68.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e1c994a830749ac9034e21104473f597e5f36d91" alt="Frustrated YouTube viewers seek explanation for hour-long unskippable ads (Update: Statement)" title="Frustrated YouTube viewers seek explanation for hour-long unskippable ads (Update: Statement)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Scbadiver"> /u/Scbadiver </a> <br/> <span><a href="https://www.androidauthority.com/youtube-long-unskippable-ads-problem-3519957/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9napt/frustrated_youtube_viewers_seek_explanation_for/">[comments]</a></span> </td></tr></table>
+
+## Should I be worried about this download?
+ - [https://www.reddit.com/r/Piracy/comments/1i9n873/should_i_be_worried_about_this_download](https://www.reddit.com/r/Piracy/comments/1i9n873/should_i_be_worried_about_this_download)
+ - RSS feed: $source
+ - date published: 2025-01-25T13:44:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1i9n873/should_i_be_worried_about_this_download/"> <img src="https://b.thumbs.redditmedia.com/nWaJwUlKNPX7CfhjzI25L8ldYVqzD5R7h5iOnngIWcA.jpg" alt="Should I be worried about this download?" title="Should I be worried about this download?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So Im not like a professional pirate arg matey, but I have pirated a small handful of games, and have previouslt used Steam Unlocked with no issues. However, I downloaded this file off of Steam Unlocked and after extracting it, this is the EXE:</p> <p><a href="https://preview.redd.it/2zxdwhw695fe1.png?width=485&amp;format=png&amp;auto=webp&amp;s=836262d2d946a49a57f95e7c71eee10afbc1b59e">https://preview.redd.it/2zxdwhw695fe1.png?width=485&amp;format=png&amp;auto=webp&amp;s=836262d2d946a49a57f95e7c71eee10afbc1b59e</a></p> <p>Im a lot more suspicious because this is the only thing in the folder, theres no read me or other files, and it
+
+## Website to stream tv shows and/or movies spanish dubbed but english subbed
+ - [https://www.reddit.com/r/Piracy/comments/1i9n6dg/website_to_stream_tv_shows_andor_movies_spanish](https://www.reddit.com/r/Piracy/comments/1i9n6dg/website_to_stream_tv_shows_andor_movies_spanish)
+ - RSS feed: $source
+ - date published: 2025-01-25T13:41:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m learning spanish, so I want it to be spanish dubbed but english subbed</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mouad-O-G-1"> /u/Mouad-O-G-1 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9n6dg/website_to_stream_tv_shows_andor_movies_spanish/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9n6dg/website_to_stream_tv_shows_andor_movies_spanish/">[comments]</a></span>
+
+## Does anyone recommend a good free VPN?
+ - [https://www.reddit.com/r/Piracy/comments/1i9n4vh/does_anyone_recommend_a_good_free_vpn](https://www.reddit.com/r/Piracy/comments/1i9n4vh/does_anyone_recommend_a_good_free_vpn)
+ - RSS feed: $source
+ - date published: 2025-01-25T13:39:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I saw <a href="/u/GladEffort8159">u/GladEffort8159</a>’s post where he got a fine and I saw a comment saying that you need to bind a VPN to your torrent.</p> <p>I want to bind one but all the good ones are paid. Please, if you have a good, free VPN I can utilise with the client, it would be much appreciated if you provided it with me.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BlitzitePro_II"> /u/BlitzitePro_II </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9n4vh/does_anyone_recommend_a_good_free_vpn/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9n4vh/does_anyone_recommend_a_good_free_vpn/">[comments]</a></span>
+
+## File size/bitrate for 1080p and 4K movies?
+ - [https://www.reddit.com/r/Piracy/comments/1i9mr7l/file_sizebitrate_for_1080p_and_4k_movies](https://www.reddit.com/r/Piracy/comments/1i9mr7l/file_sizebitrate_for_1080p_and_4k_movies)
+ - RSS feed: $source
+ - date published: 2025-01-25T13:18:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m just curious what size or bitrate you guys usually look for in a movie. I&#39;ve seen the same movie be from under a GB to over 10 for the same movie all in 1080p. I tend to look for something in the 3-5GB, and then usually around 10gb+ for 4K movies (I&#39;ll be will to go bigger for something &quot;important&quot;). Obviously not all files of the same size will be the same quality, and I tend to focus on uploaders that offer consistently good quality. I&#39;m just curious how you guys pick stuff.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hotstickywaffle"> /u/hotstickywaffle </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9mr7l/file_sizebitrate_for_1080p_and_4k_movies/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9mr7l/file_sizebitrate_for_1080p_and_4k_movies/">[comments]</a></span>
+
+## Video Editing Programme Reccomendedations?
+ - [https://www.reddit.com/r/Piracy/comments/1i9mbuv/video_editing_programme_reccomendedations](https://www.reddit.com/r/Piracy/comments/1i9mbuv/video_editing_programme_reccomendedations)
+ - RSS feed: $source
+ - date published: 2025-01-25T12:53:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I would like to start editing some videos to upload on YouTube - they&#39;re not gonna be published videos (for now at least), just unlisted for my own memories and sharing with friends. Any programmes that you would recommend for free or pirating? They don&#39;t need to be super fancy, but would appreciate it. </p> <p>Edit: thank you! The programmes suggested look good so I&#39;m going to experiment a bit with them :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TxC_KILLJOY"> /u/TxC_KILLJOY </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9mbuv/video_editing_programme_reccomendedations/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9mbuv/video_editing_programme_reccomendedations/">[comments]</a></span>
+
+## Sims4 unlocker
+ - [https://www.reddit.com/r/Piracy/comments/1i9m7q1/sims4_unlocker](https://www.reddit.com/r/Piracy/comments/1i9m7q1/sims4_unlocker)
+ - RSS feed: $source
+ - date published: 2025-01-25T12:46:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone, I&#39;ve been trying to get a sims 4 unlocker to unlock all the dlcs on the base game, which I own. I only found a certain &quot;anadius&quot; unlocker which seems a little bit shady.</p> <p>Do any of you have experience with it / know if it&#39;s safe? I got mixed reviews online.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/logiobot"> /u/logiobot </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9m7q1/sims4_unlocker/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9m7q1/sims4_unlocker/">[comments]</a></span>
+
+## Found on my way to work: "Pirate party. Being poor is not a crime! Privacy is a constitutional right." (Netherlands)
+ - [https://www.reddit.com/r/Piracy/comments/1i9m6y3/found_on_my_way_to_work_pirate_party_being_poor](https://www.reddit.com/r/Piracy/comments/1i9m6y3/found_on_my_way_to_work_pirate_party_being_poor)
+ - RSS feed: $source
+ - date published: 2025-01-25T12:45:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1i9m6y3/found_on_my_way_to_work_pirate_party_being_poor/"> <img src="https://preview.redd.it/z7wldrugy4fe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=968c0dca500cd022ecb895cb2cb31e2c320f7369" alt="Found on my way to work: &quot;Pirate party. Being poor is not a crime! Privacy is a constitutional right.&quot; (Netherlands)" title="Found on my way to work: &quot;Pirate party. Being poor is not a crime! Privacy is a constitutional right.&quot; (Netherlands)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OkiDokiPanic"> /u/OkiDokiPanic </a> <br/> <span><a href="https://i.redd.it/z7wldrugy4fe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9m6y3/found_on_my_way_to_work_pirate_party_being_poor/">[comments]</a></span> </td></tr></table>
+
+## The "benefits" of paying for a Microsoft Family 365 subscription: auto-bump by +£25/year for "amazing" Copilot
+ - [https://www.reddit.com/r/Piracy/comments/1i9liwp/the_benefits_of_paying_for_a_microsoft_family_365](https://www.reddit.com/r/Piracy/comments/1i9liwp/the_benefits_of_paying_for_a_microsoft_family_365)
+ - RSS feed: $source
+ - date published: 2025-01-25T12:03:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1i9liwp/the_benefits_of_paying_for_a_microsoft_family_365/"> <img src="https://preview.redd.it/zdnjoz0xp4fe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3301ccf435e2c040d8f347deefc83bdf0bc7293" alt="The &quot;benefits&quot; of paying for a Microsoft Family 365 subscription: auto-bump by +£25/year for &quot;amazing&quot; Copilot" title="The &quot;benefits&quot; of paying for a Microsoft Family 365 subscription: auto-bump by +£25/year for &quot;amazing&quot; Copilot" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Useful-Possibility80"> /u/Useful-Possibility80 </a> <br/> <span><a href="https://i.redd.it/zdnjoz0xp4fe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9liwp/the_benefits_of_paying_for_a_microsoft_family_365/">[comments]</a></span> </td></tr></table>
+
+## How do i update cyberpunk 2.1 to 2.21?
+ - [https://www.reddit.com/r/Piracy/comments/1i9lh8k/how_do_i_update_cyberpunk_21_to_221](https://www.reddit.com/r/Piracy/comments/1i9lh8k/how_do_i_update_cyberpunk_21_to_221)
+ - RSS feed: $source
+ - date published: 2025-01-25T12:00:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>I tried elamigos updater but it didn&#39;t launch.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Present_Plantain_163"> /u/Present_Plantain_163 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9lh8k/how_do_i_update_cyberpunk_21_to_221/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9lh8k/how_do_i_update_cyberpunk_21_to_221/">[comments]</a></span>
+
+## Anyone have any good extensions to download hls encrypted videos?
+ - [https://www.reddit.com/r/Piracy/comments/1i9l8vs/anyone_have_any_good_extensions_to_download_hls](https://www.reddit.com/r/Piracy/comments/1i9l8vs/anyone_have_any_good_extensions_to_download_hls)
+ - RSS feed: $source
+ - date published: 2025-01-25T11:43:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>I bought a course but it&#39;s only available for a year and it&#39;s about to expire soon. I used Video DownloadHelper but it only downloads a video every 120 mins. I tried LVS Live Stream Downloader, even though it detects the videos it doesn&#39;t download the audio. I tried other extensions but they can&#39;t even detect the videos on the website. The website is g4g (g<em>eks 4 g</em>*ks). Anyone know any alternatives? yt-dlp and jdownloader2 don&#39;t work either.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/androme-da"> /u/androme-da </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9l8vs/anyone_have_any_good_extensions_to_download_hls/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9l8vs/anyone_have_any_good_extensions_to_download_hls/">[comments]</a></span>
+
+## Do you have a recommendation for another community?
+ - [https://www.reddit.com/r/Piracy/comments/1i9kypj/do_you_have_a_recommendation_for_another_community](https://www.reddit.com/r/Piracy/comments/1i9kypj/do_you_have_a_recommendation_for_another_community)
+ - RSS feed: $source
+ - date published: 2025-01-25T11:23:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello! I made a post with some ad0b3-related question, and it was deleted, due to the DMCA takedowns problem. Is there any community you could refer me to, be it a forum, discord server, telegram channel, or whatever, where this wouldn&#39;t be an issue? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gatgian"> /u/Gatgian </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9kypj/do_you_have_a_recommendation_for_another_community/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9kypj/do_you_have_a_recommendation_for_another_community/">[comments]</a></span>
+
+## Is macoshome.com safe?
+ - [https://www.reddit.com/r/Piracy/comments/1i9k1dc/is_macoshomecom_safe](https://www.reddit.com/r/Piracy/comments/1i9k1dc/is_macoshomecom_safe)
+ - RSS feed: $source
+ - date published: 2025-01-25T10:16:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys! I’ve been looking for mac torrent sites and stumbled upon this one. It’s in Chinese so I don’t really understand much of it but has anyone had any experience using it? Or in general just know if it’s safe/is reputable. Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hiimnewrn"> /u/hiimnewrn </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9k1dc/is_macoshomecom_safe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9k1dc/is_macoshomecom_safe/">[comments]</a></span>
+
+## Is there a way to download faster from rapidgator?
+ - [https://www.reddit.com/r/Piracy/comments/1i9ju2f/is_there_a_way_to_download_faster_from_rapidgator](https://www.reddit.com/r/Piracy/comments/1i9ju2f/is_there_a_way_to_download_faster_from_rapidgator)
+ - RSS feed: $source
+ - date published: 2025-01-25T10:01:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is there a way other than purchasing the premium thing? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iwontgambleagain"> /u/iwontgambleagain </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9ju2f/is_there_a_way_to_download_faster_from_rapidgator/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9ju2f/is_there_a_way_to_download_faster_from_rapidgator/">[comments]</a></span>
+
+## Well well well
+ - [https://www.reddit.com/r/Piracy/comments/1i9jqos/well_well_well](https://www.reddit.com/r/Piracy/comments/1i9jqos/well_well_well)
+ - RSS feed: $source
+ - date published: 2025-01-25T09:55:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1i9jqos/well_well_well/"> <img src="https://preview.redd.it/8uwk7qyc44fe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e0acd75ec3226d6b368e6e3c06b96e9d7578236a" alt="Well well well" title="Well well well" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TrAw-725"> /u/TrAw-725 </a> <br/> <span><a href="https://i.redd.it/8uwk7qyc44fe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9jqos/well_well_well/">[comments]</a></span> </td></tr></table>
+
+## Any good way to tell if a file has malware?
+ - [https://www.reddit.com/r/Piracy/comments/1i9jf1k/any_good_way_to_tell_if_a_file_has_malware](https://www.reddit.com/r/Piracy/comments/1i9jf1k/any_good_way_to_tell_if_a_file_has_malware)
+ - RSS feed: $source
+ - date published: 2025-01-25T09:30:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know there are a few file scanners online but I dont know if they are any good, and honestly I dobt it, is there a good way to do it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/another_bored_man"> /u/another_bored_man </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9jf1k/any_good_way_to_tell_if_a_file_has_malware/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9jf1k/any_good_way_to_tell_if_a_file_has_malware/">[comments]</a></span>
+
+## Sometimes I would like to offer help but I'm afraid I'd just get judged. Oh well...
+ - [https://www.reddit.com/r/Piracy/comments/1i9jbo6/sometimes_i_would_like_to_offer_help_but_im](https://www.reddit.com/r/Piracy/comments/1i9jbo6/sometimes_i_would_like_to_offer_help_but_im)
+ - RSS feed: $source
+ - date published: 2025-01-25T09:23:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1i9jbo6/sometimes_i_would_like_to_offer_help_but_im/"> <img src="https://preview.redd.it/jkru2dcny3fe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6524dc45245ea2e2294fac30ce7f0664d75b93ef" alt="Sometimes I would like to offer help but I'm afraid I'd just get judged. Oh well..." title="Sometimes I would like to offer help but I'm afraid I'd just get judged. Oh well..." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I&#39;m a voracious audiobook consumer,. I&#39;ve tried audible once when a book I really wanted was not shared yet in the usual &quot;sources&quot;. But that&#39;s it.</p> <p>I have helped some from our office, (usually by sharing the <a href="/r/Piracy">r/Piracy</a> wiki) and they have been really thankful.</p> <p>I hope more people would be enlightened. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ancient_Sea7256"> /u/Ancient_Sea7256 </a> <br/> <span><
+
+## Free Streaming Alternatives Without Real-Debrid?
+ - [https://www.reddit.com/r/Piracy/comments/1i9idvq/free_streaming_alternatives_without_realdebrid](https://www.reddit.com/r/Piracy/comments/1i9idvq/free_streaming_alternatives_without_realdebrid)
+ - RSS feed: $source
+ - date published: 2025-01-25T08:11:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I’ve been using Stremio, but most of the good sources seem to require Real-Debrid or similar paid services. Are there any solid alternatives that don’t need a subscription for good quality streams?</p> <p>Would love to hear what’s working for you!</p> <p>Cheers.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nyepnyepmf"> /u/nyepnyepmf </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9idvq/free_streaming_alternatives_without_realdebrid/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9idvq/free_streaming_alternatives_without_realdebrid/">[comments]</a></span>
+
+## Anyone else getting this error with NewPipe since yesterday?
+ - [https://www.reddit.com/r/Piracy/comments/1i9hxu6/anyone_else_getting_this_error_with_newpipe_since](https://www.reddit.com/r/Piracy/comments/1i9hxu6/anyone_else_getting_this_error_with_newpipe_since)
+ - RSS feed: $source
+ - date published: 2025-01-25T07:38:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1i9hxu6/anyone_else_getting_this_error_with_newpipe_since/"> <img src="https://preview.redd.it/ji1huuv1g3fe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=47c77df11525b4466eacc830593a7f7b47547412" alt="Anyone else getting this error with NewPipe since yesterday?" title="Anyone else getting this error with NewPipe since yesterday?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Doesn&#39;t matter what video I watch, live or otherwise, I get the same error. And it only started yesterday for me. No updates on f-droid either.</p> <p>Am I alone? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kinkyloverb"> /u/kinkyloverb </a> <br/> <span><a href="https://i.redd.it/ji1huuv1g3fe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9hxu6/anyone_else_getting_this_error_with_newpipe_since/">[comments]</a></span> </td></tr></table>
+
+## We're not taking, we're just copying.
+ - [https://www.reddit.com/r/Piracy/comments/1i9hjy3/were_not_taking_were_just_copying](https://www.reddit.com/r/Piracy/comments/1i9hjy3/were_not_taking_were_just_copying)
+ - RSS feed: $source
+ - date published: 2025-01-25T07:10:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1i9hjy3/were_not_taking_were_just_copying/"> <img src="https://preview.redd.it/cnwf1keya3fe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=68b160058eb528bb79650b4fbddbefc1f9419420" alt="We're not taking, we're just copying." title="We're not taking, we're just copying." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alexandria4ever93"> /u/Alexandria4ever93 </a> <br/> <span><a href="https://i.redd.it/cnwf1keya3fe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9hjy3/were_not_taking_were_just_copying/">[comments]</a></span> </td></tr></table>
+
+## Ad blockers are piracy
+ - [https://www.reddit.com/r/Piracy/comments/1i9hhfx/ad_blockers_are_piracy](https://www.reddit.com/r/Piracy/comments/1i9hhfx/ad_blockers_are_piracy)
+ - RSS feed: $source
+ - date published: 2025-01-25T07:05:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1i9hhfx/ad_blockers_are_piracy/"> <img src="https://preview.redd.it/hw8padv1a3fe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5df3c0b219dffe84d67a29b7066473fb5c3cba16" alt="Ad blockers are piracy" title="Ad blockers are piracy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Im_Lead_Farmer"> /u/Im_Lead_Farmer </a> <br/> <span><a href="https://i.redd.it/hw8padv1a3fe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9hhfx/ad_blockers_are_piracy/">[comments]</a></span> </td></tr></table>
+
+## udemy courses?
+ - [https://www.reddit.com/r/Piracy/comments/1i9hdtd/udemy_courses](https://www.reddit.com/r/Piracy/comments/1i9hdtd/udemy_courses)
+ - RSS feed: $source
+ - date published: 2025-01-25T06:58:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>any websites that have udemy courses?<br/> <a href="https://www.udemy.com/course/pytorch-for-deep-learning/?couponCode=MT24125CUS">https://www.udemy.com/course/pytorch-for-deep-learning/?couponCode=MT24125CUS</a><br/> <a href="https://www.udemy.com/course/the-ultimate-fullstack-web-development-bootcamp/?couponCode=MT24125CUS">https://www.udemy.com/course/the-ultimate-fullstack-web-development-bootcamp/?couponCode=MT24125CUS</a></p> <p>i need these two</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/frong2323szwaewe"> /u/frong2323szwaewe </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9hdtd/udemy_courses/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9hdtd/udemy_courses/">[comments]</a></span>
+
+## How do I convert a downloadable link into a magnet link?
+ - [https://www.reddit.com/r/Piracy/comments/1i9h2wb/how_do_i_convert_a_downloadable_link_into_a](https://www.reddit.com/r/Piracy/comments/1i9h2wb/how_do_i_convert_a_downloadable_link_into_a)
+ - RSS feed: $source
+ - date published: 2025-01-25T06:36:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am trying to download a file using a direct link in the browser, but it crashes automatically after some time. I’m not sure why this is happening. Is there a way to convert that link into a magnet link so I can download it through <del>qBittorrent?</del> </p> <p>or any other way that downloadable link doesn&#39;t crash</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Koko-noki"> /u/Koko-noki </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9h2wb/how_do_i_convert_a_downloadable_link_into_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9h2wb/how_do_i_convert_a_downloadable_link_into_a/">[comments]</a></span>
+
+## This is what happens when you fix your torrent client, VPN, and Plex all at the same time.
+ - [https://www.reddit.com/r/Piracy/comments/1i9h2jy/this_is_what_happens_when_you_fix_your_torrent](https://www.reddit.com/r/Piracy/comments/1i9h2jy/this_is_what_happens_when_you_fix_your_torrent)
+ - RSS feed: $source
+ - date published: 2025-01-25T06:35:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1i9h2jy/this_is_what_happens_when_you_fix_your_torrent/"> <img src="https://preview.redd.it/zgdpfgoh43fe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8387c22f8bb0e971615e9a646d0feabdb3886537" alt="This is what happens when you fix your torrent client, VPN, and Plex all at the same time." title="This is what happens when you fix your torrent client, VPN, and Plex all at the same time." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mrmop69"> /u/mrmop69 </a> <br/> <span><a href="https://i.redd.it/zgdpfgoh43fe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9h2jy/this_is_what_happens_when_you_fix_your_torrent/">[comments]</a></span> </td></tr></table>
+
+## Criterion MEGA folder
+ - [https://www.reddit.com/r/Piracy/comments/1i9grs0/criterion_mega_folder](https://www.reddit.com/r/Piracy/comments/1i9grs0/criterion_mega_folder)
+ - RSS feed: $source
+ - date published: 2025-01-25T06:14:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Does anyone know if the 500tb MEGA exists somewhere along side with the Criterion MEGA with all of them numbered? I miss them</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Codys--Reddit"> /u/Codys--Reddit </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9grs0/criterion_mega_folder/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9grs0/criterion_mega_folder/">[comments]</a></span>
+
+## Officially a seeder
+ - [https://www.reddit.com/r/Piracy/comments/1i9g30d/officially_a_seeder](https://www.reddit.com/r/Piracy/comments/1i9g30d/officially_a_seeder)
+ - RSS feed: $source
+ - date published: 2025-01-25T05:30:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>Thanks for all your help navigating the community as a noobie. Officially not a leech anymore, good day sir&#39;s</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GhostingProtocol"> /u/GhostingProtocol </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9g30d/officially_a_seeder/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9g30d/officially_a_seeder/">[comments]</a></span>
+
+## How to convert etextbook (.vdk) to pdf?
+ - [https://www.reddit.com/r/Piracy/comments/1i9fitw/how_to_convert_etextbook_vdk_to_pdf](https://www.reddit.com/r/Piracy/comments/1i9fitw/how_to_convert_etextbook_vdk_to_pdf)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:57:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>It only lets me print 50 of the 1000 pages to pdf. Is there a way to bypass vital source ebooks to pdf?</p> <p>I bought an etextbook from vital source and I want to download the whole thing to my local disk instead of having to view it through their bookshelf app. </p> <p>Figured I could just print to pdf but it limits me to 50 pages for the whole book</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/YmirLamb"> /u/YmirLamb </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9fitw/how_to_convert_etextbook_vdk_to_pdf/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9fitw/how_to_convert_etextbook_vdk_to_pdf/">[comments]</a></span>
+
+## Steamio- Very Slow Download
+ - [https://www.reddit.com/r/Piracy/comments/1i9dv7j/steamio_very_slow_download](https://www.reddit.com/r/Piracy/comments/1i9dv7j/steamio_very_slow_download)
+ - RSS feed: $source
+ - date published: 2025-01-25T03:21:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just started sailing the high seas a few days ago. This sub has been a huge help. I have Steamio set up (correctly, I think) with Torrentio. I paid for Real Debrid, but I only get downloads of 2-4mb. My download speed on my Internet with this device is 80mb. Maybe my debris isn&#39;t set up correctly. Also, the playback unless I download is stuttery. I read <em>Stremio: All You Need to Know</em> in the Stremio Add-on sub. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wwwangels"> /u/wwwangels </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9dv7j/steamio_very_slow_download/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9dv7j/steamio_very_slow_download/">[comments]</a></span>
+
+## Wow that was fast!
+ - [https://www.reddit.com/r/Piracy/comments/1i9cr5y/wow_that_was_fast](https://www.reddit.com/r/Piracy/comments/1i9cr5y/wow_that_was_fast)
+ - RSS feed: $source
+ - date published: 2025-01-25T02:21:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1i9cr5y/wow_that_was_fast/"> <img src="https://preview.redd.it/89q3ci0dv1fe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=23f65f463769f5a72a620b35e77128ea92c57a48" alt="Wow that was fast!" title="Wow that was fast!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hope it doesn’t take 12 hours to install 😂</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/breakdown_24"> /u/breakdown_24 </a> <br/> <span><a href="https://i.redd.it/89q3ci0dv1fe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9cr5y/wow_that_was_fast/">[comments]</a></span> </td></tr></table>
+
+## Tell PC to download torrents from phone?
+ - [https://www.reddit.com/r/Piracy/comments/1i9clt4/tell_pc_to_download_torrents_from_phone](https://www.reddit.com/r/Piracy/comments/1i9clt4/tell_pc_to_download_torrents_from_phone)
+ - RSS feed: $source
+ - date published: 2025-01-25T02:13:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey yall I’m still kind of new getting back into piracy after a decade long hiatus. Is there an easy way I could direct my PC to download a torrent from my phone? Like when I’m out in the world and I get a movie suggestion and want to watch it right when I get home and it’ll be done and ready for me?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spreta"> /u/spreta </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9clt4/tell_pc_to_download_torrents_from_phone/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9clt4/tell_pc_to_download_torrents_from_phone/">[comments]</a></span>
+
+## Deepsukebe
+ - [https://www.reddit.com/r/Piracy/comments/1i9ccwz/deepsukebe](https://www.reddit.com/r/Piracy/comments/1i9ccwz/deepsukebe)
+ - RSS feed: $source
+ - date published: 2025-01-25T02:00:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Anyone know what happened to deepsukebe.io ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/koal82"> /u/koal82 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9ccwz/deepsukebe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9ccwz/deepsukebe/">[comments]</a></span>
+
+## How do you guys organize and play your media files?
+ - [https://www.reddit.com/r/Piracy/comments/1i9c73m/how_do_you_guys_organize_and_play_your_media_files](https://www.reddit.com/r/Piracy/comments/1i9c73m/how_do_you_guys_organize_and_play_your_media_files)
+ - RSS feed: $source
+ - date published: 2025-01-25T01:51:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am not sure if I am in the right place but I don’t know where to ask this. I am using a Zidoo media player (it’s basically an Android box) and it has 3 USB ports. I’m out of space on the 4TB drives I have connected and I’m looking for a way to streamline my setup. It’s a huge pain to rip a blu-ray or download a file on my PC and then unplug one of the drives, bring it upstairs to the PC and copy the file and then bring it back downstairs and plug it into the Zidoo.</p> <p>I tried setting up a NAS over my wireless network so I can copy files directly over wifi but the Zidoo cannot play the files wirelessly over my network for some reason (major stuttering and crashes).</p> <p>What do most people with lots of movies/TV shows do to solve this issue?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/inkyblinkypinkysue"> /u/inkyblinkypinkysue </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9c73m/
+
+## What happens if I pirate a game I own for the dlc's?
+ - [https://www.reddit.com/r/Piracy/comments/1i9c54y/what_happens_if_i_pirate_a_game_i_own_for_the_dlcs](https://www.reddit.com/r/Piracy/comments/1i9c54y/what_happens_if_i_pirate_a_game_i_own_for_the_dlcs)
+ - RSS feed: $source
+ - date published: 2025-01-25T01:48:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello! I&#39;m trying to pirate a game I already have for the dlc&#39;s but I&#39;m wondering, will my game progress be there? Do I need to delete my currrent game to download the pirated version? If my progress doesn&#39;t transfer over I&#39;m not really interested that&#39;s why I&#39;d like to know! </p> <p>Thank you in advance</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Odd-Staff-8538"> /u/Odd-Staff-8538 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9c54y/what_happens_if_i_pirate_a_game_i_own_for_the_dlcs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9c54y/what_happens_if_i_pirate_a_game_i_own_for_the_dlcs/">[comments]</a></span>
+
+## Is it okay to download from an exposed uploader IF the upload was done years prior?
+ - [https://www.reddit.com/r/Piracy/comments/1i9bt1z/is_it_okay_to_download_from_an_exposed_uploader](https://www.reddit.com/r/Piracy/comments/1i9bt1z/is_it_okay_to_download_from_an_exposed_uploader)
+ - RSS feed: $source
+ - date published: 2025-01-25T01:31:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>For example lets take for example haxNode who was caught <a href="https://fmhy.net/unsafesites#software-app-sites">early last year</a>, would it be safe to download a program from him from 1337x that was uploaded all the way back in 2020?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Square365"> /u/Square365 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9bt1z/is_it_okay_to_download_from_an_exposed_uploader/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9bt1z/is_it_okay_to_download_from_an_exposed_uploader/">[comments]</a></span>
+
+## Libraries that has Full Stand Ups of Comedians (i.e Bill Burr, Shane Gillis, Mark Normand, Gianmarco Soresi, etc)
+ - [https://www.reddit.com/r/Piracy/comments/1i9bdao/libraries_that_has_full_stand_ups_of_comedians_ie](https://www.reddit.com/r/Piracy/comments/1i9bdao/libraries_that_has_full_stand_ups_of_comedians_ie)
+ - RSS feed: $source
+ - date published: 2025-01-25T01:09:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>I don&#39;t see this question in the reddit archives before so I&#39;m going to inquire it and hope it doesn&#39;t get deleted. Any sources or libraries where you can watch or even better, torrent full versions of stand ups I see on YouTube.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Blanc2006"> /u/Blanc2006 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9bdao/libraries_that_has_full_stand_ups_of_comedians_ie/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9bdao/libraries_that_has_full_stand_ups_of_comedians_ie/">[comments]</a></span>
+
+## Been sailing the high seas for decades now, and I recommend it to everyone as the best option. There’s one thing that sucks though…
+ - [https://www.reddit.com/r/Piracy/comments/1i9acee/been_sailing_the_high_seas_for_decades_now_and_i](https://www.reddit.com/r/Piracy/comments/1i9acee/been_sailing_the_high_seas_for_decades_now_and_i)
+ - RSS feed: $source
+ - date published: 2025-01-25T00:20:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Finding children’s entertainment. I guess the uploader demographic skews away from having young families, because it’s impossible to find anything but the most popular tv. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MrTerrificSeesItAll"> /u/MrTerrificSeesItAll </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9acee/been_sailing_the_high_seas_for_decades_now_and_i/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9acee/been_sailing_the_high_seas_for_decades_now_and_i/">[comments]</a></span>
+
+## How to fix Steam communication error?
+ - [https://www.reddit.com/r/Piracy/comments/1i9a1gy/how_to_fix_steam_communication_error](https://www.reddit.com/r/Piracy/comments/1i9a1gy/how_to_fix_steam_communication_error)
+ - RSS feed: $source
+ - date published: 2025-01-25T00:06:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>So during the recent sales on steam I decided to buy myself HOI4. However after opening the dowser it keeps telling me that it has issues communicating to steam. Could this be due to me previously playing the cracked version of the game that I obtained from online.fix which has the ability to connect the game to steam? If so does anyone know how I could fix this issue? Thank you in advance.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NKVD_officer"> /u/NKVD_officer </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i9a1gy/how_to_fix_steam_communication_error/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i9a1gy/how_to_fix_steam_communication_error/">[comments]</a></span>
+
+## Tips for checking safety of torrent seeders?
+ - [https://www.reddit.com/r/Piracy/comments/1i99zmw/tips_for_checking_safety_of_torrent_seeders](https://www.reddit.com/r/Piracy/comments/1i99zmw/tips_for_checking_safety_of_torrent_seeders)
+ - RSS feed: $source
+ - date published: 2025-01-25T00:03:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>I only torrent movies/TV so risk is low, but I&#39;ve stopped using TPB anyway &amp; looking at 1337/Galaxy, based on Megathread. How do y&#39;arrrl confirm safety of seeders beyond checking seed history &amp; comments on their seeds? I know YTS was banned by 1337 for sharing info but the YTS tag still appears on many torrents, so confused how it all actually works. Cheers</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BBSydneyThirstyHHH"> /u/BBSydneyThirstyHHH </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1i99zmw/tips_for_checking_safety_of_torrent_seeders/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1i99zmw/tips_for_checking_safety_of_torrent_seeders/">[comments]</a></span>
+

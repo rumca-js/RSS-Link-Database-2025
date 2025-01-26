@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-25T11:00:00+00:00",
+        "description": "The singer generated millions in prop bets for the Kansas City Chiefs just by showing up to watch her boyfriend play. Now that she\u2019s busy, gamblers are losing interest.",
+        "id": 1977088,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/taylor-swift-triggered-a-tsunami-of-sports-bets-then-she-stopped-turning-up",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/679277567de58079d6c7e738/master/pass/Bettingf-Sites-Taylor-Swift-Business-2194607167.jpg",
+        "title": "Taylor Swift Triggered a Tsunami of Sports Bets. Then She Stopped Turning Up",
+        "vote": 0
+    }
+]

@@ -1,0 +1,44 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Trudeau pulled the Liberals left. Where do they go from here?
+ - [https://www.cbc.ca/news/politics/liberals-capital-gains-freeland-carney-analysis-1.7441195?cmp=rss](https://www.cbc.ca/news/politics/liberals-capital-gains-freeland-carney-analysis-1.7441195?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:01:00+00:00
+
+<img src='https://i.cbc.ca/1.7440664.1737766032!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/liberal-caucus-20250123.jpg' alt='Liberal MP Chrystia Freeland, candidate for the leadership of the Liberal Party of Canada, answers questions from journalists as she makes her way to a meeting of the Liberal caucus, in West Block on Parliament Hill in Ottawa, on Thursday, Jan. 23, 2025. ' width='620' height='349' title='Liberal MP Chrystia Freeland, candidate for the leadership of the Liberal Party of Canada, answers questions from journalists as she makes her way to a meeting of the Liberal caucus, in West Block on Parliament Hill in Ottawa, on Thursday, Jan. 23, 2025. '/><p></p>
+
+## Why 'buying Canadian' isn't as easy as it sounds
+ - [https://www.cbc.ca/news/canada/buy-canadian-tariff-threat-implications-1.7439117?cmp=rss](https://www.cbc.ca/news/canada/buy-canadian-tariff-threat-implications-1.7439117?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:01:00+00:00
+
+<img src='https://i.cbc.ca/1.7440295.1737755453!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/doug-ford-and-justin-trudeau-seated-alongside-one-another-at-meeting-in-ottawa.JPG' alt='Two men sit at a table, behind which are several Canadian and provincial flags. ' width='620' height='349' title='Prime Minister Justin Trudeau and Ontario Premier Doug Ford take part in a provincial and territorial leaders meeting in Ottawa, Ontario, Canada January 15, 2025.'/><p></p>
+
+## This Montreal drag artist ties clowning and harm reduction into their sensual performances
+ - [https://www.cbc.ca/news/canada/montreal/changemaker-frankieb-lambert-1.7440322?cmp=rss](https://www.cbc.ca/news/canada/montreal/changemaker-frankieb-lambert-1.7440322?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:00:25+00:00
+
+<img src='https://i.cbc.ca/1.7440323.1737696362!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/envytheclown.jpeg' alt='A Black person wearing a wig and sad clown makeup holds a flower over their mouth in moody lighting with their nails painted colourfully.' width='620' height='349' title='FrankieB Lambert, a Montreal draglesque artist, created artwork on the seven deadly sins in Catholicism, which was featured in an exhibit in Paris last year. '/><p>FrankieB Lambert is familiar with complicated and layered histories. By night, they are a burlesque drag clown artist known as EnvyTheClown. By day, they work for a Montreal non-profit supporting drug users and sex workers.</p>
+
+## Rural areas are harder hit by climate change. These communities are rising to the challenge
+ - [https://www.cbc.ca/radio/whatonearth/climate-change-rural-canada-1.7439426?cmp=rss](https://www.cbc.ca/radio/whatonearth/climate-change-rural-canada-1.7439426?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:00:12+00:00
+
+<img src='https://i.cbc.ca/1.7276949.1722022606!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/rural-saskatchewan-highway-near-saskatoon-july-2024.jpg' alt='vehicles drive down a highway, as seen from above' width='620' height='349' title='Vehicles drive down a rural highway near Saskatoon.'/><p>According to a report by the federal government released in 2023, rural Canadians are more vulnerable to the effects of climate change. But that also puts rural communities in a unique position to tackle some of these pressing issues.</p>
+
+## Canadian authors warn readers that AI dupes of their books are popping up on Amazon
+ - [https://www.cbc.ca/news/canada/edmonton/canadian-authors-warn-readers-that-ai-dupes-of-their-books-are-popping-up-on-amazon-1.7441183?cmp=rss](https://www.cbc.ca/news/canada/edmonton/canadian-authors-warn-readers-that-ai-dupes-of-their-books-are-popping-up-on-amazon-1.7441183?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7414917.1734624272!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/author-catherine-tsalikis-and-her-book-chrystia.jpg' alt='A grey book cover with a smiling woman next to a headshot of a dark haired woman smiling at the camera' width='620' height='349' title='Author Catherine Tsalikis next to her book, &quot;Chrystia: From Peace River to Parliament Hill&quot;'/><p>Catherine Tsalikis was checking Amazon to see how the launch was going for her new biography of Chrystia Freeland. She noticed something odd: a book right below hers that was a shadow of the real thing. The cover had a similar title, an image of a Freeland lookalike, and the author shared Tsalikis' first name.</p>
+
+## Fake CBC ads have flooded X with sketchy headlines. We looked for the source
+ - [https://www.cbc.ca/news/canada/cbc-ads-fake-investment-scheme-1.7439812?cmp=rss](https://www.cbc.ca/news/canada/cbc-ads-fake-investment-scheme-1.7439812?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7439963.1737765344!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/fakeadssample.jpg' alt='A series of digital advertisements ' width='620' height='349' title='A sample of ads using fake news headlines shared on the X platform.'/><p>X users have been subjected to a flood of ads that feature fake CBC headlines, leading to fake CBC-style articles. In the end, it’s part of an international investment scheme.</p>
+

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-25T13:52:18+00:00",
+        "description": "Paul McCartney has urged the British government not to make a change to copyright laws that he says could let artificial intelligence companies rip off artists.",
+        "id": 1977787,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/news/world/paul-mccartney-warns-british-government-risks-ai-ripping-artists-rcna189257",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2024-04/240405-paul-mccartney-beyonce-ew-358p-5e71ca.jpg",
+        "title": "Paul McCartney warns British government of the risks of AI ripping off artists",
+        "vote": 0
+    }
+]

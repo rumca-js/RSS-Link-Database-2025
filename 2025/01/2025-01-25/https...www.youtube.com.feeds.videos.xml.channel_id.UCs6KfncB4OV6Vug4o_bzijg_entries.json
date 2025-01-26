@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-25T00:48:17+00:00",
+        "description": "Tired of forgetting passwords and worrying about data breaches? Let's upgrade your security! In this video, I'll share the 4 best password managers of 2025, including 1Password, Bitwarden, Proton Pass, and KeePass. Most are open source! I'll also cover two honorable mentions, as well as pro tips to maximize the security of whichever password manager you end up using.\n\nThank you to our sponsor Notesnook! They offer E2EE notes in an open source ecosystem, free to try: https://notesnook.com\n\nKeePass Clients: https://www.techlore.tech/resources#password-managers\nProton Pass (Kickback): https://go.getproton.me/SH12Q\nProton Pass (Regular): https://proton.me/pass\nBitwarden: https://bitwarden.com/\n1Password (Kickback): https://www.anrdoezrs.net/click-100370169-14308408\n1Password (Regular): https://1password.com/\n\n\ud83d\udd10 Techlore Homepage: https://techlore.tech\n\ud83d\udd75 Go Incognito Course: https://techlore.tech/goincognito\n\ud83d\udcbb Techlore Community: https://discuss.techlore.tech\n\ud83c\udfeb Techlore Coaching: https://",
+        "id": 1975616,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=aIJjrDrwsIU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aIJjrDrwsIU/hqdefault.jpg",
+        "title": "Upgrade Your Security: 4 Best Password Managers",
+        "vote": 0
+    }
+]

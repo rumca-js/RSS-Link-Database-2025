@@ -1,0 +1,268 @@
+# Source:World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Blizzard and Grinding Gear Games Refuses To Address Elon Musk Account Boosting
+ - [https://www.reddit.com/r/worldnews/comments/1i9xcrc/blizzard_and_grinding_gear_games_refuses_to](https://www.reddit.com/r/worldnews/comments/1i9xcrc/blizzard_and_grinding_gear_games_refuses_to)
+ - RSS feed: $source
+ - date published: 2025-01-25T21:19:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9xcrc/blizzard_and_grinding_gear_games_refuses_to/"> <img src="https://external-preview.redd.it/nKynw1lvIZePUNBTVZrSmBOk4ONDaCSqW627zv9DepY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9f8e51d8c7e8dac280e46869fa25a4ab01b190f9" alt="Blizzard and Grinding Gear Games Refuses To Address Elon Musk Account Boosting" title="Blizzard and Grinding Gear Games Refuses To Address Elon Musk Account Boosting" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zombotic69"> /u/Zombotic69 </a> <br/> <span><a href="https://techtroduce.com/elon-musk-account-boosting-unaddressed/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9xcrc/blizzard_and_grinding_gear_games_refuses_to/">[comments]</a></span> </td></tr></table>
+
+## British Officials Reduced To Tears Of Laughter During Trump Calls: Report
+ - [https://www.reddit.com/r/worldnews/comments/1i9x7td/british_officials_reduced_to_tears_of_laughter](https://www.reddit.com/r/worldnews/comments/1i9x7td/british_officials_reduced_to_tears_of_laughter)
+ - RSS feed: $source
+ - date published: 2025-01-25T21:13:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9x7td/british_officials_reduced_to_tears_of_laughter/"> <img src="https://external-preview.redd.it/t6iMfXtqnuGfLnFNoMaXhHNB0x2jc2KHhwjIbX55_lA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4dd70ce5b7883af5a86402b10bb177e54fa901e4" alt="British Officials Reduced To Tears Of Laughter During Trump Calls: Report" title="British Officials Reduced To Tears Of Laughter During Trump Calls: Report" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MothersMiIk"> /u/MothersMiIk </a> <br/> <span><a href="https://www.huffpost.com/entry/british-officials-reduced-to-tears-of-laughter-during-trump-calls-report_n_67950f32e4b0c297547a96bb/amp">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9x7td/british_officials_reduced_to_tears_of_laughter/">[comments]</a></span> </td></tr></table>
+
+## Pope Francis warns that excessive scrolling causes 'brain rot'
+ - [https://www.reddit.com/r/worldnews/comments/1i9ww26/pope_francis_warns_that_excessive_scrolling](https://www.reddit.com/r/worldnews/comments/1i9ww26/pope_francis_warns_that_excessive_scrolling)
+ - RSS feed: $source
+ - date published: 2025-01-25T20:59:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9ww26/pope_francis_warns_that_excessive_scrolling/"> <img src="https://external-preview.redd.it/4RjOObYV2CzJNOXu_ZCPfCfWvKxIL1W3eY9VzsaOvOQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=972e5008837e49b48e83105794846787a43e5cbe" alt="Pope Francis warns that excessive scrolling causes 'brain rot'" title="Pope Francis warns that excessive scrolling causes 'brain rot'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Somewhere9814"> /u/Ok-Somewhere9814 </a> <br/> <span><a href="https://www.euronews.com/my-europe/2025/01/25/pope-francis-warns-that-excessive-scrolling-causes-brain-rot">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9ww26/pope_francis_warns_that_excessive_scrolling/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk appears on video at German far right campaign event
+ - [https://www.reddit.com/r/worldnews/comments/1i9w7qg/elon_musk_appears_on_video_at_german_far_right](https://www.reddit.com/r/worldnews/comments/1i9w7qg/elon_musk_appears_on_video_at_german_far_right)
+ - RSS feed: $source
+ - date published: 2025-01-25T20:29:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9w7qg/elon_musk_appears_on_video_at_german_far_right/"> <img src="https://external-preview.redd.it/GmWSAbF7oKmLmXeHEY5nZYW3E5oTLrmzsnyj4xxPErI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c6bd464dfd6305827a430e4f2a0cb975fbfe31e9" alt="Elon Musk appears on video at German far right campaign event" title="Elon Musk appears on video at German far right campaign event" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/indig0sixalpha"> /u/indig0sixalpha </a> <br/> <span><a href="https://www.reuters.com/world/europe/elon-musk-appears-video-german-far-right-campaign-event-2025-01-25/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9w7qg/elon_musk_appears_on_video_at_german_far_right/">[comments]</a></span> </td></tr></table>
+
+## Musk at AfD meeting: It's important to be proud to be German
+ - [https://www.reddit.com/r/worldnews/comments/1i9vs12/musk_at_afd_meeting_its_important_to_be_proud_to](https://www.reddit.com/r/worldnews/comments/1i9vs12/musk_at_afd_meeting_its_important_to_be_proud_to)
+ - RSS feed: $source
+ - date published: 2025-01-25T20:10:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9vs12/musk_at_afd_meeting_its_important_to_be_proud_to/"> <img src="https://external-preview.redd.it/zhmxs_OxyFMOKlz4TYQq4wpxiUONKUfqI3PAtgRbnI8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d6064c2c5c9fdffadf36afb3ac056a06f43b6fb5" alt="Musk at AfD meeting: It's important to be proud to be German" title="Musk at AfD meeting: It's important to be proud to be German" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Creepy-Discount-2536"> /u/Creepy-Discount-2536 </a> <br/> <span><a href="https://www.adressa.no/nyheter/utenriks/i/VzL80r/elon-musk-til-afd-moete-det-er-greit-aa-vaere-stolt-over-aa-vaere-tysker">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9vs12/musk_at_afd_meeting_its_important_to_be_proud_to/">[comments]</a></span> </td></tr></table>
+
+## ‘Move closer to Europe – not Trump’ voters tell Starmer in major UK poll
+ - [https://www.reddit.com/r/worldnews/comments/1i9vf55/move_closer_to_europe_not_trump_voters_tell](https://www.reddit.com/r/worldnews/comments/1i9vf55/move_closer_to_europe_not_trump_voters_tell)
+ - RSS feed: $source
+ - date published: 2025-01-25T19:54:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9vf55/move_closer_to_europe_not_trump_voters_tell/"> <img src="https://external-preview.redd.it/o5coCzu-dexwzumrKbQcanXC_dbrILiteLGiclvDZo4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7aefa4068c25c5d65fafc8aff443e63738c146c7" alt="‘Move closer to Europe – not Trump’ voters tell Starmer in major UK poll" title="‘Move closer to Europe – not Trump’ voters tell Starmer in major UK poll" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ApprehensiveBat6508"> /u/ApprehensiveBat6508 </a> <br/> <span><a href="https://www.theguardian.com/politics/2025/jan/25/move-closer-to-europe-not-trump-voters-tell-starmer-in-major-uk-poll">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9vf55/move_closer_to_europe_not_trump_voters_tell/">[comments]</a></span> </td></tr></table>
+
+## Billionaire Larry Ellison says a vast AI-fueled surveillance system can ensure 'citizens will be on their best behavior'
+ - [https://www.reddit.com/r/worldnews/comments/1i9uhos/billionaire_larry_ellison_says_a_vast_aifueled](https://www.reddit.com/r/worldnews/comments/1i9uhos/billionaire_larry_ellison_says_a_vast_aifueled)
+ - RSS feed: $source
+ - date published: 2025-01-25T19:13:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9uhos/billionaire_larry_ellison_says_a_vast_aifueled/"> <img src="https://external-preview.redd.it/XZXoKWmDM0fbUuTmKahdRHJ3_YdWJayOaw7X89gE8CE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b0a9941909d17256677a6eaa6408730fbde00e8" alt="Billionaire Larry Ellison says a vast AI-fueled surveillance system can ensure 'citizens will be on their best behavior'" title="Billionaire Larry Ellison says a vast AI-fueled surveillance system can ensure 'citizens will be on their best behavior'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/A-Wise-Cobbler"> /u/A-Wise-Cobbler </a> <br/> <span><a href="https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9uhos/billionaire_larry_ellison_says_a_vast_aifueled/">[comments]</a></span> </td></tr></table>
+
+## Trump again demands to buy Greenland in ‘horrendous’ call with Danish PM | Greenland
+ - [https://www.reddit.com/r/worldnews/comments/1i9tz7u/trump_again_demands_to_buy_greenland_in](https://www.reddit.com/r/worldnews/comments/1i9tz7u/trump_again_demands_to_buy_greenland_in)
+ - RSS feed: $source
+ - date published: 2025-01-25T18:52:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9tz7u/trump_again_demands_to_buy_greenland_in/"> <img src="https://external-preview.redd.it/GrPWaSS1uQegk_rgmy0IDDv2vG34OgKeQu5zfySNF_o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6ac6153f2f2cf18a317b1664f8a54202fe5a540c" alt="Trump again demands to buy Greenland in ‘horrendous’ call with Danish PM | Greenland" title="Trump again demands to buy Greenland in ‘horrendous’ call with Danish PM | Greenland" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/s0n0rxbbx"> /u/s0n0rxbbx </a> <br/> <span><a href="https://www.theguardian.com/world/2025/jan/25/trump-greenland-denmark">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9tz7u/trump_again_demands_to_buy_greenland_in/">[comments]</a></span> </td></tr></table>
+
+## Canada calls for review of 'business relationship' with Amazon after Quebec closures | CBC News
+ - [https://www.reddit.com/r/worldnews/comments/1i9tq4q/canada_calls_for_review_of_business_relationship](https://www.reddit.com/r/worldnews/comments/1i9tq4q/canada_calls_for_review_of_business_relationship)
+ - RSS feed: $source
+ - date published: 2025-01-25T18:41:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9tq4q/canada_calls_for_review_of_business_relationship/"> <img src="https://external-preview.redd.it/zI8VSwRBNGZRRkH7FYvlPw_0OseZ8Jud0v74o43tf9Y.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4c0c0eb08c2e1d19729dc3c1cceb8a2c69bbffda" alt="Canada calls for review of 'business relationship' with Amazon after Quebec closures | CBC News" title="Canada calls for review of 'business relationship' with Amazon after Quebec closures | CBC News" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/morenewsat11"> /u/morenewsat11 </a> <br/> <span><a href="https://www.cbc.ca/news/canada/montreal/amazon-quebec-canada-business-relationship-1.7441039">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9tq4q/canada_calls_for_review_of_business_relationship/">[comments]</a></span> </td></tr></table>
+
+## Trump administration wants ‘regime change’ in the UK as Starmer replaces Trudeau as hate figure
+ - [https://www.reddit.com/r/worldnews/comments/1i9tpsb/trump_administration_wants_regime_change_in_the](https://www.reddit.com/r/worldnews/comments/1i9tpsb/trump_administration_wants_regime_change_in_the)
+ - RSS feed: $source
+ - date published: 2025-01-25T18:40:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9tpsb/trump_administration_wants_regime_change_in_the/"> <img src="https://external-preview.redd.it/0MYPfQEN403uYANoweyu8ZyWVggEuzJuyeRUQbaZwuE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e11f10baa6c51b8eabb5ba0c33392e67e6a0f714" alt="Trump administration wants ‘regime change’ in the UK as Starmer replaces Trudeau as hate figure" title="Trump administration wants ‘regime change’ in the UK as Starmer replaces Trudeau as hate figure" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Running_From_Zombies"> /u/Running_From_Zombies </a> <br/> <span><a href="https://www.yahoo.com/news/trump-administration-wants-regime-change-113033167.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9tpsb/trump_administration_wants_regime_change_in_the/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk addresses German far-right rally by video link
+ - [https://www.reddit.com/r/worldnews/comments/1i9sviw/elon_musk_addresses_german_farright_rally_by](https://www.reddit.com/r/worldnews/comments/1i9sviw/elon_musk_addresses_german_farright_rally_by)
+ - RSS feed: $source
+ - date published: 2025-01-25T18:03:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9sviw/elon_musk_addresses_german_farright_rally_by/"> <img src="https://external-preview.redd.it/Lj2ov7_wh6-YmygLtYGXdXgQwO_HRnDTTxv_QLW3Rh0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=63c89e3fb240468050810937ce67ab76312c3d30" alt="Elon Musk addresses German far-right rally by video link" title="Elon Musk addresses German far-right rally by video link" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/abruisementpark"> /u/abruisementpark </a> <br/> <span><a href="https://www.yahoo.com/news/elon-musk-addresses-german-far-172015458.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9sviw/elon_musk_addresses_german_farright_rally_by/">[comments]</a></span> </td></tr></table>
+
+## Thousands protest the rise of German far right ahead of Feb. 23 general election
+ - [https://www.reddit.com/r/worldnews/comments/1i9squj/thousands_protest_the_rise_of_german_far_right](https://www.reddit.com/r/worldnews/comments/1i9squj/thousands_protest_the_rise_of_german_far_right)
+ - RSS feed: $source
+ - date published: 2025-01-25T17:58:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9squj/thousands_protest_the_rise_of_german_far_right/"> <img src="https://external-preview.redd.it/8PM21elQHcdsoRysr8Ywd8ynSI89VQTZFyHkIKJPyxA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2b5441c85bea6d91eacd39b3d9fe560059206cf2" alt="Thousands protest the rise of German far right ahead of Feb. 23 general election" title="Thousands protest the rise of German far right ahead of Feb. 23 general election" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HelFJandinn"> /u/HelFJandinn </a> <br/> <span><a href="https://www.ctvnews.ca/world/article/thousands-protest-the-rise-of-german-far-right-ahead-of-feb-23-general-election/?taid=6795244f15e6af0001b89bb7&amp;utm_campaign=trueAnthem%3A+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9squj/thousands_protest_the_rise_of_german_far_rig
+
+## Migrants stranded by Trump decision face rising hostility in Mexico
+ - [https://www.reddit.com/r/worldnews/comments/1i9s95v/migrants_stranded_by_trump_decision_face_rising](https://www.reddit.com/r/worldnews/comments/1i9s95v/migrants_stranded_by_trump_decision_face_rising)
+ - RSS feed: $source
+ - date published: 2025-01-25T17:36:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9s95v/migrants_stranded_by_trump_decision_face_rising/"> <img src="https://external-preview.redd.it/i1HX8N1xAL6NBKRK0AYFQUNZveoS8WpLocOxSTkmOS4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7513d6622c9c0c61b99c21ab9cb0c87a829f85ae" alt="Migrants stranded by Trump decision face rising hostility in Mexico" title="Migrants stranded by Trump decision face rising hostility in Mexico" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Running_From_Zombies"> /u/Running_From_Zombies </a> <br/> <span><a href="https://www.washingtonpost.com/world/2025/01/25/mexico-city-migrants-trump/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9s95v/migrants_stranded_by_trump_decision_face_rising/">[comments]</a></span> </td></tr></table>
+
+## Thailand Charges Russian National With Murder of 13-Year-Old
+ - [https://www.reddit.com/r/worldnews/comments/1i9qmnj/thailand_charges_russian_national_with_murder_of](https://www.reddit.com/r/worldnews/comments/1i9qmnj/thailand_charges_russian_national_with_murder_of)
+ - RSS feed: $source
+ - date published: 2025-01-25T16:26:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9qmnj/thailand_charges_russian_national_with_murder_of/"> <img src="https://external-preview.redd.it/UGGluJBY2C39TUFJLGTeg43TeEk8kI-ChiKAg-0l_To.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=39801d46771a646c53c03b159b6eac58da3abed0" alt="Thailand Charges Russian National With Murder of 13-Year-Old" title="Thailand Charges Russian National With Murder of 13-Year-Old" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://united24media.com/latest-news/thailand-charges-russian-national-with-murder-of-13-year-old-5367">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9qmnj/thailand_charges_russian_national_with_murder_of/">[comments]</a></span> </td></tr></table>
+
+## Canada, Mexico Steelmakers Refuse New US Orders
+ - [https://www.reddit.com/r/worldnews/comments/1i9pf2p/canada_mexico_steelmakers_refuse_new_us_orders](https://www.reddit.com/r/worldnews/comments/1i9pf2p/canada_mexico_steelmakers_refuse_new_us_orders)
+ - RSS feed: $source
+ - date published: 2025-01-25T15:33:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9pf2p/canada_mexico_steelmakers_refuse_new_us_orders/"> <img src="https://external-preview.redd.it/JS15vPL2GayuPJExov4tAXtF18L7QZtLvyOps9uiPfk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b575453f4de036d7b8a081fbda963763438d2c66" alt="Canada, Mexico Steelmakers Refuse New US Orders" title="Canada, Mexico Steelmakers Refuse New US Orders" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/A-Wise-Cobbler"> /u/A-Wise-Cobbler </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2025-01-24/canada-mexico-steelmakers-refuse-new-us-orders-as-tariffs-loom?leadSource=reddit_wall&amp;embedded-checkout=true">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9pf2p/canada_mexico_steelmakers_refuse_new_us_orders/">[comments]</a></span> </td></tr></table>
+
+## Protests in Slovakia after Prime Minister Fico’s tilt towards Russia | Protests News
+ - [https://www.reddit.com/r/worldnews/comments/1i9p8f9/protests_in_slovakia_after_prime_minister_ficos](https://www.reddit.com/r/worldnews/comments/1i9p8f9/protests_in_slovakia_after_prime_minister_ficos)
+ - RSS feed: $source
+ - date published: 2025-01-25T15:24:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9p8f9/protests_in_slovakia_after_prime_minister_ficos/"> <img src="https://external-preview.redd.it/s21xaR7usKqLHLOzN3L9HFmwcwmWzhez1ISuahNo6rk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cbb7e87f645dd5bfd2cde713937e8e4100c6c982" alt="Protests in Slovakia after Prime Minister Fico’s tilt towards Russia | Protests News" title="Protests in Slovakia after Prime Minister Fico’s tilt towards Russia | Protests News" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/573SRC"> /u/573SRC </a> <br/> <span><a href="https://www.aljazeera.com/news/2025/1/25/slovaks-take-to-streets-as-pm-fico-tilts-towards-russia">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9p8f9/protests_in_slovakia_after_prime_minister_ficos/">[comments]</a></span> </td></tr></table>
+
+## Trump's 'horrendous' phone call with Danish PM over Greenland: Report
+ - [https://www.reddit.com/r/worldnews/comments/1i9ofrr/trumps_horrendous_phone_call_with_danish_pm_over](https://www.reddit.com/r/worldnews/comments/1i9ofrr/trumps_horrendous_phone_call_with_danish_pm_over)
+ - RSS feed: $source
+ - date published: 2025-01-25T14:46:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9ofrr/trumps_horrendous_phone_call_with_danish_pm_over/"> <img src="https://external-preview.redd.it/B2rxbu09yMqVePzCQPV7QwRDoyyYyvg2-kjeBwMBT7c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=589cf3ce873efdb256f6dc05d066586378ccd561" alt="Trump's 'horrendous' phone call with Danish PM over Greenland: Report" title="Trump's 'horrendous' phone call with Danish PM over Greenland: Report" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gent4you"> /u/gent4you </a> <br/> <span><a href="https://www.indiatoday.in/world/story/donald-trump-mette-frederiksen-phone-call-greenland-takeover-denmark-horrendous-appalling-europe-officials-nato-2669879-2025-01-25">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9ofrr/trumps_horrendous_phone_call_with_danish_pm_over/">[comments]</a></span> </td></tr></table>
+
+## Mexico refuses US military flight deporting migrants, sources say
+ - [https://www.reddit.com/r/worldnews/comments/1i9ns83/mexico_refuses_us_military_flight_deporting](https://www.reddit.com/r/worldnews/comments/1i9ns83/mexico_refuses_us_military_flight_deporting)
+ - RSS feed: $source
+ - date published: 2025-01-25T14:14:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9ns83/mexico_refuses_us_military_flight_deporting/"> <img src="https://external-preview.redd.it/pYow8DxfeMqOOru57VcX-H8LC49hrgRuYUSoCrNO-qE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1f92a8dc2370a4adbd71dd5ca834dabbfb731a36" alt="Mexico refuses US military flight deporting migrants, sources say" title="Mexico refuses US military flight deporting migrants, sources say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VectorChing101"> /u/VectorChing101 </a> <br/> <span><a href="https://www.reuters.com/world/americas/mexico-refuses-us-military-flight-deporting-migrants-sources-say-2025-01-25/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9ns83/mexico_refuses_us_military_flight_deporting/">[comments]</a></span> </td></tr></table>
+
+## Driver rams car into peaceful protesters in Belgrade, injuring a student.
+ - [https://www.reddit.com/r/worldnews/comments/1i9nosd/driver_rams_car_into_peaceful_protesters_in](https://www.reddit.com/r/worldnews/comments/1i9nosd/driver_rams_car_into_peaceful_protesters_in)
+ - RSS feed: $source
+ - date published: 2025-01-25T14:09:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9nosd/driver_rams_car_into_peaceful_protesters_in/"> <img src="https://external-preview.redd.it/KSyptOP42zuFEACjKvLWi-qOnVOCnnrNBwFBrXEE_nA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=49ff7442f037ab339b9a853d4db78f92242ef967" alt="Driver rams car into peaceful protesters in Belgrade, injuring a student." title="Driver rams car into peaceful protesters in Belgrade, injuring a student." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vuxeee"> /u/vuxeee </a> <br/> <span><a href="https://www.euronews.com/my-europe/2025/01/25/serbian-students-lead-strike-as-protests-against-aleksandar-vucics-rule-continue">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9nosd/driver_rams_car_into_peaceful_protesters_in/">[comments]</a></span> </td></tr></table>
+
+## Zelenskiy Calls for U.S. and Europe’s Involvement in Ukraine Peace Talks
+ - [https://www.reddit.com/r/worldnews/comments/1i9nhlr/zelenskiy_calls_for_us_and_europes_involvement_in](https://www.reddit.com/r/worldnews/comments/1i9nhlr/zelenskiy_calls_for_us_and_europes_involvement_in)
+ - RSS feed: $source
+ - date published: 2025-01-25T13:59:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9nhlr/zelenskiy_calls_for_us_and_europes_involvement_in/"> <img src="https://external-preview.redd.it/FoG4bD25qhuFGyR74sb-GWh-EI3wZ6jXqC1TZHr3oGA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb7a7d97d1ed30f7d9afba0f980f5f385e66238c" alt="Zelenskiy Calls for U.S. and Europe’s Involvement in Ukraine Peace Talks" title="Zelenskiy Calls for U.S. and Europe’s Involvement in Ukraine Peace Talks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lionzzo"> /u/Lionzzo </a> <br/> <span><a href="https://www.newszier.com/zelenskiy-calls-for-u-s-and-europes-involvement-in-ukraine-peace-talks/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9nhlr/zelenskiy_calls_for_us_and_europes_involvement_in/">[comments]</a></span> </td></tr></table>
+
+## Trump Hints at a New Nuclear Deal with Iran, Aiming to Avoid Military Strikes
+ - [https://www.reddit.com/r/worldnews/comments/1i9m6bm/trump_hints_at_a_new_nuclear_deal_with_iran](https://www.reddit.com/r/worldnews/comments/1i9m6bm/trump_hints_at_a_new_nuclear_deal_with_iran)
+ - RSS feed: $source
+ - date published: 2025-01-25T12:44:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9m6bm/trump_hints_at_a_new_nuclear_deal_with_iran/"> <img src="https://external-preview.redd.it/7tIBkUAbIbLCF7ZVYA57X1UbkIWHNmVrtjGzhj0RTqQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=21c7e4597d1f8355b78382a5f3287b01083ef7e7" alt="Trump Hints at a New Nuclear Deal with Iran, Aiming to Avoid Military Strikes" title="Trump Hints at a New Nuclear Deal with Iran, Aiming to Avoid Military Strikes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Party_Judgment5780"> /u/Party_Judgment5780 </a> <br/> <span><a href="https://www.watanserb.com/en/2025/01/24/trump-hints-at-a-new-nuclear-deal-with-iran-aiming-to-avoid-military-strikes/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9m6bm/trump_hints_at_a_new_nuclear_deal_with_iran/">[comments]</a></span> </td></tr></table>
+
+## Hamas has added up to 15,000 fighters since start of war, U.S. figures show
+ - [https://www.reddit.com/r/worldnews/comments/1i9ku8f/hamas_has_added_up_to_15000_fighters_since_start](https://www.reddit.com/r/worldnews/comments/1i9ku8f/hamas_has_added_up_to_15000_fighters_since_start)
+ - RSS feed: $source
+ - date published: 2025-01-25T11:15:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9ku8f/hamas_has_added_up_to_15000_fighters_since_start/"> <img src="https://external-preview.redd.it/PKjDTIzKClev9ywpSzX8JgnW82sent6-hv2yy2LaS78.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=34a7255785dc5fe739e3b1ba16364f9e4d4f764c" alt="Hamas has added up to 15,000 fighters since start of war, U.S. figures show" title="Hamas has added up to 15,000 fighters since start of war, U.S. figures show" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thegoodsamuraii"> /u/thegoodsamuraii </a> <br/> <span><a href="https://www.japantimes.co.jp/news/2025/01/25/world/hamas-15000-new-fighters/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9ku8f/hamas_has_added_up_to_15000_fighters_since_start/">[comments]</a></span> </td></tr></table>
+
+## Saudi Arabia asks Hans Zimmer to rework national anthem
+ - [https://www.reddit.com/r/worldnews/comments/1i9ktbz/saudi_arabia_asks_hans_zimmer_to_rework_national](https://www.reddit.com/r/worldnews/comments/1i9ktbz/saudi_arabia_asks_hans_zimmer_to_rework_national)
+ - RSS feed: $source
+ - date published: 2025-01-25T11:13:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9ktbz/saudi_arabia_asks_hans_zimmer_to_rework_national/"> <img src="https://external-preview.redd.it/6ZSh_JwH9wfVCaHFX78ieRoxqZwykFgnaAaJDq8d6gs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4821ab92c468184b102636388b9c86976cd77fbf" alt="Saudi Arabia asks Hans Zimmer to rework national anthem" title="Saudi Arabia asks Hans Zimmer to rework national anthem" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thegoodsamuraii"> /u/thegoodsamuraii </a> <br/> <span><a href="https://www.theguardian.com/world/2025/jan/24/saudi-arabia-asks-hans-zimmer-to-rework-national-anthem?CMP=share_btn_url">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9ktbz/saudi_arabia_asks_hans_zimmer_to_rework_national/">[comments]</a></span> </td></tr></table>
+
+## Israel says it will not allow Palestinians to return to northern Gaza until hostage Arbel Yehoud is released
+ - [https://www.reddit.com/r/worldnews/comments/1i9kij4/israel_says_it_will_not_allow_palestinians_to](https://www.reddit.com/r/worldnews/comments/1i9kij4/israel_says_it_will_not_allow_palestinians_to)
+ - RSS feed: $source
+ - date published: 2025-01-25T10:52:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9kij4/israel_says_it_will_not_allow_palestinians_to/"> <img src="https://external-preview.redd.it/yfn_ctwZr9yORtYacyk6-zEiOfINUtBYgk6OcZ8Wp6M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb13c07ca0b926614ff53f17c4cb8e19b6e24af5" alt="Israel says it will not allow Palestinians to return to northern Gaza until hostage Arbel Yehoud is released" title="Israel says it will not allow Palestinians to return to northern Gaza until hostage Arbel Yehoud is released" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/advance512"> /u/advance512 </a> <br/> <span><a href="https://www.yahoo.com/news/israel-says-not-allow-palestinians-103736619.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9kij4/israel_says_it_will_not_allow_palestinians_to/">[comments]</a></span> </td></tr></table>
+
+## 14-year-old Brussels boy planned terror attack on mosque
+ - [https://www.reddit.com/r/worldnews/comments/1i9jurz/14yearold_brussels_boy_planned_terror_attack_on](https://www.reddit.com/r/worldnews/comments/1i9jurz/14yearold_brussels_boy_planned_terror_attack_on)
+ - RSS feed: $source
+ - date published: 2025-01-25T10:03:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9jurz/14yearold_brussels_boy_planned_terror_attack_on/"> <img src="https://external-preview.redd.it/a-qVvGnWV7_obPzE981IcUEtEeffPo_BfVsbV3uACb8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=36b6f11cd7788a7ffc2175de76b8cb6d5d5f4d5b" alt="14-year-old Brussels boy planned terror attack on mosque" title="14-year-old Brussels boy planned terror attack on mosque" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marcopolo2207"> /u/marcopolo2207 </a> <br/> <span><a href="https://www.vrt.be/vrtnws/en/2025/01/24/14-year-old-brussels-boy-planned-terror-attack-on-mosque/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9jurz/14yearold_brussels_boy_planned_terror_attack_on/">[comments]</a></span> </td></tr></table>
+
+## 2,000-Year-Old Greek Statue Found Abandoned in a Bag Near Trash Cans
+ - [https://www.reddit.com/r/worldnews/comments/1i9jkgv/2000yearold_greek_statue_found_abandoned_in_a_bag](https://www.reddit.com/r/worldnews/comments/1i9jkgv/2000yearold_greek_statue_found_abandoned_in_a_bag)
+ - RSS feed: $source
+ - date published: 2025-01-25T09:41:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9jkgv/2000yearold_greek_statue_found_abandoned_in_a_bag/"> <img src="https://external-preview.redd.it/FbrKKB8ySF5ZMhoBXYIkqdANdOIo4IxzLcmRHd-j5v0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5710cc0c2822b06ee23f1655bca68d5c2d43c6a9" alt="2,000-Year-Old Greek Statue Found Abandoned in a Bag Near Trash Cans" title="2,000-Year-Old Greek Statue Found Abandoned in a Bag Near Trash Cans" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/peoplemagazine"> /u/peoplemagazine </a> <br/> <span><a href="https://people.com/2000-year-old-greek-statue-found-abandoned-in-a-bag-near-trash-cans-police-8779197">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9jkgv/2000yearold_greek_statue_found_abandoned_in_a_bag/">[comments]</a></span> </td></tr></table>
+
+## Four Israeli hostages seen in Gaza City square ahead of handover
+ - [https://www.reddit.com/r/worldnews/comments/1i9j8pz/four_israeli_hostages_seen_in_gaza_city_square](https://www.reddit.com/r/worldnews/comments/1i9j8pz/four_israeli_hostages_seen_in_gaza_city_square)
+ - RSS feed: $source
+ - date published: 2025-01-25T09:16:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9j8pz/four_israeli_hostages_seen_in_gaza_city_square/"> <img src="https://external-preview.redd.it/MtxD0S5qhg_OhLCJ17qSEvhX5TlYIOt8HA5NBiPsvTI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=78f4cac8b7586c12df47df4d20fa7209a9bdfd6d" alt="Four Israeli hostages seen in Gaza City square ahead of handover" title="Four Israeli hostages seen in Gaza City square ahead of handover" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/perplexed-redditor"> /u/perplexed-redditor </a> <br/> <span><a href="https://news.sky.com/story/gaza-latest-israel-ceasefire-hamas-hostages-12978800">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9j8pz/four_israeli_hostages_seen_in_gaza_city_square/">[comments]</a></span> </td></tr></table>
+
+## Video appears to show Hamas shooting several alleged ‘collaborators’ in Gaza
+ - [https://www.reddit.com/r/worldnews/comments/1i9j62v/video_appears_to_show_hamas_shooting_several](https://www.reddit.com/r/worldnews/comments/1i9j62v/video_appears_to_show_hamas_shooting_several)
+ - RSS feed: $source
+ - date published: 2025-01-25T09:10:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9j62v/video_appears_to_show_hamas_shooting_several/"> <img src="https://external-preview.redd.it/J2HJUG3m8pk9zC7FjQdcgWCTkBNrrNuGv4lc_-vhbFA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7021f5c12d4c77720579fd6b20d24c99bc1d4a25" alt="Video appears to show Hamas shooting several alleged ‘collaborators’ in Gaza" title="Video appears to show Hamas shooting several alleged ‘collaborators’ in Gaza" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Vova_Poutine"> /u/Vova_Poutine </a> <br/> <span><a href="https://www.timesofisrael.com/video-appears-to-show-hamas-executing-several-alleged-collaborators-in-gaza/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9j62v/video_appears_to_show_hamas_shooting_several/">[comments]</a></span> </td></tr></table>
+
+## EU military chief says it would make sense to put European troops in Greenland, Welt reports
+ - [https://www.reddit.com/r/worldnews/comments/1i9ienc/eu_military_chief_says_it_would_make_sense_to_put](https://www.reddit.com/r/worldnews/comments/1i9ienc/eu_military_chief_says_it_would_make_sense_to_put)
+ - RSS feed: $source
+ - date published: 2025-01-25T08:13:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9ienc/eu_military_chief_says_it_would_make_sense_to_put/"> <img src="https://external-preview.redd.it/aD8fu8cEkgNZajNJv-Ydc_oJVr74OKFdrAQ4lgMU2rY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=053cd162afdc97cf52e98a654af993c1773d29d2" alt="EU military chief says it would make sense to put European troops in Greenland, Welt reports" title="EU military chief says it would make sense to put European troops in Greenland, Welt reports" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MothersMiIk"> /u/MothersMiIk </a> <br/> <span><a href="https://www.reuters.com/world/europe/eu-military-chief-says-it-would-make-sense-put-european-troops-greenland-welt-2025-01-25/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9ienc/eu_military_chief_says_it_would_make_sense_to_put/">[comments]</a></span> </td></tr></table>
+
+## Ukraine war briefing: Putin aiming to ‘manipulate’ Trump, Zelenskyy warns
+ - [https://www.reddit.com/r/worldnews/comments/1i9h9ke/ukraine_war_briefing_putin_aiming_to_manipulate](https://www.reddit.com/r/worldnews/comments/1i9h9ke/ukraine_war_briefing_putin_aiming_to_manipulate)
+ - RSS feed: $source
+ - date published: 2025-01-25T06:49:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9h9ke/ukraine_war_briefing_putin_aiming_to_manipulate/"> <img src="https://external-preview.redd.it/29s4LT0n2v37LwPjr57i70yj86droviLmJGw-pEvuZs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0b256c977663df50970073744729dc7967e762d" alt="Ukraine war briefing: Putin aiming to ‘manipulate’ Trump, Zelenskyy warns" title="Ukraine war briefing: Putin aiming to ‘manipulate’ Trump, Zelenskyy warns" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eaglemaxie"> /u/eaglemaxie </a> <br/> <span><a href="https://www.theguardian.com/world/2025/jan/25/ukraine-war-briefing-putin-aiming-to-manipulate-trump-zelenskyy-warns">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9h9ke/ukraine_war_briefing_putin_aiming_to_manipulate/">[comments]</a></span> </td></tr></table>
+
+## Denmark Prime Minister surprised to learn Trump really does want Greenland in "horrendous" phone call
+ - [https://www.reddit.com/r/worldnews/comments/1i9gmd8/denmark_prime_minister_surprised_to_learn_trump](https://www.reddit.com/r/worldnews/comments/1i9gmd8/denmark_prime_minister_surprised_to_learn_trump)
+ - RSS feed: $source
+ - date published: 2025-01-25T06:05:07+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Snowfish52"> /u/Snowfish52 </a> <br/> <span><a href="https://boingboing.net/2025/01/24/denmark-prime-minister-surprised-to-learn-trump-really-does-want-greenland-in-horrendous-phone-call.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9gmd8/denmark_prime_minister_surprised_to_learn_trump/">[comments]</a></span>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1066, Part 1 (Thread #1213)
+ - [https://www.reddit.com/r/worldnews/comments/1i9elkc/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1i9elkc/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: $source
+ - date published: 2025-01-25T04:02:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9elkc/rworldnews_live_thread_russian_invasion_of/"> <img src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1066, Part 1 (Thread #1213)" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1066, Part 1 (Thread #1213)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br/> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9elkc/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## European Medicines Agency ditches Elon Musk’s X in favor of Bluesky
+ - [https://www.reddit.com/r/worldnews/comments/1i9e7mu/european_medicines_agency_ditches_elon_musks_x_in](https://www.reddit.com/r/worldnews/comments/1i9e7mu/european_medicines_agency_ditches_elon_musks_x_in)
+ - RSS feed: $source
+ - date published: 2025-01-25T03:40:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9e7mu/european_medicines_agency_ditches_elon_musks_x_in/"> <img src="https://external-preview.redd.it/Sk4laP86yhJRSS9XQp-Qkzy4GpVMob0NbDz_9hLVDgc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4301d81230f8a129f3d7cff0423070d9c434bf7" alt="European Medicines Agency ditches Elon Musk’s X in favor of Bluesky" title="European Medicines Agency ditches Elon Musk’s X in favor of Bluesky" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/moeka_8962"> /u/moeka_8962 </a> <br/> <span><a href="https://nltimes.nl/2025/01/24/european-medicines-agency-ditches-elon-musks-x-favor-bluesky">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9e7mu/european_medicines_agency_ditches_elon_musks_x_in/">[comments]</a></span> </td></tr></table>
+
+## Major Russian Microchip Factory Halts Production After Ukrainian Drone Strikes
+ - [https://www.reddit.com/r/worldnews/comments/1i9cn0e/major_russian_microchip_factory_halts_production](https://www.reddit.com/r/worldnews/comments/1i9cn0e/major_russian_microchip_factory_halts_production)
+ - RSS feed: $source
+ - date published: 2025-01-25T02:14:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9cn0e/major_russian_microchip_factory_halts_production/"> <img src="https://external-preview.redd.it/A1q2MuIiyToAXcHDQdcHMIll_L5SA4WzJwF8p63CRUA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe4864861af81def7ff86d2bfe6ec1539b34104d" alt="Major Russian Microchip Factory Halts Production After Ukrainian Drone Strikes" title="Major Russian Microchip Factory Halts Production After Ukrainian Drone Strikes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gjrts"> /u/Gjrts </a> <br/> <span><a href="https://www.themoscowtimes.com/2025/01/24/major-russian-microchip-factory-halts-production-after-ukrainian-drone-strikes-a87727">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9cn0e/major_russian_microchip_factory_halts_production/">[comments]</a></span> </td></tr></table>
+
+## BBC News - X refused to take down video viewed by Southport killer
+ - [https://www.reddit.com/r/worldnews/comments/1i9bkdz/bbc_news_x_refused_to_take_down_video_viewed_by](https://www.reddit.com/r/worldnews/comments/1i9bkdz/bbc_news_x_refused_to_take_down_video_viewed_by)
+ - RSS feed: $source
+ - date published: 2025-01-25T01:19:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9bkdz/bbc_news_x_refused_to_take_down_video_viewed_by/"> <img src="https://external-preview.redd.it/v1cOXEWG1WGcBH3elIkb7o3ZdIRjsxaaa7_IeHwoyGc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=570a729d0c1e6c5159599ba088285c1a936f5319" alt="BBC News - X refused to take down video viewed by Southport killer" title="BBC News - X refused to take down video viewed by Southport killer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Danqazmlp0"> /u/Danqazmlp0 </a> <br/> <span><a href="https://www.bbc.com/news/articles/c2egz1089pwo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9bkdz/bbc_news_x_refused_to_take_down_video_viewed_by/">[comments]</a></span> </td></tr></table>
+
+## U.S. puts virtually all foreign aid on 90-day hold, issues 'stop-work' order
+ - [https://www.reddit.com/r/worldnews/comments/1i9b1c5/us_puts_virtually_all_foreign_aid_on_90day_hold](https://www.reddit.com/r/worldnews/comments/1i9b1c5/us_puts_virtually_all_foreign_aid_on_90day_hold)
+ - RSS feed: $source
+ - date published: 2025-01-25T00:53:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9b1c5/us_puts_virtually_all_foreign_aid_on_90day_hold/"> <img src="https://external-preview.redd.it/Dqm0DgP2t6HtDHBrxjpo_m7-orHfPT-8IVmOpY6cw_w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9f0525e1ba6b4e8dbd3dee5a0409c8259d9fc93e" alt="U.S. puts virtually all foreign aid on 90-day hold, issues 'stop-work' order" title="U.S. puts virtually all foreign aid on 90-day hold, issues 'stop-work' order" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Witty_Heart_9452"> /u/Witty_Heart_9452 </a> <br/> <span><a href="https://www.npr.org/sections/goats-and-soda/2025/01/24/g-s1-44643/trump-foreign-aid-assistance-pause">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9b1c5/us_puts_virtually_all_foreign_aid_on_90day_hold/">[comments]</a></span> </td></tr></table>
+
+## US orders halt to virtually all foreign aid except for Israel and Egypt
+ - [https://www.reddit.com/r/worldnews/comments/1i9ai3b/us_orders_halt_to_virtually_all_foreign_aid](https://www.reddit.com/r/worldnews/comments/1i9ai3b/us_orders_halt_to_virtually_all_foreign_aid)
+ - RSS feed: $source
+ - date published: 2025-01-25T00:28:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9ai3b/us_orders_halt_to_virtually_all_foreign_aid/"> <img src="https://external-preview.redd.it/D1FuwU6wGUzM9GcRHpvt8GP1jhfZOq1F_xsFT0D_9e0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0b8e112d6497aa2f7cb024848d79821387676949" alt="US orders halt to virtually all foreign aid except for Israel and Egypt" title="US orders halt to virtually all foreign aid except for Israel and Egypt" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spiderwig144"> /u/Spiderwig144 </a> <br/> <span><a href="https://www.theguardian.com/us-news/2025/jan/24/foreign-aid-israel-egypt">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9ai3b/us_orders_halt_to_virtually_all_foreign_aid/">[comments]</a></span> </td></tr></table>
+
+## Russia's Putin trying to 'manipulate' Trump, says Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1i9a1zb/russias_putin_trying_to_manipulate_trump_says](https://www.reddit.com/r/worldnews/comments/1i9a1zb/russias_putin_trying_to_manipulate_trump_says)
+ - RSS feed: $source
+ - date published: 2025-01-25T00:06:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1i9a1zb/russias_putin_trying_to_manipulate_trump_says/"> <img src="https://external-preview.redd.it/lCgXQzW28Yx0Mch1znXNL-sDX_v87VECE7OvRYwtUvk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c158f7f518e7ae56119d3c6532dff14bbe6723ce" alt="Russia's Putin trying to 'manipulate' Trump, says Ukraine" title="Russia's Putin trying to 'manipulate' Trump, says Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Somewhere9814"> /u/Ok-Somewhere9814 </a> <br/> <span><a href="https://www.dw.com/en/russias-putin-trying-to-manipulate-trump-says-ukraine/a-71404340">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1i9a1zb/russias_putin_trying_to_manipulate_trump_says/">[comments]</a></span> </td></tr></table>
+

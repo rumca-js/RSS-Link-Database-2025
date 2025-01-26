@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Second Wind",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-25T19:22:41+00:00",
+        "description": "Blood Typers is a multiplayer survival horror indie game where every single action is done by typing words on your keyboard.\n\nBlood Typers releases on Steam on February 20th, 2025, and you can play the demo today \u2014 https://store.steampowered.com/app/2790330/Blood_Typers/\n\nSupport us on Patreon: https://www.patreon.com/SecondWindGroup\n\nSecond Wind Merch: \nhttps://store.dftba.com/collections/second-wind\nhttps://sharkrobot.com/collections/second-wind",
+        "id": 1979163,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=EPcogCgAXac",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 540,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1wZGocgLvopgOqBUFCyIJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EPcogCgAXac/hqdefault.jpg",
+        "title": "A Survival Horror Game You Play Using Only Your Keyboard",
+        "vote": 0
+    }
+]

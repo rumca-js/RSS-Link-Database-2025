@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-25T09:41:00+00:00",
+        "description": "In the ideal world, credentials would be awarded to all experts, and withdrawn from all charlatans. But they don&#8217;t always line up as neatly as that. An expert is someone who can keep a promise. Point to the results that demonstrate your skill and understanding and commitment and we&#8217;ll treat you as an expert. Credentials, [&#8230;]",
+        "id": 1977077,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/01/expertise-and-credentials",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Expertise and credentials",
+        "vote": 0
+    }
+]
