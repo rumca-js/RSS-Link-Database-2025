@@ -1,0 +1,205 @@
+# Source:Self-Hosted Alternatives to Popular Services, URL:https://www.reddit.com/r/selfhosted/.rss, language:en
+
+## NEWS on Paperless-AI | Many new features - I listened to your feedback
+ - [https://www.reddit.com/r/selfhosted/comments/1iatn6u/news_on_paperlessai_many_new_features_i_listened](https://www.reddit.com/r/selfhosted/comments/1iatn6u/news_on_paperlessai_many_new_features_i_listened)
+ - RSS feed: $source
+ - date published: 2025-01-26T23:23:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello <a href="/r/selfhosted">r/selfhosted</a> family,</p> <p>Link to the repo: <a href="https://github.com/clusterzx/paperless-ai">Paperless-AI | Github</a></p> <p>Over the past few weeks, I’ve carefully listened to your wishes and suggestions. Many of these ideas have already been implemented, and I’m excited to show you how your feedback has directly influenced these updates. It’s been my mission to make Paperless-AI exactly what you need, and I’m confident you’ll love the new features and improvements.</p> <h1>New Features and Updates!</h1> <h1>Playground Feature</h1> <p>I’m introducing the Playground – an intuitive space where you can simulate prompts and instantly see the results over your documents. Whether you&#39;re fine-tuning your queries, experimenting with different phrasings, or just exploring your documents in new ways, the Playground offers:</p> <ul> <li>Interactive Feedback: Watch your prompts in action and see immediate differences 
+
+## I built a self-hosted CLI tool to talk to your infrastructure: Prompt-Ops
+ - [https://www.reddit.com/r/selfhosted/comments/1iat2t8/i_built_a_selfhosted_cli_tool_to_talk_to_your](https://www.reddit.com/r/selfhosted/comments/1iat2t8/i_built_a_selfhosted_cli_tool_to_talk_to_your)
+ - RSS feed: $source
+ - date published: 2025-01-26T22:57:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I’ve been working on a side project called <strong>Prompt-Ops</strong> for a while now, and I figured this is the perfect place to share it. It’s a self-hosted CLI tool that lets you interact with your infrastructure—like PostgreSQL databases, Kubernetes clusters, or cloud providers—using plain English.</p> <p>The idea came from my frustration with constantly Googling commands or juggling multiple CLIs just to get simple things done. So, I thought: why not just <strong><em>talk</em></strong> to my services?</p> <p>Here’s how it works:</p> <ol> <li>You connect to a service with <code>pops conn connect</code>, which grabs all the context the tool needs to understand your setup.</li> <li>Then, you can use the <strong>Prompt-Ops shell</strong> in two ways: <ul> <li><strong>Command Mode</strong>: Ask something like, &quot;Show all tables in my PostgreSQL database,&quot; and it’ll generate the right query or command for you.</li> <li><
+
+## My homelab as a Code using Proxmox, docker and Ansible
+ - [https://www.reddit.com/r/selfhosted/comments/1iaqtsy/my_homelab_as_a_code_using_proxmox_docker_and](https://www.reddit.com/r/selfhosted/comments/1iaqtsy/my_homelab_as_a_code_using_proxmox_docker_and)
+ - RSS feed: $source
+ - date published: 2025-01-26T21:22:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone !</p> <p>I am excited to share what I have been working on the last months.<br/> I have been homelabing and selfhosting the many years now, and I decided to re-re-re-re-re-do my homelab, but this time using IaC.</p> <p>Since I have settled for Proxmox and I decided to continue with Docker, I decided to use Ansible. It wasn&#39;t the best as the documentation is not super clear, however I created a collections of playbooks that I am happy to use now.</p> <h2>The repository:</h2> <p>You can find all the code I use at the following link : <a href="https://github.com/marwan-belgueddab/homelab">https://github.com/marwan-belgueddab/homelab</a></p> <p>This is the initial commit, and the past 2 days, creating some information and sanitizing the files, I found out that many things needs some changes. So expect to see modifications to names, variables (not much the names), and other improvements.</p> <h2>How it works:</h2> <p>I have a raspberry 
+
+## Run ComfyUI in Docker Quick and Easy
+ - [https://www.reddit.com/r/selfhosted/comments/1iaqj7u/run_comfyui_in_docker_quick_and_easy](https://www.reddit.com/r/selfhosted/comments/1iaqj7u/run_comfyui_in_docker_quick_and_easy)
+ - RSS feed: $source
+ - date published: 2025-01-26T21:11:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1iaqj7u/run_comfyui_in_docker_quick_and_easy/"> <img src="https://external-preview.redd.it/OQr4Soj7VAwZ_mmtskRyCGQX6haaEEmuSOMVCNzMnUA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5772f6dfdfb53980a92d8dd0e7cc71215723c84f" alt="Run ComfyUI in Docker Quick and Easy" title="Run ComfyUI in Docker Quick and Easy" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Installing and setting up ComfyUI can be a bit tedious on bare metal. With all of the dependencies needed, it’s not very beginner friendly. I wrote a guide for installing it using Docker which does all the more cumbersome stuff making it a much more simplified process. Enjoy!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nashosted"> /u/nashosted </a> <br/> <span><a href="https://noted.lol/comfyui/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iaqj7u/run_comfyui_in_docker_quic
+
+## Best Selfhosted apps for Business
+ - [https://www.reddit.com/r/selfhosted/comments/1iakpx8/best_selfhosted_apps_for_business](https://www.reddit.com/r/selfhosted/comments/1iakpx8/best_selfhosted_apps_for_business)
+ - RSS feed: $source
+ - date published: 2025-01-26T17:37:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Looking for recommendations what to host small size business and plenty of servers that just idle… </p> <p>Feel free to suggest, already running jira/confluence and umami… </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Due_Detective_9642"> /u/Due_Detective_9642 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iakpx8/best_selfhosted_apps_for_business/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iakpx8/best_selfhosted_apps_for_business/">[comments]</a></span>
+
+## Piggybacking off Apple's FindMy network for self-hosted GPS tracking without using a single Apple device
+ - [https://www.reddit.com/r/selfhosted/comments/1iajzco/piggybacking_off_apples_findmy_network_for](https://www.reddit.com/r/selfhosted/comments/1iajzco/piggybacking_off_apples_findmy_network_for)
+ - RSS feed: $source
+ - date published: 2025-01-26T17:09:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1iajzco/piggybacking_off_apples_findmy_network_for/"> <img src="https://external-preview.redd.it/B7-7IdSDKxAhLbtEA1GdDnuyoBTPmdTtOgnHXOeGCAE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3a139c969d33ce26ab30013f82d1853108795bb" alt="Piggybacking off Apple's FindMy network for self-hosted GPS tracking without using a single Apple device" title="Piggybacking off Apple's FindMy network for self-hosted GPS tracking without using a single Apple device" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I recently started looking into implementing some GPS tracking solution for a non-profit org to avoid losing track of cars, keys and important bags. It was important that the solution would be economical and would let us self-host the collected data. I realized that standalone GPS trackers aren&#39;t very useful for this, since their battery generally only lasts a few days and they aren&#39;t very cheap (which is fa
+
+## Quick survey: what reverse proxy platform do you prefer?
+ - [https://www.reddit.com/r/selfhosted/comments/1iaitt2/quick_survey_what_reverse_proxy_platform_do_you](https://www.reddit.com/r/selfhosted/comments/1iaitt2/quick_survey_what_reverse_proxy_platform_do_you)
+ - RSS feed: $source
+ - date published: 2025-01-26T16:26:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>I started with nginx about 10 years ago</p> <p>I tried traefik when I migrated my services to docker but I&#39;ve recently rebuilt my network stack and have stuck (again) with nginx.</p> <p>In regards to containers, using the <code>/conf.d</code> path to store my various configuration files for my different endpoints, made it a easier sell. I simply git my configuration files and adjust accordingly as I add and remove services </p> <p>I wasn&#39;t enjoying the labels syntaxes I had to use with traefik </p> <p>I haven&#39;t used caddy but was going to try it out this week</p> <p>What is your proxy platform of choice, why? </p> <p>To expand on the conversation; what other proxy platforms are you running and how?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/machstem"> /u/machstem </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iaitt2/quick_survey_what_reverse_proxy_platform_do_you/">[link
+
+## Why is it not encouraged to run headscale in a container?
+ - [https://www.reddit.com/r/selfhosted/comments/1iaisym/why_is_it_not_encouraged_to_run_headscale_in_a](https://www.reddit.com/r/selfhosted/comments/1iaisym/why_is_it_not_encouraged_to_run_headscale_in_a)
+ - RSS feed: $source
+ - date published: 2025-01-26T16:25:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1iaisym/why_is_it_not_encouraged_to_run_headscale_in_a/"> <img src="https://preview.redd.it/5mmjdg9w6dfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=66e68a4458813b706cfc17b0ef513b28182b5b5d" alt="Why is it not encouraged to run headscale in a container?" title="Why is it not encouraged to run headscale in a container?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://github.com/juanfont/headscale">https://github.com/juanfont/headscale</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Maqtok"> /u/Maqtok </a> <br/> <span><a href="https://i.redd.it/5mmjdg9w6dfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iaisym/why_is_it_not_encouraged_to_run_headscale_in_a/">[comments]</a></span> </td></tr></table>
+
+## Must haves for a Home Server
+ - [https://www.reddit.com/r/selfhosted/comments/1iaigrq/must_haves_for_a_home_server](https://www.reddit.com/r/selfhosted/comments/1iaigrq/must_haves_for_a_home_server)
+ - RSS feed: $source
+ - date published: 2025-01-26T16:12:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>What are the services, everyone should have on their homeserver? I‘m currently running *arr services for usenet and jellyfin, nextcloud, adguard and nginx. Any more suggestions?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Prestigious-Look-891"> /u/Prestigious-Look-891 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iaigrq/must_haves_for_a_home_server/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iaigrq/must_haves_for_a_home_server/">[comments]</a></span>
+
+## Upgrade to Vaultwarden 1.33.0 ASAP (security fixes)
+ - [https://www.reddit.com/r/selfhosted/comments/1iahlif/upgrade_to_vaultwarden_1330_asap_security_fixes](https://www.reddit.com/r/selfhosted/comments/1iahlif/upgrade_to_vaultwarden_1330_asap_security_fixes)
+ - RSS feed: $source
+ - date published: 2025-01-26T15:39:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1iahlif/upgrade_to_vaultwarden_1330_asap_security_fixes/"> <img src="https://external-preview.redd.it/kXpiLX4i5jXdr9vKplWDDTZ1el81xvXuqRbzsPWcUr0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=202925b9adcf0f2983db8443d109bf124ccde580" alt="Upgrade to Vaultwarden 1.33.0 ASAP (security fixes)" title="Upgrade to Vaultwarden 1.33.0 ASAP (security fixes)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nointroduction3141"> /u/nointroduction3141 </a> <br/> <span><a href="https://github.com/dani-garcia/vaultwarden/releases/tag/1.33.0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iahlif/upgrade_to_vaultwarden_1330_asap_security_fixes/">[comments]</a></span> </td></tr></table>
+
+## Nextcloud: migrate Docker to VM in Proxmox cluster
+ - [https://www.reddit.com/r/selfhosted/comments/1iag23y/nextcloud_migrate_docker_to_vm_in_proxmox_cluster](https://www.reddit.com/r/selfhosted/comments/1iag23y/nextcloud_migrate_docker_to_vm_in_proxmox_cluster)
+ - RSS feed: $source
+ - date published: 2025-01-26T14:36:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys I&#39;m currently running Nextcloud on Docker while saving the data on an external drive. This drive is replicated to two other machines (off site) via Syncthing. While this solution has worked well in the past, the issue is high availability. If the main machine loses power for example, my cloud is no longer reachable. There is no data loss, but until it is powered on again I don&#39;t have access to the data. My solution to this is setting up a Proxmox cluster where I set up a VM on machine A with high availability, so if it goes down it would automatically be replicated on machine B or C. My questions are: 1. How would I set up the external drives on the two additional machines? Simply as storage? 2. How can I migrate from Docker to a Nextcloud VM? 3. Would Proxmox automatically sync the data from the external drives to the nodes as well similar to Syncthing? Because otherwise for HA I would have a working (reachable) Nextcloud VM on for 
+
+## Proxmox VM and a thin client
+ - [https://www.reddit.com/r/selfhosted/comments/1iafx5x/proxmox_vm_and_a_thin_client](https://www.reddit.com/r/selfhosted/comments/1iafx5x/proxmox_vm_and_a_thin_client)
+ - RSS feed: $source
+ - date published: 2025-01-26T14:30:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>My wife has a very occasional need for desktop computing. Like, once every few months. I thought about getting her a laptop, but given how little she would use it, she doesn&#39;t want us to spend enough money to buy anything decent.</p> <p>My other solution is giving her a Raspberry Pi 5 desktop with Linux, but I don&#39;t have a spare 5 lying about. I do, however, have some older Raspberry Pis that aren&#39;t really suitable for desktop use, but might do as a thin client.</p> <p>Does anyone know a relatively turnkey solution that allows me to spin up a modern desktop Linux VM on Proxmox, and connect to it with a thin client Raspberry Pi?<br/> I can probably jank up a basic solution manually, but if she&#39;s gonna use it, it needs to be pretty dependable since if she needs it, and it is not working, even once, she won&#39;t ever use it again.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JimmyRecard"> /u/Jim
+
+## HomeLab Network Control Node & Clients
+ - [https://www.reddit.com/r/selfhosted/comments/1iafs7d/homelab_network_control_node_clients](https://www.reddit.com/r/selfhosted/comments/1iafs7d/homelab_network_control_node_clients)
+ - RSS feed: $source
+ - date published: 2025-01-26T14:24:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>Again thanks for your input I&#39;ve taken it and scraped the selfhosing and homelab setups of others and had a back and forth with ChatGPT to see if I got stuff right.<br/> <a href="https://chatgpt.com/share/67963eaf-df70-8009-afa1-4fa124ee46a3">https://chatgpt.com/share/67963eaf-df70-8009-afa1-4fa124ee46a3</a><br/> If you want to have a look. I imagine you would be able to spot any errors it&#39;s or I have made.<br/> I came out with this:</p> <p>Network Control Laptop:</p> <ul> <li>Technitium (for DHCP and DNS management)</li> <li>Tailscale (for VPN and VLAN management)</li> <li>Traefik (for reverse proxy and auto SSL)</li> <li>Authentik (for user and session authentication)</li> <li>Unbound (for local DNS resolution, if needed)</li> <li>Komodo (for Docker orchestration)</li> <li>Portainer (for Docker container management, optional)</li> <li>Ansible (for automation of system and software setup)</li> </ul> <p>I&#39;m going to run through setting th
+
+## Best way to setup to setup AI chatbot in local network
+ - [https://www.reddit.com/r/selfhosted/comments/1iafmsy/best_way_to_setup_to_setup_ai_chatbot_in_local](https://www.reddit.com/r/selfhosted/comments/1iafmsy/best_way_to_setup_to_setup_ai_chatbot_in_local)
+ - RSS feed: $source
+ - date published: 2025-01-26T14:18:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a 210GB SSD lying around, is there any daemon like tools to download and store the AI models to the SSD?</p> <p>I would like to know whether such daemon exists specifically with easy API, so that other front-ends can build on it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dfaultkei"> /u/dfaultkei </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iafmsy/best_way_to_setup_to_setup_ai_chatbot_in_local/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iafmsy/best_way_to_setup_to_setup_ai_chatbot_in_local/">[comments]</a></span>
+
+## Best Security Practices?
+ - [https://www.reddit.com/r/selfhosted/comments/1iafa3j/best_security_practices](https://www.reddit.com/r/selfhosted/comments/1iafa3j/best_security_practices)
+ - RSS feed: $source
+ - date published: 2025-01-26T14:02:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi there. I have a Cloudflare domain name which points to my server&#39;s public IP, which is then managed by NPM (in Docker) to point to whatever local stuff I want accessed from the web (such as Jellyfin, for one example). My NPM setup works in this way: For proxy host, I use the server machine&#39;s local IP (192.x.x.x:Port) to point to JF and in JF&#39;s docker compose file, I have a port defined in it so that I can access &quot;localhost:Port&quot; on the native machine as well. This will all be in Docker.</p> <p>I plan on self-hosting a simple blog page for friends/family/whoever really, but I want to know the best security practices when using Docker for this sort of thing. For now, I would use <a href="https://ghost.org/">Ghost</a> as the blog platform. I don&#39;t have fail2ban or anything installed on Docker, security-wise, just containers I use, with JF being the one that&#39;s publicly accessible from the Internet, and soon-to-be the blog
+
+## Self-hosted services on Kubernetes and QEMU
+ - [https://www.reddit.com/r/selfhosted/comments/1iaf17c/selfhosted_services_on_kubernetes_and_qemu](https://www.reddit.com/r/selfhosted/comments/1iaf17c/selfhosted_services_on_kubernetes_and_qemu)
+ - RSS feed: $source
+ - date published: 2025-01-26T13:51:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1iaf17c/selfhosted_services_on_kubernetes_and_qemu/"> <img src="https://external-preview.redd.it/4E8PZOQGSndDcCHXzdhJrJe_nhUC8rVLNGayO3TyqRM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5aca83673bcc72713f1d9d8a392e845ec962e2fc" alt="Self-hosted services on Kubernetes and QEMU" title="Self-hosted services on Kubernetes and QEMU" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eom-dev"> /u/eom-dev </a> <br/> <span><a href="https://youtu.be/ne3UIJGrorM">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iaf17c/selfhosted_services_on_kubernetes_and_qemu/">[comments]</a></span> </td></tr></table>
+
+## Do you use apps like paperless-ngx or immich as your only file storage?
+ - [https://www.reddit.com/r/selfhosted/comments/1iaeith/do_you_use_apps_like_paperlessngx_or_immich_as](https://www.reddit.com/r/selfhosted/comments/1iaeith/do_you_use_apps_like_paperlessngx_or_immich_as)
+ - RSS feed: $source
+ - date published: 2025-01-26T13:28:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am currently struggling with a valid setup that targets &quot;everything&quot; regarding files, in one place. While there is paperless for documents and immich for photos and videos, I would also like to have one single space for all my files, like nextcloud (or any other viable self hosted solution). While I might be able to use multiple systems, the WAF is playing a significant role here. So I would love to know how you guys use apps like paperless, immich, nextcliud and so on. Do you have multiple apps for all different file-types or do you link the paperless media folder to something like nextcloud or any other self hosted storage platform?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Captain_Allergy"> /u/Captain_Allergy </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iaeith/do_you_use_apps_like_paperlessngx_or_immich_as/">[link]</a></span> &#32; <span><a href="https://www.reddit
+
+## Beginner Advice, Beelink Mini S12 Pro, Media Server
+ - [https://www.reddit.com/r/selfhosted/comments/1iae6rq/beginner_advice_beelink_mini_s12_pro_media_server](https://www.reddit.com/r/selfhosted/comments/1iae6rq/beginner_advice_beelink_mini_s12_pro_media_server)
+ - RSS feed: $source
+ - date published: 2025-01-26T13:12:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello Community. I finally wanted to start a local file storage system and bought the beelink mini s12 pro (Lake N100 4c/4t, 16GB RAM, 500gb ssd).</p> <p>I fumbled with multiple RPIs throught the years and having my pi4 now running HassOS for like 3. </p> <p>For the initial Setup im not sure what my route is gonna be. the easiest would be to install OpenMediaVault as an OS directly and add for example PLEX as an addon or with the portainer integration. A friend has OMV on a pi with a headless raspi so i was also thinking headless Ubuntu for more flexibility? Another friend reccomended Proxmox what i have an idea of in theory but never worked with it and i read something abt that my obtained server hardware might have not enough threads in the long run?</p> <p>What I wanna do initiallyy:<br/> Run OMV and Plex for Media Sharing<br/> Look into installing gitlab so i can save my private projects awesomely instead of a portable SSD<br/> Maybe look into Fr
+
+## Adding performance data to s3compare.io
+ - [https://www.reddit.com/r/selfhosted/comments/1iachct/adding_performance_data_to_s3compareio](https://www.reddit.com/r/selfhosted/comments/1iachct/adding_performance_data_to_s3compareio)
+ - RSS feed: $source
+ - date published: 2025-01-26T11:43:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>Following up on last year&#39;s feedback on <a href="http://s3compare.io">s3compare.io</a> - we&#39;re now looking to add performance data and feature comparison (versioning, locking, encryption) across providers.</p> <p>Proposed performance tests using warp:</p> <ul> <li>LIST: 100k 1kb objects (ops/s)</li> <li>DELETE: 100k 1kb objects (ops/s)</li> <li>PUT: 100k 1kb objects (ops/s) + 250 100mb objects (kb/s)</li> <li>GET: 100k 1kb objects (ops/s) + 250 100mb objects (kb/s)</li> </ul> <p>Tests will run from a node within 5ms latency of each S3 endpoint.</p> <p>We&#39;ll add data for providers we use, and welcome other providers to temporarily provide a bucket for our benchmark to run.</p> <p>What additional metrics or features would you like to see included? How would you like to see the data presented?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zeroservices_eu"> /u/zeroservices_eu </a> <
+
+## Selfhosted Cat Food Tracker?
+ - [https://www.reddit.com/r/selfhosted/comments/1iacamb/selfhosted_cat_food_tracker](https://www.reddit.com/r/selfhosted/comments/1iacamb/selfhosted_cat_food_tracker)
+ - RSS feed: $source
+ - date published: 2025-01-26T11:32:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi,<br/> this might sound a bit odd, but I&#39;m looking for a self-hosted solution to track my cats&#39; food.</p> <p>So far, I&#39;ve been relying on a self-written program, but it has some bugs that I can&#39;t really fix, and honestly, I don&#39;t want to invest the time to do so.</p> <p>I want the tool to manage the &#39;inventory&#39; and also include a kind of &#39;feeding log.&#39; Notifications would also be great if the stock for a specific food falls below a certain threshold.</p> <p>As a trial, I set up a Snipe-IT instance, which is already quite suitable. However, I can&#39;t seem to create reports for consumables, and tracking the &quot;purchasing&quot; of food isn&#39;t handled very well either.</p> <p>I&#39;ve also looked into CRM solutions, but I&#39;ve always struggled to quickly log a feeding.</p> <p>Does anyone have a good solution in mind?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Natu
+
+## Spending tracking and budget forecasting
+ - [https://www.reddit.com/r/selfhosted/comments/1iac3z2/spending_tracking_and_budget_forecasting](https://www.reddit.com/r/selfhosted/comments/1iac3z2/spending_tracking_and_budget_forecasting)
+ - RSS feed: $source
+ - date published: 2025-01-26T11:22:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>With how I manage my finances, I rely heavily on forecasting future transactions and card payments. In cases where I don&#39;t have cash to cover something unexpected immediately, it&#39;s good to be able to forecast exactly how much cash I will have available at the due date for a card payment. </p> <p>The way I currently do this is with MoneyWiz, I put every transaction I make in there manually so I know exactly what I&#39;ve spent. I then have a series of recurring scheduled transactions for my regular expenses and incomes. Finally I manually calculate my future card statements, and this then gives me a really clear graph of my accounts, showing me exactly how much cash I will have at any point in the future. This is really nice, since I can clearly see low points on my debit account which clearly tell me how much headroom I have.</p> <p>The main issue is MoneyWiz is discontinued for Windows, the new version is a subscription, and I&#39;m starting
+
+## Self hosting a social media feed aggregator algorithm (using LLM)
+ - [https://www.reddit.com/r/selfhosted/comments/1iac2tt/self_hosting_a_social_media_feed_aggregator](https://www.reddit.com/r/selfhosted/comments/1iac2tt/self_hosting_a_social_media_feed_aggregator)
+ - RSS feed: $source
+ - date published: 2025-01-26T11:20:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Does this exist already?</p> <p>You setup various input feeds (RSS, reddit, news sites, Masterdoon, etc) then have an LLM parse the contents (and like with redits also the replies) with special instructions of your interests and personality and basically filter to your own curated timeline. It still just links to the original content.</p> <p>If you can configure how often it checks for new content and how many links it will select, you can tune it to fit your consumption. For example it could even just run once per day and look at yesterday&#39;s content, selecting just the best parts. Or you can have it select fresh highlights every three hours. </p> <p>The goal is that the user stays up to date, while not having to take part in doom scrolling. Content you are served is limited but interesting to you. I imagine the tricky bit is how to tell the LLM model what is interesting and not.</p> <p>I&#39;ve been thinking about this concept for almost a year,
+
+## Software CRM/ERP for sales agent
+ - [https://www.reddit.com/r/selfhosted/comments/1iab1eb/software_crmerp_for_sales_agent](https://www.reddit.com/r/selfhosted/comments/1iab1eb/software_crmerp_for_sales_agent)
+ - RSS feed: $source
+ - date published: 2025-01-26T10:19:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello,</p> <p>did you know some software, who handle lead, esthimation, subscription and commission for sales agent?</p> <p>I&#39;m been crazy to found it! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Elemis89"> /u/Elemis89 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iab1eb/software_crmerp_for_sales_agent/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iab1eb/software_crmerp_for_sales_agent/">[comments]</a></span>
+
+## Automating Grafana & Loki Logging with CI/CD Pipelines and Ansible
+ - [https://www.reddit.com/r/selfhosted/comments/1ia8nur/automating_grafana_loki_logging_with_cicd](https://www.reddit.com/r/selfhosted/comments/1ia8nur/automating_grafana_loki_logging_with_cicd)
+ - RSS feed: $source
+ - date published: 2025-01-26T07:31:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently wrote a blog about how I automated the process of onboarding new hosts and collecting metrics in Grafana. For a while, I was managing hosts manually through YAML configuration files, but I quickly realized that I was often forgetting to add new hosts, and those YAML files were becoming increasingly difficult to manage.</p> <p>After some trial and error, I came up with a solution that combines Ansible templates and Systemd to fully automate the onboarding process. Now, whenever a new host is added, it’s automatically registered and configured without the need for manual intervention, saving a ton of time and reducing the risk of errors.</p> <p><a href="https://www.ruse.tech/blogs/logging-pipeline">https://www.ruse.tech/blogs/logging-pipeline</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ruse_tech"> /u/ruse_tech </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ia8nur/automat
+
+## open source CCTV software
+ - [https://www.reddit.com/r/selfhosted/comments/1ia7yft/open_source_cctv_software](https://www.reddit.com/r/selfhosted/comments/1ia7yft/open_source_cctv_software)
+ - RSS feed: $source
+ - date published: 2025-01-26T06:41:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey all, I am very new to all of this. I have a server sitting on a room with very old hardware running a server. It’s got windows 10, with a VM running Ubuntu with docker installed. I have installed Immich and have that running. I want to take my RTSP ip CCTV cameras and host them on my server but i dont know of any good software for this. Does anybody have any ideas?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BigChickenManz"> /u/BigChickenManz </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ia7yft/open_source_cctv_software/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ia7yft/open_source_cctv_software/">[comments]</a></span>
+
+## Looking for a Self-Hosted Solution for Voice Recording and Transcription Summaries
+ - [https://www.reddit.com/r/selfhosted/comments/1ia7lkk/looking_for_a_selfhosted_solution_for_voice](https://www.reddit.com/r/selfhosted/comments/1ia7lkk/looking_for_a_selfhosted_solution_for_voice)
+ - RSS feed: $source
+ - date published: 2025-01-26T06:16:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, selfhosters!</p> <p>I’m looking for a self-hosted solution to record voice and generate summary notes from the transcription. </p> <p>Something similar to what Phatom offers but with a key difference: • Fully local (no third-party services or cloud dependency). • Discreet—no notifications to others, like when taking personal notes during a call or meeting.</p> <p>It doesn’t need to integrate with any specific app or service. I just want to record audio, transcribe it, and create concise summary notes locally.</p> <p>Does anyone know of any projects or tools that could achieve this? Open-source solutions are a huge plus!</p> <p>Thanks in advance!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GreatRoxy"> /u/GreatRoxy </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ia7lkk/looking_for_a_selfhosted_solution_for_voice/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/self
+
+## I’m self hosting a website that tracks everything the US President does. Here’s how it works.
+ - [https://www.reddit.com/r/selfhosted/comments/1ia7ic3/im_self_hosting_a_website_that_tracks_everything](https://www.reddit.com/r/selfhosted/comments/1ia7ic3/im_self_hosting_a_website_that_tracks_everything)
+ - RSS feed: $source
+ - date published: 2025-01-26T06:10:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1ia7ic3/im_self_hosting_a_website_that_tracks_everything/"> <img src="https://preview.redd.it/j4l5fxu65afe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cc1ff2d78c794ba0e0b067dd62aed00d2a47bdbc" alt="I’m self hosting a website that tracks everything the US President does. Here’s how it works." title="I’m self hosting a website that tracks everything the US President does. Here’s how it works." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>The server is an old computer of mine that’s been fitted into my home server rack (see photo). </p> <p>It has an i7-7700k, 16GB DDR4, a 256GB SSD, and a GTX 1080. </p> <p>The server is running Ubuntu 24.04 LTS. I use OpenLiteSpeed to serve the actual website itself. </p> <p>The site communicates to a backend flask server that runs locally on the machine and processes all the necessary information the site needs to function, including the notification features. This is 
+
+## Introducing DumbKan AND DumbDo! The DumbDuo, a simple Kanban and Todo List!
+ - [https://www.reddit.com/r/selfhosted/comments/1ia2jdh/introducing_dumbkan_and_dumbdo_the_dumbduo_a](https://www.reddit.com/r/selfhosted/comments/1ia2jdh/introducing_dumbkan_and_dumbdo_the_dumbduo_a)
+ - RSS feed: $source
+ - date published: 2025-01-26T01:25:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1ia2jdh/introducing_dumbkan_and_dumbdo_the_dumbduo_a/"> <img src="https://external-preview.redd.it/GH6l1w9gCSekRRoPIiiKC6nBF3IHGGHkeZzI9y3pFlo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=59c374d258dd57bb1cf99c1f1997d5faf5208669" alt="Introducing DumbKan AND DumbDo! The DumbDuo, a simple Kanban and Todo List!" title="Introducing DumbKan AND DumbDo! The DumbDuo, a simple Kanban and Todo List!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>After the amazing response and feedback from <a href="https://github.com/abiteman/DumbPad">DumbPad </a>and <a href="https://github.com/abiteman/DumbDrop">DumbDrop</a> me and a buddy got to work. </p> <p>The DumbDuo <a href="https://github.com/abiteman/DumbKan">DumbKan </a>and <a href="https://github.com/abiteman/DumbDo">DumbDo </a>are here for all you task masters!</p> <p><a href="https://preview.redd.it/icpv9dayl8fe1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=fd2
+
+## Retrom v0.7.0 Released - Major simplification of installation+configuration and standalone mode!
+ - [https://www.reddit.com/r/selfhosted/comments/1ia2hj2/retrom_v070_released_major_simplification_of](https://www.reddit.com/r/selfhosted/comments/1ia2hj2/retrom_v070_released_major_simplification_of)
+ - RSS feed: $source
+ - date published: 2025-01-26T01:22:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello <a href="/r/selfhosted">r/selfhosted</a> ! I am happy to be back to announce the latest major release of <a href="https://github.com/JMBeresford/retrom">Retrom</a>!</p> <p>For those who are hearing of Retrom for the first time: Retrom is a self-hosted game library/collection management service with a focus on emulation. Major features include:</p> <ul> <li>Centralized library + metadata management and storage via the Retrom server</li> <li>Download and/or &quot;install&quot; games from your Retrom server from any Retrom desktop client or the built-in web client</li> <li>Sync your Retrom library with third-party libraries ( such as <a href="https://store.steampowered.com/">Steam</a> ) in your Retrom client, and even launch them -- one client to rule them all! <ul> <li>Customize metadata for third-party library entries, or keep the upstream defaults</li> </ul></li> <li>&quot;Fullscreen Mode&quot; makes for a great experience in couch-gaming setup
+

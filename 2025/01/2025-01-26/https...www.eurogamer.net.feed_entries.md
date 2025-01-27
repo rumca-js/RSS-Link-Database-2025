@@ -1,0 +1,37 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Fanta partners with Xbox to give away some very, very bright hardware
+ - [https://www.eurogamer.net/fanta-partners-with-xbox-to-give-away-some-very-very-bright-hardware](https://www.eurogamer.net/fanta-partners-with-xbox-to-give-away-some-very-very-bright-hardware)
+ - RSS feed: $source
+ - date published: 2025-01-26T18:55:17+00:00
+
+<img src="https://assetsio.gnwcdn.com/Screenshot-2025-01-26-at-18.31.20-1(2).png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>Coca-Cola has partnered with Xbox to give away a selection of super bright controllers "representing the most popular flavours in the brand's portfolio", such as orange, lemon, exotic, fruit twist, grape, and lemon-elderflower.</p> <p><a href="https://www.eurogamer.net/fanta-partners-with-xbox-to-give-away-some-very-very-bright-hardware">Read more</a></p>
+
+## The Witcher: Sirens of the Deep anime includes a mysterious scene cut from the live-action show
+ - [https://www.eurogamer.net/the-witcher-sirens-of-the-deep-anime-includes-a-mysterious-scene-cut-from-the-live-action-show](https://www.eurogamer.net/the-witcher-sirens-of-the-deep-anime-includes-a-mysterious-scene-cut-from-the-live-action-show)
+ - RSS feed: $source
+ - date published: 2025-01-26T18:16:36+00:00
+
+<img src="https://assetsio.gnwcdn.com/witcher-sirens-of-the-deep-trailer-crop.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>The Witcher: Sirens of the Deep - the Witcher anime heading to <a data-keyword="true" href="https://www.eurogamer.net/companies/netflix">Netflix</a> next month - will take place in the middle of the live-action show, specifically between episodes 5 and 6, and it includes a scene that was cut from Henry Cavill's first season.</p> <p><a href="https://www.eurogamer.net/the-witcher-sirens-of-the-deep-anime-includes-a-mysterious-scene-cut-from-the-live-action-show">Read more</a></p>
+
+## This classic 35-year-old point and click horror is back from the dead, remade by the same solo dev that created it
+ - [https://www.eurogamer.net/this-classic-35-year-old-point-and-click-horror-is-back-from-the-dead-remade-by-the-same-solo-dev-that-created-it](https://www.eurogamer.net/this-classic-35-year-old-point-and-click-horror-is-back-from-the-dead-remade-by-the-same-solo-dev-that-created-it)
+ - RSS feed: $source
+ - date published: 2025-01-26T13:25:47+00:00
+
+<img src="https://assetsio.gnwcdn.com/Screenshot-2025-01-26-at-13.21.21.png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>35 years after point and click horror game Last Half of Darkness first released it's coming back, remade from the ground up by the same solo dev who created it.</p> <p><a href="https://www.eurogamer.net/this-classic-35-year-old-point-and-click-horror-is-back-from-the-dead-remade-by-the-same-solo-dev-that-created-it">Read more</a></p>
+
+## Xbox boss says brand's identity is "evolving" in response to fan concerns over multiplatform future
+ - [https://www.eurogamer.net/xbox-boss-says-brands-identity-is-evolving-in-response-to-fan-concerns-over-multiplatform-future](https://www.eurogamer.net/xbox-boss-says-brands-identity-is-evolving-in-response-to-fan-concerns-over-multiplatform-future)
+ - RSS feed: $source
+ - date published: 2025-01-26T12:43:04+00:00
+
+<img src="https://assetsio.gnwcdn.com/Screenshot-2025-01-26-at-12.39.50.png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>Xbox boss <a data-keyword="true" href="https://www.eurogamer.net/personas/phil-spencer">Phil Spencer</a> said its brand identity is "evolving" now keeping first-party games exclusive to its own platform is no longer "a path for [Xbox]".</p> <p><a href="https://www.eurogamer.net/xbox-boss-says-brands-identity-is-evolving-in-response-to-fan-concerns-over-multiplatform-future">Read more</a></p>
+
+## Can a Steam profile be a real memorial for a lost life?
+ - [https://www.eurogamer.net/can-a-steam-profile-be-a-real-memorial-for-a-lost-life](https://www.eurogamer.net/can-a-steam-profile-be-a-real-memorial-for-a-lost-life)
+ - RSS feed: $source
+ - date published: 2025-01-26T10:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/Untitled-1_CX33evm.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>Just over two years ago, a friend of mine died in their sleep. It was unexpected. Let's call them Ash, although it's not their real name. They were incredibly funny, emotionally open, and kind. And because Ash and I were friends on Steam, I know exactly how many days it's been since they died, just like I know what they were doing before they went to bed that night. They were playing Sea Of Thieves.</p> <p><a href="https://www.eurogamer.net/can-a-steam-profile-be-a-real-memorial-for-a-lost-life">Read more</a></p>
+

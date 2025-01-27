@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-26T11:44:31.319381+00:00",
+        "description": "News for Tabletop, Boardgames, Miniatures, RPGs and Card Games!",
+        "id": 1979902,
+        "language": "en-US",
+        "link": "https://www.tabletopgamingnews.com/feed",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 321,
+        "source_url": "https://www.tabletopgamingnews.com/feed",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://www.tabletopgamingnews.com/wp-content/uploads/2023/02/cropped-Tabletop-Gaming-News-Logo-32x32.png",
+        "title": "TGN \u2013 Tabletop Gaming News",
+        "vote": 0
+    }
+]

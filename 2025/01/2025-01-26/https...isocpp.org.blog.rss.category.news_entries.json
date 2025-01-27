@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-26T18:49:42+00:00",
+        "description": "<p>\n\tNew video on the CopperSpice YouTube Channel:</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.youtube.com/watch?v=1KeRrZOMOZk\">C++20 and Two&#39;s Complement</a></h3>\n</blockquote>\n<blockquote>\n\t<p>\n\t\tby Barbara Geller and Ansel Sermersheim</p>\n</blockquote>\n<p>\n\tAbout the video:</p>\n<blockquote>\n\t<p>\n\t\tSomeone mentioned C++20 is unusable because the standard now requires 2&#39; Complement. Is is possible that he has a point and if so, on what basis did he make this claim?</p>\n\t<p>\n\t\tWe encourage everyone to watch our video to discover the history of Binary Representation.</p>\n\t<p>\n\t\tTake a look and remember to subscribe.</p>\n</blockquote>",
+        "id": 1984615,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/01/copperspice-cpp20-and-twos-complement",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "CopperSpice: C++20 and Two's Complement",
+        "vote": 0
+    }
+]

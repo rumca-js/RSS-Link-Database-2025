@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-26T11:00:27+00:00",
+        "description": "In Trump\u2019s first term, Meta quietly introduced a slew of Republican-friendly changes. But led by Joel Kaplan, the company is done playing both sides and is going all-in on MAGA.",
+        "id": 1980777,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2025/01/26/mark-zuckerberg-trump-meta-fact-checking",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Inside Mark Zuckerberg\u2019s Trump pivot",
+        "vote": 0
+    }
+]

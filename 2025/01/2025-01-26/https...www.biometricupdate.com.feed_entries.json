@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-26T23:45:04+00:00",
+        "description": "<img width=\"1020\" height=\"680\" src=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/01/26184241/deepseek.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/01/26184241/deepseek.jpg 1020w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/01/26184241/deepseek-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/01/26184241/deepseek-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/01/26184241/deepseek-768x512.jpg 768w\" sizes=\"(max-width: 1020px) 100vw, 1020px\" />\n\t\tChina's <a href=\"https://www.deepseek.com/\">DeepSeek</a> AI model represents a transformative development in China\u2019s AI capabilities, and its implications for cyberattacks and data privacy are particularly alarming. By leveraging DeepSeek, China is on its way to revolutionizing its cyber-espionage, cyberwarf",
+        "id": 1984610,
+        "language": "en-US",
+        "link": "https://www.biometricupdate.com/202501/chinas-deepseek-ai-poses-formidable-cyber-data-privacy-threats",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 38,
+        "source_url": "https://www.biometricupdate.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "China\u2019s DeepSeek AI poses formidable cyber, data privacy threats",
+        "vote": 0
+    }
+]

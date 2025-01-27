@@ -1,0 +1,191 @@
+# Source:World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Colombia to send presidential plane to Honduras to pick up migrants from US flights
+ - [https://www.reddit.com/r/worldnews/comments/1iar9rx/colombia_to_send_presidential_plane_to_honduras](https://www.reddit.com/r/worldnews/comments/1iar9rx/colombia_to_send_presidential_plane_to_honduras)
+ - RSS feed: $source
+ - date published: 2025-01-26T21:39:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iar9rx/colombia_to_send_presidential_plane_to_honduras/"> <img src="https://external-preview.redd.it/K0pWc2CWqNORAQ2wcH3Zi0yEt8C_wVH0-8tM_dbrVLw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf341c9e50d995f8cdd12da13bcd8238469c1060" alt="Colombia to send presidential plane to Honduras to pick up migrants from US flights" title="Colombia to send presidential plane to Honduras to pick up migrants from US flights" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Disastrous_Role_202"> /u/Disastrous_Role_202 </a> <br/> <span><a href="https://thehill.com/policy/international/5107740-colombia-presidential-plane-honduras-us-deportation-flights/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iar9rx/colombia_to_send_presidential_plane_to_honduras/">[comments]</a></span> </td></tr></table>
+
+## South Korea’s president charged with insurrection over declaration of martial law
+ - [https://www.reddit.com/r/worldnews/comments/1iaqheg/south_koreas_president_charged_with_insurrection](https://www.reddit.com/r/worldnews/comments/1iaqheg/south_koreas_president_charged_with_insurrection)
+ - RSS feed: $source
+ - date published: 2025-01-26T21:09:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iaqheg/south_koreas_president_charged_with_insurrection/"> <img src="https://external-preview.redd.it/8V4IeO8SJd0xkskezUhBd3JAdJE9FX39-b6PqKTOSDo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32b9ccc4b45ce236a36741635f52781074c6aa1f" alt="South Korea’s president charged with insurrection over declaration of martial law" title="South Korea’s president charged with insurrection over declaration of martial law" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/perplexed-redditor"> /u/perplexed-redditor </a> <br/> <span><a href="https://www.cnn.com/2025/01/26/asia/south-koreas-president-charged-insurrection-intl">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iaqheg/south_koreas_president_charged_with_insurrection/">[comments]</a></span> </td></tr></table>
+
+## Sweden Says Has Seized Ship Suspected Of Baltic Sea 'Sabotage'
+ - [https://www.reddit.com/r/worldnews/comments/1iaqf50/sweden_says_has_seized_ship_suspected_of_baltic](https://www.reddit.com/r/worldnews/comments/1iaqf50/sweden_says_has_seized_ship_suspected_of_baltic)
+ - RSS feed: $source
+ - date published: 2025-01-26T21:07:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iaqf50/sweden_says_has_seized_ship_suspected_of_baltic/"> <img src="https://external-preview.redd.it/w1e3BuvwxSQ0ngxaHSxI3tLhN6kGuQ46ohZbQhaxEPA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e0356bd772504429bba455acb1efe6eda050a58" alt="Sweden Says Has Seized Ship Suspected Of Baltic Sea 'Sabotage'" title="Sweden Says Has Seized Ship Suspected Of Baltic Sea 'Sabotage'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Peter-Pair"> /u/Peter-Pair </a> <br/> <span><a href="https://www.barrons.com/news/sweden-says-has-seized-ship-suspected-of-baltic-sea-sabotage-13ff82f2">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iaqf50/sweden_says_has_seized_ship_suspected_of_baltic/">[comments]</a></span> </td></tr></table>
+
+## Belarus exit poll puts Lukashenko on 87.6% of vote in presidential election
+ - [https://www.reddit.com/r/worldnews/comments/1iaoaxi/belarus_exit_poll_puts_lukashenko_on_876_of_vote](https://www.reddit.com/r/worldnews/comments/1iaoaxi/belarus_exit_poll_puts_lukashenko_on_876_of_vote)
+ - RSS feed: $source
+ - date published: 2025-01-26T19:48:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iaoaxi/belarus_exit_poll_puts_lukashenko_on_876_of_vote/"> <img src="https://external-preview.redd.it/y8n1BBAkUHIt1FLFaYh2mYumAftIkQfTkDvCjtxN60s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3acfc2f9180b06de844c56a93b231ab87d05e630" alt="Belarus exit poll puts Lukashenko on 87.6% of vote in presidential election" title="Belarus exit poll puts Lukashenko on 87.6% of vote in presidential election" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dtstno"> /u/Dtstno </a> <br/> <span><a href="https://www.theguardian.com/world/2025/jan/26/belarus-presidential-election-alexander-lukashenko-on-course-win">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iaoaxi/belarus_exit_poll_puts_lukashenko_on_876_of_vote/">[comments]</a></span> </td></tr></table>
+
+## Ukraine's defence forces strike drone warehouses in Russia's Oryol Oblast, destroying over 200 Shaheds
+ - [https://www.reddit.com/r/worldnews/comments/1ianoy6/ukraines_defence_forces_strike_drone_warehouses](https://www.reddit.com/r/worldnews/comments/1ianoy6/ukraines_defence_forces_strike_drone_warehouses)
+ - RSS feed: $source
+ - date published: 2025-01-26T19:25:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ianoy6/ukraines_defence_forces_strike_drone_warehouses/"> <img src="https://external-preview.redd.it/dpD2KnBOVp_-frg7taUSC_O76Dy80tkmJiUoXlx62wU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=007aaf952c2d4eb9cbc756ca7bedde1def13c205" alt="Ukraine's defence forces strike drone warehouses in Russia's Oryol Oblast, destroying over 200 Shaheds" title="Ukraine's defence forces strike drone warehouses in Russia's Oryol Oblast, destroying over 200 Shaheds" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/takriror"> /u/takriror </a> <br/> <span><a href="https://www.pravda.com.ua/eng/news/2025/01/26/7495359/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ianoy6/ukraines_defence_forces_strike_drone_warehouses/">[comments]</a></span> </td></tr></table>
+
+## Trump vows to impose heavy U.S. sanctions, tariffs on Colombia after it turns away deportation planes
+ - [https://www.reddit.com/r/worldnews/comments/1iandp7/trump_vows_to_impose_heavy_us_sanctions_tariffs](https://www.reddit.com/r/worldnews/comments/1iandp7/trump_vows_to_impose_heavy_us_sanctions_tariffs)
+ - RSS feed: $source
+ - date published: 2025-01-26T19:14:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iandp7/trump_vows_to_impose_heavy_us_sanctions_tariffs/"> <img src="https://external-preview.redd.it/o5LuF2cCTiKmPY2C0wHb6g376tXJSVvzn8P6kVMDglk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c6863b4c86b2a3143fa569df530f2e47cfb5452d" alt="Trump vows to impose heavy U.S. sanctions, tariffs on Colombia after it turns away deportation planes" title="Trump vows to impose heavy U.S. sanctions, tariffs on Colombia after it turns away deportation planes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ClassOptimal7655"> /u/ClassOptimal7655 </a> <br/> <span><a href="https://www.cbc.ca/news/world/trump-colombia-migrant-repatriation-flights-1.7442038">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iandp7/trump_vows_to_impose_heavy_us_sanctions_tariffs/">[comments]</a></span> </td></tr></table>
+
+## Three Boeing 747s Loaded With US Weapons for Ukraine Land in Poland
+ - [https://www.reddit.com/r/worldnews/comments/1iala5i/three_boeing_747s_loaded_with_us_weapons_for](https://www.reddit.com/r/worldnews/comments/1iala5i/three_boeing_747s_loaded_with_us_weapons_for)
+ - RSS feed: $source
+ - date published: 2025-01-26T17:58:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iala5i/three_boeing_747s_loaded_with_us_weapons_for/"> <img src="https://external-preview.redd.it/VCtnJ9-fAoDJeHtOKW2GG1ap_atb4yLIwz4cKR_p_uo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=19637d3ed6b11966834317324757777e37816cfa" alt="Three Boeing 747s Loaded With US Weapons for Ukraine Land in Poland" title="Three Boeing 747s Loaded With US Weapons for Ukraine Land in Poland" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/takriror"> /u/takriror </a> <br/> <span><a href="https://www.kyivpost.com/post/46077">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iala5i/three_boeing_747s_loaded_with_us_weapons_for/">[comments]</a></span> </td></tr></table>
+
+## New cable damaged in the Baltic Sea
+ - [https://www.reddit.com/r/worldnews/comments/1iakw5y/new_cable_damaged_in_the_baltic_sea](https://www.reddit.com/r/worldnews/comments/1iakw5y/new_cable_damaged_in_the_baltic_sea)
+ - RSS feed: $source
+ - date published: 2025-01-26T17:43:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iakw5y/new_cable_damaged_in_the_baltic_sea/"> <img src="https://external-preview.redd.it/bmnDlTSu4wNYIioQ73zZVhpfL0uRwy0Uz0DE5agm2vo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3efd34f938f43f074394609cf5b917600c29ceae" alt="New cable damaged in the Baltic Sea" title="New cable damaged in the Baltic Sea" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gjrts"> /u/Gjrts </a> <br/> <span><a href="https://www.dw.com/en/latvia-undersea-cable-likely-damaged-by-external-influence/a-71416470">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iakw5y/new_cable_damaged_in_the_baltic_sea/">[comments]</a></span> </td></tr></table>
+
+## EU rejects election in Belarus and threatens new sanctions
+ - [https://www.reddit.com/r/worldnews/comments/1iaiovi/eu_rejects_election_in_belarus_and_threatens_new](https://www.reddit.com/r/worldnews/comments/1iaiovi/eu_rejects_election_in_belarus_and_threatens_new)
+ - RSS feed: $source
+ - date published: 2025-01-26T16:20:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iaiovi/eu_rejects_election_in_belarus_and_threatens_new/"> <img src="https://external-preview.redd.it/o-KUbaQMXou9UhXRqt7fUUWQfOTajSn5RpsyAb9GmAI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cdf7ad9e04a5bf9ea78288c87915fcb2ce4791b4" alt="EU rejects election in Belarus and threatens new sanctions" title="EU rejects election in Belarus and threatens new sanctions" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Snowfish52"> /u/Snowfish52 </a> <br/> <span><a href="https://www.yahoo.com/news/eu-rejects-election-belarus-threatens-155127173.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iaiovi/eu_rejects_election_in_belarus_and_threatens_new/">[comments]</a></span> </td></tr></table>
+
+## Brazil slams US after dozens of deportees arrive handcuffed
+ - [https://www.reddit.com/r/worldnews/comments/1iahngt/brazil_slams_us_after_dozens_of_deportees_arrive](https://www.reddit.com/r/worldnews/comments/1iahngt/brazil_slams_us_after_dozens_of_deportees_arrive)
+ - RSS feed: $source
+ - date published: 2025-01-26T15:41:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iahngt/brazil_slams_us_after_dozens_of_deportees_arrive/"> <img src="https://external-preview.redd.it/_AWwI9xGHCAzSH4M05ZmgrlgE4UE7fAOKaAH7B4pKlo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a7a0dbf05905cfe81a0b783ecdef78686bf515b" alt="Brazil slams US after dozens of deportees arrive handcuffed" title="Brazil slams US after dozens of deportees arrive handcuffed" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KiraCosmicGod"> /u/KiraCosmicGod </a> <br/> <span><a href="https://www.yahoo.com/news/brazil-slams-us-dozens-deportees-065725467.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iahngt/brazil_slams_us_after_dozens_of_deportees_arrive/">[comments]</a></span> </td></tr></table>
+
+## Trump floats reversing decision to leave WHO
+ - [https://www.reddit.com/r/worldnews/comments/1iafpol/trump_floats_reversing_decision_to_leave_who](https://www.reddit.com/r/worldnews/comments/1iafpol/trump_floats_reversing_decision_to_leave_who)
+ - RSS feed: $source
+ - date published: 2025-01-26T14:21:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iafpol/trump_floats_reversing_decision_to_leave_who/"> <img src="https://external-preview.redd.it/rtiusFMlOTxRsV8TKl-yx8pEEFkaIGwe54yKkq4Fo4M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=58b7f4d343492b2fa1e851a89a0d6295e29a714d" alt="Trump floats reversing decision to leave WHO" title="Trump floats reversing decision to leave WHO" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/doopityWoop22"> /u/doopityWoop22 </a> <br/> <span><a href="https://www.politico.eu/article/trump-floats-reversing-decision-to-leave-who/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iafpol/trump_floats_reversing_decision_to_leave_who/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk's call for Germany to 'move beyond' Nazi guilt is dangerous, Holocaust memorial chair says
+ - [https://www.reddit.com/r/worldnews/comments/1iaf374/elon_musks_call_for_germany_to_move_beyond_nazi](https://www.reddit.com/r/worldnews/comments/1iaf374/elon_musks_call_for_germany_to_move_beyond_nazi)
+ - RSS feed: $source
+ - date published: 2025-01-26T13:54:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iaf374/elon_musks_call_for_germany_to_move_beyond_nazi/"> <img src="https://external-preview.redd.it/RGiQLqzKkUaEDKxhTlPfZ3B_1pC8Yn07rPi-derPAUM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=18d488a6517c275624fe0a066654a1d6ce3a1fc0" alt="Elon Musk's call for Germany to 'move beyond' Nazi guilt is dangerous, Holocaust memorial chair says" title="Elon Musk's call for Germany to 'move beyond' Nazi guilt is dangerous, Holocaust memorial chair says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br/> <span><a href="https://www.nbcnews.com/news/world/elon-musks-call-germany-move-nazi-guilt-dangerous-holocaust-memorial-c-rcna189316">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iaf374/elon_musks_call_for_germany_to_move_beyond_nazi/">[comments]</a></span> </td></tr></table>
+
+## Hamas violates ceasefire deal by failing to provide hostage status report
+ - [https://www.reddit.com/r/worldnews/comments/1iads8c/hamas_violates_ceasefire_deal_by_failing_to](https://www.reddit.com/r/worldnews/comments/1iads8c/hamas_violates_ceasefire_deal_by_failing_to)
+ - RSS feed: $source
+ - date published: 2025-01-26T12:52:59+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/advance512"> /u/advance512 </a> <br/> <span><a href="https://m.jpost.com/breaking-news/article-839228">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iads8c/hamas_violates_ceasefire_deal_by_failing_to/">[comments]</a></span>
+
+## EU military chief says it would make sense to put European troops in Greenland
+ - [https://www.reddit.com/r/worldnews/comments/1iadfly/eu_military_chief_says_it_would_make_sense_to_put](https://www.reddit.com/r/worldnews/comments/1iadfly/eu_military_chief_says_it_would_make_sense_to_put)
+ - RSS feed: $source
+ - date published: 2025-01-26T12:35:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iadfly/eu_military_chief_says_it_would_make_sense_to_put/"> <img src="https://external-preview.redd.it/aD8fu8cEkgNZajNJv-Ydc_oJVr74OKFdrAQ4lgMU2rY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=053cd162afdc97cf52e98a654af993c1773d29d2" alt="EU military chief says it would make sense to put European troops in Greenland" title="EU military chief says it would make sense to put European troops in Greenland" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EUstrongerthanUS"> /u/EUstrongerthanUS </a> <br/> <span><a href="https://www.reuters.com/world/europe/eu-military-chief-says-it-would-make-sense-put-european-troops-greenland-welt-2025-01-25/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iadfly/eu_military_chief_says_it_would_make_sense_to_put/">[comments]</a></span> </td></tr></table>
+
+## US restricts Switzerland's access to AI chips
+ - [https://www.reddit.com/r/worldnews/comments/1iacaf8/us_restricts_switzerlands_access_to_ai_chips](https://www.reddit.com/r/worldnews/comments/1iacaf8/us_restricts_switzerlands_access_to_ai_chips)
+ - RSS feed: $source
+ - date published: 2025-01-26T11:32:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iacaf8/us_restricts_switzerlands_access_to_ai_chips/"> <img src="https://external-preview.redd.it/I1IWZHpUjGhwU1soeeTojbPQ-69SgwgbU39VsZk0mxE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=98ff9657be2534222b0c71ae01a76b00e552cd02" alt="US restricts Switzerland's access to AI chips" title="US restricts Switzerland's access to AI chips" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BezugssystemCH1903"> /u/BezugssystemCH1903 </a> <br/> <span><a href="https://www.swissinfo.ch/eng/multinational-companies/us-restricts-switzerlands-access-to-ai-chips/88781270?utm_source=multiple&amp;utm_medium=website&amp;utm_campaign=news_en&amp;utm_content=o&amp;utm_term=wpblock_highlighted-compact-news-carousel">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iacaf8/us_restricts_switzerlands_access_to_ai_chips/">[comments]</a></span> </td></tr></table>
+
+## South Korea's prosecutors indict President Yoon for insurrection, Yonhap reports
+ - [https://www.reddit.com/r/worldnews/comments/1iaatlw/south_koreas_prosecutors_indict_president_yoon](https://www.reddit.com/r/worldnews/comments/1iaatlw/south_koreas_prosecutors_indict_president_yoon)
+ - RSS feed: $source
+ - date published: 2025-01-26T10:07:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iaatlw/south_koreas_prosecutors_indict_president_yoon/"> <img src="https://external-preview.redd.it/2fbv3694cRe-70m9tWl00Re8R6CwWoU-0mv7FOQgHwU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2dfef818b9e3ab3ab774c38a5a434d806f68cb54" alt="South Korea's prosecutors indict President Yoon for insurrection, Yonhap reports" title="South Korea's prosecutors indict President Yoon for insurrection, Yonhap reports" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Advanced_Drink_8536"> /u/Advanced_Drink_8536 </a> <br/> <span><a href="https://www.reuters.com/world/asia-pacific/south-koreas-prosecutors-indict-president-yoon-insurrection-yonhap-reports-2025-01-26/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iaatlw/south_koreas_prosecutors_indict_president_yoon/">[comments]</a></span> </td></tr></table>
+
+## Tens of thousands protest Germany's far right as Musk endorses AfD
+ - [https://www.reddit.com/r/worldnews/comments/1iaasfr/tens_of_thousands_protest_germanys_far_right_as](https://www.reddit.com/r/worldnews/comments/1iaasfr/tens_of_thousands_protest_germanys_far_right_as)
+ - RSS feed: $source
+ - date published: 2025-01-26T10:05:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iaasfr/tens_of_thousands_protest_germanys_far_right_as/"> <img src="https://external-preview.redd.it/aAfESSmysqs7XSiNh2pPm0xwaNwMtMbxrRYnXkSY0jU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e9df0ec7118f1063adf5f6a7e996fd8746129bed" alt="Tens of thousands protest Germany's far right as Musk endorses AfD" title="Tens of thousands protest Germany's far right as Musk endorses AfD" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Staedert"> /u/Staedert </a> <br/> <span><a href="https://www.voanews.com/a/tens-of-thousands-protest-germany-s-far-right-as-musk-endorses-afd-/7950330.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iaasfr/tens_of_thousands_protest_germanys_far_right_as/">[comments]</a></span> </td></tr></table>
+
+## West cries foul over Belarus election as Lukashenko eyes seventh term
+ - [https://www.reddit.com/r/worldnews/comments/1iaagcm/west_cries_foul_over_belarus_election_as](https://www.reddit.com/r/worldnews/comments/1iaagcm/west_cries_foul_over_belarus_election_as)
+ - RSS feed: $source
+ - date published: 2025-01-26T09:45:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iaagcm/west_cries_foul_over_belarus_election_as/"> <img src="https://external-preview.redd.it/RyaN0_QvOrJX-BuMURSmY_LH0FIukZlZs00D-tVCfdg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3316547a999ac45722bf240256c2ce519e717b6e" alt="West cries foul over Belarus election as Lukashenko eyes seventh term" title="West cries foul over Belarus election as Lukashenko eyes seventh term" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Embire"> /u/Embire </a> <br/> <span><a href="https://www.reuters.com/world/europe/west-cries-foul-over-belarus-election-lukashenko-eyes-seventh-term-2025-01-26/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iaagcm/west_cries_foul_over_belarus_election_as/">[comments]</a></span> </td></tr></table>
+
+## Trump Lifts Biden's Hold On Bombs To Israel, Says "Now On Their Way"
+ - [https://www.reddit.com/r/worldnews/comments/1iaa8ye/trump_lifts_bidens_hold_on_bombs_to_israel_says](https://www.reddit.com/r/worldnews/comments/1iaa8ye/trump_lifts_bidens_hold_on_bombs_to_israel_says)
+ - RSS feed: $source
+ - date published: 2025-01-26T09:30:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iaa8ye/trump_lifts_bidens_hold_on_bombs_to_israel_says/"> <img src="https://external-preview.redd.it/CogPvbXh13k4vN9FRXi5G3hDEdUDllEWu2ykhwBwBSg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71dac1e56c735bf86525040293f152d7f60989d0" alt="Trump Lifts Biden's Hold On Bombs To Israel, Says &quot;Now On Their Way&quot;" title="Trump Lifts Biden's Hold On Bombs To Israel, Says &quot;Now On Their Way&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EducationalType5823"> /u/EducationalType5823 </a> <br/> <span><a href="https://www.ndtv.com/world-news/donald-trump-makes-2-000-pound-bombs-available-to-israel-amid-ceasefire-7559689/amp/1?utm_campaign=fullarticle&amp;utm_medium=referral&amp;utm_source=inshorts">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iaa8ye/trump_lifts_bidens_hold_on_bombs_to_israel_says/">[comments]</a></span> </td></tr></t
+
+## Musk tells Germans to get over ‘past guilt’ in speech to far-right AfD rally
+ - [https://www.reddit.com/r/worldnews/comments/1ia94yx/musk_tells_germans_to_get_over_past_guilt_in](https://www.reddit.com/r/worldnews/comments/1ia94yx/musk_tells_germans_to_get_over_past_guilt_in)
+ - RSS feed: $source
+ - date published: 2025-01-26T08:07:01+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/guyoffthegrid"> /u/guyoffthegrid </a> <br/> <span><a href="https://www.politico.com/news/2025/01/25/musk-german-afd-rally-weidel-00200620">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ia94yx/musk_tells_germans_to_get_over_past_guilt_in/">[comments]</a></span>
+
+## Ukraine war briefing: US has not stopped military aid to Ukraine, says Zelenskyy
+ - [https://www.reddit.com/r/worldnews/comments/1ia8ikr/ukraine_war_briefing_us_has_not_stopped_military](https://www.reddit.com/r/worldnews/comments/1ia8ikr/ukraine_war_briefing_us_has_not_stopped_military)
+ - RSS feed: $source
+ - date published: 2025-01-26T07:21:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ia8ikr/ukraine_war_briefing_us_has_not_stopped_military/"> <img src="https://external-preview.redd.it/iZs78SrUJ6lQXr611JDkA4v2l-HuzChTmZjrXIJk9TU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0207f788be003e2ad8062a44926f73c74efc63d1" alt="Ukraine war briefing: US has not stopped military aid to Ukraine, says Zelenskyy" title="Ukraine war briefing: US has not stopped military aid to Ukraine, says Zelenskyy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Delicious_Active409"> /u/Delicious_Active409 </a> <br/> <span><a href="https://www.theguardian.com/world/2025/jan/26/ukraine-war-briefing-us-has-not-stopped-military-aid-to-ukraine-says-zelenskyy">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ia8ikr/ukraine_war_briefing_us_has_not_stopped_military/">[comments]</a></span> </td></tr></table>
+
+## Mothers and wives must take part of blame for big losses, Russian military newspaper argues
+ - [https://www.reddit.com/r/worldnews/comments/1ia7mi9/mothers_and_wives_must_take_part_of_blame_for_big](https://www.reddit.com/r/worldnews/comments/1ia7mi9/mothers_and_wives_must_take_part_of_blame_for_big)
+ - RSS feed: $source
+ - date published: 2025-01-26T06:18:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ia7mi9/mothers_and_wives_must_take_part_of_blame_for_big/"> <img src="https://external-preview.redd.it/UZXa25igjAEY-q7bO9ze_xt61aoxBKiw2fRDGTpQO_k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8884d9ae0ee4d5297e340c7a9cfec41a3bf4a8d1" alt="Mothers and wives must take part of blame for big losses, Russian military newspaper argues" title="Mothers and wives must take part of blame for big losses, Russian military newspaper argues" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gjrts"> /u/Gjrts </a> <br/> <span><a href="https://www.thebarentsobserver.com/news/mothers-and-wives-must-take-part-of-blame-for-big-losses-military-newspaper-argues/423635">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ia7mi9/mothers_and_wives_must_take_part_of_blame_for_big/">[comments]</a></span> </td></tr></table>
+
+## Zelensky offers Ukraine as transit hub for Azerbaijani gas to Europe
+ - [https://www.reddit.com/r/worldnews/comments/1ia5y4e/zelensky_offers_ukraine_as_transit_hub_for](https://www.reddit.com/r/worldnews/comments/1ia5y4e/zelensky_offers_ukraine_as_transit_hub_for)
+ - RSS feed: $source
+ - date published: 2025-01-26T04:33:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ia5y4e/zelensky_offers_ukraine_as_transit_hub_for/"> <img src="https://external-preview.redd.it/DXwW5d3PB2XPGNpHb5Y156Emjlm3vyrlm01hCLa46L4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=426dcfc13bb816236a2d98d3a9ce54c6ae7b720b" alt="Zelensky offers Ukraine as transit hub for Azerbaijani gas to Europe" title="Zelensky offers Ukraine as transit hub for Azerbaijani gas to Europe" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Snowfish52"> /u/Snowfish52 </a> <br/> <span><a href="https://kyivindependent.com/zelensky-offers-ukraine-as-transit-hub-for-azerbaijani-gas-to-europe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ia5y4e/zelensky_offers_ukraine_as_transit_hub_for/">[comments]</a></span> </td></tr></table>
+
+## Honduras Says Trump’s Deportation Plan Could Push It Closer to China
+ - [https://www.reddit.com/r/worldnews/comments/1ia5kku/honduras_says_trumps_deportation_plan_could_push](https://www.reddit.com/r/worldnews/comments/1ia5kku/honduras_says_trumps_deportation_plan_could_push)
+ - RSS feed: $source
+ - date published: 2025-01-26T04:11:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ia5kku/honduras_says_trumps_deportation_plan_could_push/"> <img src="https://external-preview.redd.it/OqMZdwxxunY4zRFksvVuHCGTWDv2gdqnst_RJ_6KjvU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8072f35549a3dcc87248f41c5d3b0cd27bb42646" alt="Honduras Says Trump’s Deportation Plan Could Push It Closer to China" title="Honduras Says Trump’s Deportation Plan Could Push It Closer to China" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/4920185"> /u/4920185 </a> <br/> <span><a href="https://www.nytimes.com/2025/01/24/us/honduras-china-trump-deportation.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ia5kku/honduras_says_trumps_deportation_plan_could_push/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1067, Part 1 (Thread #1214)
+ - [https://www.reddit.com/r/worldnews/comments/1ia5es9/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1ia5es9/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: $source
+ - date published: 2025-01-26T04:02:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ia5es9/rworldnews_live_thread_russian_invasion_of/"> <img src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1067, Part 1 (Thread #1214)" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1067, Part 1 (Thread #1214)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br/> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ia5es9/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Trump wants Jordan and Egypt to accept more refugees and floats plan to 'just clean out' Gaza
+ - [https://www.reddit.com/r/worldnews/comments/1ia42lz/trump_wants_jordan_and_egypt_to_accept_more](https://www.reddit.com/r/worldnews/comments/1ia42lz/trump_wants_jordan_and_egypt_to_accept_more)
+ - RSS feed: $source
+ - date published: 2025-01-26T02:47:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ia42lz/trump_wants_jordan_and_egypt_to_accept_more/"> <img src="https://external-preview.redd.it/jVpj_A-8IX8oHq_myFFH4HTlxHkFCOntmbFaXsaqDWI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4e0509cde1947560a8179763fb9d141b5c1a03b" alt="Trump wants Jordan and Egypt to accept more refugees and floats plan to 'just clean out' Gaza" title="Trump wants Jordan and Egypt to accept more refugees and floats plan to 'just clean out' Gaza" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DomesticErrorist22"> /u/DomesticErrorist22 </a> <br/> <span><a href="https://apnews.com/article/trump-biden-israel-bomb-gaza-hamas-war-023b36984c6116c128b5e47f117bba2a">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ia42lz/trump_wants_jordan_and_egypt_to_accept_more/">[comments]</a></span> </td></tr></table>
+
+## Feigning Retreat, Ukrainian Troops Lured Attacking Russians Into A Devastating HIMARS Ambush
+ - [https://www.reddit.com/r/worldnews/comments/1ia40tw/feigning_retreat_ukrainian_troops_lured_attacking](https://www.reddit.com/r/worldnews/comments/1ia40tw/feigning_retreat_ukrainian_troops_lured_attacking)
+ - RSS feed: $source
+ - date published: 2025-01-26T02:44:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ia40tw/feigning_retreat_ukrainian_troops_lured_attacking/"> <img src="https://external-preview.redd.it/g0qmK4VDG6GQSSaA4VR0Liq-Pr62kQwjcsh1Dp0Htt0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e2b5541037f9656c790b894919073e8bb2dfc2b" alt="Feigning Retreat, Ukrainian Troops Lured Attacking Russians Into A Devastating HIMARS Ambush" title="Feigning Retreat, Ukrainian Troops Lured Attacking Russians Into A Devastating HIMARS Ambush" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BiggieTwiggy1two3"> /u/BiggieTwiggy1two3 </a> <br/> <span><a href="https://www.forbes.com/sites/davidaxe/2025/01/25/feigning-retreat-ukrainian-troops-lured-attacking-russians-into-a-devastating-himars-ambush/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ia40tw/feigning_retreat_ukrainian_troops_lured_attacking/">[comments]</a></span> </td></tr></table>
+

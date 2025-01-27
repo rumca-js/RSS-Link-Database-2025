@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-26T12:42:58+00:00",
+        "description": "[U.S. House] Washington, DC -- Today, Congresswomen Sydney Kamlager-Dove (CA-37) and Sara Jacobs (CA-51), Ranking Member of the House Foreign Affairs Subcommittee on Africa, issued the following statement after Donald Trump issued a day-one executive order dissolving the President's Advisory Council on African Diaspora Engagement:",
+        "id": 1980095,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202501260052.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: Kamlager-Dove, Jacobs Statement on Trump Administration's Dissolution of Key African Diplomatic Council",
+        "vote": 0
+    }
+]

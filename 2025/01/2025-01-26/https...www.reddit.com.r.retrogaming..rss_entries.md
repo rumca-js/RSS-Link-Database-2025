@@ -1,0 +1,170 @@
+# Source:Retro Gaming: Reddit's home of vintage gaming, URL:https://www.reddit.com/r/retrogaming/.rss, language:en
+
+## Got lucky?
+ - [https://www.reddit.com/r/retrogaming/comments/1iatz53/got_lucky](https://www.reddit.com/r/retrogaming/comments/1iatz53/got_lucky)
+ - RSS feed: $source
+ - date published: 2025-01-26T23:38:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iatz53/got_lucky/"> <img src="https://preview.redd.it/oio1v9q4cffe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=494bd2cbc7e3fc328b5897cf05bc5406aa2cec73" alt="Got lucky?" title="Got lucky?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Bought for £20. Seller said it didn’t work. Comes home and plugs it in and it works? Maybe it’s got some fault that’s intermittent, but can’t believe I just scored one for £20. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Outside-Mongoose8576"> /u/Outside-Mongoose8576 </a> <br/> <span><a href="https://i.redd.it/oio1v9q4cffe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iatz53/got_lucky/">[comments]</a></span> </td></tr></table>
+
+## RGB modded KV-35S42
+ - [https://www.reddit.com/r/retrogaming/comments/1ias6c6/rgb_modded_kv35s42](https://www.reddit.com/r/retrogaming/comments/1ias6c6/rgb_modded_kv35s42)
+ - RSS feed: $source
+ - date published: 2025-01-26T22:17:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ias6c6/rgb_modded_kv35s42/"> <img src="https://b.thumbs.redditmedia.com/m5pE9yliexJSGV1gZF3uDaINP3mx1-5ZnmXfgDFwo-E.jpg" alt="RGB modded KV-35S42" title="RGB modded KV-35S42" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Wrapped up this Trinitron RGB mod using Sunthar’s MUX board. Pretty straightforward, pulled sync from luma and cleaned all the dust out. Got the TV for free, hadn’t been turned on in 20 plus years. RGB cables are from retrogamingcables.co.uk. The Wii/Wii U is connected by HD Retrovision component cable to Retrotink’s COMP2RGB. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ricoh-RP2C02"> /u/Ricoh-RP2C02 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ias6c6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ias6c6/rgb_modded_kv35s42/">[comments]</a></span> </td></tr></table>
+
+## Choose your fighter
+ - [https://www.reddit.com/r/retrogaming/comments/1iapr2y/choose_your_fighter](https://www.reddit.com/r/retrogaming/comments/1iapr2y/choose_your_fighter)
+ - RSS feed: $source
+ - date published: 2025-01-26T20:42:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iapr2y/choose_your_fighter/"> <img src="https://preview.redd.it/dbyhj5stgefe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=926c6dc085c8a0c1652d827c62a838bf8e2e0774" alt="Choose your fighter" title="Choose your fighter" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JamJarz5"> /u/JamJarz5 </a> <br/> <span><a href="https://i.redd.it/dbyhj5stgefe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iapr2y/choose_your_fighter/">[comments]</a></span> </td></tr></table>
+
+## Video games orchestra
+ - [https://www.reddit.com/r/retrogaming/comments/1iamvxg/video_games_orchestra](https://www.reddit.com/r/retrogaming/comments/1iamvxg/video_games_orchestra)
+ - RSS feed: $source
+ - date published: 2025-01-26T18:56:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iamvxg/video_games_orchestra/"> <img src="https://preview.redd.it/ra5hrixrxdfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a9bb8942895b982d1e185c4f36bb11d93b86288" alt="Video games orchestra" title="Video games orchestra" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>About to watch a Zelda symphony orchestra. I love watching orchestra renditions of video game soundtrack and thought I would ask y&#39;all about your experiences in that regard. What video games related shows have you seen ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cams0400"> /u/cams0400 </a> <br/> <span><a href="https://i.redd.it/ra5hrixrxdfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iamvxg/video_games_orchestra/">[comments]</a></span> </td></tr></table>
+
+## Help, can't remember if you had to install the game to play it, or you inserted one disk at a time, played it, and then eventually, had to continue on by inserting the next disk.
+ - [https://www.reddit.com/r/retrogaming/comments/1iald2q/help_cant_remember_if_you_had_to_install_the_game](https://www.reddit.com/r/retrogaming/comments/1iald2q/help_cant_remember_if_you_had_to_install_the_game)
+ - RSS feed: $source
+ - date published: 2025-01-26T18:01:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iald2q/help_cant_remember_if_you_had_to_install_the_game/"> <img src="https://preview.redd.it/0mc17v5zndfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dcf9243ef85042bf7cdc2ca068d59cf8b6499cad" alt="Help, can't remember if you had to install the game to play it, or you inserted one disk at a time, played it, and then eventually, had to continue on by inserting the next disk." title="Help, can't remember if you had to install the game to play it, or you inserted one disk at a time, played it, and then eventually, had to continue on by inserting the next disk." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rick--Diculous"> /u/Rick--Diculous </a> <br/> <span><a href="https://i.redd.it/0mc17v5zndfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iald2q/help_cant_remember_if_you_had_to_install_the_game/">[comments]</a></span> </td></
+
+## My retro gaming setup
+ - [https://www.reddit.com/r/retrogaming/comments/1iakwkk/my_retro_gaming_setup](https://www.reddit.com/r/retrogaming/comments/1iakwkk/my_retro_gaming_setup)
+ - RSS feed: $source
+ - date published: 2025-01-26T17:44:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iakwkk/my_retro_gaming_setup/"> <img src="https://preview.redd.it/lzbni2uxkdfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=367f20bb9d3c154ad7cad14f5acf662a8b5e6958" alt="My retro gaming setup" title="My retro gaming setup" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Just set up the shelving plan adding LED lighting and upgrading my larger flat screen soon. My grandma has a wega that I plan to replace the older samsung flat screen with. Need to do some cable management. What do yall think?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jhumes2019"> /u/jhumes2019 </a> <br/> <span><a href="https://i.redd.it/lzbni2uxkdfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iakwkk/my_retro_gaming_setup/">[comments]</a></span> </td></tr></table>
+
+## OpenJazz is a free, open-source version of the classic Jazz Jackrabbit™ games
+ - [https://www.reddit.com/r/retrogaming/comments/1iaktk7/openjazz_is_a_free_opensource_version_of_the](https://www.reddit.com/r/retrogaming/comments/1iaktk7/openjazz_is_a_free_opensource_version_of_the)
+ - RSS feed: $source
+ - date published: 2025-01-26T17:41:08+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Doener23"> /u/Doener23 </a> <br/> <span><a href="https://alister.eu/jazz/oj/about.php">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iaktk7/openjazz_is_a_free_opensource_version_of_the/">[comments]</a></span>
+
+## Duke Nukem Forever getting a gold medal award from PC Accelerator magazine for its “upcoming 1999 release”
+ - [https://www.reddit.com/r/retrogaming/comments/1iakq3v/duke_nukem_forever_getting_a_gold_medal_award](https://www.reddit.com/r/retrogaming/comments/1iakq3v/duke_nukem_forever_getting_a_gold_medal_award)
+ - RSS feed: $source
+ - date published: 2025-01-26T17:37:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iakq3v/duke_nukem_forever_getting_a_gold_medal_award/"> <img src="https://preview.redd.it/2n3526zrjdfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=db7e205ab7883ae7a5232217abaa2473dfc02811" alt="Duke Nukem Forever getting a gold medal award from PC Accelerator magazine for its “upcoming 1999 release”" title="Duke Nukem Forever getting a gold medal award from PC Accelerator magazine for its “upcoming 1999 release”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Whibble-Bop"> /u/Whibble-Bop </a> <br/> <span><a href="https://i.redd.it/2n3526zrjdfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iakq3v/duke_nukem_forever_getting_a_gold_medal_award/">[comments]</a></span> </td></tr></table>
+
+## I may be wrong but…
+ - [https://www.reddit.com/r/retrogaming/comments/1iaiykh/i_may_be_wrong_but](https://www.reddit.com/r/retrogaming/comments/1iaiykh/i_may_be_wrong_but)
+ - RSS feed: $source
+ - date published: 2025-01-26T16:31:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iaiykh/i_may_be_wrong_but/"> <img src="https://preview.redd.it/kgd6slcy7dfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bf0a15b95cc4b0b5c1df7c41ec5caac679db03c2" alt="I may be wrong but…" title="I may be wrong but…" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I think I’ve possibly bought one of the last two “The VIC20/C64LE” consoles in the UK at MSRP. Amazon were showing five in stock but I held back for a day as it would have arrived while I was at work and the usual collection points weren’t available as they were being shipped by a third party seller, and they’d all gone by the next day. After a bit of googling I saw Tek Zone (Selfridges) were showing two in stock so I pulled the trigger and a couple of hours later they were showing as out of stock. There are other new consoles but they all seem to be in the hands of scalpers. And now, 39 years after selling my original C64, I’m very excited t
+
+## Sega Genesis Games My Friends Have Forgotten or Never Even Heard Of
+ - [https://www.reddit.com/r/retrogaming/comments/1iaiq9p/sega_genesis_games_my_friends_have_forgotten_or](https://www.reddit.com/r/retrogaming/comments/1iaiq9p/sega_genesis_games_my_friends_have_forgotten_or)
+ - RSS feed: $source
+ - date published: 2025-01-26T16:22:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iaiq9p/sega_genesis_games_my_friends_have_forgotten_or/"> <img src="https://a.thumbs.redditmedia.com/3COa0wxI9O9wi3MP4vBT3C5ZAMIPwY3X2H_MLxZ3Dn0.jpg" alt="Sega Genesis Games My Friends Have Forgotten or Never Even Heard Of" title="Sega Genesis Games My Friends Have Forgotten or Never Even Heard Of" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Today, I want to talk about three games for the Sega Genesis that I played as a child but rarely come across on the internet. Maybe I’m wrong, and they’re widely known in other countries, but in the town where I grew up, only a handful of people had heard of them. However, these games definitely deserve your attention.</p> <hr/> <p>Skeleton Crew</p> <p>Often, I had to put in a lot of effort to find games, but this one came to me differently. My friend’s mom decided to gift him a game for his birthday. Usually, this meant my friends ended up with something no one in t
+
+## Trying to figure out the game being played
+ - [https://www.reddit.com/r/retrogaming/comments/1iahj92/trying_to_figure_out_the_game_being_played](https://www.reddit.com/r/retrogaming/comments/1iahj92/trying_to_figure_out_the_game_being_played)
+ - RSS feed: $source
+ - date published: 2025-01-26T15:36:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iahj92/trying_to_figure_out_the_game_being_played/"> <img src="https://b.thumbs.redditmedia.com/gyeCUXjy9WYV-nMczDe1EexxeYkEkxYR56DtX7z6MOo.jpg" alt="Trying to figure out the game being played" title="Trying to figure out the game being played" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Was looking through old photos and when I first saw this I thought it might be Boogerman because there&#39;s a rental box on the desk. Can anyone recognise the cartridge? Another guess is Earthworm Jim 1 or 2?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ghost_Mutt_1798"> /u/Ghost_Mutt_1798 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iahj92">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iahj92/trying_to_figure_out_the_game_being_played/">[comments]</a></span> </td></tr></table>
+
+## Which retro racing game feels the fastest to you?
+ - [https://www.reddit.com/r/retrogaming/comments/1iaebgd/which_retro_racing_game_feels_the_fastest_to_you](https://www.reddit.com/r/retrogaming/comments/1iaebgd/which_retro_racing_game_feels_the_fastest_to_you)
+ - RSS feed: $source
+ - date published: 2025-01-26T13:18:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iaebgd/which_retro_racing_game_feels_the_fastest_to_you/"> <img src="https://preview.redd.it/ft5bjq2k9cfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6831690483e2efc0f106cc5c35c35b2861cea0bb" alt="Which retro racing game feels the fastest to you?" title="Which retro racing game feels the fastest to you?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I would say F-Zero X is the fastest feeling to me by far. Maybe beat by its sequel or matched by wipeout but it&#39;s a tough thing to think about. The cars are zipping at 200 mph plus, and it truly feels like that. What&#39;s the fastest feeling game to you?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/migrainemaker"> /u/migrainemaker </a> <br/> <span><a href="https://i.redd.it/ft5bjq2k9cfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iaebgd/which_retro_racing_game
+
+## 1993 Origin Systems Product Catalog
+ - [https://www.reddit.com/r/retrogaming/comments/1iae97q/1993_origin_systems_product_catalog](https://www.reddit.com/r/retrogaming/comments/1iae97q/1993_origin_systems_product_catalog)
+ - RSS feed: $source
+ - date published: 2025-01-26T13:15:25+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Mediocre-Chemist-00"> /u/Mediocre-Chemist-00 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iae8hj">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iae97q/1993_origin_systems_product_catalog/">[comments]</a></span>
+
+## Anyone play Samurai Shodown (1993)? I found it during my mame32 phase, liked how everyone had a weapon, never got very far, didn't have the time.
+ - [https://www.reddit.com/r/retrogaming/comments/1iadlk6/anyone_play_samurai_shodown_1993_i_found_it](https://www.reddit.com/r/retrogaming/comments/1iadlk6/anyone_play_samurai_shodown_1993_i_found_it)
+ - RSS feed: $source
+ - date published: 2025-01-26T12:43:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iadlk6/anyone_play_samurai_shodown_1993_i_found_it/"> <img src="https://preview.redd.it/9v0efh1z2cfe1.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=38ea634390cdc4d76b4d6b2c145ec3a0974fe1cd" alt="Anyone play Samurai Shodown (1993)? I found it during my mame32 phase, liked how everyone had a weapon, never got very far, didn't have the time." title="Anyone play Samurai Shodown (1993)? I found it during my mame32 phase, liked how everyone had a weapon, never got very far, didn't have the time." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Defiant-Fuel3627"> /u/Defiant-Fuel3627 </a> <br/> <span><a href="https://i.redd.it/9v0efh1z2cfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iadlk6/anyone_play_samurai_shodown_1993_i_found_it/">[comments]</a></span> </td></tr></table>
+
+## Just played an ATARI JAGUAR in 2025, i am blown away.
+ - [https://www.reddit.com/r/retrogaming/comments/1iadf5q/just_played_an_atari_jaguar_in_2025_i_am_blown](https://www.reddit.com/r/retrogaming/comments/1iadf5q/just_played_an_atari_jaguar_in_2025_i_am_blown)
+ - RSS feed: $source
+ - date published: 2025-01-26T12:34:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>OMG i am speechless. </p> <p>i never played atari jaguar games in my whole life, today i played the few games i found and i must say, this was pretty impressive and here are my thoughts.</p> <p>1- CYBERMORPH is such a smooth experience, the graphics, just keep in mind, if i saw these kind of graphics in 1993, my back then 13 year old self would be impressed. I mean true, they are nothing to write home about now, but i was 13 years back in 1993 and saw this, i would be pretty pleased.</p> <p>2- ATARI KARTS, i must admit, this doesn&#39;t hold a candle to mario kart , but the terrain ? it has bumps, it has &#39;&#39;ups and downs&#39;&#39;, it is not as pixelated as a snes mode 7. And i must say, the graphics are nice, the music has no right to be this good also. True it has lackluster gameplay, no weapons, the powerups are trash, but i was having so much fun that i finished all the tracks, beat the boss even, i had fun and the game might be a hidden g
+
+## Weekly Self-Promotion Megathread!
+ - [https://www.reddit.com/r/retrogaming/comments/1iact0g/weekly_selfpromotion_megathread](https://www.reddit.com/r/retrogaming/comments/1iact0g/weekly_selfpromotion_megathread)
+ - RSS feed: $source
+ - date published: 2025-01-26T12:01:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Are you wanting to share your latest YouTube video, blog post, or to promote an upcoming twitch stream? Post it here! </p> <p>&#x200B;</p> <p>Note: You may also join us in our #self-promotion channel on our Discord server: </p> <p><a href="https://discord.gg/A98SXF4tzG">https://discord.gg/A98SXF4tzG</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1iact0g/weekly_selfpromotion_megathread/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iact0g/weekly_selfpromotion_megathread/">[comments]</a></span>
+
+## How did the N64 do as well as it did?
+ - [https://www.reddit.com/r/retrogaming/comments/1iaboqf/how_did_the_n64_do_as_well_as_it_did](https://www.reddit.com/r/retrogaming/comments/1iaboqf/how_did_the_n64_do_as_well_as_it_did)
+ - RSS feed: $source
+ - date published: 2025-01-26T10:58:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>The N64 might have got beaten by the PS1, but it sure killed the Saturn in the west. On paper, the N64 sounded like it would be a failure. $30 (either 8MB or 12MB as that&#39;s all launch games used) to manufacture carts in 1996, while 700MB PS1 and Saturn CDs were $2. It sounded like the vast majority of publishers were going to completely jump ship to Sony or Sega, and the few PS1 ports would suffer from low-poly models, missing levels and characters.</p> <p>But, many publishers stayed. Surprisingly, most PS1 to N64 ports were mostly intact, only lacking FMVs and sometimes voice acting, while the rest of the game was all there.</p> <p>Nintendo might have lost Square, but many other publishers, even smaller ones, dealt with the expensive cartridges and storage limitations.</p> <p>Sega, on the other hand, had cheap CDs like Sony, but the Saturn bombed completely in the west. Publishers would rather go to expensive N64 carts than cheap Saturn CDs. By 
+
+## Mystical Ninja Starring Goemon was a gem on N64
+ - [https://www.reddit.com/r/retrogaming/comments/1ia8atr/mystical_ninja_starring_goemon_was_a_gem_on_n64](https://www.reddit.com/r/retrogaming/comments/1ia8atr/mystical_ninja_starring_goemon_was_a_gem_on_n64)
+ - RSS feed: $source
+ - date published: 2025-01-26T07:05:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ia8atr/mystical_ninja_starring_goemon_was_a_gem_on_n64/"> <img src="https://external-preview.redd.it/DSbnzIaER80i493DMUSrRB2o8T0C_5bMqvTSdK5EvFU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e840e5ca99d0b25c45bb3985955b67f9d151e6fa" alt="Mystical Ninja Starring Goemon was a gem on N64" title="Mystical Ninja Starring Goemon was a gem on N64" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bike_tyson"> /u/bike_tyson </a> <br/> <span><a href="https://www.youtube.com/watch?v=Jm_3Ywy6OL8&amp;t=253s">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ia8atr/mystical_ninja_starring_goemon_was_a_gem_on_n64/">[comments]</a></span> </td></tr></table>
+
+## Nazca Lines - What did you first learn from a video game?
+ - [https://www.reddit.com/r/retrogaming/comments/1ia5jvd/nazca_lines_what_did_you_first_learn_from_a_video](https://www.reddit.com/r/retrogaming/comments/1ia5jvd/nazca_lines_what_did_you_first_learn_from_a_video)
+ - RSS feed: $source
+ - date published: 2025-01-26T04:10:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ia5jvd/nazca_lines_what_did_you_first_learn_from_a_video/"> <img src="https://preview.redd.it/ab5w2desj9fe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=abc735b08da15ff706940f4ea363f102aebb9759" alt="Nazca Lines - What did you first learn from a video game?" title="Nazca Lines - What did you first learn from a video game?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>A post a while back on <a href="/r/ShiningForce">r/ShiningForce</a> reminded me that I first learned about the Nazca Lines from either Shining Force II or Aztec Adventure. I&#39;m certain that I would have asked my parents and they would have sent me to the encyclopedia.</p> <p>Any other real world information (history, geography, science, whatever) that you first learned from video games?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tejj_Fd3m"> /u/Tejj_Fd3m </a> <br/> <span><a href="https://i.re
+
+## flea market find fpr only 50€ 😳
+ - [https://www.reddit.com/r/retrogaming/comments/1ia4hct/flea_market_find_fpr_only_50](https://www.reddit.com/r/retrogaming/comments/1ia4hct/flea_market_find_fpr_only_50)
+ - RSS feed: $source
+ - date published: 2025-01-26T03:09:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ia4hct/flea_market_find_fpr_only_50/"> <img src="https://preview.redd.it/egad2kfv89fe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=500607a3c27f1150e38853cf61b056bfed109e9a" alt="flea market find fpr only 50€ 😳" title="flea market find fpr only 50€ 😳" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I feel lucky that i found this on a flea market for only 50€, am i really lucky🤣</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MobileFalcon2037"> /u/MobileFalcon2037 </a> <br/> <span><a href="https://i.redd.it/egad2kfv89fe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ia4hct/flea_market_find_fpr_only_50/">[comments]</a></span> </td></tr></table>
+
+## 15 of Video Games Most Iconic Opening Levels
+ - [https://www.reddit.com/r/retrogaming/comments/1ia4aaf/15_of_video_games_most_iconic_opening_levels](https://www.reddit.com/r/retrogaming/comments/1ia4aaf/15_of_video_games_most_iconic_opening_levels)
+ - RSS feed: $source
+ - date published: 2025-01-26T02:59:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>We all have certain favourite video game levels.</p> <p>But its fair to assume we have all experienced an opening level to a game more often than any later stage since thats what we are welcomed to as soon as we hit the power button.</p> <p>The nature of this observation is limited to older titles that follow a particular format, yes there are many iconic 3D examples in modern gaming, but in the interest of compiling a finite list, lets keeps things simple.</p> <p>Here is a list of 1st stages, which i believe have become synonymous with our favourite hobby.</p> <p>But before i begin, I&#39;d like to add that there were many titles i would&#39;ve loved to have mentioned, but having a level select such as Megaman or free roam overworld like NES TMNT disqualified them, additionally certain games as iconic as they are, such as Pac Man and Space Invaders i didnt feel differentiates enough as you progress to allow the 1st level to stand on its own merit. P
+
+## gonna boot up this classic for the first time in a few years
+ - [https://www.reddit.com/r/retrogaming/comments/1ia3kpm/gonna_boot_up_this_classic_for_the_first_time_in](https://www.reddit.com/r/retrogaming/comments/1ia3kpm/gonna_boot_up_this_classic_for_the_first_time_in)
+ - RSS feed: $source
+ - date published: 2025-01-26T02:20:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ia3kpm/gonna_boot_up_this_classic_for_the_first_time_in/"> <img src="https://preview.redd.it/5okujap609fe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=873466c0d622dc26dd76a0be45d2fabf49ef171c" alt="gonna boot up this classic for the first time in a few years" title="gonna boot up this classic for the first time in a few years" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>it&#39;s been several years since I played this. so excited to boot it up and get spooked again lol</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/prodbypoetics"> /u/prodbypoetics </a> <br/> <span><a href="https://i.redd.it/5okujap609fe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ia3kpm/gonna_boot_up_this_classic_for_the_first_time_in/">[comments]</a></span> </td></tr></table>
+
+## What advantages did the Dreamcast have over the PS1 in general?
+ - [https://www.reddit.com/r/retrogaming/comments/1ia3b2i/what_advantages_did_the_dreamcast_have_over_the](https://www.reddit.com/r/retrogaming/comments/1ia3b2i/what_advantages_did_the_dreamcast_have_over_the)
+ - RSS feed: $source
+ - date published: 2025-01-26T02:06:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>This is something I was interested in knowing as I recall that when the system originally came out, the PS1 was still going in its generation as the PS1 was about to turn 4 years old when the Dreamcast came out in Japan.</p> <p>So what I am getting at is what I wanted to see if I could get a better understanding of the advantages the Dreamcast had over the PS1 to see what made the system so unique in its time to try to understand what made it stand out from systems like the aforementioned PlayStation 1 in order to see what made some developers take advantage of the hardware instead of the PS1.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KaleidoArachnid"> /u/KaleidoArachnid </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ia3b2i/what_advantages_did_the_dreamcast_have_over_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ia3b2i/what_advantages_
+
+## Geeked up my battle station.
+ - [https://www.reddit.com/r/retrogaming/comments/1ia1gmc/geeked_up_my_battle_station](https://www.reddit.com/r/retrogaming/comments/1ia1gmc/geeked_up_my_battle_station)
+ - RSS feed: $source
+ - date published: 2025-01-26T00:31:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ia1gmc/geeked_up_my_battle_station/"> <img src="https://b.thumbs.redditmedia.com/xGabXO-GuA1g4zB7FqDwxbjlz8zTXZI_Q0wBRnJZXzI.jpg" alt="Geeked up my battle station." title="Geeked up my battle station." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Converted my office closet to a little dream cabinet.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Impressive-Variety-3"> /u/Impressive-Variety-3 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ia1gmc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ia1gmc/geeked_up_my_battle_station/">[comments]</a></span> </td></tr></table>
+

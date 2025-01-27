@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-26T15:01:33+00:00",
+        "description": "\u200b\u200b\u200b\u200b\u200b\u200b\u200b",
+        "id": 1981710,
+        "language": "en",
+        "link": "https://www.gadgets360.com/mobiles/sponsored/samsung-galaxy-s25-galaxy-s25-galaxy-s25-ultra-launched-in-india-a-gold-standard-for-ai-smartphones-pre-order-today-7563445",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 124,
+        "source_url": "https://feeds.feedburner.com/gadgets360-latest",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.gadgets360cdn.com/large/Screenshot_2025-01-26_at_34004_PM_1737886222514.png",
+        "title": "Samsung Galaxy S25, Galaxy S25+, Galaxy S25 Ultra Launched in India: A Gold Standard for AI Smartphones \u2013 Pre-order today",
+        "vote": 0
+    }
+]

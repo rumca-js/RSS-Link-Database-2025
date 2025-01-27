@@ -1,0 +1,107 @@
+# Source:Listen To This, URL:https://www.reddit.com/r/listentothis/.rss, language:
+
+## MIA VM — M.I.A [j-rock/alt rock] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1iau06x/mia_vm_mia_jrockalt_rock_2025](https://www.reddit.com/r/listentothis/comments/1iau06x/mia_vm_mia_jrockalt_rock_2025)
+ - RSS feed: $source
+ - date published: 2025-01-26T23:39:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iau06x/mia_vm_mia_jrockalt_rock_2025/"> <img src="https://external-preview.redd.it/yXq52iPFwhP4O9oZcGTikhb62rj8ga7ERitM86IkB-w.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=10d66230c221579f732dda01fbb5691037c87ed0" alt="MIA VM — M.I.A [j-rock/alt rock] (2025)" title="MIA VM — M.I.A [j-rock/alt rock] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Virtuidol_Media"> /u/Virtuidol_Media </a> <br/> <span><a href="https://youtu.be/Lr2DtfoouzY?si=ynj2cOhAubokJjUo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iau06x/mia_vm_mia_jrockalt_rock_2025/">[comments]</a></span> </td></tr></table>
+
+## Maidin -- Doorframe [indie / folk] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1ias7k3/maidin_doorframe_indie_folk_2025](https://www.reddit.com/r/listentothis/comments/1ias7k3/maidin_doorframe_indie_folk_2025)
+ - RSS feed: $source
+ - date published: 2025-01-26T22:19:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ias7k3/maidin_doorframe_indie_folk_2025/"> <img src="https://external-preview.redd.it/zq0rGDFXB9-hrtF5M44TjcbihXIZ7-pHofW16dutqIQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cec18137a93ffd7c445a4dc25ecea6c8bc48169a" alt="Maidin -- Doorframe [indie / folk] (2025)" title="Maidin -- Doorframe [indie / folk] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Roxanne712"> /u/Roxanne712 </a> <br/> <span><a href="https://www.youtube.com/watch?v=HFFbF-G-sB4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ias7k3/maidin_doorframe_indie_folk_2025/">[comments]</a></span> </td></tr></table>
+
+## DeWolff — Let’s Stay Together [Rock/Soul] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1iari28/dewolff_lets_stay_together_rocksoul_2024](https://www.reddit.com/r/listentothis/comments/1iari28/dewolff_lets_stay_together_rocksoul_2024)
+ - RSS feed: $source
+ - date published: 2025-01-26T21:48:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iari28/dewolff_lets_stay_together_rocksoul_2024/"> <img src="https://external-preview.redd.it/LvhxLkv6X4zu_BZDZNOGM4r6LljTk-CPlCk85PqbPbk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=38d67717058d746ebfd46742f67556a93f880385" alt="DeWolff — Let’s Stay Together [Rock/Soul] (2024)" title="DeWolff — Let’s Stay Together [Rock/Soul] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MrReElmo"> /u/MrReElmo </a> <br/> <span><a href="https://youtu.be/T5PwOB-eepU?si=Le2MC_fkRZyerzMs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iari28/dewolff_lets_stay_together_rocksoul_2024/">[comments]</a></span> </td></tr></table>
+
+## Aversion - White Knuckle [Metal/Doom/Hardcore] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1iaplfo/aversion_white_knuckle_metaldoomhardcore_2024](https://www.reddit.com/r/listentothis/comments/1iaplfo/aversion_white_knuckle_metaldoomhardcore_2024)
+ - RSS feed: $source
+ - date published: 2025-01-26T20:36:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iaplfo/aversion_white_knuckle_metaldoomhardcore_2024/"> <img src="https://external-preview.redd.it/d3cTZxRa2SGX-5VA4BxNejd_Y1xS_X0wMoa2wn1JvvA.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=5ed7425740c944b1258ada7c531ffa9a7fbfa0c3" alt="Aversion - White Knuckle [Metal/Doom/Hardcore] (2024)" title="Aversion - White Knuckle [Metal/Doom/Hardcore] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Catboyxtreme"> /u/Catboyxtreme </a> <br/> <span><a href="https://open.spotify.com/track/24ExJ6tSpUxK974bNnn7Yr?si=BjfmuFHSTciksubicLM06A&amp;context=spotify%3Aalbum%3A0wlNbAg7Qr2rOHwNOCa4BZ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iaplfo/aversion_white_knuckle_metaldoomhardcore_2024/">[comments]</a></span> </td></tr></table>
+
+## Saint Nick the Lesser -- Train Tracks [Folk Punk] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1iam0g0/saint_nick_the_lesser_train_tracks_folk_punk_2025](https://www.reddit.com/r/listentothis/comments/1iam0g0/saint_nick_the_lesser_train_tracks_folk_punk_2025)
+ - RSS feed: $source
+ - date published: 2025-01-26T18:24:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iam0g0/saint_nick_the_lesser_train_tracks_folk_punk_2025/"> <img src="https://external-preview.redd.it/zoEn1k-_uB6vX__KcnRvrYU-9EXJTSYx9C9pxfLakLQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=effa4acfffdb0ad80085e8f0062efde3c1002487" alt="Saint Nick the Lesser -- Train Tracks [Folk Punk] (2025)" title="Saint Nick the Lesser -- Train Tracks [Folk Punk] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HappyLittleNukes"> /u/HappyLittleNukes </a> <br/> <span><a href="https://youtu.be/0o0s4yJpo98?si=r7C9enon-EezIMTk">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iam0g0/saint_nick_the_lesser_train_tracks_folk_punk_2025/">[comments]</a></span> </td></tr></table>
+
+## GENGHIS TRON - Pyrocene [Rock/electro] (2021)
+ - [https://www.reddit.com/r/listentothis/comments/1ialatu/genghis_tron_pyrocene_rockelectro_2021](https://www.reddit.com/r/listentothis/comments/1ialatu/genghis_tron_pyrocene_rockelectro_2021)
+ - RSS feed: $source
+ - date published: 2025-01-26T17:58:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ialatu/genghis_tron_pyrocene_rockelectro_2021/"> <img src="https://external-preview.redd.it/aFZb7TiLJouExgdP5vRxbrGcNeJqvM3XVpc4WU9H8Bc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2f5c73763e9e6221a7f24b24aa9d8e737093f43a" alt="GENGHIS TRON - Pyrocene [Rock/electro] (2021)" title="GENGHIS TRON - Pyrocene [Rock/electro] (2021)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AUTOMATA88"> /u/AUTOMATA88 </a> <br/> <span><a href="https://youtu.be/NkV78wST1og?si=rQwF3sAmvHKCo9dm">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ialatu/genghis_tron_pyrocene_rockelectro_2021/">[comments]</a></span> </td></tr></table>
+
+## Tarantula - Stiches [post-grunge/alternative] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1iah57u/tarantula_stiches_postgrungealternative_2024](https://www.reddit.com/r/listentothis/comments/1iah57u/tarantula_stiches_postgrungealternative_2024)
+ - RSS feed: $source
+ - date published: 2025-01-26T15:21:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iah57u/tarantula_stiches_postgrungealternative_2024/"> <img src="https://external-preview.redd.it/7LTK8tdU7duTk3hbedpF_fJVfc7Cf1RdPUG-Xq2VA0M.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2e4fc3b0b70243efe230c5aaff601f2234f07e6f" alt="Tarantula - Stiches [post-grunge/alternative] (2024)" title="Tarantula - Stiches [post-grunge/alternative] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/privilegedidiot"> /u/privilegedidiot </a> <br/> <span><a href="https://www.youtube.com/watch?v=OBQKyAEFKjs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iah57u/tarantula_stiches_postgrungealternative_2024/">[comments]</a></span> </td></tr></table>
+
+## Abby Bella May -- Hocus Pocus [indie pop] (2021)
+ - [https://www.reddit.com/r/listentothis/comments/1iadtdj/abby_bella_may_hocus_pocus_indie_pop_2021](https://www.reddit.com/r/listentothis/comments/1iadtdj/abby_bella_may_hocus_pocus_indie_pop_2021)
+ - RSS feed: $source
+ - date published: 2025-01-26T12:54:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iadtdj/abby_bella_may_hocus_pocus_indie_pop_2021/"> <img src="https://external-preview.redd.it/utsRpApnznkKbwLzUbveU33a6-iR2k2lZL6IercwF4U.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=43685c322122469077be92f90f342d1f4f32eabd" alt="Abby Bella May -- Hocus Pocus [indie pop] (2021)" title="Abby Bella May -- Hocus Pocus [indie pop] (2021)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spacetea95"> /u/spacetea95 </a> <br/> <span><a href="https://youtu.be/Llac-5QcKko?feature=shared">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iadtdj/abby_bella_may_hocus_pocus_indie_pop_2021/">[comments]</a></span> </td></tr></table>
+
+## [Discussion] Bodies of Water - Footprints [indie rock] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1iaaris/discussion_bodies_of_water_footprints_indie_rock](https://www.reddit.com/r/listentothis/comments/1iaaris/discussion_bodies_of_water_footprints_indie_rock)
+ - RSS feed: $source
+ - date published: 2025-01-26T10:03:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iaaris/discussion_bodies_of_water_footprints_indie_rock/"> <img src="https://external-preview.redd.it/iaMpRzIqgV2q46vywUdsN-gEk5TKdCKqCCPytbKjl3g.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4c1f01a59f4162637ce1b734abe8e87e4d12c223" alt="[Discussion] Bodies of Water - Footprints [indie rock] (2024)" title="[Discussion] Bodies of Water - Footprints [indie rock] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SkylarkRose"> /u/SkylarkRose </a> <br/> <span><a href="https://www.youtube.com/watch?v=USuYMhbCBwc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iaaris/discussion_bodies_of_water_footprints_indie_rock/">[comments]</a></span> </td></tr></table>
+
+## Allouche — I got you on my mind [afro bit] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1iaaekc/allouche_i_got_you_on_my_mind_afro_bit_2025](https://www.reddit.com/r/listentothis/comments/1iaaekc/allouche_i_got_you_on_my_mind_afro_bit_2025)
+ - RSS feed: $source
+ - date published: 2025-01-26T09:42:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iaaekc/allouche_i_got_you_on_my_mind_afro_bit_2025/"> <img src="https://external-preview.redd.it/ZPUUqBJu59ci22bLJ3xt6nUu0GnRK0RUSWaZl3ZagSg.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=3d4adb9edd7d07728506a4633763b571a8b8cdae" alt="Allouche — I got you on my mind [afro bit] (2025)" title="Allouche — I got you on my mind [afro bit] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Comfortable-Site8626"> /u/Comfortable-Site8626 </a> <br/> <span><a href="https://open.spotify.com/track/0E6mFQsTd5NSOR7yudZ2G5?si=oFYcDd5FQ5id7s3b19cSvQ&amp;context=spotify%3Aalbum%3A4zCus8dIl2aQI8gDcAimkN">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iaaekc/allouche_i_got_you_on_my_mind_afro_bit_2025/">[comments]</a></span> </td></tr></table>
+
+## polyABC -- Pet Shop Gall [Indie Rock] (2003)
+ - [https://www.reddit.com/r/listentothis/comments/1ia8zjx/polyabc_pet_shop_gall_indie_rock_2003](https://www.reddit.com/r/listentothis/comments/1ia8zjx/polyabc_pet_shop_gall_indie_rock_2003)
+ - RSS feed: $source
+ - date published: 2025-01-26T07:56:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ia8zjx/polyabc_pet_shop_gall_indie_rock_2003/"> <img src="https://external-preview.redd.it/tBrbdTL9-RgErloGeupoJNESz3unLxheeINg1cnhtqc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=637db257cfc7808477e50ce124b8b7c832b6489f" alt="polyABC -- Pet Shop Gall [Indie Rock] (2003)" title="polyABC -- Pet Shop Gall [Indie Rock] (2003)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/orquedias"> /u/orquedias </a> <br/> <span><a href="https://youtu.be/tEmziU4_8KA?si=LOAeTsdisQGmF4Zn">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ia8zjx/polyabc_pet_shop_gall_indie_rock_2003/">[comments]</a></span> </td></tr></table>
+
+## Kanazu Tomoyuki - Hydrangea [Jazz/Classical] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1ia7qhd/kanazu_tomoyuki_hydrangea_jazzclassical_2025](https://www.reddit.com/r/listentothis/comments/1ia7qhd/kanazu_tomoyuki_hydrangea_jazzclassical_2025)
+ - RSS feed: $source
+ - date published: 2025-01-26T06:25:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ia7qhd/kanazu_tomoyuki_hydrangea_jazzclassical_2025/"> <img src="https://external-preview.redd.it/rQ0kN9Z0MosDT5Jezk-DvFKpp6lxuauovtpPpKQtvlE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=17ee2e7d476e19ece5197a3467b96d4b08321f22" alt="Kanazu Tomoyuki - Hydrangea [Jazz/Classical] (2025)" title="Kanazu Tomoyuki - Hydrangea [Jazz/Classical] (2025)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>It&#39;s great! I feel like this artist really isn&#39;t receiving enough praise. Please give it a listen.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Naulios"> /u/Naulios </a> <br/> <span><a href="https://youtu.be/Dn7F_Cwnejs?si=Fod5dGmABP3EDGgU">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ia7qhd/kanazu_tomoyuki_hydrangea_jazzclassical_2025/">[comments]</a></span> </td></tr></table>
+
+## Dead By Inches -- That I [Alt J-Rock] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1ia6uvt/dead_by_inches_that_i_alt_jrock_2024](https://www.reddit.com/r/listentothis/comments/1ia6uvt/dead_by_inches_that_i_alt_jrock_2024)
+ - RSS feed: $source
+ - date published: 2025-01-26T05:28:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ia6uvt/dead_by_inches_that_i_alt_jrock_2024/"> <img src="https://external-preview.redd.it/MBZdml0RdOb_pTlbmSXUWLnbw85LNow5dtwdVTRrLL4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0b8f6f3409fab12a76d3e15afdd1850936816004" alt="Dead By Inches -- That I [Alt J-Rock] (2024)" title="Dead By Inches -- That I [Alt J-Rock] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Plusaziz"> /u/Plusaziz </a> <br/> <span><a href="https://youtu.be/CxLFIUfuRrI?si=SyT1SgAxPPXAaGYm">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ia6uvt/dead_by_inches_that_i_alt_jrock_2024/">[comments]</a></span> </td></tr></table>
+
+## Joni Haastrup - Free My People [Afro-Funk] (1978)
+ - [https://www.reddit.com/r/listentothis/comments/1ia6f7k/joni_haastrup_free_my_people_afrofunk_1978](https://www.reddit.com/r/listentothis/comments/1ia6f7k/joni_haastrup_free_my_people_afrofunk_1978)
+ - RSS feed: $source
+ - date published: 2025-01-26T05:01:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ia6f7k/joni_haastrup_free_my_people_afrofunk_1978/"> <img src="https://external-preview.redd.it/SUZi8Htu6c6nLSIEnfYcMel7wxvjdng0ymfRGhq3YqI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=62e601e97ee5a331e0812b43b47793e34e565887" alt="Joni Haastrup - Free My People [Afro-Funk] (1978)" title="Joni Haastrup - Free My People [Afro-Funk] (1978)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RowenMhmd"> /u/RowenMhmd </a> <br/> <span><a href="https://www.youtube.com/watch?v=y1vI9dbAXyY">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ia6f7k/joni_haastrup_free_my_people_afrofunk_1978/">[comments]</a></span> </td></tr></table>
+
+## LA NIÑA -- GUAPPARÌA [Italian folk] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1ia1dq1/la_niña_guapparia_italian_folk_2024](https://www.reddit.com/r/listentothis/comments/1ia1dq1/la_niña_guapparia_italian_folk_2024)
+ - RSS feed: $source
+ - date published: 2025-01-26T00:27:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ia1dq1/la_niña_guapparia_italian_folk_2024/"> <img src="https://external-preview.redd.it/Sr95MjLfCa7JxE5f00w-Vvp7yotXaNIZCUh9W2gUBVE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1b60776dc414c5c622553d49f7aea0e4ebab6477" alt="LA NIÑA -- GUAPPARÌA [Italian folk] (2024)" title="LA NIÑA -- GUAPPARÌA [Italian folk] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bad-alloc"> /u/bad-alloc </a> <br/> <span><a href="https://www.youtube.com/watch?v=Wv95QcaQ4VQ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ia1dq1/la_niña_guapparia_italian_folk_2024/">[comments]</a></span> </td></tr></table>
+

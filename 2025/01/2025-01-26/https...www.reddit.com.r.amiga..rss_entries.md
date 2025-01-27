@@ -1,0 +1,44 @@
+# Source:Amiga, URL:https://www.reddit.com/r/amiga/.rss, language:en
+
+## Experience with Plipbox for A500+ online access?
+ - [https://www.reddit.com/r/amiga/comments/1ias5ww/experience_with_plipbox_for_a500_online_access](https://www.reddit.com/r/amiga/comments/1ias5ww/experience_with_plipbox_for_a500_online_access)
+ - RSS feed: $source
+ - date published: 2025-01-26T22:17:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>Looking for feedback from Plipbox users for my A500+. Planning to use it for Aminet downloads, local FTP access, and BBS connections. Been researching online but found mixed reviews; some users report very slow speeds while others say it&#39;s acceptably fast,</p> <p>Would appreciate hearing about your actual experience and any alternative solutions you&#39;d recommend.</p> <p>EDIT: Sorry for the duplicate post, didn&#39;t notice it went through twice.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/retrolinuz"> /u/retrolinuz </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1ias5ww/experience_with_plipbox_for_a500_online_access/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1ias5ww/experience_with_plipbox_for_a500_online_access/">[comments]</a></span>
+
+## A new port of OpenJazz is released
+ - [https://www.reddit.com/r/amiga/comments/1iakru6/a_new_port_of_openjazz_is_released](https://www.reddit.com/r/amiga/comments/1iakru6/a_new_port_of_openjazz_is_released)
+ - RSS feed: $source
+ - date published: 2025-01-26T17:39:20+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Doener23"> /u/Doener23 </a> <br/> <span><a href="https://ko-fi.com/post/A-new-port-of-OpenJazz-is-released-K3K61972BR">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1iakru6/a_new_port_of_openjazz_is_released/">[comments]</a></span>
+
+## LightTheLEDs - New 2025 Amiga Game Has Arrived!
+ - [https://www.reddit.com/r/amiga/comments/1iak9pa/lighttheleds_new_2025_amiga_game_has_arrived](https://www.reddit.com/r/amiga/comments/1iak9pa/lighttheleds_new_2025_amiga_game_has_arrived)
+ - RSS feed: $source
+ - date published: 2025-01-26T17:20:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1iak9pa/lighttheleds_new_2025_amiga_game_has_arrived/"> <img src="https://external-preview.redd.it/4YhXksduzq5JkKUvBHtmvIhsVy-mtU3nuhmIYX6pWEo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a9883019990a8705308cc8c754d70198dedcb69" alt="LightTheLEDs - New 2025 Amiga Game Has Arrived!" title="LightTheLEDs - New 2025 Amiga Game Has Arrived!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>You&#39;ve followed every step of the development, and now it&#39;s time to play! 💡 <strong>LightTheLEDs</strong> is finally available for you to download and enjoy all the retro fun that only the <strong>Amiga</strong> can offer.</p> <p>🔋 Connect batteries, light up LEDs, and enjoy a challenge that perfectly blends nostalgia and strategy.</p> <p>The wait is over, and Amiga thanks you for your support on this journey! 🙌</p> <p>👉 Get your copy now and share your achievements:<br/> <a href="https://tooizzi.itch.io/lighttheleds">http
+
+## Amiga CD32 | Ahead of it`s time but failed, Why? | A True 32Bit System Dominated by 16Bit Consoles
+ - [https://www.reddit.com/r/amiga/comments/1iadw0o/amiga_cd32_ahead_of_its_time_but_failed_why_a](https://www.reddit.com/r/amiga/comments/1iadw0o/amiga_cd32_ahead_of_its_time_but_failed_why_a)
+ - RSS feed: $source
+ - date published: 2025-01-26T12:58:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1iadw0o/amiga_cd32_ahead_of_its_time_but_failed_why_a/"> <img src="https://external-preview.redd.it/QSe3sQPv6AYNrqRsc9ullEzAFCG5G00ik1DChOmtGEA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=169fcaa5eb84a42d7d34aeee5bda757afdace8f7" alt="Amiga CD32 | Ahead of it`s time but failed, Why? | A True 32Bit System Dominated by 16Bit Consoles" title="Amiga CD32 | Ahead of it`s time but failed, Why? | A True 32Bit System Dominated by 16Bit Consoles" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Doener23"> /u/Doener23 </a> <br/> <span><a href="https://youtu.be/dB5Qz6cgJdE">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1iadw0o/amiga_cd32_ahead_of_its_time_but_failed_why_a/">[comments]</a></span> </td></tr></table>
+
+## An Introduction to Amiga Hardcore
+ - [https://www.reddit.com/r/amiga/comments/1iadhr3/an_introduction_to_amiga_hardcore](https://www.reddit.com/r/amiga/comments/1iadhr3/an_introduction_to_amiga_hardcore)
+ - RSS feed: $source
+ - date published: 2025-01-26T12:38:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1iadhr3/an_introduction_to_amiga_hardcore/"> <img src="https://external-preview.redd.it/gYdIJE-Mu9Qh-HB02EgtSOZEt17jeLzUFMaoq6H0QCI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=202e31bc9ed55fc89a1bf3b5520e5774a159a08e" alt="An Introduction to Amiga Hardcore" title="An Introduction to Amiga Hardcore" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Doener23"> /u/Doener23 </a> <br/> <span><a href="https://daily.bandcamp.com/lists/amiga-hardcore-album-list">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1iadhr3/an_introduction_to_amiga_hardcore/">[comments]</a></span> </td></tr></table>
+
+## So this time I make a scene from Stargate on the Amiga
+ - [https://www.reddit.com/r/amiga/comments/1ia47ht/so_this_time_i_make_a_scene_from_stargate_on_the](https://www.reddit.com/r/amiga/comments/1ia47ht/so_this_time_i_make_a_scene_from_stargate_on_the)
+ - RSS feed: $source
+ - date published: 2025-01-26T02:54:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Sure, why not! EASY. Ehhhh.<br/> <a href="https://youtu.be/e5h9xYeYxwA">https://youtu.be/e5h9xYeYxwA</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hold-and-Modify"> /u/Hold-and-Modify </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1ia47ht/so_this_time_i_make_a_scene_from_stargate_on_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1ia47ht/so_this_time_i_make_a_scene_from_stargate_on_the/">[comments]</a></span>
+

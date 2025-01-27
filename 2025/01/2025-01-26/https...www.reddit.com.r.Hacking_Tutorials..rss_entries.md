@@ -1,0 +1,37 @@
+# Source:A forum for the security professionals and white hat hackers., URL:https://www.reddit.com/r/Hacking_Tutorials/.rss, language:en
+
+## Need group
+ - [https://www.reddit.com/r/Hacking_Tutorials/comments/1iajm9j/need_group](https://www.reddit.com/r/Hacking_Tutorials/comments/1iajm9j/need_group)
+ - RSS feed: $source
+ - date published: 2025-01-26T16:56:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey! I have recently been getting into cyber security and had a lot of fun with it. I was wondering if there is any groups out there to keep learning with? Or if anyone wants to start one, let me know!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Historical-Fold9035"> /u/Historical-Fold9035 </a> <br/> <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iajm9j/need_group/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iajm9j/need_group/">[comments]</a></span>
+
+## Hide IP through http proxies in SMTP request.
+ - [https://www.reddit.com/r/Hacking_Tutorials/comments/1iacvfh/hide_ip_through_http_proxies_in_smtp_request](https://www.reddit.com/r/Hacking_Tutorials/comments/1iacvfh/hide_ip_through_http_proxies_in_smtp_request)
+ - RSS feed: $source
+ - date published: 2025-01-26T12:04:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m scraping HTTP proxies , sending CONNECT request and establishing a tunnel , so I can send request to SMTP server. I&#39;m doing this for the sole purpose of hiding my IP. However , my IP can be seen in delivered mail&#39;s headers. As I know , for hiding your IP and supporting SMTP type requests , socks5 are the best , but they are expensive , considering how many I need. </p> <p>What could the best of the hackers recommend a newbie to avoid IP getting blacklisted? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Soulmaster01"> /u/Soulmaster01 </a> <br/> <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iacvfh/hide_ip_through_http_proxies_in_smtp_request/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iacvfh/hide_ip_through_http_proxies_in_smtp_request/">[comments]</a></span>
+
+## Anyway to access android from laptop without password
+ - [https://www.reddit.com/r/Hacking_Tutorials/comments/1iabepy/anyway_to_access_android_from_laptop_without](https://www.reddit.com/r/Hacking_Tutorials/comments/1iabepy/anyway_to_access_android_from_laptop_without)
+ - RSS feed: $source
+ - date published: 2025-01-26T10:41:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to reboot a android oppo phone , it is locked by finance shop. They had locked the device with software known as mcop finance lock. <a href="https://redcattechnologyindia.com/assets//images/Financer_Locker.pdf">https://redcattechnologyindia.com/assets//images/Financer_Locker.pdf</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AbbreviationsFew4670"> /u/AbbreviationsFew4670 </a> <br/> <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iabepy/anyway_to_access_android_from_laptop_without/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iabepy/anyway_to_access_android_from_laptop_without/">[comments]</a></span>
+
+## Understand it before you hack it
+ - [https://www.reddit.com/r/Hacking_Tutorials/comments/1iab0zo/understand_it_before_you_hack_it](https://www.reddit.com/r/Hacking_Tutorials/comments/1iab0zo/understand_it_before_you_hack_it)
+ - RSS feed: $source
+ - date published: 2025-01-26T10:19:19+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Idkwhyweneedusername"> /u/Idkwhyweneedusername </a> <br/> <span><a href="https://www.kaishira.com/2025/01/26/understand-it-before-you-hack-it/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iab0zo/understand_it_before_you_hack_it/">[comments]</a></span>
+
+## basic anti-hack setup comparison / questions
+ - [https://www.reddit.com/r/Hacking_Tutorials/comments/1ia5ygs/basic_antihack_setup_comparison_questions](https://www.reddit.com/r/Hacking_Tutorials/comments/1ia5ygs/basic_antihack_setup_comparison_questions)
+ - RSS feed: $source
+ - date published: 2025-01-26T04:33:51+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Anne_Scythe4444"> /u/Anne_Scythe4444 </a> <br/> <span><a href="/r/Hacking_Tricks/comments/1i9zjer/basic_antihack_setup_comparison_questions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1ia5ygs/basic_antihack_setup_comparison_questions/">[comments]</a></span>
+

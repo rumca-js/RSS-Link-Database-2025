@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andreas Spiess",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-26T08:00:37+00:00",
+        "description": "The ESP32-C5 is the first dual-band chip with 2.4 and 5.8 GHz WiFi. I got one of the first engineering samples to show to you.\nBecause it is based on the C6, we first have a look at this chip. Then we try the new board on 5.8 GHz. And finally, we use the Zigbee test functionality with Home Assistant.\n\nMy second channel: https://www.youtube.com/HB9BLAWireless\n\nLinks:\nESP32-C6: https://s.click.aliexpress.com/e/_oF9adnL\nESP32-C6 Supermini: https://s.click.aliexpress.com/e/_oovbaRR\nESP32-C5 Reference page: https://www.espressif.com/en/products/socs/esp32-c5\nESP32-C6 Datasheet: https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf\n\nPatreon supporter companies:\nhttps://www.welectron.com/\n\nThe links above are usually affiliate links that support the channel (at no additional cost to you).\nSupporting Material and Blog Page: http://www.sensorsiot.org\nGitHub: https://www.github.com/sensorsiot\nMy Patreon Page: https://www.patreon.com/AndreasSpiess\nDiscord: https:",
+        "id": 1981824,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=glEvHRHdboA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 17,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7_D0o48KbfhpEohoP7YSQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/glEvHRHdboA/hqdefault.jpg",
+        "title": "5.8GHz from Espressif: The ESP32-C5",
+        "vote": 0
+    }
+]

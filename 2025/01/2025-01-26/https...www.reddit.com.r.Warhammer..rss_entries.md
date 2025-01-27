@@ -1,0 +1,156 @@
+# Source:All things Warhammer!, URL:https://www.reddit.com/r/Warhammer/.rss, language:en
+
+## HOBBY ADVICE !!
+ - [https://www.reddit.com/r/Warhammer/comments/1iat2g4/hobby_advice](https://www.reddit.com/r/Warhammer/comments/1iat2g4/hobby_advice)
+ - RSS feed: $source
+ - date published: 2025-01-26T22:57:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iat2g4/hobby_advice/"> <img src="https://preview.redd.it/6k883lbt4ffe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f6bb0ba0610ea67ab49e187e3f9add8652a8ba31" alt="HOBBY ADVICE !!" title="HOBBY ADVICE !!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Sooo I sculpted some custom great unclean ones using milliput and bits from my bits box , I think I undermixed the milliput bits together and some parts are still soft so I can&#39;t start painting let , how can I fix this ? I was thinking some sort of coating , anywayyy help me haha :)</p> <p>Thanks in advance ☺️ </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Geeky_Tom"> /u/Geeky_Tom </a> <br/> <span><a href="https://i.redd.it/6k883lbt4ffe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iat2g4/hobby_advice/">[comments]</a></span> </td></tr></table>
+
+## Does every unit in the Adepta Sororitas codex have an invulnerable save?
+ - [https://www.reddit.com/r/Warhammer/comments/1iat2a1/does_every_unit_in_the_adepta_sororitas_codex](https://www.reddit.com/r/Warhammer/comments/1iat2a1/does_every_unit_in_the_adepta_sororitas_codex)
+ - RSS feed: $source
+ - date published: 2025-01-26T22:57:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iat2a1/does_every_unit_in_the_adepta_sororitas_codex/"> <img src="https://preview.redd.it/27op9dnr4ffe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=22f0c6af0a9d027203d75ab5ac704e87457b3db8" alt="Does every unit in the Adepta Sororitas codex have an invulnerable save?" title="Does every unit in the Adepta Sororitas codex have an invulnerable save?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hello, I only have the adepta sororitas codex, new to big hammer. All my models have an invulnerable save (mostly 6 unless a character)</p> <p>I now understand that it&#39;s not the case for other armies.</p> <p>Am I reading my codex wrong or is that right? Even my arco flegelants which have a save stat of 7+ get an invulnerable save of 6+.</p> <p>Is it a lore reason like the emperor protects them with divine intervention or something?</p> <p>Thank you</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="http
+
+## Genestealer from spacehulk
+ - [https://www.reddit.com/r/Warhammer/comments/1iasx7e/genestealer_from_spacehulk](https://www.reddit.com/r/Warhammer/comments/1iasx7e/genestealer_from_spacehulk)
+ - RSS feed: $source
+ - date published: 2025-01-26T22:50:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iasx7e/genestealer_from_spacehulk/"> <img src="https://preview.redd.it/dnymqaan3ffe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f4196ad44964b6f817d14486488daa05b2d73ab2" alt="Genestealer from spacehulk" title="Genestealer from spacehulk" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I decided to start painying my old space hulk box after some ehat i think is some 20 years...took me long enough...</p> <p>Heres the first chap!</p> <p>Hope you like it</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ThomasReturns"> /u/ThomasReturns </a> <br/> <span><a href="https://i.redd.it/dnymqaan3ffe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iasx7e/genestealer_from_spacehulk/">[comments]</a></span> </td></tr></table>
+
+## Warhammer 40,000 Space Marine 2 Ultramarine style PlayStation 5. For the Emperror!
+ - [https://www.reddit.com/r/Warhammer/comments/1ias3l6/warhammer_40000_space_marine_2_ultramarine_style](https://www.reddit.com/r/Warhammer/comments/1ias3l6/warhammer_40000_space_marine_2_ultramarine_style)
+ - RSS feed: $source
+ - date published: 2025-01-26T22:14:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1ias3l6/warhammer_40000_space_marine_2_ultramarine_style/"> <img src="https://b.thumbs.redditmedia.com/ZuqSMsbglfg4fC942-Dx23B9ol6wU5Y8Sh8yxjwtweg.jpg" alt="Warhammer 40,000 Space Marine 2 Ultramarine style PlayStation 5. For the Emperror!" title="Warhammer 40,000 Space Marine 2 Ultramarine style PlayStation 5. For the Emperror!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Smell9482"> /u/Ok_Smell9482 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ias3l6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1ias3l6/warhammer_40000_space_marine_2_ultramarine_style/">[comments]</a></span> </td></tr></table>
+
+## a coworker of mine fell for some AI slop
+ - [https://www.reddit.com/r/Warhammer/comments/1iao5m1/a_coworker_of_mine_fell_for_some_ai_slop](https://www.reddit.com/r/Warhammer/comments/1iao5m1/a_coworker_of_mine_fell_for_some_ai_slop)
+ - RSS feed: $source
+ - date published: 2025-01-26T19:42:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>last week at our lunch break we got to talking about Warhammer. he said he had seen a trailer for the Henry Cavil movie. i was confused as i hadn&#39;t heard anything about it + the deal with Amazon just got announced. so as we went back to work i looked for a trailer. turns out there are a bunch of cuts of existing stuff cut with AI slop...<br/> just wanted to share this, its the first time for me seeing someone get fooled by this crap.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fit_Giraffe_748"> /u/Fit_Giraffe_748 </a> <br/> <span><a href="https://www.reddit.com/r/Warhammer/comments/1iao5m1/a_coworker_of_mine_fell_for_some_ai_slop/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iao5m1/a_coworker_of_mine_fell_for_some_ai_slop/">[comments]</a></span>
+
+## The lion
+ - [https://www.reddit.com/r/Warhammer/comments/1iane0g/the_lion](https://www.reddit.com/r/Warhammer/comments/1iane0g/the_lion)
+ - RSS feed: $source
+ - date published: 2025-01-26T19:14:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iane0g/the_lion/"> <img src="https://b.thumbs.redditmedia.com/zxDhb-MeYNk4lD6ql204l3nNrNKyu2TxNtfFcAC9Vwk.jpg" alt="The lion" title="The lion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Asianp123"> /u/Asianp123 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iane0g">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iane0g/the_lion/">[comments]</a></span> </td></tr></table>
+
+## First panel done on the emps children warlord titan
+ - [https://www.reddit.com/r/Warhammer/comments/1iak8a3/first_panel_done_on_the_emps_children_warlord](https://www.reddit.com/r/Warhammer/comments/1iak8a3/first_panel_done_on_the_emps_children_warlord)
+ - RSS feed: $source
+ - date published: 2025-01-26T17:18:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iak8a3/first_panel_done_on_the_emps_children_warlord/"> <img src="https://preview.redd.it/sx6om17ggdfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2ccc52c87e8f9ba56b1e3562651aec980ecb2db4" alt="First panel done on the emps children warlord titan" title="First panel done on the emps children warlord titan" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thecrabwhopaints"> /u/thecrabwhopaints </a> <br/> <span><a href="https://i.redd.it/sx6om17ggdfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iak8a3/first_panel_done_on_the_emps_children_warlord/">[comments]</a></span> </td></tr></table>
+
+## Another knightly brother ready to join the ranks.
+ - [https://www.reddit.com/r/Warhammer/comments/1iajkkf/another_knightly_brother_ready_to_join_the_ranks](https://www.reddit.com/r/Warhammer/comments/1iajkkf/another_knightly_brother_ready_to_join_the_ranks)
+ - RSS feed: $source
+ - date published: 2025-01-26T16:54:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iajkkf/another_knightly_brother_ready_to_join_the_ranks/"> <img src="https://preview.redd.it/8gbvke4tbdfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca8d07cdce361ad74e8fcdb333a3d3c09095bdca" alt="Another knightly brother ready to join the ranks." title="Another knightly brother ready to join the ranks." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Eremon485"> /u/Eremon485 </a> <br/> <span><a href="https://i.redd.it/8gbvke4tbdfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iajkkf/another_knightly_brother_ready_to_join_the_ranks/">[comments]</a></span> </td></tr></table>
+
+## Can you guess who this is supposed to be?
+ - [https://www.reddit.com/r/Warhammer/comments/1iai6b2/can_you_guess_who_this_is_supposed_to_be](https://www.reddit.com/r/Warhammer/comments/1iai6b2/can_you_guess_who_this_is_supposed_to_be)
+ - RSS feed: $source
+ - date published: 2025-01-26T16:01:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iai6b2/can_you_guess_who_this_is_supposed_to_be/"> <img src="https://b.thumbs.redditmedia.com/XH8CW_xJ58K1ci2yISdSU-ILFBWgmoe91gpWWk5CC4Y.jpg" alt="Can you guess who this is supposed to be?" title="Can you guess who this is supposed to be?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Creepy-Breadfruit252"> /u/Creepy-Breadfruit252 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iai6b2">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iai6b2/can_you_guess_who_this_is_supposed_to_be/">[comments]</a></span> </td></tr></table>
+
+## Including Warhammer 40k, what are your favourite works of fiction?
+ - [https://www.reddit.com/r/Warhammer/comments/1iaffe1/including_warhammer_40k_what_are_your_favourite](https://www.reddit.com/r/Warhammer/comments/1iaffe1/including_warhammer_40k_what_are_your_favourite)
+ - RSS feed: $source
+ - date published: 2025-01-26T14:08:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iaffe1/including_warhammer_40k_what_are_your_favourite/"> <img src="https://preview.redd.it/sxexdn4kicfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9ca3f01b8bcdfbbe60d1dbe5ca6d4953d21bf3bf" alt="Including Warhammer 40k, what are your favourite works of fiction?" title="Including Warhammer 40k, what are your favourite works of fiction?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UniversalEnergy55"> /u/UniversalEnergy55 </a> <br/> <span><a href="https://i.redd.it/sxexdn4kicfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iaffe1/including_warhammer_40k_what_are_your_favourite/">[comments]</a></span> </td></tr></table>
+
+## Any recommendations for good AoS Podcasts? I really like poorhammer, but that is mostly 40k. But something like their „style“ would be great!
+ - [https://www.reddit.com/r/Warhammer/comments/1iaeol3/any_recommendations_for_good_aos_podcasts_i](https://www.reddit.com/r/Warhammer/comments/1iaeol3/any_recommendations_for_good_aos_podcasts_i)
+ - RSS feed: $source
+ - date published: 2025-01-26T13:35:30+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Sebastian-Storm"> /u/Sebastian-Storm </a> <br/> <span><a href="https://www.reddit.com/r/Warhammer/comments/1iaeol3/any_recommendations_for_good_aos_podcasts_i/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iaeol3/any_recommendations_for_good_aos_podcasts_i/">[comments]</a></span>
+
+## I started work on my Blades of Khaine last night
+ - [https://www.reddit.com/r/Warhammer/comments/1iaeim0/i_started_work_on_my_blades_of_khaine_last_night](https://www.reddit.com/r/Warhammer/comments/1iaeim0/i_started_work_on_my_blades_of_khaine_last_night)
+ - RSS feed: $source
+ - date published: 2025-01-26T13:27:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iaeim0/i_started_work_on_my_blades_of_khaine_last_night/"> <img src="https://preview.redd.it/8p2lvt69bcfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b2818733fd70a945d04a1636b6893c2f90703cf5" alt="I started work on my Blades of Khaine last night" title="I started work on my Blades of Khaine last night" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Girth-Wind-Fire"> /u/Girth-Wind-Fire </a> <br/> <span><a href="https://i.redd.it/8p2lvt69bcfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iaeim0/i_started_work_on_my_blades_of_khaine_last_night/">[comments]</a></span> </td></tr></table>
+
+## Varag Ghoul-Chewer
+ - [https://www.reddit.com/r/Warhammer/comments/1iadhe1/varag_ghoulchewer](https://www.reddit.com/r/Warhammer/comments/1iadhe1/varag_ghoulchewer)
+ - RSS feed: $source
+ - date published: 2025-01-26T12:37:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iadhe1/varag_ghoulchewer/"> <img src="https://preview.redd.it/m8ni05b52cfe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f2ac7f0edb8e92206cab8c9a8dd441998ff082f" alt="Varag Ghoul-Chewer" title="Varag Ghoul-Chewer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nahras"> /u/Nahras </a> <br/> <span><a href="https://i.redd.it/m8ni05b52cfe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iadhe1/varag_ghoulchewer/">[comments]</a></span> </td></tr></table>
+
+## ...This one goes to book of grudges
+ - [https://www.reddit.com/r/Warhammer/comments/1iaclgd/this_one_goes_to_book_of_grudges](https://www.reddit.com/r/Warhammer/comments/1iaclgd/this_one_goes_to_book_of_grudges)
+ - RSS feed: $source
+ - date published: 2025-01-26T11:49:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iaclgd/this_one_goes_to_book_of_grudges/"> <img src="https://preview.redd.it/x3r7ptbgtbfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4d1fcb561727b8d463b21b8b32c8c375985e83ac" alt="...This one goes to book of grudges" title="...This one goes to book of grudges" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/National-Frame8712"> /u/National-Frame8712 </a> <br/> <span><a href="https://i.redd.it/x3r7ptbgtbfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iaclgd/this_one_goes_to_book_of_grudges/">[comments]</a></span> </td></tr></table>
+
+## First Mini
+ - [https://www.reddit.com/r/Warhammer/comments/1iabjwi/first_mini](https://www.reddit.com/r/Warhammer/comments/1iabjwi/first_mini)
+ - RSS feed: $source
+ - date published: 2025-01-26T10:50:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iabjwi/first_mini/"> <img src="https://b.thumbs.redditmedia.com/L-Rg-Dn-6CmuOvMs4zxOJ8Y256oK_6H1-TPtah28Qxw.jpg" alt="First Mini" title="First Mini" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Appropriate-Skin8128"> /u/Appropriate-Skin8128 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iabjwi">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iabjwi/first_mini/">[comments]</a></span> </td></tr></table>
+
+## First ever miniature - Realisation
+ - [https://www.reddit.com/r/Warhammer/comments/1iaa7qc/first_ever_miniature_realisation](https://www.reddit.com/r/Warhammer/comments/1iaa7qc/first_ever_miniature_realisation)
+ - RSS feed: $source
+ - date published: 2025-01-26T09:28:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iaa7qc/first_ever_miniature_realisation/"> <img src="https://preview.redd.it/kj7s9foi4bfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b64e61893422dffd12ad9766645c890531d5c713" alt="First ever miniature - Realisation" title="First ever miniature - Realisation" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I’ve almost fully equipped myself and thought I’d order my first miniature to go along with it.</p> <p>I think the whole Death Guard theme is pretty cool, but I found the Nurgle miniatures even more impressive since I’m more into painting than actual gameplay.</p> <p>But then I unpack everything and see the miniature… damn, they always look so much bigger in the videos. How are you even supposed to paint this tiny little guy?! 😆</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/moezbar"> /u/moezbar </a> <br/> <span><a href="https://i.redd.it/kj7s9foi4bfe1.jpeg">[li
+
+## Mangler squigs
+ - [https://www.reddit.com/r/Warhammer/comments/1ia9w65/mangler_squigs](https://www.reddit.com/r/Warhammer/comments/1ia9w65/mangler_squigs)
+ - RSS feed: $source
+ - date published: 2025-01-26T09:04:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1ia9w65/mangler_squigs/"> <img src="https://b.thumbs.redditmedia.com/nhZ3rm9Xn8EWTzTm3LH9OED_7LckmKY4ErajJ55C5vc.jpg" alt="Mangler squigs" title="Mangler squigs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Geblin_the_great"> /u/Geblin_the_great </a> <br/> <span><a href="https://www.reddit.com/gallery/1ia9w65">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1ia9w65/mangler_squigs/">[comments]</a></span> </td></tr></table>
+
+## Imperial Knight WIP TIPS????
+ - [https://www.reddit.com/r/Warhammer/comments/1ia95h4/imperial_knight_wip_tips](https://www.reddit.com/r/Warhammer/comments/1ia95h4/imperial_knight_wip_tips)
+ - RSS feed: $source
+ - date published: 2025-01-26T08:08:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1ia95h4/imperial_knight_wip_tips/"> <img src="https://b.thumbs.redditmedia.com/8zwjYBEZSRZ4xiTZqDfH5gBcyboWlP-OKP2RzX-qvsU.jpg" alt="Imperial Knight WIP TIPS????" title="Imperial Knight WIP TIPS????" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I had started this Imperial Knight a while back and accidentally left it back at home when i came back to school so haven&#39;t been working on it lately, But trying to mimic a House Orhlacc color scheme, please share recommendations and tips!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MortarionsMint"> /u/MortarionsMint </a> <br/> <span><a href="https://www.reddit.com/gallery/1ia95h4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1ia95h4/imperial_knight_wip_tips/">[comments]</a></span> </td></tr></table>
+
+## Spent all day painting my first mini
+ - [https://www.reddit.com/r/Warhammer/comments/1ia7jzw/spent_all_day_painting_my_first_mini](https://www.reddit.com/r/Warhammer/comments/1ia7jzw/spent_all_day_painting_my_first_mini)
+ - RSS feed: $source
+ - date published: 2025-01-26T06:13:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1ia7jzw/spent_all_day_painting_my_first_mini/"> <img src="https://b.thumbs.redditmedia.com/hiEzyA6aG3c9f2Xmv4O7v06CUEvm9vMUZ8a3do0ouuw.jpg" alt="Spent all day painting my first mini" title="Spent all day painting my first mini" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Not quite done. Have some more highlighting and touching up to do, and then the base. </p> <p>I have very shaky hands. Some of the finer details were tough, mostly where two differently colored sections meet up, especially in hard to reach areas. Spent a lot of time fixing mistakes, fixing mistakes from touch up, and again, and again. </p> <p>I can stabilize fine at some angles, others there&#39;s not much I can do. I&#39;ll probably paint the models before putting on the base in the future.</p> <p>I was happy with the model until I got to edge highlighting. I&#39;m struggling. I did the first layer of highlights on the Aquila and it was OK
+
+## Wraith in Argyle print blanket
+ - [https://www.reddit.com/r/Warhammer/comments/1ia4mdj/wraith_in_argyle_print_blanket](https://www.reddit.com/r/Warhammer/comments/1ia4mdj/wraith_in_argyle_print_blanket)
+ - RSS feed: $source
+ - date published: 2025-01-26T03:17:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1ia4mdj/wraith_in_argyle_print_blanket/"> <img src="https://preview.redd.it/htpr840aa9fe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ab703260ec6d18d751086b96f0badd087ebedff" alt="Wraith in Argyle print blanket" title="Wraith in Argyle print blanket" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Chose this guy last night because I had a full day at work and wanted a simple model. I foolishly chose Argyle pattern for his cloak, which ended up taking about four hours alone. Pretty happy with the result despite my brain feeling like a wrung out tea towel. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RatLamington"> /u/RatLamington </a> <br/> <span><a href="https://i.redd.it/htpr840aa9fe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1ia4mdj/wraith_in_argyle_print_blanket/">[comments]</a></span> </td></tr></table>
+
+## Was inspired by Play On's Colosseum rule set so made some terrain of my own, here's pic sof the first test game using it. The smaller scale was a lot of fun and the limitations and close, confined environment resulted in a lot of down to the wire charges/rolls that could have swung the game!
+ - [https://www.reddit.com/r/Warhammer/comments/1ia21yc/was_inspired_by_play_ons_colosseum_rule_set_so](https://www.reddit.com/r/Warhammer/comments/1ia21yc/was_inspired_by_play_ons_colosseum_rule_set_so)
+ - RSS feed: $source
+ - date published: 2025-01-26T01:01:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1ia21yc/was_inspired_by_play_ons_colosseum_rule_set_so/"> <img src="https://a.thumbs.redditmedia.com/piU1x4py-HTfspJVGbnG4ASoMnPYnGpCxiHuzaJZK30.jpg" alt="Was inspired by Play On's Colosseum rule set so made some terrain of my own, here's pic sof the first test game using it. The smaller scale was a lot of fun and the limitations and close, confined environment resulted in a lot of down to the wire charges/rolls that could have swung the game!" title="Was inspired by Play On's Colosseum rule set so made some terrain of my own, here's pic sof the first test game using it. The smaller scale was a lot of fun and the limitations and close, confined environment resulted in a lot of down to the wire charges/rolls that could have swung the game!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WargameGeeks"> /u/WargameGeeks </a> <br/> <span><a href="https://www.reddit.com/gallery/1ia21yc">[
+
+## Weirdnob Shaman
+ - [https://www.reddit.com/r/Warhammer/comments/1ia17hd/weirdnob_shaman](https://www.reddit.com/r/Warhammer/comments/1ia17hd/weirdnob_shaman)
+ - RSS feed: $source
+ - date published: 2025-01-26T00:18:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1ia17hd/weirdnob_shaman/"> <img src="https://b.thumbs.redditmedia.com/o0Vl5WKcniW6P2hB5bWEYjvs7nJzWyzLx9w9P90Cc3g.jpg" alt="Weirdnob Shaman" title="Weirdnob Shaman" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I had a lot of fun with this. I might add some swampy resin to the base ands some more fine textures to the shawl, but for now, I’m happy. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/omnio667"> /u/omnio667 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ia17hd">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1ia17hd/weirdnob_shaman/">[comments]</a></span> </td></tr></table>
+

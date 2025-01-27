@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-26T17:00:16+00:00",
+        "description": "\ud83d\ude97 Podczas tegorocznej edycji Chaos Computer Club wiele interesuj\u0105cych wyst\u0105pie\u0144 prowadzonych by\u0142o jedynie po niemiecku. Niestety. Jedn\u0105 z takich prezentacji by\u0142o wyst\u0105pienie hakera Fl\u00fcpke oraz dziennikarza \u015bledczego Michaela Kreila pod tytu\u0142em \u201cWir wissen, wo dein Auto steht\u201d co mo\u017cna przet\u0142umaczy\u0107 jako \u201cWiemy, gdzie zaparkowa\u0142e\u015b samoch\u00f3d\u201d. A w centrum ca\u0142ej tej afery stoi Volkswagen. \n \n\u0179r\u00f3d\u0142a:\n\ud83d\udccd\u00a0Wir wissen wo dein Auto steht - Volksdaten von Volkswagen\nhttps://fahrplan.events.ccc.de/congress/2024/fahrplan/talk/Q8ZAV9/\n\n\ud83d\udccc\u00a0Wir wissen wo dein Auto steht Volksdaten von Volkswagen\nhttps://media.ccc.de/v/38c3-wir-wissen-wo-dein-auto-steht-volksdaten-von-volkswagen\n\n\ud83d\ude98\u00a0Volkswagen Group\nhttps://www.volkswagen-group.com/en\n\n\ud83d\udd17\u00a0Fortune Global 500\nhttps://fortune.com/ranking/global500/\n\n\ud83d\uddde\ufe0f\u00a0Spiegel Netzwelt. Wir wissen, wo dein Auto steht\nhttps://www.spiegel.de/netzwelt/web/volkswagen-konzern-datenleck-wir-wissen-wo-dein-auto-steht-a-e12d33d0-97bc-493c-96d1-aa5892861027\n\n\u26d3\ufe0f\u200d\ud83d\udca5 Toyota confirms thi",
+        "id": 1983412,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=8rYh-AJbZfA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8rYh-AJbZfA/hqdefault.jpg",
+        "title": "Wiem, gdzie zaparkowa\u0142e\u015b sw\u00f3j samoch\u00f3d* #38c3",
+        "vote": 0
+    }
+]

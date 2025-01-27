@@ -1,0 +1,102 @@
+# Source:Polygon, URL:https://www.polygon.com/rss/index.xml, language:en
+
+## A24’s family fantasy The Legend of Ochi has a frustrating family problem
+ - [https://www.polygon.com/movies/513258/legend-of-ochi-review-fantasy-a24-willem-dafoe](https://www.polygon.com/movies/513258/legend-of-ochi-review-fantasy-a24-willem-dafoe)
+ - RSS feed: $source
+ - date published: 2025-01-26T16:01:00+00:00
+
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2025/01/https___cdn.sanity.io_images_xq1bjtf4_production_68467d7a0d4c6fa2936f45ec7c0405573bd00daf-2000x1125-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none"><sup>The Legend of Ochi</sup><em><sup> premiered at the 2025 Sundance Film Festival. This initial review was timed for its world premiere embargo.</sup></em></p>
+
+<p class="has-text-align-none">A child befriending a creature everyone else thinks is too dangerous to befriend is the backbone of many memorable coming-of-age stories, from <em>Free Willy </em>and <em>The Black Stallion</em> to <em>E.T.</em> and <em>How to Train Your Dragon</em>. It’s the ultimate fantasy for young people: just <em>getting</em> a strange, misunderstood, unique creature in a way no one else can.&nbsp;</p>
+
+<p class="has-text
+
+## What time does Black Ops 6 Season 2 release?
+ - [https://www.polygon.com/black-ops-6-guides/512666/season-2-release-time-date-est-pst-bst-warzone](https://www.polygon.com/black-ops-6-guides/512666/season-2-release-time-date-est-pst-bst-warzone)
+ - RSS feed: $source
+ - date published: 2025-01-26T12:01:00+00:00
+
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2025/01/black-ops-6-season-2-release-time.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none"><strong><a href="https://www.polygon.com/game/call-of-duty-black-ops-6/443261"><em>Black Ops 6</em></a> Season 2</strong> is releasing Tuesday, Jan. 28, and is the second major update to the title.</p>
+
+<p class="has-text-align-none">Multiplayer, <em>Warzone</em>, and Zombies are all receiving new additions for players to enjoy; experience new weapons and maps in Multiplayer, gameplay updates in <em>Warzone</em>, and a brand-new map in Zombies. Of course, a new season also means a new battle pass full of rewards.</p>
+
+<p class="has-text-align-none">Here’s when <em>Black Ops 6 </em>Season 2 releases in your time zone, and what to expect from Season 2.</p>
+
+<hr class="w
+
+## Sam Barlow didn’t know Her Story was an FMV
+ - [https://www.polygon.com/gaming/511572/sam-barlow-justin-mcelroy-her-story](https://www.polygon.com/gaming/511572/sam-barlow-justin-mcelroy-her-story)
+ - RSS feed: $source
+ - date published: 2025-01-26T12:00:00+00:00
+
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/3827016/her_story_screen.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none"><em>The full-motion video game format was all the rage for a brief period in the 1990s</em>.<em> The ability to play high-quality video — video! — on a home computer was revolutionary.&nbsp;</em></p>
+
+<p class="has-text-align-none"><em>But FMV games quickly fell by the wayside. This was partially due to the rise of 3D graphics on more powerful home consoles like the PlayStation 2, but also the quality of the games: visually impressive, sure, but many of them not as interactive as anyone who wanted to, like, actually play a video game would want.</em></p>
+
+<p class="has-text-align-none"><em>But, as Sam Barlow and Justin McElroy discuss in this intervi
+
+## Assassin’s Creed Shadows pre-order guide
+ - [https://www.polygon.com/pre-order/513624/assassins-creed-shadows-digital-deluxe-collectors-edition-where-to-buy](https://www.polygon.com/pre-order/513624/assassins-creed-shadows-digital-deluxe-collectors-edition-where-to-buy)
+ - RSS feed: $source
+ - date published: 2025-01-26T11:00:00+00:00
+
+<figure>
+
+<img alt="A screenshot from Assassin’s Creed Shadows" data-caption="" data-portal-copyright="Image: Ubisoft" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2025/01/ac-shadows-stealth.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">After a series of <a href="https://www.polygon.com/news/506147/assassins-creed-shadows-delay-march-2025-release-date">unfortunate delays</a>, the next installment in the Assassin’s Creed franchise is coming to PC and consoles on Mar. 20. <em><a href="https://www.polygon.com/impressions/512277/assassins-creed-shadows-preview-ubisoft">Assassin’s Creed Shadows</a></em> follows protagonists Naoe and Yasuke through 16th-century Japan on a quest for vengeance, while continuing the modern-day Assassins versus Templars storyline that’s always been at the center of the series. The gameplay of <em>Shadows</em> combines some of the best e
+
+## 5 excellent horror movies that reimagined the ghost story
+ - [https://www.polygon.com/horror/512672/best-ghost-movies-streaming-presence-weird-unique](https://www.polygon.com/horror/512672/best-ghost-movies-streaming-presence-weird-unique)
+ - RSS feed: $source
+ - date published: 2025-01-26T10:00:00+00:00
+
+<figure>
+
+<img alt="The phantasms sit on a bus in carnival of souls" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/20023267/1_ovguGCX4fFR53YNdB0BCsA.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-drop-cap has-text-align-none">Modern Hollywood’s foremost experimenter, Steven Soderbergh, has a new movie out this week, and it’s all about ghosts. <em>Presence</em>, his excellent new film and his first real foray into the horror genre, is shot entirely from the perspective of a ghost who inhabits a house where a new family has moved in. In the hands of nearly any other director, this kind of formal experiment could feel like a gimmick at best — or, at worst, a movie-ruining annoyance — but instead Soderbergh integrates it so effectively and smoothly that it feels like the most natural way to tell this story. S
+
+## ‘A thankless job’: Marvel Rivals healers are tired of being overlooked
+ - [https://www.polygon.com/gaming/512436/marvel-rivals-strategists-healers-voting](https://www.polygon.com/gaming/512436/marvel-rivals-strategists-healers-voting)
+ - RSS feed: $source
+ - date published: 2025-01-26T09:00:00+00:00
+
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2025/01/LunaRocketMantis_MR.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-drop-cap has-text-align-none">Healers often get a raw deal in hero shooter games. Classes capable of keeping players alive are critical, and can make the difference between a team that wins and a team that loses. Despite risking life and limb for teammates who may not deserve it, healers say they are rarely appreciated. This axiom was true in the days of the original <em>Overwatch</em> and its controversial resurrection mechanics, and held steady for the sequel even as Blizzard spent years tuning said gameplay. Now that <em>Marvel Rivals</em> is in the spotlight, healers are having a bad case of déjà vu. This time, though, healers find themselves in a literal popularity contest.</p>
+
+<p class="has-
+
+## Blade Chimera mixes up the Metroidvania formula with an extremely cool sword
+ - [https://www.polygon.com/review/513883/blade-chimera-review-metroidvania-pc-nintendo-switch](https://www.polygon.com/review/513883/blade-chimera-review-metroidvania-pc-nintendo-switch)
+ - RSS feed: $source
+ - date published: 2025-01-26T08:00:00+00:00
+
+<figure>
+
+<img alt="Demon hunter Shin ducks behind a truck for cover as a dragonlike titan demon charges up a beam attack in a screenshot from Blade Chimera" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.polygon.com/wp-content/uploads/sites/2/2025/01/ss_067691f714523d8de0680879bc86770e94908427.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-drop-cap has-text-align-none">Indie developer Team Ladybug has carved out a niche by making the types of side-scrolling action games that Konami used to create. Best known for Metroidvanias <em>Touhou Luna Nights</em> and <em>Record of Lodoss War: Deedlit in Wonder Labyrinth</em> (and the Gradius homage <em>Drainus</em>), Team Ladybug is attempting a new spin on the beloved action-exploration formula with <em>Blade Chimera</em>, which places a huge emphasis on its titular weapon: a multifunctional sword that also happens to be a nice demon l
+
