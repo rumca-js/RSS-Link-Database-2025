@@ -1,0 +1,44 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## A construction firm's been acquitted of harming threatened turtle's habitat, prompting Ontario review of law
+ - [https://www.cbc.ca/news/canada/sudbury/north-bay-blanding-turtle-habitat-1.7442696?cmp=rss](https://www.cbc.ca/news/canada/sudbury/north-bay-blanding-turtle-habitat-1.7442696?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-27T14:41:10+00:00
+
+<img src='https://i.cbc.ca/1.7442700.1738002492!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/blanding-s-turtle.jpg' alt='A turtle looking up at the camera.' width='620' height='349' title='Blanding&apos;s turtles are a threatened species in Ontario. North Bay residents have reported sightings of the animal near Circle Lake over the last two decades. '/><p>Ontario's Court of Appeal recently upheld a decision to acquit a North Bay construction company found guilty of damaging the habitat of Blanding’s Turtle, a threatened species in the province.</p>
+
+## Canadian ice climbers to converge on downtown Edmonton for world championship
+ - [https://www.cbc.ca/news/canada/edmonton/alta-ice-climbing-1.7442239?cmp=rss](https://www.cbc.ca/news/canada/edmonton/alta-ice-climbing-1.7442239?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-27T10:05:30+00:00
+
+<img src='https://i.cbc.ca/1.7442246.1737984650!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/alta-ice-climbing-20250125.jpg' alt='THE CANADIAN PRESS/HO-Drew Lieterman, *MANDATORY CREDIT*' width='620' height='349' title='Ice climber Gord McArthur is seen scaling a wall of rock and ice in an undated handout photo. McArthur, from Cranbrook, B.C., is returning to the ice climbing World Cup in Edmonton in February after breaking his jaw at last year&apos;s competition in the provincial capital. '/><p>Some of the world's best ice climbers are coming to Edmonton next month. A towering ice wall has been set up in the city's river valley for the Ice Climbing World Cup.</p>
+
+## Ford's push to expand alcohol sales to cost Ontario about $1.4B, fiscal watchdog says
+ - [https://www.cbc.ca/news/canada/toronto/ford-alcohol-beer-wine-booze-cost-taxpayers-1.7442250?cmp=rss](https://www.cbc.ca/news/canada/toronto/ford-alcohol-beer-wine-booze-cost-taxpayers-1.7442250?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-27T08:57:18+00:00
+
+<img src='https://i.cbc.ca/1.7216067.1716830002!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/ont-alcohol-20240524.jpg' alt='Premier Doug Ford gestures toward wine bottles on shelves. ' width='620' height='349' title='Ontario Premier Doug Ford gestures to a display of alcohol at an announcement saying the province is speeding up the expansion of alcohol sales, in Toronto on Friday, May 24, 2024. '/><p>The Ford government's push to get beer, wine and ready-made cocktails into convenience stores ahead of schedule will cost taxpayers roughly $1.4 billion by the end of 2030, one of the province's fiscal watchdogs says.</p>
+
+## Cameras are helping Seattle fight gridlock. Toronto's taking note
+ - [https://www.cbc.ca/news/canada/toronto/toronto-automated-enforcement-seattle-fight-gridlock-1.7439589?cmp=rss](https://www.cbc.ca/news/canada/toronto/toronto-automated-enforcement-seattle-fight-gridlock-1.7439589?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-27T07:17:51+00:00
+
+<img src='https://i.cbc.ca/ais/ffa87eca-e7aa-45ec-af9d-c2b9949bb7f7,1737761434561/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Two woman standing in front of a computer monitor' width='620' height='349' title='Aerial (drone) images of traffic gridlock at Spadina and Front St. W in Toronto. Streetcar service has halted on Spadina for construction.'/><p></p>
+
+## How vulnerable are Saskatchewan's 3 largest cities to wildfires?
+ - [https://www.cbc.ca/news/canada/saskatchewan/regina-saskatoon-prince-albert-wildfires-vulnerable-1.7441500?cmp=rss](https://www.cbc.ca/news/canada/saskatchewan/regina-saskatoon-prince-albert-wildfires-vulnerable-1.7441500?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-27T06:00:00+00:00
+
+<img src='https://i.cbc.ca/1.3367795.1737838629!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/saskatchewan-wildfires.jpg' alt='Flames fill the sky behind a forest treeline.' width='620' height='349' title='Flames from a wildfire approach trees on the edge of the airport in La Ronge, Sask., on July 5, 2015, in a picture provided by Saskatchewan Ministry of Environment contract pilot Corey Hardcastle. The Canadian military has been called in to help fight wildfires in the Western province of Saskatchewan, where 112 active fires have forced the evacuation of more than 13,000 people and threatened several remote towns on Monday.'/><p>With the ongoing California wildfires and last year's devastating fire in Jasper, Alta., people in Saskatchewan's largest cities may wonder how vulnerable they are.</p>
+
+## New funding will help Saint Mary's researchers update database of right whale DNA
+ - [https://www.cbc.ca/news/canada/nova-scotia/new-funding-will-help-saint-mary-s-researchers-update-database-of-right-whale-dna-1.7407253?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/new-funding-will-help-saint-mary-s-researchers-update-database-of-right-whale-dna-1.7407253?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-01-27T05:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7003652.1697836388!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/a-north-atlantic-right-whale-and-a-calf.JPG' alt='An aerial view of two whales in the ocean.' width='620' height='349' title='A North Atlantic right whale and a calf.'/><p>The Department of Fisheries and Oceans has awarded Saint Mary’s University a contract to update the DNA database of one of the most critically endangered species in Canadian waters.</p>
+

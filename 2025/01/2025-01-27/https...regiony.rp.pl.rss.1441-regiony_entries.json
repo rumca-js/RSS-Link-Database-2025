@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-27T12:55:12+00:00",
+        "description": "Krak\u00f3w, Bydgoszcz, Wroc\u0142aw i Pozna\u0144 dosta\u0142y wielomilionowe dofinansowanie w ramach Krajowego Planu Odbudowy. Przyznane wsparcie pozwoli na inwestycje w zeroemisyjny transport zbiorowy.",
+        "id": 1983134,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/z-regionow/art41732181-miliony-zlotych-z-kpo-dla-polskich-miast-na-tramwaje",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Miliony z\u0142otych z KPO dla polskich miast na tramwaje",
+        "vote": 0
+    }
+]

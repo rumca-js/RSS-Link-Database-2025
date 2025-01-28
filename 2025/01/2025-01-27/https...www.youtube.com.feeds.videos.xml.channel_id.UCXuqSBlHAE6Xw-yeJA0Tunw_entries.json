@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-27T18:00:23+00:00",
+        "description": "Go to https://sponsr.is/bootdev_LTT and use code LTT to get 25% off your first month or year of boot.dev. Take your coding skills to the next level and learn backend developing with boot.dev today!\n\nThis is the ULTIMATE showdown of game controllers that we missed in our last video; we\u2019ve got over 20 remotes and we\u2019re trying to find which is THE BEST! What has the lowest input latency? Which has key features like Hall Effect Sticks and Triggers? Which feels comfiest?  Which is the best for the budget? We\u2019re covering it all, and including a handy tier list.\n\nDiscuss on the forum: https://linustechtips.com/topic/1598435-10-underrated-game-controllers/\n\nCheck out the controllers in the lineup (in alphabetical order):\n8BitDo Ultimate 2C: https://geni.us/UZpt0v\nCandy Con: https://geni.us/dno1bPB\nEasySMX X05: https://geni.us/hRw8Q\nEasySMX X10: https://geni.us/Uic7Uyx\nEasySMX X20: https://geni.us/8bAJM\nFlydigi Apex 4: https://geni.us/eH9opr\nFlydigi Direwolf 3: https://lmg.gg/R8QmA\nFlydigi Va",
+        "id": 1987992,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=TNUf2LI-K8o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TNUf2LI-K8o/hqdefault.jpg",
+        "title": "10 Underrated Game Controllers",
+        "vote": 0
+    }
+]

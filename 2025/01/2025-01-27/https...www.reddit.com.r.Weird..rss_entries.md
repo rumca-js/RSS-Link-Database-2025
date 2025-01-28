@@ -1,0 +1,86 @@
+# Source:Weird, URL:https://www.reddit.com/r/Weird/.rss, language:en
+
+## Keep getting strange emails that dont make sense? I assume it's typical scam, but don't understand why they all are formated like this.
+ - [https://www.reddit.com/r/Weird/comments/1ibjqiu/keep_getting_strange_emails_that_dont_make_sense](https://www.reddit.com/r/Weird/comments/1ibjqiu/keep_getting_strange_emails_that_dont_make_sense)
+ - RSS feed: $source
+ - date published: 2025-01-27T20:52:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1ibjqiu/keep_getting_strange_emails_that_dont_make_sense/"> <img src="https://preview.redd.it/tld9luqfnlfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fc6ac193f2c592bf94e1efc79fd5771e88f49723" alt="Keep getting strange emails that dont make sense? I assume it's typical scam, but don't understand why they all are formated like this." title="Keep getting strange emails that dont make sense? I assume it's typical scam, but don't understand why they all are formated like this." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/darkfire_1998"> /u/darkfire_1998 </a> <br/> <span><a href="https://i.redd.it/tld9luqfnlfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1ibjqiu/keep_getting_strange_emails_that_dont_make_sense/">[comments]</a></span> </td></tr></table>
+
+## HOWIE! - Pilot - "A floating purple ball creature gets their pilot script greenlight in Hollywood while navigating a war-torn past come back to haunt them"
+ - [https://www.reddit.com/r/Weird/comments/1ibj8g8/howie_pilot_a_floating_purple_ball_creature_gets](https://www.reddit.com/r/Weird/comments/1ibj8g8/howie_pilot_a_floating_purple_ball_creature_gets)
+ - RSS feed: $source
+ - date published: 2025-01-27T20:31:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1ibj8g8/howie_pilot_a_floating_purple_ball_creature_gets/"> <img src="https://external-preview.redd.it/RfIsaYybNvLXxNy9VBBm5tbGFMDd6znPa1FDD7NS5Zo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b8d937ef4c150e7800702ba924e61e249d1cba19" alt="HOWIE! - Pilot - &quot;A floating purple ball creature gets their pilot script greenlight in Hollywood while navigating a war-torn past come back to haunt them&quot;" title="HOWIE! - Pilot - &quot;A floating purple ball creature gets their pilot script greenlight in Hollywood while navigating a war-torn past come back to haunt them&quot;" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I just stumbled upon this WTF of a series and I need to share it so I know I&#39;m living in the right reality. 5 episodes and what a weird ass ride. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GraboidGirl"> /u/GraboidGirl </a> <br/> <span><a href="htt
+
+## Ex-military officer 'abducted by aliens had conversation with 7ft mantis being'
+ - [https://www.reddit.com/r/Weird/comments/1ibha26/exmilitary_officer_abducted_by_aliens_had](https://www.reddit.com/r/Weird/comments/1ibha26/exmilitary_officer_abducted_by_aliens_had)
+ - RSS feed: $source
+ - date published: 2025-01-27T19:11:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1ibha26/exmilitary_officer_abducted_by_aliens_had/"> <img src="https://external-preview.redd.it/XQDkr3CZEPFLhORewbg9yJnj1jGIl8F289lApRaY7xg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b752b7642d0a4bf3f1308fabc92530ab6d3d6a2f" alt="Ex-military officer 'abducted by aliens had conversation with 7ft mantis being'" title="Ex-military officer 'abducted by aliens had conversation with 7ft mantis being'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Rule5565"> /u/No_Rule5565 </a> <br/> <span><a href="https://www.dailystar.co.uk/news/us-news/ex-military-officer-abducted-aliens-34559195?utm_source=reddit&amp;utm_medium=post&amp;utm_campaigan=reddit">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1ibha26/exmilitary_officer_abducted_by_aliens_had/">[comments]</a></span> </td></tr></table>
+
+## Welcome to the Ram ranch
+ - [https://www.reddit.com/r/Weird/comments/1ibd1jq/welcome_to_the_ram_ranch](https://www.reddit.com/r/Weird/comments/1ibd1jq/welcome_to_the_ram_ranch)
+ - RSS feed: $source
+ - date published: 2025-01-27T16:23:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1ibd1jq/welcome_to_the_ram_ranch/"> <img src="https://external-preview.redd.it/g0fTUgqlEQSpgGlIkkUdazSRVciRrL-tcfQNu6fqYo0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6d6882168ca33e28a40856fe348118a07aa88320" alt="Welcome to the Ram ranch" title="Welcome to the Ram ranch" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Weekly_Practice_1187"> /u/Weekly_Practice_1187 </a> <br/> <span><a href="https://www.instagram.com/reel/DBaHCBPoncN/?igsh=NnN3NG5hdzI4ZXF0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1ibd1jq/welcome_to_the_ram_ranch/">[comments]</a></span> </td></tr></table>
+
+## Spotted at a bus station
+ - [https://www.reddit.com/r/Weird/comments/1ibcure/spotted_at_a_bus_station](https://www.reddit.com/r/Weird/comments/1ibcure/spotted_at_a_bus_station)
+ - RSS feed: $source
+ - date published: 2025-01-27T16:15:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1ibcure/spotted_at_a_bus_station/"> <img src="https://preview.redd.it/9mlwfwv3akfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5850ecb781ed61f267c1dd6383427e4eb272b2b5" alt="Spotted at a bus station" title="Spotted at a bus station" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TristanAtHis"> /u/TristanAtHis </a> <br/> <span><a href="https://i.redd.it/9mlwfwv3akfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1ibcure/spotted_at_a_bus_station/">[comments]</a></span> </td></tr></table>
+
+## Matching Boots, NYC
+ - [https://www.reddit.com/r/Weird/comments/1ibaot6/matching_boots_nyc](https://www.reddit.com/r/Weird/comments/1ibaot6/matching_boots_nyc)
+ - RSS feed: $source
+ - date published: 2025-01-27T14:45:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1ibaot6/matching_boots_nyc/"> <img src="https://preview.redd.it/dvukkj6wtjfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2767a455cdf158d5285eba4fe254df3ab5bf2f2" alt="Matching Boots, NYC" title="Matching Boots, NYC" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Slow-moving-sloth"> /u/Slow-moving-sloth </a> <br/> <span><a href="https://i.redd.it/dvukkj6wtjfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1ibaot6/matching_boots_nyc/">[comments]</a></span> </td></tr></table>
+
+## this chair i saw at McDonald’s
+ - [https://www.reddit.com/r/Weird/comments/1iba6nb/this_chair_i_saw_at_mcdonalds](https://www.reddit.com/r/Weird/comments/1iba6nb/this_chair_i_saw_at_mcdonalds)
+ - RSS feed: $source
+ - date published: 2025-01-27T14:21:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1iba6nb/this_chair_i_saw_at_mcdonalds/"> <img src="https://preview.redd.it/8j6v5lmspjfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2626e6b89cc1558ae4fae74c2452014d7029f3bb" alt="this chair i saw at McDonald’s" title="this chair i saw at McDonald’s" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/grandeluua"> /u/grandeluua </a> <br/> <span><a href="https://i.redd.it/8j6v5lmspjfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1iba6nb/this_chair_i_saw_at_mcdonalds/">[comments]</a></span> </td></tr></table>
+
+## Tree I saw on a walk
+ - [https://www.reddit.com/r/Weird/comments/1ib0db7/tree_i_saw_on_a_walk](https://www.reddit.com/r/Weird/comments/1ib0db7/tree_i_saw_on_a_walk)
+ - RSS feed: $source
+ - date published: 2025-01-27T05:01:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1ib0db7/tree_i_saw_on_a_walk/"> <img src="https://preview.redd.it/58sw088sxgfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=99e679768db8e6cfd99a4e8b4443c2c5a3a2daee" alt="Tree I saw on a walk" title="Tree I saw on a walk" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sammmythegr8"> /u/sammmythegr8 </a> <br/> <span><a href="https://i.redd.it/58sw088sxgfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1ib0db7/tree_i_saw_on_a_walk/">[comments]</a></span> </td></tr></table>
+
+## Parents heard a loud thunk followed by a rumble on their roof Saturday morning.
+ - [https://www.reddit.com/r/Weird/comments/1iaxv25/parents_heard_a_loud_thunk_followed_by_a_rumble](https://www.reddit.com/r/Weird/comments/1iaxv25/parents_heard_a_loud_thunk_followed_by_a_rumble)
+ - RSS feed: $source
+ - date published: 2025-01-27T02:51:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1iaxv25/parents_heard_a_loud_thunk_followed_by_a_rumble/"> <img src="https://b.thumbs.redditmedia.com/Tu6jb_ro_OzVBCplCKl8W3Hp9Rwt3E65HtUCrZu5EuY.jpg" alt="Parents heard a loud thunk followed by a rumble on their roof Saturday morning." title="Parents heard a loud thunk followed by a rumble on their roof Saturday morning." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>When they investigated they found a giant chunk of ice broken in half, my dad estimates it to be about 30&quot; long. Could it have fallen off an airplane? We do live close to a major airport, and are sometimes under the landing / take off path for one of the runways. There are no trees nearby their house, so it didn’t fall from a tree overhead. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Possibility-Distinct"> /u/Possibility-Distinct </a> <br/> <span><a href="https://www.reddit.com/gallery/1iaxv25">[link]
+
+## My grandma put mayonnaise in a water bottle
+ - [https://www.reddit.com/r/Weird/comments/1iaww3c/my_grandma_put_mayonnaise_in_a_water_bottle](https://www.reddit.com/r/Weird/comments/1iaww3c/my_grandma_put_mayonnaise_in_a_water_bottle)
+ - RSS feed: $source
+ - date published: 2025-01-27T02:00:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1iaww3c/my_grandma_put_mayonnaise_in_a_water_bottle/"> <img src="https://preview.redd.it/ou7t4tji1gfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b882c344c80e7b612e997ca94b71d0d1891861fa" alt="My grandma put mayonnaise in a water bottle" title="My grandma put mayonnaise in a water bottle" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Non_Existent07"> /u/Non_Existent07 </a> <br/> <span><a href="https://i.redd.it/ou7t4tji1gfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1iaww3c/my_grandma_put_mayonnaise_in_a_water_bottle/">[comments]</a></span> </td></tr></table>
+
+## This unknown persons car
+ - [https://www.reddit.com/r/Weird/comments/1iawmjl/this_unknown_persons_car](https://www.reddit.com/r/Weird/comments/1iawmjl/this_unknown_persons_car)
+ - RSS feed: $source
+ - date published: 2025-01-27T01:46:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1iawmjl/this_unknown_persons_car/"> <img src="https://preview.redd.it/3qrww5y2zffe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb27b4d64c88fbaa0392d56af6ab63fa2546e9ee" alt="This unknown persons car" title="This unknown persons car" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I kinda feel kinda bad for taking a pic because if they saw me it would definitely feed into their paranoia. However I did it anyway. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Human420"> /u/Human420 </a> <br/> <span><a href="https://i.redd.it/3qrww5y2zffe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1iawmjl/this_unknown_persons_car/">[comments]</a></span> </td></tr></table>
+
+## Almost wrecked my bike today…
+ - [https://www.reddit.com/r/Weird/comments/1iav6y2/almost_wrecked_my_bike_today](https://www.reddit.com/r/Weird/comments/1iav6y2/almost_wrecked_my_bike_today)
+ - RSS feed: $source
+ - date published: 2025-01-27T00:35:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1iav6y2/almost_wrecked_my_bike_today/"> <img src="https://b.thumbs.redditmedia.com/to39Wi062368IX_wp_3UEvraIeJSzmOTKZcRwpjAyws.jpg" alt="Almost wrecked my bike today…" title="Almost wrecked my bike today…" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/something_zelda"> /u/something_zelda </a> <br/> <span><a href="https://www.reddit.com/gallery/1iav6y2">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1iav6y2/almost_wrecked_my_bike_today/">[comments]</a></span> </td></tr></table>
+

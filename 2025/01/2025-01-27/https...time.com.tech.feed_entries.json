@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-27T14:45:51.680231+00:00",
+        "description": "Current & Breaking News | National & World Updates",
+        "id": 1985561,
+        "language": "en-US",
+        "link": "https://time.com/tech/feed",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tech \u2013 TIME",
+        "vote": 0
+    }
+]

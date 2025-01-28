@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-27T17:00:51+00:00",
+        "description": "You CAN upgrade your M4 Mac mini's storage to 2TB youself. It's not hard.\n\nResources mentioned in this video (for Amazon links, I earn for qualifying purchases):\n\n  - Expand Mac mini 2TB Upgrade Kit: https://expandmacmini.com/product/ssd-m4-2tb/\n  - M4-SSD 2TB Upgrade Kit: https://store.m4-ssd.com/products/2tb-drive-for-mac-mini-m4\n  - iFixit Mac mini SSD replacement guide: https://www.ifixit.com/Guide/Mac+mini+(2024)+SSD+Replacement/180199\n  - dosdude1's M4 Mac mini SSD upgrade video: https://www.youtube.com/watch?v=cJPXLE9uPr8\n  - UGREEN 40 Gbps Thunderbolt 4 NVMe Enclosure: https://amzn.to/40Omjyf\n  - UGREEN 10 Gbps USB-C NVMe Enclosure: https://amzn.to/3CC1Kf4\n  - Sabrent 2M Thunderbolt 4 Cable: https://amzn.to/3PT7YKS\n\nFyde Innovations (makers of the Expand Mac mini kit featured in this video) provided the kit for review and testing. They did not send any money, nor have any say in the content of this video (or any ability to review it before publication). See my sponsorship pol",
+        "id": 1987276,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=eLtE2kMTVOQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eLtE2kMTVOQ/hqdefault.jpg",
+        "title": "Apple's storage pricing is INSANE! Do this instead.",
+        "vote": 0
+    }
+]

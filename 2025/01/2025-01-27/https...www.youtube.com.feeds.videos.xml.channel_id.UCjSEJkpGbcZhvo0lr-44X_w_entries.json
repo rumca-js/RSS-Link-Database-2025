@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-27T19:00:23+00:00",
+        "description": "The first 500 people to use my link https://skl.sh/techhut01251 will get a 1 month free trial of Skillshare!\n\nLet's install the official IoT version of Windows in Proxmox! I wish this is how the regular windows 11 was by default. \n\nhttps://learn.microsoft.com/en-us/windows/whats-new/ltsc/overview\nhttps://github.com/microsoft/winget-cli\nGetting apps with Winget\n- Windows Camera: `winget install 9WZDNCRFJBBG`\n- Modern Calculator: `winget install 9WZDNCRFHVN5`\n- Windows 11 Clock: `winget install 9WZDNCRFJ3PR`\n- Modern Mail and Calendar: `winget install 9WZDNCRFHVQM`\n- Windows Maps: `winget install 9WZDNCRDTBVB`\n- Modern Media Player: `winget install 9WZDNCRFJ3PT`\n- Movies and TV: `winget install 9WZDNCRFJ3P2`\n- Microsoft News: `winget install 9WZDNCRFHVFW`\n- Modern Notepad: `winget install 9MSMLRH6LZF3`\n- Modern Paint: `winget install 9PCFS5B6T72H`\n- Microsoft People `winget install 9NBLGGH10PG8`\n- Modern Photos App: winget install 9WZDNCRFJBH4`\n- Windows 11 Snipping Tool: winget instal",
+        "id": 1986207,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=hVl9B3dTFB4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hVl9B3dTFB4/hqdefault.jpg",
+        "title": "Microsoft dropped the OFFICIAL Windows \"lite\"",
+        "vote": 0
+    }
+]

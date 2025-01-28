@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Cherno",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-27T10:00:50+00:00",
+        "description": "To try everything Brilliant has to offer\u2014free\u2014for a full 30 days, visit https://brilliant.org/TheCherno . You\u2019ll also get 20% off an annual premium subscription.\n\nSupport \u25ba https://patreon.com/thecherno\nDiscord \u25ba https://discord.gg/thecherno\nInstagram \u25ba https://instagram.com/thecherno\nTwitter \u25ba https://twitter.com/thecherno\n\n\ud83d\udd17 LINKS\nCubed \u25ba  https://github.com/TheCherno/Cubed\nWalnut (dev branch) \u25ba https://github.com/StudioCherno/Walnut/tree/dev\nVulkan docs \u25ba https://docs.vulkan.org/\nVulkan triangle sample \u25ba https://github.com/KhronosGroup/Vulkan-Samples/tree/main/samples/api/hello_triangle\nRenderDoc \u25ba https://renderdoc.org/\nFork (Git client) \u25ba https://git-fork.com/\n\nHazel \u25ba https://hazelengine.com\n\ud83d\udd79\ufe0f Play our latest game FREE (made in Hazel!) \u25ba https://studiocherno.itch.io/dichotomy\n\ud83c\udf0f Need web hosting? \u25ba https://hostinger.com/cherno\n\n\ud83d\udcda CHAPTERS\n0:00 - Intro\n1:26 - Vulkan resources and documentation\n6:34 - How rendering with Vulkan works\n14:34 - Installing and using the Vulkan SDK\n18:",
+        "id": 1984744,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=hSL9dCjwoCU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 419,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-W1KE9EYfdxhL6S4twUNw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hSL9dCjwoCU/hqdefault.jpg",
+        "title": "VULKAN: From 2D to 3D // C++ 3D Multiplayer Game From Scratch // LIVE TUTORIAL",
+        "vote": 0
+    }
+]

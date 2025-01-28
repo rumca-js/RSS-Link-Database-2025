@@ -1,0 +1,233 @@
+# Source:Crack Support, URL:https://www.reddit.com/r/CrackSupport/.rss, language:
+
+## Cracked Far Cry 4 mod manager not working
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibjfz0/cracked_far_cry_4_mod_manager_not_working](https://www.reddit.com/r/CrackSupport/comments/1ibjfz0/cracked_far_cry_4_mod_manager_not_working)
+ - RSS feed: $source
+ - date published: 2025-01-27T20:40:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ibjfz0/cracked_far_cry_4_mod_manager_not_working/"> <img src="https://a.thumbs.redditmedia.com/KxVeBnSqkiOdM-7vlVlsTcYAW8GcjONgRQM16jjlJ54.jpg" alt="Cracked Far Cry 4 mod manager not working" title="Cracked Far Cry 4 mod manager not working" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>It just gives me an error saying my directory wasn&#39;t found</p> <p><a href="https://preview.redd.it/q0pgoem7llfe1.png?width=764&amp;format=png&amp;auto=webp&amp;s=bd6ce1fa8bec9e65a79c3dc331b1f6e5f4f8533b">https://preview.redd.it/q0pgoem7llfe1.png?width=764&amp;format=png&amp;auto=webp&amp;s=bd6ce1fa8bec9e65a79c3dc331b1f6e5f4f8533b</a></p> <p>Installed from FGrepacks fyi</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AffectionateYard8591"> /u/AffectionateYard8591 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibjfz0/cracked_far_cry_4_mod_manager_not_worki
+
+## How do I torrent the rest of the files if I already downloaded a part of them
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibhmy9/how_do_i_torrent_the_rest_of_the_files_if_i](https://www.reddit.com/r/CrackSupport/comments/1ibhmy9/how_do_i_torrent_the_rest_of_the_files_if_i)
+ - RSS feed: $source
+ - date published: 2025-01-27T19:26:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m trying to torrent some files, I selected only a part of them to download and now I wanna download the rest but when I do the torrent client says that the torrent already exists or smth and it doesn&#39;t let me select the files I wanna download like the first time, I don&#39;t know if I explained the issue well but pls help</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DeepoRatt"> /u/DeepoRatt </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibhmy9/how_do_i_torrent_the_rest_of_the_files_if_i/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibhmy9/how_do_i_torrent_the_rest_of_the_files_if_i/">[comments]</a></span>
+
+## Planet zoo is not opening!!!
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibhi3j/planet_zoo_is_not_opening](https://www.reddit.com/r/CrackSupport/comments/1ibhi3j/planet_zoo_is_not_opening)
+ - RSS feed: $source
+ - date published: 2025-01-27T19:20:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>My <strong>Planet zoo</strong> game isn&#39;t running at all, nothing is opening, and I have Windows 11. I&#39;ve tried everything, including all the solutions on Reddit—<strong>from Steam file fixes to not running as admin</strong>—and even tried <strong>Goldberg</strong>, but nothing worked. I <strong>updated the drivers</strong> too, but it still won&#39;t run. Please, if anyone has a solution on how to run Planet Zoo in 2025, let me know. I used to have the game before, but I had deleted it, and now after reinstalling, it isn&#39;t running. <strong>Give me the solution please!!!!!!!!!!!!!!!!!!!!!!</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ExampleNo3797"> /u/ExampleNo3797 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibhi3j/planet_zoo_is_not_opening/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibhi3j/planet_zoo_is_not_openi
+
+## Changing language in AC Black Flag
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibgt4u/changing_language_in_ac_black_flag](https://www.reddit.com/r/CrackSupport/comments/1ibgt4u/changing_language_in_ac_black_flag)
+ - RSS feed: $source
+ - date published: 2025-01-27T18:53:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>I installed the fitgirl repack and it&#39;s giving me weird issue. Every time I launch the game it gives me a different language. First, it was japanese, the on second lauch it somehow became german or russian(can&#39;t really tell). How do I solve it and make it english? </p> <p>P.S: Not much of a savvy here, so please take the burden of dumbing it down a bit. Thanks! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/snow_6097"> /u/snow_6097 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibgt4u/changing_language_in_ac_black_flag/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibgt4u/changing_language_in_ac_black_flag/">[comments]</a></span>
+
+## will steam corrupt my fitgirl repacked games?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibgkd4/will_steam_corrupt_my_fitgirl_repacked_games](https://www.reddit.com/r/CrackSupport/comments/1ibgkd4/will_steam_corrupt_my_fitgirl_repacked_games)
+ - RSS feed: $source
+ - date published: 2025-01-27T18:43:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>wanted to install steam to check out something new but im worried itll affect/corrupt my fitgirl repack games.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/killdestroykill"> /u/killdestroykill </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibgkd4/will_steam_corrupt_my_fitgirl_repacked_games/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibgkd4/will_steam_corrupt_my_fitgirl_repacked_games/">[comments]</a></span>
+
+## Ac Rogue crack working needed
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibflyc/ac_rogue_crack_working_needed](https://www.reddit.com/r/CrackSupport/comments/1ibflyc/ac_rogue_crack_working_needed)
+ - RSS feed: $source
+ - date published: 2025-01-27T18:06:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been trying to get this game it&#39;s just not working, I tried skidrow, dodi, fitgirl, nothing works. I need a foolproof torrent link or a direct download link for Assassin&#39;s Creed Rogue Any help is valuable.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dotyableh"> /u/dotyableh </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibflyc/ac_rogue_crack_working_needed/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibflyc/ac_rogue_crack_working_needed/">[comments]</a></span>
+
+## Pls i need help with my gta 5
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibf9t7/pls_i_need_help_with_my_gta_5](https://www.reddit.com/r/CrackSupport/comments/1ibf9t7/pls_i_need_help_with_my_gta_5)
+ - RSS feed: $source
+ - date published: 2025-01-27T17:52:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ibf9t7/pls_i_need_help_with_my_gta_5/"> <img src="https://preview.redd.it/ui1z3fadrkfe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5cef2850503ad69d3eefbcdcb5cbbbe711e1e894" alt="Pls i need help with my gta 5" title="Pls i need help with my gta 5" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Philosopher-7727"> /u/Ok-Philosopher-7727 </a> <br/> <span><a href="https://i.redd.it/ui1z3fadrkfe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibf9t7/pls_i_need_help_with_my_gta_5/">[comments]</a></span> </td></tr></table>
+
+## Join failed: Cannot connect to host in ghost of tsushima legends
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibestt/join_failed_cannot_connect_to_host_in_ghost_of](https://www.reddit.com/r/CrackSupport/comments/1ibestt/join_failed_cannot_connect_to_host_in_ghost_of)
+ - RSS feed: $source
+ - date published: 2025-01-27T17:33:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>It happens when others try to join my party, but I also can&#39;t play online</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/insert_funnyjoke01"> /u/insert_funnyjoke01 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibestt/join_failed_cannot_connect_to_host_in_ghost_of/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibestt/join_failed_cannot_connect_to_host_in_ghost_of/">[comments]</a></span>
+
+## Anadius ''Pack download in progress'' The Sims 4
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibesfj/anadius_pack_download_in_progress_the_sims_4](https://www.reddit.com/r/CrackSupport/comments/1ibesfj/anadius_pack_download_in_progress_the_sims_4)
+ - RSS feed: $source
+ - date published: 2025-01-27T17:33:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>hello! i have a base game from Steam on Windows and always used an updater, it worked perfectly. when i updated it in november after the life and death ep, the game started lagging and there was a &quot;pack download in progress&quot; notification, but the updater said that everything is installed and all the packs are in the game working fine. except, i noticed that there are missing objects from the packs, for example, i have only half of the objects from the &quot;everyday clutter&quot; kit. i tried everything: repaired the game, deleted it and installed again, i waited thinking that it will download later (the notification said so), i even reinstalled my windows thinking the problem is my laptop, i also moved the folder ts4 from the electronic arts as it said in troubleshooting guide, but nothing works. and here i am three months later with the same problem: the game is lagging, the notification is still here, and some objects are still missing e
+
+## COD safe to play?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibef62/cod_safe_to_play](https://www.reddit.com/r/CrackSupport/comments/1ibef62/cod_safe_to_play)
+ - RSS feed: $source
+ - date published: 2025-01-27T17:18:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>Most cod games nowadays have RCE exploits when playing online, and so I was wondering if cod games from fitgirl are offline only/safe to play?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Revolutionary-Pea574"> /u/Revolutionary-Pea574 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibef62/cod_safe_to_play/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibef62/cod_safe_to_play/">[comments]</a></span>
+
+## Need a JWE2 crack
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibd4lt/need_a_jwe2_crack](https://www.reddit.com/r/CrackSupport/comments/1ibd4lt/need_a_jwe2_crack)
+ - RSS feed: $source
+ - date published: 2025-01-27T16:26:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone! I’m fairly new to this subreddit so I will make this short. I could really use some cracked up Jurassic World Evolution 2 with all the dlcs, so far I just found the launch premium edition which is 1.3.1 and thus I cannot obtain the other dlcs. I really enjoy the game but I want the other DLCs without having to buy it. Thank you for your time and help if you read it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PandaImi07"> /u/PandaImi07 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibd4lt/need_a_jwe2_crack/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibd4lt/need_a_jwe2_crack/">[comments]</a></span>
+
+## Failed to start Denuvo driver. Error code: 2148204812
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibbj52/failed_to_start_denuvo_driver_error_code](https://www.reddit.com/r/CrackSupport/comments/1ibbj52/failed_to_start_denuvo_driver_error_code)
+ - RSS feed: $source
+ - date published: 2025-01-27T15:21:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just downloaded Sonic Mania from fitgirl. I tried to open it but an error message appeared saying &quot;Failed to start Denuvo driver.&quot; I heard there is an alternative version at PLAZA but I also heard that PLAZA had shut down, so i don&#39;t know if the links still work or would give me a virus. I try to download the game from PLAZA using a virtual box, but it just directed me to the steam page. And after I shut down the virtual box my laptop had a blue screen which scares me to death...</p> <p>Is there any way to bypass denuvo?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Okra9504"> /u/No_Okra9504 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibbj52/failed_to_start_denuvo_driver_error_code/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibbj52/failed_to_start_denuvo_driver_error_code/">[comments]</a></span>
+
+## Issues with hogwarts legacy!
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibbh3v/issues_with_hogwarts_legacy](https://www.reddit.com/r/CrackSupport/comments/1ibbh3v/issues_with_hogwarts_legacy)
+ - RSS feed: $source
+ - date published: 2025-01-27T15:19:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Anyone face any crashing when collecting collectible scrolls? Tried turning down shadow quality to medium to try and fix it but then entire pc restarted on its own... Been struggling with crashes and can&#39;t even play 20mins</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zzero00"> /u/Zzero00 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibbh3v/issues_with_hogwarts_legacy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibbh3v/issues_with_hogwarts_legacy/">[comments]</a></span>
+
+## Im unable to start my game
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibbev0/im_unable_to_start_my_game](https://www.reddit.com/r/CrackSupport/comments/1ibbev0/im_unable_to_start_my_game)
+ - RSS feed: $source
+ - date published: 2025-01-27T15:16:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ibbev0/im_unable_to_start_my_game/"> <img src="https://preview.redd.it/4xisyjcjzjfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a668942ff26a144c03e7c57eda9b61ebe3d30d9" alt="Im unable to start my game" title="Im unable to start my game" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I followed every instruction in the trouble shooter, and it still crashed. Then, I tried the validator and nothing came up, but my game still wont run. What do i do?</p> <p>Game version: 1.112.481.1030 Game-cracked version: 1.112.481.1030 Crack version: 1.112.481.1030 Folder: The Sims 4 Crack used: ANADIUS Hash mismatch:</p> <p>Missing files:</p> <p>Unknown files:</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kittygirltabby"> /u/kittygirltabby </a> <br/> <span><a href="https://i.redd.it/4xisyjcjzjfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSuppo
+
+## How to get GEOMETRY DASH on pc for free?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibb69f/how_to_get_geometry_dash_on_pc_for_free](https://www.reddit.com/r/CrackSupport/comments/1ibb69f/how_to_get_geometry_dash_on_pc_for_free)
+ - RSS feed: $source
+ - date published: 2025-01-27T15:06:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know I know, it&#39;s just a 4$ game just buy it, but you know I can&#39;t. Cuz I don&#39;t live in us and 4$ in my country is a lot and I can&#39;t buy it. Sooo..... Does anyone have a virus free link for windows 10 GD2. 207? Pls I beg of you 🙏</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Informal_Cup_8206"> /u/Informal_Cup_8206 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibb69f/how_to_get_geometry_dash_on_pc_for_free/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibb69f/how_to_get_geometry_dash_on_pc_for_free/">[comments]</a></span>
+
+## Need help
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibavfk/need_help](https://www.reddit.com/r/CrackSupport/comments/1ibavfk/need_help)
+ - RSS feed: $source
+ - date published: 2025-01-27T14:53:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, I&#39;ve recently gotten into crack and I think I&#39;m addicted, I&#39;m not really sure how to stop, I&#39;m always falling asleep with my crack pipe in my hands.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thevirgingangster"> /u/thevirgingangster </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibavfk/need_help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibavfk/need_help/">[comments]</a></span>
+
+## Any way to launch a BAT file from steam?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibaoz4/any_way_to_launch_a_bat_file_from_steam](https://www.reddit.com/r/CrackSupport/comments/1ibaoz4/any_way_to_launch_a_bat_file_from_steam)
+ - RSS feed: $source
+ - date published: 2025-01-27T14:45:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently downloaded the GTAV fitgirl repack because I was sick of logging into my other steam account to play. The only issue is that it can only be opened from the desktop shortcut or t BAT file, the GTAV exe and PlayGTA eve don’t open. </p> <p>I’ve tried “add non steam game”&gt;all files&gt;Playgta.bat but this doesn’t add it to my steam library</p> <p>I’m asking because I hook my PC up to my TV so it would be nice to be able to launch it in big picture mode. Not a big deal if not but it would be nice if someone had a solution</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/infinitegarlicbread"> /u/infinitegarlicbread </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibaoz4/any_way_to_launch_a_bat_file_from_steam/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibaoz4/any_way_to_launch_a_bat_file_from_steam/">[comments]</a></span>
+
+## anyone knows how do i mod the sims 4 if i cracked it?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ibaj7x/anyone_knows_how_do_i_mod_the_sims_4_if_i_cracked](https://www.reddit.com/r/CrackSupport/comments/1ibaj7x/anyone_knows_how_do_i_mod_the_sims_4_if_i_cracked)
+ - RSS feed: $source
+ - date published: 2025-01-27T14:38:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>as the title says i need some help understanding how i mod this, downloaded from steam unlocked</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nate_so"> /u/Nate_so </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibaj7x/anyone_knows_how_do_i_mod_the_sims_4_if_i_cracked/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ibaj7x/anyone_knows_how_do_i_mod_the_sims_4_if_i_cracked/">[comments]</a></span>
+
+## [STEAMRIP] Why can't I access the other DLC's in Total War Rome II?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ib9nli/steamrip_why_cant_i_access_the_other_dlcs_in](https://www.reddit.com/r/CrackSupport/comments/1ib9nli/steamrip_why_cant_i_access_the_other_dlcs_in)
+ - RSS feed: $source
+ - date published: 2025-01-27T13:57:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ib9nli/steamrip_why_cant_i_access_the_other_dlcs_in/"> <img src="https://b.thumbs.redditmedia.com/993kiUIUGo16M3-Y9gHFW75NcdTMrC7i2tg8TVlsSlE.jpg" alt="[STEAMRIP] Why can't I access the other DLC's in Total War Rome II?" title="[STEAMRIP] Why can't I access the other DLC's in Total War Rome II?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Other DLCs ( such as Empire Divided, Wrath of Sparta ) and culture packs are all disabled for me, and are all still locked behind a paywall, only Imperator Augustus is available as of currently and the grand campaign. Anyone know how to fix this? ( Image below ).</p> <p><a href="https://preview.redd.it/mpw246acljfe1.png?width=734&amp;format=png&amp;auto=webp&amp;s=51cd46519ed7275b7b71fc99b862b849e1ee5cf4">Data folder, as you can see most DLC&#39;s are there</a></p> <p><a href="https://preview.redd.it/oqdaut1aljfe1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=2f100
+
+## HELP! I can't find a fix, i tried every solution i found online but they just won't work
+ - [https://www.reddit.com/r/CrackSupport/comments/1ib9gh0/help_i_cant_find_a_fix_i_tried_every_solution_i](https://www.reddit.com/r/CrackSupport/comments/1ib9gh0/help_i_cant_find_a_fix_i_tried_every_solution_i)
+ - RSS feed: $source
+ - date published: 2025-01-27T13:47:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ib9gh0/help_i_cant_find_a_fix_i_tried_every_solution_i/"> <img src="https://preview.redd.it/kkj3n4lfjjfe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ea8e746af094d5307de0321926d4e779e38bcc03" alt="HELP! I can't find a fix, i tried every solution i found online but they just won't work" title="HELP! I can't find a fix, i tried every solution i found online but they just won't work" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MelodicWork6537"> /u/MelodicWork6537 </a> <br/> <span><a href="https://i.redd.it/kkj3n4lfjjfe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ib9gh0/help_i_cant_find_a_fix_i_tried_every_solution_i/">[comments]</a></span> </td></tr></table>
+
+## Anyone have the cracked version of city car driving 1.2?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ib8zfk/anyone_have_the_cracked_version_of_city_car](https://www.reddit.com/r/CrackSupport/comments/1ib8zfk/anyone_have_the_cracked_version_of_city_car)
+ - RSS feed: $source
+ - date published: 2025-01-27T13:26:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>i have the latest version of ccd on steam but i want an older version, i did get 1.2 but i need a cracked installer</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BoredMantis19"> /u/BoredMantis19 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ib8zfk/anyone_have_the_cracked_version_of_city_car/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ib8zfk/anyone_have_the_cracked_version_of_city_car/">[comments]</a></span>
+
+## can someone guide me
+ - [https://www.reddit.com/r/CrackSupport/comments/1ib8se3/can_someone_guide_me](https://www.reddit.com/r/CrackSupport/comments/1ib8se3/can_someone_guide_me)
+ - RSS feed: $source
+ - date published: 2025-01-27T13:18:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ib8se3/can_someone_guide_me/"> <img src="https://preview.redd.it/cly5d34gejfe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=22e2da6e54a2699b7ee05815a04b8d2ca93d52e0" alt="can someone guide me" title="can someone guide me" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/InnerAmoeba2008"> /u/InnerAmoeba2008 </a> <br/> <span><a href="https://i.redd.it/cly5d34gejfe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ib8se3/can_someone_guide_me/">[comments]</a></span> </td></tr></table>
+
+## can someone guide me
+ - [https://www.reddit.com/r/CrackSupport/comments/1ib8sdr/can_someone_guide_me](https://www.reddit.com/r/CrackSupport/comments/1ib8sdr/can_someone_guide_me)
+ - RSS feed: $source
+ - date published: 2025-01-27T13:18:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ib8sdr/can_someone_guide_me/"> <img src="https://preview.redd.it/cly5d34gejfe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=22e2da6e54a2699b7ee05815a04b8d2ca93d52e0" alt="can someone guide me" title="can someone guide me" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/InnerAmoeba2008"> /u/InnerAmoeba2008 </a> <br/> <span><a href="https://i.redd.it/cly5d34gejfe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ib8sdr/can_someone_guide_me/">[comments]</a></span> </td></tr></table>
+
+## Installing a crack— says choose a destination location but it won’t work even though “folder exists” ?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ib6i54/installing_a_crack_says_choose_a_destination](https://www.reddit.com/r/CrackSupport/comments/1ib6i54/installing_a_crack_says_choose_a_destination)
+ - RSS feed: $source
+ - date published: 2025-01-27T11:28:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ib6i54/installing_a_crack_says_choose_a_destination/"> <img src="https://preview.redd.it/jn8b71mvuife1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e567798e7a01d94bc8c85984965ba10fa7f1622" alt="Installing a crack— says choose a destination location but it won’t work even though “folder exists” ?" title="Installing a crack— says choose a destination location but it won’t work even though “folder exists” ?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I am not tech savvy at all. I don’t know much about cracks. And this is my first time owning a windows 11. So uh… </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Current_Cup_6686"> /u/Current_Cup_6686 </a> <br/> <span><a href="https://i.redd.it/jn8b71mvuife1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ib6i54/installing_a_crack_says_choose_a_destination/">[comments]<
+
+## Rdr2 Photomode Fitgirl Repack Problem
+ - [https://www.reddit.com/r/CrackSupport/comments/1ib5a5z/rdr2_photomode_fitgirl_repack_problem](https://www.reddit.com/r/CrackSupport/comments/1ib5a5z/rdr2_photomode_fitgirl_repack_problem)
+ - RSS feed: $source
+ - date published: 2025-01-27T10:21:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I downloaded rdr2 on Fitgirl Repack it works fine and the gameplay experience is good and then suddenly i found a place that i just want to save. But I can&#39;t save it in my windows. it just shows a broken image. Please Help me</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tachibana_Haki"> /u/Tachibana_Haki </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ib5a5z/rdr2_photomode_fitgirl_repack_problem/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ib5a5z/rdr2_photomode_fitgirl_repack_problem/">[comments]</a></span>
+
+## Forza 5
+ - [https://www.reddit.com/r/CrackSupport/comments/1ib2pzi/forza_5](https://www.reddit.com/r/CrackSupport/comments/1ib2pzi/forza_5)
+ - RSS feed: $source
+ - date published: 2025-01-27T07:38:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Does anyone have a save game or a method to get money? Any trainers etc. (my game is the fitgirl version)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheoSNTz"> /u/TheoSNTz </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ib2pzi/forza_5/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ib2pzi/forza_5/">[comments]</a></span>
+
+## Cracked safe topaz video ai??
+ - [https://www.reddit.com/r/CrackSupport/comments/1ib29w3/cracked_safe_topaz_video_ai](https://www.reddit.com/r/CrackSupport/comments/1ib29w3/cracked_safe_topaz_video_ai)
+ - RSS feed: $source
+ - date published: 2025-01-27T07:06:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>is there anyway to get topaz video ai for free without any virus. got any suggestion or trusted website???</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KangarooDependent895"> /u/KangarooDependent895 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ib29w3/cracked_safe_topaz_video_ai/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ib29w3/cracked_safe_topaz_video_ai/">[comments]</a></span>
+
+## How to do this?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ib0x74/how_to_do_this](https://www.reddit.com/r/CrackSupport/comments/1ib0x74/how_to_do_this)
+ - RSS feed: $source
+ - date published: 2025-01-27T05:34:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ib0x74/how_to_do_this/"> <img src="https://preview.redd.it/evwxiw3q3hfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=05408094a7018c97b09a20628050272dfd18caf7" alt="How to do this?" title="How to do this?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I can&#39;t seem to find the launcher after the setup using EMPRESS repack from 1337x</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Euphoric_Reveal_6522"> /u/Euphoric_Reveal_6522 </a> <br/> <span><a href="https://i.redd.it/evwxiw3q3hfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ib0x74/how_to_do_this/">[comments]</a></span> </td></tr></table>
+
+## Is the fitgirl repacks dead now ?
+ - [https://www.reddit.com/r/CrackSupport/comments/1iazmfq/is_the_fitgirl_repacks_dead_now](https://www.reddit.com/r/CrackSupport/comments/1iazmfq/is_the_fitgirl_repacks_dead_now)
+ - RSS feed: $source
+ - date published: 2025-01-27T04:18:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Because whenever I click on their website link it just keeps loading and after some time shows an error (this site takes too long to respond).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/The-Nightshade002"> /u/The-Nightshade002 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iazmfq/is_the_fitgirl_repacks_dead_now/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iazmfq/is_the_fitgirl_repacks_dead_now/">[comments]</a></span>
+
+## Forza horizon 5
+ - [https://www.reddit.com/r/CrackSupport/comments/1iayany/forza_horizon_5](https://www.reddit.com/r/CrackSupport/comments/1iayany/forza_horizon_5)
+ - RSS feed: $source
+ - date published: 2025-01-27T03:13:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>i downloaded forza from dodi repack but i don&#39;t have online can anyone help</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CerberusX33"> /u/CerberusX33 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iayany/forza_horizon_5/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iayany/forza_horizon_5/">[comments]</a></span>
+
+## Weird exe files after download?
+ - [https://www.reddit.com/r/CrackSupport/comments/1iaxmpd/weird_exe_files_after_download](https://www.reddit.com/r/CrackSupport/comments/1iaxmpd/weird_exe_files_after_download)
+ - RSS feed: $source
+ - date published: 2025-01-27T02:38:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1iaxmpd/weird_exe_files_after_download/"> <img src="https://preview.redd.it/d449xt3b8gfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bb5380c165f3eeb961f8e063ac596fb764b3092d" alt="Weird exe files after download?" title="Weird exe files after download?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>so i installed ff7 rebirth from fairlight last night, and i noticed a weird file called arc.exe running in the background, im not very well versed in coding and stuff and just thought it was weird along with the python files. is there anything to be worried about? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silent_Ad_1557"> /u/Silent_Ad_1557 </a> <br/> <span><a href="https://i.redd.it/d449xt3b8gfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iaxmpd/weird_exe_files_after_download/">[comments]</a></span> </td></tr></
+
+## Please Help
+ - [https://www.reddit.com/r/CrackSupport/comments/1iawvic/please_help](https://www.reddit.com/r/CrackSupport/comments/1iawvic/please_help)
+ - RSS feed: $source
+ - date published: 2025-01-27T01:59:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1iawvic/please_help/"> <img src="https://b.thumbs.redditmedia.com/oowKTHp5BBac1PgIgjY6AhFwMjZjjD13XG5zoH26s9U.jpg" alt="Please Help" title="Please Help" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/dc7pqugb1gfe1.png?width=394&amp;format=png&amp;auto=webp&amp;s=69e2d7bae26e3007e6ca914d9a3121a31799694f">https://preview.redd.it/dc7pqugb1gfe1.png?width=394&amp;format=png&amp;auto=webp&amp;s=69e2d7bae26e3007e6ca914d9a3121a31799694f</a></p> <p>What does this mean?</p> <p>and what can I do to fix this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ornery_Cheetah_1060"> /u/Ornery_Cheetah_1060 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iawvic/please_help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iawvic/please_help/">[comments]</a></span> </td></tr></table>
+
+## hi, help needed. Fitgirl Repacks.
+ - [https://www.reddit.com/r/CrackSupport/comments/1iavot3/hi_help_needed_fitgirl_repacks](https://www.reddit.com/r/CrackSupport/comments/1iavot3/hi_help_needed_fitgirl_repacks)
+ - RSS feed: $source
+ - date published: 2025-01-27T00:59:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m using a Chromebook. I recently bought <em>Needy Streamer Overload</em> on Steam. I cannot install Steam. I&#39;m going to play my game. One way or another.</p> <p>Can somebody help me set up? I do not know what to click.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mikeyway776"> /u/mikeyway776 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iavot3/hi_help_needed_fitgirl_repacks/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iavot3/hi_help_needed_fitgirl_repacks/">[comments]</a></span>
+

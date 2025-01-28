@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-27T08:59:16+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>A huge upside to RSS would be avoiding ads and cookies, but whats the point if 4/5 articles require you to open the website for the source?</p> <p>Using feedly on an iPhone, any suggestions would be great </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VBottas\"> /u/VBottas </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1ib3x1d/i_dont_get_rss_whats_the_point_for_using_a_reader/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1ib3x1d/i_dont_get_rss_whats_the_point_for_using_a_reader/\">[comments]</a></span>",
+        "id": 1982049,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1ib3x1d/i_dont_get_rss_whats_the_point_for_using_a_reader",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I dont get RSS. Whats the point for using a reader like feedly, if the articles open in their native website",
+        "vote": 0
+    }
+]

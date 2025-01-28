@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-27T15:07:11+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nRefactoring C++ Code for Unit testing with Dependency Injection - Peter Muldoon - CppCon 2024\n---\n\nA key principle for testing code is the concept of dependency injection aka the ability to swap out functionality of key components. This feature allows not only for easier code testability but also promotes well structured code that is more extensible and flexible beyond its original use cases.\n\nIn this talk, we will explore the basic building blocks that can be used for Dependency injection like link-time substitution, dummies, Interfaces via Inheritance, templates and polymorphic function wrappers. What are their strengths and weaknesses and the problem space they best serve.\n\nBut what exactly is good dependency injection and what are good/bad strategies for employing these building blocks ?\n\nHow do you inject multiple dependencies into classes/functions without going down the road to singletons, factories and global state ? We will also show how to introduce",
+        "id": 1986239,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=as5Z45G59Ws",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/as5Z45G59Ws/hqdefault.jpg",
+        "title": "Refactoring C++ Code for Unit testing with Dependency Injection - Peter Muldoon - CppCon 2024",
+        "vote": 0
+    }
+]

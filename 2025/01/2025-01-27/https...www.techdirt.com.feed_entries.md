@@ -1,0 +1,37 @@
+# Source:Techdirt, URL:https://www.techdirt.com/feed, language:en-US
+
+## Trump’s PCLOB Purge Risks Banning Meta, ExTwitter, Google, And Even Truth Social From Europe
+ - [https://www.techdirt.com/2025/01/27/trumps-pclob-purge-risks-banning-meta-extwitter-google-and-even-truth-social-from-europe](https://www.techdirt.com/2025/01/27/trumps-pclob-purge-risks-banning-meta-extwitter-google-and-even-truth-social-from-europe)
+ - RSS feed: $source
+ - date published: 2025-01-27T20:36:34+00:00
+
+In his latest &#8220;drain the swamp&#8221; move that will actually flood the entire ecosystem, Trump demanded the Democratic members of the Privacy and Civil Liberties Oversight Board (PCLOB) resign immediately. This may sound like just more petty partisan BS, but it could have huge unintended consequences, including for Trump&#8217;s own companies. Sometimes it helps to [&#8230;]
+
+## Trump Continues To Gut Meaningful Gov’t Oversight, Fires At Least 15 Inspectors General
+ - [https://www.techdirt.com/2025/01/27/trump-continues-to-gut-meaningful-govt-oversight-fires-at-least-15-inspectors-general](https://www.techdirt.com/2025/01/27/trump-continues-to-gut-meaningful-govt-oversight-fires-at-least-15-inspectors-general)
+ - RSS feed: $source
+ - date published: 2025-01-27T19:00:52+00:00
+
+The Trump Administration is apparently going to be a law unto itself. There have been plenty of people put up against the wall in recent days, but the weekend concluded with Donald Trump &#8212; perhaps illegally &#8212; firing at least 15 Inspectors General. This mass firing leaves the Defense Department, State Department, Department of Veterans [&#8230;]
+
+## Daily Deal: EDU Unlimited by StackSkills
+ - [https://www.techdirt.com/2025/01/27/daily-deal-edu-unlimited-by-stackskills-2](https://www.techdirt.com/2025/01/27/daily-deal-edu-unlimited-by-stackskills-2)
+ - RSS feed: $source
+ - date published: 2025-01-27T18:56:06+00:00
+
+StackSkills is the premier online learning platform for mastering today&#8217;s most in-demand skills. Now, with this exclusive limited-time offer, you&#8217;ll gain access to 1000+ StackSkills courses for life! Whether you&#8217;re looking to earn a promotion, make a career change, or pick up a side hustle to make some extra cash, StackSkills delivers engaging online courses [&#8230;]
+
+## Empowering Users, Not Overlords: Overcoming Digital Helplessness
+ - [https://www.techdirt.com/2025/01/27/empowering-users-not-overlords-overcoming-digital-helplessness](https://www.techdirt.com/2025/01/27/empowering-users-not-overlords-overcoming-digital-helplessness)
+ - RSS feed: $source
+ - date published: 2025-01-27T17:38:19+00:00
+
+Disclosure:&#160;I’m on&#160;the board of Bluesky, so feel free to take as many grains of salt as you want in reading it, though all of it applies equally to other decentralized social media ecosystems. The internet was supposed to liberate us. Instead, it&#8217;s left us feeling helpless, waiting for billionaires, governments, and tech giants to save [&#8230;]
+
+## New FCC Boss Brendan Carr Is Big Mad The Biden FCC Tried To Shore Up Telecom Cybersecurity Rules After Embarrassing Industry Hack
+ - [https://www.techdirt.com/2025/01/27/new-fcc-boss-brendan-carr-is-big-mad-the-biden-fcc-tried-to-shore-up-telecom-cybersecurity-rules-after-embarrassing-industry-hack](https://www.techdirt.com/2025/01/27/new-fcc-boss-brendan-carr-is-big-mad-the-biden-fcc-tried-to-shore-up-telecom-cybersecurity-rules-after-embarrassing-industry-hack)
+ - RSS feed: $source
+ - date published: 2025-01-27T13:33:19+00:00
+
+Late last year eight major U.S. telecoms were the victim of&#160;a massive intrusion by Chinese hackers&#160;who managed to spy on public U.S. officials for months. The “Salt Typhoon” hack was so severe, the intruders spent much of the last year rooting around the ISP networks even after discovery. AT&#38;T and Verizon, two of the compromised [&#8230;]
+

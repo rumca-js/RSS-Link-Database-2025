@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-27T16:25:33+00:00",
+        "description": "'For now, the initial reaction is to sell first and ask questions later,' said Jay Woods, chief global strategist for Freedom Capital Markets.",
+        "id": 1986835,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/business/nasdaq-falls-3-percent-as-chinas-deepseek-ai-ignites-market-rout-5799376",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/01/27/id5799500-GettyImages-2164984365_web-LSedit-1080x720.jpg",
+        "title": "Nasdaq Falls 3 Percent as China\u2019s DeepSeek AI Ignites Market Rout",
+        "vote": 0
+    }
+]

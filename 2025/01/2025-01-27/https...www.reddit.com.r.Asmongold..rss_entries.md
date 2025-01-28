@@ -1,0 +1,268 @@
+# Source:Asmongold, URL:https://www.reddit.com/r/Asmongold/.rss, language:en
+
+## Ubi just can't catch a break
+ - [https://www.reddit.com/r/Asmongold/comments/1ibhvvf/ubi_just_cant_catch_a_break](https://www.reddit.com/r/Asmongold/comments/1ibhvvf/ubi_just_cant_catch_a_break)
+ - RSS feed: $source
+ - date published: 2025-01-27T19:36:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ibhvvf/ubi_just_cant_catch_a_break/"> <img src="https://preview.redd.it/wa8cvovu9lfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b576653afb34d8c5d95406a134ee6289ebb02ec6" alt="Ubi just can't catch a break" title="Ubi just can't catch a break" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Source: <a href="https://x.com/kangminjlee/status/1883760034309685368?t=_SJ3EaLbT5Up7zKwVf7Ejg&amp;s=19">https://x.com/kangminjlee/status/1883760034309685368?t=_SJ3EaLbT5Up7zKwVf7Ejg&amp;s=19</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SebaFedele"> /u/SebaFedele </a> <br/> <span><a href="https://i.redd.it/wa8cvovu9lfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ibhvvf/ubi_just_cant_catch_a_break/">[comments]</a></span> </td></tr></table>
+
+## Peak cinema
+ - [https://www.reddit.com/r/Asmongold/comments/1ibhp94/peak_cinema](https://www.reddit.com/r/Asmongold/comments/1ibhp94/peak_cinema)
+ - RSS feed: $source
+ - date published: 2025-01-27T19:28:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ibhp94/peak_cinema/"> <img src="https://external-preview.redd.it/YWNlZXgwa2o4bGZlMdX5mbJYSTV6kjbAf23fFcr9N7Avi5tqkcYre3e53tjm.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=bb5bdd445be562a3b28a57ab234c88d2fa8c72d7" alt="Peak cinema" title="Peak cinema" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/d0ct0r_trash"> /u/d0ct0r_trash </a> <br/> <span><a href="https://v.redd.it/oihsdrnj8lfe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ibhp94/peak_cinema/">[comments]</a></span> </td></tr></table>
+
+## When you gotta take your gaming ancestors credit.
+ - [https://www.reddit.com/r/Asmongold/comments/1ibgie4/when_you_gotta_take_your_gaming_ancestors_credit](https://www.reddit.com/r/Asmongold/comments/1ibgie4/when_you_gotta_take_your_gaming_ancestors_credit)
+ - RSS feed: $source
+ - date published: 2025-01-27T18:41:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ibgie4/when_you_gotta_take_your_gaming_ancestors_credit/"> <img src="https://preview.redd.it/saefcjhvzkfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eba838f45e28ce925098ccc916f8837f7e2dea9d" alt="When you gotta take your gaming ancestors credit." title="When you gotta take your gaming ancestors credit." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FantasticSize3879"> /u/FantasticSize3879 </a> <br/> <span><a href="https://i.redd.it/saefcjhvzkfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ibgie4/when_you_gotta_take_your_gaming_ancestors_credit/">[comments]</a></span> </td></tr></table>
+
+## Give it 10 more years boys
+ - [https://www.reddit.com/r/Asmongold/comments/1ibfxtc/give_it_10_more_years_boys](https://www.reddit.com/r/Asmongold/comments/1ibfxtc/give_it_10_more_years_boys)
+ - RSS feed: $source
+ - date published: 2025-01-27T18:18:42+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Big_Relationship752"> /u/Big_Relationship752 </a> <br/> <span><a href="https://v.redd.it/3z9irp16rife1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ibfxtc/give_it_10_more_years_boys/">[comments]</a></span>
+
+## Breaking news! Asmon caught!
+ - [https://www.reddit.com/r/Asmongold/comments/1ibfv1w/breaking_news_asmon_caught](https://www.reddit.com/r/Asmongold/comments/1ibfv1w/breaking_news_asmon_caught)
+ - RSS feed: $source
+ - date published: 2025-01-27T18:15:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ibfv1w/breaking_news_asmon_caught/"> <img src="https://external-preview.redd.it/NWVnbGl2NGh2a2ZlMTMxHsfeNjkcWdmk73VoRjG0CXMiE7Wl0G8zgd4YZUHF.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=754c235009358edbd1f0d858f2c518f8ddc68cc9" alt="Breaking news! Asmon caught!" title="Breaking news! Asmon caught!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Local man caught Asmongold with his new woman heading to the store. We support you king! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PrebuiltMSI"> /u/PrebuiltMSI </a> <br/> <span><a href="https://v.redd.it/y0uns8ahvkfe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ibfv1w/breaking_news_asmon_caught/">[comments]</a></span> </td></tr></table>
+
+## Shadow of War combat is beautiful
+ - [https://www.reddit.com/r/Asmongold/comments/1ibewyl/shadow_of_war_combat_is_beautiful](https://www.reddit.com/r/Asmongold/comments/1ibewyl/shadow_of_war_combat_is_beautiful)
+ - RSS feed: $source
+ - date published: 2025-01-27T17:38:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ibewyl/shadow_of_war_combat_is_beautiful/"> <img src="https://external-preview.redd.it/aDF1MXo2aHNva2ZlMZavs7xV7ix4_iW3nVHupTZWeYH0yIceBOo7-wvZs3w-.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=90de03c59074b03bd7145a198cab9775e1b38674" alt="Shadow of War combat is beautiful" title="Shadow of War combat is beautiful" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Old but still gold </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mini-Boza"> /u/Mini-Boza </a> <br/> <span><a href="https://v.redd.it/yu90avlsokfe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ibewyl/shadow_of_war_combat_is_beautiful/">[comments]</a></span> </td></tr></table>
+
+## Equally scary for the cat
+ - [https://www.reddit.com/r/Asmongold/comments/1ibe32z/equally_scary_for_the_cat](https://www.reddit.com/r/Asmongold/comments/1ibe32z/equally_scary_for_the_cat)
+ - RSS feed: $source
+ - date published: 2025-01-27T17:05:12+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Gunzmo1337"> /u/Gunzmo1337 </a> <br/> <span><a href="https://v.redd.it/4sdhrdimcdfe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ibe32z/equally_scary_for_the_cat/">[comments]</a></span>
+
+## I felt like this belongs in here
+ - [https://www.reddit.com/r/Asmongold/comments/1ibdyh5/i_felt_like_this_belongs_in_here](https://www.reddit.com/r/Asmongold/comments/1ibdyh5/i_felt_like_this_belongs_in_here)
+ - RSS feed: $source
+ - date published: 2025-01-27T17:00:34+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Johnsworth61"> /u/Johnsworth61 </a> <br/> <span><a href="https://v.redd.it/ata08ku59dbd1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ibdyh5/i_felt_like_this_belongs_in_here/">[comments]</a></span>
+
+## Ubisoft announces studio closure as it lays off 185 staff
+ - [https://www.reddit.com/r/Asmongold/comments/1ibdxdb/ubisoft_announces_studio_closure_as_it_lays_off](https://www.reddit.com/r/Asmongold/comments/1ibdxdb/ubisoft_announces_studio_closure_as_it_lays_off)
+ - RSS feed: $source
+ - date published: 2025-01-27T16:59:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ubisoft is cooked. Let the countdown begin.</p> <p><a href="https://www.eurogamer.net/ubisoft-announces-studio-closure-as-it-lays-off-185-staff">https://www.eurogamer.net/ubisoft-announces-studio-closure-as-it-lays-off-185-staff</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gagi114"> /u/Gagi114 </a> <br/> <span><a href="https://www.reddit.com/r/Asmongold/comments/1ibdxdb/ubisoft_announces_studio_closure_as_it_lays_off/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ibdxdb/ubisoft_announces_studio_closure_as_it_lays_off/">[comments]</a></span>
+
+## New Avowed gameplay !
+ - [https://www.reddit.com/r/Asmongold/comments/1ibddrn/new_avowed_gameplay](https://www.reddit.com/r/Asmongold/comments/1ibddrn/new_avowed_gameplay)
+ - RSS feed: $source
+ - date published: 2025-01-27T16:37:18+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ranai569"> /u/ranai569 </a> <br/> <span><a href="https://v.redd.it/da6tnzwgxife1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ibddrn/new_avowed_gameplay/">[comments]</a></span>
+
+## Assassins Creed News page is not doing very well…
+ - [https://www.reddit.com/r/Asmongold/comments/1ibcdnn/assassins_creed_news_page_is_not_doing_very_well](https://www.reddit.com/r/Asmongold/comments/1ibcdnn/assassins_creed_news_page_is_not_doing_very_well)
+ - RSS feed: $source
+ - date published: 2025-01-27T15:56:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ibcdnn/assassins_creed_news_page_is_not_doing_very_well/"> <img src="https://external-preview.redd.it/eWtqam00eGs2a2ZlMcut44O6focM80qao-dSkW784n_zWyDCLe3KT53-lVFi.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b9af522892249140f597e2952ca4f28882bf791" alt="Assassins Creed News page is not doing very well…" title="Assassins Creed News page is not doing very well…" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lacryman"> /u/Lacryman </a> <br/> <span><a href="https://v.redd.it/xo1np4xk6kfe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ibcdnn/assassins_creed_news_page_is_not_doing_very_well/">[comments]</a></span> </td></tr></table>
+
+## I think we all would like one.
+ - [https://www.reddit.com/r/Asmongold/comments/1ibc8l2/i_think_we_all_would_like_one](https://www.reddit.com/r/Asmongold/comments/1ibc8l2/i_think_we_all_would_like_one)
+ - RSS feed: $source
+ - date published: 2025-01-27T15:50:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ibc8l2/i_think_we_all_would_like_one/"> <img src="https://preview.redd.it/ujww7q6znjfe1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=685292d7a6b0dd95111c063f597495948a70456a" alt="I think we all would like one." title="I think we all would like one." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Vempire1412"> /u/Vempire1412 </a> <br/> <span><a href="https://i.redd.it/ujww7q6znjfe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ibc8l2/i_think_we_all_would_like_one/">[comments]</a></span> </td></tr></table>
+
+## My man!
+ - [https://www.reddit.com/r/Asmongold/comments/1ibc5ye/my_man](https://www.reddit.com/r/Asmongold/comments/1ibc5ye/my_man)
+ - RSS feed: $source
+ - date published: 2025-01-27T15:46:59+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Vempire1412"> /u/Vempire1412 </a> <br/> <span><a href="https://v.redd.it/3lugeuouphfe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ibc5ye/my_man/">[comments]</a></span>
+
+## Asmon making promises.
+ - [https://www.reddit.com/r/Asmongold/comments/1iba13v/asmon_making_promises](https://www.reddit.com/r/Asmongold/comments/1iba13v/asmon_making_promises)
+ - RSS feed: $source
+ - date published: 2025-01-27T14:14:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>Recently, Asmon has been praising The President for following through on a lot of his promises, and it made me realize that he doesn&#39;t really do that himself. Here&#39;s some examples from the last few months: Sparking Zero tournament, the Dan stream (understandable why it didn&#39;t happen), cleaning his closet stream, PO box unboxing, and The Shame Awards. These are some of the bigger examples he has mentioned multiple times. To be fair, he has kept some of his promises like the Lunchly Stream and the Unban Appeals Stream. Also, he has played some of the games he promised.</p> <p>He recently promised to buy 2 monitors to test them, that&#39;s never going to happen. He also promised to have a 3 PC setup when the 5090 releases and test different CPU/GPU configurations, record the results in 4k, and upload them to YouTube. That sounds like a lot of work for a man who, despite owning a PC building company, had a broken CPU for months before changin
+
+## Michael Scott and the Fellowship of the Ring
+ - [https://www.reddit.com/r/Asmongold/comments/1ib9ypa/michael_scott_and_the_fellowship_of_the_ring](https://www.reddit.com/r/Asmongold/comments/1ib9ypa/michael_scott_and_the_fellowship_of_the_ring)
+ - RSS feed: $source
+ - date published: 2025-01-27T14:11:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ib9ypa/michael_scott_and_the_fellowship_of_the_ring/"> <img src="https://external-preview.redd.it/ejB6NWNzdXhuamZlMZBh44JRl_9UISk5FSsYTY1VxJkdcCo22w4ZQxbmz2gl.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d26ee046363b74d6622981607290ca17fd4d359b" alt="Michael Scott and the Fellowship of the Ring" title="Michael Scott and the Fellowship of the Ring" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Good_From_70"> /u/Good_From_70 </a> <br/> <span><a href="https://v.redd.it/w4jzozwxnjfe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ib9ypa/michael_scott_and_the_fellowship_of_the_ring/">[comments]</a></span> </td></tr></table>
+
+## Imagine starting your day like this
+ - [https://www.reddit.com/r/Asmongold/comments/1ib93d9/imagine_starting_your_day_like_this](https://www.reddit.com/r/Asmongold/comments/1ib93d9/imagine_starting_your_day_like_this)
+ - RSS feed: $source
+ - date published: 2025-01-27T13:31:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ib93d9/imagine_starting_your_day_like_this/"> <img src="https://external-preview.redd.it/ZnU5ZzQ0MHFnamZlMYCJUl1sFH3y-AYgZfAVrHX5o14x_ePB9s_XjXCP-yDf.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=ead507c3734fcc7e38b368685a94b36a69724658" alt="Imagine starting your day like this" title="Imagine starting your day like this" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OkPea4887"> /u/OkPea4887 </a> <br/> <span><a href="https://v.redd.it/wn2vg50qgjfe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ib93d9/imagine_starting_your_day_like_this/">[comments]</a></span> </td></tr></table>
+
+## Man the memories
+ - [https://www.reddit.com/r/Asmongold/comments/1ib82rl/man_the_memories](https://www.reddit.com/r/Asmongold/comments/1ib82rl/man_the_memories)
+ - RSS feed: $source
+ - date published: 2025-01-27T12:47:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ib82rl/man_the_memories/"> <img src="https://external-preview.redd.it/OG56M3c5b3A4amZlMbE01S_VCLVUsF8IDfl1CuCZb68urpVe4-FCCSZyEizd.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ac276665f9ba609c37beb7225330e6bfe8e054b3" alt="Man the memories" title="Man the memories" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Snicker10101"> /u/Snicker10101 </a> <br/> <span><a href="https://v.redd.it/rqulo9op8jfe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ib82rl/man_the_memories/">[comments]</a></span> </td></tr></table>
+
+## Gamers rise up! 🤝🏻
+ - [https://www.reddit.com/r/Asmongold/comments/1ib7p3o/gamers_rise_up](https://www.reddit.com/r/Asmongold/comments/1ib7p3o/gamers_rise_up)
+ - RSS feed: $source
+ - date published: 2025-01-27T12:29:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ib7p3o/gamers_rise_up/"> <img src="https://preview.redd.it/38x76kbo5jfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=906fff4607560edab722b26afcdb932fb98a02e3" alt="Gamers rise up! 🤝🏻" title="Gamers rise up! 🤝🏻" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tatutee"> /u/tatutee </a> <br/> <span><a href="https://i.redd.it/38x76kbo5jfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ib7p3o/gamers_rise_up/">[comments]</a></span> </td></tr></table>
+
+## It's simple really
+ - [https://www.reddit.com/r/Asmongold/comments/1ib7crj/its_simple_really](https://www.reddit.com/r/Asmongold/comments/1ib7crj/its_simple_really)
+ - RSS feed: $source
+ - date published: 2025-01-27T12:12:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ib7crj/its_simple_really/"> <img src="https://preview.redd.it/wdk4njal2jfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3dc78cfa713563fc1666f7777ea3f84c0d779931" alt="It's simple really" title="It's simple really" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Setzer_Gambler"> /u/Setzer_Gambler </a> <br/> <span><a href="https://i.redd.it/wdk4njal2jfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ib7crj/its_simple_really/">[comments]</a></span> </td></tr></table>
+
+## Can Zack please expose this MASSIVE viewbotter that's been on top of every Twitch category of new games for over a year now?? No one seems to be talking about him.
+ - [https://www.reddit.com/r/Asmongold/comments/1ib75ni/can_zack_please_expose_this_massive_viewbotter](https://www.reddit.com/r/Asmongold/comments/1ib75ni/can_zack_please_expose_this_massive_viewbotter)
+ - RSS feed: $source
+ - date published: 2025-01-27T12:02:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ib75ni/can_zack_please_expose_this_massive_viewbotter/"> <img src="https://external-preview.redd.it/vLsfmKmW8gCCaE_aH9nVhlukea8bQlsF9ORcUjSA6Oo.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=85f40796d51abd5b7f19230d3baad1e43712a680" alt="Can Zack please expose this MASSIVE viewbotter that's been on top of every Twitch category of new games for over a year now?? No one seems to be talking about him." title="Can Zack please expose this MASSIVE viewbotter that's been on top of every Twitch category of new games for over a year now?? No one seems to be talking about him." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>As per Attillee&#39;s request, I&#39;m making this post. He said Zack would like this.</p> <p>Watching Twitch I&#39;ve randomly stumbled upon this one streamer called &quot;Simurgh&quot; at 15k viewers, and immediately their Twitch chat looked awfully suspicious to me. Unlike the &quot;W&quot;, &q
+
+## Ubisoft ..
+ - [https://www.reddit.com/r/Asmongold/comments/1ib6yfw/ubisoft](https://www.reddit.com/r/Asmongold/comments/1ib6yfw/ubisoft)
+ - RSS feed: $source
+ - date published: 2025-01-27T11:52:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ib6yfw/ubisoft/"> <img src="https://preview.redd.it/en08k3f5zife1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=09b6f5992441e342ac36064d1de57c4189ba3cf3" alt="Ubisoft .." title="Ubisoft .." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Yahikolexi"> /u/Yahikolexi </a> <br/> <span><a href="https://i.redd.it/en08k3f5zife1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ib6yfw/ubisoft/">[comments]</a></span> </td></tr></table>
+
+## Odin is with us!
+ - [https://www.reddit.com/r/Asmongold/comments/1ib60p4/odin_is_with_us](https://www.reddit.com/r/Asmongold/comments/1ib60p4/odin_is_with_us)
+ - RSS feed: $source
+ - date published: 2025-01-27T11:02:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ib60p4/odin_is_with_us/"> <img src="https://preview.redd.it/r77u2pz5qife1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f4a36aa1685fd818ac682e8d25eb949192a73af" alt="Odin is with us!" title="Odin is with us!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SpendRevolutionary73"> /u/SpendRevolutionary73 </a> <br/> <span><a href="https://i.redd.it/r77u2pz5qife1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ib60p4/odin_is_with_us/">[comments]</a></span> </td></tr></table>
+
+## Deepseek the CCP comrade
+ - [https://www.reddit.com/r/Asmongold/comments/1ib4qzz/deepseek_the_ccp_comrade](https://www.reddit.com/r/Asmongold/comments/1ib4qzz/deepseek_the_ccp_comrade)
+ - RSS feed: $source
+ - date published: 2025-01-27T09:50:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ib4qzz/deepseek_the_ccp_comrade/"> <img src="https://preview.redd.it/c8hzqhgadife1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c7a57ccae4e3df3ab6acab3dfeae4476ea33aa8" alt="Deepseek the CCP comrade" title="Deepseek the CCP comrade" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Requirement2969"> /u/Ok-Requirement2969 </a> <br/> <span><a href="https://i.redd.it/c8hzqhgadife1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ib4qzz/deepseek_the_ccp_comrade/">[comments]</a></span> </td></tr></table>
+
+## For all the AC shadows fans, This is what an actual good combat look like
+ - [https://www.reddit.com/r/Asmongold/comments/1ib4qrm/for_all_the_ac_shadows_fans_this_is_what_an](https://www.reddit.com/r/Asmongold/comments/1ib4qrm/for_all_the_ac_shadows_fans_this_is_what_an)
+ - RSS feed: $source
+ - date published: 2025-01-27T09:50:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ib4qrm/for_all_the_ac_shadows_fans_this_is_what_an/"> <img src="https://external-preview.redd.it/OGo3dXN4b2FkaWZlMeImC-chMXgC63DK-j3B6UQhzivjnsjtWp87SxMc0y9Q.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=445f422e57e8bce90283dd78deb20712bb5fc1f1" alt="For all the AC shadows fans, This is what an actual good combat look like" title="For all the AC shadows fans, This is what an actual good combat look like" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OVERLORDno1"> /u/OVERLORDno1 </a> <br/> <span><a href="https://v.redd.it/flqxgnvadife1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ib4qrm/for_all_the_ac_shadows_fans_this_is_what_an/">[comments]</a></span> </td></tr></table>
+
+## You can't make this shit up
+ - [https://www.reddit.com/r/Asmongold/comments/1ib4gm3/you_cant_make_this_shit_up](https://www.reddit.com/r/Asmongold/comments/1ib4gm3/you_cant_make_this_shit_up)
+ - RSS feed: $source
+ - date published: 2025-01-27T09:32:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ib4gm3/you_cant_make_this_shit_up/"> <img src="https://preview.redd.it/n6nmypqz9ife1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=11bf537129e7a98e894bba4d2644acdf17ab1f1e" alt="You can't make this shit up" title="You can't make this shit up" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pref-top"> /u/pref-top </a> <br/> <span><a href="https://i.redd.it/n6nmypqz9ife1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ib4gm3/you_cant_make_this_shit_up/">[comments]</a></span> </td></tr></table>
+
+## Then go buy it, just don't expect other people to buy it.
+ - [https://www.reddit.com/r/Asmongold/comments/1ib4850/then_go_buy_it_just_dont_expect_other_people_to](https://www.reddit.com/r/Asmongold/comments/1ib4850/then_go_buy_it_just_dont_expect_other_people_to)
+ - RSS feed: $source
+ - date published: 2025-01-27T09:18:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ib4850/then_go_buy_it_just_dont_expect_other_people_to/"> <img src="https://preview.redd.it/p3muucvk7ife1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3fc63ebd0f689185c275dfe44bf2c1ef040e99ba" alt="Then go buy it, just don't expect other people to buy it." title="Then go buy it, just don't expect other people to buy it." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I heard about this bullshit before, especially after failguard. Blaming the game&#39;s failure on people who dont buy it. Then why dont you and your fellow believers buy it then? The solution is fucking simple, stop blaming and buy the game you support more. Upvotting random posts is easy but buying more games you support aint so much. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/luthfins"> /u/luthfins </a> <br/> <span><a href="https://i.redd.it/p3muucvk7ife1.jpeg">[link]</a></span> &#32; <span><a h
+
+## Little Bear refuses to leave the man who saved him from the fire.
+ - [https://www.reddit.com/r/Asmongold/comments/1ib3h1m/little_bear_refuses_to_leave_the_man_who_saved](https://www.reddit.com/r/Asmongold/comments/1ib3h1m/little_bear_refuses_to_leave_the_man_who_saved)
+ - RSS feed: $source
+ - date published: 2025-01-27T08:23:40+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/The-Mr-Bob"> /u/The-Mr-Bob </a> <br/> <span><a href="https://v.redd.it/wo8rr6yqh7fe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ib3h1m/little_bear_refuses_to_leave_the_man_who_saved/">[comments]</a></span>
+
+## Seems like this Morgan Park fellow has a great taste in gaming
+ - [https://www.reddit.com/r/Asmongold/comments/1ib3bm6/seems_like_this_morgan_park_fellow_has_a_great](https://www.reddit.com/r/Asmongold/comments/1ib3bm6/seems_like_this_morgan_park_fellow_has_a_great)
+ - RSS feed: $source
+ - date published: 2025-01-27T08:14:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ib3bm6/seems_like_this_morgan_park_fellow_has_a_great/"> <img src="https://b.thumbs.redditmedia.com/6WPoK5WDvdYse3DwfDXrxorSOVZKwFo5_YeDdCJUtkc.jpg" alt="Seems like this Morgan Park fellow has a great taste in gaming" title="Seems like this Morgan Park fellow has a great taste in gaming" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IllustriousRub9796"> /u/IllustriousRub9796 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ib3bm6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ib3bm6/seems_like_this_morgan_park_fellow_has_a_great/">[comments]</a></span> </td></tr></table>
+
+## Yasuke was NOT a Samurai, source: WIRED
+ - [https://www.reddit.com/r/Asmongold/comments/1ib2is9/yasuke_was_not_a_samurai_source_wired](https://www.reddit.com/r/Asmongold/comments/1ib2is9/yasuke_was_not_a_samurai_source_wired)
+ - RSS feed: $source
+ - date published: 2025-01-27T07:24:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ib2is9/yasuke_was_not_a_samurai_source_wired/"> <img src="https://external-preview.redd.it/NWdiYzk3eHFtaGZlMeubWWxBlbi7f9whujqUsLXyxrDoX8zxfzhxSwe05sqx.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=262892033b53cdbb5e1bd5104287156916b00bb7" alt="Yasuke was NOT a Samurai, source: WIRED" title="Yasuke was NOT a Samurai, source: WIRED" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Famous_Aspect_8714"> /u/Famous_Aspect_8714 </a> <br/> <span><a href="https://v.redd.it/cpt8g3xqmhfe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ib2is9/yasuke_was_not_a_samurai_source_wired/">[comments]</a></span> </td></tr></table>
+
+## Ubisoft are now censoring Japanese content creators who are critical of the new assassin's creed game citing "hate speech". Link in comments
+ - [https://www.reddit.com/r/Asmongold/comments/1ib0wnq/ubisoft_are_now_censoring_japanese_content](https://www.reddit.com/r/Asmongold/comments/1ib0wnq/ubisoft_are_now_censoring_japanese_content)
+ - RSS feed: $source
+ - date published: 2025-01-27T05:33:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1ib0wnq/ubisoft_are_now_censoring_japanese_content/"> <img src="https://preview.redd.it/cbyab8ck3hfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87534f2cf5930d0a0694f779e5c96125e74aa7e2" alt="Ubisoft are now censoring Japanese content creators who are critical of the new assassin's creed game citing &quot;hate speech&quot;. Link in comments" title="Ubisoft are now censoring Japanese content creators who are critical of the new assassin's creed game citing &quot;hate speech&quot;. Link in comments" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LazyRock54"> /u/LazyRock54 </a> <br/> <span><a href="https://i.redd.it/cbyab8ck3hfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1ib0wnq/ubisoft_are_now_censoring_japanese_content/">[comments]</a></span> </td></tr></table>
+
+## Reddit is off its meds. I can't scroll past another Elon salute image without losing all faith in this platform.
+ - [https://www.reddit.com/r/Asmongold/comments/1iazw0k/reddit_is_off_its_meds_i_cant_scroll_past_another](https://www.reddit.com/r/Asmongold/comments/1iazw0k/reddit_is_off_its_meds_i_cant_scroll_past_another)
+ - RSS feed: $source
+ - date published: 2025-01-27T04:33:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m not interested in Wow or game politics but find Zacks content refreshingly based. This sub is one of few that haven&#39;t gone full regard on this platform. What are some other subs that value reason and common sense where I won&#39;t constantly have to listen to some gen z tell me that the world is over?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/International_Move84"> /u/International_Move84 </a> <br/> <span><a href="https://www.reddit.com/r/Asmongold/comments/1iazw0k/reddit_is_off_its_meds_i_cant_scroll_past_another/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1iazw0k/reddit_is_off_its_meds_i_cant_scroll_past_another/">[comments]</a></span>
+
+## Ubisoft pulling a classic Disney
+ - [https://www.reddit.com/r/Asmongold/comments/1iazar0/ubisoft_pulling_a_classic_disney](https://www.reddit.com/r/Asmongold/comments/1iazar0/ubisoft_pulling_a_classic_disney)
+ - RSS feed: $source
+ - date published: 2025-01-27T04:02:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1iazar0/ubisoft_pulling_a_classic_disney/"> <img src="https://preview.redd.it/u62isc1xmgfe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cd179837f328c16965f2417fc95d02d15987d9e7" alt="Ubisoft pulling a classic Disney" title="Ubisoft pulling a classic Disney" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kreatureventure"> /u/kreatureventure </a> <br/> <span><a href="https://i.redd.it/u62isc1xmgfe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1iazar0/ubisoft_pulling_a_classic_disney/">[comments]</a></span> </td></tr></table>
+
+## Reenactment of The US to Colombia today
+ - [https://www.reddit.com/r/Asmongold/comments/1iayv56/reenactment_of_the_us_to_colombia_today](https://www.reddit.com/r/Asmongold/comments/1iayv56/reenactment_of_the_us_to_colombia_today)
+ - RSS feed: $source
+ - date published: 2025-01-27T03:42:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1iayv56/reenactment_of_the_us_to_colombia_today/"> <img src="https://external-preview.redd.it/ZHZ5Mm9pdXJqZ2ZlMf9tVtWjRPBkxj8CqnA18Y0xy013U9HSOkzeV-tWzwZY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=958e3ab2bbfbd198e57044261d987e3c523edaaa" alt="Reenactment of The US to Colombia today" title="Reenactment of The US to Colombia today" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dc4_checkdown"> /u/dc4_checkdown </a> <br/> <span><a href="https://v.redd.it/vd6p94yrjgfe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1iayv56/reenactment_of_the_us_to_colombia_today/">[comments]</a></span> </td></tr></table>
+
+## The Chinese love Asmon. 200k views in a day
+ - [https://www.reddit.com/r/Asmongold/comments/1iaykdy/the_chinese_love_asmon_200k_views_in_a_day](https://www.reddit.com/r/Asmongold/comments/1iaykdy/the_chinese_love_asmon_200k_views_in_a_day)
+ - RSS feed: $source
+ - date published: 2025-01-27T03:27:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1iaykdy/the_chinese_love_asmon_200k_views_in_a_day/"> <img src="https://preview.redd.it/ozjw36gyggfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=583f5da2d90c2eb03409a34c684209d0aca19a1c" alt="The Chinese love Asmon. 200k views in a day" title="The Chinese love Asmon. 200k views in a day" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>On the Chinese version of YouTube, there are probably much more </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Frosty-Product4944"> /u/Frosty-Product4944 </a> <br/> <span><a href="https://i.redd.it/ozjw36gyggfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1iaykdy/the_chinese_love_asmon_200k_views_in_a_day/">[comments]</a></span> </td></tr></table>
+
+## Notice how Yasuke doesn't gain notoriety nor does he get a warning of desynchronization when killing innocent NPC's
+ - [https://www.reddit.com/r/Asmongold/comments/1iawrjl/notice_how_yasuke_doesnt_gain_notoriety_nor_does](https://www.reddit.com/r/Asmongold/comments/1iawrjl/notice_how_yasuke_doesnt_gain_notoriety_nor_does)
+ - RSS feed: $source
+ - date published: 2025-01-27T01:54:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1iawrjl/notice_how_yasuke_doesnt_gain_notoriety_nor_does/"> <img src="https://external-preview.redd.it/aHc3cGFnbTYwZ2ZlMVqHrvoYvkxya3Kkel5zh1hGja7yu9FqyfUk5lQzcXEg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=621d5500d36b897cfe64ee211052c50c753d4c86" alt="Notice how Yasuke doesn't gain notoriety nor does he get a warning of desynchronization when killing innocent NPC's" title="Notice how Yasuke doesn't gain notoriety nor does he get a warning of desynchronization when killing innocent NPC's" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SpendRevolutionary73"> /u/SpendRevolutionary73 </a> <br/> <span><a href="https://v.redd.it/mdye9dm60gfe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1iawrjl/notice_how_yasuke_doesnt_gain_notoriety_nor_does/">[comments]</a></span> </td></tr></table>
+
+## Trump should bring back hats. It beats the combover.
+ - [https://www.reddit.com/r/Asmongold/comments/1iavydy/trump_should_bring_back_hats_it_beats_the_combover](https://www.reddit.com/r/Asmongold/comments/1iavydy/trump_should_bring_back_hats_it_beats_the_combover)
+ - RSS feed: $source
+ - date published: 2025-01-27T01:12:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1iavydy/trump_should_bring_back_hats_it_beats_the_combover/"> <img src="https://preview.redd.it/hyqk6qfxsffe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7d9ebd42efb256b1b4cae720d05a63c976fe00af" alt="Trump should bring back hats. It beats the combover." title="Trump should bring back hats. It beats the combover." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ArugulaImpossible879"> /u/ArugulaImpossible879 </a> <br/> <span><a href="https://i.redd.it/hyqk6qfxsffe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1iavydy/trump_should_bring_back_hats_it_beats_the_combover/">[comments]</a></span> </td></tr></table>
+
+## Well, boys…
+ - [https://www.reddit.com/r/Asmongold/comments/1iave7l/well_boys](https://www.reddit.com/r/Asmongold/comments/1iave7l/well_boys)
+ - RSS feed: $source
+ - date published: 2025-01-27T00:45:03+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/HardcoreShadow"> /u/HardcoreShadow </a> <br/> <span><a href="https://v.redd.it/m3dfmonledfe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1iave7l/well_boys/">[comments]</a></span>
+
+## Ubisoft thinking that AC Shadow was going to win game of the year
+ - [https://www.reddit.com/r/Asmongold/comments/1iauw8i/ubisoft_thinking_that_ac_shadow_was_going_to_win](https://www.reddit.com/r/Asmongold/comments/1iauw8i/ubisoft_thinking_that_ac_shadow_was_going_to_win)
+ - RSS feed: $source
+ - date published: 2025-01-27T00:20:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Asmongold/comments/1iauw8i/ubisoft_thinking_that_ac_shadow_was_going_to_win/"> <img src="https://preview.redd.it/c05et16uiffe1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b3a5fc2f7fe3e92ee3d6f0491034c9f813520fd3" alt="Ubisoft thinking that AC Shadow was going to win game of the year" title="Ubisoft thinking that AC Shadow was going to win game of the year" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/darkangel1506"> /u/darkangel1506 </a> <br/> <span><a href="https://i.redd.it/c05et16uiffe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Asmongold/comments/1iauw8i/ubisoft_thinking_that_ac_shadow_was_going_to_win/">[comments]</a></span> </td></tr></table>
+

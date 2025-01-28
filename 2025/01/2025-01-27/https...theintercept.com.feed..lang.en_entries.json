@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-27T15:11:30+00:00",
+        "description": "<p>The FBI trawled NSA records without a warrant to investigate a man suspected of trying to join a terror group, prosecutors admit.</p>\n<p>The post <a href=\"https://theintercept.com/2025/01/27/fbi-government-spying-surveillance-702-fisa/\">FBI\u2019s Warrantless Search Ruled Unconstitutional in a Blow to Government Spying</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 1986129,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/01/27/fbi-government-spying-surveillance-702-fisa",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/theintercept.com/wp-content/uploads/2025/01/GettyImages-2194762521-e1737657410820.jpg?w=1200",
+        "title": "FBI\u2019s Warrantless Search Ruled Unconstitutional in a Blow to Government Spying",
+        "vote": 0
+    }
+]

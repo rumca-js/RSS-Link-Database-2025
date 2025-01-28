@@ -1,0 +1,114 @@
+# Source:DeGoogle - expel Google from your life, URL:https://www.reddit.com/r/degoogle/.rss, language:en
+
+## need help finding a Google Doc replacement
+ - [https://www.reddit.com/r/degoogle/comments/1ibiztc/need_help_finding_a_google_doc_replacement](https://www.reddit.com/r/degoogle/comments/1ibiztc/need_help_finding_a_google_doc_replacement)
+ - RSS feed: $source
+ - date published: 2025-01-27T20:21:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey all, I&#39;m struggling to find a google doc replacement in which allows me to edit the same file across different devices even if I&#39;m not on the same internet. I like to worldbuild and i do it from my laptop and my phone and well with my phone im not always connected to my home internet. I&#39;m looking for a way to do it so I can do this for free while also looking for privacy and security, though I do know that might not be possible.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/smwa6773-"> /u/smwa6773- </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1ibiztc/need_help_finding_a_google_doc_replacement/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1ibiztc/need_help_finding_a_google_doc_replacement/">[comments]</a></span>
+
+## It's almost funny to watch Silicon Valley panicking
+ - [https://www.reddit.com/r/degoogle/comments/1ibgxdi/its_almost_funny_to_watch_silicon_valley_panicking](https://www.reddit.com/r/degoogle/comments/1ibgxdi/its_almost_funny_to_watch_silicon_valley_panicking)
+ - RSS feed: $source
+ - date published: 2025-01-27T18:58:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1ibgxdi/its_almost_funny_to_watch_silicon_valley_panicking/"> <img src="https://b.thumbs.redditmedia.com/HPqiaq4lm5p9_5EMQhKDUJVDKPlwuqFBDoh0Pr_DbWc.jpg" alt="It's almost funny to watch Silicon Valley panicking" title="It's almost funny to watch Silicon Valley panicking" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/albertlloreta"> /u/albertlloreta </a> <br/> <span><a href="https://www.reddit.com/gallery/1ibgxdi">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1ibgxdi/its_almost_funny_to_watch_silicon_valley_panicking/">[comments]</a></span> </td></tr></table>
+
+## I'm boycotting Google/Microsoft. Help!
+ - [https://www.reddit.com/r/degoogle/comments/1ibgrnq/im_boycotting_googlemicrosoft_help](https://www.reddit.com/r/degoogle/comments/1ibgrnq/im_boycotting_googlemicrosoft_help)
+ - RSS feed: $source
+ - date published: 2025-01-27T18:51:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey there, So, i hate these big corporations and for me security/privacy is not the biggest problem when it comes to the fact that these big corporations serve certain governments and systems, but that&#39;s a whole another can of worms for another day. I&#39;m a normie and a noob when it comes to technology, i currently use samsung phone and windows 11, Google and Microsoft all over, as you can conclude. So where to start and how, considering the fact that I&#39;m a senior student with four years of documents and so little time to actually make rapid radical changes, so I&#39;m starting small. I need apps and softwares to replace all the Google/Microsoft junk, please on my Android phone/Windows Laptop! Thanks everyone And I&#39;m just leaving these 2 articles down here if anyone is interested: <a href="https://www.theguardian.com/world/2025/jan/23/israeli-military-gaza-war-microsoft">https://www.theguardian.com/world/2025/jan/23/israeli-military-gaz
+
+## Should I sign in to Google to forward to Proton?
+ - [https://www.reddit.com/r/degoogle/comments/1ib8zav/should_i_sign_in_to_google_to_forward_to_proton](https://www.reddit.com/r/degoogle/comments/1ib8zav/should_i_sign_in_to_google_to_forward_to_proton)
+ - RSS feed: $source
+ - date published: 2025-01-27T13:26:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m attempting to deGoogle my emails at this time and I have some issues.</p> <p>I&#39;ve been testing out the free plan for Proton Mail as I don&#39;t want to make any paid commitments until I&#39;m confident I like the service. Free claims to offer 1 GB of mail but I only have 500 MB rn. It said that if I follow certain steps (including the problem step) I can get up to 1 GB like I thought I already had. I&#39;ve also seen randomly I can get up to 5 GB free mentioned like once somewhere but I&#39;m not sure I can trust that.</p> <p>My current hesitation is the last step I need to do is begin forwarding Gmails to Proton Mail. It requires a Google login. That may just simply be to have emails forward over from a verified email, but I just don&#39;t want to freely give Google access to anything. Is it safe to sign in and begin the long, arduous journey of transferring all my emails over? Or are my hesitations worth considering?</p> <p>Given time I
+
+## Alternative Messaging, Phone and Contacts apps?
+ - [https://www.reddit.com/r/degoogle/comments/1ib8wyw/alternative_messaging_phone_and_contacts_apps](https://www.reddit.com/r/degoogle/comments/1ib8wyw/alternative_messaging_phone_and_contacts_apps)
+ - RSS feed: $source
+ - date published: 2025-01-27T13:23:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey,</p> <p>I recently got a new phone and removed most of Google apps, except for the three Messages, Phone and Contacts apps that come preinstalled as I found no reputable, free, open-source alternatives.</p> <p>Any recommendations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Glor24"> /u/Glor24 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1ib8wyw/alternative_messaging_phone_and_contacts_apps/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1ib8wyw/alternative_messaging_phone_and_contacts_apps/">[comments]</a></span>
+
+## Can you make a Google TV privacy friendly at any way?
+ - [https://www.reddit.com/r/degoogle/comments/1ib623q/can_you_make_a_google_tv_privacy_friendly_at_any](https://www.reddit.com/r/degoogle/comments/1ib623q/can_you_make_a_google_tv_privacy_friendly_at_any)
+ - RSS feed: $source
+ - date published: 2025-01-27T11:04:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m thinking to buy a smart tv but My budget only fits Google TV (Not android TV ig) so I&#39;m thinking if I should buy Google TV or if I should have some savings and patience to buy smart TV later?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/The_Viewer2083"> /u/The_Viewer2083 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1ib623q/can_you_make_a_google_tv_privacy_friendly_at_any/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1ib623q/can_you_make_a_google_tv_privacy_friendly_at_any/">[comments]</a></span>
+
+## Best Free VPN for 2025?
+ - [https://www.reddit.com/r/degoogle/comments/1ib5305/best_free_vpn_for_2025](https://www.reddit.com/r/degoogle/comments/1ib5305/best_free_vpn_for_2025)
+ - RSS feed: $source
+ - date published: 2025-01-27T10:09:49+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/your-step-uncle"> /u/your-step-uncle </a> <br/> <span><a href="/r/VPNFreaks/comments/1ib4bq4/best_free_vpn_for_2025/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1ib5305/best_free_vpn_for_2025/">[comments]</a></span>
+
+## What alternative to the pixel phone can be bought?
+ - [https://www.reddit.com/r/degoogle/comments/1ib41o7/what_alternative_to_the_pixel_phone_can_be_bought](https://www.reddit.com/r/degoogle/comments/1ib41o7/what_alternative_to_the_pixel_phone_can_be_bought)
+ - RSS feed: $source
+ - date published: 2025-01-27T09:06:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>As the title says, I need an alternative because there is still no pixel phone in my country (there are people who bring and sell phones abroad, but they sell them at a very high price)</p> <p>EDIT:I forgot to mention I can install custom rom</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hamza6572"> /u/hamza6572 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1ib41o7/what_alternative_to_the_pixel_phone_can_be_bought/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1ib41o7/what_alternative_to_the_pixel_phone_can_be_bought/">[comments]</a></span>
+
+## No GrapheneOS, Aurora Store worth it?
+ - [https://www.reddit.com/r/degoogle/comments/1ib1yb5/no_grapheneos_aurora_store_worth_it](https://www.reddit.com/r/degoogle/comments/1ib1yb5/no_grapheneos_aurora_store_worth_it)
+ - RSS feed: $source
+ - date published: 2025-01-27T06:43:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>Unfortunately, I don’t have access to GrapheneOS as I do not own a Pixel, and I’m really enjoying the hardware of the phone handset that I’m currently using. </p> <p>If I am using an Android mobile phone with a throwaway Google account, does it make any sense to use the Aurora store? If you don’t have something like GrapheneOS installed, I’m assuming the benefits of using something like the Aurora store are heavily diminished. Or am I just uneducated and wrong on this point?</p> <p>I have moved away from most of Google’s services at this point - I guess Google Maps and the convenience of Google Wallet are my last hand-ups. </p> <p>I know a lot of people say de-Googling isn’t an all-or-nothing process and you need to find your middle ground, but I’m wondering if there is any point in going to the effort of using something like the Aurora store if I am going to log into a throwaway Google account on a phone not using a custom ROM? </p> <p>Would welcome
+
+## will ungoogled chromium get affected by manifest v3?
+ - [https://www.reddit.com/r/degoogle/comments/1ib0fsw/will_ungoogled_chromium_get_affected_by_manifest](https://www.reddit.com/r/degoogle/comments/1ib0fsw/will_ungoogled_chromium_get_affected_by_manifest)
+ - RSS feed: $source
+ - date published: 2025-01-27T05:05:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>can the devs, like, remove manifest v3 or is it baked in</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Much_Artist_5097"> /u/Much_Artist_5097 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1ib0fsw/will_ungoogled_chromium_get_affected_by_manifest/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1ib0fsw/will_ungoogled_chromium_get_affected_by_manifest/">[comments]</a></span>
+
+## Does ungoogled chromium (with chrome webstore extentions) count as degoogled?
+ - [https://www.reddit.com/r/degoogle/comments/1iayz4b/does_ungoogled_chromium_with_chrome_webstore](https://www.reddit.com/r/degoogle/comments/1iayz4b/does_ungoogled_chromium_with_chrome_webstore)
+ - RSS feed: $source
+ - date published: 2025-01-27T03:48:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>there is this one setting that says &quot;help google search&quot; or something</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Much_Artist_5097"> /u/Much_Artist_5097 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1iayz4b/does_ungoogled_chromium_with_chrome_webstore/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1iayz4b/does_ungoogled_chromium_with_chrome_webstore/">[comments]</a></span>
+
+## Where I a safe place I can download lifelenz
+ - [https://www.reddit.com/r/degoogle/comments/1iaysex/where_i_a_safe_place_i_can_download_lifelenz](https://www.reddit.com/r/degoogle/comments/1iaysex/where_i_a_safe_place_i_can_download_lifelenz)
+ - RSS feed: $source
+ - date published: 2025-01-27T03:38:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey all I need lifelenz for work but it not on f droid nor apkmirror so I was wondering If there any other safe places to get jt</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/smwa6773-"> /u/smwa6773- </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1iaysex/where_i_a_safe_place_i_can_download_lifelenz/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1iaysex/where_i_a_safe_place_i_can_download_lifelenz/">[comments]</a></span>
+
+## Anything like GrapheneOS and CalyxOS that exists for dumbphones?
+ - [https://www.reddit.com/r/degoogle/comments/1iayh9g/anything_like_grapheneos_and_calyxos_that_exists](https://www.reddit.com/r/degoogle/comments/1iayh9g/anything_like_grapheneos_and_calyxos_that_exists)
+ - RSS feed: $source
+ - date published: 2025-01-27T03:22:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Honestly, I would like to get a dumbphone, but I don&#39;t know of any that use a custom open source OS. I know MuditaOS exists for their phones, but that&#39;s not really what I&#39;m talking about. Wondering if anything exists that can be installed on commonly available dumbphones.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MTB1961"> /u/MTB1961 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1iayh9g/anything_like_grapheneos_and_calyxos_that_exists/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1iayh9g/anything_like_grapheneos_and_calyxos_that_exists/">[comments]</a></span>
+
+## Any good alternative of Google Files & Google Dialer
+ - [https://www.reddit.com/r/degoogle/comments/1iaxtis/any_good_alternative_of_google_files_google_dialer](https://www.reddit.com/r/degoogle/comments/1iaxtis/any_good_alternative_of_google_files_google_dialer)
+ - RSS feed: $source
+ - date published: 2025-01-27T02:49:09+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/raijinkamakura"> /u/raijinkamakura </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1iaxtis/any_good_alternative_of_google_files_google_dialer/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1iaxtis/any_good_alternative_of_google_files_google_dialer/">[comments]</a></span>
+
+## Fitbit alternative?
+ - [https://www.reddit.com/r/degoogle/comments/1iaw451/fitbit_alternative](https://www.reddit.com/r/degoogle/comments/1iaw451/fitbit_alternative)
+ - RSS feed: $source
+ - date published: 2025-01-27T01:20:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m slowly de-Googling and looking to switch from Fitbit to something else. What other companies (Garmin, Samsung watch, etc) are the safest bets? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Moocowcoffeemilk"> /u/Moocowcoffeemilk </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1iaw451/fitbit_alternative/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1iaw451/fitbit_alternative/">[comments]</a></span>
+
+## I am now 99% degoogled, a 2 years journey
+ - [https://www.reddit.com/r/degoogle/comments/1iaw3tt/i_am_now_99_degoogled_a_2_years_journey](https://www.reddit.com/r/degoogle/comments/1iaw3tt/i_am_now_99_degoogled_a_2_years_journey)
+ - RSS feed: $source
+ - date published: 2025-01-27T01:20:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>After 2 years of &quot;degooglisation&quot; (&quot;de-big-techisation&quot; is more correct) i almost finished it and i will try to give you my experience and a advice. I will mostly write about Android because i&#39;m not really into PC&#39;s and that Android is the OS that everyone uses and that Google uses the most to track you.</p> <p>So, I think that there is 5 levels of degooglelisation :</p> <ul> <li><p>Level 1:The mistake.</p></li> <li><p>Level 2:Easy : Apps.</p></li> <li><p>Level 3:Hard : Social Medias (depends on people).</p></li> <li><p>Level 4:Very-Hard : Mail.</p></li> <li><p>Level 5:(Almost) Impossible. (no spoil).</p></li> </ul> <p>There is no medium difficulty, and yes, there is an impossible level (for now).</p> <p>The first level is the mistake : you have to understand that a ton of things said on these subreddits are bullshit, like really, they do recommend a ton of things that ARE NOT recommended by anyone else (cybersecurity rese
+

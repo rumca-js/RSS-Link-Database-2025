@@ -1,0 +1,184 @@
+# Source:World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Russia issues school textbook saying it was 'forced' to march into Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1ibivjg/russia_issues_school_textbook_saying_it_was](https://www.reddit.com/r/worldnews/comments/1ibivjg/russia_issues_school_textbook_saying_it_was)
+ - RSS feed: $source
+ - date published: 2025-01-27T20:16:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibivjg/russia_issues_school_textbook_saying_it_was/"> <img src="https://external-preview.redd.it/YWX90g6nsjdcZ0cfybuBx-QFCVYc3PpqoTgfnG6hoQo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2b0d61f620a37cc6c7add65e228bc5ec91e7168" alt="Russia issues school textbook saying it was 'forced' to march into Ukraine" title="Russia issues school textbook saying it was 'forced' to march into Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nikola28"> /u/nikola28 </a> <br/> <span><a href="https://www.reuters.com/world/europe/russia-issues-school-textbook-saying-it-was-forced-march-into-ukraine-2025-01-27/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibivjg/russia_issues_school_textbook_saying_it_was/">[comments]</a></span> </td></tr></table>
+
+## Russia's Ryazan oil refinery halts operations after drone strikes, sources say
+ - [https://www.reddit.com/r/worldnews/comments/1ibgm5s/russias_ryazan_oil_refinery_halts_operations](https://www.reddit.com/r/worldnews/comments/1ibgm5s/russias_ryazan_oil_refinery_halts_operations)
+ - RSS feed: $source
+ - date published: 2025-01-27T18:45:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibgm5s/russias_ryazan_oil_refinery_halts_operations/"> <img src="https://external-preview.redd.it/h_Nnf9fKzdg7MyMn9ApmKB4v6s8hq9j9QBziAUVAhb8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b4b926898ed47e5e832947f065299c2933289a8" alt="Russia's Ryazan oil refinery halts operations after drone strikes, sources say" title="Russia's Ryazan oil refinery halts operations after drone strikes, sources say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HydrolicKrane"> /u/HydrolicKrane </a> <br/> <span><a href="https://www.reuters.com/world/europe/russias-ryzan-oil-refinery-halts-operations-after-drone-strikes-sources-say-2025-01-27/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibgm5s/russias_ryazan_oil_refinery_halts_operations/">[comments]</a></span> </td></tr></table>
+
+## Ukraine dismisses supposedly leaked blueprint for ending war in Ukraine as ‘fake’
+ - [https://www.reddit.com/r/worldnews/comments/1ibfdec/ukraine_dismisses_supposedly_leaked_blueprint_for](https://www.reddit.com/r/worldnews/comments/1ibfdec/ukraine_dismisses_supposedly_leaked_blueprint_for)
+ - RSS feed: $source
+ - date published: 2025-01-27T17:56:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibfdec/ukraine_dismisses_supposedly_leaked_blueprint_for/"> <img src="https://external-preview.redd.it/0tdWLyLXWsQJxI-wSQqaBRjF0py08m2d_ALamLgpSHI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a567b53adff3966aad218d20c3487d107a7d50b6" alt="Ukraine dismisses supposedly leaked blueprint for ending war in Ukraine as ‘fake’" title="Ukraine dismisses supposedly leaked blueprint for ending war in Ukraine as ‘fake’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shellfishb"> /u/shellfishb </a> <br/> <span><a href="https://novayagazeta.eu/articles/2025/01/27/ukraine-dismisses-supposedly-leaked-blueprint-for-ending-war-in-ukraine-as-fake-en-news">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibfdec/ukraine_dismisses_supposedly_leaked_blueprint_for/">[comments]</a></span> </td></tr></table>
+
+## Ukraine’s Defense Sector Secures $1.5 Billion in International Funding for Arms Production
+ - [https://www.reddit.com/r/worldnews/comments/1ibej5n/ukraines_defense_sector_secures_15_billion_in](https://www.reddit.com/r/worldnews/comments/1ibej5n/ukraines_defense_sector_secures_15_billion_in)
+ - RSS feed: $source
+ - date published: 2025-01-27T17:23:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibej5n/ukraines_defense_sector_secures_15_billion_in/"> <img src="https://external-preview.redd.it/TCS_6-ykyO9_RH-m3lG333DSOu3sLfhbrZe8GoAm8kw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=908b5d571103def7cc9fe0544f3f4ce1c4e27206" alt="Ukraine’s Defense Sector Secures $1.5 Billion in International Funding for Arms Production" title="Ukraine’s Defense Sector Secures $1.5 Billion in International Funding for Arms Production" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://united24media.com/latest-news/ukraines-defense-sector-secures-15-billion-in-international-funding-for-arms-production-5391">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibej5n/ukraines_defense_sector_secures_15_billion_in/">[comments]</a></span> </td></tr></table>
+
+## North Koreans are ‘disciplined’, armed with high-quality ammo, says Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1ibe2pv/north_koreans_are_disciplined_armed_with](https://www.reddit.com/r/worldnews/comments/1ibe2pv/north_koreans_are_disciplined_armed_with)
+ - RSS feed: $source
+ - date published: 2025-01-27T17:04:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibe2pv/north_koreans_are_disciplined_armed_with/"> <img src="https://external-preview.redd.it/YJWrYnxBBeuRvzXtykCwQqzj3SyMTXZATJMrSaRfGTQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f54801d5d103f409187d6e3fe9e6a485b43342c5" alt="North Koreans are ‘disciplined’, armed with high-quality ammo, says Ukraine" title="North Koreans are ‘disciplined’, armed with high-quality ammo, says Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sanatani-Hindu"> /u/Sanatani-Hindu </a> <br/> <span><a href="https://www.aljazeera.com/news/2025/1/27/more-north-korean-troops-headed-to-ukraine-as-conflict-goes-global">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibe2pv/north_koreans_are_disciplined_armed_with/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump's "100 day" Ukraine peace plan leaked: Report
+ - [https://www.reddit.com/r/worldnews/comments/1ibaypy/donald_trumps_100_day_ukraine_peace_plan_leaked](https://www.reddit.com/r/worldnews/comments/1ibaypy/donald_trumps_100_day_ukraine_peace_plan_leaked)
+ - RSS feed: $source
+ - date published: 2025-01-27T14:57:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibaypy/donald_trumps_100_day_ukraine_peace_plan_leaked/"> <img src="https://external-preview.redd.it/4y1qI_oumehZlB5cyRGjBegvcmGZ4bSbHqRT4Z68JHI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=06002af37846b18e3f64e13e795bf3ec23b3249b" alt="Donald Trump's &quot;100 day&quot; Ukraine peace plan leaked: Report" title="Donald Trump's &quot;100 day&quot; Ukraine peace plan leaked: Report" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br/> <span><a href="https://www.newsweek.com/donald-trumps-100-day-ukraine-peace-plan-leaked-report-2021215">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibaypy/donald_trumps_100_day_ukraine_peace_plan_leaked/">[comments]</a></span> </td></tr></table>
+
+## Trump ‘Serious as a Heart Attack’ About Launching Trade War With Canada and Mexico
+ - [https://www.reddit.com/r/worldnews/comments/1ibal2f/trump_serious_as_a_heart_attack_about_launching](https://www.reddit.com/r/worldnews/comments/1ibal2f/trump_serious_as_a_heart_attack_about_launching)
+ - RSS feed: $source
+ - date published: 2025-01-27T14:40:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibal2f/trump_serious_as_a_heart_attack_about_launching/"> <img src="https://external-preview.redd.it/tH68Sdno_VN4QsBRtd5p3liz4W9QXsWJM8LSvg0PClU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f39112cd8216566ab645af710636f34e8bbc36a" alt="Trump ‘Serious as a Heart Attack’ About Launching Trade War With Canada and Mexico" title="Trump ‘Serious as a Heart Attack’ About Launching Trade War With Canada and Mexico" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Advanced_Drink_8536"> /u/Advanced_Drink_8536 </a> <br/> <span><a href="https://www.thedailybeast.com/trump-serious-as-a-heart-attack-about-launching-trade-war-with-canada-and-mexico/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibal2f/trump_serious_as_a_heart_attack_about_launching/">[comments]</a></span> </td></tr></table>
+
+## King Charles Makes History with Emotional Visit to Auschwitz as Prince William Leads Holocaust Memorial Service
+ - [https://www.reddit.com/r/worldnews/comments/1ibae3i/king_charles_makes_history_with_emotional_visit](https://www.reddit.com/r/worldnews/comments/1ibae3i/king_charles_makes_history_with_emotional_visit)
+ - RSS feed: $source
+ - date published: 2025-01-27T14:31:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibae3i/king_charles_makes_history_with_emotional_visit/"> <img src="https://external-preview.redd.it/jnOosqN1fAiPPVdh3DcWOOtJazwmNFUxqZCw1GigqU8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=26e86e7d9f27bf8a49380ec2d6feddbe43447223" alt="King Charles Makes History with Emotional Visit to Auschwitz as Prince William Leads Holocaust Memorial Service" title="King Charles Makes History with Emotional Visit to Auschwitz as Prince William Leads Holocaust Memorial Service" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/peoplemagazine"> /u/peoplemagazine </a> <br/> <span><a href="https://people.com/king-charles-prince-william-lead-commemorations-holocaust-memorial-day-80-anniversary-8778982">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibae3i/king_charles_makes_history_with_emotional_visit/">[comments]</a></span> </td></tr></table>
+
+## At least eight hostages to be released in ceasefire deal are dead, Hamas tells Israel
+ - [https://www.reddit.com/r/worldnews/comments/1ib9wlt/at_least_eight_hostages_to_be_released_in](https://www.reddit.com/r/worldnews/comments/1ib9wlt/at_least_eight_hostages_to_be_released_in)
+ - RSS feed: $source
+ - date published: 2025-01-27T14:08:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ib9wlt/at_least_eight_hostages_to_be_released_in/"> <img src="https://external-preview.redd.it/HjnMokkv9HgVdGVrSpcF3AK6TJ-DnuUramoAqDwnRo8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a938ea5d27d4f62b675619406fdee6ee053060bd" alt="At least eight hostages to be released in ceasefire deal are dead, Hamas tells Israel" title="At least eight hostages to be released in ceasefire deal are dead, Hamas tells Israel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CityRulesFootball"> /u/CityRulesFootball </a> <br/> <span><a href="https://www.lbc.co.uk/news/at-least-eight-hostages-released-in-ceasefire-deal-dead-hamas-israel/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ib9wlt/at_least_eight_hostages_to_be_released_in/">[comments]</a></span> </td></tr></table>
+
+## Palestinian prisoner refuses to return to Gaza in ceasefire swap, prefers to stay in prison -report
+ - [https://www.reddit.com/r/worldnews/comments/1ib9i1b/palestinian_prisoner_refuses_to_return_to_gaza_in](https://www.reddit.com/r/worldnews/comments/1ib9i1b/palestinian_prisoner_refuses_to_return_to_gaza_in)
+ - RSS feed: $source
+ - date published: 2025-01-27T13:49:45+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/tudorcat"> /u/tudorcat </a> <br/> <span><a href="https://jpost.com/israel-news/article-839237">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ib9i1b/palestinian_prisoner_refuses_to_return_to_gaza_in/">[comments]</a></span>
+
+## North Korean Troops Withdraw from Kursk Front After Heavy Losses
+ - [https://www.reddit.com/r/worldnews/comments/1ib7n73/north_korean_troops_withdraw_from_kursk_front](https://www.reddit.com/r/worldnews/comments/1ib7n73/north_korean_troops_withdraw_from_kursk_front)
+ - RSS feed: $source
+ - date published: 2025-01-27T12:26:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ib7n73/north_korean_troops_withdraw_from_kursk_front/"> <img src="https://external-preview.redd.it/fx_xDVx7Mgee6vZSgnyKIgLKN-DhoG3mriYwa7cEwPU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ae9abe5ffc58178cfa4a776edf75a1191c3cb63" alt="North Korean Troops Withdraw from Kursk Front After Heavy Losses" title="North Korean Troops Withdraw from Kursk Front After Heavy Losses" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Haunting_Birthday135"> /u/Haunting_Birthday135 </a> <br/> <span><a href="https://www.dagens.com/war/north-korean-troops-withdraw-from-kursk-front-after-heavy-losses">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ib7n73/north_korean_troops_withdraw_from_kursk_front/">[comments]</a></span> </td></tr></table>
+
+## Two hundred UK companies sign up for permanent four-day working week | Work & careers
+ - [https://www.reddit.com/r/worldnews/comments/1ib6aj0/two_hundred_uk_companies_sign_up_for_permanent](https://www.reddit.com/r/worldnews/comments/1ib6aj0/two_hundred_uk_companies_sign_up_for_permanent)
+ - RSS feed: $source
+ - date published: 2025-01-27T11:17:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ib6aj0/two_hundred_uk_companies_sign_up_for_permanent/"> <img src="https://external-preview.redd.it/UYNbShaRiuqQg4992AJIdbE4vxBUgTETUNJelPlM0HQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=45fdd558d6c18897dba00cc2c5cb03e0c11d5c7e" alt="Two hundred UK companies sign up for permanent four-day working week | Work &amp; careers" title="Two hundred UK companies sign up for permanent four-day working week | Work &amp; careers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/safetyscotchegg"> /u/safetyscotchegg </a> <br/> <span><a href="https://www.theguardian.com/money/2025/jan/27/two-hundred-uk-companies-sign-up-for-permanent-four-day-working-week?CMP=Share_AndroidApp_Other">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ib6aj0/two_hundred_uk_companies_sign_up_for_permanent/">[comments]</a></span> </td></tr></table>
+
+## Duck DNA found in both engines of Jeju Air plane that crashed, report says
+ - [https://www.reddit.com/r/worldnews/comments/1ib5pkp/duck_dna_found_in_both_engines_of_jeju_air_plane](https://www.reddit.com/r/worldnews/comments/1ib5pkp/duck_dna_found_in_both_engines_of_jeju_air_plane)
+ - RSS feed: $source
+ - date published: 2025-01-27T10:45:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ib5pkp/duck_dna_found_in_both_engines_of_jeju_air_plane/"> <img src="https://external-preview.redd.it/O8R4X3ZTuVMyp3wH4qWJsQRuuBhp1efmZ8yw6XIo2ZM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0acfddfb6130c1988c12b47c09e07443bf572f9b" alt="Duck DNA found in both engines of Jeju Air plane that crashed, report says" title="Duck DNA found in both engines of Jeju Air plane that crashed, report says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br/> <span><a href="https://www.nbcnews.com/news/world/duck-dna-both-engines-jeju-air-plane-crashed-report-says-rcna189367">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ib5pkp/duck_dna_found_in_both_engines_of_jeju_air_plane/">[comments]</a></span> </td></tr></table>
+
+## Hamas altered hostages' appearances before release – report
+ - [https://www.reddit.com/r/worldnews/comments/1ib4bdp/hamas_altered_hostages_appearances_before_release](https://www.reddit.com/r/worldnews/comments/1ib4bdp/hamas_altered_hostages_appearances_before_release)
+ - RSS feed: $source
+ - date published: 2025-01-27T09:23:50+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/tudorcat"> /u/tudorcat </a> <br/> <span><a href="https://m.jpost.com/israel-news/article-839351">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ib4bdp/hamas_altered_hostages_appearances_before_release/">[comments]</a></span>
+
+## Canada, Mexico Steelmakers Refuse New US Orders
+ - [https://www.reddit.com/r/worldnews/comments/1ib4adx/canada_mexico_steelmakers_refuse_new_us_orders](https://www.reddit.com/r/worldnews/comments/1ib4adx/canada_mexico_steelmakers_refuse_new_us_orders)
+ - RSS feed: $source
+ - date published: 2025-01-27T09:22:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ib4adx/canada_mexico_steelmakers_refuse_new_us_orders/"> <img src="https://external-preview.redd.it/JS15vPL2GayuPJExov4tAXtF18L7QZtLvyOps9uiPfk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b575453f4de036d7b8a081fbda963763438d2c66" alt="Canada, Mexico Steelmakers Refuse New US Orders" title="Canada, Mexico Steelmakers Refuse New US Orders" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MothersMiIk"> /u/MothersMiIk </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2025-01-24/canada-mexico-steelmakers-refuse-new-us-orders-as-tariffs-loom">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ib4adx/canada_mexico_steelmakers_refuse_new_us_orders/">[comments]</a></span> </td></tr></table>
+
+## Trapped miners ‘resort to cannibalism’ after South African police fail to ‘smoke them out’
+ - [https://www.reddit.com/r/worldnews/comments/1ib3pvw/trapped_miners_resort_to_cannibalism_after_south](https://www.reddit.com/r/worldnews/comments/1ib3pvw/trapped_miners_resort_to_cannibalism_after_south)
+ - RSS feed: $source
+ - date published: 2025-01-27T08:42:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ib3pvw/trapped_miners_resort_to_cannibalism_after_south/"> <img src="https://external-preview.redd.it/3tZLAX0AdEL7SaQKb430kGCCLAo0ahxF3g800D9cOck.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1271af2c72c72091ddc8f0556c699c656f4284b7" alt="Trapped miners ‘resort to cannibalism’ after South African police fail to ‘smoke them out’" title="Trapped miners ‘resort to cannibalism’ after South African police fail to ‘smoke them out’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br/> <span><a href="https://www.telegraph.co.uk/world-news/2025/01/27/trapped-miners-south-africa-cannibalism-trespassing-police/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ib3pvw/trapped_miners_resort_to_cannibalism_after_south/">[comments]</a></span> </td></tr></table>
+
+## Sweden seizes vessel suspected of 'sabotage' in undersea data cable rupture
+ - [https://www.reddit.com/r/worldnews/comments/1ib1s89/sweden_seizes_vessel_suspected_of_sabotage_in](https://www.reddit.com/r/worldnews/comments/1ib1s89/sweden_seizes_vessel_suspected_of_sabotage_in)
+ - RSS feed: $source
+ - date published: 2025-01-27T06:32:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ib1s89/sweden_seizes_vessel_suspected_of_sabotage_in/"> <img src="https://external-preview.redd.it/uncD_Qt1HLZOpSxdXRpDz7T1nSmEq_0_uCz3-yJHOQU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c7c2c5f49234cc37e25616f4e5e269035cd59e9" alt="Sweden seizes vessel suspected of 'sabotage' in undersea data cable rupture" title="Sweden seizes vessel suspected of 'sabotage' in undersea data cable rupture" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spidero0w0o"> /u/Spidero0w0o </a> <br/> <span><a href="https://abcnews.go.com/International/wireStory/sweden-seizes-vessel-suspected-sabotage-after-undersea-data-118121999">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ib1s89/sweden_seizes_vessel_suspected_of_sabotage_in/">[comments]</a></span> </td></tr></table>
+
+## Taliban Rejects Trump’s Call to Return US Weapons Worth Billions
+ - [https://www.reddit.com/r/worldnews/comments/1ib0x56/taliban_rejects_trumps_call_to_return_us_weapons](https://www.reddit.com/r/worldnews/comments/1ib0x56/taliban_rejects_trumps_call_to_return_us_weapons)
+ - RSS feed: $source
+ - date published: 2025-01-27T05:34:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ib0x56/taliban_rejects_trumps_call_to_return_us_weapons/"> <img src="https://external-preview.redd.it/7WE2fkftxKe7_whM1S5OBWihQ82jgjmHcSJotVX5wk4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fc1111cb020a8182f2f58ef3643a197b2898b9d1" alt="Taliban Rejects Trump’s Call to Return US Weapons Worth Billions" title="Taliban Rejects Trump’s Call to Return US Weapons Worth Billions" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thegoodsamuraii"> /u/thegoodsamuraii </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2025-01-21/taliban-rejects-trump-s-call-to-return-us-weapons-worth-billions?utm_source=website&amp;utm_medium=share&amp;utm_campaign=copy">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ib0x56/taliban_rejects_trumps_call_to_return_us_weapons/">[comments]</a></span> </td></tr></table>
+
+## Auschwitz survivors return as world remembers Nazi death camp 80 years on
+ - [https://www.reddit.com/r/worldnews/comments/1ib0t1o/auschwitz_survivors_return_as_world_remembers](https://www.reddit.com/r/worldnews/comments/1ib0t1o/auschwitz_survivors_return_as_world_remembers)
+ - RSS feed: $source
+ - date published: 2025-01-27T05:27:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ib0t1o/auschwitz_survivors_return_as_world_remembers/"> <img src="https://external-preview.redd.it/dTyj2MB96ZIFrCwVH9e_hPwxUuM8XszrI2Dc-bP6Ncc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71eba2803b11d19ac2a5f6499b479825005a5671" alt="Auschwitz survivors return as world remembers Nazi death camp 80 years on" title="Auschwitz survivors return as world remembers Nazi death camp 80 years on" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gecko8484"> /u/Gecko8484 </a> <br/> <span><a href="https://www.bbc.com/news/articles/czj3mde43k2o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ib0t1o/auschwitz_survivors_return_as_world_remembers/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1068, Part 1 (Thread #1215)
+ - [https://www.reddit.com/r/worldnews/comments/1iazal2/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1iazal2/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: $source
+ - date published: 2025-01-27T04:02:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iazal2/rworldnews_live_thread_russian_invasion_of/"> <img src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1068, Part 1 (Thread #1215)" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1068, Part 1 (Thread #1215)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br/> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iazal2/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## US pauses Colombia tariffs, sanctions plan after agreement
+ - [https://www.reddit.com/r/worldnews/comments/1iayrpc/us_pauses_colombia_tariffs_sanctions_plan_after](https://www.reddit.com/r/worldnews/comments/1iayrpc/us_pauses_colombia_tariffs_sanctions_plan_after)
+ - RSS feed: $source
+ - date published: 2025-01-27T03:37:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iayrpc/us_pauses_colombia_tariffs_sanctions_plan_after/"> <img src="https://external-preview.redd.it/JfqPDFwDnaGDDOC4c0iOqwKKb0I6YeB6dxFBXuqKOmA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e138bf5d5a8e7c48c6dc17eadbeeae2239de7f9b" alt="US pauses Colombia tariffs, sanctions plan after agreement" title="US pauses Colombia tariffs, sanctions plan after agreement" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SlamPigDoctor"> /u/SlamPigDoctor </a> <br/> <span><a href="https://www.reuters.com/world/americas/us-pauses-colombia-tariffs-sanctions-plan-after-agreement-2025-01-27/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iayrpc/us_pauses_colombia_tariffs_sanctions_plan_after/">[comments]</a></span> </td></tr></table>
+
+## Pope Francis urges eradication of antisemitism, says horror of the Holocaust must never be forgotten
+ - [https://www.reddit.com/r/worldnews/comments/1iaypdy/pope_francis_urges_eradication_of_antisemitism](https://www.reddit.com/r/worldnews/comments/1iaypdy/pope_francis_urges_eradication_of_antisemitism)
+ - RSS feed: $source
+ - date published: 2025-01-27T03:34:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iaypdy/pope_francis_urges_eradication_of_antisemitism/"> <img src="https://external-preview.redd.it/COgdiW2t2Bogghh65Wk3DCSFHanJudqGTgs-1L-a3EQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a322b572576ee1e3a0ccc4afde69821e5709f06" alt="Pope Francis urges eradication of antisemitism, says horror of the Holocaust must never be forgotten" title="Pope Francis urges eradication of antisemitism, says horror of the Holocaust must never be forgotten" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ChiefFun"> /u/ChiefFun </a> <br/> <span><a href="https://www.cbsnews.com/news/pope-francis-holocaust-remembrance-day/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iaypdy/pope_francis_urges_eradication_of_antisemitism/">[comments]</a></span> </td></tr></table>
+
+## Colombia's President Responds to Trump's 50% Tariffs with Equal Counter Tariffs and Vows to Boost Trade With China
+ - [https://www.reddit.com/r/worldnews/comments/1iaxzk5/colombias_president_responds_to_trumps_50_tariffs](https://www.reddit.com/r/worldnews/comments/1iaxzk5/colombias_president_responds_to_trumps_50_tariffs)
+ - RSS feed: $source
+ - date published: 2025-01-27T02:57:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iaxzk5/colombias_president_responds_to_trumps_50_tariffs/"> <img src="https://external-preview.redd.it/bhzl7rMTHNaz9qlUPabT1SF3CKu-oTfA3ngPD-DKwso.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f596814558bde276d84437dd5f2e073d632ff9a8" alt="Colombia's President Responds to Trump's 50% Tariffs with Equal Counter Tariffs and Vows to Boost Trade With China" title="Colombia's President Responds to Trump's 50% Tariffs with Equal Counter Tariffs and Vows to Boost Trade With China" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mikaela_Side"> /u/Mikaela_Side </a> <br/> <span><a href="https://www.latintimes.com/colombia-retalitory-tariffs-trump-deportation-flight-petro-573538">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iaxzk5/colombias_president_responds_to_trumps_50_tariffs/">[comments]</a></span> </td></tr></table>
+
+## Ukraine hits peak strike rate on Russia as drone output tops 1.5 million
+ - [https://www.reddit.com/r/worldnews/comments/1iawcvr/ukraine_hits_peak_strike_rate_on_russia_as_drone](https://www.reddit.com/r/worldnews/comments/1iawcvr/ukraine_hits_peak_strike_rate_on_russia_as_drone)
+ - RSS feed: $source
+ - date published: 2025-01-27T01:33:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iawcvr/ukraine_hits_peak_strike_rate_on_russia_as_drone/"> <img src="https://external-preview.redd.it/XpI-RMdWrU08OuaWEJzhU48FhsFSAigUDzHnm600Nyo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=043c31738bc8c2251dff7f47c859d4c6808453bd" alt="Ukraine hits peak strike rate on Russia as drone output tops 1.5 million" title="Ukraine hits peak strike rate on Russia as drone output tops 1.5 million" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eaglemaxie"> /u/eaglemaxie </a> <br/> <span><a href="https://euromaidanpress.com/2025/01/26/ukraine-hits-peak-strike-rate-on-russia-as-drone-output-tops-1-5-million/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iawcvr/ukraine_hits_peak_strike_rate_on_russia_as_drone/">[comments]</a></span> </td></tr></table>
+
+## Nearly 3 million Chinese restaurants, cafes shut down
+ - [https://www.reddit.com/r/worldnews/comments/1iavu9f/nearly_3_million_chinese_restaurants_cafes_shut](https://www.reddit.com/r/worldnews/comments/1iavu9f/nearly_3_million_chinese_restaurants_cafes_shut)
+ - RSS feed: $source
+ - date published: 2025-01-27T01:07:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iavu9f/nearly_3_million_chinese_restaurants_cafes_shut/"> <img src="https://external-preview.redd.it/j9JNSc_VgMhOAO97IYHWx24yokrB2XxQljvUgagQ6mI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ac7d22fc93f1c15be4d66954fc0bbda27828da6a" alt="Nearly 3 million Chinese restaurants, cafes shut down" title="Nearly 3 million Chinese restaurants, cafes shut down" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://www.rfa.org/english/china/2025/01/23/three-million-restaurants-cafes-close/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iavu9f/nearly_3_million_chinese_restaurants_cafes_shut/">[comments]</a></span> </td></tr></table>
+
+## Arab League says any plan to uproot Palestinians from Gaza would be ‘ethnic cleansing’
+ - [https://www.reddit.com/r/worldnews/comments/1iauv0q/arab_league_says_any_plan_to_uproot_palestinians](https://www.reddit.com/r/worldnews/comments/1iauv0q/arab_league_says_any_plan_to_uproot_palestinians)
+ - RSS feed: $source
+ - date published: 2025-01-27T00:19:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iauv0q/arab_league_says_any_plan_to_uproot_palestinians/"> <img src="https://external-preview.redd.it/5Cuaj2_8IKhMMucd_QA_DgIoLsr2V6ORDOpMKbs5u3w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1b8c28db664a426be69f81da0bf3c267e38a858c" alt="Arab League says any plan to uproot Palestinians from Gaza would be ‘ethnic cleansing’" title="Arab League says any plan to uproot Palestinians from Gaza would be ‘ethnic cleansing’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Logical_Welder3467"> /u/Logical_Welder3467 </a> <br/> <span><a href="https://www.arabnews.com/node/2587935/middle-east">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iauv0q/arab_league_says_any_plan_to_uproot_palestinians/">[comments]</a></span> </td></tr></table>
+

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-27T15:47:46+00:00",
+        "description": "Is the universe flat and infinite, or something more complex? We can\u2019t say for sure, but a new search strategy is mapping out the subtle signals that could reveal if the universe had a shape.            <p>The post <a href=\"https://www.quantamagazine.org/cosmologists-try-a-new-way-to-measure-the-shape-of-the-universe-20250127/\" target=\"_blank\">Cosmologists Try a New Way to Measure the Shape of the Universe</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 1986599,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/cosmologists-try-a-new-way-to-measure-the-shape-of-the-universe-20250127",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/01/Topology-of-the-Universe_crDVDP-Default.webp",
+        "title": "Cosmologists Try a New Way to Measure the Shape of the Universe",
+        "vote": 0
+    }
+]

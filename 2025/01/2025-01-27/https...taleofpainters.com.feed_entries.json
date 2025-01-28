@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-27T14:45:49.534751+00:00",
+        "description": "The unofficial Warhammer hobby magazine and painting blog",
+        "id": 1985560,
+        "language": "en-GB",
+        "link": "https://taleofpainters.com/feed",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 323,
+        "source_url": "https://taleofpainters.com/feed",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://taleofpainters.com/wp-content/uploads/2023/11/cropped-tale_of_painters_favicon_2024-32x32.png",
+        "title": "Tale of Painters",
+        "vote": 0
+    }
+]

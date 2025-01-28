@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-27T21:19:29+00:00",
+        "description": "<p>Chinese AI lab DeepSeek <a href=\"https://venturebeat.com/ai/open-source-deepseek-r1-uses-pure-reinforcement-learning-to-match-openai-o1-at-95-less-cost/\">made waves last week</a> when they dropped their new \u201copen reasoning\u201d LLM named R1. But over the weekend the full repercussions of their achievements (plural) began to sink in across the industry. My partner-in-Dithering Ben Thompson has written extraordinarily helpful FAQ-style explanation at Stratechery today. If you, like me, were looking at the news today and thinking \u201cJeebus what the hell is going on with this DeepSeek thing?\u201d, read Thompson\u2019s piece first. Two choice excerpts, first regarding OpenAI:</p>\n\n<blockquote>\n  <p>R1 is notable, however, because o1 stood alone as the only\nreasoning model on the market, and the clearest sign that OpenAI\nwas the market leader.</p>\n\n<p>R1 undoes the o1 mythology in a couple of important ways. First,\nthere is the fact that it exists. OpenAI does not have some sort\nof special sauce that ",
+        "id": 1988012,
+        "language": null,
+        "link": "https://stratechery.com/2025/deepseek-faq",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ben Thompson\u2019s DeepSeek FAQ",
+        "vote": 0
+    }
+]

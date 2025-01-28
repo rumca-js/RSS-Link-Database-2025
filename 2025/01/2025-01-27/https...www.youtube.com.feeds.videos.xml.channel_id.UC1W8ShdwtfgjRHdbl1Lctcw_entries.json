@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-27T20:23:36+00:00",
+        "description": "I colorized, restored, and created a sound design for this video of A Tour of Boston, featuring iconic landmarks and breathtaking views. Boston Common is highlighted with scenes of the park landscapes and the Massachusetts State House with its golden dome, along with Beacon Hill's historic Beacon Street houses, George Washington statues, and Swan Boats. Downtown Boston includes King's Chapel, its burial ground, State Street as the banking center, the Old State House with its unicorn statue, the Customs House skyscraper, and Faneuil Hall. Waterfront scenes showcase fishing smacks, the Old North Church, and men sitting on a cannon at Lexington Village Green. The video also features Concord, the Wayside Inn in Sudbury, the Bunker Hill Monument, Commonwealth Avenue, Copley Square with the Boston Public Library, Trinity Church, and the Christian Science Church. Massachusetts Avenue, the Charles River, Harvard Bridge, MIT (Massachusetts Institute of Technology), and the Longfellow House in",
+        "id": 1987225,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=UYpjPgWKw1U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UYpjPgWKw1U/hqdefault.jpg",
+        "title": "Boston 1920s in color [60fps, Remastered] w/sound design added",
+        "vote": 0
+    }
+]

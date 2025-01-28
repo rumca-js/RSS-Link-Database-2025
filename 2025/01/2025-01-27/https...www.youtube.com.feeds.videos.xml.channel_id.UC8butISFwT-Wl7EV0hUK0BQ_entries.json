@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-27T16:11:06+00:00",
+        "description": "Discover how to build an intelligent book recommendation system using the power of large language models and Python. Learn to transform book descriptions into mathematical representations that enable precise content-based matching. By the end of this course, you'll have built a recommendation engine that helps readers discover their next favorite book.\n\n\ud83d\udcbb Code from this tutorial: https://github.com/t-redactyl/llm-semantic-book-recommender/tree/main\n\n\ud83c\udfd7\ufe0f JetBrains provided a grant to make this course possible.\n\n\u2b50\ufe0f Resources \u2b50\ufe0f\nFree 3-Month PyCharm Professional Subscription \nCode: PyCharm4FreeCodeCamp\nDownload PyCharm: https://jb.gg/pycharm-fcc \nRedeem PyCharm 3-month free license: jetbrains.com/store/redeem\n\nDownload PyCharm: https://jb.gg/pycharm-fcc\nKaggle datasets: https://kaggle.com/datasets\n7K books dataset by Dylan Castillo: https://kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata\nHugging Face free NLP course: https://huggingface.co/learn/nlp-course/en/\nExplanation of tr",
+        "id": 1987989,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Q7mS1VHm3Yw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Q7mS1VHm3Yw/hqdefault.jpg",
+        "title": "LLM Course \u2013 Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio)",
+        "vote": 0
+    }
+]

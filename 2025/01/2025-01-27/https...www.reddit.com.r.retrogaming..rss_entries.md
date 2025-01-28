@@ -1,0 +1,212 @@
+# Source:Retro Gaming: Reddit's home of vintage gaming, URL:https://www.reddit.com/r/retrogaming/.rss, language:en
+
+## Should I remove the batteries out of old carts I want to preserve and keep? I’m worried the batteries will leak and corrode the game.
+ - [https://www.reddit.com/r/retrogaming/comments/1ibjtpy/should_i_remove_the_batteries_out_of_old_carts_i](https://www.reddit.com/r/retrogaming/comments/1ibjtpy/should_i_remove_the_batteries_out_of_old_carts_i)
+ - RSS feed: $source
+ - date published: 2025-01-27T20:56:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Isn&#39;t this an inevitabiiity with any battery on a long enough time span? Many of these games are 40 years old at least; it&#39;s a miracle more of these batteries haven&#39;t leaked or damaged the games they&#39;re in. </p> <p>If I&#39;m wanting to keep my carts as nice as possible for decades to come, would it make sense to disassemble them and remove the batteries? I know this would render them unable to save, but being honest most of those old batteries are failing by now anyway. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/katiecharm"> /u/katiecharm </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ibjtpy/should_i_remove_the_batteries_out_of_old_carts_i/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ibjtpy/should_i_remove_the_batteries_out_of_old_carts_i/">[comments]</a></span>
+
+## Which one of these Mario giants are the best out of all of the three shown here?
+ - [https://www.reddit.com/r/retrogaming/comments/1ibje5k/which_one_of_these_mario_giants_are_the_best_out](https://www.reddit.com/r/retrogaming/comments/1ibje5k/which_one_of_these_mario_giants_are_the_best_out)
+ - RSS feed: $source
+ - date published: 2025-01-27T20:38:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ibje5k/which_one_of_these_mario_giants_are_the_best_out/"> <img src="https://b.thumbs.redditmedia.com/ZYk4qOEOFHXQ8MRSMo1CKoFZuSvF70Xp4vLk1qziPcU.jpg" alt="Which one of these Mario giants are the best out of all of the three shown here?" title="Which one of these Mario giants are the best out of all of the three shown here?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>My ranking would go like this even though I love them all almost equally</p> <ol> <li>Super Mario Bros. 3</li> <li>Super Mario 64 3 Super Mario World</li> </ol> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MELEE23mon"> /u/MELEE23mon </a> <br/> <span><a href="https://www.reddit.com/gallery/1ibje5k">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ibje5k/which_one_of_these_mario_giants_are_the_best_out/">[comments]</a></span> </td></tr></table>
+
+## Sonic (music) CD
+ - [https://www.reddit.com/r/retrogaming/comments/1ibj5yu/sonic_music_cd](https://www.reddit.com/r/retrogaming/comments/1ibj5yu/sonic_music_cd)
+ - RSS feed: $source
+ - date published: 2025-01-27T20:28:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ibj5yu/sonic_music_cd/"> <img src="https://preview.redd.it/tgu9cmj9jlfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=65782fdf65fd4e9fd051e670fa85d7dba6d2b043" alt="Sonic (music) CD" title="Sonic (music) CD" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Yes, those we&#39;re Sold next to the Video Game Section. Dang, I cant find my Super Mario Land CD.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/victorymon"> /u/victorymon </a> <br/> <span><a href="https://i.redd.it/tgu9cmj9jlfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ibj5yu/sonic_music_cd/">[comments]</a></span> </td></tr></table>
+
+## My mistake, forgot the picture
+ - [https://www.reddit.com/r/retrogaming/comments/1ibimhw/my_mistake_forgot_the_picture](https://www.reddit.com/r/retrogaming/comments/1ibimhw/my_mistake_forgot_the_picture)
+ - RSS feed: $source
+ - date published: 2025-01-27T20:06:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ibimhw/my_mistake_forgot_the_picture/"> <img src="https://preview.redd.it/3lpwo4g7flfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5cbc8472b1d5841c492d90ec096a7cf0fbe3d1bb" alt="My mistake, forgot the picture" title="My mistake, forgot the picture" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>It was my mistake. Sorry for the Double Post.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/victorymon"> /u/victorymon </a> <br/> <span><a href="https://i.redd.it/3lpwo4g7flfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ibimhw/my_mistake_forgot_the_picture/">[comments]</a></span> </td></tr></table>
+
+## Old school Sonic IS the best
+ - [https://www.reddit.com/r/retrogaming/comments/1ibiind/old_school_sonic_is_the_best](https://www.reddit.com/r/retrogaming/comments/1ibiind/old_school_sonic_is_the_best)
+ - RSS feed: $source
+ - date published: 2025-01-27T20:01:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>The only Thing I couldnt find is my Super Sonic Dance Attack CD. And The Better one Wins. I bought it on the same day I bought the Super Mario Land CD.</p> <p>My fav is Sonic 2. And The Sonic &amp; Knuckles Addon was the best Thing for the system.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/victorymon"> /u/victorymon </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ibiind/old_school_sonic_is_the_best/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ibiind/old_school_sonic_is_the_best/">[comments]</a></span>
+
+## Retro Game Magazines and Materials to be Soon Publicly Available Online
+ - [https://www.reddit.com/r/retrogaming/comments/1ibhqqb/retro_game_magazines_and_materials_to_be_soon](https://www.reddit.com/r/retrogaming/comments/1ibhqqb/retro_game_magazines_and_materials_to_be_soon)
+ - RSS feed: $source
+ - date published: 2025-01-27T19:30:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ibhqqb/retro_game_magazines_and_materials_to_be_soon/"> <img src="https://external-preview.redd.it/zSSBr3cnbRMu1yaVsLyLzdPmFOI2a4cjq_QOdNfLEdc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=50192de4fff49911ccc2b37416843d3f43be62c7" alt="Retro Game Magazines and Materials to be Soon Publicly Available Online" title="Retro Game Magazines and Materials to be Soon Publicly Available Online" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/laybs1"> /u/laybs1 </a> <br/> <span><a href="https://www.videogameschronicle.com/news/the-video-game-history-foundation-makes-its-digital-library-available-to-the-public-next-week/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ibhqqb/retro_game_magazines_and_materials_to_be_soon/">[comments]</a></span> </td></tr></table>
+
+## What 80s PC games should I add to this list (No DOS games)
+ - [https://www.reddit.com/r/retrogaming/comments/1ibglak/what_80s_pc_games_should_i_add_to_this_list_no](https://www.reddit.com/r/retrogaming/comments/1ibglak/what_80s_pc_games_should_i_add_to_this_list_no)
+ - RSS feed: $source
+ - date published: 2025-01-27T18:44:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, So there was this video by Good Vibes Gaming, and they made a list of the best 80s PC games that aren&#39;t DOS. The list includes:</p> <blockquote> <p>Maze of Galious, Simcity, M.U.L.E., The Oregon Trail, Sid Meier’s Pirates, Ultima V: Warriors of Destiny, Maniac Mansion, Prince of Persia, Metal Gear, Metal Gear 2: Solid Snake </p> </blockquote> <p>However, I know that there are more 80s PC games not included in this list, So what should I add in this list? (It should include from stuff like ZX Spectrum, Atari, Commodore, Apple, Amiga, MSX, etc.)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-Milly-420"> /u/Silly-Milly-420 </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ibglak/what_80s_pc_games_should_i_add_to_this_list_no/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ibglak/what_80s_pc_games_should_i_add_to_this_list_no/">[comment
+
+## Im taking Koopa Troopa and running laps around you guys💨
+ - [https://www.reddit.com/r/retrogaming/comments/1ibf4pi/im_taking_koopa_troopa_and_running_laps_around](https://www.reddit.com/r/retrogaming/comments/1ibf4pi/im_taking_koopa_troopa_and_running_laps_around)
+ - RSS feed: $source
+ - date published: 2025-01-27T17:46:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ibf4pi/im_taking_koopa_troopa_and_running_laps_around/"> <img src="https://preview.redd.it/c89gleocqkfe1.gif?width=640&amp;crop=smart&amp;s=97c84033ed88cae5ed21db0900eb90a36f2a2cc7" alt="Im taking Koopa Troopa and running laps around you guys💨" title="Im taking Koopa Troopa and running laps around you guys💨" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PactownSS"> /u/PactownSS </a> <br/> <span><a href="https://i.redd.it/c89gleocqkfe1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ibf4pi/im_taking_koopa_troopa_and_running_laps_around/">[comments]</a></span> </td></tr></table>
+
+## From First Glance to Years Together: My PlayStation Journey
+ - [https://www.reddit.com/r/retrogaming/comments/1ibd9t4/from_first_glance_to_years_together_my](https://www.reddit.com/r/retrogaming/comments/1ibd9t4/from_first_glance_to_years_together_my)
+ - RSS feed: $source
+ - date published: 2025-01-27T16:32:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ibd9t4/from_first_glance_to_years_together_my/"> <img src="https://a.thumbs.redditmedia.com/0BaMl-RFqhojutcHwAseWZSW9fyUxomLYhF7wyT66b0.jpg" alt="From First Glance to Years Together: My PlayStation Journey" title="From First Glance to Years Together: My PlayStation Journey" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I remember that day like it was yesterday. I walked into some gaming club to trade my Sega Genesis cartridges, but the place was packed, and everyone was crowded around one TV. I looked at the screen and couldn’t understand what game was on. A door slowly opened against a dark background, and then I saw a 3D character with a gun walking through the gloomy corridors of some mansion. Ahead, there were zombies. The character stopped, aimed, and began shooting at the zombie, which barely reacted to the shots… That was my first encounter with PSX and the game Resident Evil 1.</p> <p>I’ve already 
+
+## Sega Buzz VHS Promo (1992).
+ - [https://www.reddit.com/r/retrogaming/comments/1ibco05/sega_buzz_vhs_promo_1992](https://www.reddit.com/r/retrogaming/comments/1ibco05/sega_buzz_vhs_promo_1992)
+ - RSS feed: $source
+ - date published: 2025-01-27T16:08:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ibco05/sega_buzz_vhs_promo_1992/"> <img src="https://external-preview.redd.it/GoEpn6TUyIKnIEg1uYBImt9oxMrx4EiKSW6PVmzyqY4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f3b012457e5cbb8cdcc8df000f63fdd444bb9036" alt="Sega Buzz VHS Promo (1992)." title="Sega Buzz VHS Promo (1992)." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/astrodomekid"> /u/astrodomekid </a> <br/> <span><a href="https://youtu.be/ZQZBBTefEFA?si=jUBzmSpcHlFZd7T6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ibco05/sega_buzz_vhs_promo_1992/">[comments]</a></span> </td></tr></table>
+
+## This picture is the face of my childhood - nostalgia rush
+ - [https://www.reddit.com/r/retrogaming/comments/1ibc0bx/this_picture_is_the_face_of_my_childhood](https://www.reddit.com/r/retrogaming/comments/1ibc0bx/this_picture_is_the_face_of_my_childhood)
+ - RSS feed: $source
+ - date published: 2025-01-27T15:40:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ibc0bx/this_picture_is_the_face_of_my_childhood/"> <img src="https://preview.redd.it/8cuvn85s3kfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6ec22dc6bee7416ceb89b426c8ef3607feb0b224" alt="This picture is the face of my childhood - nostalgia rush" title="This picture is the face of my childhood - nostalgia rush" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GodAllMighty888"> /u/GodAllMighty888 </a> <br/> <span><a href="https://i.redd.it/8cuvn85s3kfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ibc0bx/this_picture_is_the_face_of_my_childhood/">[comments]</a></span> </td></tr></table>
+
+## Who remembers? Bringing home the fun?
+ - [https://www.reddit.com/r/retrogaming/comments/1ibaogj/who_remembers_bringing_home_the_fun](https://www.reddit.com/r/retrogaming/comments/1ibaogj/who_remembers_bringing_home_the_fun)
+ - RSS feed: $source
+ - date published: 2025-01-27T14:44:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ibaogj/who_remembers_bringing_home_the_fun/"> <img src="https://b.thumbs.redditmedia.com/jJjec9OwhxvJM6r-_LX3M3fdf11AQ1TsPjzfvXBZP_k.jpg" alt="Who remembers? Bringing home the fun?" title="Who remembers? Bringing home the fun?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CRT_Retro"> /u/CRT_Retro </a> <br/> <span><a href="https://www.reddit.com/gallery/1ibaogj">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ibaogj/who_remembers_bringing_home_the_fun/">[comments]</a></span> </td></tr></table>
+
+## So I would like to understand the design aesthetics of the original Ghosts N Goblins regarding the replay mechanic
+ - [https://www.reddit.com/r/retrogaming/comments/1ibao25/so_i_would_like_to_understand_the_design](https://www.reddit.com/r/retrogaming/comments/1ibao25/so_i_would_like_to_understand_the_design)
+ - RSS feed: $source
+ - date published: 2025-01-27T14:44:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Sorry if that came off wrong, but basically I was just trying to observe the design aesthetics of the original game itself because I wanted to understand why Capcom enforced the game to be done twice as I was curious on some why games used that kind of practice.</p> <p>Like what I mean is that in the case of Ghosts N Goblins, the player must go through the entire game all over again as after winning the game once, they are told that they must beat the game with a specific item in order to unlock a different ending, and I say this because I don’t know if this practice was unusual for an arcade game way back then to do as most games that were designed back in those days only required the player to win the game once to fully conquer the game.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KaleidoArachnid"> /u/KaleidoArachnid </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ibao25/so_i_would
+
+## If a CDR is 52x, you can burn them at slower speeds, right?
+ - [https://www.reddit.com/r/retrogaming/comments/1iba9jz/if_a_cdr_is_52x_you_can_burn_them_at_slower](https://www.reddit.com/r/retrogaming/comments/1iba9jz/if_a_cdr_is_52x_you_can_burn_them_at_slower)
+ - RSS feed: $source
+ - date published: 2025-01-27T14:25:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iba9jz/if_a_cdr_is_52x_you_can_burn_them_at_slower/"> <img src="https://preview.redd.it/yyrue71gqjfe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=77c1f517e3708fba5221dfca15da440299920e67" alt="If a CDR is 52x, you can burn them at slower speeds, right?" title="If a CDR is 52x, you can burn them at slower speeds, right?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Asking because I have a modded PS1 and I just ran out of CDRs to add my old games to. If I buy 52x CDs, you can burn at a slower speed to match the particular needs of a console... Correct? </p> <p>Just double checking. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Icenfiree"> /u/Icenfiree </a> <br/> <span><a href="https://i.redd.it/yyrue71gqjfe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iba9jz/if_a_cdr_is_52x_you_can_burn_them_at_slower/">[comments]<
+
+## Ecco the Dolphin: Defender of the Future OST sounds a lot like PSO
+ - [https://www.reddit.com/r/retrogaming/comments/1iba4lt/ecco_the_dolphin_defender_of_the_future_ost](https://www.reddit.com/r/retrogaming/comments/1iba4lt/ecco_the_dolphin_defender_of_the_future_ost)
+ - RSS feed: $source
+ - date published: 2025-01-27T14:19:16+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.youtube.com/watch?v=_XAeKHjzID8&amp;ab_channel=VGMCentral">https://www.youtube.com/watch?v=_XAeKHjzID8&amp;ab_channel=VGMCentral</a> Was listening to this and when Ecco came on at 1:56:15, I thought it sounded very similar to PSO. Appaloosa isnt based in JP so coincidence I guess?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/YellowstoneCoast"> /u/YellowstoneCoast </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1iba4lt/ecco_the_dolphin_defender_of_the_future_ost/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iba4lt/ecco_the_dolphin_defender_of_the_future_ost/">[comments]</a></span>
+
+## Arcades in the 80 or early 90s in your country.
+ - [https://www.reddit.com/r/retrogaming/comments/1ib9lsm/arcades_in_the_80_or_early_90s_in_your_country](https://www.reddit.com/r/retrogaming/comments/1ib9lsm/arcades_in_the_80_or_early_90s_in_your_country)
+ - RSS feed: $source
+ - date published: 2025-01-27T13:54:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was born in 1980, i used to walk by arcades with my dad and there was always a sign that no kids under 13 to enter.</p> <p>Arcades had bad reps in my country, and it was justified, people would smoke on the machines and put their cigs on the side of the joysticks, you could never find 1 arcade machine without cigarette burns on it.</p> <p>Even as i turned 13, i was denied entry by my parents, but we used to sneak there, sadly one day, Grandpa saw us, told my dad and uncle, it was me, my bro and 2 cousins. Uncle showed up in a rage, kept smacking my cousins all the way home, dad was more mild but he did express his anger.</p> <p>That didn&#39;t stop us from going to arcades, but we made sure to go to arcaded far from home.</p> <p>To make things worse, the police would always do stings to see if any underage kids were there, we need to mention, most arcades had those lewd games where u have to uncover pieces of the screen to see a lewd image and many
+
+## What's the one retro music track you can use as an alarm?
+ - [https://www.reddit.com/r/retrogaming/comments/1ib82lq/whats_the_one_retro_music_track_you_can_use_as_an](https://www.reddit.com/r/retrogaming/comments/1ib82lq/whats_the_one_retro_music_track_you_can_use_as_an)
+ - RSS feed: $source
+ - date published: 2025-01-27T12:46:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ib82lq/whats_the_one_retro_music_track_you_can_use_as_an/"> <img src="https://preview.redd.it/ety6tegt8jfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f4ba47eb638d254a4157916b0fc0c8a91adeed30" alt="What's the one retro music track you can use as an alarm?" title="What's the one retro music track you can use as an alarm?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>What&#39;s the one track you would never get mad at for waking you up? Mine has dire dire docks from super Mario 64, such a nice sound and the song just has a vibe that I don&#39;t mind starting the day with. What&#39;s your favorite retro tune to wake up to?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/migrainemaker"> /u/migrainemaker </a> <br/> <span><a href="https://i.redd.it/ety6tegt8jfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ib82lq/whats_
+
+## Best safe way to sell Games without getting scammed?
+ - [https://www.reddit.com/r/retrogaming/comments/1ib6sta/best_safe_way_to_sell_games_without_getting](https://www.reddit.com/r/retrogaming/comments/1ib6sta/best_safe_way_to_sell_games_without_getting)
+ - RSS feed: $source
+ - date published: 2025-01-27T11:44:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi Everyone,</p> <p>I have some games that I&#39;ve bought in their time, New in Box (I did it because in the past I&#39;ve played their pirated versions and I wanted their creators paying it back).</p> <p>Now, as personal life goes, I need to sell them, but I&#39;m afraid that I will sell the game through eBay and days later the buyer will start to saying that the game didn&#39;t arrive or something like that. And then PayPal will side with the buyer, like in so many cases in the past.</p> <p>What strategies do you use to avoid or minimize this to occurring?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/maxtrix7"> /u/maxtrix7 </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ib6sta/best_safe_way_to_sell_games_without_getting/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ib6sta/best_safe_way_to_sell_games_without_getting/">[comments]</a></span>
+
+## Fascinating Retro Gaming and Computing Anecdotes: Share Your Stories!
+ - [https://www.reddit.com/r/retrogaming/comments/1ib6srl/fascinating_retro_gaming_and_computing_anecdotes](https://www.reddit.com/r/retrogaming/comments/1ib6srl/fascinating_retro_gaming_and_computing_anecdotes)
+ - RSS feed: $source
+ - date published: 2025-01-27T11:44:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone,</p> <p>I wanted to ask if there are any anecdotes, both gameplay-related and technical, that you find fascinating in the world of retro gaming/retro computing. I&#39;d like to create a personal collection of everything that’s fascinating about the technology of the past.</p> <p>Here are some examples of fun and fascinating things I’ve come across:</p> <ul> <li>The Lock-On system of the Sega MegaDrive and how it was technically used to generate the Blue Sphere level in Sonic 3</li> <li>The aliens&#39; acceleration in Space Invaders was a bug caused by how the hardware managed resources and was left in because it was considered engaging</li> <li>The Turbo Button actually slowed down the PC’s clock instead of speeding it up</li> <li>If you make a hole in the bottom right corner of a 720Kb floppy disk (looking at the disk from the front), it can be used just fine as a 1.44Mb disk</li> <li>An Easter egg on the mono audio TV in Metal Gear S
+
+## Should I get another Jaguar or a 3DO?
+ - [https://www.reddit.com/r/retrogaming/comments/1ib6ik2/should_i_get_another_jaguar_or_a_3do](https://www.reddit.com/r/retrogaming/comments/1ib6ik2/should_i_get_another_jaguar_or_a_3do)
+ - RSS feed: $source
+ - date published: 2025-01-27T11:29:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Context: I had a Jag &amp; Jag CD complete w/ 20ish boxed games and sold it for pennies on the dollar 20 years ago (kicking myself now) when I went off to college and lost interest in gaming for a bit. It’s since become so expensive(especially Jag CD) that I’ve put off buying another one, especially since I didn’t play it a whole lot back in the day as it was. Anyway, I owned almost every less well-known mainstream console back in the 90s, including Neo Geo, 32X, Virtual Boy, etc. A few I never owned were the 3DO (it was EXPENSIVE back then), TurboGrafx16 and Sega CD; the latter I only picked up recently. Now the 3DO is somewhat affordable(I hear you can burn the discs), but I love the look of the Jag. Can’t decide so I haven’t pulled the trigger…</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TampaTrendkill"> /u/TampaTrendkill </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ib6ik2/shou
+
+## Any high-res scans of this poster?
+ - [https://www.reddit.com/r/retrogaming/comments/1ib5cn3/any_highres_scans_of_this_poster](https://www.reddit.com/r/retrogaming/comments/1ib5cn3/any_highres_scans_of_this_poster)
+ - RSS feed: $source
+ - date published: 2025-01-27T10:25:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ib5cn3/any_highres_scans_of_this_poster/"> <img src="https://a.thumbs.redditmedia.com/e-An0h6Rd5cnvg42WorSgNzMVzCz1GVI08R5GzODRc8.jpg" alt="Any high-res scans of this poster?" title="Any high-res scans of this poster?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Checked just about everywhere online, no dice.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BlaznWolf"> /u/BlaznWolf </a> <br/> <span><a href="https://www.reddit.com/gallery/1ib5cn3">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ib5cn3/any_highres_scans_of_this_poster/">[comments]</a></span> </td></tr></table>
+
+## The EU stop killing games petition is failing, we at best get 200 a day which is not enough to pass 1 million, we ask that the entire EU gaming population sign immediately, if we can get 100k in February that will be a start.
+ - [https://www.reddit.com/r/retrogaming/comments/1ib561c/the_eu_stop_killing_games_petition_is_failing_we](https://www.reddit.com/r/retrogaming/comments/1ib561c/the_eu_stop_killing_games_petition_is_failing_we)
+ - RSS feed: $source
+ - date published: 2025-01-27T10:14:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ib561c/the_eu_stop_killing_games_petition_is_failing_we/"> <img src="https://preview.redd.it/i87pqxouocfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aab74497195a56de2ba6f9b1edc343690736ff4f" alt="The EU stop killing games petition is failing, we at best get 200 a day which is not enough to pass 1 million, we ask that the entire EU gaming population sign immediately, if we can get 100k in February that will be a start." title="The EU stop killing games petition is failing, we at best get 200 a day which is not enough to pass 1 million, we ask that the entire EU gaming population sign immediately, if we can get 100k in February that will be a start." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Revolutionary_Ad6574"> /u/Revolutionary_Ad6574 </a> <br/> <span><a href="https://i.redd.it/i87pqxouocfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retro
+
+## The EU stop killing games petition is failing, we at best get 200 a day which is not enough to pass 1 million, we ask that the entire EU gaming population sign immediately, if we can get 100k in February that will be a start.
+ - [https://www.reddit.com/r/retrogaming/comments/1ib55sb/the_eu_stop_killing_games_petition_is_failing_we](https://www.reddit.com/r/retrogaming/comments/1ib55sb/the_eu_stop_killing_games_petition_is_failing_we)
+ - RSS feed: $source
+ - date published: 2025-01-27T10:14:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ib55sb/the_eu_stop_killing_games_petition_is_failing_we/"> <img src="https://preview.redd.it/gk81863lhife1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ba1848b741a80582ae2efa40fe1341527d9f6c1c" alt="The EU stop killing games petition is failing, we at best get 200 a day which is not enough to pass 1 million, we ask that the entire EU gaming population sign immediately, if we can get 100k in February that will be a start." title="The EU stop killing games petition is failing, we at best get 200 a day which is not enough to pass 1 million, we ask that the entire EU gaming population sign immediately, if we can get 100k in February that will be a start." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>The petition for eu citizens: <a href="https://eci.ec.europa.eu/045/public/#/screen/home">https://eci.ec.europa.eu/045/public/#/screen/home</a></p> <p>To anyone from the uk, sign this:</p> <p><a href="https:/
+
+## Everyone should be aware of this ebay seller, who has been running the same scam for years. I almost just got trapped by it - they claim they’re selling “pristine like new” games from their “private collection” but they are really just resurfaced old ones bought elsewhere.
+ - [https://www.reddit.com/r/retrogaming/comments/1ib3lgp/everyone_should_be_aware_of_this_ebay_seller_who](https://www.reddit.com/r/retrogaming/comments/1ib3lgp/everyone_should_be_aware_of_this_ebay_seller_who)
+ - RSS feed: $source
+ - date published: 2025-01-27T08:33:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ib3lgp/everyone_should_be_aware_of_this_ebay_seller_who/"> <img src="https://preview.redd.it/7x0n0ynwyhfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7cde559f84168bd234b494346fe0c5e4852fde57" alt="Everyone should be aware of this ebay seller, who has been running the same scam for years. I almost just got trapped by it - they claim they’re selling “pristine like new” games from their “private collection” but they are really just resurfaced old ones bought elsewhere." title="Everyone should be aware of this ebay seller, who has been running the same scam for years. I almost just got trapped by it - they claim they’re selling “pristine like new” games from their “private collection” but they are really just resurfaced old ones bought elsewhere." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/katiecharm"> /u/katiecharm </a> <br/> <span><a href="https://i.redd.it/7x0n0ynwyhfe1
+
+## Using Old DLP projector for retro gaming. How to prepare this room for my Runco RS-440? Use case retro gaming on Batocera on PC at 720p over HDMI
+ - [https://www.reddit.com/r/retrogaming/comments/1ib3giw/using_old_dlp_projector_for_retro_gaming_how_to](https://www.reddit.com/r/retrogaming/comments/1ib3giw/using_old_dlp_projector_for_retro_gaming_how_to)
+ - RSS feed: $source
+ - date published: 2025-01-27T08:22:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>I asked this on <a href="/r/projectors">r/projectors</a> but I wanted to see if you guys had some insight.</p> <p>Projector about 10-15 feet from projection surface which is marked with a red X, The projector has a fresh bulb. Room is dark with lights off but has slight bleed from orange street light below. I intend to use the projector mostly at night with all other lights in room off. what color screen should I use? should I darken the area around the screen? do I need black out curtains with a room that&#39;s already fairly dark at night but has some street light bleed? Long shot question, does anyone know what input lag I should expect, I saw Mylifeingaming on youtube got good input lag with old home theater projectors from this era can I achieve 25ms or less over Hdmi/dvi with this model?</p> <p>intended screen size is 60&quot; in 16 by 9</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/stumbleinthejungle"> 
+
+## Is the first Generation model Sega Genesis/Mega Drive the best in terms of hardware like in sound processing, video quality than its later slim model release? If you had both model then what is your thoughts on this?
+ - [https://www.reddit.com/r/retrogaming/comments/1ib0tc5/is_the_first_generation_model_sega_genesismega](https://www.reddit.com/r/retrogaming/comments/1ib0tc5/is_the_first_generation_model_sega_genesismega)
+ - RSS feed: $source
+ - date published: 2025-01-27T05:28:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ib0tc5/is_the_first_generation_model_sega_genesismega/"> <img src="https://preview.redd.it/fnr7i1qg2hfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bdd5f0f6e6b4a6132a212c5a8d41b41511394391" alt="Is the first Generation model Sega Genesis/Mega Drive the best in terms of hardware like in sound processing, video quality than its later slim model release? If you had both model then what is your thoughts on this?" title="Is the first Generation model Sega Genesis/Mega Drive the best in terms of hardware like in sound processing, video quality than its later slim model release? If you had both model then what is your thoughts on this?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gold-Agent24k"> /u/Gold-Agent24k </a> <br/> <span><a href="https://i.redd.it/fnr7i1qg2hfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ib0tc5/is_the_fir
+
+## Most recent "retro war room setup"
+ - [https://www.reddit.com/r/retrogaming/comments/1ib05z5/most_recent_retro_war_room_setup](https://www.reddit.com/r/retrogaming/comments/1ib05z5/most_recent_retro_war_room_setup)
+ - RSS feed: $source
+ - date published: 2025-01-27T04:49:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ib05z5/most_recent_retro_war_room_setup/"> <img src="https://a.thumbs.redditmedia.com/U3glgIH5wY7o96hRW_6u-NhCxw2g-uO_QzYYYxKUkY4.jpg" alt="Most recent &quot;retro war room setup&quot;" title="Most recent &quot;retro war room setup&quot;" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Wife and I set this up after months of life being super crazy. Been a while since eithet of us have had a legitimate game room.</p> <p>(Also, the &quot;Blockbuster&quot; blue rug we found really helps tie it all together.)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Seandoodprobably"> /u/Seandoodprobably </a> <br/> <span><a href="https://www.reddit.com/gallery/1ib05z5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ib05z5/most_recent_retro_war_room_setup/">[comments]</a></span> </td></tr></table>
+
+## Favorite comic book style game? Comix zone is awesome art work and probably cool story but unforgivingly difficult and I always give up
+ - [https://www.reddit.com/r/retrogaming/comments/1ib03yi/favorite_comic_book_style_game_comix_zone_is](https://www.reddit.com/r/retrogaming/comments/1ib03yi/favorite_comic_book_style_game_comix_zone_is)
+ - RSS feed: $source
+ - date published: 2025-01-27T04:46:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ib03yi/favorite_comic_book_style_game_comix_zone_is/"> <img src="https://preview.redd.it/56qgv4qrtgfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=07d57d3680f5128748b91990a51ae38812063ad4" alt="Favorite comic book style game? Comix zone is awesome art work and probably cool story but unforgivingly difficult and I always give up" title="Favorite comic book style game? Comix zone is awesome art work and probably cool story but unforgivingly difficult and I always give up" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Johndeauxman"> /u/Johndeauxman </a> <br/> <span><a href="https://i.redd.it/56qgv4qrtgfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ib03yi/favorite_comic_book_style_game_comix_zone_is/">[comments]</a></span> </td></tr></table>
+
+## What game would you choose out of these 4 classics ?
+ - [https://www.reddit.com/r/retrogaming/comments/1iaywb6/what_game_would_you_choose_out_of_these_4_classics](https://www.reddit.com/r/retrogaming/comments/1iaywb6/what_game_would_you_choose_out_of_these_4_classics)
+ - RSS feed: $source
+ - date published: 2025-01-27T03:44:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iaywb6/what_game_would_you_choose_out_of_these_4_classics/"> <img src="https://preview.redd.it/6kjcxqq0kgfe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2b17e71cc1b0b55735272edce56fd2c4f14c3a7" alt="What game would you choose out of these 4 classics ?" title="What game would you choose out of these 4 classics ?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PactownSS"> /u/PactownSS </a> <br/> <span><a href="https://i.redd.it/6kjcxqq0kgfe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iaywb6/what_game_would_you_choose_out_of_these_4_classics/">[comments]</a></span> </td></tr></table>
+
+## What’s the One Retro Game You Wish You Had as a Kid?
+ - [https://www.reddit.com/r/retrogaming/comments/1iavkl2/whats_the_one_retro_game_you_wish_you_had_as_a_kid](https://www.reddit.com/r/retrogaming/comments/1iavkl2/whats_the_one_retro_game_you_wish_you_had_as_a_kid)
+ - RSS feed: $source
+ - date published: 2025-01-27T00:53:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey RetroGaming fans! Looking back at all the amazing games we grew up with, I often wonder: what’s the one retro game you wish you had as a kid but didn’t?<br/> For me, it’s <em>Chrono Trigger</em> on the SNES. I had no idea how incredible it was at the time, and I only discovered it much later! What about you? Was there a game that slipped through the cracks, or one that was just too expensive back in the day? Let’s share our nostalgia stories!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/overeducatedlady"> /u/overeducatedlady </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1iavkl2/whats_the_one_retro_game_you_wish_you_had_as_a_kid/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iavkl2/whats_the_one_retro_game_you_wish_you_had_as_a_kid/">[comments]</a></span>
+

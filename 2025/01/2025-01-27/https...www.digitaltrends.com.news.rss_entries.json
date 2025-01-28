@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-27T14:43:51.022781+00:00",
+        "description": "Tech Product Reviews, How To, Best Ofs, deals and Advice",
+        "id": 1985553,
+        "language": "en-US",
+        "link": "https://www.digitaltrends.com/news/rss",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 94,
+        "source_url": "https://www.digitaltrends.com/news/rss",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Digital Trends",
+        "vote": 0
+    }
+]

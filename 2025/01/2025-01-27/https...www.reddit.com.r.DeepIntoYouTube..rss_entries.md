@@ -1,0 +1,86 @@
+# Source:The Dark Depths of YouTube, URL:https://www.reddit.com/r/DeepIntoYouTube/.rss, language:en
+
+## the guy gives dumbass titles to the videos of live indie and jazz gigs
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1ibell4/the_guy_gives_dumbass_titles_to_the_videos_of](https://www.reddit.com/r/DeepIntoYouTube/comments/1ibell4/the_guy_gives_dumbass_titles_to_the_videos_of)
+ - RSS feed: $source
+ - date published: 2025-01-27T17:25:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ibell4/the_guy_gives_dumbass_titles_to_the_videos_of/"> <img src="https://external-preview.redd.it/HnhQedOl3v5kRooNkucclS8xbVp83lHpBHBdPsj9nX4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=588493644f11e3706cb877ed3a4ed4a3df9d9c2c" alt="the guy gives dumbass titles to the videos of live indie and jazz gigs" title="the guy gives dumbass titles to the videos of live indie and jazz gigs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tehdrumstick"> /u/tehdrumstick </a> <br/> <span><a href="https://youtu.be/Mhou0zXGnUw?si=NkHXMwJk3WUZyups">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ibell4/the_guy_gives_dumbass_titles_to_the_videos_of/">[comments]</a></span> </td></tr></table>
+
+## weird video. only has 28 views.
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1ibd9mu/weird_video_only_has_28_views](https://www.reddit.com/r/DeepIntoYouTube/comments/1ibd9mu/weird_video_only_has_28_views)
+ - RSS feed: $source
+ - date published: 2025-01-27T16:32:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ibd9mu/weird_video_only_has_28_views/"> <img src="https://external-preview.redd.it/QW2t5TsDro4AVfiFUn8LKMy_fRcGR-9-gTJW67keIAk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0777d31f7640be31db1f7017a73b2b4ee55566a6" alt="weird video. only has 28 views." title="weird video. only has 28 views." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/River_Remixes"> /u/River_Remixes </a> <br/> <span><a href="https://youtu.be/mA9AMj6eUE0?si=EB3gExOKSZYT98nj">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ibd9mu/weird_video_only_has_28_views/">[comments]</a></span> </td></tr></table>
+
+## [7 Months Ago, 912 Views] Poorly animated cartoon about pirating music.
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1ibctmh/7_months_ago_912_views_poorly_animated_cartoon](https://www.reddit.com/r/DeepIntoYouTube/comments/1ibctmh/7_months_ago_912_views_poorly_animated_cartoon)
+ - RSS feed: $source
+ - date published: 2025-01-27T16:14:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ibctmh/7_months_ago_912_views_poorly_animated_cartoon/"> <img src="https://external-preview.redd.it/jt4vvSoMIAZWVjyoewRdJx40sCquXVa1juN3BjpfnUY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9abe68f9fe8b2d7f42e9673f453c913f7c982f97" alt="[7 Months Ago, 912 Views] Poorly animated cartoon about pirating music." title="[7 Months Ago, 912 Views] Poorly animated cartoon about pirating music." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FemboylnHeat"> /u/FemboylnHeat </a> <br/> <span><a href="https://youtu.be/t7-aucp1PUk?si=zWnmLwM1os_ixRi0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ibctmh/7_months_ago_912_views_poorly_animated_cartoon/">[comments]</a></span> </td></tr></table>
+
+## Strange picture getting stranger (views number seems locked at 333)
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1ibbcmj/strange_picture_getting_stranger_views_number](https://www.reddit.com/r/DeepIntoYouTube/comments/1ibbcmj/strange_picture_getting_stranger_views_number)
+ - RSS feed: $source
+ - date published: 2025-01-27T15:13:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ibbcmj/strange_picture_getting_stranger_views_number/"> <img src="https://external-preview.redd.it/5KAfsOhno-KR-Vvn9F14yFaa1cC2fl_qqrx-VQmL_Ws.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=225654be08e8a97e0433662b272f5eb72557650c" alt="Strange picture getting stranger (views number seems locked at 333)" title="Strange picture getting stranger (views number seems locked at 333)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lebeaugeek"> /u/lebeaugeek </a> <br/> <span><a href="https://youtu.be/nL1m6pSuR8Y?si=BY0MJZBS0HG1fbEP">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ibbcmj/strange_picture_getting_stranger_views_number/">[comments]</a></span> </td></tr></table>
+
+## ⚠️Add subtitles⚠️
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1ibbade/add_subtitles](https://www.reddit.com/r/DeepIntoYouTube/comments/1ibbade/add_subtitles)
+ - RSS feed: $source
+ - date published: 2025-01-27T15:11:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ibbade/add_subtitles/"> <img src="https://external-preview.redd.it/RT4eogV8YKU5BsvPkJv6f7egomNv8crDhw8h-xe4iSo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=10b28113c157758c0f5bb8dec848c6956c157586" alt="⚠️Add subtitles⚠️" title="⚠️Add subtitles⚠️" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lebeaugeek"> /u/lebeaugeek </a> <br/> <span><a href="https://youtu.be/1yC5y8Kzx74?si=Xr3xhbPlnC_jkHMo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ibbade/add_subtitles/">[comments]</a></span> </td></tr></table>
+
+## 🔥 beat
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1ib6hpd/beat](https://www.reddit.com/r/DeepIntoYouTube/comments/1ib6hpd/beat)
+ - RSS feed: $source
+ - date published: 2025-01-27T11:28:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ib6hpd/beat/"> <img src="https://external-preview.redd.it/9HF6WYAlBGmg6ekLwalD9jY5i9VSLAaqaESW12Bu2lc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=43586f1f0a8ba2967fb4002414694dfd459df648" alt="🔥 beat" title="🔥 beat" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/whatthatthingis"> /u/whatthatthingis </a> <br/> <span><a href="https://www.youtube.com/watch?v=2WhxyeJ1-FE">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ib6hpd/beat/">[comments]</a></span> </td></tr></table>
+
+## Gaunt frog-robot tells you the key to success
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1ib5rb7/gaunt_frogrobot_tells_you_the_key_to_success](https://www.reddit.com/r/DeepIntoYouTube/comments/1ib5rb7/gaunt_frogrobot_tells_you_the_key_to_success)
+ - RSS feed: $source
+ - date published: 2025-01-27T10:48:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ib5rb7/gaunt_frogrobot_tells_you_the_key_to_success/"> <img src="https://external-preview.redd.it/7qN0Ky0mUW3YvqIedRI_r7GTy-DN77_PvciH5P8jo4s.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=209a0fd4aba2ee51f7304831a6a20da860b37285" alt="Gaunt frog-robot tells you the key to success" title="Gaunt frog-robot tells you the key to success" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LavaMeteor"> /u/LavaMeteor </a> <br/> <span><a href="https://youtu.be/5H9KcAeWetA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ib5rb7/gaunt_frogrobot_tells_you_the_key_to_success/">[comments]</a></span> </td></tr></table>
+
+## spongebob can't take this shit no more man
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1ib335h/spongebob_cant_take_this_shit_no_more_man](https://www.reddit.com/r/DeepIntoYouTube/comments/1ib335h/spongebob_cant_take_this_shit_no_more_man)
+ - RSS feed: $source
+ - date published: 2025-01-27T08:00:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ib335h/spongebob_cant_take_this_shit_no_more_man/"> <img src="https://external-preview.redd.it/KwwSh2xBS1NYSNLdNW4XMyW0efAQd7q6xtYl2ZLIyX0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e655fc6338e305754587319ffc653b6394be296e" alt="spongebob can't take this shit no more man" title="spongebob can't take this shit no more man" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CreativeOriginalNaem"> /u/CreativeOriginalNaem </a> <br/> <span><a href="https://youtu.be/CgidXtb3H48?si=HSoMXUra-b_Hb4UY">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ib335h/spongebob_cant_take_this_shit_no_more_man/">[comments]</a></span> </td></tr></table>
+
+## 1 Hour of Slapping myself for every 15 second - Relaxing slaps to Calm your shame/guilt/frustration
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1ib2eom/1_hour_of_slapping_myself_for_every_15_second](https://www.reddit.com/r/DeepIntoYouTube/comments/1ib2eom/1_hour_of_slapping_myself_for_every_15_second)
+ - RSS feed: $source
+ - date published: 2025-01-27T07:16:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ib2eom/1_hour_of_slapping_myself_for_every_15_second/"> <img src="https://external-preview.redd.it/IlTxKlcyD8VdtOaSvvOjHISP1g-94zQxiqzUzqaALao.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fb0fed6fe945b4dcf2f29de805ffb08ea3872735" alt="1 Hour of Slapping myself for every 15 second - Relaxing slaps to Calm your shame/guilt/frustration" title="1 Hour of Slapping myself for every 15 second - Relaxing slaps to Calm your shame/guilt/frustration" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zarrazoko"> /u/Zarrazoko </a> <br/> <span><a href="https://youtu.be/sbdrP26D7vw?si=lisy3ECX3Kt6cfiL">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ib2eom/1_hour_of_slapping_myself_for_every_15_second/">[comments]</a></span> </td></tr></table>
+
+## https://youtu.be/jw8s-GOXXVc?si=6tvHezahd35J9K_G. Noise Newly Launched Air Buds 6 in-Ear Truly Wireless Earbuds with NoiseBuds Link App, ANC
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1ib1sw1/httpsyoutubejw8sgoxxvcsi6tvhezahd35j9k_g_noise](https://www.reddit.com/r/DeepIntoYouTube/comments/1ib1sw1/httpsyoutubejw8sgoxxvcsi6tvhezahd35j9k_g_noise)
+ - RSS feed: $source
+ - date published: 2025-01-27T06:33:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ib1sw1/httpsyoutubejw8sgoxxvcsi6tvhezahd35j9k_g_noise/"> <img src="https://external-preview.redd.it/hSCFkniZW3IEe7ccVYYpbi2kh4bRpbTPAyudwz26c_E.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b78bd3d2580d81725df21006d1f45cded37ad366" alt="https://youtu.be/jw8s-GOXXVc?si=6tvHezahd35J9K_G. Noise Newly Launched Air Buds 6 in-Ear Truly Wireless Earbuds with NoiseBuds Link App, ANC" title="https://youtu.be/jw8s-GOXXVc?si=6tvHezahd35J9K_G. Noise Newly Launched Air Buds 6 in-Ear Truly Wireless Earbuds with NoiseBuds Link App, ANC" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Humble-Mycologist866"> /u/Humble-Mycologist866 </a> <br/> <span><a href="https://youtu.be/jw8s-GOXXVc?si=6tvHezahd35J9K_G">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ib1sw1/httpsyoutubejw8sgoxxvcsi6tvhezahd35j9k_g_noise/">[comments]</a></span> </td></tr></table>
+
+## Facelift diary- Years 1 & 2 of living hell
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1iazj2o/facelift_diary_years_1_2_of_living_hell](https://www.reddit.com/r/DeepIntoYouTube/comments/1iazj2o/facelift_diary_years_1_2_of_living_hell)
+ - RSS feed: $source
+ - date published: 2025-01-27T04:13:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iazj2o/facelift_diary_years_1_2_of_living_hell/"> <img src="https://external-preview.redd.it/SSNPA8m3ssph5NuFsKI9Z-MHOUSHm6txi7osXNJ9ONc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9c96a8fa2d83a80a120716e2e927cbcc59f8ca52" alt="Facelift diary- Years 1 &amp; 2 of living hell" title="Facelift diary- Years 1 &amp; 2 of living hell" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spiritual_Town_7181"> /u/Spiritual_Town_7181 </a> <br/> <span><a href="https://youtu.be/2PT9k1rvH3k?si=N8Sx-77rZzPOOWNa">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iazj2o/facelift_diary_years_1_2_of_living_hell/">[comments]</a></span> </td></tr></table>
+
+## JFK polish investigation
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1iav3tc/jfk_polish_investigation](https://www.reddit.com/r/DeepIntoYouTube/comments/1iav3tc/jfk_polish_investigation)
+ - RSS feed: $source
+ - date published: 2025-01-27T00:31:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iav3tc/jfk_polish_investigation/"> <img src="https://external-preview.redd.it/MHIOn-U0JIdCNen-G44zDkQRV66qoMQJsWBID4sAfCg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8dffeb09355c0ef620d50c42ee31a1f8efcfee94" alt="JFK polish investigation" title="JFK polish investigation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Klok_Melagis"> /u/Klok_Melagis </a> <br/> <span><a href="https://www.youtube.com/watch?v=vy0nVAle-Uc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iav3tc/jfk_polish_investigation/">[comments]</a></span> </td></tr></table>
+
