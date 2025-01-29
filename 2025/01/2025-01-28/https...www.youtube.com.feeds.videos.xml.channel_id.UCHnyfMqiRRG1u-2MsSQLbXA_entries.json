@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-28T19:17:22+00:00",
+        "description": "The invention that's super sticky, a little picky, and easy to unstick only if you know the trick!\nGet a little smarter every day with Brilliant. Visit https://brilliant.org/veritasium for a 30-day free trial and 20% off your annual premium subscription.\n\nA heartfelt thank you to Dr. Allison Christy and Dr. John Bobo for their invaluable expertise, fresh perspectives, and explanations.\nThank you to Emily Von Stein and Chris Masahiro at Aron Alpha, Dr. Chantelle Champagne, and Dr. Rohit Gupta for their time and contributions to the initial research that laid the groundwork for this project.\n\nTry Snatoms! A molecular modelling kit I invented where the atoms snap together.\nhttps://ve42.co/SnatomsV  \n\n\u2580\u2580\u2580\n0:00 The Invention of Super Glue\n2:43 How Does Super Glue Work?\n5:38 How To Get Superglue Off Your Skin\n8:33 Why Is Super Glue So Strong? \n12:00 Why Doesn\u2019t Super Glue Work on plastic?\n13:45 Mixing Super Glue and Baking Soda\n15:30 Using Super Glue Underwater\n15:59 Super Glue On Wounds\n1",
+        "id": 1993907,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Ni82f1-cAXg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Ni82f1-cAXg/hqdefault.jpg",
+        "title": "Why Super Glue Is Perfect For Gluing Skin",
+        "vote": 0
+    }
+]

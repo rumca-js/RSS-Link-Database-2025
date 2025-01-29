@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Climate Town",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-28T20:21:35+00:00",
+        "description": "In 1939, General Motors Corporation sponsored a huge exhibit at the NY World's Fair called 'Futurama.' It envisioned a car-centric world with alarming similarity to the one we have today.\nWatch the full video for more.",
+        "id": 1994326,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=TDnzDnKOrLo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 71,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuVLG9pThvBABcYCm7pkNkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TDnzDnKOrLo/hqdefault.jpg",
+        "title": "How General Motors Brainwashed American Cities",
+        "vote": 0
+    }
+]

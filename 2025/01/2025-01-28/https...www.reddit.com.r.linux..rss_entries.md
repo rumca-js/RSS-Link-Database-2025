@@ -1,0 +1,100 @@
+# Source:Linux, GNU/Linux, free software..., URL:https://www.reddit.com/r/linux/.rss, language:en
+
+## Suggestion for fast copy of lots of files from Linux to Windows.
+ - [https://www.reddit.com/r/linux/comments/1iccmsx/suggestion_for_fast_copy_of_lots_of_files_from](https://www.reddit.com/r/linux/comments/1iccmsx/suggestion_for_fast_copy_of_lots_of_files_from)
+ - RSS feed: $source
+ - date published: 2025-01-28T21:18:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi there. I had a opensuse Linux machine which just suddenly didn&#39;t boot anymore since yesterday. Fortunately I managed to load the system file with a rescue disk and connect to it via ssh. Now I have around 24M files on Linux with the total size of 30TB that I need to transfer to a windows machine on another esxi. I&#39;ve connected the two machines directly with 10GB network adapters and a fiber cable, so there&#39;s no physical switch between the machines. The datastore of Linux machine is on a NAS lun which is connected to the network with a 1GB Ethernet cable. The datastore of windows is on the logical drive of the same server that esxi is installed on it. The HDD on both machines is WD Red Pro. I first tried to transfer the data from Linux to windows using GoodSync but it always hangs in the middle of analysing. Then used lftp on Linux machines but its speed doesn&#39;t go beyond 3Mb/s. Lastly I ran multiple rsync from Linux to windows and 
+
+## Gnome Files search-on-typing is annoying!
+ - [https://www.reddit.com/r/linux/comments/1icbd0i/gnome_files_searchontyping_is_annoying](https://www.reddit.com/r/linux/comments/1icbd0i/gnome_files_searchontyping_is_annoying)
+ - RSS feed: $source
+ - date published: 2025-01-28T20:26:17+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/sohang-3112"> /u/sohang-3112 </a> <br/> <span><a href="/r/gnome/comments/1icbaec/gnome_files_searchontyping_is_annoying/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1icbd0i/gnome_files_searchontyping_is_annoying/">[comments]</a></span>
+
+## Plasma 6.3 will come loaded with drawing tablet goodies
+ - [https://www.reddit.com/r/linux/comments/1ic9385/plasma_63_will_come_loaded_with_drawing_tablet](https://www.reddit.com/r/linux/comments/1ic9385/plasma_63_will_come_loaded_with_drawing_tablet)
+ - RSS feed: $source
+ - date published: 2025-01-28T18:55:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Plasma 6.3 is just around the corner and it will come loaded with new features for drawing tablets and improved Wayland support. This work was made by Redstrate as part of their work on the We Care About Your Input - KDE Goals project.</p> <p>There is even a website with the current status and planned goodies: <a href="https://artonwayland.redstrate.com/">https://artonwayland.redstrate.com/</a></p> <p><a href="https://preview.redd.it/plasma-6-3-will-come-loaded-with-drawing-tablet-goodies-v0-no7spnnk6sfe1.png?width=1635&amp;format=png&amp;auto=webp&amp;s=e36b3b816532ff55efe2d3fc388da68aebc36470"></a></p> <p><a href="https://preview.redd.it/d2hfab5b7sfe1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=5d37ea5dd16329d393dde4647470c1c7508af547">Interface for changing the input area of the tablet</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/f_r_d"> /u/f_r_d </a> <br/> <span><a href="https://www.reddit.com/r
+
+## Best distro for my grandparents' low-end laptop?
+ - [https://www.reddit.com/r/linux/comments/1ic8n0y/best_distro_for_my_grandparents_lowend_laptop](https://www.reddit.com/r/linux/comments/1ic8n0y/best_distro_for_my_grandparents_lowend_laptop)
+ - RSS feed: $source
+ - date published: 2025-01-28T18:37:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, I&#39;ve been considering installing Linux on my grandparents&#39; laptop, which barely even runs with Windows 10 at the moment. They only really use it for the banking website, nothing fancy. A perfect choice would be a distro that&#39;s both lightweight and beginner-friendly. Some that I consider are Lubuntu and Mint Xfce. Would one of these be alright or there are even better options?</p> <p>It&#39;s got 4 GB of RAM and the i3-4005U CPU.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AtomicTaco13"> /u/AtomicTaco13 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1ic8n0y/best_distro_for_my_grandparents_lowend_laptop/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ic8n0y/best_distro_for_my_grandparents_lowend_laptop/">[comments]</a></span>
+
+## Fireship claims Nvidia has better Linux drivers than AMD
+ - [https://www.reddit.com/r/linux/comments/1ic8jeu/fireship_claims_nvidia_has_better_linux_drivers](https://www.reddit.com/r/linux/comments/1ic8jeu/fireship_claims_nvidia_has_better_linux_drivers)
+ - RSS feed: $source
+ - date published: 2025-01-28T18:32:57+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/friskfrugt"> /u/friskfrugt </a> <br/> <span><a href="https://odysee.com/@fireship:6/big-tech-in-panic-mode...-did-deepseek:2?t=146">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ic8jeu/fireship_claims_nvidia_has_better_linux_drivers/">[comments]</a></span>
+
+## macbook pro 2018-t2 chip and linux in 2025, will it work?
+ - [https://www.reddit.com/r/linux/comments/1ic7cxt/macbook_pro_2018t2_chip_and_linux_in_2025_will_it](https://www.reddit.com/r/linux/comments/1ic7cxt/macbook_pro_2018t2_chip_and_linux_in_2025_will_it)
+ - RSS feed: $source
+ - date published: 2025-01-28T17:45:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>i have a fully working Macbook Pro 2018 with T2 chip, it&#39;s my main device, however i don&#39;t see anymore reasons to stick to MacOS, since i almost shifted 90% to open source software. i&#39;m thinking to switch to Ubuntu or Mint, and from my research there&#39;s no updates of the state of linux since 2-3 years ago.</p> <p>have to mention that both mint and ubuntu, and even debian works very well on a virtual machine, if it says anything, anyone knows what is the state of it today?</p> <p>thank you</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Be_Kal_Brl88"> /u/Be_Kal_Brl88 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1ic7cxt/macbook_pro_2018t2_chip_and_linux_in_2025_will_it/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ic7cxt/macbook_pro_2018t2_chip_and_linux_in_2025_will_it/">[comments]</a></span>
+
+## Carburetor, easy-to-use TOR app for linux
+ - [https://www.reddit.com/r/linux/comments/1ic6pib/carburetor_easytouse_tor_app_for_linux](https://www.reddit.com/r/linux/comments/1ic6pib/carburetor_easytouse_tor_app_for_linux)
+ - RSS feed: $source
+ - date published: 2025-01-28T17:18:30+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://flathub.org/apps/io.frama.tractor.carburetor">Carburetor</a> is a simple GUI for TOR with all necessary features to boost your online privacy.</p> <p><a href="https://preview.redd.it/o82p3gixprfe1.png?width=877&amp;format=png&amp;auto=webp&amp;s=3d02cd6719116db225bd3cb0dec6733207ef7b62">https://preview.redd.it/o82p3gixprfe1.png?width=877&amp;format=png&amp;auto=webp&amp;s=3d02cd6719116db225bd3cb0dec6733207ef7b62</a></p> <p>Features include:</p> <ul> <li>System proxy toggle - turn systemwide traffic routing on/off</li> <li>Select exit note country </li> <li><a href="https://github.com/DrWhax/FascistFirewall">FascistFirewall</a> mode - restrict connections to port 80 and 443</li> <li>Set custom ports for local SOCKS, HTTP and DNS</li> <li>Select TOR bridge types</li> <li>Add custom bridges</li> <li>Works everywhere - runs on linux phones and desktops, available as Flatpak for maximum compatibility, no need to mess with system files</li
+
+## Lets talk bootloaders
+ - [https://www.reddit.com/r/linux/comments/1ic6gri/lets_talk_bootloaders](https://www.reddit.com/r/linux/comments/1ic6gri/lets_talk_bootloaders)
+ - RSS feed: $source
+ - date published: 2025-01-28T17:08:53+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/AdBrave2400"> /u/AdBrave2400 </a> <br/> <span><a href="/r/linux4noobs/comments/1ic5r50/lets_talk_bootloaders/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ic6gri/lets_talk_bootloaders/">[comments]</a></span>
+
+## Query: Why is it so hard
+ - [https://www.reddit.com/r/linux/comments/1ic58km/query_why_is_it_so_hard](https://www.reddit.com/r/linux/comments/1ic58km/query_why_is_it_so_hard)
+ - RSS feed: $source
+ - date published: 2025-01-28T16:18:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>For desktop environments to replicate panels across all monitors? I see all recommendations is add a new panel and configure it like the monitor 1 panel. But if you add anything to one, it is not replicated to the other. I saw a post regarding KDE Plasma where they said this was difficult to do, but MACOS seems to do it with no problem. So I just wonder, why is it so difficult for anything else?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Popular-Help5687"> /u/Popular-Help5687 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1ic58km/query_why_is_it_so_hard/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ic58km/query_why_is_it_so_hard/">[comments]</a></span>
+
+## android 16 terminal
+ - [https://www.reddit.com/r/linux/comments/1ic3fq0/android_16_terminal](https://www.reddit.com/r/linux/comments/1ic3fq0/android_16_terminal)
+ - RSS feed: $source
+ - date published: 2025-01-28T15:00:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>So this android 16 with a terminal built it, is it an actual native terminal where you can download actual programs and have access to the backend file system or just some vm that samsung has been doing for a while now? it would help to fully understand what this is so there is no confusion.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Glass_Pick9343"> /u/Glass_Pick9343 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1ic3fq0/android_16_terminal/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ic3fq0/android_16_terminal/">[comments]</a></span>
+
+## Windows is more secure than Linux?
+ - [https://www.reddit.com/r/linux/comments/1ic2gnf/windows_is_more_secure_than_linux](https://www.reddit.com/r/linux/comments/1ic2gnf/windows_is_more_secure_than_linux)
+ - RSS feed: $source
+ - date published: 2025-01-28T14:14:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>Sorry for intense claims, the thing is I am not programmer so I am still in doubt which OS is better for security.</p> <p>I am writing this to share an essay of certain programmer, that showcases how Linux is much less secure than Windows 10. Claims really seem based, and I cannot judge those as I don&#39;t know how it actually works.</p> <p>I wish someone with a lot of experience and knowledge with programming Linux, could answer at least some of the claims.</p> <p><a href="https://madaidans-insecurities.github.io/linux.html">https://madaidans-insecurities.github.io/linux.html</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/devplayz01"> /u/devplayz01 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1ic2gnf/windows_is_more_secure_than_linux/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ic2gnf/windows_is_more_secure_than_linux/">[comments]</a></span>
+
+## 4k vs 1440p dilemma
+ - [https://www.reddit.com/r/linux/comments/1ic1q71/4k_vs_1440p_dilemma](https://www.reddit.com/r/linux/comments/1ic1q71/4k_vs_1440p_dilemma)
+ - RSS feed: $source
+ - date published: 2025-01-28T13:37:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>4k vs 1440p monitor dilemma</p> <p>Hi, I fractional scaling is terrible on Linux but I am concerned which one is a better buy for someone that uses both macOS and Linux. I am stuck because scaling in both macOS and Linux sucks in a different way and this makes deciding really tough.</p> <p>4k: Looks bad on Linux when scaled 100% or 200 % and fractional scaling is buggy but looks quite nice on macOS.</p> <p>1440p: The ideal monitor for Linux with decent screen size on 100% scaling but this time, macOS scaling hits bad and text looks very blurry on macOS.</p> <p>I wonder is it worth going for 4k despite scaling issues on Linux or get 2k instead which will be good forLinux but problematic for macOS?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JailbreakHat"> /u/JailbreakHat </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1ic1q71/4k_vs_1440p_dilemma/">[link]</a></span> &#32; <span><a href="https
+
+## GPU based terminal and is there really an advantage.
+ - [https://www.reddit.com/r/linux/comments/1ibs1nq/gpu_based_terminal_and_is_there_really_an](https://www.reddit.com/r/linux/comments/1ibs1nq/gpu_based_terminal_and_is_there_really_an)
+ - RSS feed: $source
+ - date published: 2025-01-28T03:07:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve used Kitty terminal for the past 2 to 3 years now but I&#39;ve never really noticed any differences in CPU based terminals like foot.<br/> I actually find Kitty,Alacritty and ghostty to be a lot slower in startup.<br/> I did try understanding the logic behind why Kittys startup is slow and that is due to the python interpreter needing to be up first.<br/> What need are these terminals actually filling or is it just in case you accidentally one day run <code>cat</code> on a 1 GB file and that&#39;s the whole reason?<br/> Consider me ignorant to this and explain what it is actually providing.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Redox_ahmii"> /u/Redox_ahmii </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1ibs1nq/gpu_based_terminal_and_is_there_really_an/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ibs1nq/gpu_based_terminal_and_is_there_real
+
+## Laptop Improvements & More AMD Driver Features Merged For Linux 6.14
+ - [https://www.reddit.com/r/linux/comments/1ibre8y/laptop_improvements_more_amd_driver_features](https://www.reddit.com/r/linux/comments/1ibre8y/laptop_improvements_more_amd_driver_features)
+ - RSS feed: $source
+ - date published: 2025-01-28T02:34:06+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/unixbhaskar"> /u/unixbhaskar </a> <br/> <span><a href="https://www.phoronix.com/news/Linux-6.14-x86-Platform-Drivers">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ibre8y/laptop_improvements_more_amd_driver_features/">[comments]</a></span>
+

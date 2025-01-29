@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-28T16:13:19.850180+00:00",
+        "description": "No trackers, no ads. Black type, white background. Privacy policy: we don't collect or retain any data at all ever period.",
+        "id": 1990227,
+        "language": "en-US",
+        "link": "https://pluralistic.net/feed",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/pluralistic.net/wp-content/uploads/2020/02/cropped-guillotine-French-Revolution.jpg?fit=32%2C32&ssl=1",
+        "title": "Pluralistic: Daily links from Cory Doctorow",
+        "vote": 0
+    }
+]

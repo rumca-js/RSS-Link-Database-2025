@@ -1,0 +1,240 @@
+# Source:World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Poll: 85% of Greenlanders do not want to be part of the US
+ - [https://www.reddit.com/r/worldnews/comments/1iccrv5/poll_85_of_greenlanders_do_not_want_to_be_part_of](https://www.reddit.com/r/worldnews/comments/1iccrv5/poll_85_of_greenlanders_do_not_want_to_be_part_of)
+ - RSS feed: $source
+ - date published: 2025-01-28T21:24:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iccrv5/poll_85_of_greenlanders_do_not_want_to_be_part_of/"> <img src="https://external-preview.redd.it/Zk9u7vc4Nvy97yQNGNfoOP5wJmpdO5iiMiRxtj0AvsU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5a6d0c79e915042d620242c02ed81859d8b9f71" alt="Poll: 85% of Greenlanders do not want to be part of the US" title="Poll: 85% of Greenlanders do not want to be part of the US" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/professorbrainiac"> /u/professorbrainiac </a> <br/> <span><a href="https://www.reuters.com/world/poll-85-greenlanders-do-not-want-be-part-us-2025-01-28/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iccrv5/poll_85_of_greenlanders_do_not_want_to_be_part_of/">[comments]</a></span> </td></tr></table>
+
+## U.S. sending dozens of Patriot missiles from Israel to Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1icau5w/us_sending_dozens_of_patriot_missiles_from_israel](https://www.reddit.com/r/worldnews/comments/1icau5w/us_sending_dozens_of_patriot_missiles_from_israel)
+ - RSS feed: $source
+ - date published: 2025-01-28T20:04:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1icau5w/us_sending_dozens_of_patriot_missiles_from_israel/"> <img src="https://external-preview.redd.it/fhX7QVaR3QbdRKSLw6fjorxcZ5mIjSWdcVI05zrBCiY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=35a5ce5fc5c2854d2a724edecd1c7f8e159d7215" alt="U.S. sending dozens of Patriot missiles from Israel to Ukraine" title="U.S. sending dozens of Patriot missiles from Israel to Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spiderwig144"> /u/Spiderwig144 </a> <br/> <span><a href="https://www.axios.com/2025/01/28/us-patriot-missiles-ukraine-israel">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1icau5w/us_sending_dozens_of_patriot_missiles_from_israel/">[comments]</a></span> </td></tr></table>
+
+## Denmark announces $4.9M action plan to fight racism against Greenlanders
+ - [https://www.reddit.com/r/worldnews/comments/1ic9l4i/denmark_announces_49m_action_plan_to_fight_racism](https://www.reddit.com/r/worldnews/comments/1ic9l4i/denmark_announces_49m_action_plan_to_fight_racism)
+ - RSS feed: $source
+ - date published: 2025-01-28T19:15:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ic9l4i/denmark_announces_49m_action_plan_to_fight_racism/"> <img src="https://external-preview.redd.it/HxRE80ss9L0TmrJ-TXHPzz2x-hsPGjF0m29ZrR-H_LM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=520dd041ca3f5ac74689c1a319a13371c08e648f" alt="Denmark announces $4.9M action plan to fight racism against Greenlanders" title="Denmark announces $4.9M action plan to fight racism against Greenlanders" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rekihistory"> /u/rekihistory </a> <br/> <span><a href="https://www.aa.com.tr/en/world/denmark-announces-49m-action-plan-to-fight-racism-against-greenlanders/3463875">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ic9l4i/denmark_announces_49m_action_plan_to_fight_racism/">[comments]</a></span> </td></tr></table>
+
+## Poland and Canada sign nuclear power cooperation agreement
+ - [https://www.reddit.com/r/worldnews/comments/1ic91i8/poland_and_canada_sign_nuclear_power_cooperation](https://www.reddit.com/r/worldnews/comments/1ic91i8/poland_and_canada_sign_nuclear_power_cooperation)
+ - RSS feed: $source
+ - date published: 2025-01-28T18:53:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ic91i8/poland_and_canada_sign_nuclear_power_cooperation/"> <img src="https://external-preview.redd.it/gseXjfKtcPKw1xV9FfG7uReu3Yh-QJ5aReHw8tfHpBs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5073322279fa2e6e48fe71445fbe1016103e0267" alt="Poland and Canada sign nuclear power cooperation agreement" title="Poland and Canada sign nuclear power cooperation agreement" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sebek18"> /u/sebek18 </a> <br/> <span><a href="https://www.reuters.com/business/energy/poland-canada-sign-cooperation-agreement-nuclear-power-2025-01-28/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ic91i8/poland_and_canada_sign_nuclear_power_cooperation/">[comments]</a></span> </td></tr></table>
+
+## Canada’s Freeland Calls for Summit of Nations Bullied By Trump
+ - [https://www.reddit.com/r/worldnews/comments/1ic7jaj/canadas_freeland_calls_for_summit_of_nations](https://www.reddit.com/r/worldnews/comments/1ic7jaj/canadas_freeland_calls_for_summit_of_nations)
+ - RSS feed: $source
+ - date published: 2025-01-28T17:52:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ic7jaj/canadas_freeland_calls_for_summit_of_nations/"> <img src="https://external-preview.redd.it/PO6qRzJqqLD-S3W5QgQu1C8JyxvYJ21yYpYK2IDcdew.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=58e54219e203f483dadba45f72b4ff4945d89a06" alt="Canada’s Freeland Calls for Summit of Nations Bullied By Trump" title="Canada’s Freeland Calls for Summit of Nations Bullied By Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/j1ggy"> /u/j1ggy </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2025-01-27/canada-s-freeland-calls-for-summit-of-nations-bullied-by-trump?srnd=homepage-americas">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ic7jaj/canadas_freeland_calls_for_summit_of_nations/">[comments]</a></span> </td></tr></table>
+
+## EU to ban resale of PlayStation and Xbox to Russians, — Financial Times
+ - [https://www.reddit.com/r/worldnews/comments/1ic74d7/eu_to_ban_resale_of_playstation_and_xbox_to](https://www.reddit.com/r/worldnews/comments/1ic74d7/eu_to_ban_resale_of_playstation_and_xbox_to)
+ - RSS feed: $source
+ - date published: 2025-01-28T17:35:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ic74d7/eu_to_ban_resale_of_playstation_and_xbox_to/"> <img src="https://external-preview.redd.it/-7pQPOV10TnFhtT9JMo34ouVajLknWrzKoDmExeHlYc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b62a40f7d61b2c5327f9263c2689dd95aa143362" alt="EU to ban resale of PlayStation and Xbox to Russians, — Financial Times" title="EU to ban resale of PlayStation and Xbox to Russians, — Financial Times" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EsperaDeus"> /u/EsperaDeus </a> <br/> <span><a href="https://itc.ua/en/news/eu-to-ban-resale-of-playstation-and-xbox-to-russians-financial-times/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ic74d7/eu_to_ban_resale_of_playstation_and_xbox_to/">[comments]</a></span> </td></tr></table>
+
+## Norway is set to become the first country to fully transition to electric vehicles
+ - [https://www.reddit.com/r/worldnews/comments/1ic6u5l/norway_is_set_to_become_the_first_country_to](https://www.reddit.com/r/worldnews/comments/1ic6u5l/norway_is_set_to_become_the_first_country_to)
+ - RSS feed: $source
+ - date published: 2025-01-28T17:23:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ic6u5l/norway_is_set_to_become_the_first_country_to/"> <img src="https://external-preview.redd.it/FAFDJQp7AtkGjnGvbOVbKLRwuWNqYnQuZ3_HquEeirQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=905cd539714ac332ecd4f3bf6683c50a10ea44d4" alt="Norway is set to become the first country to fully transition to electric vehicles" title="Norway is set to become the first country to fully transition to electric vehicles" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Information6622"> /u/No-Information6622 </a> <br/> <span><a href="https://www.cnbc.com/2025/01/28/norway-set-to-be-the-first-to-fully-transition-to-electric-vehicles.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ic6u5l/norway_is_set_to_become_the_first_country_to/">[comments]</a></span> </td></tr></table>
+
+## Fears for ‘security of Jews worldwide’ in wake of Elon Musk AfD speech | The far right
+ - [https://www.reddit.com/r/worldnews/comments/1ic6nhr/fears_for_security_of_jews_worldwide_in_wake_of](https://www.reddit.com/r/worldnews/comments/1ic6nhr/fears_for_security_of_jews_worldwide_in_wake_of)
+ - RSS feed: $source
+ - date published: 2025-01-28T17:16:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ic6nhr/fears_for_security_of_jews_worldwide_in_wake_of/"> <img src="https://external-preview.redd.it/AEeMNtoEt0jl9f3zUY2rGWxWM4N-x5rqpSGSISN6Mfw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8197b64bfc2d5478b477a638ea60b115d3f5400b" alt="Fears for ‘security of Jews worldwide’ in wake of Elon Musk AfD speech | The far right" title="Fears for ‘security of Jews worldwide’ in wake of Elon Musk AfD speech | The far right" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NonWiseGuy"> /u/NonWiseGuy </a> <br/> <span><a href="https://www.theguardian.com/world/2025/jan/28/elon-musk-germany-afd-rally">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ic6nhr/fears_for_security_of_jews_worldwide_in_wake_of/">[comments]</a></span> </td></tr></table>
+
+## China and India stop trading in Russian oil because of US sanctions, Reuters reports
+ - [https://www.reddit.com/r/worldnews/comments/1ic4zu1/china_and_india_stop_trading_in_russian_oil](https://www.reddit.com/r/worldnews/comments/1ic4zu1/china_and_india_stop_trading_in_russian_oil)
+ - RSS feed: $source
+ - date published: 2025-01-28T16:07:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ic4zu1/china_and_india_stop_trading_in_russian_oil/"> <img src="https://external-preview.redd.it/rySkc21r9wambNOFzKUjJPfGa3hVx__7NrjxSsyZZpY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=149178c567df078f092ce2e203cc33a72d578d53" alt="China and India stop trading in Russian oil because of US sanctions, Reuters reports" title="China and India stop trading in Russian oil because of US sanctions, Reuters reports" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://www.pravda.com.ua/eng/news/2025/01/28/7495642/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ic4zu1/china_and_india_stop_trading_in_russian_oil/">[comments]</a></span> </td></tr></table>
+
+## Denmark to pump $2bn into Arctic security as Trump eyes Greenland
+ - [https://www.reddit.com/r/worldnews/comments/1ic434c/denmark_to_pump_2bn_into_arctic_security_as_trump](https://www.reddit.com/r/worldnews/comments/1ic434c/denmark_to_pump_2bn_into_arctic_security_as_trump)
+ - RSS feed: $source
+ - date published: 2025-01-28T15:28:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ic434c/denmark_to_pump_2bn_into_arctic_security_as_trump/"> <img src="https://external-preview.redd.it/pMKD2sdjWhBaCYfYphsfOyaOuJ7QByq224hmxfoTI_0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=10e2dee8ab163e9c8fb8980e44efe370d165936e" alt="Denmark to pump $2bn into Arctic security as Trump eyes Greenland" title="Denmark to pump $2bn into Arctic security as Trump eyes Greenland" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/broc944"> /u/broc944 </a> <br/> <span><a href="https://www.aljazeera.com/news/2025/1/28/denmark-to-pump-2bn-into-arctic-security-as-trump-eyes-greenland">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ic434c/denmark_to_pump_2bn_into_arctic_security_as_trump/">[comments]</a></span> </td></tr></table>
+
+## European Leaders Condemn Musk's 'Ominous' Push for Germany to 'Forget' Holocaust
+ - [https://www.reddit.com/r/worldnews/comments/1ic33g3/european_leaders_condemn_musks_ominous_push_for](https://www.reddit.com/r/worldnews/comments/1ic33g3/european_leaders_condemn_musks_ominous_push_for)
+ - RSS feed: $source
+ - date published: 2025-01-28T14:44:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ic33g3/european_leaders_condemn_musks_ominous_push_for/"> <img src="https://external-preview.redd.it/xgH0-GYpmYDD4zO7ORtsZFKUiSyYYSeSodw8fUGw8Uo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=47c9349db1e0a10ded1712785fc184606f5709cb" alt="European Leaders Condemn Musk's 'Ominous' Push for Germany to 'Forget' Holocaust" title="European Leaders Condemn Musk's 'Ominous' Push for Germany to 'Forget' Holocaust" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/InternationalShock13"> /u/InternationalShock13 </a> <br/> <span><a href="https://www.commondreams.org/news/elon-musk-europe?utm_source=Common+Dreams&amp;utm_campaign=78cedd719b-Top+News%3A+Mon.+1%2F27%2F25&amp;utm_medium=email&amp;utm_term=0_-3b949b3e19-600454175">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ic33g3/european_leaders_condemn_musks_ominous_push_for/">[comments]</a></span> </td></
+
+## Elon Musk to Nicolai Tangen: «Did you send my text messages to the press?»
+ - [https://www.reddit.com/r/worldnews/comments/1ic2vzr/elon_musk_to_nicolai_tangen_did_you_send_my_text](https://www.reddit.com/r/worldnews/comments/1ic2vzr/elon_musk_to_nicolai_tangen_did_you_send_my_text)
+ - RSS feed: $source
+ - date published: 2025-01-28T14:34:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ic2vzr/elon_musk_to_nicolai_tangen_did_you_send_my_text/"> <img src="https://external-preview.redd.it/UQGs14gKug0VisTyvF7l8kzVNXuekS9c2u9t7JwKXn0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1a581931485513fe7ee53dcac305f412ac1c59a5" alt="Elon Musk to Nicolai Tangen: «Did you send my text messages to the press?»" title="Elon Musk to Nicolai Tangen: «Did you send my text messages to the press?»" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/20000tommeseter"> /u/20000tommeseter </a> <br/> <span><a href="https://e24.no/boers-og-finans/i/jQM4bL/elon-musk-to-nicolai-tangen-did-you-send-my-text-messages-to-the-press?utm_source=iosapp&amp;utm_medium=share">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ic2vzr/elon_musk_to_nicolai_tangen_did_you_send_my_text/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk clashes with Norway wealth fund CEO; 'friends are as friends do'
+ - [https://www.reddit.com/r/worldnews/comments/1ic2j79/elon_musk_clashes_with_norway_wealth_fund_ceo](https://www.reddit.com/r/worldnews/comments/1ic2j79/elon_musk_clashes_with_norway_wealth_fund_ceo)
+ - RSS feed: $source
+ - date published: 2025-01-28T14:17:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ic2j79/elon_musk_clashes_with_norway_wealth_fund_ceo/"> <img src="https://external-preview.redd.it/Xia7R8jHBKie1lWRDdvdFh0Uzg2WN3N3aoYq2SgTB0c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d098c61e1463d6c9d17be5a9eeff52d9ba6c0584" alt="Elon Musk clashes with Norway wealth fund CEO; 'friends are as friends do'" title="Elon Musk clashes with Norway wealth fund CEO; 'friends are as friends do'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Excellent_Resist_869"> /u/Excellent_Resist_869 </a> <br/> <span><a href="https://www.reuters.com/business/elon-musk-clashes-with-norway-wealth-fund-ceo-friends-are-friends-do-2025-01-28/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ic2j79/elon_musk_clashes_with_norway_wealth_fund_ceo/">[comments]</a></span> </td></tr></table>
+
+## 'If half the people go home tomorrow, Putin will kill us all' — Zelensky defends mobilization
+ - [https://www.reddit.com/r/worldnews/comments/1ic2bpo/if_half_the_people_go_home_tomorrow_putin_will](https://www.reddit.com/r/worldnews/comments/1ic2bpo/if_half_the_people_go_home_tomorrow_putin_will)
+ - RSS feed: $source
+ - date published: 2025-01-28T14:07:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ic2bpo/if_half_the_people_go_home_tomorrow_putin_will/"> <img src="https://external-preview.redd.it/BJfk2zI2Na5flEiR9_c19Z0r0idCGDSRfMm1zyMBmyA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=681c88907331921f5e50b8089a76c6dbf3f1f22c" alt="'If half the people go home tomorrow, Putin will kill us all' — Zelensky defends mobilization" title="'If half the people go home tomorrow, Putin will kill us all' — Zelensky defends mobilization" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdSpecialist6598"> /u/AdSpecialist6598 </a> <br/> <span><a href="https://kyivindependent.com/if-half-the-people-go-home-tomorrow-putin-will-kill-us-all-zelensky-defends-mobilization/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ic2bpo/if_half_the_people_go_home_tomorrow_putin_will/">[comments]</a></span> </td></tr></table>
+
+## China's artificial sun burns for 1000+ secs, creates record in fusion research
+ - [https://www.reddit.com/r/worldnews/comments/1ic21ks/chinas_artificial_sun_burns_for_1000_secs_creates](https://www.reddit.com/r/worldnews/comments/1ic21ks/chinas_artificial_sun_burns_for_1000_secs_creates)
+ - RSS feed: $source
+ - date published: 2025-01-28T13:54:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ic21ks/chinas_artificial_sun_burns_for_1000_secs_creates/"> <img src="https://external-preview.redd.it/mDj7tYYTFYjiGdOWVqvUoVjF8L6fPJioFnHfnPNgk3I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b5877781911d5a23f2462408cd11a59dcda36e3f" alt="China's artificial sun burns for 1000+ secs, creates record in fusion research" title="China's artificial sun burns for 1000+ secs, creates record in fusion research" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ProtectionKlutzy1815"> /u/ProtectionKlutzy1815 </a> <br/> <span><a href="https://www.hindustantimes.com/world-news/china-artificial-sun-fusion-reasearch-east-asipp-science-fusion-reactor-technology-101738057726044.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ic21ks/chinas_artificial_sun_burns_for_1000_secs_creates/">[comments]</a></span> </td></tr></table>
+
+## France floated sending troops to Greenland, foreign minister says
+ - [https://www.reddit.com/r/worldnews/comments/1ic1ilv/france_floated_sending_troops_to_greenland](https://www.reddit.com/r/worldnews/comments/1ic1ilv/france_floated_sending_troops_to_greenland)
+ - RSS feed: $source
+ - date published: 2025-01-28T13:26:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ic1ilv/france_floated_sending_troops_to_greenland/"> <img src="https://external-preview.redd.it/nQcQTgWoX4WvCECvWMVQhgLpLLnwhH6dSn3mHnSJ2Lo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bb8053e2e0170b7b92dda5a2f9d4fdd3b2114a4e" alt="France floated sending troops to Greenland, foreign minister says" title="France floated sending troops to Greenland, foreign minister says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Manitobancanuck"> /u/Manitobancanuck </a> <br/> <span><a href="https://www.politico.eu/article/france-fm-jean-noel-barrot-floats-sending-troops-to-greenland-denmark/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ic1ilv/france_floated_sending_troops_to_greenland/">[comments]</a></span> </td></tr></table>
+
+## Palestinians, Jordan, Egypt reject Trump’s idea to send Gazans out of Strip
+ - [https://www.reddit.com/r/worldnews/comments/1ic12i2/palestinians_jordan_egypt_reject_trumps_idea_to](https://www.reddit.com/r/worldnews/comments/1ic12i2/palestinians_jordan_egypt_reject_trumps_idea_to)
+ - RSS feed: $source
+ - date published: 2025-01-28T13:03:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ic12i2/palestinians_jordan_egypt_reject_trumps_idea_to/"> <img src="https://external-preview.redd.it/JPQDQUwURu4haO46o7h0J2-gTS8oHokF8usH4gYvpu4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=89ea27b72e38ccc45f36bd2659677e6328818133" alt="Palestinians, Jordan, Egypt reject Trump’s idea to send Gazans out of Strip" title="Palestinians, Jordan, Egypt reject Trump’s idea to send Gazans out of Strip" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br/> <span><a href="https://www.timesofisrael.com/palestinians-jordan-strongly-reject-trumps-idea-to-send-gazans-out-of-strip/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ic12i2/palestinians_jordan_egypt_reject_trumps_idea_to/">[comments]</a></span> </td></tr></table>
+
+## NATO: There was officially a Russian plot to kill European weapons chief
+ - [https://www.reddit.com/r/worldnews/comments/1ic0zw3/nato_there_was_officially_a_russian_plot_to_kill](https://www.reddit.com/r/worldnews/comments/1ic0zw3/nato_there_was_officially_a_russian_plot_to_kill)
+ - RSS feed: $source
+ - date published: 2025-01-28T13:00:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ic0zw3/nato_there_was_officially_a_russian_plot_to_kill/"> <img src="https://external-preview.redd.it/izRHrFuxh7Dad7vligWbQONOoI-GfukTwYt4S4gVZn4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f18315de2ca8bab1a47e370a7e0b07f927285fa" alt="NATO: There was officially a Russian plot to kill European weapons chief" title="NATO: There was officially a Russian plot to kill European weapons chief" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/die_mannequin"> /u/die_mannequin </a> <br/> <span><a href="https://www.politico.eu/article/nato-official-confirms-russian-plot-kill-european-weapons-chief-armin-papperger/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ic0zw3/nato_there_was_officially_a_russian_plot_to_kill/">[comments]</a></span> </td></tr></table>
+
+## Denmark launches $2 billion Arctic security plan, seeks EU unity on Greenland
+ - [https://www.reddit.com/r/worldnews/comments/1ibzagc/denmark_launches_2_billion_arctic_security_plan](https://www.reddit.com/r/worldnews/comments/1ibzagc/denmark_launches_2_billion_arctic_security_plan)
+ - RSS feed: $source
+ - date published: 2025-01-28T11:16:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibzagc/denmark_launches_2_billion_arctic_security_plan/"> <img src="https://external-preview.redd.it/O2IFPcHekWjzuYUShAX7vpRuC4UWfko2lmpap4yXHgs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=358264c2a42126d7a2b9e0e46ce7fde455c622a0" alt="Denmark launches $2 billion Arctic security plan, seeks EU unity on Greenland" title="Denmark launches $2 billion Arctic security plan, seeks EU unity on Greenland" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EUstrongerthanUS"> /u/EUstrongerthanUS </a> <br/> <span><a href="https://www.france24.com/en/europe/20250127-denmark-launches-2-billion-arctic-security-plan-seeks-eu-unity-on-greenland">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibzagc/denmark_launches_2_billion_arctic_security_plan/">[comments]</a></span> </td></tr></table>
+
+## Poland urges Tesla boycott after Musk’s call to ‘move past’ Nazi guilt
+ - [https://www.reddit.com/r/worldnews/comments/1ibz1wv/poland_urges_tesla_boycott_after_musks_call_to](https://www.reddit.com/r/worldnews/comments/1ibz1wv/poland_urges_tesla_boycott_after_musks_call_to)
+ - RSS feed: $source
+ - date published: 2025-01-28T11:00:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibz1wv/poland_urges_tesla_boycott_after_musks_call_to/"> <img src="https://external-preview.redd.it/5LS9MFsCmX2Aoh6LqgbtQiADI1oyXBhVw5k2CBCmBIE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f26b39f4be2fa1509ea9c0071c2cd676a1ac3f2a" alt="Poland urges Tesla boycott after Musk’s call to ‘move past’ Nazi guilt" title="Poland urges Tesla boycott after Musk’s call to ‘move past’ Nazi guilt" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/doopityWoop22"> /u/doopityWoop22 </a> <br/> <span><a href="https://www.politico.eu/article/poland-urges-tesla-boycott-after-musks-call-to-move-past-nazi-guilt/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibz1wv/poland_urges_tesla_boycott_after_musks_call_to/">[comments]</a></span> </td></tr></table>
+
+## Russian economy facing a tidal wave of bankruptcies
+ - [https://www.reddit.com/r/worldnews/comments/1ibyxa3/russian_economy_facing_a_tidal_wave_of](https://www.reddit.com/r/worldnews/comments/1ibyxa3/russian_economy_facing_a_tidal_wave_of)
+ - RSS feed: $source
+ - date published: 2025-01-28T10:51:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibyxa3/russian_economy_facing_a_tidal_wave_of/"> <img src="https://external-preview.redd.it/XbL2n93svXvRXtub8J11dw-_G5IwftOpWYKAIeiY7Rk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=defdfb09519785427f119b1743315532576cab17" alt="Russian economy facing a tidal wave of bankruptcies" title="Russian economy facing a tidal wave of bankruptcies" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br/> <span><a href="https://www.newsweek.com/russia-bankruptcies-sanctions-economy-2021845">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibyxa3/russian_economy_facing_a_tidal_wave_of/">[comments]</a></span> </td></tr></table>
+
+## Danish Leader Seeks Help From European Allies Over Greenland
+ - [https://www.reddit.com/r/worldnews/comments/1ibyfmu/danish_leader_seeks_help_from_european_allies](https://www.reddit.com/r/worldnews/comments/1ibyfmu/danish_leader_seeks_help_from_european_allies)
+ - RSS feed: $source
+ - date published: 2025-01-28T10:15:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibyfmu/danish_leader_seeks_help_from_european_allies/"> <img src="https://external-preview.redd.it/sz1IwZLaKIWx_FVwpfy9k3-XVPQevtmBPpbDS9ynHcM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=29298fe87a2d566eb9e1de8292c237646d02427d" alt="Danish Leader Seeks Help From European Allies Over Greenland" title="Danish Leader Seeks Help From European Allies Over Greenland" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DET_SWAT"> /u/DET_SWAT </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2025-01-28/danish-premier-starts-whirlwind-tour-for-support-over-greenland">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibyfmu/danish_leader_seeks_help_from_european_allies/">[comments]</a></span> </td></tr></table>
+
+## Iranian FM suggests moving Israelis to Greenland after Trump initiative
+ - [https://www.reddit.com/r/worldnews/comments/1ibxux5/iranian_fm_suggests_moving_israelis_to_greenland](https://www.reddit.com/r/worldnews/comments/1ibxux5/iranian_fm_suggests_moving_israelis_to_greenland)
+ - RSS feed: $source
+ - date published: 2025-01-28T09:30:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibxux5/iranian_fm_suggests_moving_israelis_to_greenland/"> <img src="https://external-preview.redd.it/KaJeHYJ9kInl7Pa9bd2mEeJUt5OstLeZjSCyMNZUo0A.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c10c5737ed57c47fd47fe44fe10cbdfae8b0282c" alt="Iranian FM suggests moving Israelis to Greenland after Trump initiative" title="Iranian FM suggests moving Israelis to Greenland after Trump initiative" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Party_Judgment5780"> /u/Party_Judgment5780 </a> <br/> <span><a href="https://www.ynetnews.com/article/ry00uof8001e">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibxux5/iranian_fm_suggests_moving_israelis_to_greenland/">[comments]</a></span> </td></tr></table>
+
+## North Korean cannons designed to flatten Seoul seen heading to front line in Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1ibx0pv/north_korean_cannons_designed_to_flatten_seoul](https://www.reddit.com/r/worldnews/comments/1ibx0pv/north_korean_cannons_designed_to_flatten_seoul)
+ - RSS feed: $source
+ - date published: 2025-01-28T08:23:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibx0pv/north_korean_cannons_designed_to_flatten_seoul/"> <img src="https://external-preview.redd.it/318VF35WBeIXkUe-mreW-mA0Ug8ptBazymnncnt22No.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc38ddfa81f7f0b3819c3cb170798503dbc90030" alt="North Korean cannons designed to flatten Seoul seen heading to front line in Ukraine" title="North Korean cannons designed to flatten Seoul seen heading to front line in Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br/> <span><a href="https://www.telegraph.co.uk/world-news/2025/01/28/north-korean-cannons-flatten-seoul-delivery-russia-ukraine/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibx0pv/north_korean_cannons_designed_to_flatten_seoul/">[comments]</a></span> </td></tr></table>
+
+## President Trump reiterates wish to move Gazans to Egypt, Jordan
+ - [https://www.reddit.com/r/worldnews/comments/1ibv3m6/president_trump_reiterates_wish_to_move_gazans_to](https://www.reddit.com/r/worldnews/comments/1ibv3m6/president_trump_reiterates_wish_to_move_gazans_to)
+ - RSS feed: $source
+ - date published: 2025-01-28T06:03:41+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BiggieTwiggy1two3"> /u/BiggieTwiggy1two3 </a> <br/> <span><a href="https://m.economictimes.com/news/international/world-news/us-president-trump-reiterates-wish-to-move-gazans-to-egypt-jordan/amp_articleshow/117618999.cms">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibv3m6/president_trump_reiterates_wish_to_move_gazans_to/">[comments]</a></span>
+
+## Western hesitation allowed Russia to regain battlefield momentum — Zaluzhnyi
+ - [https://www.reddit.com/r/worldnews/comments/1ibunt3/western_hesitation_allowed_russia_to_regain](https://www.reddit.com/r/worldnews/comments/1ibunt3/western_hesitation_allowed_russia_to_regain)
+ - RSS feed: $source
+ - date published: 2025-01-28T05:35:16+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://english.nv.ua/nation/western-hesitation-allowed-russia-to-regain-battlefield-momentum-zaluzhnyi-50485071.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibunt3/western_hesitation_allowed_russia_to_regain/">[comments]</a></span>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1069, Part 1 (Thread #1216)
+ - [https://www.reddit.com/r/worldnews/comments/1ibt2q1/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1ibt2q1/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: $source
+ - date published: 2025-01-28T04:02:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibt2q1/rworldnews_live_thread_russian_invasion_of/"> <img src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1069, Part 1 (Thread #1216)" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1069, Part 1 (Thread #1216)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br/> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibt2q1/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Trump To Tariff Chips Made In Taiwan, Targeting TSMC
+ - [https://www.reddit.com/r/worldnews/comments/1ibt03n/trump_to_tariff_chips_made_in_taiwan_targeting](https://www.reddit.com/r/worldnews/comments/1ibt03n/trump_to_tariff_chips_made_in_taiwan_targeting)
+ - RSS feed: $source
+ - date published: 2025-01-28T03:58:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibt03n/trump_to_tariff_chips_made_in_taiwan_targeting/"> <img src="https://external-preview.redd.it/qp7ppSiDMAFJ-nWkSRIY3ApvTxTiS4fHWOI3N6lXXVY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=85af1ac761e29decd34e8041890376d296538bfd" alt="Trump To Tariff Chips Made In Taiwan, Targeting TSMC" title="Trump To Tariff Chips Made In Taiwan, Targeting TSMC" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/androidnoobbaby"> /u/androidnoobbaby </a> <br/> <span><a href="https://www.pcmag.com/news/trump-to-tariff-chips-made-in-taiwan-targeting-tsmc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibt03n/trump_to_tariff_chips_made_in_taiwan_targeting/">[comments]</a></span> </td></tr></table>
+
+## As Trump ratchets up Greenland bid, Danish PM says Nordic leaders are united
+ - [https://www.reddit.com/r/worldnews/comments/1ibskea/as_trump_ratchets_up_greenland_bid_danish_pm_says](https://www.reddit.com/r/worldnews/comments/1ibskea/as_trump_ratchets_up_greenland_bid_danish_pm_says)
+ - RSS feed: $source
+ - date published: 2025-01-28T03:34:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibskea/as_trump_ratchets_up_greenland_bid_danish_pm_says/"> <img src="https://external-preview.redd.it/9AKGx8OQEO1WWCzxnNc3kCNnfHEAbgcHAbKVYD7PMOE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=04f51ad7f2be6c909478ee0f030c098adbec0abd" alt="As Trump ratchets up Greenland bid, Danish PM says Nordic leaders are united" title="As Trump ratchets up Greenland bid, Danish PM says Nordic leaders are united" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/4920185"> /u/4920185 </a> <br/> <span><a href="https://globalnews.ca/news/10979328/donald-trump-greenland-nordic-leaders-not-for-sale/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibskea/as_trump_ratchets_up_greenland_bid_danish_pm_says/">[comments]</a></span> </td></tr></table>
+
+## EU medicines agency quits X, moves to Bluesky
+ - [https://www.reddit.com/r/worldnews/comments/1ibsbnt/eu_medicines_agency_quits_x_moves_to_bluesky](https://www.reddit.com/r/worldnews/comments/1ibsbnt/eu_medicines_agency_quits_x_moves_to_bluesky)
+ - RSS feed: $source
+ - date published: 2025-01-28T03:21:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibsbnt/eu_medicines_agency_quits_x_moves_to_bluesky/"> <img src="https://external-preview.redd.it/mHpIfkAf_54jQ_dqICzcIbGu3eOHkCvAcUjEA1iILp4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1f69d4dacb7b10092be9c60614d253e86696bda" alt="EU medicines agency quits X, moves to Bluesky" title="EU medicines agency quits X, moves to Bluesky" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/goyabean"> /u/goyabean </a> <br/> <span><a href="https://www.reuters.com/world/europe/eu-medicines-agency-quits-x-moves-bluesky-2025-01-27/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibsbnt/eu_medicines_agency_quits_x_moves_to_bluesky/">[comments]</a></span> </td></tr></table>
+
+## Carney Says Canada Can Use Electricity for Leverage If US Starts Trade War
+ - [https://www.reddit.com/r/worldnews/comments/1ibq2ml/carney_says_canada_can_use_electricity_for](https://www.reddit.com/r/worldnews/comments/1ibq2ml/carney_says_canada_can_use_electricity_for)
+ - RSS feed: $source
+ - date published: 2025-01-28T01:28:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibq2ml/carney_says_canada_can_use_electricity_for/"> <img src="https://external-preview.redd.it/Kkj801-ASzpcm9_AwcXQqpXFLr45fEAhlyzTTj--Kak.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e0cc52e72130ef349346312fbfe5a4ca19553f98" alt="Carney Says Canada Can Use Electricity for Leverage If US Starts Trade War" title="Carney Says Canada Can Use Electricity for Leverage If US Starts Trade War" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/A-Wise-Cobbler"> /u/A-Wise-Cobbler </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2025-01-27/carney-says-canada-can-use-electricity-for-leverage-if-us-starts-trade-war">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibq2ml/carney_says_canada_can_use_electricity_for/">[comments]</a></span> </td></tr></table>
+
+## Denmark announces $2 billion Arctic security plan
+ - [https://www.reddit.com/r/worldnews/comments/1ibpdp2/denmark_announces_2_billion_arctic_security_plan](https://www.reddit.com/r/worldnews/comments/1ibpdp2/denmark_announces_2_billion_arctic_security_plan)
+ - RSS feed: $source
+ - date published: 2025-01-28T00:54:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibpdp2/denmark_announces_2_billion_arctic_security_plan/"> <img src="https://external-preview.redd.it/pZHAtciwiyXh8UTBWZvMco32jP7YDa7hG0cbpejlK98.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1ca3b6739a7290a99b08b7fcb79674a5a557f42" alt="Denmark announces $2 billion Arctic security plan" title="Denmark announces $2 billion Arctic security plan" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://www.lemonde.fr/en/international/article/2025/01/28/denmark-announces-2-billion-arctic-security-plan_6737493_4.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibpdp2/denmark_announces_2_billion_arctic_security_plan/">[comments]</a></span> </td></tr></table>
+
+## Google says it will change Gulf of Mexico to 'Gulf of America' in Maps after government updates
+ - [https://www.reddit.com/r/worldnews/comments/1ibp6s4/google_says_it_will_change_gulf_of_mexico_to_gulf](https://www.reddit.com/r/worldnews/comments/1ibp6s4/google_says_it_will_change_gulf_of_mexico_to_gulf)
+ - RSS feed: $source
+ - date published: 2025-01-28T00:45:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibp6s4/google_says_it_will_change_gulf_of_mexico_to_gulf/"> <img src="https://external-preview.redd.it/g5rYU5tsIk1aFTUU2tyVYoqYIU8AToE1hiy1gVLkIsg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c78ca562c376aaf137a5c99319a237a9ca47af30" alt="Google says it will change Gulf of Mexico to 'Gulf of America' in Maps after government updates" title="Google says it will change Gulf of Mexico to 'Gulf of America' in Maps after government updates" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HighwayWilderness"> /u/HighwayWilderness </a> <br/> <span><a href="https://www.cnbc.com/2025/01/27/google-maps-to-show-gulf-of-america-after-government-updates.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibp6s4/google_says_it_will_change_gulf_of_mexico_to_gulf/">[comments]</a></span> </td></tr></table>
+
+## World Bank warns its Colombian employees to skip US travel
+ - [https://www.reddit.com/r/worldnews/comments/1ibp28i/world_bank_warns_its_colombian_employees_to_skip](https://www.reddit.com/r/worldnews/comments/1ibp28i/world_bank_warns_its_colombian_employees_to_skip)
+ - RSS feed: $source
+ - date published: 2025-01-28T00:39:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ibp28i/world_bank_warns_its_colombian_employees_to_skip/"> <img src="https://external-preview.redd.it/KZzGZxU-CzEFroD2K3ZM098jxZTQrfhG8efabQ4kdoE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=edecef9611f2d528045a5fffcbef71a0ee0f2e9d" alt="World Bank warns its Colombian employees to skip US travel" title="World Bank warns its Colombian employees to skip US travel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Infidel8"> /u/Infidel8 </a> <br/> <span><a href="https://www.thestar.com.my/news/world/2025/01/28/world-bank-warns-its-colombian-employees-to-skip-us-travel">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ibp28i/world_bank_warns_its_colombian_employees_to_skip/">[comments]</a></span> </td></tr></table>
+

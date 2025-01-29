@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-28T16:13:01.944025+00:00",
+        "description": "news.com.au \u2014 Australia\u2019s leading news site news feed for the Travel category.",
+        "id": 1990224,
+        "language": "en-au",
+        "link": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "news.com.au \u2014 Australia\u2019s leading news site | Travel",
+        "vote": 0
+    }
+]

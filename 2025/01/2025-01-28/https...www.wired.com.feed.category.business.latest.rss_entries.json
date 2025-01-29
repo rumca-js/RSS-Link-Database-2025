@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-28T11:15:00+00:00",
+        "description": "Some worry the Chinese startup\u2019s impressive tech indicates the US is losing its lead in AI, but it may really be a sign that a new approach to building models is gaining traction.",
+        "id": 1989319,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/deepseek-executives-reaction-silicon-valley",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6797a86a2461698d2c47c0b3/master/pass/deepseek-biz-2195594456.jpg",
+        "title": "DeepSeek\u2019s New AI Model Sparks Shock, Awe, and Questions From US Competitors",
+        "vote": 0
+    }
+]

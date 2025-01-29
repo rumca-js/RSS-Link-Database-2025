@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-28T06:14:09+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi ! I just created a b2b software called Dottron, its a software that allows users to find company domains via just the name of the company. They can upload spreadsheets and get the results within seconds; we have a public api but im unsure of who my target audience would be. Would this do better more tailored to salespeople and adding more custom lookup values like a salesforce or would this be more helpful to developers?</p> <p>DM for website info!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Jadenbro1\"> /u/Jadenbro1 </a> <br/> <span><a href=\"https://www.reddit.com/r/developer/comments/1ibv9b1/b2b_product_but_unknown_audience/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/developer/comments/1ibv9b1/b2b_product_but_unknown_audience/\">[comments]</a></span>",
+        "id": 1990072,
+        "language": null,
+        "link": "https://www.reddit.com/r/developer/comments/1ibv9b1/b2b_product_but_unknown_audience",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "B2B product but unknown audience",
+        "vote": 0
+    }
+]

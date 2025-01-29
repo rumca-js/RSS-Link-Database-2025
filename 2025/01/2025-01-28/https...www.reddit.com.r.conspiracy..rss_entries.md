@@ -1,0 +1,226 @@
+# Source:conspiracy, URL:https://www.reddit.com/r/conspiracy/.rss, language:en
+
+## New Report: Billionaires Now Making Up To $100 Million a Day
+ - [https://www.reddit.com/r/conspiracy/comments/1iccsy0/new_report_billionaires_now_making_up_to_100](https://www.reddit.com/r/conspiracy/comments/1iccsy0/new_report_billionaires_now_making_up_to_100)
+ - RSS feed: $source
+ - date published: 2025-01-28T21:25:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iccsy0/new_report_billionaires_now_making_up_to_100/"> <img src="https://external-preview.redd.it/sr86sdbRYlkTjkDN-6WA9FIDBelIMEXeihU31xu3Tb0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=91696a04900bc1807026a93dd065b5bd52b40630" alt="New Report: Billionaires Now Making Up To $100 Million a Day" title="New Report: Billionaires Now Making Up To $100 Million a Day" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_7-_-7_"> /u/_7-_-7_ </a> <br/> <span><a href="https://www.youtube.com/watch?v=trdBXBgwXhM">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iccsy0/new_report_billionaires_now_making_up_to_100/">[comments]</a></span> </td></tr></table>
+
+## Only a few weeks before Deepseek devastated US tech stocks, Pelosi sold up to $5 million in Nvidia stock and $25 million in other tech stocks.
+ - [https://www.reddit.com/r/conspiracy/comments/1iccdkq/only_a_few_weeks_before_deepseek_devastated_us](https://www.reddit.com/r/conspiracy/comments/1iccdkq/only_a_few_weeks_before_deepseek_devastated_us)
+ - RSS feed: $source
+ - date published: 2025-01-28T21:08:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iccdkq/only_a_few_weeks_before_deepseek_devastated_us/"> <img src="https://external-preview.redd.it/x0Y6SG2VI_Lu2HpuufvNpcAWYWDiOgA_gLpkTVhHZEw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e675b978eadc25bad2fe2bf4e1601c258c78954" alt="Only a few weeks before Deepseek devastated US tech stocks, Pelosi sold up to $5 million in Nvidia stock and $25 million in other tech stocks." title="Only a few weeks before Deepseek devastated US tech stocks, Pelosi sold up to $5 million in Nvidia stock and $25 million in other tech stocks." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/diopside"> /u/diopside </a> <br/> <span><a href="https://finance.yahoo.com/news/nancy-pelosi-sells-nvidia-apple-213013443.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iccdkq/only_a_few_weeks_before_deepseek_devastated_us/">[comments]</a></span> </td></tr></table>
+
+## Child explaining how Social Services lie to traffic children for their satanic masters.
+ - [https://www.reddit.com/r/conspiracy/comments/1icbvhq/child_explaining_how_social_services_lie_to](https://www.reddit.com/r/conspiracy/comments/1icbvhq/child_explaining_how_social_services_lie_to)
+ - RSS feed: $source
+ - date published: 2025-01-28T20:47:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1icbvhq/child_explaining_how_social_services_lie_to/"> <img src="https://external-preview.redd.it/XHmpTSz6YZLqYHSUfi1h4JBojx5hHLethKmvzb6sMl0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=391169b8fa868166b2519fccee269db618efd282" alt="Child explaining how Social Services lie to traffic children for their satanic masters." title="Child explaining how Social Services lie to traffic children for their satanic masters." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Constant-Interest686"> /u/Constant-Interest686 </a> <br/> <span><a href="https://rumble.com/v5fama5-child-explaining-how-social-services-lie-to-traffic-children-for-their-sata.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1icbvhq/child_explaining_how_social_services_lie_to/">[comments]</a></span> </td></tr></table>
+
+## Trump Admin Fast Tracking An Economic Crash To Enact The Insurrection Act?
+ - [https://www.reddit.com/r/conspiracy/comments/1icbd6u/trump_admin_fast_tracking_an_economic_crash_to](https://www.reddit.com/r/conspiracy/comments/1icbd6u/trump_admin_fast_tracking_an_economic_crash_to)
+ - RSS feed: $source
+ - date published: 2025-01-28T20:26:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been seeing a theory floating around that the Trump administration is purposefully fast tracking an economic crash on the poor, because the resultant unrest would allow him to activate the insurrection act. That would give the cover to suspend Posse Comitatus and deploy the military within the borders and declare martial law. This recent suggestion to &quot;deport criminal American citizens&quot; seems like a modern rehashing of “The Madagascar Plan.” Just criminalize a group of people who are resisting the government, and ship them elsewhere (after seizing their assets of course).</p> <p>Also, I wanted to add this: The amount of individuals on this sub-Reddit that are still blinded/conditioned to support bipartisanship’s “divide and conquer” scheme, is discouraging to say the least. America is a constitutional republic that operates as an oligarchy, and The elite aim to keep the average citizen fighting the culture amongst one another, while 
+
+## Regular people can’t make ends meet but let’s put half a trillion towards AI to build a surveillance state and take everyone’s job
+ - [https://www.reddit.com/r/conspiracy/comments/1icbcrm/regular_people_cant_make_ends_meet_but_lets_put](https://www.reddit.com/r/conspiracy/comments/1icbcrm/regular_people_cant_make_ends_meet_but_lets_put)
+ - RSS feed: $source
+ - date published: 2025-01-28T20:26:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1icbcrm/regular_people_cant_make_ends_meet_but_lets_put/"> <img src="https://preview.redd.it/cbox73lnnsfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=65801715f7fd771c2b2e8850eee094549a8030d0" alt="Regular people can’t make ends meet but let’s put half a trillion towards AI to build a surveillance state and take everyone’s job" title="Regular people can’t make ends meet but let’s put half a trillion towards AI to build a surveillance state and take everyone’s job" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>not to mention how this initiative was revealed to be a massive waste of money after the Chinese release DeepSeek an AI that’s better than GPT, free, and uses a fraction of the electricity. American AI broligarchs are running a total grift.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/milky_nem"> /u/milky_nem </a> <br/> <span><a href="https://i.redd.it/cbo
+
+## Opinion | Project 2025 was the plan all along. Trump is proving it now.
+ - [https://www.reddit.com/r/conspiracy/comments/1ic9o1h/opinion_project_2025_was_the_plan_all_along_trump](https://www.reddit.com/r/conspiracy/comments/1ic9o1h/opinion_project_2025_was_the_plan_all_along_trump)
+ - RSS feed: $source
+ - date published: 2025-01-28T19:18:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ic9o1h/opinion_project_2025_was_the_plan_all_along_trump/"> <img src="https://external-preview.redd.it/pdG_fVV4mcGDZ4EcGzPtFRlye5EfRsZ6XvKT2HI_kkI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bc262f5446e333020ae8f86d5dc7cba388c7482d" alt="Opinion | Project 2025 was the plan all along. Trump is proving it now." title="Opinion | Project 2025 was the plan all along. Trump is proving it now." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Necessary_Version791"> /u/Necessary_Version791 </a> <br/> <span><a href="https://www.msnbc.com/opinion/msnbc-opinion/project-2025-trump-executive-orders-rcna189395">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ic9o1h/opinion_project_2025_was_the_plan_all_along_trump/">[comments]</a></span> </td></tr></table>
+
+## Drone update from WH briefing
+ - [https://www.reddit.com/r/conspiracy/comments/1ic87mo/drone_update_from_wh_briefing](https://www.reddit.com/r/conspiracy/comments/1ic87mo/drone_update_from_wh_briefing)
+ - RSS feed: $source
+ - date published: 2025-01-28T18:19:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Karoline Leavitt just delivered a message from Trump on the drones; they were authorized by the FAA for research as well as hobbyists using their own drones. Curiosity grew, increasing the level of hobbyist drones. They were not the enemy. Still sounds fishy to me. Thoughts?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hot-Growth-8113"> /u/Hot-Growth-8113 </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1ic87mo/drone_update_from_wh_briefing/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ic87mo/drone_update_from_wh_briefing/">[comments]</a></span>
+
+## Bread is the perfect weapon to control humanity
+ - [https://www.reddit.com/r/conspiracy/comments/1ic7uv4/bread_is_the_perfect_weapon_to_control_humanity](https://www.reddit.com/r/conspiracy/comments/1ic7uv4/bread_is_the_perfect_weapon_to_control_humanity)
+ - RSS feed: $source
+ - date published: 2025-01-28T18:05:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Bread is everywhere. Every culture, every meal, every corner shop. But have you ever questioned why? What if bread isn’t just food? What if it’s the ultimate tool to keep humanity subdued? </p> <p>Think about it. Bread has been pushed on us for centuries. Kings and governments subsidised it, corporations mass-produce it, and society treats it as a necessity. But could there be more to this? </p> <ol> <li><p>Limits Psychic Awareness<br/> Bread isn’t neutral. Processed grains and additives blunt clarity and focus, making it harder to reach higher states of consciousness or awareness. </p></li> <li><p>Keeps You Numb<br/> Heavy carbs cause sluggishness and dull your senses. It’s comforting—but comfort often keeps you from questioning the bigger picture. </p></li> <li><p>Fuels Illness<br/> Bread-based diets are linked to obesity, diabetes, and inflammation. A sick population is easier to distract and control. </p></li> <li><p>Reduces Lifespan<br/> Industr
+
+## Donald Trump floats deporting American criminals
+ - [https://www.reddit.com/r/conspiracy/comments/1ic6vqx/donald_trump_floats_deporting_american_criminals](https://www.reddit.com/r/conspiracy/comments/1ic6vqx/donald_trump_floats_deporting_american_criminals)
+ - RSS feed: $source
+ - date published: 2025-01-28T17:25:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ic6vqx/donald_trump_floats_deporting_american_criminals/"> <img src="https://external-preview.redd.it/0PeKtyRQGYSVpicz7X8aBeatDLkmhCPmmqX1ogZL6EM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d88d9803effcafffd406190c09e35ffc83f6e192" alt="Donald Trump floats deporting American criminals" title="Donald Trump floats deporting American criminals" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/stasi_a"> /u/stasi_a </a> <br/> <span><a href="https://www.newsweek.com/donald-trump-us-criminals-other-countries-incarceration-2021789">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ic6vqx/donald_trump_floats_deporting_american_criminals/">[comments]</a></span> </td></tr></table>
+
+## Healthy is wealth ~ we are dealing with modern eugenists
+ - [https://www.reddit.com/r/conspiracy/comments/1ic5hji/healthy_is_wealth_we_are_dealing_with_modern](https://www.reddit.com/r/conspiracy/comments/1ic5hji/healthy_is_wealth_we_are_dealing_with_modern)
+ - RSS feed: $source
+ - date published: 2025-01-28T16:28:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ic5hji/healthy_is_wealth_we_are_dealing_with_modern/"> <img src="https://b.thumbs.redditmedia.com/FzdvWRFF-gPF2WD0Kwr3P4rA8AWNtQvz7eOdcPNOivU.jpg" alt="Healthy is wealth ~ we are dealing with modern eugenists" title="Healthy is wealth ~ we are dealing with modern eugenists" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Call is coming from inside the house. Jesuit trained. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/My_black_kitty_cat"> /u/My_black_kitty_cat </a> <br/> <span><a href="https://www.reddit.com/gallery/1ic5hji">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ic5hji/healthy_is_wealth_we_are_dealing_with_modern/">[comments]</a></span> </td></tr></table>
+
+## Can someone explain Mandalay Bay / Las Vegas Shooter?
+ - [https://www.reddit.com/r/conspiracy/comments/1ic510a/can_someone_explain_mandalay_bay_las_vegas_shooter](https://www.reddit.com/r/conspiracy/comments/1ic510a/can_someone_explain_mandalay_bay_las_vegas_shooter)
+ - RSS feed: $source
+ - date published: 2025-01-28T16:09:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>It&#39;s been 7 years and the largest mass shooting in US history still has no clear motive.</p> <p>To me that&#39;s completely unacceptable for Multi billion dollar agencies to not be able to solve this case. I think there was something more going on. But so much has been scrubbed from the internet it&#39;s really hard for me to get a cohesive story.</p> <p>The bits I have read, give me the following.</p> <p>Shooter was relatively mentally stable, and had paid off his debts.</p> <p>The self inflicted gunshot thing is contested? Was he shot?</p> <p>There was some sketchy business with Saudi princes going on in the hotel room above him? Was it some sort of botched assassintion? I guess the Saudis did a big purge a few months after this.</p> <p>The whole &quot;gun grab&quot; angle ended up being irrelevant because the supreme Court shot down the bump stock ban anyways.</p> <p>The shooting videos apparently don&#39;t match with a bump stock fire rate? V
+
+## What are they trying to signal with this Doomsday clock?
+ - [https://www.reddit.com/r/conspiracy/comments/1ic506q/what_are_they_trying_to_signal_with_this_doomsday](https://www.reddit.com/r/conspiracy/comments/1ic506q/what_are_they_trying_to_signal_with_this_doomsday)
+ - RSS feed: $source
+ - date published: 2025-01-28T16:08:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ic506q/what_are_they_trying_to_signal_with_this_doomsday/"> <img src="https://preview.redd.it/kgcdkazkdrfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec2359cb410a10eff6642f04d03dbe8ccbe6b4d4" alt="What are they trying to signal with this Doomsday clock?" title="What are they trying to signal with this Doomsday clock?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Glum-Present485"> /u/Glum-Present485 </a> <br/> <span><a href="https://i.redd.it/kgcdkazkdrfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ic506q/what_are_they_trying_to_signal_with_this_doomsday/">[comments]</a></span> </td></tr></table>
+
+## Project 2025
+ - [https://www.reddit.com/r/conspiracy/comments/1ic4l3p/project_2025](https://www.reddit.com/r/conspiracy/comments/1ic4l3p/project_2025)
+ - RSS feed: $source
+ - date published: 2025-01-28T15:50:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, new to the subreddit (couple months)</p> <p>I remember hearing so much about project 2025 before the elections and now nothing, even tho many of the top people in Trump&#39;s government are directly involved with it.</p> <p>I was doing some reading and found some key points of what project 2025 wanted to implement in the first 180 days, am I crazy or is it happening almost point by point?</p> <blockquote> <p>That 900-page mandate hinges on the election of a Republican president and uses Trump’s “Schedule F” policy, which was ended by Biden, to reclassify tens of thousands of federal workers as political appointees to try and enable mass dismissals. </p> <p>A main component of Project 2025 is the firing of as many as 50,000 federal workers who conservative groups say will get in the way of his agenda. Under Project 2025, agencies such as the U.S. Department of Education would be “eliminated,” and others, like the Federal Trade Commission, Federal 
+
+## Trump launches investigation into J6 prosecutions. So, we are finally going to find out about Ray Epps.
+ - [https://www.reddit.com/r/conspiracy/comments/1ic4b90/trump_launches_investigation_into_j6_prosecutions](https://www.reddit.com/r/conspiracy/comments/1ic4b90/trump_launches_investigation_into_j6_prosecutions)
+ - RSS feed: $source
+ - date published: 2025-01-28T15:38:56+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Bluebeatle37"> /u/Bluebeatle37 </a> <br/> <span><a href="https://www.wsj.com/us-news/law/trump-appointed-prosecutor-opens-review-of-justice-departments-jan-6-cases-72cd371c">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ic4b90/trump_launches_investigation_into_j6_prosecutions/">[comments]</a></span>
+
+## Trump to ink new executive orders today banning transgender service members, military DEI programs
+ - [https://www.reddit.com/r/conspiracy/comments/1ic45j9/trump_to_ink_new_executive_orders_today_banning](https://www.reddit.com/r/conspiracy/comments/1ic45j9/trump_to_ink_new_executive_orders_today_banning)
+ - RSS feed: $source
+ - date published: 2025-01-28T15:31:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ic45j9/trump_to_ink_new_executive_orders_today_banning/"> <img src="https://external-preview.redd.it/Rv86bcZcTT24G5X5WUFFsC5BoX_eegEFwJlo7OSdSFo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=178844abc4bdb74a9a76ffae21edf804f04a1a6d" alt="Trump to ink new executive orders today banning transgender service members, military DEI programs" title="Trump to ink new executive orders today banning transgender service members, military DEI programs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Admirable_Health_533"> /u/Admirable_Health_533 </a> <br/> <span><a href="https://www.youtube.com/watch?v=bXYWzRMmiLA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ic45j9/trump_to_ink_new_executive_orders_today_banning/">[comments]</a></span> </td></tr></table>
+
+## Walter Kirn: "I mean what are they afraid RFK Jr will do if he's confirmed? Authorize research that kicks off a deadly global pandemic and then bungle the response in a way that destroys the lives of the poor while making his cronies unfathomably rich? No. That was the crew they confirmed before."
+ - [https://www.reddit.com/r/conspiracy/comments/1ic3ud1/walter_kirn_i_mean_what_are_they_afraid_rfk_jr](https://www.reddit.com/r/conspiracy/comments/1ic3ud1/walter_kirn_i_mean_what_are_they_afraid_rfk_jr)
+ - RSS feed: $source
+ - date published: 2025-01-28T15:18:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ic3ud1/walter_kirn_i_mean_what_are_they_afraid_rfk_jr/"> <img src="https://external-preview.redd.it/joP0Zn_OzS7E0Tnrquq2C9NpU6aZFEkoirSzBcoWYpw.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=d0f5c367d1fdaee31c000aa7f953c04d710f399a" alt="Walter Kirn: &quot;I mean what are they afraid RFK Jr will do if he's confirmed? Authorize research that kicks off a deadly global pandemic and then bungle the response in a way that destroys the lives of the poor while making his cronies unfathomably rich? No. That was the crew they confirmed before.&quot;" title="Walter Kirn: &quot;I mean what are they afraid RFK Jr will do if he's confirmed? Authorize research that kicks off a deadly global pandemic and then bungle the response in a way that destroys the lives of the poor while making his cronies unfathomably rich? No. That was the crew they confirmed before.&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https:/
+
+## All gas + no breaks = we all die
+ - [https://www.reddit.com/r/conspiracy/comments/1ic33az/all_gas_no_breaks_we_all_die](https://www.reddit.com/r/conspiracy/comments/1ic33az/all_gas_no_breaks_we_all_die)
+ - RSS feed: $source
+ - date published: 2025-01-28T14:44:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ic33az/all_gas_no_breaks_we_all_die/"> <img src="https://preview.redd.it/tv79ybmoyqfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=278034e6e90d631f1d2c6d23aa7dfb6ffa081b44" alt="All gas + no breaks = we all die" title="All gas + no breaks = we all die" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>NIH closed until further notice. </p> <p>Probably not related. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/My_black_kitty_cat"> /u/My_black_kitty_cat </a> <br/> <span><a href="https://i.redd.it/tv79ybmoyqfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ic33az/all_gas_no_breaks_we_all_die/">[comments]</a></span> </td></tr></table>
+
+## 5-year-old develops autism after receiving 18 vaccines in one day
+ - [https://www.reddit.com/r/conspiracy/comments/1ic2wg6/5yearold_develops_autism_after_receiving_18](https://www.reddit.com/r/conspiracy/comments/1ic2wg6/5yearold_develops_autism_after_receiving_18)
+ - RSS feed: $source
+ - date published: 2025-01-28T14:35:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ic2wg6/5yearold_develops_autism_after_receiving_18/"> <img src="https://external-preview.redd.it/VWB7KadgoqzEtIJTfUYx3Jv43PlCVweGzpNh68hnBJ0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c935dee0d8dbabf7f7c8dca67eab26490bbd1fb" alt="5-year-old develops autism after receiving 18 vaccines in one day" title="5-year-old develops autism after receiving 18 vaccines in one day" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/reddit_top_mind"> /u/reddit_top_mind </a> <br/> <span><a href="https://publichealthpolicyjournal.com/5-year-old-develops-autism-after-receiving-18-vaccines-in-one-day/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ic2wg6/5yearold_develops_autism_after_receiving_18/">[comments]</a></span> </td></tr></table>
+
+## NPR is TAX Payer FUNDED- hosts make $500k PY
+ - [https://www.reddit.com/r/conspiracy/comments/1ic2v55/npr_is_tax_payer_funded_hosts_make_500k_py](https://www.reddit.com/r/conspiracy/comments/1ic2v55/npr_is_tax_payer_funded_hosts_make_500k_py)
+ - RSS feed: $source
+ - date published: 2025-01-28T14:33:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ic2v55/npr_is_tax_payer_funded_hosts_make_500k_py/"> <img src="https://preview.redd.it/vgv04txrwqfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be723d9a48205b5c25e44ffa3c6ea03e803a9ca6" alt="NPR is TAX Payer FUNDED- hosts make $500k PY" title="NPR is TAX Payer FUNDED- hosts make $500k PY" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Insane government paychecks just to dress up, lie, and talk shit in front of a camera.</p> <p>Several &quot;hosts&quot; earn $500,000 a year in total compensation.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aharwelclick"> /u/aharwelclick </a> <br/> <span><a href="https://i.redd.it/vgv04txrwqfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ic2v55/npr_is_tax_payer_funded_hosts_make_500k_py/">[comments]</a></span> </td></tr></table>
+
+## What happens when you have a buildup of nanowire and nanoelectric interfaces in your veins?
+ - [https://www.reddit.com/r/conspiracy/comments/1ic2gt5/what_happens_when_you_have_a_buildup_of_nanowire](https://www.reddit.com/r/conspiracy/comments/1ic2gt5/what_happens_when_you_have_a_buildup_of_nanowire)
+ - RSS feed: $source
+ - date published: 2025-01-28T14:14:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ic2gt5/what_happens_when_you_have_a_buildup_of_nanowire/"> <img src="https://preview.redd.it/ek3kr48dtqfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d499dd59218bfb64d229b398d0ac8d82fd89072b" alt="What happens when you have a buildup of nanowire and nanoelectric interfaces in your veins?" title="What happens when you have a buildup of nanowire and nanoelectric interfaces in your veins?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I’m sure it’s very safe! (/s) </p> <p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3140208/pdf/nihms220493.pdf">https://pmc.ncbi.nlm.nih.gov/articles/PMC3140208/pdf/nihms220493.pdf</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/My_black_kitty_cat"> /u/My_black_kitty_cat </a> <br/> <span><a href="https://i.redd.it/ek3kr48dtqfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ic2gt5/w
+
+## Peer reviewed child vaccine study, for the people who call us anti vax
+ - [https://www.reddit.com/r/conspiracy/comments/1ic26vt/peer_reviewed_child_vaccine_study_for_the_people](https://www.reddit.com/r/conspiracy/comments/1ic26vt/peer_reviewed_child_vaccine_study_for_the_people)
+ - RSS feed: $source
+ - date published: 2025-01-28T14:01:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ic26vt/peer_reviewed_child_vaccine_study_for_the_people/"> <img src="https://external-preview.redd.it/N8ABduS8hPw9p6vlyxyrgSrB_uI_TvfpcBtLOvXd_X0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4b91849184840e98cad76de3ff3e30aa8a6b8f7d" alt="Peer reviewed child vaccine study, for the people who call us anti vax" title="Peer reviewed child vaccine study, for the people who call us anti vax" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/raka_defocus"> /u/raka_defocus </a> <br/> <span><a href="https://publichealthpolicyjournal.com/vaccination-and-neurodevelopmental-disorders-a-study-of-nine-year-old-children-enrolled-in-medicaid/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ic26vt/peer_reviewed_child_vaccine_study_for_the_people/">[comments]</a></span> </td></tr></table>
+
+## The population problem just got worse. Less pregnancies than ever now.
+ - [https://www.reddit.com/r/conspiracy/comments/1ic0lle/the_population_problem_just_got_worse_less](https://www.reddit.com/r/conspiracy/comments/1ic0lle/the_population_problem_just_got_worse_less)
+ - RSS feed: $source
+ - date published: 2025-01-28T12:37:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>The population in America is steadily falling. This isn&#39;t news by itself unless you plan on getting old. The problem is that this decline isn&#39;t going to stop. </p> <p>Higher costs of living, higher stress level, less desire for children amongst most young people and believe it or not pushing away immigrants is going to plummet the birth rate. </p> <p>You will then see a bigger push towards religious extremes to try and fix the problem. This will lead to a pseudo Spanish inquisition and quite possibly a religious war as various factions strive to be the leading birth rate producer. </p> <p>There will be even more monetary incentives passed out to &quot;breeders&quot; these people will live in relative comfort compared to the rest of us. They will be used harshly for their bodies and discarded like a sheep carcass. </p> <p>They will remove education as a fundamental basis for growth. They will only let approved people educate themselves and the
+
+## The game company "Interplay" was assassinated through corporate espionage, and predatory theft of its IP "Fallout"
+ - [https://www.reddit.com/r/conspiracy/comments/1ibwy6g/the_game_company_interplay_was_assassinated](https://www.reddit.com/r/conspiracy/comments/1ibwy6g/the_game_company_interplay_was_assassinated)
+ - RSS feed: $source
+ - date published: 2025-01-28T08:18:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ibwy6g/the_game_company_interplay_was_assassinated/"> <img src="https://preview.redd.it/tbo6id3u1pfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=79cbeba81282195fe7f8eef1c702b5ebe97e55ad" alt="The game company &quot;Interplay&quot; was assassinated through corporate espionage, and predatory theft of its IP &quot;Fallout&quot;" title="The game company &quot;Interplay&quot; was assassinated through corporate espionage, and predatory theft of its IP &quot;Fallout&quot;" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>The writers at Interplay knew their source material, crafting stories that were cohesive, brimming with excellent humor and hidden truths about society and its downfall—truths that most people at the time couldn’t fully grasp.</p> <p>The dynamics of society today are eerily similar to the worlds depicted in Interplay’s Fallout 1 and Fallout 2. The world is running low on resources, countries a
+
+## Bill Gates accused of meeting with Jeffrey Epstein on multiple occasions
+ - [https://www.reddit.com/r/conspiracy/comments/1ibwba8/bill_gates_accused_of_meeting_with_jeffrey](https://www.reddit.com/r/conspiracy/comments/1ibwba8/bill_gates_accused_of_meeting_with_jeffrey)
+ - RSS feed: $source
+ - date published: 2025-01-28T07:28:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ibwba8/bill_gates_accused_of_meeting_with_jeffrey/"> <img src="https://external-preview.redd.it/ykMO6-KUG5ltKoaN9tc_nF91ezxlIyFd8LN4rKVWDJQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6ed8dad80b6d1b3d3e85449cd3df6e9b58be2746" alt="Bill Gates accused of meeting with Jeffrey Epstein on multiple occasions" title="Bill Gates accused of meeting with Jeffrey Epstein on multiple occasions" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Constant-Interest686"> /u/Constant-Interest686 </a> <br/> <span><a href="https://rumble.com/v4x4y86-bill-gates-accused-of-meeting-with-jeffrey-epstein-on-multiple-occasions.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ibwba8/bill_gates_accused_of_meeting_with_jeffrey/">[comments]</a></span> </td></tr></table>
+
+## Mods need to do a better job and filter out the political posts
+ - [https://www.reddit.com/r/conspiracy/comments/1ibv2ub/mods_need_to_do_a_better_job_and_filter_out_the](https://www.reddit.com/r/conspiracy/comments/1ibv2ub/mods_need_to_do_a_better_job_and_filter_out_the)
+ - RSS feed: $source
+ - date published: 2025-01-28T06:02:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>This shit is getting tiring. We get that the fringe and bots will spam post content that’s connected to what’s happening in the government with regards to the current and past president, but it’s caused this sub to go from once being fun and actually informative to just downright garbage. Every 3rd post is about something Trump is doing that has nearly nothing to do with actual conspiracies and only about whatever the right wingers on this sub think is great. </p> <p>Put together a filter. Add a LLM bot to analyze posts. FFS get back to UFOs and alien lizards and the JFK assassination by the CIA and Cuba and the casino owners and the mafia and what have you. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OhFuuuccckkkkk"> /u/OhFuuuccckkkkk </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1ibv2ub/mods_need_to_do_a_better_job_and_filter_out_the/">[link]</a></span> &#32; <span><a href="https:
+
+## Politics isn't going to save you.
+ - [https://www.reddit.com/r/conspiracy/comments/1ibsipw/politics_isnt_going_to_save_you](https://www.reddit.com/r/conspiracy/comments/1ibsipw/politics_isnt_going_to_save_you)
+ - RSS feed: $source
+ - date published: 2025-01-28T03:31:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Been seeing a lot of political supporting here on this sub and I gotta say, it&#39;s quite disappointing, do all of you mother fuckers who support trump just forget about all the conspiracies....ever? Do any of you actually remember that it didn&#39;t really fuckin matter what political party was in presidency, that conspiracies happened anyway? What happened? Are you really all so dense to believe that any thing that comes from these bozos will help the people?</p> <p>The day you guys realize that the only reason a political two party system is even in place, is to divide the people, is the day a lot of conspiracies start to make a lot more fucking sense.</p> <p>Instead of seeing this post and getting angry, thinking I&#39;m one side or the other I&#39;m neither and taking sides in politics Is the death of reason and sense of a conspiracy theorist or that I&#39;m personally attacking your political side, do me one favor, once hell maybe even twice a
+
+## The visionary Aldous Huxley on the Perfect DICTATORSHIP: The Slaves would love their servitudes
+ - [https://www.reddit.com/r/conspiracy/comments/1ibshx4/the_visionary_aldous_huxley_on_the_perfect](https://www.reddit.com/r/conspiracy/comments/1ibshx4/the_visionary_aldous_huxley_on_the_perfect)
+ - RSS feed: $source
+ - date published: 2025-01-28T03:30:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ibshx4/the_visionary_aldous_huxley_on_the_perfect/"> <img src="https://preview.redd.it/byjhfkjgmnfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d40c46bc79e0530b85f9fbccabb78512b23be30f" alt="The visionary Aldous Huxley on the Perfect DICTATORSHIP: The Slaves would love their servitudes" title="The visionary Aldous Huxley on the Perfect DICTATORSHIP: The Slaves would love their servitudes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/astralrocker2001"> /u/astralrocker2001 </a> <br/> <span><a href="https://i.redd.it/byjhfkjgmnfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ibshx4/the_visionary_aldous_huxley_on_the_perfect/">[comments]</a></span> </td></tr></table>
+
+## Javier Milei the President of Argentina addresses the World Economic Forum 2025, and calls out everything the WEF stands for and promotes will lead to destruction of western countries from within.
+ - [https://www.reddit.com/r/conspiracy/comments/1ibsblu/javier_milei_the_president_of_argentina_addresses](https://www.reddit.com/r/conspiracy/comments/1ibsblu/javier_milei_the_president_of_argentina_addresses)
+ - RSS feed: $source
+ - date published: 2025-01-28T03:21:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ibsblu/javier_milei_the_president_of_argentina_addresses/"> <img src="https://external-preview.redd.it/cdw2YWDl5gVOk2URUrxNSY5fXrLkFjQR_esFt2dWhoM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7b9eaace3ba315b2d497d78650b4e7decd1cea4e" alt="Javier Milei the President of Argentina addresses the World Economic Forum 2025, and calls out everything the WEF stands for and promotes will lead to destruction of western countries from within." title="Javier Milei the President of Argentina addresses the World Economic Forum 2025, and calls out everything the WEF stands for and promotes will lead to destruction of western countries from within." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tristan_Culbert"> /u/Tristan_Culbert </a> <br/> <span><a href="https://www.youtube.com/watch?v=ATNbGD37Dz0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ibsblu/
+
+## Now why would people be upset over finding out what started Pandemic? Almost like people have something to hide and cover up.
+ - [https://www.reddit.com/r/conspiracy/comments/1ibs8an/now_why_would_people_be_upset_over_finding_out](https://www.reddit.com/r/conspiracy/comments/1ibs8an/now_why_would_people_be_upset_over_finding_out)
+ - RSS feed: $source
+ - date published: 2025-01-28T03:16:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ibs8an/now_why_would_people_be_upset_over_finding_out/"> <img src="https://preview.redd.it/r19xpbg2knfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=22d53101db95510ecbd40980acd3445d57e16079" alt="Now why would people be upset over finding out what started Pandemic? Almost like people have something to hide and cover up." title="Now why would people be upset over finding out what started Pandemic? Almost like people have something to hide and cover up." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DueDrama8301"> /u/DueDrama8301 </a> <br/> <span><a href="https://i.redd.it/r19xpbg2knfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ibs8an/now_why_would_people_be_upset_over_finding_out/">[comments]</a></span> </td></tr></table>
+
+## We got FLEECED!
+ - [https://www.reddit.com/r/conspiracy/comments/1ibrxer/we_got_fleeced](https://www.reddit.com/r/conspiracy/comments/1ibrxer/we_got_fleeced)
+ - RSS feed: $source
+ - date published: 2025-01-28T03:01:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ibrxer/we_got_fleeced/"> <img src="https://b.thumbs.redditmedia.com/1opYYefR1VNaHGrMO1qN-Uw2wnV6r8RdDlVMtRf_0WE.jpg" alt="We got FLEECED!" title="We got FLEECED!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So we were trying to figure out why our algo&#39;s were all messed up on TikTok, NONE of the stuff we usually find on our feeds were coming through,... nothing on the california fires, nothing about the drones, nothing about Luigi, Nothing that is critical of Israel, Nothing that is conspiritorial at all. Then we found it. Scroll to the bottom of the new Terms and Conditions and it says right there in Black and white.... COPYRIGHT FACEBOOK! FACEBOOK BOUGHT TIKTOK!<br/> Not only that, today i got muted by X because my posts were &quot;Suspicious&quot;.... my previous 5 posts were talking shit about Israels involvement in our government. We dont have an outlet to communicate freely now. They are keeping 
+
+## Title
+ - [https://www.reddit.com/r/conspiracy/comments/1ibprx6/title](https://www.reddit.com/r/conspiracy/comments/1ibprx6/title)
+ - RSS feed: $source
+ - date published: 2025-01-28T01:13:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ibprx6/title/"> <img src="https://preview.redd.it/5cavheh4ymfe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4308c9f3c1c26c83105efbded57b412ca845d6dd" alt="Title" title="Title" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://x.com/elonmusk/status/1883762585876742169?t=ht_3RCaJMYbLjnTIJmkprQ&amp;s=19">https://x.com/elonmusk/status/1883762585876742169?t=ht_3RCaJMYbLjnTIJmkprQ&amp;s=19</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RonaldoLibertad"> /u/RonaldoLibertad </a> <br/> <span><a href="https://i.redd.it/5cavheh4ymfe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ibprx6/title/">[comments]</a></span> </td></tr></table>
+
+## President Trump: "It's time for the United States to return to the system that made us richer and more powerful than ever before... Instead of taxing our citizens to enrich foreign nations, we should be tariffing and taxing foreign nations to enrich our citizens."
+ - [https://www.reddit.com/r/conspiracy/comments/1ibpbs9/president_trump_its_time_for_the_united_states_to](https://www.reddit.com/r/conspiracy/comments/1ibpbs9/president_trump_its_time_for_the_united_states_to)
+ - RSS feed: $source
+ - date published: 2025-01-28T00:52:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ibpbs9/president_trump_its_time_for_the_united_states_to/"> <img src="https://external-preview.redd.it/n9Adub4ZI83d8HPAh2EleHU6aruPXpFv92eQI-T_gkM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a5cd7c1e3b0fd79d3deeb1316a9e39c1ed661cf6" alt="President Trump: &quot;It's time for the United States to return to the system that made us richer and more powerful than ever before... Instead of taxing our citizens to enrich foreign nations, we should be tariffing and taxing foreign nations to enrich our citizens.&quot;" title="President Trump: &quot;It's time for the United States to return to the system that made us richer and more powerful than ever before... Instead of taxing our citizens to enrich foreign nations, we should be tariffing and taxing foreign nations to enrich our citizens.&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Orangutan"> /u/Orangutan </a> <br/> <span><a
+

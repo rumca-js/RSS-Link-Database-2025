@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-28T09:33:39+00:00",
+        "description": "<p>Git to bezdyskusyjnie jeden z najpopularniejszych system\u00f3w zarz\u0105dzania wersjami. Zaadoptowany przez wiele organizacji (np. GitHuba) doczeka\u0142 si\u0119 wsparcia w postaci r\u00f3\u017cnych narz\u0119dzi, takich jak GitHub Desktop czy Git LFS. To z kolei poci\u0105gn\u0119\u0142o za sob\u0105 konieczno\u015b\u0107 wsp\u00f3\u0142dzielenia po\u015bwiadcze\u0144 u\u017cytkownika. Niestety nie wszystkie sprawdzenia dokonywane by\u0142y z nale\u017cyt\u0105 staranno\u015bci\u0105 i badacz...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/clone2leak-czyli-jak-drobne-szczegoly-powoduja-wyciekanie-poswiadczen/\">clone2leak, czyli jak drobne szczeg\u00f3\u0142y powoduj\u0105 wyciekanie po\u015bwiadcze\u0144</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 1991748,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/clone2leak-czyli-jak-drobne-szczegoly-powoduja-wyciekanie-poswiadczen",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "clone2leak, czyli jak drobne szczeg\u00f3\u0142y powoduj\u0105 wyciekanie po\u015bwiadcze\u0144",
+        "vote": 0
+    }
+]

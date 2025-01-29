@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-28T17:00:00+00:00",
+        "description": "<p>I\u2019m sure you know the struggle: trying to match a paint from one miniature paint range to another, only to be let down by manufacturer charts, conversion tables, and paint database apps that ALL don\u2019t quite get it right. I\u2019ve wasted a lot of money on mismatched paints over the course of my hobby career. So, I sat down and spent the last few years working on a solution. The result is, in my opinion, the best paint comparison tool you can get, featuring professional hand-painted swatches for the seven most popular miniature paint ranges.</p>\n<p>The post <a href=\"https://taleofpainters.com/2025/01/top-tip-a-colour-matching-tool-that-really-works/\">ToP Tip: A colour matching tool that really works</a> appeared first on <a href=\"https://taleofpainters.com\">Tale of Painters</a>.</p>",
+        "id": 1991762,
+        "language": "en-GB",
+        "link": "https://taleofpainters.com/2025/01/top-tip-a-colour-matching-tool-that-really-works",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 323,
+        "source_url": "https://taleofpainters.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://taleofpainters.com/wp-content/uploads/2025/01/Thumbnail_paint_comparison_tool.jpg",
+        "title": "ToP Tip: A colour matching tool that really works",
+        "vote": 0
+    }
+]
