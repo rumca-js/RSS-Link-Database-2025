@@ -1,0 +1,275 @@
+# Source:Self-Hosted Alternatives to Popular Services, URL:https://www.reddit.com/r/selfhosted/.rss, language:en
+
+## Search Oriented Email
+ - [https://www.reddit.com/r/selfhosted/comments/1id868p/search_oriented_email](https://www.reddit.com/r/selfhosted/comments/1id868p/search_oriented_email)
+ - RSS feed: $source
+ - date published: 2025-01-29T23:37:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve traditionally used Gmail and currently use ProtonMail. </p> <p>I have in the past ran my own IMAP services locally but ended up stopping because I didn&#39;t want to have to continue to maintain and keep it going.</p> <p>I&#39;m now looking to move to something that will work with ProtonMail and other mail services to locally host my email, but I want something that is really well designed for indexing and searching my email history. I&#39;d like to run extensive spam and promotional email filtering on my whole archive, organise it and set it up so i can very easily search for stuff.</p> <p>This doesn&#39;t work well for me now on Gmail as promotional and other emails in my archive will usually have a keyword I&#39;m searching for and it overwhelms the response. ProtonMail doesn&#39;t easily search inside emails and it&#39;s search functionality isn&#39;t much better.</p> <p>I have thought about the idea of using AI tools to understand all t
+
+## Easier alternative to word press that is really easy to install and use locally
+ - [https://www.reddit.com/r/selfhosted/comments/1id7t1k/easier_alternative_to_word_press_that_is_really](https://www.reddit.com/r/selfhosted/comments/1id7t1k/easier_alternative_to_word_press_that_is_really)
+ - RSS feed: $source
+ - date published: 2025-01-29T23:21:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ive spent hours trying install wordpress for hours and failed, new to mySQL hate it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alarming_Map_3784"> /u/Alarming_Map_3784 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1id7t1k/easier_alternative_to_word_press_that_is_really/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1id7t1k/easier_alternative_to_word_press_that_is_really/">[comments]</a></span>
+
+## SmolModels – An open-source framework for building ML models from natural language (Alpha)
+ - [https://www.reddit.com/r/selfhosted/comments/1id7mxs/smolmodels_an_opensource_framework_for_building](https://www.reddit.com/r/selfhosted/comments/1id7mxs/smolmodels_an_opensource_framework_for_building)
+ - RSS feed: $source
+ - date published: 2025-01-29T23:14:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Built an open-source framework that lets you automatically build ML models by defining what you need in plain words and setting up input/output schemas. Under the hood it uses graph search and LLMs to explore different models and compare their performance </p> <p>This is an early alpha, actively being developed. Would love feedback or ideas on where to take it next. Repo: <a href="https://github.com/plexe-ai/smolmodels">https://github.com/plexe-ai/smolmodels</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pale-Show-2469"> /u/Pale-Show-2469 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1id7mxs/smolmodels_an_opensource_framework_for_building/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1id7mxs/smolmodels_an_opensource_framework_for_building/">[comments]</a></span>
+
+## Sonarr: Folder '/mnt/MediaDrive/Downloads/TV Shows/' is not writable by user 'abc'
+ - [https://www.reddit.com/r/selfhosted/comments/1id7lds/sonarr_folder_mntmediadrivedownloadstv_shows_is](https://www.reddit.com/r/selfhosted/comments/1id7lds/sonarr_folder_mntmediadrivedownloadstv_shows_is)
+ - RSS feed: $source
+ - date published: 2025-01-29T23:12:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, first time posting and first time ever using Ubuntu 24.10, or any Linux distro for that matter.</p> <p>I am following this guide to help me get set up: <a href="https://github.com/automation-avenue/youtube-39-arr-apps-1-click">https://github.com/automation-avenue/youtube-39-arr-apps-1-click</a></p> <p>All was going well and good until I tried to set the Root Folder for Sonarr on an HDD that&#39;s separate to the boot drive and where the *arr applications are installed. I&#39;ve made sure that the UID and PID are both 1000:1000, but to no avail. I even tried 777 and 775.</p> <p>Any help would be appreciated. Thank you!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ShawnStrike"> /u/ShawnStrike </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1id7lds/sonarr_folder_mntmediadrivedownloadstv_shows_is/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1i
+
+## Mathesar, spreadsheet-like DB tool, is now in beta with v0.2.0 release
+ - [https://www.reddit.com/r/selfhosted/comments/1id72kx/mathesar_spreadsheetlike_db_tool_is_now_in_beta](https://www.reddit.com/r/selfhosted/comments/1id72kx/mathesar_spreadsheetlike_db_tool_is_now_in_beta)
+ - RSS feed: $source
+ - date published: 2025-01-29T22:49:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello <a href="/r/selfhosted">/r/selfhosted</a>! We just released Mathesar 0.2.0, our initial beta release! This marks our transition from alpha to beta, which means the project is now more stable, thoroughly tested, and we&#39;re comfortable saying it&#39;s ready to work with production PostgreSQL databases. </p> <p>If this is the first time you&#39;re hearing of Mathesar: We&#39;re an intuitive, open source, spreadsheet-like UI to a PostgreSQL database. Mathesar uses and manipulates Postgres schemas, primary keys, foreign keys, constraints and data types. e.g. &quot;Relationships&quot; in our UI are foreign keys in the database.</p> <p>Our features include:</p> <ul> <li>Connecting to an existing Postgres database or creating one from scratch.</li> <li>Access control using Postgres roles and privileges.</li> <li>Works harmoniously alongside your database and thousands of other tools in the Postgres ecosystem.</li> <li>Easily create and update Postgr
+
+## How do you set root path with Caddy in Coolify?
+ - [https://www.reddit.com/r/selfhosted/comments/1id6eq5/how_do_you_set_root_path_with_caddy_in_coolify](https://www.reddit.com/r/selfhosted/comments/1id6eq5/how_do_you_set_root_path_with_caddy_in_coolify)
+ - RSS feed: $source
+ - date published: 2025-01-29T22:21:03+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://caddyserver.com/docs/caddyfile/directives/root">https://caddyserver.com/docs/caddyfile/directives/root</a></p> <p>I&#39;ve deployed a public repository to my root domain. I&#39;m looking for the folder on the server that I can upload lets say <a href="http://file.zip">file.zip</a> and have <a href="http://domain.com/file.zip">http://domain.com/file.zip</a> point to it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LSkeptic"> /u/LSkeptic </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1id6eq5/how_do_you_set_root_path_with_caddy_in_coolify/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1id6eq5/how_do_you_set_root_path_with_caddy_in_coolify/">[comments]</a></span>
+
+## Searching for online off-cloud email tool
+ - [https://www.reddit.com/r/selfhosted/comments/1id69ff/searching_for_online_offcloud_email_tool](https://www.reddit.com/r/selfhosted/comments/1id69ff/searching_for_online_offcloud_email_tool)
+ - RSS feed: $source
+ - date published: 2025-01-29T22:14:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>tl;dr - Searching for a self-hosted web app that can serve my old emails to me when I need to search them. Not connected to upstream servers, emails will be dumped onto the server in `eml` or `mbox` format.</p> <p>New year, same storage limits in Gmail. mail continues to get bigger, attachments are getting bigger and instead of forking over for hosting fees, I&#39;m happy to just download an archive of all my oldest emails and then delete them from the Gmail servers permanently. That&#39;s all well and good for keeping my account below the 90% &#39;storage is full&#39; warnings hell they put you though, but it means I lose access to search history for all that glorious data. erm...most of it is junk. but sometimes there&#39;s an old receipt or warranty email I want to find.</p> <p>I&#39;ve been looking for options that will let me self-host an app to serve up these exported mailbox chunks. So i&#39;d need to be able to import them in either `eml` or 
+
+## Looking to create a productivity dashboard
+ - [https://www.reddit.com/r/selfhosted/comments/1id5ckf/looking_to_create_a_productivity_dashboard](https://www.reddit.com/r/selfhosted/comments/1id5ckf/looking_to_create_a_productivity_dashboard)
+ - RSS feed: $source
+ - date published: 2025-01-29T21:36:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am currently looking to create a personal, productivity dashboard. I am currently in a struggle with trying to remind myself what I am doing within a day with so many work and personal tasks - that I decided to buy a <a href="https://www.amazon.ca/gp/product/B0D66RPCXV?ie=UTF8&amp;psc=1">small bar display</a> that I can keep underneath my primary monitor.</p> <p>My primary use - I just want it to be plain and simple - text editor with the ability to add checkboxes. Otherwise, I would love to add other features like my local time, a calendar with events upcoming I can supply via ical or M365 connection, stocks/crypto charts, Jira feed, maybe Discord or Teams integration (far stretch though).</p> <p>Any ideas within the self-hosted space? So far, I&#39;ve surface level checked out Homepage, Dashy, and Homarr - with Homarr at least getitng the really simple basic need I want.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddi
+
+## Route to public IP or through a VPS + VPN?
+ - [https://www.reddit.com/r/selfhosted/comments/1id59a3/route_to_public_ip_or_through_a_vps_vpn](https://www.reddit.com/r/selfhosted/comments/1id59a3/route_to_public_ip_or_through_a_vps_vpn)
+ - RSS feed: $source
+ - date published: 2025-01-29T21:32:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>I set up the typical homelab with multiple services on different subdomains ([website].example.com, <a href="http://drive.example.com">drive.example.com</a>, <a href="http://plex.example.com">plex.example.com</a>, etc.) A reverse proxy routes requests properly.</p> <p>This exposes my home&#39;s IP address. I&#39;ve been chided elsewhere - don&#39;t expose your home IP address.</p> <p>I&#39;ve been considering setting a single VPS running a reverse proxy (traefik, Caddy) as a container, with a wireguard VPN back to my home network. Requests go to the VPS, where they are routed to internal addresses across the VPN.</p> <p>My home IP address is somewhat undiscoverable, but services operate normally</p> <p>I&#39;d manage the config via GitHub WebHooks: push a config change as a commit to main, and the reverse proxy container redeploys in seconds.</p> <p>Question is: Is all of this config abstraction and complexity worth the trouble to obscure my DDNS IP?
+
+## Centralized login for self hosted apps.
+ - [https://www.reddit.com/r/selfhosted/comments/1id52r4/centralized_login_for_self_hosted_apps](https://www.reddit.com/r/selfhosted/comments/1id52r4/centralized_login_for_self_hosted_apps)
+ - RSS feed: $source
+ - date published: 2025-01-29T21:25:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is there some sort of service or docker container I could use to manage logins for all the apps I&#39;m hosting? Like entra ID but for self hosted stuff. I guess I could just do an HTML page with a login prompt that leads to all the subdomains but I would prefer not to do the work myself if possible.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BinaryCheckers"> /u/BinaryCheckers </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1id52r4/centralized_login_for_self_hosted_apps/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1id52r4/centralized_login_for_self_hosted_apps/">[comments]</a></span>
+
+## Review the security of my setup
+ - [https://www.reddit.com/r/selfhosted/comments/1id42rr/review_the_security_of_my_setup](https://www.reddit.com/r/selfhosted/comments/1id42rr/review_the_security_of_my_setup)
+ - RSS feed: $source
+ - date published: 2025-01-29T20:43:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi there. I&#39;m open to advices and suggestions.</p> <p>I&#39;ve got an old laptop running Umbrel os with Immich, Jellyfin and Taiscale for remote access. Taiscale is very easy and straightforward, but I do not know how secure it is.<br/> Umbrel uses plain http but I figure https isn&#39;t needed on a local network.<br/> It also has 2FA enabled but I&#39;m considering turning it off, probably unnecessary.</p> <p>Only my laptop and phone access my Wifi, I have a guest network for the smart home devices and friends. I&#39;m considering moving my Amazon Fire stick tv on my main Wifi (it&#39;s currently on the guests) for easier access to Jellyfin. I know sometimes smart home devices can be easily hacked, that&#39;s why I moved everything to guest wifi (it&#39;s rather simple actually, just created a guest network with same credentials and everything just switched to it).</p> <p>Router is configured with NextDNS to block malicious websites.</p> <p>Is t
+
+## TIL about Watchtower and nfty.
+ - [https://www.reddit.com/r/selfhosted/comments/1id3bef/til_about_watchtower_and_nfty](https://www.reddit.com/r/selfhosted/comments/1id3bef/til_about_watchtower_and_nfty)
+ - RSS feed: $source
+ - date published: 2025-01-29T20:11:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>Today, I learned about Watchtower and how to embed an <a href="http://ntfy.sh">ntfy.sh</a> link in the Watchtower docker run command to be notified when it runs daily. You don&#39;t know what you don&#39;t know until you ask, &quot;Hey, is there a better way to update all these Docker containers I am running?&quot; </p> <p>I am sure there are twenty different, maybe better, ways to do this, but that is Linux for you, and that is what makes it so great. I am just glad I found one to get me started since I see more Docker containers in my future. Also, sure, it was explained in the docs somewhere that I missed in my rush to get these cool and interesting self-hosting apps up and running immediately.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhatsMyNameWade"> /u/WhatsMyNameWade </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1id3bef/til_about_watchtower_and_nfty/">[link]</a></span> &#32
+
+## YeetFile - A self-hostable encrypted file sending + file/password vault service
+ - [https://www.reddit.com/r/selfhosted/comments/1id2irj/yeetfile_a_selfhostable_encrypted_file_sending](https://www.reddit.com/r/selfhosted/comments/1id2irj/yeetfile_a_selfhostable_encrypted_file_sending)
+ - RSS feed: $source
+ - date published: 2025-01-29T19:38:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone, it&#39;s been a while! I shared Whoogle Search with the community a few years ago and was really grateful for everyone&#39;s feedback and support.</p> <p>I have a new project that I wanted to share called YeetFile: <a href="https://github.com/benbusby/yeetfile">https://github.com/benbusby/yeetfile</a>. It&#39;s a file sending + file/password vault service that uses zero-knowledge encryption and is designed to be easily self-hosted.</p> <p>Here is a quick rundown of some features:</p> <ul> <li>No file size limitation for sending</li> <li>Ability to set file expiration after a number of downloads or time limit</li> <li>File links don&#39;t require an account to open</li> <li>Full vault for storing files (and passwords/logins) long term</li> <li>File and folder sharing from vault with other YeetFile users</li> <li>Zero knowledge encryption for all uploads (server never receives any unencrypted content, and is unable to decrypt uploads)</li>
+
+## Personal Dashboard
+ - [https://www.reddit.com/r/selfhosted/comments/1id1bhx/personal_dashboard](https://www.reddit.com/r/selfhosted/comments/1id1bhx/personal_dashboard)
+ - RSS feed: $source
+ - date published: 2025-01-29T18:50:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1id1bhx/personal_dashboard/"> <img src="https://preview.redd.it/82uqjibibzfe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=09cd4b9b9f837c2ced286850abe03923403e08d8" alt="Personal Dashboard" title="Personal Dashboard" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alex_Watch"> /u/Alex_Watch </a> <br/> <span><a href="https://i.redd.it/82uqjibibzfe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1id1bhx/personal_dashboard/">[comments]</a></span> </td></tr></table>
+
+## Torqbit, an open source customer training platform
+ - [https://www.reddit.com/r/selfhosted/comments/1id0zvl/torqbit_an_open_source_customer_training_platform](https://www.reddit.com/r/selfhosted/comments/1id0zvl/torqbit_an_open_source_customer_training_platform)
+ - RSS feed: $source
+ - date published: 2025-01-29T18:37:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey All,</p> <p>I with my team of 3, want to share an open source project that we have building for past 9 months. It&#39;s called Torqbit - an open source learning management system for businesses to train their customers.</p> <p>Github: <a href="https://github.com/torqbit/torqbit">https://github.com/torqbit/torqbit</a><br/> Website: <a href="https://torqbit.com/">https://torqbit.com</a></p> <p><strong>Backstory</strong><br/> The creator&#39;s era is on the rise and many software engineers with just few years of experience are turning creators and launching their online courses, but for the software companies we rarely see a dedicated academy for their customers/leads that can help them master these amazing piece of software and use it to solve their own business problem. That&#39;s why I decided to provide a minimalistic LMS( Learning management system) to build an academy that integrates with their ecosystem/authentication.</p> <p><strong>What&#39
+
+## Which of your services is the most hassle to maintain??
+ - [https://www.reddit.com/r/selfhosted/comments/1id09i0/which_of_your_services_is_the_most_hassle_to](https://www.reddit.com/r/selfhosted/comments/1id09i0/which_of_your_services_is_the_most_hassle_to)
+ - RSS feed: $source
+ - date published: 2025-01-29T18:08:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>And what do you spend the majority of your time on regarding server management</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zestyclose_Car1088"> /u/Zestyclose_Car1088 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1id09i0/which_of_your_services_is_the_most_hassle_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1id09i0/which_of_your_services_is_the_most_hassle_to/">[comments]</a></span>
+
+## TTS Firefox extension for your own OpenAI compliant speech endpoint
+ - [https://www.reddit.com/r/selfhosted/comments/1iczsrz/tts_firefox_extension_for_your_own_openai](https://www.reddit.com/r/selfhosted/comments/1iczsrz/tts_firefox_extension_for_your_own_openai)
+ - RSS feed: $source
+ - date published: 2025-01-29T17:49:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1iczsrz/tts_firefox_extension_for_your_own_openai/"> <img src="https://external-preview.redd.it/L4yqDBrN8S2geTYzCA3Y59PJXI-zkxK4vg3iqo_Pq3A.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9c53a6244c6a722c38eb9dc442b938ce12acff7c" alt="TTS Firefox extension for your own OpenAI compliant speech endpoint" title="TTS Firefox extension for your own OpenAI compliant speech endpoint" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BassGaming"> /u/BassGaming </a> <br/> <span><a href="https://addons.mozilla.org/en-GB/firefox/addon/custom-tts-reader/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iczsrz/tts_firefox_extension_for_your_own_openai/">[comments]</a></span> </td></tr></table>
+
+## Will Jetson Orin Nano Super handle Whisper + Gemma 2b or deepseek-r1 1.5b?
+ - [https://www.reddit.com/r/selfhosted/comments/1icz4cw/will_jetson_orin_nano_super_handle_whisper_gemma](https://www.reddit.com/r/selfhosted/comments/1icz4cw/will_jetson_orin_nano_super_handle_whisper_gemma)
+ - RSS feed: $source
+ - date published: 2025-01-29T17:22:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>I would like to build a little box I can talk to, I&#39;m fine with limitations of small size models, but will I be able to setup Whisper so it runs live / non stop and get some decent usable performance from LLM at the same time?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bitplenty"> /u/bitplenty </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1icz4cw/will_jetson_orin_nano_super_handle_whisper_gemma/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1icz4cw/will_jetson_orin_nano_super_handle_whisper_gemma/">[comments]</a></span>
+
+## Considering Self-Hosting Immich – Looking for Feedback from Fellow Self-Hosters
+ - [https://www.reddit.com/r/selfhosted/comments/1icy5ka/considering_selfhosting_immich_looking_for](https://www.reddit.com/r/selfhosted/comments/1icy5ka/considering_selfhosting_immich_looking_for)
+ - RSS feed: $source
+ - date published: 2025-01-29T16:43:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been looking into Immich for managing and backing up my photos and videos. The AI-powered search, deduplication, and mobile app sync look really promising, but before I lock myself in, I’d love to hear from those who are already using it.</p> <p>A few questions I have:</p> <ol> <li><strong>Performance &amp; Stability:</strong> How well does it handle large libraries (e.g., 100K+ photos)? Any crashes or slowdowns?</li> <li><strong>Mobile Uploads:</strong> How reliable is the mobile app for background uploads? Does it work well across different devices?</li> <li><strong>Resource Usage:</strong> What kind of hardware are you running it on? How heavy is it on CPU/RAM?</li> <li><strong>AI Features:</strong> How good is the facial recognition and object detection compared to Google Photos?</li> <li><strong>Long-Term Maintenance:</strong> How often does it require manual intervention for updates, migrations, or troubleshooting?</li> <li><strong>Alt
+
+## How to Route Subdomains to Apps Using Built-in Traefik in Runtipi?
+ - [https://www.reddit.com/r/selfhosted/comments/1icxwm7/how_to_route_subdomains_to_apps_using_builtin](https://www.reddit.com/r/selfhosted/comments/1icxwm7/how_to_route_subdomains_to_apps_using_builtin)
+ - RSS feed: $source
+ - date published: 2025-01-29T16:33:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I have Runtipi set up on my Raspberry Pi, and I also use AdGuard for local DNS. In AdGuard, I configured <code>tipi.local</code> and <code>*.tipi.local</code> to point to my Pi’s IP. When I type <code>tipi.local</code> in my browser, the Runtipi dashboard appears, which is expected.</p> <p>The issue is with other apps I installed on Runtipi and exposed to my local network - like Beszel, Umami, and Dockge. The &quot;<em>Expose app on local network</em>&quot; switch is enabled for all of them, and they <strong>are</strong> accessible via <code>appname.tipi.local:appPort</code>, but that&#39;s not exactly what I want. I’d like to access them using just <code>beszel.tipi.local</code>, <code>umami.tipi.local</code>, and <code>dockge.tipi.local</code> but instead, they all just show the Runtipi dashboard. I want to access them without needing to specify a port. And when i access them with <code>https</code>, like <a href="https://besze
+
+## Anyone successfully using postiz?
+ - [https://www.reddit.com/r/selfhosted/comments/1icxl8t/anyone_successfully_using_postiz](https://www.reddit.com/r/selfhosted/comments/1icxl8t/anyone_successfully_using_postiz)
+ - RSS feed: $source
+ - date published: 2025-01-29T16:20:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1icxl8t/anyone_successfully_using_postiz/"> <img src="https://external-preview.redd.it/H0bQgHoh2N9qxeUWRLwxGG5nr3s2exmiiw5lHK6Lskw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d4d2dd0a5b214ffa2523961086c0d2fbd2a1255" alt="Anyone successfully using postiz?" title="Anyone successfully using postiz?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I am selfhosting postiz but i am facing many bugs that are not listed in there github repo issues , so i am wondering if there is some issue with my installation. Here some of the thing i am facing, 1. it keep disconnecting channel (i am using facebook and instagram) 2. Instagram standalone not working 3. I had to set not-secure=true even tho i am using traefik ssl . without this i couldn&#39;t login 4. after one successful login i set not secure to true , now i can login </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/itshar
+
+## What static website do you self-host?
+ - [https://www.reddit.com/r/selfhosted/comments/1icwx6m/what_static_website_do_you_selfhost](https://www.reddit.com/r/selfhosted/comments/1icwx6m/what_static_website_do_you_selfhost)
+ - RSS feed: $source
+ - date published: 2025-01-29T15:53:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone, I’m just curious about what kind of static project websites you host. I’m referring to things like Hugo, IT tools, and similar platforms.</p> <p>I’m particularly interested in platforms that are easy to set up and can be safely exposed to the internet, whether self-hosted or using services like GitHub Pages.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/merox57"> /u/merox57 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1icwx6m/what_static_website_do_you_selfhost/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1icwx6m/what_static_website_do_you_selfhost/">[comments]</a></span>
+
+## I wanna get a domain just to host personal projects
+ - [https://www.reddit.com/r/selfhosted/comments/1icvwui/i_wanna_get_a_domain_just_to_host_personal](https://www.reddit.com/r/selfhosted/comments/1icvwui/i_wanna_get_a_domain_just_to_host_personal)
+ - RSS feed: $source
+ - date published: 2025-01-29T15:09:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I want to buy a domain for just personal project to share with my team for all I care it could be named &quot;sadsadfdsgds.in or .com &quot; or whatever. Is there any place that provides these domains cause I went on to GoDaddy I asked for a domain for 10 years and the price was high considering the name i put out there. I there any provider who provides these at cheaper prices less than 25$. </p> <p>EDIT: Not looking for .com specifically anything would work</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UnitedRecognition505"> /u/UnitedRecognition505 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1icvwui/i_wanna_get_a_domain_just_to_host_personal/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1icvwui/i_wanna_get_a_domain_just_to_host_personal/">[comments]</a></span>
+
+## Build a Local RAG Using DeepSeek-R1, LangChain, and Ollama
+ - [https://www.reddit.com/r/selfhosted/comments/1icu6jp/build_a_local_rag_using_deepseekr1_langchain_and](https://www.reddit.com/r/selfhosted/comments/1icu6jp/build_a_local_rag_using_deepseekr1_langchain_and)
+ - RSS feed: $source
+ - date published: 2025-01-29T13:50:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>Since a lot of people asked for a guide on how to build a RAG with DeepSeek-R1, here’s a full guide on how to RAG system using Ollama, DeepSeek, LangChain, ChromaDB, and Streamlit.</p> <p>Let me know if you have access to it, I want to make sure it&#39;s free for everyone and helpfull for the community. Thanks for the support!</p> <p><a href="https://medium.com/p/c5133a8514dd">https://medium.com/p/c5133a8514dd</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Brief-Zucchini-180"> /u/Brief-Zucchini-180 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1icu6jp/build_a_local_rag_using_deepseekr1_langchain_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1icu6jp/build_a_local_rag_using_deepseekr1_langchain_and/">[comments]</a></span>
+
+## [Update] Ghostboard – Now with Drag & Drop, File Uploading, and Dark Mode!
+ - [https://www.reddit.com/r/selfhosted/comments/1icsr50/update_ghostboard_now_with_drag_drop_file](https://www.reddit.com/r/selfhosted/comments/1icsr50/update_ghostboard_now_with_drag_drop_file)
+ - RSS feed: $source
+ - date published: 2025-01-29T12:34:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1icsr50/update_ghostboard_now_with_drag_drop_file/"> <img src="https://b.thumbs.redditmedia.com/8M84wyfqVjyYvSHSgG4j-2XzX3OKisH3iryykRzf8_c.jpg" alt="[Update] Ghostboard – Now with Drag &amp; Drop, File Uploading, and Dark Mode!" title="[Update] Ghostboard – Now with Drag &amp; Drop, File Uploading, and Dark Mode!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hey <a href="/r/selfhosted">r/selfhosted</a>,</p> <p>I wanted to share an update on <strong>Ghostboard</strong>, my self-hosted <strong>real-time text board</strong> for <strong>simple, no-fuss text transfer</strong>. It’s lightweight, WebSocket-powered, and designed for quickly moving text between devices or sharing notes without relying on third-party services.</p> <h1>🚀 New Features in Ghostboard:</h1> <p>✅ <strong>Drag &amp; Drop File Support</strong> – You can now <strong>drag text-based files</strong> (<code>.txt</code>, <code>.csv</code>, <code>
+
+## Question about extreme resolution file playback
+ - [https://www.reddit.com/r/selfhosted/comments/1icsf3m/question_about_extreme_resolution_file_playback](https://www.reddit.com/r/selfhosted/comments/1icsf3m/question_about_extreme_resolution_file_playback)
+ - RSS feed: $source
+ - date published: 2025-01-29T12:14:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1icsf3m/question_about_extreme_resolution_file_playback/"> <img src="https://b.thumbs.redditmedia.com/q6VJsbKPGhpX9o0vlzGSaIj9y704jeildgEsVB0Wu5w.jpg" alt="Question about extreme resolution file playback" title="Question about extreme resolution file playback" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hi All,</p> <p>I am trying to playback file with following parameters (8000x4000px at 708mb/sec bitrate):</p> <p><a href="https://preview.redd.it/wvkzpsldcxfe1.png?width=462&amp;format=png&amp;auto=webp&amp;s=f0a5500066194fd53a5809fd9b7b85026b832f02">https://preview.redd.it/wvkzpsldcxfe1.png?width=462&amp;format=png&amp;auto=webp&amp;s=f0a5500066194fd53a5809fd9b7b85026b832f02</a></p> <p>And I am getting this slow-mo not fluid as well playback effect with sound being all jittery and I wonder if you have any ideas how to tackle it.</p> <p>I am on a PC 6700k / NV GTX 1080 / 32GB Ram and SSD. None of the resour
+
+## Best practice to reverse proxy with one public domain for both int. & ext. network?
+ - [https://www.reddit.com/r/selfhosted/comments/1ics9i0/best_practice_to_reverse_proxy_with_one_public](https://www.reddit.com/r/selfhosted/comments/1ics9i0/best_practice_to_reverse_proxy_with_one_public)
+ - RSS feed: $source
+ - date published: 2025-01-29T12:05:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi!</p> <p>Today I’m using caddy to reverse proxy some services on my server to the public. domain.tld and *.domain.tld is configured on cloudflare to my public IP. Caddy using DNS challenging.</p> <p>But now I want to reverse proxy all my local services on the local network, with the same public domain I already have.<br/> So what is the best practice to do so? I want to reverse proxy everything but only a few services should get public access.</p> <p>If i use for example app.domain.tld, is it enough, security wise, to use for example “not remote_ip” in my caddyfile for it to not get exposed to the public?</p> <p>Or is this a bad idea and maybe it is best to use <a href="http://home.arpa">home.arpa</a> for my local network?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spiritual-Art1502"> /u/Spiritual-Art1502 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ics9i0/best_practice_to_rever
+
+## SSH of choice
+ - [https://www.reddit.com/r/selfhosted/comments/1icrs2i/ssh_of_choice](https://www.reddit.com/r/selfhosted/comments/1icrs2i/ssh_of_choice)
+ - RSS feed: $source
+ - date published: 2025-01-29T11:34:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Interested in what other people use for ssh. I usually use Putty and was thinking about looking into other applications, maybe Termius or start connecting from my terminal. But I currently have too many different servers I&#39;m working on, so don&#39;t want to use straight terminal.</p> <p>Any suggestions??</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KSJaay"> /u/KSJaay </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1icrs2i/ssh_of_choice/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1icrs2i/ssh_of_choice/">[comments]</a></span>
+
+## Self hosted Garmin alternative
+ - [https://www.reddit.com/r/selfhosted/comments/1icpcu2/self_hosted_garmin_alternative](https://www.reddit.com/r/selfhosted/comments/1icpcu2/self_hosted_garmin_alternative)
+ - RSS feed: $source
+ - date published: 2025-01-29T08:34:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all!</p> <p>I’m a real nerd when it comes to data privacy, I love the Garmin smartwatches but knowing its capabilities and then knowing it sends all of the (mostly biometric) data collected to a server I am not in control of, makes me feel a bit uncomfortable. We all know (some) big tech companies love to sell our data to 3th parties or have a government agreement that they have to release our data to triple letter agencies if they need it for some reason. So I want to avoid them being able to do that with mine.</p> <p>That’s why I had the idea to create my own ‘Health &amp; Lifestyle’ section in my homelab. I will use ‘Wger Workout Manager’ for my workouts and food plans but I’m still in the search of a server I can host and an app that allows me to monitor, track and save my biometrics in a way Garmin does. Not just the sleep data but also when I’m recovering or just normal activities throughout the day.</p> <p>Any recommendations?</p> </div><!-
+
+## Show r/SelfHosted: I made a simple link shortening and tracking service written in Rust
+ - [https://www.reddit.com/r/selfhosted/comments/1icnz6b/show_rselfhosted_i_made_a_simple_link_shortening](https://www.reddit.com/r/selfhosted/comments/1icnz6b/show_rselfhosted_i_made_a_simple_link_shortening)
+ - RSS feed: $source
+ - date published: 2025-01-29T06:50:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>Here&#39;s the link: <a href="https://github.com/WaveringAna/SimpleLink">https://github.com/WaveringAna/SimpleLink</a></p> <p>I usually use Shlink which is great but I found it a little too heavy especially for my vps&#39;es that often only have 256mb of ram. All I want is the ability to redirect links and see how many clicks they get over time so here it is.</p> <p>With the shortened links, you can add `?source=anyTextHere` at the end of it to have the source show up as `anyTextHere` in the stats section.</p> <p>If you want, you can bypass the frontend and use the backend routes yourself as an API too. `API.md` has info on it</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Anarch33"> /u/Anarch33 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1icnz6b/show_rselfhosted_i_made_a_simple_link_shortening/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1icnz
+
+## ELI5 DNS and Reverse Proxy
+ - [https://www.reddit.com/r/selfhosted/comments/1icn759/eli5_dns_and_reverse_proxy](https://www.reddit.com/r/selfhosted/comments/1icn759/eli5_dns_and_reverse_proxy)
+ - RSS feed: $source
+ - date published: 2025-01-29T05:57:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>Good morning all. I&#39;m just getting my feet wet in self hosting and I&#39;m reading in circles but can&#39;t seem to find the start of the process. I have set up a TrueNas instance on my dedicated server machine. I have installed Technitium on Docker and so far have installed only Immich. </p> <p>I have my server 192.168.x.x local address as static. My goal is to securely connect certain apps to the internet for sharing with family.</p> <p>My understanding so far: Tailscale will be a secure way for me to VPN and access my server apps but for easier sharing with family without having to set up on client devices it seems I need to set up a DNS with a domain name and then set up a reverse proxy (directs traffic and blocks other?)</p> <p>I got a domain on porkbun. I installed technitium but don&#39;t know how to set it up and how to proceed. Please assist.</p> <p>Looking at documentation, it seems I need to make A entries for each app I&#39;m looking 
+
+## Thinking about offering Colo space for HomeLabs(or small biz)?
+ - [https://www.reddit.com/r/selfhosted/comments/1iclrbt/thinking_about_offering_colo_space_for_homelabsor](https://www.reddit.com/r/selfhosted/comments/1iclrbt/thinking_about_offering_colo_space_for_homelabsor)
+ - RSS feed: $source
+ - date published: 2025-01-29T04:30:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Genuinely curious if there is interest for this idea. So I live in an area where putting a server at my house is not an option- aka our internet just doesn&#39;t support it. Got me thinking that maybe there may be other people who may be in a similar situation.</p> <p>By ourselves, renting rackspace in a colocation center is out of the price range, BUT I was thinking about starting a business where I offer rack space JUST for homelab users (or small buisnesses) who don&#39;t have a better place for their server. The city I live near has a fiber hotel with space available - the math works out in such a way that depending on how many &quot;clients&quot; were interested, I could offer power, space and un-metered 1/1 or 10/10gpbs fiber for like....150-200$ per Rack unit.</p> <p>Thoughts? If a service like this existed would you buy in?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/oragamisquirrell"> /u/oragamisqui
+
+## VPN for remote outbound traffic
+ - [https://www.reddit.com/r/selfhosted/comments/1iclqeq/vpn_for_remote_outbound_traffic](https://www.reddit.com/r/selfhosted/comments/1iclqeq/vpn_for_remote_outbound_traffic)
+ - RSS feed: $source
+ - date published: 2025-01-29T04:29:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I&#39;ve recently travelling abroad and sometimes I need a domestic IP in order to access some services. Currently, I&#39;ve set up a http proxy and I&#39;m using that, it&#39;s ok when the service is a web-based one, but, when I need I&#39;m required to use an (Android) app, it doesn&#39;t work.</p> <p>I was thinking of setting up a VPN and checking if Android allows me to route all the traffic through the VPN, is this possible?.</p> <p>Regarding the VPN, I&#39;ll be hosting in a raspberry pi. <a href="https://github.com/pivpn/pivpn/releases/tag/v4.6.0">PIVPN is currently unmantained</a>, so I thought using the <a href="https://docs.linuxserver.io/images/docker-wireguard/">linuxserver/wireguard docker image</a> or <a href="https://github.com/wg-easy/wg-easy">wg-easy</a>. Do you recommend any other alternative in particular?. Talking particularly about Android support, would it be better to go for an OpenVPN server instead?.</p> <p>Thanks in adva
+
+## Komga compatible client question
+ - [https://www.reddit.com/r/selfhosted/comments/1icljci/komga_compatible_client_question](https://www.reddit.com/r/selfhosted/comments/1icljci/komga_compatible_client_question)
+ - RSS feed: $source
+ - date published: 2025-01-29T04:18:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I know there are a lot of clients that can support ODPS . I&#39;m currently using mihon and it works as intended. There is one feature that im missing the single panel view feature that kindle has when viewing a comic book/manga. Does anyone know if there is an alternative to mihon that has that feature or if there is maybe a fork of mihon with that feature?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/fantasma91"> /u/fantasma91 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1icljci/komga_compatible_client_question/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1icljci/komga_compatible_client_question/">[comments]</a></span>
+
+## Music Video Solution?
+ - [https://www.reddit.com/r/selfhosted/comments/1icksdb/music_video_solution](https://www.reddit.com/r/selfhosted/comments/1icksdb/music_video_solution)
+ - RSS feed: $source
+ - date published: 2025-01-29T03:37:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve not seen anything on this, so please steer me on this if something exists. Lately, I&#39;ve been keeping MTV Classic on our TV on and it&#39;s pretty awesome to see all the music videos from long ago playing in the background. We&#39;ll have friends over and we&#39;ll be playing cards or something, and then a particular music video comes on and it brings up all sorts of discussion.</p> <p>Is there a solution out there where one can:</p> <ul> <li>Build out a list of music videos that are wanted (like TV shows or movies with the arrs)</li> <li>Then, there&#39;s an automated/monitoring mechanism in place that will download them from torrents/usenet or from Youtube - select the quality</li> <li>A player that will then play the music videos in random order</li> <li>Be able to easily manage, add, remove the music videos</li> <li>No commercials of course (MTV Classic gets muted constantly when these are on)</li> </ul> <p>Right now, I think the only
+
+## Modem reset and services unavailable
+ - [https://www.reddit.com/r/selfhosted/comments/1icjw0v/modem_reset_and_services_unavailable](https://www.reddit.com/r/selfhosted/comments/1icjw0v/modem_reset_and_services_unavailable)
+ - RSS feed: $source
+ - date published: 2025-01-29T02:50:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1icjw0v/modem_reset_and_services_unavailable/"> <img src="https://b.thumbs.redditmedia.com/FQI4VmHxP_fjJr40rWyHEw_Sqnfs_naINTAxPpxKycY.jpg" alt="Modem reset and services unavailable" title="Modem reset and services unavailable" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I had to reboot my modem and now I cant access my online services. (522 error code)</p> <p><a href="https://preview.redd.it/3rvek7d5dufe1.png?width=1033&amp;format=png&amp;auto=webp&amp;s=407810799edc6d251a80ee95429a0e53e5e01723">https://preview.redd.it/3rvek7d5dufe1.png?width=1033&amp;format=png&amp;auto=webp&amp;s=407810799edc6d251a80ee95429a0e53e5e01723</a></p> <p>They are still available in LAN so it must be networking or DNS setting I am missing.</p> <p>I also had my modem reboot a number of times before and they stayed online even when my public IP changed.</p> <p>My setup:</p> <ul> <li>Proxmox on a mini PC</li> <li>du
+
+## How to skip CORS on a reverse proxy
+ - [https://www.reddit.com/r/selfhosted/comments/1icjr43/how_to_skip_cors_on_a_reverse_proxy](https://www.reddit.com/r/selfhosted/comments/1icjr43/how_to_skip_cors_on_a_reverse_proxy)
+ - RSS feed: $source
+ - date published: 2025-01-29T02:43:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I&#39;ve been stuck for hours trying to configure NGINX reverse proxy with Docker, and I&#39;m hoping someone can help.</p> <p>I have a device that wasn&#39;t intended to be publicly accessible, but I’ve set it up to work through Cloudflare and NGINX reverse proxy, allowing me to access it remotely. This setup is working for most of my devices, but I’m running into a CORS issue with one particular device that wasn&#39;t designed to be public facing.</p> <p>The web GUI of the device is sending my Cloudflare domain to its backend server, which is causing issues. What I need to do is modify the HTTP headers so that the local device sees the request coming from my local IP (<code>192.168.x.x</code>) instead of the public Cloudflare domain.</p> <p>I’ve tried setting up the following in my NGINX reverse proxy config:</p> <pre><code>location / { proxy_pass http://192.168.xxx.xxx; proxy_set_header Host 192.168.xxx.xxx; # Overwrite the Host hea
+
+## CMS for keeping records of all aspects of life?
+ - [https://www.reddit.com/r/selfhosted/comments/1icik3k/cms_for_keeping_records_of_all_aspects_of_life](https://www.reddit.com/r/selfhosted/comments/1icik3k/cms_for_keeping_records_of_all_aspects_of_life)
+ - RSS feed: $source
+ - date published: 2025-01-29T01:43:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>My child is one week old and I&#39;m thinking of documenting all sorts of things like medical records, doctor visits, observations, future bills related to them etc, so I need functionality that supports different entities, cross-tags, search, multi-user support (so my spouse can contribute as well). I was thinking about something simple like Ghost, but obviously I need more than just a simple blog post.</p> <p>I&#39;m assuming it should be some kind of CMS. I took a look at this <a href="https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file#content-management-systems-cms">awesome-selfhosted</a> page, but I think I&#39;m even more confused now. </p> <p>Do you have any suggestions?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RepeatTraining7913"> /u/RepeatTraining7913 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1icik3k/cms_for_keeping_records_of_all_aspects_of_l
+
+## Self Hosted Macro Tracker (Carbon/MyFitnessPal/etc)
+ - [https://www.reddit.com/r/selfhosted/comments/1ich33h/self_hosted_macro_tracker_carbonmyfitnesspaletc](https://www.reddit.com/r/selfhosted/comments/1ich33h/self_hosted_macro_tracker_carbonmyfitnesspaletc)
+ - RSS feed: $source
+ - date published: 2025-01-29T00:31:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>I searched and found several people who created calorie trackers with scanning and API connection to openfoodDB. Does anyone know of any that track your Macros? I&#39;m looking for something that does what <a href="https://www.joincarbon.com/">Carbon</a> does but self hosted.</p> <p>While I&#39;m at it... I&#39;d love to quit paying for Hevy too. <a href="https://www.hevyapp.com/">https://www.hevyapp.com/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/qvo-87"> /u/qvo-87 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ich33h/self_hosted_macro_tracker_carbonmyfitnesspaletc/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ich33h/self_hosted_macro_tracker_carbonmyfitnesspaletc/">[comments]</a></span>
+

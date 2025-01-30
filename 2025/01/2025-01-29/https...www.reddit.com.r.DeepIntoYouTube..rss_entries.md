@@ -1,0 +1,58 @@
+# Source:The Dark Depths of YouTube, URL:https://www.reddit.com/r/DeepIntoYouTube/.rss, language:en
+
+## A video by this channel showed up in my feed and I found this. Pretty normal besides the woman.
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1id8mz0/a_video_by_this_channel_showed_up_in_my_feed_and](https://www.reddit.com/r/DeepIntoYouTube/comments/1id8mz0/a_video_by_this_channel_showed_up_in_my_feed_and)
+ - RSS feed: $source
+ - date published: 2025-01-29T23:58:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1id8mz0/a_video_by_this_channel_showed_up_in_my_feed_and/"> <img src="https://external-preview.redd.it/tUtjhnYmBYqDvXjyd3zZ_dTJChE-SVSA9tPxGMAluBI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ca113a63f59a4a90f67944b1bc90d672c288dc4a" alt="A video by this channel showed up in my feed and I found this. Pretty normal besides the woman." title="A video by this channel showed up in my feed and I found this. Pretty normal besides the woman." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Greenishemerald9"> /u/Greenishemerald9 </a> <br/> <span><a href="https://youtu.be/LcCmeChEijo?si=3KYOcH2h_JK5nLe5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1id8mz0/a_video_by_this_channel_showed_up_in_my_feed_and/">[comments]</a></span> </td></tr></table>
+
+## "The Poultry Predicament" - A short animated film by Judith Fisch (Uploaded in Oct 26, 2006, 200 views )
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1id566y/the_poultry_predicament_a_short_animated_film_by](https://www.reddit.com/r/DeepIntoYouTube/comments/1id566y/the_poultry_predicament_a_short_animated_film_by)
+ - RSS feed: $source
+ - date published: 2025-01-29T21:29:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1id566y/the_poultry_predicament_a_short_animated_film_by/"> <img src="https://external-preview.redd.it/WX5v-0_XLy4HRee-zHsLU79loUSqnv7o_z_rL6ykaJg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1515cf701c98c6f58c9414bcff8de1ca376ff878" alt="&quot;The Poultry Predicament&quot; - A short animated film by Judith Fisch (Uploaded in Oct 26, 2006, 200 views )" title="&quot;The Poultry Predicament&quot; - A short animated film by Judith Fisch (Uploaded in Oct 26, 2006, 200 views )" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bubrascal"> /u/bubrascal </a> <br/> <span><a href="https://www.youtube.com/watch?v=8HIHlmLJk7E">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1id566y/the_poultry_predicament_a_short_animated_film_by/">[comments]</a></span> </td></tr></table>
+
+## Russian guy on drugs steals police car and crashes
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1id09os/russian_guy_on_drugs_steals_police_car_and_crashes](https://www.reddit.com/r/DeepIntoYouTube/comments/1id09os/russian_guy_on_drugs_steals_police_car_and_crashes)
+ - RSS feed: $source
+ - date published: 2025-01-29T18:08:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1id09os/russian_guy_on_drugs_steals_police_car_and_crashes/"> <img src="https://external-preview.redd.it/hEOvAPD3mlkuN52oSM621D2V_ic881DFNj8JsZ1yUrs.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cfd2f7b09fed6a0feebcd68ef998930af74a6f87" alt="Russian guy on drugs steals police car and crashes" title="Russian guy on drugs steals police car and crashes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NewEnglandSynthOrch"> /u/NewEnglandSynthOrch </a> <br/> <span><a href="https://www.youtube.com/watch?v=xvb2KSA71o4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1id09os/russian_guy_on_drugs_steals_police_car_and_crashes/">[comments]</a></span> </td></tr></table>
+
+## Amazing 2007 Gem - An Ode to AOL Mail
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1icrxgo/amazing_2007_gem_an_ode_to_aol_mail](https://www.reddit.com/r/DeepIntoYouTube/comments/1icrxgo/amazing_2007_gem_an_ode_to_aol_mail)
+ - RSS feed: $source
+ - date published: 2025-01-29T11:44:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1icrxgo/amazing_2007_gem_an_ode_to_aol_mail/"> <img src="https://external-preview.redd.it/rI3xEz9sK7_LTfHjcbNfCw5DfdxCVdZQ7T7bmaYviuU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=19b0f9ba7b6b394d166d8f498d4e93568e44d977" alt="Amazing 2007 Gem - An Ode to AOL Mail" title="Amazing 2007 Gem - An Ode to AOL Mail" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Otsaw"> /u/Otsaw </a> <br/> <span><a href="https://www.youtube.com/watch?v=bewD1cVAAu4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1icrxgo/amazing_2007_gem_an_ode_to_aol_mail/">[comments]</a></span> </td></tr></table>
+
+## This whole channel is full of strange and surreal videos with only a few hundred views each
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1icla61/this_whole_channel_is_full_of_strange_and_surreal](https://www.reddit.com/r/DeepIntoYouTube/comments/1icla61/this_whole_channel_is_full_of_strange_and_surreal)
+ - RSS feed: $source
+ - date published: 2025-01-29T04:03:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1icla61/this_whole_channel_is_full_of_strange_and_surreal/"> <img src="https://external-preview.redd.it/jWQzB3oZnUAivQjvamfqN1lkgaDOhwX9UusBgtPpUfE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fd507b49f4617a9d9f157b9ccfa2ec2a1573add3" alt="This whole channel is full of strange and surreal videos with only a few hundred views each" title="This whole channel is full of strange and surreal videos with only a few hundred views each" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheOtherWhiteMeat"> /u/TheOtherWhiteMeat </a> <br/> <span><a href="https://www.youtube.com/watch?v=TNI_aIgqM5s">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1icla61/this_whole_channel_is_full_of_strange_and_surreal/">[comments]</a></span> </td></tr></table>
+
+## Houbara bird mating dance with EDM playing
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1ickkoo/houbara_bird_mating_dance_with_edm_playing](https://www.reddit.com/r/DeepIntoYouTube/comments/1ickkoo/houbara_bird_mating_dance_with_edm_playing)
+ - RSS feed: $source
+ - date published: 2025-01-29T03:26:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ickkoo/houbara_bird_mating_dance_with_edm_playing/"> <img src="https://external-preview.redd.it/tQxdAGijHMVlrtpAolbkuC8HpuWPSgNKLUnwwMsDWBg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5f9617c34f19206f5517f67fecd981f9d424ab6b" alt="Houbara bird mating dance with EDM playing" title="Houbara bird mating dance with EDM playing" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>123 views, 10 years</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DazzDazzle"> /u/DazzDazzle </a> <br/> <span><a href="https://youtu.be/wtVc06CpEXI?si=9k9vkW23MTdxq1K5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1ickkoo/houbara_bird_mating_dance_with_edm_playing/">[comments]</a></span> </td></tr></table>
+
+## Weird Al's 'Albuquerque', but every syllable is ordered from shortest to longest.
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1icithz/weird_als_albuquerque_but_every_syllable_is](https://www.reddit.com/r/DeepIntoYouTube/comments/1icithz/weird_als_albuquerque_but_every_syllable_is)
+ - RSS feed: $source
+ - date published: 2025-01-29T01:56:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1icithz/weird_als_albuquerque_but_every_syllable_is/"> <img src="https://external-preview.redd.it/u-chJQAjzmsd2LOVMfXgcoVjjZvaSQ2IVKtRoK5vJ3E.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bfc85cb17e9d50919ed8f6ceb6af7fbf961e6218" alt="Weird Al's 'Albuquerque', but every syllable is ordered from shortest to longest." title="Weird Al's 'Albuquerque', but every syllable is ordered from shortest to longest." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Satosuke"> /u/Satosuke </a> <br/> <span><a href="https://www.youtube.com/watch?v=0MbvXQ48Qbw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1icithz/weird_als_albuquerque_but_every_syllable_is/">[comments]</a></span> </td></tr></table>
+
+## Guy's entire channel is dedicated to burning shoes. He's been doing this for 10 years now. Randomly stumbled upon this channel while looking for shoe reviews
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1icir8l/guys_entire_channel_is_dedicated_to_burning_shoes](https://www.reddit.com/r/DeepIntoYouTube/comments/1icir8l/guys_entire_channel_is_dedicated_to_burning_shoes)
+ - RSS feed: $source
+ - date published: 2025-01-29T01:53:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1icir8l/guys_entire_channel_is_dedicated_to_burning_shoes/"> <img src="https://external-preview.redd.it/rXlVlHO3i7fKh-bFh8oFVy95MS6Wql3DBnjJ8jgFyHg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e44cf543262f8452b31d2762062c61620329b399" alt="Guy's entire channel is dedicated to burning shoes. He's been doing this for 10 years now. Randomly stumbled upon this channel while looking for shoe reviews" title="Guy's entire channel is dedicated to burning shoes. He's been doing this for 10 years now. Randomly stumbled upon this channel while looking for shoe reviews" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RecognitionSoft9973"> /u/RecognitionSoft9973 </a> <br/> <span><a href="https://www.youtube.com/@Burn2shoes/videos">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1icir8l/guys_entire_channel_is_dedicated_to_burning_shoes/">[comments
+

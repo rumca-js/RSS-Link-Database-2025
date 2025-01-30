@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-29T20:15:00+00:00",
+        "description": "Springtime in the South Polar region of Mars is a season of exciting activity. The thick coating of carbon dioxide ice that accumulated over the winter begins to sublimate (turn to vapor) as the sun rises higher in the sky and warms the ice. Sunlight penetrates through the transparent ice, and is absorbed at the base of the ice layer. The gas that forms as a result of the warming escapes through weaknesses in the ice and erupts in the form of magnificent geysers of gas and dust.",
+        "id": 1998055,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/pia22881orig",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Geyser Season on Mars",
+        "vote": 0
+    }
+]

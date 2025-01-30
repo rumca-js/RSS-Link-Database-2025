@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-29T15:07:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nBuilding Safe and Reliable Surgical Robotics with C++ - Milad Khaledyan - CppCon 2024\n---\n\nThis talk examines the use of C++ in building distributed robotic surgical systems, emphasizing safety, performance, and reliability. While C++ offers strong performance benefits, it also presents challenges in meeting industry standards and regulations in the medical technology field. We discuss the architectural decisions and strategies employed to meet international safety standards for medical devices, and present techniques for writing efficient, safe and reliable software. Our experience in building a surgical robotic system serves as a case study, highlighting the challenges and solutions in this highly regulated domain.\n---\n\nSlides: https://github.com/CppCon/CppCon2024/blob/main/Presentations/Building_Safe_and_Reliable_Surgical_Robotics_using_Cpp.pdf\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nMilad Khaledyan\n \nMilad Khaledyan is a Staff Robot",
+        "id": 1998201,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Lnr75tbeYyA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Lnr75tbeYyA/hqdefault.jpg",
+        "title": "Building Safe and Reliable Surgical Robotics with C++ - Milad Khaledyan - CppCon 2024",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-29T19:47:12+00:00",
+        "description": "Yesterday, Boom (YC W16) made history. They successfully broke the sound barrier (3 times!) with XB-1, the first civil supersonic jet made in America.\n\nCongrats to Blake Scholl, Chief Test Pilot Tristan \u201cGepetto\u201d Brandenburg, and the entire Boom team!",
+        "id": 1996942,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=xwFh356D0rQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xwFh356D0rQ/hqdefault.jpg",
+        "title": "America\u2019s First Civil Supersonic Jet to Break the Sound Barrier",
+        "vote": 0
+    }
+]

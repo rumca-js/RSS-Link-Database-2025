@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-29T14:00:35+00:00",
+        "description": "Say yes to every opportunity in 2025 with Vessi. Explore https://vessi.com/Linustechtips to keep your feet dry and start your year with 15% off your first order.\n\nSell your old graphics card the easy way and offset the cost of your new card at https://jawa.link/LinusTechTipsFeb\n\nNvidia's follow-up to the RTX 4080 Super is finally here! But does the new Blackwell Architecture impress? The 5090 wasn't the best thing on the planet. But hey, so long as we're still waiting for AMD's 9070 XT and Intel to have any competition in the high end... well i guess this is what we get.\n\nDiscuss on the forum: https://linustechtips.com/topic/1598928-i-can%E2%80%99t-put-a-positive-spin-on-the-rtx-5080-full-review/\n\nBuy a:\nNVIDIA GeForce RTX 5080: https://geni.us/RwFaf\nNVIDIA GeForce RTX 5090: https://geni.us/7u8cD\nNVIDIA GeForce RTX 4090: https://geni.us/Z1vKF\nNVIDIA GeForce RTX 4080 Super: https://geni.us/nAA1\nNVIDIA GeForce RTX 4070 Ti Super: https://geni.us/wzvAQf\nNVIDIA GeForce RTX 4070 Super: htt",
+        "id": 1998043,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Fbg7ChsjmEA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Fbg7ChsjmEA/hqdefault.jpg",
+        "title": "I Can\u2019t Put a Positive Spin on the RTX 5080 - Full Review",
+        "vote": 0
+    }
+]

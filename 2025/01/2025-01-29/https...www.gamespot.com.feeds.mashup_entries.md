@@ -1,0 +1,149 @@
+# Source:GameSpot - All Content, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Game Pass "Doesn't Hurt Game Companies," Says Doom Co-Creator
+ - [https://www.gamespot.com/articles/game-pass-doesnt-hurt-game-companies-says-doom-co-creator/1100-6529136/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/game-pass-doesnt-hurt-game-companies-says-doom-co-creator/1100-6529136/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T15:47:00+00:00
+
+<p>There's an ongoing debate as to whether Microsoft's Game Pass hurts or helps sales of titles that are available on the service. But as far as id Software co-founder and Doom co-creator John Romero is concerned, Game Pass is beneficial to the video game industry.</p><p>Via <a href="https://www.trueachievements.com/news/doom-creator-loves-xbox-game-pass">True Achievements</a>, Romero was recently interviewed by <a href="https://youtu.be/sBOMxyuyQeQ">Xbox Expansion Pass</a>, and he was effusive with his praise for Game Pass.</p><p>"I love it," said Romero. "I mean, who doesn't love Game Pass? It's Netflix for games; who doesn't want that? It's great because it's try before you buy... one thing after another thing. Really the barrier for people to play games is just access to those games. Even free-to-play games, it's like, knowing that those games exist, and Game Pass is like 'Here they are!'"</p><a href="https://www.gamespot.com/articles/game-pass-doesnt-hurt-game-companies-says-doo
+
+## The Art Of Destiny Volume 3 Releases This April, Preorder At Amazon
+ - [https://www.gamespot.com/articles/the-art-of-destiny-volume-3-releases-this-april-preorder-at-amazon/1100-6523978/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-art-of-destiny-volume-3-releases-this-april-preorder-at-amazon/1100-6523978/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T15:24:00+00:00
+
+<div><div data-embed-type="buylink" data-ref-id="2424" data-template="2" data-size="buylink__large" data-title="6523978 - The Art of Destiny Volume 3 preorders" data-collection="" title="6523978 - The Art of Destiny Volume 3 preorders" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4435920-artofdestinyvolume3.png alt="">                                 <a href="https://www.amazon.com/dp/B0D1P5Q4CK?tag=gamespot-preorders-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bo
+
+## Warhammer 40,000: Space Marine 2 Will Get Several Substantial Updates In 2025
+ - [https://www.gamespot.com/articles/warhammer-40000-space-marine-2-will-get-several-substantial-updates-in-2025/1100-6529135/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/warhammer-40000-space-marine-2-will-get-several-substantial-updates-in-2025/1100-6529135/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T14:34:00+00:00
+
+<p><a href="https://www.gamespot.com/games/warhammer-40000-space-marine-ii/">Warhammer 40,000: Space Marine 2</a> will be getting multiple substantial updates through the first half of 2025 and beyond. The year's first big patch will release in February, adding a new map, a new Tyranid enemy, and Absolute difficulty.</p><p>Focus Entertainment revealed its roadmap for the game via a community update on <a href="https://community.focus-entmt.com/focus-entertainment/space-marine-2/blogs/145-january-community-update">its official forum</a>. The post opens by addressing community complaints about a lack of updates, it then clarifies that updates can be expected every two months. The post adds, "We’d love to do more, but we’re committed to delivering polished updates, which takes time and care!" Take a look at the official "year one" roadmap below.</p><figure data-align="center" data-size="large" data-img-src="https://www.gamespot.com/a/uploads/original/1690/16904437/4435917-spacemarine2_r
+
+## Save 25% On Donkey Kong Country Returns HD For Nintendo Switch
+ - [https://www.gamespot.com/articles/save-25-on-donkey-kong-country-returns-hd-for-nintendo-switch/1100-6524388/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/save-25-on-donkey-kong-country-returns-hd-for-nintendo-switch/1100-6524388/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T14:27:00+00:00
+
+<div title="6524388 - Donkey Kong Country Returns HD preorders" data-embed-type="buylink" data-ref-id="2462" data-template="2" data-size="buylink__large" data-title="6524388 - Donkey Kong Country Returns HD preorders" data-collection="" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4427962-donkeykongcountryreturnshd.png alt="">                                 <a href="https://www.anrdoezrs.net/click-100770772-13142092?sid=subid_value&amp;url=https://electronics.woot.com/offers/nintendo-donkey-kong-045496905019-donkey-kong-04549z"></a>                           
+
+## Citizen Sleeper 2 Wants You To Fail Your Way To A Better Story
+ - [https://www.gamespot.com/articles/citizen-sleeper-2-wants-you-to-fail-your-way-to-a-better-story/1100-6529132/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/citizen-sleeper-2-wants-you-to-fail-your-way-to-a-better-story/1100-6529132/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T14:05:00+00:00
+
+<p>Ahead of the release of <a href="https://www.gamespot.com/games/citizen-sleeper-2-starward-vector/">Citizen Sleeper 2: Starward Vector</a>, I spoke to developer Gareth Damian Martin about what it's been like to come back to the world of the dice-driven RPG in a post-<a href="https://www.gamespot.com/games/baldurs-gate-3/">Baldur's Gate 3</a> world and how this sequel ensures the action remains interesting even during failure. Citizen Sleeper 2 uses a very aggressive auto-save feature, preventing players from recovering from their mistakes or circumnavigating difficult rolls through save-scumming. As Martin puts it, he's "trying to be a game master for a million people," and that means honoring player's choices and incentivizing them to keep going even when it might feel like the deck is stacked against them.</p><p dir="ltr">In Citizen Sleeper 2, you once again play as a sleeper, sentient android that's an emulation of a human mind that's then housed in an artificial body. The stor
+
+## Marvel's Spider-Man 2 PC Specs Revealed A Day Before Launch
+ - [https://www.gamespot.com/articles/marvels-spider-man-2-pc-specs-revealed-a-day-before-launch/1100-6529133/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/marvels-spider-man-2-pc-specs-revealed-a-day-before-launch/1100-6529133/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T13:50:00+00:00
+
+<p>With its release coming in just one day, Insomniac Games and Nixxes have <a href="https://blog.playstation.com/2025/01/29/marvels-spider-man-2-pc-features-and-ray-tracing-options-detailed-out-tomorrow/">revealed</a> the PC requirements for Marvel's Spider-Man 2. The specs do not require for a ray-tracing-compatible GPU, as has been the case with some recent and upcoming games such as <a href="https://www.gamespot.com/articles/doom-the-dark-ages-pc-specs-revealed-requires-ray-tracing-compatible-gpu/1100-6528993/">Doom: The Dark Ages</a> and <a href="https://www.gamespot.com/articles/will-indiana-jones-and-the-great-circle-run-on-your-pc-check-out-the-requirements/1100-6528208/">Indiana Jones and the Great Circle</a>.</p><p>Insomniac provided six different preset levels, three without ray tracing and three without. Those with beefier PCs can enable ray tracing for more realistic reflections. A slider allows you to adjust the range at which objects are considered for ray tracing refl
+
+## Make The Wait For The Next Mass Effect Easier With This New Board Game
+ - [https://www.gamespot.com/articles/make-the-wait-for-the-next-mass-effect-easier-with-this-new-board-game/1100-6529107/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/make-the-wait-for-the-next-mass-effect-easier-with-this-new-board-game/1100-6529107/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T13:38:00+00:00
+
+<div title="6529107 - Mass Effect: Priority Hagalaz Board Game" data-embed-type="buylink" data-ref-id="3117" data-template="2" data-size="buylink__large" data-title="6529107 - Mass Effect: Priority Hagalaz Board Game" data-collection="" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1701/17013431/4435676-memod.jpg alt="">                                 <a href="https://www.amazon.com/Mass-Effect-Cooperative-Story-Driven-Entertainment/dp/B0DDQF74H3?tag=gamespot-promos-20"></a>                              </div>                   <div class="buylink__text">                   
+
+## Nintendo Switch (2) In 2025: Most-Anticipated Games And What To Expect
+ - [https://www.gamespot.com/gallery/nintendo-switch-2-in-2025-most-anticipated-games-and-what-to-expect/2900-6176](https://www.gamespot.com/gallery/nintendo-switch-2-in-2025-most-anticipated-games-and-what-to-expect/2900-6176)
+ - RSS feed: $source
+ - date published: 2025-01-29T13:32:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1585/15855271/4435596-nintendoswitch2025%282%29.jpg" /><br /><h3><p>Nintendo has a big year ahead. Not only is it preparing to launch the <a href="https://www.gamespot.com/articles/switch-2-release-date-specs-display-price/1100-6520278/">Switch 2</a>, the long-awaited next-generation successor to the wildly popular Nintendo Switch, but it also has a bevy of big games coming. Some of them are games that have been announced on the original Switch, while others may be dual-platform, and still others could launch as exclusives for Switch 2. For the purposes of this list, we included everything in the Switch family of systems, which includes both the original and Switch 2.</p><p dir="ltr">That means we can look forward to Switch getting big games at launch like Civilization VII and Citizen Sleeper 2, Nintendo exclusives like Fantasy Life i: The Girl Who Steals Time and Metroid Prime 4: Beyond, and very likely a new Mario Kart gam
+
+## Hilariously Blatant Mario Strikers Ripoff Is Now On Xbox
+ - [https://www.gamespot.com/articles/hilariously-blatant-mario-strikers-ripoff-is-now-on-xbox/1100-6529131/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/hilariously-blatant-mario-strikers-ripoff-is-now-on-xbox/1100-6529131/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T13:05:00+00:00
+
+<p>The video game industry has plenty of titles that look like they were gently lifted from some other game that came before them. But few are quite as blatant about it as Mariostro Strikers Soccer League, a recent arrival on Xbox Marketplace. It could charitably be called an "homage" to <a href="https://www.gamespot.com/reviews/mario-strikers-battle-league-review/1900-6417891/">Mario Strikers: Battle League</a>, but it's unlikely that Nintendo will let that go without a response.</p><p>Via <a href="https://www.nintendolife.com/news/2025/01/random-xbox-gets-its-own-shameful-mario-strikers-knock-off">Nintendo Life</a>, LightGamess--with an extra "s"--is the publisher of Mariostro Strikers Soccer League, which was released January 10 on <a href="https://www.xbox.com/en-us/games/store/mariostro-strikers-soccer-league/9nkkvwjd69wh">Xbox Marketplace</a>. The description of the game adds some unexpected humor to the listing because someone seemingly forgot to put the actual name of the gam
+
+## Some Of GTA 6's Map Has Been Brought Into GTA 5 By A Superfan
+ - [https://www.gamespot.com/articles/some-of-gta-6s-map-has-been-brought-into-gta-5-by-a-superfan/1100-6529130/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/some-of-gta-6s-map-has-been-brought-into-gta-5-by-a-superfan/1100-6529130/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T12:36:00+00:00
+
+<p dir="ltr">It's been over a decade since the last main Grand Theft Auto installment, and fans have been keeping busy passing the time before <a href="https://www.gamespot.com/articles/grand-theft-auto-6-everything-we-know/1100-6503729/">GTA 6</a>'s release. Players have been modding previous games for years and putting out community challenges, but recently a YouTuber decided to put the little bit of what we know from GTA 6 into GTA 5.</p><p dir="ltr">A YouTuber that goes by the handle Dark Space has been working on a mod that adds some of GTA 6's Vice Beach map area into the game. Dark Space is planning on releasing the mod in two weeks on the GTA mod community server FiveM but has been showing off their work on their channel and Twitter.</p><div data-embed-type="tweet" data-src="https://x.com/Dark_SpaceYT/status/1883875289631252728" data-has-image="true"><blockquote align="center" class="twitter-tweet" data-conversation="none" data-mce-disable-toolbar="true"><p dir="ltr">Gta 6 Co
+
+## CoD: Black Ops 6 Zombies - How To Get The Ice Staff Wonder Weapon
+ - [https://www.gamespot.com/gallery/cod-black-ops-6-zombies-how-to-get-the-ice-staff-wonder-weapon/2900-6178](https://www.gamespot.com/gallery/cod-black-ops-6-zombies-how-to-get-the-ice-staff-wonder-weapon/2900-6178)
+ - RSS feed: $source
+ - date published: 2025-01-29T12:24:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1639/16394540/4435744-bo6-season-02-announcement-026.jpg" /><br /><h3><p dir="ltr">Season 2 is live in <a href="https://www.gamespot.com/games/call-of-duty-black-ops-6/">Call of Duty: Black Ops 6</a>, bringing a brand-new Zombies map called The Tomb. This map's specific Wonder Weapon is a throwback to the fan-favorite Origins map, and here we guide you toward getting your hands on the iconic Ice Staff.</p><p dir="ltr">For more on Season 2, make sure to check out <a href="https://www.gamespot.com/gallery/cod-black-ops-6-and-warzone-season-2-roadmap-details-terminator-event-new-mp-maps-and-warzone-improvements/2900-6155/">our coverage of all the content added</a> to Black Ops 6 and Warzone. This includes limited-time events, new game modes, DLC weapons, and more.</p><p> </p></h3></p><br/>     <p><h2>How to craft the Staff of Ice</h2><img src="https://www.gamespot.com/a/uploads/scale_large/1639/16394540/4435745-bo6-season-02-an
+
+## Beyond: Two Souls Is In Development As A TV Series
+ - [https://www.gamespot.com/articles/beyond-two-souls-is-in-development-as-a-tv-series/1100-6529109/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/beyond-two-souls-is-in-development-as-a-tv-series/1100-6529109/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T11:58:00+00:00
+
+<p>Quantic Dream's story-driven video games including <a href="https://www.gamespot.com/reviews/detroit-become-human-review-to-err-is-human/1900-6416915/">Detroit: Become Human</a> and <a href="https://www.gamespot.com/reviews/heavy-rain-review/1900-6251617/">Heavy Rain</a> seem like ideal titles to be adapted in Hollywood. However, Quantic Dream's 2013 title, <a href="https://www.gamespot.com/reviews/beyond-two-souls-review/1900-6416326/">Beyond: Two Souls</a>, will apparently be the company's first game to be developed as a TV series.</p><p>According to <a href="https://deadline.com/2025/01/beyond-two-souls-video-game-television-series-elliot-page-pageboy-1236267129/">Deadline</a>, the proposed Beyond: Two Souls television show will be executive produced by Elliot Page through his Pageboy Productions. Prior to transitioning to a man, Page starred in Beyond as a girl named Jodie Holmes who was inexplicably linked to Aiden, a non-corporeal entity that lacked a body of its own. Jodie 
+
+## Blizzard Promises "Groundbreaking" Overwatch 2 Changes Are Coming
+ - [https://www.gamespot.com/articles/blizzard-promises-groundbreaking-overwatch-2-changes-are-coming/1100-6529110/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/blizzard-promises-groundbreaking-overwatch-2-changes-are-coming/1100-6529110/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T11:36:00+00:00
+
+<p><a href="https://www.gamespot.com/games/overwatch-2/">Overwatch 2</a> will be receiving "groundbreaking changes" that are "unlike anything you've seen before" later this year, according to developer Blizzard.</p><p dir="ltr">What, exactly, those changes will be is still a mystery, but Blizzard has <a href="https://overwatch.blizzard.com/en-us/news/24173039/">announced</a> a livestream titled Overwatch 2 Spotlight for February 12 to dive into all the updates. The stream will also be dedicated to showing off new heroes and maps coming this year.</p><div data-embed-type="video" data-ref-id="2300-6465500" data-src="/videos/overwatch-2-hazard-hero-reveal-trailer-hazardous-tactics/2300-6465500/" data-width="100%" data-height="100%" data-video-start="0">          <iframe height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscreen mozallowfullscreen allowfullscreen id="-embed-704398948" class="optanon-category-C0004" data-src="/videos/embed/6465500/"></iframe></div><p d
+
+## Xbox Series S Didn't Get A Price Cut, Despite How It May Look
+ - [https://www.gamespot.com/articles/xbox-series-s-gets-a-discount-but-its-only-temporary/1100-6529106/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-series-s-gets-a-discount-but-its-only-temporary/1100-6529106/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T10:45:00+00:00
+
+<p>Microsoft's website recently listed a $15 price cut for the Xbox Series S, but don't expect the price drop to last (in fact, it's already gone back up by $5).</p><p>Earlier this week, Microsoft was advertising a $15 price cut on the 512GB all-digital robot white Xbox Series S console, bringing the price down to $285. Later in the week, Microsoft <a href="https://www.xbox.com/en-US/consoles/xbox-series-s?xr=shellnav">bumped the price up to $290</a>, where it stands currently. That's $10 off the normal $300 price point for the system, purchased directly from Microsoft.</p><div title="" data-embed-type="buylink" data-ref-id="undefined" data-template="undefined" data-size="buylink__small" data-title="" data-collection="%7B%22text%22:%22Buy%20the%20Xbox%20Series%20S%20on%20Amazon%22,%22monetizedUrl%22:%22%22,%22rawUrl%22:%22https://www.amazon.com/Microsoft-Xbox-512GB-SSD-Console-S/dp/B0D932YWSZ?tag=gamespot-promos-20&amp;th=1%22%7D" class="norewrite">           <a href="https://www.ama
+
+## After Dragon Age: The Veilguard Comes Up Short, BioWare Undergoes Changes
+ - [https://www.gamespot.com/articles/after-dragon-age-the-veilguard-comes-up-short-bioware-undergoes-changes/1100-6529105/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/after-dragon-age-the-veilguard-comes-up-short-bioware-undergoes-changes/1100-6529105/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T10:24:00+00:00
+
+<p>In the wake of EA's announcement that <a href="https://www.gamespot.com/articles/dragon-age-the-veilguard-had-far-fewer-players-than-ea-expected/1100-6528964/">Dragon Age: The Veilguard failed to meet the company's expectations</a>, BioWare has announced that it is "changing how we build games" in an effort to hold the company to "the highest quality standards."</p><p>In a <a href="https://blog.bioware.com/2025/01/29/bioware-studio-update/">blog post</a>, BioWare GM Gary McKay said "a core team" at BioWare is making the next Mass Effect, while other team members are departing. McKay said BioWare has "worked diligently" in the past months to find new positions for BioWare staffers at other internal EA teams. Whether or not there were layoffs connected to these changes, however, is unknown. The Veilguard game director Corinne Busch has left BioWare.</p><p>"In keeping with our fierce commitment to innovating during the development and delivery of Mass Effect, we have challenged ourse
+
+## Legacy Of Kain: Soul Reaver 1-2 Remastered, Indiana Jones, And More Land On Steam's Top Titles For December
+ - [https://www.gamespot.com/gallery/legacy-of-kain-soul-reaver-1-2-remastered-indiana-jones-and-more-land-on-steams-top-titles-for-december/2900-6177](https://www.gamespot.com/gallery/legacy-of-kain-soul-reaver-1-2-remastered-indiana-jones-and-more-land-on-steams-top-titles-for-december/2900-6177)
+ - RSS feed: $source
+ - date published: 2025-01-29T10:24:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1837/18375603/4435542-legacyofkainsoulreaver1-2remasteredfeatured.jpg" /><br /><h3><p>Almost a month into 2025, Valve has shared <a href="https://store.steampowered.com/sale/top_december_2024">Steam's top releases of December 2024</a>. But in typical Valve fashion, the titles are presented in random order and we're not entirely sure what they mean. GameSpot has reached out to Valve for clarification about how this list was tabulated in terms of unit sales, dollar sales, or some other metric. But for now, it simply serves as a snapshot for which new titles were popular on Steam at the end of 2024.</p><p><a href="https://www.gamespot.com/reviews/indiana-jones-and-the-great-circle-review-im-making-this-up-as-i-go/1900-6418322/">Indiana Jones and the Great Circle</a> is the only title to appear on this list and on the roundup of the <a href="https://www.gamespot.com/gallery/indiana-jones-enters-the-20-best-selling-games-in-the-u
+
+## New Star Wars Tamagotchi Asks You To Raise And Nurture Darth Vader
+ - [https://www.gamespot.com/articles/new-star-wars-tamagotchi-asks-you-to-raise-and-nurture-darth-vader/1100-6529096/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/new-star-wars-tamagotchi-asks-you-to-raise-and-nurture-darth-vader/1100-6529096/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T10:08:00+00:00
+
+<div><div data-embed-type="buylink" data-ref-id="3114" data-template="2" data-size="buylink__large" data-title="6529096 - Tamagotchi x Star Wars Darth Vader Preorder" data-collection="" title="6529096 - Tamagotchi x Star Wars Darth Vader Preorder" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1702/17023653/4435442-71dkot2lcgl._ac_sl1500.jpg alt="">                                 <a href="https://www.amazon.com/dp/B0DSXX8Z54?tag=gamespot-preorders-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink
+
+## Diablo 4's Lunar New Year Event Returns, This Time With An Even Bigger XP Buff
+ - [https://www.gamespot.com/articles/diablo-4-lunar-new-year-event-returns-this-time-with-an-even-bigger-xp-buff/1100-6529086/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/diablo-4-lunar-new-year-event-returns-this-time-with-an-even-bigger-xp-buff/1100-6529086/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T10:00:00+00:00
+
+<p><a href="https://www.gamespot.com/games/diablo-iv/">Diablo 4</a> is celebrating the year of the snake with the return of its Lunar Awakening event, and it's making the event even more rewarding than last time around.</p><p dir="ltr">As detailed by Blizzard, the Lunar Awakening event will be live February 4-18 for both the game's Eternal and Seasonal realms. Like last year's event, Lunar Awakening replaces all of the game's shrines with special Lunar Shrines. These shrines function much the same as their normal counterparts, only with even more powerful effects in addition to their usual ones. Lunar Artillery Shrines, for example, have a chance to blast enemies with a holy bomb in addition to piercing enemies with holy arrows as usual. Whereas Greed shrines typically just grant players more gold for killing monsters, the Lunar Greed Shrine actually makes it so every kill also has a chance to summon a Treasure Goblin.</p><figure data-align="center" data-size="large" data-img-src="ht
+
+## Explore Even More Of Gwent's Art With This New Hardcover Book
+ - [https://www.gamespot.com/articles/explore-even-more-of-gwent-art-with-this-new-hardcover-book/1100-6529059/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/explore-even-more-of-gwent-art-with-this-new-hardcover-book/1100-6529059/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T09:00:00+00:00
+
+<p>Fans of CD Projket Red's The Witcher franchise can add another book to their collection soon, as a new hardcover volume celebrating the artwork of Gwent is now available to preorder ahead of its July release. Like the first book, <a href="https://www.amazon.com/exec/obidos/ASIN/1506750400?tag=gamespot-preorders-20">Gwent: Art of the Witcher Card Game Volume 2</a> will be published by Dark Horse and it contains hundreds of pieces of art from the Witcher card game. Priced at $50, this 248-page book covers eight of Gwent's expansions and is loaded with quotes and captions from CDPR's developers and artists.</p><figure data-align="center" data-size="large" data-img-src="https://www.gamespot.com/a/uploads/original/1601/16018044/4434303-gwent-2-c.jpg" data-ref-id="1300-4434303" data-ratio="0.5625" data-width="1280" data-embed-type="image" style="width: 1280px"><a href="https://www.gamespot.com/a/uploads/original/1601/16018044/4434303-gwent-2-c.jpg"><img alt="Gwent: Art of The Witcher Ca
+
+## PlayStation Plus Free Games For February 2025 Revealed
+ - [https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-february-2025/1100-6529091/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-february-2025/1100-6529091/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T08:51:00+00:00
+
+<p>PlayStation has revealed this month's batch of free games for PlayStation Plus subscribers. All PS Plus members will be able to claim a trio of freebies starting February 4--<strong>Payday 3</strong>, <strong>High on Life</strong>, and <strong>Pac-Man World: Re-Pac</strong>. If you haven't claimed <a href="https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-january-2025/1100-6528590/">January's PlayStation Plus free games yet</a>, make sure to do so before next Tuesday.</p><p>Sony also mentioned that it will focus more on offering PS5 titles through the monthly games and Game Catalog benefit starting January 2026. While PS4 owners may still receive free games as part of the subscription,<a href="https://www.gamespot.com/articles/playstation-plus-moving-away-from-monthly-ps4-games/1100-6529101/"> Sony says these will only be occasionally handed out from next year</a>.</p><h2>Payday 3</h2><p>It hasn't exactly been smooth sailing for Payday 3, which was suppos
+
+## Now Only This One Jim Carrey Movie Has Made More Than Sonic 3 At The Box Office
+ - [https://www.gamespot.com/articles/now-only-this-one-jim-carrey-movie-has-made-more-than-sonic-3-at-the-box-office/1100-6529099/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/now-only-this-one-jim-carrey-movie-has-made-more-than-sonic-3-at-the-box-office/1100-6529099/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-29T08:48:00+00:00
+
+<p>Sonic the Hedgehog 3 continues to succeed at the box office, and it's now become actor Jim Carrey's No. 2 movie of all time based on global performance at the box office.</p><p>Sonic the Hedgehog 3 has now brought in $446.7 million globally, which is only behind 2003's Bruce Almighty ($484.6 million) in terms of Carrey's best-performing movies of all time (<a href="https://x.com/TheCartoonBase/status/1884425236830986392">via Cartoon Base</a>).</p><p>Some of Carrey's other top-performing movies have included The Mask ($351.6 million), How the Grinch Stole Christmas ($347.2 million), and Batman Forever ($336.6 million). These numbers are not adjusted for inflation.</p><a href="https://www.gamespot.com/articles/now-only-this-one-jim-carrey-movie-has-made-more-than-sonic-3-at-the-box-office/1100-6529099/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

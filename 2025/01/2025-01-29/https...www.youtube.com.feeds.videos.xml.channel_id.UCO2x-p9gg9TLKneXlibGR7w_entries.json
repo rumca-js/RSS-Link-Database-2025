@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-29T16:00:02+00:00",
+        "description": "CPUs and GPUs have revolutionized computing. NPUs are next, but they\u2019re not quite ready for prime time.\n\nCheck out NPU-sporting Copilot+ PCs today: https://snazzy.fm/np\n\nFollow Snazzy Labs on Twitter - http://twitter.com/snazzylabs\nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - http://instagram.com/snazzyq\n\nThis video breaks down *exactly* what NPUs are, how they work, what they\u2019re going to enable in the tech we use every day, and most importantly\u2014why *you* should even care. Spoiler alert: NPUs are certain to be a *big* deal revolutionizing AI, machine learning, and computing efficiency, even though they aren\u2019t *really* all that different than chips we\u2019ve been using for decades. We\u2019ll break down how NPUs differ from CPUs and GPUs, why they\u2019re essential for handling AI workloads, and how they enable real-time machine learning applications with incredible power efficiency\u2014not ",
+        "id": 1998144,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1C-WcbW7GAI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1C-WcbW7GAI/hqdefault.jpg",
+        "title": "What is an NPU and when will it matter?",
+        "vote": 0
+    }
+]

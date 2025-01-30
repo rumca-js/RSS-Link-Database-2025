@@ -1,0 +1,16 @@
+# Source:CrackWatch, URL:https://www.reddit.com/r/CrackWatch/.rss, language:en
+
+## Eternal Strands (v1.0.12.8195 + MULTi6) (From 7 GB) [DODI Repack]
+ - [https://www.reddit.com/r/CrackWatch/comments/1icsg9n/eternal_strands_v10128195_multi6_from_7_gb_dodi](https://www.reddit.com/r/CrackWatch/comments/1icsg9n/eternal_strands_v10128195_multi6_from_7_gb_dodi)
+ - RSS feed: $source
+ - date published: 2025-01-29T12:16:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackWatch/comments/1icsg9n/eternal_strands_v10128195_multi6_from_7_gb_dodi/"> <img src="https://preview.redd.it/qdg9qc49dxfe1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=ddb51e2f1365b5db4a6939fd39bd325c04ad88d6" alt="Eternal Strands (v1.0.12.8195 + MULTi6) (From 7 GB) [DODI Repack]" title="Eternal Strands (v1.0.12.8195 + MULTi6) (From 7 GB) [DODI Repack]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DODI-Releases"> /u/DODI-Releases </a> <br/> <span><a href="https://i.redd.it/qdg9qc49dxfe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackWatch/comments/1icsg9n/eternal_strands_v10128195_multi6_from_7_gb_dodi/">[comments]</a></span> </td></tr></table>
+
+## [Crack Watch] Weekly question thread
+ - [https://www.reddit.com/r/CrackWatch/comments/1icox2z/crack_watch_weekly_question_thread](https://www.reddit.com/r/CrackWatch/comments/1icox2z/crack_watch_weekly_question_thread)
+ - RSS feed: $source
+ - date published: 2025-01-29T08:00:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ask any question you like, but also please read the <a href="https://www.reddit.com/r/CrackWatch/comments/v60rnq/crack_watch_beginners_guide_to_crack_watch/">Beginner&#39;s guide to CrackWatch</a> before doing so</p> <p>&#x200B;</p> <p><em>Q&amp;A</em></p> <p>&#x200B;</p> <p><strong>Q:</strong> When will [insert game name here] be cracked?</p> <p>&#x200B;</p> <p>&#x200B;</p> <p><strong>A:</strong> STOP! <a href="/r/CrackWatch">r/CrackWatch</a> members are not psychic. Games get cracked by completely <a href="https://en.wikipedia.org/wiki/Warez_scene">ANONYMOUS SCENE GROUPS</a> who don&#39;t disclose their progress or plans to the general public so <strong>NO ONE</strong> knows <strong>WHEN</strong> and <strong>IF</strong> a certain game will be cracked.</p> <p>&#x200B;</p> <p> </p> <p>&#x200B;</p> <p><strong>Q:</strong> What are all these NFO thingies? Where do I download it?</p> <p>&#x200B;</p> <p>&#x200B;</p> <p><strong>A:</strong> NFOs are text fi
+

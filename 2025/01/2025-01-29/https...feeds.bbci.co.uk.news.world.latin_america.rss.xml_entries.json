@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-29T02:26:23+00:00",
+        "description": "The BBC's Ione Wells looks at the use of military planes in the new president's crackdown on illegal immigration.",
+        "id": 1998246,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/videos/c8d9rq5m9rno",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1216/live/c1010d70-dddc-11ef-a37f-eba91255dc3d.jpg",
+        "title": "What to know about Trump's migrant deportation flights",
+        "vote": 0
+    }
+]

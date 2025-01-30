@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-29T09:30:00+00:00",
+        "description": "There are many ways to prioritize our time and focus, but the easiest and most vivid way is to do the urgent things first. If we wait until a house plant is sick before we take care of it, though, it&#8217;s too late. Deadlines, loud requests and last-minute interventions are crude forcing functions. They&#8217;re inefficient [&#8230;]",
+        "id": 1996866,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/01/organizing-for-urgent",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Organizing for urgent",
+        "vote": 0
+    }
+]

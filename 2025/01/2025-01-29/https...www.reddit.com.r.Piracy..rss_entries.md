@@ -1,0 +1,247 @@
+# Source:Piracy: ꜱᴀɪʟ ᴛʜᴇ ʜɪɢʜ ꜱᴇᴀꜱ, URL:https://www.reddit.com/r/Piracy/.rss, language:
+
+## Kemono.su keeps showing cached artists
+ - [https://www.reddit.com/r/Piracy/comments/1id8byy/kemonosu_keeps_showing_cached_artists](https://www.reddit.com/r/Piracy/comments/1id8byy/kemonosu_keeps_showing_cached_artists)
+ - RSS feed: $source
+ - date published: 2025-01-29T23:44:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi there, I&#39;m trying to use Kemono but for some reason, it only displays cached popular artists. How do I get it to display everything else?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RealLongName"> /u/RealLongName </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1id8byy/kemonosu_keeps_showing_cached_artists/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1id8byy/kemonosu_keeps_showing_cached_artists/">[comments]</a></span>
+
+## How bad is this?
+ - [https://www.reddit.com/r/Piracy/comments/1id805c/how_bad_is_this](https://www.reddit.com/r/Piracy/comments/1id805c/how_bad_is_this)
+ - RSS feed: $source
+ - date published: 2025-01-29T23:30:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi there, I downloaded this app while I had a really bad fever and forgot to scan it before installing. After scanning, I found three results, two of which left me worried. I was told they are false positives and that I shouldn&#39;t worry, but I&#39;m not so sure. I&#39;m not sure where else to go and ask for help.</p> <p>Here are the Virustotal results: <a href="https://www.virustotal.com/gui/file/452087099e782955c5534f04025209255f68433220c0189a2ec937c18f094eee/summary">https://www.virustotal.com/gui/file/452087099e782955c5534f04025209255f68433220c0189a2ec937c18f094eee/summary</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IplayMonkey"> /u/IplayMonkey </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1id805c/how_bad_is_this/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1id805c/how_bad_is_this/">[comments]</a></span>
+
+## Any way to stream international live tv straight to smart tv? (Like bbc or US channels for overseas resident?)
+ - [https://www.reddit.com/r/Piracy/comments/1id7i4u/any_way_to_stream_international_live_tv_straight](https://www.reddit.com/r/Piracy/comments/1id7i4u/any_way_to_stream_international_live_tv_straight)
+ - RSS feed: $source
+ - date published: 2025-01-29T23:08:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I currently run a vpn to my tv via my laptop, but honestly just that step alone is too much of a PITA that I usually don’t bother 😂 is there a magic dongle or smth?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/0__O0--O0_0"> /u/0__O0--O0_0 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1id7i4u/any_way_to_stream_international_live_tv_straight/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1id7i4u/any_way_to_stream_international_live_tv_straight/">[comments]</a></span>
+
+## Hope i can install it
+ - [https://www.reddit.com/r/Piracy/comments/1id76yg/hope_i_can_install_it](https://www.reddit.com/r/Piracy/comments/1id76yg/hope_i_can_install_it)
+ - RSS feed: $source
+ - date published: 2025-01-29T22:54:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1id76yg/hope_i_can_install_it/"> <img src="https://preview.redd.it/4k7t04b3j0ge1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b296152d282dfa59f91ff361648f76e16444e6ca" alt="Hope i can install it" title="Hope i can install it" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Curious-Research-559"> /u/Curious-Research-559 </a> <br/> <span><a href="https://i.redd.it/4k7t04b3j0ge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1id76yg/hope_i_can_install_it/">[comments]</a></span> </td></tr></table>
+
+## Are there ways to get online websites pro subscriptions for free?
+ - [https://www.reddit.com/r/Piracy/comments/1id6slj/are_there_ways_to_get_online_websites_pro](https://www.reddit.com/r/Piracy/comments/1id6slj/are_there_ways_to_get_online_websites_pro)
+ - RSS feed: $source
+ - date published: 2025-01-29T22:37:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m specifically asking for things like Wolfram alpha pro and similar, where it&#39;s online with all the pro features.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Marvellover13"> /u/Marvellover13 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1id6slj/are_there_ways_to_get_online_websites_pro/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1id6slj/are_there_ways_to_get_online_websites_pro/">[comments]</a></span>
+
+## My friend likes gatekeeping things for no reason and won’t tell me what this is. It’s a box that connects to the TV that can pirate all movies, live sports, tv shows, etc. what is the name of this device? This is the only picture he showed me.
+ - [https://www.reddit.com/r/Piracy/comments/1id6axp/my_friend_likes_gatekeeping_things_for_no_reason](https://www.reddit.com/r/Piracy/comments/1id6axp/my_friend_likes_gatekeeping_things_for_no_reason)
+ - RSS feed: $source
+ - date published: 2025-01-29T22:16:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1id6axp/my_friend_likes_gatekeeping_things_for_no_reason/"> <img src="https://preview.redd.it/zb1kgh0ac0ge1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=78a7cfaf3bb22ab5a41a33e884b6f2425c9efdf6" alt="My friend likes gatekeeping things for no reason and won’t tell me what this is. It’s a box that connects to the TV that can pirate all movies, live sports, tv shows, etc. what is the name of this device? This is the only picture he showed me." title="My friend likes gatekeeping things for no reason and won’t tell me what this is. It’s a box that connects to the TV that can pirate all movies, live sports, tv shows, etc. what is the name of this device? This is the only picture he showed me." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Joeskithejoe"> /u/Joeskithejoe </a> <br/> <span><a href="https://i.redd.it/zb1kgh0ac0ge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.red
+
+## Optimal music setup for iPhone?
+ - [https://www.reddit.com/r/Piracy/comments/1id62wz/optimal_music_setup_for_iphone](https://www.reddit.com/r/Piracy/comments/1id62wz/optimal_music_setup_for_iphone)
+ - RSS feed: $source
+ - date published: 2025-01-29T22:06:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m looking to ditch Spotify for good, but I can’t find a reliable way to stream music on my iPhone. I have considered the following:</p> <p>1) Side loading Spotify - as I’m outside the EU, this isn’t an option. I’m not prepared to jailbreak my phone either</p> <p>2) Plexamp server - I don’t like the idea of having my PC running 24/7, and the extra electricity cost isn’t ideal.</p> <p>3) Brave browser YouTube - works ok, but I can’t skip songs unless I enter the app, and it’s a little slow and buggy </p> <p>Are there any setups that I have not considered yet? Thanks all</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rich55555"> /u/rich55555 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1id62wz/optimal_music_setup_for_iphone/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1id62wz/optimal_music_setup_for_iphone/">[comments]</a></span>
+
+## Average "Is this site safe"/"question that can be answered via the Megathread" user
+ - [https://www.reddit.com/r/Piracy/comments/1id507r/average_is_this_site_safequestion_that_can_be](https://www.reddit.com/r/Piracy/comments/1id507r/average_is_this_site_safequestion_that_can_be)
+ - RSS feed: $source
+ - date published: 2025-01-29T21:22:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1id507r/average_is_this_site_safequestion_that_can_be/"> <img src="https://external-preview.redd.it/HEZ-e1Cbl_og1CexJnDPzotYXwxlzLFHrvJJ-_rGOU0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ada2114fb4497e6b8c7d7af05e8bd6081a792746" alt="Average &quot;Is this site safe&quot;/&quot;question that can be answered via the Megathread&quot; user" title="Average &quot;Is this site safe&quot;/&quot;question that can be answered via the Megathread&quot; user" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MrRoboto12345"> /u/MrRoboto12345 </a> <br/> <span><a href="https://youtu.be/2tn66rI767Y">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1id507r/average_is_this_site_safequestion_that_can_be/">[comments]</a></span> </td></tr></table>
+
+## California Rep. Zoe Lofgren Introduces The Foreign Anti-Digital Piracy Act
+ - [https://www.reddit.com/r/Piracy/comments/1id4xp6/california_rep_zoe_lofgren_introduces_the_foreign](https://www.reddit.com/r/Piracy/comments/1id4xp6/california_rep_zoe_lofgren_introduces_the_foreign)
+ - RSS feed: $source
+ - date published: 2025-01-29T21:19:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1id4xp6/california_rep_zoe_lofgren_introduces_the_foreign/"> <img src="https://external-preview.redd.it/kVlpCJrol70lp6TMHMx5_DQ0bZFLuPBZJxvWksmbirA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f96fab7b2040641ab744d890a1331326f8a6ea2d" alt="California Rep. Zoe Lofgren Introduces The Foreign Anti-Digital Piracy Act" title="California Rep. Zoe Lofgren Introduces The Foreign Anti-Digital Piracy Act" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/justsmilenow"> /u/justsmilenow </a> <br/> <span><a href="https://deadline.com/2025/01/u-s-foreign-anti-digital-piracy-act-introduced-by-california-representative-1236271603/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1id4xp6/california_rep_zoe_lofgren_introduces_the_foreign/">[comments]</a></span> </td></tr></table>
+
+## Will 1869 says "no clean ad free cams are allowed on tgx anymore you have to look on other places for them sorry". Does anyone know where he will be posting them in the future?
+ - [https://www.reddit.com/r/Piracy/comments/1id4mf0/will_1869_says_no_clean_ad_free_cams_are_allowed](https://www.reddit.com/r/Piracy/comments/1id4mf0/will_1869_says_no_clean_ad_free_cams_are_allowed)
+ - RSS feed: $source
+ - date published: 2025-01-29T21:06:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>You may look under the discussion for the Nickel Boys screener to see this comment.</p> <p>Anyone?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mahaloth"> /u/Mahaloth </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1id4mf0/will_1869_says_no_clean_ad_free_cams_are_allowed/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1id4mf0/will_1869_says_no_clean_ad_free_cams_are_allowed/">[comments]</a></span>
+
+## Is there any free or cracked versions of invoice applications, such as Express Invoice?
+ - [https://www.reddit.com/r/Piracy/comments/1id4l7o/is_there_any_free_or_cracked_versions_of_invoice](https://www.reddit.com/r/Piracy/comments/1id4l7o/is_there_any_free_or_cracked_versions_of_invoice)
+ - RSS feed: $source
+ - date published: 2025-01-29T21:04:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m looking for one with customizable taxes and that can print. Does anyone have any good alternatives?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/artisticthrowaway123"> /u/artisticthrowaway123 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1id4l7o/is_there_any_free_or_cracked_versions_of_invoice/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1id4l7o/is_there_any_free_or_cracked_versions_of_invoice/">[comments]</a></span>
+
+## Is there a decent soccer streaming site around for Champions League?
+ - [https://www.reddit.com/r/Piracy/comments/1id4doj/is_there_a_decent_soccer_streaming_site_around](https://www.reddit.com/r/Piracy/comments/1id4doj/is_there_a_decent_soccer_streaming_site_around)
+ - RSS feed: $source
+ - date published: 2025-01-29T20:56:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I don&#39;t know what the hell happened, but since 2025 streaming soccer/footy has been near fuckin impossible. Like some of the worst stream quality i&#39;ve seen, and the champions league games are unwatchable with the amount of buffering, pausing and disconnects. </p> <p>Is there some massive power vaccum because of meth/crack streams leaving that I don&#39;t know about? </p> <p>Streameast<br/> Ripple<br/> TotalSportek<br/> Sportsurge,<br/> etc., etc., etc., </p> <p>= All trash, barely work. 1-2 years ago, I could freely surf all these sites with minimal issues. They all work for UFC, NBA, NFL...etc., it&#39;s literally just soccer streaming. </p> <p>Is viprow the only thing that actually works now for soccer?</p> <p>If my suspicion is correct...can the SINGULAR PERSON WHO RUNS ALL THESE SERVERS AND SPOOFS JUST UPGRADE THEIR CLOUD SUBSCRIPTION SERVICE AND MAKE STREAMING GOOD AGAIN. Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="
+
+## Was a DVD set of The Wonder Years ever made available with the music that was used when originally shown? Customers of some sets say the great music was all removed.
+ - [https://www.reddit.com/r/Piracy/comments/1id3qsv/was_a_dvd_set_of_the_wonder_years_ever_made](https://www.reddit.com/r/Piracy/comments/1id3qsv/was_a_dvd_set_of_the_wonder_years_ever_made)
+ - RSS feed: $source
+ - date published: 2025-01-29T20:29:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Apparently the music rights are so expensive, the producers can distribute the original show. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rrsafety"> /u/rrsafety </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1id3qsv/was_a_dvd_set_of_the_wonder_years_ever_made/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1id3qsv/was_a_dvd_set_of_the_wonder_years_ever_made/">[comments]</a></span>
+
+## checking source code for malware
+ - [https://www.reddit.com/r/Piracy/comments/1iczyea/checking_source_code_for_malware](https://www.reddit.com/r/Piracy/comments/1iczyea/checking_source_code_for_malware)
+ - RSS feed: $source
+ - date published: 2025-01-29T17:56:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>There is a <a href="https://github.com/afkarxyz/SpotiSongDownloader">github program</a> that I want to use which downloads songs from spotify. It has detections on <a href="https://www.virustotal.com/gui/file/7cf3d33558a5c269c945a1b4b72af4ec6723cce65faaa0b2b7e600c7783160ca/community">virustotal</a> for trojans, but the creator has included the source code in the release section. It seems fine but I dont code so I dont trust myself. It&#39;s a very small github page with only one star and no comments, which makes me suspicious.</p> <p>Does anyone have good tips for looking through source code? It&#39;s just over 650 lines long.</p> <p>Also just in case it&#39;s safe but the exe included might not be, how do I turn the source code .py file into the exe?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SqmButBetter"> /u/SqmButBetter </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1iczyea/checking_
+
+## Niagara Launcher pro version not working after pressing update
+ - [https://www.reddit.com/r/Piracy/comments/1iczt9l/niagara_launcher_pro_version_not_working_after](https://www.reddit.com/r/Piracy/comments/1iczt9l/niagara_launcher_pro_version_not_working_after)
+ - RSS feed: $source
+ - date published: 2025-01-29T17:50:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1iczt9l/niagara_launcher_pro_version_not_working_after/"> <img src="https://b.thumbs.redditmedia.com/gaMWJ9RPAzIh8hCTiuZrz7XPmz5h2Sge3QIiNdJQRZk.jpg" alt="Niagara Launcher pro version not working after pressing update" title="Niagara Launcher pro version not working after pressing update" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Not long ago I downloaded a pirated Niagara launcher and it worked just fine, but then after some time the provider released a new update and when I pressed update it showed this. Also it doesn&#39;t work without updating it so I had to uninstall the launcher, and now I can&#39;t even reinstall the free version on play store. I tried to find and delete some files using APK editor but there wasn&#39;t anything to note of</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LigmaNutsY"> /u/LigmaNutsY </a> <br/> <span><a href="https://www.reddit.com/ga
+
+## Help, how can I fix this?
+ - [https://www.reddit.com/r/Piracy/comments/1iczms6/help_how_can_i_fix_this](https://www.reddit.com/r/Piracy/comments/1iczms6/help_how_can_i_fix_this)
+ - RSS feed: $source
+ - date published: 2025-01-29T17:42:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1iczms6/help_how_can_i_fix_this/"> <img src="https://preview.redd.it/21a95e6gzyfe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=364f5730686a9a60b52906311389f2dd37ff73f6" alt="Help, how can I fix this?" title="Help, how can I fix this?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Redownloading it does not fix the problem and I have tried many websites</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Longjumping-Cry-6455"> /u/Longjumping-Cry-6455 </a> <br/> <span><a href="https://i.redd.it/21a95e6gzyfe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1iczms6/help_how_can_i_fix_this/">[comments]</a></span> </td></tr></table>
+
+## Android TV App 4 streaming everything
+ - [https://www.reddit.com/r/Piracy/comments/1icziql/android_tv_app_4_streaming_everything](https://www.reddit.com/r/Piracy/comments/1icziql/android_tv_app_4_streaming_everything)
+ - RSS feed: $source
+ - date published: 2025-01-29T17:38:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys I&#39;m looking for an app that streams movies and tv shows in best possible quality. Even better if it&#39;s capable of streaming in different languages also. Is there something like it ?</p> <p>Thank you </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shomili"> /u/shomili </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1icziql/android_tv_app_4_streaming_everything/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1icziql/android_tv_app_4_streaming_everything/">[comments]</a></span>
+
+## Good yt music downloading sites?
+ - [https://www.reddit.com/r/Piracy/comments/1iczcj1/good_yt_music_downloading_sites](https://www.reddit.com/r/Piracy/comments/1iczcj1/good_yt_music_downloading_sites)
+ - RSS feed: $source
+ - date published: 2025-01-29T17:31:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve had yt premium for a while, i would keep it, but I hate the fact that i don&#39;t own anything, the second I stop paying i lose access to files that take up space on my phone, music i downloaded, i just want a way to donload my playlists, and not just have a license that will be taken at any moment.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/THECATCLAPLER"> /u/THECATCLAPLER </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1iczcj1/good_yt_music_downloading_sites/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1iczcj1/good_yt_music_downloading_sites/">[comments]</a></span>
+
+## Why's every streaming site do this?
+ - [https://www.reddit.com/r/Piracy/comments/1icvtyp/whys_every_streaming_site_do_this](https://www.reddit.com/r/Piracy/comments/1icvtyp/whys_every_streaming_site_do_this)
+ - RSS feed: $source
+ - date published: 2025-01-29T15:06:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1icvtyp/whys_every_streaming_site_do_this/"> <img src="https://preview.redd.it/zn5onboi7yfe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d77d6cd09bcd76415a4671f8494389d6edf08975" alt="Why's every streaming site do this?" title="Why's every streaming site do this?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I&#39;m lucky if I can get through a full episode of anything without having to change servers or different sites. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ready_delete"> /u/ready_delete </a> <br/> <span><a href="https://i.redd.it/zn5onboi7yfe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1icvtyp/whys_every_streaming_site_do_this/">[comments]</a></span> </td></tr></table>
+
+## Superbowl stream 2025 - how and where to watch abroad
+ - [https://www.reddit.com/r/Piracy/comments/1icuvtm/superbowl_stream_2025_how_and_where_to_watch](https://www.reddit.com/r/Piracy/comments/1icuvtm/superbowl_stream_2025_how_and_where_to_watch)
+ - RSS feed: $source
+ - date published: 2025-01-29T14:23:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>If you’ve been streaming the Super Bowl outside of the US every year too, you know the drill by now. Free streams are available but with the usual geo-blocking mess. As always - VPN and that’s it.</p> <p>I’ve been relying on NordVPN for a while now, and last year everything worked ok. This year, though, some platforms have really tightened things up, so using obfuscated servers might be necessary. Check if your VPN has that beforehand.</p> <p>But fingers crossed Nord works well again.</p> <p>I gathered a mini list of where to stream Super Bowl LIX without paying (and a couple of paid options with free trials if you’re looking for something extra) if you’re abroad but still want to follow the game or the halftime show.</p> <table><thead> <tr> <th align="left">PLATFORM</th> <th align="left">SERVER</th> </tr> </thead><tbody> <tr> <td align="left">Tubi</td> <td align="left">US</td> </tr> <tr> <td align="left">ITVX</td> <td align="left">UK</td> </tr> <tr>
+
+## Movies on top list of fmhy not loading, all servers are not responding
+ - [https://www.reddit.com/r/Piracy/comments/1icuvqj/movies_on_top_list_of_fmhy_not_loading_all](https://www.reddit.com/r/Piracy/comments/1icuvqj/movies_on_top_list_of_fmhy_not_loading_all)
+ - RSS feed: $source
+ - date published: 2025-01-29T14:23:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>Help, I am kinda new to piracy in general and have mostly pirated movies and shows. Every thing used to work good then I downloaded uBlock Origin for chrome and now every movie I try to play on those sites are no longer loading. I am not sure it&#39;s exactly beacause of uBlock Origin or my IP in general.</p> <p>Any help is much appreciated</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No--XD"> /u/No--XD </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1icuvqj/movies_on_top_list_of_fmhy_not_loading_all/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1icuvqj/movies_on_top_list_of_fmhy_not_loading_all/">[comments]</a></span>
+
+## Any sites for pirated .pmx or .pmd files?
+ - [https://www.reddit.com/r/Piracy/comments/1ict76v/any_sites_for_pirated_pmx_or_pmd_files](https://www.reddit.com/r/Piracy/comments/1ict76v/any_sites_for_pirated_pmx_or_pmd_files)
+ - RSS feed: $source
+ - date published: 2025-01-29T13:00:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>There&#39;s a model I want to take apart due to its effects</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hour_Of_Frost"> /u/Hour_Of_Frost </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1ict76v/any_sites_for_pirated_pmx_or_pmd_files/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1ict76v/any_sites_for_pirated_pmx_or_pmd_files/">[comments]</a></span>
+
+## TorrentGalaxy Pleads Financial Difficulties, Asks Users to Chip In * TorrentFreak
+ - [https://www.reddit.com/r/Piracy/comments/1icsyav/torrentgalaxy_pleads_financial_difficulties_asks](https://www.reddit.com/r/Piracy/comments/1icsyav/torrentgalaxy_pleads_financial_difficulties_asks)
+ - RSS feed: $source
+ - date published: 2025-01-29T12:46:13+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/LZ129Hindenburg"> /u/LZ129Hindenburg </a> <br/> <span><a href="https://torrentfreak.com/torrentgalaxy-pleads-financial-difficulties-asks-users-to-chip-in-250129/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1icsyav/torrentgalaxy_pleads_financial_difficulties_asks/">[comments]</a></span>
+
+## Sirius Satellite in Australia?
+ - [https://www.reddit.com/r/Piracy/comments/1icss34/sirius_satellite_in_australia](https://www.reddit.com/r/Piracy/comments/1icss34/sirius_satellite_in_australia)
+ - RSS feed: $source
+ - date published: 2025-01-29T12:36:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Title. </p> <p>Anyone have any way to listen to Sirius over here in Australia? Paid, pirate, whatever as long as I can finally listen to it. I honestly miss some of the stations. Fantastic way to find new music in the genres I love (Octane is too good). </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/xXD4rkm3chXx"> /u/xXD4rkm3chXx </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1icss34/sirius_satellite_in_australia/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1icss34/sirius_satellite_in_australia/">[comments]</a></span>
+
+## UK Considers Making Netflix Users Pay License Fee to Fund BBC
+ - [https://www.reddit.com/r/Piracy/comments/1ico7h2/uk_considers_making_netflix_users_pay_license_fee](https://www.reddit.com/r/Piracy/comments/1ico7h2/uk_considers_making_netflix_users_pay_license_fee)
+ - RSS feed: $source
+ - date published: 2025-01-29T07:06:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1ico7h2/uk_considers_making_netflix_users_pay_license_fee/"> <img src="https://preview.redd.it/8x57nyeytvfe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3e989c06e6503df3cb15ec04a1dc0d21b4bac12b" alt="UK Considers Making Netflix Users Pay License Fee to Fund BBC" title="UK Considers Making Netflix Users Pay License Fee to Fund BBC" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>&quot;The UK is considering making households who only use streaming services such as <a href="https://www.bloomberg.com/quote/NFLX:US">Netflix</a> and <a href="https://www.bloomberg.com/quote/DIS:US">Disney</a> pay the BBC license fee, as part of plans to modernize the way it funds the public-service broadcaster.&quot;</p> <p>It makes no sense. Their already bullshit reason is the BBC pay the lion&#39;s share of the upkeep of masts, etc. There&#39;s nothing remotely resembling a mast or anything from Netflix&#39;s servers to my telly.
+
+## The first few sites that paved the way to the digital pirate age?
+ - [https://www.reddit.com/r/Piracy/comments/1icnhli/the_first_few_sites_that_paved_the_way_to_the](https://www.reddit.com/r/Piracy/comments/1icnhli/the_first_few_sites_that_paved_the_way_to_the)
+ - RSS feed: $source
+ - date published: 2025-01-29T06:16:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Back in the day, it used to be limewire, dodgy cd’s and shitty cam dvds 😂</p> <p>What was a few of the old sites that took it to the next step?</p> <p>My memories bad haha, so I can’t remember any names!</p> <p>I know the ‘newer’ sites, but most of them are dead, and tbh I can’t find any new ones that are like 123</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HatNeat2311"> /u/HatNeat2311 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1icnhli/the_first_few_sites_that_paved_the_way_to_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1icnhli/the_first_few_sites_that_paved_the_way_to_the/">[comments]</a></span>
+
+## Revanced YouTube music download limit
+ - [https://www.reddit.com/r/Piracy/comments/1icmjq4/revanced_youtube_music_download_limit](https://www.reddit.com/r/Piracy/comments/1icmjq4/revanced_youtube_music_download_limit)
+ - RSS feed: $source
+ - date published: 2025-01-29T05:17:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is there a way to download the entire liked music playlist? Much appreciated.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/K_Leon"> /u/K_Leon </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1icmjq4/revanced_youtube_music_download_limit/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1icmjq4/revanced_youtube_music_download_limit/">[comments]</a></span>
+
+## Best option for casting media besides WMP or VLC?
+ - [https://www.reddit.com/r/Piracy/comments/1icl28f/best_option_for_casting_media_besides_wmp_or_vlc](https://www.reddit.com/r/Piracy/comments/1icl28f/best_option_for_casting_media_besides_wmp_or_vlc)
+ - RSS feed: $source
+ - date published: 2025-01-29T03:51:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I used to be able to stream shows I downloaded using windows media player so I could cast at max resolution. But now getting them from the same site, the ability to fast forward, rewind, or click to certain times are grayed out on WMP for some reason. Useable but obviously only for things we watch in one sitting.</p> <p>If I try to play it using VLC it completely breaks. Audio cuts out, picture gets tons of crazy artifacts, discoloration, etc. </p> <p>Media player classic works just fine and I can fast forward, rewind, click the bar to the exact time, etc. But the only way I know how to cast MPC is through chromes cast screen function, which limits me to 720p, which obviously isn&#39;t what I would prefer. </p> <p>So I either need to an option to cast MPC at max resolution, or to figure out what the issue is with WPM, or possibly use another method of downloading that creates files WPM can use. </p> <p>Idk but any help would be appreciated.</p> </div
+
+## Pre installed torrent games? (Not in compressed form but in folder form)
+ - [https://www.reddit.com/r/Piracy/comments/1icl163/pre_installed_torrent_games_not_in_compressed](https://www.reddit.com/r/Piracy/comments/1icl163/pre_installed_torrent_games_not_in_compressed)
+ - RSS feed: $source
+ - date published: 2025-01-29T03:50:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, does any one knows any website that provides torrents for pre installed games, the megathread only shows websites with direct downloads which provide the preinstalled game in a .rar file but I was hoping if I can download a folder that has the pre-installed files so I don&#39;t have to extract any .rar files. (Storage issues on my steam deck). A torrent with the pre-installed game folder would be very helpful. Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sj_________"> /u/Sj_________ </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1icl163/pre_installed_torrent_games_not_in_compressed/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1icl163/pre_installed_torrent_games_not_in_compressed/">[comments]</a></span>
+
+## Is "modyolo" safe?
+ - [https://www.reddit.com/r/Piracy/comments/1icku7i/is_modyolo_safe](https://www.reddit.com/r/Piracy/comments/1icku7i/is_modyolo_safe)
+ - RSS feed: $source
+ - date published: 2025-01-29T03:40:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>I keep seeing threads and such saying there is Trojans and virus and then I keep seeing threads and such saying it&#39;s completely safe, and there is a game I want to download but I am unsure if my phone will explode or not if Indonso</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mul-T3643"> /u/Mul-T3643 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1icku7i/is_modyolo_safe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1icku7i/is_modyolo_safe/">[comments]</a></span>
+
+## Spotify stopped working, I've tried latest cracked releases without success. Trying to login I get "Incorrect email or password combination". Can login on chrome though.
+ - [https://www.reddit.com/r/Piracy/comments/1ickq3r/spotify_stopped_working_ive_tried_latest_cracked](https://www.reddit.com/r/Piracy/comments/1ickq3r/spotify_stopped_working_ive_tried_latest_cracked)
+ - RSS feed: $source
+ - date published: 2025-01-29T03:34:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1ickq3r/spotify_stopped_working_ive_tried_latest_cracked/"> <img src="https://preview.redd.it/ss53tc71sufe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a38daf829f52d9fcd1eddf556b88180769ff375" alt="Spotify stopped working, I've tried latest cracked releases without success. Trying to login I get &quot;Incorrect email or password combination&quot;. Can login on chrome though." title="Spotify stopped working, I've tried latest cracked releases without success. Trying to login I get &quot;Incorrect email or password combination&quot;. Can login on chrome though." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Incorrect email or password combination</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/giacoboh88"> /u/giacoboh88 </a> <br/> <span><a href="https://i.redd.it/ss53tc71sufe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1ickq3r
+
+## Having trouble getting downloaded HLS files to run smooth.
+ - [https://www.reddit.com/r/Piracy/comments/1ickfn3/having_trouble_getting_downloaded_hls_files_to](https://www.reddit.com/r/Piracy/comments/1ickfn3/having_trouble_getting_downloaded_hls_files_to)
+ - RSS feed: $source
+ - date published: 2025-01-29T03:18:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>First off, I am just a sailor trying to get enough movies to get through his first deployment. I am not intelligent and know nothing about command prompts, coding etc. </p> <p>Basically the title. I have a couple of Firefox add ons that are verified and dedicated to optimizing HLS downloads. I used VLC media player for the files and they play but they have skips every few seconds that are not crazy bad but happen often enough to amount to the equivalent of Chinese water torture. </p> <p>Any tips? </p> <p>Mega thread checked btw. Didn’t find something. If I missed the answer I’m looking for, feel free to make me look dumb in the comments by telling me exactly where it is. </p> <p>Edit: I’m not talking about streaming the HLS files from the site, I’m talking about playing already downloaded HLS movie files which I’ve put onto a personal SSD.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ScaredTomatillo5108"> /u/
+
+## Monkrus autodesk products
+ - [https://www.reddit.com/r/Piracy/comments/1icgxaz/monkrus_autodesk_products](https://www.reddit.com/r/Piracy/comments/1icgxaz/monkrus_autodesk_products)
+ - RSS feed: $source
+ - date published: 2025-01-29T00:24:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Installing an autodesk product from monkrus and windows already identifies it as a virus, although it doesn&#39;t state a type or anything about it so I&#39;m assuming this is because it doesn&#39;t have any publisher information?</p> <p>It also requires AdskNLM.exe to be run to crack it however windows again flags this as a virus with no other information. Do others also experience this same behavior and can windows flag as malware even though there isn&#39;t actually a virus?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FridayNightRiot"> /u/FridayNightRiot </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1icgxaz/monkrus_autodesk_products/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1icgxaz/monkrus_autodesk_products/">[comments]</a></span>
+
+## German reality
+ - [https://www.reddit.com/r/Piracy/comments/1icgv5t/german_reality](https://www.reddit.com/r/Piracy/comments/1icgv5t/german_reality)
+ - RSS feed: $source
+ - date published: 2025-01-29T00:21:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I like to watch German reality shows because they have some really crazy competitions. It&#39;s great fun. My go to port for restocking supplies has seen better days and is all out of rum. I&#39;m therefore hoping someone could give me some headings to alternate ports that might supply rum and German reality shows. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sir_BugsAlot"> /u/Sir_BugsAlot </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1icgv5t/german_reality/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1icgv5t/german_reality/">[comments]</a></span>
+
+## Issue installing sound library with TNT crack of Logic Pro 10.7.2
+ - [https://www.reddit.com/r/Piracy/comments/1icgn9x/issue_installing_sound_library_with_tnt_crack_of](https://www.reddit.com/r/Piracy/comments/1icgn9x/issue_installing_sound_library_with_tnt_crack_of)
+ - RSS feed: $source
+ - date published: 2025-01-29T00:11:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I recently downloaded and installed the TNT crack of Logic Pro 10.7.2 as my current Mac is too old to run the current trial (My Mac runs Monterey if that helps). The issue that I am having is that whenever I attempt to install the sound library, the download bar goes over the limit and a window pops up saying &quot;The Download of Essential sounds and settings failed&quot;. How can I get it to install the sound library? Any help is greatly appreciated!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/klutch2008"> /u/klutch2008 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1icgn9x/issue_installing_sound_library_with_tnt_crack_of/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1icgn9x/issue_installing_sound_library_with_tnt_crack_of/">[comments]</a></span>
+
