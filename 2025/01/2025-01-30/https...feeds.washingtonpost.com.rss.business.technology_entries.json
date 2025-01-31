@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-30T13:05:00+00:00",
+        "description": "Leaders at Microsoft and Meta told investors that China\u2019s DeepSeek doesn\u2019t harm their businesses and that they will still spend billions on AI data centers.",
+        "id": 2004256,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2025/01/30/deepseek-microsoft-meta-investors",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tech CEOs try to reassure Wall Street after DeepSeek shock",
+        "vote": 0
+    }
+]

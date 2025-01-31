@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-30T06:00:00+00:00",
+        "description": "The Authors Guild has launched a certification system, \"Human Authored,\" intended to provide authors and publishers with a way to distinguish their work in an \"increasingly AI-saturated market.\" The system will provide an official mark on books registered by its author or publisher through a public database, indicating whether the text of a book was written by a human.",
+        "id": 2006201,
+        "language": "en",
+        "link": "http://www.bookbrowse.com/news/detail/index.cfm?news_item_number=3366",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 43,
+        "source_url": "https://www.bookbrowse.com/rss/book_news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Authors Guild rolls out 'Human Authored' certification program",
+        "vote": 0
+    }
+]

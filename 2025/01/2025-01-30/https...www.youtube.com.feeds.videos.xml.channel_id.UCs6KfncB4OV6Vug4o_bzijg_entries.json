@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-30T03:53:19+00:00",
+        "description": "The ultimate guide on how to make macOS as secure, private, and anonymous as possible. This video covers various aspects such as hardening macOS, security, privacy, anonymity, passwords, authentication, VPNs, biometrics, search engines, browsers, Tor, 2FA, virtual machines, Linux, communication, and more. By following these steps, you can reclaim your privacy and data today!\n\nGo Incognito: https://techlore.tech/goincognito\nBecome Anonymous Guide: Coming Soon \nWindows Version of this Video: https://youtu.be/-nv3IEtXhF8\nLinux Version of this Video: Coming Soon\nAndroid Version of this Video: Coming Soon\niOS Version of this Video: Coming Soon\nJoin Our Signal Group: https://discuss.techlore.tech/t/signal-usernames-are-here-join-our-signal-group-techlore/7640\n\nVeracrypt Guide: https://www.youtube.com/watch?v=C25VWAGl7Tw\nWhy you Don't Need an Antivirus: https://www.youtube.com/watch?v=mVl2JF3NKHo\nLockdown Mode Explained: https://www.youtube.com/watch?v=ENuGWhz10UY\nTop 4 Password Managers: h",
+        "id": 2002067,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=EA4KyQBdSu8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EA4KyQBdSu8/hqdefault.jpg",
+        "title": "The ULTIMATE macOS Privacy & Security Guide!",
+        "vote": 0
+    }
+]

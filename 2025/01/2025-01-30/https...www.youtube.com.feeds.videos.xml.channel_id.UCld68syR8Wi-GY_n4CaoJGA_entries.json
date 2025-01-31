@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-30T20:00:27+00:00",
+        "description": "You may recall those Copilot+ PCs from last year well, they had a really odd key, the Copilot key but would you be be surprised to find out the way the key works makes absolutely no sense\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nVerge Office And Emoji Keys: https://www.theverge.com/2019/10/11/20909475/microsoft-office-key-emoji-key-keyboards\nReddit Post: https://www.reddit.com/r/pcmasterrace/comments/1f0po3s/i_just_learned_that_windows_11_has_a_shortcut/\nArs Technica Post: https://arstechnica.com/gadgets/2024/04/shoehorned-windows-copilot-key-is-just-a-reprogrammable-macro-journalist-shows/\nKernel Patch: https://git.kernel.org/pub/scm/linux/kernel/git/dtor/input.git/commit/?h=next&id=907bc9268a5a9f823ffa751957a5c1dd59f83f42\n\n=========Video Platforms==========\n\ud83c\udfa5 ",
+        "id": 2007871,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=n7f1LI9DnP0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/n7f1LI9DnP0/hqdefault.jpg",
+        "title": "Who Let Microsoft Do This",
+        "vote": 0
+    }
+]

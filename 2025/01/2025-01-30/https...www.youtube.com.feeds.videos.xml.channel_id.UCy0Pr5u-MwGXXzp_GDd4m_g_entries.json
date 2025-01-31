@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Julie Nolke",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-30T14:22:24+00:00",
+        "description": "Welcome to Part 2 of \"I know nothing about war but here's what I think it looks like\". Apologies for the bad Quebecois accent, I'm working on it ;)\n\nCome see me on tour!! Tickets: https://www.julienolke.ca/\nToronto March 6th & 7th\nWinnipeg April 30th\nCalgary May 3rd\nVancouver May 8th\n\nP.S. Sign up to my Patreon for behind the scenes bloopers and early access to videos here: https://www.patreon.com/julienolke\n\nActors: Julie Nolke \nWriter: Julie Nolke\nCamera: Sam Larson\nEditor: Alec McKay",
+        "id": 2005515,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=LSBmyUTo46I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 170,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy0Pr5u-MwGXXzp_GDd4m_g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LSBmyUTo46I/hqdefault.jpg",
+        "title": "Preparing to invade",
+        "vote": 0
+    }
+]

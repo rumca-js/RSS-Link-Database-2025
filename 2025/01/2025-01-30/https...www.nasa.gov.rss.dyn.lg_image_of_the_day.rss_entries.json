@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-30T20:37:00+00:00",
+        "description": "NASA's SPHEREx observatory is oriented in a horizontal position, revealing all three layers of photon shields as well as the telescope. This photo was taken at BAE Systems in Boulder, Colorado, in April 2024.\r\n\r\nShort for Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer, SPHEREx will create a map of the cosmos like no other. Using a technique called spectroscopy to image the entire sky in 102 wavelengths of infrared light, SPHEREx will gather information about the composition of and distance to millions of galaxies and stars. With this map, scientists will study what happened in the first fraction of a second after the big bang, how galaxies formed and evolved, and the origins of water in planetary systems in our galaxy.",
+        "id": 2007864,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/pia26542orig",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "SPHEREx\u2019s Concentric Cones",
+        "vote": 0
+    }
+]

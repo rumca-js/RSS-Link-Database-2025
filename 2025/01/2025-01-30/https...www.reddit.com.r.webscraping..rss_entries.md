@@ -1,0 +1,44 @@
+# Source:webscraping, URL:https://www.reddit.com/r/webscraping/.rss, language:en
+
+## Browser or API workflow?
+ - [https://www.reddit.com/r/webscraping/comments/1idzdq6/browser_or_api_workflow](https://www.reddit.com/r/webscraping/comments/1idzdq6/browser_or_api_workflow)
+ - RSS feed: $source
+ - date published: 2025-01-30T22:24:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>When evaluating a new scraping project, how often do people evaluate automating the browser versus reverse engineering the front end APIs?</p> <p>Data is data, right? Everything has to be loaded in some way, shape, or form onto the browser and why render the browser if you don’t have to? </p> <p>Am I missing a step here? Is the tooling to do this not available? I’m an experienced backend dev, but only recently diving into the world of web scraping. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/muttonchopp12"> /u/muttonchopp12 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1idzdq6/browser_or_api_workflow/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1idzdq6/browser_or_api_workflow/">[comments]</a></span>
+
+## How is Nodriver's stealth/undetection ability?
+ - [https://www.reddit.com/r/webscraping/comments/1idqje6/how_is_nodrivers_stealthundetection_ability](https://www.reddit.com/r/webscraping/comments/1idqje6/how_is_nodrivers_stealthundetection_ability)
+ - RSS feed: $source
+ - date published: 2025-01-30T16:15:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, good day everyone.</p> <p>Is anyone here familiar with <a href="https://github.com/ultrafunkamsterdam/nodriver">Nodriver</a>? I just wanna ask how is that framework&#39;s performance when it comes to stealthy web automation? I&#39;m currently working with Selenium, and it&#39;s pretty hard to stay undetected; I have to load different browsers and rely on Selenium only to puppet it...I&#39;m considering making a switch to Nodriver, and I&#39;m not sure on its ability to automate web surfing while staying completely undetected.</p> <p>Any input is welcomed.<br/> Thanks,<br/> Hamza</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_iamhamza_"> /u/_iamhamza_ </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1idqje6/how_is_nodrivers_stealthundetection_ability/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1idqje6/how_is_nodrivers_stealthundetection_ab
+
+## what type of proxy (http/https/socks4/socks5) works for webscraping?
+ - [https://www.reddit.com/r/webscraping/comments/1idep8w/what_type_of_proxy_httphttpssocks4socks5_works](https://www.reddit.com/r/webscraping/comments/1idep8w/what_type_of_proxy_httphttpssocks4socks5_works)
+ - RSS feed: $source
+ - date published: 2025-01-30T04:42:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>I asked Chatgpt but got really confused. Chatgpt seems to say that I need a https proxy in order to scrape modern websites, because most websites rejects http proxies. </p> <p>Let&#39;s use <a href="https://www.google.com/map">https://www.google.com/map</a> for example.</p> <p>Can someone help me understand:</p> <p>- Does socks4/socks5 work for web scraping? (I&#39;ve never heard of socks4 &amp; 5 until recent.)</p> <p>- Does http proxy work? or does it have to be a https proxy? Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Infamous_Tomatillo53"> /u/Infamous_Tomatillo53 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1idep8w/what_type_of_proxy_httphttpssocks4socks5_works/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1idep8w/what_type_of_proxy_httphttpssocks4socks5_works/">[comments]</a></span>
+
+## Are there websites that are impossible to scrape with an HTTP client?
+ - [https://www.reddit.com/r/webscraping/comments/1iddjvh/are_there_websites_that_are_impossible_to_scrape](https://www.reddit.com/r/webscraping/comments/1iddjvh/are_there_websites_that_are_impossible_to_scrape)
+ - RSS feed: $source
+ - date published: 2025-01-30T03:46:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m running mobile app service and my service try to scrape marketplaces data daily basis on my server. (3 marketplaces and almost 3k items/day)</p> <p>my crawler is using axios and puppeteer for scraping (first try with axios, if fail, go with puppeteer)</p> <p>I was trying to add another marketplace, but when I try to scrape with axios, status code is always 429 with axios even just I tried one time. (puppeteer(headless) is fine)</p> <p>Are there websites that are impossible to scrape with an HTTP client (e.g., axios)?<br/> I&#39;ve tried with same headers (also random user-agent) with chrome browser, but always failed with 429.</p> <p>- url : <a href="https://brand.naver.com/cheiljedang/products/11131167369">https://brand.naver.com/cheiljedang/products/11131167369</a></p> <p>- data point : price, product name, delivery condition etc.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/py_aguri"> /u/py_aguri <
+
+## random gibberish, when I tried to extract the html content of a site
+ - [https://www.reddit.com/r/webscraping/comments/1idddqf/random_gibberish_when_i_tried_to_extract_the_html](https://www.reddit.com/r/webscraping/comments/1idddqf/random_gibberish_when_i_tried_to_extract_the_html)
+ - RSS feed: $source
+ - date published: 2025-01-30T03:38:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/webscraping/comments/1idddqf/random_gibberish_when_i_tried_to_extract_the_html/"> <img src="https://b.thumbs.redditmedia.com/WZWRI_vHO3E51UDPg9SAJeB1I-8RxkixiUYUyMLettE.jpg" alt="random gibberish, when I tried to extract the html content of a site" title="random gibberish, when I tried to extract the html content of a site" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So I just started learning, when I try to extract the content of a website , it shows some random gibberish. It was okay till yesterday. Pretty sure its not a website specific thing.</p> <p><a href="https://preview.redd.it/jtj2vvycx1ge1.png?width=1414&amp;format=png&amp;auto=webp&amp;s=11c2044f3bbdd2f127b2d6ba029fcb5d0d797311">https://preview.redd.it/jtj2vvycx1ge1.png?width=1414&amp;format=png&amp;auto=webp&amp;s=11c2044f3bbdd2f127b2d6ba029fcb5d0d797311</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zanda_Claus_"> /u/Za
+
+## Trying to scrape specific website with crawl4AI but always error
+ - [https://www.reddit.com/r/webscraping/comments/1id9va2/trying_to_scrape_specific_website_with_crawl4ai](https://www.reddit.com/r/webscraping/comments/1id9va2/trying_to_scrape_specific_website_with_crawl4ai)
+ - RSS feed: $source
+ - date published: 2025-01-30T00:54:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m trying to scrape this whole website with Crawl4AI, but I&#39;m open to any other solution you think might be better:</p> <pre><code>https://support.assystrx.com/ubik/6.0/FR/QC/index.html?home.htm </code></pre> <p>I&#39;m using crawl4ai 0.4.247 in a conda environment that I used for other scraping projects with no problem running this library. It works with other urls.</p> <p>I&#39;m using python 3.11.11<br/> This is my code where I&#39;m trying to scrape only one page to test the library.</p> <pre><code> from crawl4ai import AsyncWebCrawler, BrowserConfig, CrawlerRunConfig, DefaultMarkdownGenerator import asyncio #from ubik_documentation_urls import urls BASE_URL = &#39;https://support.assystrx.com/ubik/6.0/FR/QC/index.html?home.htm&#39; TEST_URL = &#39;https://support.assystrx.com/ubik/6.0/FR/QC/index.html?ubik_start_program.htm&#39; browser_config = BrowserConfig(headless=False) crawl_config = CrawlerRunConfig( markdown_generator=DefaultMar
+

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-30T14:17:59+00:00",
+        "description": "<img width=\"640\" height=\"943\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/01/Kronologic-Paris-695x1024.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Kronologic Paris\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/01/Kronologic-Paris-695x1024.jpg 695w, https://www.boardgamequest.com/wp-content/uploads/2025/01/Kronologic-Paris-204x300.jpg 204w, https://www.boardgamequest.com/wp-content/uploads/2025/01/Kronologic-Paris-102x150.jpg 102w, https://www.boardgamequest.com/wp-content/uploads/2025/01/Kronologic-Paris-768x1132.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/01/Kronologic-Paris-1042x1536.jpg 1042w, https://www.boardgamequest.com/wp-content/uploads/2025/01/Kronologic-Paris-1390x2048.jpg 1390w, https://www.boardgamequest.com/wp-content/uploads/2025/01/Kronologic-Paris-640x943.jpg 640w, https://www",
+        "id": 2004761,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/kronologic-paris-1920-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Kronologic: Paris 1920 Review",
+        "vote": 0
+    }
+]

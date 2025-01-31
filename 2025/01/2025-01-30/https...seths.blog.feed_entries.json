@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-30T10:03:00+00:00",
+        "description": "Nothing stays still. Relative to the rest of the world, even something that&#8217;s not moving is changing. It&#8217;s tempting to talk about not making fast enough progress. But it&#8217;s far more useful to ask which direction we&#8217;re progressing. Often, people will point to the velocity of the change they&#8217;re making without pausing to consider the [&#8230;]",
+        "id": 2003101,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/01/what-sort-of-progress",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "What sort of progress?",
+        "vote": 0
+    }
+]

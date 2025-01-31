@@ -1,0 +1,93 @@
+# Source:Django, URL:https://www.reddit.com/r/django/.rss, language:
+
+## Where to host online teaching platform that will have 5,000+ users simultaniously?
+ - [https://www.reddit.com/r/django/comments/1ie01kc/where_to_host_online_teaching_platform_that_will](https://www.reddit.com/r/django/comments/1ie01kc/where_to_host_online_teaching_platform_that_will)
+ - RSS feed: $source
+ - date published: 2025-01-30T22:53:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>currently I have 2,000+ students that I teach on dedicated facebook groups where they watch video-lessons. I want to build a website with django. Video content will be hosted on Vimeo and embedded into my website (that seems like simple solution). </p> <p>I&#39;m considering options on where to deploy this web app. Will render or railway handlethis amount of users clicking and watching videos simultaniously? Do I need something more powerful like Digital ocean or aws services? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IWBN"> /u/IWBN </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1ie01kc/where_to_host_online_teaching_platform_that_will/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1ie01kc/where_to_host_online_teaching_platform_that_will/">[comments]</a></span>
+
+## Django + HTMX CRUD app example
+ - [https://www.reddit.com/r/django/comments/1idxkfs/django_htmx_crud_app_example](https://www.reddit.com/r/django/comments/1idxkfs/django_htmx_crud_app_example)
+ - RSS feed: $source
+ - date published: 2025-01-30T21:07:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, </p> <p>this past 2 years I&#39;ve been enjoying working with the Django + HTMX stack. Here is a live demo + source code of some patterns I&#39;ve found useful/enjoyable to work with.</p> <p>Note that some patters are not optimized for performance but rather developer experience, so keep in mind some things could be done way more efficiently.</p> <p>Live demo is hosted on a 6$ / month DigitalOcean droplet located in Frankfurt (so the render delay will vary depending on where you are in the world).</p> <p>Live demo: <a href="https://django-htmx.2na.dev/">https://django-htmx.2na.dev/</a></p> <p>Source code: <a href="https://github.com/paulik123/django-htmx-crud-demo">https://github.com/paulik123/django-htmx-crud-demo</a></p> <p>If you have improvements for my code / better patterns, feel free to comment.</p> <p>* Note that this is not 100% only HTMX and server side rendering. Some other js libraries were used: for example tomselect for selects a
+
+## DjangoNinja specific community
+ - [https://www.reddit.com/r/django/comments/1idwwdh/djangoninja_specific_community](https://www.reddit.com/r/django/comments/1idwwdh/djangoninja_specific_community)
+ - RSS feed: $source
+ - date published: 2025-01-30T20:39:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey folks, I just created this <a href="https://www.reddit.com/r/DjangoNinja/">https://www.reddit.com/r/DjangoNinja/</a> if others are building on django-ninja. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/3-ion"> /u/3-ion </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1idwwdh/djangoninja_specific_community/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1idwwdh/djangoninja_specific_community/">[comments]</a></span>
+
+## Django/FastAPI Project for final year Project
+ - [https://www.reddit.com/r/django/comments/1idult0/djangofastapi_project_for_final_year_project](https://www.reddit.com/r/django/comments/1idult0/djangofastapi_project_for_final_year_project)
+ - RSS feed: $source
+ - date published: 2025-01-30T19:03:48+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>Hey peeps!</strong></p> <p>Looking for some good ideas and references for web development projects using Python-based frameworks. The projects should be of intermediate to advanced difficulty. I’d appreciate any suggestions on topics I can explore or links to relevant GitHub repositories.</p> <p>Additionally, if you have any unique project ideas—even if they use a different tech stack—that focus more on backend development, I&#39;d love to hear them!</p> <p>Looking forward to your inputs. Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CalmSurround9312"> /u/CalmSurround9312 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1idult0/djangofastapi_project_for_final_year_project/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1idult0/djangofastapi_project_for_final_year_project/">[comments]</a></span>
+
+## How to render a form of selection dependent choices
+ - [https://www.reddit.com/r/django/comments/1idsrzs/how_to_render_a_form_of_selection_dependent](https://www.reddit.com/r/django/comments/1idsrzs/how_to_render_a_form_of_selection_dependent)
+ - RSS feed: $source
+ - date published: 2025-01-30T17:48:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I have two models:</p> <p><a href="https://preview.redd.it/fd4memeb76ge1.png?width=715&amp;format=png&amp;auto=webp&amp;s=b07ec2fb5648e1aaf897422caaceda0578ce54b8">https://preview.redd.it/fd4memeb76ge1.png?width=715&amp;format=png&amp;auto=webp&amp;s=b07ec2fb5648e1aaf897422caaceda0578ce54b8</a></p> <p>I want for create a form:</p> <p><a href="https://preview.redd.it/luuijik056ge1.png?width=973&amp;format=png&amp;auto=webp&amp;s=dc2d66107ca06f297327d9739a84cc72c612155e">https://preview.redd.it/luuijik056ge1.png?width=973&amp;format=png&amp;auto=webp&amp;s=dc2d66107ca06f297327d9739a84cc72c612155e</a></p> <p>Such that when a user selects a certain university, only campuses related to that university are available in.</p> <p>How can I go about such a functionality with django forms?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Thelimegreenishcoder"> /u/Thelimegreenishcoder </a> <br/> <span><a href="https://www
+
+## Any best practice resources for Django as the backend for a self hosted / multiple deployment application?
+ - [https://www.reddit.com/r/django/comments/1idrjj7/any_best_practice_resources_for_django_as_the](https://www.reddit.com/r/django/comments/1idrjj7/any_best_practice_resources_for_django_as_the)
+ - RSS feed: $source
+ - date published: 2025-01-30T16:57:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve built a piece of software that, at its core, is a Django backend and DB and a Vue frontend. There&#39;s another piece of software running on a second machine involving an SSH tunnel for communication, but this is mostly irrelevant to my thoughts here. Are there any large scale self hosted apps (like Nextcloud, MediaWiki, etc) that use Django as their backend that I could look at to study? I want to make sure that the code is as portable as possible, so one thing I did is use socket.getfqdn() to populate the CORS fields and such in settings. But what about updates? Sure, I can just drop the new views and model and serializer files in place, but what&#39;s the best practice for doing migrations and such? Most of the guides I see assume a static development environment and one monolithic deployment.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MadisonDissariya"> /u/MadisonDissariya </a> <br/> <span><a h
+
+## Automated infra aimed at Developers and Startups
+ - [https://www.reddit.com/r/django/comments/1idr1f3/automated_infra_aimed_at_developers_and_startups](https://www.reddit.com/r/django/comments/1idr1f3/automated_infra_aimed_at_developers_and_startups)
+ - RSS feed: $source
+ - date published: 2025-01-30T16:36:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I&#39;m currently building a app that is intended for developers/start-up that do not want (or need, or can afford) a DevOps engineer full time on their projects.</p> <p>My intention is to set up an automated system that allows users to set up their own infrastructure in the Cloud (AWS first, Azure and GPC next) with best security practices in mind and a easy modular way to keep their infra up to date while also being able to focus on the app they are developing.</p> <p>I&#39;m making this post to gather some feedback if this is something of interest. I&#39;m also open to suggestions on what you think I should include or what are your pain points</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lingering_info"> /u/lingering_info </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1idr1f3/automated_infra_aimed_at_developers_and_startups/">[link]</a></span> &#32; <span><a href="ht
+
+## how to handle multiple deployment
+ - [https://www.reddit.com/r/django/comments/1idljw8/how_to_handle_multiple_deployment](https://www.reddit.com/r/django/comments/1idljw8/how_to_handle_multiple_deployment)
+ - RSS feed: $source
+ - date published: 2025-01-30T12:09:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>in my django app, i built an erp system, every customer will get their own subdomain</p> <p>how to handle updates etc, i looked around, i will have a config file for each customer with their name, preferences etc, and with their tier/feature set</p> <p>is there a good way to CI/CD that is not very complicated?</p> <p>i know its a whole thing by itself, and im not asking someone to do it for me, i prefer to not waste much time trying to see what is better, and what are the tradeofs, i did my reaserch, but also prefer real humans experience more.</p> <p>and also how to deal with migrations and database</p> <p>regards</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sohyp3"> /u/sohyp3 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1idljw8/how_to_handle_multiple_deployment/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1idljw8/how_to_handle_multiple_deployment/">
+
+## How to handle errors in prod
+ - [https://www.reddit.com/r/django/comments/1idlh29/how_to_handle_errors_in_prod](https://www.reddit.com/r/django/comments/1idlh29/how_to_handle_errors_in_prod)
+ - RSS feed: $source
+ - date published: 2025-01-30T12:05:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently pushed my project to production, using nginx and gunicorn, im getting 500 errors, </p> <p>i want to see what the error is to fix it, idk how, i googled, in <a href="https://docs.djangoproject.com/en/5.1/howto/error-reporting/">django docs</a> it says it will send an email with the error, is there another way to just read it live, and try to fix it in production??</p> <p>btw tried </p> <p>``` sudo tail -f /var/log/nginx/error.log sudo tail -f /var/log/nginx/access.log sudo journalctl -u gunicorn.service </p> <p>``` and i cannot see the error text. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sohyp3"> /u/sohyp3 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1idlh29/how_to_handle_errors_in_prod/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1idlh29/how_to_handle_errors_in_prod/">[comments]</a></span>
+
+## help me for the production level nginx configuration..
+ - [https://www.reddit.com/r/django/comments/1idjm83/help_me_for_the_production_level_nginx](https://www.reddit.com/r/django/comments/1idjm83/help_me_for_the_production_level_nginx)
+ - RSS feed: $source
+ - date published: 2025-01-30T09:54:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>hi, I am about to move to ECS from EBeanstalk..</p> <p>I am not an expert on nginx.. I dont know what to do for the configuration..</p> <p>could you teach me or share some production ready configuration for my django app?</p> <p>thanks..</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SnooCauliflowers8417"> /u/SnooCauliflowers8417 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1idjm83/help_me_for_the_production_level_nginx/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1idjm83/help_me_for_the_production_level_nginx/">[comments]</a></span>
+
+## Need Help
+ - [https://www.reddit.com/r/django/comments/1idgnpo/need_help](https://www.reddit.com/r/django/comments/1idgnpo/need_help)
+ - RSS feed: $source
+ - date published: 2025-01-30T06:29:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey django folks an underdevelopment developer this side. I am going to dive into something lava maybe and I have no idea about how to swim through coz I am very new when it comes to django developement. Here to look for a buddy with great experience who can be my sailor ⛵</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rivotron"> /u/rivotron </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1idgnpo/need_help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1idgnpo/need_help/">[comments]</a></span>
+
+## Hellow
+ - [https://www.reddit.com/r/django/comments/1idcoxv/hellow](https://www.reddit.com/r/django/comments/1idcoxv/hellow)
+ - RSS feed: $source
+ - date published: 2025-01-30T03:05:50+00:00
+
+<!-- SC_OFF --><div class="md"><pre><code>Can someone tell me what is the best route to learn django or the best video to learn?Can someone tell me what is the best route to learn django or the best video to learn? </code></pre> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OddBoot7596"> /u/OddBoot7596 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1idcoxv/hellow/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1idcoxv/hellow/">[comments]</a></span>
+
+## Creative Thoughts for a Model/Form using weight or volume?
+ - [https://www.reddit.com/r/django/comments/1idco85/creative_thoughts_for_a_modelform_using_weight_or](https://www.reddit.com/r/django/comments/1idco85/creative_thoughts_for_a_modelform_using_weight_or)
+ - RSS feed: $source
+ - date published: 2025-01-30T03:04:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone! I&#39;m not much of a developer, though I&#39;ve been coding for years. It seems best-practices and experience aren&#39;t my strong-suit.</p> <p>I have a model that has a field which can be EITHER a weight or a volume. In other words, you can choose X with 25 floz, or you can choose X with 50grams. Right now, the basic form is just showing both, and letting the user choose. It takes up real-estate and it means the user has to make a choice. The other way would be to just force everything to a single field, and figure it out in the logic but make it more complex.</p> <p>What&#39;s your thoughts and experience? Keep it simple but give more choices, or minimalize and push to logic? Or, perhaps there&#39;s a third option I haven&#39;t considered?</p> <p><a href="https://preview.redd.it/a0pha1i8r1ge1.png?width=1676&amp;format=png&amp;auto=webp&amp;s=282d763ca217e16befe6843b31fba686f417af6b">https://preview.redd.it/a0pha1i8r1ge1.png?width=167
+

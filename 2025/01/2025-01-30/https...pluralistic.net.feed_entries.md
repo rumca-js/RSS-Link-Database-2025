@@ -1,0 +1,9 @@
+# Source:Pluralistic: Daily links from Cory Doctorow, URL:https://pluralistic.net/feed, language:en-US
+
+## Pluralistic: Petard (Part I) (30 Jan 2025)
+ - [https://pluralistic.net/2025/01/30/landlord-telco-industrial-complex](https://pluralistic.net/2025/01/30/landlord-telco-industrial-complex)
+ - RSS feed: $source
+ - date published: 2025-01-30T16:02:41+00:00
+
+Today's links Petard (Part I): I fought the ISP and the ISP won. Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Petard (Part I) (permalink) Few things are more wrong than "if you're not paying for the product, you're the product." Companies sell you out when they can, which is why John Deere tractor milks farmers for needless repair callouts and why your iPhone spies on you to provide data to Apple's surveillance advertising service: https://pluralistic.net/2022/11/14/luxury-surveillance/#liar-liar When a vendor abuses you, that's not punishment for you being a cheapskate and wanting to use services for free. Vendors who screw you over do so because they know they can get away with it, because you are locked in and can't shop elsewhere. The 
+
