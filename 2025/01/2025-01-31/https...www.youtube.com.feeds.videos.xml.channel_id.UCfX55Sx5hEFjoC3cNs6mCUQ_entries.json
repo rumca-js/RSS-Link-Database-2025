@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-31T17:01:53+00:00",
+        "description": "Linux Foundation recently announced the launch of LF India, which will focus on promoting open source collaboration, developer training, and supporting India's mission in blockchain, cloud, telecommunications, edge, and AI.\n\nIndia is among the leading contributors to many open-source projects. However, we have yet to see the rise of major open source projects originating from India or Indian companies actively releasing their own code.  This could very well be a cultural phenomenon, but LF India has the potential to be a catalyst for change. With its influence, we may soon start seeing the emergence of major open source projects in some of the emerging fields. \n\nArpit Joshipura, General Manager and SVP at the Linux Foundation, and head of LF India, expects a huge growth in open source development in India over the next five years.\n\nJoshipura says that the first step for LF India is to build awareness and participation, followed by innovative use cases and disruptive technologies. He ",
+        "id": 2014096,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=xaZwqpa_O5U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xaZwqpa_O5U/hqdefault.jpg",
+        "title": "LF India will accelerate the growth of open source culture in the region",
+        "vote": 0
+    }
+]

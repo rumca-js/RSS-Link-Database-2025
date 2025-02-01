@@ -1,0 +1,37 @@
+# Source:Usenet, URL:https://www.reddit.com/r/usenet/.rss, language:en
+
+## Easynews VPN - Who are they reselling for?
+ - [https://www.reddit.com/r/usenet/comments/1iepol0/easynews_vpn_who_are_they_reselling_for](https://www.reddit.com/r/usenet/comments/1iepol0/easynews_vpn_who_are_they_reselling_for)
+ - RSS feed: $source
+ - date published: 2025-01-31T21:20:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I saw EasyNews provides a free VPN, but whats it like? I&#39;m assuming they are using some OEM one with their branding on it but I cant find any info on it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Previous-Foot-9782"> /u/Previous-Foot-9782 </a> <br/> <span><a href="https://www.reddit.com/r/usenet/comments/1iepol0/easynews_vpn_who_are_they_reselling_for/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/usenet/comments/1iepol0/easynews_vpn_who_are_they_reselling_for/">[comments]</a></span>
+
+## Providers map
+ - [https://www.reddit.com/r/usenet/comments/1ieowq2/providers_map](https://www.reddit.com/r/usenet/comments/1ieowq2/providers_map)
+ - RSS feed: $source
+ - date published: 2025-01-31T20:48:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Discover the New Usenet Providers Map</p> <p>We noticed another one was posted earlier, but it was missing some information. This one is the updated version.</p> <p>This has been put together for the community to help you find the best options based on location, retention, and reliability. Whether you’re new to Usenet or a seasoned user, this map makes it easier to compare and choose the right provider for you.</p> <p>Check it out and let us know your thoughts!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dharrx"> /u/dharrx </a> <br/> <span><a href="https://usenetprovidermap.com/NetworkMap.pdf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/usenet/comments/1ieowq2/providers_map/">[comments]</a></span>
+
+## New Usenet Tree
+ - [https://www.reddit.com/r/usenet/comments/1ien4zh/new_usenet_tree](https://www.reddit.com/r/usenet/comments/1ien4zh/new_usenet_tree)
+ - RSS feed: $source
+ - date published: 2025-01-31T19:33:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Dear <a href="/r/usenet">r/usenet</a> community,</p> <p>I just received the information that a <strong>brand-new Usenet Tree</strong> is now live! 🎉</p> <p>Over the past few weeks, a small but dedicated group of individuals has been working tirelessly behind the scenes to make this happen.</p> <p><a href="https://cdn.rexum.space/usenet/Usenet%20Providers%20and%20Backbones%20(Version%202025-01-30">https://cdn.rexum.space/usenet/Usenet%20Providers%20and%20Backbones%20(Version%202025-01-30).svg</a>.svg)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/usenet_information"> /u/usenet_information </a> <br/> <span><a href="https://www.reddit.com/r/usenet/comments/1ien4zh/new_usenet_tree/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/usenet/comments/1ien4zh/new_usenet_tree/">[comments]</a></span>
+
+## nzb360 v20 Released :: Introducing Dashboard 2.0!
+ - [https://www.reddit.com/r/usenet/comments/1ieldge/nzb360_v20_released_introducing_dashboard_20](https://www.reddit.com/r/usenet/comments/1ieldge/nzb360_v20_released_introducing_dashboard_20)
+ - RSS feed: $source
+ - date published: 2025-01-31T18:19:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I am very excited to announce v20 of nzb360!</p> <p>v20 includes the new Dashboard 2.0, allowing you to fully customize the media Dashboard of your dreams, giving you full integration to all of nzb360&#39;s services (full *arrs, universal search, disk space, server issues, full discovery of media, etc.)</p> <p>Check out some screenshots of Dashboard 2 here: <a href="https://imgur.com/a/cEi0CYy">https://imgur.com/a/cEi0CYy</a></p> <p>As always, DB2 is just the beginning, and I&#39;d love to hear your thoughts about how I&#39;ve done with this and future functionality you&#39;d like to see added to DB2.</p> <p>Thank you so much for everyone&#39;s continued support over the past 12 years of nzb360 development. Here is to the next 12 :)</p> <p>Play Store Link: <a href="https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360&amp;hl=en_US">https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360&amp;hl=en_US<
+
+## EasyNews usage question
+ - [https://www.reddit.com/r/usenet/comments/1iehtgc/easynews_usage_question](https://www.reddit.com/r/usenet/comments/1iehtgc/easynews_usage_question)
+ - RSS feed: $source
+ - date published: 2025-01-31T15:51:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently got the 1.99$ a month deal which is supposedly an Unlimited Plan. It should have - Unlimited Usenet Access, Unlimited Speed, 6013+ Days Article Retention, 60 Connections, Unlimited NNTP Access, Free VPN. </p> <p>When I login to my account, it says $1.99 Exclusive Special -2.34 Gigs available</p> <p>The -2.34 Gigs, what does it mean? I didn&#39;t particularly use it a lot, I played a few movies but encountered buffering so spent some time using the port selector tool. I haven&#39;t checked the performance with the new selections based on that tool.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Baba3993"> /u/Baba3993 </a> <br/> <span><a href="https://www.reddit.com/r/usenet/comments/1iehtgc/easynews_usage_question/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/usenet/comments/1iehtgc/easynews_usage_question/">[comments]</a></span>
+

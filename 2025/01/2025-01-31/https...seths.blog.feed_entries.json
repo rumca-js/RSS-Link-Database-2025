@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-31T10:03:00+00:00",
+        "description": "Peter Drucker didn&#8217;t say &#8220;culture eats strategy for breakfast,&#8221; but reality rarely gets in the way of a good quote. But what does it mean? I think what &#8216;not Drucker&#8217; meant was that MBA tactics will always be subverted by the power of systems, and that systems disguise themselves as culture (&#8220;what are things like [&#8230;]",
+        "id": 2011095,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/01/whats-for-breakfast",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "What\u2019s for breakfast?",
+        "vote": 0
+    }
+]

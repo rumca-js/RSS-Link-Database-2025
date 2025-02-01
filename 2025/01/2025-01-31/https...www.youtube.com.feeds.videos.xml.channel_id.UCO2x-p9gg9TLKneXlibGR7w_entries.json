@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-31T16:00:44+00:00",
+        "description": "This clever e-ink dashboard can do anything you want. And boy, will you want it!\nSave $15 on TRMNL (not sponsored, but I get $5 towards buying more TRMNLs): https://usetrmnl.com/?ref=snazzylabs\n\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq  \n\nThis video dives into the TRMNL, an open-source e-ink display perfect for smart homes and productivity enthusiasts. Whether you want a sleek family calendar, real-time analytics, or a custom dashboard, this device does it all. With Apple integration and a variety of community-driven plugins, it\u2019s a versatile gadget that bridges simplicity and functionality. Discover why this e-ink screen is a game-changer for smart home setups, offering endless customization and affordability. From open-source software to smart home compatibility, this is th",
+        "id": 2013837,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=eIcZZX10pa4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eIcZZX10pa4/hqdefault.jpg",
+        "title": "This Open-Source E-Ink Screen Is My Favorite New Gadget",
+        "vote": 0
+    }
+]

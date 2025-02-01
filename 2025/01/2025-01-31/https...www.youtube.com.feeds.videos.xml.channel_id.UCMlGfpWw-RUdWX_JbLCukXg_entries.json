@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-31T15:07:07+00:00",
+        "description": "https://cppcon.org\u200b\nCppCon 2024 Early Access: https://cppcon.org/early-access\nAccess All 2024 Session Videos Ahead of Their Official Release To YouTube. At least 30 days exclusive access through the Early Access system. Videos will be released to the CppCon channel on a schedule of one video per business day, with initial releases starting in November.\n---\n\nISO C++ Standards Committee Panel Discussion 2024 - Hosted by Herb Sutter - CppCon 2024\n\nCommittee Fireside Chat 2024\n---\n\nBring your questions for our annual panel of C++ standards committee members! Here are this year\u2019s panelists, and some of the key current features they\u2019re actively involved with that are aiming for C++26 and other near-future ISO C++ evolution:\n\n- Andrei Alexandrescu (reflection, parallelism)\n- Daisy Hollman (ranges, library)\n- Dietmar K\u00fchl (std::execution, concurrency, parallelism)\n- Gabriel Dos Reis (contracts, type and memory safety)\n- Khalil Estell (making exceptions affordable including in firmware/embedd",
+        "id": 2013316,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=GDpbM90KKbg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GDpbM90KKbg/hqdefault.jpg",
+        "title": "ISO C++ Standards Committee Panel Discussion 2024 - Hosted by Herb Sutter - CppCon 2024",
+        "vote": 0
+    }
+]

@@ -1,0 +1,282 @@
+# Source:World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Trump to ‘absolutely’ impose tariffs on European Union
+ - [https://www.reddit.com/r/worldnews/comments/1ierwf7/trump_to_absolutely_impose_tariffs_on_european](https://www.reddit.com/r/worldnews/comments/1ierwf7/trump_to_absolutely_impose_tariffs_on_european)
+ - RSS feed: $source
+ - date published: 2025-01-31T22:57:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ierwf7/trump_to_absolutely_impose_tariffs_on_european/"> <img src="https://external-preview.redd.it/TrHWfaSttjguDGqE8J_QiiGfibnB4LG7aXXXIzXGtzo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=81aeb67a96a82b0b2958221cbe106b2c375e3982" alt="Trump to ‘absolutely’ impose tariffs on European Union" title="Trump to ‘absolutely’ impose tariffs on European Union" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MothersMiIk"> /u/MothersMiIk </a> <br/> <span><a href="https://www.turkiyetoday.com/world/trump-to-absolutely-impose-tariffs-on-european-union-113536/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ierwf7/trump_to_absolutely_impose_tariffs_on_european/">[comments]</a></span> </td></tr></table>
+
+## Iran warns: Attacking our nuclear sites would lead to an 'all out war'
+ - [https://www.reddit.com/r/worldnews/comments/1ieq0sq/iran_warns_attacking_our_nuclear_sites_would_lead](https://www.reddit.com/r/worldnews/comments/1ieq0sq/iran_warns_attacking_our_nuclear_sites_would_lead)
+ - RSS feed: $source
+ - date published: 2025-01-31T21:35:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ieq0sq/iran_warns_attacking_our_nuclear_sites_would_lead/"> <img src="https://external-preview.redd.it/Z00MxYBmtD3e4goOyde-H6k8dpFm426vFant3OhoGH0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a700f103c09b884f4e46b048d1854e72d278850f" alt="Iran warns: Attacking our nuclear sites would lead to an 'all out war'" title="Iran warns: Attacking our nuclear sites would lead to an 'all out war'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ask4MD"> /u/Ask4MD </a> <br/> <span><a href="https://www.ynetnews.com/article/byn1jqqu1x">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ieq0sq/iran_warns_attacking_our_nuclear_sites_would_lead/">[comments]</a></span> </td></tr></table>
+
+## German authorities ‘well prepared’ for social media election interference
+ - [https://www.reddit.com/r/worldnews/comments/1iep4u7/german_authorities_well_prepared_for_social_media](https://www.reddit.com/r/worldnews/comments/1iep4u7/german_authorities_well_prepared_for_social_media)
+ - RSS feed: $source
+ - date published: 2025-01-31T20:58:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iep4u7/german_authorities_well_prepared_for_social_media/"> <img src="https://external-preview.redd.it/k6oh92KVc0X859_jlzU45hMtYsLOwGVDlRGkMREf2F8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=78cd47de4a3b440a97c6e42e6f712c47a859f98f" alt="German authorities ‘well prepared’ for social media election interference" title="German authorities ‘well prepared’ for social media election interference" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/doopityWoop22"> /u/doopityWoop22 </a> <br/> <span><a href="https://www.politico.eu/article/german-authorities-prepared-social-media-election-interference-tiktok-meta-x/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iep4u7/german_authorities_well_prepared_for_social_media/">[comments]</a></span> </td></tr></table>
+
+## North Koreans fake tuberculosis to avoid military deployment to Russia war
+ - [https://www.reddit.com/r/worldnews/comments/1ieo5rn/north_koreans_fake_tuberculosis_to_avoid_military](https://www.reddit.com/r/worldnews/comments/1ieo5rn/north_koreans_fake_tuberculosis_to_avoid_military)
+ - RSS feed: $source
+ - date published: 2025-01-31T20:16:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ieo5rn/north_koreans_fake_tuberculosis_to_avoid_military/"> <img src="https://external-preview.redd.it/IOsGEuBsIyxdyyqVDwvnlT0ejGmKgszY5hGjZoyWVAs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd6473cb856c28c02ec5b2f44ef140a99ac79377" alt="North Koreans fake tuberculosis to avoid military deployment to Russia war" title="North Koreans fake tuberculosis to avoid military deployment to Russia war" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ecstatic-Medium-6320"> /u/Ecstatic-Medium-6320 </a> <br/> <span><a href="https://www.newsweek.com/north-korea-conscripts-fake-tuberculosis-military-russia-ukraine-war-2023982">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ieo5rn/north_koreans_fake_tuberculosis_to_avoid_military/">[comments]</a></span> </td></tr></table>
+
+## Netherlands to send more F-16s in 2025, Ukrainian defense minister says
+ - [https://www.reddit.com/r/worldnews/comments/1ienykp/netherlands_to_send_more_f16s_in_2025_ukrainian](https://www.reddit.com/r/worldnews/comments/1ienykp/netherlands_to_send_more_f16s_in_2025_ukrainian)
+ - RSS feed: $source
+ - date published: 2025-01-31T20:07:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ienykp/netherlands_to_send_more_f16s_in_2025_ukrainian/"> <img src="https://external-preview.redd.it/kJTWTIYzsMcul9zGFitGnXBClUo0yxiajQIfo1nmh04.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=154727c5d1b91ff902a7504f0c3b1c72cd946d6b" alt="Netherlands to send more F-16s in 2025, Ukrainian defense minister says" title="Netherlands to send more F-16s in 2025, Ukrainian defense minister says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdSpecialist6598"> /u/AdSpecialist6598 </a> <br/> <span><a href="https://kyivindependent.com/ukraine-to-receive-new-batch-of-f-16-batch/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ienykp/netherlands_to_send_more_f16s_in_2025_ukrainian/">[comments]</a></span> </td></tr></table>
+
+## White House denies Canada, Mexico tariffs postponed to March
+ - [https://www.reddit.com/r/worldnews/comments/1iemuzd/white_house_denies_canada_mexico_tariffs](https://www.reddit.com/r/worldnews/comments/1iemuzd/white_house_denies_canada_mexico_tariffs)
+ - RSS feed: $source
+ - date published: 2025-01-31T19:21:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iemuzd/white_house_denies_canada_mexico_tariffs/"> <img src="https://external-preview.redd.it/LdCmQ7sSad-D1slJFff-BwWi3HjTLEFpGPewfeC4Wlg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c90bfb8dabf915ff8c326dcc271cbf5c77c806d" alt="White House denies Canada, Mexico tariffs postponed to March" title="White House denies Canada, Mexico tariffs postponed to March" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JadedLeafs"> /u/JadedLeafs </a> <br/> <span><a href="https://www.axios.com/2025/01/31/trump-tariffs-canada-mexico-feb-1-march-1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iemuzd/white_house_denies_canada_mexico_tariffs/">[comments]</a></span> </td></tr></table>
+
+## Trump tariffs on Canada, Mexico and China begin Saturday, White House says
+ - [https://www.reddit.com/r/worldnews/comments/1iem2s4/trump_tariffs_on_canada_mexico_and_china_begin](https://www.reddit.com/r/worldnews/comments/1iem2s4/trump_tariffs_on_canada_mexico_and_china_begin)
+ - RSS feed: $source
+ - date published: 2025-01-31T18:48:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iem2s4/trump_tariffs_on_canada_mexico_and_china_begin/"> <img src="https://external-preview.redd.it/-sE-2HDWOo8-4qUS5W8PX70trDXsoud9gDCTI_4IVu0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c8689ddc09abd0ad924a77c9ee5e810dcd834f59" alt="Trump tariffs on Canada, Mexico and China begin Saturday, White House says" title="Trump tariffs on Canada, Mexico and China begin Saturday, White House says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FiIQ"> /u/FiIQ </a> <br/> <span><a href="https://www.cnbc.com/2025/01/31/trump-tariffs-on-canada-mexico-and-china-begin-saturday-white-house-says.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iem2s4/trump_tariffs_on_canada_mexico_and_china_begin/">[comments]</a></span> </td></tr></table>
+
+## Norway Seizes Russian-Crewed Ship Over Suspected Cable Damage
+ - [https://www.reddit.com/r/worldnews/comments/1iel4c8/norway_seizes_russiancrewed_ship_over_suspected](https://www.reddit.com/r/worldnews/comments/1iel4c8/norway_seizes_russiancrewed_ship_over_suspected)
+ - RSS feed: $source
+ - date published: 2025-01-31T18:09:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iel4c8/norway_seizes_russiancrewed_ship_over_suspected/"> <img src="https://external-preview.redd.it/bgvNJcmwaJQO_VvkoVpcCFg5A9l5bJ8GIM1K3AERCuU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec7d1a5730006aa2ff4c3049d7d503b43a3c3d81" alt="Norway Seizes Russian-Crewed Ship Over Suspected Cable Damage" title="Norway Seizes Russian-Crewed Ship Over Suspected Cable Damage" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/4920185"> /u/4920185 </a> <br/> <span><a href="https://www.themoscowtimes.com/2025/01/31/norway-seizes-russian-crewed-ship-over-suspected-cable-damage-a87817">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iel4c8/norway_seizes_russiancrewed_ship_over_suspected/">[comments]</a></span> </td></tr></table>
+
+## Trudeau says Canada would respond to tariffs, warns of tough times to come
+ - [https://www.reddit.com/r/worldnews/comments/1iekkxa/trudeau_says_canada_would_respond_to_tariffs](https://www.reddit.com/r/worldnews/comments/1iekkxa/trudeau_says_canada_would_respond_to_tariffs)
+ - RSS feed: $source
+ - date published: 2025-01-31T17:47:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iekkxa/trudeau_says_canada_would_respond_to_tariffs/"> <img src="https://external-preview.redd.it/zM6XVoFaU0tSoiMxOVCkDoUXEAVKx02S4jMeTds2aoM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f80324901b148e4ab34b197e50e2126f9e3ca72e" alt="Trudeau says Canada would respond to tariffs, warns of tough times to come" title="Trudeau says Canada would respond to tariffs, warns of tough times to come" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Embire"> /u/Embire </a> <br/> <span><a href="https://www.reuters.com/world/americas/trudeau-says-canada-would-respond-immediately-any-us-tariffs-2025-01-31/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iekkxa/trudeau_says_canada_would_respond_to_tariffs/">[comments]</a></span> </td></tr></table>
+
+## Trump delays decision to impose tariffs on Mexico, Canada until March 1
+ - [https://www.reddit.com/r/worldnews/comments/1iejz0o/trump_delays_decision_to_impose_tariffs_on_mexico](https://www.reddit.com/r/worldnews/comments/1iejz0o/trump_delays_decision_to_impose_tariffs_on_mexico)
+ - RSS feed: $source
+ - date published: 2025-01-31T17:22:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iejz0o/trump_delays_decision_to_impose_tariffs_on_mexico/"> <img src="https://external-preview.redd.it/5SK9-NpVtH-Sysxp_TCtzWOoHmETBgJw4GVgZA5nGMY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4745876b96a7db6343b18c0ba82af1623ff8abec" alt="Trump delays decision to impose tariffs on Mexico, Canada until March 1" title="Trump delays decision to impose tariffs on Mexico, Canada until March 1" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/s1n0d3utscht3k"> /u/s1n0d3utscht3k </a> <br/> <span><a href="https://www.reuters.com/world/trump-set-impose-tariffs-mexico-canada-starting-march-1-sources-say-2025-01-31/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iejz0o/trump_delays_decision_to_impose_tariffs_on_mexico/">[comments]</a></span> </td></tr></table>
+
+## Nearly half of Danes see US as threat and 78% oppose Greenland sale, poll shows
+ - [https://www.reddit.com/r/worldnews/comments/1ieili2/nearly_half_of_danes_see_us_as_threat_and_78](https://www.reddit.com/r/worldnews/comments/1ieili2/nearly_half_of_danes_see_us_as_threat_and_78)
+ - RSS feed: $source
+ - date published: 2025-01-31T16:24:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ieili2/nearly_half_of_danes_see_us_as_threat_and_78/"> <img src="https://external-preview.redd.it/1h0GAtgOLRKqur_mqbfKzNgalCbdGBX5UVDd5LxsxYs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c800e194b43fc3ab2e209f827ad3c263c1b528aa" alt="Nearly half of Danes see US as threat and 78% oppose Greenland sale, poll shows" title="Nearly half of Danes see US as threat and 78% oppose Greenland sale, poll shows" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Infidel8"> /u/Infidel8 </a> <br/> <span><a href="https://www.theguardian.com/world/2025/jan/31/nearly-half-of-danes-see-us-as-threat-and-78-oppose-greenland-sale-poll-shows">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ieili2/nearly_half_of_danes_see_us_as_threat_and_78/">[comments]</a></span> </td></tr></table>
+
+## Emily Damari, an Israeli hostage for a year and a half, was held in UNRWA facilities
+ - [https://www.reddit.com/r/worldnews/comments/1iei7d2/emily_damari_an_israeli_hostage_for_a_year_and_a](https://www.reddit.com/r/worldnews/comments/1iei7d2/emily_damari_an_israeli_hostage_for_a_year_and_a)
+ - RSS feed: $source
+ - date published: 2025-01-31T16:07:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iei7d2/emily_damari_an_israeli_hostage_for_a_year_and_a/"> <img src="https://external-preview.redd.it/5clI_ble1uTDLM_bu7RtcoEf3NSmKe8lkiwvEjrKUxE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8b55850b04e6887716f892a95b1046b90dd1b373" alt="Emily Damari, an Israeli hostage for a year and a half, was held in UNRWA facilities" title="Emily Damari, an Israeli hostage for a year and a half, was held in UNRWA facilities" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UpwardSpiralTime"> /u/UpwardSpiralTime </a> <br/> <span><a href="https://www.ynetnews.com/article/skgg2v9ukx">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iei7d2/emily_damari_an_israeli_hostage_for_a_year_and_a/">[comments]</a></span> </td></tr></table>
+
+## Ukraine to receive US$2.5 billion from UK for air defence
+ - [https://www.reddit.com/r/worldnews/comments/1ieht2a/ukraine_to_receive_us25_billion_from_uk_for_air](https://www.reddit.com/r/worldnews/comments/1ieht2a/ukraine_to_receive_us25_billion_from_uk_for_air)
+ - RSS feed: $source
+ - date published: 2025-01-31T15:51:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ieht2a/ukraine_to_receive_us25_billion_from_uk_for_air/"> <img src="https://external-preview.redd.it/tWDYu_GF1Dj77MQt-ixzwscrI2tTe1e551Yc1axysv0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=90535d3418f816a150fc074274d0d897c1ab7eec" alt="Ukraine to receive US$2.5 billion from UK for air defence" title="Ukraine to receive US$2.5 billion from UK for air defence" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://www.pravda.com.ua/eng/news/2025/01/31/7496163/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ieht2a/ukraine_to_receive_us25_billion_from_uk_for_air/">[comments]</a></span> </td></tr></table>
+
+## Nicaragua amends constitution, grants 'absolute power' to president and his wife
+ - [https://www.reddit.com/r/worldnews/comments/1ieh4td/nicaragua_amends_constitution_grants_absolute](https://www.reddit.com/r/worldnews/comments/1ieh4td/nicaragua_amends_constitution_grants_absolute)
+ - RSS feed: $source
+ - date published: 2025-01-31T15:21:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ieh4td/nicaragua_amends_constitution_grants_absolute/"> <img src="https://external-preview.redd.it/_nKvG3fhFXbKEEVc7FpyEU6BU1ljMfcyjs9ixcDCrFI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=095afc7573c2cd09fb97ba0edd6f0edecdfb5ad3" alt="Nicaragua amends constitution, grants 'absolute power' to president and his wife" title="Nicaragua amends constitution, grants 'absolute power' to president and his wife" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thegoodsamuraii"> /u/thegoodsamuraii </a> <br/> <span><a href="https://uk.news.yahoo.com/nicaragua-legislature-cements-absolute-power-010710253.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAACPWQLA5bQW2EWYQarFe27Az6wM2hlvD22PY8RAaVrORPWxYF4VgHhP3bKbo9io3N1mOyrHsSU75oWyfzIvVckCuHtIMUaKcF73r95eYJbz_biQH-fwUhYHb79OsfsGb-nIhtsJaBA-VtXtROqsgfbNxD04WeMTWhtYngzsgBh69">[link]</a></span> &#32; <
+
+## German politicians signal to Syrian asylum seekers: It’s time to go home
+ - [https://www.reddit.com/r/worldnews/comments/1iegy3j/german_politicians_signal_to_syrian_asylum](https://www.reddit.com/r/worldnews/comments/1iegy3j/german_politicians_signal_to_syrian_asylum)
+ - RSS feed: $source
+ - date published: 2025-01-31T15:12:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iegy3j/german_politicians_signal_to_syrian_asylum/"> <img src="https://external-preview.redd.it/wcmfUIP_LV-bvRS45pif4vT3_BoeumCgKzC2dzUIGpE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8526b09ea8e0641a778eeef9276836951000d4f" alt="German politicians signal to Syrian asylum seekers: It’s time to go home" title="German politicians signal to Syrian asylum seekers: It’s time to go home" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/washingtonpost"> /u/washingtonpost </a> <br/> <span><a href="https://www.washingtonpost.com/world/2025/01/31/germany-migration-deportations-syrians/?utm_campaign=wp_main&amp;utm_medium=social&amp;utm_source=reddit.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iegy3j/german_politicians_signal_to_syrian_asylum/">[comments]</a></span> </td></tr></table>
+
+## Outrage as leading Romanian presidential candidate calls Ukraine ‘a fictional state’
+ - [https://www.reddit.com/r/worldnews/comments/1iefq37/outrage_as_leading_romanian_presidential](https://www.reddit.com/r/worldnews/comments/1iefq37/outrage_as_leading_romanian_presidential)
+ - RSS feed: $source
+ - date published: 2025-01-31T14:15:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iefq37/outrage_as_leading_romanian_presidential/"> <img src="https://external-preview.redd.it/l1fqHIb7rtoZ0HCW0lLqPnwsfjpymDuym5wn__eMydg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c6368438eb6362919a3638245bf79a38feb2904f" alt="Outrage as leading Romanian presidential candidate calls Ukraine ‘a fictional state’" title="Outrage as leading Romanian presidential candidate calls Ukraine ‘a fictional state’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shellfishb"> /u/shellfishb </a> <br/> <span><a href="https://novayagazeta.eu/articles/2025/01/31/outrage-as-leading-romanian-presidential-candidate-calls-ukraine-a-fictional-state-en-news">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iefq37/outrage_as_leading_romanian_presidential/">[comments]</a></span> </td></tr></table>
+
+## Ukrainian drones strike 'one of 10 largest oil refineries in Russia,' military says
+ - [https://www.reddit.com/r/worldnews/comments/1iefhe2/ukrainian_drones_strike_one_of_10_largest_oil](https://www.reddit.com/r/worldnews/comments/1iefhe2/ukrainian_drones_strike_one_of_10_largest_oil)
+ - RSS feed: $source
+ - date published: 2025-01-31T14:03:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iefhe2/ukrainian_drones_strike_one_of_10_largest_oil/"> <img src="https://external-preview.redd.it/pdkSxkfg2Iu3_xzl5Wk4nfvtj0aBW2qXzZT6bU4fYo4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3ff03679266a40214a03fb14d9a4e0101d2a5cd4" alt="Ukrainian drones strike 'one of 10 largest oil refineries in Russia,' military says" title="Ukrainian drones strike 'one of 10 largest oil refineries in Russia,' military says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdSpecialist6598"> /u/AdSpecialist6598 </a> <br/> <span><a href="https://kyivindependent.com/ukrainian-drones-strike-russian-oil-refinery-in-volgograd-oblast-targeting-lukoil-facility/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iefhe2/ukrainian_drones_strike_one_of_10_largest_oil/">[comments]</a></span> </td></tr></table>
+
+## Norway Seizes Russian-Crewed Ship Suspected of Cutting an Undersea Cable. The authorities said they believed the vessel may have been involved in damaging the cable, the latest act of apparent sabotage in the Baltic Sea.
+ - [https://www.reddit.com/r/worldnews/comments/1iefb4e/norway_seizes_russiancrewed_ship_suspected_of](https://www.reddit.com/r/worldnews/comments/1iefb4e/norway_seizes_russiancrewed_ship_suspected_of)
+ - RSS feed: $source
+ - date published: 2025-01-31T13:55:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iefb4e/norway_seizes_russiancrewed_ship_suspected_of/"> <img src="https://external-preview.redd.it/1Us-Xl7zZbC6BeD5gEuJabFWnl4uwIs9egrBwsWChpE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d606f728a67d43831977a6ed1d60c0a6b1952bc3" alt="Norway Seizes Russian-Crewed Ship Suspected of Cutting an Undersea Cable. The authorities said they believed the vessel may have been involved in damaging the cable, the latest act of apparent sabotage in the Baltic Sea." title="Norway Seizes Russian-Crewed Ship Suspected of Cutting an Undersea Cable. The authorities said they believed the vessel may have been involved in damaging the cable, the latest act of apparent sabotage in the Baltic Sea." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mkbt"> /u/mkbt </a> <br/> <span><a href="https://www.nytimes.com/2025/01/31/world/europe/norway-russia-ship-baltic-undersea-cable.html">[link]</a></span> &#3
+
+## Second ship seized in Baltic Sea cable damage investigation
+ - [https://www.reddit.com/r/worldnews/comments/1ieermi/second_ship_seized_in_baltic_sea_cable_damage](https://www.reddit.com/r/worldnews/comments/1ieermi/second_ship_seized_in_baltic_sea_cable_damage)
+ - RSS feed: $source
+ - date published: 2025-01-31T13:28:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ieermi/second_ship_seized_in_baltic_sea_cable_damage/"> <img src="https://external-preview.redd.it/h_Nnf9fKzdg7MyMn9ApmKB4v6s8hq9j9QBziAUVAhb8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b4b926898ed47e5e832947f065299c2933289a8" alt="Second ship seized in Baltic Sea cable damage investigation" title="Second ship seized in Baltic Sea cable damage investigation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheArcticBeyond"> /u/TheArcticBeyond </a> <br/> <span><a href="https://www.reuters.com/world/europe/norway-police-arrest-ship-suspicion-baltic-sea-cable-damage-2025-01-31/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ieermi/second_ship_seized_in_baltic_sea_cable_damage/">[comments]</a></span> </td></tr></table>
+
+## Polish presidential candidate slams rival for silence on Musk’s remarks at German far-right rally
+ - [https://www.reddit.com/r/worldnews/comments/1iedqh1/polish_presidential_candidate_slams_rival_for](https://www.reddit.com/r/worldnews/comments/1iedqh1/polish_presidential_candidate_slams_rival_for)
+ - RSS feed: $source
+ - date published: 2025-01-31T12:32:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iedqh1/polish_presidential_candidate_slams_rival_for/"> <img src="https://external-preview.redd.it/w6Nfe5S0hNds0x5sH4cFKP-p8EQbJkP1UVA51umA3co.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e3b1bf4772029ec1a1c139323b5df6c3e5e3a47" alt="Polish presidential candidate slams rival for silence on Musk’s remarks at German far-right rally" title="Polish presidential candidate slams rival for silence on Musk’s remarks at German far-right rally" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BubsyFanboy"> /u/BubsyFanboy </a> <br/> <span><a href="https://www.polskieradio.pl/395/7784/Artykul/3476673,polish-presidential-candidate-slams-rival-for-silence-on-musk%E2%80%99s%C2%A0remarks-at-german-farright-rally">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iedqh1/polish_presidential_candidate_slams_rival_for/">[comments]</a></span> </td></tr></table>
+
+## North Korean Troops No Longer Seen on Front Lines Fighting Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1iedf3f/north_korean_troops_no_longer_seen_on_front_lines](https://www.reddit.com/r/worldnews/comments/1iedf3f/north_korean_troops_no_longer_seen_on_front_lines)
+ - RSS feed: $source
+ - date published: 2025-01-31T12:13:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iedf3f/north_korean_troops_no_longer_seen_on_front_lines/"> <img src="https://external-preview.redd.it/RECOhqDopD51jVGGfzQPOkDsAQsKL3NlCNxqyZpV1BU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=66a0b0cfc63f8a605728f3dc3bcf152841347311" alt="North Korean Troops No Longer Seen on Front Lines Fighting Ukraine" title="North Korean Troops No Longer Seen on Front Lines Fighting Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ilikemovies1"> /u/Ilikemovies1 </a> <br/> <span><a href="https://www.nytimes.com/2025/01/30/world/europe/north-korea-troops-ukraine-russia.html?smid=re-share">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iedf3f/north_korean_troops_no_longer_seen_on_front_lines/">[comments]</a></span> </td></tr></table>
+
+## Russia condemns Trump missile defence shield plan, accuses US of plotting to militarise space
+ - [https://www.reddit.com/r/worldnews/comments/1iecf35/russia_condemns_trump_missile_defence_shield_plan](https://www.reddit.com/r/worldnews/comments/1iecf35/russia_condemns_trump_missile_defence_shield_plan)
+ - RSS feed: $source
+ - date published: 2025-01-31T11:09:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iecf35/russia_condemns_trump_missile_defence_shield_plan/"> <img src="https://external-preview.redd.it/_VskO_vdd1PZKLxaj_BlxwqsBoWuXJSkOEt9OEuSPag.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0497a3158633262abc59875fee045bbe3a5dc54b" alt="Russia condemns Trump missile defence shield plan, accuses US of plotting to militarise space" title="Russia condemns Trump missile defence shield plan, accuses US of plotting to militarise space" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Advanced_Drink_8536"> /u/Advanced_Drink_8536 </a> <br/> <span><a href="https://www.reuters.com/world/russia-condemns-trump-missile-defence-shield-plan-accuses-us-plotting-militarise-2025-01-31/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iecf35/russia_condemns_trump_missile_defence_shield_plan/">[comments]</a></span> </td></tr></table>
+
+## Syria's new rebel leader pledges to form an inclusive government
+ - [https://www.reddit.com/r/worldnews/comments/1iec7rv/syrias_new_rebel_leader_pledges_to_form_an](https://www.reddit.com/r/worldnews/comments/1iec7rv/syrias_new_rebel_leader_pledges_to_form_an)
+ - RSS feed: $source
+ - date published: 2025-01-31T10:55:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iec7rv/syrias_new_rebel_leader_pledges_to_form_an/"> <img src="https://external-preview.redd.it/cB8Q_3Wua96Dk2bTq8NrehCd7LjOK3wd2hM1SgHmShQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a16b9e7aaf89dc69e4300e6c2aadc06c9dc4568c" alt="Syria's new rebel leader pledges to form an inclusive government" title="Syria's new rebel leader pledges to form an inclusive government" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br/> <span><a href="https://www.nbcnews.com/news/world/syrias-new-rebel-leader-pledges-form-inclusive-government-rcna190127">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iec7rv/syrias_new_rebel_leader_pledges_to_form_an/">[comments]</a></span> </td></tr></table>
+
+## Trump faces new battleground in Latin America with China and Russia
+ - [https://www.reddit.com/r/worldnews/comments/1iebqjm/trump_faces_new_battleground_in_latin_america](https://www.reddit.com/r/worldnews/comments/1iebqjm/trump_faces_new_battleground_in_latin_america)
+ - RSS feed: $source
+ - date published: 2025-01-31T10:19:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iebqjm/trump_faces_new_battleground_in_latin_america/"> <img src="https://external-preview.redd.it/chs3sjMRBg2tewBuF8WiIhdvDAozsPQR_hV4jOA6q70.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e44fdcc21e6af1e739d530da77a7a5644a0d862" alt="Trump faces new battleground in Latin America with China and Russia" title="Trump faces new battleground in Latin America with China and Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br/> <span><a href="https://www.newsweek.com/donald-trump-latin-america-china-russia-iran-2023448">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iebqjm/trump_faces_new_battleground_in_latin_america/">[comments]</a></span> </td></tr></table>
+
+## Nearly half of Danes see US as threat and 78% oppose Greenland sale, poll shows
+ - [https://www.reddit.com/r/worldnews/comments/1iebeqp/nearly_half_of_danes_see_us_as_threat_and_78](https://www.reddit.com/r/worldnews/comments/1iebeqp/nearly_half_of_danes_see_us_as_threat_and_78)
+ - RSS feed: $source
+ - date published: 2025-01-31T09:55:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iebeqp/nearly_half_of_danes_see_us_as_threat_and_78/"> <img src="https://external-preview.redd.it/1h0GAtgOLRKqur_mqbfKzNgalCbdGBX5UVDd5LxsxYs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c800e194b43fc3ab2e209f827ad3c263c1b528aa" alt="Nearly half of Danes see US as threat and 78% oppose Greenland sale, poll shows" title="Nearly half of Danes see US as threat and 78% oppose Greenland sale, poll shows" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Street_Anon"> /u/Street_Anon </a> <br/> <span><a href="https://www.theguardian.com/world/2025/jan/31/nearly-half-of-danes-see-us-as-threat-and-78-oppose-greenland-sale-poll-shows">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iebeqp/nearly_half_of_danes_see_us_as_threat_and_78/">[comments]</a></span> </td></tr></table>
+
+## Far-right AfD's win on asylum vote rocks German parliament
+ - [https://www.reddit.com/r/worldnews/comments/1ieb2av/farright_afds_win_on_asylum_vote_rocks_german](https://www.reddit.com/r/worldnews/comments/1ieb2av/farright_afds_win_on_asylum_vote_rocks_german)
+ - RSS feed: $source
+ - date published: 2025-01-31T09:27:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ieb2av/farright_afds_win_on_asylum_vote_rocks_german/"> <img src="https://external-preview.redd.it/EwvWnXr7ckE4XKvToImlpT1_6L9D0IXIJ-GYKG-dKts.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7049b9285c230cbfa2e16218e06f6e238cc62ddb" alt="Far-right AfD's win on asylum vote rocks German parliament" title="Far-right AfD's win on asylum vote rocks German parliament" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheCatInTheHatThings"> /u/TheCatInTheHatThings </a> <br/> <span><a href="https://www.bbc.com/news/articles/ceq901dxjnzo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ieb2av/farright_afds_win_on_asylum_vote_rocks_german/">[comments]</a></span> </td></tr></table>
+
+## Germany: Angela Merkel chides own party over far-right help
+ - [https://www.reddit.com/r/worldnews/comments/1ieb0sc/germany_angela_merkel_chides_own_party_over](https://www.reddit.com/r/worldnews/comments/1ieb0sc/germany_angela_merkel_chides_own_party_over)
+ - RSS feed: $source
+ - date published: 2025-01-31T09:24:16+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/TheCatInTheHatThings"> /u/TheCatInTheHatThings </a> <br/> <span><a href="https://www.dw.com/en/merkel-slams-cdu-migration-far-right-support/a-71454687">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ieb0sc/germany_angela_merkel_chides_own_party_over/">[comments]</a></span>
+
+## China building world's largest military command centre to protect leaders in case of nuclear war
+ - [https://www.reddit.com/r/worldnews/comments/1ieawz8/china_building_worlds_largest_military_command](https://www.reddit.com/r/worldnews/comments/1ieawz8/china_building_worlds_largest_military_command)
+ - RSS feed: $source
+ - date published: 2025-01-31T09:15:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ieawz8/china_building_worlds_largest_military_command/"> <img src="https://external-preview.redd.it/0wOMLnrJ00sLQkx7AymgVdmhFReCfd7mwnq4Ri8QOHQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae1b86a67397c8d64aeed463ee1f1f24f0c255d5" alt="China building world's largest military command centre to protect leaders in case of nuclear war" title="China building world's largest military command centre to protect leaders in case of nuclear war" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br/> <span><a href="https://www.telegraph.co.uk/world-news/2025/01/31/china-building-largest-military-command-centre-in-world/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ieawz8/china_building_worlds_largest_military_command/">[comments]</a></span> </td></tr></table>
+
+## Ukrainian Soldier Survives 80 Horrifying Days On Front Lines
+ - [https://www.reddit.com/r/worldnews/comments/1ieauja/ukrainian_soldier_survives_80_horrifying_days_on](https://www.reddit.com/r/worldnews/comments/1ieauja/ukrainian_soldier_survives_80_horrifying_days_on)
+ - RSS feed: $source
+ - date published: 2025-01-31T09:10:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ieauja/ukrainian_soldier_survives_80_horrifying_days_on/"> <img src="https://external-preview.redd.it/eS-oCosZlInm-LQ5lr_MgYiKnoI7V05kGyPK3bBWIrQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e36439c8eec574c60ae81bbf27a31f112c641d4" alt="Ukrainian Soldier Survives 80 Horrifying Days On Front Lines" title="Ukrainian Soldier Survives 80 Horrifying Days On Front Lines" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eaglemaxie"> /u/eaglemaxie </a> <br/> <span><a href="https://www.rferl.org/a/ukraine-war-survival-donetsk-stranded/33298103.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ieauja/ukrainian_soldier_survives_80_horrifying_days_on/">[comments]</a></span> </td></tr></table>
+
+## Panama’s president ahead of Rubio’s visit: ‘I cannot negotiate’ on the canal
+ - [https://www.reddit.com/r/worldnews/comments/1iea9sq/panamas_president_ahead_of_rubios_visit_i_cannot](https://www.reddit.com/r/worldnews/comments/1iea9sq/panamas_president_ahead_of_rubios_visit_i_cannot)
+ - RSS feed: $source
+ - date published: 2025-01-31T08:24:19+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/doopityWoop22"> /u/doopityWoop22 </a> <br/> <span><a href="https://www.politico.com/news/2025/01/30/panama-president-rubio-canal-trump-009037">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iea9sq/panamas_president_ahead_of_rubios_visit_i_cannot/">[comments]</a></span>
+
+## Philippines arrests five more Chinese spies amid rising tensions in South China Sea
+ - [https://www.reddit.com/r/worldnews/comments/1iea7i9/philippines_arrests_five_more_chinese_spies_amid](https://www.reddit.com/r/worldnews/comments/1iea7i9/philippines_arrests_five_more_chinese_spies_amid)
+ - RSS feed: $source
+ - date published: 2025-01-31T08:19:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iea7i9/philippines_arrests_five_more_chinese_spies_amid/"> <img src="https://external-preview.redd.it/U7S3Oz7rYCYsUJVPxt4I1irttORLkasVTDTLmQqbp6Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5363f5246f10de74786b117be36d1ec5d4d02e33" alt="Philippines arrests five more Chinese spies amid rising tensions in South China Sea" title="Philippines arrests five more Chinese spies amid rising tensions in South China Sea" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thegoodsamuraii"> /u/thegoodsamuraii </a> <br/> <span><a href="https://www.firstpost.com/world/philippines-arrests-five-more-chinese-spies-amid-rising-tensions-in-south-china-sea-13857827.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iea7i9/philippines_arrests_five_more_chinese_spies_amid/">[comments]</a></span> </td></tr></table>
+
+## 'Find another sucker': Trump's 100% tariff threat to BRICS members, including India
+ - [https://www.reddit.com/r/worldnews/comments/1ie97mg/find_another_sucker_trumps_100_tariff_threat_to](https://www.reddit.com/r/worldnews/comments/1ie97mg/find_another_sucker_trumps_100_tariff_threat_to)
+ - RSS feed: $source
+ - date published: 2025-01-31T07:04:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ie97mg/find_another_sucker_trumps_100_tariff_threat_to/"> <img src="https://external-preview.redd.it/qaQGCg1vmMWR57j6VtcM9PyHeArWvwUwHJXGaoVgyYQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1bfb324f5a4d752c36305f335abb75ee3f4a7d41" alt="'Find another sucker': Trump's 100% tariff threat to BRICS members, including India" title="'Find another sucker': Trump's 100% tariff threat to BRICS members, including India" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RGV_KJ"> /u/RGV_KJ </a> <br/> <span><a href="https://www.hindustantimes.com/world-news/us-news/replace-dollar-face-100-tariff-donald-trumps-threat-to-members-of-brics-which-includes-india-101738293018060.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ie97mg/find_another_sucker_trumps_100_tariff_threat_to/">[comments]</a></span> </td></tr></table>
+
+## Russia is deliberately launching attack drones at residential buildings in Ukrainian cities
+ - [https://www.reddit.com/r/worldnews/comments/1ie8jb7/russia_is_deliberately_launching_attack_drones_at](https://www.reddit.com/r/worldnews/comments/1ie8jb7/russia_is_deliberately_launching_attack_drones_at)
+ - RSS feed: $source
+ - date published: 2025-01-31T06:16:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ie8jb7/russia_is_deliberately_launching_attack_drones_at/"> <img src="https://external-preview.redd.it/8ksu-RWkkGd8nBGAzC6Vf3tPs8b9EED9CG1Af-5x0Kw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f54912845f4f3a710a7dea25072cdba449e3dc32" alt="Russia is deliberately launching attack drones at residential buildings in Ukrainian cities" title="Russia is deliberately launching attack drones at residential buildings in Ukrainian cities" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mamafihin0kcui"> /u/mamafihin0kcui </a> <br/> <span><a href="https://www.voanews.com/a/zelenskyy-condemns-russian-strike-that-killed-9-as-terrible-tragedy-/7957549.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ie8jb7/russia_is_deliberately_launching_attack_drones_at/">[comments]</a></span> </td></tr></table>
+
+## russia blocked 417000 websites in 2024, media reports
+ - [https://www.reddit.com/r/worldnews/comments/1ie7iak/russia_blocked_417000_websites_in_2024_media](https://www.reddit.com/r/worldnews/comments/1ie7iak/russia_blocked_417000_websites_in_2024_media)
+ - RSS feed: $source
+ - date published: 2025-01-31T05:11:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ie7iak/russia_blocked_417000_websites_in_2024_media/"> <img src="https://external-preview.redd.it/ZI9HJcwHHOWfg3BNOAP-dxa-w7lX0CmSL9ttm0lDD5I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2f16bef8a296a2d464c93e68c6c299d4c8be3d0" alt="russia blocked 417000 websites in 2024, media reports" title="russia blocked 417000 websites in 2024, media reports" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/neilinukraine"> /u/neilinukraine </a> <br/> <span><a href="https://kyivindependent.com/russia-blocked-417000-websites-in-2024-media-reports/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ie7iak/russia_blocked_417000_websites_in_2024_media/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1072, Part 1 (Thread #1219)
+ - [https://www.reddit.com/r/worldnews/comments/1ie6bfz/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1ie6bfz/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: $source
+ - date published: 2025-01-31T04:02:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ie6bfz/rworldnews_live_thread_russian_invasion_of/"> <img src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1072, Part 1 (Thread #1219)" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1072, Part 1 (Thread #1219)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br/> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ie6bfz/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## North Korean Troops in Russia Taken off Front Lines
+ - [https://www.reddit.com/r/worldnews/comments/1ie5rwa/north_korean_troops_in_russia_taken_off_front](https://www.reddit.com/r/worldnews/comments/1ie5rwa/north_korean_troops_in_russia_taken_off_front)
+ - RSS feed: $source
+ - date published: 2025-01-31T03:32:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ie5rwa/north_korean_troops_in_russia_taken_off_front/"> <img src="https://external-preview.redd.it/RECOhqDopD51jVGGfzQPOkDsAQsKL3NlCNxqyZpV1BU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=66a0b0cfc63f8a605728f3dc3bcf152841347311" alt="North Korean Troops in Russia Taken off Front Lines" title="North Korean Troops in Russia Taken off Front Lines" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ImJustAgrunt0331"> /u/ImJustAgrunt0331 </a> <br/> <span><a href="https://www.nytimes.com/2025/01/30/world/europe/north-korea-troops-ukraine-russia.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ie5rwa/north_korean_troops_in_russia_taken_off_front/">[comments]</a></span> </td></tr></table>
+
+## Israel said to demand Hamas clarify status of hostages Shiri Bibas and her two kids
+ - [https://www.reddit.com/r/worldnews/comments/1ie506b/israel_said_to_demand_hamas_clarify_status_of](https://www.reddit.com/r/worldnews/comments/1ie506b/israel_said_to_demand_hamas_clarify_status_of)
+ - RSS feed: $source
+ - date published: 2025-01-31T02:51:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ie506b/israel_said_to_demand_hamas_clarify_status_of/"> <img src="https://external-preview.redd.it/BJ_ZpC4iB8LUJpEkcxct7w_3wyc1Ffy4rXNYzkSg_1k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be3a41ea2ded9935c75ec5a5884b4d28e45b4647" alt="Israel said to demand Hamas clarify status of hostages Shiri Bibas and her two kids" title="Israel said to demand Hamas clarify status of hostages Shiri Bibas and her two kids" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br/> <span><a href="https://www.timesofisrael.com/israel-said-to-demand-hamas-clarify-status-of-hostages-shiri-bibas-and-her-two-kids/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ie506b/israel_said_to_demand_hamas_clarify_status_of/">[comments]</a></span> </td></tr></table>
+
+## New Zealand's Mount Taranaki gets same legal rights as a person
+ - [https://www.reddit.com/r/worldnews/comments/1ie4o9c/new_zealands_mount_taranaki_gets_same_legal](https://www.reddit.com/r/worldnews/comments/1ie4o9c/new_zealands_mount_taranaki_gets_same_legal)
+ - RSS feed: $source
+ - date published: 2025-01-31T02:34:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ie4o9c/new_zealands_mount_taranaki_gets_same_legal/"> <img src="https://external-preview.redd.it/PaEHrB8VY7cMwek1yuaB_gnvOeQSbjOizcJxdEWN98k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5302eb9f31a4bd64b66b3bb507e2a59567306d26" alt="New Zealand's Mount Taranaki gets same legal rights as a person" title="New Zealand's Mount Taranaki gets same legal rights as a person" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://www.bbc.com/news/articles/czep8gg5lx4o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ie4o9c/new_zealands_mount_taranaki_gets_same_legal/">[comments]</a></span> </td></tr></table>
+
+## 'No control': Sweden grapples with bomb violence wave
+ - [https://www.reddit.com/r/worldnews/comments/1ie316y/no_control_sweden_grapples_with_bomb_violence_wave](https://www.reddit.com/r/worldnews/comments/1ie316y/no_control_sweden_grapples_with_bomb_violence_wave)
+ - RSS feed: $source
+ - date published: 2025-01-31T01:13:16+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/bobbyboobies"> /u/bobbyboobies </a> <br/> <span><a href="https://www.euractiv.com/section/politics/news/no-control-sweden-grapples-with-bomb-violence-wave/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ie316y/no_control_sweden_grapples_with_bomb_violence_wave/">[comments]</a></span>
+
+## Father Slays New York Girl, 14, in TikTok 'Honor Killing'
+ - [https://www.reddit.com/r/worldnews/comments/1ie1k92/father_slays_new_york_girl_14_in_tiktok_honor](https://www.reddit.com/r/worldnews/comments/1ie1k92/father_slays_new_york_girl_14_in_tiktok_honor)
+ - RSS feed: $source
+ - date published: 2025-01-31T00:02:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ie1k92/father_slays_new_york_girl_14_in_tiktok_honor/"> <img src="https://external-preview.redd.it/bxp0ObFVPTYz913aKmM7-vskfzmyVqogBUJvK64VyO4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d8c4dec4f6d498e1006fc7459924cb90088a44f3" alt="Father Slays New York Girl, 14, in TikTok 'Honor Killing'" title="Father Slays New York Girl, 14, in TikTok 'Honor Killing'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thenihilistic295"> /u/thenihilistic295 </a> <br/> <span><a href="https://www.nytimes.com/2025/01/30/world/asia/pakistan-new-york-honor-killing.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ie1k92/father_slays_new_york_girl_14_in_tiktok_honor/">[comments]</a></span> </td></tr></table>
+

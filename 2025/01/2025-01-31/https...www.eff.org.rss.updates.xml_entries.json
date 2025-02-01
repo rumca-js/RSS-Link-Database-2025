@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-31T19:07:20+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>If you\u2019ve got lawyers and a copyright, the law gives you tremendous power to silence speech you don\u2019t like. Copyright\u2019s statutory damages can be as high as $150,000 per work infringed, even if no actual harm is done. This makes it far too dangerous to rely on the limitations and exceptions to fair use, as you may face a financial death sentence if a court decides you got it wrong. Most would-be speakers back down in the face of such risks, no matter now legitimate their use. The <a href=\"https://www.eff.org/issues/dmca\">Digital Millennium Copyright Act</a> provides an incentive for platforms to remove content on your say-so, without a judge ever reviewing your papers. The special procedures and damages available to copyright owners make it one of the most appealing mechanisms for removing unwanted speech from the internet.</span><span>",
+        "id": 2015462,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/01/copyright-civil-liberties-nightmare",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Copyright is a Civil Liberties Nightmare",
+        "vote": 0
+    }
+]

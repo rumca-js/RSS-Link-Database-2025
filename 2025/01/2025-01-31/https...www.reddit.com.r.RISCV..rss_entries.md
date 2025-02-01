@@ -1,0 +1,30 @@
+# Source:The RISC-V Instruction Set Architecture, URL:https://www.reddit.com/r/RISCV/.rss, language:en
+
+## [Chips&Chees] A RISC-V Progress Check: Benchmarking P550 and C910
+ - [https://www.reddit.com/r/RISCV/comments/1iej8lm/chipschees_a_riscv_progress_check_benchmarking](https://www.reddit.com/r/RISCV/comments/1iej8lm/chipschees_a_riscv_progress_check_benchmarking)
+ - RSS feed: $source
+ - date published: 2025-01-31T16:51:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RISCV/comments/1iej8lm/chipschees_a_riscv_progress_check_benchmarking/"> <img src="https://external-preview.redd.it/1KO346XcNEDqAqFoUkQM6Su9fN_vDJDQjt8zXz8Miag.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b029dcf02493a4e2dc274f3eeb5fd2c0835c507" alt="[Chips&amp;Chees] A RISC-V Progress Check: Benchmarking P550 and C910" title="[Chips&amp;Chees] A RISC-V Progress Check: Benchmarking P550 and C910" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EloquentPinguin"> /u/EloquentPinguin </a> <br/> <span><a href="https://chipsandcheese.com/p/a-risc-v-progress-check-benchmarking">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1iej8lm/chipschees_a_riscv_progress_check_benchmarking/">[comments]</a></span> </td></tr></table>
+
+## Sys vulnerabilities
+ - [https://www.reddit.com/r/RISCV/comments/1iehymo/sys_vulnerabilities](https://www.reddit.com/r/RISCV/comments/1iehymo/sys_vulnerabilities)
+ - RSS feed: $source
+ - date published: 2025-01-31T15:57:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>What if I make a tool to sniff hardware condition of your system, that grants admin privileges?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Avii_03"> /u/Avii_03 </a> <br/> <span><a href="https://www.reddit.com/r/RISCV/comments/1iehymo/sys_vulnerabilities/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1iehymo/sys_vulnerabilities/">[comments]</a></span>
+
+## Half-Life running on a RISC-V SBC, looks and sounds like shit but hey at least it runs
+ - [https://www.reddit.com/r/RISCV/comments/1ie9rz2/halflife_running_on_a_riscv_sbc_looks_and_sounds](https://www.reddit.com/r/RISCV/comments/1ie9rz2/halflife_running_on_a_riscv_sbc_looks_and_sounds)
+ - RSS feed: $source
+ - date published: 2025-01-31T07:46:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RISCV/comments/1ie9rz2/halflife_running_on_a_riscv_sbc_looks_and_sounds/"> <img src="https://external-preview.redd.it/ZmNkbHpyZ3hhYWdlMVAqNA964amyT0oJypw0KDCubv7h1Be3daEXTh4mO3ZV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9829c0155d24d64f269806c80cc2351bf2b9ba0c" alt="Half-Life running on a RISC-V SBC, looks and sounds like shit but hey at least it runs" title="Half-Life running on a RISC-V SBC, looks and sounds like shit but hey at least it runs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lost_Edge2855"> /u/Lost_Edge2855 </a> <br/> <span><a href="https://v.redd.it/00cp3zluaage1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1ie9rz2/halflife_running_on_a_riscv_sbc_looks_and_sounds/">[comments]</a></span> </td></tr></table>
+
+## FOSDEM 2025 - RISC-V
+ - [https://www.reddit.com/r/RISCV/comments/1ie91od/fosdem_2025_riscv](https://www.reddit.com/r/RISCV/comments/1ie91od/fosdem_2025_riscv)
+ - RSS feed: $source
+ - date published: 2025-01-31T06:52:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RISCV/comments/1ie91od/fosdem_2025_riscv/"> <img src="https://external-preview.redd.it/P3lyfhnClpqOXoYr5hnW1nzsKvn-H05FYkcfYIDxqrU.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=e20724b837a14c3dc4539c2b1e94263a68911e9d" alt="FOSDEM 2025 - RISC-V" title="FOSDEM 2025 - RISC-V" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/3G6A5W338E"> /u/3G6A5W338E </a> <br/> <span><a href="https://fosdem.org/2025/schedule/track/risc-v/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1ie91od/fosdem_2025_riscv/">[comments]</a></span> </td></tr></table>
+

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-31T17:34:25+00:00",
+        "description": "\u2615Because everything in I.T. requires coffee: https://ntck.co/coffee\n\n\nIs it actually safe to run DeepSeek R1\u2014or any local AI model\u2014on your computer? Everyone says local AI is better for privacy, but\u2026 is it really? How do we know it's not secretly sending data to the internet? And what about file access\u2014can it peek into your personal stuff? In this video, I\u2019ll show you how to run DeepSeek R1 LOCALLY. It\u2019s time to ditch Cloud AI.\n\n\n\ud83d\udcc4\ud83d\udcc4\ud83d\udcc4GUIDE/WALKTHROUGH: https://blog.networkchuck.com/posts/is-deepseek-safe-to-run-locally/\n\n\n\ud83d\udd25\ud83d\udd25Join the NetworkChuck Academy!: https://ntck.co/NCAcademy \n\n\n\n**Sponsored by NetworkChuck Coffee \u2615\ufe0f\u2615\ufe0f \n\n\n\n\n\n\n\n\nSUPPORT NETWORKCHUCK\n---------------------------------------------------\n\u27a1\ufe0fNetworkChuck membership: https://ntck.co/Premium \n\u2615\u2615 COFFEE and MERCH: https://ntck.co/coffee \n\nCheck out my new channel: https://ntck.co/ncclips \n\n\ud83c\udd98\ud83c\udd98NEED HELP?? Join the Discord Server: https://discord.gg/networkchuck \n\nSTUDY WITH ME on Twitch: https://bit.ly/nc_twitch \n\nREADY TO L",
+        "id": 2014338,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7TR-FLWNVHY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7TR-FLWNVHY/hqdefault.jpg",
+        "title": "the ONLY way to run Deepseek...",
+        "vote": 0
+    }
+]

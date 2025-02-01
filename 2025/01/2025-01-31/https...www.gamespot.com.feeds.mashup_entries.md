@@ -1,0 +1,177 @@
+# Source:GameSpot - All Content, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Destiny 2: Heresy Will Be Missing Some Voice Content Because Of The Ongoing Actors Strike
+ - [https://www.gamespot.com/articles/destiny-2-heresy-will-be-missing-some-voice-content-because-of-the-ongoing-actors-strike/1100-6529182/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/destiny-2-heresy-will-be-missing-some-voice-content-because-of-the-ongoing-actors-strike/1100-6529182/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T13:50:00+00:00
+
+<p>Last summer, SAG-AFTRA called for <a href="https://www.gamespot.com/articles/video-game-voice-actors-are-going-on-strike-over-ai-enough-is-enough/1100-6525312/">a voice actors strike against video game publishers</a> over numerous issues including AI protections. Although the union has <a href="https://www.gamespot.com/articles/voice-actors-union-has-signed-deals-with-80-individual-games-as-strike-continues/1100-6526318/">reached deals with a handful of publishers</a>, the strike is still ongoing. Now, Bungie has confirmed that the upcoming <a href="https://www.gamespot.com/articles/new-destiny-2-arc-abilities-revealed-for-episode-heresy/1100-6528871/">Destiny 2: Heresy</a> expansion will include scenes that are missing spoken dialogue because a deal with the actors has yet to be reached.</p><p>In an update on <a href="https://www.bungie.net/7/en/News/Article/twid-01-30-25">Bungie's official site</a>, the developer noted that "certain voice lines" were not recorded because of the 
+
+## Monster Hunter Wilds Preorders - Where To Get Steelbook Edition And Best Deals
+ - [https://www.gamespot.com/articles/monster-hunter-wilds-preorders-where-to-get-steelbook-edition-and-best-deals/1100-6526687/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/monster-hunter-wilds-preorders-where-to-get-steelbook-edition-and-best-deals/1100-6526687/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T12:58:00+00:00
+
+<div title="6526687 - Monster Hunter Wilds physical preorders" data-embed-type="buylink" data-ref-id="2688" data-template="2" data-size="buylink__large" data-title="6526687 - Monster Hunter Wilds physical preorders" data-collection="" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1701/17013431/4372627-monhunstandard.jpg alt="">                                 <a href="https://www.amazon.com/stores/page/preview?isSlp=1&amp;isPreview=1&amp;asins=B0DHX2V7TX,B0DHX5F788&amp;tag=gamespot-preorders-20"></a>                              </div>                   <div class="buylink__
+
+## Killing Floor 3 Has Three Editions - Physical Preorders Available Now
+ - [https://www.gamespot.com/articles/killing-floor-3-has-three-editions-physical-preorders-available-now/1100-6529177/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/killing-floor-3-has-three-editions-physical-preorders-available-now/1100-6529177/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T12:11:00+00:00
+
+<div><div data-embed-type="buylink" data-ref-id="3128" data-template="2" data-size="buylink__large" data-title="6529177 - Killing Floor 3 Preorders" data-collection="" title="6529177 - Killing Floor 3 Preorders" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1702/17023653/4436758-0aeb7ee4-881d-42b9-b86e-988b7e9b.jpg alt="">                                 <a href="https://howl.link/uv1wzlcs5rg67?article_name=Gamespot&amp;article_url=https://www.gamespot.com/17383409663693?u1=subid_value"></a>                              </div>                   <div class="buylink__text">   
+
+## 25 Best Sims 4 Mods To Download In 2025
+ - [https://www.gamespot.com/gallery/best-sims-4-mods/2900-5275](https://www.gamespot.com/gallery/best-sims-4-mods/2900-5275)
+ - RSS feed: $source
+ - date published: 2025-01-31T11:43:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1757/17577455/4436868-sims4reaper.jpg" /><br /><h3><p dir="ltr">Now that we're a decade into the lifespan of The Sims 4, the game's modding community is massive--if you play on PC, you have a mind-boggling amount of mod options available to you, with numerous different mod hubs to download things from and a bunch of modders who literally make The Sims mods for a living via Patreon. And with EA declaring that The Sims 4 is here to stay for the foreseeable future, it's safe to expect that the modding situation with The Sims 4 is only going to get more expansive and more complicated.</p><p dir="ltr">With that being the case, finding the best Sims 4 mods amid an ever-expanding, endless sea of custom content is oftentimes daunting, especially as the life-simulation game's bustling community continues to grow steadily with each new expansion pack release and update. These DLC drops and patches are hardly few and far between, eithe
+
+## Four Years After Microsoft Acquisition, Esports Site Start.gg Goes Independent With Some Changes
+ - [https://www.gamespot.com/articles/four-years-after-microsoft-acquisition-esports-site-start-gg-goes-independent-with-some-changes/1100-6529180/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/four-years-after-microsoft-acquisition-esports-site-start-gg-goes-independent-with-some-changes/1100-6529180/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T11:15:00+00:00
+
+<p>Just over four years ago, Microsoft <a href="https://www.gamespot.com/articles/microsoft-acquires-esports-tournament-platform-smashgg/1100-6485077/">purchased the esports tournament organizing platform</a> Start.gg, which was then known as Smash.gg before its rebranding. Now, Start.gg has announced that Microsoft no longer owns the site and stated that it will "be returning to its roots as an independent company supporting grassroots and professional esports communities."</p><p>Chris Ogle--the co-founder of Smash.gg--shared the news on <a href="https://blog.start.gg/start-gg-returns-to-its-roots-816f31962d3b">Medium</a> and thanked Microsoft and Xbox for their support. He also noted that the site will continue with members from the original Smash.gg team alongside "grassroots tournament organizers, and engineers who are passionate about improving the platform for the communities we support."</p><p>One of the biggest changes going forward is that starting on February 14, Start.gg w
+
+## 40 Video Game Movies In The Works: How Many Of Them Will Actually Come Out?
+ - [https://www.gamespot.com/gallery/video-game-movies-in-the-works/2900-5059](https://www.gamespot.com/gallery/video-game-movies-in-the-works/2900-5059)
+ - RSS feed: $source
+ - date published: 2025-01-31T09:43:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1601/16018044/4252804-vgmovies.jpg" /><br /><h3><p dir="ltr">Like the seemingly unending comic book movie craze, Hollywood loves to find a type of film that it can turn into the next big cultural touchstone. Over the years, we've seen movies based on video games attempt to reach that level, with varying levels of success. We've seen adaptations of games for decades, but, to be fair, <em>a lot </em>of these were awful adaptations. Many of them missed the point of the source material and were clumsily executed--although we'll always have a soft spot for the 1994 Street Fighter movie--but lately, we've seen some big changes in this genre.</p><p dir="ltr">The Super Mario Bros. Movie took the world by storm last year, earning an obscene amount of cash at the box office, while the Uncharted and both Sonic the Hedgehog movies were also successful. With fresh new IPs to option, dozens of video game movies have been announced over th
+
+## Fortnite OG Map Changes In Season 2
+ - [https://www.gamespot.com/gallery/fortnite-og-map-changes-in-season-2/2900-6184](https://www.gamespot.com/gallery/fortnite-og-map-changes-in-season-2/2900-6184)
+ - RSS feed: $source
+ - date published: 2025-01-31T09:38:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1757/17577455/4436754-fortniteogseason2map.jpg" /><br /><h3><p>Our nostalgic journey into Fortnite's past is continuing onward this week with the launch of <a href="https://www.gamespot.com/gallery/fortnite-og-pass-chapter-1-season-2-all-skins-and-other-rewards/2900-6183/">Fortnite OG Season 2</a>, which takes us back to the 2017 version of Fortnite. Epic's metaverse as we know it didn't exist then--this game was just a burgeoning battle royale with a unique building mechanic that was quickly blowing up. And with the release of OG Season 2, we've gotten a change to the game's mpa.</p><p>But the original Fortnite Season 2 was a landmark, though not for its gameplay. Instead, it's because Season 2 is when Fortnite introduced its battle pass concept that pretty much the entire rest of the games industry has borrowed in the seven years since. And with that battle pass came the solidification of Epic's strategy of using FOMO (fea
+
+## Rocket League Fans Can Save Big On A Cool Controller Bundle At Amazon
+ - [https://www.gamespot.com/articles/rocket-league-fans-can-save-big-on-a-cool-controller-bundle-at-amazon/1100-6529173/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/rocket-league-fans-can-save-big-on-a-cool-controller-bundle-at-amazon/1100-6529173/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T09:32:00+00:00
+
+<div><div data-embed-type="buylink" data-ref-id="3126" data-template="2" data-size="buylink__large" data-title="6529173 - CRKD NEO S: Rocket League Edition Deal" data-collection="" title="6529173 - CRKD NEO S: Rocket League Edition Deal" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1702/17023653/4436697-71scjlnx0jl._sl1500.jpg alt="">                                 <a href="https://www.amazon.com/dp/B0DHVVPXKY?tag=gamespot-promos-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bol
+
+## 25 Years Later, Nintendo Switch Online Brings Back This Classic N64 Racing Game
+ - [https://www.gamespot.com/articles/25-years-later-nintendo-switch-online-brings-back-this-classic-n64-racing-game/1100-6529175/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/25-years-later-nintendo-switch-online-brings-back-this-classic-n64-racing-game/1100-6529175/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T09:08:00+00:00
+
+<p>It's been a long time since there's been a new game in Namco's Ridge Racer series, and it's anyone's guess if the franchise will make a comeback. But in the interim, Ridge Racer 64--which was originally released in February 2000--has made a welcome return on Nintendo Switch. As seen in the announcement trailer below, Ridge Racer 64 still has that classic arcade-style charm a quarter century later.</p><p>Unfortunately, this game isn't available as a standalone purchase. It was re-released earlier today exclusively for Nintendo Switch Online + Expansion Pack subscribers--which costs $50 per year for individuals and $80 for families in exchange for access to N64, Sega Genesis, and Game Boy Advance games as well as select DLC for modern titles.</p><p>Ridge Racer 64 includes a Quick Play option for anyone who just wants a fast run through the Revolution Novice course. Veteran drivers can try their hand on the Grand Prix and choose from nine different race tracks.</p><a href="https://ww
+
+## This Intriguing New Horror Game Is Only Held Back By Your Sub-Tortoise Speeds
+ - [https://www.gamespot.com/articles/this-intriguing-new-horror-game-is-only-held-back-by-your-sub-tortoise-speeds/1100-6529178/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/this-intriguing-new-horror-game-is-only-held-back-by-your-sub-tortoise-speeds/1100-6529178/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T09:02:00+00:00
+
+<p dir="ltr">Fans of psychological horror are in for a paranoia-inducing treat this year. <a href="https://www.gamespot.com/games/karma-the-dark-world/">Karma: The Dark World</a> seems to be a gripping, deeply unsettling first-person cinematic horror game set to release for PC sometime in 2025. I played a demo of the game that lasted about three hours, and found the gameplay to be refreshingly dread-inducing.</p><p dir="ltr">Set in an alternate version of East Germany in 1984, Karma: The Dark world combines Orwellian dystopia with some of the best bits of popular psychological thrillers. The game sees players step into the shoes of one Daniel McGovern, a Roam Agent working for the Leviathan Organization--specifically the company's Thought Bureau. The Leviathan Organization appears to have effectively replaced the government of the entire Soviet Union.</p><p dir="ltr">It immediately becomes clear that regardless of which branch one works for, Leviathan fosters a paranoid, hostile, <em
+
+## Alienware RTX 50-Series Gaming PCs Are Up For Preorder For A Small Fortune
+ - [https://www.gamespot.com/articles/alienware-rtx-50-series-gaming-pcs-are-up-for-preorder-for-a-small-fortune/1100-6529159/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/alienware-rtx-50-series-gaming-pcs-are-up-for-preorder-for-a-small-fortune/1100-6529159/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T08:41:00+00:00
+
+<div title="6529159 - Alienware's Area-51 Prebuilt PCs with Nvidia GeForce RTX 5080 GPU" data-embed-type="buylink" data-ref-id="3122" data-template="2" data-size="buylink__large" data-title="6529159 - Alienware's Area-51 Prebuilt PCs with Nvidia GeForce RTX 5080 GPU" data-collection="" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1701/17013431/4436426-a51rtx.jpg alt="">                                 <a href="https://www.dpbolvw.net/click-100770772-12839518?sid=subid_value&amp;url=https://www.dell.com/en-us/shop/cty/pdp/spd/alienware-area-51-aat2250-gaming-desktop"></a>   
+
+## Four Years Later, 60fps Bloodborne Patch Gets Taken Down By Sony
+ - [https://www.gamespot.com/articles/four-years-later-60fps-bloodborne-patch-gets-taken-down-by-sony/1100-6529174/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/four-years-later-60fps-bloodborne-patch-gets-taken-down-by-sony/1100-6529174/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T08:33:00+00:00
+
+<p>Sony has filed a DMCA takedown of a fan-made <a href="https://www.gamespot.com/articles/bloodborne-60fps-patch-released-by-hacker/1100-6487299/">Bloodborne 60 frames per second patch</a> nearly four years after its release.</p><p><a href="https://www.gamespot.com/games/bloodborne/">Bloodborne</a> is a beloved From Software action-RPG that's only officially available on PS4, running at a frame rate of 30fps. In 2020, Lance McDonald revealed a 60fps patch for Bloodborne that he was working on, and it got a wide release on February 21, 2021. While players needed to go through extra steps, like jailbreaking their PS4, to access this patch's enhancements, it quickly gained notoriety in lieu of an official enhanced PC and PS5-enhanced port of Bloodborne by Sony.</p><p>Sony let this fan-made patch be for around four years, but it's now no longer available. McDonald took to X (formerly Twitter) today, January 31, and revealed that he complied with a Sony request to remove any links to the
+
+## I Replayed The Sims And It Kicked My Ass
+ - [https://www.gamespot.com/articles/i-replayed-the-sims-and-it-kicked-my-ass/1100-6529138/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/i-replayed-the-sims-and-it-kicked-my-ass/1100-6529138/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T08:00:00+00:00
+
+<p>While The Legend of Zelda: Ocarina of Time was among the first games I truly loved and Final Fantasy VII was the first to profoundly impact me, The Sims was the first to utterly consume me. Despite it being a good decade or so before the phrase "no life-ing" hit the internet, there is no better way to describe my relationship with the game. Every night--after I had finished my homework, dinner, and familial obligations--I would slink my way over to the family computer and live out my countless virtual lives in The Sims. On weekends, it would take a stern lecture from my parents to pry me away from the uncomfortable wooden chair that seemingly every family owned going into the new millennium. I was a woman--okay, seven-year-old girl--obsessed.</p><p dir="ltr">25 years later, <a href="https://www.gamespot.com/articles/the-sims-1-and-2-are-now-available-on-pc-every-expansion-included/1100-6529140/">EA has finally re-released a direct port</a> of the iconic title as a part of its anni
+
+## The Sims 1 And 2 Are Now Available On PC, Every Expansion Included
+ - [https://www.gamespot.com/articles/the-sims-1-and-2-are-now-available-on-pc-every-expansion-included/1100-6529140/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-sims-1-and-2-are-now-available-on-pc-every-expansion-included/1100-6529140/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T08:00:00+00:00
+
+<p>As part of The Sims series' 25th anniversary celebration, developer Maxis has <a href="https://www.ea.com/games/the-sims/news/the-birthday-bundle">announced</a> that The Sims and The Sims 2 are once again available to purchase on PC. The reveal comes after a handful of subtle teases by the studio, and heavy speculation from fans. Both games will be available to purchase separately, with The Sims: Legacy Collection retailing for $20 and The Sims 2: Legacy Collection coming in at $30. Those looking to purchase both games can pick up The Sims 25th Birthday Bundle, which combines them for the slightly discounted price of $40.</p><p>In addition to a whole lot of nostalgia, each game comes with every expansion released for the title, as well as select packs. Below is a list of all content included in each game:</p><p><strong>The Sims: Legacy Collection</strong></p><a href="https://www.gamespot.com/articles/the-sims-1-and-2-are-now-available-on-pc-every-expansion-included/1100-6529140/?f
+
+## Amazon-Exclusive Pokemon TCG Poke Ball Tin Bundles Get First Discounts
+ - [https://www.gamespot.com/articles/amazon-exclusive-pokemon-tcg-poke-ball-tin-bundles-get-first-discounts/1100-6529170/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/amazon-exclusive-pokemon-tcg-poke-ball-tin-bundles-get-first-discounts/1100-6529170/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T07:59:00+00:00
+
+<p>The Amazon-exclusive <a href="https://www.amazon.com/stores/page/preview?isSlp=1&amp;isPreview=1&amp;asins=B0CZX3GPYZ,B0CZWCXQG1&amp;tag=gamespot-promos-20">Pokemon TCG Poke Ball Tins</a> have received their first-ever discounts, dropping the price of each to just $48 (was $60). Each bundle comes with a set of three different Poke Balls plus a variety of booster packs and stickers, making this a cool exclusive collectible for any dedicated Pokemon fan.</p><div title="6529170 - Poke Ball Collectible Tin Deal" data-embed-type="buylink" data-ref-id="3124" data-template="4" data-size="buylink__listicle" data-title="6529170 - Poke Ball Collectible Tin Deal" data-collection="" class="norewrite">  <div class="buylink-container">                                                                     <div class="js-buylink-item-container buylink-item-container">             <h2 class="item-title">                    <a href="https://www.amazon.com/stores/page/preview?isSlp=1&amp;isPreview=1&a
+
+## Killing Floor 3 Launches In March, Closed Beta Coming In February
+ - [https://www.gamespot.com/articles/killing-floor-3-launches-in-march-closed-beta-coming-in-february/1100-6529171/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/killing-floor-3-launches-in-march-closed-beta-coming-in-february/1100-6529171/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T07:56:00+00:00
+
+<p>Tripwire Interactive has announced that Killing Floor 3 will launch on March 25 for PC, PS5, and Xbox Series X|S. There will also be a closed beta test for the game that runs from February 20-24.</p><p>Those who are interested in the closed beta will need to sign up via the Killing Floor 3's <a href="https://killingfloor3.com/">official website</a>. Killing Floor 3 takes place in 2091, 70 years after the events of Killing Floor 2. The mega-corporation Horzine has created Zeds, a race of subservient and bioengineered zombies. A rebel group called Nightfall must fight back against the Zeds in order to save humanity.</p><p><span>Tripwire Interactive also revealed a revamped version of the </span><a href="https://www.gamespot.com/videos/killing-floor-3-siren-enemy-reveal-trailer/2300-6465651/">Siren</a><span> enemy in a new trailer. This sound-based monstrosity uses sonic disruption technology to attack and defend itself.</span></p><a href="https://www.gamespot.com/articles/killing-fl
+
+## Marvel's Spider-Man 2 Is Apparently Off To A Rough Start On PC
+ - [https://www.gamespot.com/articles/marvels-spider-man-2-is-apparently-off-to-rough-start-on-pc/1100-6529168/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/marvels-spider-man-2-is-apparently-off-to-rough-start-on-pc/1100-6529168/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T07:13:00+00:00
+
+<p>This week saw the arrival of <a href="https://www.gamespot.com/games/marvels-spider-man-2/">Marvel's Spider-Man 2</a> on PC, and similar to several other PlayStation Studios games ported over to that platform, it looks like the game is experiencing a rough launch. On Steam, Marvel's Spider-Man 2 currently has a mixed reception in the user reviews section, with many players claiming that they've experienced frequent bugs and poor optimization so far.</p><p>"To say this is 'rough' is an understatement," <a href="https://steamcommunity.com/profiles/76561198047951793/recommended/2651280/">one of the user reviews reads</a>. "Lighting doesn't load in some cutscenes, those same scenes run at seconds-per-frame, audio desync issues up the wazoo, freezing, stuttering, and just about every other performance issue I can think of."</p><div data-embed-type="video" data-ref-id="2300-6465645" data-src="/videos/marvels-spider-man-2-pc-launch-trailer/2300-6465645/" data-width="100%" data-height="10
+
+## MultiVersus Shuts Down In May, But Can Still Be Played Offline If You Update In Time
+ - [https://www.gamespot.com/articles/multiversus-shuts-down-in-may-but-can-still-be-played-offline-if-you-update-in-time/1100-6529169/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/multiversus-shuts-down-in-may-but-can-still-be-played-offline-if-you-update-in-time/1100-6529169/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T06:48:00+00:00
+
+<p>Player First Games and WB Games have <a href="https://multiversus.com/en/news/multiversus-update">announced</a> that MultiVersus will be shut down on May 30 and that Season 5's content update will be its last one. Along with the server closure, MultiVersus will also be delisted from all digital storefronts.</p><p>Season 5 starts on Feruary 4 and is adding two new characters to the roster:DC's Aquaman and Looney Tunes' Lola Bunny. They'll both be unlockable through gameplay, with Aquaman as a battle pass reward and Lola as a daily calendar login reward.</p><p>Online features will be available through Season 5 until May 30 at 9 AM PT. Afterwards, MultiVersus will have an option for local gameplay, either solo with AI-controlled opponents or up to three other players. However, in order to do so, you'll need to download the new update between February 4 at 9 AM PT and May 30 at 9 AM PT. With that installed, you'll then need to log in so that a local save file can be created with your 
+
+## Clair Obscur: Expedition 33 Joins The List Of Gestating Live-Action Movie Adaptations
+ - [https://www.gamespot.com/articles/clair-obscur-expedition-33-joins-the-list-of-gestating-live-action-movie-adaptations/1100-6529165/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/clair-obscur-expedition-33-joins-the-list-of-gestating-live-action-movie-adaptations/1100-6529165/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T06:19:00+00:00
+
+<p>Upcoming fantasy-RPG <a href="https://www.gamespot.com/games/clair-obscur-expedition-33/">Clair Obscur: Expedition 33</a> is joining the <a href="https://www.gamespot.com/gallery/video-game-movies-in-the-works/2900-5059/">long list of upcoming video game adaptations</a>, as developer Sandfall Interactive and media company Story Kitchen announced plans to bring it to the big screen. What's interesting here is that Clair Obscur: Expedition 33 isn't even out yet, <a href="https://www.gamespot.com/articles/clair-obscur-expedition-33-launches-in-april-included-in-xbox-game-pass/1100-6528992/">as it's currently set to launch in April</a> for PC, PS5, and Xbox Series X|S.</p><p>It's also worth noting that this is merely an announcement for a live-action Clair Obscur film, and there's no guarantee it will ever be made--many film projects are announced but never ultimately release. It remains to be seen what the critical and commercial reception to the game will be, but Clair Obscur has ga
+
+## Diablo 4 Season 7 Bug Is Letting Players Deal Near Infinite Damage, But Nobody Knows Exactly Why
+ - [https://www.gamespot.com/articles/diablo-4-season-7-bug-is-letting-players-deal-near-infinite-damage-but-nobody-knows-exactly-why/1100-6529162/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/diablo-4-season-7-bug-is-letting-players-deal-near-infinite-damage-but-nobody-knows-exactly-why/1100-6529162/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T06:19:00+00:00
+
+<p><a href="https://www.gamespot.com/games/diablo-iv/">Diablo 4</a> Season of Witchcraft may have just launched, but already what appears to be a bug with one of Season 7's new Witchcraft Powers is allowing top players to break the game.</p><p dir="ltr">How, exactly, the bug works is still unclear, but it revolves around using the Decay Augmentation Witchcraft Power introduced as part of the season to deal trillions of damage and delete even the game's hardest enemies in an instant. Spiritborn were <a href="https://www.gamespot.com/articles/diablo-4-season-7-patch-notes-reduce-rune-costs-and-brings-major-spiritborn-balance-changes/1100-6528887/">recently nerfed as part of Season 7</a>, largely by Blizzard fixing a number of bugs related to the class, but now some builds for it deal so much damage by taking advantage of the bug that the game begins to display negative numbers instead.</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=1_HYRL4GVWw" data-width="10
+
+## Elden Ring Nightreign Network Test Codes Are Being Scalped On eBay
+ - [https://www.gamespot.com/articles/elden-ring-nightreign-network-test-codes-are-being-scalped-on-ebay/1100-6529166/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/elden-ring-nightreign-network-test-codes-are-being-scalped-on-ebay/1100-6529166/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T06:14:00+00:00
+
+<p>The <a href="https://www.gamespot.com/gallery/elden-ring-nightreign-release-date-trailer-news-everything-we-know/2900-6095/">Elden Ring Nightreign</a> network test begins later this month and people are already starting to scalp codes.</p><p>Participants of the <a href="https://www.gamespot.com/articles/elden-ring-nightreign-network-test-offers-an-early-opportunity-to-return-to-the-lands-between/1100-6528472/">network test</a> haven't gotten their codes yet, but that's not stopping them from listing their future codes on eBay. As proof of having access to the network test, scalpers are using providing confirmation screenshots that they've been selected as a participant. The price range varies from $5 all the way to $300, although it doesn't look as if any have been sold.</p><p>The network test <a href="https://eldenring.bn-ent.net/en/information/">information page</a> states that it's prohibited to transfer, purchase, sell, or lend the codes to others. If someone is discovered to 
+
+## Fortnite OG Pass Chapter 1 Season 2 - All Skins And Other Rewards
+ - [https://www.gamespot.com/gallery/fortnite-og-pass-chapter-1-season-2-all-skins-and-other-rewards/2900-6183](https://www.gamespot.com/gallery/fortnite-og-pass-chapter-1-season-2-all-skins-and-other-rewards/2900-6183)
+ - RSS feed: $source
+ - date published: 2025-01-31T06:02:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1757/17577455/4436633-fortniteogpassseason2keyart.jpg" /><br /><h3><p dir="ltr">After spending a couple months hanging out in the season that started it all, the Fortnite OG experience is finally moving on to Season 2. And, just as in December, Season 2 introduces a new OG Pass that includes remixes of two battle pass skins and one shop skin that first appeared way back when this season happened the first time--we've got new versions of Cuddle Team Leader, Sparkle Specialist, and Black Knight, along with multiple style options and full sets of cosmetics for each of them.</p><p dir="ltr">The new Spark Diva skin unlocks instantly when you buy the skin or unlock it via Fortnite Crew, and the highlight may just be that character's glider: an old, default-style glider covered in sequins that plays a song while you ride. This pass has all the bells and whistles you'd usually expect: back blings, pickaxes, gliders, emotes, emoticon
+
+## Classic Cartoon-Style Shooter Mouse: P. I. For Hire Won't Have Microtransactions
+ - [https://www.gamespot.com/articles/classic-cartoon-style-shooter-mouse-p-i-for-hire-wont-have-microtransactions/1100-6529167/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/classic-cartoon-style-shooter-mouse-p-i-for-hire-wont-have-microtransactions/1100-6529167/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T05:56:00+00:00
+
+<p>Games free of microtransactions have become increasingly uncommon, but one such game is on the way. The upcoming Mouse P. I. For Hire breaks away from that with the developers announcing to players the cartoony FPS won't feature any sort of microtransactions whatsoever.</p><p>On the game's official Twitter account, the creators promised an "awesome single-player, noir-fueled, guns-blazing FPS" without the need for microtransactions so players can buy the game and enjoy it as is.</p><div data-embed-type="tweet" data-src="https://x.com/mousethegame/status/1885154644328145215" data-has-image="true"><blockquote align="center" class="twitter-tweet" data-conversation="none" data-mce-disable-toolbar="true"><p dir="ltr">MOUSE: P.I. For Hire will NOT feature microtransactions.<br />It WILL be an awesome single player, noir-fueled, guns blazing FPS that we're pouring our hearts into 🖤🤍 <a href="https://t.co/EwUp0Hq83I">pic.twitter.com/EwUp0Hq83I</a></p>  — MOUSE P.I. For Hire (@mousethegame
+
+## Popular Call Of Duty: Warzone Guns Are Getting Changes Next Week
+ - [https://www.gamespot.com/articles/popular-call-of-duty-warzone-guns-are-getting-changes-next-week/1100-6529164/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/popular-call-of-duty-warzone-guns-are-getting-changes-next-week/1100-6529164/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-01-31T05:24:00+00:00
+
+<p dir="ltr">Season 2 is live in <a href="https://www.gamespot.com/games/call-of-duty-warzone/">Call of Duty: Warzone</a>, and the big update added new DLC weapons and some gun balancing. However, Raven Software has revealed that even more weapon changes are planned for next week, which includes updates to two popular guns.</p><p dir="ltr">Despite three new guns arriving with Season 2, Warzone's weapon meta didn't shift a whole lot. The developer has since <a href="https://x.com/RavenSoftware/status/1885023400965403124">posted on Twitter/X</a> to announce that weapon adjustments for the XM4 assault rifle and PPSh-41 submachine gun will arrive early next week.</p><div data-embed-type="video" data-ref-id="2300-6465614" data-src="/videos/black-ops-6-warzone-official-season-02-launch-trailer/2300-6465614/" data-width="100%" data-height="100%" data-video-start="0">          <iframe height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscreen mozallowfullscreen allowfulls
+
+## The Biggest Game Releases Of February 2025
+ - [https://www.gamespot.com/gallery/the-biggest-game-releases-of-february-2025/2900-6104](https://www.gamespot.com/gallery/the-biggest-game-releases-of-february-2025/2900-6104)
+ - RSS feed: $source
+ - date published: 2025-01-31T05:00:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1601/16018044/4434318-feb-2025-games.jpg" /><br /><h3><p dir="ltr">After a relaxed start to the year, it feels like the 2025 gaming year is truly kicking off in February thanks to several high-profile releases. <a href="https://www.gamespot.com/articles/assassins-creed-shadows-delayed-again-to-march-20/1100-6528717/">While Assassin's Creed Shadows has slipped to March</a> and <a href="https://x.com/DateEverything/status/1885010239105163457?t=GKy_sRxDn64GvHsYlODBDA">Date Everything has been delayed</a> to June, the month ahead still has a brand-new Like a Dragon game, a new first-party release from Xbox Game Studios, and Capcom's popular Monster Hunter series is making a grand return to PC and consoles.</p><p dir="ltr">Between the AAA releases, there are also several interesting indies hitting the scene. You've got Rift of the NecroDancer for rhythmic action, Don't Nod is launching a new IP utilizing its signature episodic st
+

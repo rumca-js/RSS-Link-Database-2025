@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-31T08:31:41+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><h1><a href=\"https://www.mamedev.org/?p=547\">MAME 0.274</a></h1> <p>Today\u2019s the day you get to experience MAME 0.274 for the first time! As previously mentioned, our Windows binary releases now require a CPU with x86-64-v2 functionality. The most anticipated feature completed this month is almost certainly the 64-bit ARMv8 recompiler back-end. It\u2019s been tested on macOS, conventional Linux and Android, and provides some very welcome performance improvements when emulating systems with RISC CPUs, including MIPS III, PowerPC and SuperH. In addition to the new back-end, we\u2019ve fixed some bugs in the existing back-ends and made some performance improvements for x86-64. Keep in mind that the actual performance benefits you experience will vary substantially depending on your CPU and the emulated system and software.</p> <p>While that was happening, emulation work continued to progress. This release adds support for numerous digital pets, a couple more Tronica ",
+        "id": 2010760,
+        "language": null,
+        "link": "https://www.reddit.com/r/emulation/comments/1iead7d/mame_0274",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "MAME 0.274",
+        "vote": 0
+    }
+]

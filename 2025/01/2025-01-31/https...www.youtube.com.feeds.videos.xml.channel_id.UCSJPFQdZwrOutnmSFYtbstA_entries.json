@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-01-31T18:00:15+00:00",
+        "description": "I didn't think it was possible, but with over a million dislikes and just 40k upvotes, Disney's Snow White has become the most hated movie trailer of all time.",
+        "id": 2014592,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=GiGtYrSReqw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GiGtYrSReqw/hqdefault.jpg",
+        "title": "The Most Hated Movie Ever?",
+        "vote": 0
+    }
+]

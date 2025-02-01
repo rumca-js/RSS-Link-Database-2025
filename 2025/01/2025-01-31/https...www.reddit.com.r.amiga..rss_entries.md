@@ -1,0 +1,65 @@
+# Source:Amiga, URL:https://www.reddit.com/r/amiga/.rss, language:en
+
+## Mountlist for 5 1/4 drive
+ - [https://www.reddit.com/r/amiga/comments/1ieqiix/mountlist_for_5_14_drive](https://www.reddit.com/r/amiga/comments/1ieqiix/mountlist_for_5_14_drive)
+ - RSS feed: $source
+ - date published: 2025-01-31T21:56:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>Anyone know how to make the Amiga transformer 5 1/4 drive function as an Amiga drive, though half the size of the internal drive? I have workbench 1.2 and 1.3.</p> <p>I had this working years ago and put all system libraries on it and assigned the system libraries to the 5 1/4 drive (df1:). I may not have copied all the commands due to space limitations. No more disk swapping workbench to do anything. But alas, I cannot find that workbench disk and am too stupid now to figure out how I did it. I think it has something to do with the mountlist file which I think is in the system directory. Not sure which directory. I also recall I need to add a mount df1: command in startup-sequence.</p> <p>Can anyone provide a mountlist example for the df1: 5 1/4 drive? Anything else that needs to be done?</p> <p>Thank you for any help.</p> <p>By the way it is an Amiga 1000 with original monitor. It will be for sale probably in the spring after I&#39;ve played all th
+
+## (US) Taking preorders for A1200.net Black Keycaps and Cases
+ - [https://www.reddit.com/r/amiga/comments/1iep790/us_taking_preorders_for_a1200net_black_keycaps](https://www.reddit.com/r/amiga/comments/1iep790/us_taking_preorders_for_a1200net_black_keycaps)
+ - RSS feed: $source
+ - date published: 2025-01-31T21:00:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>(US Only) Hello everyone! Amiga of Rochester USA here! I am going to be offering <a href="http://a1200.net/?fbclid=IwZXh0bgNhZW0CMTAAAR16ndQlRMx_Wv5ColHrGVJW4g4tJ3h4J-pSxS6VtZgZ6_tdraypPWgsv-o_aem_P_lg5zK1Tzkiedjbcl6PQA">A1200.net</a> black keycaps. If you have interest, please let me know and I&#39;ll take your name down. I also have some cases I will be selling. The ones on <a href="https://www.a1200.net/asahi-a1200-series/?fbclid=IwZXh0bgNhZW0CMTAAAR2Yb9efA6Tg0P6WPu2nDx2kgwwcGkdK_RckBW__-EHwVA2MIwxHGLt_fe0_aem_cK3G2S0Nhw0m0Z1boQfuxQ">https://www.a1200.net/asahi-a1200-series/</a>?. If you&#39;re interested, just leave a comment or send me a DM (ideally both). No money upfront, as always with our pre-orders.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AmigaOfRochester"> /u/AmigaOfRochester </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1iep790/us_taking_preorders_for_a1200net_black_keycap
+
+## I don't know what I'm supposed to do from this point, plz help.
+ - [https://www.reddit.com/r/amiga/comments/1ieoh8k/i_dont_know_what_im_supposed_to_do_from_this](https://www.reddit.com/r/amiga/comments/1ieoh8k/i_dont_know_what_im_supposed_to_do_from_this)
+ - RSS feed: $source
+ - date published: 2025-01-31T20:29:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1ieoh8k/i_dont_know_what_im_supposed_to_do_from_this/"> <img src="https://preview.redd.it/o64y185e2ege1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=29d35f1e678b83e5348c7197152d5716b25ed467" alt="I don't know what I'm supposed to do from this point, plz help." title="I don't know what I'm supposed to do from this point, plz help." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SharpSnow6285"> /u/SharpSnow6285 </a> <br/> <span><a href="https://i.redd.it/o64y185e2ege1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1ieoh8k/i_dont_know_what_im_supposed_to_do_from_this/">[comments]</a></span> </td></tr></table>
+
+## Easy way to find or import an amiga 1200 into australia as well as find specific magazine coverdisks?.
+ - [https://www.reddit.com/r/amiga/comments/1ieimm3/easy_way_to_find_or_import_an_amiga_1200_into](https://www.reddit.com/r/amiga/comments/1ieimm3/easy_way_to_find_or_import_an_amiga_1200_into)
+ - RSS feed: $source
+ - date published: 2025-01-31T16:26:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Title. I have found ebay with some really good shit there but I&#39;m looking for cu amiga coverdisk 152 from march 1997. I know writing disk images is an option, but don&#39;t interest me unless the disk is unreadable or reformatted for some reason. I honestly pefer getting the original disks.</p> <p>As for an amiga 1200, I found a few in the uk for bidding only and they go for almost a grand to import. I will be happy to acquire a 500 but only if I can&#39;t find a 1200 at a good price.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Bear_1980"> /u/Ok_Bear_1980 </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1ieimm3/easy_way_to_find_or_import_an_amiga_1200_into/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1ieimm3/easy_way_to_find_or_import_an_amiga_1200_into/">[comments]</a></span>
+
+## Looking for spaceship fight two-player minigame included in Amiga 500 workbench
+ - [https://www.reddit.com/r/amiga/comments/1ieh0fo/looking_for_spaceship_fight_twoplayer_minigame](https://www.reddit.com/r/amiga/comments/1ieh0fo/looking_for_spaceship_fight_twoplayer_minigame)
+ - RSS feed: $source
+ - date published: 2025-01-31T15:15:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I am looking for any hints on a very simple minigame that was included in the Amiga workbench (1.2 or 1.3 I think). I think it was called &quot;Space Ace&quot;. Two players would each steer a simple arrow &quot;space ship&quot; and shoot at each other. The great thing was that you could turn on &quot;inertia&quot; resulting in the spaceships becoming very difficult to steer.</p> <p>I also remember that if you steered a spaceship off the screen edge, it would reappear on the opposing side.</p> <p>Anybody have any pointers to this gem of my childhood?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eggbertbot"> /u/eggbertbot </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1ieh0fo/looking_for_spaceship_fight_twoplayer_minigame/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1ieh0fo/looking_for_spaceship_fight_twoplayer_minigame/">[comments]</a></span>
+
+## Floppy disks?
+ - [https://www.reddit.com/r/amiga/comments/1iegw2t/floppy_disks](https://www.reddit.com/r/amiga/comments/1iegw2t/floppy_disks)
+ - RSS feed: $source
+ - date published: 2025-01-31T15:10:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Recently picked up an amiga 500 as I found some of my old games and disks in the loft, I don&#39;t really want to to keep using them given their age so was thinking of using a greaseweasle to make adfs and transfer to new disks but where can I get some new disks? struggle to find a source thats not a rippoff in price lol</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PilksUK"> /u/PilksUK </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1iegw2t/floppy_disks/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1iegw2t/floppy_disks/">[comments]</a></span>
+
+## AmigaOS 4 Monthly Roundup for January 2025
+ - [https://www.reddit.com/r/amiga/comments/1iedwy6/amigaos_4_monthly_roundup_for_january_2025](https://www.reddit.com/r/amiga/comments/1iedwy6/amigaos_4_monthly_roundup_for_january_2025)
+ - RSS feed: $source
+ - date published: 2025-01-31T12:42:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone! Have just published the AmigaOS 4 Monthly Roundup for January 2025 on my blog. :-) Hope you will enjoy it!</p> <p><a href="https://oldschoolgameblog.com/2025/01/31/amigaos-4-monthly-roundup-january-2025/">https://oldschoolgameblog.com/2025/01/31/amigaos-4-monthly-roundup-january-2025/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/amigaoldskooler"> /u/amigaoldskooler </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1iedwy6/amigaos_4_monthly_roundup_for_january_2025/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1iedwy6/amigaos_4_monthly_roundup_for_january_2025/">[comments]</a></span>
+
+## Best way to get back to the Amiga world in 2025?
+ - [https://www.reddit.com/r/amiga/comments/1iebeou/best_way_to_get_back_to_the_amiga_world_in_2025](https://www.reddit.com/r/amiga/comments/1iebeou/best_way_to_get_back_to_the_amiga_world_in_2025)
+ - RSS feed: $source
+ - date published: 2025-01-31T09:55:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi there,</p> <p>I had an Amiga 500 in my youth. So many memories!</p> <p>I&#39;d like to return to the world of the Amiga but in a more modern way.</p> <p>I&#39;m aiming for these features:</p> <p>- Aga chipset</p> <p>- A real keyboard</p> <p>- 1 MB memory minimum</p> <p>- HDMI output</p> <p>- A card reader</p> <p>What are my options? I confess I&#39;m a bit lost!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ComfortOk9514"> /u/ComfortOk9514 </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1iebeou/best_way_to_get_back_to_the_amiga_world_in_2025/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1iebeou/best_way_to_get_back_to_the_amiga_world_in_2025/">[comments]</a></span>
+
+## Amiga Game Selector under RetroArch....how to exit a game???
+ - [https://www.reddit.com/r/amiga/comments/1ie5hm6/amiga_game_selector_under_retroarchhow_to_exit_a](https://www.reddit.com/r/amiga/comments/1ie5hm6/amiga_game_selector_under_retroarchhow_to_exit_a)
+ - RSS feed: $source
+ - date published: 2025-01-31T03:17:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Has anyone worked out how to exit a game? I can restart AGS via RetroArch, but there is no way I can exit straight back to the AGS menu or save a game.</p> <p>Help!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/boxallw"> /u/boxallw </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1ie5hm6/amiga_game_selector_under_retroarchhow_to_exit_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1ie5hm6/amiga_game_selector_under_retroarchhow_to_exit_a/">[comments]</a></span>
+
