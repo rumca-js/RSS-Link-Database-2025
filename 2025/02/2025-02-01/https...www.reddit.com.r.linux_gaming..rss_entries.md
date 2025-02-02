@@ -1,0 +1,394 @@
+# Source:GNU/Linux Gaming on Reddit, URL:https://www.reddit.com/r/linux_gaming/.rss, language:
+
+## Proton only using ~60% of Nvidia dGPU
+ - [https://www.reddit.com/r/linux_gaming/comments/1ifjhes/proton_only_using_60_of_nvidia_dgpu](https://www.reddit.com/r/linux_gaming/comments/1ifjhes/proton_only_using_60_of_nvidia_dgpu)
+ - RSS feed: $source
+ - date published: 2025-02-01T23:27:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>My system:</p> <ul> <li>Lenovo Legion 5</li> <li>Kernel Linux 6.12.10-zen1-1-zen</li> <li>DE KDE Plasma 6.2.5 WM KWin (Wayland)</li> <li>CPU AMD Ryzen 5 5600H (12) @ 4.28 GHz</li> <li>GPU NVIDIA GeForce RTX 3060 Mobile / Max-Q [Discrete] (565.77-3 driver)</li> <li>GPU AMD Radeon Vega Series / Radeon Vega Mobile Series [Integrated]</li> </ul> <p>Happens in all Proton games. nvidia-powerd is enabled. Power profile is set to Performance in both Plasma and Legion thing. Lenovo Legion Linux installed and power profile is set to Performance.</p> <p>In Cyberpunk benchmark it reports power throttling, but the power supply is rated for 300W, max GPU power consumption reported by nvidia-smi is 120W, meanwhile it pretty much never gets to 115W, CPU has TDP of less than 60W, so even with top GPU and CPU usage I should have 100W spare.</p> <p>I checked Vintage Story (it&#39;s native, uses OpenGL) and it uses ~100% of my dGPU, nvidia-smi reports 120W of power draw
+
+## Is anyone else getting issues with Mangohud freezing when the game loads on it's first frame? VKD3D apps specifically
+ - [https://www.reddit.com/r/linux_gaming/comments/1ifjc1i/is_anyone_else_getting_issues_with_mangohud](https://www.reddit.com/r/linux_gaming/comments/1ifjc1i/is_anyone_else_getting_issues_with_mangohud)
+ - RSS feed: $source
+ - date published: 2025-02-01T23:20:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1ifjc1i/is_anyone_else_getting_issues_with_mangohud/"> <img src="https://external-preview.redd.it/MJpXAmq9MCGZaFyEkn_9GVX0F4mOvOrlMryWgYPzFTw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bd23c4703676fa47aaddaf18c3226c5cbe3bda51" alt="Is anyone else getting issues with Mangohud freezing when the game loads on it's first frame? VKD3D apps specifically" title="Is anyone else getting issues with Mangohud freezing when the game loads on it's first frame? VKD3D apps specifically" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Maelstrome26"> /u/Maelstrome26 </a> <br/> <span><a href="https://www.youtube.com/watch?v=Suds_CGBhT8">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifjc1i/is_anyone_else_getting_issues_with_mangohud/">[comments]</a></span> </td></tr></table>
+
+## Issue with connecting to voice chat
+ - [https://www.reddit.com/r/linux_gaming/comments/1ifj201/issue_with_connecting_to_voice_chat](https://www.reddit.com/r/linux_gaming/comments/1ifj201/issue_with_connecting_to_voice_chat)
+ - RSS feed: $source
+ - date published: 2025-02-01T23:07:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m not sure if this is a linux issue or game issue but I recently began playing Overwatch 2 on steam after a long break (haven&#39;t played since Overwatch 1 on windows) </p> <p>I noticed now when I join a game it says Ive joined the team voice chat but I do not hear anyone talking. When I press the push to talk button I hear the indicator that I pressed it but it doesn&#39;t actually work. Any solution to getting voice chat working?</p> <p>It seems to work in other games like CS2</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jsc423"> /u/jsc423 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifj201/issue_with_connecting_to_voice_chat/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifj201/issue_with_connecting_to_voice_chat/">[comments]</a></span>
+
+## My time has come >:D
+ - [https://www.reddit.com/r/linux_gaming/comments/1ifhhl3/my_time_has_come_d](https://www.reddit.com/r/linux_gaming/comments/1ifhhl3/my_time_has_come_d)
+ - RSS feed: $source
+ - date published: 2025-02-01T21:55:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1ifhhl3/my_time_has_come_d/"> <img src="https://preview.redd.it/ctbfvz89nlge1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=77955f903faee6e6a976091e6b2dd67ca72a8d28" alt="My time has come &gt;:D" title="My time has come &gt;:D" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cassgreen_"> /u/cassgreen_ </a> <br/> <span><a href="https://i.redd.it/ctbfvz89nlge1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifhhl3/my_time_has_come_d/">[comments]</a></span> </td></tr></table>
+
+## Does minecraft bedrock work on linux, maybe with steam proton?
+ - [https://www.reddit.com/r/linux_gaming/comments/1ifhbof/does_minecraft_bedrock_work_on_linux_maybe_with](https://www.reddit.com/r/linux_gaming/comments/1ifhbof/does_minecraft_bedrock_work_on_linux_maybe_with)
+ - RSS feed: $source
+ - date published: 2025-02-01T21:48:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I couldn&#39;t find it on protondb</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pookshuman"> /u/pookshuman </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifhbof/does_minecraft_bedrock_work_on_linux_maybe_with/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifhbof/does_minecraft_bedrock_work_on_linux_maybe_with/">[comments]</a></span>
+
+## MangoHud configs
+ - [https://www.reddit.com/r/linux_gaming/comments/1ifh737/mangohud_configs](https://www.reddit.com/r/linux_gaming/comments/1ifh737/mangohud_configs)
+ - RSS feed: $source
+ - date published: 2025-02-01T21:42:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1ifh737/mangohud_configs/"> <img src="https://b.thumbs.redditmedia.com/3q86vmhj4Kfp3A-2j7dvog6yZ6q3VMcacUvQBO3bssY.jpg" alt="MangoHud configs" title="MangoHud configs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jtkosota"> /u/Jtkosota </a> <br/> <span><a href="https://www.reddit.com/gallery/1ifh737">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifh737/mangohud_configs/">[comments]</a></span> </td></tr></table>
+
+## Issue with Nvidia Drivers on Ubuntu: X11 Shows "Something Has Gone Wrong" After Installation
+ - [https://www.reddit.com/r/linux_gaming/comments/1ifgher/issue_with_nvidia_drivers_on_ubuntu_x11_shows](https://www.reddit.com/r/linux_gaming/comments/1ifgher/issue_with_nvidia_drivers_on_ubuntu_x11_shows)
+ - RSS feed: $source
+ - date published: 2025-02-01T21:10:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Whenever I install any Nvidia driver version on Ubuntu, X11 fails to load and displays a white screen with the message: &quot;Oh, sorry, something has gone wrong.&quot; However, if I uninstall the Nvidia driver, X11 works fine.</p> <p>I need to use X11 instead of Wayland with the Nvidia drivers installed since I&#39;m planning to overclock my GPU and game on it. Any help with resolving this issue would be greatly appreciated!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/stillsurvivesomehow"> /u/stillsurvivesomehow </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifgher/issue_with_nvidia_drivers_on_ubuntu_x11_shows/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifgher/issue_with_nvidia_drivers_on_ubuntu_x11_shows/">[comments]</a></span>
+
+## Distro and drivers for older Nvidia
+ - [https://www.reddit.com/r/linux_gaming/comments/1ifeujn/distro_and_drivers_for_older_nvidia](https://www.reddit.com/r/linux_gaming/comments/1ifeujn/distro_and_drivers_for_older_nvidia)
+ - RSS feed: $source
+ - date published: 2025-02-01T19:58:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is anyone here still using an older Nvidia card like the GTX 970 or 980? I&#39;m about to give away my old computer to someone with little Linux experience, and I plan to include my old GPU. I&#39;ve heard that older Nvidia cards aren&#39;t well supported by new drivers, so I&#39;m wondering if I should install something with more recent Nvidia drivers, or perhaps Ubuntu LTS which comes with Nvidia 535 (Latest drivers are available in a PPA). Since newer drivers don&#39;t fully support older GPUs and they&#39;re limited to Xorg anyway, would it make more sense to install something that will receive security updates and support for a longer time? Old Nvidia GPUs aren&#39;t getting new features or improvements on Xorg anyway.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-386"> /u/Ok-386 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifeujn/distro_and_drivers_for_older_nvidia/">[link
+
+## Games for my Wife
+ - [https://www.reddit.com/r/linux_gaming/comments/1ifeqi5/games_for_my_wife](https://www.reddit.com/r/linux_gaming/comments/1ifeqi5/games_for_my_wife)
+ - RSS feed: $source
+ - date published: 2025-02-01T19:53:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve got her switched over to Mint except for some of her Windows-only graphics software and she would love to play some of her old FPS games like Hexen and Heretic. I&#39;ve seen some ways to do it on Mint but I don&#39;t have the Linux skills to do all the stuff to make them work. Is there a easy way to do it?</p> <p>Captain Quack</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Captain-Quack"> /u/Captain-Quack </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifeqi5/games_for_my_wife/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifeqi5/games_for_my_wife/">[comments]</a></span>
+
+## Has anyone playing Sims 1 Legacy done the resolution fix from github? I'm having trouble understanding the instructions
+ - [https://www.reddit.com/r/linux_gaming/comments/1ifdnj1/has_anyone_playing_sims_1_legacy_done_the](https://www.reddit.com/r/linux_gaming/comments/1ifdnj1/has_anyone_playing_sims_1_legacy_done_the)
+ - RSS feed: $source
+ - date published: 2025-02-01T19:05:37+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://github.com/FaithBeam/Sims-1-Complete-Collection-Widescreen-Patcher?tab=readme-ov-file">This</a> is the github resolution fix; I&#39;m not entirely sure what I&#39;m meant to do. I&#39;ve downloaded and extracted it, but I&#39;m not seeing a program or command for me to run. I would appreciate any and all advice.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/p_rawn"> /u/p_rawn </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifdnj1/has_anyone_playing_sims_1_legacy_done_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifdnj1/has_anyone_playing_sims_1_legacy_done_the/">[comments]</a></span>
+
+## What are my options to make one drive usable by Windows and Linux for gaming?
+ - [https://www.reddit.com/r/linux_gaming/comments/1ifd7l3/what_are_my_options_to_make_one_drive_usable_by](https://www.reddit.com/r/linux_gaming/comments/1ifd7l3/what_are_my_options_to_make_one_drive_usable_by)
+ - RSS feed: $source
+ - date published: 2025-02-01T18:46:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>NTFS - Native fs of Windows, Proton doesn&#39;t like it.<br/> FAT32 - Is this even an option?<br/> BTRFS - Nice filesystem in theory, there is a Windows driver written for it, but it&#39;s buggy and is not constantly being updated with bug fixes. This is the last FS I tried and it was becoming unresponsive in Windows after a few hours have passed.</p> <p>So those are what I have tried and didn&#39;t work, I&#39;m sick of formatting filesystems again and again and I need your advices for below filesystems.</p> <p>EXT4 - There seems to be a Windows driver called <a href="https://github.com/bobranten/Ext4Fsd">Ext4Fsd</a> but I don&#39;t know how good it is, but it doesn&#39;t like a complete Ext4 driver, you can read Unsupported Ext4 Features at the below of repository, is any of these important?<br/> exFAT - Another natively supported FS, I know Proton can&#39;t run games in there directly because FAT doesn&#39;t support symlinks, but there&#39;s a wor
+
+## Does Assetto Corsa (2014) work?
+ - [https://www.reddit.com/r/linux_gaming/comments/1ifbu7c/does_assetto_corsa_2014_work](https://www.reddit.com/r/linux_gaming/comments/1ifbu7c/does_assetto_corsa_2014_work)
+ - RSS feed: $source
+ - date published: 2025-02-01T17:48:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>The reviews at ProtonDB are very mixed, it doesn&#39;t seem to work at all for some people, while others say that it works out of the box.</p> <p>I&#39;ve never played a sim racing game, so I was considering buying it since it&#39;s cheap and well regarded.</p> <p>I don&#39;t own a racing wheel, and I&#39;m not concerned about mods.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DRAK0FR0ST"> /u/DRAK0FR0ST </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifbu7c/does_assetto_corsa_2014_work/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifbu7c/does_assetto_corsa_2014_work/">[comments]</a></span>
+
+## Why is Ryujinx gone from Flathub?
+ - [https://www.reddit.com/r/linux_gaming/comments/1ifawj2/why_is_ryujinx_gone_from_flathub](https://www.reddit.com/r/linux_gaming/comments/1ifawj2/why_is_ryujinx_gone_from_flathub)
+ - RSS feed: $source
+ - date published: 2025-02-01T17:07:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know there&#39;s <a href="https://flathub.org/apps/io.github.ryubing.Ryujinx">https://flathub.org/apps/io.github.ryubing.Ryujinx</a> now, but I had just &quot;Ryujinx&quot; installed from Flathub and while doing a flatpak update I noticed that it&#39;s abandoned now and the page for it was gone from Flathub. The original page -&gt; <a href="https://flathub.org/apps/org.ryujinx.Ryujinx">https://flathub.org/apps/org.ryujinx.Ryujinx</a></p> <p>Does anyone know the reason?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Damglador"> /u/Damglador </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifawj2/why_is_ryujinx_gone_from_flathub/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifawj2/why_is_ryujinx_gone_from_flathub/">[comments]</a></span>
+
+## Help
+ - [https://www.reddit.com/r/linux_gaming/comments/1ifa4pa/help](https://www.reddit.com/r/linux_gaming/comments/1ifa4pa/help)
+ - RSS feed: $source
+ - date published: 2025-02-01T16:34:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Help me plss Im trying to launch rdr2 and it shows the game is running but its not running do I have top change any settings on bottles or is it a problem?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NefariousnessBig8413"> /u/NefariousnessBig8413 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifa4pa/help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ifa4pa/help/">[comments]</a></span>
+
+## Marvel's Spider-Man 2 | 1440p Very High Preset | Linux Gameplay
+ - [https://www.reddit.com/r/linux_gaming/comments/1if9eyq/marvels_spiderman_2_1440p_very_high_preset_linux](https://www.reddit.com/r/linux_gaming/comments/1if9eyq/marvels_spiderman_2_1440p_very_high_preset_linux)
+ - RSS feed: $source
+ - date published: 2025-02-01T16:02:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1if9eyq/marvels_spiderman_2_1440p_very_high_preset_linux/"> <img src="https://external-preview.redd.it/bsUcS5AX6KLyDnQGws4RGugB3sUt6DSs-b4n_M7pht8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5b09c3f3224e4f1f4cdd8a1b66555d7fdc3d170f" alt="Marvel's Spider-Man 2 | 1440p Very High Preset | Linux Gameplay" title="Marvel's Spider-Man 2 | 1440p Very High Preset | Linux Gameplay" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/felix_ribeiro"> /u/felix_ribeiro </a> <br/> <span><a href="https://youtu.be/mXtBHsCdtgk">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if9eyq/marvels_spiderman_2_1440p_very_high_preset_linux/">[comments]</a></span> </td></tr></table>
+
+## Does the Pwnage Stormbreaker work under Linux (or browser software for mice in general)? Does it require udev magic or are there any better alternatives?
+ - [https://www.reddit.com/r/linux_gaming/comments/1if94md/does_the_pwnage_stormbreaker_work_under_linux_or](https://www.reddit.com/r/linux_gaming/comments/1if94md/does_the_pwnage_stormbreaker_work_under_linux_or)
+ - RSS feed: $source
+ - date published: 2025-02-01T15:48:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>I need a new mouse and I know that hardware and Linux aren&#39;t the best friends. Pwnage has one of these online/browser launchers to configure your mouse, but apparently a lot of devices with this type of software require special udev rules.<br/> Is there anyone who has experience with a devices like these? Or is there a officially/unofficially supported metal mouse for linux?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JustNerfRaze"> /u/JustNerfRaze </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if94md/does_the_pwnage_stormbreaker_work_under_linux_or/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if94md/does_the_pwnage_stormbreaker_work_under_linux_or/">[comments]</a></span>
+
+## It's amazing that we've made so much progress that mods are the main thing holding linux gaming back; but mods are holding linux gaming back.
+ - [https://www.reddit.com/r/linux_gaming/comments/1if8x6l/its_amazing_that_weve_made_so_much_progress_that](https://www.reddit.com/r/linux_gaming/comments/1if8x6l/its_amazing_that_weve_made_so_much_progress_that)
+ - RSS feed: $source
+ - date published: 2025-02-01T15:39:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was super excited to try out modding (I&#39;m new to pc gaming and mods on PS are limited). I downloaded <a href="https://github.com/limo-app/limo">limo</a> mod manager but sadly it&#39;s been nothing but frustrations.</p> <p>Both skyrim and fallout apparently have tons of mods that are no longer compatible with their &#39;next gen updates&#39;. There are programs to roll back those updates, sadly the problem is that they are windows executables that wine can&#39;t run. Pretty bummed to be honest. Anyone had any luck running these downgrader execs?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/alpacaMyToothbrush"> /u/alpacaMyToothbrush </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if8x6l/its_amazing_that_weve_made_so_much_progress_that/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if8x6l/its_amazing_that_weve_made_so_much_progress_that/">
+
+## Sound going in and out while gaming (nvidia, wayland)
+ - [https://www.reddit.com/r/linux_gaming/comments/1if8ril/sound_going_in_and_out_while_gaming_nvidia_wayland](https://www.reddit.com/r/linux_gaming/comments/1if8ril/sound_going_in_and_out_while_gaming_nvidia_wayland)
+ - RSS feed: $source
+ - date published: 2025-02-01T15:32:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>I did some research and apparently what&#39;s happening here is an &quot;xrun&quot; error. While playing a game the audio will just briefly mutte every now and then but it always really takes me out of the experience. It&#39;s very jarring and noticeable. Does anyone else experience this? I&#39;m running Fedora on wayland with an rtx 3060 and proprietary drivers. I&#39;m trying to figure out if this is some unavoidable thing related to hardware compatibility or if this could be fixed by some patch. Honestly, even just saying you have nvidia on wayland don&#39;t have this problem would help in a small way.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NomadFH"> /u/NomadFH </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if8ril/sound_going_in_and_out_while_gaming_nvidia_wayland/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if8ril/sound_going_in_
+
+## [GeforceNOW] Hardware acceleration causes heavy tearing
+ - [https://www.reddit.com/r/linux_gaming/comments/1if8mxh/geforcenow_hardware_acceleration_causes_heavy](https://www.reddit.com/r/linux_gaming/comments/1if8mxh/geforcenow_hardware_acceleration_causes_heavy)
+ - RSS feed: $source
+ - date published: 2025-02-01T15:26:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>As title says, activating hardware acceleration on chromium causes heavy tearing, as well as lower resolution. Software acceleration is fine (higher temps, of course). Hardware/driver as follows:</p> <p>iGPU: AMD Ryzen 9 5900HX (laptop)</p> <p>Wayland. Mesa 24.1, Vulkan</p> <p>Fedora 41</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/q_brt"> /u/q_brt </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if8mxh/geforcenow_hardware_acceleration_causes_heavy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if8mxh/geforcenow_hardware_acceleration_causes_heavy/">[comments]</a></span>
+
+## Issue with Bluetooth Gamepad (8bitdo Pro 2)
+ - [https://www.reddit.com/r/linux_gaming/comments/1if82eb/issue_with_bluetooth_gamepad_8bitdo_pro_2](https://www.reddit.com/r/linux_gaming/comments/1if82eb/issue_with_bluetooth_gamepad_8bitdo_pro_2)
+ - RSS feed: $source
+ - date published: 2025-02-01T14:59:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been having an issue with my 8BitDo Pro 2 controller on Linux Mint, where whenever i connect the controller, it works fine for exactly 30 seconds, after that the controller disconnects itself.</p> <p>I&#39;ve tried other modes on the controller but the result is the same. It works fine with a cable but not having bluetooth functinality is kind of a bummer to me.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/veras_opus"> /u/veras_opus </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if82eb/issue_with_bluetooth_gamepad_8bitdo_pro_2/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if82eb/issue_with_bluetooth_gamepad_8bitdo_pro_2/">[comments]</a></span>
+
+## Unstable GPU Usage %
+ - [https://www.reddit.com/r/linux_gaming/comments/1if7rft/unstable_gpu_usage](https://www.reddit.com/r/linux_gaming/comments/1if7rft/unstable_gpu_usage)
+ - RSS feed: $source
+ - date published: 2025-02-01T14:44:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just installed Once Human a couple of days ago and have really loved it but I seem to be struggling with display issues. The game runs perfectly fine, but my GPU usage randomly falls to 10% usage sometimes lower.</p> <p><em>Processing img 5kkweem08fge1...</em></p> <p>This graph doesn&#39;t show it dropping to 10% but anything under 30% usage and the game starts stuttering pretty bad. It seems to be pretty random though does seem to happen more around the towns. If I sit still the CPU usage stays right at 50% usage, it only starts tanking when I move around. It doesn&#39;t seem to happen on any other game I have played besides Once Human. Anyone have any ideas as to what can be causing this?</p> <p>I have tried both DX12 and DX11, FSR on and off, lowering graphics settings all the way to low and to high, I&#39;ve tried running the game with Proton Hotfix, Experimental, and 9, locked fps to 60 and 120, vsync on and off, all sorts of start up commands l
+
+## 100% CPU usage on games after updating
+ - [https://www.reddit.com/r/linux_gaming/comments/1if7aq2/100_cpu_usage_on_games_after_updating](https://www.reddit.com/r/linux_gaming/comments/1if7aq2/100_cpu_usage_on_games_after_updating)
+ - RSS feed: $source
+ - date published: 2025-02-01T14:20:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>I updated my software to the latest kernel and Nvidia Driver on Pop OS. When I start Yugioh Master Duels, it&#39;s a slide show now whereas it was working perfectly fine before the updates. I thought it was an Nvidia Driver issue but I&#39;ve tried 5.65 and downgraded to 5.35 having the same issue. </p> <p>When I looked in my performance monitor while the game was running, the CPU was at a constant 100%. My system settings are</p> <p>POP OS 22.04 Kernel 6.9.3-76060903-generic Intel i7-6700K 4.4 Ghz Nvidia GeForce GTX 1080 32 GB RAM</p> <p>I keep reading about governing the CPU but I&#39;m not sure how to go about doing that. Is there a way to revert back to the previous kernel?</p> <p>Edit: I think I might have narrowed down the problem. I tried launching Balatro and got an &quot;unable to create opengl window&quot; error. So I think Steam isn&#39;t seeing my graphics card anymore. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://w
+
+## Support for 4K 240hz and FHD 480hz?
+ - [https://www.reddit.com/r/linux_gaming/comments/1if78cq/support_for_4k_240hz_and_fhd_480hz](https://www.reddit.com/r/linux_gaming/comments/1if78cq/support_for_4k_240hz_and_fhd_480hz)
+ - RSS feed: $source
+ - date published: 2025-02-01T14:17:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>Can you guys tell me please what distro supports These refreshrates? Some distros show max 120hz or do i have to use DP over HDMI 2.1? I tried many since i wanna swap after 20years of windows. Thanks </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ArmaGhettOn84"> /u/ArmaGhettOn84 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if78cq/support_for_4k_240hz_and_fhd_480hz/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if78cq/support_for_4k_240hz_and_fhd_480hz/">[comments]</a></span>
+
+## Puck controls don't work
+ - [https://www.reddit.com/r/linux_gaming/comments/1if6y83/puck_controls_dont_work](https://www.reddit.com/r/linux_gaming/comments/1if6y83/puck_controls_dont_work)
+ - RSS feed: $source
+ - date published: 2025-02-01T14:02:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>For those who don&#39;t know puck is a very simple hokey game that is platinum on protondb, but doesn&#39;t have may reviews so that might be outdated. I was trying to play today for the first time and nothing but space and the mouse controls worked, but wasd and cntrl and shift were unresponsive. I tried proton 9, experimental and hotfix but nothing. Do you have any suggestions on how i can fix this?</p> <p>Edit: I am on fedora 40 if that is relevant </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GuyWantsToMakeGame"> /u/GuyWantsToMakeGame </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if6y83/puck_controls_dont_work/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if6y83/puck_controls_dont_work/">[comments]</a></span>
+
+## Combat master fix for graphics error
+ - [https://www.reddit.com/r/linux_gaming/comments/1if64lg/combat_master_fix_for_graphics_error](https://www.reddit.com/r/linux_gaming/comments/1if64lg/combat_master_fix_for_graphics_error)
+ - RSS feed: $source
+ - date published: 2025-02-01T13:18:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone </p> <p>So the new season just dropped and everything is black.</p> <p>For fixing this just go to the graphics settings and switch the render quality and then switch it back to your quality .It will rerender everything from new and it will work again as usual.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ordinary_Union_5925"> /u/Ordinary_Union_5925 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if64lg/combat_master_fix_for_graphics_error/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if64lg/combat_master_fix_for_graphics_error/">[comments]</a></span>
+
+## OBS Studio in Ubuntu
+ - [https://www.reddit.com/r/linux_gaming/comments/1if5xm3/obs_studio_in_ubuntu](https://www.reddit.com/r/linux_gaming/comments/1if5xm3/obs_studio_in_ubuntu)
+ - RSS feed: $source
+ - date published: 2025-02-01T13:07:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1if5xm3/obs_studio_in_ubuntu/"> <img src="https://b.thumbs.redditmedia.com/JmZae3bcl5UQs95fsUGQcN6mL2dgUOMCiPwoUEF43uo.jpg" alt="OBS Studio in Ubuntu" title="OBS Studio in Ubuntu" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I run Ubuntu 24.04.1 LTS &amp; stream my games from time to time, yesterday I streamed Oblivion &amp; noticed OBS Studio did, well, this</p> <p><a href="https://preview.redd.it/1q77otq81jge1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=13a2a238688214fc0194fddad59d0f3a4bb681fa">https://preview.redd.it/1q77otq81jge1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=13a2a238688214fc0194fddad59d0f3a4bb681fa</a></p> <p>the background peeking out from behind the game window isn&#39;t my desktop wallpaper but an image I have set up to be shown when I have no open windows that I wish to share with viewers, it seems this has something to do with Unity, how do I get OBS to stop doing this?
+
+## Do certain distros work better at gaming?
+ - [https://www.reddit.com/r/linux_gaming/comments/1if5gkh/do_certain_distros_work_better_at_gaming](https://www.reddit.com/r/linux_gaming/comments/1if5gkh/do_certain_distros_work_better_at_gaming)
+ - RSS feed: $source
+ - date published: 2025-02-01T12:39:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Like bazzite or cachyos? or would a normal distro like arch be just as good?</p> <p>I&#39;m new to Linux</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zeek988"> /u/zeek988 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if5gkh/do_certain_distros_work_better_at_gaming/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if5gkh/do_certain_distros_work_better_at_gaming/">[comments]</a></span>
+
+## Steam window keeps popping up when minimized or closed (but running in the background)
+ - [https://www.reddit.com/r/linux_gaming/comments/1if5fwn/steam_window_keeps_popping_up_when_minimized_or](https://www.reddit.com/r/linux_gaming/comments/1if5fwn/steam_window_keeps_popping_up_when_minimized_or)
+ - RSS feed: $source
+ - date published: 2025-02-01T12:38:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, i do not know if this is a Linux issue, Steam issue or rpm package issue.</p> <p>But if I have steam running, if I minimize or close the window. In few minutes steam will open the window and position itself on the top. Its extremely annoying. It seems like its reloading itself each time. It has fake startups for some reason.</p> <p>Does anyone have the same issue and managed to fix it?</p> <p>Im running latest Fedora KDE with Steam from Fedora repos (not flatpak).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PicardovaKosa"> /u/PicardovaKosa </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if5fwn/steam_window_keeps_popping_up_when_minimized_or/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if5fwn/steam_window_keeps_popping_up_when_minimized_or/">[comments]</a></span>
+
+## Ryzen APU (CPU x Radeon GPU) + Nvidia GPU vs Intel CPU + Nvidia GPU for a Linux Laptop ?
+ - [https://www.reddit.com/r/linux_gaming/comments/1if4tfx/ryzen_apu_cpu_x_radeon_gpu_nvidia_gpu_vs_intel](https://www.reddit.com/r/linux_gaming/comments/1if4tfx/ryzen_apu_cpu_x_radeon_gpu_nvidia_gpu_vs_intel)
+ - RSS feed: $source
+ - date published: 2025-02-01T11:58:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I started to use GNU/Linux on my PC some months ago. Now I look forward to get a laptop to run a Linux distro as main Operating System, my questions: </p> <ul> <li><p>Since I&#39;m not someone who&#39;d do heavy gaming on a laptop except the retro console emulators (upto WiiU and PS3) , so it&#39;d be great if I can use iGPU as main display device and for light emulators or light games. However I&#39;m not sure if Intel iGPUs with the i915 driver are able to handle gaming especially some AAA steam titles and some demanding emulators? Please tell me. </p></li> <li><p>Furthermore I guess the open source AMD GPU driver is more stable as compared to Nvidia&#39;s proprietary GPU drivers so it&#39;d be ok for me to have AMD GPU as main display device whilst it will also come in use for doing light tasks aswell as emulation of less resource demanding titles? </p></li> <li><p>Another question: Does it depend on distro or device or something with which you ca
+
+## disable games going into background
+ - [https://www.reddit.com/r/linux_gaming/comments/1if4qiq/disable_games_going_into_background](https://www.reddit.com/r/linux_gaming/comments/1if4qiq/disable_games_going_into_background)
+ - RSS feed: $source
+ - date published: 2025-02-01T11:52:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a problem with Warframe on Gnome (EndeavourOS without any modifications) where whenever i alt+tab or change the desktop to another app it automatically stops Warframe from doing anything which results in problems with connection, freezes for my teammates, me being unable to receive trade messages. I recon all of this is due to the game relying on P2P connections.</p> <p>What i&#39;ve already tried: </p> <p>Removing power profiles. didn&#39;t work at all (power-profiles-daemon)</p> <p>Gamemode - didn&#39;t work at all</p> <p>Gamescope - worked but switched my keyboard to us ( i use czech ) and switched the state of numlock ( when it was turned off on my keyboard it was on in game). Completely borked the launcher whenever i forced fullscreen. And disabled fullscreen in game when i didnt forced fullscreen.<br/> <code>gamescope -H 1440 -r 165 -F -- %command%</code><br/> I also used the recommended command for it to run &quot;faster&quot;.<code>&#3
+
+## I ♥️ CoolerControl
+ - [https://www.reddit.com/r/linux_gaming/comments/1if42w3/i_coolercontrol](https://www.reddit.com/r/linux_gaming/comments/1if42w3/i_coolercontrol)
+ - RSS feed: $source
+ - date published: 2025-02-01T11:06:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1if42w3/i_coolercontrol/"> <img src="https://external-preview.redd.it/A06-TahxtVVDID-TKYHKEPTan4w1kU3IqDiTJPcfCFU.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=1e85edb445fa075016088bf2757a7f0b48698000" alt="I ♥️ CoolerControl" title="I ♥️ CoolerControl" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I don&#39;t know how I didn&#39;t know this existed until I saw it preinstalled and toyed around with it when I gave Bazzite a spin and wanted to share for those who don&#39;t know what it is. </p> <p>If you&#39;ve ever bought one of those fancy all-in-one liquid coolers, especially if you&#39;re currently on or have used Windows in the past, you know that absolute dread of having to install <em>yet another</em> piece of proprietary bloat just to control the RGB or fan curve of the thing. </p> <p>But what happens when you can&#39;t use that software?</p> <p>Currently, I have a Corsair H100i AIO CPU cooler and
+
+## Is Linux gaming better on a CPU-bottlenecked setup?
+ - [https://www.reddit.com/r/linux_gaming/comments/1if3ubw/is_linux_gaming_better_on_a_cpubottlenecked_setup](https://www.reddit.com/r/linux_gaming/comments/1if3ubw/is_linux_gaming_better_on_a_cpubottlenecked_setup)
+ - RSS feed: $source
+ - date published: 2025-02-01T10:49:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>My setup is on its last legs, and I can&#39;t run many of the games around comfortably due to my CPU bottleneck. Often enough I&#39;ll see ~70-90% CPU usage while my GPU usage sits at around ~30-40%. (GTX 1660ti + i5-7500).</p> <p>I tried Linux gaming for unrelated reasons and noticed one thing - games that are harder on the CPU like No Man&#39;s Sky ran better than on Windows. This might be a long shot, but is it possible that gaming on Linux helps performance in more CPU-bound situations? If so, I might be able to use that to my advantage to squeeze whatever life is left of this current setup until I build a new PC :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/n988"> /u/n988 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if3ubw/is_linux_gaming_better_on_a_cpubottlenecked_setup/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if3ubw/is_linu
+
+## Is there a way to change the Minecraft fullscreen rendering resolution with fabric?
+ - [https://www.reddit.com/r/linux_gaming/comments/1if3sbl/is_there_a_way_to_change_the_minecraft_fullscreen](https://www.reddit.com/r/linux_gaming/comments/1if3sbl/is_there_a_way_to_change_the_minecraft_fullscreen)
+ - RSS feed: $source
+ - date published: 2025-02-01T10:45:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am unable to change the fullscreen resolution directly from the settings, and I really need it bcz I love playing with shaders, but an unstable 60fps is a minor no. My res is 2560x1600 and I want it at 1920x1200. That will give me an extra 30 fps, and I have given up on changing the screen resolution in itself, since I found no way to do that on GNOME WayLand (or KDE) with my Nvidia Open GPU</p> <p>The Distro I&#39;m Using in this case is Arch</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SunkyWasTaken"> /u/SunkyWasTaken </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if3sbl/is_there_a_way_to_change_the_minecraft_fullscreen/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if3sbl/is_there_a_way_to_change_the_minecraft_fullscreen/">[comments]</a></span>
+
+## Tried Linux for 2 Month, but had to move back to Windows, even if i want to make it work.
+ - [https://www.reddit.com/r/linux_gaming/comments/1if3ep1/tried_linux_for_2_month_but_had_to_move_back_to](https://www.reddit.com/r/linux_gaming/comments/1if3ep1/tried_linux_for_2_month_but_had_to_move_back_to)
+ - RSS feed: $source
+ - date published: 2025-02-01T10:16:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>First of, sorry for my bad english. </p> <p>With the Steam Deck i played around with Linux for almost a Year, tried different distros etc, got a feel for it and learned a few things.</p> <p>In December i then switched for a Month, i had a few problems but most of the time i got them fixed and had a relatively good time.</p> <p>Even did a YouTube Video about my experience because my experience was &quot;almost perfect&quot;</p> <p>I then used it another month and.... anything kinda fallen apart because i found problems that go beyond fixing a Game or finding software alternatives.</p> <p>In general when it works, i still liked the experience on Linux and especially the look and feel of Gnome and how easy it is to install fan patches and Mods with Lutris, i love retro Games and installing Thief with Fan Patches just is amazing.</p> <p>It also is incredibly smooth, and Bazzite in general with Gnomes takes away so many pain points i had with setting up a
+
+## Need help with nodding SSE on Steam Deck (SkyUI problem)
+ - [https://www.reddit.com/r/linux_gaming/comments/1if33k3/need_help_with_nodding_sse_on_steam_deck_skyui](https://www.reddit.com/r/linux_gaming/comments/1if33k3/need_help_with_nodding_sse_on_steam_deck_skyui)
+ - RSS feed: $source
+ - date published: 2025-02-01T09:53:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>As stated in caption, I am having a trouble with SkyUI on my steam deck. I didn&#39;t know which subreddit would be the correct option for such a question, so I apologize for perhaps the off-topic. Essentially, I am a noob at modding, but I&#39;ve already gone through the whole setup procedures on my barely alive laptop before. It worked without much issue there, so I personally think I know how to install SKSE64 and so on, so I don&#39;t need the guides on how to install it, since I&#39;ve already read them. I am rather desperate, since on game world startup, maybe few days ago there would be a pop-up with an error code stating -1 or 1 as far as I can remember. After some time it never appeared anymore, but SkyUI refused to open MCM and was simply showing me the yellow-ish picture without any options or ability to operate, so just blank. When opening any menus/pickpockets anybody, the menus did appear, but with a delay in roughly 5 seconds. I am ope
+
+## Need help with nodding SSE on Steam Deck (SkyUI problem)
+ - [https://www.reddit.com/r/linux_gaming/comments/1if336k/need_help_with_nodding_sse_on_steam_deck_skyui](https://www.reddit.com/r/linux_gaming/comments/1if336k/need_help_with_nodding_sse_on_steam_deck_skyui)
+ - RSS feed: $source
+ - date published: 2025-02-01T09:52:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>As stated in caption, I am having a trouble with SkyUI on my steam deck. I didn&#39;t know which subreddit would be the correct option for such a question, so I apologize for perhaps the off-topic. Essentially, I am a noob at modding, but I&#39;ve already gone through the whole setup procedures on my barely alive laptop before. It worked without much issue there, so I personally think I know how to install SKSE64 and so on, so I don&#39;t need the guides on how to install it, since I&#39;ve already read them. I am rather desperate, since on game world startup, maybe few days ago there would be a pop-up with an error code stating -1 or 1 as far as I can remember. After some time it never appeared anymore, but SkyUI refused to open MCM and was simply showing me the yellow-ish picture without any options or ability to operate, so just blank. When opening any menus/pickpockets anybody, the menus did appear, but with a delay in roughly 5 seconds. I am ope
+
+## First patches submitted for new kernel driver for GSP-based Nvidia GPUs
+ - [https://www.reddit.com/r/linux_gaming/comments/1if2sf1/first_patches_submitted_for_new_kernel_driver_for](https://www.reddit.com/r/linux_gaming/comments/1if2sf1/first_patches_submitted_for_new_kernel_driver_for)
+ - RSS feed: $source
+ - date published: 2025-02-01T09:29:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1if2sf1/first_patches_submitted_for_new_kernel_driver_for/"> <img src="https://external-preview.redd.it/LrT-08N_Ggc2q75lyEn0aJ1KtJwYFpLcrL60x8C1X1E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b5907105d065fb7b92fc8d53cc9d331ca7c82e56" alt="First patches submitted for new kernel driver for GSP-based Nvidia GPUs" title="First patches submitted for new kernel driver for GSP-based Nvidia GPUs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/anthchapman"> /u/anthchapman </a> <br/> <span><a href="https://www.phoronix.com/news/NOVA-Core-Patches">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if2sf1/first_patches_submitted_for_new_kernel_driver_for/">[comments]</a></span> </td></tr></table>
+
+## Do this happen to everyone? How do I fix it?
+ - [https://www.reddit.com/r/linux_gaming/comments/1if2d97/do_this_happen_to_everyone_how_do_i_fix_it](https://www.reddit.com/r/linux_gaming/comments/1if2d97/do_this_happen_to_everyone_how_do_i_fix_it)
+ - RSS feed: $source
+ - date published: 2025-02-01T08:57:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1if2d97/do_this_happen_to_everyone_how_do_i_fix_it/"> <img src="https://external-preview.redd.it/MzdmdTVlZWZzaGdlMT3MzbJKd15bUu56NNP5sWI4xavc8zpKMaKnVybDGboh.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=249c9bae9b6c935daae810fe38ca10990c0c5636" alt="Do this happen to everyone? How do I fix it?" title="Do this happen to everyone? How do I fix it?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Smooth_Finance_1825"> /u/Smooth_Finance_1825 </a> <br/> <span><a href="https://v.redd.it/261ycdefshge1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if2d97/do_this_happen_to_everyone_how_do_i_fix_it/">[comments]</a></span> </td></tr></table>
+
+## How do I limit my FPS in a wine game
+ - [https://www.reddit.com/r/linux_gaming/comments/1if1y1a/how_do_i_limit_my_fps_in_a_wine_game](https://www.reddit.com/r/linux_gaming/comments/1if1y1a/how_do_i_limit_my_fps_in_a_wine_game)
+ - RSS feed: $source
+ - date published: 2025-02-01T08:25:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>I Installed an undertale mod and everything works fine, except the game runs at double the speed. no idea why. I think it&#39;s related to the fps, as the game is intended to run at 30 fps, any fixes?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mushroomage_"> /u/Mushroomage_ </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if1y1a/how_do_i_limit_my_fps_in_a_wine_game/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if1y1a/how_do_i_limit_my_fps_in_a_wine_game/">[comments]</a></span>
+
+## Counter Strike 2 GTX 1650 + R5 5500 (1080p Multiple Settings 100-16FPS)
+ - [https://www.reddit.com/r/linux_gaming/comments/1if1r11/counter_strike_2_gtx_1650_r5_5500_1080p_multiple](https://www.reddit.com/r/linux_gaming/comments/1if1r11/counter_strike_2_gtx_1650_r5_5500_1080p_multiple)
+ - RSS feed: $source
+ - date published: 2025-02-01T08:10:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1if1r11/counter_strike_2_gtx_1650_r5_5500_1080p_multiple/"> <img src="https://external-preview.redd.it/UPSpzLpHnAJ0bVZ3R-viEUO2qKmvA5rQAUz-JvCrdds.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9832b7191d6accd64fac56e05df55273a1a1dbe6" alt="Counter Strike 2 GTX 1650 + R5 5500 (1080p Multiple Settings 100-16FPS)" title="Counter Strike 2 GTX 1650 + R5 5500 (1080p Multiple Settings 100-16FPS)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OmarHanyKasban"> /u/OmarHanyKasban </a> <br/> <span><a href="https://youtu.be/DZnhj41g7JU?si=bPGYyzv1-ylBXgAJ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if1r11/counter_strike_2_gtx_1650_r5_5500_1080p_multiple/">[comments]</a></span> </td></tr></table>
+
+## So new season just dropped... I think they added a hard difficulty...
+ - [https://www.reddit.com/r/linux_gaming/comments/1if184u/so_new_season_just_dropped_i_think_they_added_a](https://www.reddit.com/r/linux_gaming/comments/1if184u/so_new_season_just_dropped_i_think_they_added_a)
+ - RSS feed: $source
+ - date published: 2025-02-01T07:31:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1if184u/so_new_season_just_dropped_i_think_they_added_a/"> <img src="https://external-preview.redd.it/bzhneDBldXpjaGdlMfSuwtMFsz81_YvBeCujB9YP6NmQY-Q3EZ8LTnVSHDmg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=64eeb4986ea36e34a462281b17de95448452f5e1" alt="So new season just dropped... I think they added a hard difficulty..." title="So new season just dropped... I think they added a hard difficulty..." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Smooth_Finance_1825"> /u/Smooth_Finance_1825 </a> <br/> <span><a href="https://v.redd.it/nocl6auzchge1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if184u/so_new_season_just_dropped_i_think_they_added_a/">[comments]</a></span> </td></tr></table>
+
+## Hogwarts Legacy just dropped the modding update
+ - [https://www.reddit.com/r/linux_gaming/comments/1if14k1/hogwarts_legacy_just_dropped_the_modding_update](https://www.reddit.com/r/linux_gaming/comments/1if14k1/hogwarts_legacy_just_dropped_the_modding_update)
+ - RSS feed: $source
+ - date published: 2025-02-01T07:24:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>The very first thing this update does is requires you to accept the EULA where it informs you your data will be collected and given to 3rd parties</p> <p>your options are to 1)accept or 2)reject and if you happen to be in the EU rejecting will take you to a page &#39;Privacy Center is Not Available in Your Region&#39; meaning your only option to play this game now is to agree to data collection...</p> <p>I am honestly wanting to refund this game now but its been on my collection months, I dont know if I will be eligible, what are other peoples thoughts on this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_leeloo_7_"> /u/_leeloo_7_ </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if14k1/hogwarts_legacy_just_dropped_the_modding_update/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if14k1/hogwarts_legacy_just_dropped_the_modding_update/">[commen
+
+## Installing reshade for FF7Remake/Rebirth help wanted
+ - [https://www.reddit.com/r/linux_gaming/comments/1if0ynx/installing_reshade_for_ff7remakerebirth_help](https://www.reddit.com/r/linux_gaming/comments/1if0ynx/installing_reshade_for_ff7remakerebirth_help)
+ - RSS feed: $source
+ - date published: 2025-02-01T07:12:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I have been attempting to install reshade for FF7 Remake/Rebirth using my usual method of using kevinlekillers reshade for linux script <a href="https://github.com/kevinlekiller/reshade-steam-proton">https://github.com/kevinlekiller/reshade-steam-proton</a> it installs correctly but no matter what I am unable to see the reshade menu in game (yes I have setup the launch arguments) Linux Mint 22.1 and Bazzite OS have the same issue so not related to distro. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Xav_NZ"> /u/Xav_NZ </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if0ynx/installing_reshade_for_ff7remakerebirth_help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1if0ynx/installing_reshade_for_ff7remakerebirth_help/">[comments]</a></span>
+
+## What's the command to run Gamescope and Feral Gamemode for each Steam game? I'm on Nobara 41
+ - [https://www.reddit.com/r/linux_gaming/comments/1iezk4t/whats_the_command_to_run_gamescope_and_feral](https://www.reddit.com/r/linux_gaming/comments/1iezk4t/whats_the_command_to_run_gamescope_and_feral)
+ - RSS feed: $source
+ - date published: 2025-02-01T05:37:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>including to enable other like HDR, VRR, FSR etc...</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WoodsBeatle513"> /u/WoodsBeatle513 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iezk4t/whats_the_command_to_run_gamescope_and_feral/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iezk4t/whats_the_command_to_run_gamescope_and_feral/">[comments]</a></span>
+
+## Controller disconnects every time I boot/wake up my computer
+ - [https://www.reddit.com/r/linux_gaming/comments/1iezbs8/controller_disconnects_every_time_i_bootwake_up](https://www.reddit.com/r/linux_gaming/comments/1iezbs8/controller_disconnects_every_time_i_bootwake_up)
+ - RSS feed: $source
+ - date published: 2025-02-01T05:23:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>My controller (8bitdo pro 2 HE xbox) completely disconnects every time I wake up or boot my computer. In order to get it to properly connect I have to completely unplug it and plug it back in. Preferably it would just automatically turn on as soon as my computer turns on. I have tried using usbreset to reset the port but that didn&#39;t do anything.</p> <p>Haven&#39;t found this particular problem really anywhere else.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Slobber910"> /u/Slobber910 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iezbs8/controller_disconnects_every_time_i_bootwake_up/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iezbs8/controller_disconnects_every_time_i_bootwake_up/">[comments]</a></span>
+
+## Issues Streaming to Steamdeck With Moonlight and Sunshine
+ - [https://www.reddit.com/r/linux_gaming/comments/1iez25w/issues_streaming_to_steamdeck_with_moonlight_and](https://www.reddit.com/r/linux_gaming/comments/1iez25w/issues_streaming_to_steamdeck_with_moonlight_and)
+ - RSS feed: $source
+ - date published: 2025-02-01T05:06:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello all,</p> <p>I&#39;ve posted on the Moonlight github about this, but haven&#39;t gotten a reply.</p> <p>I&#39;m having issues streaming from a Linux host (EndeavourOS) running Sunshine. The issues only occur to my OLED Steamdeck, though. I get the slow network connection popups constantly over wifi and with a USB-C NIC.</p> <p>What I don&#39;t understand, is I can stream to a Windows machine over Wifi from the exact same location at 60Mbps, but with EndeavourOS as the host, I can&#39;t even hit 30Mbps and it stutters like hell even below that.</p> <p>Both the Windows host and EndeavourOS are running in VMs under Proxmox, each with their own GPU passed through. Windows is using a 4070ti Super and EndeavourOS a 7900XTX.</p> <p>I can stream to other clients from EndeavourOS with absolutely no issues. It is only to the Steamdeck when EndeavourOS is the host that the connection is basically unusable.</p> <p>Also, I&#39;ve already been through all the
+
+## After with muxless NVidia Optimus, I finally got bazzite ready for gaming
+ - [https://www.reddit.com/r/linux_gaming/comments/1ieww1m/after_with_muxless_nvidia_optimus_i_finally_got](https://www.reddit.com/r/linux_gaming/comments/1ieww1m/after_with_muxless_nvidia_optimus_i_finally_got)
+ - RSS feed: $source
+ - date published: 2025-02-01T03:02:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1ieww1m/after_with_muxless_nvidia_optimus_i_finally_got/"> <img src="https://b.thumbs.redditmedia.com/Bvls2KQz1O6PVob_L7jtuqBCpMT0mJhknNg0wzCsFVc.jpg" alt="After with muxless NVidia Optimus, I finally got bazzite ready for gaming" title="After with muxless NVidia Optimus, I finally got bazzite ready for gaming" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alexcerzea24"> /u/Alexcerzea24 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ieww1m">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ieww1m/after_with_muxless_nvidia_optimus_i_finally_got/">[comments]</a></span> </td></tr></table>
+
+## Getting Starfield/SFSE to run through MO2?
+ - [https://www.reddit.com/r/linux_gaming/comments/1iewtlb/getting_starfieldsfse_to_run_through_mo2](https://www.reddit.com/r/linux_gaming/comments/1iewtlb/getting_starfieldsfse_to_run_through_mo2)
+ - RSS feed: $source
+ - date published: 2025-02-01T02:59:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>So on my PC (Fedora 41) I&#39;ve been trying to have Starfield run through MO2 using SFSE the past two weeks but can&#39;t seem to get all 3 working together like I can with Skyrim (Skyrim is the GOG version so that may be why). Here is what I&#39;m doing:</p> <p>I installed and ran Starfield + the CK through Steam. All good</p> <p>I installed MO2 for Starfield using Lutris. All good</p> <p>Installed SFSE and Address Library. Ran MO2, mods show up. So far so good.</p> <p>I then tried to add Starfield, SFSE and the CK in MO2 with the correct paths to each exe and ran them one at a time. Each one fails to run even when choosing Run with Steam and Run without Steam.</p> <p>I ended up adding this to the Steam Launch option:</p> <p>bash -c &#39;exec &quot;${@/Starfield.exe/sfse_loader.exe}&quot;&#39; %command%</p> <p>This launches SFSE, everything works. But going back to MO2 in Lutris and trying to run SFSE or Starfield and it fails to run.</p> <p>I&#39;
+
+## Xbox Play Anywhere on Linux?
+ - [https://www.reddit.com/r/linux_gaming/comments/1iewn7n/xbox_play_anywhere_on_linux](https://www.reddit.com/r/linux_gaming/comments/1iewn7n/xbox_play_anywhere_on_linux)
+ - RSS feed: $source
+ - date published: 2025-02-01T02:49:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>After using Xbox for my entire life and purchasing more than 100 games I am finally getting my own laptop and im thrilled to run Linux &amp; avoid the poor privacy of Microsoft and Windows. However, I am concerned that I won&#39;t be able to access my Xbox game library. Does anyone know if it&#39;s possible to install games from Xbox Play Anywhere on a Linux OS? If not would there be a workaround?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Top_Story_2425"> /u/Top_Story_2425 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iewn7n/xbox_play_anywhere_on_linux/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iewn7n/xbox_play_anywhere_on_linux/">[comments]</a></span>
+
+## how can i fix this? i use ubuntu
+ - [https://www.reddit.com/r/linux_gaming/comments/1iewcl0/how_can_i_fix_this_i_use_ubuntu](https://www.reddit.com/r/linux_gaming/comments/1iewcl0/how_can_i_fix_this_i_use_ubuntu)
+ - RSS feed: $source
+ - date published: 2025-02-01T02:33:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1iewcl0/how_can_i_fix_this_i_use_ubuntu/"> <img src="https://preview.redd.it/z46xs219vfge1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=f373ed03abf9b749f9b239c6649145b862cb748b" alt="how can i fix this? i use ubuntu" title="how can i fix this? i use ubuntu" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/suicidatboy"> /u/suicidatboy </a> <br/> <span><a href="https://i.redd.it/z46xs219vfge1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iewcl0/how_can_i_fix_this_i_use_ubuntu/">[comments]</a></span> </td></tr></table>
+
+## How to connect a Switch Pro Controller with Steam via Bluetooth on Linux Mint
+ - [https://www.reddit.com/r/linux_gaming/comments/1ievx4g/how_to_connect_a_switch_pro_controller_with_steam](https://www.reddit.com/r/linux_gaming/comments/1ievx4g/how_to_connect_a_switch_pro_controller_with_steam)
+ - RSS feed: $source
+ - date published: 2025-02-01T02:10:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>I searched the web and nothing seemed to work properly.<br/> Only a connection via cable seems to work.</p> <p>What&#39;s the current best practice for it that you know?</p> <p>Just a side note: I recently installed Linux Mint 22.1 as an alternative to Windows 11.<br/> Any help is appreciated!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NicellGamer"> /u/NicellGamer </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ievx4g/how_to_connect_a_switch_pro_controller_with_steam/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ievx4g/how_to_connect_a_switch_pro_controller_with_steam/">[comments]</a></span>
+
+## Trying to use Nintendo switch pro controller on warframe
+ - [https://www.reddit.com/r/linux_gaming/comments/1ievft3/trying_to_use_nintendo_switch_pro_controller_on](https://www.reddit.com/r/linux_gaming/comments/1ievft3/trying_to_use_nintendo_switch_pro_controller_on)
+ - RSS feed: $source
+ - date published: 2025-02-01T01:45:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am trying to use my switch controller on warframe, but have it act like an Xbox one controller in game, I have tried using steam input and it doesn&#39;t work. I remapped the buttons so AB and XY are swapped and this works, but now nothing else does. I just switched to Linux today and on win11 you just plug it in and it acts like an Xbox controller, how can I do this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Inside-Feeling-6938"> /u/Inside-Feeling-6938 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ievft3/trying_to_use_nintendo_switch_pro_controller_on/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ievft3/trying_to_use_nintendo_switch_pro_controller_on/">[comments]</a></span>
+
+## Help on running Forza Horizon 3 on Linux
+ - [https://www.reddit.com/r/linux_gaming/comments/1ieux9m/help_on_running_forza_horizon_3_on_linux](https://www.reddit.com/r/linux_gaming/comments/1ieux9m/help_on_running_forza_horizon_3_on_linux)
+ - RSS feed: $source
+ - date published: 2025-02-01T01:19:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve searched multiple reddit threads but none of them gave a solution, and talking about how wine has poor UWP support. However, those threads were from years ago so I figured it might be worth a shot to see if anyone has came up of a solution. Help would be appreciated!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/carrotjuiceuser"> /u/carrotjuiceuser </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ieux9m/help_on_running_forza_horizon_3_on_linux/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ieux9m/help_on_running_forza_horizon_3_on_linux/">[comments]</a></span>
+
+## Did my duty
+ - [https://www.reddit.com/r/linux_gaming/comments/1ieu4qo/did_my_duty](https://www.reddit.com/r/linux_gaming/comments/1ieu4qo/did_my_duty)
+ - RSS feed: $source
+ - date published: 2025-02-01T00:39:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1ieu4qo/did_my_duty/"> <img src="https://preview.redd.it/f3aj6c0obfge1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=5c88260f3aa67d4a27f43952cbea1b7831fb8034" alt="Did my duty" title="Did my duty" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/whatthesamuel"> /u/whatthesamuel </a> <br/> <span><a href="https://i.redd.it/f3aj6c0obfge1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ieu4qo/did_my_duty/">[comments]</a></span> </td></tr></table>
+
+## Hamachi connection problem :
+ - [https://www.reddit.com/r/linux_gaming/comments/1iettqu/hamachi_connection_problem](https://www.reddit.com/r/linux_gaming/comments/1iettqu/hamachi_connection_problem)
+ - RSS feed: $source
+ - date published: 2025-02-01T00:25:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>Anyone know how would I fix the connection problem? my server host is using Windows 10 while I am using 24.04 long term Ubuntu</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DragonFistLimitless"> /u/DragonFistLimitless </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iettqu/hamachi_connection_problem/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iettqu/hamachi_connection_problem/">[comments]</a></span>
+
+## Streaming on Steam Deck
+ - [https://www.reddit.com/r/linux_gaming/comments/1ietpla/streaming_on_steam_deck](https://www.reddit.com/r/linux_gaming/comments/1ietpla/streaming_on_steam_deck)
+ - RSS feed: $source
+ - date published: 2025-02-01T00:19:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am new to using a steam deck and Linux. I want to stream games on discord for friends but Vencord stopped working for me so I tried downloading Equibop but the issue still persists even after trying a new application.</p> <p>Every time I try streaming my full screen on desktop mode, the screen freezes in seconds then is stuck on the forever loading screen. I have so many custom mods downloaded on my steam deck and I don’t want to factory reset everything unless absolutely necessary. </p> <p>Does anyone have any advice on how to troubleshoot this issue? It would be most appreciated, thank you!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LandscapeOk6334"> /u/LandscapeOk6334 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ietpla/streaming_on_steam_deck/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ietpla/streaming_on_steam_deck/">[comments]<
+

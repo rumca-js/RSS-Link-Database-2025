@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-01T06:00:59+00:00",
+        "description": "Between Gran Turismo 7&#39;s latest update, the next VR Games Showcase and VR sci-fi shooter Exoshock, here&#39;s a few more stories across VR from this week.",
+        "id": 2019505,
+        "language": null,
+        "link": "https://www.uploadvr.com/xr-news-round-up-exoshock-gran-turismo-7-vr-games-showcase",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 375,
+        "source_url": "https://www.uploadvr.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.uploadvr.com/content/images/2025/01/2811a71a95b0b42b42ac714f07caccaa085e682f-1.webp",
+        "title": "XR News Round-Up: Gran Turismo 7, Exoshock, VR Games Showcase &amp; More",
+        "vote": 0
+    }
+]

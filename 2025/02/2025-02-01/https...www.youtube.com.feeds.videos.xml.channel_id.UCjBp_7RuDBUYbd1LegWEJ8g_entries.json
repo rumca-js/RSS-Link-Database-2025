@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Xbox",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-01T15:00:39+00:00",
+        "description": "Introducing CR Team Pass - a unique UFL in-game event inspired by the G.O.A.T.'s journey. Eager to elevate your game to legendary level? Seize the chance to add Cristiano to the lineup!\n\nhttps://www.xbox.com/games/store/ufl/9nbbqk8pr7d6",
+        "id": 2019872,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=WxFZ0Sx9rds",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 577,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjBp_7RuDBUYbd1LegWEJ8g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WxFZ0Sx9rds/hqdefault.jpg",
+        "title": "UFL\u2122 Cristiano Ronaldo TeamPass Trailer | Follow The",
+        "vote": 0
+    }
+]

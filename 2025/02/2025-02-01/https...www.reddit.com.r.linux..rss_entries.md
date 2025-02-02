@@ -1,0 +1,149 @@
+# Source:Linux, GNU/Linux, free software..., URL:https://www.reddit.com/r/linux/.rss, language:en
+
+## Native Linux Games for Lowish Spec PC
+ - [https://www.reddit.com/r/linux/comments/1ifi9eh/native_linux_games_for_lowish_spec_pc](https://www.reddit.com/r/linux/comments/1ifi9eh/native_linux_games_for_lowish_spec_pc)
+ - RSS feed: $source
+ - date published: 2025-02-01T22:30:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I’ve been full time Linux for about 12 months now. In general I love it. </p> <p>Switched over when it became clear my 8 year old Thinkpad was not going to be running Windows 11 through no fault of its own. </p> <p>I mostly work from it, but when not working I’m OBSESSED with SuperTuxKart. It’s my go-to for chilling out. </p> <p>Can anyone recommend any native to Linux (I don’t have Steam, not sure I understand Proton/Lutris) games that would work well on an Intel i5 5200u/8GB? Even if they’re oldies.</p> <p>Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/absolutelywontdothat"> /u/absolutelywontdothat </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1ifi9eh/native_linux_games_for_lowish_spec_pc/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ifi9eh/native_linux_games_for_lowish_spec_pc/">[comments]</a></span>
+
+## What’s new in GTK, winter 2025 edition
+ - [https://www.reddit.com/r/linux/comments/1ifi74b/whats_new_in_gtk_winter_2025_edition](https://www.reddit.com/r/linux/comments/1ifi74b/whats_new_in_gtk_winter_2025_edition)
+ - RSS feed: $source
+ - date published: 2025-02-01T22:27:57+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BrageFuglseth"> /u/BrageFuglseth </a> <br/> <span><a href="https://blog.gtk.org/2025/02/01/whats-new-in-gtk-winter-2025-edition/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ifi74b/whats_new_in_gtk_winter_2025_edition/">[comments]</a></span>
+
+## Trying to put an old Vive Focus remote control to new use (for Kodi). Is there a way?
+ - [https://www.reddit.com/r/linux/comments/1ifgb4a/trying_to_put_an_old_vive_focus_remote_control_to](https://www.reddit.com/r/linux/comments/1ifgb4a/trying_to_put_an_old_vive_focus_remote_control_to)
+ - RSS feed: $source
+ - date published: 2025-02-01T21:02:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Linux noob here (toying with computers since 1995 tho).</p> <p>So I got a few deprecated remote controls from VR helmets. Not the cool ones but the useless ones, like Google Daydream / Oculus Go / Samsung Gear / Vive Focus. Already got a couple of useable helmets for VR so that&#39;s not my point – I was just thinking of a way to use the scrapped remotes for, say, a media center running Linux Mint (actually a 2014 Mac Mini that I also scavenged from work).</p> <p>I&#39;m trying the Vive Focus remote control first, because it uses simple AAA batteries and has a trigger and I think the trackpad can click 4-ways. (The Google Daydream remote control seems cheaper but less &quot;open&quot;.) It&#39;s showing up fine in the bluetooth panel on the computer, connected and paired and trusted – Finch Dash F5EB it says. Now, how can I do to actually use it?? I should find a way to scan bluetooth communication, to see some codes change depending on the buttons I
+
+## Trying lmstudio with amd
+ - [https://www.reddit.com/r/linux/comments/1ifdvzv/trying_lmstudio_with_amd](https://www.reddit.com/r/linux/comments/1ifdvzv/trying_lmstudio_with_amd)
+ - RSS feed: $source
+ - date published: 2025-02-01T19:16:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all</p> <p>I am a veteran Linux user but new to AI. So i downloaded Lmstudio for my arch machine with 8700g apu. Installed rocm and set all flags and was happy that i could use the gpu for the language models i downloaded.</p> <p>But then i went into settings and saw that i am not using rocm but vulkan backend for the gpu. So i guess i am using radv.</p> <p>But here is my doubt...is vulkan backend utilizasing all of my gpu or is rocm faster? Should i be happy or should I work on the rocm installation some more?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vein80"> /u/vein80 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1ifdvzv/trying_lmstudio_with_amd/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ifdvzv/trying_lmstudio_with_amd/">[comments]</a></span>
+
+## AI is Creating a Generation of Illiterate Programmers
+ - [https://www.reddit.com/r/linux/comments/1ifao39/ai_is_creating_a_generation_of_illiterate](https://www.reddit.com/r/linux/comments/1ifao39/ai_is_creating_a_generation_of_illiterate)
+ - RSS feed: $source
+ - date published: 2025-02-01T16:58:03+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/namanyayg"> /u/namanyayg </a> <br/> <span><a href="https://nmn.gl/blog/ai-illiterate-programmers">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ifao39/ai_is_creating_a_generation_of_illiterate/">[comments]</a></span>
+
+## Change Tablet Mode Rotation Angle on KDE
+ - [https://www.reddit.com/r/linux/comments/1ifaasm/change_tablet_mode_rotation_angle_on_kde](https://www.reddit.com/r/linux/comments/1ifaasm/change_tablet_mode_rotation_angle_on_kde)
+ - RSS feed: $source
+ - date published: 2025-02-01T16:41:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>In Linux, my Lenovo Flex 5 only goes into tablet mode when it is fully folded 360 degrees. I would like it to behave more like Windows, where it goes into tablet mode when I fold it past 180 degrees, so that it is in tablet mode when it is in &quot;tent&quot;, or &quot;A&quot; mode. I&#39;m running KDE Neon.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ChickenFeline0"> /u/ChickenFeline0 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1ifaasm/change_tablet_mode_rotation_angle_on_kde/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ifaasm/change_tablet_mode_rotation_angle_on_kde/">[comments]</a></span>
+
+## I love Linux.
+ - [https://www.reddit.com/r/linux/comments/1if8kqi/i_love_linux](https://www.reddit.com/r/linux/comments/1if8kqi/i_love_linux)
+ - RSS feed: $source
+ - date published: 2025-02-01T15:23:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I took the plunge, I distrohopped quite a bit, settled for now on Ubuntu (I know, very mild choice... It just works though, and im content with it. Probably will change in a while)</p> <p>Of course i dual boot between windows and ubuntu, but i spend most of my time in the later. In fact I havent booted up windows in a week which is surprising since i am always on my PC. I love how customizable it is, even ubuntu, i love the gnome shell with the blur my shell extension and the green wallpaper with the forest and the aurora. And what makes me even more happy is the fact that i spent some time editing bashrc and messing around with the terminal and i got it to give me a cow with a random fortune in random lolcat colors every time i open it. It makes me want to study computers more in depth and how they work. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Equivalent_War_94"> /u/Equivalent_War_94 </a> <br/> <span><
+
+## Linux Support for Windows ‘Copilot Key’ Brings Potential Security Risks
+ - [https://www.reddit.com/r/linux/comments/1if822u/linux_support_for_windows_copilot_key_brings](https://www.reddit.com/r/linux/comments/1if822u/linux_support_for_windows_copilot_key_brings)
+ - RSS feed: $source
+ - date published: 2025-02-01T14:58:46+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://fossforce.com/2025/01/linux-support-for-windows-copilot-key-brings-potential-security-risks/">https://fossforce.com/2025/01/linux-support-for-windows-copilot-key-brings-potential-security-risks/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/levensvraagstuk"> /u/levensvraagstuk </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1if822u/linux_support_for_windows_copilot_key_brings/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1if822u/linux_support_for_windows_copilot_key_brings/">[comments]</a></span>
+
+## Llama 3.1 Community License is not a free software license
+ - [https://www.reddit.com/r/linux/comments/1if7bkh/llama_31_community_license_is_not_a_free_software](https://www.reddit.com/r/linux/comments/1if7bkh/llama_31_community_license_is_not_a_free_software)
+ - RSS feed: $source
+ - date published: 2025-02-01T14:22:12+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/B3_Kind_R3wind_"> /u/B3_Kind_R3wind_ </a> <br/> <span><a href="https://www.fsf.org/blogs/licensing/llama-3-1-community-license-is-not-a-free-software-license">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1if7bkh/llama_31_community_license_is_not_a_free_software/">[comments]</a></span>
+
+## Tiling Shell Brings Advanced Window Management to Linux
+ - [https://www.reddit.com/r/linux/comments/1if6zk7/tiling_shell_brings_advanced_window_management_to](https://www.reddit.com/r/linux/comments/1if6zk7/tiling_shell_brings_advanced_window_management_to)
+ - RSS feed: $source
+ - date published: 2025-02-01T14:04:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey <a href="/r/Linux">r/Linux</a> I&#39;m the developer of <a href="https://extensions.gnome.org/extension/7065/tiling-shell/">Tiling Shell</a>, a GNOME extension for advanced window management. It&#39;s highly configurable and offers different ways of tiling and managing your windows. The focus is on delivering the best user experience, highest stability, and full customization. Give it a try! <a href="https://extensions.gnome.org/extension/7065/tiling-shell/">Link</a> for download.</p> <p><a href="https://i.redd.it/81dxhrbrajge1.gif">https://i.redd.it/81dxhrbrajge1.gif</a></p> <p>It also works with multiple monitors (even if they use different scaling), comes with a number of tiling layouts built-in but there is a layout editor to allow you to create and save customs layouts.</p> <p>Tiling Shell also features the Snap Assistant, borrowed from Windows 11: just move a window to the top with your mouse and the Snap Assistant slides in and you can pla
+
+## League of legends on Windows VM on arch linux
+ - [https://www.reddit.com/r/linux/comments/1if608c/league_of_legends_on_windows_vm_on_arch_linux](https://www.reddit.com/r/linux/comments/1if608c/league_of_legends_on_windows_vm_on_arch_linux)
+ - RSS feed: $source
+ - date published: 2025-02-01T13:11:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have arch Linux, and I know there is a problem with vangaurd and linux kernel because vangaurd is kernel-level anti-cheat (spy-ware) so i was planning on playing league of legends on virtual machine on my linux distro.<br/> Will I face the same problem with Vangaurd, or will it be playable?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Inevitable_Bad_4546"> /u/Inevitable_Bad_4546 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1if608c/league_of_legends_on_windows_vm_on_arch_linux/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1if608c/league_of_legends_on_windows_vm_on_arch_linux/">[comments]</a></span>
+
+## Linux succes story
+ - [https://www.reddit.com/r/linux/comments/1if4sxm/linux_succes_story](https://www.reddit.com/r/linux/comments/1if4sxm/linux_succes_story)
+ - RSS feed: $source
+ - date published: 2025-02-01T11:57:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>This might not be the regular post up here but hear me out: My wife received a drawing tablet as a gift 6 years ago. She decided to use it again on her new laptop. Pressure sensitivity would not work and I could not find any drivers for it anymore. I told her: wait, I&#39;ll try Linux. I booted a very popular beginner distro on her laptop. One calibration later, Gimp worked perfectly with it! Including pressure sensitivity and pen buttons. That is a big win! </p> <p>Morale of the story: If someone is on Windows or something else and stuck with old hardware that won&#39;t work with it anymore, Linux might just help them out!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ray1992xD"> /u/Ray1992xD </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1if4sxm/linux_succes_story/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1if4sxm/linux_succes_story/">[comments]</a></s
+
+## What should I do if I get this error when installing UbuntuWhat should I do if I get this error when installing Ubuntu?
+ - [https://www.reddit.com/r/linux/comments/1if3jjn/what_should_i_do_if_i_get_this_error_when](https://www.reddit.com/r/linux/comments/1if3jjn/what_should_i_do_if_i_get_this_error_when)
+ - RSS feed: $source
+ - date published: 2025-02-01T10:27:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>Help please</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DesertyBoy"> /u/DesertyBoy </a> <br/> <span><a href="https://i.redd.it/jw9f7u9g8ige1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1if3jjn/what_should_i_do_if_i_get_this_error_when/">[comments]</a></span>
+
+## I made a steampunk bullet heaven game on and for Linux
+ - [https://www.reddit.com/r/linux/comments/1if39w1/i_made_a_steampunk_bullet_heaven_game_on_and_for](https://www.reddit.com/r/linux/comments/1if39w1/i_made_a_steampunk_bullet_heaven_game_on_and_for)
+ - RSS feed: $source
+ - date published: 2025-02-01T10:06:35+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/zarkonnen"> /u/zarkonnen </a> <br/> <span><a href="https://store.steampowered.com/app/2858150/Airships_Lost_Flotilla/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1if39w1/i_made_a_steampunk_bullet_heaven_game_on_and_for/">[comments]</a></span>
+
+## From version 1 to current version.
+ - [https://www.reddit.com/r/linux/comments/1if1s9m/from_version_1_to_current_version](https://www.reddit.com/r/linux/comments/1if1s9m/from_version_1_to_current_version)
+ - RSS feed: $source
+ - date published: 2025-02-01T08:13:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Since i can&#39;t upload more then one picture here i was forced to use imgur to upload them all, ironically the subreddit that was designed specifically to share someones setup deleted it because &quot;It&#39;s too default&quot;.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lillian_La_Elara_"> /u/Lillian_La_Elara_ </a> <br/> <span><a href="https://imgur.com/a/5lqiE3D">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1if1s9m/from_version_1_to_current_version/">[comments]</a></span>
+
+## This Week in Plasma: Feels Like a Good One
+ - [https://www.reddit.com/r/linux/comments/1if1gn5/this_week_in_plasma_feels_like_a_good_one](https://www.reddit.com/r/linux/comments/1if1gn5/this_week_in_plasma_feels_like_a_good_one)
+ - RSS feed: $source
+ - date published: 2025-02-01T07:49:18+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/gabriel_3"> /u/gabriel_3 </a> <br/> <span><a href="https://blogs.kde.org/2025/02/01/this-week-in-plasma-feels-like-a-good-one/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1if1gn5/this_week_in_plasma_feels_like_a_good_one/">[comments]</a></span>
+
+## A terminal may be the most natural way for a person to interact with a computer.
+ - [https://www.reddit.com/r/linux/comments/1if05cx/a_terminal_may_be_the_most_natural_way_for_a](https://www.reddit.com/r/linux/comments/1if05cx/a_terminal_may_be_the_most_natural_way_for_a)
+ - RSS feed: $source
+ - date published: 2025-02-01T06:15:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>In order to understand this obvious fact, you just need to remember how communication usually occurs in human society. We do not point fingers at the interlocutor, we speak to a person using words. We do not use only a few pre-prepared phrases when communicating with an interlocutor, our brain works and creates something not always predictable, and this gives us freedom and the opportunity to develop. Yes, emojis have been spreading lately, and people with disabilities can communicate using gestures, but words are generally the most common communication tool. For the same reason, when communicating with today&#39;s artificial intelligence, we speak to it using words, and not by pressing pre-prepared buttons with request options. Actually, this is what attracted me to Linux at the time.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/deKeiros"> /u/deKeiros </a> <br/> <span><a href="https://www.reddit.com/r/linux/
+
+## Screen Issue with Laptop
+ - [https://www.reddit.com/r/linux/comments/1iezyu5/screen_issue_with_laptop](https://www.reddit.com/r/linux/comments/1iezyu5/screen_issue_with_laptop)
+ - RSS feed: $source
+ - date published: 2025-02-01T06:03:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was trying to install Steam Deck recovery image and while on the desktop mode I get these greyed out thin bars on my screen whenever I move the cursor . So I tried installing Mint and the same Issue persist . No such issues on Windows 11. My laptop specs as below: Brand : Asus Tuf gaming A16 Advantage Edition CPU: Ryzen 7 7435HS GPU: Radeon 7600s RAM: 32gb DDR5 4800MHz ( upgrade from 16gb) </p> <p>Any help would be grateful to resolve this issue </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/7tempest"> /u/7tempest </a> <br/> <span><a href="https://i.redd.it/kv7h69rhxgge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iezyu5/screen_issue_with_laptop/">[comments]</a></span>
+
+## Linux as always
+ - [https://www.reddit.com/r/linux/comments/1iezil7/linux_as_always](https://www.reddit.com/r/linux/comments/1iezil7/linux_as_always)
+ - RSS feed: $source
+ - date published: 2025-02-01T05:35:12+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Human-Equivalent-154"> /u/Human-Equivalent-154 </a> <br/> <span><a href="https://i.redd.it/ux6po6edsgge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iezil7/linux_as_always/">[comments]</a></span>
+
+## What is a good Linux build for a headless folding@home build?
+ - [https://www.reddit.com/r/linux/comments/1iey8lv/what_is_a_good_linux_build_for_a_headless](https://www.reddit.com/r/linux/comments/1iey8lv/what_is_a_good_linux_build_for_a_headless)
+ - RSS feed: $source
+ - date published: 2025-02-01T04:17:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>As the title says, I need a good Linus build for a computer that will run <a href="mailto:folding@home">folding@home</a>. Would like it to be able to support running two Nvidia GPUs and MSI Afterburner. Would also like the unit to be headless and have a GUI interface when managing remote. Most likely Internet would be via a wifi usb dongle. Is there a Linux build that checks all those boxes and is relatively newbie friendly?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Goofcheese0623"> /u/Goofcheese0623 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iey8lv/what_is_a_good_linux_build_for_a_headless/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iey8lv/what_is_a_good_linux_build_for_a_headless/">[comments]</a></span>
+
+## we are back at 3%
+ - [https://www.reddit.com/r/linux/comments/1iex4y9/we_are_back_at_3](https://www.reddit.com/r/linux/comments/1iex4y9/we_are_back_at_3)
+ - RSS feed: $source
+ - date published: 2025-02-01T03:15:54+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Zery12"> /u/Zery12 </a> <br/> <span><a href="https://i.redd.it/tnzrnhoi3gge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iex4y9/we_are_back_at_3/">[comments]</a></span>
+

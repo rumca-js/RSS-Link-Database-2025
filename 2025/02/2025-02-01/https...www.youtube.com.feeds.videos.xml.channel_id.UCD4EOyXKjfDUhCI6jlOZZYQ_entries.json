@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eli the Computer Guy",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-01T16:44:30+00:00",
+        "description": "RSVP for Classes at - http://www.SiliconDojo.com\n\nSupport Classes at - https://donorbox.org/etcg\nFind All Classes at - https://www.elithecomputerguy.com\nLinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/\n\nCode and Notes -\n\nSo you think you want to start a tech business...\n\nLet's have a talk about spinning up a startup or building a tech business. Being an entrepreneur CAN be great, but much of the time it's a miserable slog that ends in abject failure.\n\nThoughts of business structure, and taxes... LLC, S Corp, DBA\n\nHow employees, contractors, and partners actually work for a business and legal responsibilities to considered.\n\nFiguring out products and Pricing models.\n\nWhen to quit your day job.\n\nAnd finally... Client Acquisition Cost... Your business will live or die based on CAC at scale...\n\nThe class will go over:\n\nThe difference between tech business and startup\nConcepts around funding\nAccelerators\nFinding help\nFinding customers\nHow to know if this is right for you\n",
+        "id": 2020321,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=LbVVSszOJtA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 102,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD4EOyXKjfDUhCI6jlOZZYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LbVVSszOJtA/hqdefault.jpg",
+        "title": "How to Found a Tech Business",
+        "vote": 0
+    }
+]

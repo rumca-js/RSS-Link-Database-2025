@@ -1,0 +1,68 @@
+# Source:The Verge -  All Posts, URL:https://www.theverge.com/rss/index.xml, language:en-US
+
+## Trump imposes sweeping tariffs on Canada, Mexico, and China
+ - [https://www.theverge.com/news/600334/trump-us-tariffs-imported-semiconductors-chips](https://www.theverge.com/news/600334/trump-us-tariffs-imported-semiconductors-chips)
+ - RSS feed: $source
+ - date published: 2025-02-01T17:36:06+00:00
+
+<figure>
+
+<img alt="An image showing shipping crates with arrows indicating a price increase" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STKS488_TARIFFS_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">The US is officially imposing tariffs on Canada, Mexico, and China. President Donald Trump announced that goods imported from Mexico and Canada will face a 25 percent tariff, while goods from China will face a 10 percent tariff. There will also be a lower 10 percent tariff on energy resources from Canada. In <a href="https://x.com/WhiteHouse/status/1885812335807275179">a series of posts on</a> X announcing the tariffs, the administration claimed they were happening to “hold China, Mexico, and Canada accountable for their promises to halt the flood of poisonous drugs into the United States” while repeat
+
+## Trump fires CFPB head Rohit Chopra
+ - [https://www.theverge.com/news/604685/trump-cfpb-head-rohit-chopra-fired](https://www.theverge.com/news/604685/trump-cfpb-head-rohit-chopra-fired)
+ - RSS feed: $source
+ - date published: 2025-02-01T11:51:51+00:00
+
+<figure>
+
+<img alt="A photo showing Rohit Chopra" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gettyimages-2156653590.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">President Donald Trump has fired Rohit Chopra, the director of the Consumer Financial Protection Bureau (CFPB). In <a href="https://x.com/chopracfpb/status/1885689592046559408">a letter posted to X</a>, Chopra confirmed his “term as CFPB Director has concluded.” Chopra was notified of his removal via an email from the White House, according to a <a href="https://apnews.com/article/trump-chopra-consumer-financial-protection-bureau-47b6b39d0eff05ea0c9bca4eacf55b79">report from the <em>Associated Press</em></a>.</p>
+
+<p class="has-text-align-none">During Chopra’s tenure, which began in 2021, the CFPB took an aggressive approach to regulating tech compan
+
+## It took more than a decade for a surreal RPG to get its final translation
+ - [https://www.theverge.com/games/603938/off-rpg-translation-interview](https://www.theverge.com/games/603938/off-rpg-translation-interview)
+ - RSS feed: $source
+ - date published: 2025-02-01T11:00:00+00:00
+
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/screenshot-4.png?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-drop-cap has-text-align-none">In 2008, Mortis Ghost made a game with his friend, composer Alias Conrad Coldwood. It was <a href="https://offtherpg.com/" data-type="link" data-id="https://offtherpg.com/">a surreal roleplaying game about a baseball player fighting ghosts called <em>Off</em></a>. He shared it for free on a French-speaking forum, where it garnered a small audience. One player was a French artist who was inspired to make a piece of fan art, which she shared with her then-girlfriend. &acirc;&#128;&#156;I was very intrigued,&acirc;&#128;&#157; says Quinn K, now a writer and game developer. At the time, she was a 15-year-old living in Austria who had no idea how influential <em>Off</em> would be
+
+## How to hide files and folders on Windows
+ - [https://www.theverge.com/how-to/604098/windows-files-folders-hidden-how-to](https://www.theverge.com/how-to/604098/windows-files-folders-hidden-how-to)
+ - RSS feed: $source
+ - date published: 2025-02-01T10:00:00+00:00
+
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/HT030_windows_0006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p class="has-text-align-none">While your Windows computer should be pretty well locked down with a password or maybe even some kind of <a href="https://www.theverge.com/2024/11/1/24285558/microsoft-windows-hello-ui-passkeys-beta-testing">biometric protection</a>, it&rsquo;s impossible to guarantee that no one else is ever going to get access to it, whether it&acirc;&#128;&#153;s a thief swiping your unlocked laptop from a coffee shop or one of your kids wanting to play a few games while you&rsquo;re doing something else.&Acirc;&nbsp;</p>
+
+<p class="has-text-align-none">Whatever the reason, knowing how to hide files and folders from view can be really useful. These files won&rsquo;t pop up during normal file bro
+
+## The Samsung Galaxy S25 Ultra isn’t so ‘ultra’ anymore
+ - [https://www.theverge.com/reviews/604154/samsung-galaxy-s25-ultra-review-ai-screen-battery](https://www.theverge.com/reviews/604154/samsung-galaxy-s25-ultra-review-ai-screen-battery)
+ - RSS feed: $source
+ - date published: 2025-02-01T09:00:00+00:00
+
+<figure>
+
+<img alt="" data-caption="Ultra used to mean something, you know?" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/DSC09399_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption>Ultra used to mean something, you know?</figcaption>
+</figure>
+<p class="has-drop-cap has-text-align-none">When you yell &acirc;&#128;&#156;Can you just Google it?&acirc;&#128;&#157; at your AI assistant, it&acirc;&#128;&#153;s fair to say that the AI assistant is not doing its job.</p>
+
+<p class="has-text-align-none">I was browning some beef on the stove and trying to determine when my husband&acirc;&#128;&#153;s flight was landing. I didn&acirc;&#128;&#153;t have the flight number, but there are only so many direct flights between Detroit and Seattle in a day. So I long-pressed the power button on the Samsung Galaxy S25 Ultra and asked Google&acirc;&#128;&#153;s Gemini assistant to find the info
+

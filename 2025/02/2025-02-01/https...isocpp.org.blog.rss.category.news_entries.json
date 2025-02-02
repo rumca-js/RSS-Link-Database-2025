@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-01T21:50:05+00:00",
+        "description": "<p>\n\t<img alt=\"Depositphotos_170038592_S.jpg\" src=\"https://isocpp.org/files/img/Depositphotos_170038592_S.jpg\" style=\"width: 200px; margin: 10px; float: right; height: 200px;\" />The C++ proposal for <code>indirect</code> and <code>polymorphic</code> introduces two new class templates designed to simplify working with dynamically allocated types while retaining value semantics. This post dives into a curious case with <code>polymorphic</code>, exploring why <code>std::default_initializable&lt;polymorphic&lt;T&gt;&gt;</code> evaluates to <code>true</code>&mdash;even when <code>polymorphic&lt;T&gt;</code> can&#39;t actually be default-initialized in practice.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://kaashif.co.uk/2025/01/18/when-a-default-initializable-type-actually-isn-t/\">When a default-initializable type actually isn&#39;t</a></h3>\n\t<p>\n\t\tby Kaashif Hymabaccus</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tI was looking at a proposal for adding value-semantic dynam",
+        "id": 2021563,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/02/when-a-default-initializable-type-actually-isnt-kaashif-hymabaccus",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "When a default-initializable type actually isn't -- Kaashif Hymabaccus",
+        "vote": 0
+    }
+]

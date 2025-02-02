@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-01T00:00:00+00:00",
+        "description": "Find out if you're a sigma who has aura or a delulu chud in danger of being mogged.",
+        "id": 2016985,
+        "language": "en-us",
+        "link": "https://lifehacker.com/entertainment/guide-to-gen-z-and-gen-alpha-slang?utm_medium=RSS",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 442,
+        "source_url": "https://lifehacker.com/feed/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://lifehacker.com/imagery/articles/01HW96DTWTS3NVFYV43RH258NM/hero-image.png",
+        "title": "'Mewing,' 'Sigma,' and Other Gen Z and Gen Alpha Slang You Might Need Help Decoding",
+        "vote": 0
+    }
+]

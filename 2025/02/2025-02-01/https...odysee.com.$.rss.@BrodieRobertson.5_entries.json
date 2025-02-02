@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-01T20:00:18+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/fsJR0g40-RU\" width=\"480\" alt=\"thumbnail\" title=\"Is It Time To Leave BCacheFS In The Past\" /></p>Bcachefs has had a fairly rocky time in the kernel over the years and as it's going it's unclear whether or not it'll actually stick around in the kernel or now and one dev has decided to leave it behind.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Blog Post: https://blog.sesse.net/blog/tech/2025-01-20-21-45_migrating_away_from_bcachefs.html<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Disc",
+        "id": 2021350,
+        "language": "en",
+        "link": "https://odysee.com/is-it-time-to-leave-bcachefs-in-the-past:ba2d4ecabb92951478ea11e5e33d53d9f32a4f6e",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Is It Time To Leave BCacheFS In The Past",
+        "vote": 0
+    }
+]

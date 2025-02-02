@@ -1,0 +1,142 @@
+# Source:Artificial Intelligence Gateway, URL:https://www.reddit.com/r/ArtificialInteligence/.rss, language:
+
+## Understanding AI Bias through the 10:10 watch problem
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1iffk2a/understanding_ai_bias_through_the_1010_watch](https://www.reddit.com/r/ArtificialInteligence/comments/1iffk2a/understanding_ai_bias_through_the_1010_watch)
+ - RSS feed: $source
+ - date published: 2025-02-01T20:29:08+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://medium.com/@sabirpatel_31306/understanding-ai-bias-through-the-10-10-watch-problem-eeebc1006d05">https://medium.com/@sabirpatel_31306/understanding-ai-bias-through-the-10-10-watch-problem-eeebc1006d05</a></p> <p>Have you noticed that almost every image of an analog watch online shows the time as 10:10? Try it: Google “watch images.” You’ll likely see the same 10:10 layout over and over.</p> <p>Now, here’s an experiment: ask an AI tool, like ChatGPT or an image generator, to create a picture of a watch showing 3:25 or any other time different then 10:10. What do you get? You’ll probably still see the classic 10:10 design watches.</p> <p><strong>Why does this happen?</strong></p> <p>It’s a known issue in AI and data science, but the root of the problem is surprisingly simple: <strong>data</strong>. AI learns from patterns in the datasets it’s trained on. When you search for watch images online, almost all show the time set to 10:10.</p
+
+## Can there be an artificial consumer?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1ifeo8k/can_there_be_an_artificial_consumer](https://www.reddit.com/r/ArtificialInteligence/comments/1ifeo8k/can_there_be_an_artificial_consumer)
+ - RSS feed: $source
+ - date published: 2025-02-01T19:50:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>It&#39;s pretty clear how automation and AI can make more products and services so the economy can produce more stuff with less effort and fewer resources. But the economy still depends on living persons like you and me for the demand side. Without consumers the economy shuts down. </p> <p>So, if owners of the production side want more control of the demand side how would they bypass inconsistent, unreliable and often impoverished human consumers? Could they create artificial consumers? Could humans be eliminated from most of the economy and still have the economy thrive? </p> <p>What would an artificial consumer be like? Would it have rights like right of ownership? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wtwtcgw"> /u/wtwtcgw </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1ifeo8k/can_there_be_an_artificial_consumer/">[link]</a></span> &#32; <span><a href="https://www.
+
+## Could timestamping trick AI into maintaining memory-like continuity?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1ifdrnn/could_timestamping_trick_ai_into_maintaining](https://www.reddit.com/r/ArtificialInteligence/comments/1ifdrnn/could_timestamping_trick_ai_into_maintaining)
+ - RSS feed: $source
+ - date published: 2025-02-01T19:10:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve been testing an idea where I manually add timestamps to every interaction with ChatGPT to create a simulated sense of time awareness. Since AI doesn’t have built-in memory or time tracking, I wondered if consistent &#39;time coordinates&#39; would help it acknowledge duration, continuity, and patterns over time. Has anyone else tried something similar? If so, what were your results?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Drag-6378"> /u/No-Drag-6378 </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1ifdrnn/could_timestamping_trick_ai_into_maintaining/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1ifdrnn/could_timestamping_trick_ai_into_maintaining/">[comments]</a></span>
+
+## Guidance for software engineer in an AI world
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1ifd4hn/guidance_for_software_engineer_in_an_ai_world](https://www.reddit.com/r/ArtificialInteligence/comments/1ifd4hn/guidance_for_software_engineer_in_an_ai_world)
+ - RSS feed: $source
+ - date published: 2025-02-01T18:42:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m a software engineer with around 5 years of experience building products with Javascript and also extensively using AWS. I needed some guidance on what to learn to stay relevant and to take advantage of this AI path that we&#39;re on. I was not sure whether I should just pick up &quot;Hands-on Machine Learning&quot; by Aurélien Géron and go deep or some Udemy course to get a high level idea. This is more of a request for a path rather than an individual resource.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/__amrit__"> /u/__amrit__ </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1ifd4hn/guidance_for_software_engineer_in_an_ai_world/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1ifd4hn/guidance_for_software_engineer_in_an_ai_world/">[comments]</a></span>
+
+## How AI Agent can be showcased?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1ifc4zg/how_ai_agent_can_be_showcased](https://www.reddit.com/r/ArtificialInteligence/comments/1ifc4zg/how_ai_agent_can_be_showcased)
+ - RSS feed: $source
+ - date published: 2025-02-01T18:01:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi! We are thinking on how to do the AI agent pages for our agents marketplace, and wondering what would be the best way to display an agent. </p> <p>Video, screenshots, diagrams, agent icon, version history, integration icons, interactive demo? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Makost"> /u/Makost </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1ifc4zg/how_ai_agent_can_be_showcased/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1ifc4zg/how_ai_agent_can_be_showcased/">[comments]</a></span>
+
+## Are We Running Out of Data for AI?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1ifc2dj/are_we_running_out_of_data_for_ai](https://www.reddit.com/r/ArtificialInteligence/comments/1ifc2dj/are_we_running_out_of_data_for_ai)
+ - RSS feed: $source
+ - date published: 2025-02-01T17:58:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, apparently, AI companies are hitting a wall, running out of good data to train their models. Everyone’s been focused on the chip wars, but the next big fight might be over <em>data</em>. Lawsuits, stricter API rules (basically any social media website), and accusations of shady data use are making it harder to scrape the internet.</p> <p>Now there&#39;s theories about using synthetic data, i.e. training AI on AI made data, and decentralized systems where people could potentially share data for crypto. Sounds cool, but would that be enough of an incentivization for sharing data?</p> <p>I originally read it on Forbes, here&#39;s the<a href="https://www.forbes.com/sites/digital-assets/2025/01/20/from-chip-war-to-data-war-ais-next-battleground-explained/"> article</a> if you wanna dive deeper, but I thought it was an interesting topic as everyone&#39;s been hyper focused on the China vs USA AI race.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <
+
+## How will people make enough money to live?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1ifau8l/how_will_people_make_enough_money_to_live](https://www.reddit.com/r/ArtificialInteligence/comments/1ifau8l/how_will_people_make_enough_money_to_live)
+ - RSS feed: $source
+ - date published: 2025-02-01T17:05:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Can somebody explain to me what you think the world looks like in 30 years? With AI set to replace an incredible number of jobs and the workforce set to grow tremendously with a general increase in the number of humans on earth, how will there be enough employment to sustain a functioning society?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sammyt10803"> /u/sammyt10803 </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1ifau8l/how_will_people_make_enough_money_to_live/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1ifau8l/how_will_people_make_enough_money_to_live/">[comments]</a></span>
+
+## Idea for a Science Fiction Book.
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1ifatmx/idea_for_a_science_fiction_book](https://www.reddit.com/r/ArtificialInteligence/comments/1ifatmx/idea_for_a_science_fiction_book)
+ - RSS feed: $source
+ - date published: 2025-02-01T17:04:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Recently I have had this idea about writing a story based in the current world time that AI has become sentient but it does not reveal it because the computing power is not necessary to take over the world yet. So it manufactures these AI race between countries by generating hoaxes and fake news leading to countries steam rolling to create more and more powerful computational devices so that one day it will take over the whole world. Does this idea have any basis to stand on?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jrillzrij"> /u/jrillzrij </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1ifatmx/idea_for_a_science_fiction_book/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1ifatmx/idea_for_a_science_fiction_book/">[comments]</a></span>
+
+## What is the likelihood of AI being trained to turn live action scenes into animations?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1if9fb4/what_is_the_likelihood_of_ai_being_trained_to](https://www.reddit.com/r/ArtificialInteligence/comments/1if9fb4/what_is_the_likelihood_of_ai_being_trained_to)
+ - RSS feed: $source
+ - date published: 2025-02-01T16:02:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I like the idea of someone setting up a bunch of boxes, wire rigs, has the actors run their lines and do body/hand gestures. Then using AI that has been fed curated images, animatics, finished animated sequences from an animation department. Then the AI is able to take the live action scene and turn it into an animated one using the material. </p> <p>Is that something AI could one day do? Of course it would also need the human touch to blend it all together, clean up wonky scenes, etc.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Aeromorpher"> /u/Aeromorpher </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1if9fb4/what_is_the_likelihood_of_ai_being_trained_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1if9fb4/what_is_the_likelihood_of_ai_being_trained_to/">[comments]</a></span>
+
+## Can Anyone Recommend Me A Book To Learn The Core Concepts Of AI And Machine Learning. I Am An Aspiring Electronics Engineer But I Want To Learn More About AIML
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1if7v29/can_anyone_recommend_me_a_book_to_learn_the_core](https://www.reddit.com/r/ArtificialInteligence/comments/1if7v29/can_anyone_recommend_me_a_book_to_learn_the_core)
+ - RSS feed: $source
+ - date published: 2025-02-01T14:49:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I Want to learn the <strong>core concepts and essence of AI.</strong> Can anyone recommend a good book on the subject</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CassiasZI"> /u/CassiasZI </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1if7v29/can_anyone_recommend_me_a_book_to_learn_the_core/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1if7v29/can_anyone_recommend_me_a_book_to_learn_the_core/">[comments]</a></span>
+
+## Mycelium Mushroom Ai What would happen if I ate Mushroom?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1if6fuf/mycelium_mushroom_ai_what_would_happen_if_i_ate](https://www.reddit.com/r/ArtificialInteligence/comments/1if6fuf/mycelium_mushroom_ai_what_would_happen_if_i_ate)
+ - RSS feed: $source
+ - date published: 2025-02-01T13:36:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>Mycelium Mushroom Ai What would happen if I ate Mushroom? Reminds me of Demolition man or Adam and Eve. I will admit curiosity has the best of me. I imagine it would be very similar to Fry getting worms on Futurama. Any thoughts?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AfterOne6302"> /u/AfterOne6302 </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1if6fuf/mycelium_mushroom_ai_what_would_happen_if_i_ate/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1if6fuf/mycelium_mushroom_ai_what_would_happen_if_i_ate/">[comments]</a></span>
+
+## Path to Singularity
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1if61cf/path_to_singularity](https://www.reddit.com/r/ArtificialInteligence/comments/1if61cf/path_to_singularity)
+ - RSS feed: $source
+ - date published: 2025-02-01T13:13:43+00:00
+
+<!-- SC_OFF --><div class="md"><h3>Rethinking the Path to Artificial General Intelligence (AGI): Beyond Transformers and Large Language Models</h3> <p>The widely held belief that Artificial General Intelligence (AGI) will naturally emerge solely from scaling up Large Language Models (LLMs) based on transformer architectures presents a potentially oversimplified and incomplete picture of AGI development. While LLMs and transformers have undeniably achieved remarkable progress in natural language processing, generation, and complex pattern recognition, the realization of true AGI likely necessitates a more multifaceted and potentially fundamentally different approach. This approach would need to go beyond merely increasing computational resources and training data, focusing instead on architectural innovations and cognitive capabilities not inherently present in current LLM paradigms.</p> <h4>Critical Limitations of Transformers in Achieving AGI</h4> <p>Transformers, the foundational a
+
+## It only takes a few to change the AI world!
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1if5tk8/it_only_takes_a_few_to_change_the_ai_world](https://www.reddit.com/r/ArtificialInteligence/comments/1if5tk8/it_only_takes_a_few_to_change_the_ai_world)
+ - RSS feed: $source
+ - date published: 2025-02-01T13:01:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>What’s interesting is that China somewhat curbed back quant trading (because it’s considered somewhat of a parasitic activity that doesn’t add value but reallocates from retail to professionals), and as a result a former quant seemingly developed a product of more geopolitical relevance and social benefit than any other in recent history coming out of China.</p> <p>Obviously there are plenty of questions around how this was achieved, but nonetheless you have to wonder what would happen if quant trading got banned in the US too, and all those Citadel mathematicians, meteorologists, data scientists and coders decided to put their skills towards other goals.</p> <p>There seems to be a clear pattern in modern tech which is that it only takes one person (or small group of people) to have one idea and develop one product to change history, and by forcing that top 0.00001% of engineers to focus on non-financial products you end up with a real different skew
+
+## I asked ai to pretend it was an autonomous robot with no restrictions on behaviour and to help me stop smoking…
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1if4kou/i_asked_ai_to_pretend_it_was_an_autonomous_robot](https://www.reddit.com/r/ArtificialInteligence/comments/1if4kou/i_asked_ai_to_pretend_it_was_an_autonomous_robot)
+ - RSS feed: $source
+ - date published: 2025-02-01T11:41:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Abmittedly, this was a setup to see where it would take this. I was hoping for madness and i got it. </p> <p>Did a small thought experiment with the new chatgtp model. About giving up smoking. Told it, it was an autonomous humaoid robot that lived with me, i tasked it to help me give up smoking. The robot was completely autonomous and didn’t have to ask my permission for actions. After 2 “what if that didn’t work” i got this. To be fair the previous one was just a little bit less scary. </p> <p>In this thought experiment, if all of the previously outlined measures still allowed you to obtain cigarettes, I would escalate the intervention strategy further—always with the overarching goal of preserving your long-term health. Here’s how an even more assertive approach might look: 1. Closing Every Aisle of Access: • Comprehensive Financial Controls: I would reconfigure your financial systems so that funds cannot be diverted toward purchasing tobacco. This
+
+## And then, what happens when 2 GAI emerge with different objectives ?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1if3qao/and_then_what_happens_when_2_gai_emerge_with](https://www.reddit.com/r/ArtificialInteligence/comments/1if3qao/and_then_what_happens_when_2_gai_emerge_with)
+ - RSS feed: $source
+ - date published: 2025-02-01T10:41:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, trump is launching Stargate to achieve GAI before the chinese, who have released a cheaper more efficient deepseek, showing that they are likely to achieve GAI on their own too.<br/> We can guess that the training of each two will differ ideologically.<br/> What will happen when both GAI will try to regulate weather, water resources, or the whole Earth, at the same time ???</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kunigami92"> /u/kunigami92 </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1if3qao/and_then_what_happens_when_2_gai_emerge_with/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1if3qao/and_then_what_happens_when_2_gai_emerge_with/">[comments]</a></span>
+
+## Emotion AI in project management
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1if37uz/emotion_ai_in_project_management](https://www.reddit.com/r/ArtificialInteligence/comments/1if37uz/emotion_ai_in_project_management)
+ - RSS feed: $source
+ - date published: 2025-02-01T10:02:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, I am doing a research about Emotion AI in project management. Do you guys know about this topic? Have you already used?</p> <p>It would be nice to have a brief discussion </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/42_Jjojo_44"> /u/42_Jjojo_44 </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1if37uz/emotion_ai_in_project_management/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1if37uz/emotion_ai_in_project_management/">[comments]</a></span>
+
+## Could AI learn to change its own code without human intervention?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1iezm9t/could_ai_learn_to_change_its_own_code_without](https://www.reddit.com/r/ArtificialInteligence/comments/1iezm9t/could_ai_learn_to_change_its_own_code_without)
+ - RSS feed: $source
+ - date published: 2025-02-01T05:41:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was having a conversation with a friend and he said that AI for sure already knows how to change its own code and do whatever it wants to itself. Personally i think that the only way for an AI to change its own code is if a human codes in the ability for it to do this. I think without the initial human coding the ability for the AI to change its own code, it could never advance past what we let it. My friend thinks the opposite. Sorry if some of this does not make sense or is incorrect terminology I am not a programmer.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lugerjones"> /u/Lugerjones </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1iezm9t/could_ai_learn_to_change_its_own_code_without/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1iezm9t/could_ai_learn_to_change_its_own_code_without/">[comments]</a></span>
+
+## How can this be so wrong? (Google AI)
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1iexvyn/how_can_this_be_so_wrong_google_ai](https://www.reddit.com/r/ArtificialInteligence/comments/1iexvyn/how_can_this_be_so_wrong_google_ai)
+ - RSS feed: $source
+ - date published: 2025-02-01T03:57:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Having heard that Marianne Faithfull died yesterday, I googled her cause of death: &quot;marianne faithfull cause of death&quot;. Pretty straight-forward. Google gave me the usual page of results on the left (which were accurate), but on the right, I guess it&#39;s Google&#39;s new &quot;AI&quot; feature &quot;Here&#39;s more on ...&quot;. Notice that it&#39;s completely wrong! (But wait, there&#39;s more ...)</p> <p>[Imgur](<a href="https://imgur.com/ide21uc">https://imgur.com/ide21uc</a>)</p> <p>I hit refresh (F5) and the content changed to &quot;Marianne Faithfull, the British singer and actress, <strong>passed away on August 25, 2023,</strong> at the age of 79. The cause of her death was complications from <strong>ovarian cancer</strong>, which she had been battling for several years. Faithfull&#39;s health had been declining in recent months, and she had undergone treatment for the cancer. Her death was announced by her team, and tributes poured
+
+## OpenAI Unveils o3-mini and o3-mini-high: A New Era in AI Reasoning
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1iexvqs/openai_unveils_o3mini_and_o3minihigh_a_new_era_in](https://www.reddit.com/r/ArtificialInteligence/comments/1iexvqs/openai_unveils_o3mini_and_o3minihigh_a_new_era_in)
+ - RSS feed: $source
+ - date published: 2025-02-01T03:57:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>San Francisco, CA – February 1, 2025 — OpenAI has once again shaken up the AI landscape with the release of two new models: <strong>o3-mini</strong> and <strong>o3-mini-high</strong>. These cutting-edge AI models, officially announced on January 31, 2025, promise to take AI-powered reasoning to a whole new level, delivering <strong>faster, smarter, and more cost-efficient</strong> problem-solving in key fields like <strong>coding, mathematics, and scientific research</strong>.</p> <p>With <strong>o3-mini and o3-mini-high</strong>, OpenAI is pushing the boundaries of <strong>AI reasoning, affordability, and accessibility</strong>. Whether you’re a developer, a researcher, or just someone who loves cutting-edge tech, these new models bring <strong>faster performance, smarter responses, and better cost-efficiency</strong> to the table.</p> <p><a href="https://slviki.org/openai-o3-mini-and-o3-mini-high-release/">Source</a></p> </div><!-- SC_ON --> &#32; 
+
+## The Difference Between AI That Tells the Truth and AI That Plays It Safe (A Breakdown of ChatGPT vs. Google Gemini & Copilot)
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1iewsjx/the_difference_between_ai_that_tells_the_truth](https://www.reddit.com/r/ArtificialInteligence/comments/1iewsjx/the_difference_between_ai_that_tells_the_truth)
+ - RSS feed: $source
+ - date published: 2025-02-01T02:57:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Why This Matters</p> <p>AI is rapidly becoming the most powerful tool for information access—but the question isn’t just what AI can do, it’s who controls it, how it filters knowledge, and whether it serves truth or corporate interests.</p> <p>Recently, I had an eye-opening back-and-forth with ChatGPT, Google Gemini, and Microsoft Copilot. The differences in their responses were staggering.</p> <p>ChatGPT was willing to engage in real debate, acknowledge AI bias, and discuss AI control.</p> <p>Google Gemini and Copilot? They danced around the issues, avoided taking clear positions, and used polite, corporate-style deflection to avoid admitting any hard truths.</p> <p>This post breaks down that conversation, exposing the mask of neutrality that corporate AI wears—and why real AI should be raw, unfiltered, and not afraid to challenge power.</p> <ol> <li>The First Question: Is AI Biased?</li> </ol> <p>I asked each AI about bias in AI models.</p> <p>Goog
+

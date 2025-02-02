@@ -1,0 +1,51 @@
+# Source:Usenet, URL:https://www.reddit.com/r/usenet/.rss, language:en
+
+## Easynews Heavy Server Load Error for two weeks
+ - [https://www.reddit.com/r/usenet/comments/1ifiege/easynews_heavy_server_load_error_for_two_weeks](https://www.reddit.com/r/usenet/comments/1ifiege/easynews_heavy_server_load_error_for_two_weeks)
+ - RSS feed: $source
+ - date published: 2025-02-01T22:37:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/usenet/comments/1ifiege/easynews_heavy_server_load_error_for_two_weeks/"> <img src="https://b.thumbs.redditmedia.com/cQwD8xnSsuld8NlJjbXo5qTXPZzzDlJd_q1LFCwxcFI.jpg" alt="Easynews Heavy Server Load Error for two weeks" title="Easynews Heavy Server Load Error for two weeks" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Perhaps it is just me, but for the last two weeks, all I get from Easynews when performing a search is the error below. The stats page is no help, and I&#39;m not seeing anyone else online indicating they&#39;re getting the error. So, I&#39;m reaching out to see if Easynews is mad at me. Extra suck because I renewed for the year three weeks ago SMH</p> <p><a href="https://preview.redd.it/254x5s56ulge1.png?width=741&amp;format=png&amp;auto=webp&amp;s=918cda3ef4fe57b504278e08425263226606b202">https://preview.redd.it/254x5s56ulge1.png?width=741&amp;format=png&amp;auto=webp&amp;s=918cda3ef4fe57b504278e08425263226606b2
+
+## Missing Articles.. Weird
+ - [https://www.reddit.com/r/usenet/comments/1ifat3i/missing_articles_weird](https://www.reddit.com/r/usenet/comments/1ifat3i/missing_articles_weird)
+ - RSS feed: $source
+ - date published: 2025-02-01T17:03:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>So i&#39;m using SabNZB with Sunny Usenet and with Newsgroup (the last one is new). I&#39;m using NZBGeek for my NZB files. Around 80% of the downloads fail with missing articles. Even super new download of like 1 day fail.</p> <p>Any idea what could be up? I thought Sunnt Usenet was getting worse so switched to Newsgroup to try out a new one but seems te fail as well.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Vecodo"> /u/Vecodo </a> <br/> <span><a href="https://www.reddit.com/r/usenet/comments/1ifat3i/missing_articles_weird/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/usenet/comments/1ifat3i/missing_articles_weird/">[comments]</a></span>
+
+## Best indexer for audio books
+ - [https://www.reddit.com/r/usenet/comments/1if7ifm/best_indexer_for_audio_books](https://www.reddit.com/r/usenet/comments/1if7ifm/best_indexer_for_audio_books)
+ - RSS feed: $source
+ - date published: 2025-02-01T14:31:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>Came across a post about <a href="http://abook.link">abook.link</a> is that still the best for downloading audio books or is there other places i should be looking at? Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AnthonyJS02"> /u/AnthonyJS02 </a> <br/> <span><a href="https://www.reddit.com/r/usenet/comments/1if7ifm/best_indexer_for_audio_books/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/usenet/comments/1if7ifm/best_indexer_for_audio_books/">[comments]</a></span>
+
+## Complete Novice Question
+ - [https://www.reddit.com/r/usenet/comments/1if4d7y/complete_novice_question](https://www.reddit.com/r/usenet/comments/1if4d7y/complete_novice_question)
+ - RSS feed: $source
+ - date published: 2025-02-01T11:26:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Until a few days agora I had never heard of Usenet. When it came to this I’ve stopped back in Piratebay. Used mostly for music (before streaming era) and desktop computer applications (eg, Microsoft suite or photography apps).</p> <p>How far have things come? Is there a “manual” on how to use Usenet? What is the step by step for someone looking for an application and starting from a complete zero (I mean, haven’t downloaded anything and not even gone to any website)?? If you believe is needed, give me an intro on what usenet is and how it works, nothing technical, as someone who used piratebay. </p> <p>Many thanks for all the guidance you can bother to spend time sharing 🙏 </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DazzledMind"> /u/DazzledMind </a> <br/> <span><a href="https://www.reddit.com/r/usenet/comments/1if4d7y/complete_novice_question/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r
+
+## i finely have usenet clawler
+ - [https://www.reddit.com/r/usenet/comments/1if0ndw/i_finely_have_usenet_clawler](https://www.reddit.com/r/usenet/comments/1if0ndw/i_finely_have_usenet_clawler)
+ - RSS feed: $source
+ - date published: 2025-02-01T06:50:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>i will be using usenet clawler a little bit more now hope it a good one to use</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marlon99rocks99"> /u/marlon99rocks99 </a> <br/> <span><a href="https://www.reddit.com/r/usenet/comments/1if0ndw/i_finely_have_usenet_clawler/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/usenet/comments/1if0ndw/i_finely_have_usenet_clawler/">[comments]</a></span>
+
+## is usenet clawler worth it
+ - [https://www.reddit.com/r/usenet/comments/1ieyvo4/is_usenet_clawler_worth_it](https://www.reddit.com/r/usenet/comments/1ieyvo4/is_usenet_clawler_worth_it)
+ - RSS feed: $source
+ - date published: 2025-02-01T04:56:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>just wondering if it worth paying 20 pound for usenet clawler just wonder if it worth getting 1000 downloads aday and 10000 api calls to only if i withdraw my degen when i staked i got 26 days than i can swap to ltc and pay for usenet clawer i have pay as you go deal 6 usd to refill it i dont know if they fixed my usenet with demon news payment thing</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marlon99rocks99"> /u/marlon99rocks99 </a> <br/> <span><a href="https://www.reddit.com/r/usenet/comments/1ieyvo4/is_usenet_clawler_worth_it/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/usenet/comments/1ieyvo4/is_usenet_clawler_worth_it/">[comments]</a></span>
+
+## does nzbking files downloads fail just wondering because i try to download stuff
+ - [https://www.reddit.com/r/usenet/comments/1iew13v/does_nzbking_files_downloads_fail_just_wondering](https://www.reddit.com/r/usenet/comments/1iew13v/does_nzbking_files_downloads_fail_just_wondering)
+ - RSS feed: $source
+ - date published: 2025-02-01T02:16:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>i have buy demon news but some files on nzbking dont work it just file i wondering if that the server there on now that fail and cut the download to and 4633 days on rentention so i dont know if it because of that to i tryed to reinstall and notice it was some files on nzb king im paying as i go i got a meter acount from demon king not the best download site nzbking if you have some good sites send them to me if there good ones</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marlon99rocks99"> /u/marlon99rocks99 </a> <br/> <span><a href="https://www.reddit.com/r/usenet/comments/1iew13v/does_nzbking_files_downloads_fail_just_wondering/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/usenet/comments/1iew13v/does_nzbking_files_downloads_fail_just_wondering/">[comments]</a></span>
+

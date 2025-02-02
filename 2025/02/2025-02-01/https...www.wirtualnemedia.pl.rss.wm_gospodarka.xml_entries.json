@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-01T08:34:33+00:00",
+        "description": "W ramach zwolnie\u0144 grupowych Carrefour Polska chce po\u017cegna\u0107 si\u0119 z maksymalnie 340 pracownikami. Firma w ostatnich lata zmniejsza\u0142a ju\u017c zatrudnienie, zmala\u0142a tak\u017ce sie\u0107 jego sklep\u00f3w Carrefour Express i Globi.",
+        "id": 2018188,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/carrefour-zwolnienia-praca-zarobki-ile-ma-sklepow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Carrefour zapowiada zwolnienia. Ma w Polsce coraz mniej ma\u0142ych sklep\u00f3w",
+        "vote": 0
+    }
+]

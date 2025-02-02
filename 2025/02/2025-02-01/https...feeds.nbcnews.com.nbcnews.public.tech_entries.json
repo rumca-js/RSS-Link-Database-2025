@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-01T14:27:43+00:00",
+        "description": "The White House said Friday that Trump would impose a 25% tariff on goods entering America from Mexico and Canada and a 10% on Chinese goods starting today.",
+        "id": 2020965,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/politics/donald-trump/live-blog/trump-administration-tariffs-canada-china-mexico-live-updates-rcna190143",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-01/250131-donald-trump-ew-953a-4d3722.jpg",
+        "title": "Canada, China and Mexico brace for Trump tariffs",
+        "vote": 0
+    }
+]

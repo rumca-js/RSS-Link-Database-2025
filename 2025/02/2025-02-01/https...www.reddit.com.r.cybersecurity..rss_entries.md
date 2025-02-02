@@ -1,0 +1,170 @@
+# Source:cybersecurity, URL:https://www.reddit.com/r/cybersecurity/.rss, language:
+
+## Customer is asking me to hack them if I can
+ - [https://www.reddit.com/r/cybersecurity/comments/1ifje0c/customer_is_asking_me_to_hack_them_if_i_can](https://www.reddit.com/r/cybersecurity/comments/1ifje0c/customer_is_asking_me_to_hack_them_if_i_can)
+ - RSS feed: $source
+ - date published: 2025-02-01T23:22:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>My client, a 120-user company, initially asked for a security audit but later challenged me with a &quot;Hack me if you can&quot;. </p> <p>I explained that a full red team exercise, potentially including phishing campaigns and tailored payloads, might not be the best path. Given that they’ve never prioritized security before, I know for sure they already have significant vulnerabilities. </p> <p>I recommended addressing the technical weaknesses first, bypassing the human factor tests, especially since their employees have never received cybersecurity training. </p> <p>To add context, they’ve been hacked twice before but survived thanks to their backups. Now, the boss is finally taking security seriously. </p> <p>How would you approach such a situation? If they insist on a red team exercise, how should I price it? Flat rate? Per successful breach? Any advice would be appreciated!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.r
+
+## I think we should be able to talk about Elon Musk
+ - [https://www.reddit.com/r/cybersecurity/comments/1ifi186/i_think_we_should_be_able_to_talk_about_elon_musk](https://www.reddit.com/r/cybersecurity/comments/1ifi186/i_think_we_should_be_able_to_talk_about_elon_musk)
+ - RSS feed: $source
+ - date published: 2025-02-01T22:20:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>He&#39;s not a politician.</p> <p>What&#39;s he&#39;s doing in the treasury department is directly related to the subject: cybersecurity.</p> <p>Why aren&#39;t we aloud to talk about it?</p> <p>Threads are getting nuked in minutes: </p> <p><a href="https://www.reddit.com/r/cybersecurity/comments/1ifharl/elon_musk/">https://www.reddit.com/r/cybersecurity/comments/1ifharl/elon_musk/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/didled"> /u/didled </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ifi186/i_think_we_should_be_able_to_talk_about_elon_musk/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ifi186/i_think_we_should_be_able_to_talk_about_elon_musk/">[comments]</a></span>
+
+## Uk here Is there any good resources to be able to put on local hackathons like cfts and other coding exercise using dotnet and others.
+ - [https://www.reddit.com/r/cybersecurity/comments/1ifh85m/uk_here_is_there_any_good_resources_to_be_able_to](https://www.reddit.com/r/cybersecurity/comments/1ifh85m/uk_here_is_there_any_good_resources_to_be_able_to)
+ - RSS feed: $source
+ - date published: 2025-02-01T21:43:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to start a community for my local area. We have a large developer community and would love to organise coding challenges—similar to Codility, but with a focus on the bigger picture of software development.</p> <p>Dotnet would be one language, but the challenges should allow any programming language to be used.</p> <p>I often see these set up at cybersecurity events.</p> <p>Ie people could create modules whoever submits it faster gets more points or capture the flag stuff. </p> <p>I’d love it if the platform didn’t collect any user data just allow them a screen name entry. </p> <p>My country not had something like that and thought be good to setup something local developers could meet up and inspire themselves. </p> <p>I need something more involved than cordiality and likes </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Reasonable_Edge2411"> /u/Reasonable_Edge2411 </a> <br/> <span><a href="https://www.r
+
+## Delaware’s IT Infrastructure is on the Brink—A Warning for State Governments Everywhere
+ - [https://www.reddit.com/r/cybersecurity/comments/1ifh65g/delawares_it_infrastructure_is_on_the_brinka](https://www.reddit.com/r/cybersecurity/comments/1ifh65g/delawares_it_infrastructure_is_on_the_brinka)
+ - RSS feed: $source
+ - date published: 2025-02-01T21:41:15+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Tall_Return8028"> /u/Tall_Return8028 </a> <br/> <span><a href="https://delawareliberal.net/2025/01/31/dtis-growing-pains-a-measured-take-on-internal-and-external-challenge/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ifh65g/delawares_it_infrastructure_is_on_the_brinka/">[comments]</a></span>
+
+## how to download data breach data
+ - [https://www.reddit.com/r/cybersecurity/comments/1ifgskz/how_to_download_data_breach_data](https://www.reddit.com/r/cybersecurity/comments/1ifgskz/how_to_download_data_breach_data)
+ - RSS feed: $source
+ - date published: 2025-02-01T21:24:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>as the title says. lets say i find an email listed on haveibeenpwned and several data breaches have occurred for that address, we can take the databreach for Mathway for example. How / where do I download the RAW data containing the Device information, Email addresses, Names, Passwords, Social media profiles for that specific data breach. is there a particular website I can look for or is this data only sent to Mr Hunt directly?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Front-Ostrich6572"> /u/Front-Ostrich6572 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ifgskz/how_to_download_data_breach_data/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ifgskz/how_to_download_data_breach_data/">[comments]</a></span>
+
+## When Everyday Devices Become Weapons: A Closer Look at the Pager and Walkie-talkie Attacks (U. of Florida)
+ - [https://www.reddit.com/r/cybersecurity/comments/1iff71e/when_everyday_devices_become_weapons_a_closer](https://www.reddit.com/r/cybersecurity/comments/1iff71e/when_everyday_devices_become_weapons_a_closer)
+ - RSS feed: $source
+ - date published: 2025-02-01T20:13:21+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Chipdoc"> /u/Chipdoc </a> <br/> <span><a href="https://arxiv.org/abs/2501.17405">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iff71e/when_everyday_devices_become_weapons_a_closer/">[comments]</a></span>
+
+## Sensitive Data Exposure for penetration testing
+ - [https://www.reddit.com/r/cybersecurity/comments/1ifefdb/sensitive_data_exposure_for_penetration_testing](https://www.reddit.com/r/cybersecurity/comments/1ifefdb/sensitive_data_exposure_for_penetration_testing)
+ - RSS feed: $source
+ - date published: 2025-02-01T19:39:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys,</p> <p>I&#39;ve created a blog on Sensitive Data Exposure for bug hunters using the <a href="http://URLscan.io">URLscan.io</a> tool. You can check out the blog <a href="https://aimasterprompt.medium.com/sensitive-data-exposure-with-urlscan-io-a-bug-hunters-guide-7c3541a67c82">https://aimasterprompt.medium.com/sensitive-data-exposure-with-urlscan-io-a-bug-hunters-guide-7c3541a67c82</a>, and I’ve already included a free read link in the article so everyone can read it!</p> <p>Happy Hunting! :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mitttulll"> /u/mitttulll </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ifefdb/sensitive_data_exposure_for_penetration_testing/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ifefdb/sensitive_data_exposure_for_penetration_testing/">[comments]</a></span>
+
+## Google says hackers abuse Gemini AI to empower their attacks
+ - [https://www.reddit.com/r/cybersecurity/comments/1ifbr2v/google_says_hackers_abuse_gemini_ai_to_empower](https://www.reddit.com/r/cybersecurity/comments/1ifbr2v/google_says_hackers_abuse_gemini_ai_to_empower)
+ - RSS feed: $source
+ - date published: 2025-02-01T17:44:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1ifbr2v/google_says_hackers_abuse_gemini_ai_to_empower/"> <img src="https://external-preview.redd.it/_OFiyv43KRraLnuMzGGdfBPkOfDKgsMCqj2RCKq8kVY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=63b83d953cae952f8605a8164409163e1c24882d" alt="Google says hackers abuse Gemini AI to empower their attacks" title="Google says hackers abuse Gemini AI to empower their attacks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/YoBoyMalik"> /u/YoBoyMalik </a> <br/> <span><a href="https://www.bleepingcomputer.com/news/security/google-says-hackers-abuse-gemini-ai-to-empower-their-attacks/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ifbr2v/google_says_hackers_abuse_gemini_ai_to_empower/">[comments]</a></span> </td></tr></table>
+
+## Is WAF enough or is NGFW needed?
+ - [https://www.reddit.com/r/cybersecurity/comments/1ifa9dp/is_waf_enough_or_is_ngfw_needed](https://www.reddit.com/r/cybersecurity/comments/1ifa9dp/is_waf_enough_or_is_ngfw_needed)
+ - RSS feed: $source
+ - date published: 2025-02-01T16:40:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I heard and had seen enterprises only had WAF on the edge without routing the ingress traffic through a NGFW. The argument there is that all of the ingress traffic into AWS is web traffic and they have guarduty + crowd strike acting as IDS, which they believe is enough.</p> <p>I heard the best secure design ought to be WAF + NGFW on the edge, and you route all the outbound traffic through NGFW. In some instances you’d want to route inter-vpc traffic through NGFW for additional east-west protection. </p> <p>The problem with WAF only control is that you don’t have an inline mechanism to inspect/stop network level threats, but I’m having trouble picturing and understanding what network level threat there would be that NGFW would protect but WAF won’t see? Any real world example on this? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Reptar1690"> /u/Reptar1690 </a> <br/> <span><a href="https://www.reddit.com/r/cyb
+
+## Full neck tat before or after my next role?
+ - [https://www.reddit.com/r/cybersecurity/comments/1if97yu/full_neck_tat_before_or_after_my_next_role](https://www.reddit.com/r/cybersecurity/comments/1if97yu/full_neck_tat_before_or_after_my_next_role)
+ - RSS feed: $source
+ - date published: 2025-02-01T15:53:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Been wanting a full neck tattoo for a while now, cybersecurity personel are generally tattoo friendly, well atleast in a place I&#39;ve worked.</p> <p>How extreme is it? Is a full sleeve portayed differently to a full neck tattoo?</p> <p>Planning to switch role soon. Don&#39;t want to really limit my career in the process from a global perspective.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IndependentRide3192"> /u/IndependentRide3192 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1if97yu/full_neck_tat_before_or_after_my_next_role/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1if97yu/full_neck_tat_before_or_after_my_next_role/">[comments]</a></span>
+
+## What exactly do people in cybersecurity do all day?
+ - [https://www.reddit.com/r/cybersecurity/comments/1if8zg5/what_exactly_do_people_in_cybersecurity_do_all_day](https://www.reddit.com/r/cybersecurity/comments/1if8zg5/what_exactly_do_people_in_cybersecurity_do_all_day)
+ - RSS feed: $source
+ - date published: 2025-02-01T15:42:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know there’s cve stuff and patches. But are these dudes running data analytics and stuff on network patterns, etc? How advanced does say, enterprise get as far as just setting up a firewall and all vs actively engaging with developing threats, etc.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RandomMistake2"> /u/RandomMistake2 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1if8zg5/what_exactly_do_people_in_cybersecurity_do_all_day/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1if8zg5/what_exactly_do_people_in_cybersecurity_do_all_day/">[comments]</a></span>
+
+## CTO at NCSC Summary: week ending February 2nd
+ - [https://www.reddit.com/r/cybersecurity/comments/1if8rke/cto_at_ncsc_summary_week_ending_february_2nd](https://www.reddit.com/r/cybersecurity/comments/1if8rke/cto_at_ncsc_summary_week_ending_february_2nd)
+ - RSS feed: $source
+ - date published: 2025-02-01T15:32:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1if8rke/cto_at_ncsc_summary_week_ending_february_2nd/"> <img src="https://external-preview.redd.it/6x3ePGrx2ftD5LoOVTuChxX0CKJ3yEjE6AWY1PmfRMI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f76e99d0367296a2437d37f9f5b5b468d76a5ac" alt="CTO at NCSC Summary: week ending February 2nd" title="CTO at NCSC Summary: week ending February 2nd" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/digicat"> /u/digicat </a> <br/> <span><a href="https://ctoatncsc.substack.com/p/cto-at-ncsc-summary-week-ending-february-ece">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1if8rke/cto_at_ncsc_summary_week_ending_february_2nd/">[comments]</a></span> </td></tr></table>
+
+## North Korean Hackers Exploit RID Hijacking to Gain Full Control Over Windows Systems
+ - [https://www.reddit.com/r/cybersecurity/comments/1if7za6/north_korean_hackers_exploit_rid_hijacking_to](https://www.reddit.com/r/cybersecurity/comments/1if7za6/north_korean_hackers_exploit_rid_hijacking_to)
+ - RSS feed: $source
+ - date published: 2025-02-01T14:54:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1if7za6/north_korean_hackers_exploit_rid_hijacking_to/"> <img src="https://external-preview.redd.it/2DFIyC1t6YuE-jfdYjXV23PnJ7nqBU3xfh6G_g9JWzE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7a7a17bf0f75b8dfa19d5a5ca8d7505148b9402" alt="North Korean Hackers Exploit RID Hijacking to Gain Full Control Over Windows Systems" title="North Korean Hackers Exploit RID Hijacking to Gain Full Control Over Windows Systems" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Snowfish52"> /u/Snowfish52 </a> <br/> <span><a href="https://www.cysecurity.news/2025/02/north-korean-hackers-exploit-rid.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1if7za6/north_korean_hackers_exploit_rid_hijacking_to/">[comments]</a></span> </td></tr></table>
+
+## Terrifying moves by Musk and his people
+ - [https://www.reddit.com/r/cybersecurity/comments/1if6y5b/terrifying_moves_by_musk_and_his_people](https://www.reddit.com/r/cybersecurity/comments/1if6y5b/terrifying_moves_by_musk_and_his_people)
+ - RSS feed: $source
+ - date published: 2025-02-01T14:02:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>To me, this is terrifying. What do you think from an Cyber Security point of view?</p> <p><a href="https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/">https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NBA-014"> /u/NBA-014 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1if6y5b/terrifying_moves_by_musk_and_his_people/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1if6y5b/terrifying_moves_by_musk_and_his_people/">[comments]</a></span>
+
+## U.S. and Dutch Authorities Dismantle 39 Domains Linked to BEC Fraud Network
+ - [https://www.reddit.com/r/cybersecurity/comments/1if5hss/us_and_dutch_authorities_dismantle_39_domains](https://www.reddit.com/r/cybersecurity/comments/1if5hss/us_and_dutch_authorities_dismantle_39_domains)
+ - RSS feed: $source
+ - date published: 2025-02-01T12:41:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1if5hss/us_and_dutch_authorities_dismantle_39_domains/"> <img src="https://external-preview.redd.it/3MfHdBxZAhq6vKSUFyRxIjvH3ptFeWjTwqD2TQPYwDM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9c35a0d6ecf6f1d67c658bdd2166c63c6e84cedb" alt="U.S. and Dutch Authorities Dismantle 39 Domains Linked to BEC Fraud Network" title="U.S. and Dutch Authorities Dismantle 39 Domains Linked to BEC Fraud Network" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/YoBoyMalik"> /u/YoBoyMalik </a> <br/> <span><a href="https://thehackernews.com/2025/02/us-and-dutch-authorities-dismantle-39.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1if5hss/us_and_dutch_authorities_dismantle_39_domains/">[comments]</a></span> </td></tr></table>
+
+## Meta Confirms Zero-Click WhatsApp Spyware Attack Targeting 90 Journalists, Activists
+ - [https://www.reddit.com/r/cybersecurity/comments/1if5hof/meta_confirms_zeroclick_whatsapp_spyware_attack](https://www.reddit.com/r/cybersecurity/comments/1if5hof/meta_confirms_zeroclick_whatsapp_spyware_attack)
+ - RSS feed: $source
+ - date published: 2025-02-01T12:41:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1if5hof/meta_confirms_zeroclick_whatsapp_spyware_attack/"> <img src="https://external-preview.redd.it/JU6AzWkkWnLqryChouvHbstoHhhSD8dNvvii9x_LaMo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9c9ae77731cf2046422e0ac53fbc3bedf0935d7d" alt="Meta Confirms Zero-Click WhatsApp Spyware Attack Targeting 90 Journalists, Activists" title="Meta Confirms Zero-Click WhatsApp Spyware Attack Targeting 90 Journalists, Activists" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/YoBoyMalik"> /u/YoBoyMalik </a> <br/> <span><a href="https://thehackernews.com/2025/02/meta-confirms-zero-click-whatsapp.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1if5hof/meta_confirms_zeroclick_whatsapp_spyware_attack/">[comments]</a></span> </td></tr></table>
+
+## Advice
+ - [https://www.reddit.com/r/cybersecurity/comments/1if4j93/advice](https://www.reddit.com/r/cybersecurity/comments/1if4j93/advice)
+ - RSS feed: $source
+ - date published: 2025-02-01T11:38:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys any tips on becoming a subcontractor for a prime ? How to get contracts anything I should look out for ? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Perspective_1211"> /u/No_Perspective_1211 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1if4j93/advice/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1if4j93/advice/">[comments]</a></span>
+
+## BeyondTrust Zero-Day Breach Exposed 17 SaaS Customers via Compromised API Key
+ - [https://www.reddit.com/r/cybersecurity/comments/1if48vl/beyondtrust_zeroday_breach_exposed_17_saas](https://www.reddit.com/r/cybersecurity/comments/1if48vl/beyondtrust_zeroday_breach_exposed_17_saas)
+ - RSS feed: $source
+ - date published: 2025-02-01T11:18:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1if48vl/beyondtrust_zeroday_breach_exposed_17_saas/"> <img src="https://external-preview.redd.it/QXt7o_s0DtSewe65a4BSXUPqh3exBGGQz9t3hYDU-RE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ea5b1b7a49f0f520b872f8edbfac2ccb43c36ed0" alt="BeyondTrust Zero-Day Breach Exposed 17 SaaS Customers via Compromised API Key" title="BeyondTrust Zero-Day Breach Exposed 17 SaaS Customers via Compromised API Key" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/anynamewillbegood"> /u/anynamewillbegood </a> <br/> <span><a href="https://thehackernews.com/2025/02/beyondtrust-zero-day-breach-exposes-17.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1if48vl/beyondtrust_zeroday_breach_exposed_17_saas/">[comments]</a></span> </td></tr></table>
+
+## Want to learn how to defend myself from possible intrusion and how to get rid of it.
+ - [https://www.reddit.com/r/cybersecurity/comments/1if1y87/want_to_learn_how_to_defend_myself_from_possible](https://www.reddit.com/r/cybersecurity/comments/1if1y87/want_to_learn_how_to_defend_myself_from_possible)
+ - RSS feed: $source
+ - date published: 2025-02-01T08:25:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Guys, I want to learn how to defend computers from intrusions, detect attacks, and take appropriate action. I&#39;m also interested in understanding how malware, viruses, and trojans work, which includes reverse engineering. I have basic understanding and already started the foundation modules from HTB and THM, but would love to know next steps.Someone recommended me SOC Analyst Job role path on HTB academy, which I will start before that is there any other </p> <p>What learning path would you recommend me? Someone recommended me SOC Analyst Job role path on HTB academy, which I will start but before that is there any other things I should look into aswell?</p> <p>Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Difficult-South7497"> /u/Difficult-South7497 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1if1y87/want_to_learn_how_to_defend_myself_from_possible/">[link]</a></span> &
+
+## What do you think about LLM deception system ?
+ - [https://www.reddit.com/r/cybersecurity/comments/1if1ses/what_do_you_think_about_llm_deception_system](https://www.reddit.com/r/cybersecurity/comments/1if1ses/what_do_you_think_about_llm_deception_system)
+ - RSS feed: $source
+ - date published: 2025-02-01T08:13:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1if1ses/what_do_you_think_about_llm_deception_system/"> <img src="https://external-preview.redd.it/UYOCjKmQ-ZJLBw3xCRcetHqkifiStMUeFeUQfTCyM_U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ff5d7940d91d40b549ff9a2e70ab0c887170bd4" alt="What do you think about LLM deception system ?" title="What do you think about LLM deception system ?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Do you use deception systems in your organisation?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mario_candela"> /u/mario_candela </a> <br/> <span><a href="https://github.com/mariocandela/beelzebub">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1if1ses/what_do_you_think_about_llm_deception_system/">[comments]</a></span> </td></tr></table>
+
+## Major US Cyber Event - Feds locked out of computers by non-authorized users
+ - [https://www.reddit.com/r/cybersecurity/comments/1ieyu8f/major_us_cyber_event_feds_locked_out_of_computers](https://www.reddit.com/r/cybersecurity/comments/1ieyu8f/major_us_cyber_event_feds_locked_out_of_computers)
+ - RSS feed: $source
+ - date published: 2025-02-01T04:53:53+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/">https://www.reuters.com/world/us/musk-aides-lock-government-workers-out-computer-systems-us-agency-sources-say-2025-01-31/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Bodybuilder7899"> /u/Ok-Bodybuilder7899 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ieyu8f/major_us_cyber_event_feds_locked_out_of_computers/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ieyu8f/major_us_cyber_event_feds_locked_out_of_computers/">[comments]</a></span>
+
+## Cryptography Based Journal Paper Topic Ideas
+ - [https://www.reddit.com/r/cybersecurity/comments/1ieyipg/cryptography_based_journal_paper_topic_ideas](https://www.reddit.com/r/cybersecurity/comments/1ieyipg/cryptography_based_journal_paper_topic_ideas)
+ - RSS feed: $source
+ - date published: 2025-02-01T04:34:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>What are some unique, maybe uncoventional research paper topics I can do under the topic of Cryptography without delving too much into the deep end of complex algorithms and programs. But which are not cliche or over-researched topics either. I&#39;m supposed to do it as a requirement of my course... But I&#39;m doing it because I like researching and finding out new and interesting things.<br/> So topic ideas pls</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cryptic_Rebell"> /u/Cryptic_Rebell </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ieyipg/cryptography_based_journal_paper_topic_ideas/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ieyipg/cryptography_based_journal_paper_topic_ideas/">[comments]</a></span>
+
+## Hackers leverage Google’s phone number, subdomains to attack victims
+ - [https://www.reddit.com/r/cybersecurity/comments/1iev79z/hackers_leverage_googles_phone_number_subdomains](https://www.reddit.com/r/cybersecurity/comments/1iev79z/hackers_leverage_googles_phone_number_subdomains)
+ - RSS feed: $source
+ - date published: 2025-02-01T01:33:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Party_Wolf6604"> /u/Party_Wolf6604 </a> <br/> <span><a href="https://cybernews.com/security/hackers-leverage-google-phone-number-subdomains/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iev79z/hackers_leverage_googles_phone_number_subdomains/">[comments]</a></span>
+
+## Community Health Center Data Breach Affects 1M Patients
+ - [https://www.reddit.com/r/cybersecurity/comments/1ieufc9/community_health_center_data_breach_affects_1m](https://www.reddit.com/r/cybersecurity/comments/1ieufc9/community_health_center_data_breach_affects_1m)
+ - RSS feed: $source
+ - date published: 2025-02-01T00:54:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1ieufc9/community_health_center_data_breach_affects_1m/"> <img src="https://external-preview.redd.it/H7SsLEDobm8PlVQ71pbHeT8eAKXxMiYbu40hbOfppOE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=68e90a9166bc0282ede96260f30db8a1d572d673" alt="Community Health Center Data Breach Affects 1M Patients" title="Community Health Center Data Breach Affects 1M Patients" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/anynamewillbegood"> /u/anynamewillbegood </a> <br/> <span><a href="https://www.darkreading.com/cyberattacks-data-breaches/community-health-center-notifies-1m-stolen-data-breach">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ieufc9/community_health_center_data_breach_affects_1m/">[comments]</a></span> </td></tr></table>
+

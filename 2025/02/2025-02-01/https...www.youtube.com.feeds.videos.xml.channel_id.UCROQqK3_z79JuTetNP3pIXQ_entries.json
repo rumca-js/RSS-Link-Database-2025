@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "captainmidnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-01T00:54:25+00:00",
+        "description": "This video is brought to you by Nebula. Get a GREAT deal on Nebula now: https://go.nebula.tv/captainmidnight\nDisney Plus is out with a new take on Spider-Man. With new versions of Norman Osborn, Peter Parker, Aunt May and more in tow. So how is it? I go over it all here.\nRead my comic BINARY SEA on Amazon Kindle: https://a.co/d/9JfoZC0\nMusic by Epidemic Sound (http://www.epidemicsound.com)\nFollow me on Twitter: https://twitter.com/midnightcap\nFollow me on Facebook: https://www.facebook.com/midnightcap\nSpecial thanks to Andrew Elliott (Stalli111: https://www.youtube.com/user/Stalli111  ) for editing this video.",
+        "id": 2016990,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1feHoZpjIR0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 63,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCROQqK3_z79JuTetNP3pIXQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1feHoZpjIR0/hqdefault.jpg",
+        "title": "The Problem With Your Friendly Neighborhood Spider-Man",
+        "vote": 0
+    }
+]

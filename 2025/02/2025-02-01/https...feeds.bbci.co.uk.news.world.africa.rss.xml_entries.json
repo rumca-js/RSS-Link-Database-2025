@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-01T00:27:56+00:00",
+        "description": "There is a good chance that inside your device is some metal dug up in a mine controlled by rebels.",
+        "id": 2016850,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cn01k8948v1o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/563c/live/d73597d0-dff5-11ef-9e87-591b0105f660.jpg",
+        "title": "Your phone, a rare metal and the war in DR Congo",
+        "vote": 0
+    }
+]

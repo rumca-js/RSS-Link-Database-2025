@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-01T10:03:00+00:00",
+        "description": "Complaining is a cultural phenomenon, but it&#8217;s particularly prevalent in societies with a consumer culture (the customer is always right) and those where comfort is coming to be expected. Given all the complaining we do (about the weather, leadership, products, service and various ailments), it&#8217;s worth taking a moment to think about why we complain. [&#8230;]",
+        "id": 2018617,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/02/cant-complain-but-it-might-be-worth-considering",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u201cCan\u2019t complain\u201d (but it might be worth considering)",
+        "vote": 0
+    }
+]

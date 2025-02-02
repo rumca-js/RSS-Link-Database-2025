@@ -1,0 +1,72 @@
+# Source:Django, URL:https://www.reddit.com/r/django/.rss, language:
+
+## Customize Inline Model Position in Django Admin
+ - [https://www.reddit.com/r/django/comments/1ifhjwj/customize_inline_model_position_in_django_admin](https://www.reddit.com/r/django/comments/1ifhjwj/customize_inline_model_position_in_django_admin)
+ - RSS feed: $source
+ - date published: 2025-02-01T21:58:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone!</p> <p>A few days ago, I ran into an issue while working on one of my projects—a university course selection system. The problem was how to change the placement of inline models.</p> <p>By default, Django places them at the bottom of the page, but I wanted to position them wherever I needed.</p> <p>After extensive searching and using AI tools, I couldn’t find a solution. So, I decided to figure it out myself—and finally, I found the answer!</p> <p>I talked about it in detail on my YouTube channel and shared the final solution in a tutorial.</p> <p>Hope you find it helpful!</p> <p>Watch the video here :</p> <p><a href="https://youtu.be/utUuwUj67oc?si=3MV74_pDHL6PoEkp">https://youtu.be/utUuwUj67oc?si=3MV74_pDHL6PoEkp</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Big_Independence879"> /u/Big_Independence879 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1ifhjwj/customize_in
+
+## FastAPI or Django for Full stack ML projects
+ - [https://www.reddit.com/r/django/comments/1ifbpv0/fastapi_or_django_for_full_stack_ml_projects](https://www.reddit.com/r/django/comments/1ifbpv0/fastapi_or_django_for_full_stack_ml_projects)
+ - RSS feed: $source
+ - date published: 2025-02-01T17:43:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, I am a BTech sophomore and solved 300+ leetcode problems I now want to build really really good Full stack ML projects so for that should I choose FastAPI or Django for my backend?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Abhistar14"> /u/Abhistar14 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1ifbpv0/fastapi_or_django_for_full_stack_ml_projects/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1ifbpv0/fastapi_or_django_for_full_stack_ml_projects/">[comments]</a></span>
+
+## GitHub - mikebgrep/fork.recipes: Web application that manage food recipes with simplicity. Just make an release that have Meal planner functionality and less chance for detection in AI scrapping tasks.
+ - [https://www.reddit.com/r/django/comments/1ifb7m9/github_mikebgrepforkrecipes_web_application_that](https://www.reddit.com/r/django/comments/1ifb7m9/github_mikebgrepforkrecipes_web_application_that)
+ - RSS feed: $source
+ - date published: 2025-02-01T17:21:22+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Affectionate-Dog-715"> /u/Affectionate-Dog-715 </a> <br/> <span><a href="https://github.com/mikebgrep/fork.recipes">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1ifb7m9/github_mikebgrepforkrecipes_web_application_that/">[comments]</a></span>
+
+## Concerned about django, tailwindcss and css classes inside python code
+ - [https://www.reddit.com/r/django/comments/1if8w7n/concerned_about_django_tailwindcss_and_css](https://www.reddit.com/r/django/comments/1if8w7n/concerned_about_django_tailwindcss_and_css)
+ - RSS feed: $source
+ - date published: 2025-02-01T15:38:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, I’m using tailwindcss on a django project with node to be able to configure it in a clean and custom way, however, if I use for example django-crispy-forms, or otherwise use the python logic to insert the css classes on a form field, How can I get the tailwind to scan those files too?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Substantial_Waltz951"> /u/Substantial_Waltz951 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1if8w7n/concerned_about_django_tailwindcss_and_css/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1if8w7n/concerned_about_django_tailwindcss_and_css/">[comments]</a></span>
+
+## Recommended deployment services
+ - [https://www.reddit.com/r/django/comments/1if6zzp/recommended_deployment_services](https://www.reddit.com/r/django/comments/1if6zzp/recommended_deployment_services)
+ - RSS feed: $source
+ - date published: 2025-02-01T14:05:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey I&#39;m soon done with my first Django app and I&#39;m wondering where should I deploy it?</p> <p>Is there something similar to Laravel forge - I&#39;m not really in the mood for making a pipeline myself.</p> <p>Or what other services approaches would you recommend?</p> <p>Thanks in advance</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BiggerestL"> /u/BiggerestL </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1if6zzp/recommended_deployment_services/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1if6zzp/recommended_deployment_services/">[comments]</a></span>
+
+## I made a Video Player SDK with Django backend for ad support
+ - [https://www.reddit.com/r/django/comments/1if47ld/i_made_a_video_player_sdk_with_django_backend_for](https://www.reddit.com/r/django/comments/1if47ld/i_made_a_video_player_sdk_with_django_backend_for)
+ - RSS feed: $source
+ - date published: 2025-02-01T11:15:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Can anyone checkout and review my video player SDK. It has ad support and used Django in the backend. Trying to compete directly with video.js</p> <p>The link: <a href="https://www.vastvp.com/docs/how_it_works/">https://www.vastvp.com/docs/how_it_works/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Radiant-Winner7059"> /u/Radiant-Winner7059 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1if47ld/i_made_a_video_player_sdk_with_django_backend_for/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1if47ld/i_made_a_video_player_sdk_with_django_backend_for/">[comments]</a></span>
+
+## Need help with project structure
+ - [https://www.reddit.com/r/django/comments/1if2w9b/need_help_with_project_structure](https://www.reddit.com/r/django/comments/1if2w9b/need_help_with_project_structure)
+ - RSS feed: $source
+ - date published: 2025-02-01T09:37:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to make an application which includes functionality like code editor and related things. I have worked with Django web &amp; rest framework both. I want to make this application using Django rest framework for the backend but I don&#39;t know or don&#39;t want to use any frontend framework. I was thinking that I will render my templates using <a href="https://www.django-rest-framework.org/api-guide/renderers/?utm_source=chatgpt.com#templatehtmlrenderer">TemplateHTMLRenderer</a>. Is this a standard approach? Please suggest me alternate approaches if not.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fun-Background1808"> /u/Fun-Background1808 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1if2w9b/need_help_with_project_structure/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1if2w9b/need_help_with_project_structure/">[comments]</a></span>
+
+## Add Login and Logout in Django
+ - [https://www.reddit.com/r/django/comments/1if2uam/add_login_and_logout_in_django](https://www.reddit.com/r/django/comments/1if2uam/add_login_and_logout_in_django)
+ - RSS feed: $source
+ - date published: 2025-02-01T09:33:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>In this post, we’re setting up <strong>Login &amp; Logout</strong> functionality, building forms, and using Django authentication &amp; CSRF tokens.</p> <ul> <li><strong>Blog Link :</strong> <a href="https://django-learning.hashnode.dev/add-login-and-logout-in-django-simple-guide">Add Login and Logout in Django – Simple Guide</a></li> </ul> <p>In the last blog, we built a Django template. </p> <ul> <li><strong>Previous Blog Link :</strong> <a href="https://django-learning.hashnode.dev/django-templates-explained-a-guide-to-dynamic-web-pages">Django Templates Explained: A Guide to Dynamic Web Pages</a></li> </ul> <p>Give it a read and let me know your thoughts in the comments! 💬 Your feedback helps me make these guides even better! 😊</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rohit8329"> /u/rohit8329 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1if2uam/add_login_and_logout_in_django/">[l
+
+## How do you handle upgrades to django app
+ - [https://www.reddit.com/r/django/comments/1if1ljp/how_do_you_handle_upgrades_to_django_app](https://www.reddit.com/r/django/comments/1if1ljp/how_do_you_handle_upgrades_to_django_app)
+ - RSS feed: $source
+ - date published: 2025-02-01T07:59:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>What I mean is, in my requirements.txt I have everything fixed, same in the dockerfile as well. Is there a good process to follow, for example, start with dockerfile, if it still builds and all tests pass, then start upgrading each module? But then you get into dependency hell, where a new module is not compatible with an old one, so you have to upgrade the lot? Do you do that and then see what happens?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Extreme-Acid"> /u/Extreme-Acid </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1if1ljp/how_do_you_handle_upgrades_to_django_app/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1if1ljp/how_do_you_handle_upgrades_to_django_app/">[comments]</a></span>
+
+## Reactive Signals for Python with Async Support - inspired by Angular’s reactivity model
+ - [https://www.reddit.com/r/django/comments/1if17lp/reactive_signals_for_python_with_async_support](https://www.reddit.com/r/django/comments/1if17lp/reactive_signals_for_python_with_async_support)
+ - RSS feed: $source
+ - date published: 2025-02-01T07:30:28+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/loyoan"> /u/loyoan </a> <br/> <span><a href="/r/Python/comments/1idpb2h/reactive_signals_for_python_with_async_support/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1if17lp/reactive_signals_for_python_with_async_support/">[comments]</a></span>
+
