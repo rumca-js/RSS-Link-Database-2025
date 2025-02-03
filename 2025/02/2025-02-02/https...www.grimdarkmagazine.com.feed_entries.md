@@ -1,0 +1,9 @@
+# Source:Grimdark Magazine, URL:https://www.grimdarkmagazine.com/feed, language:en-AU
+
+## REVIEW: Your Blood and Bones by J. Patricia Anderson
+ - [https://www.grimdarkmagazine.com/review-your-blood-and-bones-by-j-patricia-anderson](https://www.grimdarkmagazine.com/review-your-blood-and-bones-by-j-patricia-anderson)
+ - RSS feed: $source
+ - date published: 2025-02-02T04:16:18+00:00
+
+<p>One of the best corners of the internet, and one of the main reasons I still have a Facebook account, is the Grimdark Fiction Readers &#38; Writers group. Nearly 10K of likeminded bookish folks are up for discussion and recommendations, with a high chance that you will like many of the books they share. This wonderful group is how I discovered J. Patricia Anderson&#8217;s thought-provoking novella Your Blood and Bones. A review post was shared with the cover image, and I went &#8216;OH pretty&#8217; and bought it. I admit it: I judged the book by its cover, and sometimes I am easily influenced. But in the case of Your Blood and Bones, it was worth it, and the novella was an excellent read. In a world where monsters are killed on sight, no matter who they are, a girl growing feathers and new bones under her skin resigns herself to a brutal and bloody death when her people discover her deformities. But she is unexpectedly rescued from the baying mob by a boy. A boy she has always lo
+

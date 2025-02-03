@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-02T15:00:40+00:00",
+        "description": "Former Microsoft CEO and philanthropist Bill Gates spoke to WSJ about a recent meeting with Donald Trump, Elon Musk\u2019s DOGE, U.S.-China relations and his upcoming book, \u201cSource Code,\u201d in which he reveals new details about his childhood. In the wide-ranging interview, Gates also discusses RFK Jr., supporting Kamala Harris\u2019s campaign and more. \n\n#BillGates #Tech #Shorts",
+        "id": 2024950,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=XS02Ul41UGQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XS02Ul41UGQ/hqdefault.jpg",
+        "title": "Bill Gates on His Morning Routine, Computer Science and AI",
+        "vote": 0
+    }
+]

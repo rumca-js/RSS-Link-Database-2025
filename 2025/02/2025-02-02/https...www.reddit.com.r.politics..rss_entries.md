@@ -1,0 +1,303 @@
+# Source:Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Massive Protest against trump administration in downtown LA
+ - [https://www.reddit.com/r/politics/comments/1ig9it8/massive_protest_against_trump_administration_in](https://www.reddit.com/r/politics/comments/1ig9it8/massive_protest_against_trump_administration_in)
+ - RSS feed: $source
+ - date published: 2025-02-02T22:23:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ig9it8/massive_protest_against_trump_administration_in/"> <img src="https://external-preview.redd.it/p0QnOQWtmMN4JZaiMKkzmUAfwRHXMSxtrYMydLY27hQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=001caa10cec229e66747b9d2a5b9bdf1ba3d9822" alt="Massive Protest against trump administration in downtown LA" title="Massive Protest against trump administration in downtown LA" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Razzlesndazzles"> /u/Razzlesndazzles </a> <br/> <span><a href="https://ktla.com/news/local-news/massive-protest-against-trump-deportations-forms-near-downtown-l-a-lapd-calls-it-non-permitted/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ig9it8/massive_protest_against_trump_administration_in/">[comments]</a></span> </td></tr></table>
+
+## Thousands of protesters rally in downtown Los Angeles against Trump’s aggressive immigration policies
+ - [https://www.reddit.com/r/politics/comments/1ig7s1s/thousands_of_protesters_rally_in_downtown_los](https://www.reddit.com/r/politics/comments/1ig7s1s/thousands_of_protesters_rally_in_downtown_los)
+ - RSS feed: $source
+ - date published: 2025-02-02T21:09:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ig7s1s/thousands_of_protesters_rally_in_downtown_los/"> <img src="https://external-preview.redd.it/UTuAywMgbAPwcro-2_MhDgRNXqFqkDJKQZvnrkGMzZc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3032f912331742b1a83b48b115212891c8a73191" alt="Thousands of protesters rally in downtown Los Angeles against Trump’s aggressive immigration policies" title="Thousands of protesters rally in downtown Los Angeles against Trump’s aggressive immigration policies" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spiritual-Dog160"> /u/Spiritual-Dog160 </a> <br/> <span><a href="https://www.latimes.com/california/story/2025-02-02/thousands-of-protesters-rally-in-downtown-los-angeles-against-trump-deportation-policies">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ig7s1s/thousands_of_protesters_rally_in_downtown_los/">[comments]</a></span> </td></tr></table>
+
+## Democratic senators introduce bill to check Trump’s tariff authority
+ - [https://www.reddit.com/r/politics/comments/1ig6d2c/democratic_senators_introduce_bill_to_check](https://www.reddit.com/r/politics/comments/1ig6d2c/democratic_senators_introduce_bill_to_check)
+ - RSS feed: $source
+ - date published: 2025-02-02T20:11:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ig6d2c/democratic_senators_introduce_bill_to_check/"> <img src="https://external-preview.redd.it/iHSqOWm566ellN4og1VeRQlarFTPtyXAwhNjpRvBsMo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=628565850979ce488b14cce3abea467cfa99eccc" alt="Democratic senators introduce bill to check Trump’s tariff authority" title="Democratic senators introduce bill to check Trump’s tariff authority" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lantis28"> /u/Lantis28 </a> <br/> <span><a href="https://thehill.com/homenews/senate/5119377-trump-tariff-threat-coons-kaine-congress/amp/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ig6d2c/democratic_senators_introduce_bill_to_check/">[comments]</a></span> </td></tr></table>
+
+## Wall Street Journal slams Trump’s tariff plans: ‘The dumbest trade war in history’
+ - [https://www.reddit.com/r/politics/comments/1ig65d5/wall_street_journal_slams_trumps_tariff_plans_the](https://www.reddit.com/r/politics/comments/1ig65d5/wall_street_journal_slams_trumps_tariff_plans_the)
+ - RSS feed: $source
+ - date published: 2025-02-02T20:02:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ig65d5/wall_street_journal_slams_trumps_tariff_plans_the/"> <img src="https://external-preview.redd.it/zmFC0SzCwWTtF9-GKml5m2POB0dhiY0E8chgdmHlLew.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c9d78f8c2b75d02c8588f7a661d2afbbb75e127" alt="Wall Street Journal slams Trump’s tariff plans: ‘The dumbest trade war in history’" title="Wall Street Journal slams Trump’s tariff plans: ‘The dumbest trade war in history’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spiderwig144"> /u/Spiderwig144 </a> <br/> <span><a href="https://thehill.com/business/5121142-wall-street-journal-slams-trumps-tariff-plans-the-dumbest-trade-war-in-history/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ig65d5/wall_street_journal_slams_trumps_tariff_plans_the/">[comments]</a></span> </td></tr></table>
+
+## AOC Warns Democratic Party About 'Confused' Messaging
+ - [https://www.reddit.com/r/politics/comments/1ig54uv/aoc_warns_democratic_party_about_confused](https://www.reddit.com/r/politics/comments/1ig54uv/aoc_warns_democratic_party_about_confused)
+ - RSS feed: $source
+ - date published: 2025-02-02T19:20:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ig54uv/aoc_warns_democratic_party_about_confused/"> <img src="https://external-preview.redd.it/2G2VK1__BYvn_0dEO3H04aqcRq_qHnRHGlYJX2WOsDU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cdc74b4107ce692d0a8845a0379fb2cb927300da" alt="AOC Warns Democratic Party About 'Confused' Messaging" title="AOC Warns Democratic Party About 'Confused' Messaging" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Humpty_Dumps"> /u/Humpty_Dumps </a> <br/> <span><a href="https://www.newsweek.com/alexandria-ocasio-cortez-warns-democrats-about-confused-messaging-2024852">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ig54uv/aoc_warns_democratic_party_about_confused/">[comments]</a></span> </td></tr></table>
+
+## Musk vows to cancel grants after gaining access to US Treasury payment system
+ - [https://www.reddit.com/r/politics/comments/1ig4spm/musk_vows_to_cancel_grants_after_gaining_access](https://www.reddit.com/r/politics/comments/1ig4spm/musk_vows_to_cancel_grants_after_gaining_access)
+ - RSS feed: $source
+ - date published: 2025-02-02T19:06:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ig4spm/musk_vows_to_cancel_grants_after_gaining_access/"> <img src="https://external-preview.redd.it/7Qs70j82G-RmvtqKjQ_r8gXNajb9Y_j4UWaAyAuKC14.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d85353c8f2461fa32c15fad1dee467fa3b6fecce" alt="Musk vows to cancel grants after gaining access to US Treasury payment system" title="Musk vows to cancel grants after gaining access to US Treasury payment system" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/soloChristoGlorium"> /u/soloChristoGlorium </a> <br/> <span><a href="https://www.ft.com/content/27ba0a6a-0d9b-4e08-8329-730b581c0481">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ig4spm/musk_vows_to_cancel_grants_after_gaining_access/">[comments]</a></span> </td></tr></table>
+
+## China denounces Trump tariff: 'Fentanyl is America's problem'
+ - [https://www.reddit.com/r/politics/comments/1ig3qqq/china_denounces_trump_tariff_fentanyl_is_americas](https://www.reddit.com/r/politics/comments/1ig3qqq/china_denounces_trump_tariff_fentanyl_is_americas)
+ - RSS feed: $source
+ - date published: 2025-02-02T18:23:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ig3qqq/china_denounces_trump_tariff_fentanyl_is_americas/"> <img src="https://external-preview.redd.it/vyPjvbAaNvYhCwjFJXwK7Z5a10pqXssh4KlMeCqZTVI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9303278a38ead78666649b68cf57cabdf4ad3320" alt="China denounces Trump tariff: 'Fentanyl is America's problem'" title="China denounces Trump tariff: 'Fentanyl is America's problem'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Antique-Entrance-229"> /u/Antique-Entrance-229 </a> <br/> <span><a href="https://www.reuters.com/world/china/china-denounces-trump-tariff-fentanyl-is-americas-problem-2025-02-02/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ig3qqq/china_denounces_trump_tariff_fentanyl_is_americas/">[comments]</a></span> </td></tr></table>
+
+## Trump is Leading a Coup Against American Taxpayers | Opinion
+ - [https://www.reddit.com/r/politics/comments/1ig39w2/trump_is_leading_a_coup_against_american](https://www.reddit.com/r/politics/comments/1ig39w2/trump_is_leading_a_coup_against_american)
+ - RSS feed: $source
+ - date published: 2025-02-02T18:03:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ig39w2/trump_is_leading_a_coup_against_american/"> <img src="https://external-preview.redd.it/bie4IGi6a4QUyFe26SNWmkP4_oul0YfxXuJfhohjON8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bb39ed9eea73a659eedd2e35bc70c635950804ea" alt="Trump is Leading a Coup Against American Taxpayers | Opinion" title="Trump is Leading a Coup Against American Taxpayers | Opinion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OkayButFoRealz"> /u/OkayButFoRealz </a> <br/> <span><a href="https://www.pennlive.com/opinion/2025/01/trump-is-leading-a-coup-against-american-taxpayers-opinion.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ig39w2/trump_is_leading_a_coup_against_american/">[comments]</a></span> </td></tr></table>
+
+## Parkland shooting survivor and gun-control activist David Hogg becomes DNC vice chair
+ - [https://www.reddit.com/r/politics/comments/1ig2v94/parkland_shooting_survivor_and_guncontrol](https://www.reddit.com/r/politics/comments/1ig2v94/parkland_shooting_survivor_and_guncontrol)
+ - RSS feed: $source
+ - date published: 2025-02-02T17:47:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ig2v94/parkland_shooting_survivor_and_guncontrol/"> <img src="https://external-preview.redd.it/kVyS8yc6Ou7n1zUuX-c2jP3NulOc2LecL8fj6CKhhq4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1b92a538cb7cb8c9c62ad83030289046daa0fa99" alt="Parkland shooting survivor and gun-control activist David Hogg becomes DNC vice chair" title="Parkland shooting survivor and gun-control activist David Hogg becomes DNC vice chair" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Humpty_Dumps"> /u/Humpty_Dumps </a> <br/> <span><a href="https://nypost.com/2025/02/02/us-news/parkland-shooting-survivor-david-hogg-becomes-dnc-vice-chair/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ig2v94/parkland_shooting_survivor_and_guncontrol/">[comments]</a></span> </td></tr></table>
+
+## With tariffs signed, Trump warns of ‘pain’ to come for Americans
+ - [https://www.reddit.com/r/politics/comments/1ig22ce/with_tariffs_signed_trump_warns_of_pain_to_come](https://www.reddit.com/r/politics/comments/1ig22ce/with_tariffs_signed_trump_warns_of_pain_to_come)
+ - RSS feed: $source
+ - date published: 2025-02-02T17:13:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ig22ce/with_tariffs_signed_trump_warns_of_pain_to_come/"> <img src="https://external-preview.redd.it/xVHKxn9XIAaihr7uJdPpeyajQ_w2Z90Nt420CVKjkz4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b386afc00e6238ecdede36752ef4b36c7cc4e76a" alt="With tariffs signed, Trump warns of ‘pain’ to come for Americans" title="With tariffs signed, Trump warns of ‘pain’ to come for Americans" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ClusterFugazi"> /u/ClusterFugazi </a> <br/> <span><a href="https://www.cnn.com/2025/02/02/politics/us-tariffs-americans-pay-imports/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ig22ce/with_tariffs_signed_trump_warns_of_pain_to_come/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk 'could shut off US welfare programmes' after gaining access to $6trillion payment system
+ - [https://www.reddit.com/r/politics/comments/1ig1vuw/elon_musk_could_shut_off_us_welfare_programmes](https://www.reddit.com/r/politics/comments/1ig1vuw/elon_musk_could_shut_off_us_welfare_programmes)
+ - RSS feed: $source
+ - date published: 2025-02-02T17:05:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ig1vuw/elon_musk_could_shut_off_us_welfare_programmes/"> <img src="https://external-preview.redd.it/8iu_-0GSlnK3iM9fJgUMfW8zfWM7rKjpoJXHEGytTgs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=996fc5474129cf8cbc23565a22679c1653ff3166" alt="Elon Musk 'could shut off US welfare programmes' after gaining access to $6trillion payment system" title="Elon Musk 'could shut off US welfare programmes' after gaining access to $6trillion payment system" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Giff95"> /u/Giff95 </a> <br/> <span><a href="https://www.telegraph.co.uk/world-news/2025/02/02/musk-donald-trump-doge-us-treasury-block-welfare-payments/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ig1vuw/elon_musk_could_shut_off_us_welfare_programmes/">[comments]</a></span> </td></tr></table>
+
+## Trump Aims To Destroy American Civil Society. Here’s Why He Must Be Stopped.
+ - [https://www.reddit.com/r/politics/comments/1ig1k5y/trump_aims_to_destroy_american_civil_society](https://www.reddit.com/r/politics/comments/1ig1k5y/trump_aims_to_destroy_american_civil_society)
+ - RSS feed: $source
+ - date published: 2025-02-02T16:52:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ig1k5y/trump_aims_to_destroy_american_civil_society/"> <img src="https://external-preview.redd.it/rCXk4nsU6xE0mn6Ep0HpVKiNm4ozX0X_wKp2N4FcFfA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=50854b2966e046ce3ca678f0f263e206d30b6db8" alt="Trump Aims To Destroy American Civil Society. Here’s Why He Must Be Stopped." title="Trump Aims To Destroy American Civil Society. Here’s Why He Must Be Stopped." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silent-Resort-3076"> /u/Silent-Resort-3076 </a> <br/> <span><a href="https://www.democracydocket.com/opinion/trump-aims-to-destroy-american-civil-society-heres-why-he-must-be-stopped/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ig1k5y/trump_aims_to_destroy_american_civil_society/">[comments]</a></span> </td></tr></table>
+
+## Trump’s Gitmo Detention Center Would Be Bigger Than History’s Worst Concentration Camps
+ - [https://www.reddit.com/r/politics/comments/1ig0uf5/trumps_gitmo_detention_center_would_be_bigger](https://www.reddit.com/r/politics/comments/1ig0uf5/trumps_gitmo_detention_center_would_be_bigger)
+ - RSS feed: $source
+ - date published: 2025-02-02T16:22:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ig0uf5/trumps_gitmo_detention_center_would_be_bigger/"> <img src="https://external-preview.redd.it/1tWt3aQvRLRz8S6VT7wgFVRcer7mwGKgGExprFpGbDc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f6fe4222d31816c4c14c2c0865ba6bd92155ba54" alt="Trump’s Gitmo Detention Center Would Be Bigger Than History’s Worst Concentration Camps" title="Trump’s Gitmo Detention Center Would Be Bigger Than History’s Worst Concentration Camps" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PandaMuffin1"> /u/PandaMuffin1 </a> <br/> <span><a href="https://slate.com/news-and-politics/2025/02/donald-trump-guantanamo-bay-gitmo-history-clinton.html?via=rss">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ig0uf5/trumps_gitmo_detention_center_would_be_bigger/">[comments]</a></span> </td></tr></table>
+
+## Yes, Musk Once Posted It Would Take Airplane Crash To End 'Crazy' DEI Hiring Policy
+ - [https://www.reddit.com/r/politics/comments/1ig0bz9/yes_musk_once_posted_it_would_take_airplane_crash](https://www.reddit.com/r/politics/comments/1ig0bz9/yes_musk_once_posted_it_would_take_airplane_crash)
+ - RSS feed: $source
+ - date published: 2025-02-02T16:00:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ig0bz9/yes_musk_once_posted_it_would_take_airplane_crash/"> <img src="https://external-preview.redd.it/XQKWGB8Q_ix4HZsF1pfcSvz5MnFO1s33tZTJ7R5BH10.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fcd42a3b21d7d4d6eefe9459d29555ec59686d35" alt="Yes, Musk Once Posted It Would Take Airplane Crash To End 'Crazy' DEI Hiring Policy" title="Yes, Musk Once Posted It Would Take Airplane Crash To End 'Crazy' DEI Hiring Policy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/synapsesmisfiring"> /u/synapsesmisfiring </a> <br/> <span><a href="https://www.snopes.com/fact-check/musk-airplane-crashing-dei/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ig0bz9/yes_musk_once_posted_it_would_take_airplane_crash/">[comments]</a></span> </td></tr></table>
+
+## Doug Ford announces Ontario ban on American liquor in response to U.S. tariffs
+ - [https://www.reddit.com/r/politics/comments/1ifyxde/doug_ford_announces_ontario_ban_on_american](https://www.reddit.com/r/politics/comments/1ifyxde/doug_ford_announces_ontario_ban_on_american)
+ - RSS feed: $source
+ - date published: 2025-02-02T14:56:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifyxde/doug_ford_announces_ontario_ban_on_american/"> <img src="https://external-preview.redd.it/Y8HS4GJHtiSKpZNhz9yqfWaN1el-q5IaBdTD-bKi44M.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=61efbe4382c9d5f289f8da6c5a42606e9dd53036" alt="Doug Ford announces Ontario ban on American liquor in response to U.S. tariffs" title="Doug Ford announces Ontario ban on American liquor in response to U.S. tariffs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Flower-Immediate"> /u/Flower-Immediate </a> <br/> <span><a href="https://www.cbc.ca/news/canada/toronto/ford-lcbo-tariffs-trump-1.7448423">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifyxde/doug_ford_announces_ontario_ban_on_american/">[comments]</a></span> </td></tr></table>
+
+## Musk’s Lackeys Seize Control of Social Security Check System
+ - [https://www.reddit.com/r/politics/comments/1ifykv9/musks_lackeys_seize_control_of_social_security](https://www.reddit.com/r/politics/comments/1ifykv9/musks_lackeys_seize_control_of_social_security)
+ - RSS feed: $source
+ - date published: 2025-02-02T14:39:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifykv9/musks_lackeys_seize_control_of_social_security/"> <img src="https://external-preview.redd.it/sARxJ8TvkBSxaUe4uRHX2N_3Z7X6-C_j6tPNzW3kxdc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e85642dcbd4ce0f0df494a16fa99da7660da20f6" alt="Musk’s Lackeys Seize Control of Social Security Check System" title="Musk’s Lackeys Seize Control of Social Security Check System" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Boonzies"> /u/Boonzies </a> <br/> <span><a href="https://www.thedailybeast.com/elon-musks-doge-lackeys-seize-control-of-social-security-check-system/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifykv9/musks_lackeys_seize_control_of_social_security/">[comments]</a></span> </td></tr></table>
+
+## Trump says potential pain caused by tariffs ‘worth the price that must be paid’
+ - [https://www.reddit.com/r/politics/comments/1ifyhy7/trump_says_potential_pain_caused_by_tariffs_worth](https://www.reddit.com/r/politics/comments/1ifyhy7/trump_says_potential_pain_caused_by_tariffs_worth)
+ - RSS feed: $source
+ - date published: 2025-02-02T14:35:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifyhy7/trump_says_potential_pain_caused_by_tariffs_worth/"> <img src="https://external-preview.redd.it/K5mUF55nUbWha14Z8rEw0ei2FdMor3gOHZeT-uOZqUI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e89dc2cb33e59b8328f3f120e7471ba4603dd1cb" alt="Trump says potential pain caused by tariffs ‘worth the price that must be paid’" title="Trump says potential pain caused by tariffs ‘worth the price that must be paid’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Eat_the_Rich1789"> /u/Eat_the_Rich1789 </a> <br/> <span><a href="https://thehill.com/homenews/administration/5121390-trump-says-potential-pain-caused-by-tariffs-worth-the-price-that-must-be-paid/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifyhy7/trump_says_potential_pain_caused_by_tariffs_worth/">[comments]</a></span> </td></tr></table>
+
+## F.A.A.’s Main Warning System for Pilots Is Down, U.S. Official Says
+ - [https://www.reddit.com/r/politics/comments/1ifyhfv/faas_main_warning_system_for_pilots_is_down_us](https://www.reddit.com/r/politics/comments/1ifyhfv/faas_main_warning_system_for_pilots_is_down_us)
+ - RSS feed: $source
+ - date published: 2025-02-02T14:34:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifyhfv/faas_main_warning_system_for_pilots_is_down_us/"> <img src="https://external-preview.redd.it/LUQOGhgGtcU-4TRxta97nml0KAa_GDUIl18ws-b0PS8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=78733bb627b4ead4c802926533683653d09d592a" alt="F.A.A.’s Main Warning System for Pilots Is Down, U.S. Official Says" title="F.A.A.’s Main Warning System for Pilots Is Down, U.S. Official Says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TintedApostle"> /u/TintedApostle </a> <br/> <span><a href="https://www.nytimes.com/2025/02/02/us/notam-outage-faa-alerts.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifyhfv/faas_main_warning_system_for_pilots_is_down_us/">[comments]</a></span> </td></tr></table>
+
+## Trump is waging war against his own government
+ - [https://www.reddit.com/r/politics/comments/1ifya3p/trump_is_waging_war_against_his_own_government](https://www.reddit.com/r/politics/comments/1ifya3p/trump_is_waging_war_against_his_own_government)
+ - RSS feed: $source
+ - date published: 2025-02-02T14:24:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifya3p/trump_is_waging_war_against_his_own_government/"> <img src="https://external-preview.redd.it/6z5qXsTl3CbosCytKVTJOqQaEZ_cPUsKGCGeuZqSm6A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa3fe2ba8f4783bc425bf7421a7bfdffa439ea0b" alt="Trump is waging war against his own government" title="Trump is waging war against his own government" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SpaceElevatorMusic"> /u/SpaceElevatorMusic </a> <br/> <span><a href="https://www.nbcnews.com/politics/donald-trump/trump-waging-war-government-rcna190316">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifya3p/trump_is_waging_war_against_his_own_government/">[comments]</a></span> </td></tr></table>
+
+## ‘Not anymore’: American liquor to be removed from LCBO shelves on Tuesday, Ford says
+ - [https://www.reddit.com/r/politics/comments/1ify8ws/not_anymore_american_liquor_to_be_removed_from](https://www.reddit.com/r/politics/comments/1ify8ws/not_anymore_american_liquor_to_be_removed_from)
+ - RSS feed: $source
+ - date published: 2025-02-02T14:23:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ify8ws/not_anymore_american_liquor_to_be_removed_from/"> <img src="https://external-preview.redd.it/qhkTVAAV7M8PLFn4ffVKZhbh4Kw1ZHQyfMmOuB1C66A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=646456addffcb3b312708cc75b544acc2e64357a" alt="‘Not anymore’: American liquor to be removed from LCBO shelves on Tuesday, Ford says" title="‘Not anymore’: American liquor to be removed from LCBO shelves on Tuesday, Ford says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ClassOptimal7655"> /u/ClassOptimal7655 </a> <br/> <span><a href="https://www.ctvnews.ca/toronto/article/not-anymore-american-liquor-to-be-removed-from-lcbo-shelves-on-tuesday-ford-says/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ify8ws/not_anymore_american_liquor_to_be_removed_from/">[comments]</a></span> </td></tr></table>
+
+## President Trump threatens Canada over trade war - saying it should become 'cherished 51st state'
+ - [https://www.reddit.com/r/politics/comments/1ify7oj/president_trump_threatens_canada_over_trade_war](https://www.reddit.com/r/politics/comments/1ify7oj/president_trump_threatens_canada_over_trade_war)
+ - RSS feed: $source
+ - date published: 2025-02-02T14:21:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ify7oj/president_trump_threatens_canada_over_trade_war/"> <img src="https://external-preview.redd.it/ZZ89swa_uj4AbqyXNXrrgjacyR1QX6dkJbzj7zcc0zI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7def4dd03224020d0a1aa39741bc002ba3e57ce4" alt="President Trump threatens Canada over trade war - saying it should become 'cherished 51st state'" title="President Trump threatens Canada over trade war - saying it should become 'cherished 51st state'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/king_of_rain_"> /u/king_of_rain_ </a> <br/> <span><a href="https://news.sky.com/story/president-trump-threatens-canada-over-trade-war-saying-it-should-become-cherished-51st-state-13301663">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ify7oj/president_trump_threatens_canada_over_trade_war/">[comments]</a></span> </td></tr></table>
+
+## Progressives Warn Trump-Musk Agenda Is True Threat to Aviation Safety
+ - [https://www.reddit.com/r/politics/comments/1ifx29g/progressives_warn_trumpmusk_agenda_is_true_threat](https://www.reddit.com/r/politics/comments/1ifx29g/progressives_warn_trumpmusk_agenda_is_true_threat)
+ - RSS feed: $source
+ - date published: 2025-02-02T13:19:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifx29g/progressives_warn_trumpmusk_agenda_is_true_threat/"> <img src="https://external-preview.redd.it/delDBghR_lR2pPeXL_8TDmDXN4He4_fJN2lt9iQac80.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3724d51aa55f17ce60a155ad73fef2d23fcd5b1d" alt="Progressives Warn Trump-Musk Agenda Is True Threat to Aviation Safety" title="Progressives Warn Trump-Musk Agenda Is True Threat to Aviation Safety" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_May26_"> /u/_May26_ </a> <br/> <span><a href="https://www.commondreams.org/news/trump-musk-aviation-safety">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifx29g/progressives_warn_trumpmusk_agenda_is_true_threat/">[comments]</a></span> </td></tr></table>
+
+## Female Pilot in Crash Trump Blames on DEI Was Top 20% Cadet
+ - [https://www.reddit.com/r/politics/comments/1ifwrfc/female_pilot_in_crash_trump_blames_on_dei_was_top](https://www.reddit.com/r/politics/comments/1ifwrfc/female_pilot_in_crash_trump_blames_on_dei_was_top)
+ - RSS feed: $source
+ - date published: 2025-02-02T13:02:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifwrfc/female_pilot_in_crash_trump_blames_on_dei_was_top/"> <img src="https://external-preview.redd.it/UmWwQvQDPqvxbGkxpxM_f1CAjGTXMQqVMFqPAH-ETvo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f64277ad4f4b8a359109573a8d96aa0f5f1c13ff" alt="Female Pilot in Crash Trump Blames on DEI Was Top 20% Cadet" title="Female Pilot in Crash Trump Blames on DEI Was Top 20% Cadet" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silent-Resort-3076"> /u/Silent-Resort-3076 </a> <br/> <span><a href="https://www.thedailybeast.com/female-pilot-in-crash-trump-blames-on-dei-was-in-top-20-of-army/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifwrfc/female_pilot_in_crash_trump_blames_on_dei_was_top/">[comments]</a></span> </td></tr></table>
+
+## Hedge funds bet billions on market crash in Trump’s America
+ - [https://www.reddit.com/r/politics/comments/1ifwfmv/hedge_funds_bet_billions_on_market_crash_in](https://www.reddit.com/r/politics/comments/1ifwfmv/hedge_funds_bet_billions_on_market_crash_in)
+ - RSS feed: $source
+ - date published: 2025-02-02T12:42:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifwfmv/hedge_funds_bet_billions_on_market_crash_in/"> <img src="https://external-preview.redd.it/2a0L0ZpG9H0UZvJUtRMn5--WnvVchshQLfV4k5qdoNg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1829066911125bde2bac87cc4e4a595c891fcab5" alt="Hedge funds bet billions on market crash in Trump’s America" title="Hedge funds bet billions on market crash in Trump’s America" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MystikSpiralx"> /u/MystikSpiralx </a> <br/> <span><a href="https://www.telegraph.co.uk/business/2025/01/31/hedge-funds-bet-billions-against-trumps-america/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifwfmv/hedge_funds_bet_billions_on_market_crash_in/">[comments]</a></span> </td></tr></table>
+
+## Wrecking ball: Trump’s war on ‘woke’ marks US society’s plunge into ‘dark times’
+ - [https://www.reddit.com/r/politics/comments/1ifvpnh/wrecking_ball_trumps_war_on_woke_marks_us](https://www.reddit.com/r/politics/comments/1ifvpnh/wrecking_ball_trumps_war_on_woke_marks_us)
+ - RSS feed: $source
+ - date published: 2025-02-02T11:56:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifvpnh/wrecking_ball_trumps_war_on_woke_marks_us/"> <img src="https://external-preview.redd.it/nqa6iKiMCphcJTOVE6nUzIgyAV8K_pjV5uJq4JSVyZw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d61174a23c2885f50bf52ee7650015335f76a0b" alt="Wrecking ball: Trump’s war on ‘woke’ marks US society’s plunge into ‘dark times’" title="Wrecking ball: Trump’s war on ‘woke’ marks US society’s plunge into ‘dark times’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PrintOk8045"> /u/PrintOk8045 </a> <br/> <span><a href="https://www.theguardian.com/us-news/2025/feb/02/trump-woke-dei-culture-wars">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifvpnh/wrecking_ball_trumps_war_on_woke_marks_us/">[comments]</a></span> </td></tr></table>
+
+## H.R.55 - To repeal the National Voter Registration Act of 1993
+ - [https://www.reddit.com/r/politics/comments/1ifvot1/hr55_to_repeal_the_national_voter_registration](https://www.reddit.com/r/politics/comments/1ifvot1/hr55_to_repeal_the_national_voter_registration)
+ - RSS feed: $source
+ - date published: 2025-02-02T11:54:41+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Hyracotherium"> /u/Hyracotherium </a> <br/> <span><a href="https://www.congress.gov/bill/119th-congress/house-bill/55?q=%7B%22search%22%3A%22119th+congress%22%7D&amp;s=2&amp;r=29">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifvot1/hr55_to_repeal_the_national_voter_registration/">[comments]</a></span>
+
+## HR 86 - to terminate OSHA
+ - [https://www.reddit.com/r/politics/comments/1ifvl40/hr_86_to_terminate_osha](https://www.reddit.com/r/politics/comments/1ifvl40/hr_86_to_terminate_osha)
+ - RSS feed: $source
+ - date published: 2025-02-02T11:47:32+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Hyracotherium"> /u/Hyracotherium </a> <br/> <span><a href="https://www.congress.gov/bill/119th-congress/house-bill/86?q=%7B%22search%22%3A%22119th+congress%22%7D&amp;s=2&amp;r=30">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifvl40/hr_86_to_terminate_osha/">[comments]</a></span>
+
+## Female Pilot in Crash Trump Blamed on DEI Was Top 20% Army Cadet
+ - [https://www.reddit.com/r/politics/comments/1ifuys6/female_pilot_in_crash_trump_blamed_on_dei_was_top](https://www.reddit.com/r/politics/comments/1ifuys6/female_pilot_in_crash_trump_blamed_on_dei_was_top)
+ - RSS feed: $source
+ - date published: 2025-02-02T11:03:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifuys6/female_pilot_in_crash_trump_blamed_on_dei_was_top/"> <img src="https://external-preview.redd.it/UmWwQvQDPqvxbGkxpxM_f1CAjGTXMQqVMFqPAH-ETvo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f64277ad4f4b8a359109573a8d96aa0f5f1c13ff" alt="Female Pilot in Crash Trump Blamed on DEI Was Top 20% Army Cadet" title="Female Pilot in Crash Trump Blamed on DEI Was Top 20% Army Cadet" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br/> <span><a href="https://www.thedailybeast.com/female-pilot-in-crash-trump-blames-on-dei-was-in-top-20-of-army/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifuys6/female_pilot_in_crash_trump_blamed_on_dei_was_top/">[comments]</a></span> </td></tr></table>
+
+## Archivists Work to Identify and Save the Thousands of Datasets Disappearing From Data.gov
+ - [https://www.reddit.com/r/politics/comments/1ifukn2/archivists_work_to_identify_and_save_the](https://www.reddit.com/r/politics/comments/1ifukn2/archivists_work_to_identify_and_save_the)
+ - RSS feed: $source
+ - date published: 2025-02-02T10:35:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifukn2/archivists_work_to_identify_and_save_the/"> <img src="https://external-preview.redd.it/ZCEVUzqFPwYgQN4lVTRxPs1aLMZMSx3UBv7gstlpFLo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=907ff1b7194fd39522a8f95f6fd25e9802ae0c02" alt="Archivists Work to Identify and Save the Thousands of Datasets Disappearing From Data.gov" title="Archivists Work to Identify and Save the Thousands of Datasets Disappearing From Data.gov" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/twarr1"> /u/twarr1 </a> <br/> <span><a href="https://www.404media.co/archivists-work-to-identify-and-save-the-thousands-of-datasets-disappearing-from-data-gov/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifukn2/archivists_work_to_identify_and_save_the/">[comments]</a></span> </td></tr></table>
+
+## Trump announces tariffs from Mar-a-Lago; is he allowed to work from home?
+ - [https://www.reddit.com/r/politics/comments/1ifre0u/trump_announces_tariffs_from_maralago_is_he](https://www.reddit.com/r/politics/comments/1ifre0u/trump_announces_tariffs_from_maralago_is_he)
+ - RSS feed: $source
+ - date published: 2025-02-02T06:43:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifre0u/trump_announces_tariffs_from_maralago_is_he/"> <img src="https://external-preview.redd.it/xVHKxn9XIAaihr7uJdPpeyajQ_w2Z90Nt420CVKjkz4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b386afc00e6238ecdede36752ef4b36c7cc4e76a" alt="Trump announces tariffs from Mar-a-Lago; is he allowed to work from home?" title="Trump announces tariffs from Mar-a-Lago; is he allowed to work from home?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hawaiirat"> /u/hawaiirat </a> <br/> <span><a href="https://www.cnn.com/2025/02/01/politics/mexico-canada-china-tariffs-trump?cid=ios_app">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifre0u/trump_announces_tariffs_from_maralago_is_he/">[comments]</a></span> </td></tr></table>
+
+## H.R.899 - 119th Congress (2025-2026): To terminate the Department of Education.
+ - [https://www.reddit.com/r/politics/comments/1ifr7ot/hr899_119th_congress_20252026_to_terminate_the](https://www.reddit.com/r/politics/comments/1ifr7ot/hr899_119th_congress_20252026_to_terminate_the)
+ - RSS feed: $source
+ - date published: 2025-02-02T06:31:46+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/eat_my_opinion"> /u/eat_my_opinion </a> <br/> <span><a href="https://www.congress.gov/bill/119th-congress/house-bill/899?s=2&amp;r=9">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifr7ot/hr899_119th_congress_20252026_to_terminate_the/">[comments]</a></span>
+
+## David Hogg wins election as vice chair of DNC
+ - [https://www.reddit.com/r/politics/comments/1ifqq55/david_hogg_wins_election_as_vice_chair_of_dnc](https://www.reddit.com/r/politics/comments/1ifqq55/david_hogg_wins_election_as_vice_chair_of_dnc)
+ - RSS feed: $source
+ - date published: 2025-02-02T06:00:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifqq55/david_hogg_wins_election_as_vice_chair_of_dnc/"> <img src="https://external-preview.redd.it/F5rxzOnkpMmXYM9TObn7vmgvWWnFwASaInxlyDD4Uxs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4dc6900d6fe4a62a92871dd9446609c47400418c" alt="David Hogg wins election as vice chair of DNC" title="David Hogg wins election as vice chair of DNC" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FireFoxG"> /u/FireFoxG </a> <br/> <span><a href="https://www.washingtonexaminer.com/news/campaigns/3307825/david-hogg-wins-election-vice-chair-dnc/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifqq55/david_hogg_wins_election_as_vice_chair_of_dnc/">[comments]</a></span> </td></tr></table>
+
+## Farmers Plead ‘Stop Our Fields Flooding’ as Trump Opens Dams
+ - [https://www.reddit.com/r/politics/comments/1ifq3ej/farmers_plead_stop_our_fields_flooding_as_trump](https://www.reddit.com/r/politics/comments/1ifq3ej/farmers_plead_stop_our_fields_flooding_as_trump)
+ - RSS feed: $source
+ - date published: 2025-02-02T05:21:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifq3ej/farmers_plead_stop_our_fields_flooding_as_trump/"> <img src="https://external-preview.redd.it/Vc0Pj9RpCshZZX19NdGWgrL704T3o_7qZeedHj8TIOY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b48799fb660417df2fbcce8633bb29c7464f739" alt="Farmers Plead ‘Stop Our Fields Flooding’ as Trump Opens Dams" title="Farmers Plead ‘Stop Our Fields Flooding’ as Trump Opens Dams" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EmptySpaceForAHeart"> /u/EmptySpaceForAHeart </a> <br/> <span><a href="https://www.thedailybeast.com/farmers-plead-stop-our-fields-flooding-as-trump-opens-dams-in-california/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifq3ej/farmers_plead_stop_our_fields_flooding_as_trump/">[comments]</a></span> </td></tr></table>
+
+## Far right ideologist Yarvin's plans to overthrow the US and turn it into an autocracy is already in motion
+ - [https://www.reddit.com/r/politics/comments/1ifo8my/far_right_ideologist_yarvins_plans_to_overthrow](https://www.reddit.com/r/politics/comments/1ifo8my/far_right_ideologist_yarvins_plans_to_overthrow)
+ - RSS feed: $source
+ - date published: 2025-02-02T03:34:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifo8my/far_right_ideologist_yarvins_plans_to_overthrow/"> <img src="https://external-preview.redd.it/4a7T11w7_GsYAfKGYVfWe4UIrjeFZMmVyPmHyhnx6SE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=62a5c1d9493877ba0a8ad36049b729f1506f087a" alt="Far right ideologist Yarvin's plans to overthrow the US and turn it into an autocracy is already in motion" title="Far right ideologist Yarvin's plans to overthrow the US and turn it into an autocracy is already in motion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/-Konrad-"> /u/-Konrad- </a> <br/> <span><a href="https://www.theguardian.com/us-news/2024/dec/21/curtis-yarvin-trump">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifo8my/far_right_ideologist_yarvins_plans_to_overthrow/">[comments]</a></span> </td></tr></table>
+
+## Trudeau Tells Trump: Your Tariff War Will Shut American Factories
+ - [https://www.reddit.com/r/politics/comments/1ifnsp4/trudeau_tells_trump_your_tariff_war_will_shut](https://www.reddit.com/r/politics/comments/1ifnsp4/trudeau_tells_trump_your_tariff_war_will_shut)
+ - RSS feed: $source
+ - date published: 2025-02-02T03:09:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifnsp4/trudeau_tells_trump_your_tariff_war_will_shut/"> <img src="https://external-preview.redd.it/rDHiyHmc_t3FekCT7yoALVU_jwHwTqBvpkuCqHHjnOU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=090940339af3470e8d813a71e90e8048ed6fa819" alt="Trudeau Tells Trump: Your Tariff War Will Shut American Factories" title="Trudeau Tells Trump: Your Tariff War Will Shut American Factories" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/z8675309z"> /u/z8675309z </a> <br/> <span><a href="https://www.thedailybeast.com/justin-trudeau-tells-donald-trump-tariff-war-will-shut-american-factories/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifnsp4/trudeau_tells_trump_your_tariff_war_will_shut/">[comments]</a></span> </td></tr></table>
+
+## Canada retaliating for Trump’s tariffs with 25 per cent tariffs on billions of U.S. goods
+ - [https://www.reddit.com/r/politics/comments/1ifmz1r/canada_retaliating_for_trumps_tariffs_with_25_per](https://www.reddit.com/r/politics/comments/1ifmz1r/canada_retaliating_for_trumps_tariffs_with_25_per)
+ - RSS feed: $source
+ - date published: 2025-02-02T02:24:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifmz1r/canada_retaliating_for_trumps_tariffs_with_25_per/"> <img src="https://external-preview.redd.it/kYZBHqzMhgpxOS59TgDrc1JyLQMxc2VZqPPixBJs54g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=10047c0fcb15ee3ee637f7b7cd02c3a0b873e2a9" alt="Canada retaliating for Trump’s tariffs with 25 per cent tariffs on billions of U.S. goods" title="Canada retaliating for Trump’s tariffs with 25 per cent tariffs on billions of U.S. goods" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ObjectiveOrange3490"> /u/ObjectiveOrange3490 </a> <br/> <span><a href="https://www.ctvnews.ca/politics/article/canada-retaliating-for-trumps-tariffs-with-25-per-cent-tariffs-on-billions-of-us-goods-justin-trudeau/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifmz1r/canada_retaliating_for_trumps_tariffs_with_25_per/">[comments]</a></span> </td></tr></table>
+
+## Mexico’s President Sheinbaum orders retaliatory tariffs on US hours after Trump imposed 25% tariff on Mexico, Canada
+ - [https://www.reddit.com/r/politics/comments/1ifmheg/mexicos_president_sheinbaum_orders_retaliatory](https://www.reddit.com/r/politics/comments/1ifmheg/mexicos_president_sheinbaum_orders_retaliatory)
+ - RSS feed: $source
+ - date published: 2025-02-02T01:58:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifmheg/mexicos_president_sheinbaum_orders_retaliatory/"> <img src="https://external-preview.redd.it/lCz8vB8SwXStOv4qCWg__q6J7uaF0FxLLsPFqAfeZJA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3cc63a225ce0da8b91ac1ac1d490da747f0e43a0" alt="Mexico’s President Sheinbaum orders retaliatory tariffs on US hours after Trump imposed 25% tariff on Mexico, Canada" title="Mexico’s President Sheinbaum orders retaliatory tariffs on US hours after Trump imposed 25% tariff on Mexico, Canada" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/4Waleedamer"> /u/4Waleedamer </a> <br/> <span><a href="https://nypost.com/2025/02/01/us-news/mexico-claudia-sheinbaum-canada-justin-trudeau-trump-tariff/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifmheg/mexicos_president_sheinbaum_orders_retaliatory/">[comments]</a></span> </td></tr></table>
+
+## Mexican president orders retaliatory tariffs against U.S.
+ - [https://www.reddit.com/r/politics/comments/1ifm8k2/mexican_president_orders_retaliatory_tariffs](https://www.reddit.com/r/politics/comments/1ifm8k2/mexican_president_orders_retaliatory_tariffs)
+ - RSS feed: $source
+ - date published: 2025-02-02T01:45:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifm8k2/mexican_president_orders_retaliatory_tariffs/"> <img src="https://external-preview.redd.it/dQaf_mCdFl5aWhAcHZZRoL6ZZMN2tFuG2MWC2msRioI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c86d9879bea0682b5f2cf8fbd144efc9eba827f8" alt="Mexican president orders retaliatory tariffs against U.S." title="Mexican president orders retaliatory tariffs against U.S." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kweathergirl"> /u/kweathergirl </a> <br/> <span><a href="https://www.reuters.com/world/americas/mexican-president-orders-retaliatory-tariffs-against-us-2025-02-02/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifm8k2/mexican_president_orders_retaliatory_tariffs/">[comments]</a></span> </td></tr></table>
+
+## Hockey fans boo U.S. national anthem at Ottawa Senators game after Trump imposes tariffs
+ - [https://www.reddit.com/r/politics/comments/1ifm4j0/hockey_fans_boo_us_national_anthem_at_ottawa](https://www.reddit.com/r/politics/comments/1ifm4j0/hockey_fans_boo_us_national_anthem_at_ottawa)
+ - RSS feed: $source
+ - date published: 2025-02-02T01:39:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifm4j0/hockey_fans_boo_us_national_anthem_at_ottawa/"> <img src="https://external-preview.redd.it/8V-mrPtSBXFh6sBSVssn5hJIrdI5RGRsusAY8eDv9IM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=57b3d2ab16369263dc870612fbb1952124488657" alt="Hockey fans boo U.S. national anthem at Ottawa Senators game after Trump imposes tariffs" title="Hockey fans boo U.S. national anthem at Ottawa Senators game after Trump imposes tariffs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Flower-Immediate"> /u/Flower-Immediate </a> <br/> <span><a href="https://www.ctvnews.ca/ottawa/article/hockey-fans-boo-us-national-anthem-at-ottawa-senators-game-after-trump-imposes-tariffs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifm4j0/hockey_fans_boo_us_national_anthem_at_ottawa/">[comments]</a></span> </td></tr></table>
+
+## "Trump's New Tariffs: Are They Pushing Countries to Form New Alliances Against the U.S.?"
+ - [https://www.reddit.com/r/politics/comments/1iflnol/trumps_new_tariffs_are_they_pushing_countries_to](https://www.reddit.com/r/politics/comments/1iflnol/trumps_new_tariffs_are_they_pushing_countries_to)
+ - RSS feed: $source
+ - date published: 2025-02-02T01:14:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iflnol/trumps_new_tariffs_are_they_pushing_countries_to/"> <img src="https://external-preview.redd.it/gD-Bv7H9U1iWukfOeC-HMIRnw4-pvOoDKecLulmUZWA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec796c0e2afcfc8d515c36b92d0ce647e7f4ab3b" alt="&quot;Trump's New Tariffs: Are They Pushing Countries to Form New Alliances Against the U.S.?&quot;" title="&quot;Trump's New Tariffs: Are They Pushing Countries to Form New Alliances Against the U.S.?&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Philosophers_Mind"> /u/Philosophers_Mind </a> <br/> <span><a href="https://apnews.com/article/753a09d56cd318f2eb1d2efe3c43b7d4?utm_source=chatgpt.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iflnol/trumps_new_tariffs_are_they_pushing_countries_to/">[comments]</a></span> </td></tr></table>
+
+## B.C. premier announces countermeasures against U.S. tariffs, including ban on red-state liquor
+ - [https://www.reddit.com/r/politics/comments/1iflj1p/bc_premier_announces_countermeasures_against_us](https://www.reddit.com/r/politics/comments/1iflj1p/bc_premier_announces_countermeasures_against_us)
+ - RSS feed: $source
+ - date published: 2025-02-02T01:08:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iflj1p/bc_premier_announces_countermeasures_against_us/"> <img src="https://external-preview.redd.it/sRkOl73Zi0Vr2l33xAkeO4mgr3LlMDnDKeEMpJNNyv0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=249a07c2d64efcd092831bb0ffcd69eec99be86f" alt="B.C. premier announces countermeasures against U.S. tariffs, including ban on red-state liquor" title="B.C. premier announces countermeasures against U.S. tariffs, including ban on red-state liquor" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hamstercrisis"> /u/hamstercrisis </a> <br/> <span><a href="https://www.cbc.ca/news/canada/british-columbia/bc-premier-david-eby-us-tariffs-1.7448307">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iflj1p/bc_premier_announces_countermeasures_against_us/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk May Have Your Social Security Number
+ - [https://www.reddit.com/r/politics/comments/1ifl4xh/elon_musk_may_have_your_social_security_number](https://www.reddit.com/r/politics/comments/1ifl4xh/elon_musk_may_have_your_social_security_number)
+ - RSS feed: $source
+ - date published: 2025-02-02T00:48:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifl4xh/elon_musk_may_have_your_social_security_number/"> <img src="https://external-preview.redd.it/413HV7DP1xx4Znk5cspvJmzsx07Px49Zj9YFion_qbU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2aeac28abc88ba4c34001e44c936f3a9a8201e56" alt="Elon Musk May Have Your Social Security Number" title="Elon Musk May Have Your Social Security Number" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OnlyMamaKnows"> /u/OnlyMamaKnows </a> <br/> <span><a href="https://nymag.com/intelligencer/article/elon-musk-doge-treasury-access-federal-payments.html?utm_medium=s1&amp;utm_campaign=nym&amp;utm_source=bluesky">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ifl4xh/elon_musk_may_have_your_social_security_number/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk's X sues Lego, Nestlé and more brands, accusing them of advertising boycott
+ - [https://www.reddit.com/r/politics/comments/1ifl1ze/elon_musks_x_sues_lego_nestlé_and_more_brands](https://www.reddit.com/r/politics/comments/1ifl1ze/elon_musks_x_sues_lego_nestlé_and_more_brands)
+ - RSS feed: $source
+ - date published: 2025-02-02T00:44:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ifl1ze/elon_musks_x_sues_lego_nestlé_and_more_brands/"> <img src="https://external-preview.redd.it/3g4_9FGFdSKOPT_wsoBH-MVt1BkjO99qWg9av_fC7Iw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=63dace2e9ff87473d848e08c3000cd0d15785407" alt="Elon Musk's X sues Lego, Nestlé and more brands, accusing them of advertising boycott" title="Elon Musk's X sues Lego, Nestlé and more brands, accusing them of advertising boycott" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/undercurrents"> /u/undercurrents </a> <br/> <span><a href="https://www.npr.org/2025/02/01/nx-s1-5283271/elon-musk-lawsuit-advertisers-boycott-new?utm_campaign=npr&amp;utm_term=nprnews&amp;utm_source=facebook.com&amp;utm_medium=social&amp;fbclid=IwY2xjawILnwZleHRuA2FlbQIxMQABHdtZfArAlSRonkueNCZQiZIqGzmI_N_siQUnR2dNniHITMGbukLVlqoYSQ_aem_0Bi3r9_v_U_1TXEPH0Ywfg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/po
+

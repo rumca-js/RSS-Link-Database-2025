@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-02T01:22:56+00:00",
+        "description": "General Motors and a few other companies make as much as 40 percent of their North American cars and trucks in Canada and Mexico, leaving them vulnerable to tariffs.",
+        "id": 2022256,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/02/01/business/economy/tariffs-trump-automakers-canada-mexico.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/01/31/multimedia/31auto-tariffs-01-hkjm/31auto-tariffs-01-hkjm-mediumSquareAt3X.jpg",
+        "title": "Trump\u2019s Canada and Mexico Tariffs Could Hurt Carmakers",
+        "vote": 0
+    }
+]

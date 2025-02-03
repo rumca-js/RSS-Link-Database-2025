@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-02T22:36:33+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Microsoft is taking an aggressive step towards lowering the price of top-tier AI reasoning, placing what appears to be unlimited access to OpenAI\u2019s o1 model directly within Copilot\u2019s new \u201cThink Deeper\u201d feature.</p>\n\n\n\n<p>What\u2019s important here is the word \u201cfree\u201d: OpenAI released the o1 model in December, and company chief executive Sam Altman promised that it would be the most powerful model available. But it came with a catch: two subscriptions. OpenAI\u2019s ChatGPT Pro charges a whopping $200/mo for unlimited access to the model. The company\u2019s $20/mo service, ChatGPT Plus, also allows access to the o1 model, but with limited access.</p>\n\n\n\n<p>On Wednesday, Microsoft\u2019s chief of Microsoft AI, Mustafa Suleyman, announced that access to the o1 model would be available to Copilot users <a href=\"https://www.linkedin.com/posts/mustafa-suleyman_today-weve-made-think-",
+        "id": 2026622,
+        "language": null,
+        "link": "https://www.pcworld.com/article/2593856/chatgpts-advanced-ai-costs-200-mo-its-now-free-for-windows-users.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "ChatGPT\u2019s advanced AI costs $200/mo. It\u2019s now free for Windows users",
+        "vote": 0
+    }
+]

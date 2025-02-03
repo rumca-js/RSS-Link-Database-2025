@@ -1,0 +1,51 @@
+# Source:webscraping, URL:https://www.reddit.com/r/webscraping/.rss, language:en
+
+## Pulling 10-K data from SEC/Edgar
+ - [https://www.reddit.com/r/webscraping/comments/1ig8coh/pulling_10k_data_from_secedgar](https://www.reddit.com/r/webscraping/comments/1ig8coh/pulling_10k_data_from_secedgar)
+ - RSS feed: $source
+ - date published: 2025-02-02T21:33:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m trying to write a script on Google Apps script to pull 10-K data from Edgar and keep getting an error from the SEC telling me my request originates from an Undeclared Automated Tool, and that I need to declare my traffic by updating my user agent to include company specific information.</p> <p>From looking at what other people have done online in the past, I’ve tried all sorts of variations of my company’s name/my name + my personal email/work e-mail and nothing seems to be accepted. Does anyone have advice on what user-agent names the SEC accepts?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Few_Ad6396"> /u/Few_Ad6396 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1ig8coh/pulling_10k_data_from_secedgar/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1ig8coh/pulling_10k_data_from_secedgar/">[comments]</a></span>
+
+## Loking for puppeteer like for mobile
+ - [https://www.reddit.com/r/webscraping/comments/1ig594y/loking_for_puppeteer_like_for_mobile](https://www.reddit.com/r/webscraping/comments/1ig594y/loking_for_puppeteer_like_for_mobile)
+ - RSS feed: $source
+ - date published: 2025-02-02T19:25:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi guys, I&#39;m making a manga reader (mobile) and I need to scrape some images from a few websites, some of them store their images using cloudflare so if use cheerio and axios to get the image src it just does not work (it gives 403 back), I managed to overcome that by screenshoting the images using puppeteer on the backend</p> <p>For the sites that does not use cloudflare I don&#39;t need to use puppeteer and can just get the src, so I was thinking of way to run that without a backend.</p> <p>To sum it up:</p> <p>I&#39;m looking for something like puppeteer or playwright on mobile, I know the two mentioned runs a browser process so I would need to run on a server, but I was thinking if there is any alternative that can run on web view.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TuTheWeeb"> /u/TuTheWeeb </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1ig594y/loking_for_puppeteer_l
+
+## Websocket Subscription Issue
+ - [https://www.reddit.com/r/webscraping/comments/1ig17dc/websocket_subscription_issue](https://www.reddit.com/r/webscraping/comments/1ig17dc/websocket_subscription_issue)
+ - RSS feed: $source
+ - date published: 2025-02-02T16:37:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/webscraping/comments/1ig17dc/websocket_subscription_issue/"> <img src="https://preview.redd.it/4q3ecu6g7rge1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=49c159379164262f4a17b91ceec0bba50d48eae8" alt="Websocket Subscription Issue" title="Websocket Subscription Issue" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hey, so Im trying to subscribe to more than one message over this websocket. The issue is that payload/message 2 seems to overwrite message 1, so that Im only receiving messages from subscription 2 and nothing from subscription 1. </p> <p>Ive built websocket programs before like this and all worked, the only difference was the url didnt contain graphql. So im thinking this has something to do with it? General code provided. </p> <p>To calrify: Im only receiving messages from the second subscription im sending, the first one seems to get overwritten. </p> <p>Anyone know how i could receive messages from both subscri
+
+## WebScraping of FullCalendar
+ - [https://www.reddit.com/r/webscraping/comments/1ig0ezb/webscraping_of_fullcalendar](https://www.reddit.com/r/webscraping/comments/1ig0ezb/webscraping_of_fullcalendar)
+ - RSS feed: $source
+ - date published: 2025-02-02T16:03:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, </p> <p>My university is using fullcalendar on an horrible interface, in a website very complicated to access. </p> <p>There is a .ical shared by the school, but it only permits to see the ongoing week.</p> <p>I would like to scrape the calendar, in order to get a .ical containing all the courses of the year. </p> <p>Did somebody manage to do so ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mediocre-Command8196"> /u/Mediocre-Command8196 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1ig0ezb/webscraping_of_fullcalendar/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1ig0ezb/webscraping_of_fullcalendar/">[comments]</a></span>
+
+## Best web proxies for scrapping
+ - [https://www.reddit.com/r/webscraping/comments/1ifz3dt/best_web_proxies_for_scrapping](https://www.reddit.com/r/webscraping/comments/1ifz3dt/best_web_proxies_for_scrapping)
+ - RSS feed: $source
+ - date published: 2025-02-02T15:04:02+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/frostyy93"> /u/frostyy93 </a> <br/> <span><a href="https://www.reddit.com/r/bestwebproxies/comments/1ify77r/best_proxy_websites_for_residentialstatic_proxies/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1ifz3dt/best_web_proxies_for_scrapping/">[comments]</a></span>
+
+## Cheapest Google Maps Scraping Tools for Leads?
+ - [https://www.reddit.com/r/webscraping/comments/1ifwio1/cheapest_google_maps_scraping_tools_for_leads](https://www.reddit.com/r/webscraping/comments/1ifwio1/cheapest_google_maps_scraping_tools_for_leads)
+ - RSS feed: $source
+ - date published: 2025-02-02T12:48:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, what are the cheapest Google Maps lead scraping tools? I need to extract emails, phone numbers, social media accounts, and websites. Any recommendations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/houda_lar"> /u/houda_lar </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1ifwio1/cheapest_google_maps_scraping_tools_for_leads/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1ifwio1/cheapest_google_maps_scraping_tools_for_leads/">[comments]</a></span>
+
+## Automatically upload file to webpage
+ - [https://www.reddit.com/r/webscraping/comments/1ifpng7/automatically_upload_file_to_webpage](https://www.reddit.com/r/webscraping/comments/1ifpng7/automatically_upload_file_to_webpage)
+ - RSS feed: $source
+ - date published: 2025-02-02T04:55:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi. I am trying to automate a certain part of this website where it first asks to upload a file. The input element is under a 3rd party iframe so I cannot modify the contents directly. I was thinking the best solution would be to have a chrome extension of some kind to automatically upload a file whenever the window appears, and from there I could modify the network request to include the file I actually need. If anyone knows how to accomplish this (the extension part) that would be great.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/swimingle"> /u/swimingle </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1ifpng7/automatically_upload_file_to_webpage/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1ifpng7/automatically_upload_file_to_webpage/">[comments]</a></span>
+

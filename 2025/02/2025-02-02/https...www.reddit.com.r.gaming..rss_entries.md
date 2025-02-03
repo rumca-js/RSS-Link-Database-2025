@@ -1,0 +1,226 @@
+# Source:r/gaming, URL:https://www.reddit.com/r/gaming/.rss, language:
+
+## Brand New Assassin's Creed Shadows Combat Gameplay
+ - [https://www.reddit.com/r/gaming/comments/1igamck/brand_new_assassins_creed_shadows_combat_gameplay](https://www.reddit.com/r/gaming/comments/1igamck/brand_new_assassins_creed_shadows_combat_gameplay)
+ - RSS feed: $source
+ - date published: 2025-02-02T23:12:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1igamck/brand_new_assassins_creed_shadows_combat_gameplay/"> <img src="https://external-preview.redd.it/hfjrBBy7f9jZD8PgOowA8BPrD5GeV-3Mer_uYofPHy0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0c72f673e6219498c8d89ffe414b97c811937798" alt="Brand New Assassin's Creed Shadows Combat Gameplay" title="Brand New Assassin's Creed Shadows Combat Gameplay" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GabbyArm"> /u/GabbyArm </a> <br/> <span><a href="https://www.youtube.com/watch?v=gnspp90iNAc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1igamck/brand_new_assassins_creed_shadows_combat_gameplay/">[comments]</a></span> </td></tr></table>
+
+## Rise of The Triad on original media
+ - [https://www.reddit.com/r/gaming/comments/1ig9sri/rise_of_the_triad_on_original_media](https://www.reddit.com/r/gaming/comments/1ig9sri/rise_of_the_triad_on_original_media)
+ - RSS feed: $source
+ - date published: 2025-02-02T22:36:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ig9sri/rise_of_the_triad_on_original_media/"> <img src="https://preview.redd.it/yjqqvbsezsge1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=964183fc4660876599d54706b8f234a5c3b1cbbd" alt="Rise of The Triad on original media" title="Rise of The Triad on original media" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Cleaning out my parents house and came across this gem. I remember playing it back in the mid to late nineties and it was an absolute blast! Finding it was a cool hit of nostalgia.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/X-Arkturis-X"> /u/X-Arkturis-X </a> <br/> <span><a href="https://i.redd.it/yjqqvbsezsge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ig9sri/rise_of_the_triad_on_original_media/">[comments]</a></span> </td></tr></table>
+
+## For the love of pixels, I'm begging you game devs to please lower the screens combat effects.
+ - [https://www.reddit.com/r/gaming/comments/1ig9fe5/for_the_love_of_pixels_im_begging_you_game_devs](https://www.reddit.com/r/gaming/comments/1ig9fe5/for_the_love_of_pixels_im_begging_you_game_devs)
+ - RSS feed: $source
+ - date published: 2025-02-02T22:19:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>I literally can&#39;t see what I&#39;m doing in 90% of games now. Nothing but effects. At least give us the options of lowering the amount, not just the quality of them.</p> <p>Thanks in advance I hope.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BadatOldSayings"> /u/BadatOldSayings </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ig9fe5/for_the_love_of_pixels_im_begging_you_game_devs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ig9fe5/for_the_love_of_pixels_im_begging_you_game_devs/">[comments]</a></span>
+
+## Canada Announces Tariff List: Video Game Consoles in Scope
+ - [https://www.reddit.com/r/gaming/comments/1ig8bxm/canada_announces_tariff_list_video_game_consoles](https://www.reddit.com/r/gaming/comments/1ig8bxm/canada_announces_tariff_list_video_game_consoles)
+ - RSS feed: $source
+ - date published: 2025-02-02T21:32:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ig8bxm/canada_announces_tariff_list_video_game_consoles/"> <img src="https://external-preview.redd.it/utWsm59CoLq3kpLfNaQz3jcGx3jatYq9SO9JKmDh0k0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d58ddf19b2919412c0867878ab23c196f3d87da3" alt="Canada Announces Tariff List: Video Game Consoles in Scope" title="Canada Announces Tariff List: Video Game Consoles in Scope" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Shining_Commander"> /u/Shining_Commander </a> <br/> <span><a href="https://globalnews.ca/news/10993895/canada-counter-tariffs-full-list/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ig8bxm/canada_announces_tariff_list_video_game_consoles/">[comments]</a></span> </td></tr></table>
+
+## PSA: EU gamers, sign the petition to stop companies from killing online games after some time. We're almost halfway the number of required signatures!
+ - [https://www.reddit.com/r/gaming/comments/1ig7xu7/psa_eu_gamers_sign_the_petition_to_stop_companies](https://www.reddit.com/r/gaming/comments/1ig7xu7/psa_eu_gamers_sign_the_petition_to_stop_companies)
+ - RSS feed: $source
+ - date published: 2025-02-02T21:16:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ig7xu7/psa_eu_gamers_sign_the_petition_to_stop_companies/"> <img src="https://external-preview.redd.it/-DApWqj1Izn58gK1hceFbYtVntDhFSUxgt9Zddan_lw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=90f81fb690c68ccecda59a4e16b9dca12f59bb1e" alt="PSA: EU gamers, sign the petition to stop companies from killing online games after some time. We're almost halfway the number of required signatures!" title="PSA: EU gamers, sign the petition to stop companies from killing online games after some time. We're almost halfway the number of required signatures!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/send_me_a_naked_pic"> /u/send_me_a_naked_pic </a> <br/> <span><a href="https://eci.ec.europa.eu/045/public">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ig7xu7/psa_eu_gamers_sign_the_petition_to_stop_companies/">[comments]</a></span> </td></tr></table>
+
+## EA Devs to release modern 'NBA Streets' like 3v3 basketball game. (yay or nah?)
+ - [https://www.reddit.com/r/gaming/comments/1ig6w01/ea_devs_to_release_modern_nba_streets_like_3v3](https://www.reddit.com/r/gaming/comments/1ig6w01/ea_devs_to_release_modern_nba_streets_like_3v3)
+ - RSS feed: $source
+ - date published: 2025-02-02T20:32:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ig6w01/ea_devs_to_release_modern_nba_streets_like_3v3/"> <img src="https://external-preview.redd.it/RNu96V_8mAFdAdkasOB8T-eTDCxyiamiY24dG_0e8mw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e681b39751c4931aab5254fed168a704af8030aa" alt="EA Devs to release modern 'NBA Streets' like 3v3 basketball game. (yay or nah?)" title="EA Devs to release modern 'NBA Streets' like 3v3 basketball game. (yay or nah?)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nubbled21"> /u/nubbled21 </a> <br/> <span><a href="https://www.ign.com/articles/nba-street-the-run-got-next-unreal-engine-5-ps5-xbox-pc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ig6w01/ea_devs_to_release_modern_nba_streets_like_3v3/">[comments]</a></span> </td></tr></table>
+
+## Lifelong console gamer dipping my toes into PC
+ - [https://www.reddit.com/r/gaming/comments/1ig60nh/lifelong_console_gamer_dipping_my_toes_into_pc](https://www.reddit.com/r/gaming/comments/1ig60nh/lifelong_console_gamer_dipping_my_toes_into_pc)
+ - RSS feed: $source
+ - date published: 2025-02-02T19:57:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ig60nh/lifelong_console_gamer_dipping_my_toes_into_pc/"> <img src="https://preview.redd.it/244970e17sge1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a69938c448afd927d05850e88fd86682b1ba85ef" alt="Lifelong console gamer dipping my toes into PC" title="Lifelong console gamer dipping my toes into PC" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I’ve always wanted to try mods so wish me luck </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ImaginationFunny2480"> /u/ImaginationFunny2480 </a> <br/> <span><a href="https://i.redd.it/244970e17sge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ig60nh/lifelong_console_gamer_dipping_my_toes_into_pc/">[comments]</a></span> </td></tr></table>
+
+## Alright boys ready to drop with that flawless refresh rate!
+ - [https://www.reddit.com/r/gaming/comments/1ig57cl/alright_boys_ready_to_drop_with_that_flawless](https://www.reddit.com/r/gaming/comments/1ig57cl/alright_boys_ready_to_drop_with_that_flawless)
+ - RSS feed: $source
+ - date published: 2025-02-02T19:23:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ig57cl/alright_boys_ready_to_drop_with_that_flawless/"> <img src="https://preview.redd.it/na15e0yr0sge1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e85d32ab942839e63f8707f4d7d874116d8c8f71" alt="Alright boys ready to drop with that flawless refresh rate!" title="Alright boys ready to drop with that flawless refresh rate!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Blueshark25"> /u/Blueshark25 </a> <br/> <span><a href="https://i.redd.it/na15e0yr0sge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ig57cl/alright_boys_ready_to_drop_with_that_flawless/">[comments]</a></span> </td></tr></table>
+
+## Don't ask why I'm playing Skyrim in 2025.
+ - [https://www.reddit.com/r/gaming/comments/1ig4hrp/dont_ask_why_im_playing_skyrim_in_2025](https://www.reddit.com/r/gaming/comments/1ig4hrp/dont_ask_why_im_playing_skyrim_in_2025)
+ - RSS feed: $source
+ - date published: 2025-02-02T18:53:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ig4hrp/dont_ask_why_im_playing_skyrim_in_2025/"> <img src="https://preview.redd.it/ghkk498svrge1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e435e7abaf4b11beeb4027c6b748144ff667b353" alt="Don't ask why I'm playing Skyrim in 2025." title="Don't ask why I'm playing Skyrim in 2025." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LeoDiCristio"> /u/LeoDiCristio </a> <br/> <span><a href="https://i.redd.it/ghkk498svrge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ig4hrp/dont_ask_why_im_playing_skyrim_in_2025/">[comments]</a></span> </td></tr></table>
+
+## A mixture of old RPG elements and shadow of colossus (Eternal Strands)
+ - [https://www.reddit.com/r/gaming/comments/1ig45pq/a_mixture_of_old_rpg_elements_and_shadow_of](https://www.reddit.com/r/gaming/comments/1ig45pq/a_mixture_of_old_rpg_elements_and_shadow_of)
+ - RSS feed: $source
+ - date published: 2025-02-02T18:40:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ig45pq/a_mixture_of_old_rpg_elements_and_shadow_of/"> <img src="https://preview.redd.it/7aiux2mzsrge1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=59664e0529eaa0788fb55eafbb6ff5a793ceb52a" alt="A mixture of old RPG elements and shadow of colossus (Eternal Strands)" title="A mixture of old RPG elements and shadow of colossus (Eternal Strands)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dulun18"> /u/dulun18 </a> <br/> <span><a href="https://i.redd.it/7aiux2mzsrge1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ig45pq/a_mixture_of_old_rpg_elements_and_shadow_of/">[comments]</a></span> </td></tr></table>
+
+## There's a new Battlefield testing program announcement tomorrow. Official image attached.
+ - [https://www.reddit.com/r/gaming/comments/1ig3es8/theres_a_new_battlefield_testing_program](https://www.reddit.com/r/gaming/comments/1ig3es8/theres_a_new_battlefield_testing_program)
+ - RSS feed: $source
+ - date published: 2025-02-02T18:09:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ig3es8/theres_a_new_battlefield_testing_program/"> <img src="https://preview.redd.it/kd90tz5snrge1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=25587a9215f66d767f51c8f7b3e2630e38592820" alt="There's a new Battlefield testing program announcement tomorrow. Official image attached." title="There's a new Battlefield testing program announcement tomorrow. Official image attached." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CuteGrayRhino"> /u/CuteGrayRhino </a> <br/> <span><a href="https://i.redd.it/kd90tz5snrge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ig3es8/theres_a_new_battlefield_testing_program/">[comments]</a></span> </td></tr></table>
+
+## When the game is a little demanding
+ - [https://www.reddit.com/r/gaming/comments/1ig2x2l/when_the_game_is_a_little_demanding](https://www.reddit.com/r/gaming/comments/1ig2x2l/when_the_game_is_a_little_demanding)
+ - RSS feed: $source
+ - date published: 2025-02-02T17:49:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ig2x2l/when_the_game_is_a_little_demanding/"> <img src="https://preview.redd.it/w0a6d3l4krge1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8df6122d9214d4eed8d21c5e811550062301c948" alt="When the game is a little demanding" title="When the game is a little demanding" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Yellyvi"> /u/Yellyvi </a> <br/> <span><a href="https://i.redd.it/w0a6d3l4krge1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ig2x2l/when_the_game_is_a_little_demanding/">[comments]</a></span> </td></tr></table>
+
+## I crossed the finish line in a Need For Speed: Underground race at exactly the same time as the second place racer.
+ - [https://www.reddit.com/r/gaming/comments/1ig2806/i_crossed_the_finish_line_in_a_need_for_speed](https://www.reddit.com/r/gaming/comments/1ig2806/i_crossed_the_finish_line_in_a_need_for_speed)
+ - RSS feed: $source
+ - date published: 2025-02-02T17:20:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ig2806/i_crossed_the_finish_line_in_a_need_for_speed/"> <img src="https://preview.redd.it/vj4p0dp0frge1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=206569ec3d216b69bda0c86120ecfa9899b8c79f" alt="I crossed the finish line in a Need For Speed: Underground race at exactly the same time as the second place racer." title="I crossed the finish line in a Need For Speed: Underground race at exactly the same time as the second place racer." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Necroluster"> /u/Necroluster </a> <br/> <span><a href="https://i.redd.it/vj4p0dp0frge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ig2806/i_crossed_the_finish_line_in_a_need_for_speed/">[comments]</a></span> </td></tr></table>
+
+## I like dis
+ - [https://www.reddit.com/r/gaming/comments/1ig15wc/i_like_dis](https://www.reddit.com/r/gaming/comments/1ig15wc/i_like_dis)
+ - RSS feed: $source
+ - date published: 2025-02-02T16:35:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ig15wc/i_like_dis/"> <img src="https://preview.redd.it/9322fsl47rge1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=43b6f4033c07be4c496a2c8846955ff319a15994" alt="I like dis" title="I like dis" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hop-hip"> /u/hop-hip </a> <br/> <span><a href="https://i.redd.it/9322fsl47rge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ig15wc/i_like_dis/">[comments]</a></span> </td></tr></table>
+
+## Appreciating A High End PC
+ - [https://www.reddit.com/r/gaming/comments/1ig0h7l/appreciating_a_high_end_pc](https://www.reddit.com/r/gaming/comments/1ig0h7l/appreciating_a_high_end_pc)
+ - RSS feed: $source
+ - date published: 2025-02-02T16:06:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ig0h7l/appreciating_a_high_end_pc/"> <img src="https://a.thumbs.redditmedia.com/p6HTdDEQ5_NVhyRC-s8Uev8faRsUItwNk3mcZ9JePe0.jpg" alt="Appreciating A High End PC" title="Appreciating A High End PC" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>While i know by today&#39;s standard, My pc would be considered low to mid end, But coming from a poor income as a Personal Trainer/Fitness Instructor, I appreciate my system more. </p> <p>My PC started as a Dell Optiplex i7 3rd gen with 8gb ddr3 ram, Upgraded it over the years, My very first GPU was a GT 640 2GB, which back then i thought was pretty OP, I then got myself a Radeon R9 290 4Gb, while pretty strong, gave me endless issues with its problems and made me appreciate Nvidia more.</p> <p>I got a GTX 1050ti 4GB from a friend which back then was a pretty OP card when i got it versus my previous cards, Ran pretty much every game i had at it and locked it at 50-60fps, 
+
+## Does the 25% tariff include video games developed by U.S. game developers?
+ - [https://www.reddit.com/r/gaming/comments/1ig020c/does_the_25_tariff_include_video_games_developed](https://www.reddit.com/r/gaming/comments/1ig020c/does_the_25_tariff_include_video_games_developed)
+ - RSS feed: $source
+ - date published: 2025-02-02T15:47:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just curious how many things are going to be affected by this. In Canada we already pay $89.99 for most games now. Are they going to go up to $112.99 or what’s the deal? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BoozerBean"> /u/BoozerBean </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ig020c/does_the_25_tariff_include_video_games_developed/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ig020c/does_the_25_tariff_include_video_games_developed/">[comments]</a></span>
+
+## [OC] My Lego Nintendo Game Boy Advance Moc!
+ - [https://www.reddit.com/r/gaming/comments/1ifzt6c/oc_my_lego_nintendo_game_boy_advance_moc](https://www.reddit.com/r/gaming/comments/1ifzt6c/oc_my_lego_nintendo_game_boy_advance_moc)
+ - RSS feed: $source
+ - date published: 2025-02-02T15:36:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ifzt6c/oc_my_lego_nintendo_game_boy_advance_moc/"> <img src="https://preview.redd.it/g3omkhuptqge1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e29288eac2d7c647d651aff365767a73f2cfbad" alt="[OC] My Lego Nintendo Game Boy Advance Moc!" title="[OC] My Lego Nintendo Game Boy Advance Moc!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Skyfox2k"> /u/Skyfox2k </a> <br/> <span><a href="https://i.redd.it/g3omkhuptqge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ifzt6c/oc_my_lego_nintendo_game_boy_advance_moc/">[comments]</a></span> </td></tr></table>
+
+## Released 30 years ago on the Sega Saturn, Fighting Vipers was a low key hit for the console. Being more popular than both Tekken and Toshinden in the arcades.
+ - [https://www.reddit.com/r/gaming/comments/1ifyl7j/released_30_years_ago_on_the_sega_saturn_fighting](https://www.reddit.com/r/gaming/comments/1ifyl7j/released_30_years_ago_on_the_sega_saturn_fighting)
+ - RSS feed: $source
+ - date published: 2025-02-02T14:40:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ifyl7j/released_30_years_ago_on_the_sega_saturn_fighting/"> <img src="https://preview.redd.it/0dlywo8imqge1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b259db2c406fe71d49f3f59c3f6c3b10cc825025" alt="Released 30 years ago on the Sega Saturn, Fighting Vipers was a low key hit for the console. Being more popular than both Tekken and Toshinden in the arcades." title="Released 30 years ago on the Sega Saturn, Fighting Vipers was a low key hit for the console. Being more popular than both Tekken and Toshinden in the arcades." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Featuring full 3D environments, a juggling combat system, breakable character armor, coupled with enclosed and destructable arenas Fighting Vipers was ahead of its time. Sega&#39;s extremely busy and successful AM2 division ported it well to the Saturn, but the console was already doomed compared to the extremely well received Playstation.</p> <
+
+## What was your ‚Limgrave’ moment from other (older) games?
+ - [https://www.reddit.com/r/gaming/comments/1ifx5kq/what_was_your_limgrave_moment_from_other_older](https://www.reddit.com/r/gaming/comments/1ifx5kq/what_was_your_limgrave_moment_from_other_older)
+ - RSS feed: $source
+ - date published: 2025-02-02T13:25:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ifx5kq/what_was_your_limgrave_moment_from_other_older/"> <img src="https://preview.redd.it/4rx3zfx39qge1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=85cc5d4ca81305e5beb0a4d8dbb1b2e196304db9" alt="What was your ‚Limgrave’ moment from other (older) games?" title="What was your ‚Limgrave’ moment from other (older) games?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/W1ntermu7e"> /u/W1ntermu7e </a> <br/> <span><a href="https://i.redd.it/4rx3zfx39qge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ifx5kq/what_was_your_limgrave_moment_from_other_older/">[comments]</a></span> </td></tr></table>
+
+## What are some standout examples of games that had massive content cuts?
+ - [https://www.reddit.com/r/gaming/comments/1ifwtkt/what_are_some_standout_examples_of_games_that_had](https://www.reddit.com/r/gaming/comments/1ifwtkt/what_are_some_standout_examples_of_games_that_had)
+ - RSS feed: $source
+ - date published: 2025-02-02T13:06:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ll go for an easy couple;</p> <ol> <li>Final Fantasy XV - Starts off promising with a big open world, but by the second half it&#39;s just linear areas that speedrun wrapping up the plot. Also major events happening offscreen (yes I know this was to promote other media, but most didn&#39;t like it)</li> <li>Fable 3 - When you take the throne, the days start ticking down until &lt;big event&gt;, IIRC it&#39;s perhaps a year. Suddenly it starts skipping huge timespans without warning, then the end is here.</li> </ol> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ChrisDtk"> /u/ChrisDtk </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ifwtkt/what_are_some_standout_examples_of_games_that_had/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ifwtkt/what_are_some_standout_examples_of_games_that_had/">[comments]</a></span>
+
+## My wife just burned me
+ - [https://www.reddit.com/r/gaming/comments/1ifwefy/my_wife_just_burned_me](https://www.reddit.com/r/gaming/comments/1ifwefy/my_wife_just_burned_me)
+ - RSS feed: $source
+ - date published: 2025-02-02T12:40:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>My kid has been playing Doom and Titanfall 2 on my pc - both games I got for the campiagn, as that&#39;s the kind of gaming I enjoy. He&#39;s started checking out the multilayer modes, which I&#39;ve ignored so far, and seems to be really enjoying them.</p> <p>I mentioned this to my wife, and somewhat sarcastically said &quot;I think he&#39;s turning into one of <em>those</em> gamers&quot;, referencing the perceived division between single- and multi-player gamers. </p> <p>Her response? &quot;Oh, you mean the kind of gamers that are actually <em>good</em> enough to play against other people?&quot;</p> <p>Taking suggestions for a hospital in central Scotland with a good burns unit, tia.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CarnivoreDaddy"> /u/CarnivoreDaddy </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ifwefy/my_wife_just_burned_me/">[link]</a></span> &#32; <span><a href="https://
+
+## Any non FPS games that are set in the Middle East?
+ - [https://www.reddit.com/r/gaming/comments/1ifvuvb/any_non_fps_games_that_are_set_in_the_middle_east](https://www.reddit.com/r/gaming/comments/1ifvuvb/any_non_fps_games_that_are_set_in_the_middle_east)
+ - RSS feed: $source
+ - date published: 2025-02-02T12:05:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m especially looking for games that look really nice, think A Plague Tale, but in the Middle East. Assassins Creed comes to mind of course, but outside of that? I&#39;d also appreciate any Indie games, like Dujanah. I&#39;m also generally okay with having a gun, I just want to stay away from the classic &quot;American in the Middle East&quot; trope.</p> <p>edit: especially set in the arabic speaking parts of the middle east</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/godscocksleeve"> /u/godscocksleeve </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ifvuvb/any_non_fps_games_that_are_set_in_the_middle_east/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ifvuvb/any_non_fps_games_that_are_set_in_the_middle_east/">[comments]</a></span>
+
+## With Forza Horizon coming to PlayStation, I’d be pretty happy if this did as well
+ - [https://www.reddit.com/r/gaming/comments/1ifvd86/with_forza_horizon_coming_to_playstation_id_be](https://www.reddit.com/r/gaming/comments/1ifvd86/with_forza_horizon_coming_to_playstation_id_be)
+ - RSS feed: $source
+ - date published: 2025-02-02T11:31:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ifvd86/with_forza_horizon_coming_to_playstation_id_be/"> <img src="https://preview.redd.it/dv5chgmvopge1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ee34a7025da4a9ac73639ee3d813b4e8fb9f76ad" alt="With Forza Horizon coming to PlayStation, I’d be pretty happy if this did as well" title="With Forza Horizon coming to PlayStation, I’d be pretty happy if this did as well" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/onelove7866"> /u/onelove7866 </a> <br/> <span><a href="https://i.redd.it/dv5chgmvopge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ifvd86/with_forza_horizon_coming_to_playstation_id_be/">[comments]</a></span> </td></tr></table>
+
+## Release Date Gameplay Trailer of Sodaman
+ - [https://www.reddit.com/r/gaming/comments/1ifssvy/release_date_gameplay_trailer_of_sodaman](https://www.reddit.com/r/gaming/comments/1ifssvy/release_date_gameplay_trailer_of_sodaman)
+ - RSS feed: $source
+ - date published: 2025-02-02T08:24:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ifssvy/release_date_gameplay_trailer_of_sodaman/"> <img src="https://external-preview.redd.it/ZwrKTvnO2alhM3-BHjSgEfkUCDxkDlpHKI1aJmgsb38.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=23c33714e1b1c633224e43e54a34b1987129f66f" alt="Release Date Gameplay Trailer of Sodaman" title="Release Date Gameplay Trailer of Sodaman" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AramdaJungle"> /u/AramdaJungle </a> <br/> <span><a href="https://www.youtube.com/watch?v=64E1c2e2E_g">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ifssvy/release_date_gameplay_trailer_of_sodaman/">[comments]</a></span> </td></tr></table>
+
+## Which games help you when you feel depressed?
+ - [https://www.reddit.com/r/gaming/comments/1ifss0i/which_games_help_you_when_you_feel_depressed](https://www.reddit.com/r/gaming/comments/1ifss0i/which_games_help_you_when_you_feel_depressed)
+ - RSS feed: $source
+ - date published: 2025-02-02T08:22:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dudewaleed"> /u/dudewaleed </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ifss0i/which_games_help_you_when_you_feel_depressed/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ifss0i/which_games_help_you_when_you_feel_depressed/">[comments]</a></span>
+
+## Going in with virgin eyes
+ - [https://www.reddit.com/r/gaming/comments/1ifs142/going_in_with_virgin_eyes](https://www.reddit.com/r/gaming/comments/1ifs142/going_in_with_virgin_eyes)
+ - RSS feed: $source
+ - date published: 2025-02-02T07:28:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ifs142/going_in_with_virgin_eyes/"> <img src="https://preview.redd.it/c86o46zghoge1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c6ecae43a4cfbd4c54c3cc9c206be9f25a2a42e" alt="Going in with virgin eyes" title="Going in with virgin eyes" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I have played other AC games… but this one is the only that I have never tried, seen gameplay, story etc Got the chance now to play on the PS5. Well see 🤷🏻‍♂️ I should point out that I rather the AC series before It changed to this other type of game (odyssey, valhalla etc)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pastalon"> /u/pastalon </a> <br/> <span><a href="https://i.redd.it/c86o46zghoge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ifs142/going_in_with_virgin_eyes/">[comments]</a></span> </td></tr></table>
+
+## Simple Questions Sunday!
+ - [https://www.reddit.com/r/gaming/comments/1ifrmyf/simple_questions_sunday](https://www.reddit.com/r/gaming/comments/1ifrmyf/simple_questions_sunday)
+ - RSS feed: $source
+ - date published: 2025-02-02T07:00:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>For those questions that don&#39;t feel worthy of a whole new post.</p> <p>This thread is posted weekly on Sundays (adjustments made as needed).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ifrmyf/simple_questions_sunday/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ifrmyf/simple_questions_sunday/">[comments]</a></span>
+
+## Another damn good goodwill haul
+ - [https://www.reddit.com/r/gaming/comments/1ifoskb/another_damn_good_goodwill_haul](https://www.reddit.com/r/gaming/comments/1ifoskb/another_damn_good_goodwill_haul)
+ - RSS feed: $source
+ - date published: 2025-02-02T04:05:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ifoskb/another_damn_good_goodwill_haul/"> <img src="https://preview.redd.it/85thnvn8hnge1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9bee9ac58a16dcff52c9bd6c0e001c2039b37ea6" alt="Another damn good goodwill haul" title="Another damn good goodwill haul" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>And I wonder why my ass doesn&#39;t have a PS5 or series x yet, cause I keep finding good shit at goodwill </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bad_rug"> /u/bad_rug </a> <br/> <span><a href="https://i.redd.it/85thnvn8hnge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ifoskb/another_damn_good_goodwill_haul/">[comments]</a></span> </td></tr></table>
+
+## What are bad games that are carried by good dlc/expansion packs?
+ - [https://www.reddit.com/r/gaming/comments/1ifnl78/what_are_bad_games_that_are_carried_by_good](https://www.reddit.com/r/gaming/comments/1ifnl78/what_are_bad_games_that_are_carried_by_good)
+ - RSS feed: $source
+ - date published: 2025-02-02T02:58:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been thinking about Neverwinter Nights 2 recently. The game is pretty controversial and is usually considered mediocre at best, especially the plot(which is crucial for an rpg). However it has an expansion pack named Mask of the Betrayer. This expansion received widespread praise and is considered by many players to have one of the best stories in the history of gaming, has a robust and complex non-linear gameplay and plot has a lot of meaningful choices. It&#39;s insane how it is even in the same game with the main campaign. Even today Mask of the Betrayer is often called the best dlc ever by people who played it.</p> <p>Are there any examples of similar situations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Visconti753"> /u/Visconti753 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ifnl78/what_are_bad_games_that_are_carried_by_good/">[link]</a></span> &#32; <span><a href="htt
+
+## All the games I've played in 2024
+ - [https://www.reddit.com/r/gaming/comments/1ifm5fc/all_the_games_ive_played_in_2024](https://www.reddit.com/r/gaming/comments/1ifm5fc/all_the_games_ive_played_in_2024)
+ - RSS feed: $source
+ - date published: 2025-02-02T01:40:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ifm5fc/all_the_games_ive_played_in_2024/"> <img src="https://preview.redd.it/sbk36cidrmge1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3644d9b752a7931292ea0054b3ded60b276b56d8" alt="All the games I've played in 2024" title="All the games I've played in 2024" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hermiona1"> /u/Hermiona1 </a> <br/> <span><a href="https://i.redd.it/sbk36cidrmge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ifm5fc/all_the_games_ive_played_in_2024/">[comments]</a></span> </td></tr></table>
+
+## Full gaming sleeve complete
+ - [https://www.reddit.com/r/gaming/comments/1iflwmm/full_gaming_sleeve_complete](https://www.reddit.com/r/gaming/comments/1iflwmm/full_gaming_sleeve_complete)
+ - RSS feed: $source
+ - date published: 2025-02-02T01:27:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iflwmm/full_gaming_sleeve_complete/"> <img src="https://preview.redd.it/53idjkh4pmge1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cbeed48719704669dec390c81007b6bed2231e01" alt="Full gaming sleeve complete" title="Full gaming sleeve complete" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Not shown is Ghost (CoD) on the inner forearm, charizard on the inner bicep, and if you couldn’t tell on the outer forearm - sweet tooth from twisted metal. Unfortunately says I can’t post more than 1 photo so unsure how to show the rest.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HalBreeze"> /u/HalBreeze </a> <br/> <span><a href="https://i.redd.it/53idjkh4pmge1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iflwmm/full_gaming_sleeve_complete/">[comments]</a></span> </td></tr></table>
+
+## This is your reminder to play the Ace Attorney series.
+ - [https://www.reddit.com/r/gaming/comments/1iflfgc/this_is_your_reminder_to_play_the_ace_attorney](https://www.reddit.com/r/gaming/comments/1iflfgc/this_is_your_reminder_to_play_the_ace_attorney)
+ - RSS feed: $source
+ - date published: 2025-02-02T01:02:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iflfgc/this_is_your_reminder_to_play_the_ace_attorney/"> <img src="https://preview.redd.it/v7gja9zkkmge1.gif?width=320&amp;crop=smart&amp;s=bb682f13f24d5cd2cca56fbe1b5d030dceeabce3" alt="This is your reminder to play the Ace Attorney series." title="This is your reminder to play the Ace Attorney series." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MagnumMiracles"> /u/MagnumMiracles </a> <br/> <span><a href="https://i.redd.it/v7gja9zkkmge1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iflfgc/this_is_your_reminder_to_play_the_ace_attorney/">[comments]</a></span> </td></tr></table>
+

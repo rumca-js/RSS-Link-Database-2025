@@ -1,0 +1,51 @@
+# Source:Gizmodo, URL:https://gizmodo.com/feed, language:en
+
+## Companion’s Director and Cast on Its Gruesome Finish and Future
+ - [https://gizmodo.com/companions-director-and-cast-on-its-gruesome-finish-and-future-2000558094](https://gizmodo.com/companions-director-and-cast-on-its-gruesome-finish-and-future-2000558094)
+ - RSS feed: $source
+ - date published: 2025-02-02T21:15:35+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/10/sophie-thatcher-companion.jpg" class="attachment-full size-full wp-post-image" alt="Sophie Thatcher Companion" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/10/sophie-thatcher-companion.jpg 1500w, https://gizmodo.com/app/uploads/2024/10/sophie-thatcher-companion-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/10/sophie-thatcher-companion-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/10/sophie-thatcher-companion-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/10/sophie-thatcher-companion-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/10/sophie-thatcher-companion-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/10/sophie-thatcher-companion-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/10/sophie-thatcher-companion-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Drew Hancock, Sophie Thatcher, and Jack Quaid
+
+## Critical Role Preps a New Spinoff As Campaign 3 Winds Down
+ - [https://gizmodo.com/critical-role-campaign-3-exandria-unlimited-2000558083](https://gizmodo.com/critical-role-campaign-3-exandria-unlimited-2000558083)
+ - RSS feed: $source
+ - date published: 2025-02-02T19:50:22+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/bells-hells-critrole.jpg" class="attachment-full size-full wp-post-image" alt="Bells Hells Critrole" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/bells-hells-critrole.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/bells-hells-critrole-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/bells-hells-critrole-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/bells-hells-critrole-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/bells-hells-critrole-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/bells-hells-critrole-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/bells-hells-critrole-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/bells-hells-critrole-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The Bells Hells' exploits are coming to an end, but <i>Critical Role</i> team's still got more 
+
+## The Devil May Cry Show’s Intro Song Is So Stupidly Glorious
+ - [https://gizmodo.com/the-devil-may-cry-shows-intro-song-is-so-stupidly-glorious-2000557851](https://gizmodo.com/the-devil-may-cry-shows-intro-song-is-so-stupidly-glorious-2000557851)
+ - RSS feed: $source
+ - date published: 2025-02-02T17:25:03+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/dmc-dante.jpg" class="attachment-full size-full wp-post-image" alt="Dmc Dante" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/01/dmc-dante.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/dmc-dante-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/dmc-dante-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/dmc-dante-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/dmc-dante-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/dmc-dante-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/dmc-dante-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/dmc-dante-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Using Limp Bizkit might've legitimately have sold me on the <i>Devil May Cry</i> show more than anything else about it.
+
+## Simu Liu May Finally Give Sleeping Dogs Its Movie
+ - [https://gizmodo.com/simu-liu-sleeping-dogs-movie-2000558080](https://gizmodo.com/simu-liu-sleeping-dogs-movie-2000558080)
+ - RSS feed: $source
+ - date published: 2025-02-02T15:30:26+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/07/shang-chi.jpg" class="attachment-full size-full wp-post-image" alt="Shang Chi" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/07/shang-chi.jpg 1500w, https://gizmodo.com/app/uploads/2024/07/shang-chi-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/07/shang-chi-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/07/shang-chi-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/07/shang-chi-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/07/shang-chi-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/07/shang-chi-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/07/shang-chi-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Rejoice, <i>Sleeping Dogs</i> fans: Simu Liu's reportedly starring and producing in an adaptation of the cult classic crime game.
+
+## Forget About the iPhone 16 Pro, the Galaxy S25 Ultra Is 3x Cheaper at Launch
+ - [https://gizmodo.com/forget-about-the-iphone-16-pro-the-galaxy-s25-ultra-is-3x-cheaper-at-launch-2000558066](https://gizmodo.com/forget-about-the-iphone-16-pro-the-galaxy-s25-ultra-is-3x-cheaper-at-launch-2000558066)
+ - RSS feed: $source
+ - date published: 2025-02-02T13:20:51+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/s25ultra-1.jpg" class="attachment-full size-full wp-post-image" alt="Galaxy S25 Ultra" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/01/s25ultra-1.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Samsung offers nearly 70% off the Galaxy S25 Ultra during preorder, plus almost free accessories like Galaxy Buds3 Pro.
+
+## A New Samsung Galaxy S25 Ultra and FREE GalaxyBuds3 Pro for $600 Less than an iPhone 16 Pro? Believe it.
+ - [https://gizmodo.com/a-new-samsung-galaxy-s25-ultra-and-free-galaxybuds3-pro-for-600-less-than-an-iphone-16-pro-believe-it-2000557291](https://gizmodo.com/a-new-samsung-galaxy-s25-ultra-and-free-galaxybuds3-pro-for-600-less-than-an-iphone-16-pro-believe-it-2000557291)
+ - RSS feed: $source
+ - date published: 2025-02-02T13:10:59+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/s25ultra-1.jpg" class="attachment-full size-full wp-post-image" alt="Galaxy S25 Ultra" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/01/s25ultra-1.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The very best deals are dropping during the last week of pre-orders on Samsung's brand-new Galaxy S25 family of smartphones.
+
+## An Asteroid Has a 1-in-63 Chance of Hitting Earth in 2032—Here’s What That Means
+ - [https://gizmodo.com/an-asteroid-has-a-1-in-63-chance-of-hitting-earth-in-2032-heres-what-that-means-2000557112](https://gizmodo.com/an-asteroid-has-a-1-in-63-chance-of-hitting-earth-in-2032-heres-what-that-means-2000557112)
+ - RSS feed: $source
+ - date published: 2025-02-02T13:00:02+00:00
+
+<img width="800" height="579" src="https://gizmodo.com/app/uploads/2025/01/2024_YR4_ESO-VLT.gif" class="attachment-full size-full wp-post-image" alt="2024 YR4 as seen by the European Southern Observatory&#039;s Very Large Telescope." decoding="async" fetchpriority="high"><br><br>A dive into probabilities, asteroid impact modeling, and what sort of damage an approximately 180-foot asteroid could cause on Earth.
+

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-02T17:04:06+00:00",
+        "description": "<p>Chodzi o urz\u0105dzenia do monitorowania pacjent\u00f3w: Contec CMS8000 (urz\u0105dzenie dost\u0119pne jest r\u00f3wnie\u017c w Polsce) oraz Epsimed MN-120. Backdoor umo\u017cliwia na pe\u0142en dost\u0119p do urz\u0105dzenia na uprawnieniach administracyjnych (kontrola wszystkich parametr\u00f3w urz\u0105dzenia, dost\u0119p do danych, ale te\u017c mo\u017cliwo\u015b\u0107 dalszego atakowania sieci). Od strony technicznej &#8211; urz\u0105dzenie montuje zdalny zas\u00f3b sieciowy poprzez...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/chinski-backdoor-znaleziony-w-urzadzeniach-medycznych/\">Chi\u0144ski backdoor znaleziony w urz\u0105dzeniach medycznych.</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2025554,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/chinski-backdoor-znaleziony-w-urzadzeniach-medycznych",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Chi\u0144ski backdoor znaleziony w urz\u0105dzeniach medycznych.",
+        "vote": 0
+    }
+]
