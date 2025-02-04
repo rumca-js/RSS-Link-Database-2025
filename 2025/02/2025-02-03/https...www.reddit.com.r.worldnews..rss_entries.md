@@ -1,0 +1,331 @@
+# Source:World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Trump pauses tariffs on Canada for at least 30 days, Trudeau says
+ - [https://www.reddit.com/r/worldnews/comments/1ih0wt4/trump_pauses_tariffs_on_canada_for_at_least_30](https://www.reddit.com/r/worldnews/comments/1ih0wt4/trump_pauses_tariffs_on_canada_for_at_least_30)
+ - RSS feed: $source
+ - date published: 2025-02-03T21:42:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ih0wt4/trump_pauses_tariffs_on_canada_for_at_least_30/"> <img src="https://external-preview.redd.it/-sE-2HDWOo8-4qUS5W8PX70trDXsoud9gDCTI_4IVu0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c8689ddc09abd0ad924a77c9ee5e810dcd834f59" alt="Trump pauses tariffs on Canada for at least 30 days, Trudeau says" title="Trump pauses tariffs on Canada for at least 30 days, Trudeau says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Georgeika"> /u/Georgeika </a> <br/> <span><a href="https://www.cnbc.com/2025/02/03/trump-canada-tariffs-trudeau.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ih0wt4/trump_pauses_tariffs_on_canada_for_at_least_30/">[comments]</a></span> </td></tr></table>
+
+## Tesla Sales Plunge 63% in EU’s Second-Biggest EV Market
+ - [https://www.reddit.com/r/worldnews/comments/1ih0pmj/tesla_sales_plunge_63_in_eus_secondbiggest_ev](https://www.reddit.com/r/worldnews/comments/1ih0pmj/tesla_sales_plunge_63_in_eus_secondbiggest_ev)
+ - RSS feed: $source
+ - date published: 2025-02-03T21:34:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ih0pmj/tesla_sales_plunge_63_in_eus_secondbiggest_ev/"> <img src="https://external-preview.redd.it/TcyvBXYvel00jTxghlp2bBQYXQtBIG1rLJZbPja-a6s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=80a02e3de5ac3543ec9d9064f8737cb5824f6b0b" alt="Tesla Sales Plunge 63% in EU’s Second-Biggest EV Market" title="Tesla Sales Plunge 63% in EU’s Second-Biggest EV Market" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HydrolicKrane"> /u/HydrolicKrane </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2025-02-03/tesla-sales-plunge-63-in-france-the-eu-s-second-biggest-ev-market">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ih0pmj/tesla_sales_plunge_63_in_eus_secondbiggest_ev/">[comments]</a></span> </td></tr></table>
+
+## UN reports ‘alarming rise’ in Russia executing Ukrainian soldiers
+ - [https://www.reddit.com/r/worldnews/comments/1igzxvg/un_reports_alarming_rise_in_russia_executing](https://www.reddit.com/r/worldnews/comments/1igzxvg/un_reports_alarming_rise_in_russia_executing)
+ - RSS feed: $source
+ - date published: 2025-02-03T21:02:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igzxvg/un_reports_alarming_rise_in_russia_executing/"> <img src="https://external-preview.redd.it/1s-MI0M8ni3bAcmJFUdo81kV-JV5Kw3gXaz0Qq3555A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=27f516a7c931cfe1bc3febfc1a1bdf8ff925e423" alt="UN reports ‘alarming rise’ in Russia executing Ukrainian soldiers" title="UN reports ‘alarming rise’ in Russia executing Ukrainian soldiers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/doopityWoop22"> /u/doopityWoop22 </a> <br/> <span><a href="https://www.politico.eu/article/un-sees-alarming-rise-in-executions-of-ukrainian-soldiers-by-russia/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igzxvg/un_reports_alarming_rise_in_russia_executing/">[comments]</a></span> </td></tr></table>
+
+## Tesla Sales Plunge 63% in EU’s Second-Biggest EV Market
+ - [https://www.reddit.com/r/worldnews/comments/1igzq0e/tesla_sales_plunge_63_in_eus_secondbiggest_ev](https://www.reddit.com/r/worldnews/comments/1igzq0e/tesla_sales_plunge_63_in_eus_secondbiggest_ev)
+ - RSS feed: $source
+ - date published: 2025-02-03T20:54:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igzq0e/tesla_sales_plunge_63_in_eus_secondbiggest_ev/"> <img src="https://external-preview.redd.it/TcyvBXYvel00jTxghlp2bBQYXQtBIG1rLJZbPja-a6s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=80a02e3de5ac3543ec9d9064f8737cb5824f6b0b" alt="Tesla Sales Plunge 63% in EU’s Second-Biggest EV Market" title="Tesla Sales Plunge 63% in EU’s Second-Biggest EV Market" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Numerous-Trust7439"> /u/Numerous-Trust7439 </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2025-02-03/tesla-sales-plunge-63-in-france-the-eu-s-second-biggest-ev-market?srnd=condisc&amp;embedded-checkout=true">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igzq0e/tesla_sales_plunge_63_in_eus_secondbiggest_ev/">[comments]</a></span> </td></tr></table>
+
+## Ecuador president announces 27% tariff on Mexican goods
+ - [https://www.reddit.com/r/worldnews/comments/1igz6uh/ecuador_president_announces_27_tariff_on_mexican](https://www.reddit.com/r/worldnews/comments/1igz6uh/ecuador_president_announces_27_tariff_on_mexican)
+ - RSS feed: $source
+ - date published: 2025-02-03T20:33:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igz6uh/ecuador_president_announces_27_tariff_on_mexican/"> <img src="https://external-preview.redd.it/CcX-nvMy8eK5evLVSO3hG24phxU8aNMvp5EB4RgRCu4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5214ca90bd79de7f6742e979137201d3a8a5f541" alt="Ecuador president announces 27% tariff on Mexican goods" title="Ecuador president announces 27% tariff on Mexican goods" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GouryellaIV"> /u/GouryellaIV </a> <br/> <span><a href="https://www.reuters.com/world/americas/ecuador-president-announces-27-tariff-mexican-goods-2025-02-03/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igz6uh/ecuador_president_announces_27_tariff_on_mexican/">[comments]</a></span> </td></tr></table>
+
+## Canada to divert aluminum to Europe in response to Trump tariffs - National | Globalnews.ca
+ - [https://www.reddit.com/r/worldnews/comments/1igyy8d/canada_to_divert_aluminum_to_europe_in_response](https://www.reddit.com/r/worldnews/comments/1igyy8d/canada_to_divert_aluminum_to_europe_in_response)
+ - RSS feed: $source
+ - date published: 2025-02-03T20:23:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igyy8d/canada_to_divert_aluminum_to_europe_in_response/"> <img src="https://external-preview.redd.it/Nkm28qXuvewUu4AQCVwYr5HyTXuF4tpGkKoOLIakSkw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a76a2b8759f766952bb0898c3bfd9dc6bee95d6" alt="Canada to divert aluminum to Europe in response to Trump tariffs - National | Globalnews.ca" title="Canada to divert aluminum to Europe in response to Trump tariffs - National | Globalnews.ca" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/The_Great_Mullein"> /u/The_Great_Mullein </a> <br/> <span><a href="https://globalnews.ca/news/10995839/canafa-aluminum-europe-trump-tariffs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igyy8d/canada_to_divert_aluminum_to_europe_in_response/">[comments]</a></span> </td></tr></table>
+
+## EU will stand up for itself in face of Trump tariffs threat, Macron says
+ - [https://www.reddit.com/r/worldnews/comments/1igy2ho/eu_will_stand_up_for_itself_in_face_of_trump](https://www.reddit.com/r/worldnews/comments/1igy2ho/eu_will_stand_up_for_itself_in_face_of_trump)
+ - RSS feed: $source
+ - date published: 2025-02-03T19:48:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igy2ho/eu_will_stand_up_for_itself_in_face_of_trump/"> <img src="https://external-preview.redd.it/H5E8zSga4sUHstzJcvlwkoRQQosgjfPDdFPqa9yaKZs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=522cd9f04d943eeb57372c74fe9a2e413bc6f718" alt="EU will stand up for itself in face of Trump tariffs threat, Macron says" title="EU will stand up for itself in face of Trump tariffs threat, Macron says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Party_Judgment5780"> /u/Party_Judgment5780 </a> <br/> <span><a href="https://www.theguardian.com/world/2025/feb/03/eu-will-stand-up-for-itself-in-face-of-trump-tariffs-threat-macron-says">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igy2ho/eu_will_stand_up_for_itself_in_face_of_trump/">[comments]</a></span> </td></tr></table>
+
+## Greenland plans to ban foreign political funding over Trump-led election fears
+ - [https://www.reddit.com/r/worldnews/comments/1igxo33/greenland_plans_to_ban_foreign_political_funding](https://www.reddit.com/r/worldnews/comments/1igxo33/greenland_plans_to_ban_foreign_political_funding)
+ - RSS feed: $source
+ - date published: 2025-02-03T19:32:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igxo33/greenland_plans_to_ban_foreign_political_funding/"> <img src="https://external-preview.redd.it/RcVnn0loO4yimEfO8whcrSOm6IK27z15xfuZAe8gl2M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=af079dc02e2f7f4defb0500ba74d522b646a07de" alt="Greenland plans to ban foreign political funding over Trump-led election fears" title="Greenland plans to ban foreign political funding over Trump-led election fears" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheArcticBeyond"> /u/TheArcticBeyond </a> <br/> <span><a href="https://www.theguardian.com/world/2025/feb/03/greenland-plans-to-ban-foreign-political-funding-over-trump-led-election-fears">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igxo33/greenland_plans_to_ban_foreign_political_funding/">[comments]</a></span> </td></tr></table>
+
+## Trump seeks Ukrainian rare earths in exchange for aid
+ - [https://www.reddit.com/r/worldnews/comments/1igxb52/trump_seeks_ukrainian_rare_earths_in_exchange_for](https://www.reddit.com/r/worldnews/comments/1igxb52/trump_seeks_ukrainian_rare_earths_in_exchange_for)
+ - RSS feed: $source
+ - date published: 2025-02-03T19:17:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igxb52/trump_seeks_ukrainian_rare_earths_in_exchange_for/"> <img src="https://external-preview.redd.it/ErkWa8-wog_o_mvIIDtbrH4mc9lufkIj7BVJRFQ1hK8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1c9128aef23501018053d6ef837fcfc8dfcf3b76" alt="Trump seeks Ukrainian rare earths in exchange for aid" title="Trump seeks Ukrainian rare earths in exchange for aid" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ralphieman"> /u/Ralphieman </a> <br/> <span><a href="https://kyivindependent.com/trump-seeking-ukrainian-rare-earths-in-exchange-for-aid/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igxb52/trump_seeks_ukrainian_rare_earths_in_exchange_for/">[comments]</a></span> </td></tr></table>
+
+## US to again withdraw from the UN Human Rights Council, stop UNRWA funding
+ - [https://www.reddit.com/r/worldnews/comments/1igvbyk/us_to_again_withdraw_from_the_un_human_rights](https://www.reddit.com/r/worldnews/comments/1igvbyk/us_to_again_withdraw_from_the_un_human_rights)
+ - RSS feed: $source
+ - date published: 2025-02-03T17:59:24+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Geo_NL"> /u/Geo_NL </a> <br/> <span><a href="https://www.politico.com/news/2025/02/03/us-withdraw-un-human-rights-council-trump-00202100">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igvbyk/us_to_again_withdraw_from_the_un_human_rights/">[comments]</a></span>
+
+## New Brunswick to pull all American liquor and stop signing contracts with US
+ - [https://www.reddit.com/r/worldnews/comments/1igumle/new_brunswick_to_pull_all_american_liquor_and](https://www.reddit.com/r/worldnews/comments/1igumle/new_brunswick_to_pull_all_american_liquor_and)
+ - RSS feed: $source
+ - date published: 2025-02-03T17:31:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igumle/new_brunswick_to_pull_all_american_liquor_and/"> <img src="https://external-preview.redd.it/f0zRY0HawiRKoqk6FMCzZYe2VNT5T6C1HLJcGF9nkIU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6393db48804ed67af8edf24982234f98f182a7ea" alt="New Brunswick to pull all American liquor and stop signing contracts with US" title="New Brunswick to pull all American liquor and stop signing contracts with US" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Xephrine"> /u/Xephrine </a> <br/> <span><a href="https://tj.news/new-brunswick/breaking-holt-reveals-n-b-s-plan-to-retaliate-against-trump">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igumle/new_brunswick_to_pull_all_american_liquor_and/">[comments]</a></span> </td></tr></table>
+
+## EU must offer “firm” and “united” response to Trump tariff threats, says Poland’s Tusk
+ - [https://www.reddit.com/r/worldnews/comments/1igubcx/eu_must_offer_firm_and_united_response_to_trump](https://www.reddit.com/r/worldnews/comments/1igubcx/eu_must_offer_firm_and_united_response_to_trump)
+ - RSS feed: $source
+ - date published: 2025-02-03T17:19:05+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BubsyFanboy"> /u/BubsyFanboy </a> <br/> <span><a href="https://notesfrompoland.com/2025/02/03/eu-must-offer-firm-and-united-response-to-trump-tariff-threats-says-polands-tusk/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igubcx/eu_must_offer_firm_and_united_response_to_trump/">[comments]</a></span>
+
+## Taliban minister ‘forced to flee Afghanistan’ after speech in support of girls’ education
+ - [https://www.reddit.com/r/worldnews/comments/1igt7e6/taliban_minister_forced_to_flee_afghanistan_after](https://www.reddit.com/r/worldnews/comments/1igt7e6/taliban_minister_forced_to_flee_afghanistan_after)
+ - RSS feed: $source
+ - date published: 2025-02-03T16:33:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igt7e6/taliban_minister_forced_to_flee_afghanistan_after/"> <img src="https://external-preview.redd.it/9Us7rSRmEc0uVB_XyPg9NDJI_RplwG1K9Ymvfg-pc88.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1c4bc7804aa162e3ad2f115bbcac34ae9618c842" alt="Taliban minister ‘forced to flee Afghanistan’ after speech in support of girls’ education" title="Taliban minister ‘forced to flee Afghanistan’ after speech in support of girls’ education" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DegnarOskold"> /u/DegnarOskold </a> <br/> <span><a href="https://www.theguardian.com/global-development/2025/feb/03/mohammad-abbas-stanikzai-taliban-minister-flees-afghanistan-over-support-girls-education">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igt7e6/taliban_minister_forced_to_flee_afghanistan_after/">[comments]</a></span> </td></tr></table>
+
+## Russia and Trump push Europe to be more independent, Macron says
+ - [https://www.reddit.com/r/worldnews/comments/1igs5l8/russia_and_trump_push_europe_to_be_more](https://www.reddit.com/r/worldnews/comments/1igs5l8/russia_and_trump_push_europe_to_be_more)
+ - RSS feed: $source
+ - date published: 2025-02-03T15:51:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igs5l8/russia_and_trump_push_europe_to_be_more/"> <img src="https://external-preview.redd.it/nF935SiTjQJ5gIFtVSGLNOwYMRQK5SYWD1Lb_kcoO8U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=430f749ec940d4049f25d216e314fd9fad90810d" alt="Russia and Trump push Europe to be more independent, Macron says" title="Russia and Trump push Europe to be more independent, Macron says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/573SRC"> /u/573SRC </a> <br/> <span><a href="https://www.reuters.com/world/europe/russia-trump-push-europe-be-more-independent-macron-says-2025-02-03/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igs5l8/russia_and_trump_push_europe_to_be_more/">[comments]</a></span> </td></tr></table>
+
+## Trump tariffs on Mexico to be paused one month, Sheinbaum says, as she announces troop border deployment
+ - [https://www.reddit.com/r/worldnews/comments/1igrw40/trump_tariffs_on_mexico_to_be_paused_one_month](https://www.reddit.com/r/worldnews/comments/1igrw40/trump_tariffs_on_mexico_to_be_paused_one_month)
+ - RSS feed: $source
+ - date published: 2025-02-03T15:39:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igrw40/trump_tariffs_on_mexico_to_be_paused_one_month/"> <img src="https://external-preview.redd.it/-sE-2HDWOo8-4qUS5W8PX70trDXsoud9gDCTI_4IVu0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c8689ddc09abd0ad924a77c9ee5e810dcd834f59" alt="Trump tariffs on Mexico to be paused one month, Sheinbaum says, as she announces troop border deployment" title="Trump tariffs on Mexico to be paused one month, Sheinbaum says, as she announces troop border deployment" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CGP05"> /u/CGP05 </a> <br/> <span><a href="https://www.cnbc.com/2025/02/03/trump-tariffs-mexico-canada-china-sheinbaum-responds.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igrw40/trump_tariffs_on_mexico_to_be_paused_one_month/">[comments]</a></span> </td></tr></table>
+
+## Trudeau, Trump spoke this morning — will speak again this afternoon on eve of trade war
+ - [https://www.reddit.com/r/worldnews/comments/1igrjb7/trudeau_trump_spoke_this_morning_will_speak_again](https://www.reddit.com/r/worldnews/comments/1igrjb7/trudeau_trump_spoke_this_morning_will_speak_again)
+ - RSS feed: $source
+ - date published: 2025-02-03T15:24:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igrjb7/trudeau_trump_spoke_this_morning_will_speak_again/"> <img src="https://external-preview.redd.it/5QBC_HhaFpKSBkz58dpYwAItfBeSFdqB6Om2xhSpYus.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=23eb4aaa782c3c2d403f402d7ad203a67bf66760" alt="Trudeau, Trump spoke this morning — will speak again this afternoon on eve of trade war" title="Trudeau, Trump spoke this morning — will speak again this afternoon on eve of trade war" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ZineZ"> /u/ZineZ </a> <br/> <span><a href="https://www.cbc.ca/news/politics/trudeau-trump-speak-trade-war-1.7448805">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igrjb7/trudeau_trump_spoke_this_morning_will_speak_again/">[comments]</a></span> </td></tr></table>
+
+## Quebec Premier summons the province bankers and investment banks this morning to rethink links with the United States
+ - [https://www.reddit.com/r/worldnews/comments/1igqlyf/quebec_premier_summons_the_province_bankers_and](https://www.reddit.com/r/worldnews/comments/1igqlyf/quebec_premier_summons_the_province_bankers_and)
+ - RSS feed: $source
+ - date published: 2025-02-03T14:42:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igqlyf/quebec_premier_summons_the_province_bankers_and/"> <img src="https://external-preview.redd.it/79ch5oAA2neQtPNqDwGtLP8s5-_Qo8UVZCfq2BUDbxk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de3049d7e38c5eaa95a71d53af2e705440220b18" alt="Quebec Premier summons the province bankers and investment banks this morning to rethink links with the United States" title="Quebec Premier summons the province bankers and investment banks this morning to rethink links with the United States" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/beamermaster"> /u/beamermaster </a> <br/> <span><a href="https://www.journaldemontreal.com/2025/02/03/legault-convoque-les-banquiers-du-quebec-gros-lundi-en-vue">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igqlyf/quebec_premier_summons_the_province_bankers_and/">[comments]</a></span> </td></tr></table>
+
+## White House says Canada has 'misunderstood' tariff order as a trade war, Mexico is 'serious' | Reuters
+ - [https://www.reddit.com/r/worldnews/comments/1igqk26/white_house_says_canada_has_misunderstood_tariff](https://www.reddit.com/r/worldnews/comments/1igqk26/white_house_says_canada_has_misunderstood_tariff)
+ - RSS feed: $source
+ - date published: 2025-02-03T14:40:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igqk26/white_house_says_canada_has_misunderstood_tariff/"> <img src="https://external-preview.redd.it/s7xmjClNpSCiP8z3VX6iP8xHI5Bxa9AjmPJ_3ZbkXqQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4725ab116f2830fed3e287a8b92ca8a0c58fe151" alt="White House says Canada has 'misunderstood' tariff order as a trade war, Mexico is 'serious' | Reuters" title="White House says Canada has 'misunderstood' tariff order as a trade war, Mexico is 'serious' | Reuters" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ZineZ"> /u/ZineZ </a> <br/> <span><a href="https://www.reuters.com/world/americas/white-house-mexico-is-serious-canada-appears-have-misunderstood-trumps-executive-2025-02-03/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igqk26/white_house_says_canada_has_misunderstood_tariff/">[comments]</a></span> </td></tr></table>
+
+## Canada expected to divert aluminium to Europe after US tariffs
+ - [https://www.reddit.com/r/worldnews/comments/1igqk1l/canada_expected_to_divert_aluminium_to_europe](https://www.reddit.com/r/worldnews/comments/1igqk1l/canada_expected_to_divert_aluminium_to_europe)
+ - RSS feed: $source
+ - date published: 2025-02-03T14:40:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igqk1l/canada_expected_to_divert_aluminium_to_europe/"> <img src="https://external-preview.redd.it/h_Nnf9fKzdg7MyMn9ApmKB4v6s8hq9j9QBziAUVAhb8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b4b926898ed47e5e832947f065299c2933289a8" alt="Canada expected to divert aluminium to Europe after US tariffs" title="Canada expected to divert aluminium to Europe after US tariffs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/panzerfan"> /u/panzerfan </a> <br/> <span><a href="https://www.reuters.com/markets/commodities/canada-expected-divert-aluminium-europe-after-us-tariffs-2025-02-03/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igqk1l/canada_expected_to_divert_aluminium_to_europe/">[comments]</a></span> </td></tr></table>
+
+## Bomb explosion in Moscow kills pro-Russian paramilitary leader
+ - [https://www.reddit.com/r/worldnews/comments/1igq8f2/bomb_explosion_in_moscow_kills_prorussian](https://www.reddit.com/r/worldnews/comments/1igq8f2/bomb_explosion_in_moscow_kills_prorussian)
+ - RSS feed: $source
+ - date published: 2025-02-03T14:25:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igq8f2/bomb_explosion_in_moscow_kills_prorussian/"> <img src="https://external-preview.redd.it/-OzX1dogiokFAjfPz8sQK3wYbyM3O7dxI9O39h9MjfM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ba14324e2c752033aa1ac5d3971b8b2818fe049c" alt="Bomb explosion in Moscow kills pro-Russian paramilitary leader" title="Bomb explosion in Moscow kills pro-Russian paramilitary leader" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KrzyHooy"> /u/KrzyHooy </a> <br/> <span><a href="https://tvpworld.com/84817629/bomb-explosion-in-moscow-kills-pro-russian-paramilitary-leader">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igq8f2/bomb_explosion_in_moscow_kills_prorussian/">[comments]</a></span> </td></tr></table>
+
+## Ontario ends $100M Starlink agreement ahead of U.S. tariffs
+ - [https://www.reddit.com/r/worldnews/comments/1igpptz/ontario_ends_100m_starlink_agreement_ahead_of_us](https://www.reddit.com/r/worldnews/comments/1igpptz/ontario_ends_100m_starlink_agreement_ahead_of_us)
+ - RSS feed: $source
+ - date published: 2025-02-03T14:01:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igpptz/ontario_ends_100m_starlink_agreement_ahead_of_us/"> <img src="https://external-preview.redd.it/SogV-xYTWn3VLbJ1oJw4rselsXR9sf7_pkmoljKrNeY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=22e4b298e1b20ae6d8f6c7a7447c51f83fb748c1" alt="Ontario ends $100M Starlink agreement ahead of U.S. tariffs" title="Ontario ends $100M Starlink agreement ahead of U.S. tariffs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Street_Anon"> /u/Street_Anon </a> <br/> <span><a href="https://www.bnnbloomberg.ca/business/technology/2025/02/03/ontario-rips-up-100m-starlink-contract-ahead-of-us-tariffs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igpptz/ontario_ends_100m_starlink_agreement_ahead_of_us/">[comments]</a></span> </td></tr></table>
+
+## Musk says he is working to shut down “beyond repair” USAID
+ - [https://www.reddit.com/r/worldnews/comments/1igpmsn/musk_says_he_is_working_to_shut_down_beyond](https://www.reddit.com/r/worldnews/comments/1igpmsn/musk_says_he_is_working_to_shut_down_beyond)
+ - RSS feed: $source
+ - date published: 2025-02-03T13:57:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igpmsn/musk_says_he_is_working_to_shut_down_beyond/"> <img src="https://external-preview.redd.it/-cklw6NhyVaH7AxD1eolCoJR-bEPo48CU6HYwilQB7E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6cc222455ff2a10f8a19859568eb412eeae20780" alt="Musk says he is working to shut down “beyond repair” USAID" title="Musk says he is working to shut down “beyond repair” USAID" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HurricanesFan37"> /u/HurricanesFan37 </a> <br/> <span><a href="https://www.reuters.com/world/us/musk-give-update-reform-effort-amid-questions-about-his-power-2025-02-03/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igpmsn/musk_says_he_is_working_to_shut_down_beyond/">[comments]</a></span> </td></tr></table>
+
+## Ontario ends $100M Starlink agreement ahead of U.S. tariffs
+ - [https://www.reddit.com/r/worldnews/comments/1igp5bi/ontario_ends_100m_starlink_agreement_ahead_of_us](https://www.reddit.com/r/worldnews/comments/1igp5bi/ontario_ends_100m_starlink_agreement_ahead_of_us)
+ - RSS feed: $source
+ - date published: 2025-02-03T13:33:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igp5bi/ontario_ends_100m_starlink_agreement_ahead_of_us/"> <img src="https://external-preview.redd.it/wai1PFWnIn_OXRaJoyZWWDHAAS86TWusYEXCaeU8RBQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ede83183e9b9d2cc4f274329f472082384e46d3" alt="Ontario ends $100M Starlink agreement ahead of U.S. tariffs" title="Ontario ends $100M Starlink agreement ahead of U.S. tariffs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/roscodawg"> /u/roscodawg </a> <br/> <span><a href="https://www.cp24.com/news/2025/02/03/ontario-rips-up-100m-starlink-contract-ahead-of-us-tariffs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igp5bi/ontario_ends_100m_starlink_agreement_ahead_of_us/">[comments]</a></span> </td></tr></table>
+
+## Ontario ends $100M Starlink agreement ahead of U.S. tariffs
+ - [https://www.reddit.com/r/worldnews/comments/1igp1gs/ontario_ends_100m_starlink_agreement_ahead_of_us](https://www.reddit.com/r/worldnews/comments/1igp1gs/ontario_ends_100m_starlink_agreement_ahead_of_us)
+ - RSS feed: $source
+ - date published: 2025-02-03T13:27:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igp1gs/ontario_ends_100m_starlink_agreement_ahead_of_us/"> <img src="https://external-preview.redd.it/SogV-xYTWn3VLbJ1oJw4rselsXR9sf7_pkmoljKrNeY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=22e4b298e1b20ae6d8f6c7a7447c51f83fb748c1" alt="Ontario ends $100M Starlink agreement ahead of U.S. tariffs" title="Ontario ends $100M Starlink agreement ahead of U.S. tariffs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Georgeika"> /u/Georgeika </a> <br/> <span><a href="https://www.ctvnews.ca/toronto/article/ontario-rips-up-100m-starlink-contract-ahead-of-us-tariffs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igp1gs/ontario_ends_100m_starlink_agreement_ahead_of_us/">[comments]</a></span> </td></tr></table>
+
+## Ford 'ripping up' Ontario's $100M contract with Elon Musk's Starlink
+ - [https://www.reddit.com/r/worldnews/comments/1igoykc/ford_ripping_up_ontarios_100m_contract_with_elon](https://www.reddit.com/r/worldnews/comments/1igoykc/ford_ripping_up_ontarios_100m_contract_with_elon)
+ - RSS feed: $source
+ - date published: 2025-02-03T13:23:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igoykc/ford_ripping_up_ontarios_100m_contract_with_elon/"> <img src="https://external-preview.redd.it/elieBQcVr6tdeN8yByz9y7XUyBHDVyQiKkvjIY5ig7s.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ac1a491e9707cdcbfb9f71c1cbf4a5e1712cf10c" alt="Ford 'ripping up' Ontario's $100M contract with Elon Musk's Starlink" title="Ford 'ripping up' Ontario's $100M contract with Elon Musk's Starlink" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MiniBrownie"> /u/MiniBrownie </a> <br/> <span><a href="https://www.cbc.ca/news/canada/toronto/ford-ripping-up-province-contract-with-starlink-1.7448763">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igoykc/ford_ripping_up_ontarios_100m_contract_with_elon/">[comments]</a></span> </td></tr></table>
+
+## Companies embrace 'buy Canadian sentiment' as tariffs approach
+ - [https://www.reddit.com/r/worldnews/comments/1igolo1/companies_embrace_buy_canadian_sentiment_as](https://www.reddit.com/r/worldnews/comments/1igolo1/companies_embrace_buy_canadian_sentiment_as)
+ - RSS feed: $source
+ - date published: 2025-02-03T13:04:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igolo1/companies_embrace_buy_canadian_sentiment_as/"> <img src="https://external-preview.redd.it/7mdBapLiVrVdge9q7Et_QkJaXBZiGFw6XQWKV7pfPbE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cd20e7d3e641c037071f6a06bdac43de5bd00fab" alt="Companies embrace 'buy Canadian sentiment' as tariffs approach" title="Companies embrace 'buy Canadian sentiment' as tariffs approach" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Georgeika"> /u/Georgeika </a> <br/> <span><a href="https://www.bnnbloomberg.ca/business/economics/2025/02/03/companies-embrace-buy-canadian-sentiment-as-tariffs-approach/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igolo1/companies_embrace_buy_canadian_sentiment_as/">[comments]</a></span> </td></tr></table>
+
+## Landmine kills Russia's highest-ranking official in Ukraine war
+ - [https://www.reddit.com/r/worldnews/comments/1igoaxa/landmine_kills_russias_highestranking_official_in](https://www.reddit.com/r/worldnews/comments/1igoaxa/landmine_kills_russias_highestranking_official_in)
+ - RSS feed: $source
+ - date published: 2025-02-03T12:48:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igoaxa/landmine_kills_russias_highestranking_official_in/"> <img src="https://external-preview.redd.it/Zy8itteDVvKrSnQ2p9AToDSuPHIjdGlOq3hIuVtYWl0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c953f3013e5769ce9a120b3156bd2cdc2fd6a0b2" alt="Landmine kills Russia's highest-ranking official in Ukraine war" title="Landmine kills Russia's highest-ranking official in Ukraine war" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://euromaidanpress.com/2025/02/02/landmine-kills-russias-highest-ranking-official-in-ukraine-war/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igoaxa/landmine_kills_russias_highestranking_official_in/">[comments]</a></span> </td></tr></table>
+
+## Denmark PM repeats that Greenland is not for sale
+ - [https://www.reddit.com/r/worldnews/comments/1igm7s4/denmark_pm_repeats_that_greenland_is_not_for_sale](https://www.reddit.com/r/worldnews/comments/1igm7s4/denmark_pm_repeats_that_greenland_is_not_for_sale)
+ - RSS feed: $source
+ - date published: 2025-02-03T10:34:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igm7s4/denmark_pm_repeats_that_greenland_is_not_for_sale/"> <img src="https://external-preview.redd.it/V1JzMdZUqhccB28f11pUXTOC10WfaUoNu3P4k-CvCNE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9a672f6ccbb5998da047c9950b6242e2e8c2299d" alt="Denmark PM repeats that Greenland is not for sale" title="Denmark PM repeats that Greenland is not for sale" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/die_mannequin"> /u/die_mannequin </a> <br/> <span><a href="https://www.reuters.com/world/denmark-pm-repeats-that-greenland-is-not-sale-2025-02-03/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igm7s4/denmark_pm_repeats_that_greenland_is_not_for_sale/">[comments]</a></span> </td></tr></table>
+
+## Tesla showroom in The Hague vandalized with swastikas, anti-fascist texts
+ - [https://www.reddit.com/r/worldnews/comments/1igltjq/tesla_showroom_in_the_hague_vandalized_with](https://www.reddit.com/r/worldnews/comments/1igltjq/tesla_showroom_in_the_hague_vandalized_with)
+ - RSS feed: $source
+ - date published: 2025-02-03T10:05:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igltjq/tesla_showroom_in_the_hague_vandalized_with/"> <img src="https://external-preview.redd.it/hq3rYg_wbNhfb9aBJZPPb5ogHQtN-jwzBdFB1m5t_v8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=64f810c7caec1706974570c1aacece628752a411" alt="Tesla showroom in The Hague vandalized with swastikas, anti-fascist texts" title="Tesla showroom in The Hague vandalized with swastikas, anti-fascist texts" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NinjaElectricMeteor"> /u/NinjaElectricMeteor </a> <br/> <span><a href="https://nltimes.nl/2025/02/03/video-tesla-showroom-hague-vandalized-swastikas-anti-fascist-texts">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igltjq/tesla_showroom_in_the_hague_vandalized_with/">[comments]</a></span> </td></tr></table>
+
+## Trump 'doesn't care what Europeans scream at US' about Greenland, says Vance
+ - [https://www.reddit.com/r/worldnews/comments/1iglrva/trump_doesnt_care_what_europeans_scream_at_us](https://www.reddit.com/r/worldnews/comments/1iglrva/trump_doesnt_care_what_europeans_scream_at_us)
+ - RSS feed: $source
+ - date published: 2025-02-03T10:02:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iglrva/trump_doesnt_care_what_europeans_scream_at_us/"> <img src="https://external-preview.redd.it/tDWkOaX6zD89T8V5tPCWWCZSB7_U5RB1aHdUTcU0_8A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d9070a248be44210ce2ed339d758b7cffcebab0" alt="Trump 'doesn't care what Europeans scream at US' about Greenland, says Vance" title="Trump 'doesn't care what Europeans scream at US' about Greenland, says Vance" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DifusDofus"> /u/DifusDofus </a> <br/> <span><a href="https://www.firstpost.com/world/trump-does-not-care-what-europeans-scream-at-us-about-greenland-says-vance-13859114.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iglrva/trump_doesnt_care_what_europeans_scream_at_us/">[comments]</a></span> </td></tr></table>
+
+## Daghestani billionaire found to have owned stakes in SpaceX despite being sanctioned by the US / OC Media
+ - [https://www.reddit.com/r/worldnews/comments/1igjyyh/daghestani_billionaire_found_to_have_owned_stakes](https://www.reddit.com/r/worldnews/comments/1igjyyh/daghestani_billionaire_found_to_have_owned_stakes)
+ - RSS feed: $source
+ - date published: 2025-02-03T07:45:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igjyyh/daghestani_billionaire_found_to_have_owned_stakes/"> <img src="https://external-preview.redd.it/8mGFJlx_e9xbP0qv37RXywf26Srz-iu3_tSM0k2xNnY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f8fb8d8866f12e123cf99c30dac69d6cc04fb47" alt="Daghestani billionaire found to have owned stakes in SpaceX despite being sanctioned by the US / OC Media" title="Daghestani billionaire found to have owned stakes in SpaceX despite being sanctioned by the US / OC Media" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OC-Media"> /u/OC-Media </a> <br/> <span><a href="https://oc-media.org/daghestani-billionaire-found-to-have-owned-stakes-in-spacex-despite-being-sanctioned-by-the-us/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igjyyh/daghestani_billionaire_found_to_have_owned_stakes/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump threatens EU tariffs could happen 'pretty soon'
+ - [https://www.reddit.com/r/worldnews/comments/1igjyg5/donald_trump_threatens_eu_tariffs_could_happen](https://www.reddit.com/r/worldnews/comments/1igjyg5/donald_trump_threatens_eu_tariffs_could_happen)
+ - RSS feed: $source
+ - date published: 2025-02-03T07:44:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igjyg5/donald_trump_threatens_eu_tariffs_could_happen/"> <img src="https://external-preview.redd.it/WCQTABIFQdjgvhd-zopd1aMiB27OyuFU6SaU1YQjlNg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=36a3893014bb029680d6a40922d441df5a7899ec" alt="Donald Trump threatens EU tariffs could happen 'pretty soon'" title="Donald Trump threatens EU tariffs could happen 'pretty soon'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Grendals-bane"> /u/Grendals-bane </a> <br/> <span><a href="https://www.bbc.co.uk/news/articles/cn4zgx808g7o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igjyg5/donald_trump_threatens_eu_tariffs_could_happen/">[comments]</a></span> </td></tr></table>
+
+## Russia suffers highest-ranking casualty of Ukraine war in landmine explosion
+ - [https://www.reddit.com/r/worldnews/comments/1igj6fm/russia_suffers_highestranking_casualty_of_ukraine](https://www.reddit.com/r/worldnews/comments/1igj6fm/russia_suffers_highestranking_casualty_of_ukraine)
+ - RSS feed: $source
+ - date published: 2025-02-03T06:49:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igj6fm/russia_suffers_highestranking_casualty_of_ukraine/"> <img src="https://external-preview.redd.it/6uPr812_nfV69V6pOkCG9LmYZHit0t6Ssj0j4BbNTDA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=03d1e31675d8c60170f134471a2655bd57091230" alt="Russia suffers highest-ranking casualty of Ukraine war in landmine explosion" title="Russia suffers highest-ranking casualty of Ukraine war in landmine explosion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ttbnz"> /u/ttbnz </a> <br/> <span><a href="https://www.stuff.co.nz/world-news/360568936/russian-governor-blown-landmine-becomes-highest-ranking-casualty-ukraine-war">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igj6fm/russia_suffers_highestranking_casualty_of_ukraine/">[comments]</a></span> </td></tr></table>
+
+## Oil prices climb after US tariffs spark supply disruption fears
+ - [https://www.reddit.com/r/worldnews/comments/1igioa4/oil_prices_climb_after_us_tariffs_spark_supply](https://www.reddit.com/r/worldnews/comments/1igioa4/oil_prices_climb_after_us_tariffs_spark_supply)
+ - RSS feed: $source
+ - date published: 2025-02-03T06:13:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igioa4/oil_prices_climb_after_us_tariffs_spark_supply/"> <img src="https://external-preview.redd.it/Jc4laQE0AzTfq3mFx5eid2K7L1k3z2F-HvJanw3bUfs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1f9e39468e1153295fb8c4449c99527bbfef77db" alt="Oil prices climb after US tariffs spark supply disruption fears" title="Oil prices climb after US tariffs spark supply disruption fears" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/panzerfan"> /u/panzerfan </a> <br/> <span><a href="https://www.reuters.com/markets/commodities/oil-prices-jump-after-trump-imposes-tariffs-canada-mexico-china-2025-02-02/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igioa4/oil_prices_climb_after_us_tariffs_spark_supply/">[comments]</a></span> </td></tr></table>
+
+## Trump reiterates threat to retake Panama Canal ‘or something very powerful’ will happen | CNN
+ - [https://www.reddit.com/r/worldnews/comments/1igiknf/trump_reiterates_threat_to_retake_panama_canal_or](https://www.reddit.com/r/worldnews/comments/1igiknf/trump_reiterates_threat_to_retake_panama_canal_or)
+ - RSS feed: $source
+ - date published: 2025-02-03T06:07:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igiknf/trump_reiterates_threat_to_retake_panama_canal_or/"> <img src="https://external-preview.redd.it/bSoN6zFl1dBUxvoFRQL17v2_aFjQKjZoP76E6IdISjQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f31745b641e2ff37c10baf6a81fba02539e32c8" alt="Trump reiterates threat to retake Panama Canal ‘or something very powerful’ will happen | CNN" title="Trump reiterates threat to retake Panama Canal ‘or something very powerful’ will happen | CNN" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MentaMenged"> /u/MentaMenged </a> <br/> <span><a href="https://www.cnn.com/2025/02/02/americas/panama-china-belt-and-road-initiative-rubio-visits-intl-latam">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igiknf/trump_reiterates_threat_to_retake_panama_canal_or/">[comments]</a></span> </td></tr></table>
+
+## China filing lawsuit against US with World Trade Organization over tariffs
+ - [https://www.reddit.com/r/worldnews/comments/1iggxgw/china_filing_lawsuit_against_us_with_world_trade](https://www.reddit.com/r/worldnews/comments/1iggxgw/china_filing_lawsuit_against_us_with_world_trade)
+ - RSS feed: $source
+ - date published: 2025-02-03T04:30:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iggxgw/china_filing_lawsuit_against_us_with_world_trade/"> <img src="https://external-preview.redd.it/Va91Ica-sXf-rT3HLbX8-ig5fOS0klE6GnmhYcQAS-8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=84e5030f057b00f59abdef04bc5bb0f278151cbb" alt="China filing lawsuit against US with World Trade Organization over tariffs" title="China filing lawsuit against US with World Trade Organization over tariffs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Infidel8"> /u/Infidel8 </a> <br/> <span><a href="https://www.washingtonexaminer.com/policy/national-security/3308064/china-filing-lawsuit-us-world-trade-organization-tariffs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iggxgw/china_filing_lawsuit_against_us_with_world_trade/">[comments]</a></span> </td></tr></table>
+
+## Trump to talk tariffs with leaders of Canada and Mexico: 'They owe us a lot of money'
+ - [https://www.reddit.com/r/worldnews/comments/1iggse0/trump_to_talk_tariffs_with_leaders_of_canada_and](https://www.reddit.com/r/worldnews/comments/1iggse0/trump_to_talk_tariffs_with_leaders_of_canada_and)
+ - RSS feed: $source
+ - date published: 2025-02-03T04:22:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iggse0/trump_to_talk_tariffs_with_leaders_of_canada_and/"> <img src="https://external-preview.redd.it/uD_WsJnKwBkBBHajuk6a5XWkwBMCdGI33IAQP6Gu2ts.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=babb453365772031f36dadc42425119d1fe374e4" alt="Trump to talk tariffs with leaders of Canada and Mexico: 'They owe us a lot of money'" title="Trump to talk tariffs with leaders of Canada and Mexico: 'They owe us a lot of money'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/naqi11"> /u/naqi11 </a> <br/> <span><a href="https://www.usatoday.com/story/news/politics/2025/02/02/trump-canada-mexico-tariffs-china/78169171007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iggse0/trump_to_talk_tariffs_with_leaders_of_canada_and/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1075, Part 1 (Thread #1222)
+ - [https://www.reddit.com/r/worldnews/comments/1iggffo/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1iggffo/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: $source
+ - date published: 2025-02-03T04:02:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iggffo/rworldnews_live_thread_russian_invasion_of/"> <img src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1075, Part 1 (Thread #1222)" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1075, Part 1 (Thread #1222)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br/> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iggffo/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Australia hits right-wing online network 'Terrorgram' with sanctions
+ - [https://www.reddit.com/r/worldnews/comments/1iggcwj/australia_hits_rightwing_online_network](https://www.reddit.com/r/worldnews/comments/1iggcwj/australia_hits_rightwing_online_network)
+ - RSS feed: $source
+ - date published: 2025-02-03T03:59:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iggcwj/australia_hits_rightwing_online_network/"> <img src="https://external-preview.redd.it/h_Nnf9fKzdg7MyMn9ApmKB4v6s8hq9j9QBziAUVAhb8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b4b926898ed47e5e832947f065299c2933289a8" alt="Australia hits right-wing online network 'Terrorgram' with sanctions" title="Australia hits right-wing online network 'Terrorgram' with sanctions" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lionzzo"> /u/Lionzzo </a> <br/> <span><a href="https://www.reuters.com/business/media-telecom/australia-hits-right-wing-online-network-terrorgram-with-sanctions-2025-02-02/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iggcwj/australia_hits_rightwing_online_network/">[comments]</a></span> </td></tr></table>
+
+## Canada to file WTO claim against Trump tariffs, seek redress under regional free trade deal
+ - [https://www.reddit.com/r/worldnews/comments/1igfbq0/canada_to_file_wto_claim_against_trump_tariffs](https://www.reddit.com/r/worldnews/comments/1igfbq0/canada_to_file_wto_claim_against_trump_tariffs)
+ - RSS feed: $source
+ - date published: 2025-02-03T03:03:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igfbq0/canada_to_file_wto_claim_against_trump_tariffs/"> <img src="https://external-preview.redd.it/eVl1XzEdWMMD5kor5irtRqK90pc4-GHcSEVP6ejkfk8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fab37256f059fef73c2daff1aa5f1b8bf9fc5795" alt="Canada to file WTO claim against Trump tariffs, seek redress under regional free trade deal" title="Canada to file WTO claim against Trump tariffs, seek redress under regional free trade deal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br/> <span><a href="https://www.scmp.com/news/world/united-states-canada/article/3297100/canada-file-wto-claim-against-trump-tariffs-seek-redress-under-regional-free-trade-deal?module=top_story&amp;pgtype=homepage">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igfbq0/canada_to_file_wto_claim_against_trump_tariffs/">[comments]</a></span> </td
+
+## Trump to speak with Trudeau, Mexico after imposing tariffs
+ - [https://www.reddit.com/r/worldnews/comments/1igevz8/trump_to_speak_with_trudeau_mexico_after_imposing](https://www.reddit.com/r/worldnews/comments/1igevz8/trump_to_speak_with_trudeau_mexico_after_imposing)
+ - RSS feed: $source
+ - date published: 2025-02-03T02:41:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igevz8/trump_to_speak_with_trudeau_mexico_after_imposing/"> <img src="https://external-preview.redd.it/oaAbB8MaLWpczjw3lN_lrz93LuA23BgBwAravESMRrA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7b1139bea861ecc8c881f58698f09a38ef757898" alt="Trump to speak with Trudeau, Mexico after imposing tariffs" title="Trump to speak with Trudeau, Mexico after imposing tariffs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ZineZ"> /u/ZineZ </a> <br/> <span><a href="https://thehill.com/homenews/administration/5122268-trump-to-speak-with-trudeau-mexico-after-imposing-tariffs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igevz8/trump_to_speak_with_trudeau_mexico_after_imposing/">[comments]</a></span> </td></tr></table>
+
+## Panama president says he won’t renew Belt and Road deal with China, as US demands less Chinese influence over canal
+ - [https://www.reddit.com/r/worldnews/comments/1ige3xa/panama_president_says_he_wont_renew_belt_and_road](https://www.reddit.com/r/worldnews/comments/1ige3xa/panama_president_says_he_wont_renew_belt_and_road)
+ - RSS feed: $source
+ - date published: 2025-02-03T02:01:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ige3xa/panama_president_says_he_wont_renew_belt_and_road/"> <img src="https://external-preview.redd.it/bSoN6zFl1dBUxvoFRQL17v2_aFjQKjZoP76E6IdISjQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f31745b641e2ff37c10baf6a81fba02539e32c8" alt="Panama president says he won’t renew Belt and Road deal with China, as US demands less Chinese influence over canal" title="Panama president says he won’t renew Belt and Road deal with China, as US demands less Chinese influence over canal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/os_kaiserwilhelm"> /u/os_kaiserwilhelm </a> <br/> <span><a href="https://www.cnn.com/2025/02/02/americas/panama-china-belt-and-road-initiative-rubio-visits-intl-latam/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ige3xa/panama_president_says_he_wont_renew_belt_and_road/">[comments]</a></span> </td></tr></table>
+
+## Zelenskyy: Ukraine received US$76 billion out of US$177 billion approved by America
+ - [https://www.reddit.com/r/worldnews/comments/1igdc3f/zelenskyy_ukraine_received_us76_billion_out_of](https://www.reddit.com/r/worldnews/comments/1igdc3f/zelenskyy_ukraine_received_us76_billion_out_of)
+ - RSS feed: $source
+ - date published: 2025-02-03T01:22:18+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/wickywyld"> /u/wickywyld </a> <br/> <span><a href="https://www.pravda.com.ua/eng/news/2025/02/2/7496431/index.amp">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igdc3f/zelenskyy_ukraine_received_us76_billion_out_of/">[comments]</a></span>
+
+## Fans at Toronto Raptors game continue trend of booing U.S. national anthem at pro sporting events in Canada
+ - [https://www.reddit.com/r/worldnews/comments/1igc8uu/fans_at_toronto_raptors_game_continue_trend_of](https://www.reddit.com/r/worldnews/comments/1igc8uu/fans_at_toronto_raptors_game_continue_trend_of)
+ - RSS feed: $source
+ - date published: 2025-02-03T00:28:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igc8uu/fans_at_toronto_raptors_game_continue_trend_of/"> <img src="https://external-preview.redd.it/Q4idh2gWmMlHZQmw34UAfiFDlzzQGBlM5D6MR3A2e-I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f3a3235a400621c089566c58804017f5c9d5c22" alt="Fans at Toronto Raptors game continue trend of booing U.S. national anthem at pro sporting events in Canada" title="Fans at Toronto Raptors game continue trend of booing U.S. national anthem at pro sporting events in Canada" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/darrenjyc"> /u/darrenjyc </a> <br/> <span><a href="https://www.ctvnews.ca/canada/article/fans-at-raptors-game-continue-trend-of-booing-us-national-anthem-at-pro-sporting-events-in-canada/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igc8uu/fans_at_toronto_raptors_game_continue_trend_of/">[comments]</a></span> </td></tr></table>
+
+## US to cut off all future funding to South Africa
+ - [https://www.reddit.com/r/worldnews/comments/1igc5nu/us_to_cut_off_all_future_funding_to_south_africa](https://www.reddit.com/r/worldnews/comments/1igc5nu/us_to_cut_off_all_future_funding_to_south_africa)
+ - RSS feed: $source
+ - date published: 2025-02-03T00:24:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igc5nu/us_to_cut_off_all_future_funding_to_south_africa/"> <img src="https://external-preview.redd.it/uzgB37_ISbXZEqJJkUh0Er_JEKSu0mwfgpWz8ag9ASw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=25515a768ae8873a81458f30ebf904223b371d3a" alt="US to cut off all future funding to South Africa" title="US to cut off all future funding to South Africa" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Timely-Yam-8492"> /u/Timely-Yam-8492 </a> <br/> <span><a href="https://www.reuters.com/world/africa/trump-cut-off-all-future-funding-south-africa-2025-02-02/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igc5nu/us_to_cut_off_all_future_funding_to_south_africa/">[comments]</a></span> </td></tr></table>
+
+## Yukon premier reviews excluding U.S. businesses from bidding, directs halt on buying U.S. booze
+ - [https://www.reddit.com/r/worldnews/comments/1igc0g4/yukon_premier_reviews_excluding_us_businesses](https://www.reddit.com/r/worldnews/comments/1igc0g4/yukon_premier_reviews_excluding_us_businesses)
+ - RSS feed: $source
+ - date published: 2025-02-03T00:17:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igc0g4/yukon_premier_reviews_excluding_us_businesses/"> <img src="https://external-preview.redd.it/LcWTtRa8DHqCvHRa65l3yaJMZTK5Elr4au6R3KYtDW0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=404616be658e0f99c22dbd53a109873f67471cba" alt="Yukon premier reviews excluding U.S. businesses from bidding, directs halt on buying U.S. booze" title="Yukon premier reviews excluding U.S. businesses from bidding, directs halt on buying U.S. booze" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/panzerfan"> /u/panzerfan </a> <br/> <span><a href="https://www.yukon-news.com/news/buy-local-and-canadian-premier-pillai-encourages-yukoners-given-trumps-tariff-insult-7796442">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igc0g4/yukon_premier_reviews_excluding_us_businesses/">[comments]</a></span> </td></tr></table>
+
+## Newfoundland joining Ontario. NLC Pulling American Products from Liquor Stores
+ - [https://www.reddit.com/r/worldnews/comments/1igbofv/newfoundland_joining_ontario_nlc_pulling_american](https://www.reddit.com/r/worldnews/comments/1igbofv/newfoundland_joining_ontario_nlc_pulling_american)
+ - RSS feed: $source
+ - date published: 2025-02-03T00:01:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1igbofv/newfoundland_joining_ontario_nlc_pulling_american/"> <img src="https://external-preview.redd.it/y5gAfr2bge7AEOtminUFx7UQtJMG4eslh_Q8j_tsrIo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7149e6fcab1c59ce3cde4988eba763d501b26ea3" alt="Newfoundland joining Ontario. NLC Pulling American Products from Liquor Stores" title="Newfoundland joining Ontario. NLC Pulling American Products from Liquor Stores" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RepulsivePlankton989"> /u/RepulsivePlankton989 </a> <br/> <span><a href="https://vocm.com/2025/02/02/261625/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1igbofv/newfoundland_joining_ontario_nlc_pulling_american/">[comments]</a></span> </td></tr></table>
+

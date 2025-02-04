@@ -1,0 +1,48 @@
+# Source:Louder With Crowder, URL:https://louderwithcrowder.com/feed, language:en-US
+
+## Rep. Ilhan Omar Meltdowns After Realization She Can No Longer Help Spend Your Tax Dollars On Foreign Aid
+ - [https://www.louderwithcrowder.com/omar-dictatorship-usaid](https://www.louderwithcrowder.com/omar-dictatorship-usaid)
+ - RSS feed: $source
+ - date published: 2025-02-03T20:23:44+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=56152981&width=1200&height=600&coordinates=0%2C40%2C0%2C40"/><br/><br/><p>Omar has warned the masses that Trump is in the beginning phase of starting a dictatorship, as evidenced by the closure of the USAID headquarters.</p><p><br/></p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">NEW: Rep. Ilhan Omar has a meltdown over how she is no longer able to burn American taxpayer dollars, says Trump is a dictator for wanting to save Americans money.<br/><br/>Wow!<br/><br/>"We get to decide where money is allocated!!"<br/><br/>"We talked about Trump wanting to be a dictator on day 1, and… <a href="https://t.co/o6RFizDVfJ">pic.twitter.com/o6RFizDVfJ</a><br/>— Collin Rugg (@CollinRugg) <a href="https://twitter.com/CollinRugg/status/1886483870024937525?ref_src=twsrc%5Etfw">February 3, 2025</a></blockquote> <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div><p><e
+
+## Anti-woke women's sports brand drops powerful ad pushing back against leftists, could use your help to get on the Super Bowl
+ - [https://www.louderwithcrowder.com/xx-xy-athletics-ad](https://www.louderwithcrowder.com/xx-xy-athletics-ad)
+ - RSS feed: $source
+ - date published: 2025-02-03T18:58:09+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=56149826&width=1245&height=700&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>XX-XY Athletics, a brand that describes itself as the only organization “with the guts to back real women athletes,” just launched a new ad.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Real Girls Rock. <br/><br/>The Big Game Ad Nike Would Never Make. <a href="https://t.co/eWkNjtPpPS">pic.twitter.com/eWkNjtPpPS</a><br/>— XX-XY Athletics (@xx_xyathletics) <a href="https://twitter.com/xx_xyathletics/status/1886076623088144724?ref_src=twsrc%5Etfw">February 2, 2025</a></blockquote> <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div><p>A potential Super Bowl ad? Well, maybe...</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Ok y'all are nice saying we should run our new ad REAL GIRLS ROCK on the Superbowl... you do realize a :30 second ad during the Superbow
+
+## Watch: Why Trump & America Will Dominate the Global Trade War
+ - [https://www.louderwithcrowder.com/canada-trade-war](https://www.louderwithcrowder.com/canada-trade-war)
+ - RSS feed: $source
+ - date published: 2025-02-03T17:20:58+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=56146788&width=1245&height=700&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>Canadian Prime Minister Justin Trudeau freaked out after Trump imposed tariffs on Canada, Mexico, and China. Today’s show explains why Trump and America will dominate the trade war.</p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" data-rm-shortcode-id="91844de93b8181c8d3a6b9c8c57c7010" style="display:block;position:relative;padding-top:56.25%;"><iframe frameborder="0" height="auto" lazy-loadable="true" scrolling="no" src="https://www.youtube.com/embed/c5XaWKJpVnw?rel=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" width="100%"></iframe></span>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">- YouTube</small>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">
+<a href="https://www.youtube.com/watch?v=c5XaWKJpVnw" target="_blank">www.youtu
+
+## Sources: Why Trump Will Win the Global Trade War
+ - [https://www.louderwithcrowder.com/sources-february-3-2025](https://www.louderwithcrowder.com/sources-february-3-2025)
+ - RSS feed: $source
+ - date published: 2025-02-03T14:53:13+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=56144828&width=1245&height=700&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>According to the U.S. Immigration and Customs Enforcement agency, President Trump’s administration deported more than 7,200 illegal migrants in Trump’s first nine days in office, Panama won’t renew participation in Beijing’s Belt and Road Initiative, Canadian Prime Minister Justin Trudeau freaked after Trump hit Canada, Mexico & China with tariffs, and more!</p><div class="rm-embed embed-media"><iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6e8bnj/?pub=4430ut" width="640"></iframe></div><p><strong>DEPORTATIONS RAMP UP</strong></p><ul><li><a href="https://nypost.com/2025/02/01/us-news/ice-crackdown-sees-7400-illegal-migrants-arrested-in-9-days/?utm_campaign=nypost&utm_medium=referral" rel="noopener noreferrer" target="_blank">Over 7.2K illegal migrants arrested in 9 days during ICE crackdow
+
+## Watch: Margaret Brennan thought she had a GOP congressman cornered over DEI "evidence," but then he bought receipts
+ - [https://www.louderwithcrowder.com/margaret-brennan-brian-mast](https://www.louderwithcrowder.com/margaret-brennan-brian-mast)
+ - RSS feed: $source
+ - date published: 2025-02-03T13:00:24+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=56143590&width=1245&height=700&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>When we last left CBS Face the Nation's Margaret Brennan, she was embarrassed by Vice President JD Vance. <a href="https://www.louderwithcrowder.com/jd-vance-face-the-nation" target="_blank">I'm sure you remember the "I don't care, Margaret" incident</a>. She thought it might be easier with someone like a congressman. The rub is that she chose Florida Congressman Brian Mast, who is really good at this. What he lacks in legs, <a href="https://www.louderwithcrowder.com/brian-mast-code-pink" target="_blank">he makes up for in owning libs</a>. Yesterday's appearance on the Sunday shows was no exception. </p><p>The focus was on DEI. Trump is in his Executive Order era. He's busy signing EOs to undo all of Joe Biden's EOs, which undid all of Trump's EOs, which undid all of Barack Obama's EOs. The next Democrat president with start his terms undoing 
+
+## Watch: Chuck Schumer embarrasses himself with a Mexican beer trying to dunk on Donald Trump's tariffs
+ - [https://www.louderwithcrowder.com/chuck-schumer-corona](https://www.louderwithcrowder.com/chuck-schumer-corona)
+ - RSS feed: $source
+ - date published: 2025-02-03T12:18:15+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=56143523&width=1245&height=700&coordinates=0%2C17%2C0%2C18"/><br/><br/><p>Begun, the trade wars have. Donald Trump said he is going to slap tariffs on Mexico and Canada. Mexico and Canada said they will retaliate with better tariffs on America. China's gonna get their taste. Americans are prepared to brace for impact of certain items being more expensive. Items, as Democrat Leader Chuck Schumer points out, like beer. But only if you know nothing about beer, which it's clear Chuckles' handlers do not.</p><p>Opinions on tariffs and their effect on policy (both economic and political) vary, even amongst those of us on the Right. For now, we here at the Louder with Crowder Dot Com website maintain a non-partisan viewpoint in that regard:</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">It's looking like tomorrow might be a bloodbath for the markets. Which means... buy, buy, buy!<br/>— Raj Giri (@
+

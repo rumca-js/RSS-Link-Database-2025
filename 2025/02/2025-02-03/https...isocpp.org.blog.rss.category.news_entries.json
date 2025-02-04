@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-03T21:59:53+00:00",
+        "description": "<p>\n\tIn this episode, you learn about a change in the standard that can give you more performance, thanks to the implicit move.</p>\n<blockquote>\n\t<p>\n\t\t<a href=\"https://andreasfertig.com/blog/2024/12/cpp-insights-episode-57-more-performance-thanks-to-more-implicit-moves-in-cpp20/\">C++ Insights Episode 57: More performance thanks to more implicit moves in C++20</a><a href=\"https://youtu.be/3CR1ow5BfJM?si=DbOQmdZpnwlpf6-T\">&nbsp;- Andreas Fertig</a></p>\n</blockquote>\n<p>\n\t&nbsp;</p>\n<blockquote>\n\t<p>\n\t\t<iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"https://www.youtube.com/embed/3CR1ow5BfJM?si=BAPSSBzvZwXTc3CU\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n</blockquote>",
+        "id": 2034286,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/02/cpp-insights-episode-57-more-performance-thanks-to-more-implicit-moves-in-c",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "C++ Insights Episode 57: More performance thanks to more implicit moves in C++20 -- Andreas Fertig",
+        "vote": 0
+    }
+]

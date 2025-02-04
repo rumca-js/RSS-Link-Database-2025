@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lex Fridman",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-03T00:12:13+00:00",
+        "description": "Dylan Patel is the founder of SemiAnalysis, a research & analysis company specializing in semiconductors, GPUs, CPUs, and AI hardware. Nathan Lambert is a research scientist at the Allen Institute for AI (Ai2) and the author of a blog on AI called Interconnects.\nThank you for listening \u2764 Check out our sponsors: https://lexfridman.com/sponsors/ep459-sb\nSee below for timestamps, and to give feedback, submit questions, contact Lex, etc.\n\n*CONTACT LEX:*\n*Feedback* - give feedback to Lex: https://lexfridman.com/survey\n*AMA* - submit questions, videos or call-in: https://lexfridman.com/ama\n*Hiring* - join our team: https://lexfridman.com/hiring\n*Other* - other ways to get in touch: https://lexfridman.com/contact\n\n*EPISODE LINKS:*\nDylan's X: https://x.com/dylan522p\nSemiAnalysis: https://semianalysis.com/\nNathan's X: https://x.com/natolambert\nNathan's Blog: https://www.interconnects.ai/\nNathan's Podcast: https://www.interconnects.ai/podcast\nNathan's Website: https://www.natolambert.com/\nNath",
+        "id": 2027339,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=_1f-o0nqpEI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 547,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_1f-o0nqpEI/hqdefault.jpg",
+        "title": "DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast #459",
+        "vote": 0
+    }
+]

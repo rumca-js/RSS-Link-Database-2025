@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Be Smart",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-03T20:39:26+00:00",
+        "description": "Scientists have found amino acids (the building blocks of life) inside the Bennu asteroid samples, hinting that the ingredients for life on Earth's may not be so unique in the universe after all!\n\nJoin us on Patreon! \nhttps://patreon.com/itsokaytobesmart\n\nInstagram \nhttp://www.instagram.com/DrJoeHanson \nhttp://www.instagram.com/okaytobesmart \n\nFacebook\nhttps://www.facebook.com/itsokaytobesmartpbs/",
+        "id": 2033689,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=jDr7II5XJ5Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 33,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH4BNI0-FOK2dMXoFtViWHw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jDr7II5XJ5Q/hqdefault.jpg",
+        "title": "You won\u2019t believe what NASA found in these asteroid samples!",
+        "vote": 0
+    }
+]

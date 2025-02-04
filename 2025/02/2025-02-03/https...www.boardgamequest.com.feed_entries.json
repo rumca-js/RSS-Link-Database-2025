@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-03T14:35:47+00:00",
+        "description": "<img width=\"640\" height=\"426\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/01/CCofW-23-1024x682.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Crowdfunding Campaigns of the Week\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/01/CCofW-23-1024x682.jpg 1024w, https://www.boardgamequest.com/wp-content/uploads/2025/01/CCofW-23-300x200.jpg 300w, https://www.boardgamequest.com/wp-content/uploads/2025/01/CCofW-23-150x100.jpg 150w, https://www.boardgamequest.com/wp-content/uploads/2025/01/CCofW-23-768x511.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/01/CCofW-23-640x426.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/01/CCofW-23-1280x852.jpg 1280w, https://www.boardgamequest.com/wp-content/uploads/2025/01/CCofW-23.jpg 1500w\" sizes=\"(max-width: 640px) 100vw, 640px\" />February is here, and whil",
+        "id": 2031050,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/crowdfunding-campaigns-of-the-week-2-3-25",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Crowdfunding Campaigns of the Week \u2013\u00a02/3/25",
+        "vote": 0
+    }
+]

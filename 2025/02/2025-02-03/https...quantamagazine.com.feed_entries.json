@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-03T15:31:40+00:00",
+        "description": "By proving a broader version of Hilbert\u2019s famous 10th problem, two groups of mathematicians have expanded the realm of mathematical unknowability.            <p>The post <a href=\"https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203/\" target=\"_blank\">New Proofs Probe the Limits of Mathematical Truth</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2032340,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/new-proofs-probe-the-limits-of-mathematical-truth-20250203",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/01/Hilberts-Tenth_crMyriam-Wares-Default.webp",
+        "title": "New Proofs Probe the Limits of Mathematical Truth",
+        "vote": 0
+    }
+]

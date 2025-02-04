@@ -1,0 +1,79 @@
+# Source:Raspberry Pi - More than just magic mirrors and kodi!, URL:https://www.reddit.com/r/raspberry_pi/.rss, language:en
+
+## Toggle Power LED on and off
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ih2htd/toggle_power_led_on_and_off](https://www.reddit.com/r/raspberry_pi/comments/1ih2htd/toggle_power_led_on_and_off)
+ - RSS feed: $source
+ - date published: 2025-02-03T22:47:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a RPi4 8 gb. I currently have the latest Bookworm running on this box. The settings that are out there to toggle the power :ED on/off do not work and I hear that it can&#39;t be done. However, I have installed the Dietpi Bookworm OS and there is an easy setting in the config to toggle the power LED on/off. What could be the issue that I can&#39;t do it with out the Dietpi?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Physical_Session_671"> /u/Physical_Session_671 </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ih2htd/toggle_power_led_on_and_off/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ih2htd/toggle_power_led_on_and_off/">[comments]</a></span>
+
+## PWM Base Address ???
+ - [https://www.reddit.com/r/raspberry_pi/comments/1igzxui/pwm_base_address](https://www.reddit.com/r/raspberry_pi/comments/1igzxui/pwm_base_address)
+ - RSS feed: $source
+ - date published: 2025-02-03T21:02:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have recently been doing some arm assembly for programing my raspberry pi model b+ directly to the processor. I have been wanting to do some pwm but from what i understand we need a pwm base adress to be able to do this. Looking through the bcm2835 datasheet i can find the control and status addresses at a specific offset (section 9.6 page 141) but i can not anywhere at all find the base adress that these functions are offset from. Does anyone know where this can be found in the data sheet ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/0akleaf"> /u/0akleaf </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1igzxui/pwm_base_address/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1igzxui/pwm_base_address/">[comments]</a></span>
+
+## OS running from 2.5 SSD works fine on a USB2 port but not USB3
+ - [https://www.reddit.com/r/raspberry_pi/comments/1igye87/os_running_from_25_ssd_works_fine_on_a_usb2_port](https://www.reddit.com/r/raspberry_pi/comments/1igye87/os_running_from_25_ssd_works_fine_on_a_usb2_port)
+ - RSS feed: $source
+ - date published: 2025-02-03T20:01:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Been running Raspberry Pi OS from a 2.5&quot; HDD connected to a USB3 just fine but recently I got myself a 2.5&quot; SSD and put it in the enclosure the HDD was in but I can&#39;t get it to work with USB3.<br/> On USB2 it works fine but when I connect it to a USB3 port it is slow, I get a bunch of fails, errors and logs of bad sectors on the SSD. It basically does the first boot ok but very slow and then when it reboots it never completely boots.</p> <p>I run the Pi4 with the official PSU. Anyone an idea what could be the issue and how it could be fixed?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Yveske"> /u/Yveske </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1igye87/os_running_from_25_ssd_works_fine_on_a_usb2_port/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1igye87/os_running_from_25_ssd_works_fine_on_a_usb2_port/">[comments]</a></spa
+
+## Problem with resolution on piOS
+ - [https://www.reddit.com/r/raspberry_pi/comments/1igx41o/problem_with_resolution_on_pios](https://www.reddit.com/r/raspberry_pi/comments/1igx41o/problem_with_resolution_on_pios)
+ - RSS feed: $source
+ - date published: 2025-02-03T19:10:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a pi 5 with 64bit piOS and i just cannot change the resolution to 1920x1080</p> <p>i had it on that before but once i just switched between hdmi (pi5) and dvi (win11) and then back and the resolution was suddenly changed to 1024x768</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SirPigari"> /u/SirPigari </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1igx41o/problem_with_resolution_on_pios/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1igx41o/problem_with_resolution_on_pios/">[comments]</a></span>
+
+## Are headless RPi Zero W tutorials lying? Or...
+ - [https://www.reddit.com/r/raspberry_pi/comments/1igtw44/are_headless_rpi_zero_w_tutorials_lying_or](https://www.reddit.com/r/raspberry_pi/comments/1igtw44/are_headless_rpi_zero_w_tutorials_lying_or)
+ - RSS feed: $source
+ - date published: 2025-02-03T17:01:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>...am I just doing every one of them wrong somehow?</p> <p>I am trying to set up a Zero W and/or a Zero 2 W headlessly that will automatically connect to my wifi on first boot. I have followed <em>a lot</em> of tutorials and they all end with failure. Every one. I&#39;ve tried using different image burners and different OS images and none of them have given me a unit that will boot and connect to the wifi network automatically. Using Raspberry Pi Imager&#39;s feature that asks for the wifi credentials doesn&#39;t help.</p> <p>The image I want to use is Lite because I don&#39;t need or want to run a GUI on a Zero. Neither the Bookworm or Bullseye attempts succeed.</p> <p>To finally get the Zero W to connect to wifi running Bullseye Lite requires me to hook it up to a monitor and keyboard (which means it&#39;s now obviously not a headless setup) and complete two final steps that the imagers don&#39;t seem to configure:</p> <p>1) Run <code>sudo raspi-co
+
+## wifis not showing up
+ - [https://www.reddit.com/r/raspberry_pi/comments/1igpczh/wifis_not_showing_up](https://www.reddit.com/r/raspberry_pi/comments/1igpczh/wifis_not_showing_up)
+ - RSS feed: $source
+ - date published: 2025-02-03T13:43:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>hi, i did some port forwarding to make a rasberry pi webserver on my at&amp;t router i rebooted my pi 4 and on the wifi it shows a up and down arrow and NO wifis are showing up even my neighbors. i treid to use ethernet but that did not work too.I dont want to make a new sd card because i have crypto wallets on it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Accurate-Crew-5745"> /u/Accurate-Crew-5745 </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1igpczh/wifis_not_showing_up/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1igpczh/wifis_not_showing_up/">[comments]</a></span>
+
+## When the past and the present collide! I'm working on a pair of Pi Pico powered Spacewar! controllers for an upcoming exhibition at the Chicago Gamespace. They appear as plug and play USB gamepads that can be used with a Javascript PDP-1 emulator to play an original version of the game from 1962.
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ignh68/when_the_past_and_the_present_collide_im_working](https://www.reddit.com/r/raspberry_pi/comments/1ignh68/when_the_past_and_the_present_collide_im_working)
+ - RSS feed: $source
+ - date published: 2025-02-03T12:00:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1ignh68/when_the_past_and_the_present_collide_im_working/"> <img src="https://external-preview.redd.it/NGhxenZ2ZXB1d2dlMe7YDNhZvu0EZ_bud6NXjK2vSyysz_0BvisEbbhc4-0B.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d0e124958e451de4ecd234b7635ec12b4cd8c7a3" alt="When the past and the present collide! I'm working on a pair of Pi Pico powered Spacewar! controllers for an upcoming exhibition at the Chicago Gamespace. They appear as plug and play USB gamepads that can be used with a Javascript PDP-1 emulator to play an original version of the game from 1962." title="When the past and the present collide! I'm working on a pair of Pi Pico powered Spacewar! controllers for an upcoming exhibition at the Chicago Gamespace. They appear as plug and play USB gamepads that can be used with a Javascript PDP-1 emulator to play an original version of the game from 1962." /> </a> </td><td> &#32; submitted by &#32; <a href="https://
+
+## Hey everyone, I’d like to share my Five Nights at Freddy’s remake in Pygame! It’s done… well, mostly. It works great on my Raspberry.
+ - [https://www.reddit.com/r/raspberry_pi/comments/1iglupw/hey_everyone_id_like_to_share_my_five_nights_at](https://www.reddit.com/r/raspberry_pi/comments/1iglupw/hey_everyone_id_like_to_share_my_five_nights_at)
+ - RSS feed: $source
+ - date published: 2025-02-03T10:08:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1iglupw/hey_everyone_id_like_to_share_my_five_nights_at/"> <img src="https://external-preview.redd.it/djg2aWIzYm9ld2dlMXfwchjwwK9vC9-LmL6XsaWZrt9PCMY4C9htA4764PFY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d62064c69cd9a31f520f0cd27d603ec438e648b0" alt="Hey everyone, I’d like to share my Five Nights at Freddy’s remake in Pygame! It’s done… well, mostly. It works great on my Raspberry." title="Hey everyone, I’d like to share my Five Nights at Freddy’s remake in Pygame! It’s done… well, mostly. It works great on my Raspberry." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RoseVi0let"> /u/RoseVi0let </a> <br/> <span><a href="https://v.redd.it/ab6102boewge1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1iglupw/hey_everyone_id_like_to_share_my_five_nights_at/">[comments]</a></span> </td></tr></table>
+
+## A very stupid idea has turned into a 2 day project, I'm determined to pull it off!
+ - [https://www.reddit.com/r/raspberry_pi/comments/1igj8ow/a_very_stupid_idea_has_turned_into_a_2_day](https://www.reddit.com/r/raspberry_pi/comments/1igj8ow/a_very_stupid_idea_has_turned_into_a_2_day)
+ - RSS feed: $source
+ - date published: 2025-02-03T06:53:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I&#39;ve been redoing my bathroom recently, and being the avid CRT tv collector I am I thought it would be awesome to have a small 5&quot; crt in the bathroom attached next to the sink that displays the weather and plays the old weather channel music in the background. I&#39;m not a programmer, but I&#39;m into graphic design so I was able to make a really cool screen pulling from a weather api and lots of moving 3 part png files for the weather icons (sunny, rainy, snowing etc)</p> <p>After some tinkering and help from Chat GPT I have a working <a href="http://main.py">main.py</a> file that looks pretty awesome. It pulls the weather and displays a 5 day forcast, I&#39;ll try to include a pic in the comments. Anyways, I&#39;ve been trying to get this to work on my pi to where you turn it on and it starts into the program right away and displays on the CRT.</p> <p>I&#39;ve got a raspberry pi 4 and have it connected properly to a CRT, everything loo
+
+## Can't get any blue light filters working
+ - [https://www.reddit.com/r/raspberry_pi/comments/1igh2gn/cant_get_any_blue_light_filters_working](https://www.reddit.com/r/raspberry_pi/comments/1igh2gn/cant_get_any_blue_light_filters_working)
+ - RSS feed: $source
+ - date published: 2025-02-03T04:38:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m running standard Raspberry Pi OS with an XFCE desktop on a RPI5. Redshift doesn&#39;t work since it can&#39;t get location data and manually enabling it in the terminal does nothing f.lux doesn&#39;t appear to exist, nor does sct. I&#39;m totally at a loss.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/machintodesu"> /u/machintodesu </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1igh2gn/cant_get_any_blue_light_filters_working/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1igh2gn/cant_get_any_blue_light_filters_working/">[comments]</a></span>
+
+## Arducam 64MP Camera on Raspberry Pi 5 Fail? Help!
+ - [https://www.reddit.com/r/raspberry_pi/comments/1igd8wc/arducam_64mp_camera_on_raspberry_pi_5_fail_help](https://www.reddit.com/r/raspberry_pi/comments/1igd8wc/arducam_64mp_camera_on_raspberry_pi_5_fail_help)
+ - RSS feed: $source
+ - date published: 2025-02-03T01:17:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ran some update on the raspberry pi and can&#39;t get the camera to work now. I am running a Raspberry Pi 5 with Bookworm 6.6 and trying to connect the Arducam 64MP camera to it. I had it working literally 2 days ago, and then I think I upgraded the system and since then have not been able to get it back! </p> <p>Can anyone perhaps see something that I can&#39;t? </p> <p>Link to install instructions for Hawkeye Instructions: (essentially Im downloading a script and it goes and fetches dkpg&#39;s and installs them for a given OS version) </p> <pre><code>https://docs.arducam.com/Raspberry-Pi-Camera/Native-camera/64MP-Hawkeye/#libcamera-vid </code></pre> <p>Error from running lib camera-hello</p> <pre><code>pi@pi:/tmp $ libcamera-hello [0:07:36.820306246] [2499] INFO Camera camera_manager.cpp:327 libcamera v0.4.0+50-83cb8101 [0:07:36.829208008] [2504] INFO RPI pisp.cpp:720 libpisp version v1.1.0 e7974a156008 27-01-2025 (21:50:51) [0:07:36.833193725] [25
+

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-03T05:05:13+00:00",
+        "description": "AAEON has announced the GENE-MTH6, a 3.5&#8221; SubCompact Board designed for edge computing and embedded applications. Featuring Intel Core Ultra processors (Series 1) with integrated Intel Arc Graphics, the board supports up to 96GB of DDR5 memory and offers PCIe Gen 4 expansion with RAID 0 and RAID 1 support. The GENE-MTH6 is built around [&#8230;]",
+        "id": 2028277,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/gene-mth6-a-3-5-sbc-with-intel-core-ultra-processors-for-edge-computing",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GENE-MTH6: A 3.5\u201d SBC with Intel Core Ultra Processors for Edge Computing",
+        "vote": 0
+    }
+]

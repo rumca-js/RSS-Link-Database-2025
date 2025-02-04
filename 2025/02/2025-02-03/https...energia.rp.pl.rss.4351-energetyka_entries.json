@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-03T22:25:31+00:00",
+        "description": "Zarz\u0105d Tauronu zatwierdzi\u0142 decyzj\u0119 komitetu inwestycyjnego dotycz\u0105c\u0105 zamkni\u0119cia projektu budowy bloku gazowo-parowego w Elektrowni \u0141agisza w B\u0119dzinie i decyzj\u0119 dotycz\u0105c\u0105 rozpocz\u0119cia etapu planowania projektu budowy kogeneracyjnego \u017ar\u00f3d\u0142a ciep\u0142a w Elektrowni \u0141agisza w B\u0119dzinie.",
+        "id": 2034104,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/cieplo/art41763731-tauron-rozpoczyna-realizacje-swojej-strategii-najpierw-gaz-w-bedzinie",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tauron rozpoczyna realizacj\u0119 swojej strategii. Najpierw gaz w B\u0119dzinie",
+        "vote": 0
+    }
+]

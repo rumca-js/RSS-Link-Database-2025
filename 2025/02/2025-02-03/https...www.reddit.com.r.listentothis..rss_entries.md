@@ -1,0 +1,135 @@
+# Source:Listen To This, URL:https://www.reddit.com/r/listentothis/.rss, language:
+
+## DECORATOR -- Tuesday [Alternative / R&B] (2022)
+ - [https://www.reddit.com/r/listentothis/comments/1ih3naw/decorator_tuesday_alternative_rb_2022](https://www.reddit.com/r/listentothis/comments/1ih3naw/decorator_tuesday_alternative_rb_2022)
+ - RSS feed: $source
+ - date published: 2025-02-03T23:37:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ih3naw/decorator_tuesday_alternative_rb_2022/"> <img src="https://external-preview.redd.it/mThX_C97m6BexySwWr3UQff4D5FSvUHtKt-nydDAnSk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3ee10313f59c25b069beb83d57732221e8f3b6a2" alt="DECORATOR -- Tuesday [Alternative / R&amp;B] (2022)" title="DECORATOR -- Tuesday [Alternative / R&amp;B] (2022)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dogtired-the-band"> /u/dogtired-the-band </a> <br/> <span><a href="https://www.youtube.com/watch?v=wfdbdG8SjpU">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ih3naw/decorator_tuesday_alternative_rb_2022/">[comments]</a></span> </td></tr></table>
+
+## Michael Brabender -- Freak (Avicii Remix) [Pop/EDM] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1ih2cka/michael_brabender_freak_avicii_remix_popedm_2025](https://www.reddit.com/r/listentothis/comments/1ih2cka/michael_brabender_freak_avicii_remix_popedm_2025)
+ - RSS feed: $source
+ - date published: 2025-02-03T22:41:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ih2cka/michael_brabender_freak_avicii_remix_popedm_2025/"> <img src="https://external-preview.redd.it/mjqRAqFggEH6aBQpLOOzZRiVeLRF_a0W_1QOni1A_14.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=27fe4742e7e2719b1f2ec731e05d68719ac9808a" alt="Michael Brabender -- Freak (Avicii Remix) [Pop/EDM] (2025)" title="Michael Brabender -- Freak (Avicii Remix) [Pop/EDM] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DesignerAudience7520"> /u/DesignerAudience7520 </a> <br/> <span><a href="https://www.youtube.com/watch?v=IGwXD2aoShE">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ih2cka/michael_brabender_freak_avicii_remix_popedm_2025/">[comments]</a></span> </td></tr></table>
+
+## Ada Quinn — Family and Friends [Pop] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1ih1fzz/ada_quinn_family_and_friends_pop_2025](https://www.reddit.com/r/listentothis/comments/1ih1fzz/ada_quinn_family_and_friends_pop_2025)
+ - RSS feed: $source
+ - date published: 2025-02-03T22:04:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ih1fzz/ada_quinn_family_and_friends_pop_2025/"> <img src="https://external-preview.redd.it/hlXJdkohLvEeG56vD6S2HlkhZqw8b2a6knoixosm-fs.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6569a18176a03d2f84a18a9d6fb7e3ecf064706c" alt="Ada Quinn — Family and Friends [Pop] (2025)" title="Ada Quinn — Family and Friends [Pop] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/goksusedat"> /u/goksusedat </a> <br/> <span><a href="https://youtu.be/XOVil-xgFXQ?si=dzw3vhniyNTctV9_">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ih1fzz/ada_quinn_family_and_friends_pop_2025/">[comments]</a></span> </td></tr></table>
+
+## Sadness -- Kiss In October [Blackgaze] (2017)
+ - [https://www.reddit.com/r/listentothis/comments/1igz17f/sadness_kiss_in_october_blackgaze_2017](https://www.reddit.com/r/listentothis/comments/1igz17f/sadness_kiss_in_october_blackgaze_2017)
+ - RSS feed: $source
+ - date published: 2025-02-03T20:26:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1igz17f/sadness_kiss_in_october_blackgaze_2017/"> <img src="https://external-preview.redd.it/aJ6JfRMQ0-QAPCRwKr_jzSNKn7EOJwsB2vNyBTmRjGM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=909a6ef5e1ac694263f1c3874fb657e4a2eb4f59" alt="Sadness -- Kiss In October [Blackgaze] (2017)" title="Sadness -- Kiss In October [Blackgaze] (2017)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/passagerprincess123"> /u/passagerprincess123 </a> <br/> <span><a href="https://youtu.be/TOaTvtI7EZA?si=YDftAGmerH7KTpMm">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1igz17f/sadness_kiss_in_october_blackgaze_2017/">[comments]</a></span> </td></tr></table>
+
+## Atychi - Burn (We’ll Never Fade Away) [Rap-Metal/Nu-Metal] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1igyxc3/atychi_burn_well_never_fade_away_rapmetalnumetal](https://www.reddit.com/r/listentothis/comments/1igyxc3/atychi_burn_well_never_fade_away_rapmetalnumetal)
+ - RSS feed: $source
+ - date published: 2025-02-03T20:22:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1igyxc3/atychi_burn_well_never_fade_away_rapmetalnumetal/"> <img src="https://external-preview.redd.it/tl9_eSpqW2niU_2AdHjK5-nTS5ySbbOBRqrVAokLiVg.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=7bd45c6a02bca7937d0390ffd07a5a5f0ce370cb" alt="Atychi - Burn (We’ll Never Fade Away) [Rap-Metal/Nu-Metal] (2025)" title="Atychi - Burn (We’ll Never Fade Away) [Rap-Metal/Nu-Metal] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KrisKristmas"> /u/KrisKristmas </a> <br/> <span><a href="https://open.spotify.com/track/5tjhHpUf5uhJt8Esur29Ax?si=hNjnIWWyQJCd2ymhDsTNSw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1igyxc3/atychi_burn_well_never_fade_away_rapmetalnumetal/">[comments]</a></span> </td></tr></table>
+
+## 3 - Alien Angel [prog rock] (2004)
+ - [https://www.reddit.com/r/listentothis/comments/1igvyep/3_alien_angel_prog_rock_2004](https://www.reddit.com/r/listentothis/comments/1igvyep/3_alien_angel_prog_rock_2004)
+ - RSS feed: $source
+ - date published: 2025-02-03T18:24:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1igvyep/3_alien_angel_prog_rock_2004/"> <img src="https://external-preview.redd.it/Xud8EhqsmfeqRul7LuhpxRr1A53J9q1d5rSkB9qTcu8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=55abcfe70789cfe448d24bd0742dd84b7a7a46a4" alt="3 - Alien Angel [prog rock] (2004)" title="3 - Alien Angel [prog rock] (2004)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/d3rk2007"> /u/d3rk2007 </a> <br/> <span><a href="https://youtu.be/zNm-bdgX1Gk?si=RPEtV1ErJfMJ_cSL">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1igvyep/3_alien_angel_prog_rock_2004/">[comments]</a></span> </td></tr></table>
+
+## Obijuan - - Jungle Fruit [AltRap/HipHop] (2023)
+ - [https://www.reddit.com/r/listentothis/comments/1iguise/obijuan_jungle_fruit_altraphiphop_2023](https://www.reddit.com/r/listentothis/comments/1iguise/obijuan_jungle_fruit_altraphiphop_2023)
+ - RSS feed: $source
+ - date published: 2025-02-03T17:27:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iguise/obijuan_jungle_fruit_altraphiphop_2023/"> <img src="https://external-preview.redd.it/1bSE6vVcI4W-QSq5LB4M9iWUs0SE4Vh4V4UbMcjDOlE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c7f0571bad6fbb47e867c109ed753245564b74e0" alt="Obijuan - - Jungle Fruit [AltRap/HipHop] (2023)" title="Obijuan - - Jungle Fruit [AltRap/HipHop] (2023)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SilverApples"> /u/SilverApples </a> <br/> <span><a href="https://youtu.be/A2n_1rb2K_0?feature=shared">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iguise/obijuan_jungle_fruit_altraphiphop_2023/">[comments]</a></span> </td></tr></table>
+
+## Ghost Funk Orchestra -- Where To? [Funk] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1iguf2t/ghost_funk_orchestra_where_to_funk_2024](https://www.reddit.com/r/listentothis/comments/1iguf2t/ghost_funk_orchestra_where_to_funk_2024)
+ - RSS feed: $source
+ - date published: 2025-02-03T17:23:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iguf2t/ghost_funk_orchestra_where_to_funk_2024/"> <img src="https://external-preview.redd.it/BpSf0gMcZ-dAnGyPS6V-NVKfQUw_qZdMixpqWYiauoE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b3c8d6b4f8414b3592a432f9bcee7eb6fb929c60" alt="Ghost Funk Orchestra -- Where To? [Funk] (2024)" title="Ghost Funk Orchestra -- Where To? [Funk] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bigbadchief"> /u/bigbadchief </a> <br/> <span><a href="https://youtu.be/2Jnu3i0lLv4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iguf2t/ghost_funk_orchestra_where_to_funk_2024/">[comments]</a></span> </td></tr></table>
+
+## JAMM -- Waiting Game [Psychadelic/Alternative Rock] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1igubqr/jamm_waiting_game_psychadelicalternative_rock_2025](https://www.reddit.com/r/listentothis/comments/1igubqr/jamm_waiting_game_psychadelicalternative_rock_2025)
+ - RSS feed: $source
+ - date published: 2025-02-03T17:19:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1igubqr/jamm_waiting_game_psychadelicalternative_rock_2025/"> <img src="https://external-preview.redd.it/btCfeuatqulV7xzol0oUTRWMGOFMkIA0w9I5WSDRo_g.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=98fba0fcefa0814769ae2940f464783adad7bc6c" alt="JAMM -- Waiting Game [Psychadelic/Alternative Rock] (2025)" title="JAMM -- Waiting Game [Psychadelic/Alternative Rock] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/samueljacksonsmother"> /u/samueljacksonsmother </a> <br/> <span><a href="https://www.youtube.com/watch?v=MhCtbMLB-Co">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1igubqr/jamm_waiting_game_psychadelicalternative_rock_2025/">[comments]</a></span> </td></tr></table>
+
+## HOSTVGE - Consumed [Metal/Hardcore](2025)
+ - [https://www.reddit.com/r/listentothis/comments/1igr0ed/hostvge_consumed_metalhardcore2025](https://www.reddit.com/r/listentothis/comments/1igr0ed/hostvge_consumed_metalhardcore2025)
+ - RSS feed: $source
+ - date published: 2025-02-03T15:01:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1igr0ed/hostvge_consumed_metalhardcore2025/"> <img src="https://external-preview.redd.it/hSjArIWX1oMDvJS54Xsg3cIf19O-pJdIC1zzrcIBqDg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2ca8f22412045eb6cd28782feea45a4621a6c174" alt="HOSTVGE - Consumed [Metal/Hardcore](2025)" title="HOSTVGE - Consumed [Metal/Hardcore](2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Xartemiss"> /u/Xartemiss </a> <br/> <span><a href="https://youtu.be/ICq8s6BT9NA?si=DQ0X2BVXZJZr--zI">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1igr0ed/hostvge_consumed_metalhardcore2025/">[comments]</a></span> </td></tr></table>
+
+## nezzy -- want your love [Dance & EDM] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1igqsud/nezzy_want_your_love_dance_edm_2024](https://www.reddit.com/r/listentothis/comments/1igqsud/nezzy_want_your_love_dance_edm_2024)
+ - RSS feed: $source
+ - date published: 2025-02-03T14:51:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1igqsud/nezzy_want_your_love_dance_edm_2024/"> <img src="https://external-preview.redd.it/6N_6nRJMLW2gOnvl9b6RQGiTMm2AbCer_bi-DDrLdiA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=85b95cc0c4114030a1484f1afdb8ac2e7d283b48" alt="nezzy -- want your love [Dance &amp; EDM] (2024)" title="nezzy -- want your love [Dance &amp; EDM] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mouse_dot_exe"> /u/mouse_dot_exe </a> <br/> <span><a href="https://www.youtube.com/watch?v=RIfIJejGEts">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1igqsud/nezzy_want_your_love_dance_edm_2024/">[comments]</a></span> </td></tr></table>
+
+## Dummy -- Blue Dada [psychedelic pop / rock] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1igqr3g/dummy_blue_dada_psychedelic_pop_rock_2024](https://www.reddit.com/r/listentothis/comments/1igqr3g/dummy_blue_dada_psychedelic_pop_rock_2024)
+ - RSS feed: $source
+ - date published: 2025-02-03T14:49:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1igqr3g/dummy_blue_dada_psychedelic_pop_rock_2024/"> <img src="https://external-preview.redd.it/R8KX21YA5oWYbHzsPrfAcGR_Z0Ivg8_UbJjGekldjhs.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6e2b93224ddc5ec09e98b37b0d4e984e8eefb41d" alt="Dummy -- Blue Dada [psychedelic pop / rock] (2024)" title="Dummy -- Blue Dada [psychedelic pop / rock] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/qazz23"> /u/qazz23 </a> <br/> <span><a href="https://youtu.be/_w8942xcHY4?t=147">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1igqr3g/dummy_blue_dada_psychedelic_pop_rock_2024/">[comments]</a></span> </td></tr></table>
+
+## Sadness -- attention to detail bloom mayflowers [Blackgaze] (2022)
+ - [https://www.reddit.com/r/listentothis/comments/1ignxtv/sadness_attention_to_detail_bloom_mayflowers](https://www.reddit.com/r/listentothis/comments/1ignxtv/sadness_attention_to_detail_bloom_mayflowers)
+ - RSS feed: $source
+ - date published: 2025-02-03T12:28:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ignxtv/sadness_attention_to_detail_bloom_mayflowers/"> <img src="https://external-preview.redd.it/7W4NtNFQAxauVhVCqmvbAA45H4wTtBHcx2pssw698jw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=88c820139db235e977f73960ce5438f3482663bb" alt="Sadness -- attention to detail bloom mayflowers [Blackgaze] (2022)" title="Sadness -- attention to detail bloom mayflowers [Blackgaze] (2022)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/passagerprincess123"> /u/passagerprincess123 </a> <br/> <span><a href="https://youtu.be/j_gNSghWtK4?si=hxjivWqwiS7lYBFO">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ignxtv/sadness_attention_to_detail_bloom_mayflowers/">[comments]</a></span> </td></tr></table>
+
+## Niaye — JJ [African traditional Remixed] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1igmxro/niaye_jj_african_traditional_remixed_2025](https://www.reddit.com/r/listentothis/comments/1igmxro/niaye_jj_african_traditional_remixed_2025)
+ - RSS feed: $source
+ - date published: 2025-02-03T11:25:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1igmxro/niaye_jj_african_traditional_remixed_2025/"> <img src="https://external-preview.redd.it/jgpBOhMs1APMHpjNujIj0pWrPAhQboLVvVFP2y14GpQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ae6d968f24cfba9770e4fc430843652a7cf7268b" alt="Niaye — JJ [African traditional Remixed] (2025)" title="Niaye — JJ [African traditional Remixed] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nefarious_Archfiend"> /u/Nefarious_Archfiend </a> <br/> <span><a href="https://youtu.be/0HK3qFV9edU?si=coeDkkQ9RCo1XKku">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1igmxro/niaye_jj_african_traditional_remixed_2025/">[comments]</a></span> </td></tr></table>
+
+## Here Comes The Kraken - Never Regret [Metalcore/Deathcore] (2011)
+ - [https://www.reddit.com/r/listentothis/comments/1igm1is/here_comes_the_kraken_never_regret](https://www.reddit.com/r/listentothis/comments/1igm1is/here_comes_the_kraken_never_regret)
+ - RSS feed: $source
+ - date published: 2025-02-03T10:21:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1igm1is/here_comes_the_kraken_never_regret/"> <img src="https://external-preview.redd.it/CJWZ0_UEE4x1jYay2AsGzBHZsInU5q1DsaAIz4z-4hM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=829270dafd1a6df36179081409eaa684be01d89d" alt="Here Comes The Kraken - Never Regret [Metalcore/Deathcore] (2011)" title="Here Comes The Kraken - Never Regret [Metalcore/Deathcore] (2011)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_HKB_"> /u/_HKB_ </a> <br/> <span><a href="https://youtu.be/igpJ_VaPf2g?si=owa1EtARAgY71Ps3">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1igm1is/here_comes_the_kraken_never_regret/">[comments]</a></span> </td></tr></table>
+
+## Sixpence — Junior Soprano [Australian Hip-Hop] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1igihpk/sixpence_junior_soprano_australian_hiphop_2024](https://www.reddit.com/r/listentothis/comments/1igihpk/sixpence_junior_soprano_australian_hiphop_2024)
+ - RSS feed: $source
+ - date published: 2025-02-03T06:02:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1igihpk/sixpence_junior_soprano_australian_hiphop_2024/"> <img src="https://external-preview.redd.it/MJ9VJr2gpFd8zUOUzg8mAnm11BvTNR5nyQQ_mib92sY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a7ba9de5edfe67855ad200055178c23c6a300da0" alt="Sixpence — Junior Soprano [Australian Hip-Hop] (2024)" title="Sixpence — Junior Soprano [Australian Hip-Hop] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Serelaev"> /u/Serelaev </a> <br/> <span><a href="https://youtu.be/wMkdt1C_skM?si=xN3qpVEYAykC3aI-">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1igihpk/sixpence_junior_soprano_australian_hiphop_2024/">[comments]</a></span> </td></tr></table>
+
+## past self -- 녹슨 칼 [K-Goth / Post-Punk] (2023)
+ - [https://www.reddit.com/r/listentothis/comments/1igi530/past_self_녹슨_칼_kgoth_postpunk_2023](https://www.reddit.com/r/listentothis/comments/1igi530/past_self_녹슨_칼_kgoth_postpunk_2023)
+ - RSS feed: $source
+ - date published: 2025-02-03T05:40:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1igi530/past_self_녹슨_칼_kgoth_postpunk_2023/"> <img src="https://external-preview.redd.it/CS0a4flmVVZzVctR-nr9dUHpO6-h0A2gfA2jnKBAuqM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6db193fd2515337f60b0971e2768b2ef867bdfcb" alt="past self -- 녹슨 칼 [K-Goth / Post-Punk] (2023)" title="past self -- 녹슨 칼 [K-Goth / Post-Punk] (2023)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/takihak"> /u/takihak </a> <br/> <span><a href="https://youtu.be/wcU0uP5hlQQ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1igi530/past_self_녹슨_칼_kgoth_postpunk_2023/">[comments]</a></span> </td></tr></table>
+
+## Music Melting Pot [Week of February 03, 2025]
+ - [https://www.reddit.com/r/listentothis/comments/1igcvyj/music_melting_pot_week_of_february_03_2025](https://www.reddit.com/r/listentothis/comments/1igcvyj/music_melting_pot_week_of_february_03_2025)
+ - RSS feed: $source
+ - date published: 2025-02-03T01:00:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>The melting pot is a free-for-all music sharing thread posted weekly.</p> <p>We&#39;d like to invite everyone to reply with...</p> <ul> <li>Anything you&#39;ve been listening to recently and enjoying.</li> <li>Great obscure music that doesn&#39;t get the upvotes you think it deserves.</li> <li>Your own playlists, mixtapes, or other good compilations you&#39;ve found.</li> <li>New releases this week and your opinions on those albums.</li> <li>If you&#39;re an artist, share your music with us and tell us about it.</li> </ul> <p>Guidelines to get the most out of these threads...</p> <ul> <li>Always provide listening links for anything you share here.</li> <li>Tell us a little bit about what you&#39;re sharing and why you like it.</li> <li>No top40/hall of fame artists, no &#39;corporate bullshit&#39; music please!</li> <li>For top-level comments, downvote if there is no listening link.</li> <li>Format any posted links as follows: [Artist - &quot;Song Ti
+
+## Emily Wells - Mama's Gonna Give You Love [alternative / indie] (2012)
+ - [https://www.reddit.com/r/listentothis/comments/1igclbs/emily_wells_mamas_gonna_give_you_love_alternative](https://www.reddit.com/r/listentothis/comments/1igclbs/emily_wells_mamas_gonna_give_you_love_alternative)
+ - RSS feed: $source
+ - date published: 2025-02-03T00:45:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1igclbs/emily_wells_mamas_gonna_give_you_love_alternative/"> <img src="https://external-preview.redd.it/ilx-Z4TgUFfScV77RTHtthOJjasuiFTWtv5EGMyzlZk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0b20d0bc5f32573ff3a02bfe9b9c28280e4fef87" alt="Emily Wells - Mama's Gonna Give You Love [alternative / indie] (2012)" title="Emily Wells - Mama's Gonna Give You Love [alternative / indie] (2012)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ThisGuyRightHereSaid"> /u/ThisGuyRightHereSaid </a> <br/> <span><a href="https://youtu.be/aGOcxhsl-S8?si=A_pFXp_-e7AIcDru">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1igclbs/emily_wells_mamas_gonna_give_you_love_alternative/">[comments]</a></span> </td></tr></table>
+
