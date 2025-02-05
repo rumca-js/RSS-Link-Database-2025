@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-04T12:00:23+00:00",
+        "description": "Want to learn more about Data Management & AI? Read the Report \u2192 https://ibm.biz/BdGmKi\nLearn more about Big Data here \u2192 https://ibm.biz/BdGmKZ\n\nUnlock the secrets to mastering Big Data in AI! \ud83d\ude80 Ellie Najewicz dives into optimizing data management from collection to governance, ensuring high-quality data for AI development. Discover essential strategies for data lakes, automated ingestion, and data integrity for superior AI results.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdGmKN\n\n#ai #bigdata #machinelearning",
+        "id": 2038734,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=AtXqpveCWQU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AtXqpveCWQU/hqdefault.jpg",
+        "title": "Big Data Rules For AI: Essential Data Management Principles",
+        "vote": 0
+    }
+]

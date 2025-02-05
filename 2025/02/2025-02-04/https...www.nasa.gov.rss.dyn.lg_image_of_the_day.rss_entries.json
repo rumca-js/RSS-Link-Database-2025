@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-04T20:03:00+00:00",
+        "description": "LEDA 1313424, aptly nicknamed the Bullseye, is two and a half times the size of our Milky Way and has nine rings \u2014 six more than any other known galaxy. High-resolution imagery from NASA\u2019s Hubble Space Telescope confirmed eight rings, and data from the W. M. Keck Observatory in Hawaii confirmed a ninth. Hubble and Keck also confirmed which galaxy dove through the Bullseye, creating these rings: the blue dwarf galaxy that sits to its immediate center-left.",
+        "id": 2041811,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/hubble-leda1313424-stsci-01jjadtmj80r1r4w6kk563rw2c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bullseye!",
+        "vote": 0
+    }
+]

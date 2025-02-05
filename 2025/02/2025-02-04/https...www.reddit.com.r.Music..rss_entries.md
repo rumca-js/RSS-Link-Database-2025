@@ -1,0 +1,275 @@
+# Source:r/Music, URL:https://www.reddit.com/r/Music/.rss, language:en
+
+## Trivium - In Waves [Metal] (2011)
+ - [https://www.reddit.com/r/Music/comments/1ihvdmn/trivium_in_waves_metal_2011](https://www.reddit.com/r/Music/comments/1ihvdmn/trivium_in_waves_metal_2011)
+ - RSS feed: $source
+ - date published: 2025-02-04T23:06:38+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/MoistSnow220"> /u/MoistSnow220 </a> <br/> <span><a href="https://youtu.be/CGyPsJtApnY?si=atSrib85oHmrqEaO">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihvdmn/trivium_in_waves_metal_2011/">[comments]</a></span>
+
+## Asocial Aponia - I Hate This World... And I´m Pretty Sure It Hates Me Back [Hardcore] (2025) [Portugal]
+ - [https://www.reddit.com/r/Music/comments/1ihtirb/asocial_aponia_i_hate_this_world_and_im_pretty](https://www.reddit.com/r/Music/comments/1ihtirb/asocial_aponia_i_hate_this_world_and_im_pretty)
+ - RSS feed: $source
+ - date published: 2025-02-04T21:47:53+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Failed_Musician_Kid"> /u/Failed_Musician_Kid </a> <br/> <span><a href="https://m.youtube.com/watch?v=z_nUxzEaUB0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihtirb/asocial_aponia_i_hate_this_world_and_im_pretty/">[comments]</a></span>
+
+## World Party - Ship Of Fools [Rock] | An apt song to describe our current times.
+ - [https://www.reddit.com/r/Music/comments/1ihsu8i/world_party_ship_of_fools_rock_an_apt_song_to](https://www.reddit.com/r/Music/comments/1ihsu8i/world_party_ship_of_fools_rock_an_apt_song_to)
+ - RSS feed: $source
+ - date published: 2025-02-04T21:19:55+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/MetatronMusic"> /u/MetatronMusic </a> <br/> <span><a href="https://www.youtube.com/watch?v=B2nCugGQZO0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihsu8i/world_party_ship_of_fools_rock_an_apt_song_to/">[comments]</a></span>
+
+## The Jam - That's Entertainment [rock]
+ - [https://www.reddit.com/r/Music/comments/1ihspe5/the_jam_thats_entertainment_rock](https://www.reddit.com/r/Music/comments/1ihspe5/the_jam_thats_entertainment_rock)
+ - RSS feed: $source
+ - date published: 2025-02-04T21:14:25+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/d3rk2007"> /u/d3rk2007 </a> <br/> <span><a href="https://youtu.be/m-H0uIH5HHQ?si=ULfCSCS9z54iB5Jj">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihspe5/the_jam_thats_entertainment_rock/">[comments]</a></span>
+
+## Ministry - The Land of Rape and Honey [Industrial Metal]
+ - [https://www.reddit.com/r/Music/comments/1ihsnm6/ministry_the_land_of_rape_and_honey_industrial](https://www.reddit.com/r/Music/comments/1ihsnm6/ministry_the_land_of_rape_and_honey_industrial)
+ - RSS feed: $source
+ - date published: 2025-02-04T21:12:24+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/do-call-me-papi"> /u/do-call-me-papi </a> <br/> <span><a href="https://youtu.be/d3LSbk2dFDo?si=bLB234Q7pUWc7lc0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihsnm6/ministry_the_land_of_rape_and_honey_industrial/">[comments]</a></span>
+
+## Ray Charles and Willie Nelson - Seven Spanish Angels [Brilliance]
+ - [https://www.reddit.com/r/Music/comments/1ihsisb/ray_charles_and_willie_nelson_seven_spanish](https://www.reddit.com/r/Music/comments/1ihsisb/ray_charles_and_willie_nelson_seven_spanish)
+ - RSS feed: $source
+ - date published: 2025-02-04T21:06:53+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Ralph--Hinkley"> /u/Ralph--Hinkley </a> <br/> <span><a href="https://www.youtube.com/watch?v=x8A9Y1Dq_cQ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihsisb/ray_charles_and_willie_nelson_seven_spanish/">[comments]</a></span>
+
+## Frank Zappa - Muffin Man [Prog Rock]
+ - [https://www.reddit.com/r/Music/comments/1ihs2f0/frank_zappa_muffin_man_prog_rock](https://www.reddit.com/r/Music/comments/1ihs2f0/frank_zappa_muffin_man_prog_rock)
+ - RSS feed: $source
+ - date published: 2025-02-04T20:48:32+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/do-call-me-papi"> /u/do-call-me-papi </a> <br/> <span><a href="https://youtu.be/j-yco1ORMK0?si=Gu0CsA6LE7e47L-b">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihs2f0/frank_zappa_muffin_man_prog_rock/">[comments]</a></span>
+
+## Pop Will Eat Itself - Not Now James, We're Busy [Alt Rock]
+ - [https://www.reddit.com/r/Music/comments/1ihruu0/pop_will_eat_itself_not_now_james_were_busy_alt](https://www.reddit.com/r/Music/comments/1ihruu0/pop_will_eat_itself_not_now_james_were_busy_alt)
+ - RSS feed: $source
+ - date published: 2025-02-04T20:40:00+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/solus-mort"> /u/solus-mort </a> <br/> <span><a href="https://youtu.be/ykPoCFZODPU?si=qENn22hsbQnizsRQ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihruu0/pop_will_eat_itself_not_now_james_were_busy_alt/">[comments]</a></span>
+
+## Bad Religion - American Jesus [Punk Rock]
+ - [https://www.reddit.com/r/Music/comments/1ihqayi/bad_religion_american_jesus_punk_rock](https://www.reddit.com/r/Music/comments/1ihqayi/bad_religion_american_jesus_punk_rock)
+ - RSS feed: $source
+ - date published: 2025-02-04T19:36:50+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/solus-mort"> /u/solus-mort </a> <br/> <span><a href="https://youtu.be/12kcpP-8jfM?si=PMmG1OGO--1y-02b">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihqayi/bad_religion_american_jesus_punk_rock/">[comments]</a></span>
+
+## Country music singer John Rich slams Beyoncé for Grammy win and blasts the show for trying to become more diverse
+ - [https://www.reddit.com/r/Music/comments/1ihptv3/country_music_singer_john_rich_slams_beyoncé_for](https://www.reddit.com/r/Music/comments/1ihptv3/country_music_singer_john_rich_slams_beyoncé_for)
+ - RSS feed: $source
+ - date published: 2025-02-04T19:17:36+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/TheExpressUS"> /u/TheExpressUS </a> <br/> <span><a href="https://www.the-express.com/entertainment/celebrity-news/162629/Country-music-legend-slams-Beyonc-for-Grammy-diversity-win">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihptv3/country_music_singer_john_rich_slams_beyoncé_for/">[comments]</a></span>
+
+## Joy Division - Transmission [Post-Punk]
+ - [https://www.reddit.com/r/Music/comments/1ihpaat/joy_division_transmission_postpunk](https://www.reddit.com/r/Music/comments/1ihpaat/joy_division_transmission_postpunk)
+ - RSS feed: $source
+ - date published: 2025-02-04T18:55:19+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/dragonoid296"> /u/dragonoid296 </a> <br/> <span><a href="https://youtu.be/6dBt3mJtgJc?si=Om3AS3VIt0wbByfU">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihpaat/joy_division_transmission_postpunk/">[comments]</a></span>
+
+## Ticketmaster boss still claims concerts are 'fairly priced' and denies company rips off fans
+ - [https://www.reddit.com/r/Music/comments/1ihp9pr/ticketmaster_boss_still_claims_concerts_are](https://www.reddit.com/r/Music/comments/1ihp9pr/ticketmaster_boss_still_claims_concerts_are)
+ - RSS feed: $source
+ - date published: 2025-02-04T18:54:37+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/daily_mirror"> /u/daily_mirror </a> <br/> <span><a href="https://www.mirror.co.uk/news/business/ticketmaster-boss-still-claims-gigs-34615429">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihp9pr/ticketmaster_boss_still_claims_concerts_are/">[comments]</a></span>
+
+## Deltron 3030 - Virus [Hip-Hop/Rap]
+ - [https://www.reddit.com/r/Music/comments/1ihnyk2/deltron_3030_virus_hiphoprap](https://www.reddit.com/r/Music/comments/1ihnyk2/deltron_3030_virus_hiphoprap)
+ - RSS feed: $source
+ - date published: 2025-02-04T18:02:01+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/MrZombified"> /u/MrZombified </a> <br/> <span><a href="https://www.youtube.com/watch?v=34k3GwQtbbs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihnyk2/deltron_3030_virus_hiphoprap/">[comments]</a></span>
+
+## Bad Religion - Them & Us [Punk Rock]
+ - [https://www.reddit.com/r/Music/comments/1ihntie/bad_religion_them_us_punk_rock](https://www.reddit.com/r/Music/comments/1ihntie/bad_religion_them_us_punk_rock)
+ - RSS feed: $source
+ - date published: 2025-02-04T17:56:34+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Weavel"> /u/Weavel </a> <br/> <span><a href="https://youtu.be/jb1rkBqldDM?si=PSv22yyx1XI3bKzV">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihntie/bad_religion_them_us_punk_rock/">[comments]</a></span>
+
+## Nirvana - Love Buzz [grunge]
+ - [https://www.reddit.com/r/Music/comments/1ihmzf5/nirvana_love_buzz_grunge](https://www.reddit.com/r/Music/comments/1ihmzf5/nirvana_love_buzz_grunge)
+ - RSS feed: $source
+ - date published: 2025-02-04T17:22:28+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/d3rk2007"> /u/d3rk2007 </a> <br/> <span><a href="https://youtu.be/ZEh3mO9MPV0?si=YsEoWCTveCgP1fT2">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihmzf5/nirvana_love_buzz_grunge/">[comments]</a></span>
+
+## Rapper Killer Mike sues security firms over 'degrading' and 'embarrassing' 2024 Grammys arrest
+ - [https://www.reddit.com/r/Music/comments/1ihmwvg/rapper_killer_mike_sues_security_firms_over](https://www.reddit.com/r/Music/comments/1ihmwvg/rapper_killer_mike_sues_security_firms_over)
+ - RSS feed: $source
+ - date published: 2025-02-04T17:19:35+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/TheMirrorUS"> /u/TheMirrorUS </a> <br/> <span><a href="https://www.themirror.com/entertainment/rapper-killer-mike-sues-security-953100">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihmwvg/rapper_killer_mike_sues_security_firms_over/">[comments]</a></span>
+
+## Beyonce Fans Call-Out Ticketmaster After Warning of 'Speculative' Tickets
+ - [https://www.reddit.com/r/Music/comments/1ihmue8/beyonce_fans_callout_ticketmaster_after_warning](https://www.reddit.com/r/Music/comments/1ihmue8/beyonce_fans_callout_ticketmaster_after_warning)
+ - RSS feed: $source
+ - date published: 2025-02-04T17:16:42+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/_ticketnews"> /u/_ticketnews </a> <br/> <span><a href="https://www.ticketnews.com/2025/02/beyonce-fans-call-out-ticketmaster-after-warning-of-speculative-tickets/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihmue8/beyonce_fans_callout_ticketmaster_after_warning/">[comments]</a></span>
+
+## The Magnetic Fields - Papa Was a Rodeo [Country-ish]
+ - [https://www.reddit.com/r/Music/comments/1ihmd7l/the_magnetic_fields_papa_was_a_rodeo_countryish](https://www.reddit.com/r/Music/comments/1ihmd7l/the_magnetic_fields_papa_was_a_rodeo_countryish)
+ - RSS feed: $source
+ - date published: 2025-02-04T16:57:54+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/sozh"> /u/sozh </a> <br/> <span><a href="https://youtu.be/_m_EzovsmK4?si=HcD5OIvQJNf8p9on">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihmd7l/the_magnetic_fields_papa_was_a_rodeo_countryish/">[comments]</a></span>
+
+## Record Store Day creator Chris Brown leaving Bull Moose music chain
+ - [https://www.reddit.com/r/Music/comments/1ihlxnb/record_store_day_creator_chris_brown_leaving_bull](https://www.reddit.com/r/Music/comments/1ihlxnb/record_store_day_creator_chris_brown_leaving_bull)
+ - RSS feed: $source
+ - date published: 2025-02-04T16:40:22+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/RayRouthier"> /u/RayRouthier </a> <br/> <span><a href="https://www.pressherald.com/?p=7420906">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihlxnb/record_store_day_creator_chris_brown_leaving_bull/">[comments]</a></span>
+
+## Depeche Mode - New Life [Electronica]
+ - [https://www.reddit.com/r/Music/comments/1ihljzg/depeche_mode_new_life_electronica](https://www.reddit.com/r/Music/comments/1ihljzg/depeche_mode_new_life_electronica)
+ - RSS feed: $source
+ - date published: 2025-02-04T16:24:46+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/A00077"> /u/A00077 </a> <br/> <span><a href="https://youtu.be/ZFnEhwmpjXI?si=_71dFHzLmkg0LjG5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihljzg/depeche_mode_new_life_electronica/">[comments]</a></span>
+
+## NOFX - The Idiots Are Taking Over [Punk]
+ - [https://www.reddit.com/r/Music/comments/1ihkmjg/nofx_the_idiots_are_taking_over_punk](https://www.reddit.com/r/Music/comments/1ihkmjg/nofx_the_idiots_are_taking_over_punk)
+ - RSS feed: $source
+ - date published: 2025-02-04T15:45:59+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/a_mex_t-rex"> /u/a_mex_t-rex </a> <br/> <span><a href="https://m.youtube.com/watch?v=MU1aD0xbNOw&amp;pp=ygUadGhlIGlkaW90cyBhcmUgdGFraW5nIG92ZXI%3D">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihkmjg/nofx_the_idiots_are_taking_over_punk/">[comments]</a></span>
+
+## Tool - Lateralus [Prog Metal] cover by an incredibly talented guy in his bedroom
+ - [https://www.reddit.com/r/Music/comments/1ihjr0g/tool_lateralus_prog_metal_cover_by_an_incredibly](https://www.reddit.com/r/Music/comments/1ihjr0g/tool_lateralus_prog_metal_cover_by_an_incredibly)
+ - RSS feed: $source
+ - date published: 2025-02-04T15:08:05+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/crackerjam"> /u/crackerjam </a> <br/> <span><a href="https://www.youtube.com/watch?v=KJHjLgv1EP4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihjr0g/tool_lateralus_prog_metal_cover_by_an_incredibly/">[comments]</a></span>
+
+## Béla Fleck & The Original Flecktones - Sinister Minister [Jazz Fusion]
+ - [https://www.reddit.com/r/Music/comments/1ihijpo/béla_fleck_the_original_flecktones_sinister](https://www.reddit.com/r/Music/comments/1ihijpo/béla_fleck_the_original_flecktones_sinister)
+ - RSS feed: $source
+ - date published: 2025-02-04T14:13:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/do-call-me-papi"> /u/do-call-me-papi </a> <br/> <span><a href="https://youtu.be/w9XDUBDMNuk?si=opNicbjT776wdULG">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihijpo/béla_fleck_the_original_flecktones_sinister/">[comments]</a></span>
+
+## Killer Mike - "Reagan" [rap]
+ - [https://www.reddit.com/r/Music/comments/1ihij4h/killer_mike_reagan_rap](https://www.reddit.com/r/Music/comments/1ihij4h/killer_mike_reagan_rap)
+ - RSS feed: $source
+ - date published: 2025-02-04T14:12:25+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Awad-love"> /u/Awad-love </a> <br/> <span><a href="https://youtu.be/6lIqNjC1RKU?si=R1V-eo8FVfWKIyab">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihij4h/killer_mike_reagan_rap/">[comments]</a></span>
+
+## Sponge - Plowed [Alt Rock]
+ - [https://www.reddit.com/r/Music/comments/1ihihqp/sponge_plowed_alt_rock](https://www.reddit.com/r/Music/comments/1ihihqp/sponge_plowed_alt_rock)
+ - RSS feed: $source
+ - date published: 2025-02-04T14:10:37+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/solus-mort"> /u/solus-mort </a> <br/> <span><a href="https://youtu.be/-ljLmp2rIKA?si=ZnRIAwq--evanwVU">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihihqp/sponge_plowed_alt_rock/">[comments]</a></span>
+
+## Helmet - In the Meantime [Alt Metal]
+ - [https://www.reddit.com/r/Music/comments/1ihifj4/helmet_in_the_meantime_alt_metal](https://www.reddit.com/r/Music/comments/1ihifj4/helmet_in_the_meantime_alt_metal)
+ - RSS feed: $source
+ - date published: 2025-02-04T14:07:42+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/do-call-me-papi"> /u/do-call-me-papi </a> <br/> <span><a href="https://youtu.be/u5mcjJRXHEM?si=BYkUKIqpDboFnxsP">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihifj4/helmet_in_the_meantime_alt_metal/">[comments]</a></span>
+
+## Nirvana - In Bloom [Pop-Punk]
+ - [https://www.reddit.com/r/Music/comments/1ihiecs/nirvana_in_bloom_poppunk](https://www.reddit.com/r/Music/comments/1ihiecs/nirvana_in_bloom_poppunk)
+ - RSS feed: $source
+ - date published: 2025-02-04T14:06:08+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/A00077"> /u/A00077 </a> <br/> <span><a href="https://youtu.be/PbgKEjNBHqM?si=xjQ39diOabr-1fmH">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihiecs/nirvana_in_bloom_poppunk/">[comments]</a></span>
+
+## Crash Test Dummies - Afternoons & Coffeespoons [Alt Rock]
+ - [https://www.reddit.com/r/Music/comments/1ihhvr4/crash_test_dummies_afternoons_coffeespoons_alt](https://www.reddit.com/r/Music/comments/1ihhvr4/crash_test_dummies_afternoons_coffeespoons_alt)
+ - RSS feed: $source
+ - date published: 2025-02-04T13:40:56+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/stonebridge0"> /u/stonebridge0 </a> <br/> <span><a href="https://youtu.be/W0YeGv5xHUU?si=_A1_rKfIbt49yxUx">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihhvr4/crash_test_dummies_afternoons_coffeespoons_alt/">[comments]</a></span>
+
+## Black Gospel Archive receives $2.48 million grant to add oral history, increase space
+ - [https://www.reddit.com/r/Music/comments/1ihgepx/black_gospel_archive_receives_248_million_grant](https://www.reddit.com/r/Music/comments/1ihgepx/black_gospel_archive_receives_248_million_grant)
+ - RSS feed: $source
+ - date published: 2025-02-04T12:21:37+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br/> <span><a href="https://www.kwbu.org/news/2025-01-31/black-gospel-archive-receives-2-48-million-grant-to-add-oral-history-increase-space">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihgepx/black_gospel_archive_receives_248_million_grant/">[comments]</a></span>
+
+## R.E.M. - Losing My Religion [Alternative Rock] (1991)
+ - [https://www.reddit.com/r/Music/comments/1ihfw25/rem_losing_my_religion_alternative_rock_1991](https://www.reddit.com/r/Music/comments/1ihfw25/rem_losing_my_religion_alternative_rock_1991)
+ - RSS feed: $source
+ - date published: 2025-02-04T11:49:51+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/forceawakensplot2"> /u/forceawakensplot2 </a> <br/> <span><a href="https://www.youtube.com/watch?v=Efa6BAWPm9o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihfw25/rem_losing_my_religion_alternative_rock_1991/">[comments]</a></span>
+
+## Kiss - Detroit Rock City [Hard rock/Glam rock]
+ - [https://www.reddit.com/r/Music/comments/1ihfo5x/kiss_detroit_rock_city_hard_rockglam_rock](https://www.reddit.com/r/Music/comments/1ihfo5x/kiss_detroit_rock_city_hard_rockglam_rock)
+ - RSS feed: $source
+ - date published: 2025-02-04T11:35:24+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/-JurorNo8-"> /u/-JurorNo8- </a> <br/> <span><a href="https://www.youtube.com/watch?v=naXPoz1Du34&amp;pp=ygUWa2lzcyBkZXRyb2l0IHJvY2sgY2l0eQ%3D%3D">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihfo5x/kiss_detroit_rock_city_hard_rockglam_rock/">[comments]</a></span>
+
+## King Crimson - “The Sheltering Sky” [Instrumental]
+ - [https://www.reddit.com/r/Music/comments/1ihd5m1/king_crimson_the_sheltering_sky_instrumental](https://www.reddit.com/r/Music/comments/1ihd5m1/king_crimson_the_sheltering_sky_instrumental)
+ - RSS feed: $source
+ - date published: 2025-02-04T08:28:50+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/theweightofdreams8"> /u/theweightofdreams8 </a> <br/> <span><a href="https://m.youtube.com/watch?v=LIWRydRgqyA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihd5m1/king_crimson_the_sheltering_sky_instrumental/">[comments]</a></span>
+
+## Moby - Porcelain [Electronic]
+ - [https://www.reddit.com/r/Music/comments/1ihc221/moby_porcelain_electronic](https://www.reddit.com/r/Music/comments/1ihc221/moby_porcelain_electronic)
+ - RSS feed: $source
+ - date published: 2025-02-04T07:05:43+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Similar_Joke_5500"> /u/Similar_Joke_5500 </a> <br/> <span><a href="https://youtu.be/13EifDb4GYs?si=N1FIMcMlnWZRh1Sv">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihc221/moby_porcelain_electronic/">[comments]</a></span>
+
+## Amy Winehouse - Valerie [Funk/R&B] - Excellent Live Version
+ - [https://www.reddit.com/r/Music/comments/1ihc187/amy_winehouse_valerie_funkrb_excellent_live](https://www.reddit.com/r/Music/comments/1ihc187/amy_winehouse_valerie_funkrb_excellent_live)
+ - RSS feed: $source
+ - date published: 2025-02-04T07:04:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have always loved this song. There is an excellent live version on YouTube from a 2008 performance in London. The band was amazing. I think the vocals were mixed poorly in the live version, so I took the vocals from the classic BBC recording and put them over the live instrumental. This is an excellent version of the song that doesn&#39;t exist anywhere else. Hopefully, the jumpshare works. The bassline is lethal.</p> <p><a href="https://jmp.sh/yYnv5N72">https://jmp.sh/yYnv5N72</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fun-Definition8156"> /u/Fun-Definition8156 </a> <br/> <span><a href="https://www.reddit.com/r/Music/comments/1ihc187/amy_winehouse_valerie_funkrb_excellent_live/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ihc187/amy_winehouse_valerie_funkrb_excellent_live/">[comments]</a></span>
+
+## Pete Seeger (Live) - We shall overcome ...1963 [American History Music]
+ - [https://www.reddit.com/r/Music/comments/1ih9uhz/pete_seeger_live_we_shall_overcome_1963_american](https://www.reddit.com/r/Music/comments/1ih9uhz/pete_seeger_live_we_shall_overcome_1963_american)
+ - RSS feed: $source
+ - date published: 2025-02-04T04:46:49+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/jjmk2014"> /u/jjmk2014 </a> <br/> <span><a href="https://youtu.be/1osKWCDXl40?feature=shared">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ih9uhz/pete_seeger_live_we_shall_overcome_1963_american/">[comments]</a></span>
+
+## Dave Grohl to play SNL's 50th anniversary concert
+ - [https://www.reddit.com/r/Music/comments/1ih8e8r/dave_grohl_to_play_snls_50th_anniversary_concert](https://www.reddit.com/r/Music/comments/1ih8e8r/dave_grohl_to_play_snls_50th_anniversary_concert)
+ - RSS feed: $source
+ - date published: 2025-02-04T03:25:54+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Edm_vanhalen1981"> /u/Edm_vanhalen1981 </a> <br/> <span><a href="https://consequence.net/2025/02/dave-grohl-snl-50th-concert/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ih8e8r/dave_grohl_to_play_snls_50th_anniversary_concert/">[comments]</a></span>
+
+## The Church - Under The Milky Way - [Rock]
+ - [https://www.reddit.com/r/Music/comments/1ih7um6/the_church_under_the_milky_way_rock](https://www.reddit.com/r/Music/comments/1ih7um6/the_church_under_the_milky_way_rock)
+ - RSS feed: $source
+ - date published: 2025-02-04T02:58:02+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/caffeine1004"> /u/caffeine1004 </a> <br/> <span><a href="https://youtu.be/b8sTa95rJmQ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ih7um6/the_church_under_the_milky_way_rock/">[comments]</a></span>
+
+## Janelle Monáe Slams Nelly as 'Fool' for Performing at Trump Inauguration: 'You Sold Out'
+ - [https://www.reddit.com/r/Music/comments/1ih7rw8/janelle_monáe_slams_nelly_as_fool_for_performing](https://www.reddit.com/r/Music/comments/1ih7rw8/janelle_monáe_slams_nelly_as_fool_for_performing)
+ - RSS feed: $source
+ - date published: 2025-02-04T02:54:10+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Top-Three-USA"> /u/Top-Three-USA </a> <br/> <span><a href="https://www.topthreeus.com/janelle-monae-calls-out-nelly-trump-inauguration-performance-sellout-fool/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ih7rw8/janelle_monáe_slams_nelly_as_fool_for_performing/">[comments]</a></span>
+
+## Sean ‘Diddy’ Combs Accused of Drugging and Groping Aspiring Male Musician in New Lawsuit
+ - [https://www.reddit.com/r/Music/comments/1ih48fb/sean_diddy_combs_accused_of_drugging_and_groping](https://www.reddit.com/r/Music/comments/1ih48fb/sean_diddy_combs_accused_of_drugging_and_groping)
+ - RSS feed: $source
+ - date published: 2025-02-04T00:04:30+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/mcfw31"> /u/mcfw31 </a> <br/> <span><a href="https://variety.com/2025/music/news/sean-diddy-combs-drugging-groping-aspiring-male-musician-lawsuit-1236296130/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Music/comments/1ih48fb/sean_diddy_combs_accused_of_drugging_and_groping/">[comments]</a></span>
+

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-04T16:21:27+00:00",
+        "description": "<p><em>Users who take advantage of the new DISA STIG can give their AlmaLinux servers military-grade hardening.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/02/almalinux-now-has-a-dod-guide-for-security-hardening-the-distro-as-much-as-you-want/\">AlmaLinux Now Has a DOD Guide for Security Hardening the Distro as Much as You Want</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 2039948,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/02/almalinux-now-has-a-dod-guide-for-security-hardening-the-distro-as-much-as-you-want",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AlmaLinux Now Has a DOD Guide for Security Hardening the Distro as Much as You Want",
+        "vote": 0
+    }
+]

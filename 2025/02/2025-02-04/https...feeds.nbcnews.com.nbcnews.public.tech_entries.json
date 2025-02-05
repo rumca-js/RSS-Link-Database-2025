@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-04T20:00:46+00:00",
+        "description": "In this interview that aired on TODAY on March 26, 1984, Bill Gates, then 28, sits down with Jane Pauley to talk about the early days of Microsoft, if he could see himself working for someone else and dodges questions about when he became a millionaire.",
+        "id": 2042100,
+        "language": "en-US",
+        "link": "https://www.today.com/video/bill-gates-talks-microsoft-early-days-net-worth-on-today-in-1984-231081029899",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_02/tdy_news_bill_gates_840326_250204_2-aqne4d.jpg",
+        "title": "From 1984: Bill Gates talks Microsoft early days, millionaire status",
+        "vote": 0
+    }
+]

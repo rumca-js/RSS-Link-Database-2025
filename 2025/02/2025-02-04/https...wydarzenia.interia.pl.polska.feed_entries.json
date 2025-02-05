@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-04T10:50:26+00:00",
+        "description": "<p><a href=\"https://wydarzenia.interia.pl/kraj/news-korekta-w-formularzu-pit-resort-ostrzega-przed-pulapka,nId,7903643\"><img src=\"https://i.iplsc.com/korekta-w-formularzu-pit-resort-ostrzega-przed-pulapka/000GDZKB1F0PN4MT-C321.jpg\" alt=\"Korekta w formularzu PIT? Resort ostrzega przed pu\u0142apk\u0105\" align=\"left\" /></a>Ministerstwo Finans\u00f3w ostrzega podatnik\u00f3w przed fal\u0105 oszustw internetowych, kt\u00f3re maj\u0105 na celu wy\u0142udzenie danych osobowych oraz zainfekowanie komputer\u00f3w z\u0142o\u015bliwym oprogramowaniem. Oszu\u015bci wysy\u0142aj\u0105 fa\u0142szywe wiadomo\u015bci e-mail, podszywaj\u0105c si\u0119 pod Krajow\u0105 Administracj\u0119 Skarbow\u0105. Jak si\u0119 ustrzec przed oszustwem i gdzie zg\u0142osi\u0107 jego pr\u00f3b\u0119?</p><br clear=\"all\" />",
+        "id": 2037312,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/kraj/news-korekta-w-formularzu-pit-resort-ostrzega-przed-pulapka,nId,7903643",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Korekta w formularzu PIT? Resort ostrzega przed pu\u0142apk\u0105",
+        "vote": 0
+    }
+]

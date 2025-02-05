@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "The Dave Cullen Show",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-04T00:18:38.958974+00:00",
+        "description": "This channel is dedicated to Movie Reviews, Film critique, discussion of TV Shows, Pop Culture and Video Games in my usual caustic and sardonic manner.",
+        "id": 2034825,
+        "language": "en",
+        "link": "https://odysee.com/$/rss/@TheDaveCullenShow:7",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 515,
+        "source_url": "https://odysee.com/$/rss/@TheDaveCullenShow:7",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/UCDVb4m_5QHhZElT47E1oODg",
+        "title": "The Dave Cullen Show on Odysee",
+        "vote": 0
+    }
+]

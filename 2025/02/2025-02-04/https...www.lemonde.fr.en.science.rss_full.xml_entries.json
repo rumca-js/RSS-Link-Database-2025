@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-04T13:51:37+00:00",
+        "description": "The Czech prime minister announced on Tuesday that the skeleton remains of the Australopithecus will go on display in Prague next August.",
+        "id": 2038518,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/europe/article/2025/02/04/3-18-million-year-old-lucy-to-make-first-ever-visit-to-europe_6737766_143.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/02/04/688/0/8256/4128/644/322/60/0/b65ab81_ftp-import-images-1-j2jirjwioznu-5938519-01-06.jpg",
+        "title": "3.18 million-year-old Lucy to make first ever visit to Europe",
+        "vote": 0
+    }
+]

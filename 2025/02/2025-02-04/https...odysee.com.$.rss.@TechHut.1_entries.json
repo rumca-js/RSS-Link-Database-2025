@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-04T00:18:34.278950+00:00",
+        "description": "TechHut brings detailed guides, tutorials, tips-and-tricks to the everyday user!<br /><br />I'm a casual gamer, tech enthusiast, hardware novice, and overall geek. Here is a place I can express that. The best way to learn new skills is to study to teach. Here is where I teach. Some of the topics I will continue to discuss involve VirtualBox, Windows 10, Linux, PC Gaming, and much more!",
+        "id": 2034824,
+        "language": "en",
+        "link": "https://odysee.com/$/rss/@TechHut:1",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 516,
+        "source_url": "https://odysee.com/$/rss/@TechHut:1",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/UCjSEJkpGbcZhvo0lr-44X_w",
+        "title": "TechHut on Odysee",
+        "vote": 0
+    }
+]

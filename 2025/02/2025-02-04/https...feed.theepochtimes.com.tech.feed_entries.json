@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-04T23:02:25+00:00",
+        "description": "Apple receives billions of dollars in revenue from Google, which might get impacted based on the court\u2019s decision.",
+        "id": 2043197,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/court-denies-apples-request-to-intervene-in-google-search-monopoly-case-5804115",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2021/11/17/2021-11-16T111250Z_1_LYNXMPEHAF0GU_RTROPTP_4_GOOGLE-APPLE-700x420.jpg",
+        "title": "Court Denies Apple\u2019s Request to Intervene in Google Search Monopoly Case",
+        "vote": 0
+    }
+]

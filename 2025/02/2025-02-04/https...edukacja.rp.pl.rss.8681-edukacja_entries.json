@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-04T03:26:09+00:00",
+        "description": "Eksperci nie s\u0105 zgodni, czy studni\u00f3wki nale\u017cy traktowa\u0107 jako prywatne imprezy i pozwoli\u0107 m\u0142odym doros\u0142ym pi\u0107 alkohol, czy jako wydarzenia organizowane \u201epod okiem\u201d dyrektora i nauczycieli. A to ma znaczenie, bo bawi\u0105 si\u0119 na nich te\u017c niepe\u0142noletni.",
+        "id": 2035619,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/prawo-dla-ciebie/art41760601-czy-na-studniowce-mozna-pic-alkohol-rzeczpospolita-wyjasnia",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Czy na studni\u00f3wce mo\u017cna pi\u0107 alkohol? Rzeczpospolita wyja\u015bnia",
+        "vote": 0
+    }
+]

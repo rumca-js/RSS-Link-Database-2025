@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "SAMTIME",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-04T00:18:21.863191+00:00",
+        "description": "Specialising in making tech funny.<br />Escape the ordinary and embrace the FUNKY!<br /><br />-----------------------------------------------<br /><br />NEW VIDEO EVERY MON, WED & FRI!!<br /><br />-----------------------------------------------<br /><br />To chat, tweet @samtimenews<br />For business inquiries, please email: sam@funkytimeproductions.com<br /><br />FUNKY TIME WEBSITE!! http://funkytime.tv/",
+        "id": 2034823,
+        "language": "en",
+        "link": "https://odysee.com/$/rss/@samtime:1",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 517,
+        "source_url": "https://odysee.com/$/rss/@samtime:1",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/UCd6vEDS3SOhWbXZrxbrf_bw",
+        "title": "SAMTIME on Odysee",
+        "vote": 0
+    }
+]

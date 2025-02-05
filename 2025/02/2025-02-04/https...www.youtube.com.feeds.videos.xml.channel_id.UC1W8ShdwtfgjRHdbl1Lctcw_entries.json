@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-04T21:47:41+00:00",
+        "description": "I colorized, restored, and designed sound for this rare video of Cairo, Egypt in the 1920s. The footage showcases both ancient architecture, tracing back to the Fatimid, Mamluk, and Ottoman periods, and modern European-style buildings, reflecting a city divided between the traditional Arab quarter and the business district. The video also captures the Pyramids of Giza, including the Sphinx, which had just been excavated from the sands.\n\n00:05 CAIRO\n01:49 EUROPEAN CITY\n03:26 STREETS IN MOUKSI\n06:06 TOMBS OF THE MAMELUKES\n06:23 TOMBS OF THE KHALIFES \n07:06 THE NIL \n08:50 THE PYRAMIDS\n\n\nVideo Restoration Process:\n\u2714 FPS boosted to 60 frames per second \n\u2714 Image resolution boosted up to HD \n\u2714 Improved video sharpness and brightness \n\u2714 Colorized only for the ambiance (not historically accurate)\n\u2714added sound design only for the ambiance\n\u2714restoration:(stabilisation,denoise,cleand,deblur) \n\nB&W Video Source: Mus\u00e9e d\u00e9partemental Albert-Kahn dans le d\u00e9partement des Hauts-de-Seine (Sauvageot, Cam",
+        "id": 2042444,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=lUmOY_-Cs5I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lUmOY_-Cs5I/hqdefault.jpg",
+        "title": "Cairo, Egypt 1920s in color [60fps, Remastered] w/sound design added",
+        "vote": 0
+    }
+]

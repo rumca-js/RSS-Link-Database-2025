@@ -1,0 +1,86 @@
+# Source:Django, URL:https://www.reddit.com/r/django/.rss, language:
+
+## Choosing the Right Admin/CMS for Managing E-Learning Courses in a Django App
+ - [https://www.reddit.com/r/django/comments/1ihw7sm/choosing_the_right_admincms_for_managing](https://www.reddit.com/r/django/comments/1ihw7sm/choosing_the_right_admincms_for_managing)
+ - RSS feed: $source
+ - date published: 2025-02-04T23:44:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m building an e-learning platform using Django and need a backend admin/CMS for internal staff to manage online courses. They will be responsible for tasks like adding modules, course descriptions, teacher profiles, pricing, and more.</p> <p>Django Admin seems to work well for this purpose so far, but I’ve read that it&#39;s not ideal for complex use cases at scale. Eventually, the platform will have over 1,000 courses and a team of 10-20 staff members handling content. I&#39;m currently testing Django Unfold, which looks promising.</p> <p>Would it be better to continue with Django Admin, customize it further, or explore a different CMS solution? Any suggestions for tools or best practices for scaling this efficiently?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/trojans10"> /u/trojans10 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1ihw7sm/choosing_the_right_admincms_for_managing/"
+
+## Corey Schafer's Django Blog Tutorial
+ - [https://www.reddit.com/r/django/comments/1ihw1ga/corey_schafers_django_blog_tutorial](https://www.reddit.com/r/django/comments/1ihw1ga/corey_schafers_django_blog_tutorial)
+ - RSS feed: $source
+ - date published: 2025-02-04T23:36:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys! I was just reaching out to see if anyone else has completed finishing this series. I&#39;m looking to get some help because on video 13, right before deploying, I had issues setting up my aws S3. I ran a test script to see if sending a file locally would work and it worked. However, if I run my blog locally and update a profile picture, a new image would be added in my local media folder but not in S3. I made sure to set up my environment variables correctly and to set up my aws stuff according to the video. Anything helps! I also know this is very vague so please feel free to ask what i&#39;ve tried so far. Thank you!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OpeningNo5219"> /u/OpeningNo5219 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1ihw1ga/corey_schafers_django_blog_tutorial/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1ihw1ga/corey_
+
+## Where to host react+django websites
+ - [https://www.reddit.com/r/django/comments/1ihu1ib/where_to_host_reactdjango_websites](https://www.reddit.com/r/django/comments/1ihu1ib/where_to_host_reactdjango_websites)
+ - RSS feed: $source
+ - date published: 2025-02-04T22:09:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Can someone tell me a good place to host a website made using react and django</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MatterFeisty8438"> /u/MatterFeisty8438 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1ihu1ib/where_to_host_reactdjango_websites/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1ihu1ib/where_to_host_reactdjango_websites/">[comments]</a></span>
+
+## Django templates or HTMX
+ - [https://www.reddit.com/r/django/comments/1ihtvyj/django_templates_or_htmx](https://www.reddit.com/r/django/comments/1ihtvyj/django_templates_or_htmx)
+ - RSS feed: $source
+ - date published: 2025-02-04T22:03:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I’m making a new website and just want to hear what the people have to say about Django templates and HTMX and how they compare.</p> <p>Trying to decide the route I want to go for this website, I want it to be modern enough to not have to touch it for a few years but also not clunky, so it’s fast and simple. Sure I could just make a JavaScript, HTML and CSS website but I want the admin panel built into Django so I can administer my blog posts. (I’m sure there is an better way, if you know it let me know) </p> <p>The reason why I even thought about HTMX is because of the web-socket support. In the future I plan to add a section for live sensor data from hardware I work with as a hobby. </p> <p>What are your thoughts and opinions? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/snakybasket9"> /u/snakybasket9 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1ihtvyj/django_tem
+
+## Optimizing data storage in the database
+ - [https://www.reddit.com/r/django/comments/1ihiz3m/optimizing_data_storage_in_the_database](https://www.reddit.com/r/django/comments/1ihiz3m/optimizing_data_storage_in_the_database)
+ - RSS feed: $source
+ - date published: 2025-02-04T14:33:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi All!</p> <p>My Django apps pulls data from an external API and stores it in the app database. The data changes over time (as it can be updated on the platform I am pulling from) but for various reasons let&#39;s assume that I have to retain my own &quot;synced&quot; copy.</p> <p>What is the best practice to compare the data I got from the API to the one that I have saved? is there a package that helps do that optimally? I have written some code (quick and dirty) that does create or update, but I feel it is not very efficient or optimal.</p> <p>Will appreciate any advice.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Crazy-Temperature669"> /u/Crazy-Temperature669 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1ihiz3m/optimizing_data_storage_in_the_database/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1ihiz3m/optimizing_data_storage_in_the_database/">[c
+
+## Django migrations not applying to database?
+ - [https://www.reddit.com/r/django/comments/1ihhcc3/django_migrations_not_applying_to_database](https://www.reddit.com/r/django/comments/1ihhcc3/django_migrations_not_applying_to_database)
+ - RSS feed: $source
+ - date published: 2025-02-04T13:13:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>What can be the reason that when I run</p> <p><code>python3</code> <a href="http://manage.py"><code>manage.py</code></a> <code>migrate --database=logging</code></p> <p>the models of tables specified in the migration files are not applied and tables are not created? I get &quot;No migrations to apply&quot;.</p> <p>EDIT: Yes I do run makemigrations before attempting &quot;migrate&quot; but it still doesn&#39;t work.</p> <p>The database is in a PostGreSQL Docker container and the connection to the db itself works.</p> <p>The routing function for migrations is in the screenshot.</p> <p>Thanks a lot!</p> <p><a href="https://preview.redd.it/99h3gsyug4he1.png?width=1694&amp;format=png&amp;auto=webp&amp;s=26afc2a17ce57eb3f822054437d3b12f3dbdd8a1">https://preview.redd.it/99h3gsyug4he1.png?width=1694&amp;format=png&amp;auto=webp&amp;s=26afc2a17ce57eb3f822054437d3b12f3dbdd8a1</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/
+
+## PowerBi Embedded into Django with SSO
+ - [https://www.reddit.com/r/django/comments/1iheu8i/powerbi_embedded_into_django_with_sso](https://www.reddit.com/r/django/comments/1iheu8i/powerbi_embedded_into_django_with_sso)
+ - RSS feed: $source
+ - date published: 2025-02-04T10:37:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys, tried to look for something online, but I think it works. But talk to me about why I shouldn’t do this.</p> <p>Landing Page with PowerBi Reports. I want to use Microsoft(Azure SSO) to log in people then redirect to home page.</p> <p>I’m not handling any credentials/profiles. Will be purely Django Templates. (Maybe Django is overkill but it’s the one I’m most familiar with) </p> <p>Is just using the service providers and Django-auth all that’s needed?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SpareIntroduction721"> /u/SpareIntroduction721 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1iheu8i/powerbi_embedded_into_django_with_sso/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1iheu8i/powerbi_embedded_into_django_with_sso/">[comments]</a></span>
+
+## A really specific situation with a page redirecting to itself in another language.
+ - [https://www.reddit.com/r/django/comments/1iheltr/a_really_specific_situation_with_a_page](https://www.reddit.com/r/django/comments/1iheltr/a_really_specific_situation_with_a_page)
+ - RSS feed: $source
+ - date published: 2025-02-04T10:19:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>My website is available in english and pt-br, for that, I&#39;m using the <code>django.template.context_processors.i18ndjango</code>.</p> <p>My settings look like this: </p> <p><code>LANGUAGE_CODE = &#39;en-us&#39;</code><br/> <code>LANGUAGES = [ (&#39;en&#39;, &#39;English&#39;), (&#39;pt-br&#39;, &#39;Português&#39;), ]</code><br/> <code>TIME_ZONE = &#39;America/Sao_Paulo&#39;</code><br/> <code>USE_I18N = True</code><br/> <code>USE_TZ = True</code><br/> <code>LOCALE_PATHS = [BASE_DIR / &#39;locale&#39;]</code></p> <p>Everything works correctly, but I need the option for the user to switch languages and stay on the same page.</p> <p>What I implemented is this form:<br/> <code>&lt;form action=&quot;{% url &#39;set_language&#39; %}&quot; method=&quot;post&quot; class=&quot;sub-menu-content flow&quot;&gt;</code></p> <p><code>{% csrf_token %}</code></p> <p><code>&lt;fieldset onchange=&quot;this.form.submit()&quot;&gt;</code></p> <p><code>&lt;label for=&
+
+## Deploy app
+ - [https://www.reddit.com/r/django/comments/1ihdz8l/deploy_app](https://www.reddit.com/r/django/comments/1ihdz8l/deploy_app)
+ - RSS feed: $source
+ - date published: 2025-02-04T09:32:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey! Has anyone used fly.io to deploy thier django project? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JulleDenStoreCaesar"> /u/JulleDenStoreCaesar </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1ihdz8l/deploy_app/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1ihdz8l/deploy_app/">[comments]</a></span>
+
+## Kindly give me an advice on seeking a job.
+ - [https://www.reddit.com/r/django/comments/1ihdx90/kindly_give_me_an_advice_on_seeking_a_job](https://www.reddit.com/r/django/comments/1ihdx90/kindly_give_me_an_advice_on_seeking_a_job)
+ - RSS feed: $source
+ - date published: 2025-02-04T09:28:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>I started learning coding on my own and worked as a freelancer developing static websites. Later, I picked up Python-Django and took a job as a <strong>Junior Software Developer</strong> on <strong>April 15, 2024</strong>.</p> <p>On <strong>August 19</strong>, both of my parents were involved in a serious accident, and my father had to undergo multiple surgeries, with his last operation taking place on <strong>December 31</strong>. Since the company did not offer me a work-from-home option despite my repeated requests, they closed my file.</p> <p>Now that I have fulfilled my responsibilities in taking care of my parents, I am actively looking for a job, but finding one has been challenging.</p> <p>The skills I have developed include <strong>Python, Django Framework, REST APIs, SQL, MySQL, AWS, HTML, CSS, and Git</strong>.</p> <p>Please provide me with advice on how to proceed.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="http
+
+## I’m struggling to find a good documentation on daphne production deployment with sse
+ - [https://www.reddit.com/r/django/comments/1ih63mz/im_struggling_to_find_a_good_documentation_on](https://www.reddit.com/r/django/comments/1ih63mz/im_struggling_to_find_a_good_documentation_on)
+ - RSS feed: $source
+ - date published: 2025-02-04T01:31:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m trying to deploy a Django app using Daphne in production, and I need to support Server-Sent Events (SSE). But I’m struggling to find clear documentation on how to set it up properly.</p> <p>How should I configure Daphne for SSE in production?</p> <p>If anyone has a working setup or knows of good resources, I’d really appreciate the help!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FamiliarPrinciple664"> /u/FamiliarPrinciple664 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1ih63mz/im_struggling_to_find_a_good_documentation_on/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1ih63mz/im_struggling_to_find_a_good_documentation_on/">[comments]</a></span>
+
+## [Official] MongoDB Django Backend Now Available in Public Preview
+ - [https://www.reddit.com/r/django/comments/1ih4hae/official_mongodb_django_backend_now_available_in](https://www.reddit.com/r/django/comments/1ih4hae/official_mongodb_django_backend_now_available_in)
+ - RSS feed: $source
+ - date published: 2025-02-04T00:15:39+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/TheEpicDev"> /u/TheEpicDev </a> <br/> <span><a href="https://www.mongodb.com/blog/post/mongodb-django-backend-now-available-public-preview">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1ih4hae/official_mongodb_django_backend_now_available_in/">[comments]</a></span>
+

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Coreteks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-04T00:17:28.317948+00:00",
+        "description": "Technology Analysis, Hardware Reviews, and Gaming Trends.",
+        "id": 2034819,
+        "language": "en",
+        "link": "https://odysee.com/$/rss/@coreteks:5",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 510,
+        "source_url": "https://odysee.com/$/rss/@coreteks:5",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://thumbnails.lbry.com/UCX_t3BvnQtS5IHzto_y7tbw",
+        "title": "Coreteks on Odysee",
+        "vote": 0
+    }
+]

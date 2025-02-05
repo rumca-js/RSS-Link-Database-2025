@@ -1,0 +1,212 @@
+# Source:r/gaming, URL:https://www.reddit.com/r/gaming/.rss, language:
+
+## Age of Empires II: DE and Age of Mythology: Retold coming to PlayStation 5. Expansions for AoM, AoE2 and AoE4 in 2025
+ - [https://www.reddit.com/r/gaming/comments/1ihu91c/age_of_empires_ii_de_and_age_of_mythology_retold](https://www.reddit.com/r/gaming/comments/1ihu91c/age_of_empires_ii_de_and_age_of_mythology_retold)
+ - RSS feed: $source
+ - date published: 2025-02-04T22:18:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihu91c/age_of_empires_ii_de_and_age_of_mythology_retold/"> <img src="https://external-preview.redd.it/6fea8Djkjk-K39kQe5aXtL-YKb4r7c_53zNpM4Kao2U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa5e9592bc69021d40184e6879a71fe54cdaed85" alt="Age of Empires II: DE and Age of Mythology: Retold coming to PlayStation 5. Expansions for AoM, AoE2 and AoE4 in 2025" title="Age of Empires II: DE and Age of Mythology: Retold coming to PlayStation 5. Expansions for AoM, AoE2 and AoE4 in 2025" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tempires"> /u/Tempires </a> <br/> <span><a href="https://www.ageofempires.com/news/whats-coming-in-2025-for-age-of-empires-and-age-of-mythology/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihu91c/age_of_empires_ii_de_and_age_of_mythology_retold/">[comments]</a></span> </td></tr></table>
+
+## Steam Survey for January 2025 shows Linux still above 2%
+ - [https://www.reddit.com/r/gaming/comments/1ihtyxs/steam_survey_for_january_2025_shows_linux_still](https://www.reddit.com/r/gaming/comments/1ihtyxs/steam_survey_for_january_2025_shows_linux_still)
+ - RSS feed: $source
+ - date published: 2025-02-04T22:06:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihtyxs/steam_survey_for_january_2025_shows_linux_still/"> <img src="https://external-preview.redd.it/NhhVhrL11o9kEkkOxnPc_OGSTaIM6do8evGg9OV6d0E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=15e2d25bb636273e7bfed85f7d9a1d86115891c2" alt="Steam Survey for January 2025 shows Linux still above 2%" title="Steam Survey for January 2025 shows Linux still above 2%" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/testus_maximus"> /u/testus_maximus </a> <br/> <span><a href="https://www.gamingonlinux.com/2025/02/steam-survey-for-january-2025-shows-linux-still-above-2-percent/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihtyxs/steam_survey_for_january_2025_shows_linux_still/">[comments]</a></span> </td></tr></table>
+
+## Games that 'cheated' to feel more fun
+ - [https://www.reddit.com/r/gaming/comments/1ihrx18/games_that_cheated_to_feel_more_fun](https://www.reddit.com/r/gaming/comments/1ihrx18/games_that_cheated_to_feel_more_fun)
+ - RSS feed: $source
+ - date published: 2025-02-04T20:42:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>Probably news to no one, but some games &#39;cheat&#39; to feel more fun or enhance the gameplay.</p> <p>For instance, the rubber banding (?) in Mario Kart that speeds up AI opponents who are behind to bring on the intensity.</p> <p>And I seem to recall something regarding the xenomorph in Alien Isolation always knowing your rough vicinity.</p> <p>Are there any other examples like these?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ChrisDtk"> /u/ChrisDtk </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ihrx18/games_that_cheated_to_feel_more_fun/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihrx18/games_that_cheated_to_feel_more_fun/">[comments]</a></span>
+
+## Kingdom Come: Deliverance II Official Launch Trailer
+ - [https://www.reddit.com/r/gaming/comments/1ihrcth/kingdom_come_deliverance_ii_official_launch](https://www.reddit.com/r/gaming/comments/1ihrcth/kingdom_come_deliverance_ii_official_launch)
+ - RSS feed: $source
+ - date published: 2025-02-04T20:19:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihrcth/kingdom_come_deliverance_ii_official_launch/"> <img src="https://external-preview.redd.it/0SW8n1MkIq65JD4iexEqP4kpsP9eCkhVcYzsWVlTLJg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=587c652230b204dcd8cb6a009bad7a4ec1588bfc" alt="Kingdom Come: Deliverance II Official Launch Trailer" title="Kingdom Come: Deliverance II Official Launch Trailer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Paul_cz"> /u/Paul_cz </a> <br/> <span><a href="https://www.youtube.com/watch?v=7ynJN-HejlY">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihrcth/kingdom_come_deliverance_ii_official_launch/">[comments]</a></span> </td></tr></table>
+
+## Cephalopods & Silhouettes 🦑
+ - [https://www.reddit.com/r/gaming/comments/1ihra1v/cephalopods_silhouettes](https://www.reddit.com/r/gaming/comments/1ihra1v/cephalopods_silhouettes)
+ - RSS feed: $source
+ - date published: 2025-02-04T20:16:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihra1v/cephalopods_silhouettes/"> <img src="https://preview.redd.it/7q4zqymbk6he1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca2fdf2fd2a3cd669148418be775d534ba13080d" alt="Cephalopods &amp; Silhouettes 🦑" title="Cephalopods &amp; Silhouettes 🦑" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LawrenceOnKeyboard"> /u/LawrenceOnKeyboard </a> <br/> <span><a href="https://i.redd.it/7q4zqymbk6he1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihra1v/cephalopods_silhouettes/">[comments]</a></span> </td></tr></table>
+
+## The Director of KDC2 talk about UE5 issues and mention that CDPr is struggling with it for The Witcher 4 development
+ - [https://www.reddit.com/r/gaming/comments/1ihqmjz/the_director_of_kdc2_talk_about_ue5_issues_and](https://www.reddit.com/r/gaming/comments/1ihqmjz/the_director_of_kdc2_talk_about_ue5_issues_and)
+ - RSS feed: $source
+ - date published: 2025-02-04T19:50:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihqmjz/the_director_of_kdc2_talk_about_ue5_issues_and/"> <img src="https://external-preview.redd.it/ZwhOjRASK3BmIfVIIrEcyjNEuYErk_D3QAN3OXQZtTA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=105f92fd2de4247df4098e6514bd47c70f883f4c" alt="The Director of KDC2 talk about UE5 issues and mention that CDPr is struggling with it for The Witcher 4 development" title="The Director of KDC2 talk about UE5 issues and mention that CDPr is struggling with it for The Witcher 4 development" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MyUserNameIsSkave"> /u/MyUserNameIsSkave </a> <br/> <span><a href="https://www.youtube.com/watch?v=dRQUeVhs7co">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihqmjz/the_director_of_kdc2_talk_about_ue5_issues_and/">[comments]</a></span> </td></tr></table>
+
+## Multiverse of the Dead 🧟‍♂️
+ - [https://www.reddit.com/r/gaming/comments/1ihocne/multiverse_of_the_dead](https://www.reddit.com/r/gaming/comments/1ihocne/multiverse_of_the_dead)
+ - RSS feed: $source
+ - date published: 2025-02-04T18:17:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihocne/multiverse_of_the_dead/"> <img src="https://preview.redd.it/wdu271r6z5he1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=06e0139e334f494042f4241eb2f5d9ad8042c2fb" alt="Multiverse of the Dead 🧟‍♂️" title="Multiverse of the Dead 🧟‍♂️" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Richthofen has been messing with the timelines again…</p> <p>Kyle Crane - Dying Light Coach - Left 4 Dead 2 Frank West - Dead Rising Richthofen - Call of Duty Zombies Leon S. Kennedy - Resident Evil Clementine - Telltale’s The Walking Dead<br/> Sam B - Dead Island Ellie - The Last of Us Juliet Starling - Lollipop Chainsaw </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Choombaaa"> /u/Choombaaa </a> <br/> <span><a href="https://i.redd.it/wdu271r6z5he1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihocne/multiverse_of_the_dead/">[comments]</a></span>
+
+## I modded Steam Reviews INTO Elden Ring (and they decide the difficulty)
+ - [https://www.reddit.com/r/gaming/comments/1ihnurw/i_modded_steam_reviews_into_elden_ring_and_they](https://www.reddit.com/r/gaming/comments/1ihnurw/i_modded_steam_reviews_into_elden_ring_and_they)
+ - RSS feed: $source
+ - date published: 2025-02-04T17:58:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihnurw/i_modded_steam_reviews_into_elden_ring_and_they/"> <img src="https://preview.redd.it/8u2kuy5iv5he1.gif?width=640&amp;crop=smart&amp;s=78c18c7a8c8a7d6fd30c8e023b6cfe6397ebe800" alt="I modded Steam Reviews INTO Elden Ring (and they decide the difficulty)" title="I modded Steam Reviews INTO Elden Ring (and they decide the difficulty)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Blurbss"> /u/Blurbss </a> <br/> <span><a href="https://i.redd.it/8u2kuy5iv5he1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihnurw/i_modded_steam_reviews_into_elden_ring_and_they/">[comments]</a></span> </td></tr></table>
+
+## Witcher 2 Triss Merigold Painted by Myself
+ - [https://www.reddit.com/r/gaming/comments/1ihnstz/witcher_2_triss_merigold_painted_by_myself](https://www.reddit.com/r/gaming/comments/1ihnstz/witcher_2_triss_merigold_painted_by_myself)
+ - RSS feed: $source
+ - date published: 2025-02-04T17:55:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihnstz/witcher_2_triss_merigold_painted_by_myself/"> <img src="https://preview.redd.it/q78jwfu8v5he1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=31f1c618eb081a61e4d45d80bade207e38fb86bc" alt="Witcher 2 Triss Merigold Painted by Myself" title="Witcher 2 Triss Merigold Painted by Myself" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CFGEXTREME"> /u/CFGEXTREME </a> <br/> <span><a href="https://i.redd.it/q78jwfu8v5he1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihnstz/witcher_2_triss_merigold_painted_by_myself/">[comments]</a></span> </td></tr></table>
+
+## What are some game campaigns that can be played solo, but are significantly better co-op
+ - [https://www.reddit.com/r/gaming/comments/1ihmxfw/what_are_some_game_campaigns_that_can_be_played](https://www.reddit.com/r/gaming/comments/1ihmxfw/what_are_some_game_campaigns_that_can_be_played)
+ - RSS feed: $source
+ - date published: 2025-02-04T17:20:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just looking thru my list of games and there are some games that are fun, have good storyline, campaign is good, but it has a multi-player option for the campaign that just makes it so much better.</p> <p>Some examples -</p> <p>Halo series</p> <p>Gears of War series</p> <p>Avengers</p> <p>Left for dead</p> <p>Dead island</p> <p>Lego games</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dreadpiratesmith"> /u/dreadpiratesmith </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ihmxfw/what_are_some_game_campaigns_that_can_be_played/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihmxfw/what_are_some_game_campaigns_that_can_be_played/">[comments]</a></span>
+
+## Reddit user u/bavariasaurus Helped Upgrade our Gaming Café in Yemen
+ - [https://www.reddit.com/r/gaming/comments/1ihmhfg/reddit_user_ubavariasaurus_helped_upgrade_our](https://www.reddit.com/r/gaming/comments/1ihmhfg/reddit_user_ubavariasaurus_helped_upgrade_our)
+ - RSS feed: $source
+ - date published: 2025-02-04T17:02:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihmhfg/reddit_user_ubavariasaurus_helped_upgrade_our/"> <img src="https://preview.redd.it/1w6hstyil5he1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=efcf59eed7dce5186620859f069b4b6448503839" alt="Reddit user u/bavariasaurus Helped Upgrade our Gaming Café in Yemen" title="Reddit user u/bavariasaurus Helped Upgrade our Gaming Café in Yemen" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/maho90"> /u/maho90 </a> <br/> <span><a href="https://i.redd.it/1w6hstyil5he1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihmhfg/reddit_user_ubavariasaurus_helped_upgrade_our/">[comments]</a></span> </td></tr></table>
+
+## I just saw an ad that said "has Battlefield finally returned to its roots?" Of course it hasn't. It's going to be $80, half finished, and laden with micro transactions like every other AAA game in the last 5 years.
+ - [https://www.reddit.com/r/gaming/comments/1ihmf7u/i_just_saw_an_ad_that_said_has_battlefield](https://www.reddit.com/r/gaming/comments/1ihmf7u/i_just_saw_an_ad_that_said_has_battlefield)
+ - RSS feed: $source
+ - date published: 2025-02-04T17:00:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihmf7u/i_just_saw_an_ad_that_said_has_battlefield/"> <img src="https://preview.redd.it/t172cl7bl5he1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=da4438222e89dcb308670592e6f8650f47c7a132" alt="I just saw an ad that said &quot;has Battlefield finally returned to its roots?&quot; Of course it hasn't. It's going to be $80, half finished, and laden with micro transactions like every other AAA game in the last 5 years." title="I just saw an ad that said &quot;has Battlefield finally returned to its roots?&quot; Of course it hasn't. It's going to be $80, half finished, and laden with micro transactions like every other AAA game in the last 5 years." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AbandonedPlanet"> /u/AbandonedPlanet </a> <br/> <span><a href="https://i.redd.it/t172cl7bl5he1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihmf7u/i_ju
+
+## What game(s) deserved to be much longer than they were?
+ - [https://www.reddit.com/r/gaming/comments/1ihlyee/what_games_deserved_to_be_much_longer_than_they](https://www.reddit.com/r/gaming/comments/1ihlyee/what_games_deserved_to_be_much_longer_than_they)
+ - RSS feed: $source
+ - date published: 2025-02-04T16:41:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ll kick it off with Portal, Titanfall 2, and Brothers: A Tale of Two Sons.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bruzdnconfuzd"> /u/bruzdnconfuzd </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ihlyee/what_games_deserved_to_be_much_longer_than_they/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihlyee/what_games_deserved_to_be_much_longer_than_they/">[comments]</a></span>
+
+## Nintendo says it’s making preparations for Switch 2 resellers
+ - [https://www.reddit.com/r/gaming/comments/1ihk1i8/nintendo_says_its_making_preparations_for_switch](https://www.reddit.com/r/gaming/comments/1ihk1i8/nintendo_says_its_making_preparations_for_switch)
+ - RSS feed: $source
+ - date published: 2025-02-04T15:20:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihk1i8/nintendo_says_its_making_preparations_for_switch/"> <img src="https://external-preview.redd.it/rJKw7i8nIIzORO9K-8Yzun--85cJ5PC0FKKTmo9OcqM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=43bef39979b39c24e14b7896e75121f136ead854" alt="Nintendo says it’s making preparations for Switch 2 resellers" title="Nintendo says it’s making preparations for Switch 2 resellers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SweetyGonzalez"> /u/SweetyGonzalez </a> <br/> <span><a href="https://www.videogameschronicle.com/news/nintendo-says-its-making-preparations-for-switch-2-resellers/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihk1i8/nintendo_says_its_making_preparations_for_switch/">[comments]</a></span> </td></tr></table>
+
+## and yes people still play this i hope..
+ - [https://www.reddit.com/r/gaming/comments/1ihjmp5/and_yes_people_still_play_this_i_hope](https://www.reddit.com/r/gaming/comments/1ihjmp5/and_yes_people_still_play_this_i_hope)
+ - RSS feed: $source
+ - date published: 2025-02-04T15:02:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihjmp5/and_yes_people_still_play_this_i_hope/"> <img src="https://preview.redd.it/efqvm7m905he1.gif?width=320&amp;crop=smart&amp;s=839e5be2b08dcb300b7d4d0de317ebf8a794902e" alt="and yes people still play this i hope.." title="and yes people still play this i hope.." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/XDEC0DE"> /u/XDEC0DE </a> <br/> <span><a href="https://i.redd.it/efqvm7m905he1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihjmp5/and_yes_people_still_play_this_i_hope/">[comments]</a></span> </td></tr></table>
+
+## Playing Bloodborne for the first time and... damn!
+ - [https://www.reddit.com/r/gaming/comments/1ihj0h5/playing_bloodborne_for_the_first_time_and_damn](https://www.reddit.com/r/gaming/comments/1ihj0h5/playing_bloodborne_for_the_first_time_and_damn)
+ - RSS feed: $source
+ - date published: 2025-02-04T14:34:51+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/spectre97x"> /u/spectre97x </a> <br/> <span><a href="https://i.redd.it/vxil8hydv4he1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihj0h5/playing_bloodborne_for_the_first_time_and_damn/">[comments]</a></span>
+
+## Helldivers 2 - Servants of Freedom Warbond | PS5 & PC Games
+ - [https://www.reddit.com/r/gaming/comments/1ihinjj/helldivers_2_servants_of_freedom_warbond_ps5_pc](https://www.reddit.com/r/gaming/comments/1ihinjj/helldivers_2_servants_of_freedom_warbond_ps5_pc)
+ - RSS feed: $source
+ - date published: 2025-02-04T14:18:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihinjj/helldivers_2_servants_of_freedom_warbond_ps5_pc/"> <img src="https://external-preview.redd.it/YBrSa7viuTX2x3pgP357AhuMOeeLrCTFJVyWfp3E8Ps.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=eea865c7800d61306a54b4910fb436f75e0067ff" alt="Helldivers 2 - Servants of Freedom Warbond | PS5 &amp; PC Games" title="Helldivers 2 - Servants of Freedom Warbond | PS5 &amp; PC Games" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SweetyGonzalez"> /u/SweetyGonzalez </a> <br/> <span><a href="https://youtu.be/7s2Es5g7fwA?si=VmI1qL3MD3BEWnLK">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihinjj/helldivers_2_servants_of_freedom_warbond_ps5_pc/">[comments]</a></span> </td></tr></table>
+
+## Wreckfest 2 | Early Access Announcement Trailer
+ - [https://www.reddit.com/r/gaming/comments/1ihimzj/wreckfest_2_early_access_announcement_trailer](https://www.reddit.com/r/gaming/comments/1ihimzj/wreckfest_2_early_access_announcement_trailer)
+ - RSS feed: $source
+ - date published: 2025-02-04T14:17:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihimzj/wreckfest_2_early_access_announcement_trailer/"> <img src="https://external-preview.redd.it/VvifOucBfiCNVH5YL62ec97KBnDRmNQdSnBQEMF2XLM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e7e4246138b6d40eb7010e9376c160dac21b4174" alt="Wreckfest 2 | Early Access Announcement Trailer" title="Wreckfest 2 | Early Access Announcement Trailer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SweetyGonzalez"> /u/SweetyGonzalez </a> <br/> <span><a href="https://youtu.be/Z2PCl64qnng?si=oj9MUxpfNBHsrsPZ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihimzj/wreckfest_2_early_access_announcement_trailer/">[comments]</a></span> </td></tr></table>
+
+## Thats some major BS right here! Please stop pre-ordering and fueling this disgusting behavior
+ - [https://www.reddit.com/r/gaming/comments/1ihhl25/thats_some_major_bs_right_here_please_stop](https://www.reddit.com/r/gaming/comments/1ihhl25/thats_some_major_bs_right_here_please_stop)
+ - RSS feed: $source
+ - date published: 2025-02-04T13:25:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihhl25/thats_some_major_bs_right_here_please_stop/"> <img src="https://preview.redd.it/ajc1czrzi4he1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=120c4b878c9a88cb933ab3f18a6aaf0287010b5e" alt="Thats some major BS right here! Please stop pre-ordering and fueling this disgusting behavior" title="Thats some major BS right here! Please stop pre-ordering and fueling this disgusting behavior" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Raikos85"> /u/Raikos85 </a> <br/> <span><a href="https://i.redd.it/ajc1czrzi4he1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihhl25/thats_some_major_bs_right_here_please_stop/">[comments]</a></span> </td></tr></table>
+
+## Nintendo Switch Has Reached 150 Million Units Sold, Only 10M Units Away From Overtaking The PS2(160M) As The Best Selling Console Of All Time
+ - [https://www.reddit.com/r/gaming/comments/1ihgxv0/nintendo_switch_has_reached_150_million_units](https://www.reddit.com/r/gaming/comments/1ihgxv0/nintendo_switch_has_reached_150_million_units)
+ - RSS feed: $source
+ - date published: 2025-02-04T12:52:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihgxv0/nintendo_switch_has_reached_150_million_units/"> <img src="https://external-preview.redd.it/s_D_SPxigfzXjW1T06d6-RH0INHvLVnnbeSWApdoB1s.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=e328695e4d47587111bf165de1f105174a7d251c" alt="Nintendo Switch Has Reached 150 Million Units Sold, Only 10M Units Away From Overtaking The PS2(160M) As The Best Selling Console Of All Time" title="Nintendo Switch Has Reached 150 Million Units Sold, Only 10M Units Away From Overtaking The PS2(160M) As The Best Selling Console Of All Time" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FinalAfternoon5470"> /u/FinalAfternoon5470 </a> <br/> <span><a href="https://icon-era.com/threads/nintendo-switch-reaches-150-86m-4-82m-during-q3.15732/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihgxv0/nintendo_switch_has_reached_150_million_units/">[comments]</a></span> </td><
+
+## My own attempt at a dice/fidget ring with needle bearing
+ - [https://www.reddit.com/r/gaming/comments/1ihel0f/my_own_attempt_at_a_dicefidget_ring_with_needle](https://www.reddit.com/r/gaming/comments/1ihel0f/my_own_attempt_at_a_dicefidget_ring_with_needle)
+ - RSS feed: $source
+ - date published: 2025-02-04T10:18:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihel0f/my_own_attempt_at_a_dicefidget_ring_with_needle/"> <img src="https://preview.redd.it/80tsnlcml3he1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7e11cee38f230cdabd6d8fe2e4450763d9f20fd9" alt="My own attempt at a dice/fidget ring with needle bearing" title="My own attempt at a dice/fidget ring with needle bearing" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I saw this cool post (<a href="https://www.reddit.com/r/gaming/s/k65jqWqssm">https://www.reddit.com/r/gaming/s/k65jqWqssm</a>) a few weeks ago and decided to build something like this myself only with a bearing so you can actually spin it. It&#39;s a little bulky but works very good.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dhalion0815"> /u/Dhalion0815 </a> <br/> <span><a href="https://i.redd.it/80tsnlcml3he1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihel0f/m
+
+## Red Dead Redemption 2 Hits Nearly 100K Concurrent Players - 5 Years After Release
+ - [https://www.reddit.com/r/gaming/comments/1ihe9ni/red_dead_redemption_2_hits_nearly_100k_concurrent](https://www.reddit.com/r/gaming/comments/1ihe9ni/red_dead_redemption_2_hits_nearly_100k_concurrent)
+ - RSS feed: $source
+ - date published: 2025-02-04T09:54:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihe9ni/red_dead_redemption_2_hits_nearly_100k_concurrent/"> <img src="https://preview.redd.it/0jdxtkspg3he1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=75cf3ed2c1b404f36275aac968cc57fe06b28f14" alt="Red Dead Redemption 2 Hits Nearly 100K Concurrent Players - 5 Years After Release" title="Red Dead Redemption 2 Hits Nearly 100K Concurrent Players - 5 Years After Release" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tryton7"> /u/Tryton7 </a> <br/> <span><a href="https://i.redd.it/0jdxtkspg3he1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihe9ni/red_dead_redemption_2_hits_nearly_100k_concurrent/">[comments]</a></span> </td></tr></table>
+
+## Interior Design / Architecture in Gaming: (Indianna Jones and The Great Circle) In my younger gaming days I would just run through buildings not paying much attention (and shooting anything that moves). Now, older, I find myself strolling through buildings and soaking it in. Fair play designers.
+ - [https://www.reddit.com/r/gaming/comments/1ihe4nl/interior_design_architecture_in_gaming_indianna](https://www.reddit.com/r/gaming/comments/1ihe4nl/interior_design_architecture_in_gaming_indianna)
+ - RSS feed: $source
+ - date published: 2025-02-04T09:43:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihe4nl/interior_design_architecture_in_gaming_indianna/"> <img src="https://b.thumbs.redditmedia.com/MliZRuvXZNX5ILDkTO3CNAfVzliTevfUNurbcZt_mRo.jpg" alt="Interior Design / Architecture in Gaming: (Indianna Jones and The Great Circle) In my younger gaming days I would just run through buildings not paying much attention (and shooting anything that moves). Now, older, I find myself strolling through buildings and soaking it in. Fair play designers." title="Interior Design / Architecture in Gaming: (Indianna Jones and The Great Circle) In my younger gaming days I would just run through buildings not paying much attention (and shooting anything that moves). Now, older, I find myself strolling through buildings and soaking it in. Fair play designers." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Playing Indianna Jones and I realised how much I appreciate the effort by designers / developers they put into internal 
+
+## In Project Zomboid you can store a fridge inside a fridge
+ - [https://www.reddit.com/r/gaming/comments/1ihdb04/in_project_zomboid_you_can_store_a_fridge_inside](https://www.reddit.com/r/gaming/comments/1ihdb04/in_project_zomboid_you_can_store_a_fridge_inside)
+ - RSS feed: $source
+ - date published: 2025-02-04T08:40:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihdb04/in_project_zomboid_you_can_store_a_fridge_inside/"> <img src="https://preview.redd.it/ug8jj2y343he1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3846e693ef06aa4e495dd707876f93bf24281ba4" alt="In Project Zomboid you can store a fridge inside a fridge" title="In Project Zomboid you can store a fridge inside a fridge" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hauzan2112"> /u/hauzan2112 </a> <br/> <span><a href="https://i.redd.it/ug8jj2y343he1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihdb04/in_project_zomboid_you_can_store_a_fridge_inside/">[comments]</a></span> </td></tr></table>
+
+## UK Petition on game preservation has failed
+ - [https://www.reddit.com/r/gaming/comments/1ihcn7t/uk_petition_on_game_preservation_has_failed](https://www.reddit.com/r/gaming/comments/1ihcn7t/uk_petition_on_game_preservation_has_failed)
+ - RSS feed: $source
+ - date published: 2025-02-04T07:50:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihcn7t/uk_petition_on_game_preservation_has_failed/"> <img src="https://preview.redd.it/qnb44jg5v2he1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=003f5577ae432e65ae5ebf9bcf2e899c95acd0b1" alt="UK Petition on game preservation has failed" title="UK Petition on game preservation has failed" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DuoLogue14"> /u/DuoLogue14 </a> <br/> <span><a href="https://i.redd.it/qnb44jg5v2he1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihcn7t/uk_petition_on_game_preservation_has_failed/">[comments]</a></span> </td></tr></table>
+
+## UK Government responds to 'Stop Killing Games' petition - "There are no plans to amend UK consumer law on disabling video games"
+ - [https://www.reddit.com/r/gaming/comments/1ihamoq/uk_government_responds_to_stop_killing_games](https://www.reddit.com/r/gaming/comments/1ihamoq/uk_government_responds_to_stop_killing_games)
+ - RSS feed: $source
+ - date published: 2025-02-04T05:32:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ihamoq/uk_government_responds_to_stop_killing_games/"> <img src="https://preview.redd.it/ed0wqwvi62he1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a0d2d7f61d4442a3916d330f3778d2d09b3b84d7" alt="UK Government responds to 'Stop Killing Games' petition - &quot;There are no plans to amend UK consumer law on disabling video games&quot;" title="UK Government responds to 'Stop Killing Games' petition - &quot;There are no plans to amend UK consumer law on disabling video games&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Afasso"> /u/Afasso </a> <br/> <span><a href="https://i.redd.it/ed0wqwvi62he1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ihamoq/uk_government_responds_to_stop_killing_games/">[comments]</a></span> </td></tr></table>
+
+## Found an UNBELIEVABLE tiny detail in Red Dead Redemption 2.
+ - [https://www.reddit.com/r/gaming/comments/1ih98v3/found_an_unbelievable_tiny_detail_in_red_dead](https://www.reddit.com/r/gaming/comments/1ih98v3/found_an_unbelievable_tiny_detail_in_red_dead)
+ - RSS feed: $source
+ - date published: 2025-02-04T04:12:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve played this game front to back about 3 times and haven’t touched it in a few years.</p> <p>I decided to pick it back up, and just completed the famous night out with Lenny in Valentine.</p> <p>When Arthur wakes up severely sick and hungover, I had a role playing thought. Anybody who partied hard in college knows that a drink helps a hangover (don’t do this it’s so bad for you).</p> <p>So when Arthur wakes up the camera is still swerving a bit to simulate the hangover, but when I had Arthur drink a half bottle of booze, it immediately stopped and all he started walking straight.</p> <p>That’s such amazing attention to detail, and I had to immediately share it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shikki93"> /u/shikki93 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ih98v3/found_an_unbelievable_tiny_detail_in_red_dead/">[link]</a></span> &#32; <span><a href="https://www.reddit.
+
+## KCD 2- This practice of pre order quest and expansion pass for single player game should not only be criticised for Ubisoft games alone.
+ - [https://www.reddit.com/r/gaming/comments/1ih8tb6/kcd_2_this_practice_of_pre_order_quest_and](https://www.reddit.com/r/gaming/comments/1ih8tb6/kcd_2_this_practice_of_pre_order_quest_and)
+ - RSS feed: $source
+ - date published: 2025-02-04T03:48:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ih8tb6/kcd_2_this_practice_of_pre_order_quest_and/"> <img src="https://preview.redd.it/sbcvtv82o1he1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d98b8efd10a52c3e8e226b1fdc3cbde114bcdd07" alt="KCD 2- This practice of pre order quest and expansion pass for single player game should not only be criticised for Ubisoft games alone." title="KCD 2- This practice of pre order quest and expansion pass for single player game should not only be criticised for Ubisoft games alone." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vaikunth1991"> /u/vaikunth1991 </a> <br/> <span><a href="https://i.redd.it/sbcvtv82o1he1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ih8tb6/kcd_2_this_practice_of_pre_order_quest_and/">[comments]</a></span> </td></tr></table>
+
+## 'Sonic the Hedgehog 3' beats 'Detective Pikachu' to become the all-time second-highest grossing video game movie - In Terms of Live Action Video Game Movies, Sonic 3 is Now the Top-grossing of All Time
+ - [https://www.reddit.com/r/gaming/comments/1ih6ky2/sonic_the_hedgehog_3_beats_detective_pikachu_to](https://www.reddit.com/r/gaming/comments/1ih6ky2/sonic_the_hedgehog_3_beats_detective_pikachu_to)
+ - RSS feed: $source
+ - date published: 2025-02-04T01:54:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ih6ky2/sonic_the_hedgehog_3_beats_detective_pikachu_to/"> <img src="https://external-preview.redd.it/U2yx16eInUBFiWxtBR_5TMT_mbXeg4rzfHgPOcDYm-o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=184c68a080be122b7557b51274454adf20820f07" alt="'Sonic the Hedgehog 3' beats 'Detective Pikachu' to become the all-time second-highest grossing video game movie - In Terms of Live Action Video Game Movies, Sonic 3 is Now the Top-grossing of All Time" title="'Sonic the Hedgehog 3' beats 'Detective Pikachu' to become the all-time second-highest grossing video game movie - In Terms of Live Action Video Game Movies, Sonic 3 is Now the Top-grossing of All Time" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DemiFiendRSA"> /u/DemiFiendRSA </a> <br/> <span><a href="https://www.videogameschronicle.com/news/sonic-3-beats-detective-pikachu-to-become-the-all-time-second-highest-grossing-video-game-movie/">
+
+## Here, you've earned this
+ - [https://www.reddit.com/r/gaming/comments/1ih4f69/here_youve_earned_this](https://www.reddit.com/r/gaming/comments/1ih4f69/here_youve_earned_this)
+ - RSS feed: $source
+ - date published: 2025-02-04T00:12:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ih4f69/here_youve_earned_this/"> <img src="https://preview.redd.it/ug1w4y1jl0he1.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=93540cdc20a8e333adf18543af84d5f9c681340f" alt="Here, you've earned this" title="Here, you've earned this" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kindaallovertheplace"> /u/kindaallovertheplace </a> <br/> <span><a href="https://i.redd.it/ug1w4y1jl0he1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ih4f69/here_youve_earned_this/">[comments]</a></span> </td></tr></table>
+

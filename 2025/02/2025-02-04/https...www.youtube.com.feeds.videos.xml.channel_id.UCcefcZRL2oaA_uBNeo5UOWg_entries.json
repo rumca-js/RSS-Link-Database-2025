@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-04T17:28:42+00:00",
+        "description": "With the advent of AI and agents, it seems like it's a good idea to build software and services where agents as customers are actively supported and documented rather than an edge case.",
+        "id": 2040562,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=GEcby86ZOVY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GEcby86ZOVY/hqdefault.jpg",
+        "title": "B2A: Software Where the Customers Will All Be Agents",
+        "vote": 0
+    }
+]

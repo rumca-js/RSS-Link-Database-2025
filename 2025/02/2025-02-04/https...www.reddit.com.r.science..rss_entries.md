@@ -1,0 +1,233 @@
+# Source:Reddit Science, URL:https://www.reddit.com/r/science/.rss, language:en
+
+## No evidence that maternal sickness during pregnancy causes autism. While studies have reported link between a mother's health during pregnancy and her child's risk of autism, a new study shows that nearly all of these 'associations' can be explained by genetics, pollution, and access to healthcare.
+ - [https://www.reddit.com/r/science/comments/1ihuzts/no_evidence_that_maternal_sickness_during](https://www.reddit.com/r/science/comments/1ihuzts/no_evidence_that_maternal_sickness_during)
+ - RSS feed: $source
+ - date published: 2025-02-04T22:50:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihuzts/no_evidence_that_maternal_sickness_during/"> <img src="https://external-preview.redd.it/doIj1jJ_Oxx46g3_58ikd9zYJ4S4U8OsugkWY9ZHO0s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=db39d2c6c242cdb680f649d2e69e2b6f370000fd" alt="No evidence that maternal sickness during pregnancy causes autism. While studies have reported link between a mother's health during pregnancy and her child's risk of autism, a new study shows that nearly all of these 'associations' can be explained by genetics, pollution, and access to healthcare." title="No evidence that maternal sickness during pregnancy causes autism. While studies have reported link between a mother's health during pregnancy and her child's risk of autism, a new study shows that nearly all of these 'associations' can be explained by genetics, pollution, and access to healthcare." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"
+
+## Study: Wildfire smoke exposure raises dementia risk by 18% - The study also found that wildfire smoke exposure was more strongly linked to dementia in younger seniors (under 75 years old).
+ - [https://www.reddit.com/r/science/comments/1ihse31/study_wildfire_smoke_exposure_raises_dementia](https://www.reddit.com/r/science/comments/1ihse31/study_wildfire_smoke_exposure_raises_dementia)
+ - RSS feed: $source
+ - date published: 2025-02-04T21:01:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihse31/study_wildfire_smoke_exposure_raises_dementia/"> <img src="https://external-preview.redd.it/yBeWwsK7lSi20Loat_d-2km6H3dqIsF3JnaxmAZsapo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=abf9fc645be12f22045e18bbfc51f25c65fcdeb9" alt="Study: Wildfire smoke exposure raises dementia risk by 18% - The study also found that wildfire smoke exposure was more strongly linked to dementia in younger seniors (under 75 years old)." title="Study: Wildfire smoke exposure raises dementia risk by 18% - The study also found that wildfire smoke exposure was more strongly linked to dementia in younger seniors (under 75 years old)." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a> <br/> <span><a href="https://www.psypost.org/study-wildfire-smoke-exposure-raises-dementia-risk-by-18/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihse31/study_wild
+
+## Across European history, states ruled by dumb monarchs (measured by inbreeding) performed significantly worse across several metrics. However, the cognitive ability of rulers mattered only where their power was largely unconstrained, not when they were checked by parliaments.
+ - [https://www.reddit.com/r/science/comments/1ihs8t0/across_european_history_states_ruled_by_dumb](https://www.reddit.com/r/science/comments/1ihs8t0/across_european_history_states_ruled_by_dumb)
+ - RSS feed: $source
+ - date published: 2025-02-04T20:55:59+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/smurfyjenkins"> /u/smurfyjenkins </a> <br/> <span><a href="https://onlinelibrary.wiley.com/doi/10.3982/ECTA20830">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihs8t0/across_european_history_states_ruled_by_dumb/">[comments]</a></span>
+
+## The Lancet: Deeply entrenched racial and geographic health disparities in the USA have increased over the last two decades—as life expectancy gap widens to 20 years
+ - [https://www.reddit.com/r/science/comments/1ihr7jh/the_lancet_deeply_entrenched_racial_and](https://www.reddit.com/r/science/comments/1ihr7jh/the_lancet_deeply_entrenched_racial_and)
+ - RSS feed: $source
+ - date published: 2025-02-04T20:13:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihr7jh/the_lancet_deeply_entrenched_racial_and/"> <img src="https://external-preview.redd.it/K0IoEDD-pmRYtKQC3YnCxYZu0a2FDj-oNpkeY0GgY9Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=13497339c78d7b505e7217d1ecc209499831cb15" alt="The Lancet: Deeply entrenched racial and geographic health disparities in the USA have increased over the last two decades—as life expectancy gap widens to 20 years" title="The Lancet: Deeply entrenched racial and geographic health disparities in the USA have increased over the last two decades—as life expectancy gap widens to 20 years" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.healthdata.org/news-events/newsroom/news-releases/lancet-deeply-entrenched-racial-and-geographic-health">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihr7jh/the_lancet_deeply_entr
+
+## Attending college substantially boosts earnings in adulthood, in particular for students from low-income high schools – The study analyzes the future earnings of students just above and below the cutoff threshold for college admission.
+ - [https://www.reddit.com/r/science/comments/1ihqtge/attending_college_substantially_boosts_earnings](https://www.reddit.com/r/science/comments/1ihqtge/attending_college_substantially_boosts_earnings)
+ - RSS feed: $source
+ - date published: 2025-02-04T19:58:04+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/smurfyjenkins"> /u/smurfyjenkins </a> <br/> <span><a href="https://jhr.uwpress.org/content/early/2025/01/31/jhr.0324-13461R2">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihqtge/attending_college_substantially_boosts_earnings/">[comments]</a></span>
+
+## Ultra-processed foods provide nearly half of calories for Canadian children. Research found higher intake of these foods at age 3 is linked to excess weight, higher body-mass index and more body fat by age 5
+ - [https://www.reddit.com/r/science/comments/1ihpk22/ultraprocessed_foods_provide_nearly_half_of](https://www.reddit.com/r/science/comments/1ihpk22/ultraprocessed_foods_provide_nearly_half_of)
+ - RSS feed: $source
+ - date published: 2025-02-04T19:06:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihpk22/ultraprocessed_foods_provide_nearly_half_of/"> <img src="https://external-preview.redd.it/ADzE23Wd20Zx6q2l3f3cfsIKf8ZP1aFWFRApoEr2u0g.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9898dd39b382154900e79db617ba485a6a65b03b" alt="Ultra-processed foods provide nearly half of calories for Canadian children. Research found higher intake of these foods at age 3 is linked to excess weight, higher body-mass index and more body fat by age 5" title="Ultra-processed foods provide nearly half of calories for Canadian children. Research found higher intake of these foods at age 3 is linked to excess weight, higher body-mass index and more body fat by age 5" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.upi.com/Health_News/2025/02/04/5521738678521/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comment
+
+## What Trump’s First Days Say about Science in the New Administration
+ - [https://www.reddit.com/r/science/comments/1ihp7o3/what_trumps_first_days_say_about_science_in_the](https://www.reddit.com/r/science/comments/1ihp7o3/what_trumps_first_days_say_about_science_in_the)
+ - RSS feed: $source
+ - date published: 2025-02-04T18:52:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihp7o3/what_trumps_first_days_say_about_science_in_the/"> <img src="https://external-preview.redd.it/JsCC14PyMYlShCx_OUZO6vuQkPhOffNliiGTv0IxlXo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8123d0101053ba03ac49503d2795b4b3d3f8f7e6" alt="What Trump’s First Days Say about Science in the New Administration" title="What Trump’s First Days Say about Science in the New Administration" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/49orth"> /u/49orth </a> <br/> <span><a href="https://www.scientificamerican.com/article/what-trumps-first-days-say-about-science-in-the-new-administration/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihp7o3/what_trumps_first_days_say_about_science_in_the/">[comments]</a></span> </td></tr></table>
+
+## Global Warming Has Accelerated: Are the United Nations and the Public Well-Informed. Underestimate of aerosol climate forcing by IPCC led to underestimate of climate sensitivity. Alters projections of future climate.
+ - [https://www.reddit.com/r/science/comments/1ihohh4/global_warming_has_accelerated_are_the_united](https://www.reddit.com/r/science/comments/1ihohh4/global_warming_has_accelerated_are_the_united)
+ - RSS feed: $source
+ - date published: 2025-02-04T18:23:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/IntrepidGentian"> /u/IntrepidGentian </a> <br/> <span><a href="https://www.tandfonline.com/doi/full/10.1080/00139157.2025.2434494">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihohh4/global_warming_has_accelerated_are_the_united/">[comments]</a></span>
+
+## Gecko feet inspire anti-slip shoe soles | Capillary-Enhanced Biomimetic Adhesion on Icy Surfaces for High-Performance Antislip Shoe-Soles
+ - [https://www.reddit.com/r/science/comments/1ihmt4c/gecko_feet_inspire_antislip_shoe_soles](https://www.reddit.com/r/science/comments/1ihmt4c/gecko_feet_inspire_antislip_shoe_soles)
+ - RSS feed: $source
+ - date published: 2025-02-04T17:15:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihmt4c/gecko_feet_inspire_antislip_shoe_soles/"> <img src="https://external-preview.redd.it/nYL7u_7A29_7dy-kcZN95nxCWhmLFqvGQhLnnOupmLs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1fae5ab48cf06e00387de6590f45495d077f7bdc" alt="Gecko feet inspire anti-slip shoe soles | Capillary-Enhanced Biomimetic Adhesion on Icy Surfaces for High-Performance Antislip Shoe-Soles" title="Gecko feet inspire anti-slip shoe soles | Capillary-Enhanced Biomimetic Adhesion on Icy Surfaces for High-Performance Antislip Shoe-Soles" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hrmbee"> /u/Hrmbee </a> <br/> <span><a href="https://arstechnica.com/science/2025/02/gecko-feet-inspire-anti-slip-shoe-soles/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihmt4c/gecko_feet_inspire_antislip_shoe_soles/">[comments]</a></span> </td></tr></table>
+
+## Dogs exposed to household chemicals more likely to get cancer, study finds. Markers of bladder cancer found in canines with higher levels of exposure to chemicals such as flame retardants and phthalates. This may also have implications for humans who live in the same homes.
+ - [https://www.reddit.com/r/science/comments/1ihmrl4/dogs_exposed_to_household_chemicals_more_likely](https://www.reddit.com/r/science/comments/1ihmrl4/dogs_exposed_to_household_chemicals_more_likely)
+ - RSS feed: $source
+ - date published: 2025-02-04T17:13:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihmrl4/dogs_exposed_to_household_chemicals_more_likely/"> <img src="https://external-preview.redd.it/8QpTlRqxEmPAAhNilSFsbcl_t_ejnkusTmvbbjxzx54.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d027e4563a1644a07ce07d75c34371d42ade83f8" alt="Dogs exposed to household chemicals more likely to get cancer, study finds. Markers of bladder cancer found in canines with higher levels of exposure to chemicals such as flame retardants and phthalates. This may also have implications for humans who live in the same homes." title="Dogs exposed to household chemicals more likely to get cancer, study finds. Markers of bladder cancer found in canines with higher levels of exposure to chemicals such as flame retardants and phthalates. This may also have implications for humans who live in the same homes." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a> <br/> <span><a href="https://
+
+## Childhood neglect is associated with slower development of working memory abilities throughout adolescence and into young adulthood. Neglect was defined as experiencing emotional or physical neglect.
+ - [https://www.reddit.com/r/science/comments/1ihmmht/childhood_neglect_is_associated_with_slower](https://www.reddit.com/r/science/comments/1ihmmht/childhood_neglect_is_associated_with_slower)
+ - RSS feed: $source
+ - date published: 2025-02-04T17:07:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihmmht/childhood_neglect_is_associated_with_slower/"> <img src="https://external-preview.redd.it/XELk72T_NOw-FFhiwOMuHlDttu8jpLLl9Su4X218YFw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=07856c595de15538330aa07bc4f900194f9e5f00" alt="Childhood neglect is associated with slower development of working memory abilities throughout adolescence and into young adulthood. Neglect was defined as experiencing emotional or physical neglect." title="Childhood neglect is associated with slower development of working memory abilities throughout adolescence and into young adulthood. Neglect was defined as experiencing emotional or physical neglect." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a> <br/> <span><a href="https://www.psypost.org/childhood-neglect-linked-to-slower-working-memory-development-study-finds/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/
+
+## The moon’s two grand canyons — formed 3.8 billion years ago — were carved out in less than 10 minutes by a hailstorm of rocks
+ - [https://www.reddit.com/r/science/comments/1ihlg3j/the_moons_two_grand_canyons_formed_38_billion](https://www.reddit.com/r/science/comments/1ihlg3j/the_moons_two_grand_canyons_formed_38_billion)
+ - RSS feed: $source
+ - date published: 2025-02-04T16:20:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihlg3j/the_moons_two_grand_canyons_formed_38_billion/"> <img src="https://external-preview.redd.it/qRHrwsLl4Bmw-Bf2v62BxMOJTvbX1SW3q5X8DbtQCg8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=313193c70a514c9b27b78671d4168f139420cfdb" alt="The moon’s two grand canyons — formed 3.8 billion years ago — were carved out in less than 10 minutes by a hailstorm of rocks" title="The moon’s two grand canyons — formed 3.8 billion years ago — were carved out in less than 10 minutes by a hailstorm of rocks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Science_News"> /u/Science_News </a> <br/> <span><a href="https://www.sciencenews.org/article/moon-grand-canyons-lunar-rocks">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihlg3j/the_moons_two_grand_canyons_formed_38_billion/">[comments]</a></span> </td></tr></table>
+
+## Half a degree rise in global warming will triple area of Earth too hot for humans, study finds
+ - [https://www.reddit.com/r/science/comments/1ihl7mc/half_a_degree_rise_in_global_warming_will_triple](https://www.reddit.com/r/science/comments/1ihl7mc/half_a_degree_rise_in_global_warming_will_triple)
+ - RSS feed: $source
+ - date published: 2025-02-04T16:10:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihl7mc/half_a_degree_rise_in_global_warming_will_triple/"> <img src="https://external-preview.redd.it/KA9wk2p2Bu0YZjyHmqPLZGGQF0ocOHiesio6nHdWb5Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1551b25d01e07a02cd8cadf8e36ad3789c2166ce" alt="Half a degree rise in global warming will triple area of Earth too hot for humans, study finds" title="Half a degree rise in global warming will triple area of Earth too hot for humans, study finds" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/-Mystica-"> /u/-Mystica- </a> <br/> <span><a href="https://www.nature.com/articles/s43017-024-00635-w">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihl7mc/half_a_degree_rise_in_global_warming_will_triple/">[comments]</a></span> </td></tr></table>
+
+## A study of a small group of adolescents found that their sleep patterns are associated with their exposure to light during the day. Adolescents exposed to more light during the daytime tended to go to bed somewhat earlier and wake up somewhat earlier the following morning.
+ - [https://www.reddit.com/r/science/comments/1ihkdf1/a_study_of_a_small_group_of_adolescents_found](https://www.reddit.com/r/science/comments/1ihkdf1/a_study_of_a_small_group_of_adolescents_found)
+ - RSS feed: $source
+ - date published: 2025-02-04T15:35:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihkdf1/a_study_of_a_small_group_of_adolescents_found/"> <img src="https://external-preview.redd.it/nAOQCOBRkYypz_AGXJ33bWLAJmhkNwSrsnAJeWALQuw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1f73afef96b62537e9e38e4070ab0acf1195acc6" alt="A study of a small group of adolescents found that their sleep patterns are associated with their exposure to light during the day. Adolescents exposed to more light during the daytime tended to go to bed somewhat earlier and wake up somewhat earlier the following morning." title="A study of a small group of adolescents found that their sleep patterns are associated with their exposure to light during the day. Adolescents exposed to more light during the daytime tended to go to bed somewhat earlier and wake up somewhat earlier the following morning." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/a_Ninja_b0y"> /u/a_Ninja_b0y </a> <br/> <span><a href
+
+## Ancient humans evolved new blood types after leaving Africa
+ - [https://www.reddit.com/r/science/comments/1ihje2z/ancient_humans_evolved_new_blood_types_after](https://www.reddit.com/r/science/comments/1ihje2z/ancient_humans_evolved_new_blood_types_after)
+ - RSS feed: $source
+ - date published: 2025-02-04T14:51:59+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Prestigious_Cake_192"> /u/Prestigious_Cake_192 </a> <br/> <span><a href="https://www.science.org/content/article/ancient-humans-evolved-new-blood-types-after-leaving-africa?utm_campaign=ScienceMagazine&amp;utm_medium=ownedSocial&amp;utm_source=twitter">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihje2z/ancient_humans_evolved_new_blood_types_after/">[comments]</a></span>
+
+## Study provides evidence that romantic love is highly valued worldwide when people consider long-term relationships | These findings support the idea that love functions as a commitment mechanism, reinforcing bonds between partners and helping to maintain stable relationships.
+ - [https://www.reddit.com/r/science/comments/1ihh5a4/study_provides_evidence_that_romantic_love_is](https://www.reddit.com/r/science/comments/1ihh5a4/study_provides_evidence_that_romantic_love_is)
+ - RSS feed: $source
+ - date published: 2025-02-04T13:03:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihh5a4/study_provides_evidence_that_romantic_love_is/"> <img src="https://external-preview.redd.it/wENY8BgQr1M8CCtmCDY2Jx61T-tYQ62GXtWfYGsnGnk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ab2ffbae2458e28f0e7d0afc0796cb03492fe005" alt="Study provides evidence that romantic love is highly valued worldwide when people consider long-term relationships | These findings support the idea that love functions as a commitment mechanism, reinforcing bonds between partners and helping to maintain stable relationships." title="Study provides evidence that romantic love is highly valued worldwide when people consider long-term relationships | These findings support the idea that love functions as a commitment mechanism, reinforcing bonds between partners and helping to maintain stable relationships." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a hr
+
+## Vehicle tyres found to be biggest source of nanoplastics in the high Alps | Mountaineers now scaling more peaks for first global study of nanoplastics, which can enter lungs and bloodstream
+ - [https://www.reddit.com/r/science/comments/1ihh1ey/vehicle_tyres_found_to_be_biggest_source_of](https://www.reddit.com/r/science/comments/1ihh1ey/vehicle_tyres_found_to_be_biggest_source_of)
+ - RSS feed: $source
+ - date published: 2025-02-04T12:57:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihh1ey/vehicle_tyres_found_to_be_biggest_source_of/"> <img src="https://external-preview.redd.it/HIs5_H_eI1LZA3nJEl4FqOq5GEGlH4WKXot9OuqhMfg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0dc4e723f2d73477979db3ff7dbb579b1497dfcb" alt="Vehicle tyres found to be biggest source of nanoplastics in the high Alps | Mountaineers now scaling more peaks for first global study of nanoplastics, which can enter lungs and bloodstream" title="Vehicle tyres found to be biggest source of nanoplastics in the high Alps | Mountaineers now scaling more peaks for first global study of nanoplastics, which can enter lungs and bloodstream" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.theguardian.com/environment/2025/feb/04/vehicle-tyres-found-to-be-biggest-source-of-nanoplastics-in-the-high-alps">[link]</a></span> &#32; <span><a href="https:
+
+## Slow traffic, fast food: on days when highways are more congested, people are more likely to frequent fast food restaurants and less likely to grocery shop. A one standard deviation increase in traffic delay leads to a 1% increase in fast food visits, equivalent to 1.2 million more fast food visits.
+ - [https://www.reddit.com/r/science/comments/1ihgtd2/slow_traffic_fast_food_on_days_when_highways_are](https://www.reddit.com/r/science/comments/1ihgtd2/slow_traffic_fast_food_on_days_when_highways_are)
+ - RSS feed: $source
+ - date published: 2025-02-04T12:45:07+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a> <br/> <span><a href="https://www.sciencedirect.com/science/article/pii/S0094119025000026">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihgtd2/slow_traffic_fast_food_on_days_when_highways_are/">[comments]</a></span>
+
+## The dynamics of the Reddit collective action leading to the GameStop short squeeze
+ - [https://www.reddit.com/r/science/comments/1ihgoxm/the_dynamics_of_the_reddit_collective_action](https://www.reddit.com/r/science/comments/1ihgoxm/the_dynamics_of_the_reddit_collective_action)
+ - RSS feed: $source
+ - date published: 2025-02-04T12:38:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihgoxm/the_dynamics_of_the_reddit_collective_action/"> <img src="https://external-preview.redd.it/BHpZ27zvpiStdaVTcSS4DAf6NHCIl5ISgKKWHP9OqnQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b610014d2da70460be75e62923dce2d4c2c4321" alt="The dynamics of the Reddit collective action leading to the GameStop short squeeze" title="The dynamics of the Reddit collective action leading to the GameStop short squeeze" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Stauce52"> /u/Stauce52 </a> <br/> <span><a href="https://www.nature.com/articles/s44260-025-00029-z">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihgoxm/the_dynamics_of_the_reddit_collective_action/">[comments]</a></span> </td></tr></table>
+
+## A study of 351 pregnant women suggests that vitamin D levels in first trimester are associated with pregnancy outcomes.
+ - [https://www.reddit.com/r/science/comments/1ihg0a3/a_study_of_351_pregnant_women_suggests_that](https://www.reddit.com/r/science/comments/1ihg0a3/a_study_of_351_pregnant_women_suggests_that)
+ - RSS feed: $source
+ - date published: 2025-02-04T11:57:34+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/molrose96"> /u/molrose96 </a> <br/> <span><a href="https://www.technologynetworks.com/drug-discovery/news/first-trimester-vitamin-d-levels-may-impact-pregnancy-outcomes-395778">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihg0a3/a_study_of_351_pregnant_women_suggests_that/">[comments]</a></span>
+
+## Vehicle tyres found to be biggest source of nanoplastics in the high Alps - Mountaineers now scaling more peaks for first global study of nanoplastics, which can enter lungs and bloodstream. They found nanoplastics in 5 of the 14 sites sampled in the French, Swiss and Italian Alps.
+ - [https://www.reddit.com/r/science/comments/1ihfl69/vehicle_tyres_found_to_be_biggest_source_of](https://www.reddit.com/r/science/comments/1ihfl69/vehicle_tyres_found_to_be_biggest_source_of)
+ - RSS feed: $source
+ - date published: 2025-02-04T11:29:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihfl69/vehicle_tyres_found_to_be_biggest_source_of/"> <img src="https://external-preview.redd.it/HIs5_H_eI1LZA3nJEl4FqOq5GEGlH4WKXot9OuqhMfg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0dc4e723f2d73477979db3ff7dbb579b1497dfcb" alt="Vehicle tyres found to be biggest source of nanoplastics in the high Alps - Mountaineers now scaling more peaks for first global study of nanoplastics, which can enter lungs and bloodstream. They found nanoplastics in 5 of the 14 sites sampled in the French, Swiss and Italian Alps." title="Vehicle tyres found to be biggest source of nanoplastics in the high Alps - Mountaineers now scaling more peaks for first global study of nanoplastics, which can enter lungs and bloodstream. They found nanoplastics in 5 of the 14 sites sampled in the French, Swiss and Italian Alps." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a> <br/> <span><a hr
+
+## Bonobos recognize when humans are ignorant, try to help | Study provides evidence that our relatives have a "theory of mind."
+ - [https://www.reddit.com/r/science/comments/1ihf9wf/bonobos_recognize_when_humans_are_ignorant_try_to](https://www.reddit.com/r/science/comments/1ihf9wf/bonobos_recognize_when_humans_are_ignorant_try_to)
+ - RSS feed: $source
+ - date published: 2025-02-04T11:08:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihf9wf/bonobos_recognize_when_humans_are_ignorant_try_to/"> <img src="https://external-preview.redd.it/3m3d9wPiGKoJ5JaYur0yUlA_2ShyuQRNLcyLyqWjVAk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce92997e5416e7d06e6e8fbae36c73c4ef680934" alt="Bonobos recognize when humans are ignorant, try to help | Study provides evidence that our relatives have a &quot;theory of mind.&quot;" title="Bonobos recognize when humans are ignorant, try to help | Study provides evidence that our relatives have a &quot;theory of mind.&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://arstechnica.com/science/2025/02/bonobos-know-when-youre-clueless/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihf9wf/bonobos_recognize_when_humans_are_ignorant_try_to/">[comments]</a></span> </td></tr></table>
+
+## Water did not arrive as early during Earth’s formation as previously thought, an insight that bears directly on the question of when life originated on the planet. Water was delivered to Earth in smaller portions after the Moon was formed, far later during Earth’s formation.
+ - [https://www.reddit.com/r/science/comments/1ihetlr/water_did_not_arrive_as_early_during_earths](https://www.reddit.com/r/science/comments/1ihetlr/water_did_not_arrive_as_early_during_earths)
+ - RSS feed: $source
+ - date published: 2025-02-04T10:35:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihetlr/water_did_not_arrive_as_early_during_earths/"> <img src="https://external-preview.redd.it/dyI1r_Q_L7t4_yvhGOf0p2aZyX5Qqn-CSgcM0NfDsRc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=25af127e3affce3d62c179667ecd3d256486c6f1" alt="Water did not arrive as early during Earth’s formation as previously thought, an insight that bears directly on the question of when life originated on the planet. Water was delivered to Earth in smaller portions after the Moon was formed, far later during Earth’s formation." title="Water did not arrive as early during Earth’s formation as previously thought, an insight that bears directly on the question of when life originated on the planet. Water was delivered to Earth in smaller portions after the Moon was formed, far later during Earth’s formation." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TX908"> /u/TX908 </a> <br/> <span><a href="https://
+
+## A Spanish study of nearly 800 adolescents reveals that students who consume more ultra-processed foods (UPFs) have significantly lower grades in language, math, and English—highlighting diet quality as a key factor in academic success.
+ - [https://www.reddit.com/r/science/comments/1iheeta/a_spanish_study_of_nearly_800_adolescents_reveals](https://www.reddit.com/r/science/comments/1iheeta/a_spanish_study_of_nearly_800_adolescents_reveals)
+ - RSS feed: $source
+ - date published: 2025-02-04T10:05:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1iheeta/a_spanish_study_of_nearly_800_adolescents_reveals/"> <img src="https://external-preview.redd.it/mvlzfH7fqB76NhX4uak1ytLwnMQ3rzLTCTor8-cvyv4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=14305b80efb4c8965feb632a3f13213bdb8b4403" alt="A Spanish study of nearly 800 adolescents reveals that students who consume more ultra-processed foods (UPFs) have significantly lower grades in language, math, and English—highlighting diet quality as a key factor in academic success." title="A Spanish study of nearly 800 adolescents reveals that students who consume more ultra-processed foods (UPFs) have significantly lower grades in language, math, and English—highlighting diet quality as a key factor in academic success." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.mdpi.com/2072-6643/17/3/524">[link]</a></span> &#32; <span><a hr
+
+## Immigrant Background and Rape Conviction: A 21-Year Follow-Up Study in Sweden — findings reveal a strong link between immigrant background and rape convictions that remains after statistical adjustment
+ - [https://www.reddit.com/r/science/comments/1ihdziy/immigrant_background_and_rape_conviction_a_21year](https://www.reddit.com/r/science/comments/1ihdziy/immigrant_background_and_rape_conviction_a_21year)
+ - RSS feed: $source
+ - date published: 2025-02-04T09:33:02+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/rantaruntiringen"> /u/rantaruntiringen </a> <br/> <span><a href="https://portal.research.lu.se/en/publications/immigrant-background-and-rape-conviction-a-21-year-follow-up-stud">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihdziy/immigrant_background_and_rape_conviction_a_21year/">[comments]</a></span>
+
+## Compact electrochemical pH sensor with a circular geometry, enabling efficient droplet-based electropolymerization using just 1–10 µL of solution, showcasing its potential for cost-effective, miniaturized sensor applications
+ - [https://www.reddit.com/r/science/comments/1ihd1rs/compact_electrochemical_ph_sensor_with_a_circular](https://www.reddit.com/r/science/comments/1ihd1rs/compact_electrochemical_ph_sensor_with_a_circular)
+ - RSS feed: $source
+ - date published: 2025-02-04T08:20:17+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BrnoRegion"> /u/BrnoRegion </a> <br/> <span><a href="https://linkinghub.elsevier.com/retrieve/pii/S0925400524012656">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihd1rs/compact_electrochemical_ph_sensor_with_a_circular/">[comments]</a></span>
+
+## Magnetic Field Geometry and Anisotropic Scattering Effects to Explain Puzzling LOFAR Solar Radio Burst Observations
+ - [https://www.reddit.com/r/science/comments/1ihcpak/magnetic_field_geometry_and_anisotropic](https://www.reddit.com/r/science/comments/1ihcpak/magnetic_field_geometry_and_anisotropic)
+ - RSS feed: $source
+ - date published: 2025-02-04T07:54:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihcpak/magnetic_field_geometry_and_anisotropic/"> <img src="https://external-preview.redd.it/7t5Hn1Z3b2orRilIx1VfRq9VGcqufZAhQxkOUlukORw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=66d2980e033f40047736595815fee51c5475133d" alt="Magnetic Field Geometry and Anisotropic Scattering Effects to Explain Puzzling LOFAR Solar Radio Burst Observations" title="Magnetic Field Geometry and Anisotropic Scattering Effects to Explain Puzzling LOFAR Solar Radio Burst Observations" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CESRA_highlights"> /u/CESRA_highlights </a> <br/> <span><a href="https://www.astro.gla.ac.uk/users/eduard/cesra/?p=3950">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihcpak/magnetic_field_geometry_and_anisotropic/">[comments]</a></span> </td></tr></table>
+
+## Earliest evidence for heavy metal pollution on wildlife in Middle Age Europe
+ - [https://www.reddit.com/r/science/comments/1ihce07/earliest_evidence_for_heavy_metal_pollution_on](https://www.reddit.com/r/science/comments/1ihce07/earliest_evidence_for_heavy_metal_pollution_on)
+ - RSS feed: $source
+ - date published: 2025-02-04T07:30:35+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/MireaIonutC"> /u/MireaIonutC </a> <br/> <span><a href="https://doi.org/10.1016/j.envpol.2025.125766">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihce07/earliest_evidence_for_heavy_metal_pollution_on/">[comments]</a></span>
+
+## New research reveals combining riverbank filtration with reverse osmosis creates purer and eco-friendlier drinking water, aligning with sustainability and health goals.
+ - [https://www.reddit.com/r/science/comments/1ihazjv/new_research_reveals_combining_riverbank](https://www.reddit.com/r/science/comments/1ihazjv/new_research_reveals_combining_riverbank)
+ - RSS feed: $source
+ - date published: 2025-02-04T05:54:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ihazjv/new_research_reveals_combining_riverbank/"> <img src="https://external-preview.redd.it/-ijeoQXAQCzZ9CRWzhdFeEIKZLFSNH7olHwsLY5mhxw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=febcf93c3a8880d5e19be2ae36fb443c57f732a1" alt="New research reveals combining riverbank filtration with reverse osmosis creates purer and eco-friendlier drinking water, aligning with sustainability and health goals." title="New research reveals combining riverbank filtration with reverse osmosis creates purer and eco-friendlier drinking water, aligning with sustainability and health goals." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/calliope_kekule"> /u/calliope_kekule </a> <br/> <span><a href="https://www.nature.com/articles/s41467-025-56656-6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ihazjv/new_research_reveals_combining_riverbank/">[comments]</a></span>
+
+## Positive emotions plus deep sleep equals longer-lasting perceptual memories | Brain recordings of mice finds three brain regions cooperatively activate in the learning periods and reactivate during early non-REM sleep, but not during REM sleep, to reinforce memories
+ - [https://www.reddit.com/r/science/comments/1ih9lu6/positive_emotions_plus_deep_sleep_equals](https://www.reddit.com/r/science/comments/1ih9lu6/positive_emotions_plus_deep_sleep_equals)
+ - RSS feed: $source
+ - date published: 2025-02-04T04:32:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ih9lu6/positive_emotions_plus_deep_sleep_equals/"> <img src="https://external-preview.redd.it/Xn-kILX0942FTaN1OAssYafgukJVvY50-1SuSLLTtvA.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=3de2a56371e38c5e6c3be91afc5570579c0f459f" alt="Positive emotions plus deep sleep equals longer-lasting perceptual memories | Brain recordings of mice finds three brain regions cooperatively activate in the learning periods and reactivate during early non-REM sleep, but not during REM sleep, to reinforce memories" title="Positive emotions plus deep sleep equals longer-lasting perceptual memories | Brain recordings of mice finds three brain regions cooperatively activate in the learning periods and reactivate during early non-REM sleep, but not during REM sleep, to reinforce memories" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FunnyGamer97"> /u/FunnyGamer97 </a> <br/> <span><a href="https://www.eur
+
+## Study: Freezing of water droplets suspended in the air plays part in the Earth’s water cycle of the transformation of water into ice | Molecular interactions driving ice formation can refine models of cloud dynamics and precipitation patterns, which play roles in weather and climate changes.
+ - [https://www.reddit.com/r/science/comments/1ih9jwp/study_freezing_of_water_droplets_suspended_in_the](https://www.reddit.com/r/science/comments/1ih9jwp/study_freezing_of_water_droplets_suspended_in_the)
+ - RSS feed: $source
+ - date published: 2025-02-04T04:29:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ih9jwp/study_freezing_of_water_droplets_suspended_in_the/"> <img src="https://external-preview.redd.it/EZr0GTnblRzG1eH1wbyV44tDGAAu2Wz_PC_PJv72nRo.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=19ff8a27a06f3eaeb1a3806af1d182c923eeac98" alt="Study: Freezing of water droplets suspended in the air plays part in the Earth’s water cycle of the transformation of water into ice | Molecular interactions driving ice formation can refine models of cloud dynamics and precipitation patterns, which play roles in weather and climate changes." title="Study: Freezing of water droplets suspended in the air plays part in the Earth’s water cycle of the transformation of water into ice | Molecular interactions driving ice formation can refine models of cloud dynamics and precipitation patterns, which play roles in weather and climate changes." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FunnyGamer9
+
+## Lung cancer diagnoses on the rise among never-smokers worldwide. Research shows need for further studies into air pollution and other causal factors. Lung cancer in people who have never smoked cigarettes or tobacco is now estimated to be the fifth highest cause of cancer deaths worldwide.
+ - [https://www.reddit.com/r/science/comments/1ih87qs/lung_cancer_diagnoses_on_the_rise_among](https://www.reddit.com/r/science/comments/1ih87qs/lung_cancer_diagnoses_on_the_rise_among)
+ - RSS feed: $source
+ - date published: 2025-02-04T03:16:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ih87qs/lung_cancer_diagnoses_on_the_rise_among/"> <img src="https://external-preview.redd.it/qhhE1WPvD5Y0PpY2R3-7DMstZQFCxNhfIjIKBT1MH0E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7249219338bde07d10ede92b9b3013ddf471f681" alt="Lung cancer diagnoses on the rise among never-smokers worldwide. Research shows need for further studies into air pollution and other causal factors. Lung cancer in people who have never smoked cigarettes or tobacco is now estimated to be the fifth highest cause of cancer deaths worldwide." title="Lung cancer diagnoses on the rise among never-smokers worldwide. Research shows need for further studies into air pollution and other causal factors. Lung cancer in people who have never smoked cigarettes or tobacco is now estimated to be the fifth highest cause of cancer deaths worldwide." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a> <br/>
+
+## Let us spray: River dolphins launch pee streams into air | It's unclear why river dolphins do this, but it might serve some kind of social function.
+ - [https://www.reddit.com/r/science/comments/1ih5wsq/let_us_spray_river_dolphins_launch_pee_streams](https://www.reddit.com/r/science/comments/1ih5wsq/let_us_spray_river_dolphins_launch_pee_streams)
+ - RSS feed: $source
+ - date published: 2025-02-04T01:22:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ih5wsq/let_us_spray_river_dolphins_launch_pee_streams/"> <img src="https://external-preview.redd.it/1w5QLNySXOOs-HGHD1aKliaZ0q8rLM8uTXmUQkuhfqQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=38a176ee106e785e5937163dc1a37d653fc1c08d" alt="Let us spray: River dolphins launch pee streams into air | It's unclear why river dolphins do this, but it might serve some kind of social function." title="Let us spray: River dolphins launch pee streams into air | It's unclear why river dolphins do this, but it might serve some kind of social function." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://arstechnica.com/science/2025/02/let-us-spray-river-dolphins-launch-pee-streams-into-air/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ih5wsq/let_us_spray_river_dolphins_launch_pee_streams/">[comments]</a><
+
