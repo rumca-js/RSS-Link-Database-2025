@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-05T06:00:00+00:00",
+        "description": "A group of major publishers in the US are suing the state of Idaho over a book-banning law.\n<br><br>\nHB 710, enacted last July, forbids anyone under the age of 18 from accessing books deemed \"harmful to minors\", including those depicting \"sexual conduct\", in school or public libraries.",
+        "id": 2047697,
+        "language": "en",
+        "link": "http://www.bookbrowse.com/news/detail/index.cfm?news_item_number=3370",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 43,
+        "source_url": "https://www.bookbrowse.com/rss/book_news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Publishers sue state of Idaho over library book bans",
+        "vote": 0
+    }
+]

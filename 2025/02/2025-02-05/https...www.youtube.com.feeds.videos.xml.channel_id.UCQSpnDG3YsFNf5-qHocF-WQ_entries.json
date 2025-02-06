@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-05T15:40:01+00:00",
+        "description": "Yes I was able to actually buy one - here's how\n\u21d2 Become a channel member for special emojis, early videos, and more! Check it out here: https://www.youtube.com/ThioJoe/join\n\nI was able to actually get an Nvidia 5090 Founders Edition on launch day. Just like the 40 series launch in 2022 when I got a 4090, it was a bunch of BS and required luck and some knowledge about how the Best Buy queue system works. And again it turns out there's a \"trick\" that involves basically activating the queue with the Add to Cart button potentially before it's visible to others. Or at least knowing when to refresh.\n\nThe Best Buy API apparently gives some kind of advanced notice when a drop is going to happen, either directly or indirectly, I'm not sure, I just know it must give a certain different response when something is truly out of stock vs a few minutes before a drop is going to happen. There are some bots that would give this notice but people would see it and refresh the page, not see the Add to ",
+        "id": 2048195,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=hCJuc6Y9Z_Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hCJuc6Y9Z_Y/hqdefault.jpg",
+        "title": "I Actually Bought an Nvidia 5090 FE - There's a Trick To It",
+        "vote": 0
+    }
+]

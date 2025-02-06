@@ -1,0 +1,254 @@
+# Source:Crack Support, URL:https://www.reddit.com/r/CrackSupport/.rss, language:
+
+## HELP: Forza Horizon 4 Save File Load (Goldberg SteaEmu Saves)
+ - [https://www.reddit.com/r/CrackSupport/comments/1iinrhj/help_forza_horizon_4_save_file_load_goldberg](https://www.reddit.com/r/CrackSupport/comments/1iinrhj/help_forza_horizon_4_save_file_load_goldberg)
+ - RSS feed: $source
+ - date published: 2025-02-05T23:07:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>i know we need to replace the files in the folder &quot;remote&quot; in 1293830</p> <p>most people have it n HOODLUM</p> <p>i have it in Goldberg SteamEmu Saves</p> <p>i tried everything but i cant load the save file.</p> <p>help? what folder do save it to? do i need to change anything else like steam id in some file? i have no idea</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WanaBeMillionare"> /u/WanaBeMillionare </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iinrhj/help_forza_horizon_4_save_file_load_goldberg/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iinrhj/help_forza_horizon_4_save_file_load_goldberg/">[comments]</a></span>
+
+## Unravel Two doesn't launch
+ - [https://www.reddit.com/r/CrackSupport/comments/1iinfo9/unravel_two_doesnt_launch](https://www.reddit.com/r/CrackSupport/comments/1iinfo9/unravel_two_doesnt_launch)
+ - RSS feed: $source
+ - date published: 2025-02-05T22:53:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I can&#39;t seem to know what the issue, downloaded the game from FitGirl installtion went well, but when i run the game nothing happens. Not even appearing on task manager. Trying to find a fix most people are crashing ingame or having error pop but mine does nothing</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MugiwaraHimself"> /u/MugiwaraHimself </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iinfo9/unravel_two_doesnt_launch/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iinfo9/unravel_two_doesnt_launch/">[comments]</a></span>
+
+## Kingdom Come 2: Steam Input bug
+ - [https://www.reddit.com/r/CrackSupport/comments/1iimjco/kingdom_come_2_steam_input_bug](https://www.reddit.com/r/CrackSupport/comments/1iimjco/kingdom_come_2_steam_input_bug)
+ - RSS feed: $source
+ - date published: 2025-02-05T22:15:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Game registers double input both dualshock and xbox, im pretty sure steam input is to blame. I&#39;ve tried 3 different cracks but none allow for disabling the steam input in their config files. Can someone point me to where i can disable it in gameload, FLT and RUNE cracks/steam emus.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Conscious_Breath_945"> /u/Conscious_Breath_945 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iimjco/kingdom_come_2_steam_input_bug/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iimjco/kingdom_come_2_steam_input_bug/">[comments]</a></span>
+
+## DLC for Sparking Zero locked?
+ - [https://www.reddit.com/r/CrackSupport/comments/1iikr2e/dlc_for_sparking_zero_locked](https://www.reddit.com/r/CrackSupport/comments/1iikr2e/dlc_for_sparking_zero_locked)
+ - RSS feed: $source
+ - date published: 2025-02-05T21:01:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1iikr2e/dlc_for_sparking_zero_locked/"> <img src="https://preview.redd.it/ieyfmytaxdhe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=260b6b431899373bb47457d925062f4c2927653d" alt="DLC for Sparking Zero locked?" title="DLC for Sparking Zero locked?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I would really appreciate if anyone could help me with this. I downloaded the sparking zero crack from steamrip, as well as the 100% save file from nexus mods. Upon starting the game I have everything unlocked except for the dlc characters. I deleted my version of sparking zero and downloaded the updated one when these guys came out, but forgot to backup my save files. Hence the one from nexus. Any suggestions would be awesome. Could the save file be interfering somehow?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/keisteredshank14"> /u/keisteredshank14 </a> <br/> <span>
+
+## I didn't know Piracy was illegal. And I pirated a few games from steam rip.
+ - [https://www.reddit.com/r/CrackSupport/comments/1iik06m/i_didnt_know_piracy_was_illegal_and_i_pirated_a](https://www.reddit.com/r/CrackSupport/comments/1iik06m/i_didnt_know_piracy_was_illegal_and_i_pirated_a)
+ - RSS feed: $source
+ - date published: 2025-02-05T20:30:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m in Canada, and yes, we do have piracy laws, and I did NOT know that, if I get caught, will it be a warning or a fine? Also, whats the chances I get caught.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AaravIsChad"> /u/AaravIsChad </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iik06m/i_didnt_know_piracy_was_illegal_and_i_pirated_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iik06m/i_didnt_know_piracy_was_illegal_and_i_pirated_a/">[comments]</a></span>
+
+## [The Sims, The Sims 2] Anadius has released the crack games but I don't know how to use them.
+ - [https://www.reddit.com/r/CrackSupport/comments/1iijhre/the_sims_the_sims_2_anadius_has_released_the](https://www.reddit.com/r/CrackSupport/comments/1iijhre/the_sims_the_sims_2_anadius_has_released_the)
+ - RSS feed: $source
+ - date published: 2025-02-05T20:09:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>EA had recently released Sims 1 and Sims 2 for steam and for unimaginable prices so I&#39;d rather use Anadius&#39;s version. But I own a Steam deck and don&#39;t know how to do it. I downloaded the file but couldn&#39;t add it to Steam. l&#39;ve never used a Linus nor downloaded crack so I need a little help with that.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eyrfcive"> /u/eyrfcive </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iijhre/the_sims_the_sims_2_anadius_has_released_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iijhre/the_sims_the_sims_2_anadius_has_released_the/">[comments]</a></span>
+
+## Installer crash
+ - [https://www.reddit.com/r/CrackSupport/comments/1iij1zn/installer_crash](https://www.reddit.com/r/CrackSupport/comments/1iij1zn/installer_crash)
+ - RSS feed: $source
+ - date published: 2025-02-05T19:52:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>Tried to install a game release from RUNE and FLT but the installer crash on like 10%, i mounted the image with deamon tools do i miss something? Running windows 10 latest update.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/00zoNL"> /u/00zoNL </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iij1zn/installer_crash/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iij1zn/installer_crash/">[comments]</a></span>
+
+## Hi im trying to download darksouls 3 from gametorrent but I cant seem to succeed, could anyone please help me?
+ - [https://www.reddit.com/r/CrackSupport/comments/1iiily6/hi_im_trying_to_download_darksouls_3_from](https://www.reddit.com/r/CrackSupport/comments/1iiily6/hi_im_trying_to_download_darksouls_3_from)
+ - RSS feed: $source
+ - date published: 2025-02-05T19:34:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>I got stuck after I downloaded it with bittorrent.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Apprehensive-Win6122"> /u/Apprehensive-Win6122 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iiily6/hi_im_trying_to_download_darksouls_3_from/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iiily6/hi_im_trying_to_download_darksouls_3_from/">[comments]</a></span>
+
+## What do I do if I downloaded from SteamUnlocked?
+ - [https://www.reddit.com/r/CrackSupport/comments/1iihzlg/what_do_i_do_if_i_downloaded_from_steamunlocked](https://www.reddit.com/r/CrackSupport/comments/1iihzlg/what_do_i_do_if_i_downloaded_from_steamunlocked)
+ - RSS feed: $source
+ - date published: 2025-02-05T19:09:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>My friend told me I could get Transformers: War for Cybertron on SteamUnlocked. But after reading around reddit, they said the site was not safe and I could have potentially installed malware. I made sure not to download from any pop ups either. I did the most logical thing and uninstalled the game and ran a virus detection scan on my pc. It said I was good but I&#39;m still paranoid. Am I good?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Colurzz"> /u/Colurzz </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iihzlg/what_do_i_do_if_i_downloaded_from_steamunlocked/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iihzlg/what_do_i_do_if_i_downloaded_from_steamunlocked/">[comments]</a></span>
+
+## Spiderman 2 pc after sandman fight save
+ - [https://www.reddit.com/r/CrackSupport/comments/1iiho9r/spiderman_2_pc_after_sandman_fight_save](https://www.reddit.com/r/CrackSupport/comments/1iiho9r/spiderman_2_pc_after_sandman_fight_save)
+ - RSS feed: $source
+ - date published: 2025-02-05T18:57:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Can anybody share after save when miles fight sandman ..mine prompt doesn&#39;t appear on sandman chest when Peter drops water ..please help..I&#39;m using dodi repack</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Potential-Barnacle76"> /u/Potential-Barnacle76 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iiho9r/spiderman_2_pc_after_sandman_fight_save/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iiho9r/spiderman_2_pc_after_sandman_fight_save/">[comments]</a></span>
+
+## Anadius sims 4 DLC unlocker help
+ - [https://www.reddit.com/r/CrackSupport/comments/1iihdei/anadius_sims_4_dlc_unlocker_help](https://www.reddit.com/r/CrackSupport/comments/1iihdei/anadius_sims_4_dlc_unlocker_help)
+ - RSS feed: $source
+ - date published: 2025-02-05T18:44:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I’ve been trying to download dlc from anadius for the past couple nights and every time something goes wrong. I tried to download the dlc from the encrypted google file, but then I couldn’t find my sims 4 packs folder and nothing was working to find it. So I tried the updater and it kept telling me there was no space even after I had moved everything out of the folder. Now I’m trying to download the mirrors that anadius linked on the dlc only page, and the page won’t load. Does anyone have any suggestions? I don’t even know what to ask for </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Human-Cycle-8979"> /u/Human-Cycle-8979 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iihdei/anadius_sims_4_dlc_unlocker_help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iihdei/anadius_sims_4_dlc_unlocker_help/">[comments]</a></span>
+
+## FH5 Online-Fix Save file
+ - [https://www.reddit.com/r/CrackSupport/comments/1iih6y0/fh5_onlinefix_save_file](https://www.reddit.com/r/CrackSupport/comments/1iih6y0/fh5_onlinefix_save_file)
+ - RSS feed: $source
+ - date published: 2025-02-05T18:37:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi there,</p> <p>I downloaded FH5 (fitgirl version) to play online using fake steam/ms accounts. The pack also included a 100% unlock save file, which doesn&#39;t seem to load. Is it only working on the offline crack?</p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jamal_beachman"> /u/jamal_beachman </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iih6y0/fh5_onlinefix_save_file/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iih6y0/fh5_onlinefix_save_file/">[comments]</a></span>
+
+## Anyone manage to get L.A. Noire to launch?
+ - [https://www.reddit.com/r/CrackSupport/comments/1iih1jw/anyone_manage_to_get_la_noire_to_launch](https://www.reddit.com/r/CrackSupport/comments/1iih1jw/anyone_manage_to_get_la_noire_to_launch)
+ - RSS feed: $source
+ - date published: 2025-02-05T18:31:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>Tried playing the cracked version from ovagames and it wont boot no matter what fixes I try.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DrIndigenous"> /u/DrIndigenous </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iih1jw/anyone_manage_to_get_la_noire_to_launch/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iih1jw/anyone_manage_to_get_la_noire_to_launch/">[comments]</a></span>
+
+## Windows Security
+ - [https://www.reddit.com/r/CrackSupport/comments/1iiftf7/windows_security](https://www.reddit.com/r/CrackSupport/comments/1iiftf7/windows_security)
+ - RSS feed: $source
+ - date published: 2025-02-05T17:41:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, just wanna ask if its ok to enable all protection features of windows since I’ve already put my repack folders into the exclusions of windows security.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Idunno_000000000000"> /u/Idunno_000000000000 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iiftf7/windows_security/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iiftf7/windows_security/">[comments]</a></span>
+
+## Fitgirl spacemarines 2 RUNE update says its a trojan
+ - [https://www.reddit.com/r/CrackSupport/comments/1iifqwd/fitgirl_spacemarines_2_rune_update_says_its_a](https://www.reddit.com/r/CrackSupport/comments/1iifqwd/fitgirl_spacemarines_2_rune_update_says_its_a)
+ - RSS feed: $source
+ - date published: 2025-02-05T17:39:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1iifqwd/fitgirl_spacemarines_2_rune_update_says_its_a/"> <img src="https://b.thumbs.redditmedia.com/gEPjAI_YUuiyzlVR1-eLhh68O-I2cb5XEXAMpZJoxOU.jpg" alt="Fitgirl spacemarines 2 RUNE update says its a trojan" title="Fitgirl spacemarines 2 RUNE update says its a trojan" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I just downloaded all spacemarine 2 Patches and when i went to setup it identified them as trojan, and i downloaded the updates from fuckingfast site didnt redirect me nowhere, is it 100% safe? do i allow windows to keep the files? someone lmk as soon as possible please</p> <p><a href="https://preview.redd.it/diy7s8oxxche1.png?width=488&amp;format=png&amp;auto=webp&amp;s=00ab15b25356a430c3125092501fb9a4d8ccd03a"> </a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zedwolf23"> /u/zedwolf23 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/commen
+
+## Im kinda new to cracking games. Pls give me advise
+ - [https://www.reddit.com/r/CrackSupport/comments/1iievng/im_kinda_new_to_cracking_games_pls_give_me_advise](https://www.reddit.com/r/CrackSupport/comments/1iievng/im_kinda_new_to_cracking_games_pls_give_me_advise)
+ - RSS feed: $source
+ - date published: 2025-02-05T17:03:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1iievng/im_kinda_new_to_cracking_games_pls_give_me_advise/"> <img src="https://preview.redd.it/xafdp04qqche1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d0fcb90ec095a4c0a5ace72827d74accc83ab9c5" alt="Im kinda new to cracking games. Pls give me advise" title="Im kinda new to cracking games. Pls give me advise" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MistahNoUsername"> /u/MistahNoUsername </a> <br/> <span><a href="https://i.redd.it/xafdp04qqche1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iievng/im_kinda_new_to_cracking_games_pls_give_me_advise/">[comments]</a></span> </td></tr></table>
+
+## Im kinda new to cracking games. Pls give me advise
+ - [https://www.reddit.com/r/CrackSupport/comments/1iievn9/im_kinda_new_to_cracking_games_pls_give_me_advise](https://www.reddit.com/r/CrackSupport/comments/1iievn9/im_kinda_new_to_cracking_games_pls_give_me_advise)
+ - RSS feed: $source
+ - date published: 2025-02-05T17:03:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1iievn9/im_kinda_new_to_cracking_games_pls_give_me_advise/"> <img src="https://preview.redd.it/xafdp04qqche1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d0fcb90ec095a4c0a5ace72827d74accc83ab9c5" alt="Im kinda new to cracking games. Pls give me advise" title="Im kinda new to cracking games. Pls give me advise" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MistahNoUsername"> /u/MistahNoUsername </a> <br/> <span><a href="https://i.redd.it/xafdp04qqche1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iievn9/im_kinda_new_to_cracking_games_pls_give_me_advise/">[comments]</a></span> </td></tr></table>
+
+## FItgirl Repack Unravel not starting
+ - [https://www.reddit.com/r/CrackSupport/comments/1iie80x/fitgirl_repack_unravel_not_starting](https://www.reddit.com/r/CrackSupport/comments/1iie80x/fitgirl_repack_unravel_not_starting)
+ - RSS feed: $source
+ - date published: 2025-02-05T16:37:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have this game downloaded but the game wont launch even if I run it as admin. I&#39;m pretty sure the installation went fine. Anyone here has any idea on how to make this work?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AnimeButt"> /u/AnimeButt </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iie80x/fitgirl_repack_unravel_not_starting/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iie80x/fitgirl_repack_unravel_not_starting/">[comments]</a></span>
+
+## Unpacking speeds
+ - [https://www.reddit.com/r/CrackSupport/comments/1iie7ms/unpacking_speeds](https://www.reddit.com/r/CrackSupport/comments/1iie7ms/unpacking_speeds)
+ - RSS feed: $source
+ - date published: 2025-02-05T16:36:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys so i searched a bit but could not find a reddit post about this matter but i am unpacking starfield and its taking me about 2 hours. I thought it would take like 1 hour since i use dodi any ideas why?</p> <p>Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz 2.50 GHz<br/> 16.0 GB (15.8 GB usable)<br/> Gtx 1650<br/> micron 2210</p> <p>I checked task manager and it says that my ssd speeds are barely going above 50 mbs and sometimes drop to 0</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Motor_Syrup_5268"> /u/Motor_Syrup_5268 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iie7ms/unpacking_speeds/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iie7ms/unpacking_speeds/">[comments]</a></span>
+
+## Spiderman 2 error
+ - [https://www.reddit.com/r/CrackSupport/comments/1iidunb/spiderman_2_error](https://www.reddit.com/r/CrackSupport/comments/1iidunb/spiderman_2_error)
+ - RSS feed: $source
+ - date published: 2025-02-05T16:21:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1iidunb/spiderman_2_error/"> <img src="https://b.thumbs.redditmedia.com/dj2wcbolWSM73zV7UZiiG_IC5xM_bBzaLjQA4pWo38w.jpg" alt="Spiderman 2 error" title="Spiderman 2 error" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hey i just installed spider-man 2 but when i want to run it this message error pops. how do i fix the issue ? Thanks</p> <p><a href="https://preview.redd.it/vf5i7r2ojche1.png?width=691&amp;format=png&amp;auto=webp&amp;s=9f0e7c7e5784dc6d80bc6b7f52777eaf4273ba25">https://preview.redd.it/vf5i7r2ojche1.png?width=691&amp;format=png&amp;auto=webp&amp;s=9f0e7c7e5784dc6d80bc6b7f52777eaf4273ba25</a></p> <p><a href="https://preview.redd.it/4xish214jche1.png?width=409&amp;format=png&amp;auto=webp&amp;s=995b6e72fbae6309561eb9c1fdaf3112d2d6fcd0">https://preview.redd.it/4xish214jche1.png?width=409&amp;format=png&amp;auto=webp&amp;s=995b6e72fbae6309561eb9c1fdaf3112d2d6fcd0</a></p> </div><!-- SC_ON --> &#32; 
+
+## how to change nfs heat language english to french / DODI REPACK
+ - [https://www.reddit.com/r/CrackSupport/comments/1ii9zhz/how_to_change_nfs_heat_language_english_to_french](https://www.reddit.com/r/CrackSupport/comments/1ii9zhz/how_to_change_nfs_heat_language_english_to_french)
+ - RSS feed: $source
+ - date published: 2025-02-05T13:32:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>how to change nfs heat language english to french / DODI REPACK</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Recent_Tea7397"> /u/Recent_Tea7397 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii9zhz/how_to_change_nfs_heat_language_english_to_french/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii9zhz/how_to_change_nfs_heat_language_english_to_french/">[comments]</a></span>
+
+## Is steamrip safe?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ii9xr8/is_steamrip_safe](https://www.reddit.com/r/CrackSupport/comments/1ii9xr8/is_steamrip_safe)
+ - RSS feed: $source
+ - date published: 2025-02-05T13:29:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>i wanted to download forza 4 And do you all turn off the antivirus while downloading? Thanks </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thatmanwhoisaman"> /u/thatmanwhoisaman </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii9xr8/is_steamrip_safe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii9xr8/is_steamrip_safe/">[comments]</a></span>
+
+## Does Age of Empires IV have a multiplayer crack?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ii9voz/does_age_of_empires_iv_have_a_multiplayer_crack](https://www.reddit.com/r/CrackSupport/comments/1ii9voz/does_age_of_empires_iv_have_a_multiplayer_crack)
+ - RSS feed: $source
+ - date published: 2025-02-05T13:26:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>I wanted to play it with some friends, would i be able to?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/akarenchild"> /u/akarenchild </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii9voz/does_age_of_empires_iv_have_a_multiplayer_crack/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii9voz/does_age_of_empires_iv_have_a_multiplayer_crack/">[comments]</a></span>
+
+## HackTool:Win32/Crack!MTB
+ - [https://www.reddit.com/r/CrackSupport/comments/1ii99or/hacktoolwin32crackmtb](https://www.reddit.com/r/CrackSupport/comments/1ii99or/hacktoolwin32crackmtb)
+ - RSS feed: $source
+ - date published: 2025-02-05T12:53:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is this file safe? My defender doesn&#39;t says so.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/keyaru69069"> /u/keyaru69069 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii99or/hacktoolwin32crackmtb/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii99or/hacktoolwin32crackmtb/">[comments]</a></span>
+
+## Anyone have the discord link for spider man 2 PC port Brazil
+ - [https://www.reddit.com/r/CrackSupport/comments/1ii880p/anyone_have_the_discord_link_for_spider_man_2_pc](https://www.reddit.com/r/CrackSupport/comments/1ii880p/anyone_have_the_discord_link_for_spider_man_2_pc)
+ - RSS feed: $source
+ - date published: 2025-02-05T11:49:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Why dont I get the official game is bc I have an Rx 580 and the game dose not even lunch and ik they will never fix that </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Electrical-Ad-7264"> /u/Electrical-Ad-7264 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii880p/anyone_have_the_discord_link_for_spider_man_2_pc/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii880p/anyone_have_the_discord_link_for_spider_man_2_pc/">[comments]</a></span>
+
+## Downloaded resident evil 4 from fitgirl
+ - [https://www.reddit.com/r/CrackSupport/comments/1ii7acg/downloaded_resident_evil_4_from_fitgirl](https://www.reddit.com/r/CrackSupport/comments/1ii7acg/downloaded_resident_evil_4_from_fitgirl)
+ - RSS feed: $source
+ - date published: 2025-02-05T10:43:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I downloaded resident evil 4 from fitgirl repack it said all weapons and costumes are unlocked and it&#39;s in &quot;100%save&quot; folder ... But when I entered the game there is only pistol in my loadout and no other costumes.... When I opened the 100 %save folder it has 2 .sav files what should I do with it </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Op2156"> /u/Op2156 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii7acg/downloaded_resident_evil_4_from_fitgirl/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii7acg/downloaded_resident_evil_4_from_fitgirl/">[comments]</a></span>
+
+## Its Out
+ - [https://www.reddit.com/r/CrackSupport/comments/1ii6isv/its_out](https://www.reddit.com/r/CrackSupport/comments/1ii6isv/its_out)
+ - RSS feed: $source
+ - date published: 2025-02-05T09:44:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ii6isv/its_out/"> <img src="https://preview.redd.it/p8mteveikahe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=717d447744a58141b252edeeb278ac730b76be48" alt="Its Out" title="Its Out" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GamerZodiac"> /u/GamerZodiac </a> <br/> <span><a href="https://i.redd.it/p8mteveikahe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii6isv/its_out/">[comments]</a></span> </td></tr></table>
+
+## hitman 3
+ - [https://www.reddit.com/r/CrackSupport/comments/1ii6esv/hitman_3](https://www.reddit.com/r/CrackSupport/comments/1ii6esv/hitman_3)
+ - RSS feed: $source
+ - date published: 2025-02-05T09:35:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>so i got hitman 3.10 cracked on my pc( not hitmano woa beacuse it was not working), but using peacock i see all te content that is missing. anyone have an idea on how to update it or just add the missing content?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Discipline-1661"> /u/Ok-Discipline-1661 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii6esv/hitman_3/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii6esv/hitman_3/">[comments]</a></span>
+
+## Sims 2 help needed!
+ - [https://www.reddit.com/r/CrackSupport/comments/1ii6e7i/sims_2_help_needed](https://www.reddit.com/r/CrackSupport/comments/1ii6e7i/sims_2_help_needed)
+ - RSS feed: $source
+ - date published: 2025-02-05T09:34:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>I downloaded Sims 2 through Anadius. When I try to open it an error message pops up saying “ Windows cannot find EP9/ TSBin\Sims2EP9.exe” the file is on my computer though so I don’t know what I’m doing wrong . Any suggestions? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ducknailz"> /u/Ducknailz </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii6e7i/sims_2_help_needed/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii6e7i/sims_2_help_needed/">[comments]</a></span>
+
+## Miside decompiled version
+ - [https://www.reddit.com/r/CrackSupport/comments/1ii6adc/miside_decompiled_version](https://www.reddit.com/r/CrackSupport/comments/1ii6adc/miside_decompiled_version)
+ - RSS feed: $source
+ - date published: 2025-02-05T09:26:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>Has someone cracked miside already and decompiled it so that its usable in the unity editor? Want to start making some mods</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/raphusmaxus"> /u/raphusmaxus </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii6adc/miside_decompiled_version/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii6adc/miside_decompiled_version/">[comments]</a></span>
+
+## How can i fix this.
+ - [https://www.reddit.com/r/CrackSupport/comments/1ii4aqg/how_can_i_fix_this](https://www.reddit.com/r/CrackSupport/comments/1ii4aqg/how_can_i_fix_this)
+ - RSS feed: $source
+ - date published: 2025-02-05T06:56:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>i installed king orders from both ig games and file icr and did not work (ik ig games is not safe i just have to NEVER run in administrator it already ruined one of my computers) and in former it close it and then open steam and write no licenses and in the second close the game and try to open steam</p> <p>ps</p> <p>my contry does not care about copyright and/or pirating games so it is not illegal so WHAT DO I HAVE TO DO</p> <p>also i have windows 10</p> <p>16 gigs of ram and 32 mb of integrated video memory (i dont have a graphics card)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Smart_Remote7789"> /u/Smart_Remote7789 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii4aqg/how_can_i_fix_this/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii4aqg/how_can_i_fix_this/">[comments]</a></span>
+
+## Rimworld Biotech 1.5... on mac 🥺
+ - [https://www.reddit.com/r/CrackSupport/comments/1ii1ubu/rimworld_biotech_15_on_mac](https://www.reddit.com/r/CrackSupport/comments/1ii1ubu/rimworld_biotech_15_on_mac)
+ - RSS feed: $source
+ - date published: 2025-02-05T04:22:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been trying to get biotech (i&#39;ve already got royalty and anomaly legit by paying) and I really don&#39;t feel like paying, there&#39;s rarely any discounts, so I want to know- is there any SAFE links to download biotech for MACBOOK, not windows 🥺</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Some_Reddit_Beluga"> /u/Some_Reddit_Beluga </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii1ubu/rimworld_biotech_15_on_mac/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii1ubu/rimworld_biotech_15_on_mac/">[comments]</a></span>
+
+## Questions about saving game when using creamapi to unlock DLCs
+ - [https://www.reddit.com/r/CrackSupport/comments/1ii0isr/questions_about_saving_game_when_using_creamapi](https://www.reddit.com/r/CrackSupport/comments/1ii0isr/questions_about_saving_game_when_using_creamapi)
+ - RSS feed: $source
+ - date published: 2025-02-05T03:12:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I downloaded DOA5LR free version on Steam and then used CreamAPI to unlock all the DLCs. The game runs fine but it won&#39;t save anything. Everytime I open the game, I started from scratch so all non-DLC contents become locked again. I checked the save files location and the folder have been marked with &quot;read-only&quot; but just to be sure, I have some questions : 1. Is this supposed to be &quot;normal&quot; when using DLC unlocker ? I&#39;m new to using unlocker 2. If I unmark &quot;read-only&quot; on my save folder, will I get ban on Steam ? I don&#39;t play multiplayer but I just want to be sure Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Meksumnoyz92"> /u/Meksumnoyz92 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii0isr/questions_about_saving_game_when_using_creamapi/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ii0isr/qu
+
+## Assistance for Sims 4
+ - [https://www.reddit.com/r/CrackSupport/comments/1ihzjq5/assistance_for_sims_4](https://www.reddit.com/r/CrackSupport/comments/1ihzjq5/assistance_for_sims_4)
+ - RSS feed: $source
+ - date published: 2025-02-05T02:23:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I was using anadius updater, and unlocker, using it properly. My problem with the program is that only a handful of DLCs activate. Like in the store, for half of the DLCs, and kits, it says &quot;Download to use&quot;. I&#39;ve reinstalled all of the DLCs 3 times, and I can&#39;t find any other people with the same problem as me.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/etscket_on_that_neat"> /u/etscket_on_that_neat </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ihzjq5/assistance_for_sims_4/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ihzjq5/assistance_for_sims_4/">[comments]</a></span>
+
+## Kingdom come deliverance 2 no steamapp?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ihyr54/kingdom_come_deliverance_2_no_steamapp](https://www.reddit.com/r/CrackSupport/comments/1ihyr54/kingdom_come_deliverance_2_no_steamapp)
+ - RSS feed: $source
+ - date published: 2025-02-05T01:44:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ihyr54/kingdom_come_deliverance_2_no_steamapp/"> <img src="https://preview.redd.it/l9xxq4yw68he1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=362276bc2c65e2e6062f660144eddf5d910bfdff" alt="Kingdom come deliverance 2 no steamapp?" title="Kingdom come deliverance 2 no steamapp?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hey guys I got this problem in kcd2 how can I fix it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SalamancaGuy"> /u/SalamancaGuy </a> <br/> <span><a href="https://i.redd.it/l9xxq4yw68he1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ihyr54/kingdom_come_deliverance_2_no_steamapp/">[comments]</a></span> </td></tr></table>
+
+## Will anadius Sims 4 packs give me viruses?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ihx7ku/will_anadius_sims_4_packs_give_me_viruses](https://www.reddit.com/r/CrackSupport/comments/1ihx7ku/will_anadius_sims_4_packs_give_me_viruses)
+ - RSS feed: $source
+ - date published: 2025-02-05T00:30:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>Okay so I have anadius Sims 4 packs downloaded on my gaming laptop and I&#39;m scared it&#39;s gonna cause viruses or be seen as a software threat somehow idk. I&#39;m only concerned about this now since I&#39;m beginning college in the fall and went through a pretty extensive reading and quizzed agreement thingy about cyber security basically saying I pledge not to use my devices to go onto the deep dark web to watch downloaded movies for free type of sites... which would potentially put the university&#39;s information at risk. Sounds pretty out there but I guess it&#39;s better to be safe than sorry. ANYWAYS can someone please help me, or anadius himself please king show up, and lmk if the packs are going to be seen as a threat of some kind or a gateway for viruses to get in? (idk how software works)</p> <p>For reference, I&#39;m probably not gonna bring my gaming laptop to college but in case I do, I want to make sure I&#39;m not gonna be swatted
+

@@ -1,0 +1,128 @@
+# Source:Linux, GNU/Linux, free software..., URL:https://www.reddit.com/r/linux/.rss, language:en
+
+## Any software like omen gaming hub
+ - [https://www.reddit.com/r/linux/comments/1iinxoz/any_software_like_omen_gaming_hub](https://www.reddit.com/r/linux/comments/1iinxoz/any_software_like_omen_gaming_hub)
+ - RSS feed: $source
+ - date published: 2025-02-05T23:14:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello all, I recently got a gaming laptop to extend by linux masterrace but i wanted to see if theres any programs like omen gaming hub that i can change to eco mode etc to conserve power when needed</p> <p>Im using nobara kde 41</p> <p>Thank you</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/oliveoliverYT"> /u/oliveoliverYT </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iinxoz/any_software_like_omen_gaming_hub/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iinxoz/any_software_like_omen_gaming_hub/">[comments]</a></span>
+
+## Why Rust for Linux is not a separate project?
+ - [https://www.reddit.com/r/linux/comments/1iim6mx/why_rust_for_linux_is_not_a_separate_project](https://www.reddit.com/r/linux/comments/1iim6mx/why_rust_for_linux_is_not_a_separate_project)
+ - RSS feed: $source
+ - date published: 2025-02-05T22:00:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Why is it a part of the Linux kernel project and repository and not a separate one? Is there any technical reason for that? I mean, all the bindings, drivers and stuff can be maintained independently, can&#39;t them?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NamorNiradnug"> /u/NamorNiradnug </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iim6mx/why_rust_for_linux_is_not_a_separate_project/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iim6mx/why_rust_for_linux_is_not_a_separate_project/">[comments]</a></span>
+
+## newbie having problem with hardrive that vanished
+ - [https://www.reddit.com/r/linux/comments/1iilzd1/newbie_having_problem_with_hardrive_that_vanished](https://www.reddit.com/r/linux/comments/1iilzd1/newbie_having_problem_with_hardrive_that_vanished)
+ - RSS feed: $source
+ - date published: 2025-02-05T21:52:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>So to explain what is happening, I wanted to try linux, but after some testing decided to go back to windows. had some problem to boot windows because it didn&#39;t wanted to write on my drive, through the bios I&#39;ve managed to install back windows, but my other harddisk is just missing and device manager can&#39;t find it neither. If one of you can help me with childs words I would love u (sry If I made english mystake, not my native language)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/smidarok"> /u/smidarok </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iilzd1/newbie_having_problem_with_hardrive_that_vanished/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iilzd1/newbie_having_problem_with_hardrive_that_vanished/">[comments]</a></span>
+
+## Alpine needs help.
+ - [https://www.reddit.com/r/linux/comments/1iil0nk/alpine_needs_help](https://www.reddit.com/r/linux/comments/1iil0nk/alpine_needs_help)
+ - RSS feed: $source
+ - date published: 2025-02-05T21:12:16+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Affectionate_Egg_121"> /u/Affectionate_Egg_121 </a> <br/> <span><a href="/r/AlpineLinux/comments/1iii28a/alpine_needs_help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iil0nk/alpine_needs_help/">[comments]</a></span>
+
+## CIFS/Samba mount hangs when going from wired ethernet to WiFi
+ - [https://www.reddit.com/r/linux/comments/1iijmxk/cifssamba_mount_hangs_when_going_from_wired](https://www.reddit.com/r/linux/comments/1iijmxk/cifssamba_mount_hangs_when_going_from_wired)
+ - RSS feed: $source
+ - date published: 2025-02-05T20:15:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>If I mount a Samba share while connected to wired ethernet and then unplug my network cable, the mount hangs even though my laptop is connected to my home network via WiFi. Why won&#39;t the Samba client switch over to WiFi? I&#39;m mounting with the following entry in my fstab:</p> <p><code> //BESPIN/video /home/robert/Videos cifs credentials=/home/robert/.config/win-credentials,vers=2.0,dir_mode=0755,file_mode=0644,uid=1000,gid=1000,noauto,user 0 0 </code></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ReallyEvilRob"> /u/ReallyEvilRob </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iijmxk/cifssamba_mount_hangs_when_going_from_wired/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iijmxk/cifssamba_mount_hangs_when_going_from_wired/">[comments]</a></span>
+
+## qemu for home use?
+ - [https://www.reddit.com/r/linux/comments/1iig74e/qemu_for_home_use](https://www.reddit.com/r/linux/comments/1iig74e/qemu_for_home_use)
+ - RSS feed: $source
+ - date published: 2025-02-05T17:57:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am advanced use (not admin). I mostly use windows at home and linux at work. recently I learned about qemu virtualization and the possibility to run VM in near full metal performance. (I guess I was doing it for a while without knowing in proxmox home server, but those VMs were headless).</p> <p>but back to the case. I have 2 screens, single rtx2070 card, enough ram and cpu. Can I play games? will vga passthrough work if I have single gpu? can windows machine take over two screens? can I have different VMs on different screens? copy paste in between? any other real world issues with such setup?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/flaotte"> /u/flaotte </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iig74e/qemu_for_home_use/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iig74e/qemu_for_home_use/">[comments]</a></span>
+
+## Motorola moto g play 2024 smartphone, Android 14 operating system, Termux application version 0.119.0-beta.1, QEMU running under Termux, and the Alpine Linux operating system: Booting the Fedora Linux 40 operating system Fedora-Cloud-Base-Generic.x86_64-40-1.14 Edition
+ - [https://www.reddit.com/r/linux/comments/1iiel8n/motorola_moto_g_play_2024_smartphone_android_14](https://www.reddit.com/r/linux/comments/1iiel8n/motorola_moto_g_play_2024_smartphone_android_14)
+ - RSS feed: $source
+ - date published: 2025-02-05T16:52:18+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/throwaway16830261"> /u/throwaway16830261 </a> <br/> <span><a href="https://old.reddit.com/r/MotoG/comments/1iie8t5/motorola_moto_g_play_2024_smartphone_android_14/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iiel8n/motorola_moto_g_play_2024_smartphone_android_14/">[comments]</a></span>
+
+## curl 8.12 released
+ - [https://www.reddit.com/r/linux/comments/1iidxvo/curl_812_released](https://www.reddit.com/r/linux/comments/1iidxvo/curl_812_released)
+ - RSS feed: $source
+ - date published: 2025-02-05T16:25:37+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/gabriel_3"> /u/gabriel_3 </a> <br/> <span><a href="https://curl.se/ch/8.12.0.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iidxvo/curl_812_released/">[comments]</a></span>
+
+## Headache with IP tables and X11 forwarding.
+ - [https://www.reddit.com/r/linux/comments/1iibnr4/headache_with_ip_tables_and_x11_forwarding](https://www.reddit.com/r/linux/comments/1iibnr4/headache_with_ip_tables_and_x11_forwarding)
+ - RSS feed: $source
+ - date published: 2025-02-05T14:50:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m doing an assignment and I need to have a Ubuntu server with no GUI, an Ubuntu clien and a Windows client. </p> <p>I need to configure iptables rules to allow the Ubuntu client (192.168.100.2) to execute xclock through ssh -X and block this in the Windows client (192.168.100.3). </p> <p>In Windows, I have Xming and PuTTY install so I can test ssh -X in Windows. </p> <p>I&#39;ve tried numerous rules, but ultimately I have gotten two results. Either I can run Xclock in both clients even tho I have rules to deny it on the Windows client (outcome one) or the Xclock command does absolutely nothing (it hangs waiting forever) in BOTH clients even tho I have a rule to allow it on the Ubuntu client. </p> <p>(Note that the order of the rules is first to allow, then deny the other). </p> <p>The rules I have introduced:</p> <p>iptables -A INPUT -p tcp -s 192.168.100.2 --dport 6000:6063 -j ACCEPT</p> <p>iptables -A INPUT -p tcp -s 192.168.100.3 --dport 600
+
+## Why is it so hard to install linux on a smart phone?
+ - [https://www.reddit.com/r/linux/comments/1ii92lt/why_is_it_so_hard_to_install_linux_on_a_smart](https://www.reddit.com/r/linux/comments/1ii92lt/why_is_it_so_hard_to_install_linux_on_a_smart)
+ - RSS feed: $source
+ - date published: 2025-02-05T12:42:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>I really enjoy using Desktop Linux on my old computers but I would really love to have it on my phone as well, since my phone is always with me and I&#39;d like to have more control over my device. However, all Linux Operating Systems available for phones will have a short list of new phones where this can work.<br/> Since I don&#39;t use the most expensive phones from the biggest brands on the market I find myself unable to use any of the linux OS available. why can&#39;t we just install it on any phone with RAM, diskspace and CPU minimum requirements like on PC, why does it work only on specific phones?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Business7016"> /u/No-Business7016 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1ii92lt/why_is_it_so_hard_to_install_linux_on_a_smart/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ii92lt/why_is_it_so_hard_
+
+## Squirrel Servers Manager, the solution to manage your containers & servers, now agentless!
+ - [https://www.reddit.com/r/linux/comments/1ii7031/squirrel_servers_manager_the_solution_to_manage](https://www.reddit.com/r/linux/comments/1ii7031/squirrel_servers_manager_the_solution_to_manage)
+ - RSS feed: $source
+ - date published: 2025-02-05T10:21:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I’m thrilled to announce a major milestone for the next version of <a href="https://squirrelserversmanager.io/">Squirrel Server Manager </a><strong>(SSM)</strong>: it will be <strong>100% agentless</strong>!</p> <h1>What’s Changing?</h1> <p>Since day one, SSM has relied on installing an agent on each of your devices to retrieve statistics and information. That’s about to change. With the upcoming version, everything will work seamlessly over <strong>SSH</strong>—no need for agents anymore! This means setup will be <em>simpler</em>, <em>cleaner</em>, and <em>less resource-intensive</em>, all while remaining completely transparent.</p> <p>And that’s not all...</p> <h1>Key Enhancements</h1> <ol> <li><strong>Prometheus Integration</strong> The internal database for statistics has been replaced with <strong>Prometheus</strong>, the standard for storing and processing metrics. This will bring <strong>reliability, scalability, and advanc
+
+## Distro to multi-OS side-by-side: VM Host vs KVM vs Docker ?
+ - [https://www.reddit.com/r/linux/comments/1ii6tu6/distro_to_multios_sidebyside_vm_host_vs_kvm_vs](https://www.reddit.com/r/linux/comments/1ii6tu6/distro_to_multios_sidebyside_vm_host_vs_kvm_vs)
+ - RSS feed: $source
+ - date published: 2025-02-05T10:07:44+00:00
+
+<!-- SC_OFF --><div class="md"><h1>Options</h1> <ol> <li>Instead of Multibooting, is there a <strong>distro</strong> (Linux or BSD) where I can run multi OS together (Windows, Linux, macOS).</li> </ol> <ul> <li>QubesOS - it&#39;s for temporary VMs ? Is there a QubesOS as VM Host ?</li> <li>Is Proxmox VE right ?</li> </ul> <ol> <li>In VM Host like Proxmox I can backup/restore last working state of all any OS without interrupting my work flow., easy and fast</li> <li>Use Linux but <strong>Windows &amp; macOS as VMs.</strong> How do I use their apps as if native?</li> </ol> <p><strong>4. Docker</strong> <a href="https://github.com/dockur/windows">https://github.com/dockur/windows</a></p> <ol> <li>If &quot;run as Native is not an Option&quot; what about Running all my OS Linux, WIndows, macOS under a Linux Distro. What distro to chose.</li> </ol> <h1>Problems</h1> <p><strong>1. Different OS&#39;s apps as there are native -</strong> Ex.- Using LogicPro on mac, Fl Studio on Win and Chromiu
+
+## Best WM specifically for laptops?
+ - [https://www.reddit.com/r/linux/comments/1ii32ul/best_wm_specifically_for_laptops](https://www.reddit.com/r/linux/comments/1ii32ul/best_wm_specifically_for_laptops)
+ - RSS feed: $source
+ - date published: 2025-02-05T05:35:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m using an ASUS Vivobook (F571GT) for education, and I prioritize portability and quickly being able to just open my laptop somewhere and continue working. The laptop is currently running Linux Mint 21.1 with Cinnamon, however I have found myself preferring standalone window managers on my main PC. I am not new to WMs by any means, however I would prefer a tiling WM for sure.</p> <p>I&#39;m also open to distro-hopping, if a certain WM is better experienced on another distro (probably unlikely and this is probably never the case, but I&#39;m just leaving this here in case)</p> <p>What would you guys recommend I use? I know that some of you may say any one, or it&#39;s all about how I configure it but I&#39;d like specific suggestions if possible. Any help would be appreciated :)</p> <p>EDIT: As people start to recommend WMs I&#39;ve already used, I&#39;d just like to say that I&#39;ve used Qtile, i3, Xmonad, Awesome (not a lot tho), DWM &amp; Hy
+
+## On the Go: Making it Easier to Find Linux Apps for Phones & Tablets
+ - [https://www.reddit.com/r/linux/comments/1ii2hgd/on_the_go_making_it_easier_to_find_linux_apps_for](https://www.reddit.com/r/linux/comments/1ii2hgd/on_the_go_making_it_easier_to_find_linux_apps_for)
+ - RSS feed: $source
+ - date published: 2025-02-05T05:00:10+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BrageFuglseth"> /u/BrageFuglseth </a> <br/> <span><a href="https://docs.flathub.org/blog/on-the-go-linux-mobile-collection/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ii2hgd/on_the_go_making_it_easier_to_find_linux_apps_for/">[comments]</a></span>
+
+## It's interesting that the man who invented Linux has no time for Linux.
+ - [https://www.reddit.com/r/linux/comments/1ii12db/its_interesting_that_the_man_who_invented_linux](https://www.reddit.com/r/linux/comments/1ii12db/its_interesting_that_the_man_who_invented_linux)
+ - RSS feed: $source
+ - date published: 2025-02-05T03:40:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just listened to a talk Linus gave where he said that he daily drives Fedora because it stays out of his way and allows him to do his work, that work being developing Linux. He likes not having to deal with Linux so that he can more effecively deal with Linux. Such is the thinking of the kind of man who could create Linux.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Experience3314"> /u/No-Experience3314 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1ii12db/its_interesting_that_the_man_who_invented_linux/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ii12db/its_interesting_that_the_man_who_invented_linux/">[comments]</a></span>
+
+## Daily Driving PopOS
+ - [https://www.reddit.com/r/linux/comments/1ihzq8i/daily_driving_popos](https://www.reddit.com/r/linux/comments/1ihzq8i/daily_driving_popos)
+ - RSS feed: $source
+ - date published: 2025-02-05T02:32:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I have been running PopOS on both my gaming and my main work laptop. Yes I have a laptop that is dedicated for gaming and one dedicated to just media consumption/work....don&#39;t judge me. Anyway, after about a solid 2 months of playing around with it and making it my own I do truly love it. I am curious what distro do you guys feel is perfect for you?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Awkward-Panic8948"> /u/Awkward-Panic8948 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1ihzq8i/daily_driving_popos/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ihzq8i/daily_driving_popos/">[comments]</a></span>
+
+## Installing an old Centos Kernel
+ - [https://www.reddit.com/r/linux/comments/1ihy8ak/installing_an_old_centos_kernel](https://www.reddit.com/r/linux/comments/1ihy8ak/installing_an_old_centos_kernel)
+ - RSS feed: $source
+ - date published: 2025-02-05T01:19:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to install an older version of Centos 7 offline with a specific kernel to do some testing on but this really isn&#39;t my area can you tell me if I&#39;m missing any steps.</p> <p>Download the Centos 7 ISO (not sure which version I should use)</p> <p>Download the desired kernel</p> <p>Install Centos as usual</p> <p>Install the kernal rpm</p> <p>Edit the grub file</p> <p>done.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sea-Oven-7560"> /u/Sea-Oven-7560 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1ihy8ak/installing_an_old_centos_kernel/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ihy8ak/installing_an_old_centos_kernel/">[comments]</a></span>
+
+## Let's Encrypt ending support for expiration email by June 4th 2025
+ - [https://www.reddit.com/r/linux/comments/1ihx9cd/lets_encrypt_ending_support_for_expiration_email](https://www.reddit.com/r/linux/comments/1ihx9cd/lets_encrypt_ending_support_for_expiration_email)
+ - RSS feed: $source
+ - date published: 2025-02-05T00:33:16+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/aaronryder773"> /u/aaronryder773 </a> <br/> <span><a href="https://letsencrypt.org/2025/01/22/ending-expiration-emails/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ihx9cd/lets_encrypt_ending_support_for_expiration_email/">[comments]</a></span>
+

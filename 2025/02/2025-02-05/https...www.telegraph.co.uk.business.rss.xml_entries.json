@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-05T08:20:28+00:00",
+        "description": "<![CDATA[<p>China has called for fresh talks with the US after a call between Donald Trump and Xi Jinping was cancelled amid a deepening trade war between the world\u2019s largest economies.</p>]]>",
+        "id": 2045249,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2025/02/05/tariffs-ftse-100-markets-latest-news-uk-china-us-trump-xi",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "China seeks tariff talks after call between Trump and Xi cancelled",
+        "vote": 0
+    }
+]

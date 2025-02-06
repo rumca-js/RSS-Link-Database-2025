@@ -1,0 +1,86 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Police are cracking down on fentanyl in Canada but say it has nothing to do with Trump
+ - [https://www.cbc.ca/news/canada/british-columbia/fentanyl-crackdowns-canada-1.7451585?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/fentanyl-crackdowns-canada-1.7451585?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T17:00:04+00:00
+
+<img src='https://i.cbc.ca/1.7404165.1738792502!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/rcmp-bust-20241031.JPG' alt='A table laden with piles of drugs and lines of guns at a news conference' width='620' height='349' title='Firearms and drugs seized in October in B.C. in what the RCMP called the largest and most sophisticated fentanyl and methamphetamine drug superlab in Canada.'/><p>Efforts to break up crime syndicates precede threats from the U.S. president, investigators taking down drug labs in Western Canada say.</p>
+
+## 'These are kids': Quebec peewee tournament urges spectators not to boo U.S. anthem
+ - [https://www.cbc.ca/news/canada/montreal/quebec-peewee-hockey-tournament-1.7451055?cmp=rss](https://www.cbc.ca/news/canada/montreal/quebec-peewee-hockey-tournament-1.7451055?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T11:48:54+00:00
+
+<img src='https://i.cbc.ca/1.7451056.1738770739!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/peewee-hockey-game.jpg' alt='A group of young hockey players stand interlocking arms, on the ice before a hockey game.' width='620' height='349' title='The Ukrainain and Boston hockey teams interlocked arms during the playing of the national anthems in 2023 at the International Pee-Wee Hockey Tournament in Quebec. Organizers are now urging crowds not to boo during the national anthem.'/><p>Quebec City’s mayor says booing the hockey players — aged 11 and 12 — doesn’t send the right message.</p>
+
+## After a pandemic boom, Canada's video game industry is taking a hit
+ - [https://www.cbc.ca/news/canada/edmonton/canada-s-video-game-industry-blew-up-during-the-pandemic-now-it-s-taking-a-hit-1.7451008?cmp=rss](https://www.cbc.ca/news/canada/edmonton/canada-s-video-game-industry-blew-up-during-the-pandemic-now-it-s-taking-a-hit-1.7451008?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T11:07:22+00:00
+
+<img src='https://i.cbc.ca/1.7052081.1701970619!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/france-videogames-paris-fair.JPG' alt='Image of a woman holding a video game controller with two hands.' width='620' height='349' title='An attendee uses a Nintendo Switch game console while playing a video game at the Paris Games Week (PGW), a trade fair for video games in Paris, France, November 5, 2023. REUTERS/Claudia Greco'/><p>The number of video game companies operating in Canada dropped nine per cent in the wake of a pandemic-fuelled gaming boom, most of them smaller independent shops with fewer than 25 employees, according to an economic report on the industry.</p>
+
+## Trudeau announces Canada-U.S. Economic Summit for Friday
+ - [https://www.cbc.ca/news/politics/canada-us-economic-summit-1.7450975?cmp=rss](https://www.cbc.ca/news/politics/canada-us-economic-summit-1.7450975?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T10:11:41+00:00
+
+<img src='https://i.cbc.ca/1.7394494.1737484337!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-trump-who-20200423.jpg' alt='A pugnacious Donald Trump, his jaw thrust forward, talks to Justin Trudeau, whose head is tilted with a quizzical expression.' width='620' height='349' title='Prime Minister Justin Trudeau and U.S. President Donald Trump arrive to take part in a plenary session at the NATO Summit in Watford, Hertfordshire, England, on Wednesday, Dec. 4, 2019.'/><p>With the threat of punishing tariffs on pause but still hovering over the Canadian economy, Prime Minister Justin Trudeau announced the government will host a Canada-U.S. Economic Summit later this week, aimed at increasing investment and easing internal trade barriers. </p>
+
+## B.C. grocers move toward buying local as tariff threat looms
+ - [https://www.cbc.ca/news/canada/british-columbia/grocers-buy-local-bc-1.7450591?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/grocers-buy-local-bc-1.7450591?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T08:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7450599.1738720605!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ellis-st-market.jpg' alt='A building with a sign Ellis Street Market.' width='620' height='349' title='The Ellis Street Market, located in Kelowna, is clearly labelling all its Canadian and B.C. products to encourage customers to buy locally amid looming tariff threats from the U.S.'/><p>Experts say Buy Local campaigns are likely to continue in Canada, even if tariffs go away.</p>
+
+## Manitoba Liquor & Lotteries asks courts to block offshore gambling site on behalf of gaming coalition
+ - [https://www.cbc.ca/news/canada/manitoba/liquor-lotteries-offshore-gambling-site-bodog-1.7448882?cmp=rss](https://www.cbc.ca/news/canada/manitoba/liquor-lotteries-offshore-gambling-site-bodog-1.7448882?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T06:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7449409.1738619800!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/bodog-eu.jpg' alt='A website page with a header that says &apos;Bodog,&apos; with multiple thumbnails showing different slot machines' width='620' height='349' title='A screenshot of the bodog.eu website. Manitoba Liquor &amp; Lotteries has applied for an injunction to bar the offshore gambling site from operating or advertising in the province.'/><p>A coalition of Canadian gaming agencies is hoping an application to stop an offshore betting site from operating in Manitoba sets a precedent in the fight against illegal online gambling.</p>
+
+## More delays to N.B. bridge work likely amid internal trade fight
+ - [https://www.cbc.ca/news/canada/new-brunswick/bridge-work-delays-trade-fight-1.7450074?cmp=rss](https://www.cbc.ca/news/canada/new-brunswick/bridge-work-delays-trade-fight-1.7450074?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T05:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7184647.1714056967!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mactaquac-dam.jpg' alt='An aerial photo of the Mactaquac Dam crossing in New Brunswick.' width='620' height='349' title='The Mactaquac Dam crossing is one of the projects Julmac Contracting Ltd. claims has been delayed due to overly onerous requirements being imposed on it by the provincial government.'/><p>New Brunswick could face new delays on three major bridge projects as the provincial government moves to fire a major contractor — a move the company believes is tied to its legal fight over interprovincial trade barriers.</p>
+
+## Behind the scenes of Canada's push to avoid Donald Trump's punishing tariffs
+ - [https://www.cbc.ca/news/politics/behind-the-scenes-trump-tariffs-washington-1.7450526?cmp=rss](https://www.cbc.ca/news/politics/behind-the-scenes-trump-tariffs-washington-1.7450526?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7449087.1738606585!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/trudeau-trump.jpg' alt='Composite illustration featuring Canadian Prime Minister Justin Trudeau, left, and U.S. President Donald Trump.' width='620' height='349' title='Composite illustration featuring Canadian Prime Minister Justin Trudeau, left, and U.S. President Donald Trump.'/><p>Despite winning a month-long reprieve from potentially devastating U.S. tariffs, there is a deep sense of anxiety hanging over some of the most senior Canadian government officials who manage the relationship with President Donald Trump.</p>
+
+## Kenora and Sioux Lookout are getting MRI suites. Here's why that's a big deal in northwestern Ontario
+ - [https://www.cbc.ca/news/canada/thunder-bay/mri-services-kenora-sioux-lookout-1.7450093?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/mri-services-kenora-sioux-lookout-1.7450093?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7223550.1717453117!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ont-private-clinics-20240603.jpg' alt='A man stands next to an MRI machine.' width='620' height='349' title='Right now there are seven such clinics in the province that provide one or both of the diagnostic imaging services, and Health Minister Sylvia Jones announced Monday that Ontario has launched a call for applications to expand that number.'/><p>Health-care professionals in northwestern Ontario say the expansion of magnetic resonance imaging (MRI) services in the region will be a game changer for patients, especially those who spend hours travelling from remote communities for care. Here's what we know about the services coming to Kenora and Sioux Lookout.</p>
+
+## Mark Carney committing to hit 2% NATO defence spending benchmark in 2030
+ - [https://www.cbc.ca/news/politics/liberal-leadership-contender-mark-carney-defence-spending-1.7450718?cmp=rss](https://www.cbc.ca/news/politics/liberal-leadership-contender-mark-carney-defence-spending-1.7450718?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7450721.1738717276!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/liberal-leadership-mark-carney-20250131.JPG' alt='A man in a suit speaks into a microphone.' width='620' height='349' title='Mark Carney, candidate for the leadership of the Liberal Party of Canada, makes an announcement at a campaign event in Halifax on Friday, Jan. 31, 2025.'/><p>Liberal leadership contender Mark Carney is expected to announce on Wednesday that if he becomes prime minister he’s committed to reaching NATO’s military investment benchmark of two per cent of gross domestic product by the end of 2030, CBC News has learned.</p>
+
+## Mike Holmes endorsement ads for renovation company disappear amid CBC investigation
+ - [https://www.cbc.ca/news/business/holmes-agm-renovations-1.7447990?cmp=rss](https://www.cbc.ca/news/business/holmes-agm-renovations-1.7447990?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7447994.1738710121!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/agm-renovations-mike-holmes.jpg' alt='Mike Holmes appears in an ad for AGM renovations' width='620' height='349' title='Mike Holmes appears in a television ad for AGM Renovations.'/><p>For years, celebrity contractor Mike Holmes has endorsed AGM Renovations in slick ads. After a CBC News investigation into AGM found the company is being investigated by Ontario's electrical safety regulator following safety violations, those ads have disappeared.</p>
+
+## Why Canada is safe, for now, from very high egg prices
+ - [https://www.cbc.ca/news/canada/egg-prices-avian-flu-canada-us-1.7450654?cmp=rss](https://www.cbc.ca/news/canada/egg-prices-avian-flu-canada-us-1.7450654?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7450693.1738715694!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/egg-prices.jpg' alt='Cartons of eggs sit on a grocery store shelf.' width='620' height='349' title='Eggs sit on a shelf at Sentyrz Liquor &amp; Supermarket, where staff say they’ve been receiving only 10 percent of their weekly orders, on Monday, Jan. 27, 2025 in Minneapolis, Minn. (AP Photo/Mark Vancleave)'/><p>Canadians have so far been shielded from the high egg prices plaguing the U.S. market in the midst of an avian flu outbreak, and industry experts say it’s likely to stay that way — for now.</p>
+

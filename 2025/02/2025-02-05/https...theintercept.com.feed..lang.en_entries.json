@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-05T02:02:32+00:00",
+        "description": "<p>Trump told reporters that he wants to expel \u201call\u201d Palestinians from Gaza \u2014 not just during a period of reconstruction, but permanently.</p>\n<p>The post <a href=\"https://theintercept.com/2025/02/04/trump-netanyahu-gaza-palestinians-displace/\">Trump: \u201cThe U.S. Will Take Over the Gaza Strip\u201d</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 2043980,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/02/04/trump-netanyahu-gaza-palestinians-displace",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/theintercept.com/wp-content/uploads/2025/01/GettyImages-2151338337-e1738272334927.jpg?w=1200",
+        "title": "Trump: \u201cThe U.S. Will Take Over the Gaza Strip\u201d",
+        "vote": 0
+    }
+]

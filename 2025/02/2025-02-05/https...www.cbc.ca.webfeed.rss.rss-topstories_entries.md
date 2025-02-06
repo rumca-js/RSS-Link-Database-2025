@@ -1,0 +1,157 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## What did Mexico give Trump? A bit of theatre, says former ambassador
+ - [https://www.cbc.ca/news/politics/mexico-trump-kabuki-theatre-1.7451007?cmp=rss](https://www.cbc.ca/news/politics/mexico-trump-kabuki-theatre-1.7451007?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T17:10:17+00:00
+
+<img src='https://i.cbc.ca/1.7451566.1738790418!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-mexico-border.JPG' alt='A soldier stands near a border fence.' width='620' height='349' title='A member of Mexico&apos;s National Guard patrols the border wall between Mexico and the U.S. after Mexican President Claudia Sheinbaum agreed with U.S. President Donald Trump to bolster border enforcement efforts in response to Trump&apos;s demand to crack down on immigration and drug smuggling, in Tijuana, Mexico February 5, 2025. REUTERS/Jorge Duenes'/><p>Many of the concessions Trump claimed to have won from Mexico when he agreed to a delay on tariffs were not really new, at least in a significant way. But Mexico's former ambassador to the U.S. says the country should still expect more tariff threats, if not worse.</p>
+
+## Congo ceasefire appears to crumble as rebels reportedly capture another eastern town
+ - [https://www.cbc.ca/news/world/congo-ceasefire-m23-nyabibwe-1.7451523?cmp=rss](https://www.cbc.ca/news/world/congo-ceasefire-m23-nyabibwe-1.7451523?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T16:21:26+00:00
+
+<img src='https://i.cbc.ca/1.7451526.1738788878!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/congo-mining-gold.jpg' alt='People walk down a road in a village.' width='620' height='349' title='In this photo taken Aug. 16, 2012, people walk down a street in the town of Nyabibwe, eastern Congo, a once bustling outpost fueled by artisanal cassiterite mining. Gold is now the primary source of income for armed groups in eastern Congo, and is ending up in jewelry stores across the world, according to a report published Thursday, Oct. 25, 2012, by the Enough Project. Following American legislation requiring companies to track the origin of the minerals they use, armed groups have been unable to profit from the exploitation of tin (made primarily from cassiterite), tungsten, tantalum, and cassiterite, and have turned instead to gold, which is easier to smuggle across borders. Gold miners, like cassiterite miners, work in extreme conditions, with crude equipment such as pick-axes an
+
+## 'There was no murder': British nurse Lucy Letby wrongly convicted, says Canadian doctor
+ - [https://www.cbc.ca/news/world/lucy-letby-conviction-canadian-doctor-1.7451325?cmp=rss](https://www.cbc.ca/news/world/lucy-letby-conviction-canadian-doctor-1.7451325?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T15:31:21+00:00
+
+<img src='https://i.cbc.ca/1.6940576.1692374369!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/britain-baby-deaths.jpg' alt='Lucy Letby has been found guilty of murdering seven newborn babies and trying to kill another six in the neonatal unit of a hospital in northwest England where she worked.' width='620' height='349' title='This undated handout issued by Cheshire Constabulary shows of nurse Lucy Letby. A neonatal nurse in a British hospital has been found guilty of killing seven babies and trying to kill six others. Lucy Letby was charged with murder in the deaths of five baby boys and two girls, and the attempted murder of five boys and five girls, when she worked at the Countess of Chester Hospital in northwest England between 2015 and 2016.'/><p>Lucy Letby, a former neonatal nurse in the U.K., was found guilty in two trials, in 2023 and 2024, of murdering seven premature infants and attempting to murder seven others. But Dr. Shoo Lee, the retired head of the neonatology
+
+## Sask. RCMP provide update on Carry the Kettle Nakoda Nation suspicious deaths
+ - [https://www.cbc.ca/player/play/9.6637070?cmp=rss](https://www.cbc.ca/player/play/9.6637070?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T15:00:00+00:00
+
+<img src='https://i.cbc.ca/ais/acbb2f9c-f03a-46d9-bb70-80997b22e6ba,1738782176416/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='' width='620' height='349' title=''/><p>Saskatchewan RCMP update the public on their investigation into four suspicious deaths Tuesday on Carry the Kettle Nakoda Nation, as well as an incident on Zagime Anishinabek.
+</p>
+
+## Alberta government sues non-profit that moved clients into hotel rooms
+ - [https://www.cbc.ca/news/canada/edmonton/alberta-government-sues-non-profit-that-moved-clients-into-hotel-rooms-1.7450500?cmp=rss](https://www.cbc.ca/news/canada/edmonton/alberta-government-sues-non-profit-that-moved-clients-into-hotel-rooms-1.7450500?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T14:47:09+00:00
+
+<img src='https://i.cbc.ca/1.7155076.1711395944!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jason-nixon-and-adriana-lagrange.jpg' alt='A woman in a brown suit stands next to a man in a blue suit at a podium in front of the flags of Canada and Alberta.' width='620' height='349' title='Health Minister Adriana LaGrange, left, and Seniors, Community and Social Services Minister Jason Nixon, right, address questions about Contentment Social Services on March 25, 2024.'/><p>A registered non-profit housing provider that moved vulnerable clients into hotel rooms last year is being sued by the Alberta government.</p>
+
+## Sask. RCMP say killings of 2 men, 2 women on Carry the Kettle Nakoda Nation may have been targeted
+ - [https://www.cbc.ca/news/canada/saskatchewan/carry-the-kettle-on-lockdown-following-4-suspicious-deaths-1.7451308?cmp=rss](https://www.cbc.ca/news/canada/saskatchewan/carry-the-kettle-on-lockdown-following-4-suspicious-deaths-1.7451308?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T14:06:42+00:00
+
+<img src='https://i.cbc.ca/1.6914396.1689970349!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/carry-the-kettle-flag-outside-band-office.jpeg' alt='A flag reading Carry The Kettle flying in front of a blue sky' width='620' height='349' title='Chief Scott Eashappie says the federal government has interfered with the band&apos;s custom election act, which grants the reserve it&apos;s own sovereign election process.'/><p>Saskatchewan RCMP say the deaths of two men and two women on Carry the Kettle Nakoda Nation on Tuesday are being considered homicides and may have been targeted.</p>
+
+## Looking to diversify its exports, Quebec willing to rethink natural gas pipeline project
+ - [https://www.cbc.ca/news/canada/montreal/quebec-rethin-lng-saguenay-1.7451297?cmp=rss](https://www.cbc.ca/news/canada/montreal/quebec-rethin-lng-saguenay-1.7451297?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T13:57:38+00:00
+
+<img src='https://i.cbc.ca/1.6568982.1661992054!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/saguenay-fjord.jpg' alt='Beauty shot of mountains, blue water, a sailboat and a ferry.' width='620' height='349' title='A view of the Saguenay fjord, near the potential site of a liquid natural gas plant that has been nixed by the environmental review board, the federal government and the province.'/><p>The threat of tariffs and lingering economic volatility has prompted the Quebec government to reconsider a pipeline project bringing liquefied natural gas (LNG) from western Canada to the province before shipping it overseas. </p>
+
+## Sheertex to temporarily lay off 40% of staff partly due to tariff threats
+ - [https://www.cbc.ca/news/business/sheertex-temporary-layoffs-us-tariffs-1.7451210?cmp=rss](https://www.cbc.ca/news/business/sheertex-temporary-layoffs-us-tariffs-1.7451210?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T13:18:27+00:00
+
+<img src='https://i.cbc.ca/1.7451263.1738777540!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/sheertex-layoffs-20250205.JPG' alt='People walk around a manufacturing site.' width='620' height='349' title='Prime Minister Justin Trudeau tours Sheertex, a pantyhose manufacturing plant, with founder Katherine Homuth in Pointe-Claire, Que., Friday, March 8, 2024.  The CEO of Sheertex says she&apos;s had to lay off 40 per cent of the company&apos;s staff, in part because of impending tariffs the U.S. is placing on Canadian goods.'/><p>Canadian pantyhose-maker Sheertex is temporarily laying off 40 per cent of the company's staff, in part because of tariffs the U.S. has promised to place on Canadian goods, the company's CEO said on Wednesday.</p>
+
+## Rick Steves' Hippie Trail trek changed his life. The travel writer encourages others to go off the beaten path
+ - [https://www.cbc.ca/radio/thecurrent/rick-steves-hippie-trail-1.7450327?cmp=rss](https://www.cbc.ca/radio/thecurrent/rick-steves-hippie-trail-1.7450327?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T13:13:33+00:00
+
+<img src='https://i.cbc.ca/1.6017293.1738708025!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rick-steves-and-crew.jpg' alt='Three men smile at the camera, a video camera set up to their left. in the background rolling green hills are visible' width='620' height='349' title='Rick Steves pictured with his television crew in the Scottish Highlands. Steves is best known to some for his TV series, Rick Steves&apos; Europe.'/><p>Travel writer Rick Steves’ adventures on the Hippie Trail from Istanbul to Kathmandu made him think differently about the world. He says others should seek out mind-expanding travel, too.</p>
+
+## Prince Rahim designated Aga Khan V, the 50th leader of Shia Ismaili Muslims
+ - [https://www.cbc.ca/news/world/rahim-hussaini-aga-khan-1.7451161?cmp=rss](https://www.cbc.ca/news/world/rahim-hussaini-aga-khan-1.7451161?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T12:57:58+00:00
+
+<img src='https://i.cbc.ca/1.7451256.1738777283!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2197235194.jpg' alt='A man smiles in front of a white and red backdrop.' width='620' height='349' title='Prince Rahim Aga Khan poses during a photocall for the world premiere of the film Napoleon, in Paris on November 14, 2023. Prince Rahim Al-Hussaini, son of Prince Aga Khan IV who passed away on February 5, 2025 in Lisbon, will succeed his father as the leader of the Ismaili Muslims, the authorities of the Shiite Muslim group announced on February 5, 2025. (Photo by Geoffroy Van der Hasselt / AFP) (Photo by GEOFFROY VAN DER HASSELT/AFP via Getty Images)          '/><p>Rahim Al-Hussaini was named Wednesday as the new Aga Khan, spiritual leader of the world's millions of Ismaili Muslims. The 53-year-old succeeds his father, who died on Tuesday.</p>
+
+## Ozzy Osbourne and original members of Black Sabbath reunite to headline final show
+ - [https://www.cbc.ca/news/entertainment/black-sabbath-reunion-show-1.7451119?cmp=rss](https://www.cbc.ca/news/entertainment/black-sabbath-reunion-show-1.7451119?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T12:47:49+00:00
+
+<img src='https://i.cbc.ca/1.7451155.1738774379!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/music-blacksabbath.JPG' alt='Four men wearing black stand in a lineup together. ' width='620' height='349' title='Original members of the rock band Black Sabbath, Bill Ward (L), Ozzy Osborne (2nd L), Geezer Butler and Tony Iommi (R), announce their reunion during a news conference at the Whiskey A Go Go, the club where the band first performed 41 years ago, in Los Angeles, California November 11, 2011. Black Sabbath announced on Friday they are reuniting in their original four man line-up for their first new album in 33 years and a 2012 world tour. The news conference was held at at 11:11 a.m. on 11/11/11. '/><p>Ozzy Osbourne has announced his final show — and it will feature a reunion of the original lineup of Black Sabbath for the first time in 20 years.</p>
+
+## Settlement creates $5M US fund for U.S. women's soccer league players abused by coaches, officials
+ - [https://www.cbc.ca/sports/soccer/national-womens-soccer-league-settlement-abuse-1.7451149?cmp=rss](https://www.cbc.ca/sports/soccer/national-womens-soccer-league-settlement-abuse-1.7451149?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T12:13:19+00:00
+
+<img src='https://i.cbc.ca/1.7446039.1738258261!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/nwsl-ball-241023-1180.jpg' alt='A detailed view of a National Women&apos;s Soccer League ball before the championship game between Orlando Pride and Washington Spirit at CPKC Stadium on November 23, 2024 in Kansas City, Missouri.' width='620' height='349' title='Denver&apos;s NWSL club will be the city&apos;s first top-tier women&apos;s professional team. Sportico previously reported the squad was acquired for a record $110 million US expansion fee. '/><p>The U.S. National Women's Soccer League will establish a $5-million US fund for players as part of a settlement that stemmed from allegations of emotional and sexual misconduct that rocked the league in 2021.</p>
+
+## Thousands protest Trump, Musk across U.S.
+ - [https://www.cbc.ca/news/world/us-trump-protests-1.7450890?cmp=rss](https://www.cbc.ca/news/world/us-trump-protests-1.7450890?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T11:08:09+00:00
+
+<img src='https://i.cbc.ca/1.7451629.1738792690!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2197851304.jpg' alt='A protester holds up a sign that reads, &apos;F Elon and the felon,&apos; during a demonstration.' width='620' height='349' title='SACRAMENTO, CALIFORNIA - FEBRUARY 05: A protester holds a sign during an anti-Trump demonstration in front of the California State Capitol on February 05, 2025 in Sacramento, California. People all over the country rallied at their state capitols during a day of protest against U.S. President Donald Trump and the political initiative Project 2025. Demonstrators spoke out against the Trump administration and various newly introduced policies involving, immigration, the removal of diversity initiatives, and the potential accessing of private information involving Elon Musk&apos;s DOGE (Department of Government Efficiency) program. (Photo by Justin Sullivan/Getty Images)'/><p>Thousands of demonstrators gathered in cities across the U.S
+
+## Trump bans transgender female athletes from women's sports in new executive order
+ - [https://www.cbc.ca/news/world/trump-transgender-athletes-1.7451015?cmp=rss](https://www.cbc.ca/news/world/trump-transgender-athletes-1.7451015?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T11:06:57+00:00
+
+<img src='https://i.cbc.ca/1.7451025.1738769336!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/trump.jpg' alt='A man in a blue suit sits in an office' width='620' height='349' title='President Donald Trump speaks to reporters as he signs executive orders in the Oval Office of the White House, Tuesday, Feb. 4, 2025, in Washington. '/><p>U.S. President Donald Trump will sign an executive order on Wednesday designed to prevent people who were biologically assigned male at birth from participating in women's or girls' sporting events.</p>
+
+## Poilievre promises to hit fentanyl 'kingpins' with mandatory life sentences
+ - [https://www.cbc.ca/news/politics/poilievre-fentanyl-mandatory-life-sentence-1.7450915?cmp=rss](https://www.cbc.ca/news/politics/poilievre-fentanyl-mandatory-life-sentence-1.7450915?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T09:20:48+00:00
+
+<img src='https://i.cbc.ca/1.7450920.1738764619!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/poilievre-bc-20250203.JPG' alt='Conservative Leader Pierre Poilievre speaks during a news conference in Vancouver, on Monday, February 3, 2025.' width='620' height='349' title='Conservative Leader Pierre Poilievre speaks during a news conference in Vancouver, on Monday, February 3, 2025.'/><p>Conservative Leader Pierre Poilievre said on Wednesday that he will change the Criminal Code if he's elected so that all drug 'kingpins' convicted of trafficking major quantities of fentanyl are hit with a mandatory life sentence in prison.</p>
+
+## How do you talk to your kids about the use of medically-assisted death?
+ - [https://www.cbc.ca/news/canada/saskatoon/medical-assistance-in-dying-kids-conversation-1.7449006?cmp=rss](https://www.cbc.ca/news/canada/saskatoon/medical-assistance-in-dying-kids-conversation-1.7449006?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T09:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7449018.1738603504!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/trisha-holland-and-family.jpeg' alt='A red-headed woman holding a dog sits on the floor, surrounded by three young blonde boys.' width='620' height='349' title='Trisha Holland has had to have more than one conversation with her three children, Nathan, Jayden and Carter, about their grandparents&apos; choice to use MAID, or medical assistance in dying. She says having specific answers for their questions helped ease the wheels of the conversation. '/><p>One retired social worker says it's important to have open, honest and age-appropriate conversations with kids when loved ones choose a medically-assisted death. Here are tips on how to do that.</p>
+
+## Climate disasters lead to billions in insurance losses. Could they trigger a financial crisis?
+ - [https://www.cbc.ca/news/business/climate-disasters-financial-crisis-1.7449907?cmp=rss](https://www.cbc.ca/news/business/climate-disasters-financial-crisis-1.7449907?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7439189.1737618081!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/california-wildfires.jpg' alt='Firefighters hold a hose as they battle a wildfire' width='620' height='349' title='Firefighters spray water on the Hughes Fire in Castaic, Calif., Wednesday, Jan. 22, 2025. (AP Photo/Ethan Swope)'/><p>In addition to causing widespread destruction, climate disasters are battering insurance companies. As premiums rise and some regions become uninsurable, it could have a cascading effect that could lead to a financial crisis, says one U.S. economist.</p>
+
+## Controversial comics Danger Cats to perform at Hamilton sports bar after comedy club cancels shows
+ - [https://www.cbc.ca/news/canada/hamilton/danger-cats-endzone-1.7450334?cmp=rss](https://www.cbc.ca/news/canada/hamilton/danger-cats-endzone-1.7450334?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7450386.1738703160!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/endzone-bar-and-grill.jpg' alt='a plain looking building on the streets of Hamilton' width='620' height='349' title='The EndZone Bar and Grill will host the Danger Cats comedy troupe on Friday, Feb. 7, 2025.'/><p>Hamilton's Levity Comedy Club has cancelled this weekend's two shows by Danger Cats, prompting the controversial comedy troupe to book at a bar in the Ontario city. Levity is the latest Canadian venue to back out of hosting the Alberta-based comics.</p>
+
+## Emilia Pérez lead actress cut from film's Oscar campaign after racist tweets resurface
+ - [https://www.cbc.ca/news/entertainment/karla-controversy-emilia-perez-1.7450419?cmp=rss](https://www.cbc.ca/news/entertainment/karla-controversy-emilia-perez-1.7450419?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7450437.1738705088!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/film-emilia-perez.jpg' alt='A woman is shown from the shoulders up, holding onto the strap of her purse with one hand. ' width='620' height='349' title='This image released by Netflix shows Karla Sofía Gascón in a scene from &quot;Emilia Pérez.&quot; '/><p>Old social media posts with racist comments made by Emilia Pérez actress Karla Sofía Gascón resurfaced recently, and Netflix's awards campaign for the film appears to be trying to shuffle the lead actress into the background to regain footing ahead of the Oscars.</p>
+
+## How Jasper's chief planner is re-imagining housing in the rocky mountain town
+ - [https://www.cbc.ca/news/canada/edmonton/jasper-chief-planner-housing-density-1.7449935?cmp=rss](https://www.cbc.ca/news/canada/edmonton/jasper-chief-planner-housing-density-1.7449935?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7449955.1738692952!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/beth-sanders-jasper-outside.jpg' alt='A person stands in front of a construction site in a burned section of a town.' width='620' height='349' title='Beth Sanders, Jasper&apos;s director of urban design and standards, wants to have community conversations about increasing housing density. '/><p>Just how to rebuild Jasper — whether it through density or expanding town boundaries — has been a core debate between the municipality, province and Ottawa in the rehabilitation process.</p>
+
+## Mayor of small Quebec town in hot water following pro-Trump comments
+ - [https://www.cbc.ca/news/canada/montreal/small-town-quebec-pro-trump-comments-mayor-louiseville-1.7450371?cmp=rss](https://www.cbc.ca/news/canada/montreal/small-town-quebec-pro-trump-comments-mayor-louiseville-1.7450371?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7450372.1738702893!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/yvon-deshaies.jpg' alt='A man in a suit and wearing a hat and bow-tie smiles at the camera' width='620' height='349' title='Mayor Yvon Deshaies of Louiseville, Que. was quoted saying Donald Trump &quot;is still my man&quot; despite looming tariffs which threaten local businesses.'/><p>Despite looming tariffs, the mayor of Louiseville, Que., has recently voiced his support for U.S. President Donald Trump. Now, a resident and business are considering pulling donations to the town.</p>
+
+## Trump's tariffs could make sending a package or crossing the border costlier — and more complicated
+ - [https://www.cbc.ca/news/politics/tariff-border-canada-us-1.7450495?cmp=rss](https://www.cbc.ca/news/politics/tariff-border-canada-us-1.7450495?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-05T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.6687037.1671155476!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-que-border-20210809.jpg' alt='A border crossing is shown between Canada and the United States.' width='620' height='349' title='The U.S. border crossing is seen  Monday, August 9, 2021  in Lacolle, Que., south of Montreal.The U.S border remains closed to non-essential travel as Canada re-opens its border to fully vaccinated Americans.THE CANADIAN PRESS/Ryan Remiorz'/><p>It could get more complicated — and potentially more expensive — for Canadians to cross the border or send packages to the United States, if President Donald Trump's executive order on tariffs goes into effect.</p>
+

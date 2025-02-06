@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-05T20:00:26+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/wPbMOj53F_g\" width=\"480\" alt=\"thumbnail\" title=\"Rust Is Taking Over The World Of NVIDIA GPUs\" /></p>Whilst there's a lot of drama around Rust in the Linux kernel, the people who really seem to like Rust are the graphics developers, not only people involved in projects like Asahi Linux but also developers involved in open source Nvidia efforts.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />NVK: https://docs.mesa3d.org/drivers/nvk.html<br />Nvidia Open Source: https://github.com/NVIDIA/open-gpu-kernel-modules<br />Nova RFC: https://lore.kernel.org/rust-for-linux/20240520172059.181256-1-dakr@redhat.com/<br />Nova Core: https://lore.kernel.org/dri-devel/20250131220432.17717-1-dakr@kerne",
+        "id": 2050527,
+        "language": "en",
+        "link": "https://odysee.com/rust-is-taking-over-the-world-of-nvidia:0314c968def1f1a71c80da5840198a4fdce59752",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rust Is Taking Over The World Of NVIDIA GPUs",
+        "vote": 0
+    }
+]

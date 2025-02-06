@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-05T15:07:15+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nBlazing Trails: Building the World's Fastest GameBoy Emulator in Modern C++ - Tom Tesch - CppCon 2024\n---\n\nWriting an emulator is truly transformative for any aspiring developer. In this session, we will be building parts of a lightning-fast Nintendo GameBoy (DMG-001) emulator library, complete with a webAssembly frontend.\n\nWe will introduce the concept of a 'fast' emulator, highlighting its significance beyond mere gaming authenticity. After setting clear limits as to what we aim to achieve within the allotted time, we will delve into some foundational aspects of modern computing by implementing the core components of a GameBoy emulator. Along the way, the need for various programming patterns will emerge naturally, showcasing their relevance in real-world development scenarios.\n\nAdditionally, we will demonstrate how integrating modern high-level C++ constructs streamlines our codebase, enhancing both readability and performance. You will witness firsthand h",
+        "id": 2048022,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=4lliFwe5_yg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4lliFwe5_yg/hqdefault.jpg",
+        "title": "Blazing Trails: Building the World's Fastest GameBoy Emulator in Modern C++ - Tom Tesch  CppCon 2024",
+        "vote": 0
+    }
+]

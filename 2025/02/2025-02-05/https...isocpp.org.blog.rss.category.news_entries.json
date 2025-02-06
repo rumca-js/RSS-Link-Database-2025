@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-05T22:13:10+00:00",
+        "description": "<p>\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 200px; margin: 10px; float: right; height: 200px;\" />Let&rsquo;s start&nbsp;<a href=\"https://www.sandordargo.com/blog/2024/12/11/start-exploring-cpp26\">exploring C++26</a>&nbsp;with a simple but useful change. Thanks to Yihe Li&rsquo;s proposal (<a href=\"https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p2573r2.html\">2573R2</a>), when we&nbsp;<code>=delete</code>&nbsp;a special member function or a function overload, we can specify a reason.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2024/12/18/cpp26-delete-with-a-reason\">C++26: Delete with a Reason</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tThis is a practical and not very surprising change. Why do I say it&rsquo;s not very surprising? Adding the ability to specify reasons for some operations has become a pattern in C++ evolution. Since C++",
+        "id": 2051384,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/02/cpp26-delete-with-a-reason-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "C++26: Delete with a Reason -- Sandor Dargo",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-05T18:02:22+00:00",
+        "description": "ASUS\u2019s ROG Rapture GT-BE98 and RT-BE88U routers are both driven by WIFI 7 with full support for 10G networking and ASUS\u2019s AiProtection - powered by Trend Micro\u2122. The GT-BE98 also has a 2.6GHz quad-core CPU, triple-level game acceleration to boost PC gaming traffic, and an optimized array of 8 antennas to eliminate dead zones! Check them out using our links:\n\nhttps://rog.asus.com/us/networking/rog-rapture-gt-be98-pro/\n\nhttps://www.asus.com/us/networking-iot-servers/wifi-routers/asus-gaming-routers/rt-be88u/\n\nhttps://www.asus.com/us/content/wifi7/\n\nRemember the Woremor RF Blocking Paint we tested last year? WELP Elijah decided to volunteer his apartment to test out if this paint can be used to BLOCK his neighbors WIFI to see if we can improve his! So join us as we install an ASUS router and break out the paint rollers to paint Elijah\u2019s apartment pitch black\u2026\n\nDiscuss on the forum: https://linustechtips.com/topic/1600335-i-painted-his-house-to-fix-his-wifi/\n\nBuy WOREMOR RF-IE50 EMR & RF",
+        "id": 2049629,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=n5BOFsiDpYQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/n5BOFsiDpYQ/hqdefault.jpg",
+        "title": "I Painted his House to Fix his WiFi",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-05T12:38:27+00:00",
+        "description": "<p><a href=\"https://wydarzenia.interia.pl/kraj/news-powazne-zarzuty-dla-mariusza-blaszczaka-to-wyrzadzilo-szkode,nId,7906324\"><img src=\"https://i.iplsc.com/powazne-zarzuty-dla-mariusza-blaszczaka-to-wyrzadzilo-szkode/000KJY7LU3TTREMY-C321.jpg\" alt=\"Powa\u017cne zarzuty dla Mariusza B\u0142aszczaka. &quot;To wyrz\u0105dzi\u0142o szkod\u0119 dla Polski&quot;\" align=\"left\" /></a>- Mariusz B\u0142aszczak ujawni\u0142 &quot;newralgiczne informacje&quot;, publikuj\u0105c tajny plan ewentualnego u\u017cycia polskich si\u0142 zbrojnych - t\u0142umaczy\u0142a prok. Anna Adamiak, rzecznik Prokuratora Generalnego. Dzia\u0142anie mia\u0142o podtekst polityczny, a ca\u0142a akcja odby\u0142a si\u0119 w czasie kampanii przed wyborami parlamentarnymi. Dane &quot;zosta\u0142y poddane obr\u00f3bce&quot; - wyja\u015bnia\u0142a Adamiak. W ten spos\u00f3b B\u0142aszczak chcia\u0142 &quot;osi\u0105gn\u0105\u0107 korzy\u015b\u0107 dla partii, do kt\u00f3rej przynale\u017cy&quot;.</p><br clear=\"all\" />",
+        "id": 2046608,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/kraj/news-powazne-zarzuty-dla-mariusza-blaszczaka-to-wyrzadzilo-szkode,nId,7906324",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Powa\u017cne zarzuty dla Mariusza B\u0142aszczaka. \"To wyrz\u0105dzi\u0142o szkod\u0119 dla Polski\"",
+        "vote": 0
+    }
+]

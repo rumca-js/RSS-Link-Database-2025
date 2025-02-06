@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-05T14:19:05+00:00",
+        "description": "Learn how to build a website with Next.js 15 and Strapi 5. In this course you'll learn to build a fully functional summer camp website from start to finish. Through hands-on practice, you'll discover how to combine the power of Next.js's server components with Strapi's headless CMS capabilities, creating dynamic, content-rich websites that are both developer-friendly and client-manageable.\n\nProject Repo Resources: https://github.com/PaulBratslavsky/freecodecamp-surfcamp-final\nStrapi Docs: https://strapi.link/getting-started\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Course introduction and project overview\n\u2328\ufe0f (0:11:37) How to follow this course and local project setup\n\u2328\ufe0f (0:15:59) Getting started with Next.js 15 and Strapi 5\n\u2328\ufe0f (0:22:26) Section 1- Building the home page\n\u2328\ufe0f (1:29:20) Section 2 - Building the experience page\n\u2328\ufe0f (1:41:16) Secti",
+        "id": 2047436,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Q-cPtlYG1cY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Q-cPtlYG1cY/hqdefault.jpg",
+        "title": "Strapi 5 and Next.js 15 Full Stack Project Course",
+        "vote": 0
+    }
+]

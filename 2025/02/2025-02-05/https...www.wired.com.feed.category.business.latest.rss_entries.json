@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-05T03:33:47+00:00",
+        "description": "As part of new tariffs on Chinese imports, President Donald Trump eliminated an exemption for small packages, vastly increasing the amount of parcels US Customs and Border Protection needs to inspect.",
+        "id": 2044120,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/tariffs-trump-ecommerce-amazon-temu",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/67a12cc0505b682bfc87af73/master/pass/Trump-Tariff-Temu-Packages-Business-1653668805.jpg",
+        "title": "USPS Halts All Packages From China, Sending the Ecommerce Industry Into Chaos",
+        "vote": 0
+    }
+]

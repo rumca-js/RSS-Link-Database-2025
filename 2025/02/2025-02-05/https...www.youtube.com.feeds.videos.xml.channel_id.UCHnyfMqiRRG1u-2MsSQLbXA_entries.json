@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-05T15:02:34+00:00",
+        "description": "Here\u2019s what happens when you just keep zooming in. Use code veritasium at https://incogni.com/veritasium to get an exclusive 60% off an annual Incogni plan.\n\nA big thank you to Magnus Garbrecht from the University of Sydney for showing us around the lab and for his feedback on the script.\n\nSpecial thanks to Quentin Ramasse for his expertise on the video. \n\n\u2580\u2580\u2580\n0:00 Why is it hard to see atoms? \n2:12 How does an electron microscope work?\n4:09 Transmission Electron Microscope (TEM)\n5:11 Spherical Aberration\n8:55 Field Ion Microscope \n11:05 Scanning Transmission Electron Microscope (STEM)\n13:24 Probe microscopes\n14:02 An unlikely solution\n18:08 Seeing atoms\n\n\u2580\u2580\u2580\nJoin us on Patreon for early access videos, bonus content, and to support Veritasium! https://ve42.co/PatreonDE   \n\nAdam Foreman, Albert Wenger, Alexander Tamas, Anton Ragin, Autodidactic Studios, Bertrand Serlet, Blake Byers, Bruce, Dave Kircher, David Johnston, Evgeny Skvortsov, Garrett Mueller, Gnare, gpoly, Greg Scopel, Juan",
+        "id": 2048007,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=88bMVbx1dzM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/88bMVbx1dzM/hqdefault.jpg",
+        "title": "What if you just keep zooming in?",
+        "vote": 0
+    }
+]

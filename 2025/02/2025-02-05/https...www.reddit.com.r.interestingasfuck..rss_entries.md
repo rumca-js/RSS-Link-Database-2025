@@ -1,0 +1,198 @@
+# Source:Interesting As Fuck, URL:https://www.reddit.com/r/interestingasfuck/.rss, language:
+
+## Two galaxies aligning over Aurora Australis and the Southern Ocean
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iimpa8/two_galaxies_aligning_over_aurora_australis_and](https://www.reddit.com/r/interestingasfuck/comments/1iimpa8/two_galaxies_aligning_over_aurora_australis_and)
+ - RSS feed: $source
+ - date published: 2025-02-05T22:22:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iimpa8/two_galaxies_aligning_over_aurora_australis_and/"> <img src="https://external-preview.redd.it/bnUyMXNsc25iZWhlMVwvZo27sK6cgdTkkTeqyv1K7Am-nYKEotfxYRW_gKig.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=186f5b90968af6c9a0c3b953e87f4727db8bc0b0" alt="Two galaxies aligning over Aurora Australis and the Southern Ocean" title="Two galaxies aligning over Aurora Australis and the Southern Ocean" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ThatAstroGuyNZ"> /u/ThatAstroGuyNZ </a> <br/> <span><a href="https://v.redd.it/vroz6n2obehe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iimpa8/two_galaxies_aligning_over_aurora_australis_and/">[comments]</a></span> </td></tr></table>
+
+## The biggest volcanic eruption ever seen from space, captured by two satellites.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iimgfx/the_biggest_volcanic_eruption_ever_seen_from](https://www.reddit.com/r/interestingasfuck/comments/1iimgfx/the_biggest_volcanic_eruption_ever_seen_from)
+ - RSS feed: $source
+ - date published: 2025-02-05T22:11:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iimgfx/the_biggest_volcanic_eruption_ever_seen_from/"> <img src="https://external-preview.redd.it/YmpmMnZmMnU5ZWhlMQw-oXa8G-4VdTnPXlkFc1RuUW1UZ-04IT1nGh7OEFAG.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=22711a312bbf702291dec53b999ed8e90addd79d" alt="The biggest volcanic eruption ever seen from space, captured by two satellites." title="The biggest volcanic eruption ever seen from space, captured by two satellites." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CyberMetalHead"> /u/CyberMetalHead </a> <br/> <span><a href="https://v.redd.it/uj0xnx6u9ehe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iimgfx/the_biggest_volcanic_eruption_ever_seen_from/">[comments]</a></span> </td></tr></table>
+
+## Sunglasses McGyver
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iildi6/sunglasses_mcgyver](https://www.reddit.com/r/interestingasfuck/comments/1iildi6/sunglasses_mcgyver)
+ - RSS feed: $source
+ - date published: 2025-02-05T21:26:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iildi6/sunglasses_mcgyver/"> <img src="https://external-preview.redd.it/a2I0ZzRpeHMxZWhlMSzobs_eYHEYxuqVfyOinGn9YAJn6m2XBfmJz9cNRj_D.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=a1abe37793abb6dac1cd24a5ce9245feee9f0df6" alt="Sunglasses McGyver" title="Sunglasses McGyver" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ted_Bundtcake"> /u/Ted_Bundtcake </a> <br/> <span><a href="https://v.redd.it/uiczt8zs1ehe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iildi6/sunglasses_mcgyver/">[comments]</a></span> </td></tr></table>
+
+## The Most Isolated Lighthouse in the World,,Thridrangaviti Lighthouse in Iceland, in the archipelago of Vestmannaeyjar.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iil7ws/the_most_isolated_lighthouse_in_the](https://www.reddit.com/r/interestingasfuck/comments/1iil7ws/the_most_isolated_lighthouse_in_the)
+ - RSS feed: $source
+ - date published: 2025-02-05T21:20:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iil7ws/the_most_isolated_lighthouse_in_the/"> <img src="https://a.thumbs.redditmedia.com/YP4gcQZjWvMl-yFcaW5OSzO1NDyguBX3-tWYv9R3xE4.jpg" alt="The Most Isolated Lighthouse in the World,,Thridrangaviti Lighthouse in Iceland, in the archipelago of Vestmannaeyjar." title="The Most Isolated Lighthouse in the World,,Thridrangaviti Lighthouse in Iceland, in the archipelago of Vestmannaeyjar." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Puzzleheaded_Ice7984"> /u/Puzzleheaded_Ice7984 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iil7ws">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iil7ws/the_most_isolated_lighthouse_in_the/">[comments]</a></span> </td></tr></table>
+
+## 14yo Celine Dion sits across from future husband 39yo Rene Angélil in 1982
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iikxer/14yo_celine_dion_sits_across_from_future_husband](https://www.reddit.com/r/interestingasfuck/comments/1iikxer/14yo_celine_dion_sits_across_from_future_husband)
+ - RSS feed: $source
+ - date published: 2025-02-05T21:08:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iikxer/14yo_celine_dion_sits_across_from_future_husband/"> <img src="https://preview.redd.it/g14k9sqjydhe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d54114aad60009bc1db5eface9112a7dfff698f" alt="14yo Celine Dion sits across from future husband 39yo Rene Angélil in 1982" title="14yo Celine Dion sits across from future husband 39yo Rene Angélil in 1982" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MobileAerie9918"> /u/MobileAerie9918 </a> <br/> <span><a href="https://i.redd.it/g14k9sqjydhe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iikxer/14yo_celine_dion_sits_across_from_future_husband/">[comments]</a></span> </td></tr></table>
+
+## Coolest and weirdest underground bike event. Bike Kill!
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iike1o/coolest_and_weirdest_underground_bike_event_bike](https://www.reddit.com/r/interestingasfuck/comments/1iike1o/coolest_and_weirdest_underground_bike_event_bike)
+ - RSS feed: $source
+ - date published: 2025-02-05T20:46:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iike1o/coolest_and_weirdest_underground_bike_event_bike/"> <img src="https://external-preview.redd.it/YWt6dW9hc211ZGhlMVQpbssU37R0TffHDY6zMR6a5Apez8tWCN5K_AgC8lXq.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=663894b9bf0a68bc9ae69dc9e818027f8a7d6b04" alt="Coolest and weirdest underground bike event. Bike Kill!" title="Coolest and weirdest underground bike event. Bike Kill!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Individual_Book9133"> /u/Individual_Book9133 </a> <br/> <span><a href="https://v.redd.it/1v5lyasmudhe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iike1o/coolest_and_weirdest_underground_bike_event_bike/">[comments]</a></span> </td></tr></table>
+
+## The U.S. Army’s new rifle and machine gun, replacing the AR-15 platform for the first time since Vietnam for Army close combat forces (infantry, scouts, paratroopers)
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iijlq4/the_us_armys_new_rifle_and_machine_gun_replacing](https://www.reddit.com/r/interestingasfuck/comments/1iijlq4/the_us_armys_new_rifle_and_machine_gun_replacing)
+ - RSS feed: $source
+ - date published: 2025-02-05T20:14:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iijlq4/the_us_armys_new_rifle_and_machine_gun_replacing/"> <img src="https://preview.redd.it/k1p0792vodhe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a5977f2863b2ad1938a4d6c721cf33fb4ccb3ef3" alt="The U.S. Army’s new rifle and machine gun, replacing the AR-15 platform for the first time since Vietnam for Army close combat forces (infantry, scouts, paratroopers)" title="The U.S. Army’s new rifle and machine gun, replacing the AR-15 platform for the first time since Vietnam for Army close combat forces (infantry, scouts, paratroopers)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Low-Way557"> /u/Low-Way557 </a> <br/> <span><a href="https://i.redd.it/k1p0792vodhe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iijlq4/the_us_armys_new_rifle_and_machine_gun_replacing/">[comments]</a></span> </td></tr></table>
+
+## A Russian solider feeds polar bears condensed milk (1950)
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iii30q/a_russian_solider_feeds_polar_bears_condensed](https://www.reddit.com/r/interestingasfuck/comments/1iii30q/a_russian_solider_feeds_polar_bears_condensed)
+ - RSS feed: $source
+ - date published: 2025-02-05T19:13:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iii30q/a_russian_solider_feeds_polar_bears_condensed/"> <img src="https://preview.redd.it/t5j8vhmxddhe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6baaf1931c0a64efe130162a54d6754fca739a18" alt="A Russian solider feeds polar bears condensed milk (1950)" title="A Russian solider feeds polar bears condensed milk (1950)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Due-Challenge-9207"> /u/Due-Challenge-9207 </a> <br/> <span><a href="https://i.redd.it/t5j8vhmxddhe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iii30q/a_russian_solider_feeds_polar_bears_condensed/">[comments]</a></span> </td></tr></table>
+
+## A photo of the oldest known prosthetic in the world, found on a 3,000-year-old mummy in Egypt.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iihbkt/a_photo_of_the_oldest_known_prosthetic_in_the](https://www.reddit.com/r/interestingasfuck/comments/1iihbkt/a_photo_of_the_oldest_known_prosthetic_in_the)
+ - RSS feed: $source
+ - date published: 2025-02-05T18:42:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iihbkt/a_photo_of_the_oldest_known_prosthetic_in_the/"> <img src="https://preview.redd.it/r40rd19i8dhe1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a5dfa53f5a91bccb9766a3159e7010b9efcc5f61" alt="A photo of the oldest known prosthetic in the world, found on a 3,000-year-old mummy in Egypt." title="A photo of the oldest known prosthetic in the world, found on a 3,000-year-old mummy in Egypt." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdSpecialist6598"> /u/AdSpecialist6598 </a> <br/> <span><a href="https://i.redd.it/r40rd19i8dhe1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iihbkt/a_photo_of_the_oldest_known_prosthetic_in_the/">[comments]</a></span> </td></tr></table>
+
+## The dog on the John of Nepomuk statue at Charles Bridge has turned golden because tourists constantly touch it for good luck, wearing away the patina and exposing the shiny bronze beneath.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iih079/the_dog_on_the_john_of_nepomuk_statue_at_charles](https://www.reddit.com/r/interestingasfuck/comments/1iih079/the_dog_on_the_john_of_nepomuk_statue_at_charles)
+ - RSS feed: $source
+ - date published: 2025-02-05T18:30:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iih079/the_dog_on_the_john_of_nepomuk_statue_at_charles/"> <img src="https://preview.redd.it/k59f4xcu5dhe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b915103ae74d7e06616c17bc27cb0e36573b995" alt="The dog on the John of Nepomuk statue at Charles Bridge has turned golden because tourists constantly touch it for good luck, wearing away the patina and exposing the shiny bronze beneath." title="The dog on the John of Nepomuk statue at Charles Bridge has turned golden because tourists constantly touch it for good luck, wearing away the patina and exposing the shiny bronze beneath." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Structure-7996"> /u/Ok-Structure-7996 </a> <br/> <span><a href="https://i.redd.it/k59f4xcu5dhe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iih079/the_dog_on_the_john_of_nepomuk_statue_at_cha
+
+## Standing directly on the ocean floor at low tide, at the sight of the world highest tidal variations (bay of fundy, burntcoat head park)
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iifhff/standing_directly_on_the_ocean_floor_at_low_tide](https://www.reddit.com/r/interestingasfuck/comments/1iifhff/standing_directly_on_the_ocean_floor_at_low_tide)
+ - RSS feed: $source
+ - date published: 2025-02-05T17:28:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iifhff/standing_directly_on_the_ocean_floor_at_low_tide/"> <img src="https://b.thumbs.redditmedia.com/D5C8CO1gKyGilFYIz1IyRtbeTtHqdsWo2QA1sn6O1bM.jpg" alt="Standing directly on the ocean floor at low tide, at the sight of the world highest tidal variations (bay of fundy, burntcoat head park)" title="Standing directly on the ocean floor at low tide, at the sight of the world highest tidal variations (bay of fundy, burntcoat head park)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Weary-End-7948"> /u/Weary-End-7948 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iifhff">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iifhff/standing_directly_on_the_ocean_floor_at_low_tide/">[comments]</a></span> </td></tr></table>
+
+## In the early 60s The Price is Right gave away prizes like an airplane & submarine.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iifa5g/in_the_early_60s_the_price_is_right_gave_away](https://www.reddit.com/r/interestingasfuck/comments/1iifa5g/in_the_early_60s_the_price_is_right_gave_away)
+ - RSS feed: $source
+ - date published: 2025-02-05T17:20:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iifa5g/in_the_early_60s_the_price_is_right_gave_away/"> <img src="https://preview.redd.it/h3lzpthrtche1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa3ee5ba029e2b4c37359da1904b426013175efb" alt="In the early 60s The Price is Right gave away prizes like an airplane &amp; submarine." title="In the early 60s The Price is Right gave away prizes like an airplane &amp; submarine." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rockstoned4"> /u/rockstoned4 </a> <br/> <span><a href="https://i.redd.it/h3lzpthrtche1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iifa5g/in_the_early_60s_the_price_is_right_gave_away/">[comments]</a></span> </td></tr></table>
+
+## Nvidia trained robots on footage of Cristiano Ronaldo, LeBron James, and Kobe Byrant
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iidmlt/nvidia_trained_robots_on_footage_of_cristiano](https://www.reddit.com/r/interestingasfuck/comments/1iidmlt/nvidia_trained_robots_on_footage_of_cristiano)
+ - RSS feed: $source
+ - date published: 2025-02-05T16:12:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iidmlt/nvidia_trained_robots_on_footage_of_cristiano/"> <img src="https://external-preview.redd.it/bm56NTI4eTRoY2hlMav9PGHF2hNp_l644R1oqLb4UjZmowV0neASD1ZPNvX3.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1dd0b27216001a4525dfaaf6995b7385e706dfb5" alt="Nvidia trained robots on footage of Cristiano Ronaldo, LeBron James, and Kobe Byrant" title="Nvidia trained robots on footage of Cristiano Ronaldo, LeBron James, and Kobe Byrant" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MetaKnowing"> /u/MetaKnowing </a> <br/> <span><a href="https://v.redd.it/iqs0q7y4hche1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iidmlt/nvidia_trained_robots_on_footage_of_cristiano/">[comments]</a></span> </td></tr></table>
+
+## 1971, Apollo 15 Commander David Scott & L.M. Pilot James Irwin placed a commemorative plaque on the Moon. It honored the 14 known Astronauts and Cosmonauts that had perished in the pursuit of space exploration.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iib7jy/1971_apollo_15_commander_david_scott_lm_pilot](https://www.reddit.com/r/interestingasfuck/comments/1iib7jy/1971_apollo_15_commander_david_scott_lm_pilot)
+ - RSS feed: $source
+ - date published: 2025-02-05T14:30:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iib7jy/1971_apollo_15_commander_david_scott_lm_pilot/"> <img src="https://preview.redd.it/fesc3h9gzbhe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=05196327ca1d33eed7d0a0cd76baa786c1a062a2" alt="1971, Apollo 15 Commander David Scott &amp; L.M. Pilot James Irwin placed a commemorative plaque on the Moon. It honored the 14 known Astronauts and Cosmonauts that had perished in the pursuit of space exploration." title="1971, Apollo 15 Commander David Scott &amp; L.M. Pilot James Irwin placed a commemorative plaque on the Moon. It honored the 14 known Astronauts and Cosmonauts that had perished in the pursuit of space exploration." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MobileAerie9918"> /u/MobileAerie9918 </a> <br/> <span><a href="https://i.redd.it/fesc3h9gzbhe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iib7jy
+
+## Alfredo Aliaga Burdio, a 92-year-old Spaniard, became the oldest person to hike the Grand Canyon rim-to-rim by foot in October 2023. The 24-mile hike took him 21 hours and 15 minutes.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iib6t1/alfredo_aliaga_burdio_a_92yearold_spaniard_became](https://www.reddit.com/r/interestingasfuck/comments/1iib6t1/alfredo_aliaga_burdio_a_92yearold_spaniard_became)
+ - RSS feed: $source
+ - date published: 2025-02-05T14:29:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iib6t1/alfredo_aliaga_burdio_a_92yearold_spaniard_became/"> <img src="https://b.thumbs.redditmedia.com/TtERAdNM0Q7KEQtteAfbhstXSEdp5sphgBwubQB_Yqc.jpg" alt="Alfredo Aliaga Burdio, a 92-year-old Spaniard, became the oldest person to hike the Grand Canyon rim-to-rim by foot in October 2023. The 24-mile hike took him 21 hours and 15 minutes." title="Alfredo Aliaga Burdio, a 92-year-old Spaniard, became the oldest person to hike the Grand Canyon rim-to-rim by foot in October 2023. The 24-mile hike took him 21 hours and 15 minutes." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/strawberry_bubz"> /u/strawberry_bubz </a> <br/> <span><a href="https://www.reddit.com/gallery/1iib6t1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iib6t1/alfredo_aliaga_burdio_a_92yearold_spaniard_became/">[comments]</a></span> </td></tr></table>
+
+## I use UV lights as a biologist studying endangered frogs/reproduction and found out on accident my diamond ring GLOWS and has a diversity of diamond types in it! Some even hold the glow for almost 30 seconds after the uv light is removed!
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iib4fh/i_use_uv_lights_as_a_biologist_studying](https://www.reddit.com/r/interestingasfuck/comments/1iib4fh/i_use_uv_lights_as_a_biologist_studying)
+ - RSS feed: $source
+ - date published: 2025-02-05T14:26:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iib4fh/i_use_uv_lights_as_a_biologist_studying/"> <img src="https://preview.redd.it/b28t7rprybhe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce42025651b8e3c5c51bbcf144538525539a4f07" alt="I use UV lights as a biologist studying endangered frogs/reproduction and found out on accident my diamond ring GLOWS and has a diversity of diamond types in it! Some even hold the glow for almost 30 seconds after the uv light is removed!" title="I use UV lights as a biologist studying endangered frogs/reproduction and found out on accident my diamond ring GLOWS and has a diversity of diamond types in it! Some even hold the glow for almost 30 seconds after the uv light is removed!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/indicator_species"> /u/indicator_species </a> <br/> <span><a href="https://i.redd.it/b28t7rprybhe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.r
+
+## This is what it looks like to be attacked for 57 nights in London
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iiaznv/this_is_what_it_looks_like_to_be_attacked_for_57](https://www.reddit.com/r/interestingasfuck/comments/1iiaznv/this_is_what_it_looks_like_to_be_attacked_for_57)
+ - RSS feed: $source
+ - date published: 2025-02-05T14:20:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iiaznv/this_is_what_it_looks_like_to_be_attacked_for_57/"> <img src="https://external-preview.redd.it/dTZjY2hlZm94YmhlMf_TvkGeai-8ASLt3CVbPISoc68v7iMFjYoGfExaph4d.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=41386feca90ebb35e9e4c773012832d4170c3280" alt="This is what it looks like to be attacked for 57 nights in London" title="This is what it looks like to be attacked for 57 nights in London" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hollenstar"> /u/Hollenstar </a> <br/> <span><a href="https://v.redd.it/3kbc1ukoxbhe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iiaznv/this_is_what_it_looks_like_to_be_attacked_for_57/">[comments]</a></span> </td></tr></table>
+
+## Fan climbs an elevated crane to get to Michael Jackson, so Jackson holds him tight to prevent a fall
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iiadmy/fan_climbs_an_elevated_crane_to_get_to_michael](https://www.reddit.com/r/interestingasfuck/comments/1iiadmy/fan_climbs_an_elevated_crane_to_get_to_michael)
+ - RSS feed: $source
+ - date published: 2025-02-05T13:52:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iiadmy/fan_climbs_an_elevated_crane_to_get_to_michael/"> <img src="https://external-preview.redd.it/dXphaXNuZTdzYmhlMSTP0nPOFwLPQAJ46p8JYOpRsbfydtvn979BF50kcUkn.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2250bc9bf87441240e751921e956a1f75b3694d8" alt="Fan climbs an elevated crane to get to Michael Jackson, so Jackson holds him tight to prevent a fall" title="Fan climbs an elevated crane to get to Michael Jackson, so Jackson holds him tight to prevent a fall" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wilsonofoz"> /u/wilsonofoz </a> <br/> <span><a href="https://v.redd.it/h2xojyk7sbhe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iiadmy/fan_climbs_an_elevated_crane_to_get_to_michael/">[comments]</a></span> </td></tr></table>
+
+## In 2021, A mummy, fully bound in ropes and with its hands covering its face, has been discovered in an underground tomb in Peru.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iia6as/in_2021_a_mummy_fully_bound_in_ropes_and_with_its](https://www.reddit.com/r/interestingasfuck/comments/1iia6as/in_2021_a_mummy_fully_bound_in_ropes_and_with_its)
+ - RSS feed: $source
+ - date published: 2025-02-05T13:41:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iia6as/in_2021_a_mummy_fully_bound_in_ropes_and_with_its/"> <img src="https://preview.redd.it/cxs5me0uqbhe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=247e3383a3b2068cf81429d326541672f969def2" alt="In 2021, A mummy, fully bound in ropes and with its hands covering its face, has been discovered in an underground tomb in Peru." title="In 2021, A mummy, fully bound in ropes and with its hands covering its face, has been discovered in an underground tomb in Peru." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/fyrstikka"> /u/fyrstikka </a> <br/> <span><a href="https://i.redd.it/cxs5me0uqbhe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iia6as/in_2021_a_mummy_fully_bound_in_ropes_and_with_its/">[comments]</a></span> </td></tr></table>
+
+## Brushing the teeth of a hippo
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ii9f08/brushing_the_teeth_of_a_hippo](https://www.reddit.com/r/interestingasfuck/comments/1ii9f08/brushing_the_teeth_of_a_hippo)
+ - RSS feed: $source
+ - date published: 2025-02-05T13:01:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ii9f08/brushing_the_teeth_of_a_hippo/"> <img src="https://external-preview.redd.it/YW9hYnpkNG5qYmhlMSM_e1z7ChVMWaq2ygeY3AtEeZ9IzQ8T2ss13d4wYXRm.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=52507b85d3ebf284f3a16fc06fedf3be9c391bfe" alt="Brushing the teeth of a hippo" title="Brushing the teeth of a hippo" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Charming_History7423"> /u/Charming_History7423 </a> <br/> <span><a href="https://v.redd.it/d7xw1f4njbhe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ii9f08/brushing_the_teeth_of_a_hippo/">[comments]</a></span> </td></tr></table>
+
+## Human babies do not fear snakes
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ii884a/human_babies_do_not_fear_snakes](https://www.reddit.com/r/interestingasfuck/comments/1ii884a/human_babies_do_not_fear_snakes)
+ - RSS feed: $source
+ - date published: 2025-02-05T11:49:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ii884a/human_babies_do_not_fear_snakes/"> <img src="https://external-preview.redd.it/c3VuMTN6bHM2YmhlMW-hUgykHRMbm72McEkxg1d62SDO3f145rTys7in3a9g.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=da13a3d88a9d1f9915d0c01eb8743261fa46445e" alt="Human babies do not fear snakes" title="Human babies do not fear snakes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Docindn"> /u/Docindn </a> <br/> <span><a href="https://v.redd.it/y92l5tvs6bhe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ii884a/human_babies_do_not_fear_snakes/">[comments]</a></span> </td></tr></table>
+
+## The degree of refraction makes it look like his head is separated from his body
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ii7k94/the_degree_of_refraction_makes_it_look_like_his](https://www.reddit.com/r/interestingasfuck/comments/1ii7k94/the_degree_of_refraction_makes_it_look_like_his)
+ - RSS feed: $source
+ - date published: 2025-02-05T11:03:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ii7k94/the_degree_of_refraction_makes_it_look_like_his/"> <img src="https://external-preview.redd.it/OWhiZ3lybWl5YWhlMfApXmPZ5fQejI3gxftOfDw0tzfirFQP9U8jCGDnuxt9.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f6cad321a480d6fffbe1046fb809bf0fbff366c0" alt="The degree of refraction makes it look like his head is separated from his body" title="The degree of refraction makes it look like his head is separated from his body" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/volitairee"> /u/volitairee </a> <br/> <span><a href="https://v.redd.it/0mfj4cyiyahe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ii7k94/the_degree_of_refraction_makes_it_look_like_his/">[comments]</a></span> </td></tr></table>
+
+## USAF F-100D Super Sabre using a zero-length-launch system (1959)
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ii6wqk/usaf_f100d_super_sabre_using_a_zerolengthlaunch](https://www.reddit.com/r/interestingasfuck/comments/1ii6wqk/usaf_f100d_super_sabre_using_a_zerolengthlaunch)
+ - RSS feed: $source
+ - date published: 2025-02-05T10:14:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ii6wqk/usaf_f100d_super_sabre_using_a_zerolengthlaunch/"> <img src="https://external-preview.redd.it/ZmVxM25zenFwYWhlMY3qNCH7FiTuHGgHskTCAB8Hyp821uQAB5ij5OrmkJd5.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f26942f2518a17670382a19d2f490d9c0fbe03f" alt="USAF F-100D Super Sabre using a zero-length-launch system (1959)" title="USAF F-100D Super Sabre using a zero-length-launch system (1959)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/father_of_twitch"> /u/father_of_twitch </a> <br/> <span><a href="https://v.redd.it/t3f7vszqpahe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ii6wqk/usaf_f100d_super_sabre_using_a_zerolengthlaunch/">[comments]</a></span> </td></tr></table>
+
+## This is the heart of a Blue whale. Weighing in excess of 1,300 lbs (±600 kg), it is the size of a small car. The gigantic heart beats 8-10 times per minute, and each heartbeat can be heard from over 2 miles (3.2 km)
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ii5wr2/this_is_the_heart_of_a_blue_whale_weighing_in](https://www.reddit.com/r/interestingasfuck/comments/1ii5wr2/this_is_the_heart_of_a_blue_whale_weighing_in)
+ - RSS feed: $source
+ - date published: 2025-02-05T08:56:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ii5wr2/this_is_the_heart_of_a_blue_whale_weighing_in/"> <img src="https://preview.redd.it/3ppoqc9ybahe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e24c426ea8e3ff795bee8db5d9bd8d6e7386c73" alt="This is the heart of a Blue whale. Weighing in excess of 1,300 lbs (±600 kg), it is the size of a small car. The gigantic heart beats 8-10 times per minute, and each heartbeat can be heard from over 2 miles (3.2 km)" title="This is the heart of a Blue whale. Weighing in excess of 1,300 lbs (±600 kg), it is the size of a small car. The gigantic heart beats 8-10 times per minute, and each heartbeat can be heard from over 2 miles (3.2 km)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/fyrstikka"> /u/fyrstikka </a> <br/> <span><a href="https://i.redd.it/3ppoqc9ybahe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ii5wr2/this_is_t
+
+## Close-Up of an Elephant's Tail, Body, and Eye
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ii5b0s/closeup_of_an_elephants_tail_body_and_eye](https://www.reddit.com/r/interestingasfuck/comments/1ii5b0s/closeup_of_an_elephants_tail_body_and_eye)
+ - RSS feed: $source
+ - date published: 2025-02-05T08:10:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ii5b0s/closeup_of_an_elephants_tail_body_and_eye/"> <img src="https://external-preview.redd.it/cHQ2aG5tNWQzYWhlMUVxtAQMp1Aki3fHFxLb9M18Q8iFRLtbvGNy7U7nHxVA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1f8e03dd6d0df9e13b2a3c13af0b9ed27c085f08" alt="Close-Up of an Elephant's Tail, Body, and Eye" title="Close-Up of an Elephant's Tail, Body, and Eye" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Admirable_Flight_257"> /u/Admirable_Flight_257 </a> <br/> <span><a href="https://v.redd.it/rhozom5d3ahe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ii5b0s/closeup_of_an_elephants_tail_body_and_eye/">[comments]</a></span> </td></tr></table>
+
+## Martian Winds
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ii1mhz/martian_winds](https://www.reddit.com/r/interestingasfuck/comments/1ii1mhz/martian_winds)
+ - RSS feed: $source
+ - date published: 2025-02-05T04:10:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ii1mhz/martian_winds/"> <img src="https://external-preview.redd.it/eHF5OHg4ZHl3OGhlMWFbnIAjiRy8c6gCE_UEgADmfdYzGJJYgntx5qwkRXZq.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=69853751ea224e2606d4a80c7477f5a46306f8c4" alt="Martian Winds" title="Martian Winds" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vermontnative"> /u/vermontnative </a> <br/> <span><a href="https://v.redd.it/3texv6fyw8he1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ii1mhz/martian_winds/">[comments]</a></span> </td></tr></table>
+
+## Ronaldo's famous 2.6 meters jumping header
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ihz25y/ronaldos_famous_26_meters_jumping_header](https://www.reddit.com/r/interestingasfuck/comments/1ihz25y/ronaldos_famous_26_meters_jumping_header)
+ - RSS feed: $source
+ - date published: 2025-02-05T01:59:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ihz25y/ronaldos_famous_26_meters_jumping_header/"> <img src="https://external-preview.redd.it/Y3VwdGd2NWo5OGhlMVxRjFL4zDQBp4kY3uMVcEqOyVbAEHrBhWhWyg2Rv7iz.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=b01d56fd23a7fddbac496dc5d914972cd32be829" alt="Ronaldo's famous 2.6 meters jumping header" title="Ronaldo's famous 2.6 meters jumping header" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ShiroSara"> /u/ShiroSara </a> <br/> <span><a href="https://v.redd.it/m3njzxbj98he1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ihz25y/ronaldos_famous_26_meters_jumping_header/">[comments]</a></span> </td></tr></table>
+
+## Over 4 feet of snow fell in Obihiro, Japan over a 12 hour time period. This broke the all time record for snowfall in a 12 hour time period in Japan
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ihxf1b/over_4_feet_of_snow_fell_in_obihiro_japan_over_a](https://www.reddit.com/r/interestingasfuck/comments/1ihxf1b/over_4_feet_of_snow_fell_in_obihiro_japan_over_a)
+ - RSS feed: $source
+ - date published: 2025-02-05T00:40:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ihxf1b/over_4_feet_of_snow_fell_in_obihiro_japan_over_a/"> <img src="https://external-preview.redd.it/MmJ6M214dmd2N2hlMSwz9M9-BxIaVeUlywCdRiVF-ou3dnHoweMksigmsjRi.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=93c1b0ec88b7840e938d719e4ba97003d3e0c43b" alt="Over 4 feet of snow fell in Obihiro, Japan over a 12 hour time period. This broke the all time record for snowfall in a 12 hour time period in Japan" title="Over 4 feet of snow fell in Obihiro, Japan over a 12 hour time period. This broke the all time record for snowfall in a 12 hour time period in Japan" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Outside_Abroad_3516"> /u/Outside_Abroad_3516 </a> <br/> <span><a href="https://v.redd.it/shl6bf1hv7he1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ihxf1b/over_4_feet_of_snow_fell_in_obihiro_japan_over_a/">[comments]</a></spa
+

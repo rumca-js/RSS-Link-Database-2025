@@ -1,0 +1,16 @@
+# Source:CrackWatch, URL:https://www.reddit.com/r/CrackWatch/.rss, language:en
+
+## [Crack Watch] Weekly question thread
+ - [https://www.reddit.com/r/CrackWatch/comments/1ii56a9/crack_watch_weekly_question_thread](https://www.reddit.com/r/CrackWatch/comments/1ii56a9/crack_watch_weekly_question_thread)
+ - RSS feed: $source
+ - date published: 2025-02-05T08:00:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ask any question you like, but also please read the <a href="https://www.reddit.com/r/CrackWatch/comments/v60rnq/crack_watch_beginners_guide_to_crack_watch/">Beginner&#39;s guide to CrackWatch</a> before doing so</p> <p>&#x200B;</p> <p><em>Q&amp;A</em></p> <p>&#x200B;</p> <p><strong>Q:</strong> When will [insert game name here] be cracked?</p> <p>&#x200B;</p> <p>&#x200B;</p> <p><strong>A:</strong> STOP! <a href="/r/CrackWatch">r/CrackWatch</a> members are not psychic. Games get cracked by completely <a href="https://en.wikipedia.org/wiki/Warez_scene">ANONYMOUS SCENE GROUPS</a> who don&#39;t disclose their progress or plans to the general public so <strong>NO ONE</strong> knows <strong>WHEN</strong> and <strong>IF</strong> a certain game will be cracked.</p> <p>&#x200B;</p> <p> </p> <p>&#x200B;</p> <p><strong>Q:</strong> What are all these NFO thingies? Where do I download it?</p> <p>&#x200B;</p> <p>&#x200B;</p> <p><strong>A:</strong> NFOs are text fi
+
+## Kingdom Come: Deliverance II – Gold Edition (v1.1.1-11377 + All DLCs + Bonus Content + MULTi15) (From 57.8 GB) [DODI Repack]
+ - [https://www.reddit.com/r/CrackWatch/comments/1ii4025/kingdom_come_deliverance_ii_gold_edition](https://www.reddit.com/r/CrackWatch/comments/1ii4025/kingdom_come_deliverance_ii_gold_edition)
+ - RSS feed: $source
+ - date published: 2025-02-05T06:35:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackWatch/comments/1ii4025/kingdom_come_deliverance_ii_gold_edition/"> <img src="https://preview.redd.it/pvqanvesl9he1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=071a45f88e7c94ad5d0841fa5c2a338e90d8a8a6" alt="Kingdom Come: Deliverance II – Gold Edition (v1.1.1-11377 + All DLCs + Bonus Content + MULTi15) (From 57.8 GB) [DODI Repack]" title="Kingdom Come: Deliverance II – Gold Edition (v1.1.1-11377 + All DLCs + Bonus Content + MULTi15) (From 57.8 GB) [DODI Repack]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DODI-Releases"> /u/DODI-Releases </a> <br/> <span><a href="https://i.redd.it/pvqanvesl9he1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackWatch/comments/1ii4025/kingdom_come_deliverance_ii_gold_edition/">[comments]</a></span> </td></tr></table>
+

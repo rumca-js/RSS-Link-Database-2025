@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-05T16:30:27+00:00",
+        "description": "Argentina says it objects to the way the international health body handled the Covid-19 pandemic.",
+        "id": 2048583,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c8975qp1n4qo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6f0/live/d4e3a880-e3da-11ef-a3e9-f7d24490089c.jpg",
+        "title": "Argentina leader orders WHO exit in move mirroring Trump's",
+        "vote": 0
+    }
+]
