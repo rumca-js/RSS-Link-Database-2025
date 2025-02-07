@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-06T18:31:27+00:00",
+        "description": "The hosts of Uncanny Valley chronicle the TikTok ban saga and ask: What makes the app so uniquely vulnerable?",
+        "id": 2058016,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-12-tiktok-stole-our-hearts",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/67a291bea9991a0b9f42cf57/master/pass/Uncanny-Valley-All-Things-TikTok-Business-2195390706.jpg",
+        "title": "TikTok Stole Our Hearts, but Can It Last?",
+        "vote": 0
+    }
+]

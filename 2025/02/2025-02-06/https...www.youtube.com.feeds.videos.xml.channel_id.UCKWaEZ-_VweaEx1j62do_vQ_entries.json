@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-06T12:00:28+00:00",
+        "description": "Want to learn more about how to choose the right AI foundation model? Read the Ebook here \u2192 https://ibm.biz/BdGGqN\n\nLearn more about DeepSeek here \u2192 https://ibm.biz/BdGGqt\n\nWant to hear more about the facts and hype of DeepSeek from our Mixture of Experts? Watch here \u2192 https://ibm.biz/BdGGqk\n\nExplore the unique capabilities of DeepSeek, an innovative AI reasoning model. \ud83c\udf1f Martin Keen and Aaron Baughman discuss the evolution of DeepSeek models, focusing on DeepSeek-R1. Learn how it uses chain of thought reasoning, reinforcement learning, and expert architectures to achieve top-tier performance efficiently. \ud83d\ude80\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdGGq6\n\n#deepseek #ai #machinelearning",
+        "id": 2054979,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=KTonvXhsxpc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KTonvXhsxpc/hqdefault.jpg",
+        "title": "What is DeepSeek? AI Model Basics Explained",
+        "vote": 0
+    }
+]

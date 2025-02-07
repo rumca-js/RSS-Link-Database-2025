@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-06T17:00:51+00:00",
+        "description": "FLASH radiation therapy could one day cure complex tumors and cancers while limiting the toll of radiation on the body. France's Institut Curie hopes to install one of the special machines in its Orsay Hospital site.",
+        "id": 2057088,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2025/02/06/a-new-radiotherapy-could-provide-hope-against-certain-types-of-cancers_6737865_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/02/03/416/0/2752/1376/644/322/60/0/59a7feb_sirius-fs-upload-1-y18rsmzd42qh-1738575382364-poumon-sain.jpg",
+        "title": "A new radiotherapy could provide hope against certain types of cancers",
+        "vote": 0
+    }
+]

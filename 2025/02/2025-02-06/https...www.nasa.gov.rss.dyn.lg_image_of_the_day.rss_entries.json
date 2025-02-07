@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-06T20:51:00+00:00",
+        "description": "The blue tentacle-like arms containing gecko-like adhesive pads, attached to an Astrobee robotic free-flyer, reach out and grapple a \"capture cube\" inside the International Space Station's Kibo laboratory module. The experimental grippers, outfitted on the toaster-sized Astrobee, demonstrated autonomous detection and capture techniques that may be used to remove space debris and service satellites in low Earth orbit.",
+        "id": 2059083,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/gmt035_18_44_for-poic_suni-williams_astrobee",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Robot Gets a Grip",
+        "vote": 0
+    }
+]

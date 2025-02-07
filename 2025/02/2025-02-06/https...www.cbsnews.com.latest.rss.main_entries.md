@@ -1,0 +1,639 @@
+# Source:Home - CBSNews.com, URL:https://www.cbsnews.com/latest/rss/main, language:en
+
+## FAA officials weighed closing D.C. airport runway after close calls, sources say
+ - [https://www.cbsnews.com/news/faa-reagan-national-airport-runway-close-calls](https://www.cbsnews.com/news/faa-reagan-national-airport-runway-close-calls)
+ - RSS feed: $source
+ - date published: 2025-02-06T18:36:15+00:00
+
+Top FAA officials pushed to close one of Reagan National Airport's runways following two close calls, multiple sources told CBS News.
+
+## NCAA updates transgender student-athlete participation policy
+ - [https://www.cbsnews.com/news/ncaa-transgender-student-athlete-participation-policy-change](https://www.cbsnews.com/news/ncaa-transgender-student-athlete-participation-policy-change)
+ - RSS feed: $source
+ - date published: 2025-02-06T18:33:52+00:00
+
+The NCAA updated its policy one day after the administration's order banning transgender athletes from competing on female teams.
+
+## Why a judge paused Trump's buyout deadline for federal workers
+ - [https://www.cbsnews.com/video/why-judge-paused-trump-buyout-deadline-federal-workers](https://www.cbsnews.com/video/why-judge-paused-trump-buyout-deadline-federal-workers)
+ - RSS feed: $source
+ - date published: 2025-02-06T18:32:38+00:00
+
+A federal judge on Thursday temporarily blocked a deadline for federal employees to accept the Trump administration's "deferred resignation" offer. Plus, several state attorneys general announced a lawsuit against the White House over the Department of Government Efficiency. CBS News' Caitlin Huey-Burns and Ed O'Keefe have the latest.
+
+## Judge bars DOJ from disclosing information on FBI agents tied to Jan. 6 cases
+ - [https://www.cbsnews.com/news/judge-temporary-bars-justice-department-from-disclosing-names-of-fbi-agents-tied-to-jan-6-probes](https://www.cbsnews.com/news/judge-temporary-bars-justice-department-from-disclosing-names-of-fbi-agents-tied-to-jan-6-probes)
+ - RSS feed: $source
+ - date published: 2025-02-06T18:27:15+00:00
+
+A group of unnamed FBI agents and the FBI Agents Association are seeking to prevent the Justice Department from disclosing a list of names of bureau employees who were tied to Jan. 6 probes.
+
+## This week on "Sunday Morning" (February 9)
+ - [https://www.cbsnews.com/news/this-week-on-sunday-morning-february-9-2025](https://www.cbsnews.com/news/this-week-on-sunday-morning-february-9-2025)
+ - RSS feed: $source
+ - date published: 2025-02-06T18:12:13+00:00
+
+A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.
+
+## As Cardinal Timothy Dolan turns 75, a time of transition begins in the Archdiocese of New York
+ - [https://www.cbsnews.com/news/cardinal-timothy-dolan-turns-75-submits-resignation](https://www.cbsnews.com/news/cardinal-timothy-dolan-turns-75-submits-resignation)
+ - RSS feed: $source
+ - date published: 2025-02-06T18:08:52+00:00
+
+New York's Cardinal Timothy Dolan turns 75 Thursday, and is required to submit his resignation to the Vatican. The formality starts the clock on a time of transition for the Archdiocese of New York.
+
+## USAID shutdown ripples worldwide: "Huge impact on actual human lives"
+ - [https://www.cbsnews.com/news/usaid-shutdown-grassroots-groups-impact](https://www.cbsnews.com/news/usaid-shutdown-grassroots-groups-impact)
+ - RSS feed: $source
+ - date published: 2025-02-06T18:08:37+00:00
+
+Grassroots groups around the world have lost funding for a range of humanitarian projects, including medical aid and fighting human trafficking.
+
+## Johnson urges Senate to wait for House to "do its work" on Trump agenda
+ - [https://www.cbsnews.com/news/johnson-urges-senate-wait-for-house-trump-agenda](https://www.cbsnews.com/news/johnson-urges-senate-wait-for-house-trump-agenda)
+ - RSS feed: $source
+ - date published: 2025-02-06T17:59:50+00:00
+
+House Republicans met for several hours with Trump Thursday, after GOP senators planned move forward with their own plan to enact Trump's priorities.
+
+## Shohei Ohtani's former interpreter sentenced to more than 4 years in prison
+ - [https://www.cbsnews.com/news/ex-interpreter-for-dodgers-star-shohei-ohtani-sentence-betting-case](https://www.cbsnews.com/news/ex-interpreter-for-dodgers-star-shohei-ohtani-sentence-betting-case)
+ - RSS feed: $source
+ - date published: 2025-02-06T17:51:00+00:00
+
+Ippei Mizuhara, the former Japanese-language interpreter for Dodgers star Shohei Ohtani convicted in an illegal betting case, was sentenced to four years and nine months in prison Thursday.
+
+## Trump officials eye daily migrant detainee flights to Guantanamo Bay
+ - [https://www.cbsnews.com/news/trump-officials-eye-daily-migrant-detainee-flights-to-guantanamo-bay](https://www.cbsnews.com/news/trump-officials-eye-daily-migrant-detainee-flights-to-guantanamo-bay)
+ - RSS feed: $source
+ - date published: 2025-02-06T17:15:59+00:00
+
+The Trump administration's objective is to send groups of unauthorized migrants from the U.S. mainland to Guantanamo each day, using military aircraft to airlift and relocate detainees.
+
+## New York and other states plan to sue Trump administration over DOGE access
+ - [https://www.cbsnews.com/news/new-york-states-to-sue-trump-doge-access-privacy](https://www.cbsnews.com/news/new-york-states-to-sue-trump-doge-access-privacy)
+ - RSS feed: $source
+ - date published: 2025-02-06T16:28:07+00:00
+
+New York Attorney General Letitia James said "this level of access for unauthorized individuals is unlawful, unprecedented, and unacceptable."
+
+## More on NTSB D.C. crash investigation after crews recover all bodies from plane
+ - [https://www.cbsnews.com/video/more-on-ntsb-dc-crash-investigation-after-crews-recover-all-bodies-from-plane](https://www.cbsnews.com/video/more-on-ntsb-dc-crash-investigation-after-crews-recover-all-bodies-from-plane)
+ - RSS feed: $source
+ - date published: 2025-02-06T16:22:00+00:00
+
+The NTSB is investigating the debris collected from the D.C. plane-helicopter collision. This comes after teams recovered the bodies of all those aboard the American Eagle jet. CBS News' Kris Van Cleave reports.
+
+## Can a debt collector make false statements about my debt?
+ - [https://www.cbsnews.com/news/can-a-debt-collector-make-false-statements-about-my-debt](https://www.cbsnews.com/news/can-a-debt-collector-make-false-statements-about-my-debt)
+ - RSS feed: $source
+ - date published: 2025-02-06T16:19:18+00:00
+
+There could be big repercussions if a debt collector lies about what's owed. Here's how — and why.
+
+## Deadly strain of bird flu linked to man's 2024 death appears in Nevada dairy cows
+ - [https://www.cbsnews.com/video/deadly-strain-of-bird-flu-linked-to-mans-2024-death-appears-in-nevada-dairy-cows](https://www.cbsnews.com/video/deadly-strain-of-bird-flu-linked-to-mans-2024-death-appears-in-nevada-dairy-cows)
+ - RSS feed: $source
+ - date published: 2025-02-06T16:09:00+00:00
+
+Herds of cattle in Nevada tested positive for the strain of H5N1 bird flu never before seen in cows, state agriculture officials confirmed. CBS News' Andres Gutierrez reports on the lethal strain that led to a man's death in Louisiana in 2024.
+
+## Will the price of gold hit $3,000 this February?
+ - [https://www.cbsnews.com/news/will-the-price-of-gold-hit-3000-this-february](https://www.cbsnews.com/news/will-the-price-of-gold-hit-3000-this-february)
+ - RSS feed: $source
+ - date published: 2025-02-06T15:54:46+00:00
+
+There's a good chance that the price of gold will surpass the $3,000 price point this month. Here's how (and why).
+
+## Netanyahu meeting with Johnson as questions linger about Trump's Gaza comments
+ - [https://www.cbsnews.com/video/netanyahu-meeting-with-johnson-as-questions-linger-about-trumps-gaza-comments](https://www.cbsnews.com/video/netanyahu-meeting-with-johnson-as-questions-linger-about-trumps-gaza-comments)
+ - RSS feed: $source
+ - date published: 2025-02-06T15:38:00+00:00
+
+Israel's Benjamin Netanyahu is on Capitol Hill to meet with lawmakers after meeting with President Trump and Defense Secretary Pete Hegseth. This comes as Mr. Trump insists on his plans concerning Gaza. CBS News' Caitlin Huey-Burns reports.
+
+## Why you should lock in a home equity loan rate this February
+ - [https://www.cbsnews.com/news/why-you-should-lock-in-home-equity-loan-rate-this-february](https://www.cbsnews.com/news/why-you-should-lock-in-home-equity-loan-rate-this-february)
+ - RSS feed: $source
+ - date published: 2025-02-06T15:11:23+00:00
+
+There's a compelling case to be made for locking in a home equity loan interest rate this February. Here's why.
+
+## Feb 6: CBS News 24/7, 1pm ET
+ - [https://www.cbsnews.com/video/feb-6-cbs-news-247-1pm-et](https://www.cbsnews.com/video/feb-6-cbs-news-247-1pm-et)
+ - RSS feed: $source
+ - date published: 2025-02-06T15:04:27+00:00
+
+President Trump meets with Republican lawmakers to discuss federal budget; Judge temporarily blocks deadline for Trump's plan offering incentives for federal workers to resign.
+
+## Judges block Trump's deferred resignation plan, birthright citizenship executive order
+ - [https://www.cbsnews.com/video/judges-block-trumps-deferred-resignation-plan-birthright-citizenship-executive-order](https://www.cbsnews.com/video/judges-block-trumps-deferred-resignation-plan-birthright-citizenship-executive-order)
+ - RSS feed: $source
+ - date published: 2025-02-06T15:02:00+00:00
+
+The judicial branch is reviewing lawsuits on several moves by the Trump administration and judges around the country are weighing in on the legality of the "deferred resignation" plan for federal employees and the president's executive order on birthright citizenship. CBS News senior White House and political correspondent Ed O'Keefe reports.
+
+## 3 ways to have your credit card debt forgiven this February
+ - [https://www.cbsnews.com/news/ways-to-have-your-credit-card-debt-forgiven-this-february](https://www.cbsnews.com/news/ways-to-have-your-credit-card-debt-forgiven-this-february)
+ - RSS feed: $source
+ - date published: 2025-02-06T14:30:17+00:00
+
+Debt forgiveness could be the solution to your high-rate card debt — and there are a few ways to pursue it.
+
+## As Cardinal Timothy Dolan turns 75, a time of transition begins in the Archdiocese of New York
+ - [https://www.cbsnews.com/newyork/news/cardinal-timothy-dolan-turns-75-submits-resignation](https://www.cbsnews.com/newyork/news/cardinal-timothy-dolan-turns-75-submits-resignation)
+ - RSS feed: $source
+ - date published: 2025-02-06T14:04:34+00:00
+
+New York's Cardinal Timothy Dolan turns 75 Thursday, and is required to submit his resignation to the Vatican. The formality starts the clock on a time of transition for the Archdiocese of New York.
+
+## How much does a $50,000 home equity loan cost monthly in 2025?
+ - [https://www.cbsnews.com/news/how-much-does-50000-home-equity-loan-cost-monthly-2025](https://www.cbsnews.com/news/how-much-does-50000-home-equity-loan-cost-monthly-2025)
+ - RSS feed: $source
+ - date published: 2025-02-06T14:02:05+00:00
+
+Considering a home equity loan in 2025? Here's what a $50,000 loan will cost monthly if opened now.
+
+## "Narco sub" loaded with 5,000 pounds of cocaine seized off Colombian coast
+ - [https://www.cbsnews.com/news/narco-sub-cocaine-first-seizure-2025-colombia](https://www.cbsnews.com/news/narco-sub-cocaine-first-seizure-2025-colombia)
+ - RSS feed: $source
+ - date published: 2025-02-06T13:54:40+00:00
+
+Officials said a total of 111 bundles were found, containing 2,276 kilograms of cocaine with a street value of about $76 million.
+
+## Fact-checking USAID spending as Trump administration guts agency
+ - [https://www.cbsnews.com/video/fact-checking-usaid-spending-as-trump-administration-guts-agency](https://www.cbsnews.com/video/fact-checking-usaid-spending-as-trump-administration-guts-agency)
+ - RSS feed: $source
+ - date published: 2025-02-06T13:53:00+00:00
+
+CBS News Confirmed is fact-checking some of the money spent by USAID around the world. Olivia Rinaldi breaks down the findings as President Trump's administration works to reshape the agency.
+
+## Head of NGO coalition says U.S. foreign aid freeze has been "devastating"
+ - [https://www.cbsnews.com/video/head-of-ngo-coalition-says-u-s-foreign-aid-freeze-has-been-devastating](https://www.cbsnews.com/video/head-of-ngo-coalition-says-u-s-foreign-aid-freeze-has-been-devastating)
+ - RSS feed: $source
+ - date published: 2025-02-06T13:50:00+00:00
+
+InterAction CEO Tom Hart sits down with Margaret Brennan to discuss the impact of the pause on foreign assistance. InterAction is a coalition of about 170 NGOs.
+
+## Judge temporarily blocks Trump's deferred resignation program deadline
+ - [https://www.cbsnews.com/video/judge-temporarily-blocks-trumps-deferred-resignation-program-deadline](https://www.cbsnews.com/video/judge-temporarily-blocks-trumps-deferred-resignation-program-deadline)
+ - RSS feed: $source
+ - date published: 2025-02-06T13:47:00+00:00
+
+A judge has temporarily blocked the deadline for federal employees to accept the "deferred resignation" program. This comes as a second judge rules on President Trump's executive order on birthright citizenship. Legal analyst Robin Nunn has more.
+
+## Judge temporarily blocks deadline for Trump's deferred resignation program
+ - [https://www.cbsnews.com/news/judge-temporarily-blocks-implementation-deferred-resignation-program](https://www.cbsnews.com/news/judge-temporarily-blocks-implementation-deferred-resignation-program)
+ - RSS feed: $source
+ - date published: 2025-02-06T13:41:50+00:00
+
+Federal employees received an offer to resign their positions and retain full pay and benefits until Sept 30.
+
+## Latest weather forecast as dangerous winter weather approaches U.S.
+ - [https://www.cbsnews.com/video/latest-weather-forecast-as-dangerous-winter-weather-approaches-us](https://www.cbsnews.com/video/latest-weather-forecast-as-dangerous-winter-weather-approaches-us)
+ - RSS feed: $source
+ - date published: 2025-02-06T13:38:00+00:00
+
+Snow and ice are already falling across several states as a dangerous winter storm is expected to affect millions of Americans. CBS News Baltimore's Kaicey Baylor reports and meteorologist Zoe Mintz has the latest weather forecast.
+
+## U.S. service member, 3 defense contractors killed in plane crash
+ - [https://www.cbsnews.com/news/philippines-plane-crash-us-service-member-defense-contractors-killed](https://www.cbsnews.com/news/philippines-plane-crash-us-service-member-defense-contractors-killed)
+ - RSS feed: $source
+ - date published: 2025-02-06T13:30:26+00:00
+
+Officials are investigating after a small plane crash in the Philippines left four dead.
+
+## Netanyahu's response on U.S. soldiers in Gaza for Trump's plan
+ - [https://www.cbsnews.com/video/netanyahus-response-on-us-soldiers-in-gaza-for-trumps-plan](https://www.cbsnews.com/video/netanyahus-response-on-us-soldiers-in-gaza-for-trumps-plan)
+ - RSS feed: $source
+ - date published: 2025-02-06T13:17:00+00:00
+
+Israeli Prime Minister Benjamin Netanyahu says he does not think the U.S. military needs to be on the ground to make President Trump's Gaza plan feasible. CBS News' Taurean Small has more on the latest Capitol Hill movements.
+
+## Trump meeting with Republicans for budget talks
+ - [https://www.cbsnews.com/video/trump-meeting-with-republicans-for-budget-talks](https://www.cbsnews.com/video/trump-meeting-with-republicans-for-budget-talks)
+ - RSS feed: $source
+ - date published: 2025-02-06T13:10:00+00:00
+
+President Trump is meeting with Republican congressional leaders to discuss the budget bills that need to be passed to implement many of his campaign promises. CBS News' Natalie Brand reports.
+
+## 102 venomous snakes found in homeowner's backyard in Australia
+ - [https://www.cbsnews.com/news/venomous-snakes-found-in-homeowners-backyard-in-australia](https://www.cbsnews.com/news/venomous-snakes-found-in-homeowners-backyard-in-australia)
+ - RSS feed: $source
+ - date published: 2025-02-06T13:04:15+00:00
+
+An animal rescue service in Australia expected to remove four red-bellied snakes from the backyard of a Sydney home. Instead, they uncovered more than 100.
+
+## Trump taps new head of pandemic office as bird flu threat grows
+ - [https://www.cbsnews.com/news/trump-head-pandemic-office-gerald-parker](https://www.cbsnews.com/news/trump-head-pandemic-office-gerald-parker)
+ - RSS feed: $source
+ - date published: 2025-02-06T13:03:55+00:00
+
+Former federal health official Gerald Parker is Trump's choice to lead the White House's pandemic office.
+
+## Kendrick Lamar previews Super Bowl LIX halftime performance
+ - [https://www.cbsnews.com/video/kendrick-lamar-previews-super-bowl-lix-halftime-performance](https://www.cbsnews.com/video/kendrick-lamar-previews-super-bowl-lix-halftime-performance)
+ - RSS feed: $source
+ - date published: 2025-02-06T13:00:57+00:00
+
+Kendrick Lamar sat down with Apple Music for a preview of his Super Bowl LIX halftime performance. Meanwhile, the Kansas City Chiefs and the Philadelphia Eagles are in New Orleans to prepare for the big game. CBS News' Kati Weis reports.
+
+## Trump Justice Department sues Illinois and city of Chicago over immigration laws
+ - [https://www.cbsnews.com/news/trump-justice-department-sues-illinois-chicago-immigration](https://www.cbsnews.com/news/trump-justice-department-sues-illinois-chicago-immigration)
+ - RSS feed: $source
+ - date published: 2025-02-06T12:58:59+00:00
+
+Federal officials are asking a judge to bar the Illinois, Chicago, Cook County and the Cook County Sheriff from using local laws that protect migrants to hamper law enforcement.
+
+## Where migrants are being raided, deported as part of Trump's immigration crackdown
+ - [https://www.cbsnews.com/video/where-migrants-are-being-raided-deported-as-part-of-trumps-immigration-crackdown](https://www.cbsnews.com/video/where-migrants-are-being-raided-deported-as-part-of-trumps-immigration-crackdown)
+ - RSS feed: $source
+ - date published: 2025-02-06T12:55:00+00:00
+
+Federal agents carried out raids in Colorado as part of the immigration crackdown instituted by President Trump. This comes as apparent Venezuelan gang members are being flown to Cuba's Guantanamo Bay, U.S. officials confirm. CBS News' Camilo Montoya-Galvez reports.
+
+## Fury in India over U.S. deportees allegedly being leg-chained on flight
+ - [https://www.cbsnews.com/news/us-deported-indian-migrants-handcuffs-leg-chains-military-flight-india](https://www.cbsnews.com/news/us-deported-indian-migrants-handcuffs-leg-chains-military-flight-india)
+ - RSS feed: $source
+ - date published: 2025-02-06T12:44:43+00:00
+
+Indian lawmakers have voiced rage over the U.S. allegedly flying dozens of deportees halfway around the world in handcuffs and leg chains.
+
+## Latest news on federal worker buyout proposal, Trump's shocking Gaza plans
+ - [https://www.cbsnews.com/video/latest-news-on-federal-worker-buyout-proposal-trumps-shocking-gaza-plans](https://www.cbsnews.com/video/latest-news-on-federal-worker-buyout-proposal-trumps-shocking-gaza-plans)
+ - RSS feed: $source
+ - date published: 2025-02-06T12:22:00+00:00
+
+Millions of federal workers are approaching a deadline to accept a "deferred resignation" offer, but it is unclear if the budget is there to fund the plan. This comes as President Trump doubles down on his proposal to "take over" the Gaza Strip. CBS News' Olivia Rinaldi and Taurean Small report.
+
+## Kenny Chesney announces first book and talks Las Vegas residency
+ - [https://www.cbsnews.com/news/country-music-kenny-chesney-book-las-vegas-residency](https://www.cbsnews.com/news/country-music-kenny-chesney-book-las-vegas-residency)
+ - RSS feed: $source
+ - date published: 2025-02-06T12:13:42+00:00
+
+Kenny Chesney announced exclusively on "CBS Mornings" that he's writing his first-ever book about his music career and spoke about his upcoming Las Vegas residency.
+
+## U.K. firm finds way to turn damaging greenhouse gas into useful products
+ - [https://www.cbsnews.com/news/methane-turned-into-hydrogen-and-graphene-uk-firm-levidian-climate-change](https://www.cbsnews.com/news/methane-turned-into-hydrogen-and-graphene-uk-firm-levidian-climate-change)
+ - RSS feed: $source
+ - date published: 2025-02-06T11:50:47+00:00
+
+Methane is one of the climate-damaging gases emitted by industry, but a British firm has found a way to give it a major makeover.
+
+## LG ranges recalled after dozens of fires burn people, property, pets
+ - [https://www.cbsnews.com/news/lg-electronics-recall-ranges-fire-burn-people-property-pets](https://www.cbsnews.com/news/lg-electronics-recall-ranges-fire-burn-people-property-pets)
+ - RSS feed: $source
+ - date published: 2025-02-06T11:50:45+00:00
+
+Knobs on ranges can be unintentionally activated, an issue that has proved a hazard with other brands, safety agency says.
+
+## Feb 6: CBS News 24/7, 10am ET
+ - [https://www.cbsnews.com/video/feb-6-cbs-news-247-10am-et](https://www.cbsnews.com/video/feb-6-cbs-news-247-10am-et)
+ - RSS feed: $source
+ - date published: 2025-02-06T11:47:01+00:00
+
+President Trump attends National Prayer Breakfast; New Orleans prepares for Super Bowl a month after deadly terror attack in the city.
+
+## Flu is hitting a second peak in the U.S. this season
+ - [https://www.cbsnews.com/news/flu-second-peak-vaccine-what-to-know](https://www.cbsnews.com/news/flu-second-peak-vaccine-what-to-know)
+ - RSS feed: $source
+ - date published: 2025-02-06T11:37:54+00:00
+
+For a second time this season, at least 41 states are reporting high or very high levels of the flu. Here's how to stay safe.
+
+## Arab-Americans who voted for Trump react to Gaza takeover plan
+ - [https://www.cbsnews.com/video/arab-americans-who-voted-for-trump-react-to-gaza-takeover-plan](https://www.cbsnews.com/video/arab-americans-who-voted-for-trump-react-to-gaza-takeover-plan)
+ - RSS feed: $source
+ - date published: 2025-02-06T11:20:00+00:00
+
+President Trump's plan to take over Gaza is causing mixed emotions for some of the Arab-Americans who voted for him. CBS News national correspondent Nikki Battiste went to Dearborn, Michigan, for reaction.
+
+## Panama's president rejects U.S. claim of a deal for free canal passage
+ - [https://www.cbsnews.com/news/panama-canal-president-mulino-denies-deal-free-passage-us-warships-rubio](https://www.cbsnews.com/news/panama-canal-president-mulino-denies-deal-free-passage-us-warships-rubio)
+ - RSS feed: $source
+ - date published: 2025-02-06T11:18:58+00:00
+
+Panama's president says the State Department's claim of an agreement granting U.S. warships free canal passage was "based on a falsity. And that's intolerable."
+
+## Video shows unresponsive man rescued from out-of-control boat
+ - [https://www.cbsnews.com/news/man-rescued-unresponsive-speedboat-florida-volusia-county](https://www.cbsnews.com/news/man-rescued-unresponsive-speedboat-florida-volusia-county)
+ - RSS feed: $source
+ - date published: 2025-02-06T11:15:44+00:00
+
+The Volusia County Sheriff's Marine Unit and County Fire Rescue teams conducted a joint operation to rescue the man.
+
+## Everything to know about the IRS Fresh Start program
+ - [https://www.cbsnews.com/news/everything-to-know-about-the-irs-fresh-start-program](https://www.cbsnews.com/news/everything-to-know-about-the-irs-fresh-start-program)
+ - RSS feed: $source
+ - date published: 2025-02-06T11:08:54+00:00
+
+Enrolling in this program could benefit you if you owe money to the IRS, but there are things to know first.
+
+## Family of released Hamas hostage speaks out
+ - [https://www.cbsnews.com/video/family-of-released-hamas-hostage-speaks-out](https://www.cbsnews.com/video/family-of-released-hamas-hostage-speaks-out)
+ - RSS feed: $source
+ - date published: 2025-02-06T11:03:00+00:00
+
+CBS News foreign correspondent Chris Livesay spoke with the brother and sister of Keith Siegal, an American-Israeli who had been held captive by Hamas until his release a few days ago.
+
+## Giving methane a makeover
+ - [https://www.cbsnews.com/video/giving-methane-a-makeover](https://www.cbsnews.com/video/giving-methane-a-makeover)
+ - RSS feed: $source
+ - date published: 2025-02-06T11:01:00+00:00
+
+Methane is one of the most harmful greenhouse gases emitted by industries around the world, but as Tina Kraus reports, a company in England has found a way to turn the climate change culprit into not just one, but two incredibly useful products.
+
+## How to ease financial strains while caring for your parents and children
+ - [https://www.cbsnews.com/video/how-to-ease-financial-strains-while-caring-for-your-parents-and-children](https://www.cbsnews.com/video/how-to-ease-financial-strains-while-caring-for-your-parents-and-children)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:57:00+00:00
+
+CBS News business analyst Jill Schlesinger joins "CBS Mornings Plus" with tips on how to ease financial strains while caring for both your parents and children. A new survey shows 52% of these adults feel financially disadvantaged because of the support they're providing.
+
+## Preview of this year's best Super Bowl ads
+ - [https://www.cbsnews.com/video/preview-of-this-years-best-super-bowl-ads](https://www.cbsnews.com/video/preview-of-this-years-best-super-bowl-ads)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:57:00+00:00
+
+Since 2014, the cost of a 30 second Super Bowl ad has more than doubled from $4 million to more than $8 million. Ad Age editor-in-chief Jeanine Poggi discusses what to expect.
+
+## Surge in flu cases reported across U.S. as cases peak for a second time
+ - [https://www.cbsnews.com/video/surge-in-flu-cases-reported-across-u-s-as-cases-peak-for-a-second-time](https://www.cbsnews.com/video/surge-in-flu-cases-reported-across-u-s-as-cases-peak-for-a-second-time)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:57:00+00:00
+
+Cases are peaking for a second time this flu season. At least 41 states are reporting high or very high levels of the flu. Dr. Rabia De Latour, a gastroenterologist at NYU Langone Health, discusses how to keep yourself and your family safe.
+
+## Millions facing starvation in Sudan after nearly 2 years of civil war
+ - [https://www.cbsnews.com/video/millions-facing-starvation-in-sudan-after-nearly-2-years-of-civil-war](https://www.cbsnews.com/video/millions-facing-starvation-in-sudan-after-nearly-2-years-of-civil-war)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:56:00+00:00
+
+Nearly 2 years of brutal civil war in Sudan has left millions of people grappling with starvation. Aid organizations warn that President Trump's 90-day suspension of U.S. foreign aid could turn the country's situation into a catastrophe. CBS News foreign correspondent Debora Patta has more.
+
+## Sen. Welch of Vermont discusses FEMA, disaster aid amid Trump administration's federal cuts
+ - [https://www.cbsnews.com/video/sen-welch-of-vermont-discusses-fema-disaster-aid-amid-trump-administrations-federal-cuts](https://www.cbsnews.com/video/sen-welch-of-vermont-discusses-fema-disaster-aid-amid-trump-administrations-federal-cuts)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:55:00+00:00
+
+As the Trump administration attempts to scale back the size of the federal government, the president has suggested disaster relief should be left to states and that FEMA needs to be overhauled or gotten rid of altogether.  Sen. Peter Welch of Vermont, a Democrat, speaks with "CBS Mornings Plus" as his state continues to recover from two rounds of catastrophic flooding in July 2023 and July 2024.
+
+## Senate to vote on confirmation of OMB director as Democrats protest
+ - [https://www.cbsnews.com/news/russ-vought-senate-confirmation-vote-office-of-management-and-budget](https://www.cbsnews.com/news/russ-vought-senate-confirmation-vote-office-of-management-and-budget)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:53:44+00:00
+
+The Senate is expected to vote Thursday on the confirmation of Russ Vought to lead the Office of Management and Budget, after Democrats held the floor overnight to oppose his confirmation.
+
+## Hamas says it rejects Trump's Gaza plan, calls on all Palestinians to unite in oppostion
+ - [https://www.cbsnews.com/video/hamas-says-it-rejects-trump-gaza-plan-calls-on-all-palestinians-to-unite-in-oppostion](https://www.cbsnews.com/video/hamas-says-it-rejects-trump-gaza-plan-calls-on-all-palestinians-to-unite-in-oppostion)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:45:00+00:00
+
+Hamas has responded to President Trump's plans for the U.S. to take control of Gaza, saying it categorically rejects the idea. CBS News national correspondent Ian Lee has the latest.
+
+## More than 95 million Americans under winter storm warnings
+ - [https://www.cbsnews.com/video/more-than-95-million-people-under-winter-storm-warnings](https://www.cbsnews.com/video/more-than-95-million-people-under-winter-storm-warnings)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:36:00+00:00
+
+Tens of millions of Americans are waking up to snow as a dangerous winter storm makes its way across the northeast United States. CBS News senior national correspondent Rob Marciano has more.
+
+## Trump speaks at National Prayer Breakfast; judge blocks birthright executive order
+ - [https://www.cbsnews.com/video/trump-speaks-at-national-prayer-breakfast-judge-blocks-birthright-executive-order](https://www.cbsnews.com/video/trump-speaks-at-national-prayer-breakfast-judge-blocks-birthright-executive-order)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:29:00+00:00
+
+President Trump delivered remarks Thursday at the National Prayer Breakfast where he said he's directing Attorney General Pam Bondi to create a task force to combat "anti-Christian bias." CBS News chief White House correspondent Nancy Cordes has more on that and a federal judge's blockage of the president's executive order to end birthright citizenship.
+
+## Coast Guard releases images after crew seizes $91 million in drugs at sea
+ - [https://www.cbsnews.com/news/coast-guard-releases-images-after-crew-seizes-91-million-drugs-at-sea](https://www.cbsnews.com/news/coast-guard-releases-images-after-crew-seizes-91-million-drugs-at-sea)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:22:32+00:00
+
+A Coast Guard crew seized roughly 8,061 pounds of cocaine during a recent mission in the Caribbean and Eastern Pacific Ocean.
+
+## Melanie Lynskey on upcoming season of "Yellowjackets"
+ - [https://www.cbsnews.com/video/melanie-lynskey-on-upcoming-season-of-yellowjackets](https://www.cbsnews.com/video/melanie-lynskey-on-upcoming-season-of-yellowjackets)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:21:00+00:00
+
+Award-winning actor Melanie Lynskey talks about the upcoming third season of the hit series "Yellowjackets," which is about a high school girl's soccer team surviving a plane crash and its impact when they're adults 25 years later.
+
+## Eli Manning breaks down Super Bowl matchup and how players prepare
+ - [https://www.cbsnews.com/video/eli-manning-breaks-down-super-bowl-matchup-and-how-players-prepare](https://www.cbsnews.com/video/eli-manning-breaks-down-super-bowl-matchup-and-how-players-prepare)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:20:00+00:00
+
+Super Bowl champion Eli Manning, who spent 16 seasons with the New York Giants, joins "CBS Mornings" to talk about the Super Bowl matchup, and how the players prepare.
+
+## Trump administration wants bill to establish new air traffic control system
+ - [https://www.cbsnews.com/news/trump-air-traffic-control-system-upgrade-bill-congress](https://www.cbsnews.com/news/trump-air-traffic-control-system-upgrade-bill-congress)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:19:59+00:00
+
+President Trump said he and congressional leaders will "do a great computerized system for our control towers."
+
+## Netanyahu meeting with GOP leadership
+ - [https://www.cbsnews.com/video/netanyahu-meeting-with-gop-leadership](https://www.cbsnews.com/video/netanyahu-meeting-with-gop-leadership)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:12:00+00:00
+
+Israeli Prime Minister Benjamin Netanyahu is on Capitol Hill Thursday to meet with Republican congressional leadership. CBS News congressional correspondent Nikole Killion has more.
+
+## How shuttering USAID could impact famine, lives in Sudan
+ - [https://www.cbsnews.com/video/how-shuttering-usaid-could-impact-famine-lives-in-sudan](https://www.cbsnews.com/video/how-shuttering-usaid-could-impact-famine-lives-in-sudan)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:04:00+00:00
+
+President Trump's efforts to shutter the humanitarian agency, USAID, could have drastic impacts on places like war-torn Sudan. The stoppage could mean less medicine for the sick, fewer first responders and more famine. Warning, the images in this story are graphic.
+
+## Arab Americans react to President Trump's idea for the U.S. to develop Gaza Strip
+ - [https://www.cbsnews.com/video/arab-americans-react-to-president-trumps-idea-for-the-u-s-to-develop-gaza-strip](https://www.cbsnews.com/video/arab-americans-react-to-president-trumps-idea-for-the-u-s-to-develop-gaza-strip)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:03:00+00:00
+
+Residents in Dearborn, Michigan, near Detroit, are reacting to President Trump's comments about "taking over" the Gaza Strip. Dearborn has the highest percentage of Arab Americans of any U.S. city. In 2024, more voters cast a ballot for Trump than Harris in the historically democratic city.
+
+## Palestinians and Israelis respond to President Trump's Gaza plans
+ - [https://www.cbsnews.com/video/palestinians-and-israelis-respond-to-president-trumps-gaza-plans](https://www.cbsnews.com/video/palestinians-and-israelis-respond-to-president-trumps-gaza-plans)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:03:00+00:00
+
+Palestinians and Israelis are reacting to President Trump's proposal for the U.S. to develop the Gaza Strip amid Israel's ceasefire with Hamas. While some, like Israel's defense minister, have praised Trump's proposal, many oppose the idea. CBS News' Chris Livesay has more.
+
+## Exclusive discounts from CBS Mornings Deals
+ - [https://www.cbsnews.com/video/cbs-mornings-deals-020625](https://www.cbsnews.com/video/cbs-mornings-deals-020625)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:02:00+00:00
+
+On this edition of CBS Mornings Deals, we show you items that might just become essentials in your everyday life. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on purchases made through cbsdeals.com.
+
+## Kenny Chesney announces first-ever book and talks about his upcoming Las Vegas residency
+ - [https://www.cbsnews.com/video/kenny-chesney-announces-first-ever-book-and-talks-about-his-upcoming-las-vegas-residency](https://www.cbsnews.com/video/kenny-chesney-announces-first-ever-book-and-talks-about-his-upcoming-las-vegas-residency)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:02:00+00:00
+
+Country music icon Kenny Chesney announced his first-ever book, "HEART LIFE MUSIC" on "CBS Mornings." Chesney shared why he decided to write a book now and what to expect from it. He also spoke about his upcoming Las Vegas residency.
+
+## Trump administration expects 200,000 federal workers to accept resignation offer
+ - [https://www.cbsnews.com/video/trump-administration-expects-200000-federal-workers-to-accept-resignation-offer](https://www.cbsnews.com/video/trump-administration-expects-200000-federal-workers-to-accept-resignation-offer)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:02:00+00:00
+
+The Trump administration anticipates approximately 200,000 federal workers will participate in the deferred resignation program. CBS News has learned that more than 40,000 employees already have. Meanwhile, nearly all 10,000 USAID employees will be put on leave on Friday.
+
+## Israeli Prime Minister Benjamin Netanyahu to meet with leaders on Capitol Hill
+ - [https://www.cbsnews.com/news/benjamin-netanyahu-capitol-hill-donald-trump-gaza-plan](https://www.cbsnews.com/news/benjamin-netanyahu-capitol-hill-donald-trump-gaza-plan)
+ - RSS feed: $source
+ - date published: 2025-02-06T09:57:25+00:00
+
+Israeli Prime Minister Benjamin Netanyahu is meeting with leaders on Capitol Hill Thursday.
+
+## Early look at this year's Super Bowl commercials
+ - [https://www.cbsnews.com/video/early-look-at-2025s-super-bowl-ads](https://www.cbsnews.com/video/early-look-at-2025s-super-bowl-ads)
+ - RSS feed: $source
+ - date published: 2025-02-06T09:47:00+00:00
+
+Jeanine Poggi, editor-in-chief for Ad Age, joined CBS News to preview some of the ads you'll see this Super Bowl Sunday.
+
+## Bank of England cuts interest rates to 4.5%
+ - [https://www.cbsnews.com/video/bank-of-england-cuts-interest-rates-to-45](https://www.cbsnews.com/video/bank-of-england-cuts-interest-rates-to-45)
+ - RSS feed: $source
+ - date published: 2025-02-06T09:19:52+00:00
+
+The Bank of England has announced an interest rate cut to 4.5%. CBS News foreign correspondent Ramy Inocencio has more on what that means.
+
+## From the French Quarter to the Superdome, a look at Super Bowl security after terror attack
+ - [https://www.cbsnews.com/video/from-the-french-quarter-to-the-superdome-a-look-at-super-bowl-security-after-terror-attack](https://www.cbsnews.com/video/from-the-french-quarter-to-the-superdome-a-look-at-super-bowl-security-after-terror-attack)
+ - RSS feed: $source
+ - date published: 2025-02-06T09:19:00+00:00
+
+About 2,000 law enforcement officers will monitor New Orleans this week with the Super Bowl between the Philadelphia Eagles and the Kansas City Chiefs set for Sunday. The surge in security comes just one month after the New Year's terror attack on Bourbon Street.
+
+## Mona Lisa will have its own room after Louvre renovation, but it will cost more to see
+ - [https://www.cbsnews.com/video/mona-lisa-will-have-its-own-room-after-louvre-renovation-but-it-will-cost-more-to-see](https://www.cbsnews.com/video/mona-lisa-will-have-its-own-room-after-louvre-renovation-but-it-will-cost-more-to-see)
+ - RSS feed: $source
+ - date published: 2025-02-06T09:19:00+00:00
+
+The renovation at the Louvre Museum in Paris will see the famed Mona Lisa moved to its own, separate space, where it will be easier to manage the crowds. However, visitors will have to purchase an extra ticket to see the work of art.
+
+## Concern after second strain of bird flu detected in cows
+ - [https://www.cbsnews.com/video/concern-after-second-strain-of-bird-flu-detected-in-cows](https://www.cbsnews.com/video/concern-after-second-strain-of-bird-flu-detected-in-cows)
+ - RSS feed: $source
+ - date published: 2025-02-06T09:18:00+00:00
+
+A concerning second strain of bird flu, known as D1.1, has been detected in cows in Nevada after milk samples tested positive. It could make the fight to contain the ongoing outbreak more challenging. CBS News' Jericka Duncan explains.
+
+## CIA offers employee buyouts, attorney general orders review of Trump prosecutions
+ - [https://www.cbsnews.com/video/cia-offers-employee-buyouts-attorney-general-orders-review-of-trump-prosecutions](https://www.cbsnews.com/video/cia-offers-employee-buyouts-attorney-general-orders-review-of-trump-prosecutions)
+ - RSS feed: $source
+ - date published: 2025-02-06T09:14:00+00:00
+
+Members of the CIA have been offered buyouts if they choose to resign as President Trump continues his efforts to trim the federal government. CBS News senior White House correspondent Weijia Jiang has more on that and Attorney General Pam Bondi's order for the Justice Department to review past investigations of Mr. Trump.
+
+## Eye Opener: Winter storm brings dangerous conditions for millions across Northeast
+ - [https://www.cbsnews.com/video/eye-opener-winter-storm-brings-dangerous-conditions-for-millions-across-northeast](https://www.cbsnews.com/video/eye-opener-winter-storm-brings-dangerous-conditions-for-millions-across-northeast)
+ - RSS feed: $source
+ - date published: 2025-02-06T09:09:00+00:00
+
+A winter storm brings dangerous conditions for millions across the Northeast. Also, protesters hit the streets over the Trump administration's effort to dismantle parts of the U.S. government. All that and all that matters in today's Eye Opener.
+
+## Security measures ramp up for Super Bowl
+ - [https://www.cbsnews.com/video/security-measures-ramp-up-for-super-bowl](https://www.cbsnews.com/video/security-measures-ramp-up-for-super-bowl)
+ - RSS feed: $source
+ - date published: 2025-02-06T08:57:00+00:00
+
+Law enforcement in New Orleans is ramping up security for Sunday's Super Bowl which President Trump says he will attend. CBS News correspondent Danya Bacchus has more.
+
+## What Rubio told U.S. diplomats about the future of foreign aid, as most programs paused
+ - [https://www.cbsnews.com/news/marco-rubio-foreign-aid-future-trump-administration](https://www.cbsnews.com/news/marco-rubio-foreign-aid-future-trump-administration)
+ - RSS feed: $source
+ - date published: 2025-02-06T08:47:47+00:00
+
+Secretary of State Marco Rubio told U.S. diplomats behind closed doors about how foreign aid will be distributed by the Trump administration.
+
+## Google rolling back DEI efforts
+ - [https://www.cbsnews.com/video/google-rolling-back-dei-efforts](https://www.cbsnews.com/video/google-rolling-back-dei-efforts)
+ - RSS feed: $source
+ - date published: 2025-02-06T08:41:00+00:00
+
+Google is cutting back some of its diversity, equity and inclusion programs in a move many American companies are making after President Trump signed an executive order intended in part to pressure government contractors to end their DEI programs. Axios managing editor Delano Massey joined CBS News to discuss the downturn in DEI efforts.
+
+## Defense Department reportedly drafting plans for U.S. troop withdrawal from Syria
+ - [https://www.cbsnews.com/video/defense-department-reportedly-drafting-plans-for-us-troop-withdrawal-from-syria](https://www.cbsnews.com/video/defense-department-reportedly-drafting-plans-for-us-troop-withdrawal-from-syria)
+ - RSS feed: $source
+ - date published: 2025-02-06T08:32:00+00:00
+
+The Defense Department is working on a plan to remove all U.S. troops from Syria with NBC reporting that the Pentagon is considering 30, 60 or 90-day plans. CBS News senior national security correspondent Charlie D'Agata has the latest.
+
+## Details on Trump executive order banning transgender athletes from women's sports
+ - [https://www.cbsnews.com/video/details-on-trump-executive-order-banning-transgender-athletes-from-womens-sports](https://www.cbsnews.com/video/details-on-trump-executive-order-banning-transgender-athletes-from-womens-sports)
+ - RSS feed: $source
+ - date published: 2025-02-06T08:17:00+00:00
+
+President Trump on Wednesday signed an executive order banning transgender athletes from participating in girls and women's sports. CBS News correspondent Natalie Brand has more on that and the CIA's buyout offers.
+
+## Trump doubles down on Gaza takeover plan, says no U.S. soldiers would be needed
+ - [https://www.cbsnews.com/video/trump-doubles-down-on-gaza-takeover-plan-says-no-us-soldiers-would-be-needed](https://www.cbsnews.com/video/trump-doubles-down-on-gaza-takeover-plan-says-no-us-soldiers-would-be-needed)
+ - RSS feed: $source
+ - date published: 2025-02-06T08:08:00+00:00
+
+President Trump took to social media Thursday morning to again call for a United States takeover of the Gaza Strip, saying Palestinians in Gaza would be resettled in "far safer and more beautiful communities" in the region. CBS News foreign correspondent Chris Livesay has more.
+
+## Cocaine "no worse than whiskey," Colombia's president says
+ - [https://www.cbsnews.com/news/cocaine-no-worse-than-whiskey-colombia-president](https://www.cbsnews.com/news/cocaine-no-worse-than-whiskey-colombia-president)
+ - RSS feed: $source
+ - date published: 2025-02-06T07:45:00+00:00
+
+Cocaine "is no worse than whiskey" and is only illegal because it comes from Latin America, said Colombian President Gustavo Petro, whose nation is the world's biggest cocaine producer and exporter.
+
+## Irv Gotti, music executive who founded Murder, Inc., dies at 54
+ - [https://www.cbsnews.com/news/irv-gotti-dead](https://www.cbsnews.com/news/irv-gotti-dead)
+ - RSS feed: $source
+ - date published: 2025-02-06T07:19:49+00:00
+
+Irv Gotti, the famed hip-hop music executive from NYC, has died at the age of 54, Def Jam confirms.
+
+## Millions of federal workers face Feb. 6 deadline over whether to resign
+ - [https://www.cbsnews.com/news/trump-deferred-resignation-fork-in-the-road-elon-musk-opm-lawsuit](https://www.cbsnews.com/news/trump-deferred-resignation-fork-in-the-road-elon-musk-opm-lawsuit)
+ - RSS feed: $source
+ - date published: 2025-02-06T07:03:06+00:00
+
+Unions are suing to halt the Trump administration's "deferred resignation" offer, claiming it is against the law and jeopardizes workers.
+
+## How much are Super Bowl 2025 tickets? Average, cheapest, priciest seats
+ - [https://www.cbsnews.com/news/how-much-super-bowl-tickets-2025](https://www.cbsnews.com/news/how-much-super-bowl-tickets-2025)
+ - RSS feed: $source
+ - date published: 2025-02-06T07:00:13+00:00
+
+From the cheapest to priciest seats, here's how much Super Bowl tickets cost in 2025.
+
+## Sneak peek: It's About Danni
+ - [https://www.cbsnews.com/video/sneak-peek-its-about-danni-houchins](https://www.cbsnews.com/video/sneak-peek-its-about-danni-houchins)
+ - RSS feed: $source
+ - date published: 2025-02-06T07:00:00+00:00
+
+All new: When 15-year-old Danni Houchins is found dead in a swamp, her family says they were led to believe she drowned.  24 years later, Danni's sister learns the terrible truth. "48 Hours" correspondent Peter Van Sant reports Saturday, Feb. 8 at 10/9c on CBS and streaming on Paramount+.
+
+## One of Europe's most-wanted fugitives spotted at religious service
+ - [https://www.cbsnews.com/news/europe-wanted-fugitive-jos-leijdekkers-religious-service-sierra-leone](https://www.cbsnews.com/news/europe-wanted-fugitive-jos-leijdekkers-religious-service-sierra-leone)
+ - RSS feed: $source
+ - date published: 2025-02-06T06:23:34+00:00
+
+Jos Leijdekkers -- also known as "Omar Sheriff" and "Chubby Jos" -- is accused of trafficking cocaine and ordering a murder.
+
+## January 2025 was hottest January on record despite factors working against it
+ - [https://www.cbsnews.com/news/january-2025-hottest-on-record-despite-factors-less-likely](https://www.cbsnews.com/news/january-2025-hottest-on-record-despite-factors-less-likely)
+ - RSS feed: $source
+ - date published: 2025-02-06T04:52:00+00:00
+
+The world set yet another monthly heat record in January, despite an abnormally chilly U.S., a cooling La Nina​​ and predictions of a slightly less hot 2025, the European climate service Copernicus says.
+
+## Scientists say they've produced world's first IVF kangaroo embryo
+ - [https://www.cbsnews.com/news/first-ivf-kangaroo-embryo-australia-scientists](https://www.cbsnews.com/news/first-ivf-kangaroo-embryo-australia-scientists)
+ - RSS feed: $source
+ - date published: 2025-02-06T03:46:00+00:00
+
+Australia-based scientists say they've produced the world's first kangaroo embryo through in IVF and hailed it as a key step toward saving endangered marsupials.
+

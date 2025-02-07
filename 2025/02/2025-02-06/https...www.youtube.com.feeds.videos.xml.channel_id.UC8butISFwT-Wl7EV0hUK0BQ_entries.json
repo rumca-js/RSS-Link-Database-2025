@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-06T15:15:19+00:00",
+        "description": "This comprehensive AI Engineering roadmap will walk you through the essential skills and techniques every aspiring AI Engineer should master by 2025. From fundamental mathematics and key machine learning algorithms to deep learning, AI Engineering best practices, and large language models\u2014you\u2019ll get hands-on AI Engineering experience and invaluable career insights that will set you on the fast track to success in this rapidly evolving field.\n\nCourse developed by Tatev Aslanyan from @LunarTech_ai \n\nApply to AI Engineering Bootcamp Here: https://www.lunartech.ai/bootcamp/ai-engineering-bootcamp\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n(0:00:00) AI Engineering Roadmap Introduction\n(0:03:59) What is AI Engineering\n(0:05:47) AI Engineering Applications\n(0:08:31) Must-Have Skills for an AI Engineer\n(0:09:05) Mathematical Foundations\n(0:17:38) Statistics Essen",
+        "id": 2056510,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=nYXVvK-Wmn0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nYXVvK-Wmn0/hqdefault.jpg",
+        "title": "AI Engineer Roadmap \u2013 How to Learn AI in 2025",
+        "vote": 0
+    }
+]

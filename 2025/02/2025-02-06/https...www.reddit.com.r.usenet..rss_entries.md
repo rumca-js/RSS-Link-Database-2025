@@ -1,0 +1,23 @@
+# Source:Usenet, URL:https://www.reddit.com/r/usenet/.rss, language:en
+
+## Are you being overcharged on provider "Lifetime Deals?" - steps to prevent this
+ - [https://www.reddit.com/r/usenet/comments/1ijdw0x/are_you_being_overcharged_on_provider_lifetime](https://www.reddit.com/r/usenet/comments/1ijdw0x/are_you_being_overcharged_on_provider_lifetime)
+ - RSS feed: $source
+ - date published: 2025-02-06T21:24:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>There are a lot of posts in the last few months about people signing up for lifetime deals at various providers and then getting notice that their pricing has been changed, sometimes as much as doubled, without their consent. Some people claim they were not notified while others claim they were notified but only a few days before the billing occurred. Here are some of the relevant links: </p> <ul> <li><a href="https://www.reddit.com/r/usenet/comments/1ij6m6v/newsgroupninja_not_honouring_their_lifetime/">https://www.reddit.com/r/usenet/comments/1ij6m6v/newsgroupninja_not_honouring_their_lifetime/</a></li> <li><a href="https://www.reddit.com/r/usenet/comments/1gvmqhf/usenetserver%5C_increasing%5C_monthly%5C_prices%5C_by%5C_2month/">https://www.reddit.com/r/usenet/comments/1gvmqhf/usenetserver\_increasing\_monthly\_prices\_by\_2month/</a></li> <li><a href="https://www.reddit.com/r/usenet/comments/1dkop1u/newshosting%5C_increase%5C_price%5C_2%5C_addition
+
+## NewsgroupNinja not honouring their lifetime pricing
+ - [https://www.reddit.com/r/usenet/comments/1ij6m6v/newsgroupninja_not_honouring_their_lifetime](https://www.reddit.com/r/usenet/comments/1ij6m6v/newsgroupninja_not_honouring_their_lifetime)
+ - RSS feed: $source
+ - date published: 2025-02-06T16:30:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been a subscriber for almost 7 years and got a big surprise today with a nearly 50% price hike with zero notification. I&#39;ve seen other threads talking about this. They have already charged my CC (I stupidly updated it as it had expired and only after the charge came through realized it was 50% more than my lifetime price).</p> <p>I&#39;m waiting for support to answer. Have others had a reasonable experience here with them making it right? I&#39;ve asked for a full refund or an extra year of hosting for the price I&#39;ve already paid and if not will do a VISA chargeback (which is not a good thing for them).</p> <p>This leaves a really terrible taste in my mouth for them, this was a pretty sketchy move! Just had to share it with the community here. Curious how they responded to others in the same situation. Only ones I&#39;ve read about are before they were overcharged ...</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https:/
+
+## What’s going on with Frugal Usenet?
+ - [https://www.reddit.com/r/usenet/comments/1ij1dgi/whats_going_on_with_frugal_usenet](https://www.reddit.com/r/usenet/comments/1ij1dgi/whats_going_on_with_frugal_usenet)
+ - RSS feed: $source
+ - date published: 2025-02-06T12:27:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve been a Frugal customer for quite some time now, and I feel like I need to warn others about the direction this service is taking. If you’re considering Frugal Usenet, you may want to think twice.</p> <p>The latest issue is that they slashed the bonus server quota to a mere 500GB/month without any prior notice. This sudden change is a slap in the face to long-term users who signed up with the expectation of receiving more. But that’s not the only problem.</p> <p>They’ve also switched backbones, moving away from Usenet.Farm to some undisclosed provider. With them, at least we knew what we were getting and the main reason I subscribed was, frankly, because it was on the Farm backbone where I received Omicron and NTD provider services along with it.</p> <p>Now, we’re left guessing about the quality and the retention capabilities of the new backbone.The lack of transparency here is alarming. I only found out about this because I saw a post on a diffe
+

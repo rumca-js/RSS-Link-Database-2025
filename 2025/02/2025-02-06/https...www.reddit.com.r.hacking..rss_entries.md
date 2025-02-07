@@ -1,0 +1,58 @@
+# Source:hacking: security in practice, URL:https://www.reddit.com/r/hacking/.rss, language:en
+
+## How plausible are reports of DOGE team accessing agency database in US gov?
+ - [https://www.reddit.com/r/hacking/comments/1ije85s/how_plausible_are_reports_of_doge_team_accessing](https://www.reddit.com/r/hacking/comments/1ije85s/how_plausible_are_reports_of_doge_team_accessing)
+ - RSS feed: $source
+ - date published: 2025-02-06T21:37:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>In the US, there are many reports of a small team of technical wizards assisting Elon Musk as they enter government agencies, connect devices to the network, and say they have access to databases. I know that would be very difficult without assistance from administrators in the agency, but not actually impossible. And they may have been able to coerce some help. What&#39;s your opinion? With the state of hacking and penetration tools (which I know nothing about) do you think it&#39;s possible this small team of tech savants has been able to identify and download internal databases from the connected network, as is being claimed?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Marc00s"> /u/Marc00s </a> <br/> <span><a href="https://www.reddit.com/r/hacking/comments/1ije85s/how_plausible_are_reports_of_doge_team_accessing/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1ije85s/how
+
+## Has anyone taken a look at join.doge.gov?
+ - [https://www.reddit.com/r/hacking/comments/1ij91t6/has_anyone_taken_a_look_at_joindogegov](https://www.reddit.com/r/hacking/comments/1ij91t6/has_anyone_taken_a_look_at_joindogegov)
+ - RSS feed: $source
+ - date published: 2025-02-06T18:08:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>Soooo many holes. I won’t point them out. But I’ve identified 3 client side checks that can be bypassed to really fuck shit up. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AardvarksEatAnts"> /u/AardvarksEatAnts </a> <br/> <span><a href="https://www.reddit.com/r/hacking/comments/1ij91t6/has_anyone_taken_a_look_at_joindogegov/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1ij91t6/has_anyone_taken_a_look_at_joindogegov/">[comments]</a></span>
+
+## Any known vulnerabilities or exploits on Google's Nest Doorbell?
+ - [https://www.reddit.com/r/hacking/comments/1ij7j9b/any_known_vulnerabilities_or_exploits_on_googles](https://www.reddit.com/r/hacking/comments/1ij7j9b/any_known_vulnerabilities_or_exploits_on_googles)
+ - RSS feed: $source
+ - date published: 2025-02-06T17:06:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1ij7j9b/any_known_vulnerabilities_or_exploits_on_googles/"> <img src="https://preview.redd.it/j7xde78cwjhe1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=81cf518c9433966a920fcd498b7403c135bc9eba" alt="Any known vulnerabilities or exploits on Google's Nest Doorbell?" title="Any known vulnerabilities or exploits on Google's Nest Doorbell?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Also, how can I downgrade the firmware on of these? Like is it even possible?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Available-Panic5431"> /u/Available-Panic5431 </a> <br/> <span><a href="https://i.redd.it/j7xde78cwjhe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1ij7j9b/any_known_vulnerabilities_or_exploits_on_googles/">[comments]</a></span> </td></tr></table>
+
+## BruteForce advise to support poor family
+ - [https://www.reddit.com/r/hacking/comments/1ij2zii/bruteforce_advise_to_support_poor_family](https://www.reddit.com/r/hacking/comments/1ij2zii/bruteforce_advise_to_support_poor_family)
+ - RSS feed: $source
+ - date published: 2025-02-06T13:50:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>TLDR - I need help getting access to a CD-ROM encrypted content that will get my uncle out of paying a 5-year accrued debt that he did not know existed until today.</p> <p>Hello everyone,</p> <p><strong>Background</strong>: My uncle owned a failing business 10 years ago, he had accumulated some debt from three different business loans and decided to close the business and consolidate his deft to pay it off in one go. A private fund made an offer to him 5 years ago, that they would consolidate his debt, take ownership and all he had to do then was pay upfront 30%, and they would cancel the rest. Fast forward today, he received numerous calls this past week that he still owes money and due to the interest payments not getting paid, it has now reached a ridiculous amount. He is a bit old, so he came to me for help. Unfortunately, he did not keep any records, contracts that can help support his case. What he did request somehow, was a physical CD-ROM wit
+
+## Book series
+ - [https://www.reddit.com/r/hacking/comments/1ij0t3l/book_series](https://www.reddit.com/r/hacking/comments/1ij0t3l/book_series)
+ - RSS feed: $source
+ - date published: 2025-02-06T11:54:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>I loved the Stealing the Network series of books and am looking for an alternative now. Any recommendations for books that are similar? I read the Millennium series already as well. </p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tech-001"> /u/tech-001 </a> <br/> <span><a href="https://www.reddit.com/r/hacking/comments/1ij0t3l/book_series/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1ij0t3l/book_series/">[comments]</a></span>
+
+## Best VPS Hosting for Privacy Outside EU/US Jurisdiction?
+ - [https://www.reddit.com/r/hacking/comments/1iixdse/best_vps_hosting_for_privacy_outside_euus](https://www.reddit.com/r/hacking/comments/1iixdse/best_vps_hosting_for_privacy_outside_euus)
+ - RSS feed: $source
+ - date published: 2025-02-06T07:48:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Which VPS provider respects privacy and doesn’t cooperate with EU/US authorities?👀🍄</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kenny-95"> /u/Kenny-95 </a> <br/> <span><a href="https://www.reddit.com/r/hacking/comments/1iixdse/best_vps_hosting_for_privacy_outside_euus/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1iixdse/best_vps_hosting_for_privacy_outside_euus/">[comments]</a></span>
+
+## who's gonna hack these first? sydney, australia
+ - [https://www.reddit.com/r/hacking/comments/1iiwia8/whos_gonna_hack_these_first_sydney_australia](https://www.reddit.com/r/hacking/comments/1iiwia8/whos_gonna_hack_these_first_sydney_australia)
+ - RSS feed: $source
+ - date published: 2025-02-06T06:46:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1iiwia8/whos_gonna_hack_these_first_sydney_australia/"> <img src="https://preview.redd.it/gfqcl9zhtghe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bdb0d187ba624bf1d00e2614f7a37d682ea10e16" alt="who's gonna hack these first? sydney, australia" title="who's gonna hack these first? sydney, australia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/redbackspider69"> /u/redbackspider69 </a> <br/> <span><a href="https://i.redd.it/gfqcl9zhtghe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1iiwia8/whos_gonna_hack_these_first_sydney_australia/">[comments]</a></span> </td></tr></table>
+
+## Anyone have anything close to flare when it comes to osint?
+ - [https://www.reddit.com/r/hacking/comments/1iivbcr/anyone_have_anything_close_to_flare_when_it_comes](https://www.reddit.com/r/hacking/comments/1iivbcr/anyone_have_anything_close_to_flare_when_it_comes)
+ - RSS feed: $source
+ - date published: 2025-02-06T05:28:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>I already have sherlock, spiderfoot, and osintframework but i was wondering if theres anything better for username searching? stuff like flare has with telegram searching would be nice (I havent found anything, doubt theres anything like flares)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MaintenanceEnough998"> /u/MaintenanceEnough998 </a> <br/> <span><a href="https://www.reddit.com/r/hacking/comments/1iivbcr/anyone_have_anything_close_to_flare_when_it_comes/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1iivbcr/anyone_have_anything_close_to_flare_when_it_comes/">[comments]</a></span>
+

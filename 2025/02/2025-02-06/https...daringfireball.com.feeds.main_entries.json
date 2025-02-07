@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-06T19:07:17+00:00",
+        "description": "<p>Dave Nanian, <a href=\"https://www.shirtpocket.com/blog/index.php/shadedgrey/comments/happy_new_fix/\">last week at the Shirt Pocket blog</a>:</p>\n\n<blockquote>\n  <p>Just a quick post: macOS 15.3 is now out, and with it, a fix for\nthe broken replicator. As such, macOS copying will work again with\nErase, Then Copy backups. No update to SuperDuper is necessary\n(but feel free to install our v3.10 Beta 2, below). [...]</p>\n\n<p>Thanks for your patience as we waited for the fix from Apple. I\nknow I\u2019m relieved that I (hopefully) will no longer be bombarded\nwith support because of it!</p>\n</blockquote>\n\n<p><a href=\"https://daringfireball.net/linked/2024/12/18/macos-15-2-bootable-backup-bug\">You may recall</a> that this was a bug introduced in MacOS 15.2, which prevented Shirt Pocket\u2019s excellent <a href=\"https://daringfireball.net/search/superduper\">long-standing</a> utility <a href=\"https://www.shirt-pocket.com/SuperDuper/\">SuperDuper</a> from making a bootable clone of your startup drive. ",
+        "id": 2058186,
+        "language": null,
+        "link": "https://daringfireball.net/2025/02/bootable_mac_startup_drive_backups_and_another_ode_to_superduper",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2605 Bootable Mac Startup Drive Backups, and Another Ode to SuperDuper",
+        "vote": 0
+    }
+]

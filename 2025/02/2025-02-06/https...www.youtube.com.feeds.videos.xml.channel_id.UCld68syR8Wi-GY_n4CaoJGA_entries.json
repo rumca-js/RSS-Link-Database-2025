@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-06T20:00:23+00:00",
+        "description": "Infrastructure is an issue that every large project is going to be and when your provider and sponsor shuts down you're going to be in for a bit of pain like has been recently seen with Equnix Metal shutting down and causing problems for Freedesktop and Alpine Linux\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nThe Register Article: https://www.theregister.com/2024/11/18/equinix_ends_metal_iaas/\nFreedesktop 2020 Issue: https://lists.freedesktop.org/archives/wayland-devel/2020-February/041232.html\nFreedesktop Issue: https://gitlab.freedesktop.org/freedesktop/freedesktop/-/issues/2011\nAlpine Linux Post: https://alpinelinux.org/posts/Seeking-Support-After-Equinix-Metal-Sunsets.html\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcas",
+        "id": 2058640,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=hrgeM1ZD5yQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hrgeM1ZD5yQ/hqdefault.jpg",
+        "title": "This Linux Project Has A Server Crisis",
+        "vote": 0
+    }
+]

@@ -1,0 +1,324 @@
+# Source:GNU/Linux Gaming on Reddit, URL:https://www.reddit.com/r/linux_gaming/.rss, language:
+
+## Local Game Library Database. Does anything like this exists?
+ - [https://www.reddit.com/r/linux_gaming/comments/1ijf6iq/local_game_library_database_does_anything_like](https://www.reddit.com/r/linux_gaming/comments/1ijf6iq/local_game_library_database_does_anything_like)
+ - RSS feed: $source
+ - date published: 2025-02-06T22:17:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone, I would like to have an opinion about a project I have in mind today. I like collecting digital games and I just stopped thinking about how mess these things go after some time. There are a lot of different digital libraries where we put our titles on and they are so decentralized. I like having control of my library but it seems to be so hard to have everything in one place like Lutris, where we can put other digital libraries games too. It&#39;s something that needs to be done manually. Sometimes I just want to organize my library aesthetically but it seems to be hard because the solutions are so solid and were thought out with only one purpose. Lutris, for example, is so good for configuring games but not that good aesthetically. Going deeper when playing a game I like to get and maintain some relevant information about the game, such as wikis, mods, adjusts, util links for videos, and these kinds of things. Talking about the emulati
+
+## F1 Style Steeringwheel Linux Driver
+ - [https://www.reddit.com/r/linux_gaming/comments/1ijf0xt/f1_style_steeringwheel_linux_driver](https://www.reddit.com/r/linux_gaming/comments/1ijf0xt/f1_style_steeringwheel_linux_driver)
+ - RSS feed: $source
+ - date published: 2025-02-06T22:10:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi there :)</p> <p>I suspect, that such a steering wheel here does communicate via the same standard as gamepads do: </p> <p><a href="https://simracing-pc.de/wp-content/uploads/2022/02/front_f1_wheels4.jpg">https://simracing-pc.de/wp-content/uploads/2022/02/front_f1_wheels4.jpg</a></p> <p>Is this correct? </p> <p>I am trying to read data from such a wheel, particularly the value of the gyrosensor.</p> <p>Can anyone guide me how to do that?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Outrageous_Stomach_8"> /u/Outrageous_Stomach_8 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ijf0xt/f1_style_steeringwheel_linux_driver/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ijf0xt/f1_style_steeringwheel_linux_driver/">[comments]</a></span>
+
+## Frame Gen for emulation, ie. PCSX2?
+ - [https://www.reddit.com/r/linux_gaming/comments/1ijey1i/frame_gen_for_emulation_ie_pcsx2](https://www.reddit.com/r/linux_gaming/comments/1ijey1i/frame_gen_for_emulation_ie_pcsx2)
+ - RSS feed: $source
+ - date published: 2025-02-06T22:07:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>There have been a number of excellent posts recently in relation frame gen tools and guidance. However it is my understanding all these tools rely on DLSS conversion. Is there any tool currently that works similarly to lossless scaling, and allows frame generation in emulators?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/captaindongface"> /u/captaindongface </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ijey1i/frame_gen_for_emulation_ie_pcsx2/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ijey1i/frame_gen_for_emulation_ie_pcsx2/">[comments]</a></span>
+
+## Monhun wilds benchmark vertex explosions and proton
+ - [https://www.reddit.com/r/linux_gaming/comments/1ijeug5/monhun_wilds_benchmark_vertex_explosions_and](https://www.reddit.com/r/linux_gaming/comments/1ijeug5/monhun_wilds_benchmark_vertex_explosions_and)
+ - RSS feed: $source
+ - date published: 2025-02-06T22:03:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I am using an nvidia 2080 super(boo nvidia) and i&#39;m wondering how likely it is that the issues we&#39;re currently seeing will be fixed by game release or if i should try and hop back onto windows until proton gets sorted. I really don&#39;t want to but frankly this game is very important to me and playing on release is non negotiable </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/orthodynamic"> /u/orthodynamic </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ijeug5/monhun_wilds_benchmark_vertex_explosions_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ijeug5/monhun_wilds_benchmark_vertex_explosions_and/">[comments]</a></span>
+
+## Creating Random Events for My Linux Terminal Game Where You Start a Cult
+ - [https://www.reddit.com/r/linux_gaming/comments/1ijduut/creating_random_events_for_my_linux_terminal_game](https://www.reddit.com/r/linux_gaming/comments/1ijduut/creating_random_events_for_my_linux_terminal_game)
+ - RSS feed: $source
+ - date published: 2025-02-06T21:22:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1ijduut/creating_random_events_for_my_linux_terminal_game/"> <img src="https://external-preview.redd.it/UsH7PeP4hdM8ztE2Y85LIPUJT8szBuTKMDSIVWZNwEc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=048adbe2dbfea6dc1e14113ba1cd409ac0a0fa4c" alt="Creating Random Events for My Linux Terminal Game Where You Start a Cult" title="Creating Random Events for My Linux Terminal Game Where You Start a Cult" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bucephalusdev"> /u/bucephalusdev </a> <br/> <span><a href="https://youtu.be/H50mP4di-js">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ijduut/creating_random_events_for_my_linux_terminal_game/">[comments]</a></span> </td></tr></table>
+
+## Thank you community!
+ - [https://www.reddit.com/r/linux_gaming/comments/1ijdqno/thank_you_community](https://www.reddit.com/r/linux_gaming/comments/1ijdqno/thank_you_community)
+ - RSS feed: $source
+ - date published: 2025-02-06T21:18:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1ijdqno/thank_you_community/"> <img src="https://b.thumbs.redditmedia.com/m3913s27CFvYaqz9MTtuBcceHHVCMGdnlXKKmeKKCBY.jpg" alt="Thank you community!" title="Thank you community!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/4wz1yb4q4lhe1.png?width=1037&amp;format=png&amp;auto=webp&amp;s=031233cdf08a93fd447793f8f0d484147b29a54e">https://preview.redd.it/4wz1yb4q4lhe1.png?width=1037&amp;format=png&amp;auto=webp&amp;s=031233cdf08a93fd447793f8f0d484147b29a54e</a></p> <p>I&#39;m not a gamer at heart but I could never move on from these childhood titles from PS2/PC. I considered moving back to Windows or buying a dedicated windows machine just for these games. I never really dug deeper to realize I can play all of these using PCSX2 and Wine on my Arch Setup (THANK YOU LUTRIS). You guys are awesome!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/
+
+## GTA RP altv home state server
+ - [https://www.reddit.com/r/linux_gaming/comments/1ijdqm6/gta_rp_altv_home_state_server](https://www.reddit.com/r/linux_gaming/comments/1ijdqm6/gta_rp_altv_home_state_server)
+ - RSS feed: $source
+ - date published: 2025-02-06T21:18:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys,</p> <p>The thing is in the headline how do i get it working?</p> <p>And maybe without virtual box im just to new to all of that stuff bottles, steam and lutris is for now the limit maybe later on vm but not for now if possible.</p> <p>Ty </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sonick1992"> /u/Sonick1992 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ijdqm6/gta_rp_altv_home_state_server/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ijdqm6/gta_rp_altv_home_state_server/">[comments]</a></span>
+
+## Quick Tip!: Greatly improve battery live under KDE Plasma + Wayland on High refresh rate gaming laptops
+ - [https://www.reddit.com/r/linux_gaming/comments/1ijcgs7/quick_tip_greatly_improve_battery_live_under_kde](https://www.reddit.com/r/linux_gaming/comments/1ijcgs7/quick_tip_greatly_improve_battery_live_under_kde)
+ - RSS feed: $source
+ - date published: 2025-02-06T20:26:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone! I thought I&#39;d share a quick tip to help improve battery life under KDE Plasma + Wayland.</p> <p>Having a gaming laptop usually means battery life wont last as long. I own a Legion Pro 5 with a Ryzen 9 7945HX and a 4070 and a 240hz IPS panel, and usually my battery lasts around 3 to 4 hours under light load.</p> <p>I daily drive Arch Linux with the Linux-LTS kernel, and to help with battery life i use <code>tuned</code> and <code>tuned-ppd</code> to manage the system&#39;s performance settings.</p> <p>One thing i never thought of trying was change the screen refresh rate during my battery usage time. I used it three times so far, and just by changing the screen refresh rate from 240hz to 60hz made by battery last over an extra hour!</p> <p>KDE being, well, KDE, has a cool option in the Power Management settings that lets you run scripts when entering AC Power and Battery Power, so, using quick script and the tool <code>kscreen-doctor<
+
+## Celeste not finding libfmodstudio.so.10
+ - [https://www.reddit.com/r/linux_gaming/comments/1ijcfnt/celeste_not_finding_libfmodstudioso10](https://www.reddit.com/r/linux_gaming/comments/1ijcfnt/celeste_not_finding_libfmodstudioso10)
+ - RSS feed: $source
+ - date published: 2025-02-06T20:25:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>okay so, im on arch linux, and i was trying to play celeste via steam, but every time i open it, the game window pops up for a split second and immediately closes, and writes this into the errorLog.txt</p> <pre><code>Monocle Engine Error Log ========================================== Ver 1.4.0.0 02/06/2025 21:09:22 System.DllNotFoundException: libfmodstudio.so.10 at (wrapper managed-to-native) FMOD.Studio.System.FMOD_Studio_System_Create(intptr&amp;,uint) at FMOD.Studio.System.create (FMOD.Studio.System&amp; studiosystem) [0x00005] in &lt;4a26f9ded6704c87a2f47e66d2d85163&gt;:0 at Celeste.Audio.Init () [0x00010] in &lt;4a26f9ded6704c87a2f47e66d2d85163&gt;:0 at Celeste.GameLoader.LoadThread () [0x0000c] in &lt;4a26f9ded6704c87a2f47e66d2d85163&gt;:0 at Celeste.RunThread.RunThreadWithLogging (System.Action method) [0x00000] in &lt;4a26f9ded6704c87a2f47e66d2d85163&gt;:0 </code></pre> <p>despite looking at both lib/ and lib64/ directories inside the game&#
+
+## HumanKind does not work
+ - [https://www.reddit.com/r/linux_gaming/comments/1ijccjv/humankind_does_not_work](https://www.reddit.com/r/linux_gaming/comments/1ijccjv/humankind_does_not_work)
+ - RSS feed: $source
+ - date published: 2025-02-06T20:21:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Im on Archlinux up to date, using Proton GE/Experimental/8/9</p> <p>All my other games works (Kingdom come deliverance 2, helldivers, ...).</p> <p>I tried command <code>PROTON_USE_WINED3D=1</code> from protondb.</p> <p>Any idea ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/christiancharle"> /u/christiancharle </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ijccjv/humankind_does_not_work/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ijccjv/humankind_does_not_work/">[comments]</a></span>
+
+## I have problem with starting Ubuntu
+ - [https://www.reddit.com/r/linux_gaming/comments/1ijb23g/i_have_problem_with_starting_ubuntu](https://www.reddit.com/r/linux_gaming/comments/1ijb23g/i_have_problem_with_starting_ubuntu)
+ - RSS feed: $source
+ - date published: 2025-02-06T19:29:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1ijb23g/i_have_problem_with_starting_ubuntu/"> <img src="https://a.thumbs.redditmedia.com/KocT-d7lJcBgcZq1xmCfhrSpXL_iIwYD7cE_75kBKw8.jpg" alt="I have problem with starting Ubuntu" title="I have problem with starting Ubuntu" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>When I updated the system and drivers using sudo apt upgrade and amdgpu-install after restarting the system throws me such information</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdamosHasowy"> /u/AdamosHasowy </a> <br/> <span><a href="https://www.reddit.com/gallery/1ijb23g">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ijb23g/i_have_problem_with_starting_ubuntu/">[comments]</a></span> </td></tr></table>
+
+## Looking for a portable gaming laptop to run Linux off of
+ - [https://www.reddit.com/r/linux_gaming/comments/1ijaqv8/looking_for_a_portable_gaming_laptop_to_run_linux](https://www.reddit.com/r/linux_gaming/comments/1ijaqv8/looking_for_a_portable_gaming_laptop_to_run_linux)
+ - RSS feed: $source
+ - date published: 2025-02-06T19:16:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, all. I&#39;m looking for a decent portable gaming laptop. I&#39;ll detail what I&#39;m looking for below:</p> <ul> <li><p><code>Screen Size</code> 14&quot;</p></li> <li><p><code>Resolution</code> 1920x1080 or 1920x1200</p></li> <li><p><code>GPU</code> RTX 4060</p></li> <li><p><code>CPU</code> Just one that works well with Linux in general, don&#39;t care if it&#39;s AMD or Intel.</p></li> <li><p><code>Preferred Distro</code> I&#39;m not a Linux expert by any means, so I probably won&#39;t be using the more difficult distros - namely Arch and Arch-based distros. Most of my experience is in Fedora, so I&#39;ll probably stick with that for now, if not for as long as this device is operational.</p></li> </ul> <p>If anyone has any suggestions that fit the bill, please let me know 🙏</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zI9PtXEmOaDlywq1b4OX"> /u/zI9PtXEmOaDlywq1b4OX </a> <br/> <span><a href="https://www
+
+## Dying Light launching to a black screen with the occasional flickering green rectangle
+ - [https://www.reddit.com/r/linux_gaming/comments/1ija7jw/dying_light_launching_to_a_black_screen_with_the](https://www.reddit.com/r/linux_gaming/comments/1ija7jw/dying_light_launching_to_a_black_screen_with_the)
+ - RSS feed: $source
+ - date published: 2025-02-06T18:55:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I can get past the initial loading screen, but once I move into the intro cutscene, the screen becomes all black, and a flickering green rectangle appears on the lower right-hand corner of the screen. I can press space to skip past the cutscene just fine, but the screen slowly becomes white bit by bit and I&#39;m unable to see the main menu. Any idea what&#39;s going on here?</p> <p>I&#39;m playing on Ubuntu, and I&#39;m able to play Dying Light 2 just fine and have played Dying Light 1 for nearly 130 hours already, so I&#39;m doubtful it&#39;s a matter of PC specs or a firewall</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Negative-Guess8499"> /u/Negative-Guess8499 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ija7jw/dying_light_launching_to_a_black_screen_with_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ija7jw/dying_light_launching_
+
+## Games based on real world events?
+ - [https://www.reddit.com/r/linux_gaming/comments/1ij9uyc/games_based_on_real_world_events](https://www.reddit.com/r/linux_gaming/comments/1ij9uyc/games_based_on_real_world_events)
+ - RSS feed: $source
+ - date published: 2025-02-06T18:41:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just wondering if there are platforms where developers can promote games that they created based on the immediate world around them. To my understanding, this is becoming an underground trend with elements of gaslighting attached to it. It&#39;d be interesting to play those.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chiocchio_ehkss"> /u/chiocchio_ehkss </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij9uyc/games_based_on_real_world_events/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij9uyc/games_based_on_real_world_events/">[comments]</a></span>
+
+## Q&A with: Game designer Steve Meretzky
+ - [https://www.reddit.com/r/linux_gaming/comments/1ij99kw/qa_with_game_designer_steve_meretzky](https://www.reddit.com/r/linux_gaming/comments/1ij99kw/qa_with_game_designer_steve_meretzky)
+ - RSS feed: $source
+ - date published: 2025-02-06T18:16:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1ij99kw/qa_with_game_designer_steve_meretzky/"> <img src="https://external-preview.redd.it/B9b5wi0EAkvOgUpBlq3fK4j7rmhTHEo09KJ9Cthnono.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e586f52cf2df25fcaf3e5d78823f1db99c1e3b1b" alt="Q&amp;A with: Game designer Steve Meretzky" title="Q&amp;A with: Game designer Steve Meretzky" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/123shait"> /u/123shait </a> <br/> <span><a href="https://spillhistorie.no/qa-with-game-designer-steve-meretzky/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij99kw/qa_with_game_designer_steve_meretzky/">[comments]</a></span> </td></tr></table>
+
+## Hardware accelerated GPU scheduling under linux?
+ - [https://www.reddit.com/r/linux_gaming/comments/1ij9107/hardware_accelerated_gpu_scheduling_under_linux](https://www.reddit.com/r/linux_gaming/comments/1ij9107/hardware_accelerated_gpu_scheduling_under_linux)
+ - RSS feed: $source
+ - date published: 2025-02-06T18:07:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey</p> <p>with the monster hunter wilds benchmark I wondered if Linux has a setting for hardware accelerated gpu scheduling or is this a windows only thing? Or do the amd drivers with the kernel include sth comparable out of the box ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ruboka"> /u/Ruboka </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij9107/hardware_accelerated_gpu_scheduling_under_linux/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij9107/hardware_accelerated_gpu_scheduling_under_linux/">[comments]</a></span>
+
+## Unleashing Assetto Corsa EVO 0.1.5 on Linux: Will it run smoothly?
+ - [https://www.reddit.com/r/linux_gaming/comments/1ij7i73/unleashing_assetto_corsa_evo_015_on_linux_will_it](https://www.reddit.com/r/linux_gaming/comments/1ij7i73/unleashing_assetto_corsa_evo_015_on_linux_will_it)
+ - RSS feed: $source
+ - date published: 2025-02-06T17:05:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1ij7i73/unleashing_assetto_corsa_evo_015_on_linux_will_it/"> <img src="https://external-preview.redd.it/BRXcJVVs-VYL3WRPefqk-Q64hngImYtiWNZTJTpzbW4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=45b384421e37ee32484150deb65f071e895817c1" alt="Unleashing Assetto Corsa EVO 0.1.5 on Linux: Will it run smoothly?" title="Unleashing Assetto Corsa EVO 0.1.5 on Linux: Will it run smoothly?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spikerguy"> /u/spikerguy </a> <br/> <span><a href="https://youtu.be/AiYk2RoVZeA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij7i73/unleashing_assetto_corsa_evo_015_on_linux_will_it/">[comments]</a></span> </td></tr></table>
+
+## ge-proton gmod color glitch
+ - [https://www.reddit.com/r/linux_gaming/comments/1ij6k9x/geproton_gmod_color_glitch](https://www.reddit.com/r/linux_gaming/comments/1ij6k9x/geproton_gmod_color_glitch)
+ - RSS feed: $source
+ - date published: 2025-02-06T16:28:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>how do i fix that?</p> <p><a href="https://reddit.com/link/1ij6k9x/video/5dmt5ldapjhe1/player">https://reddit.com/link/1ij6k9x/video/5dmt5ldapjhe1/player</a></p> <p>pause menu color = normal color</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MineSuitable2328"> /u/MineSuitable2328 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij6k9x/geproton_gmod_color_glitch/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij6k9x/geproton_gmod_color_glitch/">[comments]</a></span>
+
+## Kingdom Come: Deliverance II | 1440p Ultra Preset | Linux Gameplay
+ - [https://www.reddit.com/r/linux_gaming/comments/1ij67q4/kingdom_come_deliverance_ii_1440p_ultra_preset](https://www.reddit.com/r/linux_gaming/comments/1ij67q4/kingdom_come_deliverance_ii_1440p_ultra_preset)
+ - RSS feed: $source
+ - date published: 2025-02-06T16:13:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1ij67q4/kingdom_come_deliverance_ii_1440p_ultra_preset/"> <img src="https://external-preview.redd.it/DeIisPG6Y6nBsUuUe6w4uoQVOeLqhGRguj41LTaVdwI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bba2fcc10dd4e545f9b88a54a5f6ef1b953edff0" alt="Kingdom Come: Deliverance II | 1440p Ultra Preset | Linux Gameplay" title="Kingdom Come: Deliverance II | 1440p Ultra Preset | Linux Gameplay" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/felix_ribeiro"> /u/felix_ribeiro </a> <br/> <span><a href="https://youtu.be/-EwbCl695sY?feature=shared">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij67q4/kingdom_come_deliverance_ii_1440p_ultra_preset/">[comments]</a></span> </td></tr></table>
+
+## Steam games running on iGPU instead of my GPU (Laptop)
+ - [https://www.reddit.com/r/linux_gaming/comments/1ij5z6y/steam_games_running_on_igpu_instead_of_my_gpu](https://www.reddit.com/r/linux_gaming/comments/1ij5z6y/steam_games_running_on_igpu_instead_of_my_gpu)
+ - RSS feed: $source
+ - date published: 2025-02-06T16:03:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Okay so I have an IdeaPad gaming 3 (Ryzen 5 5500h - RTX 2050) and I have issues about running games on it, no matter what distro I use (Tried Mint and Pop_OS) it keeps running games on my iGPU (even if I pick the &quot;Run with dedicated graphics card&quot; option with the right click)</p> <p>Any tips? It&#39;s the only issue that makes me stay on windows (And kernel anti cheat games... But it&#39;s an another story) Oh and of course I installed the latest Nvidia drivers available (Not Nouveau)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SaumonelleXD"> /u/SaumonelleXD </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij5z6y/steam_games_running_on_igpu_instead_of_my_gpu/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij5z6y/steam_games_running_on_igpu_instead_of_my_gpu/">[comments]</a></span>
+
+## 8BitDo Pro 2 Wired for Xbox
+ - [https://www.reddit.com/r/linux_gaming/comments/1ij5n20/8bitdo_pro_2_wired_for_xbox](https://www.reddit.com/r/linux_gaming/comments/1ij5n20/8bitdo_pro_2_wired_for_xbox)
+ - RSS feed: $source
+ - date published: 2025-02-06T15:50:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1ij5n20/8bitdo_pro_2_wired_for_xbox/"> <img src="https://b.thumbs.redditmedia.com/RxaC3j47VGNrpSzPMIV0XMzb3oqN5SsnfDRY8lYxN_I.jpg" alt="8BitDo Pro 2 Wired for Xbox" title="8BitDo Pro 2 Wired for Xbox" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>The 8BitDo Pro 2 Wired &quot;<strong>for Xbox</strong>&quot; has a 3.5mm Audio Jack - simple question, does it work under Linux? </p> <p>Thanks</p> <p>Versions of this controller: <a href="https://www.reddit.com/r/Controller/comments/1fo3fp6/unofficial_guide_to_8bitdos_pro_2_and_ultimate/">https://www.reddit.com/r/Controller/comments/1fo3fp6/unofficial_guide_to_8bitdos_pro_2_and_ultimate/</a></p> <p><a href="https://preview.redd.it/yokqt1siijhe1.png?width=600&amp;format=png&amp;auto=webp&amp;s=3f8e10b859349615d4c1a6df5d375f133327c29d">https://preview.redd.it/yokqt1siijhe1.png?width=600&amp;format=png&amp;auto=webp&amp;s=3f8e10b859349615d4c1a6df5d375f133327c29d</a>
+
+## how to play games in iso format of windows on linux?
+ - [https://www.reddit.com/r/linux_gaming/comments/1ij5bmp/how_to_play_games_in_iso_format_of_windows_on](https://www.reddit.com/r/linux_gaming/comments/1ij5bmp/how_to_play_games_in_iso_format_of_windows_on)
+ - RSS feed: $source
+ - date published: 2025-02-06T15:36:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>i&#39;m wanting to play the game of <a href="https://www.myabandonware.com/game/bee-movie-game-p17">bee movie game</a> on linux but it&#39;s in the format of this and I don&#39;t know how to boot</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kayronnBR"> /u/kayronnBR </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij5bmp/how_to_play_games_in_iso_format_of_windows_on/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij5bmp/how_to_play_games_in_iso_format_of_windows_on/">[comments]</a></span>
+
+## DLSS Override in Linux
+ - [https://www.reddit.com/r/linux_gaming/comments/1ij4idc/dlss_override_in_linux](https://www.reddit.com/r/linux_gaming/comments/1ij4idc/dlss_override_in_linux)
+ - RSS feed: $source
+ - date published: 2025-02-06T15:01:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve seen a lot of YouTubers recently show that DLSS 4 is a big improvement over 3.5. And that these new models can be forced into older games with DLSS support via the Nvidia app on windows.</p> <p>Is there a way to do the same on Linux?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Final-Photograph1129"> /u/Final-Photograph1129 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij4idc/dlss_override_in_linux/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij4idc/dlss_override_in_linux/">[comments]</a></span>
+
+## Installing Realm of Thrones mod for Bannerlord?
+ - [https://www.reddit.com/r/linux_gaming/comments/1ij46sc/installing_realm_of_thrones_mod_for_bannerlord](https://www.reddit.com/r/linux_gaming/comments/1ij46sc/installing_realm_of_thrones_mod_for_bannerlord)
+ - RSS feed: $source
+ - date published: 2025-02-06T14:47:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve seen several posts on Reddit regarding this mod, but I haven’t seen if anyone has figured out a reliable way to install RoT and get it running. </p> <p>I’m not interested in dual-booting my Steam Deck with windows either. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mullighanisdog"> /u/mullighanisdog </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij46sc/installing_realm_of_thrones_mod_for_bannerlord/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij46sc/installing_realm_of_thrones_mod_for_bannerlord/">[comments]</a></span>
+
+## The huge free Command & Conquer - Combined Arms RTS just got upgraded
+ - [https://www.reddit.com/r/linux_gaming/comments/1ij428v/the_huge_free_command_conquer_combined_arms_rts](https://www.reddit.com/r/linux_gaming/comments/1ij428v/the_huge_free_command_conquer_combined_arms_rts)
+ - RSS feed: $source
+ - date published: 2025-02-06T14:41:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1ij428v/the_huge_free_command_conquer_combined_arms_rts/"> <img src="https://external-preview.redd.it/uhBKMpGisYcYStckeldU9lmODXppnRuBGyr0v4__1XQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e6a5eebf7f659d84df3a7d72fb8e8074245afe43" alt="The huge free Command &amp; Conquer - Combined Arms RTS just got upgraded" title="The huge free Command &amp; Conquer - Combined Arms RTS just got upgraded" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/beer120"> /u/beer120 </a> <br/> <span><a href="https://www.gamingonlinux.com/2025/02/the-huge-free-command-conquer-combined-arms-rts-just-got-upgraded/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij428v/the_huge_free_command_conquer_combined_arms_rts/">[comments]</a></span> </td></tr></table>
+
+## Ultim mc
+ - [https://www.reddit.com/r/linux_gaming/comments/1ij306a/ultim_mc](https://www.reddit.com/r/linux_gaming/comments/1ij306a/ultim_mc)
+ - RSS feed: $source
+ - date published: 2025-02-06T13:51:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>I use ultim mc to play minecraft but sometimes my fps drop to 25 and return back to normal. Do i have to optimize something? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PensionNo9558"> /u/PensionNo9558 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij306a/ultim_mc/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij306a/ultim_mc/">[comments]</a></span>
+
+## Electron apps freezing on Wayland while gaming
+ - [https://www.reddit.com/r/linux_gaming/comments/1ij2q1i/electron_apps_freezing_on_wayland_while_gaming](https://www.reddit.com/r/linux_gaming/comments/1ij2q1i/electron_apps_freezing_on_wayland_while_gaming)
+ - RSS feed: $source
+ - date published: 2025-02-06T13:38:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>While playing specific games my electron apps (for example Discord) and sometimes Firefox freeze and I have to restart them. This only happens on a few of my games, not all of them. Does anyone else have this problem? I haven&#39;t found anything yet.</p> <p>I&#39;m using EndeavourOS with KDE and Wayland on an Nvidia GPU.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SatanismRulez666"> /u/SatanismRulez666 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij2q1i/electron_apps_freezing_on_wayland_while_gaming/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij2q1i/electron_apps_freezing_on_wayland_while_gaming/">[comments]</a></span>
+
+## Gog Galaxy bottle
+ - [https://www.reddit.com/r/linux_gaming/comments/1ij1r59/gog_galaxy_bottle](https://www.reddit.com/r/linux_gaming/comments/1ij1r59/gog_galaxy_bottle)
+ - RSS feed: $source
+ - date published: 2025-02-06T12:49:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys, i just came up how i create my own bottle i installed gog Galaxy and then a Game called Ys origin this way i could use the configuration Launcher for ys origin. Here and there i ran in some problems so i deleted the bottle and started everything again from the start. Now i&#39;m fine with everything. But one question remains when i first deleted the first bottle did i also delete the game or did i only delete the bottle?</p> <p>I just dont wanna have it doubled onto my hard Disk.</p> <p>Ty </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sonick1992"> /u/Sonick1992 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij1r59/gog_galaxy_bottle/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij1r59/gog_galaxy_bottle/">[comments]</a></span>
+
+## Problem with lutris
+ - [https://www.reddit.com/r/linux_gaming/comments/1ij1ni2/problem_with_lutris](https://www.reddit.com/r/linux_gaming/comments/1ij1ni2/problem_with_lutris)
+ - RSS feed: $source
+ - date published: 2025-02-06T12:43:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey i am a new linux user, so bare with me. I tried installing black &amp; white 2 from a .iso file in lutris, which worked wonderfully. But whenever i start up the game i&#39;m getting asked to insert the disk. This is probably a little dumbo moment, but I cant seem to find a solution to this. Mounting the .iso file doesnt seem to work as I thought it would. I would appreciate your help, i spent too much trying to figure this out. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BubbleBr41n"> /u/BubbleBr41n </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij1ni2/problem_with_lutris/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij1ni2/problem_with_lutris/">[comments]</a></span>
+
+## Anyone too Had this happen?
+ - [https://www.reddit.com/r/linux_gaming/comments/1ij0yfn/anyone_too_had_this_happen](https://www.reddit.com/r/linux_gaming/comments/1ij0yfn/anyone_too_had_this_happen)
+ - RSS feed: $source
+ - date published: 2025-02-06T12:03:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I installed EA app thought Lutris, and it turned on. I Opened a game (Sims 4) and It didnt wanted to start at first (the whole port 3216 thing) but then downloaded other EA app and turned on after clicking both EA windows. But laggy. I wonder why this happened. I thought EA app only would work thought Lutris. (On the latest version of Bazzite)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/StrawberryPigeon"> /u/StrawberryPigeon </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij0yfn/anyone_too_had_this_happen/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ij0yfn/anyone_too_had_this_happen/">[comments]</a></span>
+
+## Running Steam games that are not listed as Linux compatible
+ - [https://www.reddit.com/r/linux_gaming/comments/1iizmeu/running_steam_games_that_are_not_listed_as_linux](https://www.reddit.com/r/linux_gaming/comments/1iizmeu/running_steam_games_that_are_not_listed_as_linux)
+ - RSS feed: $source
+ - date published: 2025-02-06T10:34:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Sorry if this has been asked before. Most posts seem to be about running non-Steam games under Linux. I want to run my Steam games that are not listed as Linux compatible under Linux (Ubuntu if that makes a difference).</p> <p>I bought Bastion, a very simple little game. Installed the Steam app under Ubuntu 24.04. And it refused to install Bastion as it is not &quot;Linux compatible&quot;. Can I use another launcher or find a way to download the installation media (like GOG)?</p> <p>I want to buy Warhammer 40k Inquisitor Martyr but it is not on GOG, only Steam. But it is listed as Windows-only by Steam. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/impracticaldogg"> /u/impracticaldogg </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iizmeu/running_steam_games_that_are_not_listed_as_linux/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iizmeu/ru
+
+## Nvidia to discontinue support for GTX cards during 2025. Gladly 555 has already released for us Wayland users, also improvements have been made since 555.
+ - [https://www.reddit.com/r/linux_gaming/comments/1iiysgy/nvidia_to_discontinue_support_for_gtx_cards](https://www.reddit.com/r/linux_gaming/comments/1iiysgy/nvidia_to_discontinue_support_for_gtx_cards)
+ - RSS feed: $source
+ - date published: 2025-02-06T09:35:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1iiysgy/nvidia_to_discontinue_support_for_gtx_cards/"> <img src="https://external-preview.redd.it/FeunwJ-jrrc0bjHU77zs2RjtkRAevcAPnnuL15Ujph0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b45b358c39269a0801af13fe8affd397a3d22fc2" alt="Nvidia to discontinue support for GTX cards during 2025. Gladly 555 has already released for us Wayland users, also improvements have been made since 555." title="Nvidia to discontinue support for GTX cards during 2025. Gladly 555 has already released for us Wayland users, also improvements have been made since 555." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AAVVIronAlex"> /u/AAVVIronAlex </a> <br/> <span><a href="https://www.pcgamer.com/hardware/nvidia-is-winding-down-developer-support-for-9-and-10-series-graphics-cards-but-theyll-likely-keep-getting-driver-updates-for-a-while-yet/#:~:text=First%20reported%20by%20Tom%27s%20Hardware%2C%20the
+
+## GPU doesn't seem to be using full power
+ - [https://www.reddit.com/r/linux_gaming/comments/1iixhji/gpu_doesnt_seem_to_be_using_full_power](https://www.reddit.com/r/linux_gaming/comments/1iixhji/gpu_doesnt_seem_to_be_using_full_power)
+ - RSS feed: $source
+ - date published: 2025-02-06T07:56:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, so I just redownloaded insurgency sandstorm from steamrip to play on Linux (Faugus Launcher) and what I&#39;ve noticed is that, compared to when I had windows, the game performs well without lag and the GPU fans spur up. But when I tried to do it on linux, there are stutters and the gpu doesn&#39;t seem to speed up its fans.</p> <p>CPU: i5-13600KF<br/> GPU: RX6650XT<br/> RAM: 32GB DDR4-3600MHz OC<br/> OS: Ubuntu 24.10</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Soonly_Taing"> /u/Soonly_Taing </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iixhji/gpu_doesnt_seem_to_be_using_full_power/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iixhji/gpu_doesnt_seem_to_be_using_full_power/">[comments]</a></span>
+
+## I made a CRU for linux(Custom Resolution Utility) for X11 NVidia users
+ - [https://www.reddit.com/r/linux_gaming/comments/1iixc2u/i_made_a_cru_for_linuxcustom_resolution_utility](https://www.reddit.com/r/linux_gaming/comments/1iixc2u/i_made_a_cru_for_linuxcustom_resolution_utility)
+ - RSS feed: $source
+ - date published: 2025-02-06T07:45:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1iixc2u/i_made_a_cru_for_linuxcustom_resolution_utility/"> <img src="https://external-preview.redd.it/b1zUXSh0mNK0e4JBksfA_vK7l-1MZ1CiiHrUtTSQ-EA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=150415384870273ddba39140137693bbcfc3331a" alt="I made a CRU for linux(Custom Resolution Utility) for X11 NVidia users" title="I made a CRU for linux(Custom Resolution Utility) for X11 NVidia users" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Please dont nuke me mods, this will help out alot of competitive FPS such as CS2 enjoyers</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HearMeOut-13"> /u/HearMeOut-13 </a> <br/> <span><a href="https://github.com/PhialsBasement/linux-cru">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iixc2u/i_made_a_cru_for_linuxcustom_resolution_utility/">[comments]</a></span> </td></tr></table>
+
+## For those that think high-end nVidia cards are niche, the 4090 is currently more popular on Steam than ANY dedicated AMD GPU at ANY price point.
+ - [https://www.reddit.com/r/linux_gaming/comments/1iiwu4i/for_those_that_think_highend_nvidia_cards_are](https://www.reddit.com/r/linux_gaming/comments/1iiwu4i/for_those_that_think_highend_nvidia_cards_are)
+ - RSS feed: $source
+ - date published: 2025-02-06T07:08:28+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://store.steampowered.com/hwsurvey">https://store.steampowered.com/hwsurvey</a></p> <p>The January 2025 Steam survey had the 4090 at .96% and the most popular dedicated AMD GPU was the RX 6600 at .81%. If the 4090 is a niche product that would mean every AMD GPU on the market is even more niche. Like seriously, how in the hell did the 4090 outsell the RX6600.</p> <p>This really didn&#39;t strike me until last week when I was waiting in a Microcenter line to buy a 5090 and there were 200 people in the line the day before the things went on sale. And most of those people it seemed were there to buy 5090s, not 5080s. But sure, a lot scalping no doubt.</p> <p>The economics of GPUs are completely different as they&#39;ve moved beyond gaming. But even in gaming pure performance is more valuable than performance per dollar as more people seem to be willing to spend for speed more than ever.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a 
+
+## Half-Life 1
+ - [https://www.reddit.com/r/linux_gaming/comments/1iiwt5a/halflife_1](https://www.reddit.com/r/linux_gaming/comments/1iiwt5a/halflife_1)
+ - RSS feed: $source
+ - date published: 2025-02-06T07:06:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1iiwt5a/halflife_1/"> <img src="https://preview.redd.it/hva6w6t7xghe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=74bba052784c63fdfb2f3d1f4c677562826859e6" alt="Half-Life 1" title="Half-Life 1" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hello everyone. Only this rifle has a non-working scope. How to fix it? Native client, steam.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lainff"> /u/lainff </a> <br/> <span><a href="https://i.redd.it/hva6w6t7xghe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iiwt5a/halflife_1/">[comments]</a></span> </td></tr></table>
+
+## Want to build a bazzite tv PC
+ - [https://www.reddit.com/r/linux_gaming/comments/1iiwrnl/want_to_build_a_bazzite_tv_pc](https://www.reddit.com/r/linux_gaming/comments/1iiwrnl/want_to_build_a_bazzite_tv_pc)
+ - RSS feed: $source
+ - date published: 2025-02-06T07:03:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to build a TV PC. Preferably 1080p medium settings with modern games. But I have a paper thin budget, so if anybody has any suggestions on how to do this with as little money as possible I&#39;m all ears. I was thinking maybe getting an old Dell optiplex and throwing in an AMD GPU</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Scared_Alone_"> /u/Scared_Alone_ </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iiwrnl/want_to_build_a_bazzite_tv_pc/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iiwrnl/want_to_build_a_bazzite_tv_pc/">[comments]</a></span>
+
+## 🎮✨ choochoo-loader: Super Simple Trainer/Cheat loader (and DLL injector) for Proton, and WINE gaming setups. Works on Steam Deck, SteamOS, macOS, and Linux. 🏆🔧
+ - [https://www.reddit.com/r/linux_gaming/comments/1iivs9u/choochooloader_super_simple_trainercheat_loader](https://www.reddit.com/r/linux_gaming/comments/1iivs9u/choochooloader_super_simple_trainercheat_loader)
+ - RSS feed: $source
+ - date published: 2025-02-06T05:58:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1iivs9u/choochooloader_super_simple_trainercheat_loader/"> <img src="https://external-preview.redd.it/7u1ZDDvpQGdzgMM2Bu4985bevdWa-FbKb8oXwtM2IOY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b35cf260d87f31dc42dc970f7a63d2152a6368a4" alt="🎮✨ choochoo-loader: Super Simple Trainer/Cheat loader (and DLL injector) for Proton, and WINE gaming setups. Works on Steam Deck, SteamOS, macOS, and Linux. 🏆🔧" title="🎮✨ choochoo-loader: Super Simple Trainer/Cheat loader (and DLL injector) for Proton, and WINE gaming setups. Works on Steam Deck, SteamOS, macOS, and Linux. 🏆🔧" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BrokenToasterOven"> /u/BrokenToasterOven </a> <br/> <span><a href="https://github.com/wowitsjack/choochoo-loader">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iivs9u/choochooloader_super_simple_trainercheat_loader/">[comments]</a></
+
+## How to stack initialization options on steam??
+ - [https://www.reddit.com/r/linux_gaming/comments/1iiuoux/how_to_stack_initialization_options_on_steam](https://www.reddit.com/r/linux_gaming/comments/1iiuoux/how_to_stack_initialization_options_on_steam)
+ - RSS feed: $source
+ - date published: 2025-02-06T04:52:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just found a <a href="https://github.com/gurrgur/er-patcher">awesome mod</a> for elden ring tailored for linux/proton but wanted to use together with mangohud...</p> <p>How could I mix both <code>mangohud %command%</code> &amp; <code>python er-patcher -r 100 -uvcas -- %command%</code> commands??</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PerformanceUpper6025"> /u/PerformanceUpper6025 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iiuoux/how_to_stack_initialization_options_on_steam/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iiuoux/how_to_stack_initialization_options_on_steam/">[comments]</a></span>
+
+## Force steam and heroic launcher to close when exiting game
+ - [https://www.reddit.com/r/linux_gaming/comments/1iiugtk/force_steam_and_heroic_launcher_to_close_when](https://www.reddit.com/r/linux_gaming/comments/1iiugtk/force_steam_and_heroic_launcher_to_close_when)
+ - RSS feed: $source
+ - date published: 2025-02-06T04:39:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, like the title says, I am looking for a way to make steam and heroic launcher shutdown when I close a game instead of sitting in my system tray. I prefer to launch games from shortcuts rather than a launcher and understand why they may open when launching a game but don&#39;t like that they remain open once I close the game. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_ksinpoint_"> /u/_ksinpoint_ </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iiugtk/force_steam_and_heroic_launcher_to_close_when/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iiugtk/force_steam_and_heroic_launcher_to_close_when/">[comments]</a></span>
+
+## How do you undervolt in CoreCtrl? And is enabling both ROG Control Center and CoreCtrl redundant?
+ - [https://www.reddit.com/r/linux_gaming/comments/1iit9mi/how_do_you_undervolt_in_corectrl_and_is_enabling](https://www.reddit.com/r/linux_gaming/comments/1iit9mi/how_do_you_undervolt_in_corectrl_and_is_enabling)
+ - RSS feed: $source
+ - date published: 2025-02-06T03:34:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>im on Nobara 41, ROG Zephyrus Duo 16 2023 with Ryzen 9 7945HX, RTX 4080, 96gb SODIMM DDR5</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WoodsBeatle513"> /u/WoodsBeatle513 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iit9mi/how_do_you_undervolt_in_corectrl_and_is_enabling/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iit9mi/how_do_you_undervolt_in_corectrl_and_is_enabling/">[comments]</a></span>
+
+## Ghost Recon Breakpoint: Ghost War (PVP) mode working, anyone confirm?
+ - [https://www.reddit.com/r/linux_gaming/comments/1iit9a8/ghost_recon_breakpoint_ghost_war_pvp_mode_working](https://www.reddit.com/r/linux_gaming/comments/1iit9a8/ghost_recon_breakpoint_ghost_war_pvp_mode_working)
+ - RSS feed: $source
+ - date published: 2025-02-06T03:33:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been playing GRB since a lot of time, but only the campaign mode since the Ghost Mode (The PVP mode) didn&#39;t work before. Note that mode requires Battleye enabled (co-op mode doesn&#39;t require any anticheat at all), but I just played a match and I could end it without any issue. Anyone confirm that&#39;s working now?</p> <p>Thanks.</p> <p>PS: I own this game in Epic Games.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jorgicio"> /u/jorgicio </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iit9a8/ghost_recon_breakpoint_ghost_war_pvp_mode_working/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iit9a8/ghost_recon_breakpoint_ghost_war_pvp_mode_working/">[comments]</a></span>
+
+## FPS Games?
+ - [https://www.reddit.com/r/linux_gaming/comments/1iirusd/fps_games](https://www.reddit.com/r/linux_gaming/comments/1iirusd/fps_games)
+ - RSS feed: $source
+ - date published: 2025-02-06T02:21:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>i know we no longer have apex, cod is out of the question . cs gets boring but what else do we have?</p> <p>just looking for something to play and zone out . usually i play cod + spotify . i wanna switch over but i need to make sure i have something to do . i guess i can use linux to break into my back catalog (around 663 games) . lots of single player . im gunna go with stock ubuntu i think . any suggestions?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EatThatHorse5318"> /u/EatThatHorse5318 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iirusd/fps_games/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iirusd/fps_games/">[comments]</a></span>
+
+## Upset about Apex? Marvel Rivals runs great on Linux
+ - [https://www.reddit.com/r/linux_gaming/comments/1iiqk6o/upset_about_apex_marvel_rivals_runs_great_on_linux](https://www.reddit.com/r/linux_gaming/comments/1iiqk6o/upset_about_apex_marvel_rivals_runs_great_on_linux)
+ - RSS feed: $source
+ - date published: 2025-02-06T01:16:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>The more people that play the harder it is to ban Linux users because their anticheat is bad so join in.</p> <p>Plus if you play as Hulk you can grab and smash Loki into the floor; just like in the movies.</p> <p><a href="https://www.youtube.com/watch?v=31ZjnrHR8EA">https://www.youtube.com/watch?v=31ZjnrHR8EA</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/perfectdreaming"> /u/perfectdreaming </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iiqk6o/upset_about_apex_marvel_rivals_runs_great_on_linux/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iiqk6o/upset_about_apex_marvel_rivals_runs_great_on_linux/">[comments]</a></span>
+
+## MH Wilds Benchmark Crashing on Bazzite
+ - [https://www.reddit.com/r/linux_gaming/comments/1iiqbyr/mh_wilds_benchmark_crashing_on_bazzite](https://www.reddit.com/r/linux_gaming/comments/1iiqbyr/mh_wilds_benchmark_crashing_on_bazzite)
+ - RSS feed: $source
+ - date published: 2025-02-06T01:06:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Complete Linux newbie here with my first system running bazzite. When I tried to run the Monster Hunter Wilds benchmark it would get all the way through compiling the shaders before closing out the application and returning me back to my desktop. After running &quot;<strong><em>ujust update&quot;</em></strong> in the terminal, the benchmark tool now crashes on launch. Below are my specs (it&#39;s a loaner GPU until I can afford a better one so not expecting much but wanted to at least see what I was working with). I greatly appreciate any support.</p> <p>Hardware:</p> <p>AMD Ryzen 5 7600x</p> <p>GPU: Nvidia GeForce GTX 1060</p> <p>32GB RAM</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Drogon-"> /u/Drogon- </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iiqbyr/mh_wilds_benchmark_crashing_on_bazzite/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/
+
+## Problems Running Planetside 2 On Hyprland
+ - [https://www.reddit.com/r/linux_gaming/comments/1iiq746/problems_running_planetside_2_on_hyprland](https://www.reddit.com/r/linux_gaming/comments/1iiq746/problems_running_planetside_2_on_hyprland)
+ - RSS feed: $source
+ - date published: 2025-02-06T00:59:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>I play this game quite bit and have been for a quite while but recently I decided to try hyprland and this game doesn&#39;t seem to play nice with it for some reason. It works absolutely fine on GNOME, KDE, and even XFCE, but not on hyprland. This sucks because I love hyprland and this is the only game (so far) that isn&#39;t working right.</p> <p>So here&#39;s what&#39;s happening:</p> <p>I boot up the game, click play. At this point all is well. THEN I&#39;m taking to the screen where I pick my character and that&#39;s where the problem starts. The fps counter says I&#39;m running 54 fps but the game is clearly like 5fps and I am unable to click anything. Sound is playing, the mouse is moving albiet jitteringly, but nothing works. </p> <p>I would like to mention again that this is not a problem on ANY other DE but hyprland (yes I know it&#39;s *technically* not a DE but a WM but you get the point)</p> <p>Below is fastfetch output I consider potenti
+

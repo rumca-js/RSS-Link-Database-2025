@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-06T16:45:07+00:00",
+        "description": "Hey, this video is sponsored by ME: https://ntck.co/NCAcademy (Get started in IT)\n\nDeep Research from OpenAI is kind of amazing....but it's expensive costing $200/month. But, good guy David produced an open source version of Deep Research that is actually pretty good. Let's get this setup. \n\nCommands and stuff: https://blog.networkchuck.com/posts/open-source-deep-research/\n\nFollow David: https://x.com/dzhng\nGo star the project: https://github.com/dzhng/deep-research\n\n- Explore OpenAI Deep Research vs. Open Source\n- Set up open source deep research guide\n- Compare AI research tools side by side\n- Deep dive into AI research capabilities\n- PhD-level research with AI in minutes\n- Cost-effective alternatives to OpenAI's service\n- How to use OpenAI Mini3 for research\n- Implementing open source AI research\n- DIY AI research setup with Docker\n- Access AI research without high fees\n- OpenAI vs. open source AI functionalities\n- Enhance research with open source tools\n- OpenAI API key setup tut",
+        "id": 2057142,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=4M7RIbQZ_-w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4M7RIbQZ_-w/hqdefault.jpg",
+        "title": "Deep Research.....but Open Source",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-06T11:21:20+00:00",
+        "description": "Defence Minister Israel Katz says Gazans should have freedom of movement and critics of the war should take them in.",
+        "id": 2054587,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cjexp347yxlo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a913/live/0f9dd210-e481-11ef-a819-277e390a7a08.jpg",
+        "title": "Israel minister tells army to plan for Palestinians leaving Gaza",
+        "vote": 0
+    }
+]

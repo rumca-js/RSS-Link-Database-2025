@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Niebezpiecznik",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-06T13:30:36+00:00",
+        "description": "W sieci pojawi\u0142y si\u0119\u00a0oferty sprzeda\u017cy fa\u0142szywych apek udaj\u0105cych mObywatel. Opisa\u0142\u00a0to Demagog: https://demagog.org.pl/analizy_i_raporty/kwitnie-handel-falszywym-mobywatelem-niebezpieczny-biznes-takze-dla-wyborow/ a my t\u0142umaczymy jak poprawnie weryfikowa\u0107 mDow\u00f3d i zastanawiamy si\u0119, podr\u00f3bk\u0105 mDowodu mo\u017cna wp\u0142yn\u0105\u0107 na wynik wybor\u00f3w oddaj\u0105c g\u0142os za kogo\u015b. A weryfikowa\u0107\u00a0mo\u017cna kodem QR na tej stronie: https://weryfikator.mobywatel.gov.pl/verification-process\n\n\nZacznij wspiera\u0107 ten kana\u0142, a dostaniesz te bonusy:\nhttps://www.youtube.com/channel/UCe6nK69Yc1zna7QSJEfA9pw/join",
+        "id": 2055430,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=REjP_8r9JOk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 240,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe6nK69Yc1zna7QSJEfA9pw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/REjP_8r9JOk/hqdefault.jpg",
+        "title": "Podr\u00f3bka mObywatela. Po co dzieci j\u0105\u00a0kupuj\u0105?",
+        "vote": 0
+    }
+]
