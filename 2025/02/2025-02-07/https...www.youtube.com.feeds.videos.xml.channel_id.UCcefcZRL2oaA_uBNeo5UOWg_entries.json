@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-07T15:00:41+00:00",
+        "description": "Apply to AI Startup School in SF: https://events.ycombinator.com/ai-sus \n\nThere\u2019s never been a better time to launch an AI startup, but many prospective founders find themselves stuck when it comes to thinking of a good idea. In this episode, the Lightcone hosts look at different ways breakthroughs can be discovered. \n\nApply to Y Combinator, applications for X25 are due Feb 11: https://ycombinator.com/apply",
+        "id": 2064989,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=TANaRNMbYgk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TANaRNMbYgk/hqdefault.jpg",
+        "title": "How To Get AI Startup Ideas",
+        "vote": 0
+    }
+]

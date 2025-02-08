@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-07T00:18:36.662829+00:00",
+        "description": null,
+        "id": 2060227,
+        "language": "pl-PL",
+        "link": "https://feeds.feedburner.com/niebezpiecznik",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Niebezpiecznik.pl",
+        "vote": 0
+    }
+]

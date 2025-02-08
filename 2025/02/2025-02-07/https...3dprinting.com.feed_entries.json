@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-07T00:17:52.376989+00:00",
+        "description": null,
+        "id": 2060170,
+        "language": "en-US",
+        "link": "https://3dprinting.com/feed",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 4,
+        "source_url": "https://3dprinting.com/feed",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://3dprinting.com/wp-content/uploads/cropped-3dp-site-icon-32x32.png",
+        "title": "3DPrinting.com",
+        "vote": 0
+    }
+]

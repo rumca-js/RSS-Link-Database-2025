@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-07T15:07:07+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nMaking Hard C++ Tests Easy: A Case Study From the Motion Planning Domain - Chip Hogg - CppCon 2024\n---\n\nIf you've ever struggled to write tests for domain-specific functions with complicated, real-world inputs, this talk is for you!\u00a0 We'll use the Motion Planning component in a self-driving stack as a case study (although you won't need any prior Motion Planning experience to follow the talk).\u00a0 In building objects for our test inputs, we faced the classic dilemma.  If we make the objects simple, they're hardly meaningful, and the tests amount to little more than smoke tests.\u00a0 If we try constructing more realistic objects, it takes tremendous amounts of boilerplate code (which obscures what is actually being tested) --- and what's worse, these finicky construction methods go stale and break easily as implementation details evolve.\n\nThere is a better way!\u00a0 To find it, we take our inspiration from a (paraphrased) Kent Beck quote: \"First, make the test easy.\u00a0 (Wa",
+        "id": 2065194,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=8D7vpR9WCtw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8D7vpR9WCtw/hqdefault.jpg",
+        "title": "Making Hard C++ Tests Easy: A Case Study From the Motion Planning Domain - Chip Hogg - CppCon 2024",
+        "vote": 0
+    }
+]

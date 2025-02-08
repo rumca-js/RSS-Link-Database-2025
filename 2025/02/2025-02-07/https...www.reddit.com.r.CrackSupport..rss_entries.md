@@ -1,0 +1,212 @@
+# Source:Crack Support, URL:https://www.reddit.com/r/CrackSupport/.rss, language:
+
+## How do you get rid of a crackhead
+ - [https://www.reddit.com/r/CrackSupport/comments/1ik7v2e/how_do_you_get_rid_of_a_crackhead](https://www.reddit.com/r/CrackSupport/comments/1ik7v2e/how_do_you_get_rid_of_a_crackhead)
+ - RSS feed: $source
+ - date published: 2025-02-07T22:38:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>On a real one how the fck do you get rid of a crackhead that you don&#39;t want around </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/itzhiswifey2102"> /u/itzhiswifey2102 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ik7v2e/how_do_you_get_rid_of_a_crackhead/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ik7v2e/how_do_you_get_rid_of_a_crackhead/">[comments]</a></span>
+
+## Issue with Proj. Zomboid
+ - [https://www.reddit.com/r/CrackSupport/comments/1ik61v8/issue_with_proj_zomboid](https://www.reddit.com/r/CrackSupport/comments/1ik61v8/issue_with_proj_zomboid)
+ - RSS feed: $source
+ - date published: 2025-02-07T21:20:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>got proj zomboid from a trusted website steam (somehting can&#39;t mention cuz rules) and when I click on it (.bat folder cuz the .exe gives &quot;steam is not launched so yeh&quot;) it gives me a black screen with nothing to work with or do nothing no sounds no anything, and I tried the fabled &quot;turn off fullscreen&quot; so what do I do now??</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GamerCaptcha"> /u/GamerCaptcha </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ik61v8/issue_with_proj_zomboid/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ik61v8/issue_with_proj_zomboid/">[comments]</a></span>
+
+## Safe site for sims medieval?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ik5hjv/safe_site_for_sims_medieval](https://www.reddit.com/r/CrackSupport/comments/1ik5hjv/safe_site_for_sims_medieval)
+ - RSS feed: $source
+ - date published: 2025-02-07T20:56:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to play sooooo bad. I only know fitgirl website for downloading and it&#39;s not on there </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zdety"> /u/zdety </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ik5hjv/safe_site_for_sims_medieval/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ik5hjv/safe_site_for_sims_medieval/">[comments]</a></span>
+
+## Is there a way to get specific game files for replacing the corrupted ones in the root folder of a game? Like.exe,toc
+ - [https://www.reddit.com/r/CrackSupport/comments/1ik2zox/is_there_a_way_to_get_specific_game_files_for](https://www.reddit.com/r/CrackSupport/comments/1ik2zox/is_there_a_way_to_get_specific_game_files_for)
+ - RSS feed: $source
+ - date published: 2025-02-07T19:11:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>Spiderman 2 modding tool and update corrupted my toc, I just need the .exe and toc to backup the game</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Illustrious-Sign-358"> /u/Illustrious-Sign-358 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ik2zox/is_there_a_way_to_get_specific_game_files_for/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ik2zox/is_there_a_way_to_get_specific_game_files_for/">[comments]</a></span>
+
+## Judgment: Game crashes when opening the item box
+ - [https://www.reddit.com/r/CrackSupport/comments/1ik24a4/judgment_game_crashes_when_opening_the_item_box](https://www.reddit.com/r/CrackSupport/comments/1ik24a4/judgment_game_crashes_when_opening_the_item_box)
+ - RSS feed: $source
+ - date published: 2025-02-07T18:35:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Apparently its a problem only the cracked version has, as I couldn&#39;t find anyone with the actual game talking about this, does anyone know a way to open the box without the game crashing? Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Juanchino11"> /u/Juanchino11 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ik24a4/judgment_game_crashes_when_opening_the_item_box/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ik24a4/judgment_game_crashes_when_opening_the_item_box/">[comments]</a></span>
+
+## Help, after updating marvel spiderman 2 from 1.31.0-1.202,the game doesn't open up
+ - [https://www.reddit.com/r/CrackSupport/comments/1ik14rc/help_after_updating_marvel_spiderman_2_from](https://www.reddit.com/r/CrackSupport/comments/1ik14rc/help_after_updating_marvel_spiderman_2_from)
+ - RSS feed: $source
+ - date published: 2025-02-07T17:55:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>After verifying file integratity it says toc is missing </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Illustrious-Sign-358"> /u/Illustrious-Sign-358 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ik14rc/help_after_updating_marvel_spiderman_2_from/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ik14rc/help_after_updating_marvel_spiderman_2_from/">[comments]</a></span>
+
+## What are some cracked NBA 2K games out there that has an offline MyCareer feature? With player customizations and upgrades? Recommendations are open if none.
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijy0p5/what_are_some_cracked_nba_2k_games_out_there_that](https://www.reddit.com/r/CrackSupport/comments/1ijy0p5/what_are_some_cracked_nba_2k_games_out_there_that)
+ - RSS feed: $source
+ - date published: 2025-02-07T15:48:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been getting into 2K lately yet I am still not invested into buying their product because of its saturated content that has been recycled throughout the whole system. I still enjoy it though, what are some recommendations? Thanks a lot!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Flayboy23"> /u/Flayboy23 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijy0p5/what_are_some_cracked_nba_2k_games_out_there_that/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijy0p5/what_are_some_cracked_nba_2k_games_out_there_that/">[comments]</a></span>
+
+## Does anyone who has downloaded a skidrow crack from ovagames know what this “apply crack” option is for in the installer?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijxs19/does_anyone_who_has_downloaded_a_skidrow_crack](https://www.reddit.com/r/CrackSupport/comments/1ijxs19/does_anyone_who_has_downloaded_a_skidrow_crack)
+ - RSS feed: $source
+ - date published: 2025-02-07T15:37:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ijxs19/does_anyone_who_has_downloaded_a_skidrow_crack/"> <img src="https://preview.redd.it/e1q7l3vblqhe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=065d3691c0fc0fc2bd60be26b01fd232bd682865" alt="Does anyone who has downloaded a skidrow crack from ovagames know what this “apply crack” option is for in the installer?" title="Does anyone who has downloaded a skidrow crack from ovagames know what this “apply crack” option is for in the installer?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nateofearth"> /u/nateofearth </a> <br/> <span><a href="https://i.redd.it/e1q7l3vblqhe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijxs19/does_anyone_who_has_downloaded_a_skidrow_crack/">[comments]</a></span> </td></tr></table>
+
+## I cannot find the .exe file for the spiderman 2 (fitgirl repack)
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijwix5/i_cannot_find_the_exe_file_for_the_spiderman_2](https://www.reddit.com/r/CrackSupport/comments/1ijwix5/i_cannot_find_the_exe_file_for_the_spiderman_2)
+ - RSS feed: $source
+ - date published: 2025-02-07T14:42:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ijwix5/i_cannot_find_the_exe_file_for_the_spiderman_2/"> <img src="https://b.thumbs.redditmedia.com/qMOp2HCz96bTp6r_t0Y892WYxdCbf7Cogl2wZHxd6VA.jpg" alt="I cannot find the .exe file for the spiderman 2 (fitgirl repack)" title="I cannot find the .exe file for the spiderman 2 (fitgirl repack)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/d45hiqjgbqhe1.png?width=1008&amp;format=png&amp;auto=webp&amp;s=afeb315d844f18674f74ddad42759deb60ba5967">https://preview.redd.it/d45hiqjgbqhe1.png?width=1008&amp;format=png&amp;auto=webp&amp;s=afeb315d844f18674f74ddad42759deb60ba5967</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/5u1j4"> /u/5u1j4 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijwix5/i_cannot_find_the_exe_file_for_the_spiderman_2/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupp
+
+## is repacklab safe?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijvvko/is_repacklab_safe](https://www.reddit.com/r/CrackSupport/comments/1ijvvko/is_repacklab_safe)
+ - RSS feed: $source
+ - date published: 2025-02-07T14:12:34+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://repacklab.com/">https://repacklab.com/</a> that</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yokazumaki_ryochaan"> /u/yokazumaki_ryochaan </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijvvko/is_repacklab_safe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijvvko/is_repacklab_safe/">[comments]</a></span>
+
+## Can someone help me with Far cry 3 exe files
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijvcmn/can_someone_help_me_with_far_cry_3_exe_files](https://www.reddit.com/r/CrackSupport/comments/1ijvcmn/can_someone_help_me_with_far_cry_3_exe_files)
+ - RSS feed: $source
+ - date published: 2025-02-07T13:47:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>i have lost farcry3.exe, frycry3_d3d11.exe, fc3_blooddragon.exe and fc3_blooddragon_d3d11.exe. please some one should help me</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Solid-Caterpillar406"> /u/Solid-Caterpillar406 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijvcmn/can_someone_help_me_with_far_cry_3_exe_files/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijvcmn/can_someone_help_me_with_far_cry_3_exe_files/">[comments]</a></span>
+
+## [FIX] Assassin's Creed Origins and Odyssey not getting past splash screen
+ - [https://www.reddit.com/r/CrackSupport/comments/1iju37w/fix_assassins_creed_origins_and_odyssey_not](https://www.reddit.com/r/CrackSupport/comments/1iju37w/fix_assassins_creed_origins_and_odyssey_not)
+ - RSS feed: $source
+ - date published: 2025-02-07T12:41:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I had troubles for a few weeks with getting AC fitgirl repacks to run on my machine, and didn&#39;t find anyone with similar issues, so here is what fixed it for me:</p> <ol> <li>If you have already installed the game, uninstall</li> <li>Add an exception for the installation folder in your Windows Defender or other main antivirus software. (For me it was C:\Games)</li> <li>Reinstall</li> </ol> <p>There you go, this should work. Any other fixes I found online didn&#39;t solve the issue for me.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/datboipanda"> /u/datboipanda </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iju37w/fix_assassins_creed_origins_and_odyssey_not/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iju37w/fix_assassins_creed_origins_and_odyssey_not/">[comments]</a></span>
+
+## Virus Help
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijtwje/virus_help](https://www.reddit.com/r/CrackSupport/comments/1ijtwje/virus_help)
+ - RSS feed: $source
+ - date published: 2025-02-07T12:30:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys, I was trying to update my spider man 2 to the new patch. I originally dowloaded from fitgirl. </p> <p>But I went to elamigos and went to the FuckingFast site but it redirected me to a file called #Get-SetUp--5566 something and it had a setup file too. And ....I ran it like an idiot. </p> <p>I got tricked by the oldest trick in the book I guess. I ran the setup.exe and all my chrome tabs closed.</p> <p>It is a virus right? How do I get it off my computer. PLEASE HELP</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/insertjokehere69"> /u/insertjokehere69 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijtwje/virus_help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijtwje/virus_help/">[comments]</a></span>
+
+## Anadius
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijtl7x/anadius](https://www.reddit.com/r/CrackSupport/comments/1ijtl7x/anadius)
+ - RSS feed: $source
+ - date published: 2025-02-07T12:11:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Dowlaoded anadius for my Mac it won&#39;t open. I tried right-clicking the &quot;open,&quot; and I can&#39;t force open it in settings (privacy &amp; security). ?</p> <p>I have sims and my EA app downloaded on a hard drive, and that&#39;s how I play it. I&#39;m wondering if this is effecting it. (I don&#39;t see how it would but that&#39;s why im here asking for help.)</p> <p>It&#39;s just say &quot;damaged and can&#39;t be opned. move to bin...etc.&quot; <strong>I know this question more than likely has an easy solve,</strong> I have looked around and couldn&#39;t find and anwser ar at least an anwser for mac user.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Puzzleheaded_Day3353"> /u/Puzzleheaded_Day3353 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijtl7x/anadius/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijtl7x/anadius/">[comments]<
+
+## cyberpunk2077 2.10 to 2.11 and 2.11 to 2.12
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijtglw/cyberpunk2077_210_to_211_and_211_to_212](https://www.reddit.com/r/CrackSupport/comments/1ijtglw/cyberpunk2077_210_to_211_and_211_to_212)
+ - RSS feed: $source
+ - date published: 2025-02-07T12:03:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>i try to download these two files from the fitgirl website they arent in the elamigos or any other site but these two cant be downloaded i think the download links are corrupted</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jkjsoren"> /u/jkjsoren </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijtglw/cyberpunk2077_210_to_211_and_211_to_212/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijtglw/cyberpunk2077_210_to_211_and_211_to_212/">[comments]</a></span>
+
+## Planet Zoo
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijsylj/planet_zoo](https://www.reddit.com/r/CrackSupport/comments/1ijsylj/planet_zoo)
+ - RSS feed: $source
+ - date published: 2025-02-07T11:32:26+00:00
+
+<!-- SC_OFF --><div class="md"><h1>(Im sorry if this is the wrong way to post this)</h1> <p>I have downloaded planet zoo using steam rip .com but it wont launch and it keep crashing. My browser blacks fitgirl and I cant seem to opperate dodi repacks. Is there any other way I can downlad it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RealMadara-Uchiha"> /u/RealMadara-Uchiha </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijsylj/planet_zoo/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijsylj/planet_zoo/">[comments]</a></span>
+
+## Planet ZOO
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijsvsv/planet_zoo](https://www.reddit.com/r/CrackSupport/comments/1ijsvsv/planet_zoo)
+ - RSS feed: $source
+ - date published: 2025-02-07T11:27:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>(Im sorry if this is the wrong way to post this)</p> <p>I have downloaded planet zoo using steam rip .com but it wont launch and it keep crashing. My browser blacks fitgirl and I cant seem to opperate dodi repacks. Is there any other way I can downlad it? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Disastrous-Dog8033"> /u/Disastrous-Dog8033 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijsvsv/planet_zoo/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijsvsv/planet_zoo/">[comments]</a></span>
+
+## hello i installed red dead redempition 2 from nexus (suggested by a friend) now that i got the zip what should i do? winrar or normal extract or something else?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijsoq1/hello_i_installed_red_dead_redempition_2_from](https://www.reddit.com/r/CrackSupport/comments/1ijsoq1/hello_i_installed_red_dead_redempition_2_from)
+ - RSS feed: $source
+ - date published: 2025-02-07T11:14:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>hello i installed red dead redempition 2 from nexus (suggested by a friend) now that i got the zip what should i do? winrar or normal extract or something else? once i installed a game and for some reaseon my windows c;oud tried at all costs to install it on cloud or something like that, this is just my 3rd game im not really the best at installing cracked (installed by gofile)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ilariobello"> /u/Ilariobello </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijsoq1/hello_i_installed_red_dead_redempition_2_from/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijsoq1/hello_i_installed_red_dead_redempition_2_from/">[comments]</a></span>
+
+## Dodi repack not including all dlcs?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijsb1j/dodi_repack_not_including_all_dlcs](https://www.reddit.com/r/CrackSupport/comments/1ijsb1j/dodi_repack_not_including_all_dlcs)
+ - RSS feed: $source
+ - date published: 2025-02-07T10:48:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>I got borderlands 3 and it isn&#39;t showing all the dlcs for me, I&#39;m unsure what&#39;s happening or how to make them appear. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheZoomba"> /u/TheZoomba </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijsb1j/dodi_repack_not_including_all_dlcs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijsb1j/dodi_repack_not_including_all_dlcs/">[comments]</a></span>
+
+## Onehack.us?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijrr40/onehackus](https://www.reddit.com/r/CrackSupport/comments/1ijrr40/onehackus)
+ - RSS feed: $source
+ - date published: 2025-02-07T10:09:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is this trustworthy? Got a thingy from dodi and it also came with a onehack.us internet shortcut and am wondering if that&#39;s bad. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheZoomba"> /u/TheZoomba </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijrr40/onehackus/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijrr40/onehackus/">[comments]</a></span>
+
+## Can we finally play Sonic Frontiers i think Maybe
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijrehn/can_we_finally_play_sonic_frontiers_i_think_maybe](https://www.reddit.com/r/CrackSupport/comments/1ijrehn/can_we_finally_play_sonic_frontiers_i_think_maybe)
+ - RSS feed: $source
+ - date published: 2025-02-07T09:45:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>So you maybe confused on the tittle well ok i will give a better explanation</p> <p>So i found this website and saw it have Sonic Frontier Steam but i didnt touch it so anyone wanna give it a try and see if it works also here is the link <a href="https://btdig.com/073dc86e60e6f84eec00cdec829fccd950bdb992/sonic-frontiers">https://btdig.com/073dc86e60e6f84eec00cdec829fccd950bdb992/sonic-frontiers</a></p> <p>Edit = Use the search on the site there are more Sonic Frontiers i saw this one here <a href="https://btdig.com/74528558d5e2be1f097fe90da7e30b048438d849/sonic-frontiers-all-dlc">https://btdig.com/74528558d5e2be1f097fe90da7e30b048438d849/sonic-frontiers-all-dlc</a></p> <p>if you did try and it works comment below and if you have your suspicions it is understandable this will be here for those who are expert at cracking</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Whereas8335"> /u/No-Whereas8335 </a> <br/> 
+
+## Device Hung/Remove Error across multiple games
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijq7uz/device_hungremove_error_across_multiple_games](https://www.reddit.com/r/CrackSupport/comments/1ijq7uz/device_hungremove_error_across_multiple_games)
+ - RSS feed: $source
+ - date published: 2025-02-07T08:16:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ijq7uz/device_hungremove_error_across_multiple_games/"> <img src="https://b.thumbs.redditmedia.com/0ci6GrtJnIx9tZ3S2aYysYQ0PfWuxQvkjRVhFkONDJY.jpg" alt="Device Hung/Remove Error across multiple games" title="Device Hung/Remove Error across multiple games" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/sglvat64dohe1.jpg?width=1600&amp;format=pjpg&amp;auto=webp&amp;s=19098e855dc7001f3369f092e1efca2db6e0f871">https://preview.redd.it/sglvat64dohe1.jpg?width=1600&amp;format=pjpg&amp;auto=webp&amp;s=19098e855dc7001f3369f092e1efca2db6e0f871</a></p> <p><a href="https://preview.redd.it/a4350ee4dohe1.jpg?width=1600&amp;format=pjpg&amp;auto=webp&amp;s=64db03d3f27a9c9848de9a5dce792e2e410b8cb3">https://preview.redd.it/a4350ee4dohe1.jpg?width=1600&amp;format=pjpg&amp;auto=webp&amp;s=64db03d3f27a9c9848de9a5dce792e2e410b8cb3</a></p> <p><a href="https://preview.redd.it/7g168sv6dohe1.jpg?wid
+
+## I need help. Jump force fitgirl repack is showing me UE4 crashing on startup??? Please help!
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijohp1/i_need_help_jump_force_fitgirl_repack_is_showing](https://www.reddit.com/r/CrackSupport/comments/1ijohp1/i_need_help_jump_force_fitgirl_repack_is_showing)
+ - RSS feed: $source
+ - date published: 2025-02-07T06:12:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ijohp1/i_need_help_jump_force_fitgirl_repack_is_showing/"> <img src="https://preview.redd.it/dsmu74kjsnhe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=afb6e290f1da28947f32b8779298de4bd8a36ddd" alt="I need help. Jump force fitgirl repack is showing me UE4 crashing on startup??? Please help!" title="I need help. Jump force fitgirl repack is showing me UE4 crashing on startup??? Please help!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Suspicious_Author_78"> /u/Suspicious_Author_78 </a> <br/> <span><a href="https://i.redd.it/dsmu74kjsnhe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijohp1/i_need_help_jump_force_fitgirl_repack_is_showing/">[comments]</a></span> </td></tr></table>
+
+## Need help installing MSFS X
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijjp8u/need_help_installing_msfs_x](https://www.reddit.com/r/CrackSupport/comments/1ijjp8u/need_help_installing_msfs_x)
+ - RSS feed: $source
+ - date published: 2025-02-07T01:47:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have an oldish PC that can&#39;t run the new msfs, so i tried installing MSFS X. The PC&#39;s requirements were well within the range, so I downloaded, unzipped, followed every instruction. I made sure to disable antivirus before downloading. All CommonReddist were installed. I ran it, but nothing happened. I tried running as admin, and running different .exe in it as well. Nothing. I deleted and downloaded from several different sites, but still nothing happened. Anyone have any clue what&#39;s going on. All help is appreciated. Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SyrupInteresting5599"> /u/SyrupInteresting5599 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijjp8u/need_help_installing_msfs_x/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijjp8u/need_help_installing_msfs_x/">[comments]</a></span>
+
+## Problem id
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijjlpn/problem_id](https://www.reddit.com/r/CrackSupport/comments/1ijjlpn/problem_id)
+ - RSS feed: $source
+ - date published: 2025-02-07T01:42:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>Context: • Before a recent Windows update, my software worked correctly and displayed a specific Hardware ID. • After the update, the software displays a new Hardware ID, which prevents it from launching. Because I only have one license key • I&#39;m looking to find my old Hardware ID to reactivate my software. What l&#39;m trying to do: • Identify which component changed after the update (UUID, MAC, hard drive, motherboard, etc.). • Change the necessary settings to find the old Hardware ID. • Make my software recognize my PC as before.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mushu_Fa"> /u/Mushu_Fa </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijjlpn/problem_id/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijjlpn/problem_id/">[comments]</a></span>
+
+## Help me with poppy playtime unarc.dll error code -11
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijime8/help_me_with_poppy_playtime_unarcdll_error_code_11](https://www.reddit.com/r/CrackSupport/comments/1ijime8/help_me_with_poppy_playtime_unarcdll_error_code_11)
+ - RSS feed: $source
+ - date published: 2025-02-07T00:54:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ijime8/help_me_with_poppy_playtime_unarcdll_error_code_11/"> <img src="https://preview.redd.it/pvcqbnqp7mhe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0b9f99da6a6cae80527bcdfd98ff83124003bbdc" alt="Help me with poppy playtime unarc.dll error code -11" title="Help me with poppy playtime unarc.dll error code -11" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I&#39;m trying to download poppy playtime from fitgirl repack and I&#39;ve basically tried every step online turn off my anti virus run the setup as amedistrter reduce the maximum cores in settings everything. I have a 4060 ti 8 gb 32 gb of ddr4 ram a i7 13700kf and a 1tg ssd and a 4tb hard drive I&#39;m using the hard drive to download the game the error also keeps happening in cyber punk and halo master chief edition</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/user33029"> /u/user33029 </a> <br/> <span
+
+## help?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijil0g/help](https://www.reddit.com/r/CrackSupport/comments/1ijil0g/help)
+ - RSS feed: $source
+ - date published: 2025-02-07T00:52:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ijil0g/help/"> <img src="https://preview.redd.it/pmhacjcd7mhe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=023a5b54a51bf58c929ab32ddccaf108e3c78674" alt="help?" title="help?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DekiIdeGas"> /u/DekiIdeGas </a> <br/> <span><a href="https://i.redd.it/pmhacjcd7mhe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijil0g/help/">[comments]</a></span> </td></tr></table>
+
+## help?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijikw1/help](https://www.reddit.com/r/CrackSupport/comments/1ijikw1/help)
+ - RSS feed: $source
+ - date published: 2025-02-07T00:52:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ijikw1/help/"> <img src="https://preview.redd.it/7z9ha87c7mhe1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4490828e9db0f63ea6f867ee09f9f6937ede60bd" alt="help?" title="help?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DekiIdeGas"> /u/DekiIdeGas </a> <br/> <span><a href="https://i.redd.it/7z9ha87c7mhe1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijikw1/help/">[comments]</a></span> </td></tr></table>
+
+## Crack Support
+ - [https://www.reddit.com/r/CrackSupport/.rss](https://www.reddit.com/r/CrackSupport/.rss)
+ - RSS feed: $source
+ - date published: 2025-02-07T00:18:15.632901+00:00
+
+None
+
+## Football manager
+ - [https://www.reddit.com/r/CrackSupport/comments/1ijhuz9/football_manager](https://www.reddit.com/r/CrackSupport/comments/1ijhuz9/football_manager)
+ - RSS feed: $source
+ - date published: 2025-02-07T00:17:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>When I run set up files nothing happens</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Smooth_Arachnid_8628"> /u/Smooth_Arachnid_8628 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijhuz9/football_manager/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ijhuz9/football_manager/">[comments]</a></span>
+

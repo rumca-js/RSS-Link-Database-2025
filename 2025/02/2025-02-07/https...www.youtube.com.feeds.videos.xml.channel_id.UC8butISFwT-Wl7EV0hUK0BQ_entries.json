@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-07T23:04:55+00:00",
+        "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Peggy Wang. She's used freeCodeCamp to learn how coding, worked in Big Tech as a robotics engineer, and she's cofounder and CTO of Ego AI, which builds human-like agents for video games.\n\nWe talk about:\n- How she grew up a first generation immigrant and public school kid in Milwaukee\n- How her love of robotics helped her get into Stanford\n- How freeCodeCamp served as a key resource to build her developer chops\n- The near future of humanoid robots, self-driving cars, and human-like AI agents in games\n\nLinks we talk about during our conversation:\n\n- Peggy's GameDev company, Ego AI: https://www.egoai.com/\n\n- Quincy's interview with hardware engineer Bruno Haid that he mentions toward the end of this episode: https://www.freecodecamp.org/news/podcast-hardware-engineering-bruno-haid/\n\nChapters\n\n0:00:00 Teaser\n0:00:00 Podcast Intro\n0:00:00 Song - Passing Breeze\n0:03:12 Introduction to AI and Robotics\n0:06:",
+        "id": 2068330,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=4rALiJgQjHY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4rALiJgQjHY/hqdefault.jpg",
+        "title": "From freeCodeCamp to CTO with Robotics Engineer Peggy Wang [Podcast #159]",
+        "vote": 0
+    }
+]

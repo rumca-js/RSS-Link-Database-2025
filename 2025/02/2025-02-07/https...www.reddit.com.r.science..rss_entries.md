@@ -1,0 +1,170 @@
+# Source:Reddit Science, URL:https://www.reddit.com/r/science/.rss, language:en
+
+## Unmarried voters are more inclined to support Democratic presidential candidates compared to married. Higher proportion of Black voters among unmarried individuals and lower levels of religious observance in this group compared to married voters, significantly contribute to this political divide.
+ - [https://www.reddit.com/r/science/comments/1ik9bds/unmarried_voters_are_more_inclined_to_support](https://www.reddit.com/r/science/comments/1ik9bds/unmarried_voters_are_more_inclined_to_support)
+ - RSS feed: $source
+ - date published: 2025-02-07T23:42:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ik9bds/unmarried_voters_are_more_inclined_to_support/"> <img src="https://external-preview.redd.it/YK9rG60D1GFQvK7cw1Z_Tw1PSsiZlhointJS1BGmBcQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eaad689340a0a60c5326688a9af155962ee066c1" alt="Unmarried voters are more inclined to support Democratic presidential candidates compared to married. Higher proportion of Black voters among unmarried individuals and lower levels of religious observance in this group compared to married voters, significantly contribute to this political divide." title="Unmarried voters are more inclined to support Democratic presidential candidates compared to married. Higher proportion of Black voters among unmarried individuals and lower levels of religious observance in this group compared to married voters, significantly contribute to this political divide." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"
+
+## The ‘bad boy’ appeal may be a myth. Study does not provide support that Dark Triad traits are attractive for men and women. Higher levels of Dark Triad traits were not found to increase attractiveness, and in fact, lower levels were generally preferred, especially for long-term commitment.
+ - [https://www.reddit.com/r/science/comments/1ik7u2q/the_bad_boy_appeal_may_be_a_myth_study_does_not](https://www.reddit.com/r/science/comments/1ik7u2q/the_bad_boy_appeal_may_be_a_myth_study_does_not)
+ - RSS feed: $source
+ - date published: 2025-02-07T22:36:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ik7u2q/the_bad_boy_appeal_may_be_a_myth_study_does_not/"> <img src="https://external-preview.redd.it/EXBitwNLim8DJC84s_i2cmYeyDFNo_CcIdI1zQ9ER4o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ac26ec66a03e9fc85a46905db7ce62e3dcc2503e" alt="The ‘bad boy’ appeal may be a myth. Study does not provide support that Dark Triad traits are attractive for men and women. Higher levels of Dark Triad traits were not found to increase attractiveness, and in fact, lower levels were generally preferred, especially for long-term commitment." title="The ‘bad boy’ appeal may be a myth. Study does not provide support that Dark Triad traits are attractive for men and women. Higher levels of Dark Triad traits were not found to increase attractiveness, and in fact, lower levels were generally preferred, especially for long-term commitment." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </
+
+## COVID-19 increases kids' risk of gut problems once symptoms die down - data on more than 1.5 million US children and found kids with COVID-19 were 25% more likely to experience GI tract symptoms.
+ - [https://www.reddit.com/r/science/comments/1ik3ytn/covid19_increases_kids_risk_of_gut_problems_once](https://www.reddit.com/r/science/comments/1ik3ytn/covid19_increases_kids_risk_of_gut_problems_once)
+ - RSS feed: $source
+ - date published: 2025-02-07T19:52:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ik3ytn/covid19_increases_kids_risk_of_gut_problems_once/"> <img src="https://external-preview.redd.it/vWttw7ZXW4l_MWiGf2KR4uGxWDVbGhpIRuT7nE2hc-U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b7b39e445e68867c6ae6c6aea616a681597a745" alt="COVID-19 increases kids' risk of gut problems once symptoms die down - data on more than 1.5 million US children and found kids with COVID-19 were 25% more likely to experience GI tract symptoms." title="COVID-19 increases kids' risk of gut problems once symptoms die down - data on more than 1.5 million US children and found kids with COVID-19 were 25% more likely to experience GI tract symptoms." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a> <br/> <span><a href="https://www.scimex.org/newsfeed/covid-19-increase-kids-risk-of-gut-problems-once-symptoms-die-down">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/s
+
+## Textbook math and real-life math are not the same: kids who do math in real situations don't do well at school and vice versa
+ - [https://www.reddit.com/r/science/comments/1ik158p/textbook_math_and_reallife_math_are_not_the_same](https://www.reddit.com/r/science/comments/1ik158p/textbook_math_and_reallife_math_are_not_the_same)
+ - RSS feed: $source
+ - date published: 2025-02-07T17:56:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ik158p/textbook_math_and_reallife_math_are_not_the_same/"> <img src="https://external-preview.redd.it/AwAw_ckAo9MmZnhiscdNAND29F2tr7KgrRUp0nErziU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ecca4825f7eb5f73c5fa7459ff11bd7ad63592ef" alt="Textbook math and real-life math are not the same: kids who do math in real situations don't do well at school and vice versa" title="Textbook math and real-life math are not the same: kids who do math in real situations don't do well at school and vice versa" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mareacaspica"> /u/mareacaspica </a> <br/> <span><a href="https://www.zmescience.com/science/math/our-schools-have-a-problem-textbook-math-doesnt-help-in-real-life-and-vice-versa/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ik158p/textbook_math_and_reallife_math_are_not_the_same/">[comments]</a></span> </td
+
+## Popular antidepressants don’t appear to dull romantic love, study finds
+ - [https://www.reddit.com/r/science/comments/1ik1141/popular_antidepressants_dont_appear_to_dull](https://www.reddit.com/r/science/comments/1ik1141/popular_antidepressants_dont_appear_to_dull)
+ - RSS feed: $source
+ - date published: 2025-02-07T17:51:31+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/-Mystica-"> /u/-Mystica- </a> <br/> <span><a href="https://linkinghub.elsevier.com/retrieve/pii/S0165032725001004">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ik1141/popular_antidepressants_dont_appear_to_dull/">[comments]</a></span>
+
+## Scientists have made a leap forward in understanding the pattern and structure of turbulence
+ - [https://www.reddit.com/r/science/comments/1ijzhgn/scientists_have_made_a_leap_forward_in](https://www.reddit.com/r/science/comments/1ijzhgn/scientists_have_made_a_leap_forward_in)
+ - RSS feed: $source
+ - date published: 2025-02-07T16:48:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ijzhgn/scientists_have_made_a_leap_forward_in/"> <img src="https://external-preview.redd.it/ZFF_QNl7GQfOZUu-CDBF9dOCZTgrHB_B4PNVOiD4W4Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d80785ee0160e470b7cad6542073c244f7b03452" alt="Scientists have made a leap forward in understanding the pattern and structure of turbulence" title="Scientists have made a leap forward in understanding the pattern and structure of turbulence" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CTVNEWS"> /u/CTVNEWS </a> <br/> <span><a href="https://www.ctvnews.ca/sci-tech/article/scientists-make-rare-advance-in-tackling-the-oldest-unsolved-problem-in-physics/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ijzhgn/scientists_have_made_a_leap_forward_in/">[comments]</a></span> </td></tr></table>
+
+## Association between physical activity practice and sleep quality of older people in social isolation during the COVID-19 pandemic and Health Guidelines and future studies for the post-COVID period: a systematic review
+ - [https://www.reddit.com/r/science/comments/1ijz8vy/association_between_physical_activity_practice](https://www.reddit.com/r/science/comments/1ijz8vy/association_between_physical_activity_practice)
+ - RSS feed: $source
+ - date published: 2025-02-07T16:38:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ijz8vy/association_between_physical_activity_practice/"> <img src="https://external-preview.redd.it/LwsgSzfiuEfJ9tM8FuG20AwXBSb5rvp7ABRI0xiXBks.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=694a77417125d68242f12f6121ce479e6feba264" alt="Association between physical activity practice and sleep quality of older people in social isolation during the COVID-19 pandemic and Health Guidelines and future studies for the post-COVID period: a systematic review" title="Association between physical activity practice and sleep quality of older people in social isolation during the COVID-19 pandemic and Health Guidelines and future studies for the post-COVID period: a systematic review" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AgingUS"> /u/AgingUS </a> <br/> <span><a href="https://doi.org/10.18632/aging.206180">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/commen
+
+## Whale poop contains iron that may have helped fertilize past oceans | The loss of whales because of commercial hunting may have had far-reaching consequences on marine life that extend beyond simply decreasing the number of marine predators in the environment.
+ - [https://www.reddit.com/r/science/comments/1ijwbmf/whale_poop_contains_iron_that_may_have_helped](https://www.reddit.com/r/science/comments/1ijwbmf/whale_poop_contains_iron_that_may_have_helped)
+ - RSS feed: $source
+ - date published: 2025-02-07T14:33:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ijwbmf/whale_poop_contains_iron_that_may_have_helped/"> <img src="https://external-preview.redd.it/HwcQh8hMCs27nFF9SVqwcB2uALmT_8La8El9aI4Pu6Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=39ec4f936dafdb2a58a3de05074a3c2224ad5059" alt="Whale poop contains iron that may have helped fertilize past oceans | The loss of whales because of commercial hunting may have had far-reaching consequences on marine life that extend beyond simply decreasing the number of marine predators in the environment." title="Whale poop contains iron that may have helped fertilize past oceans | The loss of whales because of commercial hunting may have had far-reaching consequences on marine life that extend beyond simply decreasing the number of marine predators in the environment." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.washington.edu/n
+
+## Western diet since adolescence impairs brain functional hyperemia at adulthood in mice | A balanced ω-6:ω-3 PUFAs ratio in WD achieved by docosahexaenoic acid supplementation efficiently restores glucose homeostasis and functional hyperemia in adults
+ - [https://www.reddit.com/r/science/comments/1ijvjqk/western_diet_since_adolescence_impairs_brain](https://www.reddit.com/r/science/comments/1ijvjqk/western_diet_since_adolescence_impairs_brain)
+ - RSS feed: $source
+ - date published: 2025-02-07T13:57:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ijvjqk/western_diet_since_adolescence_impairs_brain/"> <img src="https://external-preview.redd.it/4u8cGPfX8uLJZsdKQatDZpelUwhiGRSkHr4T-0RHfb0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cf75e162a23941138c40404f9dbd4a382e8d1399" alt="Western diet since adolescence impairs brain functional hyperemia at adulthood in mice | A balanced ω-6:ω-3 PUFAs ratio in WD achieved by docosahexaenoic acid supplementation efficiently restores glucose homeostasis and functional hyperemia in adults" title="Western diet since adolescence impairs brain functional hyperemia at adulthood in mice | A balanced ω-6:ω-3 PUFAs ratio in WD achieved by docosahexaenoic acid supplementation efficiently restores glucose homeostasis and functional hyperemia in adults" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Leather-Paramedic-10"> /u/Leather-Paramedic-10 </a> <br/> <span><a href="https://www.nature.com/arti
+
+## New research has shown that diet could influence the risk of both depression and Alzheimer's disease (AD). Evidence suggests that depressive symptoms are both a risk factor for AD and a reaction to early memory problems..
+ - [https://www.reddit.com/r/science/comments/1ijvexc/new_research_has_shown_that_diet_could_influence](https://www.reddit.com/r/science/comments/1ijvexc/new_research_has_shown_that_diet_could_influence)
+ - RSS feed: $source
+ - date published: 2025-02-07T13:50:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ijvexc/new_research_has_shown_that_diet_could_influence/"> <img src="https://external-preview.redd.it/vgaHlgaDSYIpujXBjhiyNd4-k_GDT_-Hlm6JxaA5RvQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=140d1034422e339a6b7dc1549c339cbf7c2811c2" alt="New research has shown that diet could influence the risk of both depression and Alzheimer's disease (AD). Evidence suggests that depressive symptoms are both a risk factor for AD and a reaction to early memory problems.." title="New research has shown that diet could influence the risk of both depression and Alzheimer's disease (AD). Evidence suggests that depressive symptoms are both a risk factor for AD and a reaction to early memory problems.." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.ecu.edu.au/newsroom/articles/research/study-finds-new-link-between-food-choices-depression-an
+
+## A new study has found that young adults who have recovered from COVID-19 show distinct patterns of brain activity during cognitive tasks. These brain activity changes are similar to those seen in much older adults.
+ - [https://www.reddit.com/r/science/comments/1ijuh5i/a_new_study_has_found_that_young_adults_who_have](https://www.reddit.com/r/science/comments/1ijuh5i/a_new_study_has_found_that_young_adults_who_have)
+ - RSS feed: $source
+ - date published: 2025-02-07T13:02:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ijuh5i/a_new_study_has_found_that_young_adults_who_have/"> <img src="https://external-preview.redd.it/8tLGUsT7XV_ph_zzAiJFYg7L7MamlqcUOibZEObZfU0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=835c4d9d0ec1cdedca9ec1cc6d93848ab3770b5f" alt="A new study has found that young adults who have recovered from COVID-19 show distinct patterns of brain activity during cognitive tasks. These brain activity changes are similar to those seen in much older adults." title="A new study has found that young adults who have recovered from COVID-19 show distinct patterns of brain activity during cognitive tasks. These brain activity changes are similar to those seen in much older adults." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a> <br/> <span><a href="https://www.psypost.org/new-neuroscience-research-shows-covid-19-leaves-mark-on-young-adult-brains/">[link]</a></span> &#32; <s
+
+## A new study finds that classical music exposure in the third trimester reduces the complexity of fetal heart rate variability, leading to more regular and stable cardiac patterns, potentially linked to fetal movements.
+ - [https://www.reddit.com/r/science/comments/1ijssdd/a_new_study_finds_that_classical_music_exposure](https://www.reddit.com/r/science/comments/1ijssdd/a_new_study_finds_that_classical_music_exposure)
+ - RSS feed: $source
+ - date published: 2025-02-07T11:21:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ijssdd/a_new_study_finds_that_classical_music_exposure/"> <img src="https://external-preview.redd.it/V9HkVLP6pEkeFN3VFuivYd5lRRdonusSE49aDvj3qXs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2133c15675681a2b9b301e9e804e1c6a6ed5ddba" alt="A new study finds that classical music exposure in the third trimester reduces the complexity of fetal heart rate variability, leading to more regular and stable cardiac patterns, potentially linked to fetal movements." title="A new study finds that classical music exposure in the third trimester reduces the complexity of fetal heart rate variability, leading to more regular and stable cardiac patterns, potentially linked to fetal movements." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://publishing.aip.org/publications/latest-content/music-can-touch-the-heart-even-inside-the-womb/">[link]</
+
+## Headaches linked to increased chance of suicide
+ - [https://www.reddit.com/r/science/comments/1ijsn19/headaches_linked_to_increased_chance_of_suicide](https://www.reddit.com/r/science/comments/1ijsn19/headaches_linked_to_increased_chance_of_suicide)
+ - RSS feed: $source
+ - date published: 2025-02-07T11:11:23+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Current_Finding_4066"> /u/Current_Finding_4066 </a> <br/> <span><a href="https://jamanetwork.com/journals/jamaneurology/fullarticle/2829961?guestAccessKey=cae45619-36a0-4a63-9487-f5c657639a93">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ijsn19/headaches_linked_to_increased_chance_of_suicide/">[comments]</a></span>
+
+## Israeli startup grows world’s first real dairy protein in potatoes—no cows needed
+ - [https://www.reddit.com/r/science/comments/1ijs1rg/israeli_startup_grows_worlds_first_real_dairy](https://www.reddit.com/r/science/comments/1ijs1rg/israeli_startup_grows_worlds_first_real_dairy)
+ - RSS feed: $source
+ - date published: 2025-02-07T10:30:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ijs1rg/israeli_startup_grows_worlds_first_real_dairy/"> <img src="https://external-preview.redd.it/EX5U5o9_9J5YcPIp-zxbKBAcoEW5gtcXKxLeVZB-lT4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=392ae19007297d42fe3fd3446c2ebce1f10cb50f" alt="Israeli startup grows world’s first real dairy protein in potatoes—no cows needed" title="Israeli startup grows world’s first real dairy protein in potatoes—no cows needed" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NotSoSaneExile"> /u/NotSoSaneExile </a> <br/> <span><a href="https://www.ynetnews.com/business/article/hksw6cztjx">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ijs1rg/israeli_startup_grows_worlds_first_real_dairy/">[comments]</a></span> </td></tr></table>
+
+## Gene-edited transplanted pig kidney 'functioned immediately' in 62-year-old dialysis patient. The kidney, which had undergone 69 gene edits to reduce the chances of rejection by the man's body, promptly and progressively started cutting his creatine levels (a measure of kidney function).
+ - [https://www.reddit.com/r/science/comments/1ijqsh9/geneedited_transplanted_pig_kidney_functioned](https://www.reddit.com/r/science/comments/1ijqsh9/geneedited_transplanted_pig_kidney_functioned)
+ - RSS feed: $source
+ - date published: 2025-02-07T09:00:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ijqsh9/geneedited_transplanted_pig_kidney_functioned/"> <img src="https://external-preview.redd.it/41SGgFpDKUTW9uBVIrwdja5Aqm2MZedDDzndzrsuagc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=68337f21ca96e7dda87c41de972de0f3499024e4" alt="Gene-edited transplanted pig kidney 'functioned immediately' in 62-year-old dialysis patient. The kidney, which had undergone 69 gene edits to reduce the chances of rejection by the man's body, promptly and progressively started cutting his creatine levels (a measure of kidney function)." title="Gene-edited transplanted pig kidney 'functioned immediately' in 62-year-old dialysis patient. The kidney, which had undergone 69 gene edits to reduce the chances of rejection by the man's body, promptly and progressively started cutting his creatine levels (a measure of kidney function)." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a> <br
+
+## Children’s arithmetic skills do not transfer between applied and academic mathematics
+ - [https://www.reddit.com/r/science/comments/1ijq2ei/childrens_arithmetic_skills_do_not_transfer](https://www.reddit.com/r/science/comments/1ijq2ei/childrens_arithmetic_skills_do_not_transfer)
+ - RSS feed: $source
+ - date published: 2025-02-07T08:05:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ijq2ei/childrens_arithmetic_skills_do_not_transfer/"> <img src="https://external-preview.redd.it/tBAbQcwNZGOEZ95kxZimUfxr50I-aWp00v6PZxda0fE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=daa38588a684a07939e351478e6eda7ae15dde38" alt="Children’s arithmetic skills do not transfer between applied and academic mathematics" title="Children’s arithmetic skills do not transfer between applied and academic mathematics" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pale_Angry_Dot"> /u/Pale_Angry_Dot </a> <br/> <span><a href="https://www.nature.com/articles/s41586-024-08502-w">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ijq2ei/childrens_arithmetic_skills_do_not_transfer/">[comments]</a></span> </td></tr></table>
+
+## New research finds whale vocal sequences follow both Menzerath’s law (longer phrases use shorter sounds) and Zipf’s law (frequent sounds are shorter) - patterns seen in human language.
+ - [https://www.reddit.com/r/science/comments/1ijo9mw/new_research_finds_whale_vocal_sequences_follow](https://www.reddit.com/r/science/comments/1ijo9mw/new_research_finds_whale_vocal_sequences_follow)
+ - RSS feed: $source
+ - date published: 2025-02-07T05:58:34+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/calliope_kekule"> /u/calliope_kekule </a> <br/> <span><a href="https://www.science.org/doi/10.1126/sciadv.ads6014">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ijo9mw/new_research_finds_whale_vocal_sequences_follow/">[comments]</a></span>
+
+## Study unveils how neural stem cells are activated in the adult human brain | Neural stem cells (NSCs) build our central nervous systems and are self-renewing, key for neural regeneration and brain injury repair.
+ - [https://www.reddit.com/r/science/comments/1ijmjnp/study_unveils_how_neural_stem_cells_are_activated](https://www.reddit.com/r/science/comments/1ijmjnp/study_unveils_how_neural_stem_cells_are_activated)
+ - RSS feed: $source
+ - date published: 2025-02-07T04:16:57+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/FunnyGamer97"> /u/FunnyGamer97 </a> <br/> <span><a href="https://www.eurekalert.org/news-releases/1072903">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ijmjnp/study_unveils_how_neural_stem_cells_are_activated/">[comments]</a></span>
+
+## Researchers achieve total synthesis of ibogain, a psychoactive plant derivative with anti-addictive and anti-depressant properties | Synthesis of four naturally occurring ibogaine-related alkaloids and several non-natural analogues, with yields ranging from 6% to 29% after six or seven steps
+ - [https://www.reddit.com/r/science/comments/1ijmfdr/researchers_achieve_total_synthesis_of_ibogain_a](https://www.reddit.com/r/science/comments/1ijmfdr/researchers_achieve_total_synthesis_of_ibogain_a)
+ - RSS feed: $source
+ - date published: 2025-02-07T04:10:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ijmfdr/researchers_achieve_total_synthesis_of_ibogain_a/"> <img src="https://external-preview.redd.it/MaCnJFGJPAw24uw0y4uPqRLAnvwRfJMbTQeTIBmAC-Y.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=2fa310b0cb06d8f4ff3617fe5c6c7c628df6fb12" alt="Researchers achieve total synthesis of ibogain, a psychoactive plant derivative with anti-addictive and anti-depressant properties | Synthesis of four naturally occurring ibogaine-related alkaloids and several non-natural analogues, with yields ranging from 6% to 29% after six or seven steps" title="Researchers achieve total synthesis of ibogain, a psychoactive plant derivative with anti-addictive and anti-depressant properties | Synthesis of four naturally occurring ibogaine-related alkaloids and several non-natural analogues, with yields ranging from 6% to 29% after six or seven steps" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FunnyGamer97
+
+## Study finds that patients who saw a within-group family physician after hours were 10% less likely to visit the emergency department within seven days compared to those who saw an out-of-group walk-in clinic physician.
+ - [https://www.reddit.com/r/science/comments/1ijli1x/study_finds_that_patients_who_saw_a_withingroup](https://www.reddit.com/r/science/comments/1ijli1x/study_finds_that_patients_who_saw_a_withingroup)
+ - RSS feed: $source
+ - date published: 2025-02-07T03:20:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ijli1x/study_finds_that_patients_who_saw_a_withingroup/"> <img src="https://external-preview.redd.it/OWNGsuGm8BlgMODmuVlcK8xNMHntZdi-JrJr-JnNGyA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fad7aca07ae652c1d21fcd369064e508a4237b7e" alt="Study finds that patients who saw a within-group family physician after hours were 10% less likely to visit the emergency department within seven days compared to those who saw an out-of-group walk-in clinic physician." title="Study finds that patients who saw a within-group family physician after hours were 10% less likely to visit the emergency department within seven days compared to those who saw an out-of-group walk-in clinic physician." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iamphilosofie"> /u/iamphilosofie </a> <br/> <span><a href="https://www.annfammed.org/content/22/6/483/tab-figures-data">[link]</a></span> &#32; <span><a href="ht
+
+## Body weight and body mass index alone are not enough to predict whether someone will develop a metabolic disease. Around a quarter of all obese individuals are healthy. Fat cells of unhealthy obese individuals can no longer burn fats as effectively, finds a new study.
+ - [https://www.reddit.com/r/science/comments/1ijl8h2/body_weight_and_body_mass_index_alone_are_not](https://www.reddit.com/r/science/comments/1ijl8h2/body_weight_and_body_mass_index_alone_are_not)
+ - RSS feed: $source
+ - date published: 2025-02-07T03:06:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ijl8h2/body_weight_and_body_mass_index_alone_are_not/"> <img src="https://external-preview.redd.it/Hwv7QkKFq_oa_bF6DMZIOW_TuA7pybGXlQwhUpOojLc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=255281a4d95ea6c86c8cf3aa952bf837841eacd2" alt="Body weight and body mass index alone are not enough to predict whether someone will develop a metabolic disease. Around a quarter of all obese individuals are healthy. Fat cells of unhealthy obese individuals can no longer burn fats as effectively, finds a new study." title="Body weight and body mass index alone are not enough to predict whether someone will develop a metabolic disease. Around a quarter of all obese individuals are healthy. Fat cells of unhealthy obese individuals can no longer burn fats as effectively, finds a new study." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a> <br/> <span><a href="https://ethz.ch/en/new
+
+## National Science Foundation list of keywords to flag
+ - [https://www.reddit.com/r/science/comments/1ijj11g/national_science_foundation_list_of_keywords_to](https://www.reddit.com/r/science/comments/1ijj11g/national_science_foundation_list_of_keywords_to)
+ - RSS feed: $source
+ - date published: 2025-02-07T01:14:07+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/sneakysnake-sssnek"> /u/sneakysnake-sssnek </a> <br/> <span><a href="https://www.removepaywall.com/search?url=https://www.washingtonpost.com/science/2025/02/04/national-science-foundation-trump-executive-orders-words/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ijj11g/national_science_foundation_list_of_keywords_to/">[comments]</a></span>
+
+## Researchers have achieved a total synthesis of ibogaine and ibogaine analogs. This could enable studies of the pharmaceutical properties of ibogaine and how to alter the molecule to avoid cardiac side effects.
+ - [https://www.reddit.com/r/science/comments/1ijijb4/researchers_have_achieved_a_total_synthesis_of](https://www.reddit.com/r/science/comments/1ijijb4/researchers_have_achieved_a_total_synthesis_of)
+ - RSS feed: $source
+ - date published: 2025-02-07T00:49:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ijijb4/researchers_have_achieved_a_total_synthesis_of/"> <img src="https://external-preview.redd.it/l-RuNG4Rcc5ligVRaTlBnWVdpwTwE6kwCSZQZnNrRZk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=93af3059f5c1a7d5ed3afbc062bf5f1a7f547c38" alt="Researchers have achieved a total synthesis of ibogaine and ibogaine analogs. This could enable studies of the pharmaceutical properties of ibogaine and how to alter the molecule to avoid cardiac side effects." title="Researchers have achieved a total synthesis of ibogaine and ibogaine analogs. This could enable studies of the pharmaceutical properties of ibogaine and how to alter the molecule to avoid cardiac side effects." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/andyhfell"> /u/andyhfell </a> <br/> <span><a href="https://www.ucdavis.edu/news/uc-davis-researchers-achieve-total-synthesis-ibogaine">[link]</a></span> &#32; <span><a href="https:
+
+## Cuddling koalas show unexpected sociable side in surprising video
+ - [https://www.reddit.com/r/science/comments/1ijibpz/cuddling_koalas_show_unexpected_sociable_side_in](https://www.reddit.com/r/science/comments/1ijibpz/cuddling_koalas_show_unexpected_sociable_side_in)
+ - RSS feed: $source
+ - date published: 2025-02-07T00:39:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ijibpz/cuddling_koalas_show_unexpected_sociable_side_in/"> <img src="https://external-preview.redd.it/tdoqg6QPekbSaDW6lqqPpQiCgy0ItpH9gyWy4AYJWYM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ca9a40406695b3d883e670733a72a2479505fae" alt="Cuddling koalas show unexpected sociable side in surprising video" title="Cuddling koalas show unexpected sociable side in surprising video" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Prestigious_Cake_192"> /u/Prestigious_Cake_192 </a> <br/> <span><a href="https://www.newscientist.com/article/2466918-cuddling-koalas-show-unexpected-sociable-side-in-surprising-video/?utm_term=Autofeed&amp;utm_campaign=echobox&amp;utm_medium=social&amp;utm">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ijibpz/cuddling_koalas_show_unexpected_sociable_side_in/">[comments]</a></span> </td></tr></table>
+

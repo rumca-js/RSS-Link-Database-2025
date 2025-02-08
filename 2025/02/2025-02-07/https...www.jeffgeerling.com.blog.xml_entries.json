@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-07T00:18:26.335249+00:00",
+        "description": null,
+        "id": 2060207,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog.xml",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jeff Geerling's Blog",
+        "vote": 0
+    }
+]

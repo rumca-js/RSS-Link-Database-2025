@@ -1,0 +1,282 @@
+# Source:Gizmodo, URL:https://gizmodo.com/feed, language:en
+
+## Marvel Rivals‘ First Merchandise Is Both Expected and Unexpected
+ - [https://gizmodo.com/marvel-rivals-funko-pops-price-release-date-details-2000561247](https://gizmodo.com/marvel-rivals-funko-pops-price-release-date-details-2000561247)
+ - RSS feed: $source
+ - date published: 2025-02-07T23:20:02+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Funko-Pop-Marvel-Rivals-Iron-Man-Magneto.jpg" class="attachment-full size-full wp-post-image" alt="Funko Pop Marvel Rivals Iron Man Magneto" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/Funko-Pop-Marvel-Rivals-Iron-Man-Magneto.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Funko-Pop-Marvel-Rivals-Iron-Man-Magneto-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Funko-Pop-Marvel-Rivals-Iron-Man-Magneto-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Funko-Pop-Marvel-Rivals-Iron-Man-Magneto-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Funko-Pop-Marvel-Rivals-Iron-Man-Magneto-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Funko-Pop-Marvel-Rivals-Iron-Man-Magneto-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Funko-Pop-Marvel-Rivals-Iron-Man-Magneto-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Funk
+
+## Google’s AI Super Bowl Ad Fiasco Somehow Gets Worse
+ - [https://gizmodo.com/googles-ai-super-bowl-ad-fiasco-somehow-gets-worse-2000561146](https://gizmodo.com/googles-ai-super-bowl-ad-fiasco-somehow-gets-worse-2000561146)
+ - RSS feed: $source
+ - date published: 2025-02-07T22:15:18+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/10/Pixel-9-Pro-XL-Gemini-e1727794741223.jpg" class="attachment-full size-full wp-post-image" alt="Pixel 9 Pro Xl Gemini" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/10/Pixel-9-Pro-XL-Gemini-e1727794741223.jpg 1500w, https://gizmodo.com/app/uploads/2024/10/Pixel-9-Pro-XL-Gemini-e1727794741223-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/10/Pixel-9-Pro-XL-Gemini-e1727794741223-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/10/Pixel-9-Pro-XL-Gemini-e1727794741223-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/10/Pixel-9-Pro-XL-Gemini-e1727794741223-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/10/Pixel-9-Pro-XL-Gemini-e1727794741223-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/10/Pixel-9-Pro-XL-Gemini-e1727794741223-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/10/Pixel-9-Pro-XL-Gemini-e1727794741223-896x597.jpg 896w" 
+
+## This Self-Aware Harem Anime Must Finish Its Story
+ - [https://gizmodo.com/this-self-aware-harem-anime-must-finish-its-story-2000560926](https://gizmodo.com/this-self-aware-harem-anime-must-finish-its-story-2000560926)
+ - RSS feed: $source
+ - date published: 2025-02-07T22:00:46+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/The-100-Girlfriends-Who-Really-Really-Really-Really-REALLY-Love-You-Season-2-Crunchyroll-Anime.jpg" class="attachment-full size-full wp-post-image" alt="The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2 Crunchyroll Anime" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/02/The-100-Girlfriends-Who-Really-Really-Really-Really-REALLY-Love-You-Season-2-Crunchyroll-Anime.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/The-100-Girlfriends-Who-Really-Really-Really-Really-REALLY-Love-You-Season-2-Crunchyroll-Anime-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/The-100-Girlfriends-Who-Really-Really-Really-Really-REALLY-Love-You-Season-2-Crunchyroll-Anime-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/The-100-Girlfriends-Who-Really-Really-Really-Really-REALLY-Love-You-Season-2-Crunchyroll-Anime-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025
+
+## DOGE Is Coming for Your Social Security, States Prepare to Sue
+ - [https://gizmodo.com/doge-is-coming-for-your-social-security-states-prepare-to-sue-2000561046](https://gizmodo.com/doge-is-coming-for-your-social-security-states-prepare-to-sue-2000561046)
+ - RSS feed: $source
+ - date published: 2025-02-07T21:20:22+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee.jpg" class="attachment-full size-full wp-post-image" alt="Elon Musk holding a cup of coffee" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee-896x597.jpg 896w" sizes="(max-wid
+
+## Want to Lower Your Stroke Risk? A Little Flossing Might Help
+ - [https://gizmodo.com/want-to-lower-your-stroke-risk-a-little-flossing-might-help-2000561116](https://gizmodo.com/want-to-lower-your-stroke-risk-a-little-flossing-might-help-2000561116)
+ - RSS feed: $source
+ - date published: 2025-02-07T21:15:27+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/flossing-1.jpg" class="attachment-full size-full wp-post-image" alt="Flossing" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/01/flossing-1.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/flossing-1-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/flossing-1-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/flossing-1-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/flossing-1-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/flossing-1-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/flossing-1-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/flossing-1-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>New research finds that regular flossing is linked to a lower risk of clot-related strokes.
+
+## DOGE Staffer Previously Fired From Cybersecurity Company for Leaking Secrets
+ - [https://gizmodo.com/doge-staffer-previously-fired-from-cybersecurity-company-for-leaking-secrets-2000561131](https://gizmodo.com/doge-staffer-previously-fired-from-cybersecurity-company-for-leaking-secrets-2000561131)
+ - RSS feed: $source
+ - date published: 2025-02-07T21:03:49+00:00
+
+<img width="1500" height="998" src="https://gizmodo.com/app/uploads/2025/02/Elon-Musk-DVIDS-Air-Force.jpg" class="attachment-full size-full wp-post-image" alt="Usafa Hosts Elon Musk" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Elon-Musk-DVIDS-Air-Force.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Elon-Musk-DVIDS-Air-Force-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Elon-Musk-DVIDS-Air-Force-1024x681.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Elon-Musk-DVIDS-Air-Force-768x511.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Elon-Musk-DVIDS-Air-Force-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Elon-Musk-DVIDS-Air-Force-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Elon-Musk-DVIDS-Air-Force-680x452.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Elon-Musk-DVIDS-Air-Force-896x596.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The teen went by Big Balls online.
+
+## In His New Comic, Kylo Ren Still Wants More Past to Kill
+ - [https://gizmodo.com/legacy-of-vader-1-marvel-kylo-ren-darth-vader-vanee-2000560565](https://gizmodo.com/legacy-of-vader-1-marvel-kylo-ren-darth-vader-vanee-2000560565)
+ - RSS feed: $source
+ - date published: 2025-02-07T21:00:17+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/legacy-of-vader-1-kylo-ren.jpg" class="attachment-full size-full wp-post-image" alt="Legacy Of Vader 1 Kylo Ren" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/legacy-of-vader-1-kylo-ren.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/legacy-of-vader-1-kylo-ren-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/legacy-of-vader-1-kylo-ren-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/legacy-of-vader-1-kylo-ren-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/legacy-of-vader-1-kylo-ren-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/legacy-of-vader-1-kylo-ren-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/legacy-of-vader-1-kylo-ren-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/legacy-of-vader-1-kylo-ren-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Ben Solo's new Marvel series, <i>Legacy o
+
+## Android Users Will Eventually Be Able to Edit and Unsend Text Messages
+ - [https://gizmodo.com/android-users-will-eventually-be-able-to-edit-and-unsend-text-messages-2000561074](https://gizmodo.com/android-users-will-eventually-be-able-to-edit-and-unsend-text-messages-2000561074)
+ - RSS feed: $source
+ - date published: 2025-02-07T20:10:08+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/11/iMessages-Messages-iOS-Android-green-bubble.jpg" class="attachment-full size-full wp-post-image" alt="Imessages Messages Ios Android Green Bubble" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/11/iMessages-Messages-iOS-Android-green-bubble.jpg 1500w, https://gizmodo.com/app/uploads/2024/11/iMessages-Messages-iOS-Android-green-bubble-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/11/iMessages-Messages-iOS-Android-green-bubble-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/11/iMessages-Messages-iOS-Android-green-bubble-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/11/iMessages-Messages-iOS-Android-green-bubble-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/11/iMessages-Messages-iOS-Android-green-bubble-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/11/iMessages-Messages-iOS-Android-green-bubble-680x453.jpg 680w, https://gizmodo.c
+
+## This Blade Runner 2049 Auction Wants to Sell You Sean Young’s Bones
+ - [https://gizmodo.com/blade-runner-2049-prop-auction-rachael-skeleton-sean-young-2000561065](https://gizmodo.com/blade-runner-2049-prop-auction-rachael-skeleton-sean-young-2000561065)
+ - RSS feed: $source
+ - date published: 2025-02-07T20:00:31+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/rachael.jpg" class="attachment-full size-full wp-post-image" alt="Rachael" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/02/rachael.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/rachael-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/rachael-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/rachael-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/rachael-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/rachael-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/rachael-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/rachael-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Ever wanted to own Rachael's replicant skeleton? Your highly specific dreams are now within reach.
+
+## Trump’s Executive Order Is Making It Harder to Hire Firefighters
+ - [https://gizmodo.com/trumps-executive-order-is-making-it-harder-to-hire-firefighters-2000560993](https://gizmodo.com/trumps-executive-order-is-making-it-harder-to-hire-firefighters-2000560993)
+ - RSS feed: $source
+ - date published: 2025-02-07T19:45:54+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/10/wildfire-fire-fighter.jpg" class="attachment-full size-full wp-post-image" alt="Firefighter battles wildfire." decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/10/wildfire-fire-fighter.jpg 1500w, https://gizmodo.com/app/uploads/2024/10/wildfire-fire-fighter-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/10/wildfire-fire-fighter-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/10/wildfire-fire-fighter-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/10/wildfire-fire-fighter-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/10/wildfire-fire-fighter-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/10/wildfire-fire-fighter-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/10/wildfire-fire-fighter-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Federal firefighters are not exempt from the hiring freeze.
+
+## Captain America: Brave New World‘s Producer Addresses Changes Made to Its Most Controversial Character
+ - [https://gizmodo.com/captain-america-brave-new-world-sabra-changes-comics-marvel-mcu-2000560994](https://gizmodo.com/captain-america-brave-new-world-sabra-changes-comics-marvel-mcu-2000560994)
+ - RSS feed: $source
+ - date published: 2025-02-07T19:15:43+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/sabra.jpg" class="attachment-full size-full wp-post-image" alt="Sabra" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/sabra.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/sabra-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/sabra-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/sabra-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/sabra-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/sabra-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/sabra-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/sabra-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Israeli actress Shira Haas portrays Ruth Bat-Seraph, aka Sabra, in the movie—but her role may be different than what comics fans are expecting.
+
+## This Pixar-Inspired Robot Lamp Is the First Apple Intelligence Device I Really Want
+ - [https://gizmodo.com/this-pixar-inspired-robot-lamp-is-the-first-apple-intelligence-device-i-really-want-2000560938](https://gizmodo.com/this-pixar-inspired-robot-lamp-is-the-first-apple-intelligence-device-i-really-want-2000560938)
+ - RSS feed: $source
+ - date published: 2025-02-07T19:00:47+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Apple-ELEGNT-Smart-Lamp-1.jpg" class="attachment-full size-full wp-post-image" alt="Apple Elegnt Smart Lamp 1" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/02/Apple-ELEGNT-Smart-Lamp-1.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Apple-ELEGNT-Smart-Lamp-1-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Apple-ELEGNT-Smart-Lamp-1-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Apple-ELEGNT-Smart-Lamp-1-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Apple-ELEGNT-Smart-Lamp-1-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Apple-ELEGNT-Smart-Lamp-1-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Apple-ELEGNT-Smart-Lamp-1-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Apple-ELEGNT-Smart-Lamp-1-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>For those who love Pixar's Luxo Jr., Apple's engineers developed a
+
+## Pinterest Says Its DEI Commitments Put It at Risk of Conservative Backlash
+ - [https://gizmodo.com/pinterest-says-its-dei-commitments-put-it-at-risk-of-conservative-backlash-2000560978](https://gizmodo.com/pinterest-says-its-dei-commitments-put-it-at-risk-of-conservative-backlash-2000560978)
+ - RSS feed: $source
+ - date published: 2025-02-07T18:55:18+00:00
+
+<img width="1920" height="1080" src="https://gizmodo.com/app/uploads/2021/05/202d7df73d7364f5915ac11d74d47a4f.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2021/05/202d7df73d7364f5915ac11d74d47a4f.jpg 1920w, https://gizmodo.com/app/uploads/2021/05/202d7df73d7364f5915ac11d74d47a4f-300x169.jpg 300w, https://gizmodo.com/app/uploads/2021/05/202d7df73d7364f5915ac11d74d47a4f-1024x576.jpg 1024w, https://gizmodo.com/app/uploads/2021/05/202d7df73d7364f5915ac11d74d47a4f-768x432.jpg 768w, https://gizmodo.com/app/uploads/2021/05/202d7df73d7364f5915ac11d74d47a4f-512x288.jpg 512w, https://gizmodo.com/app/uploads/2021/05/202d7df73d7364f5915ac11d74d47a4f-680x383.jpg 680w, https://gizmodo.com/app/uploads/2021/05/202d7df73d7364f5915ac11d74d47a4f-896x504.jpg 896w, https://gizmodo.com/app/uploads/2021/05/202d7df73d7364f5915ac11d74d47a4f-1792x1008.jpg 1792w" sizes="(max-width: 1920px) 100vw, 1920px"><br><br>“Our brand a
+
+## Elon Musk Suggests Rehiring DOGE Staffer Who Resigned Over Racist Tweets
+ - [https://gizmodo.com/elon-musk-suggests-rehiring-doge-staffer-who-resigned-over-racist-tweets-2000560955](https://gizmodo.com/elon-musk-suggests-rehiring-doge-staffer-who-resigned-over-racist-tweets-2000560955)
+ - RSS feed: $source
+ - date published: 2025-02-07T18:45:12+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Elon-Musk.jpg" class="attachment-full size-full wp-post-image" alt="Elon Musk" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/Elon-Musk.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Marko Elez has been linked to an account that tweeted things like "normalize Indian hate."
+
+## Galaxy’s Edge Is Breaking Its Star Wars Timeline Even More With Luke Skywalker’s Arrival
+ - [https://gizmodo.com/luke-skywalker-will-be-arriving-at-galaxys-edge-for-season-of-the-force-at-disneyland-2000560967](https://gizmodo.com/luke-skywalker-will-be-arriving-at-galaxys-edge-for-season-of-the-force-at-disneyland-2000560967)
+ - RSS feed: $source
+ - date published: 2025-02-07T18:30:37+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/luke-skywalker-galaxys-edge.jpg" class="attachment-full size-full wp-post-image" alt="Luke Skywalker Galaxys Edge" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/luke-skywalker-galaxys-edge.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/luke-skywalker-galaxys-edge-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/luke-skywalker-galaxys-edge-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/luke-skywalker-galaxys-edge-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/luke-skywalker-galaxys-edge-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/luke-skywalker-galaxys-edge-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/luke-skywalker-galaxys-edge-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/luke-skywalker-galaxys-edge-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The Jedi Master will soon make 
+
+## Ha Ha, The Simpsons Has to End One Day, Right? Right??
+ - [https://gizmodo.com/ha-ha-the-simpsons-has-to-end-one-day-right-right-2000560975](https://gizmodo.com/ha-ha-the-simpsons-has-to-end-one-day-right-right-2000560975)
+ - RSS feed: $source
+ - date published: 2025-02-07T18:15:57+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/TooMuchMoe.jpg" class="attachment-full size-full wp-post-image" alt="Toomuchmoe" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/TooMuchMoe.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/TooMuchMoe-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/TooMuchMoe-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/TooMuchMoe-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/TooMuchMoe-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/TooMuchMoe-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/TooMuchMoe-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/TooMuchMoe-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Please let Julie Kavner rest.
+
+## NASA Removes Employee Pronouns Following Trump’s Executive Order, Report Claims
+ - [https://gizmodo.com/nasa-removes-employee-pronouns-following-trumps-executive-order-report-claims-2000560832](https://gizmodo.com/nasa-removes-employee-pronouns-following-trumps-executive-order-report-claims-2000560832)
+ - RSS feed: $source
+ - date published: 2025-02-07T18:05:03+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk.jpg" class="attachment-full size-full wp-post-image" alt="NASA ISS Spacewalk" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/NASA-ISS-Spacewalk-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The space agency is working to comply with an executive order targeting diversity and inclusion at federal agencies.
+
+## Here’s Our First Look at One of Avatar 3‘s New Leaders
+ - [https://gizmodo.com/avatar-3-wind-clan-navi-james-cameron-david-thewlis-fox-2000560981](https://gizmodo.com/avatar-3-wind-clan-navi-james-cameron-david-thewlis-fox-2000560981)
+ - RSS feed: $source
+ - date published: 2025-02-07T17:45:04+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/James-Cameron-Avatar-Fire-and-Ash-Disney-Empire-Magazine.jpg" class="attachment-full size-full wp-post-image" alt="James Cameron Avatar Fire And Ash Disney Empire Magazine" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/James-Cameron-Avatar-Fire-and-Ash-Disney-Empire-Magazine.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/James-Cameron-Avatar-Fire-and-Ash-Disney-Empire-Magazine-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/James-Cameron-Avatar-Fire-and-Ash-Disney-Empire-Magazine-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/James-Cameron-Avatar-Fire-and-Ash-Disney-Empire-Magazine-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/James-Cameron-Avatar-Fire-and-Ash-Disney-Empire-Magazine-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/James-Cameron-Avatar-Fire-and-Ash-Disney-Empire-Magazine-1400x932.jpg 1400w, https://gizmodo.com/a
+
+## Beats Studio Buds + Just Reached Their Lowest Price Ever Since Launch, Thanks to Valentine’s
+ - [https://gizmodo.com/beats-studio-buds-just-reached-their-lowest-price-ever-since-launch-thanks-to-valentines-2000560645](https://gizmodo.com/beats-studio-buds-just-reached-their-lowest-price-ever-since-launch-thanks-to-valentines-2000560645)
+ - RSS feed: $source
+ - date published: 2025-02-07T16:55:57+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/BeatsStudioBudsTransparent.jpg" class="attachment-full size-full wp-post-image" alt="Beatsstudiobuds+transparent" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/BeatsStudioBudsTransparent.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/BeatsStudioBudsTransparent-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/BeatsStudioBudsTransparent-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/BeatsStudioBudsTransparent-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/BeatsStudioBudsTransparent-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/BeatsStudioBudsTransparent-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/BeatsStudioBudsTransparent-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/BeatsStudioBudsTransparent-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Save 29% on the Beats Studio Buds+
+
+## CDC Abruptly Yanks Report Linking Cats to Bird Flu Spread
+ - [https://gizmodo.com/cdc-pulls-back-report-linking-cats-to-bird-flu-spread-2000560876](https://gizmodo.com/cdc-pulls-back-report-linking-cats-to-bird-flu-spread-2000560876)
+ - RSS feed: $source
+ - date published: 2025-02-07T16:50:51+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/12/sad-cat.jpg" class="attachment-full size-full wp-post-image" alt="A sad-looking cat." decoding="async" srcset="https://gizmodo.com/app/uploads/2024/12/sad-cat.jpg 1500w, https://gizmodo.com/app/uploads/2024/12/sad-cat-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/12/sad-cat-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/12/sad-cat-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/12/sad-cat-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/12/sad-cat-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/12/sad-cat-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/12/sad-cat-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The missing data detailed several cases of H5N1 that may have circulated between cats and people.
+
+## Tile Trackers (4-Pack) Are Now Cheaper Than Apple AirTags, Only $14 Each
+ - [https://gizmodo.com/tile-trackers-4-pack-are-now-cheaper-than-apple-airtags-only-14-each-2000560653](https://gizmodo.com/tile-trackers-4-pack-are-now-cheaper-than-apple-airtags-only-14-each-2000560653)
+ - RSS feed: $source
+ - date published: 2025-02-07T16:25:59+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Tile4pack.jpg" class="attachment-full size-full wp-post-image" alt="Tile4pack" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Tile4pack.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Tile4pack-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Tile4pack-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Tile4pack-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Tile4pack-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Tile4pack-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Tile4pack-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Tile4pack-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Save 30% on a set of four Tile trackers which you can use to never lose your car keys again.
+
+## 2,000-Year-Old Chariot Parts Discovered Beneath Welsh Airfield
+ - [https://gizmodo.com/2000-year-old-chariot-parts-discovered-beneath-welsh-airfield-2000560745](https://gizmodo.com/2000-year-old-chariot-parts-discovered-beneath-welsh-airfield-2000560745)
+ - RSS feed: $source
+ - date published: 2025-02-07T16:05:31+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Gizmodo-Feature-Images.jpg" class="attachment-full size-full wp-post-image" alt="Gizmodo Feature Images" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/Gizmodo-Feature-Images.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Gizmodo-Feature-Images-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Gizmodo-Feature-Images-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Gizmodo-Feature-Images-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Gizmodo-Feature-Images-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Gizmodo-Feature-Images-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Gizmodo-Feature-Images-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Gizmodo-Feature-Images-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Military personnel and veterans just uncovered more of the U.K.’s most impo
+
+## 11 Must-Read Recommendations from Manga’s New Wave
+ - [https://gizmodo.com/best-new-manga-to-read-2025-2000560252](https://gizmodo.com/best-new-manga-to-read-2025-2000560252)
+ - RSS feed: $source
+ - date published: 2025-02-07T16:00:00+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Gokurakugai-Viz-Media-Manga.jpg" class="attachment-full size-full wp-post-image" alt="Gokurakugai Viz Media Manga" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Gokurakugai-Viz-Media-Manga.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Gokurakugai-Viz-Media-Manga-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Gokurakugai-Viz-Media-Manga-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Gokurakugai-Viz-Media-Manga-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Gokurakugai-Viz-Media-Manga-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Gokurakugai-Viz-Media-Manga-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Gokurakugai-Viz-Media-Manga-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Gokurakugai-Viz-Media-Manga-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Caught up on viral hits like <i
+
+## EcoFlow River 3 Plus Portable Power Station Just Got a $100 Discount
+ - [https://gizmodo.com/ecoflow-river-3-plus-portable-power-station-just-got-a-100-discount-2000560245](https://gizmodo.com/ecoflow-river-3-plus-portable-power-station-just-got-a-100-discount-2000560245)
+ - RSS feed: $source
+ - date published: 2025-02-07T15:55:02+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/river.jpg" class="attachment-full size-full wp-post-image" alt="River" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/river.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/river-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/river-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/river-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/river-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/river-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/river-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/river-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Never be caught in the dark again with this affordable power station that keeps you juiced up no matter what.
+
+## That Huge 2024 Solar Storm Didn’t Just Light Up the Skies—It Reshaped Space Near Earth
+ - [https://gizmodo.com/that-huge-2024-solar-storm-didnt-just-light-up-the-skies-it-reshaped-space-near-earth-2000560898](https://gizmodo.com/that-huge-2024-solar-storm-didnt-just-light-up-the-skies-it-reshaped-space-near-earth-2000560898)
+ - RSS feed: $source
+ - date published: 2025-02-07T15:50:59+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/two-new-belts-of-a-particles.jpg" class="attachment-full size-full wp-post-image" alt="Two New Belts Of A Particles" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/two-new-belts-of-a-particles.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/two-new-belts-of-a-particles-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/two-new-belts-of-a-particles-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/two-new-belts-of-a-particles-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/two-new-belts-of-a-particles-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/two-new-belts-of-a-particles-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/two-new-belts-of-a-particles-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/two-new-belts-of-a-particles-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>A NASA satellite that
+
+## Britain Orders Apple to Build a Backdoor Into Your iPhone
+ - [https://gizmodo.com/britain-orders-apple-to-build-a-backdoor-into-your-iphone-2000560909](https://gizmodo.com/britain-orders-apple-to-build-a-backdoor-into-your-iphone-2000560909)
+ - RSS feed: $source
+ - date published: 2025-02-07T15:30:47+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/11/GettyImages-1131431673.jpg" class="attachment-full size-full wp-post-image" alt="iPhone plugged into a charger." decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/11/GettyImages-1131431673.jpg 1500w, https://gizmodo.com/app/uploads/2024/11/GettyImages-1131431673-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/11/GettyImages-1131431673-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/11/GettyImages-1131431673-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/11/GettyImages-1131431673-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/11/GettyImages-1131431673-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/11/GettyImages-1131431673-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/11/GettyImages-1131431673-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Under the U.K. law, it’s illegal for the company to even talk about the e
+
+## Anker Prime 14-Port Docking Station Sees Its First Major Price Drop on Amazon
+ - [https://gizmodo.com/anker-prime-14-port-docking-station-sees-its-first-major-price-drop-on-amazon-2000560534](https://gizmodo.com/anker-prime-14-port-docking-station-sees-its-first-major-price-drop-on-amazon-2000560534)
+ - RSS feed: $source
+ - date published: 2025-02-07T15:25:05+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/ankerprime.jpg" class="attachment-full size-full wp-post-image" alt="Ankerprime" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/ankerprime.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/ankerprime-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/ankerprime-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/ankerprime-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/ankerprime-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/ankerprime-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/ankerprime-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/ankerprime-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>All of your devices can be connected in one place with this can't-miss Anker deal.
+
+## Apple’s Initial Designs for a Vision Pro Controller Are Making Me Uncomfortable
+ - [https://gizmodo.com/apples-initial-designs-for-a-vision-pro-controller-are-making-me-uncomfortable-2000560503](https://gizmodo.com/apples-initial-designs-for-a-vision-pro-controller-are-making-me-uncomfortable-2000560503)
+ - RSS feed: $source
+ - date published: 2025-02-07T15:20:57+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Apple-Patent-Handheld-Controller-USPTO.jpg" class="attachment-full size-full wp-post-image" alt="Apple Patent Handheld Controller Uspto" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Apple-Patent-Handheld-Controller-USPTO.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Apple-Patent-Handheld-Controller-USPTO-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Apple-Patent-Handheld-Controller-USPTO-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Apple-Patent-Handheld-Controller-USPTO-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Apple-Patent-Handheld-Controller-USPTO-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Apple-Patent-Handheld-Controller-USPTO-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Apple-Patent-Handheld-Controller-USPTO-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Apple-Patent-Handheld-Contro
+
+## This Slime Generates Electricity When Squeezed
+ - [https://gizmodo.com/scientists-invent-slime-that-generates-electricity-when-squeezed-2000560762](https://gizmodo.com/scientists-invent-slime-that-generates-electricity-when-squeezed-2000560762)
+ - RSS feed: $source
+ - date published: 2025-02-07T15:05:01+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/researcher-holds-slime.jpg" class="attachment-full size-full wp-post-image" alt="Researcher Holds Slime" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/researcher-holds-slime.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/researcher-holds-slime-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/researcher-holds-slime-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/researcher-holds-slime-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/researcher-holds-slime-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/researcher-holds-slime-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/researcher-holds-slime-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/researcher-holds-slime-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Scientists in Canada have invented an electricity-generating slime that cou
+
+## This Week’s Severance Is the Wildest Episode Yet
+ - [https://gizmodo.com/severance-season-2-episode-4-recap-helly-irv-apple-tv-2000559414](https://gizmodo.com/severance-season-2-episode-4-recap-helly-irv-apple-tv-2000559414)
+ - RSS feed: $source
+ - date published: 2025-02-07T15:00:20+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Severance-4-recap.jpg" class="attachment-full size-full wp-post-image" alt="Severance 4 Recap" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/02/Severance-4-recap.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Severance-4-recap-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Severance-4-recap-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Severance-4-recap-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Severance-4-recap-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Severance-4-recap-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Severance-4-recap-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Severance-4-recap-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Episode 4 of season 2, 'Woe's Hollow', took the Innies outie, and now everything is topsy turvy.
+
+## Google’s Latest Smartwatch, the Pixel Watch 3, Already Dropped to Its Lowest Price Yet
+ - [https://gizmodo.com/googles-latest-smartwatch-the-pixel-watch-3-already-dropped-to-its-lowest-price-yet-2000559988](https://gizmodo.com/googles-latest-smartwatch-the-pixel-watch-3-already-dropped-to-its-lowest-price-yet-2000559988)
+ - RSS feed: $source
+ - date published: 2025-02-07T14:50:07+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/GooglePixelWatch3.jpg" class="attachment-full size-full wp-post-image" alt="Googlepixelwatch3" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/GooglePixelWatch3.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/GooglePixelWatch3-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/GooglePixelWatch3-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/GooglePixelWatch3-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/GooglePixelWatch3-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/GooglePixelWatch3-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/GooglePixelWatch3-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/GooglePixelWatch3-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Brand-new and already discounted? Google’s Pixel Watch 3 hits a new low.
+
+## Nintendo Patent Confirms the Biggest Rumor About the Switch 2
+ - [https://gizmodo.com/nintendo-patent-confirms-the-biggest-rumor-about-the-switch-2-2000560857](https://gizmodo.com/nintendo-patent-confirms-the-biggest-rumor-about-the-switch-2-2000560857)
+ - RSS feed: $source
+ - date published: 2025-02-07T14:45:51+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Nintendo-Switch-2-JoyCon-Cover-2.jpg" class="attachment-full size-full wp-post-image" alt="Nintendo Switch 2 Joycon Cover 2" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Nintendo-Switch-2-JoyCon-Cover-2.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Nintendo-Switch-2-JoyCon-Cover-2-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Nintendo-Switch-2-JoyCon-Cover-2-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Nintendo-Switch-2-JoyCon-Cover-2-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Nintendo-Switch-2-JoyCon-Cover-2-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Nintendo-Switch-2-JoyCon-Cover-2-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Nintendo-Switch-2-JoyCon-Cover-2-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Nintendo-Switch-2-JoyCon-Cover-2-896x597.jpg 896w" sizes="(max-width: 1500px) 100v
+
+## The First 5 Things You Should Do With the Samsung Galaxy S25
+ - [https://gizmodo.com/5-things-galaxy-s25-2000559460](https://gizmodo.com/5-things-galaxy-s25-2000559460)
+ - RSS feed: $source
+ - date published: 2025-02-07T14:35:23+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12-1.jpg" class="attachment-full size-full wp-post-image" alt="Samsung Galaxy S25 Nyc 12" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12-1.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12-1-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12-1-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12-1-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12-1-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12-1-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12-1-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/Samsung-Galaxy-S25-NYC-12-1-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>You bought a Samsung Galaxy S25. 
+
+## Blink Security Camera Bundle Hits an All-Time Low, Cheaper Than Buying Separately
+ - [https://gizmodo.com/blink-security-camera-bundle-hits-an-all-time-low-cheaper-than-buying-separately-2000560338](https://gizmodo.com/blink-security-camera-bundle-hits-an-all-time-low-cheaper-than-buying-separately-2000560338)
+ - RSS feed: $source
+ - date published: 2025-02-07T14:15:04+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/blinkqh.jpg" class="attachment-full size-full wp-post-image" alt="Blinkqh" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/blinkqh.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/blinkqh-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/blinkqh-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/blinkqh-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/blinkqh-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/blinkqh-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/blinkqh-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/blinkqh-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Time to bolster the security in your home? Do it for less with this can't-miss deal.
+
+## Updates From Jurassic World Rebirth, Marvel’s Vision Quest, and More
+ - [https://gizmodo.com/jurassic-world-rebirth-mosasaurus-toy-dilophosaurus-2000560703](https://gizmodo.com/jurassic-world-rebirth-mosasaurus-toy-dilophosaurus-2000560703)
+ - RSS feed: $source
+ - date published: 2025-02-07T14:00:54+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/MS-0207-Jurassic-World-Rebirth-Mosasaurus.jpg" class="attachment-full size-full wp-post-image" alt="Ms 0207 Jurassic World Rebirth Mosasaurus" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/MS-0207-Jurassic-World-Rebirth-Mosasaurus.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/MS-0207-Jurassic-World-Rebirth-Mosasaurus-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/MS-0207-Jurassic-World-Rebirth-Mosasaurus-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/MS-0207-Jurassic-World-Rebirth-Mosasaurus-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/MS-0207-Jurassic-World-Rebirth-Mosasaurus-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/MS-0207-Jurassic-World-Rebirth-Mosasaurus-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/MS-0207-Jurassic-World-Rebirth-Mosasaurus-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/M
+
+## Palantir’s Billionaire CEO Just Can’t Stop Talking About Killing People
+ - [https://gizmodo.com/palantirs-billionaire-ceo-just-cant-stop-talking-about-killing-people-2000560597](https://gizmodo.com/palantirs-billionaire-ceo-just-cant-stop-talking-about-killing-people-2000560597)
+ - RSS feed: $source
+ - date published: 2025-02-07T13:50:47+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/12/GettyImages-1678319113.jpg" class="attachment-full size-full wp-post-image" alt="Tesla CEO Elon Musk (L) and Palantir CEO Alex Karp appear together on Capitol Hill" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/12/GettyImages-1678319113.jpg 1500w, https://gizmodo.com/app/uploads/2024/12/GettyImages-1678319113-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/12/GettyImages-1678319113-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/12/GettyImages-1678319113-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/12/GettyImages-1678319113-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/12/GettyImages-1678319113-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/12/GettyImages-1678319113-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/12/GettyImages-1678319113-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Slow your roll,
+
+## Why Buy Real Flowers? LEGO Roses Are Now at Their Lowest Price for Valentines’ Day
+ - [https://gizmodo.com/why-buy-real-flowers-lego-roses-are-now-at-their-lowest-price-for-valentines-day-2000560621](https://gizmodo.com/why-buy-real-flowers-lego-roses-are-now-at-their-lowest-price-for-valentines-day-2000560621)
+ - RSS feed: $source
+ - date published: 2025-02-07T13:40:57+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/LegoRoses.jpg" class="attachment-full size-full wp-post-image" alt="Legoroses" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/02/LegoRoses.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/LegoRoses-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/LegoRoses-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/LegoRoses-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/LegoRoses-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/LegoRoses-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/LegoRoses-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/LegoRoses-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Save 20% on the Lego Botanicals Bouquet of Roses, just in time for Valentine's Day.
+
+## AMC’s A-List Is Getting More Expensive but Giving You More Movies
+ - [https://gizmodo.com/amcs-a-list-is-getting-more-expensive-but-giving-you-more-movies-2000560569](https://gizmodo.com/amcs-a-list-is-getting-more-expensive-but-giving-you-more-movies-2000560569)
+ - RSS feed: $source
+ - date published: 2025-02-07T13:40:54+00:00
+
+<img width="1119" height="630" src="https://gizmodo.com/app/uploads/2020/03/h4aimnwfywpwujivbb8l.jpg" class="attachment-full size-full wp-post-image" alt="Photo:" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2020/03/h4aimnwfywpwujivbb8l.jpg 1119w, https://gizmodo.com/app/uploads/2020/03/h4aimnwfywpwujivbb8l-300x169.jpg 300w, https://gizmodo.com/app/uploads/2020/03/h4aimnwfywpwujivbb8l-1024x577.jpg 1024w, https://gizmodo.com/app/uploads/2020/03/h4aimnwfywpwujivbb8l-768x432.jpg 768w, https://gizmodo.com/app/uploads/2020/03/h4aimnwfywpwujivbb8l-512x288.jpg 512w, https://gizmodo.com/app/uploads/2020/03/h4aimnwfywpwujivbb8l-680x383.jpg 680w, https://gizmodo.com/app/uploads/2020/03/h4aimnwfywpwujivbb8l-896x504.jpg 896w" sizes="(max-width: 1119px) 100vw, 1119px"><br><br>But you get an extra trip to the theater each week.
+
+## The All-new Amazon Kindle Paperwhite Just Got Its First Price Cut This Year
+ - [https://gizmodo.com/the-all-new-amazon-kindle-paperwhite-just-got-its-first-price-cut-this-year-2000542680](https://gizmodo.com/the-all-new-amazon-kindle-paperwhite-just-got-its-first-price-cut-this-year-2000542680)
+ - RSS feed: $source
+ - date published: 2025-02-07T13:10:16+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/12/KindlePaper.jpg" class="attachment-full size-full wp-post-image" alt="Kindlepaper" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/12/KindlePaper.jpg 1500w, https://gizmodo.com/app/uploads/2024/12/KindlePaper-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/12/KindlePaper-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/12/KindlePaper-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/12/KindlePaper-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/12/KindlePaper-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/12/KindlePaper-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/12/KindlePaper-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The Kindle Paperwhite is now its lowest price on Amazon for a limited time.
+
+## Romantic Bluey Episodes Where Bandit and Chilli Are Relationship Goals
+ - [https://gizmodo.com/romantic-bluey-episodes-where-bandit-and-chilli-are-relationship-goals-2000560634](https://gizmodo.com/romantic-bluey-episodes-where-bandit-and-chilli-are-relationship-goals-2000560634)
+ - RSS feed: $source
+ - date published: 2025-02-07T00:30:56+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Bluey-ludo-studio.jpg" class="attachment-full size-full wp-post-image" alt="Bluey Ludo Studio" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/Bluey-ludo-studio.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Bluey-ludo-studio-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Bluey-ludo-studio-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Bluey-ludo-studio-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Bluey-ludo-studio-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Bluey-ludo-studio-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Bluey-ludo-studio-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Bluey-ludo-studio-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Watch the fan-beloved animated show online or streaming on Disney+.
+

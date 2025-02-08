@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-07T13:31:09+00:00",
+        "description": "<p>Calibre 7.25 open-source ebook management software is now available for download with support for importing KFX files from 2024 Kindle devices that use the MTP protocol.</p>\n<p>The post <a href=\"https://9to5linux.com/calibre-7-25-adds-support-for-importing-kfx-files-from-2024-kindle-devices-via-mtp\">Calibre 7.25 Adds Support for Importing KFX Files from 2024 Kindle Devices via MTP</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>",
+        "id": 2064092,
+        "language": "en-US",
+        "link": "https://9to5linux.com/calibre-7-25-adds-support-for-importing-kfx-files-from-2024-kindle-devices-via-mtp",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Calibre 7.25 Adds Support for Importing KFX Files from 2024 Kindle Devices via MTP",
+        "vote": 0
+    }
+]

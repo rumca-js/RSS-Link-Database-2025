@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-07T02:20:03+00:00",
+        "description": "The chatbot is part of Elon Musk and President Donald Trump\u2019s ambitions to use AI and other technologies to cut costs and modernize the US government.",
+        "id": 2060923,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/doge-chatbot-ai-first-agenda",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/67a3f1f04f15e3b078c343a1/master/pass/Musk-Government-AI-Agents-Business-1162457239.jpg",
+        "title": "Elon Musk\u2019s DOGE Is Working on a Custom Chatbot Called GSAi",
+        "vote": 0
+    }
+]

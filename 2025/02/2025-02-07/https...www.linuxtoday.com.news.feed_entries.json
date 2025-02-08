@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-07T00:18:35.940868+00:00",
+        "description": null,
+        "id": 2060226,
+        "language": "en-US",
+        "link": "https://www.linuxtoday.com/news/feed",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 196,
+        "source_url": "https://www.linuxtoday.com/news/feed",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://assets.linuxtoday.com/uploads/2021/06/cropped-Linux_logos_Favicon-32x32.png",
+        "title": "News Archives | Linux Today",
+        "vote": 0
+    }
+]

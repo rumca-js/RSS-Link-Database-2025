@@ -1,0 +1,79 @@
+# Source:Raspberry Pi - More than just magic mirrors and kodi!, URL:https://www.reddit.com/r/raspberry_pi/.rss, language:en
+
+## Repaired 50€ Noise with Pico
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ik5quh/repaired_50_noise_with_pico](https://www.reddit.com/r/raspberry_pi/comments/1ik5quh/repaired_50_noise_with_pico)
+ - RSS feed: $source
+ - date published: 2025-02-07T21:07:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1ik5quh/repaired_50_noise_with_pico/"> <img src="https://b.thumbs.redditmedia.com/yBNoopinPS-EWQBtazSmYjOGy709ycKMoCvRVLOP7Hc.jpg" alt="Repaired 50€ Noise with Pico" title="Repaired 50€ Noise with Pico" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>My mother likes the 50€ Zwitscher Box and one broke down. After finding out, it was they are using a LDR light sensor and a cheap speaker, I reused them, took a Pico, I got since launch and got the DFPlayer mini and reused an small battery bank. After downloading a license free bird song and a little micropython, I recreated the Zwitscherbox for a few euros.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lukjam"> /u/Lukjam </a> <br/> <span><a href="https://www.reddit.com/gallery/1ik5quh">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ik5quh/repaired_50_noise_with_pico/">[comments]</a
+
+## Turning an Old Touchscreen into a Home Dashboard with Raspberry Pi 5
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ik3myy/turning_an_old_touchscreen_into_a_home_dashboard](https://www.reddit.com/r/raspberry_pi/comments/1ik3myy/turning_an_old_touchscreen_into_a_home_dashboard)
+ - RSS feed: $source
+ - date published: 2025-02-07T19:38:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1ik3myy/turning_an_old_touchscreen_into_a_home_dashboard/"> <img src="https://b.thumbs.redditmedia.com/_42pwTx4FKrhZVoMxXT6kpadsbLrYLSSduE7L4BmaLc.jpg" alt="Turning an Old Touchscreen into a Home Dashboard with Raspberry Pi 5" title="Turning an Old Touchscreen into a Home Dashboard with Raspberry Pi 5" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Just thought I’d share my latest project—certainly an unconventional one, but it’s been a fun build. I wanted a home dashboard where I could quickly check the weather, view my calendar, manage google tasks, pull up a YouTube video while cooking, control music via Sonos, etc. Tablets felt too small, but I had an old 24” touchscreen monitor sitting around, so I decided to repurpose it.</p> <p>On the hardware side, I built a custom wooden case for the screen (not super relevant here, but it makes it look nice in the house). The backend is powered by a Raspberry Pi 5
+
+## Zero 2 - 64bit vs 64bit Lite
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ijyfps/zero_2_64bit_vs_64bit_lite](https://www.reddit.com/r/raspberry_pi/comments/1ijyfps/zero_2_64bit_vs_64bit_lite)
+ - RSS feed: $source
+ - date published: 2025-02-07T16:05:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all, I&#39;ve recently delved into the world of Raspberry Pi&#39;s and can&#39;t quite find an answer to this question. I know the differences between 32bit and 64bit, performance, memory usage, memory availability, etc. My question is this...if I were to load the 64-bit OS, but then change the boot of the Pi to boot directly to the command line, would my memory usage be comparable to the 64bit Lite version? The reason I ask is because I&#39;m attempting to roll out numerous RPi units at my company...and not all of my tech support staff are familiar with, or comfortable using the command-line only. I figured if I install the full 64bit OS, they have the option to boot into the GUI/Desktop if they need to. </p> <p>The TL:DR version is this: Is 64bit Full OS running in Terminal mode roughly the same as 64bit Lite?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bbestvin"> /u/bbestvin </a> <br/> <span><a href="h
+
+## Help Needed: ReSpeaker 2-Mics Pi HAT v.1+ Wyoming Satellite Setup Issues on RPi 3B+ (ALSA) for voice assistant with Home Assistant
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ijul9p/help_needed_respeaker_2mics_pi_hat_v1_wyoming](https://www.reddit.com/r/raspberry_pi/comments/1ijul9p/help_needed_respeaker_2mics_pi_hat_v1_wyoming)
+ - RSS feed: $source
+ - date published: 2025-02-07T13:08:35+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>I&#39;m trying to build a voice assistant</strong> using a Raspberry Pi 3B+ with a ReSpeaker 2-Mics Pi HAT v.1 as a satellite device for Home Assistant. Despite days of troubleshooting, I&#39;m stuck with ALSA configuration issues and problems. Any help would be greatly appreciated!</p> <h1>System Overview</h1> <ul> <li>Hardware: RPi 3B+ + ReSpeaker 2-Mics Pi HAT v.1</li> <li>OS: Raspberry Pi OS Lite 32-bit</li> <li>ReSpeaker Drivers: Installed via <a href="https://github.com/HinTak/seeed-voicecard">HinTak fork</a></li> <li>Components: <ul> <li>Wyoming Satellite (for audio I/O)</li> <li>OpenWakeWord (in Docker)</li> <li>Wyoming Whisper (QNAP TS-473A)</li> </ul></li> </ul> <h1>Key Issues</h1> <ol> <li>ALSA Configuration Failures <ul> <li>Errors during audio recording tests: <code>arecord -D hw:2,0 -f S16\_LE -r 16000 -c 2 test.wav</code> # Fails with &quot;Unable to install hw params&quot; </li> <li>ALSA restore errors: <code>alsactl restore</
+
+## How to add more usb ports without bandwidth problems for multiple usb camera recording
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ijthou/how_to_add_more_usb_ports_without_bandwidth](https://www.reddit.com/r/raspberry_pi/comments/1ijthou/how_to_add_more_usb_ports_without_bandwidth)
+ - RSS feed: $source
+ - date published: 2025-02-07T12:05:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone, I’m currently trying to record with 5 USB webcams simultaneously using an RPi 5 with 16GB of RAM, Python, and OpenCV. The GUI works well with 4 cameras using the built-in USB ports on the Raspberry Pi. However, I want to extend the USB ports by adding 4 more, so I bought the Waveshare PCIe to 4-Ch USB3.2 Gen1 Board. I plugged it in and tested it, but only one camera is recording. I assumed that since I’m using PCIe to extend the ports, there wouldn’t be any bandwidth issues, but it seems like the 4 ports are sharing the bandwidth of the PCIe slot. BTW, I need three USB ports for other devices. Is there any device or solution I can use to make this work without bandwidth problems?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Broad-Veterinarian70"> /u/Broad-Veterinarian70 </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ijthou/how_to_add_more_usb_ports_without_bandwidth/">[
+
+## Screensavers toast the CPU
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ijrjuw/screensavers_toast_the_cpu](https://www.reddit.com/r/raspberry_pi/comments/1ijrjuw/screensavers_toast_the_cpu)
+ - RSS feed: $source
+ - date published: 2025-02-07T09:55:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve installed Pi OS full on my CM5 and I am using a 1920x1080 screen and with XScreensaver I tried adding a fancy slideshow using xscreensaver-gl but this toasts the CPU in mere minutes. After that I tried WallPanel.js within Home Assistant but this also pushed the CPU to it&#39;s limits. I ended up writing my own JS with a bit of CSS which does the trick. But I wonder, did I misconfigure anything? Or is this default Pi behaviour?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/darkshifty"> /u/darkshifty </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ijrjuw/screensavers_toast_the_cpu/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ijrjuw/screensavers_toast_the_cpu/">[comments]</a></span>
+
+## Finished my Pi Pico powered Spacewar! controllers. I posted a short video of the wiring test a few days ago but here they are with black acrylic lids, hardwood boxes, re-creation rotate/hyperspace/thrust knobs, and a microswitch torpedo button.
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ijphed/finished_my_pi_pico_powered_spacewar_controllers](https://www.reddit.com/r/raspberry_pi/comments/1ijphed/finished_my_pi_pico_powered_spacewar_controllers)
+ - RSS feed: $source
+ - date published: 2025-02-07T07:21:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1ijphed/finished_my_pi_pico_powered_spacewar_controllers/"> <img src="https://b.thumbs.redditmedia.com/2ZJBZMKXXpLbSpmPBuk52uXuxvTuAs4-4Tbp73kbTzs.jpg" alt="Finished my Pi Pico powered Spacewar! controllers. I posted a short video of the wiring test a few days ago but here they are with black acrylic lids, hardwood boxes, re-creation rotate/hyperspace/thrust knobs, and a microswitch torpedo button." title="Finished my Pi Pico powered Spacewar! controllers. I posted a short video of the wiring test a few days ago but here they are with black acrylic lids, hardwood boxes, re-creation rotate/hyperspace/thrust knobs, and a microswitch torpedo button." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tominator2000"> /u/Tominator2000 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ijphed">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ijp
+
+## What controller do I use
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ijm4pr/what_controller_do_i_use](https://www.reddit.com/r/raspberry_pi/comments/1ijm4pr/what_controller_do_i_use)
+ - RSS feed: $source
+ - date published: 2025-02-07T03:53:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Recently got a raspberry pi that I’m using to emulate games and I can’t get any controllers to connect to it, I believe it has Bluetooth capabilities and it has 4 usb ports for controllers but nothing will connect to it.</p> <p>Thing I have tried: Wired Xbox controller Bluetooth switch pro controller Wired ps4 controlled Bluetooth Mac keyboard </p> <p>These probably aren’t the best options to use but these are all I have around my house.</p> <p>I have heard good things about 8Bitdo controllers for pi emulators, should I get one of those? Also I’m not trying to spend a lot of money.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Square_Chip_1054"> /u/Square_Chip_1054 </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ijm4pr/what_controller_do_i_use/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ijm4pr/what_controller_do_i_use/">[comments]</a></span>
+
+## Pi Nas Hardware Infrastructure
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ijk7nv/pi_nas_hardware_infrastructure](https://www.reddit.com/r/raspberry_pi/comments/1ijk7nv/pi_nas_hardware_infrastructure)
+ - RSS feed: $source
+ - date published: 2025-02-07T02:13:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Someone here might have tried this. I want to build a portable Dropbox thing for storing video clips.</p> <p>So essential - what would be faster/less stress on a Pi 5 - Using a PCI hat with an Intel Wifi 6/X/7 card? Or a stand-alone router (flashed to Open WRT or something else) connected to the 1 GIG port.</p> <p>So if I use the hat, I will most likely lose the PCIe M.2 capability, and if I use Ethernet, I can use an M.2 hat and card for storage.</p> <p>I’m not talking about HD speeds, just what would get the bits faster from the network to the media with fewer processes in the way.</p> <p>Also, I’m not thinking about getting a switch hat to add m000r3 h@ts.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Evildude42"> /u/Evildude42 </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ijk7nv/pi_nas_hardware_infrastructure/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/rasp
+
+## How can I use an ethernet switch to get multiple pi 4b's to take a picture with the camera module 3 simultaneously?
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ijizgs/how_can_i_use_an_ethernet_switch_to_get_multiple](https://www.reddit.com/r/raspberry_pi/comments/1ijizgs/how_can_i_use_an_ethernet_switch_to_get_multiple)
+ - RSS feed: $source
+ - date published: 2025-02-07T01:11:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am trying to create a photogrammetry booth using an ethernet switch as the point of communication so I can scan moving objects (cats, dogs, people). I have my switch working, but I am not sure what software/packages to use or how I can communicate with every pi to take a picture at the exact same moment. I have some experience with Ubuntu, CLI, a lot of experience with python, but networking technology and practices are very new to me so I don&#39;t even know what to search to find out more.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/entropyart_studio"> /u/entropyart_studio </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ijizgs/how_can_i_use_an_ethernet_switch_to_get_multiple/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ijizgs/how_can_i_use_an_ethernet_switch_to_get_multiple/">[comments]</a></span>
+
+## Custom PCB Hat for RaspberryPi - Fried Inductor
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ijhoxu/custom_pcb_hat_for_raspberrypi_fried_inductor](https://www.reddit.com/r/raspberry_pi/comments/1ijhoxu/custom_pcb_hat_for_raspberrypi_fried_inductor)
+ - RSS feed: $source
+ - date published: 2025-02-07T00:09:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1ijhoxu/custom_pcb_hat_for_raspberrypi_fried_inductor/"> <img src="https://b.thumbs.redditmedia.com/FYBEk-B8AJDUMtzxzE7-1wQP7pwKxRs5pM9CmK_Y3KA.jpg" alt="Custom PCB Hat for RaspberryPi - Fried Inductor" title="Custom PCB Hat for RaspberryPi - Fried Inductor" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hey!</p> <p>I&#39;m designing my first PCB, and I just received my package from JLCPCB. One of the components I&#39;m experimenting with is a DC-DC Boost converter. I&#39;ve placed the LM2577 module and added all the components listed in the specifications. However, when I connected the PCB to the Raspberry Pi, the inductor fried almost immediately. </p> <p>I realize that I need to use an inductor with a much higher current rating, but I&#39;m unsure how to choose the right one. I&#39;m trying to run a 5V to 12V converter, and the load on the 12V side draws very little current (just 10mA). </p> <p>What calc
+

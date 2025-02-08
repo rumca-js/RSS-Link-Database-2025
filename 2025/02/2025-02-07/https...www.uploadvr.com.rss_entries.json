@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-07T06:00:11+00:00",
+        "description": "COLD VR delivers moments of entertaining action on Steam, but it&#39;s let down by frustrating level design and an unpolished presentation.",
+        "id": 2064543,
+        "language": null,
+        "link": "https://www.uploadvr.com/cold-vr-review",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 375,
+        "source_url": "https://www.uploadvr.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.uploadvr.com/content/images/2025/02/COLD-VR_02-d6d54cf38b2f9a8d.png",
+        "title": "COLD VR Review: A Flawed Inversion of SUPERHOT",
+        "vote": 0
+    }
+]

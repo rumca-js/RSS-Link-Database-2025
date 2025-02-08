@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Sydney Watson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-07T00:19:47.639679+00:00",
+        "description": null,
+        "id": 2060259,
+        "language": "en-US",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSFy-1JrpZf0tFlRZfo-Rvw",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 315,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSFy-1JrpZf0tFlRZfo-Rvw",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Sydney Watson",
+        "vote": 0
+    }
+]

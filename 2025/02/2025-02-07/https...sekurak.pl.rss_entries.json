@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-07T14:49:34+00:00",
+        "description": "<p>O temacie ostrzega ESET oraz KNF. Malware w dzia\u0142aniu mo\u017cna zobaczy\u0107 na filmiku poni\u017cej (\u017ar\u00f3d\u0142o) Co my tu mamy? Jak relacjonuje ESET, przest\u0119pcy u\u017cywaj\u0105 lewej appki bankowej (w tym przypadku PKOBP). Appka dostarczana jest za pomoc\u0105 socjotechniki (mo\u017ce to by\u0107 SMS czy e-mail). Appka wykonana jest w technologii WebAPK (mo\u017cna...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/malware-nfc-pojawil-sie-w-polsce-kradnie-pin-inne-dane-karty-platniczej-i-wysyla-je-do-przestepcy-przy-bankomacie-filmik-na-przykladzie-pko-bp/\">Malware NFC pojawi\u0142 si\u0119 w Polsce. Kradnie PIN / inne dane karty p\u0142atniczej i wysy\u0142a je do przest\u0119pcy przy bankomacie. Filmik na przyk\u0142adzie PKO BP.</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2064835,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/malware-nfc-pojawil-sie-w-polsce-kradnie-pin-inne-dane-karty-platniczej-i-wysyla-je-do-przestepcy-przy-bankomacie-filmik-na-przykladzie-pko-bp",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Malware NFC pojawi\u0142 si\u0119 w Polsce. Kradnie PIN / inne dane karty p\u0142atniczej i wysy\u0142a je do przest\u0119pcy przy bankomacie. Filmik na przyk\u0142adzie PKO BP.",
+        "vote": 0
+    }
+]

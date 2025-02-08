@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-07T09:37:03+00:00",
+        "description": "The LibreOffice 25.2 release is here, bringing with it many new refinements, alongside tweaks that improve user experience.",
+        "id": 2062626,
+        "language": null,
+        "link": "https://news.itsfoss.com/libreoffice-25-2-release",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://news.itsfoss.com/content/images/2025/02/libreoffice-25-2-release.png",
+        "title": "LibreOffice Delivers First Major Release Of 2025",
+        "vote": 0
+    }
+]

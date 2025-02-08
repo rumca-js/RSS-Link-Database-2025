@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Marc Brunet",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-07T00:18:31.900919+00:00",
+        "description": null,
+        "id": 2060219,
+        "language": "en-US",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKtu_JtQCY0yryIy6zK4ZCg",
+        "manual_status_code": 0,
+        "page_rating": 0,
+        "page_rating_contents": 0,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 208,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKtu_JtQCY0yryIy6zK4ZCg",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Marc Brunet",
+        "vote": 0
+    }
+]

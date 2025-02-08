@@ -1,0 +1,149 @@
+# Source:Listen To This, URL:https://www.reddit.com/r/listentothis/.rss, language:
+
+## SimpleXity - Luminosity [Progressive Rock] (2011)
+ - [https://www.reddit.com/r/listentothis/comments/1ik87sr/simplexity_luminosity_progressive_rock_2011](https://www.reddit.com/r/listentothis/comments/1ik87sr/simplexity_luminosity_progressive_rock_2011)
+ - RSS feed: $source
+ - date published: 2025-02-07T22:53:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ik87sr/simplexity_luminosity_progressive_rock_2011/"> <img src="https://external-preview.redd.it/D19tItFgh5N-qesRWfbOiVh0uOxcsOyKMD8lN1_rje0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3ffd3f8a10a7ae3062d854fb4614b3477068a046" alt="SimpleXity - Luminosity [Progressive Rock] (2011)" title="SimpleXity - Luminosity [Progressive Rock] (2011)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ordinary_Row_2119"> /u/Ordinary_Row_2119 </a> <br/> <span><a href="https://youtu.be/GEaNpIkCsNA?si=ux4G4Dfa9Pla89kt">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ik87sr/simplexity_luminosity_progressive_rock_2011/">[comments]</a></span> </td></tr></table>
+
+## Lowswimmer — IRL [indie folk/electronica](2025)
+ - [https://www.reddit.com/r/listentothis/comments/1ik7n6d/lowswimmer_irl_indie_folkelectronica2025](https://www.reddit.com/r/listentothis/comments/1ik7n6d/lowswimmer_irl_indie_folkelectronica2025)
+ - RSS feed: $source
+ - date published: 2025-02-07T22:28:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ik7n6d/lowswimmer_irl_indie_folkelectronica2025/"> <img src="https://external-preview.redd.it/eolIr6snBZ9Na7fZhPMk_K4IqYfGuUn4gS10-IEOEHg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6cdbbacbe40a8269b571f0b53fe856c3b514f25e" alt="Lowswimmer — IRL [indie folk/electronica](2025)" title="Lowswimmer — IRL [indie folk/electronica](2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EatenByToasters"> /u/EatenByToasters </a> <br/> <span><a href="https://youtu.be/zbXFe-B3MXs?si=QY8CEPoPFA9KSzFF">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ik7n6d/lowswimmer_irl_indie_folkelectronica2025/">[comments]</a></span> </td></tr></table>
+
+## Hypermass - Headcase [Progressive Groove Death Metal] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1ik1s2t/hypermass_headcase_progressive_groove_death_metal](https://www.reddit.com/r/listentothis/comments/1ik1s2t/hypermass_headcase_progressive_groove_death_metal)
+ - RSS feed: $source
+ - date published: 2025-02-07T18:21:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ik1s2t/hypermass_headcase_progressive_groove_death_metal/"> <img src="https://external-preview.redd.it/_Y7TS98OOQADLzIAP42X6vr7I8I0uXpT4UfWQwk2VzA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d7ff043f2467e0676658b754c4998260e344e3f7" alt="Hypermass - Headcase [Progressive Groove Death Metal] (2025)" title="Hypermass - Headcase [Progressive Groove Death Metal] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nekrokosmos"> /u/nekrokosmos </a> <br/> <span><a href="https://www.youtube.com/watch?v=esWvghMyQ5w">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ik1s2t/hypermass_headcase_progressive_groove_death_metal/">[comments]</a></span> </td></tr></table>
+
+## Los Jefes -- Final Fantasy VII: Beats, Rhymes & Materia [Rap] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1ik1kqy/los_jefes_final_fantasy_vii_beats_rhymes_materia](https://www.reddit.com/r/listentothis/comments/1ik1kqy/los_jefes_final_fantasy_vii_beats_rhymes_materia)
+ - RSS feed: $source
+ - date published: 2025-02-07T18:13:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ik1kqy/los_jefes_final_fantasy_vii_beats_rhymes_materia/"> <img src="https://external-preview.redd.it/r0Kbv1CxGsFcPdYyqt_zXdv79vj-j8tQ_5kGZNcWX-k.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b1f28ce1be8f95221386c3c17cc734cb1bbaf3e6" alt="Los Jefes -- Final Fantasy VII: Beats, Rhymes &amp; Materia [Rap] (2025)" title="Los Jefes -- Final Fantasy VII: Beats, Rhymes &amp; Materia [Rap] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thaonlyscarface"> /u/thaonlyscarface </a> <br/> <span><a href="https://soundcloud.com/losjefesproductions/sets/final-fantasy-vii-beats-rhymes-materia">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ik1kqy/los_jefes_final_fantasy_vii_beats_rhymes_materia/">[comments]</a></span> </td></tr></table>
+
+## Dappo - Problemi [Hip-Hop/Rap] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1ik1j1k/dappo_problemi_hiphoprap_2025](https://www.reddit.com/r/listentothis/comments/1ik1j1k/dappo_problemi_hiphoprap_2025)
+ - RSS feed: $source
+ - date published: 2025-02-07T18:11:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ik1j1k/dappo_problemi_hiphoprap_2025/"> <img src="https://external-preview.redd.it/TyDBYCCYnPpAUUwm4NzowSvle7PF80ZP-wTTRQ9Z6CY.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=8c4d800804f6f7bbb1c1a45ad60298fcf756e351" alt="Dappo - Problemi [Hip-Hop/Rap] (2025)" title="Dappo - Problemi [Hip-Hop/Rap] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NONPIOVEPIUUUUUUUUUU"> /u/NONPIOVEPIUUUUUUUUUU </a> <br/> <span><a href="https://open.spotify.com/intl-it/track/0uvvWQye3IYSYggBg6HevU?si=0dfe4722902a40a4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ik1j1k/dappo_problemi_hiphoprap_2025/">[comments]</a></span> </td></tr></table>
+
+## yet i let you notice - 牧師曰く [J Rock/Shoegaze/Math Rock](2018)
+ - [https://www.reddit.com/r/listentothis/comments/1ijz93m/yet_i_let_you_notice_牧師曰く_j_rockshoegazemath](https://www.reddit.com/r/listentothis/comments/1ijz93m/yet_i_let_you_notice_牧師曰く_j_rockshoegazemath)
+ - RSS feed: $source
+ - date published: 2025-02-07T16:38:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ijz93m/yet_i_let_you_notice_牧師曰く_j_rockshoegazemath/"> <img src="https://external-preview.redd.it/otuV1cqaqHNj_f2BiS4zgeqYgOuLL5YjlS4VQWZudVw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=abb19c1189ec7b6f954b465452ab9091b61f2a7c" alt="yet i let you notice - 牧師曰く [J Rock/Shoegaze/Math Rock](2018)" title="yet i let you notice - 牧師曰く [J Rock/Shoegaze/Math Rock](2018)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mugi-ya"> /u/mugi-ya </a> <br/> <span><a href="https://youtu.be/MxwGDOwHy_E?si=Z4y4M-wKLf92Eo8C">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ijz93m/yet_i_let_you_notice_牧師曰く_j_rockshoegazemath/">[comments]</a></span> </td></tr></table>
+
+## Jess Locke -- Everybody's Going To The Same Place [indie rock / singer-songwriter] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1ijynl7/jess_locke_everybodys_going_to_the_same_place](https://www.reddit.com/r/listentothis/comments/1ijynl7/jess_locke_everybodys_going_to_the_same_place)
+ - RSS feed: $source
+ - date published: 2025-02-07T16:14:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ijynl7/jess_locke_everybodys_going_to_the_same_place/"> <img src="https://external-preview.redd.it/d_LVMVbfagCYw38dvyivbsH03IUP1nxQo6tCGJItr2c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=acf5bf6dec3eb1d58c5b4e2077b9ed15834ad076" alt="Jess Locke -- Everybody's Going To The Same Place [indie rock / singer-songwriter] (2024)" title="Jess Locke -- Everybody's Going To The Same Place [indie rock / singer-songwriter] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/qazz23"> /u/qazz23 </a> <br/> <span><a href="https://jesslocke.bandcamp.com/track/everybodys-going-to-the-same-place">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ijynl7/jess_locke_everybodys_going_to_the_same_place/">[comments]</a></span> </td></tr></table>
+
+## Second Face - Once Again [Skate Punk] (2001)
+ - [https://www.reddit.com/r/listentothis/comments/1ijvag6/second_face_once_again_skate_punk_2001](https://www.reddit.com/r/listentothis/comments/1ijvag6/second_face_once_again_skate_punk_2001)
+ - RSS feed: $source
+ - date published: 2025-02-07T13:44:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ijvag6/second_face_once_again_skate_punk_2001/"> <img src="https://external-preview.redd.it/sfHpzeW8zLQdOI-o7eR47Z1uNWFZ6s5zQ3tiSSiFp0o.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8f82010ec4e31ec05a017b22fe84392db59b45bb" alt="Second Face - Once Again [Skate Punk] (2001)" title="Second Face - Once Again [Skate Punk] (2001)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Safe_Caterpillar8339"> /u/Safe_Caterpillar8339 </a> <br/> <span><a href="https://youtu.be/4jA45874C6Y?si=PjPsUsXfLvkFd_05">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ijvag6/second_face_once_again_skate_punk_2001/">[comments]</a></span> </td></tr></table>
+
+## k3 - pretty like me [Hip-Hop/Rap] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1ijpruz/k3_pretty_like_me_hiphoprap_2025](https://www.reddit.com/r/listentothis/comments/1ijpruz/k3_pretty_like_me_hiphoprap_2025)
+ - RSS feed: $source
+ - date published: 2025-02-07T07:43:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ijpruz/k3_pretty_like_me_hiphoprap_2025/"> <img src="https://external-preview.redd.it/cNk6u67CQZYhibOQ8nJh0IKflPzYEizFQroJpF0eCro.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=79e7e786bc421b10faba05ac64b2de8ad34fe1bc" alt="k3 - pretty like me [Hip-Hop/Rap] (2025)" title="k3 - pretty like me [Hip-Hop/Rap] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/host4isokay"> /u/host4isokay </a> <br/> <span><a href="https://youtu.be/IZdxA5FOymw?si=2FRz4k63563WDW1F">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ijpruz/k3_pretty_like_me_hiphoprap_2025/">[comments]</a></span> </td></tr></table>
+
+## 808KAY - Fake Friends [Hip-Hop/Rap] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1ijpqtz/808kay_fake_friends_hiphoprap_2025](https://www.reddit.com/r/listentothis/comments/1ijpqtz/808kay_fake_friends_hiphoprap_2025)
+ - RSS feed: $source
+ - date published: 2025-02-07T07:41:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ijpqtz/808kay_fake_friends_hiphoprap_2025/"> <img src="https://external-preview.redd.it/f6FlpTBM3Kg1gkMp1Ny6PkPJHfy2GWdJlPbSnS3krlo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6f42279d6747ff1d5dfc16edccf6160c61c1f330" alt="808KAY - Fake Friends [Hip-Hop/Rap] (2025)" title="808KAY - Fake Friends [Hip-Hop/Rap] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/host4isokay"> /u/host4isokay </a> <br/> <span><a href="https://youtu.be/n4RHs62Ybqg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ijpqtz/808kay_fake_friends_hiphoprap_2025/">[comments]</a></span> </td></tr></table>
+
+## LouTribe Jigg ft. Jai Imani -- Area Code [Hip Hop] (2023)
+ - [https://www.reddit.com/r/listentothis/comments/1ijpk2k/loutribe_jigg_ft_jai_imani_area_code_hip_hop_2023](https://www.reddit.com/r/listentothis/comments/1ijpk2k/loutribe_jigg_ft_jai_imani_area_code_hip_hop_2023)
+ - RSS feed: $source
+ - date published: 2025-02-07T07:27:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ijpk2k/loutribe_jigg_ft_jai_imani_area_code_hip_hop_2023/"> <img src="https://external-preview.redd.it/v7D-e4IEzcMaG4AinmRO55N_bmnSNcfuAwH0U4xMWx0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=edd5bfc3ce567536765981db8854ef64d8d779fc" alt="LouTribe Jigg ft. Jai Imani -- Area Code [Hip Hop] (2023)" title="LouTribe Jigg ft. Jai Imani -- Area Code [Hip Hop] (2023)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheProcrastafarian"> /u/TheProcrastafarian </a> <br/> <span><a href="https://youtu.be/jLGLWXJGWpU?si=awbF22uAbP9NXHU7">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ijpk2k/loutribe_jigg_ft_jai_imani_area_code_hip_hop_2023/">[comments]</a></span> </td></tr></table>
+
+## Ask me anything
+ - [https://www.reddit.com/r/listentothis/comments/1ijp137/ask_me_anything](https://www.reddit.com/r/listentothis/comments/1ijp137/ask_me_anything)
+ - RSS feed: $source
+ - date published: 2025-02-07T06:49:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>What if the things you create, the things you dream of, start to manifest in ways you never expected? Before I even released my EP Hands on Sunday, I had a vision—one that seemed like just creative inspiration at the time. But then… life started unfolding in ways that mirrored the fire, the struggle, and the faith I put into my music. </p> <p><a href="https://youtu.be/ke2Vq3JqNSk?si=Saiyj790Gaqxh3zu">https://youtu.be/ke2Vq3JqNSk?si=Saiyj790Gaqxh3zu</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/toomanywallsbroken"> /u/toomanywallsbroken </a> <br/> <span><a href="https://www.reddit.com/r/listentothis/comments/1ijp137/ask_me_anything/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ijp137/ask_me_anything/">[comments]</a></span>
+
+## Jefre Cantu-Ledesma - Love After Love [Ambient, Experimental Drone] (2015)
+ - [https://www.reddit.com/r/listentothis/comments/1ijo0ne/jefre_cantuledesma_love_after_love_ambient](https://www.reddit.com/r/listentothis/comments/1ijo0ne/jefre_cantuledesma_love_after_love_ambient)
+ - RSS feed: $source
+ - date published: 2025-02-07T05:42:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ijo0ne/jefre_cantuledesma_love_after_love_ambient/"> <img src="https://external-preview.redd.it/OEc0mVPc29DsvoN-G7hioGtVq6IlrFBkXZX-17JecW0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4656ccfe4d295ba3af9d66c91fbb7976a03b2888" alt="Jefre Cantu-Ledesma - Love After Love [Ambient, Experimental Drone] (2015)" title="Jefre Cantu-Ledesma - Love After Love [Ambient, Experimental Drone] (2015)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WalaAkongPaa"> /u/WalaAkongPaa </a> <br/> <span><a href="https://www.youtube.com/watch?v=ev_-g6hSQSI">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ijo0ne/jefre_cantuledesma_love_after_love_ambient/">[comments]</a></span> </td></tr></table>
+
+## Ugly Chords — Mushroom Cult [noise rock/indie rock](2015)
+ - [https://www.reddit.com/r/listentothis/comments/1ijn8at/ugly_chords_mushroom_cult_noise_rockindie_rock2015](https://www.reddit.com/r/listentothis/comments/1ijn8at/ugly_chords_mushroom_cult_noise_rockindie_rock2015)
+ - RSS feed: $source
+ - date published: 2025-02-07T04:56:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ijn8at/ugly_chords_mushroom_cult_noise_rockindie_rock2015/"> <img src="https://external-preview.redd.it/RlIUlhIC2ywwiK1cH4sLo0daohcH6X3y3YA0wXVUU3M.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2d3c2b4258c09438cae6e0015930a82f5bd7d9b2" alt="Ugly Chords — Mushroom Cult [noise rock/indie rock](2015)" title="Ugly Chords — Mushroom Cult [noise rock/indie rock](2015)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/6demon9egg"> /u/6demon9egg </a> <br/> <span><a href="https://youtu.be/MPat7fCVDI8?si=d_Qf__HLYCXh5sbS">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ijn8at/ugly_chords_mushroom_cult_noise_rockindie_rock2015/">[comments]</a></span> </td></tr></table>
+
+## Future Coffins -- CRYOGENIC [Hard Dance / EDM] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1ijn6ad/future_coffins_cryogenic_hard_dance_edm_2025](https://www.reddit.com/r/listentothis/comments/1ijn6ad/future_coffins_cryogenic_hard_dance_edm_2025)
+ - RSS feed: $source
+ - date published: 2025-02-07T04:52:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ijn6ad/future_coffins_cryogenic_hard_dance_edm_2025/"> <img src="https://external-preview.redd.it/T2ZGob3fgEczd9_BAZ3OMXjjFiOSO_k5c-8ycAwgg-Y.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ed49deb430a37865c32c852a34978a93a066942b" alt="Future Coffins -- CRYOGENIC [Hard Dance / EDM] (2025)" title="Future Coffins -- CRYOGENIC [Hard Dance / EDM] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cospow7"> /u/cospow7 </a> <br/> <span><a href="https://open.spotify.com/track/1DXO7lTm8TEx83mB8xYyPv?si=6mId0QioRQGHoGc3CQ6RBA&amp;context=spotify%3Aartist%3A4XWDwGn0YdLJF74jRrZ5rY">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ijn6ad/future_coffins_cryogenic_hard_dance_edm_2025/">[comments]</a></span> </td></tr></table>
+
+## Ovalofsound -- Love [alt rock] (2017)
+ - [https://www.reddit.com/r/listentothis/comments/1ijmwf2/ovalofsound_love_alt_rock_2017](https://www.reddit.com/r/listentothis/comments/1ijmwf2/ovalofsound_love_alt_rock_2017)
+ - RSS feed: $source
+ - date published: 2025-02-07T04:36:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ijmwf2/ovalofsound_love_alt_rock_2017/"> <img src="https://external-preview.redd.it/Qwo13ilAyP_CGiR4grhOU3K17ld3SRu7eZtHqvgOjf4.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=2946dafc28f9eed93524c0b560235f8549d156c1" alt="Ovalofsound -- Love [alt rock] (2017)" title="Ovalofsound -- Love [alt rock] (2017)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bjornnaudio"> /u/bjornnaudio </a> <br/> <span><a href="https://open.spotify.com/track/6fIQeFR9Iss7a7fNd10WMg?si=5e56Tf-VRfiRpeG2aNYq8A&amp;context=spotify%3Aalbum%3A1Ukc1t9xiSUZwzxJte4Ek0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ijmwf2/ovalofsound_love_alt_rock_2017/">[comments]</a></span> </td></tr></table>
+
+## Bedridden -- Etch [shoegaze] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1ijmdyu/bedridden_etch_shoegaze_2025](https://www.reddit.com/r/listentothis/comments/1ijmdyu/bedridden_etch_shoegaze_2025)
+ - RSS feed: $source
+ - date published: 2025-02-07T04:08:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ijmdyu/bedridden_etch_shoegaze_2025/"> <img src="https://external-preview.redd.it/ALq5y-87aBUcSKV5gj9o8t24pNcZXDiLq4zX6x6qUZA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b1b93f4fcce0429bc445522e2f308a0313e36fae" alt="Bedridden -- Etch [shoegaze] (2025)" title="Bedridden -- Etch [shoegaze] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mkremins"> /u/mkremins </a> <br/> <span><a href="https://www.youtube.com/watch?v=H4yVzbTNy0s">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ijmdyu/bedridden_etch_shoegaze_2025/">[comments]</a></span> </td></tr></table>
+
+## Telephunken -- El Tumbero [Breakbeat / Latin] (2005)
+ - [https://www.reddit.com/r/listentothis/comments/1ijketh/telephunken_el_tumbero_breakbeat_latin_2005](https://www.reddit.com/r/listentothis/comments/1ijketh/telephunken_el_tumbero_breakbeat_latin_2005)
+ - RSS feed: $source
+ - date published: 2025-02-07T02:23:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ijketh/telephunken_el_tumbero_breakbeat_latin_2005/"> <img src="https://external-preview.redd.it/PGpSRPDgpR3Lxmru3J4keLQCbtytJ73L_OALVFGKTCM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6e3d21bcbbe9625cbf747be4ff15388821160bd7" alt="Telephunken -- El Tumbero [Breakbeat / Latin] (2005)" title="Telephunken -- El Tumbero [Breakbeat / Latin] (2005)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mear"> /u/Mear </a> <br/> <span><a href="https://www.youtube.com/watch?v=2SlgrLm8L5Q">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ijketh/telephunken_el_tumbero_breakbeat_latin_2005/">[comments]</a></span> </td></tr></table>
+
+## The Passions - Bachelor Girls [New Wave / Dream Pop / Alternative] (1981)
+ - [https://www.reddit.com/r/listentothis/comments/1ijk8yd/the_passions_bachelor_girls_new_wave_dream_pop](https://www.reddit.com/r/listentothis/comments/1ijk8yd/the_passions_bachelor_girls_new_wave_dream_pop)
+ - RSS feed: $source
+ - date published: 2025-02-07T02:15:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ijk8yd/the_passions_bachelor_girls_new_wave_dream_pop/"> <img src="https://external-preview.redd.it/btXHrG5_eEI8PpbCkUtByaKuAT_ATtU-ehLZrcwzrNE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=019c07d57a4adae22c7e623effad76be1dfeff42" alt="The Passions - Bachelor Girls [New Wave / Dream Pop / Alternative] (1981)" title="The Passions - Bachelor Girls [New Wave / Dream Pop / Alternative] (1981)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/neuro_08"> /u/neuro_08 </a> <br/> <span><a href="https://www.youtube.com/watch?v=93ctM9g0_gI">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ijk8yd/the_passions_bachelor_girls_new_wave_dream_pop/">[comments]</a></span> </td></tr></table>
+
+## LaZOO - Let's Make Love In A Microwave [Art Rock / New Wave] (1981)
+ - [https://www.reddit.com/r/listentothis/comments/1iji5xe/lazoo_lets_make_love_in_a_microwave_art_rock_new](https://www.reddit.com/r/listentothis/comments/1iji5xe/lazoo_lets_make_love_in_a_microwave_art_rock_new)
+ - RSS feed: $source
+ - date published: 2025-02-07T00:31:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iji5xe/lazoo_lets_make_love_in_a_microwave_art_rock_new/"> <img src="https://external-preview.redd.it/62_EQYmhB6FfilVmLA3LAnb8rJ0UQh8jnaG0_6T0lFc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2c427e012700ee0b6d4b0e32e0705fbb1f6eed82" alt="LaZOO - Let's Make Love In A Microwave [Art Rock / New Wave] (1981)" title="LaZOO - Let's Make Love In A Microwave [Art Rock / New Wave] (1981)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bbyun87"> /u/Bbyun87 </a> <br/> <span><a href="https://www.youtube.com/watch?v=_-YQ9-xFVrs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iji5xe/lazoo_lets_make_love_in_a_microwave_art_rock_new/">[comments]</a></span> </td></tr></table>
+
+## Stanley Cowell - Abscretions [Jazz/Solo Piano] (1973)
+ - [https://www.reddit.com/r/listentothis/comments/1ijht98/stanley_cowell_abscretions_jazzsolo_piano_1973](https://www.reddit.com/r/listentothis/comments/1ijht98/stanley_cowell_abscretions_jazzsolo_piano_1973)
+ - RSS feed: $source
+ - date published: 2025-02-07T00:14:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ijht98/stanley_cowell_abscretions_jazzsolo_piano_1973/"> <img src="https://external-preview.redd.it/xabm7KCqnHiOhM_CiuTvjtzhRcTCY325anH8gmGp9wY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e89d12ae5641ca8601230423c1bcf84d926eecb8" alt="Stanley Cowell - Abscretions [Jazz/Solo Piano] (1973)" title="Stanley Cowell - Abscretions [Jazz/Solo Piano] (1973)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/20XXanticipator"> /u/20XXanticipator </a> <br/> <span><a href="https://www.youtube.com/watch?v=Thl3M8cz9cM">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ijht98/stanley_cowell_abscretions_jazzsolo_piano_1973/">[comments]</a></span> </td></tr></table>
+
