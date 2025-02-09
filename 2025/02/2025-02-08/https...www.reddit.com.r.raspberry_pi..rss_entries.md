@@ -1,0 +1,51 @@
+# Source:Raspberry Pi - More than just magic mirrors and kodi!, URL:https://www.reddit.com/r/raspberry_pi/.rss, language:en
+
+## How do I send a disk encryption key remotely via SSH at reboot?
+ - [https://www.reddit.com/r/raspberry_pi/comments/1iku078/how_do_i_send_a_disk_encryption_key_remotely_via](https://www.reddit.com/r/raspberry_pi/comments/1iku078/how_do_i_send_a_disk_encryption_key_remotely_via)
+ - RSS feed: $source
+ - date published: 2025-02-08T18:29:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>If someone turns off my Raspberry Pi and mounts the disk, they have access to the whole filesystem. This isn&#39;t causing me real problems but it&#39;s where my tinkering has taken me. JTAG exists but it&#39;s much more specialised than just mounting a disk.</p> <p>I&#39;m trying to setup Dropbear so that I can SSH into my Raspberry Pi 4 before the disk is mounted and provide the key for disk encryption, so I can can decrypt the root partition before booting the root filesystem.</p> <p>Initially I&#39;m trying to use Dropbear without disk encryption.</p> <p>I&#39;m finding that setting <code>break=premount</code> in the /boot/cmdline.txt file is causing the system to crash and reboot.</p> <p>Has anyone got this working? Any tips or pointers?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/XiPingTing"> /u/XiPingTing </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1iku078/how_do_i_send_a_
+
+## My ADS-B Plane Tracker and Weather Station!
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ikr840/my_adsb_plane_tracker_and_weather_station](https://www.reddit.com/r/raspberry_pi/comments/1ikr840/my_adsb_plane_tracker_and_weather_station)
+ - RSS feed: $source
+ - date published: 2025-02-08T16:33:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1ikr840/my_adsb_plane_tracker_and_weather_station/"> <img src="https://b.thumbs.redditmedia.com/pedZhbnzJzQjb57nKI8f7me3-E6oVhdngQtZemsaYGI.jpg" alt="My ADS-B Plane Tracker and Weather Station!" title="My ADS-B Plane Tracker and Weather Station!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SwadeWhite"> /u/SwadeWhite </a> <br/> <span><a href="https://www.reddit.com/gallery/1ikr840">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1ikr840/my_adsb_plane_tracker_and_weather_station/">[comments]</a></span> </td></tr></table>
+
+## Looking for a way to change WiFi on Pi Zero2W running a custom project
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ikpliq/looking_for_a_way_to_change_wifi_on_pi_zero2w](https://www.reddit.com/r/raspberry_pi/comments/1ikpliq/looking_for_a_way_to_change_wifi_on_pi_zero2w)
+ - RSS feed: $source
+ - date published: 2025-02-08T15:22:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am currently running this MLB scoreboard project on a Pi Zero 2W: <a href="https://github.com/MLB-LED-Scoreboard/mlb-led-scoreboard">https://github.com/MLB-LED-Scoreboard/mlb-led-scoreboard</a></p> <p>When I built it, the WiFi was configured in the Raspberrypi Imager so it is currently connected to my network. </p> <p>I would like to ship this to a friend of mine that has little to no tech knowledge, so I am looking for an easy way to let him reconfigure the WiFi to his network.</p> <p>I tried installing RaspAP on it and was able to connect to the WebUI and try to connect to another WiFi network, but I think because I am using the WiFi chip in client and AP mode, the new settings did not take. I was going to try with nodogsplash but I think that will be the same.</p> <p>Any suggestions would be greatly appreciated. Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ando01"> /u/ando01 </a> <br/> <span><a hr
+
+## Raspberry Pi QEMU keyboard
+ - [https://www.reddit.com/r/raspberry_pi/comments/1iko6y0/raspberry_pi_qemu_keyboard](https://www.reddit.com/r/raspberry_pi/comments/1iko6y0/raspberry_pi_qemu_keyboard)
+ - RSS feed: $source
+ - date published: 2025-02-08T14:16:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m trying to run a Raspberry Pi image in QEMU. I&#39;ve already extracted the kernel and device tree blob from the boot partition, and everything is running as it should except keyboard inputs.</p> <p>I&#39;m launching QEMU with this command:</p> <p><code>qemu-system-aarch64 -M raspi4b -kernel kernel8.img -dtb bcm2711-rpi-4-b.dtb -drive &quot;file=root.img,id=mysdcard,if=sd,format=raw&quot; -append &quot;root=/dev/mmcblk1p2 rootfstype=ext4 rootwait&quot; -device usb-kbd</code></p> <p>and when I run info usb in the QEMU console I get this output:</p> <p><code>Device 0.0, Port 1, Speed 12 Mb/s, Product QEMU USB Hub</code></p> <p><code>Device 0.0, Port 1.1, Speed 12 Mb/s, Product QEMU USB Keyboard</code></p> <p>Does anybody know what I need to do to get keyboard inputs to work?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GameUnlucky"> /u/GameUnlucky </a> <br/> <span><a href="https://www.reddit.com/r/raspbe
+
+## picamera2( ) : RuntimeError: Failed to acquire camera: Device or resource busy
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ikhvpv/picamera2_runtimeerror_failed_to_acquire_camera](https://www.reddit.com/r/raspberry_pi/comments/1ikhvpv/picamera2_runtimeerror_failed_to_acquire_camera)
+ - RSS feed: $source
+ - date published: 2025-02-08T07:26:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I am currently working my rpi camera V2.1 and integrate it in my flask application. this is the code</p> <pre><code>from flask import Flask, Response, render_template import cv2 import numpy as np from picamera2 import Picamera2 import atexit app = Flask(__name__) # Initialize Raspberry Pi Camera picam2 = Picamera2() picam2.configure(picam2.create_preview_configuration(main={&quot;size&quot;: (640, 480)})) picam2.start() try: picam2.stop() except: pass def generate_frames(): &quot;&quot;&quot;Capture frames and encode as JPEG&quot;&quot;&quot; while True: frame = picam2.capture_array() # Capture frame as a NumPy array frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB) # Convert color format _, buffer = cv2.imencode(&#39;.jpg&#39;, frame) # Encode as JPEG frame_bytes = buffer.tobytes() # Convert to bytes # Yield frame in multipart format yield (b&#39;--frame\r\n&#39; b&#39;Content-Type: image/jpeg\r\n\r\n&#39; + frame_bytes + b&#39;\r\n&#39;) def c
+
+## ssh suddenly quit worrying
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ikczhz/ssh_suddenly_quit_worrying](https://www.reddit.com/r/raspberry_pi/comments/1ikczhz/ssh_suddenly_quit_worrying)
+ - RSS feed: $source
+ - date published: 2025-02-08T02:41:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have 4 Raspberry Pi 4&#39;&#39;s, all virtually identical, all connected to each other through my home network. They could all &quot;ssh&quot; to each other using public/private keys... Until recently. </p> <p>Now, if you try to ssh from one to another, it just sits there. If I add a few &quot;-v&quot;s, the last thing it shows is: </p> <pre><code>debug3: send packet: type 21 debug1: ssh_packet_send2_wrapped: resetting send seqnr 3 debug2: ssh_set_newkeys: mode 1 debug1: rekey out after 134217728 blocks debug1: SSH2_MSG_NEWKEYS sent debug1: expecting SSH2_MSG_NEWKEYS debug3: receive packet: type 21 debug1: ssh_packet_read_poll2: resetting read seqnr 3 debug1: SSH2_MSG_NEWKEYS received debug2: ssh_set_newkeys: mode 0 debug1: rekey in after 134217728 blocks debug3: ssh_get_authentication_socket_path: path &#39;/tmp/ssh-m8iir5KoPb/agent.3496860&#39; </code></pre> <p>I&#39;ve tried regenerating the public/private keys, and got it working between two of
+
+## Requesting assistance with setting up an ExFAT NFS
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ikbss5/requesting_assistance_with_setting_up_an_exfat_nfs](https://www.reddit.com/r/raspberry_pi/comments/1ikbss5/requesting_assistance_with_setting_up_an_exfat_nfs)
+ - RSS feed: $source
+ - date published: 2025-02-08T01:40:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello all,<br/> I am attempting to set up a raspberry pi cluster. I have Kubernetes set up appropriately, but I&#39;m having difficulty with setting up my ExFat NFS. I have tried using nfs-server but it says that I can&#39;t do ExFAT because it&#39;s not supported (based upon this <a href="https://forums.raspberrypi.com/viewtopic.php?t=309384">https://forums.raspberrypi.com/viewtopic.php?t=309384</a>).<br/> I came across this page, <a href="https://forums.raspberrypi.com/viewtopic.php?t=309384">https://forums.raspberrypi.com/viewtopic.php?t=309384</a>, and it talks about nsf-ganesha. I thought I&#39;d try it but running into issues.<br/> I have my external ExFAT server mounted up to my primary raspberry pi and can see it from my primary. When I try to access it from my other severs it doesn&#39;t seem to recognize it. I even tried to see if it&#39;s showing on my primary server with <code>showmount -e</code> <a href="http://10.11.11.11"><code>10.11.1
+

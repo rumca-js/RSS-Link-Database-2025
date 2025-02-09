@@ -1,0 +1,240 @@
+# Source:World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Japan faces Trump's reciprocal tariffs on farm goods and autos
+ - [https://www.reddit.com/r/worldnews/comments/1ikyjat/japan_faces_trumps_reciprocal_tariffs_on_farm](https://www.reddit.com/r/worldnews/comments/1ikyjat/japan_faces_trumps_reciprocal_tariffs_on_farm)
+ - RSS feed: $source
+ - date published: 2025-02-08T21:44:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikyjat/japan_faces_trumps_reciprocal_tariffs_on_farm/"> <img src="https://external-preview.redd.it/Kou4brJ6uaN5Oqv11helgw3rdf6nxdFRlbbZgMnGLnI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0593495bd8ae2c4eec11d333eec96752e7d38ecc" alt="Japan faces Trump's reciprocal tariffs on farm goods and autos" title="Japan faces Trump's reciprocal tariffs on farm goods and autos" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/maxleslies"> /u/maxleslies </a> <br/> <span><a href="https://asia.nikkei.com/Economy/Trade-war/Japan-faces-Trump-s-reciprocal-tariffs-on-farm-goods-and-autos">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikyjat/japan_faces_trumps_reciprocal_tariffs_on_farm/">[comments]</a></span> </td></tr></table>
+
+## At least 200,000 protesters rally in Munich against far-right AfD ahead of German election
+ - [https://www.reddit.com/r/worldnews/comments/1ikyib2/at_least_200000_protesters_rally_in_munich](https://www.reddit.com/r/worldnews/comments/1ikyib2/at_least_200000_protesters_rally_in_munich)
+ - RSS feed: $source
+ - date published: 2025-02-08T21:43:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikyib2/at_least_200000_protesters_rally_in_munich/"> <img src="https://external-preview.redd.it/Y2qEHm1MlQ2XHipgC133o1-NvRBmZqRaNv8LJ6sml0s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=332ca40ebaa802eb34d069233acb1a599b666d49" alt="At least 200,000 protesters rally in Munich against far-right AfD ahead of German election" title="At least 200,000 protesters rally in Munich against far-right AfD ahead of German election" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/baby_budda"> /u/baby_budda </a> <br/> <span><a href="https://apnews.com/article/germany-munich-election-afd-protests-29cdd1441e670a9f13394d2a44f035a5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikyib2/at_least_200000_protesters_rally_in_munich/">[comments]</a></span> </td></tr></table>
+
+## HIMARS Strike 'Eliminated' Entire Russian Command Post in Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1ikwnx0/himars_strike_eliminated_entire_russian_command](https://www.reddit.com/r/worldnews/comments/1ikwnx0/himars_strike_eliminated_entire_russian_command)
+ - RSS feed: $source
+ - date published: 2025-02-08T20:22:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikwnx0/himars_strike_eliminated_entire_russian_command/"> <img src="https://external-preview.redd.it/EIUy8_It0t2bBkjgCbiUo6cM1AIGlxyOPrxzKQtd7Ew.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=029f5694c21c821484c7a2b43021e12920119102" alt="HIMARS Strike 'Eliminated' Entire Russian Command Post in Ukraine" title="HIMARS Strike 'Eliminated' Entire Russian Command Post in Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eaglemaxie"> /u/eaglemaxie </a> <br/> <span><a href="https://www.newsweek.com/himars-russia-ukraine-video-2028235">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikwnx0/himars_strike_eliminated_entire_russian_command/">[comments]</a></span> </td></tr></table>
+
+## Trillions at Stake as Lawsuit Claims Meta Trained AI on Millions of Stolen Books
+ - [https://www.reddit.com/r/worldnews/comments/1ikuwbn/trillions_at_stake_as_lawsuit_claims_meta_trained](https://www.reddit.com/r/worldnews/comments/1ikuwbn/trillions_at_stake_as_lawsuit_claims_meta_trained)
+ - RSS feed: $source
+ - date published: 2025-02-08T19:07:00+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/LukeNarwhal"> /u/LukeNarwhal </a> <br/> <span><a href="https://www.perplexity.ai/page/trillions-at-stake-lawsuit-cla-O9jmsE0tR2ORB56NC7tGcA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikuwbn/trillions_at_stake_as_lawsuit_claims_meta_trained/">[comments]</a></span>
+
+## Protesters clash with police as thousands rally outside proposed site for new Chinese ‘mega-embassy’ in London
+ - [https://www.reddit.com/r/worldnews/comments/1ikubh5/protesters_clash_with_police_as_thousands_rally](https://www.reddit.com/r/worldnews/comments/1ikubh5/protesters_clash_with_police_as_thousands_rally)
+ - RSS feed: $source
+ - date published: 2025-02-08T18:42:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikubh5/protesters_clash_with_police_as_thousands_rally/"> <img src="https://external-preview.redd.it/5fhXkUjxGW6qlTCrhj2nE4CqZQGEbbzocGyM8WMhJgk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=687ca2a471b054c3aa42d0ee558ad951fd15bb01" alt="Protesters clash with police as thousands rally outside proposed site for new Chinese ‘mega-embassy’ in London" title="Protesters clash with police as thousands rally outside proposed site for new Chinese ‘mega-embassy’ in London" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Acrzyguy"> /u/Acrzyguy </a> <br/> <span><a href="https://www.lbc.co.uk/news/uk/protesters-clash-police-thousands-rally-proposed-china-embassy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikubh5/protesters_clash_with_police_as_thousands_rally/">[comments]</a></span> </td></tr></table>
+
+## 200,000 march against far right in Munich
+ - [https://www.reddit.com/r/worldnews/comments/1iksvl0/200000_march_against_far_right_in_munich](https://www.reddit.com/r/worldnews/comments/1iksvl0/200000_march_against_far_right_in_munich)
+ - RSS feed: $source
+ - date published: 2025-02-08T17:42:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iksvl0/200000_march_against_far_right_in_munich/"> <img src="https://external-preview.redd.it/VNCcXOKsh7beCbdKw_4bsnFsiRxU71m6HA53wWi5MR0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=61edbaab7a5f24347121b7ce3dc559685ec53827" alt="200,000 march against far right in Munich" title="200,000 march against far right in Munich" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cascouverite"> /u/Cascouverite </a> <br/> <span><a href="https://www.lemonde.fr/en/europe/article/2025/02/08/200-000-march-against-far-right-in-munich_6737937_143.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iksvl0/200000_march_against_far_right_in_munich/">[comments]</a></span> </td></tr></table>
+
+## Canada seeks stronger EU trade ties in face of Trump tariffs
+ - [https://www.reddit.com/r/worldnews/comments/1ikssf6/canada_seeks_stronger_eu_trade_ties_in_face_of](https://www.reddit.com/r/worldnews/comments/1ikssf6/canada_seeks_stronger_eu_trade_ties_in_face_of)
+ - RSS feed: $source
+ - date published: 2025-02-08T17:39:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikssf6/canada_seeks_stronger_eu_trade_ties_in_face_of/"> <img src="https://external-preview.redd.it/LruoAX25nMriJDfUXM56BVNBVPy5pzFLrPZm_CBjQ9Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=608f51a4cd2e6207bb8d4c5f6084cae1959241b5" alt="Canada seeks stronger EU trade ties in face of Trump tariffs" title="Canada seeks stronger EU trade ties in face of Trump tariffs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/twotwo_twentytwo"> /u/twotwo_twentytwo </a> <br/> <span><a href="https://www.reuters.com/world/americas/canada-seeks-stronger-eu-trade-ties-both-regions-threatened-by-trump-tariffs-2025-02-08/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikssf6/canada_seeks_stronger_eu_trade_ties_in_face_of/">[comments]</a></span> </td></tr></table>
+
+## Tory candidate won’t apologize for joking that polar bears could deal with homeless
+ - [https://www.reddit.com/r/worldnews/comments/1iksd23/tory_candidate_wont_apologize_for_joking_that](https://www.reddit.com/r/worldnews/comments/1iksd23/tory_candidate_wont_apologize_for_joking_that)
+ - RSS feed: $source
+ - date published: 2025-02-08T17:21:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iksd23/tory_candidate_wont_apologize_for_joking_that/"> <img src="https://external-preview.redd.it/VuBPKkgJU5lX3cN1hBgohj8bAGWJBnimFWCoGeQMLPs.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bbc2c6bb854a109c8f4e43d6c0c4351c2aa1c744" alt="Tory candidate won’t apologize for joking that polar bears could deal with homeless" title="Tory candidate won’t apologize for joking that polar bears could deal with homeless" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/A-Wise-Cobbler"> /u/A-Wise-Cobbler </a> <br/> <span><a href="https://www.thespec.com/news/canada/tory-candidate-wont-apologize-for-joking-that-polar-bears-could-deal-with-homeless/article_cdfda333-e6e9-5e5e-b37f-b64c3df13358.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iksd23/tory_candidate_wont_apologize_for_joking_that/">[comments]</a></span> </td></tr></table>
+
+## Russia to Draft 100,000 Troops: “Putin is Not Preparing for Negotiations,” Says Zelenskyy
+ - [https://www.reddit.com/r/worldnews/comments/1ikrk40/russia_to_draft_100000_troops_putin_is_not](https://www.reddit.com/r/worldnews/comments/1ikrk40/russia_to_draft_100000_troops_putin_is_not)
+ - RSS feed: $source
+ - date published: 2025-02-08T16:47:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikrk40/russia_to_draft_100000_troops_putin_is_not/"> <img src="https://external-preview.redd.it/sCyWht5DXFwnAa4IJKpozVtXsjGNiQJ4TLlzhlu0_1g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=628960ffc4a4589d6a8118457f8357c35d5a17f5" alt="Russia to Draft 100,000 Troops: “Putin is Not Preparing for Negotiations,” Says Zelenskyy" title="Russia to Draft 100,000 Troops: “Putin is Not Preparing for Negotiations,” Says Zelenskyy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/die_mannequin"> /u/die_mannequin </a> <br/> <span><a href="https://united24media.com/latest-news/russia-to-draft-100000-troops-putin-is-not-preparing-for-negotiations-says-zelenskyy-5724">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikrk40/russia_to_draft_100000_troops_putin_is_not/">[comments]</a></span> </td></tr></table>
+
+## Why Can't We Be Friends? Canada asks President Trump
+ - [https://www.reddit.com/r/worldnews/comments/1ikr0gv/why_cant_we_be_friends_canada_asks_president_trump](https://www.reddit.com/r/worldnews/comments/1ikr0gv/why_cant_we_be_friends_canada_asks_president_trump)
+ - RSS feed: $source
+ - date published: 2025-02-08T16:24:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikr0gv/why_cant_we_be_friends_canada_asks_president_trump/"> <img src="https://external-preview.redd.it/KXdc7owEH46ex6znt96mcJP2It3htVS-3ViKA06IawQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a6df1171712ba52ab7231674f4a89226c330a9a" alt="Why Can't We Be Friends? Canada asks President Trump" title="Why Can't We Be Friends? Canada asks President Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Prudent_Woodpecker48"> /u/Prudent_Woodpecker48 </a> <br/> <span><a href="https://www.usnews.com/news/national-news/articles/2025-02-06/q-amp-a-canadas-u-n-ambassador-talks-trump-tariffs-why-would-that-make-sense">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikr0gv/why_cant_we_be_friends_canada_asks_president_trump/">[comments]</a></span> </td></tr></table>
+
+## Trump extends ‘national emergency’ declaration for Myanmar
+ - [https://www.reddit.com/r/worldnews/comments/1ikqldv/trump_extends_national_emergency_declaration_for](https://www.reddit.com/r/worldnews/comments/1ikqldv/trump_extends_national_emergency_declaration_for)
+ - RSS feed: $source
+ - date published: 2025-02-08T16:06:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikqldv/trump_extends_national_emergency_declaration_for/"> <img src="https://external-preview.redd.it/AEHTvLOyYeK_1JpOgKd7gexTlZ_L7h1fZB-ToBNVoNQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7286bdc938c1b4d9bc32ddc1416ae047cec5cf35" alt="Trump extends ‘national emergency’ declaration for Myanmar" title="Trump extends ‘national emergency’ declaration for Myanmar" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/davisxal"> /u/davisxal </a> <br/> <span><a href="https://www.rfa.org/english/myanmar/2025/02/07/myanmar-us-emergency-extension/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikqldv/trump_extends_national_emergency_declaration_for/">[comments]</a></span> </td></tr></table>
+
+## Ukraine to Deploy Laser Weapons Against Russian Drones, Commander Says
+ - [https://www.reddit.com/r/worldnews/comments/1ikqia2/ukraine_to_deploy_laser_weapons_against_russian](https://www.reddit.com/r/worldnews/comments/1ikqia2/ukraine_to_deploy_laser_weapons_against_russian)
+ - RSS feed: $source
+ - date published: 2025-02-08T16:02:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikqia2/ukraine_to_deploy_laser_weapons_against_russian/"> <img src="https://external-preview.redd.it/3PxlG86YH2708wl8o9i29_rB47jlYtL7sSS9S7iMAX0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f9403db45eebc7ed8860a9d76022889a09a9ab5" alt="Ukraine to Deploy Laser Weapons Against Russian Drones, Commander Says" title="Ukraine to Deploy Laser Weapons Against Russian Drones, Commander Says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://united24media.com/latest-news/ukraine-to-deploy-laser-weapons-against-russian-drones-commander-says-5723">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikqia2/ukraine_to_deploy_laser_weapons_against_russian/">[comments]</a></span> </td></tr></table>
+
+## State Department announces $7 billion arms sale to Israel, circumventing review process
+ - [https://www.reddit.com/r/worldnews/comments/1ikph3v/state_department_announces_7_billion_arms_sale_to](https://www.reddit.com/r/worldnews/comments/1ikph3v/state_department_announces_7_billion_arms_sale_to)
+ - RSS feed: $source
+ - date published: 2025-02-08T15:16:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikph3v/state_department_announces_7_billion_arms_sale_to/"> <img src="https://external-preview.redd.it/DVFuXnRcAu6ZhuFICJDIYhaSbsZtOTMuIRo1o0XM-B8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=570d1089167b03743e942cc584a410e89e1d1e17" alt="State Department announces $7 billion arms sale to Israel, circumventing review process" title="State Department announces $7 billion arms sale to Israel, circumventing review process" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/s0uthernreaper"> /u/s0uthernreaper </a> <br/> <span><a href="https://www.cnn.com/2025/02/07/politics/us-israel-arms-sale-circumvent-review-process?cid=ios_app">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikph3v/state_department_announces_7_billion_arms_sale_to/">[comments]</a></span> </td></tr></table>
+
+## Zelenskyy confirms a new Ukrainian offensive in Russia's Kursk region
+ - [https://www.reddit.com/r/worldnews/comments/1ikp8hl/zelenskyy_confirms_a_new_ukrainian_offensive_in](https://www.reddit.com/r/worldnews/comments/1ikp8hl/zelenskyy_confirms_a_new_ukrainian_offensive_in)
+ - RSS feed: $source
+ - date published: 2025-02-08T15:05:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikp8hl/zelenskyy_confirms_a_new_ukrainian_offensive_in/"> <img src="https://external-preview.redd.it/KZTp8Sq9oceiPqCcJl7fHwtx7M2nlee9ZT7zcs4rK1E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ccfb7b44fcf00591acc8f3d900c8c5489d1cf89a" alt="Zelenskyy confirms a new Ukrainian offensive in Russia's Kursk region" title="Zelenskyy confirms a new Ukrainian offensive in Russia's Kursk region" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HeavyPea3847"> /u/HeavyPea3847 </a> <br/> <span><a href="https://apnews.com/article/russia-ukraine-north-korea-kursk-de43ba469a070a4700ba26f330131b49">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikp8hl/zelenskyy_confirms_a_new_ukrainian_offensive_in/">[comments]</a></span> </td></tr></table>
+
+## Baltic countries disconnected from Russia's power grid
+ - [https://www.reddit.com/r/worldnews/comments/1ikoos2/baltic_countries_disconnected_from_russias_power](https://www.reddit.com/r/worldnews/comments/1ikoos2/baltic_countries_disconnected_from_russias_power)
+ - RSS feed: $source
+ - date published: 2025-02-08T14:40:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikoos2/baltic_countries_disconnected_from_russias_power/"> <img src="https://external-preview.redd.it/YFWkuvSrBjoqpBGwa0KMZSJ_-vCjC2eTWhrO0ioWJ_8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ab67535404d428d65b20f3ee317689bfa53478d" alt="Baltic countries disconnected from Russia's power grid" title="Baltic countries disconnected from Russia's power grid" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BothZookeepergame612"> /u/BothZookeepergame612 </a> <br/> <span><a href="https://kyivindependent.com/baltic-countries-exit-russias-energy-grid/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikoos2/baltic_countries_disconnected_from_russias_power/">[comments]</a></span> </td></tr></table>
+
+## Indian PM Modi's party set to win election in capital after 27 years out of power
+ - [https://www.reddit.com/r/worldnews/comments/1iknpe1/indian_pm_modis_party_set_to_win_election_in](https://www.reddit.com/r/worldnews/comments/1iknpe1/indian_pm_modis_party_set_to_win_election_in)
+ - RSS feed: $source
+ - date published: 2025-02-08T13:51:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iknpe1/indian_pm_modis_party_set_to_win_election_in/"> <img src="https://external-preview.redd.it/8BUo818BAmOiRgdAIFEoqBbx_VsWXDQHm2trNfGntPI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71602cf1a69313a1f88f4b115463ef3df96b4b3d" alt="Indian PM Modi's party set to win election in capital after 27 years out of power" title="Indian PM Modi's party set to win election in capital after 27 years out of power" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Embire"> /u/Embire </a> <br/> <span><a href="https://www.reuters.com/world/india/indian-pm-modis-party-set-win-election-capital-after-27-years-out-power-2025-02-08/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iknpe1/indian_pm_modis_party_set_to_win_election_in/">[comments]</a></span> </td></tr></table>
+
+## 3 Baltic states disconnect from the Soviet-era grid to merge with the European energy system
+ - [https://www.reddit.com/r/worldnews/comments/1iknalq/3_baltic_states_disconnect_from_the_sovietera](https://www.reddit.com/r/worldnews/comments/1iknalq/3_baltic_states_disconnect_from_the_sovietera)
+ - RSS feed: $source
+ - date published: 2025-02-08T13:30:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iknalq/3_baltic_states_disconnect_from_the_sovietera/"> <img src="https://external-preview.redd.it/q6TzH3wSxIVBUcfyjOPazXvByXZvZdK2_MET8qYRZNY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=863f439e3cb19476187f3c9bba3cee147b775ed4" alt="3 Baltic states disconnect from the Soviet-era grid to merge with the European energy system" title="3 Baltic states disconnect from the Soviet-era grid to merge with the European energy system" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drjjoyner"> /u/drjjoyner </a> <br/> <span><a href="https://www.yahoo.com/news/3-baltic-states-disconnect-soviet-094542757.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iknalq/3_baltic_states_disconnect_from_the_sovietera/">[comments]</a></span> </td></tr></table>
+
+## ‘We Are in Disbelief’: Africa Reels as U.S. Aid Agency Is Dismantled
+ - [https://www.reddit.com/r/worldnews/comments/1ikmll6/we_are_in_disbelief_africa_reels_as_us_aid_agency](https://www.reddit.com/r/worldnews/comments/1ikmll6/we_are_in_disbelief_africa_reels_as_us_aid_agency)
+ - RSS feed: $source
+ - date published: 2025-02-08T12:52:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikmll6/we_are_in_disbelief_africa_reels_as_us_aid_agency/"> <img src="https://external-preview.redd.it/anGTv_Nstr8Nj9a5vXMQuMOUgUJhY7aXD7yXVO5RcJQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3fc6d6af2d33b647bcf0d92df27f982cbeced9c5" alt="‘We Are in Disbelief’: Africa Reels as U.S. Aid Agency Is Dismantled" title="‘We Are in Disbelief’: Africa Reels as U.S. Aid Agency Is Dismantled" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VisibleStranger489"> /u/VisibleStranger489 </a> <br/> <span><a href="https://www.nytimes.com/2025/02/08/world/africa/usaid-africa-trump-musk.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikmll6/we_are_in_disbelief_africa_reels_as_us_aid_agency/">[comments]</a></span> </td></tr></table>
+
+## Baltic nations switch off Russian power grid in 'victory for freedom'
+ - [https://www.reddit.com/r/worldnews/comments/1iklmbt/baltic_nations_switch_off_russian_power_grid_in](https://www.reddit.com/r/worldnews/comments/1iklmbt/baltic_nations_switch_off_russian_power_grid_in)
+ - RSS feed: $source
+ - date published: 2025-02-08T11:50:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iklmbt/baltic_nations_switch_off_russian_power_grid_in/"> <img src="https://external-preview.redd.it/4zLbMQ2mfsyPBtMh9ON5p9a_zIUlqkpvu7tBy2cpRn0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=580b13183165c3a6ee464d0fd0afaf4323d60d48" alt="Baltic nations switch off Russian power grid in 'victory for freedom'" title="Baltic nations switch off Russian power grid in 'victory for freedom'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br/> <span><a href="https://www.telegraph.co.uk/world-news/2025/02/08/baltic-nations-switch-off-russian-power-grid/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iklmbt/baltic_nations_switch_off_russian_power_grid_in/">[comments]</a></span> </td></tr></table>
+
+## German court orders X to hand over election data in legal blow to Musk’s platform
+ - [https://www.reddit.com/r/worldnews/comments/1iklfh0/german_court_orders_x_to_hand_over_election_data](https://www.reddit.com/r/worldnews/comments/1iklfh0/german_court_orders_x_to_hand_over_election_data)
+ - RSS feed: $source
+ - date published: 2025-02-08T11:37:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iklfh0/german_court_orders_x_to_hand_over_election_data/"> <img src="https://external-preview.redd.it/z-fGp_Tr6CieLhNLkhR8uCOcJg5sVy6iIldeYFxHxcU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e239f394f0efdffb0290fd4517a554ed6b70d3e0" alt="German court orders X to hand over election data in legal blow to Musk’s platform" title="German court orders X to hand over election data in legal blow to Musk’s platform" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MiniBrownie"> /u/MiniBrownie </a> <br/> <span><a href="https://www.politico.eu/article/berlin-court-orders-x-hand-over-election-data-legal-blow-elon-musk-platform/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iklfh0/german_court_orders_x_to_hand_over_election_data/">[comments]</a></span> </td></tr></table>
+
+## Trump orders U.S. to prioritize refugee resettlement of South Africans of European descent
+ - [https://www.reddit.com/r/worldnews/comments/1iklfb1/trump_orders_us_to_prioritize_refugee](https://www.reddit.com/r/worldnews/comments/1iklfb1/trump_orders_us_to_prioritize_refugee)
+ - RSS feed: $source
+ - date published: 2025-02-08T11:37:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iklfb1/trump_orders_us_to_prioritize_refugee/"> <img src="https://external-preview.redd.it/l2Fe2eS7hkimjd7_IjO5tfMFvZS80DM-vnn0ig1WV70.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=95b0e6b8d6f1e674d5881b0bdb24f230ab61f98c" alt="Trump orders U.S. to prioritize refugee resettlement of South Africans of European descent" title="Trump orders U.S. to prioritize refugee resettlement of South Africans of European descent" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Past-Lavishness6314"> /u/Past-Lavishness6314 </a> <br/> <span><a href="https://www.cbsnews.com/news/trump-orders-u-s-refugee-resettlement-of-afrikaners/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iklfb1/trump_orders_us_to_prioritize_refugee/">[comments]</a></span> </td></tr></table>
+
+## Trudeau heads to Europe to shore up alliances in face of Trump threats
+ - [https://www.reddit.com/r/worldnews/comments/1ikkzsl/trudeau_heads_to_europe_to_shore_up_alliances_in](https://www.reddit.com/r/worldnews/comments/1ikkzsl/trudeau_heads_to_europe_to_shore_up_alliances_in)
+ - RSS feed: $source
+ - date published: 2025-02-08T11:07:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikkzsl/trudeau_heads_to_europe_to_shore_up_alliances_in/"> <img src="https://external-preview.redd.it/Pa278AvMJlY3AtrzXlW2mQDJUsxP4qsXiRbfEjRiFY8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=227fc0967acc4cc9a93b5626c140c74dd5152630" alt="Trudeau heads to Europe to shore up alliances in face of Trump threats" title="Trudeau heads to Europe to shore up alliances in face of Trump threats" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/walpolemarsh"> /u/walpolemarsh </a> <br/> <span><a href="https://www.cbc.ca/news/politics/trudeau-paris-brussels-trump-uncertainty-1.7452693">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikkzsl/trudeau_heads_to_europe_to_shore_up_alliances_in/">[comments]</a></span> </td></tr></table>
+
+## ‘New reality’ hailed as Slovak protests against pro-Russia PM widen to small towns
+ - [https://www.reddit.com/r/worldnews/comments/1ikkf9o/new_reality_hailed_as_slovak_protests_against](https://www.reddit.com/r/worldnews/comments/1ikkf9o/new_reality_hailed_as_slovak_protests_against)
+ - RSS feed: $source
+ - date published: 2025-02-08T10:28:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikkf9o/new_reality_hailed_as_slovak_protests_against/"> <img src="https://external-preview.redd.it/UgAd1X_jD1-sGLqJN1d3kxEP9HQeVbrGptaVwdbVxE4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2eaea81aa999813fba55080ef4a2c8821fba0b5c" alt="‘New reality’ hailed as Slovak protests against pro-Russia PM widen to small towns" title="‘New reality’ hailed as Slovak protests against pro-Russia PM widen to small towns" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/doopityWoop22"> /u/doopityWoop22 </a> <br/> <span><a href="https://www.politico.eu/article/slovak-protests-against-pro-russia-pm-widen-to-small-towns-organizer-hails-new-reality/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikkf9o/new_reality_hailed_as_slovak_protests_against/">[comments]</a></span> </td></tr></table>
+
+## Finland Says Russian Aircraft Suspected of Violating Airspace
+ - [https://www.reddit.com/r/worldnews/comments/1ikjun0/finland_says_russian_aircraft_suspected_of](https://www.reddit.com/r/worldnews/comments/1ikjun0/finland_says_russian_aircraft_suspected_of)
+ - RSS feed: $source
+ - date published: 2025-02-08T09:46:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikjun0/finland_says_russian_aircraft_suspected_of/"> <img src="https://external-preview.redd.it/wXABdfAs0VjQR5xBOjGOC0Mija9wGoRghWq1uIA_d6k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c64f71b34fb0d9a797c5ae11c6ab3f73d0b14b0f" alt="Finland Says Russian Aircraft Suspected of Violating Airspace" title="Finland Says Russian Aircraft Suspected of Violating Airspace" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sillygooseguyman"> /u/sillygooseguyman </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2025-02-07/finland-says-russian-aircraft-suspected-of-violating-airspace">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikjun0/finland_says_russian_aircraft_suspected_of/">[comments]</a></span> </td></tr></table>
+
+## Baltics disconnect from Russian power grid, start isolated operation
+ - [https://www.reddit.com/r/worldnews/comments/1ikj4k8/baltics_disconnect_from_russian_power_grid_start](https://www.reddit.com/r/worldnews/comments/1ikj4k8/baltics_disconnect_from_russian_power_grid_start)
+ - RSS feed: $source
+ - date published: 2025-02-08T08:55:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikj4k8/baltics_disconnect_from_russian_power_grid_start/"> <img src="https://external-preview.redd.it/RUzs7h7nnnvRD102VI34CGPPSG4wDss7ldlwp96e7Ss.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=23c2b9e49a7a9c2e1a23bfebe09cfd27bdf17807" alt="Baltics disconnect from Russian power grid, start isolated operation" title="Baltics disconnect from Russian power grid, start isolated operation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Matas7"> /u/Matas7 </a> <br/> <span><a href="https://www.lrt.lt/en/news-in-english/19/2482000/baltics-disconnect-from-russian-power-grid-start-isolated-operation">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikj4k8/baltics_disconnect_from_russian_power_grid_start/">[comments]</a></span> </td></tr></table>
+
+## Baltic states making historic switch away from Russian power
+ - [https://www.reddit.com/r/worldnews/comments/1iki0ps/baltic_states_making_historic_switch_away_from](https://www.reddit.com/r/worldnews/comments/1iki0ps/baltic_states_making_historic_switch_away_from)
+ - RSS feed: $source
+ - date published: 2025-02-08T07:36:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iki0ps/baltic_states_making_historic_switch_away_from/"> <img src="https://external-preview.redd.it/xYNTBViR9QZFD459tDuFU_ehhF-NkPLlGEgVDDs1Z54.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c340f2ad28808f4fda996e1a4857588f93c50321" alt="Baltic states making historic switch away from Russian power" title="Baltic states making historic switch away from Russian power" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NonWiseGuy"> /u/NonWiseGuy </a> <br/> <span><a href="https://www.bbc.co.uk/news/articles/c627d55v07go">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iki0ps/baltic_states_making_historic_switch_away_from/">[comments]</a></span> </td></tr></table>
+
+## Ukraine Announces Successful Use of First Laser Weapon on Battlefield
+ - [https://www.reddit.com/r/worldnews/comments/1ikhfgf/ukraine_announces_successful_use_of_first_laser](https://www.reddit.com/r/worldnews/comments/1ikhfgf/ukraine_announces_successful_use_of_first_laser)
+ - RSS feed: $source
+ - date published: 2025-02-08T06:56:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikhfgf/ukraine_announces_successful_use_of_first_laser/"> <img src="https://external-preview.redd.it/difNjb4lGU50Kl910xX1LUqC_OkE_L2-oSe2JRW9HSI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=15fa1819375177673b8138cfd0bcc5e25d74511e" alt="Ukraine Announces Successful Use of First Laser Weapon on Battlefield" title="Ukraine Announces Successful Use of First Laser Weapon on Battlefield" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ennuii56"> /u/ennuii56 </a> <br/> <span><a href="https://thedefensepost.com/2025/02/06/ukraine-laser-weapon-battlefield/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikhfgf/ukraine_announces_successful_use_of_first_laser/">[comments]</a></span> </td></tr></table>
+
+## "Let's Do A Deal": Ukraine President Zelensky Offers Mineral Partnership
+ - [https://www.reddit.com/r/worldnews/comments/1ikh6b1/lets_do_a_deal_ukraine_president_zelensky_offers](https://www.reddit.com/r/worldnews/comments/1ikh6b1/lets_do_a_deal_ukraine_president_zelensky_offers)
+ - RSS feed: $source
+ - date published: 2025-02-08T06:39:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikh6b1/lets_do_a_deal_ukraine_president_zelensky_offers/"> <img src="https://external-preview.redd.it/4SCKGIg0Dvp7eJ4Eo7eFYxvbUBsywbv-XvfybBg0zSg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=475e6b9620ca26791ab8a56dad31c6673f392a1b" alt="&quot;Let's Do A Deal&quot;: Ukraine President Zelensky Offers Mineral Partnership" title="&quot;Let's Do A Deal&quot;: Ukraine President Zelensky Offers Mineral Partnership" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thhvancouver"> /u/thhvancouver </a> <br/> <span><a href="https://www.ndtv.com/world-news/lets-do-a-deal-ukraine-president-volodymy-zelensky-offers-mineral-partnership-to-donald-trump-7659679">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikh6b1/lets_do_a_deal_ukraine_president_zelensky_offers/">[comments]</a></span> </td></tr></table>
+
+## Infosys lays off 700 at Mysuru campus: "Bouncers, security guards used," complain to Labour Ministry
+ - [https://www.reddit.com/r/worldnews/comments/1ikg5cc/infosys_lays_off_700_at_mysuru_campus_bouncers](https://www.reddit.com/r/worldnews/comments/1ikg5cc/infosys_lays_off_700_at_mysuru_campus_bouncers)
+ - RSS feed: $source
+ - date published: 2025-02-08T05:35:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikg5cc/infosys_lays_off_700_at_mysuru_campus_bouncers/"> <img src="https://external-preview.redd.it/a7gwdV_7qmx-WgZPOynVviNJ8H4kVOOQR4573xMNadQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f917a8eeb78f2f56f731f382e27ba255b18a646" alt="Infosys lays off 700 at Mysuru campus: &quot;Bouncers, security guards used,&quot; complain to Labour Ministry" title="Infosys lays off 700 at Mysuru campus: &quot;Bouncers, security guards used,&quot; complain to Labour Ministry" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/willis7747"> /u/willis7747 </a> <br/> <span><a href="https://timesofindia.indiatimes.com/technology/tech-news/infosys-lays-off-700-at-mysuru-campus-bouncers-security-personnel-used-complain-to-labour-ministry/articleshow/118008887.cms">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikg5cc/infosys_lays_off_700_at_mysuru_campus_bouncers/">
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1080, Part 1 (Thread #1227)
+ - [https://www.reddit.com/r/worldnews/comments/1ikejcx/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1ikejcx/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: $source
+ - date published: 2025-02-08T04:02:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikejcx/rworldnews_live_thread_russian_invasion_of/"> <img src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1080, Part 1 (Thread #1227)" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1080, Part 1 (Thread #1227)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br/> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikejcx/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Mexico keeps finding clandestine graves, but the government no longer shares the statistics
+ - [https://www.reddit.com/r/worldnews/comments/1ikd8uz/mexico_keeps_finding_clandestine_graves_but_the](https://www.reddit.com/r/worldnews/comments/1ikd8uz/mexico_keeps_finding_clandestine_graves_but_the)
+ - RSS feed: $source
+ - date published: 2025-02-08T02:54:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikd8uz/mexico_keeps_finding_clandestine_graves_but_the/"> <img src="https://external-preview.redd.it/MqAeM36mAJhwBFtHwFGyIuk4w06H0RbMtEjTFSLuCXU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42d5a48b38ffc5ed3f5a1052a20777ace3e9187a" alt="Mexico keeps finding clandestine graves, but the government no longer shares the statistics" title="Mexico keeps finding clandestine graves, but the government no longer shares the statistics" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gjrts"> /u/Gjrts </a> <br/> <span><a href="https://english.elpais.com/international/2025-02-07/mexico-keeps-finding-clandestine-graves-but-the-government-no-longer-shares-the-statistics.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikd8uz/mexico_keeps_finding_clandestine_graves_but_the/">[comments]</a></span> </td></tr></table>
+
+## Canada calls USAID shutdown a ‘dangerous retreat’ for foreign aid
+ - [https://www.reddit.com/r/worldnews/comments/1ikbjfr/canada_calls_usaid_shutdown_a_dangerous_retreat](https://www.reddit.com/r/worldnews/comments/1ikbjfr/canada_calls_usaid_shutdown_a_dangerous_retreat)
+ - RSS feed: $source
+ - date published: 2025-02-08T01:27:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikbjfr/canada_calls_usaid_shutdown_a_dangerous_retreat/"> <img src="https://external-preview.redd.it/Sx9-oh2F4RLku18myPLlbC7qBiLBvRaBSyOmOmY3Bac.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8923e79cba5dcd651258e3a8ab507b55722fa2d6" alt="Canada calls USAID shutdown a ‘dangerous retreat’ for foreign aid" title="Canada calls USAID shutdown a ‘dangerous retreat’ for foreign aid" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AlwaysBlaze_"> /u/AlwaysBlaze_ </a> <br/> <span><a href="https://globalnews.ca/news/11005788/usaid-shutdown-canada-foreign-aid-concerns/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikbjfr/canada_calls_usaid_shutdown_a_dangerous_retreat/">[comments]</a></span> </td></tr></table>
+
+## Mass Protests Erupt in Slovakia: Over 50 Cities Rally Against Pro-Russian Policies of PM Fico
+ - [https://www.reddit.com/r/worldnews/comments/1ikb4as/mass_protests_erupt_in_slovakia_over_50_cities](https://www.reddit.com/r/worldnews/comments/1ikb4as/mass_protests_erupt_in_slovakia_over_50_cities)
+ - RSS feed: $source
+ - date published: 2025-02-08T01:07:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikb4as/mass_protests_erupt_in_slovakia_over_50_cities/"> <img src="https://external-preview.redd.it/pyS0ETtdf-zOu4J9RvJfJYO8CePBL-nWQarD6X1qE0s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2394da69b1583fd6818ac1a37bbeb0bad3baf17" alt="Mass Protests Erupt in Slovakia: Over 50 Cities Rally Against Pro-Russian Policies of PM Fico" title="Mass Protests Erupt in Slovakia: Over 50 Cities Rally Against Pro-Russian Policies of PM Fico" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://united24media.com/latest-news/mass-protests-erupt-in-slovakia-over-50-cities-rally-against-pro-russian-policies-of-pm-fico-5713">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikb4as/mass_protests_erupt_in_slovakia_over_50_cities/">[comments]</a></span> </td></tr></table>
+
+## US plans $7.4 billion arms sales to Israel
+ - [https://www.reddit.com/r/worldnews/comments/1ikaiwh/us_plans_74_billion_arms_sales_to_israel](https://www.reddit.com/r/worldnews/comments/1ikaiwh/us_plans_74_billion_arms_sales_to_israel)
+ - RSS feed: $source
+ - date published: 2025-02-08T00:38:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ikaiwh/us_plans_74_billion_arms_sales_to_israel/"> <img src="https://external-preview.redd.it/h_Nnf9fKzdg7MyMn9ApmKB4v6s8hq9j9QBziAUVAhb8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b4b926898ed47e5e832947f065299c2933289a8" alt="US plans $7.4 billion arms sales to Israel" title="US plans $7.4 billion arms sales to Israel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MainBrief2189"> /u/MainBrief2189 </a> <br/> <span><a href="https://www.reuters.com/world/us/us-state-department-approves-military-sales-worth-74-billion-israel-2025-02-07/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ikaiwh/us_plans_74_billion_arms_sales_to_israel/">[comments]</a></span> </td></tr></table>
+

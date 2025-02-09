@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-08T11:35:08+00:00",
+        "description": "\u201eWidzimy si\u0119 w Sopocie\u201d - zach\u0119ca nowy film reklamowy Sopotu, pokazywany w\u0142a\u015bnie w internecie w ramach kampanii promocyjnej pod tym samym tytu\u0142em, skierowanej do turyst\u00f3w biznesowych.",
+        "id": 2070691,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/popularne-trendy/art41783461-widzimy-sie-w-sopocie-miasto-reklamuje-sie-jako-cel-podrozy-turystow-biznesowych",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Widzimy si\u0119 w Sopocie! Miasto reklamuje si\u0119 jako cel podr\u00f3\u017cy turyst\u00f3w biznesowych",
+        "vote": 0
+    }
+]

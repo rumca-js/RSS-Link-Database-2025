@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-08T15:00:23+00:00",
+        "description": "The New Orleans Superdome is set to host Super Bowl LIX between the Kansas City Chiefs and the Philadelphia Eagles. The stadium\u2019s latest $560M renovation\u2013from the concession stands to the seating bowl\u2013helped save it from demolition after Hurricane Katrina. NFL games have increasingly become more expensive with the addition of amenities like luxury field suites and club lounges, but all of these redesigns are done in order to increase revenue and efficiency. WSJ spoke with the architect behind the Superdome\u2019s plan, who explains how stadium design is evolving to create more revenue streams.\n\n#SuperBowl #Stadium #Shorts",
+        "id": 2071671,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=M6qwCang2NI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/M6qwCang2NI/hqdefault.jpg",
+        "title": "Super Bowl LIX: How the Superdome Is Engineered to Maximize Revenue",
+        "vote": 0
+    }
+]

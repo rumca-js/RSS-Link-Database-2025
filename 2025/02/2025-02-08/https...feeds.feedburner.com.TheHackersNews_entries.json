@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-08T07:14:36+00:00",
+        "description": "Cybersecurity researchers have uncovered two malicious machine learning (ML) models on Hugging Face that leveraged an unusual technique of \"broken\" pickle files to evade detection.\n\"The pickle files extracted from the mentioned PyTorch archives revealed the malicious Python content at the beginning of the file,\" ReversingLabs researcher Karlo Zanki said in a report shared with The Hacker News. \"",
+        "id": 2069808,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2025/02/malicious-ml-models-found-on-hugging.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Malicious ML Models on Hugging Face Leverage Broken Pickle Format to Evade Detection",
+        "vote": 0
+    }
+]

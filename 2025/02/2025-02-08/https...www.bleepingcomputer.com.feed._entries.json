@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-08T10:15:25+00:00",
+        "description": "A large-scale brute force password attack using almost 2.8 million IP addresses is underway, attempting to guess the credentials for a wide range of networking devices, including those from\u00a0Palo Alto Networks, Ivanti, and SonicWall. [...]",
+        "id": 2072462,
+        "language": "en-US",
+        "link": "https://www.bleepingcomputer.com/news/security/massive-brute-force-attack-uses-28-million-ips-to-target-vpn-devices",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 40,
+        "source_url": "https://www.bleepingcomputer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Massive brute force attack uses 2.8 million IPs to target VPN devices",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-08T14:10:30+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Weekly forum post: Let&#39;s discuss current projects, concepts, questions and collaborations. In other words, what are you hacking this week?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/happytrailz1938\"> /u/happytrailz1938 </a> <br/> <span><a href=\"https://www.reddit.com/r/Hacking_Tutorials/comments/1iko2pf/saturday_hacker_day_what_are_you_hacking_this_week/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Hacking_Tutorials/comments/1iko2pf/saturday_hacker_day_what_are_you_hacking_this_week/\">[comments]</a></span>",
+        "id": 2071550,
+        "language": null,
+        "link": "https://www.reddit.com/r/Hacking_Tutorials/comments/1iko2pf/saturday_hacker_day_what_are_you_hacking_this_week",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 535,
+        "source_url": "https://www.reddit.com/r/Hacking_Tutorials/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Saturday Hacker Day - What are you hacking this week?",
+        "vote": 0
+    }
+]

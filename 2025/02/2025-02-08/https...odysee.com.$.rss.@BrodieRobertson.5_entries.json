@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-08T20:00:01+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/110DgytaKLQ\" width=\"480\" alt=\"thumbnail\" title=\"Mozilla's AI Detector For Mozilla's AI Slop\" /></p>You may recall Mozilla's AI text summarizer I covered a few weeks back and now we're covering the other end of the spectrum, Mozilla's AI text detection tool called Deep Fake Detector.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Mozilla Orbit: https://orbitbymozilla.com/<br />Deep Fake Detector: https://addons.mozilla.org/en-US/firefox/addon/deep-fake-detector/<br />Zippy: https://github.com/thinkst/zippy<br />UAR: https://github.com/LLNL/LUAR<br />Binoculars: https://github.com/ahans30/Binoculars<br />OmgUbuntu Article: https://www.omgubuntu.co.uk/2025/02/deepfake-is-an-ai-detector-",
+        "id": 2073324,
+        "language": "en",
+        "link": "https://odysee.com/mozilla%27s-ai-detector-for-mozilla%27s-ai:503dd8f2fe82eb0c8f91fa1c37417a71abe9de87",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Mozilla's AI Detector For Mozilla's AI Slop",
+        "vote": 0
+    }
+]

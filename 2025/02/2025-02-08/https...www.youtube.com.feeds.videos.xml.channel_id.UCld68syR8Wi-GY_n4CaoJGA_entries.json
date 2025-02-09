@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-08T20:00:01+00:00",
+        "description": "You may recall Mozilla's AI text summarizer I covered a few weeks back and now we're covering the other end of the spectrum, Mozilla's AI text detection tool called Deep Fake Detector.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nMozilla Orbit: https://orbitbymozilla.com/\nDeep Fake Detector: https://addons.mozilla.org/en-US/firefox/addon/deep-fake-detector/\nZippy: https://github.com/thinkst/zippy\nUAR: https://github.com/LLNL/LUAR\nBinoculars: https://github.com/ahans30/Binoculars\nOmgUbuntu Article: https://www.omgubuntu.co.uk/2025/02/deepfake-is-an-ai-detector-firefox-addon\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media====",
+        "id": 2073323,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=110DgytaKLQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/110DgytaKLQ/hqdefault.jpg",
+        "title": "Mozilla's AI Detector For Mozilla's AI Slop",
+        "vote": 0
+    }
+]

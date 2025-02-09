@@ -1,0 +1,58 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Liberal Party of Canada announces French, English leadership debates in Montreal
+ - [https://www.cbc.ca/news/politics/liberal-leadership-debate-montreal-1.7454465?cmp=rss](https://www.cbc.ca/news/politics/liberal-leadership-debate-montreal-1.7454465?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-08T13:27:25+00:00
+
+<img src='https://i.cbc.ca/1.6836594.1739038975!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/liberal-convention-20230504.jpg' alt='Photo of the liberal convention sign' width='620' height='349' title='Liberal party members from across Canada passed a non-binding policy resolution on Saturday that critics argue could stifle freedom of the press if ever adopted. '/><p>The Liberal Party of Canada announced Saturday afternoon it will host two leadership debates — one in English and another in French — in Montreal at the end of February.</p>
+
+## Sony's PlayStation Network experiences major global outage
+ - [https://www.cbc.ca/news/entertainment/playstation-network-outage-1.7454459?cmp=rss](https://www.cbc.ca/news/entertainment/playstation-network-outage-1.7454459?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-08T12:45:07+00:00
+
+<img src='https://i.cbc.ca/1.7454460.1739034977!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/playstation-vue-shutdown.jpg' alt='People stand at the foot of an electronic sign.' width='620' height='349' title='FILE - In this June 14, 2018, file people stand online next to the PlayStation booth at the 24th Electronic Entertainment Expo E3 at the Los Angeles Convention Center. Sony is shutting down its pioneering online-cable alternative, PlayStation Vue, citing the high costs of content and the difficulty of network deals. (AP Photo/Damian Dovarganes, File)'/><p>A major outage of Sony's PlayStation Network on Saturday has left tens of thousands of gamers unable to access online services, stores and multimedia apps.</p>
+
+## Canada's Marielle Thompson wins 3rd straight ski cross gold medal
+ - [https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/world-cup-ski-cross-february-8-marielle-thompson-1.7453386?cmp=rss](https://www.cbc.ca/sports/olympics/winter/freestyle-skiing/world-cup-ski-cross-february-8-marielle-thompson-1.7453386?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-08T07:35:26+00:00
+
+<img src='https://i.cbc.ca/1.6750699.1676569120!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/thompson-marielle-021623.jpg' alt='A skier flies through the air.' width='620' height='349' title='Canada&apos;s Marielle Thompson, seen above in January, scored silver at the ski cross World Cup on Thursday in Austria.'/><p>Canada's Marielle Thompson made it three in a row on Saturday in Val di Fassa, Italy. The Whistler, B.C., native raced to her third straight ski cross gold medal on the World Cup circuit, beating French skier Marielle Berger Sabbatel to the finish line.</p>
+
+## Could B.C. put tolls on trucks to Alaska if trade war reignites?
+ - [https://www.cbc.ca/news/canada/british-columbia/alaska-highway-truck-travel-1.7453871?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/alaska-highway-truck-travel-1.7453871?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-08T07:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7454075.1738966715!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/yukon-20070304.jpg' alt='A truck on a snowy mountain highway.' width='620' height='349' title='A lone pickup truck travels the Alaska Highway heading towards the St. Elias Mountains and Haines Junction, Yukon Saturday March 4, 2007.(CP PHOTO/Chuck Stoody)  CANADA'/><p>B.C. Premier David Eby has floated the idea of imposing fines on commercial vehicles travelling north if U.S. tariffs are imposed, but challenges are in place.</p>
+
+## 5th hostage-prisoner swap carried out as Gaza ceasefire holds
+ - [https://www.cbc.ca/news/world/israel-hamas-hostage-prisoner-exchange-feb8-1.7454394?cmp=rss](https://www.cbc.ca/news/world/israel-hamas-hostage-prisoner-exchange-feb8-1.7454394?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-08T06:36:00+00:00
+
+<img src='https://i.cbc.ca/1.7454396.1739011363!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/aptopix-israel-palestinians.jpg' alt='Two men with weapons and wearing masks escort a released hostage from a stage.' width='620' height='349' title='Israeli captive Eli Sharabi, who has been held hostage by Hamas in Gaza since October 7, 2023, is escorted by Hamas fighters before being handed over to the Red Cross in Deir al-Balah, central Gaza Strip, Saturday Feb. 8, 2025. (AP Photo/Abdel Kareem Hana)'/><p>Palestinian militant group Hamas handed over three Israeli hostages on Saturday in exchange for Palestinian detainees and prisoners in the latest stage of a ceasefire deal aimed at ending the 15-month war in Gaza.</p>
+
+## Fan petition to get Gracie Abrams to change her opening act may have crossed a line experts say is blurring
+ - [https://www.cbc.ca/news/entertainment/dora-jar-opening-act-gracie-abrams-tour-1.7454307?cmp=rss](https://www.cbc.ca/news/entertainment/dora-jar-opening-act-gracie-abrams-tour-1.7454307?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-08T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7452979.1738887652!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/dora-jar.jpg' alt='A blonde woman sings into a microphone on stage where she&apos;s flanked by a guitarist, a drummer and a bassist in front of a giant screen that reads Dora Jar and a large monitor showing her performance to the crowd. ' width='620' height='349' title='Dora Jar performs onstage as the opening act during Billie Eilish&apos;s Happier Than Ever tour in Sydney, Australia, on Sept. 13, 2022.'/><p>When a Gracie Abrams fan recently petitioned to have singer-songwriter Dora Jar removed as the opening act for Abrams’ European tour, it sparked backlash and conversation about fan entitlement. Experts say the relationship between fans and artists is changing as social media blurs boundaries.</p>
+
+## Pantry-only meal challenges could lower your grocery bill — but it might mean eating weird soup
+ - [https://www.cbc.ca/radio/costofliving/pantry-only-meals-challenge-1.7452536?cmp=rss](https://www.cbc.ca/radio/costofliving/pantry-only-meals-challenge-1.7452536?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-08T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7452604.1738876076!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/lindsey-harrington.jpeg' alt='A woman stands smiling in front of her deep freeze. ' width='620' height='349' title='Lindsey Harrington, seen here standing in her freezer, went all of January without visiting a grocery store. It&apos;s the third year she has done this challenge. '/><p>During the first month of the year, Lindsey Harrington doesn’t go to the grocery store. Instead, she uses whatever’s left in her fridge, freezer and pantry. And experts say that can go a long way to eliminating household food waste, which can in turn, save people cash.</p>
+
+## Whale song shows 'hallmarks' of human language
+ - [https://www.cbc.ca/news/science/whales-humpback-song-linguistics-1.7453891?cmp=rss](https://www.cbc.ca/news/science/whales-humpback-song-linguistics-1.7453891?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-08T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7453938.1738990178!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1621490545.jpg' alt='A mother humpback whale and calf are seen on the coast of Vitoria, Espirito Santo state, Brazil on August 22, 2023. ' width='620' height='349' title='A mother humpback whale and calf are seen on the coast of Vitoria, Espirito Santo state, Brazil on August 22, 2023. Humpback whale song is passed down over the years and changes, say researchers. '/><p>Two new studies have found that whale song has structural similarities to human languages, especially when it comes to efficiency and brevity. It’s leading researchers to believe that evolutionary pressures might affect other complex communicators in similar ways.</p>
+

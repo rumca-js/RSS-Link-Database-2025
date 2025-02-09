@@ -1,0 +1,303 @@
+# Source:Virtual Reality, URL:https://www.reddit.com/r/virtualreality/.rss, language:en
+
+## Heyy, Check out My Latest Release - Beauty Salon Simulator VR
+ - [https://www.reddit.com/r/virtualreality/comments/1il0wjq/heyy_check_out_my_latest_release_beauty_salon](https://www.reddit.com/r/virtualreality/comments/1il0wjq/heyy_check_out_my_latest_release_beauty_salon)
+ - RSS feed: $source
+ - date published: 2025-02-08T23:30:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1il0wjq/heyy_check_out_my_latest_release_beauty_salon/"> <img src="https://external-preview.redd.it/BEcnHUr5j1Z0dP19rDJ337Z8nU_l2Nc2SwuOsedHDCo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6a8e30651134890f8c6d07fdb7299981be3f4dc7" alt="Heyy, Check out My Latest Release - Beauty Salon Simulator VR" title="Heyy, Check out My Latest Release - Beauty Salon Simulator VR" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MKaramDev"> /u/MKaramDev </a> <br/> <span><a href="https://www.youtube.com/watch?v=1-JGliNFSTg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1il0wjq/heyy_check_out_my_latest_release_beauty_salon/">[comments]</a></span> </td></tr></table>
+
+## any vr game where you feel like omni man/Invincible frm the show/comic
+ - [https://www.reddit.com/r/virtualreality/comments/1il0pri/any_vr_game_where_you_feel_like_omni](https://www.reddit.com/r/virtualreality/comments/1il0pri/any_vr_game_where_you_feel_like_omni)
+ - RSS feed: $source
+ - date published: 2025-02-08T23:22:00+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Shadecal1er"> /u/Shadecal1er </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1il0pri/any_vr_game_where_you_feel_like_omni/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1il0pri/any_vr_game_where_you_feel_like_omni/">[comments]</a></span>
+
+## I have exactly 30 dollars to spend on the meta quest store, what should I buy?
+ - [https://www.reddit.com/r/virtualreality/comments/1ikyi6f/i_have_exactly_30_dollars_to_spend_on_the_meta](https://www.reddit.com/r/virtualreality/comments/1ikyi6f/i_have_exactly_30_dollars_to_spend_on_the_meta)
+ - RSS feed: $source
+ - date published: 2025-02-08T21:43:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>got 30 dollars quest cash from a refferal link and am wondering what everyone thinks is best for that price</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/beidoubagel"> /u/beidoubagel </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikyi6f/i_have_exactly_30_dollars_to_spend_on_the_meta/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikyi6f/i_have_exactly_30_dollars_to_spend_on_the_meta/">[comments]</a></span>
+
+## How to sleep in the woods
+ - [https://www.reddit.com/r/virtualreality/comments/1iky8cq/how_to_sleep_in_the_woods](https://www.reddit.com/r/virtualreality/comments/1iky8cq/how_to_sleep_in_the_woods)
+ - RSS feed: $source
+ - date published: 2025-02-08T21:30:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1iky8cq/how_to_sleep_in_the_woods/"> <img src="https://external-preview.redd.it/emJ1NXRtYjdoemhlMZ3esRE9Op1o6rZEwf6J_SJqLxOjq5I81dj8N3coLF-3.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0c572f0c8d046f312379cce24f8292d7f874a0e" alt="How to sleep in the woods" title="How to sleep in the woods" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mauleous"> /u/mauleous </a> <br/> <span><a href="https://v.redd.it/lar46mb7hzhe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1iky8cq/how_to_sleep_in_the_woods/">[comments]</a></span> </td></tr></table>
+
+## PC shuts off when I play vr
+ - [https://www.reddit.com/r/virtualreality/comments/1ikxa5k/pc_shuts_off_when_i_play_vr](https://www.reddit.com/r/virtualreality/comments/1ikxa5k/pc_shuts_off_when_i_play_vr)
+ - RSS feed: $source
+ - date published: 2025-02-08T20:49:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>I feel like I should have enough power. I&#39;m playing vr chat, I have a 5700X3d, 3090 and a corsair 850 watt psu. this doesn&#39;t happen with anything besides vr. I&#39;m not tripping the circuit in my room, the power stays on for everything else </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/woofwoofbro"> /u/woofwoofbro </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikxa5k/pc_shuts_off_when_i_play_vr/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikxa5k/pc_shuts_off_when_i_play_vr/">[comments]</a></span>
+
+## is it possible to run openxr without steamvr on htc vive og?
+ - [https://www.reddit.com/r/virtualreality/comments/1ikwsdm/is_it_possible_to_run_openxr_without_steamvr_on](https://www.reddit.com/r/virtualreality/comments/1ikwsdm/is_it_possible_to_run_openxr_without_steamvr_on)
+ - RSS feed: $source
+ - date published: 2025-02-08T20:28:00+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Stand_9176"> /u/Ok_Stand_9176 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikwsdm/is_it_possible_to_run_openxr_without_steamvr_on/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikwsdm/is_it_possible_to_run_openxr_without_steamvr_on/">[comments]</a></span>
+
+## Does the quest deal with developers treating their players as second class to like how most players on gog, and epic get the treatment with developers since it has steam/PCVR to deal with? Or is it different?
+ - [https://www.reddit.com/r/virtualreality/comments/1ikwhei/does_the_quest_deal_with_developers_treating](https://www.reddit.com/r/virtualreality/comments/1ikwhei/does_the_quest_deal_with_developers_treating)
+ - RSS feed: $source
+ - date published: 2025-02-08T20:14:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>You know, I mostly prefer to play standalone on my vr headset, Especially with games like super hot vr that require so much room movement, I just couldn&#39;t really bothered to deal with cable, Think the only non standalone games I have are beat saber and half life alyx, But think pretty much games like vacation simulator and fruit ninja are standalone, Since I see no point of having them much in my steam aside from well cloud saves, I am looking at blades and sorcery and bonelabs and thinking if I should get those as standalone too</p> <p>But something came up to my head about it, I wanted to ask this, Do developers there treat their quest players like second class players or do they get equal amounts of support just as pcvr players, Cause I already hear about super hot vr being a bit more outdated on quest than on steam, But I am not sure if its true</p> <p>I know history of developers who would treat players who played on gog., epic games, and xb
+
+## Civilization VII VR on Meta Quest 3/3S
+ - [https://www.reddit.com/r/virtualreality/comments/1ikv6u9/civilization_vii_vr_on_meta_quest_33s](https://www.reddit.com/r/virtualreality/comments/1ikv6u9/civilization_vii_vr_on_meta_quest_33s)
+ - RSS feed: $source
+ - date published: 2025-02-08T19:19:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1ikv6u9/civilization_vii_vr_on_meta_quest_33s/"> <img src="https://external-preview.redd.it/GeYs1S4PyarN5ePLMQ90orxr46VAuhkZtbvGVhdkaf4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fd85dbdf3a7cc4c7863beba02e429864fe20d491" alt="Civilization VII VR on Meta Quest 3/3S" title="Civilization VII VR on Meta Quest 3/3S" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VRtuous"> /u/VRtuous </a> <br/> <span><a href="https://youtu.be/3IMdxcP8uSM?si=XQcYhpwm58goyc8D">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikv6u9/civilization_vii_vr_on_meta_quest_33s/">[comments]</a></span> </td></tr></table>
+
+## I have some weird issue with my quest 3 and my trackers
+ - [https://www.reddit.com/r/virtualreality/comments/1ikv4nr/i_have_some_weird_issue_with_my_quest_3_and_my](https://www.reddit.com/r/virtualreality/comments/1ikv4nr/i_have_some_weird_issue_with_my_quest_3_and_my)
+ - RSS feed: $source
+ - date published: 2025-02-08T19:16:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently started to have issue with my trackers, for example when one of my trackers loose tracking I have to face my left station for the tracker to be tracked back, but once it&#39;s tracked it work with both stations, and sometimes, my hips tracker just randomly change position and I have to look at my left station again. (I have 1.0 stations) Thank you</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dependent-Doubt-2397"> /u/Dependent-Doubt-2397 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikv4nr/i_have_some_weird_issue_with_my_quest_3_and_my/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikv4nr/i_have_some_weird_issue_with_my_quest_3_and_my/">[comments]</a></span>
+
+## I made not only new weapons but also non-contact combat techniques. Is it worth keeping it in gameplay?
+ - [https://www.reddit.com/r/virtualreality/comments/1ikv3vz/i_made_not_only_new_weapons_but_also_noncontact](https://www.reddit.com/r/virtualreality/comments/1ikv3vz/i_made_not_only_new_weapons_but_also_noncontact)
+ - RSS feed: $source
+ - date published: 2025-02-08T19:15:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1ikv3vz/i_made_not_only_new_weapons_but_also_noncontact/"> <img src="https://external-preview.redd.it/OGhzN2hmZjV0eWhlMYAjWrPi6WJHMcCksOLCOD4wtJNTdVEj6EG0yIjaKUA7.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d01536abf5d524750d8190954f50f36d3918ac52" alt="I made not only new weapons but also non-contact combat techniques. Is it worth keeping it in gameplay?" title="I made not only new weapons but also non-contact combat techniques. Is it worth keeping it in gameplay?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DeepMatrixVR"> /u/DeepMatrixVR </a> <br/> <span><a href="https://v.redd.it/g8uxqif5tyhe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikv3vz/i_made_not_only_new_weapons_but_also_noncontact/">[comments]</a></span> </td></tr></table>
+
+## Civ 7 is coming to VR
+ - [https://www.reddit.com/r/virtualreality/comments/1iktofw/civ_7_is_coming_to_vr](https://www.reddit.com/r/virtualreality/comments/1iktofw/civ_7_is_coming_to_vr)
+ - RSS feed: $source
+ - date published: 2025-02-08T18:16:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1iktofw/civ_7_is_coming_to_vr/"> <img src="https://external-preview.redd.it/Uix__uTUbElKA8El2Cee6cdoFOCkb2RgvMMd4_1Oe44.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0a1a2f1f99ffc19cb25f40071bee9bcece3fad68" alt="Civ 7 is coming to VR" title="Civ 7 is coming to VR" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lunchanddinner"> /u/lunchanddinner </a> <br/> <span><a href="https://youtu.be/lavuwKvZki8?si=6be2D2sw94lz32U5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1iktofw/civ_7_is_coming_to_vr/">[comments]</a></span> </td></tr></table>
+
+## PC specs for VR? - Quest 3
+ - [https://www.reddit.com/r/virtualreality/comments/1iksjwr/pc_specs_for_vr_quest_3](https://www.reddit.com/r/virtualreality/comments/1iksjwr/pc_specs_for_vr_quest_3)
+ - RSS feed: $source
+ - date published: 2025-02-08T17:29:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello,</p> <p>I’ve been looking at getting a quest 3 for PCVR, but I have 2 concerns that maybe y’all could give some of your thoughts on.</p> <ol> <li><p>My PC has a 1060 6gb, i5 7500, 16gb ram. Do you think this is enough to have a good PC VR experience? Like Half Life Alyx?</p></li> <li><p>I have heard a lot of people say the Quest 3 Link cable does not work… and my WIFI is really not great so I’m not sure if the AirLink would be great either. How has your experience been with quest 3 PC VR?</p></li> </ol> <p>Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/arthurmorgan90210"> /u/arthurmorgan90210 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1iksjwr/pc_specs_for_vr_quest_3/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1iksjwr/pc_specs_for_vr_quest_3/">[comments]</a></span>
+
+## Trying to remember a VR game I played a few years ago
+ - [https://www.reddit.com/r/virtualreality/comments/1ikqo70/trying_to_remember_a_vr_game_i_played_a_few_years](https://www.reddit.com/r/virtualreality/comments/1ikqo70/trying_to_remember_a_vr_game_i_played_a_few_years)
+ - RSS feed: $source
+ - date published: 2025-02-08T16:09:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>It was a shmup game (like R-Type), but instead of piloting the ship you just move it around with your hand like it’s a toy. I don’t know if it was a full game or just part of a set of demos.</p> <p>It was on PC / Steam</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ultimateninja9"> /u/ultimateninja9 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikqo70/trying_to_remember_a_vr_game_i_played_a_few_years/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikqo70/trying_to_remember_a_vr_game_i_played_a_few_years/">[comments]</a></span>
+
+## Loading into a game area, vr stops working and has a sandtimer spinning in the bottom right corner. What does this mean and how do I prevent it?
+ - [https://www.reddit.com/r/virtualreality/comments/1ikpztq/loading_into_a_game_area_vr_stops_working_and_has](https://www.reddit.com/r/virtualreality/comments/1ikpztq/loading_into_a_game_area_vr_stops_working_and_has)
+ - RSS feed: $source
+ - date published: 2025-02-08T15:39:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>That is about all the info I can give. It has happened on phas and nms. When I load into the anomaly my headset will stop giving me the vr screen and instead be replaced with 2 and a sand timer will be spinning in the bottom right hand corner. I&#39;m on a meta quest 3 and I just bought this thing in December please help </p> <p>Edit- forgot to mention this is on pcvr </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ProfessionalTurn5162"> /u/ProfessionalTurn5162 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikpztq/loading_into_a_game_area_vr_stops_working_and_has/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikpztq/loading_into_a_game_area_vr_stops_working_and_has/">[comments]</a></span>
+
+## New Mesmerizing Realms of Flow Experience "Mellow Embrace"
+ - [https://www.reddit.com/r/virtualreality/comments/1ikpb0a/new_mesmerizing_realms_of_flow_experience_mellow](https://www.reddit.com/r/virtualreality/comments/1ikpb0a/new_mesmerizing_realms_of_flow_experience_mellow)
+ - RSS feed: $source
+ - date published: 2025-02-08T15:08:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1ikpb0a/new_mesmerizing_realms_of_flow_experience_mellow/"> <img src="https://external-preview.redd.it/TBKHlVeABUtDk2X88jIdJULDni-tYdSrupw5pEGcAhM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4ddecd6ec6df411a06acfe5e1e316f03872898dc" alt="New Mesmerizing Realms of Flow Experience &quot;Mellow Embrace&quot;" title="New Mesmerizing Realms of Flow Experience &quot;Mellow Embrace&quot;" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Delve deeper and enter a world, vibrant and tender! 🌀</p> <p>Experience Realms of Flow:</p> <p>Meta Quest <a href="https://www.meta.com/de-de/experiences/realms-of-flow/6062798767111272/">https://www.meta.com/de-de/experiences/realms-of-flow/6062798767111272/</a></p> <p>Steam <a href="https://store.steampowered.com/app/2397600/Realms_of_Flow/#app_reviews_hash">https://store.steampowered.com/app/2397600/Realms_of_Flow/#app_reviews_hash</a></p> </div><!-- SC_ON --> &#32; submitt
+
+## Require help in setting up a VR Game Park.
+ - [https://www.reddit.com/r/virtualreality/comments/1ikp32p/require_help_in_setting_up_a_vr_game_park](https://www.reddit.com/r/virtualreality/comments/1ikp32p/require_help_in_setting_up_a_vr_game_park)
+ - RSS feed: $source
+ - date published: 2025-02-08T14:59:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello all, I wish to setup a VR game park where customers can come, wear a VR headset and play different games like zombie shooters and escape rooms etc. I wish that all of them are in the same game, and play in such a way that it&#39;s co-op. I am struggling to find good games which are specifically built for VR game parks. Can you please help me out? I will be using Meta Quest 3 VR headsets. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/manas_kolhe"> /u/manas_kolhe </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikp32p/require_help_in_setting_up_a_vr_game_park/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikp32p/require_help_in_setting_up_a_vr_game_park/">[comments]</a></span>
+
+## Quest 2 black levels, comfort and lens suck and I can't wait for the Deckard any longer. Is a 3060 laptop good enough to drive HL:ALyx on a Quest 3?
+ - [https://www.reddit.com/r/virtualreality/comments/1ikoxeh/quest_2_black_levels_comfort_and_lens_suck_and_i](https://www.reddit.com/r/virtualreality/comments/1ikoxeh/quest_2_black_levels_comfort_and_lens_suck_and_i)
+ - RSS feed: $source
+ - date published: 2025-02-08T14:52:04+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/DaTennisguy"> /u/DaTennisguy </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikoxeh/quest_2_black_levels_comfort_and_lens_suck_and_i/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikoxeh/quest_2_black_levels_comfort_and_lens_suck_and_i/">[comments]</a></span>
+
+## VR using 3D printing
+ - [https://www.reddit.com/r/virtualreality/comments/1ikoftp/vr_using_3d_printing](https://www.reddit.com/r/virtualreality/comments/1ikoftp/vr_using_3d_printing)
+ - RSS feed: $source
+ - date published: 2025-02-08T14:28:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, guys, my team and I are working on a project in which we plan to build a VR with a 3D printing machine that can be connected to any device using Bluetooth. We need some guidance. Is anyone experienced in this field? You can give me some suggestions.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LegalFeature7737"> /u/LegalFeature7737 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikoftp/vr_using_3d_printing/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikoftp/vr_using_3d_printing/">[comments]</a></span>
+
+## I truly wish Astro bot can be a VR compatible game,10/10 masterpiece
+ - [https://www.reddit.com/r/virtualreality/comments/1iko2z7/i_truly_wish_astro_bot_can_be_a_vr_compatible](https://www.reddit.com/r/virtualreality/comments/1iko2z7/i_truly_wish_astro_bot_can_be_a_vr_compatible)
+ - RSS feed: $source
+ - date published: 2025-02-08T14:10:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>What a game, even better than legend games such as Super Mario Odyssey<br/> Best game i&#39;ve ever played for the last 3 years, no wonder it was the game of year 2024, </p> <p>They made use of every part of the tricks from the dual sense controller, imaging that with PSVR2</p> <p>It&#39;s a shame they didn&#39;t even show PSVR2 inside the game, only PSVR.</p> <p>Max Mustard from an Australian studio is the closest game we can have in VR ,but it&#39;s just nowhere near Astro bot scale.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FatVRguy"> /u/FatVRguy </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1iko2z7/i_truly_wish_astro_bot_can_be_a_vr_compatible/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1iko2z7/i_truly_wish_astro_bot_can_be_a_vr_compatible/">[comments]</a></span>
+
+## So i Wanna get into virtualreality is getting the quest 3 worth it
+ - [https://www.reddit.com/r/virtualreality/comments/1ikm0w5/so_i_wanna_get_into_virtualreality_is_getting_the](https://www.reddit.com/r/virtualreality/comments/1ikm0w5/so_i_wanna_get_into_virtualreality_is_getting_the)
+ - RSS feed: $source
+ - date published: 2025-02-08T12:17:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>As the title say i Wanna get into VR gaming but im not sure which vr headset to get i Wanna get the quest 3 or the playstation one the ps vr2 they seem both nice to use but i cant choose so im looking for some advice for what vr headset to go as my first one (Sorry for my english) </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/The_D3athbringer"> /u/The_D3athbringer </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikm0w5/so_i_wanna_get_into_virtualreality_is_getting_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikm0w5/so_i_wanna_get_into_virtualreality_is_getting_the/">[comments]</a></span>
+
+## Here's a short teaser of our VR anime cyberpunk bartending game! Would you be interested in playing this?
+ - [https://www.reddit.com/r/virtualreality/comments/1ikm0sa/heres_a_short_teaser_of_our_vr_anime_cyberpunk](https://www.reddit.com/r/virtualreality/comments/1ikm0sa/heres_a_short_teaser_of_our_vr_anime_cyberpunk)
+ - RSS feed: $source
+ - date published: 2025-02-08T12:16:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1ikm0sa/heres_a_short_teaser_of_our_vr_anime_cyberpunk/"> <img src="https://external-preview.redd.it/YXRxcnF2M2Rxd2hlMS5kemNRBn0Z3ODhjAHKmI1mJSK9AVYfV9apqyuKECbg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3122ed8960c515bfc8c4cfe5444f03c938ffd9f6" alt="Here's a short teaser of our VR anime cyberpunk bartending game! Would you be interested in playing this?" title="Here's a short teaser of our VR anime cyberpunk bartending game! Would you be interested in playing this?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plectrumxr"> /u/plectrumxr </a> <br/> <span><a href="https://v.redd.it/3lczyx75qwhe1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikm0sa/heres_a_short_teaser_of_our_vr_anime_cyberpunk/">[comments]</a></span> </td></tr></table>
+
+## Feb 8st 2025 Meta Global Weekly game Sales & Revenue Comparison
+ - [https://www.reddit.com/r/virtualreality/comments/1iklprj/feb_8st_2025_meta_global_weekly_game_sales](https://www.reddit.com/r/virtualreality/comments/1iklprj/feb_8st_2025_meta_global_weekly_game_sales)
+ - RSS feed: $source
+ - date published: 2025-02-08T11:57:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1iklprj/feb_8st_2025_meta_global_weekly_game_sales/"> <img src="https://b.thumbs.redditmedia.com/TGacP6ujyYF1MhGRHi9Ln5jqw92RnrLnEf3cRR8dsBk.jpg" alt="Feb 8st 2025 Meta Global Weekly game Sales &amp; Revenue Comparison" title="Feb 8st 2025 Meta Global Weekly game Sales &amp; Revenue Comparison" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AkiaDoc"> /u/AkiaDoc </a> <br/> <span><a href="https://www.reddit.com/gallery/1iklprj">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1iklprj/feb_8st_2025_meta_global_weekly_game_sales/">[comments]</a></span> </td></tr></table>
+
+## Robocop Rogue City / UEVR Mod / RX7900XTX / EASILY One of the BEST UEVR Games!
+ - [https://www.reddit.com/r/virtualreality/comments/1ikkqgw/robocop_rogue_city_uevr_mod_rx7900xtx_easily_one](https://www.reddit.com/r/virtualreality/comments/1ikkqgw/robocop_rogue_city_uevr_mod_rx7900xtx_easily_one)
+ - RSS feed: $source
+ - date published: 2025-02-08T10:50:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1ikkqgw/robocop_rogue_city_uevr_mod_rx7900xtx_easily_one/"> <img src="https://external-preview.redd.it/m8c-_B8lcdFSQcd0wNfuLLOpHNvaH1mA3dKQjLKP5cw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=55c887a836bcf457cad0bd269c6c0a9fed14ea0b" alt="Robocop Rogue City / UEVR Mod / RX7900XTX / EASILY One of the BEST UEVR Games!" title="Robocop Rogue City / UEVR Mod / RX7900XTX / EASILY One of the BEST UEVR Games!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So glad I picked this up again as it is so damn immersive and really sucked me in to the Robocop fantasy This game is so damn awesome in VR!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Equal_Translator_605"> /u/Equal_Translator_605 </a> <br/> <span><a href="https://youtu.be/4bdzv-qVdW0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikkqgw/robocop_rogue_city_uevr_mod_rx7900
+
+## Escape from Tarkov VR - night vision raids are so awesome in VR! (RTX 4090)
+ - [https://www.reddit.com/r/virtualreality/comments/1ikkmjm/escape_from_tarkov_vr_night_vision_raids_are_so](https://www.reddit.com/r/virtualreality/comments/1ikkmjm/escape_from_tarkov_vr_night_vision_raids_are_so)
+ - RSS feed: $source
+ - date published: 2025-02-08T10:42:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1ikkmjm/escape_from_tarkov_vr_night_vision_raids_are_so/"> <img src="https://external-preview.redd.it/Y-Ii0kg_KWTSEo0waofnXsRhiNjJ9H-hRpGYJdDQnqc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=04c048b4cb4dfb61b0a444aa606f92d7efb4a7d8" alt="Escape from Tarkov VR - night vision raids are so awesome in VR! (RTX 4090)" title="Escape from Tarkov VR - night vision raids are so awesome in VR! (RTX 4090)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hajp"> /u/Hajp </a> <br/> <span><a href="https://www.youtube.com/watch?v=kCdgRWQI_9g">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikkmjm/escape_from_tarkov_vr_night_vision_raids_are_so/">[comments]</a></span> </td></tr></table>
+
+## A McDonald’s commercial hit my Reddit feed with a 2016 Vive in it? What an odd commercial too. Like look at her already.
+ - [https://www.reddit.com/r/virtualreality/comments/1ikk3mk/a_mcdonalds_commercial_hit_my_reddit_feed_with_a](https://www.reddit.com/r/virtualreality/comments/1ikk3mk/a_mcdonalds_commercial_hit_my_reddit_feed_with_a)
+ - RSS feed: $source
+ - date published: 2025-02-08T10:04:44+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/immersive-matthew"> /u/immersive-matthew </a> <br/> <span><a href="https://www.reddit.com/u/McDonalds_Austria/s/S117ONgy4i">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikk3mk/a_mcdonalds_commercial_hit_my_reddit_feed_with_a/">[comments]</a></span>
+
+## Montegiove Castle, Umbria, Italy in 3D sbs calming relax video
+ - [https://www.reddit.com/r/virtualreality/comments/1ikjylh/montegiove_castle_umbria_italy_in_3d_sbs_calming](https://www.reddit.com/r/virtualreality/comments/1ikjylh/montegiove_castle_umbria_italy_in_3d_sbs_calming)
+ - RSS feed: $source
+ - date published: 2025-02-08T09:54:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Montegiove Castle is like a toy, as if you were a giant 100 meters tall, in calming, relax, red-cyan anaglyph iXYt 3D video. For details please visit syla.top/by-angels-eyes/. iXYt 3D is a method of writing 3D videos for VR (or more precisely TR, transferred reality - more natural looking than common &quot;plastic&quot; VR, but never seen by the naked eye). ixyt.info is a worldwide affiche-map-calendar and our sponsor partner.</p> <p><a href="http://Youtube.com/@ixyt">Youtube.com/@ixyt</a> has been revived, almost 300 videos wait for you again. New ones will be in FHD quality!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Risk-4565"> /u/No-Risk-4565 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikjylh/montegiove_castle_umbria_italy_in_3d_sbs_calming/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikjylh/montegiove_castle_umbria_italy_i
+
+## VR Sim better than the Microsoft Flight 2024?
+ - [https://www.reddit.com/r/virtualreality/comments/1ikjoin/vr_sim_better_than_the_microsoft_flight_2024](https://www.reddit.com/r/virtualreality/comments/1ikjoin/vr_sim_better_than_the_microsoft_flight_2024)
+ - RSS feed: $source
+ - date published: 2025-02-08T09:34:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1ikjoin/vr_sim_better_than_the_microsoft_flight_2024/"> <img src="https://external-preview.redd.it/CS_e2qB_x7tJ4L-_DHRnTsIuKklJEkdp87Nv3ypLpoI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3a28bbee5e066ffaa4b865431a1c0cb019c4fffd" alt="VR Sim better than the Microsoft Flight 2024?" title="VR Sim better than the Microsoft Flight 2024?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Original_as"> /u/Original_as </a> <br/> <span><a href="https://www.youtube.com/watch?v=JPbmGLCi4zY">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikjoin/vr_sim_better_than_the_microsoft_flight_2024/">[comments]</a></span> </td></tr></table>
+
+## Need some game ideas
+ - [https://www.reddit.com/r/virtualreality/comments/1ikjbrw/need_some_game_ideas](https://www.reddit.com/r/virtualreality/comments/1ikjbrw/need_some_game_ideas)
+ - RSS feed: $source
+ - date published: 2025-02-08T09:09:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>So ive got 15 euros and want to buy some game(s) any recommendation ? I really like gore like dismeberment and stuff guns knifes </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Silver9838"> /u/Ok_Silver9838 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikjbrw/need_some_game_ideas/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikjbrw/need_some_game_ideas/">[comments]</a></span>
+
+## Looking for Recommendations on Prehistoric Earth VR Experiences
+ - [https://www.reddit.com/r/virtualreality/comments/1ikj2ad/looking_for_recommendations_on_prehistoric_earth](https://www.reddit.com/r/virtualreality/comments/1ikj2ad/looking_for_recommendations_on_prehistoric_earth)
+ - RSS feed: $source
+ - date published: 2025-02-08T08:50:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Recently purchase an oculus quest 3 and was looking for recommendations on eductional Prehistoric Earth VR Experiences to download. I have been searching on google for any and all educational VR experiences from all eras on Earth before the evolution of humans. However, with little luck besides a small amount of Mesozoic Era stuff. I am still new to VR, so I am unsure if the way I am looking for stuff like the topic above is correct/the best way.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MCJimJim"> /u/MCJimJim </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikj2ad/looking_for_recommendations_on_prehistoric_earth/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikj2ad/looking_for_recommendations_on_prehistoric_earth/">[comments]</a></span>
+
+## VR studio closures/layoffs might just be normal in this economy
+ - [https://www.reddit.com/r/virtualreality/comments/1ikglct/vr_studio_closureslayoffs_might_just_be_normal_in](https://www.reddit.com/r/virtualreality/comments/1ikglct/vr_studio_closureslayoffs_might_just_be_normal_in)
+ - RSS feed: $source
+ - date published: 2025-02-08T06:02:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>After all the doom and gloom (and glee) in this subreddit about the recent closures and layoffs in VR, and future uncertainty, I wandered over to <a href="/r/games">r/games</a> and saw a lot of threads there about studio layoffs and closures in the flatscreen gaming industry. </p> <p>I wonder whether VR isn&#39;t in any special trouble or decline, it&#39;s just having the same difficulties as the rest of the games industry (and the wider economy?)</p> <p>Of course, a small, barely born industry like VR is more easily snuffed out by a general downturn than larger industries, but I don&#39;t know if we can really claim that the inherent attributes of VR are killing it. (or Meta, etc.)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zeddyzed"> /u/zeddyzed </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikglct/vr_studio_closureslayoffs_might_just_be_normal_in/">[link]</a></span> &#32; <sp
+
+## Want to play flat screen games in VR
+ - [https://www.reddit.com/r/virtualreality/comments/1ikfw4p/want_to_play_flat_screen_games_in_vr](https://www.reddit.com/r/virtualreality/comments/1ikfw4p/want_to_play_flat_screen_games_in_vr)
+ - RSS feed: $source
+ - date published: 2025-02-08T05:20:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to be able ti play flatscreen games like Roblox flatscreen in VR. I don’t want to use a laptop or anything external, is there a way to do this, like in big screen or something. Also, I know Roblox is ok quest 2 but I’m looking to play games flatscreen, specifically Roblox flatscreen.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Netherite_Desk"> /u/Netherite_Desk </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikfw4p/want_to_play_flat_screen_games_in_vr/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikfw4p/want_to_play_flat_screen_games_in_vr/">[comments]</a></span>
+
+## Any newer high FOV headsets available?
+ - [https://www.reddit.com/r/virtualreality/comments/1ikfqwu/any_newer_high_fov_headsets_available](https://www.reddit.com/r/virtualreality/comments/1ikfqwu/any_newer_high_fov_headsets_available)
+ - RSS feed: $source
+ - date published: 2025-02-08T05:11:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been using a Pimax 8kX for a while and the headset is great (I haven&#39;t had any major issues). but I have been itching for a newer &quot;High FOV&quot; headset. and with Pimax no longer selling &quot;NEW&quot; 8kx headsets I am looking for other options. any ideas? Something with at least 150 degree FOV with higher PPD.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spartan27089"> /u/Spartan27089 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikfqwu/any_newer_high_fov_headsets_available/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikfqwu/any_newer_high_fov_headsets_available/">[comments]</a></span>
+
+## 2017-2019 VR's Golden Years
+ - [https://www.reddit.com/r/virtualreality/comments/1ikfb45/20172019_vrs_golden_years](https://www.reddit.com/r/virtualreality/comments/1ikfb45/20172019_vrs_golden_years)
+ - RSS feed: $source
+ - date published: 2025-02-08T04:46:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m currently running our classic VR streams from 2017-2019 again. Fun times back then!</p> <p>Twitch.tv/Zimtok5TV</p> <p>The ZIM VR Live show has run for 10.5 years.</p> <p>What was your favourite or most memorable game experience from back then?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zimtok5"> /u/Zimtok5 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikfb45/20172019_vrs_golden_years/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikfb45/20172019_vrs_golden_years/">[comments]</a></span>
+
+## Best conferences
+ - [https://www.reddit.com/r/virtualreality/comments/1ikf99g/best_conferences](https://www.reddit.com/r/virtualreality/comments/1ikf99g/best_conferences)
+ - RSS feed: $source
+ - date published: 2025-02-08T04:43:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was worndering what are some of the best VR conferences to ateend this year in the United States? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/b6ack"> /u/b6ack </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikf99g/best_conferences/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikf99g/best_conferences/">[comments]</a></span>
+
+## Mobile VR Escape Rooms?
+ - [https://www.reddit.com/r/virtualreality/comments/1ikez9w/mobile_vr_escape_rooms](https://www.reddit.com/r/virtualreality/comments/1ikez9w/mobile_vr_escape_rooms)
+ - RSS feed: $source
+ - date published: 2025-02-08T04:27:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to start a local business, I don’t really have enough money to have a physical location.</p> <p>But I was thinking of getting 8 oculus headsets and a 10’x 20’ pop up tent and offering mobile VR escape rooms for kids birthday parties.</p> <p>I saw a company that offers VR escape rooms for established physical locations, but they want $20k to use their games.</p> <p>I was figuring I could just do some of the escape rooms in horizon worlds or something. There are some great ones in there.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FajroFluo92"> /u/FajroFluo92 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikez9w/mobile_vr_escape_rooms/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikez9w/mobile_vr_escape_rooms/">[comments]</a></span>
+
+## With ColdVR Out.. Makes Me Want A Matrix or Max Payne Game Already.
+ - [https://www.reddit.com/r/virtualreality/comments/1ikc72p/with_coldvr_out_makes_me_want_a_matrix_or_max](https://www.reddit.com/r/virtualreality/comments/1ikc72p/with_coldvr_out_makes_me_want_a_matrix_or_max)
+ - RSS feed: $source
+ - date published: 2025-02-08T02:00:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>The slowing down of time is already here. They made a Matrix game in the past and Max Payne has a series already. I&#39;d prefer a Matrix game with all of its glory in VR though. That would be the Ultimate VR Experience.</p> <p>Could you imagine you start by choosing the red or blue pill.. then you take the blue pill and go on with the rest of your day. Life changing</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HandleZ05"> /u/HandleZ05 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikc72p/with_coldvr_out_makes_me_want_a_matrix_or_max/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikc72p/with_coldvr_out_makes_me_want_a_matrix_or_max/">[comments]</a></span>
+
+## Experience With Pimax Base Station Tracking?
+ - [https://www.reddit.com/r/virtualreality/comments/1ikb0wc/experience_with_pimax_base_station_tracking](https://www.reddit.com/r/virtualreality/comments/1ikb0wc/experience_with_pimax_base_station_tracking)
+ - RSS feed: $source
+ - date published: 2025-02-08T01:02:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m considering buying base stations to fix the tracking issues with my PCL because my tracking seems to have latency when playing games. I wanted to know how much of an improvement base station tracking is compared to the headsets tracking because if it&#39;s not much of an improvement I will be refunding the headset in exchange for a Quest 3 . It would be a shame since the visuals are phenomenal, though I understand that this headset isn&#39;t made for the faster paced games I play like Beat Saber or Blade &amp; Sorcery still I thought I&#39;d try it. </p> <p>Any inputs are welcome.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gubbs0n"> /u/Gubbs0n </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikb0wc/experience_with_pimax_base_station_tracking/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikb0wc/experience_with_pimax_base_station_
+
+## question about pcvr and setups
+ - [https://www.reddit.com/r/virtualreality/comments/1ikavil/question_about_pcvr_and_setups](https://www.reddit.com/r/virtualreality/comments/1ikavil/question_about_pcvr_and_setups)
+ - RSS feed: $source
+ - date published: 2025-02-08T00:55:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone! ive used a few headsets over the years startinf on PSVR1 and now on a quest 2, i see all of these videos and just other players in general that have features such as eye and face tracking and full body tracking and have always been curious, is there a specific brand/setup most people use for this or does it vary that much? i thought the vive focus vision seems like a good solution to this if you use the tracker but ive heard mixed things. so i thought id ask, can anyone with experience in this area explain if the vive focus vision is a good solution and if not what a good solution would actually look like?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Top-Supermarket-3357"> /u/Top-Supermarket-3357 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikavil/question_about_pcvr_and_setups/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments
+
+## Please mention some crossplay games between quest 3 and psvr2, or PCVR and psvr2
+ - [https://www.reddit.com/r/virtualreality/comments/1ikahll/please_mention_some_crossplay_games_between_quest](https://www.reddit.com/r/virtualreality/comments/1ikahll/please_mention_some_crossplay_games_between_quest)
+ - RSS feed: $source
+ - date published: 2025-02-08T00:36:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>So my friend bought a psvr2 and I have a quest 3 and even use it for pcvr too. What are the games we can play together? We already played walkabout mini golf.</p> <p>If there aren&#39;t much games then he can buy a pc to psvr adapter next month but he only has a 1660ti laptop. Is it worth it? If atleast for playing vrchat.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/charlieblood_8"> /u/charlieblood_8 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikahll/please_mention_some_crossplay_games_between_quest/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ikahll/please_mention_some_crossplay_games_between_quest/">[comments]</a></span>
+
+## Mixed tracking systems, do they work? Drawbacks?
+ - [https://www.reddit.com/r/virtualreality/comments/1ika717/mixed_tracking_systems_do_they_work_drawbacks](https://www.reddit.com/r/virtualreality/comments/1ika717/mixed_tracking_systems_do_they_work_drawbacks)
+ - RSS feed: $source
+ - date published: 2025-02-08T00:23:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Title.</p> <p>I&#39;m thinking about (Trying) to get my hands on a quest pro, but I&#39;m unsure if it&#39;d bring issues, do I need to buy a tracker and mount it to the headset? Would it work without one? I&#39;ve tried to look it up, and find something confirming or denying if it&#39;d work, but I haven&#39;t been able to find any answers.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LackIntelligent1955"> /u/LackIntelligent1955 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ika717/mixed_tracking_systems_do_they_work_drawbacks/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ika717/mixed_tracking_systems_do_they_work_drawbacks/">[comments]</a></span>
+
+## is it just me or is the vr age demographic young
+ - [https://www.reddit.com/r/virtualreality/comments/1ik9u2g/is_it_just_me_or_is_the_vr_age_demographic_young](https://www.reddit.com/r/virtualreality/comments/1ik9u2g/is_it_just_me_or_is_the_vr_age_demographic_young)
+ - RSS feed: $source
+ - date published: 2025-02-08T00:06:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>ever since the quest 2 came out (and that one pixel monkey game) there are soooo many 5-9 year olds. is it just me?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Confident-Pay6652"> /u/Confident-Pay6652 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ik9u2g/is_it_just_me_or_is_the_vr_age_demographic_young/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ik9u2g/is_it_just_me_or_is_the_vr_age_demographic_young/">[comments]</a></span>
+
+## brand new meta quest 3s stuck on "updating to latest software: estimating time remaining..."
+ - [https://www.reddit.com/r/virtualreality/comments/1ik9q73/brand_new_meta_quest_3s_stuck_on_updating_to](https://www.reddit.com/r/virtualreality/comments/1ik9q73/brand_new_meta_quest_3s_stuck_on_updating_to)
+ - RSS feed: $source
+ - date published: 2025-02-08T00:01:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>i just got my quest 3s and i did the setup on the app, but the headset just says &quot;updating to latest software: estimating time remaining...&quot;. factory resetting does nothing, sideloading update from <a href="http://meta.com">meta.com</a> says the device is not compatible. please help</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/beidoubagel"> /u/beidoubagel </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ik9q73/brand_new_meta_quest_3s_stuck_on_updating_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ik9q73/brand_new_meta_quest_3s_stuck_on_updating_to/">[comments]</a></span>
+
+## Highly interested in VR, but very prone to motion sickness
+ - [https://www.reddit.com/r/virtualreality/comments/1ik9ovs/highly_interested_in_vr_but_very_prone_to_motion](https://www.reddit.com/r/virtualreality/comments/1ik9ovs/highly_interested_in_vr_but_very_prone_to_motion)
+ - RSS feed: $source
+ - date published: 2025-02-08T00:00:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>As the title says, I&#39;ve always been extremely prone to motion sickness (ex, roller coasters are a strict no-no, and I can&#39;t even ride in a car unless I can see out the windshield the entire time).</p> <p>I played on a friend of mines&#39; VR headset for a little while, and my god what an experience!... for about 15 minutes, after which I immediately lost my lunch and was out of commission for 3 days (legit even had to call into work).</p> <p>I&#39;ve heard there&#39;s VR equipment which counters this, but all I can find is in the several thousand dollar range, well outside anything I can afford to spend.</p> <p>So - what do y&#39;all do to combat this? And are there rigs for this which are cheap enough to be affordable while still being effective?</p> <p>Thanks in advance for any advice y&#39;all can offer! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LadyNihila"> /u/LadyNihila </a> <br/> <span><a hr
+
