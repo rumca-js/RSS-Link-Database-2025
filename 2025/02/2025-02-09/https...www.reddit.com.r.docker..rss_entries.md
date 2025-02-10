@@ -1,0 +1,100 @@
+# Source:Docker: An open source project to pack, ship and run any application as a lightweight container, URL:https://www.reddit.com/r/docker/.rss, language:en
+
+## starting docker education: have three services but really confused?
+ - [https://www.reddit.com/r/docker/comments/1ilnmk9/starting_docker_education_have_three_services_but](https://www.reddit.com/r/docker/comments/1ilnmk9/starting_docker_education_have_three_services_but)
+ - RSS feed: $source
+ - date published: 2025-02-09T19:59:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have an Intel NUC with bare metal Ubuntu 24 Server on it. Installed Docker via docker website instructions. Very vanilla. Proceeded to install the following services using the first (recommended) method for each service:</p> <ol> <li><p>Linkwarden - defaults to port 3000 (two containers)</p></li> <li><p>Paperless-ngx - allowed me to specify port 8083 (five containers)</p></li> <li><p>Wiki.js - defaults to port 80 (two containers)</p></li> </ol> <p>I now have nine containers running and I&#39;m completely lost on how to manage them and their respective data(s). I have no idea how people are running dozens of these and keeping track of where the data is for each of them (and doing regular backups).</p> <p>I&#39;m going to get flamed but I need advice, are there any videos or guides that use just Docker? Everything I find is around using Portainer or some convoluted front-end setup, but I just want to learn to manage this with straight up Docker. I do
+
+## Permissions issue
+ - [https://www.reddit.com/r/docker/comments/1ilmxzu/permissions_issue](https://www.reddit.com/r/docker/comments/1ilmxzu/permissions_issue)
+ - RSS feed: $source
+ - date published: 2025-02-09T19:30:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Greetings,</p> <p>I am trying to try Beaver Habits on my NAS. I set up a docker file as they showed, and I also created a directory for the data that it creates.</p> <p>wgant@Mimir:/volume1/docker$ stat -c &#39;%u&#39; beaver <br/> 1026<br/> wgant@Mimir:/volume1/docker$ stat -c &#39;%g&#39; beaver <br/> 100 </p> <p>I did the above after SSH into the NAS and I set the user value on the container in docker compose to 1026:100 as follows</p> <pre><code>name: &#39;beaver&#39; services: beaverhabit: container_name: beaverhabits hostname: beaverhabits image: daya0576/beaverhabits:latest user: 1026:100 environment: - TZ=America/Chicago - HABITS_STORAGE=DATABASE volumes: - /volume1/docker/beaver:/app/.user ports: - 8080:8080 restart: unless-stopped labels: - &quot;com.centurylinklabs.watchtower.enable=true&quot; networks: beaver: nginx: networks: beaver: nginx: external: true </code></pre> <p>Yet, I&#39;m still getting permissions errors when it tries to cre
+
+## one container is having issues writing to a smb share
+ - [https://www.reddit.com/r/docker/comments/1ilmx6f/one_container_is_having_issues_writing_to_a_smb](https://www.reddit.com/r/docker/comments/1ilmx6f/one_container_is_having_issues_writing_to_a_smb)
+ - RSS feed: $source
+ - date published: 2025-02-09T19:29:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>As the title states the container cannot write to a smb share from within the container. I am unsure how to investigate why not. I can access the share from the host. as a su i can write to the folder. From the shared location i have set it to public and its writeable from windows and other servers. Any help is much appreciated. Thank you so much. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Werd2BigBird"> /u/Werd2BigBird </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1ilmx6f/one_container_is_having_issues_writing_to_a_smb/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1ilmx6f/one_container_is_having_issues_writing_to_a_smb/">[comments]</a></span>
+
+## Mount some file in /home/foo_file in container oriented OS
+ - [https://www.reddit.com/r/docker/comments/1ilk3a8/mount_some_file_in_homefoo_file_in_container](https://www.reddit.com/r/docker/comments/1ilk3a8/mount_some_file_in_homefoo_file_in_container)
+ - RSS feed: $source
+ - date published: 2025-02-09T17:33:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone! </p> <p>I ran into this behavior with COS (Google Container-Optimized OS). I&#39;m running an application in Docker and mounting my binary with <code>-v /home/admin/ops/plugin:/plugin</code> (this is the HashiCorp Go plugin). </p> <p>Inside the container, it has the correct permissions, but when I run <code>mount | grep /plugin</code>, it shows <code>noexec</code>. It turned out that the entire <code>/home</code> directory on the COS machine has this flag, and I had to remount it with <code>sudo mount -o remount,exec /home</code> for it to work. </p> <p>The question is: how valid is this workaround, and how can I do it more cleanly?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Halabooda"> /u/Halabooda </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1ilk3a8/mount_some_file_in_homefoo_file_in_container/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/co
+
+## ElasticSearch Error on Docker
+ - [https://www.reddit.com/r/docker/comments/1ilht1i/elasticsearch_error_on_docker](https://www.reddit.com/r/docker/comments/1ilht1i/elasticsearch_error_on_docker)
+ - RSS feed: $source
+ - date published: 2025-02-09T15:56:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi! I&#39;m a junior ruby on rails developer and little experience with Docker aside from running instances. </p> <p>I recently formatted my Apple M1. ElasticSearch on Docker used to work, but now when I run <code>docker compose up</code> I get the following error:</p> <pre><code>elasticsearch-1 | VM settings: elasticsearch-1 | Min. Heap Size: 512.00M elasticsearch-1 | Max. Heap Size: 512.00M elasticsearch-1 | Using VM: OpenJDK 64-Bit Server VM elasticsearch-1 | elasticsearch-1 | 2025-02-09 15:51:51,443 main ERROR Could not reconfigure JMX java.lang.NullPointerException: Cannot invoke &quot;jdk.internal.platform.CgroupInfo.getMountPoint()&quot; because &quot;anyController&quot; is null elasticsearch-1 | at java.base/jdk.internal.platform.cgroupv2.CgroupV2Subsystem.getInstance(CgroupV2Subsystem.java:81) elasticsearch-1 | at java.base/jdk.internal.platform.CgroupSubsystemFactory.create(CgroupSubsystemFactory.java:113) elasticsearch-1 | at java.base/jdk
+
+## denied: requested access to the resource is denied
+ - [https://www.reddit.com/r/docker/comments/1ilgmao/denied_requested_access_to_the_resource_is_denied](https://www.reddit.com/r/docker/comments/1ilgmao/denied_requested_access_to_the_resource_is_denied)
+ - RSS feed: $source
+ - date published: 2025-02-09T15:04:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am on a MacBook Pro. </p> <p>I am able to build operate etc on my laptop with a Docker container I created. Just not able to push to the hub.</p> <p>I have successfully logged in the shell (docker login)</p> <p>How can I troubleshoot this error while attempting to push? Are there other error messages somewhere I can look at?</p> <p>TIA, Srini</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DrawingNearby2978"> /u/DrawingNearby2978 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1ilgmao/denied_requested_access_to_the_resource_is_denied/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1ilgmao/denied_requested_access_to_the_resource_is_denied/">[comments]</a></span>
+
+## Run Deepseek r1 Distilled Locally (Docker + Ollama + OpenWebUI)
+ - [https://www.reddit.com/r/docker/comments/1ilfyst/run_deepseek_r1_distilled_locally_docker_ollama](https://www.reddit.com/r/docker/comments/1ilfyst/run_deepseek_r1_distilled_locally_docker_ollama)
+ - RSS feed: $source
+ - date published: 2025-02-09T14:33:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>If you haven’t tried DeepSeek R1 yet, you can run it locally in your web browser!</p> <p>Thanks for Docker, Ollama and OpenWebUI!</p> <p>In my new video, I’ll show you how to set it up step by step. Check it out!</p> <p><a href="https://youtu.be/7tkstNuCt8I?si=oY3GedOXhPcZj2vK">Ollama DeepSeek R1 in Browser Locally</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kind-Industry-609"> /u/Kind-Industry-609 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1ilfyst/run_deepseek_r1_distilled_locally_docker_ollama/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1ilfyst/run_deepseek_r1_distilled_locally_docker_ollama/">[comments]</a></span>
+
+## Understaing Architecture/ Process Flow of Deployment
+ - [https://www.reddit.com/r/docker/comments/1ilcqdk/understaing_architecture_process_flow_of](https://www.reddit.com/r/docker/comments/1ilcqdk/understaing_architecture_process_flow_of)
+ - RSS feed: $source
+ - date published: 2025-02-09T11:26:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am very new to docker and deployment. I am currently working on a chatbot based solution. We plan to deploy this as an Azure web app.</p> <p>Now consider this:<br/> There are 4 projects. And 5 ways of implementations (variants). So one project can have more than one way of implementation. And each such &#39;project x implementation&#39; has been packaged separately using docker.<br/> In the UI, let us say the first screen lets the user choose a particular project. After choosing a project, the chatbot screen opens and there is another dropdown that lets them choose the implementation. </p> <p>Can someone help me with how the architecture for this will look like? And how each such &#39;project x implementation&#39; will be called and how they will be present as containers and how the web app will look like?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Longjumping_Job_4451"> /u/Longjumping_Job_4451 </a> <br/>
+
+## Running into problem with running script against a docker container on Synology NAS
+ - [https://www.reddit.com/r/docker/comments/1ilc34f/running_into_problem_with_running_script_against](https://www.reddit.com/r/docker/comments/1ilc34f/running_into_problem_with_running_script_against)
+ - RSS feed: $source
+ - date published: 2025-02-09T10:41:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>When I originally set up my Synology NAS (DS1522+), I set up a separate group called &quot;dockergroup&quot; to give limited permissions when setting up docker containers and having to enter PUID and GUID in docker compose yaml files.</p> <p>I am running an instance of Bookstack which has a database that I want to routinely back up. I wrote a script, but it will only run under root access (using Task Scheduler). I don&#39;t want to have to keep it under root access. When I try to run it under my personal user admin account, I get this error:</p> <p>permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get &quot;http://%2Fvar%2Frun%2Fdocker.sock/v1.24/containers/bookstack\_db/json&quot;: dial unix /var/run/docker.sock: connect: permission denied</p> <p>When I run the command: ls -l /var/run/docker.sock, I get</p> <p>srw-rw---- 1 root root 0 Feb 7 08:45 /var/run/docker.sock</p> <p>So, it looks like only r
+
+## Copying files to a created container
+ - [https://www.reddit.com/r/docker/comments/1ilaaz5/copying_files_to_a_created_container](https://www.reddit.com/r/docker/comments/1ilaaz5/copying_files_to_a_created_container)
+ - RSS feed: $source
+ - date published: 2025-02-09T08:30:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am trying to copy files to a created container (not running), using the docker go SDK</p> <p>snippet:</p> <pre><code>func (c *DkClient) CopyToContainer(containerID string, tarPath string) error { log.Debug().Msgf(&quot;Copying files to container %s&quot;, containerDirectory) tarStream, err := os.Open(tarPath) if err != nil { return err } c.client.Cop err = c.client.CopyToContainer( context.Background(), containerID, containerDirectory, tarStream, container.CopyToContainerOptions{AllowOverwriteDirWithFile: true}, ) if err != nil { log.Error().Err(err).Msgf(&quot;failed to copy to Docker container&quot;) return fmt.Errorf(&quot;failed to copy submission to container&quot;) } return nil } </code></pre> <p>But I get the following error</p> <pre><code>Error response from daemon: Could not find the file /home/test/test.tar.gz in container .... </code></pre> <p>If I use docker cp it works</p> <p>docker cp .\test.tar.gz &lt;contId&gt;:/home/test/test.tar.g
+
+## Docker Containers cannot access other devices on the network
+ - [https://www.reddit.com/r/docker/comments/1il5qfa/docker_containers_cannot_access_other_devices_on](https://www.reddit.com/r/docker/comments/1il5qfa/docker_containers_cannot_access_other_devices_on)
+ - RSS feed: $source
+ - date published: 2025-02-09T03:37:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m sure there is a simple answer but I can&#39;t quite figure it out and my Googling hasn&#39;t really led me anywhere except trying Host networking mode on the container which didn&#39;t change anything in this regard.</p> <p>I have Docker Desktop 4.38.0 running on a Windows 11 box that so far hasn&#39;t had any other issues with. I have a few tools, Watchstate and Homepage in particular, that would need access to resources on another Windows box so that Watchstate can pull information from Jellyfin and Homepage&#39;s widgets can get some details from a number of applications. The resources there are accessible remotely via IP with no issues on any workstations just not to the Docker containers. The Docker containers are accessible via IP with no issues from any other device on the network as well so it doesn&#39;t appear to be an issue with either host OS which points me to it being something with Docker.</p> <p>Edit: Turns out it&#39;s a bug.
+
+## Plex not finding files in volumes
+ - [https://www.reddit.com/r/docker/comments/1il59z5/plex_not_finding_files_in_volumes](https://www.reddit.com/r/docker/comments/1il59z5/plex_not_finding_files_in_volumes)
+ - RSS feed: $source
+ - date published: 2025-02-09T03:12:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>UPDATE - FIXED Purely on a whim, I wiped the config folder and relaunched the server. Everything is working now. Probably I messed something up early on. </p> <p>Very new to docker, but I was trying to set up my Plex server through it. I&#39;ve got it running, but all mapped volumes are showing as empty in Plex. Apologies in advance if I get some terminology wrong, I&#39;m very new to all of this. </p> <p>This is my Docker Compose file:</p> <pre><code>services: plex: image: lscr.io/linuxserver/plex:latest container_name: plex network_mode: host environment: - PUID=1026 - PGID=100 - TZ=America/Los_Angeles - VERSION=docker - PLEX_CLAIM= #optional volumes: - /volume1/docker/plex:/config - /volume1/PlexMediaLibrary/Series:/tv - /volume1/PlexMediaLibrary/Movies:/movies restart: unless-stopped </code></pre> <p>Plex shows the volumes of /tv and /movies, but both are entirely empty. If I go into the terminal and check for the folder contents, everything seem
+
+## Need help with accessing and managing qBittorrent downloads in Docker container and syncing with NAS
+ - [https://www.reddit.com/r/docker/comments/1il3nsc/need_help_with_accessing_and_managing_qbittorrent](https://www.reddit.com/r/docker/comments/1il3nsc/need_help_with_accessing_and_managing_qbittorrent)
+ - RSS feed: $source
+ - date published: 2025-02-09T01:47:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi I’m currently running qBittorrent inside a Docker container, and my downloads are being stored at the following path:</p> <p><code>/fs/mnt/fs/root/docker/qbittorrent/downloads/</code></p> <p>What I’m hoping is to download the files I torrent directly into my NAS, instead of just within the Docker container.</p> <ol> <li><strong>Docker configurations</strong>: I’m not sure if I have the correct volume mounts or permissions set up for this directory.</li> <li><strong>Downloading directly to my NAS</strong>: I want to set it up so that the torrent downloads go straight to a shared folder on my NAS instead of the files staying in the Docker container&#39;s local storage taking up unnecessary space. </li> <li><strong>Automation</strong>: I would like to automate moving and syncing files in and out of this directory (I’ve been considering using tools like <code>rclone)</code> </li> <li><strong>General advice</strong>: Anything I’m missing here for bette
+
+## Deleting files from build context
+ - [https://www.reddit.com/r/docker/comments/1il2caw/deleting_files_from_build_context](https://www.reddit.com/r/docker/comments/1il2caw/deleting_files_from_build_context)
+ - RSS feed: $source
+ - date published: 2025-02-09T00:40:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m trying to build a container and install a software. Normally, I&#39;d use one RUN statement, download with wget, install, the delete it. However this software is only available via a 25GB tar.gz file that can only be downloaded after a web login. I can use COPY to copy the file in then delete it but the copy layer still remains. </p> <p>Is there some workaround so I don&#39;t carry an extra 25G with my image? Is there a way to copy into the build context within a RUN statement?</p> <p>On a similar note, I also sometimes need to install software by cloning a private git repo requiring me to copy my ssh key into the build context but then anyone can get my SSH key later even if I delete it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eng33"> /u/eng33 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1il2caw/deleting_files_from_build_context/">[link]</a></span> &#32; <span><a href="http
+

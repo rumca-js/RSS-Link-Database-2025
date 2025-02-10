@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-09T09:52:29+00:00",
+        "description": "John Carmack described PC VR as &quot;a boutique niche&quot;, standalone VR as &quot;the biggest win that VR ever had&quot;, and Beat Saber as &quot;far more important than Half-Life: Alyx&quot;.",
+        "id": 2074991,
+        "language": null,
+        "link": "https://www.uploadvr.com/john-carmack-pc-vr-is-a-boutique-niche",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 375,
+        "source_url": "https://www.uploadvr.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.uploadvr.com/content/images/2025/02/John-Carmack.jpg",
+        "title": "John Carmack: PC VR &quot;A Boutique Niche&quot;, Beat Saber &quot;Far More Important Than Half-Life: Alyx&quot;",
+        "vote": 0
+    }
+]

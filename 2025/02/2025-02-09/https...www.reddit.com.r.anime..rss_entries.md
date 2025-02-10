@@ -1,0 +1,191 @@
+# Source:/r/Anime, URL:https://www.reddit.com/r/anime/.rss, language:en
+
+## Sakura Wars Rewatch - Episode 9 Discussion
+ - [https://www.reddit.com/r/anime/comments/1ilrtfh/sakura_wars_rewatch_episode_9_discussion](https://www.reddit.com/r/anime/comments/1ilrtfh/sakura_wars_rewatch_episode_9_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-09T23:00:16+00:00
+
+<!-- SC_OFF --><div class="md"><h1>Chapter 9: A Girl Called Kazuar</h1> <p><a href="https://old.reddit.com/r/anime/comments/1il0845/sakura_wars_rewatch_episode_8_discussion/">← Previous Episode</a> | <a href="https://old.reddit.com/r/anime/comments/1huk0v3/sakura_wars_rewatch_official_announcement/">Index</a> | Next Episode →</p> <hr/> <p><a href="https://myanimelist.net/anime/561/Sakura_Taisen">MAL</a> | <a href="https://anilist.co/anime/561/Sakura-Taisen/">Anilist</a> | <a href="https://kitsu.app/anime/sakura-taisen">Kitsu</a> | <a href="https://anidb.net/anime/400">AniDB</a> | <a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=582">ANN</a></p> <hr/> <p><strong><em>I wish I had felt the way you do, back then.</em></strong></p> <p>Hello everybody, time for the Comment of the Day, courtesy of <a href="/u/JollyGee29">u/JollyGee29</a> for <a href="https://old.reddit.com/r/anime/comments/1il0845/sakura_wars_rewatch_episode_8_discussion/mbqq45j/">revealing the show&#39;s
+
+## Former Crunchyroll Employee Says He Was Fired After Reporting Workplace Misconduct
+ - [https://www.reddit.com/r/anime/comments/1ilr19s/former_crunchyroll_employee_says_he_was_fired](https://www.reddit.com/r/anime/comments/1ilr19s/former_crunchyroll_employee_says_he_was_fired)
+ - RSS feed: $source
+ - date published: 2025-02-09T22:24:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ilr19s/former_crunchyroll_employee_says_he_was_fired/"> <img src="https://external-preview.redd.it/Kaw6wRtJ_9olq3fWUMP5uy_zUqDsC21yBkzFOtSxaUE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7e66fa7c4afc79a8e985ea46c8bce86ac0dca9f4" alt="Former Crunchyroll Employee Says He Was Fired After Reporting Workplace Misconduct" title="Former Crunchyroll Employee Says He Was Fired After Reporting Workplace Misconduct" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdNecessary7641"> /u/AdNecessary7641 </a> <br/> <span><a href="https://animecorner.me/former-crunchyroll-employee-says-he-was-fired-after-reporting-workplace-misconduct/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ilr19s/former_crunchyroll_employee_says_he_was_fired/">[comments]</a></span> </td></tr></table>
+
+## [Rewatch] Yona of the Dawn - Episode 22 Discussion
+ - [https://www.reddit.com/r/anime/comments/1ilqhos/rewatch_yona_of_the_dawn_episode_22_discussion](https://www.reddit.com/r/anime/comments/1ilqhos/rewatch_yona_of_the_dawn_episode_22_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-09T22:00:55+00:00
+
+<!-- SC_OFF --><div class="md"><h1><strong>Episode 22 - History Is Made At Night</strong></h1> <p><a href="https://www.reddit.com/r/anime/comments/1ikywmc/rewatch_yona_of_the_dawn_episode_21_discussion/">Previous Episode</a> | <a href="https://www.reddit.com/r/anime/comments/1huilr1/yona_of_the_dawn_rewatch_announcement/">Index</a> | [Next Episode]()</p> <p><a href="https://myanimelist.net/anime/25013/Akatsuki_no_Yona?q=yona%20of%20the%20dawn&amp;cat=anime">MAL</a> | <a href="https://anilist.co/anime/20770/Akatsuki-no-Yona/">AniList</a> | <a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16154">ANN</a> </p> <blockquote> <p>The climactic battle between the pirates and Keum-ji&#39;s forces comes to a conclusion. Despite her many injuries, Yona takes an important step forward to protect those she cares about. However, an even greater trial awaits her.</p> <hr/> </blockquote> <p><a href="https://www.hulu.com/series/yona-of-the-dawn-815cd76d-fa30-4e4a-8a5b-d4704b827580">
+
+## [Rewatch] 3-episode rule 1960s anime – Sally the witch (episode 3)
+ - [https://www.reddit.com/r/anime/comments/1ilqgzo/rewatch_3episode_rule_1960s_anime_sally_the_witch](https://www.reddit.com/r/anime/comments/1ilqgzo/rewatch_3episode_rule_1960s_anime_sally_the_witch)
+ - RSS feed: $source
+ - date published: 2025-02-09T22:00:10+00:00
+
+<!-- SC_OFF --><div class="md"><h1>Rewatch: 3-episode rule 1960s anime – Sally the witch (episode 3)</h1> <p><a href="https://old.reddit.com/r/anime/comments/1ikyvrd/rewatch_3episode_rule_1960s_anime_sally_the_witch/">&lt;- previous post</a> | <a href="https://www.reddit.com/r/anime/comments/1htplqv/rewatch_3episode_rule_1960s_anime_astro_boy/">index</a></p> <h2>Sally the Witch (1966)</h2> <p><a href="https://myanimelist.net/anime/3356/Mahoutsukai_Sally">MAL</a> | <a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1385">ANN</a> | <a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=1890">AniDB</a> | <a href="https://anilist.co/anime/3356/Mahoutsukai-Sally">Anilist</a></p> <h2>Production trivia</h2> <p>All out of trivia. Enjoy a <a href="https://www.animenewsnetwork.com/watch/2021-06-04/the-enduring-history-of-magical-girls/.173513">short history of the Mahou Shoujo genre</a>, thanks to ANN. Did you know that Sally was not just the first magical girl anim
+
+## Does Netflix Japan have almost every anime?
+ - [https://www.reddit.com/r/anime/comments/1ilq807/does_netflix_japan_have_almost_every_anime](https://www.reddit.com/r/anime/comments/1ilq807/does_netflix_japan_have_almost_every_anime)
+ - RSS feed: $source
+ - date published: 2025-02-09T21:49:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m wondering if it&#39;s worth it to get Nord vpn or some other VPN ( give me your suggestions) to run Netflix Japan and watch anime but I don&#39;t know if that&#39;s a smart idea or I should just get myself a Crunchyroll subscription </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/0DaBoSsiSmE0"> /u/0DaBoSsiSmE0 </a> <br/> <span><a href="https://www.reddit.com/r/anime/comments/1ilq807/does_netflix_japan_have_almost_every_anime/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ilq807/does_netflix_japan_have_almost_every_anime/">[comments]</a></span>
+
+## [Rewatch] Fire Force - Episode 9 Discussion
+ - [https://www.reddit.com/r/anime/comments/1ilp1up/rewatch_fire_force_episode_9_discussion](https://www.reddit.com/r/anime/comments/1ilp1up/rewatch_fire_force_episode_9_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-09T21:00:10+00:00
+
+<!-- SC_OFF --><div class="md"><h1><a href="https://i.imgur.com/PgnwS8g.jpeg">Episode 9 - The Spreading Malice</a></h1> <p><em>Behold the brilliance of the star of flames ensconded in the Heavens! Turn all people into flames, and engulf the earth in the great flame of fire! Incinerate this imperfect earth and its humanity in the flames of salvation! And turn this world into a second sun!</em></p> <p>_____________________________________________________________________________________________________________________</p> <p>&lt;--- <a href="https://www.reddit.com/r/anime/s/t8uklsMqp1">Previous mission</a> | <a href="https://www.reddit.com/r/anime/s/TDp0bb1Jaw">Great flame of fire (Index)</a> | Next mission ---&gt;</p> <p>_____________________________________________________________________________________________________________________</p> <p><strong>OP 1</strong> ---&gt; <a href="https://v.animethemes.moe/EnenNoShouboutai-OP1-NCBD1080.webm">Inferno</a> by <a href="https://animethemes
+
+## why is this cutecy swirly angel wing design so popular and where did it came from?
+ - [https://www.reddit.com/r/anime/comments/1ilmt1s/why_is_this_cutecy_swirly_angel_wing_design_so](https://www.reddit.com/r/anime/comments/1ilmt1s/why_is_this_cutecy_swirly_angel_wing_design_so)
+ - RSS feed: $source
+ - date published: 2025-02-09T19:25:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ilmt1s/why_is_this_cutecy_swirly_angel_wing_design_so/"> <img src="https://a.thumbs.redditmedia.com/fjffma_HdEOCD9RwUREoMSbAFOzpFIR3s-DnU1iFik8.jpg" alt="why is this cutecy swirly angel wing design so popular and where did it came from?" title="why is this cutecy swirly angel wing design so popular and where did it came from?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/8bpfzoyhz5ie1.jpg?width=454&amp;format=pjpg&amp;auto=webp&amp;s=eec3cf88049a8209835b8e74d9c6034bbbc366d4">https://preview.redd.it/8bpfzoyhz5ie1.jpg?width=454&amp;format=pjpg&amp;auto=webp&amp;s=eec3cf88049a8209835b8e74d9c6034bbbc366d4</a></p> <p><a href="https://preview.redd.it/mteajv5jz5ie1.jpg?width=232&amp;format=pjpg&amp;auto=webp&amp;s=bc0200d215827448c1dfb3dc19d8624254ade033">https://preview.redd.it/mteajv5jz5ie1.jpg?width=232&amp;format=pjpg&amp;auto=webp&amp;s=bc0200d215827448c1dfb3dc19d8624254ade033</a>
+
+## What Have You Watched This Past Week That is NOT a Currently Airing Show? [February 9th, 2025]
+ - [https://www.reddit.com/r/anime/comments/1ilm6l6/what_have_you_watched_this_past_week_that_is_not](https://www.reddit.com/r/anime/comments/1ilm6l6/what_have_you_watched_this_past_week_that_is_not)
+ - RSS feed: $source
+ - date published: 2025-02-09T18:59:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Title says it all - talk about the anime you watched this past week that are not a part of this Winter 2025 season (like <strong>Sakamoto Days</strong> or <strong>The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2</strong>), or a show that&#39;s continuing from previous seasons (like <strong>Blue Box</strong>).</p> <p>With regards to Fall 2024 shows, however, it would be fine to write about them as long as you only began them after they finished airing. For example, it&#39;s fine to talk about watching <strong>Acro Trip</strong> or <strong>I&#39;ll Become a Villainess Who Goes Down in History</strong> if you started them after the final episode aired. Obviously, use your best judgement on this.</p> <p><strong>Please use spoiler tags</strong>; it&#39;s super simple stuff. An example below:</p> <pre><code> [KonoSuba Ep 9] &gt;!&quot;THIS WAS A VERY BAD EPISODE, DARKNESS DID NOT DESERVE THAT!&lt; </code></pre> <p>comes out 
+
+## Zenshu - Episode 6 discussion
+ - [https://www.reddit.com/r/anime/comments/1iljrpb/zenshu_episode_6_discussion](https://www.reddit.com/r/anime/comments/1iljrpb/zenshu_episode_6_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-09T17:19:37+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Zenshu</em>, episode 6</p> <p>Alternative names: <em>Zenshuu, Zenshuu.</em></p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/zenshu">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/58502/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/176273">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18547">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/zenshu">Anime-Planet</a></li> <li><a href="https://zenshu-anime.com/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th> </tr> </thead><tbody> <tr> <td align="center">1</td> <td align="center"><a href="https://redd.it/1hubu8r">Link</a></td> </tr> <tr> <td align="center">2</td> <td align="center"><a href="https://redd.it/1hzrl5d">Link</
+
+## [CV. Chiba Shigeru] Theatrical version "Me and Roboco" Multiverse Roboco PV② ~The world line of authentic sci-fi action~│Nationwide release on Friday, April 18, 2025!
+ - [https://www.reddit.com/r/anime/comments/1ili12b/cv_chiba_shigeru_theatrical_version_me_and_roboco](https://www.reddit.com/r/anime/comments/1ili12b/cv_chiba_shigeru_theatrical_version_me_and_roboco)
+ - RSS feed: $source
+ - date published: 2025-02-09T16:06:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ili12b/cv_chiba_shigeru_theatrical_version_me_and_roboco/"> <img src="https://external-preview.redd.it/Yso0Wntyvnp0AUhYGe1OwCKzwkTtz3YrbjydZRS59mg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=23c92de7d571e0ded5129bfdd0a29703a37aa6c9" alt="[CV. Chiba Shigeru] Theatrical version &quot;Me and Roboco&quot; Multiverse Roboco PV② ~The world line of authentic sci-fi action~│Nationwide release on Friday, April 18, 2025!" title="[CV. Chiba Shigeru] Theatrical version &quot;Me and Roboco&quot; Multiverse Roboco PV② ~The world line of authentic sci-fi action~│Nationwide release on Friday, April 18, 2025!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ToonAdventure"> /u/ToonAdventure </a> <br/> <span><a href="https://www.youtube.com/watch?v=16yz126_dH8">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ili12b/cv_chiba_shigeru_theatrical_version_me_and_roboco/">[c
+
+## Sentai Red Isekai de Boukensha ni Naru • The Red Ranger Becomes an Adventurer in Another World - Episode 5 discussion
+ - [https://www.reddit.com/r/anime/comments/1ilhz8m/sentai_red_isekai_de_boukensha_ni_naru_the_red](https://www.reddit.com/r/anime/comments/1ilhz8m/sentai_red_isekai_de_boukensha_ni_naru_the_red)
+ - RSS feed: $source
+ - date published: 2025-02-09T16:04:22+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Sentai Red Isekai de Boukensha ni Naru</em>, episode 5</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/the-red-ranger-becomes-an-adventurer-in-another-world">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/59514/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/180052">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18809">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/the-red-ranger-becomes-an-adventurer-in-another-world">Anime-Planet</a></li> <li><a href="https://isekai-red-anime.com/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="cen
+
+## Kinnikuman: Perfect Origin-hen Season 2 • Kinnikuman: Perfect Origin Arc Season 2 - Episode 5 discussion
+ - [https://www.reddit.com/r/anime/comments/1ilhams/kinnikuman_perfect_originhen_season_2_kinnikuman](https://www.reddit.com/r/anime/comments/1ilhams/kinnikuman_perfect_originhen_season_2_kinnikuman)
+ - RSS feed: $source
+ - date published: 2025-02-09T15:34:21+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Kinnikuman: Perfect Origin-hen Season 2</em>, episode 5</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <p><em>None</em></p> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/59914/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/181886">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18875">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/kinnikuman-perfect-origin-arc-season-2">Anime-Planet</a></li> <li><a href="https://kin29man-anime.com/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th> </tr> </thead><tbody> <tr> <td align="center">1</td> <td align="center"><a href="https://redd.it/1hzp4e
+
+## ME & ROBOCO Movie New Visual
+ - [https://www.reddit.com/r/anime/comments/1ilgj8n/me_roboco_movie_new_visual](https://www.reddit.com/r/anime/comments/1ilgj8n/me_roboco_movie_new_visual)
+ - RSS feed: $source
+ - date published: 2025-02-09T15:00:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ilgj8n/me_roboco_movie_new_visual/"> <img src="https://external-preview.redd.it/4JbRFLO3g1Bz3qcnrWORf3Zit7KbNjEBKisBa5k89eA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a5052128b1feca4117962e63370a0f13e1aaf2f7" alt="ME &amp; ROBOCO Movie New Visual" title="ME &amp; ROBOCO Movie New Visual" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Turbostrider27"> /u/Turbostrider27 </a> <br/> <span><a href="https://pbs.twimg.com/media/GjWUfuTaIAAzmAp.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ilgj8n/me_roboco_movie_new_visual/">[comments]</a></span> </td></tr></table>
+
+## Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo Season 2 • The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 - Episode 5 discussion
+ - [https://www.reddit.com/r/anime/comments/1ilfi10/kimi_no_koto_ga_daidaidaidaidaisuki_na_100nin_no](https://www.reddit.com/r/anime/comments/1ilfi10/kimi_no_koto_ga_daidaidaidaidaisuki_na_100nin_no)
+ - RSS feed: $source
+ - date published: 2025-02-09T14:10:21+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo Season 2</em>, episode 5</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/the-100-girlfriends-who-really-really-really-really-really-love-you">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/57616/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/172258">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18343">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/the-100-girlfriends-who-really-really-really-really-really-love-you-season-2">Anime-Planet</a></li> <li><a href="https://hyakkano.com/">Official Website</a></li> <li><strong><a href="/r/100Kanojo">/r/100Kanojo</a></strong></
+
+## [Fall 2024] Best Seiyuu of the Season - VOTING (Round 1)!
+ - [https://www.reddit.com/r/anime/comments/1ilfbiw/fall_2024_best_seiyuu_of_the_season_voting_round_1](https://www.reddit.com/r/anime/comments/1ilfbiw/fall_2024_best_seiyuu_of_the_season_voting_round_1)
+ - RSS feed: $source
+ - date published: 2025-02-09T14:00:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ilfbiw/fall_2024_best_seiyuu_of_the_season_voting_round_1/"> <img src="https://b.thumbs.redditmedia.com/3096jNKWvkRvYN-9QFCv5k8sKrqA7BnOr2Y1tTwYw0k.jpg" alt="[Fall 2024] Best Seiyuu of the Season - VOTING (Round 1)!" title="[Fall 2024] Best Seiyuu of the Season - VOTING (Round 1)!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Vote here:</p> <ul> <li><a href="https://animebracket.com/r-anime-best-female-seiyuu-of-fall-2024/vote">Female Category</a></li> <li><a href="https://animebracket.com/r-anime-best-male-seiyuu-of-fall-2024/vote">Male Category</a></li> </ul> <p>The eliminations phase has now ended, so it is now time for the voting phase. There will be a total of 64 entrants and 6 rounds for both categories, with each round lasting a day.</p> <p>If you ever find a character who is &quot;missing&quot;, you may want to look up the seiyuu who voiced it, then search it in the entrants list with &quot;Ctrl&quot; +
+
+## r/anime Karma Ranking & Discussion | Week 6 [Winter 2025]
+ - [https://www.reddit.com/r/anime/comments/1ilfbev/ranime_karma_ranking_discussion_week_6_winter_2025](https://www.reddit.com/r/anime/comments/1ilfbev/ranime_karma_ranking_discussion_week_6_winter_2025)
+ - RSS feed: $source
+ - date published: 2025-02-09T14:00:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ilfbev/ranime_karma_ranking_discussion_week_6_winter_2025/"> <img src="https://preview.redd.it/rh93bs2ud4ie1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f9a75662ce1cf09b91a2c67c10752ebed9932d8" alt="r/anime Karma Ranking &amp; Discussion | Week 6 [Winter 2025]" title="r/anime Karma Ranking &amp; Discussion | Week 6 [Winter 2025]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Abysswatcherbel"> /u/Abysswatcherbel </a> <br/> <span><a href="https://i.redd.it/rh93bs2ud4ie1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ilfbev/ranime_karma_ranking_discussion_week_6_winter_2025/">[comments]</a></span> </td></tr></table>
+
+## [Makeine] Losing Heroine No More?
+ - [https://www.reddit.com/r/anime/comments/1ilehuj/makeine_losing_heroine_no_more](https://www.reddit.com/r/anime/comments/1ilehuj/makeine_losing_heroine_no_more)
+ - RSS feed: $source
+ - date published: 2025-02-09T13:17:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ilehuj/makeine_losing_heroine_no_more/"> <img src="https://external-preview.redd.it/WyT8PIk6tPRUTwcvCT_QWPfBo4F4E5u8SD-t2v6CG4A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d8c0afb03e6973ed0bf962abe69a9d5c34d9055" alt="[Makeine] Losing Heroine No More?" title="[Makeine] Losing Heroine No More?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zeallfnonex"> /u/Zeallfnonex </a> <br/> <span><a href="https://i.postimg.cc/CMZmSrK9/IMG-0567.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ilehuj/makeine_losing_heroine_no_more/">[comments]</a></span> </td></tr></table>
+
+## r/anime’ s best girl of 2024: The Grand Final!
+ - [https://www.reddit.com/r/anime/comments/1ile8ep/ranime_s_best_girl_of_2024_the_grand_final](https://www.reddit.com/r/anime/comments/1ile8ep/ranime_s_best_girl_of_2024_the_grand_final)
+ - RSS feed: $source
+ - date published: 2025-02-09T13:02:24+00:00
+
+<!-- SC_OFF --><div class="md"><h3>We have our two finalists!</h3> <h4>Coming from the left is your Summer Champion, Anna Yanami from Makeine: Too Many Losing Heroines!!</h4> <h4>Coming from the right is your Winter Elite-Eight, Marcille Donato from Delicious in Dungeon!</h4> <h4>Both would make history if they became the seasonal champion.</h4> <p>Summer has yet to produce an annual champion. Chisato Nishikigi came close in annual salt 2022 but could not overcome the pink wave of Bocchi, this time with the blue wave Anna Yanami has brought, would the 4K otter girl making history for summer and become the ultimate winning heroine of 2024?</p> <p>Although there have been 3 not-seasonal-champion girls winning the annual salt, all of them are runner-up in their respective season. Our beloved Marcille suffered a bit when the Magia Baiser jumped out and ended her seasonal run. In annual salt she barely passed the elite-eight but she came back strong in the semi-finals and now she is in th
+
+## Fate/strange Fake New Character Visuals: Orlando Reeve (cv. Wataru Hatano), Caster (cv. Shoutaro Morikubo)
+ - [https://www.reddit.com/r/anime/comments/1ildtzs/fatestrange_fake_new_character_visuals_orlando](https://www.reddit.com/r/anime/comments/1ildtzs/fatestrange_fake_new_character_visuals_orlando)
+ - RSS feed: $source
+ - date published: 2025-02-09T12:38:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ildtzs/fatestrange_fake_new_character_visuals_orlando/"> <img src="https://external-preview.redd.it/sz9JL04l3U6tTN9YBlCt6naQkRa_i_YgrphnSHaR7HM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2caefe8454a39dfb5255d4c1305136201b9f805a" alt="Fate/strange Fake New Character Visuals: Orlando Reeve (cv. Wataru Hatano), Caster (cv. Shoutaro Morikubo)" title="Fate/strange Fake New Character Visuals: Orlando Reeve (cv. Wataru Hatano), Caster (cv. Shoutaro Morikubo)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ashteron"> /u/Ashteron </a> <br/> <span><a href="https://pbs.twimg.com/media/GjPvCrMaUAAcrcB?format=jpg&amp;name=4096x4096">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ildtzs/fatestrange_fake_new_character_visuals_orlando/">[comments]</a></span> </td></tr></table>
+
+## 10 years ago, one of my favourite ever 'confession' scenes in anime aired for the first time featuring Touyama Nao first ever lead role [The World God Only Knows]
+ - [https://www.reddit.com/r/anime/comments/1ildj8h/10_years_ago_one_of_my_favourite_ever_confession](https://www.reddit.com/r/anime/comments/1ildj8h/10_years_ago_one_of_my_favourite_ever_confession)
+ - RSS feed: $source
+ - date published: 2025-02-09T12:19:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ildj8h/10_years_ago_one_of_my_favourite_ever_confession/"> <img src="https://external-preview.redd.it/N3Jrb2lvbHF2M2llMVpXD5xunI3H_4OOMAOTdLNdctCLQxSfm7MqK8g29zB4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=eae32b938bd49ed7f458c604226e119d2aa06c2a" alt="10 years ago, one of my favourite ever 'confession' scenes in anime aired for the first time featuring Touyama Nao first ever lead role [The World God Only Knows]" title="10 years ago, one of my favourite ever 'confession' scenes in anime aired for the first time featuring Touyama Nao first ever lead role [The World God Only Knows]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/melvinlee88"> /u/melvinlee88 </a> <br/> <span><a href="https://v.redd.it/skj6stauu3ie1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ildj8h/10_years_ago_one_of_my_favourite_ever_confession/">[comments]</a></span> </td></tr
+
+## Sakura has a snack {Fate/stay night: Heaven's Feel - II. Lost Butterfly}
+ - [https://www.reddit.com/r/anime/comments/1ild566/sakura_has_a_snack_fatestay_night_heavens_feel_ii](https://www.reddit.com/r/anime/comments/1ild566/sakura_has_a_snack_fatestay_night_heavens_feel_ii)
+ - RSS feed: $source
+ - date published: 2025-02-09T11:54:45+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/FinishAwkward43"> /u/FinishAwkward43 </a> <br/> <span><a href="https://v.redd.it/j4x3li2sq3ie1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ild566/sakura_has_a_snack_fatestay_night_heavens_feel_ii/">[comments]</a></span>
+
+## Jibaku Shounen Hanako-kun Season 2 • Toilet-bound Hanako-kun Season 2 - Episode 5 discussion
+ - [https://www.reddit.com/r/anime/comments/1ilbjpp/jibaku_shounen_hanakokun_season_2_toiletbound](https://www.reddit.com/r/anime/comments/1ilbjpp/jibaku_shounen_hanakokun_season_2_toiletbound)
+ - RSS feed: $source
+ - date published: 2025-02-09T10:01:39+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Jibaku Shounen Hanako-kun Season 2</em>, episode 5</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/toilet-bound-hanako-kun">Crunchyroll</a></li> <li><a href="https://www.hulu.com/series/toilet-bound-hanako-kun-87b3d986-cbae-47ce-9076-0fe61fce06e3">Hulu</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/53924/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/170892">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=17791">AniDB</a></li> <li><a href="https://www.hanakokun.com/2nd/">Official Website</a></li> <li><strong><a href="/r/hanakokun">/r/hanakokun</a></strong></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Ep
+
+## Anime Questions, Recommendations, and Discussion - February 09, 2025
+ - [https://www.reddit.com/r/anime/comments/1ilbjgq/anime_questions_recommendations_and_discussion](https://www.reddit.com/r/anime/comments/1ilbjgq/anime_questions_recommendations_and_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-09T10:01:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ilbjgq/anime_questions_recommendations_and_discussion/"> <img src="https://external-preview.redd.it/cg-D5QdSFymytvq6aTmugPPvgJzg7xDLRsP4JvpxZy8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=33fe0eddee56dbcf276fb10795ce0182086570ee" alt="Anime Questions, Recommendations, and Discussion - February 09, 2025" title="Anime Questions, Recommendations, and Discussion - February 09, 2025" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This is a daily megathread for general chatter about anime. Have questions or need recommendations? Here to show off your merch? Want to talk about what you just watched?</p> <p><a href="https://preview.redd.it/o6z69zbqq1ie1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=fa73d9e331398fcc4c499c67cbad82ca0de13924">This is the place!</a></p> <p><a href="/r/anime/wiki/rules#wiki_tagging_comments"><strong>All spoilers must be tagged.</strong></a> Use <code>[anime name]</code> to indicate t
+
+## Shangri-La Frontier Season 2 - Episode 18 discussion
+ - [https://www.reddit.com/r/anime/comments/1ilacy5/shangrila_frontier_season_2_episode_18_discussion](https://www.reddit.com/r/anime/comments/1ilacy5/shangrila_frontier_season_2_episode_18_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-09T08:34:22+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Shangri-La Frontier Season 2</em>, episode 18</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/shangri-la-frontier">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/58572/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/176508">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18578">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/shangri-la-frontier-2nd-season">Anime-Planet</a></li> <li><a href="https://anime.shangrilafrontier.com/">Official Website</a></li> <li><strong><a href="/r/ShangriLaFrontier">/r/ShangriLaFrontier</a></strong></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Epis
+
+## My Top 100 Anime of All Time
+ - [https://www.reddit.com/r/anime/comments/1ila05b/my_top_100_anime_of_all_time](https://www.reddit.com/r/anime/comments/1ila05b/my_top_100_anime_of_all_time)
+ - RSS feed: $source
+ - date published: 2025-02-09T08:08:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ila05b/my_top_100_anime_of_all_time/"> <img src="https://external-preview.redd.it/cmZ3am96ZzZtMmllMYXLLj5Hl78VKW-KBIFWcXpRHGpVXvw4HGtCBnnZtrr4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f29f5078a005a34530190c25476536d12b7539d3" alt="My Top 100 Anime of All Time" title="My Top 100 Anime of All Time" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ooReiko"> /u/ooReiko </a> <br/> <span><a href="https://v.redd.it/ss1u70h6m2ie1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ila05b/my_top_100_anime_of_all_time/">[comments]</a></span> </td></tr></table>
+
+## Make a Girl New PV
+ - [https://www.reddit.com/r/anime/comments/1il8ea2/make_a_girl_new_pv](https://www.reddit.com/r/anime/comments/1il8ea2/make_a_girl_new_pv)
+ - RSS feed: $source
+ - date published: 2025-02-09T06:16:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1il8ea2/make_a_girl_new_pv/"> <img src="https://external-preview.redd.it/_Sul_nujOpjuGRbpX3Qj3hXt0c7bl6ErAR139l_6x5g.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c1274b14d1e2e111b223ab0ffb489c2f3361c717" alt="Make a Girl New PV" title="Make a Girl New PV" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Turbostrider27"> /u/Turbostrider27 </a> <br/> <span><a href="https://www.youtube.com/watch?v=cu1Hu1UME_4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1il8ea2/make_a_girl_new_pv/">[comments]</a></span> </td></tr></table>
+
+## Trade [Ghost in the Shell: S.A.C. 2nd Gig]
+ - [https://www.reddit.com/r/anime/comments/1il53ya/trade_ghost_in_the_shell_sac_2nd_gig](https://www.reddit.com/r/anime/comments/1il53ya/trade_ghost_in_the_shell_sac_2nd_gig)
+ - RSS feed: $source
+ - date published: 2025-02-09T03:03:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1il53ya/trade_ghost_in_the_shell_sac_2nd_gig/"> <img src="https://external-preview.redd.it/cm83c210M2k0MWllMVQudKZiUzlYy49Ih2YzBbRjlDS7FceRLmozLD4kMmj_.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d02126611423eaeceb7ecccf71de920bac5e406" alt="Trade [Ghost in the Shell: S.A.C. 2nd Gig]" title="Trade [Ghost in the Shell: S.A.C. 2nd Gig]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/000TragicSolitude"> /u/000TragicSolitude </a> <br/> <span><a href="https://v.redd.it/x3qfpuf141ie1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1il53ya/trade_ghost_in_the_shell_sac_2nd_gig/">[comments]</a></span> </td></tr></table>
+

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-09T10:00:41+00:00",
+        "description": "Za par\u0119 dni opuszczam USA, wi\u0119c dzi\u015b ostatnia niedziela w Vegas. Z tego docinka dowiecie si\u0119 r\u00f3wnie\u017c ca\u0142kiem sporo na temat smart okular\u00f3w Xreal One: https://www.xreal.com \n\nLink do utworu barbera - producenta: https://youtu.be/KJccyS-cIro?si=WTglabku88XK354p\n\nW odcinku:\n00:00 Wst\u0119p\n00:47 Klasyczne tankowanie\n01:00 Ameryka\u0144ska lod\u00f3wka Kuby\n01:34 Co z tym paliwem?\n03:03 Wizyta u barbera\n04:51 Typy youtuber\u00f3w\n06:12 Fenomen jedzenia w USA\n07:47 Okulary XREAL ONE \u2013 recenzja\n12:38 Relacji z targ\u00f3w budowlanych jednak nie b\u0119dzie\n13:06 \u015awiat\u0142o i widoki w Las Vegas\n13:37 Bezdomno\u015b\u0107 w USA\n15:13 Do zobaczenia, Vegas!",
+        "id": 2074174,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=2ghAY1HRQBE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2ghAY1HRQBE/hqdefault.jpg",
+        "title": "Ostatnia niedziela w Las Vegas",
+        "vote": 0
+    }
+]

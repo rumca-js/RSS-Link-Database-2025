@@ -1,0 +1,9 @@
+# Source:The home of developers., URL:https://www.reddit.com/r/developer/.rss, language:en
+
+## File_Picker related issue in iOS build is really headache!
+ - [https://www.reddit.com/r/developer/comments/1il3p7u/file_picker_related_issue_in_ios_build_is_really](https://www.reddit.com/r/developer/comments/1il3p7u/file_picker_related_issue_in_ios_build_is_really)
+ - RSS feed: $source
+ - date published: 2025-02-09T01:49:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>While developing an app I need to use local storage services in flutter and when I am making an iOS build, the error of &quot;file_picker&quot; related to &quot;Linux Referencing&quot; really sucks.</p> <p>Moreover, the &quot;share_preference&quot; needs upgraded version which essentially requires upgraded version of file_picker... So, it&#39;s kinda infinite loop.</p> <p>And also there is a prompt that, developer has not updated file_picker recently so ask developer to resolve this or else try other way...</p> <p>So actually how to overcome this?</p> <p>Can anyone help me in this? Or anyone is aware of resolution of this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dishantpandya777"> /u/dishantpandya777 </a> <br/> <span><a href="https://www.reddit.com/r/developer/comments/1il3p7u/file_picker_related_issue_in_ios_build_is_really/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/developer/comm
+

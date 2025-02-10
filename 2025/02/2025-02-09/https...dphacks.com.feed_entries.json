@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-09T19:26:51+00:00",
+        "description": "<p>Here&#8217;s how you can run a large language model (LLM) on a Raspberry Pi. The goal of this article is to find out if running an LLM on a Raspberry Pi is a reasonable&#46;&#46;&#46;</p>\n<p>The post <a href=\"https://dphacks.com/2025/02/09/raspberry-pi-5-coding-assistant-with-ollama-and-continue/\">Raspberry Pi 5 Coding Assistant with Ollama and Continue</a> appeared first on <a href=\"https://dphacks.com\">{DPHacks}</a>.</p>",
+        "id": 2076845,
+        "language": "en-US",
+        "link": "https://dphacks.com/2025/02/09/raspberry-pi-5-coding-assistant-with-ollama-and-continue",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 415,
+        "source_url": "https://dphacks.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Raspberry Pi 5 Coding Assistant with Ollama and Continue",
+        "vote": 0
+    }
+]

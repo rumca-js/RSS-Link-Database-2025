@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-09T09:25:00+00:00",
+        "description": "Once life gets busy, it&#8217;s sort of inevitable that we begin to sort the work to be done. And the most natural sort is to focus on the urgent. After all, if that plate is about to break, it&#8217;s hard to watch it fall when you&#8217;ve decided to work on something less urgent instead. Which [&#8230;]",
+        "id": 2074153,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/02/the-two-minute-warning",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The two-minute warning",
+        "vote": 0
+    }
+]

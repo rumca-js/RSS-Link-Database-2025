@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-09T19:29:30+00:00",
+        "description": "<p>\n\tI wanted to use VS Code with the MS C/C++ Extension for some C++ teaching. In the process, I discovered that setting the C++ language standard to build your C++ code is not as easy and intuitive as one would expect. I discussed the details in this article:</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://giodicanio.com/2025/01/17/vs-code-with-ms-c-cpp-extension-a-confusing-ui-design-choice/\">VS Code with MS C/C++ Extension: A Confusing UI Design Choice</a></h3>\n</blockquote>\n<blockquote>\n\t<p>\n\t\tby Giovanni Dicanio</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tI pressed Ctrl+Shift+P, selected C/C++ Edit Configurations (UI), and in the C/C++ Configurations page, selected c++20 for the C++ standard.</p>\n\t<p>\n\t\tThen I pressed F5 to start a debugging session, preceded by a build process, and saw that the build process failed.</p>\n\t<p>\n\t\tI took a look at the error message in the terminal window, and to my surprise the error messages were telling me that some libraries (lik",
+        "id": 2077168,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/02/vs-code-with-ms-c-cpp-extension-a-confusing-ui-design-choice-giovanni-dican",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "VS Code with MS C/C++ Extension: A Confusing UI Design Choice -- Giovanni Dicanio",
+        "vote": 0
+    }
+]

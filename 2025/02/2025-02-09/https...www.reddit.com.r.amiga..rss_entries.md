@@ -1,0 +1,86 @@
+# Source:Amiga, URL:https://www.reddit.com/r/amiga/.rss, language:en
+
+## Amiga Magazin 01-1998
+ - [https://www.reddit.com/r/amiga/comments/1ilquip/amiga_magazin_011998](https://www.reddit.com/r/amiga/comments/1ilquip/amiga_magazin_011998)
+ - RSS feed: $source
+ - date published: 2025-02-09T22:16:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>Moin Freunde,</p> <p>ich bin auf der Suche nach der letzten Amiga Magazin Ausgabe 01-1998 als .pdf Datei.</p> <p>Leider finde ich die nirgends. Wer die hat bitte gerne melden, oder auch gerne einen Link zur Quelle.</p> <p>Gerne nehme ich auch alle anderen die NACH der 01-1998 erschienen sind. Aber das waren nur noch Beilagen im PC Go Magazin.</p> <p>Danke</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mcbloch"> /u/mcbloch </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1ilquip/amiga_magazin_011998/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1ilquip/amiga_magazin_011998/">[comments]</a></span>
+
+## UPDATE: Planning to sell an Amiga 1200 – Safe to Power On After 20+ Years?
+ - [https://www.reddit.com/r/amiga/comments/1ilnilf/update_planning_to_sell_an_amiga_1200_safe_to](https://www.reddit.com/r/amiga/comments/1ilnilf/update_planning_to_sell_an_amiga_1200_safe_to)
+ - RSS feed: $source
+ - date published: 2025-02-09T19:54:47+00:00
+
+<!-- SC_OFF --><div class="md"><h1>UPDATE:</h1> <p>I appreciate all the feedback! I’ve opened plenty of computers before, but I haven’t opened an Amiga 1200 and wasn’t sure if it was worth the effort—or if I might break something brittle due to inexperience with this specific machine.</p> <p>That said, I do want to <strong>fetch a good price if possible</strong>, so I’m considering opening it up to take pictures of the board and posting them here. If everything looks clean, I may briefly power it on to test. <strong>Any gotchas I should look out for when opening it?</strong></p> <p><strong>PS - Addressing a few comments:</strong></p> <ul> <li>I’m in <strong>Michigan</strong>.</li> <li>It <strong>smells like a normal old computer</strong>, nothing funky or fishy. Power supply smells fine too.</li> <li>Whatever the case may be, I’m <strong>not replacing capacitors</strong>—I have other passions I’d rather spend time on. This is just a computer I bought in my 20s, and I want to get a <s
+
+## Anyone with a mk3 and checkmate monitor? Help please
+ - [https://www.reddit.com/r/amiga/comments/1illt8l/anyone_with_a_mk3_and_checkmate_monitor_help](https://www.reddit.com/r/amiga/comments/1illt8l/anyone_with_a_mk3_and_checkmate_monitor_help)
+ - RSS feed: $source
+ - date published: 2025-02-09T18:44:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey all,</p> <p>I have been fighting all weekend to get a good image from my mk3 with the checkmate monitor. If anyone has a great 1280x1024 setup can you please please please share your config?</p> <p>The mk3 software is infuriating to understand and make sense of. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thegshipley"> /u/thegshipley </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1illt8l/anyone_with_a_mk3_and_checkmate_monitor_help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1illt8l/anyone_with_a_mk3_and_checkmate_monitor_help/">[comments]</a></span>
+
+## Trying to play a rip of turrican 2 title music in tfmx in winuae and nothing happens just a pop sound.
+ - [https://www.reddit.com/r/amiga/comments/1iljahu/trying_to_play_a_rip_of_turrican_2_title_music_in](https://www.reddit.com/r/amiga/comments/1iljahu/trying_to_play_a_rip_of_turrican_2_title_music_in)
+ - RSS feed: $source
+ - date published: 2025-02-09T17:00:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>I got it from <a href="https://www.exotica.org.uk/wiki/Turrican_2">https://www.exotica.org.uk/wiki/Turrican_2</a> and I found a cracked disk image of tfmx on the internet archive. I found a video of some guy being able to play back the rip but for me it doesn&#39;t work. What&#39;s going on?.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Bear_1980"> /u/Ok_Bear_1980 </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1iljahu/trying_to_play_a_rip_of_turrican_2_title_music_in/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1iljahu/trying_to_play_a_rip_of_turrican_2_title_music_in/">[comments]</a></span>
+
+## Amiga disassembler with emulator: Aira Force 0.9 for Windows, Linux, macOS & RPi
+ - [https://www.reddit.com/r/amiga/comments/1ili29s/amiga_disassembler_with_emulator_aira_force_09](https://www.reddit.com/r/amiga/comments/1ili29s/amiga_disassembler_with_emulator_aira_force_09)
+ - RSS feed: $source
+ - date published: 2025-02-09T16:08:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>With <a href="https://howprice.itch.io/aira-force/devlog/883200/aira-force-090-released">version 0.9.0</a>, Howard Price has released a major update of his disassembler Aira Force (<a href="https://www.youtube.com/watch?v=A2swcx0XetI">video</a>) for Amiga programs under Windows/64-bit, Windows/32-bit, macOS, Linux/64-bit and the Raspberry Pi.</p> <p>In addition to the previous interactive disassembling and <a href="https://www.amiga-news.de/en/news/AN-2024-05-00090-EN.html">reassembling</a>, the program now also acts as an (OCS) Amiga emulator and debugger.</p> <p>You can read the full changelog on our <a href="http://Amiga-News.de">Amiga-News.de</a> website:</p> <p><a href="https://www.amiga-news.de/en/news/AN-2025-02-00034-EN.html">https://www.amiga-news.de/en/news/AN-2025-02-00034-EN.html</a></p> <p>Great tool!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Primax_AN"> /u/Primax_AN </a> <br/> <span><a href="
+
+## Zool Redimensioned: any good and Xbox release?
+ - [https://www.reddit.com/r/amiga/comments/1ilhqu8/zool_redimensioned_any_good_and_xbox_release](https://www.reddit.com/r/amiga/comments/1ilhqu8/zool_redimensioned_any_good_and_xbox_release)
+ - RSS feed: $source
+ - date published: 2025-02-09T15:54:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>Was the remaster/remake of Zool any good? Also did it get released on the Xbox? It was meant to be and a cursory Google search said it was but I can see any sign of it on the Xbox game store. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/judgemaths"> /u/judgemaths </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1ilhqu8/zool_redimensioned_any_good_and_xbox_release/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1ilhqu8/zool_redimensioned_any_good_and_xbox_release/">[comments]</a></span>
+
+## How’s your Sunday afternoon?
+ - [https://www.reddit.com/r/amiga/comments/1ilf26h/hows_your_sunday_afternoon](https://www.reddit.com/r/amiga/comments/1ilf26h/hows_your_sunday_afternoon)
+ - RSS feed: $source
+ - date published: 2025-02-09T13:47:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1ilf26h/hows_your_sunday_afternoon/"> <img src="https://preview.redd.it/xtsmwe6kb4ie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca43c3a8f9c31509823edaf8e23227fb01922a87" alt="How’s your Sunday afternoon?" title="How’s your Sunday afternoon?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iamleeg"> /u/iamleeg </a> <br/> <span><a href="https://i.redd.it/xtsmwe6kb4ie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1ilf26h/hows_your_sunday_afternoon/">[comments]</a></span> </td></tr></table>
+
+## Custom laptop sleeve
+ - [https://www.reddit.com/r/amiga/comments/1ild2si/custom_laptop_sleeve](https://www.reddit.com/r/amiga/comments/1ild2si/custom_laptop_sleeve)
+ - RSS feed: $source
+ - date published: 2025-02-09T11:50:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1ild2si/custom_laptop_sleeve/"> <img src="https://preview.redd.it/hcrqxjtkq3ie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=66feb5b40b04f96b9b2d4fa84d2e157217386385" alt="Custom laptop sleeve" title="Custom laptop sleeve" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I know I shouldn’t buy crap from TEMU but this was about €18 and arrived in less than two weeks. Padded and perfect for my MBA. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DubBrit"> /u/DubBrit </a> <br/> <span><a href="https://i.redd.it/hcrqxjtkq3ie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1ild2si/custom_laptop_sleeve/">[comments]</a></span> </td></tr></table>
+
+## Amiga 1200 winuae configuration
+ - [https://www.reddit.com/r/amiga/comments/1il8pni/amiga_1200_winuae_configuration](https://www.reddit.com/r/amiga/comments/1il8pni/amiga_1200_winuae_configuration)
+ - RSS feed: $source
+ - date published: 2025-02-09T06:37:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to configure an amiga 1200 in winuae with settings as close as possible to the real hw. For example in the cpu I set 68020 but I see some people set bigger cpu&#39;s which I can&#39;t find information that the 1200 was released with. So I would like the settings for cpu, ram, display for anyone who can help. Thanks a lot.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/denis1276"> /u/denis1276 </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1il8pni/amiga_1200_winuae_configuration/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1il8pni/amiga_1200_winuae_configuration/">[comments]</a></span>
+
+## QC: Terraforming with World Construction Set 2.0
+ - [https://www.reddit.com/r/amiga/comments/1il5szk/qc_terraforming_with_world_construction_set_20](https://www.reddit.com/r/amiga/comments/1il5szk/qc_terraforming_with_world_construction_set_20)
+ - RSS feed: $source
+ - date published: 2025-02-09T03:41:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/amiga/comments/1il5szk/qc_terraforming_with_world_construction_set_20/"> <img src="https://external-preview.redd.it/40WcjDZCn5prW3Ha6nPgfNd-HeYd8R-6x8v1DaqEakk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=176135f1abac124a0888873dcb9201466286769e" alt="QC: Terraforming with World Construction Set 2.0" title="QC: Terraforming with World Construction Set 2.0" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AMIGAalive"> /u/AMIGAalive </a> <br/> <span><a href="https://www.youtube.com/watch?v=5NYIhOSziuU">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1il5szk/qc_terraforming_with_world_construction_set_20/">[comments]</a></span> </td></tr></table>
+
+## UFO attacks Whitehouse
+ - [https://www.reddit.com/r/amiga/comments/1il4vpk/ufo_attacks_whitehouse](https://www.reddit.com/r/amiga/comments/1il4vpk/ufo_attacks_whitehouse)
+ - RSS feed: $source
+ - date published: 2025-02-09T02:50:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Everyone has seen this movie. Right? :)</p> <p>Retro CGI Challenge Series: ID4 <a href="https://youtu.be/qAj-LSzxP2U">https://youtu.be/qAj-LSzxP2U</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hold-and-Modify"> /u/Hold-and-Modify </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1il4vpk/ufo_attacks_whitehouse/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1il4vpk/ufo_attacks_whitehouse/">[comments]</a></span>
+
+## The potato chip sequence in 'Deep Space Homer' was animated using an Amiga. But what software?
+ - [https://www.reddit.com/r/amiga/comments/1il2dcy/the_potato_chip_sequence_in_deep_space_homer_was](https://www.reddit.com/r/amiga/comments/1il2dcy/the_potato_chip_sequence_in_deep_space_homer_was)
+ - RSS feed: $source
+ - date published: 2025-02-09T00:41:52+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://youtu.be/P8xP1JioXTM">This classic scene in the Simpsons S05e15</a> was animated using an Amiga according to IMDB <a href="https://m.imdb.com/title/tt0701087/trivia/?item=tr3943735&amp;ref_=ext_shr_lnk">here</a> and the DVD commentary.</p> <p>What software do you suppose was used for this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/maht90"> /u/maht90 </a> <br/> <span><a href="https://www.reddit.com/r/amiga/comments/1il2dcy/the_potato_chip_sequence_in_deep_space_homer_was/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/amiga/comments/1il2dcy/the_potato_chip_sequence_in_deep_space_homer_was/">[comments]</a></span>
+

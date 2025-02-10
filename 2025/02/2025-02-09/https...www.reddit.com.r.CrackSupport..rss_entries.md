@@ -1,0 +1,212 @@
+# Source:Crack Support, URL:https://www.reddit.com/r/CrackSupport/.rss, language:
+
+## I need some help
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilr046/i_need_some_help](https://www.reddit.com/r/CrackSupport/comments/1ilr046/i_need_some_help)
+ - RSS feed: $source
+ - date published: 2025-02-09T22:23:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey yall I need to learn how to work on Zbrush So as everyone knows zbrush is quite priceyyy So i want some help how to download for free .. as all know how ;) I will be so happy if someone can help rn .. cuz i need it rn to be downloaded Tomorrow i have college soooo please some help legends </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Familiar-Shock-9409"> /u/Familiar-Shock-9409 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilr046/i_need_some_help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilr046/i_need_some_help/">[comments]</a></span>
+
+## orcs must die deathtrap
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilph52/orcs_must_die_deathtrap](https://www.reddit.com/r/CrackSupport/comments/1ilph52/orcs_must_die_deathtrap)
+ - RSS feed: $source
+ - date published: 2025-02-09T21:17:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>anybody got the newest path dowland?<br/> 1.09 and 1.08</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Resolution-1222"> /u/Ok-Resolution-1222 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilph52/orcs_must_die_deathtrap/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilph52/orcs_must_die_deathtrap/">[comments]</a></span>
+
+## Does anyone know a safe link for Fallout 1?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilnwaz/does_anyone_know_a_safe_link_for_fallout_1](https://www.reddit.com/r/CrackSupport/comments/1ilnwaz/does_anyone_know_a_safe_link_for_fallout_1)
+ - RSS feed: $source
+ - date published: 2025-02-09T20:10:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>The only ones I found are on Gog-unlocked(which I read is not safe) and archive org</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Delicious_Hurry2471"> /u/Delicious_Hurry2471 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilnwaz/does_anyone_know_a_safe_link_for_fallout_1/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilnwaz/does_anyone_know_a_safe_link_for_fallout_1/">[comments]</a></span>
+
+## OpenNet plugin error in Black Ops 2
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilmxv3/opennet_plugin_error_in_black_ops_2](https://www.reddit.com/r/CrackSupport/comments/1ilmxv3/opennet_plugin_error_in_black_ops_2)
+ - RSS feed: $source
+ - date published: 2025-02-09T19:30:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>When I try to run Black Ops 2 it writes a message &quot;OpenNet Plugin loaded into a unknown process... not sure what to do... panicing... =(&quot; Multiplayer and Zombies works fine. Tried looking for info online, but found nothing. Could someone help?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hacker_846"> /u/Hacker_846 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilmxv3/opennet_plugin_error_in_black_ops_2/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilmxv3/opennet_plugin_error_in_black_ops_2/">[comments]</a></span>
+
+## Looking for ultra Street Fighter IV cracked.
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilmhrt/looking_for_ultra_street_fighter_iv_cracked](https://www.reddit.com/r/CrackSupport/comments/1ilmhrt/looking_for_ultra_street_fighter_iv_cracked)
+ - RSS feed: $source
+ - date published: 2025-02-09T19:12:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>All of the links i find are littered with ads or have EXTREMELY slow download speeds. Any help will be appreciated </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BeastModeYT_22"> /u/BeastModeYT_22 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilmhrt/looking_for_ultra_street_fighter_iv_cracked/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilmhrt/looking_for_ultra_street_fighter_iv_cracked/">[comments]</a></span>
+
+## Problem with any Fitgirl or DODI repack
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilkfs5/problem_with_any_fitgirl_or_dodi_repack](https://www.reddit.com/r/CrackSupport/comments/1ilkfs5/problem_with_any_fitgirl_or_dodi_repack)
+ - RSS feed: $source
+ - date published: 2025-02-09T17:47:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>I installed the games Anno 1800 &amp; Train Sim World 4 from FitGirl and Anno 1800 but from Dodi, installed any DirectX/Visual C++ files, but when I start Anno 1800, it just swiftly appears in Task Manager and then even quickly it disappears again.</p> <p>I also have this with other FitGirl Repacks like Train Sim World 3 and TSW 4.<br/> No repacked game will start correctly.</p> <p>What can I do to play the games at all, cause like this I cannot play anything that is repacked...<br/> And that makes me very sad, as I could play them a year ago on the exact same PC, with the same specifications.</p> <p>My PC is running the latest Win 11, no 3rd party AV and only Windows Defender.<br/> I had DefenderUI installed, but that made Windows Defender so aggressive that I decided to uninstall that piece of software.<br/> Also already tried to reset Windows 11 but that made no difference.</p> <p>Still the games are starting or not, but even after a launch they c
+
+## *HELP* Gta 5 opening on taskbar and black screen for 2 seconds then closing.
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilirp5/help_gta_5_opening_on_taskbar_and_black_screen](https://www.reddit.com/r/CrackSupport/comments/1ilirp5/help_gta_5_opening_on_taskbar_and_black_screen)
+ - RSS feed: $source
+ - date published: 2025-02-09T16:38:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ilirp5/help_gta_5_opening_on_taskbar_and_black_screen/"> <img src="https://preview.redd.it/brxj4kqx55ie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1b02aaa34d359efdc150b336328344df3ab90719" alt="*HELP* Gta 5 opening on taskbar and black screen for 2 seconds then closing." title="*HELP* Gta 5 opening on taskbar and black screen for 2 seconds then closing." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I had the same problem with fitgirl repack. This is dodi repack now. Any help? Its opening on my second non main monitor too.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/uhhferdi"> /u/uhhferdi </a> <br/> <span><a href="https://i.redd.it/brxj4kqx55ie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilirp5/help_gta_5_opening_on_taskbar_and_black_screen/">[comments]</a></span> </td></tr></table>
+
+## How to mod steamunlocked ds1 remastered
+ - [https://www.reddit.com/r/CrackSupport/comments/1ili4xq/how_to_mod_steamunlocked_ds1_remastered](https://www.reddit.com/r/CrackSupport/comments/1ili4xq/how_to_mod_steamunlocked_ds1_remastered)
+ - RSS feed: $source
+ - date published: 2025-02-09T16:11:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m pretty new so I don&#39;t know how to fo this I have tried searching but nothing I found nothing </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AttemptLimp9937"> /u/AttemptLimp9937 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ili4xq/how_to_mod_steamunlocked_ds1_remastered/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ili4xq/how_to_mod_steamunlocked_ds1_remastered/">[comments]</a></span>
+
+## when i was trying to install witcher2 via wine i am getting this error in ubuntu
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilhrn1/when_i_was_trying_to_install_witcher2_via_wine_i](https://www.reddit.com/r/CrackSupport/comments/1ilhrn1/when_i_was_trying_to_install_witcher2_via_wine_i)
+ - RSS feed: $source
+ - date published: 2025-02-09T15:55:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ilhrn1/when_i_was_trying_to_install_witcher2_via_wine_i/"> <img src="https://preview.redd.it/8dlvmbw7y4ie1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1c14ab7586fd467e1fbbb90e111299cea5f02c33" alt="when i was trying to install witcher2 via wine i am getting this error in ubuntu" title="when i was trying to install witcher2 via wine i am getting this error in ubuntu" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Impressive-Way3971"> /u/Impressive-Way3971 </a> <br/> <span><a href="https://i.redd.it/8dlvmbw7y4ie1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilhrn1/when_i_was_trying_to_install_witcher2_via_wine_i/">[comments]</a></span> </td></tr></table>
+
+## how to download resident evil 2 remake on mac air 1 easily ??
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilhgut/how_to_download_resident_evil_2_remake_on_mac_air](https://www.reddit.com/r/CrackSupport/comments/1ilhgut/how_to_download_resident_evil_2_remake_on_mac_air)
+ - RSS feed: $source
+ - date published: 2025-02-09T15:41:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>how to download resident evil 2 remake on mac air 1 easily ??</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Impressive_Cut7337"> /u/Impressive_Cut7337 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilhgut/how_to_download_resident_evil_2_remake_on_mac_air/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilhgut/how_to_download_resident_evil_2_remake_on_mac_air/">[comments]</a></span>
+
+## What are all these .exe files?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilhfly/what_are_all_these_exe_files](https://www.reddit.com/r/CrackSupport/comments/1ilhfly/what_are_all_these_exe_files)
+ - RSS feed: $source
+ - date published: 2025-02-09T15:40:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ilhfly/what_are_all_these_exe_files/"> <img src="https://preview.redd.it/z9l22zinv4ie1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=b341ec54ec0ac75f3dbbe25199f96ffaafc20d70" alt="What are all these .exe files?" title="What are all these .exe files?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I know this is the third post I&#39;m making here about the same game, but I still need help. </p> <p>I downloaded Nier Automata from steamrip and the RAR file contains multiple folders, one of which is the &quot;_commonRedist&quot; folder which has a bunch of .exe files. The .txt file that comes with everything else has instructions on how to run the game. It says how every one of those .exe&#39;s has to be installed in order to run the game. Now, I know that whenever you download something from an unofficial source, you NEVER just run some random .exe&#39;s because those are likely malware, but I&#39;ve read 
+
+## When should i use a vpn when pirating?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilh8x4/when_should_i_use_a_vpn_when_pirating](https://www.reddit.com/r/CrackSupport/comments/1ilh8x4/when_should_i_use_a_vpn_when_pirating)
+ - RSS feed: $source
+ - date published: 2025-02-09T15:32:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>I been trying to download bigger games on Steamrip but it very slow and the downloads keep getting currupted. Is it safe to use steamrip or similar sites without an vpn on?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KristGrom"> /u/KristGrom </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilh8x4/when_should_i_use_a_vpn_when_pirating/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilh8x4/when_should_i_use_a_vpn_when_pirating/">[comments]</a></span>
+
+## is steamrip buzzhevier download link safe?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilgzgv/is_steamrip_buzzhevier_download_link_safe](https://www.reddit.com/r/CrackSupport/comments/1ilgzgv/is_steamrip_buzzhevier_download_link_safe)
+ - RSS feed: $source
+ - date published: 2025-02-09T15:20:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ilgzgv/is_steamrip_buzzhevier_download_link_safe/"> <img src="https://preview.redd.it/az2z7gv3s4ie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dcbc7964a93f21efb03ca0e1e5ef41d11187384a" alt="is steamrip buzzhevier download link safe?" title="is steamrip buzzhevier download link safe?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>i downlaoded re4 hd mod project using steamrip buzzhevier is that safe?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JumpyRaisin5853"> /u/JumpyRaisin5853 </a> <br/> <span><a href="https://i.redd.it/az2z7gv3s4ie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilgzgv/is_steamrip_buzzhevier_download_link_safe/">[comments]</a></span> </td></tr></table>
+
+## Enabling Steam Input on Civilization 7 Razor 1911
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilgkeo/enabling_steam_input_on_civilization_7_razor_1911](https://www.reddit.com/r/CrackSupport/comments/1ilgkeo/enabling_steam_input_on_civilization_7_razor_1911)
+ - RSS feed: $source
+ - date published: 2025-02-09T15:01:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello,</p> <p>I downloaded Civ 7 from Razer 1911, but I haven&#39;t been able to make it recognize steam input. I&#39;ve tried goldberg emu, changing file names, etc., but no avail. Nothing has been found in other subs, and steam underground either.</p> <p>Anyone have an idea?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/qwertyalp1020"> /u/qwertyalp1020 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilgkeo/enabling_steam_input_on_civilization_7_razor_1911/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilgkeo/enabling_steam_input_on_civilization_7_razor_1911/">[comments]</a></span>
+
+## I have a problem, I downloaded pirated rdd2, I'm almost finished, but the screen started randomly freezing and closing, what can I do?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilgbij/i_have_a_problem_i_downloaded_pirated_rdd2_im](https://www.reddit.com/r/CrackSupport/comments/1ilgbij/i_have_a_problem_i_downloaded_pirated_rdd2_im)
+ - RSS feed: $source
+ - date published: 2025-02-09T14:50:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Opposite-Bridge2360"> /u/Opposite-Bridge2360 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilgbij/i_have_a_problem_i_downloaded_pirated_rdd2_im/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilgbij/i_have_a_problem_i_downloaded_pirated_rdd2_im/">[comments]</a></span>
+
+## Where to get TWD season 1
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilfv77/where_to_get_twd_season_1](https://www.reddit.com/r/CrackSupport/comments/1ilfv77/where_to_get_twd_season_1)
+ - RSS feed: $source
+ - date published: 2025-02-09T14:28:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have no idea how to download the walking dead season 1 on my pc.. Where to download.. I searched in fitgirl and there is no season 1</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/udhayaud"> /u/udhayaud </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilfv77/where_to_get_twd_season_1/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilfv77/where_to_get_twd_season_1/">[comments]</a></span>
+
+## does anyone know if FC 25 is cracked or no ? i can't find it in the tab bar
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilfocw/does_anyone_know_if_fc_25_is_cracked_or_no_i_cant](https://www.reddit.com/r/CrackSupport/comments/1ilfocw/does_anyone_know_if_fc_25_is_cracked_or_no_i_cant)
+ - RSS feed: $source
+ - date published: 2025-02-09T14:19:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>i can&#39;t find it in the tab bar so i wondered if he was cracked or no<br/> thank you</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pristine-Answer-596"> /u/Pristine-Answer-596 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilfocw/does_anyone_know_if_fc_25_is_cracked_or_no_i_cant/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilfocw/does_anyone_know_if_fc_25_is_cracked_or_no_i_cant/">[comments]</a></span>
+
+## What is the best way to install nexus's mods in cracked RDR2?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilf3uz/what_is_the_best_way_to_install_nexuss_mods_in](https://www.reddit.com/r/CrackSupport/comments/1ilf3uz/what_is_the_best_way_to_install_nexuss_mods_in)
+ - RSS feed: $source
+ - date published: 2025-02-09T13:50:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>title says it all</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Huge-Measurement-820"> /u/Huge-Measurement-820 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilf3uz/what_is_the_best_way_to_install_nexuss_mods_in/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilf3uz/what_is_the_best_way_to_install_nexuss_mods_in/">[comments]</a></span>
+
+## Where can I install "There Is No Game: Wrong Dimension"?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilekf5/where_can_i_install_there_is_no_game_wrong](https://www.reddit.com/r/CrackSupport/comments/1ilekf5/where_can_i_install_there_is_no_game_wrong)
+ - RSS feed: $source
+ - date published: 2025-02-09T13:21:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>The game is from steam, and I don&#39;t know a website to download this game for free. I alredy tried:</p> <ul> <li>Dodi Repacks</li> <li>Fitgirl Repacks dont&#39;t work where I live</li> <li>SteamRIP doesn&#39;t work (it tells me that is a dangerous download)</li> </ul> <p>Can someone help me?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Basic-Fun-7174"> /u/Basic-Fun-7174 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilekf5/where_can_i_install_there_is_no_game_wrong/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilekf5/where_can_i_install_there_is_no_game_wrong/">[comments]</a></span>
+
+## Is there any fix for this?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ile4jj/is_there_any_fix_for_this](https://www.reddit.com/r/CrackSupport/comments/1ile4jj/is_there_any_fix_for_this)
+ - RSS feed: $source
+ - date published: 2025-02-09T12:56:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ile4jj/is_there_any_fix_for_this/"> <img src="https://preview.redd.it/es33tsmd24ie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c23a4d7b6e5a736962e2e7b65dea3de88d497005" alt="Is there any fix for this?" title="Is there any fix for this?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I installed and update for forza horizon 5 from Fitgirl repak and this error popped up. Is there any fix for this or I have to reinstall the game?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fabdev05"> /u/Fabdev05 </a> <br/> <span><a href="https://i.redd.it/es33tsmd24ie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ile4jj/is_there_any_fix_for_this/">[comments]</a></span> </td></tr></table>
+
+## Ready Or Not Virustotal online fix
+ - [https://www.reddit.com/r/CrackSupport/comments/1ildyn8/ready_or_not_virustotal_online_fix](https://www.reddit.com/r/CrackSupport/comments/1ildyn8/ready_or_not_virustotal_online_fix)
+ - RSS feed: $source
+ - date published: 2025-02-09T12:46:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ildyn8/ready_or_not_virustotal_online_fix/"> <img src="https://b.thumbs.redditmedia.com/-k32fyOkvURlp6jGNRJ7nsA0P5JRCimof9CJd66piVY.jpg" alt="Ready Or Not Virustotal online fix" title="Ready Or Not Virustotal online fix" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So i just downloaded Ready or not from fitgirlrepacks and got the onlinefix from onlinefix so i decided to use virus total just out of curiosity on one of the onlinefix dll&#39;s and the scan showed me this, what should i do¿? Because i think its just an online fix.(Btw i downloaded the onlinefix from the page online fix from megathread).</p> <p>My specs are<br/> CPU: AMD Ryzen 5 5600X</p> <p>GPU:NVIDIA Geforce 3060RTX 12GB DDR6</p> <p>Ram: 16Gb</p> <p>PSU:Nfortec 850W gold full modular</p> <p>DETAILS:<br/> Game: Ready or not<br/> Website: fitgirlrepacks<br/> System: Windows 10</p> <p><a href="https://preview.redd.it/elbtbeeo04ie1.png?width=10
+
+## Anyone know how to get KOTOR working on android phone?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilcw29/anyone_know_how_to_get_kotor_working_on_android](https://www.reddit.com/r/CrackSupport/comments/1ilcw29/anyone_know_how_to_get_kotor_working_on_android)
+ - RSS feed: $source
+ - date published: 2025-02-09T11:37:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Tried different websites dosent work usually says something like I don&#39;t own the app or just crashes on launch. Thanks </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/abcdthb369eon"> /u/abcdthb369eon </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilcw29/anyone_know_how_to_get_kotor_working_on_android/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilcw29/anyone_know_how_to_get_kotor_working_on_android/">[comments]</a></span>
+
+## it's stuck. i have enough space on my device.
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilb9oj/its_stuck_i_have_enough_space_on_my_device](https://www.reddit.com/r/CrackSupport/comments/1ilb9oj/its_stuck_i_have_enough_space_on_my_device)
+ - RSS feed: $source
+ - date published: 2025-02-09T09:41:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ilb9oj/its_stuck_i_have_enough_space_on_my_device/"> <img src="https://preview.redd.it/r7423z5i33ie1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=70a241fe200d76d355047f97a4c8487efc94309b" alt="it's stuck. i have enough space on my device." title="it's stuck. i have enough space on my device." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dutch_mapping_empire"> /u/dutch_mapping_empire </a> <br/> <span><a href="https://i.redd.it/r7423z5i33ie1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilb9oj/its_stuck_i_have_enough_space_on_my_device/">[comments]</a></span> </td></tr></table>
+
+## Kingdome Come delivernce Elamigos Change Language
+ - [https://www.reddit.com/r/CrackSupport/comments/1ilas4q/kingdome_come_delivernce_elamigos_change_language](https://www.reddit.com/r/CrackSupport/comments/1ilas4q/kingdome_come_delivernce_elamigos_change_language)
+ - RSS feed: $source
+ - date published: 2025-02-09T09:05:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>How do I change the spoken language? </p> <p>I downloaded it, and the elamigos-german.bin does not have a directory?</p> <p>Where to put it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wzkiie"> /u/Wzkiie </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilas4q/kingdome_come_delivernce_elamigos_change_language/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ilas4q/kingdome_come_delivernce_elamigos_change_language/">[comments]</a></span>
+
+## Got Horizon Fw on steam deck dodi repack
+ - [https://www.reddit.com/r/CrackSupport/comments/1ila9aq/got_horizon_fw_on_steam_deck_dodi_repack](https://www.reddit.com/r/CrackSupport/comments/1ila9aq/got_horizon_fw_on_steam_deck_dodi_repack)
+ - RSS feed: $source
+ - date published: 2025-02-09T08:26:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>The games boot but once i play the game, goes like slow-mo, even if my fps are around 27-30. Any suggestiona to solve this problem ? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rich_Month_2207"> /u/Rich_Month_2207 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ila9aq/got_horizon_fw_on_steam_deck_dodi_repack/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ila9aq/got_horizon_fw_on_steam_deck_dodi_repack/">[comments]</a></span>
+
+## is it possible to play fit girl repack seige online somehow
+ - [https://www.reddit.com/r/CrackSupport/comments/1il5rhc/is_it_possible_to_play_fit_girl_repack_seige](https://www.reddit.com/r/CrackSupport/comments/1il5rhc/is_it_possible_to_play_fit_girl_repack_seige)
+ - RSS feed: $source
+ - date published: 2025-02-09T03:39:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>im so fucking confused</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KookyNebula977"> /u/KookyNebula977 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1il5rhc/is_it_possible_to_play_fit_girl_repack_seige/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1il5rhc/is_it_possible_to_play_fit_girl_repack_seige/">[comments]</a></span>
+
+## ISDone.dll file not found error.
+ - [https://www.reddit.com/r/CrackSupport/comments/1il56mx/isdonedll_file_not_found_error](https://www.reddit.com/r/CrackSupport/comments/1il56mx/isdonedll_file_not_found_error)
+ - RSS feed: $source
+ - date published: 2025-02-09T03:07:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1il56mx/isdonedll_file_not_found_error/"> <img src="https://preview.redd.it/vevgmcp851ie1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=2a789c59853be1098be300c11a4a06131496309c" alt="ISDone.dll file not found error." title="ISDone.dll file not found error." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sykiro"> /u/sykiro </a> <br/> <span><a href="https://i.redd.it/vevgmcp851ie1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1il56mx/isdonedll_file_not_found_error/">[comments]</a></span> </td></tr></table>
+
+## AC Valhalla flashes starting screen, then immediately disappears from task manager.
+ - [https://www.reddit.com/r/CrackSupport/comments/1il4cdw/ac_valhalla_flashes_starting_screen_then](https://www.reddit.com/r/CrackSupport/comments/1il4cdw/ac_valhalla_flashes_starting_screen_then)
+ - RSS feed: $source
+ - date published: 2025-02-09T02:22:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Greetings, </p> <p>I have tried both EMPRESS, and elmigos installations just to confirm it isnt any particular download issue. I have tried to minimize the usual suspects (graphics drivers, etc). I am on windows 11 which does not bode well based on my findings on older threads, but am throwing my hook out just to check my bases. I appreciate your help if you can offer it. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MaleficentReserve408"> /u/MaleficentReserve408 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1il4cdw/ac_valhalla_flashes_starting_screen_then/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1il4cdw/ac_valhalla_flashes_starting_screen_then/">[comments]</a></span>
+
+## No controller support for Skyrim Anniversary edition
+ - [https://www.reddit.com/r/CrackSupport/comments/1il2iha/no_controller_support_for_skyrim_anniversary](https://www.reddit.com/r/CrackSupport/comments/1il2iha/no_controller_support_for_skyrim_anniversary)
+ - RSS feed: $source
+ - date published: 2025-02-09T00:49:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m Currently unable to use my Xbox controller for my game, I have no idea why this is. </p> <p>Currently on version 1.6.640 of the repack is by KaosKrew.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Key_Cartographer_771"> /u/Key_Cartographer_771 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1il2iha/no_controller_support_for_skyrim_anniversary/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1il2iha/no_controller_support_for_skyrim_anniversary/">[comments]</a></span>
+
+## I got this ''The procedure entry point ZaddValue@StructuredData@1sce@@QEAAXPEBD0@Z could not be located in the dynamic link library Hi\Marvels SpiderMan 2\Spider-Man2.exe.'' After Update how i fix that
+ - [https://www.reddit.com/r/CrackSupport/comments/1il210x/i_got_this_the_procedure_entry_point](https://www.reddit.com/r/CrackSupport/comments/1il210x/i_got_this_the_procedure_entry_point)
+ - RSS feed: $source
+ - date published: 2025-02-09T00:25:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1il210x/i_got_this_the_procedure_entry_point/"> <img src="https://preview.redd.it/z3w735z6c0ie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71576fb148aece28e0accd22de9351d1db571158" alt="I got this ''The procedure entry point ZaddValue@StructuredData@1sce@@QEAAXPEBD0@Z could not be located in the dynamic link library Hi\Marvels SpiderMan 2\Spider-Man2.exe.'' After Update how i fix that" title="I got this ''The procedure entry point ZaddValue@StructuredData@1sce@@QEAAXPEBD0@Z could not be located in the dynamic link library Hi\Marvels SpiderMan 2\Spider-Man2.exe.'' After Update how i fix that" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sad-Fig9617"> /u/Sad-Fig9617 </a> <br/> <span><a href="https://i.redd.it/z3w735z6c0ie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1il210x/i_got_this_the_procedure_entry_point/">[comments]</a
+

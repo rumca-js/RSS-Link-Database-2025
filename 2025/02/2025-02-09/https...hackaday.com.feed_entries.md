@@ -1,0 +1,58 @@
+# Source:Hackaday, URL:https://hackaday.com/feed, language:en-US
+
+## A Twin-Lens Reflex Camera That’s Not Quite What It Seems
+ - [https://hackaday.com/2025/02/09/a-twin-lens-reflex-camera-thats-not-quite-what-it-seems](https://hackaday.com/2025/02/09/a-twin-lens-reflex-camera-thats-not-quite-what-it-seems)
+ - RSS feed: $source
+ - date published: 2025-02-09T21:00:00+00:00
+
+<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2025/02/snappiflex-featured.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2025/02/snappiflex-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/02/snappiflex-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/02/snappiflex-featured.jpg?resize=400,225 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="758190" data-permalink="https://hackaday.com/2025/02/09/a-twin-lens-reflex-camera-thats-not-quite-what-it-seems/snappiflex-featured/" data-orig-file="https://hackaday.com/wp-content/uploads/2025/02/snappiflex-featured.jpg" data-orig-size="800,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quo
+
+## Your Chance to Get A Head (A Gnu Head, Specifically)
+ - [https://hackaday.com/2025/02/09/your-chance-to-get-a-head-a-gnu-head-specifically](https://hackaday.com/2025/02/09/your-chance-to-get-a-head-a-gnu-head-specifically)
+ - RSS feed: $source
+ - date published: 2025-02-09T18:00:00+00:00
+
+<div><img width="800" height="507" src="https://hackaday.com/wp-content/uploads/2025/02/gnu0.png?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2025/02/gnu0.png 800w, https://hackaday.com/wp-content/uploads/2025/02/gnu0.png?resize=250,158 250w, https://hackaday.com/wp-content/uploads/2025/02/gnu0.png?resize=400,254 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="758194" data-permalink="https://hackaday.com/2025/02/09/your-chance-to-get-a-head-a-gnu-head-specifically/gnu0/" data-orig-file="https://hackaday.com/wp-content/uploads/2025/02/gnu0.png" data-orig-size="800,507" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&
+
+## Moving Power Grids In A Weekend, The Baltic States Make The Switch
+ - [https://hackaday.com/2025/02/09/moving-power-grids-in-a-weekend-the-baltic-states-make-the-switch](https://hackaday.com/2025/02/09/moving-power-grids-in-a-weekend-the-baltic-states-make-the-switch)
+ - RSS feed: $source
+ - date published: 2025-02-09T15:00:23+00:00
+
+<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2025/02/baltic-grid-featured.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2025/02/baltic-grid-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/02/baltic-grid-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/02/baltic-grid-featured.jpg?resize=400,225 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="758174" data-permalink="https://hackaday.com/2025/02/09/moving-power-grids-in-a-weekend-the-baltic-states-make-the-switch/baltic-grid-featured/" data-orig-file="https://hackaday.com/wp-content/uploads/2025/02/baltic-grid-featured.jpg" data-orig-size="800,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&
+
+## Matthias Wandel Hates CNC Machines in Person
+ - [https://hackaday.com/2025/02/09/matthias-wandel-hates-cnc-machines-in-person](https://hackaday.com/2025/02/09/matthias-wandel-hates-cnc-machines-in-person)
+ - RSS feed: $source
+ - date published: 2025-02-09T12:00:13+00:00
+
+<div><img width="800" height="533" src="https://hackaday.com/wp-content/uploads/2025/02/building-my-cnc-router-wmi0tjx-7ks-webm-shot0001_featured.png?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" srcset="https://hackaday.com/wp-content/uploads/2025/02/building-my-cnc-router-wmi0tjx-7ks-webm-shot0001_featured.png 1200w, https://hackaday.com/wp-content/uploads/2025/02/building-my-cnc-router-wmi0tjx-7ks-webm-shot0001_featured.png?resize=250,167 250w, https://hackaday.com/wp-content/uploads/2025/02/building-my-cnc-router-wmi0tjx-7ks-webm-shot0001_featured.png?resize=400,267 400w, https://hackaday.com/wp-content/uploads/2025/02/building-my-cnc-router-wmi0tjx-7ks-webm-shot0001_featured.png?resize=800,533 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="758168" data-permalink="https://hackaday.com/2025/02/09/matthias-wandel-hates-cnc-machines-in-person/building-my-cnc-router-wmi0tjx-7ks-webm-sho
+
+## C++ is 45 Years Old. [Stroustrup] Says You Still Don’t Get It!
+ - [https://hackaday.com/2025/02/09/c-is-45-years-old-stroustrup-says-you-still-dont-get-it](https://hackaday.com/2025/02/09/c-is-45-years-old-stroustrup-says-you-still-dont-get-it)
+ - RSS feed: $source
+ - date published: 2025-02-09T09:00:49+00:00
+
+<div><img width="800" height="484" src="https://hackaday.com/wp-content/uploads/2017/05/c.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://hackaday.com/wp-content/uploads/2017/05/c.jpg 3000w, https://hackaday.com/wp-content/uploads/2017/05/c.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2017/05/c.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2017/05/c.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2017/05/c.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2017/05/c.jpg?resize=2048,1239 2048w" sizes="auto, (max-width: 800px) 100vw, 800px" data-attachment-id="255944" data-permalink="https://hackaday.com/c-2/" data-orig-file="https://hackaday.com/wp-content/uploads/2017/05/c.jpg" data-orig-size="3000,1815" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&q
+
+## Repairing an Old Heathkit ‘Scope
+ - [https://hackaday.com/2025/02/08/repairing-an-old-heathkit-scope](https://hackaday.com/2025/02/08/repairing-an-old-heathkit-scope)
+ - RSS feed: $source
+ - date published: 2025-02-09T06:00:34+00:00
+
+<div><img width="800" height="369" src="https://hackaday.com/wp-content/uploads/2025/02/o10.png?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://hackaday.com/wp-content/uploads/2025/02/o10.png 800w, https://hackaday.com/wp-content/uploads/2025/02/o10.png?resize=250,115 250w, https://hackaday.com/wp-content/uploads/2025/02/o10.png?resize=400,185 400w" sizes="auto, (max-width: 800px) 100vw, 800px" data-attachment-id="758135" data-permalink="https://hackaday.com/2025/02/08/repairing-an-old-heathkit-scope/o10/" data-orig-file="https://hackaday.com/wp-content/uploads/2025/02/o10.png" data-orig-size="800,369" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:
+
+## Your Favorite Basic Oscilloscope Operation Guide?
+ - [https://hackaday.com/2025/02/08/your-favorite-basic-oscilloscope-operation-guide](https://hackaday.com/2025/02/08/your-favorite-basic-oscilloscope-operation-guide)
+ - RSS feed: $source
+ - date published: 2025-02-09T03:00:00+00:00
+
+<div><img width="800" height="474" src="https://hackaday.com/wp-content/uploads/2018/12/rigolmso5000.png?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://hackaday.com/wp-content/uploads/2018/12/rigolmso5000.png 1622w, https://hackaday.com/wp-content/uploads/2018/12/rigolmso5000.png?resize=250,148 250w, https://hackaday.com/wp-content/uploads/2018/12/rigolmso5000.png?resize=400,237 400w, https://hackaday.com/wp-content/uploads/2018/12/rigolmso5000.png?resize=800,474 800w, https://hackaday.com/wp-content/uploads/2018/12/rigolmso5000.png?resize=1536,911 1536w" sizes="auto, (max-width: 800px) 100vw, 800px" data-attachment-id="337422" data-permalink="https://hackaday.com/2018/12/19/rigol-mso5000-hacked-features-unlocked/rigolmso5000/" data-orig-file="https://hackaday.com/wp-content/uploads/2018/12/rigolmso5000.png" data-orig-size="1622,962" data-comments-opened="1" data-image-meta="
+
+## Turn Your Phone into a POV Hologram Display
+ - [https://hackaday.com/2025/02/08/turn-your-phone-into-a-pov-hologram-display](https://hackaday.com/2025/02/08/turn-your-phone-into-a-pov-hologram-display)
+ - RSS feed: $source
+ - date published: 2025-02-09T00:00:35+00:00
+
+<div><img width="800" height="381" src="https://hackaday.com/wp-content/uploads/2025/02/3d.png?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://hackaday.com/wp-content/uploads/2025/02/3d.png 800w, https://hackaday.com/wp-content/uploads/2025/02/3d.png?resize=250,119 250w, https://hackaday.com/wp-content/uploads/2025/02/3d.png?resize=400,191 400w" sizes="auto, (max-width: 800px) 100vw, 800px" data-attachment-id="758128" data-permalink="https://hackaday.com/2025/02/08/turn-your-phone-into-a-pov-hologram-display/3d-55/" data-orig-file="https://hackaday.com/wp-content/uploads/2025/02/3d.png" data-orig-size="800,381" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_leng
+

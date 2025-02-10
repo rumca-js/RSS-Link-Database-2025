@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-09T11:00:44+00:00",
+        "description": "The new artificial intelligence program from China has triggered bans in several countries and leaves questions over ethics and data security.",
+        "id": 2076033,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/tech/deepseek-triggers-global-scrutiny-security-concerns-federal-bans-5806510",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/02/09/id5806897-GettyImages-2197189400-LSedit-1080x720.jpg",
+        "title": "DeepSeek Triggers Global Scrutiny, Security Concerns, Federal Bans",
+        "vote": 0
+    }
+]
