@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PowerfulJRE",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-10T18:32:16+00:00",
+        "description": "Bridget Phetasy is a writer and stand-up comedian. She hosts the show \u201cDumpster Fire\" and also the podcast \u201cWalk-Ins Welcome.\u201d\nhttp://www.phetasy.com",
+        "id": 2083866,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=HigVe4IqsBM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 262,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HigVe4IqsBM/hqdefault.jpg",
+        "title": "Joe Rogan Experience #2270 - Bridget Phetasy",
+        "vote": 0
+    }
+]

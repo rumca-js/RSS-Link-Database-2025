@@ -1,0 +1,107 @@
+# Source:Docker: An open source project to pack, ship and run any application as a lightweight container, URL:https://www.reddit.com/r/docker/.rss, language:en
+
+## Unable to create container on Windows Server 2019
+ - [https://www.reddit.com/r/docker/comments/1imjlja/unable_to_create_container_on_windows_server_2019](https://www.reddit.com/r/docker/comments/1imjlja/unable_to_create_container_on_windows_server_2019)
+ - RSS feed: $source
+ - date published: 2025-02-10T22:50:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am trying to create a simple container on my docker host running Windows Server 2019. Here is the docker-compose file:</p> <pre><code>version: &quot;3.8&quot; services: mongo: image: mongo:latest container_name: mongodb restart: always ports: - 27017:27017 environment: - MONGO_INITDB_ROOT_USERNAME=admin - MONGO_INITDB_ROOT_PASSWORD=pass command: [--auth] volumes: - mongodata:/data/db volumes: mongodata: </code></pre> <p>The error I get is:</p> <pre><code>Creating mongodb ... error ERROR: for mongodb Cannot create container for service mongo: invalid volume specification: &#39;mongodb_mongodata:/data/db:rw&#39; </code></pre> <p>I have tried everything I have found online including setting the environment variable COMPOSE_CONVERT_WINDOWS_PATHS=1</p> <p>What am I doing wrong trying to get this container created?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hobbes487"> /u/hobbes487 </a> <br/> <span><a href="htt
+
+## registry-1.docker.io down(?), unable to pull any images
+ - [https://www.reddit.com/r/docker/comments/1imjbz7/registry1dockerio_down_unable_to_pull_any_images](https://www.reddit.com/r/docker/comments/1imjbz7/registry1dockerio_down_unable_to_pull_any_images)
+ - RSS feed: $source
+ - date published: 2025-02-10T22:38:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, is anybody else able to pull images right now? Im trying to set up docker-mailserver, but I cant pull any images (I keep getting Error response from daemon: Get &quot;<a href="https://ghcr.io/v2/%22:">https://ghcr.io/v2/&quot;:</a> net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)) and when I ping registry-1.docker.io I get nothing in response even on my VPN and on other devices. I do have systemd-resolved disabled (I run pihole on this machine) and not running but I have my dns set to cloudflare&#39;s 1.1.1.1 in docker daemon.json and resolved.conf and I still get nothing. Anyone else having issues, or just me? If just me, what the hell am I doing wrong? Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PickycowYT"> /u/PickycowYT </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1imjbz7/registry1dockerio_down_unable_to_pull_any_im
+
+## qBittorrent docker
+ - [https://www.reddit.com/r/docker/comments/1imiggh/qbittorrent_docker](https://www.reddit.com/r/docker/comments/1imiggh/qbittorrent_docker)
+ - RSS feed: $source
+ - date published: 2025-02-10T22:01:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>why qbittorret don&#39;t save downloads in the path I decide - /Volumes/Download:/Download , but internally in the docker folder ? I am using Orbstack on OSX. Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cecca84_2"> /u/cecca84_2 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1imiggh/qbittorrent_docker/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1imiggh/qbittorrent_docker/">[comments]</a></span>
+
+## qBittorrent docker
+ - [https://www.reddit.com/r/docker/comments/1imigg2/qbittorrent_docker](https://www.reddit.com/r/docker/comments/1imigg2/qbittorrent_docker)
+ - RSS feed: $source
+ - date published: 2025-02-10T22:01:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>why qbittorret don&#39;t save downloads in the path I decide - /Volumes/Download:/Download , but internally in the docker folder ? I am using Orbstack on OSX. Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cecca84_2"> /u/cecca84_2 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1imigg2/qbittorrent_docker/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1imigg2/qbittorrent_docker/">[comments]</a></span>
+
+## Are large images frowned upon on?
+ - [https://www.reddit.com/r/docker/comments/1imhtoh/are_large_images_frowned_upon_on](https://www.reddit.com/r/docker/comments/1imhtoh/are_large_images_frowned_upon_on)
+ - RSS feed: $source
+ - date published: 2025-02-10T21:36:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am someone trying to break into the industry, and have been learning to use Docker for a few months now. My full application for inference takes up 9 GB as a Docker Image. I like it because everything is already prepackaged, and once its pulled, running containers of the image is quick. </p> <p>This application uses two different types of Machine Learning models (vision and LLM RAG), which I have read can need larger images. I have already used the smaller, CPU Only, versions of Torch and Torchvision to optimize the space. I could probably use Python Alpine instead of Slim, but that wouldn&#39;t save too much space in the grand scheme of things.</p> <p>I am wondering if images this large are frowned upon on, especially for a smaller project such as this? Thank You.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Need_More_Learn"> /u/Need_More_Learn </a> <br/> <span><a href="https://www.reddit.com/r/docker/comm
+
+## About to Give Up
+ - [https://www.reddit.com/r/docker/comments/1imctxf/about_to_give_up](https://www.reddit.com/r/docker/comments/1imctxf/about_to_give_up)
+ - RSS feed: $source
+ - date published: 2025-02-10T18:15:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>This weekend I thought it would be a great idea to move my home server from windows to ubuntu, reading some guides DockSTARter seemed nice and easy, now im on day 3 and still confused on a few setups.</p> <ol> <li><p>How to give qbit access to my torrent drive (it has access to my storage drive via the dockstarter first time install)</p></li> <li><p>How to get plex to talk to tautulli</p></li> </ol> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SunoPics"> /u/SunoPics </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1imctxf/about_to_give_up/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1imctxf/about_to_give_up/">[comments]</a></span>
+
+## Docker SlimToolkit
+ - [https://www.reddit.com/r/docker/comments/1im99g2/docker_slimtoolkit](https://www.reddit.com/r/docker/comments/1im99g2/docker_slimtoolkit)
+ - RSS feed: $source
+ - date published: 2025-02-10T15:52:34+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://github.com/slimtoolkit/slim">https://github.com/slimtoolkit/slim</a></p> <p>Real benefits or snake oil? I did a search on Reddit and didn&#39;t find anything.....which is sometimes an indicator. I happened upon this project last night reading with a bowl. If indeed it does what it says on the tin, I&#39;m all for speeding up images and slimming down on the bloat.</p> <p>Anyone have any experience with this piece of software?</p> <p>ETA: A more detailed breakdown of how SlimToolkit works: <a href="https://cloudzenia.com/blog/slim-down-your-containers-how-slim-toolkit-puts-docker-images-on-a-diet/">https://cloudzenia.com/blog/slim-down-your-containers-how-slim-toolkit-puts-docker-images-on-a-diet/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wild_Magician_4508"> /u/Wild_Magician_4508 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1im99g2/docker_slimtoolkit/">[link]</a></
+
+## ASPNETCORE Container Giving 403
+ - [https://www.reddit.com/r/docker/comments/1im7qis/aspnetcore_container_giving_403](https://www.reddit.com/r/docker/comments/1im7qis/aspnetcore_container_giving_403)
+ - RSS feed: $source
+ - date published: 2025-02-10T14:47:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>After dockerizing my dotnet core app successfully, I keep getting 403 for all requests to the container even the ones allows anonymous requests and dont have any authentication restrictions </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Much_Ad389"> /u/Much_Ad389 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1im7qis/aspnetcore_container_giving_403/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1im7qis/aspnetcore_container_giving_403/">[comments]</a></span>
+
+## Containers can reach WAN but not each other on default settings
+ - [https://www.reddit.com/r/docker/comments/1im7fal/containers_can_reach_wan_but_not_each_other_on](https://www.reddit.com/r/docker/comments/1im7fal/containers_can_reach_wan_but_not_each_other_on)
+ - RSS feed: $source
+ - date published: 2025-02-10T14:32:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello i have a very peculiar issue i&#39;m unable to solve.</p> <p>I use docker desktop for convenience on my home server.</p> <p>I just paste the compose file adjust it, but never touch the network so it creates a name_default bridge network which worked great!</p> <p>I also have a pihole server on the same machine. Which also works well.</p> <p>Somehow the docker containers lost the ability to connect to eachother, but are just fine connecting to the internet and resolving DNS. Example from my radarr container:</p> <p><code>traceroute to 8.8.8.8 (8.8.8.8), 30 hops max, 46 byte packets</code></p> <p><code>1 192.168.16.1 (192.168.16.1) 0.005 ms 0.007 ms 0.005 ms</code></p> <p><code>2 192.168.65.2 (192.168.65.2) 0.115 ms 0.077 ms 0.110 ms</code></p> <p><code>3 192.168.2.1 (192.168.2.1) 0.569 ms 0.536 ms 0.483 ms #2.1 is my internal router</code></p> <p><code>4 192.168.1.1 (192.168.1.1) 0.901 ms 0.940 ms 1.023 ms #1.1 is my isp router</code></p> <p><co
+
+## Docker desktop requires a full gutting and reinstall every time i reboot windows 11.
+ - [https://www.reddit.com/r/docker/comments/1im756y/docker_desktop_requires_a_full_gutting_and](https://www.reddit.com/r/docker/comments/1im756y/docker_desktop_requires_a_full_gutting_and)
+ - RSS feed: $source
+ - date published: 2025-02-10T14:19:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>Novice here, recently learning Docker Desktop to run a local openweb ui. I&#39;ve got everything up and running, but every time I shut my PC down, next time I turn it on, Docker gets stuck in a &quot;Starting&quot; loop. Nothing seems to help. Shutdown, unregister and reinstall WSL in various orders. The only thing that brings is back is unregistering Docker, deleting all of its folders, deleting all of its reg keys, then restarting my PC. Then it lets me reinstall docker and everything works fine until my next restart when I need to go through the process again. </p> <p>I also notice that shutting down takes a REALLY long time, especially for the 9800X3D I&#39;m running on. </p> <p>Any suggestions would be helpful. Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bodongs"> /u/Bodongs </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1im756y/docker_desktop_requires_a_full_gutti
+
+## Anyone use /mssql/server:2022-latest on MacOS 15.3
+ - [https://www.reddit.com/r/docker/comments/1im6ess/anyone_use_mssqlserver2022latest_on_macos_153](https://www.reddit.com/r/docker/comments/1im6ess/anyone_use_mssqlserver2022latest_on_macos_153)
+ - RSS feed: $source
+ - date published: 2025-02-10T13:44:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>So this was the email docker shot out 2 weeks ago</p> <p>```</p> <p><strong>Dear Valued Docker User,</strong><br/> Apple is expected to release a macOS Sequoia update soon. Upgrading macOS without first updating Docker Desktop may cause disruptions due to a known issue. </p> <p>To ensure a seamless experience, please update Docker Desktop to version 4.37.2 or a compatible patch version before upgrading macOS. </p> <p>For details and guidance, refer to the “Next Steps” outlined in <a href="https://em.docker.com/NzkwLVNTQi0zNzUAAAGYMFAKynW6aATY1UslpQm-0sZGJirBOyywtU0AQWFXKTg8Oz7f-tcHHkXsEgaUbhF50ZGnwhg=">our January 9, 2025 update</a> on our blog. </p> <p>If you encounter any issues or need assistance, please reach out to our <a href="https://em.docker.com/NzkwLVNTQi0zNzUAAAGYMFAKyi0lbcdi_-QAC54GGtgrZaZ21MRwaLkV7goitIxWKi8a-EUTNUS--gbNsYqpUSo-Gns=">Support Team</a>. </p> <p>Thank you for your prompt attention to this matter. </p> <p>The Docker Team</p>
+
+## Can I add pihole as a docker container to my homeserver which is already running a container with nextcoud
+ - [https://www.reddit.com/r/docker/comments/1im4nhq/can_i_add_pihole_as_a_docker_container_to_my](https://www.reddit.com/r/docker/comments/1im4nhq/can_i_add_pihole_as_a_docker_container_to_my)
+ - RSS feed: $source
+ - date published: 2025-02-10T12:08:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi I m new to docker and i was wondering if I could add pihole to my already running homeserver with nextcloud and if I need to reboot for that and if my data would be save if I do so?<br/> Thanks in advance </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GigaRedox"> /u/GigaRedox </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1im4nhq/can_i_add_pihole_as_a_docker_container_to_my/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1im4nhq/can_i_add_pihole_as_a_docker_container_to_my/">[comments]</a></span>
+
+## Is there a way to force all docker containers to use the local DNS instead of the default 8.8.8.8?
+ - [https://www.reddit.com/r/docker/comments/1im3s3f/is_there_a_way_to_force_all_docker_containers_to](https://www.reddit.com/r/docker/comments/1im3s3f/is_there_a_way_to_force_all_docker_containers_to)
+ - RSS feed: $source
+ - date published: 2025-02-10T11:15:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all!</p> <p>Is there a way to force all docker containers to use the local DNS (the one defined in the router) instead of the default 8.8.8.8? (If possible, I would prefer if the containers will just &quot;ask&quot; the router for the DNS address to use).</p> <p><strong>Details about my setup:</strong></p> <p>I have a local DNS (using Pi-Hole) and I have set my router to forward DNS request to it. Pi-hole service is running in a separate machine from the ones running the docker containers.</p> <p>All non-docker services are using this local DNS and they are being resolved correctly. However, the docker containers are directly avoiding the local DNS and using the default <a href="http://8.8.8.8">8.8.8.8</a> DNS. </p> <p>Thanks in advance!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DataGhost404"> /u/DataGhost404 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1im3s3f/is_there_a_way_to_fo
+
+## Need Help with Home Assistant Setup Using NAS
+ - [https://www.reddit.com/r/docker/comments/1ilvalk/need_help_with_home_assistant_setup_using_nas](https://www.reddit.com/r/docker/comments/1ilvalk/need_help_with_home_assistant_setup_using_nas)
+ - RSS feed: $source
+ - date published: 2025-02-10T02:05:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve been using a Ugreen DXP4800 to store footage from my home surveillance system, and it’s been working well so far. I’ve got a two 8TB drives installed, and I love how everything is centralized and easy to retrieve when needed.</p> <p>Recently, I found out I can use Docker to set up Home Assistant, which seems like a great way to control smart devices over the network. But I’m wondering—do I need to stick with specific smart device brands for it to work, or will it support most devices on the market?</p> <p>If anyone has experience with this kind of setup or any tips for getting started with Home Assistant, I’d love to hear them. What’s worked well for you? Anything to avoid?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Neocitizen2077"> /u/Neocitizen2077 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1ilvalk/need_help_with_home_assistant_setup_using_nas/">[link]</a></span> &#32; <span><
+
+## Gluetun, qBittorrent, and Port Forwarding, qBittorrent Not Seeing Forwarded Port?
+ - [https://www.reddit.com/r/docker/comments/1ilthu7/gluetun_qbittorrent_and_port_forwarding](https://www.reddit.com/r/docker/comments/1ilthu7/gluetun_qbittorrent_and_port_forwarding)
+ - RSS feed: $source
+ - date published: 2025-02-10T00:23:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have qBittorrent and Gluetun both running as containers and a wireguard VPN through ProtonVPN with port forwarding enabled. Everything seems to be working except qBittorrent still shows to be behind a firewall, so not sure what to do next. Any advice? Details below:</p> <ul> <li>The &quot;Test Your Setup&quot; step on the Gluetun wiki works (command below). I do have a concern with this one though - my wireguard config shows an endpoint IP of xxx.xxx.xx.x0x while the IP from the below command (and the IP in the <code>ip</code> file in the Gluetun container) show xxx.xxx.xx.x1x</li> </ul> <p>&#8203;</p> <pre><code>docker run --rm --network=container:gluetun alpine:3.20 sh -c &quot;apk add wget &amp;&amp; wget -qO- https://ipinfo.io&quot; </code></pre> <ul> <li>The &quot;Test It&quot; section of the Gluetun port forwarding wiki works with the forwarded port I find in the <code>forwarded_port</code> file in the Gluetun container</li> </ul> <p>&#8203;<
+

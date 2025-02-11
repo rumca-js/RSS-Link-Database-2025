@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-10T15:07:07+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nPerformance Optimization in Software Development - Being Friendly to Your Hardware - Ignas Bagdonas - CppCon 2024\n---\n\nPractical software does not run in abstract vacuum, it runs on underlying hardware platforms. Practical software engineering does not exist in abstract vacuum either. The software layer sits in between the domain specific requirements on top and the underlying runtime platforms below. Many interesting developments have happened on all three of those layers over the years, and while contemporary hardware has gone a long way forward, it often suffers from the attention deficit caused by an overshadowing flood of advancements and \u201cadvancements\u201d in the software part of the universe. This new shiny programming language is safe, performant, and solves a backlog of problems that have been dragging for long. While that new shiny programming paradigm automagically relieves from dealing with low level details and the toolchain is plain amazing. The har",
+        "id": 2082205,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=kv6yqNjCjMM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kv6yqNjCjMM/hqdefault.jpg",
+        "title": "Performance Optimization in Software Development - Being Friendly to Your Hardware - Ignas Bagdonas",
+        "vote": 0
+    }
+]

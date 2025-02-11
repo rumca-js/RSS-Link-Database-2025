@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-10T12:00:12+00:00",
+        "description": "Want to learn more about staying agile with AI? Read the ebook here \u2192 https://ibm.biz/BdGGtA\nLearn more about AI & the future of work here \u2192 https://ibm.biz/BdGGtL\n\nAre jobs at risk or on the rise with AI? \ud83e\udd16 Discover AI's impact on cybersecurity roles, from automating tasks to creating new opportunities. Jeff Crume explores the balance between job displacement and job creation in the evolving tech landscape. \ud83c\udf10\ud83d\udcbc\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdGGtT\n\n#ai #cybersecurity #automation",
+        "id": 2081174,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=3sSDQ_wLSzM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3sSDQ_wLSzM/hqdefault.jpg",
+        "title": "Is AI Saving or Taking Jobs? Cybersecurity & Automation Impact",
+        "vote": 0
+    }
+]

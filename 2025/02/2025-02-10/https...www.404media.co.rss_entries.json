@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-10T15:26:45+00:00",
+        "description": "Researchers find that the more people use AI at their job, the less critical thinking they use.",
+        "id": 2082528,
+        "language": null,
+        "link": "https://www.404media.co/microsoft-study-finds-ai-makes-human-cognition-atrophied-and-unprepared-3",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://images.unsplash.com/photo-1707396172454-31f31aa5f9d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHRoaW5raW5nJTIwZW1vaml8ZW58MHx8fHwxNzM5MjAwMDQwfDA&ixlib=rb-4.0.3&q=80&w=2000",
+        "title": "Microsoft Study Finds AI Makes Human Cognition \u201cAtrophied and Unprepared\u201d",
+        "vote": 0
+    }
+]

@@ -1,0 +1,72 @@
+# Source:Raspberry Pi - More than just magic mirrors and kodi!, URL:https://www.reddit.com/r/raspberry_pi/.rss, language:en
+
+## 2025 Feb 10 Stickied -FAQ- & -HELPDESK- thread - Boot problems? Power supply problems? Display problems? Networking problems? Need ideas? Get help with these and other questions!
+ - [https://www.reddit.com/r/raspberry_pi/comments/1imjzbt/2025_feb_10_stickied_faq_helpdesk_thread_boot](https://www.reddit.com/r/raspberry_pi/comments/1imjzbt/2025_feb_10_stickied_faq_helpdesk_thread_boot)
+ - RSS feed: $source
+ - date published: 2025-02-10T23:07:03+00:00
+
+<!-- SC_OFF --><div class="md"><h3><a href="http://f2z.net/RPi-Helpdesk-FAQ.png">Welcome to the r/raspberry_pi Helpdesk and Frequently Asked Questions!</a></h3> <p><a href="https://www.reddit.com/r/raspberry_pi/comments/1ih5ayh/2025_feb_3_stickied_faq_helpdesk_thread_boot/">Link to last week&#39;s thread</a></p> <p>Having a hard time searching for answers to your Raspberry Pi questions? Let the <a href="/r/raspberry_pi">r/raspberry_pi</a> community members search for answers <em>for you</em>!<sup>†</sup> Looking for help getting started with a project? Have a question that you need answered? Was it not answered last week? Did not get a satisfying answer? A question that you&#39;ve only done basic research for? Maybe something you think everyone but you knows? <strong>Ask your question in the comments on this page,</strong> operators are standing by!</p> <p>This helpdesk and idea thread is here so that the front page won&#39;t be filled with these same questions day in and day out:</p
+
+## Can anyone assist setting up SPI display
+ - [https://www.reddit.com/r/raspberry_pi/comments/1imjejs/can_anyone_assist_setting_up_spi_display](https://www.reddit.com/r/raspberry_pi/comments/1imjejs/can_anyone_assist_setting_up_spi_display)
+ - RSS feed: $source
+ - date published: 2025-02-10T22:41:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m starting a rpi project to put a pi into my project car. I&#39;m wanting to ultimately accomplish two main things. HDMI output to the head unit and smaller text output to a tiny display. Maybe a couple other things like controlling some individually addressable LED&#39;s.</p> <p>Without research I picked up this display on amz because it physically fit what I needed it to. And I selected this one because 256x64 is better than 128x32, right? :D <a href="https://www.amazon.com/dp/B0D1V5YBXC?ref=ppx_yo2ov_dt_b_fed_asin_title">Display</a></p> <p>Turns out the SPI interface may ultimately be a better option, but more difficult to get working, which is indeed my case. And the SH1122 chip doesn&#39;t seem to be supported very well yet. And it looks like the SSD1306 driver doesn&#39;t work with this SH1122.</p> <p>After looking at different posts I think I have it getting power at least (meaning my physical connections are somewhat correct). After pow
+
+## Will this work a series
+ - [https://www.reddit.com/r/raspberry_pi/comments/1imgri3/will_this_work_a_series](https://www.reddit.com/r/raspberry_pi/comments/1imgri3/will_this_work_a_series)
+ - RSS feed: $source
+ - date published: 2025-02-10T20:52:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1imgri3/will_this_work_a_series/"> <img src="https://b.thumbs.redditmedia.com/7mN7K7sX0hidEp6dnt0kqmS2CL_0Ut0I8XsOq_6OX2I.jpg" alt="Will this work a series" title="Will this work a series" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I am testing if the M.2 hat will work along with a SEEED lan gateway seeing that the ssd and the LORA hat used two different interfaces I couldn&#39;t see why they wouldn&#39;t work together. With pi 5 the ssd uses the dedicated pci lane and the ai hat would use the gpio pins. However there is no documentation that i was able to find showing that this particular gateway(SEEED WM1302) worked with a pi 5. I would like this to be a server that compiles data from the LORA network then process it to determine automation also set up on the LORA network. later in the project(I am using it to learn) I would like to have historical data to drive better automated decisions, possibly in
+
+## Share internet connection through ethernet port
+ - [https://www.reddit.com/r/raspberry_pi/comments/1imfta0/share_internet_connection_through_ethernet_port](https://www.reddit.com/r/raspberry_pi/comments/1imfta0/share_internet_connection_through_ethernet_port)
+ - RSS feed: $source
+ - date published: 2025-02-10T20:13:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hiya all, I got a JetKVM during the kickstarter which I wanted to use to connect to my Pi 4. However, I don&#39;t have my Pi close to the router so I had the idea of connecting the JetKVM to my network by passing my Pi&#39;s connection from wlan0 to eth0. I&#39;ve looked through tons of guides and been trying to get ChatGPT to tell me what I want but I haven&#39;t gotten further than the JetKVM getting an IP address (10.42.0.128 currently) and is pingable from the Pi, but not from any other device on the network. For context, <a href="https://forums.raspberrypi.com/viewtopic.php?t=346633">this guide</a> is what I had tried most recently, running the command: </p> <pre><code>sudo nmcli con modify &quot;Wired connection 1&quot; ipv4.method shared </code></pre> <p>which is the simplest way I&#39;ve found that gets me to the point I described above. ChatGPT had me modifying a bunch of different things in iptables, dnsmasq, and nmcli but nothing got me fu
+
+## My cluster - Johnny Pi
+ - [https://www.reddit.com/r/raspberry_pi/comments/1imbpm0/my_cluster_johnny_pi](https://www.reddit.com/r/raspberry_pi/comments/1imbpm0/my_cluster_johnny_pi)
+ - RSS feed: $source
+ - date published: 2025-02-10T17:31:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1imbpm0/my_cluster_johnny_pi/"> <img src="https://b.thumbs.redditmedia.com/9W3NNi38vuXigakVJz05YWfIzRi9AZQZeOGB29sUwOI.jpg" alt="My cluster - Johnny Pi" title="My cluster - Johnny Pi" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/-AponE-"> /u/-AponE- </a> <br/> <span><a href="https://www.reddit.com/gallery/1imbpm0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1imbpm0/my_cluster_johnny_pi/">[comments]</a></span> </td></tr></table>
+
+## New to Raspberry PI, Creating NAS Mounting Issues
+ - [https://www.reddit.com/r/raspberry_pi/comments/1im9hpq/new_to_raspberry_pi_creating_nas_mounting_issues](https://www.reddit.com/r/raspberry_pi/comments/1im9hpq/new_to_raspberry_pi_creating_nas_mounting_issues)
+ - RSS feed: $source
+ - date published: 2025-02-10T16:02:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m very new to raspberry pi projects so to learn I&#39;ve been using the tutorials on their main site. I&#39;ve been trying to create a NAS using this tutorial <a href="https://www.raspberrypi.com/tutorials/nas-box-raspberry-pi-tutorial/">https://www.raspberrypi.com/tutorials/nas-box-raspberry-pi-tutorial/</a> but I keep having issues at the &quot;Mount drive&quot; sections. Originally when I followed the directions I kept getting the error &quot;No mounting point exists&quot;. So through some research I learned how to add the mounting point. This is what I see now.</p> <p><code>NAME MAJ:MIN RM SIZE RO TYPE MOUNTPOINTS</code></p> <p><code>sda 8:0 0 465.8G 0 disk</code></p> <p><code>└─sda1 8:1 0 465.8G 0 part /mnt</code></p> <p><code>mmcblk0 179:0 0 28.9G 0 disk</code></p> <p><code>├─mmcblk0p1 179:1 0 512M 0 part /boot/firmware</code></p> <p><code>└─mmcblk0p2 179:2 0 28.4G 0 part /</code></p> <p>But now I can&#39;t seem to figure the next section
+
+## HDMI 7.1 Audio Output wrong channel order on Raspi 5
+ - [https://www.reddit.com/r/raspberry_pi/comments/1im9fyz/hdmi_71_audio_output_wrong_channel_order_on_raspi](https://www.reddit.com/r/raspberry_pi/comments/1im9fyz/hdmi_71_audio_output_wrong_channel_order_on_raspi)
+ - RSS feed: $source
+ - date published: 2025-02-10T16:00:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am trying to use my Raspberry Pi 5 as a media player. For that purpose I have connected it via HDMI to my Yamaha AV receiver, which is connected to my TV and my 7.2 sound system. I run the latest Raspberry PI OS (not using LibreELEC or similar, because the Pi also does other things e.g. Smart Home).</p> <p>This all works fine in Stereo mode. But when I choose the &#39;Digital Surround 7.1 (HDMI) Output&#39; sound profile (from the Audio icon in taskbar), I do still get sound output, but the channel mapping is wrong (tried both VLC and Kodi and also verified with speaker-test).</p> <p>This seems to be a common problem, and I also found this solution, which seems to have worked in the past: <a href="https://forums.raspberrypi.com/viewtopic.php?t=361066#p2190481">https://forums.raspberrypi.com/viewtopic.php?t=361066#p2190481</a></p> <p>However, when I do the exact steps that are described in this post, nothing changes. I don&#39;t get any error messag
+
+## SSD Issues, Formatting, Install
+ - [https://www.reddit.com/r/raspberry_pi/comments/1im4hu8/ssd_issues_formatting_install](https://www.reddit.com/r/raspberry_pi/comments/1im4hu8/ssd_issues_formatting_install)
+ - RSS feed: $source
+ - date published: 2025-02-10T12:00:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1im4hu8/ssd_issues_formatting_install/"> <img src="https://b.thumbs.redditmedia.com/rM03VUUrdtrL2UDwyXDzLwb68E7r12fCaPu8rXjlfRU.jpg" alt="SSD Issues, Formatting, Install" title="SSD Issues, Formatting, Install" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hello Pi community,</p> <p>I am having issues with my SSD drive. I had used that SSD for a previous installation of RetroPie. I didn&#39;t touch that SSD, and a Pi, for a really long time but decided to return. I tried to reformat my SSD to start fresh from a clean slate but I ran into issues.</p> <p>I tried various options to delete partitions and format partitions, without any success. </p> <p><a href="https://preview.redd.it/l8jnv48mwaie1.png?width=775&amp;format=png&amp;auto=webp&amp;s=fccf32dae8dc355e2a635de78ac38553627691c6">GParted (HDD manager) on Linux Mint USBB ---- yes, I pressed the &#39;green&#39; tick to confirm changes...</a></p> <p><a hre
+
+## LLM Speed for processing large text - Pi5 8GB
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ilz5yg/llm_speed_for_processing_large_text_pi5_8gb](https://www.reddit.com/r/raspberry_pi/comments/1ilz5yg/llm_speed_for_processing_large_text_pi5_8gb)
+ - RSS feed: $source
+ - date published: 2025-02-10T05:46:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I’m fairly new to Raspberry Pi, but I’ve been using it for a couple weeks and enjoying it a lot! </p> <p>I’m working on a project where I am trying to scribe large texts into structured summaries. Just wondering if anyone has done anything on their own Pi to boost speeds for this scenario. Maybe configuration CPU or RAM utilization? Its currently taking around 6 minutes for each prompt, and I’d like to get that down to around 3 minutes or less.</p> <p>I have tried a bunch of different models on Ollama, found the best to be Gemma2:2b, any parameter size above 2 takes too long, anything below 2 is not accurate enough. Quantized Gemma2 also is not accurate enough unfortunately.</p> <p>Now yes, I know that the Pi is not the best option to run models, and I will never actually use this in a professional environment, but the requirement for my project is that it must run on a Raspberry Pi, so here I am :) </p> <p>Any advice on this wou
+
+## RPi4 with Weather Hat shorts out program when metal touched - Electro Static Discharge
+ - [https://www.reddit.com/r/raspberry_pi/comments/1ilvpkp/rpi4_with_weather_hat_shorts_out_program_when](https://www.reddit.com/r/raspberry_pi/comments/1ilvpkp/rpi4_with_weather_hat_shorts_out_program_when)
+ - RSS feed: $source
+ - date published: 2025-02-10T02:29:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1ilvpkp/rpi4_with_weather_hat_shorts_out_program_when/"> <img src="https://b.thumbs.redditmedia.com/16KXprWZFedCc4I2L_1R37RgsAnxtz57BoZoHMCdSac.jpg" alt="RPi4 with Weather Hat shorts out program when metal touched - Electro Static Discharge" title="RPi4 with Weather Hat shorts out program when metal touched - Electro Static Discharge" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/4bjgqruu28ie1.jpg?width=3024&amp;format=pjpg&amp;auto=webp&amp;s=2d20722b58c8f43f8f6c318a647d39f088d48e5e">my RPi4 with weather hat</a></p> <p>Hello, I am having success getting my Weather Hat back up and running reporting back all connected sensors. I have it running a python script that displays the sensor data, and uploads it online and its working great, until I touch a metal part such as the USB or ethernet housing. It seems obvious that I have a short somewhere, but for the life of me I can&#
+

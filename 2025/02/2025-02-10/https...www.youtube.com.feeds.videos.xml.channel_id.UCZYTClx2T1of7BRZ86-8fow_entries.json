@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-10T18:00:55+00:00",
+        "description": "Trees are dead inside. It's true: the xylem tissue that supports their trunks technically isn't alive. Archaeologists hate that because this problem, the old wood problem, can cause carbon dating to be off by hundreds of years.\n\nHosted by: Savannah Geary (they/them)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: Toyas Dhake, Spilmann Reed, Gizmo, Garrett Galloway, Friso, DrakoEsper , Lyndsay Brown, Jeremy Mattern, Jaap Westera, Jeffrey Mckishen, Matt Curls, Eric Jensen, Chris Mackey, Adam Brainard, Piya Shedden, Alex Hackman, Kevin Knupp, Chris Peters, Kevin Bealer, Jason A Saslow\n----------\nLooking for SciShow elsewhere on the internet?\nSciShow Tangents Podcast:",
+        "id": 2083863,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=xOoZb74Ysp8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xOoZb74Ysp8/hqdefault.jpg",
+        "title": "Trees Are All Dead Inside (And That's a Problem)",
+        "vote": 0
+    }
+]

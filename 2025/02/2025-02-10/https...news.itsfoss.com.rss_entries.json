@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-10T11:09:39+00:00",
+        "description": "Europe is taking a big step towards AI independence with their Open Euro LLM initiative.",
+        "id": 2080557,
+        "language": null,
+        "link": "https://news.itsfoss.com/open-euro-llm",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://news.itsfoss.com/content/images/2025/02/open-euro-llm.png",
+        "title": "Open Euro LLM Is Europe's Bold Move Towards AI Independence",
+        "vote": 0
+    }
+]

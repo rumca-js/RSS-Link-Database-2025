@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-10T16:27:22+00:00",
+        "description": "<p>Continuous Integration/Continuous Delivery (CI/CD) software \u2013 meaning solutions that teams use to build, test, and deploy applications \u2013 has come a long way over the past decade. Whereas organisations once cobbled together CI/CD pipelines using disparate open source tools, they now have a plethora of end-to-end, vendor-supported enterprise CI/CD platforms that they can use instead.<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/best-practices-ci-cd-migration-github-enterprise-example/\" title=\"ReadBest practices for CI/CD migration: The GitHub Enterprise example\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/best-practices-ci-cd-migration-github-enterprise-example/\">Best practices for CI/CD migration: The GitHub Enterprise example</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2082817,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/best-practices-ci-cd-migration-github-enterprise-example",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Best practices for CI/CD migration: The GitHub Enterprise example",
+        "vote": 0
+    }
+]

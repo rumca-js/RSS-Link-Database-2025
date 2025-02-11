@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-10T21:23:11+00:00",
+        "description": "<p>Social relationships might shape a neurological disorder</p>\n<p>The post <a href=\"https://nautil.us/when-other-peoples-chewing-causes-you-pain-1189542/\">When Other People&#8217;s Chewing Causes You Pain</a> appeared first on <a href=\"https://nautil.us\">Nautilus</a>.</p>",
+        "id": 2085121,
+        "language": "en-US",
+        "link": "https://nautil.us/when-other-peoples-chewing-causes-you-pain-1189542",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 232,
+        "source_url": "https://nautil.us/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "When Other People\u2019s Chewing Causes You Pain",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-10T01:56:42+00:00",
+        "description": "<p>The Shadowserver Foundation informuje o ataku brute force wymierzonym przeciwko urz\u0105dzeniom sieciowym, w szczeg\u00f3lno\u015bci urz\u0105dzeniom VPN firm Palo Alto, Ivanti, SonicWall. Wed\u0142ug danych pochodz\u0105cych z system\u00f3w\u00a0honeypot, prezentowanych przez ich platform\u0119 monitoringow\u0105, nasilenie atak\u00f3w trwa od ko\u0144ca stycznia. Liczba adres\u00f3w IP zaanga\u017cowanych w atak si\u0119ga w szczycie nawet 2,8 mln w...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/nasilenie-atakow-brute-force-przeciw-urzadzeniom-sieciowym-nawet-28-mln-zaangazowanych-adresow-ip/\">Nasilenie atak\u00f3w brute force przeciw urz\u0105dzeniom sieciowym &#8211; nawet 2,8 mln zaanga\u017cowanych adres\u00f3w IP</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2078538,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/nasilenie-atakow-brute-force-przeciw-urzadzeniom-sieciowym-nawet-28-mln-zaangazowanych-adresow-ip",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nasilenie atak\u00f3w brute force przeciw urz\u0105dzeniom sieciowym \u2013 nawet 2,8 mln zaanga\u017cowanych adres\u00f3w IP",
+        "vote": 0
+    }
+]

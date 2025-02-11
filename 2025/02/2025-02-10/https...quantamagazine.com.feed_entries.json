@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-10T15:17:37+00:00",
+        "description": "A young computer scientist and two colleagues show that searches within data structures called hash tables can be much faster than previously deemed possible.            <p>The post <a href=\"https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/\" target=\"_blank\">Undergraduate Upends a 40-Year-Old Data Science Conjecture</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2082281,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/02/Hash-Tables-Redux_cr_Nash-Weerasekera-Default.webp",
+        "title": "Undergraduate Upends a 40-Year-Old Data Science Conjecture",
+        "vote": 0
+    }
+]

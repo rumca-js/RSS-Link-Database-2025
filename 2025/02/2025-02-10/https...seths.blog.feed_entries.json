@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-10T10:03:00+00:00",
+        "description": "What&#8217;s the best speed to drive? I was caught in a snowstorm the other day. Visibility was low, so I was going about 25 mph. Someone passed me on the highway, doing 30. Not 55 or 75, but fast enough to take a risk and pass the rest of traffic. Do that often enough and [&#8230;]",
+        "id": 2080261,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/02/a-little-faster-than-you",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A little faster than you",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-10T06:54:00+00:00",
+        "description": "Powsta\u0142 nowatorski materia\u0142 \u0142\u0105cz\u0105cy w\u0142a\u015bciwo\u015bci cia\u0142 sta\u0142ych i cieczy. Naukowcy z Kalifornijskiego Instytutu Technicznego Caltech s\u0105 przekonani, \u017ce zrewolucjonizuje on przysz\u0142o\u015b\u0107 robotyki i sztucznej inteligencji.",
+        "id": 2081789,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/technologie/art41786351-naukowcy-stworzyli-material-ktory-ma-byc-rekordowo-twardy-i-elastyczny",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Naukowcy stworzyli materia\u0142, kt\u00f3ry ma by\u0107 rekordowo twardy i elastyczny",
+        "vote": 0
+    }
+]
