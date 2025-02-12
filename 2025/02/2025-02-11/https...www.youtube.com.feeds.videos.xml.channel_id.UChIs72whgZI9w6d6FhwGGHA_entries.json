@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-11T16:46:54+00:00",
+        "description": "Sponsor: Thermal Grizzly Aeronaut on Amazon https://geni.us/e8Oq & Hydronaut (Amazon) https://geni.us/hOQrBAb\nThe Zotac RTX 5080 Solid OC is in for review and testing. Our benchmarks include overclocking the RTX 5080 Solid, thermal testing, noise levels and acoustics, a tear-down of the Zotac card, and more. Unfortunately, the biggest immediate killer of the card is its value, especially with its seemingly arbitrary and variable day-to-day pricing that makes it anywhere from 10% to 30% more expensive than NVIDIA's baseline MSRP for the RTX 5080 GPUs. That alone makes the card lose any recommendation from us (to save you the time), but we'll still go through all the benchmarking and testing for anyone who may end up considering buying one of these anyway.\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\n\nLike our content? Please consider becoming our Patron to support us: http://www.patreon.com/gamersnexus\n\nRELATED PRODUCTS [Affiliate Links]\n\nZota",
+        "id": 2092411,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=v4JnJPTy2mE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v4JnJPTy2mE/hqdefault.jpg",
+        "title": "Zotac RTX 5080 Solid Overclocking, Thermals, Noise, & Gaming vs. Founders Edition (Review)",
+        "vote": 0
+    }
+]

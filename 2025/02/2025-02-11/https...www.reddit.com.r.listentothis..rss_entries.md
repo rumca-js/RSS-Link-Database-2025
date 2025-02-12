@@ -1,0 +1,107 @@
+# Source:Listen To This, URL:https://www.reddit.com/r/listentothis/.rss, language:
+
+## Rhythm Wanderer - AI Music Radio [alternative rock] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1inabo8/rhythm_wanderer_ai_music_radio_alternative_rock](https://www.reddit.com/r/listentothis/comments/1inabo8/rhythm_wanderer_ai_music_radio_alternative_rock)
+ - RSS feed: $source
+ - date published: 2025-02-11T21:43:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1inabo8/rhythm_wanderer_ai_music_radio_alternative_rock/"> <img src="https://external-preview.redd.it/vAI0btBnpVTq_ruS6Bbfn3_fe0ZGv-ruXfsVyHwyXKw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ec78b945d4fbbf5ecf6b0ee6713122b13d2b4647" alt="Rhythm Wanderer - AI Music Radio [alternative rock] (2025)" title="Rhythm Wanderer - AI Music Radio [alternative rock] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PaintingLocal5836"> /u/PaintingLocal5836 </a> <br/> <span><a href="https://play.google.com/store/apps/details?id=com.ccg.airadio">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1inabo8/rhythm_wanderer_ai_music_radio_alternative_rock/">[comments]</a></span> </td></tr></table>
+
+## Cody Lee Moomey - One More Day [country/folk] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1in99e5/cody_lee_moomey_one_more_day_countryfolk_2024](https://www.reddit.com/r/listentothis/comments/1in99e5/cody_lee_moomey_one_more_day_countryfolk_2024)
+ - RSS feed: $source
+ - date published: 2025-02-11T21:00:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1in99e5/cody_lee_moomey_one_more_day_countryfolk_2024/"> <img src="https://external-preview.redd.it/1LX1N4tBi8CTPfgGuAiUZ4UeqdDnkEbpW21-E0AWLhk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=353f146baede0df332c8c116607a93f15a7fe5f5" alt="Cody Lee Moomey - One More Day [country/folk] (2024)" title="Cody Lee Moomey - One More Day [country/folk] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/juuuceboy"> /u/juuuceboy </a> <br/> <span><a href="https://youtu.be/QPLMO-N1Ibc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1in99e5/cody_lee_moomey_one_more_day_countryfolk_2024/">[comments]</a></span> </td></tr></table>
+
+## PYN -- My Baby [pop / synthpop] (2016)
+ - [https://www.reddit.com/r/listentothis/comments/1in82yu/pyn_my_baby_pop_synthpop_2016](https://www.reddit.com/r/listentothis/comments/1in82yu/pyn_my_baby_pop_synthpop_2016)
+ - RSS feed: $source
+ - date published: 2025-02-11T20:11:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1in82yu/pyn_my_baby_pop_synthpop_2016/"> <img src="https://external-preview.redd.it/q8SdSFp3OT8gdrt-g80ezYZhLTUj3qvrI2suXB8oeok.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=549e4b233b4bac7f637676644f82b42421ae442e" alt="PYN -- My Baby [pop / synthpop] (2016)" title="PYN -- My Baby [pop / synthpop] (2016)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_TheBro_"> /u/_TheBro_ </a> <br/> <span><a href="https://www.youtube.com/watch?v=P-0VRDMrJOY">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1in82yu/pyn_my_baby_pop_synthpop_2016/">[comments]</a></span> </td></tr></table>
+
+## Como Las Movies - - La Bruja [Latin Pop] (2021)
+ - [https://www.reddit.com/r/listentothis/comments/1in6r17/como_las_movies_la_bruja_latin_pop_2021](https://www.reddit.com/r/listentothis/comments/1in6r17/como_las_movies_la_bruja_latin_pop_2021)
+ - RSS feed: $source
+ - date published: 2025-02-11T19:17:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1in6r17/como_las_movies_la_bruja_latin_pop_2021/"> <img src="https://external-preview.redd.it/8t2FylQgu2mtCjTMiwVYkJTw0e0OfCF1Bfo0kaIUND0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a5c58f173771e6602de15db4ef122f0f6db710f3" alt="Como Las Movies - - La Bruja [Latin Pop] (2021)" title="Como Las Movies - - La Bruja [Latin Pop] (2021)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Heard this on KXT 91.7</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/paid-program"> /u/paid-program </a> <br/> <span><a href="https://youtu.be/TsSfqzX6x8U">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1in6r17/como_las_movies_la_bruja_latin_pop_2021/">[comments]</a></span> </td></tr></table>
+
+## Comastatic - Zorro [alt-rock, metal] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1in6lk4/comastatic_zorro_altrock_metal_2025](https://www.reddit.com/r/listentothis/comments/1in6lk4/comastatic_zorro_altrock_metal_2025)
+ - RSS feed: $source
+ - date published: 2025-02-11T19:11:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1in6lk4/comastatic_zorro_altrock_metal_2025/"> <img src="https://external-preview.redd.it/JFPytMIs7rdt0XnfRwt-nKuxetQOKh6umZ0NNJy9_yw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e0c9a84df6562b6eebb5f9a7632734f0486c2d67" alt="Comastatic - Zorro [alt-rock, metal] (2025)" title="Comastatic - Zorro [alt-rock, metal] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/prettymyusic"> /u/prettymyusic </a> <br/> <span><a href="https://www.youtube.com/watch?v=NHKdDigBzKM">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1in6lk4/comastatic_zorro_altrock_metal_2025/">[comments]</a></span> </td></tr></table>
+
+## The Psychodelics Trips - Coffin of Where We Belong [Industrial /Darkwave] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1in54g1/the_psychodelics_trips_coffin_of_where_we_belong](https://www.reddit.com/r/listentothis/comments/1in54g1/the_psychodelics_trips_coffin_of_where_we_belong)
+ - RSS feed: $source
+ - date published: 2025-02-11T18:11:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1in54g1/the_psychodelics_trips_coffin_of_where_we_belong/"> <img src="https://external-preview.redd.it/PdrFQo51dD61JgNZZiwrZpnbskLlWv5-pQwSFpKMHSg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c07d1f29ee23de8f2e252e4f0fd09b3a2de4d700" alt="The Psychodelics Trips - Coffin of Where We Belong [Industrial /Darkwave] (2025)" title="The Psychodelics Trips - Coffin of Where We Belong [Industrial /Darkwave] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Otherwise_Basis_6328"> /u/Otherwise_Basis_6328 </a> <br/> <span><a href="https://youtu.be/rIxEh0FSa7s?si=5IxMCPrxN4LUHP6I">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1in54g1/the_psychodelics_trips_coffin_of_where_we_belong/">[comments]</a></span> </td></tr></table>
+
+## The Winter Passing -- Flowerpot [alt rock / emo] (2015)
+ - [https://www.reddit.com/r/listentothis/comments/1in2cxv/the_winter_passing_flowerpot_alt_rock_emo_2015](https://www.reddit.com/r/listentothis/comments/1in2cxv/the_winter_passing_flowerpot_alt_rock_emo_2015)
+ - RSS feed: $source
+ - date published: 2025-02-11T16:18:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1in2cxv/the_winter_passing_flowerpot_alt_rock_emo_2015/"> <img src="https://external-preview.redd.it/FaTd5RuELuA0La2OfVwjCh6g5qA1A5j6xhxCnWTzjMk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=59a629b6f68f678df54a67e2cf9928b0c5be5cc4" alt="The Winter Passing -- Flowerpot [alt rock / emo] (2015)" title="The Winter Passing -- Flowerpot [alt rock / emo] (2015)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/qazz23"> /u/qazz23 </a> <br/> <span><a href="https://www.youtube.com/watch?v=LnWKlHYOUTI">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1in2cxv/the_winter_passing_flowerpot_alt_rock_emo_2015/">[comments]</a></span> </td></tr></table>
+
+## noirem. -- The Forgotten Chamber [alt / goth] (2023)
+ - [https://www.reddit.com/r/listentothis/comments/1in2c0f/noirem_the_forgotten_chamber_alt_goth_2023](https://www.reddit.com/r/listentothis/comments/1in2c0f/noirem_the_forgotten_chamber_alt_goth_2023)
+ - RSS feed: $source
+ - date published: 2025-02-11T16:17:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1in2c0f/noirem_the_forgotten_chamber_alt_goth_2023/"> <img src="https://external-preview.redd.it/d3hdmrLT0qV7B05revSPRhfIaSG_A3eq0vaolocq7vI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=36d2cecda51bfe1f5a1906db41cad504ad5b0c21" alt="noirem. -- The Forgotten Chamber [alt / goth] (2023)" title="noirem. -- The Forgotten Chamber [alt / goth] (2023)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SureFunctions"> /u/SureFunctions </a> <br/> <span><a href="https://www.youtube.com/watch?v=4hm-DYwb4WQ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1in2c0f/noirem_the_forgotten_chamber_alt_goth_2023/">[comments]</a></span> </td></tr></table>
+
+## Vagabond Beatz -- Play Dat [Moombahton] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1imzzlz/vagabond_beatz_play_dat_moombahton_2025](https://www.reddit.com/r/listentothis/comments/1imzzlz/vagabond_beatz_play_dat_moombahton_2025)
+ - RSS feed: $source
+ - date published: 2025-02-11T14:37:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1imzzlz/vagabond_beatz_play_dat_moombahton_2025/"> <img src="https://external-preview.redd.it/2oMwa6fKUF3pAoE6okYE74t34oB_nvnbiWO4mLrdelU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=717e4d626093c7bbfba54ba5a6e6c6432f7c0822" alt="Vagabond Beatz -- Play Dat [Moombahton] (2025)" title="Vagabond Beatz -- Play Dat [Moombahton] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/g0nss"> /u/g0nss </a> <br/> <span><a href="https://youtu.be/uFMuBOEu-qc?si=4MZAUf38tkyk9uHQ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1imzzlz/vagabond_beatz_play_dat_moombahton_2025/">[comments]</a></span> </td></tr></table>
+
+## Garnish - - Junior [Indie Emo] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1imst1p/garnish_junior_indie_emo_2024](https://www.reddit.com/r/listentothis/comments/1imst1p/garnish_junior_indie_emo_2024)
+ - RSS feed: $source
+ - date published: 2025-02-11T06:58:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1imst1p/garnish_junior_indie_emo_2024/"> <img src="https://external-preview.redd.it/xuvHRsnBy5oxweupmwumErGCGcXAqggw-KWr7LhCDWY.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=5f66708994f71aeeeb93c958b586bca1105f7166" alt="Garnish - - Junior [Indie Emo] (2024)" title="Garnish - - Junior [Indie Emo] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Flatcowst"> /u/Flatcowst </a> <br/> <span><a href="https://open.spotify.com/album/3MiTKwbyrQzlcaoGZWt5gu?si=zgIcGJ4YRFeMTYRP909eMQ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1imst1p/garnish_junior_indie_emo_2024/">[comments]</a></span> </td></tr></table>
+
+## Slow Funeral -- Run [alt/ ] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1imrrvp/slow_funeral_run_alt_2025](https://www.reddit.com/r/listentothis/comments/1imrrvp/slow_funeral_run_alt_2025)
+ - RSS feed: $source
+ - date published: 2025-02-11T05:50:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1imrrvp/slow_funeral_run_alt_2025/"> <img src="https://external-preview.redd.it/btgA62euJ3aWaFCCa4syNb9doqorRAYcEGS7snuJ2iY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3fcaa0453b7537041671b3a507c3e513ff369bd6" alt="Slow Funeral -- Run [alt/ ] (2025)" title="Slow Funeral -- Run [alt/ ] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RedemptionXarc"> /u/RedemptionXarc </a> <br/> <span><a href="https://youtu.be/19O71aMu210?si=kvbgjYKjlAJMoXLe">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1imrrvp/slow_funeral_run_alt_2025/">[comments]</a></span> </td></tr></table>
+
+## Hicky Voodoo -- Tim's Toe [Rock] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1implai/hicky_voodoo_tims_toe_rock_2025](https://www.reddit.com/r/listentothis/comments/1implai/hicky_voodoo_tims_toe_rock_2025)
+ - RSS feed: $source
+ - date published: 2025-02-11T03:46:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1implai/hicky_voodoo_tims_toe_rock_2025/"> <img src="https://external-preview.redd.it/CuDj8u3yy82aL35OMMh5__Ah0l07MBvKd0jGkzK2n7g.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c4ec5ecb40110066c24d839116d55fc7300eb399" alt="Hicky Voodoo -- Tim's Toe [Rock] (2025)" title="Hicky Voodoo -- Tim's Toe [Rock] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Swimming_in_paradise"> /u/Swimming_in_paradise </a> <br/> <span><a href="https://www.youtube.com/watch?v=qHOSdPudagg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1implai/hicky_voodoo_tims_toe_rock_2025/">[comments]</a></span> </td></tr></table>
+
+## Georgia Anne Muldrow - Run Away [Soul] (2009)
+ - [https://www.reddit.com/r/listentothis/comments/1imphhb/georgia_anne_muldrow_run_away_soul_2009](https://www.reddit.com/r/listentothis/comments/1imphhb/georgia_anne_muldrow_run_away_soul_2009)
+ - RSS feed: $source
+ - date published: 2025-02-11T03:40:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1imphhb/georgia_anne_muldrow_run_away_soul_2009/"> <img src="https://external-preview.redd.it/r7TS-8fO3LVTSg9lL83BphOfwmg1uDM_9D9YzUfSuM8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cf4667dbb990e0750199fa74aebd1902e0466c70" alt="Georgia Anne Muldrow - Run Away [Soul] (2009)" title="Georgia Anne Muldrow - Run Away [Soul] (2009)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Comer_Agua"> /u/Comer_Agua </a> <br/> <span><a href="https://youtu.be/mONSmBCV1rI?si=0ABdPNphkJBnoPLJ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1imphhb/georgia_anne_muldrow_run_away_soul_2009/">[comments]</a></span> </td></tr></table>
+
+## Les Thugs - Waiting [Punk] (1996)
+ - [https://www.reddit.com/r/listentothis/comments/1immm55/les_thugs_waiting_punk_1996](https://www.reddit.com/r/listentothis/comments/1immm55/les_thugs_waiting_punk_1996)
+ - RSS feed: $source
+ - date published: 2025-02-11T01:10:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1immm55/les_thugs_waiting_punk_1996/"> <img src="https://external-preview.redd.it/lDYSJuQbWi26ljzwgVEWcHXVKXUTuZpCpgOOuHww0nw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fd1dec1f6c53f42d88f2d1377a64f06df484e403" alt="Les Thugs - Waiting [Punk] (1996)" title="Les Thugs - Waiting [Punk] (1996)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/galagapilot"> /u/galagapilot </a> <br/> <span><a href="https://www.youtube.com/watch?v=2h8QidyJE1c">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1immm55/les_thugs_waiting_punk_1996/">[comments]</a></span> </td></tr></table>
+
+## Mindflayer - 1999 Animals Revenge [Electronic/noise] (2004)
+ - [https://www.reddit.com/r/listentothis/comments/1immjyw/mindflayer_1999_animals_revenge_electronicnoise](https://www.reddit.com/r/listentothis/comments/1immjyw/mindflayer_1999_animals_revenge_electronicnoise)
+ - RSS feed: $source
+ - date published: 2025-02-11T01:07:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1immjyw/mindflayer_1999_animals_revenge_electronicnoise/"> <img src="https://external-preview.redd.it/9sEMnuYjbcyjEoX04kPrwfTdt1aER0ro7nqU-XHIH84.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=047bd383e84072bc25ccf590893d739052719a6c" alt="Mindflayer - 1999 Animals Revenge [Electronic/noise] (2004)" title="Mindflayer - 1999 Animals Revenge [Electronic/noise] (2004)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bobsnervous"> /u/bobsnervous </a> <br/> <span><a href="https://youtu.be/jIh6r2W24Xk?si=PdsJ_subHIhJEjTb">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1immjyw/mindflayer_1999_animals_revenge_electronicnoise/">[comments]</a></span> </td></tr></table>
+

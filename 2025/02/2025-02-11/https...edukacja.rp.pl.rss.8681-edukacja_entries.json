@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-11T04:36:00+00:00",
+        "description": "Eksperci alarmuj\u0105, \u017ce sprzedawane jako \u201edyplomy kolekcjonerskie\u201d za\u015bwiadczenia o uzyskaniu wy\u017cszego wykszta\u0142cenia to sfa\u0142szowane dokumenty i nie mo\u017cna si\u0119 nimi pos\u0142ugiwa\u0107. Podkre\u015blaj\u0105, \u017ce pracodawcy powinni by\u0107 bardziej czujni, sprawdzaj\u0105c przysz\u0142ych podw\u0142adnych.",
+        "id": 2088004,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/prawo-karne/art41787721-dyplomy-kolekcjonerskie-z-logo-uczelni-to-zaslona-dymna-dla-oszustow-i-przestepstwo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u201eDyplomy kolekcjonerskie\u201d z logo uczelni to zas\u0142ona dymna dla oszust\u00f3w i przest\u0119pstwo",
+        "vote": 0
+    }
+]

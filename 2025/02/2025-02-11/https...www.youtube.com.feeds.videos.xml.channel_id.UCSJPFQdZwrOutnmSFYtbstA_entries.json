@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-11T18:04:54+00:00",
+        "description": "Seriously, I thought we were done after Jurassic World Dominion, but apparently there's a little more juice to be squeezed from the Jurassic World franchise. So here we are with the official trailer for Jurassic World Rebirth.",
+        "id": 2092527,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Mp_n7nMuUcI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Mp_n7nMuUcI/hqdefault.jpg",
+        "title": "Not ANOTHER Jurassic World Movie?!",
+        "vote": 0
+    }
+]

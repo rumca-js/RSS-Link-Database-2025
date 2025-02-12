@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-11T20:00:03+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/8dNaMInSEpY\" width=\"480\" alt=\"thumbnail\" title=\"Rust Is Splitting The Linux Kernel In Half\" /></p>You may have heard by now about the recent Rust for Linux drama and of course I'm going to talk about it, this sitcom is way more entertaining than anything hollywood has made in there entire life. Hector Martin of the Asahi Linux project crashed out, everyone decided to roast him and the kernel is a mess.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Old Video: https://www.youtube.com/watch?v=FwXmv6b9614<br />Wedson Drama: https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/<br />Hector Mastodon Post 1: https://web.archive.org/web/20250203210501/https://social.treehou",
+        "id": 2093523,
+        "language": "en",
+        "link": "https://odysee.com/rust-is-splitting-the-linux-kernel-in:2ed6097cb814bb3c35c5d2ccf0871c02b6e93260",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rust Is Splitting The Linux Kernel In Half",
+        "vote": 0
+    }
+]

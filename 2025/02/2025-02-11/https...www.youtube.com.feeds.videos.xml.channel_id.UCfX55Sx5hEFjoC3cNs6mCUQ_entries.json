@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-11T14:21:55+00:00",
+        "description": "Cloudflare just became the first major CDN to implement C2PA and Content Credentials, reinforcing trust and transparency across 20% of the internet. Meanwhile, PyTorch\u2019s Warp specialization is set to boost AI efficiency, and CNCF is celebrating 42 new open source mentees!\n\ud83d\udd39 Other top stories:\n\u2705 Lockheed Martin engineer shares insights on supply chain security\n\u2705 MITRE, Block, Texas Instruments, and Microsoft join key open source initiatives\n\u2705 Solo.io contributes kgateway to CNCF for Kubernetes ingress and traffic management\n\ud83d\udce9 Stay ahead in open source! Subscribe for more LF Quick Hits.",
+        "id": 2090191,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=HpqWjhjwmcQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HpqWjhjwmcQ/hqdefault.jpg",
+        "title": "LF Quick Hits: Cloudflare\u2019s Big Move, PyTorch Warp, Open Source Security & More!",
+        "vote": 0
+    }
+]

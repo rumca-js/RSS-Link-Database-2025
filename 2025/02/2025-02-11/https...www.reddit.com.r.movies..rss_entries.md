@@ -1,0 +1,268 @@
+# Source:Movie News and Discussion, URL:https://www.reddit.com/r/movies/.rss, language:en
+
+## Martin Scorsese is a 'Nosferatu' superfan: "Anything Robert Eggers does is amazing"
+ - [https://www.reddit.com/r/movies/comments/1ind7o1/martin_scorsese_is_a_nosferatu_superfan_anything](https://www.reddit.com/r/movies/comments/1ind7o1/martin_scorsese_is_a_nosferatu_superfan_anything)
+ - RSS feed: $source
+ - date published: 2025-02-11T23:47:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1ind7o1/martin_scorsese_is_a_nosferatu_superfan_anything/"> <img src="https://external-preview.redd.it/Gr7d710X2YcLiKnrq7YXrA2EaQNpPgcWwQXhLDdADmQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e23090382044c033cc0f8998c4d9760cf7585dbc" alt="Martin Scorsese is a 'Nosferatu' superfan: &quot;Anything Robert Eggers does is amazing&quot;" title="Martin Scorsese is a 'Nosferatu' superfan: &quot;Anything Robert Eggers does is amazing&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mrjohnnymac18"> /u/mrjohnnymac18 </a> <br/> <span><a href="https://www.nme.com/news/film/martin-scorsese-is-a-nosferatu-superfan-anything-robert-eggers-does-amazing-3837122">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ind7o1/martin_scorsese_is_a_nosferatu_superfan_anything/">[comments]</a></span> </td></tr></table>
+
+## I released the Crawford Road movie after a 7 year court case "Price versus Barr/Garland, your rights to film on public land
+ - [https://www.reddit.com/r/movies/comments/1incc7z/i_released_the_crawford_road_movie_after_a_7_year](https://www.reddit.com/r/movies/comments/1incc7z/i_released_the_crawford_road_movie_after_a_7_year)
+ - RSS feed: $source
+ - date published: 2025-02-11T23:08:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Me (gordy Price) and my filming cohort James Person filmed Crawford Road movie in 2016 and 2017 and did not bother to get a permit for filming on nps land the rest is history literally! Price versus Barr your rights to film on public land Please check out Crawford on YouTube movies or fawesome. here is the trailer feel free to ask any questions about the movie or the court case ,my head is hear on the chopping block, chop away!!! Gordy</p> <p><a href="https://www.hollywoodreporter.com/business/business-news/senate-clears-bill-altering-permitting-rules-shoot-national-parks-1236092016/">https://www.hollywoodreporter.com/business/business-news/senate-clears-bill-altering-permitting-rules-shoot-national-parks-1236092016/</a></p> <p>Crawford road Trailer <a href="https://www.youtube.com/watch?v=28TrFB_ZvLs">https://www.youtube.com/watch?v=28TrFB_ZvLs</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Weary_Bus4336">
+
+## Actor Carl Lumbly discusses his many Film and TV roles: from "Buckaroo Banzai" and "South Central" to "Cagney & Lacey" and J'onn J'onzz on "Justice League"
+ - [https://www.reddit.com/r/movies/comments/1ina9yq/actor_carl_lumbly_discusses_his_many_film_and_tv](https://www.reddit.com/r/movies/comments/1ina9yq/actor_carl_lumbly_discusses_his_many_film_and_tv)
+ - RSS feed: $source
+ - date published: 2025-02-11T21:41:16+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Amaruq93"> /u/Amaruq93 </a> <br/> <span><a href="https://www.avclub.com/carl-lumbly-interview-random-roles-cagney-lacey-buckaroo-banzai-justice-league">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ina9yq/actor_carl_lumbly_discusses_his_many_film_and_tv/">[comments]</a></span>
+
+## Any examples of movies that created a new fear and changed nationwide behaviors?
+ - [https://www.reddit.com/r/movies/comments/1in8fsi/any_examples_of_movies_that_created_a_new_fear](https://www.reddit.com/r/movies/comments/1in8fsi/any_examples_of_movies_that_created_a_new_fear)
+ - RSS feed: $source
+ - date published: 2025-02-11T20:25:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Recently rewatched Final Destination 2 and, as a kid who grew up during this time, I have never felt comfortable behind a log truck, and probably never will.</p> <p>I also imagine folks who saw Jaws in real time also felt new fears about getting in the water.</p> <p>Are there any other movies that caused rational/irrational fears in a large chunk of the population?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DookieSweat"> /u/DookieSweat </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1in8fsi/any_examples_of_movies_that_created_a_new_fear/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1in8fsi/any_examples_of_movies_that_created_a_new_fear/">[comments]</a></span>
+
+## Manhunter. First time watching.
+ - [https://www.reddit.com/r/movies/comments/1in8chh/manhunter_first_time_watching](https://www.reddit.com/r/movies/comments/1in8chh/manhunter_first_time_watching)
+ - RSS feed: $source
+ - date published: 2025-02-11T20:22:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I just watched Manhunter for the first time. As a long time fan of horror, thriller and true crime, and a long time lover of Silence of the Lambs, I was plenty surprised at this film. </p> <p>I enjoyed it as the first film adaptation, and find myself interested in researching the telling of the story from the book, and seeing which of the two film adaptations is most in line with it. </p> <p>Sure, some cheesy 80s shlock here and there, but when Tom Noonan or Brian Cox are on screen, boy do you pay attention! </p> <p>What did you guys think? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Aggravating_Hat_8180"> /u/Aggravating_Hat_8180 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1in8chh/manhunter_first_time_watching/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1in8chh/manhunter_first_time_watching/">[comments]</a></span>
+
+## What movie did you watch because of this sub?
+ - [https://www.reddit.com/r/movies/comments/1in83m0/what_movie_did_you_watch_because_of_this_sub](https://www.reddit.com/r/movies/comments/1in83m0/what_movie_did_you_watch_because_of_this_sub)
+ - RSS feed: $source
+ - date published: 2025-02-11T20:11:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve watched quite a few movies just because they are often mentioned in this sub, as I respect all your opinions. Most of them were absolute hits (12 angry men and Edge of tomorrow, the unbearable weight of massive talent and Gattacato name a few), but I just now finished watching Pacific Rim and it did not click for me at all. </p> <p>It&#39;s referenced here a lot as one of those perfect action movies, but I was a bit disappointed. Just not my thing I guess, which might not be so strange as I have no affiliation with the whole anime thing as well.</p> <p>That&#39;s the risk for going in blind except for the comments in this sub and it&#39;s a risk I am very willing to take, as most of those films were absolutely brilliant. Just made me wonder what movies other people here watched because of this sub.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SosseV"> /u/SosseV </a> <br/> <span><a href="https://www.r
+
+## The 13th Warrior (1999) starring Antonio Banderas
+ - [https://www.reddit.com/r/movies/comments/1in7wwb/the_13th_warrior_1999_starring_antonio_banderas](https://www.reddit.com/r/movies/comments/1in7wwb/the_13th_warrior_1999_starring_antonio_banderas)
+ - RSS feed: $source
+ - date published: 2025-02-11T20:04:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1in7wwb/the_13th_warrior_1999_starring_antonio_banderas/"> <img src="https://external-preview.redd.it/ynmPTomYJJMC6cziRhCPJzqkMSQXVGKTx-q_ULnW4bI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=72719cc21a09305cf28eeefde07bcf58cfb5952e" alt="The 13th Warrior (1999) starring Antonio Banderas" title="The 13th Warrior (1999) starring Antonio Banderas" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Antonio Banderas fights alongside a group of Vikings to battle an invading army of cannibal cave-men. How could you not love this movie?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WerdNerd88"> /u/WerdNerd88 </a> <br/> <span><a href="https://youtu.be/ZeGbSOdedqI?si=8_v8nwPh3xWaX_r5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1in7wwb/the_13th_warrior_1999_starring_antonio_banderas/">[comments]</a></span> </td></tr></table>
+
+## New poster for ‘Penguin Lessons’ starring Steve Coogan & Jonathan Pryce
+ - [https://www.reddit.com/r/movies/comments/1in6lsq/new_poster_for_penguin_lessons_starring_steve](https://www.reddit.com/r/movies/comments/1in6lsq/new_poster_for_penguin_lessons_starring_steve)
+ - RSS feed: $source
+ - date published: 2025-02-11T19:11:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1in6lsq/new_poster_for_penguin_lessons_starring_steve/"> <img src="https://preview.redd.it/tkg20xk37kie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=39bb30817c5173ed7efbff0ab20d6387dca1de17" alt="New poster for ‘Penguin Lessons’ starring Steve Coogan &amp; Jonathan Pryce" title="New poster for ‘Penguin Lessons’ starring Steve Coogan &amp; Jonathan Pryce" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KillerCroc1234567"> /u/KillerCroc1234567 </a> <br/> <span><a href="https://i.redd.it/tkg20xk37kie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1in6lsq/new_poster_for_penguin_lessons_starring_steve/">[comments]</a></span> </td></tr></table>
+
+## Disney+ to Change Content Warnings Ahead Old Movies Amid DEI Strategy Shift
+ - [https://www.reddit.com/r/movies/comments/1in6l8y/disney_to_change_content_warnings_ahead_old](https://www.reddit.com/r/movies/comments/1in6l8y/disney_to_change_content_warnings_ahead_old)
+ - RSS feed: $source
+ - date published: 2025-02-11T19:10:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1in6l8y/disney_to_change_content_warnings_ahead_old/"> <img src="https://external-preview.redd.it/NVshrMtaym0Xm9oXsKynRykJ6EvY0XEnbMQ7NYQwgQg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8f5857ac0f33abd9c25658ea920044c2589a155" alt="Disney+ to Change Content Warnings Ahead Old Movies Amid DEI Strategy Shift" title="Disney+ to Change Content Warnings Ahead Old Movies Amid DEI Strategy Shift" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KillerCroc1234567"> /u/KillerCroc1234567 </a> <br/> <span><a href="https://variety.com/2025/film/news/disney-changes-content-warnings-dei-strategy-shift-1236304091/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1in6l8y/disney_to_change_content_warnings_ahead_old/">[comments]</a></span> </td></tr></table>
+
+## ‘Masters of the Universe’: James Purefoy, Charlotte Riley Cast as He-Man’s Parents
+ - [https://www.reddit.com/r/movies/comments/1in6fna/masters_of_the_universe_james_purefoy_charlotte](https://www.reddit.com/r/movies/comments/1in6fna/masters_of_the_universe_james_purefoy_charlotte)
+ - RSS feed: $source
+ - date published: 2025-02-11T19:04:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1in6fna/masters_of_the_universe_james_purefoy_charlotte/"> <img src="https://external-preview.redd.it/xUtcHdEcHI6cPtYN_wgUDbXKPyuZlNC0gLIE1rOjNxc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b081ed08c13fc8b1f93669098f874992d1d5520f" alt="‘Masters of the Universe’: James Purefoy, Charlotte Riley Cast as He-Man’s Parents" title="‘Masters of the Universe’: James Purefoy, Charlotte Riley Cast as He-Man’s Parents" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NoCulture3505"> /u/NoCulture3505 </a> <br/> <span><a href="https://www.hollywoodreporter.com/movies/movie-news/masters-of-the-universe-james-purefoy-charlotte-riley-1236132503/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1in6fna/masters_of_the_universe_james_purefoy_charlotte/">[comments]</a></span> </td></tr></table>
+
+## I absolutely loved Ad Astra. (Spoilers)
+ - [https://www.reddit.com/r/movies/comments/1in5sju/i_absolutely_loved_ad_astra_spoilers](https://www.reddit.com/r/movies/comments/1in5sju/i_absolutely_loved_ad_astra_spoilers)
+ - RSS feed: $source
+ - date published: 2025-02-11T18:39:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I had this movie on the back burner for literal years. Heard a little about why people weren’t so hot on it when it released, understood why. I had zero expectations really besides the trailer and knew it wasn’t some space faring action movie. </p> <p>To be honest I don’t even love the plot but I think it was the world really. It’s one of the few movies that made you really feel how exhausting and long space travel could be. It really felt like I went on a journey with the protagonist. It felt absolutely grande from the opening on the space antenna, to the launches and vistas arriving on different planets. </p> <p>I loved how we watch Roy take his journey starting on commercial flight, to the more treacherous journey to Mars and eventually beyond. By the time we got to Neptune I really felt like we were billions of miles away from where we started on Earth. It felt mysterious every step of the way. </p> <p>By no means was this movie perfect but it le
+
+## Hello /r/movies. I am Paddington Brown, and I cannot wait to share my exciting new adventure 'Paddington in Peru' with my friends in the USA. Please ask me anything, I look forward to answering your questions.
+ - [https://www.reddit.com/r/movies/comments/1in4t7h/hello_rmovies_i_am_paddington_brown_and_i_cannot](https://www.reddit.com/r/movies/comments/1in4t7h/hello_rmovies_i_am_paddington_brown_and_i_cannot)
+ - RSS feed: $source
+ - date published: 2025-02-11T17:59:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1in4t7h/hello_rmovies_i_am_paddington_brown_and_i_cannot/"> <img src="https://preview.redd.it/4kxambe2ujie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a6b683fb478f9bfdb6914891f9b6d70fb0b4e7f" alt="Hello /r/movies. I am Paddington Brown, and I cannot wait to share my exciting new adventure 'Paddington in Peru' with my friends in the USA. Please ask me anything, I look forward to answering your questions." title="Hello /r/movies. I am Paddington Brown, and I cannot wait to share my exciting new adventure 'Paddington in Peru' with my friends in the USA. Please ask me anything, I look forward to answering your questions." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PaddingtonOfficial"> /u/PaddingtonOfficial </a> <br/> <span><a href="https://i.redd.it/4kxambe2ujie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1in4t7h/hello_rmovies_i_am_pad
+
+## Dennis Haysbert Latest To Join Sam Raimi’s ‘Send Help’
+ - [https://www.reddit.com/r/movies/comments/1in40pq/dennis_haysbert_latest_to_join_sam_raimis_send](https://www.reddit.com/r/movies/comments/1in40pq/dennis_haysbert_latest_to_join_sam_raimis_send)
+ - RSS feed: $source
+ - date published: 2025-02-11T17:27:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1in40pq/dennis_haysbert_latest_to_join_sam_raimis_send/"> <img src="https://external-preview.redd.it/jluhCGUG-3dAd-QByrybEhPGAAae_zGT19O6tSMS2LQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=20b7fab30c7d73e551f28154133fd20713e04995" alt="Dennis Haysbert Latest To Join Sam Raimi’s ‘Send Help’" title="Dennis Haysbert Latest To Join Sam Raimi’s ‘Send Help’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sprightly_Rosa"> /u/Sprightly_Rosa </a> <br/> <span><a href="https://deadline.com/2025/02/send-help-movie-dennis-haysbert-joins-horror-thriller-1236285640/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1in40pq/dennis_haysbert_latest_to_join_sam_raimis_send/">[comments]</a></span> </td></tr></table>
+
+## Official Poster for 'Mortal Kombat 2'
+ - [https://www.reddit.com/r/movies/comments/1in3fqs/official_poster_for_mortal_kombat_2](https://www.reddit.com/r/movies/comments/1in3fqs/official_poster_for_mortal_kombat_2)
+ - RSS feed: $source
+ - date published: 2025-02-11T17:03:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1in3fqs/official_poster_for_mortal_kombat_2/"> <img src="https://preview.redd.it/jgus7mp9kjie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=094c3ac4c8d76cc6be6180071996f195ecd541b2" alt="Official Poster for 'Mortal Kombat 2'" title="Official Poster for 'Mortal Kombat 2'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://i.redd.it/jgus7mp9kjie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1in3fqs/official_poster_for_mortal_kombat_2/">[comments]</a></span> </td></tr></table>
+
+## Wes Anderson’s ‘The Phoenician Scheme’ Set for May 2025 Release from Focus Features
+ - [https://www.reddit.com/r/movies/comments/1in1wss/wes_andersons_the_phoenician_scheme_set_for_may](https://www.reddit.com/r/movies/comments/1in1wss/wes_andersons_the_phoenician_scheme_set_for_may)
+ - RSS feed: $source
+ - date published: 2025-02-11T16:00:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1in1wss/wes_andersons_the_phoenician_scheme_set_for_may/"> <img src="https://external-preview.redd.it/_PHIfm0TMGHjr5yFxVDKIY64_-cQRaDT_tq-B4KieoQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dae8aa4c89d0bfbf1b1334d1ea1cf975cf2b9235" alt="Wes Anderson’s ‘The Phoenician Scheme’ Set for May 2025 Release from Focus Features" title="Wes Anderson’s ‘The Phoenician Scheme’ Set for May 2025 Release from Focus Features" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/indiewire"> /u/indiewire </a> <br/> <span><a href="https://www.indiewire.com/news/breaking-news/wes-anderson-the-phoenician-scheme-release-date-1235093836/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1in1wss/wes_andersons_the_phoenician_scheme_set_for_may/">[comments]</a></span> </td></tr></table>
+
+## Kristen Wiig, Bill Murray to Star in Comedy ‘Epiphany’ From ‘Palm Springs’ Director, Rocket Science Selling at EFM
+ - [https://www.reddit.com/r/movies/comments/1in1wab/kristen_wiig_bill_murray_to_star_in_comedy](https://www.reddit.com/r/movies/comments/1in1wab/kristen_wiig_bill_murray_to_star_in_comedy)
+ - RSS feed: $source
+ - date published: 2025-02-11T15:59:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1in1wab/kristen_wiig_bill_murray_to_star_in_comedy/"> <img src="https://external-preview.redd.it/ipttE3b8yLGpefHL5gJpR91O2Ffnv9RD283NZzN_HiU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=754045d3ae3045096eab9456c4788e6a3de3ac9d" alt="Kristen Wiig, Bill Murray to Star in Comedy ‘Epiphany’ From ‘Palm Springs’ Director, Rocket Science Selling at EFM" title="Kristen Wiig, Bill Murray to Star in Comedy ‘Epiphany’ From ‘Palm Springs’ Director, Rocket Science Selling at EFM" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NoCulture3505"> /u/NoCulture3505 </a> <br/> <span><a href="http://variety.com/2025/film/global/kristen-wiig-bill-murray-epiphany-max-barbakow-1236301822/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1in1wab/kristen_wiig_bill_murray_to_star_in_comedy/">[comments]</a></span> </td></tr></table>
+
+## Green Day is working on a film inspired by their years in a tour van. The film is titled 'New Years Rev' and is currently in production and features The Office actresses Jenna Fischer and Angela Kinsey.
+ - [https://www.reddit.com/r/movies/comments/1in136m/green_day_is_working_on_a_film_inspired_by_their](https://www.reddit.com/r/movies/comments/1in136m/green_day_is_working_on_a_film_inspired_by_their)
+ - RSS feed: $source
+ - date published: 2025-02-11T15:25:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1in136m/green_day_is_working_on_a_film_inspired_by_their/"> <img src="https://external-preview.redd.it/kkOicG3Bj4mClnJOwXT1XT-9qrgVL0Wft5hnUunDfPA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e63ded5df975432435a99c272697741505ba99fa" alt="Green Day is working on a film inspired by their years in a tour van. The film is titled 'New Years Rev' and is currently in production and features The Office actresses Jenna Fischer and Angela Kinsey." title="Green Day is working on a film inspired by their years in a tour van. The film is titled 'New Years Rev' and is currently in production and features The Office actresses Jenna Fischer and Angela Kinsey." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/YoureASkyscraper"> /u/YoureASkyscraper </a> <br/> <span><a href="https://www.billboard.com/culture/tv-film/green-day-new-comedy-film-new-years-rev-1235898214/">[link]</a></span> &#32; <span><a 
+
+## U Turn (1997)
+ - [https://www.reddit.com/r/movies/comments/1in0nk4/u_turn_1997](https://www.reddit.com/r/movies/comments/1in0nk4/u_turn_1997)
+ - RSS feed: $source
+ - date published: 2025-02-11T15:06:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Does anybody else love this film? I think it’s super underrated, I love dark comedies and I think this film is absolutely hilarious, directed by Oliver Stone, great performance by Sean Penn, probably one of my favorite Sean Penn films, and it has a great cast including Nick Nolte, Jennifer Lopez, Joaquin Phoenix, and Billy Bob Thornton! If you like dark comedies and/or weird films, definitely check U Turn out!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/These_Feed_2616"> /u/These_Feed_2616 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1in0nk4/u_turn_1997/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1in0nk4/u_turn_1997/">[comments]</a></span>
+
+## Hey /r/movies - I'm Gints Zilbalodis, director/writer/producer of the Golden Globe-winning, Oscar-nominated film 'Flow'. Ask me anything! Back at 6 PM PT today (Tuesday 2/11) for answers.
+ - [https://www.reddit.com/r/movies/comments/1in0byb/hey_rmovies_im_gints_zilbalodis](https://www.reddit.com/r/movies/comments/1in0byb/hey_rmovies_im_gints_zilbalodis)
+ - RSS feed: $source
+ - date published: 2025-02-11T14:52:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1in0byb/hey_rmovies_im_gints_zilbalodis/"> <img src="https://preview.redd.it/53oyydcvwiie1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=42e2fbc51862168c997b06bfa94576e3efa8f645" alt="Hey /r/movies - I'm Gints Zilbalodis, director/writer/producer of the Golden Globe-winning, Oscar-nominated film 'Flow'. Ask me anything! Back at 6 PM PT today (Tuesday 2/11) for answers." title="Hey /r/movies - I'm Gints Zilbalodis, director/writer/producer of the Golden Globe-winning, Oscar-nominated film 'Flow'. Ask me anything! Back at 6 PM PT today (Tuesday 2/11) for answers." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FlowAMA"> /u/FlowAMA </a> <br/> <span><a href="https://i.redd.it/53oyydcvwiie1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1in0byb/hey_rmovies_im_gints_zilbalodis/">[comments]</a></span> </td></tr></table>
+
+## The Quick and the Dead: Sam Raimi’s Mythological Western Looms Larger Than Life at 30
+ - [https://www.reddit.com/r/movies/comments/1imzs79/the_quick_and_the_dead_sam_raimis_mythological](https://www.reddit.com/r/movies/comments/1imzs79/the_quick_and_the_dead_sam_raimis_mythological)
+ - RSS feed: $source
+ - date published: 2025-02-11T14:28:07+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/johntentaquake"> /u/johntentaquake </a> <br/> <span><a href="https://www.pastemagazine.com/movies/the-quick-and-the-dead/the-quick-and-the-dead-sam-raimi-anniversary-western-legacy-sharon-stone-russell-crowe">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1imzs79/the_quick_and_the_dead_sam_raimis_mythological/">[comments]</a></span>
+
+## Friendship | Official Trailer | A24
+ - [https://www.reddit.com/r/movies/comments/1imz673/friendship_official_trailer_a24](https://www.reddit.com/r/movies/comments/1imz673/friendship_official_trailer_a24)
+ - RSS feed: $source
+ - date published: 2025-02-11T13:59:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1imz673/friendship_official_trailer_a24/"> <img src="https://external-preview.redd.it/gRbrz-IoIIiu7wtwG92YfPCk2rZcCuWBMSzMcFzXVY0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=dd25811ab6afd23813f76918d415a637469cc279" alt="Friendship | Official Trailer | A24" title="Friendship | Official Trailer | A24" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://www.youtube.com/watch?v=cmSPwZIZu6Y">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1imz673/friendship_official_trailer_a24/">[comments]</a></span> </td></tr></table>
+
+## Female Actors Achieve Parity With Men As Leads In Top 100 Films of 2024
+ - [https://www.reddit.com/r/movies/comments/1imz17k/female_actors_achieve_parity_with_men_as_leads_in](https://www.reddit.com/r/movies/comments/1imz17k/female_actors_achieve_parity_with_men_as_leads_in)
+ - RSS feed: $source
+ - date published: 2025-02-11T13:52:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1imz17k/female_actors_achieve_parity_with_men_as_leads_in/"> <img src="https://external-preview.redd.it/wyJl4hONq19SivzwAyabEiltskI2x-F-_v2zUp97HFQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3e27c956c741ab026f81229664623ac16cd4c39c" alt="Female Actors Achieve Parity With Men As Leads In Top 100 Films of 2024" title="Female Actors Achieve Parity With Men As Leads In Top 100 Films of 2024" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pyro-Bird"> /u/Pyro-Bird </a> <br/> <span><a href="https://deadline.com/2025/02/female-male-actors-films-2024-equality-1236285133/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1imz17k/female_actors_achieve_parity_with_men_as_leads_in/">[comments]</a></span> </td></tr></table>
+
+## Cameron Diaz Says She Was Shocked When She Learned That Netflix Has a Hotline to Report Misconduct on Set
+ - [https://www.reddit.com/r/movies/comments/1imyol6/cameron_diaz_says_she_was_shocked_when_she](https://www.reddit.com/r/movies/comments/1imyol6/cameron_diaz_says_she_was_shocked_when_she)
+ - RSS feed: $source
+ - date published: 2025-02-11T13:34:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1imyol6/cameron_diaz_says_she_was_shocked_when_she/"> <img src="https://external-preview.redd.it/aYGEY8PethHIB2lwsrSb9ljlG7Frlmp3JYxZq2LkTCo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28bdfa9393d2702b436f0dc3fc41483cca51325f" alt="Cameron Diaz Says She Was Shocked When She Learned That Netflix Has a Hotline to Report Misconduct on Set" title="Cameron Diaz Says She Was Shocked When She Learned That Netflix Has a Hotline to Report Misconduct on Set" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LauraEats"> /u/LauraEats </a> <br/> <span><a href="https://www.comicbasics.com/cameron-diaz-says-she-was-shocked-when-she-learned-that-netflix-has-a-hotline-to-report-misconduct-on-set/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1imyol6/cameron_diaz_says_she_was_shocked_when_she/">[comments]</a></span> </td></tr></table>
+
+## New Images of Ben Affleck, Jon Bernthal, J. K. Simmons and Cynthia Addai-Robinson in ‘The Accountant 2’
+ - [https://www.reddit.com/r/movies/comments/1imw883/new_images_of_ben_affleck_jon_bernthal_j_k](https://www.reddit.com/r/movies/comments/1imw883/new_images_of_ben_affleck_jon_bernthal_j_k)
+ - RSS feed: $source
+ - date published: 2025-02-11T11:12:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1imw883/new_images_of_ben_affleck_jon_bernthal_j_k/"> <img src="https://preview.redd.it/h73t9z5othie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a42da8f7d93c3dbedfd2d908d91001a48a96de4e" alt="New Images of Ben Affleck, Jon Bernthal, J. K. Simmons and Cynthia Addai-Robinson in ‘The Accountant 2’" title="New Images of Ben Affleck, Jon Bernthal, J. K. Simmons and Cynthia Addai-Robinson in ‘The Accountant 2’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://i.redd.it/h73t9z5othie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1imw883/new_images_of_ben_affleck_jon_bernthal_j_k/">[comments]</a></span> </td></tr></table>
+
+## What is the Best Film You Watched Last Week? (02/04/25 – 02/11/25)
+ - [https://www.reddit.com/r/movies/comments/1imuys9/what_is_the_best_film_you_watched_last_week](https://www.reddit.com/r/movies/comments/1imuys9/what_is_the_best_film_you_watched_last_week)
+ - RSS feed: $source
+ - date published: 2025-02-11T09:41:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>The way this works is that you post a review of the Best Film you watched this week. It can be any new or old release that you want to talk about.</p> <p><strong>Here are some rules:</strong></p> <ol> <li><strong>Check to see if your favorite film of last week has been posted already.</strong></li> <li><strong>Please post your favorite film of last week.</strong></li> <li><strong>Explain why you enjoyed your film.</strong></li> <li><strong>ALWAYS use SPOILER TAGS.</strong></li> <li><strong>Comments that only contain the title of the film will be removed.</strong></li> </ol> <p><a href="https://www.reddit.com/r/movies/comments/1ihdlnl/what_is_the_best_film_you_watched_last_week/">Last Week&#39;s Thread</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ICumCoffee"> /u/ICumCoffee </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1imuys9/what_is_the_best_film_you_watched_last_week/">[link]</a></sp
+
+## Dave Bautista To Lead Dystopian Sci-Fi Thriller ‘Dreadnought’ For ‘John Wick’ Producers Thunder Road; WME Independent Launching For EFM
+ - [https://www.reddit.com/r/movies/comments/1imuxot/dave_bautista_to_lead_dystopian_scifi_thriller](https://www.reddit.com/r/movies/comments/1imuxot/dave_bautista_to_lead_dystopian_scifi_thriller)
+ - RSS feed: $source
+ - date published: 2025-02-11T09:39:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1imuxot/dave_bautista_to_lead_dystopian_scifi_thriller/"> <img src="https://external-preview.redd.it/Q9QRDoCdeYe_-I3k4zYaiedNfmO1qQTIThRpSDkGvrA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=081b63705d5337b7cc0cf0dde52b8459cc206fa3" alt="Dave Bautista To Lead Dystopian Sci-Fi Thriller ‘Dreadnought’ For ‘John Wick’ Producers Thunder Road; WME Independent Launching For EFM" title="Dave Bautista To Lead Dystopian Sci-Fi Thriller ‘Dreadnought’ For ‘John Wick’ Producers Thunder Road; WME Independent Launching For EFM" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KillerCroc1234567"> /u/KillerCroc1234567 </a> <br/> <span><a href="https://deadline.com/2025/02/dave-bautista-star-in-dreadnought-for-john-wick-producer-thunder-road-1236284883/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1imuxot/dave_bautista_to_lead_dystopian_scifi_thriller/">[comments]</a
+
+## Movies like Manchester By The Sea
+ - [https://www.reddit.com/r/movies/comments/1imue96/movies_like_manchester_by_the_sea](https://www.reddit.com/r/movies/comments/1imue96/movies_like_manchester_by_the_sea)
+ - RSS feed: $source
+ - date published: 2025-02-11T08:57:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just finished watching Manchester By The Sea by recommendation of this sub. It was just as good as yall said it was. Beautiful film. So now I ask, what are some similar films to this movie? I need some good tragedy dramas that are in the same heart wrenching vein as this movie. Fuck me up with some sad movies please 🙏 </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ILikeToPlayTheDrums"> /u/ILikeToPlayTheDrums </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1imue96/movies_like_manchester_by_the_sea/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1imue96/movies_like_manchester_by_the_sea/">[comments]</a></span>
+
+## Terminator 1 is what I've been looking for for a long time.
+ - [https://www.reddit.com/r/movies/comments/1imt1mk/terminator_1_is_what_ive_been_looking_for_for_a](https://www.reddit.com/r/movies/comments/1imt1mk/terminator_1_is_what_ive_been_looking_for_for_a)
+ - RSS feed: $source
+ - date published: 2025-02-11T07:15:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know I&#39;m a little bit late, but I just saw Terminator 1 yesterday, and it was amazing! I liked it so much, I just purchased it for my DVD/Blu-Ray collection. I&#39;m glad I decided to give it a try. As someone who liked but could never bring myself to buy a single Star Wars DVD, a Blade-Runner DVD, or a Back To The Future DVD, this movie felt like everything I was looking for in those films. The only movie I can think of that I own close to it is the first Matrix movie, and Terminator 2 which I could barely even bring myself to buy as well. I was surprised to have liked it more than Terminator 2, given all the praise that one gets, and I expected it to be similar to Terminator 2, which prevented me from wanting to watch it, but it turns out it being not too similar to Terminator 2 is what made me like it so much.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Oreoghostboy"> /u/Oreoghostboy </a> <br/> <spa
+
+## Join us tomorrow (Tuesday 2/11) at 3 PM ET for a live AMA/Q&A with Gints Zilbalodis, director/animator/writer of the Oscar-nominated film 'Flow'.
+ - [https://www.reddit.com/r/movies/comments/1imqu4z/join_us_tomorrow_tuesday_211_at_3_pm_et_for_a](https://www.reddit.com/r/movies/comments/1imqu4z/join_us_tomorrow_tuesday_211_at_3_pm_et_for_a)
+ - RSS feed: $source
+ - date published: 2025-02-11T04:54:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1imqu4z/join_us_tomorrow_tuesday_211_at_3_pm_et_for_a/"> <img src="https://preview.redd.it/vuz6m8z3yfie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=432bfefbb9ae0e81cf4c90cf7b0814183129013a" alt="Join us tomorrow (Tuesday 2/11) at 3 PM ET for a live AMA/Q&amp;A with Gints Zilbalodis, director/animator/writer of the Oscar-nominated film 'Flow'." title="Join us tomorrow (Tuesday 2/11) at 3 PM ET for a live AMA/Q&amp;A with Gints Zilbalodis, director/animator/writer of the Oscar-nominated film 'Flow'." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BunyipPouch"> /u/BunyipPouch </a> <br/> <span><a href="https://i.redd.it/vuz6m8z3yfie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1imqu4z/join_us_tomorrow_tuesday_211_at_3_pm_et_for_a/">[comments]</a></span> </td></tr></table>
+
+## Ken Burns…criterion
+ - [https://www.reddit.com/r/movies/comments/1imq87n/ken_burnscriterion](https://www.reddit.com/r/movies/comments/1imq87n/ken_burnscriterion)
+ - RSS feed: $source
+ - date published: 2025-02-11T04:20:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1imq87n/ken_burnscriterion/"> <img src="https://external-preview.redd.it/MEsTeBkuaDIjExqUXiw5j062At-nP4jTzuBdumGNeY4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2df8621c9bb8d64c7d30ddc1fef0a8eee41b1ab4" alt="Ken Burns…criterion" title="Ken Burns…criterion" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I love how he quickly gets giddy like a kid when talking about some of his favs.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/in2xs"> /u/in2xs </a> <br/> <span><a href="https://youtu.be/NCTUZ7bX0SE?si=g_m0aeYETlfqQtmf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1imq87n/ken_burnscriterion/">[comments]</a></span> </td></tr></table>
+
+## Talking about "Movies that never happened". Bright was such wasted potential.
+ - [https://www.reddit.com/r/movies/comments/1impq6a/talking_about_movies_that_never_happened_bright](https://www.reddit.com/r/movies/comments/1impq6a/talking_about_movies_that_never_happened_bright)
+ - RSS feed: $source
+ - date published: 2025-02-11T03:53:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>A movie, or movie franchise, about a modern day world involving class definitions with mythological creatures sounds amazing.</p> <p>In an LA rife with interspecies tensions, a human cop and his orc partner stumble on a powerful object and become embroiled in a prophesied turf war.</p> <p>Too bad Bright storyline sucked. I would have loved to see a word like that built up in depth.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FuuuuckOffff"> /u/FuuuuckOffff </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1impq6a/talking_about_movies_that_never_happened_bright/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1impq6a/talking_about_movies_that_never_happened_bright/">[comments]</a></span>
+
+## Texas Chainsaw Massacre (1974) is an apocalyptic film just as much as it is horror.
+ - [https://www.reddit.com/r/movies/comments/1imns84/texas_chainsaw_massacre_1974_is_an_apocalyptic](https://www.reddit.com/r/movies/comments/1imns84/texas_chainsaw_massacre_1974_is_an_apocalyptic)
+ - RSS feed: $source
+ - date published: 2025-02-11T02:16:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Texas Chainsaw Massacre is, aside from the obvious slasher/exploitation flick, a film about the decay of society and the breakdown of systems.</p> <p>Listen to the radio news broadcasts: Grave-robbing, murder, cholera epidemic, city wide fires, suicide, building collapses, oil reserves burning, and heat waves with no end in sight.</p> <p>Notice how <em>nothing</em> goes right or according to plan.</p> <p>Sally wants to check on a relatives grave, only to be led off by a stranger. Franklin cannot take a piss without getting hurt. They pick up a hitchhiker, he’s bad news. They want to go see the old family house, it’s condemned. They want to go swimming, the swim hole dried up. They want gas, there isn’t any. Franklin and Sally want to drive away, the keys are gone because Jerry took them. The Sawyers need food, it’s scarce so they resort to cannibalism. The Sawyers dinner doesn’t go over well, etc.</p> <p>Systems are breaking down. </p> <p>The authori
+
+## Is there any love for "Seeking a Friend For the End of the World?"
+ - [https://www.reddit.com/r/movies/comments/1imnpql/is_there_any_love_for_seeking_a_friend_for_the](https://www.reddit.com/r/movies/comments/1imnpql/is_there_any_love_for_seeking_a_friend_for_the)
+ - RSS feed: $source
+ - date published: 2025-02-11T02:13:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>It starts off kinda slow with Dodge working at his job while everyone else had left. They were looking for a CFO in the opening scene. Then he meets Penny, and the riots happen, so they haul ass out of there. Then... aw hell, I&#39;m spoling it.</p> <p>It&#39;s a great movie. So much happens that you wouldn&#39;t expect, and the ending is spectacular.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ralph--Hinkley"> /u/Ralph--Hinkley </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1imnpql/is_there_any_love_for_seeking_a_friend_for_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1imnpql/is_there_any_love_for_seeking_a_friend_for_the/">[comments]</a></span>
+
+## What’s the Most Unforgettable Experience You’ve Ever Had at the Movies?
+ - [https://www.reddit.com/r/movies/comments/1imn5do/whats_the_most_unforgettable_experience_youve](https://www.reddit.com/r/movies/comments/1imn5do/whats_the_most_unforgettable_experience_youve)
+ - RSS feed: $source
+ - date published: 2025-02-11T01:37:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>I think the cinema is sacred. Some of my best memories have been based around a theatre. I used to work at a theatre in High School and it was some of the best times of my life. There were so many good times back then, which lead me to thinking: What’s the most unforgettable experience you’ve ever had at the movies?</p> <p>For me, it was the opening night of The Avengers with my closest friends. The theater was completely packed, and the energy in the room was unreal. People were cheering, clapping, and reacting to every big moment like we were at a live event. It wasn’t just about watching a movie, it was about sharing an experience with an entire crowd of people who were just as hyped as we were to see the culmination of the first phase of the MCU.</p> <p>That’s what I love about the theater experience. There’s something special about seeing a movie with a group of strangers who are all there for the same reason. Midnight premieres, surprise audien
+
+## Watching the Princess Diaries as an adult
+ - [https://www.reddit.com/r/movies/comments/1immlpf/watching_the_princess_diaries_as_an_adult](https://www.reddit.com/r/movies/comments/1immlpf/watching_the_princess_diaries_as_an_adult)
+ - RSS feed: $source
+ - date published: 2025-02-11T01:10:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I see this movie gets reviewed once a year or so in year so let me do the honors this time around. I&#39;m watching for the first time in a really long time and it&#39;s breaking my heart! This 15 year old was used and abused by everybody around her.</p> <p>Mom and Dad: Keep her father&#39;s identity from her and not even share custody, just abandon the kid.</p> <p>Queen: Not having any relationship with the girl until you want her to...RUN A COUNTRY? Then scold her for acting like a 15 year old under pressure.</p> <p>Lily: With friends like this who needs an enemy? Jealous, judgmental, and just mean! </p> <p>Michael: Only wanted to hang out after she got her makeover then acted upset when he saw her out with another guy like she owed him her allegiance. He didn&#39;t even want to call their hangout a date.</p> <p>Josh: How do they learn to be THAT awful that young? That kiss?!? Disgusting.</p> <p>Lana and posse: Yuck. I can&#39;t stand mean girls. W
+
+## Ke Huy Quan breaks down his 7 favorite action scenes, from 'Indiana Jones' to 'X-Men'
+ - [https://www.reddit.com/r/movies/comments/1immhbp/ke_huy_quan_breaks_down_his_7_favorite_action](https://www.reddit.com/r/movies/comments/1immhbp/ke_huy_quan_breaks_down_his_7_favorite_action)
+ - RSS feed: $source
+ - date published: 2025-02-11T01:04:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1immhbp/ke_huy_quan_breaks_down_his_7_favorite_action/"> <img src="https://external-preview.redd.it/Z9fGupRnW35xIl_6Xq_HPjEbstKLlIj5CYVzufg50k8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ef4c18c3b5b2f427c19f2524325411e002fdbce9" alt="Ke Huy Quan breaks down his 7 favorite action scenes, from 'Indiana Jones' to 'X-Men'" title="Ke Huy Quan breaks down his 7 favorite action scenes, from 'Indiana Jones' to 'X-Men'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WaterMargin108"> /u/WaterMargin108 </a> <br/> <span><a href="https://www.youtube.com/watch?v=jgsV_F0Sg20">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1immhbp/ke_huy_quan_breaks_down_his_7_favorite_action/">[comments]</a></span> </td></tr></table>
+
+## Peter Navy Tuiasosopo Dies: Honda in ‘Street Fighter' & ‘Necessary Roughness' Actor Was 61
+ - [https://www.reddit.com/r/movies/comments/1imlcvm/peter_navy_tuiasosopo_dies_honda_in_street](https://www.reddit.com/r/movies/comments/1imlcvm/peter_navy_tuiasosopo_dies_honda_in_street)
+ - RSS feed: $source
+ - date published: 2025-02-11T00:10:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1imlcvm/peter_navy_tuiasosopo_dies_honda_in_street/"> <img src="https://external-preview.redd.it/cqVohzpwfgf7FxvrfverViRgtiIcvwjL_oT5DkbImvM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=77d0d97628619b358412758febe69c35f73e355d" alt="Peter Navy Tuiasosopo Dies: Honda in ‘Street Fighter' &amp; ‘Necessary Roughness' Actor Was 61" title="Peter Navy Tuiasosopo Dies: Honda in ‘Street Fighter' &amp; ‘Necessary Roughness' Actor Was 61" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://deadline.com/2025/02/peter-navy-tuiasosopo-dead-actor-1236284912/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1imlcvm/peter_navy_tuiasosopo_dies_honda_in_street/">[comments]</a></span> </td></tr></table>
+
+## Radio Silence ('Ready or Not', 'Scream VI', 'Abigail') & Paul Giamatti Teaming Up for Biopic About Paranormal DJ, Art Bell
+ - [https://www.reddit.com/r/movies/comments/1imla52/radio_silence_ready_or_not_scream_vi_abigail_paul](https://www.reddit.com/r/movies/comments/1imla52/radio_silence_ready_or_not_scream_vi_abigail_paul)
+ - RSS feed: $source
+ - date published: 2025-02-11T00:06:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1imla52/radio_silence_ready_or_not_scream_vi_abigail_paul/"> <img src="https://external-preview.redd.it/bXAMDghneBU00b3rcG1b4DCJFbndvLBjegSw0QxR-G0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ab149df35452fe1afa0308915aa76a23602d963c" alt="Radio Silence ('Ready or Not', 'Scream VI', 'Abigail') &amp; Paul Giamatti Teaming Up for Biopic About Paranormal DJ, Art Bell" title="Radio Silence ('Ready or Not', 'Scream VI', 'Abigail') &amp; Paul Giamatti Teaming Up for Biopic About Paranormal DJ, Art Bell" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SanderSo47"> /u/SanderSo47 </a> <br/> <span><a href="https://deadline.com/2025/02/radio-silence-paul-giamatti-art-bell-biopic-1236284844/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1imla52/radio_silence_ready_or_not_scream_vi_abigail_paul/">[comments]</a></span> </td></tr></table>
+

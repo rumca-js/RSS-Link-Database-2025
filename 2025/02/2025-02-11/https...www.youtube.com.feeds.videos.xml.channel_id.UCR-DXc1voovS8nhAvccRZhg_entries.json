@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-11T15:00:53+00:00",
+        "description": "Two new NASes go all-in on AMD. But in totally different directions.\n\nThe 45Drives HL4 and ASUSTOR Lockerstor 6 Gen 3 were both provided for this video, though neither company paid any money or had any control over what I say about them.\n\nMore information and other videos I mentioned in this video (as an Amazon Associate I earn for qualifying purchases):\n\n  - 45Drives / 45Homelab HL4: https://store.45homelab.com/configure/hl4\n  - ASUSTOR Lockerstor 6 Gen 3: https://amzn.to/4huZNAn\n  - Kioxia XG8 NVMe SSDs: https://amzn.to/42RpI0K\n  - Seagate EXOS 20TB HDDs: https://amzn.to/40SifvV\n  - RaidOwl's video on the Lockerstor and ADM: https://www.youtube.com/watch?v=VgmDEd_Ny-4\n  - Hardware Haven's video on TrueNAS on the Lockerstor: https://www.youtube.com/watch?v=OTWiQs4TLjs\n  - CraftComputing's video on the 45Homelab HL8: https://www.youtube.com/watch?v=IitwrXJuKzw\n  - Lawrence System's video on 45Drive's Houston UI: https://www.youtube.com/watch?v=07uTKOB1z7E\n\nSupport me on Patreon: http",
+        "id": 2090801,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=etayojgChDM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/etayojgChDM/hqdefault.jpg",
+        "title": "AMD NASes give us everything we ever wanted",
+        "vote": 0
+    }
+]

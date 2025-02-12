@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-11T22:19:27+00:00",
+        "description": "<p>\n\t<img alt=\"kashri-adl.png\" src=\"https://isocpp.org/files/img/kashri-adl.png\" style=\"width: 250px; margin: 10px; float: right; height: 250px;\" />Back in the day, being a witch was considered a grave crime. Today, we&rsquo;re diving into one of C++&rsquo;s lesser-known spells: ADL (Argument-Dependent Lookup).&nbsp;</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://cppsenioreas.wordpress.com/2024/12/20/adl-avoid-debugging-later/\">ADL &ndash; Avoid Debugging Later</a></h3>\n\t<p>\n\t\tby Coral Kashri</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\tBut before we explore this arcane magic, you must heed a warning&mdash;black magic comes with consequences. ADL is particularly treacherous, often leading to frustrating and hard-to-debug issues. Whenever possible, it&rsquo;s wise to avoid casting this spell unless absolutely necessary.</blockquote>\n<blockquote>\n\t<p>\n\t\t<strong>Ingredients</strong></p>\n\t<p>\n\t\tEvery spell needs ingredients, this time the only ingredients you need are a C++ comp",
+        "id": 2093954,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/02/adl-avoid-debugging-later-coral-kashri",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "ADL \u2013 Avoid Debugging Later -- Coral Kashri",
+        "vote": 0
+    }
+]

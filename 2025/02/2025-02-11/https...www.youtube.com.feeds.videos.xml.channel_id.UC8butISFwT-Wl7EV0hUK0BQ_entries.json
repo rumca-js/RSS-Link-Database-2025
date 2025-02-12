@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-11T16:34:01+00:00",
+        "description": "Create an accessible, interactive memory game using React. This course takes you through building a polished project while exploring how to fetch data, manage state, and implement best practices for inclusivity and functionality.\n\n\u270f\ufe0f Study this course interactively on Scrimba: \nhttps://scrimba.com/memory-game-in-react-c0a3odsk39?utm_source=youtube&utm_medium=video&utm_campaign=fcc-memory-game-launch \n\nCode is available on the Scrimba course page for each lesson.\n\nDiscover how to build a fully interactive memory game in React, designed to enhance your development skills and with a focus on accessibility.\nThis course guides you through each step, from fetching and managing API data to designing reusable components and implementing user interactions.\nYou\u2019ll work on challenges such as randomizing game elements, detecting matches, and handling errors. Along the way, you'll gain practical experience in solving common development problems.\nAccessibility is a key focus of the project, with d",
+        "id": 2091075,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=MzVbgZgGON4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MzVbgZgGON4/hqdefault.jpg",
+        "title": "Build a Memory Game in React Tutorial",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-11T18:00:44+00:00",
+        "description": "Click this link https://sponsr.is/bootdev_scishow and use my code SCISHOW to get 25% off your first payment for boot.dev.\n\nOne of game theory's most famous quandaries is the Tragedy of the Commons. But, through her years of research, Nobel Prize winner, Elinor Ostrom, showed us that we're not doomed to tragedy after all.\n\nHosted by: Stefan Chin (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: David Johnston, Martin Osorio, Cye Stoner, Kaitlyn O'Callaghan, Jp Lynch, kickinwasabi, Bethany Matthews, Chris Curry, Blood Doctor Kelly, Wesus, J.V. Rosenbalm, Marc Bendig, Alan Wong, Toyas Dhake, Spilmann Reed, Gizmo, Garrett Galloway, DrakoEsper , Friso, Lyndsay B",
+        "id": 2092245,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=s4Z1SNhYs18",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/s4Z1SNhYs18/hqdefault.jpg",
+        "title": "How To Solve Game Theory's Unsolvable Problem",
+        "vote": 0
+    }
+]

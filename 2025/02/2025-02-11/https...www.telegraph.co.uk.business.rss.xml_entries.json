@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-11T07:11:44+00:00",
+        "description": "<![CDATA[<p>Donald Trump warned that hits metal tariffs \u201cmay go higher\u201d as the world reeled from his <a class=\"ck-custom-link\" href=\"https://www.telegraph.co.uk/business/2025/02/10/donald-trump-steel-aluminium-tariffs-market-reaction-live/\">imposition of a 25pc tariff on steel and aluminium imports</a> to the US.</p>]]>",
+        "id": 2087481,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2025/02/11/trump-tariffs-steel-aluminium-ftse-100-markets-latest-uk-us",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trump warns tariffs \u2018may go higher\u2019 as world reels from steel levy",
+        "vote": 0
+    }
+]

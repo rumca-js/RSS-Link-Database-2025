@@ -1,0 +1,107 @@
+# Source:Docker: An open source project to pack, ship and run any application as a lightweight container, URL:https://www.reddit.com/r/docker/.rss, language:en
+
+## PHP8.3-apache not working from dockerfile
+ - [https://www.reddit.com/r/docker/comments/1incgl3/php83apache_not_working_from_dockerfile](https://www.reddit.com/r/docker/comments/1incgl3/php83apache_not_working_from_dockerfile)
+ - RSS feed: $source
+ - date published: 2025-02-11T23:14:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am trying to create a container with the php:8.3-apache image. When I create the container using a composer file, it works perfectly:</p> <p><strong>docker-compose.yml</strong><br/> <code>version: &#39;3.8&#39;</code><br/> <code>services:</code><br/> <code>app</code><br/> <code>container_name: php_app</code><br/> <code>image: php:8.3-apache</code><br/> <code>restart: &quot;no&quot;</code><br/> <code>ports:</code><br/> <code>- &quot;8080:80&quot;.</code><br/> <code>volumes:</code><br/> <code>- ./app:/var/www/html</code></p> <p>but if try to use a simple dockerfile, then the container is created, apache serves files normally, but when I request a PHP file all I get is an empty page:</p> <p><strong>docker-compose.yml</strong><br/> <code>version: &#39;3.8&#39;</code><br/> <code>services:</code><br/> <code>app</code><br/> <code>container_name: php_app</code><br/> <code>build:</code><br/> <code>context: ./</code><br/> <code>dockerfile: ./php8.Dockerfile<
+
+## When you finally run docker-compose up and everything works... first try
+ - [https://www.reddit.com/r/docker/comments/1ina30w/when_you_finally_run_dockercompose_up_and](https://www.reddit.com/r/docker/comments/1ina30w/when_you_finally_run_dockercompose_up_and)
+ - RSS feed: $source
+ - date published: 2025-02-11T21:33:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ah yes, the rarest of all Docker phenomena: success. After 42 minutes of googling, 9 StackOverflow tabs, and 13 “docker ps” commands later, you hit docker-compose up and - bam - everything just works. You stand there, dumbfounded, like you’ve just witnessed a unicorn. Docker gods, is this my reward for my suffering?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/proclaigrad"> /u/proclaigrad </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1ina30w/when_you_finally_run_dockercompose_up_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1ina30w/when_you_finally_run_dockercompose_up_and/">[comments]</a></span>
+
+## dotnet 8 angular application doesn't work when I click on port
+ - [https://www.reddit.com/r/docker/comments/1in4za7/dotnet_8_angular_application_doesnt_work_when_i](https://www.reddit.com/r/docker/comments/1in4za7/dotnet_8_angular_application_doesnt_work_when_i)
+ - RSS feed: $source
+ - date published: 2025-02-11T18:06:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi,<br/> I&#39;m relatively new docker so I&#39;m pretty sure I&#39;m not doing something right. I have a Angular application, with .Net as the back end api. It works fine when I run it using Visual Studio, however it fails when I run it in docker.</p> <p>Here is my docker file: </p> <pre><code># Stage 1: Build the Angular application FROM node:12.22.12 AS build_node WORKDIR /frontend copy . . RUN npm cache clean --force RUN rm -rf node_modules RUN rm package-lock.json RUN npm install EXPOSE 4200 CMD [&quot;npm&quot;, &quot;start&quot;] # This stage is used when running from VS in fast mode (Default for Debug configuration) FROM mcr.microsoft.com/dotnet/aspnet:8.0-noble AS base USER $APP_UID WORKDIR /app # This stage is used to build the service project FROM mcr.microsoft.com/dotnet/sdk:8.0-noble AS build ARG BUILD_CONFIGURATION=development WORKDIR /src COPY [&quot;ProjectName.csproj&quot;, &quot;.&quot;] RUN dotnet restore &quot;./ProjectName.csproj
+
+## How to access files of container in Dockge?
+ - [https://www.reddit.com/r/docker/comments/1in41wo/how_to_access_files_of_container_in_dockge](https://www.reddit.com/r/docker/comments/1in41wo/how_to_access_files_of_container_in_dockge)
+ - RSS feed: $source
+ - date published: 2025-02-11T17:28:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey,</p> <p>I have a truenas with dockge installed. In that App I have a container with an Ark survival evolved server</p> <p>I wanted to configure the server and use a map and player data, I already have from a different server.</p> <p>But I dont know how to change the world save files. </p> <p>Can somebody help me out? :)</p> <p>Thats my Docker compsoe file:</p> <p><code>version: &quot;3&quot;</code></p> <p><code>services:</code></p> <p><code>server:</code></p> <p><code>restart: always</code></p> <p><code>container_name: ark_server</code></p> <p><code>image: hermsi/ark-server:latest</code></p> <p><code>volumes:</code></p> <p><code>- ${HOME}/ark-server:/app</code></p> <p><code>- ${HOME}/ark-server-backups:/home/steam/ARK-Backups</code></p> <p><code>environment:</code></p> <p><code>- SESSION_NAME=...</code></p> <p><code>- SERVER_MAP=fjordur</code></p> <p><code>- SERVER_PASSWORD=...</code></p> <p><code>- ADMIN_PASSWORD=...</code></p> <p><code>- MAX_PL
+
+## Web Socket connection is failing between Flask and React, Docker Containers
+ - [https://www.reddit.com/r/docker/comments/1in2g5f/web_socket_connection_is_failing_between_flask](https://www.reddit.com/r/docker/comments/1in2g5f/web_socket_connection_is_failing_between_flask)
+ - RSS feed: $source
+ - date published: 2025-02-11T16:22:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am trying to setup a dockerized development for ReactJS and Flask</p> <ol> <li>My all other api are working correctly but the socket connection is failing.</li> <li>When i sh into react container, and try to form socket connection with flask, it&#39;s working, but when using react app on localhost, the socket connection is failing.</li> <li>CORs is allowed on the flask server</li> <li>Accessing the flask server using docker service name</li> <li>Everything (API + web sockets) seems to be working fine when running outside docker containers.</li> <li>Tried to create a docker-network in the compose file as well</li> <li>Tried disabling the Firewall on my MacBook as well</li> </ol> <p>stackoverflow link: <a href="https://stackoverflow.com/questions/79430474/web-socket-connection-is-failing-between-flask-and-react-docker-containers">https://stackoverflow.com/questions/79430474/web-socket-connection-is-failing-between-flask-and-react-docker-containers</a
+
+## Undo the TCP Socket access
+ - [https://www.reddit.com/r/docker/comments/1in1yug/undo_the_tcp_socket_access](https://www.reddit.com/r/docker/comments/1in1yug/undo_the_tcp_socket_access)
+ - RSS feed: $source
+ - date published: 2025-02-11T16:02:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I did a modification on my Docker Socket to allow TCP connection to it. I&#39;d like to remove it without breaking my Docker as I did that once.</p> <p>Here&#39;s the procedure I did :</p> <p>Create <code>daemon.json</code> file in <code>/etc/docker</code> with that in it :</p> <pre><code>{&quot;hosts&quot;: [&quot;tcp://0.0.0.0:2375&quot;, &quot;unix:///var/run/docker.sock&quot;]} </code></pre> <p>Created <code>/etc/systemd/system/docker.service.d/override.conf</code> with that in it :</p> <pre><code>[Service] ExecStart= ExecStart=/usr/bin/dockerd </code></pre> <p>Then I applied it :</p> <pre><code>systemctl daemon-reloadsystemctl daemon-reload systemctl restart docker.service </code></pre> <p>I tried removing the 2 files but it broke my socket and I couldn&#39;t connect with Portainer on it or launch Containers</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Keensworth"> /u/Keensworth </a> <br/> <span><
+
+## How to use harbor as default image registry instead of docker.io
+ - [https://www.reddit.com/r/docker/comments/1in1e1i/how_to_use_harbor_as_default_image_registry](https://www.reddit.com/r/docker/comments/1in1e1i/how_to_use_harbor_as_default_image_registry)
+ - RSS feed: $source
+ - date published: 2025-02-11T15:38:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone,</p> <p><strong>MY ENVIRONMENT</strong></p> <ul> <li>Docker version 27.5.1, build 9f9e405</li> <li>Ubuntu 24.04.2 LTS</li> </ul> <p><strong>CONTEXT</strong></p> <p>The company where I work has a self-hosted harbor, it was created because we exceeded the pull limits on dockerhub (all developers and CI/CD pipelines access the internet through the company proxy, so externally to dockerhub they all have the same IP)</p> <p>I can download an image using the command below</p> <p><code>docker pull</code> <a href="http://harbor.mycompany.com/dockerhub-proxy/alpine:latest"><code>harbor.mycompany.com/dockerhub-proxy/alpine:latest</code></a></p> <p><strong>*dockerhub-proxy</strong>: It is the name of the project inside the harbor</p> <p><strong>QUESTION</strong></p> <p>The question is the title of this post.</p> <p>Is it possible to use Harbor as the default repository, so that when I use the command <code>docker pull alpine:latest</code> it sear
+
+## Navigation in dockerized Chrome/Firefox
+ - [https://www.reddit.com/r/docker/comments/1in0j6u/navigation_in_dockerized_chromefirefox](https://www.reddit.com/r/docker/comments/1in0j6u/navigation_in_dockerized_chromefirefox)
+ - RSS feed: $source
+ - date published: 2025-02-11T15:01:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m able to run the Linuxservers/Kasm Chromium and Firefox without issue. However, when I open new windows or a private window I am not able to navigate to those other windows. I&#39;ve tried all kinds of keyboard combos and other things without success. Anyone figured this out?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DurianBurp"> /u/DurianBurp </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1in0j6u/navigation_in_dockerized_chromefirefox/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1in0j6u/navigation_in_dockerized_chromefirefox/">[comments]</a></span>
+
+## Noob setup question
+ - [https://www.reddit.com/r/docker/comments/1imwbi3/noob_setup_question](https://www.reddit.com/r/docker/comments/1imwbi3/noob_setup_question)
+ - RSS feed: $source
+ - date published: 2025-02-11T11:18:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi folks,</p> <p>I&#39;m just starting to learn Docker and improve my knowledge of deployment and worksflows. I&#39;m just confused in general, even after reading multiply tutorial and the docs, I just can&#39;t get my head around where Docker fits in. I deploy projects successfully to Railway including DRF + React stuff, so, I&#39;m not totally inept. I just can&#39;t get my head around the flow of things.</p> <p>Currently I do.....Django project inside venv locally, push to repo. Railway get&#39;s pointed at repo...deploy. </p> <p>Now when i add Docker, I have Django in venv, Django + other services in Docker. </p> <p>So when i install packages inside the venv environment, i also need to install them inside my Docker environment? </p> <p>I just can&#39;t get my head around how I structure my workflow. Please HELP! :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rob8624"> /u/rob8624 </a> <br/> <span><a href=
+
+## Can a container connect to another container using a local DNS redirect and NOT belong to the same network?
+ - [https://www.reddit.com/r/docker/comments/1imw8n4/can_a_container_connect_to_another_container](https://www.reddit.com/r/docker/comments/1imw8n4/can_a_container_connect_to_another_container)
+ - RSS feed: $source
+ - date published: 2025-02-11T11:13:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Noob question here.</p> <p>Can a container connect to another container using a local DNS redirect and NOT belong to the same network?</p> <p>Example:</p> <p>* Container A and Container B are deployed in the same host. They belong to separate networks. </p> <p>* A reverse proxy is placed in front of them.</p> <p>* Pihole (which is deployed in another host) is updated with the corresponding DNS and CNAME records.</p> <p>* Container B needs to connect to container A.</p> <p>* Container B connects with Pihole and resolves &quot;serviceA.localdomain.com&quot; to 192.168.0.135. </p> <p>* Container B connects to <a href="http://192.168.0.135">192.168.0.135</a></p> <p>Setup:<br/> <a href="https://imgur.com/a/E2uKcLI">https://imgur.com/a/E2uKcLI</a></p> <p>Follow-up question:</p> <p>If possible, is there any special setting I should setup? (apart from making sure that those containers are using the local DNS) </p> <p>P.S: I am aware that I can place both con
+
+## 'Error establishing a database connection' with WordPress and MySQL
+ - [https://www.reddit.com/r/docker/comments/1imtpv9/error_establishing_a_database_connection_with](https://www.reddit.com/r/docker/comments/1imtpv9/error_establishing_a_database_connection_with)
+ - RSS feed: $source
+ - date published: 2025-02-11T08:03:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know this has been asked before, and I promise I&#39;ve spent time reading other solutions before coming here to ask for help - but none of the solutions that I&#39;ve found have worked for me. I&#39;m new to docker-compose and am hoping someone can point out an obvious problem I&#39;m missing with my compose.yml file.</p> <p>Here it is:</p> <pre><code>services: mysql: container_name: mysql_arpa ports: - 3306:3306 volumes: - /localapps/docker/mysql:/var/lib/mysql environment: - MYSQL_ROOT_PASSWORD=redhat - MYSQL_DATABASE=wp-database - MYSQL_USER=wordpress - MYSQL_PASSWORD=redhat image: mysql:latest restart: always wordpress: depends_on: - mysql container_name: wp_arpa ports: - 1234:80 volumes: - /localapps/docker/wordpress:/var/www/html environment: - WORDPRESS_DB_HOST=mysql_arpa:3306 - WORDPRESS_DB_NAME=wp-database - WORDPRESS_DB_USER=wordpress - WORDPRESS_DB_PASSWORD=redhat image: wordpress:latest restart: always </code></pre> <p>Things I&#39;ve 
+
+## What happens to containers?
+ - [https://www.reddit.com/r/docker/comments/1imt71j/what_happens_to_containers](https://www.reddit.com/r/docker/comments/1imt71j/what_happens_to_containers)
+ - RSS feed: $source
+ - date published: 2025-02-11T07:25:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>They get containerd.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ZubriQ"> /u/ZubriQ </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1imt71j/what_happens_to_containers/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1imt71j/what_happens_to_containers/">[comments]</a></span>
+
+## File permission error with docker compose mount
+ - [https://www.reddit.com/r/docker/comments/1imsgrg/file_permission_error_with_docker_compose_mount](https://www.reddit.com/r/docker/comments/1imsgrg/file_permission_error_with_docker_compose_mount)
+ - RSS feed: $source
+ - date published: 2025-02-11T06:35:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have an SMB share mount in which I can create folders on:</p> <p><code>terminal $ mkdir /mnt/smb_truenas/test $ ls /mnt/smb_truenas/test/ $ ls /mnt/smb_truenas/ Downloads Movies test &#39;TV Shows&#39; $ ls -ld /mnt/smb_truenas/ drwxrwxrwx 2 root root 0 Feb 11 17:30 /mnt/smb_truenas/ </code></p> <p>Which is mounted with <code>fstab</code></p> <p><code> //192.168.0.232/Media /mnt/smb_truenas cifs credentials=/etc/smb_credentials,iocharset=utf8,vers=3.0,uid=0,gid=0,dir_mode=0777,file_mode=0777,noperm 0 0 </code></p> <p>And I have a docker compose setup with this config. Note that <code>read_only</code> is false by default for this image</p> <p><code>yaml services: qbittorrent-nox: container_name: qbittorrent-nox environment: - QBT_LEGAL_NOTICE=${QBT_LEGAL_NOTICE} - QBT_VERSION=${QBT_VERSION} - QBT_WEBUI_PORT=${QBT_WEBUI_PORT} image: qbittorrentofficial/qbittorrent-nox:${QBT_VERSION} read_only: true stop_grace_period: 30m tmpfs: - /tmp tty: true volum
+
+## nslookup fails on fresh install
+ - [https://www.reddit.com/r/docker/comments/1imofec/nslookup_fails_on_fresh_install](https://www.reddit.com/r/docker/comments/1imofec/nslookup_fails_on_fresh_install)
+ - RSS feed: $source
+ - date published: 2025-02-11T02:47:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, new to docker here.<br/> I jsut installed the latest ubuntu release and installed docker.<br/> I runned <code>docker run --rm alpine nslookup google.com</code></p> <p>``` Unable to find image &#39;alpine:latest&#39; locally</p> <p>latest: Pulling from library/alpine</p> <p>1f3e46996e29: Pull complete </p> <p>Digest: sha256:56fa17d2a7e7f168a043a2712e63aed1f8543aeafdcee47c58dcffe38ed51099</p> <p>Status: Downloaded newer image for alpine:latest</p> <p>;; connection timed out; no servers could be reached</p> <p>```</p> <p>And it fails reaching google.com</p> <p>I haven&#39;t changed any dns config. my resolv.conf is as follows: <code> nameserver 127.0.0.53 options edns0 trust-ad search home </code></p> <p>I found some posts about adding dns servers on the <code>daemon.json</code> file but that won&#39;t solve the issue too.</p> <p>It even fails to download packages at the build stage of a go server when running <code>docker compose up -d</code></p> <
+
+## Is this possible?
+ - [https://www.reddit.com/r/docker/comments/1imo5wj/is_this_possible](https://www.reddit.com/r/docker/comments/1imo5wj/is_this_possible)
+ - RSS feed: $source
+ - date published: 2025-02-11T02:34:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am new to the world of Docker and I have a question about an overall system design. Can you all let me know if this is possible? </p> <p>I have multiple apps I want to run on a single machine. But there are a couple that need https access at the same time. Can docker based applications be built so I can have 2 apps, app1 and app2. One an API and one an unrelated website. But both be served from a single VM? </p> <p>I hope this makes sense. Thanks in advance! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ItsYaBoyFish"> /u/ItsYaBoyFish </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1imo5wj/is_this_possible/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1imo5wj/is_this_possible/">[comments]</a></span>
+

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-11T16:51:29+00:00",
+        "description": "<p>Europe has no intention of playing catch-up in the global AI race, European Commission President Ursula von der Leyen declared at the AI Action Summit in Paris. While the US and China are often seen as frontrunners, von der Leyen emphasised that the AI race &#8220;is far from over&#8221; and that Europe has distinct strengths [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/ursula-von-der-leyen-ai-race-is-far-from-over/\">Ursula von der Leyen: AI race \u2018is far from over\u2019</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 2091459,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/ursula-von-der-leyen-ai-race-is-far-from-over",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ursula von der Leyen: AI race \u2018is far from over\u2019",
+        "vote": 0
+    }
+]
