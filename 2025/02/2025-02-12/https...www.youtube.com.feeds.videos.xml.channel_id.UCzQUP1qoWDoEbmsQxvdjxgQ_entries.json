@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PowerfulJRE",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-12T18:00:33+00:00",
+        "description": "Mike Benz is a former official with the U.S. Department of State and current Executive Director of the Foundation For Freedom Online, is a free speech watchdog organization dedicated to restoring the promise of a free and open Internet.\nhttp://www.foundationforfreedomonline.com\n\nFor a FREE trial and 10% off your first Squarespace website or domain, visit www.squarespace.com/ROGAN\n\nThis episode is brought to you by BetterHelp.\nGet working on a better you with therapy.\nVisit http://BetterHelp.com/JRE today to get 10% off your first month.",
+        "id": 2099781,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=XPPc8OVNngg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 262,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XPPc8OVNngg/hqdefault.jpg",
+        "title": "Joe Rogan Experience #2272 - Mike Benz",
+        "vote": 0
+    }
+]

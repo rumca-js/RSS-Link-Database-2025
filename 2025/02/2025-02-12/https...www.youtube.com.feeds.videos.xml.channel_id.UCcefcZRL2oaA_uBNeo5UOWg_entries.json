@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-12T15:00:31+00:00",
+        "description": "Many startups fail because they run out of money. So how should you think about how to spend the money you raise? In this episode of Office Hours, YC General Partners Brad Flora, Pete Koomen, Nicolas Dessaigne, and Gustaf Alstr\u00f6mer discuss how to spend responsibly at each stage of a startup\u2014 including advice on when to hire, whether to invest in marketing and what spending mistakes to avoid.\n\nApply to Y Combinator: https://ycombinator.com/apply\n\nChapters (Powered by https://bit.ly/chapterme-yc) - \n00:00 - Intro\n01:40 - How to think about money\n02:42 - Funding\n03:00 - Hiring\n07:00 - Spending\n10:45 - Speed\n13:00 - Mistakes\n16:04 - Waste of money\n19:34 - Missed opportunity\n23:44 - Runway\n26:38 - Being honest\n28:40 - Outro",
+        "id": 2099085,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=IRROi-Q1V44",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IRROi-Q1V44/hqdefault.jpg",
+        "title": "The Right (And Wrong) Way To Spend Money At Your Startup",
+        "vote": 0
+    }
+]

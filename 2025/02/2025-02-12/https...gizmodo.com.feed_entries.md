@@ -1,0 +1,275 @@
+# Source:Gizmodo, URL:https://gizmodo.com/feed, language:en
+
+## Celebrate NordVPN’s Anniversary with 72% Off + 1 Free Year of VPN Service!
+ - [https://gizmodo.com/celebrate-nordvpns-anniversary-with-72-off-1-free-year-of-vpn-service-2000560823](https://gizmodo.com/celebrate-nordvpns-anniversary-with-72-off-1-free-year-of-vpn-service-2000560823)
+ - RSS feed: $source
+ - date published: 2025-02-12T23:15:50+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/NordVPN-Birthday-Good-Deal.jpeg" class="attachment-full size-full wp-post-image" alt="Nordvpn Birthday Good Deal" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/NordVPN-Birthday-Good-Deal.jpeg 1500w, https://gizmodo.com/app/uploads/2025/02/NordVPN-Birthday-Good-Deal-300x200.jpeg 300w, https://gizmodo.com/app/uploads/2025/02/NordVPN-Birthday-Good-Deal-1024x683.jpeg 1024w, https://gizmodo.com/app/uploads/2025/02/NordVPN-Birthday-Good-Deal-768x512.jpeg 768w, https://gizmodo.com/app/uploads/2025/02/NordVPN-Birthday-Good-Deal-336x224.jpeg 336w, https://gizmodo.com/app/uploads/2025/02/NordVPN-Birthday-Good-Deal-1400x932.jpeg 1400w, https://gizmodo.com/app/uploads/2025/02/NordVPN-Birthday-Good-Deal-680x453.jpeg 680w, https://gizmodo.com/app/uploads/2025/02/NordVPN-Birthday-Good-Deal-896x597.jpeg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Getting a high-quality VPN
+
+## A Field Guide to Marvel’s Multicolored Hulks
+ - [https://gizmodo.com/every-hulk-color-in-marvel-comics-red-hulk-brave-new-world-2000562976](https://gizmodo.com/every-hulk-color-in-marvel-comics-red-hulk-brave-new-world-2000562976)
+ - RSS feed: $source
+ - date published: 2025-02-12T23:00:26+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/multicolored-hulks-red-hulk-brave-new-world-marvel.jpg" class="attachment-full size-full wp-post-image" alt="Multicolored Hulks Red Hulk Brave New World Marvel" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/multicolored-hulks-red-hulk-brave-new-world-marvel.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/multicolored-hulks-red-hulk-brave-new-world-marvel-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/multicolored-hulks-red-hulk-brave-new-world-marvel-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/multicolored-hulks-red-hulk-brave-new-world-marvel-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/multicolored-hulks-red-hulk-brave-new-world-marvel-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/multicolored-hulks-red-hulk-brave-new-world-marvel-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/multicolored-hulks-red-hulk-b
+
+## Edits to Vera Rubin’s Biography Downplay the Need for Women in Science Amid Federal DEI Crackdown
+ - [https://gizmodo.com/edits-to-vera-rubins-biography-downplay-the-need-for-women-in-science-amid-federal-dei-crackdown-2000562941](https://gizmodo.com/edits-to-vera-rubins-biography-downplay-the-need-for-women-in-science-amid-federal-dei-crackdown-2000562941)
+ - RSS feed: $source
+ - date published: 2025-02-12T22:20:42+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/vera-rubin.jpg" class="attachment-full size-full wp-post-image" alt="Astronomer Vera Rubin" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/vera-rubin.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/vera-rubin-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/vera-rubin-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/vera-rubin-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/vera-rubin-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/vera-rubin-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/vera-rubin-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/vera-rubin-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>To comply with Trump's executive order about DEI, a federally funded telescope project has altered the biography of its namesake astronomer.
+
+## Trump Gives DOGE Broad Powers as GOP Announces Budget Designed to Screw Millions of Americans
+ - [https://gizmodo.com/trump-gives-doge-broad-powers-as-gop-announces-budget-designed-to-screw-most-americans-2000563069](https://gizmodo.com/trump-gives-doge-broad-powers-as-gop-announces-budget-designed-to-screw-most-americans-2000563069)
+ - RSS feed: $source
+ - date published: 2025-02-12T22:10:11+00:00
+
+<img width="1500" height="989" src="https://gizmodo.com/app/uploads/2024/11/trump-election-night-getty.jpg" class="attachment-full size-full wp-post-image" alt="Donald Trump addresses the crowd during an election night party at the Palm Beach County Convention Center in West Palm Beach, Florida on November 6, 2024." decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/11/trump-election-night-getty.jpg 1500w, https://gizmodo.com/app/uploads/2024/11/trump-election-night-getty-300x198.jpg 300w, https://gizmodo.com/app/uploads/2024/11/trump-election-night-getty-1024x675.jpg 1024w, https://gizmodo.com/app/uploads/2024/11/trump-election-night-getty-768x506.jpg 768w, https://gizmodo.com/app/uploads/2024/11/trump-election-night-getty-680x448.jpg 680w, https://gizmodo.com/app/uploads/2024/11/trump-election-night-getty-896x591.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The new Republican budget would add $3 trillion to the U.S. debt over the next ten ye
+
+## A Taylor Lautner: Werewolf Hunter TV Series Will Pick Up Where Twilight Left Off
+ - [https://gizmodo.com/taylor-lautner-werewolf-tv-show-twilight-meta-2000563112](https://gizmodo.com/taylor-lautner-werewolf-tv-show-twilight-meta-2000563112)
+ - RSS feed: $source
+ - date published: 2025-02-12T21:55:12+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/jacob.jpg" class="attachment-full size-full wp-post-image" alt="Jacob" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/jacob.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/jacob-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/jacob-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/jacob-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/jacob-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/jacob-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/jacob-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/jacob-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>What's the only thing better than a werewolf? A meta-werewolf!
+
+## Eye Doctors Are Finding New Links Between Ozempic and Vision Problems
+ - [https://gizmodo.com/eye-doctors-are-finding-new-links-between-ozempic-and-vision-problems-2000563080](https://gizmodo.com/eye-doctors-are-finding-new-links-between-ozempic-and-vision-problems-2000563080)
+ - RSS feed: $source
+ - date published: 2025-02-12T21:50:47+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/10/Ozempic-pen.jpg" class="attachment-full size-full wp-post-image" alt="Ozempic Pen" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/10/Ozempic-pen.jpg 1500w, https://gizmodo.com/app/uploads/2024/10/Ozempic-pen-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/10/Ozempic-pen-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/10/Ozempic-pen-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/10/Ozempic-pen-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/10/Ozempic-pen-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/10/Ozempic-pen-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/10/Ozempic-pen-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>A new case series links GLP-1 use to three different eye conditions, all of which can lead to blindness.
+
+## FCC Targets Comcast Over DEI Initiatives, Because of Course
+ - [https://gizmodo.com/fcc-targets-comcast-over-dei-initiatives-because-of-course-2000563143](https://gizmodo.com/fcc-targets-comcast-over-dei-initiatives-because-of-course-2000563143)
+ - RSS feed: $source
+ - date published: 2025-02-12T21:35:40+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/11/BrendanCarrr.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/11/BrendanCarrr.jpg 1500w, https://gizmodo.com/app/uploads/2024/11/BrendanCarrr-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/11/BrendanCarrr-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/11/BrendanCarrr-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/11/BrendanCarrr-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/11/BrendanCarrr-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/11/BrendanCarrr-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/11/BrendanCarrr-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Conservatives are in favor of small government, until they're not.
+
+## No Outdoor Space? AeroGarden Lets You Grow Fresh Greens Indoors for Just $60, Lowest Price Ever
+ - [https://gizmodo.com/no-outdoor-space-aerogarden-lets-you-grow-fresh-greens-indoors-for-just-60-lowest-price-ever-2000562600](https://gizmodo.com/no-outdoor-space-aerogarden-lets-you-grow-fresh-greens-indoors-for-just-60-lowest-price-ever-2000562600)
+ - RSS feed: $source
+ - date published: 2025-02-12T21:25:59+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/AeroGardenHarvestElite.jpg" class="attachment-full size-full wp-post-image" alt="Aerogardenharvestelite" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/AeroGardenHarvestElite.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/AeroGardenHarvestElite-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/AeroGardenHarvestElite-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/AeroGardenHarvestElite-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/AeroGardenHarvestElite-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/AeroGardenHarvestElite-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/AeroGardenHarvestElite-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/AeroGardenHarvestElite-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Save 50% on the AeroGarden Harvest Elite indoor garden hydroponic system with LED
+
+## Disney Parks’ Most Infamous Earworm Is Getting Its First Extended Cut
+ - [https://gizmodo.com/disney-parks-most-infamous-earworm-is-getting-its-first-extended-cut-2000563049](https://gizmodo.com/disney-parks-most-infamous-earworm-is-getting-its-first-extended-cut-2000563049)
+ - RSS feed: $source
+ - date published: 2025-02-12T20:47:23+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/small-world-disneyland.jpg" class="attachment-full size-full wp-post-image" alt="Small World Disneyland" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/small-world-disneyland.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/small-world-disneyland-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/small-world-disneyland-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/small-world-disneyland-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/small-world-disneyland-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/small-world-disneyland-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/small-world-disneyland-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/small-world-disneyland-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>In celebration of its 70th anniversary and to honor late composer Richard Sherman
+
+## OpenAI Says It Will Make Its $200 Deep Research Model Available for Free
+ - [https://gizmodo.com/openai-says-it-will-make-its-200-deep-research-model-available-for-free-2000563047](https://gizmodo.com/openai-says-it-will-make-its-200-deep-research-model-available-for-free-2000563047)
+ - RSS feed: $source
+ - date published: 2025-02-12T20:45:50+00:00
+
+<img width="1500" height="999" src="https://gizmodo.com/app/uploads/2024/10/sam-altman-getty.jpg" class="attachment-full size-full wp-post-image" alt="Sam Altman Co-founder and CEO of OpenAI speaks during the Italian Tech Week 2024 at OGR Officine Grandi Riparazioni on September 25, 2024 in Turin, Italy." decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/10/sam-altman-getty.jpg 1500w, https://gizmodo.com/app/uploads/2024/10/sam-altman-getty-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/10/sam-altman-getty-1024x682.jpg 1024w, https://gizmodo.com/app/uploads/2024/10/sam-altman-getty-768x511.jpg 768w, https://gizmodo.com/app/uploads/2024/10/sam-altman-getty-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/10/sam-altman-getty-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/10/sam-altman-getty-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/10/sam-altman-getty-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Deep
+
+## Scarlett Johansson Calls for New AI Laws After Fake Video of Her Goes Viral
+ - [https://gizmodo.com/scarlett-johansson-calls-for-new-ai-laws-after-fake-video-of-her-goes-viral-2000563076](https://gizmodo.com/scarlett-johansson-calls-for-new-ai-laws-after-fake-video-of-her-goes-viral-2000563076)
+ - RSS feed: $source
+ - date published: 2025-02-12T20:15:39+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/JohanssonAI.jpg" class="attachment-full size-full wp-post-image" alt="Johanssonai" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/JohanssonAI.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/JohanssonAI-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/JohanssonAI-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/JohanssonAI-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/JohanssonAI-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/JohanssonAI-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/JohanssonAI-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/JohanssonAI-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Johansson said that AI is a far bigger threat than Kanye West.
+
+## Apple TV+ Is Finally Available to Android Users Who Will Never Touch an iPhone
+ - [https://gizmodo.com/apple-tv-is-finally-coming-to-android-2000563006](https://gizmodo.com/apple-tv-is-finally-coming-to-android-2000563006)
+ - RSS feed: $source
+ - date published: 2025-02-12T20:00:05+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Apple-TV-app-available-on-Android.jpg" class="attachment-full size-full wp-post-image" alt="Apple Tv App Available On Android" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Apple-TV-app-available-on-Android.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Apple-TV-app-available-on-Android-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Apple-TV-app-available-on-Android-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Apple-TV-app-available-on-Android-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Apple-TV-app-available-on-Android-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Apple-TV-app-available-on-Android-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Apple-TV-app-available-on-Android-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Apple-TV-app-available-on-Android-896x597.jpg 896w" sizes="(max-width: 15
+
+## Dungeons & Dragons‘ New Rulebook Era Is Saying Goodbye to a Cute Tradition
+ - [https://gizmodo.com/dungeons-and-dragons-2024-rulebooks-disclaimer-easter-eggs-wizards-of-the-coast-2000563042](https://gizmodo.com/dungeons-and-dragons-2024-rulebooks-disclaimer-easter-eggs-wizards-of-the-coast-2000563042)
+ - RSS feed: $source
+ - date published: 2025-02-12T19:35:53+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/monster.jpg" class="attachment-full size-full wp-post-image" alt="Monster" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/monster.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/monster-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/monster-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/monster-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/monster-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/monster-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/monster-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/monster-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>If you've grown fond of looking for this one specific type of Easter egg over the years, you're about to be disappointed.
+
+## Ford CEO Isn’t Exactly Thrilled by Trump’s Tariff Strategy
+ - [https://gizmodo.com/ford-ceo-isnt-exactly-thrilled-by-trumps-tariff-strategy-2000562948](https://gizmodo.com/ford-ceo-isnt-exactly-thrilled-by-trumps-tariff-strategy-2000562948)
+ - RSS feed: $source
+ - date published: 2025-02-12T19:10:59+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/A-Ford-F-150-on-a-sales-lot-in-Miami.jpg" class="attachment-full size-full wp-post-image" alt="A Ford F-150 on a sales lot in Miami" decoding="async" srcset="https://gizmodo.com/app/uploads/2024/09/A-Ford-F-150-on-a-sales-lot-in-Miami.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/A-Ford-F-150-on-a-sales-lot-in-Miami-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/A-Ford-F-150-on-a-sales-lot-in-Miami-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/A-Ford-F-150-on-a-sales-lot-in-Miami-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/A-Ford-F-150-on-a-sales-lot-in-Miami-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/A-Ford-F-150-on-a-sales-lot-in-Miami-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/A-Ford-F-150-on-a-sales-lot-in-Miami-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/A-Ford-F-150-on-a-sales-lot-in-Miami-896x597.jpg 896w" sizes=
+
+## Trump Says Putin Agreed to Negotiations for Ending Ukraine War as U.S. Releases Cybercriminal
+ - [https://gizmodo.com/trump-says-putin-agreed-to-negotiations-for-ending-ukraine-war-as-us-releases-cybercriminal-2000562966](https://gizmodo.com/trump-says-putin-agreed-to-negotiations-for-ending-ukraine-war-as-us-releases-cybercriminal-2000562966)
+ - RSS feed: $source
+ - date published: 2025-02-12T18:55:54+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/donald-trump-feb-11-2025-white-house.jpg" class="attachment-full size-full wp-post-image" alt="Donald Trump in the Cabinet Room of the White House on Feb. 11, 2025." decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/donald-trump-feb-11-2025-white-house.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/donald-trump-feb-11-2025-white-house-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/donald-trump-feb-11-2025-white-house-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/donald-trump-feb-11-2025-white-house-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/donald-trump-feb-11-2025-white-house-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/donald-trump-feb-11-2025-white-house-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/donald-trump-feb-11-2025-white-house-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/donald-trump-
+
+## How to Train Your Dragon‘s Director Answers Some of Your Biggest Questions
+ - [https://gizmodo.com/how-to-train-your-dragon-director-questions-2000560010](https://gizmodo.com/how-to-train-your-dragon-director-questions-2000560010)
+ - RSS feed: $source
+ - date published: 2025-02-12T18:45:47+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Train-Your-Dragon-interview-1.jpg" class="attachment-full size-full wp-post-image" alt="Train Your Dragon Interview 1" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Train-Your-Dragon-interview-1.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Train-Your-Dragon-interview-1-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Train-Your-Dragon-interview-1-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Train-Your-Dragon-interview-1-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Train-Your-Dragon-interview-1-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Train-Your-Dragon-interview-1-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Train-Your-Dragon-interview-1-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Train-Your-Dragon-interview-1-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Learn about
+
+## Gigantic Winter Storm Set to Sweep Across 14 U.S. States
+ - [https://gizmodo.com/gigantic-winter-storm-set-to-sweep-across-14-u-s-states-2000562885](https://gizmodo.com/gigantic-winter-storm-set-to-sweep-across-14-u-s-states-2000562885)
+ - RSS feed: $source
+ - date published: 2025-02-12T18:40:05+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/chicago-cars-winter-storm-snow.jpg" class="attachment-full size-full wp-post-image" alt="Commuters in Chicago during a winter storm in December 2022." decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/chicago-cars-winter-storm-snow.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/chicago-cars-winter-storm-snow-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/chicago-cars-winter-storm-snow-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/chicago-cars-winter-storm-snow-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/chicago-cars-winter-storm-snow-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/chicago-cars-winter-storm-snow-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/chicago-cars-winter-storm-snow-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/chicago-cars-winter-storm-snow-896x597.jpg 896w" sizes="(max-width: 15
+
+## Handmaid’s Tale Is Back to Remind You That It’s Alarmingly Relevant Again
+ - [https://gizmodo.com/handmaids-tale-season-6-trailer-hulu-release-date-2000562965](https://gizmodo.com/handmaids-tale-season-6-trailer-hulu-release-date-2000562965)
+ - RSS feed: $source
+ - date published: 2025-02-12T18:00:43+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/handmaids.jpg" class="attachment-full size-full wp-post-image" alt="Handmaids" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/handmaids.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/handmaids-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/handmaids-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/handmaids-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/handmaids-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/handmaids-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/handmaids-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/handmaids-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Elisabeth Moss returns to star in the sixth and final season of Hulu's Margaret Atwood adaptation, arriving April 8.
+
+## Starlink-Starved Citizens Spark ‘National Emergency’ in the Falkland Islands
+ - [https://gizmodo.com/starlink-starved-citizens-spark-national-emergency-in-the-falkland-islands-2000562945](https://gizmodo.com/starlink-starved-citizens-spark-national-emergency-in-the-falkland-islands-2000562945)
+ - RSS feed: $source
+ - date published: 2025-02-12T17:20:41+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/FalkLands.jpg" class="attachment-full size-full wp-post-image" alt="Sign reading The Falkland Islands" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/FalkLands.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/FalkLands-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/FalkLands-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/FalkLands-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/FalkLands-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/FalkLands-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/FalkLands-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/FalkLands-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>No matter where you are in the world, broadband companies remain evil.
+
+## Captain America: Brave New World Is Bottom-Tier Marvel That’s Neither Brave, Nor New
+ - [https://gizmodo.com/captain-america-brave-new-world-review-marvel-anthony-mackie-harrison-ford-2000562746](https://gizmodo.com/captain-america-brave-new-world-review-marvel-anthony-mackie-harrison-ford-2000562746)
+ - RSS feed: $source
+ - date published: 2025-02-12T17:00:40+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Captain-America-4-Review.jpg" class="attachment-full size-full wp-post-image" alt="Captain America 4 Review" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Captain-America-4-Review.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Captain-America-4-Review-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Captain-America-4-Review-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Captain-America-4-Review-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Captain-America-4-Review-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Captain-America-4-Review-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Captain-America-4-Review-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Captain-America-4-Review-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>It is certainly set in the world of the Marvel Universe, thou
+
+## $40 for an All-in-One AI Tool Lifetime Plan, Get Access to ChatGPT, Gemini, and More With 1minAI at 82% Off
+ - [https://gizmodo.com/40-for-an-all-in-one-ai-tool-lifetime-plan-get-access-to-chatgpt-gemini-and-more-with-1minai-at-82-off-2000562693](https://gizmodo.com/40-for-an-all-in-one-ai-tool-lifetime-plan-get-access-to-chatgpt-gemini-and-more-with-1minai-at-82-off-2000562693)
+ - RSS feed: $source
+ - date published: 2025-02-12T16:50:16+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/11/1MinAI-1.jpg" class="attachment-full size-full wp-post-image" alt="1minAI" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/11/1MinAI-1.jpg 1500w, https://gizmodo.com/app/uploads/2024/11/1MinAI-1-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/11/1MinAI-1-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/11/1MinAI-1-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/11/1MinAI-1-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/11/1MinAI-1-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/11/1MinAI-1-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/11/1MinAI-1-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Master this top-rated artificial intelligence platform and develop AI skills to keep you at the top of the job market.
+
+## Amazon’s Best-Selling Akaso 4K Action Camera Is Nearly 8x Cheaper Than a GoPro Hero13
+ - [https://gizmodo.com/amazons-best-selling-akaso-4k-action-camera-is-nearly-8x-cheaper-than-a-gopro-hero13-2000562618](https://gizmodo.com/amazons-best-selling-akaso-4k-action-camera-is-nearly-8x-cheaper-than-a-gopro-hero13-2000562618)
+ - RSS feed: $source
+ - date published: 2025-02-12T16:10:10+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/AkasoActionCamera.jpg" class="attachment-full size-full wp-post-image" alt="Akasoactioncamera" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/AkasoActionCamera.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/AkasoActionCamera-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/AkasoActionCamera-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/AkasoActionCamera-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/AkasoActionCamera-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/AkasoActionCamera-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/AkasoActionCamera-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/AkasoActionCamera-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Save 34% on the Akaso EK7000 4K action camera over at Amazon for a limited time.
+
+## There’s a Good Reason Most People Prefer YouTube on TV
+ - [https://gizmodo.com/theres-a-good-reason-most-people-prefer-youtube-on-tv-2000562866](https://gizmodo.com/theres-a-good-reason-most-people-prefer-youtube-on-tv-2000562866)
+ - RSS feed: $source
+ - date published: 2025-02-12T16:07:00+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/10/youtube-on-mobile.jpg" class="attachment-full size-full wp-post-image" alt="Youtube On Mobile in front of a TV" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/10/youtube-on-mobile.jpg 1500w, https://gizmodo.com/app/uploads/2024/10/youtube-on-mobile-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/10/youtube-on-mobile-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/10/youtube-on-mobile-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/10/youtube-on-mobile-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/10/youtube-on-mobile-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/10/youtube-on-mobile-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/10/youtube-on-mobile-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>YouTube on TV’s popularity shows that the mobile app would be better off emulating Netflix on mobile.
+
+## Wheel of Time‘s Season 3 Trailer Teases the Wild Road to the Last Battle
+ - [https://gizmodo.com/wheel-of-time-season-3-trailer-amazon-rosamund-pike-shohreh-aghdashloo-2000562636](https://gizmodo.com/wheel-of-time-season-3-trailer-amazon-rosamund-pike-shohreh-aghdashloo-2000562636)
+ - RSS feed: $source
+ - date published: 2025-02-12T16:00:53+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/WheelofTime_Season3.jpg" class="attachment-full size-full wp-post-image" alt="Wheeloftime Season3" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/WheelofTime_Season3.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/WheelofTime_Season3-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/WheelofTime_Season3-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/WheelofTime_Season3-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/WheelofTime_Season3-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/WheelofTime_Season3-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/WheelofTime_Season3-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/WheelofTime_Season3-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Prime Video's epic fantasy series based on the Robert Jordan books returns March 13.
+
+## Physicists Detect Most Energetic ‘Ghost Particle’ Ever—30,000 Times More Powerful Than LHC Particles
+ - [https://gizmodo.com/physicists-detect-most-energetic-ghost-particle-ever-30000-times-more-powerful-than-lhc-particles-2000562298](https://gizmodo.com/physicists-detect-most-energetic-ghost-particle-ever-30000-times-more-powerful-than-lhc-particles-2000562298)
+ - RSS feed: $source
+ - date published: 2025-02-12T16:00:44+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/artists-impression-neutrino-detection.jpg" class="attachment-full size-full wp-post-image" alt="A visualization of a simulated event in the KM3NeT/ORCA detector." decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/artists-impression-neutrino-detection.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/artists-impression-neutrino-detection-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/artists-impression-neutrino-detection-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/artists-impression-neutrino-detection-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/artists-impression-neutrino-detection-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/artists-impression-neutrino-detection-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/artists-impression-neutrino-detection-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/artists-i
+
+## Babbel’s 14-Language Learning Lifetime Plan Drops to $130 From $599, Selling Fast and Expiring Soon
+ - [https://gizmodo.com/babbels-14-language-learning-lifetime-plan-drops-to-130-from-599-selling-fast-and-expiring-soon-2000562422](https://gizmodo.com/babbels-14-language-learning-lifetime-plan-drops-to-130-from-599-selling-fast-and-expiring-soon-2000562422)
+ - RSS feed: $source
+ - date published: 2025-02-12T15:35:33+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/BabbelEspanol.jpg" class="attachment-full size-full wp-post-image" alt="Babbelespanol" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/BabbelEspanol.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/BabbelEspanol-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/BabbelEspanol-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/BabbelEspanol-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/BabbelEspanol-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/BabbelEspanol-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/BabbelEspanol-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/BabbelEspanol-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>4.6 rated & 15M+ sold—Save $469 on a lifetime membership to Babbel, accessing over 10,000 hours of language education online.
+
+## Marvel Wants to Dig Up Gwen Stacy’s Corpse (Again)
+ - [https://gizmodo.com/marvel-comics-gwen-stacy-return-may-2025-2000562796](https://gizmodo.com/marvel-comics-gwen-stacy-return-may-2025-2000562796)
+ - RSS feed: $source
+ - date published: 2025-02-12T15:00:40+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/marvel-comics-gwen-stacy-return.jpg" class="attachment-full size-full wp-post-image" alt="Marvel Comics Gwen Stacy Return" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/02/marvel-comics-gwen-stacy-return.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/marvel-comics-gwen-stacy-return-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/marvel-comics-gwen-stacy-return-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/marvel-comics-gwen-stacy-return-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/marvel-comics-gwen-stacy-return-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/marvel-comics-gwen-stacy-return-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/marvel-comics-gwen-stacy-return-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/marvel-comics-gwen-stacy-return-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>One of
+
+## Your iPad Isn’t Complete Without an Apple Pencil Pro, Now Just $99 on Amazon for a Limited Time
+ - [https://gizmodo.com/your-ipad-isnt-complete-without-an-apple-pencil-pro-now-just-99-on-amazon-for-a-limited-time-2000562502](https://gizmodo.com/your-ipad-isnt-complete-without-an-apple-pencil-pro-now-just-99-on-amazon-for-a-limited-time-2000562502)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:55:55+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Apple-Pencil-Pro.jpg" class="attachment-full size-full wp-post-image" alt="Apple Pencil Pro" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Apple-Pencil-Pro.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Apple-Pencil-Pro-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Apple-Pencil-Pro-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Apple-Pencil-Pro-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Apple-Pencil-Pro-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Apple-Pencil-Pro-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Apple-Pencil-Pro-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Apple-Pencil-Pro-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The upgraded, ultra-precise, wirelessly chargeable Pencil Pro is the ultimate accessory for any newer iPad model.
+
+## New MAGA Task Force Promises to Reveal JFK Assassination, Epstein Secrets
+ - [https://gizmodo.com/new-maga-task-force-promises-to-reveal-jfk-assassination-epstein-secrets-2000562626](https://gizmodo.com/new-maga-task-force-promises-to-reveal-jfk-assassination-epstein-secrets-2000562626)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:40:01+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Anna-Paulina-Luna-at-Joe-Bidens-State-of-the-Union.jpg" class="attachment-full size-full wp-post-image" alt="Anna Paulina Luna at Joe Biden&#039;s State of the Union" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Anna-Paulina-Luna-at-Joe-Bidens-State-of-the-Union.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Anna-Paulina-Luna-at-Joe-Bidens-State-of-the-Union-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Anna-Paulina-Luna-at-Joe-Bidens-State-of-the-Union-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Anna-Paulina-Luna-at-Joe-Bidens-State-of-the-Union-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Anna-Paulina-Luna-at-Joe-Bidens-State-of-the-Union-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Anna-Paulina-Luna-at-Joe-Bidens-State-of-the-Union-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Anna-Paulina-Luna-at-Jo
+
+## Russia Claims New Plasma-Based Engine Could Cut Mars Travel to Just 30 Days
+ - [https://gizmodo.com/russia-claims-new-plasma-based-engine-could-cut-mars-travel-to-just-30-days-2000562451](https://gizmodo.com/russia-claims-new-plasma-based-engine-could-cut-mars-travel-to-just-30-days-2000562451)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:35:28+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Mars-1.jpeg" class="attachment-full size-full wp-post-image" alt="Mars" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Mars-1.jpeg 1500w, https://gizmodo.com/app/uploads/2025/02/Mars-1-300x200.jpeg 300w, https://gizmodo.com/app/uploads/2025/02/Mars-1-1024x683.jpeg 1024w, https://gizmodo.com/app/uploads/2025/02/Mars-1-768x512.jpeg 768w, https://gizmodo.com/app/uploads/2025/02/Mars-1-336x224.jpeg 336w, https://gizmodo.com/app/uploads/2025/02/Mars-1-1400x932.jpeg 1400w, https://gizmodo.com/app/uploads/2025/02/Mars-1-680x453.jpeg 680w, https://gizmodo.com/app/uploads/2025/02/Mars-1-896x597.jpeg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Engineers developed an engine prototype which could reach unprecedented speeds, cutting down interplanetary travel time.
+
+## The M2 Apple iPad Air Hasn’t Been More Affordable in Months, $100 Off on Amazon for Presidents’ Day
+ - [https://gizmodo.com/the-m2-apple-ipad-air-hasnt-been-more-affordable-in-months-100-off-on-amazon-for-presidents-day-2000562434](https://gizmodo.com/the-m2-apple-ipad-air-hasnt-been-more-affordable-in-months-100-off-on-amazon-for-presidents-day-2000562434)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:25:59+00:00
+
+<img width="1500" height="1001" src="https://gizmodo.com/app/uploads/2025/02/iPad-Air-M2-11-inch.jpg" class="attachment-full size-full wp-post-image" alt="Ipad Air M2 11 Inch" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/iPad-Air-M2-11-inch.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/iPad-Air-M2-11-inch-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/iPad-Air-M2-11-inch-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/iPad-Air-M2-11-inch-768x513.jpg 768w, https://gizmodo.com/app/uploads/2025/02/iPad-Air-M2-11-inch-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/iPad-Air-M2-11-inch-680x454.jpg 680w, https://gizmodo.com/app/uploads/2025/02/iPad-Air-M2-11-inch-896x598.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The best cameras, connectivity, and display of any iPad Air yet are all here, along with Apple Intelligence.
+
+## Elon Musk Claims the DOGE Website Offers Transparency, but There’s Nothing There
+ - [https://gizmodo.com/elon-musk-claims-the-doge-website-offers-transparency-but-theres-nothing-there-2000562659](https://gizmodo.com/elon-musk-claims-the-doge-website-offers-transparency-but-theres-nothing-there-2000562659)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:25:07+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Elon-Musk-oval-office-donald-trump-feb-11-2025.jpg" class="attachment-full size-full wp-post-image" alt="Elon Musk holds his son X in the Oval Office of the White House as President Donald Trump sits at the Resolute Desk on Feb. 11, 2025." decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Elon-Musk-oval-office-donald-trump-feb-11-2025.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Elon-Musk-oval-office-donald-trump-feb-11-2025-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Elon-Musk-oval-office-donald-trump-feb-11-2025-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Elon-Musk-oval-office-donald-trump-feb-11-2025-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Elon-Musk-oval-office-donald-trump-feb-11-2025-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Elon-Musk-oval-office-donald-trump-feb-11-2025-1400x932.jpg 1400w, https://gizmod
+
+## There’s Even More Updates From the He-Man Movie
+ - [https://gizmodo.com/he-man-masters-of-the-universe-movie-king-randor-queen-marlena-james-purefoy-charlotte-riley-2000562647](https://gizmodo.com/he-man-masters-of-the-universe-movie-king-randor-queen-marlena-james-purefoy-charlotte-riley-2000562647)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:00:34+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/MS-0212-He-Man-King-Randor-Queen-Marlena.jpg" class="attachment-full size-full wp-post-image" alt="Ms 0212 He Man King Randor Queen Marlena" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/MS-0212-He-Man-King-Randor-Queen-Marlena.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/MS-0212-He-Man-King-Randor-Queen-Marlena-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/MS-0212-He-Man-King-Randor-Queen-Marlena-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/MS-0212-He-Man-King-Randor-Queen-Marlena-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/MS-0212-He-Man-King-Randor-Queen-Marlena-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/MS-0212-He-Man-King-Randor-Queen-Marlena-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/MS-0212-He-Man-King-Randor-Queen-Marlena-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/MS-0212-He
+
+## Amazon Kindle Colorsoft With a Leather Cover and Charging Dock Hits Its All-Time Low Since Launch
+ - [https://gizmodo.com/amazon-kindle-colorsoft-with-a-leather-cover-and-charging-dock-hits-its-all-time-low-since-launch-2000562587](https://gizmodo.com/amazon-kindle-colorsoft-with-a-leather-cover-and-charging-dock-hits-its-all-time-low-since-launch-2000562587)
+ - RSS feed: $source
+ - date published: 2025-02-12T13:55:10+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/KindleColorsoft.jpg" class="attachment-full size-full wp-post-image" alt="Kindlecolorsoft" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/KindleColorsoft.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/KindleColorsoft-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/KindleColorsoft-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/KindleColorsoft-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/KindleColorsoft-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/KindleColorsoft-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/KindleColorsoft-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/KindleColorsoft-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The new Kindle Colorsoft Signature Edition Essentials Bundle is going for $85 off for a limited time.
+
+## The Soundcore by Anker Portable Speaker Is at Its Lowest Price, Over 4.7/5 Amazon Stars Can’t Be Wrong
+ - [https://gizmodo.com/the-soundcore-by-anker-portable-speaker-is-at-its-lowest-price-over-4-7-5-amazon-stars-cant-be-wrong-2000562397](https://gizmodo.com/the-soundcore-by-anker-portable-speaker-is-at-its-lowest-price-over-4-7-5-amazon-stars-cant-be-wrong-2000562397)
+ - RSS feed: $source
+ - date published: 2025-02-12T13:15:51+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/soundcoreboom2.jpg" class="attachment-full size-full wp-post-image" alt="Soundcoreboom2" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/soundcoreboom2.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/soundcoreboom2-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/soundcoreboom2-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/soundcoreboom2-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/soundcoreboom2-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/soundcoreboom2-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/soundcoreboom2-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/soundcoreboom2-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Your next party just got louder and cheaper! Get Boom 2 now for $100.
+
+## The New How to Train Your Dragon Trailer Aims to Match the Magic of the Original
+ - [https://gizmodo.com/how-to-train-your-dragon-trailer-live-action-mason-thames-gerard-butler-2000561828](https://gizmodo.com/how-to-train-your-dragon-trailer-live-action-mason-thames-gerard-butler-2000561828)
+ - RSS feed: $source
+ - date published: 2025-02-12T13:00:20+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/how-to-train-your-dragon-trailer-live-action.jpg" class="attachment-full size-full wp-post-image" alt="How To Train Your Dragon Trailer Live Action" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/how-to-train-your-dragon-trailer-live-action.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/how-to-train-your-dragon-trailer-live-action-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/how-to-train-your-dragon-trailer-live-action-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/how-to-train-your-dragon-trailer-live-action-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/how-to-train-your-dragon-trailer-live-action-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/how-to-train-your-dragon-trailer-live-action-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/how-to-train-your-dragon-trailer-live-action-680x453.jpg 680w, https://gizmod
+
+## The First Reactions For Captain America: Brave New World Are In, and All Over the Place
+ - [https://gizmodo.com/captain-america-brave-new-world-reactions-reviews-marvel-mcu-2000562687](https://gizmodo.com/captain-america-brave-new-world-reactions-reviews-marvel-mcu-2000562687)
+ - RSS feed: $source
+ - date published: 2025-02-12T05:10:45+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Captain-America-Brave-New-World.jpg" class="attachment-full size-full wp-post-image" alt="Captain America Brave New World" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/Captain-America-Brave-New-World.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Captain-America-Brave-New-World-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Captain-America-Brave-New-World-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Captain-America-Brave-New-World-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Captain-America-Brave-New-World-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Captain-America-Brave-New-World-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Captain-America-Brave-New-World-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Captain-America-Brave-New-World-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1
+
+## Droughts, Locusts, and Plague: 16th-Century Transylvanian Diaries Expose Climate Chaos
+ - [https://gizmodo.com/droughts-locusts-and-plague-16th-century-transylvanian-diaries-expose-climate-chaos-2000558112](https://gizmodo.com/droughts-locusts-and-plague-16th-century-transylvanian-diaries-expose-climate-chaos-2000558112)
+ - RSS feed: $source
+ - date published: 2025-02-12T05:00:33+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Transylvania-diaries.jpg" class="attachment-full size-full wp-post-image" alt="Transylvania Diaries" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/02/Transylvania-diaries.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Transylvania-diaries-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Transylvania-diaries-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Transylvania-diaries-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Transylvania-diaries-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Transylvania-diaries-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Transylvania-diaries-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Transylvania-diaries-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Historical texts, from official records to personal chronicles, are revealing how 16th-century weather shaped Transy
+
+## Walmart Bought the Mall From Dawn of the Dead, Because Subtext Is for Cowards
+ - [https://gizmodo.com/walmart-bought-the-mall-from-dawn-of-the-dead-because-subtext-is-for-cowards-2000562655](https://gizmodo.com/walmart-bought-the-mall-from-dawn-of-the-dead-because-subtext-is-for-cowards-2000562655)
+ - RSS feed: $source
+ - date published: 2025-02-12T00:45:07+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/dawnofthedead.jpg" class="attachment-full size-full wp-post-image" alt="Dawnofthedead" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/dawnofthedead.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/dawnofthedead-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/dawnofthedead-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/dawnofthedead-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/dawnofthedead-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/dawnofthedead-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/dawnofthedead-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/dawnofthedead-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The shopping center from George A. Romero's 1978 anti-consumerism zombie tale is now owned by the big-box behemoth.
+

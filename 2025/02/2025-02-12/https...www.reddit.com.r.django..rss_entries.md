@@ -1,0 +1,79 @@
+# Source:Django, URL:https://www.reddit.com/r/django/.rss, language:
+
+## Help! Can't Read CSRF Cookie in JavaScript (Django + Vite Frontend)
+ - [https://www.reddit.com/r/django/comments/1inyjyj/help_cant_read_csrf_cookie_in_javascript_django](https://www.reddit.com/r/django/comments/1inyjyj/help_cant_read_csrf_cookie_in_javascript_django)
+ - RSS feed: $source
+ - date published: 2025-02-12T18:54:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m struggling with reading a CSRF cookie in JavaScript when making requests from my frontend (<code>http://localhost:5173</code>) to my Django backend (<code>https://sub.foo.com</code>).</p> <p>The csrf cookie appears, but JavaScript can’t read it (<code>document.cookie</code> is empty).</p> <p>Django settings:<br/> CORS_ALLOWED_ORIGINS = [</p> <p>&quot;http://localhost:5173&quot;,</p> <p>&quot;https://localhost:5173&quot;,</p> <p>&quot;<a href="http://127.0.0.1:5173/">http://127.0.0.1:5173</a>&quot;,</p> <p>&quot;<a href="https://127.0.0.1:5173/">https://127.0.0.1:5173</a>&quot;,</p> <p>]<br/> CORS_ALLOW_CREDENTIALS = True</p> <p>Devtools cookie tab have csrftoken with domain <a href="http://sub.foo.com">sub.foo.com</a>, Path /, HttpOnly false, secure true, samesite None</p> <p>I appreciate any help</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CyberButterfly"> /u/CyberButterfly </a> <br/> <span><a href=
+
+## Stuck an Auth. Could use some suggestions on stack for a saas.
+ - [https://www.reddit.com/r/django/comments/1inx26f/stuck_an_auth_could_use_some_suggestions_on_stack](https://www.reddit.com/r/django/comments/1inx26f/stuck_an_auth_could_use_some_suggestions_on_stack)
+ - RSS feed: $source
+ - date published: 2025-02-12T17:55:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>For context, I&#39;m not a professional webdev, I do pentests. I&#39;m developing a utility to help me with report writing for security assessments that will do these things:</p> <ul> <li>Track assessments</li> <li>Have a report builder function. (Place content into sections)</li> <li>Generate a pdf from the builder sections</li> </ul> <p>It will have a few other things that I&#39;ll add later but that&#39;s the gist of it. I&#39;ve experimented with several stacks but my hangup is Auth. I&#39;m not an experienced webdev so manually writing auth between the front and backend makes me nervous.</p> <p>What I&#39;d like from the Auth solution:</p> <ul> <li>Users, Roles, Permissions (Authorization)</li> <li>Support Social Auth, SSO</li> <li>Protections from brute forcing</li> <li>Email invites when new user added to plan</li> <li>MFA</li> <li>Self owned, not Auth0, Firebase etc, to avoid vendor lock-in. Would prefer not having to host another server like
+
+## Inviting contributions to an open source chat web app !
+ - [https://www.reddit.com/r/django/comments/1inwnz7/inviting_contributions_to_an_open_source_chat_web](https://www.reddit.com/r/django/comments/1inwnz7/inviting_contributions_to_an_open_source_chat_web)
+ - RSS feed: $source
+ - date published: 2025-02-12T17:39:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone!</p> <p>I’ve built a basic Django chat app using Django Channels &amp; WebSockets, and I’d love to open it up for community contributions! The project is still in its early stages, and I believe it would be more exciting to build it together rather than alone.</p> <p>I&#39;ve opened multiple issues (friend requests, message indicators, PostgreSQL integration, etc.), so feel free to pick one, suggest improvements, or even add new features! It’s a great way to gain experience, build your portfolio, and collaborate with others.</p> <p>Repo Link : <a href="https://github.com/frzn23/zeenchat">https://github.com/frzn23/zeenchat</a></p> <p>Would love to hear your thoughts and ideas! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Frzn23"> /u/Frzn23 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1inwnz7/inviting_contributions_to_an_open_source_chat_web/">[link]</a></span> &#32; <span><a
+
+## Formsets with Nested Formsets?
+ - [https://www.reddit.com/r/django/comments/1invv97/formsets_with_nested_formsets](https://www.reddit.com/r/django/comments/1invv97/formsets_with_nested_formsets)
+ - RSS feed: $source
+ - date published: 2025-02-12T17:07:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi there, I have an Order that may have multiple products, which in turn have a couple of features / add-ons to select. Like ordering food... 1 Order -&gt; Multiple Menu Items (Burger, Lasasgna, etc.) -&gt; Each with their add-ons (pickles, extra cheese, etc.). </p> <h3>models.py</h3> <p>``` class Order(models.Model): customer = models.ForeignKey(Customer, on_delete=models.CASCADE) message = models.TextField(null=True, blank=True)</p> <p>class OrderItem(models.Model): order = models.ForeignKey(Order, on_delete=models.CASCADE, null=True, blank=True, related_name=&quot;items&quot;) product = models.ForeignKey(Product, on_delete=models.CASCADE)</p> <p>class OrderItemFeature(models.Model): order_item = models.ForeignKey(OrderItem, on_delete=models.CASCADE, related_name=&quot;features&quot;) feature = models.ForeignKey(Feature, on_delete=models.CASCADE) ```</p> <h3>forms.py</h3> <p>``` class OrderForm(forms.ModelForm): class Meta: model = Order fields = (
+
+## Issues with migrations
+ - [https://www.reddit.com/r/django/comments/1ins6py/issues_with_migrations](https://www.reddit.com/r/django/comments/1ins6py/issues_with_migrations)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:34:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>Good people of <a href="/r/django">r/django</a>!</p> <p>I ran into some issues that I need your help with. I had a couple of tables that I used AI to create within Cursor (yes, I know, please don&#39;t judge), and I didn&#39;t notice that it created an ID field and set it to primary ID even though it should have not be a primary key and should not be unique. I made the changes and ran migrations and things started to fail. I fixed things manually, deleted tables at the database, deleted migration files and did a mess of things.</p> <p>Now everything seems to work and the app seems operational, but I am getting an error deploying the application (I use Railway for the app and Neon for the DB), &quot;django.db.utils.ProgrammingError: relation &quot;account_emailaddress_user_id_email_987c8728_uniq&quot; already exists.&quot;</p> <p>Any thoughts on how to approach this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/use
+
+## Looking for people to learn Django together
+ - [https://www.reddit.com/r/django/comments/1inqcdc/looking_for_people_to_learn_django_together](https://www.reddit.com/r/django/comments/1inqcdc/looking_for_people_to_learn_django_together)
+ - RSS feed: $source
+ - date published: 2025-02-12T13:06:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey all, I recently noticed that I do a much better job when I&#39;m on a meeting co-workering with a colleague or streaming it online. I&#39;m looking for a few people to start learning Django and probably advanced Python together.</p> <p>DM me if you&#39;re interested.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Minarctic"> /u/Minarctic </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1inqcdc/looking_for_people_to_learn_django_together/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1inqcdc/looking_for_people_to_learn_django_together/">[comments]</a></span>
+
+## Issues with branches and migrate
+ - [https://www.reddit.com/r/django/comments/1inpqcn/issues_with_branches_and_migrate](https://www.reddit.com/r/django/comments/1inpqcn/issues_with_branches_and_migrate)
+ - RSS feed: $source
+ - date published: 2025-02-12T12:33:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Guyssss please I need some help, in the project I’m working on I always have issues when I try to run migrate, the only way I know how to fix it is by running migrate so many times that the number keep increasing until it creates the table, that’s the only solution I found online. I’m pretty sure many of you had to deal with that already. So how did manage to do it?</p> <p>Error: IntegrityError: duplicate key value violates unique constraint &quot;django_migrations_pkey&quot; DETAIL: Key (id)=(11) already exists.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NoSatisfaction668"> /u/NoSatisfaction668 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1inpqcn/issues_with_branches_and_migrate/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1inpqcn/issues_with_branches_and_migrate/">[comments]</a></span>
+
+## How to prepare for live coding test
+ - [https://www.reddit.com/r/django/comments/1inmut7/how_to_prepare_for_live_coding_test](https://www.reddit.com/r/django/comments/1inmut7/how_to_prepare_for_live_coding_test)
+ - RSS feed: $source
+ - date published: 2025-02-12T09:02:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>Okay so i have a live coding test</p> <p>And tbh idk what to do,how do you even prepare for it?</p> <p>I cant even remember the non obvious imports without searching then how do they expect to create a full stack app in 1 hour(thats what they aked me to do first time)</p> <p>I cleared the conceptual interview but now its time for 2nd coding test,incould not do first one because or problems with django of my system</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Theonewhomogged_"> /u/Theonewhomogged_ </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1inmut7/how_to_prepare_for_live_coding_test/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1inmut7/how_to_prepare_for_live_coding_test/">[comments]</a></span>
+
+## My talk has been accepted for DjangoCon EU 2025!
+ - [https://www.reddit.com/r/django/comments/1inlr5k/my_talk_has_been_accepted_for_djangocon_eu_2025](https://www.reddit.com/r/django/comments/1inlr5k/my_talk_has_been_accepted_for_djangocon_eu_2025)
+ - RSS feed: $source
+ - date published: 2025-02-12T07:39:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>“What if I fail?” </p> <p>That thought used to haunt me every time I took a step outside my comfort zone. Applying for my first open-source contribution, organizing Django meetups, even sharing my thoughts publicly—self-doubt was always lurking. </p> <p>But today, I have proof that pushing past fear leads to something bigger. My talk on <a href="https://www.linkedin.com/company/zango-framework1/">Zango</a> framework has been accepted for DjangoCon EU 2025! 🎉 </p> <p>This isn’t just about a conference talk. It’s about the journey—the long nights, the imposter syndrome, the relentless belief that if you keep showing up, opportunities will follow. </p> <p>From casually exploring Django to building a thriving community in India, from contributing in silence to speaking on an international stage—it’s been a wild ride. And if there’s one thing I’ve learned, it’s this: </p> <p>“Do it. Even if you think you’re not “ready” yet” </p> <p>Because the best things
+
+## Django system design?
+ - [https://www.reddit.com/r/django/comments/1ine455/django_system_design](https://www.reddit.com/r/django/comments/1ine455/django_system_design)
+ - RSS feed: $source
+ - date published: 2025-02-12T00:29:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I have been working on a django project but i cant wrap my head around how to design it for mass use.. its a stock trading project and i need it to execute trades at the same time for multiple people. What is a good resource for learning system design/architecture? I know companies like instagram used django in the beginning but i dont understand how they were able to handle many users. Is celery enough to handle such use cases?</p> <p>Please be kind i am new to this</p> <p>Thanks in advance!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iamjio_"> /u/iamjio_ </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1ine455/django_system_design/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1ine455/django_system_design/">[comments]</a></span>
+
+## Django Authorization/Filtering Help
+ - [https://www.reddit.com/r/django/comments/1induk9/django_authorizationfiltering_help](https://www.reddit.com/r/django/comments/1induk9/django_authorizationfiltering_help)
+ - RSS feed: $source
+ - date published: 2025-02-12T00:17:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>I believe there is a better way to approach or design the solution I need. ChatGPT has been somewhat unhelpful, but it provided a workaround for now.</p> <h1>Core Models</h1> <ul> <li><strong>Providers</strong></li> <li><strong>Sites</strong></li> <li><strong>Clients</strong></li> </ul> <p>Some ther models with relations to core models</p> <ul> <li>Site Groups (site belong to a site group)</li> <li>Client Brands (client brands belong to a client)</li> <li>Services</li> <li>Client Brand Service Assignments (Client brand + site + service)</li> <li>Etc</li> </ul> <p>**Custom User Model:**The custom user model has relations to Sites, Providers, Clients.</p> <p>A user can be assigned none, one, or many.</p> <pre><code>class CustomUser(AbstractUser): # Change from ForeignKey to ManyToManyField client = models.ManyToManyField( &#39;APPNAME.Client&#39;, blank=True, related_name=&#39;assigned_users&#39; ) provider = models.ManyToManyField( &#39;APPNAME.Provid
+

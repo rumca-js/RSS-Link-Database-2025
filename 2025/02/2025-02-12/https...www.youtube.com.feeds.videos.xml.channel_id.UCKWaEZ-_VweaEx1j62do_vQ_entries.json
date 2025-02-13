@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-12T12:00:01+00:00",
+        "description": "Want to learn more about Generative AI + Machine Learning? Read the ebook \u2192 https://ibm.biz/BdGbKr\nLearn more about Fine Tuning here \u2192 https://ibm.biz/BdGbKj\n\nSupercharge your AI agents for peak performance! \ud83d\ude80 Join Boris Sobolev as he explains how model customization can enhance reliability and decision-making of agentic systems. Discover practical tips for data collection, tool use, and pushing the boundaries of what your AI can achieve.\ud83d\udd27\ud83d\udcca\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdGbah\n\n#aiagents #ai #machinelearning",
+        "id": 2097302,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=aQuCTWhiiPg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aQuCTWhiiPg/hqdefault.jpg",
+        "title": "Enhancing AI Agents Through Fine Tuning & Model Customization",
+        "vote": 0
+    }
+]

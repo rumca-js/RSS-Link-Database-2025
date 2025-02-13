@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-12T15:07:11+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nBridging the Gap: Writing Portable C++ Programs for CPU and GPU - Thomas Mejstrik - CppCon 2024\n---\n\nThis talk presents a series of effective patterns to address challenges arising when code is developed that shall operate seamlessly on both GPU (CUDA) and CPU environments.\nThis scenario is a common oversight among CUDA developers, given the substantial architectural differences between CPUs and GPUs.\n\nThe patterns presented cover a range of scenarios, from handling stray function calls, strategies for conditional compilation, exploiting constexpr functions, leveraging undefined behaviour, usage of CUDA specific macros, conditional instantiation of templates and managing compiler warnings and errors.\n\nKey patterns include: \"Host device everything\", \"Conditional function body\", \"Constexpr everything\", \"Disable the warnings\", \"Defensive Programming\", \"Conditional Host Device Template\", and \"Function dispatching\".\n\nWe evaluate each pattern based on ease of use, ",
+        "id": 2098044,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7zfROx6KWAI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7zfROx6KWAI/hqdefault.jpg",
+        "title": "Bridging the Gap: Writing Portable C++ Programs for CPU and GPU - Thomas Mejstrik - CppCon 2024",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-12T08:46:31+00:00",
+        "description": "Trzeba promowa\u0107 idee wolontariatu i zach\u0119ca\u0107 do dzia\u0142alno\u015bci spo\u0142ecznej m\u0142odych ludzi \u2013 m\u00f3wi w podca\u015bcie \u201eSzko\u0142a na nowo\u201d Adriana Porowska, ministra do spraw spo\u0142ecze\u0144stwa obywatelskiego.",
+        "id": 2095769,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/rodzice-i-uczniowie/art41795521-punkty-za-wolontariat-w-rekrutacji-do-liceum-czy-nalezy-je-zlikwidowac",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Punkty za wolontariat w rekrutacji do liceum. Czy nale\u017cy je zlikwidowa\u0107?",
+        "vote": 0
+    }
+]

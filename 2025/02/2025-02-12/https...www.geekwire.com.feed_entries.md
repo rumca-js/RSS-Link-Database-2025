@@ -1,0 +1,58 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed, language:en-US
+
+## Redfin to lay off 450 employees after inking new rentals partnership with Zillow Group
+ - [https://www.geekwire.com/2025/redfin-to-lay-off-450-employees-after-inking-new-rentals-partnership-with-zillow-group](https://www.geekwire.com/2025/redfin-to-lay-off-450-employees-after-inking-new-rentals-partnership-with-zillow-group)
+ - RSS feed: $source
+ - date published: 2025-02-12T19:01:21+00:00
+
+<img width="1260" height="627" src="https://cdn.geekwire.com/wp-content/uploads/2019/05/DSC09408.jpg-1260x627.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2019/05/DSC09408.jpg-1260x627.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2019/05/DSC09408.jpg-768x382.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2019/05/DSC09408.jpg-630x313.jpg 630w" sizes="(max-width: 1260px) 100vw, 1260px"><br>This story originally appeared on Real Estate News. While a new listings partnership between Redfin and Zillow is expected to benefit both companies in the long run, it comes at a cost for some Redfin employees. In an&#160;SEC filing&#160;ahead of its fourth-quarter earnings report, Redfin announced plans to restructure its rentals segment — a move that will &#8220;eliminate certain employee roles&#8221; that support the rentals division. An estimated 450 positions will be cut betwee
+
+## Convoy co-founder Dan Lewis joins Microsoft in exec role leading work on enterprise AI
+ - [https://www.geekwire.com/2025/convoy-co-founder-dan-lewis-joins-microsoft-in-exec-role-leading-work-on-enterprise-ai](https://www.geekwire.com/2025/convoy-co-founder-dan-lewis-joins-microsoft-in-exec-role-leading-work-on-enterprise-ai)
+ - RSS feed: $source
+ - date published: 2025-02-12T17:35:31+00:00
+
+<img width="1260" height="840" src="https://cdn.geekwire.com/wp-content/uploads/2023/10/2575-Summit-20191008-DD-HR-1260x840.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2023/10/2575-Summit-20191008-DD-HR-1260x840.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2023/10/2575-Summit-20191008-DD-HR-768x512.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2023/10/2575-Summit-20191008-DD-HR-1536x1024.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2023/10/2575-Summit-20191008-DD-HR-2048x1365.jpg 2048w, https://cdn.geekwire.com/wp-content/uploads/2023/10/2575-Summit-20191008-DD-HR-630x420.jpg 630w" sizes="(max-width: 1260px) 100vw, 1260px"><br>Dan Lewis, the former CEO of shuttered Seattle trucking startup Convoy, has joined Microsoft in a chief product officer role. Lewis left Convoy last year after the one-time unicorn company went through a sudden shutdown. He joined F
+
+## Seattle-area company with climate friendly ‘mechanical cows’ for digesting waste is acquired
+ - [https://www.geekwire.com/2025/seattle-area-company-with-climate-friendly-mechanical-cows-for-digesting-waste-is-acquired](https://www.geekwire.com/2025/seattle-area-company-with-climate-friendly-mechanical-cows-for-digesting-waste-is-acquired)
+ - RSS feed: $source
+ - date published: 2025-02-12T15:49:59+00:00
+
+<img width="812" height="609" src="https://cdn.geekwire.com/wp-content/uploads/2025/02/Chomp-Team1.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" srcset="https://cdn.geekwire.com/wp-content/uploads/2025/02/Chomp-Team1.jpg 812w, https://cdn.geekwire.com/wp-content/uploads/2025/02/Chomp-Team1-768x576.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2025/02/Chomp-Team1-630x473.jpg 630w" sizes="(max-width: 812px) 100vw, 812px"><br>Chomp, a company building devices that turn food waste into fuel and liquid fertilizer, today announced its acquisition by Martin Energy Group. With the merger, Chomp can tap into the bigger company&#8217;s resources, ramping up the manufacturing, sales and tech capabilities of its compact digesters &#8212; dubbed &#8220;mechanical cows&#8221; by company leaders. Chomp launched 11 years ago as Impact Bioenergy, aiming to solve the problem of food waste rotting in landfills and emitting methane, a potent greenhouse gas. The Auburn
+
+## AI recruting startup led by former Microsoft manager raises $16M
+ - [https://www.geekwire.com/2025/ai-recruting-startup-led-by-former-microsoft-manager-raises-16m](https://www.geekwire.com/2025/ai-recruting-startup-led-by-former-microsoft-manager-raises-16m)
+ - RSS feed: $source
+ - date published: 2025-02-12T15:31:22+00:00
+
+<img width="800" height="800" src="https://cdn.geekwire.com/wp-content/uploads/2025/02/1682546557254.jpeg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://cdn.geekwire.com/wp-content/uploads/2025/02/1682546557254.jpeg 800w, https://cdn.geekwire.com/wp-content/uploads/2025/02/1682546557254-150x150.jpeg 150w, https://cdn.geekwire.com/wp-content/uploads/2025/02/1682546557254-768x768.jpeg 768w, https://cdn.geekwire.com/wp-content/uploads/2025/02/1682546557254-100x100.jpeg 100w, https://cdn.geekwire.com/wp-content/uploads/2025/02/1682546557254-630x630.jpeg 630w, https://cdn.geekwire.com/wp-content/uploads/2025/02/1682546557254-300x300.jpeg 300w, https://cdn.geekwire.com/wp-content/uploads/2025/02/1682546557254-400x400.jpeg 400w, https://cdn.geekwire.com/wp-content/uploads/2025/02/1682546557254-600x600.jpeg 600w" sizes="auto, (max-width: 800px) 100vw, 800px"><br>ConverzAI, a Seattle startup founded in 2019 that aims to automate recruiting
+
+## Bill Gates on Microsoft at 50, and what’s next for AI and innovation
+ - [https://www.geekwire.com/2025/bill-gates-on-microsoft-at-50-and-the-next-big-opportunities-for-ai-and-innovation](https://www.geekwire.com/2025/bill-gates-on-microsoft-at-50-and-the-next-big-opportunities-for-ai-and-innovation)
+ - RSS feed: $source
+ - date published: 2025-02-12T15:30:31+00:00
+
+<img width="1260" height="840" src="https://cdn.geekwire.com/wp-content/uploads/2025/02/GatesNotes_SourceCode_Media_26-1260x840.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://cdn.geekwire.com/wp-content/uploads/2025/02/GatesNotes_SourceCode_Media_26-1260x840.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2025/02/GatesNotes_SourceCode_Media_26-768x512.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2025/02/GatesNotes_SourceCode_Media_26-1536x1025.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2025/02/GatesNotes_SourceCode_Media_26-630x420.jpg 630w, https://cdn.geekwire.com/wp-content/uploads/2025/02/GatesNotes_SourceCode_Media_26.jpg 2000w" sizes="auto, (max-width: 1260px) 100vw, 1260px"><br>Bill Gates talks about Microsoft's 50th anniversary, parallels between AI and the early days of the PC, and where he sees the next big opportunities for innovation.&#8230; <a href="https://www.geekwire.com/2025/bill-ga
+
+## New accelerator in Seattle area aims to help tech startups navigate Dept. of Defense complexities
+ - [https://www.geekwire.com/2025/new-accelerator-in-seattle-area-aims-to-help-tech-startups-navigate-dept-of-defense-complexities](https://www.geekwire.com/2025/new-accelerator-in-seattle-area-aims-to-help-tech-startups-navigate-dept-of-defense-complexities)
+ - RSS feed: $source
+ - date published: 2025-02-12T15:00:00+00:00
+
+<img width="639" height="640" src="https://cdn.geekwire.com/wp-content/uploads/2025/02/defenseaccelerator.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://cdn.geekwire.com/wp-content/uploads/2025/02/defenseaccelerator.jpg 639w, https://cdn.geekwire.com/wp-content/uploads/2025/02/defenseaccelerator-150x150.jpg 150w, https://cdn.geekwire.com/wp-content/uploads/2025/02/defenseaccelerator-100x100.jpg 100w, https://cdn.geekwire.com/wp-content/uploads/2025/02/defenseaccelerator-630x631.jpg 630w, https://cdn.geekwire.com/wp-content/uploads/2025/02/defenseaccelerator-300x300.jpg 300w, https://cdn.geekwire.com/wp-content/uploads/2025/02/defenseaccelerator-400x400.jpg 400w, https://cdn.geekwire.com/wp-content/uploads/2025/02/defenseaccelerator-600x600.jpg 600w" sizes="auto, (max-width: 639px) 100vw, 639px"><br>A new accelerator program aimed at identifying and supporting startups and technologies that address critical U.S. Department of D
+
+## Seattle startup group launches new program for founders that rethinks traditional accelerator format
+ - [https://www.geekwire.com/2025/seattle-startup-group-launches-new-program-for-founders-that-rethinks-traditional-accelerator-format](https://www.geekwire.com/2025/seattle-startup-group-launches-new-program-for-founders-that-rethinks-traditional-accelerator-format)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:53:13+00:00
+
+<img width="1260" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2025/02/IMG_5411-1260x945.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://cdn.geekwire.com/wp-content/uploads/2025/02/IMG_5411-1260x945.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2025/02/IMG_5411-768x576.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2025/02/IMG_5411-1536x1152.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2025/02/IMG_5411-2048x1536.jpg 2048w, https://cdn.geekwire.com/wp-content/uploads/2025/02/IMG_5411-630x473.jpg 630w" sizes="auto, (max-width: 1260px) 100vw, 1260px"><br>Aviel Ginzburg spent years learning what makes a startup accelerator effective for founders. Now he&#8217;s applying those lessons to a new Founder-in-Residence program at Foundations, the Seattle-based startup community that launched last year. The program puts a new spin on the traditional startup accelerator model — namely, not requiri
+
+## Initial election results show support for Seattle social housing tax opposed by Amazon, Microsoft
+ - [https://www.geekwire.com/2025/initial-election-results-show-support-for-seattle-social-housing-tax-opposed-by-amazon-microsoft](https://www.geekwire.com/2025/initial-election-results-show-support-for-seattle-social-housing-tax-opposed-by-amazon-microsoft)
+ - RSS feed: $source
+ - date published: 2025-02-12T06:20:35+00:00
+
+<img width="1260" height="870" src="https://cdn.geekwire.com/wp-content/uploads/2025/01/seattleskyline-1260x870.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2025/01/seattleskyline-1260x870.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2025/01/seattleskyline-768x531.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2025/01/seattleskyline-1536x1061.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2025/01/seattleskyline-630x435.jpg 630w, https://cdn.geekwire.com/wp-content/uploads/2025/01/seattleskyline.jpg 2047w" sizes="(max-width: 1260px) 100vw, 1260px"><br>Seattle voters are showing support for a new tax on big business that would fund a social housing developer. More than 57% of voters said &#8220;yes&#8221; to the proposed tax, based on initial results posted Tuesday for Seattle&#8217;s special election. The ordinance, known as Proposition 1A, would create a 5% t
+

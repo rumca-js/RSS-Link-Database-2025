@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-12T14:11:17+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I\u2019m the founder of an innovative music label and community focused on empowering independent artists. Our vision is to build a decentralized platform that leverages blockchain technology, DAO principles, and AI to give the community a direct say in what music gets released\u2014all while challenging traditional industry gatekeeping.</p> <p>Right now, I\u2019m operating on a shoestring budget and need a technical partner who\u2019s experienced in:</p> <p>\u2022 <strong>Blockchain &amp; DAO frameworks:</strong> (focusing on decentralization, not specific cryptocurrencies or investment strategies)</p> <p>\u2022 <strong>App Development:</strong> Building robust, user-friendly applications.</p> <p>\u2022 <strong>AI Integration:</strong> Creating smart, responsive systems that enhance community engagement.</p> <p>I\u2019m looking for someone excited to collaborate on this project initially on a partnership or equity basis, with the promise of future paid work as we grow.",
+        "id": 2097874,
+        "language": null,
+        "link": "https://www.reddit.com/r/developer/comments/1inrocc/looking_for_a_techsavvy_partner_to_build_a",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Looking for a Tech-Savvy Partner to Build a Community-Driven DAO & AI Platform",
+        "vote": 0
+    }
+]

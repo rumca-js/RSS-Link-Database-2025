@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-12T20:00:08+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/DP86EfDExQQ\" width=\"480\" alt=\"thumbnail\" title=\"Major Linux Kernel Regression Escapes Arch Testing\" /></p>Whilst distros like Arch Linux and it's testing branch protect a lot of the FOSS world from dealing with bugs, not everything is caught during testing and sometimes major regressions make there way into the stable project like this recent Flatpak and FUSE bug.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Arch Linux Forum:  https://bbs.archlinux.org/viewtopic.php?pid=2224612<br />Gitlab Issue: https://gitlab.archlinux.org/archlinux/packaging/packages/linux/-/issues/110<br />Flatpak Issue: https://github.com/flatpak/flatpak/issues/6102<br />First LKML Post: https://lore.kernel.or",
+        "id": 2101474,
+        "language": "en",
+        "link": "https://odysee.com/major-linux-kernel-regression-escapes:4f97eafc36be1474d79ef72a45bd9a2833457412",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Major Linux Kernel Regression Escapes Arch Testing",
+        "vote": 0
+    }
+]

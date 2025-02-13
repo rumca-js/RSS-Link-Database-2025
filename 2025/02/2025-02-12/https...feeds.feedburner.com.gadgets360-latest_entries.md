@@ -1,0 +1,275 @@
+# Source:Gadgets 360, URL:https://feeds.feedburner.com/gadgets360-latest, language:en
+
+## Global Rocket Launches Reach Record High in 2024, With More Growth Expected in 2025
+ - [https://www.gadgets360.com/science/news/global-rocket-launches-surge-in-2024-with-259-liftoffs-recorded-7692911](https://www.gadgets360.com/science/news/global-rocket-launches-surge-in-2024-with-259-liftoffs-recorded-7692911)
+ - RSS feed: $source
+ - date published: 2025-02-12T19:01:01+00:00
+
+A total of 259 rocket launches took place in 2024, continuing a four-year trend of increasing spaceflight activity. SpaceX led the surge with 132 Falcon 9 launches, contributing to satellite deployments for Starlink and military purposes. Other nations, including Russia and China, also expanded their launch operations. In 2025, new rockets from Blue Origin, Sierra Space, and Rocket Lab will enter service, alongside regulatory changes to ease commercial spaceflight. European and Australian companies are advancing independent launch capabilities, reflecting a growing focus on sovereign space access.
+
+## May 2024 Solar Storm Triggers Unusual Radiation Belts, Raising Space Safety Concerns
+ - [https://www.gadgets360.com/science/news/solar-storm-in-may-2024-created-two-temporary-radiation-belts-around-earth-7693063](https://www.gadgets360.com/science/news/solar-storm-in-may-2024-created-two-temporary-radiation-belts-around-earth-7693063)
+ - RSS feed: $source
+ - date published: 2025-02-12T19:01:01+00:00
+
+A significant solar storm in May 2024 led to the creation of two temporary radiation belts, detected by the CIRBE satellite in June. One belt contained high-energy electrons, while the other was rich in protons, a rare occurrence. While the electron belt dissipated in three months, the proton-dominated belt remains, potentially affecting space missions. This discovery highlights the long-term effects of solar activity on Earth's magnetosphere, with implications for satellite operations and astronaut safety. Scientists continue to monitor space weather to understand its impact on technology and human exploration.
+
+## Pyaar Ka Professor OTT Release Date: When and Where to Watch Sandeepa Dhar, Pranav Sachdeva Starrer Romantic Comedy Online
+ - [https://www.gadgets360.com/entertainment/news/pyaar-ka-professor-ott-release-sandeepa-dhar-pranav-sachdeva-lead-romantic-comedy-7693360](https://www.gadgets360.com/entertainment/news/pyaar-ka-professor-ott-release-sandeepa-dhar-pranav-sachdeva-lead-romantic-comedy-7693360)
+ - RSS feed: $source
+ - date published: 2025-02-12T19:01:01+00:00
+
+Pyaar Ka Professor, a romantic comedy starring Sandeepa Dhar and Pranav Sachdeva, premieres on Amazon MX Player on February 14. Directed by Akshay Choubey, the series follows Vaibhav, who teaches single men social cues for dating. The plot takes a turn when a politician seeks his help for public speaking. Blending humour with an unconventional premise, the show offers fresh entertainment for Valentine’s Day. Streaming for free, this web series is expected to attract a young audience looking for lighthearted content.
+
+## A Star With a Planet May Be Racing Through the Galaxy at Record Speed
+ - [https://www.gadgets360.com/science/news/record-breaking-exoplanet-system-identified-at-1-2m-mph-speed-7685532](https://www.gadgets360.com/science/news/record-breaking-exoplanet-system-identified-at-1-2m-mph-speed-7685532)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:58:31+00:00
+
+Astronomers have identified a potential record-breaking exoplanet system moving at 1.2 million mph. Detected through microlensing, the discovery suggests a low-mass star with an orbiting planet is racing through the Milky Way. Data from the Keck Observatory and ESA’s Gaia satellite indicate a high-speed celestial body that may eventually escape the galaxy. Further research with NASA’s upcoming Roman Space Telescope will refine insights into these rare, fast-moving planetary systems.
+
+## Apple Introduces New Tool to Let Users Migrate Digital Purchases Between Two Accounts
+ - [https://www.gadgets360.com/mobiles/news/apple-account-migration-between-two-accounts-new-tool-introduced-how-to-7694595](https://www.gadgets360.com/mobiles/news/apple-account-migration-between-two-accounts-new-tool-introduced-how-to-7694595)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:58:31+00:00
+
+Apple introduced a new tool on Tuesday that will allow users to migrate their digital purchases and media data from one Apple account to another. The Cupertino-based tech giant has aimed this tool for those users who are either using a legacy account since they previously made purchases on the account or those who find managing two accounts cumbersome.
+
+## Austria’s BitPanda Secures FCA Approval in UK, Plans to Offer ‘Set-and-Forget' Savings Strategy
+ - [https://www.gadgets360.com/cryptocurrency/news/bitpanda-austria-exchange-fca-approval-uk-offer-savings-strategy-7695194](https://www.gadgets360.com/cryptocurrency/news/bitpanda-austria-exchange-fca-approval-uk-offer-savings-strategy-7695194)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:58:31+00:00
+
+On Wednesday, February 12, BitPanda announced that the UK’s Financial Conduct Authority (FCA) has approved its registration to offer crypto-related services to British investors. According to FCA records, the exchange has also established an office in London to oversee its UK operations.
+
+## CERN's ALPHA Experiment Achieves Precise Antihydrogen Measurement
+ - [https://www.gadgets360.com/science/news/cerns-alpha-experiment-achieves-precise-antihydrogen-measurement-7685356](https://www.gadgets360.com/science/news/cerns-alpha-experiment-achieves-precise-antihydrogen-measurement-7685356)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:58:31+00:00
+
+The ALPHA experiment at CERN has recorded antihydrogen’s 1S–2S transition with unprecedented accuracy, using laser cooling to refine measurements. The technique significantly reduces data collection time, allowing repeated observations. These findings enhance comparisons between hydrogen and antihydrogen, pushing the boundaries of fundamental physics. The next phase aims for even higher precision, with results expected soon.
+
+## Donald Trump’s Crypto Firm Announces Strategic Token Reserve, Plans to Invest in DeFi
+ - [https://www.gadgets360.com/cryptocurrency/news/donald-trump-world-liberty-financial-strategic-token-reserve-invest-defi-tradfi-7695037](https://www.gadgets360.com/cryptocurrency/news/donald-trump-world-liberty-financial-strategic-token-reserve-invest-defi-tradfi-7695037)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:58:31+00:00
+
+The US President Donald Trump-backed World Liberty Financial (WLF) has said that it will be maintaining a strategic token reserve and use funds from it to invest in promising DeFi projects. The organisation said its aim is to bridge the gap between traditional and decentralised finance.
+
+## MIT Develops Tiny Robotic Insect Drones with 100x Longer Flight Time Than Before
+ - [https://www.gadgets360.com/science/news/mit-develops-tiny-robotic-insect-drones-with-100x-longer-flight-time-than-before-7685658](https://www.gadgets360.com/science/news/mit-develops-tiny-robotic-insect-drones-with-100x-longer-flight-time-than-before-7685658)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:58:31+00:00
+
+A new generation of robotic insects can fly 100 times longer than previous models, making artificial pollination more viable. Researchers improved endurance and agility by refining wing structure, reducing energy use, and incorporating power storage. Future advancements will integrate sensors and navigation systems to optimise their role in agriculture. This breakthrough could significantly enhance pollination efforts, leading to better crop yields while reducing environmental impact. The innovation addresses major limitations of earlier prototypes, making robotic pollinators more practical for real-world applications.
+
+## OpenAI Says it Does Not Use Indian Media Groups' Content to Train ChatGPT, Court Filing Shows
+ - [https://www.gadgets360.com/ai/news/openai-does-not-use-indian-media-groups-content-train-chatgpt-court-filing-7694956](https://www.gadgets360.com/ai/news/openai-does-not-use-indian-media-groups-content-train-chatgpt-court-filing-7694956)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:58:31+00:00
+
+OpenAI is seeking to stop Indian media groups from joining a copyright lawsuit against it. The company has denied that it uses content from Indian media to train ChatGPT. The filing relates to a lawsuit by Indian news agency ANI last year, which alleges that ChatGPT uses its published content without permission to help train its AI chatbot.
+
+## Samsung Galaxy F06 5G With 4 Years of Android OS Updates, 5,000mAh Battery Launched in India
+ - [https://www.gadgets360.com/mobiles/news/samsung-f06-5g-price-in-india-launch-specifications-sale-date-galaxy-7695373](https://www.gadgets360.com/mobiles/news/samsung-f06-5g-price-in-india-launch-specifications-sale-date-galaxy-7695373)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:58:31+00:00
+
+Samsung's Galaxy F06 5G has been launched in India as an affordable 5G phone. It supports 12 5G bands and is equipped with a MediaTek Dimensity 6300 SoC. The handset offers a 6.7-inch display with HD+ resolution, a 50-megapixel primary rear camera, and a 5,000mAh battery with support for 25W fast charging. The Galaxy F06 5G is available in two colour options.
+
+## Samsung Galaxy S25 Edge Listed on GeekBench Ahead of Imminent Launch
+ - [https://www.gadgets360.com/mobiles/news/samsung-galaxy-s25-edge-geekbench-specifications-launch-7695266](https://www.gadgets360.com/mobiles/news/samsung-galaxy-s25-edge-geekbench-specifications-launch-7695266)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:58:31+00:00
+
+Samsung Galaxy S25 Edge was teased at the company's Galaxy Unpacked event earlier this month. While the South Korean tech giant has not shared any details about the smartphone, it appears to have been listed on the GeekBench benchmarking site with key specifications. The handset will join the Galaxy S25 series as the fourth model, alongside the base model, Galaxy S25+, and Galaxy S25 Ultra.
+
+## Senua's Saga: Hellblade 2 Said to Arrive on PS5 Soon, Could Be Announced at State of Play
+ - [https://www.gadgets360.com/games/news/senuas-saga-hellblade-2-could-launch-ps5-soon-state-of-play-announcement-ninja-theory-xbox-7695415](https://www.gadgets360.com/games/news/senuas-saga-hellblade-2-could-launch-ps5-soon-state-of-play-announcement-ninja-theory-xbox-7695415)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:58:31+00:00
+
+Senua’s Saga: Hellblade 2, the Xbox and PC exclusive from Ninja Theory, is reportedly coming to PS5. The action-adventure title could join other Microsoft first-party titles like Forza Horizon 5, Indiana Jones and the Great Circle, and Age of Mythology: Retold that are confirmed to launch on PS5 in 2025.
+
+## US, UK Decline to Sign Onto Macron’s AI Summit Communique, Signatories Include India, China
+ - [https://www.gadgets360.com/ai/news/us-uk-decline-sign-macros-ai-summit-communique-signatories-include-india-china-7693715](https://www.gadgets360.com/ai/news/us-uk-decline-sign-macros-ai-summit-communique-signatories-include-india-china-7693715)
+ - RSS feed: $source
+ - date published: 2025-02-12T14:58:31+00:00
+
+US Vice President JD Vance argued strongly against the European Union’s tough regulatory approach to social-media platforms and AI and what he termed as foreign governments “considering tightening the screws” on US tech companies.
+
+## 1,300-Year-Old Gold Hoard Found Near Dutch Village Hints at Pagan Rituals
+ - [https://www.gadgets360.com/science/news/1300-year-old-gold-hoard-found-near-dutch-village-hints-at-pagan-rituals-7685242](https://www.gadgets360.com/science/news/1300-year-old-gold-hoard-found-near-dutch-village-hints-at-pagan-rituals-7685242)
+ - RSS feed: $source
+ - date published: 2025-02-12T12:29:32+00:00
+
+A 1,300-year-old gold and silver hoard near Hezingen, Netherlands, suggests an ancient pagan worship site. Researchers found coins, jewellery and relics possibly used in religious offerings. Geochemical analysis indicates animal sacrifices, while architectural findings suggest ritual structures. The discovery sheds light on early medieval Europe's religious shift and local resistance to Christianisation. Christian missionaries condemned such practices, calling the offerings "devil’s money." This site remains one of the best-preserved examples of pagan worship in the region.
+
+## iPhone SE 4 May Launch Next Week, M4 MacBook Air and Other Devices to Follow Soon: Report
+ - [https://www.gadgets360.com/mobiles/news/iphone-se-4-launch-next-week-m4-macbook-apple-vision-pro-ipad-ai-report-7692618](https://www.gadgets360.com/mobiles/news/iphone-se-4-launch-next-week-m4-macbook-apple-vision-pro-ipad-ai-report-7692618)
+ - RSS feed: $source
+ - date published: 2025-02-12T12:29:32+00:00
+
+iPhone SE 4 could reportedly be launched as soon as next week. As per a report, the Cupertino-based tech giant is planning to hold several product briefings over the next few weeks, with two announcements expected to occur this week. The company is said to be planning a small announcement on Wednesday, followed by another on Friday. These could include upgrades for the Apple Vision Pro or the launch of the iPad 11 (2025).
+
+## Motorola Razr+ Paris Hilton Edition With Custom Accessories Launched: Price, Features
+ - [https://www.gadgets360.com/mobiles/news/motorola-razr-plus-paris-hilton-edition-launch-price-availability-features-7693183](https://www.gadgets360.com/mobiles/news/motorola-razr-plus-paris-hilton-edition-launch-price-availability-features-7693183)
+ - RSS feed: $source
+ - date published: 2025-02-12T12:29:32+00:00
+
+Motorola Razr+ Paris Hilton Edition was launched in the US on Tuesday. It comes in a Paris Pink shade and a vegan leather finish alongside customised accessories including a vegan leather case. The handset is equipped with customised ringtones, alerts, and wallpapers. The new variant gets the same specifications as the Motorola Razr+ (2024).
+
+## Vodafone Idea (Vi) 5G Roundup: Rollout Date, List of Available Cities, 5G Speeds, and More
+ - [https://www.gadgets360.com/telecom/features/vodafone-idea-vi-5g-roundup-7693214](https://www.gadgets360.com/telecom/features/vodafone-idea-vi-5g-roundup-7693214)
+ - RSS feed: $source
+ - date published: 2025-02-12T12:29:32+00:00
+
+Vodafone Idea (Vi), in its quarterly report for the third quarter of the financial year 2024-25, revealed that it is planning to roll out its 5G services in the country. The company has confirmed that it will begin the rollout of its 5G services in April 2025, though the exact date of the rollout is not known at the time of writing.
+
+## WhatsApp for iOS Could Soon Get a Feature to Let Users Add Instagram Profile Links
+ - [https://www.gadgets360.com/apps/news/whatsapp-ios-feature-add-instagram-profile-links-under-development-leak-7693617](https://www.gadgets360.com/apps/news/whatsapp-ios-feature-add-instagram-profile-links-under-development-leak-7693617)
+ - RSS feed: $source
+ - date published: 2025-02-12T12:29:32+00:00
+
+WhatsApp is said to be working on a new feature for its iOS app that will allow users to add their Instagram profile links to their account. As per the claims by a feature tracker, the feature is aimed at letting users showcase their social media profiles in the same space to let their contacts easily connect with them.
+
+## Assassin's Creed Shadows Players Won't Miss Out on Content if They Stick to One Protagonist
+ - [https://www.gadgets360.com/games/news/assassins-creed-shadows-dual-protagonist-choice-yasuke-naoe-ubisoft-7693454](https://www.gadgets360.com/games/news/assassins-creed-shadows-dual-protagonist-choice-yasuke-naoe-ubisoft-7693454)
+ - RSS feed: $source
+ - date published: 2025-02-12T11:24:41+00:00
+
+Assassin’s Creed Shadows, Ubisoft’s Japan-set action-adventure title, is set for release in March after a couple of delays. The game will feature distinct playstyles, both in terms of combat and exploration, splitting action and stealth gameplay across its two protagonists. But if players prefer a certain playstyle and want to stick to one character for the majority of the playthrough, the game will let them do so.
+
+## Athena Lunar Mission Set to Deploy 'Gracie' Hopper for Crater Exploration Near Moon's South Pole
+ - [https://www.gadgets360.com/science/news/athena-lunar-mission-to-deploy-gracie-hopper-for-crater-exploration-near-moons-south-pole-7685033](https://www.gadgets360.com/science/news/athena-lunar-mission-to-deploy-gracie-hopper-for-crater-exploration-near-moons-south-pole-7685033)
+ - RSS feed: $source
+ - date published: 2025-02-12T11:24:41+00:00
+
+Intuitive Machines, in collaboration with NASA, is preparing to launch the Athena lunar mission, featuring the 'Gracie' hopper designed for crater exploration near the Moon's south pole. Scheduled to launch from Florida's Space Coast within a four-day window starting on February 26, Athena will carry multiple payloads, including 'Gracie,' a small robotic explorer. 'Gracie' is engineered to perform controlled hops across the lunar surface, culminating in a descent into a shadowed crater approximately 500 metres from the landing site. This mission aims to demonstrate alternative exploration methods and gather data on potential water ice deposits in permanently shadowed lunar regions.
+
+## Bobby Aur Rishi Ki Love Story Now Streaming on Disney+ Hotstar: Cast, Plot, and Streaming Details
+ - [https://www.gadgets360.com/entertainment/news/kaveri-kapur-s-bobby-aur-rishi-ki-love-story-ott-release-date-cast-plot-and-streaming-details-7691547](https://www.gadgets360.com/entertainment/news/kaveri-kapur-s-bobby-aur-rishi-ki-love-story-ott-release-date-cast-plot-and-streaming-details-7691547)
+ - RSS feed: $source
+ - date published: 2025-02-12T11:24:41+00:00
+
+Kaveri Kapur, daughter of filmmaker Shekhar Kapur and singer-actress Suchitra Krishnamoorthi, is making her acting debut with Bobby Aur Rishi Ki Love Story. Directed by Kunal Kohli, the romantic comedy stars Vardhaan Puri, grandson of Amrish Puri, in the lead role. The film explores modern relationships, love, and personal growth, set against the backdrop of the UK. With a blend of humour and heartfelt moments, it aims to entertain audiences with its relatable storyline. Bobby Aur Rishi Ki Love Story will be available for streaming on Disney+ Hotstar from February 11, 2025, offering a fresh take on romance.
+
+## Dainee OTT Release Date: When and Where to Watch Mimi Chakraborty’s Upcoming Series Online
+ - [https://www.gadgets360.com/entertainment/news/dainee-ott-release-date-when-and-where-to-watch-mimi-chakraborty-s-upcoming-series-online-7691466](https://www.gadgets360.com/entertainment/news/dainee-ott-release-date-when-and-where-to-watch-mimi-chakraborty-s-upcoming-series-online-7691466)
+ - RSS feed: $source
+ - date published: 2025-02-12T11:24:41+00:00
+
+Dainee, directed by Nirjhar Mitra, stars Mimi Chakraborty and Shruti Das in a chilling narrative about two estranged sisters caught in a brutal witch-hunt. The series explores the clash between deep-rooted superstitions and the struggle for justice. With a gripping plot and compelling performances, Dainee promises to be a standout addition to Hoichoi’s lineup. The show premieres on March 14, adding to the platform’s diverse content offerings this season.
+
+## Euclid Space Telescope Discovers Rare Einstein Ring, Revealing Dark Matter Secrets
+ - [https://www.gadgets360.com/science/news/euclid-space-telescope-discovers-rare-einstein-ring-illuminating-dark-matter-distribution-7684734](https://www.gadgets360.com/science/news/euclid-space-telescope-discovers-rare-einstein-ring-illuminating-dark-matter-distribution-7684734)
+ - RSS feed: $source
+ - date published: 2025-02-12T11:24:41+00:00
+
+The Euclid space telescope has detected a rare Einstein ring around galaxy NGC 6505, located approximately 590 million light-years from Earth. This phenomenon, resulting from gravitational lensing, allows scientists to study the distribution of dark matter within the lensing galaxy. The discovery aligns with Euclid's mission to map cosmic structures and investigate dark energy, enhancing our understanding of the universe's composition and evolution.
+
+## Felipe Esparza’s Raging Fool Stand-Up Special to Premiere on Netflix on February 11
+ - [https://www.gadgets360.com/entertainment/news/felipe-esparza-s-netflix-special-raging-fool-to-premiere-globally-on-feb-11-7691203](https://www.gadgets360.com/entertainment/news/felipe-esparza-s-netflix-special-raging-fool-to-premiere-globally-on-feb-11-7691203)
+ - RSS feed: $source
+ - date published: 2025-02-12T11:24:41+00:00
+
+Felipe Esparza’s stand-up special Raging Fool is set to premiere globally on Netflix on February 11. Known for his sharp wit and engaging storytelling, Esparza explores themes of family, relationships, and cultural divides in this latest hour-long set. The special was filmed in front of a packed audience at the Crest Theatre in Sacramento and is directed by Lesa ODaniel-Esparza. Produced in collaboration with 800 Pound Gorilla Productions, this marks Esparza’s second Netflix special after Bad Decisions, which was released in both English and Spanish.
+
+## Madurai Paiyanum Chennai Ponnum OTT Release Date: When and Where to Watch it Online?
+ - [https://www.gadgets360.com/entertainment/news/madurai-paiyanum-chennai-ponnum-ott-release-date-cast-where-to-watch-7691296](https://www.gadgets360.com/entertainment/news/madurai-paiyanum-chennai-ponnum-ott-release-date-cast-where-to-watch-7691296)
+ - RSS feed: $source
+ - date published: 2025-02-12T11:24:41+00:00
+
+Madurai Paiyanum Chennai Ponnum, a Tamil rom-com starring Kanna Ravi and VJ Angelin, is set to release on Aha Tamil on February 14. Directed by Vignesh Pazhanivel, the series explores the cultural differences between a Madurai boy and a Chennai girl. With 25 episodes, three will be released each weekend. The series blends comedy, romance, and emotions, offering an engaging story.
+
+## Pariksha Pe Charcha 2025 Now Streaming on Prime Video: Everything You Need to Know
+ - [https://www.gadgets360.com/entertainment/news/pariksha-pe-charcha-2025-pm-modi-s-live-session-on-exam-tips-stress-careers-today-7676692](https://www.gadgets360.com/entertainment/news/pariksha-pe-charcha-2025-pm-modi-s-live-session-on-exam-tips-stress-careers-today-7676692)
+ - RSS feed: $source
+ - date published: 2025-02-12T11:24:41+00:00
+
+Pariksha Pe Charcha 2025 saw PM Modi engaging with students on exam stress, leadership, and career choices. Held at Bharat Mandapam, New Delhi, the event witnessed record participation. PM Modi compared exam pressure to cricket, urging students to stay calm. Bollywood actress Deepika Padukone will address mental health in an upcoming session. The event was streamed live across platforms, including Doordarshan and Amazon Prime Video, ensuring widespread reach.
+
+## Samsung Galaxy A06 5G Specifications Leaked, Said to Get 6.7-Inch Display, Dimensity 6300 SoC
+ - [https://www.gadgets360.com/mobiles/news/samsung-galaxy-a06-5g-specifications-leak-7693194](https://www.gadgets360.com/mobiles/news/samsung-galaxy-a06-5g-specifications-leak-7693194)
+ - RSS feed: $source
+ - date published: 2025-02-12T11:24:41+00:00
+
+Post the launch of Samsung’s Galaxy A06 smartphone back in August 2024, the company seems to be preparing for the launch of a 5G variant. While hardware specifications of the 5G budget smartphone have been leaked out in the past, a new source has now spilled all the beans on the Galaxy A06 5G.
+
+## Suzhal: The Vortex Season 2 OTT Release Date Confirmed: Arrives on Prime Video on February 28
+ - [https://www.gadgets360.com/entertainment/news/suzhal-the-vortex-season-2-release-date-cast-plot-where-to-watch-7691132](https://www.gadgets360.com/entertainment/news/suzhal-the-vortex-season-2-release-date-cast-plot-where-to-watch-7691132)
+ - RSS feed: $source
+ - date published: 2025-02-12T11:24:41+00:00
+
+Suzhal—The Vortex returns with Season 2, premiering on Prime Video on February 28. This season dives into a fresh mystery set against the backdrop of the Ashtakaali festival in Kaalipattanam. Starring Kathir and Aishwarya Rajesh, the crime thriller explores themes of family, sacrifice, revenge, and fear. The series will be available in multiple languages, including Tamil, Telugu, Hindi, Malayalam, and Kannada, with English subtitles.
+
+## Tecno Camon 40 Series Launch Timeline, Colourways, Key Features Leaked
+ - [https://www.gadgets360.com/mobiles/news/tecno-camon-40-premier-5g-pro-4g-launch-timeline-leak-design-colour-options-expected-features-report-7692584](https://www.gadgets360.com/mobiles/news/tecno-camon-40-premier-5g-pro-4g-launch-timeline-leak-design-colour-options-expected-features-report-7692584)
+ - RSS feed: $source
+ - date published: 2025-02-12T11:24:41+00:00
+
+Tecno Camon 40 series is expected to be unveiled in select global markets soon. The handsets in the lineup have previously appeared on several certification sites. The series is expected to include base, Pro, and Premier variants. Several key features, colour options and designs of the purported smartphones have now surfaced online. The expected launch date of the series, including its probable India launch timeline has been tipped as well.
+
+## Bitcoin Falls to $95,000 as Altcoins Decline Amid Unchanged US Interest Rates
+ - [https://www.gadgets360.com/cryptocurrency/news/bitcoin-price-today-usd-95000-ether-dogecoin-solana-loss-us-interest-rates-jerome-powell-7692768](https://www.gadgets360.com/cryptocurrency/news/bitcoin-price-today-usd-95000-ether-dogecoin-solana-loss-us-interest-rates-jerome-powell-7692768)
+ - RSS feed: $source
+ - date published: 2025-02-12T09:13:58+00:00
+
+The overall crypto market cap dropped by 2.81 percent in the last 24 hours. Bitcoin and Ether registered losses on Wednesday, February 12. Solana, Dogecoin, and Litecoin are among crypto assets trading in losses. Iota and Monero, meanwhile, managed to hold on to minor gains.
+
+## DeepSeek May Face Further Regulatory Actions, European Data Protection Board Says
+ - [https://www.gadgets360.com/ai/news/deepseek-ai-face-further-regulatory-actions-eu-privacy-watchdog-7692199](https://www.gadgets360.com/ai/news/deepseek-ai-face-further-regulatory-actions-eu-privacy-watchdog-7692199)
+ - RSS feed: $source
+ - date published: 2025-02-12T09:13:58+00:00
+
+DeepSeek may face more actions from national regulators in the future, Europe's privacy watchdog said on Tuesday, underscoring the bloc's concerns about the rising popularity of the cheap Chinese Artificial Intelligence startup.
+
+## Google I/O 2025 Dates Confirmed, Android 16 and Gemini AI Announcements Expected
+ - [https://www.gadgets360.com/mobiles/news/google-io-2025-dates-may-20-android-16-gemini-ai-developers-announcements-7692058](https://www.gadgets360.com/mobiles/news/google-io-2025-dates-may-20-android-16-gemini-ai-developers-announcements-7692058)
+ - RSS feed: $source
+ - date published: 2025-02-12T09:13:58+00:00
+
+Google I/O 2025, the company’s developer-focused conference, is confirmed to be held on May 20 and 21. The tech giant’s annual event will be hosted at the Shoreline Amphitheater in Mountain View, California. Google has opened registration for the event, which will be held both offline as well as online via live streams. The event typically consists of hardware and software announcements, developer-focused demonstrations and technical sessions, as well as workshops and networking opportunities.
+
+## OpenAI's Board Said to Have Not Received Elon Musk's Takeover Bid
+ - [https://www.gadgets360.com/ai/news/openai-board-not-received-elon-musk-takeover-bid-7692093](https://www.gadgets360.com/ai/news/openai-board-not-received-elon-musk-takeover-bid-7692093)
+ - RSS feed: $source
+ - date published: 2025-02-12T09:13:58+00:00
+
+OpenAI's board of directors has not yet received a formal bid from Musk's group, a source familiar with the matter told Reuters on Tuesday, adding to the confusion over the unsolicited attempt to take control of the world's most prominent AI company.
+
+## Realme GT 7T Tipped to Be in the Works; Said to Offer NFC Support
+ - [https://www.gadgets360.com/mobiles/news/realme-gt-7t-development-expected-launch-leak-ram-connectviity-report-7692021](https://www.gadgets360.com/mobiles/news/realme-gt-7t-development-expected-launch-leak-ram-connectviity-report-7692021)
+ - RSS feed: $source
+ - date published: 2025-02-12T09:13:58+00:00
+
+Realme GT 6T was introduced in India in May 2024. A successor to the handset will likely launch soon. A new report claims that the company is working on a new smartphone, which could be called Realme GT 7T. The report hinted at some of the key features of the handset, including RAM and connectivity options.
+
+## Sony Confirms PlayStation State of Play Broadcast for January 12: Here's What to Expect
+ - [https://www.gadgets360.com/games/news/playstation-state-of-play-broadcast-announced-sony-what-to-expect-7691914](https://www.gadgets360.com/games/news/playstation-state-of-play-broadcast-announced-sony-what-to-expect-7691914)
+ - RSS feed: $source
+ - date published: 2025-02-12T09:13:58+00:00
+
+PlayStation State of Play is returning this week, bringing updates and announcements on upcoming titles. The games showcase will be streamed February 12, Sony confirmed Tuesday.
+
+## Apple Reportedly Working With Alibaba to Bring Apple Intelligence Features to China
+ - [https://www.gadgets360.com/ai/news/apple-intelligence-alibaba-partner-ai-features-iphone-china-report-7691019](https://www.gadgets360.com/ai/news/apple-intelligence-alibaba-partner-ai-features-iphone-china-report-7691019)
+ - RSS feed: $source
+ - date published: 2025-02-12T07:41:51+00:00
+
+Apple has reportedly partnered with Alibaba to co-develop artificial intelligence (AI) features for its iPhone and other devices in China. As per the report, the Cupertino-based tech giant went through multiple AI-focused companies before finally selecting Alibaba. The duo have reportedly co-developed several AI features that cater to Apple’s Chinese user base, and it is currently awaiting regulatory approval.
+
+## Google Pixel 9a Leaked Renders Suggest New Rear Camera Design, Four Colour Options
+ - [https://www.gadgets360.com/mobiles/news/google-pixel-9a-design-render-leak-colour-options-expected-launch-report-7691431](https://www.gadgets360.com/mobiles/news/google-pixel-9a-design-render-leak-colour-options-expected-launch-report-7691431)
+ - RSS feed: $source
+ - date published: 2025-02-12T07:41:51+00:00
+
+Google Pixel 9a is expected to arrive in the markets by next month. Over the past few weeks, several leaks and reports have hinted at key features of the handset. Recently, images of the official covers for the purported smartphone surfaced online. Now, renders of the phone itself have leaked, showing the complete design and expected colour options.
+
+## Vodafone Idea (Vi) to Launch 5G in Mumbai Next Month, Expansion to Delhi and Bengaluru in April
+ - [https://www.gadgets360.com/telecom/news/vodafone-idea-vi-5g-launch-mumbai-march-delhi-bengaluru-chandigarh-patna-april-2025-7690720](https://www.gadgets360.com/telecom/news/vodafone-idea-vi-5g-launch-mumbai-march-delhi-bengaluru-chandigarh-patna-april-2025-7690720)
+ - RSS feed: $source
+ - date published: 2025-02-12T07:41:51+00:00
+
+Vodafone Idea (Vi) announced the commercial rollout of its 5G services in India on Tuesday. The telecom operator revealed its plans in its Q3 2024-25 report and highlighted that 5G services will first be launched in Mumbai in March. The company will then expand the services to four more cities in April. In December 2024, Vi first started 5G operation in 19 circles across the country, however, at the time it was not a commercial rollout.
+

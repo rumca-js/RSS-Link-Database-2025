@@ -1,0 +1,65 @@
+# Source:Raspberry Pi - More than just magic mirrors and kodi!, URL:https://www.reddit.com/r/raspberry_pi/.rss, language:en
+
+## SSH_AUTH_SOCK - what is it? what sets it? why is it keeping me from ssh'ing?
+ - [https://www.reddit.com/r/raspberry_pi/comments/1io1lbq/ssh_auth_sock_what_is_it_what_sets_it_why_is_it](https://www.reddit.com/r/raspberry_pi/comments/1io1lbq/ssh_auth_sock_what_is_it_what_sets_it_why_is_it)
+ - RSS feed: $source
+ - date published: 2025-02-12T20:59:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a small network of four RPi4&#39;s. They are virtually identical, but do different tasks. Since they are all clones of each other, my id exists on all of them, and I tend to bounce back and forth between boxes. So, I have public/private keys set up in .ssh, which lets me just <code>ssh &lt;hostname&gt;</code> and switch to a different box.</p> <p>At least, I could do that until recently. All of a sudden, ssh started to hang. I posted here asking for help, and got some good advice. None of it fixed my problem, but it pointed me toward some troubleshooting that I hadn&#39;t thought of. </p> <p>I have now found either the problem, or the tip of the iceberg of a bigger problem.</p> <p>If I log into one of my Pi&#39;s, I cannot <code>ssh</code> to anywhere, whether the .ssh directory exists or not. But if I <code>su - &lt;username&gt;</code>, I can. (Even if I <code>su</code> to myself.)</p> <p>After delving into it further, there are a few environ
+
+## Can anyone help me figure out what configuration I'm missing to get Arducam working on Mainsail with Klipper
+ - [https://www.reddit.com/r/raspberry_pi/comments/1io1gov/can_anyone_help_me_figure_out_what_configuration](https://www.reddit.com/r/raspberry_pi/comments/1io1gov/can_anyone_help_me_figure_out_what_configuration)
+ - RSS feed: $source
+ - date published: 2025-02-12T20:53:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been going through the configuration to get a camera up and running on my Ender-3 Pro running Klipper on Mainsail, using a Raspberry Pi 3B+. I&#39;ve walked through the setup manual multiple times to see if I&#39;ve missed a step, but the config all seems to be there, except get_camera. And, no feed into Mainsail that I&#39;m able to see. </p> <p>Running vcgencmd get_camera returns supported=0 detected=0, libcamera interfaces=0.</p> <p>Running libcamera-still --list-cameras returns available cameras and lists ov5647 <a href="/base/soc/i2c0mux/i2c@1/ov5647@36">2592x1944 10-bit GBRG</a> followed by modes. </p> <p>Running libcamera-jpeg -o test.jpg takes pictures, but going into the Mainsail interface and trying to add a camera it attempts to connect, then displays no signal. </p> <p>Verified the dtparam=i2c are both in the config.txt.</p> <p>I&#39;m not sure what exactly I&#39;m missing to make this work, and I really don&#39;t want to add yet
+
+## Dune Weaver’s maiden voyage
+ - [https://www.reddit.com/r/raspberry_pi/comments/1invnjk/dune_weavers_maiden_voyage](https://www.reddit.com/r/raspberry_pi/comments/1invnjk/dune_weavers_maiden_voyage)
+ - RSS feed: $source
+ - date published: 2025-02-12T16:59:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1invnjk/dune_weavers_maiden_voyage/"> <img src="https://a.thumbs.redditmedia.com/yDSads7sp8VisRSpKSvBkthYh5EBT2tRd7dTtzXFoF0.jpg" alt="Dune Weaver’s maiden voyage" title="Dune Weaver’s maiden voyage" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Share something freakin&#39; cool that you made using a Pi. I&#39;ll go first: a 75cm x 48cm (29.5 x 19in) kinetic coffee-table-sized sand table! After making the Dune Weaver (<a href="https://makerworld.com/en/models/841332?from=search#profileId-787553">https://makerworld.com/en/models/841332?from=search#profileId-787553</a>) and the Dune Weaver Mini (<a href="https://makerworld.com/en/models/896314?from=search#profileId-854412">https://makerworld.com/en/models/896314?from=search#profileId-854412</a>), being an Apple fan, I have to make the Dune Weaver Pro (and maybe the Dune Weaver Pro Max in the future 😉).</p> <p>I have these principles when I set out to design 
+
+## Raspberry Pi 5 with fan and Sense HAT?
+ - [https://www.reddit.com/r/raspberry_pi/comments/1inuqec/raspberry_pi_5_with_fan_and_sense_hat](https://www.reddit.com/r/raspberry_pi/comments/1inuqec/raspberry_pi_5_with_fan_and_sense_hat)
+ - RSS feed: $source
+ - date published: 2025-02-12T16:21:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a Raspberry Pi 5 and it&#39;s got an official small fan attached on top to cool the processor. I tried running the Pi 5 for a while without the fan, but it got too hot, so the fan is needed.</p> <p>I&#39;m interested in getting a Sense HAT so I can play around with the sensors. From the photos it looks like the Sense HAT needs to fit directly on top of the Pi, but I&#39;m pretty sure the fan will be in the way.</p> <p>I&#39;ve looked around for discussions on this and all the photos and videos I&#39;ve found just show the Sense HAT fitted directly onto the Pi without a fan in place. In old forum posts people just recommend not to use a fan or heat sink, but that&#39;s not an option here.</p> <p>Can the Sense HAT fit onto the Pi 5 with a fan in place? Or is there a way to extend the pins so the Sense HAT v2 can sit on top of them? Again, all the info I found on this is years out of date and refers to the Pi 3 and the original Sense HAT.</p> <p>
+
+## Raspberry PI 5 and Audio Amplifier Shield Power Supply
+ - [https://www.reddit.com/r/raspberry_pi/comments/1inu3a7/raspberry_pi_5_and_audio_amplifier_shield_power](https://www.reddit.com/r/raspberry_pi/comments/1inu3a7/raspberry_pi_5_and_audio_amplifier_shield_power)
+ - RSS feed: $source
+ - date published: 2025-02-12T15:55:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>I am using a Raspberry PI 4 with a Hifiberry AMP2 today and it works really well.</p> <p>I have now tried to use the Raspberry PI 5 together with a IQAudio Digiamp+ but have ended up in the common RPI5 power supply issue.</p> <p>In the documentation for the IQAudio Digiamp+ it clearly says that you should not power the RPI through the USB port when using the shield as the RPI is powered by the Digiamp+ board through the GPIO pins.</p> <p>It also says that it supplies a maximum of 2.5A.</p> <p>So Question 1: Does this make the Digiamp+ board &quot;incompatible&quot; with the RPI5 as it cannot provide enough power?</p> <p>My workaround to this issue is to use the official RPI 5 PSU and power the RPI through the USB port and the DigiAmp+ with 12V at the same time. This seems to work but the documentation cleary says not to do it.</p> <p>Question 2: What alternatives do I have to power the RPI5 if I use any kind of Amplifier Shield ?</p> <p>Th
+
+## Raspberry Pi Using NordVPN Meshnet Connectivity Issues
+ - [https://www.reddit.com/r/raspberry_pi/comments/1int31r/raspberry_pi_using_nordvpn_meshnet_connectivity](https://www.reddit.com/r/raspberry_pi/comments/1int31r/raspberry_pi_using_nordvpn_meshnet_connectivity)
+ - RSS feed: $source
+ - date published: 2025-02-12T15:13:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello! I have been having some trouble with routing my traffic from one raspberry pi (RPi1 in my home) to another raspberry pi (RPi2 in another home), and was wondering if anyone could help me.</p> <p>My intent is to connect my TV so that it looks like it is under my other home&#39;s IP address. To do this, I originally followed this link <a href="https://meshnet.nordvpn.com/how-to/security/vpn-router">https://meshnet.nordvpn.com/how-to/security/vpn-router</a>. And I got it to work (connected my TV to RPi1), even barring some issues with the operating system that I had loaded. </p> <p>This was okay but there were a few issues. 1) the speeds with using raspap / network manager combined with meshnet were limited. 2) once i routed traffic to another Raspberry pi (from RPi1 to RPi2) I was unable to connect to the raspberry pi wifi, so it had to be done sequentially and this was bad if I lost connection for whatever reason. </p> <p>So I then tried to conn
+
+## My first 64x64 HUB75 LED clock & GIF display
+ - [https://www.reddit.com/r/raspberry_pi/comments/1inqco7/my_first_64x64_hub75_led_clock_gif_display](https://www.reddit.com/r/raspberry_pi/comments/1inqco7/my_first_64x64_hub75_led_clock_gif_display)
+ - RSS feed: $source
+ - date published: 2025-02-12T13:06:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/raspberry_pi/comments/1inqco7/my_first_64x64_hub75_led_clock_gif_display/"> <img src="https://external-preview.redd.it/amloeWt1YXdpcGllMS478o4JTpU4REEruikKwmXr4wCADz9plHpI7-smkBnd.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=203335e7522bd2a030442086ba7e3ac94d3bce18" alt="My first 64x64 HUB75 LED clock &amp; GIF display" title="My first 64x64 HUB75 LED clock &amp; GIF display" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhoKnowsToBeFair"> /u/WhoKnowsToBeFair </a> <br/> <span><a href="https://v.redd.it/zpwpnvawipie1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1inqco7/my_first_64x64_hub75_led_clock_gif_display/">[comments]</a></span> </td></tr></table>
+
+## Not connecting to home wifi
+ - [https://www.reddit.com/r/raspberry_pi/comments/1innmkt/not_connecting_to_home_wifi](https://www.reddit.com/r/raspberry_pi/comments/1innmkt/not_connecting_to_home_wifi)
+ - RSS feed: $source
+ - date published: 2025-02-12T10:01:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I&#39;ve been having trouble for a while with my RPI 400 not being able to connect to my home wifi. I can connect it just fine to my phone&#39;s hotspot but when I try to connect to my home wifi the network manager icon will animate like it&#39;s trying to connect with a message on mouse over saying &quot;Requesting a wireless network adress for &quot;[SSID]&quot;. After about 30 seconds it gives up.</p> <p>I&#39;m running a clean installation of the most recent raspberry pi OS 64-bit.</p> <p>I already tried only using the 2.4GHz band of my router and disabling the 5GHz completely, but to no avail.</p> <p>Any help? Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/splungedude"> /u/splungedude </a> <br/> <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1innmkt/not_connecting_to_home_wifi/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/raspberry_pi/comments/1innm
+
+## Raspberry Pi 4 - Bluetooth stability problems with controllers
+ - [https://www.reddit.com/r/raspberry_pi/comments/1inj6al/raspberry_pi_4_bluetooth_stability_problems_with](https://www.reddit.com/r/raspberry_pi/comments/1inj6al/raspberry_pi_4_bluetooth_stability_problems_with)
+ - RSS feed: $source
+ - date published: 2025-02-12T04:52:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I&#39;ve been enjoying using my Raspberry Pi 4B as a Steam Link box for the past little while. However, I haven&#39;t been able to solve a minor issue with my Bluetooth controllers.</p> <p>My Pi is less than 2M away from my couch, but unless my controller has a clear line of sight, the Bluetooth connection cuts out and misses/repeats inputs until line of sight is re-established. I&#39;ve got an Xbox One S controller with new firmware (updated last week) and I&#39;ve tried both the onboard Bluetooth and an external USB dongle, both with similar results. Even a Bluetooth keyboard with a separate dongle has the same problem. I&#39;m also using ethernet and have wi-fi turned off, so I don&#39;t think it&#39;s an interference problem.</p> <p>Does anyone have any experience troubleshooting this? I&#39;d love to be able to game without being so careful with my controllers to ensure a stable connection. </p> <p>Thanks!</p> </div><!-- SC_ON -->
+

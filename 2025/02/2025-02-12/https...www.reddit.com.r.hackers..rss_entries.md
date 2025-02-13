@@ -1,0 +1,37 @@
+# Source:Hackers, URL:https://www.reddit.com/r/hackers/.rss, language:en
+
+## Cyber Wars: Confronting China's Digital Threat | China Considered
+ - [https://www.reddit.com/r/hackers/comments/1inwrhx/cyber_wars_confronting_chinas_digital_threat](https://www.reddit.com/r/hackers/comments/1inwrhx/cyber_wars_confronting_chinas_digital_threat)
+ - RSS feed: $source
+ - date published: 2025-02-12T17:43:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/hackers/comments/1inwrhx/cyber_wars_confronting_chinas_digital_threat/"> <img src="https://external-preview.redd.it/D_Gi4SzcU8rl-NAdusR35OwISmrnwCSIMXlYaJh-pTc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2ee66bdd0e594143e2612789f6291c2d8de8048b" alt="Cyber Wars: Confronting China's Digital Threat | China Considered" title="Cyber Wars: Confronting China's Digital Threat | China Considered" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Miao_Yin8964"> /u/Miao_Yin8964 </a> <br/> <span><a href="https://youtu.be/WtY8ogcTCqg?si=T7bisPyRnHqHrlXT">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hackers/comments/1inwrhx/cyber_wars_confronting_chinas_digital_threat/">[comments]</a></span> </td></tr></table>
+
+## Looking
+ - [https://www.reddit.com/r/hackers/comments/1innfhy/looking](https://www.reddit.com/r/hackers/comments/1innfhy/looking)
+ - RSS feed: $source
+ - date published: 2025-02-12T09:46:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Dm, can&#39;t post details here. $$$</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ImapackaBowl1sec"> /u/ImapackaBowl1sec </a> <br/> <span><a href="https://www.reddit.com/r/hackers/comments/1innfhy/looking/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hackers/comments/1innfhy/looking/">[comments]</a></span>
+
+## Need Help!
+ - [https://www.reddit.com/r/hackers/comments/1inlsyo/need_help](https://www.reddit.com/r/hackers/comments/1inlsyo/need_help)
+ - RSS feed: $source
+ - date published: 2025-02-12T07:43:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>I need help in reagrds to something but I can&#39;t share details over here as it is related to a female&#39;s secrecy. I can share details in private.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marketingprodxb"> /u/marketingprodxb </a> <br/> <span><a href="https://www.reddit.com/r/hackers/comments/1inlsyo/need_help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hackers/comments/1inlsyo/need_help/">[comments]</a></span>
+
+## Chinese hacking group blamed for cyber attacks on Samoa
+ - [https://www.reddit.com/r/hackers/comments/1iniyrl/chinese_hacking_group_blamed_for_cyber_attacks_on](https://www.reddit.com/r/hackers/comments/1iniyrl/chinese_hacking_group_blamed_for_cyber_attacks_on)
+ - RSS feed: $source
+ - date published: 2025-02-12T04:40:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/hackers/comments/1iniyrl/chinese_hacking_group_blamed_for_cyber_attacks_on/"> <img src="https://external-preview.redd.it/QP_L0nsAHumlD1-WEgBz1XseWHhyN0iRf9SRlzhmJMI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b50fe90f33039d32857af11261d3a3bb4b3aba7d" alt="Chinese hacking group blamed for cyber attacks on Samoa" title="Chinese hacking group blamed for cyber attacks on Samoa" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Miao_Yin8964"> /u/Miao_Yin8964 </a> <br/> <span><a href="https://www.abc.net.au/news/2025-02-12/china-backed-apt40-blamed-for-cyber-attacks-on-samoa/104927412">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hackers/comments/1iniyrl/chinese_hacking_group_blamed_for_cyber_attacks_on/">[comments]</a></span> </td></tr></table>
+
+## WHAT KIND OF A HOUSE WOULD YOU LIKE?
+ - [https://www.reddit.com/r/hackers/comments/1inerwi/what_kind_of_a_house_would_you_like](https://www.reddit.com/r/hackers/comments/1inerwi/what_kind_of_a_house_would_you_like)
+ - RSS feed: $source
+ - date published: 2025-02-12T01:01:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>Basically, Im an Architecture Student, we are designing a living unit for a professional of our choice, I have picked a Hacker as my client. So now comes my question(s). What do you guys for fun, besides the computer stuff?, what are your alternative interests? what inspires you as a hacker? that sort of thing.</p> <p>i dont mind long detailed answers either. the more info the better, it would really help my design process</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spectator_2_0"> /u/spectator_2_0 </a> <br/> <span><a href="https://www.reddit.com/r/hackers/comments/1inerwi/what_kind_of_a_house_would_you_like/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hackers/comments/1inerwi/what_kind_of_a_house_would_you_like/">[comments]</a></span>
+

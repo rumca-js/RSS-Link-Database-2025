@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-12T15:15:07+00:00",
+        "description": "Global warming is producing a rapid loss of plant species -- according to estimates, roughly 600 plant species have died out since 1750 -- twice the number of animal species lost. But which species are hit hardest? And how does altered biodiversity actually affect interactions between plants? Experts have tackled these questions and, in two recent studies, presented the answers they found buried in the past: using fragments of plant genetic material (DNA) deposited in lake sediments, they were able to gain new insights into how the composition of flora changed 15,000 to 11,000 years ago during the warming at the end of the last ice age, which is considered to be the last major mass extinction event before today. This comparison can offer an inkling of what might await us in the future.",
+        "id": 2101168,
+        "language": "en-us",
+        "link": "https://www.sciencedaily.com/releases/2025/02/250212151507.htm",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 188,
+        "source_url": "https://www.sciencedaily.com/rss/all.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Global warming and mass extinctions: What we can learn from plants from the last ice age",
+        "vote": 0
+    }
+]

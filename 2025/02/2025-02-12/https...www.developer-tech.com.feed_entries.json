@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-12T12:46:34+00:00",
+        "description": "<p>Researchers at the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) have developed an innovative new method to protect computers against hardware attacks. Within a computer&#8217;s physical memory, program instructions are stored at specific addresses. Despite efforts to obscure these addresses with techniques like Address Space Layout Randomisation (ASLR), crafty hackers have found ways to<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/mit-researchers-develop-oreo-protect-hardware-attacks/\" title=\"ReadMIT researchers develop \u2018Oreo\u2019 to protect against hardware attacks\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/mit-researchers-develop-oreo-protect-hardware-attacks/\">MIT researchers develop \u2018Oreo\u2019 to protect against hardware attacks</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2098358,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/mit-researchers-develop-oreo-protect-hardware-attacks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "MIT researchers develop \u2018Oreo\u2019 to protect against hardware attacks",
+        "vote": 0
+    }
+]
