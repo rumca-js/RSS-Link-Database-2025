@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-13T05:01:23+00:00",
+        "description": "While Europeans want AI governance to be fair and safe, the vice president said innovators need to be able to take risks necessary to develop the technology.",
+        "id": 2103319,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/tech/at-paris-summit-vance-highlights-how-us-approaches-ai-differently-5809123",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/02/11/id5808228-GettyImages-2198295430-OP-1080x720.jpg",
+        "title": "At Paris Summit, Vance Highlights How US Approaches AI Differently",
+        "vote": 0
+    }
+]

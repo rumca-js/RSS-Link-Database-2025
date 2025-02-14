@@ -1,0 +1,191 @@
+# Source:Linux, GNU/Linux, free software..., URL:https://www.reddit.com/r/linux/.rss, language:en
+
+## The Tale of the Kubernetes Cluster
+ - [https://www.reddit.com/r/linux/comments/1iowqe1/the_tale_of_the_kubernetes_cluster](https://www.reddit.com/r/linux/comments/1iowqe1/the_tale_of_the_kubernetes_cluster)
+ - RSS feed: $source
+ - date published: 2025-02-13T23:26:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>I asked Claude.ai for a plan on my kubernetes cluster, and when it was finalized, I asked it to give me a brief summary of each step, Dr. Seuss style. Here goes.</p> <h1>The Tale of the Kubernetes Cluster</h1> <p>In a network not terribly far, Sat five computers, each like a star. With RAM and processors ready to spring, To do wonderful technical things!</p> <h2>Chapter 1: The Great Backup Plan</h2> <p>Oh, the data you have! It&#39;s all over the place! On encrypted drives, taking up space! But before we begin with our technical spree, We must back it up, carefully, you see. With drives and cables and copies galore, We&#39;ll save all your bits down to their core!</p> <h2>Chapter 2: The Fresh Start Dance</h2> <p>Now wipe those drives clean as can be, For a fresh new start is what we&#39;ll see! Debian servers we&#39;ll install with care, On all five computers sitting there. One master to lead them, four workers to serve, A kubernetes cluster with ple
+
+## Jottr, simple text editor for distraction-free writing
+ - [https://www.reddit.com/r/linux/comments/1iow7od/jottr_simple_text_editor_for_distractionfree](https://www.reddit.com/r/linux/comments/1iow7od/jottr_simple_text_editor_for_distractionfree)
+ - RSS feed: $source
+ - date published: 2025-02-13T23:02:00+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://github.com/mfat/jottr">Jottr</a> is a simple, opinionated, plain text editor I developed primarily for my personal use. It&#39;s mainly intended for writers, researchers and journalists or anyone who needs a simple, distraction-free tool for writing. It&#39;s cross-platform and can be used on Linux, macOS or Windows. The app is released under the GPL v3 license.<span class="md-spoiler-text">&#x200B;</span></p> <p><a href="https://preview.redd.it/jcid7ruzlzie1.png?width=1325&amp;format=png&amp;auto=webp&amp;s=00f4ad871b4d3e10d5faae6cb7ae0105793e7623">https://preview.redd.it/jcid7ruzlzie1.png?width=1325&amp;format=png&amp;auto=webp&amp;s=00f4ad871b4d3e10d5faae6cb7ae0105793e7623</a></p> <p>It has the following features:</p> <ul> <li>Dark, Light and Sepia (paper-like) themes</li> <li>Focus mode - Distraction-free writing made easy by hiding all UI elements (can be toggled with mouse or a keyboard shortcut)</li> <li>Search for any word wi
+
+## Should League of Legends and other games with kernel level anticheat hold me back from switching to linux?
+ - [https://www.reddit.com/r/linux/comments/1iov93c/should_league_of_legends_and_other_games_with](https://www.reddit.com/r/linux/comments/1iov93c/should_league_of_legends_and_other_games_with)
+ - RSS feed: $source
+ - date published: 2025-02-13T22:19:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>as a gamer i don&#39;t want to abandon a big handful of games just because their anticheat system isn&#39;t available on linux. is there a way to play games with kernel level anticheat on linux or should i just stay on windows?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Low-Interest-2274"> /u/Low-Interest-2274 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iov93c/should_league_of_legends_and_other_games_with/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iov93c/should_league_of_legends_and_other_games_with/">[comments]</a></span>
+
+## Zed now predicts your next edit with Zeta, our new open model - Zed Blog
+ - [https://www.reddit.com/r/linux/comments/1iov4jg/zed_now_predicts_your_next_edit_with_zeta_our_new](https://www.reddit.com/r/linux/comments/1iov4jg/zed_now_predicts_your_next_edit_with_zeta_our_new)
+ - RSS feed: $source
+ - date published: 2025-02-13T22:13:59+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/gabriel_3"> /u/gabriel_3 </a> <br/> <span><a href="https://zed.dev/blog/edit-prediction">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iov4jg/zed_now_predicts_your_next_edit_with_zeta_our_new/">[comments]</a></span>
+
+## OpenInfra considers joining the Linux Foundation
+ - [https://www.reddit.com/r/linux/comments/1iov2h0/openinfra_considers_joining_the_linux_foundation](https://www.reddit.com/r/linux/comments/1iov2h0/openinfra_considers_joining_the_linux_foundation)
+ - RSS feed: $source
+ - date published: 2025-02-13T22:11:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Interesting move, which to me seems more about financial sustainability, relevance, and corporate influence than purely benefiting the OpenInfra community. If OpenInfra is financially strong, why the need for LF’s support? Although community feedback is invited, the decision ultimately was up to the Board, and voting was due yesterday EST. Linux Foundation’s corporate influence could also shift OpenInfra’s priorities toward enterprise interests, and I mean, I get it.</p> <p>I’ve often heard (incorrectly) that Openstack is dead, and seems like this move is likely to quiet those voices.</p> <p>Thoughts?</p> <p><a href="https://board.openinfra.org/strategic-consideration/faq">https://board.openinfra.org/strategic-consideration/faq</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vicenormalcrafts"> /u/vicenormalcrafts </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iov2h0/openinfra_considers_jo
+
+## The OBS Project is threatening Fedora Linux with legal action, due to "users complaining upstream thinking they are being served the official package", when they're actually using the Fedora Flatpak. The latter is claimed as being "poorly packaged and broken".
+ - [https://www.reddit.com/r/linux/comments/1iotw5t/the_obs_project_is_threatening_fedora_linux_with](https://www.reddit.com/r/linux/comments/1iotw5t/the_obs_project_is_threatening_fedora_linux_with)
+ - RSS feed: $source
+ - date published: 2025-02-13T21:20:14+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Supermath101"> /u/Supermath101 </a> <br/> <span><a href="https://gitlab.com/fedora/sigs/flatpak/fedora-flatpaks/-/issues/39#note_2344970813">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iotw5t/the_obs_project_is_threatening_fedora_linux_with/">[comments]</a></span>
+
+## Bcachefs Freezes Its On-Disk Format With Future Updates Optional
+ - [https://www.reddit.com/r/linux/comments/1iotejo/bcachefs_freezes_its_ondisk_format_with_future](https://www.reddit.com/r/linux/comments/1iotejo/bcachefs_freezes_its_ondisk_format_with_future)
+ - RSS feed: $source
+ - date published: 2025-02-13T20:59:07+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ehempel"> /u/ehempel </a> <br/> <span><a href="https://www.phoronix.com/news/Bcachefs-On-Disk-Format-Freeze">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iotejo/bcachefs_freezes_its_ondisk_format_with_future/">[comments]</a></span>
+
+## Codeberg - We stay strong against hate and hatred
+ - [https://www.reddit.com/r/linux/comments/1iosy52/codeberg_we_stay_strong_against_hate_and_hatred](https://www.reddit.com/r/linux/comments/1iosy52/codeberg_we_stay_strong_against_hate_and_hatred)
+ - RSS feed: $source
+ - date published: 2025-02-13T20:39:27+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/FryBoyter"> /u/FryBoyter </a> <br/> <span><a href="https://blog.codeberg.org/we-stay-strong-against-hate-and-hatred.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iosy52/codeberg_we_stay_strong_against_hate_and_hatred/">[comments]</a></span>
+
+## How will NPUs effect daily linux use?
+ - [https://www.reddit.com/r/linux/comments/1iosl7o/how_will_npus_effect_daily_linux_use](https://www.reddit.com/r/linux/comments/1iosl7o/how_will_npus_effect_daily_linux_use)
+ - RSS feed: $source
+ - date published: 2025-02-13T20:24:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Will hardware with NPUs or AI co-processors have any effect on the average task of a daily linux desktop user or will they only effect niche workloads?</p> <p>When do you think the basic everyday programs will begin to use them and how will it improve them?</p> <p>What about the kernel/distro/de?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Chronigan2"> /u/Chronigan2 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iosl7o/how_will_npus_effect_daily_linux_use/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iosl7o/how_will_npus_effect_daily_linux_use/">[comments]</a></span>
+
+## My 30s life crisis converted me to Ubuntu
+ - [https://www.reddit.com/r/linux/comments/1ionycg/my_30s_life_crisis_converted_me_to_ubuntu](https://www.reddit.com/r/linux/comments/1ionycg/my_30s_life_crisis_converted_me_to_ubuntu)
+ - RSS feed: $source
+ - date published: 2025-02-13T17:09:02+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Itamar_Ernst"> /u/Itamar_Ernst </a> <br/> <span><a href="/r/Ubuntu/comments/1io2qab/my_30s_life_crisis_converted_me_to_ubuntu/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ionycg/my_30s_life_crisis_converted_me_to_ubuntu/">[comments]</a></span>
+
+## [openSUSE] Tumbleweed Adopts SELinux as Default
+ - [https://www.reddit.com/r/linux/comments/1iomp76/opensuse_tumbleweed_adopts_selinux_as_default](https://www.reddit.com/r/linux/comments/1iomp76/opensuse_tumbleweed_adopts_selinux_as_default)
+ - RSS feed: $source
+ - date published: 2025-02-13T16:16:53+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/gabriel_3"> /u/gabriel_3 </a> <br/> <span><a href="https://news.opensuse.org/2025/02/13/tw-plans-to-adopt-selinux-as-default/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iomp76/opensuse_tumbleweed_adopts_selinux_as_default/">[comments]</a></span>
+
+## Passing the torch on Asahi Linux
+ - [https://www.reddit.com/r/linux/comments/1ioml1y/passing_the_torch_on_asahi_linux](https://www.reddit.com/r/linux/comments/1ioml1y/passing_the_torch_on_asahi_linux)
+ - RSS feed: $source
+ - date published: 2025-02-13T16:12:18+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ouyawei"> /u/ouyawei </a> <br/> <span><a href="https://asahilinux.org/2025/02/passing-the-torch/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ioml1y/passing_the_torch_on_asahi_linux/">[comments]</a></span>
+
+## Resigning as Asahi Linux project lead
+ - [https://www.reddit.com/r/linux/comments/1iom4ho/resigning_as_asahi_linux_project_lead](https://www.reddit.com/r/linux/comments/1iom4ho/resigning_as_asahi_linux_project_lead)
+ - RSS feed: $source
+ - date published: 2025-02-13T15:52:50+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/urzop"> /u/urzop </a> <br/> <span><a href="https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iom4ho/resigning_as_asahi_linux_project_lead/">[comments]</a></span>
+
+## Arch on a 2012 MacBook pro
+ - [https://www.reddit.com/r/linux/comments/1iom0i5/arch_on_a_2012_macbook_pro](https://www.reddit.com/r/linux/comments/1iom0i5/arch_on_a_2012_macbook_pro)
+ - RSS feed: $source
+ - date published: 2025-02-13T15:48:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just got arch on this 2012 MacBook pro and I&#39;m in love with it</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DivaddoMemes"> /u/DivaddoMemes </a> <br/> <span><a href="https://i.redd.it/6k370g2ngxie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iom0i5/arch_on_a_2012_macbook_pro/">[comments]</a></span>
+
+## HOTDOG: X11 Window Manager with Windows 3.1 Hot Dog Stand, Amiga Workbench, Atari ST GEM, Mac Classic and Aqua UI
+ - [https://www.reddit.com/r/linux/comments/1iolteh/hotdog_x11_window_manager_with_windows_31_hot_dog](https://www.reddit.com/r/linux/comments/1iolteh/hotdog_x11_window_manager_with_windows_31_hot_dog)
+ - RSS feed: $source
+ - date published: 2025-02-13T15:39:21+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Unprotectedtxt"> /u/Unprotectedtxt </a> <br/> <span><a href="https://github.com/arthurchoung/HOTDOG">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iolteh/hotdog_x11_window_manager_with_windows_31_hot_dog/">[comments]</a></span>
+
+## Is there a task scheduler that executes tasks in the user/desktop environment (as opposed to things like cron and systemd services)?
+ - [https://www.reddit.com/r/linux/comments/1iokmec/is_there_a_task_scheduler_that_executes_tasks_in](https://www.reddit.com/r/linux/comments/1iokmec/is_there_a_task_scheduler_that_executes_tasks_in)
+ - RSS feed: $source
+ - date published: 2025-02-13T14:46:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>So you could schedule any script that works from your GUI terminal in your desktop environment, and it will simply work the same.</p> <p>For example, I´d schedule a script that shows a GUI notification if a certain condition is met, and when I click the notification it opens a GUI application (that may or may not already be running) on my desktop.</p> <p>I&#39;ve wrestled with cron a lot over the years to get things working, and I&#39;m just tired of it. Quickly scheduling a task turns into lots of debugging and hunting down all kinds of obscure information to get your script to work in whatever barebones environment cron runs it in, whereas all you actually want is to run it in the same desktop environment you&#39;re using all day. (E.g. you have to gather and set the DBUS_SESSION_BUS_ADDRESS, DISPLAY=:0, use full paths, use su with the right arguments etc. and then it may still not work as intended.)</p> <p>Seems cron is not the right tool for the 
+
+## zsh not working
+ - [https://www.reddit.com/r/linux/comments/1ioiyuo/zsh_not_working](https://www.reddit.com/r/linux/comments/1ioiyuo/zsh_not_working)
+ - RSS feed: $source
+ - date published: 2025-02-13T13:25:28+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/kopachke"> /u/kopachke </a> <br/> <span><a href="https://i.redd.it/vmg9ds87rwie1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ioiyuo/zsh_not_working/">[comments]</a></span>
+
+## I am the only Linux user who doesn't care what other people use?
+ - [https://www.reddit.com/r/linux/comments/1ioiw0q/i_am_the_only_linux_user_who_doesnt_care_what](https://www.reddit.com/r/linux/comments/1ioiw0q/i_am_the_only_linux_user_who_doesnt_care_what)
+ - RSS feed: $source
+ - date published: 2025-02-13T13:21:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>I really love Linux! I saw Linux first time in 1993, and I ran Linux on my own computer in 1994. I love all the interesting things you can do with Linux: Embedded systems, advanced routing, virtualization/containerization, media platforms, ... I get totally high and energized when I hear people at conferences give talks about new wild things Linux can do. Yay!</p> <p>But a thing I really don&#39;t care about is if people use other platforms, OSes, editors, distributions, desktop systems, or programming languages ... than I prefer. If you like it, use it. If it makes you happy, wealthy, excited, clever, self-esteemed, whatever ... please go ahead and give it all you have. Just because I love Linux doesn&#39;t mean that I hate Windows. Just because I use Visual Studio Code doesn&#39;t mean that I can&#39;t work with Vim or Emacs.</p> <p>I feel like one lucky bastard that I got to work with and make good money from what I really like and happen to be go
+
+## The Color Management protocol has been merged into upstream!
+ - [https://www.reddit.com/r/linux/comments/1iohwrf/the_color_management_protocol_has_been_merged](https://www.reddit.com/r/linux/comments/1iohwrf/the_color_management_protocol_has_been_merged)
+ - RSS feed: $source
+ - date published: 2025-02-13T12:25:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>After 5 years, the color management protocol has been finally merged into upstream wayland-protocols!</p> <p><a href="https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/14">https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/14</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ImOnlyFire"> /u/ImOnlyFire </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iohwrf/the_color_management_protocol_has_been_merged/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iohwrf/the_color_management_protocol_has_been_merged/">[comments]</a></span>
+
+## Hey has Ubuntu Server ever randomly changed a users UID?
+ - [https://www.reddit.com/r/linux/comments/1ioh2b7/hey_has_ubuntu_server_ever_randomly_changed_a](https://www.reddit.com/r/linux/comments/1ioh2b7/hey_has_ubuntu_server_ever_randomly_changed_a)
+ - RSS feed: $source
+ - date published: 2025-02-13T11:31:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m not certain, but all of a sudden some of my directories were owned by UID 1002, but I dont remember adding or removing a user from the server. Cant find any evidence of users being created or deleted, or any intrusion.</p> <p>If say someone did get into my little home server, what would be the benefit of creating a user and chown-ing thse directories to them?</p> <p>Edit: Sorry all, I didnt realise that this was the wrong place to ask for help. That said, the plot has thickened, I messed around with my vpn setup and accidentally locked myself out of the server so I had to reboot and found that the directory ownership had changed to 1002 again on boot. IDK why it&#39;s doing this but I&#39;ll continue to troubleshoot and I&#39;ll make another thread in the proper place if I need help.</p> <p>Thx for the help, I&#39;ll delete this thread shortly</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kriztov"> /u/
+
+## As someone who isn't tech-savvy and grew up using Windows, I started using Linux.
+ - [https://www.reddit.com/r/linux/comments/1ioguph/as_someone_who_isnt_techsavvy_and_grew_up_using](https://www.reddit.com/r/linux/comments/1ioguph/as_someone_who_isnt_techsavvy_and_grew_up_using)
+ - RSS feed: $source
+ - date published: 2025-02-13T11:17:25+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>It started with: Grew an Appreciation for the CLI</strong></p> <p>Growing up in the Windows era, GUI was the norm for me. I used to hate the terminal, CLI, and anything similar—it was just a screen full of text, tedious, visually unappealing, and filled with random junk like <code>ls -la</code> (God knows what that was supposed to mean).</p> <p>But long story short: one day, I needed to quickly set up a simple database to store something. I had only learned MySQL before, but since this was something small and simple, I decided to go with SQLite. Normally, I would look for a tutorial, find the best IDE, and set up all the shiny tools. But since I needed this done quickly, I thought, <em>Why not try the terminal and just hack something together real quick?</em> And damn—was it efficient. I didn’t need to learn how to use an IDE, I didn’t have to stare at a cluttered interface full of buttons and text, and I didn’t have to dig through menus to f
+
+## Why not just have a styling clients format your code to the coding standards?
+ - [https://www.reddit.com/r/linux/comments/1iogd72/why_not_just_have_a_styling_clients_format_your](https://www.reddit.com/r/linux/comments/1iogd72/why_not_just_have_a_styling_clients_format_your)
+ - RSS feed: $source
+ - date published: 2025-02-13T10:43:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>I can understand coding standards things like prefer using stacks then heaps these are implementation based standards and adapting to them is programmers responsibility </p> <p>but things like put a newline at the end of file or put a copyright or write every element of an array on new line if it&#39;s a string can be automated easily by current formatters in fact i believe that instead of having different standards across different repositories just have one standardized formatting tool that makes it pretty easy for programmers to adapt to new code I mean programmers responsibility is focusing on implementation and thinking of how to solve the problem more efficiently</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Glittering_Boot_3612"> /u/Glittering_Boot_3612 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iogd72/why_not_just_have_a_styling_clients_format_your/">[link]</a></span> &#32; <spa
+
+## Orbitiny Desktop Update: Migrated to SourceForge + New Release with Many BugFixes and Improvements (Also, the panel can act and look like a dock)
+ - [https://www.reddit.com/r/linux/comments/1iofnuu/orbitiny_desktop_update_migrated_to_sourceforge](https://www.reddit.com/r/linux/comments/1iofnuu/orbitiny_desktop_update_migrated_to_sourceforge)
+ - RSS feed: $source
+ - date published: 2025-02-13T09:51:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>This is to let you know that I have migrated my work to <strong>SourceForge</strong> so from this point onward, you can find my work on <strong>SourceForge</strong> here: <a href="https://sourceforge.net/projects/orbitiny-desktop/files/">https://sourceforge.net/projects/orbitiny-desktop/files/</a> and I&#39;ve just uploaded a new release with many improvements. Also, I am happy to say that I have <strong>removed</strong> the <strong>binary releases</strong> from my repository containing the code so from this point onward, you will be getting <strong>very light downloads</strong> when cloning the repo. People complained / notified me, I heard you, I acted.</p> <p>So what has happened since the original release announcement? Well a lot, and don&#39;t forget, this is work in progress.</p> <ul> <li><strong>Orbitiny Desktop</strong> - Expanded file emblems to non-folders too (initially it only worked on directories only) so let&#39;s say you have a text f
+
+## Converation on CentOS Stream patching from a deleted thread...
+ - [https://www.reddit.com/r/linux/comments/1iodhke/converation_on_centos_stream_patching_from_a](https://www.reddit.com/r/linux/comments/1iodhke/converation_on_centos_stream_patching_from_a)
+ - RSS feed: $source
+ - date published: 2025-02-13T07:04:57+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="/u/gordonmessmer">u/gordonmessmer</a> and <a href="/u/carlwgeorge">u/carlwgeorge</a> not sure if you have seen my respond to that thread but I&#39;m genuinely interested if there is any effort tracking the time to resolution of important/critical CVEs in CentOS Stream and RHEL.</p> <p>At work we are looking migrating from CS9 to Rocky/Alma after their el10 releases are out because in the last 2 years we have seen a number of instances of delayed patches for things that we care about - ssh, openjdk, squid etc.</p> <p>(Yes we are aware Stream is not for production but we were not in the position to buy RHEL nor to use Rocky/Alma as the default back then...)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mehx9"> /u/mehx9 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iodhke/converation_on_centos_stream_patching_from_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/li
+
+## Making a custom minimal distribution
+ - [https://www.reddit.com/r/linux/comments/1io87kt/making_a_custom_minimal_distribution](https://www.reddit.com/r/linux/comments/1io87kt/making_a_custom_minimal_distribution)
+ - RSS feed: $source
+ - date published: 2025-02-13T01:58:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve been working on a personal project which is what I call a desktop distributed system. It’s a network of single board computers, a variety raspberry pis. Initially it serves as a render farm for running POVRay. I’d like to have a custom distribution that only runs POVRay and maybe ffmpeg as well as my own worker servers. Is Linux from scratch still the way to go with learning how to do that or is there something newer?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JohnVonachen"> /u/JohnVonachen </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1io87kt/making_a_custom_minimal_distribution/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1io87kt/making_a_custom_minimal_distribution/">[comments]</a></span>
+
+## How many of you run completely different distros/DEs on different systems, instead of using the same thing everywhere?
+ - [https://www.reddit.com/r/linux/comments/1io6ydy/how_many_of_you_run_completely_different](https://www.reddit.com/r/linux/comments/1io6ydy/how_many_of_you_run_completely_different)
+ - RSS feed: $source
+ - date published: 2025-02-13T00:56:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>A lot of people swear by the desktop distro+DE that they love and use everywhere, but I find myself making very different choices depending on the use case of that specific system. I have 2 systems with Gentoo+KDE, 1 system with Fedora+KDE, 1 system with Debian+XFCE, and one system with OpenBSD+XFCE, and I am happy with my choices on all of them.</p> <p>I&#39;m interested to hear other people&#39;s thoughts on the matter.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/anh0516"> /u/anh0516 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1io6ydy/how_many_of_you_run_completely_different/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1io6ydy/how_many_of_you_run_completely_different/">[comments]</a></span>
+
+## Why is arch linux considered so complicated?
+ - [https://www.reddit.com/r/linux/comments/1io6krr/why_is_arch_linux_considered_so_complicated](https://www.reddit.com/r/linux/comments/1io6krr/why_is_arch_linux_considered_so_complicated)
+ - RSS feed: $source
+ - date published: 2025-02-13T00:37:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Im like kind of a noob. But I installed and currently use arch linux fine no problem, and running it is basically no different from any of the other &quot;beginner-friendly&quot; distros (ubuntu, mint, stuff like that). The only thing that could be considered hard is the installation process. After that, it&#39;s just `pacman -S &lt;bunchofpackages&gt;` and ur good to go. It seems to me like the entire &quot;i use arch btw&quot; meme is quite overplayed (although I still use it all the time anything to be superior lmao)</p> <p>EDIT: guys pls read the entire fucking post before responding</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lych33je11y"> /u/lych33je11y </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1io6krr/why_is_arch_linux_considered_so_complicated/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1io6krr/why_is_arch_linux_considered_so_complicated/">
+

@@ -1,0 +1,261 @@
+# Source:Retro Gaming: Reddit's home of vintage gaming, URL:https://www.reddit.com/r/retrogaming/.rss, language:en
+
+## More forgotten hard as nails platformers.
+ - [https://www.reddit.com/r/retrogaming/comments/1ioww1u/more_forgotten_hard_as_nails_platformers](https://www.reddit.com/r/retrogaming/comments/1ioww1u/more_forgotten_hard_as_nails_platformers)
+ - RSS feed: $source
+ - date published: 2025-02-13T23:33:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve been thinking a bit lately on old platformers I used to play a lot. Seen a few post about ghost and goblins/ghouls. That game I love but never completed. </p> <p>Anyone remember dark castle. Can’t even think what it was on. Maybe amiga. You had to get your timing just so. </p> <p>Another was Rick dangerous 1 and 2. Both wickedly hard. But great fun. </p> <p>Rustan saga was another. Toki to which has been re colored and on Xbox is awesome. </p> <p>Two others I’d love to get my hands on again are ps1. Pandemonium and ape escape. Both two games I played to much. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Manical-alfasist"> /u/Manical-alfasist </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ioww1u/more_forgotten_hard_as_nails_platformers/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ioww1u/more_forgotten_hard_as_nails_platformers/">[commen
+
+## Question about TVs and multiple resolutions
+ - [https://www.reddit.com/r/retrogaming/comments/1iowt8t/question_about_tvs_and_multiple_resolutions](https://www.reddit.com/r/retrogaming/comments/1iowt8t/question_about_tvs_and_multiple_resolutions)
+ - RSS feed: $source
+ - date published: 2025-02-13T23:29:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a nice big CRT. However I also want something that is large, fits on my display cabinet, and I can hook up my 360, switch, PS3, and Wii. </p> <p>I found Plasma TVs have less response time then the cheap used LED tvs in my area. The specs say 1080p, and accepts 1080i, 720p, 480p, 480i. Does this mean the TV will natively display at these resolutions when provided with the corresponding signal? or would the TV be upscaling those signals to 1080p?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lucky-Mia"> /u/Lucky-Mia </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1iowt8t/question_about_tvs_and_multiple_resolutions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iowt8t/question_about_tvs_and_multiple_resolutions/">[comments]</a></span>
+
+## Can someone tell me the name of this game I slightly remember?
+ - [https://www.reddit.com/r/retrogaming/comments/1iowcht/can_someone_tell_me_the_name_of_this_game_i](https://www.reddit.com/r/retrogaming/comments/1iowcht/can_someone_tell_me_the_name_of_this_game_i)
+ - RSS feed: $source
+ - date published: 2025-02-13T23:08:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>I everyone!</p> <p>As the title says, this is almost an impossible task. I have very few memories of a game I used to play into an arcade, but since I was a kid I really remember just a couple of things.</p> <p>1) The game was about saving a kidnapped girl. I think she had blonde hair but I&#39;m not sure. There were some cutscenes where you could see they kidnapped the girl and then the girl like was held in some place and tortured with some &quot;electric&quot; waves.</p> <p>2) The bad guys were wearing purple hoods.</p> <p>I think the game was taking place in the present or in a kind of very close future since I remember (but I&#39;m not sure about it) you had like guns (or laser guns) and could shoot to the enemies. </p> <p>I really don&#39;t remember anything more, but those guys with the purple hoods and the kidnapped lady situation was so disturbing for me that I&#39;d love to find out what game it was. Maybe someone who played it can understa
+
+## Starting Retro Gaming journey
+ - [https://www.reddit.com/r/retrogaming/comments/1iovosb/starting_retro_gaming_journey](https://www.reddit.com/r/retrogaming/comments/1iovosb/starting_retro_gaming_journey)
+ - RSS feed: $source
+ - date published: 2025-02-13T22:38:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m a 20 year old male college student and growing up I had no siblings so I was really into gaming from a super young age, got a gameboy at 3, GameCube at 4, Ps2 at 5 and so on. Long story short I had to give my Ps2 away when I was about 8 to an aunt who used it as a DVD player and then as an ashtray, still have my games for it and all my other consoles including a perfect condition GameCube but I want a new Ps2 to play some of the older titles not available anymore. Scarface, Simpsons hit and Run, stuff like that. Anyway I’m still a college student so what’s your guys’ recommendation for an affordable website to buy consoles and games, can’t afford DkOldies prices so I’m praying for a 60$ yard sale treasure find right now haha. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/souljalexis"> /u/souljalexis </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1iovosb/starting_retro_gaming_journ
+
+## Let’s talk about Saturn RPGs to see how many good ones existed on the platform
+ - [https://www.reddit.com/r/retrogaming/comments/1iotic1/lets_talk_about_saturn_rpgs_to_see_how_many_good](https://www.reddit.com/r/retrogaming/comments/1iotic1/lets_talk_about_saturn_rpgs_to_see_how_many_good)
+ - RSS feed: $source
+ - date published: 2025-02-13T21:03:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>To provide a bit of backstory, I wanted to do a fun little experiment where the goal is to write down a list of awesome or cool RPGs that were made on systems from way back then to see how many RPGs were made on the Saturn’s hardware because I am a collector.</p> <p>While I do enjoy emulating old software personally, I wanted to seek out the Sega Saturn for the aforementioned RPG library to see if there were any games that could rival the design aspects of Final Fantasy 7 itself to see what Sega’s answer to the game was back then regarding riveting RPGs with a riveting experience.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KaleidoArachnid"> /u/KaleidoArachnid </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1iotic1/lets_talk_about_saturn_rpgs_to_see_how_many_good/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iotic1/lets_talk_about_saturn_rpgs_
+
+## Mister Addons Reflex Volt cable compatibility?
+ - [https://www.reddit.com/r/retrogaming/comments/1iotgll/mister_addons_reflex_volt_cable_compatibility](https://www.reddit.com/r/retrogaming/comments/1iotgll/mister_addons_reflex_volt_cable_compatibility)
+ - RSS feed: $source
+ - date published: 2025-02-13T21:01:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was hoping to replace my large surge protector and multiple wall warts with these cords (<a href="https://misteraddons.com/products/console-usb-power-delivery-cables">https://misteraddons.com/products/console-usb-power-delivery-cables</a>) and a multi port USB-C power supply. Mister Addons have their own 2 port power bricks, but I was wondering if anyone had any luck with their own usbc power supplies.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Marionat0r"> /u/Marionat0r </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1iotgll/mister_addons_reflex_volt_cable_compatibility/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iotgll/mister_addons_reflex_volt_cable_compatibility/">[comments]</a></span>
+
+## A Love Letter to 16-Bit Platformers (in Space!)
+ - [https://www.reddit.com/r/retrogaming/comments/1iotdob/a_love_letter_to_16bit_platformers_in_space](https://www.reddit.com/r/retrogaming/comments/1iotdob/a_love_letter_to_16bit_platformers_in_space)
+ - RSS feed: $source
+ - date published: 2025-02-13T20:58:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iotdob/a_love_letter_to_16bit_platformers_in_space/"> <img src="https://preview.redd.it/0fvibsltzyie1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=89ad2f16218011a2d5ed16a5dfc7eeedce4f57ce" alt="A Love Letter to 16-Bit Platformers (in Space!)" title="A Love Letter to 16-Bit Platformers (in Space!)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tylar_io"> /u/Tylar_io </a> <br/> <span><a href="https://i.redd.it/0fvibsltzyie1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iotdob/a_love_letter_to_16bit_platformers_in_space/">[comments]</a></span> </td></tr></table>
+
+## Packapunch RGB Scart cables for SNES/GC/N64
+ - [https://www.reddit.com/r/retrogaming/comments/1iotd72/packapunch_rgb_scart_cables_for_snesgcn64](https://www.reddit.com/r/retrogaming/comments/1iotd72/packapunch_rgb_scart_cables_for_snesgcn64)
+ - RSS feed: $source
+ - date published: 2025-02-13T20:57:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi guys. Just got myself a decent CRT recently and was looking into getting an RGB scart cable for the above mentioned systems. My question is, do I need to get a separate cable for each system? If so, why is that? I&#39;m guessing the answer is yes, otherwise they wouldn&#39;t be selling the cables for specific systems. Can someone enlighten me? Cheers!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kev_jin"> /u/kev_jin </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1iotd72/packapunch_rgb_scart_cables_for_snesgcn64/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iotd72/packapunch_rgb_scart_cables_for_snesgcn64/">[comments]</a></span>
+
+## Always!
+ - [https://www.reddit.com/r/retrogaming/comments/1iotc7y/always](https://www.reddit.com/r/retrogaming/comments/1iotc7y/always)
+ - RSS feed: $source
+ - date published: 2025-02-13T20:56:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iotc7y/always/"> <img src="https://preview.redd.it/4r88o6pnzyie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=74495fb2716764d2bf696cba0f73a3f58d7d8159" alt="Always!" title="Always!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JamJarz5"> /u/JamJarz5 </a> <br/> <span><a href="https://i.redd.it/4r88o6pnzyie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iotc7y/always/">[comments]</a></span> </td></tr></table>
+
+## Retro second hand SAVE FILE NAMES and hours sinked in are always a window to the previous owners soul. What’s your discoveries on thrifted / 2nd game save files?
+ - [https://www.reddit.com/r/retrogaming/comments/1iot6fx/retro_second_hand_save_file_names_and_hours](https://www.reddit.com/r/retrogaming/comments/1iot6fx/retro_second_hand_save_file_names_and_hours)
+ - RSS feed: $source
+ - date published: 2025-02-13T20:49:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iot6fx/retro_second_hand_save_file_names_and_hours/"> <img src="https://preview.redd.it/nxbn81tfyyie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d72c171e200c302ca0592ca9e857a62905269b43" alt="Retro second hand SAVE FILE NAMES and hours sinked in are always a window to the previous owners soul. What’s your discoveries on thrifted / 2nd game save files?" title="Retro second hand SAVE FILE NAMES and hours sinked in are always a window to the previous owners soul. What’s your discoveries on thrifted / 2nd game save files?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Retrogamesman"> /u/Retrogamesman </a> <br/> <span><a href="https://i.redd.it/nxbn81tfyyie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iot6fx/retro_second_hand_save_file_names_and_hours/">[comments]</a></span> </td></tr></table>
+
+## I remember getting some variant of this and being so underwhelmed, you need to find the perfect angle, and the blur on it and it is just like shining a cheap flashlight on the screen. I even had one for the GBA and the magnifying screen was so bad, how about you ?
+ - [https://www.reddit.com/r/retrogaming/comments/1ios2b2/i_remember_getting_some_variant_of_this_and_being](https://www.reddit.com/r/retrogaming/comments/1ios2b2/i_remember_getting_some_variant_of_this_and_being)
+ - RSS feed: $source
+ - date published: 2025-02-13T20:01:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ios2b2/i_remember_getting_some_variant_of_this_and_being/"> <img src="https://preview.redd.it/805c59popyie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4dccba08b09555ff9a76ac78812e973154334390" alt="I remember getting some variant of this and being so underwhelmed, you need to find the perfect angle, and the blur on it and it is just like shining a cheap flashlight on the screen. I even had one for the GBA and the magnifying screen was so bad, how about you ?" title="I remember getting some variant of this and being so underwhelmed, you need to find the perfect angle, and the blur on it and it is just like shining a cheap flashlight on the screen. I even had one for the GBA and the magnifying screen was so bad, how about you ?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/2old4ZisShit"> /u/2old4ZisShit </a> <br/> <span><a href="https://i.redd.it/805c59popyie1.jpeg">[link]
+
+## First run Magnavox odyssey. Worth it to try and repair?
+ - [https://www.reddit.com/r/retrogaming/comments/1iorypl/first_run_magnavox_odyssey_worth_it_to_try_and](https://www.reddit.com/r/retrogaming/comments/1iorypl/first_run_magnavox_odyssey_worth_it_to_try_and)
+ - RSS feed: $source
+ - date published: 2025-02-13T19:57:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iorypl/first_run_magnavox_odyssey_worth_it_to_try_and/"> <img src="https://b.thumbs.redditmedia.com/2KL5CR9Z-tsb9UHvHcrW77GuVBrEB9ztTu33CRKTgCc.jpg" alt="First run Magnavox odyssey. Worth it to try and repair?" title="First run Magnavox odyssey. Worth it to try and repair?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hello, a couple of months ago my family bought a neighbors house that had an almost mint condition Magnavox Odyssey. Its really a pretty incredible find. It has just about everything except the switch box and original manual. However, it has electrical issues galore. Just about the only thing that works is the horizontal pulse and player one spot generator. Besides that no ball, wall, or player 2. Incredibly, the service manual is online and incredibly well detailed. They basically give you the entire schematic. Its all discrete so I think many if not all the components can be replaced with 
+
+## Meet me and @PixelGameSquad this June! #videogames #retrogaming #retrogames
+ - [https://www.reddit.com/r/retrogaming/comments/1ioqx83/meet_me_and_pixelgamesquad_this_june_videogames](https://www.reddit.com/r/retrogaming/comments/1ioqx83/meet_me_and_pixelgamesquad_this_june_videogames)
+ - RSS feed: $source
+ - date published: 2025-02-13T19:13:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Road to 100k </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Terror_Up"> /u/Terror_Up </a> <br/> <span><a href="https://youtube.com/shorts/uKQ5VKkn4OA?si=DJzXorEjUBEXTV_2">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ioqx83/meet_me_and_pixelgamesquad_this_june_videogames/">[comments]</a></span>
+
+## Am I the only one to play Stone Protectors?
+ - [https://www.reddit.com/r/retrogaming/comments/1ioqwh9/am_i_the_only_one_to_play_stone_protectors](https://www.reddit.com/r/retrogaming/comments/1ioqwh9/am_i_the_only_one_to_play_stone_protectors)
+ - RSS feed: $source
+ - date published: 2025-02-13T19:12:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ioqwh9/am_i_the_only_one_to_play_stone_protectors/"> <img src="https://preview.redd.it/nthofxe6hyie1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=199a7d92ba0c729d17e9a90a5f7bf0f9651cbfac" alt="Am I the only one to play Stone Protectors?" title="Am I the only one to play Stone Protectors?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I need to know if I’m alone in the universe? I don’t think I’ve ever seen anyone post about this here or any other forum. I don’t know how I got my hands on this as I kid but I absolutely loved it. I also had a couple of the action figures growing up till I lost them in a fire. RIP little buddies 🖤</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Charming_Part_2430"> /u/Charming_Part_2430 </a> <br/> <span><a href="https://i.redd.it/nthofxe6hyie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments
+
+## Need help identifying game
+ - [https://www.reddit.com/r/retrogaming/comments/1ioqbww/need_help_identifying_game](https://www.reddit.com/r/retrogaming/comments/1ioqbww/need_help_identifying_game)
+ - RSS feed: $source
+ - date published: 2025-02-13T18:49:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey folks, I&#39;m reaching out to get some help with finding a game that is lodged in my memory. I was very young when I played this, so I apologize for any vague details or inaccuracies.</p> <p>So I remember the game as being an NES side scroller where you are some type of agent like 007, wearing a white outfit. However, the setting and situations didn&#39;t quite match up to 007. Like, I distinctly remember the levels being in a sewer and it was either the game over screen or the level-completed screen, but it would have a simple cinematic of a zombie or some type of humanoid, and this creatures head being blown off.</p> <p>Doing my own searching, Bionic Commando is the only game that comes up with an exploding head, but that is not the game. </p> <p>Any help would be appreciated, I can&#39;t shake this game out of my head!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/paul_paints"> /u/paul_paints </a> <br/
+
+## The X-Files Game: A Dream Come True for a Fan
+ - [https://www.reddit.com/r/retrogaming/comments/1ioq5m6/the_xfiles_game_a_dream_come_true_for_a_fan](https://www.reddit.com/r/retrogaming/comments/1ioq5m6/the_xfiles_game_a_dream_come_true_for_a_fan)
+ - RSS feed: $source
+ - date published: 2025-02-13T18:41:36+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/LoanNo2930"> /u/LoanNo2930 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ioq54a">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ioq5m6/the_xfiles_game_a_dream_come_true_for_a_fan/">[comments]</a></span>
+
+## Which Retro Zelda Game Should I Pick First? (Never Played a Zelda or Any RPG Before)
+ - [https://www.reddit.com/r/retrogaming/comments/1iopa62/which_retro_zelda_game_should_i_pick_first_never](https://www.reddit.com/r/retrogaming/comments/1iopa62/which_retro_zelda_game_should_i_pick_first_never)
+ - RSS feed: $source
+ - date published: 2025-02-13T18:04:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iopa62/which_retro_zelda_game_should_i_pick_first_never/"> <img src="https://preview.redd.it/achsnj515yie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2548a835312f15eef800426f390e60f4fa529faf" alt="Which Retro Zelda Game Should I Pick First? (Never Played a Zelda or Any RPG Before)" title="Which Retro Zelda Game Should I Pick First? (Never Played a Zelda or Any RPG Before)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I’ve never played a Zelda game before, or any RPG/JRPG for that matter. I’ve mostly stuck to action platformers like Mario, Contra, Metroid, and Castlevania, but I keep hearing how amazing the Zelda series is. I want to finally give it a try, but I’m not sure where to start.</p> <p>For a total newcomer to both Zelda and RPG-style games, which retro Zelda game would be the best introduction? I have access to NES, SNES, N64, NDS and GBA titles, so I can play the clas
+
+## Don’t sleep on the Scalable Video Switch
+ - [https://www.reddit.com/r/retrogaming/comments/1iop8sw/dont_sleep_on_the_scalable_video_switch](https://www.reddit.com/r/retrogaming/comments/1iop8sw/dont_sleep_on_the_scalable_video_switch)
+ - RSS feed: $source
+ - date published: 2025-02-13T18:03:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iop8sw/dont_sleep_on_the_scalable_video_switch/"> <img src="https://external-preview.redd.it/gVLIh9QW8RL-vkoyjOmKhmaSsLh9pS3OZ8vzcLM-t34.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f41070eaaa51875efcb2e4ba20eabe484af6eec7" alt="Don’t sleep on the Scalable Video Switch" title="Don’t sleep on the Scalable Video Switch" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hey everyone. Just wanted to share my experience with the recently released (and currently sold out) Scalable Video Switch. </p> <p>Prior to getting the SVS, i was like most everyone else - using whatever analog switch box I could find in order to hook up the older consoles. I was lucky enough to source a cheap old Zektor component switch that was missing the remote and power supply. Somehow, I made it all work, plugged it into my Retrotink, and all seemed great. </p> <p>And then, I stumbled upon the SVS - A modular switch box that allowed me 
+
+## My PlayStation discs wont spin when switching disc.
+ - [https://www.reddit.com/r/retrogaming/comments/1ionxv0/my_playstation_discs_wont_spin_when_switching_disc](https://www.reddit.com/r/retrogaming/comments/1ionxv0/my_playstation_discs_wont_spin_when_switching_disc)
+ - RSS feed: $source
+ - date published: 2025-02-13T17:08:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m trying to play the PAL version of MGS Special Missions which requires a disc of MGS which I have, when I put in special missions it tells me to insert a disc of MGS which I do and then nothing happens. Both versions are the PAL version as well. Any help on how to fix greatly appreciated!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DonoMitchell45"> /u/DonoMitchell45 </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ionxv0/my_playstation_discs_wont_spin_when_switching_disc/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ionxv0/my_playstation_discs_wont_spin_when_switching_disc/">[comments]</a></span>
+
+## Will an RCA to Scary allow me to have color picture?
+ - [https://www.reddit.com/r/retrogaming/comments/1ionrlx/will_an_rca_to_scary_allow_me_to_have_color](https://www.reddit.com/r/retrogaming/comments/1ionrlx/will_an_rca_to_scary_allow_me_to_have_color)
+ - RSS feed: $source
+ - date published: 2025-02-13T17:01:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>Will an RCA to Scary allow me to have color picture with an ODV-GBS-C using my RCA Switch?</p> <p>I got one from a friend he says it doesn&#39;t support rca, will this solution work or do i need to get scart for each individual console?</p> <p>Nes, snes, sega etc.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tranksBREAKS"> /u/tranksBREAKS </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ionrlx/will_an_rca_to_scary_allow_me_to_have_color/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ionrlx/will_an_rca_to_scary_allow_me_to_have_color/">[comments]</a></span>
+
+## Is the rumor games were harder in us because of renting?
+ - [https://www.reddit.com/r/retrogaming/comments/1ionnby/is_the_rumor_games_were_harder_in_us_because_of](https://www.reddit.com/r/retrogaming/comments/1ionnby/is_the_rumor_games_were_harder_in_us_because_of)
+ - RSS feed: $source
+ - date published: 2025-02-13T16:56:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>I m curious is the rumor a myth that sega ,Nintendo games. Were made harder in western markets because of renting games . Rent it again, company make more money? Is true, can someone give clues , I really want to research this </p> <p>Thanks in advance </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gulas_man"> /u/Gulas_man </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ionnby/is_the_rumor_games_were_harder_in_us_because_of/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ionnby/is_the_rumor_games_were_harder_in_us_because_of/">[comments]</a></span>
+
+## Who knew about this???
+ - [https://www.reddit.com/r/retrogaming/comments/1iomz1f/who_knew_about_this](https://www.reddit.com/r/retrogaming/comments/1iomz1f/who_knew_about_this)
+ - RSS feed: $source
+ - date published: 2025-02-13T16:28:23+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/jdubbinsyo"> /u/jdubbinsyo </a> <br/> <span><a href="/r/dreamcast/comments/1iomvqq/who_knew_about_this/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iomz1f/who_knew_about_this/">[comments]</a></span>
+
+## Cheap bit of fun or actual garbage?
+ - [https://www.reddit.com/r/retrogaming/comments/1iom6oy/cheap_bit_of_fun_or_actual_garbage](https://www.reddit.com/r/retrogaming/comments/1iom6oy/cheap_bit_of_fun_or_actual_garbage)
+ - RSS feed: $source
+ - date published: 2025-02-13T15:55:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iom6oy/cheap_bit_of_fun_or_actual_garbage/"> <img src="https://preview.redd.it/2axm9pizhxie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=62c5889c19464e758e1b1f6d9b540ac52b8c43fd" alt="Cheap bit of fun or actual garbage?" title="Cheap bit of fun or actual garbage?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Has anybody here actually bought one of these and if so can you curb my curiosity to the quality and games which they are pre loaded with?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BACKDO0RHER0"> /u/BACKDO0RHER0 </a> <br/> <span><a href="https://i.redd.it/2axm9pizhxie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iom6oy/cheap_bit_of_fun_or_actual_garbage/">[comments]</a></span> </td></tr></table>
+
+## Whew! With a bunch of well placed Save-States, I finally saved Madonna!!!
+ - [https://www.reddit.com/r/retrogaming/comments/1ioltf6/whew_with_a_bunch_of_well_placed_savestates_i](https://www.reddit.com/r/retrogaming/comments/1ioltf6/whew_with_a_bunch_of_well_placed_savestates_i)
+ - RSS feed: $source
+ - date published: 2025-02-13T15:39:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ioltf6/whew_with_a_bunch_of_well_placed_savestates_i/"> <img src="https://b.thumbs.redditmedia.com/r6takhlKWegma3a0vViYAIWXXj-11D0EGVEEf5Bwl7E.jpg" alt="Whew! With a bunch of well placed Save-States, I finally saved Madonna!!!" title="Whew! With a bunch of well placed Save-States, I finally saved Madonna!!!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/webwolfe3"> /u/webwolfe3 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ioltf6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ioltf6/whew_with_a_bunch_of_well_placed_savestates_i/">[comments]</a></span> </td></tr></table>
+
+## Just out of curiosity - Compugraph Foto by Atari (1976)
+ - [https://www.reddit.com/r/retrogaming/comments/1iolqk9/just_out_of_curiosity_compugraph_foto_by_atari](https://www.reddit.com/r/retrogaming/comments/1iolqk9/just_out_of_curiosity_compugraph_foto_by_atari)
+ - RSS feed: $source
+ - date published: 2025-02-13T15:35:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iolqk9/just_out_of_curiosity_compugraph_foto_by_atari/"> <img src="https://preview.redd.it/7tjsoax8exie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5a967ae787340ad3e8190ad3055e19b355491402" alt="Just out of curiosity - Compugraph Foto by Atari (1976)" title="Just out of curiosity - Compugraph Foto by Atari (1976)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/codestormer"> /u/codestormer </a> <br/> <span><a href="https://i.redd.it/7tjsoax8exie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iolqk9/just_out_of_curiosity_compugraph_foto_by_atari/">[comments]</a></span> </td></tr></table>
+
+## When my nes is hooked up to my CRT the tv makes a buzzing noise that’s starts quiet and gets louder can anyone tell me if it’s my tv or the nes
+ - [https://www.reddit.com/r/retrogaming/comments/1ioljkc/when_my_nes_is_hooked_up_to_my_crt_the_tv_makes_a](https://www.reddit.com/r/retrogaming/comments/1ioljkc/when_my_nes_is_hooked_up_to_my_crt_the_tv_makes_a)
+ - RSS feed: $source
+ - date published: 2025-02-13T15:27:28+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Over-Recognition-734"> /u/Over-Recognition-734 </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ioljkc/when_my_nes_is_hooked_up_to_my_crt_the_tv_makes_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ioljkc/when_my_nes_is_hooked_up_to_my_crt_the_tv_makes_a/">[comments]</a></span>
+
+## Started a new playthrough of the game, which is crucial to my taste in video games to this day 😍
+ - [https://www.reddit.com/r/retrogaming/comments/1iokyt8/started_a_new_playthrough_of_the_game_which_is](https://www.reddit.com/r/retrogaming/comments/1iokyt8/started_a_new_playthrough_of_the_game_which_is)
+ - RSS feed: $source
+ - date published: 2025-02-13T15:01:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iokyt8/started_a_new_playthrough_of_the_game_which_is/"> <img src="https://preview.redd.it/d9p9bw5e8xie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=537ceb0fecb426e7b90bfdf27421df9e6465f93c" alt="Started a new playthrough of the game, which is crucial to my taste in video games to this day 😍" title="Started a new playthrough of the game, which is crucial to my taste in video games to this day 😍" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Dont know why I waited so long to revisit Terranigma. It aged so well! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mondryx"> /u/Mondryx </a> <br/> <span><a href="https://i.redd.it/d9p9bw5e8xie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iokyt8/started_a_new_playthrough_of_the_game_which_is/">[comments]</a></span> </td></tr></table>
+
+## Growing up poor I could not even fathom ever needing one of these:
+ - [https://www.reddit.com/r/retrogaming/comments/1iok0j5/growing_up_poor_i_could_not_even_fathom_ever](https://www.reddit.com/r/retrogaming/comments/1iok0j5/growing_up_poor_i_could_not_even_fathom_ever)
+ - RSS feed: $source
+ - date published: 2025-02-13T14:18:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iok0j5/growing_up_poor_i_could_not_even_fathom_ever/"> <img src="https://b.thumbs.redditmedia.com/nV68FE1JpEghtFu6NYG0m0l8bni7pUKMbAYl_8u8Mxc.jpg" alt="Growing up poor I could not even fathom ever needing one of these:" title="Growing up poor I could not even fathom ever needing one of these:" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sooslimtim187"> /u/sooslimtim187 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iok0j5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iok0j5/growing_up_poor_i_could_not_even_fathom_ever/">[comments]</a></span> </td></tr></table>
+
+## Doc about an extremely rare collectible just discovered if you're a collector (all of us?😂) I think it was only given out internally for good sales and they literally broke the mold. It's one of the coolest collectables I've ever seen. But I love Dragon's Lair so I'll watch anything about it. 😆
+ - [https://www.reddit.com/r/retrogaming/comments/1ioiyvf/doc_about_an_extremely_rare_collectible_just](https://www.reddit.com/r/retrogaming/comments/1ioiyvf/doc_about_an_extremely_rare_collectible_just)
+ - RSS feed: $source
+ - date published: 2025-02-13T13:25:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ioiyvf/doc_about_an_extremely_rare_collectible_just/"> <img src="https://external-preview.redd.it/_80sVpQ7D8-K1Nj6zeOGkrt8_yF2SQPnZvPTGbJZIqM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=32867e91dfdd1f47114f3c06d993278606eeba62" alt="Doc about an extremely rare collectible just discovered if you're a collector (all of us?😂) I think it was only given out internally for good sales and they literally broke the mold. It's one of the coolest collectables I've ever seen. But I love Dragon's Lair so I'll watch anything about it. 😆" title="Doc about an extremely rare collectible just discovered if you're a collector (all of us?😂) I think it was only given out internally for good sales and they literally broke the mold. It's one of the coolest collectables I've ever seen. But I love Dragon's Lair so I'll watch anything about it. 😆" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Exquis
+
+## Easy and short games
+ - [https://www.reddit.com/r/retrogaming/comments/1iohlxy/easy_and_short_games](https://www.reddit.com/r/retrogaming/comments/1iohlxy/easy_and_short_games)
+ - RSS feed: $source
+ - date published: 2025-02-13T12:06:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Looking for <strong>easy and short games for any of these systems: SNES, GBA , Sega Megadrive, Game Gear, NES, GB, GBC, DS, 3DS, PS Vita</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Striking_Leave_8356"> /u/Striking_Leave_8356 </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1iohlxy/easy_and_short_games/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iohlxy/easy_and_short_games/">[comments]</a></span>
+
+## With game prices soaring what's a great game that's still relatively inexpensive?
+ - [https://www.reddit.com/r/retrogaming/comments/1iohgty/with_game_prices_soaring_whats_a_great_game_thats](https://www.reddit.com/r/retrogaming/comments/1iohgty/with_game_prices_soaring_whats_a_great_game_thats)
+ - RSS feed: $source
+ - date published: 2025-02-13T11:58:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iohgty/with_game_prices_soaring_whats_a_great_game_thats/"> <img src="https://preview.redd.it/7e7v8ltmbwie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c081f23ad8db563328379eec263346e91d451af7" alt="With game prices soaring what's a great game that's still relatively inexpensive?" title="With game prices soaring what's a great game that's still relatively inexpensive?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>The tiny toons games for either the SNES or Genesis are still remarkably cheap and offer pretty awesome platforming and are quite fun to play. What&#39;s your favorite &quot;cheapie&quot; or any recommendations you might have?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/migrainemaker"> /u/migrainemaker </a> <br/> <span><a href="https://i.redd.it/7e7v8ltmbwie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments
+
+## Getting Back into PS1 Games
+ - [https://www.reddit.com/r/retrogaming/comments/1iogsqe/getting_back_into_ps1_games](https://www.reddit.com/r/retrogaming/comments/1iogsqe/getting_back_into_ps1_games)
+ - RSS feed: $source
+ - date published: 2025-02-13T11:13:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>I (26M) am not a very big gamer like I used to be. But I&#39;ve lately been interested in getting back into PS1 games, most specifically, I&#39;ve been at work thinking about playing (and beating) Crash Bandicoot. A game I&#39;ve attempted several times but have only managed to get so far due to the game&#39;s difficulty. So, I downloaded a PS1 emulator (Duckstation) and booted up Crash yesterday. It&#39;s been a fun experience so far (and using the quick save hotkey shortcuts have allowed me to back track in a level whenever I get killed). I wish to check out even more PS1 games, some that I have played (like Spider-Man) and most importantly, games that I have never played. Like Star Wars: Power Battles, that game looks SUPER FUN! And Batman: Return of the Joker, which is my favorite Batman animated film of all time! I really can&#39;t wait to continue this long adventure and share my experience with all of you. Happy gaming, everyone!</p> </div><!-
+
+## How risky was it to get a game like Leisure Suit Larry published back then?
+ - [https://www.reddit.com/r/retrogaming/comments/1iodwu4/how_risky_was_it_to_get_a_game_like_leisure_suit](https://www.reddit.com/r/retrogaming/comments/1iodwu4/how_risky_was_it_to_get_a_game_like_leisure_suit)
+ - RSS feed: $source
+ - date published: 2025-02-13T07:36:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>I had to ask as the game personally fascinates me for its risqué nature as the game’s core premise was about a man trying to score with a date as that might sound tame, but the game was rather racy for its time as SMB 1 for instance would have never gone so far regarding ahem its romance.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KaleidoArachnid"> /u/KaleidoArachnid </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1iodwu4/how_risky_was_it_to_get_a_game_like_leisure_suit/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iodwu4/how_risky_was_it_to_get_a_game_like_leisure_suit/">[comments]</a></span>
+
+## What other older games have these kinds of angled lifts? (Teenage Mutant Ninja Turtles Arcade)& (Streets of Rage)
+ - [https://www.reddit.com/r/retrogaming/comments/1iocsv6/what_other_older_games_have_these_kinds_of_angled](https://www.reddit.com/r/retrogaming/comments/1iocsv6/what_other_older_games_have_these_kinds_of_angled)
+ - RSS feed: $source
+ - date published: 2025-02-13T06:17:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iocsv6/what_other_older_games_have_these_kinds_of_angled/"> <img src="https://a.thumbs.redditmedia.com/ZphgAS0nVxvhkq0tm4_eTrzaiTKDe0IL0U1ol3Wo1Y4.jpg" alt="What other older games have these kinds of angled lifts? (Teenage Mutant Ninja Turtles Arcade)&amp; (Streets of Rage)" title="What other older games have these kinds of angled lifts? (Teenage Mutant Ninja Turtles Arcade)&amp; (Streets of Rage)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sillyGoober118"> /u/sillyGoober118 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iocsv6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iocsv6/what_other_older_games_have_these_kinds_of_angled/">[comments]</a></span> </td></tr></table>
+
+## SNK arcade cabinet that had Metal Slug and Aero Fighter?
+ - [https://www.reddit.com/r/retrogaming/comments/1ioc4zj/snk_arcade_cabinet_that_had_metal_slug_and_aero](https://www.reddit.com/r/retrogaming/comments/1ioc4zj/snk_arcade_cabinet_that_had_metal_slug_and_aero)
+ - RSS feed: $source
+ - date published: 2025-02-13T05:34:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was trying to think if I was remembering this correctly but as a kid I remember going to this local bar and grill restaurant and always spent time on this arcade machine that I clearly remember having Metal Slug 3 I think and one of the Aero Fighter games? I remember it being a shoot em up where you start choosing a jet from a number of countries ( I usually chose USA or Japan). Does anyone happen to remember if that was Aero Fighter and which one? I&#39;d love to try and see if I could find it somewhere to play it again.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jaybe503"> /u/jaybe503 </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ioc4zj/snk_arcade_cabinet_that_had_metal_slug_and_aero/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ioc4zj/snk_arcade_cabinet_that_had_metal_slug_and_aero/">[comments]</a></span>
+
+## Which controller do you prefer for D-pad centric games?
+ - [https://www.reddit.com/r/retrogaming/comments/1iobuk4/which_controller_do_you_prefer_for_dpad_centric](https://www.reddit.com/r/retrogaming/comments/1iobuk4/which_controller_do_you_prefer_for_dpad_centric)
+ - RSS feed: $source
+ - date published: 2025-02-13T05:16:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iobuk4/which_controller_do_you_prefer_for_dpad_centric/"> <img src="https://a.thumbs.redditmedia.com/qU9VmBz0qPqf0djhtGH9F7jmvrpSZcmxTeAMwN62wN8.jpg" alt="Which controller do you prefer for D-pad centric games?" title="Which controller do you prefer for D-pad centric games?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/4qfyu4d8buie1.png?width=1164&amp;format=png&amp;auto=webp&amp;s=d2691897ae416081f7e6adadf5f8c9b5d99a8e19">https://preview.redd.it/4qfyu4d8buie1.png?width=1164&amp;format=png&amp;auto=webp&amp;s=d2691897ae416081f7e6adadf5f8c9b5d99a8e19</a></p> <p>I&#39;m still using my old but trusty DS4. However its joysticks are starting to wear off. Do you guys have any recommendations for controllers with good D-pads? 8bitdo pro2 seems like a solid choice. Or should I get a PS5 controller? (I don&#39;t have a PS5.)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href
+
+## Which of these retro game soundtracks does NOT belong in the top 100?
+ - [https://www.reddit.com/r/retrogaming/comments/1ioaziw/which_of_these_retro_game_soundtracks_does_not](https://www.reddit.com/r/retrogaming/comments/1ioaziw/which_of_these_retro_game_soundtracks_does_not)
+ - RSS feed: $source
+ - date published: 2025-02-13T04:24:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>We’ve got a grand total of 115 nominees for the best retro game soundtrack of all time. I’d like to narrow it down to an even 100 and then make a Youtube playlist we can all enjoy—but we need to shave off a few in order to get there.</p> <p>Which fourteen games do you guys nominate for elimination? (I’ll try first simply taking stock of what responses I get and then taking a vote wherever there’s a dispute or if there are more than fourteen games that get brought up.)</p> <p>The list:</p> <p>Actraiser</p> <p>The Adventures of Batman &amp; Robin (Sega Genesis)</p> <p>The Adventures of Bayou Billy</p> <p>After Burner</p> <p>Age of Empires</p> <p>Batman (NES)</p> <p>Blaster Master</p> <p>Castlevania 2: Simon’s Quest</p> <p>Super Castlevania IV</p> <p>Castlevania: Symphony of the Night</p> <p>Castlevania Chronicles</p> <p>Chrono Cross</p> <p>Chrono Trigger</p> <p>City Hunter</p> <p>Command &amp; Conquer: Tiberian Dawn</p> <p>Contra</p> <p>Contra III</p> 
+

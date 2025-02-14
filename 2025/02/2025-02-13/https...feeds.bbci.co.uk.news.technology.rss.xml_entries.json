@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-13T14:04:21+00:00",
+        "description": "It controversially updated the Gulf's name for US users after President Trump ordered it to be changed.",
+        "id": 2105082,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/crlky380wd7o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f84/live/835c80d0-e9fd-11ef-bcac-87abe8b9d53e.jpg",
+        "title": "Google Maps blocks Gulf of America reviews after rename criticism",
+        "vote": 0
+    }
+]

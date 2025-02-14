@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-13T01:02:04+00:00",
+        "description": "Microsoft has released the KB5051974 cumulative update for versions 22H2 and 21H2, adding security fixes and patching a memory leak. However, as reports, the update also includes a surprise: the new Outlook for Windows app. The update is mandatory because it includes the January 2025 Patch Tuesday security updates. Once you install it, you will [&#8230;]",
+        "id": 2102022,
+        "language": "en-US",
+        "link": "https://www.digitaltrends.com/computing/windows-10-kb5051974-update-adds-a-new-app-without-asking",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 94,
+        "source_url": "https://www.digitaltrends.com/news/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Windows 10 KB5051974 update adds a new app without asking",
+        "vote": 0
+    }
+]

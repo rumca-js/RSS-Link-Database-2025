@@ -1,0 +1,72 @@
+# Source:Hackaday, URL:https://hackaday.com/feed, language:en-US
+
+## The Nokia 3310 Finally Gets A USB-C Upgrade
+ - [https://hackaday.com/2025/02/13/the-nokia-3310-finally-gets-a-usb-c-upgrade](https://hackaday.com/2025/02/13/the-nokia-3310-finally-gets-a-usb-c-upgrade)
+ - RSS feed: $source
+ - date published: 2025-02-13T21:00:36+00:00
+
+<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2025/02/Nokia-3310-to-Usb-C-0-6-screenshot.png?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2025/02/Nokia-3310-to-Usb-C-0-6-screenshot.png 1280w, https://hackaday.com/wp-content/uploads/2025/02/Nokia-3310-to-Usb-C-0-6-screenshot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/02/Nokia-3310-to-Usb-C-0-6-screenshot.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/02/Nokia-3310-to-Usb-C-0-6-screenshot.png?resize=800,450 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="758636" data-permalink="https://hackaday.com/2025/02/13/the-nokia-3310-finally-gets-a-usb-c-upgrade/nokia-3310-to-usb-c-0-6-screenshot/" data-orig-file="https://hackaday.com/wp-content/uploads/2025/02/Nokia-3310-to-Usb-C-0-6-screenshot.pn
+
+## A 3D printed Camera You Can Now Download, Shutter and All
+ - [https://hackaday.com/2025/02/13/a-3d-printed-camera-you-can-now-download-shutter-and-all](https://hackaday.com/2025/02/13/a-3d-printed-camera-you-can-now-download-shutter-and-all)
+ - RSS feed: $source
+ - date published: 2025-02-13T19:30:00+00:00
+
+<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2025/02/pioneer-camera-featured.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://hackaday.com/wp-content/uploads/2025/02/pioneer-camera-featured.jpg 800w, https://hackaday.com/wp-content/uploads/2025/02/pioneer-camera-featured.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/02/pioneer-camera-featured.jpg?resize=400,225 400w" sizes="auto, (max-width: 800px) 100vw, 800px" data-attachment-id="758576" data-permalink="https://hackaday.com/2025/02/13/a-3d-printed-camera-you-can-now-download-shutter-and-all/pioneer-camera-featured/" data-orig-file="https://hackaday.com/wp-content/uploads/2025/02/pioneer-camera-featured.jpg" data-orig-size="800,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot
+
+## Why AI Usage May Degrade Human Cognition and Blunt Critical Thinking Skills
+ - [https://hackaday.com/2025/02/13/why-ai-usage-may-degrade-human-cognition-and-blunt-critical-thinking-skills](https://hackaday.com/2025/02/13/why-ai-usage-may-degrade-human-cognition-and-blunt-critical-thinking-skills)
+ - RSS feed: $source
+ - date published: 2025-02-13T18:00:52+00:00
+
+<div><img width="800" height="484" src="https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg 3000w, https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg?resize=2048,1239 2048w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="489984" data-permalink="https://hackaday.com/githubcopilot/" data-orig-file="https://hackaday.com/wp-content/uploads/2021/08/GithubCopilot.jpg" data-orig-size="3000
+
+## Tiny Typing Tutor Tuts At Your Incorrect Shift Usage
+ - [https://hackaday.com/2025/02/13/tiny-typing-tutor-tuts-at-your-incorrect-shift-usage](https://hackaday.com/2025/02/13/tiny-typing-tutor-tuts-at-your-incorrect-shift-usage)
+ - RSS feed: $source
+ - date published: 2025-02-13T16:30:00+00:00
+
+<div><img width="800" height="451" src="https://hackaday.com/wp-content/uploads/2025/02/Screenshot-2025-02-13-100256-1-e1739406663849.png?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2025/02/Screenshot-2025-02-13-100256-1-e1739406663849.png 1460w, https://hackaday.com/wp-content/uploads/2025/02/Screenshot-2025-02-13-100256-1-e1739406663849.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/02/Screenshot-2025-02-13-100256-1-e1739406663849.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/02/Screenshot-2025-02-13-100256-1-e1739406663849.png?resize=800,451 800w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="758643" data-permalink="https://hackaday.com/2025/02/13/tiny-typing-tutor-tuts-at-your-incorrect-shift-usage/screenshot-2025-02-13-100256-2/" data-orig-file="https://hackaday.com/wp-c
+
+## NASA Taps Webb to Help Study 2032 Asteroid Threat
+ - [https://hackaday.com/2025/02/13/nasa-taps-webb-to-help-study-2032-asteroid-threat](https://hackaday.com/2025/02/13/nasa-taps-webb-to-help-study-2032-asteroid-threat)
+ - RSS feed: $source
+ - date published: 2025-02-13T15:00:22+00:00
+
+<div><img width="800" height="484" src="https://hackaday.com/wp-content/uploads/2025/02/Asteroid.png?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2025/02/Asteroid.png 3000w, https://hackaday.com/wp-content/uploads/2025/02/Asteroid.png?resize=250,151 250w, https://hackaday.com/wp-content/uploads/2025/02/Asteroid.png?resize=400,242 400w, https://hackaday.com/wp-content/uploads/2025/02/Asteroid.png?resize=800,484 800w, https://hackaday.com/wp-content/uploads/2025/02/Asteroid.png?resize=1536,929 1536w, https://hackaday.com/wp-content/uploads/2025/02/Asteroid.png?resize=2048,1239 2048w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="758697" data-permalink="https://hackaday.com/2025/02/13/nasa-taps-webb-to-help-study-2032-asteroid-threat/asteroid-3/" data-orig-file="https://hackaday.com/wp-content/uploads/2025/02/Asteroid.png" da
+
+## Budget-Minded Synthetic Aperture Radar Takes to the Skies
+ - [https://hackaday.com/2025/02/13/budget-minded-synthetic-aperture-radar-takes-to-the-skies](https://hackaday.com/2025/02/13/budget-minded-synthetic-aperture-radar-takes-to-the-skies)
+ - RSS feed: $source
+ - date published: 2025-02-13T12:00:58+00:00
+
+<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2025/02/pol_sar.png?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://hackaday.com/wp-content/uploads/2025/02/pol_sar.png 1138w, https://hackaday.com/wp-content/uploads/2025/02/pol_sar.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/02/pol_sar.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/02/pol_sar.png?resize=800,450 800w" sizes="auto, (max-width: 800px) 100vw, 800px" data-attachment-id="758570" data-permalink="https://hackaday.com/2025/02/13/budget-minded-synthetic-aperture-radar-takes-to-the-skies/pol_sar/" data-orig-file="https://hackaday.com/wp-content/uploads/2025/02/pol_sar.png" data-orig-size="1138,640" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quo
+
+## A Transparent BB-8 Build Using Christmas Ornaments
+ - [https://hackaday.com/2025/02/13/a-transparent-bb-8-build-using-christmas-ornaments](https://hackaday.com/2025/02/13/a-transparent-bb-8-build-using-christmas-ornaments)
+ - RSS feed: $source
+ - date published: 2025-02-13T09:00:28+00:00
+
+<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2025/02/61ayjf.jpg?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2025/02/61ayjf.jpg 1920w, https://hackaday.com/wp-content/uploads/2025/02/61ayjf.jpg?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/02/61ayjf.jpg?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/02/61ayjf.jpg?resize=800,450 800w, https://hackaday.com/wp-content/uploads/2025/02/61ayjf.jpg?resize=1536,864 1536w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="758620" data-permalink="https://hackaday.com/2025/02/13/a-transparent-bb-8-build-using-christmas-ornaments/61ayjf/" data-orig-file="https://hackaday.com/wp-content/uploads/2025/02/61ayjf.jpg" data-orig-size="1920,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;
+
+## On the Original Punched Cards
+ - [https://hackaday.com/2025/02/12/on-the-original-punched-cards](https://hackaday.com/2025/02/12/on-the-original-punched-cards)
+ - RSS feed: $source
+ - date published: 2025-02-13T06:00:00+00:00
+
+<div><img width="800" height="360" src="https://hackaday.com/wp-content/uploads/2025/02/card1.png?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://hackaday.com/wp-content/uploads/2025/02/card1.png 800w, https://hackaday.com/wp-content/uploads/2025/02/card1.png?resize=250,113 250w, https://hackaday.com/wp-content/uploads/2025/02/card1.png?resize=400,180 400w" sizes="auto, (max-width: 800px) 100vw, 800px" data-attachment-id="758543" data-permalink="https://hackaday.com/2025/02/12/on-the-original-punched-cards/card1-3/" data-orig-file="https://hackaday.com/wp-content/uploads/2025/02/card1.png" data-orig-size="800,360" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_l
+
+## Automatic Pill Dispenser Is Cheap and Convenient
+ - [https://hackaday.com/2025/02/12/automatic-pill-dispenser-is-cheap-and-convenient](https://hackaday.com/2025/02/12/automatic-pill-dispenser-is-cheap-and-convenient)
+ - RSS feed: $source
+ - date published: 2025-02-13T03:00:39+00:00
+
+<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2025/02/DIY-Automatic-Pill-Dispenser-_-Finally-finished-after-3-years-18-18-screenshot.png?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://hackaday.com/wp-content/uploads/2025/02/DIY-Automatic-Pill-Dispenser-_-Finally-finished-after-3-years-18-18-screenshot.png 1280w, https://hackaday.com/wp-content/uploads/2025/02/DIY-Automatic-Pill-Dispenser-_-Finally-finished-after-3-years-18-18-screenshot.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/02/DIY-Automatic-Pill-Dispenser-_-Finally-finished-after-3-years-18-18-screenshot.png?resize=400,225 400w, https://hackaday.com/wp-content/uploads/2025/02/DIY-Automatic-Pill-Dispenser-_-Finally-finished-after-3-years-18-18-screenshot.png?resize=800,450 800w" sizes="auto, (max-width: 800px) 100vw, 800px" data-attachment-id="758662" data-perma
+
+## DIY Microwave Crucibles
+ - [https://hackaday.com/2025/02/12/diy-microwave-crucibles](https://hackaday.com/2025/02/12/diy-microwave-crucibles)
+ - RSS feed: $source
+ - date published: 2025-02-13T00:00:26+00:00
+
+<div><img width="800" height="450" src="https://hackaday.com/wp-content/uploads/2025/02/shake1.png?w=800" class="attachment-large size-large wp-post-image" alt="" style="margin: 0 auto; margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://hackaday.com/wp-content/uploads/2025/02/shake1.png 800w, https://hackaday.com/wp-content/uploads/2025/02/shake1.png?resize=250,141 250w, https://hackaday.com/wp-content/uploads/2025/02/shake1.png?resize=400,225 400w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="758548" data-permalink="https://hackaday.com/2025/02/12/diy-microwave-crucibles/shake1/" data-orig-file="https://hackaday.com/wp-content/uploads/2025/02/shake1.png" data-orig-size="800,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_len
+

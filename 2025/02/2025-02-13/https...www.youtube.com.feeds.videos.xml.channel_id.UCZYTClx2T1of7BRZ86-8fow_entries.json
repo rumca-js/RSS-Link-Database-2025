@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-13T18:00:27+00:00",
+        "description": "JMP offers a 30-day free trial for anyone, anywhere. Go to https://www.jmp.com/scishow to see the benefits of visual statistics for yourself. \n\nOctopuses are smart. Like, gather a posse of fish to do their hunting for them smart. And when the fish step out of line, the day octopus punches them. Really.\n\nHosted by: Hank Green (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: David Johnston, Martin Osorio, Cye Stoner, Kaitlyn O'Callaghan, Jp Lynch, kickinwasabi, Bethany Matthews, Chris Curry, Blood Doctor Kelly, Wesus, J.V. Rosenbalm, Marc Bendig, Alan Wong, Toyas Dhake, Spilmann Reed, Gizmo, Garrett Galloway, DrakoEsper , Friso, Lyndsay Brown, Jeremy Mattern",
+        "id": 2107970,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Ou-tbidf5GY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Ou-tbidf5GY/hqdefault.jpg",
+        "title": "The Octopuses Are Making Fish Armies",
+        "vote": 0
+    }
+]

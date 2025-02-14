@@ -1,0 +1,128 @@
+# Source:Listen To This, URL:https://www.reddit.com/r/listentothis/.rss, language:
+
+## Sol De Coda -- Another Time [Trip Hop] (2003)
+ - [https://www.reddit.com/r/listentothis/comments/1iouqqi/sol_de_coda_another_time_trip_hop_2003](https://www.reddit.com/r/listentothis/comments/1iouqqi/sol_de_coda_another_time_trip_hop_2003)
+ - RSS feed: $source
+ - date published: 2025-02-13T21:57:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iouqqi/sol_de_coda_another_time_trip_hop_2003/"> <img src="https://external-preview.redd.it/LcARg2eK2esNOFDaWlLrclWUZ4ghE397HU6UfIcPntI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2e401bc034ccbfcb268e1bba39545beb1e81df6a" alt="Sol De Coda -- Another Time [Trip Hop] (2003)" title="Sol De Coda -- Another Time [Trip Hop] (2003)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spongo4"> /u/spongo4 </a> <br/> <span><a href="https://www.youtube.com/watch?v=BMf-wsR-XYQ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iouqqi/sol_de_coda_another_time_trip_hop_2003/">[comments]</a></span> </td></tr></table>
+
+## Rodrigo T. Fonseca - The Wounded Angel [Post Rock/Ethereal] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1iotfmg/rodrigo_t_fonseca_the_wounded_angel_post](https://www.reddit.com/r/listentothis/comments/1iotfmg/rodrigo_t_fonseca_the_wounded_angel_post)
+ - RSS feed: $source
+ - date published: 2025-02-13T21:00:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iotfmg/rodrigo_t_fonseca_the_wounded_angel_post/"> <img src="https://external-preview.redd.it/LPgcK6I9OmGohfzsRk9v7VpaM5VTvkuN1mecpkHndWI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3a95f9b51f40208353c1af818469e28ccc8d9ecb" alt="Rodrigo T. Fonseca - The Wounded Angel [Post Rock/Ethereal] (2025)" title="Rodrigo T. Fonseca - The Wounded Angel [Post Rock/Ethereal] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheUprane"> /u/TheUprane </a> <br/> <span><a href="https://youtu.be/GJYmF3RGbeI?si=D3O6Nlg4bobtEOLh">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iotfmg/rodrigo_t_fonseca_the_wounded_angel_post/">[comments]</a></span> </td></tr></table>
+
+## Black Budget - Insanity [Punk/Garage] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1ioq54n/black_budget_insanity_punkgarage_2025](https://www.reddit.com/r/listentothis/comments/1ioq54n/black_budget_insanity_punkgarage_2025)
+ - RSS feed: $source
+ - date published: 2025-02-13T18:41:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ioq54n/black_budget_insanity_punkgarage_2025/"> <img src="https://external-preview.redd.it/Po2rzjU1SIEIUwVEoTwbnG4AWIxHS44pGMpbxYtcCFI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=785f5e325ef5b02d3ccbb29dfac8edfd799b8cab" alt="Black Budget - Insanity [Punk/Garage] (2025)" title="Black Budget - Insanity [Punk/Garage] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Willsuck"> /u/Willsuck </a> <br/> <span><a href="https://youtu.be/HsI4Lsi3BqY?si=hfdhZfaL1jDtswt9">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ioq54n/black_budget_insanity_punkgarage_2025/">[comments]</a></span> </td></tr></table>
+
+## Colin Self -- Survival [Electronic / Experimental] (2018)
+ - [https://www.reddit.com/r/listentothis/comments/1ioq457/colin_self_survival_electronic_experimental_2018](https://www.reddit.com/r/listentothis/comments/1ioq457/colin_self_survival_electronic_experimental_2018)
+ - RSS feed: $source
+ - date published: 2025-02-13T18:39:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ioq457/colin_self_survival_electronic_experimental_2018/"> <img src="https://external-preview.redd.it/b-SkI19oJN95qgajF26YBlkZP4t9b8zwg02yVktjv_c.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7b2505ee9ea3e0a49c17ae77b346e246a8fec0f9" alt="Colin Self -- Survival [Electronic / Experimental] (2018)" title="Colin Self -- Survival [Electronic / Experimental] (2018)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RosesFor1984"> /u/RosesFor1984 </a> <br/> <span><a href="https://www.youtube.com/watch?v=Gwp_9dDn8Yw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ioq457/colin_self_survival_electronic_experimental_2018/">[comments]</a></span> </td></tr></table>
+
+## KINTWAYS - City Lights [EDM] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1iooxua/kintways_city_lights_edm_2024](https://www.reddit.com/r/listentothis/comments/1iooxua/kintways_city_lights_edm_2024)
+ - RSS feed: $source
+ - date published: 2025-02-13T17:50:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iooxua/kintways_city_lights_edm_2024/"> <img src="https://external-preview.redd.it/TZXwY66wSlX0_9eDZSa_GBGSA5sVK7I9LwpwUO09kqY.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=78600bc34e00881f8fb25e3a895ee1a7a2680553" alt="KINTWAYS - City Lights [EDM] (2024)" title="KINTWAYS - City Lights [EDM] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wonderful_Form_7470"> /u/Wonderful_Form_7470 </a> <br/> <span><a href="https://open.spotify.com/track/0fKOBFnq1K9ds1dtwP30Q1?si=elXUxUefTamu1VIav4UY0Q&amp;context=spotify%3Aalbum%3A3rZ435er1TdYwm26ezPLHK">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iooxua/kintways_city_lights_edm_2024/">[comments]</a></span> </td></tr></table>
+
+## KINTWAYS - No Limits [PHONK] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1ioov7x/kintways_no_limits_phonk_2024](https://www.reddit.com/r/listentothis/comments/1ioov7x/kintways_no_limits_phonk_2024)
+ - RSS feed: $source
+ - date published: 2025-02-13T17:47:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ioov7x/kintways_no_limits_phonk_2024/"> <img src="https://external-preview.redd.it/iRm2JImjoFPzQbDPOe2jq_W3brw3eTckQH_3Op85FbQ.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=2f7dd7886135deab07874986021f51b19e70a597" alt="KINTWAYS - No Limits [PHONK] (2024)" title="KINTWAYS - No Limits [PHONK] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wonderful_Form_7470"> /u/Wonderful_Form_7470 </a> <br/> <span><a href="https://open.spotify.com/track/340zyy8R4hmvCKE3DNqEgR?si=dqH3_3HORP6aTgrcLOkhqg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ioov7x/kintways_no_limits_phonk_2024/">[comments]</a></span> </td></tr></table>
+
+## Always Sunny - walking corpse disorder [skramz] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1iomk71/always_sunny_walking_corpse_disorder_skramz_2025](https://www.reddit.com/r/listentothis/comments/1iomk71/always_sunny_walking_corpse_disorder_skramz_2025)
+ - RSS feed: $source
+ - date published: 2025-02-13T16:11:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iomk71/always_sunny_walking_corpse_disorder_skramz_2025/"> <img src="https://external-preview.redd.it/prQXcK-lC9f7dQxQrObme8YPy-DnP_9rAV8RZLSHoHQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=068dfaf83710253db7f6f3126fc9bd99ea855261" alt="Always Sunny - walking corpse disorder [skramz] (2025)" title="Always Sunny - walking corpse disorder [skramz] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/burntcastles"> /u/burntcastles </a> <br/> <span><a href="https://youtu.be/7GyVkFCr5rY?si=SbrP-1LAdyI_Uas6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iomk71/always_sunny_walking_corpse_disorder_skramz_2025/">[comments]</a></span> </td></tr></table>
+
+## Mop -- Wired [alt rock] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1iom8p1/mop_wired_alt_rock_2024](https://www.reddit.com/r/listentothis/comments/1iom8p1/mop_wired_alt_rock_2024)
+ - RSS feed: $source
+ - date published: 2025-02-13T15:58:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iom8p1/mop_wired_alt_rock_2024/"> <img src="https://external-preview.redd.it/0EIVIUwVZWUmHY_PHzMD237ui_-l5157iINzH2upZFU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ede8decc2b3983a8bf2bce9fdb51d879a9a83973" alt="Mop -- Wired [alt rock] (2024)" title="Mop -- Wired [alt rock] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/qazz23"> /u/qazz23 </a> <br/> <span><a href="https://smokingroom-label.bandcamp.com/track/wired">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iom8p1/mop_wired_alt_rock_2024/">[comments]</a></span> </td></tr></table>
+
+## Instant Funk -- Dark Vader [Funk/Soul] (1979)
+ - [https://www.reddit.com/r/listentothis/comments/1iolvuy/instant_funk_dark_vader_funksoul_1979](https://www.reddit.com/r/listentothis/comments/1iolvuy/instant_funk_dark_vader_funksoul_1979)
+ - RSS feed: $source
+ - date published: 2025-02-13T15:42:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iolvuy/instant_funk_dark_vader_funksoul_1979/"> <img src="https://external-preview.redd.it/ggE7MqcWystXief0Pt6AVfjyn7CDG-rqPesCq0Wv5TQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=831d76ab91d2a4514cdee875746dbd5998a591fc" alt="Instant Funk -- Dark Vader [Funk/Soul] (1979)" title="Instant Funk -- Dark Vader [Funk/Soul] (1979)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Techno_Feudalism"> /u/Techno_Feudalism </a> <br/> <span><a href="https://www.youtube.com/watch?v=ei_VEQdgpZg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iolvuy/instant_funk_dark_vader_funksoul_1979/">[comments]</a></span> </td></tr></table>
+
+## Neon Funeral - Avolition [Darkwave] (2023)
+ - [https://www.reddit.com/r/listentothis/comments/1iolaif/neon_funeral_avolition_darkwave_2023](https://www.reddit.com/r/listentothis/comments/1iolaif/neon_funeral_avolition_darkwave_2023)
+ - RSS feed: $source
+ - date published: 2025-02-13T15:16:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iolaif/neon_funeral_avolition_darkwave_2023/"> <img src="https://external-preview.redd.it/gaQ_y7aCyhB441KqgVcKuiWgmgA8yvSEUbxZ2sB4tL0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e791daf33cc12db76fbdd3898625b7c01bfd2b67" alt="Neon Funeral - Avolition [Darkwave] (2023)" title="Neon Funeral - Avolition [Darkwave] (2023)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spenny_All_The_Way"> /u/Spenny_All_The_Way </a> <br/> <span><a href="https://youtu.be/Cf1sKL0iqwA?si=qm0zGJkC5veEbiG3">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iolaif/neon_funeral_avolition_darkwave_2023/">[comments]</a></span> </td></tr></table>
+
+## Pearl's Dream - Bat For Lashes Remix [House] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1iokxte/pearls_dream_bat_for_lashes_remix_house_2025](https://www.reddit.com/r/listentothis/comments/1iokxte/pearls_dream_bat_for_lashes_remix_house_2025)
+ - RSS feed: $source
+ - date published: 2025-02-13T15:00:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iokxte/pearls_dream_bat_for_lashes_remix_house_2025/"> <img src="https://external-preview.redd.it/OMC0gSFdbrboXyze_b4boZ_speo2iz97HxofiaCm3IM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c6fcc67870855c261f131d7420f1cddcf659f0a6" alt="Pearl's Dream - Bat For Lashes Remix [House] (2025)" title="Pearl's Dream - Bat For Lashes Remix [House] (2025)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>A remix I did of one of my favorite artists - Bat For Lashes</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bigmanoncrampus"> /u/bigmanoncrampus </a> <br/> <span><a href="https://on.soundcloud.com/GeBRFqTKHUnBDXU89">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iokxte/pearls_dream_bat_for_lashes_remix_house_2025/">[comments]</a></span> </td></tr></table>
+
+## The Charlottes - Liar [Twee Pop/Shoegaze/Noise Pop/Indie Rock] (1990)
+ - [https://www.reddit.com/r/listentothis/comments/1iokuq8/the_charlottes_liar_twee_popshoegazenoise](https://www.reddit.com/r/listentothis/comments/1iokuq8/the_charlottes_liar_twee_popshoegazenoise)
+ - RSS feed: $source
+ - date published: 2025-02-13T14:56:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iokuq8/the_charlottes_liar_twee_popshoegazenoise/"> <img src="https://external-preview.redd.it/iySP-2lKr18vw1xzrQJB_lh2xwQw4tmper5woJ9-seE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ecd2623e192d9fd1fcfe0b19d617eea6bf303a1c" alt="The Charlottes - Liar [Twee Pop/Shoegaze/Noise Pop/Indie Rock] (1990)" title="The Charlottes - Liar [Twee Pop/Shoegaze/Noise Pop/Indie Rock] (1990)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Romax24245"> /u/Romax24245 </a> <br/> <span><a href="https://youtu.be/06VtQWYIqEA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iokuq8/the_charlottes_liar_twee_popshoegazenoise/">[comments]</a></span> </td></tr></table>
+
+## Mr Pink -- Unknown [Rock Funk] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1iok3h9/mr_pink_unknown_rock_funk_2025](https://www.reddit.com/r/listentothis/comments/1iok3h9/mr_pink_unknown_rock_funk_2025)
+ - RSS feed: $source
+ - date published: 2025-02-13T14:22:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iok3h9/mr_pink_unknown_rock_funk_2025/"> <img src="https://external-preview.redd.it/-yQUl8vKa834YrQEWIIUqeAIuTvYW6Vvgwq5qrueQ3A.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2791208ef86cec9dd3cca050e101cda6abedf89d" alt="Mr Pink -- Unknown [Rock Funk] (2025)" title="Mr Pink -- Unknown [Rock Funk] (2025)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>If you&#39;re into Rock and or Funk, then this may be to your liking. Any feedback welcome 🙏 </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/markmarkymark88"> /u/markmarkymark88 </a> <br/> <span><a href="https://youtu.be/HFgFbE46tsc?si=EQqeQ4K-x00lEnUa">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iok3h9/mr_pink_unknown_rock_funk_2025/">[comments]</a></span> </td></tr></table>
+
+## Hydraglyph -- Dude, Where's My Dignity? [South African Psy Trance] (2006)
+ - [https://www.reddit.com/r/listentothis/comments/1ioh9mo/hydraglyph_dude_wheres_my_dignity_south_african](https://www.reddit.com/r/listentothis/comments/1ioh9mo/hydraglyph_dude_wheres_my_dignity_south_african)
+ - RSS feed: $source
+ - date published: 2025-02-13T11:45:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ioh9mo/hydraglyph_dude_wheres_my_dignity_south_african/"> <img src="https://external-preview.redd.it/ypWYmMZUw5h2O9Ic9Yk7HE-0rUO3Ghh4fp1gS2VctOg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3c4c31863cf4bdac46699c2042a12a8c6fadaf20" alt="Hydraglyph -- Dude, Where's My Dignity? [South African Psy Trance] (2006)" title="Hydraglyph -- Dude, Where's My Dignity? [South African Psy Trance] (2006)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DusqRunner"> /u/DusqRunner </a> <br/> <span><a href="https://www.youtube.com/watch?v=KFskexWpjAo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ioh9mo/hydraglyph_dude_wheres_my_dignity_south_african/">[comments]</a></span> </td></tr></table>
+
+## Brigitte Calls Me Baby - - Impressively Average [Indie/Alt Rock] (2023)
+ - [https://www.reddit.com/r/listentothis/comments/1ioehrs/brigitte_calls_me_baby_impressively_average](https://www.reddit.com/r/listentothis/comments/1ioehrs/brigitte_calls_me_baby_impressively_average)
+ - RSS feed: $source
+ - date published: 2025-02-13T08:20:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ioehrs/brigitte_calls_me_baby_impressively_average/"> <img src="https://external-preview.redd.it/YimcxDtseKJgwlgcjh7S_KG2JnoFQFAME2ZtsEkczdE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=67b1a3d7ff2aa14366bf31c87b877775af2354f6" alt="Brigitte Calls Me Baby - - Impressively Average [Indie/Alt Rock] (2023)" title="Brigitte Calls Me Baby - - Impressively Average [Indie/Alt Rock] (2023)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/paid-program"> /u/paid-program </a> <br/> <span><a href="https://youtu.be/btD2fWF2qEw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ioehrs/brigitte_calls_me_baby_impressively_average/">[comments]</a></span> </td></tr></table>
+
+## Texas King -- Try [Indie Rock / Alt Rock] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1ioby5a/texas_king_try_indie_rock_alt_rock_2025](https://www.reddit.com/r/listentothis/comments/1ioby5a/texas_king_try_indie_rock_alt_rock_2025)
+ - RSS feed: $source
+ - date published: 2025-02-13T05:22:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ioby5a/texas_king_try_indie_rock_alt_rock_2025/"> <img src="https://external-preview.redd.it/39SX3IR6JA_mhQoaFz6p9wjhaxp5O9aspsqe9zPgxTg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f9b282fe6bb957ee49fe7bb1eb7fa804ae30f285" alt="Texas King -- Try [Indie Rock / Alt Rock] (2025)" title="Texas King -- Try [Indie Rock / Alt Rock] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mdrumss"> /u/mdrumss </a> <br/> <span><a href="https://youtu.be/YEKjXrJqwqQ?si=WWmfC-_kOvPVCg5x">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ioby5a/texas_king_try_indie_rock_alt_rock_2025/">[comments]</a></span> </td></tr></table>
+
+## Neokosmos Aeon — My Heart is a Wasteland [Electro] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1ioawwr/neokosmos_aeon_my_heart_is_a_wasteland_electro](https://www.reddit.com/r/listentothis/comments/1ioawwr/neokosmos_aeon_my_heart_is_a_wasteland_electro)
+ - RSS feed: $source
+ - date published: 2025-02-13T04:20:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ioawwr/neokosmos_aeon_my_heart_is_a_wasteland_electro/"> <img src="https://external-preview.redd.it/d9YZ0sr-SFIqN7kgBBHSongrdxwE0yoo-9ItJbj2-qY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0dcabb3e0a5c33624fe2b3a1af4c1b317288f2db" alt="Neokosmos Aeon — My Heart is a Wasteland [Electro] (2025)" title="Neokosmos Aeon — My Heart is a Wasteland [Electro] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dannywise"> /u/Dannywise </a> <br/> <span><a href="https://youtu.be/z9sMlCNWdo0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ioawwr/neokosmos_aeon_my_heart_is_a_wasteland_electro/">[comments]</a></span> </td></tr></table>
+
+## Dayside & Guffchild — Daddy’s Girl [Alt-Pop / Alt-R&B] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1ioapag/dayside_guffchild_daddys_girl_altpop_altrb_2025](https://www.reddit.com/r/listentothis/comments/1ioapag/dayside_guffchild_daddys_girl_altpop_altrb_2025)
+ - RSS feed: $source
+ - date published: 2025-02-13T04:08:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ioapag/dayside_guffchild_daddys_girl_altpop_altrb_2025/"> <img src="https://external-preview.redd.it/rKVzuTUr2JppldttbSQMaAMAf_3PlBJpgMPhDGq7iuk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3c8c8f3afec524d05b48fb0497d83d1213c2a088" alt="Dayside &amp; Guffchild — Daddy’s Girl [Alt-Pop / Alt-R&amp;B] (2025)" title="Dayside &amp; Guffchild — Daddy’s Girl [Alt-Pop / Alt-R&amp;B] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thedavidcote"> /u/thedavidcote </a> <br/> <span><a href="https://youtube.com/watch?v=bUNfPAHLX0o&amp;pp=ygUUZGFkZHkncyBnaXJsIGRheXNpZGU%3D">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ioapag/dayside_guffchild_daddys_girl_altpop_altrb_2025/">[comments]</a></span> </td></tr></table>
+

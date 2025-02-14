@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-13T15:07:08+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nRollback System in C++ for Online Multiplayer Games - Elias Farhan - CppCon 2024\n---\n\nIt is common knowledge that online multiplayer games are some of the hardest kinds of software to develop. Game developers have to deal with data packets coming with a substancial delay, in fact working with data from the past. The rollback technique allows to give the illusion of real-time by extrapolating input with a game simulation from the confirm frame to the current one. However, for the implemention to work there are several key factors that need to be taken into account. The game simulation update needs to be deterministic, the game state should be easily copyable, and the game state should be clearly separated from the graphics side of the game.\n---\n\nSlides: https://github.com/CppCon/CppCon2024/blob/main/Presentations/A_Simple_Rollback_System_In_Cpp.pdf\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nElias Farhan\n\nElias Farhan is the head of the Game",
+        "id": 2105954,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=xkcGa-Xw154",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xkcGa-Xw154/hqdefault.jpg",
+        "title": "Rollback System in C++ for Online Multiplayer Games - Elias Farhan - CppCon 2024",
+        "vote": 0
+    }
+]

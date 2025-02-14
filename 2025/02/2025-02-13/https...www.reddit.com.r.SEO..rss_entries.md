@@ -1,0 +1,142 @@
+# Source:Search Engine Optimization: The Latest SEO News, URL:https://www.reddit.com/r/SEO/.rss, language:en
+
+## Advice on how to link different SEO assets?
+ - [https://www.reddit.com/r/SEO/comments/1iovi5q/advice_on_how_to_link_different_seo_assets](https://www.reddit.com/r/SEO/comments/1iovi5q/advice_on_how_to_link_different_seo_assets)
+ - RSS feed: $source
+ - date published: 2025-02-13T22:30:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want some advice on my how to build a web of SEO. For hypothetical situation, let&#39;s say the domain is coffeedrinkers[dot]com</p> <p>The coffeedrinkers empire contains: </p> <ul> <li>A main website (coffeedrinkers[dot]com) that sells products and has blog posts.</li> <li>A youtube channel with ranking videos.</li> <li>A community forum as a subdomain of my website. community[dot]coffeedrinkers[dot]com. This is fairly active and has a lot of user-generated-content.</li> <li>An unrelated wordpress site called caffeinejunkie[dot]com</li> </ul> <p>What is the best way to interlink these in a complimentary way? </p> <p>Currently, I do this:</p> <ul> <li>Publish blog on main site &quot;<em>How to drink hot coffee super fast</em>&quot;.</li> <li>Publish a youtube video &quot;<em>Drinking how coffee super fast</em>&quot; that has a description link to the blog site. </li> <li>Start a community forum post about the topic &quot;<em>How to drink hot coffee
+
+## Advice Needed
+ - [https://www.reddit.com/r/SEO/comments/1ioueew/advice_needed](https://www.reddit.com/r/SEO/comments/1ioueew/advice_needed)
+ - RSS feed: $source
+ - date published: 2025-02-13T21:42:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been working in SEO for 10 years, and have just began helping a client flush out their marketing strategy because they are going into a growth phase and basically need an overhaul.</p> <p>The team they are working with has quite a few issues, but one I am not sure if its an issue or just an approach I haven&#39;t seen before (though I have an idea of which way it goes).</p> <p>They are creating backlinks by posting long articles and comments to free sites. These sites have nothing to do with the brand. For instance, the brand sells car parts and they are posting articles to sites like Media Mavens.</p> <p>I have asked them to stop this practice until I gain some clarity, but I want to get some opinions here. Is this the proper way to backlink? It seems like anyone could create a bunch of profiles and make their own backlinks across the web, but I know marketing is a broaaaad field, and I might just not know about this approach. </p> <p>Thanks!
+
+## How do you optimize a page for both Cyrillic and Latin letters?
+ - [https://www.reddit.com/r/SEO/comments/1iou4mz/how_do_you_optimize_a_page_for_both_cyrillic_and](https://www.reddit.com/r/SEO/comments/1iou4mz/how_do_you_optimize_a_page_for_both_cyrillic_and)
+ - RSS feed: $source
+ - date published: 2025-02-13T21:30:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, so personal case here.</p> <p>I&#39;m from a country that uses a cyrillic alphabet, but most people still use latin on the keytboard. </p> <p>How can I optimize pages for latin SEO, while keeping the content of the page in cyrillic? Thought about the meta description (include both latin and cyrilic there), but it&#39;s not long enouigh.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lakimens"> /u/lakimens </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iou4mz/how_do_you_optimize_a_page_for_both_cyrillic_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iou4mz/how_do_you_optimize_a_page_for_both_cyrillic_and/">[comments]</a></span>
+
+## How much do you guys earn (if you want to say it)
+ - [https://www.reddit.com/r/SEO/comments/1iot17e/how_much_do_you_guys_earn_if_you_want_to_say_it](https://www.reddit.com/r/SEO/comments/1iot17e/how_much_do_you_guys_earn_if_you_want_to_say_it)
+ - RSS feed: $source
+ - date published: 2025-02-13T20:43:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>What is your salary as a medior specialist.</p> <p>PS: does someone have a nice SEO case of a succesful project</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Extreme_Bathroom_253"> /u/Extreme_Bathroom_253 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iot17e/how_much_do_you_guys_earn_if_you_want_to_say_it/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iot17e/how_much_do_you_guys_earn_if_you_want_to_say_it/">[comments]</a></span>
+
+## Looking for SEO GOD to join the founding team.
+ - [https://www.reddit.com/r/SEO/comments/1ioro2n/looking_for_seo_god_to_join_the_founding_team](https://www.reddit.com/r/SEO/comments/1ioro2n/looking_for_seo_god_to_join_the_founding_team)
+ - RSS feed: $source
+ - date published: 2025-02-13T19:44:42+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/amanwithai"> /u/amanwithai </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1ioro2n/looking_for_seo_god_to_join_the_founding_team/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1ioro2n/looking_for_seo_god_to_join_the_founding_team/">[comments]</a></span>
+
+## Did you migrate your agency away from SEMRush? Care to share the story?
+ - [https://www.reddit.com/r/SEO/comments/1iopa45/did_you_migrate_your_agency_away_from_semrush](https://www.reddit.com/r/SEO/comments/1iopa45/did_you_migrate_your_agency_away_from_semrush)
+ - RSS feed: $source
+ - date published: 2025-02-13T18:04:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>We are a ~20 client digital marketing agency, and have used SEMRUSH for a long, long time. But every time we do our end of year analysis of spending - SEMRush is one of our largest tool expenses...leading us to wonder if we should migrate before our May EOC. We&#39;re looking at a number of agency-class SEO tools, but I need to narrow down the ones we actually demo. </p> <p>Is this the year we should switch to an alternative? Are Google&#39;s new SERP scraping restrictions going to shuffle this tools market? Are there mostly equivalent features for those features we use most? </p> <p>Our fav Features: </p> <p>The lion&#39;s share of use is in keyword magic, position tracking, on-page audits (screaming frog is our primary), and various domain and traffic quick analysis (often while we have prospects on the phone...). Our clients never ask about longitudinal rank tracking beyond around 3-6 months, but it&#39;s worth mentioning we&#39;ll be letting year
+
+## SERP position high, but traffic low after a site redesign?
+ - [https://www.reddit.com/r/SEO/comments/1iool8g/serp_position_high_but_traffic_low_after_a_site](https://www.reddit.com/r/SEO/comments/1iool8g/serp_position_high_but_traffic_low_after_a_site)
+ - RSS feed: $source
+ - date published: 2025-02-13T17:35:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Currently working in Saas SEO and we just completed a redesign two months ago. </p> <p>Given the project we knew to take precaution on redirects, content optimizations, and internal linking. That&#39;s all squared away. Our issue not is that our traffic (unexpectedly) is down nearly 60% as of today. </p> <p>Technical and design SEO is still being worked on as Lighthouse SEO scores are trash (SEO: 39, FCP: 64)</p> <p>We are however still maintaining strong rankings in the SERPs (Google and Bing) for our top performing keywords.</p> <p>Has anyone ever experienced this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sumosushisamurai"> /u/sumosushisamurai </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iool8g/serp_position_high_but_traffic_low_after_a_site/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iool8g/serp_position_high_but_traffic_low_after_a_site/">[commen
+
+## Many impressions, zero clicks
+ - [https://www.reddit.com/r/SEO/comments/1ionhd3/many_impressions_zero_clicks](https://www.reddit.com/r/SEO/comments/1ionhd3/many_impressions_zero_clicks)
+ - RSS feed: $source
+ - date published: 2025-02-13T16:49:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Second post of the day lol. I am NOT a SEO expert, just a small biz owner figure things out for myself. I have 2 websites related to my biz. One does exceptionally well with many first page rankings on Google and most of those are in the top spot (after all the ads of course)! But with the primary site, I just can&#39;t seem to get things right. </p> <p><strong><em>What am I potentially doing wrong or not doing enough of to get these kind of results in GSC?</em></strong></p> <p>Image in the comments. This is for keywords that were mainly added via blog content in the last 30 days.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/fairyglowmother"> /u/fairyglowmother </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1ionhd3/many_impressions_zero_clicks/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1ionhd3/many_impressions_zero_clicks/">[comments]</a></span>
+
+## /login_with_shop
+ - [https://www.reddit.com/r/SEO/comments/1iokmjy/login_with_shop](https://www.reddit.com/r/SEO/comments/1iokmjy/login_with_shop)
+ - RSS feed: $source
+ - date published: 2025-02-13T14:46:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have thousands of these pages in my GSC that are indexed but blocked. How can I get these pages noindexed? BTW, I moved my site from Shopify to Squarespace and am having a ton of errors that seemingly result from having been on Shopify. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/fairyglowmother"> /u/fairyglowmother </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iokmjy/login_with_shop/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iokmjy/login_with_shop/">[comments]</a></span>
+
+## {Case Study} G2 bleeds traffic - are they facing an existential crisis?
+ - [https://www.reddit.com/r/SEO/comments/1iok6ay/case_study_g2_bleeds_traffic_are_they_facing_an](https://www.reddit.com/r/SEO/comments/1iok6ay/case_study_g2_bleeds_traffic_are_they_facing_an)
+ - RSS feed: $source
+ - date published: 2025-02-13T14:25:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Traffic Loss</p> <p><a href="http://G2.com">G2.com</a> has lost approximately 80% of its SEO traffic since 20232526. This represents a massive drop in organic search visibility and website visitors.</p> <p>Recent Traffic Data</p> <p>More recent data shows G2.com&#39;s traffic continuing to decline:</p> <p>In December 2024, <a href="http://G2.com">G2.com</a> received 3.65 million visits32.</p> <p>In January 2025, traffic decreased further to 3.5 million visits, a 4.14% month-over-month decline32.</p> <p>Comparing November 2024 to December 2024, traffic decreased by 19.81%32.</p> <p>Traffic Sources</p> <p>The majority of G2.com&#39;s remaining traffic comes from organic search:</p> <p>67.51% of desktop visits in January 2025 came from organic search33.</p> <p>Direct traffic accounted for 26.48% of visits</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WebLinkr"> /u/WebLinkr </a> <br/> <span><a href="https://www.re
+
+## Structured Data Question: Is adding 20 plus locations to "areas served" a bad move?
+ - [https://www.reddit.com/r/SEO/comments/1iojxyi/structured_data_question_is_adding_20_plus](https://www.reddit.com/r/SEO/comments/1iojxyi/structured_data_question_is_adding_20_plus)
+ - RSS feed: $source
+ - date published: 2025-02-13T14:14:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>When it comes to the site I&#39;m working on, there are in fact twenty counties in three states to include in this section; however, the local business schema seems odd with so much packed into that one area. Does anyone know from experience if doing so is potentially harmful or just not really? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/red_fox23"> /u/red_fox23 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iojxyi/structured_data_question_is_adding_20_plus/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iojxyi/structured_data_question_is_adding_20_plus/">[comments]</a></span>
+
+## {SEO news} Reddit Blames Google Algorithm Change For Weaker Than Expected Growth
+ - [https://www.reddit.com/r/SEO/comments/1ioj2w9/seo_news_reddit_blames_google_algorithm_change](https://www.reddit.com/r/SEO/comments/1ioj2w9/seo_news_reddit_blames_google_algorithm_change)
+ - RSS feed: $source
+ - date published: 2025-02-13T13:31:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>So after Google literally <a href="https://www.seroundtable.com/google-reddit-content-deal-36944.html">paid Reddit</a> for its content and then <a href="https://www.seroundtable.com/google-search-reddit-forum-threads-37176.html">ranked them incredibly well</a> in Google Search and its search features, Reddit during its earnings call blamed Google&#39;s search algorithm for not hitting its expected user growth.</p> <p>Here are two headlines:</p> <ul> <li><a href="https://www.reuters.com/technology/reddit-forecasts-quarterly-revenue-above-estimates-2025-02-12/">Reddit misses daily active unique visitors estimates on Google algorithm change, shares tumble</a>, Reuters</li> <li><a href="https://www.cnbc.com/2025/02/12/reddit-rddt-q4-2024.html">Reddit shares plunge after Google algorithm change contributes to miss in user numbers</a>, CNBC</li> </ul> <p>I like how CNBC summed it up:</p> <ul> <li>Reddit shares fell more than 15% on Wednesday after the comp
+
+## Starting a Freelance SEO Business. Use My Own Name, or a Brand Name?
+ - [https://www.reddit.com/r/SEO/comments/1iohe63/starting_a_freelance_seo_business_use_my_own_name](https://www.reddit.com/r/SEO/comments/1iohe63/starting_a_freelance_seo_business_use_my_own_name)
+ - RSS feed: $source
+ - date published: 2025-02-13T11:53:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I&#39;m about to dip my toes into the world of freelancing after 6 years of professional SEO experience.</p> <p>I am just about to set up my website. Do you think it&#39;s better to name my site (and brand) as just my personal name or use a brand name? My target audience is going to be small and medium businesses, and I want to offer a personal service.</p> <p>I personally think that just using your own name seems a bit unoriginal and uninspiring, and I would prefer to use a brand name. However, I&#39;ve read in serveral places that using your own name is the way to go to build trust and authenticity and help with getting work from small and medium businesses.</p> <p>What do you all think?</p> <p>Cheers</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Designed987"> /u/Designed987 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iohe63/starting_a_freelance_seo_business_use_my_o
+
+## Another local schema question...
+ - [https://www.reddit.com/r/SEO/comments/1iofxbu/another_local_schema_question](https://www.reddit.com/r/SEO/comments/1iofxbu/another_local_schema_question)
+ - RSS feed: $source
+ - date published: 2025-02-13T10:10:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a question about a website that has separate location landing pages. It has one physical location, but services &quot;everywhere&quot;, the whole country in question.</p> <p>If I wanted to add a separate piece of schema code to a single location page, what would be the best way to do this in Wordpress.</p> <p>e.g. the homepage already has schema for the service, physical location etc, but if I wanted to add schema to the location page that would target the search term &quot;SERVICE + CITY&quot;, what would be the best way to do it, without disrupting the existing schema code. Or is there a way....</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/barrycreed"> /u/barrycreed </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iofxbu/another_local_schema_question/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iofxbu/another_local_schema_question/">[comments]</a></s
+
+## Anyone used Fatjoe before?
+ - [https://www.reddit.com/r/SEO/comments/1ioe1b9/anyone_used_fatjoe_before](https://www.reddit.com/r/SEO/comments/1ioe1b9/anyone_used_fatjoe_before)
+ - RSS feed: $source
+ - date published: 2025-02-13T07:46:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>Was looking for link building options, came across Fatjoe. Anyone use them before? Seems to have mixed reviews with many saying its quality of work is bad for what they charged. </p> <p>But on a whole, it looks promising but I can’t see any real results from anybody. </p> <p>How does this work? Lol</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dapper_Race_1454"> /u/Dapper_Race_1454 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1ioe1b9/anyone_used_fatjoe_before/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1ioe1b9/anyone_used_fatjoe_before/">[comments]</a></span>
+
+## How do you bridge the gap between leanring and working in SEO?
+ - [https://www.reddit.com/r/SEO/comments/1ioda9i/how_do_you_bridge_the_gap_between_leanring_and](https://www.reddit.com/r/SEO/comments/1ioda9i/how_do_you_bridge_the_gap_between_leanring_and)
+ - RSS feed: $source
+ - date published: 2025-02-13T06:50:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all,</p> <p>I&#39;m currently doing all sort of courses and training to learn SEO and hope that one day I can freelance as a consultant or specialist.</p> <p>So once one has the theoretical knowledge, how does he bridge the gap between knowing thigs and becoming a professional?</p> <p>How did you do? What do you recomand? What do people arround did? What would be a smart move?</p> <p>I&#39;m still have a lot to learn but I&#39;d be interested to have your enlightened takes.</p> <p>Thanks.</p> <p>edit: typo in title, sorry.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bigo_bigowl"> /u/bigo_bigowl </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1ioda9i/how_do_you_bridge_the_gap_between_leanring_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1ioda9i/how_do_you_bridge_the_gap_between_leanring_and/">[comments]</a></span>
+
+## Thinking about moving from WP to Wix, is that a right move?
+ - [https://www.reddit.com/r/SEO/comments/1iod1pj/thinking_about_moving_from_wp_to_wix_is_that_a](https://www.reddit.com/r/SEO/comments/1iod1pj/thinking_about_moving_from_wp_to_wix_is_that_a)
+ - RSS feed: $source
+ - date published: 2025-02-13T06:34:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>We’re a small startup, and SEO has been a constant struggle due to our lack of technical know-how and, frankly, the manpower to deal with it. We’re running a self-deployed WordPress blog as a subdomain, but it’s turned into a full-blown shitshow with problems that might seem trivial to pros but are giving us a major headache. Here’s the mess we’re dealing with:</p> <ol> <li>Painfully slow loading times – Some of our best-performing pages are getting progressively slower, one even hitting 7 seconds. The kicker? No massive images, just plain text and some simple text charts.</li> <li>SEO plugin refuses to play nice – Rank Math SEO won’t connect to Google Search Console. The dashboard shows a big fat zero across the board, despite the GSC account being properly linked. I suspect some deep-rooted WordPress gremlin is messing with the connection, but I have no clue where to start.</li> <li>Google ghosting our new pages – Every new page refuses to get inde
+
+## How many contents per day would be optimal?
+ - [https://www.reddit.com/r/SEO/comments/1io8sc0/how_many_contents_per_day_would_be_optimal](https://www.reddit.com/r/SEO/comments/1io8sc0/how_many_contents_per_day_would_be_optimal)
+ - RSS feed: $source
+ - date published: 2025-02-13T02:27:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>Provided all the content is valuable, does more content mean more traffic?</p> <p>Can a new company hire a dozen writers and make them publish 20 fair-quality articles every day and expect fast SEO growth?</p> <p>Do you have to write every day or twice a week?</p> <p>What is the optimal practice here?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/StevenJang_"> /u/StevenJang_ </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1io8sc0/how_many_contents_per_day_would_be_optimal/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1io8sc0/how_many_contents_per_day_would_be_optimal/">[comments]</a></span>
+
+## What should I do with this dead website ?
+ - [https://www.reddit.com/r/SEO/comments/1io7juw/what_should_i_do_with_this_dead_website](https://www.reddit.com/r/SEO/comments/1io7juw/what_should_i_do_with_this_dead_website)
+ - RSS feed: $source
+ - date published: 2025-02-13T01:25:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello,</p> <p>3 months ago i created 2 websites for ecommerce. I did a great SEO on page work, they strated to ranking well. 1 week ago, i did a mistake by linking these 2 websites. Now they are loosing a lot of their keyword and don&#39;t have any traffic left.</p> <p>What should I do ? Continue to post blog ? Sell cheap link with ? Any suggestions ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TitanChad"> /u/TitanChad </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1io7juw/what_should_i_do_with_this_dead_website/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1io7juw/what_should_i_do_with_this_dead_website/">[comments]</a></span>
+
+## Beginner that needs help
+ - [https://www.reddit.com/r/SEO/comments/1io71w6/beginner_that_needs_help](https://www.reddit.com/r/SEO/comments/1io71w6/beginner_that_needs_help)
+ - RSS feed: $source
+ - date published: 2025-02-13T01:00:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>Working on a soccer website, will have a homepage with services that I offer , 1 on 1 coaching, jersey design etc. however will also have blog post to hopefully attract organic traffic, I know the homepage needs to have a nice easy to navigate layout, however does the homepage need a keyword, even one? It will have some text but not a lot, I know the keyword golden ratio is about once or twice per every hundred words </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SfzFc"> /u/SfzFc </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1io71w6/beginner_that_needs_help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1io71w6/beginner_that_needs_help/">[comments]</a></span>
+

@@ -1,0 +1,58 @@
+# Source:hacking: security in practice, URL:https://www.reddit.com/r/hacking/.rss, language:en
+
+## Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication
+ - [https://www.reddit.com/r/hacking/comments/1iowfjv/multiple_russian_threat_actors_targeting](https://www.reddit.com/r/hacking/comments/1iowfjv/multiple_russian_threat_actors_targeting)
+ - RSS feed: $source
+ - date published: 2025-02-13T23:12:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1iowfjv/multiple_russian_threat_actors_targeting/"> <img src="https://external-preview.redd.it/bu8MS-b4JRgqKSVeC0jG7VvLZMqXi9WZA_siykwkZXM.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=0ffacb815410656168aa8dcf942fa5c0dc8611f1" alt="Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication" title="Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/intelw1zard"> /u/intelw1zard </a> <br/> <span><a href="https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1iowfjv/multiple_russian_threat_actors_targeting/">[comments]</a></span> </td></tr></table>
+
+## Offering a $1000 bounty to anyone who can get into my Reddit account by Dec 31
+ - [https://www.reddit.com/r/hacking/comments/1iotn6c/offering_a_1000_bounty_to_anyone_who_can_get_into](https://www.reddit.com/r/hacking/comments/1iotn6c/offering_a_1000_bounty_to_anyone_who_can_get_into)
+ - RSS feed: $source
+ - date published: 2025-02-13T21:09:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to offering a $1000 bounty to anyone who can hack my Reddit account by Dec 31. What hacking forums can I post in to make this offer?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/crusaderkingo"> /u/crusaderkingo </a> <br/> <span><a href="https://www.reddit.com/r/hacking/comments/1iotn6c/offering_a_1000_bounty_to_anyone_who_can_get_into/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1iotn6c/offering_a_1000_bounty_to_anyone_who_can_get_into/">[comments]</a></span>
+
+## DOGE Is Hacking America The U.S. government has experienced what may be the most consequential security breach in its history.
+ - [https://www.reddit.com/r/hacking/comments/1ioorzq/doge_is_hacking_america_the_us_government_has](https://www.reddit.com/r/hacking/comments/1ioorzq/doge_is_hacking_america_the_us_government_has)
+ - RSS feed: $source
+ - date published: 2025-02-13T17:43:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1ioorzq/doge_is_hacking_america_the_us_government_has/"> <img src="https://external-preview.redd.it/zowdZ-tU_mWUhk3hdOKk4R0ST0TJL_i5o-1vsX7g2Ww.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ee0e8f02e2e1603e6880f9b0a97f2bdaa81ff5b9" alt="DOGE Is Hacking America The U.S. government has experienced what may be the most consequential security breach in its history." title="DOGE Is Hacking America The U.S. government has experienced what may be the most consequential security breach in its history." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/A_Concerned_Viking"> /u/A_Concerned_Viking </a> <br/> <span><a href="https://foreignpolicy.com/2025/02/11/doge-cyberattack-united-states-treasury/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1ioorzq/doge_is_hacking_america_the_us_government_has/">[comments]</a></span> </td></tr></table>
+
+## Open sourcing my autonomous AI web hacker
+ - [https://www.reddit.com/r/hacking/comments/1iontpl/open_sourcing_my_autonomous_ai_web_hacker](https://www.reddit.com/r/hacking/comments/1iontpl/open_sourcing_my_autonomous_ai_web_hacker)
+ - RSS feed: $source
+ - date published: 2025-02-13T17:03:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was wondering whether there is any interest here in such a program. It&#39;s solved a few portswigger labs, but had yet to find any o days. There is some more dev work to do in order to push it past the finish line.</p> <p>However, I don&#39;t know if it&#39;s worth the additional work. Would any of you actually use this, or am I wasting my time here?</p> <p>It&#39;s very straightforward: enter a URL, your openai api key, set a max num of requests, and sit back as it generates a vuln report.</p> <p>Let me know. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dvnci1452"> /u/dvnci1452 </a> <br/> <span><a href="https://www.reddit.com/r/hacking/comments/1iontpl/open_sourcing_my_autonomous_ai_web_hacker/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1iontpl/open_sourcing_my_autonomous_ai_web_hacker/">[comments]</a></span>
+
+## Chinese espionage tools deployed in RA World ransomware attack
+ - [https://www.reddit.com/r/hacking/comments/1iondc7/chinese_espionage_tools_deployed_in_ra_world](https://www.reddit.com/r/hacking/comments/1iondc7/chinese_espionage_tools_deployed_in_ra_world)
+ - RSS feed: $source
+ - date published: 2025-02-13T16:45:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1iondc7/chinese_espionage_tools_deployed_in_ra_world/"> <img src="https://external-preview.redd.it/-uHlnOTNDY6glZkMgFPD1r_eQmEReOGiHgKIV5F2IL8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4f4e0741dd29bdfda5a19c2538f46412a5add31e" alt="Chinese espionage tools deployed in RA World ransomware attack" title="Chinese espionage tools deployed in RA World ransomware attack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/intelw1zard"> /u/intelw1zard </a> <br/> <span><a href="https://www.bleepingcomputer.com/news/security/chinese-espionage-tools-deployed-in-ra-world-ransomware-attack/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1iondc7/chinese_espionage_tools_deployed_in_ra_world/">[comments]</a></span> </td></tr></table>
+
+## Me fr
+ - [https://www.reddit.com/r/hacking/comments/1iom1ao/me_fr](https://www.reddit.com/r/hacking/comments/1iom1ao/me_fr)
+ - RSS feed: $source
+ - date published: 2025-02-13T15:48:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1iom1ao/me_fr/"> <img src="https://preview.redd.it/5db34nvsgxie1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6731be80f51e08b04721b1c5123f761e99ae9420" alt="Me fr" title="Me fr" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/xxlaww"> /u/xxlaww </a> <br/> <span><a href="https://i.redd.it/5db34nvsgxie1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1iom1ao/me_fr/">[comments]</a></span> </td></tr></table>
+
+## To those who work out at any security companies. Are modern day Bluetooth tracking / security devices used at the work place?
+ - [https://www.reddit.com/r/hacking/comments/1iogx8s/to_those_who_work_out_at_any_security_companies](https://www.reddit.com/r/hacking/comments/1iogx8s/to_those_who_work_out_at_any_security_companies)
+ - RSS feed: $source
+ - date published: 2025-02-13T11:22:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Bluetooth beacons can be used for: - Tracking either by setting up multiple beacons at given positions. Or adding the GPS coordinates of a scan, to stored scanned devices data.</p> <ul> <li><p>Setting up a perimeter to identify unrestricted devices</p></li> <li><p>Identify specific target devices using manufacturer data from Bluetooth scan</p></li> </ul> <p>They can also be used for much more. Given this I would appreciate if anyone who actually works for a cyber sec company can shed insight on the use of Bluetooth related tech.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/d41_fpflabs"> /u/d41_fpflabs </a> <br/> <span><a href="https://www.reddit.com/r/hacking/comments/1iogx8s/to_those_who_work_out_at_any_security_companies/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1iogx8s/to_those_who_work_out_at_any_security_companies/">[comments]</a></span>
+
+## Flipper Zero Ethical Hacking Tool: The Complete Beginner's Guide
+ - [https://www.reddit.com/r/hacking/comments/1iodpdb/flipper_zero_ethical_hacking_tool_the_complete](https://www.reddit.com/r/hacking/comments/1iodpdb/flipper_zero_ethical_hacking_tool_the_complete)
+ - RSS feed: $source
+ - date published: 2025-02-13T07:21:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1iodpdb/flipper_zero_ethical_hacking_tool_the_complete/"> <img src="https://external-preview.redd.it/qqFaKbG-rOW6p3XvxDmetFA1_hVJiFCOTxU8d2zAO4w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2b52aa4786b3598d6a2bdcb31973f1f683124ce9" alt="Flipper Zero Ethical Hacking Tool: The Complete Beginner's Guide" title="Flipper Zero Ethical Hacking Tool: The Complete Beginner's Guide" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dark-Marc"> /u/Dark-Marc </a> <br/> <span><a href="https://darkmarc.substack.com/p/flipper-zero-hacking-tool-the-complete">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1iodpdb/flipper_zero_ethical_hacking_tool_the_complete/">[comments]</a></span> </td></tr></table>
+

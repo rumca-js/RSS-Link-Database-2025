@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-13T12:01:02+00:00",
+        "description": "Want to try LangChain RAG for yourself? Find the code here \u2192 https://ibm.biz/BdGbGR\n\nReady to become a certified Associate Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdGpSC\n\nLearn more about RAG here \u2192 https://ibm.biz/BdGbGE\n\nCurious about optimizing your AI models? Join Data Scientist Erika Russi as she demonstrates how to leverage LangChain RAG to keep your large language models up-to-date. Learn practical steps for setting up a retriever, creating a knowledge base, and enabling your models to answer complex queries. \ud83d\ude80\ud83d\udcda\ud83e\udd16\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdGba9\n\n#ai #machinelearning #llm",
+        "id": 2104821,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=cDn7bf84LsM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cDn7bf84LsM/hqdefault.jpg",
+        "title": "LangChain RAG: Optimizing AI Models for Accurate Responses",
+        "vote": 0
+    }
+]

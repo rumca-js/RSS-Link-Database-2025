@@ -1,0 +1,212 @@
+# Source:Movie News and Discussion, URL:https://www.reddit.com/r/movies/.rss, language:en
+
+## Anybody remember Alan Alfa and John Candy in this comedy? What a wild, wacky premise.
+ - [https://www.reddit.com/r/movies/comments/1iow34o/anybody_remember_alan_alfa_and_john_candy_in_this](https://www.reddit.com/r/movies/comments/1iow34o/anybody_remember_alan_alfa_and_john_candy_in_this)
+ - RSS feed: $source
+ - date published: 2025-02-13T22:56:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iow34o/anybody_remember_alan_alfa_and_john_candy_in_this/"> <img src="https://external-preview.redd.it/aKY6dWIdJ3zpaWyEiuN5FEqNu_KHHmB6tEAr4VppoNs.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a451505d3addf46cd80754c6754a8355be9a1deb" alt="Anybody remember Alan Alfa and John Candy in this comedy? What a wild, wacky premise." title="Anybody remember Alan Alfa and John Candy in this comedy? What a wild, wacky premise." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Aliteralhedgehog"> /u/Aliteralhedgehog </a> <br/> <span><a href="https://youtu.be/_BaR5DxgY-c?si=C0c7CIPfrJaMLBHB">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iow34o/anybody_remember_alan_alfa_and_john_candy_in_this/">[comments]</a></span> </td></tr></table>
+
+## ‘No Other Land’ Is Nominated for an Oscar, but in Masafer Yatta, We’re Still Being Erased — Opinion
+ - [https://www.reddit.com/r/movies/comments/1iovwxj/no_other_land_is_nominated_for_an_oscar_but_in](https://www.reddit.com/r/movies/comments/1iovwxj/no_other_land_is_nominated_for_an_oscar_but_in)
+ - RSS feed: $source
+ - date published: 2025-02-13T22:48:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iovwxj/no_other_land_is_nominated_for_an_oscar_but_in/"> <img src="https://external-preview.redd.it/ho7VqLv2V0DT_gU1mm83d25S6_n0mzrN9qju2l1QVqk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa9319632485890a01aa74f172c97459e6ec06a2" alt="‘No Other Land’ Is Nominated for an Oscar, but in Masafer Yatta, We’re Still Being Erased — Opinion" title="‘No Other Land’ Is Nominated for an Oscar, but in Masafer Yatta, We’re Still Being Erased — Opinion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/indiewire"> /u/indiewire </a> <br/> <span><a href="https://www.indiewire.com/features/commentary/no-other-land-nominated-oscar-life-changed-1235095210/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iovwxj/no_other_land_is_nominated_for_an_oscar_but_in/">[comments]</a></span> </td></tr></table>
+
+## Join us tomorrow Friday 2/14 at 3:00 PM ET for a live AMA/Q&A with Alex Thompson, director of 'Ghostlight', 'Saint Frances', and 'Rounding'.
+ - [https://www.reddit.com/r/movies/comments/1iouh4m/join_us_tomorrow_friday_214_at_300_pm_et_for_a](https://www.reddit.com/r/movies/comments/1iouh4m/join_us_tomorrow_friday_214_at_300_pm_et_for_a)
+ - RSS feed: $source
+ - date published: 2025-02-13T21:45:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iouh4m/join_us_tomorrow_friday_214_at_300_pm_et_for_a/"> <img src="https://preview.redd.it/63p54f278zie1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8732fc451dafde8d5a6299e83eb92530d1716e1" alt="Join us tomorrow Friday 2/14 at 3:00 PM ET for a live AMA/Q&amp;A with Alex Thompson, director of 'Ghostlight', 'Saint Frances', and 'Rounding'." title="Join us tomorrow Friday 2/14 at 3:00 PM ET for a live AMA/Q&amp;A with Alex Thompson, director of 'Ghostlight', 'Saint Frances', and 'Rounding'." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BunyipPouch"> /u/BunyipPouch </a> <br/> <span><a href="https://i.redd.it/63p54f278zie1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iouh4m/join_us_tomorrow_friday_214_at_300_pm_et_for_a/">[comments]</a></span> </td></tr></table>
+
+## First Poster for Documentary 'Thank You Very Much' - A look at the all-too-short life and career of enigmatic comedy legend Andy Kaufman, including never-before-seen footage and intimate interviews with friends, colleagues and family members.
+ - [https://www.reddit.com/r/movies/comments/1ioubsg/first_poster_for_documentary_thank_you_very_much](https://www.reddit.com/r/movies/comments/1ioubsg/first_poster_for_documentary_thank_you_very_much)
+ - RSS feed: $source
+ - date published: 2025-02-13T21:38:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1ioubsg/first_poster_for_documentary_thank_you_very_much/"> <img src="https://preview.redd.it/qg3u11o17zie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3af067a40fef210258676890f4f38317f6e0392b" alt="First Poster for Documentary 'Thank You Very Much' - A look at the all-too-short life and career of enigmatic comedy legend Andy Kaufman, including never-before-seen footage and intimate interviews with friends, colleagues and family members." title="First Poster for Documentary 'Thank You Very Much' - A look at the all-too-short life and career of enigmatic comedy legend Andy Kaufman, including never-before-seen footage and intimate interviews with friends, colleagues and family members." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BunyipPouch"> /u/BunyipPouch </a> <br/> <span><a href="https://i.redd.it/qg3u11o17zie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.
+
+## Tilda Swinton's Berlin Golden Bear Speech Takes Aim at 'War Criminals'
+ - [https://www.reddit.com/r/movies/comments/1iosqhq/tilda_swintons_berlin_golden_bear_speech_takes](https://www.reddit.com/r/movies/comments/1iosqhq/tilda_swintons_berlin_golden_bear_speech_takes)
+ - RSS feed: $source
+ - date published: 2025-02-13T20:30:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iosqhq/tilda_swintons_berlin_golden_bear_speech_takes/"> <img src="https://external-preview.redd.it/XoLU-KNFg_DN0RvRodly8MkozxraquWtKKXAyHUlmoM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=305a509431027b9e1a91c65b0cb58538f6add6ba" alt="Tilda Swinton's Berlin Golden Bear Speech Takes Aim at 'War Criminals'" title="Tilda Swinton's Berlin Golden Bear Speech Takes Aim at 'War Criminals'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/indiewire"> /u/indiewire </a> <br/> <span><a href="https://www.indiewire.com/news/festivals/tilda-swinton-berlin-golden-bear-speech-war-criminals-1235095270/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iosqhq/tilda_swintons_berlin_golden_bear_speech_takes/">[comments]</a></span> </td></tr></table>
+
+## Movie characters that best depict Narcissistic Personality Disorder
+ - [https://www.reddit.com/r/movies/comments/1iosjtx/movie_characters_that_best_depict_narcissistic](https://www.reddit.com/r/movies/comments/1iosjtx/movie_characters_that_best_depict_narcissistic)
+ - RSS feed: $source
+ - date published: 2025-02-13T20:22:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Anyone have suggestions for movies with characters that most realistically depict this? I found the mother in Beau Is Afraid did that very well, along with the shitty boyfriend in Midsommar. It seems Ari Aster has good insights into the psychological condition!</p> <p>The series (not a movie though) &quot;Apple Cider Vinegar&quot; that dramatizes the health influencer Belle Gibson also does a great job in this.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FeagueMaster"> /u/FeagueMaster </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iosjtx/movie_characters_that_best_depict_narcissistic/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iosjtx/movie_characters_that_best_depict_narcissistic/">[comments]</a></span>
+
+## The Worst Movie You've Ever Seen?
+ - [https://www.reddit.com/r/movies/comments/1iosdg3/the_worst_movie_youve_ever_seen](https://www.reddit.com/r/movies/comments/1iosdg3/the_worst_movie_youve_ever_seen)
+ - RSS feed: $source
+ - date published: 2025-02-13T20:14:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m currently sick and watching Gods the Deep. It&#39;s absolutely awful. Like...so bad. </p> <p>If my 5 year old son had a cardboard box and 100 crayons, he would&#39;ve made sets that look about the same. </p> <p>The acting isn&#39;t much better than when I&#39;m reading him books and night and try to give the characters different voices. </p> <p>Honestly, the SyFy channel would&#39;ve been ashamed to air this movie. </p> <p>So... what&#39;s your worst movie you&#39;ve ever seen?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NeedNewNameAgain"> /u/NeedNewNameAgain </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iosdg3/the_worst_movie_youve_ever_seen/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iosdg3/the_worst_movie_youve_ever_seen/">[comments]</a></span>
+
+## Day of the Fight Trailer (2025) | Michael C. Pitt, Steve Buscemi, Ron Perlman, Joe Pesci
+ - [https://www.reddit.com/r/movies/comments/1ior43w/day_of_the_fight_trailer_2025_michael_c_pitt](https://www.reddit.com/r/movies/comments/1ior43w/day_of_the_fight_trailer_2025_michael_c_pitt)
+ - RSS feed: $source
+ - date published: 2025-02-13T19:21:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1ior43w/day_of_the_fight_trailer_2025_michael_c_pitt/"> <img src="https://external-preview.redd.it/avmbXLKJPn6CVzeDj5hjOggoPLTFvf-RwGZJZZtv5MM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3107af9645a09f6a041ead915df4fddb8eb3f7e3" alt="Day of the Fight Trailer (2025) | Michael C. Pitt, Steve Buscemi, Ron Perlman, Joe Pesci" title="Day of the Fight Trailer (2025) | Michael C. Pitt, Steve Buscemi, Ron Perlman, Joe Pesci" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I love the look of this. Great cast too.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Due_Smoke7453"> /u/Due_Smoke7453 </a> <br/> <span><a href="https://youtu.be/j9ZB6gYsils?si=mt-zjuw1W9V7PmX0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ior43w/day_of_the_fight_trailer_2025_michael_c_pitt/">[comments]</a></span> </td></tr></table>
+
+## Heart and Souls (1993) starring Robert Downey Jr
+ - [https://www.reddit.com/r/movies/comments/1ioqnx4/heart_and_souls_1993_starring_robert_downey_jr](https://www.reddit.com/r/movies/comments/1ioqnx4/heart_and_souls_1993_starring_robert_downey_jr)
+ - RSS feed: $source
+ - date published: 2025-02-13T19:02:44+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://youtu.be/u0cxmmAqxw8?si=GS50Umz-yFMJggtC">https://youtu.be/u0cxmmAqxw8?si=GS50Umz-yFMJggtC</a></p> <p>One of Robert Downey Jr&#39;s lesser known movies. I love the cast of this movie. Everybody is excellent. Robert Downey Jr. has said in some interviews that this is his favourite movie he&#39;s done. It&#39;s nice to see both Robert and Tom Sizemore before it got bad with the drugs.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WerdNerd88"> /u/WerdNerd88 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1ioqnx4/heart_and_souls_1993_starring_robert_downey_jr/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ioqnx4/heart_and_souls_1993_starring_robert_downey_jr/">[comments]</a></span>
+
+## 40 Years Later, ‘Vision Quest’ Is Still a Great Sports Movie — with a Wild Horny Streak (Commentary)
+ - [https://www.reddit.com/r/movies/comments/1ioqa1o/40_years_later_vision_quest_is_still_a_great](https://www.reddit.com/r/movies/comments/1ioqa1o/40_years_later_vision_quest_is_still_a_great)
+ - RSS feed: $source
+ - date published: 2025-02-13T18:46:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1ioqa1o/40_years_later_vision_quest_is_still_a_great/"> <img src="https://external-preview.redd.it/n5wecyGJ-gtptrq0diVnbRdyrmwwYojV-Vurbnu4ewM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6160967d04a989b2a6a15e4b43af95158825b405" alt="40 Years Later, ‘Vision Quest’ Is Still a Great Sports Movie — with a Wild Horny Streak (Commentary)" title="40 Years Later, ‘Vision Quest’ Is Still a Great Sports Movie — with a Wild Horny Streak (Commentary)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/indiewire"> /u/indiewire </a> <br/> <span><a href="https://www.indiewire.com/features/interviews/vision-quest-anniversary-interview-matthew-modine-frank-jasper-1235094817/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ioqa1o/40_years_later_vision_quest_is_still_a_great/">[comments]</a></span> </td></tr></table>
+
+## Favorite uses of ‘metronomes’ in movies
+ - [https://www.reddit.com/r/movies/comments/1iopz1c/favorite_uses_of_metronomes_in_movies](https://www.reddit.com/r/movies/comments/1iopz1c/favorite_uses_of_metronomes_in_movies)
+ - RSS feed: $source
+ - date published: 2025-02-13T18:33:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>What I mean by ‘metronomes’ is something like the waterfall sound in Kill Bill—a sound that starts at the beginning of a scene and ends with it. </p> <p>One other great example is the “Shower Scene” from Psycho (1960). The screeching violins act as a kind of auditory metronome, starting with the first stab and continuing through the entire scene</p> <p>What’s your favorite movie scene that uses this technique? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhenTheStarsLine"> /u/WhenTheStarsLine </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iopz1c/favorite_uses_of_metronomes_in_movies/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iopz1c/favorite_uses_of_metronomes_in_movies/">[comments]</a></span>
+
+## Blue Velvet…wow!!!
+ - [https://www.reddit.com/r/movies/comments/1iopkiu/blue_velvetwow](https://www.reddit.com/r/movies/comments/1iopkiu/blue_velvetwow)
+ - RSS feed: $source
+ - date published: 2025-02-13T18:17:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I saw Blue Velvet for the first time last night and I was just blown away! For me, it was one of those movies that demanded to be seen again which I did today. I can’t believe what I just watched and I can’t believe I didn’t see this earlier considering I’ve seen (nearly) every film David Lynch has made.</p> <p>For starters it’s a good old-fashioned film next to anything that followed. It looks and feels like it’s set in the ‘50s. It looks like Vertigo. It’s a beautiful film. The set design. Just gorgeous to look at.</p> <p>But it’s the evil that lurks underneath that perfect suburban setting. That early shot of the black insects amongst the green grass says it all. The nasty little things that remain hidden are part of the beauty that we do see. They come hand-in-hand. </p> <p>I know a Frank Booth. I have a Frank Booth in my life. He’s a tragic figure. He can’t love but he wants to. But he can’t. So he destroys. He won’t accept nice gestures from
+
+## 8MM (1999)
+ - [https://www.reddit.com/r/movies/comments/1iopexl/8mm_1999](https://www.reddit.com/r/movies/comments/1iopexl/8mm_1999)
+ - RSS feed: $source
+ - date published: 2025-02-13T18:10:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Does anybody else think that this film is insanely underrated, it’s honestly one of my favorite thrillers, right up there with Se7en for me, it’s super dark but done extremely well! It’s damn near a horror film. One of my favorite Nicolas Cage films, and also great performances from Cage, Joaquin Phoenix and James Gandolfini!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/These_Feed_2616"> /u/These_Feed_2616 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iopexl/8mm_1999/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iopexl/8mm_1999/">[comments]</a></span>
+
+## Borderline - Official Trailer | Starring Samara Weaving and Ray Nicholson | In theaters March 14
+ - [https://www.reddit.com/r/movies/comments/1ionsxz/borderline_official_trailer_starring_samara](https://www.reddit.com/r/movies/comments/1ionsxz/borderline_official_trailer_starring_samara)
+ - RSS feed: $source
+ - date published: 2025-02-13T17:02:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1ionsxz/borderline_official_trailer_starring_samara/"> <img src="https://external-preview.redd.it/EEbxJ5U18JekAnI_QADQA9LDx4vvbsXY-yDzpDFKbk8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b6c4dbb2fe02d5c6eb96d323453da776eef1f945" alt="Borderline - Official Trailer | Starring Samara Weaving and Ray Nicholson | In theaters March 14" title="Borderline - Official Trailer | Starring Samara Weaving and Ray Nicholson | In theaters March 14" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NoCulture3505"> /u/NoCulture3505 </a> <br/> <span><a href="https://www.youtube.com/watch?v=ORHBgSvX_24">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ionsxz/borderline_official_trailer_starring_samara/">[comments]</a></span> </td></tr></table>
+
+## O'DESSA | Official Trailer | Searchlight Pictures
+ - [https://www.reddit.com/r/movies/comments/1iomrg4/odessa_official_trailer_searchlight_pictures](https://www.reddit.com/r/movies/comments/1iomrg4/odessa_official_trailer_searchlight_pictures)
+ - RSS feed: $source
+ - date published: 2025-02-13T16:19:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iomrg4/odessa_official_trailer_searchlight_pictures/"> <img src="https://external-preview.redd.it/kNtVfSPhvlOMljLSctuWtZiCEffVjh27BZYwa9vJngU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6649b7e5665b26d30d852ebb6bd5fa80a4801b7b" alt="O'DESSA | Official Trailer | Searchlight Pictures" title="O'DESSA | Official Trailer | Searchlight Pictures" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Comic_Book_Reader"> /u/Comic_Book_Reader </a> <br/> <span><a href="https://youtu.be/-YDQR6NUNYQ?si=ugsdh8c43Qgk5Bzf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iomrg4/odessa_official_trailer_searchlight_pictures/">[comments]</a></span> </td></tr></table>
+
+## The Accountant 2 | Official Trailer
+ - [https://www.reddit.com/r/movies/comments/1ioky7g/the_accountant_2_official_trailer](https://www.reddit.com/r/movies/comments/1ioky7g/the_accountant_2_official_trailer)
+ - RSS feed: $source
+ - date published: 2025-02-13T15:01:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1ioky7g/the_accountant_2_official_trailer/"> <img src="https://external-preview.redd.it/Vpqs2zF-ahIJrW5G90JeojMsFgt1luafjImgxDyG-1M.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b7f224f1190abf36226294a173be49a5f331eb9e" alt="The Accountant 2 | Official Trailer" title="The Accountant 2 | Official Trailer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://www.youtube.com/watch?v=3wRCOqyDI6E">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ioky7g/the_accountant_2_official_trailer/">[comments]</a></span> </td></tr></table>
+
+## Official Poster for 'The Accountant 2'
+ - [https://www.reddit.com/r/movies/comments/1ioktsd/official_poster_for_the_accountant_2](https://www.reddit.com/r/movies/comments/1ioktsd/official_poster_for_the_accountant_2)
+ - RSS feed: $source
+ - date published: 2025-02-13T14:55:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1ioktsd/official_poster_for_the_accountant_2/"> <img src="https://preview.redd.it/1acnoina7xie1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=40ee02a1266c7fa9a69163d5313311faa5f3f86b" alt="Official Poster for 'The Accountant 2'" title="Official Poster for 'The Accountant 2'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://i.redd.it/1acnoina7xie1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ioktsd/official_poster_for_the_accountant_2/">[comments]</a></span> </td></tr></table>
+
+## ‘Flow’ Will Join the Criterion Collection Later This Year with 4K Special Edition
+ - [https://www.reddit.com/r/movies/comments/1iokotg/flow_will_join_the_criterion_collection_later](https://www.reddit.com/r/movies/comments/1iokotg/flow_will_join_the_criterion_collection_later)
+ - RSS feed: $source
+ - date published: 2025-02-13T14:49:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iokotg/flow_will_join_the_criterion_collection_later/"> <img src="https://external-preview.redd.it/tfNetlxbsNALQddg3La8eB1kS6fcFLaHrtgVh9es8Uo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=111e5ca973737cb8ec1a2ba0440203c08ba31846" alt="‘Flow’ Will Join the Criterion Collection Later This Year with 4K Special Edition" title="‘Flow’ Will Join the Criterion Collection Later This Year with 4K Special Edition" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NoCulture3505"> /u/NoCulture3505 </a> <br/> <span><a href="https://www.indiewire.com/news/breaking-news/flow-joins-criterion-collection-1235094966/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iokotg/flow_will_join_the_criterion_collection_later/">[comments]</a></span> </td></tr></table>
+
+## Takashi Yamazaki Confirms Bigger Budget For 'GODZILLA MINUS ONE' Sequel
+ - [https://www.reddit.com/r/movies/comments/1iojy0j/takashi_yamazaki_confirms_bigger_budget_for](https://www.reddit.com/r/movies/comments/1iojy0j/takashi_yamazaki_confirms_bigger_budget_for)
+ - RSS feed: $source
+ - date published: 2025-02-13T14:14:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iojy0j/takashi_yamazaki_confirms_bigger_budget_for/"> <img src="https://external-preview.redd.it/df21YLEwlhaj1PPGW92H32l97qzut86lmMZkWi4hUgs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=721943f9595f5633f7d19cbdcdae50e630dc175b" alt="Takashi Yamazaki Confirms Bigger Budget For 'GODZILLA MINUS ONE' Sequel" title="Takashi Yamazaki Confirms Bigger Budget For 'GODZILLA MINUS ONE' Sequel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://www.fangoria.com/godzilla-minus-one-sequel-budget/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iojy0j/takashi_yamazaki_confirms_bigger_budget_for/">[comments]</a></span> </td></tr></table>
+
+## Until Dawn - New Trailer
+ - [https://www.reddit.com/r/movies/comments/1iojnvg/until_dawn_new_trailer](https://www.reddit.com/r/movies/comments/1iojnvg/until_dawn_new_trailer)
+ - RSS feed: $source
+ - date published: 2025-02-13T14:00:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iojnvg/until_dawn_new_trailer/"> <img src="https://external-preview.redd.it/pDdf_mQy9WGGRm4IgCujnZPXRlLMqE7KEQg8lz0Us6M.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c9c508a003c357d4f866f0a8db004aeca1012da8" alt="Until Dawn - New Trailer" title="Until Dawn - New Trailer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NoCulture3505"> /u/NoCulture3505 </a> <br/> <span><a href="https://www.youtube.com/watch?v=rZfwvLe961k">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iojnvg/until_dawn_new_trailer/">[comments]</a></span> </td></tr></table>
+
+## Harris Dickinson’s Directorial Debut ‘Urchin’ Starring Frank Dillane Heads to EFM With Charades
+ - [https://www.reddit.com/r/movies/comments/1iojl8p/harris_dickinsons_directorial_debut_urchin](https://www.reddit.com/r/movies/comments/1iojl8p/harris_dickinsons_directorial_debut_urchin)
+ - RSS feed: $source
+ - date published: 2025-02-13T13:57:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iojl8p/harris_dickinsons_directorial_debut_urchin/"> <img src="https://external-preview.redd.it/Vrx7MVvBhRM7vPm4qkO_9SN-lRyzWtb6wLhWJRkRR5Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bc18ff99d510b29e93368a8e4c802066f9e6b17f" alt="Harris Dickinson’s Directorial Debut ‘Urchin’ Starring Frank Dillane Heads to EFM With Charades" title="Harris Dickinson’s Directorial Debut ‘Urchin’ Starring Frank Dillane Heads to EFM With Charades" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SafeBodybuilder7191"> /u/SafeBodybuilder7191 </a> <br/> <span><a href="https://variety.com/2025/film/global/harris-dickinson-urchin-directorial-debut-charades-1236302362/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iojl8p/harris_dickinsons_directorial_debut_urchin/">[comments]</a></span> </td></tr></table>
+
+## China history. Movie suggestions.
+ - [https://www.reddit.com/r/movies/comments/1ioj8wa/china_history_movie_suggestions](https://www.reddit.com/r/movies/comments/1ioj8wa/china_history_movie_suggestions)
+ - RSS feed: $source
+ - date published: 2025-02-13T13:39:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have recently rewatched The Last Emperor 1987 by Bernardo Bertolucci (I must have seen that movie like 10 times). The historical aesthetic China always impresses me.</p> <p>Can anyone recommend movies like this? about chinese history. Movies like The Last Emperor, Raise the Red Lantern, Farewell my Concubine and movies like that?</p> <p>Movies that is possible to find of course. On streaming DVD and the like. I know there are a lot of chinese productions which are hard to find. But i am not looking for american/western productions only.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Eudaimonia1590"> /u/Eudaimonia1590 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1ioj8wa/china_history_movie_suggestions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ioj8wa/china_history_movie_suggestions/">[comments]</a></span>
+
+## Do You Think Bait Content, Especially Rage Bait, Has Soured The Movie Discussion Experience?
+ - [https://www.reddit.com/r/movies/comments/1ioiv6h/do_you_think_bait_content_especially_rage_bait](https://www.reddit.com/r/movies/comments/1ioiv6h/do_you_think_bait_content_especially_rage_bait)
+ - RSS feed: $source
+ - date published: 2025-02-13T13:19:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Not sure who said it. Might have been Dan Murrell or Erik Voss from New Rockstars. But someone said that due to these types of grifters and the tactic of bombarding of content, things such as a movie being good but not great are viewed as negative nowadays. Then other things such as perpetuating blanket statements as facts. I remember seeing one &quot;reviewer&quot; talking about how there&#39;s &quot;no good remakes&quot; as you can see a poster for &quot;A Star is Born&quot; (2018) in the background and they weren&#39;t being ironic. There are other examples of how this type of content has really hampered movie going and watching. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Different_Tackle_107"> /u/Different_Tackle_107 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1ioiv6h/do_you_think_bait_content_especially_rage_bait/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/
+
+## V For Vendetta (2005) is more relevant now that when it was released
+ - [https://www.reddit.com/r/movies/comments/1ioh3em/v_for_vendetta_2005_is_more_relevant_now_that](https://www.reddit.com/r/movies/comments/1ioh3em/v_for_vendetta_2005_is_more_relevant_now_that)
+ - RSS feed: $source
+ - date published: 2025-02-13T11:33:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>It&#39;s been nearly two decades since V for Vendetta (2005) hit theaters, and while it was powerful then, it feels downright prophetic now. The film (adapted from Alan Moore&#39;s graphic novel) depicts a world gripped by authoritarian rule, where fear and control are used to suppress dissent, manipulate the public, and eliminate those who don&#39;t fit a rigid, regime-approved mold. Sound familiar?</p> <p>Over the past several years, we&#39;ve seen a troubling global shift toward far-right politics and fascist rhetoric. Governments are cracking down on dissent, scapegoating marginalized groups, and using mass surveillance and propaganda to consolidate power. In America, book bans are rising, protests are being criminalized, and political leaders openly flirt with authoritarianism while spinning their actions as &quot;preserving democracy.&quot; Meanwhile, corporations and media conglomerates control narratives just as tightly as the Norsefire regim
+
+## Which director and actor would you like to see work together again?
+ - [https://www.reddit.com/r/movies/comments/1ioeee0/which_director_and_actor_would_you_like_to_see](https://www.reddit.com/r/movies/comments/1ioeee0/which_director_and_actor_would_you_like_to_see)
+ - RSS feed: $source
+ - date published: 2025-02-13T08:13:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m watching Prisoners again right now and Hugh Jackman is amazing in this. I know Jake Gyllenhaal worked with Denis Villeneuve again on Enemy. Are there any other actors and directors that worked together on a film that was so good that you want to see them make another movie together. I don’t mean like Robert De Niro and Martin Scorsese or Denzel Washington and Spike Lee who have worked together multiple times and are always good. I mean ones that have only done one film together so far.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarkHAZE86"> /u/MarkHAZE86 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1ioeee0/which_director_and_actor_would_you_like_to_see/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ioeee0/which_director_and_actor_would_you_like_to_see/">[comments]</a></span>
+
+## Rewatched ‘Signs’(2002)
+ - [https://www.reddit.com/r/movies/comments/1iod9rp/rewatched_signs2002](https://www.reddit.com/r/movies/comments/1iod9rp/rewatched_signs2002)
+ - RSS feed: $source
+ - date published: 2025-02-13T06:49:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>Growing up with this film I already appreciated it. The cinematography stands out. The score is phenomenal. </p> <p>The writing is wooden at times, but overall well written.</p> <p>But god damn, can we talk about Gibson’s performance in it? Despite his troubled history and just delusion now, that dude gave a helluva performance.</p> <p>When he spouts “…I <em>hate</em> you.” </p> <p>I cried. Literally cried. I felt everything that was taken from him in that moment. </p> <p>Anyway, still holds up, mostly.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Schhmabortion"> /u/Schhmabortion </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iod9rp/rewatched_signs2002/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iod9rp/rewatched_signs2002/">[comments]</a></span>
+
+## The Monkey (Early Screening)
+ - [https://www.reddit.com/r/movies/comments/1io9mgt/the_monkey_early_screening](https://www.reddit.com/r/movies/comments/1io9mgt/the_monkey_early_screening)
+ - RSS feed: $source
+ - date published: 2025-02-13T03:10:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just went to go see this movie tonight… and for a Wednesday night, the theatre was almost full.</p> <p>Anyways - didn’t know what to expect seeing this but just knew it as a “horror, comedy”. It was beyond all the expectations I had for the film and found myself laughing at the ridiculousness of some of it being over the top, the gore and then the pure insanity of it. Definitely would go see this again… and our illustrious director even makes a small… SMALL cameo on the film. Definitely one to be a cult classic… </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KrackSmellin"> /u/KrackSmellin </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1io9mgt/the_monkey_early_screening/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1io9mgt/the_monkey_early_screening/">[comments]</a></span>
+
+## What movie made you dying of laughter all the way through?
+ - [https://www.reddit.com/r/movies/comments/1io6wm6/what_movie_made_you_dying_of_laughter_all_the_way](https://www.reddit.com/r/movies/comments/1io6wm6/what_movie_made_you_dying_of_laughter_all_the_way)
+ - RSS feed: $source
+ - date published: 2025-02-13T00:53:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ive watched a lot of comedies such as monty python and hot shots, scary movie, Airplaine!, etc.</p> <p>Nowadays comedies just make me snore and bored. I need something funny to watch, one that is guaranteed to make me laugh. Not some movie wirh just tiny joke that make you chuckle for a second, i want to be on the floor. </p> <p>I like movies that dont take themselves to serious. Or a movie where i dont really need to have seen another movie to understand the humor. Slapstick seems to work with this a lot.</p> <p>Edit: thank you guys for the recommendations so far, although i will try to upvite as many as i can. i will compiling them into a letterboxd list. So far i have 18 :D Time to crack open a beer and sit back!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kyrithess"> /u/Kyrithess </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1io6wm6/what_movie_made_you_dying_of_laughter_all_the_way/"
+
+## Ethan Hawke & Russell Crowe to Star in Historical-Epic 'The Weight' - Set in 1930s Oregon, Hawke will play a prisoner in a labor camp run by Crowe's character. They become entangled in a gold-smuggling scheme, facing threats from the wilderness and betrayals within their own group.
+ - [https://www.reddit.com/r/movies/comments/1io6s11/ethan_hawke_russell_crowe_to_star_in](https://www.reddit.com/r/movies/comments/1io6s11/ethan_hawke_russell_crowe_to_star_in)
+ - RSS feed: $source
+ - date published: 2025-02-13T00:47:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1io6s11/ethan_hawke_russell_crowe_to_star_in/"> <img src="https://external-preview.redd.it/u53Pdw9jC0Mtu7davX8vl4epF_31xNWkp1OK8ACzDFM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0b473725b5acfdb48fb67a2341ced5ffdbac64a" alt="Ethan Hawke &amp; Russell Crowe to Star in Historical-Epic 'The Weight' - Set in 1930s Oregon, Hawke will play a prisoner in a labor camp run by Crowe's character. They become entangled in a gold-smuggling scheme, facing threats from the wilderness and betrayals within their own group." title="Ethan Hawke &amp; Russell Crowe to Star in Historical-Epic 'The Weight' - Set in 1930s Oregon, Hawke will play a prisoner in a labor camp run by Crowe's character. They become entangled in a gold-smuggling scheme, facing threats from the wilderness and betrayals within their own group." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BunyipPouch"> /u/BunyipPouch </a> <br
+
+## Mickey 17 | Official Clip
+ - [https://www.reddit.com/r/movies/comments/1io5we5/mickey_17_official_clip](https://www.reddit.com/r/movies/comments/1io5we5/mickey_17_official_clip)
+ - RSS feed: $source
+ - date published: 2025-02-13T00:06:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1io5we5/mickey_17_official_clip/"> <img src="https://external-preview.redd.it/H0-iugQHJjK6V3MHFc39dzbj2x8E38_fSPeyNye84yc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=56ec74b0d1374e0ce839e70557f8f0b1b5bee0f2" alt="Mickey 17 | Official Clip" title="Mickey 17 | Official Clip" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://youtu.be/LlRTTMuOf8A?si=mNcFJajbz_NTTyIE">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1io5we5/mickey_17_official_clip/">[comments]</a></span> </td></tr></table>
+

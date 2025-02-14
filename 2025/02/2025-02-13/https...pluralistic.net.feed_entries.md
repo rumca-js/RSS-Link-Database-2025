@@ -1,0 +1,9 @@
+# Source:Pluralistic: Daily links from Cory Doctorow, URL:https://pluralistic.net/feed, language:en-US
+
+## Pluralistic: Premature Internet Activists (13 Feb 2025)
+ - [https://pluralistic.net/2025/02/13/digital-rights](https://pluralistic.net/2025/02/13/digital-rights)
+ - RSS feed: $source
+ - date published: 2025-02-13T18:01:28+00:00
+
+Today's links Premature Internet Activists: The retconning of tech rights. Hey look at this: Delights to delectate. Object permanence: 2005, 2015, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Premature Internet Activists (permalink) "Premature antifacist" was a sarcastic term used by leftists caught up in the Red Scare to describe themselves, as they came under ideological suspicion for having traveled to Spain to fight against Franco's fascists before the US entered WWII and declared war against the business-friendly, anticommunist fascist Axis powers of Italy, Spain, Greece, and, of course, Germany: https://www.google.com/books/edition/In_Denial/fBSbKS1FlegC?hl=en&#38;amp;gbpv=1&#38;amp;bsq=%22premature+anti-fascist%22&#38;amp;pg=PA277&#38;amp;printsec=frontcover The joke was that opposing fascism made you an enem
+

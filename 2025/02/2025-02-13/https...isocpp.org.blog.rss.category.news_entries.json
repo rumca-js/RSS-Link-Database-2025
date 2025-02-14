@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-13T22:27:50+00:00",
+        "description": "<p>\n\t<img alt=\"RaymondChen_5in-150x150.jpg\" src=\"https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg\" style=\"width: 150px; margin: 10px; float: right;\" />When tasked with diagnosing why a pointer passed through a pipeline emerged offset from its original value, I discovered an interesting culprit: the misuse of a wrapper function around <code>SubmitWork</code>. While the wrapper aimed to simplify usage by allowing both raw pointers and references to standard layout types, it inadvertently caused ambiguous overload resolution, leading to incorrect behavior. This analysis explores how the issue arose, the debugging process, and improvements to ensure robust and predictable pointer handling in similar scenarios.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://devblogs.microsoft.com/oldnewthing/20241227-00/?p=110681\">In C++, failure to meet the requirements does not always mean that you fail if you don&rsquo;t meet the requirements</a></h3>\n\t<p>\n\t\tby Raymond Chen</p>\n</blockquote>\n<p>\n\tFr",
+        "id": 2109827,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/02/in-cpp-failure-to-meet-the-requirements-does-not-always-mean-that-you-fail",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "In C++, failure to meet the requirements does not always mean that you fail -- Raymond Chen",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-13T12:37:00+00:00",
+        "description": "Infrastruktura telekomunikacyjna to co\u015b, o czym nie my\u015blimy na co dzie\u0144. Zwykle o jej istnieniu przypominamy sobie dopiero w przypadku awarii albo utraty zasi\u0119gu. Nie mo\u017cemy wtedy dokona\u0107 przelewu ani wys\u0142a\u0107 wa\u017cnego maila, innym razem bezskutecznie dzwonimy na numer alarmowy w sytuacji zagro\u017cenia \u017cycia. A mimo to, rozbudowa infrastruktury wci\u0105\u017c napotyka w Polsce na przeszkody.",
+        "id": 2104766,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/telekomunikacja/art41801901-w-zasiegu-bezpiecznej-przyszlosci",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "W zasi\u0119gu bezpiecznej przysz\u0142o\u015bci",
+        "vote": 0
+    }
+]

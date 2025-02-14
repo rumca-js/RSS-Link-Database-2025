@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-13T20:36:58+00:00",
+        "description": "What are some other new jobs that you think will be created?",
+        "id": 2108895,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=p7_jJRZIuiE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/p7_jJRZIuiE/hqdefault.jpg",
+        "title": "Former OpenAI CRO Bob McGrew thinks that two jobs of the future will be genius and manager.",
+        "vote": 0
+    }
+]
