@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-14T17:37:00+00:00",
+        "description": "This composite image contains the deepest X-ray image ever made of the spectacular star forming region called 30 Doradus. By combining X-ray data from NASA\u2019s Chandra X-ray Observatory (blue and green) with optical data from NASA\u2019s Hubble Space Telescope (yellow) and radio data from the Atacama Large Millimeter/submillimeter Array (orange), this stellar arrangement comes alive.",
+        "id": 2115983,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/30dorlarge",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A Stellar Bouquet",
+        "vote": 0
+    }
+]

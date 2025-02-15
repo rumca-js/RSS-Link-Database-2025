@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-14T10:48:50+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span data-contrast=\"auto\">As calls by UK\u2019s top leaders for the release of British-Egyptian blogger, coder, and activist Alaa Abd El-Fattah from prison in Cairo continue, Alaa\u2019s mother, math professor Laila Soueif, grows weaker four months into a hunger strike she began in September to keep attention focused on her son and protest the lack of progress in obtaining his release.\u00a0</span><span data-ccp-props=\"{}\">\u00a0</span></p>\n<p><span data-contrast=\"auto\">She has consumed only water, coffee, tea and rehydration salts for more than 135 days. </span><b><span data-contrast=\"auto\">She is 68 years old, and her condition is becoming dire.</span></b><span data-ccp-props=\"{}\">\u00a0</span></p>\n<p><span data-contrast=\"auto\">It's a shocking and unacceptable situation for Alaa\u2019s family and his many supporters around the world. They continue to get the runaround",
+        "id": 2113128,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/02/alaa-abd-el-fattahs-mother-laila-soueif-calls-uk-government-help-hunger-strike",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Alaa Abd El Fattah's Mother, Laila Soueif, Calls on UK Government to Help as She Continues Hunger Strike",
+        "vote": 0
+    }
+]

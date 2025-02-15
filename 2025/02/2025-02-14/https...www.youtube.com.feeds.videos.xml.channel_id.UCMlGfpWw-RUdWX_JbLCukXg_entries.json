@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-14T15:07:08+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nimport CMake; // Mastering C++ Modules - Bill Hoffman - CppCon 2024\n---\n\nC++20 modules represent a significant advancement in the language, promising to improve compile times, enhance code organization, and streamline dependency management. This talk is tailored for developers eager to harness the power of C++20 modules in their projects. We will explore the fundamentals of building both shared and static libraries using CMake, the de facto build system for C++.\n\nAttendees will gain practical insights into setting up build files and organizing source code with modules. We will dissect real-world open-source module projects, offering a concrete understanding of how modules are being used in the wild. A key focus will be on the \"import std\" model, demonstrating how to create a module interface for large, existing libraries, facilitating a smoother transition to modular codebases.\n\nSignificantly, CMake released non-experimental support for C++20 modules in Octob",
+        "id": 2114839,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7WK42YSfE9s",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7WK42YSfE9s/hqdefault.jpg",
+        "title": "import CMake; // Mastering C++ Modules - Bill Hoffman - CppCon 2024",
+        "vote": 0
+    }
+]

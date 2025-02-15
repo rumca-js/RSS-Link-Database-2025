@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-14T16:48:44+00:00",
+        "description": "Use code \"ABOUTFKNTIME\" at checkout for 10% off anything on the GN store while the code is active! https://store.gamersnexus.net/ including our high-heat resistance silicone soldering & project mats, PC building Modmats, toolkits, T-shirts, and copper-plated stainless steel mule mugs!\nThis is our first testing we've ever published with our fan testing machine that we bought several years ago. This process will be long and gradual as we build the knowledge required to fully tackle fan comparison charts, eventually leading to BIGGER BAR BETTER, which is all anyone wants in life. For now, we're beginning the exploratory process of publishing experimental results while we study how best to present the data and structure the language describing the results. We're excited for this and have more planned in the coming few weeks! This is the debut of our GamersNexus Fan Tester, and it's starting with case mesh porosity benchmarking. \n\nThis benchmark looks at the impact on airflow and performa",
+        "id": 2115670,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=JQtyxRtsqvA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JQtyxRtsqvA/hqdefault.jpg",
+        "title": "FAN TESTING, 3 Years Later | Airflow Case Mesh vs. Noctua NF-A12",
+        "vote": 0
+    }
+]

@@ -1,0 +1,58 @@
+# Source:hacking: security in practice, URL:https://www.reddit.com/r/hacking/.rss, language:en
+
+## Did some light enumeration, pcap work, and python exploitaiton on the CAP HackTheBox machine last night as a way to start streaming with my podcast community, wanted to share with you all
+ - [https://www.reddit.com/r/hacking/comments/1ipgv45/did_some_light_enumeration_pcap_work_and_python](https://www.reddit.com/r/hacking/comments/1ipgv45/did_some_light_enumeration_pcap_work_and_python)
+ - RSS feed: $source
+ - date published: 2025-02-14T18:09:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1ipgv45/did_some_light_enumeration_pcap_work_and_python/"> <img src="https://external-preview.redd.it/qzr6L0tl8MmpEQK0m3OPlcj5yMYkLkR0bc8kJW6frBk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4fd62adc64c8dc157168e3f39bdfdfe6521ccc0c" alt="Did some light enumeration, pcap work, and python exploitaiton on the CAP HackTheBox machine last night as a way to start streaming with my podcast community, wanted to share with you all" title="Did some light enumeration, pcap work, and python exploitaiton on the CAP HackTheBox machine last night as a way to start streaming with my podcast community, wanted to share with you all" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Doc_Hobb"> /u/Doc_Hobb </a> <br/> <span><a href="https://youtu.be/Uf_yzwQcr64">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1ipgv45/did_some_light_enumeration_pcap_work_and_python/">[comm
+
+## History of Valentine's Day Malware (2001-2022)
+ - [https://www.reddit.com/r/hacking/comments/1ipgr42/history_of_valentines_day_malware_20012022](https://www.reddit.com/r/hacking/comments/1ipgr42/history_of_valentines_day_malware_20012022)
+ - RSS feed: $source
+ - date published: 2025-02-14T18:04:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1ipgr42/history_of_valentines_day_malware_20012022/"> <img src="https://external-preview.redd.it/pJs7kad25UIuV0XjgyleHjoT6edCa6jZRpKUGDNXWjw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=26aad74332e6a021ded86e0cd9fc5e046c9ac320" alt="History of Valentine's Day Malware (2001-2022)" title="History of Valentine's Day Malware (2001-2022)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/intelw1zard"> /u/intelw1zard </a> <br/> <span><a href="https://www.youtube.com/watch?v=pFk1YPahhTA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1ipgr42/history_of_valentines_day_malware_20012022/">[comments]</a></span> </td></tr></table>
+
+## Bluetooth Camera keeps reconnecting…it’s not mine
+ - [https://www.reddit.com/r/hacking/comments/1ipdlkv/bluetooth_camera_keeps_reconnectingits_not_mine](https://www.reddit.com/r/hacking/comments/1ipdlkv/bluetooth_camera_keeps_reconnectingits_not_mine)
+ - RSS feed: $source
+ - date published: 2025-02-14T15:51:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone so today I’ve noticed that after having some troubles with my USB WebCam in the Bluetooth settings looking at another device and I see that there is a device called HiCamera attached to my audio. </p> <p>I’ll remove the device and just a little while later, it’s reconnected again on his own. The problem is this isn’t my device. I don’t recognize it. I’ve never seen it before and now whenever it connects my camera disconnects I will then remove the HiCamera and unplug and re-plug in my USB camera, which will work for period time and then the same scenario repeats itself. </p> <p>I have plugged the USB camera back in and hit disable and it says multiple cameras on your network will be affected by this. What’s going on here?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TBaTe504"> /u/TBaTe504 </a> <br/> <span><a href="https://www.reddit.com/r/hacking/comments/1ipdlkv/bluetooth_camera_keeps_reconnectin
+
+## Why Dark Web Monitoring Is Important for business
+ - [https://www.reddit.com/r/hacking/comments/1ip8ghq/why_dark_web_monitoring_is_important_for_business](https://www.reddit.com/r/hacking/comments/1ip8ghq/why_dark_web_monitoring_is_important_for_business)
+ - RSS feed: $source
+ - date published: 2025-02-14T11:23:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>I wanted to talk about dark web monitoring because I think many businesses don’t realize how important it is. I also saw some people mention this topic here, in this sub, so I thought I’d share my thoughts.</p> <p>In my opinion, whether you have a small business or a big company, it’s easy to assume that if your systems are secure, your data is safe. But the truth is, your company’s sensitive information could already be on the dark web, being sold or misused. I think a lot of businesses don’t see the risk until it’s too late, and by then, fixing the problem is much harder.</p> <p>If you haven’t looked into dark web monitoring yet, waiting until something goes wrong is not the best approach. One thing I found useful is this <a href="https://www.reddit.com/r/cybersecurity/comments/1gpmfuf/best_threat_intelligence_tools_comparison_table/">best threat intelligence tools</a> comparison table. I think it&#39;s a pretty good source for someone who never he
+
+## Anyone Can Push Updates to the DOGE.gov Website
+ - [https://www.reddit.com/r/hacking/comments/1ip7d84/anyone_can_push_updates_to_the_dogegov_website](https://www.reddit.com/r/hacking/comments/1ip7d84/anyone_can_push_updates_to_the_dogegov_website)
+ - RSS feed: $source
+ - date published: 2025-02-14T10:04:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/hacking/comments/1ip7d84/anyone_can_push_updates_to_the_dogegov_website/"> <img src="https://external-preview.redd.it/jWDwj1pPpAQZ69wukh7EQ_On7Qlifd6SCW2IGhjniZA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=31e1073c1b522c72f488f68bed2ec88d7111bfaa" alt="Anyone Can Push Updates to the DOGE.gov Website" title="Anyone Can Push Updates to the DOGE.gov Website" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/caveTellurium"> /u/caveTellurium </a> <br/> <span><a href="https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1ip7d84/anyone_can_push_updates_to_the_dogegov_website/">[comments]</a></span> </td></tr></table>
+
+## Understanding the Takedown of the Cracked and Nulled Hacking Forums
+ - [https://www.reddit.com/r/hacking/comments/1ip69qn/understanding_the_takedown_of_the_cracked_and](https://www.reddit.com/r/hacking/comments/1ip69qn/understanding_the_takedown_of_the_cracked_and)
+ - RSS feed: $source
+ - date published: 2025-02-14T08:41:51+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BluberryKush"> /u/BluberryKush </a> <br/> <span><a href="https://vxdb.sh/understanding-the-takedown-of-cracked-and-nulled/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1ip69qn/understanding_the_takedown_of_the_cracked_and/">[comments]</a></span>
+
+## Firewall log: “FW.WANATTACK DROP , 130 Attempts”
+ - [https://www.reddit.com/r/hacking/comments/1ip5098/firewall_log_fwwanattack_drop_130_attempts](https://www.reddit.com/r/hacking/comments/1ip5098/firewall_log_fwwanattack_drop_130_attempts)
+ - RSS feed: $source
+ - date published: 2025-02-14T07:07:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>has anyone else ever experienced this showing inside firewalls logs at least a few times a month (different attempt number) and is it something to be concerned about? Thank you. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/reapercrewsamcro"> /u/reapercrewsamcro </a> <br/> <span><a href="https://www.reddit.com/r/hacking/comments/1ip5098/firewall_log_fwwanattack_drop_130_attempts/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1ip5098/firewall_log_fwwanattack_drop_130_attempts/">[comments]</a></span>
+
+## Leveraging AI to De-Obfuscate large .js Files
+ - [https://www.reddit.com/r/hacking/comments/1iozuah/leveraging_ai_to_deobfuscate_large_js_files](https://www.reddit.com/r/hacking/comments/1iozuah/leveraging_ai_to_deobfuscate_large_js_files)
+ - RSS feed: $source
+ - date published: 2025-02-14T02:03:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello all, I’m working on a project to deobfuscate a large JavaScript file (9mb) that employs multiple methods of obfuscation. The code&#39;s been prettified and such but the code replaces original functions, variables and such with names with calls like a0_0x1feb(0x19a8), and my goal is to replace those with valid names, relating them to their function; so that the final output looks as close as possible to the original pre-obfuscation code.</p> <p>I&#39;m struggling with finding resources to go about this, and how to effectively employ them. One tool I found was <a href="https://github.com/jehna/humanify">https://github.com/jehna/humanify</a> to use AI to rename the variables, but I was unsuccessful in getting it to work with such a large file. I also looked into employing the API calls on it&#39;s own, but again faced context limits that wouldn&#39;t easily be solved with chunking, as it wouldn&#39;t be able to cross reference such a large data se
+

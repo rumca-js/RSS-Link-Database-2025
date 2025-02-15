@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-14T10:03:00+00:00",
+        "description": "This is a complicated promise. It&#8217;s about commitment and connection and most of all, time. If we&#8217;re saying that we&#8217;ll do what&#8217;s in our short-term interest and convenient, then there&#8217;s really no reason to say anything at all, since that&#8217;s what we usually do anyway. Instead, we&#8217;re promising to shift our time horizon. To show [&#8230;]",
+        "id": 2112405,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/02/ive-got-your-back-2",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u201cI\u2019ve got your back\u201d",
+        "vote": 0
+    }
+]

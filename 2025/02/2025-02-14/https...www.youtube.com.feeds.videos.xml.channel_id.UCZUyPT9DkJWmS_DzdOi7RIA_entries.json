@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Caleb Curry",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-14T13:47:54+00:00",
+        "description": "\ud83d\udcb0 Mentorship to six figure software engineer - https://calcur.tech/mentorship\n\u2699\ufe0f Backend Engineering Mind Map - https://calcur.tech/mindmap\n\ud83d\udcbb System Design Playlist - https://calcur.tech/system-design\n\nTimestamps:\n00:00:00 - Introduction\n00:01:47 - SQL Databases\n00:02:53 - Tables\n00:10:53 - Data Sharding\n00:12:49 - Scalability\n00:13:31 - Schemaless\n00:15:40 - Pros and Cons of a Flexible Schema\n00:19:54 - Query Driven Design\n00:21:09 - Types of NoSQL Databases\n00:23:39 - Key-Value Databases\n00:26:19 - Redis\n00:28:25 - Document Databases\n00:29:35 - Wide Column Databases\n00:32:52 - Aggregate and Graph Databases\n00:34:16 - Graph Databases\n00:34:46 - Quorum Consensus\n00:39:50 - Consistent Hashing\n00:43:58 - Auto Increment\n00:49:48 - Examples\n00:51:54 - Partition Key\n00:52:48 - Sort Key\n00:53:39 - Secondary Indexes\n00:57:29 - How to Choose?\n\n\ud83d\udcaf FREE Courses (100+ hours) - https://calcur.tech/free-courses\n\ud83c\udfc6 C++ Mastery Course - https://www.codebreakthrough.com/cpp-mastery\n\ud83d\udc0d Backend Python Co",
+        "id": 2114362,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=FRqrZGB8NBs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 418,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZUyPT9DkJWmS_DzdOi7RIA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FRqrZGB8NBs/hqdefault.jpg",
+        "title": "Intro to NoSQL Databases - System Design",
+        "vote": 0
+    }
+]

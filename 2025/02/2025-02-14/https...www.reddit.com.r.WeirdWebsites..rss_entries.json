@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-14T03:56:20+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/WeirdWebsites/comments/1ip1xvy/weird_website/\"> <img src=\"https://preview.redd.it/a3cm5fyk21je1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a144bbf4f14596b49ea0ef3fe2d2c81c214ce812\" alt=\"Weird Website?\" title=\"Weird Website?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fluffy-Age-1640\"> /u/Fluffy-Age-1640 </a> <br/> <span><a href=\"https://i.redd.it/a3cm5fyk21je1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/WeirdWebsites/comments/1ip1xvy/weird_website/\">[comments]</a></span> </td></tr></table>",
+        "id": 2111198,
+        "language": null,
+        "link": "https://www.reddit.com/r/WeirdWebsites/comments/1ip1xvy/weird_website",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 579,
+        "source_url": "https://www.reddit.com/r/WeirdWebsites/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/a3cm5fyk21je1.png?width=640&crop=smart&auto=webp&s=a144bbf4f14596b49ea0ef3fe2d2c81c214ce812",
+        "title": "Weird Website?",
+        "vote": 0
+    }
+]

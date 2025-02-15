@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-14T14:35:53+00:00",
+        "description": "A new proof reveals the answer to the decades-old \u201cmoving sofa\u201d problem. It highlights how even the simplest optimization problems can have counterintuitive answers.            <p>The post <a href=\"https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/\" target=\"_blank\">The Largest Sofa You Can Move Around a Corner</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2114464,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/02/Moving-sofas_crTommy-Parker-Default.webp",
+        "title": "The Largest Sofa You Can Move Around a Corner",
+        "vote": 0
+    }
+]

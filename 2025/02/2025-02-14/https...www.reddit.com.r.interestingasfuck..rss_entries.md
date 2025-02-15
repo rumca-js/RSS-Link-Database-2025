@@ -1,0 +1,226 @@
+# Source:Interesting As Fuck, URL:https://www.reddit.com/r/interestingasfuck/.rss, language:
+
+## A tree grew in a circular shape due to the wind
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iplmpv/a_tree_grew_in_a_circular_shape_due_to_the_wind](https://www.reddit.com/r/interestingasfuck/comments/1iplmpv/a_tree_grew_in_a_circular_shape_due_to_the_wind)
+ - RSS feed: $source
+ - date published: 2025-02-14T21:34:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iplmpv/a_tree_grew_in_a_circular_shape_due_to_the_wind/"> <img src="https://b.thumbs.redditmedia.com/Dihhw53HWbdzJkHbfyQ7JQ9QOQ1NkiP6d4RCtGyoKHM.jpg" alt="A tree grew in a circular shape due to the wind" title="A tree grew in a circular shape due to the wind" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NeverGonnaGiveYoup__"> /u/NeverGonnaGiveYoup__ </a> <br/> <span><a href="https://www.reddit.com/gallery/1iplmpv">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iplmpv/a_tree_grew_in_a_circular_shape_due_to_the_wind/">[comments]</a></span> </td></tr></table>
+
+## Buying US Military equipment from a stall in Afghanistan
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ipkk9y/buying_us_military_equipment_from_a_stall_in](https://www.reddit.com/r/interestingasfuck/comments/1ipkk9y/buying_us_military_equipment_from_a_stall_in)
+ - RSS feed: $source
+ - date published: 2025-02-14T20:47:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ipkk9y/buying_us_military_equipment_from_a_stall_in/"> <img src="https://external-preview.redd.it/bGtrdjB6Y2wyNmplMYXNEsCWjFcrG2Q-z4w80jRceyj4AlfMW1wxNx9t8sHe.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cd9789a5997017216f3bf4d04808060fa34bfba4" alt="Buying US Military equipment from a stall in Afghanistan" title="Buying US Military equipment from a stall in Afghanistan" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_Im_Dad"> /u/_Im_Dad </a> <br/> <span><a href="https://v.redd.it/ichimkhm26je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ipkk9y/buying_us_military_equipment_from_a_stall_in/">[comments]</a></span> </td></tr></table>
+
+## The Heart Nebula, about 7,500 light-years away from Earth located in the Perseus Arm of our Galaxy.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ipk0jt/the_heart_nebula_about_7500_lightyears_away_from](https://www.reddit.com/r/interestingasfuck/comments/1ipk0jt/the_heart_nebula_about_7500_lightyears_away_from)
+ - RSS feed: $source
+ - date published: 2025-02-14T20:23:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ipk0jt/the_heart_nebula_about_7500_lightyears_away_from/"> <img src="https://b.thumbs.redditmedia.com/Xrt0FrtcJ7wwWSREaKJX3SxLUx13ZTxluTEcy13G3qA.jpg" alt="The Heart Nebula, about 7,500 light-years away from Earth located in the Perseus Arm of our Galaxy." title="The Heart Nebula, about 7,500 light-years away from Earth located in the Perseus Arm of our Galaxy." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DeadlyDesai"> /u/DeadlyDesai </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipk0jt">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ipk0jt/the_heart_nebula_about_7500_lightyears_away_from/">[comments]</a></span> </td></tr></table>
+
+## La Sagrada Familia in Spain
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ipj53m/la_sagrada_familia_in_spain](https://www.reddit.com/r/interestingasfuck/comments/1ipj53m/la_sagrada_familia_in_spain)
+ - RSS feed: $source
+ - date published: 2025-02-14T19:45:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ipj53m/la_sagrada_familia_in_spain/"> <img src="https://preview.redd.it/8ha3jtkyr5je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=869cddede45fe0c62691e0c2523b8f0fa8e24067" alt="La Sagrada Familia in Spain" title="La Sagrada Familia in Spain" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zuccccccccccc"> /u/zuccccccccccc </a> <br/> <span><a href="https://i.redd.it/8ha3jtkyr5je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ipj53m/la_sagrada_familia_in_spain/">[comments]</a></span> </td></tr></table>
+
+## Someone got very lucky
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iph3na/someone_got_very_lucky](https://www.reddit.com/r/interestingasfuck/comments/1iph3na/someone_got_very_lucky)
+ - RSS feed: $source
+ - date published: 2025-02-14T18:19:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iph3na/someone_got_very_lucky/"> <img src="https://external-preview.redd.it/ejBoeDloZGxjNWplMWH6Pj0Dm_ZDNyz0DrcK6LPpwY5EZv-mfZzQ9dDEdKBi.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=d8b7da14ba80b440a543d7a9436c50562d1c631a" alt="Someone got very lucky" title="Someone got very lucky" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FallMajestic8896"> /u/FallMajestic8896 </a> <br/> <span><a href="https://v.redd.it/jamd0gllc5je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iph3na/someone_got_very_lucky/">[comments]</a></span> </td></tr></table>
+
+## A World War I Austrian hideout on Mount Scorluzzo, abandoned in 1918, was uncovered nearly 100 years later as the glacier melted. In 2017, researchers found artifacts like food, jackets, and newspapers, revealing the harsh life of 20 soldiers facing -40°C and avalanches.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ipgz5o/a_world_war_i_austrian_hideout_on_mount_scorluzzo](https://www.reddit.com/r/interestingasfuck/comments/1ipgz5o/a_world_war_i_austrian_hideout_on_mount_scorluzzo)
+ - RSS feed: $source
+ - date published: 2025-02-14T18:14:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ipgz5o/a_world_war_i_austrian_hideout_on_mount_scorluzzo/"> <img src="https://preview.redd.it/w2xrtvijb5je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2f02b5cbf9563e82139f15fc7e8983fdd0fb5e1" alt="A World War I Austrian hideout on Mount Scorluzzo, abandoned in 1918, was uncovered nearly 100 years later as the glacier melted. In 2017, researchers found artifacts like food, jackets, and newspapers, revealing the harsh life of 20 soldiers facing -40°C and avalanches." title="A World War I Austrian hideout on Mount Scorluzzo, abandoned in 1918, was uncovered nearly 100 years later as the glacier melted. In 2017, researchers found artifacts like food, jackets, and newspapers, revealing the harsh life of 20 soldiers facing -40°C and avalanches." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/fyrstikka"> /u/fyrstikka </a> <br/> <span><a href="https://i.redd.it/w2xrtvijb5je
+
+## The calmest that the North Sea has ever been, otherwise known for being one of the most tumultuous oceans on the planet.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ipepjs/the_calmest_that_the_north_sea_has_ever_been](https://www.reddit.com/r/interestingasfuck/comments/1ipepjs/the_calmest_that_the_north_sea_has_ever_been)
+ - RSS feed: $source
+ - date published: 2025-02-14T16:39:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ipepjs/the_calmest_that_the_north_sea_has_ever_been/"> <img src="https://external-preview.redd.it/anVodGpmcW51NGplMaghlsGmWLE-1IK8-IPReplgaZ7eH_CCwxmeIVJRDRy2.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d1c04f7c262f3a028f7d5a9597fab30a49fc668" alt="The calmest that the North Sea has ever been, otherwise known for being one of the most tumultuous oceans on the planet." title="The calmest that the North Sea has ever been, otherwise known for being one of the most tumultuous oceans on the planet." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NikonD3X1985"> /u/NikonD3X1985 </a> <br/> <span><a href="https://v.redd.it/4m42yxynu4je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ipepjs/the_calmest_that_the_north_sea_has_ever_been/">[comments]</a></span> </td></tr></table>
+
+## Traditional Firing of Longquan Celadon ( Making of China clay bowels )
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ipeace/traditional_firing_of_longquan_celadon_making_of](https://www.reddit.com/r/interestingasfuck/comments/1ipeace/traditional_firing_of_longquan_celadon_making_of)
+ - RSS feed: $source
+ - date published: 2025-02-14T16:20:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ipeace/traditional_firing_of_longquan_celadon_making_of/"> <img src="https://external-preview.redd.it/MGNkb3M3N2NyNGplMeHEydrMGiqq_YnTrYGpGIqU8_MNsRkFLNENuv5v9VYk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c14d119d05c47167bbbddddad51201bcf516630" alt="Traditional Firing of Longquan Celadon ( Making of China clay bowels )" title="Traditional Firing of Longquan Celadon ( Making of China clay bowels )" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutomaticCan6189"> /u/AutomaticCan6189 </a> <br/> <span><a href="https://v.redd.it/bl9c5macr4je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ipeace/traditional_firing_of_longquan_celadon_making_of/">[comments]</a></span> </td></tr></table>
+
+## Hairless Rat looks like a giant nutsack with a giant nutsack
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ipe9pk/hairless_rat_looks_like_a_giant_nutsack_with_a](https://www.reddit.com/r/interestingasfuck/comments/1ipe9pk/hairless_rat_looks_like_a_giant_nutsack_with_a)
+ - RSS feed: $source
+ - date published: 2025-02-14T16:19:59+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Blandish06"> /u/Blandish06 </a> <br/> <span><a href="https://i.redd.it/1icbv4e9r4je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ipe9pk/hairless_rat_looks_like_a_giant_nutsack_with_a/">[comments]</a></span>
+
+## Tourist saves a drowning man in Sri Lanka.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ipdlum/tourist_saves_a_drowning_man_in_sri_lanka](https://www.reddit.com/r/interestingasfuck/comments/1ipdlum/tourist_saves_a_drowning_man_in_sri_lanka)
+ - RSS feed: $source
+ - date published: 2025-02-14T15:51:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ipdlum/tourist_saves_a_drowning_man_in_sri_lanka/"> <img src="https://external-preview.redd.it/dmIyNXgzMTZtNGplMUQIqebh1O9-hjbzVQ7YhDNaDcOZX56OH_nUTLFe5AR2.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=7bcf2d0f5304ba29585b61ca090c9d44c4f8b09a" alt="Tourist saves a drowning man in Sri Lanka." title="Tourist saves a drowning man in Sri Lanka." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Induw_19"> /u/Induw_19 </a> <br/> <span><a href="https://v.redd.it/hma22f96m4je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ipdlum/tourist_saves_a_drowning_man_in_sri_lanka/">[comments]</a></span> </td></tr></table>
+
+## That bird is quite polite
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ipdkyj/that_bird_is_quite_polite](https://www.reddit.com/r/interestingasfuck/comments/1ipdkyj/that_bird_is_quite_polite)
+ - RSS feed: $source
+ - date published: 2025-02-14T15:50:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ipdkyj/that_bird_is_quite_polite/"> <img src="https://external-preview.redd.it/ZzNrNzJ6N3psNGplMd5vXMfMYg2TN6vDHFk7gBUlk9jAvqkPmkYjTp8Ks1fA.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=39becd12d468a0b21d204ee53e034d1de369c39e" alt="That bird is quite polite" title="That bird is quite polite" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/50ShadesOfSpray_"> /u/50ShadesOfSpray_ </a> <br/> <span><a href="https://v.redd.it/w5i05y7zl4je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ipdkyj/that_bird_is_quite_polite/">[comments]</a></span> </td></tr></table>
+
+## A guy doing BMX tricks in a parking lot(1989)
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ipcit4/a_guy_doing_bmx_tricks_in_a_parking_lot1989](https://www.reddit.com/r/interestingasfuck/comments/1ipcit4/a_guy_doing_bmx_tricks_in_a_parking_lot1989)
+ - RSS feed: $source
+ - date published: 2025-02-14T15:03:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ipcit4/a_guy_doing_bmx_tricks_in_a_parking_lot1989/"> <img src="https://external-preview.redd.it/b2s5MXJuemlkNGplMR0Ey6EjJd0bSZNDA2TNgApT7Ez9l3rKWpsWI-YDLINt.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a983ccfb3f66b8d9e55ee4e4c66f07163bd0bd8f" alt="A guy doing BMX tricks in a parking lot(1989)" title="A guy doing BMX tricks in a parking lot(1989)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bigbusta"> /u/bigbusta </a> <br/> <span><a href="https://v.redd.it/bb6ofb2jd4je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ipcit4/a_guy_doing_bmx_tricks_in_a_parking_lot1989/">[comments]</a></span> </td></tr></table>
+
+## This Japanese cab driver doesn't have a passport, so his passengers from around the world gave him souvenirs from their countries.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ipbzeh/this_japanese_cab_driver_doesnt_have_a_passport](https://www.reddit.com/r/interestingasfuck/comments/1ipbzeh/this_japanese_cab_driver_doesnt_have_a_passport)
+ - RSS feed: $source
+ - date published: 2025-02-14T14:38:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ipbzeh/this_japanese_cab_driver_doesnt_have_a_passport/"> <img src="https://external-preview.redd.it/bDNndDJqdjQ5NGplMVX5xtDkwrUxms5OhOEIwZqrxel_n43skRW3Rpx4PgMN.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=110fd221c8f8ec2c93c4f1f0e243358f4677cd84" alt="This Japanese cab driver doesn't have a passport, so his passengers from around the world gave him souvenirs from their countries." title="This Japanese cab driver doesn't have a passport, so his passengers from around the world gave him souvenirs from their countries." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mindyour"> /u/mindyour </a> <br/> <span><a href="https://v.redd.it/mg1dz7a594je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ipbzeh/this_japanese_cab_driver_doesnt_have_a_passport/">[comments]</a></span> </td></tr></table>
+
+## Rage grows more in Cage
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ipazr5/rage_grows_more_in_cage](https://www.reddit.com/r/interestingasfuck/comments/1ipazr5/rage_grows_more_in_cage)
+ - RSS feed: $source
+ - date published: 2025-02-14T13:50:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ipazr5/rage_grows_more_in_cage/"> <img src="https://external-preview.redd.it/NHd5ZXQxemwwNGplMccFeOs1uTIpjkmgtR58p7776ukjDucV5mRf7WqOm6Fx.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=412b24746e92fd4de2da06e564bb94cbe4a56b40" alt="Rage grows more in Cage" title="Rage grows more in Cage" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Big-Discipline15"> /u/Big-Discipline15 </a> <br/> <span><a href="https://v.redd.it/gfs8dq6m04je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ipazr5/rage_grows_more_in_cage/">[comments]</a></span> </td></tr></table>
+
+## Beautiful sunset
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ipayl3/beautiful_sunset](https://www.reddit.com/r/interestingasfuck/comments/1ipayl3/beautiful_sunset)
+ - RSS feed: $source
+ - date published: 2025-02-14T13:49:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ipayl3/beautiful_sunset/"> <img src="https://external-preview.redd.it/d3FlMGdha2IwNGplMd8zZh2gUvky2Ly-LlbgzbM_fIv9-ViFiKkA6paDvs_e.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=935116af00f4adeb007157ff5006b0ea46556985" alt="Beautiful sunset" title="Beautiful sunset" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AravRAndG"> /u/AravRAndG </a> <br/> <span><a href="https://v.redd.it/m7gk0eqb04je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ipayl3/beautiful_sunset/">[comments]</a></span> </td></tr></table>
+
+## SUNSET
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ip9jtm/sunset](https://www.reddit.com/r/interestingasfuck/comments/1ip9jtm/sunset)
+ - RSS feed: $source
+ - date published: 2025-02-14T12:32:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ip9jtm/sunset/"> <img src="https://external-preview.redd.it/dnF0ejY4N21tM2plMdTPH-2xyBVnUVCJf-tYGIp_9t2oEaLFC-RatOzbpAoy.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3adbfef125a87c7c00b3121167fb5d1b80c1d459" alt="SUNSET" title="SUNSET" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wet_Pussy_Liicker"> /u/Wet_Pussy_Liicker </a> <br/> <span><a href="https://v.redd.it/hv8mccimm3je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ip9jtm/sunset/">[comments]</a></span> </td></tr></table>
+
+## Man strips his clothes and jumps into freezing cold water to save a random person
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ip9iju/man_strips_his_clothes_and_jumps_into_freezing](https://www.reddit.com/r/interestingasfuck/comments/1ip9iju/man_strips_his_clothes_and_jumps_into_freezing)
+ - RSS feed: $source
+ - date published: 2025-02-14T12:30:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ip9iju/man_strips_his_clothes_and_jumps_into_freezing/"> <img src="https://external-preview.redd.it/MTI4bjM0NTltM2plMaxYG2DMYfIFCwS10cNEhimhHEDouBIL62H-YXKtJnxQ.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=f2f65c1b7941c3b73670ec3d0937c634701aa705" alt="Man strips his clothes and jumps into freezing cold water to save a random person" title="Man strips his clothes and jumps into freezing cold water to save a random person" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wet_Pussy_Liicker"> /u/Wet_Pussy_Liicker </a> <br/> <span><a href="https://v.redd.it/yxrrhc99m3je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ip9iju/man_strips_his_clothes_and_jumps_into_freezing/">[comments]</a></span> </td></tr></table>
+
+## This guy cooked and served a pizza on top of an active volcano
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ip8vzc/this_guy_cooked_and_served_a_pizza_on_top_of_an](https://www.reddit.com/r/interestingasfuck/comments/1ip8vzc/this_guy_cooked_and_served_a_pizza_on_top_of_an)
+ - RSS feed: $source
+ - date published: 2025-02-14T11:51:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ip8vzc/this_guy_cooked_and_served_a_pizza_on_top_of_an/"> <img src="https://b.thumbs.redditmedia.com/_5Y8Iyo-ufnQLWcl-NTRU3QdES-6xqnGT5rdRHN71Pg.jpg" alt="This guy cooked and served a pizza on top of an active volcano" title="This guy cooked and served a pizza on top of an active volcano" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/-TheMidpoint-"> /u/-TheMidpoint- </a> <br/> <span><a href="https://www.reddit.com/gallery/1ip8vzc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ip8vzc/this_guy_cooked_and_served_a_pizza_on_top_of_an/">[comments]</a></span> </td></tr></table>
+
+## In 2007, Nokia sold more than 300 times as many phones as Apple.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ip8mss/in_2007_nokia_sold_more_than_300_times_as_many](https://www.reddit.com/r/interestingasfuck/comments/1ip8mss/in_2007_nokia_sold_more_than_300_times_as_many)
+ - RSS feed: $source
+ - date published: 2025-02-14T11:35:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ip8mss/in_2007_nokia_sold_more_than_300_times_as_many/"> <img src="https://preview.redd.it/4d0lecchc3je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bbc55c088381b79ceab89a715b8e8e032706d547" alt="In 2007, Nokia sold more than 300 times as many phones as Apple." title="In 2007, Nokia sold more than 300 times as many phones as Apple." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/keisermax34"> /u/keisermax34 </a> <br/> <span><a href="https://i.redd.it/4d0lecchc3je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ip8mss/in_2007_nokia_sold_more_than_300_times_as_many/">[comments]</a></span> </td></tr></table>
+
+## Long before 5G: Stockholm’s Telefontornet Connected 5,500 Phones With Overhead Wires (1887-1953)
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ip89g6/long_before_5g_stockholms_telefontornet_connected](https://www.reddit.com/r/interestingasfuck/comments/1ip89g6/long_before_5g_stockholms_telefontornet_connected)
+ - RSS feed: $source
+ - date published: 2025-02-14T11:10:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ip89g6/long_before_5g_stockholms_telefontornet_connected/"> <img src="https://b.thumbs.redditmedia.com/u2xNDL0Bm8d8-CiquX6ouWKLfLkalsMR-hn4Zh6M6jQ.jpg" alt="Long before 5G: Stockholm’s Telefontornet Connected 5,500 Phones With Overhead Wires (1887-1953)" title="Long before 5G: Stockholm’s Telefontornet Connected 5,500 Phones With Overhead Wires (1887-1953)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Real_Tradition4127"> /u/Real_Tradition4127 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ip89g6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ip89g6/long_before_5g_stockholms_telefontornet_connected/">[comments]</a></span> </td></tr></table>
+
+## Swiss Supreme Court says 100k CHF (roughly 100k US) fine for tailgating is fair if you're a millionaire (case explanation in comment)
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ip7kas/swiss_supreme_court_says_100k_chf_roughly_100k_us](https://www.reddit.com/r/interestingasfuck/comments/1ip7kas/swiss_supreme_court_says_100k_chf_roughly_100k_us)
+ - RSS feed: $source
+ - date published: 2025-02-14T10:19:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ip7kas/swiss_supreme_court_says_100k_chf_roughly_100k_us/"> <img src="https://external-preview.redd.it/Sn-LmE-OUO8iG1YpfMgIjUM5Bu8y_4kqtOYfoknoyWA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a4fe745d6bb83efda799ca241544a53cdefa6ab" alt="Swiss Supreme Court says 100k CHF (roughly 100k US) fine for tailgating is fair if you're a millionaire (case explanation in comment)" title="Swiss Supreme Court says 100k CHF (roughly 100k US) fine for tailgating is fair if you're a millionaire (case explanation in comment)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/01bah01"> /u/01bah01 </a> <br/> <span><a href="https://www.20min.ch/fr/story/tribunal-federal-il-colle-la-voiture-devant-lui-100-000-fr-d-amende-avec-sursis-103279308">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ip7kas/swiss_supreme_court_says_100k_chf_roughly_100k_us/">
+
+## Henry the oldest nile crocodile at 124 years of age. With over 10,000 offsprings and 5 meters in length, is still powerful and active.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ip70c0/henry_the_oldest_nile_crocodile_at_124_years_of](https://www.reddit.com/r/interestingasfuck/comments/1ip70c0/henry_the_oldest_nile_crocodile_at_124_years_of)
+ - RSS feed: $source
+ - date published: 2025-02-14T09:37:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ip70c0/henry_the_oldest_nile_crocodile_at_124_years_of/"> <img src="https://external-preview.redd.it/emhlc3NpZXpxMmplMW8zd3CSf9O5qqxDP9HO3j9z4MsqlFY9AajevhL9oH6b.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=36d74440e17a8ebb5a334d5ee531029ca2bcc9fe" alt="Henry the oldest nile crocodile at 124 years of age. With over 10,000 offsprings and 5 meters in length, is still powerful and active." title="Henry the oldest nile crocodile at 124 years of age. With over 10,000 offsprings and 5 meters in length, is still powerful and active." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Electrical-Aspect-13"> /u/Electrical-Aspect-13 </a> <br/> <span><a href="https://v.redd.it/dw0qjkezq2je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ip70c0/henry_the_oldest_nile_crocodile_at_124_years_of/">[comments]</a></span> </td></tr></table>
+
+## Physics of a ring and water ring underwater
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ip6v7y/physics_of_a_ring_and_water_ring_underwater](https://www.reddit.com/r/interestingasfuck/comments/1ip6v7y/physics_of_a_ring_and_water_ring_underwater)
+ - RSS feed: $source
+ - date published: 2025-02-14T09:26:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ip6v7y/physics_of_a_ring_and_water_ring_underwater/"> <img src="https://external-preview.redd.it/ZG9hbHF0c2lwMmplMQH3ZUoBZYGCBRkv1ZNvkYwAH0ADSsxCnVTs-Ihz4u_C.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=cbd5817991a8c79bf8e3e1a73772c685d27dcad6" alt="Physics of a ring and water ring underwater" title="Physics of a ring and water ring underwater" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thechosenone5505"> /u/thechosenone5505 </a> <br/> <span><a href="https://v.redd.it/3phr5g5jp2je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ip6v7y/physics_of_a_ring_and_water_ring_underwater/">[comments]</a></span> </td></tr></table>
+
+## Footage of the russian dron strike on Chernobyl nuclear power plant reactor 4 sarcophagus
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ip5iao/footage_of_the_russian_dron_strike_on_chernobyl](https://www.reddit.com/r/interestingasfuck/comments/1ip5iao/footage_of_the_russian_dron_strike_on_chernobyl)
+ - RSS feed: $source
+ - date published: 2025-02-14T07:44:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ip5iao/footage_of_the_russian_dron_strike_on_chernobyl/"> <img src="https://external-preview.redd.it/ZXAxMHJkY2I3MmplMSw6QzLV8cuFo77Zaj6lBCz7VKfTvR9Ii9FOXkieCASV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=36456edb055060ddb23f85528c252a0ddaa3e415" alt="Footage of the russian dron strike on Chernobyl nuclear power plant reactor 4 sarcophagus" title="Footage of the russian dron strike on Chernobyl nuclear power plant reactor 4 sarcophagus" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Adventurous-End-7633"> /u/Adventurous-End-7633 </a> <br/> <span><a href="https://v.redd.it/kqxsm4hb72je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ip5iao/footage_of_the_russian_dron_strike_on_chernobyl/">[comments]</a></span> </td></tr></table>
+
+## Wise words from grandma
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ip31wx/wise_words_from_grandma](https://www.reddit.com/r/interestingasfuck/comments/1ip31wx/wise_words_from_grandma)
+ - RSS feed: $source
+ - date published: 2025-02-14T05:00:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ip31wx/wise_words_from_grandma/"> <img src="https://external-preview.redd.it/NGJnNHR3eDJlMWplMemxqWfPI8qgbCAuuCsos6zx7VigfCl8NLxbARHpMsnS.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=69556c0e2a80334d7e6ec413477860c23a3c90e8" alt="Wise words from grandma" title="Wise words from grandma" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ShiroSara"> /u/ShiroSara </a> <br/> <span><a href="https://v.redd.it/fcysbp13e1je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ip31wx/wise_words_from_grandma/">[comments]</a></span> </td></tr></table>
+
+## Incredible comeback after losing 100 pounds in just a few months and becoming bedridden. 2023-2025
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ip1d78/incredible_comeback_after_losing_100_pounds_in](https://www.reddit.com/r/interestingasfuck/comments/1ip1d78/incredible_comeback_after_losing_100_pounds_in)
+ - RSS feed: $source
+ - date published: 2025-02-14T03:24:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ip1d78/incredible_comeback_after_losing_100_pounds_in/"> <img src="https://external-preview.redd.it/dm95ZWo1cmx3MGplMWjXLRtmX9RoNzSgOa6jOCgHzG0msSNdIs39Q9R-LeS8.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=1a12883fd8f484c473cc73d20345bc1fc39262ff" alt="Incredible comeback after losing 100 pounds in just a few months and becoming bedridden. 2023-2025" title="Incredible comeback after losing 100 pounds in just a few months and becoming bedridden. 2023-2025" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/whyeventrymore"> /u/whyeventrymore </a> <br/> <span><a href="https://v.redd.it/or0676rlw0je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ip1d78/incredible_comeback_after_losing_100_pounds_in/">[comments]</a></span> </td></tr></table>
+
+## I've never seen a practical application of the greedy cup.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ip0o96/ive_never_seen_a_practical_application_of_the](https://www.reddit.com/r/interestingasfuck/comments/1ip0o96/ive_never_seen_a_practical_application_of_the)
+ - RSS feed: $source
+ - date published: 2025-02-14T02:47:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ip0o96/ive_never_seen_a_practical_application_of_the/"> <img src="https://external-preview.redd.it/N3ozNXJmMzlxMGplMZjMZ8Ow3I8T1kQe9Md18aaR2v5pQUtU9g46r4WbF2wX.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=87ffb5712d079610f0016eeb9f499de0fac706b2" alt="I've never seen a practical application of the greedy cup." title="I've never seen a practical application of the greedy cup." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hacipuput"> /u/hacipuput </a> <br/> <span><a href="https://v.redd.it/j2pilp79q0je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ip0o96/ive_never_seen_a_practical_application_of_the/">[comments]</a></span> </td></tr></table>
+
+## Here are some explorers skiing between snow and fire! Mount Etna 🇮🇹
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ip0m7p/here_are_some_explorers_skiing_between_snow_and](https://www.reddit.com/r/interestingasfuck/comments/1ip0m7p/here_are_some_explorers_skiing_between_snow_and)
+ - RSS feed: $source
+ - date published: 2025-02-14T02:44:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ip0m7p/here_are_some_explorers_skiing_between_snow_and/"> <img src="https://external-preview.redd.it/dmU2dXloYm5wMGplMVxsSXXaZlai0CyqqYDDeAaV4xm2Dao3wOvveQ2oCJQU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d379d008feab4b6782c57756adccaea1f285c756" alt="Here are some explorers skiing between snow and fire! Mount Etna 🇮🇹" title="Here are some explorers skiing between snow and fire! Mount Etna 🇮🇹" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Docindn"> /u/Docindn </a> <br/> <span><a href="https://v.redd.it/eaqr87knp0je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ip0m7p/here_are_some_explorers_skiing_between_snow_and/">[comments]</a></span> </td></tr></table>
+
+## Looking out from an Oil Rig in rough seas
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ip0eeo/looking_out_from_an_oil_rig_in_rough_seas](https://www.reddit.com/r/interestingasfuck/comments/1ip0eeo/looking_out_from_an_oil_rig_in_rough_seas)
+ - RSS feed: $source
+ - date published: 2025-02-14T02:32:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ip0eeo/looking_out_from_an_oil_rig_in_rough_seas/"> <img src="https://external-preview.redd.it/Y3JvbG5hNW5uMGplMS-09y5lyU7VTbECowmR-g4qwhoOCuiexR0p_Tdm5xpo.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=70be2522265c3539a75b197949037631dea8f29d" alt="Looking out from an Oil Rig in rough seas" title="Looking out from an Oil Rig in rough seas" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/freudian_nipps"> /u/freudian_nipps </a> <br/> <span><a href="https://v.redd.it/tp6ho77nn0je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ip0eeo/looking_out_from_an_oil_rig_in_rough_seas/">[comments]</a></span> </td></tr></table>
+
+## Here's an Example of the times Bruce Lee's choreographed moves were too fast for the Camera. Even though cameras were probably not shooting in the same FPS rate during the time, it's still impressive because it was said that the directors had to sometimes tell him to slow his moves down.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iozpgo/heres_an_example_of_the_times_bruce_lees](https://www.reddit.com/r/interestingasfuck/comments/1iozpgo/heres_an_example_of_the_times_bruce_lees)
+ - RSS feed: $source
+ - date published: 2025-02-14T01:56:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iozpgo/heres_an_example_of_the_times_bruce_lees/"> <img src="https://external-preview.redd.it/aDNsNnZ0MjVoMGplMRHhk3e1kabRao3tZoZBBotKduGyAAfhVJJYtC9ONQ1j.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=47c650068bd6c0a8f737d2048984d52baa40ae6a" alt="Here's an Example of the times Bruce Lee's choreographed moves were too fast for the Camera. Even though cameras were probably not shooting in the same FPS rate during the time, it's still impressive because it was said that the directors had to sometimes tell him to slow his moves down." title="Here's an Example of the times Bruce Lee's choreographed moves were too fast for the Camera. Even though cameras were probably not shooting in the same FPS rate during the time, it's still impressive because it was said that the directors had to sometimes tell him to slow his moves down." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/A
+
+## Baby alligator doing a death spin.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ioylwr/baby_alligator_doing_a_death_spin](https://www.reddit.com/r/interestingasfuck/comments/1ioylwr/baby_alligator_doing_a_death_spin)
+ - RSS feed: $source
+ - date published: 2025-02-14T00:58:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ioylwr/baby_alligator_doing_a_death_spin/"> <img src="https://external-preview.redd.it/b2Zua2F3Znc2MGplMev2y5eGze01EJPjGd_8Wx8vKxW0LC0VxmMU5mUnatbp.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=b67f0444f9987f690cc67193b6543e1a59b89787" alt="Baby alligator doing a death spin." title="Baby alligator doing a death spin." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CyberMetalHead"> /u/CyberMetalHead </a> <br/> <span><a href="https://v.redd.it/qfiqn3kw60je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ioylwr/baby_alligator_doing_a_death_spin/">[comments]</a></span> </td></tr></table>
+
+## West African Lungfish can live under the earth for years.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ioxuy4/west_african_lungfish_can_live_under_the_earth](https://www.reddit.com/r/interestingasfuck/comments/1ioxuy4/west_african_lungfish_can_live_under_the_earth)
+ - RSS feed: $source
+ - date published: 2025-02-14T00:20:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ioxuy4/west_african_lungfish_can_live_under_the_earth/"> <img src="https://external-preview.redd.it/M2oxZXkxbDQwMGplMRkATTUHeRjism0V9DEfw8UAKcfZnmB1oRfUAu7981mE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1f439a8beed7d63e034013cbe455d54aadec8297" alt="West African Lungfish can live under the earth for years." title="West African Lungfish can live under the earth for years." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sketchofflive"> /u/sketchofflive </a> <br/> <span><a href="https://v.redd.it/0xb3h3u400je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1ioxuy4/west_african_lungfish_can_live_under_the_earth/">[comments]</a></span> </td></tr></table>
+

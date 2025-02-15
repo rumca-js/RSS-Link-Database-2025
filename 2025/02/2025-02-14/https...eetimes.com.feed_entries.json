@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-14T13:20:28+00:00",
+        "description": "<p>Automotive chips are forecasted to reach a 9% CAGR growth by 2030. </p>\n<p>The post <a href=\"https://www.eetimes.com/automotive-chips-gloom-and-doom-or-boom-by-2030/\">Automotive Chips: Gloom and Doom or Boom by 2030?</a> appeared first on <a href=\"https://www.eetimes.com\">EE Times</a>.</p>",
+        "id": 2113841,
+        "language": "en-US",
+        "link": "https://www.eetimes.com/automotive-chips-gloom-and-doom-or-boom-by-2030",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 483,
+        "source_url": "https://eetimes.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.eetimes.com/wp-content/uploads/BABLA-2.jpg",
+        "title": "Automotive Chips: Gloom and Doom or Boom by 2030?",
+        "vote": 0
+    }
+]

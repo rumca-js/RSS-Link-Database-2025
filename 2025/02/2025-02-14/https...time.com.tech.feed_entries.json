@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-14T07:30:00+00:00",
+        "description": "The app is available again for download from Apple\u2019s and Google\u2019s app stores after it was removed following a U.S. ban on Jan. 18.",
+        "id": 2111870,
+        "language": "en-UK",
+        "link": "https://time.com/7222811/tiktok-app-store-apple-google-us-ban-trump",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "TikTok Returns to Apple and Google App Stores in the U.S. After Trump Delayed Ban",
+        "vote": 0
+    }
+]

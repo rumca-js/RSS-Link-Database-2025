@@ -1,0 +1,219 @@
+# Source:Handmade - Arts & Crafts Made by Hand, URL:https://www.reddit.com/r/handmade/.rss, language:
+
+## DIY Beaded Heart ❤️ Bracelet Making Tutorial
+ - [https://www.reddit.com/r/handmade/comments/1ipnz4x/diy_beaded_heart_bracelet_making_tutorial](https://www.reddit.com/r/handmade/comments/1ipnz4x/diy_beaded_heart_bracelet_making_tutorial)
+ - RSS feed: $source
+ - date published: 2025-02-14T23:21:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipnz4x/diy_beaded_heart_bracelet_making_tutorial/"> <img src="https://b.thumbs.redditmedia.com/lZQUFfwNWRudhaIJl8D4J5tx_74DunHj_pf_7oxrscQ.jpg" alt="DIY Beaded Heart ❤️ Bracelet Making Tutorial" title="DIY Beaded Heart ❤️ Bracelet Making Tutorial" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Kindly comment below if you want the tutorial video. Happy Beading 🙂</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Specialist-Book9711"> /u/Specialist-Book9711 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipnz4x">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipnz4x/diy_beaded_heart_bracelet_making_tutorial/">[comments]</a></span> </td></tr></table>
+
+## Silly bead lizards
+ - [https://www.reddit.com/r/handmade/comments/1ipmuc0/silly_bead_lizards](https://www.reddit.com/r/handmade/comments/1ipmuc0/silly_bead_lizards)
+ - RSS feed: $source
+ - date published: 2025-02-14T22:28:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipmuc0/silly_bead_lizards/"> <img src="https://b.thumbs.redditmedia.com/OtwiKOtkTun6CIOkwocgkCtre9x-JvI37KQAvZ_xORM.jpg" alt="Silly bead lizards" title="Silly bead lizards" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Some silly bead lizards I made into bracelets! I think they’re pretty cute </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Icyhotfur"> /u/Icyhotfur </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipmuc0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipmuc0/silly_bead_lizards/">[comments]</a></span> </td></tr></table>
+
+## Fluffy dog paw brooch inspired by my two adopted furry friends
+ - [https://www.reddit.com/r/handmade/comments/1ipmrwp/fluffy_dog_paw_brooch_inspired_by_my_two_adopted](https://www.reddit.com/r/handmade/comments/1ipmrwp/fluffy_dog_paw_brooch_inspired_by_my_two_adopted)
+ - RSS feed: $source
+ - date published: 2025-02-14T22:24:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipmrwp/fluffy_dog_paw_brooch_inspired_by_my_two_adopted/"> <img src="https://b.thumbs.redditmedia.com/jgVQM98GDJ6bwfagP7xqIXva04dJWjgJd5irJRbU83Y.jpg" alt="Fluffy dog paw brooch inspired by my two adopted furry friends" title="Fluffy dog paw brooch inspired by my two adopted furry friends" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MisssMalika"> /u/MisssMalika </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipmrwp">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipmrwp/fluffy_dog_paw_brooch_inspired_by_my_two_adopted/">[comments]</a></span> </td></tr></table>
+
+## Heartpine Nightlight i made.
+ - [https://www.reddit.com/r/handmade/comments/1iploex/heartpine_nightlight_i_made](https://www.reddit.com/r/handmade/comments/1iploex/heartpine_nightlight_i_made)
+ - RSS feed: $source
+ - date published: 2025-02-14T21:36:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1iploex/heartpine_nightlight_i_made/"> <img src="https://b.thumbs.redditmedia.com/ebdGpuYQUdLncXQ18qKSRLaudFzXA5yVCsnE0Dxk7Bw.jpg" alt="Heartpine Nightlight i made." title="Heartpine Nightlight i made." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Blacklite9"> /u/Blacklite9 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iploex">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1iploex/heartpine_nightlight_i_made/">[comments]</a></span> </td></tr></table>
+
+## My mother created a fox gerdan
+ - [https://www.reddit.com/r/handmade/comments/1ipkm2s/my_mother_created_a_fox_gerdan](https://www.reddit.com/r/handmade/comments/1ipkm2s/my_mother_created_a_fox_gerdan)
+ - RSS feed: $source
+ - date published: 2025-02-14T20:49:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipkm2s/my_mother_created_a_fox_gerdan/"> <img src="https://b.thumbs.redditmedia.com/D09KQolkhKVN43CAvYcfhfML0bjg6gc-FiTzINVJM1A.jpg" alt="My mother created a fox gerdan" title="My mother created a fox gerdan" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SashaShelest"> /u/SashaShelest </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipkm2s">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipkm2s/my_mother_created_a_fox_gerdan/">[comments]</a></span> </td></tr></table>
+
+## Thought I'd share my magnetic knife rack
+ - [https://www.reddit.com/r/handmade/comments/1ipjgg1/thought_id_share_my_magnetic_knife_rack](https://www.reddit.com/r/handmade/comments/1ipjgg1/thought_id_share_my_magnetic_knife_rack)
+ - RSS feed: $source
+ - date published: 2025-02-14T19:59:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipjgg1/thought_id_share_my_magnetic_knife_rack/"> <img src="https://b.thumbs.redditmedia.com/m29AKrJ5sLE5QS-IUAIjhVQBZsGEYzN-tUEyz0QohuA.jpg" alt="Thought I'd share my magnetic knife rack" title="Thought I'd share my magnetic knife rack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bubba_kees"> /u/Bubba_kees </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipjgg1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipjgg1/thought_id_share_my_magnetic_knife_rack/">[comments]</a></span> </td></tr></table>
+
+## Belle. Long hand-tooled wallet
+ - [https://www.reddit.com/r/handmade/comments/1ipjdor/belle_long_handtooled_wallet](https://www.reddit.com/r/handmade/comments/1ipjdor/belle_long_handtooled_wallet)
+ - RSS feed: $source
+ - date published: 2025-02-14T19:56:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipjdor/belle_long_handtooled_wallet/"> <img src="https://a.thumbs.redditmedia.com/vTReSIcQC_ij16yGmMWfEKYtjP2HLBA5Zs3nOjMcP30.jpg" alt="Belle. Long hand-tooled wallet" title="Belle. Long hand-tooled wallet" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pochtalon"> /u/pochtalon </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipjdor">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipjdor/belle_long_handtooled_wallet/">[comments]</a></span> </td></tr></table>
+
+## My knitted cow cat
+ - [https://www.reddit.com/r/handmade/comments/1ipgvj4/my_knitted_cow_cat](https://www.reddit.com/r/handmade/comments/1ipgvj4/my_knitted_cow_cat)
+ - RSS feed: $source
+ - date published: 2025-02-14T18:09:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipgvj4/my_knitted_cow_cat/"> <img src="https://preview.redd.it/nbro4ypva5je1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=acfed87566d51b785ef5c51573b7ff1e9843c4a4" alt="My knitted cow cat" title="My knitted cow cat" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FriendlyCuteToys"> /u/FriendlyCuteToys </a> <br/> <span><a href="https://i.redd.it/nbro4ypva5je1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipgvj4/my_knitted_cow_cat/">[comments]</a></span> </td></tr></table>
+
+## Clay Wish Bottles
+ - [https://www.reddit.com/r/handmade/comments/1ipfs2a/clay_wish_bottles](https://www.reddit.com/r/handmade/comments/1ipfs2a/clay_wish_bottles)
+ - RSS feed: $source
+ - date published: 2025-02-14T17:24:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipfs2a/clay_wish_bottles/"> <img src="https://b.thumbs.redditmedia.com/rfKDvG5y4qqzUzlykw1jB47i1NbHssnfd9nqmJuRE2Q.jpg" alt="Clay Wish Bottles" title="Clay Wish Bottles" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Started making these small clay bottles that I paint with acrylics and put stones into the face. I call them Wish Bottles. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/teamrocketexecutiv3"> /u/teamrocketexecutiv3 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipfs2a">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipfs2a/clay_wish_bottles/">[comments]</a></span> </td></tr></table>
+
+## Valentine’s Day card I made for my friend <3
+ - [https://www.reddit.com/r/handmade/comments/1ipfmmu/valentines_day_card_i_made_for_my_friend_3](https://www.reddit.com/r/handmade/comments/1ipfmmu/valentines_day_card_i_made_for_my_friend_3)
+ - RSS feed: $source
+ - date published: 2025-02-14T17:17:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipfmmu/valentines_day_card_i_made_for_my_friend_3/"> <img src="https://b.thumbs.redditmedia.com/_KRtmlbSeTWxYcRS6ENbE3p-fki7HChL-o-JBYhpxEA.jpg" alt="Valentine’s Day card I made for my friend &lt;3" title="Valentine’s Day card I made for my friend &lt;3" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Equal_Limit8839"> /u/Equal_Limit8839 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipfmmu">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipfmmu/valentines_day_card_i_made_for_my_friend_3/">[comments]</a></span> </td></tr></table>
+
+## Need ideas for design
+ - [https://www.reddit.com/r/handmade/comments/1ipfi7d/need_ideas_for_design](https://www.reddit.com/r/handmade/comments/1ipfi7d/need_ideas_for_design)
+ - RSS feed: $source
+ - date published: 2025-02-14T17:12:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am making a purse out of beads but I&#39;m not sure on what design should I do I was thinking Stitch but I was wondering if anybody else has good ideas or any ideas at this point</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Athenakandi"> /u/Athenakandi </a> <br/> <span><a href="https://www.reddit.com/r/handmade/comments/1ipfi7d/need_ideas_for_design/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipfi7d/need_ideas_for_design/">[comments]</a></span>
+
+## I wanted to share something appropriate to the meaning and importance of the day😊
+ - [https://www.reddit.com/r/handmade/comments/1ipes4v/i_wanted_to_share_something_appropriate_to_the](https://www.reddit.com/r/handmade/comments/1ipes4v/i_wanted_to_share_something_appropriate_to_the)
+ - RSS feed: $source
+ - date published: 2025-02-14T16:42:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipes4v/i_wanted_to_share_something_appropriate_to_the/"> <img src="https://preview.redd.it/x9w6a3p7v4je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ad5eba0dd12638ece2cef3e61c65fae0d9b0470" alt="I wanted to share something appropriate to the meaning and importance of the day😊" title="I wanted to share something appropriate to the meaning and importance of the day😊" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cyln_hcr"> /u/cyln_hcr </a> <br/> <span><a href="https://i.redd.it/x9w6a3p7v4je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipes4v/i_wanted_to_share_something_appropriate_to_the/">[comments]</a></span> </td></tr></table>
+
+## 💙 Will you be my Valentine? 💙
+ - [https://www.reddit.com/r/handmade/comments/1ipe1ha/will_you_be_my_valentine](https://www.reddit.com/r/handmade/comments/1ipe1ha/will_you_be_my_valentine)
+ - RSS feed: $source
+ - date published: 2025-02-14T16:10:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipe1ha/will_you_be_my_valentine/"> <img src="https://preview.redd.it/2g6cbrxip4je1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=250204817c28c9d67002dda5a5e7acee94a0f1e6" alt="💙 Will you be my Valentine? 💙" title="💙 Will you be my Valentine? 💙" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheWayToBeauty"> /u/TheWayToBeauty </a> <br/> <span><a href="https://i.redd.it/2g6cbrxip4je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipe1ha/will_you_be_my_valentine/">[comments]</a></span> </td></tr></table>
+
+## Here’s one of my favorite crafts, it was a day full of total inspiration!
+ - [https://www.reddit.com/r/handmade/comments/1ipcu36/heres_one_of_my_favorite_crafts_it_was_a_day_full](https://www.reddit.com/r/handmade/comments/1ipcu36/heres_one_of_my_favorite_crafts_it_was_a_day_full)
+ - RSS feed: $source
+ - date published: 2025-02-14T15:17:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipcu36/heres_one_of_my_favorite_crafts_it_was_a_day_full/"> <img src="https://preview.redd.it/6ps5lk5sf4je1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=30ae32579b61c9ee79aa87028a5df858ddb7f97d" alt="Here’s one of my favorite crafts, it was a day full of total inspiration!" title="Here’s one of my favorite crafts, it was a day full of total inspiration!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/victm01-"> /u/victm01- </a> <br/> <span><a href="https://i.redd.it/6ps5lk5sf4je1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipcu36/heres_one_of_my_favorite_crafts_it_was_a_day_full/">[comments]</a></span> </td></tr></table>
+
+## Uv reactive Flower Lampwork Pendant
+ - [https://www.reddit.com/r/handmade/comments/1ipcn0a/uv_reactive_flower_lampwork_pendant](https://www.reddit.com/r/handmade/comments/1ipcn0a/uv_reactive_flower_lampwork_pendant)
+ - RSS feed: $source
+ - date published: 2025-02-14T15:08:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipcn0a/uv_reactive_flower_lampwork_pendant/"> <img src="https://a.thumbs.redditmedia.com/dEHJRwOUMChs8FsHjck_DjKx3rsOPiYlWO6lzswJpr0.jpg" alt="Uv reactive Flower Lampwork Pendant" title="Uv reactive Flower Lampwork Pendant" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GemsOfGrace"> /u/GemsOfGrace </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipcn0a">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipcn0a/uv_reactive_flower_lampwork_pendant/">[comments]</a></span> </td></tr></table>
+
+## I made dice from epoxy resin
+ - [https://www.reddit.com/r/handmade/comments/1ipceti/i_made_dice_from_epoxy_resin](https://www.reddit.com/r/handmade/comments/1ipceti/i_made_dice_from_epoxy_resin)
+ - RSS feed: $source
+ - date published: 2025-02-14T14:58:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipceti/i_made_dice_from_epoxy_resin/"> <img src="https://external-preview.redd.it/azJ4cnFrYWxjNGplMfRoaBh40hmmo0NsY9W3BIkZ-Kgonz7mn5y6p7jMu4go.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b84ce05ff841b1aea37ba588e8a1dacdaed2823" alt="I made dice from epoxy resin" title="I made dice from epoxy resin" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CarAccomplished104"> /u/CarAccomplished104 </a> <br/> <span><a href="https://v.redd.it/2s5x9kalc4je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipceti/i_made_dice_from_epoxy_resin/">[comments]</a></span> </td></tr></table>
+
+## Gear 5 Luffy Fan art. i painted this using bleach. what do you guys think?
+ - [https://www.reddit.com/r/handmade/comments/1ipc6zc/gear_5_luffy_fan_art_i_painted_this_using_bleach](https://www.reddit.com/r/handmade/comments/1ipc6zc/gear_5_luffy_fan_art_i_painted_this_using_bleach)
+ - RSS feed: $source
+ - date published: 2025-02-14T14:48:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipc6zc/gear_5_luffy_fan_art_i_painted_this_using_bleach/"> <img src="https://b.thumbs.redditmedia.com/cD8MYkd2kczK6FAp1FnSTyaZB-V4ZCemxnnddHkIE_Q.jpg" alt="Gear 5 Luffy Fan art. i painted this using bleach. what do you guys think?" title="Gear 5 Luffy Fan art. i painted this using bleach. what do you guys think?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BleachCraft2027"> /u/BleachCraft2027 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipc6zc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipc6zc/gear_5_luffy_fan_art_i_painted_this_using_bleach/">[comments]</a></span> </td></tr></table>
+
+## My Valentine’s Day gift i made for her
+ - [https://www.reddit.com/r/handmade/comments/1ipb38m/my_valentines_day_gift_i_made_for_her](https://www.reddit.com/r/handmade/comments/1ipb38m/my_valentines_day_gift_i_made_for_her)
+ - RSS feed: $source
+ - date published: 2025-02-14T13:55:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipb38m/my_valentines_day_gift_i_made_for_her/"> <img src="https://b.thumbs.redditmedia.com/D7myZk7xdPSEnsh_tYC1An0yeXRWCDItpwsf6IOpnoI.jpg" alt="My Valentine’s Day gift i made for her" title="My Valentine’s Day gift i made for her" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tycooperaow"> /u/tycooperaow </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipb38m">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipb38m/my_valentines_day_gift_i_made_for_her/">[comments]</a></span> </td></tr></table>
+
+## My Galentine’s gift for my BFF 💖
+ - [https://www.reddit.com/r/handmade/comments/1ipagjp/my_galentines_gift_for_my_bff](https://www.reddit.com/r/handmade/comments/1ipagjp/my_galentines_gift_for_my_bff)
+ - RSS feed: $source
+ - date published: 2025-02-14T13:23:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipagjp/my_galentines_gift_for_my_bff/"> <img src="https://b.thumbs.redditmedia.com/gCZecFZB6F_p2gbOGVfFBDs_Lh_y_f7iK8jA078Eo1k.jpg" alt="My Galentine’s gift for my BFF 💖" title="My Galentine’s gift for my BFF 💖" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Little background, I’ll try to keep it short! So my bff LOVES pickles &amp; I mean, it’s almost an unhealthy amount of pickles she eats! I’ve had this odd shaped rock I picked up over at my moms house for well over a year, just been hanging out, not really sure what I was going to do with it but I knew one day I’d use it for something! Well, I was actually looking for some Christmas ideas for her &amp; ran across a completely different, unexpected picture of a pickle &amp; BAM! I knew right away who the rock was for &amp; what the rock was going to be! FINALLY! But not for Christmas, it was going to take some planning &amp; work! Boy did it ever! So, the p
+
+## It took me a couple of days to complete this needle felted portrait, but it was worth it right?
+ - [https://www.reddit.com/r/handmade/comments/1ipa4z9/it_took_me_a_couple_of_days_to_complete_this](https://www.reddit.com/r/handmade/comments/1ipa4z9/it_took_me_a_couple_of_days_to_complete_this)
+ - RSS feed: $source
+ - date published: 2025-02-14T13:05:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipa4z9/it_took_me_a_couple_of_days_to_complete_this/"> <img src="https://b.thumbs.redditmedia.com/luhqSTruvRxCr9SRioxraIgJbOn5CWUUV49viv4mhIQ.jpg" alt="It took me a couple of days to complete this needle felted portrait, but it was worth it right?" title="It took me a couple of days to complete this needle felted portrait, but it was worth it right?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Halseyry"> /u/Halseyry </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipa4z9">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipa4z9/it_took_me_a_couple_of_days_to_complete_this/">[comments]</a></span> </td></tr></table>
+
+## Sunflower Flower Suncatcher
+ - [https://www.reddit.com/r/handmade/comments/1ip6sgx/sunflower_flower_suncatcher](https://www.reddit.com/r/handmade/comments/1ip6sgx/sunflower_flower_suncatcher)
+ - RSS feed: $source
+ - date published: 2025-02-14T09:20:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ip6sgx/sunflower_flower_suncatcher/"> <img src="https://b.thumbs.redditmedia.com/rY7Vw5QL1PBBJ8-XA5gc7ux-m1AGFz3y45tlhV_y5MU.jpg" alt="Sunflower Flower Suncatcher" title="Sunflower Flower Suncatcher" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ancient_Tear_7658"> /u/Ancient_Tear_7658 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ip6sgx">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ip6sgx/sunflower_flower_suncatcher/">[comments]</a></span> </td></tr></table>
+
+## Beaded cookie earring ❤️
+ - [https://www.reddit.com/r/handmade/comments/1ip5ac0/beaded_cookie_earring](https://www.reddit.com/r/handmade/comments/1ip5ac0/beaded_cookie_earring)
+ - RSS feed: $source
+ - date published: 2025-02-14T07:28:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ip5ac0/beaded_cookie_earring/"> <img src="https://a.thumbs.redditmedia.com/CBjTaN__TbsehabbyDys5R8n6vvDaWYOpcX3XGpBv98.jpg" alt="Beaded cookie earring ❤️" title="Beaded cookie earring ❤️" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pravandr"> /u/Pravandr </a> <br/> <span><a href="https://www.reddit.com/gallery/1ip5ac0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ip5ac0/beaded_cookie_earring/">[comments]</a></span> </td></tr></table>
+
+## Wifeys valentine
+ - [https://www.reddit.com/r/handmade/comments/1ip45ui/wifeys_valentine](https://www.reddit.com/r/handmade/comments/1ip45ui/wifeys_valentine)
+ - RSS feed: $source
+ - date published: 2025-02-14T06:10:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ip45ui/wifeys_valentine/"> <img src="https://b.thumbs.redditmedia.com/D7E7iXvVsOSdxmGRXPbwdvG583B45iFgVWC_1drb-TI.jpg" alt="Wifeys valentine" title="Wifeys valentine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/One_File_7473"> /u/One_File_7473 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ip45ui">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ip45ui/wifeys_valentine/">[comments]</a></span> </td></tr></table>
+
+## Made my grand daughters very first valentines card tonight
+ - [https://www.reddit.com/r/handmade/comments/1ip44w8/made_my_grand_daughters_very_first_valentines](https://www.reddit.com/r/handmade/comments/1ip44w8/made_my_grand_daughters_very_first_valentines)
+ - RSS feed: $source
+ - date published: 2025-02-14T06:08:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ip44w8/made_my_grand_daughters_very_first_valentines/"> <img src="https://preview.redd.it/bou421e4q1je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c972fee93c51bb1f9ae23763775906daa50ad90c" alt="Made my grand daughters very first valentines card tonight" title="Made my grand daughters very first valentines card tonight" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Tried to keep it smaller and simple</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/One_File_7473"> /u/One_File_7473 </a> <br/> <span><a href="https://i.redd.it/bou421e4q1je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ip44w8/made_my_grand_daughters_very_first_valentines/">[comments]</a></span> </td></tr></table>
+
+## Sharing my bleach painted commission, archangel
+ - [https://www.reddit.com/r/handmade/comments/1ip3q6f/sharing_my_bleach_painted_commission_archangel](https://www.reddit.com/r/handmade/comments/1ip3q6f/sharing_my_bleach_painted_commission_archangel)
+ - RSS feed: $source
+ - date published: 2025-02-14T05:41:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ip3q6f/sharing_my_bleach_painted_commission_archangel/"> <img src="https://preview.redd.it/5mkktokcl1je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0fcdeae869ab9e2d3681ec9ce46e521e6f39ddca" alt="Sharing my bleach painted commission, archangel" title="Sharing my bleach painted commission, archangel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Christiaaan24"> /u/Christiaaan24 </a> <br/> <span><a href="https://i.redd.it/5mkktokcl1je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ip3q6f/sharing_my_bleach_painted_commission_archangel/">[comments]</a></span> </td></tr></table>
+
+## Real Flower Earrings
+ - [https://www.reddit.com/r/handmade/comments/1ip3c9g/real_flower_earrings](https://www.reddit.com/r/handmade/comments/1ip3c9g/real_flower_earrings)
+ - RSS feed: $source
+ - date published: 2025-02-14T05:17:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ip3c9g/real_flower_earrings/"> <img src="https://preview.redd.it/1o72g2m2h1je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60cfca24774aa47a84307555f899575ac819b345" alt="Real Flower Earrings" title="Real Flower Earrings" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/guidevillage"> /u/guidevillage </a> <br/> <span><a href="https://i.redd.it/1o72g2m2h1je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ip3c9g/real_flower_earrings/">[comments]</a></span> </td></tr></table>
+
+## Pencil earrings
+ - [https://www.reddit.com/r/handmade/comments/1ip3bfe/pencil_earrings](https://www.reddit.com/r/handmade/comments/1ip3bfe/pencil_earrings)
+ - RSS feed: $source
+ - date published: 2025-02-14T05:16:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ip3bfe/pencil_earrings/"> <img src="https://preview.redd.it/vayrnzatg1je1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8077cebfc1ecc63c56dfbdf6f5c275a0b862a1e0" alt="Pencil earrings" title="Pencil earrings" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Super-East746"> /u/Super-East746 </a> <br/> <span><a href="https://i.redd.it/vayrnzatg1je1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ip3bfe/pencil_earrings/">[comments]</a></span> </td></tr></table>
+
+## Feeling so proud
+ - [https://www.reddit.com/r/handmade/comments/1ip2w2t/feeling_so_proud](https://www.reddit.com/r/handmade/comments/1ip2w2t/feeling_so_proud)
+ - RSS feed: $source
+ - date published: 2025-02-14T04:51:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ip2w2t/feeling_so_proud/"> <img src="https://b.thumbs.redditmedia.com/5sL9rXiHkKabNQvK758W6FlRr1NQoNPaVdhMPIxevnQ.jpg" alt="Feeling so proud" title="Feeling so proud" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I have made many sweatshirts and other tops. Some I&#39;ve completely disassembled several pieces of the garment and reconstructed with original material and have added others to create a remake</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Iva_Jordon_Design"> /u/Iva_Jordon_Design </a> <br/> <span><a href="https://www.reddit.com/gallery/1ip2w2t">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ip2w2t/feeling_so_proud/">[comments]</a></span> </td></tr></table>
+
+## Axolotl bracelets!
+ - [https://www.reddit.com/r/handmade/comments/1ip2ly7/axolotl_bracelets](https://www.reddit.com/r/handmade/comments/1ip2ly7/axolotl_bracelets)
+ - RSS feed: $source
+ - date published: 2025-02-14T04:34:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ip2ly7/axolotl_bracelets/"> <img src="https://a.thumbs.redditmedia.com/6T5m50SsQzRfb9obu4Wuzzdw3ZWJCdSG3R9JaB1aU74.jpg" alt="Axolotl bracelets!" title="Axolotl bracelets!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>They are available on Etsy :3 : <a href="https://beadlebeetle.etsy.com/listing/1853996312">https://beadlebeetle.etsy.com/listing/1853996312</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Icyhotfur"> /u/Icyhotfur </a> <br/> <span><a href="https://www.reddit.com/gallery/1ip2ly7">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ip2ly7/axolotl_bracelets/">[comments]</a></span> </td></tr></table>
+
+## Heirloom Tomato, original art by able6 (me)
+ - [https://www.reddit.com/r/handmade/comments/1iozuxd/heirloom_tomato_original_art_by_able6_me](https://www.reddit.com/r/handmade/comments/1iozuxd/heirloom_tomato_original_art_by_able6_me)
+ - RSS feed: $source
+ - date published: 2025-02-14T02:04:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1iozuxd/heirloom_tomato_original_art_by_able6_me/"> <img src="https://preview.redd.it/0hkiyvwji0je1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bf4b623ef89285bf2edccfc69c54606837b9fc92" alt="Heirloom Tomato, original art by able6 (me)" title="Heirloom Tomato, original art by able6 (me)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/able6art"> /u/able6art </a> <br/> <span><a href="https://i.redd.it/0hkiyvwji0je1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1iozuxd/heirloom_tomato_original_art_by_able6_me/">[comments]</a></span> </td></tr></table>
+
+## My new bracelet
+ - [https://www.reddit.com/r/handmade/comments/1ioyhor/my_new_bracelet](https://www.reddit.com/r/handmade/comments/1ioyhor/my_new_bracelet)
+ - RSS feed: $source
+ - date published: 2025-02-14T00:52:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ioyhor/my_new_bracelet/"> <img src="https://a.thumbs.redditmedia.com/6uRjPI6s0ZFoOVz5Cp91cT34gk-ciAFEYtVycOZog88.jpg" alt="My new bracelet" title="My new bracelet" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Creatosoloperte"> /u/Creatosoloperte </a> <br/> <span><a href="https://www.reddit.com/gallery/1ioyhor">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ioyhor/my_new_bracelet/">[comments]</a></span> </td></tr></table>
+

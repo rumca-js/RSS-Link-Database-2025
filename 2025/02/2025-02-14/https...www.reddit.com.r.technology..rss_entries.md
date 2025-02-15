@@ -1,0 +1,205 @@
+# Source:/r/Technology, URL:https://www.reddit.com/r/technology/.rss, language:en
+
+## Reddit CEO Says Paywalls Are Coming Soon
+ - [https://www.reddit.com/r/technology/comments/1ipneg0/reddit_ceo_says_paywalls_are_coming_soon](https://www.reddit.com/r/technology/comments/1ipneg0/reddit_ceo_says_paywalls_are_coming_soon)
+ - RSS feed: $source
+ - date published: 2025-02-14T22:54:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ipneg0/reddit_ceo_says_paywalls_are_coming_soon/"> <img src="https://external-preview.redd.it/pIqWp9JAsYy4hxy4kXIceZ4LCRLs-a_OyOGf3m00QM0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a3d843042e9f2cff34e04e56a73f359e9b05561" alt="Reddit CEO Says Paywalls Are Coming Soon" title="Reddit CEO Says Paywalls Are Coming Soon" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vriska1"> /u/vriska1 </a> <br/> <span><a href="https://gizmodo.com/reddit-ceo-says-paywalls-are-coming-soon-2000564245">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ipneg0/reddit_ceo_says_paywalls_are_coming_soon/">[comments]</a></span> </td></tr></table>
+
+## Altimeter in Black Hawk helicopter may have malfunctioned before DCA mid-air collision
+ - [https://www.reddit.com/r/technology/comments/1ipmepl/altimeter_in_black_hawk_helicopter_may_have](https://www.reddit.com/r/technology/comments/1ipmepl/altimeter_in_black_hawk_helicopter_may_have)
+ - RSS feed: $source
+ - date published: 2025-02-14T22:08:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ipmepl/altimeter_in_black_hawk_helicopter_may_have/"> <img src="https://external-preview.redd.it/-38jOZjf-flnfAaNRgTh80xQmZJvq9Z2SikE4KjYASY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ebd775509266f1f1801c70e59b0287721f3560ca" alt="Altimeter in Black Hawk helicopter may have malfunctioned before DCA mid-air collision" title="Altimeter in Black Hawk helicopter may have malfunctioned before DCA mid-air collision" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Knightbear49"> /u/Knightbear49 </a> <br/> <span><a href="https://www.npr.org/2025/02/14/nx-s1-5297147/black-hawk-helicopter-american-airlines-collision-ntsb">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ipmepl/altimeter_in_black_hawk_helicopter_may_have/">[comments]</a></span> </td></tr></table>
+
+## Why was there a pro-Hitler, Holocaust-denying ad on X?
+ - [https://www.reddit.com/r/technology/comments/1ipkbol/why_was_there_a_prohitler_holocaustdenying_ad_on_x](https://www.reddit.com/r/technology/comments/1ipkbol/why_was_there_a_prohitler_holocaustdenying_ad_on_x)
+ - RSS feed: $source
+ - date published: 2025-02-14T20:36:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ipkbol/why_was_there_a_prohitler_holocaustdenying_ad_on_x/"> <img src="https://external-preview.redd.it/gn5fIvFbaDe9RPhM4Zj6lDsTJtwHi8QZb2apBomuVuk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b444710ce4b5cdba7dc75f7599331e6b9afe6ad0" alt="Why was there a pro-Hitler, Holocaust-denying ad on X?" title="Why was there a pro-Hitler, Holocaust-denying ad on X?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RadioactiveHalfRhyme"> /u/RadioactiveHalfRhyme </a> <br/> <span><a href="https://forward.com/fast-forward/696532/holocaust-denial-hitler-ad-x-antisemitism/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ipkbol/why_was_there_a_prohitler_holocaustdenying_ad_on_x/">[comments]</a></span> </td></tr></table>
+
+## Researcher Captures Contents of ‘DEI.gov’ Before It Was Hidden Behind a Password
+ - [https://www.reddit.com/r/technology/comments/1ipjl7k/researcher_captures_contents_of_deigov_before_it](https://www.reddit.com/r/technology/comments/1ipjl7k/researcher_captures_contents_of_deigov_before_it)
+ - RSS feed: $source
+ - date published: 2025-02-14T20:04:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ipjl7k/researcher_captures_contents_of_deigov_before_it/"> <img src="https://external-preview.redd.it/F3kWCjRZHq19ESuKh-x2a_1YmhQqpRTedmfYpHXRJeY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eafb65f8315cb268f3702d6f0a990be88e536d46" alt="Researcher Captures Contents of ‘DEI.gov’ Before It Was Hidden Behind a Password" title="Researcher Captures Contents of ‘DEI.gov’ Before It Was Hidden Behind a Password" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PrithvinathReddy"> /u/PrithvinathReddy </a> <br/> <span><a href="https://www.404media.co/dei-waste-gov-doge-list-behind-password/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ipjl7k/researcher_captures_contents_of_deigov_before_it/">[comments]</a></span> </td></tr></table>
+
+## Senate Republicans introduce bills to make EVs more expensive
+ - [https://www.reddit.com/r/technology/comments/1ipjc2z/senate_republicans_introduce_bills_to_make_evs](https://www.reddit.com/r/technology/comments/1ipjc2z/senate_republicans_introduce_bills_to_make_evs)
+ - RSS feed: $source
+ - date published: 2025-02-14T19:54:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ipjc2z/senate_republicans_introduce_bills_to_make_evs/"> <img src="https://external-preview.redd.it/ezzfMNZO5_vxVUxyLvfowEqUcXnXaSzWBdov7N6y3xo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c1c78d379c4a90302461b8ed0f4fbec244f5031c" alt="Senate Republicans introduce bills to make EVs more expensive" title="Senate Republicans introduce bills to make EVs more expensive" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Deshes011"> /u/Deshes011 </a> <br/> <span><a href="https://www.theverge.com/news/613296/senate-bills-ev-tax-credit-kill-fee-highway-republican">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ipjc2z/senate_republicans_introduce_bills_to_make_evs/">[comments]</a></span> </td></tr></table>
+
+## Trump fires hundreds of staff overseeing nuclear weapons: report
+ - [https://www.reddit.com/r/technology/comments/1ipj1ir/trump_fires_hundreds_of_staff_overseeing_nuclear](https://www.reddit.com/r/technology/comments/1ipj1ir/trump_fires_hundreds_of_staff_overseeing_nuclear)
+ - RSS feed: $source
+ - date published: 2025-02-14T19:41:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ipj1ir/trump_fires_hundreds_of_staff_overseeing_nuclear/"> <img src="https://external-preview.redd.it/YfOlGvmuNccX6aF-WBmG2XOOdkhzFIuaTFbx3DMgaFY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4a9cb2927593db48af8156afe444d439d254773" alt="Trump fires hundreds of staff overseeing nuclear weapons: report" title="Trump fires hundreds of staff overseeing nuclear weapons: report" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/esporx"> /u/esporx </a> <br/> <span><a href="https://www.newsweek.com/trump-fires-hundreds-staff-overseeing-nuclear-weapons-report-2031419">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ipj1ir/trump_fires_hundreds_of_staff_overseeing_nuclear/">[comments]</a></span> </td></tr></table>
+
+## DOGE’s ‘Genius’ Coders Launch Website So Full Of Holes, Anyone Can Write To It
+ - [https://www.reddit.com/r/technology/comments/1ipipoo/doges_genius_coders_launch_website_so_full_of](https://www.reddit.com/r/technology/comments/1ipipoo/doges_genius_coders_launch_website_so_full_of)
+ - RSS feed: $source
+ - date published: 2025-02-14T19:27:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ipipoo/doges_genius_coders_launch_website_so_full_of/"> <img src="https://external-preview.redd.it/wKm0XDzoASM6BrarQXoG18WnZ5CIUPM3ZBe5zppuyFw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60f612dc25b6693520e6d4a342645939506f3afd" alt="DOGE’s ‘Genius’ Coders Launch Website So Full Of Holes, Anyone Can Write To It" title="DOGE’s ‘Genius’ Coders Launch Website So Full Of Holes, Anyone Can Write To It" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vriska1"> /u/vriska1 </a> <br/> <span><a href="https://www.techdirt.com/2025/02/14/doges-genius-coders-launch-website-so-full-of-holes-anyone-can-write-to-it/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ipipoo/doges_genius_coders_launch_website_so_full_of/">[comments]</a></span> </td></tr></table>
+
+## Ukraine's drone makers are turning up production for a weapon they once thought would never work
+ - [https://www.reddit.com/r/technology/comments/1ipimwe/ukraines_drone_makers_are_turning_up_production](https://www.reddit.com/r/technology/comments/1ipimwe/ukraines_drone_makers_are_turning_up_production)
+ - RSS feed: $source
+ - date published: 2025-02-14T19:24:13+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/decaffeinatedcool"> /u/decaffeinatedcool </a> <br/> <span><a href="https://www.msn.com/en-us/money/smallbusiness/ukraine-s-drone-makers-are-turning-up-production-for-a-weapon-they-once-thought-would-never-work/ar-AA1z2zGe">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ipimwe/ukraines_drone_makers_are_turning_up_production/">[comments]</a></span>
+
+## Allstate slammed with lawsuit after scheme to spy on millions of Americans is uncovered: 'Without their knowledge or consent'
+ - [https://www.reddit.com/r/technology/comments/1ipi7cg/allstate_slammed_with_lawsuit_after_scheme_to_spy](https://www.reddit.com/r/technology/comments/1ipi7cg/allstate_slammed_with_lawsuit_after_scheme_to_spy)
+ - RSS feed: $source
+ - date published: 2025-02-14T19:05:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ipi7cg/allstate_slammed_with_lawsuit_after_scheme_to_spy/"> <img src="https://external-preview.redd.it/01DsCektG0Z3v9LR06CbBP64Herdziw2XVmxKK2wsDE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a172ee0f29b8bd74f102369f840cab831d9c5a2" alt="Allstate slammed with lawsuit after scheme to spy on millions of Americans is uncovered: 'Without their knowledge or consent'" title="Allstate slammed with lawsuit after scheme to spy on millions of Americans is uncovered: 'Without their knowledge or consent'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lurker_bee"> /u/lurker_bee </a> <br/> <span><a href="https://www.yahoo.com/news/allstate-slammed-lawsuit-scheme-spy-104524227.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ipi7cg/allstate_slammed_with_lawsuit_after_scheme_to_spy/">[comments]</a></span> </td></tr></table>
+
+## Amazon 'anti-union propaganda,' employee surveillance loom over labor vote at North Carolina warehouse
+ - [https://www.reddit.com/r/technology/comments/1iphwnv/amazon_antiunion_propaganda_employee_surveillance](https://www.reddit.com/r/technology/comments/1iphwnv/amazon_antiunion_propaganda_employee_surveillance)
+ - RSS feed: $source
+ - date published: 2025-02-14T18:53:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iphwnv/amazon_antiunion_propaganda_employee_surveillance/"> <img src="https://external-preview.redd.it/s_fph_YaHMVNyh9QpqLxoELiBZ7QGwdku6UdGuVaQDg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d76d8adec1a1d0aedd58eaebbe40b42698bd5135" alt="Amazon 'anti-union propaganda,' employee surveillance loom over labor vote at North Carolina warehouse" title="Amazon 'anti-union propaganda,' employee surveillance loom over labor vote at North Carolina warehouse" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Information6622"> /u/No-Information6622 </a> <br/> <span><a href="https://www.cnbc.com/2025/02/14/amazon-workers-face-anti-union-propaganda-in-garner-north-carolina.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iphwnv/amazon_antiunion_propaganda_employee_surveillance/">[comments]</a></span> </td></tr></table>
+
+## Microsoft Study Finds Relying on AI Kills Your Critical Thinking Skills
+ - [https://www.reddit.com/r/technology/comments/1iphh1f/microsoft_study_finds_relying_on_ai_kills_your](https://www.reddit.com/r/technology/comments/1iphh1f/microsoft_study_finds_relying_on_ai_kills_your)
+ - RSS feed: $source
+ - date published: 2025-02-14T18:35:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iphh1f/microsoft_study_finds_relying_on_ai_kills_your/"> <img src="https://external-preview.redd.it/8hWo39Ij_hzGY4uOa0B95YwYTMA7hUWgycszQsUO8f8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9144c7ecbb4a9d81fd0972710f8c6ac3ef2f7b5c" alt="Microsoft Study Finds Relying on AI Kills Your Critical Thinking Skills" title="Microsoft Study Finds Relying on AI Kills Your Critical Thinking Skills" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chota-kaka"> /u/chota-kaka </a> <br/> <span><a href="https://gizmodo.com/microsoft-study-finds-relying-on-ai-kills-your-critical-thinking-skills-2000561788">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iphh1f/microsoft_study_finds_relying_on_ai_kills_your/">[comments]</a></span> </td></tr></table>
+
+## JPMorgan CEO Dimon derides in-office work pushback, demands efficiency
+ - [https://www.reddit.com/r/technology/comments/1ipekld/jpmorgan_ceo_dimon_derides_inoffice_work_pushback](https://www.reddit.com/r/technology/comments/1ipekld/jpmorgan_ceo_dimon_derides_inoffice_work_pushback)
+ - RSS feed: $source
+ - date published: 2025-02-14T16:32:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ipekld/jpmorgan_ceo_dimon_derides_inoffice_work_pushback/"> <img src="https://external-preview.redd.it/_BFrUA7hvjogsj5zJi_rgk8Ss2P7on3YYM5PAisZdrA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c033927ab8da54a6af3ef4278506a8ba5d18ec45" alt="JPMorgan CEO Dimon derides in-office work pushback, demands efficiency" title="JPMorgan CEO Dimon derides in-office work pushback, demands efficiency" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mnove30"> /u/mnove30 </a> <br/> <span><a href="https://www.reuters.com/business/finance/jpmorgan-ceo-dimon-derides-in-office-work-pushback-demands-efficiency-2025-02-13/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ipekld/jpmorgan_ceo_dimon_derides_inoffice_work_pushback/">[comments]</a></span> </td></tr></table>
+
+## Reddit plans to lock some content behind a paywall this year, CEO says
+ - [https://www.reddit.com/r/technology/comments/1ipe74t/reddit_plans_to_lock_some_content_behind_a](https://www.reddit.com/r/technology/comments/1ipe74t/reddit_plans_to_lock_some_content_behind_a)
+ - RSS feed: $source
+ - date published: 2025-02-14T16:16:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ipe74t/reddit_plans_to_lock_some_content_behind_a/"> <img src="https://external-preview.redd.it/pPWLPC_lsqlrrQmbLRGY__Z97GnSCW2Fit_4PZThdt4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3944873f5d49bda29322026548acb2a7040bd700" alt="Reddit plans to lock some content behind a paywall this year, CEO says" title="Reddit plans to lock some content behind a paywall this year, CEO says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ardvarkmadman"> /u/ardvarkmadman </a> <br/> <span><a href="https://arstechnica.com/gadgets/2025/02/reddit-plans-to-lock-some-content-behind-a-paywall-this-year-ceo-says/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ipe74t/reddit_plans_to_lock_some_content_behind_a/">[comments]</a></span> </td></tr></table>
+
+## Nearly half of Steam's users are still using Windows 10, with end of life fast approaching
+ - [https://www.reddit.com/r/technology/comments/1ipdfpy/nearly_half_of_steams_users_are_still_using](https://www.reddit.com/r/technology/comments/1ipdfpy/nearly_half_of_steams_users_are_still_using)
+ - RSS feed: $source
+ - date published: 2025-02-14T15:44:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ipdfpy/nearly_half_of_steams_users_are_still_using/"> <img src="https://external-preview.redd.it/WBD2b_ha44PV7Ey7gEI54tiXs9cTShtTLf87POxlKYc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bac18448b7a0883c997a99d47f2256bc57f6b5f8" alt="Nearly half of Steam's users are still using Windows 10, with end of life fast approaching" title="Nearly half of Steam's users are still using Windows 10, with end of life fast approaching" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/esporx"> /u/esporx </a> <br/> <span><a href="https://www.pcguide.com/news/nearly-half-of-steams-users-are-still-using-windows-10-with-end-of-life-fast-approaching/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ipdfpy/nearly_half_of_steams_users_are_still_using/">[comments]</a></span> </td></tr></table>
+
+## What NATO patrols are watching in the Baltic Sea after undersea cables were severed
+ - [https://www.reddit.com/r/technology/comments/1ipcb46/what_nato_patrols_are_watching_in_the_baltic_sea](https://www.reddit.com/r/technology/comments/1ipcb46/what_nato_patrols_are_watching_in_the_baltic_sea)
+ - RSS feed: $source
+ - date published: 2025-02-14T14:53:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ipcb46/what_nato_patrols_are_watching_in_the_baltic_sea/"> <img src="https://external-preview.redd.it/iPRPrSWYt4bTsQKfnK6JV2gdu8j40_S6CulbKxFxdRA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=91a7f89045978e108bfc67c255d467f9504b627e" alt="What NATO patrols are watching in the Baltic Sea after undersea cables were severed" title="What NATO patrols are watching in the Baltic Sea after undersea cables were severed" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LongTrackBravo"> /u/LongTrackBravo </a> <br/> <span><a href="https://www.cbc.ca/news/world/undersea-cables-baltic-sea-patrol-nato-1.7458802">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ipcb46/what_nato_patrols_are_watching_in_the_baltic_sea/">[comments]</a></span> </td></tr></table>
+
+## Threat actors are using legitimate Microsoft feature to compromise M365 accounts
+ - [https://www.reddit.com/r/technology/comments/1ipbl0j/threat_actors_are_using_legitimate_microsoft](https://www.reddit.com/r/technology/comments/1ipbl0j/threat_actors_are_using_legitimate_microsoft)
+ - RSS feed: $source
+ - date published: 2025-02-14T14:20:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ipbl0j/threat_actors_are_using_legitimate_microsoft/"> <img src="https://external-preview.redd.it/Dzb1B9dfzke58fVWphNyjzG-zDBLQFF85gONbCTPyAo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6262f025c324570231779e7c5996921132e6eeb1" alt="Threat actors are using legitimate Microsoft feature to compromise M365 accounts" title="Threat actors are using legitimate Microsoft feature to compromise M365 accounts" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tekz"> /u/tekz </a> <br/> <span><a href="https://www.helpnetsecurity.com/2025/02/14/microsoft-device-code-authentication-phishing-m365-account-compromise/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ipbl0j/threat_actors_are_using_legitimate_microsoft/">[comments]</a></span> </td></tr></table>
+
+## Trump Fritters Massive Wave Energy Opportunity Away | What energy dominance? The global wave energy industry is picking up a head of steam, leaving the US far behind.
+ - [https://www.reddit.com/r/technology/comments/1ipaj17/trump_fritters_massive_wave_energy_opportunity](https://www.reddit.com/r/technology/comments/1ipaj17/trump_fritters_massive_wave_energy_opportunity)
+ - RSS feed: $source
+ - date published: 2025-02-14T13:26:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ipaj17/trump_fritters_massive_wave_energy_opportunity/"> <img src="https://external-preview.redd.it/lvM7dT3UUveU_J0sM1mjcEc5DGEJxRWcwfo6P5wTnGA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=76d66e76dc08c7943f24f78ada69d8ed57bb9a6f" alt="Trump Fritters Massive Wave Energy Opportunity Away | What energy dominance? The global wave energy industry is picking up a head of steam, leaving the US far behind." title="Trump Fritters Massive Wave Energy Opportunity Away | What energy dominance? The global wave energy industry is picking up a head of steam, leaving the US far behind." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://cleantechnica.com/2025/02/13/trump-fritters-massive-wave-energy-opportunity-away/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ipaj17/trump_fritters_massive_wave_e
+
+## The UK’s war on encryption affects all of us
+ - [https://www.reddit.com/r/technology/comments/1ipaii3/the_uks_war_on_encryption_affects_all_of_us](https://www.reddit.com/r/technology/comments/1ipaii3/the_uks_war_on_encryption_affects_all_of_us)
+ - RSS feed: $source
+ - date published: 2025-02-14T13:25:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ipaii3/the_uks_war_on_encryption_affects_all_of_us/"> <img src="https://external-preview.redd.it/6oVs_-4xogy1x36363JTWiiTxiyq01y694BFKZAzcJw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2cd7907f72c2804bc030198c238092e171b816fe" alt="The UK’s war on encryption affects all of us" title="The UK’s war on encryption affects all of us" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Exciting_Teacher6258"> /u/Exciting_Teacher6258 </a> <br/> <span><a href="https://www.theverge.com/policy/612136/uk-icloud-investigatory-powers-act-war-on-encryption">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ipaii3/the_uks_war_on_encryption_affects_all_of_us/">[comments]</a></span> </td></tr></table>
+
+## Meta CTO says staff should quit if they don’t like Meta’s new policies | TechCrunch
+ - [https://www.reddit.com/r/technology/comments/1ipaalf/meta_cto_says_staff_should_quit_if_they_dont_like](https://www.reddit.com/r/technology/comments/1ipaalf/meta_cto_says_staff_should_quit_if_they_dont_like)
+ - RSS feed: $source
+ - date published: 2025-02-14T13:13:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ipaalf/meta_cto_says_staff_should_quit_if_they_dont_like/"> <img src="https://external-preview.redd.it/YuFAKkl1BZ1msZSReRlKtf3IgFQRP8GbGr6G9hogFxA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2aef1f5901745c4f12a0f56554e2a511d769020f" alt="Meta CTO says staff should quit if they don’t like Meta’s new policies | TechCrunch" title="Meta CTO says staff should quit if they don’t like Meta’s new policies | TechCrunch" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdSpecialist6598"> /u/AdSpecialist6598 </a> <br/> <span><a href="https://techcrunch.com/2025/02/13/meta-cto-says-staff-should-quit-if-they-dont-like-metas-new-policies/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ipaalf/meta_cto_says_staff_should_quit_if_they_dont_like/">[comments]</a></span> </td></tr></table>
+
+## AI Is Infiltrating the U.S. Government
+ - [https://www.reddit.com/r/technology/comments/1ip9rh4/ai_is_infiltrating_the_us_government](https://www.reddit.com/r/technology/comments/1ip9rh4/ai_is_infiltrating_the_us_government)
+ - RSS feed: $source
+ - date published: 2025-02-14T12:44:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ip9rh4/ai_is_infiltrating_the_us_government/"> <img src="https://external-preview.redd.it/a6PjBrBMyli0w3VpP0Wui4Lb0kUzItGekD_9ku26xAA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7e363ed129f51b42cf1e9f2064e68e760d24ff17" alt="AI Is Infiltrating the U.S. Government" title="AI Is Infiltrating the U.S. Government" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mnove30"> /u/mnove30 </a> <br/> <span><a href="https://foreignpolicy.com/2025/02/13/ai-artificial-intelligence-us-government-elon-musk-doge-trump/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ip9rh4/ai_is_infiltrating_the_us_government/">[comments]</a></span> </td></tr></table>
+
+## AI Boyfriends Make Chinese Gaming Entrepreneur a Billionaire
+ - [https://www.reddit.com/r/technology/comments/1ip8j8b/ai_boyfriends_make_chinese_gaming_entrepreneur_a](https://www.reddit.com/r/technology/comments/1ip8j8b/ai_boyfriends_make_chinese_gaming_entrepreneur_a)
+ - RSS feed: $source
+ - date published: 2025-02-14T11:28:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ip8j8b/ai_boyfriends_make_chinese_gaming_entrepreneur_a/"> <img src="https://external-preview.redd.it/1vy4coqbs21kAhyLWpT7z6u1ZdPxl6PNh1whQJ1IGvI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d9ee4bc7e261285f3cb8786d8243e1646467e337" alt="AI Boyfriends Make Chinese Gaming Entrepreneur a Billionaire" title="AI Boyfriends Make Chinese Gaming Entrepreneur a Billionaire" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/syzygee_alt"> /u/syzygee_alt </a> <br/> <span><a href="https://www.forbes.com/sites/ywang/2025/02/14/ai-boyfriends-make-chinese-gaming-entrepreneur-yao-runhao-a-billionaire/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ip8j8b/ai_boyfriends_make_chinese_gaming_entrepreneur_a/">[comments]</a></span> </td></tr></table>
+
+## YouTube turns 20 years old today
+ - [https://www.reddit.com/r/technology/comments/1ip853n/youtube_turns_20_years_old_today](https://www.reddit.com/r/technology/comments/1ip853n/youtube_turns_20_years_old_today)
+ - RSS feed: $source
+ - date published: 2025-02-14T11:01:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ip853n/youtube_turns_20_years_old_today/"> <img src="https://external-preview.redd.it/u1ktf3yuOvQc9Kfk53e1QdEUDWDn5CY1MQpWRF9HtdQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=105735387fc71d264b6d0335bf0d5bfff100899f" alt="YouTube turns 20 years old today" title="YouTube turns 20 years old today" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ControlCAD"> /u/ControlCAD </a> <br/> <span><a href="https://www.npr.org/2025/02/14/nx-s1-5296900/youtube-turns-20">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ip853n/youtube_turns_20_years_old_today/">[comments]</a></span> </td></tr></table>
+
+## With war on their doorstep, European defense tech startups are gunning for a slice of growing military budgets
+ - [https://www.reddit.com/r/technology/comments/1ip6tph/with_war_on_their_doorstep_european_defense_tech](https://www.reddit.com/r/technology/comments/1ip6tph/with_war_on_their_doorstep_european_defense_tech)
+ - RSS feed: $source
+ - date published: 2025-02-14T09:23:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ip6tph/with_war_on_their_doorstep_european_defense_tech/"> <img src="https://external-preview.redd.it/sRnZ3QbYWQnPge8Ty3zWDXWatr-cYtBJ_p4XrAOrg_g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fd85e2d156d429a5a669aadccbbef5b58eac0316" alt="With war on their doorstep, European defense tech startups are gunning for a slice of growing military budgets" title="With war on their doorstep, European defense tech startups are gunning for a slice of growing military budgets" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mnove30"> /u/mnove30 </a> <br/> <span><a href="https://fortune.com/europe/2025/02/12/war-european-defense-tech-startups-military-budgets-ukraine-robots/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ip6tph/with_war_on_their_doorstep_european_defense_tech/">[comments]</a></span> </td></tr></table>
+
+## Her parents were injured in a Tesla crash. She ended up having to pay Tesla damages
+ - [https://www.reddit.com/r/technology/comments/1ip6rd5/her_parents_were_injured_in_a_tesla_crash_she](https://www.reddit.com/r/technology/comments/1ip6rd5/her_parents_were_injured_in_a_tesla_crash_she)
+ - RSS feed: $source
+ - date published: 2025-02-14T09:18:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ip6rd5/her_parents_were_injured_in_a_tesla_crash_she/"> <img src="https://external-preview.redd.it/Izz4pM_idHPfaYJmEWiuwDxT5VAbApwJfKD1XgjiOuA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7d3bfd5357b9561a9626e075b126186016367cc0" alt="Her parents were injured in a Tesla crash. She ended up having to pay Tesla damages" title="Her parents were injured in a Tesla crash. She ended up having to pay Tesla damages" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://abcnews.go.com/Business/wireStory/parents-injured-tesla-crash-ended-pay-tesla-damages-118716408">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ip6rd5/her_parents_were_injured_in_a_tesla_crash_she/">[comments]</a></span> </td></tr></table>
+
+## Anyone Can Push Updates to the DOGE.gov Website
+ - [https://www.reddit.com/r/technology/comments/1ip562l/anyone_can_push_updates_to_the_dogegov_website](https://www.reddit.com/r/technology/comments/1ip562l/anyone_can_push_updates_to_the_dogegov_website)
+ - RSS feed: $source
+ - date published: 2025-02-14T07:19:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ip562l/anyone_can_push_updates_to_the_dogegov_website/"> <img src="https://external-preview.redd.it/jWDwj1pPpAQZ69wukh7EQ_On7Qlifd6SCW2IGhjniZA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=31e1073c1b522c72f488f68bed2ec88d7111bfaa" alt="Anyone Can Push Updates to the DOGE.gov Website" title="Anyone Can Push Updates to the DOGE.gov Website" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DomesticErrorist22"> /u/DomesticErrorist22 </a> <br/> <span><a href="https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ip562l/anyone_can_push_updates_to_the_dogegov_website/">[comments]</a></span> </td></tr></table>
+
+## Anti-Nazi Group Vows To 'Inflict Physical Damage' On Teslas Starting Today | Carscoops
+ - [https://www.reddit.com/r/technology/comments/1ip41a2/antinazi_group_vows_to_inflict_physical_damage_on](https://www.reddit.com/r/technology/comments/1ip41a2/antinazi_group_vows_to_inflict_physical_damage_on)
+ - RSS feed: $source
+ - date published: 2025-02-14T06:01:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ip41a2/antinazi_group_vows_to_inflict_physical_damage_on/"> <img src="https://external-preview.redd.it/C_JmyDJJs1WoYRLJ3ebyIy2cqOlkoK7Aqs_Z5D1s7DU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f39be7b3ad73394084183da708e201061fa00154" alt="Anti-Nazi Group Vows To 'Inflict Physical Damage' On Teslas Starting Today | Carscoops" title="Anti-Nazi Group Vows To 'Inflict Physical Damage' On Teslas Starting Today | Carscoops" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PrithvinathReddy"> /u/PrithvinathReddy </a> <br/> <span><a href="https://www.carscoops.com/2025/02/anti-nazi-group-vows-to-inflict-physical-damage-on-teslas-starting-today/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ip41a2/antinazi_group_vows_to_inflict_physical_damage_on/">[comments]</a></span> </td></tr></table>
+
+## Ted Cruz's list of 'woke' science includes grants to study self-driving cars and help kids watch solar eclipses
+ - [https://www.reddit.com/r/technology/comments/1ip294r/ted_cruzs_list_of_woke_science_includes_grants_to](https://www.reddit.com/r/technology/comments/1ip294r/ted_cruzs_list_of_woke_science_includes_grants_to)
+ - RSS feed: $source
+ - date published: 2025-02-14T04:14:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ip294r/ted_cruzs_list_of_woke_science_includes_grants_to/"> <img src="https://external-preview.redd.it/iAdrbvnDvbN8z4kx-iufDmaHDHbPtafPYmrLFmLq1Yc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=29314d288570a1bea6dfb2c33fce1dc5393f7ad4" alt="Ted Cruz's list of 'woke' science includes grants to study self-driving cars and help kids watch solar eclipses" title="Ted Cruz's list of 'woke' science includes grants to study self-driving cars and help kids watch solar eclipses" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LooseDistance1059"> /u/LooseDistance1059 </a> <br/> <span><a href="https://www.npr.org/2025/02/13/nx-s1-5295043/sen-ted-cruzs-list-of-woke-science-includes-self-driving-cars-solar-eclipses/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ip294r/ted_cruzs_list_of_woke_science_includes_grants_to/">[comments]</a></span> </td></tr></t
+
+## Apple, Google Restore TikTok App After Assurances From Trump
+ - [https://www.reddit.com/r/technology/comments/1iozhhd/apple_google_restore_tiktok_app_after_assurances](https://www.reddit.com/r/technology/comments/1iozhhd/apple_google_restore_tiktok_app_after_assurances)
+ - RSS feed: $source
+ - date published: 2025-02-14T01:44:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iozhhd/apple_google_restore_tiktok_app_after_assurances/"> <img src="https://external-preview.redd.it/0tKd56wt4EYcOIUDBp_m5cK4ZBAkPo5MyGF7ZdAGvr4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=73d209f523cf24dbaf84ad618a15bf2f91d41f10" alt="Apple, Google Restore TikTok App After Assurances From Trump" title="Apple, Google Restore TikTok App After Assurances From Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Healthy_Block3036"> /u/Healthy_Block3036 </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2025-02-14/apple-to-restore-tiktok-to-us-app-store-following-justice-department-letter">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iozhhd/apple_google_restore_tiktok_app_after_assurances/">[comments]</a></span> </td></tr></table>
+
+## NATO Plans To Build Satellite Links As Backups To Undersea Cables
+ - [https://www.reddit.com/r/technology/comments/1iozbdw/nato_plans_to_build_satellite_links_as_backups_to](https://www.reddit.com/r/technology/comments/1iozbdw/nato_plans_to_build_satellite_links_as_backups_to)
+ - RSS feed: $source
+ - date published: 2025-02-14T01:35:12+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/sparkblue"> /u/sparkblue </a> <br/> <span><a href="https://m.slashdot.org/story/437083">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iozbdw/nato_plans_to_build_satellite_links_as_backups_to/">[comments]</a></span>
+

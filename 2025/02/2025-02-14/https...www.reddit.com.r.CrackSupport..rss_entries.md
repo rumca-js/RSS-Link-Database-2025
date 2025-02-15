@@ -1,0 +1,233 @@
+# Source:Crack Support, URL:https://www.reddit.com/r/CrackSupport/.rss, language:
+
+## GetIntoPCs Filmora is it safe?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ipm2l2/getintopcs_filmora_is_it_safe](https://www.reddit.com/r/CrackSupport/comments/1ipm2l2/getintopcs_filmora_is_it_safe)
+ - RSS feed: $source
+ - date published: 2025-02-14T21:54:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi can someone help and know is this is safe?<br/> <a href="https://getintopc.com/softwares/video-editing/wondershare-filmora-2024-free-download/">https://getintopc.com/softwares/video-editing/wondershare-filmora-2024-free-download/</a><br/> i download this and my defender is alerted me that the anti virus found a threat and its &quot;Hacktool:win32&quot; should i continue it and ignore or should i stop?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Niiieeer"> /u/Niiieeer </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipm2l2/getintopcs_filmora_is_it_safe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipm2l2/getintopcs_filmora_is_it_safe/">[comments]</a></span>
+
+## Sims 4 Winrar Expansion Packs
+ - [https://www.reddit.com/r/CrackSupport/comments/1ipkpzs/sims_4_winrar_expansion_packs](https://www.reddit.com/r/CrackSupport/comments/1ipkpzs/sims_4_winrar_expansion_packs)
+ - RSS feed: $source
+ - date published: 2025-02-14T20:54:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys, I downloaded the expansion packs using someone&#39;s Patreon and Winrar to add them to my game files. It works perfectly fine for a few days and then it just stops. The game loads up fine. but when I go to resume game it takes me to the load game screen and tells me that I am missing packs, so I tried to bypass it and load the save anyway, but the pop up comes up telling me that there is content missing from the save. So of course, I went and did it all again and it worked. The thing is though, how do I avoid having to do this every few days because it is so annoying? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Crafty_Improvement39"> /u/Crafty_Improvement39 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipkpzs/sims_4_winrar_expansion_packs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipkpzs/sims_4_winrar_expansion_packs/">[comm
+
+## Is there way to crack MW 2019 and play multiplayer with it?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ipkkge/is_there_way_to_crack_mw_2019_and_play](https://www.reddit.com/r/CrackSupport/comments/1ipkkge/is_there_way_to_crack_mw_2019_and_play)
+ - RSS feed: $source
+ - date published: 2025-02-14T20:47:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to play mw 2019 multiplayer but dunno how.. can yall help plz</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tuksaa"> /u/Tuksaa </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipkkge/is_there_way_to_crack_mw_2019_and_play/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipkkge/is_there_way_to_crack_mw_2019_and_play/">[comments]</a></span>
+
+## Some SPs Break Sims 4 Game?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ipju48/some_sps_break_sims_4_game](https://www.reddit.com/r/CrackSupport/comments/1ipju48/some_sps_break_sims_4_game)
+ - RSS feed: $source
+ - date published: 2025-02-14T20:15:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>hi! this isn&#39;t really a dire situation it&#39;s just really weird and I&#39;m wondering if anybody has an idea what&#39;s going on here. I have the legit sims 4 base game (and a couple packs) but I&#39;m using anadius dlc unlocker for the rest. It&#39;s never done me wrong before! I&#39;ve never had issues using it. However, for some reason recently a small handful of SPs just completely break the game, and it&#39;s the weirdest collection of them too. SPs 5-23 and 25, when added to my sims 4 folder, make the game unplayable (sims resetting after asking them to do some actions, standing around with a skill bar when asked to perform skill building tasks, stretching their body in absolutely crazy ways to wash their hands but not moving from where they&#39;re standing, washing the dishes in mid-air, etc etc). but ONLY these stuff packs/kits. I&#39;ve tested everything else and mods don&#39;t break it, game packs don&#39;t break it, expansion packs d
+
+## is steamunlocked malware
+ - [https://www.reddit.com/r/CrackSupport/comments/1ipjjq1/is_steamunlocked_malware](https://www.reddit.com/r/CrackSupport/comments/1ipjjq1/is_steamunlocked_malware)
+ - RSS feed: $source
+ - date published: 2025-02-14T20:03:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>So i just downloaded a game from steam unlocked and for somereason antimalware service executable is being way more active than usual and my fans just go so loud for a few secconds for some reason then i deleted the file and scaned with windows defender did i miss somethink and is there a more efficient app to check for viruses/malware </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FlounderAvailable736"> /u/FlounderAvailable736 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipjjq1/is_steamunlocked_malware/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipjjq1/is_steamunlocked_malware/">[comments]</a></span>
+
+## Need vpn for Fitgirl?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ipjcav/need_vpn_for_fitgirl](https://www.reddit.com/r/CrackSupport/comments/1ipjcav/need_vpn_for_fitgirl)
+ - RSS feed: $source
+ - date published: 2025-02-14T19:54:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Dear people,</p> <p>I am pretty new in this community as I only ever downloaded from steamunlocked but I don&#39;t want to use it anymore because I don&#39;t really trust it anymore and the downloading speeds are also just horrifying.</p> <p>I want to use fitgirl but I have never used it before, what tools do I all need, and is a vpn important because I am broke and I can&#39;t really afford a vpn.</p> <p>Thank you all for your help, every tip or trick is welcome, if you want to dm me, feel free :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Celery-8567"> /u/No-Celery-8567 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipjcav/need_vpn_for_fitgirl/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipjcav/need_vpn_for_fitgirl/">[comments]</a></span>
+
+## Downloaded far cry 5 off of nosTEAM but the dll were not found despite being in the game folder(s)
+ - [https://www.reddit.com/r/CrackSupport/comments/1ipiujy/downloaded_far_cry_5_off_of_nosteam_but_the_dll](https://www.reddit.com/r/CrackSupport/comments/1ipiujy/downloaded_far_cry_5_off_of_nosteam_but_the_dll)
+ - RSS feed: $source
+ - date published: 2025-02-14T19:33:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ipiujy/downloaded_far_cry_5_off_of_nosteam_but_the_dll/"> <img src="https://b.thumbs.redditmedia.com/SnXIzUoL9UB8RwpCZcj9OwvzA1KSAg-5FL20ojc_ZLA.jpg" alt="Downloaded far cry 5 off of nosTEAM but the dll were not found despite being in the game folder(s)" title="Downloaded far cry 5 off of nosTEAM but the dll were not found despite being in the game folder(s)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Installed the visual c++ pack (<a href="https://www.nosteam.com.ro/index.php?topic=9323.msg241644#msg241644">https://www.nosteam.com.ro/index.php?topic=9323.msg241644#msg241644</a>)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Plastic7040"> /u/Plastic7040 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipiujy">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipiujy/downloaded_far_cry_5_off_of_nosteam_but_the_dll/">[c
+
+## GOW Ragnarok
+ - [https://www.reddit.com/r/CrackSupport/comments/1ipii7f/gow_ragnarok](https://www.reddit.com/r/CrackSupport/comments/1ipii7f/gow_ragnarok)
+ - RSS feed: $source
+ - date published: 2025-02-14T19:18:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>Running Cracked GOW. Everything runs perfect in game 🙏🏽 the problem is I can only open the game from the inside downloaded folder game icon and can’t open from the desktop screen icon without getting missing files errors. Solution?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rock_Ah_Cock"> /u/Rock_Ah_Cock </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipii7f/gow_ragnarok/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipii7f/gow_ragnarok/">[comments]</a></span>
+
+## i have to Renew some of My cracks after i shutdwon my laptop or reboot it , like my Revit and Solidwork Licenses , I have to renew even after excluding them and turning off antivirus
+ - [https://www.reddit.com/r/CrackSupport/comments/1iphaya/i_have_to_renew_some_of_my_cracks_after_i](https://www.reddit.com/r/CrackSupport/comments/1iphaya/i_have_to_renew_some_of_my_cracks_after_i)
+ - RSS feed: $source
+ - date published: 2025-02-14T18:28:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Title</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Foreign-Pay7828"> /u/Foreign-Pay7828 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iphaya/i_have_to_renew_some_of_my_cracks_after_i/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iphaya/i_have_to_renew_some_of_my_cracks_after_i/">[comments]</a></span>
+
+## HOW TO FIX. PLS
+ - [https://www.reddit.com/r/CrackSupport/comments/1ipgfpu/how_to_fix_pls](https://www.reddit.com/r/CrackSupport/comments/1ipgfpu/how_to_fix_pls)
+ - RSS feed: $source
+ - date published: 2025-02-14T17:51:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ipgfpu/how_to_fix_pls/"> <img src="https://preview.redd.it/witlpitf75je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=94768882a01dec787fd9a42431f93ec787e5aaf2" alt="HOW TO FIX. PLS" title="HOW TO FIX. PLS" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Thin_Advisor_2381"> /u/Thin_Advisor_2381 </a> <br/> <span><a href="https://i.redd.it/witlpitf75je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipgfpu/how_to_fix_pls/">[comments]</a></span> </td></tr></table>
+
+## COD Infinite Warfare
+ - [https://www.reddit.com/r/CrackSupport/comments/1ipfxqm/cod_infinite_warfare](https://www.reddit.com/r/CrackSupport/comments/1ipfxqm/cod_infinite_warfare)
+ - RSS feed: $source
+ - date published: 2025-02-14T17:30:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>I installed COD Infinite Warfare using the link in steamlunlocked.net, but I don&#39;t know why when I go to Multiplayer there is an error that says &quot;Content package is no longer available&quot;</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Legitimate-Fennel514"> /u/Legitimate-Fennel514 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipfxqm/cod_infinite_warfare/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipfxqm/cod_infinite_warfare/">[comments]</a></span>
+
+## can someone help me how to fix this... i js wna play sims 4 bro (im using anadius)
+ - [https://www.reddit.com/r/CrackSupport/comments/1ipf818/can_someone_help_me_how_to_fix_this_i_js_wna_play](https://www.reddit.com/r/CrackSupport/comments/1ipf818/can_someone_help_me_how_to_fix_this_i_js_wna_play)
+ - RSS feed: $source
+ - date published: 2025-02-14T17:01:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ipf818/can_someone_help_me_how_to_fix_this_i_js_wna_play/"> <img src="https://preview.redd.it/6w49vijly4je1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=a1bb6f8d22ce082fa6363358aed0def04920df7d" alt="can someone help me how to fix this... i js wna play sims 4 bro (im using anadius)" title="can someone help me how to fix this... i js wna play sims 4 bro (im using anadius)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Particular-Scale-529"> /u/Particular-Scale-529 </a> <br/> <span><a href="https://i.redd.it/6w49vijly4je1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipf818/can_someone_help_me_how_to_fix_this_i_js_wna_play/">[comments]</a></span> </td></tr></table>
+
+## Windows 10 Error with acracked Software
+ - [https://www.reddit.com/r/CrackSupport/comments/1ipd7rz/windows_10_error_with_acracked_software](https://www.reddit.com/r/CrackSupport/comments/1ipd7rz/windows_10_error_with_acracked_software)
+ - RSS feed: $source
+ - date published: 2025-02-14T15:34:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>I downloaded a cracked charting (trading) software on my Windows 10 laptop. Unpacked it using Winrar, also tried Winzip. It keeps showing the same error when I try to install the application, &#39;0xc000007b&#39; and refuses to open. I have tried everything from turning off Windows Defender, using a VPN, installing Microsoft programs that repair missing/damaged files, using Command prompt, Process Monitor, everything. Can anyone help with a fix? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/throwaway18032000"> /u/throwaway18032000 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipd7rz/windows_10_error_with_acracked_software/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipd7rz/windows_10_error_with_acracked_software/">[comments]</a></span>
+
+## terraria
+ - [https://www.reddit.com/r/CrackSupport/comments/1ipd68o/terraria](https://www.reddit.com/r/CrackSupport/comments/1ipd68o/terraria)
+ - RSS feed: $source
+ - date published: 2025-02-14T15:32:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>hi gays i was searching a for website to download terraria but what ever i try it just not working can u help me</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wadjihmarouf"> /u/wadjihmarouf </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipd68o/terraria/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipd68o/terraria/">[comments]</a></span>
+
+## Football manager 24 cracked
+ - [https://www.reddit.com/r/CrackSupport/comments/1ipc8e7/football_manager_24_cracked](https://www.reddit.com/r/CrackSupport/comments/1ipc8e7/football_manager_24_cracked)
+ - RSS feed: $source
+ - date published: 2025-02-14T14:50:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>It&#39;s funny how I can&#39;t find any cracked version of fm 24. Pls help if you&#39;ve got .. tired of FM 23</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Contribution31"> /u/No_Contribution31 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipc8e7/football_manager_24_cracked/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipc8e7/football_manager_24_cracked/">[comments]</a></span>
+
+## Sekiro 0xc000007b Error
+ - [https://www.reddit.com/r/CrackSupport/comments/1ipbi67/sekiro_0xc000007b_error](https://www.reddit.com/r/CrackSupport/comments/1ipbi67/sekiro_0xc000007b_error)
+ - RSS feed: $source
+ - date published: 2025-02-14T14:16:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ipbi67/sekiro_0xc000007b_error/"> <img src="https://preview.redd.it/ztczrge154je1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d6c0d27dbf7255396457e00fa60ed679a2fd5a32" alt="Sekiro 0xc000007b Error" title="Sekiro 0xc000007b Error" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Few-Sun-8633"> /u/Few-Sun-8633 </a> <br/> <span><a href="https://i.redd.it/ztczrge154je1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipbi67/sekiro_0xc000007b_error/">[comments]</a></span> </td></tr></table>
+
+## Black myth Wukong
+ - [https://www.reddit.com/r/CrackSupport/comments/1ipa1wy/black_myth_wukong](https://www.reddit.com/r/CrackSupport/comments/1ipa1wy/black_myth_wukong)
+ - RSS feed: $source
+ - date published: 2025-02-14T13:01:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Does anyone know if there is a working crack for Wukong out yet? It was released last year Aug so am not sure. The sites I usually download from doesnt have it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Upset_Blueberry807"> /u/Upset_Blueberry807 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipa1wy/black_myth_wukong/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ipa1wy/black_myth_wukong/">[comments]</a></span>
+
+## Nine sols controller support
+ - [https://www.reddit.com/r/CrackSupport/comments/1ip9n5f/nine_sols_controller_support](https://www.reddit.com/r/CrackSupport/comments/1ip9n5f/nine_sols_controller_support)
+ - RSS feed: $source
+ - date published: 2025-02-14T12:37:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>steam input is not working</p> <p>DS4windows works for a few seconds when i switch tabs for some reason. and then the character dashes and the controller stops working on the game</p> <p>any help?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AHC122"> /u/AHC122 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip9n5f/nine_sols_controller_support/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip9n5f/nine_sols_controller_support/">[comments]</a></span>
+
+## 7launcher gta5 it was unpacking but I accidentally cancelled
+ - [https://www.reddit.com/r/CrackSupport/comments/1ip9gke/7launcher_gta5_it_was_unpacking_but_i](https://www.reddit.com/r/CrackSupport/comments/1ip9gke/7launcher_gta5_it_was_unpacking_but_i)
+ - RSS feed: $source
+ - date published: 2025-02-14T12:26:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>Now bro I am just crying because it took more than 24 hours to download and then it was Archives unpacking the I cancelled please help me..</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tough_Security2382"> /u/Tough_Security2382 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip9gke/7launcher_gta5_it_was_unpacking_but_i/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip9gke/7launcher_gta5_it_was_unpacking_but_i/">[comments]</a></span>
+
+## Does anyone have a Crack for FL Studio?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ip8jc3/does_anyone_have_a_crack_for_fl_studio](https://www.reddit.com/r/CrackSupport/comments/1ip8jc3/does_anyone_have_a_crack_for_fl_studio)
+ - RSS feed: $source
+ - date published: 2025-02-14T11:29:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>I wanna learn and make some bangers</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/whatchawanteh"> /u/whatchawanteh </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip8jc3/does_anyone_have_a_crack_for_fl_studio/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip8jc3/does_anyone_have_a_crack_for_fl_studio/">[comments]</a></span>
+
+## client like easymc
+ - [https://www.reddit.com/r/CrackSupport/comments/1ip88tw/client_like_easymc](https://www.reddit.com/r/CrackSupport/comments/1ip88tw/client_like_easymc)
+ - RSS feed: $source
+ - date published: 2025-02-14T11:08:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>is there any client like easymc ??? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Several_Courage_1580"> /u/Several_Courage_1580 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip88tw/client_like_easymc/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip88tw/client_like_easymc/">[comments]</a></span>
+
+## Civilization 7 2K account
+ - [https://www.reddit.com/r/CrackSupport/comments/1ip7h0x/civilization_7_2k_account](https://www.reddit.com/r/CrackSupport/comments/1ip7h0x/civilization_7_2k_account)
+ - RSS feed: $source
+ - date published: 2025-02-14T10:12:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>I can run civilization 7 and play but there is no progression and if I understood correctly it&#39;s because 2K account not connected (Not connected to online services)</p> <p>I&#39;m mostly interested if I&#39;m the only one with that problem or is that normal for everyone who plays cracked version</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mother-Departure-215"> /u/Mother-Departure-215 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip7h0x/civilization_7_2k_account/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip7h0x/civilization_7_2k_account/">[comments]</a></span>
+
+## unarc return an error code -12 [looking for fix]
+ - [https://www.reddit.com/r/CrackSupport/comments/1ip6u6r/unarc_return_an_error_code_12_looking_for_fix](https://www.reddit.com/r/CrackSupport/comments/1ip6u6r/unarc_return_an_error_code_12_looking_for_fix)
+ - RSS feed: $source
+ - date published: 2025-02-14T09:24:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>hello everyone , i&#39;m looking for a fix for this error i&#39;ve tried maybe everything on youtube like (download all vcredist , limit ram , etc) and still got the -12 error<br/> so if anyone can help i&#39;ll be thankful.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/3nterzb"> /u/3nterzb </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip6u6r/unarc_return_an_error_code_12_looking_for_fix/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip6u6r/unarc_return_an_error_code_12_looking_for_fix/">[comments]</a></span>
+
+## Sea of thevies cracked latest version
+ - [https://www.reddit.com/r/CrackSupport/comments/1ip6j00/sea_of_thevies_cracked_latest_version](https://www.reddit.com/r/CrackSupport/comments/1ip6j00/sea_of_thevies_cracked_latest_version)
+ - RSS feed: $source
+ - date published: 2025-02-14T09:01:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hlo can anyone tell me how to download sea of thevies cracked Latest version </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Paramedic8692"> /u/Ok_Paramedic8692 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip6j00/sea_of_thevies_cracked_latest_version/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip6j00/sea_of_thevies_cracked_latest_version/">[comments]</a></span>
+
+## Can anyone give me their rdr2 setup?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ip4l8h/can_anyone_give_me_their_rdr2_setup](https://www.reddit.com/r/CrackSupport/comments/1ip4l8h/can_anyone_give_me_their_rdr2_setup)
+ - RSS feed: $source
+ - date published: 2025-02-14T06:39:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ip4l8h/can_anyone_give_me_their_rdr2_setup/"> <img src="https://preview.redd.it/az1ebs1mv1je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=568e961f4f21f4b626436bd8c7b4e66229678d48" alt="Can anyone give me their rdr2 setup?" title="Can anyone give me their rdr2 setup?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I actually have no data to able to download it again. I&#39;m here if someone could just upload their setup on a drive and give me the link to it so i could download it ;-; pls help</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarShyzXD"> /u/MarShyzXD </a> <br/> <span><a href="https://i.redd.it/az1ebs1mv1je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip4l8h/can_anyone_give_me_their_rdr2_setup/">[comments]</a></span> </td></tr></table>
+
+## i try do run RDR2 downloaded from steam unlocked and it comes up with "EMP could not be located in the dynamic link library" what can i do to fix this?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ip4hnp/i_try_do_run_rdr2_downloaded_from_steam_unlocked](https://www.reddit.com/r/CrackSupport/comments/1ip4hnp/i_try_do_run_rdr2_downloaded_from_steam_unlocked)
+ - RSS feed: $source
+ - date published: 2025-02-14T06:32:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ip4hnp/i_try_do_run_rdr2_downloaded_from_steam_unlocked/"> <img src="https://a.thumbs.redditmedia.com/AcTyuhttmV1nbXvjyOOj3xpi2084nNgus8_iaUbLgb4.jpg" alt="i try do run RDR2 downloaded from steam unlocked and it comes up with &quot;EMP could not be located in the dynamic link library&quot; what can i do to fix this?" title="i try do run RDR2 downloaded from steam unlocked and it comes up with &quot;EMP could not be located in the dynamic link library&quot; what can i do to fix this?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/zhzxpdmdu1je1.png?width=1635&amp;format=png&amp;auto=webp&amp;s=10c0e04d4fe64f91227337a8b1e92db4353fb203">https://preview.redd.it/zhzxpdmdu1je1.png?width=1635&amp;format=png&amp;auto=webp&amp;s=10c0e04d4fe64f91227337a8b1e92db4353fb203</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nachosman201"> /u/Nachos
+
+## Assassin's Creed Origins fitgirl-repacks isn't working
+ - [https://www.reddit.com/r/CrackSupport/comments/1ip4crj/assassins_creed_origins_fitgirlrepacks_isnt](https://www.reddit.com/r/CrackSupport/comments/1ip4crj/assassins_creed_origins_fitgirlrepacks_isnt)
+ - RSS feed: $source
+ - date published: 2025-02-14T06:23:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I&#39;ve downloaded and installed assassin&#39;s creed origins last year in august and it was working completely fine...but in last few days I&#39;ve tried almost everything to play it.. but it wasn&#39;t working... I&#39;ve tried literally everything....yet still not working...(no anti virus issues...no software issues...nothing)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdditionalElephant35"> /u/AdditionalElephant35 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip4crj/assassins_creed_origins_fitgirlrepacks_isnt/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip4crj/assassins_creed_origins_fitgirlrepacks_isnt/">[comments]</a></span>
+
+## How to roll back updates for cracked games
+ - [https://www.reddit.com/r/CrackSupport/comments/1ip2qrj/how_to_roll_back_updates_for_cracked_games](https://www.reddit.com/r/CrackSupport/comments/1ip2qrj/how_to_roll_back_updates_for_cracked_games)
+ - RSS feed: $source
+ - date published: 2025-02-14T04:42:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is there any way other than reinstalling for getting rid of a game update? Recently got a new update (DODI) that broke my savefiles, and I&#39;d like to remove it without reinstalling the whole game.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vogel7"> /u/vogel7 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip2qrj/how_to_roll_back_updates_for_cracked_games/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip2qrj/how_to_roll_back_updates_for_cracked_games/">[comments]</a></span>
+
+## Avowed safe easy download anywhere?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ip1gzu/avowed_safe_easy_download_anywhere](https://www.reddit.com/r/CrackSupport/comments/1ip1gzu/avowed_safe_easy_download_anywhere)
+ - RSS feed: $source
+ - date published: 2025-02-14T03:30:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>Let me know cause I’ve had to download 4 different 20gb files that were a hassle and didn’t work.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RussianMonkey23"> /u/RussianMonkey23 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip1gzu/avowed_safe_easy_download_anywhere/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ip1gzu/avowed_safe_easy_download_anywhere/">[comments]</a></span>
+
+## How do you fix "fatal error, steam must be running to play this game"
+ - [https://www.reddit.com/r/CrackSupport/comments/1iozo61/how_do_you_fix_fatal_error_steam_must_be_running](https://www.reddit.com/r/CrackSupport/comments/1iozo61/how_do_you_fix_fatal_error_steam_must_be_running)
+ - RSS feed: $source
+ - date published: 2025-02-14T01:54:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I downloaded call of duty modern warfare remastered from ova games. I try to run it and the error &quot;fatal error, steam must be running to play this game&quot; comes up. I tried opening steam then running the game, didn&#39;t work. I added it as a non-steam game in steam then opened it through steam, didn&#39;t work. I checked windows defender to see if it quarantined any files, it said it didn&#39;t. Checked to make sure, both the steam_api.dll and steam_api64.dll were in the game&#39;s files. I deleted and reinstalled call of duty from ova games and tried all of this again, didn&#39;t work. I downloaded goldberg emu and replaced the steam_api.dll with goldberg&#39;s file, didn&#39;t work. I tried to replace the steam_api64.dll with goldberg&#39;s file, too, but then an error would come up saying that the steam_api64.dll was required for it to run, so didn&#39;t work. I&#39;ve done some googling and looked back through many old reddit posts with 
+
+## EA launcher deleted itself?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ioy81f/ea_launcher_deleted_itself](https://www.reddit.com/r/CrackSupport/comments/1ioy81f/ea_launcher_deleted_itself)
+ - RSS feed: $source
+ - date published: 2025-02-14T00:39:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I had reset my computer and turned it back on to the EA app gone. I searched it up on my settings in my computer and it gave me the option to repair, which fixed the base game but now all my DLC is gone (yes I downloaded them online but they worked perfect until now). How do I fix this? I still have the DLC downloaded and in the correct spot so I don&#39;t really know what&#39;s happening.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Strange-Simple9492"> /u/Strange-Simple9492 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ioy81f/ea_launcher_deleted_itself/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ioy81f/ea_launcher_deleted_itself/">[comments]</a></span>
+
+## Steamworks fix activation
+ - [https://www.reddit.com/r/CrackSupport/comments/1ioxvoq/steamworks_fix_activation](https://www.reddit.com/r/CrackSupport/comments/1ioxvoq/steamworks_fix_activation)
+ - RSS feed: $source
+ - date published: 2025-02-14T00:21:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Trying to launch FlyKnight then i get the message:</p> <p>Steamworks Fix Activation</p> <p>Please start downloading of the showed up game in the steam for a few seconds, then stop downloading and restart the game.</p> <p>My friend&#39;s not having trouble with this though</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DeathNotefag"> /u/DeathNotefag </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ioxvoq/steamworks_fix_activation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ioxvoq/steamworks_fix_activation/">[comments]</a></span>
+
+## Uplay_r164 file
+ - [https://www.reddit.com/r/CrackSupport/comments/1ioxpa2/uplay_r164_file](https://www.reddit.com/r/CrackSupport/comments/1ioxpa2/uplay_r164_file)
+ - RSS feed: $source
+ - date published: 2025-02-14T00:13:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello,does anyone have the uplay_r164.dll crack file for assassins creed unity</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/savana_mms"> /u/savana_mms </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ioxpa2/uplay_r164_file/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ioxpa2/uplay_r164_file/">[comments]</a></span>
+

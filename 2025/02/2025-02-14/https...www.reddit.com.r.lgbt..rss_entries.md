@@ -1,0 +1,282 @@
+# Source:r/lgbt: Reddit's home for the LGBTQ+ community, URL:https://www.reddit.com/r/lgbt/.rss, language:en
+
+## Federal judge blocks Donald Trump’s ban on gender-affirming care nationwide
+ - [https://www.reddit.com/r/lgbt/comments/1ipmfuz/federal_judge_blocks_donald_trumps_ban_on](https://www.reddit.com/r/lgbt/comments/1ipmfuz/federal_judge_blocks_donald_trumps_ban_on)
+ - RSS feed: $source
+ - date published: 2025-02-14T22:10:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Good. Looks like some people still have common sense. They are going to keep pushing their hateful agenda, though. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SendThisVoidAway18"> /u/SendThisVoidAway18 </a> <br/> <span><a href="https://www.lgbtqnation.com/2025/02/federal-judge-blocks-donald-trumps-ban-on-gender-affirming-care-nationwide/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipmfuz/federal_judge_blocks_donald_trumps_ban_on/">[comments]</a></span>
+
+## We finally made our relationship official and public! ❤️❤️
+ - [https://www.reddit.com/r/lgbt/comments/1iplpwz/we_finally_made_our_relationship_official_and](https://www.reddit.com/r/lgbt/comments/1iplpwz/we_finally_made_our_relationship_official_and)
+ - RSS feed: $source
+ - date published: 2025-02-14T21:38:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1iplpwz/we_finally_made_our_relationship_official_and/"> <img src="https://b.thumbs.redditmedia.com/KPlGSVqy1H2yBUkauiGmCcHpJ856bz-Q7oi4bw3lAVo.jpg" alt="We finally made our relationship official and public! ❤️❤️" title="We finally made our relationship official and public! ❤️❤️" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Me and my boyfriend have made our relationship official and public today on Valentine&#39;s Day! 🥰 We celebrated Valentine&#39;s Day and our new relationship with drinks, candy, ice creams and customized cakes! (We&#39;re still celebrating!). We&#39;re long distance so we&#39;re celebrating online. The main customized cake is rainbow themed and it&#39;s also having the trans flag colors on top (my boyfriend is trans). He got the same type of cake as well. I&#39;m sharing pictures of mine 😊</p> <p>Like I already said in a previous post, this was a celebration of our love and also a celebration 
+
+## Trump administration adds anti-trans notices to restored websites | The disclaimers are on pages that a federal judge ordered the Trump administration to restore earlier this week.
+ - [https://www.reddit.com/r/lgbt/comments/1ipl9x9/trump_administration_adds_antitrans_notices_to](https://www.reddit.com/r/lgbt/comments/1ipl9x9/trump_administration_adds_antitrans_notices_to)
+ - RSS feed: $source
+ - date published: 2025-02-14T21:18:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ipl9x9/trump_administration_adds_antitrans_notices_to/"> <img src="https://external-preview.redd.it/nS2KJcSsCKMI-kZbShBzrTr2jwoN1ReoQ3mUqJZzLcM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4d448999ab0b24f9654d21dae3c26b5f4167afb" alt="Trump administration adds anti-trans notices to restored websites | The disclaimers are on pages that a federal judge ordered the Trump administration to restore earlier this week." title="Trump administration adds anti-trans notices to restored websites | The disclaimers are on pages that a federal judge ordered the Trump administration to restore earlier this week." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/a_Ninja_b0y"> /u/a_Ninja_b0y </a> <br/> <span><a href="https://www.theverge.com/news/613308/trump-transgender-notice-restored-webpages-cdc-fda">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipl9x9/trump_admin
+
+## Donald Trump tried to ban them from sports. Now these two trans teens are fighting him in court
+ - [https://www.reddit.com/r/lgbt/comments/1ipl8ex/donald_trump_tried_to_ban_them_from_sports_now](https://www.reddit.com/r/lgbt/comments/1ipl8ex/donald_trump_tried_to_ban_them_from_sports_now)
+ - RSS feed: $source
+ - date published: 2025-02-14T21:16:45+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/a_Ninja_b0y"> /u/a_Ninja_b0y </a> <br/> <span><a href="https://www.lgbtqnation.com/2025/02/donald-trump-tried-to-ban-them-from-sports-now-these-two-trans-teens-are-fighting-him-in-court/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipl8ex/donald_trump_tried_to_ban_them_from_sports_now/">[comments]</a></span>
+
+## bite the hand
+ - [https://www.reddit.com/r/lgbt/comments/1ipl2zy/bite_the_hand](https://www.reddit.com/r/lgbt/comments/1ipl2zy/bite_the_hand)
+ - RSS feed: $source
+ - date published: 2025-02-14T21:10:08+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Budget_Painting_2969"> /u/Budget_Painting_2969 </a> <br/> <span><a href="https://i.redd.it/6s9h7st076je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipl2zy/bite_the_hand/">[comments]</a></span>
+
+## In a week we will have elections in Germany! Vote LEFT to protect our rights!
+ - [https://www.reddit.com/r/lgbt/comments/1ipkeqi/in_a_week_we_will_have_elections_in_germany_vote](https://www.reddit.com/r/lgbt/comments/1ipkeqi/in_a_week_we_will_have_elections_in_germany_vote)
+ - RSS feed: $source
+ - date published: 2025-02-14T20:40:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ipkeqi/in_a_week_we_will_have_elections_in_germany_vote/"> <img src="https://preview.redd.it/n3hp7knr16je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a63aedbe1b1d8c8e0cb165eca18b56afc5fbc2f" alt="In a week we will have elections in Germany! Vote LEFT to protect our rights!" title="In a week we will have elections in Germany! Vote LEFT to protect our rights!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Moone111"> /u/Moone111 </a> <br/> <span><a href="https://i.redd.it/n3hp7knr16je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipkeqi/in_a_week_we_will_have_elections_in_germany_vote/">[comments]</a></span> </td></tr></table>
+
+## Self love and community are important now more than ever. Happy Heart Day, loves!♥️
+ - [https://www.reddit.com/r/lgbt/comments/1ipk413/self_love_and_community_are_important_now_more](https://www.reddit.com/r/lgbt/comments/1ipk413/self_love_and_community_are_important_now_more)
+ - RSS feed: $source
+ - date published: 2025-02-14T20:27:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ipk413/self_love_and_community_are_important_now_more/"> <img src="https://b.thumbs.redditmedia.com/HI5bDQ_eXslrRleHt9gK6YXH9Z1rREOnUdbbNet0ATA.jpg" alt="Self love and community are important now more than ever. Happy Heart Day, loves!♥️" title="Self love and community are important now more than ever. Happy Heart Day, loves!♥️" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kurocane"> /u/kurocane </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipk413">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipk413/self_love_and_community_are_important_now_more/">[comments]</a></span> </td></tr></table>
+
+## My first Valentine's day I've ever spent in love. 💕
+ - [https://www.reddit.com/r/lgbt/comments/1ipjgvw/my_first_valentines_day_ive_ever_spent_in_love](https://www.reddit.com/r/lgbt/comments/1ipjgvw/my_first_valentines_day_ive_ever_spent_in_love)
+ - RSS feed: $source
+ - date published: 2025-02-14T20:00:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ipjgvw/my_first_valentines_day_ive_ever_spent_in_love/"> <img src="https://preview.redd.it/cxtbqwwju5je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ccde2f10c60156d1e00626c7ef98dbbca5cd4ba6" alt="My first Valentine's day I've ever spent in love. 💕" title="My first Valentine's day I've ever spent in love. 💕" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/commander_boobs"> /u/commander_boobs </a> <br/> <span><a href="https://i.redd.it/cxtbqwwju5je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipjgvw/my_first_valentines_day_ive_ever_spent_in_love/">[comments]</a></span> </td></tr></table>
+
+## Uh, Google... Maybe you shouldn't keep the pride parade graphic for this very specific instance.
+ - [https://www.reddit.com/r/lgbt/comments/1ipiwdf/uh_google_maybe_you_shouldnt_keep_the_pride](https://www.reddit.com/r/lgbt/comments/1ipiwdf/uh_google_maybe_you_shouldnt_keep_the_pride)
+ - RSS feed: $source
+ - date published: 2025-02-14T19:35:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ipiwdf/uh_google_maybe_you_shouldnt_keep_the_pride/"> <img src="https://preview.redd.it/v7x299f4q5je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7fb4418e4e77624b866f7c405bcaa0f48e2eb61c" alt="Uh, Google... Maybe you shouldn't keep the pride parade graphic for this very specific instance." title="Uh, Google... Maybe you shouldn't keep the pride parade graphic for this very specific instance." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iamtheduckie"> /u/iamtheduckie </a> <br/> <span><a href="https://i.redd.it/v7x299f4q5je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipiwdf/uh_google_maybe_you_shouldnt_keep_the_pride/">[comments]</a></span> </td></tr></table>
+
+## Because it's Valentine's Day
+ - [https://www.reddit.com/r/lgbt/comments/1ipig7l/because_its_valentines_day](https://www.reddit.com/r/lgbt/comments/1ipig7l/because_its_valentines_day)
+ - RSS feed: $source
+ - date published: 2025-02-14T19:16:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ipig7l/because_its_valentines_day/"> <img src="https://preview.redd.it/r9ssjbrom5je1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=38d0d658c7755bf7675b3e2c460dd2f897759103" alt="Because it's Valentine's Day" title="Because it's Valentine's Day" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BornAsAnOnion33"> /u/BornAsAnOnion33 </a> <br/> <span><a href="https://i.redd.it/r9ssjbrom5je1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipig7l/because_its_valentines_day/">[comments]</a></span> </td></tr></table>
+
+## I wanted to share this photo we took on Valentine's day with my husband
+ - [https://www.reddit.com/r/lgbt/comments/1ipi2xs/i_wanted_to_share_this_photo_we_took_on](https://www.reddit.com/r/lgbt/comments/1ipi2xs/i_wanted_to_share_this_photo_we_took_on)
+ - RSS feed: $source
+ - date published: 2025-02-14T19:00:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ipi2xs/i_wanted_to_share_this_photo_we_took_on/"> <img src="https://preview.redd.it/uvyleq7lj5je1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f55d2306fca8df01bbacf501ef4ce5505ac6701b" alt="I wanted to share this photo we took on Valentine's day with my husband" title="I wanted to share this photo we took on Valentine's day with my husband" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sterbenme"> /u/Sterbenme </a> <br/> <span><a href="https://i.redd.it/uvyleq7lj5je1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipi2xs/i_wanted_to_share_this_photo_we_took_on/">[comments]</a></span> </td></tr></table>
+
+## Trans rights are human rights! Workers rights are human rights! Let’s end rainbow capitalism that stood by us only for the profit!
+ - [https://www.reddit.com/r/lgbt/comments/1iphx9f/trans_rights_are_human_rights_workers_rights_are](https://www.reddit.com/r/lgbt/comments/1iphx9f/trans_rights_are_human_rights_workers_rights_are)
+ - RSS feed: $source
+ - date published: 2025-02-14T18:54:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1iphx9f/trans_rights_are_human_rights_workers_rights_are/"> <img src="https://preview.redd.it/kcswsc3ti5je1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bf6bd466e82171019d8f758d9990e5a408c01033" alt="Trans rights are human rights! Workers rights are human rights! Let’s end rainbow capitalism that stood by us only for the profit!" title="Trans rights are human rights! Workers rights are human rights! Let’s end rainbow capitalism that stood by us only for the profit!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Moone111"> /u/Moone111 </a> <br/> <span><a href="https://i.redd.it/kcswsc3ti5je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1iphx9f/trans_rights_are_human_rights_workers_rights_are/">[comments]</a></span> </td></tr></table>
+
+## Contact the Stonewall National Park website in regards to LGBTQ+ Erasure
+ - [https://www.reddit.com/r/lgbt/comments/1iphqxb/contact_the_stonewall_national_park_website_in](https://www.reddit.com/r/lgbt/comments/1iphqxb/contact_the_stonewall_national_park_website_in)
+ - RSS feed: $source
+ - date published: 2025-02-14T18:46:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>The Stonewall National Park has recently removed any references to transgender and queer individuals. Please call them and/or send them an email to let them know that this is <em>not</em> acceptable.</p> <p><a href="https://www.nps.gov/ston/contacts.htm">https://www.nps.gov/ston/contacts.htm</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CarbonicCryptid"> /u/CarbonicCryptid </a> <br/> <span><a href="https://www.reddit.com/r/lgbt/comments/1iphqxb/contact_the_stonewall_national_park_website_in/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1iphqxb/contact_the_stonewall_national_park_website_in/">[comments]</a></span>
+
+## I need to rant about my straight friend and Chappell Roan
+ - [https://www.reddit.com/r/lgbt/comments/1ipgvad/i_need_to_rant_about_my_straight_friend_and](https://www.reddit.com/r/lgbt/comments/1ipgvad/i_need_to_rant_about_my_straight_friend_and)
+ - RSS feed: $source
+ - date published: 2025-02-14T18:09:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I don&#39;t like to complain about my friends to my other groups of friends, so I decided to just rant on here. Me and my best friend are both 26F and have been friends since we were 7. I love her to death but recently the things she&#39;s been saying about Chappell have been pissing me off.</p> <p>For some background I have been listening to Chappell since like 2022 before she blew up so there was a moment in time where none of my friends knew who she was. So last year July we were on a road trip and she puts on Chappell which I respond, &quot;omg you know Chappell?&quot; (since no one really knew who she was before, and I was excited) and she got all defensive like &quot;of course I know Chappell, straight people know who Chappell is&quot;. I laughed it off like whatever but soon we were listening to Pink Pony Club and she started telling me that she really relates to the song. In my head I was confused because this is the straightest girl I
+
+## Boyfriend insists I'm straight.
+ - [https://www.reddit.com/r/lgbt/comments/1ipga0c/boyfriend_insists_im_straight](https://www.reddit.com/r/lgbt/comments/1ipga0c/boyfriend_insists_im_straight)
+ - RSS feed: $source
+ - date published: 2025-02-14T17:45:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just need some insight. Myself (31F) and my boyfriend (34M) have been together for 6 months. I am pansexual but to avoid the &quot;pans&quot; jokes if it comes up I tell people I&#39;m bisexual. I am attracted to people regardless of gender. Plain and simple. </p> <p>I don&#39;t quite remember how but it came up the other night in conversation and he said &quot;well you&#39;re with me so you&#39;re straight&quot;. Automatically I said &quot;ew, no, don&#39;t do that. I&#39;m bisexual.&quot; Referring to, don&#39;t try to erase my identity simply because I&#39;m with you, a man. He chuckled and dropped it, so did I. But it bugged me for the next two days. So yesterday morning, I calmly sat down and just asked him not to think of or call me straight, that it&#39;s not only incorrect but invalidating, and felt disrespectful that he would have the audacity to label me how he wishes despite the truth. He immediately began to defend his point of view, sa
+
+## GOP advances bill that would allow Nazi flags while banning Pride flags | The GOP lawmaker behind the bill said that the Nazi flag can serve "educational purposes" but the rainbow flag can't.
+ - [https://www.reddit.com/r/lgbt/comments/1ipfwty/gop_advances_bill_that_would_allow_nazi_flags](https://www.reddit.com/r/lgbt/comments/1ipfwty/gop_advances_bill_that_would_allow_nazi_flags)
+ - RSS feed: $source
+ - date published: 2025-02-14T17:29:34+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/a_Ninja_b0y"> /u/a_Ninja_b0y </a> <br/> <span><a href="https://www.lgbtqnation.com/2025/02/gop-advances-bill-that-would-allow-nazi-flags-while-banning-pride-flags/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipfwty/gop_advances_bill_that_would_allow_nazi_flags/">[comments]</a></span>
+
+## Happy Saint Valentine's day 👬💕✨
+ - [https://www.reddit.com/r/lgbt/comments/1ipfp5b/happy_saint_valentines_day](https://www.reddit.com/r/lgbt/comments/1ipfp5b/happy_saint_valentines_day)
+ - RSS feed: $source
+ - date published: 2025-02-14T17:20:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ipfp5b/happy_saint_valentines_day/"> <img src="https://b.thumbs.redditmedia.com/56XGwly2d-nKwWQnNmNogDT441kSI23NZSNmTV_iZKE.jpg" alt="Happy Saint Valentine's day 👬💕✨" title="Happy Saint Valentine's day 👬💕✨" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Th3_twinks_couple"> /u/Th3_twinks_couple </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipfp5b">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipfp5b/happy_saint_valentines_day/">[comments]</a></span> </td></tr></table>
+
+## I just looked up LGBTQ and it put a whole parade in front of my screen. I'm in France. Does it still do it in the US
+ - [https://www.reddit.com/r/lgbt/comments/1ipf1ky/i_just_looked_up_lgbtq_and_it_put_a_whole_parade](https://www.reddit.com/r/lgbt/comments/1ipf1ky/i_just_looked_up_lgbtq_and_it_put_a_whole_parade)
+ - RSS feed: $source
+ - date published: 2025-02-14T16:53:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ipf1ky/i_just_looked_up_lgbtq_and_it_put_a_whole_parade/"> <img src="https://preview.redd.it/53gqinc8x4je1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=72834eea1edb46fa7685cccd98a871091189c4b6" alt="I just looked up LGBTQ and it put a whole parade in front of my screen. I'm in France. Does it still do it in the US" title="I just looked up LGBTQ and it put a whole parade in front of my screen. I'm in France. Does it still do it in the US" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>We all know they&#39;re just pretending to be allies, but I wonder how much it changed in the us</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/France_Ball_Mapper"> /u/France_Ball_Mapper </a> <br/> <span><a href="https://i.redd.it/53gqinc8x4je1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipf1ky/i_just_looked_up_lgbtq_and_it_put_a_whole_parade/">[commen
+
+## Building a transgender resistance
+ - [https://www.reddit.com/r/lgbt/comments/1ipeoad/building_a_transgender_resistance](https://www.reddit.com/r/lgbt/comments/1ipeoad/building_a_transgender_resistance)
+ - RSS feed: $source
+ - date published: 2025-02-14T16:37:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ipeoad/building_a_transgender_resistance/"> <img src="https://external-preview.redd.it/JqxrdNbg90qD4XMZDVm6LoFpgTH6afCfEJJLWwsNBk0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b278b40f8955e530ff54d2f318b2303626f849ae" alt="Building a transgender resistance" title="Building a transgender resistance" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rejs7"> /u/rejs7 </a> <br/> <span><a href="https://rejserin.medium.com/building-a-transgender-resistance-c78eeb1c9f58?sk=832a572c3a329ad558ef93742711c631">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipeoad/building_a_transgender_resistance/">[comments]</a></span> </td></tr></table>
+
+## Stonewall website has a tab for improvemnt suggestions
+ - [https://www.reddit.com/r/lgbt/comments/1ipdv6v/stonewall_website_has_a_tab_for_improvemnt](https://www.reddit.com/r/lgbt/comments/1ipdv6v/stonewall_website_has_a_tab_for_improvemnt)
+ - RSS feed: $source
+ - date published: 2025-02-14T16:02:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>The &quot;was this post helpful?&quot; Part at the bottom</p> <p>I&#39;ll just post the link and let you do the rest</p> <p><a href="https://www.nps.gov/ston/index.htm">https://www.nps.gov/ston/index.htm</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/The_Valk"> /u/The_Valk </a> <br/> <span><a href="https://www.reddit.com/r/lgbt/comments/1ipdv6v/stonewall_website_has_a_tab_for_improvemnt/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipdv6v/stonewall_website_has_a_tab_for_improvemnt/">[comments]</a></span>
+
+## He was my Valentine when gay marriage was just a dream. Now he’s been my valentine 17 times! Never ever give up the fight for equality. NEVER be pushed back into the closet.
+ - [https://www.reddit.com/r/lgbt/comments/1ipd8na/he_was_my_valentine_when_gay_marriage_was_just_a](https://www.reddit.com/r/lgbt/comments/1ipd8na/he_was_my_valentine_when_gay_marriage_was_just_a)
+ - RSS feed: $source
+ - date published: 2025-02-14T15:35:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ipd8na/he_was_my_valentine_when_gay_marriage_was_just_a/"> <img src="https://preview.redd.it/e1kxk9qaj4je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7e02d95493c223b25cc03c81d58c1888312c058a" alt="He was my Valentine when gay marriage was just a dream. Now he’s been my valentine 17 times! Never ever give up the fight for equality. NEVER be pushed back into the closet." title="He was my Valentine when gay marriage was just a dream. Now he’s been my valentine 17 times! Never ever give up the fight for equality. NEVER be pushed back into the closet." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spriteking2012"> /u/spriteking2012 </a> <br/> <span><a href="https://i.redd.it/e1kxk9qaj4je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipd8na/he_was_my_valentine_when_gay_marriage_was_just_a/">[comments]</a></span> </td></tr></table>
+
+## Seriously, FUCK Google
+ - [https://www.reddit.com/r/lgbt/comments/1ipczso/seriously_fuck_google](https://www.reddit.com/r/lgbt/comments/1ipczso/seriously_fuck_google)
+ - RSS feed: $source
+ - date published: 2025-02-14T15:24:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ipczso/seriously_fuck_google/"> <img src="https://preview.redd.it/gekjtosdh4je1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=051f60aba60b66c08026c314b6ff59eb0ab4c401" alt="Seriously, FUCK Google" title="Seriously, FUCK Google" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>And I don&#39;t just mean for them getting rid of diversity celebrations in the calendar or the Gulf of Mexico situation. The last couple weeks they have been pushing right wing BS and misinformation so hard it&#39;s ridiculous. People want to talk about &quot;content bubbles&quot;, but if that were the case, I wouldn&#39;t be getting served right wing bs in my searches constantly.</p> <p>If I search for something related to lgbt news and everytime the first links and previews are Faux News and the New York Post and other fascist propaganda rags- reading those would be an act of self harm, I sure as shit haven&#39;t implied it&#39;s what I w
+
+## Happy Valentine's Day! Today also marks three years on E
+ - [https://www.reddit.com/r/lgbt/comments/1ipbte1/happy_valentines_day_today_also_marks_three_years](https://www.reddit.com/r/lgbt/comments/1ipbte1/happy_valentines_day_today_also_marks_three_years)
+ - RSS feed: $source
+ - date published: 2025-02-14T14:30:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ipbte1/happy_valentines_day_today_also_marks_three_years/"> <img src="https://preview.redd.it/th5fxnys74je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0fac52eb063187e5969d7cb6ee6b971fe91125af" alt="Happy Valentine's Day! Today also marks three years on E" title="Happy Valentine's Day! Today also marks three years on E" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aretoodeto"> /u/aretoodeto </a> <br/> <span><a href="https://i.redd.it/th5fxnys74je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipbte1/happy_valentines_day_today_also_marks_three_years/">[comments]</a></span> </td></tr></table>
+
+## Stonewall was never celebrated by the state
+ - [https://www.reddit.com/r/lgbt/comments/1ipbjus/stonewall_was_never_celebrated_by_the_state](https://www.reddit.com/r/lgbt/comments/1ipbjus/stonewall_was_never_celebrated_by_the_state)
+ - RSS feed: $source
+ - date published: 2025-02-14T14:18:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>I, like everyone else, am incredibly angry over the removal of trans people from the Stonewall memorial. It&#39;s infuriating, when just about every major fight for queer rights, especially Stonewall, was led by trans women of color.</p> <p>But remember that Stonewall was never something for the state to celebrate. We have never been respected by those in power. Stonewall doesn&#39;t live on through a bastardized monument made by the government, it lives on through all of us, and our ability to collectively organize and fight for our rights. Stonewall is an inspiration to me and I&#39;m sure many of you, and that hasn&#39;t changed, even if its image is being cis-washed.</p> <p>And always remember, Stonewall was a riot 🧱</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/John_From_The_IRS"> /u/John_From_The_IRS </a> <br/> <span><a href="https://www.reddit.com/r/lgbt/comments/1ipbjus/stonewall_was_never_celebrated_b
+
+## The Transgender Resistance
+ - [https://www.reddit.com/r/lgbt/comments/1ipbia6/the_transgender_resistance](https://www.reddit.com/r/lgbt/comments/1ipbia6/the_transgender_resistance)
+ - RSS feed: $source
+ - date published: 2025-02-14T14:16:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ipbia6/the_transgender_resistance/"> <img src="https://b.thumbs.redditmedia.com/R9DTrBfY8I0ziSq4V2Y_qYig6Cl2ZPk3tIGaWuACtRw.jpg" alt="The Transgender Resistance" title="The Transgender Resistance" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/7z7fl92154je1.png?width=298&amp;format=png&amp;auto=webp&amp;s=1398c96d5d4e8acfd3c811228e5d6f5658e6b85a">https://preview.redd.it/7z7fl92154je1.png?width=298&amp;format=png&amp;auto=webp&amp;s=1398c96d5d4e8acfd3c811228e5d6f5658e6b85a</a></p> <p>My personalized news feed showed me this this morning. No, I did not watch the video, I screenshotted it because its ridiculous. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Empathetic_Artist"> /u/Empathetic_Artist </a> <br/> <span><a href="https://www.reddit.com/r/lgbt/comments/1ipbia6/the_transgender_resistance/">[link]</a></span> &#32; <span><a href="https:/
+
+## This flag reminds me of who I am, and how hard I've worked every day <3
+ - [https://www.reddit.com/r/lgbt/comments/1ipaczw/this_flag_reminds_me_of_who_i_am_and_how_hard_ive](https://www.reddit.com/r/lgbt/comments/1ipaczw/this_flag_reminds_me_of_who_i_am_and_how_hard_ive)
+ - RSS feed: $source
+ - date published: 2025-02-14T13:17:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ipaczw/this_flag_reminds_me_of_who_i_am_and_how_hard_ive/"> <img src="https://preview.redd.it/66uv0n8pu3je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=83c673254221d19473a8e8c2907e56d08b75e293" alt="This flag reminds me of who I am, and how hard I've worked every day &lt;3" title="This flag reminds me of who I am, and how hard I've worked every day &lt;3" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/fieisisitwo"> /u/fieisisitwo </a> <br/> <span><a href="https://i.redd.it/66uv0n8pu3je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ipaczw/this_flag_reminds_me_of_who_i_am_and_how_hard_ive/">[comments]</a></span> </td></tr></table>
+
+## This is so wholesome 😊
+ - [https://www.reddit.com/r/lgbt/comments/1ip9ga4/this_is_so_wholesome](https://www.reddit.com/r/lgbt/comments/1ip9ga4/this_is_so_wholesome)
+ - RSS feed: $source
+ - date published: 2025-02-14T12:26:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ip9ga4/this_is_so_wholesome/"> <img src="https://preview.redd.it/8ukefwwh00je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=670cc9122c51b66e0385ce5fd87d60f4582ab583" alt="This is so wholesome 😊" title="This is so wholesome 😊" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/juliunicorn314"> /u/juliunicorn314 </a> <br/> <span><a href="https://i.redd.it/8ukefwwh00je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ip9ga4/this_is_so_wholesome/">[comments]</a></span> </td></tr></table>
+
+## Does my binder fit? (He/him)
+ - [https://www.reddit.com/r/lgbt/comments/1ip8wx1/does_my_binder_fit_hehim](https://www.reddit.com/r/lgbt/comments/1ip8wx1/does_my_binder_fit_hehim)
+ - RSS feed: $source
+ - date published: 2025-02-14T11:53:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ip8wx1/does_my_binder_fit_hehim/"> <img src="https://b.thumbs.redditmedia.com/MjuLs2uDf3cOUnXoc-EhOK57xCTcnx5jIoLHnL3PkJM.jpg" alt="Does my binder fit? (He/him)" title="Does my binder fit? (He/him)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I ordered this from wivov and used my measurements, but it feels a bit loose. I know with binders it&#39;s good to not have them too tight, but I dont know whether I should return it and size down or stay with this one.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/herondale344"> /u/herondale344 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ip8wx1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ip8wx1/does_my_binder_fit_hehim/">[comments]</a></span> </td></tr></table>
+
+## I might be trans but I don't want to change my name
+ - [https://www.reddit.com/r/lgbt/comments/1ip87ld/i_might_be_trans_but_i_dont_want_to_change_my_name](https://www.reddit.com/r/lgbt/comments/1ip87ld/i_might_be_trans_but_i_dont_want_to_change_my_name)
+ - RSS feed: $source
+ - date published: 2025-02-14T11:06:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a really feminine name but I love my name too much to change it, Isn&#39;t it weird if I do become trans that I still have a girls name? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pantherazz"> /u/Pantherazz </a> <br/> <span><a href="https://www.reddit.com/r/lgbt/comments/1ip87ld/i_might_be_trans_but_i_dont_want_to_change_my_name/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ip87ld/i_might_be_trans_but_i_dont_want_to_change_my_name/">[comments]</a></span>
+
+## Is this real? Wtf
+ - [https://www.reddit.com/r/lgbt/comments/1ip7kub/is_this_real_wtf](https://www.reddit.com/r/lgbt/comments/1ip7kub/is_this_real_wtf)
+ - RSS feed: $source
+ - date published: 2025-02-14T10:20:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ip7kub/is_this_real_wtf/"> <img src="https://preview.redd.it/yjh8tek3z2je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=56ae911332940c15333785a9b3ba2a8e2d5f2920" alt="Is this real? Wtf" title="Is this real? Wtf" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NoxRose"> /u/NoxRose </a> <br/> <span><a href="https://i.redd.it/yjh8tek3z2je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ip7kub/is_this_real_wtf/">[comments]</a></span> </td></tr></table>
+
+## Trump got Me lookin like this alot haha 🤣🤣 screw that guy
+ - [https://www.reddit.com/r/lgbt/comments/1ip5vuf/trump_got_me_lookin_like_this_alot_haha_screw](https://www.reddit.com/r/lgbt/comments/1ip5vuf/trump_got_me_lookin_like_this_alot_haha_screw)
+ - RSS feed: $source
+ - date published: 2025-02-14T08:12:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ip5vuf/trump_got_me_lookin_like_this_alot_haha_screw/"> <img src="https://preview.redd.it/g1c7auq9c2je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=04b3ed4cb4bc970e7b2eb90d53670f43651e71cb" alt="Trump got Me lookin like this alot haha 🤣🤣 screw that guy" title="Trump got Me lookin like this alot haha 🤣🤣 screw that guy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hsaves1288"> /u/Hsaves1288 </a> <br/> <span><a href="https://i.redd.it/g1c7auq9c2je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ip5vuf/trump_got_me_lookin_like_this_alot_haha_screw/">[comments]</a></span> </td></tr></table>
+
+## Bring a brick to your protest on Monday
+ - [https://www.reddit.com/r/lgbt/comments/1ip3ppr/bring_a_brick_to_your_protest_on_monday](https://www.reddit.com/r/lgbt/comments/1ip3ppr/bring_a_brick_to_your_protest_on_monday)
+ - RSS feed: $source
+ - date published: 2025-02-14T05:40:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>They pulled the T+ off the Stonewall Memorial website. It&#39;s time these fascists are reminded we are a united community. Bring a brick with you when you protest on Monday. Carve or write a &quot;T+&quot; on it. Place it gently on the steps of your state capitol, city hall, etc. Remember Stonewall.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RevelScum"> /u/RevelScum </a> <br/> <span><a href="https://www.reddit.com/r/lgbt/comments/1ip3ppr/bring_a_brick_to_your_protest_on_monday/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ip3ppr/bring_a_brick_to_your_protest_on_monday/">[comments]</a></span>
+
+## Got some queer chameleon pins for my birthday! (Most were a surprise!)
+ - [https://www.reddit.com/r/lgbt/comments/1ip1yk7/got_some_queer_chameleon_pins_for_my_birthday](https://www.reddit.com/r/lgbt/comments/1ip1yk7/got_some_queer_chameleon_pins_for_my_birthday)
+ - RSS feed: $source
+ - date published: 2025-02-14T03:57:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ip1yk7/got_some_queer_chameleon_pins_for_my_birthday/"> <img src="https://b.thumbs.redditmedia.com/nd-MKV7nsqA13IZya2zhW1rR2jk0CQwNPcKbEg6FzDI.jpg" alt="Got some queer chameleon pins for my birthday! (Most were a surprise!)" title="Got some queer chameleon pins for my birthday! (Most were a surprise!)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>The first one is the one I asked for, which I love smmm.</p> <p>The other three were all surprise gifts from my dad 🥹💛</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UrsoMajor560"> /u/UrsoMajor560 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ip1yk7">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ip1yk7/got_some_queer_chameleon_pins_for_my_birthday/">[comments]</a></span> </td></tr></table>
+
+## FYI: It's trans woman and not transwoman
+ - [https://www.reddit.com/r/lgbt/comments/1ip1h16/fyi_its_trans_woman_and_not_transwoman](https://www.reddit.com/r/lgbt/comments/1ip1h16/fyi_its_trans_woman_and_not_transwoman)
+ - RSS feed: $source
+ - date published: 2025-02-14T03:30:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been seeing a bit of an uptick in usage of &quot;transwoman&quot; recently.</p> <p>&quot;transwoman&quot; is often used by TERFs and bigots as a means to &quot;other&quot; trans woman.</p> <p>It&#39;s like they&#39;re trying to say that trans women are not women, but something else.</p> <p>For another example, you wouldn&#39;t say &quot;Americanwoman&quot; either for the same reason.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lexieeeeeeeeee"> /u/Lexieeeeeeeeee </a> <br/> <span><a href="https://www.reddit.com/r/lgbt/comments/1ip1h16/fyi_its_trans_woman_and_not_transwoman/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ip1h16/fyi_its_trans_woman_and_not_transwoman/">[comments]</a></span>
+
+## Stonewall Monument Protests
+ - [https://www.reddit.com/r/lgbt/comments/1ip1abd/stonewall_monument_protests](https://www.reddit.com/r/lgbt/comments/1ip1abd/stonewall_monument_protests)
+ - RSS feed: $source
+ - date published: 2025-02-14T03:20:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>To preface, I&#39;d like to first comment that I didn&#39;t want my first post on this subreddit to be about something this dark. I&#39;ve been seeing posts about the removal of all references to transgender and queer people on the national Parks and monuments registry webpage for the Stonewall Monument in New York. I&#39;m a trans woman who has lived her entire life in the San Francisco Bay area, and while much of the current events happening in the US have me quite upset, this one in particular has struck a deeply resonant nerve in me. I put a content warning on this post because I know that this is an upsetting thing to have to talk about. But the fact that this makes me feel this upset tells me that I need to take action for myself to do something about this erasure while we still can.</p> <p>So I wanted to ask here: does anyone know if there are protests being organized in and around the Stonewall Monument in the coming weeks, especially during 
+
+## Transphobia in the U.S.: ‘What used to be whispered is now said out loud.’
+ - [https://www.reddit.com/r/lgbt/comments/1ip0reo/transphobia_in_the_us_what_used_to_be_whispered](https://www.reddit.com/r/lgbt/comments/1ip0reo/transphobia_in_the_us_what_used_to_be_whispered)
+ - RSS feed: $source
+ - date published: 2025-02-14T02:52:02+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://76crimes.com/2025/02/13/transphobia-in-the-u-s-what-used-to-be-whispered-is-now-said-out-loud/">https://76crimes.com/2025/02/13/transphobia-in-the-u-s-what-used-to-be-whispered-is-now-said-out-loud/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ColinStewart"> /u/ColinStewart </a> <br/> <span><a href="https://www.reddit.com/r/lgbt/comments/1ip0reo/transphobia_in_the_us_what_used_to_be_whispered/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ip0reo/transphobia_in_the_us_what_used_to_be_whispered/">[comments]</a></span>
+
+## U.S. halts anti-HIV drugs for LGBTQ people abroad, risking deadly AIDS rebound
+ - [https://www.reddit.com/r/lgbt/comments/1iozzqr/us_halts_antihiv_drugs_for_lgbtq_people_abroad](https://www.reddit.com/r/lgbt/comments/1iozzqr/us_halts_antihiv_drugs_for_lgbtq_people_abroad)
+ - RSS feed: $source
+ - date published: 2025-02-14T02:11:14+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://76crimes.com/2025/02/13/u-s-halts-anti-hiv-drugs-for-lgbtq-people-abroad-risking-deadly-aids-rebound/">https://76crimes.com/2025/02/13/u-s-halts-anti-hiv-drugs-for-lgbtq-people-abroad-risking-deadly-aids-rebound/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ColinStewart"> /u/ColinStewart </a> <br/> <span><a href="https://www.reddit.com/r/lgbt/comments/1iozzqr/us_halts_antihiv_drugs_for_lgbtq_people_abroad/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1iozzqr/us_halts_antihiv_drugs_for_lgbtq_people_abroad/">[comments]</a></span>
+
+## This is the closest thing to a mention of trans people on the STONEWALL memorial site. We need to be in the streets with bricks right now.
+ - [https://www.reddit.com/r/lgbt/comments/1ioz8ix/this_is_the_closest_thing_to_a_mention_of_trans](https://www.reddit.com/r/lgbt/comments/1ioz8ix/this_is_the_closest_thing_to_a_mention_of_trans)
+ - RSS feed: $source
+ - date published: 2025-02-14T01:31:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ioz8ix/this_is_the_closest_thing_to_a_mention_of_trans/"> <img src="https://preview.redd.it/rpean1joc0je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eaabb83ce5966aabf8bbe561cd9ae4159454683b" alt="This is the closest thing to a mention of trans people on the STONEWALL memorial site. We need to be in the streets with bricks right now." title="This is the closest thing to a mention of trans people on the STONEWALL memorial site. We need to be in the streets with bricks right now." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pitiful_Lake2522"> /u/Pitiful_Lake2522 </a> <br/> <span><a href="https://i.redd.it/rpean1joc0je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ioz8ix/this_is_the_closest_thing_to_a_mention_of_trans/">[comments]</a></span> </td></tr></table>
+
+## We REMEMBER Sylvia Rivera and Marsha P. Johnson, the transwomen who fought for our rights.
+ - [https://www.reddit.com/r/lgbt/comments/1ioz66j/we_remember_sylvia_rivera_and_marsha_p_johnson](https://www.reddit.com/r/lgbt/comments/1ioz66j/we_remember_sylvia_rivera_and_marsha_p_johnson)
+ - RSS feed: $source
+ - date published: 2025-02-14T01:27:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/lgbt/comments/1ioz66j/we_remember_sylvia_rivera_and_marsha_p_johnson/"> <img src="https://preview.redd.it/qzpqlys2c0je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e9437a422ddc240cb5bee9d9146db6ad2ef82102" alt="We REMEMBER Sylvia Rivera and Marsha P. Johnson, the transwomen who fought for our rights." title="We REMEMBER Sylvia Rivera and Marsha P. Johnson, the transwomen who fought for our rights." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lydiatank"> /u/lydiatank </a> <br/> <span><a href="https://i.redd.it/qzpqlys2c0je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ioz66j/we_remember_sylvia_rivera_and_marsha_p_johnson/">[comments]</a></span> </td></tr></table>
+
+## homophobia
+ - [https://www.reddit.com/r/lgbt/comments/1ioz1nr/homophobia](https://www.reddit.com/r/lgbt/comments/1ioz1nr/homophobia)
+ - RSS feed: $source
+ - date published: 2025-02-14T01:21:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>these fuckers at school pointed. at me and said, &quot;that&#39;s how gay people walk!&quot; <em>cue annoying 15 year old laughter and high fives</em> and I just don&#39;t get it. why be a dick to someone that hasn&#39;t done anything wrong except express themselves. these guys can go fuck themselves in a hole for all I care</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Agile_Reference9558"> /u/Agile_Reference9558 </a> <br/> <span><a href="https://www.reddit.com/r/lgbt/comments/1ioz1nr/homophobia/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/lgbt/comments/1ioz1nr/homophobia/">[comments]</a></span>
+
