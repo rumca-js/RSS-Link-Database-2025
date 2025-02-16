@@ -1,0 +1,170 @@
+# Source:Linux, GNU/Linux, free software..., URL:https://www.reddit.com/r/linux/.rss, language:en
+
+## New Arabic Playlist: Your Linux Journey: From Zero to Hero [Arabic]
+ - [https://www.reddit.com/r/linux/comments/1iqe3ma/new_arabic_playlist_your_linux_journey_from_zero](https://www.reddit.com/r/linux/comments/1iqe3ma/new_arabic_playlist_your_linux_journey_from_zero)
+ - RSS feed: $source
+ - date published: 2025-02-15T23:06:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone! 👋</p> <p>I’m excited to share my new YouTube playlist: <strong>&quot;Your Linux Journey: From Zero to Hero [Arabic]&quot;</strong>! Whether you’re a beginner or an experienced developer, this series will teach you everything you need to know about Linux, from the basics to installation and customization.</p> <h1>What’s on the Playlist?</h1> <p>✅ <strong>What is Linux?</strong> - An introduction to the operating system and its features.<br/> ✅ <strong>Why Linux is Essential for Developers</strong> - Benefits of Linux in programming and development.<br/> ✅ <strong>Linux Distributions</strong> - A comparison of Ubuntu and Fedora to help you choose the right one.<br/> ✅ <strong>Before Installing Linux</strong> - Tips to prepare your system and keep your data safe.<br/> ✅ <strong>Installing Ubuntu and Fedora</strong> - Step-by-step installation guides.<br/> ✅ <strong>After Installation</strong> - How to customize your system and install esse
+
+## Creating my OS
+ - [https://www.reddit.com/r/linux/comments/1iqaxku/creating_my_os](https://www.reddit.com/r/linux/comments/1iqaxku/creating_my_os)
+ - RSS feed: $source
+ - date published: 2025-02-15T20:46:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Now, I know it sounds absurd, but I just want to understand the general workflow of how do you design a linux, or a unix-based OS.</p> <p>I have a fair knowledge of computer architecture and can understand low level language of the computer.</p> <p>I am just an enthusiast who wants to just make a functional os, with just a terminal that is able to execute things.</p> <p>Any advice is greatly appreciated!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zainali28"> /u/zainali28 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iqaxku/creating_my_os/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iqaxku/creating_my_os/">[comments]</a></span>
+
+## I Tried to Rank Linux Distros by Popularity. Linux Mint won!
+ - [https://www.reddit.com/r/linux/comments/1iqajfh/i_tried_to_rank_linux_distros_by_popularity_linux](https://www.reddit.com/r/linux/comments/1iqajfh/i_tried_to_rank_linux_distros_by_popularity_linux)
+ - RSS feed: $source
+ - date published: 2025-02-15T20:28:55+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/ui4pp5wp2dje1.png?width=949&amp;format=png&amp;auto=webp&amp;s=bb99339600e0ee37366dc1cf3553d6c7829ed6cd">The spreadsheet. Apparently Linux Mint is the most popular. That kinda tracks?</a></p> <p>Some notes:</p> <ul> <li>Selecting the 25 distros was hard and will always lead to some being left out</li> <li>I left out immutable distros cause i just suck like that</li> <li>&quot;# of Wikipedia Articles&quot; means how many languages the article for the distro is available in</li> <li>The combined value was calculated with the performance against the average, and added for all 4 categories</li> <li>The website backlink number was fetched with <a href="https://openlinkprofiler.org/">https://openlinkprofiler.org/</a> using the official distro website</li> <li>I tried to find categories with centralized data available, so number of iso downloads etc... doesnt work sadly</li> <li>Distrowatch alone obviously cannot tell the wh
+
+## Found a Linux Terminal that runs in a PDF
+ - [https://www.reddit.com/r/linux/comments/1iqa197/found_a_linux_terminal_that_runs_in_a_pdf](https://www.reddit.com/r/linux/comments/1iqa197/found_a_linux_terminal_that_runs_in_a_pdf)
+ - RSS feed: $source
+ - date published: 2025-02-15T20:07:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>This is not made by me but I found it. </p> <p>Linux in a PDF file. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Potential_Compote675"> /u/Potential_Compote675 </a> <br/> <span><a href="https://drive.google.com/file/d/1XvdUU-cbOXjBNFvqv5Yp4t5ckqfcyVj-/view?usp=drivesdk">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iqa197/found_a_linux_terminal_that_runs_in_a_pdf/">[comments]</a></span>
+
+## Seeking a keyboard-driven clipboard workflow for XFCE/Debian
+ - [https://www.reddit.com/r/linux/comments/1iq712j/seeking_a_keyboarddriven_clipboard_workflow_for](https://www.reddit.com/r/linux/comments/1iq712j/seeking_a_keyboarddriven_clipboard_workflow_for)
+ - RSS feed: $source
+ - date published: 2025-02-15T17:56:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m looking for a clipboard manager that prioritizes keyboard control, specifically one that allows quick access to history and recent items through shortcuts without relying on arrow keys or mouse navigation.</p> <p>Currently using clipman on XFCE/Debian, but its shortcut capabilities are quite limited. While I can set shortcuts to open the popup menu or history, I still need to use arrow keys or mouse to navigate through the entries.</p> <p>Does anyone have recommendations for:</p> <ol> <li>A more keyboard-friendly clipboard manager, or</li> <li>Advanced clipman configurations to achieve this functionality?</li> </ol> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Frisso92"> /u/Frisso92 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iq712j/seeking_a_keyboarddriven_clipboard_workflow_for/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iq712j/seeking_a_keybo
+
+## My experience with Tails os vs Puppy (rant)
+ - [https://www.reddit.com/r/linux/comments/1iq5v75/my_experience_with_tails_os_vs_puppy_rant](https://www.reddit.com/r/linux/comments/1iq5v75/my_experience_with_tails_os_vs_puppy_rant)
+ - RSS feed: $source
+ - date published: 2025-02-15T17:04:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Recently I began to be security concious for some reason and I decided to create a USB thumb drive with TailsOs in it. From what I read Tails is ran entirely in the RAM, but I now believe there are some nuances to it.</p> <p>Firstly, the apps may be running in only RAM and never written to the disk, but the os is not fully loaded into the RAM like how puppy linux does and so, if you unplug the USB after boot, tails will crash with error stating failed to read from the squashfile and puppy doesn&#39;t do this. This alone doesn&#39;t sit right with me. My next issue with tails is how it decided to not operate from a single partition on a USB, rather they made it such a way that you have to write it to the whole USB disk to make it work. Instead of having a standard ISO file with CDROM type, tails is an img file with EFI partion. With puppy you can do a dd of the iso file to the partition of your liking(but still that alone doesn&#39;t work because your
+
+## TIL There is a minor-planet called Linux
+ - [https://www.reddit.com/r/linux/comments/1iq5p1p/til_there_is_a_minorplanet_called_linux](https://www.reddit.com/r/linux/comments/1iq5p1p/til_there_is_a_minorplanet_called_linux)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:57:50+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/forvirringssirkel"> /u/forvirringssirkel </a> <br/> <span><a href="https://i.redd.it/p0lx2vgv2cje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iq5p1p/til_there_is_a_minorplanet_called_linux/">[comments]</a></span>
+
+## SomeOrdinaryGamers convinced me to try Linux
+ - [https://www.reddit.com/r/linux/comments/1iq5llq/someordinarygamers_convinced_me_to_try_linux](https://www.reddit.com/r/linux/comments/1iq5llq/someordinarygamers_convinced_me_to_try_linux)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:53:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>My PC can&#39;t install Windows 11, and I from what I can tell, a 1660s with a 10400f isn&#39;t even considered a gaming PC anymore.</p> <p>But hearing him say all the qualities Linux has, convinced me that it&#39;s worth learning and worth wanting to kill myself for the eventual problems I&#39;ll have while trying to swap to Linux.</p> <p>But that being said, I want to know specifically what &quot;Being an Hacker from a film to download a browser&quot; entails. I don&#39;t need a tutorial on how to download everything, I will look for that myself on YouTube, but before switching, I want to understand what is the difference between Windows and Linux. From all I know, Windows is a PC and Linux is a piece of blank paper where you draw your PC and if you mess up a line you throw away your PC</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Takimura_"> /u/Takimura_ </a> <br/> <span><a href="https://www.reddit.com/r/l
+
+## What CLI/TUI tools are your favourite ones?
+ - [https://www.reddit.com/r/linux/comments/1iq5g4k/what_clitui_tools_are_your_favourite_ones](https://www.reddit.com/r/linux/comments/1iq5g4k/what_clitui_tools_are_your_favourite_ones)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:46:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Share in the comments what command line tools you like using.</p> <p>My favourite are:</p> <ul> <li>ripgrep</li> <li>lazydocker</li> <li>bat</li> </ul> <p>This article as a nice list of cool CLIs/TUIs <a href="https://packagemain.tech/p/essential-clitui-tools-for-developers">https://packagemain.tech/p/essential-clitui-tools-for-developers</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/der_gopher"> /u/der_gopher </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iq5g4k/what_clitui_tools_are_your_favourite_ones/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iq5g4k/what_clitui_tools_are_your_favourite_ones/">[comments]</a></span>
+
+## Why was my post removed?
+ - [https://www.reddit.com/r/linux/comments/1iq2nm6/why_was_my_post_removed](https://www.reddit.com/r/linux/comments/1iq2nm6/why_was_my_post_removed)
+ - RSS feed: $source
+ - date published: 2025-02-15T14:37:07+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Der_Bohne"> /u/Der_Bohne </a> <br/> <span><a href="https://i.redd.it/slodsp2tdbje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iq2nm6/why_was_my_post_removed/">[comments]</a></span>
+
+## Karol Herbst Steps Down As Nouveau Maintainer Due To Linux Kernel's Toxic Environment
+ - [https://www.reddit.com/r/linux/comments/1iq2itv/karol_herbst_steps_down_as_nouveau_maintainer_due](https://www.reddit.com/r/linux/comments/1iq2itv/karol_herbst_steps_down_as_nouveau_maintainer_due)
+ - RSS feed: $source
+ - date published: 2025-02-15T14:30:29+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/unixbhaskar"> /u/unixbhaskar </a> <br/> <span><a href="https://www.phoronix.com/news/Karol-Herbst-Nouveau-No">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iq2itv/karol_herbst_steps_down_as_nouveau_maintainer_due/">[comments]</a></span>
+
+## Easy to do most secure Linux on USB
+ - [https://www.reddit.com/r/linux/comments/1iq2c7i/easy_to_do_most_secure_linux_on_usb](https://www.reddit.com/r/linux/comments/1iq2c7i/easy_to_do_most_secure_linux_on_usb)
+ - RSS feed: $source
+ - date published: 2025-02-15T14:21:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>Limited tech skills but need a secure Linux distro to run a USB to support oldish hardware? What are my best and least effort options? 2G of RAM, 64bit CPU, touch screen no kb. If the HD are encrypted, the USB distro won&#39;t have access to the data right? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/looped_around"> /u/looped_around </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iq2c7i/easy_to_do_most_secure_linux_on_usb/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iq2c7i/easy_to_do_most_secure_linux_on_usb/">[comments]</a></span>
+
+## Richard Stallman on RISC-V and Free Hardware
+ - [https://www.reddit.com/r/linux/comments/1iq16im/richard_stallman_on_riscv_and_free_hardware](https://www.reddit.com/r/linux/comments/1iq16im/richard_stallman_on_riscv_and_free_hardware)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:20:02+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ShockleyTransistor"> /u/ShockleyTransistor </a> <br/> <span><a href="https://odysee.com/@SemiTO-V:2/richardstallmanriscv:7?r=BYVDNyJt5757WttAfFdvNmR9TvBSJHCv">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iq16im/richard_stallman_on_riscv_and_free_hardware/">[comments]</a></span>
+
+## hello, is there a brotherhood of linuxeros?
+ - [https://www.reddit.com/r/linux/comments/1iq0py4/hello_is_there_a_brotherhood_of_linuxeros](https://www.reddit.com/r/linux/comments/1iq0py4/hello_is_there_a_brotherhood_of_linuxeros)
+ - RSS feed: $source
+ - date published: 2025-02-15T12:53:33+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/jode124"> /u/jode124 </a> <br/> <span><a href="/r/classicwow/comments/1iq0oxy/hello_is_there_a_brotherhood_of_linuxeros/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iq0py4/hello_is_there_a_brotherhood_of_linuxeros/">[comments]</a></span>
+
+## Karol Herbst steps down as Nouveau maintainer due to “thin blue line comment”
+ - [https://www.reddit.com/r/linux/comments/1iq09g6/karol_herbst_steps_down_as_nouveau_maintainer_due](https://www.reddit.com/r/linux/comments/1iq09g6/karol_herbst_steps_down_as_nouveau_maintainer_due)
+ - RSS feed: $source
+ - date published: 2025-02-15T12:24:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>From <a href="https://lists.freedesktop.org/archives/nouveau/2025-February/046677.html">https://lists.freedesktop.org/archives/nouveau/2025-February/046677.html</a></p> <blockquote> <p>&quot;I was pondering with myself for a while if I should just make it official that I&#39;m not really involved in the kernel community anymore, neither as a reviewer, nor as a maintainer.</p> <p>Most of the time I simply excused myself with &quot;if something urgent comes up, I can chime in and help out&quot;. Lyude and Danilo are doing a wonderful job and I&#39;ve put all my trust into them.</p> <p>However, there is one thing I can&#39;t stand and it&#39;s hurting me the most. I&#39;m convinced, no, my core believe is, that inclusivity and respect, working with others as equals, no power plays involved, is how we should work together within the Free and Open Source community.</p> <p>I can understand maintainers needing to learn, being concerned on technical points. 
+
+## Richard Stallman in Polytechnic University of Turin, Italy
+ - [https://www.reddit.com/r/linux/comments/1ipz4wy/richard_stallman_in_polytechnic_university_of](https://www.reddit.com/r/linux/comments/1ipz4wy/richard_stallman_in_polytechnic_university_of)
+ - RSS feed: $source
+ - date published: 2025-02-15T11:05:38+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ShockleyTransistor"> /u/ShockleyTransistor </a> <br/> <span><a href="https://i.redd.it/b8prae33caje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ipz4wy/richard_stallman_in_polytechnic_university_of/">[comments]</a></span>
+
+## Bro asking for help... Got cooked in the comments
+ - [https://www.reddit.com/r/linux/comments/1ipyx5l/bro_asking_for_help_got_cooked_in_the_comments](https://www.reddit.com/r/linux/comments/1ipyx5l/bro_asking_for_help_got_cooked_in_the_comments)
+ - RSS feed: $source
+ - date published: 2025-02-15T10:50:05+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/elkabyliano"> /u/elkabyliano </a> <br/> <span><a href="/r/windows/comments/1iphk17/windows_11_ruins_dual_boot_again/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ipyx5l/bro_asking_for_help_got_cooked_in_the_comments/">[comments]</a></span>
+
+## Is there a GTK 3 fork?
+ - [https://www.reddit.com/r/linux/comments/1ipyrkr/is_there_a_gtk_3_fork](https://www.reddit.com/r/linux/comments/1ipyrkr/is_there_a_gtk_3_fork)
+ - RSS feed: $source
+ - date published: 2025-02-15T10:38:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>I feel GNOME has been pretty hostile to classic app developers.</p> <ul> <li>They&#39;re way too obsessed with Fedora and Flatpak and bleeding-edge tech. GNOME Software may remove RPM, and the X11 backend is deprecated already. I feel GNOME distros are turning into an Android.</li> <li>You can&#39;t make generic apps anymore, they want you to use a &quot;platform library&quot; - so only GNOME or elementary.</li> <li>No other desktop is migrating to GTK 4.</li> <li>Glade was discontinued.</li> <li>GTK 4 lacks menus and toolbars. Menus were good as they were declarative, how am I now supposed to make a menu, using the crippled popovers?</li> <li>Qt looks uglier and is harder to make a layout for.</li> </ul> <p>Basically, I think their developers think only GNOME and KDE exist and have a &quot;my way or the highway&quot; vision which they call &quot;simple by default&quot; or something but a <em>default</em> doesn&#39;t mean forced.</p> </div><!-- SC_ON
+
+## Linux in any distribution is unobtainable for most people because the first two installation steps are basically impossible.
+ - [https://www.reddit.com/r/linux/comments/1ipyc1o/linux_in_any_distribution_is_unobtainable_for](https://www.reddit.com/r/linux/comments/1ipyc1o/linux_in_any_distribution_is_unobtainable_for)
+ - RSS feed: $source
+ - date published: 2025-02-15T10:05:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>Recently, just before Christmas, I decided to check out Linux again (tried it ~20 years ago) because Windows 11 was about to cause an aneurysm.</p> <p>I was expecting to spend the &quot;weekend&quot; getting everything to work; find hardware drivers, installing various open source software and generally just &#39;hack together something that works&#39;.</p> <p>To my surprise everything worked flawlessly first time booting up. I had WiFi, sound, usb, webcam, memory card reader, correct screen resolution. I even got battery status and management! It even came with a nice litte &#39;app center&#39; making installation of a bunch of software as simple as a click!</p> <p>And I remember thinking any Windows user could <em>easily</em> install Linux and would get comfortable using it in an afternoon.</p> <p>I&#39;m pretty &#39;comfortable&#39; in anything PC and have changed boot orders and created bootable things since the early 90&#39;s and considered that
+
+## Deploying a Linux image in an embedded product during production
+ - [https://www.reddit.com/r/linux/comments/1ipwvj9/deploying_a_linux_image_in_an_embedded_product](https://www.reddit.com/r/linux/comments/1ipwvj9/deploying_a_linux_image_in_an_embedded_product)
+ - RSS feed: $source
+ - date published: 2025-02-15T08:12:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>For context, I am looking at deploying a Linux image on an embedded product that will be produced in the order of thousands a month. I&#39;m looking at options for quick deployment of Linux images. The device in question can be programmed over USB and a command line style execution. This is the first time I&#39;ve had to deal with large volumes of product so I&#39;m looking at automated testing and commissioning. I have some newbie questions/ thoughts I hope you could clear up. </p> <p>1) I hear that getting pre loaded nand memories is a different ball game compared to for microcontrollers as the file system needs to accommodate bad sectors etc. So it can&#39;t be just &quot;stamped&quot;, rather a more intelligent memory copy has to be done. 2) If copying a Linux image into a large memory, is it possible to load the core image and get the OS to expand itself on first run ? 3) is there a proper way to do this that I&#39;m not aware of? 4) can you get
+
+## "Dongly Things" by Douglas Adams (of Hitchhikers Guide) - Adams wrote this article in the early days of Mac computers, about manufacturers making things difficult with a million different proprietary cables/ports etc.
+ - [https://www.reddit.com/r/linux/comments/1ipwjn0/dongly_things_by_douglas_adams_of_hitchhikers](https://www.reddit.com/r/linux/comments/1ipwjn0/dongly_things_by_douglas_adams_of_hitchhikers)
+ - RSS feed: $source
+ - date published: 2025-02-15T07:47:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>Thought this community might enjoy this one. Even back then... Wise beyond his time, I swear. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CaesarSalvage"> /u/CaesarSalvage </a> <br/> <span><a href="https://www.douglasadams.com/dna/980707-03-a.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ipwjn0/dongly_things_by_douglas_adams_of_hitchhikers/">[comments]</a></span>
+
+## This Week in Plasma: Post-Release Polishing
+ - [https://www.reddit.com/r/linux/comments/1ipw73e/this_week_in_plasma_postrelease_polishing](https://www.reddit.com/r/linux/comments/1ipw73e/this_week_in_plasma_postrelease_polishing)
+ - RSS feed: $source
+ - date published: 2025-02-15T07:21:05+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/gabriel_3"> /u/gabriel_3 </a> <br/> <span><a href="https://blogs.kde.org/2025/02/15/this-week-in-plasma-post-release-polishing/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ipw73e/this_week_in_plasma_postrelease_polishing/">[comments]</a></span>
+
+## Installing Linux mint.
+ - [https://www.reddit.com/r/linux/comments/1iptx3j/installing_linux_mint](https://www.reddit.com/r/linux/comments/1iptx3j/installing_linux_mint)
+ - RSS feed: $source
+ - date published: 2025-02-15T04:46:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>5hour attempt of installing Linux mint.</p> <p>Installing Linux mint.</p> <p>Hi PLEASE can I have some help - I&#39;m 5 hours in here!</p> <p>as the title says I&#39;m trying to install Linux mint, as a dual boot with windows 10.</p> <p>I had a fresh install of windows 10 - I made a partition for windows and left a chunk for mint.</p> <p>By default windows gave me C drive, a small health partition and a small backup partition... All 3 partitions had a blue header.</p> <p>My left over unallocated space had a black header and this is where I wanted mint. The unallocated space for mint is ~100gb.</p> <p>I then made a USB boot device as instructed from Linux mint website, using balenaEtcher. I then changed the boot device from my m2, to the USB boot device.</p> <p>I managed to get to live version of mint. I then got to the installer steps. I didn&#39;t install codecs nor connect to a internet connection - I just wanted to get it installed first!</p> <p>W
+
+## what was the Linux expirance like in the 90's and 00's?
+ - [https://www.reddit.com/r/linux/comments/1ipql9k/what_was_the_linux_expirance_like_in_the_90s_and](https://www.reddit.com/r/linux/comments/1ipql9k/what_was_the_linux_expirance_like_in_the_90s_and)
+ - RSS feed: $source
+ - date published: 2025-02-15T01:35:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I started using Linux about 2 years ago really right at the beginning of the proton revolution. And I know that Gaming in specif was the biggest walls for mass adaption of Linux throughout the 2010&#39;s and late 2000&#39;s but Ive heard things about how most software ran through WINE until Direct x and other API&#39;s became more common. but gaming aside what was the expirance and community like at the time?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mrcrabs6464"> /u/mrcrabs6464 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1ipql9k/what_was_the_linux_expirance_like_in_the_90s_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ipql9k/what_was_the_linux_expirance_like_in_the_90s_and/">[comments]</a></span>
+

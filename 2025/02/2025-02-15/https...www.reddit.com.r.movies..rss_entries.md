@@ -1,0 +1,198 @@
+# Source:Movie News and Discussion, URL:https://www.reddit.com/r/movies/.rss, language:en
+
+## Just enjoyed 'Flow' on Max
+ - [https://www.reddit.com/r/movies/comments/1iqe91k/just_enjoyed_flow_on_max](https://www.reddit.com/r/movies/comments/1iqe91k/just_enjoyed_flow_on_max)
+ - RSS feed: $source
+ - date published: 2025-02-15T23:13:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>It&#39;s a Saturday, I was eating lunch and I turned on Max for no good reason. I didn&#39;t want to mess around with finding something so I saw &#39;Flow&#39; was an Oscar nominee and thought I would give it a try.</p> <p>It&#39;s animated, it&#39;s gorgeous early on, particularly how it depicted the depth of water while also giving reflections on the water. It had a cute cat and some fun dogs so I thought I would give it 20 minutes while I ate.</p> <p>I didn&#39;t stop watching until a lot of the credits were rolling. No dialog aside from barks, meows and various animal noises.</p> <p>I found it to be beautiful and really enjoyed it. </p> <p>Has anybody else seen it? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sexmormon-throwaway"> /u/sexmormon-throwaway </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iqe91k/just_enjoyed_flow_on_max/">[link]</a></span> &#32; <span><a href="https://www.
+
+## What’s the worst translated title in your language?
+ - [https://www.reddit.com/r/movies/comments/1iqdnd7/whats_the_worst_translated_title_in_your_language](https://www.reddit.com/r/movies/comments/1iqdnd7/whats_the_worst_translated_title_in_your_language)
+ - RSS feed: $source
+ - date published: 2025-02-15T22:46:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just out of curiosity, I want to see if other languages also make funny/non-sensical translations of movie titles.</p> <p>In Finnish we have quite a few terrible ones, but I think this one takes the cake.</p> <p>Shawshank Redemption in Finnish is: Rita Hayworth - Avain pakoon</p> <p>Which translates to ”Rita Hayworth - They key to escape”</p> <p>Not only is it an absolute garbage title, it also just straight up spoils the movie. Anyone else got any good ones?</p> <p>Also honorable mention that i hate is The Big Bang Theory, which in Finnish is Rillit Huurussa, which means ”fogged up eyeglasses”</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rappeh99"> /u/rappeh99 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iqdnd7/whats_the_worst_translated_title_in_your_language/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iqdnd7/whats_the_worst_translated_title_in_y
+
+## What do you think is the most important thing horror needs to function well on film?
+ - [https://www.reddit.com/r/movies/comments/1iqd4cm/what_do_you_think_is_the_most_important_thing](https://www.reddit.com/r/movies/comments/1iqd4cm/what_do_you_think_is_the_most_important_thing)
+ - RSS feed: $source
+ - date published: 2025-02-15T22:22:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Obviously any movie takes myriad factors to work, but horror in particular I think relies on good acting above everything else. Atmosphere may come second but if the actors don’t seem scared or convincing it is just impossible for me to feel like it lands. All the best horror has great acting, the shining, the thing, audition, get out, rosemary’s baby, silence of the lambs, the exorcist, psycho, the fly, hereditary, etc (please name more of your favorite performances) they all have exceptional acting. Of course horror is known for bad acting, because it’s often amateur but the actors who can pull it off are the shit imo. </p> <p>A slight (and somewhat unpopular, but let me qualify) aside but I actually liked the movie “tusk.” It wasn’t the greatest but there were some effective atmospheres and writing—but Michael parks elevated it into something better. I liked long too he did well but parks gave the movie so much more pathos and intrigue (as he’s wo
+
+## ‘Self Reliance’ Actor Biff Wiff Dies
+ - [https://www.reddit.com/r/movies/comments/1iqce6u/self_reliance_actor_biff_wiff_dies](https://www.reddit.com/r/movies/comments/1iqce6u/self_reliance_actor_biff_wiff_dies)
+ - RSS feed: $source
+ - date published: 2025-02-15T21:49:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iqce6u/self_reliance_actor_biff_wiff_dies/"> <img src="https://external-preview.redd.it/Fi-1BjAHzUUOqkpjy7XipSDWH2GQhsOx0EDgeNL-JOw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=896bba0c38cfb2141a6d657fde6e6061576925cd" alt="‘Self Reliance’ Actor Biff Wiff Dies" title="‘Self Reliance’ Actor Biff Wiff Dies" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://variety.com/2025/tv/people-news/biff-wiff-dead-i-think-you-should-leave-1236309255/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iqce6u/self_reliance_actor_biff_wiff_dies/">[comments]</a></span> </td></tr></table>
+
+## First image from Anders Thomas Jensen’s ‘The Last Viking’ starring Mads Mikkelsen, Nikolaj Lie Kaas
+ - [https://www.reddit.com/r/movies/comments/1iqati1/first_image_from_anders_thomas_jensens_the_last](https://www.reddit.com/r/movies/comments/1iqati1/first_image_from_anders_thomas_jensens_the_last)
+ - RSS feed: $source
+ - date published: 2025-02-15T20:41:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iqati1/first_image_from_anders_thomas_jensens_the_last/"> <img src="https://preview.redd.it/k01tylwq6dje1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=648d37c237950d631ab2c6d1247cd4a931fb5f81" alt="First image from Anders Thomas Jensen’s ‘The Last Viking’ starring Mads Mikkelsen, Nikolaj Lie Kaas" title="First image from Anders Thomas Jensen’s ‘The Last Viking’ starring Mads Mikkelsen, Nikolaj Lie Kaas" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Glad_Poetry_8429"> /u/Glad_Poetry_8429 </a> <br/> <span><a href="https://i.redd.it/k01tylwq6dje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iqati1/first_image_from_anders_thomas_jensens_the_last/">[comments]</a></span> </td></tr></table>
+
+## Name a hit song that has been hijacked by a movie
+ - [https://www.reddit.com/r/movies/comments/1iq9wvo/name_a_hit_song_that_has_been_hijacked_by_a_movie](https://www.reddit.com/r/movies/comments/1iq9wvo/name_a_hit_song_that_has_been_hijacked_by_a_movie)
+ - RSS feed: $source
+ - date published: 2025-02-15T20:02:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>For example, I can&#39;t think of Sister Sledge&#39;s &quot;We Are Family&quot; without thinking about Gene Hackman dancing out of the nightclub in drag at the end of &quot;The Birdcage&quot;. I smile every time I hear it. The song came out 17 years before the movie, but now they&#39;re inseparable. So what song was a hit before a movie came out that is now linked forever in your mind with the film?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dbroo55"> /u/dbroo55 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iq9wvo/name_a_hit_song_that_has_been_hijacked_by_a_movie/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iq9wvo/name_a_hit_song_that_has_been_hijacked_by_a_movie/">[comments]</a></span>
+
+## 'Hundreds of Beavers' Sets 35MM Screenings
+ - [https://www.reddit.com/r/movies/comments/1iq9ee9/hundreds_of_beavers_sets_35mm_screenings](https://www.reddit.com/r/movies/comments/1iq9ee9/hundreds_of_beavers_sets_35mm_screenings)
+ - RSS feed: $source
+ - date published: 2025-02-15T19:39:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iq9ee9/hundreds_of_beavers_sets_35mm_screenings/"> <img src="https://external-preview.redd.it/rNgZZ3hfX0Du3Dq8GrneINauYbmSpNdMx8fbneqQSRg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c776ab40f2df25dd80c0519b766809fa9620f2de" alt="'Hundreds of Beavers' Sets 35MM Screenings" title="'Hundreds of Beavers' Sets 35MM Screenings" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/indiewire"> /u/indiewire </a> <br/> <span><a href="https://www.indiewire.com/features/craft/hundreds-of-beavers-35mm-screenings-interview-1235095302/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iq9ee9/hundreds_of_beavers_sets_35mm_screenings/">[comments]</a></span> </td></tr></table>
+
+## Alamo Drafthouse Staffers in Colorado and New York Strike Over Unjust Layoffs, Sony’s Corporate Betrayal
+ - [https://www.reddit.com/r/movies/comments/1iq7z64/alamo_drafthouse_staffers_in_colorado_and_new](https://www.reddit.com/r/movies/comments/1iq7z64/alamo_drafthouse_staffers_in_colorado_and_new)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:37:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iq7z64/alamo_drafthouse_staffers_in_colorado_and_new/"> <img src="https://external-preview.redd.it/-ojXlfVQjTdMTNaOC-wshRIAGwchEMCMf-2AOxrANeg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=184bf69bc4a2d9852e9806dcc1149c589f698f3d" alt="Alamo Drafthouse Staffers in Colorado and New York Strike Over Unjust Layoffs, Sony’s Corporate Betrayal" title="Alamo Drafthouse Staffers in Colorado and New York Strike Over Unjust Layoffs, Sony’s Corporate Betrayal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://www.thewrap.com/alamo-drafthouse-colorado-strike/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iq7z64/alamo_drafthouse_staffers_in_colorado_and_new/">[comments]</a></span> </td></tr></table>
+
+## Bong Joon-ho's 'Mickey 17' Review Thread
+ - [https://www.reddit.com/r/movies/comments/1iq74ir/bong_joonhos_mickey_17_review_thread](https://www.reddit.com/r/movies/comments/1iq74ir/bong_joonhos_mickey_17_review_thread)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:00:31+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>Mickey 17</strong></p> <ul> <li><p><a href="https://www.rottentomatoes.com/m/mickey_17">Rotten Tomatoes</a> 76% (17 Reviews)</p></li> <li><p><a href="https://www.metacritic.com/movie/mickey-17/">Metacritic</a>: % ( Reviews)</p></li> </ul> <p><strong>Reviews</strong></p> <p><a href="https://www.hollywoodreporter.com/movies/movie-reviews/mickey-17-review-robert-pattinson-bong-joon-ho-1236135592/">The Hollywood Reporter</a>:</p> <blockquote> <p>While a game-for-anything dual-role performance from Robert Pattinson keeps the English-language feature entertaining enough, the satirical thrust feels heavy-handed.</p> </blockquote> <p><a href="https://deadline.com/2025/02/mickey-17-review-robert-pattinson-x-2-bong-joon-ho-hilarious-humane-satire-berlin-film-festival-1236290550/">Deadline</a>:</p> <blockquote> <p>For those who can identify with standing in line just to stop the world and get off, this is the movie for you, a death defying and dizzying 
+
+## The Breakfast Club at 40: the teen movie blueprint for better or worse
+ - [https://www.reddit.com/r/movies/comments/1iq6qti/the_breakfast_club_at_40_the_teen_movie_blueprint](https://www.reddit.com/r/movies/comments/1iq6qti/the_breakfast_club_at_40_the_teen_movie_blueprint)
+ - RSS feed: $source
+ - date published: 2025-02-15T17:43:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iq6qti/the_breakfast_club_at_40_the_teen_movie_blueprint/"> <img src="https://external-preview.redd.it/dxkpsoCgZv7Dfjt7nPdmAzTfaMOxkVCs4kWipppK3TQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=031068a505f8a8aafd771468faa5e450cf5359e5" alt="The Breakfast Club at 40: the teen movie blueprint for better or worse" title="The Breakfast Club at 40: the teen movie blueprint for better or worse" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JannTosh50"> /u/JannTosh50 </a> <br/> <span><a href="https://www.theguardian.com/film/2025/feb/15/the-breakfast-club-at-40-the-teen-movie-blueprint-for-better-or-worse">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iq6qti/the_breakfast_club_at_40_the_teen_movie_blueprint/">[comments]</a></span> </td></tr></table>
+
+## What movies or directors did you dislike when you were younger but you have done a 180 on since revisiting?
+ - [https://www.reddit.com/r/movies/comments/1iq5nj1/what_movies_or_directors_did_you_dislike_when_you](https://www.reddit.com/r/movies/comments/1iq5nj1/what_movies_or_directors_did_you_dislike_when_you)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:55:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>For me it’s Wes Anderson. When I was 20 I thought he was pretentious, vapid, and sniffing his own farts. </p> <p>Then I finally decided to give grand Budapest a chance many years later (I’m now 40), and i just think he’s a genius with his own vision. Truly beautiful stuff and there’s a lot of heart in his movies. I just didn’t see it when I was younger. </p> <p>It’s just interesting how not all movies are for all people at all times. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Salty_Discipline111"> /u/Salty_Discipline111 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iq5nj1/what_movies_or_directors_did_you_dislike_when_you/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iq5nj1/what_movies_or_directors_did_you_dislike_when_you/">[comments]</a></span>
+
+## 300 has the most unnecessarily insane bullshit, even in the background, and that’s what makes it so enjoyable
+ - [https://www.reddit.com/r/movies/comments/1iq5ktj/300_has_the_most_unnecessarily_insane_bullshit](https://www.reddit.com/r/movies/comments/1iq5ktj/300_has_the_most_unnecessarily_insane_bullshit)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:52:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was rewatching one of the fight scenes, and I couldn’t help but notice that the Persians have a random cloaked man with Wolverine claws leaping on people, and it’s never addressed. He’s barely in the background and easy to miss. Similarly, there’s a bunch of dudes with white leathery skin and feathers near the rhino, that disappear before it can even be questioned</p> <p>I love all the random shit in this movie, it just throws so much craziness at you tjat you kind of have to accept the fact that the Persians have an Army of Elephants, crab clawed men, “wizards”, and random beast men that growl instead of yell</p> <p>I think it adds to the idea that it’s the Spartans telling the story and exaggerating all the details to eachother to make it more crazy.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Odd_Advance_6438"> /u/Odd_Advance_6438 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iq5kt
+
+## Good movies about art/skill/expertise. Most legit? Least?
+ - [https://www.reddit.com/r/movies/comments/1iq5fmg/good_movies_about_artskillexpertise_most_legit](https://www.reddit.com/r/movies/comments/1iq5fmg/good_movies_about_artskillexpertise_most_legit)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:45:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>There are so many movies that portray art, sports, professions, or skills that seem so well done to the lay person but the real experts might disagree. Which movies truly nail it and which movies seem great but are actually pretty bad? I&#39;m thinking of movies like Challengers, Whiplash, or Tar. Any Michael Mann movie, basically. Any movie that seems to pull off the &quot;people good at their job&quot; thing. Not really thinking of movies where everyone can tell it&#39;s not great.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/basefibber"> /u/basefibber </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iq5fmg/good_movies_about_artskillexpertise_most_legit/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iq5fmg/good_movies_about_artskillexpertise_most_legit/">[comments]</a></span>
+
+## Mr Burton Trailer (2025) | In Cinemas 4th April | Toby Jones, Harry Lawtey, Lesley Manville
+ - [https://www.reddit.com/r/movies/comments/1iq5d6v/mr_burton_trailer_2025_in_cinemas_4th_april_toby](https://www.reddit.com/r/movies/comments/1iq5d6v/mr_burton_trailer_2025_in_cinemas_4th_april_toby)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:42:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iq5d6v/mr_burton_trailer_2025_in_cinemas_4th_april_toby/"> <img src="https://external-preview.redd.it/Fc68YaR8Vl04uoghWiIgZ2xHcUIcS5imbACi3D11cqQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=476787aa58ab6d4f3c38c1377a6dc9089e8b80bd" alt="Mr Burton Trailer (2025) | In Cinemas 4th April | Toby Jones, Harry Lawtey, Lesley Manville" title="Mr Burton Trailer (2025) | In Cinemas 4th April | Toby Jones, Harry Lawtey, Lesley Manville" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mrjohnnymac18"> /u/mrjohnnymac18 </a> <br/> <span><a href="https://youtu.be/h6Trx84-gy4?si=xdahugl-F7VhxCXV">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iq5d6v/mr_burton_trailer_2025_in_cinemas_4th_april_toby/">[comments]</a></span> </td></tr></table>
+
+## New images from 'The Luckiest Man in America' - Starring Paul Walter Hauser, Walton Goggins, Johnny Knoxville, Haley Bennett, David Strathairn and Maisie Williams
+ - [https://www.reddit.com/r/movies/comments/1iq4vyv/new_images_from_the_luckiest_man_in_america](https://www.reddit.com/r/movies/comments/1iq4vyv/new_images_from_the_luckiest_man_in_america)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:20:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iq4vyv/new_images_from_the_luckiest_man_in_america/"> <img src="https://preview.redd.it/sq9fms62wbje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f82a47319a7aaa9d293e64e083ba452845c5d8e0" alt="New images from 'The Luckiest Man in America' - Starring Paul Walter Hauser, Walton Goggins, Johnny Knoxville, Haley Bennett, David Strathairn and Maisie Williams" title="New images from 'The Luckiest Man in America' - Starring Paul Walter Hauser, Walton Goggins, Johnny Knoxville, Haley Bennett, David Strathairn and Maisie Williams" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JonasKahnwald11"> /u/JonasKahnwald11 </a> <br/> <span><a href="https://i.redd.it/sq9fms62wbje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iq4vyv/new_images_from_the_luckiest_man_in_america/">[comments]</a></span> </td></tr></table>
+
+## First Image of John Cena from “Match Box” - The project is described as an action-packed, globetrotting adventure and centers on a group of childhood friends who must work together to stop an impending worldwide disaster and rediscover their friendship along the way.
+ - [https://www.reddit.com/r/movies/comments/1iq3sv2/first_image_of_john_cena_from_match_box_the](https://www.reddit.com/r/movies/comments/1iq3sv2/first_image_of_john_cena_from_match_box_the)
+ - RSS feed: $source
+ - date published: 2025-02-15T15:31:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iq3sv2/first_image_of_john_cena_from_match_box_the/"> <img src="https://preview.redd.it/fs6cnk4hnbje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71e587eb8787a0c11eca79c6e735c57d5172293f" alt="First Image of John Cena from “Match Box” - The project is described as an action-packed, globetrotting adventure and centers on a group of childhood friends who must work together to stop an impending worldwide disaster and rediscover their friendship along the way." title="First Image of John Cena from “Match Box” - The project is described as an action-packed, globetrotting adventure and centers on a group of childhood friends who must work together to stop an impending worldwide disaster and rediscover their friendship along the way." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lawrencedun2002"> /u/lawrencedun2002 </a> <br/> <span><a href="https://i.redd.it/fs6cnk4hnbje1.jpeg">[link
+
+## Great performance by Christian Bale in Hostiles (2017), what do you think?
+ - [https://www.reddit.com/r/movies/comments/1iq3lnx/great_performance_by_christian_bale_in_hostiles](https://www.reddit.com/r/movies/comments/1iq3lnx/great_performance_by_christian_bale_in_hostiles)
+ - RSS feed: $source
+ - date published: 2025-02-15T15:21:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iq3lnx/great_performance_by_christian_bale_in_hostiles/"> <img src="https://external-preview.redd.it/iDMTRzE4ro3Zd9lUCTzOz17zyYteoOw1m9qkwy97wuc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d251c0f096c0e17163dfc1779550ac2dbd43abaa" alt="Great performance by Christian Bale in Hostiles (2017), what do you think?" title="Great performance by Christian Bale in Hostiles (2017), what do you think?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DarkXezz"> /u/DarkXezz </a> <br/> <span><a href="https://www.youtube.com/watch?v=tq09YjjuNEU">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iq3lnx/great_performance_by_christian_bale_in_hostiles/">[comments]</a></span> </td></tr></table>
+
+## A movie I have been searching
+ - [https://www.reddit.com/r/movies/comments/1iq0l3x/a_movie_i_have_been_searching](https://www.reddit.com/r/movies/comments/1iq0l3x/a_movie_i_have_been_searching)
+ - RSS feed: $source
+ - date published: 2025-02-15T12:45:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have seen this movie a long time ago. A man in a space mission, slowly discovers his wife in the spaceship is not acting like his wife, the climax was it was an alien and the ship was dead and was staranded in one part of the galaxy filled with these aliens who force humans to relive their past , so the protagonist goes back to sleep for a new cycle of same memories of his wife again </p> <p>Can anyone say the name please ?it&#39;s not a new movie</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SignificanceBudget65"> /u/SignificanceBudget65 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iq0l3x/a_movie_i_have_been_searching/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iq0l3x/a_movie_i_have_been_searching/">[comments]</a></span>
+
+## Have you been to a drive-in movie?
+ - [https://www.reddit.com/r/movies/comments/1ipzo2r/have_you_been_to_a_drivein_movie](https://www.reddit.com/r/movies/comments/1ipzo2r/have_you_been_to_a_drivein_movie)
+ - RSS feed: $source
+ - date published: 2025-02-15T11:44:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>I grew up down the street from two drive in theaters, and I always took for granted how lucky I was, until I got to college and so few people have made their way or had access to a drive in. It really is amazing, even in my thirties I make it a point to go once a year. I remember seeing Jurassic Park there when k was like 7 and it felt so cool to be outdoors watching such an outdoor movie. What have you seen at the drive-in and was it elevated just by virtue of being a drive-in movie? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CWKitch"> /u/CWKitch </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1ipzo2r/have_you_been_to_a_drivein_movie/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ipzo2r/have_you_been_to_a_drivein_movie/">[comments]</a></span>
+
+## In the Loop
+ - [https://www.reddit.com/r/movies/comments/1ipznud/in_the_loop](https://www.reddit.com/r/movies/comments/1ipznud/in_the_loop)
+ - RSS feed: $source
+ - date published: 2025-02-15T11:44:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was watching this movie last night as it is one of my favorites. Canadian here and just a great damn movie. Every single line is valuable and worth the seconds it is allowed in screen time.</p> <p>My partner had not seen it before and we watched it tonight. Hooked.</p> <p>Having worked in the public sector I’ve always been curious to hear if this is an accurate portrayal. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RyanParkers"> /u/RyanParkers </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1ipznud/in_the_loop/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ipznud/in_the_loop/">[comments]</a></span>
+
+## What's the one movie that made you go: what the hell did I just watch?!
+ - [https://www.reddit.com/r/movies/comments/1ipzl23/whats_the_one_movie_that_made_you_go_what_the](https://www.reddit.com/r/movies/comments/1ipzl23/whats_the_one_movie_that_made_you_go_what_the)
+ - RSS feed: $source
+ - date published: 2025-02-15T11:38:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>Last night, I was trying to remember a film that I had watched when I was young that I know was weird, but couldn&#39;t remember the title. Took me a while to find it, but eventually found the title and watched it on YT. It wasn&#39;t like I remember at all. It was totally messed up, with weird visuals and a &quot;plot&quot; that was plain crazy. When it was over, I simply stared at the screen and said: what the hell did I just watch! Film was The Big Bang (1987). What&#39;s your WTF movie? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zerocool4406"> /u/zerocool4406 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1ipzl23/whats_the_one_movie_that_made_you_go_what_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ipzl23/whats_the_one_movie_that_made_you_go_what_the/">[comments]</a></span>
+
+## What movie do you think is better than the book?
+ - [https://www.reddit.com/r/movies/comments/1ipz5lb/what_movie_do_you_think_is_better_than_the_book](https://www.reddit.com/r/movies/comments/1ipz5lb/what_movie_do_you_think_is_better_than_the_book)
+ - RSS feed: $source
+ - date published: 2025-02-15T11:07:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was just rewatching gone girl and was reminded of my experience reading the book versus watching the Fincher masterpiece. The book was readable and entertaining but imo didn’t hold a candle to the film. Rosamund pike’s performance turned Amy into an anti hero (or not based on your definition) and completely devoured every scene she was in. The book spent so much time with Nick who was essentially a stock character and Ben Affleck played it perfectly while giving plenty of room for the actual substance of the story. I think film was a better medium for the nuance of emotions and picked up the slack where the book lagged.</p> <p>So my question for Reddit is what film did you think was better than the book and why? Was it a particular performance? Or did the medium suit the narrative better? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AmITheAxolotl"> /u/AmITheAxolotl </a> <br/> <span><a href="https://www.red
+
+## Terminator 3: A mediocre movie with an unexpectedly great ending
+ - [https://www.reddit.com/r/movies/comments/1ipyams/terminator_3_a_mediocre_movie_with_an](https://www.reddit.com/r/movies/comments/1ipyams/terminator_3_a_mediocre_movie_with_an)
+ - RSS feed: $source
+ - date published: 2025-02-15T10:02:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>Been watching all the terminator movies recently, and t3 is not what I would call a strong entry. It&#39;s a very safe and corporate version of T2, that is until the very last 5 minutes. Judgement day happens as it&#39;s revealed that skynet has become an omnipresent piece of software incapable of being simply turned off. The characters pretty much lose everything except their lives, though there is the promise of eventual victory based on this alone. It&#39;s such a tragic yet hopeful ending, shot well, scored well, even the monologue from the film&#39;s lackluster John Connor is pretty decent. It&#39;s sad that the franchise really never got better than these 5 minutes in over 20 years and 3 movies (I like salvation but man is it kind of a fucking dumb movie lol).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/N0r3m0rse"> /u/N0r3m0rse </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1ipyams/
+
+## What is your example of a dumb and mindless popcorn flick that actually has themes with deeper meaning?
+ - [https://www.reddit.com/r/movies/comments/1ipwj3u/what_is_your_example_of_a_dumb_and_mindless](https://www.reddit.com/r/movies/comments/1ipwj3u/what_is_your_example_of_a_dumb_and_mindless)
+ - RSS feed: $source
+ - date published: 2025-02-15T07:46:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Recently, I rewatched the movie Pacific Rim which is one of my favourite movies whenever I need to just escape reality for a bit (nothing beats seeing big robots fighting with large monsters for me). However, someone pointed out to me that the movie serves as a form of social commentary. From the governments reflecting poor leadership in building up useless walls to the black market sellers taking advantage in selling Kaiju parts.</p> <p>What is your example of such a flick?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Surround-1858"> /u/Ok-Surround-1858 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1ipwj3u/what_is_your_example_of_a_dumb_and_mindless/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ipwj3u/what_is_your_example_of_a_dumb_and_mindless/">[comments]</a></span>
+
+## ‘Back in Action’ Leads Big Week for Netflix on Nielsen Charts With 4 Shows Surpassing 1 Billion Minutes
+ - [https://www.reddit.com/r/movies/comments/1ipt3zk/back_in_action_leads_big_week_for_netflix_on](https://www.reddit.com/r/movies/comments/1ipt3zk/back_in_action_leads_big_week_for_netflix_on)
+ - RSS feed: $source
+ - date published: 2025-02-15T03:58:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1ipt3zk/back_in_action_leads_big_week_for_netflix_on/"> <img src="https://external-preview.redd.it/vzyM8eUb7dwCknIKjfoQ1NCpwI55i104UDyt5lPVYA4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e52e18cca70a88812fe5cd1eb068c04a923ef7e7" alt="‘Back in Action’ Leads Big Week for Netflix on Nielsen Charts With 4 Shows Surpassing 1 Billion Minutes" title="‘Back in Action’ Leads Big Week for Netflix on Nielsen Charts With 4 Shows Surpassing 1 Billion Minutes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Puzzled-Tap8042"> /u/Puzzled-Tap8042 </a> <br/> <span><a href="https://www.thewrap.com/back-in-action-netflix-viewership-nielsen/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ipt3zk/back_in_action_leads_big_week_for_netflix_on/">[comments]</a></span> </td></tr></table>
+
+## Trumpet Solo in La La Land’s Epilogue
+ - [https://www.reddit.com/r/movies/comments/1ipt1np/trumpet_solo_in_la_la_lands_epilogue](https://www.reddit.com/r/movies/comments/1ipt1np/trumpet_solo_in_la_la_lands_epilogue)
+ - RSS feed: $source
+ - date published: 2025-02-15T03:54:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Every time I watch lala land I’m just blown away by the final 10 minutes. The movie truly is a modern classic, and I pick up on new things each time.</p> <p>This time what really stuck out to me was the trumpet solo in the epilogue. Earlier in the film, Sebastian takes Mia to a jazz club and explains the improv to her, and points out how the trumpet highjacks the song with their solo.</p> <p>In the epilogue the trumpet solo comes out of nowhere during a series of crazy visuals, and I think it’s a direct call back, with the trumpet “highjacking” the films epilogue (solo).</p> <p>It’s just rare to have a movie that’s this meticulous and thought out. Every frame is perfection</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Naldo9911"> /u/Naldo9911 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1ipt1np/trumpet_solo_in_la_la_lands_epilogue/">[link]</a></span> &#32; <span><a href="https://www.reddi
+
+## 2 "Seconhand Lions" tidbits.
+ - [https://www.reddit.com/r/movies/comments/1ipq4xc/2_seconhand_lions_tidbits](https://www.reddit.com/r/movies/comments/1ipq4xc/2_seconhand_lions_tidbits)
+ - RSS feed: $source
+ - date published: 2025-02-15T01:10:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>In the film, both of the old uncles live to their 90&#39;s. Interestingly though, despite the fact that the film came out in 2003, both actors Michael Caine and Robert Duvall are both alive, being 91 and 94 respectively. Additionally in the beginning of the film, while going down their driveway, there is all of the signs saying &quot;turn back&quot; and other warning signs however, when Walter, the little boy, is leaving the house all sad, it shows the same sign saying turn back, except in this context it means turn back, TOWARDS the house to the uncles. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Chucheyface"> /u/Chucheyface </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1ipq4xc/2_seconhand_lions_tidbits/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ipq4xc/2_seconhand_lions_tidbits/">[comments]</a></span>
+
+## First Poster for Documentary 'Cheech & Chong's Last Movie' - Exploring their 5-decade career performing stand-up, making records, and starring in hit films. It covers their lives, comedy partnership, and lasting influence on pop culture.
+ - [https://www.reddit.com/r/movies/comments/1ipp6m4/first_poster_for_documentary_cheech_chongs_last](https://www.reddit.com/r/movies/comments/1ipp6m4/first_poster_for_documentary_cheech_chongs_last)
+ - RSS feed: $source
+ - date published: 2025-02-15T00:21:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1ipp6m4/first_poster_for_documentary_cheech_chongs_last/"> <img src="https://preview.redd.it/qdfw5mix47je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6568e6ffa0c78acdbf3af40405727af983b12996" alt="First Poster for Documentary 'Cheech &amp; Chong's Last Movie' - Exploring their 5-decade career performing stand-up, making records, and starring in hit films. It covers their lives, comedy partnership, and lasting influence on pop culture." title="First Poster for Documentary 'Cheech &amp; Chong's Last Movie' - Exploring their 5-decade career performing stand-up, making records, and starring in hit films. It covers their lives, comedy partnership, and lasting influence on pop culture." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BunyipPouch"> /u/BunyipPouch </a> <br/> <span><a href="https://i.redd.it/qdfw5mix47je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com
+

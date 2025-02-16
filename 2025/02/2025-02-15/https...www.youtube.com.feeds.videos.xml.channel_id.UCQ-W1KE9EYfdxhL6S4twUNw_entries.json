@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Cherno",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-15T10:30:16+00:00",
+        "description": "Start fresh any day of the year with my paid partner BetterHelp. Click\nhttps://betterhelp.com/cherno for a discount on your first month of therapy.\n\nPatreon \u25ba https://patreon.com/thecherno\nInstagram \u25ba https://instagram.com/thecherno\nTwitter \u25ba https://twitter.com/thecherno\nDiscord \u25ba https://discord.gg/thecherno\n\nCode Review series playlist \u25ba https://www.youtube.com/playlist?list=PLlrATfBNZ98f6Z1cDNeMLL3eXaRk1WCxK\n\n\ud83d\udd17 Referenced Code Review videos (in order of appearance)\nLEARNING C++ with Java/C#/Python Experience // Code Review \u25ba https://youtu.be/gkEHofFbYyU\nRAY TRACING! // Code Review \u25ba https://youtu.be/sb1FtMYAcYQ?si=Za3GCbhaT59jVZeT\nRETRO VOXEL ENGINE! // Code Review \u25ba https://youtu.be/7A3YmJH4iyk\nIs C BETTER than C++ for beginners? // Code Review \u25ba https://youtu.be/DOAPUPDX1Kk\nWhy Didn't He Get the Job? Let's Find Out! // Code Review \u25ba https://youtu.be/9omMalqPiZM\nCHESS! // Code Review \u25ba https://youtu.be/WKs685H6uOQ\nTERMINAL GAME ENGINE! // Code Review \u25ba https://youtu.be/B6pM9KcIF",
+        "id": 2120245,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=bBFWtnqQnQU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 419,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQ-W1KE9EYfdxhL6S4twUNw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bBFWtnqQnQU/hqdefault.jpg",
+        "title": "5 MOST COMMON MISTAKES in my Code Review series",
+        "vote": 0
+    }
+]

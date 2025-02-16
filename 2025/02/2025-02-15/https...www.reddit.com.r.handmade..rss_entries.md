@@ -1,0 +1,135 @@
+# Source:Handmade - Arts & Crafts Made by Hand, URL:https://www.reddit.com/r/handmade/.rss, language:
+
+## So I made a miniature bear trap! (:
+ - [https://www.reddit.com/r/handmade/comments/1iqcppy/so_i_made_a_miniature_bear_trap](https://www.reddit.com/r/handmade/comments/1iqcppy/so_i_made_a_miniature_bear_trap)
+ - RSS feed: $source
+ - date published: 2025-02-15T22:03:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1iqcppy/so_i_made_a_miniature_bear_trap/"> <img src="https://external-preview.redd.it/cWo3eGY3MWpsZGplMRc2mh8axGjoCfWbjubePEU3Y5gPVlDe8HqVaz3sD0DI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=87ee8fad1b2d0fe5b4e4ba7f48e7ce8214ff3716" alt="So I made a miniature bear trap! (:" title="So I made a miniature bear trap! (:" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/L3TH4L1NDU5TRY"> /u/L3TH4L1NDU5TRY </a> <br/> <span><a href="https://v.redd.it/tpsko24jldje1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1iqcppy/so_i_made_a_miniature_bear_trap/">[comments]</a></span> </td></tr></table>
+
+## Recent pen and ink venue illustration
+ - [https://www.reddit.com/r/handmade/comments/1iqbg7u/recent_pen_and_ink_venue_illustration](https://www.reddit.com/r/handmade/comments/1iqbg7u/recent_pen_and_ink_venue_illustration)
+ - RSS feed: $source
+ - date published: 2025-02-15T21:08:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1iqbg7u/recent_pen_and_ink_venue_illustration/"> <img src="https://preview.redd.it/48xj20kkbdje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d8242dd62fb34d7fc9411fe4781208157ac95d34" alt="Recent pen and ink venue illustration" title="Recent pen and ink venue illustration" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/taucf"> /u/taucf </a> <br/> <span><a href="https://i.redd.it/48xj20kkbdje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1iqbg7u/recent_pen_and_ink_venue_illustration/">[comments]</a></span> </td></tr></table>
+
+## handgemachte Halskette
+ - [https://www.reddit.com/r/handmade/comments/1iqar3w/handgemachte_halskette](https://www.reddit.com/r/handmade/comments/1iqar3w/handgemachte_halskette)
+ - RSS feed: $source
+ - date published: 2025-02-15T20:38:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1iqar3w/handgemachte_halskette/"> <img src="https://preview.redd.it/mds990u96dje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f502307a4452d8f2ebc9deecbb0a5cbd69dcec0a" alt="handgemachte Halskette" title="handgemachte Halskette" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Danakkkkk"> /u/Danakkkkk </a> <br/> <span><a href="https://i.redd.it/mds990u96dje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1iqar3w/handgemachte_halskette/">[comments]</a></span> </td></tr></table>
+
+## A Marshmallow who dreams of being a dinosaur & some new worry stones I made
+ - [https://www.reddit.com/r/handmade/comments/1iqaqes/a_marshmallow_who_dreams_of_being_a_dinosaur_some](https://www.reddit.com/r/handmade/comments/1iqaqes/a_marshmallow_who_dreams_of_being_a_dinosaur_some)
+ - RSS feed: $source
+ - date published: 2025-02-15T20:37:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1iqaqes/a_marshmallow_who_dreams_of_being_a_dinosaur_some/"> <img src="https://b.thumbs.redditmedia.com/UZMGmM824RUu4xnI3lQNxtgcaKcrWjeYb61rcY0gryM.jpg" alt="A Marshmallow who dreams of being a dinosaur &amp; some new worry stones I made" title="A Marshmallow who dreams of being a dinosaur &amp; some new worry stones I made" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CoralJean13"> /u/CoralJean13 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iqaqes">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1iqaqes/a_marshmallow_who_dreams_of_being_a_dinosaur_some/">[comments]</a></span> </td></tr></table>
+
+## “Gliding over gold”. My finished spotted ray linocut!
+ - [https://www.reddit.com/r/handmade/comments/1iq9ggn/gliding_over_gold_my_finished_spotted_ray_linocut](https://www.reddit.com/r/handmade/comments/1iq9ggn/gliding_over_gold_my_finished_spotted_ray_linocut)
+ - RSS feed: $source
+ - date published: 2025-02-15T19:42:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1iq9ggn/gliding_over_gold_my_finished_spotted_ray_linocut/"> <img src="https://external-preview.redd.it/aW5wZnY0cDZ3Y2plMVJ8ieT_mi0qN1BrK3dY-1i5QVmAgz6eQHdnnJBIZG6o.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bed146af5277e0a536b356a98b820770b1000d2e" alt="“Gliding over gold”. My finished spotted ray linocut!" title="“Gliding over gold”. My finished spotted ray linocut!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thewildprintstudio"> /u/thewildprintstudio </a> <br/> <span><a href="https://v.redd.it/ss34gqz7wcje1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1iq9ggn/gliding_over_gold_my_finished_spotted_ray_linocut/">[comments]</a></span> </td></tr></table>
+
+## "Monday!" Acrylic painting 100x100
+ - [https://www.reddit.com/r/handmade/comments/1iq75jn/monday_acrylic_painting_100x100](https://www.reddit.com/r/handmade/comments/1iq75jn/monday_acrylic_painting_100x100)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:01:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1iq75jn/monday_acrylic_painting_100x100/"> <img src="https://preview.redd.it/e180zlvaecje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f6b3d4c12c2ad460effd68f77f09c8ca64c88d3e" alt="&quot;Monday!&quot; Acrylic painting 100x100" title="&quot;Monday!&quot; Acrylic painting 100x100" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hrabina_de_La_Sol"> /u/Hrabina_de_La_Sol </a> <br/> <span><a href="https://i.redd.it/e180zlvaecje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1iq75jn/monday_acrylic_painting_100x100/">[comments]</a></span> </td></tr></table>
+
+## Finished the tiny clouds on this Flying Pikachu and I’m so happy with how the pixelated style is turning out! || (OC hand embroidery by me)
+ - [https://www.reddit.com/r/handmade/comments/1iq745c/finished_the_tiny_clouds_on_this_flying_pikachu](https://www.reddit.com/r/handmade/comments/1iq745c/finished_the_tiny_clouds_on_this_flying_pikachu)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:00:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1iq745c/finished_the_tiny_clouds_on_this_flying_pikachu/"> <img src="https://b.thumbs.redditmedia.com/_VR2OaN-_jGJu9eFVsKIC-LpPufp3wQhpep3OMcYSpI.jpg" alt="Finished the tiny clouds on this Flying Pikachu and I’m so happy with how the pixelated style is turning out! || (OC hand embroidery by me)" title="Finished the tiny clouds on this Flying Pikachu and I’m so happy with how the pixelated style is turning out! || (OC hand embroidery by me)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zeebamdotcom"> /u/zeebamdotcom </a> <br/> <span><a href="https://www.reddit.com/gallery/1iq745c">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1iq745c/finished_the_tiny_clouds_on_this_flying_pikachu/">[comments]</a></span> </td></tr></table>
+
+## Made a heart plush
+ - [https://www.reddit.com/r/handmade/comments/1iq5ias/made_a_heart_plush](https://www.reddit.com/r/handmade/comments/1iq5ias/made_a_heart_plush)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:49:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1iq5ias/made_a_heart_plush/"> <img src="https://preview.redd.it/y9lik4oe1cje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f405ee52409a3569d613392b2872186a909c9e6" alt="Made a heart plush" title="Made a heart plush" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I&#39;m homeless and I wanted to make myself a little gift. It&#39;s been a hard year, and two months beginning to the new year. I&#39;m still struggling to save money and get stable housing by my deadline. But look! Heart plush. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/catscandream"> /u/catscandream </a> <br/> <span><a href="https://i.redd.it/y9lik4oe1cje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1iq5ias/made_a_heart_plush/">[comments]</a></span> </td></tr></table>
+
+## My most recent creation! Sterling silver, freshwater pearls and sea glass earrings
+ - [https://www.reddit.com/r/handmade/comments/1iq46bt/my_most_recent_creation_sterling_silver](https://www.reddit.com/r/handmade/comments/1iq46bt/my_most_recent_creation_sterling_silver)
+ - RSS feed: $source
+ - date published: 2025-02-15T15:48:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1iq46bt/my_most_recent_creation_sterling_silver/"> <img src="https://b.thumbs.redditmedia.com/akcMLytbJJypuNpDQ47xDQ33k6LA0x61I070lor7TpI.jpg" alt="My most recent creation! Sterling silver, freshwater pearls and sea glass earrings" title="My most recent creation! Sterling silver, freshwater pearls and sea glass earrings" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Trashy_Treasures"> /u/Trashy_Treasures </a> <br/> <span><a href="https://www.reddit.com/gallery/1iq46bt">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1iq46bt/my_most_recent_creation_sterling_silver/">[comments]</a></span> </td></tr></table>
+
+## DIY Beaded Pearl Bracelet Making Tutorial
+ - [https://www.reddit.com/r/handmade/comments/1iq3zti/diy_beaded_pearl_bracelet_making_tutorial](https://www.reddit.com/r/handmade/comments/1iq3zti/diy_beaded_pearl_bracelet_making_tutorial)
+ - RSS feed: $source
+ - date published: 2025-02-15T15:40:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1iq3zti/diy_beaded_pearl_bracelet_making_tutorial/"> <img src="https://b.thumbs.redditmedia.com/jYQuV16Q886bfJuKuPPqcvihtFkgbo_8zEcbPG7faMQ.jpg" alt="DIY Beaded Pearl Bracelet Making Tutorial" title="DIY Beaded Pearl Bracelet Making Tutorial" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Kindly comment below if you want the tutorial. Happy Beading 🙂</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Specialist-Book9711"> /u/Specialist-Book9711 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iq3zti">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1iq3zti/diy_beaded_pearl_bracelet_making_tutorial/">[comments]</a></span> </td></tr></table>
+
+## Add a touch of elegance to your dining table with these stunning marble plates. Perfect for serving or display, they are sure to impress your guests
+ - [https://www.reddit.com/r/handmade/comments/1iq3775/add_a_touch_of_elegance_to_your_dining_table_with](https://www.reddit.com/r/handmade/comments/1iq3775/add_a_touch_of_elegance_to_your_dining_table_with)
+ - RSS feed: $source
+ - date published: 2025-02-15T15:03:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1iq3775/add_a_touch_of_elegance_to_your_dining_table_with/"> <img src="https://preview.redd.it/z8i6zvtfibje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=656cdeebd4443d8248873457a2ec9fca80dd93db" alt="Add a touch of elegance to your dining table with these stunning marble plates. Perfect for serving or display, they are sure to impress your guests" title="Add a touch of elegance to your dining table with these stunning marble plates. Perfect for serving or display, they are sure to impress your guests" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jaufin"> /u/Jaufin </a> <br/> <span><a href="https://i.redd.it/z8i6zvtfibje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1iq3775/add_a_touch_of_elegance_to_your_dining_table_with/">[comments]</a></span> </td></tr></table>
+
+## A commission I drew of a CaneCorso. I used Charcoal pencils for this portrait.
+ - [https://www.reddit.com/r/handmade/comments/1iq0tb8/a_commission_i_drew_of_a_canecorso_i_used](https://www.reddit.com/r/handmade/comments/1iq0tb8/a_commission_i_drew_of_a_canecorso_i_used)
+ - RSS feed: $source
+ - date published: 2025-02-15T12:59:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1iq0tb8/a_commission_i_drew_of_a_canecorso_i_used/"> <img src="https://preview.redd.it/g9sn2skbwaje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5f69895f24fc6a822bf07411c179d4fee4e216f5" alt="A commission I drew of a CaneCorso. I used Charcoal pencils for this portrait." title="A commission I drew of a CaneCorso. I used Charcoal pencils for this portrait." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cary_21"> /u/Cary_21 </a> <br/> <span><a href="https://i.redd.it/g9sn2skbwaje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1iq0tb8/a_commission_i_drew_of_a_canecorso_i_used/">[comments]</a></span> </td></tr></table>
+
+## Teddy bear charm bracelets made by me
+ - [https://www.reddit.com/r/handmade/comments/1ipyu6t/teddy_bear_charm_bracelets_made_by_me](https://www.reddit.com/r/handmade/comments/1ipyu6t/teddy_bear_charm_bracelets_made_by_me)
+ - RSS feed: $source
+ - date published: 2025-02-15T10:44:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipyu6t/teddy_bear_charm_bracelets_made_by_me/"> <img src="https://b.thumbs.redditmedia.com/2IOyQZinACXvvcepY8pdD7NP2dvY438Q1KQBKKvjSgg.jpg" alt="Teddy bear charm bracelets made by me" title="Teddy bear charm bracelets made by me" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DavidJonnsJewellery"> /u/DavidJonnsJewellery </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipyu6t">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipyu6t/teddy_bear_charm_bracelets_made_by_me/">[comments]</a></span> </td></tr></table>
+
+## I have always loved the wolf and the symbolism it represents, this is why I decided to create this design inspired by it and the power of nature
+ - [https://www.reddit.com/r/handmade/comments/1ipyert/i_have_always_loved_the_wolf_and_the_symbolism_it](https://www.reddit.com/r/handmade/comments/1ipyert/i_have_always_loved_the_wolf_and_the_symbolism_it)
+ - RSS feed: $source
+ - date published: 2025-02-15T10:11:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipyert/i_have_always_loved_the_wolf_and_the_symbolism_it/"> <img src="https://external-preview.redd.it/bHFlcW8ybmYyYWplMeucTPQibEe7yQHU3mZ22dLfy92PXvNEDg8XLWOJfluZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e49a8608c9d88e63ea3a4d338dba018b700c29ef" alt="I have always loved the wolf and the symbolism it represents, this is why I decided to create this design inspired by it and the power of nature" title="I have always loved the wolf and the symbolism it represents, this is why I decided to create this design inspired by it and the power of nature" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Huge-Guarantee-402"> /u/Huge-Guarantee-402 </a> <br/> <span><a href="https://v.redd.it/ftmib8rf2aje1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipyert/i_have_always_loved_the_wolf_and_the_symbolism_it/">[comments]</a></span> </td></tr></table>
+
+## My Abstract Figurative Art 🎨
+ - [https://www.reddit.com/r/handmade/comments/1ipxt1p/my_abstract_figurative_art](https://www.reddit.com/r/handmade/comments/1ipxt1p/my_abstract_figurative_art)
+ - RSS feed: $source
+ - date published: 2025-02-15T09:25:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipxt1p/my_abstract_figurative_art/"> <img src="https://b.thumbs.redditmedia.com/Ir7STNBgVda-ZRgg6pko_bsq0iOFCfxlnhqelxZiB4Q.jpg" alt="My Abstract Figurative Art 🎨" title="My Abstract Figurative Art 🎨" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hi everyone! I&#39;m an artist, and I pour my heart into every piece I create. I work on raw canvases, which I personally prepare by priming them with gesso, ensuring a solid base for my art. I use high-quality professional paints and apply each layer by hand, creating unique textures and vibrant emotions. Every painting is entirely handmade with care and passion. Sharing my art with you means so much—thank you for supporting original, handmade creations! ❤️‍🔥❤️‍🔥❤️‍🔥</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Terrible-Cupcake6255"> /u/Terrible-Cupcake6255 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipxt1p">[l
+
+## My new handmade pearl bracelet
+ - [https://www.reddit.com/r/handmade/comments/1ipxl6x/my_new_handmade_pearl_bracelet](https://www.reddit.com/r/handmade/comments/1ipxl6x/my_new_handmade_pearl_bracelet)
+ - RSS feed: $source
+ - date published: 2025-02-15T09:07:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipxl6x/my_new_handmade_pearl_bracelet/"> <img src="https://external-preview.redd.it/dXBsaXdrOHRxOWplMdCpayy8F6M2do-SumRQ3Sr2yR84Z4qB8opDmlh1dSSy.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=377758cdcb5f25f9c3a6db603a1b7a5d7fac95b7" alt="My new handmade pearl bracelet" title="My new handmade pearl bracelet" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/momolovescat"> /u/momolovescat </a> <br/> <span><a href="https://v.redd.it/w3kr5j8tq9je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipxl6x/my_new_handmade_pearl_bracelet/">[comments]</a></span> </td></tr></table>
+
+## Card holder with Money Clip made by me ◡̈◡̈◡̈ ツツツ
+ - [https://www.reddit.com/r/handmade/comments/1ipxguz/card_holder_with_money_clip_made_by_me_ツツツ](https://www.reddit.com/r/handmade/comments/1ipxguz/card_holder_with_money_clip_made_by_me_ツツツ)
+ - RSS feed: $source
+ - date published: 2025-02-15T08:58:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipxguz/card_holder_with_money_clip_made_by_me_ツツツ/"> <img src="https://external-preview.redd.it/Mml0NzRmMWZwOWplMTdjzC0FWBRDnPKPuPPqp1NfNqKZbwZ9Qs6DAdEIIKUh.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=752062994974d1efb410fe9cbba14de888754a7b" alt="Card holder with Money Clip made by me ◡̈◡̈◡̈ ツツツ" title="Card holder with Money Clip made by me ◡̈◡̈◡̈ ツツツ" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vitanohandmade"> /u/vitanohandmade </a> <br/> <span><a href="https://v.redd.it/f7ezzsafp9je1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipxguz/card_holder_with_money_clip_made_by_me_ツツツ/">[comments]</a></span> </td></tr></table>
+
+## River Toker, original art by able6 (me) - No otters were harmed in the making of this art!
+ - [https://www.reddit.com/r/handmade/comments/1ipu9gt/river_toker_original_art_by_able6_me_no_otters](https://www.reddit.com/r/handmade/comments/1ipu9gt/river_toker_original_art_by_able6_me_no_otters)
+ - RSS feed: $source
+ - date published: 2025-02-15T05:08:12+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/able6art"> /u/able6art </a> <br/> <span><a href="https://i.redd.it/62ffhezak8je1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipu9gt/river_toker_original_art_by_able6_me_no_otters/">[comments]</a></span>
+
+## Handmade headband mystery box
+ - [https://www.reddit.com/r/handmade/comments/1ipppi4/handmade_headband_mystery_box](https://www.reddit.com/r/handmade/comments/1ipppi4/handmade_headband_mystery_box)
+ - RSS feed: $source
+ - date published: 2025-02-15T00:48:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/handmade/comments/1ipppi4/handmade_headband_mystery_box/"> <img src="https://b.thumbs.redditmedia.com/cOidJqp5A191PPIkfsa_HiVhWtUDX7yKdsEplQwbFMs.jpg" alt="Handmade headband mystery box" title="Handmade headband mystery box" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Made with art yarn, includes 25 different colors and 1 secret edition</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/crochetlove2003"> /u/crochetlove2003 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ipppi4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/handmade/comments/1ipppi4/handmade_headband_mystery_box/">[comments]</a></span> </td></tr></table>
+

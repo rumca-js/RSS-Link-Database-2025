@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-15T10:03:00+00:00",
+        "description": "Over the last 50 years, 167 different people have been part of the Saturday Night Live ensemble cast. Some of them went on to become comedy superstars, others lasted a less than a season and are fairly obscure in the cultural pantheon. But if you were tasked of creating an all-time MVP cast, it would [&#8230;]",
+        "id": 2120142,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/02/ensemble-stars",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ensemble stars",
+        "vote": 0
+    }
+]

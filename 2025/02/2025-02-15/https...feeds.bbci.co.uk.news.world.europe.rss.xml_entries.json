@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-15T22:00:46+00:00",
+        "description": "The UK PM, who is expected to attend, said it was a \"once in a generation moment for our national security\".",
+        "id": 2123407,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c04nw1pg3k2o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1890/live/98e27620-ebde-11ef-bc61-5513f23be83e.jpg",
+        "title": "European leaders set to hold emergency summit on Ukraine",
+        "vote": 0
+    }
+]

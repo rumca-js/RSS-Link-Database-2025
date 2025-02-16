@@ -1,0 +1,93 @@
+# Source:Neowin, URL:https://www.neowin.net/news/rss, language:en-us
+
+## This simple mod is what Windows 11 Start menu should have been from the very beginning
+ - [https://www.neowin.net/news/this-simple-mod-is-what-windows-11-start-menu-should-have-been-from-the-very-beginning](https://www.neowin.net/news/this-simple-mod-is-what-windows-11-start-menu-should-have-been-from-the-very-beginning)
+ - RSS feed: $source
+ - date published: 2025-02-15T22:12:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/02/1738778171_windows_11_medium.jpg" alt="" /></div>There is no shortage of third-party Start menus for Windows 11, but this one is just what the menu should have been from the get-go. <a href="https://www.neowin.net/news/this-simple-mod-is-what-windows-11-start-menu-should-have-been-from-the-very-beginning/">Read more...</a>
+
+## Microsoft removes Windows 11 24H2 official support on 8th 9th 10th Gen Intel CPUs
+ - [https://www.neowin.net/news/microsoft-removes-windows-11-24h2-official-support-on-8th-9th-10th-gen-intel-cpus](https://www.neowin.net/news/microsoft-removes-windows-11-24h2-official-support-on-8th-9th-10th-gen-intel-cpus)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:13:42+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/07/1689668348_intel_windows_11_red_medium.jpg" alt="" /></div>Microsoft has finally added the official CPU support list for Windows 11 version 24H2, and the company has strangely removed several Intel processors from it. <a href="https://www.neowin.net/news/microsoft-removes-windows-11-24h2-official-support-on-8th-9th-10th-gen-intel-cpus/">Read more...</a>
+
+## Microsoft finally shares Windows 11 24H2 official CPU support list, adds new AMD Ryzen parts
+ - [https://www.neowin.net/news/microsoft-finally-shares-windows-11-24h2-official-cpu-support-list-adds-new-amd-ryzen-parts](https://www.neowin.net/news/microsoft-finally-shares-windows-11-24h2-official-cpu-support-list-adds-new-amd-ryzen-parts)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:13:23+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2022/08/1661492117_windows_11_ryzen_medium.jpg" alt="" /></div>Microsoft has finally shared the official Windows 11 24H2 CPU support list. It has rectified something we had pointed out last time, though the new list too is far from flawless. <a href="https://www.neowin.net/news/microsoft-finally-shares-windows-11-24h2-official-cpu-support-list-adds-new-amd-ryzen-parts/">Read more...</a>
+
+## Save 73% off PC Transfer Kit Bundle: PCmover Professional, DiskImage, & SafeErase
+ - [https://www.neowin.net/deals/save-73-off-pc-transfer-kit-bundle-pcmover-professional-diskimage--safeerase](https://www.neowin.net/deals/save-73-off-pc-transfer-kit-bundle-pcmover-professional-diskimage--safeerase)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:00:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/04/1680771677_pcmover_medium.jpg" alt="" /></div>Make PC upgrade and switching seamless with this trio of highly-rated utility apps for easy data transfer, deletion, and backup and recovery. <a href="https://www.neowin.net/deals/save-73-off-pc-transfer-kit-bundle-pcmover-professional-diskimage--safeerase/">Read more...</a>
+
+## Microsoft removes Windows 11 feature responsible for collecting and storing location data
+ - [https://www.neowin.net/news/microsoft-removes-windows-11-feature-responsible-for-collecting-and-storing-location-data](https://www.neowin.net/news/microsoft-removes-windows-11-feature-responsible-for-collecting-and-storing-location-data)
+ - RSS feed: $source
+ - date published: 2025-02-15T17:28:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/02/1739640211_location_history_hero_medium.jpg" alt="" /></div>Say goodbye to a Windows 11 feature that is responsible for collecting and storing your location data. <a href="https://www.neowin.net/news/microsoft-removes-windows-11-feature-responsible-for-collecting-and-storing-location-data/">Read more...</a>
+
+## Ookla speed test report: These countries have the fastest internet in 2025 so far
+ - [https://www.neowin.net/news/ookla-speed-test-report-these-countries-have-the-fastest-internet-in-2025-so-far](https://www.neowin.net/news/ookla-speed-test-report-these-countries-have-the-fastest-internet-in-2025-so-far)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:50:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/02/1739635824_internet_speed_test_medium.jpg" alt="" /></div>A new Ookla report reveals the top countries with the fastest mobile and fixed internet speeds in 2025 so far. <a href="https://www.neowin.net/news/ookla-speed-test-report-these-countries-have-the-fastest-internet-in-2025-so-far/">Read more...</a>
+
+## It's common to compare AI developments to the Space Race, but it's far from the same
+ - [https://www.neowin.net/editorials/its-common-to-compare-ai-developments-to-the-space-race-but-its-far-from-the-same](https://www.neowin.net/editorials/its-common-to-compare-ai-developments-to-the-space-race-but-its-far-from-the-same)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:00:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/02/1739284279_depositphotos_784782962_s_medium.jpg" alt="" /></div>Is it right to call the current developments in AI an AI Race, which draws comparisons with the Space Race and all the nationalistic fervor that went along with it? Let&#039;s take a look. <a href="https://www.neowin.net/editorials/its-common-to-compare-ai-developments-to-the-space-race-but-its-far-from-the-same/">Read more...</a>
+
+## Microsoft explains how to update to Windows 11 24H2 on blocked Asus PCs
+ - [https://www.neowin.net/news/microsoft-explains-how-to-update-to-windows-11-24h2-on-blocked-asus-pcs](https://www.neowin.net/news/microsoft-explains-how-to-update-to-windows-11-24h2-on-blocked-asus-pcs)
+ - RSS feed: $source
+ - date published: 2025-02-15T15:02:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2024/05/1715260498_5_medium.jpg" alt="" /></div>Microsoft has explained how to update to Windows 11 24H2 on systems where the feature update was blocked due to a compatibility issue. <a href="https://www.neowin.net/news/microsoft-explains-how-to-update-to-windows-11-24h2-on-blocked-asus-pcs/">Read more...</a>
+
+## SpaceX and China set for multiple satellite launches - TWIRL #201
+ - [https://www.neowin.net/news/spacex-and-china-set-for-multiple-satellite-launches---twirl-201](https://www.neowin.net/news/spacex-and-china-set-for-multiple-satellite-launches---twirl-201)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:08:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/02/1739617800_twirl-201_medium.jpg" alt="" /></div>We have several launches coming up this week that focus on orbiting satellites. As usual, SpaceX will be launching the most rockets. <a href="https://www.neowin.net/news/spacex-and-china-set-for-multiple-satellite-launches---twirl-201/">Read more...</a>
+
+## Meta invests billions in Project Waterworth, a new 50,000 km subsea cable network
+ - [https://www.neowin.net/news/meta-invests-billions-in-project-waterworth-a-new-50000-km-subsea-cable-network](https://www.neowin.net/news/meta-invests-billions-in-project-waterworth-a-new-50000-km-subsea-cable-network)
+ - RSS feed: $source
+ - date published: 2025-02-15T10:34:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/01/1738067380_meta_medium.jpg" alt="" /></div>Meta announces Project Waterworth, a massive 50,000 km undersea cable. This multi-billion dollar investment will boost global internet connectivity and drive AI innovation. <a href="https://www.neowin.net/news/meta-invests-billions-in-project-waterworth-a-new-50000-km-subsea-cable-network/">Read more...</a>
+
+## Weekend PC Game Deals: Co-op festival grabs, fresh bundles, and much more
+ - [https://www.neowin.net/news/weekend-pc-game-deals-co-op-festival-grabs-fresh-bundles-and-much-more](https://www.neowin.net/news/weekend-pc-game-deals-co-op-festival-grabs-fresh-bundles-and-much-more)
+ - RSS feed: $source
+ - date published: 2025-02-15T09:30:02+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2018/04/1524140393_5_medium.jpg" alt="" /></div>This weekend&#039;s PC game deals include a new bundlefest from Fanatical, a freebie for managing fans, a whole lot of cooperative games, and more. <a href="https://www.neowin.net/news/weekend-pc-game-deals-co-op-festival-grabs-fresh-bundles-and-much-more/">Read more...</a>
+
+## Microsoft adding new PowerToys utlity for Windows package manager (WinGet)
+ - [https://www.neowin.net/news/microsoft-adding-new-powertoys-utlity-for-windows-package-manager-winget](https://www.neowin.net/news/microsoft-adding-new-powertoys-utlity-for-windows-package-manager-winget)
+ - RSS feed: $source
+ - date published: 2025-02-15T08:50:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2023/06/1685715607_12_medium.jpg" alt="" /></div>Microsoft is working on a new PowerToys utility which will add the ability to install WinGet packages.  <a href="https://www.neowin.net/news/microsoft-adding-new-powertoys-utlity-for-windows-package-manager-winget/">Read more...</a>
+
+## Perplexity takes on ChatGPT and Gemini with its own Deep Research feature
+ - [https://www.neowin.net/news/perplexity-takes-on-chatgpt-and-gemini-with-its-own-deep-research-feature](https://www.neowin.net/news/perplexity-takes-on-chatgpt-and-gemini-with-its-own-deep-research-feature)
+ - RSS feed: $source
+ - date published: 2025-02-15T01:48:01+00:00
+
+<div style="float:left;margin-right:10px;"><img src="https://cdn.neowin.com/news/images/uploaded/2025/02/1739575498_perplexity_deep_search_medium.jpg" alt="" /></div>Perplexity has launched its own Deep Research feature, joining Google&#039;s Gemini and OpenAI&#039;s ChatGPT.  This feature allows users to perform in-depth research and analysis. <a href="https://www.neowin.net/news/perplexity-takes-on-chatgpt-and-gemini-with-its-own-deep-research-feature/">Read more...</a>
+

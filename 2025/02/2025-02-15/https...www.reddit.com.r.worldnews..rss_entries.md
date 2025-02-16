@@ -1,0 +1,289 @@
+# Source:World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## An asteroid has a 2% chance of hitting Earth in 2032.
+ - [https://www.reddit.com/r/worldnews/comments/1iqeivd/an_asteroid_has_a_2_chance_of_hitting_earth_in](https://www.reddit.com/r/worldnews/comments/1iqeivd/an_asteroid_has_a_2_chance_of_hitting_earth_in)
+ - RSS feed: $source
+ - date published: 2025-02-15T23:27:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iqeivd/an_asteroid_has_a_2_chance_of_hitting_earth_in/"> <img src="https://external-preview.redd.it/mQrOpKop8u9yeBgR76BA5Me0hSZ9Z7sZ59UW9sOyWOc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=43bae70e47f5695d0cf5ba716f3ab3192049251a" alt="An asteroid has a 2% chance of hitting Earth in 2032." title="An asteroid has a 2% chance of hitting Earth in 2032." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dizzy_Blackberry7874"> /u/Dizzy_Blackberry7874 </a> <br/> <span><a href="https://www.cnn.com/2025/02/15/science/asteroid-2024-yr4-earth-tracking/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iqeivd/an_asteroid_has_a_2_chance_of_hitting_earth_in/">[comments]</a></span> </td></tr></table>
+
+## Poilievre warns Trump not to turn Canada into a 'resentful neighbour'
+ - [https://www.reddit.com/r/worldnews/comments/1iqdma2/poilievre_warns_trump_not_to_turn_canada_into_a](https://www.reddit.com/r/worldnews/comments/1iqdma2/poilievre_warns_trump_not_to_turn_canada_into_a)
+ - RSS feed: $source
+ - date published: 2025-02-15T22:44:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iqdma2/poilievre_warns_trump_not_to_turn_canada_into_a/"> <img src="https://external-preview.redd.it/wgIZsWVuqgjQpkLZIQmhvwFizD6cHRPgIn2hiExeibE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a858893d986a084689062609e3c312cfa59272c8" alt="Poilievre warns Trump not to turn Canada into a 'resentful neighbour'" title="Poilievre warns Trump not to turn Canada into a 'resentful neighbour'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CGP05"> /u/CGP05 </a> <br/> <span><a href="https://nationalpost.com/news/canada/canada-first-rally-conservatives-ottawa">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iqdma2/poilievre_warns_trump_not_to_turn_canada_into_a/">[comments]</a></span> </td></tr></table>
+
+## Trump: US will 'back' Israel in whatever Netanyahu chooses as Hamas continue holding hostages
+ - [https://www.reddit.com/r/worldnews/comments/1iqc5t5/trump_us_will_back_israel_in_whatever_netanyahu](https://www.reddit.com/r/worldnews/comments/1iqc5t5/trump_us_will_back_israel_in_whatever_netanyahu)
+ - RSS feed: $source
+ - date published: 2025-02-15T21:39:32+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Spiderwig144"> /u/Spiderwig144 </a> <br/> <span><a href="https://www.jpost.com/breaking-news/article-842227">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iqc5t5/trump_us_will_back_israel_in_whatever_netanyahu/">[comments]</a></span>
+
+## Dutch PM says NL may join Ukraine peacekeeping effort - DutchNews.nl
+ - [https://www.reddit.com/r/worldnews/comments/1iqbjgx/dutch_pm_says_nl_may_join_ukraine_peacekeeping](https://www.reddit.com/r/worldnews/comments/1iqbjgx/dutch_pm_says_nl_may_join_ukraine_peacekeeping)
+ - RSS feed: $source
+ - date published: 2025-02-15T21:12:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iqbjgx/dutch_pm_says_nl_may_join_ukraine_peacekeeping/"> <img src="https://external-preview.redd.it/4LT5NkzesOPWoeRQceD24PGNFb_j8xaJpkV1Nc7R04Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3ac2ed9f5b453836394b3fd8ebdae9fd3ba285e" alt="Dutch PM says NL may join Ukraine peacekeeping effort - DutchNews.nl" title="Dutch PM says NL may join Ukraine peacekeeping effort - DutchNews.nl" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nasandre"> /u/nasandre </a> <br/> <span><a href="https://www.dutchnews.nl/2025/02/dutch-pm-says-nl-may-join-ukraine-peacekeeping-effort/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iqbjgx/dutch_pm_says_nl_may_join_ukraine_peacekeeping/">[comments]</a></span> </td></tr></table>
+
+## US says Europe to be excluded from Russia-Ukraine peace talks
+ - [https://www.reddit.com/r/worldnews/comments/1iqamex/us_says_europe_to_be_excluded_from_russiaukraine](https://www.reddit.com/r/worldnews/comments/1iqamex/us_says_europe_to_be_excluded_from_russiaukraine)
+ - RSS feed: $source
+ - date published: 2025-02-15T20:32:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iqamex/us_says_europe_to_be_excluded_from_russiaukraine/"> <img src="https://external-preview.redd.it/LyRPDOLlGpuhHpsdSQApOkyxdA642z3TpbHqXPqFwZ0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60b6701ad1f83598482c35c5daa9fa17cc8d73a9" alt="US says Europe to be excluded from Russia-Ukraine peace talks" title="US says Europe to be excluded from Russia-Ukraine peace talks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/die_mannequin"> /u/die_mannequin </a> <br/> <span><a href="https://www.aljazeera.com/news/2025/2/15/ukraine-peace-talks-will-not-include-europe-us-envoy-says">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iqamex/us_says_europe_to_be_excluded_from_russiaukraine/">[comments]</a></span> </td></tr></table>
+
+## Revealed: Google facilitated Russia and China’s censorship requests
+ - [https://www.reddit.com/r/worldnews/comments/1iqac03/revealed_google_facilitated_russia_and_chinas](https://www.reddit.com/r/worldnews/comments/1iqac03/revealed_google_facilitated_russia_and_chinas)
+ - RSS feed: $source
+ - date published: 2025-02-15T20:19:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iqac03/revealed_google_facilitated_russia_and_chinas/"> <img src="https://external-preview.redd.it/jK2O8aurLiVd7aroLLAXbgAWrMiCrxoj_XpIyyScBoU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=80c404ead1ef1efe00f1913fd70b1ff20592f25a" alt="Revealed: Google facilitated Russia and China’s censorship requests" title="Revealed: Google facilitated Russia and China’s censorship requests" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/qwerty_1965"> /u/qwerty_1965 </a> <br/> <span><a href="https://www.theguardian.com/world/2025/feb/15/google-helped-facilitate-russia-china-censorship-requests">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iqac03/revealed_google_facilitated_russia_and_chinas/">[comments]</a></span> </td></tr></table>
+
+## Scholz Says EU Will Hit Back on Trump Tariffs But Deal Is Better
+ - [https://www.reddit.com/r/worldnews/comments/1iq9wa3/scholz_says_eu_will_hit_back_on_trump_tariffs_but](https://www.reddit.com/r/worldnews/comments/1iq9wa3/scholz_says_eu_will_hit_back_on_trump_tariffs_but)
+ - RSS feed: $source
+ - date published: 2025-02-15T20:01:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq9wa3/scholz_says_eu_will_hit_back_on_trump_tariffs_but/"> <img src="https://external-preview.redd.it/XzjRk6witcplGHPe4P_iF0CMgQFCobs7ay7zm1n7TA4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=68011cb2f09cc489ade4e0e679e8d44f4e2cf513" alt="Scholz Says EU Will Hit Back on Trump Tariffs But Deal Is Better" title="Scholz Says EU Will Hit Back on Trump Tariffs But Deal Is Better" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloomberg"> /u/bloomberg </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2025-02-15/scholz-says-eu-will-hit-back-on-trump-tariffs-but-deal-is-better">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq9wa3/scholz_says_eu_will_hit_back_on_trump_tariffs_but/">[comments]</a></span> </td></tr></table>
+
+## Argentina’s President Javier Milei promotes Meme Coin trough its official twitter account, Crashes 89% within hours
+ - [https://www.reddit.com/r/worldnews/comments/1iq81s9/argentinas_president_javier_milei_promotes_meme](https://www.reddit.com/r/worldnews/comments/1iq81s9/argentinas_president_javier_milei_promotes_meme)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:40:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq81s9/argentinas_president_javier_milei_promotes_meme/"> <img src="https://external-preview.redd.it/MifqCmBEKIpIc8gWUsXiO-ODXHZ48ALBzUbm3Au7N1k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf7220ac2857a10c164717d14d6859cb0582cd1c" alt="Argentina’s President Javier Milei promotes Meme Coin trough its official twitter account, Crashes 89% within hours" title="Argentina’s President Javier Milei promotes Meme Coin trough its official twitter account, Crashes 89% within hours" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/millanstar"> /u/millanstar </a> <br/> <span><a href="https://decrypt.co/306134/did-argentina-president-javier-milei-launch-solana-meme-coin">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq81s9/argentinas_president_javier_milei_promotes_meme/">[comments]</a></span> </td></tr></table>
+
+## Russia flies cash to Syria as West hesitates to lift sanctions
+ - [https://www.reddit.com/r/worldnews/comments/1iq7z75/russia_flies_cash_to_syria_as_west_hesitates_to](https://www.reddit.com/r/worldnews/comments/1iq7z75/russia_flies_cash_to_syria_as_west_hesitates_to)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:37:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq7z75/russia_flies_cash_to_syria_as_west_hesitates_to/"> <img src="https://external-preview.redd.it/Ix2mCabrChRIVdYFiTRiX5do2vE-bt8uJfzZ1QGoDvc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=13eb5a8569691a52d15f90605cfa4a8638df7168" alt="Russia flies cash to Syria as West hesitates to lift sanctions" title="Russia flies cash to Syria as West hesitates to lift sanctions" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Antique-Entrance-229"> /u/Antique-Entrance-229 </a> <br/> <span><a href="https://www.middleeasteye.net/news/russia-flies-cash-syria-west-hesitates-sanctions">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq7z75/russia_flies_cash_to_syria_as_west_hesitates_to/">[comments]</a></span> </td></tr></table>
+
+## Thousands rally in Serbia as anger over corruption swells
+ - [https://www.reddit.com/r/worldnews/comments/1iq7plt/thousands_rally_in_serbia_as_anger_over](https://www.reddit.com/r/worldnews/comments/1iq7plt/thousands_rally_in_serbia_as_anger_over)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:25:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq7plt/thousands_rally_in_serbia_as_anger_over/"> <img src="https://external-preview.redd.it/46_pqrb-NfLnXF8aeStFBI-KUfJ1Zoec6KomOtzgY9g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=127dfe0abb74cc24bd9d90635cfb8faf5043e460" alt="Thousands rally in Serbia as anger over corruption swells" title="Thousands rally in Serbia as anger over corruption swells" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/die_mannequin"> /u/die_mannequin </a> <br/> <span><a href="https://www.reuters.com/world/europe/thousands-rally-serbia-over-deadly-railway-disaster-2025-02-15/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq7plt/thousands_rally_in_serbia_as_anger_over/">[comments]</a></span> </td></tr></table>
+
+## Zelenskyy says he will not take Ukraine's NATO membership off the table
+ - [https://www.reddit.com/r/worldnews/comments/1iq7d9d/zelenskyy_says_he_will_not_take_ukraines_nato](https://www.reddit.com/r/worldnews/comments/1iq7d9d/zelenskyy_says_he_will_not_take_ukraines_nato)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:10:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq7d9d/zelenskyy_says_he_will_not_take_ukraines_nato/"> <img src="https://external-preview.redd.it/0yqtK5oawcxVIG7ofZvDs7JF52eWm4VXtvoYkhmHkk8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=044c624085a70add46078156377d5f3a624c03a1" alt="Zelenskyy says he will not take Ukraine's NATO membership off the table" title="Zelenskyy says he will not take Ukraine's NATO membership off the table" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://unn.ua/en/news/zelenskyy-says-he-will-not-take-ukraines-nato-membership-off-the-table">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq7d9d/zelenskyy_says_he_will_not_take_ukraines_nato/">[comments]</a></span> </td></tr></table>
+
+## US asks Europeans for contributions to Ukraine guarantees
+ - [https://www.reddit.com/r/worldnews/comments/1iq6m57/us_asks_europeans_for_contributions_to_ukraine](https://www.reddit.com/r/worldnews/comments/1iq6m57/us_asks_europeans_for_contributions_to_ukraine)
+ - RSS feed: $source
+ - date published: 2025-02-15T17:37:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq6m57/us_asks_europeans_for_contributions_to_ukraine/"> <img src="https://external-preview.redd.it/h_Nnf9fKzdg7MyMn9ApmKB4v6s8hq9j9QBziAUVAhb8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b4b926898ed47e5e832947f065299c2933289a8" alt="US asks Europeans for contributions to Ukraine guarantees" title="US asks Europeans for contributions to Ukraine guarantees" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gym_fun"> /u/gym_fun </a> <br/> <span><a href="https://www.reuters.com/world/us-asks-europeans-contributions-ukraine-guarantees-2025-02-15/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq6m57/us_asks_europeans_for_contributions_to_ukraine/">[comments]</a></span> </td></tr></table>
+
+## Zelenskiy says draft US minerals deal not ready yet as 'it does not protect' Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1iq6lih/zelenskiy_says_draft_us_minerals_deal_not_ready](https://www.reddit.com/r/worldnews/comments/1iq6lih/zelenskiy_says_draft_us_minerals_deal_not_ready)
+ - RSS feed: $source
+ - date published: 2025-02-15T17:37:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq6lih/zelenskiy_says_draft_us_minerals_deal_not_ready/"> <img src="https://external-preview.redd.it/JLnL3k00yni_axUxJ03LkznVsCpVH1sMkpn9Uz1pytE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=62aa108309170367f44e35310a8fd39b0fb35384" alt="Zelenskiy says draft US minerals deal not ready yet as 'it does not protect' Ukraine" title="Zelenskiy says draft US minerals deal not ready yet as 'it does not protect' Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gym_fun"> /u/gym_fun </a> <br/> <span><a href="https://www.reuters.com/markets/commodities/zelenskiy-says-draft-us-minerals-deal-not-ready-yet-it-does-not-protect-ukraine-2025-02-15/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq6lih/zelenskiy_says_draft_us_minerals_deal_not_ready/">[comments]</a></span> </td></tr></table>
+
+## Macron calls emergency European summit on Trump, Polish minister says
+ - [https://www.reddit.com/r/worldnews/comments/1iq5gp6/macron_calls_emergency_european_summit_on_trump](https://www.reddit.com/r/worldnews/comments/1iq5gp6/macron_calls_emergency_european_summit_on_trump)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:47:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq5gp6/macron_calls_emergency_european_summit_on_trump/"> <img src="https://external-preview.redd.it/87lXxUm5dG1lrBEi3A1xb0OgxsO-xDofnnui2KOTPgo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2326aaf4ba3d1d5dcc365bb77991806d8d49604" alt="Macron calls emergency European summit on Trump, Polish minister says" title="Macron calls emergency European summit on Trump, Polish minister says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/doopityWoop22"> /u/doopityWoop22 </a> <br/> <span><a href="https://www.politico.eu/article/macron-convenes-european-emergency-summit-in-paris-on-sunday-polish-minister-says/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq5gp6/macron_calls_emergency_european_summit_on_trump/">[comments]</a></span> </td></tr></table>
+
+## Europe will not be part of Ukraine-Russia peace talks, US envoy says
+ - [https://www.reddit.com/r/worldnews/comments/1iq5emr/europe_will_not_be_part_of_ukrainerussia_peace](https://www.reddit.com/r/worldnews/comments/1iq5emr/europe_will_not_be_part_of_ukrainerussia_peace)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:44:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq5emr/europe_will_not_be_part_of_ukrainerussia_peace/"> <img src="https://external-preview.redd.it/sKTvMsx2K56UvvsuLUbVkOWLhML4cHz8hm0wKaWxirY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2af1017d8c8c6d4ee28beefcee904d8218409a1" alt="Europe will not be part of Ukraine-Russia peace talks, US envoy says" title="Europe will not be part of Ukraine-Russia peace talks, US envoy says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Party_Judgment5780"> /u/Party_Judgment5780 </a> <br/> <span><a href="https://www.theguardian.com/world/2025/feb/15/europe-will-not-take-part-in-us-russia-talks-ukraine-kellogg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq5emr/europe_will_not_be_part_of_ukrainerussia_peace/">[comments]</a></span> </td></tr></table>
+
+## Zelenskiy calls for European army to deter Russia, earn US respect
+ - [https://www.reddit.com/r/worldnews/comments/1iq53fx/zelenskiy_calls_for_european_army_to_deter_russia](https://www.reddit.com/r/worldnews/comments/1iq53fx/zelenskiy_calls_for_european_army_to_deter_russia)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:30:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq53fx/zelenskiy_calls_for_european_army_to_deter_russia/"> <img src="https://external-preview.redd.it/VWtPqRsC_98FdKdCfzrMt88Yv4U4bicccNZXhDev1wU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28e5cf0d35050b01eceaff3c97f67d13144b6946" alt="Zelenskiy calls for European army to deter Russia, earn US respect" title="Zelenskiy calls for European army to deter Russia, earn US respect" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Malliscore"> /u/Malliscore </a> <br/> <span><a href="https://www.reuters.com/world/europe/zelenskiy-calls-european-army-deter-russia-earn-us-respect-2025-02-15/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq53fx/zelenskiy_calls_for_european_army_to_deter_russia/">[comments]</a></span> </td></tr></table>
+
+## Europe will not take part in US-Russia talks with Ukraine, Trump envoy says
+ - [https://www.reddit.com/r/worldnews/comments/1iq3pkf/europe_will_not_take_part_in_usrussia_talks_with](https://www.reddit.com/r/worldnews/comments/1iq3pkf/europe_will_not_take_part_in_usrussia_talks_with)
+ - RSS feed: $source
+ - date published: 2025-02-15T15:26:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq3pkf/europe_will_not_take_part_in_usrussia_talks_with/"> <img src="https://external-preview.redd.it/sKTvMsx2K56UvvsuLUbVkOWLhML4cHz8hm0wKaWxirY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2af1017d8c8c6d4ee28beefcee904d8218409a1" alt="Europe will not take part in US-Russia talks with Ukraine, Trump envoy says" title="Europe will not take part in US-Russia talks with Ukraine, Trump envoy says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/alex_744"> /u/alex_744 </a> <br/> <span><a href="https://www.theguardian.com/world/2025/feb/15/europe-will-not-take-part-in-us-russia-talks-ukraine-kellogg?CMP=oth_b-aplnews_d-5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq3pkf/europe_will_not_take_part_in_usrussia_talks_with/">[comments]</a></span> </td></tr></table>
+
+## UK rushes forward plans for £2.5bn steel investment after Trump announces tariffs
+ - [https://www.reddit.com/r/worldnews/comments/1iq3lxu/uk_rushes_forward_plans_for_25bn_steel_investment](https://www.reddit.com/r/worldnews/comments/1iq3lxu/uk_rushes_forward_plans_for_25bn_steel_investment)
+ - RSS feed: $source
+ - date published: 2025-02-15T15:22:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq3lxu/uk_rushes_forward_plans_for_25bn_steel_investment/"> <img src="https://external-preview.redd.it/-H3mTkzLVxJNypxD_n-b4htvxoEZ2yeQOv6qAYKzwy0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd4c90185a223998471d77674040e9fefc28afe2" alt="UK rushes forward plans for £2.5bn steel investment after Trump announces tariffs" title="UK rushes forward plans for £2.5bn steel investment after Trump announces tariffs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sweatycat"> /u/sweatycat </a> <br/> <span><a href="https://www.theguardian.com/business/2025/feb/15/uk-rushes-forward-plans-for-25bn-steel-investment-after-trump-imposes-tariffs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq3lxu/uk_rushes_forward_plans_for_25bn_steel_investment/">[comments]</a></span> </td></tr></table>
+
+## Europe quietly developing plan to send peacekeeping troops to Ukraine, AP reports
+ - [https://www.reddit.com/r/worldnews/comments/1iq2un9/europe_quietly_developing_plan_to_send](https://www.reddit.com/r/worldnews/comments/1iq2un9/europe_quietly_developing_plan_to_send)
+ - RSS feed: $source
+ - date published: 2025-02-15T14:46:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq2un9/europe_quietly_developing_plan_to_send/"> <img src="https://external-preview.redd.it/0r_g_dUeV8V7XF66V-tF_i4m72vkkeIPk59mrvrEhuk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f02c33c4d1f27936be7771b278a83185271ea4ac" alt="Europe quietly developing plan to send peacekeeping troops to Ukraine, AP reports" title="Europe quietly developing plan to send peacekeeping troops to Ukraine, AP reports" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BothZookeepergame612"> /u/BothZookeepergame612 </a> <br/> <span><a href="https://kyivindependent.com/europe-quietly-developing-plan-to-send-peacekeeping-troops-to-ukraine-ap-reports/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq2un9/europe_quietly_developing_plan_to_send/">[comments]</a></span> </td></tr></table>
+
+## Vance attack on Europe overshadows Ukraine talks at security conference
+ - [https://www.reddit.com/r/worldnews/comments/1iq2tnh/vance_attack_on_europe_overshadows_ukraine_talks](https://www.reddit.com/r/worldnews/comments/1iq2tnh/vance_attack_on_europe_overshadows_ukraine_talks)
+ - RSS feed: $source
+ - date published: 2025-02-15T14:45:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq2tnh/vance_attack_on_europe_overshadows_ukraine_talks/"> <img src="https://external-preview.redd.it/oeTkvZpeUfdODVDGNX1G1xloNXDkqHMP5UufkdgQT7w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4d6c2773f7af6d08a433de372e06615bb5bf26f" alt="Vance attack on Europe overshadows Ukraine talks at security conference" title="Vance attack on Europe overshadows Ukraine talks at security conference" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lionzzo"> /u/Lionzzo </a> <br/> <span><a href="https://www.reuters.com/world/europe/zelenskiy-expected-meet-vance-munich-security-conference-begins-2025-02-14/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq2tnh/vance_attack_on_europe_overshadows_ukraine_talks/">[comments]</a></span> </td></tr></table>
+
+## American troops in Europe are not ‘forever,’ US defense chief Hegseth warns
+ - [https://www.reddit.com/r/worldnews/comments/1iq2k7w/american_troops_in_europe_are_not_forever_us](https://www.reddit.com/r/worldnews/comments/1iq2k7w/american_troops_in_europe_are_not_forever_us)
+ - RSS feed: $source
+ - date published: 2025-02-15T14:32:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq2k7w/american_troops_in_europe_are_not_forever_us/"> <img src="https://external-preview.redd.it/zGMUCxc_eBRuDxb43KmqmFQwj2gYEuL2EszMeBoJF1M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d0f9698c2bc69bf5ad2042c341b31f05a790a71b" alt="American troops in Europe are not ‘forever,’ US defense chief Hegseth warns" title="American troops in Europe are not ‘forever,’ US defense chief Hegseth warns" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Party_Judgment5780"> /u/Party_Judgment5780 </a> <br/> <span><a href="https://www.politico.eu/article/america-military-presence-europe-not-forever-us-pete-hegseth-warns/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq2k7w/american_troops_in_europe_are_not_forever_us/">[comments]</a></span> </td></tr></table>
+
+## Scholz rebukes Vance, defends Europe's stance on hate speech and far right
+ - [https://www.reddit.com/r/worldnews/comments/1iq2386/scholz_rebukes_vance_defends_europes_stance_on](https://www.reddit.com/r/worldnews/comments/1iq2386/scholz_rebukes_vance_defends_europes_stance_on)
+ - RSS feed: $source
+ - date published: 2025-02-15T14:08:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq2386/scholz_rebukes_vance_defends_europes_stance_on/"> <img src="https://external-preview.redd.it/VUfLDQrzBuDeXud4eoArQF1f-y07A_wXDyzvmdfmI2E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8935942e45179008d5547f5d71dcdf99129c49ca" alt="Scholz rebukes Vance, defends Europe's stance on hate speech and far right" title="Scholz rebukes Vance, defends Europe's stance on hate speech and far right" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Deedogg11"> /u/Deedogg11 </a> <br/> <span><a href="https://www.reuters.com/world/europe/germanys-scholz-rebukes-vance-defends-europes-stance-hate-speech-far-right-2025-02-15/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq2386/scholz_rebukes_vance_defends_europes_stance_on/">[comments]</a></span> </td></tr></table>
+
+## Zelenskyy: ‘The time has come’ for a European army
+ - [https://www.reddit.com/r/worldnews/comments/1iq1t45/zelenskyy_the_time_has_come_for_a_european_army](https://www.reddit.com/r/worldnews/comments/1iq1t45/zelenskyy_the_time_has_come_for_a_european_army)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:54:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq1t45/zelenskyy_the_time_has_come_for_a_european_army/"> <img src="https://external-preview.redd.it/6fJFYBnA__LYkPy8xQVNn_o2pr_uCRrU9j_Wi4lcKi4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=78bc9465013ca085d02d8f72350bf57fb1ee53ac" alt="Zelenskyy: ‘The time has come’ for a European army" title="Zelenskyy: ‘The time has come’ for a European army" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lurker_bee"> /u/lurker_bee </a> <br/> <span><a href="https://www.politico.eu/article/ukraine-volodymyr-zelenskyy-time-has-come-european-army-munich-security-conference/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq1t45/zelenskyy_the_time_has_come_for_a_european_army/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1087, Part 1 (Thread #1234)
+ - [https://www.reddit.com/r/worldnews/comments/1iq1gny/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1iq1gny/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:35:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq1gny/rworldnews_live_thread_russian_invasion_of/"> <img src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1087, Part 1 (Thread #1234)" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1087, Part 1 (Thread #1234)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br/> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq1gny/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## U.S. funding freeze threatens Ukraine investigations of alleged Russian war crimes
+ - [https://www.reddit.com/r/worldnews/comments/1iq1a1u/us_funding_freeze_threatens_ukraine](https://www.reddit.com/r/worldnews/comments/1iq1a1u/us_funding_freeze_threatens_ukraine)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:25:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq1a1u/us_funding_freeze_threatens_ukraine/"> <img src="https://external-preview.redd.it/9hsgI-Oy1GZID-hp2Dt6pO17NNwccB1YkYFZ_Wxgg_I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f285b8173734569173be8590b0b1dd821110ad7b" alt="U.S. funding freeze threatens Ukraine investigations of alleged Russian war crimes" title="U.S. funding freeze threatens Ukraine investigations of alleged Russian war crimes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CapKharimwa"> /u/CapKharimwa </a> <br/> <span><a href="https://www.reuters.com/world/europe/us-funding-freeze-threatens-investigations-alleged-russian-war-crimes-ukraine-2025-02-10/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq1a1u/us_funding_freeze_threatens_ukraine/">[comments]</a></span> </td></tr></table>
+
+## German drone manufacturer Quantum Systems plans to double production in Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1iq0xn7/german_drone_manufacturer_quantum_systems_plans](https://www.reddit.com/r/worldnews/comments/1iq0xn7/german_drone_manufacturer_quantum_systems_plans)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:05:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq0xn7/german_drone_manufacturer_quantum_systems_plans/"> <img src="https://external-preview.redd.it/wqz2n-4qxdUFxcy654QprFZGrpOgHs5uiqnG9GDneAE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1268cac86d35fb01981c4632fd02db2611fbc4d" alt="German drone manufacturer Quantum Systems plans to double production in Ukraine" title="German drone manufacturer Quantum Systems plans to double production in Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdSpecialist6598"> /u/AdSpecialist6598 </a> <br/> <span><a href="https://kyivindependent.com/german-drone-manufacturer-quantum-systems-plans-to-double-production-in-ukraine/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq0xn7/german_drone_manufacturer_quantum_systems_plans/">[comments]</a></span> </td></tr></table>
+
+## Russia must withdraw its troops to February 2022 line, Zelenskyy says
+ - [https://www.reddit.com/r/worldnews/comments/1iq0kli/russia_must_withdraw_its_troops_to_february_2022](https://www.reddit.com/r/worldnews/comments/1iq0kli/russia_must_withdraw_its_troops_to_february_2022)
+ - RSS feed: $source
+ - date published: 2025-02-15T12:44:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iq0kli/russia_must_withdraw_its_troops_to_february_2022/"> <img src="https://external-preview.redd.it/yA0UPAwqjg9bTOdxBffj3eQaOPU0QUwtEfKWkz3mDZU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=43c91376326dff9c270daef52c535cc6ed866723" alt="Russia must withdraw its troops to February 2022 line, Zelenskyy says" title="Russia must withdraw its troops to February 2022 line, Zelenskyy says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://www.pravda.com.ua/eng/news/2025/02/15/7498475/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iq0kli/russia_must_withdraw_its_troops_to_february_2022/">[comments]</a></span> </td></tr></table>
+
+## 'Time has come': Zelenskyy demands creation of 'armed forces of Europe' - The Times of India
+ - [https://www.reddit.com/r/worldnews/comments/1ipzu0h/time_has_come_zelenskyy_demands_creation_of_armed](https://www.reddit.com/r/worldnews/comments/1ipzu0h/time_has_come_zelenskyy_demands_creation_of_armed)
+ - RSS feed: $source
+ - date published: 2025-02-15T11:55:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ipzu0h/time_has_come_zelenskyy_demands_creation_of_armed/"> <img src="https://external-preview.redd.it/mb4g3Lzc6711gLVV6iKxPbPDmoT_qeknIq8rvv3rGV0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df363d5dc4a5b2ee9f5caff3e899686e6df970e8" alt="'Time has come': Zelenskyy demands creation of 'armed forces of Europe' - The Times of India" title="'Time has come': Zelenskyy demands creation of 'armed forces of Europe' - The Times of India" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/edw_meow"> /u/edw_meow </a> <br/> <span><a href="https://timesofindia.indiatimes.com/world/europe/time-has-come-zelenskyy-demands-creation-of-armed-forces-of-europe/articleshow/118276188.cms">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ipzu0h/time_has_come_zelenskyy_demands_creation_of_armed/">[comments]</a></span> </td></tr></table>
+
+## China tells EU it is willing to enhance communication
+ - [https://www.reddit.com/r/worldnews/comments/1ipynfo/china_tells_eu_it_is_willing_to_enhance](https://www.reddit.com/r/worldnews/comments/1ipynfo/china_tells_eu_it_is_willing_to_enhance)
+ - RSS feed: $source
+ - date published: 2025-02-15T10:29:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ipynfo/china_tells_eu_it_is_willing_to_enhance/"> <img src="https://external-preview.redd.it/YAV5eaosprfzlnoQ8-88DgBIDUNKk7P2IxczPqLTZmY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e3b6d32dad2b129f47a1455e0a100ccc12c51bd" alt="China tells EU it is willing to enhance communication" title="China tells EU it is willing to enhance communication" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rockycrab"> /u/rockycrab </a> <br/> <span><a href="https://www.reuters.com/world/china-tells-eu-it-is-willing-enhance-communication-2025-02-15/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ipynfo/china_tells_eu_it_is_willing_to_enhance/">[comments]</a></span> </td></tr></table>
+
+## As Georgia slides into authoritarianism, protesters vow to keep fighting Russian pivot
+ - [https://www.reddit.com/r/worldnews/comments/1ipy2ku/as_georgia_slides_into_authoritarianism](https://www.reddit.com/r/worldnews/comments/1ipy2ku/as_georgia_slides_into_authoritarianism)
+ - RSS feed: $source
+ - date published: 2025-02-15T09:45:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ipy2ku/as_georgia_slides_into_authoritarianism/"> <img src="https://external-preview.redd.it/P86XIURFgTg9p-E2xGI1rvEX87pVfPmYUSsrV0DRlNU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ad9d9be46fc926aa07e1938ab75de0fa2888d55" alt="As Georgia slides into authoritarianism, protesters vow to keep fighting Russian pivot" title="As Georgia slides into authoritarianism, protesters vow to keep fighting Russian pivot" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/perplexed-redditor"> /u/perplexed-redditor </a> <br/> <span><a href="https://www.cnn.com/2025/02/15/europe/georgia-protests-authoritarianism-fears-intl-cmd/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ipy2ku/as_georgia_slides_into_authoritarianism/">[comments]</a></span> </td></tr></table>
+
+## Zelensky ‘politely declines’ to sign agreement granting U.S. mining rights for half of Ukraine’s ‘future mineral reserves’
+ - [https://www.reddit.com/r/worldnews/comments/1ipvmju/zelensky_politely_declines_to_sign_agreement](https://www.reddit.com/r/worldnews/comments/1ipvmju/zelensky_politely_declines_to_sign_agreement)
+ - RSS feed: $source
+ - date published: 2025-02-15T06:40:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ipvmju/zelensky_politely_declines_to_sign_agreement/"> <img src="https://external-preview.redd.it/g5GpjRR2wyVhxlV2J4Y-DEGNO9MsVYfL_Ly_KZhAFt8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e1c1fd5fcb8faaa3161484f5c9d4a204731ebb3" alt="Zelensky ‘politely declines’ to sign agreement granting U.S. mining rights for half of Ukraine’s ‘future mineral reserves’" title="Zelensky ‘politely declines’ to sign agreement granting U.S. mining rights for half of Ukraine’s ‘future mineral reserves’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PrithvinathReddy"> /u/PrithvinathReddy </a> <br/> <span><a href="https://meduza.io/en/news/2025/02/15/zelensky-politely-declines-to-sign-agreement-granting-u-s-mining-rights-for-half-of-ukraine-s-future-mineral-reserves">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ipvmju/zelensky_politely_declines_to_sign_agreeme
+
+## Zelenskyy tells Vance Ukraine needs ‘security guarantees’ before any Putin talks
+ - [https://www.reddit.com/r/worldnews/comments/1ipuwng/zelenskyy_tells_vance_ukraine_needs_security](https://www.reddit.com/r/worldnews/comments/1ipuwng/zelenskyy_tells_vance_ukraine_needs_security)
+ - RSS feed: $source
+ - date published: 2025-02-15T05:50:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ipuwng/zelenskyy_tells_vance_ukraine_needs_security/"> <img src="https://external-preview.redd.it/LNWf5tLiCG2nsR-ei0ehmnmt7LanpZMXuKp73yzQnBQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8fdedcc9786f9c37af1f567252b88277867812cf" alt="Zelenskyy tells Vance Ukraine needs ‘security guarantees’ before any Putin talks" title="Zelenskyy tells Vance Ukraine needs ‘security guarantees’ before any Putin talks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Positive_Owl_2024"> /u/Positive_Owl_2024 </a> <br/> <span><a href="https://www.theguardian.com/world/2025/feb/14/zelenskyy-jd-vance-ukraine-security-guarantees-putin-talks">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ipuwng/zelenskyy_tells_vance_ukraine_needs_security/">[comments]</a></span> </td></tr></table>
+
+## Zelenskiy says Russian drone damages Chornobyl plant's radiation shield
+ - [https://www.reddit.com/r/worldnews/comments/1iptubg/zelenskiy_says_russian_drone_damages_chornobyl](https://www.reddit.com/r/worldnews/comments/1iptubg/zelenskiy_says_russian_drone_damages_chornobyl)
+ - RSS feed: $source
+ - date published: 2025-02-15T04:42:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iptubg/zelenskiy_says_russian_drone_damages_chornobyl/"> <img src="https://external-preview.redd.it/ISwZa8QgTyNUZZsSDnEh6gR9he4JZLvtqQWQniSmf9E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bff5c19a58cb2ecf87097abef36a5ce8ca133541" alt="Zelenskiy says Russian drone damages Chornobyl plant's radiation shield" title="Zelenskiy says Russian drone damages Chornobyl plant's radiation shield" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/St_Gregory_Nazianzus"> /u/St_Gregory_Nazianzus </a> <br/> <span><a href="https://www.reuters.com/world/europe/russian-drone-attack-damages-chornobyl-nuclear-plants-shelter-zelenskiy-says-2025-02-14/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iptubg/zelenskiy_says_russian_drone_damages_chornobyl/">[comments]</a></span> </td></tr></table>
+
+## Trump officials pitch Zelenskyy on U.S. owning 50% of Ukraine's rare earth minerals
+ - [https://www.reddit.com/r/worldnews/comments/1iptcsp/trump_officials_pitch_zelenskyy_on_us_owning_50](https://www.reddit.com/r/worldnews/comments/1iptcsp/trump_officials_pitch_zelenskyy_on_us_owning_50)
+ - RSS feed: $source
+ - date published: 2025-02-15T04:12:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iptcsp/trump_officials_pitch_zelenskyy_on_us_owning_50/"> <img src="https://external-preview.redd.it/xp70MnbBbq4qvp9fl02ci_F1717sDgPlEqPX9d92x24.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b203a4f214c73055b922f57b529920f1dc842b15" alt="Trump officials pitch Zelenskyy on U.S. owning 50% of Ukraine's rare earth minerals" title="Trump officials pitch Zelenskyy on U.S. owning 50% of Ukraine's rare earth minerals" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/die_mannequin"> /u/die_mannequin </a> <br/> <span><a href="https://www.nbcnews.com/politics/national-security/trump-officials-us-owning-half-ukraine-rare-earth-minerals-rcna192325">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iptcsp/trump_officials_pitch_zelenskyy_on_us_owning_50/">[comments]</a></span> </td></tr></table>
+
+## JD Vance breaks taboo by meeting with leader of Germany’s far-right party
+ - [https://www.reddit.com/r/worldnews/comments/1iptbgj/jd_vance_breaks_taboo_by_meeting_with_leader_of](https://www.reddit.com/r/worldnews/comments/1iptbgj/jd_vance_breaks_taboo_by_meeting_with_leader_of)
+ - RSS feed: $source
+ - date published: 2025-02-15T04:10:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iptbgj/jd_vance_breaks_taboo_by_meeting_with_leader_of/"> <img src="https://external-preview.redd.it/tk4dQrMCH1TpECnfZOq8_FhEjNJUetEyoiZDxoNvigo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4b715bbd66995d1d28e5341cd5f1b173691f3c29" alt="JD Vance breaks taboo by meeting with leader of Germany’s far-right party" title="JD Vance breaks taboo by meeting with leader of Germany’s far-right party" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Infidel8"> /u/Infidel8 </a> <br/> <span><a href="https://www.theguardian.com/us-news/2025/feb/14/jd-vance-alice-weidel-meeting-germany-far-right">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iptbgj/jd_vance_breaks_taboo_by_meeting_with_leader_of/">[comments]</a></span> </td></tr></table>
+
+## Trump unsure why Modi and Musk met during the Indian PM’s U.S. visit
+ - [https://www.reddit.com/r/worldnews/comments/1ipstaj/trump_unsure_why_modi_and_musk_met_during_the](https://www.reddit.com/r/worldnews/comments/1ipstaj/trump_unsure_why_modi_and_musk_met_during_the)
+ - RSS feed: $source
+ - date published: 2025-02-15T03:40:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ipstaj/trump_unsure_why_modi_and_musk_met_during_the/"> <img src="https://external-preview.redd.it/kqefJyD7RSOC5K52PAf_ZrFMGK07mTE7PUuSuzTJDY4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1817982df2239765c7585cf3a02b0c2c3b116df3" alt="Trump unsure why Modi and Musk met during the Indian PM’s U.S. visit" title="Trump unsure why Modi and Musk met during the Indian PM’s U.S. visit" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/4920185"> /u/4920185 </a> <br/> <span><a href="https://nationalpost.com/news/world/trump-musk-modi-us-visit">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ipstaj/trump_unsure_why_modi_and_musk_met_during_the/">[comments]</a></span> </td></tr></table>
+
+## Zelenskyy: I told Trump that Putin is a liar
+ - [https://www.reddit.com/r/worldnews/comments/1ips9ez/zelenskyy_i_told_trump_that_putin_is_a_liar](https://www.reddit.com/r/worldnews/comments/1ips9ez/zelenskyy_i_told_trump_that_putin_is_a_liar)
+ - RSS feed: $source
+ - date published: 2025-02-15T03:08:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ips9ez/zelenskyy_i_told_trump_that_putin_is_a_liar/"> <img src="https://external-preview.redd.it/tAUodut21IjCk-Ii8XS8cJZZ29VwwTq7OwYT_oRkm4c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f809c712742717b609212c4634546ad11961f9a" alt="Zelenskyy: I told Trump that Putin is a liar" title="Zelenskyy: I told Trump that Putin is a liar" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CapKharimwa"> /u/CapKharimwa </a> <br/> <span><a href="https://www.pravda.com.ua/eng/news/2025/02/14/7498367/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ips9ez/zelenskyy_i_told_trump_that_putin_is_a_liar/">[comments]</a></span> </td></tr></table>
+
+## Astronauts give their own account- not abandoned by Biden administration
+ - [https://www.reddit.com/r/worldnews/comments/1iprep4/astronauts_give_their_own_account_not_abandoned](https://www.reddit.com/r/worldnews/comments/1iprep4/astronauts_give_their_own_account_not_abandoned)
+ - RSS feed: $source
+ - date published: 2025-02-15T02:20:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iprep4/astronauts_give_their_own_account_not_abandoned/"> <img src="https://external-preview.redd.it/tskCvPWznBYefw3IpmO5OIzCMX1SfBaYUTAUM8Asdy4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9da9ee9158cf47fa96a3278720468f137ee5c9ef" alt="Astronauts give their own account- not abandoned by Biden administration" title="Astronauts give their own account- not abandoned by Biden administration" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ScarletLetterXYZ"> /u/ScarletLetterXYZ </a> <br/> <span><a href="https://www.newsweek.com/astronauts-stuck-space-refute-trump-claim-iss-2031187">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iprep4/astronauts_give_their_own_account_not_abandoned/">[comments]</a></span> </td></tr></table>
+
+## Angle grinder used to cut telecommunications cable to Northern Norway military airbase
+ - [https://www.reddit.com/r/worldnews/comments/1ipqzpt/angle_grinder_used_to_cut_telecommunications](https://www.reddit.com/r/worldnews/comments/1ipqzpt/angle_grinder_used_to_cut_telecommunications)
+ - RSS feed: $source
+ - date published: 2025-02-15T01:57:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ipqzpt/angle_grinder_used_to_cut_telecommunications/"> <img src="https://external-preview.redd.it/39EQMgB28h352nbLITpSAbHaOwZ3kFHCcz9v6WHksCw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2be06ac869f7fd08f4a0eef5e45238aa1ed8ddc1" alt="Angle grinder used to cut telecommunications cable to Northern Norway military airbase" title="Angle grinder used to cut telecommunications cable to Northern Norway military airbase" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gjrts"> /u/Gjrts </a> <br/> <span><a href="https://www.thebarentsobserver.com/security/angle-grinder-used-to-cut-telecommunications-cable-to-natos-northernmost-qra-base/424730">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ipqzpt/angle_grinder_used_to_cut_telecommunications/">[comments]</a></span> </td></tr></table>
+
+## Russian Drone Operators Set Up In A Village Near The Ukrainian Border. So The Ukrainian Air Force Bombed The Village
+ - [https://www.reddit.com/r/worldnews/comments/1ipqq1v/russian_drone_operators_set_up_in_a_village_near](https://www.reddit.com/r/worldnews/comments/1ipqq1v/russian_drone_operators_set_up_in_a_village_near)
+ - RSS feed: $source
+ - date published: 2025-02-15T01:42:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ipqq1v/russian_drone_operators_set_up_in_a_village_near/"> <img src="https://external-preview.redd.it/XCaA9QISv7947WHfGNc2R5gsDDOqF_FDT_CAuZIXmEE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8679574f484bca4461ee02408f998a62a5e3a91" alt="Russian Drone Operators Set Up In A Village Near The Ukrainian Border. So The Ukrainian Air Force Bombed The Village" title="Russian Drone Operators Set Up In A Village Near The Ukrainian Border. So The Ukrainian Air Force Bombed The Village" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AndroidOne1"> /u/AndroidOne1 </a> <br/> <span><a href="https://www.forbes.com/sites/davidaxe/2025/02/14/russian-drone-operators-set-up-in-a-village-near-the-ukrainian-border-so-the-ukrainian-air-force-bombed-the-village/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ipqq1v/russian_drone_operators_set_up_in_a_village_near/
+
+## Ukraine has low chance of survival without US backing, Zelenskiy says on NBC
+ - [https://www.reddit.com/r/worldnews/comments/1ipoxy3/ukraine_has_low_chance_of_survival_without_us](https://www.reddit.com/r/worldnews/comments/1ipoxy3/ukraine_has_low_chance_of_survival_without_us)
+ - RSS feed: $source
+ - date published: 2025-02-15T00:09:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ipoxy3/ukraine_has_low_chance_of_survival_without_us/"> <img src="https://external-preview.redd.it/a2pyckSBo-uSy8puvA-M7XhXziOEeA_PRwxi_LFSqnw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c6bdf008fe296f98f85e84b5a39a2619239819b" alt="Ukraine has low chance of survival without US backing, Zelenskiy says on NBC" title="Ukraine has low chance of survival without US backing, Zelenskiy says on NBC" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/die_mannequin"> /u/die_mannequin </a> <br/> <span><a href="https://www.reuters.com/world/europe/ukraine-has-low-chance-survival-without-us-backing-zelenskiy-says-nbc-2025-02-14/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ipoxy3/ukraine_has_low_chance_of_survival_without_us/">[comments]</a></span> </td></tr></table>
+

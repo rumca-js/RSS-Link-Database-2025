@@ -1,0 +1,345 @@
+# Source:GNU/Linux Gaming on Reddit, URL:https://www.reddit.com/r/linux_gaming/.rss, language:
+
+## Favorite distros for most people who just wanna daily drive a gaming rig?
+ - [https://www.reddit.com/r/linux_gaming/comments/1iqcf23/favorite_distros_for_most_people_who_just_wanna](https://www.reddit.com/r/linux_gaming/comments/1iqcf23/favorite_distros_for_most_people_who_just_wanna)
+ - RSS feed: $source
+ - date published: 2025-02-15T21:50:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>By most people I saw the average, I don&#39;t wanna scour chat boards and docs to figure out random issues that pop up for hours at a time and I don&#39;t wanna be forced to do terminal commands people. The people who want a GUI focused, everything they need either included or easily added kinda people.</p> <p>You know, the average Joe who wants the plug and play experience.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Open-Egg1732"> /u/Open-Egg1732 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iqcf23/favorite_distros_for_most_people_who_just_wanna/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iqcf23/favorite_distros_for_most_people_who_just_wanna/">[comments]</a></span>
+
+## i am building a steambox to stream my games from my main pc on my tv and also play some lighter games like the arkham trilogy and far cry 3, which os will give me a smoother experience on a gtx 750 ti?
+ - [https://www.reddit.com/r/linux_gaming/comments/1iqc4us/i_am_building_a_steambox_to_stream_my_games_from](https://www.reddit.com/r/linux_gaming/comments/1iqc4us/i_am_building_a_steambox_to_stream_my_games_from)
+ - RSS feed: $source
+ - date published: 2025-02-15T21:38:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>i managed to gather (from aliexpress and office pcs found next to the dumpster) a quite fast windows 10 pc for next to nothing and i squeezed everything with a pcie riser inside an old optiplex gx60 clamshell case that looks like a big xbox360, the components are:</p> <p>xeon e3 1220v2 (kinda like a third gen i5)</p> <p>16gb ddr3 1866(capped at 1600 by the xeon)</p> <p>random 500w office psu that has only a 6 pin (if it burns i lose like the 15$ i spent in total)</p> <p>128gb ssd</p> <p>and the best gpu i could get for free is a gtx 750ti, the only other option is try to get a polaris gpu for around 40$ but it&#39;s not worth and i don&#39;t have the psu or cpu power for it (not risking in that tight space with a molex adapter)</p> <p>my question is, since this is a very old maxwell gpu and i don&#39;t know if it still gets driver updates because i know next to nothing about nvidia gpus, will i be able to like boot directly into big picture mode or g
+
+## Need some advice on GPU!!
+ - [https://www.reddit.com/r/linux_gaming/comments/1iqc4mt/need_some_advice_on_gpu](https://www.reddit.com/r/linux_gaming/comments/1iqc4mt/need_some_advice_on_gpu)
+ - RSS feed: $source
+ - date published: 2025-02-15T21:38:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I just build my new PC and I want to switch to Bazzite. My GPU is a 3080 and I game on a 2k monitor. Thing is, my boyfriend bought himself a 7900xtx and he has a 6800 laying around. I understand that AMD works better on Linux. Should I use my nvidia GPU, or should I use my boyfriends 6800 instead?</p> <p>I haven&#39;t installed anything yet because we don&#39;t have broadband at the moment! </p> <p>Thanks!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Anxious-Guidance5189"> /u/Anxious-Guidance5189 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iqc4mt/need_some_advice_on_gpu/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iqc4mt/need_some_advice_on_gpu/">[comments]</a></span>
+
+## Will we ever see improvements towards the large size of Proton prefixes in the future?
+ - [https://www.reddit.com/r/linux_gaming/comments/1iqb5fo/will_we_ever_see_improvements_towards_the_large](https://www.reddit.com/r/linux_gaming/comments/1iqb5fo/will_we_ever_see_improvements_towards_the_large)
+ - RSS feed: $source
+ - date published: 2025-02-15T20:55:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m at the point where finally I can run Linux as a daily driver, and my games run fine... but the sizes of Proton prefix folders is absolutely killing me. I only have a few small, sub-500MB games installed and I&#39;m already racking up gigabytes&#39; worth of Proton prefixes.</p> <p>I&#39;m on a BTRFS drive and I keep hearing about deduplication but for some reason I can never get that working, and it doesn&#39;t seem like it would drastically reduce file sizes. With the strides Proton&#39;s been making, will we ever see these prefixes become smaller over time?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ScootSchloingo"> /u/ScootSchloingo </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iqb5fo/will_we_ever_see_improvements_towards_the_large/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iqb5fo/will_we_ever_see_improvements_towards_the_l
+
+## Path of Exile 2 On Linux | Act 2 Gameplay footage
+ - [https://www.reddit.com/r/linux_gaming/comments/1iqarku/path_of_exile_2_on_linux_act_2_gameplay_footage](https://www.reddit.com/r/linux_gaming/comments/1iqarku/path_of_exile_2_on_linux_act_2_gameplay_footage)
+ - RSS feed: $source
+ - date published: 2025-02-15T20:38:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1iqarku/path_of_exile_2_on_linux_act_2_gameplay_footage/"> <img src="https://external-preview.redd.it/plv2pDMPgSF2KV75Drel6Ma8qeEkdnpVji4_xd-rZKo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=912ce344b4c717563b0b99db79e1abc881adc90e" alt="Path of Exile 2 On Linux | Act 2 Gameplay footage" title="Path of Exile 2 On Linux | Act 2 Gameplay footage" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pajausk"> /u/pajausk </a> <br/> <span><a href="https://www.youtube.com/watch?v=i5-zZkyfkQo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iqarku/path_of_exile_2_on_linux_act_2_gameplay_footage/">[comments]</a></span> </td></tr></table>
+
+## A CALL TO ACTION FROM MBUCCHIA - Meta is attacking the 'Open' nature of OpenXR and degrading non-Meta headsets' PC VR experience!
+ - [https://www.reddit.com/r/linux_gaming/comments/1iqantn/a_call_to_action_from_mbucchia_meta_is_attacking](https://www.reddit.com/r/linux_gaming/comments/1iqantn/a_call_to_action_from_mbucchia_meta_is_attacking)
+ - RSS feed: $source
+ - date published: 2025-02-15T20:34:21+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Reonu_"> /u/Reonu_ </a> <br/> <span><a href="/r/virtualreality/comments/1iptqd4/a_call_to_action_from_mbucchia_meta_is_attacking/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iqantn/a_call_to_action_from_mbucchia_meta_is_attacking/">[comments]</a></span>
+
+## Extremely high Ping in Left 4 Dead 2
+ - [https://www.reddit.com/r/linux_gaming/comments/1iqah1a/extremely_high_ping_in_left_4_dead_2](https://www.reddit.com/r/linux_gaming/comments/1iqah1a/extremely_high_ping_in_left_4_dead_2)
+ - RSS feed: $source
+ - date published: 2025-02-15T20:25:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know I should probably post this on the Left 4 Dead 2 subreddit, but I wanted to ask here first. I recently switched from Windows 11 to Fedora 41 Workstation, and overall, my experience has been great. However, since moving to Fedora, my ping in every game I join has skyrocketed from a stable 20-30 ms to an unplayable 400-600 ms. I&#39;m running the native Linux port btw.</p> <p>I know it&#39;s not the servers because I keep connecting to the same ones (Official VALVe Latam servers, specifically in Peru). Is there something I need to configure to fix this, or could this be an issue with Valve&#39;s servers or the linux port? I have only tried Team Fortress 2 Classic and it seems that the connection is completely the same as when I had Windows. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MyOnlyDummy"> /u/MyOnlyDummy </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iqah1a/extremely_
+
+## How to move my games from a different PC to heroic?
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq9pzk/how_to_move_my_games_from_a_different_pc_to_heroic](https://www.reddit.com/r/linux_gaming/comments/1iq9pzk/how_to_move_my_games_from_a_different_pc_to_heroic)
+ - RSS feed: $source
+ - date published: 2025-02-15T19:53:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>With most game stores such as steam and epic on Windows, I could start a download, then quit and copy the game files manually, reopen and it would just validate the files.</p> <p>When I do the same with heroic, it downloads from the internet anyway.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/khald0r"> /u/khald0r </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq9pzk/how_to_move_my_games_from_a_different_pc_to_heroic/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq9pzk/how_to_move_my_games_from_a_different_pc_to_heroic/">[comments]</a></span>
+
+## hey folk, since getting modding for ATLYSS working, i think im more open to using linux for gaming as i got my recent indie favorite working perfectly, now, id like to ask how to play a miles older title because ive heard, quite nice things i heard of it, Frontier: Elite II
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq8biz/hey_folk_since_getting_modding_for_atlyss_working](https://www.reddit.com/r/linux_gaming/comments/1iq8biz/hey_folk_since_getting_modding_for_atlyss_working)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:52:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>i must say, im from 2006, i have zero experience with things like dos and such, but im sure experimenting with linux and android for a good bit of years will be of help here, id like to know how i can get dos games running under linux</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TerrorSyxke"> /u/TerrorSyxke </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq8biz/hey_folk_since_getting_modding_for_atlyss_working/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq8biz/hey_folk_since_getting_modding_for_atlyss_working/">[comments]</a></span>
+
+## Can anyone help me debug this?
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq88ka/can_anyone_help_me_debug_this](https://www.reddit.com/r/linux_gaming/comments/1iq88ka/can_anyone_help_me_debug_this)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:49:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>i am trying to run The Elder Scrolls IV: Oblivion from dodi using lutris but i am facing the following error:</p> <p>Alice@archlinux:~$ lutris<br/> 2025-02-16 00:14:39,683: Starting Lutris 0.5.18<br/> 2025-02-16 00:14:39,720: &quot;card1&quot; is Intel UHD Graphics 620 (8086:3ea0 1028:08bc i91<br/> 5) Driver 24.3.4<br/> lutris-wrapper: Elder Scrolls Olivion<br/> Started initial process 32955 from /home/Alice/.local/share/lutris/runners/wine/win<br/> e-ge-8-26-x86_64/bin/wine /home/Alice/.wine/drive_c/GOG Games/Oblivion/Oblivion.exe<br/> Start monitoring process.<br/> fsync: up and running.<br/> wine: RLIMIT_NICE is &lt;= 20, unable to use setpriority safely<br/> info: Game: Oblivion.exe<br/> info: DXVK: v2.4.1<br/> info: Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6fa838c0<br/> info: Built-in extension providers:<br/> info: Platform WSI<br/> info: OpenVR<br/> info: OpenXR<br/> info: OpenVR: could not open registry key, status 2<br/> inf
+
+## MH: Wilds - Controller issues
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq7ssy/mh_wilds_controller_issues](https://www.reddit.com/r/linux_gaming/comments/1iq7ssy/mh_wilds_controller_issues)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:29:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everybody, just wanted to give people a heads up.</p> <p>In addition to the graphic configuration tweaks you will have to make to play the game on linux, be aware there is also some weird stuff going on with controllers. My Switch pro controller worked fine during the beta back in November, but now it is all configured to the point I can&#39;t play and I can&#39;t seem to find a solution. </p> <p>My home button is the back button. When I get in game, I can&#39;t move around as my joy stick is controlling my ammo and item wheels not movement.</p> <p>I booted up my windows drive to do a test and the controller seems to be working (can&#39;t use d-pad in the menus which is weird) but I can actually play, seems a bit more stable too but I didn&#39;t play too much with the graphics on my Zorin drive. </p> <p>Anybody else having similar issues. I figured it may be some weird configuration option but I have tried things through both steam and ingame, an
+
+## Gnome Has been working Hard for HDR10+ support for Gnome 48
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq7dsl/gnome_has_been_working_hard_for_hdr10_support_for](https://www.reddit.com/r/linux_gaming/comments/1iq7dsl/gnome_has_been_working_hard_for_hdr10_support_for)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:11:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1iq7dsl/gnome_has_been_working_hard_for_hdr10_support_for/"> <img src="https://external-preview.redd.it/wnwdtnLfyHGDw8XqxnWW7gKUKA8H1nfju7wtnqiR9zk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2a13ef10ec8524c76236c67dd59f09bbdac067e6" alt="Gnome Has been working Hard for HDR10+ support for Gnome 48" title="Gnome Has been working Hard for HDR10+ support for Gnome 48" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mindtaker_linux"> /u/mindtaker_linux </a> <br/> <span><a href="https://www.youtube.com/watch?v=6Y41Ty2EFds">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq7dsl/gnome_has_been_working_hard_for_hdr10_support_for/">[comments]</a></span> </td></tr></table>
+
+## Screen Profiler, an alternative to "Monitor Profile Switcher" on windows. (Wayland)
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq7dj7/screen_profiler_an_alternative_to_monitor_profile](https://www.reddit.com/r/linux_gaming/comments/1iq7dj7/screen_profiler_an_alternative_to_monitor_profile)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:11:01+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://github.com/Kakiharu/screenprofiler">https://github.com/Kakiharu/screenprofiler</a></p> <p>Screen Profiler is a little script I put together for saving what monitors you have on, what settings and resolutions. Which one is primary and what ones are off.</p> <p>It takes a json snapshot from kscreen and translates it into kscreen-doctor to save and load your monitor setups.</p> <p>I mostly use it to turn off my monitors and enable the dummy hdmi plug at 800p for my steam deck remote play/desktop using sunshine.</p> <p>To get started, use the KDE display configuration to set up your screens exactly as you like them. Once everything looks perfect, run the script to save your configuration. Now, you can easily switch between any of your saved configurations whenever you need to.</p> <p>I&#39;ve been making my final transition to Linux from windows and have been having a hard time finding a simple solution to saving monitor positions/settin
+
+## Lmao what (Grip: Combat Racing)
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq798o/lmao_what_grip_combat_racing](https://www.reddit.com/r/linux_gaming/comments/1iq798o/lmao_what_grip_combat_racing)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:05:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1iq798o/lmao_what_grip_combat_racing/"> <img src="https://preview.redd.it/slq7r8xuecje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c6aedd3feaff195a41aa28b3d22c9c86c6bc80bc" alt="Lmao what (Grip: Combat Racing)" title="Lmao what (Grip: Combat Racing)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zatujit"> /u/Zatujit </a> <br/> <span><a href="https://i.redd.it/slq7r8xuecje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq798o/lmao_what_grip_combat_racing/">[comments]</a></span> </td></tr></table>
+
+## Successful Ubuntu Install on Dell G16 with NVIDIA
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq72fy/successful_ubuntu_install_on_dell_g16_with_nvidia](https://www.reddit.com/r/linux_gaming/comments/1iq72fy/successful_ubuntu_install_on_dell_g16_with_nvidia)
+ - RSS feed: $source
+ - date published: 2025-02-15T17:57:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>BLUF: This is our successful configuration</p> <pre><code>OS: Ubuntu 24.10 Type: 64-bit Kernel: 6.11.0-14-generic Hardware: Dell G16 7630 Firmware: 1.18.0 RAM: 16GB CPU: i7-13650HX GPU: NVIDIA RTX 4050 Laptop Driver: 560.35.03 </code></pre> <p>For background, Studio Dhjamb wasn&#39;t initially interested in a Dell machine for a budget development and demo laptop, but when we saw a significant sale, we took our chances on a Dell G16 7630. We knew going in it would have challenges running our preferred dev OS and software but we didn&#39;t want to shy from Linux challenges and found many resources that appeared to offer solutions.</p> <p>We saw forum posts that overwhelmingly indicated issues with Ubuntu 24.04 on a G15/G16, and recommended 22.04 instead. Further, recommendations were to use Linux kernel 6.8 or previous. Indeed the best-fit Ubuntu certification: <a href="https://ubuntu.com/certified/202212-31030">https://ubuntu.com/certified/202212-3103
+
+## Lots of net jitter in games
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq504r/lots_of_net_jitter_in_games](https://www.reddit.com/r/linux_gaming/comments/1iq504r/lots_of_net_jitter_in_games)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:26:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>In cs2 my ping is 70 but jumps to 200 and 300 lots of times. I also have net jitter in other games too. How to fix?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdLost4647"> /u/AdLost4647 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq504r/lots_of_net_jitter_in_games/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq504r/lots_of_net_jitter_in_games/">[comments]</a></span>
+
+## I "didn't" quit my job to pursue the dream of making this game. I made it in my spare time after a full-time job, a toddler, and a newborn. It's called MEATSHOT, developed on MBP and I'll have it native on Linux as well
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq4usx/i_didnt_quit_my_job_to_pursue_the_dream_of_making](https://www.reddit.com/r/linux_gaming/comments/1iq4usx/i_didnt_quit_my_job_to_pursue_the_dream_of_making)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:19:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1iq4usx/i_didnt_quit_my_job_to_pursue_the_dream_of_making/"> <img src="https://external-preview.redd.it/OTJ5cnVlaWx2YmplMWXUajRzBhqLIshPhl3QrwKozFe-stHs7cXE7Gmmy561.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec3f9b6ff952695569a0e23a37076c883593c558" alt="I &quot;didn't&quot; quit my job to pursue the dream of making this game. I made it in my spare time after a full-time job, a toddler, and a newborn. It's called MEATSHOT, developed on MBP and I'll have it native on Linux as well" title="I &quot;didn't&quot; quit my job to pursue the dream of making this game. I made it in my spare time after a full-time job, a toddler, and a newborn. It's called MEATSHOT, developed on MBP and I'll have it native on Linux as well" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/naezith"> /u/naezith </a> <br/> <span><a href="https://v.redd.it/jg50gvhlvbje1">[link]</a></span> &#32; <span><a hr
+
+## Is there any alternative to roqol on sober roblox
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq4rza/is_there_any_alternative_to_roqol_on_sober_roblox](https://www.reddit.com/r/linux_gaming/comments/1iq4rza/is_there_any_alternative_to_roqol_on_sober_roblox)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:15:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/404_brain_not_found1"> /u/404_brain_not_found1 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq4rza/is_there_any_alternative_to_roqol_on_sober_roblox/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq4rza/is_there_any_alternative_to_roqol_on_sober_roblox/">[comments]</a></span>
+
+## Choosing a reasonable GPU for Linux
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq4dde/choosing_a_reasonable_gpu_for_linux](https://www.reddit.com/r/linux_gaming/comments/1iq4dde/choosing_a_reasonable_gpu_for_linux)
+ - RSS feed: $source
+ - date published: 2025-02-15T15:57:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>I don&#39;t game heavily, mostly things like puzzle games, csgo once in a while, and I&#39;d like to try something more demanding like Cyberpunk someday. But in general I&#39;m just a light gamer. Most of my time is spent working in Linux.</p> <p>I used to swear by RX580 8gb from Sapphire for everything, but curious as to what&#39;s out there that might fit the bill. I can handle drivers/kernel/config no problem as I run various distros but I&#39;m trying to determine a good route for an SFF ITX build. Probably a budget of $250-$300 (US)</p> <p>I don&#39;t have my system built yet, but it&#39;s likely going to be an amd 7600 cpu, 64gb ddr5 6000, and a stable itx board that works well. </p> <p>Thanks in advance for reading.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nice_Witness3525"> /u/Nice_Witness3525 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq4dde/choosing_a_reasonable_gp
+
+## How do I open x360ce
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq4b8j/how_do_i_open_x360ce](https://www.reddit.com/r/linux_gaming/comments/1iq4b8j/how_do_i_open_x360ce)
+ - RSS feed: $source
+ - date published: 2025-02-15T15:54:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello so basically x360ce is a Xbox 360 controller emulator and I&#39;m trying to play dead rising 2 with my PS4 controller and Ive heard that controllers don&#39;t work in dead rising 2 steam input doesn&#39;t even work! And call me dumb or smth but I don&#39;t know how to run programs through wine:P any help would be appreciated:)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/punished_just_man134"> /u/punished_just_man134 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq4b8j/how_do_i_open_x360ce/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq4b8j/how_do_i_open_x360ce/">[comments]</a></span>
+
+## Stuck in loop when attempting to build proton-tkg
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq3ip9/stuck_in_loop_when_attempting_to_build_protontkg](https://www.reddit.com/r/linux_gaming/comments/1iq3ip9/stuck_in_loop_when_attempting_to_build_protontkg)
+ - RSS feed: $source
+ - date published: 2025-02-15T15:18:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am attempting to build proton-tkg, however when I attempt to do so it immediately gets stuck in a loop:</p> <p>/home/tom/wine-tkg-git/wine-tkg-git/non-makepkg-build.sh: line 125: cd: /home/tom/wine-tkg-git/wine-tkg-git/wine-staging-git: No such file or directory</p> <p>==&gt; WARNING: Your wine-staging-git clone was deleted due to remote mismatch (&quot;<a href="https://gitlab.winehq.org/wine/wine-staging.git">https://gitlab.winehq.org/wine/wine-staging.git</a>&quot; differs from &quot;&quot;). Let&#39;s try again with a fresh clone.</p> <p>/home/tom/wine-tkg-git/wine-tkg-git/non-makepkg-build.sh: line 125: cd: /home/tom/wine-tkg-git/wine-tkg-git/wine-staging-git: No such file or directory</p> <p>==&gt; WARNING: Your wine-staging-git clone was deleted due to remote mismatch (&quot;<a href="https://gitlab.winehq.org/wine/wine-staging.git">https://gitlab.winehq.org/wine/wine-staging.git</a>&quot; differs from &quot;&quot;). Let&#39;s try again with a
+
+## my parents changed my windows 10 to linux while i was on vacation
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq1x7y/my_parents_changed_my_windows_10_to_linux_while_i](https://www.reddit.com/r/linux_gaming/comments/1iq1x7y/my_parents_changed_my_windows_10_to_linux_while_i)
+ - RSS feed: $source
+ - date published: 2025-02-15T14:00:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>they changed it to ubuntu 24.04 i think. does anybody know how to get my the sims 3 saves and mods back. and how to install the sims 3 in general </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Amico0o"> /u/Amico0o </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq1x7y/my_parents_changed_my_windows_10_to_linux_while_i/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq1x7y/my_parents_changed_my_windows_10_to_linux_while_i/">[comments]</a></span>
+
+## Novara | Fedora | EndeavourOS | PopOS | which one is great for gaming?
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq1v4m/novara_fedora_endeavouros_popos_which_one_is](https://www.reddit.com/r/linux_gaming/comments/1iq1v4m/novara_fedora_endeavouros_popos_which_one_is)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:57:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1iq1v4m/novara_fedora_endeavouros_popos_which_one_is/"> <img src="https://preview.redd.it/rw0wloko6bje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87059e5cec818624ae98f0d93cf0cb46a6d02803" alt="Novara | Fedora | EndeavourOS | PopOS | which one is great for gaming?" title="Novara | Fedora | EndeavourOS | PopOS | which one is great for gaming?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hi, I am new to Linux. Windows really did make gaming easy for me, it was just plug and play</p> <p>But now since I fully switched to Linux mint it is quite hard for me to run any game smoothly or even the game be displayed on the screen.</p> <p>Long story short, I am looking for a great Linux distro or one of the above I mentioned to use as a daily driver for my personal work, entertainment, and gaming.</p> <p>Maybe something that looks and feels like Linux mint.</p> <p>My specs are:</p> <p>GTX 1650</p> <p>Intel i5
+
+## Lutris keeps automatically closing the games I open.
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq1itc/lutris_keeps_automatically_closing_the_games_i](https://www.reddit.com/r/linux_gaming/comments/1iq1itc/lutris_keeps_automatically_closing_the_games_i)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:38:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1iq1itc/lutris_keeps_automatically_closing_the_games_i/"> <img src="https://b.thumbs.redditmedia.com/WPoxJs9FZRvkGIj-ZetkwLGodqiUrbSLIRDcGkudu_o.jpg" alt="Lutris keeps automatically closing the games I open." title="Lutris keeps automatically closing the games I open." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Sometimes, when I try to run a game in lutris it just stops after a while. Even though some other time it might just work.</p> <p><a href="https://preview.redd.it/53r1t6xx4bje1.png?width=635&amp;format=png&amp;auto=webp&amp;s=76a6c06a36bf76ec630e29ea257ea9eaec35df03">https://preview.redd.it/53r1t6xx4bje1.png?width=635&amp;format=png&amp;auto=webp&amp;s=76a6c06a36bf76ec630e29ea257ea9eaec35df03</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/noormohsin"> /u/noormohsin </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq1itc/lutris_k
+
+## Is it possible to run Gamesir Connect?
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq19ct/is_it_possible_to_run_gamesir_connect](https://www.reddit.com/r/linux_gaming/comments/1iq19ct/is_it_possible_to_run_gamesir_connect)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:24:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been trying to run Gamesir Connect via lutris and bottles. The app installs, but when i run it, it shows the interface and almost immediately crashes. Has anyone managed to get it working?</p> <p>PS I get &quot;wine client error:1f4: write: Bad file descriptor&quot; error</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Famberlight"> /u/Famberlight </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq19ct/is_it_possible_to_run_gamesir_connect/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq19ct/is_it_possible_to_run_gamesir_connect/">[comments]</a></span>
+
+## Insurgency Sandstorm crashes on startup due to low vram
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq0vri/insurgency_sandstorm_crashes_on_startup_due_to](https://www.reddit.com/r/linux_gaming/comments/1iq0vri/insurgency_sandstorm_crashes_on_startup_due_to)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:02:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently bought Insurgency Sandstorm on steam. When I try to launch it it shows some loading screens and crashes with a pop-up box saying something like &quot;failed to allocate render resource due to low vram&quot;. I already tried using Proton Experimental and Proton GE but it didn&#39;t help. I run a NVIDIA 1050ti (4gb of vram).</p> <p>EDIT: I run NixOS unstable and updated multiple times. NVIDIA drivers (proprietary) are on version 550.142</p> <p>Have a great day!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PythonPizzaDE"> /u/PythonPizzaDE </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq0vri/insurgency_sandstorm_crashes_on_startup_due_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq0vri/insurgency_sandstorm_crashes_on_startup_due_to/">[comments]</a></span>
+
+## run exe inside steam game context
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq0v3r/run_exe_inside_steam_game_context](https://www.reddit.com/r/linux_gaming/comments/1iq0v3r/run_exe_inside_steam_game_context)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:01:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>i want to make a game have hungarian subtitles, but it can only be done with an exe file</p> <p>i tried simply running it with wine, but since its not in the same context, it had absolutely no effect</p> <p>how can i execute it in the same context as the game, or what could have caused it not to work?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SeeMeNotFall"> /u/SeeMeNotFall </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq0v3r/run_exe_inside_steam_game_context/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq0v3r/run_exe_inside_steam_game_context/">[comments]</a></span>
+
+## It is amusing to see random driver bug when testing old hardware (HD 6970 vs Vega 56 on Superliminal)
+ - [https://www.reddit.com/r/linux_gaming/comments/1iq08wb/it_is_amusing_to_see_random_driver_bug_when](https://www.reddit.com/r/linux_gaming/comments/1iq08wb/it_is_amusing_to_see_random_driver_bug_when)
+ - RSS feed: $source
+ - date published: 2025-02-15T12:23:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1iq08wb/it_is_amusing_to_see_random_driver_bug_when/"> <img src="https://b.thumbs.redditmedia.com/b6vLI2SwcCFCbTmwoizklMsMXxibnd5ojjBVT73ktQo.jpg" alt="It is amusing to see random driver bug when testing old hardware (HD 6970 vs Vega 56 on Superliminal)" title="It is amusing to see random driver bug when testing old hardware (HD 6970 vs Vega 56 on Superliminal)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spectre_laser97"> /u/spectre_laser97 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iq08wb">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iq08wb/it_is_amusing_to_see_random_driver_bug_when/">[comments]</a></span> </td></tr></table>
+
+## Helldivers 2 resets RNDA3 gpus power/performance level
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipyvpg/helldivers_2_resets_rnda3_gpus_powerperformance](https://www.reddit.com/r/linux_gaming/comments/1ipyvpg/helldivers_2_resets_rnda3_gpus_powerperformance)
+ - RSS feed: $source
+ - date published: 2025-02-15T10:47:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>Not everyone might now know about this issue, I noticed it when overclocking my 7800XT. Helldivers 2 specifically, resets power level and prevents the GPU not to work with full capacity. For instance, my 7800XT was working 2100MHZ in game and on 2K with high settings 70FPS avarage. As you can see from the links below, there is not an official solution exists but a small workaround. With this argument (radv_force_pstate_peak_gfx11_dgpu=false) added to launch options on Steam my gpu is working ~2600MHZ and I am now in between 80-90 on planet, over 100 in the ship. You might get a FPS boost with this, post your results.</p> <p>For reference:</p> <p><a href="https://gitlab.freedesktop.org/mesa/mesa/-/issues/11046">https://gitlab.freedesktop.org/mesa/mesa/-/issues/11046</a></p> <p><a href="https://gitlab.freedesktop.org/drm/amd/-/issues/3618">https://gitlab.freedesktop.org/drm/amd/-/issues/3618</a></p> <p><a href="https://gitlab.freedesktop.org/mesa/mesa/
+
+## Recommended Linux distribution and boot loader for dual booting Steam Deck
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipyq39/recommended_linux_distribution_and_boot_loader](https://www.reddit.com/r/linux_gaming/comments/1ipyq39/recommended_linux_distribution_and_boot_loader)
+ - RSS feed: $source
+ - date published: 2025-02-15T10:35:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Looking for a few references on what alternate distribution to dual boot on SteamOS so that I can experiment with using Steam Deck as my portable PC while traveling, and simplify carrying around so much stuff. The Steam OS desktop mode is pretty janky by comparison, and is insecure as well.</p> <p>1) What are a few options I should consider as the Linux distro?</p> <p>I&#39;ve been using Linux as a daily driver on remote servers for 20 years, and used Linux as my laptop OS during grad school in the 2000s (mostly I used Ubuntu, probably 5 years on that on Thinkpads, but I also dabbled in the others). Since I&#39;ve been out of the game for a while, what distribution offers a meaningful small screen / touch screen optimization?</p> <p>I definitely want automatic TPM-protected unlock of the Linux partition, after which it authenticates the user session. I guess I could go for per-user LUKS on top of this, but that sounds kind of pointless for a personal
+
+## Black Ops 1 stuck at 1000Mhz GPU usage, very low FPS with Proton
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipy6u2/black_ops_1_stuck_at_1000mhz_gpu_usage_very_low](https://www.reddit.com/r/linux_gaming/comments/1ipy6u2/black_ops_1_stuck_at_1000mhz_gpu_usage_very_low)
+ - RSS feed: $source
+ - date published: 2025-02-15T09:54:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>Trying to play Black Ops 1 from Steam. However, the performance is trash with Proton. Because the GPU is not ramping up above 1000Mhz, nor is it going below it. It is stuck at 1000Mhz.</p> <p>GPU is Intel Arc A750. It should be at 2400MHz at 100% utilization, but it&#39;s stuck at 1000Mhz, no matter the utilization percent (goes between 20% to 75%).</p> <ul> <li><strong>OS:</strong> Arch Linux</li> <li><strong>Kernel:</strong> Linux 6.12.13-273-tkg-eevdf-llvm</li> <li><strong>Mesa:</strong> 24.3.4-arch1.1</li> </ul> <p>Tried Linux 6.13.2 kernel, same problem. Tried Mesa 25.1.0-devel (git-4064b554), same problem. Not caused by kernel or Mesa.</p> <p>Gamemode is enabled.</p> <p>I&#39;ve tried Steam Native Runtime and Steam Runtime as well, again, same problem. It doesn&#39;t seem to be caused by which libraries are used either.</p> <p>I&#39;ve also tried:</p> <ul> <li>Proton 9.0-4</li> <li>Proton Experimental</li> <li>Proton Hotfix</li> <li>proton_tkg_
+
+## I'm making a FrameGeneration App for Linux "like" Lossless Scaling and I'ts called WTF
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipxn3d/im_making_a_framegeneration_app_for_linux_like](https://www.reddit.com/r/linux_gaming/comments/1ipxn3d/im_making_a_framegeneration_app_for_linux_like)
+ - RSS feed: $source
+ - date published: 2025-02-15T09:12:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1ipxn3d/im_making_a_framegeneration_app_for_linux_like/"> <img src="https://b.thumbs.redditmedia.com/w-Ma6IyndlwuMl3ZsOMeYT-G9M_HFuS2cJgO7qUh3rc.jpg" alt="I'm making a FrameGeneration App for Linux &quot;like&quot; Lossless Scaling and I'ts called WTF" title="I'm making a FrameGeneration App for Linux &quot;like&quot; Lossless Scaling and I'ts called WTF" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/68c63dxwr9je1.png?width=500&amp;format=png&amp;auto=webp&amp;s=fbe461f4d3a35401129ceb206661707d230c1cdf">Do u Guys like it the icon art?</a></p> <p><strong><em>Let&#39;s Go!</em></strong></p> <p>I&#39;m working on it for a few days and to be honest it&#39;s advancing a lot since it is my first time coding, So I&#39;ll probably need more time, help or both, cause I have no idea of what I&#39;m doing.</p> <p>I&#39;m working on it for a few days and to be honest it&#39;s advancing
+
+## Steam deck update error
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipxj8m/steam_deck_update_error](https://www.reddit.com/r/linux_gaming/comments/1ipxj8m/steam_deck_update_error)
+ - RSS feed: $source
+ - date published: 2025-02-15T09:03:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been having trouble updating my Steam Deck to firmware 3.6.21. After trying to do it in desktop mode through the konsole, I get this error: &quot;org.freedesktop.DBus.Error: Child process exited with code 1&quot;</p> <p>Does anyone know what does it mean?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/captain7273"> /u/captain7273 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipxj8m/steam_deck_update_error/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipxj8m/steam_deck_update_error/">[comments]</a></span>
+
+## Image Sharpening on Linux
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipxiyj/image_sharpening_on_linux](https://www.reddit.com/r/linux_gaming/comments/1ipxiyj/image_sharpening_on_linux)
+ - RSS feed: $source
+ - date published: 2025-02-15T09:03:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>As many probably know, most new games are pretty blurry for a myriad of reasons. When I got my first AMD card I was so excited to find &quot;Radeon Image Sharpening&quot; (I know NVIDIA has something similar) which sharpens on a driver level (afaik? please feel free to correct me). Is there an alternative to this on Linux? I know AMD Adrenaline does not exist on Linux and while I hope that changes, I don&#39;t see it happening anytime soon. I know vkBasalt exists, but if I understood correctly it might lead to problems with anti-cheat in games such as Rocket League and might also not be maintained anymore (?).</p> <p>Does anyone have any tips for me? I would love to use Linux more for gaming after I finally got gamescope with mangohud to work on desktop mode, but I cannot live without the sharpening anymore. I can&#39;t get away from dual-booting Windows either way because of some games, but slowly transitioning more and more to Linux would be awesom
+
+## How to undervolt RX 6800 on Linux?
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipx5wu/how_to_undervolt_rx_6800_on_linux](https://www.reddit.com/r/linux_gaming/comments/1ipx5wu/how_to_undervolt_rx_6800_on_linux)
+ - RSS feed: $source
+ - date published: 2025-02-15T08:35:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1ipx5wu/how_to_undervolt_rx_6800_on_linux/"> <img src="https://b.thumbs.redditmedia.com/GjYhEapZvay9si9ABOfGWJSXOTofW3Y_XpcFM7iKnEU.jpg" alt="How to undervolt RX 6800 on Linux?" title="How to undervolt RX 6800 on Linux?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hi, I have tried CoreCtrl but that gives just these options even after I followed the setup guide and added <code>GRUB_CMDLINE_LINUX_DEFAULT=&quot;amdgpu.ppfeaturemask=0xffffffff&quot;</code> to <code>/etc/default/grub</code> and ran <code>sudo grub-mkconfig -o /boot/grub/grub.cfg</code>.</p> <p>These are the content of my <code>/etc/default/grub</code> file:</p> <pre><code>GRUB_TIMEOUT=0 GRUB_CMDLINE_LINUX_DEFAULT=&quot;amdgpu.ppfeaturemask=0xffffffff&quot; </code></pre> <p>Available settings:</p> <p><a href="https://preview.redd.it/8tlcab3sk9je1.png?width=924&amp;format=png&amp;auto=webp&amp;s=488483180d1f1f9b54ffbf0f8e84904f67a950f8">https:/
+
+## Want to switch back to linux but lack of game support makes me reluctant
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipwtte/want_to_switch_back_to_linux_but_lack_of_game](https://www.reddit.com/r/linux_gaming/comments/1ipwtte/want_to_switch_back_to_linux_but_lack_of_game)
+ - RSS feed: $source
+ - date published: 2025-02-15T08:09:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>For context, I switched to mint for a couple months on my main PC and I loved how extremely customizable and non-intrusive it was unlike windows. I want to use linux badly, because Microsoft&#39;s treatment of Windows 11 with ads being plastered everywhere on software I PAID for is ridiculous, not to mention the intrusive data collection tactics like requiring a Microsoft account and closed source-ness of it, but unfortunately im a gamer, so I caved and switched back.</p> <p>Although I know proton has made gaming far more accessible than it was in the past for Linux, kernel level anti-cheats, like in Fortnite unfortunately, make gaming outside of steam very uncertain. Proton is great, but it isn&#39;t perfect, Path of Exile (1) would crash constantly. The only thing I like about Windows is that it provides certainty that most if not all software will work on it.</p> <p>I wondered if there was an OS that had a nt-like kernel that could run windows app
+
+## Less vram detected in Linux
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipvzbm/less_vram_detected_in_linux](https://www.reddit.com/r/linux_gaming/comments/1ipvzbm/less_vram_detected_in_linux)
+ - RSS feed: $source
+ - date published: 2025-02-15T07:05:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Intel 4400 HD graphics I use cachy os wayland Kde plasma Using lspci I get detected vram is 1536mB where as it should 2048mb like in windows </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FragrantDeparture357"> /u/FragrantDeparture357 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipvzbm/less_vram_detected_in_linux/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipvzbm/less_vram_detected_in_linux/">[comments]</a></span>
+
+## will 2000s/2010s Windows game work on Linux (Mint)?
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipvz12/will_2000s2010s_windows_game_work_on_linux_mint](https://www.reddit.com/r/linux_gaming/comments/1ipvz12/will_2000s2010s_windows_game_work_on_linux_mint)
+ - RSS feed: $source
+ - date published: 2025-02-15T07:04:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a new Lenovo M715q with a Ryzen 5 2400ge, 8gb ram, and 512gb hdd. I&#39;ve tried in the past to play already installed and known to work, Windows games, but haven&#39;t tried any harder because it&#39;s just easier on Windows.</p> <p>The games are stored on an external harddrive since they&#39;re super lightweight and probably alright to be ran on slow harddrives anyway. They&#39;re not authentic games from GOG/Steam/CDs, but they seem to do the job when played on Windows and somewhat close to the originals (I&#39;m guessing).</p> <p>I&#39;m using Linux Mint and I think Wine is installed already. any software/tips/guides to get started?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/upsidedown_aifamgepj"> /u/upsidedown_aifamgepj </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipvz12/will_2000s2010s_windows_game_work_on_linux_mint/">[link]</a></span> &#32; <span><a href="https://
+
+## Enforcing the new DLSS4 presets via clear text overrides (no mods, no extra tools needed)
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipvb8f/enforcing_the_new_dlss4_presets_via_clear_text](https://www.reddit.com/r/linux_gaming/comments/1ipvb8f/enforcing_the_new_dlss4_presets_via_clear_text)
+ - RSS feed: $source
+ - date published: 2025-02-15T06:17:54+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://github.com/jp7677/dxvk-nvapi"><strong>dxvk-nvapi</strong></a> updated their Wiki and, once you run the latest build, now supports setting environment variables with less cryptic names to enforce the new DLSS4 presets for <strong>SR</strong> (&quot;Super Resolution&quot; = Upsampling), <strong>RR</strong> (&quot;Ray Reconstruction&quot;) and the <strong>FG</strong> (&quot;Frame Generation&quot;) settings.</p> <p>Check their Wiki for details: <a href="https://github.com/jp7677/dxvk-nvapi/wiki/Passing-driver-settings">https://github.com/jp7677/dxvk-nvapi/wiki/Passing-driver-settings</a></p> <p>_______</p> <p>Here&#39;s the example for the upsampling (=<strong>SR</strong>) setting, helping older and newer RTX cards to achieve the best image quality (check the note below!):</p> <h1>Override DLSS-SR presets</h1> <ul> <li>Key: <code>NGX_DLSS_SR_OVERRIDE_RENDER_PRESET_SELECTION</code></li> <li>Values: <ul> <li><code>OFF</code></li> <li><code
+
+## What popular multiplayer games work NATIVELY on Linux?
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipva5d/what_popular_multiplayer_games_work_natively_on](https://www.reddit.com/r/linux_gaming/comments/1ipva5d/what_popular_multiplayer_games_work_natively_on)
+ - RSS feed: $source
+ - date published: 2025-02-15T06:15:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Only thing thats been holding me back from switching to Linux is Riot Games, but with the state that company is heading towards, I might as well make the jump by around May (When Arena will leave). I&#39;d prefer something NATIVELY on Linux, no Proton or Wine needed. Also I know basically all Valve Games are already Linux Native, but I&#39;d like more options</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nintega94"> /u/Nintega94 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipva5d/what_popular_multiplayer_games_work_natively_on/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipva5d/what_popular_multiplayer_games_work_natively_on/">[comments]</a></span>
+
+## Beginners Guide Mangohud an Game Monitoring Overlay Tool and Bench marking
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipv9vu/beginners_guide_mangohud_an_game_monitoring](https://www.reddit.com/r/linux_gaming/comments/1ipv9vu/beginners_guide_mangohud_an_game_monitoring)
+ - RSS feed: $source
+ - date published: 2025-02-15T06:15:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1ipv9vu/beginners_guide_mangohud_an_game_monitoring/"> <img src="https://external-preview.redd.it/SnyfAdedU_EpW9h9xGk8Rf7cBIpjKJObpv434u6CqEQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c0ea190887b2c2da8503fd38321627cffce53090" alt="Beginners Guide Mangohud an Game Monitoring Overlay Tool and Bench marking" title="Beginners Guide Mangohud an Game Monitoring Overlay Tool and Bench marking" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mindtaker_linux"> /u/mindtaker_linux </a> <br/> <span><a href="https://www.youtube.com/watch?v=JOUCIgF3ZQI">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipv9vu/beginners_guide_mangohud_an_game_monitoring/">[comments]</a></span> </td></tr></table>
+
+## Trying to run tf2 (properly) on an old ass laptop
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipuseg/trying_to_run_tf2_properly_on_an_old_ass_laptop](https://www.reddit.com/r/linux_gaming/comments/1ipuseg/trying_to_run_tf2_properly_on_an_old_ass_laptop)
+ - RSS feed: $source
+ - date published: 2025-02-15T05:42:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone! I’m attempting to run TF2 on a decade-old laptop. While I can get it to work using the legacy OpenGL launch option on Steam, I’m having no luck with Proton. It seems like the legacy OpenGL is the best this laptop can handle, which might be why Proton isn&#39;t functioning. What advice do you have for me?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wait-Whoami"> /u/wait-Whoami </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipuseg/trying_to_run_tf2_properly_on_an_old_ass_laptop/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipuseg/trying_to_run_tf2_properly_on_an_old_ass_laptop/">[comments]</a></span>
+
+## Button box not recognized through proton
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipuqrm/button_box_not_recognized_through_proton](https://www.reddit.com/r/linux_gaming/comments/1ipuqrm/button_box_not_recognized_through_proton)
+ - RSS feed: $source
+ - date published: 2025-02-15T05:39:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>For simracing I recently bought a button box which connect through usb and is running some Pokornyi firmware. </p> <p>It shows up as a joystick device.</p> <p>When using evtest it shows up and all the buttons seem functional but when running a game through proton it does not work.</p> <p>Did manage to bind the inputs by the use of steam input, but this restricts me to +- 10 of the 40 inputs</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Important-Bat8819"> /u/Important-Bat8819 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipuqrm/button_box_not_recognized_through_proton/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipuqrm/button_box_not_recognized_through_proton/">[comments]</a></span>
+
+## Arch (SteamFork) and Fedora (Bazzite). My dilemma
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipuibq/arch_steamfork_and_fedora_bazzite_my_dilemma](https://www.reddit.com/r/linux_gaming/comments/1ipuibq/arch_steamfork_and_fedora_bazzite_my_dilemma)
+ - RSS feed: $source
+ - date published: 2025-02-15T05:23:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>I use my rig as an HTPC. I have a 4k screen next to my monitor. Basically, I want to play most of my games on the TV but having the desktop mode straight to the monitor and ready to play Halo and Marvel Rivals. I have been with Bazzite for many months and the experience have been good, but it has some cabiats.</p> <p>Cons: 1. Providing feedback to devs is a nightmare. I have tried all ways and I have even felt ignored. 2. When coming back from Suspension audio gets kinda bugged for a moment. It is annoying. Not its strength. 3. KDE is bugged AF. For my usage which consists on my PC sending the image to the monitor when going to desktop mode, KDE has bugs like task bar hidden, desktop all black, cursor gets stamped for some reason, etc.</p> <p>Pros: 1. Very user friendly. It is really easy to use. Root is not a problem at all. Mounting is easy too. 2. Controller support is awesome. Xbox dongle works like a charm. 3. A huge amount of easy to install pr
+
+## Arch or fedora for mid range gaming
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipu0px/arch_or_fedora_for_mid_range_gaming](https://www.reddit.com/r/linux_gaming/comments/1ipu0px/arch_or_fedora_for_mid_range_gaming)
+ - RSS feed: $source
+ - date published: 2025-02-15T04:53:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, I am thinking to move from ubuntu to arch or fedora but before I want to know which linux is best suited for mid range gaming like gta5 as well as battery life also. For most control I like arch but where I can easily install fitgirl repacks easily from both of them. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Unusual-Subject-9544"> /u/Unusual-Subject-9544 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipu0px/arch_or_fedora_for_mid_range_gaming/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipu0px/arch_or_fedora_for_mid_range_gaming/">[comments]</a></span>
+
+## Remote system monitor for gaming pc
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipt3xe/remote_system_monitor_for_gaming_pc](https://www.reddit.com/r/linux_gaming/comments/1ipt3xe/remote_system_monitor_for_gaming_pc)
+ - RSS feed: $source
+ - date published: 2025-02-15T03:58:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>hi so im looking for an app like this one (<a href="https://www.trigonesoft.com/">https://www.trigonesoft.com/</a>) but for linux, Ik that I could do ssh from termux on my phone to my pc and run btop but I&#39;d like an app with better gui.</p> <p>any recommendations? thanks ;) </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Reasonable_Ad3196"> /u/Reasonable_Ad3196 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipt3xe/remote_system_monitor_for_gaming_pc/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipt3xe/remote_system_monitor_for_gaming_pc/">[comments]</a></span>
+
+## Borderlands 2 running at 1 FPS even with proton?
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipt3p2/borderlands_2_running_at_1_fps_even_with_proton](https://www.reddit.com/r/linux_gaming/comments/1ipt3p2/borderlands_2_running_at_1_fps_even_with_proton)
+ - RSS feed: $source
+ - date published: 2025-02-15T03:57:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I downloaded borderlands 2 and started it up immediately, and it instantly shut down. I then redownloaded the game with proton experimental, and it opened up, I hit play on the launcher that appeared, and I looked at my FPS counter, and it was at 1 FPS. What do I do?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cookie_Man0156"> /u/Cookie_Man0156 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipt3p2/borderlands_2_running_at_1_fps_even_with_proton/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipt3p2/borderlands_2_running_at_1_fps_even_with_proton/">[comments]</a></span>
+
+## Grand Theft Auto Vice City Nextgent Edition
+ - [https://www.reddit.com/r/linux_gaming/comments/1iprxm1/grand_theft_auto_vice_city_nextgent_edition](https://www.reddit.com/r/linux_gaming/comments/1iprxm1/grand_theft_auto_vice_city_nextgent_edition)
+ - RSS feed: $source
+ - date published: 2025-02-15T02:50:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/linux_gaming/comments/1iprxm1/grand_theft_auto_vice_city_nextgent_edition/"> <img src="https://preview.redd.it/lwezm1env7je1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=c86470f7da10710e569f4163612462358535ff09" alt="Grand Theft Auto Vice City Nextgent Edition" title="Grand Theft Auto Vice City Nextgent Edition" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KuramaPapi"> /u/KuramaPapi </a> <br/> <span><a href="https://i.redd.it/lwezm1env7je1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1iprxm1/grand_theft_auto_vice_city_nextgent_edition/">[comments]</a></span> </td></tr></table>
+
+## What are the pros and cons of Lutris vs Heroic Games Launcher? If I solely play games, are Wine and Bottles redundant?
+ - [https://www.reddit.com/r/linux_gaming/comments/1ipqtel/what_are_the_pros_and_cons_of_lutris_vs_heroic](https://www.reddit.com/r/linux_gaming/comments/1ipqtel/what_are_the_pros_and_cons_of_lutris_vs_heroic)
+ - RSS feed: $source
+ - date published: 2025-02-15T01:47:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>are they both compatible with the same game launchers?</p> <p>which one has better game performance and/or more features?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WoodsBeatle513"> /u/WoodsBeatle513 </a> <br/> <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipqtel/what_are_the_pros_and_cons_of_lutris_vs_heroic/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux_gaming/comments/1ipqtel/what_are_the_pros_and_cons_of_lutris_vs_heroic/">[comments]</a></span>
+

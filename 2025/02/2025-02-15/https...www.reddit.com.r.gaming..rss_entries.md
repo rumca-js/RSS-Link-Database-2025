@@ -1,0 +1,205 @@
+# Source:r/gaming, URL:https://www.reddit.com/r/gaming/.rss, language:
+
+## What game did you try hardest to convince yourself to stick with but wound up giving up on? What were the reasons? This is mine.
+ - [https://www.reddit.com/r/gaming/comments/1iqdicv/what_game_did_you_try_hardest_to_convince](https://www.reddit.com/r/gaming/comments/1iqdicv/what_game_did_you_try_hardest_to_convince)
+ - RSS feed: $source
+ - date published: 2025-02-15T22:39:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqdicv/what_game_did_you_try_hardest_to_convince/"> <img src="https://preview.redd.it/s5fesxftrdje1.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=1139aaa6e287abad3a68a6d4b09269203dd8bba8" alt="What game did you try hardest to convince yourself to stick with but wound up giving up on? What were the reasons? This is mine." title="What game did you try hardest to convince yourself to stick with but wound up giving up on? What were the reasons? This is mine." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SixandNoQuarter"> /u/SixandNoQuarter </a> <br/> <span><a href="https://i.redd.it/s5fesxftrdje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqdicv/what_game_did_you_try_hardest_to_convince/">[comments]</a></span> </td></tr></table>
+
+## Evidently I’m very lucky to have kept my childhood collection of PS2 horror/sci-fi games!
+ - [https://www.reddit.com/r/gaming/comments/1iqdekt/evidently_im_very_lucky_to_have_kept_my_childhood](https://www.reddit.com/r/gaming/comments/1iqdekt/evidently_im_very_lucky_to_have_kept_my_childhood)
+ - RSS feed: $source
+ - date published: 2025-02-15T22:35:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqdekt/evidently_im_very_lucky_to_have_kept_my_childhood/"> <img src="https://preview.redd.it/cg9363r2rdje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ee25072b70817d83bc4155ca2f6e63917082418" alt="Evidently I’m very lucky to have kept my childhood collection of PS2 horror/sci-fi games!" title="Evidently I’m very lucky to have kept my childhood collection of PS2 horror/sci-fi games!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I would like to add that I do have all three Xenosaga games and all four .hack games, I just don’t have the original cases for them so it didn’t match the look of the picture lol. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AncientDragoness23"> /u/AncientDragoness23 </a> <br/> <span><a href="https://i.redd.it/cg9363r2rdje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqdekt/evidently_im_very_luc
+
+## Shadow of the Tomb Raider
+ - [https://www.reddit.com/r/gaming/comments/1iqd2w0/shadow_of_the_tomb_raider](https://www.reddit.com/r/gaming/comments/1iqd2w0/shadow_of_the_tomb_raider)
+ - RSS feed: $source
+ - date published: 2025-02-15T22:20:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqd2w0/shadow_of_the_tomb_raider/"> <img src="https://preview.redd.it/kghnhx7godje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0e588871286013ea1921f633753074c4d7315a4" alt="Shadow of the Tomb Raider" title="Shadow of the Tomb Raider" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spreeshark"> /u/spreeshark </a> <br/> <span><a href="https://i.redd.it/kghnhx7godje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqd2w0/shadow_of_the_tomb_raider/">[comments]</a></span> </td></tr></table>
+
+## in Red Alert 3, the United States president is a spy who shares state secrets with enemies.
+ - [https://www.reddit.com/r/gaming/comments/1iqc5tl/in_red_alert_3_the_united_states_president_is_a](https://www.reddit.com/r/gaming/comments/1iqc5tl/in_red_alert_3_the_united_states_president_is_a)
+ - RSS feed: $source
+ - date published: 2025-02-15T21:39:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqc5tl/in_red_alert_3_the_united_states_president_is_a/"> <img src="https://preview.redd.it/xjfyn2n6hdje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e0c8d062619bfb3f808a46ca5ea3c86f5be5e853" alt="in Red Alert 3, the United States president is a spy who shares state secrets with enemies." title="in Red Alert 3, the United States president is a spy who shares state secrets with enemies." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Moooses20"> /u/Moooses20 </a> <br/> <span><a href="https://i.redd.it/xjfyn2n6hdje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqc5tl/in_red_alert_3_the_united_states_president_is_a/">[comments]</a></span> </td></tr></table>
+
+## Favourite game where you play as the bad guy?
+ - [https://www.reddit.com/r/gaming/comments/1iqb67u/favourite_game_where_you_play_as_the_bad_guy](https://www.reddit.com/r/gaming/comments/1iqb67u/favourite_game_where_you_play_as_the_bad_guy)
+ - RSS feed: $source
+ - date published: 2025-02-15T20:56:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqb67u/favourite_game_where_you_play_as_the_bad_guy/"> <img src="https://preview.redd.it/chpn5t9j9dje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=95d23b91b8718601f183c6d7cfece8ac79c1404f" alt="Favourite game where you play as the bad guy?" title="Favourite game where you play as the bad guy?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PaleDisaster1"> /u/PaleDisaster1 </a> <br/> <span><a href="https://i.redd.it/chpn5t9j9dje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqb67u/favourite_game_where_you_play_as_the_bad_guy/">[comments]</a></span> </td></tr></table>
+
+## Steam now warns you if an ‘early access’ PC game might be abandoned
+ - [https://www.reddit.com/r/gaming/comments/1iqb4ye/steam_now_warns_you_if_an_early_access_pc_game](https://www.reddit.com/r/gaming/comments/1iqb4ye/steam_now_warns_you_if_an_early_access_pc_game)
+ - RSS feed: $source
+ - date published: 2025-02-15T20:55:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqb4ye/steam_now_warns_you_if_an_early_access_pc_game/"> <img src="https://external-preview.redd.it/V5TJja_ObaG8GZUQDttllpBwEWGvEGnU75Ww1rALQfc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de9080875161724282864b2c91a7a7384c147f1c" alt="Steam now warns you if an ‘early access’ PC game might be abandoned" title="Steam now warns you if an ‘early access’ PC game might be abandoned" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HBizzle24"> /u/HBizzle24 </a> <br/> <span><a href="https://www.theverge.com/news/607095/steam-early-access-abandonware-warning?utm_source=chatgpt.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqb4ye/steam_now_warns_you_if_an_early_access_pc_game/">[comments]</a></span> </td></tr></table>
+
+## And here I thought I was on a roll
+ - [https://www.reddit.com/r/gaming/comments/1iq8bdj/and_here_i_thought_i_was_on_a_roll](https://www.reddit.com/r/gaming/comments/1iq8bdj/and_here_i_thought_i_was_on_a_roll)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:52:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iq8bdj/and_here_i_thought_i_was_on_a_roll/"> <img src="https://preview.redd.it/4npfft29ncje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e8b5b7a4d09f0cefedb87e462c61f2aeeb2e41a" alt="And here I thought I was on a roll" title="And here I thought I was on a roll" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Effex"> /u/Effex </a> <br/> <span><a href="https://i.redd.it/4npfft29ncje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iq8bdj/and_here_i_thought_i_was_on_a_roll/">[comments]</a></span> </td></tr></table>
+
+## Canadian Game Awards want to remind you some of the best video games of 2024 were made in this country
+ - [https://www.reddit.com/r/gaming/comments/1iq6qiu/canadian_game_awards_want_to_remind_you_some_of](https://www.reddit.com/r/gaming/comments/1iq6qiu/canadian_game_awards_want_to_remind_you_some_of)
+ - RSS feed: $source
+ - date published: 2025-02-15T17:43:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iq6qiu/canadian_game_awards_want_to_remind_you_some_of/"> <img src="https://external-preview.redd.it/HjMrqimL7ns15cw2bD3nb61p8BE1tGRiRfMXceFoxrk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a5a15fdec871769182823b6309bb3117a2ad5ac7" alt="Canadian Game Awards want to remind you some of the best video games of 2024 were made in this country" title="Canadian Game Awards want to remind you some of the best video games of 2024 were made in this country" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kevro"> /u/kevro </a> <br/> <span><a href="https://www.cbc.ca/news/entertainment/canadian-game-awards-2025-1.7459408">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iq6qiu/canadian_game_awards_want_to_remind_you_some_of/">[comments]</a></span> </td></tr></table>
+
+## My cozy setup!
+ - [https://www.reddit.com/r/gaming/comments/1iq6bu3/my_cozy_setup](https://www.reddit.com/r/gaming/comments/1iq6bu3/my_cozy_setup)
+ - RSS feed: $source
+ - date published: 2025-02-15T17:25:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iq6bu3/my_cozy_setup/"> <img src="https://preview.redd.it/mvdb1ppr7cje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=66c76d4ec972e123845563699ebc08645e3862ad" alt="My cozy setup!" title="My cozy setup!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Denso95"> /u/Denso95 </a> <br/> <span><a href="https://i.redd.it/mvdb1ppr7cje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iq6bu3/my_cozy_setup/">[comments]</a></span> </td></tr></table>
+
+## Made everyone's favourite vampire from Skyrim as a figurine.
+ - [https://www.reddit.com/r/gaming/comments/1iq3wxz/made_everyones_favourite_vampire_from_skyrim_as_a](https://www.reddit.com/r/gaming/comments/1iq3wxz/made_everyones_favourite_vampire_from_skyrim_as_a)
+ - RSS feed: $source
+ - date published: 2025-02-15T15:36:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iq3wxz/made_everyones_favourite_vampire_from_skyrim_as_a/"> <img src="https://preview.redd.it/q9x5uw4znbje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9a1c34f80d685d34475a457fa9badbaeb95c3b5" alt="Made everyone's favourite vampire from Skyrim as a figurine." title="Made everyone's favourite vampire from Skyrim as a figurine." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DanintheVortex"> /u/DanintheVortex </a> <br/> <span><a href="https://i.redd.it/q9x5uw4znbje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iq3wxz/made_everyones_favourite_vampire_from_skyrim_as_a/">[comments]</a></span> </td></tr></table>
+
+## Wildest fantasies
+ - [https://www.reddit.com/r/gaming/comments/1iq2hxp/wildest_fantasies](https://www.reddit.com/r/gaming/comments/1iq2hxp/wildest_fantasies)
+ - RSS feed: $source
+ - date published: 2025-02-15T14:29:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iq2hxp/wildest_fantasies/"> <img src="https://preview.redd.it/e949efxecbje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=35f5960bcb4114cc4017d0734333349ed8035031" alt="Wildest fantasies" title="Wildest fantasies" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VanStudios"> /u/VanStudios </a> <br/> <span><a href="https://i.redd.it/e949efxecbje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iq2hxp/wildest_fantasies/">[comments]</a></span> </td></tr></table>
+
+## Now that Capcom is reviving dead IPs, it's time to bring back these gems!
+ - [https://www.reddit.com/r/gaming/comments/1iq24s6/now_that_capcom_is_reviving_dead_ips_its_time_to](https://www.reddit.com/r/gaming/comments/1iq24s6/now_that_capcom_is_reviving_dead_ips_its_time_to)
+ - RSS feed: $source
+ - date published: 2025-02-15T14:10:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iq24s6/now_that_capcom_is_reviving_dead_ips_its_time_to/"> <img src="https://preview.redd.it/y603f51z8bje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e74f07af2515324875ef2ae79108a13b9a0dcea" alt="Now that Capcom is reviving dead IPs, it's time to bring back these gems!" title="Now that Capcom is reviving dead IPs, it's time to bring back these gems!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NaitDraik"> /u/NaitDraik </a> <br/> <span><a href="https://i.redd.it/y603f51z8bje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iq24s6/now_that_capcom_is_reviving_dead_ips_its_time_to/">[comments]</a></span> </td></tr></table>
+
+## Xbox Sales Hit Rock Bottom After Historic 2024 Decline
+ - [https://www.reddit.com/r/gaming/comments/1iq1tsb/xbox_sales_hit_rock_bottom_after_historic_2024](https://www.reddit.com/r/gaming/comments/1iq1tsb/xbox_sales_hit_rock_bottom_after_historic_2024)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:55:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iq1tsb/xbox_sales_hit_rock_bottom_after_historic_2024/"> <img src="https://external-preview.redd.it/W6WtFkmm4OTKcOWLCgR9NDPi1HPbCrTsFbY1pYd-yto.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9ad300f83fa8ae550f2bb101d1d7e32372c5a372" alt="Xbox Sales Hit Rock Bottom After Historic 2024 Decline" title="Xbox Sales Hit Rock Bottom After Historic 2024 Decline" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FinalAfternoon5470"> /u/FinalAfternoon5470 </a> <br/> <span><a href="https://9meters.com/technology/consoles/2024-was-the-worst-year-ever-for-xbox-console-sales-with-just-under-3m-units-sold-in-the-us-and-290k-units-in-the-eu-during-the-year-2025-is-shaping-up-to-be-even-worse">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iq1tsb/xbox_sales_hit_rock_bottom_after_historic_2024/">[comments]</a></span> </td></tr></table>
+
+## Rant: I hate games with chest hunting as exploration
+ - [https://www.reddit.com/r/gaming/comments/1iq1pml/rant_i_hate_games_with_chest_hunting_as](https://www.reddit.com/r/gaming/comments/1iq1pml/rant_i_hate_games_with_chest_hunting_as)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:48:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Recently I&#39;ve been playing GoW:Ragnarök and it is pinnacle of chest hunting and I finally realized that I am sick of chest hunting and simple tricks the developers try to hide chests. I can&#39;t get immersed in the world when I am constantly checking around for chests and hidden paths. And the way they do it is so basic and simple with no creativity about how you explore or traverse. So static, so overdesigned. You have to follow specific steps to get through &quot;puzzles&quot;. And I like going for optional stuff, it satisfies that itch for the completionist inside me. So I can&#39;t help but finding secrets, I like it but my problem is with how it is done. I hate trying to understand the main path and going against it, I hate checking every left of every right, I hate not being able to appreciate environment and dialogues but instead checking every breakable wall. I guess GoW suffers from being a half-open-world half-metroidvania in that rega
+
+## Any fans of the Gothic series? Painted Orlan’s tavern from Gothic 2
+ - [https://www.reddit.com/r/gaming/comments/1iq13la/any_fans_of_the_gothic_series_painted_orlans](https://www.reddit.com/r/gaming/comments/1iq13la/any_fans_of_the_gothic_series_painted_orlans)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:15:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iq13la/any_fans_of_the_gothic_series_painted_orlans/"> <img src="https://preview.redd.it/qrcnekk7zaje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2133c30439a0a62214c4559dbf5a480c9ed58dc0" alt="Any fans of the Gothic series? Painted Orlan’s tavern from Gothic 2" title="Any fans of the Gothic series? Painted Orlan’s tavern from Gothic 2" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PaintingMoro"> /u/PaintingMoro </a> <br/> <span><a href="https://i.redd.it/qrcnekk7zaje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iq13la/any_fans_of_the_gothic_series_painted_orlans/">[comments]</a></span> </td></tr></table>
+
+## pre-order in game currency
+ - [https://www.reddit.com/r/gaming/comments/1iq090s/preorder_in_game_currency](https://www.reddit.com/r/gaming/comments/1iq090s/preorder_in_game_currency)
+ - RSS feed: $source
+ - date published: 2025-02-15T12:23:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iq090s/preorder_in_game_currency/"> <img src="https://preview.redd.it/ci3n6oitpaje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e7fe3c4da24e3289a49eec95f0335dd638fe0b03" alt="pre-order in game currency" title="pre-order in game currency" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/asian69feet"> /u/asian69feet </a> <br/> <span><a href="https://i.redd.it/ci3n6oitpaje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iq090s/preorder_in_game_currency/">[comments]</a></span> </td></tr></table>
+
+## I created over 100 Armor Trim Combinations in Minecraft
+ - [https://www.reddit.com/r/gaming/comments/1ipzqb1/i_created_over_100_armor_trim_combinations_in](https://www.reddit.com/r/gaming/comments/1ipzqb1/i_created_over_100_armor_trim_combinations_in)
+ - RSS feed: $source
+ - date published: 2025-02-15T11:48:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ipzqb1/i_created_over_100_armor_trim_combinations_in/"> <img src="https://preview.redd.it/z0026epgjaje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2cf4214603fcc682bcf6dced83f9cc08a1289cef" alt="I created over 100 Armor Trim Combinations in Minecraft" title="I created over 100 Armor Trim Combinations in Minecraft" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dancsa222"> /u/dancsa222 </a> <br/> <span><a href="https://i.redd.it/z0026epgjaje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ipzqb1/i_created_over_100_armor_trim_combinations_in/">[comments]</a></span> </td></tr></table>
+
+## I love how vampires eyes look in the upcoming The Blood Of Dawnwalker. They kind of resemble moons. I'm glad they didn't go with the stereotypical red iris.
+ - [https://www.reddit.com/r/gaming/comments/1ipynw4/i_love_how_vampires_eyes_look_in_the_upcoming_the](https://www.reddit.com/r/gaming/comments/1ipynw4/i_love_how_vampires_eyes_look_in_the_upcoming_the)
+ - RSS feed: $source
+ - date published: 2025-02-15T10:30:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ipynw4/i_love_how_vampires_eyes_look_in_the_upcoming_the/"> <img src="https://preview.redd.it/quw761kt5aje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3e73b07278c65ed39b44c9cd46a35bc5c33c5d91" alt="I love how vampires eyes look in the upcoming The Blood Of Dawnwalker. They kind of resemble moons. I'm glad they didn't go with the stereotypical red iris." title="I love how vampires eyes look in the upcoming The Blood Of Dawnwalker. They kind of resemble moons. I'm glad they didn't go with the stereotypical red iris." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I also love how in the lore, they start with just fangs, but the older they grow, the more sharp teeth they get. These vampires feel really unique while still feeling like vampires so far.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Apprehensive_Day212"> /u/Apprehensive_Day212 </a> <br/> <span><a href="htt
+
+## Somehow, the first crossover between Street Fighter and Mortal Kombat is in Fortnite.
+ - [https://www.reddit.com/r/gaming/comments/1ipxyg0/somehow_the_first_crossover_between_street](https://www.reddit.com/r/gaming/comments/1ipxyg0/somehow_the_first_crossover_between_street)
+ - RSS feed: $source
+ - date published: 2025-02-15T09:37:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ipxyg0/somehow_the_first_crossover_between_street/"> <img src="https://preview.redd.it/lit7lfr9w9je1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=39130460c2e2d142e7b2e8496d895aed9eb567a2" alt="Somehow, the first crossover between Street Fighter and Mortal Kombat is in Fortnite." title="Somehow, the first crossover between Street Fighter and Mortal Kombat is in Fortnite." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LegoPenguin114"> /u/LegoPenguin114 </a> <br/> <span><a href="https://i.redd.it/lit7lfr9w9je1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ipxyg0/somehow_the_first_crossover_between_street/">[comments]</a></span> </td></tr></table>
+
+## Hide in the fridge *optional*
+ - [https://www.reddit.com/r/gaming/comments/1ipwve8/hide_in_the_fridge_optional](https://www.reddit.com/r/gaming/comments/1ipwve8/hide_in_the_fridge_optional)
+ - RSS feed: $source
+ - date published: 2025-02-15T08:12:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ipwve8/hide_in_the_fridge_optional/"> <img src="https://preview.redd.it/6f624rs0h9je1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b6218803b02466650e2df7ae244217168385fd0d" alt="Hide in the fridge *optional*" title="Hide in the fridge *optional*" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lukisonfire"> /u/lukisonfire </a> <br/> <span><a href="https://i.redd.it/6f624rs0h9je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ipwve8/hide_in_the_fridge_optional/">[comments]</a></span> </td></tr></table>
+
+## Who are your all time favorite companion characters?
+ - [https://www.reddit.com/r/gaming/comments/1ipw2qg/who_are_your_all_time_favorite_companion](https://www.reddit.com/r/gaming/comments/1ipw2qg/who_are_your_all_time_favorite_companion)
+ - RSS feed: $source
+ - date published: 2025-02-15T07:12:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>For me it’s:</p> <p>Garrus Vakarian (Mass Effect trilogy)</p> <p>Nick Valentine (Fallout 4)</p> <p>Tails (Sonic the Hedgehog 2 &amp; 3)</p> <p>Dom (Gears of War 1-3)</p> <p>Roach (The Witcher 3)</p> <p>HK-47 (SW: Knights of the Old Republic)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RandyArgonianButler"> /u/RandyArgonianButler </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ipw2qg/who_are_your_all_time_favorite_companion/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ipw2qg/who_are_your_all_time_favorite_companion/">[comments]</a></span>
+
+## About to play the OG Resident Evil 4 for the first time.
+ - [https://www.reddit.com/r/gaming/comments/1ipvwtk/about_to_play_the_og_resident_evil_4_for_the](https://www.reddit.com/r/gaming/comments/1ipvwtk/about_to_play_the_og_resident_evil_4_for_the)
+ - RSS feed: $source
+ - date published: 2025-02-15T07:00:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ipvwtk/about_to_play_the_og_resident_evil_4_for_the/"> <img src="https://preview.redd.it/67zxmlvd49je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df421db6243ed3c5248911806374ee8e90ea29b9" alt="About to play the OG Resident Evil 4 for the first time." title="About to play the OG Resident Evil 4 for the first time." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Got my old PS2 plugged in and working again. I never played RE4, just helped my brother with the puzzles sometimes. I played the first 3 games but was in college when this came out and never made time for it. I&#39;ve been working my way back through the series again and now I&#39;m here. Any tips?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/2livecrewnecktshirt"> /u/2livecrewnecktshirt </a> <br/> <span><a href="https://i.redd.it/67zxmlvd49je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.c
+
+## Self Promotion Saturday! Small streamer? Just getting started? Tell us about it here!
+ - [https://www.reddit.com/r/gaming/comments/1ipvwsw/self_promotion_saturday_small_streamer_just](https://www.reddit.com/r/gaming/comments/1ipvwsw/self_promotion_saturday_small_streamer_just)
+ - RSS feed: $source
+ - date published: 2025-02-15T07:00:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Use this post to tell us about your YouTube Channel or Twitch stream! Show us your creativity and tell us why we should subscribe. What makes you unique?</p> <p>Please note that this thread is NOT for selling or advertising stores. Report any such posts and we&#39;ll deal with them. Thanks!</p> <p>This thread is posted weekly on Saturdays (adjustments made as needed).</p> <p>Reminder that you must follow our <a href="https://www.reddit.com/r/gaming/wiki/index?utm_source=reddit&amp;utm_medium=usertext&amp;utm_name=gaming&amp;utm_content=t5_2qh03#wiki_rule_7.3A_self-promotion">rules of promotion.</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ipvwsw/self_promotion_saturday_small_streamer_just/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ipvwsw/self_promotion_saturday_small
+
+## I had the chance to do something hilarious
+ - [https://www.reddit.com/r/gaming/comments/1ipvfku/i_had_the_chance_to_do_something_hilarious](https://www.reddit.com/r/gaming/comments/1ipvfku/i_had_the_chance_to_do_something_hilarious)
+ - RSS feed: $source
+ - date published: 2025-02-15T06:26:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ipvfku/i_had_the_chance_to_do_something_hilarious/"> <img src="https://preview.redd.it/j1ycaxbay8je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e3a981002ffd7615072052d979c8f8d87b8e042" alt="I had the chance to do something hilarious" title="I had the chance to do something hilarious" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>No regrets.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/esperlihn"> /u/esperlihn </a> <br/> <span><a href="https://i.redd.it/j1ycaxbay8je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ipvfku/i_had_the_chance_to_do_something_hilarious/">[comments]</a></span> </td></tr></table>
+
+## Games should have a preset "tutorial" option for when you go back to a game and forget how to play.
+ - [https://www.reddit.com/r/gaming/comments/1ipu0p7/games_should_have_a_preset_tutorial_option_for](https://www.reddit.com/r/gaming/comments/1ipu0p7/games_should_have_a_preset_tutorial_option_for)
+ - RSS feed: $source
+ - date published: 2025-02-15T04:53:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Look, we all have games we play for a spell then get distracted by another better/new ame, then try to get back to the old game and can&#39;t pick up where you left off because you forgot how to play. For me, I started playing Outer Wilds, then got super into BG3 for about a year. Now that I want to play OW again, I have to restart the whole game because I don&#39;t remember how to play it. It would be great if i could do like a 5min refresher on controls or mechanics instead of having to restart. I feel like most games should have this.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AntarcticanJam"> /u/AntarcticanJam </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ipu0p7/games_should_have_a_preset_tutorial_option_for/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ipu0p7/games_should_have_a_preset_tutorial_option_for/">[comments]</a></span>
+
+## Games, levels, or storylines that make you go “woah the people who made this were geniuses”
+ - [https://www.reddit.com/r/gaming/comments/1iptxf5/games_levels_or_storylines_that_make_you_go_woah](https://www.reddit.com/r/gaming/comments/1iptxf5/games_levels_or_storylines_that_make_you_go_woah)
+ - RSS feed: $source
+ - date published: 2025-02-15T04:47:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Games with jaw dropping ingenious elements that no matter how many times you experience them still make you go “woah” outer wilds is the big one that comes to mind. But also viewfinder. Horizon zero dawns story had me like that. Also the ashtray maze from control. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hyrulianpokemaster"> /u/hyrulianpokemaster </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1iptxf5/games_levels_or_storylines_that_make_you_go_woah/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iptxf5/games_levels_or_storylines_that_make_you_go_woah/">[comments]</a></span>
+
+## [Skill up] Avowed review
+ - [https://www.reddit.com/r/gaming/comments/1ipslnk/skill_up_avowed_review](https://www.reddit.com/r/gaming/comments/1ipslnk/skill_up_avowed_review)
+ - RSS feed: $source
+ - date published: 2025-02-15T03:28:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ipslnk/skill_up_avowed_review/"> <img src="https://external-preview.redd.it/5fNr0giaguFE7icy4Mj_BiSlh6CPiBnlGNuGWHMRU70.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=73b2fdf28a4b3b75ac02d6bf0088ae86df9fdaca" alt="[Skill up] Avowed review" title="[Skill up] Avowed review" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spoopyskeleton48"> /u/Spoopyskeleton48 </a> <br/> <span><a href="https://www.youtube.com/watch?v=yxnyOmJzg_0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ipslnk/skill_up_avowed_review/">[comments]</a></span> </td></tr></table>
+
+## Ah yes. The most common kind of enemies to run into.
+ - [https://www.reddit.com/r/gaming/comments/1ipqm9e/ah_yes_the_most_common_kind_of_enemies_to_run_into](https://www.reddit.com/r/gaming/comments/1ipqm9e/ah_yes_the_most_common_kind_of_enemies_to_run_into)
+ - RSS feed: $source
+ - date published: 2025-02-15T01:36:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ipqm9e/ah_yes_the_most_common_kind_of_enemies_to_run_into/"> <img src="https://preview.redd.it/acqwlhhhi7je1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c29c0f7bc032ef85e569b91a477954fb71f6a91b" alt="Ah yes. The most common kind of enemies to run into." title="Ah yes. The most common kind of enemies to run into." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/The_Great_Ravioli"> /u/The_Great_Ravioli </a> <br/> <span><a href="https://i.redd.it/acqwlhhhi7je1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ipqm9e/ah_yes_the_most_common_kind_of_enemies_to_run_into/">[comments]</a></span> </td></tr></table>
+
+## In the Era of Great Chaos, when the Earth and the Moon were at war with each other....
+ - [https://www.reddit.com/r/gaming/comments/1ippaja/in_the_era_of_great_chaos_when_the_earth_and_the](https://www.reddit.com/r/gaming/comments/1ippaja/in_the_era_of_great_chaos_when_the_earth_and_the)
+ - RSS feed: $source
+ - date published: 2025-02-15T00:26:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ippaja/in_the_era_of_great_chaos_when_the_earth_and_the/"> <img src="https://preview.redd.it/3e515dnh57je1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f264e6659a3548bc7da1d1b9031f199fdd202104" alt="In the Era of Great Chaos, when the Earth and the Moon were at war with each other...." title="In the Era of Great Chaos, when the Earth and the Moon were at war with each other...." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shofmon88"> /u/shofmon88 </a> <br/> <span><a href="https://i.redd.it/3e515dnh57je1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ippaja/in_the_era_of_great_chaos_when_the_earth_and_the/">[comments]</a></span> </td></tr></table>
+

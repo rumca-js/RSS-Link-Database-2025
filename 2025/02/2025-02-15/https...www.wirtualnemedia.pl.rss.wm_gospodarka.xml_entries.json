@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-15T09:34:26+00:00",
+        "description": "Firma Elona Muska The Boring Company podpisa\u0142a z w\u0142adzami Dubaju wst\u0119pne porozumienie o budowie podziemnej sieci transportowej Dubai Loop - poinformowa\u0142 w pi\u0105tek agencja Reutera. System zbli\u017cony do inwestycji Muska w Las Vegas maj\u0105 obs\u0142ugiwa\u0107 pojazdy elektryczne rozwijaj\u0105ce pr\u0119dko\u015b\u0107 do 160 km/h.",
+        "id": 2119884,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/elon-musk-z-kontraktem-w-dubaju-ma-zbudowac-siec-tuneli",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Elon Musk z kontraktem w Dubaju. Ma zbudowa\u0107 sie\u0107 tuneli",
+        "vote": 0
+    }
+]

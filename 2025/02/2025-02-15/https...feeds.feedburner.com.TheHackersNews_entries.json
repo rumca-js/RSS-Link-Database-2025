@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-15T11:12:11+00:00",
+        "description": "Google is working on a new security feature for Android that blocks device owners from changing sensitive settings when a phone call is in progress.\nSpecifically, the in-call anti-scammer protections include preventing users from turning on settings to install apps from unknown sources and granting accessibility access. The development was first reported by Android Authority.\nUsers who attempt",
+        "id": 2120241,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2025/02/androids-new-feature-blocks-fraudsters.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Android's New Feature Blocks Fraudsters from Sideloading Apps During Calls",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-15T17:53:04+00:00",
+        "description": "Residents in the Congolese city tell the BBC they are hiding in their homes as the rebels advance.",
+        "id": 2122281,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c1m5dppk5xmo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cb2/live/1eb6d040-ebb5-11ef-a819-277e390a7a08.jpg",
+        "title": "Gunfire and looting in DR Congo city as rebels advance",
+        "vote": 0
+    }
+]

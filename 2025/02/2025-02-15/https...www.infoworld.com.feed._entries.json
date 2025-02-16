@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-15T01:27:12+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p><a href=\"https://www.infoworld.com/article/3619505/why-ai-is-best-for-experienced-developers.html\">AI coding assistants</a> still need to mature, but they are already helpful according to several attendees of a recent Silicon Valley event for software developers.</p>\n\n\n\n<p>Software developers who attended the <a href=\"https://www.developerweek.com/\">DeveloperWeek</a> conference in Santa Clara, CA, on February 12 were mostly optimistic about AI coding assistants, after having tried them out. \u201cThey certainly provide an opportunity to accelerate software development,\u201d said Jens Wessling, CTO and chief architect at software security company Veracode. Wessling has used <a href=\"https://www.infoworld",
+        "id": 2118816,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/3825429/ai-coding-assistants-limited-but-helpful-developers-say.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AI coding assistants limited but helpful, developers say",
+        "vote": 0
+    }
+]

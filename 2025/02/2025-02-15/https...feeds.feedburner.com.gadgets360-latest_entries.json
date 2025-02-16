@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-15T06:51:58+00:00",
+        "description": "Lava Prowatch X has been launched in India, featuring a 1.43-inch AMOLED screen and an aluminium alloy frame. It supports health tracking features like SpO2 monitoring, sleep and heart rate tracking. The wearable offers GPS and Bluetooth 5.3 connectivity, up to 10 days of battery life, and an IP68 rating for dust and water resistance.",
+        "id": 2118794,
+        "language": "en",
+        "link": "https://www.gadgets360.com/wearables/news/lava-prowatch-x-price-india-launch-sale-specifications-features-7711307",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 124,
+        "source_url": "https://feeds.feedburner.com/gadgets360-latest",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i.gadgets360cdn.com/large/prowatch_x_lava_main_1739541608561.jpg",
+        "title": "Prowatch X With 1.43-Inch AMOLED Screen, IP68 Rating Launched in India",
+        "vote": 0
+    }
+]

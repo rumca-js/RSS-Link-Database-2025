@@ -1,0 +1,254 @@
+# Source:Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Mass protests against current President Donald Trump to be held across the United States in every state capitol and city hall for Presidents’ Day (2/17/2025)
+ - [https://www.reddit.com/r/politics/comments/1iqec8y/mass_protests_against_current_president_donald](https://www.reddit.com/r/politics/comments/1iqec8y/mass_protests_against_current_president_donald)
+ - RSS feed: $source
+ - date published: 2025-02-15T23:18:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iqec8y/mass_protests_against_current_president_donald/"> <img src="https://external-preview.redd.it/cz1egALsum8j67WsUzZhJjoiYnvzh27BC3ZaSAra208.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=175c36e696302fb16dd7ec8f8c7f45d6233c43be" alt="Mass protests against current President Donald Trump to be held across the United States in every state capitol and city hall for Presidents’ Day (2/17/2025)" title="Mass protests against current President Donald Trump to be held across the United States in every state capitol and city hall for Presidents’ Day (2/17/2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/McSlat"> /u/McSlat </a> <br/> <span><a href="https://abcnews.go.com/Politics/wireStory/protests-trump-project-2025-planned-cities-us-118473569">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iqec8y/mass_protests_against_current_president_donald/">
+
+## Internet Blasts Trump For Quoting Napoleon: 'Translation: I Want to Be a Dictator'
+ - [https://www.reddit.com/r/politics/comments/1iqcqyu/internet_blasts_trump_for_quoting_napoleon](https://www.reddit.com/r/politics/comments/1iqcqyu/internet_blasts_trump_for_quoting_napoleon)
+ - RSS feed: $source
+ - date published: 2025-02-15T22:05:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iqcqyu/internet_blasts_trump_for_quoting_napoleon/"> <img src="https://external-preview.redd.it/jU0dFZ6emq0t1m5iI6jdKVZ0VuqnyOf-bkNhJJH8thk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1772ac40b955812ce8e3b899022ca499a94bbe95" alt="Internet Blasts Trump For Quoting Napoleon: 'Translation: I Want to Be a Dictator'" title="Internet Blasts Trump For Quoting Napoleon: 'Translation: I Want to Be a Dictator'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PostHeraldTimes"> /u/PostHeraldTimes </a> <br/> <span><a href="https://www.latintimes.com/internet-blasts-trump-quoting-napoleon-translation-dictator-575806">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iqcqyu/internet_blasts_trump_for_quoting_napoleon/">[comments]</a></span> </td></tr></table>
+
+## ‘We’ve been betrayed:’ Local veterans angry after being laid off by Trump administration
+ - [https://www.reddit.com/r/politics/comments/1iqbtaa/weve_been_betrayed_local_veterans_angry_after](https://www.reddit.com/r/politics/comments/1iqbtaa/weve_been_betrayed_local_veterans_angry_after)
+ - RSS feed: $source
+ - date published: 2025-02-15T21:24:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iqbtaa/weve_been_betrayed_local_veterans_angry_after/"> <img src="https://external-preview.redd.it/GzeC2aPlf2xj4rzzEQ6HYbUnoXiAHi6EXOTdIbYswao.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3693e506a3d431a2f46eea64916a97867023ed8" alt="‘We’ve been betrayed:’ Local veterans angry after being laid off by Trump administration" title="‘We’ve been betrayed:’ Local veterans angry after being laid off by Trump administration" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rock-n-roll-Kevin"> /u/Rock-n-roll-Kevin </a> <br/> <span><a href="https://www.wsbtv.com/news/local/atlanta/weve-been-betrayed-local-veterans-angry-after-being-laid-off-by-trump-administration/FBCKFRIFQRHZVK5FG3W7MUQEYA/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iqbtaa/weve_been_betrayed_local_veterans_angry_after/">[comments]</a></span> </td></tr></table>
+
+## Trolling Trump, Illinois governor declares Lake Michigan is now Lake Illinois
+ - [https://www.reddit.com/r/politics/comments/1iqbir8/trolling_trump_illinois_governor_declares_lake](https://www.reddit.com/r/politics/comments/1iqbir8/trolling_trump_illinois_governor_declares_lake)
+ - RSS feed: $source
+ - date published: 2025-02-15T21:11:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iqbir8/trolling_trump_illinois_governor_declares_lake/"> <img src="https://external-preview.redd.it/H0dWDZ476AOcxjRSrPsnhBOs8449HzLUyL09OMWiY1U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1c21c770abd28afd2b39a254d09a334cae820710" alt="Trolling Trump, Illinois governor declares Lake Michigan is now Lake Illinois" title="Trolling Trump, Illinois governor declares Lake Michigan is now Lake Illinois" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pasivite"> /u/Pasivite </a> <br/> <span><a href="https://globalnews.ca/news/11016036/jb-pritzker-donald-trump-lake-michigan-lake-illinois/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iqbir8/trolling_trump_illinois_governor_declares_lake/">[comments]</a></span> </td></tr></table>
+
+## "He who saves his Country does not violate any Law": Trump denies his actions are unconstitutional
+ - [https://www.reddit.com/r/politics/comments/1iq9rma/he_who_saves_his_country_does_not_violate_any_law](https://www.reddit.com/r/politics/comments/1iq9rma/he_who_saves_his_country_does_not_violate_any_law)
+ - RSS feed: $source
+ - date published: 2025-02-15T19:55:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq9rma/he_who_saves_his_country_does_not_violate_any_law/"> <img src="https://external-preview.redd.it/Enai3DVR9paV2wavy0Njw9XOepgdEZx_bjpb3VWs414.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d4ff90f83cf509fbb8bb87997578964eebb5eb87" alt="&quot;He who saves his Country does not violate any Law&quot;: Trump denies his actions are unconstitutional" title="&quot;He who saves his Country does not violate any Law&quot;: Trump denies his actions are unconstitutional" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LuklaAdvocate"> /u/LuklaAdvocate </a> <br/> <span><a href="https://www.salon.com/2025/02/15/he-saves-his-country-does-not-any-law-denies-his-actions-are-unconstitutional/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq9rma/he_who_saves_his_country_does_not_violate_any_law/">[comments]</a></span> </td></tr></table>
+
+## Royal Society to vote on expelling ‘Bond villain’ Elon Musk
+ - [https://www.reddit.com/r/politics/comments/1iq7xhs/royal_society_to_vote_on_expelling_bond_villain](https://www.reddit.com/r/politics/comments/1iq7xhs/royal_society_to_vote_on_expelling_bond_villain)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:35:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq7xhs/royal_society_to_vote_on_expelling_bond_villain/"> <img src="https://external-preview.redd.it/LnTDv6zhuMzGcynHspVc-YhfFIXwzcbjOBC6KiWKR6U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d4e3e83cdbd3f6a4db352de30d637c28ba71edd" alt="Royal Society to vote on expelling ‘Bond villain’ Elon Musk" title="Royal Society to vote on expelling ‘Bond villain’ Elon Musk" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TimesandSundayTimes"> /u/TimesandSundayTimes </a> <br/> <span><a href="https://www.thetimes.com/article/bbabf085-8d70-46b5-aff7-a379b71ee0f9?utm_medium=Social&amp;utm_source=Reddit#Echobox=1739644498">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq7xhs/royal_society_to_vote_on_expelling_bond_villain/">[comments]</a></span> </td></tr></table>
+
+## Trump Is Gutting Efforts to Combat Foreign Election Interference
+ - [https://www.reddit.com/r/politics/comments/1iq7qpn/trump_is_gutting_efforts_to_combat_foreign](https://www.reddit.com/r/politics/comments/1iq7qpn/trump_is_gutting_efforts_to_combat_foreign)
+ - RSS feed: $source
+ - date published: 2025-02-15T18:27:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq7qpn/trump_is_gutting_efforts_to_combat_foreign/"> <img src="https://external-preview.redd.it/WcWyx5czUfV1d0Cn157s23nZj1EH45SGgJNNE3XbLF0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ba8291d584b8149665a4645fdd3fc5f4584e2063" alt="Trump Is Gutting Efforts to Combat Foreign Election Interference" title="Trump Is Gutting Efforts to Combat Foreign Election Interference" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://www.motherjones.com/politics/2025/02/trump-cisa-foreign-election-interference/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq7qpn/trump_is_gutting_efforts_to_combat_foreign/">[comments]</a></span> </td></tr></table>
+
+## Valentine’s Day massacre: Uncounted throng of Wyomingites fired by Trump administration
+ - [https://www.reddit.com/r/politics/comments/1iq6raq/valentines_day_massacre_uncounted_throng_of](https://www.reddit.com/r/politics/comments/1iq6raq/valentines_day_massacre_uncounted_throng_of)
+ - RSS feed: $source
+ - date published: 2025-02-15T17:44:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq6raq/valentines_day_massacre_uncounted_throng_of/"> <img src="https://external-preview.redd.it/bD-HXc9L96QqoZO0CSCt4u0q1rnddG3Sz3yVNw5ePQU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=249088310095e84972683609e4cfee4f306b8346" alt="Valentine’s Day massacre: Uncounted throng of Wyomingites fired by Trump administration" title="Valentine’s Day massacre: Uncounted throng of Wyomingites fired by Trump administration" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WyoFileNews"> /u/WyoFileNews </a> <br/> <span><a href="https://wyofile.com/valentines-day-massacre-uncounted-throng-of-wyomingites-fired-by-trump-administration/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq6raq/valentines_day_massacre_uncounted_throng_of/">[comments]</a></span> </td></tr></table>
+
+## Trump administration wants to un-fire some nuclear safety workers but can’t figure out how to reach them
+ - [https://www.reddit.com/r/politics/comments/1iq6d1j/trump_administration_wants_to_unfire_some_nuclear](https://www.reddit.com/r/politics/comments/1iq6d1j/trump_administration_wants_to_unfire_some_nuclear)
+ - RSS feed: $source
+ - date published: 2025-02-15T17:26:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq6d1j/trump_administration_wants_to_unfire_some_nuclear/"> <img src="https://external-preview.redd.it/rxmhk3vxu_mBWqDJJOiZIW4P_HCZk4VDtPRBY3asruY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42d4bb3ac52e8724b6af03cd80049d899ea4dec2" alt="Trump administration wants to un-fire some nuclear safety workers but can’t figure out how to reach them" title="Trump administration wants to un-fire some nuclear safety workers but can’t figure out how to reach them" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br/> <span><a href="https://www.nbcnews.com/politics/national-security/trump-administration-wants-un-fire-nuclear-safety-workers-cant-figure-rcna192345">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq6d1j/trump_administration_wants_to_unfire_some_nuclear/">[comments]</a></span> </td></tr></table>
+
+## RFK Jr. Just Kneecapped the CDC on His First Day
+ - [https://www.reddit.com/r/politics/comments/1iq67oa/rfk_jr_just_kneecapped_the_cdc_on_his_first_day](https://www.reddit.com/r/politics/comments/1iq67oa/rfk_jr_just_kneecapped_the_cdc_on_his_first_day)
+ - RSS feed: $source
+ - date published: 2025-02-15T17:19:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq67oa/rfk_jr_just_kneecapped_the_cdc_on_his_first_day/"> <img src="https://external-preview.redd.it/K9Uqv8Q4blRLv8F97d_ZsXndHh8699PmABmFsWYQSQk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4f471b71e280870dedfea5ead1212f4fe894b35" alt="RFK Jr. Just Kneecapped the CDC on His First Day" title="RFK Jr. Just Kneecapped the CDC on His First Day" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/feraxks"> /u/feraxks </a> <br/> <span><a href="https://newrepublic.com/post/191579/robert-f-kennedy-jr-cdc-infectious-disease-research">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq67oa/rfk_jr_just_kneecapped_the_cdc_on_his_first_day/">[comments]</a></span> </td></tr></table>
+
+## Luigi Mangione Makes First Public Statement, Launches Website
+ - [https://www.reddit.com/r/politics/comments/1iq5drh/luigi_mangione_makes_first_public_statement](https://www.reddit.com/r/politics/comments/1iq5drh/luigi_mangione_makes_first_public_statement)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:43:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq5drh/luigi_mangione_makes_first_public_statement/"> <img src="https://external-preview.redd.it/uhnyZjOxs4LVuQPrTsgwHAGZ0rGRpX-6B0RqEKrLbnY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=baa58ff8713fd0e0f61945f137bb8348db339d27" alt="Luigi Mangione Makes First Public Statement, Launches Website" title="Luigi Mangione Makes First Public Statement, Launches Website" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/brashendeavors"> /u/brashendeavors </a> <br/> <span><a href="https://www.rollingstone.com/culture/culture-news/luigi-mangione-website-statement-united-healthcare-ceo-1235268920/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq5drh/luigi_mangione_makes_first_public_statement/">[comments]</a></span> </td></tr></table>
+
+## Saturday Morning Political Cartoon Thread
+ - [https://www.reddit.com/r/politics/comments/1iq4g6n/saturday_morning_political_cartoon_thread](https://www.reddit.com/r/politics/comments/1iq4g6n/saturday_morning_political_cartoon_thread)
+ - RSS feed: $source
+ - date published: 2025-02-15T16:01:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>It&#39;s Saturday, folks. Let&#39;s all kick back with a cup of coffee and share some cartoons!</p> <p>Feel free to share political cartoons in this thread. Besides our usual civility policy, there are three rules to follow:</p> <ol> <li><p>Every top-level comment must contain a political cartoon. This means no text-only top-level comments.</p></li> <li><p>It must be an original cartoon. This means no photographs, no edited cartoons, no AI generated images, no templates, no memes and no image macros. OC is allowed, as is animation.</p></li> <li><p>Each top-level comment should only have a maximum of 3 cartoons. </p></li> </ol> <p>That&#39;s all. Enjoy your weekend!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/optimalg"> /u/optimalg </a> <br/> <span><a href="https://www.reddit.com/r/politics/comments/1iq4g6n/saturday_morning_political_cartoon_thread/">[link]</a></span> &#32; <span><a href="https://www.reddit.c
+
+## Elon Musk’s DOGE Shares Classified U.S. Intel With Entire World
+ - [https://www.reddit.com/r/politics/comments/1iq3p3m/elon_musks_doge_shares_classified_us_intel_with](https://www.reddit.com/r/politics/comments/1iq3p3m/elon_musks_doge_shares_classified_us_intel_with)
+ - RSS feed: $source
+ - date published: 2025-02-15T15:26:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq3p3m/elon_musks_doge_shares_classified_us_intel_with/"> <img src="https://external-preview.redd.it/jXzrvkCU0iGbN8p4u9v_IeBDmhM6klT3kG4CFa8CcQY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e91271ad8f28eee02b399e912bf829b162490c03" alt="Elon Musk’s DOGE Shares Classified U.S. Intel With Entire World" title="Elon Musk’s DOGE Shares Classified U.S. Intel With Entire World" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/undercurrents"> /u/undercurrents </a> <br/> <span><a href="https://newrepublic.com/post/191580/elon-musk-doge-classified-us-intel-data-website">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq3p3m/elon_musks_doge_shares_classified_us_intel_with/">[comments]</a></span> </td></tr></table>
+
+## RFK Jr. is already taking aim at anti-depressants
+ - [https://www.reddit.com/r/politics/comments/1iq3kxa/rfk_jr_is_already_taking_aim_at_antidepressants](https://www.reddit.com/r/politics/comments/1iq3kxa/rfk_jr_is_already_taking_aim_at_antidepressants)
+ - RSS feed: $source
+ - date published: 2025-02-15T15:20:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq3kxa/rfk_jr_is_already_taking_aim_at_antidepressants/"> <img src="https://external-preview.redd.it/P3ov4OGPR_7vPyQUfUByoFLBUhvrjoXOJVZOGuUcIfo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=02cf58ec6d373354ffef7df5b8e53fdcba36d9bc" alt="RFK Jr. is already taking aim at anti-depressants" title="RFK Jr. is already taking aim at anti-depressants" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ReaderBeeRottweiler"> /u/ReaderBeeRottweiler </a> <br/> <span><a href="https://www.motherjones.com/politics/2025/02/kennedy-rfk-antidepressants-ssri-school-shootings/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq3kxa/rfk_jr_is_already_taking_aim_at_antidepressants/">[comments]</a></span> </td></tr></table>
+
+## Sheryl Crow Says “So Long Tesla,” Donates Money to NPR: “Under Threat By President Musk”
+ - [https://www.reddit.com/r/politics/comments/1iq37wn/sheryl_crow_says_so_long_tesla_donates_money_to](https://www.reddit.com/r/politics/comments/1iq37wn/sheryl_crow_says_so_long_tesla_donates_money_to)
+ - RSS feed: $source
+ - date published: 2025-02-15T15:03:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq37wn/sheryl_crow_says_so_long_tesla_donates_money_to/"> <img src="https://external-preview.redd.it/4K8ZQx2TQqZKEkY-xd9-TSXxCQBMF2dNk9R4pJ-1nyU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=61cad1ecbb43912f5d6d50c8890f9e38fda9dd1e" alt="Sheryl Crow Says “So Long Tesla,” Donates Money to NPR: “Under Threat By President Musk”" title="Sheryl Crow Says “So Long Tesla,” Donates Money to NPR: “Under Threat By President Musk”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PrithvinathReddy"> /u/PrithvinathReddy </a> <br/> <span><a href="https://www.hollywoodreporter.com/news/general-news/sheryl-crow-sells-tesla-donates-money-npr-elon-musk-1236137426/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq37wn/sheryl_crow_says_so_long_tesla_donates_money_to/">[comments]</a></span> </td></tr></table>
+
+## Federal workers express shock, anger over mass firings: "You are not fit for continued employment"
+ - [https://www.reddit.com/r/politics/comments/1iq2c31/federal_workers_express_shock_anger_over_mass](https://www.reddit.com/r/politics/comments/1iq2c31/federal_workers_express_shock_anger_over_mass)
+ - RSS feed: $source
+ - date published: 2025-02-15T14:20:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq2c31/federal_workers_express_shock_anger_over_mass/"> <img src="https://external-preview.redd.it/2AVMJoT9GDmhIRlLN96JuFNWEUDw1RPpKBaHVikaKD0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=af8bf50992613842021874c6cee0b6ced7208c3a" alt="Federal workers express shock, anger over mass firings: &quot;You are not fit for continued employment&quot;" title="Federal workers express shock, anger over mass firings: &quot;You are not fit for continued employment&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HeHateMe337"> /u/HeHateMe337 </a> <br/> <span><a href="https://www.cbsnews.com/news/trump-federal-employees-probationary-firings-layoffs-workers-impact/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq2c31/federal_workers_express_shock_anger_over_mass/">[comments]</a></span> </td></tr></table>
+
+## Bernie Sanders launches tour "to fight oligarchy": Here's where he's going
+ - [https://www.reddit.com/r/politics/comments/1iq252v/bernie_sanders_launches_tour_to_fight_oligarchy](https://www.reddit.com/r/politics/comments/1iq252v/bernie_sanders_launches_tour_to_fight_oligarchy)
+ - RSS feed: $source
+ - date published: 2025-02-15T14:11:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq252v/bernie_sanders_launches_tour_to_fight_oligarchy/"> <img src="https://external-preview.redd.it/blD5XARMiuRS7Sk6rImR4d08ziLOO2JzFk-s1qzuu6Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f253a0bffed38eacf70df901403d47672866679e" alt="Bernie Sanders launches tour &quot;to fight oligarchy&quot;: Here's where he's going" title="Bernie Sanders launches tour &quot;to fight oligarchy&quot;: Here's where he's going" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_May26_"> /u/_May26_ </a> <br/> <span><a href="https://www.newsweek.com/bernie-sanders-elon-musk-tour-oligarchy-2030615">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq252v/bernie_sanders_launches_tour_to_fight_oligarchy/">[comments]</a></span> </td></tr></table>
+
+## ‘We’re not going to America’: Canadians boycott U.S. over Trump threats
+ - [https://www.reddit.com/r/politics/comments/1iq1tpx/were_not_going_to_america_canadians_boycott_us](https://www.reddit.com/r/politics/comments/1iq1tpx/were_not_going_to_america_canadians_boycott_us)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:54:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq1tpx/were_not_going_to_america_canadians_boycott_us/"> <img src="https://external-preview.redd.it/8KN2oqaiNJfncSoS0BkKWahD8XloKBV9w47Rjzfd_Wc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=88f4aeb18451e4be2e9e692885c7a49dae136645" alt="‘We’re not going to America’: Canadians boycott U.S. over Trump threats" title="‘We’re not going to America’: Canadians boycott U.S. over Trump threats" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WisestPanzerOfDaLake"> /u/WisestPanzerOfDaLake </a> <br/> <span><a href="https://www.cbc.ca/player/play/video/9.6650270">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq1tpx/were_not_going_to_america_canadians_boycott_us/">[comments]</a></span> </td></tr></table>
+
+## Trump responds to critics who say Musk is in charge
+ - [https://www.reddit.com/r/politics/comments/1iq1n6f/trump_responds_to_critics_who_say_musk_is_in](https://www.reddit.com/r/politics/comments/1iq1n6f/trump_responds_to_critics_who_say_musk_is_in)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:45:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq1n6f/trump_responds_to_critics_who_say_musk_is_in/"> <img src="https://external-preview.redd.it/zYhO4wI-OlvSB19F6mVWUQ0MANCCUWWq8MPNRjydB8I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=211ed94ad068d7cb2fa5de7ecc367609d3e40d33" alt="Trump responds to critics who say Musk is in charge" title="Trump responds to critics who say Musk is in charge" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CASHOWL"> /u/CASHOWL </a> <br/> <span><a href="https://edition.cnn.com/2025/02/14/politics/video/trump-elon-musk-friction-fox-news-digvid-src">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq1n6f/trump_responds_to_critics_who_say_musk_is_in/">[comments]</a></span> </td></tr></table>
+
+## Trump Officials Fire, Swiftly Rehire, Overseers of U.S. Nuclear Stockpile | Trump administration officials seemed unaware of the importance of the National Nuclear Security Administration, sources told CNN.
+ - [https://www.reddit.com/r/politics/comments/1iq1k18/trump_officials_fire_swiftly_rehire_overseers_of](https://www.reddit.com/r/politics/comments/1iq1k18/trump_officials_fire_swiftly_rehire_overseers_of)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:40:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq1k18/trump_officials_fire_swiftly_rehire_overseers_of/"> <img src="https://external-preview.redd.it/O_0u1rjs7TRdlaYS_IQTxZtY0cOME8guVOIogE0nSKY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8522b134f02edf04ba178cf25ef13436ca870842" alt="Trump Officials Fire, Swiftly Rehire, Overseers of U.S. Nuclear Stockpile | Trump administration officials seemed unaware of the importance of the National Nuclear Security Administration, sources told CNN." title="Trump Officials Fire, Swiftly Rehire, Overseers of U.S. Nuclear Stockpile | Trump administration officials seemed unaware of the importance of the National Nuclear Security Administration, sources told CNN." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br/> <span><a href="https://www.thedailybeast.com/trump-officials-fire-abruptly-rehire-overseers-of-us-nuclear-stockpile/">[link]</a></span> &
+
+## Canada should block U.S. ambassador while Trump talks annexation, professor says
+ - [https://www.reddit.com/r/politics/comments/1iq1jg2/canada_should_block_us_ambassador_while_trump](https://www.reddit.com/r/politics/comments/1iq1jg2/canada_should_block_us_ambassador_while_trump)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:39:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq1jg2/canada_should_block_us_ambassador_while_trump/"> <img src="https://external-preview.redd.it/yy_CrLMnlNbFR9hBU9nJqVc329ypSflASBKBeE437aI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb9775406823469e8df5427e620b746ba78d8f1d" alt="Canada should block U.S. ambassador while Trump talks annexation, professor says" title="Canada should block U.S. ambassador while Trump talks annexation, professor says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WisestPanzerOfDaLake"> /u/WisestPanzerOfDaLake </a> <br/> <span><a href="https://nationalpost.com/news/canada/canada-should-block-u-s-ambassador-while-trump-talks-annexation-professor-says">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq1jg2/canada_should_block_us_ambassador_while_trump/">[comments]</a></span> </td></tr></table>
+
+## Trump-Musk Scandal at USAID Takes Unnerving Turn With Vile Leaked Memo
+ - [https://www.reddit.com/r/politics/comments/1iq1cyw/trumpmusk_scandal_at_usaid_takes_unnerving_turn](https://www.reddit.com/r/politics/comments/1iq1cyw/trumpmusk_scandal_at_usaid_takes_unnerving_turn)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:30:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq1cyw/trumpmusk_scandal_at_usaid_takes_unnerving_turn/"> <img src="https://external-preview.redd.it/HjgDbyvE8VoqwV8CgtDEC65yM746owYgc9QvAKbnTnU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fbe75b671a2203b47eee6f8ac7b09bb99390c02b" alt="Trump-Musk Scandal at USAID Takes Unnerving Turn With Vile Leaked Memo" title="Trump-Musk Scandal at USAID Takes Unnerving Turn With Vile Leaked Memo" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HeHateMe337"> /u/HeHateMe337 </a> <br/> <span><a href="https://newrepublic.com/article/191578/trump-musk-scandal-usaid-leaked-memo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq1cyw/trumpmusk_scandal_at_usaid_takes_unnerving_turn/">[comments]</a></span> </td></tr></table>
+
+## Bernie Sanders launches high-profile offensive against ‘the oligarchy’
+ - [https://www.reddit.com/r/politics/comments/1iq1blv/bernie_sanders_launches_highprofile_offensive](https://www.reddit.com/r/politics/comments/1iq1blv/bernie_sanders_launches_highprofile_offensive)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:28:05+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/xc2215x"> /u/xc2215x </a> <br/> <span><a href="https://www.politico.com/news/2025/02/12/bernie-sanders-iowa-midterms-trump-musk-00203974">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq1blv/bernie_sanders_launches_highprofile_offensive/">[comments]</a></span>
+
+## JD Vance decried as extremist over attack on UK abortion clinic safe zones
+ - [https://www.reddit.com/r/politics/comments/1iq1auy/jd_vance_decried_as_extremist_over_attack_on_uk](https://www.reddit.com/r/politics/comments/1iq1auy/jd_vance_decried_as_extremist_over_attack_on_uk)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:26:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq1auy/jd_vance_decried_as_extremist_over_attack_on_uk/"> <img src="https://external-preview.redd.it/gcBxPc0NQDU8UKf8-JGfR_zqzAxM9K-jnhkA5zI3Eug.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d798e58d38ae0651c88b1cf227e345a7cbfe3953" alt="JD Vance decried as extremist over attack on UK abortion clinic safe zones" title="JD Vance decried as extremist over attack on UK abortion clinic safe zones" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sweatycat"> /u/sweatycat </a> <br/> <span><a href="https://www.theguardian.com/world/2025/feb/15/jd-vance-decried-as-extremist-over-attack-on-uk-abortion-clinic-safe-zones">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq1auy/jd_vance_decried_as_extremist_over_attack_on_uk/">[comments]</a></span> </td></tr></table>
+
+## German Chancellor Rebukes Vance for Supporting Party That Downplays Nazis
+ - [https://www.reddit.com/r/politics/comments/1iq163j/german_chancellor_rebukes_vance_for_supporting](https://www.reddit.com/r/politics/comments/1iq163j/german_chancellor_rebukes_vance_for_supporting)
+ - RSS feed: $source
+ - date published: 2025-02-15T13:19:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq163j/german_chancellor_rebukes_vance_for_supporting/"> <img src="https://external-preview.redd.it/l9C4Pg_1AnE3djkBF0TaRnhhk9FdnaZoozmSAKZq8XQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ad9e7c5bc7d26beb3918180b47e7a5c0c03fa0f" alt="German Chancellor Rebukes Vance for Supporting Party That Downplays Nazis" title="German Chancellor Rebukes Vance for Supporting Party That Downplays Nazis" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Signal-Lie-6785"> /u/Signal-Lie-6785 </a> <br/> <span><a href="https://www.nytimes.com/2025/02/15/world/europe/scholz-vance-munich-germany.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq163j/german_chancellor_rebukes_vance_for_supporting/">[comments]</a></span> </td></tr></table>
+
+## Zelensky warns the days of America’s guaranteed support for Europe are over
+ - [https://www.reddit.com/r/politics/comments/1iq0p60/zelensky_warns_the_days_of_americas_guaranteed](https://www.reddit.com/r/politics/comments/1iq0p60/zelensky_warns_the_days_of_americas_guaranteed)
+ - RSS feed: $source
+ - date published: 2025-02-15T12:52:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iq0p60/zelensky_warns_the_days_of_americas_guaranteed/"> <img src="https://external-preview.redd.it/moNIpYBRMGoMUdPXeu1WEHtn5hk8n44XwIlfMy7M9SY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b46797caaad0898204fb433404f75ca4f690de0" alt="Zelensky warns the days of America’s guaranteed support for Europe are over" title="Zelensky warns the days of America’s guaranteed support for Europe are over" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sweatycat"> /u/sweatycat </a> <br/> <span><a href="https://www.cnn.com/2025/02/15/europe/zelensky-trump-putin-ukraine-russia-peace-talks-intl/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iq0p60/zelensky_warns_the_days_of_americas_guaranteed/">[comments]</a></span> </td></tr></table>
+
+## JD Vance Mocked After Downplaying Election Interference To European Leaders
+ - [https://www.reddit.com/r/politics/comments/1ipzsrp/jd_vance_mocked_after_downplaying_election](https://www.reddit.com/r/politics/comments/1ipzsrp/jd_vance_mocked_after_downplaying_election)
+ - RSS feed: $source
+ - date published: 2025-02-15T11:53:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ipzsrp/jd_vance_mocked_after_downplaying_election/"> <img src="https://external-preview.redd.it/e6-r53e0gGBzWVLnNFTLjmSdbmcgVpMq6eRhTuX4wRQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b3a6c2e56ea78197c6088fb686f622b062064bad" alt="JD Vance Mocked After Downplaying Election Interference To European Leaders" title="JD Vance Mocked After Downplaying Election Interference To European Leaders" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ObjectiveAd6551"> /u/ObjectiveAd6551 </a> <br/> <span><a href="https://www.huffpost.com/entry/jd-vance-defends-election-interference_n_67af93d9e4b0513a8d7723b6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ipzsrp/jd_vance_mocked_after_downplaying_election/">[comments]</a></span> </td></tr></table>
+
+## Booing the American anthem? It’s our patriotic duty right now
+ - [https://www.reddit.com/r/politics/comments/1ipzbkl/booing_the_american_anthem_its_our_patriotic_duty](https://www.reddit.com/r/politics/comments/1ipzbkl/booing_the_american_anthem_its_our_patriotic_duty)
+ - RSS feed: $source
+ - date published: 2025-02-15T11:19:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ipzbkl/booing_the_american_anthem_its_our_patriotic_duty/"> <img src="https://external-preview.redd.it/l21Zw9Fh_DZniaagKeCN1YPgtljIw8OlHUJl1DETT3Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0cb9af84fb81bb70c7e6ef34692281878e4d5dd3" alt="Booing the American anthem? It’s our patriotic duty right now" title="Booing the American anthem? It’s our patriotic duty right now" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/johnnierockit"> /u/johnnierockit </a> <br/> <span><a href="https://www.theglobeandmail.com/sports/article-booing-the-american-anthem-its-our-patriotic-duty-right-now/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ipzbkl/booing_the_american_anthem_its_our_patriotic_duty/">[comments]</a></span> </td></tr></table>
+
+## Zelensky ‘politely declines’ to sign agreement granting U.S. mining rights for half of Ukraine’s ‘future mineral reserves’ — Meduza
+ - [https://www.reddit.com/r/politics/comments/1ipu9a1/zelensky_politely_declines_to_sign_agreement](https://www.reddit.com/r/politics/comments/1ipu9a1/zelensky_politely_declines_to_sign_agreement)
+ - RSS feed: $source
+ - date published: 2025-02-15T05:07:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ipu9a1/zelensky_politely_declines_to_sign_agreement/"> <img src="https://external-preview.redd.it/g5GpjRR2wyVhxlV2J4Y-DEGNO9MsVYfL_Ly_KZhAFt8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e1c1fd5fcb8faaa3161484f5c9d4a204731ebb3" alt="Zelensky ‘politely declines’ to sign agreement granting U.S. mining rights for half of Ukraine’s ‘future mineral reserves’ — Meduza" title="Zelensky ‘politely declines’ to sign agreement granting U.S. mining rights for half of Ukraine’s ‘future mineral reserves’ — Meduza" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nerphurp"> /u/nerphurp </a> <br/> <span><a href="https://meduza.io/en/news/2025/02/15/zelensky-politely-declines-to-sign-agreement-granting-u-s-mining-rights-for-half-of-ukraine-s-future-mineral-reserves">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ipu9a1/zelensky_politely_declines_to_sign_agreeme
+
+## 'None of This Is About Saving Money': Fury Over Trump-Musk Purge of Federal Workers
+ - [https://www.reddit.com/r/politics/comments/1ipsxvr/none_of_this_is_about_saving_money_fury_over](https://www.reddit.com/r/politics/comments/1ipsxvr/none_of_this_is_about_saving_money_fury_over)
+ - RSS feed: $source
+ - date published: 2025-02-15T03:47:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ipsxvr/none_of_this_is_about_saving_money_fury_over/"> <img src="https://external-preview.redd.it/kN3iyjsvtfCP7aH9T2kXMGr0mLF6p1COgnVbn7hbDA8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=95b5a309d3953bae6cc625eced0a8150bc51ef33" alt="'None of This Is About Saving Money': Fury Over Trump-Musk Purge of Federal Workers" title="'None of This Is About Saving Money': Fury Over Trump-Musk Purge of Federal Workers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/misslizzie444"> /u/misslizzie444 </a> <br/> <span><a href="https://www.commondreams.org/news/none-of-this-is-about-saving-money-fury-over-trump-musk-purge-of-federal-workers">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ipsxvr/none_of_this_is_about_saving_money_fury_over/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk's Son Appearing to 'Shush' Trump During Oval Office Meeting Draws Hilarious Reactions: 'This Is a SNL Skit Happening in Real Time'
+ - [https://www.reddit.com/r/politics/comments/1ips9ep/elon_musks_son_appearing_to_shush_trump_during](https://www.reddit.com/r/politics/comments/1ips9ep/elon_musks_son_appearing_to_shush_trump_during)
+ - RSS feed: $source
+ - date published: 2025-02-15T03:08:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ips9ep/elon_musks_son_appearing_to_shush_trump_during/"> <img src="https://external-preview.redd.it/FQlWFaV80blEe-k9CUBay0UgUtg8kJ2jCzdMIntBOR8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=31b429b5ebc9ddd2211380865a7a3d4660d49bee" alt="Elon Musk's Son Appearing to 'Shush' Trump During Oval Office Meeting Draws Hilarious Reactions: 'This Is a SNL Skit Happening in Real Time'" title="Elon Musk's Son Appearing to 'Shush' Trump During Oval Office Meeting Draws Hilarious Reactions: 'This Is a SNL Skit Happening in Real Time'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/okayblueberries"> /u/okayblueberries </a> <br/> <span><a href="https://www.latintimes.com/elon-musks-son-appearing-shush-trump-during-oval-office-meeting-draws-hilarious-reactions-575418">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ips9ep/elon_musks_son_appearing_to_shush_trump
+
+## Elon Musk’s DOGE Shares Classified U.S. Intel With Entire World
+ - [https://www.reddit.com/r/politics/comments/1ips4m2/elon_musks_doge_shares_classified_us_intel_with](https://www.reddit.com/r/politics/comments/1ips4m2/elon_musks_doge_shares_classified_us_intel_with)
+ - RSS feed: $source
+ - date published: 2025-02-15T03:01:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ips4m2/elon_musks_doge_shares_classified_us_intel_with/"> <img src="https://external-preview.redd.it/jXzrvkCU0iGbN8p4u9v_IeBDmhM6klT3kG4CFa8CcQY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e91271ad8f28eee02b399e912bf829b162490c03" alt="Elon Musk’s DOGE Shares Classified U.S. Intel With Entire World" title="Elon Musk’s DOGE Shares Classified U.S. Intel With Entire World" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RatioKey2034"> /u/RatioKey2034 </a> <br/> <span><a href="https://newrepublic.com/post/191580/elon-musk-doge-classified-us-intel-data-website?utm_source=chatgpt.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ips4m2/elon_musks_doge_shares_classified_us_intel_with/">[comments]</a></span> </td></tr></table>
+
+## Trump’s cuts hit red states, triggering GOP pushback
+ - [https://www.reddit.com/r/politics/comments/1ips19d/trumps_cuts_hit_red_states_triggering_gop_pushback](https://www.reddit.com/r/politics/comments/1ips19d/trumps_cuts_hit_red_states_triggering_gop_pushback)
+ - RSS feed: $source
+ - date published: 2025-02-15T02:55:52+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/juspassingby"> /u/juspassingby </a> <br/> <span><a href="https://www.politico.com/news/2025/02/14/doge-trump-omb-gop-00204435">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ips19d/trumps_cuts_hit_red_states_triggering_gop_pushback/">[comments]</a></span>
+
+## 3 men claiming to be from DOGE show up at San Francisco City Hall, demand records
+ - [https://www.reddit.com/r/politics/comments/1ipqybg/3_men_claiming_to_be_from_doge_show_up_at_san](https://www.reddit.com/r/politics/comments/1ipqybg/3_men_claiming_to_be_from_doge_show_up_at_san)
+ - RSS feed: $source
+ - date published: 2025-02-15T01:55:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ipqybg/3_men_claiming_to_be_from_doge_show_up_at_san/"> <img src="https://external-preview.redd.it/ttt4bYJef0wOPb1bc7FPUOOmcGK-1imCdxuCSKt6MaU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=beadb6f71e7d48178e05632724de1f0ff77bfd33" alt="3 men claiming to be from DOGE show up at San Francisco City Hall, demand records" title="3 men claiming to be from DOGE show up at San Francisco City Hall, demand records" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dude207"> /u/Dude207 </a> <br/> <span><a href="https://www.cbsnews.com/sanfrancisco/news/doge-3-men-show-up-at-sf-city-hall-demand-records/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ipqybg/3_men_claiming_to_be_from_doge_show_up_at_san/">[comments]</a></span> </td></tr></table>
+
+## Trump officials fired nuclear staff not realizing they oversee the country’s weapons stockpile, sources say
+ - [https://www.reddit.com/r/politics/comments/1ippxtd/trump_officials_fired_nuclear_staff_not_realizing](https://www.reddit.com/r/politics/comments/1ippxtd/trump_officials_fired_nuclear_staff_not_realizing)
+ - RSS feed: $source
+ - date published: 2025-02-15T01:00:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ippxtd/trump_officials_fired_nuclear_staff_not_realizing/"> <img src="https://external-preview.redd.it/k_DBGGdYhtgW4yfM_WaY3T0kTQAUP75OnyIBE4iNPSg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32160aaf599fd82b7a0fb9cb4736c49788c3c921" alt="Trump officials fired nuclear staff not realizing they oversee the country’s weapons stockpile, sources say" title="Trump officials fired nuclear staff not realizing they oversee the country’s weapons stockpile, sources say" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Optimal-Kitchen6308"> /u/Optimal-Kitchen6308 </a> <br/> <span><a href="https://www.cnn.com/2025/02/14/climate/nuclear-nnsa-firings-trump/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ippxtd/trump_officials_fired_nuclear_staff_not_realizing/">[comments]</a></span> </td></tr></table>
+
+## DOGE’s hastily-launched site has already been hacked: ‘This is a joke of a .gov site’
+ - [https://www.reddit.com/r/politics/comments/1iporho/doges_hastilylaunched_site_has_already_been](https://www.reddit.com/r/politics/comments/1iporho/doges_hastilylaunched_site_has_already_been)
+ - RSS feed: $source
+ - date published: 2025-02-15T00:00:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iporho/doges_hastilylaunched_site_has_already_been/"> <img src="https://external-preview.redd.it/89KpsubXMJrUtLLgu6DYhszMDve0ecXeVNDc2wb8PC8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb62c87e4d4043a42f818018a23321663e1096d4" alt="DOGE’s hastily-launched site has already been hacked: ‘This is a joke of a .gov site’" title="DOGE’s hastily-launched site has already been hacked: ‘This is a joke of a .gov site’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theindependentonline"> /u/theindependentonline </a> <br/> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/doge-website-hacked-musk-b2698683.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iporho/doges_hastilylaunched_site_has_already_been/">[comments]</a></span> </td></tr></table>
+

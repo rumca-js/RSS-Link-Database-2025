@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-15T17:21:29+00:00",
+        "description": "Testujemy, recenzujemy, wystawiamy opini\u0119 o Lenovo Legion Go S. Subiektywn\u0105. A wiecie, \u017ce subiektywna opinia to mas\u0142o ma\u015blane? Wiecie te\u017c, \u017ce jak wci\u015bniecie Ctrl+Shift+End podczas edycji tekstu, to zaznaczy wam fragment PO kursorze? Pozdrawiam serdecznie, du\u017co zdr\u00f3wka po walentynkach!\n\nProwadzenie i scenariusz: Krzysztof \u201eBastian\u201d Freudenberger (http://twitter.com/BastianCDA)\n\nMonta\u017c: Mateusz Pietrasiak",
+        "id": 2122303,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=XzZ8RHHYSXY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XzZ8RHHYSXY/hqdefault.jpg",
+        "title": "Legion Go S to handheld, kt\u00f3rego nie potrzebujesz",
+        "vote": 0
+    }
+]

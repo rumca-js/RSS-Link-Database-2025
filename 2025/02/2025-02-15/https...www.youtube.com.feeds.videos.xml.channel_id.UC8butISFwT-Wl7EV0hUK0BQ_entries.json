@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-15T00:27:47+00:00",
+        "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Julia Undeutsch who is a self-taught software engineer and accessibility specialist. She works at a large European consultancy helping companies make their software more accessible for people with disabilities. Taught herself to code in her 30s using freeCodeCamp.\n\nWe talk about:\n- Julia's coding journey from poker dealer to self-taught software engineer\n- How she creates tutorials in Japanese\n- Her passion for making software easier to use for everyone\n- Working remotely at a big European software consultancy\n\nLinks we talk about during our conversation:\n\n- Julia's website: https://www.juliaundeutsch.com/\n\n- Movie trailer for the 1999 Clive Owen movie \"Croupier\" that Quincy mentions: https://www.youtube.com/watch?v=LDWzeq5QGiA\n\nChapters\n\n0:00:00 Teaser\n0:00:19 Introuction\n0:01:24 Song: Fever\n0:02:20 Introduction to Accessibility and Self-Taught Development\n0:05:12 Understanding Accessibility: Import",
+        "id": 2118809,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=L6Q8TkPA-ao",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/L6Q8TkPA-ao/hqdefault.jpg",
+        "title": "From Poker Dealer to Self-Taught Developer [Podcast #160]",
+        "vote": 0
+    }
+]

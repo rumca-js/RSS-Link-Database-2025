@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-15T18:20:15+00:00",
+        "description": "Police said the victim suffered \"prolonged physical and psychological abuse at the hands of multiple individuals\" before his death.",
+        "id": 2122803,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c391grm0g3no",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 526,
+        "source_url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/716a/live/845e2250-ebbe-11ef-8568-3dcf239d7c0b.png",
+        "title": "New York police charge five with 'disturbing' murder of trans man",
+        "vote": 0
+    }
+]

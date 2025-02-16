@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-15T20:45:32+00:00",
+        "description": "<img width=\"2048\" height=\"1063\" src=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/18144119/digital-wallet-scaled.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/18144119/digital-wallet-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/18144119/digital-wallet-300x156.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/18144119/digital-wallet-1024x531.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/18144119/digital-wallet-150x78.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/18144119/digital-wallet-768x399.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/10/18144119/digital-wallet-1536x797.jpg 1536w\" sizes=\"(max-width: 2048px) 100vw, 2048px\" />\n\t\tFrom biometric binding through regulations for ",
+        "id": 2123105,
+        "language": "en-US",
+        "link": "https://www.biometricupdate.com/202502/operationalizing-biometrics-for-digital-economy-is-a-process",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 38,
+        "source_url": "https://www.biometricupdate.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Operationalizing biometrics for digital economy is a process",
+        "vote": 0
+    }
+]
