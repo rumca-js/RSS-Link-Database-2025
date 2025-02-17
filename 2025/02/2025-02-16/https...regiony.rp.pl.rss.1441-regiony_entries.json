@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-16T20:06:39+00:00",
+        "description": "Biegn\u0105ca nowym \u015bladem droga ekspresowa S1 pozwoli bez kork\u00f3w dojecha\u0107 do miejscowo\u015bci Podbeskidzia.",
+        "id": 2128059,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/transport/art41812121-slask-inwestuje-w-szybkie-drogi-i-sprawniejsza-kolej",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u015al\u0105sk inwestuje w szybkie drogi i sprawniejsz\u0105 kolej",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-16T12:33:37+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/WeirdWebsites/comments/1iqr9pl/my_new_app_webwanderlust_an_ios_app_dedicated_to/\"> <img src=\"https://external-preview.redd.it/OGhoaGg0YWt3aGplMZzMB7ZGc57-rwHggqDofw-KaOvkBIs2pGjIa6wxWR0u.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dce2b7084367e8b7fa7633f91b0dff7ddee74d03\" alt=\"My new app - WebWanderlust: an iOS app dedicated to helping people find new websites - weird and useful.\" title=\"My new app - WebWanderlust: an iOS app dedicated to helping people find new websites - weird and useful.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Confident_Draft9882\"> /u/Confident_Draft9882 </a> <br/> <span><a href=\"https://v.redd.it/dgjct3akwhje1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/WeirdWebsites/comments/1iqr9pl/my_new_app_webwanderlust_an_ios_app_dedicated_to/\">[comments]</a></span> </td></tr></table>",
+        "id": 2126090,
+        "language": null,
+        "link": "https://www.reddit.com/r/WeirdWebsites/comments/1iqr9pl/my_new_app_webwanderlust_an_ios_app_dedicated_to",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 579,
+        "source_url": "https://www.reddit.com/r/WeirdWebsites/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/OGhoaGg0YWt3aGplMZzMB7ZGc57-rwHggqDofw-KaOvkBIs2pGjIa6wxWR0u.png?width=640&crop=smart&auto=webp&s=dce2b7084367e8b7fa7633f91b0dff7ddee74d03",
+        "title": "My new app - WebWanderlust: an iOS app dedicated to helping people find new websites - weird and useful.",
+        "vote": 0
+    }
+]

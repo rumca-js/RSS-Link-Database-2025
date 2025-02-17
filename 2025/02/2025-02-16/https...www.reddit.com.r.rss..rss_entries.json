@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-16T19:03:55+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey, is there an Android RSS reader app with push notifications for new feeds? I&#39;m tired of checking the web all the time. iOS had something like News Explorer, but Android seems to need a subscription, right? Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Shock9191\"> /u/Shock9191 </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1iqzojm/an_android_rss_app_with_push_notifications/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1iqzojm/an_android_rss_app_with_push_notifications/\">[comments]</a></span>",
+        "id": 2127972,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1iqzojm/an_android_rss_app_with_push_notifications",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "An Android RSS app with push notifications.",
+        "vote": 0
+    }
+]

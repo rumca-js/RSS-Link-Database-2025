@@ -1,0 +1,65 @@
+# Source:A forum for the security professionals and white hat hackers., URL:https://www.reddit.com/r/Hacking_Tutorials/.rss, language:en
+
+## Software for a website
+ - [https://www.reddit.com/r/Hacking_Tutorials/comments/1ir5ayi/software_for_a_website](https://www.reddit.com/r/Hacking_Tutorials/comments/1ir5ayi/software_for_a_website)
+ - RSS feed: $source
+ - date published: 2025-02-16T23:04:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello good morning, if you are reading this I need your help. In the world of programming and derivatives I have 0 knowledge, but I would like to know what programs I need, what I have to do, and what I have to learn, to create a Software or a program that allows me to see the opponent&#39;s cards in <a href="http://trucogame.com">trucogame.com</a> (If someone is so kind as to enter and play some games to understand I would appreciate it), this game runs in the browser, but I don&#39;t know if I have to use JavaScripts, if I can get the source code from somewhere, I don&#39;t know, I just want to be able to see the cards of the rival. or what do you have to beat my friend once and for all, thank you.</p> <p>If someone would be so kind as to do this program or give me instructions on how to do it, I would be forever grateful.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Agitated_Study2719"> /u/Agitated_Study27
+
+## Can anyone bring my old hacked account back to me?
+ - [https://www.reddit.com/r/Hacking_Tutorials/comments/1ir3mfx/can_anyone_bring_my_old_hacked_account_back_to_me](https://www.reddit.com/r/Hacking_Tutorials/comments/1ir3mfx/can_anyone_bring_my_old_hacked_account_back_to_me)
+ - RSS feed: $source
+ - date published: 2025-02-16T21:50:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, so my old minecraft account was hacked about 5-6 years ago. They changed the email, password, username... everything. So im wondering if anyone can hack it BACK for me and give it back to me. Please, i cant pay but the account is SUPER important to me. It has my whole childhood in it. PLEASE.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NationalPause8015"> /u/NationalPause8015 </a> <br/> <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1ir3mfx/can_anyone_bring_my_old_hacked_account_back_to_me/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1ir3mfx/can_anyone_bring_my_old_hacked_account_back_to_me/">[comments]</a></span>
+
+## Wanna help me figure out what unknown device is on my network?
+ - [https://www.reddit.com/r/Hacking_Tutorials/comments/1ir36i0/wanna_help_me_figure_out_what_unknown_device_is](https://www.reddit.com/r/Hacking_Tutorials/comments/1ir36i0/wanna_help_me_figure_out_what_unknown_device_is)
+ - RSS feed: $source
+ - date published: 2025-02-16T21:31:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Alt account btw! So about a month ago i found this device on my network. Coincidentally when i was having some work done in and around my home. I want to know what it is. Here are the knowns: I’m a noob, i have no one to ask help from, i find this fun and intriguing but also scary, i like mysteries, i know the ip, mac, it says its wireless, and nmap says its os is Dell powerconnect 2708 switch? Unknowns: i dont know a lot cuz basic, ip and mac comes up nothing with basic web search. My router gives no info. Nmap says nothing else other than the OS. I cant find any manufacturer info. Other info: If i kick it off line and back on. It seems to change its ip and mac? Conclusion: I’m limited by my knowledge but not my determination. Im asking for legit knowledge/detectors/software/technics. I will do the work. I could change my password but it will most likely come back. I could just kick it off line but it might change its ip and mac and come back. Also,
+
+## Tiktok “hackers” aren’t real
+ - [https://www.reddit.com/r/Hacking_Tutorials/comments/1iqqext/tiktok_hackers_arent_real](https://www.reddit.com/r/Hacking_Tutorials/comments/1iqqext/tiktok_hackers_arent_real)
+ - RSS feed: $source
+ - date published: 2025-02-16T11:35:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iqqext/tiktok_hackers_arent_real/"> <img src="https://preview.redd.it/szqiaw6cmhje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f064db01e963cddf3a5d1422ab8c39bd85f0fe2d" alt="Tiktok “hackers” aren’t real" title="Tiktok “hackers” aren’t real" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/blxckhat-ahmxd"> /u/blxckhat-ahmxd </a> <br/> <span><a href="https://i.redd.it/szqiaw6cmhje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iqqext/tiktok_hackers_arent_real/">[comments]</a></span> </td></tr></table>
+
+## Password is Like #Cybersecurity #EthicalHacking
+ - [https://www.reddit.com/r/Hacking_Tutorials/comments/1iqpvlp/password_is_like_cybersecurity_ethicalhacking](https://www.reddit.com/r/Hacking_Tutorials/comments/1iqpvlp/password_is_like_cybersecurity_ethicalhacking)
+ - RSS feed: $source
+ - date published: 2025-02-16T10:57:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iqpvlp/password_is_like_cybersecurity_ethicalhacking/"> <img src="https://preview.redd.it/zkinzvfgfhje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2940c2fc950cf1d8f532c8fc05d46acd0e3ca557" alt="Password is Like #Cybersecurity #EthicalHacking" title="Password is Like #Cybersecurity #EthicalHacking" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/H3li0s-8-5"> /u/H3li0s-8-5 </a> <br/> <span><a href="https://i.redd.it/zkinzvfgfhje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iqpvlp/password_is_like_cybersecurity_ethicalhacking/">[comments]</a></span> </td></tr></table>
+
+## Safer ways to piracy
+ - [https://www.reddit.com/r/Hacking_Tutorials/comments/1iqpnuw/safer_ways_to_piracy](https://www.reddit.com/r/Hacking_Tutorials/comments/1iqpnuw/safer_ways_to_piracy)
+ - RSS feed: $source
+ - date published: 2025-02-16T10:41:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>I would like to know why don&#39;t crackers just share the entire procedure to pirate a game or software in the debugger (or whatever other software is required) instead of or alongside the pirated software/game itself. I think this would be both a great way to share knowledge and help expand the community and also be a safer to way to cracking, so that one can directly work on files whose origin is known and be aware of any single modifications that is being made. So why is nobody doing this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chemdamned"> /u/chemdamned </a> <br/> <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iqpnuw/safer_ways_to_piracy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iqpnuw/safer_ways_to_piracy/">[comments]</a></span>
+
+## Where to start?
+ - [https://www.reddit.com/r/Hacking_Tutorials/comments/1iqpdyq/where_to_start](https://www.reddit.com/r/Hacking_Tutorials/comments/1iqpdyq/where_to_start)
+ - RSS feed: $source
+ - date published: 2025-02-16T10:21:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I work help desk and want to transition to more pentesting/ethical hacking work. What are some good practices and tips to start? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cautious-Biscotti-62"> /u/Cautious-Biscotti-62 </a> <br/> <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iqpdyq/where_to_start/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iqpdyq/where_to_start/">[comments]</a></span>
+
+## First Attack Attempt
+ - [https://www.reddit.com/r/Hacking_Tutorials/comments/1iqp111/first_attack_attempt](https://www.reddit.com/r/Hacking_Tutorials/comments/1iqp111/first_attack_attempt)
+ - RSS feed: $source
+ - date published: 2025-02-16T09:56:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Please as a network engineer I need to know what are the first things that an attacker needs or attacks on against any network??</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kardo-IT"> /u/kardo-IT </a> <br/> <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iqp111/first_attack_attempt/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iqp111/first_attack_attempt/">[comments]</a></span>
+
+## Is there any counter to bruteforce on my ms account?
+ - [https://www.reddit.com/r/Hacking_Tutorials/comments/1iqhxv1/is_there_any_counter_to_bruteforce_on_my_ms](https://www.reddit.com/r/Hacking_Tutorials/comments/1iqhxv1/is_there_any_counter_to_bruteforce_on_my_ms)
+ - RSS feed: $source
+ - date published: 2025-02-16T02:19:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iqhxv1/is_there_any_counter_to_bruteforce_on_my_ms/"> <img src="https://preview.redd.it/zzxo7jt4veje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e5911558823e96f0131af146710deb09cd02af01" alt="Is there any counter to bruteforce on my ms account?" title="Is there any counter to bruteforce on my ms account?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This has been going for two years and im constantly getting otps on my main email </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/francisthelumberjack"> /u/francisthelumberjack </a> <br/> <span><a href="https://i.redd.it/zzxo7jt4veje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Hacking_Tutorials/comments/1iqhxv1/is_there_any_counter_to_bruteforce_on_my_ms/">[comments]</a></span> </td></tr></table>
+

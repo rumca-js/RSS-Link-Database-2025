@@ -1,0 +1,219 @@
+# Source:r/gaming, URL:https://www.reddit.com/r/gaming/.rss, language:
+
+## Was searching my Wii message board and found this old message from my friend in 2008 (we played a LOT of Brawl back then)
+ - [https://www.reddit.com/r/gaming/comments/1ir5dqd/was_searching_my_wii_message_board_and_found_this](https://www.reddit.com/r/gaming/comments/1ir5dqd/was_searching_my_wii_message_board_and_found_this)
+ - RSS feed: $source
+ - date published: 2025-02-16T23:07:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ir5dqd/was_searching_my_wii_message_board_and_found_this/"> <img src="https://preview.redd.it/rih2gu9v1lje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b32ac799daf272e838b19e8ca6c3e1b0771a7fc2" alt="Was searching my Wii message board and found this old message from my friend in 2008 (we played a LOT of Brawl back then)" title="Was searching my Wii message board and found this old message from my friend in 2008 (we played a LOT of Brawl back then)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jakeeeenator"> /u/jakeeeenator </a> <br/> <span><a href="https://i.redd.it/rih2gu9v1lje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ir5dqd/was_searching_my_wii_message_board_and_found_this/">[comments]</a></span> </td></tr></table>
+
+## Whatever Happened to Heroes of Might and Magic?
+ - [https://www.reddit.com/r/gaming/comments/1ir58ga/whatever_happened_to_heroes_of_might_and_magic](https://www.reddit.com/r/gaming/comments/1ir58ga/whatever_happened_to_heroes_of_might_and_magic)
+ - RSS feed: $source
+ - date published: 2025-02-16T23:01:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Every once in awhile, you get those shower thoughts where you&#39;re like &quot;whatever happened to that game/show series? I don&#39;t hear about it anymore.&quot;</p> <p>With my friend being sour about the flop of Civ VII, I started to think of other series that felt like they went awry, and I suddenly remembered the Might and Magic franchise. I remember nostalgia playing III on my cousin&#39;s computer way, way long ago, wanting to finish it and never did.</p> <p>A quick google check shows the series was doing well until Might and Magic V in 2008, even putting out some successful DLCs, only for 6 and 7 to have absolutely <em>attrocious</em> steam reviews.</p> <p>So to those who witnessed the fall: what happened to this series?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Snoo61755"> /u/Snoo61755 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ir58ga/whatever_happened_to_heroes_of_might_
+
+## 9 unused Nintendo Campus Challenge cups from 1991. Obtained from the Estate sale of a former Nintendo employee.
+ - [https://www.reddit.com/r/gaming/comments/1ir4azp/9_unused_nintendo_campus_challenge_cups_from_1991](https://www.reddit.com/r/gaming/comments/1ir4azp/9_unused_nintendo_campus_challenge_cups_from_1991)
+ - RSS feed: $source
+ - date published: 2025-02-16T22:19:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ir4azp/9_unused_nintendo_campus_challenge_cups_from_1991/"> <img src="https://preview.redd.it/y4z2d4x3tkje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe6753255537d42ae3ea793ccbf0911450a86cbb" alt="9 unused Nintendo Campus Challenge cups from 1991. Obtained from the Estate sale of a former Nintendo employee." title="9 unused Nintendo Campus Challenge cups from 1991. Obtained from the Estate sale of a former Nintendo employee." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Guarden_Gnome"> /u/Guarden_Gnome </a> <br/> <span><a href="https://i.redd.it/y4z2d4x3tkje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ir4azp/9_unused_nintendo_campus_challenge_cups_from_1991/">[comments]</a></span> </td></tr></table>
+
+## Bobby Kotick trying to rebrand himself as a champion for the player is insane.
+ - [https://www.reddit.com/r/gaming/comments/1ir1713/bobby_kotick_trying_to_rebrand_himself_as_a](https://www.reddit.com/r/gaming/comments/1ir1713/bobby_kotick_trying_to_rebrand_himself_as_a)
+ - RSS feed: $source
+ - date published: 2025-02-16T20:06:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Dudes literally growing horns. Says he wouldn&#39;t have raised World of Warcraft prices. Like be wasn&#39;t in charge.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Capt_C004"> /u/Capt_C004 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ir1713/bobby_kotick_trying_to_rebrand_himself_as_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ir1713/bobby_kotick_trying_to_rebrand_himself_as_a/">[comments]</a></span>
+
+## Never doing this again. [Fear and Hunger 2: Termina]
+ - [https://www.reddit.com/r/gaming/comments/1ir067l/never_doing_this_again_fear_and_hunger_2_termina](https://www.reddit.com/r/gaming/comments/1ir067l/never_doing_this_again_fear_and_hunger_2_termina)
+ - RSS feed: $source
+ - date published: 2025-02-16T19:24:05+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/DogNingenn"> /u/DogNingenn </a> <br/> <span><a href="https://i.redd.it/4vwwhj2xxjje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ir067l/never_doing_this_again_fear_and_hunger_2_termina/">[comments]</a></span>
+
+## A new kind of survival gaming. 3 years ago I started solo developing this Western Horror Survival Game. The goal was to bring a new concept and different experience to survival gaming. Currently I'm trying to get feedback on the Demo and improve as much as possible.
+ - [https://www.reddit.com/r/gaming/comments/1iqykev/a_new_kind_of_survival_gaming_3_years_ago_i](https://www.reddit.com/r/gaming/comments/1iqykev/a_new_kind_of_survival_gaming_3_years_ago_i)
+ - RSS feed: $source
+ - date published: 2025-02-16T18:17:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqykev/a_new_kind_of_survival_gaming_3_years_ago_i/"> <img src="https://external-preview.redd.it/fvV3E0LnXD_-Eq6XTdYAyzRcqfVhm5FuQsKZsjl6jsE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a7e457c6c47f0b19e3cb34722ffa61ba71ad5f96" alt="A new kind of survival gaming. 3 years ago I started solo developing this Western Horror Survival Game. The goal was to bring a new concept and different experience to survival gaming. Currently I'm trying to get feedback on the Demo and improve as much as possible." title="A new kind of survival gaming. 3 years ago I started solo developing this Western Horror Survival Game. The goal was to bring a new concept and different experience to survival gaming. Currently I'm trying to get feedback on the Demo and improve as much as possible." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Future-Magician0"> /u/Future-Magician0 </a> <br/> <span><a href="https
+
+## With Indiana Jones and Forza Horizon 5 ports, Phil Spencer isn't "trying to move" Nintendo Switch and PS5 players "over to Xbox anymore"
+ - [https://www.reddit.com/r/gaming/comments/1iqxllz/with_indiana_jones_and_forza_horizon_5_ports_phil](https://www.reddit.com/r/gaming/comments/1iqxllz/with_indiana_jones_and_forza_horizon_5_ports_phil)
+ - RSS feed: $source
+ - date published: 2025-02-16T17:38:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqxllz/with_indiana_jones_and_forza_horizon_5_ports_phil/"> <img src="https://external-preview.redd.it/yWZfl4qjPg-YVAQNH6ArZntm0uk5H5LAC85Mkuu4iRo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d2d954a0b77c3b7ee7491a802ad5987c5d2205e" alt="With Indiana Jones and Forza Horizon 5 ports, Phil Spencer isn't &quot;trying to move&quot; Nintendo Switch and PS5 players &quot;over to Xbox anymore&quot;" title="With Indiana Jones and Forza Horizon 5 ports, Phil Spencer isn't &quot;trying to move&quot; Nintendo Switch and PS5 players &quot;over to Xbox anymore&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/syzygee_alt"> /u/syzygee_alt </a> <br/> <span><a href="https://www.gamesradar.com/games/with-indiana-jones-and-forza-horizon-5-ports-phil-spencer-isnt-trying-to-move-nintendo-switch-and-ps5-players-over-to-xbox-anymore/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r
+
+## Crytek has put Crysis 4 on ‘hold’ as studio cuts 15% of staff
+ - [https://www.reddit.com/r/gaming/comments/1iqxl34/crytek_has_put_crysis_4_on_hold_as_studio_cuts_15](https://www.reddit.com/r/gaming/comments/1iqxl34/crytek_has_put_crysis_4_on_hold_as_studio_cuts_15)
+ - RSS feed: $source
+ - date published: 2025-02-16T17:37:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqxl34/crytek_has_put_crysis_4_on_hold_as_studio_cuts_15/"> <img src="https://external-preview.redd.it/1W81CM1gAHlejd-vzfZNfrrIaPu32fYa_7OosaG7BM4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4af7fbaa3df2135397a599079bcf9cd96421030" alt="Crytek has put Crysis 4 on ‘hold’ as studio cuts 15% of staff" title="Crytek has put Crysis 4 on ‘hold’ as studio cuts 15% of staff" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Crytek has put Crysis 4 “on hold” as it lays off around 60 staff, around 15% of its 400 person company. Some staff working on the future of Crysis has shifted to work on Hunt: Showdown 1896, a multiplayer shooter released in 2019 that remains quite popular — and, even, grown exponentially since its release, hitting its all-time peak concurrent players (more than 60,000), in August. Despite the success of Hunt: Showdown 1896, Crytek said it can’t “continue as before” and “remain financially sustain
+
+## Great mystery/detective games?
+ - [https://www.reddit.com/r/gaming/comments/1iqx1w4/great_mysterydetective_games](https://www.reddit.com/r/gaming/comments/1iqx1w4/great_mysterydetective_games)
+ - RSS feed: $source
+ - date published: 2025-02-16T17:15:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ever since playing Return of the Obra Dinn I’ve been looking for something to fill the whole it left in my heart nice played the Golden Idol games and really enjoyed those, but I just always want more. Any suggestions?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/werndog69"> /u/werndog69 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1iqx1w4/great_mysterydetective_games/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqx1w4/great_mysterydetective_games/">[comments]</a></span>
+
+## I wish there was a Perfect Dark remake.
+ - [https://www.reddit.com/r/gaming/comments/1iqvjee/i_wish_there_was_a_perfect_dark_remake](https://www.reddit.com/r/gaming/comments/1iqvjee/i_wish_there_was_a_perfect_dark_remake)
+ - RSS feed: $source
+ - date published: 2025-02-16T16:11:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqvjee/i_wish_there_was_a_perfect_dark_remake/"> <img src="https://preview.redd.it/67c1frzezije1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c9218d54f4f6a1b5ac2355e651009866747a304" alt="I wish there was a Perfect Dark remake." title="I wish there was a Perfect Dark remake." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BaronVonBroccoli"> /u/BaronVonBroccoli </a> <br/> <span><a href="https://i.redd.it/67c1frzezije1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqvjee/i_wish_there_was_a_perfect_dark_remake/">[comments]</a></span> </td></tr></table>
+
+## Half-Life 2 and Dishonored art lead Viktor Antonov dies aged just 52
+ - [https://www.reddit.com/r/gaming/comments/1iqv7v4/halflife_2_and_dishonored_art_lead_viktor_antonov](https://www.reddit.com/r/gaming/comments/1iqv7v4/halflife_2_and_dishonored_art_lead_viktor_antonov)
+ - RSS feed: $source
+ - date published: 2025-02-16T15:57:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqv7v4/halflife_2_and_dishonored_art_lead_viktor_antonov/"> <img src="https://external-preview.redd.it/yfJpxkV5dPPWNps52-4pgZdrtcWqOYeZ4hRU1Xi3lOA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=83e9c9fd119f0c305f17d9a2c523dd5112be4c6e" alt="Half-Life 2 and Dishonored art lead Viktor Antonov dies aged just 52" title="Half-Life 2 and Dishonored art lead Viktor Antonov dies aged just 52" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/syzygee_alt"> /u/syzygee_alt </a> <br/> <span><a href="https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqv7v4/halflife_2_and_dishonored_art_lead_viktor_antonov/">[comments]</a></span> </td></tr></table>
+
+## Xbox CEO Phil Spencer doesn't "want to see every game turn into some big live service," says Game Pass allows for more "games that have a beginning, middle and end"
+ - [https://www.reddit.com/r/gaming/comments/1iqumce/xbox_ceo_phil_spencer_doesnt_want_to_see_every](https://www.reddit.com/r/gaming/comments/1iqumce/xbox_ceo_phil_spencer_doesnt_want_to_see_every)
+ - RSS feed: $source
+ - date published: 2025-02-16T15:29:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqumce/xbox_ceo_phil_spencer_doesnt_want_to_see_every/"> <img src="https://external-preview.redd.it/m12xBwZb2sJTqQEAffE1YyZhdtH8OSbbRqBTlSBxv6A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=00133fa7c523ee473652b9e47320f0897e079a3b" alt="Xbox CEO Phil Spencer doesn't &quot;want to see every game turn into some big live service,&quot; says Game Pass allows for more &quot;games that have a beginning, middle and end&quot;" title="Xbox CEO Phil Spencer doesn't &quot;want to see every game turn into some big live service,&quot; says Game Pass allows for more &quot;games that have a beginning, middle and end&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/syzygee_alt"> /u/syzygee_alt </a> <br/> <span><a href="https://www.gamesradar.com/games/xbox-ceo-phil-spencer-doesnt-want-to-see-every-game-turn-into-some-big-live-service-says-game-pass-allows-for-more-games-that-have-a-beginning-
+
+## Mass effect 2 is the best in the series.
+ - [https://www.reddit.com/r/gaming/comments/1iqtit5/mass_effect_2_is_the_best_in_the_series](https://www.reddit.com/r/gaming/comments/1iqtit5/mass_effect_2_is_the_best_in_the_series)
+ - RSS feed: $source
+ - date published: 2025-02-16T14:37:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqtit5/mass_effect_2_is_the_best_in_the_series/"> <img src="https://preview.redd.it/6o35nmkviije1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cd00bee5ce097671a6d40f71ffbfac6064c2cf9e" alt="Mass effect 2 is the best in the series." title="Mass effect 2 is the best in the series." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dudewaleed"> /u/dudewaleed </a> <br/> <span><a href="https://i.redd.it/6o35nmkviije1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqtit5/mass_effect_2_is_the_best_in_the_series/">[comments]</a></span> </td></tr></table>
+
+## Do you have a game which makes you feel safe, or at home?
+ - [https://www.reddit.com/r/gaming/comments/1iqryvr/do_you_have_a_game_which_makes_you_feel_safe_or](https://www.reddit.com/r/gaming/comments/1iqryvr/do_you_have_a_game_which_makes_you_feel_safe_or)
+ - RSS feed: $source
+ - date published: 2025-02-16T13:15:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>For me it’s Skyrim. I don’t really play it much anymore but it was my favourite game in highschool. Those years were terrible but hearing the soundtrack, particularly The Streets of Whiterun or Secunda really make me feel safe. The ambience and scenery just overwhelm me with joy, and remind me that I can always go back if things get bad. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CapinGan"> /u/CapinGan </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1iqryvr/do_you_have_a_game_which_makes_you_feel_safe_or/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqryvr/do_you_have_a_game_which_makes_you_feel_safe_or/">[comments]</a></span>
+
+## Where should I start with the Yakuza franchise?
+ - [https://www.reddit.com/r/gaming/comments/1iqrpw0/where_should_i_start_with_the_yakuza_franchise](https://www.reddit.com/r/gaming/comments/1iqrpw0/where_should_i_start_with_the_yakuza_franchise)
+ - RSS feed: $source
+ - date published: 2025-02-16T13:01:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I always see these games pop up and they look so fun. I love how there’s so much randomness in them and the combat looks nice too. Dunkey seems to love them, too. Is there any order to play them in? Any GREAT ones out there that are must plays? Also, the more randomness the better. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CresidentBob"> /u/CresidentBob </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1iqrpw0/where_should_i_start_with_the_yakuza_franchise/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqrpw0/where_should_i_start_with_the_yakuza_franchise/">[comments]</a></span>
+
+## What made titanfall good?
+ - [https://www.reddit.com/r/gaming/comments/1iqr19l/what_made_titanfall_good](https://www.reddit.com/r/gaming/comments/1iqr19l/what_made_titanfall_good)
+ - RSS feed: $source
+ - date published: 2025-02-16T12:18:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>I love Titanfall 2 (who dosent?), particularly for the campaign. Personally, I liked the Titan gameplay quite a bit, and I wanted to find out what everybody else thought. For me, I would have loved a greater degree of Titan customization, maybe gameplay with more strategy and less fast-paced.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kung_fu1015"> /u/Kung_fu1015 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1iqr19l/what_made_titanfall_good/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqr19l/what_made_titanfall_good/">[comments]</a></span>
+
+## I miss when games had split screen, so many good memories.
+ - [https://www.reddit.com/r/gaming/comments/1iqqlqk/i_miss_when_games_had_split_screen_so_many_good](https://www.reddit.com/r/gaming/comments/1iqqlqk/i_miss_when_games_had_split_screen_so_many_good)
+ - RSS feed: $source
+ - date published: 2025-02-16T11:49:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqqlqk/i_miss_when_games_had_split_screen_so_many_good/"> <img src="https://preview.redd.it/4qgq9e0tohje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0430b5aa5936d645e13fd5608f5b8f254c3b2c43" alt="I miss when games had split screen, so many good memories." title="I miss when games had split screen, so many good memories." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dudewaleed"> /u/dudewaleed </a> <br/> <span><a href="https://i.redd.it/4qgq9e0tohje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqqlqk/i_miss_when_games_had_split_screen_so_many_good/">[comments]</a></span> </td></tr></table>
+
+## That new island feel [Anno 1800]
+ - [https://www.reddit.com/r/gaming/comments/1iqql80/that_new_island_feel_anno_1800](https://www.reddit.com/r/gaming/comments/1iqql80/that_new_island_feel_anno_1800)
+ - RSS feed: $source
+ - date published: 2025-02-16T11:48:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqql80/that_new_island_feel_anno_1800/"> <img src="https://external-preview.redd.it/5p712Tmn98CBFN_MxXYGPCyzgqgGy_k9p8s4drZl7xI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=808465c94f7c9922ee85b08d5975eb55c9b48a54" alt="That new island feel [Anno 1800]" title="That new island feel [Anno 1800]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/relspace"> /u/relspace </a> <br/> <span><a href="https://i.imgur.com/nnwH9Oo.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqql80/that_new_island_feel_anno_1800/">[comments]</a></span> </td></tr></table>
+
+## Starfield's take on New Game+ has to be one of the coolest ideas I've seen in a video game.
+ - [https://www.reddit.com/r/gaming/comments/1iqog2z/starfields_take_on_new_game_has_to_be_one_of_the](https://www.reddit.com/r/gaming/comments/1iqog2z/starfields_take_on_new_game_has_to_be_one_of_the)
+ - RSS feed: $source
+ - date published: 2025-02-16T09:13:27+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong><em>HUGE FUCKING SPOILERS FOR THE ENTIRE MAIN STORYLINE AHEAD</em></strong></p> <p>Basically, you and your entire cast of main characters spend the entire plot of the game chasing after some mysterious Artifacts in space. At some point, some weird alien &quot;Starborn&quot; ships show up and tell you to stop, and try to take the Artifacts you&#39;ve collected away from you. Your party spends the whole main plot wondering <em>what the fuck these things are,</em> if they&#39;re even human, where they come from, and why they want the Artifacts -- all while you&#39;re wondering what the fuck these Artifacts even are, too. You basically see them as an enemy faction with goofy ass ships.</p> <p>In the end of the main plot, you defeat (or persuade) the most powerful of the Starborn, and you finally have all the Artifacts to yourself.</p> <p>Turns out, the Artifacts fit together into a portal into another universe. Going through ends with <em>you</em
+
+## Simple Questions Sunday!
+ - [https://www.reddit.com/r/gaming/comments/1iqmlt6/simple_questions_sunday](https://www.reddit.com/r/gaming/comments/1iqmlt6/simple_questions_sunday)
+ - RSS feed: $source
+ - date published: 2025-02-16T07:00:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>For those questions that don&#39;t feel worthy of a whole new post.</p> <p>This thread is posted weekly on Sundays (adjustments made as needed).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1iqmlt6/simple_questions_sunday/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqmlt6/simple_questions_sunday/">[comments]</a></span>
+
+## Best RPG for evil playthroughs?
+ - [https://www.reddit.com/r/gaming/comments/1iqm1k9/best_rpg_for_evil_playthroughs](https://www.reddit.com/r/gaming/comments/1iqm1k9/best_rpg_for_evil_playthroughs)
+ - RSS feed: $source
+ - date published: 2025-02-16T06:22:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqm1k9/best_rpg_for_evil_playthroughs/"> <img src="https://preview.redd.it/e8ko78mg2gje1.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=651573609c3add8dfede2c0299bd836bc1aeb0dd" alt="Best RPG for evil playthroughs?" title="Best RPG for evil playthroughs?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I notice that older RPGs are not shy allowing you to do a truly evil playthrough in comparison to the newer RPGs. For example, the latest Dragon Age doesn&#39;t even allow you to be an asshole to anyone or even your party members. </p> <p>Frankly due to how much of a time sink RPGs are I am bound to overlook some titles (Rogue Trader is on my wishlist). BG3 is the latest title imho that allows a fun evil playthrough. </p> <p>I would like to know, what are your favourite RPGs from past and current titles for an evil playthrough? </p> <p>And what are your moments or choices as an evil character. </p> </div><!-- SC
+
+## Holy crap target clearance does exist!!!!!
+ - [https://www.reddit.com/r/gaming/comments/1iqlklu/holy_crap_target_clearance_does_exist](https://www.reddit.com/r/gaming/comments/1iqlklu/holy_crap_target_clearance_does_exist)
+ - RSS feed: $source
+ - date published: 2025-02-16T05:52:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqlklu/holy_crap_target_clearance_does_exist/"> <img src="https://preview.redd.it/cfpd18s3xfje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f75e79dfd6989fb6b4583de450e4b6ab9332cdcd" alt="Holy crap target clearance does exist!!!!!" title="Holy crap target clearance does exist!!!!!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>After many tries and fails, there was finally had a clearance section near me and you guys aren&#39;t kidding!!!!!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bad_rug"> /u/bad_rug </a> <br/> <span><a href="https://i.redd.it/cfpd18s3xfje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqlklu/holy_crap_target_clearance_does_exist/">[comments]</a></span> </td></tr></table>
+
+## Check out these wonderful "American" names from a '90s Japanese video game
+ - [https://www.reddit.com/r/gaming/comments/1iqjpzf/check_out_these_wonderful_american_names_from_a](https://www.reddit.com/r/gaming/comments/1iqjpzf/check_out_these_wonderful_american_names_from_a)
+ - RSS feed: $source
+ - date published: 2025-02-16T04:00:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqjpzf/check_out_these_wonderful_american_names_from_a/"> <img src="https://preview.redd.it/wfaf4yo2dfje1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0f74132d09612c69a664e17e86e48b6d9d96945c" alt="Check out these wonderful &quot;American&quot; names from a '90s Japanese video game" title="Check out these wonderful &quot;American&quot; names from a '90s Japanese video game" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/villings"> /u/villings </a> <br/> <span><a href="https://i.redd.it/wfaf4yo2dfje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqjpzf/check_out_these_wonderful_american_names_from_a/">[comments]</a></span> </td></tr></table>
+
+## Why do games need external game launchers?
+ - [https://www.reddit.com/r/gaming/comments/1iqjip3/why_do_games_need_external_game_launchers](https://www.reddit.com/r/gaming/comments/1iqjip3/why_do_games_need_external_game_launchers)
+ - RSS feed: $source
+ - date published: 2025-02-16T03:48:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Okay, may be a dumb question - but why do so many games on PC require launchers? Specially, why would a game that exists on Steam or Epic also require their own launcher on top of the platforms they come on?</p> <p>Another weird example is Minecraft - with Minecraft being a Microsoft game, why do I need to download the Xbox store, to download the Minecraft launcher, to download Minecraft. </p> <p>It’s mad confusing and it seems pointless.. can someone explain? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PatientAcrobatic4476"> /u/PatientAcrobatic4476 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1iqjip3/why_do_games_need_external_game_launchers/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqjip3/why_do_games_need_external_game_launchers/">[comments]</a></span>
+
+## Repurposed an old pamphlet board
+ - [https://www.reddit.com/r/gaming/comments/1iqirra/repurposed_an_old_pamphlet_board](https://www.reddit.com/r/gaming/comments/1iqirra/repurposed_an_old_pamphlet_board)
+ - RSS feed: $source
+ - date published: 2025-02-16T03:05:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqirra/repurposed_an_old_pamphlet_board/"> <img src="https://preview.redd.it/5nrqibxa3fje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1888a3bacf42f1d08d258eb8970cd45707e93034" alt="Repurposed an old pamphlet board" title="Repurposed an old pamphlet board" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OminousG"> /u/OminousG </a> <br/> <span><a href="https://i.redd.it/5nrqibxa3fje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqirra/repurposed_an_old_pamphlet_board/">[comments]</a></span> </td></tr></table>
+
+## What game did you try hardest to convince yourself to stick with but wound up giving up on? What were the reasons? This is mine.
+ - [https://www.reddit.com/r/gaming/comments/1iqgrmw/what_game_did_you_try_hardest_to_convince](https://www.reddit.com/r/gaming/comments/1iqgrmw/what_game_did_you_try_hardest_to_convince)
+ - RSS feed: $source
+ - date published: 2025-02-16T01:17:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>Well, the last one got taken down because I put an image instead of just a text post, which I found it out is not allowed for discussion generating questions. So once more, with feeling.</p> <p>For me, it was Doom Eternal. I loved the first one and thought &quot;Oh man, this will just be more of the same but probably more extreme...I can&#39;t wait!&quot; and then about 5 hours in I realized I just wasn&#39;t having fun. Exploring the space station was dull, combat was lackluster and level designs were meh. I think my expectations were too high and the game just fell flat. Tried again to start it up, but just put it down and started playing GoW Ragnarok. Happy with my choice. </p> <p>How about y&#39;all?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SixandNoQuarter"> /u/SixandNoQuarter </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1iqgrmw/what_game_did_you_try_hardest_to_convince/">[link]<
+
+## blanket fort gaming is the best
+ - [https://www.reddit.com/r/gaming/comments/1iqgpy6/blanket_fort_gaming_is_the_best](https://www.reddit.com/r/gaming/comments/1iqgpy6/blanket_fort_gaming_is_the_best)
+ - RSS feed: $source
+ - date published: 2025-02-16T01:14:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqgpy6/blanket_fort_gaming_is_the_best/"> <img src="https://preview.redd.it/vqogmzvljeje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3ea1b1ee4a93362034cbea6f5fb5e02729e0e81" alt="blanket fort gaming is the best" title="blanket fort gaming is the best" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>balatro, in the blanket fort</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pawps4895"> /u/Pawps4895 </a> <br/> <span><a href="https://i.redd.it/vqogmzvljeje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqgpy6/blanket_fort_gaming_is_the_best/">[comments]</a></span> </td></tr></table>
+
+## XboxEra Interviews Phil Spencer
+ - [https://www.reddit.com/r/gaming/comments/1iqglfu/xboxera_interviews_phil_spencer](https://www.reddit.com/r/gaming/comments/1iqglfu/xboxera_interviews_phil_spencer)
+ - RSS feed: $source
+ - date published: 2025-02-16T01:08:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqglfu/xboxera_interviews_phil_spencer/"> <img src="https://external-preview.redd.it/xynJmVmaA_s-Gv7GapBLahor-hGMjXplvDwhUmNVq8o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d8a633914ffa02b653d1c6ed395748486dbbd31c" alt="XboxEra Interviews Phil Spencer" title="XboxEra Interviews Phil Spencer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FinalAfternoon5470"> /u/FinalAfternoon5470 </a> <br/> <span><a href="https://xboxera.com/2025/02/15/xboxera-interviews-phil-spencer/#google_vignette">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqglfu/xboxera_interviews_phil_spencer/">[comments]</a></span> </td></tr></table>
+
+## Avowed is called Alabama Game when it crashes
+ - [https://www.reddit.com/r/gaming/comments/1iqg1ub/avowed_is_called_alabama_game_when_it_crashes](https://www.reddit.com/r/gaming/comments/1iqg1ub/avowed_is_called_alabama_game_when_it_crashes)
+ - RSS feed: $source
+ - date published: 2025-02-16T00:40:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqg1ub/avowed_is_called_alabama_game_when_it_crashes/"> <img src="https://preview.redd.it/3bptwxehdeje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=809993dc29f873560cf0db3294b21207c2a1fcc9" alt="Avowed is called Alabama Game when it crashes" title="Avowed is called Alabama Game when it crashes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cereburus"> /u/cereburus </a> <br/> <span><a href="https://i.redd.it/3bptwxehdeje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqg1ub/avowed_is_called_alabama_game_when_it_crashes/">[comments]</a></span> </td></tr></table>
+
+## Seen at a Las Vegas bar: Vectrex Armor Attack
+ - [https://www.reddit.com/r/gaming/comments/1iqfpvr/seen_at_a_las_vegas_bar_vectrex_armor_attack](https://www.reddit.com/r/gaming/comments/1iqfpvr/seen_at_a_las_vegas_bar_vectrex_armor_attack)
+ - RSS feed: $source
+ - date published: 2025-02-16T00:23:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqfpvr/seen_at_a_las_vegas_bar_vectrex_armor_attack/"> <img src="https://preview.redd.it/20bci2seaeje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=099a84f6000f373ae0ebe7e58ba2e386d285f763" alt="Seen at a Las Vegas bar: Vectrex Armor Attack" title="Seen at a Las Vegas bar: Vectrex Armor Attack" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SoBeefy"> /u/SoBeefy </a> <br/> <span><a href="https://i.redd.it/20bci2seaeje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqfpvr/seen_at_a_las_vegas_bar_vectrex_armor_attack/">[comments]</a></span> </td></tr></table>
+
+## You get home from school, eat some snacks and boot this badboy.
+ - [https://www.reddit.com/r/gaming/comments/1iqfe80/you_get_home_from_school_eat_some_snacks_and_boot](https://www.reddit.com/r/gaming/comments/1iqfe80/you_get_home_from_school_eat_some_snacks_and_boot)
+ - RSS feed: $source
+ - date published: 2025-02-16T00:08:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iqfe80/you_get_home_from_school_eat_some_snacks_and_boot/"> <img src="https://preview.redd.it/xodso3sp7eje1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=03931ae1c7b81022cbbdad20007aef2f16ddfd9a" alt="You get home from school, eat some snacks and boot this badboy." title="You get home from school, eat some snacks and boot this badboy." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dudewaleed"> /u/dudewaleed </a> <br/> <span><a href="https://i.redd.it/xodso3sp7eje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iqfe80/you_get_home_from_school_eat_some_snacks_and_boot/">[comments]</a></span> </td></tr></table>
+

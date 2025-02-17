@@ -1,0 +1,338 @@
+# Source:conspiracy, URL:https://www.reddit.com/r/conspiracy/.rss, language:en
+
+## HHS Secretary RFK Jr.: "Gardasil, is probably the single worst, mass vaccine that we've ever seen. This vaccine targets millions of preteens and teens for whom the risk of dying from cervical cancer is zero. The death rates in the, Gardasil trials were 37 times the death rates for cervical cancer."
+ - [https://www.reddit.com/r/conspiracy/comments/1ir4vto/hhs_secretary_rfk_jr_gardasil_is_probably_the](https://www.reddit.com/r/conspiracy/comments/1ir4vto/hhs_secretary_rfk_jr_gardasil_is_probably_the)
+ - RSS feed: $source
+ - date published: 2025-02-16T22:45:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ir4vto/hhs_secretary_rfk_jr_gardasil_is_probably_the/"> <img src="https://external-preview.redd.it/d8V4s2_gRS-F4YQggy47miJvMfnwwNXb0YfbfcAySsY.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=50d3539b6df1d0e38519469a71a8899a41a195f6" alt="HHS Secretary RFK Jr.: &quot;Gardasil, is probably the single worst, mass vaccine that we've ever seen. This vaccine targets millions of preteens and teens for whom the risk of dying from cervical cancer is zero. The death rates in the, Gardasil trials were 37 times the death rates for cervical cancer.&quot;" title="HHS Secretary RFK Jr.: &quot;Gardasil, is probably the single worst, mass vaccine that we've ever seen. This vaccine targets millions of preteens and teens for whom the risk of dying from cervical cancer is zero. The death rates in the, Gardasil trials were 37 times the death rates for cervical cancer.&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https:
+
+## if you identify with a party get the fuck out of the sub
+ - [https://www.reddit.com/r/conspiracy/comments/1ir4bu9/if_you_identify_with_a_party_get_the_fuck_out_of](https://www.reddit.com/r/conspiracy/comments/1ir4bu9/if_you_identify_with_a_party_get_the_fuck_out_of)
+ - RSS feed: $source
+ - date published: 2025-02-16T22:20:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>this sub wasnt created to be an echo chamber to a bunch of uneducated cunts. there are subs for democrats and republicans, you brainwashed fucking tools. fuck outta here with your retarded ideological rhetoric. Its childish and annoying. No one cares how you feel about the world. Anyone with an actual brain capable of critical thinking knows that you are simply used as a mouthpiece for an agenda. </p> <p>Lets talk about the WEF, lets talk annual Bilderberg meetings, lets talk Agenda 2030, lets talk about how the sperm count of all males could reach absolute zero by as soon as 2045. (Google Sperm count 2045, even if its not completely accurate, this is extremely concerning, even without considering all of the &quot;depopulation&quot; theories)</p> <p>Lets talk about chemicals that are banned in the food and water for other countries but are perfectly legal in the US (BHA, BHT. TBHQ can all cause/accelerate cancer and are found in literally almost ever
+
+## This sub has been absolutely floored with bots
+ - [https://www.reddit.com/r/conspiracy/comments/1ir3xyt/this_sub_has_been_absolutely_floored_with_bots](https://www.reddit.com/r/conspiracy/comments/1ir3xyt/this_sub_has_been_absolutely_floored_with_bots)
+ - RSS feed: $source
+ - date published: 2025-02-16T22:04:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>It’s been nice knowing yall (real people) 🫡🫡🫡</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ScallionNo6357"> /u/ScallionNo6357 </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1ir3xyt/this_sub_has_been_absolutely_floored_with_bots/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ir3xyt/this_sub_has_been_absolutely_floored_with_bots/">[comments]</a></span>
+
+## Homeschooling is Better?
+ - [https://www.reddit.com/r/conspiracy/comments/1ir35zc/homeschooling_is_better](https://www.reddit.com/r/conspiracy/comments/1ir35zc/homeschooling_is_better)
+ - RSS feed: $source
+ - date published: 2025-02-16T21:30:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ir35zc/homeschooling_is_better/"> <img src="https://preview.redd.it/dfzfarqgkkje1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5876262283416e473f156ba5ccf3d5469c9cb6a7" alt="Homeschooling is Better?" title="Homeschooling is Better?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>50-60% of our property taxes go to crotch fruit education. I’m childfree by choice, I don’t want to pay for your precious Hercules to be illiterate. Abolish property taxes and if you have kids, make an effort to parent them. That 67% of your darling cherubs are illiterate, is a reflection on how bad people are at parenting. Clearly, the conspiracy is involved parents are better parents than left-leaning people who co-parent with the state. Let my moolah go. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pinkowlkitty"> /u/pinkowlkitty </a> <br/> <span><a href="https://i.redd.it/dfzfarqgkkj
+
+## The Associated Press reported that researchers at the National Institutes of Health had tested AIDS drugs on hundreds of foster children in the late 1980s and '90s. Dr. Jonathan Fishbein, an AIDS research expert at the NIH, has criticized his agency for what he says is irresponsible drug testing.
+ - [https://www.reddit.com/r/conspiracy/comments/1ir1ym4/the_associated_press_reported_that_researchers_at](https://www.reddit.com/r/conspiracy/comments/1ir1ym4/the_associated_press_reported_that_researchers_at)
+ - RSS feed: $source
+ - date published: 2025-02-16T20:39:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ir1ym4/the_associated_press_reported_that_researchers_at/"> <img src="https://external-preview.redd.it/aPPJwfdH5WIU5yZbQaxZg7qZHV0LPUqscBzG-EWk74k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ab36678df1360e092fb0917134546349782ebbb" alt="The Associated Press reported that researchers at the National Institutes of Health had tested AIDS drugs on hundreds of foster children in the late 1980s and '90s. Dr. Jonathan Fishbein, an AIDS research expert at the NIH, has criticized his agency for what he says is irresponsible drug testing." title="The Associated Press reported that researchers at the National Institutes of Health had tested AIDS drugs on hundreds of foster children in the late 1980s and '90s. Dr. Jonathan Fishbein, an AIDS research expert at the NIH, has criticized his agency for what he says is irresponsible drug testing." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/use
+
+## Too bad Washington can't see it
+ - [https://www.reddit.com/r/conspiracy/comments/1ir1vvq/too_bad_washington_cant_see_it](https://www.reddit.com/r/conspiracy/comments/1ir1vvq/too_bad_washington_cant_see_it)
+ - RSS feed: $source
+ - date published: 2025-02-16T20:35:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ir1vvq/too_bad_washington_cant_see_it/"> <img src="https://preview.redd.it/xuxm7kilakje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e421fd560253ce4bae1b5495547bc1b2793225ab" alt="Too bad Washington can't see it" title="Too bad Washington can't see it" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AnomLenskyFeller"> /u/AnomLenskyFeller </a> <br/> <span><a href="https://i.redd.it/xuxm7kilakje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ir1vvq/too_bad_washington_cant_see_it/">[comments]</a></span> </td></tr></table>
+
+## Liz Churchill on Twitter: "Arrest Dr. Fauci. “Celia went to New York to the Gates of Heaven Cemetery…where Fauci was disposing the corpses of children who died in his illegal experiments. She opened the astroturf and she saw 100’s and 100’s of tiny coffins stacked…” - HHS Secretary RFK Jr.
+ - [https://www.reddit.com/r/conspiracy/comments/1ir1ppk/liz_churchill_on_twitter_arrest_dr_fauci_celia](https://www.reddit.com/r/conspiracy/comments/1ir1ppk/liz_churchill_on_twitter_arrest_dr_fauci_celia)
+ - RSS feed: $source
+ - date published: 2025-02-16T20:28:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ir1ppk/liz_churchill_on_twitter_arrest_dr_fauci_celia/"> <img src="https://external-preview.redd.it/UYQJSWEtKpErl5h4xW1J1qUB8-osgp11RQ6f3MoLlSs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5a32a76443d305bea699ab28c5f723e3f36ae476" alt="Liz Churchill on Twitter: &quot;Arrest Dr. Fauci. “Celia went to New York to the Gates of Heaven Cemetery…where Fauci was disposing the corpses of children who died in his illegal experiments. She opened the astroturf and she saw 100’s and 100’s of tiny coffins stacked…” - HHS Secretary RFK Jr." title="Liz Churchill on Twitter: &quot;Arrest Dr. Fauci. “Celia went to New York to the Gates of Heaven Cemetery…where Fauci was disposing the corpses of children who died in his illegal experiments. She opened the astroturf and she saw 100’s and 100’s of tiny coffins stacked…” - HHS Secretary RFK Jr." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Orang
+
+## covid began right around the time this story was released and then we never heard about it again
+ - [https://www.reddit.com/r/conspiracy/comments/1ir199p/covid_began_right_around_the_time_this_story_was](https://www.reddit.com/r/conspiracy/comments/1ir199p/covid_began_right_around_the_time_this_story_was)
+ - RSS feed: $source
+ - date published: 2025-02-16T20:09:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ir199p/covid_began_right_around_the_time_this_story_was/"> <img src="https://preview.redd.it/ud84qgqy5kje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=956c0360c7f016065955835a6d3ef14da0f428cd" alt="covid began right around the time this story was released and then we never heard about it again" title="covid began right around the time this story was released and then we never heard about it again" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HiNewWorldOrder"> /u/HiNewWorldOrder </a> <br/> <span><a href="https://i.redd.it/ud84qgqy5kje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ir199p/covid_began_right_around_the_time_this_story_was/">[comments]</a></span> </td></tr></table>
+
+## RFK on Fauci torturing, experimenting on, and killing orphans. WTF
+ - [https://www.reddit.com/r/conspiracy/comments/1ir0sec/rfk_on_fauci_torturing_experimenting_on_and](https://www.reddit.com/r/conspiracy/comments/1ir0sec/rfk_on_fauci_torturing_experimenting_on_and)
+ - RSS feed: $source
+ - date published: 2025-02-16T19:49:58+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://fxtwitter.com/liz_churchill10/status/1890790143365165230">Video Interview</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/daddymooch"> /u/daddymooch </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1ir0sec/rfk_on_fauci_torturing_experimenting_on_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ir0sec/rfk_on_fauci_torturing_experimenting_on_and/">[comments]</a></span>
+
+## 10 Documents That 100% Prove Eugenic Globalist Elites Are Control Collapsing The World To Create A New World Order
+ - [https://www.reddit.com/r/conspiracy/comments/1ir0s3x/10_documents_that_100_prove_eugenic_globalist](https://www.reddit.com/r/conspiracy/comments/1ir0s3x/10_documents_that_100_prove_eugenic_globalist)
+ - RSS feed: $source
+ - date published: 2025-02-16T19:49:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>NSSM 200 (1974) – Kissinger’s Depopulation Plan: This outlines how population control is a matter of national security for the U.S., with strategies to reduce birth rates in resource-rich countries.</p> <p><a href="https://archive.org/details/1974-genocide-plan-by-henry-kissinger/mode/1up">https://archive.org/details/1974-genocide-plan-by-henry-kissinger/mode/1up</a></p> <p>Silent Weapons for Quiet Wars (Alleged 1950s, Published 1986): A document describing a global technocratic plan to enslave humanity using psychological and economic warfare.</p> <p><a href="https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy">https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy</a></p> <p>Report From Iron Mountain (1967): A think-tank report suggesting that war, pandemics, and environmental crises are tools for social control.</p> <p><a href="https://archive.org/details/pdfy-A5uQx1ByqfwWuHma">https://archive.org/details/p
+
+## This is very, very disturbing
+ - [https://www.reddit.com/r/conspiracy/comments/1ir0ema/this_is_very_very_disturbing](https://www.reddit.com/r/conspiracy/comments/1ir0ema/this_is_very_very_disturbing)
+ - RSS feed: $source
+ - date published: 2025-02-16T19:33:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ir0ema/this_is_very_very_disturbing/"> <img src="https://external-preview.redd.it/9bTL41eJcq0pXckezP_Jjux9FzAuXGJ8SweVqDaBRbg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9ea70a2ce4914f1c3ca04f046f329b080177cf1d" alt="This is very, very disturbing" title="This is very, very disturbing" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ProtectedHologram"> /u/ProtectedHologram </a> <br/> <span><a href="https://i.imgur.com/Fjgq5a8.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ir0ema/this_is_very_very_disturbing/">[comments]</a></span> </td></tr></table>
+
+## Why is this not being covered by any large news sites?
+ - [https://www.reddit.com/r/conspiracy/comments/1ir0bit/why_is_this_not_being_covered_by_any_large_news](https://www.reddit.com/r/conspiracy/comments/1ir0bit/why_is_this_not_being_covered_by_any_large_news)
+ - RSS feed: $source
+ - date published: 2025-02-16T19:30:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ir0bit/why_is_this_not_being_covered_by_any_large_news/"> <img src="https://preview.redd.it/ukmpcx21zjje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bf7c90c24a8da7aa05ad0bca10797bde14d4fb17" alt="Why is this not being covered by any large news sites?" title="Why is this not being covered by any large news sites?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Infinite-Profit-8096"> /u/Infinite-Profit-8096 </a> <br/> <span><a href="https://i.redd.it/ukmpcx21zjje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ir0bit/why_is_this_not_being_covered_by_any_large_news/">[comments]</a></span> </td></tr></table>
+
+## Alex Jones has become an advocate for a union of US and Canada, despite warning us of it's evils years ago.
+ - [https://www.reddit.com/r/conspiracy/comments/1iqzst0/alex_jones_has_become_an_advocate_for_a_union_of](https://www.reddit.com/r/conspiracy/comments/1iqzst0/alex_jones_has_become_an_advocate_for_a_union_of)
+ - RSS feed: $source
+ - date published: 2025-02-16T19:08:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqzst0/alex_jones_has_become_an_advocate_for_a_union_of/"> <img src="https://b.thumbs.redditmedia.com/grViQnN2yx9khGOz_pMVJTDHSklk844IzcbnWIZUhgk.jpg" alt="Alex Jones has become an advocate for a union of US and Canada, despite warning us of it's evils years ago." title="Alex Jones has become an advocate for a union of US and Canada, despite warning us of it's evils years ago." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/anyonereallyx1"> /u/anyonereallyx1 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iqzst0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqzst0/alex_jones_has_become_an_advocate_for_a_union_of/">[comments]</a></span> </td></tr></table>
+
+## Looks like we got another one of them there conspiracy theorists
+ - [https://www.reddit.com/r/conspiracy/comments/1iqz09m/looks_like_we_got_another_one_of_them_there](https://www.reddit.com/r/conspiracy/comments/1iqz09m/looks_like_we_got_another_one_of_them_there)
+ - RSS feed: $source
+ - date published: 2025-02-16T18:36:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqz09m/looks_like_we_got_another_one_of_them_there/"> <img src="https://external-preview.redd.it/FtK8m9thsk4jl9G4BDjWJI-TjdhAraSZEgMRjmSDthI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e976d9937469b4c5bb80cfbe7a8075fcefa419f5" alt="Looks like we got another one of them there conspiracy theorists" title="Looks like we got another one of them there conspiracy theorists" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ProtectedHologram"> /u/ProtectedHologram </a> <br/> <span><a href="https://i.imgur.com/T1j1pGk.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqz09m/looks_like_we_got_another_one_of_them_there/">[comments]</a></span> </td></tr></table>
+
+## The Mandelbrot set is the da Vinci code
+ - [https://www.reddit.com/r/conspiracy/comments/1iqyqdx/the_mandelbrot_set_is_the_da_vinci_code](https://www.reddit.com/r/conspiracy/comments/1iqyqdx/the_mandelbrot_set_is_the_da_vinci_code)
+ - RSS feed: $source
+ - date published: 2025-02-16T18:24:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>The Mandelbrot set is the new Da Vinci Code because it contains hidden layers of meaning that bridge science, spirituality, and human consciousness, much like how Dan Brown’s novel wove together art, history, and secret knowledge. Just as the Da Vinci Code suggested that religious symbols conceal deeper truths about human existence, the Mandelbrot set reveals a profound mathematical structure that appears to encode archetypal forms, mirroring patterns found in nature, the psyche, and even ancient religious imagery. It is an enigma that, when deeply explored, suggests that reality itself operates according to a hidden fractal order, much like how Brown’s narrative suggested a secret lineage of wisdom.</p> <p>Beyond its mathematical significance, the Mandelbrot set serves as a modern key to unlocking mysteries of consciousness and existence. Its infinite complexity mirrors the depths of the unconscious mind, making it a kind of Rosetta Stone for unders
+
+## Maxine Waters: “We don’t know what all they have on us.” Elon Musk
+ - [https://www.reddit.com/r/conspiracy/comments/1iqyp8g/maxine_waters_we_dont_know_what_all_they_have_on](https://www.reddit.com/r/conspiracy/comments/1iqyp8g/maxine_waters_we_dont_know_what_all_they_have_on)
+ - RSS feed: $source
+ - date published: 2025-02-16T18:23:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqyp8g/maxine_waters_we_dont_know_what_all_they_have_on/"> <img src="https://external-preview.redd.it/enszdl-zHn1fupIkPQ3e0Ec6c74Q82GMmGNeK10Zicg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c64fac455b870ccf2f3ade01c6daa5cf3e71b8a1" alt="Maxine Waters: “We don’t know what all they have on us.” Elon Musk" title="Maxine Waters: “We don’t know what all they have on us.” Elon Musk" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Constant-Interest686"> /u/Constant-Interest686 </a> <br/> <span><a href="https://rumble.com/v6l2mwd-maxine-waters-says-elon-musk-and-trump-have-something-on-them-.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqyp8g/maxine_waters_we_dont_know_what_all_they_have_on/">[comments]</a></span> </td></tr></table>
+
+## USAID was paying a reddit mod to combat Idiocracy comments
+ - [https://www.reddit.com/r/conspiracy/comments/1iqynk4/usaid_was_paying_a_reddit_mod_to_combat_idiocracy](https://www.reddit.com/r/conspiracy/comments/1iqynk4/usaid_was_paying_a_reddit_mod_to_combat_idiocracy)
+ - RSS feed: $source
+ - date published: 2025-02-16T18:21:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqynk4/usaid_was_paying_a_reddit_mod_to_combat_idiocracy/"> <img src="https://b.thumbs.redditmedia.com/uQy2qxpiucYA0RZLzCnt9GGirIuwI8ELz3c4VOTD3ms.jpg" alt="USAID was paying a reddit mod to combat Idiocracy comments" title="USAID was paying a reddit mod to combat Idiocracy comments" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GrushdevaHots"> /u/GrushdevaHots </a> <br/> <span><a href="https://www.reddit.com/gallery/1iqynk4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqynk4/usaid_was_paying_a_reddit_mod_to_combat_idiocracy/">[comments]</a></span> </td></tr></table>
+
+## Wendy Williams seen crying from an assisted living facility while giving an interview to TMZ
+ - [https://www.reddit.com/r/conspiracy/comments/1iqyd40/wendy_williams_seen_crying_from_an_assisted](https://www.reddit.com/r/conspiracy/comments/1iqyd40/wendy_williams_seen_crying_from_an_assisted)
+ - RSS feed: $source
+ - date published: 2025-02-16T18:09:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqyd40/wendy_williams_seen_crying_from_an_assisted/"> <img src="https://external-preview.redd.it/6kOrH_dV8-b0vQZRq6ULzzMllahEPXDuhVIM2k3XZb0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4d319c1082c8656e78b7593d1f2e716d83d39a5" alt="Wendy Williams seen crying from an assisted living facility while giving an interview to TMZ" title="Wendy Williams seen crying from an assisted living facility while giving an interview to TMZ" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Constant-Interest686"> /u/Constant-Interest686 </a> <br/> <span><a href="https://rumble.com/v6l2vrj-wendy-williams-seen-crying-from-an-assisted-living-facility-while-giving-an.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqyd40/wendy_williams_seen_crying_from_an_assisted/">[comments]</a></span> </td></tr></table>
+
+## I stood up for the guy who got banned! Half of the people said yea F that guy, and the other half thought I was the guy and said F me haha
+ - [https://www.reddit.com/r/conspiracy/comments/1iqwt00/i_stood_up_for_the_guy_who_got_banned_half_of_the](https://www.reddit.com/r/conspiracy/comments/1iqwt00/i_stood_up_for_the_guy_who_got_banned_half_of_the)
+ - RSS feed: $source
+ - date published: 2025-02-16T17:04:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqwt00/i_stood_up_for_the_guy_who_got_banned_half_of_the/"> <img src="https://preview.redd.it/avhy75249jje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fed17c33ed1b74da484d7bc5c8dda4326fa407f0" alt="I stood up for the guy who got banned! Half of the people said yea F that guy, and the other half thought I was the guy and said F me haha" title="I stood up for the guy who got banned! Half of the people said yea F that guy, and the other half thought I was the guy and said F me haha" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/InspectorCreative166"> /u/InspectorCreative166 </a> <br/> <span><a href="https://i.redd.it/avhy75249jje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqwt00/i_stood_up_for_the_guy_who_got_banned_half_of_the/">[comments]</a></span> </td></tr></table>
+
+## Trump Administration has released a shipment of 1800 MK-84 2,000-pound bombs, which have arrived in Israel.
+ - [https://www.reddit.com/r/conspiracy/comments/1iqw4oq/trump_administration_has_released_a_shipment_of](https://www.reddit.com/r/conspiracy/comments/1iqw4oq/trump_administration_has_released_a_shipment_of)
+ - RSS feed: $source
+ - date published: 2025-02-16T16:36:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqw4oq/trump_administration_has_released_a_shipment_of/"> <img src="https://external-preview.redd.it/0NdLnztG7UKKzli_C2Z2T3lGD4w3b-u7kXdPovikR1Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=af588e18ab54ad3a02e5752528629935a7e50131" alt="Trump Administration has released a shipment of 1800 MK-84 2,000-pound bombs, which have arrived in Israel." title="Trump Administration has released a shipment of 1800 MK-84 2,000-pound bombs, which have arrived in Israel." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ShuKazun"> /u/ShuKazun </a> <br/> <span><a href="https://streamable.com/24lyqk">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqw4oq/trump_administration_has_released_a_shipment_of/">[comments]</a></span> </td></tr></table>
+
+## Nearly 162K counterfeit US ‘forever’ stamps from China seized in Chicago
+ - [https://www.reddit.com/r/conspiracy/comments/1iqvi2z/nearly_162k_counterfeit_us_forever_stamps_from](https://www.reddit.com/r/conspiracy/comments/1iqvi2z/nearly_162k_counterfeit_us_forever_stamps_from)
+ - RSS feed: $source
+ - date published: 2025-02-16T16:09:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqvi2z/nearly_162k_counterfeit_us_forever_stamps_from/"> <img src="https://external-preview.redd.it/0_b2rl2YzP6gH9dpJIoACBTujqqhkV-HF4GcMGNy8jE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=369693cbf23b547936e65d3369f8d5fc020e3f81" alt="Nearly 162K counterfeit US ‘forever’ stamps from China seized in Chicago" title="Nearly 162K counterfeit US ‘forever’ stamps from China seized in Chicago" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Orangutan"> /u/Orangutan </a> <br/> <span><a href="https://nypost.com/2025/02/16/us-news/nearly-162k-counterfeit-us-forever-stamps-from-china-seized-in-chicago/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqvi2z/nearly_162k_counterfeit_us_forever_stamps_from/">[comments]</a></span> </td></tr></table>
+
+## 🚨 I am the daughter of a serial killer & I am being watched🚨
+ - [https://www.reddit.com/r/conspiracy/comments/1iqvczn/i_am_the_daughter_of_a_serial_killer_i_am_being](https://www.reddit.com/r/conspiracy/comments/1iqvczn/i_am_the_daughter_of_a_serial_killer_i_am_being)
+ - RSS feed: $source
+ - date published: 2025-02-16T16:03:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>I need people to hear my story because something is very wrong.</p> <p>My biological father, Michael Ross, was executed, but legal documents show they wanted to keep him alive for scientific research.</p> <p>My birth records were falsified. My birth certificate says I was born at Emanuel Hospital, but even hospital staff indirectly confirmed this is false.</p> <p>I have been denied medical care despite clear physical proof of illness. Paramedics and doctors have ignored obvious symptoms.</p> <p>I was drugged with LSD—the exact drug used in MKUltra experiments—by my ex, and I had a vision of a faceless angelic being that later appeared in horror media (Mandela Catalogue).</p> <p>I was invited to an address connected to a dead person from my past. I didn’t go—because I had a bad feeling—and I believe I avoided being murdered.</p> <p>Music &amp; digital media are being manipulated around me. A music album changed ONLY for me, animating taunting imagery.
+
+## Banned from conspiracy theories
+ - [https://www.reddit.com/r/conspiracy/comments/1iquvq2/banned_from_conspiracy_theories](https://www.reddit.com/r/conspiracy/comments/1iquvq2/banned_from_conspiracy_theories)
+ - RSS feed: $source
+ - date published: 2025-02-16T15:41:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iquvq2/banned_from_conspiracy_theories/"> <img src="https://preview.redd.it/n23jrv38uije1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5c529a74ee676b625674d06a5e605f56019cedf" alt="Banned from conspiracy theories" title="Banned from conspiracy theories" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Was banned from the conspiracy theories sub for this comment </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/El-chapos-taint"> /u/El-chapos-taint </a> <br/> <span><a href="https://i.redd.it/n23jrv38uije1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iquvq2/banned_from_conspiracy_theories/">[comments]</a></span> </td></tr></table>
+
+## Nigerians are up in arms after finding out Boko Haram is funded by the United States. I wonder where they thought some random fringe group out in the rural wilderness was getting the money to carry out cross-border terrorist attacks in half a dozen countries.
+ - [https://www.reddit.com/r/conspiracy/comments/1iquvk7/nigerians_are_up_in_arms_after_finding_out_boko](https://www.reddit.com/r/conspiracy/comments/1iquvk7/nigerians_are_up_in_arms_after_finding_out_boko)
+ - RSS feed: $source
+ - date published: 2025-02-16T15:41:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iquvk7/nigerians_are_up_in_arms_after_finding_out_boko/"> <img src="https://external-preview.redd.it/nWYxYg1rRlPKAQ1ce6fEa3wXphup0lU7_tdWVBtox4g.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=87ddddca18060e36eb966809fff0d49452600cc0" alt="Nigerians are up in arms after finding out Boko Haram is funded by the United States. I wonder where they thought some random fringe group out in the rural wilderness was getting the money to carry out cross-border terrorist attacks in half a dozen countries." title="Nigerians are up in arms after finding out Boko Haram is funded by the United States. I wonder where they thought some random fringe group out in the rural wilderness was getting the money to carry out cross-border terrorist attacks in half a dozen countries." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Orangutan"> /u/Orangutan </a> <br/> <span><a href="https://x.com/SizweLo/sta
+
+## “At some point, when things settle down, I’m going to meet with China and I’m going to meet with Russia, in particular those two, and I’m going to say there’s no reason for us to be spending almost $1 trillion on the military ... and I’m going to say we can spend this on other things,” Trump said.
+ - [https://www.reddit.com/r/conspiracy/comments/1iquoqk/at_some_point_when_things_settle_down_im_going_to](https://www.reddit.com/r/conspiracy/comments/1iquoqk/at_some_point_when_things_settle_down_im_going_to)
+ - RSS feed: $source
+ - date published: 2025-02-16T15:32:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iquoqk/at_some_point_when_things_settle_down_im_going_to/"> <img src="https://external-preview.redd.it/a-xnIFj9Z5oaXzgRusaGNgpLhTqokui7mCIZFOF3dvE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de09f9d00e4a3990bc520348b565e81b03ed0092" alt="“At some point, when things settle down, I’m going to meet with China and I’m going to meet with Russia, in particular those two, and I’m going to say there’s no reason for us to be spending almost $1 trillion on the military ... and I’m going to say we can spend this on other things,” Trump said." title="“At some point, when things settle down, I’m going to meet with China and I’m going to meet with Russia, in particular those two, and I’m going to say there’s no reason for us to be spending almost $1 trillion on the military ... and I’m going to say we can spend this on other things,” Trump said." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/u
+
+## Fort Hood name change following Vanessa Guillén case attention
+ - [https://www.reddit.com/r/conspiracy/comments/1iquivf/fort_hood_name_change_following_vanessa_guillén](https://www.reddit.com/r/conspiracy/comments/1iquivf/fort_hood_name_change_following_vanessa_guillén)
+ - RSS feed: $source
+ - date published: 2025-02-16T15:25:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iquivf/fort_hood_name_change_following_vanessa_guillén/"> <img src="https://preview.redd.it/fv3vqyqbrije1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=84f845957a5ef2aaf602c119174fe7f4fa485887" alt="Fort Hood name change following Vanessa Guillén case attention" title="Fort Hood name change following Vanessa Guillén case attention" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I was listening to Murder in America this morning and they released an episode on Vanessa Guillén and wanted to do more research into Fort Hood and it&#39;s dark and fucked up history.</p> <p>The first thing I noticed when typing in &quot;Fort Hood Dark History&quot; was the name change of this base. Formally Fort Hood is now Fort Cavazos, to give recognition to the first American Hispanic commander who received four stars etc. Here&#39;s where my issue is though; this commander was active in 1984... so close to 40 years ago, yet 
+
+## If Trump halves the military budget, should we start to believe... at least a little?
+ - [https://www.reddit.com/r/conspiracy/comments/1iqttek/if_trump_halves_the_military_budget_should_we](https://www.reddit.com/r/conspiracy/comments/1iqttek/if_trump_halves_the_military_budget_should_we)
+ - RSS feed: $source
+ - date published: 2025-02-16T14:52:20+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.cnbc.com/2025/02/13/defense-stocks-drop-after-trump-says-defense-spending-could-be-halved.html">Defense stocks drop after Trump says Pentagon spending could be halved</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Match6172"> /u/No-Match6172 </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqttek/if_trump_halves_the_military_budget_should_we/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqttek/if_trump_halves_the_military_budget_should_we/">[comments]</a></span>
+
+## The Zionist plan to ethnically cleanse Gaza of Palestinians was planned before October 7th
+ - [https://www.reddit.com/r/conspiracy/comments/1iqtp9w/the_zionist_plan_to_ethnically_cleanse_gaza_of](https://www.reddit.com/r/conspiracy/comments/1iqtp9w/the_zionist_plan_to_ethnically_cleanse_gaza_of)
+ - RSS feed: $source
+ - date published: 2025-02-16T14:46:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Israel now wants to expel 2 million people from Gaza. </p> <p>Their justification? That Gaza is no longer “habitable”. No wonder , they spent the best part of nearly 2 years bombing the shit out of it like a controlled demolition with people inside the buildings. &amp; now Trump &amp; Vance support the Zionist plan to take control of Gaza &amp; turn it into some sort of Utopian Riviera - no doubt for Jewish settlers. Millions will be forced away from their homes. This is the definition of ethnic cleansing &amp; people will still support this inhumane Zionist regime &amp; the two American hijo de putas who support &amp; encourage this barbarism !!</p> <p>Open your fucking eyes people </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lucky_Investment7970"> /u/Lucky_Investment7970 </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqtp9w/the_zionist_plan_to_ethnically_cleanse_gaza_of/">[link]</a
+
+## Top posts on r/conspiracy from September 13th, 2008.
+ - [https://www.reddit.com/r/conspiracy/comments/1iqryhp/top_posts_on_rconspiracy_from_september_13th_2008](https://www.reddit.com/r/conspiracy/comments/1iqryhp/top_posts_on_rconspiracy_from_september_13th_2008)
+ - RSS feed: $source
+ - date published: 2025-02-16T13:14:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqryhp/top_posts_on_rconspiracy_from_september_13th_2008/"> <img src="https://a.thumbs.redditmedia.com/W0FK77VSyZnBAZum_QCsZ1Pc8dqcRIYWGNpT66gYNv0.jpg" alt="Top posts on r/conspiracy from September 13th, 2008." title="Top posts on r/conspiracy from September 13th, 2008." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ipetgoat1984"> /u/ipetgoat1984 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iqryhp">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqryhp/top_posts_on_rconspiracy_from_september_13th_2008/">[comments]</a></span> </td></tr></table>
+
+## Remember when Elon was a hero of the Left?
+ - [https://www.reddit.com/r/conspiracy/comments/1iqralj/remember_when_elon_was_a_hero_of_the_left](https://www.reddit.com/r/conspiracy/comments/1iqralj/remember_when_elon_was_a_hero_of_the_left)
+ - RSS feed: $source
+ - date published: 2025-02-16T12:35:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>We are less than a month into this administration and I can’t believe all the whining. And winning!</p> <p>Elons ripping the bandaid off. </p> <p>Wah!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Chillin-Time"> /u/Chillin-Time </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqralj/remember_when_elon_was_a_hero_of_the_left/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqralj/remember_when_elon_was_a_hero_of_the_left/">[comments]</a></span>
+
+## The Great Misdirection (How They Control You)
+ - [https://www.reddit.com/r/conspiracy/comments/1iqqncz/the_great_misdirection_how_they_control_you](https://www.reddit.com/r/conspiracy/comments/1iqqncz/the_great_misdirection_how_they_control_you)
+ - RSS feed: $source
+ - date published: 2025-02-16T11:52:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>They keep us busy fighting over race, gender, and politics. Meanwhile, they steal your wealth, freedom, and future. They don’t care who wins—only that we stay distracted…</p> <p>Call me a conspiracy theorist…</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AgentWhiskers48"> /u/AgentWhiskers48 </a> <br/> <span><a href="https://i.redd.it/4eq8kcvdphje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqqncz/the_great_misdirection_how_they_control_you/">[comments]</a></span>
+
+## Reddit is censorship hell. This sub is no exception.
+ - [https://www.reddit.com/r/conspiracy/comments/1iqqfw9/reddit_is_censorship_hell_this_sub_is_no_exception](https://www.reddit.com/r/conspiracy/comments/1iqqfw9/reddit_is_censorship_hell_this_sub_is_no_exception)
+ - RSS feed: $source
+ - date published: 2025-02-16T11:37:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqqfw9/reddit_is_censorship_hell_this_sub_is_no_exception/"> <img src="https://preview.redd.it/ymqxlodpmhje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=546b4659f8637539dc95833f937228a120ce5e8d" alt="Reddit is censorship hell. This sub is no exception." title="Reddit is censorship hell. This sub is no exception." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I go to check to see if my other comment has been removed when discussing free speech in a gaming subreddit (marvel rivals, the rare game that doesn’t censor beyond U.S. law, besides Taiwan discussion lol) and what do you know? Conspiracy censored this comment. What about this comment was removal worthy? Did they disagree? Reddit is the lowest form of social media, for the lowest iq and/or senstive people and will disappear into nothing. The free speech platforms will continue to rise. The conspiracy sub Reddit is no exception.</p> </div><!-- SC_O
+
+## So the president of the United States openly says he can’t break the law while he’s president and it’s nowhere to be seen on r/conspiracy????
+ - [https://www.reddit.com/r/conspiracy/comments/1iqpv67/so_the_president_of_the_united_states_openly_says](https://www.reddit.com/r/conspiracy/comments/1iqpv67/so_the_president_of_the_united_states_openly_says)
+ - RSS feed: $source
+ - date published: 2025-02-16T10:56:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqpv67/so_the_president_of_the_united_states_openly_says/"> <img src="https://preview.redd.it/jvkscorcfhje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ef10d9dc120a449dab4844e655b729ce00d7c4a" alt="So the president of the United States openly says he can’t break the law while he’s president and it’s nowhere to be seen on r/conspiracy????" title="So the president of the United States openly says he can’t break the law while he’s president and it’s nowhere to be seen on r/conspiracy????" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>How bought and paid for is this sub? Lmfao Russia is loving this shit </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ColterBay69"> /u/ColterBay69 </a> <br/> <span><a href="https://i.redd.it/jvkscorcfhje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqpv67/so_the_president_of_the_united_st
+
+## Musk's 13th Child, an obvious explanation
+ - [https://www.reddit.com/r/conspiracy/comments/1iqpt7d/musks_13th_child_an_obvious_explanation](https://www.reddit.com/r/conspiracy/comments/1iqpt7d/musks_13th_child_an_obvious_explanation)
+ - RSS feed: $source
+ - date published: 2025-02-16T10:52:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqpt7d/musks_13th_child_an_obvious_explanation/"> <img src="https://external-preview.redd.it/6Kue_7v7NL6h8YAVCwvdIiyf7OtIt2-UWlYiOzelQjQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aaf1e43b9516e73ea309cee112bce3949379e4b5" alt="Musk's 13th Child, an obvious explanation" title="Musk's 13th Child, an obvious explanation" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>As this article states, Elon is being accused of having child number 13 with a woman named Ashley St. Clair. I had never seen St Clair before and thought the whole thing was rotten with a type of information tactic I&#39;ve seen before many times from a specific government, so I did a bit more searching. </p> <p>According to this source, Ashley St Clair was born on July 31, 1999. <a href="https://www.indy100.com/news/ashley-st-clair-age-where-from-elon-musk">https://www.indy100.com/news/ashley-st-clair-age-where-from-elon-musk</a></p> <p>Do y
+
+## The Mandelbrot set in art from 3000BC
+ - [https://www.reddit.com/r/conspiracy/comments/1iqpns2/the_mandelbrot_set_in_art_from_3000bc](https://www.reddit.com/r/conspiracy/comments/1iqpns2/the_mandelbrot_set_in_art_from_3000bc)
+ - RSS feed: $source
+ - date published: 2025-02-16T10:41:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>Emerging research show the Mandelbrot sets visualisation in art from 3000BC to modern times. <a href="https://osf.io/preprints/psyarxiv/4tuv5_v1">https://osf.io/preprints/psyarxiv/4tuv5_v1</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Strict_Ad3722"> /u/Strict_Ad3722 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iqpns2">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqpns2/the_mandelbrot_set_in_art_from_3000bc/">[comments]</a></span>
+
+## What were you right about?
+ - [https://www.reddit.com/r/conspiracy/comments/1iqpkuj/what_were_you_right_about](https://www.reddit.com/r/conspiracy/comments/1iqpkuj/what_were_you_right_about)
+ - RSS feed: $source
+ - date published: 2025-02-16T10:35:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqpkuj/what_were_you_right_about/"> <img src="https://preview.redd.it/k0j171mmbhje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=174cc1291eb4e145df1a5a3151121884f62939c8" alt="What were you right about?" title="What were you right about?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AttemptZestyclose490"> /u/AttemptZestyclose490 </a> <br/> <span><a href="https://i.redd.it/k0j171mmbhje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqpkuj/what_were_you_right_about/">[comments]</a></span> </td></tr></table>
+
+## What's this about?
+ - [https://www.reddit.com/r/conspiracy/comments/1iqnukc/whats_this_about](https://www.reddit.com/r/conspiracy/comments/1iqnukc/whats_this_about)
+ - RSS feed: $source
+ - date published: 2025-02-16T08:29:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqnukc/whats_this_about/"> <img src="https://preview.redd.it/0iraokd4pgje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f4dd57f2b0fc7547611f33aba9c792a983daf372" alt="What's this about?" title="What's this about?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ApocalypseReagan"> /u/ApocalypseReagan </a> <br/> <span><a href="https://i.redd.it/0iraokd4pgje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqnukc/whats_this_about/">[comments]</a></span> </td></tr></table>
+
+## Sick of my iPhone reading my mind
+ - [https://www.reddit.com/r/conspiracy/comments/1iqmv1p/sick_of_my_iphone_reading_my_mind](https://www.reddit.com/r/conspiracy/comments/1iqmv1p/sick_of_my_iphone_reading_my_mind)
+ - RSS feed: $source
+ - date published: 2025-02-16T07:18:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>I can’t be the only one who’s noticed. It’s happened too many times to count for it to be a coincidence. No tangible or auditory evidence to clue it, simply something I witness with my own eyes or think and BAM- a curated AD pops up within minutes. It’s genuinely insane and I feel violated and annoyed. Wtf is going on and how do I stop this bs? I’m literally a sane person I swear tg.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rip-curl-coconut"> /u/rip-curl-coconut </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqmv1p/sick_of_my_iphone_reading_my_mind/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqmv1p/sick_of_my_iphone_reading_my_mind/">[comments]</a></span>
+
+## What if MAGA is a huge psyop operation?
+ - [https://www.reddit.com/r/conspiracy/comments/1iqlcmv/what_if_maga_is_a_huge_psyop_operation](https://www.reddit.com/r/conspiracy/comments/1iqlcmv/what_if_maga_is_a_huge_psyop_operation)
+ - RSS feed: $source
+ - date published: 2025-02-16T05:38:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just something that has popped into my head as I see so many that are mesmerized by everything Trump and MAGA Republicans do and even if something is clearly unethical, they get a pass because it is their team. I’ve never seen so much blind loyalty to a leader and I honestly find it alarming to say the least. I know about historical items such as MK Ultra and sometimes wonder if maybe it’s Trump and Republicans doing it as opposed to Democrats and other liberals. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dmanwisconsin1991"> /u/Dmanwisconsin1991 </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqlcmv/what_if_maga_is_a_huge_psyop_operation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqlcmv/what_if_maga_is_a_huge_psyop_operation/">[comments]</a></span>
+
+## Theories about this clearing in the middle of a Romanian forest?
+ - [https://www.reddit.com/r/conspiracy/comments/1iqkok6/theories_about_this_clearing_in_the_middle_of_a](https://www.reddit.com/r/conspiracy/comments/1iqkok6/theories_about_this_clearing_in_the_middle_of_a)
+ - RSS feed: $source
+ - date published: 2025-02-16T04:57:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqkok6/theories_about_this_clearing_in_the_middle_of_a/"> <img src="https://preview.redd.it/uzoobg6dnfje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=018b5ab9cf1d9ee03e11d5f35b98d19538333952" alt="Theories about this clearing in the middle of a Romanian forest?" title="Theories about this clearing in the middle of a Romanian forest?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/potato_nest_69"> /u/potato_nest_69 </a> <br/> <span><a href="https://i.redd.it/uzoobg6dnfje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqkok6/theories_about_this_clearing_in_the_middle_of_a/">[comments]</a></span> </td></tr></table>
+
+## What Trump and Elon are doing is great- I'd give them a medal
+ - [https://www.reddit.com/r/conspiracy/comments/1iqjr21/what_trump_and_elon_are_doing_is_great_id_give](https://www.reddit.com/r/conspiracy/comments/1iqjr21/what_trump_and_elon_are_doing_is_great_id_give)
+ - RSS feed: $source
+ - date published: 2025-02-16T04:02:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Like it or not, they are exposing the corruption and waste. You can argue ill motives, and you can despise the ones who are doing it, but it is something LONG OVERDUE. They are putting &quot;sunshine is the best disinfectant&quot; truism into action. </p> <p>They are breaking DC rules and I&#39;m here for it. </p> <p>They are critically reevaluating long standing alliances and asking if it still works for the United States. </p> <p>There is no more &quot;well we have to do it this way cause that&#39;s how it&#39;s always been done!&quot;</p> <p>I&#39;m impressed. Their actions are radical in the truest sense of the term It tells me that Pluto is truly in Aquarius for the next 20 years. </p> <p>Now, if they go after the twin golden calves called Israhell and the Pentagon, that would be truly revolutionary. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lakesuperior929"> /u/lakesuperior929 </a> <br/> <span><a hr
+
+## Victoria Nuland Is Going Down - Who Will She Take With Her?
+ - [https://www.reddit.com/r/conspiracy/comments/1iqjpik/victoria_nuland_is_going_down_who_will_she_take](https://www.reddit.com/r/conspiracy/comments/1iqjpik/victoria_nuland_is_going_down_who_will_she_take)
+ - RSS feed: $source
+ - date published: 2025-02-16T04:00:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Elon cut off the NED completely - to the tune of $238 million. The National Endowment for Democracy is a quarter-billion-plus CIA cutout that is responsible for mayhem across the globe including the illegal operation involving the removal of the former Ukraine President who was replaced by the CIA-controlled VZ, the Arab Spring uprisings and other actions in Panama, Nicaragua, El Salvador, Chile, China and more. Nuland, the CIA in general and multiple Federal judges and other officials are past neck deep in kickbacks, and other associated illegal activities. This is just another tip in an ever-larger and dangerous iceberg. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ricincali"> /u/ricincali </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqjpik/victoria_nuland_is_going_down_who_will_she_take/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqjpik
+
+## Can anyone explain the weirdness around the Las Vegas Shooting
+ - [https://www.reddit.com/r/conspiracy/comments/1iqjega/can_anyone_explain_the_weirdness_around_the_las](https://www.reddit.com/r/conspiracy/comments/1iqjega/can_anyone_explain_the_weirdness_around_the_las)
+ - RSS feed: $source
+ - date published: 2025-02-16T03:41:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>I always see it pop up in discussions and feel out of the loop with it. What happened? Why is it suspicious and what are the general theory’s as to what really happened?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/coldlawliet"> /u/coldlawliet </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqjega/can_anyone_explain_the_weirdness_around_the_las/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqjega/can_anyone_explain_the_weirdness_around_the_las/">[comments]</a></span>
+
+## Tax haven States allow Billionaires to hide Trillions.
+ - [https://www.reddit.com/r/conspiracy/comments/1iqimi3/tax_haven_states_allow_billionaires_to_hide](https://www.reddit.com/r/conspiracy/comments/1iqimi3/tax_haven_states_allow_billionaires_to_hide)
+ - RSS feed: $source
+ - date published: 2025-02-16T02:57:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqimi3/tax_haven_states_allow_billionaires_to_hide/"> <img src="https://external-preview.redd.it/zp4ou9nheWy_hOBrtdtJkU8eVUXiKM1ZTiOVChSyGSE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=265045fc546c0971bdd74781e2fee9d93411c2f7" alt="Tax haven States allow Billionaires to hide Trillions." title="Tax haven States allow Billionaires to hide Trillions." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HilariousButTrue"> /u/HilariousButTrue </a> <br/> <span><a href="https://www.thenation.com/article/economy/tax-haven-delaware-south-dakota/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqimi3/tax_haven_states_allow_billionaires_to_hide/">[comments]</a></span> </td></tr></table>
+
+## Looks like shit is getting real for Europe ----- "French President Emmanuel Macron sets emergency summit for European leaders" Trump will be on the agenda.
+ - [https://www.reddit.com/r/conspiracy/comments/1iqib0i/looks_like_shit_is_getting_real_for_europe_french](https://www.reddit.com/r/conspiracy/comments/1iqib0i/looks_like_shit_is_getting_real_for_europe_french)
+ - RSS feed: $source
+ - date published: 2025-02-16T02:39:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqib0i/looks_like_shit_is_getting_real_for_europe_french/"> <img src="https://external-preview.redd.it/wMl3fZXozFxM3_G85g5zb-ps6lN4PzZl8lJkR0ttdYc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae2d9cbe53cd1f544035bc266a3015e2e0c285a8" alt="Looks like shit is getting real for Europe ----- &quot;French President Emmanuel Macron sets emergency summit for European leaders&quot; Trump will be on the agenda." title="Looks like shit is getting real for Europe ----- &quot;French President Emmanuel Macron sets emergency summit for European leaders&quot; Trump will be on the agenda." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Orangutan"> /u/Orangutan </a> <br/> <span><a href="https://nypost.com/2025/02/15/world-news/french-prez-emmanuel-macron-sets-emergency-summit-for-european-leaders/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqib0i/looks
+
+## Huxley's "Brave New World" is EXACTLY what The AFTERLIFE is like. The NWO seeks the same Psychotic Dystopia; here in our realm in the near future
+ - [https://www.reddit.com/r/conspiracy/comments/1iqia5b/huxleys_brave_new_world_is_exactly_what_the](https://www.reddit.com/r/conspiracy/comments/1iqia5b/huxleys_brave_new_world_is_exactly_what_the)
+ - RSS feed: $source
+ - date published: 2025-02-16T02:38:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqia5b/huxleys_brave_new_world_is_exactly_what_the/"> <img src="https://preview.redd.it/gzka13qeyeje1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=74fa481c3e13d2a73283a490d169ebb53fec2880" alt="Huxley's &quot;Brave New World&quot; is EXACTLY what The AFTERLIFE is like. The NWO seeks the same Psychotic Dystopia; here in our realm in the near future" title="Huxley's &quot;Brave New World&quot; is EXACTLY what The AFTERLIFE is like. The NWO seeks the same Psychotic Dystopia; here in our realm in the near future" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/astralrocker2001"> /u/astralrocker2001 </a> <br/> <span><a href="https://i.redd.it/gzka13qeyeje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqia5b/huxleys_brave_new_world_is_exactly_what_the/">[comments]</a></span> </td></tr></table>
+
+## I’m sure this is good right? Right!?
+ - [https://www.reddit.com/r/conspiracy/comments/1iqfxs5/im_sure_this_is_good_right_right](https://www.reddit.com/r/conspiracy/comments/1iqfxs5/im_sure_this_is_good_right_right)
+ - RSS feed: $source
+ - date published: 2025-02-16T00:34:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqfxs5/im_sure_this_is_good_right_right/"> <img src="https://preview.redd.it/c2907aehceje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a5b45f971df100f04bad5196b812441dd11f4ee" alt="I’m sure this is good right? Right!?" title="I’m sure this is good right? Right!?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jonqbanana"> /u/Jonqbanana </a> <br/> <span><a href="https://i.redd.it/c2907aehceje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqfxs5/im_sure_this_is_good_right_right/">[comments]</a></span> </td></tr></table>
+
+## [No Proof] Sabine Hossenfelder leaks Email saying Academia Life is rigged and they get paid for crap that's wrong
+ - [https://www.reddit.com/r/conspiracy/comments/1iqfpei/no_proof_sabine_hossenfelder_leaks_email_saying](https://www.reddit.com/r/conspiracy/comments/1iqfpei/no_proof_sabine_hossenfelder_leaks_email_saying)
+ - RSS feed: $source
+ - date published: 2025-02-16T00:23:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iqfpei/no_proof_sabine_hossenfelder_leaks_email_saying/"> <img src="https://external-preview.redd.it/qccs9eGh38CC-FeNU51kzTO-HW1o7MzjyxCqrImDgOo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fddff068828f1376bb83964350bcf444dde07963" alt="[No Proof] Sabine Hossenfelder leaks Email saying Academia Life is rigged and they get paid for crap that's wrong" title="[No Proof] Sabine Hossenfelder leaks Email saying Academia Life is rigged and they get paid for crap that's wrong" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KainLTD"> /u/KainLTD </a> <br/> <span><a href="https://www.youtube.com/watch?v=shFUDPqVmTg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iqfpei/no_proof_sabine_hossenfelder_leaks_email_saying/">[comments]</a></span> </td></tr></table>
+

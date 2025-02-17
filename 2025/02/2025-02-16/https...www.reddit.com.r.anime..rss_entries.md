@@ -1,0 +1,205 @@
+# Source:/r/Anime, URL:https://www.reddit.com/r/anime/.rss, language:en
+
+## The tomboy girlfriend route, but with a twist. (The 100 Girlfriends)
+ - [https://www.reddit.com/r/anime/comments/1ir3dhk/the_tomboy_girlfriend_route_but_with_a_twist_the](https://www.reddit.com/r/anime/comments/1ir3dhk/the_tomboy_girlfriend_route_but_with_a_twist_the)
+ - RSS feed: $source
+ - date published: 2025-02-16T21:39:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ir3dhk/the_tomboy_girlfriend_route_but_with_a_twist_the/"> <img src="https://external-preview.redd.it/Yjg0MTc0dnlpa2plMRppxlBpU5S_mFyKH2krScwXwm8CmMdiPQuQGbQTpkPz.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=50b0f5f832384224ac216c4d22d5157a79cf5204" alt="The tomboy girlfriend route, but with a twist. (The 100 Girlfriends)" title="The tomboy girlfriend route, but with a twist. (The 100 Girlfriends)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheEVILPINGU"> /u/TheEVILPINGU </a> <br/> <span><a href="https://v.redd.it/xp5evhuyikje1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ir3dhk/the_tomboy_girlfriend_route_but_with_a_twist_the/">[comments]</a></span> </td></tr></table>
+
+## What Have You Watched This Past Week That is NOT a Currently Airing Show? [February 16th, 2025]
+ - [https://www.reddit.com/r/anime/comments/1iqzl0x/what_have_you_watched_this_past_week_that_is_not](https://www.reddit.com/r/anime/comments/1iqzl0x/what_have_you_watched_this_past_week_that_is_not)
+ - RSS feed: $source
+ - date published: 2025-02-16T19:00:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>Title says it all - talk about the anime you watched this past week that are not a part of this Winter 2025 season (like <strong>Sakamoto Days</strong> or <strong>The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2</strong>), or a show that&#39;s continuing from previous seasons (like <strong>Blue Box</strong>).</p> <p>With regards to Fall 2024 shows, however, it would be fine to write about them as long as you only began them after they finished airing. For example, it&#39;s fine to talk about watching <strong>Acro Trip</strong> or <strong>I&#39;ll Become a Villainess Who Goes Down in History</strong> if you started them after the final episode aired. Obviously, use your best judgement on this.</p> <p><strong>Please use spoiler tags</strong>; it&#39;s super simple stuff. An example below:</p> <pre><code> [KonoSuba Ep 9] &gt;!&quot;THIS WAS A VERY BAD EPISODE, DARKNESS DID NOT DESERVE THAT!&lt; </code></pre> <p>comes out 
+
+## Zenshu - Episode 7 discussion
+ - [https://www.reddit.com/r/anime/comments/1iqx2ob/zenshu_episode_7_discussion](https://www.reddit.com/r/anime/comments/1iqx2ob/zenshu_episode_7_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-16T17:16:22+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Zenshu</em>, episode 7</p> <p>Alternative names: <em>Zenshuu, Zenshuu.</em></p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/zenshu">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/58502/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/176273">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18547">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/zenshu">Anime-Planet</a></li> <li><a href="https://zenshu-anime.com/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th> </tr> </thead><tbody> <tr> <td align="center">1</td> <td align="center"><a href="https://redd.it/1hubu8r">Link</a></td> </tr> <tr> <td align="center">2</td> <td align="center"><a href="https://redd.it/1hzrl5d">Link</
+
+## Sentai Red Isekai de Boukensha ni Naru • The Red Ranger Becomes an Adventurer in Another World - Episode 6 discussion
+ - [https://www.reddit.com/r/anime/comments/1iqvdqh/sentai_red_isekai_de_boukensha_ni_naru_the_red](https://www.reddit.com/r/anime/comments/1iqvdqh/sentai_red_isekai_de_boukensha_ni_naru_the_red)
+ - RSS feed: $source
+ - date published: 2025-02-16T16:04:30+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Sentai Red Isekai de Boukensha ni Naru</em>, episode 6</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/the-red-ranger-becomes-an-adventurer-in-another-world">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/59514/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/180052">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18809">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/the-red-ranger-becomes-an-adventurer-in-another-world">Anime-Planet</a></li> <li><a href="https://isekai-red-anime.com/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="cen
+
+## Witch Watch - 2nd PV (Opening Theme: Watch me! by YOASOBI)
+ - [https://www.reddit.com/r/anime/comments/1iquf7f/witch_watch_2nd_pv_opening_theme_watch_me_by](https://www.reddit.com/r/anime/comments/1iquf7f/witch_watch_2nd_pv_opening_theme_watch_me_by)
+ - RSS feed: $source
+ - date published: 2025-02-16T15:20:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iquf7f/witch_watch_2nd_pv_opening_theme_watch_me_by/"> <img src="https://external-preview.redd.it/yDfNq9Q09GDYPGz-9S68okeI7dn_MjBW3DiJ0DGzbTA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=63813b5e0d59ef462541cbf63f1d895e5a1b09ea" alt="Witch Watch - 2nd PV (Opening Theme: Watch me! by YOASOBI)" title="Witch Watch - 2nd PV (Opening Theme: Watch me! by YOASOBI)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdNecessary7641"> /u/AdNecessary7641 </a> <br/> <span><a href="https://youtu.be/X2opaF-c10k?si=8hIbwBNxGJkdaAxx">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iquf7f/witch_watch_2nd_pv_opening_theme_watch_me_by/">[comments]</a></span> </td></tr></table>
+
+## Fate Series has Unlimited Budget.
+ - [https://www.reddit.com/r/anime/comments/1iqubho/fate_series_has_unlimited_budget](https://www.reddit.com/r/anime/comments/1iqubho/fate_series_has_unlimited_budget)
+ - RSS feed: $source
+ - date published: 2025-02-16T15:15:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iqubho/fate_series_has_unlimited_budget/"> <img src="https://external-preview.redd.it/bXZheTA2amxwaWplMd4Xyi7wuK9yDcLFx2xya2mymQ1B6D-p6AWOQ8LJThfU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=110d33f7aee3042f63c1e17456bd75563f48e22e" alt="Fate Series has Unlimited Budget." title="Fate Series has Unlimited Budget." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/XYLUS189"> /u/XYLUS189 </a> <br/> <span><a href="https://v.redd.it/i5qau5jlpije1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iqubho/fate_series_has_unlimited_budget/">[comments]</a></span> </td></tr></table>
+
+## WITCH WATCH: WATCH PARTY | Official Trailer 2 - In Theatres March 16
+ - [https://www.reddit.com/r/anime/comments/1iqu13e/witch_watch_watch_party_official_trailer_2_in](https://www.reddit.com/r/anime/comments/1iqu13e/witch_watch_watch_party_official_trailer_2_in)
+ - RSS feed: $source
+ - date published: 2025-02-16T15:02:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iqu13e/witch_watch_watch_party_official_trailer_2_in/"> <img src="https://external-preview.redd.it/MFObM7PjlHA-UZ-v3C9WgmJWAy_YED3zUH63KK9vtto.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0cdc19d2f2193423f82ee8302abd550716290b00" alt="WITCH WATCH: WATCH PARTY | Official Trailer 2 - In Theatres March 16" title="WITCH WATCH: WATCH PARTY | Official Trailer 2 - In Theatres March 16" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Turbostrider27"> /u/Turbostrider27 </a> <br/> <span><a href="https://www.youtube.com/watch?v=TZ3xF88xvvA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iqu13e/witch_watch_watch_party_official_trailer_2_in/">[comments]</a></span> </td></tr></table>
+
+## MF Ghost Season 3 to air in 2026
+ - [https://www.reddit.com/r/anime/comments/1iqtzkb/mf_ghost_season_3_to_air_in_2026](https://www.reddit.com/r/anime/comments/1iqtzkb/mf_ghost_season_3_to_air_in_2026)
+ - RSS feed: $source
+ - date published: 2025-02-16T15:00:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iqtzkb/mf_ghost_season_3_to_air_in_2026/"> <img src="https://external-preview.redd.it/fEgD4L9ui2DjS4Qqp0aTftyAzXagL_ZiVqveXLL9Aaw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=845663a524030dc80dcc183a9866acf0707c700a" alt="MF Ghost Season 3 to air in 2026" title="MF Ghost Season 3 to air in 2026" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Turbostrider27"> /u/Turbostrider27 </a> <br/> <span><a href="https://natalie.mu/comic/news/611940">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iqtzkb/mf_ghost_season_3_to_air_in_2026/">[comments]</a></span> </td></tr></table>
+
+## Witch Watch New Key Visual
+ - [https://www.reddit.com/r/anime/comments/1iqtutd/witch_watch_new_key_visual](https://www.reddit.com/r/anime/comments/1iqtutd/witch_watch_new_key_visual)
+ - RSS feed: $source
+ - date published: 2025-02-16T14:54:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iqtutd/witch_watch_new_key_visual/"> <img src="https://external-preview.redd.it/vZhKbiYAc_ttxlZyHEhVk7AZxqaEKa3ipC0jsgEJJpo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2853c69443ce50711d89e8cd14504e7dde6b84d" alt="Witch Watch New Key Visual" title="Witch Watch New Key Visual" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Turbostrider27"> /u/Turbostrider27 </a> <br/> <span><a href="https://witchwatch-anime.com/wp/wp-content/themes/witchwatch-main/_assets/images/top/fv/kv_001.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iqtutd/witch_watch_new_key_visual/">[comments]</a></span> </td></tr></table>
+
+## Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo Season 2 • The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 - Episode 6 discussion
+ - [https://www.reddit.com/r/anime/comments/1iqsv87/kimi_no_koto_ga_daidaidaidaidaisuki_na_100nin_no](https://www.reddit.com/r/anime/comments/1iqsv87/kimi_no_koto_ga_daidaidaidaidaisuki_na_100nin_no)
+ - RSS feed: $source
+ - date published: 2025-02-16T14:04:29+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo Season 2</em>, episode 6</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/the-100-girlfriends-who-really-really-really-really-really-love-you">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/57616/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/172258">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18343">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/the-100-girlfriends-who-really-really-really-really-really-love-you-season-2">Anime-Planet</a></li> <li><a href="https://hyakkano.com/">Official Website</a></li> <li><strong><a href="/r/100Kanojo">/r/100Kanojo</a></strong></
+
+## r/anime Karma Ranking & Discussion | Week 7 [Winter 2025]
+ - [https://www.reddit.com/r/anime/comments/1iqss0z/ranime_karma_ranking_discussion_week_7_winter_2025](https://www.reddit.com/r/anime/comments/1iqss0z/ranime_karma_ranking_discussion_week_7_winter_2025)
+ - RSS feed: $source
+ - date published: 2025-02-16T14:00:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iqss0z/ranime_karma_ranking_discussion_week_7_winter_2025/"> <img src="https://preview.redd.it/0lr0yosxaije1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=af7752ed2efffba012db11dbf1e68295a80be135" alt="r/anime Karma Ranking &amp; Discussion | Week 7 [Winter 2025]" title="r/anime Karma Ranking &amp; Discussion | Week 7 [Winter 2025]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Abysswatcherbel"> /u/Abysswatcherbel </a> <br/> <span><a href="https://i.redd.it/0lr0yosxaije1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iqss0z/ranime_karma_ranking_discussion_week_7_winter_2025/">[comments]</a></span> </td></tr></table>
+
+## A Certain Scientific Railgun Season 4 Announced
+ - [https://www.reddit.com/r/anime/comments/1iqsph5/a_certain_scientific_railgun_season_4_announced](https://www.reddit.com/r/anime/comments/1iqsph5/a_certain_scientific_railgun_season_4_announced)
+ - RSS feed: $source
+ - date published: 2025-02-16T13:56:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iqsph5/a_certain_scientific_railgun_season_4_announced/"> <img src="https://external-preview.redd.it/W9qzIKKiZnzkHZP3Rq8wWLYFLPVxwYzuiuvdqR-eCtY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ea1beccb3db5b07480e0ee28bef47051e9a2e76a" alt="A Certain Scientific Railgun Season 4 Announced" title="A Certain Scientific Railgun Season 4 Announced" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zenzen_0"> /u/zenzen_0 </a> <br/> <span><a href="https://x.com/toaru_project/status/1891124390076571853">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iqsph5/a_certain_scientific_railgun_season_4_announced/">[comments]</a></span> </td></tr></table>
+
+## Toaru Anbu no Item Anime Announced
+ - [https://www.reddit.com/r/anime/comments/1iqshxb/toaru_anbu_no_item_anime_announced](https://www.reddit.com/r/anime/comments/1iqshxb/toaru_anbu_no_item_anime_announced)
+ - RSS feed: $source
+ - date published: 2025-02-16T13:44:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iqshxb/toaru_anbu_no_item_anime_announced/"> <img src="https://external-preview.redd.it/JlNy-7d3c-sRvtBqnL2Mmn75bQKMLXo80ViYF-lBNOg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=83c3386f8293b6f45472a599a7488f936d180f79" alt="Toaru Anbu no Item Anime Announced" title="Toaru Anbu no Item Anime Announced" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zenzen_0"> /u/zenzen_0 </a> <br/> <span><a href="https://x.com/toaru_project/status/1891121384769626517">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iqshxb/toaru_anbu_no_item_anime_announced/">[comments]</a></span> </td></tr></table>
+
+## The Kept Man of the Princess Knight Teaser Visual
+ - [https://www.reddit.com/r/anime/comments/1iqshcn/the_kept_man_of_the_princess_knight_teaser_visual](https://www.reddit.com/r/anime/comments/1iqshcn/the_kept_man_of_the_princess_knight_teaser_visual)
+ - RSS feed: $source
+ - date published: 2025-02-16T13:44:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iqshcn/the_kept_man_of_the_princess_knight_teaser_visual/"> <img src="https://external-preview.redd.it/iqA32M9L4L91blqGZk3N1pZB0WLz5xNoTyJ1IwfIEgc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=472a10ae8e4d2e95a2804adb333460cca6335237" alt="The Kept Man of the Princess Knight Teaser Visual" title="The Kept Man of the Princess Knight Teaser Visual" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Turbostrider27"> /u/Turbostrider27 </a> <br/> <span><a href="https://pbs.twimg.com/media/Gj6cudjbYAApqfP.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iqshcn/the_kept_man_of_the_princess_knight_teaser_visual/">[comments]</a></span> </td></tr></table>
+
+## “The Kept Man of the Princess Knight” Anime Announced
+ - [https://www.reddit.com/r/anime/comments/1iqsbfh/the_kept_man_of_the_princess_knight_anime](https://www.reddit.com/r/anime/comments/1iqsbfh/the_kept_man_of_the_princess_knight_anime)
+ - RSS feed: $source
+ - date published: 2025-02-16T13:35:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iqsbfh/the_kept_man_of_the_princess_knight_anime/"> <img src="https://external-preview.redd.it/5BcOnpUDrWvypdJFAMNhDHSHF9nGPsbh-0UWCa9DVMo.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=05b9b590295ec2509e2a2f81655f8c7b8705e010" alt="“The Kept Man of the Princess Knight” Anime Announced" title="“The Kept Man of the Princess Knight” Anime Announced" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zenzen_0"> /u/zenzen_0 </a> <br/> <span><a href="https://twitter.com/himehimo0410/status/1891118494835462421">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iqsbfh/the_kept_man_of_the_princess_knight_anime/">[comments]</a></span> </td></tr></table>
+
+## Valentine's Day monster [Miss Kuroitsu from the Monster Development Department]
+ - [https://www.reddit.com/r/anime/comments/1iqs710/valentines_day_monster_miss_kuroitsu_from_the](https://www.reddit.com/r/anime/comments/1iqs710/valentines_day_monster_miss_kuroitsu_from_the)
+ - RSS feed: $source
+ - date published: 2025-02-16T13:28:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iqs710/valentines_day_monster_miss_kuroitsu_from_the/"> <img src="https://external-preview.redd.it/dGdzeXBhdGU2aWplMV_dpOd1T6reyi0FQnzfGgkXi3Nj6YUjxzSnAI_HJrXe.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=165e0bda50b9f460ba5ae038a3843841d9f6f2da" alt="Valentine's Day monster [Miss Kuroitsu from the Monster Development Department]" title="Valentine's Day monster [Miss Kuroitsu from the Monster Development Department]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HirokoKueh"> /u/HirokoKueh </a> <br/> <span><a href="https://v.redd.it/cv2f58ns3ije1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iqs710/valentines_day_monster_miss_kuroitsu_from_the/">[comments]</a></span> </td></tr></table>
+
+## Even a Replica Can Fall in Love Anime Announced
+ - [https://www.reddit.com/r/anime/comments/1iqs5j8/even_a_replica_can_fall_in_love_anime_announced](https://www.reddit.com/r/anime/comments/1iqs5j8/even_a_replica_can_fall_in_love_anime_announced)
+ - RSS feed: $source
+ - date published: 2025-02-16T13:25:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iqs5j8/even_a_replica_can_fall_in_love_anime_announced/"> <img src="https://external-preview.redd.it/fVLmYuwWBHHIBFUulibQX7F53acL7o36QA7y6xjULBo.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=dc147ecd20fd3cfc25f18a649645194a11afd773" alt="Even a Replica Can Fall in Love Anime Announced" title="Even a Replica Can Fall in Love Anime Announced" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Turbostrider27"> /u/Turbostrider27 </a> <br/> <span><a href="https://twitter.com/bunko_dengeki/status/1891116735878590652">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iqs5j8/even_a_replica_can_fall_in_love_anime_announced/">[comments]</a></span> </td></tr></table>
+
+## Monkey on the battlefield [Zeta Gundam]
+ - [https://www.reddit.com/r/anime/comments/1iqrspt/monkey_on_the_battlefield_zeta_gundam](https://www.reddit.com/r/anime/comments/1iqrspt/monkey_on_the_battlefield_zeta_gundam)
+ - RSS feed: $source
+ - date published: 2025-02-16T13:05:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iqrspt/monkey_on_the_battlefield_zeta_gundam/"> <img src="https://external-preview.redd.it/NXkxM2FjaTgyaWplMT3WC5VykWLxlaPQb_GnH_rVLzy7Yafwkp_Gk5eloW_n.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=38d3eee1bbf060029b91c15c62c44ed9a439a04b" alt="Monkey on the battlefield [Zeta Gundam]" title="Monkey on the battlefield [Zeta Gundam]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LongjumpingShip3657"> /u/LongjumpingShip3657 </a> <br/> <span><a href="https://v.redd.it/j7qu9bi82ije1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iqrspt/monkey_on_the_battlefield_zeta_gundam/">[comments]</a></span> </td></tr></table>
+
+## “Rascal Does Not Dream of Santa Claus” New Character Visuals
+ - [https://www.reddit.com/r/anime/comments/1iqrmt6/rascal_does_not_dream_of_santa_claus_new](https://www.reddit.com/r/anime/comments/1iqrmt6/rascal_does_not_dream_of_santa_claus_new)
+ - RSS feed: $source
+ - date published: 2025-02-16T12:56:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iqrmt6/rascal_does_not_dream_of_santa_claus_new/"> <img src="https://preview.redd.it/pw0qc20m0ije1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2171291a009a7d99a4630acca5c834cc57f8bea" alt="“Rascal Does Not Dream of Santa Claus” New Character Visuals" title="“Rascal Does Not Dream of Santa Claus” New Character Visuals" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zenzen_0"> /u/zenzen_0 </a> <br/> <span><a href="https://i.redd.it/pw0qc20m0ije1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iqrmt6/rascal_does_not_dream_of_santa_claus_new/">[comments]</a></span> </td></tr></table>
+
+## Breaking the habit x Chainsaw man [AMV]
+ - [https://www.reddit.com/r/anime/comments/1iqqwe5/breaking_the_habit_x_chainsaw_man_amv](https://www.reddit.com/r/anime/comments/1iqqwe5/breaking_the_habit_x_chainsaw_man_amv)
+ - RSS feed: $source
+ - date published: 2025-02-16T12:09:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iqqwe5/breaking_the_habit_x_chainsaw_man_amv/"> <img src="https://external-preview.redd.it/MXAwcjh2NWJzaGplMZ2wNVo-OE2bciGH4sJ2rG79auy1VwP-dEBcS0EBYyDD.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=875d10076bbf0935a18f6600e9b9e415aa35cbb4" alt="Breaking the habit x Chainsaw man [AMV]" title="Breaking the habit x Chainsaw man [AMV]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MrFujimoto"> /u/MrFujimoto </a> <br/> <span><a href="https://v.redd.it/gk5y6v5bshje1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iqqwe5/breaking_the_habit_x_chainsaw_man_amv/">[comments]</a></span> </td></tr></table>
+
+## "mono" TV Anime Key Visual
+ - [https://www.reddit.com/r/anime/comments/1iqp6f7/mono_tv_anime_key_visual](https://www.reddit.com/r/anime/comments/1iqp6f7/mono_tv_anime_key_visual)
+ - RSS feed: $source
+ - date published: 2025-02-16T10:07:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iqp6f7/mono_tv_anime_key_visual/"> <img src="https://preview.redd.it/7s8v3pdm6hje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=48a737d59cd9ed9684dc50e0cf03f1e7713011ac" alt="&quot;mono&quot; TV Anime Key Visual" title="&quot;mono&quot; TV Anime Key Visual" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zenzen_0"> /u/zenzen_0 </a> <br/> <span><a href="https://i.redd.it/7s8v3pdm6hje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iqp6f7/mono_tv_anime_key_visual/">[comments]</a></span> </td></tr></table>
+
+## Jibaku Shounen Hanako-kun Season 2 • Toilet-bound Hanako-kun Season 2 - Episode 6 discussion
+ - [https://www.reddit.com/r/anime/comments/1iqp3c6/jibaku_shounen_hanakokun_season_2_toiletbound](https://www.reddit.com/r/anime/comments/1iqp3c6/jibaku_shounen_hanakokun_season_2_toiletbound)
+ - RSS feed: $source
+ - date published: 2025-02-16T10:01:26+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Jibaku Shounen Hanako-kun Season 2</em>, episode 6</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/toilet-bound-hanako-kun">Crunchyroll</a></li> <li><a href="https://www.hulu.com/series/toilet-bound-hanako-kun-87b3d986-cbae-47ce-9076-0fe61fce06e3">Hulu</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/53924/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/170892">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=17791">AniDB</a></li> <li><a href="https://www.hanakokun.com/2nd/">Official Website</a></li> <li><strong><a href="/r/hanakokun">/r/hanakokun</a></strong></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Ep
+
+## Anime Questions, Recommendations, and Discussion - February 16, 2025
+ - [https://www.reddit.com/r/anime/comments/1iqp35k/anime_questions_recommendations_and_discussion](https://www.reddit.com/r/anime/comments/1iqp35k/anime_questions_recommendations_and_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-16T10:01:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iqp35k/anime_questions_recommendations_and_discussion/"> <img src="https://external-preview.redd.it/FKV3XXuPx3u8zGi0zsv9j6ZCk1Bj_JpkbmNoY_FGLIQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=958edd94ced8e6b8b03bc910758baa7e5a59ee9a" alt="Anime Questions, Recommendations, and Discussion - February 16, 2025" title="Anime Questions, Recommendations, and Discussion - February 16, 2025" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This is a daily megathread for general chatter about anime. Have questions or need recommendations? Here to show off your merch? Want to talk about what you just watched?</p> <p><a href="https://preview.redd.it/zdggqe3i3aje1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=c161a9fbd4c50bb3d45b584778b5748439e75b4f">This is the place!</a></p> <p><a href="/r/anime/wiki/rules#wiki_tagging_comments"><strong>All spoilers must be tagged.</strong></a> Use <code>[anime name]</code> to indicate t
+
+## “Chitose Is in the Ramune Bottle” Teaser Visual
+ - [https://www.reddit.com/r/anime/comments/1iqp1x7/chitose_is_in_the_ramune_bottle_teaser_visual](https://www.reddit.com/r/anime/comments/1iqp1x7/chitose_is_in_the_ramune_bottle_teaser_visual)
+ - RSS feed: $source
+ - date published: 2025-02-16T09:58:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1iqp1x7/chitose_is_in_the_ramune_bottle_teaser_visual/"> <img src="https://external-preview.redd.it/ev1ICcwWgqeX3OEtp2FbfU0cSEvIxylZqCgx10qr0d4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5079c88c79dc217900d195dffa9cba4d6ff467eb" alt="“Chitose Is in the Ramune Bottle” Teaser Visual" title="“Chitose Is in the Ramune Bottle” Teaser Visual" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zenzen_0"> /u/zenzen_0 </a> <br/> <span><a href="https://chiramune.com/core_sys/images/main/home/kv.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iqp1x7/chitose_is_in_the_ramune_bottle_teaser_visual/">[comments]</a></span> </td></tr></table>
+
+## Shangri-La Frontier Season 2 - Episode 19 discussion
+ - [https://www.reddit.com/r/anime/comments/1iqnx6y/shangrila_frontier_season_2_episode_19_discussion](https://www.reddit.com/r/anime/comments/1iqnx6y/shangrila_frontier_season_2_episode_19_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-16T08:34:34+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Shangri-La Frontier Season 2</em>, episode 19</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/shangri-la-frontier">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/58572/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/176508">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18578">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/shangri-la-frontier-2nd-season">Anime-Planet</a></li> <li><a href="https://anime.shangrilafrontier.com/">Official Website</a></li> <li><strong><a href="/r/ShangriLaFrontier">/r/ShangriLaFrontier</a></strong></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Epis
+
+## Naruto Shippuden Filler Episode I'd like to recall
+ - [https://www.reddit.com/r/anime/comments/1iqnvwu/naruto_shippuden_filler_episode_id_like_to_recall](https://www.reddit.com/r/anime/comments/1iqnvwu/naruto_shippuden_filler_episode_id_like_to_recall)
+ - RSS feed: $source
+ - date published: 2025-02-16T08:31:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>So there&#39;s this one filler episode that hits me to this day. I think it was around after Pain arc where Naruto noticed a certain picture and that&#39;s where the flashback episode started. I only remember a certain old man and at the end of the episode where it showed the present, Naruto returned/placed that photo back to the guy&#39;s grave. It&#39;s an episode that while I watched more than a decade ago, I still recall from time to time despite not remembering much of the details. I&#39;d appreciate it if someone can give me the episode number, might want to watch it again before I now properly watch the entire show as an adult. Thank you so much!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Calm-Inevitable9156"> /u/Calm-Inevitable9156 </a> <br/> <span><a href="https://www.reddit.com/r/anime/comments/1iqnvwu/naruto_shippuden_filler_episode_id_like_to_recall/">[link]</a></span> &#32; <span><a href="https
+
+## One Piece: Gyojin Tou-hen • One Piece Log: Fish-Man Island Saga - Episode 16 discussion
+ - [https://www.reddit.com/r/anime/comments/1iqhniy/one_piece_gyojin_touhen_one_piece_log_fishman](https://www.reddit.com/r/anime/comments/1iqhniy/one_piece_gyojin_touhen_one_piece_log_fishman)
+ - RSS feed: $source
+ - date published: 2025-02-16T02:04:26+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>One Piece: Gyojin Tou-hen</em>, episode 16</p> <p>Alternative names: <em>One Piece Log - Fish-Man Island Saga</em></p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <p><em>None</em></p> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/60108/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/183423">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18321">AniDB</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th> <th align="center">Episode</th> <th align="center">Link</th> </tr> </thead><tbody> <tr> <td align="center">1</td> <td align="center"><a href="https://redd.it/1gifbhp">Link</a></td> <td align="center">14</td> <td align="cen
+
+## Animes that will make me cry, but in a good way?
+ - [https://www.reddit.com/r/anime/comments/1iqhce3/animes_that_will_make_me_cry_but_in_a_good_way](https://www.reddit.com/r/anime/comments/1iqhce3/animes_that_will_make_me_cry_but_in_a_good_way)
+ - RSS feed: $source
+ - date published: 2025-02-16T01:48:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I just rewatched kotoura-san (I watched it when I was like.. 14 lol) and it has me wanting to watch something similar. Nkt similar in plot but genre. I want something thats a romance, a drama, and a comedy. </p> <p>I want there to be romance, but I also wanna maybe have a cry at some sad parts. But I also want it to be funny. Any suggestions?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Frankie9899"> /u/Frankie9899 </a> <br/> <span><a href="https://www.reddit.com/r/anime/comments/1iqhce3/animes_that_will_make_me_cry_but_in_a_good_way/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iqhce3/animes_that_will_make_me_cry_but_in_a_good_way/">[comments]</a></span>
+
+## Kimi to Idol Precure♪ • You and Idol Precure♪ - Episode 3 discussion
+ - [https://www.reddit.com/r/anime/comments/1iqh33a/kimi_to_idol_precure_you_and_idol_precure_episode](https://www.reddit.com/r/anime/comments/1iqh33a/kimi_to_idol_precure_you_and_idol_precure_episode)
+ - RSS feed: $source
+ - date published: 2025-02-16T01:34:18+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Kimi to Idol Precure♪</em>, episode 3</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/you-and-idol-precure-">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/60407/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/185073">AniList</a></li> <li><a href="https://www.toei-anim.co.jp/tv/you-and-idol_precure/">Official Website</a></li> <li><strong><a href="/r/precure">/r/precure</a></strong></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th> </tr> </thead><tbody> <tr> <td align="center">1</td> <td align="center"><a href="https://redd.it/1ifmziy">Link</a></td> </tr> <tr> <td align="center">2</td> <td align="center"><a href="https://redd.it/1il3eqe">Link</a></td> </tr> <tr> <td align="center">3</td> <td align="center"><a href="https://redd.it/1iqh33a">Link</
+

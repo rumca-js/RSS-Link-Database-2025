@@ -1,0 +1,247 @@
+# Source:Crack Support, URL:https://www.reddit.com/r/CrackSupport/.rss, language:
+
+## Trojan vigorf.a detected, am i cooked?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ir685o/trojan_vigorfa_detected_am_i_cooked](https://www.reddit.com/r/CrackSupport/comments/1ir685o/trojan_vigorfa_detected_am_i_cooked)
+ - RSS feed: $source
+ - date published: 2025-02-16T23:48:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>I downloaded a cracked adobe package a week ago and everything seemed fine, but a moment ago i ran a scan with windows defender and i found that i have a trojan vigorf.a , what is it? And how bad is it, and what should i do about it, idk anything about viruses lol</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AGY_13"> /u/AGY_13 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir685o/trojan_vigorfa_detected_am_i_cooked/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir685o/trojan_vigorfa_detected_am_i_cooked/">[comments]</a></span>
+
+## Help modding sonic forces cracked
+ - [https://www.reddit.com/r/CrackSupport/comments/1ir5pne/help_modding_sonic_forces_cracked](https://www.reddit.com/r/CrackSupport/comments/1ir5pne/help_modding_sonic_forces_cracked)
+ - RSS feed: $source
+ - date published: 2025-02-16T23:23:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>when i select the executable of the game, it appears the &quot;couldn&#39;t recognize the game from the executable&quot; thing and if i try to use the newer versions of the hedgemod manager, the game doesnt launch with the mods...</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OpportunitySelect"> /u/OpportunitySelect </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir5pne/help_modding_sonic_forces_cracked/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir5pne/help_modding_sonic_forces_cracked/">[comments]</a></span>
+
+## Should I update to Windows 11? (or say in w10)
+ - [https://www.reddit.com/r/CrackSupport/comments/1ir5nxn/should_i_update_to_windows_11_or_say_in_w10](https://www.reddit.com/r/CrackSupport/comments/1ir5nxn/should_i_update_to_windows_11_or_say_in_w10)
+ - RSS feed: $source
+ - date published: 2025-02-16T23:21:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, for games torrented from e.g. fitgirlrepacks. Are there any games that does not support Windows 11, if not, is there any performance differences / potential problems with these cracked games when upgraded from w10 to w11? It would seem to be not so clear on the website as some games say windows 10-11. Some games say windows 10+ and some games says nothing. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JournalistUsed369"> /u/JournalistUsed369 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir5nxn/should_i_update_to_windows_11_or_say_in_w10/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir5nxn/should_i_update_to_windows_11_or_say_in_w10/">[comments]</a></span>
+
+## pc is crashing when playing pirated games
+ - [https://www.reddit.com/r/CrackSupport/comments/1ir56ix/pc_is_crashing_when_playing_pirated_games](https://www.reddit.com/r/CrackSupport/comments/1ir56ix/pc_is_crashing_when_playing_pirated_games)
+ - RSS feed: $source
+ - date published: 2025-02-16T22:59:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>can someone help me its not anything to do with my specs or overheating, i monitor both my gpu and cpu temps and both stay under 70, as well as psu issues. i have a 3060, with ryzen 5 5600x and 600 watt power supply. my computer only turns off when playing pirated games. for example when i try to play cyberpunk or the new dragon ball game with my friend my pc sometimes turns off by itself. this doesnt happen on games that i own on steam, battlenet, or epic games. what could be the issue, when i check eventvwr it says tpm timed out 45000 miliseconds. but thats really all i have. another thing to note is that when i played the same games on my other motherboard before i had upgraded to a new motherboard and cpu this never happened.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Exdurp1"> /u/Exdurp1 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir56ix/pc_is_crashing_when_playing_pirated
+
+## Problems with plaza installer
+ - [https://www.reddit.com/r/CrackSupport/comments/1ir4zev/problems_with_plaza_installer](https://www.reddit.com/r/CrackSupport/comments/1ir4zev/problems_with_plaza_installer)
+ - RSS feed: $source
+ - date published: 2025-02-16T22:50:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>Downloaded celeste from steam rip downloaded the game with plaza but it wont open pls help</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Intention5647"> /u/No_Intention5647 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir4zev/problems_with_plaza_installer/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir4zev/problems_with_plaza_installer/">[comments]</a></span>
+
+## is this start all back crack a virus?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ir3sx9/is_this_start_all_back_crack_a_virus](https://www.reddit.com/r/CrackSupport/comments/1ir3sx9/is_this_start_all_back_crack_a_virus)
+ - RSS feed: $source
+ - date published: 2025-02-16T21:58:07+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://github.com/SL1dee36/StartAllBack-License-Bypass/blob/main/SABLicenseBypass.exe">https://github.com/SL1dee36/StartAllBack-License-Bypass/blob/main/SABLicenseBypass.exe</a><br/> its supposed to bypass the sab trial</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_ThatBlondeGuy_"> /u/_ThatBlondeGuy_ </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir3sx9/is_this_start_all_back_crack_a_virus/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir3sx9/is_this_start_all_back_crack_a_virus/">[comments]</a></span>
+
+## Is this normal??
+ - [https://www.reddit.com/r/CrackSupport/comments/1ir2chw/is_this_normal](https://www.reddit.com/r/CrackSupport/comments/1ir2chw/is_this_normal)
+ - RSS feed: $source
+ - date published: 2025-02-16T20:55:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know from posts here that FG repacks take time, but for an hour and a half it hasn&#39;t moved an inch. Should I wait or cancel or what?</p> <p>PS. My machine is actually decent. So it&#39;s definitely not that...</p> <p><a href="https://preview.redd.it/7amc4l02ekje1.png?width=980&amp;format=png&amp;auto=webp&amp;s=7f82e87de5e83075ee1ae5a71dee51136ff48fd4">https://preview.redd.it/7amc4l02ekje1.png?width=980&amp;format=png&amp;auto=webp&amp;s=7f82e87de5e83075ee1ae5a71dee51136ff48fd4</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/x0rchid"> /u/x0rchid </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir2chw/is_this_normal/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir2chw/is_this_normal/">[comments]</a></span>
+
+## is SKlauncher safe?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ir22iq/is_sklauncher_safe](https://www.reddit.com/r/CrackSupport/comments/1ir22iq/is_sklauncher_safe)
+ - RSS feed: $source
+ - date published: 2025-02-16T20:43:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>i downloaded the SKlauncher on my old laptop and it didnt tell me anything about it and i just played but now that i got a brand new pc i installed the setup from the official website and windows defender told me it was dangerous, what should i do? the launcher offers so many things for free,should i just buy minecraft or is it safe? i dont know what to do or if i already got a virus from downloading the setup please someone tell me</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aurpatico"> /u/aurpatico </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir22iq/is_sklauncher_safe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir22iq/is_sklauncher_safe/">[comments]</a></span>
+
+## I try use goldberg on a game and not works
+ - [https://www.reddit.com/r/CrackSupport/comments/1ir1u72/i_try_use_goldberg_on_a_game_and_not_works](https://www.reddit.com/r/CrackSupport/comments/1ir1u72/i_try_use_goldberg_on_a_game_and_not_works)
+ - RSS feed: $source
+ - date published: 2025-02-16T20:33:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi. I buy a game on steam (Chess Infinity) and when I wanna crack using goldberg the game just have Steam_api64. So when I replace the file with the goldberg one, The game open steam. How can I fix it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VladmirLR01"> /u/VladmirLR01 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir1u72/i_try_use_goldberg_on_a_game_and_not_works/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir1u72/i_try_use_goldberg_on_a_game_and_not_works/">[comments]</a></span>
+
+## Why hasnt AoE2:DE multiplayer been cracked yet?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ir1olk/why_hasnt_aoe2de_multiplayer_been_cracked_yet](https://www.reddit.com/r/CrackSupport/comments/1ir1olk/why_hasnt_aoe2de_multiplayer_been_cracked_yet)
+ - RSS feed: $source
+ - date published: 2025-02-16T20:27:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Age of Empires 2 Definitive Edition has been cracked for years and even though lots of other games have online patches available, this one dosent seem to have any such thing anywhere, is there a reason for this?</p> <p>And if there does exist a workout for online play, please share</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SuccessCommon5009"> /u/SuccessCommon5009 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir1olk/why_hasnt_aoe2de_multiplayer_been_cracked_yet/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir1olk/why_hasnt_aoe2de_multiplayer_been_cracked_yet/">[comments]</a></span>
+
+## Can anyone help me crack Grim Dawn DLCs ?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ir1bna/can_anyone_help_me_crack_grim_dawn_dlcs](https://www.reddit.com/r/CrackSupport/comments/1ir1bna/can_anyone_help_me_crack_grim_dawn_dlcs)
+ - RSS feed: $source
+ - date published: 2025-02-16T20:12:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>I own the game on steam but when I tried putting the dlc files into the folder and used cream api. The game won&#39;t open it just shows a black screen and sometimes it crashes. Please help me out.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MrMiyagi_256"> /u/MrMiyagi_256 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir1bna/can_anyone_help_me_crack_grim_dawn_dlcs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir1bna/can_anyone_help_me_crack_grim_dawn_dlcs/">[comments]</a></span>
+
+## Sims 4 Anadius error
+ - [https://www.reddit.com/r/CrackSupport/comments/1ir11i4/sims_4_anadius_error](https://www.reddit.com/r/CrackSupport/comments/1ir11i4/sims_4_anadius_error)
+ - RSS feed: $source
+ - date published: 2025-02-16T20:00:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ir11i4/sims_4_anadius_error/"> <img src="https://preview.redd.it/3qh580ue4kje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e325e4452b9dcbd9d6b9c27c681cace27bf67db" alt="Sims 4 Anadius error" title="Sims 4 Anadius error" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hello! I was trying to download all the DLC’s but when they were done finished, the updater kept giving me a critical error message. It mentioned my anti virus so I thought to turn it off but when I did, it still didn’t work. What do I do in this situation? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Traditional_Tax_2900"> /u/Traditional_Tax_2900 </a> <br/> <span><a href="https://i.redd.it/3qh580ue4kje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir11i4/sims_4_anadius_error/">[comments]</a></span> </td></tr></table>
+
+## Anadius The Sims 4 Critical Error
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqyfzl/anadius_the_sims_4_critical_error](https://www.reddit.com/r/CrackSupport/comments/1iqyfzl/anadius_the_sims_4_critical_error)
+ - RSS feed: $source
+ - date published: 2025-02-16T18:12:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone! After the last The Sims 4 update I couldn&#39;t run the game anymore and I thought it was because because of the cracked DLCs and CCs so I deleted everything. I tried to run the game without the cracked DLCs and it worked, but now I can&#39;t download them back because this error keeps appearing. I also uninstaslled The Sims and reinstalled it and it worked. I also tried to run the Anadius updater in administrator mode and it still doesn&#39;t work. </p> <p>Can anybody help me? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Training-Yam-9690"> /u/Training-Yam-9690 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqyfzl/anadius_the_sims_4_critical_error/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqyfzl/anadius_the_sims_4_critical_error/">[comments]</a></span>
+
+## Pc flickering after installing cracked game
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqya15/pc_flickering_after_installing_cracked_game](https://www.reddit.com/r/CrackSupport/comments/1iqya15/pc_flickering_after_installing_cracked_game)
+ - RSS feed: $source
+ - date published: 2025-02-16T18:05:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>i installed half life alyx from fitgirl and my screen started to show a black screen for one millisecond every like 30 seconds. I reinstalled my drivers and now they are more often</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/3tachi"> /u/3tachi </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqya15/pc_flickering_after_installing_cracked_game/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqya15/pc_flickering_after_installing_cracked_game/">[comments]</a></span>
+
+## is it safe to download nexus on gmeh? i get a trojan when i download
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqxzo7/is_it_safe_to_download_nexus_on_gmeh_i_get_a](https://www.reddit.com/r/CrackSupport/comments/1iqxzo7/is_it_safe_to_download_nexus_on_gmeh_i_get_a)
+ - RSS feed: $source
+ - date published: 2025-02-16T17:53:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>is it safe to download nexus on gmeh? i get a trojan when i download </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Repulsive-Face6293"> /u/Repulsive-Face6293 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqxzo7/is_it_safe_to_download_nexus_on_gmeh_i_get_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqxzo7/is_it_safe_to_download_nexus_on_gmeh_i_get_a/">[comments]</a></span>
+
+## Red Dead Redemption DODI repack crash. Help?
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqxd90/red_dead_redemption_dodi_repack_crash_help](https://www.reddit.com/r/CrackSupport/comments/1iqxd90/red_dead_redemption_dodi_repack_crash_help)
+ - RSS feed: $source
+ - date published: 2025-02-16T17:28:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1iqxd90/red_dead_redemption_dodi_repack_crash_help/"> <img src="https://preview.redd.it/lgsem2q9djje1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=f1ea7ee86142a77d0630675eb6fdcbaa32a61fca" alt="Red Dead Redemption DODI repack crash. Help?" title="Red Dead Redemption DODI repack crash. Help?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RyanDavanzo"> /u/RyanDavanzo </a> <br/> <span><a href="https://i.redd.it/lgsem2q9djje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqxd90/red_dead_redemption_dodi_repack_crash_help/">[comments]</a></span> </td></tr></table>
+
+## Issue with Fitgirl's repack of the Sims 3.
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqx8ix/issue_with_fitgirls_repack_of_the_sims_3](https://www.reddit.com/r/CrackSupport/comments/1iqx8ix/issue_with_fitgirls_repack_of_the_sims_3)
+ - RSS feed: $source
+ - date published: 2025-02-16T17:22:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, before I start. I&#39;ve checked and made sure everything was installed correctly. I ran the .bat file after install to check all the bin files were placed correctly. </p> <p>I&#39;m not very tech savvy, but as far as I can tell everything seems to be good? </p> <p>Except, it&#39;s mentioned in the Readme that I need to click on the &quot;downloads&quot; tab on the launcher and install the DLC through it. However, when I click on the tab, nothing shows up. </p> <p>And when the game is launched, I only see about 6 or 7 words. 3 of which are locked off behind a purchase. </p> <p>Is there something I&#39;m missing? Is there a specific launcher I&#39;m supposed to use? I&#39;m using the one that&#39;s just in the &quot;Game&quot; folder where it&#39;s installed. But I noticed each EP has its own launcher. Should i be using a specific one instead? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Immobilecarrot5">
+
+## how to add gta 5 to rockstar games launcher
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqw5o1/how_to_add_gta_5_to_rockstar_games_launcher](https://www.reddit.com/r/CrackSupport/comments/1iqw5o1/how_to_add_gta_5_to_rockstar_games_launcher)
+ - RSS feed: $source
+ - date published: 2025-02-16T16:37:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Illustrious_Garage85"> /u/Illustrious_Garage85 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqw5o1/how_to_add_gta_5_to_rockstar_games_launcher/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqw5o1/how_to_add_gta_5_to_rockstar_games_launcher/">[comments]</a></span>
+
+## Mod support for DODI's repack of Spider-Man 2
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqvm0w/mod_support_for_dodis_repack_of_spiderman_2](https://www.reddit.com/r/CrackSupport/comments/1iqvm0w/mod_support_for_dodis_repack_of_spiderman_2)
+ - RSS feed: $source
+ - date published: 2025-02-16T16:14:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello!! I was wondering if there is any way to mod DODI&#39;s repack of Spider-Man 2. I tried doing it before and then wouldn&#39;t let me open the game.... had to re-install it for it to work... Any help would be appreciated. Thank you!!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Massive-Raspberry-38"> /u/Massive-Raspberry-38 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqvm0w/mod_support_for_dodis_repack_of_spiderman_2/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqvm0w/mod_support_for_dodis_repack_of_spiderman_2/">[comments]</a></span>
+
+## I lost my rdr 2 save files
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqv3ft/i_lost_my_rdr_2_save_files](https://www.reddit.com/r/CrackSupport/comments/1iqv3ft/i_lost_my_rdr_2_save_files)
+ - RSS feed: $source
+ - date published: 2025-02-16T15:51:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>i reseted my windows pc with keep files and after reseting i tried to play rdr 2 (cracked firgirl version) but my saves were gone i had to restart the game please do anyone know the place where the save file at so i can even try to recover it or do something please if someone know help me</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Technical_Internal33"> /u/Technical_Internal33 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqv3ft/i_lost_my_rdr_2_save_files/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqv3ft/i_lost_my_rdr_2_save_files/">[comments]</a></span>
+
+## Steamrip is still safe? And steamunlocked?
+ - [https://www.reddit.com/r/CrackSupport/comments/1iquje1/steamrip_is_still_safe_and_steamunlocked](https://www.reddit.com/r/CrackSupport/comments/1iquje1/steamrip_is_still_safe_and_steamunlocked)
+ - RSS feed: $source
+ - date published: 2025-02-16T15:25:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is bassicaly this, and what is the best antivirus free in pc?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dante_fromdmc3"> /u/Dante_fromdmc3 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iquje1/steamrip_is_still_safe_and_steamunlocked/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iquje1/steamrip_is_still_safe_and_steamunlocked/">[comments]</a></span>
+
+## Payday 3 matchmaking error when trying to host game
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqugrh/payday_3_matchmaking_error_when_trying_to_host](https://www.reddit.com/r/CrackSupport/comments/1iqugrh/payday_3_matchmaking_error_when_trying_to_host)
+ - RSS feed: $source
+ - date published: 2025-02-16T15:22:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>I installed the latest version of Payday 3 from <a href="http://Online-fix.me">Online-fix.me</a> and i have confirmed its latest version of the game, i applied the online fix file, linked starbreeze to xbox account and tried reinstalling but i keep getting &quot;Matchmaking Error&quot; only when I try making a game. i Can play solo mode, join random games, use quickplay and play with friends that have a legitimate and/or a cracked game. the only problem is that I can&#39;t make a game on my own. how do i fix this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/le-stupido"> /u/le-stupido </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqugrh/payday_3_matchmaking_error_when_trying_to_host/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqugrh/payday_3_matchmaking_error_when_trying_to_host/">[comments]</a></span>
+
+## False positive?
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqta6l/false_positive](https://www.reddit.com/r/CrackSupport/comments/1iqta6l/false_positive)
+ - RSS feed: $source
+ - date published: 2025-02-16T14:25:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>i downloaded forza horizon 5 by fitgirl and virustotal indicates this <a href="https://www.virustotal.com/gui/file/5c4105123bf84673cb3aeff2400fffbde35f3fc048ccbfe8a72614e7c76854d0">https://www.virustotal.com/gui/file/5c4105123bf84673cb3aeff2400fffbde35f3fc048ccbfe8a72614e7c76854d0</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wrong-Appointment665"> /u/Wrong-Appointment665 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqta6l/false_positive/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqta6l/false_positive/">[comments]</a></span>
+
+## Fitgirl repack problem with spider man 2
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqt596/fitgirl_repack_problem_with_spider_man_2](https://www.reddit.com/r/CrackSupport/comments/1iqt596/fitgirl_repack_problem_with_spider_man_2)
+ - RSS feed: $source
+ - date published: 2025-02-16T14:19:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1iqt596/fitgirl_repack_problem_with_spider_man_2/"> <img src="https://b.thumbs.redditmedia.com/ZI0psT4QwA0qFa6SghDlCdB6urneW1wN1kzmlywfWyU.jpg" alt="Fitgirl repack problem with spider man 2" title="Fitgirl repack problem with spider man 2" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So i downloaded the repack and i cant run the setup file it shows me a error message could anyone help me?</p> <p><a href="https://preview.redd.it/ph3mkizhfije1.png?width=683&amp;format=png&amp;auto=webp&amp;s=2041e4e3560acc471ebaf6d17784ebac8720c09d">https://preview.redd.it/ph3mkizhfije1.png?width=683&amp;format=png&amp;auto=webp&amp;s=2041e4e3560acc471ebaf6d17784ebac8720c09d</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CoconutPoco"> /u/CoconutPoco </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqt596/fitgirl_repack_problem_with_spider_man_2/">[link]</a
+
+## Fh3 flickering at the garage plz help
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqt25k/fh3_flickering_at_the_garage_plz_help](https://www.reddit.com/r/CrackSupport/comments/1iqt25k/fh3_flickering_at_the_garage_plz_help)
+ - RSS feed: $source
+ - date published: 2025-02-16T14:14:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1iqt25k/fh3_flickering_at_the_garage_plz_help/"> <img src="https://preview.redd.it/ayl5qraoeije1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf827ea5bf60221b628458ace0008e9fe0a3787b" alt="Fh3 flickering at the garage plz help" title="Fh3 flickering at the garage plz help" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hour-Focus5045"> /u/Hour-Focus5045 </a> <br/> <span><a href="https://i.redd.it/ayl5qraoeije1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqt25k/fh3_flickering_at_the_garage_plz_help/">[comments]</a></span> </td></tr></table>
+
+## Fitgirl onlinefix mk11 v0.384-34CL237394
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqsz7f/fitgirl_onlinefix_mk11_v038434cl237394](https://www.reddit.com/r/CrackSupport/comments/1iqsz7f/fitgirl_onlinefix_mk11_v038434cl237394)
+ - RSS feed: $source
+ - date published: 2025-02-16T14:10:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>I downloaded mk11 from fitgirl v0.384-34CL237394 and tried to get onlinefix on it but it didn&#39;t work because it wasn&#39;t compatible due to the onlinefix being designed for v4.047.0, would appreciate it if anybody gave me an online fix patch compatible for 0.384-34CL237394</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Beginning_Nature_649"> /u/Beginning_Nature_649 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqsz7f/fitgirl_onlinefix_mk11_v038434cl237394/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqsz7f/fitgirl_onlinefix_mk11_v038434cl237394/">[comments]</a></span>
+
+## STALKER 2 dodi/patching hash errors
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqsl4u/stalker_2_dodipatching_hash_errors](https://www.reddit.com/r/CrackSupport/comments/1iqsl4u/stalker_2_dodipatching_hash_errors)
+ - RSS feed: $source
+ - date published: 2025-02-16T13:49:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>I get a few &#39;[!] Error! Invalid hash for: &quot;D:\Games\Stalker 2 - Heart of Chornobyl\Stalker2\Content\Paks\pakchunk0-Windows.ucas&quot;&#39; when patching the third. dodi+1+2 and hash errors on 3. Ideas?</p> <p><a href="https://pastebin.com/raw/0SjP0RC2">https://pastebin.com/raw/0SjP0RC2</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ocp-paradox"> /u/ocp-paradox </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqsl4u/stalker_2_dodipatching_hash_errors/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqsl4u/stalker_2_dodipatching_hash_errors/">[comments]</a></span>
+
+## Accidentally deleted fitgirl bins
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqsaa8/accidentally_deleted_fitgirl_bins](https://www.reddit.com/r/CrackSupport/comments/1iqsaa8/accidentally_deleted_fitgirl_bins)
+ - RSS feed: $source
+ - date published: 2025-02-16T13:33:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m a fucking idiot, I accidentally uninstalled the setup bins and files for KCD 1 before I went out for a trip without checking the threads. Now when I press new game it CTDs, forums tell me I need to install the selective english VOs, now, can I just install the selective english bin so I can shove the files into my KCD folder? Or do I need to reinstall the essential fitgirl 1-num bins?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/The_Rottened"> /u/The_Rottened </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqsaa8/accidentally_deleted_fitgirl_bins/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqsaa8/accidentally_deleted_fitgirl_bins/">[comments]</a></span>
+
+## First time cracking
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqrfuj/first_time_cracking](https://www.reddit.com/r/CrackSupport/comments/1iqrfuj/first_time_cracking)
+ - RSS feed: $source
+ - date published: 2025-02-16T12:44:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>So im trying to do this for photoshop and the instructions say, copy the crack files in to instillation directory. Sorry if I sound dumb but where the hell is the instalation directory.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Comprehensive_Fun339"> /u/Comprehensive_Fun339 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqrfuj/first_time_cracking/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqrfuj/first_time_cracking/">[comments]</a></span>
+
+## need help cracking (first time cracker)
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqogh7/need_help_cracking_first_time_cracker](https://www.reddit.com/r/CrackSupport/comments/1iqogh7/need_help_cracking_first_time_cracker)
+ - RSS feed: $source
+ - date published: 2025-02-16T09:14:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Why cant you just download the whole game, why do you need to download parts, how do you merge them?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LiGoAm"> /u/LiGoAm </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqogh7/need_help_cracking_first_time_cracker/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqogh7/need_help_cracking_first_time_cracker/">[comments]</a></span>
+
+## Help downloading toms clancys ghost recon wildlans
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqnder/help_downloading_toms_clancys_ghost_recon_wildlans](https://www.reddit.com/r/CrackSupport/comments/1iqnder/help_downloading_toms_clancys_ghost_recon_wildlans)
+ - RSS feed: $source
+ - date published: 2025-02-16T07:55:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>I donloaded the crack but it shows I&#39;m missing a file called emp.dll so what should I do should I turn of windows defender and download the whole thing again or is there another way</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Abject-Potential-976"> /u/Abject-Potential-976 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqnder/help_downloading_toms_clancys_ghost_recon_wildlans/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqnder/help_downloading_toms_clancys_ghost_recon_wildlans/">[comments]</a></span>
+
+## is steamrip go file safe?
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqml2u/is_steamrip_go_file_safe](https://www.reddit.com/r/CrackSupport/comments/1iqml2u/is_steamrip_go_file_safe)
+ - RSS feed: $source
+ - date published: 2025-02-16T06:59:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>i try steamrip go file download because buzzhevier is slow as fck. is it safe to download games from steamrip (go file)?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JumpyRaisin5853"> /u/JumpyRaisin5853 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqml2u/is_steamrip_go_file_safe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqml2u/is_steamrip_go_file_safe/">[comments]</a></span>
+
+## why steamrip buzzhevier is slow?
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqmhs1/why_steamrip_buzzhevier_is_slow](https://www.reddit.com/r/CrackSupport/comments/1iqmhs1/why_steamrip_buzzhevier_is_slow)
+ - RSS feed: $source
+ - date published: 2025-02-16T06:52:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>my internet is fast but when i download games from steamrip it&#39;s slow as fck</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JumpyRaisin5853"> /u/JumpyRaisin5853 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqmhs1/why_steamrip_buzzhevier_is_slow/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqmhs1/why_steamrip_buzzhevier_is_slow/">[comments]</a></span>
+
+## Help cracking Gorilla Tag?
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqi2mw/help_cracking_gorilla_tag](https://www.reddit.com/r/CrackSupport/comments/1iqi2mw/help_cracking_gorilla_tag)
+ - RSS feed: $source
+ - date published: 2025-02-16T02:26:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>So recently I got banned off it and I have the game files, I was just wondering how I could possibly crack it, or if there is already a cracked version?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Ambition-9983"> /u/No-Ambition-9983 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqi2mw/help_cracking_gorilla_tag/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqi2mw/help_cracking_gorilla_tag/">[comments]</a></span>
+
+## Windows 11 unable to launch Resident Evil Village
+ - [https://www.reddit.com/r/CrackSupport/comments/1iqhfpc/windows_11_unable_to_launch_resident_evil_village](https://www.reddit.com/r/CrackSupport/comments/1iqhfpc/windows_11_unable_to_launch_resident_evil_village)
+ - RSS feed: $source
+ - date published: 2025-02-16T01:53:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hiya everyone, I have been experiencing issues. I am unable to launch RE8 at all.<br/> I do not get the game even to show the first signs of life, however I noticed when I add it through steam as 3rd party, that it launches and then crashes after a while.</p> <p>CPU: Ryzen 7 5700X, GPU: RTX 4060 - Maybe this would indicate to something.</p> <p>I suspect bios settings, also, if you think it could be due to it being from Empire, if you have any better links, dont mind sending it :D</p> <p>Any suggestion, help, would help out, as I will try solving it on my own as well! Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Miserable-Long-2884"> /u/Miserable-Long-2884 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqhfpc/windows_11_unable_to_launch_resident_evil_village/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iqhfpc/windows_11_unable_to_la
+

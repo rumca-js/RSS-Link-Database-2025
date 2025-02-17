@@ -1,0 +1,86 @@
+# Source:Search Engine Optimization: The Latest SEO News, URL:https://www.reddit.com/r/SEO/.rss, language:en
+
+## Looking at BrightLocal as for local SEO - anyone have any experience?
+ - [https://www.reddit.com/r/SEO/comments/1ir2q2n/looking_at_brightlocal_as_for_local_seo_anyone](https://www.reddit.com/r/SEO/comments/1ir2q2n/looking_at_brightlocal_as_for_local_seo_anyone)
+ - RSS feed: $source
+ - date published: 2025-02-16T21:11:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m looking for a good local seo service, and BrightLocal seems to be good, especially for the price against other competitors. Anyone have an experience with them? Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/danmoore2"> /u/danmoore2 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1ir2q2n/looking_at_brightlocal_as_for_local_seo_anyone/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1ir2q2n/looking_at_brightlocal_as_for_local_seo_anyone/">[comments]</a></span>
+
+## Could someone help me with this breadcrumbs error in GSC?
+ - [https://www.reddit.com/r/SEO/comments/1ir1sbw/could_someone_help_me_with_this_breadcrumbs_error](https://www.reddit.com/r/SEO/comments/1ir1sbw/could_someone_help_me_with_this_breadcrumbs_error)
+ - RSS feed: $source
+ - date published: 2025-02-16T20:31:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Missing field &#39;itemListElement&#39; Items with this issue are invalid. Invalid items are not eligible for Google Search&#39;s rich results.</p> <p>I tried out a few plugins in Wordpress, which didn&#39;t work (Breadcrumb - Pick Plugins, Breadcrumb NAVxt and Breadcrumb Block), however none worked due to the theme, and I undid changes and deactivated. However now I&#39;m getting these errors in GSC. Would this be due to the changes, even though I deactivated the plugins? Or is this referencing the Structured Data and is just a coincidence? Sorry I am very new to technical SEO - any help appreciated!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Total_Strawberry_280"> /u/Total_Strawberry_280 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1ir1sbw/could_someone_help_me_with_this_breadcrumbs_error/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1ir1sbw/could_someon
+
+## Best Tool for SEO Blog writing?
+ - [https://www.reddit.com/r/SEO/comments/1ir0o9p/best_tool_for_seo_blog_writing](https://www.reddit.com/r/SEO/comments/1ir0o9p/best_tool_for_seo_blog_writing)
+ - RSS feed: $source
+ - date published: 2025-02-16T19:45:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, </p> <p>I want to write 10 Blogposts per Month. I also need the function Text to HTML. Maybe AI supported too.</p> <p>Do you know any tool?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MaskedDesigner"> /u/MaskedDesigner </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1ir0o9p/best_tool_for_seo_blog_writing/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1ir0o9p/best_tool_for_seo_blog_writing/">[comments]</a></span>
+
+## Can you roast my SEO strategy?
+ - [https://www.reddit.com/r/SEO/comments/1iqvlzt/can_you_roast_my_seo_strategy](https://www.reddit.com/r/SEO/comments/1iqvlzt/can_you_roast_my_seo_strategy)
+ - RSS feed: $source
+ - date published: 2025-02-16T16:14:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, I am making occasional marketing SEO strategy. I want to get some feedback from community what can be improved.</p> <p>I run website called Bulk Image Generation [dot] com, helping people to generate up to 100 images in less than 15 seconds.</p> <h1>What I do</h1> <p>- I have dynamic landing pages for each occasion, e.g. AI Stock Image Generation, Bulk Social Media Generator, etc.<br/> - I try to re-use all images I generate: for example, we know use &quot;Spring Campaign&quot;: Eastern, Ramadan, etc. for each we generate images, and create landing pages like Spring AI Image Generator, Eastern AI Image Generator, Ramadan AI Image Generator etc.<br/> - We also create blogposts for each occasion, as tutorials and how-tos where we reuse images<br/> - We got some publishing on AI Marketplaces where we got some backlinks<br/> - Every page or blog post metadata is carefully filled with tons of keywords [I use CMS for that which is amazing]<br/> - Most
+
+## If hiring someone to do our SEO, How do we evaluate their effort and progress?
+ - [https://www.reddit.com/r/SEO/comments/1iqvk91/if_hiring_someone_to_do_our_seo_how_do_we](https://www.reddit.com/r/SEO/comments/1iqvk91/if_hiring_someone_to_do_our_seo_how_do_we)
+ - RSS feed: $source
+ - date published: 2025-02-16T16:12:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>I had a bad experience hiring an SEO specialist before, so I’ve been working on improving my approach.</p> <p>Hiring an SEO expert can be a great investment, but how do you actually measure their impact? Is it just about rankings and traffic, or should the real focus be on conversions and revenue?</p> <p>SEO is a long-term game, and results aren’t always instant. What key metrics or strategies do you use to track their performance and ensure they’re delivering real value?</p> <p>Would love to hear how you evaluate SEO efforts!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mohmoussa"> /u/mohmoussa </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iqvk91/if_hiring_someone_to_do_our_seo_how_do_we/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iqvk91/if_hiring_someone_to_do_our_seo_how_do_we/">[comments]</a></span>
+
+## SEMRush and Ahrefs?
+ - [https://www.reddit.com/r/SEO/comments/1iqv7lg/semrush_and_ahrefs](https://www.reddit.com/r/SEO/comments/1iqv7lg/semrush_and_ahrefs)
+ - RSS feed: $source
+ - date published: 2025-02-16T15:57:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>NOTE: PLEASE DO NOT MESSAGE ME WITH &quot;I DO SEO AND CAN HELP YOU&quot; SPAM I WILL NOT RESPOND.</p> <p>I&#39;m looking to up my SEO game this year, and these tools came across in my searches. If you&#39;ve used either (or both of these) I&#39;d love to hear how it went, and how you&#39;re using them to increase your traffic!</p> <p>P.S. thinking of doing SEO myself as opposed to paying $700/hr for the pros to do it; if you have any experience doing both of those as well I&#39;d love to hear</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/snowboardude112"> /u/snowboardude112 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iqv7lg/semrush_and_ahrefs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iqv7lg/semrush_and_ahrefs/">[comments]</a></span>
+
+## How to get Traffic from ChatGPT
+ - [https://www.reddit.com/r/SEO/comments/1iqsspe/how_to_get_traffic_from_chatgpt](https://www.reddit.com/r/SEO/comments/1iqsspe/how_to_get_traffic_from_chatgpt)
+ - RSS feed: $source
+ - date published: 2025-02-16T14:00:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>I noticed that a website of mine gets traffic from ChatGPT and I wondered how that&#39;s possible.</p> <p>It&#39;s not a lot of traffic - just a few visitors per week - but it&#39;s been going for 6+ months now, and real users from all over the world sign up and use my product.</p> <p>I asked ChatGPT how that&#39;s possible, but I didn&#39;t get a good answer.</p> <p>Is someone else getting traffic from ChatGPT? Any idea how that&#39;s possible?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kevinsschmidt"> /u/kevinsschmidt </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iqsspe/how_to_get_traffic_from_chatgpt/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iqsspe/how_to_get_traffic_from_chatgpt/">[comments]</a></span>
+
+## Losing Keywords, specifically about our niche and topic.
+ - [https://www.reddit.com/r/SEO/comments/1iqqwyd/losing_keywords_specifically_about_our_niche_and](https://www.reddit.com/r/SEO/comments/1iqqwyd/losing_keywords_specifically_about_our_niche_and)
+ - RSS feed: $source
+ - date published: 2025-02-16T12:10:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi., I do Marketing for a Coding bootcamp, we teach Javascript. According to Ahrefs we are losing more and more keywords per day... Could someone help me understand a bit what is happening? i can find no issues in our page audit. </p> <p>I went to the keywords tab and most of our high hit volume keywords are now set to &quot;Lost&quot; which is confusing. </p> <p>Could someone with some knowledge please share steps i can take to look into this? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LantisJocke"> /u/LantisJocke </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iqqwyd/losing_keywords_specifically_about_our_niche_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iqqwyd/losing_keywords_specifically_about_our_niche_and/">[comments]</a></span>
+
+## What is the best and most effective way to do SEO for a new website?
+ - [https://www.reddit.com/r/SEO/comments/1iqqcf3/what_is_the_best_and_most_effective_way_to_do_seo](https://www.reddit.com/r/SEO/comments/1iqqcf3/what_is_the_best_and_most_effective_way_to_do_seo)
+ - RSS feed: $source
+ - date published: 2025-02-16T11:30:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone,</p> <p>I am currently building a website for a business, and even though I will promote and make content in social media, I also want to create a good, well made website, that attracts clients, and more importantly, ranks high in google.</p> <p>What are the steps to rank high on google? I know stuff like ranking with keywords on blogs, backlinks, but is there a clear roadmap to follow? Because there is so much content and information on the internet, it makes it very confusing to follow.</p> <p>And do I have to apply SEO to the pages (home, about, contact, etc.)?</p> <p>I am just really confused about what the best and most effective way there is to do SEO for a website, thank you all in advance.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Makster20_"> /u/Makster20_ </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iqqcf3/what_is_the_best_and_most_effective_way_to_do_seo/">[lin
+
+## Is hiring someone to do our SEO even worth it?
+ - [https://www.reddit.com/r/SEO/comments/1iqit0d/is_hiring_someone_to_do_our_seo_even_worth_it](https://www.reddit.com/r/SEO/comments/1iqit0d/is_hiring_someone_to_do_our_seo_even_worth_it)
+ - RSS feed: $source
+ - date published: 2025-02-16T03:07:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I was just wanted to pop in and ask a few questions to more experienced people. </p> <p>I&#39;m a local business owner running a roofing company, and I&#39;m currently redesigning our website and trying to get our online presence to grow a lot more. As for many years we&#39;ve been offline for the most part with half half attempts at improving, but this year we want to take it seriously. </p> <p>Now I&#39;m pretty young and tech savvy, I enjoy stuff like this for the most part, but I&#39;ve never delved that far into SEO. And just for your information, we&#39;re using WordPress for our website. </p> <p>I know it&#39;s important and it&#39;s something I want to take seriously and get done right. So my question is, is it worth it to hire an agency or freelancer to optimize our SEO for us? And I ask this coming from the willingness to do it myself, from my brief research of the topic, it doesn&#39;t seem too complicated. Keywords, backlinks, rele
+
+## Website traffic dropped after 2 days of downtime
+ - [https://www.reddit.com/r/SEO/comments/1iqiajt/website_traffic_dropped_after_2_days_of_downtime](https://www.reddit.com/r/SEO/comments/1iqiajt/website_traffic_dropped_after_2_days_of_downtime)
+ - RSS feed: $source
+ - date published: 2025-02-16T02:38:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone, I’m dealing with a traffic drop and hoping someone here has experience with this.</p> <p>My website was offline for two days (Feb 7-8) due to server issues. Since then, I’ve switched to a much better hosting plan, and everything has been stable. However, my Google Search Console stats show a sharp decline in search traffic since my site went back online.</p> <p>Before the downtime, I was getting around 6,000 daily sessions, but now it&#39;s down to half of that. Does anyone know how long it typically takes to recover after an outage like this?</p> <p>Should I just wait it out, or is there anything I can do to speed up the recovery? I already re-submitted my sitemap. Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hungryinThailand"> /u/hungryinThailand </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iqiajt/website_traffic_dropped_after_2_days_of_downtime/">[link]</a></span> 
+
+## Is it possible to teach yourself SEO?
+ - [https://www.reddit.com/r/SEO/comments/1iqfy36/is_it_possible_to_teach_yourself_seo](https://www.reddit.com/r/SEO/comments/1iqfy36/is_it_possible_to_teach_yourself_seo)
+ - RSS feed: $source
+ - date published: 2025-02-16T00:35:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello all! I am brand new to SEO. I am wondering if it is possible to teach myself how to do SEO for a small business (service) website? I still need to create a website, looking into Wordpress for this. I was curious how difficult is it to learn and implement Google SEO in order to bring my page to the front of google search in my area? Thank you in advance for those who take the time to respond! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Front_Champion_6118"> /u/Front_Champion_6118 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iqfy36/is_it_possible_to_teach_yourself_seo/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iqfy36/is_it_possible_to_teach_yourself_seo/">[comments]</a></span>
+

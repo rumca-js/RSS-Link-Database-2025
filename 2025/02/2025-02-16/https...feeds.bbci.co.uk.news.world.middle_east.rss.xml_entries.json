@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-16T13:07:48+00:00",
+        "description": "The Israeli prime minister said he is working with the US on a \"common strategy\" for Gaza.",
+        "id": 2126237,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cz9eddnnq4go",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/166c/live/44272490-ec66-11ef-91f9-bd1471acd4eb.jpg",
+        "title": "Netanyahu praises Trump's 'bold vision' for Gaza at Rubio meeting",
+        "vote": 0
+    }
+]

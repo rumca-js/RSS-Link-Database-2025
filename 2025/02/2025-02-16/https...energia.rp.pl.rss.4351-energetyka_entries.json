@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-16T21:15:08+00:00",
+        "description": "Przemys\u0142 energoch\u0142onny potrzebuje funduszy na inwestycje dekarbonizuj\u0105ce produkcj\u0119 - informuj\u0105 przedstawiciele firm energoch\u0142onnych podczas konferencji Forum Odbiorc\u00f3w Energii Elektrycznej i Gazu. Bran\u017ca przemys\u0142owa proponuje poza szeregiem u\u0142atwie\u0144 i dofinansowa\u0144 dla przemys\u0142u tak\u017ce rewolucj\u0119 w europejskim rynku energii, a wi\u0119c zmian\u0119 kolejno\u015bci \"wpuszczania\" energii do sieci.",
+        "id": 2128345,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/oze/art41805951-koniec-z-pierwszenstwem-oze-w-sieci-przemysl-chce-zmian",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Koniec z pierwsze\u0144stwem OZE w sieci? Przemys\u0142 chce zmian",
+        "vote": 0
+    }
+]

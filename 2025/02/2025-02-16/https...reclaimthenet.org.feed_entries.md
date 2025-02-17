@@ -1,0 +1,44 @@
+# Source:Reclaim The Net, URL:https://reclaimthenet.org/feed, language:en-US
+
+## School Administrator Wins Landmark Free Speech Case in UK Court of Appeal
+ - [https://reclaimthenet.org/kristie-higgs-wins-appeal-free-speech-case-farmors-school](https://reclaimthenet.org/kristie-higgs-wins-appeal-free-speech-case-farmors-school)
+ - RSS feed: $source
+ - date published: 2025-02-16T18:43:57+00:00
+
+<a href="https://reclaimthenet.org/kristie-higgs-wins-appeal-free-speech-case-farmors-school" title="School Administrator Wins Landmark Free Speech Case in UK Court of Appeal" rel="nofollow"><img width="1536" height="864" src="https://reclaimthenet.org/wp-content/uploads/2023/06/Kristie-Higgs.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Kristie Higgs with long brown hair, wearing a green shirt, standing indoors with a concerned expression on her face. There is a wooden shelf with figurines and a blue wall in the background." style="display: block; margin: auto; margin-bottom: 15px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://reclaimthenet.org/wp-content/uploads/2023/06/Kristie-Higgs.jpg 1536w, https://reclaimthenet.org/wp-content/uploads/2023/06/Kristie-Higgs-300x169.jpg 300w, https://reclaimthenet.org/wp-content/uploads/2023/06/Kristie-Higgs-1024x576.jpg 1024w, https://reclaimthenet.org/wp-content/uploads/2023/06/Kristie-Higgs-768x432.jpg 768w" siz
+
+## Will the Fourth Circuit Redefine Digital Privacy?
+ - [https://reclaimthenet.org/will-the-fourth-circuit-redefine-digital-privacy](https://reclaimthenet.org/will-the-fourth-circuit-redefine-digital-privacy)
+ - RSS feed: $source
+ - date published: 2025-02-16T18:37:17+00:00
+
+<a href="https://reclaimthenet.org/will-the-fourth-circuit-redefine-digital-privacy" title="Will the Fourth Circuit Redefine Digital Privacy?" rel="nofollow"><img width="2560" height="1440" src="https://reclaimthenet.org/wp-content/uploads/2025/02/geo9-scaled.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Aerial view of urban buildings with abstract digital lines and nodes overlaying the image, combining technology and urban planning themes." style="display: block; margin: auto; margin-bottom: 15px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://reclaimthenet.org/wp-content/uploads/2025/02/geo9-scaled.jpg 2560w, https://reclaimthenet.org/wp-content/uploads/2025/02/geo9-300x169.jpg 300w, https://reclaimthenet.org/wp-content/uploads/2025/02/geo9-1024x576.jpg 1024w, https://reclaimthenet.org/wp-content/uploads/2025/02/geo9-768x432.jpg 768w, https://reclaimthenet.org/wp-content/uploads/2025/02/geo9-1536x864.jpg 1536w, https://reclaimthenet.org/wp-content/upl
+
+## UK Refuses to Weaken Online Censorship Laws Despite US Pressure
+ - [https://reclaimthenet.org/uk-refuses-to-weaken-online-censorship-laws-despite-us-pressure](https://reclaimthenet.org/uk-refuses-to-weaken-online-censorship-laws-despite-us-pressure)
+ - RSS feed: $source
+ - date published: 2025-02-16T18:22:50+00:00
+
+<a href="https://reclaimthenet.org/uk-refuses-to-weaken-online-censorship-laws-despite-us-pressure" title="UK Refuses to Weaken Online Censorship Laws Despite US Pressure" rel="nofollow"><img width="2560" height="1440" src="https://reclaimthenet.org/wp-content/uploads/2025/02/peter-kyle-scaled.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Peter Kyle in a suit and red tie speaking indoors with a serious expression; behind him, there is a blurred background of people and a decorative mirror." style="display: block; margin: auto; margin-bottom: 15px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://reclaimthenet.org/wp-content/uploads/2025/02/peter-kyle-scaled.jpg 2560w, https://reclaimthenet.org/wp-content/uploads/2025/02/peter-kyle-300x169.jpg 300w, https://reclaimthenet.org/wp-content/uploads/2025/02/peter-kyle-1024x576.jpg 1024w, https://reclaimthenet.org/wp-content/uploads/2025/02/peter-kyle-768x432.jpg 768w, https://reclaimthenet.org/wp-content/uploads
+
+## LibreOffice Develops Local Real-Time Collaboration for Writer, Introduces ZetaOffice
+ - [https://reclaimthenet.org/libreoffice-develops-local-real-time-collaboration](https://reclaimthenet.org/libreoffice-develops-local-real-time-collaboration)
+ - RSS feed: $source
+ - date published: 2025-02-16T18:10:34+00:00
+
+<a href="https://reclaimthenet.org/libreoffice-develops-local-real-time-collaboration" title="LibreOffice Develops Local Real-Time Collaboration for Writer, Introduces ZetaOffice" rel="nofollow"><img width="2560" height="1440" src="https://reclaimthenet.org/wp-content/uploads/2025/02/libre-offic3-scaled.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A blurred image of a woman in the background with a large, sharp icon of LibreOffice in the foreground, set against a purple tint." style="display: block; margin: auto; margin-bottom: 15px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://reclaimthenet.org/wp-content/uploads/2025/02/libre-offic3-scaled.jpg 2560w, https://reclaimthenet.org/wp-content/uploads/2025/02/libre-offic3-300x169.jpg 300w, https://reclaimthenet.org/wp-content/uploads/2025/02/libre-offic3-1024x576.jpg 1024w, https://reclaimthenet.org/wp-content/uploads/2025/02/libre-offic3-768x432.jpg 768w, https://reclaimthenet.org/wp-content/uploads/2025
+
+## Report: Fact Checker Group Received $2.4M in US Government Funds Amid Fact-Checking Controversy
+ - [https://reclaimthenet.org/us-taxpayer-funds-poynter-institute-fact-checking](https://reclaimthenet.org/us-taxpayer-funds-poynter-institute-fact-checking)
+ - RSS feed: $source
+ - date published: 2025-02-16T18:09:29+00:00
+
+<a href="https://reclaimthenet.org/us-taxpayer-funds-poynter-institute-fact-checking" title="Report: Fact Checker Group Received $2.4M in US Government Funds Amid Fact-Checking Controversy" rel="nofollow"><img width="2560" height="1440" src="https://reclaimthenet.org/wp-content/uploads/2025/02/f-chec-scaled.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Illustration of a magnifying glass focusing on a computer screen displaying a checkmark, with crosses and digital elements in the background, symbolizing internet searching and security." style="display: block; margin: auto; margin-bottom: 15px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://reclaimthenet.org/wp-content/uploads/2025/02/f-chec-scaled.jpg 2560w, https://reclaimthenet.org/wp-content/uploads/2025/02/f-chec-300x169.jpg 300w, https://reclaimthenet.org/wp-content/uploads/2025/02/f-chec-1024x576.jpg 1024w, https://reclaimthenet.org/wp-content/uploads/2025/02/f-chec-768x432.jpg 768w, https://recla
+
+## US Lawmakers Condemn UK’s Secret Encryption Backdoor Order to Apple, Threaten Consequences
+ - [https://reclaimthenet.org/us-lawmakers-condemn-uks-secret-encryption-backdoor-order-to-apple-threaten-consequences](https://reclaimthenet.org/us-lawmakers-condemn-uks-secret-encryption-backdoor-order-to-apple-threaten-consequences)
+ - RSS feed: $source
+ - date published: 2025-02-16T17:37:49+00:00
+
+<a href="https://reclaimthenet.org/us-lawmakers-condemn-uks-secret-encryption-backdoor-order-to-apple-threaten-consequences" title="US Lawmakers Condemn UK’s Secret Encryption Backdoor Order to Apple, Threaten Consequences" rel="nofollow"><img width="2560" height="1440" src="https://reclaimthenet.org/wp-content/uploads/2025/02/trump-tulsi-scaled.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="President Trump in a suit reaches out to Tulsi Gabbard in a blazer who is smiling in an office setting with bookshelves in the background." style="display: block; margin: auto; margin-bottom: 15px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://reclaimthenet.org/wp-content/uploads/2025/02/trump-tulsi-scaled.jpg 2560w, https://reclaimthenet.org/wp-content/uploads/2025/02/trump-tulsi-300x169.jpg 300w, https://reclaimthenet.org/wp-content/uploads/2025/02/trump-tulsi-1024x576.jpg 1024w, https://reclaimthenet.org/wp-content/uploads/2025/02/trump-tulsi-768x432.jpg 768w, ht
+

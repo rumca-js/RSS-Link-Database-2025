@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-16T20:00:34+00:00",
+        "description": "PWA Progressive Web Apps were something Firefox was experimenting with a few years but was ultimately scrapped but finally after every other browser has them even Firefox on Android finally Mozilla is coming back to it.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nPWA Interest 1: https://www.reddit.com/r/firefox/comments/uwojh7/why_did_firefox_kill_pwa_support/\nPWA Interest 2: https://www.reddit.com/r/firefox/comments/w5uc16/what_happened_to_pwa_support_on_firefox/\nPWA Thread: https://connect.mozilla.org/t5/ideas/bring-back-pwa-progressive-web-apps/idi-p/\nPWA Docs: https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps\nPWA Post: https://connect.mozilla.org/t5/discussions/how-can-firefox-create-the-best-support-for-web-apps-on-the/m-p/71778\n\n=========Video",
+        "id": 2128224,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=zdknI_LBu9M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zdknI_LBu9M/hqdefault.jpg",
+        "title": "Firefox Is Reviving Progressive Web Apps",
+        "vote": 0
+    }
+]

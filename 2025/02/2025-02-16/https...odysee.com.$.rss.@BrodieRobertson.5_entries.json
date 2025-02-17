@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-16T20:00:34+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/zdknI_LBu9M\" width=\"480\" alt=\"thumbnail\" title=\"Firefox Is Reviving Progressive Web Apps\" /></p>PWA Progressive Web Apps were something Firefox was experimenting with a few years but was ultimately scrapped but finally after every other browser has them even Firefox on Android finally Mozilla is coming back to it.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />PWA Interest 1: https://www.reddit.com/r/firefox/comments/uwojh7/why_did_firefox_kill_pwa_support/<br />PWA Interest 2: https://www.reddit.com/r/firefox/comments/w5uc16/what_happened_to_pwa_support_on_firefox/<br />PWA Thread: https://connect.mozilla.org/t5/ideas/bring-back-pwa-progressive-web-apps/idi-p/<br />PWA Docs: https:/",
+        "id": 2128225,
+        "language": "en",
+        "link": "https://odysee.com/firefox-is-reviving-progressive-web-apps:0cc92f1c2b53a1eda0f9378ecc67da5347a853a3",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Firefox Is Reviving Progressive Web Apps",
+        "vote": 0
+    }
+]
