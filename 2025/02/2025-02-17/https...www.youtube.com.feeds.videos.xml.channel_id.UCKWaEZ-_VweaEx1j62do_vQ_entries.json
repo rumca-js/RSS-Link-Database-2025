@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-17T12:00:24+00:00",
+        "description": "Want to learn more about Want to learn more about Generative AI + Machine Learning? Read the ebook here \u2192 https://ibm.biz/BdGpyX\n\nLearn more about GraphRAG here \u2192 https://ibm.biz/BdGpyH\n\nTransform your data into powerful insights! \ud83d\ude80 Join Sara Bacha from Converge Technology Solutions as she delves into how GraphRAG outperforms traditional RAG by leveraging knowledge graphs and LLM to enhance data relationships and accuracy. \ud83d\udcca  Learn the benefits in development, production, and governance, making maintenance easier with better explainability and traceability. \ud83d\udd0d\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdGpy4\n\n#llm #ai #datascience",
+        "id": 2132341,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Aw7iQjKAX2k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Aw7iQjKAX2k/hqdefault.jpg",
+        "title": "GraphRAG vs. Traditional RAG: Higher Accuracy & Insight with LLM",
+        "vote": 0
+    }
+]

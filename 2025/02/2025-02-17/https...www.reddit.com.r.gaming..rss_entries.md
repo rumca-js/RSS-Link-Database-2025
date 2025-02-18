@@ -1,0 +1,191 @@
+# Source:r/gaming, URL:https://www.reddit.com/r/gaming/.rss, language:
+
+## Strong Nostalgia Vibes
+ - [https://www.reddit.com/r/gaming/comments/1irv3zj/strong_nostalgia_vibes](https://www.reddit.com/r/gaming/comments/1irv3zj/strong_nostalgia_vibes)
+ - RSS feed: $source
+ - date published: 2025-02-17T21:16:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1irv3zj/strong_nostalgia_vibes/"> <img src="https://preview.redd.it/5u163dlumrje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c6c44ed221d25e6ce6579ac694e63576bb632e7" alt="Strong Nostalgia Vibes" title="Strong Nostalgia Vibes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Thejonest"> /u/Thejonest </a> <br/> <span><a href="https://i.redd.it/5u163dlumrje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1irv3zj/strong_nostalgia_vibes/">[comments]</a></span> </td></tr></table>
+
+## Spent 65 hours in basically the tutorial area of KCD2
+ - [https://www.reddit.com/r/gaming/comments/1irtahn/spent_65_hours_in_basically_the_tutorial_area_of](https://www.reddit.com/r/gaming/comments/1irtahn/spent_65_hours_in_basically_the_tutorial_area_of)
+ - RSS feed: $source
+ - date published: 2025-02-17T20:03:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1irtahn/spent_65_hours_in_basically_the_tutorial_area_of/"> <img src="https://preview.redd.it/6bgcq9uu9rje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f984dca9f41a4aac85d67cb433669a53e50b4d3c" alt="Spent 65 hours in basically the tutorial area of KCD2" title="Spent 65 hours in basically the tutorial area of KCD2" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Good lord this game is a beast. I don&#39;t want to spoil anything because it&#39;s a joy to experience firsthand but if you want to feel the same you did playing Morrowind for the first time, KCD2 delivers and then some. I found out I&#39;d basically been playing the tutorial after 60+ hrs. </p> <p>This game is up there with Elden Ring, BG3, Death Stranding, Shadow of the Colossus, Cyberpunk 2077 &amp; RDR2 in my view.</p> <p>Bravo, Warhorse. 👏👏👏</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Strange_Music"> /u
+
+## What game demos did you play the hell out of in the past?
+ - [https://www.reddit.com/r/gaming/comments/1irqy47/what_game_demos_did_you_play_the_hell_out_of_in](https://www.reddit.com/r/gaming/comments/1irqy47/what_game_demos_did_you_play_the_hell_out_of_in)
+ - RSS feed: $source
+ - date published: 2025-02-17T18:31:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know there are still some demos for games, but it often seems to be a pain to download or get early access or some other nonsense. I feel like the late 90s to mid-aughts was probably a golden age of demos, either through actual content included with a physical game you bought (e.g. with the OG Tomb Raiders) or a disc that came with a magazine, or downloads that were still of a reasonable size even in the age of dial-up.</p> <p>I think of all the demos I played, the one that got the most time from me had to be the original Battlefield 1942 Wake Island demo. The mass vehicle combat at the time was groundbreaking for me, and to be able to just go online and play against so many other people all for free was amazing. </p> <p>A couple years earlier there was also a multiplayer demo for one of the Medal of Honor games, though I can&#39;t recall which. I just remember it took place in some French-looking town divided by a river with one or a couple bridge
+
+## Games series that were never as good as the first game.
+ - [https://www.reddit.com/r/gaming/comments/1irq8fn/games_series_that_were_never_as_good_as_the_first](https://www.reddit.com/r/gaming/comments/1irq8fn/games_series_that_were_never_as_good_as_the_first)
+ - RSS feed: $source
+ - date published: 2025-02-17T18:04:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ll start with an obvious one: Dragon Age. Dragon Age Origins is one of the best games ever created. DA2 and Inquisition were good, but felt more compromised. And then there is The Veilguard. Far from being one of the worst game ever made, but easily Bioware&#39;s worst single-player offering to date.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Odd_Radio9225"> /u/Odd_Radio9225 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1irq8fn/games_series_that_were_never_as_good_as_the_first/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1irq8fn/games_series_that_were_never_as_good_as_the_first/">[comments]</a></span>
+
+## More industry layoffs happening, this time to Just Cause developer.
+ - [https://www.reddit.com/r/gaming/comments/1irq43u/more_industry_layoffs_happening_this_time_to_just](https://www.reddit.com/r/gaming/comments/1irq43u/more_industry_layoffs_happening_this_time_to_just)
+ - RSS feed: $source
+ - date published: 2025-02-17T17:59:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1irq43u/more_industry_layoffs_happening_this_time_to_just/"> <img src="https://external-preview.redd.it/dTPfTg3-8vq3B5d_gA7R5NCwZIj34acdXiKTSMPko3c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd8edcaa159bd0818ad72c30aedde8bf856ded40" alt="More industry layoffs happening, this time to Just Cause developer." title="More industry layoffs happening, this time to Just Cause developer." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hand_of_Belmont"> /u/Hand_of_Belmont </a> <br/> <span><a href="https://www.videogameschronicle.com/news/avalanche-founders-new-studio-makes-layoffs-but-will-continue-to-work-on-new-ip/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1irq43u/more_industry_layoffs_happening_this_time_to_just/">[comments]</a></span> </td></tr></table>
+
+## Prey 2006 had the best Alien Abduction is video game history. "Needs more cowbell."
+ - [https://www.reddit.com/r/gaming/comments/1irnxs6/prey_2006_had_the_best_alien_abduction_is_video](https://www.reddit.com/r/gaming/comments/1irnxs6/prey_2006_had_the_best_alien_abduction_is_video)
+ - RSS feed: $source
+ - date published: 2025-02-17T16:32:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1irnxs6/prey_2006_had_the_best_alien_abduction_is_video/"> <img src="https://external-preview.redd.it/jig9jebDiq8cKOwbyXUlmEwlMFqb1HHNEm60i6AdW6I.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=490cc6fd31f8284db28aff25692f1d9a05a2b015" alt="Prey 2006 had the best Alien Abduction is video game history. &quot;Needs more cowbell.&quot;" title="Prey 2006 had the best Alien Abduction is video game history. &quot;Needs more cowbell.&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Promiserofdeath"> /u/Promiserofdeath </a> <br/> <span><a href="https://www.youtube.com/watch?v=f36b1UYQ5OA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1irnxs6/prey_2006_had_the_best_alien_abduction_is_video/">[comments]</a></span> </td></tr></table>
+
+## Im glad that Chinese and Korean devs are finally using thier talents to make single player AAA console games instead of just mobile cash grabs
+ - [https://www.reddit.com/r/gaming/comments/1irn7fo/im_glad_that_chinese_and_korean_devs_are_finally](https://www.reddit.com/r/gaming/comments/1irn7fo/im_glad_that_chinese_and_korean_devs_are_finally)
+ - RSS feed: $source
+ - date published: 2025-02-17T16:02:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1irn7fo/im_glad_that_chinese_and_korean_devs_are_finally/"> <img src="https://preview.redd.it/zab9qxww2qje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=86bf11f771272095792b3f5b795abce0cebc11b9" alt="Im glad that Chinese and Korean devs are finally using thier talents to make single player AAA console games instead of just mobile cash grabs" title="Im glad that Chinese and Korean devs are finally using thier talents to make single player AAA console games instead of just mobile cash grabs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FinalAfternoon5470"> /u/FinalAfternoon5470 </a> <br/> <span><a href="https://i.redd.it/zab9qxww2qje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1irn7fo/im_glad_that_chinese_and_korean_devs_are_finally/">[comments]</a></span> </td></tr></table>
+
+## Kingdom Come Deliverance 2 Has Sold 2 Million Units in less than 2 weeks
+ - [https://www.reddit.com/r/gaming/comments/1irmi8l/kingdom_come_deliverance_2_has_sold_2_million](https://www.reddit.com/r/gaming/comments/1irmi8l/kingdom_come_deliverance_2_has_sold_2_million)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:32:52+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Paul_cz"> /u/Paul_cz </a> <br/> <span><a href="https://me.ign.com/en/kingdom-come-deliverance-2/228314/news/kingdom-come-deliverance-2-shows-no-sign-of-slowing-down-sells-2-million-copies-in-less-than-2-weeks">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1irmi8l/kingdom_come_deliverance_2_has_sold_2_million/">[comments]</a></span>
+
+## Fallout New Vegas playing cards
+ - [https://www.reddit.com/r/gaming/comments/1irlvw1/fallout_new_vegas_playing_cards](https://www.reddit.com/r/gaming/comments/1irlvw1/fallout_new_vegas_playing_cards)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:05:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1irlvw1/fallout_new_vegas_playing_cards/"> <img src="https://preview.redd.it/1nd5m2dsspje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f7115fef2b43170bac951621645b87cce528e9b1" alt="Fallout New Vegas playing cards" title="Fallout New Vegas playing cards" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I was inspired by another post to show the set I got along with the casino chips. Every card in the set has a character.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ninja_mummy"> /u/ninja_mummy </a> <br/> <span><a href="https://i.redd.it/1nd5m2dsspje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1irlvw1/fallout_new_vegas_playing_cards/">[comments]</a></span> </td></tr></table>
+
+## Splat Magazine Renegade Paintball (2005), an obscure and very good paintball FPS with fun gameplay and decent variety of maps.
+ - [https://www.reddit.com/r/gaming/comments/1irloym/splat_magazine_renegade_paintball_2005_an_obscure](https://www.reddit.com/r/gaming/comments/1irloym/splat_magazine_renegade_paintball_2005_an_obscure)
+ - RSS feed: $source
+ - date published: 2025-02-17T14:58:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1irloym/splat_magazine_renegade_paintball_2005_an_obscure/"> <img src="https://preview.redd.it/aoo98kdbrpje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c7ae06851c2db3d7c2fc21aa3da8aee3f0c77f42" alt="Splat Magazine Renegade Paintball (2005), an obscure and very good paintball FPS with fun gameplay and decent variety of maps." title="Splat Magazine Renegade Paintball (2005), an obscure and very good paintball FPS with fun gameplay and decent variety of maps." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dccs120"> /u/dccs120 </a> <br/> <span><a href="https://i.redd.it/aoo98kdbrpje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1irloym/splat_magazine_renegade_paintball_2005_an_obscure/">[comments]</a></span> </td></tr></table>
+
+## Who remembers
+ - [https://www.reddit.com/r/gaming/comments/1irjvje/who_remembers](https://www.reddit.com/r/gaming/comments/1irjvje/who_remembers)
+ - RSS feed: $source
+ - date published: 2025-02-17T13:30:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1irjvje/who_remembers/"> <img src="https://preview.redd.it/vv5pzh7ubpje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca683ebdf99228d10f94779ad7e32f552cd4a0d8" alt="Who remembers" title="Who remembers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SloppyJoeGilly2"> /u/SloppyJoeGilly2 </a> <br/> <span><a href="https://i.redd.it/vv5pzh7ubpje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1irjvje/who_remembers/">[comments]</a></span> </td></tr></table>
+
+## Painted a view of The Old Camp from Gothic 1
+ - [https://www.reddit.com/r/gaming/comments/1irie0t/painted_a_view_of_the_old_camp_from_gothic_1](https://www.reddit.com/r/gaming/comments/1irie0t/painted_a_view_of_the_old_camp_from_gothic_1)
+ - RSS feed: $source
+ - date published: 2025-02-17T12:08:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1irie0t/painted_a_view_of_the_old_camp_from_gothic_1/"> <img src="https://preview.redd.it/c40wn4n2xoje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=530f3f38b6f17b62cc4a8a37d67d2f8a83f97cc2" alt="Painted a view of The Old Camp from Gothic 1" title="Painted a view of The Old Camp from Gothic 1" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PaintingMoro"> /u/PaintingMoro </a> <br/> <span><a href="https://i.redd.it/c40wn4n2xoje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1irie0t/painted_a_view_of_the_old_camp_from_gothic_1/">[comments]</a></span> </td></tr></table>
+
+## Up, Down, Left, Right, Right, Left, Down, Up
+ - [https://www.reddit.com/r/gaming/comments/1irhz2j/up_down_left_right_right_left_down_up](https://www.reddit.com/r/gaming/comments/1irhz2j/up_down_left_right_right_left_down_up)
+ - RSS feed: $source
+ - date published: 2025-02-17T11:41:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1irhz2j/up_down_left_right_right_left_down_up/"> <img src="https://preview.redd.it/h5208df6soje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=839decaedbdf6266b5031218b4c2e7fc378dd89a" alt="Up, Down, Left, Right, Right, Left, Down, Up" title="Up, Down, Left, Right, Right, Left, Down, Up" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shofmon88"> /u/shofmon88 </a> <br/> <span><a href="https://i.redd.it/h5208df6soje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1irhz2j/up_down_left_right_right_left_down_up/">[comments]</a></span> </td></tr></table>
+
+## The start screen that always gives me goosebumps.
+ - [https://www.reddit.com/r/gaming/comments/1irh545/the_start_screen_that_always_gives_me_goosebumps](https://www.reddit.com/r/gaming/comments/1irh545/the_start_screen_that_always_gives_me_goosebumps)
+ - RSS feed: $source
+ - date published: 2025-02-17T10:45:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1irh545/the_start_screen_that_always_gives_me_goosebumps/"> <img src="https://preview.redd.it/qo2hoqnbioje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2a4fa30fb6c0ab3b786c957ed8d2d33da2ca45d2" alt="The start screen that always gives me goosebumps." title="The start screen that always gives me goosebumps." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fast_Passenger_2890"> /u/Fast_Passenger_2890 </a> <br/> <span><a href="https://i.redd.it/qo2hoqnbioje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1irh545/the_start_screen_that_always_gives_me_goosebumps/">[comments]</a></span> </td></tr></table>
+
+## Drawing of the NFS Most Wanted BMW M3 GTR at the famous Rockport Shipyard
+ - [https://www.reddit.com/r/gaming/comments/1irf36b/drawing_of_the_nfs_most_wanted_bmw_m3_gtr_at_the](https://www.reddit.com/r/gaming/comments/1irf36b/drawing_of_the_nfs_most_wanted_bmw_m3_gtr_at_the)
+ - RSS feed: $source
+ - date published: 2025-02-17T08:17:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1irf36b/drawing_of_the_nfs_most_wanted_bmw_m3_gtr_at_the/"> <img src="https://preview.redd.it/j09a85ftrnje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bbe96701bc31b259443c96ecd6b63f6aa2e510c8" alt="Drawing of the NFS Most Wanted BMW M3 GTR at the famous Rockport Shipyard" title="Drawing of the NFS Most Wanted BMW M3 GTR at the famous Rockport Shipyard" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LukaMilic98"> /u/LukaMilic98 </a> <br/> <span><a href="https://i.redd.it/j09a85ftrnje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1irf36b/drawing_of_the_nfs_most_wanted_bmw_m3_gtr_at_the/">[comments]</a></span> </td></tr></table>
+
+## What’s a moment that terrified you in a game as a child?
+ - [https://www.reddit.com/r/gaming/comments/1ireqbx/whats_a_moment_that_terrified_you_in_a_game_as_a](https://www.reddit.com/r/gaming/comments/1ireqbx/whats_a_moment_that_terrified_you_in_a_game_as_a)
+ - RSS feed: $source
+ - date published: 2025-02-17T07:51:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>For me, it was the first time you see the balverines in Fable. Werewolves still creep me out because of it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alone-Vermicelli892"> /u/Alone-Vermicelli892 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ireqbx/whats_a_moment_that_terrified_you_in_a_game_as_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ireqbx/whats_a_moment_that_terrified_you_in_a_game_as_a/">[comments]</a></span>
+
+## Making Friends Monday! Share your game tags here!
+ - [https://www.reddit.com/r/gaming/comments/1ire0us/making_friends_monday_share_your_game_tags_here](https://www.reddit.com/r/gaming/comments/1ire0us/making_friends_monday_share_your_game_tags_here)
+ - RSS feed: $source
+ - date published: 2025-02-17T07:00:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Use this post to look for new friends to game with! Share your gamer tag &amp; platform, and meet new people! </p> <p>This thread is posted weekly on Mondays (adjustments made as needed).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ire0us/making_friends_monday_share_your_game_tags_here/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ire0us/making_friends_monday_share_your_game_tags_here/">[comments]</a></span>
+
+## Fallout : New Vegas playing cards
+ - [https://www.reddit.com/r/gaming/comments/1irdrti/fallout_new_vegas_playing_cards](https://www.reddit.com/r/gaming/comments/1irdrti/fallout_new_vegas_playing_cards)
+ - RSS feed: $source
+ - date published: 2025-02-17T06:43:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1irdrti/fallout_new_vegas_playing_cards/"> <img src="https://preview.redd.it/vhu4e113bnje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c778c2bbfa0766e95caeb78481eaf2e61aab03ee" alt="Fallout : New Vegas playing cards" title="Fallout : New Vegas playing cards" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Recently found my New Vegas collector’s edition playing cards , thought you all might like seeing the face cards </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/I_Eat_Booty"> /u/I_Eat_Booty </a> <br/> <span><a href="https://i.redd.it/vhu4e113bnje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1irdrti/fallout_new_vegas_playing_cards/">[comments]</a></span> </td></tr></table>
+
+## Tony Hawk's Underground 2 Ad 2004
+ - [https://www.reddit.com/r/gaming/comments/1ird881/tony_hawks_underground_2_ad_2004](https://www.reddit.com/r/gaming/comments/1ird881/tony_hawks_underground_2_ad_2004)
+ - RSS feed: $source
+ - date published: 2025-02-17T06:07:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ird881/tony_hawks_underground_2_ad_2004/"> <img src="https://preview.redd.it/xr4c9lxs4nje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c512453ec9677c6502fd5c875f8c01bfbbabf5d" alt="Tony Hawk's Underground 2 Ad 2004" title="Tony Hawk's Underground 2 Ad 2004" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Djf47021"> /u/Djf47021 </a> <br/> <span><a href="https://i.redd.it/xr4c9lxs4nje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ird881/tony_hawks_underground_2_ad_2004/">[comments]</a></span> </td></tr></table>
+
+## Looking for a PS5 (preferably) or PC survival game, where your worst enemy are the environment conditions and/or wild animals, inclined to snowy environments, in 3rd person.
+ - [https://www.reddit.com/r/gaming/comments/1ird36e/looking_for_a_ps5_preferably_or_pc_survival_game](https://www.reddit.com/r/gaming/comments/1ird36e/looking_for_a_ps5_preferably_or_pc_survival_game)
+ - RSS feed: $source
+ - date published: 2025-02-17T05:59:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>I played &quot;The Long Dark&quot;, pretty good game, but im looking for something like it in 3rd person, preferably in PS5. Thanks in advance </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/___RC___"> /u/___RC___ </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ird36e/looking_for_a_ps5_preferably_or_pc_survival_game/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ird36e/looking_for_a_ps5_preferably_or_pc_survival_game/">[comments]</a></span>
+
+## What’s your top pick?
+ - [https://www.reddit.com/r/gaming/comments/1ird16g/whats_your_top_pick](https://www.reddit.com/r/gaming/comments/1ird16g/whats_your_top_pick)
+ - RSS feed: $source
+ - date published: 2025-02-17T05:55:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ird16g/whats_your_top_pick/"> <img src="https://preview.redd.it/4llz30rn2nje1.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=2a4ef41cea7f29f6b257880e4a5c67f121cc3204" alt="What’s your top pick?" title="What’s your top pick?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Percentage-3650"> /u/No-Percentage-3650 </a> <br/> <span><a href="https://i.redd.it/4llz30rn2nje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ird16g/whats_your_top_pick/">[comments]</a></span> </td></tr></table>
+
+## Looking for games with fake in-universe TV commercials and programming
+ - [https://www.reddit.com/r/gaming/comments/1ircg2n/looking_for_games_with_fake_inuniverse_tv](https://www.reddit.com/r/gaming/comments/1ircg2n/looking_for_games_with_fake_inuniverse_tv)
+ - RSS feed: $source
+ - date published: 2025-02-17T05:19:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve recently been trying to assemble a playlist of fake in-universe TV commercials in video games for a project I&#39;m working on, and I&#39;ve found that beyond Grand Theft Auto, I&#39;ve been struggling to think of any examples. To clarify, I mean commercials acting as if they are advertising products and services to the in-game NPCs. Or fake television programming that you can see on the TVs in-game. Just generally if it&#39;s something you might see on TV in a game world.</p> <p>The commercials and programming don&#39;t have to be featured in-game, but if they are in-game then that helps a lot. Also, they can simply be television-themed cutscenes as well, such as the Saints Row 3 Murder Time Fun Time intro.</p> <p>Other examples of what I mean include the Condo Previews from Tower Unite, and the World Previews from Banjo Kazooie: Nuts and Bolts.</p> <p>EDIT 1: Radio shows/commercials and News Broadcasts are definitely a good fit as well! A 
+
+## Difference between neo geo pocket color carts (Turf Masters)
+ - [https://www.reddit.com/r/gaming/comments/1irbp3o/difference_between_neo_geo_pocket_color_carts](https://www.reddit.com/r/gaming/comments/1irbp3o/difference_between_neo_geo_pocket_color_carts)
+ - RSS feed: $source
+ - date published: 2025-02-17T04:35:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1irbp3o/difference_between_neo_geo_pocket_color_carts/"> <img src="https://preview.redd.it/fcm2m8jdomje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8bddb56282ce7f98b062bfe949493ad9be1b4e7a" alt="Difference between neo geo pocket color carts (Turf Masters)" title="Difference between neo geo pocket color carts (Turf Masters)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Anyone know the difference between the green and gray carts? Couldn&#39;t find anything online and neither did the people I reached out to selling them on ebay</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/oldskool8bit"> /u/oldskool8bit </a> <br/> <span><a href="https://i.redd.it/fcm2m8jdomje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1irbp3o/difference_between_neo_geo_pocket_color_carts/">[comments]</a></span> </td></tr></table>
+
+## What's the old game you keep coming back to, time and time again?
+ - [https://www.reddit.com/r/gaming/comments/1irbgbf/whats_the_old_game_you_keep_coming_back_to_time](https://www.reddit.com/r/gaming/comments/1irbgbf/whats_the_old_game_you_keep_coming_back_to_time)
+ - RSS feed: $source
+ - date published: 2025-02-17T04:21:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>For me it&#39;s Total Annihilation. I do play BAR and have played Supreme Commander, but sometimes I get the itch and need to play the classic.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/relspace"> /u/relspace </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1irbgbf/whats_the_old_game_you_keep_coming_back_to_time/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1irbgbf/whats_the_old_game_you_keep_coming_back_to_time/">[comments]</a></span>
+
+## Question about connecting 4 Mayflash arcade pads to an Xbox one.
+ - [https://www.reddit.com/r/gaming/comments/1ir7wnp/question_about_connecting_4_mayflash_arcade_pads](https://www.reddit.com/r/gaming/comments/1ir7wnp/question_about_connecting_4_mayflash_arcade_pads)
+ - RSS feed: $source
+ - date published: 2025-02-17T01:10:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>I currently have 2 mayflash pads (1 f500 and 1 f300) and have ordered 2 more f300s. I’m doing this so my family and I can have arcade nights on our Xbox one. It looks like I’ll need a USB 3.0 hub to accommodate all 4 connections but will I need a passive hub or a powered hub?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rambo_lincoln_"> /u/rambo_lincoln_ </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ir7wnp/question_about_connecting_4_mayflash_arcade_pads/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ir7wnp/question_about_connecting_4_mayflash_arcade_pads/">[comments]</a></span>
+
+## The Iconic location (FF7 Rebirth)
+ - [https://www.reddit.com/r/gaming/comments/1ir6leq/the_iconic_location_ff7_rebirth](https://www.reddit.com/r/gaming/comments/1ir6leq/the_iconic_location_ff7_rebirth)
+ - RSS feed: $source
+ - date published: 2025-02-17T00:06:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ir6leq/the_iconic_location_ff7_rebirth/"> <img src="https://preview.redd.it/9db4vrwublje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fd2950bd61a57c7a00548605ac3636020ebe6e5f" alt="The Iconic location (FF7 Rebirth)" title="The Iconic location (FF7 Rebirth)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dulun18"> /u/dulun18 </a> <br/> <span><a href="https://i.redd.it/9db4vrwublje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ir6leq/the_iconic_location_ff7_rebirth/">[comments]</a></span> </td></tr></table>
+
+## What side character you think could start in their own video game?
+ - [https://www.reddit.com/r/gaming/comments/1ir6gz3/what_side_character_you_think_could_start_in](https://www.reddit.com/r/gaming/comments/1ir6gz3/what_side_character_you_think_could_start_in)
+ - RSS feed: $source
+ - date published: 2025-02-17T00:00:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m curious to see what y&#39;all say</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Agent1230"> /u/Agent1230 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ir6gz3/what_side_character_you_think_could_start_in/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ir6gz3/what_side_character_you_think_could_start_in/">[comments]</a></span>
+

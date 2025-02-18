@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-17T22:38:37+00:00",
+        "description": "<p>\n\t<img alt=\"filipek-8moreexamples.png\" src=\"https://isocpp.org/files/img/filipek-8moreexamples.png\" style=\"width: 282px; margin: 10px; float: right;\" />In this article, you&rsquo;ll see eight larger examples that illustrate the changes in C++23.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.cppstories.com/2024/cpp23_more_examples/\">8 More C++23 Examples</a></h3>\n\t<p>\n\t\tby Bartlomiej Filipek</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tC++23 brings a ton of cool features, as you can see in my two previous articles (<a href=\"https://www.cppstories.com/2024/cpp23_lang/\">here</a>&nbsp;and&nbsp;<a href=\"https://www.cppstories.com/2024/cpp23_lib/\">here</a>). So far, we explored each new addition one by one, but I&rsquo;d like to share more examples that combine multiple features.</p>\n\t<p>\n\t\tHere we go:</p>\n\t<p id=\"1-stdrangesto\">\n\t\t<strong>1.&nbsp;<code>std::ranges::to&lt;&gt;</code>&nbsp;</strong></p>\n\t<p>\n\t\tThe&nbsp;<code>ranges::to&lt;&gt;</code>&nbsp;feature allo",
+        "id": 2135847,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/02/8-more-cpp23-examples-bartlomiej-filipek",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "8 More C++23 Examples -- Bartlomiej Filipek",
+        "vote": 0
+    }
+]

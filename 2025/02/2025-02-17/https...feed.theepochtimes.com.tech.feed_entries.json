@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-17T11:49:32+00:00",
+        "description": "Authorities pulled the Chinese ChatGPT rival from local versions of app stores and advised DeepSeek users to delete the app from their device.",
+        "id": 2131888,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/tech/downloads-of-deepseek-paused-in-south-korea-over-privacy-concerns-5811392",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/02/08/id5806514-GettyImages-2197189400-1080x720.jpg",
+        "title": "Downloads of DeepSeek Paused in South Korea Over Privacy Concerns",
+        "vote": 0
+    }
+]

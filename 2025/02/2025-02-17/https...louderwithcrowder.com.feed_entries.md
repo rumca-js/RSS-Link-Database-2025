@@ -1,0 +1,46 @@
+# Source:Louder With Crowder, URL:https://louderwithcrowder.com/feed, language:en-US
+
+## Alleged "presidential historian" wants to cancel President's Day because of certain presidents (cough TRUMP cough)
+ - [https://www.louderwithcrowder.com/presidential-historian-msnbc](https://www.louderwithcrowder.com/presidential-historian-msnbc)
+ - RSS feed: $source
+ - date published: 2025-02-17T18:42:41+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=56519778&width=1245&height=700&coordinates=0%2C8%2C0%2C8"/><br/><br/><p><em></em>A liberal historian has decided to use Presidents' Day to bash Trump on MSNBC, as she calls for the holiday to be “scrapped” altogether. </p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Liberal "Presidential Historian" on MSNBC says that we shouldn't celebrate Presidents' Day anymore. <a href="https://t.co/GraevO3wQ2">pic.twitter.com/GraevO3wQ2</a><br/>— Townhall.com (@townhallcom) <a href="https://twitter.com/townhallcom/status/1891513936333115658?ref_src=twsrc%5Etfw">February 17, 2025</a></blockquote> <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div><p><br/></p><p>Firstly, the holiday historically centered around honoring George Washington and Abraham Lincoln, which had nothing to do with Trump. However, because these people despise the current POTUS so much, they h
+
+## Antifa goon vandalizes a Tesla, but in a hilarious twist the car belonged to an anti-Elon leftist SYMPATHETIC to Antifa
+ - [https://www.louderwithcrowder.com/portland-tesla-nazi](https://www.louderwithcrowder.com/portland-tesla-nazi)
+ - RSS feed: $source
+ - date published: 2025-02-17T17:56:35+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=56519672&width=1245&height=700&coordinates=0%2C52%2C0%2C52"/><br/><br/><p>The only problem with being a leftist is that you can never be progressive enough. Additionally, the goalpost is constantly changing. What was once seen as a morally superior thing to do, such as buying a Tesla, is suddenly the worst thing one can purchase now if they are to be beholden to leftist orthodoxy.</p><p>One rich liberal found this out the hard way, as liberals always go after their own. </p><p>Timothy H. Tees, a wealthy Portland liberal, a Kamala voter, and a Trump hater, bought his Tesla before Elon promised to help make America great again. However, that does not matter when dealing with the most illogical group in society. Thus, a masked Antifa member vandalized his vehicle.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Timothy H. Tees, the wealthy Portland liberal and senior account manager at <a href=
+
+## Kamala Harris refuses to go away, tosses the word salad for Broadway actors about nature and vacuums
+ - [https://www.louderwithcrowder.com/nature-abhors-vacuum](https://www.louderwithcrowder.com/nature-abhors-vacuum)
+ - RSS feed: $source
+ - date published: 2025-02-17T16:38:52+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=56516603&width=1245&height=700&coordinates=0%2C0%2C0%2C1"/><br/><br/><p><em></em>In 2020, the Democrats chose a sleeping potato as their top pick. In 2024, they committed a de facto coup on that potato and replaced him with a woman who could not put basic sentences and thoughts together if her life depended on it. So, while this officially unburdens America, Kamala Harris refuses to go away. She spent her entire political career making sure it survived despite never earning anything she’s been awarded.</p><p>In her most recent public appearance, Kamala did what she does best: ramble on and say so much, yet say nothing at all in the same breath. This time it was for the Broadway cast of <em><em>A Wonderful World.</em></em></p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">NEW: Kamala Harris gives inspiring speech to the cast of 'A Wonderful World' on Broadway, inspires by noting how "nature abh
+
+## George Washington, Our First President | 3 in 3 Special
+ - [https://www.louderwithcrowder.com/george-washington-our-first-president-3-in-3-special](https://www.louderwithcrowder.com/george-washington-our-first-president-3-in-3-special)
+ - RSS feed: $source
+ - date published: 2025-02-17T14:45:51+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=56515904&width=1200&height=800&coordinates=150%2C0%2C150%2C0"/><br/><br/><p>Discover how America's first President was hesitant to take office and chose to step down after two terms, setting a precedent for future leaders. Learn about Washington's evolving views on slavery, his actions against the institution, and his will to free his slaves. Explore his warnings on unity, factionalism, and foreign influence in his farewell address, insights crucial to understanding America's foundation. Join us for a thought-provoking session that questions conventional wisdom and sheds light on the complexities of American history, policy, and societal myths.</p><div class="rm-embed embed-media"><iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6jnrla/?pub=4" width="640"></iframe></div><p>Brought to you by my podcast: 3 in 3</p><p>3 key facts in 3 minutes or less on the topics 
+
+## Trump's border czar goes off on what a dummy Rep. AOC is, reminds viewers of the last time they met: "I had to educate her..."
+ - [https://www.louderwithcrowder.com/tom-horman-aoc-hearing](https://www.louderwithcrowder.com/tom-horman-aoc-hearing)
+ - RSS feed: $source
+ - date published: 2025-02-17T12:48:07+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=56515257&width=1200&height=800&coordinates=273%2C0%2C274%2C0"/><br/><br/><p>Donald Trump vs. the world is the main event, but a match on the undercard is shaping up to be quite entertaining. It pits Trump Border Czar Tom Homan against social media influencer Rep. AOC. Rep. AOC wants all the illegal immigration, while Homan wants none. Intellectually, this is the equivalent of Jon Jones squaring up against... well, Rep. AOC.</p><p>Last week, Rep. AOC announced she was conducting seminars on how illegal immigrants could skirt the law and avoid being deported. Homan said, "We're done," <a href="https://www.louderwithcrowder.com/homan-aoc-doj" target="_blank">and referred her to the DOJ for a criminal investigation</a>. See, not only is illegal immigration illegal, but so is impeding law enforcement.</p><p>Rep. AOC, who once didn't know what a garbage disposal was, implied that Homan wasn't smart enough to read.</p><d
+
+## CBS News host claims free speech is how the Germans started the Holocaust, gets remedial history lesson from Marco Rubio
+ - [https://www.louderwithcrowder.com/cbs-news-free-speech-germany](https://www.louderwithcrowder.com/cbs-news-free-speech-germany)
+ - RSS feed: $source
+ - date published: 2025-02-17T12:02:15+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=56515178&width=1200&height=800&coordinates=100%2C0%2C100%2C0"/><br/><br/><p>CBS News Face the Nation host Margaret Brennan didn't embarrass herself enough when JD Vance was on. She felt it necessary to double down talking about Vance to Secretary of State Marco Rubio. At issue is JD Vance defending free speech in Europe. Brennan claims free speech is what led Germany to the Holocaust. No, really. This is a thing that was said on the television. On a "news" program meant to inform. In 2025.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="75b3f4e955095f1cc03e1d0c89271f37" data-rm-shortcode-name="rebelmouse-image" id="e16cb" loading="lazy" src="https://www.louderwithcrowder.com/media-library/image.gif?id=56515200&width=980"/>
+</p><p>Last week, Vance told our European "allies" <a href="https://www.louderwithcrowder.com/jd-vance-greta-thunberg" targ
+

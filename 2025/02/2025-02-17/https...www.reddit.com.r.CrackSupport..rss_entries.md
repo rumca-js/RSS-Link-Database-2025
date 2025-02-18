@@ -1,0 +1,177 @@
+# Source:Crack Support, URL:https://www.reddit.com/r/CrackSupport/.rss, language:
+
+## Avowed Steamdeck Dodi - No license
+ - [https://www.reddit.com/r/CrackSupport/comments/1irv87p/avowed_steamdeck_dodi_no_license](https://www.reddit.com/r/CrackSupport/comments/1irv87p/avowed_steamdeck_dodi_no_license)
+ - RSS feed: $source
+ - date published: 2025-02-17T21:20:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m having trouble running the repack on my Deck—Steam says I don’t have a license and won’t let me launch it. I tried using Goldberg, but it didn’t make a difference. Does anyone know how to fix this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aintnokiddo"> /u/aintnokiddo </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irv87p/avowed_steamdeck_dodi_no_license/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irv87p/avowed_steamdeck_dodi_no_license/">[comments]</a></span>
+
+## Troubleshooting kingdom come deliverance 2.
+ - [https://www.reddit.com/r/CrackSupport/comments/1irtug8/troubleshooting_kingdom_come_deliverance_2](https://www.reddit.com/r/CrackSupport/comments/1irtug8/troubleshooting_kingdom_come_deliverance_2)
+ - RSS feed: $source
+ - date published: 2025-02-17T20:25:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am having difficulty trying to get this project installed. I&#39;m usually quite adequate in getting these projects going but this one has stumped me. Currently using the dodi repack. I get it going to install but about 4% to 6% it pops up the unarc error. -1, unarc error -11and unarc -12 error. I&#39;ve have tried multiple fixes out there. Including one supplied by both fitgirl and dodi Except one that I cannot find or apply. That one being the 2gb limit. Just no tab or checkbook to enable it. Hopefully. Some of you have some the time to help troubleshoot with me and get this project running. Please and thank you. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sandwich10_"> /u/sandwich10_ </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irtug8/troubleshooting_kingdom_come_deliverance_2/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irtug8/tr
+
+## call of duty advance warfare link?
+ - [https://www.reddit.com/r/CrackSupport/comments/1irtn3l/call_of_duty_advance_warfare_link](https://www.reddit.com/r/CrackSupport/comments/1irtn3l/call_of_duty_advance_warfare_link)
+ - RSS feed: $source
+ - date published: 2025-02-17T20:17:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>been trying to download advance warfare and most websites either have broken links or deleted files. is there any website I should check or a site that has the file? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Terrible_Process_114"> /u/Terrible_Process_114 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irtn3l/call_of_duty_advance_warfare_link/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irtn3l/call_of_duty_advance_warfare_link/">[comments]</a></span>
+
+## Can't start Jedi fallen order
+ - [https://www.reddit.com/r/CrackSupport/comments/1irssaz/cant_start_jedi_fallen_order](https://www.reddit.com/r/CrackSupport/comments/1irssaz/cant_start_jedi_fallen_order)
+ - RSS feed: $source
+ - date published: 2025-02-17T19:43:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I tried installing star wars Jedi fallen order from dodi and fit girl but I always got this error on start &quot;Failed to open descriptor file ../../../SwGame/SwGame.uproject&quot;, I thought it was anti virus, so I turned off windows defender, set my folder so windows defender doesn&#39;t scan it, fit girl checked files and everything was right but I still can&#39;t run the game, is there a way to fix it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/your_local_femboy3"> /u/your_local_femboy3 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irssaz/cant_start_jedi_fallen_order/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irssaz/cant_start_jedi_fallen_order/">[comments]</a></span>
+
+## Uninstalling a single pack while having anadius updater installed
+ - [https://www.reddit.com/r/CrackSupport/comments/1irrldg/uninstalling_a_single_pack_while_having_anadius](https://www.reddit.com/r/CrackSupport/comments/1irrldg/uninstalling_a_single_pack_while_having_anadius)
+ - RSS feed: $source
+ - date published: 2025-02-17T18:57:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve been reading a bit into this but cannot find setup.bat file, which it tells me too do in instructions. All I want to do is simply uninstall the Get To Work pack i just need some help. I’m not very good with computers </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eileanbuchanan"> /u/eileanbuchanan </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irrldg/uninstalling_a_single_pack_while_having_anadius/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irrldg/uninstalling_a_single_pack_while_having_anadius/">[comments]</a></span>
+
+## Downloaded a plugin from G-MEH and a cmd window flashed after installing it
+ - [https://www.reddit.com/r/CrackSupport/comments/1irpov7/downloaded_a_plugin_from_gmeh_and_a_cmd_window](https://www.reddit.com/r/CrackSupport/comments/1irpov7/downloaded_a_plugin_from_gmeh_and_a_cmd_window)
+ - RSS feed: $source
+ - date published: 2025-02-17T17:43:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>it was spire plugin, I scanned it with virustotal and its clean, but the cmd flashing for a split second after the installs freaked me out</p> <p>am I safe or...</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Principles_Son"> /u/Principles_Son </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irpov7/downloaded_a_plugin_from_gmeh_and_a_cmd_window/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irpov7/downloaded_a_plugin_from_gmeh_and_a_cmd_window/">[comments]</a></span>
+
+## Is g meh save?
+ - [https://www.reddit.com/r/CrackSupport/comments/1irpoii/is_g_meh_save](https://www.reddit.com/r/CrackSupport/comments/1irpoii/is_g_meh_save)
+ - RSS feed: $source
+ - date published: 2025-02-17T17:42:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, while i was looking for some new plugins, i found out about g meh, does anybody know if its save?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Vast_Ad_9669"> /u/Vast_Ad_9669 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irpoii/is_g_meh_save/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irpoii/is_g_meh_save/">[comments]</a></span>
+
+## I just downloaded the RDR2 for the third time because I had this problem with the setup.exe and I don't really wanna spend another whole day trying to reinstall the whole game. I use Windows 11 and don't know about anything on my pc that'd cause such an issue
+ - [https://www.reddit.com/r/CrackSupport/comments/1irotmt/i_just_downloaded_the_rdr2_for_the_third_time](https://www.reddit.com/r/CrackSupport/comments/1irotmt/i_just_downloaded_the_rdr2_for_the_third_time)
+ - RSS feed: $source
+ - date published: 2025-02-17T17:08:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1irotmt/i_just_downloaded_the_rdr2_for_the_third_time/"> <img src="https://preview.redd.it/nd96p2c1eqje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ec135acca519d9ab29c3e7a1ff148c56f8776eb" alt="I just downloaded the RDR2 for the third time because I had this problem with the setup.exe and I don't really wanna spend another whole day trying to reinstall the whole game. I use Windows 11 and don't know about anything on my pc that'd cause such an issue" title="I just downloaded the RDR2 for the third time because I had this problem with the setup.exe and I don't really wanna spend another whole day trying to reinstall the whole game. I use Windows 11 and don't know about anything on my pc that'd cause such an issue" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MrMan_Karma"> /u/MrMan_Karma </a> <br/> <span><a href="https://i.redd.it/nd96p2c1eqje1.png">[link]</a></span> &#32;
+
+## Support on updating Spider-Man 2
+ - [https://www.reddit.com/r/CrackSupport/comments/1irnbey/support_on_updating_spiderman_2](https://www.reddit.com/r/CrackSupport/comments/1irnbey/support_on_updating_spiderman_2)
+ - RSS feed: $source
+ - date published: 2025-02-17T16:07:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>Im trying to pirate SM2 off of fitgirl repacks and am trying to update it to the latest patch, might sound a bit stupid but what is the &quot;game root&quot; as it says i need to copy the &quot;_update to v1.131.0&quot; folder into there. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Airbender_Speed"> /u/Airbender_Speed </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irnbey/support_on_updating_spiderman_2/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irnbey/support_on_updating_spiderman_2/">[comments]</a></span>
+
+## Cracking bias fx 2 (amp simulator app)
+ - [https://www.reddit.com/r/CrackSupport/comments/1irmv3b/cracking_bias_fx_2_amp_simulator_app](https://www.reddit.com/r/CrackSupport/comments/1irmv3b/cracking_bias_fx_2_amp_simulator_app)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:48:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>I need to crack an amplifier simulator called bias fx 2 and need help. I have not cracked many programs before.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Responsible-Ebb-1964"> /u/Responsible-Ebb-1964 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irmv3b/cracking_bias_fx_2_amp_simulator_app/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irmv3b/cracking_bias_fx_2_amp_simulator_app/">[comments]</a></span>
+
+## Is this anything to be scared of?
+ - [https://www.reddit.com/r/CrackSupport/comments/1irmltl/is_this_anything_to_be_scared_of](https://www.reddit.com/r/CrackSupport/comments/1irmltl/is_this_anything_to_be_scared_of)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:37:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1irmltl/is_this_anything_to_be_scared_of/"> <img src="https://a.thumbs.redditmedia.com/ExKZOw-tuRCnnuQQmwI75jJ1S4ojiuj2utdtJwTaPF4.jpg" alt="Is this anything to be scared of?" title="Is this anything to be scared of?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I got sims 4 off of fitgirl and im getting all these warnings</p> <p><a href="https://preview.redd.it/1u4tmjbcypje1.png?width=1220&amp;format=png&amp;auto=webp&amp;s=3b8f63723ab44b923098cda7f31e91dee4de5253">https://preview.redd.it/1u4tmjbcypje1.png?width=1220&amp;format=png&amp;auto=webp&amp;s=3b8f63723ab44b923098cda7f31e91dee4de5253</a></p> </div><!-- SC_ON --> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irmltl/is_this_anything_to_be_scared_of/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irmltl/is_this_anything_to_be_scared_of/">[comments]</a></span> </td></tr></table>
+
+## Hogwarts legacy doesnt wanna open
+ - [https://www.reddit.com/r/CrackSupport/comments/1irke6s/hogwarts_legacy_doesnt_wanna_open](https://www.reddit.com/r/CrackSupport/comments/1irke6s/hogwarts_legacy_doesnt_wanna_open)
+ - RSS feed: $source
+ - date published: 2025-02-17T13:57:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>I already tried disabling anti virus and other fixes and it just wont work, i heard the issue is Windows 11 24h2 version but is there any way to fix it withouth downgrading?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ramdomsigmaperson"> /u/ramdomsigmaperson </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irke6s/hogwarts_legacy_doesnt_wanna_open/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irke6s/hogwarts_legacy_doesnt_wanna_open/">[comments]</a></span>
+
+## Any safe site to download celeste from
+ - [https://www.reddit.com/r/CrackSupport/comments/1irkc8q/any_safe_site_to_download_celeste_from](https://www.reddit.com/r/CrackSupport/comments/1irkc8q/any_safe_site_to_download_celeste_from)
+ - RSS feed: $source
+ - date published: 2025-02-17T13:54:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have celeste on my ps5 but i really want to try speedrunning with advance techs and i dont to buy it again since it feels like a waste of money . Also instructions for the download proccess would be helpfull</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Intention5647"> /u/No_Intention5647 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irkc8q/any_safe_site_to_download_celeste_from/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irkc8q/any_safe_site_to_download_celeste_from/">[comments]</a></span>
+
+## Gta 5 crack
+ - [https://www.reddit.com/r/CrackSupport/comments/1irk3kq/gta_5_crack](https://www.reddit.com/r/CrackSupport/comments/1irk3kq/gta_5_crack)
+ - RSS feed: $source
+ - date published: 2025-02-17T13:42:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ciao ragazzi ho istallato gta 5 ed ho scaricato anche la crack quando metto i file della crack nel gioco appena lo apro mi dice che non possiede la licenza di steam cosa posso fare x risolvere </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Priority-6351"> /u/No-Priority-6351 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irk3kq/gta_5_crack/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irk3kq/gta_5_crack/">[comments]</a></span>
+
+## Assassins’ Creed Valhalla crack fix!
+ - [https://www.reddit.com/r/CrackSupport/comments/1irewsn/assassins_creed_valhalla_crack_fix](https://www.reddit.com/r/CrackSupport/comments/1irewsn/assassins_creed_valhalla_crack_fix)
+ - RSS feed: $source
+ - date published: 2025-02-17T08:04:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>For anyone who isn’t still over with the AC Valhalla crack and wondering a fix, here’s the “crack fix” that worked out for me. </p> <p>Just Copy the crack file into the game directory.</p> <p>Hope this helps!</p> <p>edit ; it’s for the “Complete Edition ver-1.7 by Empress, and this is only useful for those who cannot run it on Win 11 24H2 version.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Odd-Health-2015"> /u/Odd-Health-2015 </a> <br/> <span><a href="https://drive.google.com/file/d/1bnnHdVVL43lb2muJ04VrCZ2a9LCnUUVr/view?usp=share_link">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irewsn/assassins_creed_valhalla_crack_fix/">[comments]</a></span>
+
+## MegaDB Download Problem
+ - [https://www.reddit.com/r/CrackSupport/comments/1ire83h/megadb_download_problem](https://www.reddit.com/r/CrackSupport/comments/1ire83h/megadb_download_problem)
+ - RSS feed: $source
+ - date published: 2025-02-17T07:14:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ire83h/megadb_download_problem/"> <img src="https://b.thumbs.redditmedia.com/OljxghlUe75rFQBE2Pd33J5--HjY8Pi1s1_NP6-et6I.jpg" alt="MegaDB Download Problem" title="MegaDB Download Problem" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I&#39;m new to pirating, and just started using steamrip to download things. GoFile seems to work great, but when I download things on MegaDb, this error code pops up. I&#39;ve looked into it, and disabled windows defender, but that didn&#39;t solve the problem. Any help would be appreciated &lt;3<br/> (For more info, i&#39;m clicking the download from MegaDb, running it through free download manager, and then attempting to open it, so I might just be messing up)</p> <p><a href="https://preview.redd.it/9s63xmwrgnje1.png?width=522&amp;format=png&amp;auto=webp&amp;s=8a190229fb93768a8b35f22485c4f199c45907d7">https://preview.redd.it/9s63xmwrgnje1.png?width=522&amp;format=png&amp;
+
+## RDR1 fitgirl repack
+ - [https://www.reddit.com/r/CrackSupport/comments/1irdu4k/rdr1_fitgirl_repack](https://www.reddit.com/r/CrackSupport/comments/1irdu4k/rdr1_fitgirl_repack)
+ - RSS feed: $source
+ - date published: 2025-02-17T06:47:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>So i downloaded the rdr1 setup from fitgirl and the setup file was malicious + my cpu or my memory usage was 100% while downloading the game, is that normal? Is the rdr1 setup file malicious?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Specialist-Gur-4035"> /u/Specialist-Gur-4035 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irdu4k/rdr1_fitgirl_repack/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irdu4k/rdr1_fitgirl_repack/">[comments]</a></span>
+
+## Hogwarts legacy not opening
+ - [https://www.reddit.com/r/CrackSupport/comments/1irdkkz/hogwarts_legacy_not_opening](https://www.reddit.com/r/CrackSupport/comments/1irdkkz/hogwarts_legacy_not_opening)
+ - RSS feed: $source
+ - date published: 2025-02-17T06:29:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>I downloaded hogwarts legacy from empress&#39;s website but I heard the game doesn&#39;t work on the latest windows 11 version. Is there a safe website that provides a fix for this? Whenever I click the game to launch it nothing happens. I saw a YT video called &quot;Hogwarts legacy Not lunching Windows 11 24H2 Dodi repack Crack Fix 100% Working&quot; that provides a fix but im not sure if the website he linked is safe since its not in the megathread. If anyone can help me with this id appreciate it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/entropic-decayz"> /u/entropic-decayz </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irdkkz/hogwarts_legacy_not_opening/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irdkkz/hogwarts_legacy_not_opening/">[comments]</a></span>
+
+## error while downloading battlefield 2
+ - [https://www.reddit.com/r/CrackSupport/comments/1ird4nv/error_while_downloading_battlefield_2](https://www.reddit.com/r/CrackSupport/comments/1ird4nv/error_while_downloading_battlefield_2)
+ - RSS feed: $source
+ - date published: 2025-02-17T06:01:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was downloading battlefield 2 from canek77 but it is showing isarc.dll error how can i fix it ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutomaticReport7575"> /u/AutomaticReport7575 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ird4nv/error_while_downloading_battlefield_2/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ird4nv/error_while_downloading_battlefield_2/">[comments]</a></span>
+
+## Minecraft Dungeons Controls not working
+ - [https://www.reddit.com/r/CrackSupport/comments/1ircvdm/minecraft_dungeons_controls_not_working](https://www.reddit.com/r/CrackSupport/comments/1ircvdm/minecraft_dungeons_controls_not_working)
+ - RSS feed: $source
+ - date published: 2025-02-17T05:46:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I installed the DODI repack of the game and my controls aren&#39;t responding. Assistance would be appreciated </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Best-Function6213"> /u/Best-Function6213 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ircvdm/minecraft_dungeons_controls_not_working/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ircvdm/minecraft_dungeons_controls_not_working/">[comments]</a></span>
+
+## Is SteamRip safe?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ircmte/is_steamrip_safe](https://www.reddit.com/r/CrackSupport/comments/1ircmte/is_steamrip_safe)
+ - RSS feed: $source
+ - date published: 2025-02-17T05:31:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>First time pirating, and I wanted to know if steamrip dot com is safe to use. From what I understand, it’s not a scam or anything, but I’m worried if it’ll get caught by my isp, and if I need to buy a vpn to prevent that. Thank you &lt;3</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fun_Description_8909"> /u/Fun_Description_8909 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ircmte/is_steamrip_safe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ircmte/is_steamrip_safe/">[comments]</a></span>
+
+## how do i get lua for barotruama to work
+ - [https://www.reddit.com/r/CrackSupport/comments/1irck3n/how_do_i_get_lua_for_barotruama_to_work](https://www.reddit.com/r/CrackSupport/comments/1irck3n/how_do_i_get_lua_for_barotruama_to_work)
+ - RSS feed: $source
+ - date published: 2025-02-17T05:26:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>i dragged over the mod from my official steam game to the localmods folder on cracked and set the server executable to lua but in game it says in lualess?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/meepman12214"> /u/meepman12214 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irck3n/how_do_i_get_lua_for_barotruama_to_work/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irck3n/how_do_i_get_lua_for_barotruama_to_work/">[comments]</a></span>
+
+## GENERALS COMMAND AND CONQUER
+ - [https://www.reddit.com/r/CrackSupport/comments/1ir9jx7/generals_command_and_conquer](https://www.reddit.com/r/CrackSupport/comments/1ir9jx7/generals_command_and_conquer)
+ - RSS feed: $source
+ - date published: 2025-02-17T02:36:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi masters, does anyone keep this game to your drive?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dry_Negotiation_5353"> /u/Dry_Negotiation_5353 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir9jx7/generals_command_and_conquer/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir9jx7/generals_command_and_conquer/">[comments]</a></span>
+
+## Is there any way to stop 'steam required'?
+ - [https://www.reddit.com/r/CrackSupport/comments/1ir793j/is_there_any_way_to_stop_steam_required](https://www.reddit.com/r/CrackSupport/comments/1ir793j/is_there_any_way_to_stop_steam_required)
+ - RSS feed: $source
+ - date published: 2025-02-17T00:38:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ir793j/is_there_any_way_to_stop_steam_required/"> <img src="https://preview.redd.it/xtsa27jxhlje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a031dc4b0a906314601fbdf74c119d36735e2d0" alt="Is there any way to stop 'steam required'?" title="Is there any way to stop 'steam required'?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I&#39;m running this game via bootles on Linux. I tried to run it on Steam, but they say it can&#39;t be run because it&#39;s a modification and that it&#39;s not a Steam game. </p> <p>If I delete any steam DLL folder or disable it would it stop working?</p> <p>I&#39;m using Ubuntu </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bobslegenda1945"> /u/Bobslegenda1945 </a> <br/> <span><a href="https://i.redd.it/xtsa27jxhlje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir793j/is_there_any_way
+
+## Help to change Borderlands 3 language
+ - [https://www.reddit.com/r/CrackSupport/comments/1ir6p9a/help_to_change_borderlands_3_language](https://www.reddit.com/r/CrackSupport/comments/1ir6p9a/help_to_change_borderlands_3_language)
+ - RSS feed: $source
+ - date published: 2025-02-17T00:11:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>i installed Borderlands 3 from fitgirl and i want it in italian, even tho i selected onyl the italian checkbox on the installation program it still is in english, i tried to change language on the steam_emu thingy but didnt work, plus i dont have this codex.ini i&#39;ve seen a lot of threads talking about. any help?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AngryPotato2708"> /u/AngryPotato2708 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir6p9a/help_to_change_borderlands_3_language/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ir6p9a/help_to_change_borderlands_3_language/">[comments]</a></span>
+

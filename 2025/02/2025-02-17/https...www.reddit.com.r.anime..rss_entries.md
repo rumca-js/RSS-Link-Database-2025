@@ -1,0 +1,226 @@
+# Source:/r/Anime, URL:https://www.reddit.com/r/anime/.rss, language:en
+
+## [Rewatch] Yuuki Yuuna Franchise Rewatch Continuation (Dai Mankai no Shou + YuYuYu Churutto) 1-Week Reminder
+ - [https://www.reddit.com/r/anime/comments/1irw7ls/rewatch_yuuki_yuuna_franchise_rewatch](https://www.reddit.com/r/anime/comments/1irw7ls/rewatch_yuuki_yuuna_franchise_rewatch)
+ - RSS feed: $source
+ - date published: 2025-02-17T22:01:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>This is your reminder that the Yuuki Yuuna rewatch enters overtime with WaSuYu and Yuusha no Shou in one week! Be there or, well, you wouldn&#39;t want to disrespect udon now, would you?</p> <hr/> <h2>Show Information:</h2> <h3>Dai Mankai no Shou:</h3> <p><strong>Synopsis:</strong> </p> <p>The magical girls of the Sanshu Middle School Hero Club have one goal: to make people smile whenever they can and to always help those in need. Through teamwork and the help of their magical powers, Yuna, Mimori, Fuu, Itsuki, Karin and Sonoko have vanquished deadly Vertexes, recovered a missing friend and balanced their lives as magical girls and regular middle school students. Now a new adventure begins, one that will test their skills and their bond as friends alike.</p> <p><em>(Taken from AniList (though it&#39;s the same as the AniDB one), seems inoffensive enough.)</em></p> <p><strong>Additional Show Information:</strong></p> <p><a href="https://myanimelist.ne
+
+## [Rewatch] 3-episode rule 1960s anime – Speed Racer (episode 3)
+ - [https://www.reddit.com/r/anime/comments/1irw6on/rewatch_3episode_rule_1960s_anime_speed_racer](https://www.reddit.com/r/anime/comments/1irw6on/rewatch_3episode_rule_1960s_anime_speed_racer)
+ - RSS feed: $source
+ - date published: 2025-02-17T22:00:12+00:00
+
+<!-- SC_OFF --><div class="md"><h1>Rewatch: 3-episode rule 1960s anime – Speed Racer (episode 3)</h1> <p><a href="https://www.reddit.com/r/anime/comments/1ir3uny/rewatch_3episode_rule_1960s_anime_speed_racer/">&lt;- previous post</a> | <a href="https://www.reddit.com/r/anime/comments/1htplqv/rewatch_3episode_rule_1960s_anime_astro_boy/">index</a></p> <h2>Speed Racer (1967)</h2> <p><a href="https://myanimelist.net/anime/1445/Mach_GoGoGo">MAL</a> | <a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=776">ANN</a> | <a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=1787">AniDB</a> | <a href="https://anilist.co/anime/1445/Mach-GoGoGo">Anilist</a></p> <h2>Production trivia</h2> <p>Some background on the creation of Speed Racer (Mach 5 Gogogo), thanks to Wikipedia: “Yoshida got his idea for the story after seeing two films that were very popular in Japan at the time, Viva Las Vegas and Goldfinger. By combining the look of Elvis Presley&#39;s race-car driving 
+
+## [Rewatch] Fire Force - Episode 16 Discussion
+ - [https://www.reddit.com/r/anime/comments/1irup6v/rewatch_fire_force_episode_16_discussion](https://www.reddit.com/r/anime/comments/1irup6v/rewatch_fire_force_episode_16_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-17T21:00:06+00:00
+
+<!-- SC_OFF --><div class="md"><h1><a href="https://i.imgur.com/dogmDAW.png">Episode 16 - We are family</a></h1> <p><em>I wonder if people’s feelings and bonds have a form. Does every family eventually fall apart? Pop and Gramps died, and it destroyed my family. Then again, the three of us are still family, even after death. Those bonds don’t break. I want to build unbreakable bonds like those!</em> </p> <p>_____________________________________________________________________________________________________________________</p> <p>&lt;--- <a href="https://www.reddit.com/r/anime/comments/1ir2g36/rewatch_fire_force_episode_15_discussion/">Previous mission</a> | <a href="https://www.reddit.com/r/anime/s/TDp0bb1Jaw">Great flame of fire (Index)</a> | Next mission ---&gt;</p> <p>_____________________________________________________________________________________________________________________</p> <p><strong>OP 2</strong> ---&gt; <a href="https://v.animethemes.moe/EnenNoShouboutai-OP2-NCBD
+
+## Best romance Anime without ANY miscommunication
+ - [https://www.reddit.com/r/anime/comments/1irtgzw/best_romance_anime_without_any_miscommunication](https://www.reddit.com/r/anime/comments/1irtgzw/best_romance_anime_without_any_miscommunication)
+ - RSS feed: $source
+ - date published: 2025-02-17T20:10:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>I watched &quot;A sign of affection&quot; yesterday and it brought my love for romance Anime back to life. Then I started another romance Anime and realized why I stopped watching. I hate miscommunication tropes. I hate it, I don&#39;t want to be convinced otherwise, I think most of the time it&#39;s just lazy writing.</p> <p>Do you have any recommendations for good romance Anime that fits this criterium?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/luna_likes_penguins"> /u/luna_likes_penguins </a> <br/> <span><a href="https://www.reddit.com/r/anime/comments/1irtgzw/best_romance_anime_without_any_miscommunication/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1irtgzw/best_romance_anime_without_any_miscommunication/">[comments]</a></span>
+
+## Is Gintama that good?
+ - [https://www.reddit.com/r/anime/comments/1irrekk/is_gintama_that_good](https://www.reddit.com/r/anime/comments/1irrekk/is_gintama_that_good)
+ - RSS feed: $source
+ - date published: 2025-02-17T18:49:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi y&#39;all,</p> <p>I was checking myanimelist for recommendations after finishing Frieren and Skip &amp; Loafer (highly recommend!!) and noticed the Gintama series has 6 of the top 20 spots. </p> <p>I&#39;ll probably check the show out regardless (starting with episode 3, apparently), but I also wanted to ask if the show is that good, or just has a very disciplined fanbase over on MAL? I tend to shy away from more classic Shonen (ie Bleach, HxH), but I&#39;d like to give it a try.</p> <p>Thanks, and no shade thrown if Gintama is your favorite.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/goombus03"> /u/goombus03 </a> <br/> <span><a href="https://www.reddit.com/r/anime/comments/1irrekk/is_gintama_that_good/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1irrekk/is_gintama_that_good/">[comments]</a></span>
+
+## With Sequels Being Announced so Often Nowadays, what Remaining Shows Could Still do with Another Season? (Aside from the Most Obvious Ones...)
+ - [https://www.reddit.com/r/anime/comments/1irqy0h/with_sequels_being_announced_so_often_nowadays](https://www.reddit.com/r/anime/comments/1irqy0h/with_sequels_being_announced_so_often_nowadays)
+ - RSS feed: $source
+ - date published: 2025-02-17T18:31:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Of course there&#39;s the obvious choices such Land of the Lustrous, Kaguya-Sama and Bloom in to You etc...</p> <p>Mieruko-Chan was a really fun and I wanted to see more</p> <p>Dark Gathering gets so much more crazier later in the manga and deserves an anime continuation imo</p> <p>Gleipnir - I know not everyone enjoyed this one, but I thought it stood out quite a bit and wanted to see where the story continues on</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bonvantius"> /u/Bonvantius </a> <br/> <span><a href="https://www.reddit.com/r/anime/comments/1irqy0h/with_sequels_being_announced_so_often_nowadays/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1irqy0h/with_sequels_being_announced_so_often_nowadays/">[comments]</a></span>
+
+## Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita • I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic - Episode 8 discussion
+ - [https://www.reddit.com/r/anime/comments/1irqkdh/botsuraku_yotei_no_kizoku_dakedo_hima_datta_kara](https://www.reddit.com/r/anime/comments/1irqkdh/botsuraku_yotei_no_kizoku_dakedo_hima_datta_kara)
+ - RSS feed: $source
+ - date published: 2025-02-17T18:16:36+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita</em>, episode 8</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/im-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/58437/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/176063">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18536">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/im-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic">Anime-Planet</a></li> <li><a href="https://botsurakukizoku-anime.com/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong
+
+## Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai • Medaka Kuroiwa is Impervious to My Charms - Episode 7 discussion
+ - [https://www.reddit.com/r/anime/comments/1iroptf/kuroiwa_medaka_ni_watashi_no_kawaii_ga_tsuujinai](https://www.reddit.com/r/anime/comments/1iroptf/kuroiwa_medaka_ni_watashi_no_kawaii_ga_tsuujinai)
+ - RSS feed: $source
+ - date published: 2025-02-17T17:04:32+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai</em>, episode 7</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/medaka-kuroiwa-is-impervious-to-my-charms">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/58853/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/177552">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18627">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/medaka-kuroiwa-is-impervious-to-my-charms">Anime-Planet</a></li> <li><a href="https://monaxmedaka.com/">Official Website</a></li> <li><strong><a href="/r/MonaXMedaka">/r/MonaXMedaka</a></strong></li> <li><strong><a href="/r/MyCharmsarewasted">/r/MyCharmsarewasted</a>
+
+## Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi • Headhunted to Another World: From Salaryman to Big Four! - Episode 8 discussion
+ - [https://www.reddit.com/r/anime/comments/1irmtmn/salaryman_ga_isekai_ni_ittara_shitennou_ni_natta](https://www.reddit.com/r/anime/comments/1irmtmn/salaryman_ga_isekai_ni_ittara_shitennou_ni_natta)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:46:33+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi</em>, episode 8</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/headhunted-to-another-world-from-salaryman-to-big-four">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/59349/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/179689">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18768">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/headhunted-to-another-world-from-salaryman-to-big-four">Anime-Planet</a></li> <li><a href="https://salaryman-big4.com/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</
+
+## Forget the Power of Friendship, Use the Power of Grief and Elder Entity Cthulhu Instead 「Sentai Red Isekai de Boukensha ni Naru」
+ - [https://www.reddit.com/r/anime/comments/1irm6pn/forget_the_power_of_friendship_use_the_power_of](https://www.reddit.com/r/anime/comments/1irm6pn/forget_the_power_of_friendship_use_the_power_of)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:19:07+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/EnderHorizon"> /u/EnderHorizon </a> <br/> <span><a href="https://v.redd.it/cvmwbt7qupje1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1irm6pn/forget_the_power_of_friendship_use_the_power_of/">[comments]</a></span>
+
+## Gomah vs everyone [Dragon Ball Daima]
+ - [https://www.reddit.com/r/anime/comments/1irlv9r/gomah_vs_everyone_dragon_ball_daima](https://www.reddit.com/r/anime/comments/1irlv9r/gomah_vs_everyone_dragon_ball_daima)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:05:14+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/The_frost__"> /u/The_frost__ </a> <br/> <span><a href="https://v.redd.it/8nei8s9gspje1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1irlv9r/gomah_vs_everyone_dragon_ball_daima/">[comments]</a></span>
+
+## Arifureta Shokugyou de Sekai Saikyou Season 3 • Arifureta: From Commonplace to World's Strongest Season 3 - Episode 16 discussion - FINAL
+ - [https://www.reddit.com/r/anime/comments/1irlutt/arifureta_shokugyou_de_sekai_saikyou_season_3](https://www.reddit.com/r/anime/comments/1irlutt/arifureta_shokugyou_de_sekai_saikyou_season_3)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:04:42+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Arifureta Shokugyou de Sekai Saikyou Season 3</em>, episode 16</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/arifureta-from-commonplace-to-worlds-strongest">Crunchyroll</a></li> <li><a href="https://www.hulu.com/series/arifureta-from-commonplace-to-worlds-strongest-f3ebfa6a-c651-4e2b-b939-6c46dec8a66a">Hulu</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/52995/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/154473">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=17615">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/arifureta-from-commonplace-to-worlds-strongest-3rd-season">Anime-Planet</a></li> <li><a href="https://arifureta.com/">Offici
+
+## Tohai - Ura Rate Mahjong Tohai Roku - Episode 18 discussion
+ - [https://www.reddit.com/r/anime/comments/1irlfvn/tohai_ura_rate_mahjong_tohai_roku_episode_18](https://www.reddit.com/r/anime/comments/1irlfvn/tohai_ura_rate_mahjong_tohai_roku_episode_18)
+ - RSS feed: $source
+ - date published: 2025-02-17T14:46:42+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Tohai - Ura Rate Mahjong Tohai Roku</em>, episode 18</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <p><em>None</em></p> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/57796/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/173263">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18404">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/touhai-ura-rate-mahjong-touhai-roku">Anime-Planet</a></li> <li><a href="https://tohai-anime.com/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th> <th align="center">Episode</th> <th align="center">Link</th> </tr> </thead><tbody> <tr> <td align="center">1</td
+
+## Mahoutsukai no Yakusoku • Promise of Wizard - Episode 7 discussion
+ - [https://www.reddit.com/r/anime/comments/1irl6p0/mahoutsukai_no_yakusoku_promise_of_wizard_episode](https://www.reddit.com/r/anime/comments/1irl6p0/mahoutsukai_no_yakusoku_promise_of_wizard_episode)
+ - RSS feed: $source
+ - date published: 2025-02-17T14:34:42+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Mahoutsukai no Yakusoku</em>, episode 7</p> <p>Alternative names: <em>Mahotsukai no Yakusoku</em></p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/promise-of-wizard">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/57152/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/170916">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18599">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/promise-of-wizard">Anime-Planet</a></li> <li><a href="https://sh-anime.shochiku.co.jp/mahoyaku-anime/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</
+
+## Kono Kaisha ni Suki na Hito ga Imasu • I Have a Crush at Work - Episode 7 discussion
+ - [https://www.reddit.com/r/anime/comments/1irkk0b/kono_kaisha_ni_suki_na_hito_ga_imasu_i_have_a](https://www.reddit.com/r/anime/comments/1irkk0b/kono_kaisha_ni_suki_na_hito_ga_imasu_i_have_a)
+ - RSS feed: $source
+ - date published: 2025-02-17T14:04:41+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Kono Kaisha ni Suki na Hito ga Imasu</em>, episode 7</p> <p>Alternative names: <em>Can You Keep a Secret?</em></p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <p><em>None</em></p> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/59361/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/179696">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18770">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/i-have-a-crush-at-work">Anime-Planet</a></li> <li><a href="https://kaishani-sukinahito.com/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th> </tr> </thead><tbody> <tr> <td align="center">1</td> <td al
+
+## "Miru: Paths To My Future" anime key visual
+ - [https://www.reddit.com/r/anime/comments/1irkhwj/miru_paths_to_my_future_anime_key_visual](https://www.reddit.com/r/anime/comments/1irkhwj/miru_paths_to_my_future_anime_key_visual)
+ - RSS feed: $source
+ - date published: 2025-02-17T14:01:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1irkhwj/miru_paths_to_my_future_anime_key_visual/"> <img src="https://external-preview.redd.it/I9lborI6ijGUqikq0q9umOhiZjZEXbm9aPteb-SxeM4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f748182159b3d71a450731a0f6d61cfa622ba715" alt="&quot;Miru: Paths To My Future&quot; anime key visual" title="&quot;Miru: Paths To My Future&quot; anime key visual" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mr_beanoz"> /u/mr_beanoz </a> <br/> <span><a href="https://ogre.natalie.mu/media/news/comic/2025/0217/miru_kv.jpg?imwidth=750&amp;imdensity=1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1irkhwj/miru_paths_to_my_future_anime_key_visual/">[comments]</a></span> </td></tr></table>
+
+## Top notch Baseball practice [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 - Episode 5).
+ - [https://www.reddit.com/r/anime/comments/1irkegk/top_notch_baseball_practice_the_100_girlfriends](https://www.reddit.com/r/anime/comments/1irkegk/top_notch_baseball_practice_the_100_girlfriends)
+ - RSS feed: $source
+ - date published: 2025-02-17T13:57:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1irkegk/top_notch_baseball_practice_the_100_girlfriends/"> <img src="https://external-preview.redd.it/dzdpdTZuNWtncGplMWmRuMTOf6No5Gvexl-oebip2tlA-_38U5gwNbZ1qjll.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=846dc3dd293c822cf8f9c03385871d956a2ea700" alt="Top notch Baseball practice [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 - Episode 5)." title="Top notch Baseball practice [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 - Episode 5)." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Reignaaldo"> /u/Reignaaldo </a> <br/> <span><a href="https://v.redd.it/729up75fgpje1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1irkegk/top_notch_baseball_practice_the_100_girlfriends/">[comments]</a></span> </td></tr></table>
+
+## Watashi no Shiawase na Kekkon Season 2 • My Happy Marriage Season 2 - Episode 7 discussion
+ - [https://www.reddit.com/r/anime/comments/1irjy56/watashi_no_shiawase_na_kekkon_season_2_my_happy](https://www.reddit.com/r/anime/comments/1irjy56/watashi_no_shiawase_na_kekkon_season_2_my_happy)
+ - RSS feed: $source
+ - date published: 2025-02-17T13:34:40+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Watashi no Shiawase na Kekkon Season 2</em>, episode 7</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <p><em>None</em></p> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/56701/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/169441">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18205">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/my-happy-marriage-2nd-season">Anime-Planet</a></li> <li><a href="https://watakon-anime.com/">Official Website</a></li> <li><strong><a href="/r/MyHappyMarriage">/r/MyHappyMarriage</a></strong></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th> </tr> </thead><tbody> <tr> <td align=
+
+## Look Back Anime Film Director, Producers Win Fujimoto Award
+ - [https://www.reddit.com/r/anime/comments/1irjk4m/look_back_anime_film_director_producers_win](https://www.reddit.com/r/anime/comments/1irjk4m/look_back_anime_film_director_producers_win)
+ - RSS feed: $source
+ - date published: 2025-02-17T13:14:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1irjk4m/look_back_anime_film_director_producers_win/"> <img src="https://external-preview.redd.it/y3CIxx6yDuG58KPnxvN1mWFAwGzoogrW0J9wSLszb-Q.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b88b59c91eabb2b7da4c618741893339981359be" alt="Look Back Anime Film Director, Producers Win Fujimoto Award" title="Look Back Anime Film Director, Producers Win Fujimoto Award" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Turbostrider27"> /u/Turbostrider27 </a> <br/> <span><a href="https://www.animenewsnetwork.com/news/2025-02-17/look-back-anime-film-director-producers-win-fujimoto-award/.221306">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1irjk4m/look_back_anime_film_director_producers_win/">[comments]</a></span> </td></tr></table>
+
+## Kadokawa Acquires Chiptune to Strengthen Anime Production and Compositing Capabilities
+ - [https://www.reddit.com/r/anime/comments/1irjgi0/kadokawa_acquires_chiptune_to_strengthen_anime](https://www.reddit.com/r/anime/comments/1irjgi0/kadokawa_acquires_chiptune_to_strengthen_anime)
+ - RSS feed: $source
+ - date published: 2025-02-17T13:09:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1irjgi0/kadokawa_acquires_chiptune_to_strengthen_anime/"> <img src="https://external-preview.redd.it/7iRDS9iEZEN3P4ph0orBMmPFa-M35j9yuKLwbwGqfFA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=419bd915cbabd2a95e81c9bc7c72be7cc0bf32a3" alt="Kadokawa Acquires Chiptune to Strengthen Anime Production and Compositing Capabilities" title="Kadokawa Acquires Chiptune to Strengthen Anime Production and Compositing Capabilities" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdNecessary7641"> /u/AdNecessary7641 </a> <br/> <span><a href="https://animecorner.me/kadokawa-acquires-chiptune-to-strengthen-anime-production-and-compositing-capabilities/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1irjgi0/kadokawa_acquires_chiptune_to_strengthen_anime/">[comments]</a></span> </td></tr></table>
+
+## My Love is a Stapler [K-On!]
+ - [https://www.reddit.com/r/anime/comments/1irj774/my_love_is_a_stapler_kon](https://www.reddit.com/r/anime/comments/1irj774/my_love_is_a_stapler_kon)
+ - RSS feed: $source
+ - date published: 2025-02-17T12:55:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1irj774/my_love_is_a_stapler_kon/"> <img src="https://external-preview.redd.it/ZTVueXZnM2k1cGplMRZjOBLnZMCX2Y9Rs6wxSSOXqKIHYcZixvs3EURIoZty.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=386546aa6c8b4c23d1d33f65042609c7236aec23" alt="My Love is a Stapler [K-On!]" title="My Love is a Stapler [K-On!]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ShuaoXp"> /u/ShuaoXp </a> <br/> <span><a href="https://v.redd.it/h1s5kybi5pje1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1irj774/my_love_is_a_stapler_kon/">[comments]</a></span> </td></tr></table>
+
+## "Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite" manga gets TV anime adaptation which will air this year
+ - [https://www.reddit.com/r/anime/comments/1irii8z/hitozuma_no_kuchibiru_wa_kan_chuuhai_no_aji_ga](https://www.reddit.com/r/anime/comments/1irii8z/hitozuma_no_kuchibiru_wa_kan_chuuhai_no_aji_ga)
+ - RSS feed: $source
+ - date published: 2025-02-17T12:15:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1irii8z/hitozuma_no_kuchibiru_wa_kan_chuuhai_no_aji_ga/"> <img src="https://external-preview.redd.it/XwOcFPCYqxDzmccythX0j7KxcNXBKR6VgPSgMkL8S1A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0167a54425f3fcf90cf0a0d2c002fbcc11a10c63" alt="&quot;Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite&quot; manga gets TV anime adaptation which will air this year" title="&quot;Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite&quot; manga gets TV anime adaptation which will air this year" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mr_beanoz"> /u/mr_beanoz </a> <br/> <span><a href="https://natalie.mu/comic/news/612069">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1irii8z/hitozuma_no_kuchibiru_wa_kan_chuuhai_no_aji_ga/">[comments]</a></span> </td></tr></table>
+
+## One of my favorite anime title drop sequences [Log Horizon - Episode 6]
+ - [https://www.reddit.com/r/anime/comments/1irglq3/one_of_my_favorite_anime_title_drop_sequences_log](https://www.reddit.com/r/anime/comments/1irglq3/one_of_my_favorite_anime_title_drop_sequences_log)
+ - RSS feed: $source
+ - date published: 2025-02-17T10:06:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1irglq3/one_of_my_favorite_anime_title_drop_sequences_log/"> <img src="https://external-preview.redd.it/OXl5Znhvc3phb2plMf_5sNn0YTCNB57Ln2GtMCks11NHbfP60zTX3zgXzF-P.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2ba810a810798ba62a29557dd97bfe76704af4ad" alt="One of my favorite anime title drop sequences [Log Horizon - Episode 6]" title="One of my favorite anime title drop sequences [Log Horizon - Episode 6]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/__THOTSlay3r__"> /u/__THOTSlay3r__ </a> <br/> <span><a href="https://v.redd.it/jbc3kqszaoje1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1irglq3/one_of_my_favorite_anime_title_drop_sequences_log/">[comments]</a></span> </td></tr></table>
+
+## Anime Questions, Recommendations, and Discussion - February 17, 2025
+ - [https://www.reddit.com/r/anime/comments/1irgj4f/anime_questions_recommendations_and_discussion](https://www.reddit.com/r/anime/comments/1irgj4f/anime_questions_recommendations_and_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-17T10:01:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1irgj4f/anime_questions_recommendations_and_discussion/"> <img src="https://external-preview.redd.it/ggekANVFD2Ayr0xG2VOqVk5-ssfe_pe_ZH8gGQKdG-o.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=22a485bdc6271fa4ed3b6ffd5752b74a7aa0f59e" alt="Anime Questions, Recommendations, and Discussion - February 17, 2025" title="Anime Questions, Recommendations, and Discussion - February 17, 2025" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This is a daily megathread for general chatter about anime. Have questions or need recommendations? Here to show off your merch? Want to talk about what you just watched?</p> <p><a href="https://preview.redd.it/8gxlnghw5hje1.png?width=2879&amp;format=png&amp;auto=webp&amp;s=3ad805a9bd3f9e2f4ece5f30a1aae105026eb94e">This is the place!</a></p> <p><a href="/r/anime/wiki/rules#wiki_tagging_comments"><strong>All spoilers must be tagged.</strong></a> Use <code>[anime name]</code> to indicate t
+
+## Kessoku Band - Flashbacker (LIVE, played by the band VA cast)
+ - [https://www.reddit.com/r/anime/comments/1irghvv/kessoku_band_flashbacker_live_played_by_the_band](https://www.reddit.com/r/anime/comments/1irghvv/kessoku_band_flashbacker_live_played_by_the_band)
+ - RSS feed: $source
+ - date published: 2025-02-17T09:59:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1irghvv/kessoku_band_flashbacker_live_played_by_the_band/"> <img src="https://external-preview.redd.it/zYQyyULasFrEPVGj2gdlY_KkwmbjBDT8Y_fvotv4AxM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=03af1d6b454cba24995cb1ce9067368c030b94f7" alt="Kessoku Band - Flashbacker (LIVE, played by the band VA cast)" title="Kessoku Band - Flashbacker (LIVE, played by the band VA cast)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/awdsns"> /u/awdsns </a> <br/> <span><a href="https://www.youtube.com/watch?v=A7nKFqPHPLw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1irghvv/kessoku_band_flashbacker_live_played_by_the_band/">[comments]</a></span> </td></tr></table>
+
+## Most BRUTAL Anime Beatdowns That Were TOTALLY Deserved!
+ - [https://www.reddit.com/r/anime/comments/1irg522/most_brutal_anime_beatdowns_that_were_totally](https://www.reddit.com/r/anime/comments/1irg522/most_brutal_anime_beatdowns_that_were_totally)
+ - RSS feed: $source
+ - date published: 2025-02-17T09:33:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1irg522/most_brutal_anime_beatdowns_that_were_totally/"> <img src="https://external-preview.redd.it/bo9pRC3TciAZnGdZsjtRPbw242jGycYHRBii12FkdQo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8e67e4951cc7c6234764159486edb57958968473" alt="Most BRUTAL Anime Beatdowns That Were TOTALLY Deserved!" title="Most BRUTAL Anime Beatdowns That Were TOTALLY Deserved!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gkun09"> /u/Gkun09 </a> <br/> <span><a href="https://youtu.be/zVFuTYsfa8k">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1irg522/most_brutal_anime_beatdowns_that_were_totally/">[comments]</a></span> </td></tr></table>
+
+## Alya really lights up my world!
+ - [https://www.reddit.com/r/anime/comments/1irel0n/alya_really_lights_up_my_world](https://www.reddit.com/r/anime/comments/1irel0n/alya_really_lights_up_my_world)
+ - RSS feed: $source
+ - date published: 2025-02-17T07:40:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1irel0n/alya_really_lights_up_my_world/"> <img src="https://external-preview.redd.it/dWZwcndzbTlsbmplMcS9VILZ_Fd21-gmLjJgsgUAN4MLAP0XZeLCpafWLqKz.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bdf6d17e580e1ea2023a94fd20c3d599401851c4" alt="Alya really lights up my world!" title="Alya really lights up my world!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Source: <a href="https://www.reddit.com/r/KujouAlisaMikhailovna/s/U9fx1kkRh4">https://www.reddit.com/r/KujouAlisaMikhailovna/s/U9fx1kkRh4</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Aka69420"> /u/Aka69420 </a> <br/> <span><a href="https://v.redd.it/ys6x79t9lnje1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1irel0n/alya_really_lights_up_my_world/">[comments]</a></span> </td></tr></table>
+
+## I’m looking for an anime help!
+ - [https://www.reddit.com/r/anime/comments/1irdp85/im_looking_for_an_anime_help](https://www.reddit.com/r/anime/comments/1irdp85/im_looking_for_an_anime_help)
+ - RSS feed: $source
+ - date published: 2025-02-17T06:38:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>There&#39;s a kid that is hooked up to a life support machine, and he missing his eyes and other body parts. A scientist or docter transplants his eye to the boy so he can he. And at the end the boy is taken outside to see the outside for the last time and is unplugged </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SignificantYoung2855"> /u/SignificantYoung2855 </a> <br/> <span><a href="https://www.reddit.com/r/anime/comments/1irdp85/im_looking_for_an_anime_help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1irdp85/im_looking_for_an_anime_help/">[comments]</a></span>
+
+## Hard request Looking for a long shonen anime with atleast 100 episodes that is story based and have enjoyable characters.
+ - [https://www.reddit.com/r/anime/comments/1ird3yg/hard_request_looking_for_a_long_shonen_anime_with](https://www.reddit.com/r/anime/comments/1ird3yg/hard_request_looking_for_a_long_shonen_anime_with)
+ - RSS feed: $source
+ - date published: 2025-02-17T06:00:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>My 3 favourite anime are 1. One piece 2. Bleach 3. Fullmetal alchemist brotherhood. I’ve seen most the popular ones. Dragon ball, hxh, Naruto, Rurouni kenshin, fate series, fairy tale, 7 deadly sins, aot, death note, black clover, yu yu hakusho and Gintama. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/luffytoro_"> /u/luffytoro_ </a> <br/> <span><a href="https://www.reddit.com/r/anime/comments/1ird3yg/hard_request_looking_for_a_long_shonen_anime_with/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ird3yg/hard_request_looking_for_a_long_shonen_anime_with/">[comments]</a></span>
+
+## Cozy Story Rich Anime?
+ - [https://www.reddit.com/r/anime/comments/1irbcqv/cozy_story_rich_anime](https://www.reddit.com/r/anime/comments/1irbcqv/cozy_story_rich_anime)
+ - RSS feed: $source
+ - date published: 2025-02-17T04:16:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently watched “Ascendence of a Bookworm”, “My Happy Marriage”, and “Apothecary Diaries”. I feel like they are all cozy anime’s that you can curl up with tea and chill out. I especially liked the “current world knowledge” applied to an old world setting of AoaB and AD. I also liked how some of them had fantasy elements, but it wasn’t the purpose of the entire show. Are there any other cozy recommendations you would have like these?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Maximum-Astronaut449"> /u/Maximum-Astronaut449 </a> <br/> <span><a href="https://www.reddit.com/r/anime/comments/1irbcqv/cozy_story_rich_anime/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1irbcqv/cozy_story_rich_anime/">[comments]</a></span>
+
+## 『Kusuriya no Hitorigoto』2nd Season Mini Anime「Maomao no Hitorigoto」#30
+ - [https://www.reddit.com/r/anime/comments/1ira3hv/kusuriya_no_hitorigoto2nd_season_mini_animemaomao](https://www.reddit.com/r/anime/comments/1ira3hv/kusuriya_no_hitorigoto2nd_season_mini_animemaomao)
+ - RSS feed: $source
+ - date published: 2025-02-17T03:06:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ira3hv/kusuriya_no_hitorigoto2nd_season_mini_animemaomao/"> <img src="https://external-preview.redd.it/aATAdls1rx0ApOJwG9Cvgv4mxVqPVkXh23RFG648YBA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0401e10cb6fdbf38526bf52794492bdb0d4b4b23" alt="『Kusuriya no Hitorigoto』2nd Season Mini Anime「Maomao no Hitorigoto」#30" title="『Kusuriya no Hitorigoto』2nd Season Mini Anime「Maomao no Hitorigoto」#30" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/inspyral"> /u/inspyral </a> <br/> <span><a href="https://www.youtube.com/watch?v=bANkdPu27MI">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ira3hv/kusuriya_no_hitorigoto2nd_season_mini_animemaomao/">[comments]</a></span> </td></tr></table>
+
+## Kara no Kyoukai • The Garden of Sinners - Anime of the Week
+ - [https://www.reddit.com/r/anime/comments/1ir6h18/kara_no_kyoukai_the_garden_of_sinners_anime_of](https://www.reddit.com/r/anime/comments/1ir6h18/kara_no_kyoukai_the_garden_of_sinners_anime_of)
+ - RSS feed: $source
+ - date published: 2025-02-17T00:00:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ir6h18/kara_no_kyoukai_the_garden_of_sinners_anime_of/"> <img src="https://external-preview.redd.it/W1T5CsFrUCyaumsaVIsaVpwtc7Mi5StLJ-Xg6rM7e-w.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c5cbe19bb641b2715f4e131c3c76b43620da7a20" alt="Kara no Kyoukai • The Garden of Sinners - Anime of the Week" title="Kara no Kyoukai • The Garden of Sinners - Anime of the Week" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Welcome to the weekly Anime of the Week Discussion Thread! Each week, we&#39;re here to discuss various older anime series. Today we are discussing..</p> <p><a href="https://preview.redd.it/7pu0s7073lje1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=153e7e008f78dd506a6cb3a5cdc25ea84d9c1206">Kara no Kyoukai • The Garden of Sinners</a></p> <p>A series of eerily similar suicides occupy newspaper headlines in late &#39;90s Japan. Amidst all the bizarre resemblances, there is one detail that stands out abo
+

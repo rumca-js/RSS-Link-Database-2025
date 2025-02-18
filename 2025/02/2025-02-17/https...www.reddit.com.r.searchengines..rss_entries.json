@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-17T17:41:47+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>My private email address was posted on a forum when I was talking to a support agent for a software I use. The email address has a custom domain for the business and it\u2019s not something that\u2019s being used for public communication, only to sign into all the softwares I use. I do everything to keep this email address private to prevent anyone from using it to brute force into any of my accounts (like banks, email platform, business softwares, etc) since it\u2019s not public or used for communications like like other emails. </p> <p>I immediately told them to remove it and they did. But now whenever I search up the business domain, this forum post shows up as one of the top results with the email address showing in the preview of that result even though that email address has been edited out from the comment in the forum. I feel like anyone searching up the business domain on search engines will see this private email on the first page, I don\u2019t want the public",
+        "id": 2134258,
+        "language": null,
+        "link": "https://www.reddit.com/r/searchengines/comments/1irpnqn/will_my_email_address_show_up_on_google_forever",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Will my email address show up on Google forever in this situation?",
+        "vote": 0
+    }
+]

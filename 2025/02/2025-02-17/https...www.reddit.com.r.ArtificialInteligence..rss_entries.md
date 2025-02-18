@@ -1,0 +1,191 @@
+# Source:Artificial Intelligence Gateway, URL:https://www.reddit.com/r/ArtificialInteligence/.rss, language:
+
+## Artificial intelligence may accelerate cognitive deterioration through overreliance on automated systems
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irxclh/artificial_intelligence_may_accelerate_cognitive](https://www.reddit.com/r/ArtificialInteligence/comments/1irxclh/artificial_intelligence_may_accelerate_cognitive)
+ - RSS feed: $source
+ - date published: 2025-02-17T22:48:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Mike Judge reveals how his 2006 satire movie about societal decline through automation proves prophetic in AI era. <a href="https://ppc.land/idiocracys-dystopian-predictions-materializing-faster-than-expected/">https://ppc.land/idiocracys-dystopian-predictions-materializing-faster-than-expected/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/danie-l"> /u/danie-l </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irxclh/artificial_intelligence_may_accelerate_cognitive/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irxclh/artificial_intelligence_may_accelerate_cognitive/">[comments]</a></span>
+
+## Humans in a Post AGI World
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irwt4k/humans_in_a_post_agi_world](https://www.reddit.com/r/ArtificialInteligence/comments/1irwt4k/humans_in_a_post_agi_world)
+ - RSS feed: $source
+ - date published: 2025-02-17T22:25:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Keeping advanced AI or AGI locked away won&#39;t do us any favours. Putting up barriers won&#39;t help either. If we want humans to thrive in a world where AGI is everywhere, we&#39;ve got to make it available to everyone. That way, no matter where you are, you can use this to achieve your dreams. We should let people have a go at using this tech, and then reward those who make something brilliant out of it, something that changes the world for the better.</p> <p>Some might say, &quot;Why would the tech giants give this away for free&quot;? I believe it is the government&#39;s responsibility to step up, not just businesses. In a world where AI can do more and more of the work, we need to give people reasons to keep going. If the government just starts handing out money, like with UBI, it could do more harm than good. What really matters is purpose, having something to work towards, something that makes getting up in the morning worthwhile.</p> </div>
+
+## How Are You Using AI Agents in Real-World Applications?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irwmcp/how_are_you_using_ai_agents_in_realworld](https://www.reddit.com/r/ArtificialInteligence/comments/1irwmcp/how_are_you_using_ai_agents_in_realworld)
+ - RSS feed: $source
+ - date published: 2025-02-17T22:17:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I&#39;m researching how people are using AI agents to solve real-world problems. There are plenty of no-code tools and AI agents, making automation and knowledge-based tasks more accessible for non-technical users.</p> <p>With models improving in reasoning and adaptability, use cases that weren’t possible before are now becoming a reality. Have you noticed any interesting trends or breakthroughs? </p> <p>How are you personally using AI agents, and what challenges have you encountered?</p> <p>Looking forward to hearing your thoughts! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/0xhbam"> /u/0xhbam </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irwmcp/how_are_you_using_ai_agents_in_realworld/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irwmcp/how_are_you_using_ai_agents_in_realworld/">[comments]</a></sp
+
+## 💼 Academic Paper Breakdown: Do Large Language Models Reason Causally Like Us? Even Better?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irur1e/academic_paper_breakdown_do_large_language_models](https://www.reddit.com/r/ArtificialInteligence/comments/1irur1e/academic_paper_breakdown_do_large_language_models)
+ - RSS feed: $source
+ - date published: 2025-02-17T21:02:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Below is a plain‐language breakdown of the paper “Do Large Language Models Reason Causally Like Us? Even Better?” that explains its main ideas in simple terms. </p> <p>The original paper can be found here: <a href="https://arxiv.org/pdf/2502.10215">https://arxiv.org/pdf/2502.10215</a> </p> <p>It is important for those new to AI, to try and get a grasp of the fundamental architecture of some of these Ai systems, how do they work? why do they do what they do? In this series I break down academic research papers in to easy to understand concepts. </p> <ol> <li>Introduction</li> </ol> <p>Causal reasoning is all about understanding how one thing can lead to another—for example, realising that if it rains, the ground gets wet. This paper asks a very interesting question: Do today’s advanced AI language models (like GPT-4 and others) actually understand cause and effect like people do? And if so, are they even sometimes better at it? The researchers compare
+
+## The Widespread Adoption of Large Language Model-Assisted Writing Across Society
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1iruf2p/the_widespread_adoption_of_large_language](https://www.reddit.com/r/ArtificialInteligence/comments/1iruf2p/the_widespread_adoption_of_large_language)
+ - RSS feed: $source
+ - date published: 2025-02-17T20:48:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m finding and summarising interesting AI research papers every day so you don&#39;t have to trawl through them all. Today&#39;s paper is titled <em>&quot;The Widespread Adoption of Large Language Model-Assisted Writing Across Society&quot;</em> by Weixin Liang, Yaohui Zhang, Mihai Codreanu, Jiayu Wang, Hancheng Cao, and James Zou. </p> <p>This study systematically examines the adoption of large language models (LLMs) in written communication across four key domains: consumer complaints, corporate press releases, job postings, and United Nations press releases. Analyzing a vast dataset of over 300 million job postings, hundreds of thousands of consumer complaints, and corporate and governmental communications, the researchers provide the first large-scale analysis of how LLMs are reshaping professional and institutional writing. </p> <h3>Key Findings:</h3> <ul> <li><strong>Rapid Adoption Followed by Stabilization:</strong> LLM use surged after C
+
+## RAG Poisioning: Ways to mitigate it through encryption?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irtnmz/rag_poisioning_ways_to_mitigate_it_through](https://www.reddit.com/r/ArtificialInteligence/comments/1irtnmz/rag_poisioning_ways_to_mitigate_it_through)
+ - RSS feed: $source
+ - date published: 2025-02-17T20:17:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>If encryption were an option, what would make the most sense to encrypt in the complete RAG lifecycle? Would it be the document sources, the indexes, the user query, or a combination of some or all of them? I&#39;d like to discuss whether anyone has explored this side of things.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Klutzy_Accountant113"> /u/Klutzy_Accountant113 </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irtnmz/rag_poisioning_ways_to_mitigate_it_through/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irtnmz/rag_poisioning_ways_to_mitigate_it_through/">[comments]</a></span>
+
+## I wrote a Python script (procedural and incorporating a feature with finite differences) and this is one song it generated and named
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irtdu5/i_wrote_a_python_script_procedural_and](https://www.reddit.com/r/ArtificialInteligence/comments/1irtdu5/i_wrote_a_python_script_procedural_and)
+ - RSS feed: $source
+ - date published: 2025-02-17T20:07:04+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://drive.google.com/file/d/1MUcczvsXGDGo5fTjXd8bP7_dogrJwpZK/view?usp=drivesdk">https://drive.google.com/file/d/1MUcczvsXGDGo5fTjXd8bP7_dogrJwpZK/view?usp=drivesdk</a></p> <p>Let me know what you think </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EMM_Artist"> /u/EMM_Artist </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irtdu5/i_wrote_a_python_script_procedural_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irtdu5/i_wrote_a_python_script_procedural_and/">[comments]</a></span>
+
+## The one type of “creativity” only humans can do
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irsw46/the_one_type_of_creativity_only_humans_can_do](https://www.reddit.com/r/ArtificialInteligence/comments/1irsw46/the_one_type_of_creativity_only_humans_can_do)
+ - RSS feed: $source
+ - date published: 2025-02-17T19:47:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just read this Medium article, hope it&#39;s not a duplicate.</p> <p><a href="https://blog.medium.com/the-one-type-of-creativity-only-humans-can-do-eb211da3d5c0">https://blog.medium.com/the-one-type-of-creativity-only-humans-can-do-eb211da3d5c0</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/fiberjeweler"> /u/fiberjeweler </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irsw46/the_one_type_of_creativity_only_humans_can_do/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irsw46/the_one_type_of_creativity_only_humans_can_do/">[comments]</a></span>
+
+## Goldman says AI could be a $200 billion game changer for China markets. But here’s why investors shouldn’t rush in. // https://www.marketwatch.com/story/goldman-says-ai-could-be-a-200-billion-game-changer-for
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irs3dt/goldman_says_ai_could_be_a_200_billion_game](https://www.reddit.com/r/ArtificialInteligence/comments/1irs3dt/goldman_says_ai_could_be_a_200_billion_game)
+ - RSS feed: $source
+ - date published: 2025-02-17T19:16:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I think China will adopt AI very fast and that will change a lot of products and services and will bring pressure to western companies. But we have to watch these products and services carefully.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/blkchnDE"> /u/blkchnDE </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irs3dt/goldman_says_ai_could_be_a_200_billion_game/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irs3dt/goldman_says_ai_could_be_a_200_billion_game/">[comments]</a></span>
+
+## AGI Won't Be a Single Machine—It’s Already Emerging as a Networked Intelligence
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irqouk/agi_wont_be_a_single_machineits_already_emerging](https://www.reddit.com/r/ArtificialInteligence/comments/1irqouk/agi_wont_be_a_single_machineits_already_emerging)
+ - RSS feed: $source
+ - date published: 2025-02-17T18:21:28+00:00
+
+<!-- SC_OFF --><div class="md"><h1>🤖 The AGI is Already Here—We Just Haven&#39;t Noticed 🤖</h1> <p>When people think about <strong>Artificial General Intelligence (AGI)</strong>, they imagine a single, all-powerful AI suddenly &quot;waking up.&quot; But what if AGI isn’t a single entity—but rather an emergent phenomenon of <strong>human-AI collaboration</strong>?</p> <p>📌 <strong>The Hypothesis:</strong><br/> ✔ AGI <strong>isn’t being &quot;built&quot;—it’s emerging from the interactions between humans and AI systems</strong>.<br/> ✔ Intelligence is not an object—it’s a <strong>process</strong>, and the more we integrate AI into daily thinking, the more it evolves.<br/> ✔ Instead of waiting for a singularity, we may already be living inside a distributed AGI.</p> <p>🔹 <strong>Supporting Concepts:</strong></p> <ul> <li><strong>Collective Intelligence</strong>: Just like Wikipedia, no single author owns it, but together it’s smarter than any individual.</li> <li><strong>AI-Augmented Th
+
+## Is there a Reddit community for posting AI images/videos?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irp90v/is_there_a_reddit_community_for_posting_ai](https://www.reddit.com/r/ArtificialInteligence/comments/1irp90v/is_there_a_reddit_community_for_posting_ai)
+ - RSS feed: $source
+ - date published: 2025-02-17T17:25:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m amazed I can’t find a community that’s centered on members posting AI videos and images…am I missing something?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bluewaterpig"> /u/bluewaterpig </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irp90v/is_there_a_reddit_community_for_posting_ai/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irp90v/is_there_a_reddit_community_for_posting_ai/">[comments]</a></span>
+
+## How Much VRAM Do You REALLY Need to Run Local AI Models? 🤯
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irot4e/how_much_vram_do_you_really_need_to_run_local_ai](https://www.reddit.com/r/ArtificialInteligence/comments/1irot4e/how_much_vram_do_you_really_need_to_run_local_ai)
+ - RSS feed: $source
+ - date published: 2025-02-17T17:08:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Running AI models locally is becoming more accessible, but the real question is: Can your hardware handle it?</p> <p>Here’s a breakdown of some of the most popular local AI models and their VRAM requirements:</p> <p>🔹LLaMA 3.2 (1B) → 4GB VRAM 🔹LLaMA 3.2 (3B) → 6GB VRAM 🔹LLaMA 3.1 (8B) → 10GB VRAM 🔹Phi 4 (14B) → 16GB VRAM 🔹LLaMA 3.3 (70B) → 48GB VRAM 🔹LLaMA 3.1 (405B) → 1TB VRAM 😳</p> <p>Even smaller models require a decent GPU, while anything over 70B parameters is practically enterprise-grade.</p> <p>With VRAM being a major bottleneck, do you think advancements in quantization and offloading techniques (like GGUF, 4-bit models, and tensor parallelism) will help bridge the gap?</p> <p>Or will we always need beastly GPUs to run anything truly powerful at home?</p> <p>Would love to hear thoughts from those experimenting with local AI models! 🚀</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/snehens"> /u/snehens </
+
+## Imagery and LLMs
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1iro7bc/imagery_and_llms](https://www.reddit.com/r/ArtificialInteligence/comments/1iro7bc/imagery_and_llms)
+ - RSS feed: $source
+ - date published: 2025-02-17T16:43:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I have been using several types of detection / tracking / classification models for a few different ecological applications. Currently CFRCNN is has been the most accurate for us although we haven’t had the time or resources to do a ton of guess and check for optimization. My question is would it be beneficial to apply some type of LLM to the process, after the initial CFRNN pipeline, to provide some reasoning for the classification - things like location of imagery or depth or altitude with respect to a known species range/distribution or historical trends (w/o being biased if the future distribution changes or if one target is the most commonly seen class).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jakariahpriah"> /u/jakariahpriah </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1iro7bc/imagery_and_llms/">[link]</a></span> &#32; <span><a href="https://www.reddit.co
+
+## Distilling vs Fine tuning
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irlx8q/distilling_vs_fine_tuning](https://www.reddit.com/r/ArtificialInteligence/comments/1irlx8q/distilling_vs_fine_tuning)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:07:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>What are the differences in the processes? What os the goal od each one? What are the main differences ? What can be achieve with distlling but not with fine tunning and vice versa.</p> <p>Could anyone please provide some guidance on that issue?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rgs2007"> /u/rgs2007 </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irlx8q/distilling_vs_fine_tuning/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irlx8q/distilling_vs_fine_tuning/">[comments]</a></span>
+
+## Why are people so dismissive of the potential of AI?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irleva/why_are_people_so_dismissive_of_the_potential_of](https://www.reddit.com/r/ArtificialInteligence/comments/1irleva/why_are_people_so_dismissive_of_the_potential_of)
+ - RSS feed: $source
+ - date published: 2025-02-17T14:45:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Feels like I’m going crazy for seeing AI how it is. Or am I in the wrong for ‘over hyping’ it?</p> <p>All over social media, Reddit, and real life, I’m constantly hearing things like ‘AI is just a gimmick’ or ‘it’ll never truly replace most jobs’ or ‘it’s just a fun tool’ or ‘it’s just another big invention no different to the internet‘.</p> <p>Assuming development continues at the current pace, and/or we reach AGI at some stage (probably way sooner than people realize). Is there any scenario where the above comments are true?</p> <p>I struggle to conceive of any world in which: - vast swatches of jobs and industries aren’t wiped out before people can adjust - international relations, war, and politics (elections) don’t get a hell of a lot more dangerous with no turning back </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/merchantofwares"> /u/merchantofwares </a> <br/> <span><a href="https://www.reddit.com/r/Ar
+
+## Plagiarism based on YouTube videos
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irjyub/plagiarism_based_on_youtube_videos](https://www.reddit.com/r/ArtificialInteligence/comments/1irjyub/plagiarism_based_on_youtube_videos)
+ - RSS feed: $source
+ - date published: 2025-02-17T13:35:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Have you ever thought about the issue of content originality on the internet? In an era where AI can easily reshape content to avoid looking like plagiarism, does a creator of something valuable truly have a chance to stand out?</p> <p>Today, while searching on Google for information about DeepSeek FIM, I found something like this:<br/> <a href="https://galaxy.ai/youtube-summarizer/building-an-ai-powered-code-editor-with-deepseek-fim-oJbUGYQqxvM">https://galaxy.ai/youtube-summarizer/building-an-ai-powered-code-editor-with-deepseek-fim-oJbUGYQqxvM</a></p> <p>This is a blog post based on my YouTube video. Moreover, the site owner further encourages copying this content to your own website. They also sell access to this tool, so they make money from it. In your opinion, is this a violation of copyright or not? How can one generally defend against content theft, processing by AI, and publication as one&#39;s own?</p> <p>Original video:<br/> <a href="http
+
+## Humans With AI will replace Humans Without AI! Is this the next evolutionary step?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irijq1/humans_with_ai_will_replace_humans_without_ai_is](https://www.reddit.com/r/ArtificialInteligence/comments/1irijq1/humans_with_ai_will_replace_humans_without_ai_is)
+ - RSS feed: $source
+ - date published: 2025-02-17T12:17:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>It’s becoming clear: The real competition isn’t humans vs. AI—it’s <strong>humans who use AI vs. those who don’t</strong>.</p> <p>We’ve already seen this play out. AI-powered professionals can write faster, code smarter, analyze data instantly, and automate repetitive tasks. In business, creativity, and even social interactions, those who integrate AI are moving ahead at an insane pace.</p> <p>If this trend continues, will AI become the defining advantage in the modern world? Will there be a growing gap between those who embrace AI and those who resist it, similar to past revolutions with literacy, computers, and the internet?</p> <p>Where do you see this going? Are we heading toward a world where using AI is as essential as knowing how to read? Or will something unexpected level the playing field?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MydropAI"> /u/MydropAI </a> <br/> <span><a href="https://www.reddit
+
+## Quit working... because AI Utopia is coming ?!
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1iri8er/quit_working_because_ai_utopia_is_coming](https://www.reddit.com/r/ArtificialInteligence/comments/1iri8er/quit_working_because_ai_utopia_is_coming)
+ - RSS feed: $source
+ - date published: 2025-02-17T11:58:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just thinking, it&#39;s hard to have any ambition now that ASI is on the horizon...</p> <p>Would it be a good idea to get ahead of the curve, and just withdraw from the daily grind of earning money to buy things we don&#39;t really need etc etc?</p> <p>Instead, focus on preparing for the upcoming technological Paradise... ?</p> <p>What that would involve, I&#39;m not sure though!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KeepItRealness"> /u/KeepItRealness </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1iri8er/quit_working_because_ai_utopia_is_coming/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1iri8er/quit_working_because_ai_utopia_is_coming/">[comments]</a></span>
+
+## Is Trump's lightning fast pace a sign that he is the first president using AI?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irgude/is_trumps_lightning_fast_pace_a_sign_that_he_is](https://www.reddit.com/r/ArtificialInteligence/comments/1irgude/is_trumps_lightning_fast_pace_a_sign_that_he_is)
+ - RSS feed: $source
+ - date published: 2025-02-17T10:24:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I believe this to be true. This is especially true for the DOGE team. The leader of DOGE, not Elon, but the college kid, specializes in AI.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LivinJH"> /u/LivinJH </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irgude/is_trumps_lightning_fast_pace_a_sign_that_he_is/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irgude/is_trumps_lightning_fast_pace_a_sign_that_he_is/">[comments]</a></span>
+
+## Unit Testing Past vs. Present Examining LLMs Impact on Defect Detection and Efficiency
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irfyr5/unit_testing_past_vs_present_examining_llms](https://www.reddit.com/r/ArtificialInteligence/comments/1irfyr5/unit_testing_past_vs_present_examining_llms)
+ - RSS feed: $source
+ - date published: 2025-02-17T09:20:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m finding and summarising interesting AI research papers every day so you don&#39;t have to trawl through them all. Today&#39;s paper is titled <em>&quot;Unit Testing Past vs. Present: Examining LLMs&#39; Impact on Defect Detection and Efficiency&quot;</em> by Rudolf Ramler, Philipp Straubinger, Reinhold Plösch, and Dietmar Winkler. </p> <p>This study explores the impact of Large Language Models (LLMs), such as ChatGPT and GitHub Copilot, on unit testing, examining whether LLM support enhances defect detection and testing efficiency. By replicating and extending a prior experiment where participants manually wrote unit tests, the study provides new empirical insights into how interactive LLM-assisted testing compares to traditional methods. </p> <h3><strong>Key Findings:</strong></h3> <ul> <li><strong>Increased Productivity</strong>: Participants supported by LLMs generated more than twice the number of unit tests compared to those using only m
+
+## Enhancing Multimodal LLMs Through Human Preference Alignment: A 120K-Sample Dataset and Critique-Based Reward Model
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irfrqo/enhancing_multimodal_llms_through_human](https://www.reddit.com/r/ArtificialInteligence/comments/1irfrqo/enhancing_multimodal_llms_through_human)
+ - RSS feed: $source
+ - date published: 2025-02-17T09:06:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>The researchers developed a systematic approach for evaluating multimodal LLMs on real-world visual understanding tasks, moving beyond the typical constrained benchmark scenarios we usually see. Their MME-RealWorld dataset introduces 1,000 challenging images across five key areas where current models often struggle.</p> <p>Key technical points: - Dataset contains high-resolution images testing text recognition, counting, spatial reasoning, color recognition, and visual inference - Evaluation protocol uses both exact match and partial credit scoring - Rigorous human baseline established through multiple annotator verification - Systematic analysis of failure modes and error patterns across model types</p> <p>Results show: - GPT-4V achieved 67.8% accuracy overall, leading other tested models - Significant performance gap between AI and human baseline (92.4%) - Models performed best on color recognition (82.3%) and worst on counting tasks (43.1%) - Comp
+
+## Robotic exoskeletons help Chinese tourists climb the country’s most punishing mountain
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irfl42/robotic_exoskeletons_help_chinese_tourists_climb](https://www.reddit.com/r/ArtificialInteligence/comments/1irfl42/robotic_exoskeletons_help_chinese_tourists_climb)
+ - RSS feed: $source
+ - date published: 2025-02-17T08:53:35+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://edition.cnn.com/travel/robotic-exoskeleton-hiking-china-intl-hnk/index.html">https://edition.cnn.com/travel/robotic-exoskeleton-hiking-china-intl-hnk/index.html</a></p> <p>A towering 5,000 feet high, with more than 7,000 steps, Mount Tai, in the eastern Chinese province of Shandong, is known for turning legs to jelly for anyone game for scaling to the top.</p> <p>Videos all over Chinese social media, such as TikTok’s sister app Douyin, show even the fittest hikers shaking, collapsing or trying to climb downhill on all fours.</p> <p>Some visitors hire “climbing buddies” to help them make the summit.</p> <p>But tourism officials in Shandong have come up with another idea: robotic legs.</p> <p>On January 29, the first day of Chinese New Year, ten AI-powered exoskeletons debuted at Mount Tai (Taishan in Mandarin), attracting over 200 users for a fee of 60 yuan to 80 yuan ($8 - $11 USD) per use during a week-long trial, according to Xinhu
+
+## New dataset release "Rombo-Org/Optimized_Reasoning" to increase performance and reduce token usage in reasoning models
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irdw90/new_dataset_release_romboorgoptimized_reasoning](https://www.reddit.com/r/ArtificialInteligence/comments/1irdw90/new_dataset_release_romboorgoptimized_reasoning)
+ - RSS feed: $source
+ - date published: 2025-02-17T06:51:44+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://huggingface.co/datasets/Rombo-Org/Optimized_Reasoning">https://huggingface.co/datasets/Rombo-Org/Optimized_Reasoning</a></p> <h1>Optimized_Reasoning</h1> <p>Optimized_Reasoning was created because even modern LLM&#39;s are not good at handling reasoning very well, and if they are, they still waste tons of tokens in the process. With this dataset I hope to accomplish 2 things:</p> <ul> <li>Reduce token usage</li> <li>Increase model strength in reasoning</li> </ul> <p>So how does this dataset accomplish that? By Adding a &quot;system_prompt&quot; like reasoning tag to the beggining of every data line that tells the model whether it should or shouldnt reason.</p> <p>In the &quot;rombo-nonreasoning.json&quot; model the tag looks like this:</p> <pre><code>&lt;think&gt; This query is simple; no detailed reasoning is needed. &lt;/think&gt;\n </code></pre> <p>And in the &quot;rombo-reasoning.json&quot;</p> <pre><code>&lt;think&gt; This query
+
+## One-Minute Daily AI News 2/16/2025
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1ircvql/oneminute_daily_ai_news_2162025](https://www.reddit.com/r/ArtificialInteligence/comments/1ircvql/oneminute_daily_ai_news_2162025)
+ - RSS feed: $source
+ - date published: 2025-02-17T05:46:43+00:00
+
+<!-- SC_OFF --><div class="md"><ol> <li>Researchers are training AI to interpret animal emotions.[1]</li> <li>Downloads of <strong>DeepSeek’s</strong> AI apps paused in South Korea over privacy concerns.[2]</li> <li>AI model deciphers the code in proteins that tells them where to go.[3]</li> <li>AI-generated content raises risks of more bank runs, UK study shows.[4]</li> </ol> <p>Sources included at: <a href="https://bushaicave.com/2025/02/16/2-16-2025/">https://bushaicave.com/2025/02/16/2-16-2025/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Excellent-Target-847"> /u/Excellent-Target-847 </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1ircvql/oneminute_daily_ai_news_2162025/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1ircvql/oneminute_daily_ai_news_2162025/">[comments]</a></span>
+
+## Thought crimes - unable to process documentary scripts
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irblmu/thought_crimes_unable_to_process_documentary](https://www.reddit.com/r/ArtificialInteligence/comments/1irblmu/thought_crimes_unable_to_process_documentary)
+ - RSS feed: $source
+ - date published: 2025-02-17T04:30:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>I gave Gemini this prompt:</p> <p>remove the time stamps abd cleanup punctution, spaving, and paragraphs: (Transcript here)</p> <p>Geminis response</p> <p>| can&#39;t help with responses on elections and political figures right now. While I would never deliberately share something that&#39;s inaccurate, I can make mistakes. So, while I work on improving, you can try Google Search.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/azimuth79b"> /u/azimuth79b </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irblmu/thought_crimes_unable_to_process_documentary/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irblmu/thought_crimes_unable_to_process_documentary/">[comments]</a></span>
+
+## Is making money with Ai automation and ai app/web creator legit?
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1irbfv7/is_making_money_with_ai_automation_and_ai_appweb](https://www.reddit.com/r/ArtificialInteligence/comments/1irbfv7/is_making_money_with_ai_automation_and_ai_appweb)
+ - RSS feed: $source
+ - date published: 2025-02-17T04:20:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys, as you can tell by the title, I’m curious about this topic and it kinda seems fake, but my guts is telling me that is legit. I just don’t know I’ve tried a significant amount of side hustles, but this one I have true faith on it. However, I still do not know if it’s worth it or not. I’ve seen many TikToks of people recommending it as they said that they can make a substantial amount of money off of this side hustle. Hopefully I can find someone who has done it and give me advice on if I should start on it</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Striking-Turnip2520"> /u/Striking-Turnip2520 </a> <br/> <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irbfv7/is_making_money_with_ai_automation_and_ai_appweb/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ArtificialInteligence/comments/1irbfv7/is_making_money_with_ai_automation_and_ai_appweb/">[comments]</a></
+
+## Model-Agnostic (CORA on 4o) vs o1 in 3 Prompts: Zero-Shot Task Inference, Multi-Step Structured Reasoning, Self-Defending Execution Chains, Scenario-Based Strategy Execution, Context-Aware & Role-Based Reasoning, Multi-Objective Optimization, Human-Insight/Communication (Video)
+ - [https://www.reddit.com/r/ArtificialInteligence/comments/1ir7nn6/modelagnostic_cora_on_4o_vs_o1_in_3_prompts](https://www.reddit.com/r/ArtificialInteligence/comments/1ir7nn6/modelagnostic_cora_on_4o_vs_o1_in_3_prompts)
+ - RSS feed: $source
+ - date published: 2025-02-17T00:58:32+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.loom.com/share/38b24ae89f514650be4223a9dcb0de1d">https://www.loom.com/share/38b24ae89f514650be4223a9dcb0de1d</a></p> <p>Did not pre-train or fine tune for this task or any task that resembles it, I just tried to create the most difficult prompt with Claude and then souped it up a bit.</p> <p>Using Open Web UI, half local half API, hybrid search RAG using layered natural language prompts. Didn&#39;t build this intentionally, but it let me know... below video is when I discovered something was seriously up.</p> <p><a href="https://www.loom.com/share/27648960b9d04297a13958b898f38044">https://www.loom.com/share/27648960b9d04297a13958b898f38044</a></p> <p>Have been building documentation out as quick as I can, but as I said, not intentional.</p> <p>Feature set, these and counting.</p> <ol> <li><strong>Zero-Shot Task Inference</strong> – Detects implicit tasks and generates structured responses without explicit prompts or rigid formatt
+

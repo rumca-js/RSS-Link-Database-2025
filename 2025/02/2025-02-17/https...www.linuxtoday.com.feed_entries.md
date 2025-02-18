@@ -1,0 +1,66 @@
+# Source:Linux Today, URL:https://www.linuxtoday.com/feed, language:en-US
+
+## KDE Frameworks 6.11 Adds Search Providers for Nix Packages, Docker Hub, and More
+ - [https://www.linuxtoday.com/blog/kde-frameworks-6-11-adds-search-providers-for-nix-packages-docker-hub-and-more](https://www.linuxtoday.com/blog/kde-frameworks-6-11-adds-search-providers-for-nix-packages-docker-hub-and-more)
+ - RSS feed: $source
+ - date published: 2025-02-17T21:24:16+00:00
+
+<p>KDE Frameworks 6.11 continues the monthly KDE Frameworks releases with new search providers for KRunner and KRunner-powered search fields, including Docker Hub, Mozilla Developer Network, and Nix Packages.</p>
+<p>The post <a href="https://www.linuxtoday.com/blog/kde-frameworks-6-11-adds-search-providers-for-nix-packages-docker-hub-and-more/">KDE Frameworks 6.11 Adds Search Providers for Nix Packages, Docker Hub, and More</a> appeared first on <a href="https://www.linuxtoday.com">Linux Today</a>.</p>
+
+## Arch Linux-Based EndeavourOS Mercury Lands with Linux Kernel 6.13 and Xfce 4.20
+ - [https://www.linuxtoday.com/blog/arch-linux-based-endeavouros-mercury-lands-with-linux-kernel-6-13-and-xfce-4-20](https://www.linuxtoday.com/blog/arch-linux-based-endeavouros-mercury-lands-with-linux-kernel-6-13-and-xfce-4-20)
+ - RSS feed: $source
+ - date published: 2025-02-17T21:01:02+00:00
+
+<p>Powered by the latest and greatest Linux 6.13 kernel series, EndeavourOS Mercury comes with the KDE Plasma 6.2.5 desktop environment on both the live environment and the offline installation option, as well as the latest Xfce 4.20 desktop environment, which is available as an option during the installation.</p>
+<p>The post <a href="https://www.linuxtoday.com/blog/arch-linux-based-endeavouros-mercury-lands-with-linux-kernel-6-13-and-xfce-4-20/">Arch Linux-Based EndeavourOS Mercury Lands with Linux Kernel 6.13 and Xfce 4.20</a> appeared first on <a href="https://www.linuxtoday.com">Linux Today</a>.</p>
+
+## Linux Kernel 6.14 RC2 Released with a Change in Apple Silicon Leadership
+ - [https://www.linuxtoday.com/blog/linux-kernel-6-14-rc2-released-with-a-change-in-apple-silicon-leadership](https://www.linuxtoday.com/blog/linux-kernel-6-14-rc2-released-with-a-change-in-apple-silicon-leadership)
+ - RSS feed: $source
+ - date published: 2025-02-17T20:54:42+00:00
+
+<p>Linus Torvalds announced the release of Linux Kernel 6.14 RC2. Kernel 6.14-rc2 is a smaller release with a change in Apple Silicon Leadership.</p>
+<p>The post <a href="https://www.linuxtoday.com/blog/linux-kernel-6-14-rc2-released-with-a-change-in-apple-silicon-leadership/">Linux Kernel 6.14 RC2 Released with a Change in Apple Silicon Leadership</a> appeared first on <a href="https://www.linuxtoday.com">Linux Today</a>.</p>
+
+## Apache NetBeans 24: The Ultimate Open-Source IDE for Modern Development
+ - [https://www.linuxtoday.com/blog/apache-netbeans-24-the-ultimate-open-source-ide-for-modern-development](https://www.linuxtoday.com/blog/apache-netbeans-24-the-ultimate-open-source-ide-for-modern-development)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:20:11+00:00
+
+<p>Apache NetBeans is a powerful, open-source, and award-winning Integrated Development Environment (IDE) that supports a wide range of programming languages and frameworks. It is widely used for developing Java-based web, mobile, and desktop applications, as well as for C/C++, PHP, and other languages. With its rich feature set, extensibility through plugins, and support for the [&#8230;]</p>
+<p>The post <a href="https://www.linuxtoday.com/blog/apache-netbeans-24-the-ultimate-open-source-ide-for-modern-development/">Apache NetBeans 24: The Ultimate Open-Source IDE for Modern Development</a> appeared first on <a href="https://www.linuxtoday.com">Linux Today</a>.</p>
+
+## MongoDB Installation and Usage on Linux
+ - [https://www.linuxtoday.com/blog/mongodb-installation-and-usage-on-linux](https://www.linuxtoday.com/blog/mongodb-installation-and-usage-on-linux)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:15:27+00:00
+
+<p>Learn how to effortlessly install and use MongoDB, the leading open-source document-oriented NoSQL database, on your preferred Linux system.</p>
+<p>The post <a href="https://www.linuxtoday.com/blog/mongodb-installation-and-usage-on-linux/">MongoDB Installation and Usage on Linux</a> appeared first on <a href="https://www.linuxtoday.com">Linux Today</a>.</p>
+
+## PCLinuxOS Recipe Corner Special Edition, Volume 1 Released
+ - [https://www.linuxtoday.com/blog/pclinuxos-recipe-corner-special-edition-volume-1-released](https://www.linuxtoday.com/blog/pclinuxos-recipe-corner-special-edition-volume-1-released)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:10:30+00:00
+
+<p>The PCLinuxOS Magazine staff is pleased to announce the release of the PCLinuxOS Recipe Corner Special Edition, Volume 1 of the PCLinuxOS Magazine. The PCLinuxOS Magazine is a product of the PCLinuxOS community, published by volunteers from the community. The magazine is led by Paul Arnote, Chief Editor, and Assistant Editor Meemaw. The PCLinuxOS Magazine [&#8230;]</p>
+<p>The post <a href="https://www.linuxtoday.com/blog/pclinuxos-recipe-corner-special-edition-volume-1-released/">PCLinuxOS Recipe Corner Special Edition, Volume 1 Released</a> appeared first on <a href="https://www.linuxtoday.com">Linux Today</a>.</p>
+
+## Immich 1.126 Brings Improved Search, UI Enhancements
+ - [https://www.linuxtoday.com/blog/immich-1-126-brings-improved-search-ui-enhancements](https://www.linuxtoday.com/blog/immich-1-126-brings-improved-search-ui-enhancements)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:05:44+00:00
+
+<p>Immich 1.126, a self-hosted photo and video backup solution, enhances search, revamps Places UI, lets you favorite people, and more.</p>
+<p>The post <a href="https://www.linuxtoday.com/blog/immich-1-126-brings-improved-search-ui-enhancements/">Immich 1.126 Brings Improved Search, UI Enhancements</a> appeared first on <a href="https://www.linuxtoday.com">Linux Today</a>.</p>
+
+## EndeavourOS Mercury Brings Fixes, Dark Themes, and Improved Installer
+ - [https://www.linuxtoday.com/blog/endeavouros-mercury-brings-fixes-dark-themes-and-improved-installer](https://www.linuxtoday.com/blog/endeavouros-mercury-brings-fixes-dark-themes-and-improved-installer)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:00:31+00:00
+
+<p>EndeavourOS Mercury landed with Linux kernel 6.13, Plasma 6.2.5, Xfce 4.20, dark themes by default, and better installer functionality.</p>
+<p>The post <a href="https://www.linuxtoday.com/blog/endeavouros-mercury-brings-fixes-dark-themes-and-improved-installer/">EndeavourOS Mercury Brings Fixes, Dark Themes, and Improved Installer</a> appeared first on <a href="https://www.linuxtoday.com">Linux Today</a>.</p>
+

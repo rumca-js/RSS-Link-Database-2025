@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-17T11:52:17+00:00",
+        "description": "Finans\u00f3w wystarczy jeden b\u0142\u0105d, jedno potkni\u0119cie, jedna chwila nieuwagi \u2013 i kto\u015b inny cieszy si\u0119 Twoimi oszcz\u0119dno\u015bciami. Pomog\u0119 Ci tego unikn\u0105\u0107. Cz\u0119\u015b\u0107 porad b\u0119dziesz m\u00f3g\u0142 wprowadzi\u0107 w \u017cycie jeszcze w trakcie tego live'a.",
+        "id": 2131929,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=wdFv1NQqlaw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wdFv1NQqlaw/hqdefault.jpg",
+        "title": "Jak chroni\u0107 swoje pieni\u0105dze w sieci - praktyczne porady",
+        "vote": 0
+    }
+]

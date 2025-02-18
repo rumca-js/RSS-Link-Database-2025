@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-17T15:07:05+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nRecent Concurrency and Parallelism Proposals to the C++ Standard Committee - Paul E. McKenney, Maged Michael & Michael Wong - CppCon 2024\n---\n\nThis talk will highlight the key discussions in ISO C++ parallelism and concurrency related proposals since the last CppCon discussed in the Kona 2023, Tokyo 2024, and St. Louis 2024 C++ standard meetings. We aim to update CppCon attendees every year in this area. We focus on features that are close to standardization, and/or appear to be relatively non-controversial so that you get a look ahead on what is coming for the next C++ release.\n\nThis talk, by the Concurrency TS2 Editors will describe all the features and show how they can be used as well as give their motivation, background and how they fit within the overall framework of C++ parallelism and concurrency.\n\n1. Atomic\n2. Hazard pointer extensions\n3. Pointer Tagging\n4. Parallel Algorithms, Parallel Range algorithms\n\nThere are other features being discussed at th",
+        "id": 2133562,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=WfzvLTXpWG0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WfzvLTXpWG0/hqdefault.jpg",
+        "title": "Recent Concurrency and Parallelism Proposals to the C++ Standard Committee - CppCon 2024",
+        "vote": 0
+    }
+]

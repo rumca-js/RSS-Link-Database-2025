@@ -1,0 +1,37 @@
+# Source:hacking: security in practice, URL:https://www.reddit.com/r/hacking/.rss, language:en
+
+## Looking for a Computer Science & Cybersecurity Tutor (Paid)
+ - [https://www.reddit.com/r/hacking/comments/1irxclu/looking_for_a_computer_science_cybersecurity](https://www.reddit.com/r/hacking/comments/1irxclu/looking_for_a_computer_science_cybersecurity)
+ - RSS feed: $source
+ - date published: 2025-02-17T22:48:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>I need a knowledgeable mentor to help with a specific aspect of my doctoral research. Looking for someone well-versed in fundamental computer science concepts, hacking, and cybersecurity. Willing to pay for your time. If you’re experienced and can break things down clearly, let’s talk!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gtohacker"> /u/gtohacker </a> <br/> <span><a href="https://www.reddit.com/r/hacking/comments/1irxclu/looking_for_a_computer_science_cybersecurity/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1irxclu/looking_for_a_computer_science_cybersecurity/">[comments]</a></span>
+
+## Could a BitLocker key be recovered from a personal device?
+ - [https://www.reddit.com/r/hacking/comments/1irwora/could_a_bitlocker_key_be_recovered_from_a](https://www.reddit.com/r/hacking/comments/1irwora/could_a_bitlocker_key_be_recovered_from_a)
+ - RSS feed: $source
+ - date published: 2025-02-17T22:20:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>Obviously, a third-party tool would be way better for security purposes. but this ships with the system and for basic files does the trick. The question is though, if you ever forget the key, are you toast? I understand chip-off diagnostics might be possible, but the files aren&#39;t so important enough that I&#39;ll try possibly bricking my device by messing around with the hardware without enough knowledge.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/blueredscreen"> /u/blueredscreen </a> <br/> <span><a href="https://www.reddit.com/r/hacking/comments/1irwora/could_a_bitlocker_key_be_recovered_from_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1irwora/could_a_bitlocker_key_be_recovered_from_a/">[comments]</a></span>
+
+## It's been 24 hours since I reported another defaced page on doge.gov
+ - [https://www.reddit.com/r/hacking/comments/1irph6j/its_been_24_hours_since_i_reported_another](https://www.reddit.com/r/hacking/comments/1irph6j/its_been_24_hours_since_i_reported_another)
+ - RSS feed: $source
+ - date published: 2025-02-17T17:34:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve tried tweeting at them and DMs but gotten no responses from anyone yet. Any ideas on how to get this noticed and fixed?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/neopunisher"> /u/neopunisher </a> <br/> <span><a href="https://doge.gov/workforce?orgId=undefined">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1irph6j/its_been_24_hours_since_i_reported_another/">[comments]</a></span>
+
+## DeeperSeek now lets you fully automate most things on DeepSeek, to serve as a lightweight, free API alternative!
+ - [https://www.reddit.com/r/hacking/comments/1irornu/deeperseek_now_lets_you_fully_automate_most](https://www.reddit.com/r/hacking/comments/1irornu/deeperseek_now_lets_you_fully_automate_most)
+ - RSS feed: $source
+ - date published: 2025-02-17T17:06:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>DeeperSeek allows you to automate sending messages and receiving responses from DeepSeeks website, without the need for a chromedriver</p> <p>I added a lot of new features, you can now use multiple accounts and switch easily between them. You can also fully delete all chats, switch between them, switch themes, etc</p> <p>So if you&#39;d like to use DeepSeek in your projects without paying for their API or running it locally, this project is for you!</p> <p>Github: <a href="https://github.com/theAbdoSabbagh/DeeperSeek">https://github.com/theAbdoSabbagh/DeeperSeek</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sxvxge_"> /u/Sxvxge_ </a> <br/> <span><a href="https://www.reddit.com/r/hacking/comments/1irornu/deeperseek_now_lets_you_fully_automate_most/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hacking/comments/1irornu/deeperseek_now_lets_you_fully_automate_most/">[comments]</a></span>
+
+## Security focused travel router
+ - [https://www.reddit.com/r/hacking/comments/1irb0rc/security_focused_travel_router](https://www.reddit.com/r/hacking/comments/1irb0rc/security_focused_travel_router)
+ - RSS feed: $source
+ - date published: 2025-02-17T03:57:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>What is the best security minded travel router running OpenWrt or any other system capable of managing the most packages effectively? I am mainly looking for first hand experience with devices coming well equipped with a firewall and at least two LAN ports for those of us who only use wifi when left with no other option. I am currently running a GL-MT1300 and while it has most of the features I require, I find the performance lack luster as well as having a host of intermittent bugs and various &quot;issues&quot;. It&#39;s the GL-iNet Beryl (Non-AX model) just fyi. I appreciate any input you may offer. Bonus if it can block Youtube Ads (Adblock home isn&#39;t cutting it for me) and I can&#39;t get the NordLynx protocol setup regardless of how many guides I follow or videos I watch. I have both my private and public Keys but can&#39;t get the Wireguard Configuration file to function correctly. I even bought a month of service with one of the two VPNs 
+

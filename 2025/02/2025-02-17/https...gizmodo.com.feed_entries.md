@@ -1,0 +1,121 @@
+# Source:Gizmodo, URL:https://gizmodo.com/feed, language:en
+
+## Trump Administration Wants to Help Get Professional Misogynist Andrew Tate out of Romania
+ - [https://gizmodo.com/trump-administration-wants-to-help-get-professional-misogynist-andrew-tate-out-of-romania-2000564796](https://gizmodo.com/trump-administration-wants-to-help-get-professional-misogynist-andrew-tate-out-of-romania-2000564796)
+ - RSS feed: $source
+ - date published: 2025-02-17T21:40:05+00:00
+
+<img width="1920" height="1080" src="https://gizmodo.com/app/uploads/2023/04/c448dcf1a33a33327996b05ca9dcfdd2.jpg" class="attachment-full size-full wp-post-image" alt="Image: Andreea Campeanu" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2023/04/c448dcf1a33a33327996b05ca9dcfdd2.jpg 1920w, https://gizmodo.com/app/uploads/2023/04/c448dcf1a33a33327996b05ca9dcfdd2-300x169.jpg 300w, https://gizmodo.com/app/uploads/2023/04/c448dcf1a33a33327996b05ca9dcfdd2-1024x576.jpg 1024w, https://gizmodo.com/app/uploads/2023/04/c448dcf1a33a33327996b05ca9dcfdd2-768x432.jpg 768w, https://gizmodo.com/app/uploads/2023/04/c448dcf1a33a33327996b05ca9dcfdd2-512x288.jpg 512w, https://gizmodo.com/app/uploads/2023/04/c448dcf1a33a33327996b05ca9dcfdd2-680x383.jpg 680w, https://gizmodo.com/app/uploads/2023/04/c448dcf1a33a33327996b05ca9dcfdd2-896x504.jpg 896w, https://gizmodo.com/app/uploads/2023/04/c448dcf1a33a33327996b05ca9dcfdd2-1792x1008.jpg 1792w" sizes="(max-width: 1920px) 100vw,
+
+## Severance‘s Views on Grief Are Raw, Real, and Dystopian All at Once
+ - [https://gizmodo.com/severance-season-2-grief-death-apple-2000562540](https://gizmodo.com/severance-season-2-grief-death-apple-2000562540)
+ - RSS feed: $source
+ - date published: 2025-02-17T21:00:53+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Severance-Irv.jpg" class="attachment-full size-full wp-post-image" alt="Severance Irv" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/02/Severance-Irv.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Severance-Irv-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Severance-Irv-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Severance-Irv-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Severance-Irv-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Severance-Irv-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Severance-Irv-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Severance-Irv-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The Apple TV+ sci-fi show has taken a deep interest in funerals, death, and existential loss.
+
+## The Mask of Fear is the Star Wars Book for the Political Moment
+ - [https://gizmodo.com/star-wars-mask-of-fear-review-alexander-freed-andor-disney-2000564336](https://gizmodo.com/star-wars-mask-of-fear-review-alexander-freed-andor-disney-2000564336)
+ - RSS feed: $source
+ - date published: 2025-02-17T19:00:58+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/star-wars-the-mask-of-fear-review.jpg" class="attachment-full size-full wp-post-image" alt="Star Wars The Mask Of Fear Review" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/star-wars-the-mask-of-fear-review.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/star-wars-the-mask-of-fear-review-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/star-wars-the-mask-of-fear-review-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/star-wars-the-mask-of-fear-review-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/star-wars-the-mask-of-fear-review-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/star-wars-the-mask-of-fear-review-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/star-wars-the-mask-of-fear-review-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/star-wars-the-mask-of-fear-review-896x597.jpg 896w" sizes="(max-wid
+
+## Group Claims Washington Post Wouldn’t Run ‘Fire Elon Musk’ Advertisement
+ - [https://gizmodo.com/group-claims-washington-post-wouldnt-run-fire-elon-musk-advertisement-2000564785](https://gizmodo.com/group-claims-washington-post-wouldnt-run-fire-elon-musk-advertisement-2000564785)
+ - RSS feed: $source
+ - date published: 2025-02-17T18:55:11+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/trump-freespeech-eo.jpg" class="attachment-full size-full wp-post-image" alt="Mark Zuckerberg, Lauren Sanchez, Jeff Bezos, Sundar Pichai and Elon Musk stand in a line during the Inauguration of Donald J. Trump in the U.S. Capitol Rotunda." decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/trump-freespeech-eo.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/trump-freespeech-eo-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/trump-freespeech-eo-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/trump-freespeech-eo-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/trump-freespeech-eo-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/trump-freespeech-eo-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/trump-freespeech-eo-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/trump-freespeech-eo-896x597.jpg 896w" sizes="(max-width: 1
+
+## An Ode to President Lisa Simpson
+ - [https://gizmodo.com/president-lisa-the-simpsons-bart-to-the-future-trump-2000564210](https://gizmodo.com/president-lisa-the-simpsons-bart-to-the-future-trump-2000564210)
+ - RSS feed: $source
+ - date published: 2025-02-17T17:00:37+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/President-Lisa-Simpson-The-Simpsons-Disney.jpg" class="attachment-full size-full wp-post-image" alt="President Lisa Simpson The Simpsons Disney" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/President-Lisa-Simpson-The-Simpsons-Disney.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/President-Lisa-Simpson-The-Simpsons-Disney-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/President-Lisa-Simpson-The-Simpsons-Disney-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/President-Lisa-Simpson-The-Simpsons-Disney-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/President-Lisa-Simpson-The-Simpsons-Disney-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/President-Lisa-Simpson-The-Simpsons-Disney-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/President-Lisa-Simpson-The-Simpsons-Disney-680x453.jpg 680w, https://gizmodo.com/app/up
+
+## Shark FlexStyle Air Styling and Drying System Is Now 3x Cheaper Than Dyson Airwrap, and It’s Outselling It
+ - [https://gizmodo.com/shark-flexstyle-air-styling-and-drying-system-is-now-3x-cheaper-than-dyson-airwrap-and-its-outselling-it-2000564226](https://gizmodo.com/shark-flexstyle-air-styling-and-drying-system-is-now-3x-cheaper-than-dyson-airwrap-and-its-outselling-it-2000564226)
+ - RSS feed: $source
+ - date published: 2025-02-17T16:35:22+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/SharkFlexStyle.jpg" class="attachment-full size-full wp-post-image" alt="Sharkflexstyle" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/02/SharkFlexStyle.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/SharkFlexStyle-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/SharkFlexStyle-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/SharkFlexStyle-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/SharkFlexStyle-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/SharkFlexStyle-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/SharkFlexStyle-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/SharkFlexStyle-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The Dyson Airwrap Is $600. The Shark Styling and Drying System is now $210. You do the math.
+
+## Samsung Galaxy Watch Ultra Now Costs the Same as the Entry-Level Apple Watch SE
+ - [https://gizmodo.com/samsung-galaxy-watch-ultra-now-costs-the-same-as-the-entry-level-apple-watch-se-2000564363](https://gizmodo.com/samsung-galaxy-watch-ultra-now-costs-the-same-as-the-entry-level-apple-watch-se-2000564363)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:45:31+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/11/Galaxy-Watch-Ultra_Main-Product-KV_2P-Gallery-800x600-1.jpeg" class="attachment-full size-full wp-post-image" alt="Galaxy Watch Ultra Main Product Kv 2p Gallery 800x600" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/11/Galaxy-Watch-Ultra_Main-Product-KV_2P-Gallery-800x600-1.jpeg 1500w, https://gizmodo.com/app/uploads/2024/11/Galaxy-Watch-Ultra_Main-Product-KV_2P-Gallery-800x600-1-300x200.jpeg 300w, https://gizmodo.com/app/uploads/2024/11/Galaxy-Watch-Ultra_Main-Product-KV_2P-Gallery-800x600-1-1024x683.jpeg 1024w, https://gizmodo.com/app/uploads/2024/11/Galaxy-Watch-Ultra_Main-Product-KV_2P-Gallery-800x600-1-768x512.jpeg 768w, https://gizmodo.com/app/uploads/2024/11/Galaxy-Watch-Ultra_Main-Product-KV_2P-Gallery-800x600-1-336x224.jpeg 336w, https://gizmodo.com/app/uploads/2024/11/Galaxy-Watch-Ultra_Main-Product-KV_2P-Gallery-800x600-1-1400x932.jpeg 1400w, https://gizmodo.co
+
+## KitchenAid Stand Mixer Sees First Discount of the Year, It Finally Happened for Presidents’ Day
+ - [https://gizmodo.com/kitchenaid-stand-mixer-sees-first-discount-of-the-year-it-finally-happened-for-presidents-day-2000564279](https://gizmodo.com/kitchenaid-stand-mixer-sees-first-discount-of-the-year-it-finally-happened-for-presidents-day-2000564279)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:10:05+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/kitchenaid.jpg" class="attachment-full size-full wp-post-image" alt="Kitchenaid" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/kitchenaid.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/kitchenaid-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/kitchenaid-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/kitchenaid-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/kitchenaid-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/kitchenaid-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/kitchenaid-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/kitchenaid-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Your new kitchen companion has you covered with everything it can do, all at once.
+
+## Cobra Kai’s Creators Answer Your Big, Post-Series Finale Questions
+ - [https://gizmodo.com/cobra-kai-finale-spoilers-interview-netflix-karate-kid-2000561843](https://gizmodo.com/cobra-kai-finale-spoilers-interview-netflix-karate-kid-2000561843)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:00:18+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Cobra-Kai-6-interview.jpg" class="attachment-full size-full wp-post-image" alt="Cobra Kai 6 Interview" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/02/Cobra-Kai-6-interview.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Cobra-Kai-6-interview-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Cobra-Kai-6-interview-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Cobra-Kai-6-interview-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Cobra-Kai-6-interview-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Cobra-Kai-6-interview-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Cobra-Kai-6-interview-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Cobra-Kai-6-interview-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>io9 dove deep into the final episodes of Netflix's <i>Karate Kid</i> show with Jon Hurwitz, Hayden Schloss
+
+## Meet Trailblazer: A Spunky NASA Probe on a Mission to Map the Moon’s Water
+ - [https://gizmodo.com/meet-trailblazer-a-spunky-nasa-probe-on-a-mission-to-map-the-moons-water-2000564099](https://gizmodo.com/meet-trailblazer-a-spunky-nasa-probe-on-a-mission-to-map-the-moons-water-2000564099)
+ - RSS feed: $source
+ - date published: 2025-02-17T15:00:07+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/lunar-trailblazer-nasa-illustration.jpg" class="attachment-full size-full wp-post-image" alt="A mockup of NASA&#039;s Lunar Trailblazer, with the Moon in background." decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/lunar-trailblazer-nasa-illustration.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/lunar-trailblazer-nasa-illustration-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/lunar-trailblazer-nasa-illustration-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/lunar-trailblazer-nasa-illustration-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/lunar-trailblazer-nasa-illustration-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/lunar-trailblazer-nasa-illustration-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/lunar-trailblazer-nasa-illustration-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/lunar-trailblazer-n
+
+## Amazon Just Marked Down ASUS Portable Monitor to Its Best Price in Months for Presidents’ Day
+ - [https://gizmodo.com/amazon-just-marked-down-asus-portable-monitor-to-its-best-price-in-months-for-presidents-day-2000564309](https://gizmodo.com/amazon-just-marked-down-asus-portable-monitor-to-its-best-price-in-months-for-presidents-day-2000564309)
+ - RSS feed: $source
+ - date published: 2025-02-17T14:40:01+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/asusmonitor.jpg" class="attachment-full size-full wp-post-image" alt="Asusmonitor" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/asusmonitor.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/asusmonitor-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/asusmonitor-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/asusmonitor-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/asusmonitor-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/asusmonitor-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/asusmonitor-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/asusmonitor-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Two screens is better than one, and you can get everything done faster with this affordable monitor.
+
+## JBL Live Pro 2 Earbuds Drop Below $100 Thanks to Amazon’s Presidents’ Day Sale
+ - [https://gizmodo.com/jbl-live-pro-2-earbuds-drop-below-100-thanks-to-amazons-presidents-day-sale-2000564236](https://gizmodo.com/jbl-live-pro-2-earbuds-drop-below-100-thanks-to-amazons-presidents-day-sale-2000564236)
+ - RSS feed: $source
+ - date published: 2025-02-17T14:10:19+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/JBLLivePro2.jpg" class="attachment-full size-full wp-post-image" alt="Jbllivepro2" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/JBLLivePro2.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/JBLLivePro2-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/JBLLivePro2-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/JBLLivePro2-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/JBLLivePro2-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/JBLLivePro2-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/JBLLivePro2-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/JBLLivePro2-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Save 33% on the JBL Live Pro 2 true wireless noise cancelling earbuds for a limited time at Amazon.
+
+## The M2 Apple MacBook Air Is $400 Off on Amazon for Presidents’ Day, Its Lowest Price Ever
+ - [https://gizmodo.com/the-m2-apple-macbook-air-is-400-off-on-amazon-for-presidents-day-its-lowest-price-ever-2000564270](https://gizmodo.com/the-m2-apple-macbook-air-is-400-off-on-amazon-for-presidents-day-its-lowest-price-ever-2000564270)
+ - RSS feed: $source
+ - date published: 2025-02-17T13:35:16+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/mba-m2.jpg" class="attachment-full size-full wp-post-image" alt="MacBook Air M2" decoding="async" srcset="https://gizmodo.com/app/uploads/2024/09/mba-m2.jpg 1500w, https://gizmodo.com/app/uploads/2024/09/mba-m2-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/mba-m2-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/mba-m2-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/mba-m2-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/mba-m2-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/09/mba-m2-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/09/mba-m2-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Save 29% and additional $50 on the Apple 2022 MacBook Air powered by the M2 chipset over at Amazon for a limited time.
+
+## Govee LED Strip Lights Hit an All-Time Low, Amazon’s Best-Seller for a Reason
+ - [https://gizmodo.com/govee-led-strip-lights-hit-an-all-time-low-amazons-best-seller-for-a-reason-2000554753](https://gizmodo.com/govee-led-strip-lights-hit-an-all-time-low-amazons-best-seller-for-a-reason-2000554753)
+ - RSS feed: $source
+ - date published: 2025-02-17T13:05:17+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/goveelightsstrips.jpg" class="attachment-full size-full wp-post-image" alt="Goveelightsstrips" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/01/goveelightsstrips.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/goveelightsstrips-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/goveelightsstrips-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/goveelightsstrips-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/goveelightsstrips-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/goveelightsstrips-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/goveelightsstrips-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/goveelightsstrips-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Who needs a lamp? Govee’s 100ft LED Strip Lights are just $43.
+
+## How Super-Strong ‘Metal Foam’ Could Transform Space Travel and Defense
+ - [https://gizmodo.com/how-super-strong-metal-foam-could-transform-space-travel-and-defense-2000562768](https://gizmodo.com/how-super-strong-metal-foam-could-transform-space-travel-and-defense-2000562768)
+ - RSS feed: $source
+ - date published: 2025-02-17T13:00:03+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/metal-foam.jpg" class="attachment-full size-full wp-post-image" alt="Metal Foam" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/02/metal-foam.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/metal-foam-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/metal-foam-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/metal-foam-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/metal-foam-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/metal-foam-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/metal-foam-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/metal-foam-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Composite metal foam performs equally to or better than most conventional metals used in shielding materials, while weighing significantly less, according to new research.
+
+## The Genki Moonbase Power Strip Is a 7-in-1 Powerhouse That You Need in Your Life
+ - [https://gizmodo.com/the-genki-moonbase-power-strip-is-a-7-in-1-powerhouse-that-you-need-in-your-life-2000564127](https://gizmodo.com/the-genki-moonbase-power-strip-is-a-7-in-1-powerhouse-that-you-need-in-your-life-2000564127)
+ - RSS feed: $source
+ - date published: 2025-02-17T12:00:18+00:00
+
+<img width="1920" height="1280" src="https://gizmodo.com/app/uploads/2025/02/Moonbase-Power-Strip-09.jpg" class="attachment-full size-full wp-post-image" alt="Close up Genki Moonbase Power Strip on table with the AC outlets glowing green" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/Moonbase-Power-Strip-09.jpg 1920w, https://gizmodo.com/app/uploads/2025/02/Moonbase-Power-Strip-09-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Moonbase-Power-Strip-09-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Moonbase-Power-Strip-09-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Moonbase-Power-Strip-09-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Moonbase-Power-Strip-09-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Moonbase-Power-Strip-09-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Moonbase-Power-Strip-09-896x597.jpg 896w, https://gizmodo.com/app/uploads/2025/02/Moonbase-Power-Strip
+
+## NASA Just Fired up Its Quiet Supersonic Jet—and It Looks Like Pure Speed
+ - [https://gizmodo.com/nasa-just-fired-up-its-quiet-supersonic-jet-and-it-looks-like-pure-speed-2000562983](https://gizmodo.com/nasa-just-fired-up-its-quiet-supersonic-jet-and-it-looks-like-pure-speed-2000562983)
+ - RSS feed: $source
+ - date published: 2025-02-17T11:00:21+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/nasa-x59-engine-test.jpg" class="attachment-full size-full wp-post-image" alt="The X-59&#039;s Mach diamonds during maximum afterburner testing." decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/nasa-x59-engine-test.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/nasa-x59-engine-test-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/nasa-x59-engine-test-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/nasa-x59-engine-test-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/nasa-x59-engine-test-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/nasa-x59-engine-test-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/nasa-x59-engine-test-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/nasa-x59-engine-test-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The X-59 is proving out the agency's quiet superso
+

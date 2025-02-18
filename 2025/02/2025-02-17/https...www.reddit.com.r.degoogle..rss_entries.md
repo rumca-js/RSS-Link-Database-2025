@@ -1,0 +1,142 @@
+# Source:DeGoogle - expel Google from your life, URL:https://www.reddit.com/r/degoogle/.rss, language:en
+
+## Alternative to drive, docs & sheets
+ - [https://www.reddit.com/r/degoogle/comments/1iry4k9/alternative_to_drive_docs_sheets](https://www.reddit.com/r/degoogle/comments/1iry4k9/alternative_to_drive_docs_sheets)
+ - RSS feed: $source
+ - date published: 2025-02-17T23:21:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ready to walk away and degoogle but I need a viable alternative so I can move my files and photos. Where are you saving your stuff?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/scriptmistress"> /u/scriptmistress </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1iry4k9/alternative_to_drive_docs_sheets/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1iry4k9/alternative_to_drive_docs_sheets/">[comments]</a></span>
+
+## De Apple de Samsung
+ - [https://www.reddit.com/r/degoogle/comments/1irvsvt/de_apple_de_samsung](https://www.reddit.com/r/degoogle/comments/1irvsvt/de_apple_de_samsung)
+ - RSS feed: $source
+ - date published: 2025-02-17T21:44:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Please point me in the right direction but I couldn’t find that much about alternative phone manufacturers like fairphone and nothing phone. Anyone using either of those in the US with mint mobile? I want to get away from Apple altogether but not switch to Samsung + google. Thanks </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bubble_babe_"> /u/Bubble_babe_ </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1irvsvt/de_apple_de_samsung/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1irvsvt/de_apple_de_samsung/">[comments]</a></span>
+
+## What are non Google based alternatives to all Google products
+ - [https://www.reddit.com/r/degoogle/comments/1irsccv/what_are_non_google_based_alternatives_to_all](https://www.reddit.com/r/degoogle/comments/1irsccv/what_are_non_google_based_alternatives_to_all)
+ - RSS feed: $source
+ - date published: 2025-02-17T19:26:05+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/SMKShay"> /u/SMKShay </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1irsccv/what_are_non_google_based_alternatives_to_all/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1irsccv/what_are_non_google_based_alternatives_to_all/">[comments]</a></span>
+
+## USE ECOSIA
+ - [https://www.reddit.com/r/degoogle/comments/1irpbgu/use_ecosia](https://www.reddit.com/r/degoogle/comments/1irpbgu/use_ecosia)
+ - RSS feed: $source
+ - date published: 2025-02-17T17:28:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>PLANT SOME TREES AND HELP ME LIVE PAST MY 20S</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jnifdsnifnifsejoifkn"> /u/jnifdsnifnifsejoifkn </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1irpbgu/use_ecosia/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1irpbgu/use_ecosia/">[comments]</a></span>
+
+## map alternative with public transportation information
+ - [https://www.reddit.com/r/degoogle/comments/1irp5fa/map_alternative_with_public_transportation](https://www.reddit.com/r/degoogle/comments/1irp5fa/map_alternative_with_public_transportation)
+ - RSS feed: $source
+ - date published: 2025-02-17T17:21:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I tried the other map alternatives but none of them have information about bus routes etc. am i just shit out of luck or is there another option other than google maps?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chaoticsalad"> /u/chaoticsalad </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1irp5fa/map_alternative_with_public_transportation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1irp5fa/map_alternative_with_public_transportation/">[comments]</a></span>
+
+## My secure de-Googled homescreen. Any ideas?
+ - [https://www.reddit.com/r/degoogle/comments/1iroe10/my_secure_degoogled_homescreen_any_ideas](https://www.reddit.com/r/degoogle/comments/1iroe10/my_secure_degoogled_homescreen_any_ideas)
+ - RSS feed: $source
+ - date published: 2025-02-17T16:51:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1iroe10/my_secure_degoogled_homescreen_any_ideas/"> <img src="https://preview.redd.it/jg5imcykbqje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4cd219f890991b91ba6cbf67027ceb953d69003" alt="My secure de-Googled homescreen. Any ideas?" title="My secure de-Googled homescreen. Any ideas?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ShayExplains"> /u/ShayExplains </a> <br/> <span><a href="https://i.redd.it/jg5imcykbqje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1iroe10/my_secure_degoogled_homescreen_any_ideas/">[comments]</a></span> </td></tr></table>
+
+## Switch from play Store to aurora
+ - [https://www.reddit.com/r/degoogle/comments/1irn7ay/switch_from_play_store_to_aurora](https://www.reddit.com/r/degoogle/comments/1irn7ay/switch_from_play_store_to_aurora)
+ - RSS feed: $source
+ - date published: 2025-02-17T16:02:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi. I right now degooogling my whole software. I recently switched to Aurora Store on my s24 Ultra. It works fine and i really like it, that i can update immediatly and not in waves like in the play store. Now to my question. Should i delete the playstore? If yes how? Unlike other apps i cant delete it easily via long hold delete. Would it make problems for apps which need the google play services? I also still have the samsung store for samsung apps. Are this also part of the aurora store or only play store apps?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Business_Fun_1891"> /u/Business_Fun_1891 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1irn7ay/switch_from_play_store_to_aurora/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1irn7ay/switch_from_play_store_to_aurora/">[comments]</a></span>
+
+## Recent experiences with Infomaniak?
+ - [https://www.reddit.com/r/degoogle/comments/1irkj0w/recent_experiences_with_infomaniak](https://www.reddit.com/r/degoogle/comments/1irkj0w/recent_experiences_with_infomaniak)
+ - RSS feed: $source
+ - date published: 2025-02-17T14:03:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a small business and have been thinking about alternatives to Google Workspace.<br/> Proton doesn&#39;t work for me, as syncing my Calendar with Apple Calendar is a necessity.</p> <p>So I landed on Infomaniak, for which all of their offerings I love, on paper.</p> <p>I use only one e-mail address + one alias currently with my custom domain (hosted on Cloudflare and not interested in changing that), so in theory their free package + Custom Brand option would be ideal.</p> <p>To test it out, I went on to create a free account.</p> <p>First issue arose when the system rejected me for being from the wrong country.<br/> However, from a different link, I still managed to create an account under an external (not ik.me) e-mail. Immediatley I found this odd. Why should one entry point allow me to create an account but another not?</p> <p>Once in the Admin console, I decided to go for the free KSuite package, but the second problem: SMS for verification
+
+## How much information does sandboxes Google give away on Grapheme?
+ - [https://www.reddit.com/r/degoogle/comments/1irjti2/how_much_information_does_sandboxes_google_give](https://www.reddit.com/r/degoogle/comments/1irjti2/how_much_information_does_sandboxes_google_give)
+ - RSS feed: $source
+ - date published: 2025-02-17T13:28:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have set up a Google account with no phone number and not using a Gmail address,just a Proton email address. If I use YouTube Revanced, how much information can Google gather on Gaphene, with the play services sandboxes?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bellimars"> /u/Bellimars </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1irjti2/how_much_information_does_sandboxes_google_give/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1irjti2/how_much_information_does_sandboxes_google_give/">[comments]</a></span>
+
+## Any Google Slides alternatieves?
+ - [https://www.reddit.com/r/degoogle/comments/1irjrje/any_google_slides_alternatieves](https://www.reddit.com/r/degoogle/comments/1irjrje/any_google_slides_alternatieves)
+ - RSS feed: $source
+ - date published: 2025-02-17T13:25:28+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ShayExplains"> /u/ShayExplains </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1irjrje/any_google_slides_alternatieves/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1irjrje/any_google_slides_alternatieves/">[comments]</a></span>
+
+## Location sharing map app?
+ - [https://www.reddit.com/r/degoogle/comments/1irimmd/location_sharing_map_app](https://www.reddit.com/r/degoogle/comments/1irimmd/location_sharing_map_app)
+ - RSS feed: $source
+ - date published: 2025-02-17T12:22:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>I realise this might defeat the purpose of having better privacy as part of degoogling for some people but is there a non google app where you can share real time locations with others? I&#39;m a female who lives alone and being able to share my live location with friends and family in the background whenever makes me feel much safer. I often have access to anyone I&#39;m location sharing with&#39;s location too so I would need the ability to both track and share. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/grotgrrl"> /u/grotgrrl </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1irimmd/location_sharing_map_app/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1irimmd/location_sharing_map_app/">[comments]</a></span>
+
+## Vent: it just gets tiring sometimes
+ - [https://www.reddit.com/r/degoogle/comments/1irhft0/vent_it_just_gets_tiring_sometimes](https://www.reddit.com/r/degoogle/comments/1irhft0/vent_it_just_gets_tiring_sometimes)
+ - RSS feed: $source
+ - date published: 2025-02-17T11:05:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Not sure if this is the place to post this, but sometimes it just sucks, you know? None of these corporations will tell you how they’re taking your data. All of a sudden I find out that x updates ago y company snuck in an AI feature or enabled some backdoor and the only way out is to toggle option z (which will be silently reset in some future update).</p> <p>Of course it’s still worth finding alternatives and fighting against it. But also it’s understandable to take a look around some days and say “damn, this sucks”. Not sure where I’m going with this.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GetIntoGameDev"> /u/GetIntoGameDev </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1irhft0/vent_it_just_gets_tiring_sometimes/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1irhft0/vent_it_just_gets_tiring_sometimes/">[comments]</a></span>
+
+## What's a good cross-platform alternative to Google Keep
+ - [https://www.reddit.com/r/degoogle/comments/1irgt73/whats_a_good_crossplatform_alternative_to_google](https://www.reddit.com/r/degoogle/comments/1irgt73/whats_a_good_crossplatform_alternative_to_google)
+ - RSS feed: $source
+ - date published: 2025-02-17T10:21:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey! </p> <p>What&#39;s a good privacy alternative that works cross-platform. I&#39;ve tried quillpad but it doesn&#39;t seem to translate from phone to browser.</p> <p>Ideas?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JoePortagee"> /u/JoePortagee </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1irgt73/whats_a_good_crossplatform_alternative_to_google/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1irgt73/whats_a_good_crossplatform_alternative_to_google/">[comments]</a></span>
+
+## Degoogle, dapple, demicrosoft, deamazon, demeta
+ - [https://www.reddit.com/r/degoogle/comments/1irg73k/degoogle_dapple_demicrosoft_deamazon_demeta](https://www.reddit.com/r/degoogle/comments/1irg73k/degoogle_dapple_demicrosoft_deamazon_demeta)
+ - RSS feed: $source
+ - date published: 2025-02-17T09:37:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>These are exciting times, and it&#39;s time we all think about how we can maintain our independence when censorship and dictatorship are masquerading as democracy and free speech. </p> <p>Without going too deeply into political issues, let&#39;s think about how we can become independent of corporations that willingly swear allegiance to a regime, whether in China or the US.</p> <p>Let&#39;s talk about alternatives that go further than just banning one certain company from your life because the others are not better. </p> <p>Are you thinking about this? If so, what could you actually imagine?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kloetenschlumpf"> /u/Kloetenschlumpf </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1irg73k/degoogle_dapple_demicrosoft_deamazon_demeta/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1irg73k/degoogle_dapple_demicrosoft_
+
+## What's the point in degoogling iOS?
+ - [https://www.reddit.com/r/degoogle/comments/1irg1uh/whats_the_point_in_degoogling_ios](https://www.reddit.com/r/degoogle/comments/1irg1uh/whats_the_point_in_degoogling_ios)
+ - RSS feed: $source
+ - date published: 2025-02-17T09:26:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Your apple&#39;s system itself is not private at all, it is absolutely closed source and your phone makes a photo of your face about every several minutes (if not more often) and apps track every touch. Does degoogling makes that much difference? Don&#39;t want to insult somehow, just don&#39;t get the idea </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FreshFudge8307"> /u/FreshFudge8307 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1irg1uh/whats_the_point_in_degoogling_ios/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1irg1uh/whats_the_point_in_degoogling_ios/">[comments]</a></span>
+
+## Google Keep replacement
+ - [https://www.reddit.com/r/degoogle/comments/1irf467/google_keep_replacement](https://www.reddit.com/r/degoogle/comments/1irf467/google_keep_replacement)
+ - RSS feed: $source
+ - date published: 2025-02-17T08:19:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi All! I&#39;ve recently started my deGoogle journey, so far so good, but I can not find a proper replacement for Google Keep.</p> <p>We use it shared with my family, keep our grocery list there (and add things on the go), but we also keep shared notes there for different topics, each has its own note (hiking bucket list, restaurant bucket list, circuit breaker list for our home :D, etc).</p> <p>What can I use instead? Analog methods would not work as we need access to these outside of our home as well.</p> <p>Thank you!</p> <p>My current progress of deGoogling:</p> <p>- gmail &gt; proton (forwarded for now)</p> <p>- drive &gt; koofr (files), ente (photos)</p> <p>- gmaps &gt; here we go</p> <p>- chrome &gt; to be changed (looking for a good multi-platform alternative where I can sign in and have my bookmarks saved everywhere, maybe firefox?)</p> <p>- google search &gt; ecosia</p> <p>- translate &gt; linguee</p> </div><!-- SC_ON --> &#32; submitted b
+
+## I want to degoogle but is it going to make any difference in my case?
+ - [https://www.reddit.com/r/degoogle/comments/1ird9hp/i_want_to_degoogle_but_is_it_going_to_make_any](https://www.reddit.com/r/degoogle/comments/1ird9hp/i_want_to_degoogle_but_is_it_going_to_make_any)
+ - RSS feed: $source
+ - date published: 2025-02-17T06:10:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been using Google since I was a little kid they know absolutely everything about me. Would I achieve anything if I were to degoogle my life? I know of the sunk cost fallacy; I recognize it can&#39;t *hurt* but at the same time I feel like I wont get a big ROI dropping Google.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/oysterich"> /u/oysterich </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1ird9hp/i_want_to_degoogle_but_is_it_going_to_make_any/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1ird9hp/i_want_to_degoogle_but_is_it_going_to_make_any/">[comments]</a></span>
+
+## android auto / contact list
+ - [https://www.reddit.com/r/degoogle/comments/1irazj9/android_auto_contact_list](https://www.reddit.com/r/degoogle/comments/1irazj9/android_auto_contact_list)
+ - RSS feed: $source
+ - date published: 2025-02-17T03:55:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I am looking into scaling down as much as possible on google tools<br/> I am going to use Proton as daily driver. (I know they are a little unstable - I have that in mind as well )<br/> And I have a few issues.<br/> 1: I need the Android Auto which I can&#39;t make to work without using a gmail<br/> 2: A contact app that can handle around 250 contacts and possible sync them into a cloud solution.<br/> any suggestions to get i to work? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IceColdOdin"> /u/IceColdOdin </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1irazj9/android_auto_contact_list/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1irazj9/android_auto_contact_list/">[comments]</a></span>
+
+## My journey to switching apps/services with links
+ - [https://www.reddit.com/r/degoogle/comments/1ira53q/my_journey_to_switching_appsservices_with_links](https://www.reddit.com/r/degoogle/comments/1ira53q/my_journey_to_switching_appsservices_with_links)
+ - RSS feed: $source
+ - date published: 2025-02-17T03:08:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently got myself a new phone (HMD Skyline 5G), and have been on the path of protecting as much of my privacy as I can with I what I have, and obviously while keeping inside my tolerances for feature sacrifice (unfortunately).</p> <p><strong>Launcher:</strong> <a href="https://play.google.com/store/apps/details?id=bitpit.launcher&amp;hl=en_AU">Niagara Launcher (Play Store)</a></p> <ul> <li>While I understand this isn&#39;t Open-Source and probably not that privacy respecting, the UI is exactly what I&#39;m after, and until I know of an alternative that can provide the same experience, I&#39;m stuck with this one.</li> </ul> <p><strong>Phone/Contacts:</strong> Still searching for alternatives for Phone/Contacts apps.</p> <p><strong>SMS:</strong> Still using Google Messages, until someone else can support RCS, and is also privacy respecting.</p> <p><strong>Keyboard:</strong> <a href="https://keyboard.futo.org">FUTO Keyboard (F-Droid)</a></p> <ul> <
+
+## Just Share Lock Screen To See Who Is More Cool
+ - [https://www.reddit.com/r/degoogle/comments/1ir94y2/just_share_lock_screen_to_see_who_is_more_cool](https://www.reddit.com/r/degoogle/comments/1ir94y2/just_share_lock_screen_to_see_who_is_more_cool)
+ - RSS feed: $source
+ - date published: 2025-02-17T02:13:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1ir94y2/just_share_lock_screen_to_see_who_is_more_cool/"> <img src="https://preview.redd.it/0mj070i1zlje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c99d7da4a0d93ab3dc1837db27bdd2c2af7e040" alt="Just Share Lock Screen To See Who Is More Cool" title="Just Share Lock Screen To See Who Is More Cool" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sibun_rath"> /u/sibun_rath </a> <br/> <span><a href="https://i.redd.it/0mj070i1zlje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1ir94y2/just_share_lock_screen_to_see_who_is_more_cool/">[comments]</a></span> </td></tr></table>
+
