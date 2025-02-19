@@ -1,0 +1,121 @@
+# Source:Search Engine Optimization: The Latest SEO News, URL:https://www.reddit.com/r/SEO/.rss, language:en
+
+## Semrush or ahrefs or??
+ - [https://www.reddit.com/r/SEO/comments/1isqo78/semrush_or_ahrefs_or](https://www.reddit.com/r/SEO/comments/1isqo78/semrush_or_ahrefs_or)
+ - RSS feed: $source
+ - date published: 2025-02-18T23:30:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I haven&#39;t had a subscription in a few years. </p> <p>Back then I did ahrefs and Moz. </p> <p>Does anyone still use Moz? </p> <p>It seems like everybody is doing sem rush or ahrefs. </p> <p>I am just looking to do a month or two while I get a new site or two set up for a Friends business. </p> <p>Curious what the people paying are paying for</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HappyTimeManToday"> /u/HappyTimeManToday </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1isqo78/semrush_or_ahrefs_or/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1isqo78/semrush_or_ahrefs_or/">[comments]</a></span>
+
+## Hosting with Unique IP per Website
+ - [https://www.reddit.com/r/SEO/comments/1isqczi/hosting_with_unique_ip_per_website](https://www.reddit.com/r/SEO/comments/1isqczi/hosting_with_unique_ip_per_website)
+ - RSS feed: $source
+ - date published: 2025-02-18T23:17:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>Right now, I&#39;m using Hostinger shared hosting, but I&#39;m looking for a new host with unique ip per website. Do not want shared hosting anymore.</p> <p>I host my own websites, but I&#39;m also considering taking on some client work later this year, so I might start hosting sites for others too. Any good recommendations?</p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ValterBell"> /u/ValterBell </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1isqczi/hosting_with_unique_ip_per_website/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1isqczi/hosting_with_unique_ip_per_website/">[comments]</a></span>
+
+## URL is not available to Google
+ - [https://www.reddit.com/r/SEO/comments/1islh47/url_is_not_available_to_google](https://www.reddit.com/r/SEO/comments/1islh47/url_is_not_available_to_google)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:37:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been trying to test a URL on <strong>Google Search Console</strong> and a m getting the following error:</p> <blockquote> <p>URL is not available to GoogleThis page cannot be indexed. Pages that aren&#39;t indexed can&#39;t be served on Google. See the details below to learn why it can&#39;t be indexed <br/> errorPage availabilityPage cannot be crawled: Blocked by robots.txt </p> <p>Page availability</p> <p>Page cannot be crawled: Blocked by robots.txt </p> <p>URL will be indexed only if certain conditions are met</p> <p>Time</p> <p>Feb 18, 2025, 2:28:53 PM </p> <p>Crawled as</p> <p>Google Inspection Tool smartphone </p> <p>Crawl allowed?</p> <p>error</p> <p>No: blocked by robots.txt </p> <p>Page fetch</p> <p>error</p> <p>Failed: Blocked by robots.txt </p> <p>Indexing allowed?</p> <p>N/A</p> </blockquote> <p>I&#39;ve checked all of the usual suspects. </p> <ul> <li>The WordPress site is NOT set to &quot;Discourage Search Engines&quot;;</li> 
+
+## Guidance
+ - [https://www.reddit.com/r/SEO/comments/1isl7b7/guidance](https://www.reddit.com/r/SEO/comments/1isl7b7/guidance)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:26:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a lawsuit from the government where my name is associated. I am trying to find a new job and that being a top link is not my friend. </p> <p>I get it cannot be removed and has to be deranked. The companies I have talked to sound sketchy about the service and what it entails. </p> <p>So I wonder if I were to look at this from a different wat and say I am branding myself where should I look to do it myself or where should I get professional help because they would be quicker. </p> <p>I am using the quotes I received as my baseline for spend. </p> <p>What type of timeline would I look for a turn around etc?</p> <p>Thanks </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ChirpaGoinginDry"> /u/ChirpaGoinginDry </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1isl7b7/guidance/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1isl7b7/guidance/">[comments]</a></span>
+
+## Google Search Console - "Discovered - currently not indexed"
+ - [https://www.reddit.com/r/SEO/comments/1iskvj9/google_search_console_discovered_currently_not](https://www.reddit.com/r/SEO/comments/1iskvj9/google_search_console_discovered_currently_not)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:13:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is there any way to speed up the crawling of ones website? I know you can submit sitemaps and about 30 pages per day manually. But I wanted to know if there was anything else I could do.</p> <p>Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Mycologist4488"> /u/No_Mycologist4488 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iskvj9/google_search_console_discovered_currently_not/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iskvj9/google_search_console_discovered_currently_not/">[comments]</a></span>
+
+## Should I migrate site from .com to .org?
+ - [https://www.reddit.com/r/SEO/comments/1isjkeo/should_i_migrate_site_from_com_to_org](https://www.reddit.com/r/SEO/comments/1isjkeo/should_i_migrate_site_from_com_to_org)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:22:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>It&#39;s for a small non-profit. Should have been on a .org all along. Should I migrate the old .com to a .org or is that just a bad idea. Any advice on how to best do that?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OldDawg-NewTricks"> /u/OldDawg-NewTricks </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1isjkeo/should_i_migrate_site_from_com_to_org/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1isjkeo/should_i_migrate_site_from_com_to_org/">[comments]</a></span>
+
+## Choosing the right framework does matter
+ - [https://www.reddit.com/r/SEO/comments/1isin8d/choosing_the_right_framework_does_matter](https://www.reddit.com/r/SEO/comments/1isin8d/choosing_the_right_framework_does_matter)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:46:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Been in SEO for couple years now and I&#39;m trying stuff every now and then. Like most SEOs I started with WordPress and encountered typical SEO and ranking issues until it got me where I am today.</p> <p>Half a year ago, I published a Website I have coded myself with SvelteKit, thinking a self-coded website must be more worth (EEAT score, performance, less duplicate code whatev).</p> <p>As an experiment, I recently launched a website I have done with GODADDY WEBSITE BUILDER WHICH IS ON ITS WAY TO OUTPERFORM MY SVELTEKIT site. It took me less than 3 hours to build it from scratch with GoDaddy Website Builder.</p> <p>My spirit is crushed ngl. </p> <p>It took my SvelteKit site half a year to rank for 100 keywords (20 of them top 10) whereas is it took my GoDaddy Website 1(!) week to rank for 100 keywords (0 of them top 10).</p> <p>My godaddy website has 0 backlinks / 0 ref domains whereas my svletekit site has 200+ backlinks / 30 ref domains. Imagine 
+
+## SEO help by using Google Adwords with pay per click
+ - [https://www.reddit.com/r/SEO/comments/1ishcvx/seo_help_by_using_google_adwords_with_pay_per](https://www.reddit.com/r/SEO/comments/1ishcvx/seo_help_by_using_google_adwords_with_pay_per)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:56:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a great business. I sell a product on ebay. I am looking for help to promote the product on Google by using Google adwords with pay per click. I have used several companies with NO results. I am looking for results. I will pay percentage of my profits for results.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Straight_Total3945"> /u/Straight_Total3945 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1ishcvx/seo_help_by_using_google_adwords_with_pay_per/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1ishcvx/seo_help_by_using_google_adwords_with_pay_per/">[comments]</a></span>
+
+## Blocking a country from visiting a website?
+ - [https://www.reddit.com/r/SEO/comments/1isgw6l/blocking_a_country_from_visiting_a_website](https://www.reddit.com/r/SEO/comments/1isgw6l/blocking_a_country_from_visiting_a_website)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:36:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m running a Shopify based store and of late have noticed getting hundreds if not thousands of visits from presumably bots. </p> <p>Usually they’re from Ashburn but this week they’ve all been coming from Falkenstein (Germany), already today I’ve had 1,300 hit my store with currently 37 active. It’s messing with my tracking of SEO and conversion, is they’re anyway to block said countries? </p> <p>We only operate in the UK so it wouldn’t affect our business. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mull1tt"> /u/Mull1tt </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1isgw6l/blocking_a_country_from_visiting_a_website/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1isgw6l/blocking_a_country_from_visiting_a_website/">[comments]</a></span>
+
+## How do we build the "Direct" source of organic traffic?
+ - [https://www.reddit.com/r/SEO/comments/1isgb1m/how_do_we_build_the_direct_source_of_organic](https://www.reddit.com/r/SEO/comments/1isgb1m/how_do_we_build_the_direct_source_of_organic)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:12:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been looking at a few successful niche sites and I&#39;ve noticed something puzzling. Many of them have a huge chunk of their organic traffic coming from the &quot;Direct&quot; source, sometimes even more than the traffic from google search. Does this mean the regular users of the site bookmaked or stored the link to the pages of the site elsewhere for quick access? What are some ways we can encourage this, so that if the algorithm decides to nuke our site, we still have our loyal users/visitors? Sorry if this is a noob question, I&#39;m new to SEO.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Revenue007"> /u/Revenue007 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1isgb1m/how_do_we_build_the_direct_source_of_organic/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1isgb1m/how_do_we_build_the_direct_source_of_organic/">[comments]</a></span>
+
+## Does my blog have to be in the nav for SEO purposes?
+ - [https://www.reddit.com/r/SEO/comments/1isf2xs/does_my_blog_have_to_be_in_the_nav_for_seo](https://www.reddit.com/r/SEO/comments/1isf2xs/does_my_blog_have_to_be_in_the_nav_for_seo)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:21:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey there! </p> <p>Total newbie to SEO and I&#39;m wondering if my blog has to be in the navigation bar to help with SEO. Is there any advantage at all to have it up there? On that same note, I have a services drop down menu for my video production site. I have about 30ish different services that I offer. I have a page for each service. Should they all be in that drop down menu or can I just put like my 5 top services and then an &quot;Other Services&quot; button in the dropdown that leads to a page linking to all the other pages? </p> <p>That seems long winded - but pretty much do all of my pages have to be in the nav or drop down to get best SEO results or does the fact that the pages exist suffice for SEO purposes? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Slermanator"> /u/Slermanator </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1isf2xs/does_my_blog_have_to_be_in_the_nav_for_seo/">[l
+
+## Orphan pages of a News/Publishing/Magazine Site. What to do?
+ - [https://www.reddit.com/r/SEO/comments/1isf0z4/orphan_pages_of_a_newspublishingmagazine_site](https://www.reddit.com/r/SEO/comments/1isf0z4/orphan_pages_of_a_newspublishingmagazine_site)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:18:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>Our client is a News/Publishing/Magazine business with 8 sites. One thing that we&#39;ve noticed is that they have a lot of orphan pages. They have thousands of pages from 2005-2018 which we see as old pages that might not be helpful now. </p> <p>My teams initial plan is to deindex/remove from sitemap/delete the old pages (which I tend to disagree, because I said that if it is a publishing site, even the page/news is old it is still important to the website because they are publishing company) and with the newer pages (thousands of orphan also) we plan to internal link it. </p> <p>Is my suggestion not to deindex/remove from sitemap/delete the old pages is right? </p> <p>Also, I &#39;m new with news site. Is it normal that they have many orphan pages? One reason I see is that they just added news at <strong>&quot;Related Articles,&quot; &quot;Latest News,&quot; &quot;Trending,&quot;</strong> or <strong>&quot;Recent News&quot;</strong> area. </p> <p>Th
+
+## AI-gen posts seem to get a fine amount of impressions. Will there be a backfire?
+ - [https://www.reddit.com/r/SEO/comments/1is5rcd/aigen_posts_seem_to_get_a_fine_amount_of](https://www.reddit.com/r/SEO/comments/1is5rcd/aigen_posts_seem_to_get_a_fine_amount_of)
+ - RSS feed: $source
+ - date published: 2025-02-18T05:52:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>The title says it all.</p> <p>Now I spend more time on keyword research, customer persona study, and structure the whole blog rather than taking care of individual content.</p> <p>I do edit the AI-generated article before publishing it, making sure it&#39;s not to weird or misinforming.</p> <p>So far, it looks like working. Will there be any backfire?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/StevenJang_"> /u/StevenJang_ </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1is5rcd/aigen_posts_seem_to_get_a_fine_amount_of/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1is5rcd/aigen_posts_seem_to_get_a_fine_amount_of/">[comments]</a></span>
+
+## Help me adjust my goals
+ - [https://www.reddit.com/r/SEO/comments/1is5b30/help_me_adjust_my_goals](https://www.reddit.com/r/SEO/comments/1is5b30/help_me_adjust_my_goals)
+ - RSS feed: $source
+ - date published: 2025-02-18T05:24:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Me and my partner are both planning to start small businesses, so decided that should learn seo to give us an edge and save some money.. But I thought if go a bit beyond the basics I could create a second income stream. I&#39;m working in hospitality, so pretty fucked hours. How much do you think i can earn working 5-10 hours a week let&#39;s say 6 month from now when I manage to get to a decent level? I realize that this sub is probably spammed by noobs like me... But i really appreciate any advice or pointers. Thanks a lot! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mikulashev"> /u/mikulashev </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1is5b30/help_me_adjust_my_goals/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1is5b30/help_me_adjust_my_goals/">[comments]</a></span>
+
+## Is ScreamingFrog Still the Recommended Tool?
+ - [https://www.reddit.com/r/SEO/comments/1is35bs/is_screamingfrog_still_the_recommended_tool](https://www.reddit.com/r/SEO/comments/1is35bs/is_screamingfrog_still_the_recommended_tool)
+ - RSS feed: $source
+ - date published: 2025-02-18T03:24:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>For more intensive crawls than SEMRush, Ahrefs, etc., do you all still recommend ScreamingFrog? Been 3 years since I&#39;ve used it but rolling out a large project soon and want to lean on it. Any other tools I should take a look at? Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/evilsniperxv"> /u/evilsniperxv </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1is35bs/is_screamingfrog_still_the_recommended_tool/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1is35bs/is_screamingfrog_still_the_recommended_tool/">[comments]</a></span>
+
+## Rank in Next Town Over?
+ - [https://www.reddit.com/r/SEO/comments/1is14ak/rank_in_next_town_over](https://www.reddit.com/r/SEO/comments/1is14ak/rank_in_next_town_over)
+ - RSS feed: $source
+ - date published: 2025-02-18T01:41:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>How do I get a site to rank in the next town over? For example, say I have a landscaping business in Town A, but I do work in Town B? So far I&#39;ve made a Town B specific page, done the appropriate page linkings, and changed my service area in GBP. </p> <p>Is there anything else I should be doing?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plzdbyvodka"> /u/plzdbyvodka </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1is14ak/rank_in_next_town_over/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1is14ak/rank_in_next_town_over/">[comments]</a></span>
+
+## How bad for SEO is a 60s mobile pagespeed score?
+ - [https://www.reddit.com/r/SEO/comments/1is03vk/how_bad_for_seo_is_a_60s_mobile_pagespeed_score](https://www.reddit.com/r/SEO/comments/1is03vk/how_bad_for_seo_is_a_60s_mobile_pagespeed_score)
+ - RSS feed: $source
+ - date published: 2025-02-18T00:53:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have already optimized everything i can think of to the max.</p> <p>Seems like my hosting plan currently just can&#39;t provide what i need and need a cloud option likely, however i cannot afford one right now.</p> <p>Given I can&#39;t upgrade to better hosting for a while, I am wondering how bad is it really for the mobile speed being in the 60s? 60-65. It&#39;s 100 on desktop.</p> <p>Thanks in advance!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Howdoibuycrypto"> /u/Howdoibuycrypto </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1is03vk/how_bad_for_seo_is_a_60s_mobile_pagespeed_score/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1is03vk/how_bad_for_seo_is_a_60s_mobile_pagespeed_score/">[comments]</a></span>
+

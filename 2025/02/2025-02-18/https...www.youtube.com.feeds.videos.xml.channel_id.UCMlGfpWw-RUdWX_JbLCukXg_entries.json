@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-18T15:07:10+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nNumerical Integrators From Scratch in C++ - Vincent Reverdy - CppCon 2024\n---\n\nCould we revisit numerical integrators in the light of C++26 and bring more genericity, performance, and expressivity to the domain? In this talk, we will explore how modern C++ techniques can add something new and relevant to one of the oldest and most basic task of scientific computing: the integration of systems of equations. We will examine, in particular, how most numerical integrators can be derived from a small set of first principles that can be easily mapped onto C++ concepts and composable algorithmic building blocks. One of the goal of the approach introduced in this presentation will be to achieve as much as possible with the simplest and smallest amount of code. C++23 and C++26 programming techniques, including reflection, will be leveraged to transfer some of the burden of implementation to the compiler while still ensuring maximum performance.\n\nIn practice, the talk ",
+        "id": 2140709,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=QUJSsWM1ick",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QUJSsWM1ick/hqdefault.jpg",
+        "title": "Numerical Integrators From Scratch in C++ - Vincent Reverdy - CppCon 2024",
+        "vote": 0
+    }
+]

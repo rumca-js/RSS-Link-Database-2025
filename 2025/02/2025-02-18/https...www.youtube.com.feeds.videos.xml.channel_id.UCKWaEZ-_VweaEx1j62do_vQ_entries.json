@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-18T12:01:17+00:00",
+        "description": "Want to learn more about how to Govern, secure, and monitor AI? Register for the webinar here \u2192 https://ibm.biz/BdGpvX\nLearn more about AI Hallucinations here \u2192 https://ibm.biz/BdGpv4\n\nCan AI chatbots be trusted? \ud83e\udde0 Join Jeff Crume as he delves into the complexities of AI errors, from innocent mistakes to deliberate lies. Discover how AI chatbots handle truth, generate hallucinations, and the essential principles behind AI transparency, fairness, and privacy. \ud83d\ude80\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdGpvr\n\n#ai #aichatbot #aitransparency",
+        "id": 2138835,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=pG4_pWRjxQI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pG4_pWRjxQI/hqdefault.jpg",
+        "title": "Can AI Chatbots Lie? AI Trustworthiness & How Chatbots Handle Truth",
+        "vote": 0
+    }
+]

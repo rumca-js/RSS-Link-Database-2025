@@ -1,0 +1,303 @@
+# Source:Virtual Reality, URL:https://www.reddit.com/r/virtualreality/.rss, language:en
+
+## Longtime VR user getting headache from Quest 3. Would Quest 3S be better?
+ - [https://www.reddit.com/r/virtualreality/comments/1ispdvd/longtime_vr_user_getting_headache_from_quest_3](https://www.reddit.com/r/virtualreality/comments/1ispdvd/longtime_vr_user_getting_headache_from_quest_3)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:39:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve used my Rift CV1 since it was first released years ago, but recently switched to a Quest 3. Unlike the CV1, I&#39;ve been getting headaches and/or eyestrain after using the Quest . I noticed a thread from about a year ago where former Quest 2 users were complaining about the same issue when they switched to the Q3, and the thought among some was maybe it was caused by the change from Fresnel to pancake lenses. I was wondering if anyone experiencing similar problems with the 3 had better luck with the 3S, since the later also has the Fresnel lenses?</p> <p>Here&#39;s some details and things I have tried so far:</p> <ul> <li>Got a BoboVR M3 head strap to reduce pressure on my face. I definitely like it, but that didn&#39;t solve the issue.</li> <li>I&#39;m using Zenni prescription lens inserts. These seem to work well, but whether I use them or just my glasses doesn&#39;t make a difference for the problem (my Rx is about a year old, btw).</li>
+
+## Free games trouble 🦍🦍🦍
+ - [https://www.reddit.com/r/virtualreality/comments/1isoztg/free_games_trouble](https://www.reddit.com/r/virtualreality/comments/1isoztg/free_games_trouble)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:27:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey. I was looking on the meta quest store for some free games but there were so many gorilla tag clones and no way to filter them out. Anybody have some not unpopular but maybe lesser known free games? 😁</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/voidwalker00000"> /u/voidwalker00000 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1isoztg/free_games_trouble/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1isoztg/free_games_trouble/">[comments]</a></span>
+
+## Recommendations for PS5 / PC Gamer Getting Started with VR
+ - [https://www.reddit.com/r/virtualreality/comments/1isodr7/recommendations_for_ps5_pc_gamer_getting_started](https://www.reddit.com/r/virtualreality/comments/1isodr7/recommendations_for_ps5_pc_gamer_getting_started)
+ - RSS feed: $source
+ - date published: 2025-02-18T21:33:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>What headset or product(s) would you recommend for someone moderately tech literate who wants to start playing around with VR for gaming? Budget isn&#39;t really a concern. </p> <p>My dream has been a VR gaming experience since I was a kid, and I feel like the tech is finally arriving. I&#39;m ready to pull the trigger but am overwhelmed by all the options 😬</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ButtonFull"> /u/ButtonFull </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1isodr7/recommendations_for_ps5_pc_gamer_getting_started/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1isodr7/recommendations_for_ps5_pc_gamer_getting_started/">[comments]</a></span>
+
+## Having a sense of humour failure - SteamVR/PCVR gaming
+ - [https://www.reddit.com/r/virtualreality/comments/1iso1f4/having_a_sense_of_humour_failure_steamvrpcvr](https://www.reddit.com/r/virtualreality/comments/1iso1f4/having_a_sense_of_humour_failure_steamvrpcvr)
+ - RSS feed: $source
+ - date published: 2025-02-18T21:19:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve spent the last 90 minutes trying to play a VR game, one that I know works with my headset. And I cannot work out why a) I can&#39;t get the game to enter VR mode, or b) why I find myself opening SteamVR only to be stuck in Steam purgatory - unable to select anything, nothing to click on, controller input doing zero.</p> <p>Pico4, Puppis/VD is my setup. That&#39;s all fine, VD is connecting fine. </p> <p>Firstly, SteamVR. Sometimes when I launch it, I end up in a game launcher type view. I can try and launch any of the VR games in my Steam Library. Othertimes, or through doing something myself (not sure what) I find myself in purgatory - the distant horizon, gridline view. In headset I can&#39;t do anything. There&#39;s no menu, nothing to click on...really don&#39;t know what I&#39;m supposed to do. Controller wise (if it makes any difference) SteamVR treats them as Oculus controllers. They work in various games on the PC, including Steam ga
+
+## Should I get a quest 2 in 2025?
+ - [https://www.reddit.com/r/virtualreality/comments/1isnj71/should_i_get_a_quest_2_in_2025](https://www.reddit.com/r/virtualreality/comments/1isnj71/should_i_get_a_quest_2_in_2025)
+ - RSS feed: $source
+ - date published: 2025-02-18T21:00:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m brand new into the VR space. I picked up an Oculus Rift (CV1) for 50 bucks from a thrift store a few days ago. It works well and I have been enjoying it, but its old. I was thinking about getting my money back and putting it towards a quest 2 that&#39;s 100-110 on fb marketplace. I&#39;m really only using it with PCVR and the few games I want to play are golf+ and like f1 24 and maybe a couple other games I don&#39;t know I might like. Nonetheless I have a ton of people who are saying get the 3s but idk if I&#39;m ready to put 250-300 towards a VR when I have no idea how much I&#39;m going to play it. Is the Quest 2 for 100-110 worth it in 2025 or what should I do? Thanks in advance. (My pc is a 7800xt with a Ryzen 5 7600X3D and 32 gigs of ram if you&#39;re questioning my PC&#39;s specs)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DrivenNose"> /u/DrivenNose </a> <br/> <span><a href="https://www.reddi
+
+## So supposedly 50 series cards don't support 32 bit physX, can someone with a 50 series try Borderlands 2 VR and confirm if it's playable?
+ - [https://www.reddit.com/r/virtualreality/comments/1ismg6z/so_supposedly_50_series_cards_dont_support_32_bit](https://www.reddit.com/r/virtualreality/comments/1ismg6z/so_supposedly_50_series_cards_dont_support_32_bit)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:16:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Apparently the original borderlands 2 only used the 32 bit version, I&#39;m wondering if these new cards are going to make it unplayable :(</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MightyBooshX"> /u/MightyBooshX </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ismg6z/so_supposedly_50_series_cards_dont_support_32_bit/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ismg6z/so_supposedly_50_series_cards_dont_support_32_bit/">[comments]</a></span>
+
+## is there any headset like this?
+ - [https://www.reddit.com/r/virtualreality/comments/1ism5ku/is_there_any_headset_like_this](https://www.reddit.com/r/virtualreality/comments/1ism5ku/is_there_any_headset_like_this)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:04:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>i have had this idea for a while now: is there a headset that connects to my pc? wait wait theres more. my pc is the powerhouse that proccesess the game and the headset is just a close up monitor. is there anything like that?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sigmasmash"> /u/sigmasmash </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1ism5ku/is_there_any_headset_like_this/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ism5ku/is_there_any_headset_like_this/">[comments]</a></span>
+
+## Why aren't arena-style VR arcades the norm yet?
+ - [https://www.reddit.com/r/virtualreality/comments/1islwoz/why_arent_arenastyle_vr_arcades_the_norm_yet](https://www.reddit.com/r/virtualreality/comments/1islwoz/why_arent_arenastyle_vr_arcades_the_norm_yet)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:55:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>I wonder why we don&#39;t find free-roaming VR game offers in all arcade-type spaces, stadiums, outdoor fields, etc.?</p> <p>I know there are such providers, but do you find them so widespread? At least as many as other sport arena ? I tried out a cooperative zombie shooter 10 years ago, with a backpack PC. It wasn&#39;t too bad.</p> <p>I&#39;ve been to US, many parts of Europe, I&#39;ve stumble upon &quot;Arcade VR&quot; Venue, where you can basically try HTC Vive, maybe on a treadmill if your lucky. But never a warehouse, like for go kart, dedicated for VR.</p> <p>Now that Android-based standalone headsets are powerful enough, that can do co-location, how come co-op, PvP and online PvP games against a team on the other side of the world don&#39;t have a place in every stadium, tennis court, paintball field, etc.? Even the investment for such venue seems reasonnable (compare to go kart, paintball, bowling, etc...)</p> <p>I miss having a normalize, m
+
+## How to Unlock 72 FPS Cap in Unity XR Interaction Toolkit for Meta Quest?
+ - [https://www.reddit.com/r/virtualreality/comments/1isluxn/how_to_unlock_72_fps_cap_in_unity_xr_interaction](https://www.reddit.com/r/virtualreality/comments/1isluxn/how_to_unlock_72_fps_cap_in_unity_xr_interaction)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:53:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Guys, i want to see if there are any Devs in here that can help me with this Question. </p> <p>I&#39;m developing a standalone VR game for the <strong>Meta Quest</strong> using <strong>Unity (URP) and XR Interaction Toolkit</strong>, but I&#39;ve noticed that my game seems <strong>locked at 72 FPS</strong>, even though I want it to run at <strong>90Hz</strong> (or higher, if supported).</p> <p>I’ve tried several things, but nothing seems to remove the cap:</p> <ul> <li><strong>Set</strong> <code>Application.targetFrameRate = 90</code> – No effect.</li> <li><strong>Enabled &quot;Optimized Frame Pacing&quot;</strong> in Player Settings – Still locked.</li> <li><strong>Checked OVRPlugin.systemDisplayFrequency</strong> – No changes when trying to set <code>90</code>.</li> <li><strong>Disabled VSync</strong> and adjusted <strong>Fixed Foveated Rendering (FFR) &amp; Dynamic Resolution Scaling (DRS)</strong>.</li> <li><strong>Tested in Developer Mode with A
+
+## "Pinball machine in bedroom, check!" No heavy lifting required (Pinball FX2 VR)
+ - [https://www.reddit.com/r/virtualreality/comments/1islo9h/pinball_machine_in_bedroom_check_no_heavy_lifting](https://www.reddit.com/r/virtualreality/comments/1islo9h/pinball_machine_in_bedroom_check_no_heavy_lifting)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:45:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1islo9h/pinball_machine_in_bedroom_check_no_heavy_lifting/"> <img src="https://external-preview.redd.it/end3azJwMGxieWplMeGdjj2qAX_uwM3C-1Zp_8OYiNRuIMkev0rb8TVrj8T2.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b086115e2b107b95be7078dde490aa644366bf8b" alt="&quot;Pinball machine in bedroom, check!&quot; No heavy lifting required (Pinball FX2 VR)" title="&quot;Pinball machine in bedroom, check!&quot; No heavy lifting required (Pinball FX2 VR)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MightyMouse420"> /u/MightyMouse420 </a> <br/> <span><a href="https://v.redd.it/st6q42e3ayje1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1islo9h/pinball_machine_in_bedroom_check_no_heavy_lifting/">[comments]</a></span> </td></tr></table>
+
+## Meganex Superlight 8k First Impressions by VR Flight Sim Guy
+ - [https://www.reddit.com/r/virtualreality/comments/1isldvj/meganex_superlight_8k_first_impressions_by_vr](https://www.reddit.com/r/virtualreality/comments/1isldvj/meganex_superlight_8k_first_impressions_by_vr)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:33:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1isldvj/meganex_superlight_8k_first_impressions_by_vr/"> <img src="https://external-preview.redd.it/2hKw_Ymu0D_Bhsir6hD-muvU3yxtxKd_G2ztF7CsEJA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8cb583289a729eb3955ab9e4e1c86746bcb1bcd7" alt="Meganex Superlight 8k First Impressions by VR Flight Sim Guy" title="Meganex Superlight 8k First Impressions by VR Flight Sim Guy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ngw"> /u/ngw </a> <br/> <span><a href="https://www.youtube.com/watch?v=ryC4ofKmUaE">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1isldvj/meganex_superlight_8k_first_impressions_by_vr/">[comments]</a></span> </td></tr></table>
+
+## VR Museum Tours
+ - [https://www.reddit.com/r/virtualreality/comments/1isl9c7/vr_museum_tours](https://www.reddit.com/r/virtualreality/comments/1isl9c7/vr_museum_tours)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:28:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone, I&#39;m working on a project for class and I was wondering what are the best apps to view virtual musuem tours. So far I know about the Google Arts and Culture app, but I was wondering if there was more.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Legitimate_Papaya118"> /u/Legitimate_Papaya118 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1isl9c7/vr_museum_tours/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1isl9c7/vr_museum_tours/">[comments]</a></span>
+
+## ORION DRIFT IS HERE
+ - [https://www.reddit.com/r/virtualreality/comments/1isjp60/orion_drift_is_here](https://www.reddit.com/r/virtualreality/comments/1isjp60/orion_drift_is_here)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:28:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1isjp60/orion_drift_is_here/"> <img src="https://external-preview.redd.it/KB2427heuCnYbEnAmZrRxLHTfTrqKuc7qFslVKLNPIM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6ca93306d6ce6f281496e354707ae03cc99314a1" alt="ORION DRIFT IS HERE" title="ORION DRIFT IS HERE" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chalez88"> /u/chalez88 </a> <br/> <span><a href="https://youtu.be/A83-AXtI774">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1isjp60/orion_drift_is_here/">[comments]</a></span> </td></tr></table>
+
+## New dedicated router but slower speeds compared to all in one modem/router
+ - [https://www.reddit.com/r/virtualreality/comments/1isi5fx/new_dedicated_router_but_slower_speeds_compared](https://www.reddit.com/r/virtualreality/comments/1isi5fx/new_dedicated_router_but_slower_speeds_compared)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:27:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have one of those Verizon all-in-one 6g modems. It gets about 2400mps speed in VD but the connection is very unstable without a router with constant network latency. </p> <p>I bought a MR7350(6g capable) Linksys router to have a dedicated connection and now its 5g with about 1200mps connection speed. It&#39;s more stable but far slower. I went into the linkysys router settings and only 2.4 and 5g are available despite it listing 6g on the box.</p> <p>I&#39;m new at this so forgive my ignorance. I followed the advice of one of the sticky posts and bought the router. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sirenpro"> /u/sirenpro </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1isi5fx/new_dedicated_router_but_slower_speeds_compared/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1isi5fx/new_dedicated_router_but_slower_speeds_compared/">
+
+## You can now play Dark Souls 2 via the R.E.A.L. VR mod.
+ - [https://www.reddit.com/r/virtualreality/comments/1ishpbc/you_can_now_play_dark_souls_2_via_the_real_vr_mod](https://www.reddit.com/r/virtualreality/comments/1ishpbc/you_can_now_play_dark_souls_2_via_the_real_vr_mod)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:09:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1ishpbc/you_can_now_play_dark_souls_2_via_the_real_vr_mod/"> <img src="https://preview.redd.it/1lyegyypjxje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=72cf3351c20a8b566dc02f5d22e11cf2a3128ad7" alt="You can now play Dark Souls 2 via the R.E.A.L. VR mod." title="You can now play Dark Souls 2 via the R.E.A.L. VR mod." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Yes, it is a Luke Ross mod. Yes it is played with a gamepad. Yes, you can play in 1st or 3rd person. If you are not a fan of Ross mods, this post is not for you. For everyone familiar with and enjoy his mods, this is going to be awesome!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TommyVR373"> /u/TommyVR373 </a> <br/> <span><a href="https://i.redd.it/1lyegyypjxje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1ishpbc/you_can_now_play_dark_souls_2_via_
+
+## I just tried the final Meganex Superlight 8K, here are my thoughts
+ - [https://www.reddit.com/r/virtualreality/comments/1ishelo/i_just_tried_the_final_meganex_superlight_8k_here](https://www.reddit.com/r/virtualreality/comments/1ishelo/i_just_tried_the_final_meganex_superlight_8k_here)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:57:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>Dear community, </p> <p>this is Sebastian from MRTV. I have now received the final production unit of the Meganex Superlight 8k. As most of you probably know, it&#39;s a 4k microOLED PCVR headset based on Lighthouse Tracking. </p> <p>If you want to watch my unboxing and see my first impressions, you can do so here: <a href="https://youtu.be/uyzyl_ZfMAo?si=lL8U4_By8WATpa-Q">https://youtu.be/uyzyl_ZfMAo?si=lL8U4_By8WATpa-Q</a></p> <p>If you just want to keep reading, here you go. In a nutshell: the headset delivers on the lofty expectations we already got from seeing the headset at CES. </p> <p>I am impressed by the build-quality, it is just so good. Also the lenses are spectacular. They are much bigger than those of the Bigscreen Beyond, the competing MicroOLED PCVR headset. </p> <p>Visuals are stunning, with real OLED blacks and vibrant colors all at that very high resolution of 4k per eye. Lenses are good as well, very nice sweetspot and edge to edg
+
+## Looking for headset advice
+ - [https://www.reddit.com/r/virtualreality/comments/1ish5wp/looking_for_headset_advice](https://www.reddit.com/r/virtualreality/comments/1ish5wp/looking_for_headset_advice)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:48:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I know these questions get asked every day, sorry for the repost. I’m currently a CV1 owner and played a lot during the first gen of game releases, however I’m upgrading my computer from a 1080ti and I want to jump back in with a newer headset. </p> <p>The issue is that all of the headsets come with some kind of trade off even at higher prices. I initially thought I wanted a BSB but since I skipped index that would mean purchasing a lot of equipment, and at the price point still accepting many limitations. My thinking was that getting a quest 3 until something better that really knocks it out of the park would be the way forward. Would this sub generally agree with that thinking? would you recommend the psvr or another headset instead?</p> <p>For context I’ve always played with wires, and budget isn’t a huge issue, but I don’t want to waste money. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nariyana"
+
+## Virtual Reality in Real estate
+ - [https://www.reddit.com/r/virtualreality/comments/1isgng2/virtual_reality_in_real_estate](https://www.reddit.com/r/virtualreality/comments/1isgng2/virtual_reality_in_real_estate)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:27:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>How can small real estate agents or developers leverage VR to compete with larger companies?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Big_Instruction683"> /u/Big_Instruction683 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1isgng2/virtual_reality_in_real_estate/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1isgng2/virtual_reality_in_real_estate/">[comments]</a></span>
+
+## Virtual Desktop with Intel Arc GPU?
+ - [https://www.reddit.com/r/virtualreality/comments/1isgmzg/virtual_desktop_with_intel_arc_gpu](https://www.reddit.com/r/virtualreality/comments/1isgmzg/virtual_desktop_with_intel_arc_gpu)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:26:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I was wondering how you can set up VD with an Intel Arc GPU? Currently using an Arc A770 and I am having troubles connecting it whether it be pulling up just a mirror of my desktop or booting a game. It says that my drivers are not recent enough, even though my GPU drivers are recent and have been reinstalled.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ypsilon289"> /u/ypsilon289 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1isgmzg/virtual_desktop_with_intel_arc_gpu/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1isgmzg/virtual_desktop_with_intel_arc_gpu/">[comments]</a></span>
+
+## Here's What An RTX 5090 Does For Fallout & Flight Simulator In VR - UploadVR
+ - [https://www.reddit.com/r/virtualreality/comments/1isfz3c/heres_what_an_rtx_5090_does_for_fallout_flight](https://www.reddit.com/r/virtualreality/comments/1isfz3c/heres_what_an_rtx_5090_does_for_fallout_flight)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:59:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1isfz3c/heres_what_an_rtx_5090_does_for_fallout_flight/"> <img src="https://external-preview.redd.it/RSNfaDW7hmoQfU4xRiSatttTN48ZILUJBQR0hzI2S0E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f1691d5b80c837c799de3ec1694a21c6091b0da" alt="Here's What An RTX 5090 Does For Fallout &amp; Flight Simulator In VR - UploadVR" title="Here's What An RTX 5090 Does For Fallout &amp; Flight Simulator In VR - UploadVR" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iNNeRKaoS"> /u/iNNeRKaoS </a> <br/> <span><a href="https://www.uploadvr.com/rtx-5090-nvidia-fallout-flight-simulator/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1isfz3c/heres_what_an_rtx_5090_does_for_fallout_flight/">[comments]</a></span> </td></tr></table>
+
+## VR table tennis physics vs IRL
+ - [https://www.reddit.com/r/virtualreality/comments/1iser6m/vr_table_tennis_physics_vs_irl](https://www.reddit.com/r/virtualreality/comments/1iser6m/vr_table_tennis_physics_vs_irl)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:07:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1iser6m/vr_table_tennis_physics_vs_irl/"> <img src="https://external-preview.redd.it/ZG10d3hudHR4d2plMYnPo4gorGIwdgNAsQghi2zH6PvIJed-JJ6A1MGvYP8D.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e5eb685c0c8f2930dd574365f25fdc70860950f2" alt="VR table tennis physics vs IRL" title="VR table tennis physics vs IRL" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>How do the physics in Eleven Table Tennis compare to real life? We are constantly improving even the smallest details to make the game as realistic as possible. We have some major announcements coming soon, and as always are so thankful for the VR community and all of the support 💪</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ForFunLabs"> /u/ForFunLabs </a> <br/> <span><a href="https://v.redd.it/id4pg4iuxwje1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1iser6m/vr_tab
+
+## Is Virtual Desktop Essential for PcVr?
+ - [https://www.reddit.com/r/virtualreality/comments/1isdz5k/is_virtual_desktop_essential_for_pcvr](https://www.reddit.com/r/virtualreality/comments/1isdz5k/is_virtual_desktop_essential_for_pcvr)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:31:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is there a difference in quality between playing PCVR games with cable and playing virtual desktop over wifi? And does virtual desktop work for wired connection too?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/leone1907"> /u/leone1907 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1isdz5k/is_virtual_desktop_essential_for_pcvr/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1isdz5k/is_virtual_desktop_essential_for_pcvr/">[comments]</a></span>
+
+## VR Games Showcase returns, March 11, 9am PT! - Tune in for HITMAN, ROBOQUEST VR, WRATH: AEON OF RUIN VR. Plus, NEW games from Flat2VR Studios and much more.
+ - [https://www.reddit.com/r/virtualreality/comments/1isdrux/vr_games_showcase_returns_march_11_9am_pt_tune_in](https://www.reddit.com/r/virtualreality/comments/1isdrux/vr_games_showcase_returns_march_11_9am_pt_tune_in)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:22:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1isdrux/vr_games_showcase_returns_march_11_9am_pt_tune_in/"> <img src="https://external-preview.redd.it/1247mBBnzpGsO-ObBPDUKZsfNV83cdQQOm0kbKo2wXY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d185337789b7e11e42e1cc6a843b3f39a15c1aa" alt="VR Games Showcase returns, March 11, 9am PT! - Tune in for HITMAN, ROBOQUEST VR, WRATH: AEON OF RUIN VR. Plus, NEW games from Flat2VR Studios and much more." title="VR Games Showcase returns, March 11, 9am PT! - Tune in for HITMAN, ROBOQUEST VR, WRATH: AEON OF RUIN VR. Plus, NEW games from Flat2VR Studios and much more." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PCMachinima"> /u/PCMachinima </a> <br/> <span><a href="https://bsky.app/profile/vrgamesshowcase.bsky.social/post/3lihghkrscx2d">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1isdrux/vr_games_showcase_returns_march_11_9am_pt_tune_in/">
+
+## Meta Quest 2077?
+ - [https://www.reddit.com/r/virtualreality/comments/1isdrpb/meta_quest_2077](https://www.reddit.com/r/virtualreality/comments/1isdrpb/meta_quest_2077)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:22:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1isdrpb/meta_quest_2077/"> <img src="https://preview.redd.it/r6ki15rrpwje1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=bd91feb399ff314fd5b048ea25fbf105e61ed29f" alt="Meta Quest 2077?" title="Meta Quest 2077?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eugenetel"> /u/eugenetel </a> <br/> <span><a href="https://i.redd.it/r6ki15rrpwje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1isdrpb/meta_quest_2077/">[comments]</a></span> </td></tr></table>
+
+## Chop, Chop, Chop: Trying Out VR For Woodworking
+ - [https://www.reddit.com/r/virtualreality/comments/1isdol5/chop_chop_chop_trying_out_vr_for_woodworking](https://www.reddit.com/r/virtualreality/comments/1isdol5/chop_chop_chop_trying_out_vr_for_woodworking)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:18:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1isdol5/chop_chop_chop_trying_out_vr_for_woodworking/"> <img src="https://external-preview.redd.it/kIfmJEAAGOCEzm69KrTa6a2-3PCOj1M1rBVXsRoKJSY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e397d031af843a382f0ce4edfe099a80541312a3" alt="Chop, Chop, Chop: Trying Out VR For Woodworking" title="Chop, Chop, Chop: Trying Out VR For Woodworking" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GreenskyGames"> /u/GreenskyGames </a> <br/> <span><a href="https://hackaday.com/2025/02/15/chop-chop-chop-considering-vr-for-woodworking/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1isdol5/chop_chop_chop_trying_out_vr_for_woodworking/">[comments]</a></span> </td></tr></table>
+
+## My first VR game - Climber
+ - [https://www.reddit.com/r/virtualreality/comments/1isd6j0/my_first_vr_game_climber](https://www.reddit.com/r/virtualreality/comments/1isd6j0/my_first_vr_game_climber)
+ - RSS feed: $source
+ - date published: 2025-02-18T13:54:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Trailer: <a href="https://www.youtube.com/watch?v=WtYRoPd4eU8">https://www.youtube.com/watch?v=WtYRoPd4eU8</a><br/> I loved The Climb mechanics, but I always felt it was missing a more arcade-like feel. So, I decided to make my own game.</p> <p>Climber is about fast, dynamic climbing with unique minigames in each level. One moment you’re catching flying objects mid-air, the next you’re throwing items at targets or dodging obstacles while hanging with one hand. Each biome adds its own twist.</p> <p>It’s my first VR game, and I’d love to hear what you think. If it looks interesting, consider wishlisting it!<br/> <a href="https://www.meta.com/pl-pl/experiences/climber/9216558118409854/">https://www.meta.com/pl-pl/experiences/climber/9216558118409854/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/janman7"> /u/janman7 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1isd6j0/my_first_vr
+
+## Is my system enough for running Steam Index ?
+ - [https://www.reddit.com/r/virtualreality/comments/1iscg9v/is_my_system_enough_for_running_steam_index](https://www.reddit.com/r/virtualreality/comments/1iscg9v/is_my_system_enough_for_running_steam_index)
+ - RSS feed: $source
+ - date published: 2025-02-18T13:17:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I have the following specs: </p> <p>AMD Ryzen 3700X 8-Core Processor</p> <p>16GB RAM</p> <p>NVIDIA GeForce RTX 2060 SUPER</p> <p>Is my computer enough for running Steam Index games? From what I&#39;ve looked up, it should be able to run them, but could I do so in High quality? Would I reach a decent amount of FPS?</p> <p>I hope someone with similar specs can help me here.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Plenty-Construction9"> /u/Plenty-Construction9 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1iscg9v/is_my_system_enough_for_running_steam_index/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1iscg9v/is_my_system_enough_for_running_steam_index/">[comments]</a></span>
+
+## Resident Evil 4 UHD VR - Rising of Evil & Life in Hell - ( MODS SHOWCASE )
+ - [https://www.reddit.com/r/virtualreality/comments/1isbtxh/resident_evil_4_uhd_vr_rising_of_evil_life_in](https://www.reddit.com/r/virtualreality/comments/1isbtxh/resident_evil_4_uhd_vr_rising_of_evil_life_in)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:44:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1isbtxh/resident_evil_4_uhd_vr_rising_of_evil_life_in/"> <img src="https://external-preview.redd.it/sZZYBriAPYc9rQya7jwSzHL7YdzHzugHOiAL_GUpAio.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7e2e0145294521db2a7b7c3e9912bf59001b58c3" alt="Resident Evil 4 UHD VR - Rising of Evil &amp; Life in Hell - ( MODS SHOWCASE )" title="Resident Evil 4 UHD VR - Rising of Evil &amp; Life in Hell - ( MODS SHOWCASE )" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Americana_Ninja"> /u/Americana_Ninja </a> <br/> <span><a href="https://youtu.be/TDNOsFfB-Vk">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1isbtxh/resident_evil_4_uhd_vr_rising_of_evil_life_in/">[comments]</a></span> </td></tr></table>
+
+## Decided to record a drumcover with the quest 3's main cameras
+ - [https://www.reddit.com/r/virtualreality/comments/1isbi5f/decided_to_record_a_drumcover_with_the_quest_3s](https://www.reddit.com/r/virtualreality/comments/1isbi5f/decided_to_record_a_drumcover_with_the_quest_3s)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:25:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1isbi5f/decided_to_record_a_drumcover_with_the_quest_3s/"> <img src="https://external-preview.redd.it/dWM2OTM0ano0d2plMSd1iCX_iRYN20v-HhJe2gL5cC8uQe_tSa-5qou4xj4K.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f38ea76d016ea930b8e119620e58076fe923fb75" alt="Decided to record a drumcover with the quest 3's main cameras" title="Decided to record a drumcover with the quest 3's main cameras" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JaelleJaen"> /u/JaelleJaen </a> <br/> <span><a href="https://v.redd.it/71hwf3jz4wje1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1isbi5f/decided_to_record_a_drumcover_with_the_quest_3s/">[comments]</a></span> </td></tr></table>
+
+## PSVR2 on PC can't go above 100fps
+ - [https://www.reddit.com/r/virtualreality/comments/1is8iaq/psvr2_on_pc_cant_go_above_100fps](https://www.reddit.com/r/virtualreality/comments/1is8iaq/psvr2_on_pc_cant_go_above_100fps)
+ - RSS feed: $source
+ - date published: 2025-02-18T09:01:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello guys, I recently bought the adapter for my PSVR2 and I noticed that after putting the headset in 120hz mode inside SteamVR I&#39;m stuck at 100FPS in SteamVR Home App maximum no matter what resolution I&#39;m putting 68% or 100%. This is so weird.<br/> Coincidentally, my monitor is 100Hz max. Is my monitor limiting my headset or this has nothing to do?</p> <p>MSI X670e Tomahawk</p> <p>64GB DDR5</p> <p>7800X3D</p> <p>RTX 4090</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Loxmeth"> /u/Loxmeth </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1is8iaq/psvr2_on_pc_cant_go_above_100fps/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1is8iaq/psvr2_on_pc_cant_go_above_100fps/">[comments]</a></span>
+
+## Need help with no mic audio on virtual desktop
+ - [https://www.reddit.com/r/virtualreality/comments/1is800r/need_help_with_no_mic_audio_on_virtual_desktop](https://www.reddit.com/r/virtualreality/comments/1is800r/need_help_with_no_mic_audio_on_virtual_desktop)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:24:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Okay so I have been trying to fix this for the past few hours, I have literally watched and read every website on the first 3 google pages and nothing has been fixed.</p> <p>After the factory resetting my computer, my PC will not pick up the audio on the virtual desktop. The microphone input is visible and I can click on it, but when I try to speak I get 0% when I test out the mic. I have already enabled the microphone for the virtual desktop on Steam, but it still won&#39;t work. I have tried making the virtual desktop microphone the default and it still won&#39;t work I have even tried disabling the Oculus Links microphone. I have uninstalled and reinstalled the drivers multiple times and turned my PC and Quest on and off a few times and it still does not work.</p> <p>Any help is greatly appreciated </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IsaacMcCracken"> /u/IsaacMcCracken </a> <br/> <span><a href="ht
+
+## Are there any quest or pcvr apps where I can share my virtual desktop with other people?
+ - [https://www.reddit.com/r/virtualreality/comments/1is7zk3/are_there_any_quest_or_pcvr_apps_where_i_can](https://www.reddit.com/r/virtualreality/comments/1is7zk3/are_there_any_quest_or_pcvr_apps_where_i_can)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:23:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Basically the equivalent of sharing my screen in Discord, but in VR. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SapphireOrnamental"> /u/SapphireOrnamental </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1is7zk3/are_there_any_quest_or_pcvr_apps_where_i_can/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1is7zk3/are_there_any_quest_or_pcvr_apps_where_i_can/">[comments]</a></span>
+
+## Imagine returning from work, and putting on your light and comfy VR HMD to resume a fully fledged PCVR game exactly where you left off without all this BS. This is my expectation of a SteamOS-driven HMD.
+ - [https://www.reddit.com/r/virtualreality/comments/1is7ws3/imagine_returning_from_work_and_putting_on_your](https://www.reddit.com/r/virtualreality/comments/1is7ws3/imagine_returning_from_work_and_putting_on_your)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:17:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1is7ws3/imagine_returning_from_work_and_putting_on_your/"> <img src="https://preview.redd.it/ew1k46wtwuje1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=6300a8af5f5518202846efe13e77e19c005cb5be" alt="Imagine returning from work, and putting on your light and comfy VR HMD to resume a fully fledged PCVR game exactly where you left off without all this BS. This is my expectation of a SteamOS-driven HMD." title="Imagine returning from work, and putting on your light and comfy VR HMD to resume a fully fledged PCVR game exactly where you left off without all this BS. This is my expectation of a SteamOS-driven HMD." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TareXmd"> /u/TareXmd </a> <br/> <span><a href="https://i.redd.it/ew1k46wtwuje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1is7ws3/imagine_returning_from_work_and_putting_on_
+
+## NEED HELP: should I buy psvr2? Sweet spot vs quest 1?
+ - [https://www.reddit.com/r/virtualreality/comments/1is6b89/need_help_should_i_buy_psvr2_sweet_spot_vs_quest_1](https://www.reddit.com/r/virtualreality/comments/1is6b89/need_help_should_i_buy_psvr2_sweet_spot_vs_quest_1)
+ - RSS feed: $source
+ - date published: 2025-02-18T06:27:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I own a quest 3, just got my PC hooked up to the router for virtual desktop today, and the quest is great, but I just am slightly bothered by the faded colors and artifacts I get from streaming the games over, and the latency spikes and tracking issues I get sometimes. I have the opportunity to get a psvr2 with a PC adapter and accessories for 350, maybe 300 bucks. I do own a PS5, and would not be bothered by the fresnel lenses or the sweet spot as much as other people. Could anyone recommend the psvr2, and if anyone has ever owned a quest 1 in the past, how does the sweet spot on that compare to the psvr2 one? Is it worse or better? Or would it be a waste of money compared with what I have? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gordino1"> /u/gordino1 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1is6b89/need_help_should_i_buy_psvr2_sweet_spot_vs_quest_1/">[link]</a></s
+
+## Older VR Games That Didnt Have Motion Controls. Did Modders Fix That? Example: Adr1ft
+ - [https://www.reddit.com/r/virtualreality/comments/1is4o7j/older_vr_games_that_didnt_have_motion_controls](https://www.reddit.com/r/virtualreality/comments/1is4o7j/older_vr_games_that_didnt_have_motion_controls)
+ - RSS feed: $source
+ - date published: 2025-02-18T04:46:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1is4o7j/older_vr_games_that_didnt_have_motion_controls/"> <img src="https://external-preview.redd.it/O2WjrlvCyALGqGqM0Pn444c4-vW14R2RVhkEWvVwDZo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=abeabe450b8e7341901e0c38708c30bcde049ca9" alt="Older VR Games That Didnt Have Motion Controls. Did Modders Fix That? Example: Adr1ft" title="Older VR Games That Didnt Have Motion Controls. Did Modders Fix That? Example: Adr1ft" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HandleZ05"> /u/HandleZ05 </a> <br/> <span><a href="https://youtu.be/mbtiATmuz0g?si=ck634BHy3fjHUkCT">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1is4o7j/older_vr_games_that_didnt_have_motion_controls/">[comments]</a></span> </td></tr></table>
+
+## Can a Fitness Slide Board be used as a VR treadmill if the user is held in place? Anyone tried doing so?
+ - [https://www.reddit.com/r/virtualreality/comments/1is4j3y/can_a_fitness_slide_board_be_used_as_a_vr](https://www.reddit.com/r/virtualreality/comments/1is4j3y/can_a_fitness_slide_board_be_used_as_a_vr)
+ - RSS feed: $source
+ - date published: 2025-02-18T04:38:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1is4j3y/can_a_fitness_slide_board_be_used_as_a_vr/"> <img src="https://external-preview.redd.it/OIZd8_crYwiL_DAMaWM1DKDPSaHfTGcLEzx9bA2WtIA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1fe47014bf66a8c8385ee65fdd4d709a96f14767" alt="Can a Fitness Slide Board be used as a VR treadmill if the user is held in place? Anyone tried doing so?" title="Can a Fitness Slide Board be used as a VR treadmill if the user is held in place? Anyone tried doing so?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_packet_sniffer_"> /u/_packet_sniffer_ </a> <br/> <span><a href="https://youtu.be/jj4HkNTY57o?t=125">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1is4j3y/can_a_fitness_slide_board_be_used_as_a_vr/">[comments]</a></span> </td></tr></table>
+
+## Palmer Luckey describes the era of human augmentation with Anduril's Eagle Eye
+ - [https://www.reddit.com/r/virtualreality/comments/1is2ysw/palmer_luckey_describes_the_era_of_human](https://www.reddit.com/r/virtualreality/comments/1is2ysw/palmer_luckey_describes_the_era_of_human)
+ - RSS feed: $source
+ - date published: 2025-02-18T03:14:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1is2ysw/palmer_luckey_describes_the_era_of_human/"> <img src="https://external-preview.redd.it/WbBYs1utb1MguBljyCFNI_zbgsc3ok3r8YA4L6P1MLg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=854413ab5a2ce9465af707a723bb3f7a742c5056" alt="Palmer Luckey describes the era of human augmentation with Anduril's Eagle Eye" title="Palmer Luckey describes the era of human augmentation with Anduril's Eagle Eye" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/isaac_szpindel"> /u/isaac_szpindel </a> <br/> <span><a href="https://www.uploadvr.com/palmer-luckey-describes-anduril-eagleeye-helmet-soldiers-superhuman-senses/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1is2ysw/palmer_luckey_describes_the_era_of_human/">[comments]</a></span> </td></tr></table>
+
+## Moved to a new apartment and now i just need a sofa
+ - [https://www.reddit.com/r/virtualreality/comments/1is2h0c/moved_to_a_new_apartment_and_now_i_just_need_a](https://www.reddit.com/r/virtualreality/comments/1is2h0c/moved_to_a_new_apartment_and_now_i_just_need_a)
+ - RSS feed: $source
+ - date published: 2025-02-18T02:49:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1is2h0c/moved_to_a_new_apartment_and_now_i_just_need_a/"> <img src="https://external-preview.redd.it/bW9yOTIyMjJhdGplMX1gU8nUGOMjPJy5cenepGy5nsyaf07tpKjSp4ZGDs53.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c9db64d5e415b2a89eb392f74a032b481fd82e7" alt="Moved to a new apartment and now i just need a sofa" title="Moved to a new apartment and now i just need a sofa" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gblandro"> /u/gblandro </a> <br/> <span><a href="https://v.redd.it/eur7b4c2atje1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1is2h0c/moved_to_a_new_apartment_and_now_i_just_need_a/">[comments]</a></span> </td></tr></table>
+
+## How to enable hand tracking on steam?
+ - [https://www.reddit.com/r/virtualreality/comments/1is282h/how_to_enable_hand_tracking_on_steam](https://www.reddit.com/r/virtualreality/comments/1is282h/how_to_enable_hand_tracking_on_steam)
+ - RSS feed: $source
+ - date published: 2025-02-18T02:36:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>quest 3, using the latest steam VR beta. i see things about steam link everywhere, but on the page i cannot actually download it, then i see in other places you don&#39;t need steam link. every guide i find is old, and i cannot find the setting anywhere in steam VR.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Humble_Tell_6435"> /u/Humble_Tell_6435 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1is282h/how_to_enable_hand_tracking_on_steam/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1is282h/how_to_enable_hand_tracking_on_steam/">[comments]</a></span>
+
+## Is hubris free roam
+ - [https://www.reddit.com/r/virtualreality/comments/1is21t5/is_hubris_free_roam](https://www.reddit.com/r/virtualreality/comments/1is21t5/is_hubris_free_roam)
+ - RSS feed: $source
+ - date published: 2025-02-18T02:27:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m planning on buying the game but idk if it is free roam so if anyone knows please say and if anyone know any other games that’s are free roam and preferably in space let me know </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ranyboi444"> /u/Ranyboi444 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1is21t5/is_hubris_free_roam/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1is21t5/is_hubris_free_roam/">[comments]</a></span>
+
+## Sad news. Toast has another round of redundancies and office closing.
+ - [https://www.reddit.com/r/virtualreality/comments/1is082e/sad_news_toast_has_another_round_of_redundancies](https://www.reddit.com/r/virtualreality/comments/1is082e/sad_news_toast_has_another_round_of_redundancies)
+ - RSS feed: $source
+ - date published: 2025-02-18T00:59:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1is082e/sad_news_toast_has_another_round_of_redundancies/"> <img src="https://preview.redd.it/j98nd80bqsje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dbf8e0d161536ea4a0df19383ab63a01f8e1f566" alt="Sad news. Toast has another round of redundancies and office closing." title="Sad news. Toast has another round of redundancies and office closing." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RichiesPlank"> /u/RichiesPlank </a> <br/> <span><a href="https://i.redd.it/j98nd80bqsje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1is082e/sad_news_toast_has_another_round_of_redundancies/">[comments]</a></span> </td></tr></table>
+
+## Quest 3, standalone VS PCVR
+ - [https://www.reddit.com/r/virtualreality/comments/1is01e4/quest_3_standalone_vs_pcvr](https://www.reddit.com/r/virtualreality/comments/1is01e4/quest_3_standalone_vs_pcvr)
+ - RSS feed: $source
+ - date published: 2025-02-18T00:50:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>I picked up a Quest 3 a couple of weeks ago and have been buying games from the Meta Store, playing everything standalone. However, I recently learned that PCVR offers better graphics and performance, and I do have a gaming PC capable of running anything.</p> <p>My main question is about battery life—does running PCVR (wirelessly) use less battery compared to playing games standalone, or is it about the same? I like the convenience of launching games directly on the Quest, and the extra steps with PCVR (launching Virtual Desktop (which isn’t free), connecting to my PC, then starting the game) seem like a bit of a hassle.</p> <p>If PCVR significantly improves battery life, I might be willing to make the switch. Anyone with experience on this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KidHumboldt"> /u/KidHumboldt </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1is01e4/quest_3_stand
+
+## vrocker locomotion app
+ - [https://www.reddit.com/r/virtualreality/comments/1irzyxo/vrocker_locomotion_app](https://www.reddit.com/r/virtualreality/comments/1irzyxo/vrocker_locomotion_app)
+ - RSS feed: $source
+ - date published: 2025-02-18T00:47:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Well, that was fun. Definitely the most immersed I&#39;ve ever been in VR using vrocker. I played Contractors against bots. It took a bit to get the settings the way I wanted and to use vrocker effectively. I landed on having to hold the left joystick forward for the app to register any movement and a few minor adjustments elsewhere in the settings. The only thing that was not great was me not being able to stay in one spot and eventually ending up near my guardian boundary and getting the Quest grid pop up. That broke immersion. I&#39;ve been brainstorming how I can keep myself in one spot physically to stay immersed using vrocker. </p> <p>I bought the Kat Walk C2 Core that will be delivered in a couple weeks. I got impatient since my real treadmill broke the other day (my justification for the Kat Walk) and needed an exercise similar to walking/jogging from home. That&#39;s when I found vrocker. I definitely worked up a sweat. I&#39;m interested to
+

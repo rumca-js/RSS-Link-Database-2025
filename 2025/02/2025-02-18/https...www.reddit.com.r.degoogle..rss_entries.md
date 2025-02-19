@@ -1,0 +1,184 @@
+# Source:DeGoogle - expel Google from your life, URL:https://www.reddit.com/r/degoogle/.rss, language:en
+
+## Replacement Google Contacts App
+ - [https://www.reddit.com/r/degoogle/comments/1ispt8e/replacement_google_contacts_app](https://www.reddit.com/r/degoogle/comments/1ispt8e/replacement_google_contacts_app)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:55:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have sadly ended up with a Google pixel 8a because of budget and I have recently started to degoogle the google phone, I want to replace the contacts app and I am lookibg for an alternative that will let me set my own contact photo and information so i can see it in my messaging app but so far I have not found anything like this. I dont want davx5 or some other kind of cloud database to store contacts, just some way to manage contacts including my own</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CasuaIPixel"> /u/CasuaIPixel </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1ispt8e/replacement_google_contacts_app/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1ispt8e/replacement_google_contacts_app/">[comments]</a></span>
+
+## Maps to find trails
+ - [https://www.reddit.com/r/degoogle/comments/1ispnat/maps_to_find_trails](https://www.reddit.com/r/degoogle/comments/1ispnat/maps_to_find_trails)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:48:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, I am trying to degoogle, and I go on trails a lot and have a hiking group. I previously have used google maps and alltrails to search for trails my group can go to next. It&#39;s convenient because you can see the green spaces at a glance and zoom in to see specific trails. What do you all think would be the best replacement for this? Thank you!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Catinatreeatnight"> /u/Catinatreeatnight </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1ispnat/maps_to_find_trails/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1ispnat/maps_to_find_trails/">[comments]</a></span>
+
+## Family uses google and I don't want to
+ - [https://www.reddit.com/r/degoogle/comments/1ispk68/family_uses_google_and_i_dont_want_to](https://www.reddit.com/r/degoogle/comments/1ispk68/family_uses_google_and_i_dont_want_to)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:45:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey y&#39;all, I&#39;m looking at fully degoogling my life but my family isn&#39;t so interested. Basically I&#39;m wondering how we can keep our two eco systems compatible, mostly the calendar dates from google calendar to some other system (currently using proton mail)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Aggressive_Yard_1289"> /u/Aggressive_Yard_1289 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1ispk68/family_uses_google_and_i_dont_want_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1ispk68/family_uses_google_and_i_dont_want_to/">[comments]</a></span>
+
+## Since theres not much we can do to fully degoogle Pixel Watch/WearOS, what can I do to lower the amount of data google gets while using one?
+ - [https://www.reddit.com/r/degoogle/comments/1isp0q0/since_theres_not_much_we_can_do_to_fully_degoogle](https://www.reddit.com/r/degoogle/comments/1isp0q0/since_theres_not_much_we_can_do_to_fully_degoogle)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:27:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ive been researching and have been made aware that u cant really degoogle the Pixel Watch or WearOS devices.</p> <p>However, is there any way to limit what kind and how much data google gets off of you from using the watch? I need a WearOS for a specific app because its not supported on anything else.</p> <p>For example blocking it from pinging home perhaps, or even using adb/removing permissions from apps to where it minimizes how much google gets.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ViegoBot"> /u/ViegoBot </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1isp0q0/since_theres_not_much_we_can_do_to_fully_degoogle/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1isp0q0/since_theres_not_much_we_can_do_to_fully_degoogle/">[comments]</a></span>
+
+## Want to Degoogle
+ - [https://www.reddit.com/r/degoogle/comments/1ismxfn/want_to_degoogle](https://www.reddit.com/r/degoogle/comments/1ismxfn/want_to_degoogle)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:35:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been looking over this sub for a few days and it&#39;s a bit overwhelming. I am not a very techy person so I&#39;m goning through a learning curve here. I have a couple questions, but in general any advice of the best way to get started would be great.</p> <p>My reason for posting right now though, I thought for certain I had saved a post or comment from here that said Firefox is a better browser to use and that its extension uBlock is good to utilize but cannot find that now. So, is that true? I just downloaded the browser and want to make sure I&#39;m doing something worth doing. Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Recyclops1692"> /u/Recyclops1692 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1ismxfn/want_to_degoogle/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1ismxfn/want_to_degoogle/">[comments]</a></span>
+
+## Looking for an alternative to Google Photos
+ - [https://www.reddit.com/r/degoogle/comments/1ismqu0/looking_for_an_alternative_to_google_photos](https://www.reddit.com/r/degoogle/comments/1ismqu0/looking_for_an_alternative_to_google_photos)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:28:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Like the title says I was wondering if anyone had any recommendations for a photo app that I could use to replace Google Photos for all of my albums and pictures. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sokiru"> /u/Sokiru </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1ismqu0/looking_for_an_alternative_to_google_photos/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1ismqu0/looking_for_an_alternative_to_google_photos/">[comments]</a></span>
+
+## My de-googled Home Screen
+ - [https://www.reddit.com/r/degoogle/comments/1iskoml/my_degoogled_home_screen](https://www.reddit.com/r/degoogle/comments/1iskoml/my_degoogled_home_screen)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:06:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1iskoml/my_degoogled_home_screen/"> <img src="https://preview.redd.it/a7ew82ij4yje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df44e4cd7ec02cdd28ee37c975c8c312841273c1" alt="My de-googled Home Screen" title="My de-googled Home Screen" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SMKShay"> /u/SMKShay </a> <br/> <span><a href="https://i.redd.it/a7ew82ij4yje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1iskoml/my_degoogled_home_screen/">[comments]</a></span> </td></tr></table>
+
+## Can you recommend me a privacy-friendly keyboard app like Gboard?
+ - [https://www.reddit.com/r/degoogle/comments/1isj2fs/can_you_recommend_me_a_privacyfriendly_keyboard](https://www.reddit.com/r/degoogle/comments/1isj2fs/can_you_recommend_me_a_privacyfriendly_keyboard)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:03:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1isj2fs/can_you_recommend_me_a_privacyfriendly_keyboard/"> <img src="https://preview.redd.it/z200h41atxje1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=34eaf46da43654aeabced772c1a044efebcf1cc6" alt="Can you recommend me a privacy-friendly keyboard app like Gboard?" title="Can you recommend me a privacy-friendly keyboard app like Gboard?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Frequent-Story6939"> /u/Frequent-Story6939 </a> <br/> <span><a href="https://i.redd.it/z200h41atxje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1isj2fs/can_you_recommend_me_a_privacyfriendly_keyboard/">[comments]</a></span> </td></tr></table>
+
+## Search Engines?
+ - [https://www.reddit.com/r/degoogle/comments/1isitef/search_engines](https://www.reddit.com/r/degoogle/comments/1isitef/search_engines)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:53:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve completely removed google from my so far, but I&#39;d like recommendations for search engines. I use DuckDuckGo usually, but I just want to know if there&#39;s anything better out there, that does not have annoying ads and spyware (google, edge, etc etc)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tigrene"> /u/tigrene </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1isitef/search_engines/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1isitef/search_engines/">[comments]</a></span>
+
+## Once I degoogle (move to new locations), what's next? How do I remove my account/info from Google?
+ - [https://www.reddit.com/r/degoogle/comments/1isils7/once_i_degoogle_move_to_new_locations_whats_next](https://www.reddit.com/r/degoogle/comments/1isils7/once_i_degoogle_move_to_new_locations_whats_next)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:45:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>Once I feel like I have degoogled and am at a place that I am ready to be done with Google, what exactly do I do? Obviously simply removing the apps does nothing but what *exactly* do I do?</p> <p>A helpful step-by-step guide for NON TECHIES would be greatly appreciated!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Competitive-Plum3516"> /u/Competitive-Plum3516 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1isils7/once_i_degoogle_move_to_new_locations_whats_next/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1isils7/once_i_degoogle_move_to_new_locations_whats_next/">[comments]</a></span>
+
+## Guides on degoogling a phone from the get-go?
+ - [https://www.reddit.com/r/degoogle/comments/1isi3ry/guides_on_degoogling_a_phone_from_the_getgo](https://www.reddit.com/r/degoogle/comments/1isi3ry/guides_on_degoogling_a_phone_from_the_getgo)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:25:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Left Google Fi for Verizon Visible and have a new Samsung S24 FE on the way. I wanna start it out fresh and completely google-free. I&#39;m already looking into root methods and the best ROM to use, but in general are there any guides on the best apps/methods/tricks to keeping a phone Google-free? I can&#39;t seem to find any in the sidebar or stickied threads.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VagabondVivant"> /u/VagabondVivant </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1isi3ry/guides_on_degoogling_a_phone_from_the_getgo/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1isi3ry/guides_on_degoogling_a_phone_from_the_getgo/">[comments]</a></span>
+
+## Starting to realize Duckduckgo isn't all that. Is there a way to use Google search but ... degoogled?
+ - [https://www.reddit.com/r/degoogle/comments/1isi0cl/starting_to_realize_duckduckgo_isnt_all_that_is](https://www.reddit.com/r/degoogle/comments/1isi0cl/starting_to_realize_duckduckgo_isnt_all_that_is)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:21:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently searched for &quot;tortle tank&quot; (in quotes, it&#39;s a podcast thing) and DDG turned up <strong><a href="https://i.imgur.com/SIYXKAG.png">literally nothing</a></strong> while Google had <strong><a href="https://i.imgur.com/yFCuiTR.png">hits aplenty</a></strong> (the results went on for pages). </p> <p>Searx was no better, nor was Qwant.</p> <p>As much as I appreciate the privacy and not being inundated with ads, not at the cost of results. I need a search engine to, y&#39;know, search.</p> <p>Is there any way, likely through plugins and addons and whatnots, to get the benefit of Google search results without giving them any money? I don&#39;t care about privacy; that was taken from me ages ago. I just don&#39;t wanna give Google money.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VagabondVivant"> /u/VagabondVivant </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1isi0cl/sta
+
+## Chrome seems to be blocking my access to websites
+ - [https://www.reddit.com/r/degoogle/comments/1ishstt/chrome_seems_to_be_blocking_my_access_to_websites](https://www.reddit.com/r/degoogle/comments/1ishstt/chrome_seems_to_be_blocking_my_access_to_websites)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:13:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>Firstly, my apologies if this is the wrong place to post this but I couldnt find an appropriate sub for this. I really enjoy mechanical keyboards and the hobby takes me to some &quot;smaller&quot; websites. this was when I firrst realized that Chrome was seemingly blocking my access to these websites. They don&#39;t come up as blocked, simply the webpage just doesn&#39;t load and it stays completely blank. I tested with Edge and the same thing presumably because Edge is built on Chrome infrastructure. Duck Duck Go allows me to visit these sites. </p> <p>I&#39;ve done as much research I can do to find a resolution, but nothing seems to work. Changed DNS, removed all extension, turned off any safe browsing settings. </p> <p>Anyone know why Google is blocking this? I&#39;m definitely moving away from Chrome. But I can help but want to know why they are trying to restrict me to &quot;popular&quot; websites. </p> <p>websites not working so far <a href="ht
+
+## Whats the best (or the one you use) digital assistant for a phone?
+ - [https://www.reddit.com/r/degoogle/comments/1isgx4v/whats_the_best_or_the_one_you_use_digital](https://www.reddit.com/r/degoogle/comments/1isgx4v/whats_the_best_or_the_one_you_use_digital)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:37:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Using a wake word or just holding home button activated</p> <p>I just tried perplexity but it doesn&#39;t see to use wake words, from what I can tell.</p> <p>Thoughts?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheNamesScruffy"> /u/TheNamesScruffy </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1isgx4v/whats_the_best_or_the_one_you_use_digital/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1isgx4v/whats_the_best_or_the_one_you_use_digital/">[comments]</a></span>
+
+## Why is there no deGoogle Android ROM for Redmi Note 10 (mojito)?
+ - [https://www.reddit.com/r/degoogle/comments/1isgp1o/why_is_there_no_degoogle_android_rom_for_redmi](https://www.reddit.com/r/degoogle/comments/1isgp1o/why_is_there_no_degoogle_android_rom_for_redmi)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:28:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve seen many deGoogle ROMs /e/OS and Calyx and others and apparently non of them were even made for mojito for some reason. e/OS is for Note 10 Pro and 10S but not for 10. why is there not, it&#39;s not as if Note 10 is not popular, which it is but somehow people are just skipping over in making a ROM for it. Recently, my Note 10 just stopped showing any display at all and even after resetting to factory defaults its not showing any display. it still works in Safe Mode, but not in Normal mode, why is that? The phone is currently not bootloader unlocked, but i&#39;m planning to do so when they let me in 6 days.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CaliphOfEarth"> /u/CaliphOfEarth </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1isgp1o/why_is_there_no_degoogle_android_rom_for_redmi/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1isgp1o/why_
+
+## OVERWHELMED!!! Yikes!
+ - [https://www.reddit.com/r/degoogle/comments/1isgh92/overwhelmed_yikes](https://www.reddit.com/r/degoogle/comments/1isgh92/overwhelmed_yikes)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:20:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>OMG! I have read until my head spins. This tech terminology is so far beyond me. I thought this would be simple enough, but I was so wrong.</p> <p>Here are my most essential questions: </p> <p>I have Verizon for my Samsung Galaxy 23 phone. I still owe $400 in installments, and probably need to ride it out a bit longer. </p> <ol> <li><p>How do I degoogle as much as possible without a complete overhaul?</p></li> <li><p>What are the main &#39;spy&#39; apps I need to load to replace those by google? (I assume maps and search.... what else?)</p></li> <li><p>If I load replacements from google play store, does that somehow link them to google?</p></li> <li><p>If I load duckduckgo for example, would simply uninstalling the google search eliminate it?</p></li> <li><p>is there anything besides Google maps and Waze that will work with Andriod Auto?</p></li> <li><p>If I simply chuck my Andriod and buy an Iphone..... am I really helping my &#39;degoogle cause&#39
+
+## Google Voice alternative
+ - [https://www.reddit.com/r/degoogle/comments/1isf2m7/google_voice_alternative](https://www.reddit.com/r/degoogle/comments/1isf2m7/google_voice_alternative)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:20:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been working on moving away from proprietary software and the casual surveillance we live under bit by bit for several years now, but one of the things I&#39;ve had trouble letting go of is Google Voice. </p> <p>what I like:</p> <p>I use it as a separate work number, and I like that my phone so I can maintain work boundaries or decide to be more lax with them as necessary. </p> <p>bonuses/guiding factors:</p> <p>I&#39;m a mental health provider, so having my laptop able to make calls (so Ubuntu compatible if not web-based) is a big bonus if not a requirement in case someone needs to do a remote session. Hipaa compliance is a bonus, but as long as I receive but don&#39;t send information it&#39;s covered by my behavior/choices.</p> <p>My iphone is on its last legs, so I&#39;m finally going to let go of that in favor of either a pinephone or the light phone. Bonus if it&#39;s compatible with these, but I&#39;m willing to give up some convenien
+
+## I’m making a list of Non-US-based Apps and Services including No More Google
+ - [https://www.reddit.com/r/degoogle/comments/1iscoi5/im_making_a_list_of_nonusbased_apps_and_services](https://www.reddit.com/r/degoogle/comments/1iscoi5/im_making_a_list_of_nonusbased_apps_and_services)
+ - RSS feed: $source
+ - date published: 2025-02-18T13:29:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1iscoi5/im_making_a_list_of_nonusbased_apps_and_services/"> <img src="https://external-preview.redd.it/dON6J2iq5NoH39fQrZ6vPei2RPb2aISY5miaVNYo0vc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6cea8dc9bab7a7beee9b1b906bdd163bd7b49dff" alt="I’m making a list of Non-US-based Apps and Services including No More Google" title="I’m making a list of Non-US-based Apps and Services including No More Google" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hello! I’ve been exploring diversifying where I use apps and services from so it is less US-centric. I’ve compiled a list of alternatives including which platform they’re available on and whether or not they are open-source. As I continue this journey, I’ll update the list. Hope it’s useful! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BZZKL"> /u/BZZKL </a> <br/> <span><a href="https://mattkeil.craft.me/non-us-apps-and-servi
+
+## What do I use instead of Google News?
+ - [https://www.reddit.com/r/degoogle/comments/1iscgks/what_do_i_use_instead_of_google_news](https://www.reddit.com/r/degoogle/comments/1iscgks/what_do_i_use_instead_of_google_news)
+ - RSS feed: $source
+ - date published: 2025-02-18T13:18:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>I love using Google news to see all the top headlines from a bunch of different news outlets. I like how they have multiple sources and you can click Full Coverage to get more. I like how they separate the tabs &quot;U.S.&quot; &quot;World&quot; &quot;Business&quot; ect. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Masterof0"> /u/Masterof0 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1iscgks/what_do_i_use_instead_of_google_news/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1iscgks/what_do_i_use_instead_of_google_news/">[comments]</a></span>
+
+## No way to watch age restricted youtube videos anymore?
+ - [https://www.reddit.com/r/degoogle/comments/1isagd7/no_way_to_watch_age_restricted_youtube_videos](https://www.reddit.com/r/degoogle/comments/1isagd7/no_way_to_watch_age_restricted_youtube_videos)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:20:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>What the title says. I&#39;m mostly degoogled but still watch youtube. Now suddenly, I can&#39;t watch age restricted videos anymore. Used to work with 3rd party clients, frontends, downloaders, circumvention scripts etc. Now it seems like the only way is to login with a google account. I don&#39;t want a google account! Any tips?</p> <p>PS Here is a video to try it out: <a href="https://youtu.be/EJv7lAK5HmY">https://youtu.be/EJv7lAK5HmY</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/afunkysongaday"> /u/afunkysongaday </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1isagd7/no_way_to_watch_age_restricted_youtube_videos/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1isagd7/no_way_to_watch_age_restricted_youtube_videos/">[comments]</a></span>
+
+## Photos editor alternative
+ - [https://www.reddit.com/r/degoogle/comments/1isa500/photos_editor_alternative](https://www.reddit.com/r/degoogle/comments/1isa500/photos_editor_alternative)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:59:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m using Fossify Gallery and its perfectly adequate, but there&#39;s one important for me feature missing in its editor — cropping the picture by dragging points to where I want the corners of the picture to be. I&#39;m not sure what that kind of crop is called, but l need it because I frequently need to make pictures of pages and that&#39;s a lifesaver</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DorkNow"> /u/DorkNow </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1isa500/photos_editor_alternative/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1isa500/photos_editor_alternative/">[comments]</a></span>
+
+## Ya'll Basically already do this anyways
+ - [https://www.reddit.com/r/degoogle/comments/1is9uxe/yall_basically_already_do_this_anyways](https://www.reddit.com/r/degoogle/comments/1is9uxe/yall_basically_already_do_this_anyways)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:40:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Nationwide Full Strike July 4th/National Day of Protest</p> <p>Shopping Embargos every Saturday. Only purchase essential items if necessary or shop at small businesses. No shopping at any Nationwide Retailer. That is usually their busiest day of the week, much more noticible that they completely missed their daily/weekly goal.</p> <p>Boycott Amazon.</p> <p>Boycott Facebook/Instagram, Twitter</p> <p>Boycott Online Shopping through Google.</p> <p>Boycott Paypal</p> <p>Boycott AirBnB</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/7SeasofCheese"> /u/7SeasofCheese </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1is9uxe/yall_basically_already_do_this_anyways/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1is9uxe/yall_basically_already_do_this_anyways/">[comments]</a></span>
+
+## Better alternative to google docs, google maps, and gmails?
+ - [https://www.reddit.com/r/degoogle/comments/1is97x1/better_alternative_to_google_docs_google_maps_and](https://www.reddit.com/r/degoogle/comments/1is97x1/better_alternative_to_google_docs_google_maps_and)
+ - RSS feed: $source
+ - date published: 2025-02-18T09:54:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>And is there a program that&#39;ll exchange all details from one account to another?</p> <p>Most of the apps and sites I used are tied to my Gmail and I don&#39;t want to lose my account in the process. (I mean you can change the address on some accounts but still)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirky-Midnight-4533"> /u/Quirky-Midnight-4533 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1is97x1/better_alternative_to_google_docs_google_maps_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1is97x1/better_alternative_to_google_docs_google_maps_and/">[comments]</a></span>
+
+## Is getting rid of music streaming services worth it?
+ - [https://www.reddit.com/r/degoogle/comments/1is8rhs/is_getting_rid_of_music_streaming_services_worth](https://www.reddit.com/r/degoogle/comments/1is8rhs/is_getting_rid_of_music_streaming_services_worth)
+ - RSS feed: $source
+ - date published: 2025-02-18T09:20:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been contemplating uninstalling all music streaming applications (mostly i use spotify but sometimes apple music as well) i could switch to using my old ipod or listening using physical media (DVDs mostly) although im not sure if the switch is worth it. any thoughts?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Additional_Trifle_44"> /u/Additional_Trifle_44 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1is8rhs/is_getting_rid_of_music_streaming_services_worth/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1is8rhs/is_getting_rid_of_music_streaming_services_worth/">[comments]</a></span>
+
+## Just Installed App Manager how do I start degoogling
+ - [https://www.reddit.com/r/degoogle/comments/1is7p2t/just_installed_app_manager_how_do_i_start](https://www.reddit.com/r/degoogle/comments/1is7p2t/just_installed_app_manager_how_do_i_start)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:01:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi I have just installed app manager using F-Droid and searched com.google and as expected it came back with a shed load of Google apps.</p> <p>What I need to know is do I need to leave ANY Google software on my phone so I don&#39;t kill my android OS ? </p> <p>Sorry this is my first attempt at this so complete noob.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nomadic-hobbit21"> /u/nomadic-hobbit21 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1is7p2t/just_installed_app_manager_how_do_i_start/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1is7p2t/just_installed_app_manager_how_do_i_start/">[comments]</a></span>
+
+## How can we degoole a pixel
+ - [https://www.reddit.com/r/degoogle/comments/1is2uis/how_can_we_degoole_a_pixel](https://www.reddit.com/r/degoogle/comments/1is2uis/how_can_we_degoole_a_pixel)
+ - RSS feed: $source
+ - date published: 2025-02-18T03:08:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have seen post but worry about my pics and email. How can I bach up these this so I know they are good for us to save and not have open sources back to Google. Bot how di we hnow dat the stufb we enstall isa safe for our fhones!?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ComplexSignature6632"> /u/ComplexSignature6632 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1is2uis/how_can_we_degoole_a_pixel/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1is2uis/how_can_we_degoole_a_pixel/">[comments]</a></span>
+

@@ -1,0 +1,9 @@
+# Source:Pluralistic: Daily links from Cory Doctorow, URL:https://pluralistic.net/feed, language:en-US
+
+## Pluralistic: America and "national capitalism" (18 Feb 2025)
+ - [https://pluralistic.net/2025/02/18/pikettys-productivity](https://pluralistic.net/2025/02/18/pikettys-productivity)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:33:04+00:00
+
+Today's links America and "national capitalism": How the EU should respond to Trumpism. Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. America and "national capitalism" (permalink) Thomas Piketty's 2013 unexpected bestseller (a 750 page economics book translated from French!) Capital in the 21st Century, offers a very convincing explanation of our political decay, and it continues to serve this purpose as the decay undergoes alarming acceleration: https://memex.craphound.com/2014/06/24/thomas-pikettys-capital-in-the-21st-century/ Let me sketch out that argument really briefly for you here. Absent any kind of government intervention, markets make investors richer than workers (AKA "the rate of return on capital exceeds the rate of return from growt
+

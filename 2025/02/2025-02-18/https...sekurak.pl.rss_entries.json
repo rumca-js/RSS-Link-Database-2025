@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-18T05:00:10+00:00",
+        "description": "<p>W popularnym na platformie Windows programie WinZip, w ramach Zero Day Initiative zg\u0142oszona zosta\u0142a podatno\u015b\u0107 oznaczona symbolem CVE-2025-1240 i poziomie krytyczno\u015bci 7,8. Wyst\u0119puje ona podczas przetwarzania archiw\u00f3w 7Z i mo\u017ce prowadzi\u0107 do wykonania kodu w kontek\u015bcie u\u017cytkownika WinZipa. TLDR: Co prawda do wykorzystania podatno\u015bci konieczna jest interakcja u\u017cytkownika, polegaj\u0105ca na...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/uwaga-na-zdalne-wykonanie-kodu-w-pakiecie-winzip-pora-na-aktualizacje/\">Uwaga na zdalne wykonanie kodu w pakiecie WinZip &#8211; pora na aktualizacj\u0119</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2136589,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/uwaga-na-zdalne-wykonanie-kodu-w-pakiecie-winzip-pora-na-aktualizacje",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Uwaga na zdalne wykonanie kodu w pakiecie WinZip \u2013 pora na aktualizacj\u0119",
+        "vote": 0
+    }
+]

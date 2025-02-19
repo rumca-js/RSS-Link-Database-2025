@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-18T13:50:26+00:00",
+        "description": "Mice modified to have \u201chuman\u201d version of a protein made more complex squeaks",
+        "id": 2139364,
+        "language": null,
+        "link": "https://www.science.org/content/article/eloquent-mice-point-protein-may-have-shaped-human-speech",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 187,
+        "source_url": "https://www.science.org/rss/news_current.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2018Eloquent\u2019 mice point to protein that may have shaped human speech",
+        "vote": 0
+    }
+]

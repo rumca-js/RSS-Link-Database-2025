@@ -1,0 +1,261 @@
+# Source:conspiracy, URL:https://www.reddit.com/r/conspiracy/.rss, language:en
+
+## The TikTok ban has nothing to do with China, and everything to do with Israel.
+ - [https://www.reddit.com/r/conspiracy/comments/1isq6ye/the_tiktok_ban_has_nothing_to_do_with_china_and](https://www.reddit.com/r/conspiracy/comments/1isq6ye/the_tiktok_ban_has_nothing_to_do_with_china_and)
+ - RSS feed: $source
+ - date published: 2025-02-18T23:10:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1isq6ye/the_tiktok_ban_has_nothing_to_do_with_china_and/"> <img src="https://preview.redd.it/4x5qm6y5czje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c1c2c2f8a0d49529babc7579771452674f8e1251" alt="The TikTok ban has nothing to do with China, and everything to do with Israel." title="The TikTok ban has nothing to do with China, and everything to do with Israel." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://archive.is/nUqJS"><strong>Middle East Eye</strong></a> — The main reason behind the United States&#39; push to ban social media application TikTok is due to Israel’s image rather than fears of Chinese infiltrations, congressional insiders have revealed.</p> <p>At the <a href="https://en.m.wikipedia.org/wiki/61st_Munich_Security_Conference">Munich Security Conference</a>, US Senator <a href="https://en.m.wikipedia.org/wiki/Mark_Warner">Mark dWarner</a>, the top Democrat on the intell
+
+## Trump's DoJ is Dropping the Corruption Charges Against Democratic NYC Mayor Eric Adams, Pending a Review. The DoJ has Been Instructed to "Not Take Additional Investigative Steps" Regarding Adams Until After the Election Later This Year
+ - [https://www.reddit.com/r/conspiracy/comments/1isp5na/trumps_doj_is_dropping_the_corruption_charges](https://www.reddit.com/r/conspiracy/comments/1isp5na/trumps_doj_is_dropping_the_corruption_charges)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:31:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>This whole Saga is wild. Eric Adams was accused of accepting opulent gifts, expensive meals, and subsequent campaign donations from Turkish nationals. In return, Mayor Adams allegedly did favors for the Turkish leadership such as expediting fire safety inspections and staying quiet about the Armenian genocide.</p> <p><a href="https://apnews.com/article/nyc-mayor-eric-adams-indictment-fbi-5aad135d1808cb9d049fccd74604e5d4">Original article about Adams&#39; indictment</a></p> <p><a href="https://www.pbs.org/newshour/politics/read-the-full-indictment-against-new-york-mayor-eric-adams">Actual indictment</a></p> <p>According to the linked AP article, the reason for the DoJ dropping the charges is because;</p> <blockquote> <p>that a powerful defendant could be too occupied with official duties to face accountability for alleged crimes</p> </blockquote> <p>I very much prefer that my &quot;powerful&quot; defendants are <em>always</em> able and ready to face a
+
+## The President of Mexico is mad that the U.S. is going after the Narcos?
+ - [https://www.reddit.com/r/conspiracy/comments/1isou9v/the_president_of_mexico_is_mad_that_the_us_is](https://www.reddit.com/r/conspiracy/comments/1isou9v/the_president_of_mexico_is_mad_that_the_us_is)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:05:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1isou9v/the_president_of_mexico_is_mad_that_the_us_is/"> <img src="https://external-preview.redd.it/K3L4Epth0GAzZu9rPUMKNYB-7UTiwVCyVwMXmY3HNHw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2dd655dc35aa0c6988bb608fb4e5a381a0f5902" alt="The President of Mexico is mad that the U.S. is going after the Narcos?" title="The President of Mexico is mad that the U.S. is going after the Narcos?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ProtectedHologram"> /u/ProtectedHologram </a> <br/> <span><a href="https://i.imgur.com/VBp5I6U.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1isou9v/the_president_of_mexico_is_mad_that_the_us_is/">[comments]</a></span> </td></tr></table>
+
+## What if the megalodon is still alive.
+ - [https://www.reddit.com/r/conspiracy/comments/1isoduu/what_if_the_megalodon_is_still_alive](https://www.reddit.com/r/conspiracy/comments/1isoduu/what_if_the_megalodon_is_still_alive)
+ - RSS feed: $source
+ - date published: 2025-02-18T21:33:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a theory. Hear me out on this one. The megalodon could still be alive. Only 20% of the ocean has been explored. This fact proves that we do not know what is all extinct and alive. Now I don&#39;t think that the megalodon is in the Marianna Trench, but I do believe it exists. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wonkeydonkey55"> /u/wonkeydonkey55 </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1isoduu/what_if_the_megalodon_is_still_alive/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1isoduu/what_if_the_megalodon_is_still_alive/">[comments]</a></span>
+
+## 2024 Tax Season
+ - [https://www.reddit.com/r/conspiracy/comments/1isn85j/2024_tax_season](https://www.reddit.com/r/conspiracy/comments/1isn85j/2024_tax_season)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:47:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1isn85j/2024_tax_season/"> <img src="https://preview.redd.it/hjxcresnmyje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c06201e29d9e12979730ddee9918f1150d63686" alt="2024 Tax Season" title="2024 Tax Season" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Friendly reminder to file early and file often to beat the April rush... Here&#39;s to hoping this tax season doesn&#39;t sink your Titanic</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Think-Caramel1591"> /u/Think-Caramel1591 </a> <br/> <span><a href="https://i.redd.it/hjxcresnmyje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1isn85j/2024_tax_season/">[comments]</a></span> </td></tr></table>
+
+## ISO Rothschild video deleted from r/conspiracytheories a few days
+ - [https://www.reddit.com/r/conspiracy/comments/1ismvh8/iso_rothschild_video_deleted_from](https://www.reddit.com/r/conspiracy/comments/1ismvh8/iso_rothschild_video_deleted_from)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:33:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>The video seemed to be outside of one of the Rothschild houses, and there was a guy explaining how the Rothschilds control the world, and comparing politicians to prostitutes. It must’ve been sometime under the Obama administration as he mentioned Obama</p> <p>If someone could guide me to that video I will be very grateful</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/anonty973"> /u/anonty973 </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1ismvh8/iso_rothschild_video_deleted_from/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ismvh8/iso_rothschild_video_deleted_from/">[comments]</a></span>
+
+## All of the crimes directly linked to Hillary Clinton while working under Obama
+ - [https://www.reddit.com/r/conspiracy/comments/1islstz/all_of_the_crimes_directly_linked_to_hillary](https://www.reddit.com/r/conspiracy/comments/1islstz/all_of_the_crimes_directly_linked_to_hillary)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:50:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1islstz/all_of_the_crimes_directly_linked_to_hillary/"> <img src="https://external-preview.redd.it/DBmSuc7NnW0S7ZlrNMjG-fiL5EKfaANP63MBbTv8nj4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a1a75cc6f75d64bd34732971fb47ff123839368e" alt="All of the crimes directly linked to Hillary Clinton while working under Obama" title="All of the crimes directly linked to Hillary Clinton while working under Obama" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Constant-Interest686"> /u/Constant-Interest686 </a> <br/> <span><a href="https://rumble.com/v52p7uh-all-of-the-crimes-directly-linked-to-hillary-clinton-while-working-under-ob.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1islstz/all_of_the_crimes_directly_linked_to_hillary/">[comments]</a></span> </td></tr></table>
+
+## Fauci gets completely owned
+ - [https://www.reddit.com/r/conspiracy/comments/1islqbv/fauci_gets_completely_owned](https://www.reddit.com/r/conspiracy/comments/1islqbv/fauci_gets_completely_owned)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:47:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1islqbv/fauci_gets_completely_owned/"> <img src="https://external-preview.redd.it/UNCQJlZclhWj1Vp-eAWhTi9uv5AbhyIIure88FLksDI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ef727255fa8f18cf819a2ebcf08114550b9b10ae" alt="Fauci gets completely owned" title="Fauci gets completely owned" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Constant-Interest686"> /u/Constant-Interest686 </a> <br/> <span><a href="https://rumble.com/v52pkft-fauci-gets-completely-owned.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1islqbv/fauci_gets_completely_owned/">[comments]</a></span> </td></tr></table>
+
+## Robert Kehoe discovered reports that the chemical benzidine caused bladder cancer. His client, DuPont, made benzidine. Instead of alerting the American public, Kehoe stuffed the report in a box. The moldy records were unearthed decades later when DuPont’s employees, stricken with cancer, sued.
+ - [https://www.reddit.com/r/conspiracy/comments/1isktx6/robert_kehoe_discovered_reports_that_the_chemical](https://www.reddit.com/r/conspiracy/comments/1isktx6/robert_kehoe_discovered_reports_that_the_chemical)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:11:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1isktx6/robert_kehoe_discovered_reports_that_the_chemical/"> <img src="https://external-preview.redd.it/_1dsZVL4FwXqiQ1zeMpnyXVAY-xcK5QOqevCWZbaLyU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2682b2b8477803f47b670ca61afd792d0422fb06" alt="Robert Kehoe discovered reports that the chemical benzidine caused bladder cancer. His client, DuPont, made benzidine. Instead of alerting the American public, Kehoe stuffed the report in a box. The moldy records were unearthed decades later when DuPont’s employees, stricken with cancer, sued." title="Robert Kehoe discovered reports that the chemical benzidine caused bladder cancer. His client, DuPont, made benzidine. Instead of alerting the American public, Kehoe stuffed the report in a box. The moldy records were unearthed decades later when DuPont’s employees, stricken with cancer, sued." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Oran
+
+## I commented “assasinations” under this meme about Boeing and it got removed for “misinformation”
+ - [https://www.reddit.com/r/conspiracy/comments/1iskpcr/i_commented_assasinations_under_this_meme_about](https://www.reddit.com/r/conspiracy/comments/1iskpcr/i_commented_assasinations_under_this_meme_about)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:06:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iskpcr/i_commented_assasinations_under_this_meme_about/"> <img src="https://b.thumbs.redditmedia.com/CG-2iUPexPjNki514UAsg6R4-i0ouZ1GgnEHpWEU_Ic.jpg" alt="I commented “assasinations” under this meme about Boeing and it got removed for “misinformation”" title="I commented “assasinations” under this meme about Boeing and it got removed for “misinformation”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kurbopop"> /u/Kurbopop </a> <br/> <span><a href="https://www.reddit.com/gallery/1iskpcr">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iskpcr/i_commented_assasinations_under_this_meme_about/">[comments]</a></span> </td></tr></table>
+
+## CIA funding during Cold War
+ - [https://www.reddit.com/r/conspiracy/comments/1isirml/cia_funding_during_cold_war](https://www.reddit.com/r/conspiracy/comments/1isirml/cia_funding_during_cold_war)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:51:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1isirml/cia_funding_during_cold_war/"> <img src="https://a.thumbs.redditmedia.com/P5tzFhryr2xN2qqvHqK35GDKqwq18SVWtSak3KuR2L4.jpg" alt="CIA funding during Cold War" title="CIA funding during Cold War" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Was the CIA involved in sponsoring West German pedophilic foster homes overseen by the Social Democratic Party? Sorry if the title doesn’t fit.. any title suggestions ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mizgigs"> /u/Mizgigs </a> <br/> <span><a href="https://www.reddit.com/gallery/1isirml">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1isirml/cia_funding_during_cold_war/">[comments]</a></span> </td></tr></table>
+
+## CNBC: America has spent $6.4 trillion on wars in the Middle East and Asia since 2001, a new study says. Another 21 million people have been displaced due to violence. The post-9/11 wars in Iraq, Afghanistan, Pakistan and Syria have expanded to more than 80 countries.
+ - [https://www.reddit.com/r/conspiracy/comments/1isik2j/cnbc_america_has_spent_64_trillion_on_wars_in_the](https://www.reddit.com/r/conspiracy/comments/1isik2j/cnbc_america_has_spent_64_trillion_on_wars_in_the)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:43:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1isik2j/cnbc_america_has_spent_64_trillion_on_wars_in_the/"> <img src="https://external-preview.redd.it/7_Shd-PyyvCDDIceC3bGrkTjY2bLEoQbT4JWjzpOJfY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0cd09f868b5b529ad69137fd595d899dec380a2" alt="CNBC: America has spent $6.4 trillion on wars in the Middle East and Asia since 2001, a new study says. Another 21 million people have been displaced due to violence. The post-9/11 wars in Iraq, Afghanistan, Pakistan and Syria have expanded to more than 80 countries." title="CNBC: America has spent $6.4 trillion on wars in the Middle East and Asia since 2001, a new study says. Another 21 million people have been displaced due to violence. The post-9/11 wars in Iraq, Afghanistan, Pakistan and Syria have expanded to more than 80 countries." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Orangutan"> /u/Orangutan </a> <br/> <span><a href="https:/
+
+## Hmmm
+ - [https://www.reddit.com/r/conspiracy/comments/1ish7ig/hmmm](https://www.reddit.com/r/conspiracy/comments/1ish7ig/hmmm)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:49:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ish7ig/hmmm/"> <img src="https://preview.redd.it/khowhcz8gxje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a04981f10013e67d96f6768af5d7e2458eb23bfb" alt="Hmmm" title="Hmmm" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IMowGrass"> /u/IMowGrass </a> <br/> <span><a href="https://i.redd.it/khowhcz8gxje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ish7ig/hmmm/">[comments]</a></span> </td></tr></table>
+
+## Thoughts on the recent story of a Chinese guy spending $7 million dollars to spread the message that China is using brain implants to essentially enslave their population?
+ - [https://www.reddit.com/r/conspiracy/comments/1isfv7p/thoughts_on_the_recent_story_of_a_chinese_guy](https://www.reddit.com/r/conspiracy/comments/1isfv7p/thoughts_on_the_recent_story_of_a_chinese_guy)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:54:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>If you haven&#39;t heard, recently a guy going by &quot;Hu Lezhi&quot; burned $7 million in donations via crypto to state that China has brain implant / weapon technology that are able to suppress the emotions of whoever they are implanted into as well as control them, and it even apparently works on wild animals. </p> <p><a href="https://x.com/0xMatt1/status/1891520992943440222?t=YVgMj5c4ihylYW8ckxqlWQ&amp;s=19">https://x.com/0xMatt1/status/1891520992943440222?t=YVgMj5c4ihylYW8ckxqlWQ&amp;s=19</a> </p> <p><a href="https://www.tradingview.com/news/cointelegraph:85e7c466e094b:0-programmer-sends-2m-eth-to-wikileaks-alleging-brain-computer-weapons/">https://www.tradingview.com/news/cointelegraph:85e7c466e094b:0-programmer-sends-2m-eth-to-wikileaks-alleging-brain-computer-weapons/</a></p> <p><a href="https://coinpedia.org/news/how-ethereum-burn-became-a-powerful-protest-against-brain-control-manipulation/">https://coinpedia.org/news/how-ethereum-burn-bec
+
+## I believe the Democratic and Republican parties intentionally oppose each other to divide Americans
+ - [https://www.reddit.com/r/conspiracy/comments/1isfupn/i_believe_the_democratic_and_republican_parties](https://www.reddit.com/r/conspiracy/comments/1isfupn/i_believe_the_democratic_and_republican_parties)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:54:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>I think most of the officials don&#39;t even believe the things they say but way them to get their voter base. Both parties have some valid stances on issues but they set it up to make everyone choose a side and both parties play to that side</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hjkfttu"> /u/hjkfttu </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1isfupn/i_believe_the_democratic_and_republican_parties/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1isfupn/i_believe_the_democratic_and_republican_parties/">[comments]</a></span>
+
+## People got the vaccine 💉 after seeing this
+ - [https://www.reddit.com/r/conspiracy/comments/1isffk7/people_got_the_vaccine_after_seeing_this](https://www.reddit.com/r/conspiracy/comments/1isffk7/people_got_the_vaccine_after_seeing_this)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:36:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1isffk7/people_got_the_vaccine_after_seeing_this/"> <img src="https://external-preview.redd.it/2kaImQms0FzvopVCDgHGob5HoPREfucVokVDdJt_JGg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9bb48ecb5970d9b0bae45cd5bcdd4077578a392" alt="People got the vaccine 💉 after seeing this" title="People got the vaccine 💉 after seeing this" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Constant-Interest686"> /u/Constant-Interest686 </a> <br/> <span><a href="https://rumble.com/v6m9xrr-people-got-the-vaccine-after-seeing-this-.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1isffk7/people_got_the_vaccine_after_seeing_this/">[comments]</a></span> </td></tr></table>
+
+## On October 25, 1988 Shirley Temple exposed Hollywood pedophilia on CNN’s “Larry King Live.”
+ - [https://www.reddit.com/r/conspiracy/comments/1isfbli/on_october_25_1988_shirley_temple_exposed](https://www.reddit.com/r/conspiracy/comments/1isfbli/on_october_25_1988_shirley_temple_exposed)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:31:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1isfbli/on_october_25_1988_shirley_temple_exposed/"> <img src="https://external-preview.redd.it/U1EwoQATXzcInl-5yljl2HBfJiDo20RgjaR3jrGUa3o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a694ef78c53137432a336c3cfd2fee74332e2b57" alt="On October 25, 1988 Shirley Temple exposed Hollywood pedophilia on CNN’s “Larry King Live.”" title="On October 25, 1988 Shirley Temple exposed Hollywood pedophilia on CNN’s “Larry King Live.”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Constant-Interest686"> /u/Constant-Interest686 </a> <br/> <span><a href="https://rumble.com/v6m9u2u-on-october-25-1988-shirley-temple-exposed-hollywood-pedophilia-on-cnns-larr.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1isfbli/on_october_25_1988_shirley_temple_exposed/">[comments]</a></span> </td></tr></table>
+
+## What if Stargate in Texas was found and not actually being built? Just the data center is being built around it.
+ - [https://www.reddit.com/r/conspiracy/comments/1iseqex/what_if_stargate_in_texas_was_found_and_not](https://www.reddit.com/r/conspiracy/comments/1iseqex/what_if_stargate_in_texas_was_found_and_not)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:06:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iseqex/what_if_stargate_in_texas_was_found_and_not/"> <img src="https://a.thumbs.redditmedia.com/V-MsV5giucrqHdg9V15PS6AiaHO-5pX9khI3hVC9Hz8.jpg" alt="What if Stargate in Texas was found and not actually being built? Just the data center is being built around it." title="What if Stargate in Texas was found and not actually being built? Just the data center is being built around it." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Here&#39;s something interesting, during the iraq invasion, one of the biggest theories was that a lot of artifacts etc were stolen and the real reason for the invasion was due to Saddam having ownership of the Ziggarat of Ur which under it supposedly had a Annunaki stargate &quot;portal&quot;. It got me thinking.. if it were true what if it&#39;s not the only stargate or portal, what if one was found under Texas and the stargate data center is being built around it. In 2024 after pr
+
+## Piers Morgan: Top UK Expert admits mRNA jobs causing "whirlwind of cancer."
+ - [https://www.reddit.com/r/conspiracy/comments/1isenea/piers_morgan_top_uk_expert_admits_mrna_jobs](https://www.reddit.com/r/conspiracy/comments/1isenea/piers_morgan_top_uk_expert_admits_mrna_jobs)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:02:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1isenea/piers_morgan_top_uk_expert_admits_mrna_jobs/"> <img src="https://preview.redd.it/i0obaxu0xwje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=24e1b8024d6f7d9e6c0e5fe6206a65fb2687c4e2" alt="Piers Morgan: Top UK Expert admits mRNA jobs causing &quot;whirlwind of cancer.&quot;" title="Piers Morgan: Top UK Expert admits mRNA jobs causing &quot;whirlwind of cancer.&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Match6172"> /u/No-Match6172 </a> <br/> <span><a href="https://i.redd.it/i0obaxu0xwje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1isenea/piers_morgan_top_uk_expert_admits_mrna_jobs/">[comments]</a></span> </td></tr></table>
+
+## 🚨BREAKING: DOGE is calling for an investigation into Elizabeth Warren’s multi-million dollar net worth! Do you support this investigation? YES or NO?
+ - [https://www.reddit.com/r/conspiracy/comments/1ise2v7/breaking_doge_is_calling_for_an_investigation](https://www.reddit.com/r/conspiracy/comments/1ise2v7/breaking_doge_is_calling_for_an_investigation)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:36:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1ise2v7/breaking_doge_is_calling_for_an_investigation/"> <img src="https://preview.redd.it/bbq5u0vhswje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b00a6f96221fc44ad00ae4b982eba55e53c0fc6e" alt="🚨BREAKING: DOGE is calling for an investigation into Elizabeth Warren’s multi-million dollar net worth! Do you support this investigation? YES or NO?" title="🚨BREAKING: DOGE is calling for an investigation into Elizabeth Warren’s multi-million dollar net worth! Do you support this investigation? YES or NO?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/S_Diva38015"> /u/S_Diva38015 </a> <br/> <span><a href="https://i.redd.it/bbq5u0vhswje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1ise2v7/breaking_doge_is_calling_for_an_investigation/">[comments]</a></span> </td></tr></table>
+
+## Musk fires FDA staff who was examining his brain implant company
+ - [https://www.reddit.com/r/conspiracy/comments/1iscy6l/musk_fires_fda_staff_who_was_examining_his_brain](https://www.reddit.com/r/conspiracy/comments/1iscy6l/musk_fires_fda_staff_who_was_examining_his_brain)
+ - RSS feed: $source
+ - date published: 2025-02-18T13:43:05+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.usatoday.com/story/news/politics/2025/02/17/fda-elon-musk-neuralink-doge-trump/79000197007/#">https://www.usatoday.com/story/news/politics/2025/02/17/fda-elon-musk-neuralink-doge-trump/79000197007/#</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/9river6"> /u/9river6 </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1iscy6l/musk_fires_fda_staff_who_was_examining_his_brain/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iscy6l/musk_fires_fda_staff_who_was_examining_his_brain/">[comments]</a></span>
+
+## What if there’s actually *more* gold than reported in Fort Knox and the NY Federal Reserve vault, and the reason we haven’t audited it in 50 years is because the US Government would have to explain where and when we got it all.
+ - [https://www.reddit.com/r/conspiracy/comments/1isckr1/what_if_theres_actually_more_gold_than_reported](https://www.reddit.com/r/conspiracy/comments/1isckr1/what_if_theres_actually_more_gold_than_reported)
+ - RSS feed: $source
+ - date published: 2025-02-18T13:24:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1isckr1/what_if_theres_actually_more_gold_than_reported/"> <img src="https://preview.redd.it/ejj29p7kfwje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=687039be1e2f45f05c303c0ce488cbdeffaca9a6" alt="What if there’s actually *more* gold than reported in Fort Knox and the NY Federal Reserve vault, and the reason we haven’t audited it in 50 years is because the US Government would have to explain where and when we got it all." title="What if there’s actually *more* gold than reported in Fort Knox and the NY Federal Reserve vault, and the reason we haven’t audited it in 50 years is because the US Government would have to explain where and when we got it all." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://archive.is/j1FYD"><strong>CBS</strong></a> — Sen. Rand Paul, R-Ky., on Sunday urged the Elon Musk-led Department of Government Efficiency (DOGE) to probe a stash of gold reserves at a U.S. 
+
+## The true conspiracy
+ - [https://www.reddit.com/r/conspiracy/comments/1isbadu/the_true_conspiracy](https://www.reddit.com/r/conspiracy/comments/1isbadu/the_true_conspiracy)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:12:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>The real conspiracy is that conspiracy theories are fired by powerful forces who want to obscure their power grab. Keep people confused and cynical so they can lie and get away with it. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/divers69"> /u/divers69 </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1isbadu/the_true_conspiracy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1isbadu/the_true_conspiracy/">[comments]</a></span>
+
+## What could it be?
+ - [https://www.reddit.com/r/conspiracy/comments/1isay8f/what_could_it_be](https://www.reddit.com/r/conspiracy/comments/1isay8f/what_could_it_be)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:52:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1isay8f/what_could_it_be/"> <img src="https://preview.redd.it/48kbmdm4zvje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4d8a1b14f34dfcf369f133cd71b0042783bbbaf7" alt="What could it be?" title="What could it be?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/YoutubeCodClips420"> /u/YoutubeCodClips420 </a> <br/> <span><a href="https://i.redd.it/48kbmdm4zvje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1isay8f/what_could_it_be/">[comments]</a></span> </td></tr></table>
+
+## Locked up for life in a maximum security prison
+ - [https://www.reddit.com/r/conspiracy/comments/1isau0x/locked_up_for_life_in_a_maximum_security_prison](https://www.reddit.com/r/conspiracy/comments/1isau0x/locked_up_for_life_in_a_maximum_security_prison)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:44:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1isau0x/locked_up_for_life_in_a_maximum_security_prison/"> <img src="https://preview.redd.it/xa42hfytxvje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4d87fcad9af545196d980f04e9a8f68babd9510e" alt="Locked up for life in a maximum security prison" title="Locked up for life in a maximum security prison" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nightin87"> /u/nightin87 </a> <br/> <span><a href="https://i.redd.it/xa42hfytxvje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1isau0x/locked_up_for_life_in_a_maximum_security_prison/">[comments]</a></span> </td></tr></table>
+
+## I would like to know from which subreddits you were banned because people didn't want to hear the truth?
+ - [https://www.reddit.com/r/conspiracy/comments/1is9xu3/i_would_like_to_know_from_which_subreddits_you](https://www.reddit.com/r/conspiracy/comments/1is9xu3/i_would_like_to_know_from_which_subreddits_you)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:46:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1is9xu3/i_would_like_to_know_from_which_subreddits_you/"> <img src="https://preview.redd.it/18p20uccnvje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=63d85a87e06b8be7cf74697ea41d13302e5fff04" alt="I would like to know from which subreddits you were banned because people didn't want to hear the truth?" title="I would like to know from which subreddits you were banned because people didn't want to hear the truth?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Seximilian"> /u/Seximilian </a> <br/> <span><a href="https://i.redd.it/18p20uccnvje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1is9xu3/i_would_like_to_know_from_which_subreddits_you/">[comments]</a></span> </td></tr></table>
+
+## Someone burned more than a million USD in crypto to send a message about a brain-computer interface (x-post)
+ - [https://www.reddit.com/r/conspiracy/comments/1is9rdm/someone_burned_more_than_a_million_usd_in_crypto](https://www.reddit.com/r/conspiracy/comments/1is9rdm/someone_burned_more_than_a_million_usd_in_crypto)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:33:20+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/CXgamer"> /u/CXgamer </a> <br/> <span><a href="https://www.reddit.com/r/ethtrader/comments/1irjk3u/someone_burned_500_eth_with_a_mysterious_message/?utm_source=share&amp;utm_medium=android_app&amp;utm_name=androidcss&amp;utm_term=1&amp;utm_content=1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1is9rdm/someone_burned_more_than_a_million_usd_in_crypto/">[comments]</a></span>
+
+## DOGE just revealed the Government sent $4.7 TRILLION in untraceable payments.
+ - [https://www.reddit.com/r/conspiracy/comments/1is9k17/doge_just_revealed_the_government_sent_47](https://www.reddit.com/r/conspiracy/comments/1is9k17/doge_just_revealed_the_government_sent_47)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:18:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1is9k17/doge_just_revealed_the_government_sent_47/"> <img src="https://preview.redd.it/765jmuyfivje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=24e29d7033b0b54523bc5610f0709bb5e2a84793" alt="DOGE just revealed the Government sent $4.7 TRILLION in untraceable payments." title="DOGE just revealed the Government sent $4.7 TRILLION in untraceable payments." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://archive.is/4SZxm"><strong>The New York Post</strong></a> — The Department of Government Efficiency (<a href="https://en.m.wikipedia.org/wiki/Department_of_Government_Efficiency">DOGE</a>) announced Monday that some $4.7 trillion in payments from the Treasury Department were missing a critical tracking code which made tracing the transactions “almost impossible.” </p> <p>The missing Treasury Account Symbol (TAS) links payments to budget line items, but it was previously an optional field, DO
+
+## If you still think Brigitte Macron’s scandal is a conspiracy theory then watch this explosive interview with the journalist who investigated the case.
+ - [https://www.reddit.com/r/conspiracy/comments/1is94yk/if_you_still_think_brigitte_macrons_scandal_is_a](https://www.reddit.com/r/conspiracy/comments/1is94yk/if_you_still_think_brigitte_macrons_scandal_is_a)
+ - RSS feed: $source
+ - date published: 2025-02-18T09:48:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1is94yk/if_you_still_think_brigitte_macrons_scandal_is_a/"> <img src="https://external-preview.redd.it/t0g5fJr0WD8VMqXppD8nXh9Xdzlp9e9At189IUR4wPw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=34bc275a6f2801a4219faa38b983f2cf07476296" alt="If you still think Brigitte Macron’s scandal is a conspiracy theory then watch this explosive interview with the journalist who investigated the case." title="If you still think Brigitte Macron’s scandal is a conspiracy theory then watch this explosive interview with the journalist who investigated the case." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Conscious-Ad-7656"> /u/Conscious-Ad-7656 </a> <br/> <span><a href="https://candaceowens.com/video/becoming-brigitte-candace-owens-x-xavier-poussard-ep-6/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1is94yk/if_you_still_think_brigitte_macrons_scandal_is
+
+## I suspect that reddit and Wikipedia and most major polling outfits are propped up by USAID
+ - [https://www.reddit.com/r/conspiracy/comments/1is7s1d/i_suspect_that_reddit_and_wikipedia_and_most](https://www.reddit.com/r/conspiracy/comments/1is7s1d/i_suspect_that_reddit_and_wikipedia_and_most)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:07:30+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/DorkSideOfCryo"> /u/DorkSideOfCryo </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1is7s1d/i_suspect_that_reddit_and_wikipedia_and_most/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1is7s1d/i_suspect_that_reddit_and_wikipedia_and_most/">[comments]</a></span>
+
+## Endgame.
+ - [https://www.reddit.com/r/conspiracy/comments/1is6vnu/endgame](https://www.reddit.com/r/conspiracy/comments/1is6vnu/endgame)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:04:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1is6vnu/endgame/"> <img src="https://b.thumbs.redditmedia.com/KDH75XakkEMECOZ4D7LpoPa3OmxQ78GDB92WZWlRBiE.jpg" alt="Endgame." title="Endgame." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BavarianMotorWerkss"> /u/BavarianMotorWerkss </a> <br/> <span><a href="https://www.reddit.com/gallery/1is6vnu">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1is6vnu/endgame/">[comments]</a></span> </td></tr></table>
+
+## Why won't they disclose who's actually working for and running DOGE? Because it ain't Musk. And why is he taking credit for it?
+ - [https://www.reddit.com/r/conspiracy/comments/1is3t6i/why_wont_they_disclose_whos_actually_working_for](https://www.reddit.com/r/conspiracy/comments/1is3t6i/why_wont_they_disclose_whos_actually_working_for)
+ - RSS feed: $source
+ - date published: 2025-02-18T03:59:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1is3t6i/why_wont_they_disclose_whos_actually_working_for/"> <img src="https://preview.redd.it/9d2mxydumtje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4d721f80376563451625c4da06b0eaeb9ff8056d" alt="Why won't they disclose who's actually working for and running DOGE? Because it ain't Musk. And why is he taking credit for it?" title="Why won't they disclose who's actually working for and running DOGE? Because it ain't Musk. And why is he taking credit for it?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Info on the employees is being censored across the Internet and now, it turns out, Musk isn&#39;t even a part of it. Trump has specifically made special provisions shielding them from FOIA requests. So who actually runs DOGE? One of these 20yo kids? Surely not, but someone has to be calling the shots. Best I can figure is Musk is actually the one running it, but they&#39;re shielding him from any legal
+
+## Where did it all go?
+ - [https://www.reddit.com/r/conspiracy/comments/1is3awl/where_did_it_all_go](https://www.reddit.com/r/conspiracy/comments/1is3awl/where_did_it_all_go)
+ - RSS feed: $source
+ - date published: 2025-02-18T03:32:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1is3awl/where_did_it_all_go/"> <img src="https://preview.redd.it/h1gpj7vyhtje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e1712b2ae0ff7dd10862770f8374c512ce5c58f" alt="Where did it all go?" title="Where did it all go?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chafingNip"> /u/chafingNip </a> <br/> <span><a href="https://i.redd.it/h1gpj7vyhtje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1is3awl/where_did_it_all_go/">[comments]</a></span> </td></tr></table>
+
+## I have a dream that one day people will not be judged by the color of their skin, but by the content of their character
+ - [https://www.reddit.com/r/conspiracy/comments/1is1xmh/i_have_a_dream_that_one_day_people_will_not_be](https://www.reddit.com/r/conspiracy/comments/1is1xmh/i_have_a_dream_that_one_day_people_will_not_be)
+ - RSS feed: $source
+ - date published: 2025-02-18T02:22:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1is1xmh/i_have_a_dream_that_one_day_people_will_not_be/"> <img src="https://external-preview.redd.it/0SHS91XjtvH5OmPnnv2WezHXqn5ssIWiIYruRouW4gs.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=42688c287137b2fa263e8462ca03d12fc4ab5aac" alt="I have a dream that one day people will not be judged by the color of their skin, but by the content of their character" title="I have a dream that one day people will not be judged by the color of their skin, but by the content of their character" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ProtectedHologram"> /u/ProtectedHologram </a> <br/> <span><a href="https://i.imgur.com/Erm1Jtr.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1is1xmh/i_have_a_dream_that_one_day_people_will_not_be/">[comments]</a></span> </td></tr></table>
+
+## Brigitte Macron Photo
+ - [https://www.reddit.com/r/conspiracy/comments/1is17b8/brigitte_macron_photo](https://www.reddit.com/r/conspiracy/comments/1is17b8/brigitte_macron_photo)
+ - RSS feed: $source
+ - date published: 2025-02-18T01:45:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1is17b8/brigitte_macron_photo/"> <img src="https://preview.redd.it/knn1x2uxysje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0371081fde747a6475055e4399ee7e21aee62a78" alt="Brigitte Macron Photo" title="Brigitte Macron Photo" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Clockworkorange2013"> /u/Clockworkorange2013 </a> <br/> <span><a href="https://i.redd.it/knn1x2uxysje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1is17b8/brigitte_macron_photo/">[comments]</a></span> </td></tr></table>
+
+## They survived!
+ - [https://www.reddit.com/r/conspiracy/comments/1is0zcs/they_survived](https://www.reddit.com/r/conspiracy/comments/1is0zcs/they_survived)
+ - RSS feed: $source
+ - date published: 2025-02-18T01:34:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1is0zcs/they_survived/"> <img src="https://preview.redd.it/ysy50rizwsje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=41b6841d0c1eedb6def08fffb36aa80b421f494a" alt="They survived!" title="They survived!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Journalist6170"> /u/No_Journalist6170 </a> <br/> <span><a href="https://i.redd.it/ysy50rizwsje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1is0zcs/they_survived/">[comments]</a></span> </td></tr></table>
+
+## Opinions?
+ - [https://www.reddit.com/r/conspiracy/comments/1is084z/opinions](https://www.reddit.com/r/conspiracy/comments/1is084z/opinions)
+ - RSS feed: $source
+ - date published: 2025-02-18T00:59:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1is084z/opinions/"> <img src="https://preview.redd.it/mzeccucnqsje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f170e2c37e51ae9cac1af1b7e40635d38332178" alt="Opinions?" title="Opinions?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OkPotential3282"> /u/OkPotential3282 </a> <br/> <span><a href="https://i.redd.it/mzeccucnqsje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1is084z/opinions/">[comments]</a></span> </td></tr></table>
+

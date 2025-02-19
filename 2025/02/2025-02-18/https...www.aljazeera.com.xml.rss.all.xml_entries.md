@@ -1,0 +1,296 @@
+# Source:Al Jazeera – Breaking News, World News and Video from Al Jazeera, URL:https://www.aljazeera.com/xml/rss/all.xml, language:en-US
+
+## US judge declines to halt Trump’s push to slash federal workforce
+ - [https://www.aljazeera.com/news/2025/2/18/us-judge-declines-to-halt-trumps-push-to-slash-federal-workforce?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/us-judge-declines-to-halt-trumps-push-to-slash-federal-workforce?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T23:16:36+00:00
+
+Judge Tanya Chutkan has ruled against a 14-state effort to get a restraining order against DOGE efforts to access data.
+
+## Federal prosecutor blames Trump administration pressure for resignation
+ - [https://www.aljazeera.com/news/2025/2/18/federal-prosecutor-blames-trump-administration-pressure-for-resignation?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/federal-prosecutor-blames-trump-administration-pressure-for-resignation?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:19:12+00:00
+
+In announcing her resignation, Denise Cheung said a Trump appointee pushed her to launch a criminal probe without cause.
+
+## Video: Israel partially withdraws troops from Lebanon as deadline expires
+ - [https://www.aljazeera.com/program/newsfeed/2025/2/18/video-israel-partially-withdraws-troops-in-lebanon-as-deadline-expires?traffic_source=rss](https://www.aljazeera.com/program/newsfeed/2025/2/18/video-israel-partially-withdraws-troops-in-lebanon-as-deadline-expires?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T21:18:16+00:00
+
+Thousands of Lebanese civilians are going back to their villages after the partial withdrawal of Israeli troops.
+
+## Pope Francis has pneumonia in both lungs, Vatican says
+ - [https://www.aljazeera.com/news/2025/2/18/pope-francis-health-complicates-to-pneumonia-in-both-lungs-vatican-says?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/pope-francis-health-complicates-to-pneumonia-in-both-lungs-vatican-says?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:54:04+00:00
+
+Vatican says Francis&#039;s respiratory infection also involves asthmatic bronchitis but that he remains &#039;in good spirits&#039;.
+
+## Video shows moment Delta passenger plane crash lands and rolls
+ - [https://www.aljazeera.com/program/newsfeed/2025/2/18/video-shows-moment-delta-passenger-plane-crash-lands-and-rolls?traffic_source=rss](https://www.aljazeera.com/program/newsfeed/2025/2/18/video-shows-moment-delta-passenger-plane-crash-lands-and-rolls?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:26:49+00:00
+
+Video from inside the cockpit of another plane captured the moment a Delta jet crash landed in Toronto.
+
+## Ukraine rejects US-Russia talks as Moscow says no NATO peacekeepers
+ - [https://www.aljazeera.com/program/newsfeed/2025/2/18/ukraine-rejects-us-russia-talks-as-moscow-says-no-nato-peacekeepers?traffic_source=rss](https://www.aljazeera.com/program/newsfeed/2025/2/18/ukraine-rejects-us-russia-talks-as-moscow-says-no-nato-peacekeepers?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:58:56+00:00
+
+Ukraine’s president has rejected high-level US-Russia talks on ending the war on his country.
+
+## How will Lebanon’s new leadership grapple with Israel’s partial withdrawal?
+ - [https://www.aljazeera.com/program/inside-story/2025/2/18/how-will-lebanons-new-leadership-grapple-with-israels-partial-withdrawal?traffic_source=rss](https://www.aljazeera.com/program/inside-story/2025/2/18/how-will-lebanons-new-leadership-grapple-with-israels-partial-withdrawal?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:51:57+00:00
+
+Israel&#039;s defence minister says some troops will remain in five positions.
+
+## Judge orders leaders of cult-like ‘Zizian’ group to be held without bail
+ - [https://www.aljazeera.com/news/2025/2/18/judge-orders-leaders-of-cult-like-zizian-group-to-be-held-without-bail?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/judge-orders-leaders-of-cult-like-zizian-group-to-be-held-without-bail?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:51:56+00:00
+
+Jack LaSota, a blogger known as Ziz, was arrested with two other suspects and tied to a series of six recent killings.
+
+## Israel refuses to fully withdraw from Lebanon: Here’s what to know
+ - [https://www.aljazeera.com/news/2025/2/18/israel-refuses-to-fully-withdraw-from-lebanon-heres-what-to-know?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/israel-refuses-to-fully-withdraw-from-lebanon-heres-what-to-know?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:57:23+00:00
+
+Israel will keep troops in five locations in Lebanon, defying a ceasefire agreement that came into effect in November.
+
+## Zelenskyy demands Ukraine involvement after US-Russia talks on war
+ - [https://www.aljazeera.com/news/2025/2/18/zelenskyy-demands-ukraine-involvement-after-us-russia-talks-on-war?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/zelenskyy-demands-ukraine-involvement-after-us-russia-talks-on-war?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:43:40+00:00
+
+Ukrainian president says no decision on how to end Russia&#039;s war on his country can be made without consulting Kyiv.
+
+## Native American activist Leonard Peltier released from US prison
+ - [https://www.aljazeera.com/news/2025/2/18/native-american-activist-leonard-peltier-released-from-us-prison?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/native-american-activist-leonard-peltier-released-from-us-prison?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:15:36+00:00
+
+Supporters celebrate the release of an Indigenous activist imprisoned for killing of FBI agents after a flawed trial.
+
+## British couple detained in Iran charged with spying
+ - [https://www.aljazeera.com/news/2025/2/18/british-couple-detained-in-iran-charged-with-spying-during-global-bike-trip?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/british-couple-detained-in-iran-charged-with-spying-during-global-bike-trip?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:17:10+00:00
+
+The couple said they had ignored warnings not to travel to Iran as part of their global motorbike trip.
+
+## Hamas to release six Israeli captives, hand over four bodies this week
+ - [https://www.aljazeera.com/news/2025/2/18/hamas-to-release-six-israeli-captives-hand-over-four-bodies-this-week?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/hamas-to-release-six-israeli-captives-hand-over-four-bodies-this-week?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:03:12+00:00
+
+Khalil al-Hayya, Hamas leader in Gaza, says six Israeli captives will be released on Saturday under a ceasefire deal.
+
+## Trump’s Ukraine policy shift: How are European leaders planning to respond?
+ - [https://www.aljazeera.com/news/2025/2/18/trumps-ukraine-policy-shift-how-are-european-leaders-planning-to-respond?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/trumps-ukraine-policy-shift-how-are-european-leaders-planning-to-respond?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:16:45+00:00
+
+European leaders are scrambling for responses after Trump reached out to Putin to end the war in Ukraine.
+
+## Real Madrid vs Man City: UEFA Champions League – team news, preview, start
+ - [https://www.aljazeera.com/sports/2025/2/18/real-madrid-vs-man-city-uefa-champions-league-team-news-preview-start?traffic_source=rss](https://www.aljazeera.com/sports/2025/2/18/real-madrid-vs-man-city-uefa-champions-league-team-news-preview-start?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:14:58+00:00
+
+Real Madrid coach Carlo Ancelotti says Manchester City must not be underestimated in their Champions League playoff.
+
+## Gaza ceasefire “imperative” for children’s needs
+ - [https://www.aljazeera.com/program/quotable/2025/2/18/gaza-ceasefire-imperative-for-childrens-needs?traffic_source=rss](https://www.aljazeera.com/program/quotable/2025/2/18/gaza-ceasefire-imperative-for-childrens-needs?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:55:05+00:00
+
+“We need to ensure that aid continues to flow.”
+
+## Tren de Aragua: America’s new bogeyman
+ - [https://www.aljazeera.com/opinions/2025/2/18/tren-de-aragua-americas-new-bogeyman?traffic_source=rss](https://www.aljazeera.com/opinions/2025/2/18/tren-de-aragua-americas-new-bogeyman?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:32:34+00:00
+
+The &#039;extraordinarily violent&#039; Venezuelan gang is the latest source of US hallucinations about horrors of migration.
+
+## Is the Israeli-Lebanon truce a ceasefire or a cover?
+ - [https://www.aljazeera.com/program/birds-eye-view/2025/2/18/is-the-israeli-lebanon-truce-a-ceasefire-or-a-cover?traffic_source=rss](https://www.aljazeera.com/program/birds-eye-view/2025/2/18/is-the-israeli-lebanon-truce-a-ceasefire-or-a-cover?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:30:18+00:00
+
+Did Israel use the Lebanon ceasefire as a cover to solidify its military presence?
+
+## A letter from Gaza to Mr Trump
+ - [https://www.aljazeera.com/opinions/2025/2/18/a-letter-from-gaza-to-mr-trump?traffic_source=rss](https://www.aljazeera.com/opinions/2025/2/18/a-letter-from-gaza-to-mr-trump?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:02:49+00:00
+
+Gaza was already the &#039;Riviera of the Middle East&#039; and it will be again - when we, the Palestinians, rebuild it.
+
+## Why are white South Africans mocking Donald Trump?
+ - [https://www.aljazeera.com/program/newsfeed/2025/2/18/why-are-white-south-africans-mocking-donald-trump?traffic_source=rss](https://www.aljazeera.com/program/newsfeed/2025/2/18/why-are-white-south-africans-mocking-donald-trump?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T13:52:08+00:00
+
+Thousands of white South Africans have been mocking their privilege after US President Donald Trump offered them asylum.
+
+## US-Russia talks sideline Ukraine and Europe
+ - [https://www.aljazeera.com/news/2025/2/18/us-russia-talks-sideline-ukraine-and-europe?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/us-russia-talks-sideline-ukraine-and-europe?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T13:43:42+00:00
+
+The talks could lead to a summit later this month between US President Trump and Russian President Putin.
+
+## UN human rights chief accuses M23 rebels of ‘summary executions’ in DRC
+ - [https://www.aljazeera.com/news/2025/2/18/un-human-rights-chief-accuses-m23-rebels-of-summary-executions-in-drc?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/un-human-rights-chief-accuses-m23-rebels-of-summary-executions-in-drc?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T13:23:15+00:00
+
+Volker Turk says his office has &#039;confirmed&#039; cases of rebels killing and recruiting children in eastern DRC.
+
+## Israel accused of series of Gaza ceasefire violations
+ - [https://www.aljazeera.com/program/newsfeed/2025/2/18/israel-accused-of-series-of-gaza-ceasefire-violations?traffic_source=rss](https://www.aljazeera.com/program/newsfeed/2025/2/18/israel-accused-of-series-of-gaza-ceasefire-violations?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T13:22:01+00:00
+
+Israel has been accused of a series of violations to the Gaza ceasefire agreement.
+
+## ICC Champions Trophy 2025: Pakistan vs New Zealand – start, teams, preview
+ - [https://www.aljazeera.com/sports/2025/2/18/icc-champions-trophy-2025-pakistan-vs-new-zealand-preview-team-news?traffic_source=rss](https://www.aljazeera.com/sports/2025/2/18/icc-champions-trophy-2025-pakistan-vs-new-zealand-preview-team-news?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:49:29+00:00
+
+Al Jazeera takes a close look at hosts Pakistan against New Zealand before their Champions Trophy opener on Wednesday.
+
+## US man shot two Israeli tourists thinking they were Palestinians
+ - [https://www.aljazeera.com/program/newsfeed/2025/2/18/us-man-shot-two-israeli-tourists-thinking-they-were-palestinians?traffic_source=rss](https://www.aljazeera.com/program/newsfeed/2025/2/18/us-man-shot-two-israeli-tourists-thinking-they-were-palestinians?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:23:31+00:00
+
+Two Israelis in Miami were shot by a man who&#039;d told police he’d carried out the attack thinking they were Palestinians.
+
+## Sudan paramilitaries kill hundreds in White Nile villages: NGO
+ - [https://www.aljazeera.com/news/2025/2/18/sudan-paramilitaries-kill-hundreds-in-white-nile-villages-ngo?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/sudan-paramilitaries-kill-hundreds-in-white-nile-villages-ngo?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:07:50+00:00
+
+Rebel RSF forces reportedly carried out field executions and shot at people trying to flee across the Nile.
+
+## UN calls for calm as violence flares in South Sudan
+ - [https://www.aljazeera.com/news/2025/2/18/un-calls-for-calm-as-violence-flares-in-south-sudan?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/un-calls-for-calm-as-violence-flares-in-south-sudan?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:08:04+00:00
+
+Fighting reportedly broke out in Nasir in Upper Nile state on February 14 and 15, the UN mission in South Sudan says.
+
+## Turkiye arrests 282 amid bid to reconcile with PKK
+ - [https://www.aljazeera.com/news/2025/2/18/turkiye-arrests-282-amid-bid-to-reconcile-with-pkk?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/turkiye-arrests-282-amid-bid-to-reconcile-with-pkk?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:05:25+00:00
+
+Turkiye&#039;s arrests of people with alleged &quot;terror&quot; ties come despite a government effort to end Kurdish conflict.
+
+## Ukrainians express concerns over US-Russia ‘peace’ deal
+ - [https://www.aljazeera.com/program/newsfeed/2025/2/18/ukrainians-express-concerns-over-us-russia-peace-deal?traffic_source=rss](https://www.aljazeera.com/program/newsfeed/2025/2/18/ukrainians-express-concerns-over-us-russia-peace-deal?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:13:54+00:00
+
+As US and Russian officials meet in Saudi Arabia for talks on ending the Ukraine war
+
+## ICC Champions Trophy 2025: Who will win the tournament?
+ - [https://www.aljazeera.com/sports/2025/2/18/icc-champions-trophy-2025-who-will-win-the-tournament?traffic_source=rss](https://www.aljazeera.com/sports/2025/2/18/icc-champions-trophy-2025-who-will-win-the-tournament?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:09:05+00:00
+
+The world&#039;s top-ranked ODI team, the holders and the 2000 champions firming as favourites to lift the trophy once again.
+
+## Palestinian bookseller recalls ‘inhumane’ treatment in Israeli prison
+ - [https://www.aljazeera.com/program/newsfeed/2025/2/18/palestinian-bookseller-recalls-inhumane-treatment-in-israeli-prison?traffic_source=rss](https://www.aljazeera.com/program/newsfeed/2025/2/18/palestinian-bookseller-recalls-inhumane-treatment-in-israeli-prison?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:57:53+00:00
+
+A Palestinian bookseller who was detained after his store was raided by Israeli recalls &#039;inhumane&#039; prison treatment.
+
+## Returning to our homes in Gaza
+ - [https://www.aljazeera.com/program/between-us/2025/2/18/returning-to-our-homes-in-gaza-2?traffic_source=rss](https://www.aljazeera.com/program/between-us/2025/2/18/returning-to-our-homes-in-gaza-2?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:54:05+00:00
+
+After 15 months of war, thousands of displaced Palestinians returned to northern Gaza.
+
+## Israel increases “unlawful detention” of Palestinians
+ - [https://www.aljazeera.com/program/quotable/2025/2/18/israel-increases-unlawful-detention-of-palestinians?traffic_source=rss](https://www.aljazeera.com/program/quotable/2025/2/18/israel-increases-unlawful-detention-of-palestinians?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:48:48+00:00
+
+Palestinian prisoners are being unlawfully detained in Israel
+
+## Mexico waits for Google response before filing lawsuit over Gulf dispute
+ - [https://www.aljazeera.com/news/2025/2/18/mexico-waits-for-google-response-before-filing-lawsuit-over-gulf-dispute?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/mexico-waits-for-google-response-before-filing-lawsuit-over-gulf-dispute?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:29:48+00:00
+
+Mexico has objected to Google changing the Gulf of Mexico&#039;s name to the &#039;Gulf of America&#039; for users in the US.
+
+## In Sudan, violence, hunger and death haunt displaced families at every turn
+ - [https://www.aljazeera.com/gallery/2025/2/18/sudan-violence-hunger?traffic_source=rss](https://www.aljazeera.com/gallery/2025/2/18/sudan-violence-hunger?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:17:12+00:00
+
+The RSF assault on Zamzam camp forced thousands to flee to Tawila, where hunger already stalks the villagers.
+
+## Israel withdrawing troops from Lebanon as deadline expires
+ - [https://www.aljazeera.com/news/2025/2/18/deadline-for-israeli-withdrawal-from-lebanon-expires?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/deadline-for-israeli-withdrawal-from-lebanon-expires?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:51:45+00:00
+
+Israel pulling out most forces according to ceasefire but refusal to leave some border areas spreads uncertainty.
+
+## Toronto Delta plane crash: Why the aircraft flipped upside down on landing
+ - [https://www.aljazeera.com/news/2025/2/18/toronto-plane-crash-why-the-delta-aircraft-flipped-upside-down-on-landing?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/toronto-plane-crash-why-the-delta-aircraft-flipped-upside-down-on-landing?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:30:03+00:00
+
+Delta plane originating from Minnesota crash-lands at Toronto airport amid strong winds and snowfall but all 80 survive.
+
+## Returning to Gaza, a stranger in my own city
+ - [https://www.aljazeera.com/features/2025/2/18/returning-gaza-a-stranger-own-city?traffic_source=rss](https://www.aljazeera.com/features/2025/2/18/returning-gaza-a-stranger-own-city?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:09:29+00:00
+
+Al Jazeera&#039;s Maram Humaid was forced to flee from her home in Gaza City due to Israel&#039;s war.
+
+## Egypt developing Gaza reconstruction plan to counter Trump’s ‘take over’
+ - [https://www.aljazeera.com/news/2025/2/18/egypt-developing-gaza-reconstruction-plan-to-counter-trumps-take-over?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/egypt-developing-gaza-reconstruction-plan-to-counter-trumps-take-over?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T05:21:55+00:00
+
+Egypt&#039;s foreign minister, Badr Abdelatty, has confirmed Cairo is &#039;actively developing&#039; a reconstruction plan for Gaza.
+
+## ‘Serious concerns’ as new video emerges of Australian captured by Russia
+ - [https://www.aljazeera.com/news/2025/2/18/serious-concerns-as-new-video-emerges-of-australian-captured-by-russia?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/serious-concerns-as-new-video-emerges-of-australian-captured-by-russia?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T03:20:58+00:00
+
+The previously unseen footage of POW Oscar Jenkins shows him appearing emaciated, weak and complaining of a broken arm.
+
+## Argentina’s Javier Milei faces fraud allegations over cryptocurrency post
+ - [https://www.aljazeera.com/news/2025/2/18/argentinas-javier-milei-faces-fraud-allegations-over-cryptocurrency-post?traffic_source=rss](https://www.aljazeera.com/news/2025/2/18/argentinas-javier-milei-faces-fraud-allegations-over-cryptocurrency-post?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T01:18:54+00:00
+
+Critics have accused Milei of involvement in the rapid rise and fall of a cryptocurrency, costing investors thousands.
+
+## Trump’s tariffs present fresh headache for India’s slowing economy
+ - [https://www.aljazeera.com/features/2025/2/18/trumps-tariffs-present-fresh-headache-for-indias-slowing-economy?traffic_source=rss](https://www.aljazeera.com/features/2025/2/18/trumps-tariffs-present-fresh-headache-for-indias-slowing-economy?traffic_source=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T00:05:10+00:00
+
+India, one of the fastest growing economies in the world, is facing a slowdown in a sign of deeper problems.
+

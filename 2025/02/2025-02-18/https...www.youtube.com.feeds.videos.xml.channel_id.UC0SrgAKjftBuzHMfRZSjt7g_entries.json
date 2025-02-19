@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Lancelloti",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-18T21:43:13.023375+00:00",
+        "description": null,
+        "id": 2143249,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0SrgAKjftBuzHMfRZSjt7g",
+        "manual_status_code": 0,
+        "page_rating": 25,
+        "page_rating_contents": 80,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 593,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0SrgAKjftBuzHMfRZSjt7g",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Lancelloti",
+        "vote": 0
+    }
+]

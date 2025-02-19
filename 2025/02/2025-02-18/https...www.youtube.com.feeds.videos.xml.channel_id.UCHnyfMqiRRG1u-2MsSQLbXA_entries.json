@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-18T16:03:35+00:00",
+        "description": "Are you smart enough to solve this Google interview question? Use code veritasium at https://incogni.com/veritasium to get an exclusive 60% off an annual Incogni plan.\n\nA massive thank you to Dan Goldman, Jeff Aguilar, Daniel Soto and Georgia Tech\u2019s Complex Rheology And Biomechanics Lab\nWe\u2019re incredibly grateful to Carl Zimmer, Gayle McDowell, and Geoffrey West\n\n\u2580\u2580\u2580\n0:00 Hard Google Interview Question\n2:34 How do Geckos stick to walls?\n5:58 Do physicists know the answer?\n7:01 The Square-Cube Law\n9:10 Tiny Superheroes\n10:23 Simulating the problem\n13:36 Adding Air Resistance\n15:14 The End? \n16:16 What would happen if you were shrunk?\n17:39 What interviewers actually look for\n\n\u2580\u2580\u2580\nTry Snatoms! A molecular modelling kit I invented where the atoms snap together.\nhttps://ve42.co/SnatomsV  \n\n\u2580\u2580\u2580\nReferences:\nWilliam Poundstone (Jan 2012). Are You Smart Enough to Work at Google?.  - https://ve42.co/smartenough \nGiovanni Alfonso Borelli. Translated by Paul Maquet (1989). On the Movement of Ani",
+        "id": 2141289,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=dFVrncgIvos",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dFVrncgIvos/hqdefault.jpg",
+        "title": "The Google Interview Question Everyone Gets Wrong",
+        "vote": 0
+    }
+]

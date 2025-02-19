@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-18T14:05:43+00:00",
+        "description": "<img width=\"640\" height=\"640\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/01/Undaunted-2200.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Undaunted 2200: Callisto\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/01/Undaunted-2200.jpg 1000w, https://www.boardgamequest.com/wp-content/uploads/2025/01/Undaunted-2200-300x300.jpg 300w, https://www.boardgamequest.com/wp-content/uploads/2025/01/Undaunted-2200-150x150.jpg 150w, https://www.boardgamequest.com/wp-content/uploads/2025/01/Undaunted-2200-768x768.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/01/Undaunted-2200-640x640.jpg 640w\" sizes=\"(max-width: 640px) 100vw, 640px\" />The Undaunted series brought an excellent two-player deckbuilding battle set in the WW2 trenches. From the Normandy invasion to the North African sands, to the blue skies above Englan",
+        "id": 2139793,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/undaunted-2200-callisto-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Undaunted 2200: Callisto Review",
+        "vote": 0
+    }
+]

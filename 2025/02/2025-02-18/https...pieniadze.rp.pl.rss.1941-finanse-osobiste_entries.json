@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-18T13:35:23+00:00",
+        "description": "Wed\u0142ug danych Ministerstwa Finans\u00f3w, od stycznia do listopada 2024 roku wp\u0142ywy z tzw. podatku Belki wynios\u0142y 10,095 mld z\u0142. To o 11,3 proc. wi\u0119cej ni\u017c w ca\u0142ym 2023 roku, kiedy kwota si\u0119gn\u0119\u0142a 9,069 mld z\u0142 i a\u017c o 75,5 proc. wi\u0119cej ni\u017c w 2022 r.",
+        "id": 2139244,
+        "language": "pl-PL",
+        "link": "https://pieniadze.rp.pl/oszczednosci/art41818911-tyle-polacy-oddali-fiskusowi-z-tytulu-podatku-belki",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tyle Polacy oddali fiskusowi z tytu\u0142u podatku Belki",
+        "vote": 0
+    }
+]

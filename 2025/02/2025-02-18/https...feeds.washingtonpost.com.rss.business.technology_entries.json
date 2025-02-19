@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-18T17:30:00+00:00",
+        "description": "Five theories why more of us are buying the fanciest phones, which is killing the middle-of-the road models.",
+        "id": 2141490,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2025/02/18/iphone-se-smartphone-prices",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "We complain about egg prices but can\u2019t stop buying $1,000 smartphones",
+        "vote": 0
+    }
+]

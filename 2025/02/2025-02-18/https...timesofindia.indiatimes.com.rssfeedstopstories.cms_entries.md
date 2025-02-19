@@ -1,0 +1,744 @@
+# Source:Times of India, URL:https://timesofindia.indiatimes.com/rssfeedstopstories.cms, language:en-gb
+
+## Chennai cops forget drug scale, weigh ganja like bananas; court throws out case
+ - [https://timesofindia.indiatimes.com/india/chennai-cops-forget-drug-scale-weigh-ganja-like-bananas-court-throws-out-case/articleshow/118368392.cms](https://timesofindia.indiatimes.com/india/chennai-cops-forget-drug-scale-weigh-ganja-like-bananas-court-throws-out-case/articleshow/118368392.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T23:25:40+00:00
+
+A man accused of smuggling ganja was acquitted after a Chennai court dismissed the case due to police using a fruit vendor's weighing scales instead of their own equipment. The trial court highlighted contradictions in the prosecution's evidence and improper handling of the narcotic. Similar issues with evidence collection have led to other acquittals in the city.
+
+## High levels of fecal bacteria in Sangam waters at Maha Kumbh: Report
+ - [https://timesofindia.indiatimes.com/india/high-levels-of-fecal-bacteria-in-sangam-waters-at-maha-kumbh-report/articleshow/118369524.cms](https://timesofindia.indiatimes.com/india/high-levels-of-fecal-bacteria-in-sangam-waters-at-maha-kumbh-report/articleshow/118369524.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T23:25:39+00:00
+
+The Sangam waters during Maha Kumbh have alarming levels of faecal and total coliform, exceeding CPCB standards by up to 1,400 times in the Ganga and 660 times in the Yamuna. This contamination endangers public health, prompting NGT to summon UP authorities for not complying with directives to maintain water quality, posing risks of waterborne diseases and environmental harm.
+
+## 'They have lot more money': Trump on $21 million fund for 'voter turnout' in India
+ - [https://timesofindia.indiatimes.com/india/they-have-a-lot-more-money-us-president-donald-trump-questions-21-million-usaid-fund-for-voter-turnout-in-india/articleshow/118368852.cms](https://timesofindia.indiatimes.com/india/they-have-a-lot-more-money-us-president-donald-trump-questions-21-million-usaid-fund-for-voter-turnout-in-india/articleshow/118368852.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T23:25:39+00:00
+
+US President Donald Trump questioned the allocation of $21 million by USAID to India for boosting voter turnout, highlighting India's high tariffs and taxation. Both BJP and Congress have called for a probe into the matter, with former CEC SY Quraishi denying any financial assistance was involved.
+
+## Amid USAID row, Congress calls Smriti Irani 'real agent of Soros', BJP cites Dikshit
+ - [https://timesofindia.indiatimes.com/india/amid-usaid-row-congress-calls-smriti-irani-real-agent-of-soros-bjp-cites-dikshit/articleshow/118368113.cms](https://timesofindia.indiatimes.com/india/amid-usaid-row-congress-calls-smriti-irani-real-agent-of-soros-bjp-cites-dikshit/articleshow/118368113.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:20:38+00:00
+
+Congress accused BJP's Smriti Irani of being the "real agent" of George Soros, citing her stint as USAID Goodwill Ambassador. BJP refuted the claim, stating she was a WHO ORS Goodwill Ambassador from 2002 to 2005 due to her popular TV role. The spat also involved mentions of past government support for the campaign.
+
+## BJP sweeps Gujarat local body polls, Congress tally improves marginally
+ - [https://timesofindia.indiatimes.com/india/bjp-sweeps-gujarat-local-body-polls-congress-tally-improves-marginally/articleshow/118367912.cms](https://timesofindia.indiatimes.com/india/bjp-sweeps-gujarat-local-body-polls-congress-tally-improves-marginally/articleshow/118367912.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:20:38+00:00
+
+None
+
+## Day after CEC selection, Congress, BJP cross swords over process
+ - [https://timesofindia.indiatimes.com/india/day-after-cec-selection-congress-bjp-cross-swords-over-process/articleshow/118367847.cms](https://timesofindia.indiatimes.com/india/day-after-cec-selection-congress-bjp-cross-swords-over-process/articleshow/118367847.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:20:38+00:00
+
+Rahul Gandhi urges the top collegium to hold off on appointing the new CEC until the Supreme Court reviews the selection law. He cites Ambedkar's warning against executive interference in the Election Commission and calls the midnight appointment unconstitutional. Congress condemns the move and its implications for electoral integrity.
+
+## German Bakery accused gets no relief from solitary confinement
+ - [https://timesofindia.indiatimes.com/india/german-bakery-accused-gets-no-relief-from-solitary-confinement/articleshow/118368135.cms](https://timesofindia.indiatimes.com/india/german-bakery-accused-gets-no-relief-from-solitary-confinement/articleshow/118368135.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:20:38+00:00
+
+Bombay HC has rejected Mirza Himayat Baig's request to be moved from solitary confinement to a general barrack, stating there is no psychological trauma concern. The judges noted that Baig's current cell provides sufficient facilities and ordered that he may be assigned work according to prison rules.
+
+## HC nod to MP plan for Carbide waste disposal retrial
+ - [https://timesofindia.indiatimes.com/india/hc-nod-to-mp-plan-for-carbide-waste-disposal-retrial/articleshow/118368158.cms](https://timesofindia.indiatimes.com/india/hc-nod-to-mp-plan-for-carbide-waste-disposal-retrial/articleshow/118368158.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:20:38+00:00
+
+Madhya Pradesh High Court has approved the government's proposal to retest incineration of Union Carbide waste at a Pithampur facility. This aims to determine the environmental impact and ensure safety. Previous trials were deemed outdated. The retrial will involve three stages, with results informing future incineration decisions. The court provided a six-week deadline for disposal.
+
+## Mamata Banerjee threatens to quit if ‘terror, Muslim League links’ proved
+ - [https://timesofindia.indiatimes.com/india/west-bengal-cm-mamata-banerjee-threatens-to-quit-if-terror-muslim-league-links-proved/articleshow/118368079.cms](https://timesofindia.indiatimes.com/india/west-bengal-cm-mamata-banerjee-threatens-to-quit-if-terror-muslim-league-links-proved/articleshow/118368079.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:20:38+00:00
+
+West Bengal CM Mamata Banerjee declared in the assembly that she would resign if allegations of her links with terror outfits are proven. She responded to BJP's claims of her disrespecting Hinduism and supporting the Muslim League, emphasizing the importance of democracy and rejecting religious division.
+
+## Rahul Gandhi gets permanent exemption from attending defamation case hearings
+ - [https://timesofindia.indiatimes.com/city/pune/rahul-gandhi-gets-permanent-exemption-from-attending-defamation-case-hearings/articleshow/118364242.cms](https://timesofindia.indiatimes.com/city/pune/rahul-gandhi-gets-permanent-exemption-from-attending-defamation-case-hearings/articleshow/118364242.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:20:38+00:00
+
+None
+
+## SC hearing today on petitions challenging CEC appointment process
+ - [https://timesofindia.indiatimes.com/india/sc-hearing-today-on-petitions-challenging-cec-appointment-process/articleshow/118367825.cms](https://timesofindia.indiatimes.com/india/sc-hearing-today-on-petitions-challenging-cec-appointment-process/articleshow/118367825.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:20:38+00:00
+
+None
+
+## Hamas, Hezbollah banners on slain leaders at Kerala fest triggers row
+ - [https://timesofindia.indiatimes.com/india/hamas-hezbollah-banners-at-kerala-fest-trigger-row/articleshow/118367535.cms](https://timesofindia.indiatimes.com/india/hamas-hezbollah-banners-at-kerala-fest-trigger-row/articleshow/118367535.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T21:15:36+00:00
+
+None
+
+## Kolkata man gets death for 7-month-old’s rape
+ - [https://timesofindia.indiatimes.com/india/kolkata-man-gets-death-for-7-month-olds-rape/articleshow/118367644.cms](https://timesofindia.indiatimes.com/india/kolkata-man-gets-death-for-7-month-olds-rape/articleshow/118367644.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T21:15:36+00:00
+
+A Kolkata court sentenced a 34-year-old man to death for raping a seven-month-old infant on Nov 30 last year. The court deemed the crime 'rarest of rare'. The judgment was delivered within 80 days, awarding Rs 10 lakh compensation to the baby who remains in critical condition.
+
+## SC slams YouTuber Ranveer Allahbadia but shields him from arrest
+ - [https://timesofindia.indiatimes.com/city/mumbai/sc-slams-youtuber-but-shields-him-from-arrestseeks-help-to-regulate-social-media-content/articleshow/118366643.cms](https://timesofindia.indiatimes.com/city/mumbai/sc-slams-youtuber-but-shields-him-from-arrestseeks-help-to-regulate-social-media-content/articleshow/118366643.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T21:15:36+00:00
+
+None
+
+## UP man’s charred body found days before hearing in wife’s gang rape case
+ - [https://timesofindia.indiatimes.com/city/agra/mans-charred-body-found-days-before-hearing-in-wifes-gang-rape-case/articleshow/118363026.cms](https://timesofindia.indiatimes.com/city/agra/mans-charred-body-found-days-before-hearing-in-wifes-gang-rape-case/articleshow/118363026.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T21:15:36+00:00
+
+None
+
+## Chandrayaan-4 will have 5 modules, need multiple dockings; work on Lupex Marches on
+ - [https://timesofindia.indiatimes.com/india/chandrayaan-4-will-have-5-modules-need-multiple-dockings-work-on-lupex-marches-on/articleshow/118367218.cms](https://timesofindia.indiatimes.com/india/chandrayaan-4-will-have-5-modules-need-multiple-dockings-work-on-lupex-marches-on/articleshow/118367218.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:10:34+00:00
+
+India's planned Chandrayaan-4 mission aims to collect lunar samples and return them to Earth, requiring two separate launches due to its 9,200kg mass. Chennaiyan -5, also known as Lupex, is a joint mission with Japan featuring a heavier lander and sophisticated payloads contributed by India, Japan, USA, and Europe.
+
+## 'I will return': Sheikh Hasina accuses Yunus of ‘unleashing terrorists’
+ - [https://timesofindia.indiatimes.com/world/south-asia/i-will-return-sheikh-hasina-accuses-yunus-of-unleashing-terrorists-interim-government-says-ex-pms-extradition-top-priority/articleshow/118365945.cms](https://timesofindia.indiatimes.com/world/south-asia/i-will-return-sheikh-hasina-accuses-yunus-of-unleashing-terrorists-interim-government-says-ex-pms-extradition-top-priority/articleshow/118365945.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:10:34+00:00
+
+Former Prime Minister Sheikh Hasina accuses interim leader Muhammad Yunus of causing chaos and deploying terrorists in Bangladesh. Hasina pledges to return and avenge fallen police officers, while the current administration prioritizes her extradition for alleged crimes against humanity.
+
+## 'India key to achieve 1 bn global users': Canva co-founder Cameron Adams
+ - [https://timesofindia.indiatimes.com/business/india-business/india-key-to-achieve-1-billion-global-users/articleshow/118367103.cms](https://timesofindia.indiatimes.com/business/india-business/india-key-to-achieve-1-billion-global-users/articleshow/118367103.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:10:34+00:00
+
+In 2024, Canva saw a significant rise in usage in India with 5.3 lakh daily presentations. India has become a critical market, moving up to the fourth most popular for Canva, contributing to its goal of reaching one billion global users. Canva is also exploring data localization in response to changing global data protection laws.
+
+## Lewis Hamilton’s legacy: Can 7-time champion still conquer ever-changing F1 landscape
+ - [https://timesofindia.indiatimes.com/sports/formula-one/news/lewis-hamiltons-legacy-can-the-seven-time-champion-still-conquer-the-ever-changing-f1-landscape-as-he-prepares-for-his-first-season-as-ferrari-driver/articleshow/118365913.cms](https://timesofindia.indiatimes.com/sports/formula-one/news/lewis-hamiltons-legacy-can-the-seven-time-champion-still-conquer-the-ever-changing-f1-landscape-as-he-prepares-for-his-first-season-as-ferrari-driver/articleshow/118365913.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:10:34+00:00
+
+Lewis Hamilton, after 12 successful seasons with Mercedes, is set to join Ferrari in 2025. The seven-time world champion aims to revive Ferrari's title-winning legacy, which has been eluding them since 2007. This transition marks a significant challenge and a fresh start for Hamilton.
+
+## Netflix eyes NFL’s Sunday Afternoon Games—Could it shake up CBS & Fox?
+ - [https://timesofindia.indiatimes.com/sports/nfl/news/netflix-eyes-nfls-sunday-afternoon-gamescould-it-shake-up-cbs-and-fox/articleshow/118367007.cms](https://timesofindia.indiatimes.com/sports/nfl/news/netflix-eyes-nfls-sunday-afternoon-gamescould-it-shake-up-cbs-and-fox/articleshow/118367007.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:10:34+00:00
+
+Netflix is eyeing the NFL’s Sunday afternoon games, potentially taking over from CBS or Fox. Chief Content Officer Bela Bajaria confirmed Netflix's serious interest, which could reshape sports media. Current deals hold until 2033 but can end early. Success with streaming NFL games on Christmas Day has boosted Netflix's confidence in live sports.
+
+## Qatar to invest $10 billion, PM Modi and Amir discuss FTA, Gaza
+ - [https://timesofindia.indiatimes.com/india/qatar-to-invest-10-billion-pm-modi-and-amir-discuss-fta-gaza/articleshow/118366367.cms](https://timesofindia.indiatimes.com/india/qatar-to-invest-10-billion-pm-modi-and-amir-discuss-fta-gaza/articleshow/118366367.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:10:34+00:00
+
+India and Qatar have upgraded their relationship to a strategic partnership through bilateral talks between PM Narendra Modi and Qatar Amir Sheikh Tamim bin Hamad Al-Thani. Qatar committed a $10 billion investment in India, and both nations plan to double their $14 billion bilateral trade over the next five years.
+
+## Smartphone exports jump 50% on iPhone shipments
+ - [https://timesofindia.indiatimes.com/business/india-business/smartphone-exports-jump-50-on-iphone-shipments/articleshow/118366689.cms](https://timesofindia.indiatimes.com/business/india-business/smartphone-exports-jump-50-on-iphone-shipments/articleshow/118366689.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:10:34+00:00
+
+India's mobile phone exports have increased by nearly 50% in the first 10 months of the financial year, led by iPhone production. Apple has significantly ramped up manufacturing, making India a global hub. Exports are expected to reach Rs 1.8 lakh crore by year-end, bolstered by government incentive schemes and boosted local production.
+
+## Tesla’s cars coming soon to India? Firm advertises positions for retail staff
+ - [https://timesofindia.indiatimes.com/business/india-business/teslas-cars-coming-soon-to-india-co-advertises-positions-for-retail-staff/articleshow/118365358.cms](https://timesofindia.indiatimes.com/business/india-business/teslas-cars-coming-soon-to-india-co-advertises-positions-for-retail-staff/articleshow/118365358.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:10:34+00:00
+
+Elon Musk may be finally moving forward with launching Tesla's electric cars in India, following recent discussions with Prime Minister Narendra Modi. Tesla has advertised for retail positions in Mumbai and is expected to import cars initially, encouraged by recent government policies and incentives.
+
+## ‘Acting in bad faith’: Mallya in London court on Indian banks pursuing him
+ - [https://timesofindia.indiatimes.com/india/vijay-mallya-claims-in-london-court-that-indian-banks-pursuing-him-are-acting-in-bad-faith/articleshow/118365672.cms](https://timesofindia.indiatimes.com/india/vijay-mallya-claims-in-london-court-that-indian-banks-pursuing-him-are-acting-in-bad-faith/articleshow/118365672.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:06:05+00:00
+
+Fugitive businessman Vijay Mallya's lawyer accused banks of acting in bad faith during his bankruptcy appeal in a London court. Judge Sir Anthony Mann dismissed the adjournment request and barred late evidence from Mallya, who alleged the banks have recovered more than what was due and misrepresented recoveries.
+
+## "I was hot…I was mad," Patriots superstar takes a trip down memory lane
+ - [https://timesofindia.indiatimes.com/sports/nfl/news/i-was-hoti-was-mad-pissed-off-patriots-superstar-cb-christian-gonzalez-takes-a-trip-down-the-memory-lane-of-his-2023-nfl-draft/articleshow/118362550.cms](https://timesofindia.indiatimes.com/sports/nfl/news/i-was-hoti-was-mad-pissed-off-patriots-superstar-cb-christian-gonzalez-takes-a-trip-down-the-memory-lane-of-his-2023-nfl-draft/articleshow/118362550.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:01:03+00:00
+
+Christian Gonzalez, a cornerback for the New England Patriots, was determined to prove everyone wrong after being the third cornerback selected in the 2023 NFL draft. Despite initial disappointments, he has delivered outstanding performances, earning accolades and praise from peers like Miami Dolphins' Tyreek Hill. His career highlights include notable statistics and achievements within a short span.
+
+## New world record! USA create historic cricket feat
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/new-world-record-usa-create-historic-cricket-feat-defend-lowest-ever-odi-total/articleshow/118363980.cms](https://timesofindia.indiatimes.com/sports/cricket/news/new-world-record-usa-create-historic-cricket-feat-defend-lowest-ever-odi-total/articleshow/118363980.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:01:03+00:00
+
+The United States defended the lowest-ever ODI total of 122 against Oman in the Cricket World Cup League 2, winning by 57 runs. Nosthush Kenjige's left-arm spin took 5/11, dismissing Oman for 65. Milind Kumar top-scored with 47* and complemented Kenjige's efforts with 2/17. This match emphasized spin-friendly conditions at the Oman Cricket Academy.
+
+## CEC post: Rahul fires 'midnight decision' salvo; BJP questions Cong's past 'pliant picks'
+ - [https://timesofindia.indiatimes.com/india/cec-appointment-rahul-fires-midnight-decision-salvo-bjp-questions-congs-past-pliant-picks/articleshow/118361284.cms](https://timesofindia.indiatimes.com/india/cec-appointment-rahul-fires-midnight-decision-salvo-bjp-questions-congs-past-pliant-picks/articleshow/118361284.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:55:27+00:00
+
+Gyanesh Kumar will assume the role of Chief Election Commissioner on a day the Supreme Court reviews a law defining his appointment process. This law, passed by the Parliament and objected to by Congress, had replaced the Chief Justice of India with a Union minister in the selection panel, raising concerns about potential government interference.
+
+## 'Not Harshit Rana, I would replace Jasprit Bumrah with ...': Ponting
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/i-would-replace-jasprit-bumrah-with-arshdeep-singh-not-harshit-rana-ricky-ponting/articleshow/118363045.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/i-would-replace-jasprit-bumrah-with-arshdeep-singh-not-harshit-rana-ricky-ponting/articleshow/118363045.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:55:27+00:00
+
+Ricky Ponting prefers Arshdeep Singh over Harshit Rana to replace the injured Jasprit Bumrah for India's Champions Trophy opener against Bangladesh. Ponting believes Arshdeep's skills with the new ball and in death overs closely match Bumrah's abilities, providing a strategic advantage. Key players like Rohit Sharma and Virat Kohli are also regaining form, which is crucial for India's success.
+
+## SC raps Allahbadia for 'vulgarity': How a crass joke caused national uproar
+ - [https://timesofindia.indiatimes.com/india/sc-raps-ranveer-allahbadia-for-vulgarity-dirty-mind-how-a-crass-joke-caused-national-uproar/articleshow/118363050.cms](https://timesofindia.indiatimes.com/india/sc-raps-ranveer-allahbadia-for-vulgarity-dirty-mind-how-a-crass-joke-caused-national-uproar/articleshow/118363050.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:55:27+00:00
+
+None
+
+## Tesla begins hiring, picks showrooms in Delhi & Mumbai
+ - [https://timesofindia.indiatimes.com/business/india-business/gearing-up-for-india-launch-tesla-begins-hiring-picks-showrooms-in-delhi-mumbai/articleshow/118362422.cms](https://timesofindia.indiatimes.com/business/india-business/gearing-up-for-india-launch-tesla-begins-hiring-picks-showrooms-in-delhi-mumbai/articleshow/118362422.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:55:27+00:00
+
+Tesla has selected locations for its showrooms in New Delhi and Mumbai as part of its plan to enter the Indian auto market. Leases have been secured in Aerocity and Bandra Kurla Complex for showrooms around 5,000 square feet each. Tesla has also posted job listings, indicating its expanding operations in India.
+
+## India, Japan to kick off ‘Dharma Guardian’ exercise next week
+ - [https://timesofindia.indiatimes.com/india/india-japan-to-kick-off-dharma-guardian-exercise-next-week/articleshow/118362617.cms](https://timesofindia.indiatimes.com/india/india-japan-to-kick-off-dharma-guardian-exercise-next-week/articleshow/118362617.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:50:29+00:00
+
+None
+
+## 'Unbreakable bond': PM Modi hails BJP sweep in Gujarat local body polls
+ - [https://timesofindia.indiatimes.com/india/unbreakable-bond-pm-modi-hails-bjp-sweep-in-gujarat-local-body-polls/articleshow/118362523.cms](https://timesofindia.indiatimes.com/india/unbreakable-bond-pm-modi-hails-bjp-sweep-in-gujarat-local-body-polls/articleshow/118362523.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:50:29+00:00
+
+Prime Minister Narendra Modi expressed gratitude towards Gujarat voters for the BJP's decisive win in local body polls. The BJP secured major victories including Junagadh Municipal Corporation, 60 out of 68 municipalities, and all contested taluka panchayats, reaffirming Gujarat's support for the party and its development politics.
+
+## UPSC 2025: Registration deadline extended by 3-days, register by Feb 21
+ - [https://timesofindia.indiatimes.com/education/news/upsc-civil-services-2025-registration-deadline-extended-by-3-days-register-by-feb-21/articleshow/118361733.cms](https://timesofindia.indiatimes.com/education/news/upsc-civil-services-2025-registration-deadline-extended-by-3-days-register-by-feb-21/articleshow/118361733.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:50:29+00:00
+
+The UPSC has extended the application deadline for the Civil Services Preliminary Examination 2025 to February 21. Candidates can make corrections from February 22 to February 28. Initially set for February 11, the deadline has been postponed twice. Applicants must register online at upsconline.gov.in to complete the process.
+
+## Watch: How Delta plane made crash-landing at Toronto's Pearson airport
+ - [https://timesofindia.indiatimes.com/world/us/watch-how-delta-plane-made-crash-landing-at-torontos-pearson-airport-new-video-emerges/articleshow/118361715.cms](https://timesofindia.indiatimes.com/world/us/watch-how-delta-plane-made-crash-landing-at-torontos-pearson-airport-new-video-emerges/articleshow/118361715.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:50:29+00:00
+
+A Delta Airlines jet with 80 people on board crashed, flipped, and made an upside-down landing at Toronto's Pearson Airport. Despite the crash and fire, all passengers survived, with 18 injuries reported. Authorities are investigating the incident, which occurred under blowing snow conditions affecting visibility.
+
+## Elon Musk announces his love for US President Donald Trump again
+ - [https://timesofindia.indiatimes.com/technology/social/elon-musk-announces-his-love-for-us-president-donald-trump-again/articleshow/118360754.cms](https://timesofindia.indiatimes.com/technology/social/elon-musk-announces-his-love-for-us-president-donald-trump-again/articleshow/118360754.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:45:26+00:00
+
+Elon Musk expressed his admiration for Donald Trump, restating his affection for the former President on social media. Musk's public endorsement drew reactions from Trump's inner circle, with Trump Jr. responding humorously. Trump, in an interview, praised Musk's leadership in enhancing government efficiency and dismissed concerns about Musk's significant role in federal operations.
+
+## 'India’s circular economy to have market value of $2tn by 2050'
+ - [https://timesofindia.indiatimes.com/india/indias-circular-economy-expected-to-have-market-value-of-2-trillion-by-2050-bhupender-yadav/articleshow/118361379.cms](https://timesofindia.indiatimes.com/india/indias-circular-economy-expected-to-have-market-value-of-2-trillion-by-2050-bhupender-yadav/articleshow/118361379.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:45:26+00:00
+
+None
+
+## Laundering case: MHA gets prez's nod to prosecute AAP's Satyendar Jain
+ - [https://timesofindia.indiatimes.com/india/money-laundering-case-president-murmu-grants-sanction-to-ed-to-prosecute-aap-leader-satyendar-jain/articleshow/118359844.cms](https://timesofindia.indiatimes.com/india/money-laundering-case-president-murmu-grants-sanction-to-ed-to-prosecute-aap-leader-satyendar-jain/articleshow/118359844.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:45:26+00:00
+
+President Droupadi Murmu has granted sanction to the Enforcement Directorate (ED) to prosecute AAP leader Satyendar Jain in a money laundering case. The ED arrested Jain in May 2022 over alleged hawala transactions. The prosecution includes charges involving Rs 27.7 crore in shell company deals. A supplementary charge sheet will be submitted to the court.
+
+## 'Limit to free speech': Fadnavis orders action against Wikipedia content
+ - [https://timesofindia.indiatimes.com/india/theres-limit-to-free-speech-fadnavis-orders-action-against-wikipedia-content/articleshow/118357991.cms](https://timesofindia.indiatimes.com/india/theres-limit-to-free-speech-fadnavis-orders-action-against-wikipedia-content/articleshow/118357991.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:45:26+00:00
+
+Maharashtra's CM Devendra Fadnavis directed the state cyber police to urge Wikipedia to remove objectionable content about Chhatrapati Sambhaji Maharaj. Emphasizing a zero-tolerance approach towards historical distortions, Fadnavis acknowledged Wikipedia's global operation and called for regulation. He warned against the unauthorized sharing of cabinet documents, emphasizing the need for strict adherence to the law.
+
+## Telangana govt's Ramzan work concession for Muslims draws BJP backlash
+ - [https://timesofindia.indiatimes.com/india/telangana-govts-ramzan-work-concession-for-muslims-draws-bjp-backlash/articleshow/118360976.cms](https://timesofindia.indiatimes.com/india/telangana-govts-ramzan-work-concession-for-muslims-draws-bjp-backlash/articleshow/118360976.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:45:26+00:00
+
+The Congress-led Telangana government has allowed Muslim state employees to leave work an hour early during Ramzan, from March 2 to March 31. The BJP has criticised this move, calling it an appeasement tactic for the Muslim community. BJP leaders argue the government does not offer similar concessions for Hindu or Jain festivals.
+
+## UK's oldest scientific academy may do to Musk what it hasn't done in 150yrs
+ - [https://timesofindia.indiatimes.com/technology/tech-news/uks-oldest-scientific-academy-may-do-to-elon-musk-what-it-has-not-done-to-anyone-in-150-years/articleshow/118358161.cms](https://timesofindia.indiatimes.com/technology/tech-news/uks-oldest-scientific-academy-may-do-to-elon-musk-what-it-has-not-done-to-anyone-in-150-years/articleshow/118358161.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T13:40:21+00:00
+
+The Royal Society will hold a meeting on March 3 to discuss the principles regarding public pronouncements and behaviors of its Fellows. This follows an open letter from over 2,700 scientists questioning Elon Musk's membership due to his promotion of unfounded conspiracy theories and behavior on social media.
+
+## Russia-Ukraine war: And the winner is - Saudi Crown Prince Salman
+ - [https://timesofindia.indiatimes.com/world/middle-east/us-russia-talks-in-saudi-arabia-saudi-crown-prince-salman-donald-trump-vladimir-putin-zelenskyy/articleshow/118351225.cms](https://timesofindia.indiatimes.com/world/middle-east/us-russia-talks-in-saudi-arabia-saudi-crown-prince-salman-donald-trump-vladimir-putin-zelenskyy/articleshow/118351225.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T13:39:11+00:00
+
+Saudi Arabia is hosting historic US-Russia talks, aiming to resolve the Ukraine war. This significant diplomatic move boosts Crown Prince Mohammed bin Salman's international stature. The discussions, excluding Ukraine, raise concerns of unfavorable compromises. European leaders are divided on responding to Trump's approach, while Saudi Arabia's role solidifies its global influence.
+
+## CT: Few ODIs, no Bumrah, but India's batting looks solid
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/champions-trophy-few-odis-no-bumrah-but-indias-batting-looks-solid/articleshow/118358523.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/champions-trophy-few-odis-no-bumrah-but-indias-batting-looks-solid/articleshow/118358523.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:35:09+00:00
+
+India's preparation for the ICC Champions Trophy has been marred by limited ODI matches and the absence of key bowler Jasprit Bumrah due to back injury. Despite this challenge, players like Harshit Rana and a solid batting lineup led by Rohit Sharma and Shubman Gill offer optimism for the tournament.
+
+## Facebook parent has ‘Donald Trump warning’ for EU on WhatsApp and Instagram
+ - [https://timesofindia.indiatimes.com/technology/tech-news/facebook-parent-meta-has-donald-trump-warning-for-european-union-on-whatsapp-and-instagram/articleshow/118356016.cms](https://timesofindia.indiatimes.com/technology/tech-news/facebook-parent-meta-has-donald-trump-warning-for-european-union-on-whatsapp-and-instagram/articleshow/118356016.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:35:09+00:00
+
+Meta may seek President Trump's help if targeted unfairly by EU digital regulations, says Joel Kaplan. The company faces €2 billion in penalties and investigations under the Digital Services Act. Disputes over right-wing parties pose additional strain, with Trump's concern over the regulations as a form of taxation. Meta's stance on AI code of conduct remains skeptical.
+
+## Faecal bacteria: 'People returning from Maha Kumbh with medical problems'
+ - [https://timesofindia.indiatimes.com/india/faecal-bacteria-levels-above-norms-in-prayagraj-during-maha-kumbh-says-cpcb-doctors-raise-red-flag-over-medical-problems/articleshow/118356446.cms](https://timesofindia.indiatimes.com/india/faecal-bacteria-levels-above-norms-in-prayagraj-during-maha-kumbh-says-cpcb-doctors-raise-red-flag-over-medical-problems/articleshow/118356446.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:35:09+00:00
+
+Water quality in Uttar Pradesh's Prayagraj failed to meet bathing standards during the Maha Kumbh due to high faecal coliform levels, as reported by CPCB. This contamination poses health risks, with many returning pilgrims experiencing gastroenteritis and respiratory infections. The NGT has demanded comprehensive action from the UPPCB and relevant authorities to address the issue.
+
+## Why gravity will make Earth return of Sunita Williams a struggle
+ - [https://timesofindia.indiatimes.com/science/even-lifting-a-pencil-will-feel-like-a-workout-why-gravity-will-make-sunita-williams-and-butch-wilmores-earth-return-a-struggle/articleshow/118357096.cms](https://timesofindia.indiatimes.com/science/even-lifting-a-pencil-will-feel-like-a-workout-why-gravity-will-make-sunita-williams-and-butch-wilmores-earth-return-a-struggle/articleshow/118357096.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:35:09+00:00
+
+NASA astronauts Sunita Williams and Butch Wilmore are returning to Earth on March 19, 2025 after over eight months aboard the ISS. They faced delays due to issues with Boeing’s Starliner. Upon return, they'll undergo an extensive rehabilitation program to readjust to gravity, rebuild strength and balance, as well as mitigate the effects of microgravity.
+
+## Hurun list 2024: TCS, Infosys among India’s top 10 most valuable companies
+ - [https://timesofindia.indiatimes.com/technology/tech-news/hurun-list-2024-tcs-infosys-among-indias-top-10-most-valuable-companies/articleshow/118355423.cms](https://timesofindia.indiatimes.com/technology/tech-news/hurun-list-2024-tcs-infosys-among-indias-top-10-most-valuable-companies/articleshow/118355423.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:30:15+00:00
+
+Hurun India ranks Reliance Industries as the most valuable Indian company, with the top ten firms, including notable tech giants TCS and Infosys, and telecom leaders Bharti Airtel and ICICI Bank, amassing a valuation of nearly Rs 96 lakh crore. Bharti Airtel demonstrates the highest absolute growth, while the cumulative worth of top companies surpasses Saudi Arabia's GDP.
+
+## 'Maha Kumbh turning into Mrityu Kumbh': Mamata attacks Yogi Adityanath
+ - [https://timesofindia.indiatimes.com/india/maha-kumbh-turning-into-mrityu-khumb-mamata-banerjee-attacks-yogi-adityanth/articleshow/118353900.cms](https://timesofindia.indiatimes.com/india/maha-kumbh-turning-into-mrityu-khumb-mamata-banerjee-attacks-yogi-adityanth/articleshow/118353900.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:30:15+00:00
+
+West Bengal CM Mamata Banerjee criticized UP CM Yogi Adityanath, calling the Maha Kumbh in Prayagraj a 'Mrityu Kumbh' due to inadequate planning for attendees. She also condemned the BJP for using religion for political gain and defended herself against accusations of links with Bangladeshi fundamentalists. Additionally, BJP legislators protested against alleged appeasement politics by her government.
+
+## 'Ready to talk if ... ': Russia says Putin open to dialogue with Zelenskyy
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/russian-president-vladimir-putin-open-to-talks-with-ukrainian-president-zelenskyy-if-necessary-says-kremlin/articleshow/118354742.cms](https://timesofindia.indiatimes.com/world/rest-of-world/russian-president-vladimir-putin-open-to-talks-with-ukrainian-president-zelenskyy-if-necessary-says-kremlin/articleshow/118354742.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:30:15+00:00
+
+Russian President Vladimir Putin is open to talks with Ukrainian President Volodymyr Zelensky, yet questions Zelensky's legitimacy. EU chief Ursula von der Leyen seeks to partner with the US to secure lasting peace for Ukraine. Meanwhile, US and Russia hold discussions in Saudi Arabia without Ukrainian participation, raising concerns in Kyiv and Europe.
+
+## Kill Elon Musk, says TikToker to followers; Tesla CEO replies: Everybody ...
+ - [https://timesofindia.indiatimes.com/technology/tech-news/kill-elon-musk-says-tiktoker-to-followers-elon-musk-replies-everybody-/articleshow/118346755.cms](https://timesofindia.indiatimes.com/technology/tech-news/kill-elon-musk-says-tiktoker-to-followers-elon-musk-replies-everybody-/articleshow/118346755.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:46:12+00:00
+
+A TikTok video urging the assassination of Elon Musk and Donald Trump has gone viral, causing widespread alarm and condemnation. Musk responded with a chilling remark, 'Everybody dies, but not everybody lives.' Viewers demand immediate action from authorities to prevent potential harm.
+
+## 'Caught red-handed and ...': Cognizant in court filing against Infosys
+ - [https://timesofindia.indiatimes.com/technology/tech-news/caught-red-handed-and-cognizant-in-court-filing-against-infosys/articleshow/118350897.cms](https://timesofindia.indiatimes.com/technology/tech-news/caught-red-handed-and-cognizant-in-court-filing-against-infosys/articleshow/118350897.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:25:14+00:00
+
+Cognizant has accused Infosys of stealing trade secrets related to its TriZetto healthcare software, claiming Infosys unlawfully used its data and refused an audit. This allegation follows Infosys counter-suing Cognizant for anti-competitive tactics.
+
+## Champions Trophy: India's record in Dubai - in numbers
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/champions-trophy-2025-indias-record-at-the-dubai-international-cricket-stadium/articleshow/118351031.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/champions-trophy-2025-indias-record-at-the-dubai-international-cricket-stadium/articleshow/118351031.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:25:14+00:00
+
+India's cricket team is gearing up for the 2025 ICC Champions Trophy, with matches hosted in Dubai due to security concerns of travelling to original hosts Pakistan. They start against Bangladesh on February 20. India has a strong record in Dubai, with significant performances from players like Rohit Sharma and Shikhar Dhawan.
+
+## Christian Michel gets bail in AgustaWestland chopper scam case
+ - [https://timesofindia.indiatimes.com/city/delhi/british-national-christian-michel-james-gets-bail-in-rs-3600-crore-agustawestland-chopper-scam/articleshow/118353735.cms](https://timesofindia.indiatimes.com/city/delhi/british-national-christian-michel-james-gets-bail-in-rs-3600-crore-agustawestland-chopper-scam/articleshow/118353735.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:25:14+00:00
+
+The Supreme Court has granted bail to alleged middleman Christian Michel James in the Rs 3,600-crore AgustaWestland chopper scam. James had been in custody for six years, and the investigation is still ongoing. He was extradited from Dubai and arrested in 2018, and now the trial court will set the bail conditions.
+
+## India will strongly miss Bumrah in CT: Dhawan
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/india-will-strongly-miss-jasprit-bumrah-in-champions-trophy-shikhar-dhawan/articleshow/118353577.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/india-will-strongly-miss-jasprit-bumrah-in-champions-trophy-shikhar-dhawan/articleshow/118353577.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:25:14+00:00
+
+Former India opener Shikhar Dhawan emphasises the significant impact of pace spearhead Jasprit Bumrah’s absence in the upcoming ICC Champions Trophy due to a back injury. While expressing confidence in India’s prospects, Dhawan highlights Harshit Rana's potential and praises the strong form of the Indian batting lineup, featuring players like Rohit Sharma, Virat Kohli, and Shubman Gill.
+
+## India-Qatar hold bilateral talks, aim to boost economic and strategic cooperation
+ - [https://timesofindia.indiatimes.com/india/india-qatar-hold-bilateral-talks-aim-to-boost-economic-and-strategic-cooperation/articleshow/118348227.cms](https://timesofindia.indiatimes.com/india/india-qatar-hold-bilateral-talks-aim-to-boost-economic-and-strategic-cooperation/articleshow/118348227.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:25:14+00:00
+
+Prime Minister Modi and Qatari Amir Sheikh Tamim Bin Hamad Al Thani held talks in New Delhi, focusing on strengthening trade, investment, and strategic cooperation. The visit marked key interactions and the signing of two MoUs, emphasizing diversifying trade beyond energy and boosting financial ties.
+
+## India's record in Champions Trophy: Two titles & four finals in eight editions
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/indias-record-in-champions-trophy-two-titles-and-four-finals-in-eight-editions/articleshow/118354969.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/indias-record-in-champions-trophy-two-titles-and-four-finals-in-eight-editions/articleshow/118354969.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:25:14+00:00
+
+India, led by Rohit Sharma, enters the ICC Champions Trophy 2025 in Karachi as a strong contender with a balanced squad. Key players include Virat Kohli, Shubman Gill, and Hardik Pandya. Team India aims for their third title, having won twice before. Key fixture: India vs Pakistan on February 23 in Dubai.
+
+## Manu Bhaker breaks silence on coach Jaspal Rana's future
+ - [https://timesofindia.indiatimes.com/sports/more-sports/shooting/double-olympic-medallist-manu-bhaker-breaks-silence-on-coach-jaspal-ranas-future/articleshow/118353394.cms](https://timesofindia.indiatimes.com/sports/more-sports/shooting/double-olympic-medallist-manu-bhaker-breaks-silence-on-coach-jaspal-ranas-future/articleshow/118353394.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:25:14+00:00
+
+Manu Bhaker has confirmed that Jaspal Rana will remain her coach despite his appointment as High Performance trainer by NRAI. After a fallout, their reconciliation led to Manu's historic success at the Paris Olympics with two bronze medals. She credits Rana for her comeback and aims to peak at the World Championships in Cairo.
+
+## Nepali student's death: Father says she was 'harassed, emotionally blackmailed'
+ - [https://timesofindia.indiatimes.com/city/bhubaneswar/nepal-girls-death-father-of-deceased-says-she-was-harassed-emotionally-blackmailed/articleshow/118352623.cms](https://timesofindia.indiatimes.com/city/bhubaneswar/nepal-girls-death-father-of-deceased-says-she-was-harassed-emotionally-blackmailed/articleshow/118352623.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:25:14+00:00
+
+Sunil Lamsal, father of a Nepali student who allegedly committed suicide at Kalinga Institute of Industrial Technology, accused the institution of emotional harassment and blackmail. He mentioned an ongoing investigation, cooperation from the police, and the arrest of an individual. The incident led to protests in Kathmandu, calling for justice for the deceased student.
+
+## 'Time to pay tribute to the resilience of Pakistan cricket'
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/time-to-pay-tribute-to-the-resilience-of-pakistan-cricket-former-skipper-ahead-of-champions-trophy/articleshow/118354856.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/time-to-pay-tribute-to-the-resilience-of-pakistan-cricket-former-skipper-ahead-of-champions-trophy/articleshow/118354856.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:25:14+00:00
+
+Wasim Bari, former PCB official, expresses joy at the return of international cricket to Pakistan with the ICC Champions Trophy after a decade-long hiatus following the 2009 attack on the Sri Lankan team. Bari highlighted the resilience of Pakistan cricket in overcoming a tragic event that once seemed to jeopardize its future.
+
+## WWE elimination 2025: List of all competitors for chamber matches
+ - [https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-elimination-chamber-2025-list-of-all-competitors-for-mens-womens-chamber-matches/articleshow/118345227.cms](https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-elimination-chamber-2025-list-of-all-competitors-for-mens-womens-chamber-matches/articleshow/118345227.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T09:53:37+00:00
+
+The Elimination Chamber 2025 matches for the Men's and Women's divisions are officially set. Superstars competed in high-stakes qualifying matches with John Cena, CM Punk, Drew McIntyre, Logan Paul, Damien Priest, and Seth Rollins earning spots. In the Women's division, Liv Morgan, Alexa Bliss, Bianca Belair, Bayley, Naomi, and Roxanne Perez qualified.
+
+## Ryan Reynolds, Blake Lively's SNL diss at Justin Baldoni backfires
+ - [https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ryan-reynolds-and-blake-livelys-snl-diss-at-justin-baldoni-backfired-netizens-applaud-kevin-costner-for-standing-up-to-bullies/articleshow/118344600.cms](https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/ryan-reynolds-and-blake-livelys-snl-diss-at-justin-baldoni-backfired-netizens-applaud-kevin-costner-for-standing-up-to-bullies/articleshow/118344600.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T09:48:44+00:00
+
+Ryan Reynolds's joke about Blake Lively's legal dispute with Justin Baldoni at the SNL 50th anniversary special caused online backlash. Many found the joke inappropriate. Kevin Costner's unimpressed reaction went viral. The couple faced criticism for attending SNL, especially given Reynolds's ties with his ex-wife, Scarlett Johansson, whose husband, Colin Jost, is a key figure on the show.
+
+## Fact check: JD Vance's free speech attack claims debunked
+ - [https://timesofindia.indiatimes.com/world/us/fact-check-jd-vances-free-speech-attack-claims-debunked/articleshow/118345177.cms](https://timesofindia.indiatimes.com/world/us/fact-check-jd-vances-free-speech-attack-claims-debunked/articleshow/118345177.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T09:39:25+00:00
+
+None
+
+## 2 arrested for performing dangerous stunts on Hyderabad's ORR
+ - [https://timesofindia.indiatimes.com/city/hyderabad/luxury-cars-dangerous-moves-2-youths-arrested-for-performing-stunts-on-hyderabads-orr/articleshow/118349204.cms](https://timesofindia.indiatimes.com/city/hyderabad/luxury-cars-dangerous-moves-2-youths-arrested-for-performing-stunts-on-hyderabads-orr/articleshow/118349204.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T09:20:14+00:00
+
+Two youngsters were arrested by Cyberabad police for performing dangerous stunts in luxury cars on the Outer Ring Road at Shamshabad. The vehicles were seized, and a formal notice was issued to the offenders. Similar incidents of illegal racing were also reported in Bandra, leading to the booking and impounding of 52 motorcyclists for posing significant public safety risks.
+
+## Costa Rica to accept deported Indians in new repatriation agreement with US
+ - [https://timesofindia.indiatimes.com/india/costa-rica-to-accept-deported-indians-central-asians-in-new-repatriation-agreement-with-us/articleshow/118348326.cms](https://timesofindia.indiatimes.com/india/costa-rica-to-accept-deported-indians-central-asians-in-new-repatriation-agreement-with-us/articleshow/118348326.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T09:20:14+00:00
+
+Costa Rica has agreed to accept migrants who were deported from the United States, becoming the third country in Central America to do so. This move follows similar actions by Panama and Guatemala. The deportees, mostly from Central Asia and India, will be repatriated under an arrangement funded by the US government and managed by the International Organisation for Migration (IOM).
+
+## 'Disrespectful for PM and HM to make midnight decision': Rahul on CEC selection
+ - [https://timesofindia.indiatimes.com/india/disrespectful-for-pm-and-hm-to-have-made-midnight-decision-rahul-gandhi-on-new-cec-selection/articleshow/118351413.cms](https://timesofindia.indiatimes.com/india/disrespectful-for-pm-and-hm-to-have-made-midnight-decision-rahul-gandhi-on-new-cec-selection/articleshow/118351413.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T09:20:14+00:00
+
+None
+
+## In high-risk seismic zone 4, Delhi’s proximity to Himalayas an added risk
+ - [https://timesofindia.indiatimes.com/city/delhi/in-high-risk-seismic-zone-4-delhis-proximity-to-himalayas-an-added-risk/articleshow/118346453.cms](https://timesofindia.indiatimes.com/city/delhi/in-high-risk-seismic-zone-4-delhis-proximity-to-himalayas-an-added-risk/articleshow/118346453.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T09:20:14+00:00
+
+A tremor measuring 4 magnitude hit southwest Delhi's Dhaula Kuan on Monday. This highlighted Delhi's earthquake risks due to multiple fault lines and its dense population close to the high-risk Himalayan seismic zone. Experts emphasized that while Delhi's risk is lower than the Himalayas, vigilance is needed, especially concerning structural readiness and evacuation procedures for vulnerable groups.
+
+## India at CT: Batters blaze, bowlers charge in high-intensity sessions
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/india-at-champions-trophy-batters-blaze-bowlers-charge-in-high-intensity-sessions/articleshow/118352870.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/india-at-champions-trophy-batters-blaze-bowlers-charge-in-high-intensity-sessions/articleshow/118352870.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T09:20:14+00:00
+
+The Indian cricket team has been intensively training at the ICC Academy in Dubai ahead of their matches against Bangladesh and Pakistan. Key players like Shubman Gill, Rishabh Pant, and Hardik Pandya showcased impressive performances, while bowlers like Mohammed Shami practiced extensively. The mood remained positive and upbeat, with both fun activities and serious preparations underway.
+
+## India's Got Latent row: Five key takeaways from SC hearing in Ranveer Allahbadia case
+ - [https://timesofindia.indiatimes.com/india/indias-got-latent-row-five-key-takeaways-from-sc-hearing-in-ranveer-allahbadia-case/articleshow/118350583.cms](https://timesofindia.indiatimes.com/india/indias-got-latent-row-five-key-takeaways-from-sc-hearing-in-ranveer-allahbadia-case/articleshow/118350583.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T09:20:14+00:00
+
+None
+
+## 'It was ugly': McDavid expresses disappointment in game against Finland
+ - [https://timesofindia.indiatimes.com/sports/nhl/it-was-ugly-connor-mcdavid-expressed-disappointment-in-the-final-minutes-of-the-game-against-finland/articleshow/118343021.cms](https://timesofindia.indiatimes.com/sports/nhl/it-was-ugly-connor-mcdavid-expressed-disappointment-in-the-final-minutes-of-the-game-against-finland/articleshow/118343021.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:34:18+00:00
+
+Canada secured a 5-3 victory over Finland, thanks to strong performances from Connor McDavid, Nathan MacKinnon, and Sidney Crosby. Despite Finland's late comeback attempt, Crosby sealed the win, sending Canada to the 4 Nations Face-Off championship game against the United States on Thursday.
+
+## Big blow for New Zealand! Ferguson ruled out of Champions Trophy
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/big-blow-for-new-zealand-lockie-ferguson-ruled-out-of-champions-trophy/articleshow/118350045.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/big-blow-for-new-zealand-lockie-ferguson-ruled-out-of-champions-trophy/articleshow/118350045.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:15:10+00:00
+
+New Zealand's fast bowler Lockie Ferguson has been ruled out of the ICC Champions Trophy 2025 due to a foot injury. Pacer Kyle Jamieson has been named his replacement. Ferguson's absence is a significant loss for the Black Caps. The team will begin their campaign against Pakistan on Wednesday in Karachi.
+
+## 'We are not going to leave vacuum': SC seeks Centre's response on YouTube content
+ - [https://timesofindia.indiatimes.com/india/we-are-not-going-to-leave-vacuum-supreme-court-seeks-centres-response-on-obscene-youtube-content/articleshow/118350512.cms](https://timesofindia.indiatimes.com/india/we-are-not-going-to-leave-vacuum-supreme-court-seeks-centres-response-on-obscene-youtube-content/articleshow/118350512.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:15:10+00:00
+
+None
+
+## Tom Brady’s ‘Forever Valentine’ revealed as Gisele Bündchen moves on
+ - [https://timesofindia.indiatimes.com/sports/nfl/news/tom-bradys-forever-valentine-revealed-as-ex-gisele-bndchen-embraces-love-and-motherhood-with-new-partner/articleshow/118342784.cms](https://timesofindia.indiatimes.com/sports/nfl/news/tom-bradys-forever-valentine-revealed-as-ex-gisele-bndchen-embraces-love-and-motherhood-with-new-partner/articleshow/118342784.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:40:00+00:00
+
+Tom Brady celebrated Valentine’s Day with his daughter Vivian, emphasizing his dedication to fatherhood post-divorce. Sharing a heartfelt tribute on social media, Brady highlighted his close bond with his children, maintaining an amicable co-parenting relationship with ex-Gisele Bündchen. Meanwhile, Bündchen has started a new chapter with Joaquim Valente, embracing motherhood again.
+
+## 1984 anti-Sikh riots: Prosecution seeks death penalty for Sajjan Kumar
+ - [https://timesofindia.indiatimes.com/city/delhi/1984-anti-sikh-riots-case-prosecution-seeks-death-penalty-for-ex-congress-mp-sajjan-kumar/articleshow/118347194.cms](https://timesofindia.indiatimes.com/city/delhi/1984-anti-sikh-riots-case-prosecution-seeks-death-penalty-for-ex-congress-mp-sajjan-kumar/articleshow/118347194.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+In a 1984 anti-Sikh riots case, the prosecution seeks the death penalty for ex-Congress MP Sajjan Kumar, convicted for leading a mob that killed a father and son. The court based its verdict on testimonies from survivors, highlighting a lack of police intervention during the attack.
+
+## 5 dead, several injured as dumper truck hits van in Madhya Pradesh's Bhind
+ - [https://timesofindia.indiatimes.com/city/bhopal/5-dead-several-injured-as-dumper-truck-hits-van-in-madhya-pradeshs-bhind/articleshow/118344018.cms](https://timesofindia.indiatimes.com/city/bhopal/5-dead-several-injured-as-dumper-truck-hits-van-in-madhya-pradeshs-bhind/articleshow/118344018.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+Five people, including three women, died and nearly 12 others were injured in a collision between a dumper truck and a van in Bhind district, Madhya Pradesh. The accident happened around 5am as a group was returning from a marriage function.
+
+## BBA student driving Audi crashes into scooty in Delhi; 1 critical
+ - [https://timesofindia.indiatimes.com/city/delhi/bba-student-driving-audi-crashes-into-scooty-in-delhi-1-critical/articleshow/118344827.cms](https://timesofindia.indiatimes.com/city/delhi/bba-student-driving-audi-crashes-into-scooty-in-delhi-1-critical/articleshow/118344827.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+Two individuals riding a scooty were injured after being hit by a speeding Audi near the Jor Bagh Post Office. The victims, Naitik and Tushar, were rushed to a trauma centre with Naitik in stable condition and Tushar remaining critical. Both occupants of the Audi, who are BBA students, have been detained by the police.
+
+## 'Biggest fraud': Musk says millions listed in social security database over 100 yrs old
+ - [https://timesofindia.indiatimes.com/world/us/biggest-fraud-elon-musk-says-millions-listed-in-social-security-database-are-over-100-years-old/articleshow/118343731.cms](https://timesofindia.indiatimes.com/world/us/biggest-fraud-elon-musk-says-millions-listed-in-social-security-database-are-over-100-years-old/articleshow/118343731.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+Elon Musk highlighted a major issue in the US Social Security database, identifying 20 million centenarians while Census data counts only 86,000. Historical audits showed many listed individuals are long deceased, with some fraud or multiple Social Security numbers involved. Only 44,000 receive benefits, and some fraud cases linked to incorrect numbers were found.
+
+## Buy or sell: Top stock recommendations for today
+ - [https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-february-18-2025-indusind-bank-cipla-stocks-to-buy-today/articleshow/118344580.cms](https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-february-18-2025-indusind-bank-cipla-stocks-to-buy-today/articleshow/118344580.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+Somil Mehta of Mirae Asset Sharekhan recommends buying IndusInd Bank and Cipla stocks. IndusInd Bank's key support levels are 1013 and 1005, targeting 1150, while Cipla's key support levels are 1438 and 1406, targeting 1545. Both stocks show positive momentum indicators.
+
+## Champions Trophy: Pak vs New Zealand live stream, Dream11 prediction, etc
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/champions-trophy-2025-pakistan-vs-new-zealand-live-streaming-dream11-prediction-venue-date-time-details/articleshow/118348107.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/champions-trophy-2025-pakistan-vs-new-zealand-live-streaming-dream11-prediction-venue-date-time-details/articleshow/118348107.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+Pakistan will host the ICC Champions Trophy 2025, marking its first major cricket event in nearly three decades. The tournament, starting on February 19, features eight top ODI teams. Defending champions Pakistan face New Zealand in the opening match. Matches will be played in Karachi, Lahore, and Rawalpindi, with India's games in Dubai. Expect an electrifying competition.
+
+## 'Convincing the world that Pakistan is safe ...': Ramiz Raja ahead of CT
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/convincing-the-world-that-pakistan-is-safe-ramiz-raja-shares-as-the-country-hosts-its-first-major-tournament-in-29-years/articleshow/118348447.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/convincing-the-world-that-pakistan-is-safe-ramiz-raja-shares-as-the-country-hosts-its-first-major-tournament-in-29-years/articleshow/118348447.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+Pakistan is hosting its first major cricket tournament in nearly three decades, the Champions Trophy, which starts on Wednesday. The event's successful execution could significantly improve the country's international reputation. Despite India's refusal to play in Pakistan due to political tensions, seven other nations will participate. Security has been heightened to ensure a smooth and safe tournament.
+
+## CT Group B: The serial winners, serial chokers and a deadly underdog
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/champions-trophy-group-b-the-serial-winners-serial-chokers-and-a-deadly-underdog/articleshow/118345569.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/champions-trophy-group-b-the-serial-winners-serial-chokers-and-a-deadly-underdog/articleshow/118345569.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+Australia, England, South Africa, and Afghanistan form a competitive group in the tournament. Australia boast a strong batting lineup but have key pacers injured. England's aggressive batting and pace duo are formidable, yet their spin vulnerability remains. South Africa's versatile batting and pace attack stand out, while Afghanistan's potent spinners and top-order have caused recent upsets.
+
+## Deadly cold snap grips US as Polar Vortex sends temperatures plummeting
+ - [https://timesofindia.indiatimes.com/world/us/deadly-cold-snap-grips-us-as-polar-vortex-sends-temperatures-plummeting/articleshow/118342945.cms](https://timesofindia.indiatimes.com/world/us/deadly-cold-snap-grips-us-as-polar-vortex-sends-temperatures-plummeting/articleshow/118342945.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+A severe cold wave across the central and northern US has brought life-threatening temperatures, snowstorms, and deadly floods, resulting in at least 13 deaths. The National Weather Service issued extreme cold warnings, and severe weather conditions have also led to flooding and hazardous travel, prompting federal disaster assistance requests.
+
+## Delhi-NCR has witnessed 446 earthquakes in past 32 years
+ - [https://timesofindia.indiatimes.com/city/delhi/delhi-ncr-has-witnessed-446-earthquakes-in-past-32-years/articleshow/118343034.cms](https://timesofindia.indiatimes.com/city/delhi/delhi-ncr-has-witnessed-446-earthquakes-in-past-32-years/articleshow/118343034.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+Delhi has experienced 446 earthquakes between 1993 and 2025 within 50km of Monday's epicentre. The National Centre for Seismology reported that the recent 4.0 magnitude quake felt more intense due to its shallow depth. Past significant earthquakes include those in 2007 and 2020, with no casualties reported in the latest event.
+
+## Delta plane crash: Runway was dry, no cross-wind conditions
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/delta-plane-crash-runway-was-dry-no-cross-wind-conditions-says-official-in-toronto/articleshow/118343215.cms](https://timesofindia.indiatimes.com/world/rest-of-world/delta-plane-crash-runway-was-dry-no-cross-wind-conditions-says-official-in-toronto/articleshow/118343215.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+A Delta Air Lines aircraft crashed and overturned while landing at Toronto Pearson Airport, injuring 17 people, three critically. Emergency responders quickly transported the injured to hospitals. Officials are investigating the cause, while runway operations resumed shortly after the incident.
+
+## 'Deport Musk, dethrone Trump': Thousands protest across US on President's Day
+ - [https://timesofindia.indiatimes.com/world/us/deport-musk-dethrone-trump-thousands-protest-across-us-on-presidents-day/articleshow/118342963.cms](https://timesofindia.indiatimes.com/world/us/deport-musk-dethrone-trump-thousands-protest-across-us-on-presidents-day/articleshow/118342963.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+Thousands protested across the US on President's Day against President Trump, accusing him of acting like a king. Demonstrations were led by the 50501 Movement, with slogans like 'No kings on Presidents Day.' In Boston, protesters marched through the snow, and rallies occurred in various cities, criticising Trump's actions and urging resistance.
+
+## 'Hardik Pandya and Krunal ate only Maggi for three years': Nita Ambani
+ - [https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/hardik-and-krunal-ate-only-maggi-for-three-years-nita-ambani-reveals-details-of-first-meeting-with-pandya-brothers/articleshow/118343023.cms](https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/hardik-and-krunal-ate-only-maggi-for-three-years-nita-ambani-reveals-details-of-first-meeting-with-pandya-brothers/articleshow/118343023.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+Mumbai Indians owner Nita Ambani recounted Hardik Pandya's journey from financial struggles to becoming MI captain. Discovered through MI’s scouting system, Pandya’s dedication and talent stood out. Alongside Krunal Pandya and Jasprit Bumrah, MI nurtured their careers. The franchise’s commitment to young talent continues with players like Tilak Varma rising to the national team.
+
+## Here’s why Samay Raina requested cyber cell to record his statement virtually
+ - [https://timesofindia.indiatimes.com/web-series/news/hindi/indias-got-latent-row-heres-why-samay-raina-requested-the-cyber-cell-to-record-his-statement-virtually/articleshow/118343073.cms](https://timesofindia.indiatimes.com/web-series/news/hindi/indias-got-latent-row-heres-why-samay-raina-requested-the-cyber-cell-to-record-his-statement-virtually/articleshow/118343073.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+YouTubers Ranveer Allahbadia and Samay Raina are under scrutiny today. Ranveer's Supreme Court plea against multiple FIRs and Samay's summons by the cyber cell for the 'India’s Got Latent' controversy are key events. Samay's request for a virtual statement was denied, and both YouTubers have also received fresh summons from the National Commission for Women.
+
+## India's Got Latent row: SC grants interim protection to Ranveer Allahbadia from arrest
+ - [https://timesofindia.indiatimes.com/city/delhi/society-has-some-values-supreme-court-questions-language-used-by-ranveer-allahbadia-on-comedy-show/articleshow/118347671.cms](https://timesofindia.indiatimes.com/city/delhi/society-has-some-values-supreme-court-questions-language-used-by-ranveer-allahbadia-on-comedy-show/articleshow/118347671.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+The Supreme Court criticized Ranveer Allahbadia for his offensive remarks on social media, emphasizing that free speech does not permit such comments. He and others face multiple FIRs and police summons, while Allahbadia has cited death threats. Co-accused Samay Raina has publicly apologized and removed controversial videos.
+
+## Musk's xAI unveils ‘scary smart’ Grok 3 AI chatbot; to rival ChatGPT, DeepSeek
+ - [https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-xai-unveils-scary-smart-grok-3-ai-chatbot-to-rival-chatgpt-and-deepseek/articleshow/118348519.cms](https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-xai-unveils-scary-smart-grok-3-ai-chatbot-to-rival-chatgpt-and-deepseek/articleshow/118348519.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+Elon Musk’s xAI revealed Grok 3, a chatbot with 10 times the computational resources compared to its predecessor and remarkable reasoning abilities. Grok 3 will be available to Premium Plus subscribers on X and a separate subscription called Super Grok will offer the most advanced features.
+
+## Mystery vs History: Selection curve ball pits Kuldeep vs Varun for spinner's spot
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/mystery-vs-history-selection-curve-ball-pits-kuldeep-yadav-against-varun-chakravarthy-for-spinners-spot-in-indias-playing-xi/articleshow/118345147.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/mystery-vs-history-selection-curve-ball-pits-kuldeep-yadav-against-varun-chakravarthy-for-spinners-spot-in-indias-playing-xi/articleshow/118345147.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+India's selectors, led by Ajit Agarkar, surprised many by replacing opener Yashasvi Jaiswal with mystery spinner Varun Chakravarthy for the Champions Trophy. Despite four spinners already in the squad, Varun's inclusion raised eyebrows. The key decision now revolves around who will play in the XI between Kuldeep Yadav and Varun Chakravarthy.
+
+## Ranveer Allahbadia, Samay Raina issued fresh summons by NCW over Latent controversy
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-allahbadia-samay-raina-issued-fresh-summons-by-ncw-over-indias-got-latent-controversy-netizens-say-concentrate-on-real-issues/articleshow/118346312.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-allahbadia-samay-raina-issued-fresh-summons-by-ncw-over-indias-got-latent-controversy-netizens-say-concentrate-on-real-issues/articleshow/118346312.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+The National Commission for Women (NCW) issued new summons to YouTubers like Ranveer Allahbadia and Samay Raina due to their failure to appear over derogatory remarks on 'India's Got Latent.' The hearings have faced delays due to logistical challenges, safety concerns, and pre-planned tours.
+
+## Tesla expands operations in India: Job openings signal market entry
+ - [https://timesofindia.indiatimes.com/business/india-business/tesla-expands-operations-in-india-job-openings-signal-market-entry/articleshow/118345128.cms](https://timesofindia.indiatimes.com/business/india-business/tesla-expands-operations-in-india-job-openings-signal-market-entry/articleshow/118345128.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+Tesla Inc. is planning to enter the Indian market, hiring for 13 roles, including customer-facing and back-end jobs in Mumbai and Delhi. This move follows Elon Musk's meeting with Prime Minister Narendra Modi. India recently reduced import duties on high-end cars, potentially benefiting Tesla. India's EV market, although smaller than China's, offers growth opportunities.
+
+## 'The aircraft is upside down and burning': How Delta plane crash unfolded
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/the-aircraft-is-upside-down-and-burning-how-the-delta-plane-crash-unfolded/articleshow/118344338.cms](https://timesofindia.indiatimes.com/world/rest-of-world/the-aircraft-is-upside-down-and-burning-how-the-delta-plane-crash-unfolded/articleshow/118344338.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+A Delta Air Lines Bombardier CRJ-900 jet flipped upside down while landing at Toronto Pearson Airport amidst strong winds and snow, resulting in 17 injuries. All 80 passengers and crew members were evacuated safely. The cause of the crash is under investigation, with initial reports indicating challenging weather conditions and missing aircraft wing as potential factors.
+
+## Watch: Passengers walk on ceiling to escape Delta jet that crashed in Canada
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/watch-video-captures-passengers-walking-on-ceiling-to-escape-delta-jet-that-crashed-in-canada/articleshow/118342855.cms](https://timesofindia.indiatimes.com/world/rest-of-world/watch-video-captures-passengers-walking-on-ceiling-to-escape-delta-jet-that-crashed-in-canada/articleshow/118342855.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+A Delta Airlines plane from Minneapolis flipped upon landing at Toronto’s Pearson Airport, injuring 17 people. The incident caused temporary halts in airport operations, with two runways closing for investigation. Emergency services responded swiftly, transporting the injured to hospitals. Weather conditions, including high winds and snow, may have contributed.
+
+## Watch: Qatar Amir receives ceremonial welcome at Rashtrapati Bhavan
+ - [https://timesofindia.indiatimes.com/india/watch-qatar-amir-sheikh-tamim-bin-hamad-al-thani-receives-ceremonial-welcome-in-presence-of-pm-modi-president-murmu-at-rashtrapati-bhavan/articleshow/118346418.cms](https://timesofindia.indiatimes.com/india/watch-qatar-amir-sheikh-tamim-bin-hamad-al-thani-receives-ceremonial-welcome-in-presence-of-pm-modi-president-murmu-at-rashtrapati-bhavan/articleshow/118346418.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+None
+
+## 'We will work on this together': Macron holds call with Trump, Zelenskyy
+ - [https://timesofindia.indiatimes.com/world/europe/we-will-work-on-this-together-french-president-emmanuel-macron-holds-call-with-donald-trump-volodymyr-zelenskyy-to-discuss-ukraine-peace/articleshow/118343130.cms](https://timesofindia.indiatimes.com/world/europe/we-will-work-on-this-together-french-president-emmanuel-macron-holds-call-with-donald-trump-volodymyr-zelenskyy-to-discuss-ukraine-peace/articleshow/118343130.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+French President Macron stresses the need for a strong and lasting peace in Ukraine, urging Russia to end its aggression and providing robust security guarantees. Along with discussions with US and Ukrainian leaders, European leaders reaffirm their support for Ukraine without new guarantees. UK Prime Minister Starmer emphasizes a US security guarantee as essential to deter future Russian aggression.
+
+## Your teen's slouching can be more than just a bad posture
+ - [https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/scheuermanns-disease-how-to-spot-early-signs-in-teenagers/articleshow/118345903.cms](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/scheuermanns-disease-how-to-spot-early-signs-in-teenagers/articleshow/118345903.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+Scheuermann's disease is often mistaken for bad posture in teenagers. It's a structural spinal condition leading to severe curvature and chronic pain. Early detection can impact treatment, including physical therapy and, for severe cases, surgical intervention. If recurring back discomfort or irregular spinal curves are observed, immediate medical attention is advised for effective management and better outcomes.
+
+## 'Your words make daughters, sisters, parents feel ashamed': SC raps Allahbadia
+ - [https://timesofindia.indiatimes.com/india/your-words-make-daughters-sisters-parents-and-even-society-feel-ashamed-supreme-court-raps-ranveer-allahbadia/articleshow/118348443.cms](https://timesofindia.indiatimes.com/india/your-words-make-daughters-sisters-parents-and-even-society-feel-ashamed-supreme-court-raps-ranveer-allahbadia/articleshow/118348443.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:04+00:00
+
+Words you have used will make daughters, sisters, parents and even society feel ashamed: SC to Ranveer Allahbadia's counsel.
+
+## Videos of women undergoing gynaecological check-ups at Gujarat hospital put online
+ - [https://timesofindia.indiatimes.com/city/rajkot/videos-of-women-undergoing-gynaecological-check-ups-at-gujarat-hospital-put-online-probe-ordered/articleshow/118342778.cms](https://timesofindia.indiatimes.com/city/rajkot/videos-of-women-undergoing-gynaecological-check-ups-at-gujarat-hospital-put-online-probe-ordered/articleshow/118342778.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T06:59:05+00:00
+
+CCTV videos from a Rajkot hospital showing women undergoing medical treatments were leaked on social media. Both the Ahmedabad and Rajkot cybercrime branches are investigating the breach. The content was shared on YouTube and Telegram, amassing over five lakh views. Authorities are working to identify the suspects and remove the videos to protect the victims.
+
+## Aprilia Tuono 457 launched at Rs 3.95 lakh: Engine, features, & more
+ - [https://timesofindia.indiatimes.com/auto/bikes/aprilia-tuono-457-launched-at-rs-3-95-lakh-engine-features-bookings-more/articleshow/118342736.cms](https://timesofindia.indiatimes.com/auto/bikes/aprilia-tuono-457-launched-at-rs-3-95-lakh-engine-features-bookings-more/articleshow/118342736.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T06:54:50+00:00
+
+Aprilia India has introduced the Tuono 457, its most affordable model yet, priced at Rs 3.95 lakh. Featuring a minimalist design, it boasts a 457cc engine with 47 hp, a 5-inch TFT display, and multiple riding modes. Bookings are open with deliveries beginning in March, and it comes with a three-year warranty.
+
+## 'India is not coming …': PCB downplays row over 'missing' Indian flag at stadiums
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/india-is-not-coming-to-pakistan-pcb-downplays-row-over-missing-indian-flag-at-stadiums-ahead-of-champions-trophy/articleshow/118342432.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/india-is-not-coming-to-pakistan-pcb-downplays-row-over-missing-indian-flag-at-stadiums-ahead-of-champions-trophy/articleshow/118342432.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T06:15:27+00:00
+
+A video from Karachi's National Stadium showing flags of ICC Champions Trophy 2025 participants has sparked controversy as the Indian flag was missing. The PCB clarified that only flags of countries playing in Pakistan are hoisted, as India will play their matches in Dubai. Banners in Pakistani cities feature all participating nations, including India.
+
+## Team India stars unveil Champions Trophy jersey in Dubai - See Pics
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/team-india-stars-unveil-champions-trophy-jersey-ahead-of-tournament-in-dubai-see-pics/articleshow/118342253.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/team-india-stars-unveil-champions-trophy-jersey-ahead-of-tournament-in-dubai-see-pics/articleshow/118342253.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T05:41:45+00:00
+
+The BCCI has released Team India's official jerseys for the ICC Champions Trophy 2025, featuring star players including Rohit Sharma and Virat Kohli. The Indian squad will miss Jasprit Bumrah due to injury, with Harshit Rana named as his replacement. India will start their campaign against Bangladesh on February 20 in Dubai.
+
+## 'We were hanging upside down': Passengers recount Delta jet crash in Toronto
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/i-was-just-in-a-plane-crash-toronto-plane-crash-survivor-shares-video-of-moment-delta-plane-flipped/articleshow/118339739.cms](https://timesofindia.indiatimes.com/world/rest-of-world/i-was-just-in-a-plane-crash-toronto-plane-crash-survivor-shares-video-of-moment-delta-plane-flipped/articleshow/118339739.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T04:03:28+00:00
+
+A Delta airplane crashed at Toronto's Pearson airport, flipping upside down during landing, injuring seventeen people, with three in critical condition. Runways are closed until Tuesday for investigation. Emergency services responded swiftly, confirming all passengers and crew survived the incident involving Flight 4819.
+
+## ED seizes Rs 40 lakh cash, Rs 1.6 cr jewellery from BJP leader’s properties in Punjab
+ - [https://timesofindia.indiatimes.com/city/chandigarh/ed-recovers-rs-40l-cash-rs-1-6-cr-worth-jewellery-from-bjp-leaders-4-properties/articleshow/118338857.cms](https://timesofindia.indiatimes.com/city/chandigarh/ed-recovers-rs-40l-cash-rs-1-6-cr-worth-jewellery-from-bjp-leaders-4-properties/articleshow/118338857.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T01:17:34+00:00
+
+The Enforcement Directorate (ED) recovered over Rs 40 lakh in cash and jewellery worth Rs 1.61 crore from four properties of BJP leader Nitisen Bhatia in connection with a money laundering case. His sons Neeraj and Naveen Bhatia were accused of illegal marketing of cough syrup.
+
+## Karnataka Bank reports suspicious cross-border UPI transaction of Rs 18.87 cr to RBI
+ - [https://timesofindia.indiatimes.com/technology/tech-news/karnataka-bank-reports-to-rbi-suspicious-cross-border-upi-transaction-of-rs-18-87-crore/articleshow/118338854.cms](https://timesofindia.indiatimes.com/technology/tech-news/karnataka-bank-reports-to-rbi-suspicious-cross-border-upi-transaction-of-rs-18-87-crore/articleshow/118338854.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T01:17:28+00:00
+
+Karnataka Bank Ltd discovered deficiencies in its reconciliation process for cross-border UPI transactions, leading to a net loss of ₹18.57 crore. The bank has reported the issue to the Reserve Bank of India and implemented enhanced control measures to prevent future occurrences.
+
+## Mets' Steve Cohen calls out Scott Boras for minimal role in Alonso’s re-signing
+ - [https://timesofindia.indiatimes.com/sports/mlb/news/it-was-my-idea-mets-owner-steve-cohen-calls-out-scott-boras-for-minimal-contributions-in-pete-alonsos-re-signing/articleshow/118338188.cms](https://timesofindia.indiatimes.com/sports/mlb/news/it-was-my-idea-mets-owner-steve-cohen-calls-out-scott-boras-for-minimal-contributions-in-pete-alonsos-re-signing/articleshow/118338188.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T00:31:53+00:00
+
+Pete Alonso re-signed with the New York Mets for $54 million, with Mets owner Steve Cohen criticizing Alonso’s agent Scott Boras for his lack of input during negotiations. Cohen emphasized the importance of connecting personally with Alonso during the process and praised the team's lineup for the 2025 MLB season.
+
+## Elon Musk's 'reminder' to Wikipedia: $1 billion offer for name change to ...
+ - [https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-reminder-to-wikipedia-1-billion-offer-for-name-change-to-still-stands-come-on-do-/articleshow/118337838.cms](https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-reminder-to-wikipedia-1-billion-offer-for-name-change-to-still-stands-come-on-do-/articleshow/118337838.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T00:08:28+00:00
+
+Elon Musk reiterated his $1 billion offer to Wikipedia, asking it to change its name to 'Dickipedia.' He also made fun of Wikipedia's financial assistance requests and urged his followers to stop donating to the organization due to its spending on Diversity, Equity, and Inclusion initiatives.
+
+## Using drinking water to wash cars in Bengaluru? Get set to pay penalty
+ - [https://timesofindia.indiatimes.com/city/bengaluru/using-drinking-water-to-wash-cars-get-set-to-pay-penalty/articleshow/118337789.cms](https://timesofindia.indiatimes.com/city/bengaluru/using-drinking-water-to-wash-cars-get-set-to-pay-penalty/articleshow/118337789.cms)
+ - RSS feed: $source
+ - date published: 2025-02-18T00:05:33+00:00
+
+BWSSB has mandated a restriction on using drinking water for non-essential activities such as washing vehicles, gardening, and street cleaning due to increasing water scarcity. Violators may face fines of up to Rs 5,000, as the city experiences a decline in groundwater levels. This measure aims to ensure a sustainable supply for the city's 1.4 crore residents.
+

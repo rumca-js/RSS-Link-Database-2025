@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-18T10:03:00+00:00",
+        "description": "We take stability for granted, until it&#8217;s no longer there. Some art forms and enterprises benefit from an unstable environment, where systems are in flux and the changes are unpredictable. Others are nearly impossible. How much priority do your investors, clients and employees put on building processes that do well in chaos? Or are you [&#8230;]",
+        "id": 2138197,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/02/playing-billiards-on-a-boat",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Playing billiards on a boat",
+        "vote": 0
+    }
+]

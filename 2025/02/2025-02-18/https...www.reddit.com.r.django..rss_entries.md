@@ -1,0 +1,58 @@
+# Source:Django, URL:https://www.reddit.com/r/django/.rss, language:
+
+## Django Forms and AlpineJS money input mask
+ - [https://www.reddit.com/r/django/comments/1ispqax/django_forms_and_alpinejs_money_input_mask](https://www.reddit.com/r/django/comments/1ispqax/django_forms_and_alpinejs_money_input_mask)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:52:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone, I need help implementing a money input mask with the following requirements: </p> <ul> <li>It should enforce a maximum value (hardcoded as 1000 for now, but ideally configurable). </li> <li>It should remove leading zeros dynamically. </li> </ul> <p>I&#39;m using Django forms and Alpine.js mask for this. Here&#39;s my current implementation:</p> <pre><code>price = forms.CharField( help_text=&quot;Enter Price&quot;, widget=forms.TextInput( attrs={ &quot;x-on:paste&quot;: &quot;if (parseFloat($event.clipboardData.getData(&#39;text/plain&#39;)) &gt; 1000) { $event.preventDefault(); $event.target.value = &#39;1000&#39;; }&quot;, &quot;x-mask:dynamic&quot;: &quot;(/^(?!0\\.)[0,-]+/.test($input)) ? $input.replace(/^(?!0\\.)[0,-]+/, &#39;&#39;) : parseFloat($input.replace(/[^0-9.]/g, &#39;&#39;)) &lt;= 1000 ? $money($input) : $input.includes(&#39;.&#39;) ? $money($input.slice(0, $input.indexOf(&#39;.&#39;))) : $money($input.slice(0, -1))&quot
+
+## TODO / Task list module
+ - [https://www.reddit.com/r/django/comments/1isppor/todo_task_list_module](https://www.reddit.com/r/django/comments/1isppor/todo_task_list_module)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:51:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I am developing an app and one of the sub modules that is needed for the app is a nice todo list module, one that includes recurring tasks, templates, potentially collaborations etc. Is there a package that was developed and is maintained that provides these features? or do I need to design and implement from scratch? Seems to me that it should be a commodity. Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Crazy-Temperature669"> /u/Crazy-Temperature669 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1isppor/todo_task_list_module/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1isppor/todo_task_list_module/">[comments]</a></span>
+
+## Startup
+ - [https://www.reddit.com/r/django/comments/1isnz2w/startup](https://www.reddit.com/r/django/comments/1isnz2w/startup)
+ - RSS feed: $source
+ - date published: 2025-02-18T21:17:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello. I’m building a web app using Django to offer telehealth services in my country. Any tips that could help will be greatly appreciated. </p> <p>In the meantime, I’m hoping to get help with the FrontEnd since I’ve only learnt backend with a little css and JavaScript.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nervous-Movie-6817"> /u/Nervous-Movie-6817 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1isnz2w/startup/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1isnz2w/startup/">[comments]</a></span>
+
+## Django deploy on DigitalOcean App launcher
+ - [https://www.reddit.com/r/django/comments/1ism2ne/django_deploy_on_digitalocean_app_launcher](https://www.reddit.com/r/django/comments/1ism2ne/django_deploy_on_digitalocean_app_launcher)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:01:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi I am i am having problems, when I try to launch my app on DigitalOcean.</p> <p>I keep getting Cookie “__cf_bm” has been rejected for invalid domain.</p> <p>When I try to launch my app.</p> <p>This this is my settings:</p> <p>SESSION_COOKIE_DOMAIN_DYNAMIC = [&#39;oyster-app-xj275.ondigitalocean.app&#39;, &#39;*&#39;]</p> <p>MIDDLEWARE = [</p> <p>&quot;django.middleware.security.SecurityMiddleware&quot;,</p> <p>&#39;whitenoise.middleware.WhiteNoiseMiddleware&#39;,</p> <p>&quot;django.contrib.sessions.middleware.SessionMiddleware&quot;,</p> <p>&quot;django.middleware.common.CommonMiddleware&quot;,</p> <p>&quot;django.middleware.csrf.CsrfViewMiddleware&quot;,</p> <p>&quot;django.contrib.auth.middleware.AuthenticationMiddleware&quot;,</p> <p>&quot;django.contrib.messages.middleware.MessageMiddleware&quot;,</p> <p>&quot;django.middleware.clickjacking.XFrameOptionsMiddleware&quot;,</p> <p>&#39;cookie_consent.middleware.CleanCookiesMiddleware&#39;</p> <p>
+
+## Virga's Portfolio
+ - [https://www.reddit.com/r/django/comments/1islatp/virgas_portfolio](https://www.reddit.com/r/django/comments/1islatp/virgas_portfolio)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:30:32+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.aubreyf.tech">https://www.aubreyf.tech</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dtebar_nyc"> /u/dtebar_nyc </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1islatp/virgas_portfolio/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1islatp/virgas_portfolio/">[comments]</a></span>
+
+## Url Handling In Django
+ - [https://www.reddit.com/r/django/comments/1isk3m2/url_handling_in_django](https://www.reddit.com/r/django/comments/1isk3m2/url_handling_in_django)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:43:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a few large projects with a large set of features.<br/> As these projects grow it starts to feel very cumbersome to keep adding urls to the <a href="http://urls.py">urls.py</a> files.</p> <p>That said, Django Ninja, Fast API, and Flask all have a decorator that hard links a view to a route in one spot. I&#39;ve always tended to lean away from that, but more and more frameworks are adopting that style.</p> <p>Is the decorator style considered more hacky than defining your routes all in one spot (or spots with app specific urls).</p> <p>The more ive done this the more I&#39;m starting to like the idea of having the route and the view that close to one another as it is with a decorator.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Super_Refuse8968"> /u/Super_Refuse8968 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1isk3m2/url_handling_in_django/">[link]</a></span> &#32; <span><a href=
+
+## Django + Caddy in Docker Compose?
+ - [https://www.reddit.com/r/django/comments/1isexe4/django_caddy_in_docker_compose](https://www.reddit.com/r/django/comments/1isexe4/django_caddy_in_docker_compose)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:14:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Does anyone have an example of a production ready docker compose for django with caddy as a reverse proxy ? an example of a compose file and a caddyfile would be so helpful :D</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Own_University_3048"> /u/Own_University_3048 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1isexe4/django_caddy_in_docker_compose/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1isexe4/django_caddy_in_docker_compose/">[comments]</a></span>
+
+## How can I use session data to track what registration pages were filled out?
+ - [https://www.reddit.com/r/django/comments/1is4hjw/how_can_i_use_session_data_to_track_what](https://www.reddit.com/r/django/comments/1is4hjw/how_can_i_use_session_data_to_track_what)
+ - RSS feed: $source
+ - date published: 2025-02-18T04:36:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I wanted to use session data to keep track of what pages were filled out in the registration sequence and which ones were not. Just in case the user leaves the page, and comes back, I want them to be able to log back in and start where they left off in the process. These are all html pages containing text fields. I have tried alot of different things but it always starts me back on the beginning page regardless of where I left off.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Key-Storage607"> /u/Key-Storage607 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1is4hjw/how_can_i_use_session_data_to_track_what/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1is4hjw/how_can_i_use_session_data_to_track_what/">[comments]</a></span>
+

@@ -1,0 +1,177 @@
+# Source:Crack Support, URL:https://www.reddit.com/r/CrackSupport/.rss, language:
+
+## Cache
+ - [https://www.reddit.com/r/CrackSupport/comments/1isqepf/cache](https://www.reddit.com/r/CrackSupport/comments/1isqepf/cache)
+ - RSS feed: $source
+ - date published: 2025-02-18T23:19:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, wanted to ask, How to turn the cache off in rusticaland? I saw a tip that if u turn that off u will see all cracked servers but how I need tu turn it off?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/papq_gg"> /u/papq_gg </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isqepf/cache/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isqepf/cache/">[comments]</a></span>
+
+## is there a way to convert PS4 saves to a cracked PC game save?
+ - [https://www.reddit.com/r/CrackSupport/comments/1isq5gk/is_there_a_way_to_convert_ps4_saves_to_a_cracked](https://www.reddit.com/r/CrackSupport/comments/1isq5gk/is_there_a_way_to_convert_ps4_saves_to_a_cracked)
+ - RSS feed: $source
+ - date published: 2025-02-18T23:08:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to transfer my PS4 save game to a cracked PC version. One solution was Savewizard but I don&#39;t feel like paying $60 to use it once in a lifetime. the game in question is The Witcher 3.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheB00geyMan69"> /u/TheB00geyMan69 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isq5gk/is_there_a_way_to_convert_ps4_saves_to_a_cracked/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isq5gk/is_there_a_way_to_convert_ps4_saves_to_a_cracked/">[comments]</a></span>
+
+## RDR2 Data/Save file
+ - [https://www.reddit.com/r/CrackSupport/comments/1isnpy7/rdr2_datasave_file](https://www.reddit.com/r/CrackSupport/comments/1isnpy7/rdr2_datasave_file)
+ - RSS feed: $source
+ - date published: 2025-02-18T21:07:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Where can I find the data/save file for RDR2? Last few days it&#39;s been running no problem but today i got the missing emp.dll error. I needed to reinstall the game but I don&#39;t want to play 3 chapters again.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ThatOneGuyNamedJoge"> /u/ThatOneGuyNamedJoge </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isnpy7/rdr2_datasave_file/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isnpy7/rdr2_datasave_file/">[comments]</a></span>
+
+## Hacktool win32 Vigorf.a found on ableton live 12 suite crack
+ - [https://www.reddit.com/r/CrackSupport/comments/1ismuuz/hacktool_win32_vigorfa_found_on_ableton_live_12](https://www.reddit.com/r/CrackSupport/comments/1ismuuz/hacktool_win32_vigorfa_found_on_ableton_live_12)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:32:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>I wish someone could help me on that. I keep searching why my windows defender is calling the Keygen : Hacktool win32 vigorf a or trojan. I keep trying to install ableton live 12 suite with a cracked version but i tried the R2R link, i tried Audiowarez and i tried G.meh. Everytime i extract the file from the .rar, my defender is blocking the keygen and it tells me that it’s a trojan or a hack tool Vigor file. </p> <p>I did my research and i know that keygen can be seen as malware but is it normal that it’s called Vigorf A ? Should i authorize to launch it ? It keeps getting deleted by the defender but i’ m pretty annoyed to find everytime the same message. Does all the ableton cracks in 2025 are infected ? Is it a false positive ? idk i keep trying </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Cheesecake-7389"> /u/No-Cheesecake-7389 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1
+
+## ransomware/sims 3 fitgirl repack
+ - [https://www.reddit.com/r/CrackSupport/comments/1iskp6h/ransomwaresims_3_fitgirl_repack](https://www.reddit.com/r/CrackSupport/comments/1iskp6h/ransomwaresims_3_fitgirl_repack)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:06:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I downloaded a sims 3 repack off of fitgirl using uTorrent, during installation my computer&#39;s security software said it detected ransomware and i stopped the process just in case. Did anyone else have experience with this?/Is it still safe to install? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/St1nK3e_aka_alex"> /u/St1nK3e_aka_alex </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iskp6h/ransomwaresims_3_fitgirl_repack/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iskp6h/ransomwaresims_3_fitgirl_repack/">[comments]</a></span>
+
+## how can i download mods for cracked hello neighbor?
+ - [https://www.reddit.com/r/CrackSupport/comments/1iskjjk/how_can_i_download_mods_for_cracked_hello_neighbor](https://www.reddit.com/r/CrackSupport/comments/1iskjjk/how_can_i_download_mods_for_cracked_hello_neighbor)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:00:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>mods not showing up</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/n0th1ng_here"> /u/n0th1ng_here </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iskjjk/how_can_i_download_mods_for_cracked_hello_neighbor/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iskjjk/how_can_i_download_mods_for_cracked_hello_neighbor/">[comments]</a></span>
+
+## Am I cooked?
+ - [https://www.reddit.com/r/CrackSupport/comments/1iskgih/am_i_cooked](https://www.reddit.com/r/CrackSupport/comments/1iskgih/am_i_cooked)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:57:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1iskgih/am_i_cooked/"> <img src="https://b.thumbs.redditmedia.com/fPcuqHDgwgtcZ3pt2x0HOW5upz_RwK8t5HzCGxajYSg.jpg" alt="Am I cooked?" title="Am I cooked?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/euttnzyy2yje1.png?width=1914&amp;format=png&amp;auto=webp&amp;s=edfdcaf5c034fcedb3d58abbc36a8cc350973393">https://preview.redd.it/euttnzyy2yje1.png?width=1914&amp;format=png&amp;auto=webp&amp;s=edfdcaf5c034fcedb3d58abbc36a8cc350973393</a></p> <p>They got me.. CIA is comin</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WIadimirPutin"> /u/WIadimirPutin </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iskgih/am_i_cooked/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iskgih/am_i_cooked/">[comments]</a></span> </td></tr></table>
+
+## How to use mod engine 2 with craked dark souls 3
+ - [https://www.reddit.com/r/CrackSupport/comments/1isj8wc/how_to_use_mod_engine_2_with_craked_dark_souls_3](https://www.reddit.com/r/CrackSupport/comments/1isj8wc/how_to_use_mod_engine_2_with_craked_dark_souls_3)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:10:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Sorry for the bad english </p> <p>I placed all the files in the game files, I changed edited the path of the bat file because I have mine in my D drive, but it still doesn&#39;t work, mod engine just opens for a few seconds then closes and the game never starts, what can I do? I got the game from fitgirl</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Erihknull"> /u/Erihknull </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isj8wc/how_to_use_mod_engine_2_with_craked_dark_souls_3/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isj8wc/how_to_use_mod_engine_2_with_craked_dark_souls_3/">[comments]</a></span>
+
+## Do I have to download all 100 parts for this game on fitgirl?
+ - [https://www.reddit.com/r/CrackSupport/comments/1isivl7/do_i_have_to_download_all_100_parts_for_this_game](https://www.reddit.com/r/CrackSupport/comments/1isivl7/do_i_have_to_download_all_100_parts_for_this_game)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:55:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>the game i want has 102 parts do i have to click through and download all 100 parts? is there a single download that has all 102 parts in it? downloading all the parts just seems way to tedious of a task </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bigtownboys"> /u/Bigtownboys </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isivl7/do_i_have_to_download_all_100_parts_for_this_game/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isivl7/do_i_have_to_download_all_100_parts_for_this_game/">[comments]</a></span>
+
+## Failed extraction. No extracted files to be found. Now I am missing 135GB of space?
+ - [https://www.reddit.com/r/CrackSupport/comments/1isiiaz/failed_extraction_no_extracted_files_to_be_found](https://www.reddit.com/r/CrackSupport/comments/1isiiaz/failed_extraction_no_extracted_files_to_be_found)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:41:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1isiiaz/failed_extraction_no_extracted_files_to_be_found/"> <img src="https://b.thumbs.redditmedia.com/OgAnUALySt2zG3zWgdqIkZ2B1HUIeE-KmQG72fjfBsY.jpg" alt="Failed extraction. No extracted files to be found. Now I am missing 135GB of space?" title="Failed extraction. No extracted files to be found. Now I am missing 135GB of space?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/systemnerve"> /u/systemnerve </a> <br/> <span><a href="https://www.reddit.com/gallery/1isiiaz">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isiiaz/failed_extraction_no_extracted_files_to_be_found/">[comments]</a></span> </td></tr></table>
+
+## Max Payne 3 Crashes Every time During First Mission Intro [Fitgirl Repack]
+ - [https://www.reddit.com/r/CrackSupport/comments/1ishoso/max_payne_3_crashes_every_time_during_first](https://www.reddit.com/r/CrackSupport/comments/1ishoso/max_payne_3_crashes_every_time_during_first)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:08:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Basically what the title says. </p> <p>I have downloaded &amp; installed Max Payne 3 repacked version through Fitgirl repacks. The game starts up normally as I would expect it to, but crashes every time on the first mission intro scene.<br/> No matter how many times I load it, it always crashes. </p> <p>Someone suggested deleting Goldberg files from C:\Users\[Username]\AppData\Roaming but I do not see any folder. </p> <p>Please help!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/abdvlsami"> /u/abdvlsami </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ishoso/max_payne_3_crashes_every_time_during_first/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ishoso/max_payne_3_crashes_every_time_during_first/">[comments]</a></span>
+
+## FNAF [BETA], smart steam emu
+ - [https://www.reddit.com/r/CrackSupport/comments/1isdsj9/fnaf_beta_smart_steam_emu](https://www.reddit.com/r/CrackSupport/comments/1isdsj9/fnaf_beta_smart_steam_emu)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:23:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1isdsj9/fnaf_beta_smart_steam_emu/"> <img src="https://preview.redd.it/ip82lix3qwje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=abe20f307a7169048023b32f2a868ba2a9705493" alt="FNAF [BETA], smart steam emu" title="FNAF [BETA], smart steam emu" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PuzzleheadedBill2355"> /u/PuzzleheadedBill2355 </a> <br/> <span><a href="https://i.redd.it/ip82lix3qwje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isdsj9/fnaf_beta_smart_steam_emu/">[comments]</a></span> </td></tr></table>
+
+## No Space for nba
+ - [https://www.reddit.com/r/CrackSupport/comments/1isc1wv/no_space_for_nba](https://www.reddit.com/r/CrackSupport/comments/1isc1wv/no_space_for_nba)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:56:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>i had 190 gb of storage left on my laptop, i downloaded the nba 2k21 and tekken 7 from fitgirl, and i have only extracted tekken 7, now i only have 16gb left in my storage, is there any residue of files i can delete from tekken?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alone_Yak2222"> /u/Alone_Yak2222 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isc1wv/no_space_for_nba/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isc1wv/no_space_for_nba/">[comments]</a></span>
+
+## Avowed torrent?
+ - [https://www.reddit.com/r/CrackSupport/comments/1isbhee/avowed_torrent](https://www.reddit.com/r/CrackSupport/comments/1isbhee/avowed_torrent)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:23:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everybody</p> <p>I cant find the torrent for avowed anywhere am i missing something? Or is it just not cracked yet?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Javahuji"> /u/Javahuji </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isbhee/avowed_torrent/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isbhee/avowed_torrent/">[comments]</a></span>
+
+## Sims 4 repack by Fitgirl stuck at 99.8% unpacked
+ - [https://www.reddit.com/r/CrackSupport/comments/1isb0h1/sims_4_repack_by_fitgirl_stuck_at_998_unpacked](https://www.reddit.com/r/CrackSupport/comments/1isb0h1/sims_4_repack_by_fitgirl_stuck_at_998_unpacked)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:56:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>Everytime during the setup it gets stuck at 99.8% while unpacking anadius64.dll. I have tried turning off antivirus, changing up the download folder, running in compatibility mode and the ram limiter. I also redownloaded the whole game to be sure.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Villipaita"> /u/Villipaita </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isb0h1/sims_4_repack_by_fitgirl_stuck_at_998_unpacked/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1isb0h1/sims_4_repack_by_fitgirl_stuck_at_998_unpacked/">[comments]</a></span>
+
+## Black ops 3 reload, Missing cracks files
+ - [https://www.reddit.com/r/CrackSupport/comments/1is9tv0/black_ops_3_reload_missing_cracks_files](https://www.reddit.com/r/CrackSupport/comments/1is9tv0/black_ops_3_reload_missing_cracks_files)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:38:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone, I downloaded black ops 3 reload! Version but unfortunately I lost the crack , it&#39;s impossible to play on steam coz I don&#39;t own the game on steam!! Any help!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/oryskiller"> /u/oryskiller </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1is9tv0/black_ops_3_reload_missing_cracks_files/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1is9tv0/black_ops_3_reload_missing_cracks_files/">[comments]</a></span>
+
+## How can I install Resident Evil 4 Remake for free on Windows 11 24H2? Can anyone provide a link to the website?
+ - [https://www.reddit.com/r/CrackSupport/comments/1is82tv/how_can_i_install_resident_evil_4_remake_for_free](https://www.reddit.com/r/CrackSupport/comments/1is82tv/how_can_i_install_resident_evil_4_remake_for_free)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:30:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>How can I install Resident Evil 4 Remake for free on Windows 11 24H2? Can anyone provide a link to the website?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BESTONE984989389428"> /u/BESTONE984989389428 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1is82tv/how_can_i_install_resident_evil_4_remake_for_free/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1is82tv/how_can_i_install_resident_evil_4_remake_for_free/">[comments]</a></span>
+
+## Help Me
+ - [https://www.reddit.com/r/CrackSupport/comments/1is7oj9/help_me](https://www.reddit.com/r/CrackSupport/comments/1is7oj9/help_me)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:01:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1is7oj9/help_me/"> <img src="https://preview.redd.it/6ka09z0vtuje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b45047d77d8ec5008ade1f53f0dfdeea18d00a7" alt="Help Me" title="Help Me" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I downloaded Marvel&#39;s spiderman 2 from dodi repacks,when I open it this is what it shows, nothing comes afterwards.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/racistraaazz"> /u/racistraaazz </a> <br/> <span><a href="https://i.redd.it/6ka09z0vtuje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1is7oj9/help_me/">[comments]</a></span> </td></tr></table>
+
+## Total war warhammer 3 is on sale, but can't get DLC's...
+ - [https://www.reddit.com/r/CrackSupport/comments/1is60n5/total_war_warhammer_3_is_on_sale_but_cant_get_dlcs](https://www.reddit.com/r/CrackSupport/comments/1is60n5/total_war_warhammer_3_is_on_sale_but_cant_get_dlcs)
+ - RSS feed: $source
+ - date published: 2025-02-18T06:08:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have read somewhere that i can crack the DLC&#39;s, is this really possible? And possible to do so without losing my steam account?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mungrrel"> /u/mungrrel </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1is60n5/total_war_warhammer_3_is_on_sale_but_cant_get_dlcs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1is60n5/total_war_warhammer_3_is_on_sale_but_cant_get_dlcs/">[comments]</a></span>
+
+## does someone know where i got capcut premium without paying?
+ - [https://www.reddit.com/r/CrackSupport/comments/1is5p6i/does_someone_know_where_i_got_capcut_premium](https://www.reddit.com/r/CrackSupport/comments/1is5p6i/does_someone_know_where_i_got_capcut_premium)
+ - RSS feed: $source
+ - date published: 2025-02-18T05:48:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>i need to edit some important videos but I can&#39;t find anywhere an cracked version of capcut, could someone help me?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fluid-Address-5369"> /u/Fluid-Address-5369 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1is5p6i/does_someone_know_where_i_got_capcut_premium/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1is5p6i/does_someone_know_where_i_got_capcut_premium/">[comments]</a></span>
+
+## F1 2010 has no audio
+ - [https://www.reddit.com/r/CrackSupport/comments/1is4ubi/f1_2010_has_no_audio](https://www.reddit.com/r/CrackSupport/comments/1is4ubi/f1_2010_has_no_audio)
+ - RSS feed: $source
+ - date published: 2025-02-18T04:56:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Am I missing a file for audio support? I installed rapture 3d, but nothing </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/magik_koopa990"> /u/magik_koopa990 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1is4ubi/f1_2010_has_no_audio/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1is4ubi/f1_2010_has_no_audio/">[comments]</a></span>
+
+## i downloaded the sims 4 from fitgirl repack a while ago and now malwarebytes detects these three exes as malware (malware.sandbox.17). false positive or?
+ - [https://www.reddit.com/r/CrackSupport/comments/1is26yl/i_downloaded_the_sims_4_from_fitgirl_repack_a](https://www.reddit.com/r/CrackSupport/comments/1is26yl/i_downloaded_the_sims_4_from_fitgirl_repack_a)
+ - RSS feed: $source
+ - date published: 2025-02-18T02:35:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1is26yl/i_downloaded_the_sims_4_from_fitgirl_repack_a/"> <img src="https://preview.redd.it/2ir2tgpo7tje1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=479a5f0e45927e3a6bda54a7a42a823072754cd8" alt="i downloaded the sims 4 from fitgirl repack a while ago and now malwarebytes detects these three exes as malware (malware.sandbox.17). false positive or?" title="i downloaded the sims 4 from fitgirl repack a while ago and now malwarebytes detects these three exes as malware (malware.sandbox.17). false positive or?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rott1ng"> /u/rott1ng </a> <br/> <span><a href="https://i.redd.it/2ir2tgpo7tje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1is26yl/i_downloaded_the_sims_4_from_fitgirl_repack_a/">[comments]</a></span> </td></tr></table>
+
+## Game file not founded of Rdr2 dodi repack
+ - [https://www.reddit.com/r/CrackSupport/comments/1is1y7l/game_file_not_founded_of_rdr2_dodi_repack](https://www.reddit.com/r/CrackSupport/comments/1is1y7l/game_file_not_founded_of_rdr2_dodi_repack)
+ - RSS feed: $source
+ - date published: 2025-02-18T02:22:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just installed the rdr2 from dodi repacks and the save files it is not in document folder when search on google the file in .1911 folder when open it the file there nothing in it because I have not launch the game yet. But the err gfx state coming I dont know file is? I the setup but nothing change reinstall it has not created the file and profile setting nothing I could not launch the game Please Help</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Prize-Metal-4734"> /u/Prize-Metal-4734 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1is1y7l/game_file_not_founded_of_rdr2_dodi_repack/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1is1y7l/game_file_not_founded_of_rdr2_dodi_repack/">[comments]</a></span>
+
+## ¿Where can I install the SIMS 3 ALL DLC? - Donde puedo descargar el SIMS 3 todos los dlc?
+ - [https://www.reddit.com/r/CrackSupport/comments/1is17q1/where_can_i_install_the_sims_3_all_dlc_donde](https://www.reddit.com/r/CrackSupport/comments/1is17q1/where_can_i_install_the_sims_3_all_dlc_donde)
+ - RSS feed: $source
+ - date published: 2025-02-18T01:46:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;M DYING TO PLAY sims 3 with all its packs included, I tried on the Yuumi Jungle website, but that thing crashed and it was a dead link; I haven&#39;t been able to install it somewhere on the web, or some other weird thing... Could you tell me where I can download it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Opposite_Policy_6699"> /u/Opposite_Policy_6699 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1is17q1/where_can_i_install_the_sims_3_all_dlc_donde/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1is17q1/where_can_i_install_the_sims_3_all_dlc_donde/">[comments]</a></span>
+
+## Assassin's creed unity issue.
+ - [https://www.reddit.com/r/CrackSupport/comments/1irzeum/assassins_creed_unity_issue](https://www.reddit.com/r/CrackSupport/comments/1irzeum/assassins_creed_unity_issue)
+ - RSS feed: $source
+ - date published: 2025-02-18T00:20:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>My game stops and closes as soon as I connect my controller dongle. How to fix it. Please help me</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/External-Regret-4766"> /u/External-Regret-4766 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irzeum/assassins_creed_unity_issue/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1irzeum/assassins_creed_unity_issue/">[comments]</a></span>
+

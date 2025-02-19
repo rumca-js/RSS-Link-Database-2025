@@ -1,0 +1,30 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Giant Canadian flag carved into frozen B.C. lake in patriotic display
+ - [https://www.cbc.ca/news/canada/british-columbia/kelowna-frozen-flag-ice-1.7461985?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/kelowna-frozen-flag-ice-1.7461985?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:12:02+00:00
+
+<img src='https://i.cbc.ca/1.7462091.1739910879!/httpImage/image.jpg_gen/derivatives/16x9_620/https-i-cbc-ca-ais-0fc5935e-919e-41d1-82db-fcea2c742177-1739907717622-full-max-0-default-jpg-t-1739907874077.jpg' alt='A person stands on top of a giant Canadian flag carved into the snow of a frozen lake.' width='620' height='349' title=''/><p>Dozens of people gathered at Ellison Lake near Kelowna to sing 'O Canada' in a show of solidarity.</p>
+
+## Canada's foreign minister says she gave Europe a 'wake-up call' on threat Trump poses to Canada
+ - [https://www.cbc.ca/news/politics/trump-joly-threat-wake-up-call-1.7461719?cmp=rss](https://www.cbc.ca/news/politics/trump-joly-threat-wake-up-call-1.7461719?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:42:09+00:00
+
+<img src='https://i.cbc.ca/1.7427858.1737316255!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/liberal-caucus-20250108.jpg' alt='Minister of Foreign Affairs Melanie Joly returns to a Liberal Party caucus meeting in West Block on Parliament Hill, in Ottawa, Wednesday, Jan. 8, 2025. THE CANADIAN PRESS/Justin Tang' width='620' height='349' title='Minister of Foreign Affairs Melanie Joly returns to a Liberal Party caucus meeting in West Block on Parliament Hill, in Ottawa, Wednesday, Jan. 8, 2025. '/><p>Foreign Affairs Minister Mélanie Joly concluded her recent tour of Europe saying she delivered a “wake-up call” to Canada’s allies across the Atlantic about the economic and political threat the Trump administration is posing to Canada. </p>
+
+## Sask. universities see significant drop in international student enrolments
+ - [https://www.cbc.ca/news/canada/saskatchewan/sask-universities-international-students-1.7461157?cmp=rss](https://www.cbc.ca/news/canada/saskatchewan/sask-universities-international-students-1.7461157?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T06:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7213262.1739816658!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/international-students.jpg' alt='Students are pictured on campus at University Canada West in Vancouver, B.C., on Thursday, May 23, 2024.' width='620' height='349' title='University of Regina says the number of newly-admitted international students “has declined significantly” by more than 50 per cent this Winter term compared to January 2024. '/><p>Saskatchewan used to be an education destination for international students. But the province’s two universities are seeing a significant drop in those enrolments — enough to start having a financial impact.</p>
+
+## Large landlord reports biggest operating income increase for Halifax apartments in last 5 years
+ - [https://www.cbc.ca/news/canada/nova-scotia/killam-reit-2024-q4-financial-results-1.7459688?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/killam-reit-2024-q4-financial-results-1.7459688?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-18T05:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7459798.1739561406!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/killam-apartment-reit-quinpool-court-monastery-lane.jpg' alt='A sign next to a snow-covered sidewalk reads &quot;2155, 2225 Monastery Lane, Killam Apartment REIT.&quot; A person is on the road on an e-scooter.' width='620' height='349' title='Halifax-based landlord Killam Apartment REIT owns 5,600 apartments in Halifax and more than 18,000 across Canada as of the end of 2024. Taken at Killam&apos;s Quinpool Court apartments at 2155 &amp; 2225 Monastery Lane, Halifax, Nova Scotia on February 14, 2025.'/><p>Halifax-based landlord Killam Apartment REIT has released its 2024 year-end financial results. The company reported its largest net operating income increase for its Halifax apartments in the last five years.</p>
+

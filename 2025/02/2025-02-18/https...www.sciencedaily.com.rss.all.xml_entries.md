@@ -1,0 +1,93 @@
+# Source:Latest Science News -- ScienceDaily, URL:https://www.sciencedaily.com/rss/all.xml, language:en-us
+
+## Newfound circuit better explains how the brain recognizes what is familiar and important
+ - [https://www.sciencedaily.com/releases/2025/02/250218114021.htm](https://www.sciencedaily.com/releases/2025/02/250218114021.htm)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:40:21+00:00
+
+A newly identified part of a brain circuit mixes sensory information, memories, and emotions to tell whether things are familiar or new, and important or just 'background noise.'
+
+## Scientists decode diet from stool DNA -- no questions asked
+ - [https://www.sciencedaily.com/releases/2025/02/250218114019.htm](https://www.sciencedaily.com/releases/2025/02/250218114019.htm)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:40:19+00:00
+
+Scientists have developed a breakthrough method to track diet using stool metagenomic data. This non-invasive, data-driven approach offers an objective alternative to traditional food diaries and questionnaires, which are still the gold standard in dietary assessment but can suffer from misreporting and compliance issues.
+
+## New tool reveals disruption of immune cells in blood is linked to cancer outcomes
+ - [https://www.sciencedaily.com/releases/2025/02/250218113823.htm](https://www.sciencedaily.com/releases/2025/02/250218113823.htm)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:38:23+00:00
+
+The immune systems of cancer patients are highly disrupted, with those who have a higher number of immune cells in their blood having a better survival rate, finds a new study that uses a pioneering technique.
+
+## A single protein may have helped shape the emergence of spoken language
+ - [https://www.sciencedaily.com/releases/2025/02/250218113813.htm](https://www.sciencedaily.com/releases/2025/02/250218113813.htm)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:38:13+00:00
+
+How much does the evolution of human speech owe to one amino acid?
+
+## Selective combustion provides energy-efficient alternative to remove pollutants from industrial processes
+ - [https://www.sciencedaily.com/releases/2025/02/250218113756.htm](https://www.sciencedaily.com/releases/2025/02/250218113756.htm)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:37:56+00:00
+
+Researchers have discovered a new method by which a catalyst can be used to selectively burn one molecule in a mixture of hydrocarbons -- compounds made of hydrogen and carbon atoms.
+
+## Researchers develop AI model to automatically segment MRI images
+ - [https://www.sciencedaily.com/releases/2025/02/250218113748.htm](https://www.sciencedaily.com/releases/2025/02/250218113748.htm)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:37:48+00:00
+
+Research scientists in Switzerland have developed and tested a robust AI model that automatically segments major anatomic structures in MRI images, independent of sequence. In the study, the model outperformed other publicly available tools.
+
+## Toward improved early detection of pancreatic cancer
+ - [https://www.sciencedaily.com/releases/2025/02/250218113655.htm](https://www.sciencedaily.com/releases/2025/02/250218113655.htm)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:36:55+00:00
+
+Pancreatic cancer (PC) is the worst prognosis cancer globally, with just 13% of patients who are diagnosed with PC surviving for 5 years or more after initial diagnosis. Early detection of PC is the primary concern of most PC research, as it has the potential to make a substantial difference to the treatment and survival of patients. Survival rates, however, remain poor due to the vague nature of the symptoms associated with early-stage PC, and subsequently the late-stage of the disease at diagnosis. Now researchers are focusing on pancreatic cystic lesions to tackle the crucial issue of identifying patients who are at high-risk of developing pancreatic cancer, to improve survival rates.
+
+## Even after learning the right idea, humans and animals still seem to test other approaches, study suggests
+ - [https://www.sciencedaily.com/releases/2025/02/250218113652.htm](https://www.sciencedaily.com/releases/2025/02/250218113652.htm)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:36:52+00:00
+
+New research adds evidence that learning a successful strategy for approaching a task doesn't prevent further exploration, even if it reduces performance.
+
+## Flickers and flares: Milky Way's central black hole constantly bubbles with light
+ - [https://www.sciencedaily.com/releases/2025/02/250218113650.htm](https://www.sciencedaily.com/releases/2025/02/250218113650.htm)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:36:50+00:00
+
+Astrophysicists have observed our central supermassive black hole. They found the accretion disk is constantly emitting flares without periods of rest. Shorter, faint flares and longer, bright flares appear to be generated by separate processes.
+
+## Rapid environmental change can threaten even a peaceful Daisyworld
+ - [https://www.sciencedaily.com/releases/2025/02/250218113647.htm](https://www.sciencedaily.com/releases/2025/02/250218113647.htm)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:36:47+00:00
+
+Using mathematical modeling, researchers have discovered that rate-induced tipping, which can happen if an environment changes too fast, can happen even in Daisyworld, a simple daisy-filled ecological model. If the planet heats up or cools down too quickly, all the daisies will go extinct, even if they would otherwise have been able to survive just fine under those conditions. This discovery mirrors similar observations found in other models and observed in real-life ecosystems.
+
+## Einstein Probe catches X-ray odd couple
+ - [https://www.sciencedaily.com/releases/2025/02/250218113643.htm](https://www.sciencedaily.com/releases/2025/02/250218113643.htm)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:36:43+00:00
+
+Lobster-eye satellite Einstein Probe captured the X-ray flash from a very elusive celestial pair. The discovery opens a new way to explore how massive stars interact and evolve, confirming the unique power of the mission to uncover fleeting X-ray sources in the sky.
+
+## 'Out of science fiction': First 3D observations of an exoplanet's atmosphere reveal a unique climate
+ - [https://www.sciencedaily.com/releases/2025/02/250218113617.htm](https://www.sciencedaily.com/releases/2025/02/250218113617.htm)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:36:17+00:00
+
+Astronomers have peered through the atmosphere of a planet beyond the Solar System, mapping its 3D structure for the first time. By combining all four telescope units of the European Southern Observatory's Very Large Telescope (ESO's VLT), they found powerful winds carrying chemical elements like iron and titanium, creating intricate weather patterns across the planet's atmosphere. The discovery opens the door for detailed studies of the chemical makeup and weather of other alien worlds.
+
+## Air inside your home may be more polluted than outside due to everyday chemical products
+ - [https://www.sciencedaily.com/releases/2025/02/250218000726.htm](https://www.sciencedaily.com/releases/2025/02/250218000726.htm)
+ - RSS feed: $source
+ - date published: 2025-02-18T00:07:26+00:00
+
+Bringing aromas indoors with the help of chemical products -- yes, air fresheners, wax melts, floor cleaners, deodorants and others -- rapidly fills the air with nanoscale particles that are small enough to get deep into your lungs, engineers have found over a series of studies.
+

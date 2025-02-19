@@ -1,0 +1,100 @@
+# Source:Artificial Intelligence (AI), URL:https://www.reddit.com/r/artificial/.rss, language:en
+
+## Anybody who says that there is a 0% chance of AIs being sentient is overconfident. Nobody knows what causes consciousness. We have no way of detecting it & we can barely agree on a definition. So we should be less than 100% certain about anything to do with consciousness and AI.
+ - [https://www.reddit.com/r/artificial/comments/1isl2ms/anybody_who_says_that_there_is_a_0_chance_of_ais](https://www.reddit.com/r/artificial/comments/1isl2ms/anybody_who_says_that_there_is_a_0_chance_of_ais)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:21:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>To be fair, I think this is true of most philosophical questions.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/katxwoods"> /u/katxwoods </a> <br/> <span><a href="https://www.reddit.com/r/artificial/comments/1isl2ms/anybody_who_says_that_there_is_a_0_chance_of_ais/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1isl2ms/anybody_who_says_that_there_is_a_0_chance_of_ais/">[comments]</a></span>
+
+## Xbox creator says "world will return to local compute" once the cost of high GPU performance lowers
+ - [https://www.reddit.com/r/artificial/comments/1ish2zs/xbox_creator_says_world_will_return_to_local](https://www.reddit.com/r/artificial/comments/1ish2zs/xbox_creator_says_world_will_return_to_local)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:44:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ish2zs/xbox_creator_says_world_will_return_to_local/"> <img src="https://external-preview.redd.it/fRiXEG6ttBXActfAuF-_PjIS4PElx6cpVQtZDgN588E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d97a6def6d3c4c56de21392c2e39422f315921c" alt="Xbox creator says &quot;world will return to local compute&quot; once the cost of high GPU performance lowers" title="Xbox creator says &quot;world will return to local compute&quot; once the cost of high GPU performance lowers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Automatic_Can_9823"> /u/Automatic_Can_9823 </a> <br/> <span><a href="https://www.pcguide.com/news/xbox-creator-says-world-will-return-to-local-compute-once-the-cost-of-high-gpu-performance-lowers/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1ish2zs/xbox_creator_says_world_will_return_to_local/">[comments]</a></span> </td></tr></table>
+
+## This turns any noise into SFXs
+ - [https://www.reddit.com/r/artificial/comments/1isgrn7/this_turns_any_noise_into_sfxs](https://www.reddit.com/r/artificial/comments/1isgrn7/this_turns_any_noise_into_sfxs)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:31:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just came across this video of a guy turning his sounds into effects, like that Sketch2Sound thing Adobe previewed. I feel like this&#39;ll be one of those apps that changes the way movie studios create content.</p> <p><a href="https://reddit.com/link/1isgrn7/video/phlwbndocxje1/player">https://reddit.com/link/1isgrn7/video/phlwbndocxje1/player</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mindless-Investment1"> /u/Mindless-Investment1 </a> <br/> <span><a href="https://www.reddit.com/r/artificial/comments/1isgrn7/this_turns_any_noise_into_sfxs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1isgrn7/this_turns_any_noise_into_sfxs/">[comments]</a></span>
+
+## Help me select an AI model for working with numeric data
+ - [https://www.reddit.com/r/artificial/comments/1isfppr/help_me_select_an_ai_model_for_working_with](https://www.reddit.com/r/artificial/comments/1isfppr/help_me_select_an_ai_model_for_working_with)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:48:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve added an OpenAI feature to my software&#39;s report builder. It handles underwater survey data. I have two issues a) the report format returned varies a lot in composition and b) it gets arithmetic wrong when accumulating the lengths of certain features. Answers are different each time I run a report.</p> <p>I&#39;ve been thinking about moving to Amazon AWS and choosing one of the 140+ models they support (we already use AWS for other things).</p> <p>I&#39;m spoilt for choice! Can someone recommend a model that works well with tables of numeric data. I want to accumulate statistics, look for trends and clusters, compare multiple sets of data, etc. It must never give wrong numerical answers (such as addition of simple values).</p> <p>Thanks for the help.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/unix_nerd"> /u/unix_nerd </a> <br/> <span><a href="https://www.reddit.com/r/artificial/comments/1isfppr/
+
+## Elon Musk confirms Grok 2 will be open source "within a few months" after showing off Grok 3 benchmarks
+ - [https://www.reddit.com/r/artificial/comments/1ise2zs/elon_musk_confirms_grok_2_will_be_open_source](https://www.reddit.com/r/artificial/comments/1ise2zs/elon_musk_confirms_grok_2_will_be_open_source)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:36:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ise2zs/elon_musk_confirms_grok_2_will_be_open_source/"> <img src="https://external-preview.redd.it/xtZNuewYmL3J0sOjHNPOfyXzjDNGuRGIBBdNeeRIAuk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b3399d6b46639418be22d8dcf81785f4233ac6fe" alt="Elon Musk confirms Grok 2 will be open source &quot;within a few months&quot; after showing off Grok 3 benchmarks" title="Elon Musk confirms Grok 2 will be open source &quot;within a few months&quot; after showing off Grok 3 benchmarks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tiny-Independent273"> /u/Tiny-Independent273 </a> <br/> <span><a href="https://www.pcguide.com/news/elon-musk-confirms-grok-2-will-be-open-source-within-a-few-months-after-showing-off-grok-3-benchmarks/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1ise2zs/elon_musk_confirms_grok_2_will_be_open_source/">[comments]</a></span> </td
+
+## Write Blogs So LLMs Have Something to Read
+ - [https://www.reddit.com/r/artificial/comments/1isbwdk/write_blogs_so_llms_have_something_to_read](https://www.reddit.com/r/artificial/comments/1isbwdk/write_blogs_so_llms_have_something_to_read)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:47:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1isbwdk/write_blogs_so_llms_have_something_to_read/"> <img src="https://external-preview.redd.it/8HICbQkBd4kChNSgQZGhmANu-G9SKYOeosinXmgcrDM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=14ed37f1ea2496cca9196ae9a24fc87ac08a489b" alt="Write Blogs So LLMs Have Something to Read" title="Write Blogs So LLMs Have Something to Read" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nikolalsvk"> /u/nikolalsvk </a> <br/> <span><a href="https://pragmaticpineapple.com/write-blogs-so-llms-have-something-to-read/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1isbwdk/write_blogs_so_llms_have_something_to_read/">[comments]</a></span> </td></tr></table>
+
+## Exploring Non-Algorithmic Modes of Computing: A Framework for Natural and Artificial Computation
+ - [https://www.reddit.com/r/artificial/comments/1isbs4c/exploring_nonalgorithmic_modes_of_computing_a](https://www.reddit.com/r/artificial/comments/1isbs4c/exploring_nonalgorithmic_modes_of_computing_a)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:41:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>This paper examines fundamental differences between artificial and biological computing systems through the lens of representation and interpretation. The key technical contribution is a formal analysis framework that contrasts how machines and organisms process information.</p> <p>Key technical points: - Artificial systems rely on explicit symbolic representations with fixed interpretation rules - Biological systems use dynamic, context-dependent interpretation of information - Neural networks and current AI approaches attempt to bridge this gap but fall short in key ways - The paper provides mathematical models comparing algorithmic vs biological information processing</p> <p>The results show several critical limitations of current AI approaches: - Pattern recognition abilities don&#39;t translate to true understanding - Fixed representational schemes limit flexibility - Lack of context-aware interpretation - Gap between data processing and meaning
+
+## Building a Lead Qualification Chatbot with CrewAI and Gradio
+ - [https://www.reddit.com/r/artificial/comments/1isazj2/building_a_lead_qualification_chatbot_with_crewai](https://www.reddit.com/r/artificial/comments/1isazj2/building_a_lead_qualification_chatbot_with_crewai)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:54:24+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/zinyando"> /u/zinyando </a> <br/> <span><a href="https://www.zinyando.com/building-a-lead-qualification-chatbot-with-crewai-and-gradio/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1isazj2/building_a_lead_qualification_chatbot_with_crewai/">[comments]</a></span>
+
+## Reddit mods are fighting to keep AI slop off subreddits. They could use help.
+ - [https://www.reddit.com/r/artificial/comments/1is9i56/reddit_mods_are_fighting_to_keep_ai_slop_off](https://www.reddit.com/r/artificial/comments/1is9i56/reddit_mods_are_fighting_to_keep_ai_slop_off)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:14:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1is9i56/reddit_mods_are_fighting_to_keep_ai_slop_off/"> <img src="https://external-preview.redd.it/QQvJslJ95T3homyj3qak_vXwOYRh5mW9Jh9WXFxEBpo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=163442ac39045a12af9a6ea26e0404aba68c302e" alt="Reddit mods are fighting to keep AI slop off subreddits. They could use help." title="Reddit mods are fighting to keep AI slop off subreddits. They could use help." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/F0urLeafCl0ver"> /u/F0urLeafCl0ver </a> <br/> <span><a href="https://arstechnica.com/gadgets/2025/02/reddit-mods-are-fighting-to-keep-ai-slop-off-subreddits-they-could-use-help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1is9i56/reddit_mods_are_fighting_to_keep_ai_slop_off/">[comments]</a></span> </td></tr></table>
+
+## mindblowing results ? I dont see it
+ - [https://www.reddit.com/r/artificial/comments/1is8syr/mindblowing_results_i_dont_see_it](https://www.reddit.com/r/artificial/comments/1is8syr/mindblowing_results_i_dont_see_it)
+ - RSS feed: $source
+ - date published: 2025-02-18T09:23:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am really , really torn about current level of &quot;AI&quot; and its level of sophistication.<br/> so I use(d) ChatGPT, claude, Gemini and deepseek as my personal coders for a unity3d project I am working on. and even though it can lead to hours of re-writing / re-debugging of code the ai wrote and simply forgot , overall it helped me create stuff I personally would never have finished in the same amount of time. </p> <p>but that to me, is to be expected. feed it millions and millions of lines of code that is properly documented, and it will probably know how to throw together something similar. (thats how it feels to me) </p> <p>ai also helps me in distilling information from large texts , summarizing emailthreads. all fine. its a hit &amp; miss sometimes to distinguish between whats important and whats not, but thats a human thing as well so I can forgive that. </p> <p>but apart from that: where is this real next level of &quot;intellect&quot; p
+
+## One-Minute Daily AI News 2/17/2025
+ - [https://www.reddit.com/r/artificial/comments/1is4auj/oneminute_daily_ai_news_2172025](https://www.reddit.com/r/artificial/comments/1is4auj/oneminute_daily_ai_news_2172025)
+ - RSS feed: $source
+ - date published: 2025-02-18T04:25:33+00:00
+
+<!-- SC_OFF --><div class="md"><ol> <li><strong>The New York Times</strong> adopts AI tools in the newsroom.[1]</li> <li><strong>Grok 3</strong> Launches Today: Elon Musk Calls the Chatbot ‘The Smartest AI on Earth’.[2]</li> <li><strong>Meta</strong> failing to curb spread of many sexualized AI deepfake celebrity images on Facebook.[3]</li> <li>The hottest AI models, what they do, and how to use them.[4]</li> </ol> <p>Sources:</p> <p>[1] <a href="https://www.theverge.com/news/613989/new-york-times-internal-ai-tools-echo">https://www.theverge.com/news/613989/new-york-times-internal-ai-tools-echo</a></p> <p>[2] <a href="https://www.eweek.com/news/grok-3-launch-elon-musk/">https://www.eweek.com/news/grok-3-launch-elon-musk/</a></p> <p>[3] <a href="https://www.cbsnews.com/news/meta-facebook-sexualized-ai-deepfake-celebrity-images-spread/">https://www.cbsnews.com/news/meta-facebook-sexualized-ai-deepfake-celebrity-images-spread/</a></p> <p>[4] <a href="https://techcrunch.com/2025/02/17/th
+
+## What are some great Youtube channels that explain the newest developments in AI?
+ - [https://www.reddit.com/r/artificial/comments/1is2mgl/what_are_some_great_youtube_channels_that_explain](https://www.reddit.com/r/artificial/comments/1is2mgl/what_are_some_great_youtube_channels_that_explain)
+ - RSS feed: $source
+ - date published: 2025-02-18T02:57:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>What are your favorite ones?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bearhunter429"> /u/bearhunter429 </a> <br/> <span><a href="https://www.reddit.com/r/artificial/comments/1is2mgl/what_are_some_great_youtube_channels_that_explain/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1is2mgl/what_are_some_great_youtube_channels_that_explain/">[comments]</a></span>
+
+## Are you facing the same issue?!
+ - [https://www.reddit.com/r/artificial/comments/1is1qg7/are_you_facing_the_same_issue](https://www.reddit.com/r/artificial/comments/1is1qg7/are_you_facing_the_same_issue)
+ - RSS feed: $source
+ - date published: 2025-02-18T02:12:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1is1qg7/are_you_facing_the_same_issue/"> <img src="https://b.thumbs.redditmedia.com/HzGVfM3TtErf6L8IKMny_FryGKGiDrO2cXfrUPXseZA.jpg" alt="Are you facing the same issue?!" title="Are you facing the same issue?!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Grammarly, which I&#39;ve used for years, has recently started flagging all of its suggestions as 100% AI-generated text, even though it&#39;s been offering similar suggestions for a long time.</p> <p><a href="https://preview.redd.it/mm4e7kri3tje1.png?width=2020&amp;format=png&amp;auto=webp&amp;s=482a9e713f6b5cb93add687b2e2ac299c35dbe57">https://preview.redd.it/mm4e7kri3tje1.png?width=2020&amp;format=png&amp;auto=webp&amp;s=482a9e713f6b5cb93add687b2e2ac299c35dbe57</a></p> <p>Is anyone else having this issue?!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hamada147"> /u/hamada147 </a> <br/> <span><a href="https://www
+
+## Bot account?
+ - [https://www.reddit.com/r/artificial/comments/1is01y5/bot_account](https://www.reddit.com/r/artificial/comments/1is01y5/bot_account)
+ - RSS feed: $source
+ - date published: 2025-02-18T00:51:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1is01y5/bot_account/"> <img src="https://b.thumbs.redditmedia.com/mxl4H8GzQLCBjjGnvZgwkS8ov8tHU_-S4K2YNjeuF6s.jpg" alt="Bot account?" title="Bot account?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This account posts 2 tweets every hour 24/7 and engages positively with right-wing content. Ive heard people point out this problem but its the first time I&#39;ve came across it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NornIron710"> /u/NornIron710 </a> <br/> <span><a href="https://www.reddit.com/gallery/1is01y5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1is01y5/bot_account/">[comments]</a></span> </td></tr></table>
+

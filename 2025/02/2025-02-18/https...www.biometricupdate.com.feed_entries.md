@@ -1,0 +1,145 @@
+# Source:Biometric Update, URL:https://www.biometricupdate.com/feed, language:en-US
+
+## Palm vein biometrics “crucial” to JPMorgan’s biometrics strategy, payments head says
+ - [https://www.biometricupdate.com/202502/palm-vein-biometrics-crucial-to-jpmorgans-biometrics-strategy-payments-head-says](https://www.biometricupdate.com/202502/palm-vein-biometrics-crucial-to-jpmorgans-biometrics-strategy-payments-head-says)
+ - RSS feed: $source
+ - date published: 2025-02-18T23:28:22+00:00
+
+<img width="2048" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/01/02191405/palm-biometrics-2-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/01/02191405/palm-biometrics-2-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/01/02191405/palm-biometrics-2-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/01/02191405/palm-biometrics-2-1024x683.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/01/02191405/palm-biometrics-2-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/01/02191405/palm-biometrics-2-768x512.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/01/02191405/palm-biometrics-2-1536x1024.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
+		Jean-Marc Thienpont, glo
+
+## Australian state seeks public feedback on facial recognition use for gambling exclusion
+ - [https://www.biometricupdate.com/202502/australian-state-seeks-public-feedback-on-facial-recognition-use-for-gambling-exclusion](https://www.biometricupdate.com/202502/australian-state-seeks-public-feedback-on-facial-recognition-use-for-gambling-exclusion)
+ - RSS feed: $source
+ - date published: 2025-02-18T21:48:43+00:00
+
+<img width="2048" height="1367" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/16152124/gaming-machines-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/16152124/gaming-machines-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/16152124/gaming-machines-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/16152124/gaming-machines-1024x684.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/16152124/gaming-machines-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/16152124/gaming-machines-768x513.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/16152124/gaming-machines-1536x1025.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
+		The Australian state of New South Wales has opened up publi
+
+## New Zealand govt reviews privacy law amid battle over biometrics regulation
+ - [https://www.biometricupdate.com/202502/new-zealand-govt-reviews-privacy-law-amid-battle-over-biometrics-regulation](https://www.biometricupdate.com/202502/new-zealand-govt-reviews-privacy-law-amid-battle-over-biometrics-regulation)
+ - RSS feed: $source
+ - date published: 2025-02-18T21:35:33+00:00
+
+<img width="1573" height="853" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/15114909/foodstuff-nz-frt-trial.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/15114909/foodstuff-nz-frt-trial.png 1573w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/15114909/foodstuff-nz-frt-trial-300x163.png 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/15114909/foodstuff-nz-frt-trial-1024x555.png 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/15114909/foodstuff-nz-frt-trial-150x81.png 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/15114909/foodstuff-nz-frt-trial-768x416.png 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/15114909/foodstuff-nz-frt-trial-1536x833.png 1536w" sizes="(max-width: 1573px) 100vw, 1573px" />
+		The go
+
+## Zwipe runs out of time for biometric card revenues, files for bankruptcy
+ - [https://www.biometricupdate.com/202502/zwipe-runs-out-of-time-for-biometric-card-revenues-files-for-bankruptcy](https://www.biometricupdate.com/202502/zwipe-runs-out-of-time-for-biometric-card-revenues-files-for-bankruptcy)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:07:44+00:00
+
+<img width="2048" height="1023" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/16154118/zwipe-access-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/16154118/zwipe-access-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/16154118/zwipe-access-300x150.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/16154118/zwipe-access-1024x512.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/16154118/zwipe-access-150x75.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/16154118/zwipe-access-768x384.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/16154118/zwipe-access-1536x768.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
+		<a href="https://www.biometricupdate.com/companies/zwipe">Zwi
+
+## US states take a page from EU’s AI Act, but biometrics impact likely minimal
+ - [https://www.biometricupdate.com/202502/us-states-take-a-page-from-eus-ai-act-but-biometrics-impact-likely-minimal](https://www.biometricupdate.com/202502/us-states-take-a-page-from-eus-ai-act-but-biometrics-impact-likely-minimal)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:03:16+00:00
+
+<img width="2048" height="1152" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-300x169.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-1024x576.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-150x84.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-768x432.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-1536x864.jpg 153
+
+## Beyond Borders: Biometric-Driven Efficiency in Travel
+ - [https://www.biometricupdate.com/202502/beyond-borders-biometric-driven-efficiency-in-travel](https://www.biometricupdate.com/202502/beyond-borders-biometric-driven-efficiency-in-travel)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:27:51+00:00
+
+<img width="1200" height="900" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18131401/2.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18131401/2.png 1200w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18131401/2-300x225.png 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18131401/2-1024x768.png 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18131401/2-150x113.png 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18131401/2-768x576.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" />
+		The global travel industry is experiencing a significant resurgence, and we’ve noted significant reinvestment in aircraft, equipment, and facilities. The next wave of ushering in operational efficiency and national security relies on innovations that further enhance se
+
+## Deepfakes strike at the heart and mind on dating sites, remote student interviews
+ - [https://www.biometricupdate.com/202502/deepfakes-strike-at-the-heart-and-mind-on-dating-sites-remote-student-interviews](https://www.biometricupdate.com/202502/deepfakes-strike-at-the-heart-and-mind-on-dating-sites-remote-student-interviews)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:17:58+00:00
+
+<img width="2048" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/14163805/dating-app-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/14163805/dating-app-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/14163805/dating-app-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/14163805/dating-app-1024x683.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/14163805/dating-app-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/14163805/dating-app-768x512.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/14163805/dating-app-1536x1024.jpg 1536w" sizes="auto, (max-width: 2048px) 100vw, 2048px" />
+		To date, much political beef has been cut from the question of stolen job
+
+## Realbotix says biometric AI vision system offers more sensitive robot companions
+ - [https://www.biometricupdate.com/202502/realbotix-says-biometric-ai-vision-system-offers-more-sensitive-robot-companions](https://www.biometricupdate.com/202502/realbotix-says-biometric-ai-vision-system-offers-more-sensitive-robot-companions)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:12:35+00:00
+
+<img width="1890" height="1170" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18131059/Realbotix.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18131059/Realbotix.png 1890w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18131059/Realbotix-300x186.png 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18131059/Realbotix-1024x634.png 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18131059/Realbotix-150x93.png 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18131059/Realbotix-768x475.png 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18131059/Realbotix-1536x951.png 1536w" sizes="(max-width: 1890px) 100vw, 1890px" />
+		For those who feel a bit let down that the current wave of AI tools is mostly made up of voracio
+
+## Biometrics are the key to unlocking nuclear power
+ - [https://www.biometricupdate.com/202502/biometrics-are-the-key-to-unlocking-nuclear-power](https://www.biometricupdate.com/202502/biometrics-are-the-key-to-unlocking-nuclear-power)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:35:19+00:00
+
+<img width="2048" height="1152" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/06/24131544/black-male-facial-recognition-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/06/24131544/black-male-facial-recognition-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/06/24131544/black-male-facial-recognition-300x169.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/06/24131544/black-male-facial-recognition-1024x576.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/06/24131544/black-male-facial-recognition-150x84.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/06/24131544/black-male-facial-recognition-768x432.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/06/24131544/black-male-facial-recognition-1536x864.jpg 1536w" sizes="(ma
+
+## EU Data Protection Board adopts age assurance statement with guiding principles
+ - [https://www.biometricupdate.com/202502/eu-data-protection-board-adopts-age-assurance-statement-with-guiding-principles](https://www.biometricupdate.com/202502/eu-data-protection-board-adopts-age-assurance-statement-with-guiding-principles)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:21:35+00:00
+
+<img width="2048" height="1367" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/10/29113926/children-laptop-6-12-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="age verification children" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/10/29113926/children-laptop-6-12-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/10/29113926/children-laptop-6-12-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/10/29113926/children-laptop-6-12-1024x683.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/10/29113926/children-laptop-6-12-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/10/29113926/children-laptop-6-12-768x513.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/10/29113926/children-laptop-6-12-1536x1025.jpg 1536w" sizes="(max-width: 2048px
+
+## Raidiam joins WE BUILD project for EUDI Wallet pilots
+ - [https://www.biometricupdate.com/202502/raidiam-joins-we-build-project-for-eudi-wallet-pilots](https://www.biometricupdate.com/202502/raidiam-joins-we-build-project-for-eudi-wallet-pilots)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:21:22+00:00
+
+<img width="2048" height="1152" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-300x169.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-1024x576.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-150x84.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-768x432.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-1536x864.jpg 1536w" sizes="auto, (max-width: 2048px) 100vw, 2048px" />
+		Trusted open banking company <a href="https://www.raidiam.com/">Raid
+
+## Trust Stamp, Digital Platformers partner on decentralized biometric authentication
+ - [https://www.biometricupdate.com/202502/trust-stamp-digital-platformers-partner-on-decentralized-biometric-authentication](https://www.biometricupdate.com/202502/trust-stamp-digital-platformers-partner-on-decentralized-biometric-authentication)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:20:23+00:00
+
+<img width="2048" height="1298" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-300x190.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-1024x649.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-150x95.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-768x487.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-1
+
+## Viability of India’s farmer ID program questioned over jurisdiction, digital capability
+ - [https://www.biometricupdate.com/202502/viability-of-indias-farmer-id-program-questioned-over-jurisdiction-digital-capability](https://www.biometricupdate.com/202502/viability-of-indias-farmer-id-program-questioned-over-jurisdiction-digital-capability)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:13:58+00:00
+
+<img width="1200" height="575" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18111316/Farmer-ID-Agristack-India.avif" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18111316/Farmer-ID-Agristack-India.avif 1200w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18111316/Farmer-ID-Agristack-India-300x144.avif 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18111316/Farmer-ID-Agristack-India-1024x491.avif 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18111316/Farmer-ID-Agristack-India-150x72.avif 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/18111316/Farmer-ID-Agristack-India-768x368.avif 768w" sizes="(max-width: 1200px) 100vw, 1200px" />
+		India’s Ministry of Agriculture and Farmers Welfare has created over 20.5 million biometric farmer IDs as the initiative
+
+## Sri Lankan government encourages local biometric hardware development
+ - [https://www.biometricupdate.com/202502/sri-lankan-government-encourages-local-biometric-hardware-development](https://www.biometricupdate.com/202502/sri-lankan-government-encourages-local-biometric-hardware-development)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:06:31+00:00
+
+<img width="2048" height="777" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/03150458/biometric-data-privacy-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/03150458/biometric-data-privacy-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/03150458/biometric-data-privacy-300x114.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/03150458/biometric-data-privacy-1024x389.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/03150458/biometric-data-privacy-150x57.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/03150458/biometric-data-privacy-768x291.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/03150458/biometric-data-privacy-1536x583.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048p
+
+## Africa Border Security Week
+ - [https://www.biometricupdate.com/202502/africa-border-security-week-2](https://www.biometricupdate.com/202502/africa-border-security-week-2)
+ - RSS feed: $source
+ - date published: 2025-02-18T02:49:38+00:00
+
+<img width="1024" height="768" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/17214912/ABSW1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/17214912/ABSW1.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/17214912/ABSW1-300x225.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/17214912/ABSW1-150x113.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/17214912/ABSW1-768x576.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
+		<strong><a href="https://www.bordersecurityweek.com/events/africa">Africa Border Security Week</a></strong>
+<strong>Cape Town, South Africa</strong>
+<strong>May 6-7, 2025</strong>
+
+Africa Border Security Week is a regional event dedicated to improving border security and management across Africa. The event will address all
+
+## Future Identity Customer
+ - [https://www.biometricupdate.com/202502/future-identity-customer-3](https://www.biometricupdate.com/202502/future-identity-customer-3)
+ - RSS feed: $source
+ - date published: 2025-02-18T02:06:28+00:00
+
+<img width="1200" height="900" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/17210247/Event-listing-Future-Identity-Customer.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/17210247/Event-listing-Future-Identity-Customer.png 1200w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/17210247/Event-listing-Future-Identity-Customer-300x225.png 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/17210247/Event-listing-Future-Identity-Customer-1024x768.png 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/17210247/Event-listing-Future-Identity-Customer-150x113.png 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/17210247/Event-listing-Future-Identity-Customer-768x576.png 768w" sizes="(max-width: 1200px) 100vw, 1200px" />
+		<strong><a href="https://bit.ly/3WdY8H2">Future
+
+## Jordan’s digital public infrastructure requires more security, trust, people-centricity
+ - [https://www.biometricupdate.com/202502/jordans-digital-public-infrastructure-requires-more-security-trust-people-centricity](https://www.biometricupdate.com/202502/jordans-digital-public-infrastructure-requires-more-security-trust-people-centricity)
+ - RSS feed: $source
+ - date published: 2025-02-18T00:58:06+00:00
+
+<img width="1080" height="787" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/28103719/sanad-app-jordan.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/28103719/sanad-app-jordan.jpg 1080w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/28103719/sanad-app-jordan-300x219.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/28103719/sanad-app-jordan-1024x746.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/28103719/sanad-app-jordan-150x109.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/08/28103719/sanad-app-jordan-768x560.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px" />
+		Despite the panoply of efforts deployed by Jordan in the last few years to implement a digital public infrastructure (DPI) ecosystem, access to digital services in the country rem
+
+## Burundi sorts out collaboration terms with IFC for digital transformation project
+ - [https://www.biometricupdate.com/202502/burundi-sorts-out-collaboration-terms-with-ifc-for-digital-transformation-project](https://www.biometricupdate.com/202502/burundi-sorts-out-collaboration-terms-with-ifc-for-digital-transformation-project)
+ - RSS feed: $source
+ - date published: 2025-02-18T00:39:04+00:00
+
+<img width="1919" height="1277" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/26111036/world-bank.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="world bank" decoding="async" loading="lazy" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/26111036/world-bank.jpg 1919w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/26111036/world-bank-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/26111036/world-bank-1024x681.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/26111036/world-bank-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/26111036/world-bank-768x511.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/26111036/world-bank-1536x1022.jpg 1536w" sizes="auto, (max-width: 1919px) 100vw, 1919px" />
+		Burundi expects the implementation of its digital transformation agenda to ge
+

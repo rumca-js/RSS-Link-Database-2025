@@ -1,0 +1,86 @@
+# Source:The Hill News, URL:https://thehill.com/feed, language:en-US
+
+## Missouri bill proposes registry for pregnant women to ‘reduce preventable abortions’
+ - [https://thehill.com/homenews/state-watch/5151439-missouri-bill-registry-pregnant-women-abortion](https://thehill.com/homenews/state-watch/5151439-missouri-bill-registry-pregnant-women-abortion)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:01:14+00:00
+
+The list is meant to help "reduce the number of preventable abortions."
+
+## British comedian John Oliver says he will go ‘down with the Titanic,’ not leave US under Trump
+ - [https://thehill.com/blogs/in-the-know/5151287-john-oliver-stephen-colbert-donald-trump-second-term](https://thehill.com/blogs/in-the-know/5151287-john-oliver-stephen-colbert-donald-trump-second-term)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:07:46+00:00
+
+British comedian and political commentator John Oliver said he won’t be heading home to the United Kingdom under President Trump’s second term, opting instead to go &#8220;down with the Titanic.&#8221; He appeared on “The Late Show with Stephen Colbert” on Monday evening, where the pair talked about Oliver&#8217;s decision to become a U.S. citizen in&#8230;
+
+## Democrat says Fox News host Jesse Watters is right about party’s media strategy
+ - [https://thehill.com/homenews/media/5151292-chris-murphy-jesse-watters-democrats-media](https://thehill.com/homenews/media/5151292-chris-murphy-jesse-watters-democrats-media)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:03:57+00:00
+
+Sen. Chris Murphy (D-Conn.) agreed with Fox News host Jesse Watters, who argued this week the Democratic media messaging machine is no match for its counterpart on the right. &#8220;We are waging a 21st century information warfare campaign against the left,&#8221; Watters said on an episode of &#8220;The Five&#8221; this week. &#8220;And they&#8217;re using tactics&#8230;
+
+## Watch: Rubio, top Russian officials in Saudi Arabia discuss end to war in Ukraine
+ - [https://thehill.com/video-clips/5150501-watch-marco-rubio-sergey-lavrov-russia-ukraine-war-peace-talks](https://thehill.com/video-clips/5150501-watch-marco-rubio-sergey-lavrov-russia-ukraine-war-peace-talks)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:00:00+00:00
+
+Secretary of State Marco Rubio met with senior Russian leaders in Saudi Arabia early Tuesday, where the group began negotiations around ending the nearly three-year war in Ukraine. Ukraine was notably not at the table. State Department spokesperson Tammy Bruce said in a statement following the meeting that the group agreed to several things including&#8230;
+
+## Who will stop Trump and Elon Musk from dismantling the US government?
+ - [https://thehill.com/opinion/judiciary/5149873-who-will-stop-trump-and-musk-from-dismantling-the-us-government](https://thehill.com/opinion/judiciary/5149873-who-will-stop-trump-and-musk-from-dismantling-the-us-government)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:00:00+00:00
+
+Trump and Musk are playing fast and loose with presidential and constitutional norms.
+
+## Ocasio-Cortez says Vance ‘lied to the world’ about free speech
+ - [https://thehill.com/homenews/house/5151309-ocasio-cortez-says-vance-lied-to-the-world-about-free-speech](https://thehill.com/homenews/house/5151309-ocasio-cortez-says-vance-lied-to-the-world-about-free-speech)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:57:22+00:00
+
+Rep. Alexandria Ocasio-Cortez (D-N.Y.) pressed Vice President Vance over the precepts of free speech, citing threats from the Trump administration as an example of its impediment.  “@JDVance, you lied to the world in Munich. If this administration believed in free speech as you claimed, its leaders wouldn’t be threatening members of Congress with criminal investigations&#8230;
+
+## New DNC chair: Union workers, labor leaders will be ‘core to my decision-making’
+ - [https://thehill.com/homenews/campaign/5151197-democratic-party-worker-power](https://thehill.com/homenews/campaign/5151197-democratic-party-worker-power)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:52:51+00:00
+
+New Democratic National Committee (DNC) Chair Ken Martin said Tuesday that union workers and labor leaders will be “core to my decision-making.” “As Trump wages his war on working families, Democrats will fiercely answer the call to my favorite old union song, ‘Which Side Are You On?’ I’ll tell you what: Democrats are on the&#8230;
+
+## Stephen A. Smith on potential White House bid: Democrats ‘suck right now’
+ - [https://thehill.com/media/5151052-stephen-a-smith-on-potential-white-house-bid-democrats-suck-right-now](https://thehill.com/media/5151052-stephen-a-smith-on-potential-white-house-bid-democrats-suck-right-now)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:53:23+00:00
+
+Pundit Stephen A. Smith again raised the possibility of a presidential run as a Democrat, blasting the party in the process and saying it has no obvious candidate to take on Republicans in the next election. “I’m not in the news because I’m here,” Smith said during an episode of his podcast and video show.&#8230;
+
+## Southwest Airlines cutting 1,750 jobs
+ - [https://thehill.com/business/5150917-southwest-airlines-cutting-jobs](https://thehill.com/business/5150917-southwest-airlines-cutting-jobs)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:12:00+00:00
+
+Southwest Airlines on Monday announced it will cut 1,750 jobs in late April in what will be the first round of layoffs in the company’s 53-year history.  “As we continue to work together to transform our Company, an area of intense focus will be maximizing efficiencies and minimizing costs,&#8221; Bob Jordan, president and CEO of&#8230;
+
+## Russia frees detained American as talks with US on Ukraine begin
+ - [https://thehill.com/policy/international/5150816-russia-releases-american-citizen](https://thehill.com/policy/international/5150816-russia-releases-american-citizen)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:47:59+00:00
+
+Russia has freed an American citizen detained on drug charges, in what the State Department called a &#8220;welcome gesture&#8221; ahead of a meeting between U.S. and Russian officials in Saudi Arabia. American Kalob Byers Wayne, 28, was released earlier this week to the custody of U.S. officials. He was reportedly arrested on Feb. 7 at&#8230;
+
+## Education Department slashes grants for training teachers on ‘divisive ideologies’
+ - [https://thehill.com/homenews/education/5150715-education-department-grant-cuts-teacher-training](https://thehill.com/homenews/education/5150715-education-department-grant-cuts-teacher-training)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:50:04+00:00
+
+The Education Department said on Monday it is slashing grants for training teachers because the programs focused on “divisive ideologies.”  The department cut $600 million to these programs it says focused on topics such as critical race theory, diversity, equity and inclusion, social justice, anti-racism, white privilege and white supremacy.   The agency gave examples&#8230;
+
+## Bill O’Reilly: 35 percent of people will never support Trump, DOGE
+ - [https://thehill.com/homenews/5150299-bill-oreilly-donald-trump-elon-musk-doge-support](https://thehill.com/homenews/5150299-bill-oreilly-donald-trump-elon-musk-doge-support)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:38:58+00:00
+
+"I want this; 80% of the American people are with me. The Trump haters don't want it," O'Reilly said Monday.
+

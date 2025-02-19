@@ -1,0 +1,268 @@
+# Source:Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Majority of GOP voters would reject checks and balances to give Trump more power
+ - [https://www.reddit.com/r/politics/comments/1islcnx/majority_of_gop_voters_would_reject_checks_and](https://www.reddit.com/r/politics/comments/1islcnx/majority_of_gop_voters_would_reject_checks_and)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:32:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1islcnx/majority_of_gop_voters_would_reject_checks_and/"> <img src="https://external-preview.redd.it/E47DcmEn6z87NaXGUHEi1Rq_nEA_m2FBX75UvS1koa4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d0955954726700247f00ae02abcff09d18e1fd40" alt="Majority of GOP voters would reject checks and balances to give Trump more power" title="Majority of GOP voters would reject checks and balances to give Trump more power" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Shinycardboardnerd"> /u/Shinycardboardnerd </a> <br/> <span><a href="https://www.msnbc.com/msnbc/amp/shows/maddow/blog/rcna192602">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1islcnx/majority_of_gop_voters_would_reject_checks_and/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump’s Next Diversity Target: People With Disabilities
+ - [https://www.reddit.com/r/politics/comments/1iskjgq/donald_trumps_next_diversity_target_people_with](https://www.reddit.com/r/politics/comments/1iskjgq/donald_trumps_next_diversity_target_people_with)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:00:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iskjgq/donald_trumps_next_diversity_target_people_with/"> <img src="https://external-preview.redd.it/7f5wfXL25kcdLol8h4iTf_yUfbBMpzbfxMx8Dfvr0MM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3110ee508eb826a25d9b08f1635370cba9587c32" alt="Donald Trump’s Next Diversity Target: People With Disabilities" title="Donald Trump’s Next Diversity Target: People With Disabilities" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thenationmagazine"> /u/thenationmagazine </a> <br/> <span><a href="https://www.thenation.com/article/society/trump-dei-target-access-disabilities/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iskjgq/donald_trumps_next_diversity_target_people_with/">[comments]</a></span> </td></tr></table>
+
+## 'This Is Why You Fight These Cowards': AOC Unmoved by Trump Border Czar's Threats | "The Fourth Amendment is clear and I am well within my duties to educate people of their rights," said Rep. Alexandria Ocasio-Cortez. "He can threaten me with jail and call names all he wants. He's got nothing else."
+ - [https://www.reddit.com/r/politics/comments/1isk9v0/this_is_why_you_fight_these_cowards_aoc_unmoved](https://www.reddit.com/r/politics/comments/1isk9v0/this_is_why_you_fight_these_cowards_aoc_unmoved)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:50:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isk9v0/this_is_why_you_fight_these_cowards_aoc_unmoved/"> <img src="https://external-preview.redd.it/jUOeWRPNLu0XBmeJ1qQwz0FSfxCoNQedjLQUzbRGB6k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=36798cb439cdab3c16c968d8ecc9293acf370cad" alt="'This Is Why You Fight These Cowards': AOC Unmoved by Trump Border Czar's Threats | &quot;The Fourth Amendment is clear and I am well within my duties to educate people of their rights,&quot; said Rep. Alexandria Ocasio-Cortez. &quot;He can threaten me with jail and call names all he wants. He's got nothing else.&quot;" title="'This Is Why You Fight These Cowards': AOC Unmoved by Trump Border Czar's Threats | &quot;The Fourth Amendment is clear and I am well within my duties to educate people of their rights,&quot; said Rep. Alexandria Ocasio-Cortez. &quot;He can threaten me with jail and call names all he wants. He's got nothing else.&quot;" /> </a> </td><td> &#32; submitted by
+
+## AOC Dares Trump Border Czar to Have DOJ Investigate Her
+ - [https://www.reddit.com/r/politics/comments/1isj1ij/aoc_dares_trump_border_czar_to_have_doj](https://www.reddit.com/r/politics/comments/1isj1ij/aoc_dares_trump_border_czar_to_have_doj)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:02:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isj1ij/aoc_dares_trump_border_czar_to_have_doj/"> <img src="https://external-preview.redd.it/OnxdOuw5_u5h9ghjZRepkztXkOxkHIyy-xHnUgWGT4g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=18aec22f7448f8e8f0caa452f7dc594378f617a4" alt="AOC Dares Trump Border Czar to Have DOJ Investigate Her" title="AOC Dares Trump Border Czar to Have DOJ Investigate Her" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Quirkie"> /u/Quirkie </a> <br/> <span><a href="https://www.thedailybeast.com/aoc-dares-trump-border-czar-tom-homan-to-have-doj-investigate-her/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isj1ij/aoc_dares_trump_border_czar_to_have_doj/">[comments]</a></span> </td></tr></table>
+
+## Steve Bannon escalates feud with Elon Musk: 'parasitic illegal immigrant'
+ - [https://www.reddit.com/r/politics/comments/1isize0/steve_bannon_escalates_feud_with_elon_musk](https://www.reddit.com/r/politics/comments/1isize0/steve_bannon_escalates_feud_with_elon_musk)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:00:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isize0/steve_bannon_escalates_feud_with_elon_musk/"> <img src="https://external-preview.redd.it/IWgTlojbq6vfwHq_gYu9hR2ejI2PlU7z64jNRLgaTgs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4063afa864a0a7ba962befc3cb3f6478b36a768" alt="Steve Bannon escalates feud with Elon Musk: 'parasitic illegal immigrant'" title="Steve Bannon escalates feud with Elon Musk: 'parasitic illegal immigrant'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsweek"> /u/newsweek </a> <br/> <span><a href="https://www.newsweek.com/steve-bannon-escalates-feud-elon-musk-parasitic-illegal-immigrant-2032675">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isize0/steve_bannon_escalates_feud_with_elon_musk/">[comments]</a></span> </td></tr></table>
+
+## Foreign service worker sues Trump after pregnant wife faces 'life-threatening' complications amid USAID shutdown
+ - [https://www.reddit.com/r/politics/comments/1isiqr5/foreign_service_worker_sues_trump_after_pregnant](https://www.reddit.com/r/politics/comments/1isiqr5/foreign_service_worker_sues_trump_after_pregnant)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:50:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isiqr5/foreign_service_worker_sues_trump_after_pregnant/"> <img src="https://external-preview.redd.it/tAHDVbmxFyM8a4FALfXIPfigY4WDhlAtd2ThnlLvGvI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60194dfe75471919127eb70ab2d5a71cc3f4647d" alt="Foreign service worker sues Trump after pregnant wife faces 'life-threatening' complications amid USAID shutdown" title="Foreign service worker sues Trump after pregnant wife faces 'life-threatening' complications amid USAID shutdown" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br/> <span><a href="https://www.nbcnews.com/politics/donald-trump/foreign-service-worker-sues-trump-pregnant-wife-faces-life-threatening-rcna192599">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isiqr5/foreign_service_worker_sues_trump_after_pregnant/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump defies court order by adding transphobic text to restored webpages. Several government webpages that mention gender now contain transphobic text calling trans people a threat to women and children.
+ - [https://www.reddit.com/r/politics/comments/1isig2m/donald_trump_defies_court_order_by_adding](https://www.reddit.com/r/politics/comments/1isig2m/donald_trump_defies_court_order_by_adding)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:38:45+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/southpawFA"> /u/southpawFA </a> <br/> <span><a href="https://www.lgbtqnation.com/2025/02/donald-trump-defies-court-order-by-adding-transphobic-text-to-restored-webpages/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isig2m/donald_trump_defies_court_order_by_adding/">[comments]</a></span>
+
+## Washington state leaders tell Trump to 'follow the damn law' on federal funding
+ - [https://www.reddit.com/r/politics/comments/1ishmbk/washington_state_leaders_tell_trump_to_follow_the](https://www.reddit.com/r/politics/comments/1ishmbk/washington_state_leaders_tell_trump_to_follow_the)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:06:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ishmbk/washington_state_leaders_tell_trump_to_follow_the/"> <img src="https://external-preview.redd.it/uYKUYgNfSkVhbVAHjxDHRaBr6ftilLD_5IXBp8EGfm8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7e00c3de86f5bb7bf4a623e19510edc24ae3b054" alt="Washington state leaders tell Trump to 'follow the damn law' on federal funding" title="Washington state leaders tell Trump to 'follow the damn law' on federal funding" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aslan_is_on_the_move"> /u/aslan_is_on_the_move </a> <br/> <span><a href="https://komonews.com/news/local/governor-bob-ferguson-ag-nick-brown-joe-nguyen-state-leaders-to-give-update-on-federal-funding-and-states-response-to-trumps-orders">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ishmbk/washington_state_leaders_tell_trump_to_follow_the/">[comments]</a></span> </td></tr></table>
+
+## AOC Bites Back On Threats By Trump's Border Czar: 'He Can Threaten Me With Jail & Call Names All He Wants'
+ - [https://www.reddit.com/r/politics/comments/1ishgwr/aoc_bites_back_on_threats_by_trumps_border_czar](https://www.reddit.com/r/politics/comments/1ishgwr/aoc_bites_back_on_threats_by_trumps_border_czar)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:00:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ishgwr/aoc_bites_back_on_threats_by_trumps_border_czar/"> <img src="https://external-preview.redd.it/9hAc0JLefXILL8Vo9MXseotkPz8sqAFFfqckSFQv-w8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=49deb4f075eec25f3fe6b574b4084304824ad50e" alt="AOC Bites Back On Threats By Trump's Border Czar: 'He Can Threaten Me With Jail &amp; Call Names All He Wants'" title="AOC Bites Back On Threats By Trump's Border Czar: 'He Can Threaten Me With Jail &amp; Call Names All He Wants'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PostHeraldTimes"> /u/PostHeraldTimes </a> <br/> <span><a href="https://www.ibtimes.com/tom-homan-border-czar-alexandria-ocasio-cortez-3764116">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ishgwr/aoc_bites_back_on_threats_by_trumps_border_czar/">[comments]</a></span> </td></tr></table>
+
+## DOGE Is a Massive Scam—Even on Its Own Terms: Even if you believe that Musk is trying to root out waste and fraud (and you really shouldn’t), he and his dweeby hatchet bros are only making things more corrupt and expensive.
+ - [https://www.reddit.com/r/politics/comments/1ishdnp/doge_is_a_massive_scameven_on_its_own_terms_even](https://www.reddit.com/r/politics/comments/1ishdnp/doge_is_a_massive_scameven_on_its_own_terms_even)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:56:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ishdnp/doge_is_a_massive_scameven_on_its_own_terms_even/"> <img src="https://external-preview.redd.it/PVh_TrkC05hths6ROOyClOJSP6r-L5dQZO4FbVipBQs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=904b785ac4779ec7881d04ce624afedb6e845d68" alt="DOGE Is a Massive Scam—Even on Its Own Terms: Even if you believe that Musk is trying to root out waste and fraud (and you really shouldn’t), he and his dweeby hatchet bros are only making things more corrupt and expensive." title="DOGE Is a Massive Scam—Even on Its Own Terms: Even if you believe that Musk is trying to root out waste and fraud (and you really shouldn’t), he and his dweeby hatchet bros are only making things more corrupt and expensive." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/harsh2k5"> /u/harsh2k5 </a> <br/> <span><a href="https://www.thenation.com/article/politics/doge-results-government-waste-scam/">[link]</a></span> &#
+
+## After claiming remote workers are actually golfing, Trump again hits the links in Florida
+ - [https://www.reddit.com/r/politics/comments/1ish9gn/after_claiming_remote_workers_are_actually](https://www.reddit.com/r/politics/comments/1ish9gn/after_claiming_remote_workers_are_actually)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:52:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ish9gn/after_claiming_remote_workers_are_actually/"> <img src="https://external-preview.redd.it/QN4kVqSmW_BQNGzqBW9F7hNjE3qhdNp-LmdjnFMvYSU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2130880415f852211f0a6005d99b0b1f74a47294" alt="After claiming remote workers are actually golfing, Trump again hits the links in Florida" title="After claiming remote workers are actually golfing, Trump again hits the links in Florida" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_NewsClues_"> /u/_NewsClues_ </a> <br/> <span><a href="https://www.cnn.com/2025/02/18/politics/mar-a-lago-trump-remote-work-golf/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ish9gn/after_claiming_remote_workers_are_actually/">[comments]</a></span> </td></tr></table>
+
+## President of NYU College Republicans resigns after calling Barron Trump ‘an oddity’
+ - [https://www.reddit.com/r/politics/comments/1isgza2/president_of_nyu_college_republicans_resigns](https://www.reddit.com/r/politics/comments/1isgza2/president_of_nyu_college_republicans_resigns)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:40:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isgza2/president_of_nyu_college_republicans_resigns/"> <img src="https://external-preview.redd.it/-kaVVMtLKj177qJMMSM_9G_LjIDpGUP6Q8H-Fpy4WM8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3465b4da635a58127b65b06a694dd03528ae31c5" alt="President of NYU College Republicans resigns after calling Barron Trump ‘an oddity’" title="President of NYU College Republicans resigns after calling Barron Trump ‘an oddity’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Discussion6913"> /u/No_Discussion6913 </a> <br/> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/nyu-republicans-president-barron-trump-b2700183.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isgza2/president_of_nyu_college_republicans_resigns/">[comments]</a></span> </td></tr></table>
+
+## Discussion Thread: 2025 Wisconsin Spring Primary Elections
+ - [https://www.reddit.com/r/politics/comments/1isgvrp/discussion_thread_2025_wisconsin_spring_primary](https://www.reddit.com/r/politics/comments/1isgvrp/discussion_thread_2025_wisconsin_spring_primary)
+ - RSS feed: $source
+ - date published: 2025-02-18T16:36:20+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>News and Analysis</strong></p> <ul> <li><p>AP via PBS Wisconsin: <a href="https://pbswisconsin.org/news-item/what-to-expect-in-wisconsins-spring-2025-primary-election/">What to expect in Wisconsin&#39;s spring 2025 primary election</a></p></li> <li><p>WPR: <a href="https://www.wpr.org/news/polls-open-schools-superintendent-primary">Polls are open as Wisconsin voters weigh schools superintendent primary, local races</a></p></li> <li><p>PBS Wisconsin: <a href="https://pbswisconsin.org/news-item/brittany-kinser-dr-jill-underly-and-jeff-wright-face-off-in-the-2025-primary-for-wisconsin-state-superintendent/">Three candidates are vying to get through Wisconsin&#39;s February 2025 primary election for the office of state superintendent of public instruction: a Milwaukee-based education consultant, the incumbent state superintendent and the Sauk Prairie schools superintendent.</a></p></li> </ul> <p><strong>Voter Information</strong></p> <ul> <li>MyV
+
+## Bannon: Musk ‘wants to impose his freak experiments’ on US
+ - [https://www.reddit.com/r/politics/comments/1isfi46/bannon_musk_wants_to_impose_his_freak_experiments](https://www.reddit.com/r/politics/comments/1isfi46/bannon_musk_wants_to_impose_his_freak_experiments)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:39:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isfi46/bannon_musk_wants_to_impose_his_freak_experiments/"> <img src="https://external-preview.redd.it/Q331ObwhXdWjMnWMEkTa26g6OJeCY7KMqWf0SqdE8No.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=19fc359d679b1e0f76aca66f85d8684d72f37c13" alt="Bannon: Musk ‘wants to impose his freak experiments’ on US" title="Bannon: Musk ‘wants to impose his freak experiments’ on US" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bummed_athlete"> /u/bummed_athlete </a> <br/> <span><a href="https://thehill.com/policy/technology/5150832-steve-bannon-elon-musk-doge/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isfi46/bannon_musk_wants_to_impose_his_freak_experiments/">[comments]</a></span> </td></tr></table>
+
+## Trump’s border czar ups the ante against Ocasio-Cortez, seeks DOJ investigation | By all appearances, Tom Homan sure does sound worried about the New York Democrat educating the public about Civil Liberties 101.
+ - [https://www.reddit.com/r/politics/comments/1isf8kn/trumps_border_czar_ups_the_ante_against](https://www.reddit.com/r/politics/comments/1isf8kn/trumps_border_czar_ups_the_ante_against)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:27:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isf8kn/trumps_border_czar_ups_the_ante_against/"> <img src="https://external-preview.redd.it/RqStHbh_UuM11YzjgYag7rYDVCiW7UA5lueV2ZPrnJg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9f82574fb8f674cab6cb70de7ea9ed7e3930b41a" alt="Trump’s border czar ups the ante against Ocasio-Cortez, seeks DOJ investigation | By all appearances, Tom Homan sure does sound worried about the New York Democrat educating the public about Civil Liberties 101." title="Trump’s border czar ups the ante against Ocasio-Cortez, seeks DOJ investigation | By all appearances, Tom Homan sure does sound worried about the New York Democrat educating the public about Civil Liberties 101." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br/> <span><a href="https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-border-czar-ups-ante-aoc-seeks-doj-investigation-rcna192556">[
+
+## Democrat: Vance used ‘same language’ as Hitler did to ‘justify’ Holocaust
+ - [https://www.reddit.com/r/politics/comments/1isf0cp/democrat_vance_used_same_language_as_hitler_did](https://www.reddit.com/r/politics/comments/1isf0cp/democrat_vance_used_same_language_as_hitler_did)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:17:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isf0cp/democrat_vance_used_same_language_as_hitler_did/"> <img src="https://external-preview.redd.it/DLdna2jftEocIcHS3WoQK4FkMyh1NQoT55QpjRr3UHA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a85ec7d70d095b3fb090321bb3e06effb40d9744" alt="Democrat: Vance used ‘same language’ as Hitler did to ‘justify’ Holocaust" title="Democrat: Vance used ‘same language’ as Hitler did to ‘justify’ Holocaust" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/karoelchi"> /u/karoelchi </a> <br/> <span><a href="https://thehill.com/homenews/administration/5150710-seth-moulton-jd-vance-munich-security-conference-rhetoric/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isf0cp/democrat_vance_used_same_language_as_hitler_did/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk’s DOGE Can’t Even Secure A Website, Let Alone The Government
+ - [https://www.reddit.com/r/politics/comments/1iseqak/elon_musks_doge_cant_even_secure_a_website_let](https://www.reddit.com/r/politics/comments/1iseqak/elon_musks_doge_cant_even_secure_a_website_let)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:06:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iseqak/elon_musks_doge_cant_even_secure_a_website_let/"> <img src="https://external-preview.redd.it/FEh0zVDSyYeqDF5zZTBAY7dKm3qEAH_r4pPsq34OQ54.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bb0874d06cef4eec1ea26808083b0c28b3ed3db1" alt="Elon Musk’s DOGE Can’t Even Secure A Website, Let Alone The Government" title="Elon Musk’s DOGE Can’t Even Secure A Website, Let Alone The Government" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Exciting_Teacher6258"> /u/Exciting_Teacher6258 </a> <br/> <span><a href="https://abovethelaw.com/2025/02/elon-musks-doge-cant-even-secure-a-website-let-alone-the-government/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iseqak/elon_musks_doge_cant_even_secure_a_website_let/">[comments]</a></span> </td></tr></table>
+
+## Trump's cuts will end lifesaving medical research – and people will die | Opinion
+ - [https://www.reddit.com/r/politics/comments/1isei7h/trumps_cuts_will_end_lifesaving_medical_research](https://www.reddit.com/r/politics/comments/1isei7h/trumps_cuts_will_end_lifesaving_medical_research)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:56:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isei7h/trumps_cuts_will_end_lifesaving_medical_research/"> <img src="https://external-preview.redd.it/7iL5gnkK-Re5maHeMrI-Swvs93RdseFpAFFcXtvWEVo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b337c415d01691363e2ef4756be4bf4aa7c64110" alt="Trump's cuts will end lifesaving medical research – and people will die | Opinion" title="Trump's cuts will end lifesaving medical research – and people will die | Opinion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sweatycat"> /u/sweatycat </a> <br/> <span><a href="https://www.usatoday.com/story/opinion/2025/02/17/trump-cuts-medical-research-nih-grants-public-health/78524284007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isei7h/trumps_cuts_will_end_lifesaving_medical_research/">[comments]</a></span> </td></tr></table>
+
+## Judge orders Mayor Eric Adams, DOJ lawyers to appear in court to explain case dismissal request
+ - [https://www.reddit.com/r/politics/comments/1isei1c/judge_orders_mayor_eric_adams_doj_lawyers_to](https://www.reddit.com/r/politics/comments/1isei1c/judge_orders_mayor_eric_adams_doj_lawyers_to)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:56:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isei1c/judge_orders_mayor_eric_adams_doj_lawyers_to/"> <img src="https://external-preview.redd.it/oxj75zLI-VH8s_YfQvhDC5alBkYxADd0QxBzGCpYBNc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d253d850aff316f288104c3fb9a7bc956520621" alt="Judge orders Mayor Eric Adams, DOJ lawyers to appear in court to explain case dismissal request" title="Judge orders Mayor Eric Adams, DOJ lawyers to appear in court to explain case dismissal request" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/z8675309z"> /u/z8675309z </a> <br/> <span><a href="https://www.cnbc.com/2025/02/18/judge-orders-eric-adams-doj-court-case-dismissal-request.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isei1c/judge_orders_mayor_eric_adams_doj_lawyers_to/">[comments]</a></span> </td></tr></table>
+
+## January 6 Still Happened
+ - [https://www.reddit.com/r/politics/comments/1isdzq8/january_6_still_happened](https://www.reddit.com/r/politics/comments/1isdzq8/january_6_still_happened)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:32:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isdzq8/january_6_still_happened/"> <img src="https://external-preview.redd.it/CniXVjE4lWLIZlfixrEyzsydKSttC5XszD-w_aPBes0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b5cffcb1217c22104dcd960e99933a580f0d2f52" alt="January 6 Still Happened" title="January 6 Still Happened" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TubbyPiglet"> /u/TubbyPiglet </a> <br/> <span><a href="https://www.theatlantic.com/ideas/archive/2025/02/january-6-trump-history/681647/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isdzq8/january_6_still_happened/">[comments]</a></span> </td></tr></table>
+
+## 'What leverage do we have?' Democrats face pressure to fight the Trump agenda
+ - [https://www.reddit.com/r/politics/comments/1isdpui/what_leverage_do_we_have_democrats_face_pressure](https://www.reddit.com/r/politics/comments/1isdpui/what_leverage_do_we_have_democrats_face_pressure)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:20:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isdpui/what_leverage_do_we_have_democrats_face_pressure/"> <img src="https://external-preview.redd.it/E5LTGdyjoH51LX9ULAjiQS-61ay6EpmMuAj-MbV756Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fc5f17bff2a54e2866f087a0959ffb5e9d5f9854" alt="'What leverage do we have?' Democrats face pressure to fight the Trump agenda" title="'What leverage do we have?' Democrats face pressure to fight the Trump agenda" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aresef"> /u/aresef </a> <br/> <span><a href="https://www.npr.org/2025/02/14/nx-s1-5293166/democrats-congress-trump">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isdpui/what_leverage_do_we_have_democrats_face_pressure/">[comments]</a></span> </td></tr></table>
+
+## "No Kings on Presidents Day" rallies in cities nationwide target Trump, Musk
+ - [https://www.reddit.com/r/politics/comments/1isd6nj/no_kings_on_presidents_day_rallies_in_cities](https://www.reddit.com/r/politics/comments/1isd6nj/no_kings_on_presidents_day_rallies_in_cities)
+ - RSS feed: $source
+ - date published: 2025-02-18T13:54:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isd6nj/no_kings_on_presidents_day_rallies_in_cities/"> <img src="https://external-preview.redd.it/LcgbD5AGFFcNJoCBlzEmc14Wq5BlOoaubQ5XGmjehKM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a7a5e4a510e4d5310cf960fc629da4b8044413ce" alt="&quot;No Kings on Presidents Day&quot; rallies in cities nationwide target Trump, Musk" title="&quot;No Kings on Presidents Day&quot; rallies in cities nationwide target Trump, Musk" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/leadhd"> /u/leadhd </a> <br/> <span><a href="https://www.cbsnews.com/news/no-kings-on-presidents-day-protests-cities-nationwide-anti-trump-musk/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isd6nj/no_kings_on_presidents_day_rallies_in_cities/">[comments]</a></span> </td></tr></table>
+
+## White House Claims Elon Musk Isn’t Running DOGE After All
+ - [https://www.reddit.com/r/politics/comments/1isc6k9/white_house_claims_elon_musk_isnt_running_doge](https://www.reddit.com/r/politics/comments/1isc6k9/white_house_claims_elon_musk_isnt_running_doge)
+ - RSS feed: $source
+ - date published: 2025-02-18T13:03:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isc6k9/white_house_claims_elon_musk_isnt_running_doge/"> <img src="https://external-preview.redd.it/sSUaw5jCQpIMEvZdpdcuvCwqN5_TeaMRY8gys0X98w4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28d3dfba7ce007de2fc68882efb5a04cdd33f782" alt="White House Claims Elon Musk Isn’t Running DOGE After All" title="White House Claims Elon Musk Isn’t Running DOGE After All" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Boonzies"> /u/Boonzies </a> <br/> <span><a href="https://www.thedailybeast.com/white-house-insists-musk-isnt-in-charge-of-doge-or-even-part-of-it/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isc6k9/white_house_claims_elon_musk_isnt_running_doge/">[comments]</a></span> </td></tr></table>
+
+## A quarter of US shoppers have dumped favorite stores over political stances - especially if you are Gen Z, Black or Democrat voter
+ - [https://www.reddit.com/r/politics/comments/1isc0gj/a_quarter_of_us_shoppers_have_dumped_favorite](https://www.reddit.com/r/politics/comments/1isc0gj/a_quarter_of_us_shoppers_have_dumped_favorite)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:54:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isc0gj/a_quarter_of_us_shoppers_have_dumped_favorite/"> <img src="https://external-preview.redd.it/MEv-bjaWLEOv0rnepL2IFcyDoPMpbdlINRalIqHgWoU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae0c5fd9ea73ecfbe471b62a28c9177cafeae681" alt="A quarter of US shoppers have dumped favorite stores over political stances - especially if you are Gen Z, Black or Democrat voter" title="A quarter of US shoppers have dumped favorite stores over political stances - especially if you are Gen Z, Black or Democrat voter" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Confident_Reader_965"> /u/Confident_Reader_965 </a> <br/> <span><a href="https://www.theguardian.com/us-news/2025/feb/18/shoppers-political-boycotts-spending-patterns-poll?CMP=share_btn_url">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isc0gj/a_quarter_of_us_shoppers_have_dumped_favorite/">[comments
+
+## A quarter of US shoppers have dumped favorite stores over political stances
+ - [https://www.reddit.com/r/politics/comments/1isc009/a_quarter_of_us_shoppers_have_dumped_favorite](https://www.reddit.com/r/politics/comments/1isc009/a_quarter_of_us_shoppers_have_dumped_favorite)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:53:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isc009/a_quarter_of_us_shoppers_have_dumped_favorite/"> <img src="https://external-preview.redd.it/MEv-bjaWLEOv0rnepL2IFcyDoPMpbdlINRalIqHgWoU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae0c5fd9ea73ecfbe471b62a28c9177cafeae681" alt="A quarter of US shoppers have dumped favorite stores over political stances" title="A quarter of US shoppers have dumped favorite stores over political stances" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dabidabidu2"> /u/dabidabidu2 </a> <br/> <span><a href="https://www.theguardian.com/us-news/2025/feb/18/shoppers-political-boycotts-spending-patterns-poll">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isc009/a_quarter_of_us_shoppers_have_dumped_favorite/">[comments]</a></span> </td></tr></table>
+
+## GOP Proposes $4.5 Trillion Tax Giveaway to the Rich While 'Ransacking' Food Stamps and Medicaid
+ - [https://www.reddit.com/r/politics/comments/1isby4m/gop_proposes_45_trillion_tax_giveaway_to_the_rich](https://www.reddit.com/r/politics/comments/1isby4m/gop_proposes_45_trillion_tax_giveaway_to_the_rich)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:50:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isby4m/gop_proposes_45_trillion_tax_giveaway_to_the_rich/"> <img src="https://external-preview.redd.it/TDTSqTLnNZulxwxEjs0z5Nuh7Xkxo4g3wlNV5l58i-w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f4c17bda204c7f1ed826685e78e53a6ec28de3cd" alt="GOP Proposes $4.5 Trillion Tax Giveaway to the Rich While 'Ransacking' Food Stamps and Medicaid" title="GOP Proposes $4.5 Trillion Tax Giveaway to the Rich While 'Ransacking' Food Stamps and Medicaid" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silent-Resort-3076"> /u/Silent-Resort-3076 </a> <br/> <span><a href="https://www.commondreams.org/news/house-budget-resolution">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isby4m/gop_proposes_45_trillion_tax_giveaway_to_the_rich/">[comments]</a></span> </td></tr></table>
+
+## John Roberts' Supreme Court obeyed in advance: Trump’s wrecking ball is a constitutional unravelling of the Roberts’ court’s own making
+ - [https://www.reddit.com/r/politics/comments/1isb67n/john_roberts_supreme_court_obeyed_in_advance](https://www.reddit.com/r/politics/comments/1isb67n/john_roberts_supreme_court_obeyed_in_advance)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:05:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isb67n/john_roberts_supreme_court_obeyed_in_advance/"> <img src="https://external-preview.redd.it/uchwgWYR9fANPkKemDJuogscuVtWq3ASs7xRFtzK518.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=83f46cb22a359449ccd9a4ff8366251a330d9cd8" alt="John Roberts' Supreme Court obeyed in advance: Trump’s wrecking ball is a constitutional unravelling of the Roberts’ court’s own making" title="John Roberts' Supreme Court obeyed in advance: Trump’s wrecking ball is a constitutional unravelling of the Roberts’ court’s own making" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zsreport"> /u/zsreport </a> <br/> <span><a href="https://www.salon.com/2025/02/18/john-roberts-obeyed-in-advance/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isb67n/john_roberts_supreme_court_obeyed_in_advance/">[comments]</a></span> </td></tr></table>
+
+## DNC chair outlines pro-worker, union focus in first memo in fight against Trump
+ - [https://www.reddit.com/r/politics/comments/1isacm3/dnc_chair_outlines_proworker_union_focus_in_first](https://www.reddit.com/r/politics/comments/1isacm3/dnc_chair_outlines_proworker_union_focus_in_first)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:13:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1isacm3/dnc_chair_outlines_proworker_union_focus_in_first/"> <img src="https://external-preview.redd.it/43fFpo0T9kl_W1gZBPZ_QqeGZvTaDaDvI4y9sVAmCUg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a1104cb6dd6433296059f3b508432852b9999e50" alt="DNC chair outlines pro-worker, union focus in first memo in fight against Trump" title="DNC chair outlines pro-worker, union focus in first memo in fight against Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pharrt"> /u/pharrt </a> <br/> <span><a href="https://www.theguardian.com/us-news/2025/feb/18/dnc-chair-outlines-pro-worker-union-focus">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1isacm3/dnc_chair_outlines_proworker_union_focus_in_first/">[comments]</a></span> </td></tr></table>
+
+## Musk is not a DOGE employee and "has no actual or formal authority," WH says
+ - [https://www.reddit.com/r/politics/comments/1is889w/musk_is_not_a_doge_employee_and_has_no_actual_or](https://www.reddit.com/r/politics/comments/1is889w/musk_is_not_a_doge_employee_and_has_no_actual_or)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:41:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1is889w/musk_is_not_a_doge_employee_and_has_no_actual_or/"> <img src="https://external-preview.redd.it/M2rTdIG_oqoqxRMzuFqxcqtGaYe4Yw_7gftxrBFmAzQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=91fc2a8b451e8a2ad4769a65a5bbd5c5c983d258" alt="Musk is not a DOGE employee and &quot;has no actual or formal authority,&quot; WH says" title="Musk is not a DOGE employee and &quot;has no actual or formal authority,&quot; WH says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tuxcali1"> /u/Tuxcali1 </a> <br/> <span><a href="https://www.axios.com/2025/02/18/musk-doge-authority-trump-white-house">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1is889w/musk_is_not_a_doge_employee_and_has_no_actual_or/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk Not DOGE Administrator, White House Says: New Court Filing
+ - [https://www.reddit.com/r/politics/comments/1is522y/elon_musk_not_doge_administrator_white_house_says](https://www.reddit.com/r/politics/comments/1is522y/elon_musk_not_doge_administrator_white_house_says)
+ - RSS feed: $source
+ - date published: 2025-02-18T05:09:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1is522y/elon_musk_not_doge_administrator_white_house_says/"> <img src="https://external-preview.redd.it/Yci5DAV3wrRdGgbzhaiP_q7AJzU9b4sD20BJSatF3sY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=29283070438be37f94f36437286ea625c61cccae" alt="Elon Musk Not DOGE Administrator, White House Says: New Court Filing" title="Elon Musk Not DOGE Administrator, White House Says: New Court Filing" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sweatycat"> /u/sweatycat </a> <br/> <span><a href="https://www.newsweek.com/elon-musk-doge-administrator-white-house-advisor-2032455">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1is522y/elon_musk_not_doge_administrator_white_house_says/">[comments]</a></span> </td></tr></table>
+
+## There’s No Way Elon Musk’s Job is Legal
+ - [https://www.reddit.com/r/politics/comments/1is23r9/theres_no_way_elon_musks_job_is_legal](https://www.reddit.com/r/politics/comments/1is23r9/theres_no_way_elon_musks_job_is_legal)
+ - RSS feed: $source
+ - date published: 2025-02-18T02:30:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1is23r9/theres_no_way_elon_musks_job_is_legal/"> <img src="https://external-preview.redd.it/zWPmhj8gw-5LHEKpYf3kr8N8D4KMi87bs9JTMVgeZVk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d31f3df96043758996159c88ac97b5b2fe278b6" alt="There’s No Way Elon Musk’s Job is Legal" title="There’s No Way Elon Musk’s Job is Legal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tuxcali1"> /u/Tuxcali1 </a> <br/> <span><a href="https://www.motherjones.com/politics/2025/02/elon-musk-doge-special-government-employee/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1is23r9/theres_no_way_elon_musks_job_is_legal/">[comments]</a></span> </td></tr></table>
+
+## Anti-Trump 50501 Protests Break Out Across the Country
+ - [https://www.reddit.com/r/politics/comments/1is1t93/antitrump_50501_protests_break_out_across_the](https://www.reddit.com/r/politics/comments/1is1t93/antitrump_50501_protests_break_out_across_the)
+ - RSS feed: $source
+ - date published: 2025-02-18T02:16:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1is1t93/antitrump_50501_protests_break_out_across_the/"> <img src="https://external-preview.redd.it/K4HtuCzMjv6Dx8XClbdb_hSS35RMEajrxajbtL0xvhY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d53e8b30681611b2e6a62282ea6dad102cfcd306" alt="Anti-Trump 50501 Protests Break Out Across the Country" title="Anti-Trump 50501 Protests Break Out Across the Country" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BadSignificant8458"> /u/BadSignificant8458 </a> <br/> <span><a href="https://newrepublic.com/post/191612/anti-trump-50501-protests-presidents-day">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1is1t93/antitrump_50501_protests_break_out_across_the/">[comments]</a></span> </td></tr></table>
+
+## Musk Slammed as Hypocritical ‘Parasite’ Who Sucked the Government Dry Himself
+ - [https://www.reddit.com/r/politics/comments/1is1q1u/musk_slammed_as_hypocritical_parasite_who_sucked](https://www.reddit.com/r/politics/comments/1is1q1u/musk_slammed_as_hypocritical_parasite_who_sucked)
+ - RSS feed: $source
+ - date published: 2025-02-18T02:11:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1is1q1u/musk_slammed_as_hypocritical_parasite_who_sucked/"> <img src="https://external-preview.redd.it/1HxzMIjtwY14D_pYOW2yVq0kz4LatRz-yM6sa95FI30.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4ae0b77b48f6fd9a9b0f9da255eb2fc8af4ec87" alt="Musk Slammed as Hypocritical ‘Parasite’ Who Sucked the Government Dry Himself" title="Musk Slammed as Hypocritical ‘Parasite’ Who Sucked the Government Dry Himself" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br/> <span><a href="https://www.thedailybeast.com/musk-slammed-as-hypocritical-parasite-who-sucked-the-government-dry-himself/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1is1q1u/musk_slammed_as_hypocritical_parasite_who_sucked/">[comments]</a></span> </td></tr></table>
+
+## Thousands Gather on Presidents’ Day to Call Trump a Tyrant
+ - [https://www.reddit.com/r/politics/comments/1is1ab0/thousands_gather_on_presidents_day_to_call_trump](https://www.reddit.com/r/politics/comments/1is1ab0/thousands_gather_on_presidents_day_to_call_trump)
+ - RSS feed: $source
+ - date published: 2025-02-18T01:50:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1is1ab0/thousands_gather_on_presidents_day_to_call_trump/"> <img src="https://external-preview.redd.it/fJOSu5nV-QzWBkbvg1OL2_ecDith3MaGfqmnpHDYzkc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ebb25b0680d2ef780eb19df56236fe1d58e86f8" alt="Thousands Gather on Presidents’ Day to Call Trump a Tyrant" title="Thousands Gather on Presidents’ Day to Call Trump a Tyrant" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LaserCondiment"> /u/LaserCondiment </a> <br/> <span><a href="https://www.nytimes.com/2025/02/17/us/politics/trump-musk-protests-50501-presidents-day.html?smid=nytcore-ios-share&amp;referringSource=articleShare">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1is1ab0/thousands_gather_on_presidents_day_to_call_trump/">[comments]</a></span> </td></tr></table>
+
+## FDA staff were reviewing Elon Musk’s brain implant company. DOGE just fired them.
+ - [https://www.reddit.com/r/politics/comments/1is19yb/fda_staff_were_reviewing_elon_musks_brain_implant](https://www.reddit.com/r/politics/comments/1is19yb/fda_staff_were_reviewing_elon_musks_brain_implant)
+ - RSS feed: $source
+ - date published: 2025-02-18T01:49:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1is19yb/fda_staff_were_reviewing_elon_musks_brain_implant/"> <img src="https://external-preview.redd.it/Y4DL8XGV42L_yeHWPjBI5LNBG63LcenEIo0-ZIpRTVs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6fd08163161883a4eaf0cc211101a1a43a54f878" alt="FDA staff were reviewing Elon Musk’s brain implant company. DOGE just fired them." title="FDA staff were reviewing Elon Musk’s brain implant company. DOGE just fired them." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorkingOnPPL"> /u/WorkingOnPPL </a> <br/> <span><a href="https://www.usatoday.com/story/news/politics/2025/02/17/fda-elon-musk-neuralink-doge-trump/79000197007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1is19yb/fda_staff_were_reviewing_elon_musks_brain_implant/">[comments]</a></span> </td></tr></table>
+
+## ‘F--- Trump and his deal’: US military volunteers in Ukraine rail against peace plan
+ - [https://www.reddit.com/r/politics/comments/1is17xw/f_trump_and_his_deal_us_military_volunteers_in](https://www.reddit.com/r/politics/comments/1is17xw/f_trump_and_his_deal_us_military_volunteers_in)
+ - RSS feed: $source
+ - date published: 2025-02-18T01:46:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1is17xw/f_trump_and_his_deal_us_military_volunteers_in/"> <img src="https://external-preview.redd.it/9-TGIj5Xif3inLoNqvrm0yoi8ABUuXflOqaYlexMJnw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e935fb0b05278cc57bf53d3a24b31d2d56bcb7e6" alt="‘F--- Trump and his deal’: US military volunteers in Ukraine rail against peace plan" title="‘F--- Trump and his deal’: US military volunteers in Ukraine rail against peace plan" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Antique-Entrance-229"> /u/Antique-Entrance-229 </a> <br/> <span><a href="https://www.telegraph.co.uk/world-news/2025/02/17/trump-deal-putin-us-military-volunteers-ukraine-peace/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1is17xw/f_trump_and_his_deal_us_military_volunteers_in/">[comments]</a></span> </td></tr></table>
+
+## A fired national park ranger lost his dream job. He says the public is losing more
+ - [https://www.reddit.com/r/politics/comments/1is0416/a_fired_national_park_ranger_lost_his_dream_job](https://www.reddit.com/r/politics/comments/1is0416/a_fired_national_park_ranger_lost_his_dream_job)
+ - RSS feed: $source
+ - date published: 2025-02-18T00:53:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1is0416/a_fired_national_park_ranger_lost_his_dream_job/"> <img src="https://external-preview.redd.it/I7i8_zVF52zOCHg48vVymhOIlBDrldyP6gKJqnjg1Ag.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc2b1592821c1577e04ebf646445fdcd76b7d8f1" alt="A fired national park ranger lost his dream job. He says the public is losing more" title="A fired national park ranger lost his dream job. He says the public is losing more" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nosotros_road_sodium"> /u/nosotros_road_sodium </a> <br/> <span><a href="https://www.npr.org/2025/02/17/nx-s1-5298684/national-park-ranger-trump-job-cuts-nps">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1is0416/a_fired_national_park_ranger_lost_his_dream_job/">[comments]</a></span> </td></tr></table>
+
+## Astronauts push back on Donald Trump's claim Joe Biden abandoned them on space station
+ - [https://www.reddit.com/r/politics/comments/1is02m9/astronauts_push_back_on_donald_trumps_claim_joe](https://www.reddit.com/r/politics/comments/1is02m9/astronauts_push_back_on_donald_trumps_claim_joe)
+ - RSS feed: $source
+ - date published: 2025-02-18T00:51:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1is02m9/astronauts_push_back_on_donald_trumps_claim_joe/"> <img src="https://external-preview.redd.it/o4Jmdb8uBoLvtMsDYEoOaCL-77mtOmZmjUP0lvsM8U8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4147993ea45b6a7366dac4620a86b315fe37d778" alt="Astronauts push back on Donald Trump's claim Joe Biden abandoned them on space station" title="Astronauts push back on Donald Trump's claim Joe Biden abandoned them on space station" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Healthy_Block3036"> /u/Healthy_Block3036 </a> <br/> <span><a href="https://thehill.com/homenews/space/5147018-astronauts-trump-biden-space-station/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1is02m9/astronauts_push_back_on_donald_trumps_claim_joe/">[comments]</a></span> </td></tr></table>
+

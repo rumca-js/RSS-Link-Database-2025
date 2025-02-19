@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-18T12:45:53+00:00",
+        "description": "<p>Kto\u015b udost\u0119pni\u0142 w serwisie Docer.pl mn\u00f3stwo dokument\u00f3w m.in. z wykazami operacji, adresami i nazwiskami klient\u00f3w polskich bank\u00f3w. Zakres tego wycieku zdecydowanie nie pozwala go potraktowa\u0107 jako drobnego incydentu.</p>\n<p><span id=\"more-26282\"></span></p>\n<p>Serwis Docer.pl to &#8220;schowek na pliki&#8221;, kt\u00f3ry pozwala wygodnie przechowywa\u0107 i udost\u0119pnia\u0107 r\u00f3\u017cne dokumenty. Ludzie z bran\u017cy bezpiecze\u0144stwa i OSINT doskonale wiedz\u0105, \u017ce na Docera trafiaj\u0105 dokumenty z wra\u017cliwymi danymi, zwykle w wyniku drobnych pomy\u0142ek. Ju\u017c <a href=\"https://niebezpiecznik.pl/post/tysiace-skanow-dokumentow-z-danymi-polakow-sa-publicznie-dostepne-dowody-prawa-jazdy-umowy/\">wiele lat temu pisali\u015bmy</a>, \u017ce ludzie potrafi\u0105 w nim udost\u0119pni\u0107 (mniej lub bardziej \u015bwiadomie) skany dowod\u00f3w osobistych, dokumenty bankowe, akty notarialne, dokumenty wizowe, zeznania dla skarb\u00f3wki, patenty \u017ceglarskie i wiele innych r\u00f3wnie ciekawych rzeczy.</p>\n<p>Znalezienie w Docerze jednego czy dw\u00f3ch takich dokument\u00f3w to nic dziwn",
+        "id": 2139872,
+        "language": null,
+        "link": "https://niebezpiecznik.pl/post/tajemnice-bankowe-i-inne-wrazliwe-dane-polakow-lataja-po-docer-pl",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tajemnice bankowe i inne wra\u017cliwe dane Polak\u00f3w lataj\u0105 po Docer.pl",
+        "vote": 0
+    }
+]

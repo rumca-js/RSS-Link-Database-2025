@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-18T22:15:36+00:00",
+        "description": "In a new paper, digital activist Audrey Tang and others emphasize the need for context and community over clicks.",
+        "id": 2143462,
+        "language": "en-UK",
+        "link": "https://time.com/7258238/social-media-tang-siddarth-weyl",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 317,
+        "source_url": "https://time.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Social Media Fails Many Users. Experts Have an Idea to Fix It",
+        "vote": 0
+    }
+]

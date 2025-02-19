@@ -1,0 +1,373 @@
+# Source:Piracy: ꜱᴀɪʟ ᴛʜᴇ ʜɪɢʜ ꜱᴇᴀꜱ, URL:https://www.reddit.com/r/Piracy/.rss, language:
+
+## Why does this happen to me on every movie website?
+ - [https://www.reddit.com/r/Piracy/comments/1isqk43/why_does_this_happen_to_me_on_every_movie_website](https://www.reddit.com/r/Piracy/comments/1isqk43/why_does_this_happen_to_me_on_every_movie_website)
+ - RSS feed: $source
+ - date published: 2025-02-18T23:25:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>There is a thing that happens to me on every movie website - which kinda points that there&#39;s something wrong with me or my device. </p> <p>So to not overdue - the &quot;thing&quot; is that when I start watching something it will pause at a random moment and load on loop. My internet is more than fine, I&#39;ve tested literally everything - all adblocks/antivirus/proxy/VPN OFF - incognito, different browser and plenty of different movie websites from FMHY, and plenty of different streaming sources - the issue repeats itself over and over. </p> <p>Idk what else can I do, nothing seems to be fucking working, there&#39;re no options left</p> <p>AND - also let me clear one thing right away, as I know the comments about any movie-related subject will flood with &quot;Stremio&quot; - I don&#39;t personally feel ok with using it, as great and amazing as it is it also caries some risks, I&#39;m non-tech so I don&#39;t want to deal with all of that, and th
+
+## i really need a music app
+ - [https://www.reddit.com/r/Piracy/comments/1isqgcz/i_really_need_a_music_app](https://www.reddit.com/r/Piracy/comments/1isqgcz/i_really_need_a_music_app)
+ - RSS feed: $source
+ - date published: 2025-02-18T23:21:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>i keep finding really good suggestions for free music apps but they&#39;re all for android. is there any good ones for iPhone. idc if it needs data or wifi i just don&#39;t want the ads </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/green_jade13"> /u/green_jade13 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isqgcz/i_really_need_a_music_app/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isqgcz/i_really_need_a_music_app/">[comments]</a></span>
+
+## what happened to binged
+ - [https://www.reddit.com/r/Piracy/comments/1isq8as/what_happened_to_binged](https://www.reddit.com/r/Piracy/comments/1isq8as/what_happened_to_binged)
+ - RSS feed: $source
+ - date published: 2025-02-18T23:12:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>i entered the site domain and there were nothing it only ansked to turn the ad block off when i turned of just showed me some ads its the site gone ? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MINERVA________"> /u/MINERVA________ </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isq8as/what_happened_to_binged/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isq8as/what_happened_to_binged/">[comments]</a></span>
+
+## So GOATED for admitting it!!
+ - [https://www.reddit.com/r/Piracy/comments/1ispxrr/so_goated_for_admitting_it](https://www.reddit.com/r/Piracy/comments/1ispxrr/so_goated_for_admitting_it)
+ - RSS feed: $source
+ - date published: 2025-02-18T23:00:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1ispxrr/so_goated_for_admitting_it/"> <img src="https://b.thumbs.redditmedia.com/y694bRpY1ff8d9CPE3IJ3yKI-YH-KwpFmpfQzWHZmDc.jpg" alt="So GOATED for admitting it!!" title="So GOATED for admitting it!!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/beingimmature"> /u/beingimmature </a> <br/> <span><a href="https://www.reddit.com/gallery/1ispxrr">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1ispxrr/so_goated_for_admitting_it/">[comments]</a></span> </td></tr></table>
+
+## LaLiga Blocks Cloudflare Again, New Pirate IPTV Providers & Anything in The Way * TorrentFreak
+ - [https://www.reddit.com/r/Piracy/comments/1ispkk0/laliga_blocks_cloudflare_again_new_pirate_iptv](https://www.reddit.com/r/Piracy/comments/1ispkk0/laliga_blocks_cloudflare_again_new_pirate_iptv)
+ - RSS feed: $source
+ - date published: 2025-02-18T22:45:50+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/LZ129Hindenburg"> /u/LZ129Hindenburg </a> <br/> <span><a href="https://torrentfreak.com/laliga-blocks-cloudflare-again-new-pirate-iptv-providers-anything-in-the-way-250218/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1ispkk0/laliga_blocks_cloudflare_again_new_pirate_iptv/">[comments]</a></span>
+
+## Pirated DLC
+ - [https://www.reddit.com/r/Piracy/comments/1isofe3/pirated_dlc](https://www.reddit.com/r/Piracy/comments/1isofe3/pirated_dlc)
+ - RSS feed: $source
+ - date published: 2025-02-18T21:35:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have Elden Ring in my Steam Family, without the dlc Is it possible to Pirate the dlc and still Play it normal with Steam? And If yes, how?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Max_305"> /u/Max_305 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isofe3/pirated_dlc/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isofe3/pirated_dlc/">[comments]</a></span>
+
+## Question regarding stremio, torrentio & multiple debrid providers
+ - [https://www.reddit.com/r/Piracy/comments/1iso21t/question_regarding_stremio_torrentio_multiple](https://www.reddit.com/r/Piracy/comments/1iso21t/question_regarding_stremio_torrentio_multiple)
+ - RSS feed: $source
+ - date published: 2025-02-18T21:20:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ive read up a bit on a few providers and they all dont seem to be perfect. So i was thinking about using two or a few of them parallel to have more cached content available.</p> <p>Would this be possible to configure with a stremio + torrentio setup?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/grilledSoldier"> /u/grilledSoldier </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1iso21t/question_regarding_stremio_torrentio_multiple/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1iso21t/question_regarding_stremio_torrentio_multiple/">[comments]</a></span>
+
+## Sites
+ - [https://www.reddit.com/r/Piracy/comments/1isnxxv/sites](https://www.reddit.com/r/Piracy/comments/1isnxxv/sites)
+ - RSS feed: $source
+ - date published: 2025-02-18T21:15:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>Are there any other websites like <a href="http://showbox.media">showbox.media</a> online? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Trick_Orchid_2125"> /u/Trick_Orchid_2125 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isnxxv/sites/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isnxxv/sites/">[comments]</a></span>
+
+## Deluge on Windows not stopping torrents when I shutdown pc?
+ - [https://www.reddit.com/r/Piracy/comments/1ismy7c/deluge_on_windows_not_stopping_torrents_when_i](https://www.reddit.com/r/Piracy/comments/1ismy7c/deluge_on_windows_not_stopping_torrents_when_i)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:36:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m Seeding my private tracker torrents with deluge on Windows. The problem is that when I shutdown or reboot my computer, it doesn&#39;t send stop notification to the private trackers and the torrents are still active. If I start the computer again soon, I have ghost peers for all of my torrents. How do I fix it and make send stop notification to the private trackers before it&#39;s shut down?</p> <p>Note: Deluge on windows doesn&#39;t have a checkbox to start automatically when Windows starts, I had to add a task in task scheduler to do it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mashic"> /u/Mashic </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1ismy7c/deluge_on_windows_not_stopping_torrents_when_i/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1ismy7c/deluge_on_windows_not_stopping_torrents_when_i/">[comments]</a></span>
+
+## Books? LibGen is down, Anna's Archive is clogged up.
+ - [https://www.reddit.com/r/Piracy/comments/1ismwjj/books_libgen_is_down_annas_archive_is_clogged_up](https://www.reddit.com/r/Piracy/comments/1ismwjj/books_libgen_is_down_annas_archive_is_clogged_up)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:34:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>I finished reading a book recently and when logging into Library Genesis I find out not only my usual mirror is down, most of them are and the few that work don&#39;t have direct download links, instead, request links you have to paste on their Discord so a bot grants you a link... that doesn&#39;t work either because their servers are saturated.</p> <p>Anna&#39;s Archive free downloads are also saturated, and none I&#39;ve tried were working.</p> <p>In their subreddit <a href="/r/libgen">r/libgen</a> the word is the zuckerborg has been hoarding/collapsing all their traffic to train his AI model, Llama, at the expense of others.</p> <p>Really dystopian take on all this. I have almost a decade religiously downloading a book each 1 or 2 months only to find, yet again, another megacorporation, is enshittifying something I like.</p> <p>Where can I pirate knowledge now?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user
+
+## Source of TTRPG books?
+ - [https://www.reddit.com/r/Piracy/comments/1ismukm/source_of_ttrpg_books](https://www.reddit.com/r/Piracy/comments/1ismukm/source_of_ttrpg_books)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:32:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I usually use the-eye, but for at least two days now it has not loaded and I am starting to get worried that it is not coming back. Much like the Trove back in the day. Does anyone have other sites? FYI the reason I need a site isn&#39;t so much for myself but for my players. I have downloaded the books long ago. But I need an easy access source for my players, especially my less tech savvy players.</p> <p>I did look in the mega thread, but I did not see something there for TTRPG&#39;s</p> <p>Thanks in advance.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Psychotic_EGG"> /u/Psychotic_EGG </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1ismukm/source_of_ttrpg_books/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1ismukm/source_of_ttrpg_books/">[comments]</a></span>
+
+## Thoughts on the superbox ?
+ - [https://www.reddit.com/r/Piracy/comments/1ismnuc/thoughts_on_the_superbox](https://www.reddit.com/r/Piracy/comments/1ismnuc/thoughts_on_the_superbox)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:25:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>They’re advertising them all over tiktok live. Thinking about buying one</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Panda1855"> /u/Ok-Panda1855 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1ismnuc/thoughts_on_the_superbox/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1ismnuc/thoughts_on_the_superbox/">[comments]</a></span>
+
+## Should I keep streaming from my phone and broadcast to TV or should I buy a firestick and get stremio?
+ - [https://www.reddit.com/r/Piracy/comments/1ismlkv/should_i_keep_streaming_from_my_phone_and](https://www.reddit.com/r/Piracy/comments/1ismlkv/should_i_keep_streaming_from_my_phone_and)
+ - RSS feed: $source
+ - date published: 2025-02-18T20:22:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys I&#39;m from Mexico so no need for a VPN. I usually just stream from my phone from different websites to my tv. I&#39;ve been thinking of alternatives such as the one mentioned on the question, just getting a firestick and installing stremio or whatever option you guys recommend to make it easier. Is it really worth it or should I continue the way I&#39;m doing it.</p> <p>Or is there an additional option I haven&#39;t thought of.</p> <p>Please and thank you guys.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MaleficentBlood9498"> /u/MaleficentBlood9498 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1ismlkv/should_i_keep_streaming_from_my_phone_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1ismlkv/should_i_keep_streaming_from_my_phone_and/">[comments]</a></span>
+
+## Mega thread related
+ - [https://www.reddit.com/r/Piracy/comments/1islgwh/mega_thread_related](https://www.reddit.com/r/Piracy/comments/1islgwh/mega_thread_related)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:37:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Thank you to this sub mega thread it discuss all thing .</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Legendop2417"> /u/Legendop2417 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1islgwh/mega_thread_related/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1islgwh/mega_thread_related/">[comments]</a></span>
+
+## Android Game DLC Transfer
+ - [https://www.reddit.com/r/Piracy/comments/1isleat/android_game_dlc_transfer](https://www.reddit.com/r/Piracy/comments/1isleat/android_game_dlc_transfer)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:34:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi guys! So there is this game I play on my phone called Cytus 2, and a while ago I bought DLC for it, but have since lost it and support does not help at all, my question is, from using a cracked copy of the game, is there anyway I can transfer ALL the dlc (including ones I never bought) to the files of the main application from the play store? Maybe something to do with data or obb files? Thank you!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Chr1st1an-"> /u/Chr1st1an- </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isleat/android_game_dlc_transfer/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isleat/android_game_dlc_transfer/">[comments]</a></span>
+
+## Monkrus - Pr and Ps
+ - [https://www.reddit.com/r/Piracy/comments/1isle9s/monkrus_pr_and_ps](https://www.reddit.com/r/Piracy/comments/1isle9s/monkrus_pr_and_ps)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:34:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1isle9s/monkrus_pr_and_ps/"> <img src="https://a.thumbs.redditmedia.com/OknTyvOx3K90WCrePfqhDYVgOZAJnBwSNO8enPnJx98.jpg" alt="Monkrus - Pr and Ps" title="Monkrus - Pr and Ps" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Is it safe to run?, first time using monkrus </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/randomstruggler"> /u/randomstruggler </a> <br/> <span><a href="https://www.reddit.com/gallery/1isle9s">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isle9s/monkrus_pr_and_ps/">[comments]</a></span> </td></tr></table>
+
+## The first game You pirated
+ - [https://www.reddit.com/r/Piracy/comments/1isl44c/the_first_game_you_pirated](https://www.reddit.com/r/Piracy/comments/1isl44c/the_first_game_you_pirated)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:23:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>What was the first game You personally pirated (downloaded)? Which thoughts and feelings went through Your head? How long did it take to download and over which connection?</p> <p>For me it was Heretic over 56k modem. IIRC the size was 10MB give or take. In reality it took several hours and connection dropped a few times. Did it at night when my parents were asleep, sweat pouring and heart pounding, constantly glaring at the screen. Downloaded off an shady FTP server. </p> <p>I swear I was waiting for some three letter agency to come a knockin&#39; in the following days. Seems I dodged a bullet. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drezster"> /u/drezster </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isl44c/the_first_game_you_pirated/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isl44c/the_first_game_you_pirated/">[comments]</a></span>
+
+## I need help, what do i do from here, when i try to run the game it says „steam must be running to play the game“
+ - [https://www.reddit.com/r/Piracy/comments/1isktsl/i_need_help_what_do_i_do_from_here_when_i_try_to](https://www.reddit.com/r/Piracy/comments/1isktsl/i_need_help_what_do_i_do_from_here_when_i_try_to)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:11:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1isktsl/i_need_help_what_do_i_do_from_here_when_i_try_to/"> <img src="https://preview.redd.it/fve4bj6j5yje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cc38c49487652d35afb2d5948b7ac1c6b9192bf8" alt="I need help, what do i do from here, when i try to run the game it says „steam must be running to play the game“" title="I need help, what do i do from here, when i try to run the game it says „steam must be running to play the game“" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Thank_you532"> /u/Thank_you532 </a> <br/> <span><a href="https://i.redd.it/fve4bj6j5yje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isktsl/i_need_help_what_do_i_do_from_here_when_i_try_to/">[comments]</a></span> </td></tr></table>
+
+## Rips of 4k or bluray hdr quality
+ - [https://www.reddit.com/r/Piracy/comments/1isknbi/rips_of_4k_or_bluray_hdr_quality](https://www.reddit.com/r/Piracy/comments/1isknbi/rips_of_4k_or_bluray_hdr_quality)
+ - RSS feed: $source
+ - date published: 2025-02-18T19:04:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>A question for you guys do all rips of Blu-rays and 4k webrips have the same hdr as the original source or does the quality vary by groups. And what group (framestor, flux, epsilon etc) has the best hdr quality</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Morgin187"> /u/Morgin187 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isknbi/rips_of_4k_or_bluray_hdr_quality/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isknbi/rips_of_4k_or_bluray_hdr_quality/">[comments]</a></span>
+
+## 4k webDL vs 1080p Bluray remux
+ - [https://www.reddit.com/r/Piracy/comments/1isjjwq/4k_webdl_vs_1080p_bluray_remux](https://www.reddit.com/r/Piracy/comments/1isjjwq/4k_webdl_vs_1080p_bluray_remux)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:22:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have asked this before but this is a bit different. </p> <p>What is better 4k webDL 5.1 DD Dolby Atmos vs 1080p Bluray remux 7.1 channel audio or 5.1 lossless but no Atmos (I know sometimes they do now have atmos). </p> <p>On a modern 4K movie, say Paddington in peru. What is better? I know the bluray is bigger but I hear the encoding is the issue and at 1/2 the size the 4k could be similar quality or better if it is coming from a 4k source with better encoding. </p> <p>I know old movies not remastered for 4k, with 4k upscale web releases will not be better than the 1080p bluray. Also, no one seems to do hybrid 4k web releases with lossless audio from the bluray.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ozfer"> /u/Ozfer </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isjjwq/4k_webdl_vs_1080p_bluray_remux/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comment
+
+## Kemono.su not updating recently and some artists are not found there, any alternatives?
+ - [https://www.reddit.com/r/Piracy/comments/1isjdw7/kemonosu_not_updating_recently_and_some_artists](https://www.reddit.com/r/Piracy/comments/1isjdw7/kemonosu_not_updating_recently_and_some_artists)
+ - RSS feed: $source
+ - date published: 2025-02-18T18:15:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>Provide the link plz</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/King_Diavlo"> /u/King_Diavlo </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isjdw7/kemonosu_not_updating_recently_and_some_artists/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isjdw7/kemonosu_not_updating_recently_and_some_artists/">[comments]</a></span>
+
+## Signing up with google
+ - [https://www.reddit.com/r/Piracy/comments/1isiemi/signing_up_with_google](https://www.reddit.com/r/Piracy/comments/1isiemi/signing_up_with_google)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:37:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1isiemi/signing_up_with_google/"> <img src="https://preview.redd.it/xm6ehl6ooxje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=753179d4cb0cee1537d557fa725b9bab26a0e6c9" alt="Signing up with google" title="Signing up with google" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Is there any way to sign up with Google in moded apks?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Steveee_01"> /u/Steveee_01 </a> <br/> <span><a href="https://i.redd.it/xm6ehl6ooxje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isiemi/signing_up_with_google/">[comments]</a></span> </td></tr></table>
+
+## Any telegram music bot that downloads in aiff lossless?
+ - [https://www.reddit.com/r/Piracy/comments/1isiaxf/any_telegram_music_bot_that_downloads_in_aiff](https://www.reddit.com/r/Piracy/comments/1isiaxf/any_telegram_music_bot_that_downloads_in_aiff)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:32:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know a bunch of bots out there, some of which do download lossless in flac but haven&#39;t found any that download in aiff from beatport / bandcamp or elsewhere. TIA!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/crazycouponman"> /u/crazycouponman </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isiaxf/any_telegram_music_bot_that_downloads_in_aiff/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isiaxf/any_telegram_music_bot_that_downloads_in_aiff/">[comments]</a></span>
+
+## Sirius xm
+ - [https://www.reddit.com/r/Piracy/comments/1isi71v/sirius_xm](https://www.reddit.com/r/Piracy/comments/1isi71v/sirius_xm)
+ - RSS feed: $source
+ - date published: 2025-02-18T17:28:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Are there any websites that stream SiriusXM channels for free?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RockPaperjonny"> /u/RockPaperjonny </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isi71v/sirius_xm/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isi71v/sirius_xm/">[comments]</a></span>
+
+## Through and through
+ - [https://www.reddit.com/r/Piracy/comments/1isf8fg/through_and_through](https://www.reddit.com/r/Piracy/comments/1isf8fg/through_and_through)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:27:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1isf8fg/through_and_through/"> <img src="https://external-preview.redd.it/bm13cGMwYmsxeGplMfqXTjmyuAMp3GA3dmvsRYQlwDEZ7sKJs32ScJV21CBZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3392b1bd889ae3fe86d5819e14e80159587060e8" alt="Through and through" title="Through and through" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/loki4225"> /u/loki4225 </a> <br/> <span><a href="https://v.redd.it/ovsq4hkk1xje1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isf8fg/through_and_through/">[comments]</a></span> </td></tr></table>
+
+## Password to cgdownload.ru courses
+ - [https://www.reddit.com/r/Piracy/comments/1isem39/password_to_cgdownloadru_courses](https://www.reddit.com/r/Piracy/comments/1isem39/password_to_cgdownloadru_courses)
+ - RSS feed: $source
+ - date published: 2025-02-18T15:01:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>so, I was looking for a course on 3D modelling and decided to pirate a 250 dollar course from cgdownload.ru, it let me download my files but the .rar files are password protected. looked on the website, found no password. apparently you have to pay 13 dollars to get the password through email, that&#39;s bullshit. </p> <p>anyone know what the file password? is it different for different files? :(</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DigitalCucumber123"> /u/DigitalCucumber123 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isem39/password_to_cgdownloadru_courses/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isem39/password_to_cgdownloadru_courses/">[comments]</a></span>
+
+## How the hell was it THIS convenient?!?😭
+ - [https://www.reddit.com/r/Piracy/comments/1iseemj/how_the_hell_was_it_this_convenient](https://www.reddit.com/r/Piracy/comments/1iseemj/how_the_hell_was_it_this_convenient)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:51:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1iseemj/how_the_hell_was_it_this_convenient/"> <img src="https://preview.redd.it/94uoxiq3vwje1.gif?width=640&amp;crop=smart&amp;s=ca6833dca37767ee53edccef52f6a940904e939a" alt="How the hell was it THIS convenient?!?😭" title="How the hell was it THIS convenient?!?😭" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/arthurmorgan360"> /u/arthurmorgan360 </a> <br/> <span><a href="https://i.redd.it/94uoxiq3vwje1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1iseemj/how_the_hell_was_it_this_convenient/">[comments]</a></span> </td></tr></table>
+
+## Looking for help
+ - [https://www.reddit.com/r/Piracy/comments/1isduxv/looking_for_help](https://www.reddit.com/r/Piracy/comments/1isduxv/looking_for_help)
+ - RSS feed: $source
+ - date published: 2025-02-18T14:26:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am looking to get rid of streaming services and have been using stremio and a debrid service for the last month.</p> <p>The only thing stopping me is that we have an amazon fire tablet that our little one uses to watch disney+ (Bluey, Spidey etc).</p> <p>Can anyone recommend on how best to have content for a little one, that we can control the content available? Not against getting an android device for this if easier.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Circle-Burn"> /u/Circle-Burn </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isduxv/looking_for_help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isduxv/looking_for_help/">[comments]</a></span>
+
+## Ripping kindle books from android app
+ - [https://www.reddit.com/r/Piracy/comments/1isd65g/ripping_kindle_books_from_android_app](https://www.reddit.com/r/Piracy/comments/1isd65g/ripping_kindle_books_from_android_app)
+ - RSS feed: $source
+ - date published: 2025-02-18T13:54:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Folks, does anyone know how to rip a kindle book from the android app? I dont own a kindle device but I have an androis phone with the kindle app and a bunch of different purchases id like to extract.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thebigbadwolf22"> /u/thebigbadwolf22 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isd65g/ripping_kindle_books_from_android_app/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isd65g/ripping_kindle_books_from_android_app/">[comments]</a></span>
+
+## Can I delete all files from chrome and not lose my downloads?
+ - [https://www.reddit.com/r/Piracy/comments/1iscs52/can_i_delete_all_files_from_chrome_and_not_lose](https://www.reddit.com/r/Piracy/comments/1iscs52/can_i_delete_all_files_from_chrome_and_not_lose)
+ - RSS feed: $source
+ - date published: 2025-02-18T13:34:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>Old man Luddite trying to navigate the online world here. </p> <p>I discovered how to download comics using my iPad from getcomics. My iPad is full and looking at storage the most used up comes from Chrome since this is where if used the website and made the downloads from. </p> <p>Every time a file finished downloading I would select open in Panels (the reading app). Then it would either be there or it would be a zip file to unzip and then I can read them. </p> <p>I tested deleting one title from chrome but noticed I then lost it also in the Panels app. Though I might have messed up and accidentally deleted wrong. </p> <p>TL;DR is: Can I just delete all files in Chrome and it’ll keep all my titles in the Panels app all safe?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AllHailThePig"> /u/AllHailThePig </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1iscs52/can_i_delete_all_files_from_chrom
+
+## Is there a way to capture a video from an android app, tried screen recording but no avail , plz help i have limited access
+ - [https://www.reddit.com/r/Piracy/comments/1isckfr/is_there_a_way_to_capture_a_video_from_an_android](https://www.reddit.com/r/Piracy/comments/1isckfr/is_there_a_way_to_capture_a_video_from_an_android)
+ - RSS feed: $source
+ - date published: 2025-02-18T13:23:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Proper-Bar_"> /u/Proper-Bar_ </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isckfr/is_there_a_way_to_capture_a_video_from_an_android/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isckfr/is_there_a_way_to_capture_a_video_from_an_android/">[comments]</a></span>
+
+## TeAM SolidSQUAD and cracked software safety
+ - [https://www.reddit.com/r/Piracy/comments/1isc1j2/team_solidsquad_and_cracked_software_safety](https://www.reddit.com/r/Piracy/comments/1isc1j2/team_solidsquad_and_cracked_software_safety)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:55:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello!</p> <p>Am interested in using some very specific simulation software that has been cracked by TeAM SolidSQUAD and is available in ru-tracker.</p> <p>Now my concern is any potential backdoor/spying/etc that might be present in the cracked license server as I&#39;d like to install the software on my personal PC. Fears only compounded <a href="https://www.reddit.com/r/Piracy/s/hKklsH63mk">by this prior post</a> </p> <p>I know I can just run it in a VM but that usually entails a performance loss, hence why ideally it would be on &quot;bare metal&quot;</p> <p>Cheers</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MaverickPT"> /u/MaverickPT </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isc1j2/team_solidsquad_and_cracked_software_safety/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isc1j2/team_solidsquad_and_cracked_software_safety/">[comments]</a></span>
+
+## Free alternative to My Family Cinema (MFC)?
+ - [https://www.reddit.com/r/Piracy/comments/1isbd7s/free_alternative_to_my_family_cinema_mfc](https://www.reddit.com/r/Piracy/comments/1isbd7s/free_alternative_to_my_family_cinema_mfc)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:17:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>My Family Cinema is an appication which function is, to my understanding, to organize and accessibly present content stored on third-party clouds from services like Google Drive. Given the simplicity of this functionality, it seems likely that there may be similar apps available that offer the same features at a lower or even nonexistent cost, as the expenses associated with this operation seem minimal. So, are there any free alternatives?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Debebi"> /u/Debebi </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isbd7s/free_alternative_to_my_family_cinema_mfc/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isbd7s/free_alternative_to_my_family_cinema_mfc/">[comments]</a></span>
+
+## Constant issues with buffering and shows/movies not starting on sites suggested on the megathread.
+ - [https://www.reddit.com/r/Piracy/comments/1isb2o0/constant_issues_with_buffering_and_showsmovies](https://www.reddit.com/r/Piracy/comments/1isb2o0/constant_issues_with_buffering_and_showsmovies)
+ - RSS feed: $source
+ - date published: 2025-02-18T12:00:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been using the sites on the megathread for ages with no issues but in the last few weeks I have been having issues everytime I try to watch something. I always get buffering but it normally happens about halfway through. Some sources are better but I always get it. Sometimes when switching source I just get a black screen and it doesn&#39;t even start to play. </p> <p>My internet is more than good enough for streaming. I use firefox with ublock orgin and privacy badger. </p> <p>Does anyone know how I can fix this? I just want to be able to watch shows and movies in peace. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FreedomEagle76"> /u/FreedomEagle76 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isb2o0/constant_issues_with_buffering_and_showsmovies/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isb2o0/constant_issues_with_buffering_and_showsmov
+
+## Does anybody know how to crack da vinci resolve studio?
+ - [https://www.reddit.com/r/Piracy/comments/1isaud5/does_anybody_know_how_to_crack_da_vinci_resolve](https://www.reddit.com/r/Piracy/comments/1isaud5/does_anybody_know_how_to_crack_da_vinci_resolve)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:45:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1isaud5/does_anybody_know_how_to_crack_da_vinci_resolve/"> <img src="https://preview.redd.it/m4pi1cmxxvje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5a92708f385edf66d06f1675e517a86c7dce3b3e" alt="Does anybody know how to crack da vinci resolve studio?" title="Does anybody know how to crack da vinci resolve studio?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CRASH_THE_WORLD"> /u/CRASH_THE_WORLD </a> <br/> <span><a href="https://i.redd.it/m4pi1cmxxvje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isaud5/does_anybody_know_how_to_crack_da_vinci_resolve/">[comments]</a></span> </td></tr></table>
+
+## TorrentGalaxy appears back online... sort of
+ - [https://www.reddit.com/r/Piracy/comments/1isat7h/torrentgalaxy_appears_back_online_sort_of](https://www.reddit.com/r/Piracy/comments/1isat7h/torrentgalaxy_appears_back_online_sort_of)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:43:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Missing a lot of images but seems somewhat functional.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Auzzie1077"> /u/Auzzie1077 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isat7h/torrentgalaxy_appears_back_online_sort_of/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isat7h/torrentgalaxy_appears_back_online_sort_of/">[comments]</a></span>
+
+## this generation really dont know about pirates and i lowkey like it
+ - [https://www.reddit.com/r/Piracy/comments/1isap7v/this_generation_really_dont_know_about_pirates](https://www.reddit.com/r/Piracy/comments/1isap7v/this_generation_really_dont_know_about_pirates)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:36:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1isap7v/this_generation_really_dont_know_about_pirates/"> <img src="https://preview.redd.it/vuqcsrabwvje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=56a76148576191bfbe0b59eed0a8e27c1f3bb742" alt="this generation really dont know about pirates and i lowkey like it" title="this generation really dont know about pirates and i lowkey like it" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>some of them knows websites and those kids just burst them all out in all social media platforms and all my homies will be down. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zealousideal-Fruit89"> /u/Zealousideal-Fruit89 </a> <br/> <span><a href="https://i.redd.it/vuqcsrabwvje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isap7v/this_generation_really_dont_know_about_pirates/">[comments]</a></span> </td></tr></table>
+
+## Mecabricks blender Advanced?
+ - [https://www.reddit.com/r/Piracy/comments/1isao51/mecabricks_blender_advanced](https://www.reddit.com/r/Piracy/comments/1isao51/mecabricks_blender_advanced)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:34:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Any idea if I could find a download for Blender Advanced from the Mecabricks shop. Tempted to buy it but I&#39;m not sure whether or not it&#39;s worth it yet. Since it&#39;s just a downloadable add-on there&#39;s bound to be a copy I can pirate.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LawdeecookieOwo"> /u/LawdeecookieOwo </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isao51/mecabricks_blender_advanced/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isao51/mecabricks_blender_advanced/">[comments]</a></span>
+
+## right now i have setup of stremio + RD + torrentio + mediafusion ….how can i enhance it or like get live tv/sports as well in this setup ?
+ - [https://www.reddit.com/r/Piracy/comments/1isagb2/right_now_i_have_setup_of_stremio_rd_torrentio](https://www.reddit.com/r/Piracy/comments/1isagb2/right_now_i_have_setup_of_stremio_rd_torrentio)
+ - RSS feed: $source
+ - date published: 2025-02-18T11:20:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>how do you watch football and cricket live ? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/joshisameer343"> /u/joshisameer343 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1isagb2/right_now_i_have_setup_of_stremio_rd_torrentio/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1isagb2/right_now_i_have_setup_of_stremio_rd_torrentio/">[comments]</a></span>
+
+## Sapphire plugin extension for Vegas 22?
+ - [https://www.reddit.com/r/Piracy/comments/1is9ukd/sapphire_plugin_extension_for_vegas_22](https://www.reddit.com/r/Piracy/comments/1is9ukd/sapphire_plugin_extension_for_vegas_22)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:39:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m trying to edit a sick AMV but every tutorial I can find on how to make one uses Sapphire. I&#39;m really struggling on how to download a compatible version and make Vegas detect the plugin. Any help is appreciated because I was going insane yesterday. Thanks all! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ChillChillyChris"> /u/ChillChillyChris </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1is9ukd/sapphire_plugin_extension_for_vegas_22/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1is9ukd/sapphire_plugin_extension_for_vegas_22/">[comments]</a></span>
+
+## Why are most remuxes done on dolby vision profile 7 when it cant be read by most places?
+ - [https://www.reddit.com/r/Piracy/comments/1is9nz9/why_are_most_remuxes_done_on_dolby_vision_profile](https://www.reddit.com/r/Piracy/comments/1is9nz9/why_are_most_remuxes_done_on_dolby_vision_profile)
+ - RSS feed: $source
+ - date published: 2025-02-18T10:26:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>Everytime a new remux releases I&#39;m excited for a second and then boom: profile 7 level 6. my LG C3 doesnt have hdr10+ to fall back on and it just plays on normal hdr 10. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dweakz"> /u/dweakz </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1is9nz9/why_are_most_remuxes_done_on_dolby_vision_profile/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1is9nz9/why_are_most_remuxes_done_on_dolby_vision_profile/">[comments]</a></span>
+
+## Book sources
+ - [https://www.reddit.com/r/Piracy/comments/1is8q88/book_sources](https://www.reddit.com/r/Piracy/comments/1is8q88/book_sources)
+ - RSS feed: $source
+ - date published: 2025-02-18T09:17:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Folks, there are quite a few books published in India that dont make it onto the popular piracy websites ie Z-Lib, Anna&#39;s archive, Libgen and OceanofPDF. Are there any other popular book sources that might hold more obscure titles? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thebigbadwolf22"> /u/thebigbadwolf22 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1is8q88/book_sources/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1is8q88/book_sources/">[comments]</a></span>
+
+## Always an exciting time on the Pirate Bay
+ - [https://www.reddit.com/r/Piracy/comments/1is85cc/always_an_exciting_time_on_the_pirate_bay](https://www.reddit.com/r/Piracy/comments/1is85cc/always_an_exciting_time_on_the_pirate_bay)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:35:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1is85cc/always_an_exciting_time_on_the_pirate_bay/"> <img src="https://preview.redd.it/j9nwhndwzuje1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8758f978e89483f64ba58a572e1860758d17400d" alt="Always an exciting time on the Pirate Bay" title="Always an exciting time on the Pirate Bay" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RogueWandering"> /u/RogueWandering </a> <br/> <span><a href="https://i.redd.it/j9nwhndwzuje1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1is85cc/always_an_exciting_time_on_the_pirate_bay/">[comments]</a></span> </td></tr></table>
+
+## Does storage become an issue for you?
+ - [https://www.reddit.com/r/Piracy/comments/1is7rx2/does_storage_become_an_issue_for_you](https://www.reddit.com/r/Piracy/comments/1is7rx2/does_storage_become_an_issue_for_you)
+ - RSS feed: $source
+ - date published: 2025-02-18T08:07:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Does anyone else have issues with storage? If so what are some tips cause I’m burning through a lot of space and my first ever 1TB SSD ran out of space in no time.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Yabbari_The_Wizard"> /u/Yabbari_The_Wizard </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1is7rx2/does_storage_become_an_issue_for_you/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1is7rx2/does_storage_become_an_issue_for_you/">[comments]</a></span>
+
+## I see many posts saying go to the megathread for Vegas Pro, yet I searched and searched and didn't find any reasonable download. I am not requesting it, just simply questioning the thread.
+ - [https://www.reddit.com/r/Piracy/comments/1is7kt9/i_see_many_posts_saying_go_to_the_megathread_for](https://www.reddit.com/r/Piracy/comments/1is7kt9/i_see_many_posts_saying_go_to_the_megathread_for)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:53:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Like I said, not breaking any rules, just wondering if I am being dumb or if the thread for video editing software is bare bones. I mainly just see Premiere Pro templates as the main thing, like the thread is bombarded with templates and only a couple sites have actual software downloads.</p> <p>Am I looking in the wrong place.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RussianMonkey23"> /u/RussianMonkey23 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1is7kt9/i_see_many_posts_saying_go_to_the_megathread_for/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1is7kt9/i_see_many_posts_saying_go_to_the_megathread_for/">[comments]</a></span>
+
+## Oh ye of little faith, TorrentGalaxy is back and working once again.
+ - [https://www.reddit.com/r/Piracy/comments/1is7199/oh_ye_of_little_faith_torrentgalaxy_is_back_and](https://www.reddit.com/r/Piracy/comments/1is7199/oh_ye_of_little_faith_torrentgalaxy_is_back_and)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:15:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1is7199/oh_ye_of_little_faith_torrentgalaxy_is_back_and/"> <img src="https://preview.redd.it/ql3uqxtkluje1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=204bab4447d2cf3b0749d12ace350707033717e9" alt="Oh ye of little faith, TorrentGalaxy is back and working once again." title="Oh ye of little faith, TorrentGalaxy is back and working once again." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sicurri"> /u/sicurri </a> <br/> <span><a href="https://i.redd.it/ql3uqxtkluje1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1is7199/oh_ye_of_little_faith_torrentgalaxy_is_back_and/">[comments]</a></span> </td></tr></table>
+
+## Is there a site that has archived crack versions of DAWs?
+ - [https://www.reddit.com/r/Piracy/comments/1is6ysd/is_there_a_site_that_has_archived_crack_versions](https://www.reddit.com/r/Piracy/comments/1is6ysd/is_there_a_site_that_has_archived_crack_versions)
+ - RSS feed: $source
+ - date published: 2025-02-18T07:10:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Been trying to find a website that hosts archived/old versions of cracked DAWs, and came up empty-handed :((</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MaxineRCthePlush"> /u/MaxineRCthePlush </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1is6ysd/is_there_a_site_that_has_archived_crack_versions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1is6ysd/is_there_a_site_that_has_archived_crack_versions/">[comments]</a></span>
+
+## Microsoft Activation Scripts question
+ - [https://www.reddit.com/r/Piracy/comments/1is6nmv/microsoft_activation_scripts_question](https://www.reddit.com/r/Piracy/comments/1is6nmv/microsoft_activation_scripts_question)
+ - RSS feed: $source
+ - date published: 2025-02-18T06:49:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I activated Office from <a href="https://github.com/massgravel/Microsoft-Activation-Scripts">https://github.com/massgravel/Microsoft-Activation-Scripts</a> using method 1. It works well but every time I open any Office related tools such as Word or Excel it keeps telling me to log in to check my subscription. I log in but when I close it and open again it asks again. Is there any way to stop getting those log in pop ups and messages?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/paula111"> /u/paula111 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1is6nmv/microsoft_activation_scripts_question/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1is6nmv/microsoft_activation_scripts_question/">[comments]</a></span>
+
+## Amazon books removing the option to download books. If you have books on Amazon, you have until Feb. 26 to download them. After that it's online only.
+ - [https://www.reddit.com/r/Piracy/comments/1is66g9/amazon_books_removing_the_option_to_download](https://www.reddit.com/r/Piracy/comments/1is66g9/amazon_books_removing_the_option_to_download)
+ - RSS feed: $source
+ - date published: 2025-02-18T06:18:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1is66g9/amazon_books_removing_the_option_to_download/"> <img src="https://external-preview.redd.it/ev7taPYEy5kwa6hZVKANXjJ6xCjuqd9_Zi2IV2Dw14o.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a40ce6184794d3d8f41cb27be3215f69fe8bf9ca" alt="Amazon books removing the option to download books. If you have books on Amazon, you have until Feb. 26 to download them. After that it's online only." title="Amazon books removing the option to download books. If you have books on Amazon, you have until Feb. 26 to download them. After that it's online only." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yetanotheridentity"> /u/yetanotheridentity </a> <br/> <span><a href="https://www.youtube.com/watch?v=iK1ZZInYRHY">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1is66g9/amazon_books_removing_the_option_to_download/">[comments]</a></span> </td></tr></table>
+
+## My questions about the megathread (Movies & TV)
+ - [https://www.reddit.com/r/Piracy/comments/1is4ix8/my_questions_about_the_megathread_movies_tv](https://www.reddit.com/r/Piracy/comments/1is4ix8/my_questions_about_the_megathread_movies_tv)
+ - RSS feed: $source
+ - date published: 2025-02-18T04:38:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been pirating movies and shows through various sites for years and i have luckily never been caught. But there were always problems, only 720p, media only that is available in the site owners language and painfully slow download rate which crashed more than once per download.</p> <p>That the backstory, now im here:</p> <ol> <li><p>Is one vpn better than the other, what are the differences? Air or Proton?</p></li> <li><p>Direct download or torrenting? Is one better than the other for downloading shows and movies, hence why there are more links for direct download?</p></li> <li><p>Is there any way to search for a site that has german synchro?</p></li> </ol> <p>I also know nothing about pirating, please forgive me if a question is stupid.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GIutenTag"> /u/GIutenTag </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1is4ix8/my_questions_about_the_m
+
+## Any HD deviantart image downloaders for free?
+ - [https://www.reddit.com/r/Piracy/comments/1is46fs/any_hd_deviantart_image_downloaders_for_free](https://www.reddit.com/r/Piracy/comments/1is46fs/any_hd_deviantart_image_downloaders_for_free)
+ - RSS feed: $source
+ - date published: 2025-02-18T04:18:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>The only good one I could find is called locoloader but you have to pay $15 a month to use it, so are there any free alternatives (for mobile)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/peachiiipop"> /u/peachiiipop </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1is46fs/any_hd_deviantart_image_downloaders_for_free/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1is46fs/any_hd_deviantart_image_downloaders_for_free/">[comments]</a></span>
+
+## help with installing install monkrus software
+ - [https://www.reddit.com/r/Piracy/comments/1is3rxx/help_with_installing_install_monkrus_software](https://www.reddit.com/r/Piracy/comments/1is3rxx/help_with_installing_install_monkrus_software)
+ - RSS feed: $source
+ - date published: 2025-02-18T03:57:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I tried installing monkrus autodesk inventor pro, and after installing, it shows up in add/remove programs but it cant be opened anywhere as its not listed in applications... also when reading the read me on the crack file, and running the crack file nothing happens, as no user interface popup saying completed. So im unable to launch the application even though it shows its installed. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/I-am-ocean"> /u/I-am-ocean </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1is3rxx/help_with_installing_install_monkrus_software/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1is3rxx/help_with_installing_install_monkrus_software/">[comments]</a></span>
+
+## Automatically fix song tags, album name, and album art?
+ - [https://www.reddit.com/r/Piracy/comments/1is2922/automatically_fix_song_tags_album_name_and_album](https://www.reddit.com/r/Piracy/comments/1is2922/automatically_fix_song_tags_album_name_and_album)
+ - RSS feed: $source
+ - date published: 2025-02-18T02:38:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m trying to give up streaming music, and I downloaded one of those &quot;top 500 songs ever&quot; torrents to start my offline collection. Problem is, they are all listed under that torrents name as the album with a pretty crappy custom album art. Is there any way to have them scanned and updated automatically? Or do i have to go through and fix them individually? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ah_shit_here_we_goo"> /u/ah_shit_here_we_goo </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1is2922/automatically_fix_song_tags_album_name_and_album/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1is2922/automatically_fix_song_tags_album_name_and_album/">[comments]</a></span>
+
