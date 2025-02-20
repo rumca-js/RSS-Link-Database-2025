@@ -1,0 +1,233 @@
+# Source:DeGoogle - expel Google from your life, URL:https://www.reddit.com/r/degoogle/.rss, language:en
+
+## Not sure if this is 'degoogling', but did you guys know you can blur your house on google maps?
+ - [https://www.reddit.com/r/degoogle/comments/1itjbrf/not_sure_if_this_is_degoogling_but_did_you_guys](https://www.reddit.com/r/degoogle/comments/1itjbrf/not_sure_if_this_is_degoogling_but_did_you_guys)
+ - RSS feed: $source
+ - date published: 2025-02-19T22:59:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m not sure if this would be beneficial or not, but I&#39;m slowly trying to get everything I can off google, any input on this? or would it be a waste of time?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Crimson342"> /u/Crimson342 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1itjbrf/not_sure_if_this_is_degoogling_but_did_you_guys/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1itjbrf/not_sure_if_this_is_degoogling_but_did_you_guys/">[comments]</a></span>
+
+## Graphene OS on S25+
+ - [https://www.reddit.com/r/degoogle/comments/1itis13/graphene_os_on_s25](https://www.reddit.com/r/degoogle/comments/1itis13/graphene_os_on_s25)
+ - RSS feed: $source
+ - date published: 2025-02-19T22:35:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello,</p> <p>Is it possible to install graphene OS on a Samsung S25+? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DeftRock"> /u/DeftRock </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1itis13/graphene_os_on_s25/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1itis13/graphene_os_on_s25/">[comments]</a></span>
+
+## Advice
+ - [https://www.reddit.com/r/degoogle/comments/1ithq5j/advice](https://www.reddit.com/r/degoogle/comments/1ithq5j/advice)
+ - RSS feed: $source
+ - date published: 2025-02-19T21:51:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I can&#39;t seems to get most of the people I speak to join siganl. I get told to just get a iPhone I&#39;m think of just using a iPhone for the normies that doesn&#39;t get and keeping it in a Faraday bag when I don&#39;t need it. Is there a way to degoogle it as much as possible. Is it possible to use it and not have to sign it to it </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/alexcoleval"> /u/alexcoleval </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1ithq5j/advice/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1ithq5j/advice/">[comments]</a></span>
+
+## Graphene or not?
+ - [https://www.reddit.com/r/degoogle/comments/1itha32/graphene_or_not](https://www.reddit.com/r/degoogle/comments/1itha32/graphene_or_not)
+ - RSS feed: $source
+ - date published: 2025-02-19T21:33:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been contemplating switching to GrapheneOS, but after researching the apps and services I am forced to use in my daily life, mainly due to work, I can see that ~98% of these, are only available for download with Google Play, there simply is no way around it. Some of yhem might even require constant contact with Google Play Services. I am simply looking for experienced/educated opinions on, whether this makes the entire point of deGoogling redundant.</p> <p>So please, help me make up my mind, as whether to make the switch, or simply accept my &quot;google&#39;d fate&quot;...</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Boomstick84dk"> /u/Boomstick84dk </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1itha32/graphene_or_not/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1itha32/graphene_or_not/">[comments]</a></span>
+
+## Alternatives to Family Link?
+ - [https://www.reddit.com/r/degoogle/comments/1itfs0g/alternatives_to_family_link](https://www.reddit.com/r/degoogle/comments/1itfs0g/alternatives_to_family_link)
+ - RSS feed: $source
+ - date published: 2025-02-19T20:32:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>First of all, love that I have found this subreddit. You have all shared so many insights already, and the degoogle/de-bigtech process is underway. It will take a long time, but i will get there!</p> <p>One tool that I havent found a good alternative for though, is Family Link. Our daughter is only 9, and want to keep a little bit of an eye out. </p> <p>As she has a Google account through our family account it is difficult of course, but any ideas are welcome!</p> <p>Thanks in advance </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dutchviking"> /u/dutchviking </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1itfs0g/alternatives_to_family_link/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1itfs0g/alternatives_to_family_link/">[comments]</a></span>
+
+## Are all Verizon phones un-degooglable?
+ - [https://www.reddit.com/r/degoogle/comments/1itefpi/are_all_verizon_phones_undegooglable](https://www.reddit.com/r/degoogle/comments/1itefpi/are_all_verizon_phones_undegooglable)
+ - RSS feed: $source
+ - date published: 2025-02-19T19:38:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>(I don&#39;t know if this should be in the megathread since it&#39;s more a question about the carrier than any specific phone. Lemme know if it is, though, and I&#39;ll repost there)</p> <p>Since Verizon locks down their phones and doesn&#39;t allow OEM unlocks, does that mean that a full degoogle of a Verizon phone is ultimately impossible? Or are there ways and means around that? I just moved to Verizon, so I can pick almost any phone in their lineup. Are there any of them that I can unlock without having to go through Verizon? Or am I stuck?</p> <p>It&#39;d be ironic if I were stuck, since the whole reason I moved was to get off Google Fi.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VagabondVivant"> /u/VagabondVivant </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1itefpi/are_all_verizon_phones_undegooglable/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/c
+
+## Can you recommend an alternative to Signal? With privacy and backup features.
+ - [https://www.reddit.com/r/degoogle/comments/1itdcsi/can_you_recommend_an_alternative_to_signal_with](https://www.reddit.com/r/degoogle/comments/1itdcsi/can_you_recommend_an_alternative_to_signal_with)
+ - RSS feed: $source
+ - date published: 2025-02-19T18:55:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1itdcsi/can_you_recommend_an_alternative_to_signal_with/"> <img src="https://preview.redd.it/bcjix5an75ke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e086843f7c801706cdc893d5b8e66e2aa41fa057" alt="Can you recommend an alternative to Signal? With privacy and backup features." title="Can you recommend an alternative to Signal? With privacy and backup features." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Unfortunately, I lost private messages on my phone because the signal app doesn&#39;t have a backup feature. So I am looking for an alternative with email backup.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Frequent-Story6939"> /u/Frequent-Story6939 </a> <br/> <span><a href="https://i.redd.it/bcjix5an75ke1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1itdcsi/can_you_recommend_an_alternative_to_signal_with/">[comments]<
+
+## New to Aurora Store
+ - [https://www.reddit.com/r/degoogle/comments/1itdcg2/new_to_aurora_store](https://www.reddit.com/r/degoogle/comments/1itdcg2/new_to_aurora_store)
+ - RSS feed: $source
+ - date published: 2025-02-19T18:55:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>So far the only 3rd party app store I use besides the play store is F-Droid.</p> <p>it safe enough to login into Aurora using my primary account? Or should I just stick with anonymous login. I&#39;ve heard that some people use burner accounts and other safeguards.</p> <p>I&#39;m also curious what the blacklist manager and spoof manager exactly do?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zenith_11"> /u/Zenith_11 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1itdcg2/new_to_aurora_store/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1itdcg2/new_to_aurora_store/">[comments]</a></span>
+
+## Firefox add-on that let's you create YouTube playlists?
+ - [https://www.reddit.com/r/degoogle/comments/1itctt9/firefox_addon_that_lets_you_create_youtube](https://www.reddit.com/r/degoogle/comments/1itctt9/firefox_addon_that_lets_you_create_youtube)
+ - RSS feed: $source
+ - date published: 2025-02-19T18:35:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>now normally you need a google account to create YouTube playlists</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mrmeasles"> /u/Mrmeasles </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1itctt9/firefox_addon_that_lets_you_create_youtube/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1itctt9/firefox_addon_that_lets_you_create_youtube/">[comments]</a></span>
+
+## Android alternatives, with contactless phone payment
+ - [https://www.reddit.com/r/degoogle/comments/1itbrtj/android_alternatives_with_contactless_phone](https://www.reddit.com/r/degoogle/comments/1itbrtj/android_alternatives_with_contactless_phone)
+ - RSS feed: $source
+ - date published: 2025-02-19T17:53:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Why must it be so bad?</p> <p>There is one thing that stops me from ditching android entirely - I like to use my bank app from my phone, and I like to pay for stuff with my phone. I use my bank&#39;s app to pay for things instead of my debit card, and instead of gpay.</p> <p>But bank apps hate alternative OSes. Getting it to work is janky as hell, and not guaranteed, from what I understand.</p> <p>Is there hope for a good alternative to appear, that&#39;d work OOTB? I use linux in my daily life, I can get my hands dirty and I COULD probably get it to work, but I really don&#39;t need that kind of hassle with my phone, I have other stuff to do. But what&#39;s left for less technical people?</p> <p>This post is mostly me complaining, but I hope we can have a constructive discussion about android alternatives here</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wilczek24"> /u/wilczek24 </a> <br/> <span><a href="htt
+
+## How long has it been since you have signed into a Google account ?
+ - [https://www.reddit.com/r/degoogle/comments/1itb8nk/how_long_has_it_been_since_you_have_signed_into_a](https://www.reddit.com/r/degoogle/comments/1itb8nk/how_long_has_it_been_since_you_have_signed_into_a)
+ - RSS feed: $source
+ - date published: 2025-02-19T17:32:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>While it&#39;s tempting to comment on videos watched through different YT front ends or leave a review on Maps I can honestly say that I sign in less than 2-3 times a year and haven&#39;t had an active Google account on my phone for ages</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sallysurfs_7"> /u/Sallysurfs_7 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1itb8nk/how_long_has_it_been_since_you_have_signed_into_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1itb8nk/how_long_has_it_been_since_you_have_signed_into_a/">[comments]</a></span>
+
+## Changing phones. Is there a simple way?
+ - [https://www.reddit.com/r/degoogle/comments/1it7rzw/changing_phones_is_there_a_simple_way](https://www.reddit.com/r/degoogle/comments/1it7rzw/changing_phones_is_there_a_simple_way)
+ - RSS feed: $source
+ - date published: 2025-02-19T15:14:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I have 2 Samsung phones. A 21+ and a 24+. I have used the 21+ for years. Now I have the opportunity to switch to the 24+. Both have Google elements. What would be the best time to degoogle? </p> <p>I could remove everything possible on the 24+ beforehand. But if I import info from the 21+, would google import, too? I assume yes.</p> <p>What if I cleaned out the 24+ then had the phone number changed, and entered info manually rather than just import everything across the board?</p> <p>Or perhaps there&#39;s another option? This just seems like an opportunity to degoogle. I&#39;m trying to determine best options - for a person of my limited understanding. </p> <p>Thank you.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Keelybird57"> /u/Keelybird57 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1it7rzw/changing_phones_is_there_a_simple_way/">[link]</a></span> &#32; <span><a href="http
+
+## Trying to degoogle myself, but the process isn't complete.
+ - [https://www.reddit.com/r/degoogle/comments/1it7csd/trying_to_degoogle_myself_but_the_process_isnt](https://www.reddit.com/r/degoogle/comments/1it7csd/trying_to_degoogle_myself_but_the_process_isnt)
+ - RSS feed: $source
+ - date published: 2025-02-19T14:56:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, I&#39;ve heard much about how Google is growing more unethical, vicious, and untrustworthy by the minute. I&#39;ve been degoogling towards these programs, and it&#39;s been going well. </p> <p>Email: Gmail to Protonmail.</p> <p>Browser: Chrome to Opera GX to Brave to Firefox.</p> <p>Search Bars: Google to Duckduckgo (on my phone and tablet) Ecosia (on my computer). </p> <p>I want to move to PeerTube, but unfortunately, I&#39;m struggling to get out of YouTube because all my favorite content creators and indie animators rely on that site, even though YT has become much more intolerant, strict, and less fun for even the most harmless users and creators. </p> <p>I also love writing and discovered Onlyoffice and Libreoffice as suitable alternatives to Google Docs. I also use Grammarly, but it doesn&#39;t seem to trust decentralized media (plus it can&#39;t handle sensitive content for no reason). So, if anyone can offer me a good alternative, that wo
+
+## Reclaiming digital sovereignty
+ - [https://www.reddit.com/r/degoogle/comments/1it73gc/reclaiming_digital_sovereignty](https://www.reddit.com/r/degoogle/comments/1it73gc/reclaiming_digital_sovereignty)
+ - RSS feed: $source
+ - date published: 2025-02-19T14:44:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Haven&#39;t seen it posted here, so thought this UCL white paper might be of interest:</p> <p><a href="https://www.ucl.ac.uk/bartlett/public-purpose/publications/2024/dec/reclaiming-digital-sovereignty">https://www.ucl.ac.uk/bartlett/public-purpose/publications/2024/dec/reclaiming-digital-sovereignty</a></p> <blockquote> <p>This policy paper outlines a progressive reform agenda to enhance digital sovereignty for people and the planet with the following <strong>4 key proposals:</strong> </p> <p>Offer a democratic, public-led digital stack that shall include: 1) <strong>Digital infrastructure as a service</strong> (for training, processing and developing digital solutions) provided by non-profit and democratic international consortia; 2) <strong>universal platforms</strong>, such as search engines and foundation AI models, that should be a commons governed by new public institutions with state and civil society representation; and 3) <strong>a public m
+
+## doesn't feel right
+ - [https://www.reddit.com/r/degoogle/comments/1it6li3/doesnt_feel_right](https://www.reddit.com/r/degoogle/comments/1it6li3/doesnt_feel_right)
+ - RSS feed: $source
+ - date published: 2025-02-19T14:21:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1it6li3/doesnt_feel_right/"> <img src="https://preview.redd.it/ya2n7cnpu3ke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=effb31c807b07ffb4df55e13b6a2131de6e4abca" alt="doesn't feel right" title="doesn't feel right" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/glimmerish677"> /u/glimmerish677 </a> <br/> <span><a href="https://i.redd.it/ya2n7cnpu3ke1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1it6li3/doesnt_feel_right/">[comments]</a></span> </td></tr></table>
+
+## Replacement for Google Fit
+ - [https://www.reddit.com/r/degoogle/comments/1it5aud/replacement_for_google_fit](https://www.reddit.com/r/degoogle/comments/1it5aud/replacement_for_google_fit)
+ - RSS feed: $source
+ - date published: 2025-02-19T13:20:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>What is a good replacement for Google Fit?</p> <p>If they&#39;re going to use digital fingerprinting, I&#39;m done!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OwnPassion6397"> /u/OwnPassion6397 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1it5aud/replacement_for_google_fit/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1it5aud/replacement_for_google_fit/">[comments]</a></span>
+
+## Digital Fingerprinting: Google launched a new era of tracking worse than cookie banners
+ - [https://www.reddit.com/r/degoogle/comments/1it4ju3/digital_fingerprinting_google_launched_a_new_era](https://www.reddit.com/r/degoogle/comments/1it4ju3/digital_fingerprinting_google_launched_a_new_era)
+ - RSS feed: $source
+ - date published: 2025-02-19T12:40:51+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/waozen"> /u/waozen </a> <br/> <span><a href="https://tuta.com/blog/digital-fingerprinting-worse-than-cookies">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1it4ju3/digital_fingerprinting_google_launched_a_new_era/">[comments]</a></span>
+
+## Best VPN According to Reddit for 2025?
+ - [https://www.reddit.com/r/degoogle/comments/1it3lsj/best_vpn_according_to_reddit_for_2025](https://www.reddit.com/r/degoogle/comments/1it3lsj/best_vpn_according_to_reddit_for_2025)
+ - RSS feed: $source
+ - date published: 2025-02-19T11:46:26+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/whowannawut"> /u/whowannawut </a> <br/> <span><a href="/r/VPNextension/comments/1it3kvq/best_vpn_according_to_reddit_for_2025/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1it3lsj/best_vpn_according_to_reddit_for_2025/">[comments]</a></span>
+
+## Canta uninstall apps
+ - [https://www.reddit.com/r/degoogle/comments/1it2bbb/canta_uninstall_apps](https://www.reddit.com/r/degoogle/comments/1it2bbb/canta_uninstall_apps)
+ - RSS feed: $source
+ - date published: 2025-02-19T10:21:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1it2bbb/canta_uninstall_apps/"> <img src="https://preview.redd.it/vaq7ohqwn2ke1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=42ac912b9df501ee66eb7157e0468d80e5670d11" alt="Canta uninstall apps" title="Canta uninstall apps" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hi,</p> <p>Im on a Pixel 8 pro, and i&#39;m wondering if is this safe to delete all the &quot;recommended&quot; apps from Canta ? </p> <p>I&#39;ve installed Shizuku but i dont really understand the link between Shizuku and Canta..</p> <p>p.s : My phone is not rooted because my usb component is actually broken (charge with a inductive charger only)</p> <p>Thanks for your help</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Sink1685"> /u/Ok_Sink1685 </a> <br/> <span><a href="https://i.redd.it/vaq7ohqwn2ke1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1it2bbb/can
+
+## Ente.io free 10gb ref code.
+ - [https://www.reddit.com/r/degoogle/comments/1it0nmw/enteio_free_10gb_ref_code](https://www.reddit.com/r/degoogle/comments/1it0nmw/enteio_free_10gb_ref_code)
+ - RSS feed: $source
+ - date published: 2025-02-19T08:23:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>Migrating to ente photos from google. Here&#39;s a referral code if anyone wants it. XI315W</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Inkre1"> /u/Inkre1 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1it0nmw/enteio_free_10gb_ref_code/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1it0nmw/enteio_free_10gb_ref_code/">[comments]</a></span>
+
+## Pissed at play store
+ - [https://www.reddit.com/r/degoogle/comments/1it074r/pissed_at_play_store](https://www.reddit.com/r/degoogle/comments/1it074r/pissed_at_play_store)
+ - RSS feed: $source
+ - date published: 2025-02-19T07:50:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1it074r/pissed_at_play_store/"> <img src="https://a.thumbs.redditmedia.com/AHRLqHqbbQEnIkuyyRdWBqEBfSqz3BhJ_JcDnrOPJf4.jpg" alt="Pissed at play store" title="Pissed at play store" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Why are my 2 Google accounts so different on the same device</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HOVRZERO"> /u/HOVRZERO </a> <br/> <span><a href="https://www.reddit.com/gallery/1it074r">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1it074r/pissed_at_play_store/">[comments]</a></span> </td></tr></table>
+
+## Need help looking for a reasonably repairable phone as an alternative to my Pixel 5a, was recommended this sub in the comments of the post. Sorry if such crossposts are disallowed.
+ - [https://www.reddit.com/r/degoogle/comments/1isz00z/need_help_looking_for_a_reasonably_repairable](https://www.reddit.com/r/degoogle/comments/1isz00z/need_help_looking_for_a_reasonably_repairable)
+ - RSS feed: $source
+ - date published: 2025-02-19T06:28:42+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Acrobatic-Yak-3103"> /u/Acrobatic-Yak-3103 </a> <br/> <span><a href="/r/BuyItForLife/comments/1isuxv3/looking_for_a_phone_that_can_be_reasonably/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1isz00z/need_help_looking_for_a_reasonably_repairable/">[comments]</a></span>
+
+## Starting to get pissed at YT
+ - [https://www.reddit.com/r/degoogle/comments/1isxoml/starting_to_get_pissed_at_yt](https://www.reddit.com/r/degoogle/comments/1isxoml/starting_to_get_pissed_at_yt)
+ - RSS feed: $source
+ - date published: 2025-02-19T05:08:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I listen to podcasts on YT while I drive. But lately, the ads are getting to be more than a nuissance. 2 hour podcast today ( SRS ), and every 2 minutes and 40 seconds was an ad. I tried running a few apps that remove ads, but all fall short 15-20 minutes in. Foooooook</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/radujohn75"> /u/radujohn75 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1isxoml/starting_to_get_pissed_at_yt/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1isxoml/starting_to_get_pissed_at_yt/">[comments]</a></span>
+
+## Worth it to delete all accounts with a gmail login address?
+ - [https://www.reddit.com/r/degoogle/comments/1iswpxn/worth_it_to_delete_all_accounts_with_a_gmail](https://www.reddit.com/r/degoogle/comments/1iswpxn/worth_it_to_delete_all_accounts_with_a_gmail)
+ - RSS feed: $source
+ - date published: 2025-02-19T04:14:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>Background: I&#39;ve made some progress towards a more private digital life that aligns with my values. For instance, I&#39;ve removed most of Google&#39;s access to sites as a sign in method. Also, I&#39;m using a non gmail address and aliases to log in to sites that I visit frequently. </p> <p>According to BitWarden I have about 400 site specific accounts I&#39;ve created over the years, the vast majority with my gmail address as a login. So if I bought something from an online storefront, I probably created an account with <a href="mailto:myaddress@gmail.com">myaddress@gmail.com</a> as a login. </p> <p>My question: is it worth it to delete all these accounts? In some cases it&#39;s easy to do so - Zillow has a delete account option. But it&#39;s time consuming, especially when I have to submit a request to AlsUsedPoodles.com for an account deletion.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plasticdispl
+
+## Aurora Store better than Play Store or are there other alternatives?
+ - [https://www.reddit.com/r/degoogle/comments/1isvg3b/aurora_store_better_than_play_store_or_are_there](https://www.reddit.com/r/degoogle/comments/1isvg3b/aurora_store_better_than_play_store_or_are_there)
+ - RSS feed: $source
+ - date published: 2025-02-19T03:09:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been using Aurora Store instead of Play Store, since I don&#39;t need a Google account for it, and I do need some apps that aren&#39;t available on F-Droid. Are there better alternatives or is Aurora good enough?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GuyMan526"> /u/GuyMan526 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1isvg3b/aurora_store_better_than_play_store_or_are_there/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1isvg3b/aurora_store_better_than_play_store_or_are_there/">[comments]</a></span>
+
+## A "soft" de-google?
+ - [https://www.reddit.com/r/degoogle/comments/1isvczj/a_soft_degoogle](https://www.reddit.com/r/degoogle/comments/1isvczj/a_soft_degoogle)
+ - RSS feed: $source
+ - date published: 2025-02-19T03:05:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to move away from google, but i&#39;m realizing it may take some time.</p> <p>I have alot of Samsung products, some of which i just bought this holiday season (S23 ultra phone, Samsung Galaxy tab S8+, Samsung buds2 pro, galaxy smart tag and a old Samsung tv). I like staying within one ecosystem but don&#39;t know if that&#39;s possibly anymore.</p> <p>I suppose I can&#39;t get away from google with using Samsung so I figured this would be more soft move for the moment. </p> <p>As far as gmail, I considered Proton but recent statements by their CEO made me pause on moving to their mail. </p> <p>I have Google-Fi and Google drive. I figure I can at least move on from that.</p> <p>Has anyone done a slow/soft de-google? Which phone carriers and cloud storage do you all recommend?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mind_Explorer"> /u/Mind_Explorer </a> <br/> <span><a href="https://www.reddit.com/r/
+
+## I removed my google account from my Android. One of the last steps in de-googling for me
+ - [https://www.reddit.com/r/degoogle/comments/1isukc6/i_removed_my_google_account_from_my_android_one](https://www.reddit.com/r/degoogle/comments/1isukc6/i_removed_my_google_account_from_my_android_one)
+ - RSS feed: $source
+ - date published: 2025-02-19T02:26:30+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/WoodsBeatle513"> /u/WoodsBeatle513 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1isukc6/i_removed_my_google_account_from_my_android_one/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1isukc6/i_removed_my_google_account_from_my_android_one/">[comments]</a></span>
+
+## Android alternative?
+ - [https://www.reddit.com/r/degoogle/comments/1isui5i/android_alternative](https://www.reddit.com/r/degoogle/comments/1isui5i/android_alternative)
+ - RSS feed: $source
+ - date published: 2025-02-19T02:23:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone!</p> <p>I want to get rid of Android. Anyone can point me to where or what to look for?</p> <p>I would really love to get a Linux on my phone. I just don&#39;t know if it&#39;s possible.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/apunker"> /u/apunker </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1isui5i/android_alternative/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1isui5i/android_alternative/">[comments]</a></span>
+
+## Never heard "deAppling". They have the same control on iPh0ne.
+ - [https://www.reddit.com/r/degoogle/comments/1isuhdl/never_heard_deappling_they_have_the_same_control](https://www.reddit.com/r/degoogle/comments/1isuhdl/never_heard_deappling_they_have_the_same_control)
+ - RSS feed: $source
+ - date published: 2025-02-19T02:22:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>DeG00gling is common nowadays. Anyone tried DeAppling?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lavender-buttar"> /u/lavender-buttar </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1isuhdl/never_heard_deappling_they_have_the_same_control/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1isuhdl/never_heard_deappling_they_have_the_same_control/">[comments]</a></span>
+
+## Comparison of search engine's date filter
+ - [https://www.reddit.com/r/degoogle/comments/1istnc7/comparison_of_search_engines_date_filter](https://www.reddit.com/r/degoogle/comments/1istnc7/comparison_of_search_engines_date_filter)
+ - RSS feed: $source
+ - date published: 2025-02-19T01:43:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>The Public Sector Hub page of the Institute of Public Administration Australia (<a href="https://www.ipaa.org.au/">https://www.ipaa.org.au/</a>) has published <strong>two</strong> articles about wellbeing in the last year. (I know, I was pretty excited about it, too.) In trying to find a way to easily search for this sort of stuff, I stumbled on a useful comparison of the date filters of various search engines.</p> <p><code>site:www.ipaa.org.au wellbeing after:2024-01-01</code></p> <p>I did the above search on three websites and here were my results:</p> <p>Google: Returns 4 results, including just <strong>one</strong> of the articles published about wellbeing in the last year. The other one drops off. Using the date filter instead of &quot;after:&quot; yields the same results. Without the date limitation, both articles are returned on the first page, along with five more pages of results. </p> <p>Bing: Doesn&#39;t seem to use the &quot;after:&quot; 
+
+## SMS Messages won't work after filtering Google with DNS
+ - [https://www.reddit.com/r/degoogle/comments/1iss2m7/sms_messages_wont_work_after_filtering_google](https://www.reddit.com/r/degoogle/comments/1iss2m7/sms_messages_wont_work_after_filtering_google)
+ - RSS feed: $source
+ - date published: 2025-02-19T00:32:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is this a known problem? I have filtered all traffic through DNS and blocked Google services. As a result, I can&#39;t SMS on an Android phone. Should I allow a specific service?</p> <p>I understand SMS is not secure or private, but that doesn&#39;t stop my family and friends. :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/miso-wire"> /u/miso-wire </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1iss2m7/sms_messages_wont_work_after_filtering_google/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1iss2m7/sms_messages_wont_work_after_filtering_google/">[comments]</a></span>
+
+## I have to buy a new cell phone, any advice from the cell phone gurus?
+ - [https://www.reddit.com/r/degoogle/comments/1isrzir/i_have_to_buy_a_new_cell_phone_any_advice_from](https://www.reddit.com/r/degoogle/comments/1isrzir/i_have_to_buy_a_new_cell_phone_any_advice_from)
+ - RSS feed: $source
+ - date published: 2025-02-19T00:28:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>United States</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cozy-Winter-"> /u/Cozy-Winter- </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1isrzir/i_have_to_buy_a_new_cell_phone_any_advice_from/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1isrzir/i_have_to_buy_a_new_cell_phone_any_advice_from/">[comments]</a></span>
+
+## Google Free Smartphones?
+ - [https://www.reddit.com/r/degoogle/comments/1isrhve/google_free_smartphones](https://www.reddit.com/r/degoogle/comments/1isrhve/google_free_smartphones)
+ - RSS feed: $source
+ - date published: 2025-02-19T00:06:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve seen posts like this floating around reddit that are a few years old now, so not super updated. I&#39;m at the start of my research and looking for smart phones that don&#39;t have google integrated into their entire system?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/milkteabitch"> /u/milkteabitch </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1isrhve/google_free_smartphones/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1isrhve/google_free_smartphones/">[comments]</a></span>
+

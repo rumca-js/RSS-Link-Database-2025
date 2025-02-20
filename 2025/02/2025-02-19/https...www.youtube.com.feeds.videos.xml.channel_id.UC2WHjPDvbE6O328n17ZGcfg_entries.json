@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-19T15:45:02+00:00",
+        "description": "Check out Ktor: https://kotl.in/try-ktor-3\n\nI've never used Kotlin or Ktor until today, so I decided to build a reverse proxy for docker to learn all about it. I'll be able to utilize Ktor's coroutines for handling async requests, built-in HTTP client for forwarding traffic, routing to dynamically proxy requests to different backend services, and things like that. But first, I wanted to get acquainted with Kotlin, so I did Kotlin Koans, which is \u201cone of the most popular and most effective ways to get into Kotlin for people who already know Java.\u201d And that it was.\n\nThis was a fun project to build, so I hope you enjoy the video as much as I enjoyed making it!\n\n0:00 I'm building a reverse proxy for docker\n1:50 Kotlin Koans\n2:52 About Ktor, sponsored by JetBrains\n3:56 Finish Koans\n8:00 Ktor project setup for reverse proxy\n9:32 What's a reverse proxy?\n11:20 HttpClient\n13:41 Async handling\n17:15 try-catch block\n19:51 getDockerServices()\n21:30 Block and unblock\n24:26 Persistence... with a t",
+        "id": 2149362,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=EYUyYu-wuww",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EYUyYu-wuww/hqdefault.jpg",
+        "title": "Java Dev Tries Kotlin and Ktor for the First Time",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-19T15:00:00+00:00",
+        "description": "The Lightcone hosts sit down with Aaron Levie, the co-founder & CEO of Box, to hear reports from the front of how large enterprise and Fortune 500 companies are adapting to the AI age. \n\nApply to Y Combinator: https://ycombinator.com/apply\n\nChapters (Powered by https://bit.ly/chapterme-yc) - \n0:00 Intro\n1:15 Why the GPT wrapper was a bad meme\n4:44 Enterprise users just care about getting workflow done\n8:38 What does it mean for startups as intelligence becomes a commodity? \n12:47 Do Fortune 500\u2019s have any interest in underlying models? \n20:19 What are enterprise execs thinking about AI right now? \n27:04 Is Box investing in internal AI tools? \n28:17 What will enterprises build internally and what will they buy solutions for? \n34:50 Is enterprise concerned with third-parties and security? \n36:16 Shout-outs to Aaron! \n39:46 The transition from cloud to AI\n48:38 Outro",
+        "id": 2148811,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=aIKfA3gIXwo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aIKfA3gIXwo/hqdefault.jpg",
+        "title": "How AI Is Changing Enterprise",
+        "vote": 0
+    }
+]

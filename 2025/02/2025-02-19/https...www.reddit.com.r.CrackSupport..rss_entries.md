@@ -1,0 +1,156 @@
+# Source:Crack Support, URL:https://www.reddit.com/r/CrackSupport/.rss, language:
+
+## anadius download issues, ts4
+ - [https://www.reddit.com/r/CrackSupport/comments/1ith9nc/anadius_download_issues_ts4](https://www.reddit.com/r/CrackSupport/comments/1ith9nc/anadius_download_issues_ts4)
+ - RSS feed: $source
+ - date published: 2025-02-19T21:33:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>i&#39;m using anadius for mac, my packs are showing in the game under the &quot;store&quot; tab but they all say &quot;download to use&quot;. i know others have had this issue before and i tried to follow the solution posted in the replies, but i&#39;m having issues finding the relevant folders to follow the paths. </p> <p>the explanation i was following said this: </p> <p><em>&quot;when you open the new anadius dlc folders, there should be the _installer folder and a folder with the pack name (ie. ep04). move the first ep04 into “the sims 4” folder. open the path _installer &gt; dlc &gt; ep04 then</em> <strong><em>move this ep04 folder to the path the sims 4 &gt; _installer_dlc folder. do this for all of the packs.</em></strong> <em>make sure the dlc unlocked is installed, restart your game and it should work.&quot;</em></p> <p>i&#39;ve followed it all correctly up until the bit in bold. i&#39;m unsure of where to move the second ep04 folder as, whe
+
+## Any idea why I get this in starwars jedi survivor. It messes with my save making my progress hard to resume bc it sets it back to an old save.
+ - [https://www.reddit.com/r/CrackSupport/comments/1ith9ba/any_idea_why_i_get_this_in_starwars_jedi_survivor](https://www.reddit.com/r/CrackSupport/comments/1ith9ba/any_idea_why_i_get_this_in_starwars_jedi_survivor)
+ - RSS feed: $source
+ - date published: 2025-02-19T21:32:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1ith9ba/any_idea_why_i_get_this_in_starwars_jedi_survivor/"> <img src="https://external-preview.redd.it/81MT10v7mjMMTNDew__Qr7eNRwN1RC0xA7obs0lRDn4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=656e7b078b0d7e77d9c38ae415d5397f45c77534" alt="Any idea why I get this in starwars jedi survivor. It messes with my save making my progress hard to resume bc it sets it back to an old save." title="Any idea why I get this in starwars jedi survivor. It messes with my save making my progress hard to resume bc it sets it back to an old save." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/omega5959"> /u/omega5959 </a> <br/> <span><a href="https://i.imgur.com/5ihV7fu.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ith9ba/any_idea_why_i_get_this_in_starwars_jedi_survivor/">[comments]</a></span> </td></tr></table>
+
+## Anadius TS4 patcher. Does anyone know how to use it?
+ - [https://www.reddit.com/r/CrackSupport/comments/1itg3e6/anadius_ts4_patcher_does_anyone_know_how_to_use_it](https://www.reddit.com/r/CrackSupport/comments/1itg3e6/anadius_ts4_patcher_does_anyone_know_how_to_use_it)
+ - RSS feed: $source
+ - date published: 2025-02-19T20:44:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>Does anyone know how to use the patcher? I&#39;ve got slow WiFi so the updater isn&#39;t working, I&#39;ve got the patcher and the Anadius.rar for the update I want, the patcher keeps telling me it can&#39;t find the dlc/patch . I&#39;m not sure where to put it now. Does anyone have any detailed instructions? Anadius&#39;s website doesn&#39;t have anything for my dumbass.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RealisticAd5678"> /u/RealisticAd5678 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itg3e6/anadius_ts4_patcher_does_anyone_know_how_to_use_it/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itg3e6/anadius_ts4_patcher_does_anyone_know_how_to_use_it/">[comments]</a></span>
+
+## How do I fix this?
+ - [https://www.reddit.com/r/CrackSupport/comments/1itfnpi/how_do_i_fix_this](https://www.reddit.com/r/CrackSupport/comments/1itfnpi/how_do_i_fix_this)
+ - RSS feed: $source
+ - date published: 2025-02-19T20:27:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1itfnpi/how_do_i_fix_this/"> <img src="https://b.thumbs.redditmedia.com/yXPSiLaVXhlzeF7zyEO8mql_o7SLf6-ErqquJNuqDxI.jpg" alt="How do I fix this?" title="How do I fix this?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/k6b20bgxn5ke1.png?width=387&amp;format=png&amp;auto=webp&amp;s=a1ea688907b95ee4531c958b02259c14bb436a6d">https://preview.redd.it/k6b20bgxn5ke1.png?width=387&amp;format=png&amp;auto=webp&amp;s=a1ea688907b95ee4531c958b02259c14bb436a6d</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ChemicalNo315"> /u/ChemicalNo315 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itfnpi/how_do_i_fix_this/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itfnpi/how_do_i_fix_this/">[comments]</a></span> </td></tr></table>
+
+## Repack question
+ - [https://www.reddit.com/r/CrackSupport/comments/1itfgoy/repack_question](https://www.reddit.com/r/CrackSupport/comments/1itfgoy/repack_question)
+ - RSS feed: $source
+ - date published: 2025-02-19T20:19:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>If i download an repack game that has like 30 parts do i need to use a torrent?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zxpyar"> /u/Zxpyar </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itfgoy/repack_question/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itfgoy/repack_question/">[comments]</a></span>
+
+## is this asetto corsa setup safe and these are just false positives, or should i avoid running the file?
+ - [https://www.reddit.com/r/CrackSupport/comments/1itffve/is_this_asetto_corsa_setup_safe_and_these_are](https://www.reddit.com/r/CrackSupport/comments/1itffve/is_this_asetto_corsa_setup_safe_and_these_are)
+ - RSS feed: $source
+ - date published: 2025-02-19T20:18:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Virustotal : <a href="https://www.virustotal.com/gui/file/d4a5ab6fc5d4babcb136bd1deb13345c0b1c6daef26d0ff8e7e15e6611225764">https://www.virustotal.com/gui/file/d4a5ab6fc5d4babcb136bd1deb13345c0b1c6daef26d0ff8e7e15e6611225764</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Longjumping-Taro-790"> /u/Longjumping-Taro-790 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itffve/is_this_asetto_corsa_setup_safe_and_these_are/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itffve/is_this_asetto_corsa_setup_safe_and_these_are/">[comments]</a></span>
+
+## Need crack help for Stacklands DLC from rin
+ - [https://www.reddit.com/r/CrackSupport/comments/1itf1yf/need_crack_help_for_stacklands_dlc_from_rin](https://www.reddit.com/r/CrackSupport/comments/1itf1yf/need_crack_help_for_stacklands_dlc_from_rin)
+ - RSS feed: $source
+ - date published: 2025-02-19T20:02:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am sorry if the solution is obvious, but I have managed to get stacklands working from cs rin but even though the data files seem to include the 2 dlc&#39;s the game loads completely without them, it is my first time using 7-zip so perhaps I did something wrong</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Agreeable_Practice75"> /u/Agreeable_Practice75 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itf1yf/need_crack_help_for_stacklands_dlc_from_rin/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itf1yf/need_crack_help_for_stacklands_dlc_from_rin/">[comments]</a></span>
+
+## Anyone have a tattletail crack?
+ - [https://www.reddit.com/r/CrackSupport/comments/1itdvyv/anyone_have_a_tattletail_crack](https://www.reddit.com/r/CrackSupport/comments/1itdvyv/anyone_have_a_tattletail_crack)
+ - RSS feed: $source
+ - date published: 2025-02-19T19:16:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>i have been trying to find one and i cant seem to find one</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Corgimannn"> /u/Corgimannn </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itdvyv/anyone_have_a_tattletail_crack/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itdvyv/anyone_have_a_tattletail_crack/">[comments]</a></span>
+
+## Found "W32.Riskware.Repack" while checking a cracked Adobe After Effects.
+ - [https://www.reddit.com/r/CrackSupport/comments/1itdjq7/found_w32riskwarerepack_while_checking_a_cracked](https://www.reddit.com/r/CrackSupport/comments/1itdjq7/found_w32riskwarerepack_while_checking_a_cracked)
+ - RSS feed: $source
+ - date published: 2025-02-19T19:03:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just downloaded this AE from a famous editor discord server, the moderators called it safe, but i checked in virus total and it said it has this &quot;W32.Riskware.Repack&quot;, idk what&#39;s that. Should i trust it?<br/> <a href="https://www.virustotal.com/gui/file/4460dd8114b5609ea4e9644a659de0f5b188696d27dc8846d633628b3ade7c31">https://www.virustotal.com/gui/file/4460dd8114b5609ea4e9644a659de0f5b188696d27dc8846d633628b3ade7c31</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alternative-Cell-907"> /u/Alternative-Cell-907 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itdjq7/found_w32riskwarerepack_while_checking_a_cracked/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itdjq7/found_w32riskwarerepack_while_checking_a_cracked/">[comments]</a></span>
+
+## Just tried a DODI Onedrive link for dead island 2
+ - [https://www.reddit.com/r/CrackSupport/comments/1itdinr/just_tried_a_dodi_onedrive_link_for_dead_island_2](https://www.reddit.com/r/CrackSupport/comments/1itdinr/just_tried_a_dodi_onedrive_link_for_dead_island_2)
+ - RSS feed: $source
+ - date published: 2025-02-19T19:02:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve gotten a few games from Fitgirl, but since she doesn’t have DI2 I went to try dodi (direct link from megathread dw). </p> <p>I have jd2, but decided to try the onedrive download. I got the links into JD2, put the password in, clicked the setup, and then it just shut down my Google chrome browser and I can’t open it again? </p> <p>When I try to delete the setup file, it keeps saying it’s “open in Blocks and can’t be deleted” by crystal lake something. </p> <p>I just turned off the wifi connection as I’m now paranoid about what happened there? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IncrediBased"> /u/IncrediBased </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itdinr/just_tried_a_dodi_onedrive_link_for_dead_island_2/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itdinr/just_tried_a_dodi_onedrive_link_for_dead_island_2/">[comments]</a
+
+## TS4 Firgirl repack total playtime.
+ - [https://www.reddit.com/r/CrackSupport/comments/1itd8jk/ts4_firgirl_repack_total_playtime](https://www.reddit.com/r/CrackSupport/comments/1itd8jk/ts4_firgirl_repack_total_playtime)
+ - RSS feed: $source
+ - date published: 2025-02-19T18:51:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I was wondering if there&#39;s any way to check how many hours of total playtime I have on TS4 Fitgirl repack? If yes, how? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BadAcademic3945"> /u/BadAcademic3945 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itd8jk/ts4_firgirl_repack_total_playtime/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itd8jk/ts4_firgirl_repack_total_playtime/">[comments]</a></span>
+
+## Pc automatically shutting down after installation of Windows 11 Activation from CracksURL
+ - [https://www.reddit.com/r/CrackSupport/comments/1itcumi/pc_automatically_shutting_down_after_installation](https://www.reddit.com/r/CrackSupport/comments/1itcumi/pc_automatically_shutting_down_after_installation)
+ - RSS feed: $source
+ - date published: 2025-02-19T18:36:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently downloaded a Windows 11 Activation through a Terminal code I found on cracksURL. It did activated Windows 11 but after every time I start my pc it automatically shuts down and after 3-4 tries a windows did not load correctly error pops up. I restart it and often times it works. This repeats every time I turn on my pc, 3-4 failed tries and frustration and then open. Sometimes it does not open after many tries and keeps shutting down. Once or twice it shut down in the middle of the work.</p> <p>I can&#39;t uninstall the activation key as the product key I get from cmd is not working.</p> <p>Can anyone please help how can I fix this? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spiritual_Lab7692"> /u/Spiritual_Lab7692 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itcumi/pc_automatically_shutting_down_after_installation/">[link]</a></span> &#32; <span><a href="https://www.r
+
+## stalker 2
+ - [https://www.reddit.com/r/CrackSupport/comments/1itazzq/stalker_2](https://www.reddit.com/r/CrackSupport/comments/1itazzq/stalker_2)
+ - RSS feed: $source
+ - date published: 2025-02-19T17:23:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>im trying to put the update into rune 1.1 but idk how and it says copy contents of rune directory to installdir but when i do that it gives me some bs that it cant after scanning updated files. what do?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/diarizzle"> /u/diarizzle </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itazzq/stalker_2/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itazzq/stalker_2/">[comments]</a></span>
+
+## hogwarts legacy closes after epilipsy warning
+ - [https://www.reddit.com/r/CrackSupport/comments/1it6l4i/hogwarts_legacy_closes_after_epilipsy_warning](https://www.reddit.com/r/CrackSupport/comments/1it6l4i/hogwarts_legacy_closes_after_epilipsy_warning)
+ - RSS feed: $source
+ - date published: 2025-02-19T14:21:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>so i downloaded the game but it just won&#39;t work i have tried a number of things but still nothing. Anyone knows how to fix this? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Chemical-Ad-4436"> /u/Chemical-Ad-4436 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1it6l4i/hogwarts_legacy_closes_after_epilipsy_warning/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1it6l4i/hogwarts_legacy_closes_after_epilipsy_warning/">[comments]</a></span>
+
+## Windows defender detected "Win32/Wacapew.C!ml" after trying to install a fitgirl torrent file.
+ - [https://www.reddit.com/r/CrackSupport/comments/1it6ev8/windows_defender_detected_win32wacapewcml_after](https://www.reddit.com/r/CrackSupport/comments/1it6ev8/windows_defender_detected_win32wacapewcml_after)
+ - RSS feed: $source
+ - date published: 2025-02-19T14:13:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>I tried to download a game from fitgirl, it was the correct website and the link was a torrent from 1337x, once the torrent reached like 1.5% the torrent froze (I used qbittorrent), after the freeze I got a windows defender notification that a file &quot;Win32/Wacapew.C!ml&quot; was put in quarantine. The history also links it up to the fitgirl file&#39;s setup. I tried reading on internet but as with all things opinions are either &quot;oh that&#39;s a trojan you won&#39;t delete it unless you do (techgibberish) and (techgibberish)...&quot; or &quot;it good, trust&quot;. In response I naturally aborted the download and deleted the file, currently I&#39;m running a full scan.<br/> Any ideas on what the detected file is? Am I boned?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Voidecero"> /u/Voidecero </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1it6ev8/windows_defender_detected_win
+
+## Granblue Fantasy Relink Update v1.2.1 incl DLC is stuck on Scanning files
+ - [https://www.reddit.com/r/CrackSupport/comments/1it36nz/granblue_fantasy_relink_update_v121_incl_dlc_is](https://www.reddit.com/r/CrackSupport/comments/1it36nz/granblue_fantasy_relink_update_v121_incl_dlc_is)
+ - RSS feed: $source
+ - date published: 2025-02-19T11:19:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1it36nz/granblue_fantasy_relink_update_v121_incl_dlc_is/"> <img src="https://b.thumbs.redditmedia.com/NzcMUfrkog263iDwKrPAztUamKh0f62xW7PwNsZF_SY.jpg" alt="Granblue Fantasy Relink Update v1.2.1 incl DLC is stuck on Scanning files" title="Granblue Fantasy Relink Update v1.2.1 incl DLC is stuck on Scanning files" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/ldnwfcsyx2ke1.png?width=490&amp;format=png&amp;auto=webp&amp;s=5259725a28c837ba79dbce1110ebae6b9f92d9d1">https://preview.redd.it/ldnwfcsyx2ke1.png?width=490&amp;format=png&amp;auto=webp&amp;s=5259725a28c837ba79dbce1110ebae6b9f92d9d1</a></p> <p>It&#39;s been stuck on data.1.cdx.newfile for a long while and lagging out my pc. Resource Monitor says it&#39;s being read at around 13mil B/sec but it hasn&#39;t moved for a long long time. Downloaded from Fitgirl</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://
+
+## Sandman boss fight bug (spider man 2)
+ - [https://www.reddit.com/r/CrackSupport/comments/1it2cws/sandman_boss_fight_bug_spider_man_2](https://www.reddit.com/r/CrackSupport/comments/1it2cws/sandman_boss_fight_bug_spider_man_2)
+ - RSS feed: $source
+ - date published: 2025-02-19T10:24:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>I need help. I am currently stuck at surface tension mission (sandman first boss). I am now using Miles, but when Pete threw the water, the Web Strike skill is not appearing. Sometimes it is appearing but i cant use it, im already spamming the button. How to fix this? A save file after the boss fight would also help.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Andrei22_"> /u/Andrei22_ </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1it2cws/sandman_boss_fight_bug_spider_man_2/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1it2cws/sandman_boss_fight_bug_spider_man_2/">[comments]</a></span>
+
+## Stuck in sandman boss fight (spider man 2 pc)
+ - [https://www.reddit.com/r/CrackSupport/comments/1it2bgf/stuck_in_sandman_boss_fight_spider_man_2_pc](https://www.reddit.com/r/CrackSupport/comments/1it2bgf/stuck_in_sandman_boss_fight_spider_man_2_pc)
+ - RSS feed: $source
+ - date published: 2025-02-19T10:22:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>So when i get to play with Miles in the tension surface mission, and Pete throws the water, im supposed to get the option to web strike, but the game doesnt let me, all i can do is shoot webs then web strike on his face, swing around and dodge. How can i fix this issue? Or could anyone give me a save file after the boss fight, or after that part of the boss fight, been trying to solve the issue for a few days and i really wanna play the game.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/predazauru"> /u/predazauru </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1it2bgf/stuck_in_sandman_boss_fight_spider_man_2_pc/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1it2bgf/stuck_in_sandman_boss_fight_spider_man_2_pc/">[comments]</a></span>
+
+## how to unlock gohan beast in sparking zero?
+ - [https://www.reddit.com/r/CrackSupport/comments/1it25dl/how_to_unlock_gohan_beast_in_sparking_zero](https://www.reddit.com/r/CrackSupport/comments/1it25dl/how_to_unlock_gohan_beast_in_sparking_zero)
+ - RSS feed: $source
+ - date published: 2025-02-19T10:10:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>i downloaded in steamrip and when i play game it&#39;s steal locked how could i unlock gohan beast?,</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JumpyRaisin5853"> /u/JumpyRaisin5853 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1it25dl/how_to_unlock_gohan_beast_in_sparking_zero/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1it25dl/how_to_unlock_gohan_beast_in_sparking_zero/">[comments]</a></span>
+
+## Hackers Use Torrented Games Like Garry’s Mod and BeamNG.drive to Infect Gamers with Crypto Miners
+ - [https://www.reddit.com/r/CrackSupport/comments/1it1h42/hackers_use_torrented_games_like_garrys_mod_and](https://www.reddit.com/r/CrackSupport/comments/1it1h42/hackers_use_torrented_games_like_garrys_mod_and)
+ - RSS feed: $source
+ - date published: 2025-02-19T09:22:37+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>Hackers are infecting gamers worldwide by hiding malware in torrented versions</strong> of Garry’s Mod, BeamNG[.]drive, and Dyson Sphere Program, secretly installing crypto miners on their systems.</p> <p>The malware campaign, named “StaryDobry,” began in September 2024 when attackers uploaded infected game installers to torrent sites. During installation, the malware activates, checks for security tools or virtual machines, and installs an XMRig cryptominer if the system meets performance criteria.</p> <p>(<a href="https://www.reddit.com/r/pwnhub/comments/1it1ec5/hackers_infect_gamers_with_crypto_miners_through/">View Details on PwnHub</a>)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dark-Marc"> /u/Dark-Marc </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1it1h42/hackers_use_torrented_games_like_garrys_mod_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r
+
+## Madden 20 (dodi) Not working
+ - [https://www.reddit.com/r/CrackSupport/comments/1it0of8/madden_20_dodi_not_working](https://www.reddit.com/r/CrackSupport/comments/1it0of8/madden_20_dodi_not_working)
+ - RSS feed: $source
+ - date published: 2025-02-19T08:24:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>The game is not opening ,i have tried to run it as administrator, turned antivirus off and added the file in exclusion but still the game does not launch when i click open nothing happens, what should i do?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Historical_Streak"> /u/Historical_Streak </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1it0of8/madden_20_dodi_not_working/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1it0of8/madden_20_dodi_not_working/">[comments]</a></span>
+
+## does anyone have a full list of songs to put into cream api for free beat saber DLC?
+ - [https://www.reddit.com/r/CrackSupport/comments/1istxmr/does_anyone_have_a_full_list_of_songs_to_put_into](https://www.reddit.com/r/CrackSupport/comments/1istxmr/does_anyone_have_a_full_list_of_songs_to_put_into)
+ - RSS feed: $source
+ - date published: 2025-02-19T01:57:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>i have a legit copy of beat saber, which i am using to have modded 1.39.1 on BSManager. I need a list of the song ID and names to give to cream API to unlock the dlcs. I used this list <a href="https://pastebin.com/CKAXBz8A">https://pastebin.com/CKAXBz8A</a> (the one in the FAQ on <a href="/r/BeatSaberPiracy">r/BeatSaberPiracy</a>) but it is from 2021 and doesnt give me all the songs, even though all of them are in the dlc folder. does anyone have an up to date version? Thanks in advance</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/brilliant31508"> /u/brilliant31508 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1istxmr/does_anyone_have_a_full_list_of_songs_to_put_into/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1istxmr/does_anyone_have_a_full_list_of_songs_to_put_into/">[comments]</a></span>
+

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-19T09:28:00+00:00",
+        "description": "The tenured philosophy professor at Princeton might not even be half as effective a teacher as the adjunct at the community college. The head of surgery might be relatively better at meetings and politics than they are at actually helping patients. Having a lot of social media followers doesn&#8217;t mean you&#8217;re really good at making [&#8230;]",
+        "id": 2146431,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/02/confusing-status-with-skill",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Confusing status with skill",
+        "vote": 0
+    }
+]

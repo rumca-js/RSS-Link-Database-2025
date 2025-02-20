@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cybernews",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-19T15:22:36+00:00",
+        "description": "In this video, we're bringing you the biggest cybersecurity stories.\n\ud83e\udd77 Check out a VPN with the best discount - https://cnews.link/get-nordvpn/RMteuEv47mo/\n\ud83d\uddc3\ufe0f Take Control of YOUR data - EXCLUSIVE deal - https://cnews.link/get-aura/RMteuEv47mo/\n\ud83d\udd11 Get THE BEST password manager offer - https://cnews.link/get-1password/RMteuEv47mo/\n\n\ud83d\udc8c Stay up-to-date on the latest cybersecurity trends and news by subscribing to our Cybernews newsletter: https://cnews.link/newsletter/\n\n\ud83c\udf10 Looking for even more cybersecurity insights and resources? Visit our website for exclusive content, expert advice, and more: https://cnews.link/website/\n\n\ud83d\udcac Stay connected with us on social media for the latest news, insights, and discussions around cybersecurity: https://linktr.ee/Cybernews\n\n//TIMESTAMPS//\n0:00 - Intro\n0:23 - US military credentials for sale\n2:52 - Coast Guard hacked\n4:09 - DeepSeek collects data for TikTok\n5:34 - New AI benchmarks\n6:44 - Bulletproof hosting servers taken down\n7:40 - Humane AI is over\n8",
+        "id": 2148796,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=RMteuEv47mo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 433,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCsREoj8rSRkEvxWqxr74rQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RMteuEv47mo/hqdefault.jpg",
+        "title": "US Coast Guard Hacked, Humane AI Discontinued & DeepSeek Data Collection | cybernews.com",
+        "vote": 0
+    }
+]

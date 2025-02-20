@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-19T01:55:02+00:00",
+        "description": "https://wiki.rossmanngroup.com/index.php?title=Amazon_Kindle_removes_download_feature_of_purchased_books",
+        "id": 2144738,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=XfcoUdWCB9M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XfcoUdWCB9M/hqdefault.jpg",
+        "title": "Amazon revokes the concept of owning books, can edit books you already bought; PIRACY IS THE ANSWER!",
+        "vote": 0
+    }
+]

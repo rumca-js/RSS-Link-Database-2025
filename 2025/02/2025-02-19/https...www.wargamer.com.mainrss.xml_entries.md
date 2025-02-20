@@ -1,0 +1,96 @@
+# Source:Wargamer, URL:https://www.wargamer.com/mainrss.xml, language:en-US
+
+## Sick Warhammer 40k animation shows us what getting shot by a Titan feels like
+ - [https://www.wargamer.com/warhammer-40k/imperator-titan-animation](https://www.wargamer.com/warhammer-40k/imperator-titan-animation)
+ - RSS feed: $source
+ - date published: 2025-02-19T18:32:13+00:00
+
+<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2025/02/warhammer-40k-imperator-titan-animation.jpg" class="webfeedsFeaturedVisual" alt="Sick Warhammer 40k animation shows us what getting shot by a Titan feels like" title="Sick Warhammer 40k animation shows us what getting shot by a Titan feels like">
+								<p>Imperator Titans are the largest ground-based war machines in the arsenal of <strong>Warhammer 40k</strong>'s Imperium of Man - 330-foot tall walking cathedrals, with gun arms half a football field long. So, I've often wondered: what would I see and hear when one turns its barrels on me and fires? As of today, I'm no longer curious, though, because the work of two intrepid YouTubers has created a one-minute animation of that exact experience, in awesome, terrifying detail.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/warhammer-40k/imperator-titan-animation">Sick Warhammer 40k animation shows us what getting shot
+
+## This exquisite Charizard ex Pokémon card is shockingly cheap right now
+ - [https://www.wargamer.com/pokemon-trading-card-game/charizard-ex-obsidian-flames](https://www.wargamer.com/pokemon-trading-card-game/charizard-ex-obsidian-flames)
+ - RSS feed: $source
+ - date published: 2025-02-19T18:01:38+00:00
+
+<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2025/02/charizard-obsidian-flames-price-ebay.jpg" class="webfeedsFeaturedVisual" alt="This exquisite Charizard ex Pokémon card is shockingly cheap right now" title="This exquisite Charizard ex Pokémon card is shockingly cheap right now">
+								<p>Right now, picking up Pokémon TCG singles can be an expensive endeavor. While there are some underrated cards, most modern chase cards have shot up in price following the recent bubble of hype. However, this beautiful <strong>Pokémon Charizard ex</strong> SIR from Obsidian Flames has somehow avoided the huge price hikes.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/pokemon-trading-card-game/charizard-ex-obsidian-flames">This exquisite Charizard ex Pokémon card is shockingly cheap right now</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/pokemon-trading-card-game/most-powerful-pokemon">Best Pokémon cards<
+
+## DnD Paladin 5e class explained
+ - [https://www.wargamer.com/dnd/paladin-5e-class-guide](https://www.wargamer.com/dnd/paladin-5e-class-guide)
+ - RSS feed: $source
+ - date published: 2025-02-19T17:12:48+00:00
+
+<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/10/dnd-paladin-5e.jpg" class="webfeedsFeaturedVisual" alt="DnD Paladin 5e class explained" title="DnD Paladin 5e class explained">
+								<p>The <b>DnD Paladin 5e</b> class is as durable as it is devout. Paladins excel on the frontlines, where they can smite foes and support friends with ease. Beyond the battlefield, their high Charisma and divine powers give them plenty of utility, too. This guide explains the 2014 rules for the <b>Dungeons and Dragons Paladin</b> and provides expert advice on playing a character of this class.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/dnd/paladin-5e-class-guide">DnD Paladin 5e class explained</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/dnd/2024-players-handbook-review">DnD 2024 Player's Handbook review</a>, <a href="https://www.wargamer.com/dnd/classes">DnD classes guide</a>, <a href="https://www.war
+
+## MTG’s Final Fantasy set sells out instantly, despite inflated prices
+ - [https://www.wargamer.com/magic-the-gathering/final-fantasy-prices-preorder-sales](https://www.wargamer.com/magic-the-gathering/final-fantasy-prices-preorder-sales)
+ - RSS feed: $source
+ - date published: 2025-02-19T17:00:59+00:00
+
+<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2025/02/magic-the-gathering-final-fantasy-prices-preorder-sales.jpg" class="webfeedsFeaturedVisual" alt="MTG&#8217;s Final Fantasy set sells out instantly, despite inflated prices" title="MTG&#8217;s Final Fantasy set sells out instantly, despite inflated prices">
+								<p>While <strong>Magic: The Gathering</strong> fans are grumbling about the high prices attached to the new Final Fantasy set, Wizards of the Coast probably doesn’t have much reason to heed the complaints. Early preorders went up for sale yesterday, and many items have already sold out.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/magic-the-gathering/final-fantasy-prices-preorder-sales">MTG&#8217;s Final Fantasy set sells out instantly, despite inflated prices</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/magic-the-gathering/mtg-sets-in-order">All MTG sets in order</a>, <a href=
+
+## DnD Monk 5e class guide
+ - [https://www.wargamer.com/dnd/monk-5e-class-guide](https://www.wargamer.com/dnd/monk-5e-class-guide)
+ - RSS feed: $source
+ - date published: 2025-02-19T16:41:17+00:00
+
+<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/03/dnd-monk-5e.jpg" class="webfeedsFeaturedVisual" alt="DnD Monk 5e class guide" title="DnD Monk 5e class guide">
+								<p>Through rigorous discipline and physical training, the <strong>DnD</strong> <strong>Monk 5e</strong> class masters martial arts, gaining control over their bodies well beyond the capabilities of ordinary mortals. These flexible (though sometime fragile) frontline fighters channel spiritual energy to empower themselves and perform superheroic feats. If this energy calls to you, it's time to roll your first Monk 5e character - and we can guide you through the process.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/dnd/monk-5e-class-guide">DnD Monk 5e class guide</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/dnd/2024-players-handbook-review">DnD 2024 Player's Handbook review</a>, <a href="https://www.wargamer.com/dnd/classe
+
+## Math nerd proves DnD’s new monsters hit 40% harder, on average
+ - [https://www.wargamer.com/dnd/physicist-shows-2025-dnd-monsters-more-damage](https://www.wargamer.com/dnd/physicist-shows-2025-dnd-monsters-more-damage)
+ - RSS feed: $source
+ - date published: 2025-02-19T14:40:54+00:00
+
+<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2025/02/dnd-physicist-shows-2025-dnd-monsters-more-damage.jpg" class="webfeedsFeaturedVisual" alt="Math nerd proves DnD&#8217;s new monsters hit 40% harder, on average" title="Math nerd proves DnD&#8217;s new monsters hit 40% harder, on average">
+								<p>Much has been made of the scarier monsters in the new <strong>DnD</strong> <strong>Monster Manual</strong>, with the designers touting the jaw-dropping might of high challenge rating monsters like the Blob of Annihilation. Now one DnD fan and physicist, Tom Dunn, has dunn the math to find out exactly how much stronger the new-and-improved fiends are, comparing monsters that appear in both versions of the tome.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/dnd/physicist-shows-2025-dnd-monsters-more-damage">Math nerd proves DnD&#8217;s new monsters hit 40% harder, on average</a>
+				</div>
+				MORE FROM WARGAMER: <a href="
+
+## DnD Fighter 5e class guide
+ - [https://www.wargamer.com/dnd/fighter-5e-guide](https://www.wargamer.com/dnd/fighter-5e-guide)
+ - RSS feed: $source
+ - date published: 2025-02-19T13:00:12+00:00
+
+<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2025/01/dnd-fighter-5e.jpg" class="webfeedsFeaturedVisual" alt="DnD Fighter 5e class guide" title="DnD Fighter 5e class guide">
+								<p>The <b>DnD Fighter 5e</b> class is a classic part of any adventuring party, a master of martial weaponry who can tank hits and trade blows with enemies in the front line. This guide includes the complete official <b>DnD 5e Fighter</b> rules, summaries of the many subclasses and expansions to the class, and our expert tips for how you can build the best fighter for your campaign.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/dnd/fighter-5e-guide">DnD Fighter 5e class guide</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/dnd/2024-players-handbook-review">DnD 2024 Player's Handbook review</a>, <a href="https://www.wargamer.com/dnd/classes">DnD classes guide</a>, <a href="https://www.wargamer.com/dnd/races">DnD races
+
+## DnD Druid 5e class guide
+ - [https://www.wargamer.com/dnd/druid-5e-class-guide](https://www.wargamer.com/dnd/druid-5e-class-guide)
+ - RSS feed: $source
+ - date published: 2025-02-19T12:34:37+00:00
+
+<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/03/dnd-druid-5e.jpg" class="webfeedsFeaturedVisual" alt="DnD Druid 5e class guide" title="DnD Druid 5e class guide">
+								<p>The <strong>DnD Druid 5e</strong> class is as versatile as the natural forces it commands. A living conduit for flora and fauna, a Druid can be a powerhouse of melee damage, crowd control, healing, or support. They can also be (and befriend) almost any animal in Dungeons and Dragons - which is even <em>more</em> reason to try playing one. This guide covers the core rules and top build tips for the <strong>Dungeons and Dragons Druid</strong>.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/dnd/druid-5e-class-guide">DnD Druid 5e class guide</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/dnd/2024-players-handbook-review">DnD 2024 Player's Handbook review</a>, <a href="https://www.wargamer.com/dnd/classes">DnD classes guide
+

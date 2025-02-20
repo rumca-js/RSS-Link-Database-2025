@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-19T17:17:13+00:00",
+        "description": "The open source community is facing a significant regulatory shift with the introduction of the European Union's Cyber Resilience Act (CRA), slated to take full effect by Q3 2027. In response, the Open Source Security Foundation (openSSF) and Linux Foundation Europe (LF Europe) have launched a joint initiative to ensure compliance while protecting open source maintainers from undue liability. This effort aims to provide guidance, specifications, and tools to support both maintainers and companies using open source. One of their key objectives is to clarify responsibilities, placing accountability on manufacturers that profit from open source technologies rather than individual contributors.",
+        "id": 2150002,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=zellGCTlhBo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zellGCTlhBo/hqdefault.jpg",
+        "title": "OpenSSF and LF Europe Collaborate to Ensure Open Source Compliance With Laws Like CRA",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-19T13:00:06+00:00",
+        "description": "ACCU Membership: https://tinyurl.com/ydnfkcyn\nJoin us for ACCU Conference 2025 - 1st-4th April - Online & in Bristol, UK\nhttps://accuconference.org/\n---\n\nNot Your Grandparent's C++ - The Evolution of Cpp - Phil Nash - ACCU Cambridge\n---\n\nC++ has been around, by that name, since the early 80s - but started in the 70s (as \u201cC with Classes\"). Reaching its heyday in the mid-late 90s, many people\u2019s impressions of it were formed in that time frame, or during the 13 year C++98/03 period! But C++ has evolved considerably since then and, despite what you might have heard, mostly in ways that make it safer and simpler to use. This talk takes us on a tour of the evolution of C++ - from it\u2019s genesis, following the PhD thesis of Bjarne Stroustrup - up to \u201cmodern\u201d C++20 and C++23 - and a look ahead at what C++26 and beyond may bring. The question is: is it too late to prevent C++\u2019s decline into being \u201cthe next Cobol\u201d?\n---\n\nSponsored by undo\n---\n\nPhil Nash\n\nPhil is the original author of the C++ tes",
+        "id": 2147461,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=BBRyl6vkvmI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BBRyl6vkvmI/hqdefault.jpg",
+        "title": "Not Your Grandparent's C++ - The Evolution of Cpp - Phil Nash - ACCU Cambridge",
+        "vote": 0
+    }
+]

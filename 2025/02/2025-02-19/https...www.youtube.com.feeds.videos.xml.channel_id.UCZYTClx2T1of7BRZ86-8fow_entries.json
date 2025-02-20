@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-19T18:00:49+00:00",
+        "description": "Visit https://brilliant.org/scishow/ to get started learning STEM for free. The first 200 people will get 20% off their annual premium subscription and a 30-day free trial.\n\nIf you've ever had lice, you probably think of them as a temporary annoyance. But for the salmon industry, these pesky invertebrates cause real damage. So here are some of the wildest ways that science helps us fight these infestations, from a salmon car wash to AI-powered laser robots. \n\nHosted by: Savannah Geary (they/them)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: David Johnston, Martin Osorio, Cye Stoner, Kaitlyn O'Callaghan, Jp Lynch, kickinwasabi, Bethany Matthews, Chris Curry, Blo",
+        "id": 2150263,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=xWciW1y18O0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xWciW1y18O0/hqdefault.jpg",
+        "title": "Shooting Salmon With Laser Robots",
+        "vote": 0
+    }
+]

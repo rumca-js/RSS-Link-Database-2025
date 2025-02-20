@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-19T14:00:11+00:00",
+        "description": "Try Rocket Money for free: https://RocketMoney.com/ltt (US Residents Only)  #rocketmoney #personalfinance\n\nTake your Platform SEO performance to the next level with Ahrefs and their FREE webmaster tools at http://ahrefs.com/AWT\n\nNvidia shambles its way to its latest 50 series release: The 5070 Ti. Will this be the one to impress? Find out in our review.\n\nDiscuss on the forum: https://linustechtips.com/topic/1602219-nvidia-didn%E2%80%99t-want-to-make-the-rtx-5070-ti-rtx-5070-ti-review/\n\nBuy an ASUS Prime NVIDIA GeForce RTX 5070 Ti: https://geni.us/MQ6Iobd\nShop other NVIDIA GeForce RTX 5070 Tis: https://geni.us/V1qK8P\n\nNVIDIA:\nRTX 4070 Ti: https://geni.us/IsQw3B\nRTX 4070 Ti Super: https://geni.us/VDJyl\nRTX 4080 Super: https://geni.us/h42VF\nRTX 4070 Super: https://geni.us/5nsEQp\nRTX 4060 Ti: https://geni.us/TXLG3r\nRTX 3080: https://geni.us/nfpPC\nRTX 3070: https://geni.us/6gm7\n\nAMD:\nRX 7900 XTX: https://geni.us/mt7MqHx\nRX 7900 XT: https://geni.us/uCvrB\nRX 7800 XT: https://geni.us/fHlL\nRX",
+        "id": 2148369,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=NnhU2ZvHb10",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NnhU2ZvHb10/hqdefault.jpg",
+        "title": "Nvidia Didn\u2019t Want to Make the RTX 5070 Ti",
+        "vote": 0
+    }
+]

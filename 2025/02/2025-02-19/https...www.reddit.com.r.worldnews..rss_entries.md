@@ -1,0 +1,366 @@
+# Source:World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Senate Republicans voice rare dissent after Trump blames Ukraine for Russia's invasion
+ - [https://www.reddit.com/r/worldnews/comments/1itijk0/senate_republicans_voice_rare_dissent_after_trump](https://www.reddit.com/r/worldnews/comments/1itijk0/senate_republicans_voice_rare_dissent_after_trump)
+ - RSS feed: $source
+ - date published: 2025-02-19T22:25:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itijk0/senate_republicans_voice_rare_dissent_after_trump/"> <img src="https://external-preview.redd.it/qNXHKJIrkId6w9_xmBzMrlSFmG6vvYaQwXF6g-s6YoM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=014554f2fc1d9d5e07506c7a3b0da13abc9f9269" alt="Senate Republicans voice rare dissent after Trump blames Ukraine for Russia's invasion" title="Senate Republicans voice rare dissent after Trump blames Ukraine for Russia's invasion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FinalWarningRedLine"> /u/FinalWarningRedLine </a> <br/> <span><a href="https://wpde.com/news/nation-world/senate-republicans-voice-rare-dissent-after-trump-blames-ukraine-for-russias-invasion-zelenskyy-american-russian-officials-putin-bipartisan-backlast-chuck-schumer-war">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itijk0/senate_republicans_voice_rare_dissent_after_trump/">[com
+
+## High-speed rail line with 300 km/h trains will run between Toronto and Quebec City, Trudeau announces
+ - [https://www.reddit.com/r/worldnews/comments/1ithixr/highspeed_rail_line_with_300_kmh_trains_will_run](https://www.reddit.com/r/worldnews/comments/1ithixr/highspeed_rail_line_with_300_kmh_trains_will_run)
+ - RSS feed: $source
+ - date published: 2025-02-19T21:43:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ithixr/highspeed_rail_line_with_300_kmh_trains_will_run/"> <img src="https://external-preview.redd.it/ZXojVTMFlMG7Gb1eajINsGbRv9awiQ8Z1xN3yF3rCCI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3cebb9d3b43f8041b4a0621744cf1fbea388b2f2" alt="High-speed rail line with 300 km/h trains will run between Toronto and Quebec City, Trudeau announces" title="High-speed rail line with 300 km/h trains will run between Toronto and Quebec City, Trudeau announces" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/-Mystica-"> /u/-Mystica- </a> <br/> <span><a href="https://www.cbc.ca/news/politics/trudeau-announces-high-speed-rail-quebec-toronto-1.7462538">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ithixr/highspeed_rail_line_with_300_kmh_trains_will_run/">[comments]</a></span> </td></tr></table>
+
+## Trump and Zelenskyy trade barbs as US-Ukraine relations sour over the war with Russia
+ - [https://www.reddit.com/r/worldnews/comments/1ithcm8/trump_and_zelenskyy_trade_barbs_as_usukraine](https://www.reddit.com/r/worldnews/comments/1ithcm8/trump_and_zelenskyy_trade_barbs_as_usukraine)
+ - RSS feed: $source
+ - date published: 2025-02-19T21:36:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ithcm8/trump_and_zelenskyy_trade_barbs_as_usukraine/"> <img src="https://external-preview.redd.it/aD1Bkfrvx1YsYmpOuDIMW66cnACCtSPPlECwVj4JkRk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2016a695ad2c3eb0afb90e3a7105456f482d719" alt="Trump and Zelenskyy trade barbs as US-Ukraine relations sour over the war with Russia" title="Trump and Zelenskyy trade barbs as US-Ukraine relations sour over the war with Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lurker_bee"> /u/lurker_bee </a> <br/> <span><a href="https://apnews.com/article/russia-ukraine-war-kellogg-zelenskyy-437f4c8fa4531059007dd3ab00c23458">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ithcm8/trump_and_zelenskyy_trade_barbs_as_usukraine/">[comments]</a></span> </td></tr></table>
+
+## Starmer backs Zelensky after Trump 'dictator' claim
+ - [https://www.reddit.com/r/worldnews/comments/1itgu65/starmer_backs_zelensky_after_trump_dictator_claim](https://www.reddit.com/r/worldnews/comments/1itgu65/starmer_backs_zelensky_after_trump_dictator_claim)
+ - RSS feed: $source
+ - date published: 2025-02-19T21:15:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itgu65/starmer_backs_zelensky_after_trump_dictator_claim/"> <img src="https://external-preview.redd.it/bjl5AGwX_us61G0Q4bpSqzfd_s2xnuIkVcs_LZ0CMiE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4538f4570f7c51279607fc29b1314a810e56be0" alt="Starmer backs Zelensky after Trump 'dictator' claim" title="Starmer backs Zelensky after Trump 'dictator' claim" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/notwritingasusual"> /u/notwritingasusual </a> <br/> <span><a href="https://www.bbc.co.uk/news/articles/clyrnjrjrr5o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itgu65/starmer_backs_zelensky_after_trump_dictator_claim/">[comments]</a></span> </td></tr></table>
+
+## Subsea fibre optic cable deliberately cut for the 2nd time between N.S. and N.L.
+ - [https://www.reddit.com/r/worldnews/comments/1itfqbf/subsea_fibre_optic_cable_deliberately_cut_for_the](https://www.reddit.com/r/worldnews/comments/1itfqbf/subsea_fibre_optic_cable_deliberately_cut_for_the)
+ - RSS feed: $source
+ - date published: 2025-02-19T20:30:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itfqbf/subsea_fibre_optic_cable_deliberately_cut_for_the/"> <img src="https://external-preview.redd.it/yzpmFU-Cz_Df-X73nioc-Jwq4zSm3cx5c1FR8IaII8Q.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=178bfd9730b31ebd0dbfd320e126dce67746aee0" alt="Subsea fibre optic cable deliberately cut for the 2nd time between N.S. and N.L." title="Subsea fibre optic cable deliberately cut for the 2nd time between N.S. and N.L." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/roscodawg"> /u/roscodawg </a> <br/> <span><a href="https://www.cbc.ca/news/canada/nova-scotia/bell-subsea-fibre-optic-cable-newfoundland-1.7461963">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itfqbf/subsea_fibre_optic_cable_deliberately_cut_for_the/">[comments]</a></span> </td></tr></table>
+
+## Trump’s America is Putin’s ally now
+ - [https://www.reddit.com/r/worldnews/comments/1itf8oc/trumps_america_is_putins_ally_now](https://www.reddit.com/r/worldnews/comments/1itf8oc/trumps_america_is_putins_ally_now)
+ - RSS feed: $source
+ - date published: 2025-02-19T20:10:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itf8oc/trumps_america_is_putins_ally_now/"> <img src="https://external-preview.redd.it/QC1DHRAFi7oCwgSOuXtqsP-ogpZyFIVaRifyhCYN7Ks.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=454085ef84a623a0efa0b2b5d567476efa310685" alt="Trump’s America is Putin’s ally now" title="Trump’s America is Putin’s ally now" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/krlkv"> /u/krlkv </a> <br/> <span><a href="https://www.politico.eu/article/donald-trump-america-vladimir-putin-ally-war/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itf8oc/trumps_america_is_putins_ally_now/">[comments]</a></span> </td></tr></table>
+
+## Baltic region prepares for war as Russia and US debate Ukraine's fate
+ - [https://www.reddit.com/r/worldnews/comments/1itevlc/baltic_region_prepares_for_war_as_russia_and_us](https://www.reddit.com/r/worldnews/comments/1itevlc/baltic_region_prepares_for_war_as_russia_and_us)
+ - RSS feed: $source
+ - date published: 2025-02-19T19:55:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itevlc/baltic_region_prepares_for_war_as_russia_and_us/"> <img src="https://external-preview.redd.it/gFGtDg1zGTzYWVlacCqi4O5dKsieUBcmPY0pvJ8hY4U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8be7e165ba5d734d240d6489107ef067a95a864" alt="Baltic region prepares for war as Russia and US debate Ukraine's fate" title="Baltic region prepares for war as Russia and US debate Ukraine's fate" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hashing_nonces"> /u/hashing_nonces </a> <br/> <span><a href="https://www.france24.com/en/europe/20250219-baltic-region-prepares-war-as-russia-us-debate-ukraine-fate">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itevlc/baltic_region_prepares_for_war_as_russia_and_us/">[comments]</a></span> </td></tr></table>
+
+## Britain and France working on plans for ‘reassurance force’ to protect Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1itefqk/britain_and_france_working_on_plans_for](https://www.reddit.com/r/worldnews/comments/1itefqk/britain_and_france_working_on_plans_for)
+ - RSS feed: $source
+ - date published: 2025-02-19T19:38:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itefqk/britain_and_france_working_on_plans_for/"> <img src="https://external-preview.redd.it/Ax-Axd1y0j3z-hsnwA1PtR90P6g7lWKBVIOBPQXwvaY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a091de01da85ad1cecd0c2e4da040ffac64f3d9a" alt="Britain and France working on plans for ‘reassurance force’ to protect Ukraine" title="Britain and France working on plans for ‘reassurance force’ to protect Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sweatycat"> /u/sweatycat </a> <br/> <span><a href="https://www.theguardian.com/world/2025/feb/19/britain-and-france-working-on-plans-for-reassurance-force-to-protect-ukraine">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itefqk/britain_and_france_working_on_plans_for/">[comments]</a></span> </td></tr></table>
+
+## Trump and Zelenskyy trade barbs as US-Ukraine relations sour over the war with Russia
+ - [https://www.reddit.com/r/worldnews/comments/1ite6ua/trump_and_zelenskyy_trade_barbs_as_usukraine](https://www.reddit.com/r/worldnews/comments/1ite6ua/trump_and_zelenskyy_trade_barbs_as_usukraine)
+ - RSS feed: $source
+ - date published: 2025-02-19T19:28:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ite6ua/trump_and_zelenskyy_trade_barbs_as_usukraine/"> <img src="https://external-preview.redd.it/aD1Bkfrvx1YsYmpOuDIMW66cnACCtSPPlECwVj4JkRk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2016a695ad2c3eb0afb90e3a7105456f482d719" alt="Trump and Zelenskyy trade barbs as US-Ukraine relations sour over the war with Russia" title="Trump and Zelenskyy trade barbs as US-Ukraine relations sour over the war with Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BothZookeepergame612"> /u/BothZookeepergame612 </a> <br/> <span><a href="https://apnews.com/article/russia-ukraine-war-kellogg-zelenskyy-437f4c8fa4531059007dd3ab00c23458">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ite6ua/trump_and_zelenskyy_trade_barbs_as_usukraine/">[comments]</a></span> </td></tr></table>
+
+## Scotland abortion protest arrest ‘linked to JD Vance’s misinformation’
+ - [https://www.reddit.com/r/worldnews/comments/1itcvqz/scotland_abortion_protest_arrest_linked_to_jd](https://www.reddit.com/r/worldnews/comments/1itcvqz/scotland_abortion_protest_arrest_linked_to_jd)
+ - RSS feed: $source
+ - date published: 2025-02-19T18:37:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itcvqz/scotland_abortion_protest_arrest_linked_to_jd/"> <img src="https://external-preview.redd.it/7YCupBTnAePiYlFsOToXrp5wGwEw3kj7zz_6jXISbXU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b68f7684308a85368ef5545d5745b52d118fb85f" alt="Scotland abortion protest arrest ‘linked to JD Vance’s misinformation’" title="Scotland abortion protest arrest ‘linked to JD Vance’s misinformation’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GlanAgusTreun"> /u/GlanAgusTreun </a> <br/> <span><a href="https://www.thenational.scot/news/24948981.scotland-abortion-protest-arrest-linked-jd-vances-misinformation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itcvqz/scotland_abortion_protest_arrest_linked_to_jd/">[comments]</a></span> </td></tr></table>
+
+## Trudeau says Ukraine must be included in negotiations after exclusion from U.S.-Russia talks
+ - [https://www.reddit.com/r/worldnews/comments/1itc397/trudeau_says_ukraine_must_be_included_in](https://www.reddit.com/r/worldnews/comments/1itc397/trudeau_says_ukraine_must_be_included_in)
+ - RSS feed: $source
+ - date published: 2025-02-19T18:05:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itc397/trudeau_says_ukraine_must_be_included_in/"> <img src="https://external-preview.redd.it/NAIdt7JQpN-Jxtpj8Do47lVhZUtT0e1UPtkorGMnMzY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=00e1ff98a556b2e8f6f5c5ddd9d5811b08279788" alt="Trudeau says Ukraine must be included in negotiations after exclusion from U.S.-Russia talks" title="Trudeau says Ukraine must be included in negotiations after exclusion from U.S.-Russia talks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bwr0ft1t0k"> /u/Bwr0ft1t0k </a> <br/> <span><a href="https://www.cbc.ca/news/politics/trudeau-ukraine-russia-us-negotiations-1.7462628">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itc397/trudeau_says_ukraine_must_be_included_in/">[comments]</a></span> </td></tr></table>
+
+## Zelenskyy's approval rating grows to 57%, debunking Trump's 4% support claim
+ - [https://www.reddit.com/r/worldnews/comments/1itbtl3/zelenskyys_approval_rating_grows_to_57_debunking](https://www.reddit.com/r/worldnews/comments/1itbtl3/zelenskyys_approval_rating_grows_to_57_debunking)
+ - RSS feed: $source
+ - date published: 2025-02-19T17:55:37+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Seek_Adventure"> /u/Seek_Adventure </a> <br/> <span><a href="https://www.euronews.com/2025/02/19/zelenskyys-approval-rating-grows-to-57-debunking-trumps-4-support-claim">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itbtl3/zelenskyys_approval_rating_grows_to_57_debunking/">[comments]</a></span>
+
+## President Putin announces that Russia and the United States have officially agreed to restore diplomatic relations.
+ - [https://www.reddit.com/r/worldnews/comments/1itbr8m/president_putin_announces_that_russia_and_the](https://www.reddit.com/r/worldnews/comments/1itbr8m/president_putin_announces_that_russia_and_the)
+ - RSS feed: $source
+ - date published: 2025-02-19T17:53:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itbr8m/president_putin_announces_that_russia_and_the/"> <img src="https://external-preview.redd.it/2EgkkZU96QHHIE5d3Z8ew_lyCA7Lig4wv-sUN_37N3M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3347d0b9aa27686f606a6b48caeb4c16ff19408" alt="President Putin announces that Russia and the United States have officially agreed to restore diplomatic relations." title="President Putin announces that Russia and the United States have officially agreed to restore diplomatic relations." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Epidemiolomic"> /u/Epidemiolomic </a> <br/> <span><a href="https://www.reuters.com/world/us-russia-agree-restore-diplomatic-missions-first-step-ukraine-war-talks-2025-02-18/?utm_source=chatgpt.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itbr8m/president_putin_announces_that_russia_and_the/">[comments]</a></span> </td></t
+
+## JD Vance warns Zelensky he will regret 'badmouthing' Trump and condemns his 'atrocious' response to peace talks
+ - [https://www.reddit.com/r/worldnews/comments/1itblym/jd_vance_warns_zelensky_he_will_regret](https://www.reddit.com/r/worldnews/comments/1itblym/jd_vance_warns_zelensky_he_will_regret)
+ - RSS feed: $source
+ - date published: 2025-02-19T17:47:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itblym/jd_vance_warns_zelensky_he_will_regret/"> <img src="https://external-preview.redd.it/Uj36NVmJiEQXtbCWj3ihGUqOfKNTdwfDN5y7T0zeoSw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=40432ada735f2507956d69c2ac46498a76cf2107" alt="JD Vance warns Zelensky he will regret 'badmouthing' Trump and condemns his 'atrocious' response to peace talks" title="JD Vance warns Zelensky he will regret 'badmouthing' Trump and condemns his 'atrocious' response to peace talks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EsperaDeus"> /u/EsperaDeus </a> <br/> <span><a href="https://www.dailymail.co.uk/news/article-14413657/Vice-President-Vance-warns-Zelensky-badmouthing-Trump-public-backfire-Ukrainian-presidents-broadside.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itblym/jd_vance_warns_zelensky_he_will_regret/">[comments]</a></span> </td></tr></table>
+
+## Denmark set to launch $7B defense fund over rising fears of war with Russia
+ - [https://www.reddit.com/r/worldnews/comments/1itamoe/denmark_set_to_launch_7b_defense_fund_over_rising](https://www.reddit.com/r/worldnews/comments/1itamoe/denmark_set_to_launch_7b_defense_fund_over_rising)
+ - RSS feed: $source
+ - date published: 2025-02-19T17:09:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itamoe/denmark_set_to_launch_7b_defense_fund_over_rising/"> <img src="https://external-preview.redd.it/Cz27KqTAVM5QZCxxQU4CYOVph2222CK1ICFgLmUx3-E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b12faaa01bc0aa1ab654c9cecf664dc940e9ae61" alt="Denmark set to launch $7B defense fund over rising fears of war with Russia" title="Denmark set to launch $7B defense fund over rising fears of war with Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sam88FPS"> /u/Sam88FPS </a> <br/> <span><a href="https://www.aa.com.tr/en/europe/denmark-set-to-launch-7b-defense-fund-over-rising-fears-of-war-with-russia/3484883">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itamoe/denmark_set_to_launch_7b_defense_fund_over_rising/">[comments]</a></span> </td></tr></table>
+
+## Zelensky says Trump living in Russian 'disinformation space'
+ - [https://www.reddit.com/r/worldnews/comments/1ita01c/zelensky_says_trump_living_in_russian](https://www.reddit.com/r/worldnews/comments/1ita01c/zelensky_says_trump_living_in_russian)
+ - RSS feed: $source
+ - date published: 2025-02-19T16:44:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ita01c/zelensky_says_trump_living_in_russian/"> <img src="https://external-preview.redd.it/t1FMFXo0ZLRBqXBWgCcMjpmzePLBH_Iz3i9NeNH_TxQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6bc4b08bb5dfccf334462d7e252e6c3d5b3c1ab8" alt="Zelensky says Trump living in Russian 'disinformation space'" title="Zelensky says Trump living in Russian 'disinformation space'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Peter55667"> /u/Peter55667 </a> <br/> <span><a href="https://www.bbc.com/news/articles/cvg1508r8jro">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ita01c/zelensky_says_trump_living_in_russian/">[comments]</a></span> </td></tr></table>
+
+## Trump blaming Ukraine for Putin’s war leaves Europe reeling
+ - [https://www.reddit.com/r/worldnews/comments/1it9snh/trump_blaming_ukraine_for_putins_war_leaves](https://www.reddit.com/r/worldnews/comments/1it9snh/trump_blaming_ukraine_for_putins_war_leaves)
+ - RSS feed: $source
+ - date published: 2025-02-19T16:36:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it9snh/trump_blaming_ukraine_for_putins_war_leaves/"> <img src="https://external-preview.redd.it/x6cOGGEgfXZow2vhbjuhRnLD4Ts7QRSKzE39wkUxkA0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d2774a93145cfb587cc7acaad532e0ef1d986ee" alt="Trump blaming Ukraine for Putin’s war leaves Europe reeling" title="Trump blaming Ukraine for Putin’s war leaves Europe reeling" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eaglemaxie"> /u/eaglemaxie </a> <br/> <span><a href="https://www.politico.eu/article/donald-trump-blame-ukraine-vladimir-putin-war-europe-uk-jesus/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it9snh/trump_blaming_ukraine_for_putins_war_leaves/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump says Zelensky 'dictator' without elections
+ - [https://www.reddit.com/r/worldnews/comments/1it9lwu/donald_trump_says_zelensky_dictator_without](https://www.reddit.com/r/worldnews/comments/1it9lwu/donald_trump_says_zelensky_dictator_without)
+ - RSS feed: $source
+ - date published: 2025-02-19T16:29:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it9lwu/donald_trump_says_zelensky_dictator_without/"> <img src="https://external-preview.redd.it/YfOlGvmuNccX6aF-WBmG2XOOdkhzFIuaTFbx3DMgaFY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4a9cb2927593db48af8156afe444d439d254773" alt="Donald Trump says Zelensky 'dictator' without elections" title="Donald Trump says Zelensky 'dictator' without elections" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mazda_savanna"> /u/mazda_savanna </a> <br/> <span><a href="https://www.newsweek.com/donald-trump-says-zelensky-dictator-without-elections-2033269">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it9lwu/donald_trump_says_zelensky_dictator_without/">[comments]</a></span> </td></tr></table>
+
+## Trump Brands Zelensky 'A Dictator'
+ - [https://www.reddit.com/r/worldnews/comments/1it9dp2/trump_brands_zelensky_a_dictator](https://www.reddit.com/r/worldnews/comments/1it9dp2/trump_brands_zelensky_a_dictator)
+ - RSS feed: $source
+ - date published: 2025-02-19T16:20:14+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/bruhlmaocmonbro"> /u/bruhlmaocmonbro </a> <br/> <span><a href="https://www.barrons.com/news/trump-brands-zelensky-a-dictator-54e498f3">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it9dp2/trump_brands_zelensky_a_dictator/">[comments]</a></span>
+
+## Trump attacks Zelensky in a post, calls him a dictator
+ - [https://www.reddit.com/r/worldnews/comments/1it8qp5/trump_attacks_zelensky_in_a_post_calls_him_a](https://www.reddit.com/r/worldnews/comments/1it8qp5/trump_attacks_zelensky_in_a_post_calls_him_a)
+ - RSS feed: $source
+ - date published: 2025-02-19T15:54:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it8qp5/trump_attacks_zelensky_in_a_post_calls_him_a/"> <img src="https://external-preview.redd.it/UC75LW05dz3yUI15dgb8NlKKKUPeVoocP5R3w9wXhD0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0bbf8206dfdb575c9ecafb4d5c473cdc7caa2b94" alt="Trump attacks Zelensky in a post, calls him a dictator" title="Trump attacks Zelensky in a post, calls him a dictator" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Laksebaron"> /u/Laksebaron </a> <br/> <span><a href="https://www.forexlive.com/news/trump-attacks-zelensky-in-a-post-calls-him-a-dictator-20250219/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it8qp5/trump_attacks_zelensky_in_a_post_calls_him_a/">[comments]</a></span> </td></tr></table>
+
+## France runs fusion reactor for record 22 minutes
+ - [https://www.reddit.com/r/worldnews/comments/1it8jh9/france_runs_fusion_reactor_for_record_22_minutes](https://www.reddit.com/r/worldnews/comments/1it8jh9/france_runs_fusion_reactor_for_record_22_minutes)
+ - RSS feed: $source
+ - date published: 2025-02-19T15:46:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it8jh9/france_runs_fusion_reactor_for_record_22_minutes/"> <img src="https://external-preview.redd.it/aT3FB9dWYbJb4kcW7EngrgYuGRwguUaLOAacsQ6pPRs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=62c5d1c936aa9f655c30930ba9a0748e872da121" alt="France runs fusion reactor for record 22 minutes" title="France runs fusion reactor for record 22 minutes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dukey_Wellington"> /u/Dukey_Wellington </a> <br/> <span><a href="https://newatlas.com/energy/france-tokamak-cea-west-fusion-reactor-record-plasma-duration/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it8jh9/france_runs_fusion_reactor_for_record_22_minutes/">[comments]</a></span> </td></tr></table>
+
+## China promises Latin America 'trustworthy' ties as Trump lays out demands
+ - [https://www.reddit.com/r/worldnews/comments/1it8gn4/china_promises_latin_america_trustworthy_ties_as](https://www.reddit.com/r/worldnews/comments/1it8gn4/china_promises_latin_america_trustworthy_ties_as)
+ - RSS feed: $source
+ - date published: 2025-02-19T15:43:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it8gn4/china_promises_latin_america_trustworthy_ties_as/"> <img src="https://external-preview.redd.it/_Y6Gugcx1T0A2HwXqAQX-h_DLRrNUeTiDIqPwXZSlhM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1488799e71250244cab7d8fef0fe3df84c7d485d" alt="China promises Latin America 'trustworthy' ties as Trump lays out demands" title="China promises Latin America 'trustworthy' ties as Trump lays out demands" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DifusDofus"> /u/DifusDofus </a> <br/> <span><a href="https://www.reuters.com/world/china/china-seeks-elevated-ties-with-bolivia-china-foreign-minister-says-2025-02-19/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it8gn4/china_promises_latin_america_trustworthy_ties_as/">[comments]</a></span> </td></tr></table>
+
+## Germany's AfD's far-right leader Alice Weidel held secret meetings with Chinese envoy
+ - [https://www.reddit.com/r/worldnews/comments/1it7y28/germanys_afds_farright_leader_alice_weidel_held](https://www.reddit.com/r/worldnews/comments/1it7y28/germanys_afds_farright_leader_alice_weidel_held)
+ - RSS feed: $source
+ - date published: 2025-02-19T15:21:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it7y28/germanys_afds_farright_leader_alice_weidel_held/"> <img src="https://external-preview.redd.it/OasUOwnP2VZFP9VQeTdwkUcnJk1EwHa1WByE2SOvvBA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=afbf190c3368cd742ee01378357996fc8ca32c7b" alt="Germany's AfD's far-right leader Alice Weidel held secret meetings with Chinese envoy" title="Germany's AfD's far-right leader Alice Weidel held secret meetings with Chinese envoy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SamsonFox2"> /u/SamsonFox2 </a> <br/> <span><a href="https://www.firstpost.com/world/germany-afd-far-right-leader-alice-weidel-held-secret-meetings-with-chinese-envoy-13864715.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it7y28/germanys_afds_farright_leader_alice_weidel_held/">[comments]</a></span> </td></tr></table>
+
+## Pope funeral 'is being rehearsed': Swiss Guard 'prepare for death'
+ - [https://www.reddit.com/r/worldnews/comments/1it7edx/pope_funeral_is_being_rehearsed_swiss_guard](https://www.reddit.com/r/worldnews/comments/1it7edx/pope_funeral_is_being_rehearsed_swiss_guard)
+ - RSS feed: $source
+ - date published: 2025-02-19T14:58:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it7edx/pope_funeral_is_being_rehearsed_swiss_guard/"> <img src="https://external-preview.redd.it/D4wxZ4X6kaKUZtMvYcqEPNNnkk55Vm9uDqqbszfPD8Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ef633bccd06e511d1deaeced59647ac3b71fad5a" alt="Pope funeral 'is being rehearsed': Swiss Guard 'prepare for death'" title="Pope funeral 'is being rehearsed': Swiss Guard 'prepare for death'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Honest_Dot_5035"> /u/Honest_Dot_5035 </a> <br/> <span><a href="https://www.dailymail.co.uk/news/article-14413577/pope-funeral-rehearsed-swiss-guard-pneumonia.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it7edx/pope_funeral_is_being_rehearsed_swiss_guard/">[comments]</a></span> </td></tr></table>
+
+## Fact-checking Donald Trump's claims about war in Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1it79vt/factchecking_donald_trumps_claims_about_war_in](https://www.reddit.com/r/worldnews/comments/1it79vt/factchecking_donald_trumps_claims_about_war_in)
+ - RSS feed: $source
+ - date published: 2025-02-19T14:52:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it79vt/factchecking_donald_trumps_claims_about_war_in/"> <img src="https://external-preview.redd.it/HWblYKT6OCx5a78pzRNhabJw6nDhsFGILi7nJbJdeuI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7edbcb13890091210f6f9524f26e5823c2257a3f" alt="Fact-checking Donald Trump's claims about war in Ukraine" title="Fact-checking Donald Trump's claims about war in Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SnuffleWarrior"> /u/SnuffleWarrior </a> <br/> <span><a href="https://www.bbc.com/news/articles/c9814k2jlxko">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it79vt/factchecking_donald_trumps_claims_about_war_in/">[comments]</a></span> </td></tr></table>
+
+## France says it does not understand why Trump blames Ukraine for war
+ - [https://www.reddit.com/r/worldnews/comments/1it73ge/france_says_it_does_not_understand_why_trump](https://www.reddit.com/r/worldnews/comments/1it73ge/france_says_it_does_not_understand_why_trump)
+ - RSS feed: $source
+ - date published: 2025-02-19T14:44:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it73ge/france_says_it_does_not_understand_why_trump/"> <img src="https://external-preview.redd.it/yc1Mhur_3Tf3A7QCBEYNWHaDn90sBB0vbTxDPruK1NQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f171bda729c92c36c2f4bc11e95d3c7af3d0e18c" alt="France says it does not understand why Trump blames Ukraine for war" title="France says it does not understand why Trump blames Ukraine for war" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/M795"> /u/M795 </a> <br/> <span><a href="https://www.reuters.com/world/europe/france-says-it-does-not-understand-why-trump-blames-ukraine-war-2025-02-19/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it73ge/france_says_it_does_not_understand_why_trump/">[comments]</a></span> </td></tr></table>
+
+## Russia ‘creating database of LGBTQ+ citizens’, new report claims
+ - [https://www.reddit.com/r/worldnews/comments/1it57tp/russia_creating_database_of_lgbtq_citizens_new](https://www.reddit.com/r/worldnews/comments/1it57tp/russia_creating_database_of_lgbtq_citizens_new)
+ - RSS feed: $source
+ - date published: 2025-02-19T13:15:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it57tp/russia_creating_database_of_lgbtq_citizens_new/"> <img src="https://external-preview.redd.it/3DVXTyturtQyZjwenB7GXxyx1fPBDsGRuMqDm1CpamI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d3af586b1ad0cbeaa87537ab16c89305b79c79e" alt="Russia ‘creating database of LGBTQ+ citizens’, new report claims" title="Russia ‘creating database of LGBTQ+ citizens’, new report claims" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PinkNews"> /u/PinkNews </a> <br/> <span><a href="https://www.thepinknews.com/2025/02/19/russia-lgbtq-database/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it57tp/russia_creating_database_of_lgbtq_citizens_new/">[comments]</a></span> </td></tr></table>
+
+## Ukraine doesn't want to become 'center for extraction of raw materials,' Zelensky says
+ - [https://www.reddit.com/r/worldnews/comments/1it57aq/ukraine_doesnt_want_to_become_center_for](https://www.reddit.com/r/worldnews/comments/1it57aq/ukraine_doesnt_want_to_become_center_for)
+ - RSS feed: $source
+ - date published: 2025-02-19T13:15:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it57aq/ukraine_doesnt_want_to_become_center_for/"> <img src="https://external-preview.redd.it/PVOQepR_HEyXlAK04MgKShyFn4oe5W5G7E5P4sfGoJY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=27f8b8c4413fc20ee458ffb957790cf8711ad6d7" alt="Ukraine doesn't want to become 'center for extraction of raw materials,' Zelensky says" title="Ukraine doesn't want to become 'center for extraction of raw materials,' Zelensky says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdSpecialist6598"> /u/AdSpecialist6598 </a> <br/> <span><a href="https://kyivindependent.com/ukraine-doesnt-want-to-become-center-for-extraction-of-raw-materials-for-any-continent-zelensky-says/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it57aq/ukraine_doesnt_want_to_become_center_for/">[comments]</a></span> </td></tr></table>
+
+## Russia praises Trump for saying NATO was a major cause of the war in Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1it550i/russia_praises_trump_for_saying_nato_was_a_major](https://www.reddit.com/r/worldnews/comments/1it550i/russia_praises_trump_for_saying_nato_was_a_major)
+ - RSS feed: $source
+ - date published: 2025-02-19T13:11:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it550i/russia_praises_trump_for_saying_nato_was_a_major/"> <img src="https://external-preview.redd.it/gtCXuz-BlcO3KU43bV4I7yTqXTcMr00R10GUKAZ3Idg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a0a40e50d811aeacba853f8cb60f12c6bd78327" alt="Russia praises Trump for saying NATO was a major cause of the war in Ukraine" title="Russia praises Trump for saying NATO was a major cause of the war in Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sweatycat"> /u/sweatycat </a> <br/> <span><a href="https://www.reuters.com/world/europe/russia-praises-trump-saying-nato-was-major-cause-war-ukraine-2025-02-19/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it550i/russia_praises_trump_for_saying_nato_was_a_major/">[comments]</a></span> </td></tr></table>
+
+## Zelenskiy, on US minerals deal, says: I can't sell Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1it522x/zelenskiy_on_us_minerals_deal_says_i_cant_sell](https://www.reddit.com/r/worldnews/comments/1it522x/zelenskiy_on_us_minerals_deal_says_i_cant_sell)
+ - RSS feed: $source
+ - date published: 2025-02-19T13:07:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it522x/zelenskiy_on_us_minerals_deal_says_i_cant_sell/"> <img src="https://external-preview.redd.it/vi5DZHcqdXamPUjiPxjEbAagt2ct0wmuict20u7Zw7Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=06591270add460c8854294c7b32ccb087331026f" alt="Zelenskiy, on US minerals deal, says: I can't sell Ukraine" title="Zelenskiy, on US minerals deal, says: I can't sell Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lionzzo"> /u/Lionzzo </a> <br/> <span><a href="https://www.reuters.com/world/europe/zelenskiy-us-minerals-deal-says-i-cant-sell-ukraine-2025-02-19/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it522x/zelenskiy_on_us_minerals_deal_says_i_cant_sell/">[comments]</a></span> </td></tr></table>
+
+## Zelenskiy says Trump is in disinformation bubble on Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1it4mcq/zelenskiy_says_trump_is_in_disinformation_bubble](https://www.reddit.com/r/worldnews/comments/1it4mcq/zelenskiy_says_trump_is_in_disinformation_bubble)
+ - RSS feed: $source
+ - date published: 2025-02-19T12:44:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it4mcq/zelenskiy_says_trump_is_in_disinformation_bubble/"> <img src="https://external-preview.redd.it/kWwHatI2Mkj56f5e3-AYusrBgYYFAQDDCnr3Zq65id8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=279e8e212ea4c92f9d350bba78abc67eea3e2401" alt="Zelenskiy says Trump is in disinformation bubble on Ukraine" title="Zelenskiy says Trump is in disinformation bubble on Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pecika"> /u/pecika </a> <br/> <span><a href="https://www.reuters.com/world/europe/zelenskiy-says-trump-is-disinformation-bubble-ukraine-2025-02-19/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it4mcq/zelenskiy_says_trump_is_in_disinformation_bubble/">[comments]</a></span> </td></tr></table>
+
+## Zelenskyy hits back at Trump's comments, says Ukraine is not for sale
+ - [https://www.reddit.com/r/worldnews/comments/1it44dw/zelenskyy_hits_back_at_trumps_comments_says](https://www.reddit.com/r/worldnews/comments/1it44dw/zelenskyy_hits_back_at_trumps_comments_says)
+ - RSS feed: $source
+ - date published: 2025-02-19T12:16:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it44dw/zelenskyy_hits_back_at_trumps_comments_says/"> <img src="https://external-preview.redd.it/ukRHNgN7Bg7lrvawRLPRZZx_iiDrto3ReuxDYJEkcI8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9df41fb870beb952bac354c035482bc1c17f8b7a" alt="Zelenskyy hits back at Trump's comments, says Ukraine is not for sale" title="Zelenskyy hits back at Trump's comments, says Ukraine is not for sale" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WarmingNow"> /u/WarmingNow </a> <br/> <span><a href="https://www.cnbc.com/2025/02/19/zelenskyy-hits-back-at-trumps-comments-says-ukraine-is-not-for-sale.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it44dw/zelenskyy_hits_back_at_trumps_comments_says/">[comments]</a></span> </td></tr></table>
+
+## Zelenskyy hits back at Trump's comments, says Ukraine is not for sale
+ - [https://www.reddit.com/r/worldnews/comments/1it3xh7/zelenskyy_hits_back_at_trumps_comments_says](https://www.reddit.com/r/worldnews/comments/1it3xh7/zelenskyy_hits_back_at_trumps_comments_says)
+ - RSS feed: $source
+ - date published: 2025-02-19T12:05:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it3xh7/zelenskyy_hits_back_at_trumps_comments_says/"> <img src="https://external-preview.redd.it/zswSXGRx0_PJmtQij2OCS1oF5vLYRK5DpPS3FX7UYPs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=167daac5b30575af0553da15e0d1131df1268d0d" alt="Zelenskyy hits back at Trump's comments, says Ukraine is not for sale" title="Zelenskyy hits back at Trump's comments, says Ukraine is not for sale" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/xc2215x"> /u/xc2215x </a> <br/> <span><a href="https://www.nbcnews.com/news/world/zelenskyy-trump-putin-war-ukraine-russia-started-rcna192765">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it3xh7/zelenskyy_hits_back_at_trumps_comments_says/">[comments]</a></span> </td></tr></table>
+
+## Trump Media Group Sues Brazilian Judge Weighing Arrest of Jair Bolsonaro
+ - [https://www.reddit.com/r/worldnews/comments/1it3vpx/trump_media_group_sues_brazilian_judge_weighing](https://www.reddit.com/r/worldnews/comments/1it3vpx/trump_media_group_sues_brazilian_judge_weighing)
+ - RSS feed: $source
+ - date published: 2025-02-19T12:02:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it3vpx/trump_media_group_sues_brazilian_judge_weighing/"> <img src="https://external-preview.redd.it/jHpS2My_E6IstDz6iLz6eGruwU3cABRH5b0fSy7tH4o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b50b1270910e0ac7f53990e3edd1f4e90fd99b1c" alt="Trump Media Group Sues Brazilian Judge Weighing Arrest of Jair Bolsonaro" title="Trump Media Group Sues Brazilian Judge Weighing Arrest of Jair Bolsonaro" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DomesticErrorist22"> /u/DomesticErrorist22 </a> <br/> <span><a href="https://www.nytimes.com/2025/02/19/world/americas/trump-brazil-bolsonaro-judge.html?smid=nytcore-android-share">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it3vpx/trump_media_group_sues_brazilian_judge_weighing/">[comments]</a></span> </td></tr></table>
+
+## Zelenskyy says Trump is ‘surrounded by disinformation’
+ - [https://www.reddit.com/r/worldnews/comments/1it3m30/zelenskyy_says_trump_is_surrounded_by](https://www.reddit.com/r/worldnews/comments/1it3m30/zelenskyy_says_trump_is_surrounded_by)
+ - RSS feed: $source
+ - date published: 2025-02-19T11:46:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it3m30/zelenskyy_says_trump_is_surrounded_by/"> <img src="https://external-preview.redd.it/QYobU23_wnfeGIf4WodaNm0684_tZM1JV2pW7N8-jmE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a5ad31a8e7572421acc9240eba725908f95d0ead" alt="Zelenskyy says Trump is ‘surrounded by disinformation’" title="Zelenskyy says Trump is ‘surrounded by disinformation’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DomesticErrorist22"> /u/DomesticErrorist22 </a> <br/> <span><a href="https://www.politico.eu/article/volodymyr-zelenskyy-donald-trump-surrounded-disinformation-russia-war/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it3m30/zelenskyy_says_trump_is_surrounded_by/">[comments]</a></span> </td></tr></table>
+
+## Trump snaps back at Zelenskyy, blaming Ukraine for the war
+ - [https://www.reddit.com/r/worldnews/comments/1it271i/trump_snaps_back_at_zelenskyy_blaming_ukraine_for](https://www.reddit.com/r/worldnews/comments/1it271i/trump_snaps_back_at_zelenskyy_blaming_ukraine_for)
+ - RSS feed: $source
+ - date published: 2025-02-19T10:13:38+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/doopityWoop22"> /u/doopityWoop22 </a> <br/> <span><a href="https://www.politico.com/news/2025/02/18/trump-blames-zelenskyy-ukraine-war-020517">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it271i/trump_snaps_back_at_zelenskyy_blaming_ukraine_for/">[comments]</a></span>
+
+## Zelenskyy delays Saudi Arabia visit to avoid legitimizing U.S.-Russia talks
+ - [https://www.reddit.com/r/worldnews/comments/1it25nm/zelenskyy_delays_saudi_arabia_visit_to_avoid](https://www.reddit.com/r/worldnews/comments/1it25nm/zelenskyy_delays_saudi_arabia_visit_to_avoid)
+ - RSS feed: $source
+ - date published: 2025-02-19T10:10:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it25nm/zelenskyy_delays_saudi_arabia_visit_to_avoid/"> <img src="https://external-preview.redd.it/DhbQIPfnnG2v5_tW1NCjH2rSvunB6UXKyZlPyRCAqN0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=435a358dffc6b27e2e8fa0cb77d76d3c50c09c4d" alt="Zelenskyy delays Saudi Arabia visit to avoid legitimizing U.S.-Russia talks" title="Zelenskyy delays Saudi Arabia visit to avoid legitimizing U.S.-Russia talks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PieceAffectionate460"> /u/PieceAffectionate460 </a> <br/> <span><a href="https://global.espreso.tv/world-news-zelenskyy-delays-saudi-arabia-visit-to-avoid-legitimizing-us-russia-talks">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it25nm/zelenskyy_delays_saudi_arabia_visit_to_avoid/">[comments]</a></span> </td></tr></table>
+
+## EU envoys agree ban on Russian aluminium imports in new sanctions package
+ - [https://www.reddit.com/r/worldnews/comments/1it1iya/eu_envoys_agree_ban_on_russian_aluminium_imports](https://www.reddit.com/r/worldnews/comments/1it1iya/eu_envoys_agree_ban_on_russian_aluminium_imports)
+ - RSS feed: $source
+ - date published: 2025-02-19T09:26:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it1iya/eu_envoys_agree_ban_on_russian_aluminium_imports/"> <img src="https://external-preview.redd.it/4gip8pdWZsp1IQfbhu0jiCtiWdvDHnKGEL8VXQ0cQvo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=04499001c26774422ea022aa4d8a4d3b01ab302f" alt="EU envoys agree ban on Russian aluminium imports in new sanctions package" title="EU envoys agree ban on Russian aluminium imports in new sanctions package" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/twotwo_twentytwo"> /u/twotwo_twentytwo </a> <br/> <span><a href="https://www.reuters.com/world/europe/eu-envoys-agree-ban-russian-aluminium-imports-new-sanctions-package-2025-02-19/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it1iya/eu_envoys_agree_ban_on_russian_aluminium_imports/">[comments]</a></span> </td></tr></table>
+
+## Trump blames Zelenskyy for 'starting' Ukraine war, calls him 'incompetent
+ - [https://www.reddit.com/r/worldnews/comments/1it0ocu/trump_blames_zelenskyy_for_starting_ukraine_war](https://www.reddit.com/r/worldnews/comments/1it0ocu/trump_blames_zelenskyy_for_starting_ukraine_war)
+ - RSS feed: $source
+ - date published: 2025-02-19T08:24:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it0ocu/trump_blames_zelenskyy_for_starting_ukraine_war/"> <img src="https://external-preview.redd.it/gq2tl-ZuZlqtbWOiUnnzHcqMF5pM9CGj4_ubnw9mbiY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=15b688dc8c7d5639269f656f3cf74465db61ac57" alt="Trump blames Zelenskyy for 'starting' Ukraine war, calls him 'incompetent" title="Trump blames Zelenskyy for 'starting' Ukraine war, calls him 'incompetent" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Flimsy_Cut_2690"> /u/Flimsy_Cut_2690 </a> <br/> <span><a href="https://www.business-standard.com/amp/world-news/donald-trump-volodymyr-zelenskyy-incompetent-ukraine-russia-war-putin-saudi-125021900382_1.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it0ocu/trump_blames_zelenskyy_for_starting_ukraine_war/">[comments]</a></span> </td></tr></table>
+
+## Amazon boss Jeff Bezos could face prison over knife sales to children
+ - [https://www.reddit.com/r/worldnews/comments/1it017c/amazon_boss_jeff_bezos_could_face_prison_over](https://www.reddit.com/r/worldnews/comments/1it017c/amazon_boss_jeff_bezos_could_face_prison_over)
+ - RSS feed: $source
+ - date published: 2025-02-19T07:38:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1it017c/amazon_boss_jeff_bezos_could_face_prison_over/"> <img src="https://external-preview.redd.it/Nc1Lu1E87nQVNOyoB01NbVzK2CsRtJBZ_pd0mgxLXnM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=961d76b8f48e7f4576a2d6c51ca7cba0d9436fab" alt="Amazon boss Jeff Bezos could face prison over knife sales to children" title="Amazon boss Jeff Bezos could face prison over knife sales to children" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br/> <span><a href="https://www.telegraph.co.uk/news/2025/02/19/jeff-bezos-could-face-prison-amazon-knife-sales-children/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1it017c/amazon_boss_jeff_bezos_could_face_prison_over/">[comments]</a></span> </td></tr></table>
+
+## Trump hints Ukraine election may be needed for peace - as he addresses Kyiv being left out of Russia talks
+ - [https://www.reddit.com/r/worldnews/comments/1iszw7j/trump_hints_ukraine_election_may_be_needed_for](https://www.reddit.com/r/worldnews/comments/1iszw7j/trump_hints_ukraine_election_may_be_needed_for)
+ - RSS feed: $source
+ - date published: 2025-02-19T07:28:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iszw7j/trump_hints_ukraine_election_may_be_needed_for/"> <img src="https://external-preview.redd.it/fYqmPd9Ju_tqnRWFKZRCwN8c1hwsmK-OroINhC0M66o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fcb9fe6abd509468155764fad79d026649d55126" alt="Trump hints Ukraine election may be needed for peace - as he addresses Kyiv being left out of Russia talks" title="Trump hints Ukraine election may be needed for peace - as he addresses Kyiv being left out of Russia talks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jozoz"> /u/Jozoz </a> <br/> <span><a href="https://news.sky.com/story/trump-hints-ukraine-election-may-be-needed-for-peace-as-he-addresses-kyiv-being-left-out-of-russia-talks-13312044">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iszw7j/trump_hints_ukraine_election_may_be_needed_for/">[comments]</a></span> </td></tr></table>
+
+## Eight Russian Drone Operators Blinded by Detonating FPV Goggles
+ - [https://www.reddit.com/r/worldnews/comments/1isz21e/eight_russian_drone_operators_blinded_by](https://www.reddit.com/r/worldnews/comments/1isz21e/eight_russian_drone_operators_blinded_by)
+ - RSS feed: $source
+ - date published: 2025-02-19T06:32:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1isz21e/eight_russian_drone_operators_blinded_by/"> <img src="https://external-preview.redd.it/YF36fAPzebV5rjskpfOlQwcbO3LcFXyFzEuksrNuMfI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ce47468aefea0a3a768a617ad87c1867f444f76" alt="Eight Russian Drone Operators Blinded by Detonating FPV Goggles" title="Eight Russian Drone Operators Blinded by Detonating FPV Goggles" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://united24media.com/latest-news/eight-russian-drone-operators-blinded-by-detonating-fpv-goggles-6004">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1isz21e/eight_russian_drone_operators_blinded_by/">[comments]</a></span> </td></tr></table>
+
+## China condemns Trump’s ‘tariff shocks’ at WTO, warns of possible global recession
+ - [https://www.reddit.com/r/worldnews/comments/1isxnl5/china_condemns_trumps_tariff_shocks_at_wto_warns](https://www.reddit.com/r/worldnews/comments/1isxnl5/china_condemns_trumps_tariff_shocks_at_wto_warns)
+ - RSS feed: $source
+ - date published: 2025-02-19T05:07:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1isxnl5/china_condemns_trumps_tariff_shocks_at_wto_warns/"> <img src="https://external-preview.redd.it/mCSGp_mZPdd4CwK-vsvTs0G7HUTR04OCcxc9LMalFvQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=696f2c22955b2a75007f950ae52c571168995c60" alt="China condemns Trump’s ‘tariff shocks’ at WTO, warns of possible global recession" title="China condemns Trump’s ‘tariff shocks’ at WTO, warns of possible global recession" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br/> <span><a href="https://www.scmp.com/news/world/united-states-canada/article/3299221/china-condemns-trumps-tariff-shocks-wto-warns-possible-global-recession?module=top_story&amp;pgtype=homepage">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1isxnl5/china_condemns_trumps_tariff_shocks_at_wto_warns/">[comments]</a></span> </td></tr></table>
+
+## EU must take Russia sanctions into 'its own hands,' commissioner says
+ - [https://www.reddit.com/r/worldnews/comments/1iswv60/eu_must_take_russia_sanctions_into_its_own_hands](https://www.reddit.com/r/worldnews/comments/1iswv60/eu_must_take_russia_sanctions_into_its_own_hands)
+ - RSS feed: $source
+ - date published: 2025-02-19T04:22:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iswv60/eu_must_take_russia_sanctions_into_its_own_hands/"> <img src="https://external-preview.redd.it/j7chF2vsdbKbxMHkpyHQBuJbFJ3_DOgMlgzudbtqm_M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=240a6ec34f15868718f991a03a8b0fffd6705b5f" alt="EU must take Russia sanctions into 'its own hands,' commissioner says" title="EU must take Russia sanctions into 'its own hands,' commissioner says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BothZookeepergame612"> /u/BothZookeepergame612 </a> <br/> <span><a href="https://kyivindependent.com/eu-must-take-control-over-russia-sanctions-into-its-hands-commissioner-says/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iswv60/eu_must_take_russia_sanctions_into_its_own_hands/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1091, Part 1 (Thread #1238)
+ - [https://www.reddit.com/r/worldnews/comments/1iswhjz/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1iswhjz/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: $source
+ - date published: 2025-02-19T04:02:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iswhjz/rworldnews_live_thread_russian_invasion_of/"> <img src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1091, Part 1 (Thread #1238)" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1091, Part 1 (Thread #1238)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br/> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iswhjz/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## U.S. and Russia Pursue Partnership in a Head-Spinning Shift in Relations
+ - [https://www.reddit.com/r/worldnews/comments/1isvwd4/us_and_russia_pursue_partnership_in_a](https://www.reddit.com/r/worldnews/comments/1isvwd4/us_and_russia_pursue_partnership_in_a)
+ - RSS feed: $source
+ - date published: 2025-02-19T03:32:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1isvwd4/us_and_russia_pursue_partnership_in_a/"> <img src="https://external-preview.redd.it/wr-MAffF_e0xFUB34FuoWm6S7p8KhFVZwFMoi20zUuE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e6d1932f5783a151892c6685497869d6ef2d1a7" alt="U.S. and Russia Pursue Partnership in a Head-Spinning Shift in Relations" title="U.S. and Russia Pursue Partnership in a Head-Spinning Shift in Relations" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/truss-issues"> /u/truss-issues </a> <br/> <span><a href="https://www.nytimes.com/2025/02/18/world/europe/us-russia-saudi-ukraine.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1isvwd4/us_and_russia_pursue_partnership_in_a/">[comments]</a></span> </td></tr></table>
+
+## Brazil's Bolsonaro charged in plot to poison successor in alleged coup attempt
+ - [https://www.reddit.com/r/worldnews/comments/1isu3mq/brazils_bolsonaro_charged_in_plot_to_poison](https://www.reddit.com/r/worldnews/comments/1isu3mq/brazils_bolsonaro_charged_in_plot_to_poison)
+ - RSS feed: $source
+ - date published: 2025-02-19T02:04:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1isu3mq/brazils_bolsonaro_charged_in_plot_to_poison/"> <img src="https://external-preview.redd.it/VYXmj2qJ9mVDa9WERheL7p4RD-3QVIF9aa-5tgfLxnk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8ad8aeeffeb9d019af2dbe31c449fab206148ff7" alt="Brazil's Bolsonaro charged in plot to poison successor in alleged coup attempt" title="Brazil's Bolsonaro charged in plot to poison successor in alleged coup attempt" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Puginator"> /u/Puginator </a> <br/> <span><a href="https://www.cbc.ca/news/world/bolsonaro-poison-plot-lula-1.7462356">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1isu3mq/brazils_bolsonaro_charged_in_plot_to_poison/">[comments]</a></span> </td></tr></table>
+
+## Putin’s mouthpieces are in a lather of excitement over the US administration’s willingness to make a deal to their liking
+ - [https://www.reddit.com/r/worldnews/comments/1istg54/putins_mouthpieces_are_in_a_lather_of_excitement](https://www.reddit.com/r/worldnews/comments/1istg54/putins_mouthpieces_are_in_a_lather_of_excitement)
+ - RSS feed: $source
+ - date published: 2025-02-19T01:34:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1istg54/putins_mouthpieces_are_in_a_lather_of_excitement/"> <img src="https://external-preview.redd.it/iPjD_tLpoXwGII8V-cHjb5zw18mBFET1YNLPlDGpWFs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f3377d9bf8d140aa5e99cdc82a1c5793fb45259" alt="Putin’s mouthpieces are in a lather of excitement over the US administration’s willingness to make a deal to their liking" title="Putin’s mouthpieces are in a lather of excitement over the US administration’s willingness to make a deal to their liking" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/socialcreditor1984"> /u/socialcreditor1984 </a> <br/> <span><a href="https://cepa.org/article/the-us-is-doing-russias-work-say-ecstatic-propagandists/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1istg54/putins_mouthpieces_are_in_a_lather_of_excitement/">[comments]</a></span> </td></tr></table>
+
+## Brazil Charges Bolsonaro With Attempting a Coup After He Lost the 2022 Election
+ - [https://www.reddit.com/r/worldnews/comments/1issvfd/brazil_charges_bolsonaro_with_attempting_a_coup](https://www.reddit.com/r/worldnews/comments/1issvfd/brazil_charges_bolsonaro_with_attempting_a_coup)
+ - RSS feed: $source
+ - date published: 2025-02-19T01:07:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1issvfd/brazil_charges_bolsonaro_with_attempting_a_coup/"> <img src="https://external-preview.redd.it/uvwo08UW4mHVSaw3H-Z099aFY2frW-P4TXET_CdYdL4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=39d70a84a5e9b1f57a9ea22ac4f594f0acc8ad38" alt="Brazil Charges Bolsonaro With Attempting a Coup After He Lost the 2022 Election" title="Brazil Charges Bolsonaro With Attempting a Coup After He Lost the 2022 Election" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DisappointedLily"> /u/DisappointedLily </a> <br/> <span><a href="https://www.nytimes.com/2025/02/18/world/americas/brazil-bolsonaro-coup-charges.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1issvfd/brazil_charges_bolsonaro_with_attempting_a_coup/">[comments]</a></span> </td></tr></table>
+
+## Brazil’s ex-President Jair Bolsonaro charged over alleged coup plot
+ - [https://www.reddit.com/r/worldnews/comments/1isstoe/brazils_expresident_jair_bolsonaro_charged_over](https://www.reddit.com/r/worldnews/comments/1isstoe/brazils_expresident_jair_bolsonaro_charged_over)
+ - RSS feed: $source
+ - date published: 2025-02-19T01:05:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1isstoe/brazils_expresident_jair_bolsonaro_charged_over/"> <img src="https://external-preview.redd.it/R42JkuPWoYH6KbOARmuTfUzl3fW4fEd46T4F_Gi1qLE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=48f56b1a3c5cc8cfc5345fa25b3116f82cac70c0" alt="Brazil’s ex-President Jair Bolsonaro charged over alleged coup plot" title="Brazil’s ex-President Jair Bolsonaro charged over alleged coup plot" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theindependentonline"> /u/theindependentonline </a> <br/> <span><a href="https://www.independent.co.uk/news/world/americas/brazil-bolsonaro-charges-coup-plot-b2700548.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1isstoe/brazils_expresident_jair_bolsonaro_charged_over/">[comments]</a></span> </td></tr></table>
+
+## Brazil Charges Bolsonaro With Attempting a Coup
+ - [https://www.reddit.com/r/worldnews/comments/1iss7xd/brazil_charges_bolsonaro_with_attempting_a_coup](https://www.reddit.com/r/worldnews/comments/1iss7xd/brazil_charges_bolsonaro_with_attempting_a_coup)
+ - RSS feed: $source
+ - date published: 2025-02-19T00:38:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iss7xd/brazil_charges_bolsonaro_with_attempting_a_coup/"> <img src="https://external-preview.redd.it/uvwo08UW4mHVSaw3H-Z099aFY2frW-P4TXET_CdYdL4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=39d70a84a5e9b1f57a9ea22ac4f594f0acc8ad38" alt="Brazil Charges Bolsonaro With Attempting a Coup" title="Brazil Charges Bolsonaro With Attempting a Coup" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SprocketTheWetToad"> /u/SprocketTheWetToad </a> <br/> <span><a href="https://www.nytimes.com/2025/02/18/world/americas/brazil-charges-bolsonaro-with-attempting-a-coup.html?smid=nytcore-ios-share&amp;referringSource=articleShare">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iss7xd/brazil_charges_bolsonaro_with_attempting_a_coup/">[comments]</a></span> </td></tr></table>
+
+## Brazil general prosecutor charges Bolsonaro for alleged coup plot
+ - [https://www.reddit.com/r/worldnews/comments/1isrkjd/brazil_general_prosecutor_charges_bolsonaro_for](https://www.reddit.com/r/worldnews/comments/1isrkjd/brazil_general_prosecutor_charges_bolsonaro_for)
+ - RSS feed: $source
+ - date published: 2025-02-19T00:09:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1isrkjd/brazil_general_prosecutor_charges_bolsonaro_for/"> <img src="https://external-preview.redd.it/02T94d1lnn2dPRganaXtXa-p5gqW7ASIpJlRYF-JB2A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=225532eb4c80bfb143024c23d284ebd4a2aee633" alt="Brazil general prosecutor charges Bolsonaro for alleged coup plot" title="Brazil general prosecutor charges Bolsonaro for alleged coup plot" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Thanatyr"> /u/Thanatyr </a> <br/> <span><a href="https://www.reuters.com/world/americas/brazil-general-prosecutor-charges-bolsonaro-alleged-coup-plot-2025-02-19/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1isrkjd/brazil_general_prosecutor_charges_bolsonaro_for/">[comments]</a></span> </td></tr></table>
+

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-19T12:48:16+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Brief interview with Aenu, the developer of APS3e: <a href=\"https://www.emusilent.net/2025/02/19/aps3e/#more-38566\">https://www.emusilent.net/2025/02/19/aps3e/#more-38566</a></p> <p>The interview gives a bit more insight from Aenu about the current issues with regards to open sourcing the project and answering some questions about the project. Link is in Chinese, so use browser translation.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NXGZ\"> /u/NXGZ </a> <br/> <span><a href=\"https://www.reddit.com/r/emulation/comments/1it4oof/aps3e_android_ps3_emulator_developer_interview/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/emulation/comments/1it4oof/aps3e_android_ps3_emulator_developer_interview/\">[comments]</a></span>",
+        "id": 2150561,
+        "language": null,
+        "link": "https://www.reddit.com/r/emulation/comments/1it4oof/aps3e_android_ps3_emulator_developer_interview",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "APS3e (android PS3 emulator) developer interview - future plans and current controversy surrounding the project.",
+        "vote": 0
+    }
+]

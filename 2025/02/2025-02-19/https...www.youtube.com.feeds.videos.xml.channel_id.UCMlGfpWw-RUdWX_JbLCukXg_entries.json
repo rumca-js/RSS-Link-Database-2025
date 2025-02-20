@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-19T15:07:07+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nSession Types in C++ - A Programmer's Journey - Miodrag Misha Djukic - CppCon 2024\n---\n\nSession types are the next big thing that will ensure correctness of communication code, and thus make concurrent and distributed software more reliable and easier to construct... at least some people view them that way; although they might also be viewed as just a new weird thing from type theory realm (\"functional programming stuff\") devised by overly enthusiastic mathematicians, but which is too complicated and cumbersome to be of practical use. Whichever is your own point of view on the line between these two extremes, come to this journey through the first know implementation of session types in C++ if you want: to see the main idea of session types explained in practical programming terms, to understand how and when session types might be useful, or just to enjoy exploring the limits of C++.\n\nThe talk targets wider audience, and does not require any strong mathematic",
+        "id": 2149044,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=2uzYFhJjbNM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2uzYFhJjbNM/hqdefault.jpg",
+        "title": "Session Types in C++ - A Programmer's Journey - Miodrag Misha Djukic - CppCon 2024",
+        "vote": 0
+    }
+]
