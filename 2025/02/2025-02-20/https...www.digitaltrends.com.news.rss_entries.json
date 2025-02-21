@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-20T14:46:42+00:00",
+        "description": "A possible Migration app is spotted in a Windows 11 build that could make transferring files to a new PC a breeze if it's released.",
+        "id": 2156934,
+        "language": "en-US",
+        "link": "https://www.digitaltrends.com/computing/ive-been-waiting-for-this-possible-windows-11-transfer-tool",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 94,
+        "source_url": "https://www.digitaltrends.com/news/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I\u2019ve been waiting for this possible Windows 11 transfer tool",
+        "vote": 0
+    }
+]

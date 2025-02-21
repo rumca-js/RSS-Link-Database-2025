@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-20T14:54:31+00:00",
+        "description": "Learn the basics of Kubernetes and how to deploy on EKS. You'll also learn how Pulumi can help with Infrastructure as Code.\n\nCourse created by  @beau .\n\nCreate a Pulumi Open Source account: https://app.pulumi.com/signup?utm_source=freeCodeCamp\n\n\ud83c\udfd7\ufe0f Pulumi provided a grant to make this course possible.\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n00:00 Intro\n01:11 Kubernetes Basics\n03:58 Simple Kubernetes Project\n05:09 Docker Basics\n08:26 Pods\n11:58 Deployments\n13:16 Services\n15:08 ConfigMaps and Secrets\n17:07 Verify Delpoyment\n18:14 Kubernetes in Real Word App\n26:18 EKS Basics\n28:47 Why Pulumi?\n29:53 Simple Pulumi Project\n40:23 Deploying Zephyr App to EKS with Pulumi\n46:56 Using Pulumi Copilot to Deploy to EKS \n57:45 Using Pulumi Insights",
+        "id": 2157323,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=hK8wf18SasY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hK8wf18SasY/hqdefault.jpg",
+        "title": "Kubernetes and EKS for Beginners \u2013 Crash Course with Pulumi",
+        "vote": 0
+    }
+]

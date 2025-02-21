@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-20T17:03:00+00:00",
+        "description": "Engineers with NASA\u2019s Exploration Ground Systems complete stacking operations on the twin SLS (Space Launch System) solid rocket boosters for Artemis II by integrating the nose cones atop the forward assemblies inside the Vehicle Assembly Building\u2019s High Bay 3 at NASA\u2019s Kennedy Space Center in Florida on Wednesday, Feb. 19, 2025. The twin solid boosters will help support the remaining rocket components and the Orion spacecraft during final assembly of the Artemis II Moon rocket and provide more than 75 percent of the total SLS thrust during liftoff from NASA Kennedy\u2019s Launch Pad 39B.",
+        "id": 2158500,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/afs-8-101-981",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Artemis II Rocket Booster Stacking Complete",
+        "vote": 0
+    }
+]

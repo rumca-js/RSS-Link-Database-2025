@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-20T23:09:06+00:00",
+        "description": "\u201cGrand Theft Hamlet,\u201d which debuts on Mubi Friday, is a documentary about how a group of friends brought \"Hamlet\" to life in Grand Theft Auto.",
+        "id": 2161339,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/tech/grand-theft-hamlet-gta-video-game-production-documentary-rcna192880",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-02/250219-GTAHamlet-aa-3000-cbf872.jpg",
+        "title": "To speed or not to speed: How 'Hamlet' came to Grand Theft Auto",
+        "vote": 0
+    }
+]

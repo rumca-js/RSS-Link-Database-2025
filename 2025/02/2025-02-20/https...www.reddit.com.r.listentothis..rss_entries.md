@@ -1,0 +1,121 @@
+# Source:Listen To This, URL:https://www.reddit.com/r/listentothis/.rss, language:
+
+## CICA - Rootless Bloom [R&B Fusion] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1iucfmn/cica_rootless_bloom_rb_fusion_2025](https://www.reddit.com/r/listentothis/comments/1iucfmn/cica_rootless_bloom_rb_fusion_2025)
+ - RSS feed: $source
+ - date published: 2025-02-20T23:16:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iucfmn/cica_rootless_bloom_rb_fusion_2025/"> <img src="https://external-preview.redd.it/0-vabC3LPMBhbTMgmWj9iuKfFMSSYp7XbXraUd2b-Hg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=895beba0a050c49229a431fd6068af643fba7e4e" alt="CICA - Rootless Bloom [R&amp;B Fusion] (2025)" title="CICA - Rootless Bloom [R&amp;B Fusion] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/abaek_doodles"> /u/abaek_doodles </a> <br/> <span><a href="https://youtube.com/watch?v=VKIE-7XWbr8&amp;si=zhi8oYXROS9fNe2j">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iucfmn/cica_rootless_bloom_rb_fusion_2025/">[comments]</a></span> </td></tr></table>
+
+## Saint Nick the Lesser -- Catfish Bones [Alternative Country Blues] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1iu87af/saint_nick_the_lesser_catfish_bones_alternative](https://www.reddit.com/r/listentothis/comments/1iu87af/saint_nick_the_lesser_catfish_bones_alternative)
+ - RSS feed: $source
+ - date published: 2025-02-20T20:17:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iu87af/saint_nick_the_lesser_catfish_bones_alternative/"> <img src="https://external-preview.redd.it/01r4hvS08I7RGTkXzuF881qKpJjZfWGGudydXND_BFA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8b15ba33f80383699a4b37f4909f11834edfc36d" alt="Saint Nick the Lesser -- Catfish Bones [Alternative Country Blues] (2025)" title="Saint Nick the Lesser -- Catfish Bones [Alternative Country Blues] (2025)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://youtu.be/6zt9OR2T8pc?si=">https://youtu.be/6zt9OR2T8pc?si=</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fun-Afternoon5529"> /u/Fun-Afternoon5529 </a> <br/> <span><a href="https://youtu.be/6zt9OR2T8pc?si=kaK8YxrhKT0BA8lw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iu87af/saint_nick_the_lesser_catfish_bones_alternative/">[comments]</a></span> </td></tr></table>
+
+## Corpo-Mente - Encell [Live at Improve Tone Studios] (2015)
+ - [https://www.reddit.com/r/listentothis/comments/1iu5lkf/corpomente_encell_live_at_improve_tone_studios](https://www.reddit.com/r/listentothis/comments/1iu5lkf/corpomente_encell_live_at_improve_tone_studios)
+ - RSS feed: $source
+ - date published: 2025-02-20T18:31:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iu5lkf/corpomente_encell_live_at_improve_tone_studios/"> <img src="https://external-preview.redd.it/iRc8FSIcpACHaK9TP2gyiC-et-96gjbseDxIHHZDY0U.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=973f72b00fa89e59cd3658e1beacf51986364c36" alt="Corpo-Mente - Encell [Live at Improve Tone Studios] (2015)" title="Corpo-Mente - Encell [Live at Improve Tone Studios] (2015)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AUTOMATA88"> /u/AUTOMATA88 </a> <br/> <span><a href="https://youtu.be/b1WdPtyeg5E?si=pZvLjo-lLd5NtUIq">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iu5lkf/corpomente_encell_live_at_improve_tone_studios/">[comments]</a></span> </td></tr></table>
+
+## Damascus Ambient EXTENDED Remix
+ - [https://www.reddit.com/r/listentothis/comments/1iu4rxx/damascus_ambient_extended_remix](https://www.reddit.com/r/listentothis/comments/1iu4rxx/damascus_ambient_extended_remix)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:59:11+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.youtube.com/watch?v=wfVSxVpGm_Y">Music at its Best</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/carsilike"> /u/carsilike </a> <br/> <span><a href="https://www.reddit.com/r/listentothis/comments/1iu4rxx/damascus_ambient_extended_remix/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iu4rxx/damascus_ambient_extended_remix/">[comments]</a></span>
+
+## Scott Carey — Cold Beer [Country] (2012)
+ - [https://www.reddit.com/r/listentothis/comments/1iu4ozj/scott_carey_cold_beer_country_2012](https://www.reddit.com/r/listentothis/comments/1iu4ozj/scott_carey_cold_beer_country_2012)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:55:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iu4ozj/scott_carey_cold_beer_country_2012/"> <img src="https://external-preview.redd.it/tK7Hpc33mEW0n5Ila9quem4gSe6ToRTYCcatHYx_x_A.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=40d2a3f44081703cbbcd11a70c8a0d10856cca58" alt="Scott Carey — Cold Beer [Country] (2012)" title="Scott Carey — Cold Beer [Country] (2012)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Bright, catchy country with a good hook about the virtues of a cold beer. It’s been slept on for 13 years, give it a go!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spurki"> /u/spurki </a> <br/> <span><a href="https://open.spotify.com/track/4DurlncGnWIqtLockNpMO6?si=PexXSL3fSjy_eFYS2zGArQ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iu4ozj/scott_carey_cold_beer_country_2012/">[comments]</a></span> </td></tr></table>
+
+## Solar Massacre - Someone Says [Psych Rock] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1iu43w4/solar_massacre_someone_says_psych_rock_2024](https://www.reddit.com/r/listentothis/comments/1iu43w4/solar_massacre_someone_says_psych_rock_2024)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:32:03+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BabiesControlReddit"> /u/BabiesControlReddit </a> <br/> <span><a href="https://open.spotify.com/track/1Ya3OATONCUHsmCksurW0I?si=pLu-X4nBR52M4pj0WVzZUQ&amp;context=spotify%3Aalbum%3A6XbNE9WXjsROEuFEdw0Aao">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iu43w4/solar_massacre_someone_says_psych_rock_2024/">[comments]</a></span>
+
+## Solar Massacre - Stereo Jam [Psych Rock] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1iu438d/solar_massacre_stereo_jam_psych_rock_2024](https://www.reddit.com/r/listentothis/comments/1iu438d/solar_massacre_stereo_jam_psych_rock_2024)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:31:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iu438d/solar_massacre_stereo_jam_psych_rock_2024/"> <img src="https://external-preview.redd.it/_Kp8XDKfS6y1vL1u5TE7oMh7d3b3Gyd-EC4MG8n18zQ.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ef0947e86220f0bcf4c55446bc9a0b4462272e47" alt="Solar Massacre - Stereo Jam [Psych Rock] (2024)" title="Solar Massacre - Stereo Jam [Psych Rock] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BabiesControlReddit"> /u/BabiesControlReddit </a> <br/> <span><a href="https://open.spotify.com/track/7cCtp5aMiFn3mzxHB3Peda?si=KUU0Xjz6QUO26ejfWiTiag">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iu438d/solar_massacre_stereo_jam_psych_rock_2024/">[comments]</a></span> </td></tr></table>
+
+## Solar Massacre - Just Carry On [Psych Rock] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1iu41xv/solar_massacre_just_carry_on_psych_rock_2024](https://www.reddit.com/r/listentothis/comments/1iu41xv/solar_massacre_just_carry_on_psych_rock_2024)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:29:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iu41xv/solar_massacre_just_carry_on_psych_rock_2024/"> <img src="https://external-preview.redd.it/3ylHuHs9I-qxcAzqWMh7ciX3XSfA06YRPD6aHmTImA4.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=45546d700f3a122d7a7ea9e604ccd6a2a32f3485" alt="Solar Massacre - Just Carry On [Psych Rock] (2024)" title="Solar Massacre - Just Carry On [Psych Rock] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BabiesControlReddit"> /u/BabiesControlReddit </a> <br/> <span><a href="https://open.spotify.com/track/3GEVGYgsJ1ohYmfQOAML5s?si=IvO4ejZlQMup8z9igAyh8g">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iu41xv/solar_massacre_just_carry_on_psych_rock_2024/">[comments]</a></span> </td></tr></table>
+
+## Tide Lines - Homeward Bound [Scottish Folk] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1iu3eh9/tide_lines_homeward_bound_scottish_folk_2024](https://www.reddit.com/r/listentothis/comments/1iu3eh9/tide_lines_homeward_bound_scottish_folk_2024)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:03:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iu3eh9/tide_lines_homeward_bound_scottish_folk_2024/"> <img src="https://external-preview.redd.it/LH6_ht4UoF7WAFu7QfI0Yi05pJovKuuhaUvPbB7YLgs.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=37a98c536c603eb925601bdedf3dbbbb571cb2f9" alt="Tide Lines - Homeward Bound [Scottish Folk] (2024)" title="Tide Lines - Homeward Bound [Scottish Folk] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nonchalant_Bonafide"> /u/Nonchalant_Bonafide </a> <br/> <span><a href="https://open.spotify.com/track/4h7BYWWx7URPm5OFGsdvxn?si=5g_uBLIuTxKMHmWqQ-t3_A">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iu3eh9/tide_lines_homeward_bound_scottish_folk_2024/">[comments]</a></span> </td></tr></table>
+
+## [Discussion] Help With My Thesis! - Seeking Song Recommendations
+ - [https://www.reddit.com/r/listentothis/comments/1iu34kr/discussion_help_with_my_thesis_seeking_song](https://www.reddit.com/r/listentothis/comments/1iu34kr/discussion_help_with_my_thesis_seeking_song)
+ - RSS feed: $source
+ - date published: 2025-02-20T16:53:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone!</p> <p>I’m working on my master’s thesis about musical expressiveness, and I need your help finding material to analyze. I’m looking at how different instruments—percussion, strings, woodwinds, brass, synths etc.—convey emotion and expression in unique musical contexts, but I don’t want to limit myself to just classical or jazz (though if you have an interesting example from those genres, I would also greatly appreciate. Bonus points if there are different versions of the same song that show contrast in expressiveness!). </p> <p>I’ve already analyzed three interpretations of Beethoven’s 5th Symphony (Iván Fischer, Herbert von Karajan, and Daniel Barenboim) to establish a foundation, but my aim is to explore musical expression on a larger scale beyond just classical and jazz. While these genres are rich in expressive nuance, I want to avoid going too deep into them so that the scope remains manageable. </p> <p>What are some tracks you’d 
+
+## Kaleb Wyatt - Don't Wear It Out [Trap] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1iu2nr0/kaleb_wyatt_dont_wear_it_out_trap_2025](https://www.reddit.com/r/listentothis/comments/1iu2nr0/kaleb_wyatt_dont_wear_it_out_trap_2025)
+ - RSS feed: $source
+ - date published: 2025-02-20T16:34:01+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/CC_Ballistics"> /u/CC_Ballistics </a> <br/> <span><a href="https://youtu.be/efT2bcUl6oc?si=QxdsGV3kusGKLJ1e">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iu2nr0/kaleb_wyatt_dont_wear_it_out_trap_2025/">[comments]</a></span>
+
+## Oldsoul -- Lavender Cane [indie rock] (2023)
+ - [https://www.reddit.com/r/listentothis/comments/1iu1f6y/oldsoul_lavender_cane_indie_rock_2023](https://www.reddit.com/r/listentothis/comments/1iu1f6y/oldsoul_lavender_cane_indie_rock_2023)
+ - RSS feed: $source
+ - date published: 2025-02-20T15:42:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iu1f6y/oldsoul_lavender_cane_indie_rock_2023/"> <img src="https://external-preview.redd.it/FT0Biu3PNh1oxFL4sAXiPwiQA2b7Mg046CJFKhdPWqg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=52626f3e8d20519bf73d8463fb46cf5876ac41db" alt="Oldsoul -- Lavender Cane [indie rock] (2023)" title="Oldsoul -- Lavender Cane [indie rock] (2023)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/qazz23"> /u/qazz23 </a> <br/> <span><a href="https://oldsoulma.bandcamp.com/track/lavender-cane">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iu1f6y/oldsoul_lavender_cane_indie_rock_2023/">[comments]</a></span> </td></tr></table>
+
+## Max Fry -- Dark Out [Indie Rock] (2023)
+ - [https://www.reddit.com/r/listentothis/comments/1iu0vks/max_fry_dark_out_indie_rock_2023](https://www.reddit.com/r/listentothis/comments/1iu0vks/max_fry_dark_out_indie_rock_2023)
+ - RSS feed: $source
+ - date published: 2025-02-20T15:19:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iu0vks/max_fry_dark_out_indie_rock_2023/"> <img src="https://external-preview.redd.it/Ant5DNjbkJR96RqwPSBQSlygj9XOkKB8wTYse-y2Udw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=48a5e6a1d5c763605bd3bb9e9a9e7b1398ea3b02" alt="Max Fry -- Dark Out [Indie Rock] (2023)" title="Max Fry -- Dark Out [Indie Rock] (2023)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/whodafok"> /u/whodafok </a> <br/> <span><a href="https://www.youtube.com/watch?v=Z-qEYCvm50I">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iu0vks/max_fry_dark_out_indie_rock_2023/">[comments]</a></span> </td></tr></table>
+
+## The Meditations -- Jack On Top [Reggae] (1983)
+ - [https://www.reddit.com/r/listentothis/comments/1itxaem/the_meditations_jack_on_top_reggae_1983](https://www.reddit.com/r/listentothis/comments/1itxaem/the_meditations_jack_on_top_reggae_1983)
+ - RSS feed: $source
+ - date published: 2025-02-20T12:24:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1itxaem/the_meditations_jack_on_top_reggae_1983/"> <img src="https://external-preview.redd.it/ebpQy_TDY4B2_oFfbEr73HdkgoCZo9olA0-JpNiq51M.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=97d1fee780affd2b112b30aca52b88f82e31c575" alt="The Meditations -- Jack On Top [Reggae] (1983)" title="The Meditations -- Jack On Top [Reggae] (1983)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheProcrastafarian"> /u/TheProcrastafarian </a> <br/> <span><a href="https://youtu.be/8kXFvVdnADY?si=GzjD_bm6WFK_JnzW">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1itxaem/the_meditations_jack_on_top_reggae_1983/">[comments]</a></span> </td></tr></table>
+
+## Indigo Dream -- You're The One [Alt-rock/Indie] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1itvwda/indigo_dream_youre_the_one_altrockindie_2025](https://www.reddit.com/r/listentothis/comments/1itvwda/indigo_dream_youre_the_one_altrockindie_2025)
+ - RSS feed: $source
+ - date published: 2025-02-20T10:57:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1itvwda/indigo_dream_youre_the_one_altrockindie_2025/"> <img src="https://external-preview.redd.it/gkYHau13ay6D7L7dpPpXJPlFefcj66u27ZDnEP4U7JQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1ff417a51c5ec98be7e93d255e510bb0088f094c" alt="Indigo Dream -- You're The One [Alt-rock/Indie] (2025)" title="Indigo Dream -- You're The One [Alt-rock/Indie] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Chxrgerifle"> /u/Chxrgerifle </a> <br/> <span><a href="https://www.youtube.com/watch?v=X2VGplCILzo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1itvwda/indigo_dream_youre_the_one_altrockindie_2025/">[comments]</a></span> </td></tr></table>
+
+## Joy Killed the Duke - When I Break My Back [Alt Rock] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1itu7s0/joy_killed_the_duke_when_i_break_my_back_alt_rock](https://www.reddit.com/r/listentothis/comments/1itu7s0/joy_killed_the_duke_when_i_break_my_back_alt_rock)
+ - RSS feed: $source
+ - date published: 2025-02-20T08:58:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1itu7s0/joy_killed_the_duke_when_i_break_my_back_alt_rock/"> <img src="https://external-preview.redd.it/pQerOKvy2u0qujg3FNApvJNKIjcVnROWMctHDgpzAp0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2658cbf83f61bed89963e6692084bb4df3271305" alt="Joy Killed the Duke - When I Break My Back [Alt Rock] (2024)" title="Joy Killed the Duke - When I Break My Back [Alt Rock] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/castiel65"> /u/castiel65 </a> <br/> <span><a href="https://youtu.be/tnZcLvQ5EcE">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1itu7s0/joy_killed_the_duke_when_i_break_my_back_alt_rock/">[comments]</a></span> </td></tr></table>
+
+## Rugh - For Steven [math rock] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1itoqww/rugh_for_steven_math_rock_2025](https://www.reddit.com/r/listentothis/comments/1itoqww/rugh_for_steven_math_rock_2025)
+ - RSS feed: $source
+ - date published: 2025-02-20T03:16:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1itoqww/rugh_for_steven_math_rock_2025/"> <img src="https://external-preview.redd.it/bk8ilWSCGMfbtyH4xeMI7I-kwR4qnLEbFRrWK-OmaAo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0a04e0660d80651b4d6e2c67dfa262a703c2f916" alt="Rugh - For Steven [math rock] (2025)" title="Rugh - For Steven [math rock] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/uglymars"> /u/uglymars </a> <br/> <span><a href="https://youtu.be/CT0Yi7MWg_o?si=YjYqr090SZMpt1U8">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1itoqww/rugh_for_steven_math_rock_2025/">[comments]</a></span> </td></tr></table>
+

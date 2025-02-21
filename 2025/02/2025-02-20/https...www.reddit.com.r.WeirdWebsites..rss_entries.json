@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-20T02:35:41+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/WeirdWebsites/comments/1itnyeh/isthebestcom/\"> <img src=\"https://preview.redd.it/o4g37cznh7ke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c1f8d90f1ee8ecd8ca4e3038827f49cf811722bc\" alt=\"Isthebest.com\" title=\"Isthebest.com\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>This website is scary</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/OrganicGarden6580\"> /u/OrganicGarden6580 </a> <br/> <span><a href=\"https://i.redd.it/o4g37cznh7ke1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/WeirdWebsites/comments/1itnyeh/isthebestcom/\">[comments]</a></span> </td></tr></table>",
+        "id": 2153430,
+        "language": null,
+        "link": "https://www.reddit.com/r/WeirdWebsites/comments/1itnyeh/isthebestcom",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 579,
+        "source_url": "https://www.reddit.com/r/WeirdWebsites/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/o4g37cznh7ke1.jpeg?width=640&crop=smart&auto=webp&s=c1f8d90f1ee8ecd8ca4e3038827f49cf811722bc",
+        "title": "Isthebest.com",
+        "vote": 0
+    }
+]

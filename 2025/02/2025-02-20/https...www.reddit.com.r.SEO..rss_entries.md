@@ -1,0 +1,184 @@
+# Source:Search Engine Optimization: The Latest SEO News, URL:https://www.reddit.com/r/SEO/.rss, language:en
+
+## ICANN Question
+ - [https://www.reddit.com/r/SEO/comments/1iubmge/icann_question](https://www.reddit.com/r/SEO/comments/1iubmge/icann_question)
+ - RSS feed: $source
+ - date published: 2025-02-20T22:40:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was just having a nosy on ICANN, trying to familiarise myself with something new in my relatively new SEO journey, and came across the following code.</p> <p>&#39;clientRenewProhibited&#39;</p> <p>It mentions that this is typically reserved for those in legal issues etc, but how serious would this be? Does this mean the site is effectively a dead man walking, and will be deleted upon the lapsing of the domain? Will it be purchasable?</p> <p>Apologies if these are dumb questions and feel free to tell me if they are! Also, because I&#39;m a cynic I know what I&#39;d think seeing this, and I&#39;m not &#39;asking for a friend&#39; or anything like that. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NovoSlev"> /u/NovoSlev </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iubmge/icann_question/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iubmge/icann_question/">[
+
+## Roast my website -- please.
+ - [https://www.reddit.com/r/SEO/comments/1iuaz75/roast_my_website_please](https://www.reddit.com/r/SEO/comments/1iuaz75/roast_my_website_please)
+ - RSS feed: $source
+ - date published: 2025-02-20T22:13:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys, built my first website for my own project over these few weeks and would like someone to give me a brutally honest roast, from colours, to style etc..if you could also recommend your improvements that would be greatly appreciated. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Repulsive_Home_5914"> /u/Repulsive_Home_5914 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iuaz75/roast_my_website_please/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iuaz75/roast_my_website_please/">[comments]</a></span>
+
+## Need advice on doing SEO For B2B
+ - [https://www.reddit.com/r/SEO/comments/1iuay0i/need_advice_on_doing_seo_for_b2b](https://www.reddit.com/r/SEO/comments/1iuay0i/need_advice_on_doing_seo_for_b2b)
+ - RSS feed: $source
+ - date published: 2025-02-20T22:11:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Starting to work on this B2B site. It centers around B2B, but also has B2C aspects. What should I do first? The company wants more serious buyers who are willing to buy up in Bulk. Any advice is welcome. Idk if this info is necessary, but the company sells 3D Filaments for 3D printing - materials like Plastic, Carbon, Rubber.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Disastrous_Cat2359"> /u/Disastrous_Cat2359 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iuay0i/need_advice_on_doing_seo_for_b2b/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iuay0i/need_advice_on_doing_seo_for_b2b/">[comments]</a></span>
+
+## How is AI changing SEO? Will search engines make blogs and articles obsolete?
+ - [https://www.reddit.com/r/SEO/comments/1iuaji6/how_is_ai_changing_seo_will_search_engines_make](https://www.reddit.com/r/SEO/comments/1iuaji6/how_is_ai_changing_seo_will_search_engines_make)
+ - RSS feed: $source
+ - date published: 2025-02-20T21:54:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Search engines now provide direct answers at the top of search results, so users don’t always need to read full articles anymore. Is AI making traditional SEO less relevant? Will blogs and long-form content survive in the future?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Opie2k1"> /u/Opie2k1 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iuaji6/how_is_ai_changing_seo_will_search_engines_make/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iuaji6/how_is_ai_changing_seo_will_search_engines_make/">[comments]</a></span>
+
+## Site header is hogging my keywords?
+ - [https://www.reddit.com/r/SEO/comments/1iua5ge/site_header_is_hogging_my_keywords](https://www.reddit.com/r/SEO/comments/1iua5ge/site_header_is_hogging_my_keywords)
+ - RSS feed: $source
+ - date published: 2025-02-20T21:38:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a new Squarespace site I&#39;m working on (and learning SEO as I go). I got my keywords for each page on my title, description and my single H1 tag, which all seem to work, more or less for a first attempt. The issue is that when I use site checkers (2 chrome extensions and like 4 different SEO checker sites) They all report really odd keywords that are either my header links (Home, portfolio, About, contact us) or &quot;menu&quot; which doesn&#39;t appear anywhere on my site at all that I can see.<br/> I can&#39;t see anyone having my issue online, so not sure if it&#39;s a squarespace or an SEO issue, but I want to know if I can request they not be scanned as keywords and have the rest of my SEO still work? and What is the best way to handle this issue?</p> <p>Top keywords from SEO scanner website: Portfolio - 4, Menu - 4, [name of company] - 4, home - 3, contact - 3</p> <p>On a Chrome extension, my main intended keywords are the top 1-5, th
+
+## Need help with busted Schema
+ - [https://www.reddit.com/r/SEO/comments/1iu9hdf/need_help_with_busted_schema](https://www.reddit.com/r/SEO/comments/1iu9hdf/need_help_with_busted_schema)
+ - RSS feed: $source
+ - date published: 2025-02-20T21:10:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am getting a little frustrated with the schema on my website. Here are the facts: My company hired a web design company to build a new site, they started working on SEO after launch, when doing so they removed an SEO plugin and installed AIOSEO. Template schema shows up in the schema tabs of all pages as custom schema, this schema has incorrect logo paths, phone number, address and more. Validated Schema on various validators shows completely different schema on pages that I am testing, with the correct organizational info and more. Chrome&#39;s AI thing says there is schema in JSON-LD format I cannot find the script &quot;&lt;script type=&quot;application/ld+json&quot;&gt;&quot; anywhere in the backend code of the site that may be loading the uneditable schema. If i validate the schema through AIOSEO, it pulls the correct organizational schema, but just in the validation tab. If I add a second schema snippet as custom schema, it will add it to the
+
+## How to improve SEO of my website?
+ - [https://www.reddit.com/r/SEO/comments/1iu7qcm/how_to_improve_seo_of_my_website](https://www.reddit.com/r/SEO/comments/1iu7qcm/how_to_improve_seo_of_my_website)
+ - RSS feed: $source
+ - date published: 2025-02-20T19:58:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>I regularly post content but no positive results </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Low_Philosopher1792"> /u/Low_Philosopher1792 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iu7qcm/how_to_improve_seo_of_my_website/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iu7qcm/how_to_improve_seo_of_my_website/">[comments]</a></span>
+
+## Should I start writing blogs to get visits?
+ - [https://www.reddit.com/r/SEO/comments/1iu67ef/should_i_start_writing_blogs_to_get_visits](https://www.reddit.com/r/SEO/comments/1iu67ef/should_i_start_writing_blogs_to_get_visits)
+ - RSS feed: $source
+ - date published: 2025-02-20T18:56:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, I&#39;m building a tool in the space of marketing + AI. and it&#39;s called chromaticlabs, our SEO is solid. So if you&#39;ll type the words, it shows up on top. I want to attract business owners D2C folks who look for makreting tools (especially paid ads). </p> <p>Shall I got for more of the blogging way of posting?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Not_The_Paul_Graham"> /u/Not_The_Paul_Graham </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iu67ef/should_i_start_writing_blogs_to_get_visits/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iu67ef/should_i_start_writing_blogs_to_get_visits/">[comments]</a></span>
+
+## GA4 Realtime reporting error?
+ - [https://www.reddit.com/r/SEO/comments/1iu659z/ga4_realtime_reporting_error](https://www.reddit.com/r/SEO/comments/1iu659z/ga4_realtime_reporting_error)
+ - RSS feed: $source
+ - date published: 2025-02-20T18:54:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>One of my four sites has, for the past couple of hours, been showing about an 80% reduction in &quot;Realtime&quot; traffic compared to a normal day.</p> <p>I checked my site and nothing has changed with regard to tag installation. Moreover, I don&#39;t seem to have lost ranking for any of my top 20 or so pages, so this is very strange indeed.</p> <p>Obviously, the true test will be tomorrow, when GA4 finally updates accurate traffic numbers for the whole day. For now, however, I&#39;m feeling very panicked and unsure as to what is going on.</p> <p>Thoughts?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thenetwillappear"> /u/thenetwillappear </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iu659z/ga4_realtime_reporting_error/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iu659z/ga4_realtime_reporting_error/">[comments]</a></span>
+
+## Google search console
+ - [https://www.reddit.com/r/SEO/comments/1iu5bu7/google_search_console](https://www.reddit.com/r/SEO/comments/1iu5bu7/google_search_console)
+ - RSS feed: $source
+ - date published: 2025-02-20T18:21:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, </p> <p>A little help here please. </p> <p>I give access to one of my team mates from mexico to our google search console. </p> <p>We from the philippines can request indexing without a problem. Sometimes hitting the quota error but after a few minutes it will push through. </p> <p>But the member from mexico can only request max of 2 and then will get the quota exceeded error all day long. </p> <p>We already try all possible TS that we can think of.</p> <p>Use different browser Incognito Use different account Use vpn Clear cached </p> <p>Still she cannot request for indexing. </p> <p>What else we can do? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zealousideal-Rough44"> /u/Zealousideal-Rough44 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iu5bu7/google_search_console/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iu5bu7/google_search_console/">[comment
+
+## Hit Hard by December 2024 Spam Update - Any Tips?
+ - [https://www.reddit.com/r/SEO/comments/1iu4fkd/hit_hard_by_december_2024_spam_update_any_tips](https://www.reddit.com/r/SEO/comments/1iu4fkd/hit_hard_by_december_2024_spam_update_any_tips)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:45:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>My site kdotovolal (dot) cz got hit hard by the December 2024 Spam Update, and I haven’t seen any signs of recovery since. Traffic dropped significantly, and despite making some changes, things haven’t improved.</p> <p>Here’s what I’ve tried so far:</p> <ul> <li>Reviewed content to ensure it’s unique and without technical issues.</li> <li>Improved internal linking and user experience.</li> <li>Checked for any technical issues in Google Search Console.</li> <li>Avoided low-quality backlinks.</li> </ul> <p>Yet, nothing helped. Have any of you managed to recover from this update? If so, what worked for you?</p> <p>Any insights or suggestions would be greatly appreciated!</p> <p>Thanks in advance!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jakub_curik"> /u/jakub_curik </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iu4fkd/hit_hard_by_december_2024_spam_update_any_tips/">[li
+
+## New website here! Need help to rank/get traffic
+ - [https://www.reddit.com/r/SEO/comments/1iu42w6/new_website_here_need_help_to_rankget_traffic](https://www.reddit.com/r/SEO/comments/1iu42w6/new_website_here_need_help_to_rankget_traffic)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:30:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone, the website is italian for the italian market only!!!</p> <p>I&#39;ve recently launched a football predictions website powered by an AI algorithm. For each match, an article is automatically generated using Gemini&#39;s API and other tools.</p> <p>Looking at the top search results for the keyword <strong>&quot;football predictions&quot;</strong>, I’ve noticed that many of the ranking sites are poorly made—so in theory, it shouldn’t be too hard to outrank them.</p> <p>My site also has a blog where I write articles and tutorials, targeting low-competition keywords. However, even for keywords that literally have no competition—where my article should be the only result—I’m not appearing on Google, even though the pages are indexed.</p> <p>Checking Google Analytics and other tracking tools, I do see that I occasionally get some clicks from Google, but if I search for my site directly, it doesn’t show up within the first <strong>5–10 pages
+
+## Has anyone used Page Optimizer Pro - Done For You Service?
+ - [https://www.reddit.com/r/SEO/comments/1iu2cr7/has_anyone_used_page_optimizer_pro_done_for_you](https://www.reddit.com/r/SEO/comments/1iu2cr7/has_anyone_used_page_optimizer_pro_done_for_you)
+ - RSS feed: $source
+ - date published: 2025-02-20T16:21:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>They have a white label done for you service where at a flat fee they do keyword research etc, make a content map then provide as needed content at a fee per page. Anyone use that or similar?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alex101111"> /u/Alex101111 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iu2cr7/has_anyone_used_page_optimizer_pro_done_for_you/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iu2cr7/has_anyone_used_page_optimizer_pro_done_for_you/">[comments]</a></span>
+
+## Want To Learn Screaming Frog? A Tutorial Of My Favorite Screaming Frog SEO Use Cases
+ - [https://www.reddit.com/r/SEO/comments/1iu0kah/want_to_learn_screaming_frog_a_tutorial_of_my](https://www.reddit.com/r/SEO/comments/1iu0kah/want_to_learn_screaming_frog_a_tutorial_of_my)
+ - RSS feed: $source
+ - date published: 2025-02-20T15:05:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey all, Chris Long here. I&#39;ve been in SEO for 10+ years and found that Screaming Frog is one of the tools that I use the most. Screaming Frog is cheap and extremely powerful, but not the easiest to learn. Even though there are so many awesome features - in my experience the interface overwhelms a lot of people. </p> <p>As a result, here are some of my favorite ways to use Screaming Frog for SEO:</p> <p><strong>1. Basic Crawls On Spider Mode</strong></p> <p>This is probably the most common use of Screaming Frog. Go to Mode &gt; Spider to ensure that your crawler is on &quot;Spider&quot; mode. The crawler will then go through site similar to how search engines like Google do. During this crawl, it&#39;s going to flag different things in the right-hand side. These are potential technical issues that you can see if you want to evaluate.</p> <p>There&#39;s a lot there, but the things I generally look at the most are:</p> <ul> <li>Short Title Tags: Ti
+
+## Screaming frog setting question
+ - [https://www.reddit.com/r/SEO/comments/1itxa4e/screaming_frog_setting_question](https://www.reddit.com/r/SEO/comments/1itxa4e/screaming_frog_setting_question)
+ - RSS feed: $source
+ - date published: 2025-02-20T12:24:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>What are the settings you would choose in Screaming Frog to crawl a site of 5 or 6 million pages? </p> <p>its just a random number but i need to learn this, would love to hear how that works, please.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LantisJocke"> /u/LantisJocke </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1itxa4e/screaming_frog_setting_question/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1itxa4e/screaming_frog_setting_question/">[comments]</a></span>
+
+## Why did I get a sudden drop of impressions and clicks?
+ - [https://www.reddit.com/r/SEO/comments/1itwkpz/why_did_i_get_a_sudden_drop_of_impressions_and](https://www.reddit.com/r/SEO/comments/1itwkpz/why_did_i_get_a_sudden_drop_of_impressions_and)
+ - RSS feed: $source
+ - date published: 2025-02-20T11:42:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been working on a new website. For Context I added this site to the search console and gained visibility already within a couple of days, this visibility completely dropped and I don&#39;t even appear on the first page anymore for my own &quot;brand name&quot;. The domain existed before which I didn&#39;t know about. (Was a spanish site, mine is not but same niche)</p> <p>Most traffic I got was initially for a tool I developed basically a calculator. There is no sitemap, I wanted google to crawl and index pages on its own. Currently google indexed 900 pages on its own (single pages for listings from 20k, with appropriate schema <a href="https://developers.google.com/search/docs/appearance/structured-data/job-posting">https://developers.google.com/search/docs/appearance/structured-data/job-posting</a>)</p> <p><a href="https://imgur.com/z1rM6Db">https://imgur.com/z1rM6Db</a></p> <p>Should I manually remove these pages again and block them via ro
+
+## Question on migrating sites
+ - [https://www.reddit.com/r/SEO/comments/1itudkh/question_on_migrating_sites](https://www.reddit.com/r/SEO/comments/1itudkh/question_on_migrating_sites)
+ - RSS feed: $source
+ - date published: 2025-02-20T09:09:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>I currently have a site that ranks pretty well in a particular niche. It runs on a WordPress directory theme.</p> <p>I&#39;m moving to a new theme so am building a parallel site with a temp domain. When complete, I will switch over the domain. I will keep the same urls the key pages.</p> <p>My question is will this affect the SERP or will it be seamless in terms of site map?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Agile-Star-6559"> /u/Agile-Star-6559 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1itudkh/question_on_migrating_sites/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1itudkh/question_on_migrating_sites/">[comments]</a></span>
+
+## Website gets little to no organic traffic; what are we doing wrong?
+ - [https://www.reddit.com/r/SEO/comments/1itu853/website_gets_little_to_no_organic_traffic_what](https://www.reddit.com/r/SEO/comments/1itu853/website_gets_little_to_no_organic_traffic_what)
+ - RSS feed: $source
+ - date published: 2025-02-20T08:58:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>I don&#39;t know if such posts are allowed here or not, but if anybody can tell me what we are doing wrong with our site to get little to no organic traffic it would be really appreciated. Do not sugar coat your words for me, let me learn the hard way.</p> <p>Our website is &quot;Techtroduce&quot;</p> <p>It has been up since July, Adsense monetization approved at the end of October and we saw a massive drop in organic traffic since the December Google Spam Update.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zombotic69"> /u/Zombotic69 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1itu853/website_gets_little_to_no_organic_traffic_what/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1itu853/website_gets_little_to_no_organic_traffic_what/">[comments]</a></span>
+
+## Google Search Console confusion: the total impression is a lot more than the sum of all query's impressions.
+ - [https://www.reddit.com/r/SEO/comments/1ittcev/google_search_console_confusion_the_total](https://www.reddit.com/r/SEO/comments/1ittcev/google_search_console_confusion_the_total)
+ - RSS feed: $source
+ - date published: 2025-02-20T07:55:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>There was one day when my site got particularly more impression than usual; I wanted to know which keyword drove that increment. But the sum of all query&#39;s impressions is 700, while the total impression for the day is 2,000</p> <p>Why it is happening?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/StevenJang_"> /u/StevenJang_ </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1ittcev/google_search_console_confusion_the_total/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1ittcev/google_search_console_confusion_the_total/">[comments]</a></span>
+
+## Does moving the site from one provider to another ruin the ranking?
+ - [https://www.reddit.com/r/SEO/comments/1ittbkd/does_moving_the_site_from_one_provider_to_another](https://www.reddit.com/r/SEO/comments/1ittbkd/does_moving_the_site_from_one_provider_to_another)
+ - RSS feed: $source
+ - date published: 2025-02-20T07:53:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Do the following cases affect the ranking?</p> <ul> <li>I&#39;m rebuilding an existing WordPress site in Webflow, redirecting the domain, and setting up the redirects. The hosting will also change.</li> <li>I’m exporting an existing site from Webflow and moving it to another no-code platform, where the hosting will also change.</li> </ul> <p>Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/beegee79"> /u/beegee79 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1ittbkd/does_moving_the_site_from_one_provider_to_another/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1ittbkd/does_moving_the_site_from_one_provider_to_another/">[comments]</a></span>
+
+## SEO impact of a matching YouTube video
+ - [https://www.reddit.com/r/SEO/comments/1itt2lb/seo_impact_of_a_matching_youtube_video](https://www.reddit.com/r/SEO/comments/1itt2lb/seo_impact_of_a_matching_youtube_video)
+ - RSS feed: $source
+ - date published: 2025-02-20T07:35:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>Has anyone got a case where they have a blog post or page targeting a particular keyword, and then created a YouTube video to match it, then link the two, so backlink to original post in the YouTube video and video embedded,, and then the YouTube video does very well (let&#39;s say 10s thousands of veiws). And then the Google SEO ranking once that video has gone semi-viral.</p> <p>To me it.must be a thing, but cannot find a case study, other than some of my pages with a linked video do a bit better than others, though my most views for a video is only 11k.</p> <p>What I&#39;m curious about is if it is purely because it makes the webpage more engaging when YouTube video is embedded, or does YouTube and Google directly link their rankings, especially if a video is huge and it is clear the page and video are from the same creator.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fantastic-Run-2819"> /u/Fantastic-Run
+
+## What are some small sites with impressive SEO?
+ - [https://www.reddit.com/r/SEO/comments/1itrw80/what_are_some_small_sites_with_impressive_seo](https://www.reddit.com/r/SEO/comments/1itrw80/what_are_some_small_sites_with_impressive_seo)
+ - RSS feed: $source
+ - date published: 2025-02-20T06:17:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ones with 30 or less DA, the lower the better, but still lots of valuable rankings.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Infinite_Whisper"> /u/Infinite_Whisper </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1itrw80/what_are_some_small_sites_with_impressive_seo/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1itrw80/what_are_some_small_sites_with_impressive_seo/">[comments]</a></span>
+
+## What to do with indexed pages that are removed?
+ - [https://www.reddit.com/r/SEO/comments/1itr8kw/what_to_do_with_indexed_pages_that_are_removed](https://www.reddit.com/r/SEO/comments/1itr8kw/what_to_do_with_indexed_pages_that_are_removed)
+ - RSS feed: $source
+ - date published: 2025-02-20T05:35:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have few pages that were indexed before which are currently removed. What&#39;s the right thing to do with respect to seo?</p> <ul> <li>redirect it to home page</li> <li>remove it as indexed in GSC </li> </ul> <p>Please do let me know</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/developer1408"> /u/developer1408 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1itr8kw/what_to_do_with_indexed_pages_that_are_removed/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1itr8kw/what_to_do_with_indexed_pages_that_are_removed/">[comments]</a></span>
+
+## What are some realistic expectations for local SEO service
+ - [https://www.reddit.com/r/SEO/comments/1itnxec/what_are_some_realistic_expectations_for_local](https://www.reddit.com/r/SEO/comments/1itnxec/what_are_some_realistic_expectations_for_local)
+ - RSS feed: $source
+ - date published: 2025-02-20T02:34:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I have a local home service business. Have a website, have used some freelance SEO people to help build basics but am considering making a bigger commitment to focus more on it. </p> <p>It is a 7x more investment monthly compared to doing it myself and with freelancers. </p> <p>I&#39;m struggling to make that commitment without knowing the return. I know SEO isn&#39;t fast but what is the timeline I can expect to move from page 2-4 to top of page 1 (locally)?</p> <p>And what have others seen for lead volume in that position. Traffic is great but leads are what drive business. If I can&#39;t get organic spend to be at least on par with lead generating spend from a cost per lead perspective, how can I justify that spend?</p> <p>Open to be educated and thanks for reading!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/maybethisiswrong"> /u/maybethisiswrong </a> <br/> <span><a href="https://www.reddit.com/r/SEO/
+
+## SEO for my startup
+ - [https://www.reddit.com/r/SEO/comments/1itmaax/seo_for_my_startup](https://www.reddit.com/r/SEO/comments/1itmaax/seo_for_my_startup)
+ - RSS feed: $source
+ - date published: 2025-02-20T01:13:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone,</p> <p>We&#39;re working on building strong SEO for our platform, KLIPY which is an API of GIFs, Clips, Stickers etc. (Adtech, entertainment, api space)), and we&#39;re also trying to get featured on various tech blogs. Could you please advise on which platforms and backlinks we should target, and how best to achieve these goals? Your help is greatly appreciated.</p> <p>P.S. Are platforms such as techbullion, benzinga, digital journal, mirror review worth it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/viceplayer28"> /u/viceplayer28 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1itmaax/seo_for_my_startup/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1itmaax/seo_for_my_startup/">[comments]</a></span>
+
+## What the hell is wrong with Google Search (Console)
+ - [https://www.reddit.com/r/SEO/comments/1itljey/what_the_hell_is_wrong_with_google_search_console](https://www.reddit.com/r/SEO/comments/1itljey/what_the_hell_is_wrong_with_google_search_console)
+ - RSS feed: $source
+ - date published: 2025-02-20T00:38:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a website where I manually push each new post, confirm that a sitemap is available and content is viewable, confirm my robots.txt is valid and isn&#39;t hiding anything and after all that manual work a console that says that : </p> <ol> <li>14 of 25 pages is indexed (Can&#39;t seem to get to 100%)</li> <li>That there is 30 pages found in the sitemap and all is good, despite only indexing few</li> <li>It lies saying that 14 pages are available but <strong><em>site:hookd.app</em></strong> search provides only 10 pages</li> <li>Messages saying indexing confirmed page will show shortly and then not showing months later. </li> </ol> <p>Am I really getting something wrong? Or does my website have too few pages or views for their system to even both providing acurate data / indexing? </p> <p>The site is hookd.app and has no 500 errors, has clear links between pages and on SEMRush looks like everything is perfect. So is there some massive piece of inf
+

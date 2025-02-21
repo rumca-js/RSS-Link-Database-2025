@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-20T15:11:51+00:00",
+        "description": "Why has it taken this long \ud83d\ude2b\n\u21d2 Become a channel member for special emojis, early videos, and more! Check it out here: https://www.youtube.com/ThioJoe/join\n\nMicrosoft article with commands to allow beta version: https://learn.microsoft.com/en-us/microsoft-365-apps/insider/deploy/user-choice#use-a-command-to-update-the-registry-to-show-the-microsoft-365-insider-choice-to-users\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:33 - Toggling Dark Mode\n1:22 - Dark Mode Colors\n3:06 - What About Images & Charts?\n3:35 - Full Spectrum of Dark Mode Colors\n4:41 - Getting The Beta\n5:45 - Getting The Beta (Excel Business Version)\n7:11 - One More Tip\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/thiojoe\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 2157568,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ufBlFIQl1Ho",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ufBlFIQl1Ho/hqdefault.jpg",
+        "title": "Microsoft Excel FINALLY Has Dark Mode",
+        "vote": 0
+    }
+]

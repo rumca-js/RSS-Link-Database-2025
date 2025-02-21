@@ -1,0 +1,373 @@
+# Source:World News, URL:https://www.reddit.com/r/worldnews/.rss, language:en
+
+## Macron is considering increasing France's military spending from 2.1% to 5% of GDP
+ - [https://www.reddit.com/r/worldnews/comments/1iubok7/macron_is_considering_increasing_frances_military](https://www.reddit.com/r/worldnews/comments/1iubok7/macron_is_considering_increasing_frances_military)
+ - RSS feed: $source
+ - date published: 2025-02-20T22:43:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iubok7/macron_is_considering_increasing_frances_military/"> <img src="https://external-preview.redd.it/6__u2hHwGK8AmDPEyH_MNr27zT_tmuU6C7LOOxPnoiU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=567982445b1dc5f881b6b2d79d7374bd1a0bc3a3" alt="Macron is considering increasing France's military spending from 2.1% to 5% of GDP" title="Macron is considering increasing France's military spending from 2.1% to 5% of GDP" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ALEESKW"> /u/ALEESKW </a> <br/> <span><a href="https://www.francetvinfo.fr/societe/armee-securite-defense/emmanuel-macron-envisage-d-augmenter-les-depenses-militaires-de-la-france-de-2-1-a-5-du-pib_7086573.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iubok7/macron_is_considering_increasing_frances_military/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump is moving the US closer to Russia, and history says that could be a big mistake - ABC News
+ - [https://www.reddit.com/r/worldnews/comments/1iub8cf/donald_trump_is_moving_the_us_closer_to_russia](https://www.reddit.com/r/worldnews/comments/1iub8cf/donald_trump_is_moving_the_us_closer_to_russia)
+ - RSS feed: $source
+ - date published: 2025-02-20T22:23:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iub8cf/donald_trump_is_moving_the_us_closer_to_russia/"> <img src="https://external-preview.redd.it/KCXuJiKoh_h9g21oRFpLY9fcWfHVKWsl8TbMQOdC4CE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=986c502a86246c9c88d28bb29bccb673ea449b1f" alt="Donald Trump is moving the US closer to Russia, and history says that could be a big mistake - ABC News" title="Donald Trump is moving the US closer to Russia, and history says that could be a big mistake - ABC News" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Legitimate-Fly-2079"> /u/Legitimate-Fly-2079 </a> <br/> <span><a href="https://www.abc.net.au/news/2025-02-20/donald-trump-vladimir-putin-analysis-after-zelenskyy-spray/104953186">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iub8cf/donald_trump_is_moving_the_us_closer_to_russia/">[comments]</a></span> </td></tr></table>
+
+## Germany’s Left comes back from the dead
+ - [https://www.reddit.com/r/worldnews/comments/1iu9v47/germanys_left_comes_back_from_the_dead](https://www.reddit.com/r/worldnews/comments/1iu9v47/germanys_left_comes_back_from_the_dead)
+ - RSS feed: $source
+ - date published: 2025-02-20T21:26:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu9v47/germanys_left_comes_back_from_the_dead/"> <img src="https://external-preview.redd.it/u5CTHTKoIAhy3mq5I3yCru2-Rc75p0KWKEJGRDcBJjA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9258992caee88588133ce8af4ce965a27dfb626" alt="Germany’s Left comes back from the dead" title="Germany’s Left comes back from the dead" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Well_Socialized"> /u/Well_Socialized </a> <br/> <span><a href="https://www.politico.eu/article/germany-left-party-die-linke-rising-young-voters-heidi-reichinnek/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu9v47/germanys_left_comes_back_from_the_dead/">[comments]</a></span> </td></tr></table>
+
+## New poll says 27% of Canadians view the United States as an enemy country
+ - [https://www.reddit.com/r/worldnews/comments/1iu9tce/new_poll_says_27_of_canadians_view_the_united](https://www.reddit.com/r/worldnews/comments/1iu9tce/new_poll_says_27_of_canadians_view_the_united)
+ - RSS feed: $source
+ - date published: 2025-02-20T21:24:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu9tce/new_poll_says_27_of_canadians_view_the_united/"> <img src="https://external-preview.redd.it/_7Iz-6CC3TEYpGQ-Q60P_RBD4w_3IxuQliZsMNY47h4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f8fe206408ba0e2224b54100e60c27090c9c192" alt="New poll says 27% of Canadians view the United States as an enemy country" title="New poll says 27% of Canadians view the United States as an enemy country" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zerok37"> /u/zerok37 </a> <br/> <span><a href="https://www.ctvnews.ca/canada/article/new-poll-says-27-of-canadians-view-the-united-states-as-an-enemy-country/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu9tce/new_poll_says_27_of_canadians_view_the_united/">[comments]</a></span> </td></tr></table>
+
+## Terrorist attack in central Israel: 3 buses exploded in succession
+ - [https://www.reddit.com/r/worldnews/comments/1iu8wen/terrorist_attack_in_central_israel_3_buses](https://www.reddit.com/r/worldnews/comments/1iu8wen/terrorist_attack_in_central_israel_3_buses)
+ - RSS feed: $source
+ - date published: 2025-02-20T20:46:16+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/NamelessForce"> /u/NamelessForce </a> <br/> <span><a href="https://www.israelhayom.com/2025/02/20/terrorist-attack-in-central-israel-3-buses-exploded-in-succession/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu8wen/terrorist_attack_in_central_israel_3_buses/">[comments]</a></span>
+
+## World leaders head to Ukraine as Trump cozies up to Putin
+ - [https://www.reddit.com/r/worldnews/comments/1iu8s5c/world_leaders_head_to_ukraine_as_trump_cozies_up](https://www.reddit.com/r/worldnews/comments/1iu8s5c/world_leaders_head_to_ukraine_as_trump_cozies_up)
+ - RSS feed: $source
+ - date published: 2025-02-20T20:41:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu8s5c/world_leaders_head_to_ukraine_as_trump_cozies_up/"> <img src="https://external-preview.redd.it/N7e8_AkXYfrkOkkAqW6O8MbwcjcvNh5yOs9BwVfNzQY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=29b07db214632f247ab125cb47db1a008d97d740" alt="World leaders head to Ukraine as Trump cozies up to Putin" title="World leaders head to Ukraine as Trump cozies up to Putin" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/doopityWoop22"> /u/doopityWoop22 </a> <br/> <span><a href="https://www.politico.eu/article/world-leaders-head-to-ukraine-as-trump-cozies-up-to-putin/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu8s5c/world_leaders_head_to_ukraine_as_trump_cozies_up/">[comments]</a></span> </td></tr></table>
+
+## ‘Suspected terror attack’ in Israel as multiple buses explode in Tel Aviv
+ - [https://www.reddit.com/r/worldnews/comments/1iu8qhs/suspected_terror_attack_in_israel_as_multiple](https://www.reddit.com/r/worldnews/comments/1iu8qhs/suspected_terror_attack_in_israel_as_multiple)
+ - RSS feed: $source
+ - date published: 2025-02-20T20:39:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu8qhs/suspected_terror_attack_in_israel_as_multiple/"> <img src="https://external-preview.redd.it/lF3cwSASAhIuNiSXKtafa41zryClF-2iZ0ZqyIsImzE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4024bf792f63bf8c9399910aa9abc9402234fb2a" alt="‘Suspected terror attack’ in Israel as multiple buses explode in Tel Aviv" title="‘Suspected terror attack’ in Israel as multiple buses explode in Tel Aviv" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theindependentonline"> /u/theindependentonline </a> <br/> <span><a href="https://www.independent.co.uk/news/world/middle-east/israel-bus-explosion-terror-attack-b2701887.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu8qhs/suspected_terror_attack_in_israel_as_multiple/">[comments]</a></span> </td></tr></table>
+
+## Moscow demanded NATO withdrawal from eastern Europe during US-Russia talks, FT reports
+ - [https://www.reddit.com/r/worldnews/comments/1iu7r56/moscow_demanded_nato_withdrawal_from_eastern](https://www.reddit.com/r/worldnews/comments/1iu7r56/moscow_demanded_nato_withdrawal_from_eastern)
+ - RSS feed: $source
+ - date published: 2025-02-20T19:59:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu7r56/moscow_demanded_nato_withdrawal_from_eastern/"> <img src="https://external-preview.redd.it/F0cK0yTaN-zCpTWJROvku0QpRxx770jS1ELSnjCaHM0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=afceccef40389e8faed0a3c865609b60a64ee8ff" alt="Moscow demanded NATO withdrawal from eastern Europe during US-Russia talks, FT reports" title="Moscow demanded NATO withdrawal from eastern Europe during US-Russia talks, FT reports" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hashing_nonces"> /u/hashing_nonces </a> <br/> <span><a href="https://kyivindependent.com/moscow-demands-nato-withdrawal-from-eastern-europe-in-us-russia-talks-ft-reports/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu7r56/moscow_demanded_nato_withdrawal_from_eastern/">[comments]</a></span> </td></tr></table>
+
+## US Reportedly Halts Weapon Sales to Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1iu7ojh/us_reportedly_halts_weapon_sales_to_ukraine](https://www.reddit.com/r/worldnews/comments/1iu7ojh/us_reportedly_halts_weapon_sales_to_ukraine)
+ - RSS feed: $source
+ - date published: 2025-02-20T19:56:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu7ojh/us_reportedly_halts_weapon_sales_to_ukraine/"> <img src="https://external-preview.redd.it/92fRCN510lj4Ym7-vr_LqwDoduXykJ1eD9pAOqAzugM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=10626c8d9a7a7058e3bac2edbd0a1376399bbc99" alt="US Reportedly Halts Weapon Sales to Ukraine" title="US Reportedly Halts Weapon Sales to Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Antique-Entrance-229"> /u/Antique-Entrance-229 </a> <br/> <span><a href="https://www.kyivpost.com/post/47529">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu7ojh/us_reportedly_halts_weapon_sales_to_ukraine/">[comments]</a></span> </td></tr></table>
+
+## Macron says will tell Trump he cannot 'be weak' with Putin
+ - [https://www.reddit.com/r/worldnews/comments/1iu6sg5/macron_says_will_tell_trump_he_cannot_be_weak](https://www.reddit.com/r/worldnews/comments/1iu6sg5/macron_says_will_tell_trump_he_cannot_be_weak)
+ - RSS feed: $source
+ - date published: 2025-02-20T19:20:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu6sg5/macron_says_will_tell_trump_he_cannot_be_weak/"> <img src="https://external-preview.redd.it/p03N062TI1-pDZAYOsMGhVNMiICVGr61fM5bmIYayqM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d2aa26439f1f802cd02b94629777124db4de2f8" alt="Macron says will tell Trump he cannot 'be weak' with Putin" title="Macron says will tell Trump he cannot 'be weak' with Putin" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tucko29"> /u/Tucko29 </a> <br/> <span><a href="https://uk.news.yahoo.com/macron-says-tell-trump-cannot-190536490.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu6sg5/macron_says_will_tell_trump_he_cannot_be_weak/">[comments]</a></span> </td></tr></table>
+
+## Trump Gave Europe Three Weeks to Sign Off on Ukraine 'Surrender': MEP
+ - [https://www.reddit.com/r/worldnews/comments/1iu63vm/trump_gave_europe_three_weeks_to_sign_off_on](https://www.reddit.com/r/worldnews/comments/1iu63vm/trump_gave_europe_three_weeks_to_sign_off_on)
+ - RSS feed: $source
+ - date published: 2025-02-20T18:52:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu63vm/trump_gave_europe_three_weeks_to_sign_off_on/"> <img src="https://external-preview.redd.it/qMSk3-LW85Uj0NT4Xd1C7h_JbzF1uw1JFmCNcS8qIAw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28232abaa0a9f3173ed29a123c3d0c82f7ef0f50" alt="Trump Gave Europe Three Weeks to Sign Off on Ukraine 'Surrender': MEP" title="Trump Gave Europe Three Weeks to Sign Off on Ukraine 'Surrender': MEP" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OkayButFoRealz"> /u/OkayButFoRealz </a> <br/> <span><a href="https://www.newsweek.com/trump-europe-troops-ukraine-peace-deal-2033823">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu63vm/trump_gave_europe_three_weeks_to_sign_off_on/">[comments]</a></span> </td></tr></table>
+
+## In Saudi Arabia Trump talks with Russia were far beyond Ukraine, discussing NATO withdrawal from whole Eastern Europe. Romania, Poland, Lithuania all jumped into private negotiations with US to prevent that
+ - [https://www.reddit.com/r/worldnews/comments/1iu61z3/in_saudi_arabia_trump_talks_with_russia_were_far](https://www.reddit.com/r/worldnews/comments/1iu61z3/in_saudi_arabia_trump_talks_with_russia_were_far)
+ - RSS feed: $source
+ - date published: 2025-02-20T18:50:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu61z3/in_saudi_arabia_trump_talks_with_russia_were_far/"> <img src="https://external-preview.redd.it/0dPa6Ubq_9KZRH7jrMwVvNGkkmB8nruHIDWllz7p5-c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c435615c1e86e074b6da2fb0bc281d95f3c59790" alt="In Saudi Arabia Trump talks with Russia were far beyond Ukraine, discussing NATO withdrawal from whole Eastern Europe. Romania, Poland, Lithuania all jumped into private negotiations with US to prevent that" title="In Saudi Arabia Trump talks with Russia were far beyond Ukraine, discussing NATO withdrawal from whole Eastern Europe. Romania, Poland, Lithuania all jumped into private negotiations with US to prevent that" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ventriloquist_Voice"> /u/Ventriloquist_Voice </a> <br/> <span><a href="https://www.romania-insider.com/romania-usa-nato-russia-february-2025">[link]</a></span> &#32; <span><a href="h
+
+## ‘Transatlantic relations are over’ as Trump sides with Putin, says top German MP
+ - [https://www.reddit.com/r/worldnews/comments/1iu5q2z/transatlantic_relations_are_over_as_trump_sides](https://www.reddit.com/r/worldnews/comments/1iu5q2z/transatlantic_relations_are_over_as_trump_sides)
+ - RSS feed: $source
+ - date published: 2025-02-20T18:36:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu5q2z/transatlantic_relations_are_over_as_trump_sides/"> <img src="https://external-preview.redd.it/tF6px8sxlTnTQ4L70RcO26BhdMSm4o1eNNbnhfKzySg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dbdfe8979a20445f154ac509a190f5cf51e68b35" alt="‘Transatlantic relations are over’ as Trump sides with Putin, says top German MP" title="‘Transatlantic relations are over’ as Trump sides with Putin, says top German MP" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Infidel8"> /u/Infidel8 </a> <br/> <span><a href="https://www.politico.eu/article/transatlantic-relations-over-donald-trump-sides-vladimir-putin-top-german-mp-michael-roth/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu5q2z/transatlantic_relations_are_over_as_trump_sides/">[comments]</a></span> </td></tr></table>
+
+## War-Hardened Ukrainians Remain Defiant In Face of Trump’s Blows
+ - [https://www.reddit.com/r/worldnews/comments/1iu50b7/warhardened_ukrainians_remain_defiant_in_face_of](https://www.reddit.com/r/worldnews/comments/1iu50b7/warhardened_ukrainians_remain_defiant_in_face_of)
+ - RSS feed: $source
+ - date published: 2025-02-20T18:08:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu50b7/warhardened_ukrainians_remain_defiant_in_face_of/"> <img src="https://external-preview.redd.it/aUcH4JyUVBo0InXfoxNkczBedQKYULUbSUzh21pcjDA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa4bcc6cffd7560ac6adb7499ee3ae0a0edb6996" alt="War-Hardened Ukrainians Remain Defiant In Face of Trump’s Blows" title="War-Hardened Ukrainians Remain Defiant In Face of Trump’s Blows" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HydrolicKrane"> /u/HydrolicKrane </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2025-02-20/war-hardened-ukrainians-remain-defiant-in-face-of-trump-s-blows">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu50b7/warhardened_ukrainians_remain_defiant_in_face_of/">[comments]</a></span> </td></tr></table>
+
+## Saudi Arabia's Grand Mufti makes shocking statement against Hamas: "What we saw today is a disgrace"
+ - [https://www.reddit.com/r/worldnews/comments/1iu484e/saudi_arabias_grand_mufti_makes_shocking](https://www.reddit.com/r/worldnews/comments/1iu484e/saudi_arabias_grand_mufti_makes_shocking)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:36:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu484e/saudi_arabias_grand_mufti_makes_shocking/"> <img src="https://external-preview.redd.it/qVh5Yor_09jwPsaoPEfenqpN63dml9wmqJ1kJO2UhKo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f62cf191083b5a66bba1dfa74bd22a11fc22a49" alt="Saudi Arabia's Grand Mufti makes shocking statement against Hamas: &quot;What we saw today is a disgrace&quot;" title="Saudi Arabia's Grand Mufti makes shocking statement against Hamas: &quot;What we saw today is a disgrace&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Master_Jackfruit3591"> /u/Master_Jackfruit3591 </a> <br/> <span><a href="https://www.jfeed.com/news-israel/srzql1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu484e/saudi_arabias_grand_mufti_makes_shocking/">[comments]</a></span> </td></tr></table>
+
+## Mexico's president warns U.S. against invading to fight cartels after Washington designates them as terrorist groups
+ - [https://www.reddit.com/r/worldnews/comments/1iu3rb3/mexicos_president_warns_us_against_invading_to](https://www.reddit.com/r/worldnews/comments/1iu3rb3/mexicos_president_warns_us_against_invading_to)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:18:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu3rb3/mexicos_president_warns_us_against_invading_to/"> <img src="https://external-preview.redd.it/70jBs2cXrEq0DMeiGzcoBYpYPKxBppbkQQla1gaiys0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae245c9d2be25ce570d2581bcacb45e977a8bdd8" alt="Mexico's president warns U.S. against invading to fight cartels after Washington designates them as terrorist groups" title="Mexico's president warns U.S. against invading to fight cartels after Washington designates them as terrorist groups" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Information6622"> /u/No-Information6622 </a> <br/> <span><a href="https://www.cbsnews.com/news/mexico-president-warns-us-invasion-cartels-terrorist-group-designation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu3rb3/mexicos_president_warns_us_against_invading_to/">[comments]</a></span> </td></tr></table>
+
+## Europe, rearming is cheaper than war
+ - [https://www.reddit.com/r/worldnews/comments/1iu3glk/europe_rearming_is_cheaper_than_war](https://www.reddit.com/r/worldnews/comments/1iu3glk/europe_rearming_is_cheaper_than_war)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:06:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu3glk/europe_rearming_is_cheaper_than_war/"> <img src="https://external-preview.redd.it/nOr8oQI4HP9as5-shMib1kz-bOBZy6EqfEZBqb3jk5k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=27265d356893288982a5083c1c44454cf4c7ab2d" alt="Europe, rearming is cheaper than war" title="Europe, rearming is cheaper than war" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BothZookeepergame612"> /u/BothZookeepergame612 </a> <br/> <span><a href="https://kyivindependent.com/europe-rearming-is-cheaper-than-war/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu3glk/europe_rearming_is_cheaper_than_war/">[comments]</a></span> </td></tr></table>
+
+## 'We've lost a partner and a friend': Ukrainians somber as U.S. partnership disintegrates
+ - [https://www.reddit.com/r/worldnews/comments/1iu36ap/weve_lost_a_partner_and_a_friend_ukrainians](https://www.reddit.com/r/worldnews/comments/1iu36ap/weve_lost_a_partner_and_a_friend_ukrainians)
+ - RSS feed: $source
+ - date published: 2025-02-20T16:55:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu36ap/weve_lost_a_partner_and_a_friend_ukrainians/"> <img src="https://external-preview.redd.it/ebyfqk7wR1-LBCC2_S7ewATfUo13txFEoKjg5mNfw6Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60ac51baa48f70a007476242ec903b2f213fd26a" alt="'We've lost a partner and a friend': Ukrainians somber as U.S. partnership disintegrates" title="'We've lost a partner and a friend': Ukrainians somber as U.S. partnership disintegrates" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/M795"> /u/M795 </a> <br/> <span><a href="https://www.nbcnews.com/news/world/russia-ukraine-war-trump-zelenskyy-feud-putin-rcna192946">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu36ap/weve_lost_a_partner_and_a_friend_ukrainians/">[comments]</a></span> </td></tr></table>
+
+## Mexico to reform constitution in wake of US terrorism designations
+ - [https://www.reddit.com/r/worldnews/comments/1iu221i/mexico_to_reform_constitution_in_wake_of_us](https://www.reddit.com/r/worldnews/comments/1iu221i/mexico_to_reform_constitution_in_wake_of_us)
+ - RSS feed: $source
+ - date published: 2025-02-20T16:08:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu221i/mexico_to_reform_constitution_in_wake_of_us/"> <img src="https://external-preview.redd.it/MeQwLxGo6JPLAftp7P2w0C-QfxBvueqg3qTqYYE-hs8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=abb05945d3fad945e0abbbd4eeccbf83e7a9540c" alt="Mexico to reform constitution in wake of US terrorism designations" title="Mexico to reform constitution in wake of US terrorism designations" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yahoonews"> /u/yahoonews </a> <br/> <span><a href="https://www.yahoo.com/news/mexico-reform-constitution-wake-us-153923338.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu221i/mexico_to_reform_constitution_in_wake_of_us/">[comments]</a></span> </td></tr></table>
+
+## US refuses to co-sponsor UN resolution condemning Russia, resists labeling Moscow 'aggressor' in G7 statement, media report
+ - [https://www.reddit.com/r/worldnews/comments/1iu1va8/us_refuses_to_cosponsor_un_resolution_condemning](https://www.reddit.com/r/worldnews/comments/1iu1va8/us_refuses_to_cosponsor_un_resolution_condemning)
+ - RSS feed: $source
+ - date published: 2025-02-20T16:01:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu1va8/us_refuses_to_cosponsor_un_resolution_condemning/"> <img src="https://external-preview.redd.it/TXWQSl7KOOA21RTCiz8BUWNr0U-SSOOz_t2NW0IQTa8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=72a332b620873cb1b80d2a5be982bd7ab5f7e173" alt="US refuses to co-sponsor UN resolution condemning Russia, resists labeling Moscow 'aggressor' in G7 statement, media report" title="US refuses to co-sponsor UN resolution condemning Russia, resists labeling Moscow 'aggressor' in G7 statement, media report" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Snowfish52"> /u/Snowfish52 </a> <br/> <span><a href="https://kyivindependent.com/us-refuses-to-co-sponsor-un-resolution-condemning-russia-resists-g7s-language-on-moscow/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu1va8/us_refuses_to_cosponsor_un_resolution_condemning/">[comments]</a></span> </td></tr></t
+
+## New poll says 27% of Canadians view the United States as an 'enemy' country
+ - [https://www.reddit.com/r/worldnews/comments/1iu17qs/new_poll_says_27_of_canadians_view_the_united](https://www.reddit.com/r/worldnews/comments/1iu17qs/new_poll_says_27_of_canadians_view_the_united)
+ - RSS feed: $source
+ - date published: 2025-02-20T15:33:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu17qs/new_poll_says_27_of_canadians_view_the_united/"> <img src="https://external-preview.redd.it/_7Iz-6CC3TEYpGQ-Q60P_RBD4w_3IxuQliZsMNY47h4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f8fe206408ba0e2224b54100e60c27090c9c192" alt="New poll says 27% of Canadians view the United States as an 'enemy' country" title="New poll says 27% of Canadians view the United States as an 'enemy' country" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Street_Anon"> /u/Street_Anon </a> <br/> <span><a href="https://www.ctvnews.ca/canada/article/new-poll-says-27-of-canadians-view-the-united-states-as-an-enemy-country/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu17qs/new_poll_says_27_of_canadians_view_the_united/">[comments]</a></span> </td></tr></table>
+
+## US opposes calling Russia aggressor in G7 statement marking 3rd year of full-scale war in Ukraine, FT says
+ - [https://www.reddit.com/r/worldnews/comments/1iu13cc/us_opposes_calling_russia_aggressor_in_g7](https://www.reddit.com/r/worldnews/comments/1iu13cc/us_opposes_calling_russia_aggressor_in_g7)
+ - RSS feed: $source
+ - date published: 2025-02-20T15:28:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu13cc/us_opposes_calling_russia_aggressor_in_g7/"> <img src="https://external-preview.redd.it/pXm1d6eheJDj9LdI52b-eCv9sERWuc0dH0AQwEpvLiQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6b5c7beb4cd90db443a00929f16e4edf23e951c1" alt="US opposes calling Russia aggressor in G7 statement marking 3rd year of full-scale war in Ukraine, FT says" title="US opposes calling Russia aggressor in G7 statement marking 3rd year of full-scale war in Ukraine, FT says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://www.pravda.com.ua/eng/news/2025/02/20/7499285/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu13cc/us_opposes_calling_russia_aggressor_in_g7/">[comments]</a></span> </td></tr></table>
+
+## Study of TikTok, X ‘For You’ feeds in Germany finds far-right political bias ahead of federal elections
+ - [https://www.reddit.com/r/worldnews/comments/1iu0v4w/study_of_tiktok_x_for_you_feeds_in_germany_finds](https://www.reddit.com/r/worldnews/comments/1iu0v4w/study_of_tiktok_x_for_you_feeds_in_germany_finds)
+ - RSS feed: $source
+ - date published: 2025-02-20T15:18:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu0v4w/study_of_tiktok_x_for_you_feeds_in_germany_finds/"> <img src="https://external-preview.redd.it/ey3vAy57Nsd2A4pNrhdtB0eCqFjhA6nhuDckvmtJ3Fg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=084e37d2d01fb929ccd8105fcc9ccbb1f28cde34" alt="Study of TikTok, X ‘For You’ feeds in Germany finds far-right political bias ahead of federal elections" title="Study of TikTok, X ‘For You’ feeds in Germany finds far-right political bias ahead of federal elections" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spiderwig144"> /u/Spiderwig144 </a> <br/> <span><a href="https://techcrunch.com/2025/02/19/study-of-tiktok-x-for-you-feeds-in-germany-finds-far-right-political-bias-ahead-of-federal-elections/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu0v4w/study_of_tiktok_x_for_you_feeds_in_germany_finds/">[comments]</a></span> </td></tr></table>
+
+## Inside the 48 hours that Trump turned on Zelensky
+ - [https://www.reddit.com/r/worldnews/comments/1iu0h2q/inside_the_48_hours_that_trump_turned_on_zelensky](https://www.reddit.com/r/worldnews/comments/1iu0h2q/inside_the_48_hours_that_trump_turned_on_zelensky)
+ - RSS feed: $source
+ - date published: 2025-02-20T15:01:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu0h2q/inside_the_48_hours_that_trump_turned_on_zelensky/"> <img src="https://external-preview.redd.it/D5fp1FigHbe74QT2VTIpucBJhyHgV8nBJB4D4ZTS5II.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df49da370af02e91504f6bad35b1d1cc6109fe74" alt="Inside the 48 hours that Trump turned on Zelensky" title="Inside the 48 hours that Trump turned on Zelensky" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DayOwl_"> /u/DayOwl_ </a> <br/> <span><a href="https://www.cnn.com/2025/02/20/politics/trump-zelensky-rift-ukraine-war/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu0h2q/inside_the_48_hours_that_trump_turned_on_zelensky/">[comments]</a></span> </td></tr></table>
+
+## A news conference between Zelenskyy and Donald Trump’s Ukraine envoy is cancelled at U.S. request, a Kyiv official says
+ - [https://www.reddit.com/r/worldnews/comments/1iu0b7r/a_news_conference_between_zelenskyy_and_donald](https://www.reddit.com/r/worldnews/comments/1iu0b7r/a_news_conference_between_zelenskyy_and_donald)
+ - RSS feed: $source
+ - date published: 2025-02-20T14:55:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1iu0b7r/a_news_conference_between_zelenskyy_and_donald/"> <img src="https://external-preview.redd.it/yfn_ctwZr9yORtYacyk6-zEiOfINUtBYgk6OcZ8Wp6M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb13c07ca0b926614ff53f17c4cb8e19b6e24af5" alt="A news conference between Zelenskyy and Donald Trump’s Ukraine envoy is cancelled at U.S. request, a Kyiv official says" title="A news conference between Zelenskyy and Donald Trump’s Ukraine envoy is cancelled at U.S. request, a Kyiv official says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/yahoonews"> /u/yahoonews </a> <br/> <span><a href="https://www.yahoo.com/news/news-conference-between-zelenskyy-donald-145352510.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1iu0b7r/a_news_conference_between_zelenskyy_and_donald/">[comments]</a></span> </td></tr></table>
+
+## 'We've lost a partner and a friend': Ukrainians somber as U.S. partnership disintegrates
+ - [https://www.reddit.com/r/worldnews/comments/1itznxd/weve_lost_a_partner_and_a_friend_ukrainians](https://www.reddit.com/r/worldnews/comments/1itznxd/weve_lost_a_partner_and_a_friend_ukrainians)
+ - RSS feed: $source
+ - date published: 2025-02-20T14:25:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itznxd/weve_lost_a_partner_and_a_friend_ukrainians/"> <img src="https://external-preview.redd.it/ebyfqk7wR1-LBCC2_S7ewATfUo13txFEoKjg5mNfw6Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60ac51baa48f70a007476242ec903b2f213fd26a" alt="'We've lost a partner and a friend': Ukrainians somber as U.S. partnership disintegrates" title="'We've lost a partner and a friend': Ukrainians somber as U.S. partnership disintegrates" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CapKharimwa"> /u/CapKharimwa </a> <br/> <span><a href="https://www.nbcnews.com/news/amp/rcna192946">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itznxd/weve_lost_a_partner_and_a_friend_ukrainians/">[comments]</a></span> </td></tr></table>
+
+## Denmark’s PM Opens Up About Fiery Trump Call Over Greenland
+ - [https://www.reddit.com/r/worldnews/comments/1itz9as/denmarks_pm_opens_up_about_fiery_trump_call_over](https://www.reddit.com/r/worldnews/comments/1itz9as/denmarks_pm_opens_up_about_fiery_trump_call_over)
+ - RSS feed: $source
+ - date published: 2025-02-20T14:07:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itz9as/denmarks_pm_opens_up_about_fiery_trump_call_over/"> <img src="https://external-preview.redd.it/fUchIXi4D2ny952u0WfZSZiRuyH3T2P0UQ4UEubaFbo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be27029e55f56ea612314c05e28ffe6a0102fd05" alt="Denmark’s PM Opens Up About Fiery Trump Call Over Greenland" title="Denmark’s PM Opens Up About Fiery Trump Call Over Greenland" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bukakkelb0rdet"> /u/Bukakkelb0rdet </a> <br/> <span><a href="https://time.com/7259818/exclusive-denmark-frederiksen-trump-greenland-interview/?utm_source=flipboard&amp;utm_medium=activitypub">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itz9as/denmarks_pm_opens_up_about_fiery_trump_call_over/">[comments]</a></span> </td></tr></table>
+
+## JD Vance Warns Ukraine’s Zelenskiy to Shut up and Obey Trump
+ - [https://www.reddit.com/r/worldnews/comments/1itz0ov/jd_vance_warns_ukraines_zelenskiy_to_shut_up_and](https://www.reddit.com/r/worldnews/comments/1itz0ov/jd_vance_warns_ukraines_zelenskiy_to_shut_up_and)
+ - RSS feed: $source
+ - date published: 2025-02-20T13:55:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itz0ov/jd_vance_warns_ukraines_zelenskiy_to_shut_up_and/"> <img src="https://external-preview.redd.it/mCYcREHnDl0v_4aTV9Fj9qJ4-_pu1wXQ7z0rUfWr6Ng.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1b394370509ca9001672eb0682fd2ec003b61ab8" alt="JD Vance Warns Ukraine’s Zelenskiy to Shut up and Obey Trump" title="JD Vance Warns Ukraine’s Zelenskiy to Shut up and Obey Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RGV_KJ"> /u/RGV_KJ </a> <br/> <span><a href="https://www.yahoo.com/news/jd-vance-warns-ukraine-zelenskiy-204143972.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itz0ov/jd_vance_warns_ukraines_zelenskiy_to_shut_up_and/">[comments]</a></span> </td></tr></table>
+
+## ‘Transatlantic relations are over’ as Trump sides with Putin, says top German MP
+ - [https://www.reddit.com/r/worldnews/comments/1ity8zh/transatlantic_relations_are_over_as_trump_sides](https://www.reddit.com/r/worldnews/comments/1ity8zh/transatlantic_relations_are_over_as_trump_sides)
+ - RSS feed: $source
+ - date published: 2025-02-20T13:16:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ity8zh/transatlantic_relations_are_over_as_trump_sides/"> <img src="https://external-preview.redd.it/tF6px8sxlTnTQ4L70RcO26BhdMSm4o1eNNbnhfKzySg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dbdfe8979a20445f154ac509a190f5cf51e68b35" alt="‘Transatlantic relations are over’ as Trump sides with Putin, says top German MP" title="‘Transatlantic relations are over’ as Trump sides with Putin, says top German MP" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sweatycat"> /u/sweatycat </a> <br/> <span><a href="https://www.politico.eu/article/transatlantic-relations-over-donald-trump-sides-vladimir-putin-top-german-mp-michael-roth/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ity8zh/transatlantic_relations_are_over_as_trump_sides/">[comments]</a></span> </td></tr></table>
+
+## Trump's talk about Canada parrots Putin's claims on Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1ity74x/trumps_talk_about_canada_parrots_putins_claims_on](https://www.reddit.com/r/worldnews/comments/1ity74x/trumps_talk_about_canada_parrots_putins_claims_on)
+ - RSS feed: $source
+ - date published: 2025-02-20T13:14:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ity74x/trumps_talk_about_canada_parrots_putins_claims_on/"> <img src="https://external-preview.redd.it/aM1vt4E_SSAAjLby9_F6OQmuIsFMKiKPNGV_A9UycUU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=171adefb0f58a328f4c56b579bbea2674d55bd80" alt="Trump's talk about Canada parrots Putin's claims on Ukraine" title="Trump's talk about Canada parrots Putin's claims on Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/The_Great_Mullein"> /u/The_Great_Mullein </a> <br/> <span><a href="https://www.cbc.ca/news/politics/trump-canada-putin-ukraine-comments-1.7462337">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ity74x/trumps_talk_about_canada_parrots_putins_claims_on/">[comments]</a></span> </td></tr></table>
+
+## Trump wants to 'resurrect' Ukraine resources deal 'or things are not gonna make (Zelensky) too happy'
+ - [https://www.reddit.com/r/worldnews/comments/1ity6iv/trump_wants_to_resurrect_ukraine_resources_deal](https://www.reddit.com/r/worldnews/comments/1ity6iv/trump_wants_to_resurrect_ukraine_resources_deal)
+ - RSS feed: $source
+ - date published: 2025-02-20T13:13:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ity6iv/trump_wants_to_resurrect_ukraine_resources_deal/"> <img src="https://external-preview.redd.it/S4SozNbEAb6Rr7ltyxCaximdgc1f2He0svd1sbWnZJI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a1f34581d40ef4a244511b58d1b39451b2f1cfe" alt="Trump wants to 'resurrect' Ukraine resources deal 'or things are not gonna make (Zelensky) too happy'" title="Trump wants to 'resurrect' Ukraine resources deal 'or things are not gonna make (Zelensky) too happy'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdSpecialist6598"> /u/AdSpecialist6598 </a> <br/> <span><a href="https://kyivindependent.com/trump-wants-to-resurrect-us-ukraine-rare-earths-deal-despite-kyivs-refusal/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ity6iv/trump_wants_to_resurrect_ukraine_resources_deal/">[comments]</a></span> </td></tr></table>
+
+## Erdogan also supports our NATO membership: Ukrainian President Zelenskyy
+ - [https://www.reddit.com/r/worldnews/comments/1ity3sz/erdogan_also_supports_our_nato_membership](https://www.reddit.com/r/worldnews/comments/1ity3sz/erdogan_also_supports_our_nato_membership)
+ - RSS feed: $source
+ - date published: 2025-02-20T13:09:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ity3sz/erdogan_also_supports_our_nato_membership/"> <img src="https://external-preview.redd.it/3_W3ZeZWsHDbRjPirPQ42EG-_6sqRHRetuWSfy-JPuQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cff0e17c92f4c0b43e3aa39ff586fb4f90d1705c" alt="Erdogan also supports our NATO membership: Ukrainian President Zelenskyy" title="Erdogan also supports our NATO membership: Ukrainian President Zelenskyy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/turkish__cowboy"> /u/turkish__cowboy </a> <br/> <span><a href="https://www.turkiyetoday.com/world/erdogan-also-supports-our-nato-membership-ukrainian-president-zelenskyy-121855/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ity3sz/erdogan_also_supports_our_nato_membership/">[comments]</a></span> </td></tr></table>
+
+## Russia rejoices as Trump goes full Kremlin
+ - [https://www.reddit.com/r/worldnews/comments/1itvtyh/russia_rejoices_as_trump_goes_full_kremlin](https://www.reddit.com/r/worldnews/comments/1itvtyh/russia_rejoices_as_trump_goes_full_kremlin)
+ - RSS feed: $source
+ - date published: 2025-02-20T10:52:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itvtyh/russia_rejoices_as_trump_goes_full_kremlin/"> <img src="https://external-preview.redd.it/MIYvq4jb5NG_mYJE0n5E3d9kK0dLrWJoZPb1fUlihIo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=247af9552eac11eb03f0dfd34e31631773f8cc43" alt="Russia rejoices as Trump goes full Kremlin" title="Russia rejoices as Trump goes full Kremlin" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Street_Anon"> /u/Street_Anon </a> <br/> <span><a href="https://www.politico.eu/article/russia-donald-trump-kremlin-volodymyr-zelenskyy-ukraine-moscow/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itvtyh/russia_rejoices_as_trump_goes_full_kremlin/">[comments]</a></span> </td></tr></table>
+
+## Denmark will 'buy, buy, buy' military gear, prime minister says
+ - [https://www.reddit.com/r/worldnews/comments/1itvcec/denmark_will_buy_buy_buy_military_gear_prime](https://www.reddit.com/r/worldnews/comments/1itvcec/denmark_will_buy_buy_buy_military_gear_prime)
+ - RSS feed: $source
+ - date published: 2025-02-20T10:18:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itvcec/denmark_will_buy_buy_buy_military_gear_prime/"> <img src="https://external-preview.redd.it/uRuc_03gxbDAJhTqsIJ6g9HOqFF5joTBow0-sI4uUEI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a7f1b1ffaaeb9b47edf69de61c2f5b8107a4d69b" alt="Denmark will 'buy, buy, buy' military gear, prime minister says" title="Denmark will 'buy, buy, buy' military gear, prime minister says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Realistic-Lie-8031"> /u/Realistic-Lie-8031 </a> <br/> <span><a href="https://www.reuters.com/world/europe/denmark-boost-2025-26-defence-spending-by-7-bln-2025-02-19/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itvcec/denmark_will_buy_buy_buy_military_gear_prime/">[comments]</a></span> </td></tr></table>
+
+## Pence denounces Trump’s claim Ukraine started war
+ - [https://www.reddit.com/r/worldnews/comments/1itvb82/pence_denounces_trumps_claim_ukraine_started_war](https://www.reddit.com/r/worldnews/comments/1itvb82/pence_denounces_trumps_claim_ukraine_started_war)
+ - RSS feed: $source
+ - date published: 2025-02-20T10:16:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itvb82/pence_denounces_trumps_claim_ukraine_started_war/"> <img src="https://external-preview.redd.it/mxu92CjxXHRRuflNHorkKzpSqdv8_xMc07mxpjviRUI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b00e3dc4cab0832c4d797429c2523b37c9f930fb" alt="Pence denounces Trump’s claim Ukraine started war" title="Pence denounces Trump’s claim Ukraine started war" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NinjaElectricMeteor"> /u/NinjaElectricMeteor </a> <br/> <span><a href="https://thehill.com/policy/international/5153983-pence-denounces-trumps-claim-ukraine-started-war/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itvb82/pence_denounces_trumps_claim_ukraine_started_war/">[comments]</a></span> </td></tr></table>
+
+## Fire breaks out at Moscow institute tied to Russia’s defense industry
+ - [https://www.reddit.com/r/worldnews/comments/1ituwxw/fire_breaks_out_at_moscow_institute_tied_to](https://www.reddit.com/r/worldnews/comments/1ituwxw/fire_breaks_out_at_moscow_institute_tied_to)
+ - RSS feed: $source
+ - date published: 2025-02-20T09:48:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ituwxw/fire_breaks_out_at_moscow_institute_tied_to/"> <img src="https://external-preview.redd.it/F2CWb56R1zcOCevzKSsWrn2hJapBnLI0alUwmtLr8kg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4ef061504fcfc181c5064228b32a2629b353f1d" alt="Fire breaks out at Moscow institute tied to Russia’s defense industry" title="Fire breaks out at Moscow institute tied to Russia’s defense industry" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kubrick_Fan"> /u/Kubrick_Fan </a> <br/> <span><a href="https://newsukraine.rbc.ua/news/fire-breaks-out-at-moscow-institute-tied-1740000326.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ituwxw/fire_breaks_out_at_moscow_institute_tied_to/">[comments]</a></span> </td></tr></table>
+
+## Scholz calls Trump's statements about Zelenskyy's legitimacy "dangerous"
+ - [https://www.reddit.com/r/worldnews/comments/1ituq3h/scholz_calls_trumps_statements_about_zelenskyys](https://www.reddit.com/r/worldnews/comments/1ituq3h/scholz_calls_trumps_statements_about_zelenskyys)
+ - RSS feed: $source
+ - date published: 2025-02-20T09:34:00+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/sweatycat"> /u/sweatycat </a> <br/> <span><a href="https://ukranews.com/en/news/1065663-scholz-calls-trump-s-statements-about-zelenskyy-s-legitimacy-dangerous">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ituq3h/scholz_calls_trumps_statements_about_zelenskyys/">[comments]</a></span>
+
+## Trump’s America is Putin’s ally now
+ - [https://www.reddit.com/r/worldnews/comments/1ituoy5/trumps_america_is_putins_ally_now](https://www.reddit.com/r/worldnews/comments/1ituoy5/trumps_america_is_putins_ally_now)
+ - RSS feed: $source
+ - date published: 2025-02-20T09:31:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ituoy5/trumps_america_is_putins_ally_now/"> <img src="https://external-preview.redd.it/QC1DHRAFi7oCwgSOuXtqsP-ogpZyFIVaRifyhCYN7Ks.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=454085ef84a623a0efa0b2b5d567476efa310685" alt="Trump’s America is Putin’s ally now" title="Trump’s America is Putin’s ally now" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/webcapcha"> /u/webcapcha </a> <br/> <span><a href="https://www.politico.eu/article/donald-trump-america-vladimir-putin-ally-war/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ituoy5/trumps_america_is_putins_ally_now/">[comments]</a></span> </td></tr></table>
+
+## NATO Conducts Largest Combat Exercises On Eastern Border
+ - [https://www.reddit.com/r/worldnews/comments/1itu6cl/nato_conducts_largest_combat_exercises_on_eastern](https://www.reddit.com/r/worldnews/comments/1itu6cl/nato_conducts_largest_combat_exercises_on_eastern)
+ - RSS feed: $source
+ - date published: 2025-02-20T08:55:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itu6cl/nato_conducts_largest_combat_exercises_on_eastern/"> <img src="https://external-preview.redd.it/dVBtoJF5lAvEM0M7fmjchrJjHcJ0c_UIHWJSLYop86I.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3b69a0fc5fbed621b43358fd82c32747a10e3802" alt="NATO Conducts Largest Combat Exercises On Eastern Border" title="NATO Conducts Largest Combat Exercises On Eastern Border" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/4920185"> /u/4920185 </a> <br/> <span><a href="https://www.inkl.com/news/nato-conducts-largest-combat-exercises-on-eastern-border">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itu6cl/nato_conducts_largest_combat_exercises_on_eastern/">[comments]</a></span> </td></tr></table>
+
+## Hamas hands bodies of four Israeli hostages to Red Cross in Gaza, including Bibas children and their mother
+ - [https://www.reddit.com/r/worldnews/comments/1ittvec/hamas_hands_bodies_of_four_israeli_hostages_to](https://www.reddit.com/r/worldnews/comments/1ittvec/hamas_hands_bodies_of_four_israeli_hostages_to)
+ - RSS feed: $source
+ - date published: 2025-02-20T08:32:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ittvec/hamas_hands_bodies_of_four_israeli_hostages_to/"> <img src="https://external-preview.redd.it/h5NsCpPQq3gxirMBC8pmJAyQ0S8F-fyGDv-nHjwHrEI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e8148fd102e943049f44609e94fa9d67faa9460" alt="Hamas hands bodies of four Israeli hostages to Red Cross in Gaza, including Bibas children and their mother" title="Hamas hands bodies of four Israeli hostages to Red Cross in Gaza, including Bibas children and their mother" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Actual-Valuable1982"> /u/Actual-Valuable1982 </a> <br/> <span><a href="https://edition.cnn.com/2025/02/20/middleeast/hamas-israel-hostages-release-bibas-intl-hnk/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ittvec/hamas_hands_bodies_of_four_israeli_hostages_to/">[comments]</a></span> </td></tr></table>
+
+## Singapore says Asia now views U.S. as a ‘landlord seeking rent’
+ - [https://www.reddit.com/r/worldnews/comments/1ittqw9/singapore_says_asia_now_views_us_as_a_landlord](https://www.reddit.com/r/worldnews/comments/1ittqw9/singapore_says_asia_now_views_us_as_a_landlord)
+ - RSS feed: $source
+ - date published: 2025-02-20T08:23:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ittqw9/singapore_says_asia_now_views_us_as_a_landlord/"> <img src="https://external-preview.redd.it/tchSjFWXVDPeV9hTXcHwrwV8Szqx0-FEE6URhrtQP3M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7428d8360bac4ea6ba0f47f9a244fedd7df6d4d3" alt="Singapore says Asia now views U.S. as a ‘landlord seeking rent’" title="Singapore says Asia now views U.S. as a ‘landlord seeking rent’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KadmonX"> /u/KadmonX </a> <br/> <span><a href="https://www.japantimes.co.jp/news/2025/02/17/asia-pacific/politics/singapore-asia-us-landlord/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ittqw9/singapore_says_asia_now_views_us_as_a_landlord/">[comments]</a></span> </td></tr></table>
+
+## Ukrainian female POWs tortured and paraded naked through the snow by Russian troops
+ - [https://www.reddit.com/r/worldnews/comments/1ittlul/ukrainian_female_pows_tortured_and_paraded_naked](https://www.reddit.com/r/worldnews/comments/1ittlul/ukrainian_female_pows_tortured_and_paraded_naked)
+ - RSS feed: $source
+ - date published: 2025-02-20T08:13:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTelegraph"> /u/TheTelegraph </a> <br/> <span><a href="https://www.telegraph.co.uk/global-health/women-and-girls/ukrainian-female-pows-tortured-and-paraded-naked-by-russian/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ittlul/ukrainian_female_pows_tortured_and_paraded_naked/">[comments]</a></span>
+
+## UK PM to propose sending 30.000 European soldiers to Ukraine
+ - [https://www.reddit.com/r/worldnews/comments/1ittaki/uk_pm_to_propose_sending_30000_european_soldiers](https://www.reddit.com/r/worldnews/comments/1ittaki/uk_pm_to_propose_sending_30000_european_soldiers)
+ - RSS feed: $source
+ - date published: 2025-02-20T07:51:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1ittaki/uk_pm_to_propose_sending_30000_european_soldiers/"> <img src="https://external-preview.redd.it/0kW8MYzhcWLnXK_LfZ596Lqe1Q7QwYD_VZqCvfJKPt0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a33afef306d807a9d22ac0f41c0736a126e1b717" alt="UK PM to propose sending 30.000 European soldiers to Ukraine" title="UK PM to propose sending 30.000 European soldiers to Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silly-avocatoe"> /u/Silly-avocatoe </a> <br/> <span><a href="https://www.pravda.com.ua/eng/news/2025/02/20/7499194/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1ittaki/uk_pm_to_propose_sending_30000_european_soldiers/">[comments]</a></span> </td></tr></table>
+
+## Zelensky's trust rating increases to 57%, survey shows, contradicting Trump's claims
+ - [https://www.reddit.com/r/worldnews/comments/1itpyi3/zelenskys_trust_rating_increases_to_57_survey](https://www.reddit.com/r/worldnews/comments/1itpyi3/zelenskys_trust_rating_increases_to_57_survey)
+ - RSS feed: $source
+ - date published: 2025-02-20T04:21:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itpyi3/zelenskys_trust_rating_increases_to_57_survey/"> <img src="https://external-preview.redd.it/jVqxws65fp72AB3WNb9JEIsMZAc0nkl_uBrrHcuZ_gw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=20cd0ced00e0618057c75edd77e5cf3e66b1ef42" alt="Zelensky's trust rating increases to 57%, survey shows, contradicting Trump's claims" title="Zelensky's trust rating increases to 57%, survey shows, contradicting Trump's claims" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/javelin3000"> /u/javelin3000 </a> <br/> <span><a href="https://kyivindependent.com/ukrainians-trust-in-zelensky-increases-to-57-survey-shows/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itpyi3/zelenskys_trust_rating_increases_to_57_survey/">[comments]</a></span> </td></tr></table>
+
+## /r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1092, Part 1 (Thread #1239)
+ - [https://www.reddit.com/r/worldnews/comments/1itpluk/rworldnews_live_thread_russian_invasion_of](https://www.reddit.com/r/worldnews/comments/1itpluk/rworldnews_live_thread_russian_invasion_of)
+ - RSS feed: $source
+ - date published: 2025-02-20T04:02:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itpluk/rworldnews_live_thread_russian_invasion_of/"> <img src="https://a.thumbs.redditmedia.com/jWqSTFxxKuo9aDK8JeM4yZL4Nb_RTA85H45u1-h63L8.jpg" alt="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1092, Part 1 (Thread #1239)" title="/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1092, Part 1 (Thread #1239)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorldNewsMods"> /u/WorldNewsMods </a> <br/> <span><a href="https://www.reddit.com/live/18hnzysb1elcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itpluk/rworldnews_live_thread_russian_invasion_of/">[comments]</a></span> </td></tr></table>
+
+## Peter Dutton says Trump ‘got it wrong’ when he called Zelenskyy a ‘dictator without elections’
+ - [https://www.reddit.com/r/worldnews/comments/1itoxhz/peter_dutton_says_trump_got_it_wrong_when_he](https://www.reddit.com/r/worldnews/comments/1itoxhz/peter_dutton_says_trump_got_it_wrong_when_he)
+ - RSS feed: $source
+ - date published: 2025-02-20T03:25:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itoxhz/peter_dutton_says_trump_got_it_wrong_when_he/"> <img src="https://external-preview.redd.it/kKWC0Jj7MeGCgagQ8VVTx3Y_yPAAqO0GgjdvOg_ZWXI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=215c10f3a16b179360d314f785d7ca6568f545a0" alt="Peter Dutton says Trump ‘got it wrong’ when he called Zelenskyy a ‘dictator without elections’" title="Peter Dutton says Trump ‘got it wrong’ when he called Zelenskyy a ‘dictator without elections’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/examisedotin"> /u/examisedotin </a> <br/> <span><a href="https://www.theguardian.com/australia-news/2025/feb/20/peter-dutton-donald-trump-putin-zelenskyy-russia-ukraine-war-comments">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itoxhz/peter_dutton_says_trump_got_it_wrong_when_he/">[comments]</a></span> </td></tr></table>
+
+## Trump says unfair to US if Musk builds factory in India
+ - [https://www.reddit.com/r/worldnews/comments/1itowol/trump_says_unfair_to_us_if_musk_builds_factory_in](https://www.reddit.com/r/worldnews/comments/1itowol/trump_says_unfair_to_us_if_musk_builds_factory_in)
+ - RSS feed: $source
+ - date published: 2025-02-20T03:24:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itowol/trump_says_unfair_to_us_if_musk_builds_factory_in/"> <img src="https://external-preview.redd.it/BmEyMdaDDNKfmab6dxj4jKvubbz3JmGZNH2j9ZvU02U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be37fb94a0c92dd81a777a732dc47b9a0d122b45" alt="Trump says unfair to US if Musk builds factory in India" title="Trump says unfair to US if Musk builds factory in India" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RGV_KJ"> /u/RGV_KJ </a> <br/> <span><a href="https://www.reuters.com/world/trump-says-unfair-us-if-musk-builds-factory-india-2025-02-19/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itowol/trump_says_unfair_to_us_if_musk_builds_factory_in/">[comments]</a></span> </td></tr></table>
+
+## Trudeau: 'Canada will always stand up for Ukraine'
+ - [https://www.reddit.com/r/worldnews/comments/1itnynr/trudeau_canada_will_always_stand_up_for_ukraine](https://www.reddit.com/r/worldnews/comments/1itnynr/trudeau_canada_will_always_stand_up_for_ukraine)
+ - RSS feed: $source
+ - date published: 2025-02-20T02:36:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itnynr/trudeau_canada_will_always_stand_up_for_ukraine/"> <img src="https://external-preview.redd.it/i5RDfkDRjG50YTDixZ6_7ujaTU5M0H-kiV6W4J9L_ig.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bb9c9db254c5d1c085c536b143ed3c0cb515d0c7" alt="Trudeau: 'Canada will always stand up for Ukraine'" title="Trudeau: 'Canada will always stand up for Ukraine'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Snowfish52"> /u/Snowfish52 </a> <br/> <span><a href="https://thehill.com/policy/international/5154568-trudeau-canada-will-always-stand-up-for-ukraine/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itnynr/trudeau_canada_will_always_stand_up_for_ukraine/">[comments]</a></span> </td></tr></table>
+
+## Ukrainians no longer trusting the US
+ - [https://www.reddit.com/r/worldnews/comments/1itnb4k/ukrainians_no_longer_trusting_the_us](https://www.reddit.com/r/worldnews/comments/1itnb4k/ukrainians_no_longer_trusting_the_us)
+ - RSS feed: $source
+ - date published: 2025-02-20T02:03:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itnb4k/ukrainians_no_longer_trusting_the_us/"> <img src="https://external-preview.redd.it/Sg6pqZv4iFKurg-Gs5h-Mw_2yBeWVK2H3aXvvzNBLpA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4db85846782aab135bad16a47ed3fdd6966b321" alt="Ukrainians no longer trusting the US" title="Ukrainians no longer trusting the US" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SlowAd702"> /u/SlowAd702 </a> <br/> <span><a href="https://www.nytimes.com/2025/02/19/world/europe/ukrainians-trump-voices.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itnb4k/ukrainians_no_longer_trusting_the_us/">[comments]</a></span> </td></tr></table>
+
+## Ukrainians, Stunned by Trump’s Comments, Fear They Can No Longer Trust U.S.
+ - [https://www.reddit.com/r/worldnews/comments/1itn4jm/ukrainians_stunned_by_trumps_comments_fear_they](https://www.reddit.com/r/worldnews/comments/1itn4jm/ukrainians_stunned_by_trumps_comments_fear_they)
+ - RSS feed: $source
+ - date published: 2025-02-20T01:54:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itn4jm/ukrainians_stunned_by_trumps_comments_fear_they/"> <img src="https://external-preview.redd.it/kYOsUAo72949U_P0je9j1mwprmj-TdhUgeI68UMQnqE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2b946393745c2921d2038cb468378a0e7defc857" alt="Ukrainians, Stunned by Trump’s Comments, Fear They Can No Longer Trust U.S." title="Ukrainians, Stunned by Trump’s Comments, Fear They Can No Longer Trust U.S." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/darrenjyc"> /u/darrenjyc </a> <br/> <span><a href="https://www.nytimes.com/2025/02/19/world/europe/ukrainians-trump-voices.html?unlocked_article_code=1.yU4.DJAu.cK2bYuF-6c0T">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itn4jm/ukrainians_stunned_by_trumps_comments_fear_they/">[comments]</a></span> </td></tr></table>
+
+## A year after Navalny’s death, his widow urges ongoing fight for a ‘free’ Russia
+ - [https://www.reddit.com/r/worldnews/comments/1itmn15/a_year_after_navalnys_death_his_widow_urges](https://www.reddit.com/r/worldnews/comments/1itmn15/a_year_after_navalnys_death_his_widow_urges)
+ - RSS feed: $source
+ - date published: 2025-02-20T01:30:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itmn15/a_year_after_navalnys_death_his_widow_urges/"> <img src="https://external-preview.redd.it/fzV5m9-J4zvy8VsMzfmORfiJ93JesKfl0GeiaogWs4Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=33c87cdeb96a17d86377d01b12d31670f4caed42" alt="A year after Navalny’s death, his widow urges ongoing fight for a ‘free’ Russia" title="A year after Navalny’s death, his widow urges ongoing fight for a ‘free’ Russia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Strongbow85"> /u/Strongbow85 </a> <br/> <span><a href="https://www.cnn.com/2025/02/16/world/alexey-navalny-death-anniversary-yulia-navalnaya-intl/index.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itmn15/a_year_after_navalnys_death_his_widow_urges/">[comments]</a></span> </td></tr></table>
+
+## Brazilians hail strength of democracy as Bolsonaro is called to account
+ - [https://www.reddit.com/r/worldnews/comments/1itm2fs/brazilians_hail_strength_of_democracy_as](https://www.reddit.com/r/worldnews/comments/1itm2fs/brazilians_hail_strength_of_democracy_as)
+ - RSS feed: $source
+ - date published: 2025-02-20T01:03:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itm2fs/brazilians_hail_strength_of_democracy_as/"> <img src="https://external-preview.redd.it/TQbk6P8G0rMLecgwACuk-oNcShNcXln8Xy4cHS-k_tQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=525d07a6b53762c583f19e78baad538db4c44a6a" alt="Brazilians hail strength of democracy as Bolsonaro is called to account" title="Brazilians hail strength of democracy as Bolsonaro is called to account" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kova-tejoc"> /u/kova-tejoc </a> <br/> <span><a href="https://theguardian.com/world/2025/feb/19/brazil-jair-bolsonaro-coup">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itm2fs/brazilians_hail_strength_of_democracy_as/">[comments]</a></span> </td></tr></table>
+
+## Starmer backs Zelensky after Trump 'dictator' claim
+ - [https://www.reddit.com/r/worldnews/comments/1itkrcl/starmer_backs_zelensky_after_trump_dictator_claim](https://www.reddit.com/r/worldnews/comments/1itkrcl/starmer_backs_zelensky_after_trump_dictator_claim)
+ - RSS feed: $source
+ - date published: 2025-02-20T00:02:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/worldnews/comments/1itkrcl/starmer_backs_zelensky_after_trump_dictator_claim/"> <img src="https://external-preview.redd.it/zpcmY12j0nV_enDdcqJg15G-AJk6bpdUBYFBxIwLz2M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c20837be61a7335c7d231d519ffa4a598dddc6d" alt="Starmer backs Zelensky after Trump 'dictator' claim" title="Starmer backs Zelensky after Trump 'dictator' claim" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Yveliad"> /u/Yveliad </a> <br/> <span><a href="https://www.bbc.com/news/articles/clyrnjrjrr5o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/worldnews/comments/1itkrcl/starmer_backs_zelensky_after_trump_dictator_claim/">[comments]</a></span> </td></tr></table>
+

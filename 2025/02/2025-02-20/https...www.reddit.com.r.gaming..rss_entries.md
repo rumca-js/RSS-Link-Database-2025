@@ -1,0 +1,177 @@
+# Source:r/gaming, URL:https://www.reddit.com/r/gaming/.rss, language:
+
+## Kingdom Come Deliverance 2 is a fantastic and unique game. My favorite RPG since TW3.
+ - [https://www.reddit.com/r/gaming/comments/1iu6hm1/kingdom_come_deliverance_2_is_a_fantastic_and](https://www.reddit.com/r/gaming/comments/1iu6hm1/kingdom_come_deliverance_2_is_a_fantastic_and)
+ - RSS feed: $source
+ - date published: 2025-02-20T19:07:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iu6hm1/kingdom_come_deliverance_2_is_a_fantastic_and/"> <img src="https://preview.redd.it/1dgrr6noecke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6bbb8dc4e90f9e4941fc957e1539ea9b04a83f83" alt="Kingdom Come Deliverance 2 is a fantastic and unique game. My favorite RPG since TW3." title="Kingdom Come Deliverance 2 is a fantastic and unique game. My favorite RPG since TW3." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Raphous"> /u/Raphous </a> <br/> <span><a href="https://i.redd.it/1dgrr6noecke1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iu6hm1/kingdom_come_deliverance_2_is_a_fantastic_and/">[comments]</a></span> </td></tr></table>
+
+## A 'SIFU' Movie In The Works From 'John Wick' Director Chad Stahelski
+ - [https://www.reddit.com/r/gaming/comments/1iu6e05/a_sifu_movie_in_the_works_from_john_wick_director](https://www.reddit.com/r/gaming/comments/1iu6e05/a_sifu_movie_in_the_works_from_john_wick_director)
+ - RSS feed: $source
+ - date published: 2025-02-20T19:03:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iu6e05/a_sifu_movie_in_the_works_from_john_wick_director/"> <img src="https://external-preview.redd.it/ZRsD9iB2oUIXKUc43Cotcy9NNu0xJRYxMcK21CIQhdE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7daa11f6aca8eeddbcc46a04637f3044683bed12" alt="A 'SIFU' Movie In The Works From 'John Wick' Director Chad Stahelski" title="A 'SIFU' Movie In The Works From 'John Wick' Director Chad Stahelski" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ChiefLeef22"> /u/ChiefLeef22 </a> <br/> <span><a href="https://deadline.com/2025/02/netflix-sifu-t-s-nowlin-chad-stahelskis-producing-1236295230/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iu6e05/a_sifu_movie_in_the_works_from_john_wick_director/">[comments]</a></span> </td></tr></table>
+
+## This month was good to me.
+ - [https://www.reddit.com/r/gaming/comments/1iu4mhx/this_month_was_good_to_me](https://www.reddit.com/r/gaming/comments/1iu4mhx/this_month_was_good_to_me)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:53:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iu4mhx/this_month_was_good_to_me/"> <img src="https://preview.redd.it/6bb1pwtb1cke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf38e1380ac6921129771ac43878e846e1f13949" alt="This month was good to me." title="This month was good to me." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I ran into an exceptional amount of money this month so I grabbed some games I&#39;ve had on a wishlist. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cthyrulean"> /u/Cthyrulean </a> <br/> <span><a href="https://i.redd.it/6bb1pwtb1cke1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iu4mhx/this_month_was_good_to_me/">[comments]</a></span> </td></tr></table>
+
+## Another Helldivers 2 collaboration is already in the "early stages" after the sci-fi shooter crossed over with Killzone
+ - [https://www.reddit.com/r/gaming/comments/1iu4liy/another_helldivers_2_collaboration_is_already_in](https://www.reddit.com/r/gaming/comments/1iu4liy/another_helldivers_2_collaboration_is_already_in)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:51:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iu4liy/another_helldivers_2_collaboration_is_already_in/"> <img src="https://external-preview.redd.it/SWAFVc8FU8--qWd7CLPuJksGPHNjKauBG994Pa1T4P0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4f228a0bfe625becef36cdbe46ffa54c7529d994" alt="Another Helldivers 2 collaboration is already in the &quot;early stages&quot; after the sci-fi shooter crossed over with Killzone" title="Another Helldivers 2 collaboration is already in the &quot;early stages&quot; after the sci-fi shooter crossed over with Killzone" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SweetyGonzalez"> /u/SweetyGonzalez </a> <br/> <span><a href="https://www.gamesradar.com/games/third-person-shooter/another-helldivers-2-collaboration-is-already-in-the-early-stages-after-the-sci-fi-shooter-crossed-over-with-killzone/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iu4liy/another_helldive
+
+## Teaser for Tony hawks skater found in black ops 6 new map (March 4th announcement).
+ - [https://www.reddit.com/r/gaming/comments/1iu49c8/teaser_for_tony_hawks_skater_found_in_black_ops_6](https://www.reddit.com/r/gaming/comments/1iu49c8/teaser_for_tony_hawks_skater_found_in_black_ops_6)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:38:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iu49c8/teaser_for_tony_hawks_skater_found_in_black_ops_6/"> <img src="https://preview.redd.it/1rd9pm2oybke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c1f5f0a385ad01bf6c54d65b7d019cbef19746c3" alt="Teaser for Tony hawks skater found in black ops 6 new map (March 4th announcement)." title="Teaser for Tony hawks skater found in black ops 6 new map (March 4th announcement)." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bexewa"> /u/Bexewa </a> <br/> <span><a href="https://i.redd.it/1rd9pm2oybke1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iu49c8/teaser_for_tony_hawks_skater_found_in_black_ops_6/">[comments]</a></span> </td></tr></table>
+
+## Who made this song for Tetris DX? It might be the best 4-bit tune I’ve ever heard
+ - [https://www.reddit.com/r/gaming/comments/1iu3u4n/who_made_this_song_for_tetris_dx_it_might_be_the](https://www.reddit.com/r/gaming/comments/1iu3u4n/who_made_this_song_for_tetris_dx_it_might_be_the)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:21:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iu3u4n/who_made_this_song_for_tetris_dx_it_might_be_the/"> <img src="https://external-preview.redd.it/-QbQm_OozjtyasdxNK8OfNFJhkcfaoYfnmlf8GumdzI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=796f2698e29956b27f6dbbd0005fb83cbf7664a2" alt="Who made this song for Tetris DX? It might be the best 4-bit tune I’ve ever heard" title="Who made this song for Tetris DX? It might be the best 4-bit tune I’ve ever heard" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>It</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NeverEndingHell"> /u/NeverEndingHell </a> <br/> <span><a href="https://youtu.be/DEZ6jYZq9UE?si=cwD3seIsPKB6M2SN">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iu3u4n/who_made_this_song_for_tetris_dx_it_might_be_the/">[comments]</a></span> </td></tr></table>
+
+## Outer Wilds Minimalist Art
+ - [https://www.reddit.com/r/gaming/comments/1iu3fdj/outer_wilds_minimalist_art](https://www.reddit.com/r/gaming/comments/1iu3fdj/outer_wilds_minimalist_art)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:05:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iu3fdj/outer_wilds_minimalist_art/"> <img src="https://preview.redd.it/gnjfpp5psbke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b22ad1f28eb7db57a5e204402bd059b08b98aff" alt="Outer Wilds Minimalist Art" title="Outer Wilds Minimalist Art" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hand_of_Belmont"> /u/Hand_of_Belmont </a> <br/> <span><a href="https://i.redd.it/gnjfpp5psbke1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iu3fdj/outer_wilds_minimalist_art/">[comments]</a></span> </td></tr></table>
+
+## Kingdom Come Deliverance 2: A PC Game We Can Celebrate - Digital Foundry Tech Review
+ - [https://www.reddit.com/r/gaming/comments/1iu23me/kingdom_come_deliverance_2_a_pc_game_we_can](https://www.reddit.com/r/gaming/comments/1iu23me/kingdom_come_deliverance_2_a_pc_game_we_can)
+ - RSS feed: $source
+ - date published: 2025-02-20T16:10:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iu23me/kingdom_come_deliverance_2_a_pc_game_we_can/"> <img src="https://external-preview.redd.it/21eip1b_5BdS_6QBgvlvCPBcfZ7UvkV-_N6RoY6Elrw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=38afb9d39f44f825bd82fd25bfac4a2d4266f359" alt="Kingdom Come Deliverance 2: A PC Game We Can Celebrate - Digital Foundry Tech Review" title="Kingdom Come Deliverance 2: A PC Game We Can Celebrate - Digital Foundry Tech Review" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MythBuster2"> /u/MythBuster2 </a> <br/> <span><a href="https://youtu.be/w31Ct25gJlI">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iu23me/kingdom_come_deliverance_2_a_pc_game_we_can/">[comments]</a></span> </td></tr></table>
+
+## Samurai Pizza Cats Official Game Reveal Trailer
+ - [https://www.reddit.com/r/gaming/comments/1iu0rcd/samurai_pizza_cats_official_game_reveal_trailer](https://www.reddit.com/r/gaming/comments/1iu0rcd/samurai_pizza_cats_official_game_reveal_trailer)
+ - RSS feed: $source
+ - date published: 2025-02-20T15:14:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iu0rcd/samurai_pizza_cats_official_game_reveal_trailer/"> <img src="https://external-preview.redd.it/X1QP5NyiQht8SA0TSynrUAUkqIckUgVSrKd2aRQQ5S4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cf7f78bc363abdf35bd811898094457aed6441f2" alt="Samurai Pizza Cats Official Game Reveal Trailer" title="Samurai Pizza Cats Official Game Reveal Trailer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EarthPuma120"> /u/EarthPuma120 </a> <br/> <span><a href="https://youtu.be/ayAjwXFEtdc?si=ZC6HubLxg0EKBybx">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iu0rcd/samurai_pizza_cats_official_game_reveal_trailer/">[comments]</a></span> </td></tr></table>
+
+## Dune Awakening release date trailer.
+ - [https://www.reddit.com/r/gaming/comments/1iu0ivw/dune_awakening_release_date_trailer](https://www.reddit.com/r/gaming/comments/1iu0ivw/dune_awakening_release_date_trailer)
+ - RSS feed: $source
+ - date published: 2025-02-20T15:04:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iu0ivw/dune_awakening_release_date_trailer/"> <img src="https://external-preview.redd.it/O6pvdDFlJRb0x-hBTPJFDSQYep5pi_vDawOxbI90OSQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4c8717dd530b44a21c3e1dc6df9df940e674b284" alt="Dune Awakening release date trailer." title="Dune Awakening release date trailer." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Iceykitsune3"> /u/Iceykitsune3 </a> <br/> <span><a href="https://www.youtube.com/watch?v=gl6Wi20fSp0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iu0ivw/dune_awakening_release_date_trailer/">[comments]</a></span> </td></tr></table>
+
+## Carved a Lapras out of sapele and walnut!
+ - [https://www.reddit.com/r/gaming/comments/1iu0f6n/carved_a_lapras_out_of_sapele_and_walnut](https://www.reddit.com/r/gaming/comments/1iu0f6n/carved_a_lapras_out_of_sapele_and_walnut)
+ - RSS feed: $source
+ - date published: 2025-02-20T14:59:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iu0f6n/carved_a_lapras_out_of_sapele_and_walnut/"> <img src="https://preview.redd.it/5bl5ghff6bke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bc7980e3402046101250b2e86dd170223e359ad7" alt="Carved a Lapras out of sapele and walnut!" title="Carved a Lapras out of sapele and walnut!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MediocrePlayer"> /u/MediocrePlayer </a> <br/> <span><a href="https://i.redd.it/5bl5ghff6bke1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iu0f6n/carved_a_lapras_out_of_sapele_and_walnut/">[comments]</a></span> </td></tr></table>
+
+## Marvel Rivals has passed 40 million players, as NetEase reports net revenue of $2.9 billion
+ - [https://www.reddit.com/r/gaming/comments/1itzi2e/marvel_rivals_has_passed_40_million_players_as](https://www.reddit.com/r/gaming/comments/1itzi2e/marvel_rivals_has_passed_40_million_players_as)
+ - RSS feed: $source
+ - date published: 2025-02-20T14:18:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1itzi2e/marvel_rivals_has_passed_40_million_players_as/"> <img src="https://external-preview.redd.it/0WWKkU5MIzXVAqhltpf-hzF1kml0tDvPDp6drjNUlPs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=22276ff19a48be05d70be59f3f82fbdce0270c4b" alt="Marvel Rivals has passed 40 million players, as NetEase reports net revenue of $2.9 billion" title="Marvel Rivals has passed 40 million players, as NetEase reports net revenue of $2.9 billion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ReaddittiddeR"> /u/ReaddittiddeR </a> <br/> <span><a href="https://www.videogameschronicle.com/news/marvel-rivals-has-passed-40-million-players-as-netease-reports-net-revenue-of-2-9-billion/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1itzi2e/marvel_rivals_has_passed_40_million_players_as/">[comments]</a></span> </td></tr></table>
+
+## Microsoft's generative AI model Muse isn't creating games - and it's certainly not going to solve game preservation, expert says
+ - [https://www.reddit.com/r/gaming/comments/1itza4f/microsofts_generative_ai_model_muse_isnt_creating](https://www.reddit.com/r/gaming/comments/1itza4f/microsofts_generative_ai_model_muse_isnt_creating)
+ - RSS feed: $source
+ - date published: 2025-02-20T14:08:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1itza4f/microsofts_generative_ai_model_muse_isnt_creating/"> <img src="https://external-preview.redd.it/hVQbzYfOb8isSeY07DtnAkb5apIMS5SDKO9885oo3s8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d881a169a46fe44eb0ba2e315799379a6c84170" alt="Microsoft's generative AI model Muse isn't creating games - and it's certainly not going to solve game preservation, expert says" title="Microsoft's generative AI model Muse isn't creating games - and it's certainly not going to solve game preservation, expert says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hdcase1"> /u/hdcase1 </a> <br/> <span><a href="https://www.eurogamer.net/microsofts-generative-ai-model-muse-isnt-creating-games-and-its-certainly-not-going-to-solve-game-preservation-expert-says">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1itza4f/microsofts_generative_ai_model_muse_isnt_creating/">[co
+
+## WoW Classic, Heroes 3, Baldurs Gate 2, Age of Empires 2 and other still have me in their grasp
+ - [https://www.reddit.com/r/gaming/comments/1itz5ey/wow_classic_heroes_3_baldurs_gate_2_age_of](https://www.reddit.com/r/gaming/comments/1itz5ey/wow_classic_heroes_3_baldurs_gate_2_age_of)
+ - RSS feed: $source
+ - date published: 2025-02-20T14:02:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1itz5ey/wow_classic_heroes_3_baldurs_gate_2_age_of/"> <img src="https://preview.redd.it/nmzppuorvake1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a47457940f0d0e2ae3f65a53889b4af345b32889" alt="WoW Classic, Heroes 3, Baldurs Gate 2, Age of Empires 2 and other still have me in their grasp" title="WoW Classic, Heroes 3, Baldurs Gate 2, Age of Empires 2 and other still have me in their grasp" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hiimtesto"> /u/hiimtesto </a> <br/> <span><a href="https://i.redd.it/nmzppuorvake1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1itz5ey/wow_classic_heroes_3_baldurs_gate_2_age_of/">[comments]</a></span> </td></tr></table>
+
+## Battle of the backlog
+ - [https://www.reddit.com/r/gaming/comments/1ity2eh/battle_of_the_backlog](https://www.reddit.com/r/gaming/comments/1ity2eh/battle_of_the_backlog)
+ - RSS feed: $source
+ - date published: 2025-02-20T13:07:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>How do you work through your backlog of games? I know it sounds stupid, but one thing I find helps a lot is not buying new games 😅 but I still have trouble sticking things out to the end.</p> <p>Sometimes, I give up on something quick because I&#39;m not enjoying it. Which is fine, I tried something new atleast. And you shouldn&#39;t waste time on things you don&#39;t enjoy.</p> <p>However, it&#39;s the games I DO enjoy that I give up on which concerns me. Not sure why, just trail off into some other game/genre. Usually at difficulty spikes or drops. When I do stick something out to the end, I feel great about it. But I don&#39;t know the magic combination of things to focus on something.</p> <p>In a weird way, I think working through this backlog of games will help me a little with discipline in other aspects of life. So how do you work through your back log of games?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/
+
+## What should I play next?
+ - [https://www.reddit.com/r/gaming/comments/1itxdww/what_should_i_play_next](https://www.reddit.com/r/gaming/comments/1itxdww/what_should_i_play_next)
+ - RSS feed: $source
+ - date published: 2025-02-20T12:30:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>I own these games, but havn&#39;t found the time or motivation to play them yet. I&#39;ve been kind of demotivated by not having anything to play recently, and want to give something a chance The one with most votes I will play next:</p> <ul> <li>Jedi: Survivor</li> <li>Hollow Knight</li> <li>Shadow of War</li> <li>Devil may Cry (1-3, DMC or 5)</li> <li>Scarlet Nexus</li> <li>Hellbalde: Senuas Sacrifice</li> <li>Space Marine 2</li> <li>Saints Row (Any of them)</li> <li>Ghostrunner (1 and 2)</li> <li>Dishonored</li> <li>Bioshock (Is classic or remastered better?)</li> <li>Dead Space (I almost finished the first one a while ago, but own 2, 3 and remake aswell)</li> <li>Mad Max</li> <li>Journey</li> <li>Metal Gear Rising: Revengance</li> <li>Alien: Isolation</li> <li>Bendy and the Ink Machine (And Dark Revival)</li> <li>Beyond: Two Souls</li> <li>Control</li> <li>Crysis</li> <li>Dead Rising</li> <li>Deus Ex</li> <li>Doom (2016 and Eternal)</li> <li>Gear
+
+## I made my first game inspired by old NES games and learned game development from scratch. "Hatone" - this is what came out of it...
+ - [https://www.reddit.com/r/gaming/comments/1itx883/i_made_my_first_game_inspired_by_old_nes_games](https://www.reddit.com/r/gaming/comments/1itx883/i_made_my_first_game_inspired_by_old_nes_games)
+ - RSS feed: $source
+ - date published: 2025-02-20T12:21:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1itx883/i_made_my_first_game_inspired_by_old_nes_games/"> <img src="https://preview.redd.it/6uohbxa4eake1.gif?width=640&amp;crop=smart&amp;s=03afa18440bd730a2d4b5874313bbfcc68b385f5" alt="I made my first game inspired by old NES games and learned game development from scratch. &quot;Hatone&quot; - this is what came out of it..." title="I made my first game inspired by old NES games and learned game development from scratch. &quot;Hatone&quot; - this is what came out of it..." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hello friends! I&#39;ve been working alone on my first creation - HATONE, for two years. I learned game design, programming and more from scratch. And for about the same amount of time, I wasn&#39;t able to release it... Yeah, it turns out that making a game is only half the battle. The game found a publisher, but then they lost it :( So, I decided to self-publish on Steam. I didn&#39;t have any
+
+## It faded into obscurity, but I always wanted a sequel or re-make (Radiata Stories)
+ - [https://www.reddit.com/r/gaming/comments/1itw1g2/it_faded_into_obscurity_but_i_always_wanted_a](https://www.reddit.com/r/gaming/comments/1itw1g2/it_faded_into_obscurity_but_i_always_wanted_a)
+ - RSS feed: $source
+ - date published: 2025-02-20T11:06:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1itw1g2/it_faded_into_obscurity_but_i_always_wanted_a/"> <img src="https://preview.redd.it/qj459xsr0ake1.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=c26da494de56449b979ce6b6190c608c4a27ddea" alt="It faded into obscurity, but I always wanted a sequel or re-make (Radiata Stories)" title="It faded into obscurity, but I always wanted a sequel or re-make (Radiata Stories)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>In the age where your main character&#39;s appearance didn&#39;t change, and time usually didn&#39;t matter, and RPGs were mostly linear, Radiata Stories was an RPG that played with fresh mechanics.</p> <p>First, weapons/ armor changed your appearance. Frickin sweet.</p> <p>Second, you learn skills by acquiring party members. You gain party members by learning their schedules and lowkey stalking them like an anime schoolgirl hoping senpai notices them. Talk often enough, kick them, prove yourself 
+
+## Two blue things arrived today
+ - [https://www.reddit.com/r/gaming/comments/1ituz1p/two_blue_things_arrived_today](https://www.reddit.com/r/gaming/comments/1ituz1p/two_blue_things_arrived_today)
+ - RSS feed: $source
+ - date published: 2025-02-20T09:52:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ituz1p/two_blue_things_arrived_today/"> <img src="https://preview.redd.it/dqssa16kn9ke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=50d86359b7934fc138b0d63e7677df3b2d64a679" alt="Two blue things arrived today" title="Two blue things arrived today" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DweebInFlames"> /u/DweebInFlames </a> <br/> <span><a href="https://i.redd.it/dqssa16kn9ke1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ituz1p/two_blue_things_arrived_today/">[comments]</a></span> </td></tr></table>
+
+## Looking for games with similar gameplay to this that ISN'T Final fantasy.
+ - [https://www.reddit.com/r/gaming/comments/1ituyz4/looking_for_games_with_similar_gameplay_to_this](https://www.reddit.com/r/gaming/comments/1ituyz4/looking_for_games_with_similar_gameplay_to_this)
+ - RSS feed: $source
+ - date published: 2025-02-20T09:52:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ituyz4/looking_for_games_with_similar_gameplay_to_this/"> <img src="https://preview.redd.it/defvuomvm9ke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c23836f902f7e51297690b5241a6f465f999e5d" alt="Looking for games with similar gameplay to this that ISN'T Final fantasy." title="Looking for games with similar gameplay to this that ISN'T Final fantasy." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LotsOfNoise"> /u/LotsOfNoise </a> <br/> <span><a href="https://i.redd.it/defvuomvm9ke1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ituyz4/looking_for_games_with_similar_gameplay_to_this/">[comments]</a></span> </td></tr></table>
+
+## You get to bring your items and inventory from any game save file to a generic fantasy world. What game/ save are you choosing?
+ - [https://www.reddit.com/r/gaming/comments/1ituydc/you_get_to_bring_your_items_and_inventory_from](https://www.reddit.com/r/gaming/comments/1ituydc/you_get_to_bring_your_items_and_inventory_from)
+ - RSS feed: $source
+ - date published: 2025-02-20T09:50:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Further explanation: You get teleported to a generic fantasy world. Think D&amp;D or isekai anime. You get to choose one game you own and one save file. You get all abilities your character has, all the items, inventory and gear they have access to. Every thing is stored in your inventory and can be accessed at will. Every thing works like it does in the game you choose. (Game rules) If you don’t have a character avatar in the game, it’s just you and whatever is on your game account. So, what game are you picking?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/falloutboy9993"> /u/falloutboy9993 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ituydc/you_get_to_bring_your_items_and_inventory_from/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ituydc/you_get_to_bring_your_items_and_inventory_from/">[comments]</a></span>
+
+## Does anybody that didn't get to try out It Takes Two on PlayStation wanna play it with me?
+ - [https://www.reddit.com/r/gaming/comments/1itu5tr/does_anybody_that_didnt_get_to_try_out_it_takes](https://www.reddit.com/r/gaming/comments/1itu5tr/does_anybody_that_didnt_get_to_try_out_it_takes)
+ - RSS feed: $source
+ - date published: 2025-02-20T08:53:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Preferably only someone that didn&#39;t play it yet but really wants to, just let me know and we&#39;ll beat it together! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Youngtimes99"> /u/Youngtimes99 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1itu5tr/does_anybody_that_didnt_get_to_try_out_it_takes/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1itu5tr/does_anybody_that_didnt_get_to_try_out_it_takes/">[comments]</a></span>
+
+## What’s a good first RPG?
+ - [https://www.reddit.com/r/gaming/comments/1ittgmp/whats_a_good_first_rpg](https://www.reddit.com/r/gaming/comments/1ittgmp/whats_a_good_first_rpg)
+ - RSS feed: $source
+ - date published: 2025-02-20T08:03:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>So my son is 11 and loves the big two, Fortnite and Roblox. I’m interested in introducing him to RPG single player games, to see if they’re something he will enjoy. I just don’t know which game would be a good start.</p> <p>My first instinct is either Skyrim or Fable 1</p> <p>Skyrim is an everyone kind of RPG and is simple enough to get into. Fable was one of my first and it’s an absolute gem even to this day, but idk if that is the nostalgia talking.</p> <p>Anyone have any ideas for a good first RPG for someone? Try as best as you can to remove nostalgia, like idk if he would enjoy FF7 for example. Beautiful and iconic game, but for a modern kid, idk if it would hold up.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Eldricson93"> /u/Eldricson93 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ittgmp/whats_a_good_first_rpg/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gam
+
+## Any good games where I cam just feel invincible and destroy the enemies
+ - [https://www.reddit.com/r/gaming/comments/1itplly/any_good_games_where_i_cam_just_feel_invincible](https://www.reddit.com/r/gaming/comments/1itplly/any_good_games_where_i_cam_just_feel_invincible)
+ - RSS feed: $source
+ - date published: 2025-02-20T04:02:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been under a lot of stress. I don&#39;t have much money. But I just need a break. Let me know if you can. Please and thank you</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/QuothTheRavenMore"> /u/QuothTheRavenMore </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1itplly/any_good_games_where_i_cam_just_feel_invincible/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1itplly/any_good_games_where_i_cam_just_feel_invincible/">[comments]</a></span>
+
+## Ubisoft Confident on Releasing Assassin’s Creed Shadows on March 20th, over 300,000 Pre-Orders as of February 18th
+ - [https://www.reddit.com/r/gaming/comments/1itnhhe/ubisoft_confident_on_releasing_assassins_creed](https://www.reddit.com/r/gaming/comments/1itnhhe/ubisoft_confident_on_releasing_assassins_creed)
+ - RSS feed: $source
+ - date published: 2025-02-20T02:12:04+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/GabbyArm"> /u/GabbyArm </a> <br/> <span><a href="https://www.notebookcheck.net/Twice-delayed-Assassin-s-Creed-Shadows-release-date-on-March-20th-looks-promising.963290.0.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1itnhhe/ubisoft_confident_on_releasing_assassins_creed/">[comments]</a></span>
+

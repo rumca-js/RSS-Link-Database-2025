@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-20T10:03:00+00:00",
+        "description": "A great intern brings positive energy, a relentless work ethic and doesn&#8217;t cost very much. They ask a lot of questions, and the most useful questions will help you see an existing situation with fresh eyes. Of course, you&#8217;ll expect them to make mistakes, and a professional needs to double-check all of their work. If [&#8230;]",
+        "id": 2155142,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/02/the-best-intern-on-the-team",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The best intern on the team",
+        "vote": 0
+    }
+]

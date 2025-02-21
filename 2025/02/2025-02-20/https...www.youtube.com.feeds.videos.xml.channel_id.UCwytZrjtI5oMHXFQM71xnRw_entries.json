@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AugustTheDuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-20T01:15:02+00:00",
+        "description": "Teraclout, a TikToker who is blowing up for his videos where he screams in a store and then pretends he didn't do it. No, seriously. Buckle up.\n\nprevious video: https://www.youtube.com/watch?v=XidGgyaPfmU\nfollow me on instagram!: https://www.instagram.com/oohgust/\nfollow me on twitter!: https://twitter.com/oohgust\nmy gaming channel: https://www.youtube.com/@ducktheaugust\nsubscribe: https://www.youtube.com/user/augusttheduck/?sub_confirmation=1\n\noutro song creds: \nhttps://www.youtube.com/@prodgoostavo\nhttps://www.youtube.com/@dadood3652",
+        "id": 2153013,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=AVlecXjE9HU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 581,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwytZrjtI5oMHXFQM71xnRw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AVlecXjE9HU/hqdefault.jpg",
+        "title": "This TikToker Harrases Workers for Views",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-20T16:00:20+00:00",
+        "description": "Learn your favorite subjects whenever and wherever you have the time with Brilliant! First 30 days are free and 20% off the annual premium subscription when you use our link \u279c  https://brilliant.org/sabine. \n\nPhysicists have reexamined a decades old quantum paradox and found a way to make quantum computers more efficient \u2014 in 37 dimensions. I set out to understand what this means and here is my best attempt at explaining it.\n\nPaper: https://www.science.org/doi/10.1126/sciadv.abd8080\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udce9 Free weekly science newsletter  \u279c https://sabinehossenfelder.com/newsletter/\n\ud83d\udc42 Audio only podcast \u279c  https://open.spotify.com/show/0MkNfXlKnMPEUMEeKQYmYC\n\ud83d\udd17 Join this channel to get access to perks \u279c \nhttps://www.youtube.com/channel/UC1yNl2",
+        "id": 2158175,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=M6bt1cBFt9E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/M6bt1cBFt9E/hqdefault.jpg",
+        "title": "New Solution to Quantum Paradox Can Improve Quantum Computing",
+        "vote": 0
+    }
+]

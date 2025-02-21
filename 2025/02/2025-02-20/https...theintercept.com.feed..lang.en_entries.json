@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-20T20:54:54+00:00",
+        "description": "<p>The cut, an anti-trans attack, was the latest example of confusion sown by bold claims that wither under scrutiny.</p>\n<p>The post <a href=\"https://theintercept.com/2025/02/20/doge-social-security-cuts-musk-receipts/\">DOGE Said It Cut $232 Million From Social Security Budget. It Was Only About Half a Million.</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 2160155,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/02/20/doge-social-security-cuts-musk-receipts",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/theintercept.com/wp-content/uploads/2025/02/GettyImages-2198425937.jpg?w=1200",
+        "title": "DOGE Said It Cut $232 Million From Social Security Budget. It Was Only About Half a Million.",
+        "vote": 0
+    }
+]

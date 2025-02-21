@@ -1,0 +1,65 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## B.C. minister, mayor denounce racist graffiti on Treaty 8 building in Fort St. John
+ - [https://www.cbc.ca/news/canada/british-columbia/fort-st-john-swastikas-vandalism-treaty-8-1.7464213?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/fort-st-john-swastikas-vandalism-treaty-8-1.7464213?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-20T16:11:39+00:00
+
+<img src='https://i.cbc.ca/1.5224172.1721861178!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/city-of-vancouver-councillor-christine-boyle.jpg' alt='A woman gestures as she speaks in council.' width='620' height='349' title='Vancouver city councillors Christine Boyle is pictured during a meeting at city hall in Vancouver, British Columbia on Wednesday, July 24, 2019.'/><p>The imagery represents 'the worst of society' advocacy group says in speaking against incident.</p>
+
+## Vaccination efforts increased in parts of Ontario as measles outbreaks grow
+ - [https://www.cbc.ca/news/canada/london/vaccination-efforts-increased-in-parts-of-ontario-as-measles-outbreaks-grow-1.7464033?cmp=rss](https://www.cbc.ca/news/canada/london/vaccination-efforts-increased-in-parts-of-ontario-as-measles-outbreaks-grow-1.7464033?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-20T15:37:29+00:00
+
+<img src='https://i.cbc.ca/1.5343106.1708113693!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-virus.jpg' alt='A graphic representation of measles.' width='620' height='349' title='This illustration provides a 3D graphical representation of a spherical-shaped, measles virus particle that is studded with glycoprotein tubercles. Those tubercular studs colorized maroon, are known as H-proteins (hemagglutinin), and those colorized gray are referred to as F-proteins (fusion). The F-protein is responsible for fusion of virus and host cell membranes, viral penetration, and hemolysis, and the H-protein is responsible for binding of virus to cells. Both types of proteinaceous studs are embedded in the envelope’s lipid bilayer. Additional Information: A member of the genus Morbillivirus, the measles virus is the pathogen responsible for causing measles in human beings. “Measles starts with fever, runny nose, cough, red eyes, and sore throat. It’s followed by a rash that spread
+
+## FAFO parenting is the trendy way to let kids 'find out' consequences. But is it cruel to let them fail?
+ - [https://www.cbc.ca/news/canada/what-is-fafo-parenting-1.7462555?cmp=rss](https://www.cbc.ca/news/canada/what-is-fafo-parenting-1.7462555?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-20T15:06:17+00:00
+
+<img src='https://i.cbc.ca/1.7462604.1740081897!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/winter-coat-stock.jpg' alt='A stock image of a child in a winter coat' width='620' height='349' title='A stock image of a child in a winter coat'/><p>FAFO parenting is the latest trend parents are buzzing about right now, with the idea that the approach teaches kids natural consequences to their actions. The acronym FAFO stands for, "fool around and find out," except it's the other F-word.</p>
+
+## Marineland succeeds in bid to sever property so it can raise money to move its animals
+ - [https://www.cbc.ca/news/canada/hamilton/marineland-property-severance-1.7463678?cmp=rss](https://www.cbc.ca/news/canada/hamilton/marineland-property-severance-1.7463678?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-20T09:11:53+00:00
+
+<img src='https://i.cbc.ca/1.7000131.1697646939!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/ont-marineland-20230714.jpg' alt='A beluga whale surfaces from a tank  to be fed by an employee at Marineland amusement park in Niagara Falls, Ont., Friday, June 9, 2023. ' width='620' height='349' title='A beluga whale surfaces from a tank  to be fed by an employee at Marineland amusement park in Niagara Falls, Ont., Friday, June 9, 2023. '/><p>Marineland is set to sever its sprawling property so it can take out mortgages in order to fund park operations and eventually move its animals, including more than two dozen beluga whales, the tourist attraction said at a public hearing Tuesday.</p>
+
+## B.C. economies 'less exposed' to potential U.S. tariffs: Canadian Chamber of Commerce
+ - [https://www.cbc.ca/news/canada/british-columbia/bc-tariff-threat-vulnerability-1.7463017?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/bc-tariff-threat-vulnerability-1.7463017?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-20T08:00:00+00:00
+
+<img src='https://i.cbc.ca/1.6615845.1665695251!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kamloops.jpg' alt='Kamloops, B.C.' width='620' height='349' title='Five candidates are running to become the next mayor of Kamloops, B.C.'/><p>Kamloops, B.C., ranked 40th out of 41 cities, would be the second-most resilient in the event the U.S. does impose tariffs on Canadian goods, according to the chamber’s calculations.</p>
+
+## 2SLGBTQ+ people face barriers when accessing food services in N.S.: study
+ - [https://www.cbc.ca/news/canada/nova-scotia/trans-youth-barriers-accessing-food-services-in-n-s-1.7463123?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/trans-youth-barriers-accessing-food-services-in-n-s-1.7463123?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-20T05:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7037758.1700763280!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/food-drive.JPG' alt='Food and toiletries are stacked in piles for a charitable food drive.' width='620' height='349' title='A haul of food collected by the Knights of Columbus in Sackville, N.S., to be donated to a local food bank.'/><p>The study, conducted by Mount Saint Vincent University researchers, found that members of the 2SLGBTQ+ community often felt the need to hide their gender or sexuality when accessing food support services.</p>
+
+## 'It's very stressful': With expenses high and wages low, many P.E.I. newcomers are struggling to get by
+ - [https://www.cbc.ca/news/canada/prince-edward-island/pei-newcomers-inflation-struggles-1.7462590?cmp=rss](https://www.cbc.ca/news/canada/prince-edward-island/pei-newcomers-inflation-struggles-1.7462590?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-20T05:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7463073.1740006640!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rupinder-kaur-at-mcdonald-s.jpg' alt='Woman in McDonald&apos;s restaurant uniform and ball cap wipes down a white table. ' width='620' height='349' title='Rupinder Kaur at McDonald&apos;s'/><p>A recent CBC-Pollara survey on newcomers’ experience in Canada highlights the financial difficulty faced by many of them. We hear from some of those struggling on Prince Edward Island.</p>
+
+## Ontario college students and workers call on provincial candidates to fund post-secondary education
+ - [https://www.cbc.ca/news/canada/hamilton/college-funding-1.7462154?cmp=rss](https://www.cbc.ca/news/canada/hamilton/college-funding-1.7462154?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-20T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7463175.1739999115!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/alexandria-catherine-davis.jpeg' alt='A person in a winter coat stands outside holding a sign that looks like a licence plate and says &quot;Una-FORD-able.&quot;' width='620' height='349' title='At a rally calling for greater post-secondary funding, Mohawk College student Alexandria Catherine Davis said the issue is influencing their vote. '/><p>Across Ontario, colleges are cutting programs and jobs. Unions representing workers and students say they want the next provincial government to properly fund the sector.</p>
+
+## Which Ontario party would make your life more affordable? Depends who you are
+ - [https://www.cbc.ca/news/canada/toronto/ontario-election-tax-cuts-rebates-200-cheques-doug-ford-1.7462689?cmp=rss](https://www.cbc.ca/news/canada/toronto/ontario-election-tax-cuts-rebates-200-cheques-doug-ford-1.7462689?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-20T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7461495.1739852468!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/elxn-ont-20250217.jpg' alt='Left to right: Ontario Green Party Leader Mike Schreiner, Ontario Liberal Leader Bonnie Crombie, Ontario PC Leader Doug Ford, and Ontario NDP Leader Marit Stiles pose for a photo' width='620' height='349' title='Ontario Green Party Leader Mike Schreiner, left to right, Ontario Liberal Leader Bonnie Crombie, Ontario PC Leader Doug Ford, and Ontario NDP Leader Marit Stiles pose for a photo before the Ontario Leaders&apos; Debate at the CBC Broadcast Centre in Toronto. '/><p>Ontario's main political parties are competing for the hearts of voters by appealing to their wallets, with a mix of tax cuts and money-back rebates pitched as helping with the cost of living.</p>
+

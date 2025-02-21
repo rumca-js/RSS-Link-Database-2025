@@ -1,0 +1,156 @@
+# Source:Crack Support, URL:https://www.reddit.com/r/CrackSupport/.rss, language:
+
+## Is DODI Jurassic World Evolution 2 safe?
+ - [https://www.reddit.com/r/CrackSupport/comments/1iucgyp/is_dodi_jurassic_world_evolution_2_safe](https://www.reddit.com/r/CrackSupport/comments/1iucgyp/is_dodi_jurassic_world_evolution_2_safe)
+ - RSS feed: $source
+ - date published: 2025-02-20T23:18:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi guys! I recently downloaded Jurassic World Evolution 2 through the bay and installed it. When I click on it, it says some features need to get through the firewall or something like that. I&#39;m unsure if I should let it through. I was wondering if anyone else have downloaded Jurassic World Evolution 2 or DODI in general. Is it safe? Should I let it through my firewall or should I just uninstall it and forget about it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DiscordGhost"> /u/DiscordGhost </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iucgyp/is_dodi_jurassic_world_evolution_2_safe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iucgyp/is_dodi_jurassic_world_evolution_2_safe/">[comments]</a></span>
+
+## Tried to download but did not work
+ - [https://www.reddit.com/r/CrackSupport/comments/1iuagnd/tried_to_download_but_did_not_work](https://www.reddit.com/r/CrackSupport/comments/1iuagnd/tried_to_download_but_did_not_work)
+ - RSS feed: $source
+ - date published: 2025-02-20T21:51:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1iuagnd/tried_to_download_but_did_not_work/"> <img src="https://b.thumbs.redditmedia.com/MqvAJRlYmQuSwpELedZSEkHFnn_7ap6VLNS6nWvPxnc.jpg" alt="Tried to download but did not work" title="Tried to download but did not work" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Im extremely new to this, so sorry if im dumb.<br/> I found a game i wanted on the bay and tried downloaded it. used a bittorrent, downloaded it, but the game itself does not show in the downloaded stuff. How do i go to the next step and actualy get the game</p> <p><a href="https://preview.redd.it/hep9zkhs7dke1.png?width=560&amp;format=png&amp;auto=webp&amp;s=e2d1cfd32063b1ca3d4f7752a86818637e457034">https://preview.redd.it/hep9zkhs7dke1.png?width=560&amp;format=png&amp;auto=webp&amp;s=e2d1cfd32063b1ca3d4f7752a86818637e457034</a></p> <p><a href="https://preview.redd.it/dbrsm0ot7dke1.png?width=490&amp;format=png&amp;auto=webp&amp;s=deca382a4e50
+
+## OnlineFix64.dll
+ - [https://www.reddit.com/r/CrackSupport/comments/1iu6kzq/onlinefix64dll](https://www.reddit.com/r/CrackSupport/comments/1iu6kzq/onlinefix64dll)
+ - RSS feed: $source
+ - date published: 2025-02-20T19:11:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve cracked Phasmophobia from onlinefix com, and I&#39;ve got a warning from my antivirus on this DLL. Here is the virus total link: <a href="https://www.virustotal.com/gui/file/76a8e2d4630a8e3a6914ab35f4ba4c105943c85bcd4ee327b43a976a78fdf8ee">https://www.virustotal.com/gui/file/76a8e2d4630a8e3a6914ab35f4ba4c105943c85bcd4ee327b43a976a78fdf8ee</a>, can you tell me if it&#39;s safe or not? They seem like false positives to me.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Any_Tourist_6375"> /u/Any_Tourist_6375 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iu6kzq/onlinefix64dll/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iu6kzq/onlinefix64dll/">[comments]</a></span>
+
+## People keep saying Steamrip is safe but is it really?
+ - [https://www.reddit.com/r/CrackSupport/comments/1iu4if4/people_keep_saying_steamrip_is_safe_but_is_it](https://www.reddit.com/r/CrackSupport/comments/1iu4if4/people_keep_saying_steamrip_is_safe_but_is_it)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:48:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1iu4if4/people_keep_saying_steamrip_is_safe_but_is_it/"> <img src="https://b.thumbs.redditmedia.com/mctVTY74euiotPbYXxEmhk2IRvQNIvW_STeaDls3Ykc.jpg" alt="People keep saying Steamrip is safe but is it really?" title="People keep saying Steamrip is safe but is it really?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/m1r4pawi0cke1.png?width=1278&amp;format=png&amp;auto=webp&amp;s=46af87f25664c5a5d97d2a610d53417d615a1819">https://preview.redd.it/m1r4pawi0cke1.png?width=1278&amp;format=png&amp;auto=webp&amp;s=46af87f25664c5a5d97d2a610d53417d615a1819</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HYPERION_QUAN"> /u/HYPERION_QUAN </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1iu4if4/people_keep_saying_steamrip_is_safe_but_is_it/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comm
+
+## Brave and Chrome keep crashing after I tried downloading HOI4 from dodi repacks
+ - [https://www.reddit.com/r/CrackSupport/comments/1iu3xp1/brave_and_chrome_keep_crashing_after_i_tried](https://www.reddit.com/r/CrackSupport/comments/1iu3xp1/brave_and_chrome_keep_crashing_after_i_tried)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:25:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>A few days ago i downloaded Hearts of Iron 4 from dodi-repacks (i used the link present in the <a href="/r/Piracy">r/Piracy</a> megathread). Specifically, i used this link: <a href="https://dodi-repacks.site/hearts-of-iron-iv/">https://dodi-repacks.site/hearts-of-iron-iv/</a> </p> <p>after i downloaded the torrent, and followed the instructions given, i noticed that my chrome window had crashed. When I reopened chrome, i saw that all of my extensions have been removed, except for Metamask. (I use ublock origin, dark reader, privacy badger, adblock plus, and a few other extensions.) When i tried downloading the extensions again, chrome couldn&#39;t, stating the following reason : &quot;Installation is not enabled.&quot;</p> <p>I downloaded brave and have been using it, but ran into the same problem today.</p> <p>Before downloading brave, I ran a full system scan in Windows Security, which found 2 harmful files when i then removed. I also ran a offline
+
+## ts4 not loading after anadius dlcs
+ - [https://www.reddit.com/r/CrackSupport/comments/1iu26zb/ts4_not_loading_after_anadius_dlcs](https://www.reddit.com/r/CrackSupport/comments/1iu26zb/ts4_not_loading_after_anadius_dlcs)
+ - RSS feed: $source
+ - date published: 2025-02-20T16:14:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1iu26zb/ts4_not_loading_after_anadius_dlcs/"> <img src="https://preview.redd.it/vvtex5urjbke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca4ca415e5c04271080ca94f3c818cb89bb3951b" alt="ts4 not loading after anadius dlcs" title="ts4 not loading after anadius dlcs" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>i set up anadius dlcs yesterday (i have the original base game) and i played with them for hours with no issues whatsoever. i woke up this morning and tried to open the game and it won&#39;t load past this screen no matter what i do. i know this is a common issue with ts4 anyway but i&#39;ve never had it on this computer before. </p> <p>i&#39;ve tried restarting my computer as well as repairing the game using the updater. i&#39;m not sure if it&#39;s an ea issue or because of the dlcs i downloaded. everything runs perfectly fine until i press &quot;resume game&quot; and i&#39;m just stuck here. <
+
+## where can i download Dead Rising Deluxe Remaster for free?
+ - [https://www.reddit.com/r/CrackSupport/comments/1itztet/where_can_i_download_dead_rising_deluxe_remaster](https://www.reddit.com/r/CrackSupport/comments/1itztet/where_can_i_download_dead_rising_deluxe_remaster)
+ - RSS feed: $source
+ - date published: 2025-02-20T14:32:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>Dead Rising Deluxe Remaster free pc download. what website ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Macaron_7779"> /u/Ok_Macaron_7779 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itztet/where_can_i_download_dead_rising_deluxe_remaster/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itztet/where_can_i_download_dead_rising_deluxe_remaster/">[comments]</a></span>
+
+## Found this in my Forza Horizon 5 from FitGirl Repacks Is it safe? I'm traumatized since last time I got hacked
+ - [https://www.reddit.com/r/CrackSupport/comments/1itz43l/found_this_in_my_forza_horizon_5_from_fitgirl](https://www.reddit.com/r/CrackSupport/comments/1itz43l/found_this_in_my_forza_horizon_5_from_fitgirl)
+ - RSS feed: $source
+ - date published: 2025-02-20T14:00:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1itz43l/found_this_in_my_forza_horizon_5_from_fitgirl/"> <img src="https://a.thumbs.redditmedia.com/CTO41isse36U7BjmkDTBCqaLjWuG_MRxSvqPCRk5Y_8.jpg" alt="Found this in my Forza Horizon 5 from FitGirl Repacks Is it safe? I'm traumatized since last time I got hacked" title="Found this in my Forza Horizon 5 from FitGirl Repacks Is it safe? I'm traumatized since last time I got hacked" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/73uq6svrvake1.png?width=1361&amp;format=png&amp;auto=webp&amp;s=d6fbbdd6ea66adfa59190c53706204e2690b130e">https://preview.redd.it/73uq6svrvake1.png?width=1361&amp;format=png&amp;auto=webp&amp;s=d6fbbdd6ea66adfa59190c53706204e2690b130e</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Threatz453"> /u/Threatz453 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itz43l/found_this_in_my_forz
+
+## Hey
+ - [https://www.reddit.com/r/CrackSupport/comments/1ityddw/hey](https://www.reddit.com/r/CrackSupport/comments/1ityddw/hey)
+ - RSS feed: $source
+ - date published: 2025-02-20T13:23:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello does anyone know where to get the london addon DLC? many thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ilikewiiandvista"> /u/ilikewiiandvista </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ityddw/hey/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ityddw/hey/">[comments]</a></span>
+
+## Help Needed: Removing SecuROM 4.5 from an Executable
+ - [https://www.reddit.com/r/CrackSupport/comments/1ituxo1/help_needed_removing_securom_45_from_an_executable](https://www.reddit.com/r/CrackSupport/comments/1ituxo1/help_needed_removing_securom_45_from_an_executable)
+ - RSS feed: $source
+ - date published: 2025-02-20T09:49:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I’m looking for information on SecuROM version 4.5. I’m trying to remove it from an executable, but most of the available documentation is outdated or pertains to newer versions. If anyone has access to older resources or insights on this version, I would appreciate the assistance.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Exact_Ad_9927"> /u/Exact_Ad_9927 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ituxo1/help_needed_removing_securom_45_from_an_executable/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ituxo1/help_needed_removing_securom_45_from_an_executable/">[comments]</a></span>
+
+## Need help with dead island 2
+ - [https://www.reddit.com/r/CrackSupport/comments/1ituw8d/need_help_with_dead_island_2](https://www.reddit.com/r/CrackSupport/comments/1ituw8d/need_help_with_dead_island_2)
+ - RSS feed: $source
+ - date published: 2025-02-20T09:46:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>so, i downloaded dead island 2 and played the first few levels and then i got into a glitch where the zombies aren&#39;t attacking me at all. ow to fix!!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Holiday-Discount5453"> /u/Holiday-Discount5453 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ituw8d/need_help_with_dead_island_2/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ituw8d/need_help_with_dead_island_2/">[comments]</a></span>
+
+## Need help with dead island 2 from dodi !
+ - [https://www.reddit.com/r/CrackSupport/comments/1ituufz/need_help_with_dead_island_2_from_dodi](https://www.reddit.com/r/CrackSupport/comments/1ituufz/need_help_with_dead_island_2_from_dodi)
+ - RSS feed: $source
+ - date published: 2025-02-20T09:43:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>so, i downloaded dead island 2 from dodi and played the first few levels and then i got into a glitch where the zombies arent attacking me at all. ow to fix!!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Holiday-Discount5453"> /u/Holiday-Discount5453 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ituufz/need_help_with_dead_island_2_from_dodi/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ituufz/need_help_with_dead_island_2_from_dodi/">[comments]</a></span>
+
+## only dodi has resident evil 4 remake and i am downloading it from qbittorrent. Is the game working if u have played it and what should i do to remain safe
+ - [https://www.reddit.com/r/CrackSupport/comments/1itufj4/only_dodi_has_resident_evil_4_remake_and_i_am](https://www.reddit.com/r/CrackSupport/comments/1itufj4/only_dodi_has_resident_evil_4_remake_and_i_am)
+ - RSS feed: $source
+ - date published: 2025-02-20T09:13:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>pls help i want to play re 4 remake i only have windows defender</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Odd_Possibility_4203"> /u/Odd_Possibility_4203 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itufj4/only_dodi_has_resident_evil_4_remake_and_i_am/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itufj4/only_dodi_has_resident_evil_4_remake_and_i_am/">[comments]</a></span>
+
+## skyrim creation kit
+ - [https://www.reddit.com/r/CrackSupport/comments/1ittcub/skyrim_creation_kit](https://www.reddit.com/r/CrackSupport/comments/1ittcub/skyrim_creation_kit)
+ - RSS feed: $source
+ - date published: 2025-02-20T07:55:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>how to get skyrim se downloaded from fitgirl to work with creation kit. i get this error Internal error0×0D: Interface not found: SteamClient020!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Haruse23"> /u/Haruse23 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ittcub/skyrim_creation_kit/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1ittcub/skyrim_creation_kit/">[comments]</a></span>
+
+## Pavlov v29 not launching
+ - [https://www.reddit.com/r/CrackSupport/comments/1itt41x/pavlov_v29_not_launching](https://www.reddit.com/r/CrackSupport/comments/1itt41x/pavlov_v29_not_launching)
+ - RSS feed: $source
+ - date published: 2025-02-20T07:38:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1itt41x/pavlov_v29_not_launching/"> <img src="https://preview.redd.it/a08phbhnz8ke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6501948cad90d0a587175624b5c6fecfadc14c25" alt="Pavlov v29 not launching" title="Pavlov v29 not launching" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Found a copy of Pavlov vr for pc and it won’t get past the screen in the photo</p> <p>I’ve rolled back driver versions to the closest release date for Pavlov VR v29 and still get stuck… ( paid version runs with no issues)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Daz8ig"> /u/Daz8ig </a> <br/> <span><a href="https://i.redd.it/a08phbhnz8ke1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itt41x/pavlov_v29_not_launching/">[comments]</a></span> </td></tr></table>
+
+## How To Change Language In Game Files pls help lol
+ - [https://www.reddit.com/r/CrackSupport/comments/1itsqdr/how_to_change_language_in_game_files_pls_help_lol](https://www.reddit.com/r/CrackSupport/comments/1itsqdr/how_to_change_language_in_game_files_pls_help_lol)
+ - RSS feed: $source
+ - date published: 2025-02-20T07:12:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey just download Legend Of Heros Kai and I’m wondering how do I switch the language cuz I can’t do it in game and I cant find the files</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CutFit6108"> /u/CutFit6108 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itsqdr/how_to_change_language_in_game_files_pls_help_lol/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itsqdr/how_to_change_language_in_game_files_pls_help_lol/">[comments]</a></span>
+
+## Anyone knows where to get GTA: Episodes from Liberty City only?
+ - [https://www.reddit.com/r/CrackSupport/comments/1itsint/anyone_knows_where_to_get_gta_episodes_from](https://www.reddit.com/r/CrackSupport/comments/1itsint/anyone_knows_where_to_get_gta_episodes_from)
+ - RSS feed: $source
+ - date published: 2025-02-20T06:58:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I already have GTA IV from Mr DJ and GTA: EFLC from NoSteam but sometimes the NoSteam release does not work/hard to launch.</p> <p>Yes, I am aware that NoSteam is not a reliable source these days. I just downloaded it since it&#39;s an old release and they were safe back then.</p> <p>I am also aware that I can download The Complete Edition on easy sites like FitGirl, but I want the separate games for a better experience.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/raphael_0903"> /u/raphael_0903 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itsint/anyone_knows_where_to_get_gta_episodes_from/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itsint/anyone_knows_where_to_get_gta_episodes_from/">[comments]</a></span>
+
+## GTA V FitGirl Repack Setup File Missing!
+ - [https://www.reddit.com/r/CrackSupport/comments/1itqzi2/gta_v_fitgirl_repack_setup_file_missing](https://www.reddit.com/r/CrackSupport/comments/1itqzi2/gta_v_fitgirl_repack_setup_file_missing)
+ - RSS feed: $source
+ - date published: 2025-02-20T05:20:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/CrackSupport/comments/1itqzi2/gta_v_fitgirl_repack_setup_file_missing/"> <img src="https://a.thumbs.redditmedia.com/vmNK2YpEO3mZNMYcg1xNKLgPd1FWRuWkwPCLzw40oE4.jpg" alt="GTA V FitGirl Repack Setup File Missing!" title="GTA V FitGirl Repack Setup File Missing!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>[HELP]<br/> I don&#39;t have the Rar file to extract these files again. My Antivirus has already eaten the setup file. Can anyone help me by giving me the Setup file or is there any fix?</p> <p><a href="https://preview.redd.it/wwckl7o9b8ke1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=550f9149a5481d721ae933503fac6d1ff9f12098">https://preview.redd.it/wwckl7o9b8ke1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=550f9149a5481d721ae933503fac6d1ff9f12098</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AppropriateCamel2678"> /u/AppropriateCamel2678 </a> <br/> <span><a href="https://
+
+## Wolfenstein Young blood won't load up
+ - [https://www.reddit.com/r/CrackSupport/comments/1itpdtj/wolfenstein_young_blood_wont_load_up](https://www.reddit.com/r/CrackSupport/comments/1itpdtj/wolfenstein_young_blood_wont_load_up)
+ - RSS feed: $source
+ - date published: 2025-02-20T03:50:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>i downloaded the game from fitgirl and after i did setup the game without having any anti-virus on it doesn&#39;t launch </p> <p>i see the game on the task manger for like less than 2 seconds but it goes away</p> <p>i tried installing the game multiple times but nothing happens</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WinkyWhisky"> /u/WinkyWhisky </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itpdtj/wolfenstein_young_blood_wont_load_up/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itpdtj/wolfenstein_young_blood_wont_load_up/">[comments]</a></span>
+
+## Raft lan emu goldberg
+ - [https://www.reddit.com/r/CrackSupport/comments/1itof20/raft_lan_emu_goldberg](https://www.reddit.com/r/CrackSupport/comments/1itof20/raft_lan_emu_goldberg)
+ - RSS feed: $source
+ - date published: 2025-02-20T02:59:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I bought raft and im trying to the goldberg working (so we can play in it the computer lab lol), but I&#39;ve done this with like lethal company and other games before but this one reallllllly wants to launch steam and I can&#39;t fix it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ODog750795097"> /u/ODog750795097 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itof20/raft_lan_emu_goldberg/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itof20/raft_lan_emu_goldberg/">[comments]</a></span>
+
+## how do i compress max payne 3
+ - [https://www.reddit.com/r/CrackSupport/comments/1itndhc/how_do_i_compress_max_payne_3](https://www.reddit.com/r/CrackSupport/comments/1itndhc/how_do_i_compress_max_payne_3)
+ - RSS feed: $source
+ - date published: 2025-02-20T02:06:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>fitgirl repacks compressed max payne 3 how do i do it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FamiliarPerformer781"> /u/FamiliarPerformer781 </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itndhc/how_do_i_compress_max_payne_3/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itndhc/how_do_i_compress_max_payne_3/">[comments]</a></span>
+
+## Need help running the OG Resident evil 4
+ - [https://www.reddit.com/r/CrackSupport/comments/1itkwj8/need_help_running_the_og_resident_evil_4](https://www.reddit.com/r/CrackSupport/comments/1itkwj8/need_help_running_the_og_resident_evil_4)
+ - RSS feed: $source
+ - date published: 2025-02-20T00:09:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>I saw a post on this sub a couple years ago regarding how to fix running the game but none of the stuff worked. I downloaded the emulator that was recommended and it did take away the “steam must be running to play this game” warning but it never ran the game. I bought the game off CDkeys and it fails to run no matter what I do even though my pc is good enough to run it. Can I get some help?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Glasgow-Ned"> /u/Glasgow-Ned </a> <br/> <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itkwj8/need_help_running_the_og_resident_evil_4/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/CrackSupport/comments/1itkwj8/need_help_running_the_og_resident_evil_4/">[comments]</a></span>
+

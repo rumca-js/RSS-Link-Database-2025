@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-20T15:07:08+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nRanges++: Are Output Range Adaptors the Next Iteration of C++ Ranges? - Daisy Hollman - CppCon 2024\n---\n\nThis isn't a talk about why you shouldn't use ranges in your C++20 codebase\u2014unless you work on one of the largest codebases in the world, you probably should. This is a talk about the differences between most programming tasks and software engineering at truly gargantuan scales\u2014and about how it isn't always practical to use the same components of a language in such different contexts.\n\nRanges are perhaps the largest and most ambitious single feature ever added to the C++ standard library since its inception. They have modernized C++ to match the way the current generation of programmers thinks about iteration and loops, largely owing to the influence of dynamically typed languages like Python and Javascript. Every programming language feature comes with a set of trade-offs, though, and it's unreasonable to expect that those trade-offs will result in the sa",
+        "id": 2157392,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=NAwn5WqNXJw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NAwn5WqNXJw/hqdefault.jpg",
+        "title": "Ranges++: Are Output Range Adaptors the Next Iteration of C++ Ranges? - Daisy Hollman - CppCon 2024",
+        "vote": 0
+    }
+]

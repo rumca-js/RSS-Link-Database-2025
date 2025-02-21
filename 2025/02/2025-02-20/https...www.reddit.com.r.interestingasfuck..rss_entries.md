@@ -1,0 +1,212 @@
+# Source:Interesting As Fuck, URL:https://www.reddit.com/r/interestingasfuck/.rss, language:
+
+## Training for the Beer Olympics
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iuc4z5/training_for_the_beer_olympics](https://www.reddit.com/r/interestingasfuck/comments/1iuc4z5/training_for_the_beer_olympics)
+ - RSS feed: $source
+ - date published: 2025-02-20T23:03:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iuc4z5/training_for_the_beer_olympics/"> <img src="https://external-preview.redd.it/dzlrcXRianBrZGtlMd94tWe6vuxJebEQA_fbX48SEJP70a7i1bgzmvYM035b.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ba39d53d8bd9c903ba1c608948e6df73ab2873e0" alt="Training for the Beer Olympics" title="Training for the Beer Olympics" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Humble-Lawfulness-12"> /u/Humble-Lawfulness-12 </a> <br/> <span><a href="https://v.redd.it/9irrtpupkdke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iuc4z5/training_for_the_beer_olympics/">[comments]</a></span> </td></tr></table>
+
+## Bro caught a Fish Tank
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iubtsx/bro_caught_a_fish_tank](https://www.reddit.com/r/interestingasfuck/comments/1iubtsx/bro_caught_a_fish_tank)
+ - RSS feed: $source
+ - date published: 2025-02-20T22:49:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iubtsx/bro_caught_a_fish_tank/"> <img src="https://external-preview.redd.it/OG92ZWNtOTlpZGtlMSOZyOTwiI7qc8DowQb60GAxO0rqG8e22fWdXcdX5NXi.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2056faeca8d639bb3819681b3a46b114d0b72961" alt="Bro caught a Fish Tank" title="Bro caught a Fish Tank" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BeginningEscape8058"> /u/BeginningEscape8058 </a> <br/> <span><a href="https://v.redd.it/j1t817g9idke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iubtsx/bro_caught_a_fish_tank/">[comments]</a></span> </td></tr></table>
+
+## Sugar Ray Robinson hesitantly tried to avoid an upcoming fight with Jimmy Doyle due to a dream he had. He was reassured to continue the fight because it was 'just a dream.'
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iuabeq/sugar_ray_robinson_hesitantly_tried_to_avoid_an](https://www.reddit.com/r/interestingasfuck/comments/1iuabeq/sugar_ray_robinson_hesitantly_tried_to_avoid_an)
+ - RSS feed: $source
+ - date published: 2025-02-20T21:45:23+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/AdolfStiflr"> /u/AdolfStiflr </a> <br/> <span><a href="https://v.redd.it/dppzuw7s6dke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iuabeq/sugar_ray_robinson_hesitantly_tried_to_avoid_an/">[comments]</a></span>
+
+## The road along the maternity ward in Qatar.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iu9hqs/the_road_along_the_maternity_ward_in_qatar](https://www.reddit.com/r/interestingasfuck/comments/1iu9hqs/the_road_along_the_maternity_ward_in_qatar)
+ - RSS feed: $source
+ - date published: 2025-02-20T21:11:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iu9hqs/the_road_along_the_maternity_ward_in_qatar/"> <img src="https://external-preview.redd.it/ZDI5eGt4c2IwZGtlMblQG92AU2xHBzMP02khDf0PXqvRmshoayULfB1EVAtS.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=66d9dd5d28f74e825be8d3e877ecc821b1404fd3" alt="The road along the maternity ward in Qatar." title="The road along the maternity ward in Qatar." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Scientiaetnatura065"> /u/Scientiaetnatura065 </a> <br/> <span><a href="https://v.redd.it/unh5966c0dke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iu9hqs/the_road_along_the_maternity_ward_in_qatar/">[comments]</a></span> </td></tr></table>
+
+## Saroo Brierley got lost at the age of five, ending up in Calcutta, 1,600 km away from home. He was adopted in Australia, but after 25 years he found his biological mother thanks to Google Earth. He told his story in the book The Long Road Home, inspiring the film Lion.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iu95l7/saroo_brierley_got_lost_at_the_age_of_five_ending](https://www.reddit.com/r/interestingasfuck/comments/1iu95l7/saroo_brierley_got_lost_at_the_age_of_five_ending)
+ - RSS feed: $source
+ - date published: 2025-02-20T20:57:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iu95l7/saroo_brierley_got_lost_at_the_age_of_five_ending/"> <img src="https://preview.redd.it/hb6s5qs6ycke1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=741ab3a71bfc1b47c21fe6a56cbcedbe94354a8f" alt="Saroo Brierley got lost at the age of five, ending up in Calcutta, 1,600 km away from home. He was adopted in Australia, but after 25 years he found his biological mother thanks to Google Earth. He told his story in the book The Long Road Home, inspiring the film Lion." title="Saroo Brierley got lost at the age of five, ending up in Calcutta, 1,600 km away from home. He was adopted in Australia, but after 25 years he found his biological mother thanks to Google Earth. He told his story in the book The Long Road Home, inspiring the film Lion." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Puzzleheaded_Web5245"> /u/Puzzleheaded_Web5245 </a> <br/> <span><a href="https://i.re
+
+## This game show in Japan
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iu8zds/this_game_show_in_japan](https://www.reddit.com/r/interestingasfuck/comments/1iu8zds/this_game_show_in_japan)
+ - RSS feed: $source
+ - date published: 2025-02-20T20:49:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iu8zds/this_game_show_in_japan/"> <img src="https://external-preview.redd.it/dW94NGhxZGV3Y2tlMR-UgQHPLkk7Vg0UhFAz9nzgPt7pyLgWGuMDd96Ns0mS.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=88bd20fec54c959c80d5579197ffddd391a0b9f6" alt="This game show in Japan" title="This game show in Japan" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/syzygee_alt"> /u/syzygee_alt </a> <br/> <span><a href="https://v.redd.it/72i5yfbewcke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iu8zds/this_game_show_in_japan/">[comments]</a></span> </td></tr></table>
+
+## Photo taken by the Cassini spacecraft as it drifted near Saturn. That tiny blue dot is Earth.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iu66bj/photo_taken_by_the_cassini_spacecraft_as_it](https://www.reddit.com/r/interestingasfuck/comments/1iu66bj/photo_taken_by_the_cassini_spacecraft_as_it)
+ - RSS feed: $source
+ - date published: 2025-02-20T18:55:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iu66bj/photo_taken_by_the_cassini_spacecraft_as_it/"> <img src="https://preview.redd.it/5flpipdgccke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fbbcd5b515d9ae65f9295bd10c57ed4f6f9ca39b" alt="Photo taken by the Cassini spacecraft as it drifted near Saturn. That tiny blue dot is Earth." title="Photo taken by the Cassini spacecraft as it drifted near Saturn. That tiny blue dot is Earth." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/exmosss"> /u/exmosss </a> <br/> <span><a href="https://i.redd.it/5flpipdgccke1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iu66bj/photo_taken_by_the_cassini_spacecraft_as_it/">[comments]</a></span> </td></tr></table>
+
+## Man successfully deciphers text on the screen that is covered up
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iu5i91/man_successfully_deciphers_text_on_the_screen](https://www.reddit.com/r/interestingasfuck/comments/1iu5i91/man_successfully_deciphers_text_on_the_screen)
+ - RSS feed: $source
+ - date published: 2025-02-20T18:28:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iu5i91/man_successfully_deciphers_text_on_the_screen/"> <img src="https://external-preview.redd.it/Zno1eGkwamc3Y2tlMfU0ofqu44-HsTQRhqvdPm69muQ9vgR67MRUqT3xmfP7.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=5c3ad9b86f415e4ce5d17e218d884f47be2cc51c" alt="Man successfully deciphers text on the screen that is covered up" title="Man successfully deciphers text on the screen that is covered up" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/syzygee_alt"> /u/syzygee_alt </a> <br/> <span><a href="https://v.redd.it/7wzzvzig7cke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iu5i91/man_successfully_deciphers_text_on_the_screen/">[comments]</a></span> </td></tr></table>
+
+## Mount Mayon - most perfect cone shape volcano [OC]
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iu44u5/mount_mayon_most_perfect_cone_shape_volcano_oc](https://www.reddit.com/r/interestingasfuck/comments/1iu44u5/mount_mayon_most_perfect_cone_shape_volcano_oc)
+ - RSS feed: $source
+ - date published: 2025-02-20T17:33:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iu44u5/mount_mayon_most_perfect_cone_shape_volcano_oc/"> <img src="https://preview.redd.it/0u3zl8crxbke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d4effaa5ef0a279073ac2092ef7c570ae567c960" alt="Mount Mayon - most perfect cone shape volcano [OC]" title="Mount Mayon - most perfect cone shape volcano [OC]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ic318"> /u/ic318 </a> <br/> <span><a href="https://i.redd.it/0u3zl8crxbke1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iu44u5/mount_mayon_most_perfect_cone_shape_volcano_oc/">[comments]</a></span> </td></tr></table>
+
+## The world’s most successful pirate in history was a lady named Ching Shih. She was a prostitute in China until the Commander of the Red Flag Fleet bought and married her. But her husband considered her his equal, and she became an active pirate commander in the fleet.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iu38tg/the_worlds_most_successful_pirate_in_history_was](https://www.reddit.com/r/interestingasfuck/comments/1iu38tg/the_worlds_most_successful_pirate_in_history_was)
+ - RSS feed: $source
+ - date published: 2025-02-20T16:58:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iu38tg/the_worlds_most_successful_pirate_in_history_was/"> <img src="https://preview.redd.it/jruw07xhrbke1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aad5d5dc2a781840d210363dcee63f5db1c32314" alt="The world’s most successful pirate in history was a lady named Ching Shih. She was a prostitute in China until the Commander of the Red Flag Fleet bought and married her. But her husband considered her his equal, and she became an active pirate commander in the fleet." title="The world’s most successful pirate in history was a lady named Ching Shih. She was a prostitute in China until the Commander of the Red Flag Fleet bought and married her. But her husband considered her his equal, and she became an active pirate commander in the fleet." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Supreme_Leader6969"> /u/Supreme_Leader6969 </a> <br/> <span><a href="https://i.redd.it/jr
+
+## Frane Selak: The luckiest unlucky man. 1962: Train crash; 17 dead, he survived. 1963: Fell from a plane; 19 dead, landed in hay. 1966: Bus in river; 4 dead, he escaped. 1970 & 1973: Car fires; survived both. 1995: Hit by bus; minor injuries. 1996: Car off cliff; jumped out, survived. 2003 : won 1m$
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iu31yj/frane_selak_the_luckiest_unlucky_man_1962_train](https://www.reddit.com/r/interestingasfuck/comments/1iu31yj/frane_selak_the_luckiest_unlucky_man_1962_train)
+ - RSS feed: $source
+ - date published: 2025-02-20T16:50:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iu31yj/frane_selak_the_luckiest_unlucky_man_1962_train/"> <img src="https://preview.redd.it/gb1x2fs4qbke1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=31faf58ab0c894a80d73e6d0a4b72d1beec9b14e" alt="Frane Selak: The luckiest unlucky man. 1962: Train crash; 17 dead, he survived. 1963: Fell from a plane; 19 dead, landed in hay. 1966: Bus in river; 4 dead, he escaped. 1970 &amp; 1973: Car fires; survived both. 1995: Hit by bus; minor injuries. 1996: Car off cliff; jumped out, survived. 2003 : won 1m$" title="Frane Selak: The luckiest unlucky man. 1962: Train crash; 17 dead, he survived. 1963: Fell from a plane; 19 dead, landed in hay. 1966: Bus in river; 4 dead, he escaped. 1970 &amp; 1973: Car fires; survived both. 1995: Hit by bus; minor injuries. 1996: Car off cliff; jumped out, survived. 2003 : won 1m$" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lotpro"> /u/lotpro 
+
+## Apple's third co-founder, Ronald Wayne, sold his 10% stake in Apple to Steve Jobs and Steve Wozniak for just $800 in 1976 because he did not believe Apple would be successful. If Wayne had not sold his 10% stake, his shares would be worth approximately $350 billion today.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iu2op5/apples_third_cofounder_ronald_wayne_sold_his_10](https://www.reddit.com/r/interestingasfuck/comments/1iu2op5/apples_third_cofounder_ronald_wayne_sold_his_10)
+ - RSS feed: $source
+ - date published: 2025-02-20T16:35:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iu2op5/apples_third_cofounder_ronald_wayne_sold_his_10/"> <img src="https://preview.redd.it/xs1rtqmfnbke1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=85c46d5eb319f0256cc77f869b484b4d78044fdc" alt="Apple's third co-founder, Ronald Wayne, sold his 10% stake in Apple to Steve Jobs and Steve Wozniak for just $800 in 1976 because he did not believe Apple would be successful. If Wayne had not sold his 10% stake, his shares would be worth approximately $350 billion today." title="Apple's third co-founder, Ronald Wayne, sold his 10% stake in Apple to Steve Jobs and Steve Wozniak for just $800 in 1976 because he did not believe Apple would be successful. If Wayne had not sold his 10% stake, his shares would be worth approximately $350 billion today." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ocerdiwn"> /u/ocerdiwn </a> <br/> <span><a href="https://i.redd.it/xs1rtqmfnbke1.
+
+## A short film made in 1943 from the US National Archives titled "Don't Be a Sucker"
+ - [https://www.reddit.com/r/interestingasfuck/comments/1iu1d65/a_short_film_made_in_1943_from_the_us_national](https://www.reddit.com/r/interestingasfuck/comments/1iu1d65/a_short_film_made_in_1943_from_the_us_national)
+ - RSS feed: $source
+ - date published: 2025-02-20T15:40:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1iu1d65/a_short_film_made_in_1943_from_the_us_national/"> <img src="https://external-preview.redd.it/bnN0ZmprY2FkYmtlMVhL42a1NAvPrTHOGgGtsaQ0fKcPJwezPyqzgjhaHHiy.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bf23527ade85936519ef9633a519e3c4fa5a67a9" alt="A short film made in 1943 from the US National Archives titled &quot;Don't Be a Sucker&quot;" title="A short film made in 1943 from the US National Archives titled &quot;Don't Be a Sucker&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/De_Rabbid"> /u/De_Rabbid </a> <br/> <span><a href="https://v.redd.it/5gxsqdcadbke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1iu1d65/a_short_film_made_in_1943_from_the_us_national/">[comments]</a></span> </td></tr></table>
+
+## NASA’s Mars Exploration Rover Spirit captured this stunning Sunset as the Sun sank below the rim of Gusev crater on Mars on May 19, 2005
+ - [https://www.reddit.com/r/interestingasfuck/comments/1itzhmd/nasas_mars_exploration_rover_spirit_captured_this](https://www.reddit.com/r/interestingasfuck/comments/1itzhmd/nasas_mars_exploration_rover_spirit_captured_this)
+ - RSS feed: $source
+ - date published: 2025-02-20T14:17:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1itzhmd/nasas_mars_exploration_rover_spirit_captured_this/"> <img src="https://preview.redd.it/eksy1vpyyake1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=656c2c0f0a08215cee57635a1fb063a1e1c25c58" alt="NASA’s Mars Exploration Rover Spirit captured this stunning Sunset as the Sun sank below the rim of Gusev crater on Mars on May 19, 2005" title="NASA’s Mars Exploration Rover Spirit captured this stunning Sunset as the Sun sank below the rim of Gusev crater on Mars on May 19, 2005" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gianleafs"> /u/Gianleafs </a> <br/> <span><a href="https://i.redd.it/eksy1vpyyake1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1itzhmd/nasas_mars_exploration_rover_spirit_captured_this/">[comments]</a></span> </td></tr></table>
+
+## This ancient colossal marine reptile that lived between 250 and 90 million years ago has been uncovered in Rutland, England. Measuring 10 meters (33 feet) long, this Ichthyosaur is the largest specimen of its kind ever found in the U.K. These giant predators once dominated prehistoric seas.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1ityxat/this_ancient_colossal_marine_reptile_that_lived](https://www.reddit.com/r/interestingasfuck/comments/1ityxat/this_ancient_colossal_marine_reptile_that_lived)
+ - RSS feed: $source
+ - date published: 2025-02-20T13:51:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1ityxat/this_ancient_colossal_marine_reptile_that_lived/"> <img src="https://preview.redd.it/2iq5zr17uake1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d80f095c38fe8cb63c9f5e792c7421ff4bdb1d05" alt="This ancient colossal marine reptile that lived between 250 and 90 million years ago has been uncovered in Rutland, England. Measuring 10 meters (33 feet) long, this Ichthyosaur is the largest specimen of its kind ever found in the U.K. These giant predators once dominated prehistoric seas." title="This ancient colossal marine reptile that lived between 250 and 90 million years ago has been uncovered in Rutland, England. Measuring 10 meters (33 feet) long, this Ichthyosaur is the largest specimen of its kind ever found in the U.K. These giant predators once dominated prehistoric seas." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theanti_influencer75"> /u/theanti_influence
+
+## How colors change as you go deeper underwater
+ - [https://www.reddit.com/r/interestingasfuck/comments/1itwmes/how_colors_change_as_you_go_deeper_underwater](https://www.reddit.com/r/interestingasfuck/comments/1itwmes/how_colors_change_as_you_go_deeper_underwater)
+ - RSS feed: $source
+ - date published: 2025-02-20T11:45:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1itwmes/how_colors_change_as_you_go_deeper_underwater/"> <img src="https://external-preview.redd.it/cHVqNXB4MnA3YWtlMfpA-yZ187E5isTzslggjskscLOsElN2FMscmrIU8B_r.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2852c5b0137d255cfc9f52578dbd33a8b2a9fee8" alt="How colors change as you go deeper underwater" title="How colors change as you go deeper underwater" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ultimate_Kurix"> /u/Ultimate_Kurix </a> <br/> <span><a href="https://v.redd.it/ktgv5j9p7ake1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1itwmes/how_colors_change_as_you_go_deeper_underwater/">[comments]</a></span> </td></tr></table>
+
+## This breathtaking view from a New York City apartment.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1itwfax/this_breathtaking_view_from_a_new_york_city](https://www.reddit.com/r/interestingasfuck/comments/1itwfax/this_breathtaking_view_from_a_new_york_city)
+ - RSS feed: $source
+ - date published: 2025-02-20T11:32:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1itwfax/this_breathtaking_view_from_a_new_york_city/"> <img src="https://external-preview.redd.it/Zmx0dGs0eWI1YWtlMf-plHJoWK3dqIpIlIufWjKwstjJ0yr7G0GE_Nsw0Uwd.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dcd093016ba01b0dbdf868a0d536aa627180b0cd" alt="This breathtaking view from a New York City apartment." title="This breathtaking view from a New York City apartment." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Vegetable-Mousse4405"> /u/Vegetable-Mousse4405 </a> <br/> <span><a href="https://v.redd.it/in77u28c5ake1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1itwfax/this_breathtaking_view_from_a_new_york_city/">[comments]</a></span> </td></tr></table>
+
+## Woman sues fertility clinic for implanting wrong embryo — forcing her to hand over baby five months after giving birth
+ - [https://www.reddit.com/r/interestingasfuck/comments/1itw3yw/woman_sues_fertility_clinic_for_implanting_wrong](https://www.reddit.com/r/interestingasfuck/comments/1itw3yw/woman_sues_fertility_clinic_for_implanting_wrong)
+ - RSS feed: $source
+ - date published: 2025-02-20T11:11:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1itw3yw/woman_sues_fertility_clinic_for_implanting_wrong/"> <img src="https://external-preview.redd.it/J53miW3B2YhtKSzS7QTvgQN4MsHPF8nxyjYwiV0Vgz4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71b6c6a6ab16a842e657393c662ff1d9c11995db" alt="Woman sues fertility clinic for implanting wrong embryo — forcing her to hand over baby five months after giving birth" title="Woman sues fertility clinic for implanting wrong embryo — forcing her to hand over baby five months after giving birth" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Deebag"> /u/Deebag </a> <br/> <span><a href="https://www.independent.co.uk/news/world/americas/georgia-ivf-fertility-clinic-mistake-b2700996.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1itw3yw/woman_sues_fertility_clinic_for_implanting_wrong/">[comments]</a></span> </td></tr></table>
+
+## Robot bug (on the right) meets a real bug (on the left) and shows how powerfull it really is compared to its robot counterpart.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1itw22z/robot_bug_on_the_right_meets_a_real_bug_on_the](https://www.reddit.com/r/interestingasfuck/comments/1itw22z/robot_bug_on_the_right_meets_a_real_bug_on_the)
+ - RSS feed: $source
+ - date published: 2025-02-20T11:07:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1itw22z/robot_bug_on_the_right_meets_a_real_bug_on_the/"> <img src="https://external-preview.redd.it/dGc1dmY1aHowYWtlMSCGniGLWbzXjvQhYyvbsemuOVufGFZyrvAeN-62xAgk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2900fec96a18b58057db80a8ed5b1afe89de414" alt="Robot bug (on the right) meets a real bug (on the left) and shows how powerfull it really is compared to its robot counterpart." title="Robot bug (on the right) meets a real bug (on the left) and shows how powerfull it really is compared to its robot counterpart." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Far_Cap8977"> /u/Far_Cap8977 </a> <br/> <span><a href="https://v.redd.it/vq3al4oz0ake1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1itw22z/robot_bug_on_the_right_meets_a_real_bug_on_the/">[comments]</a></span> </td></tr></table>
+
+## In the 1960s, the US performed nuclear tests in outer space. One test, known as Starfish Prime, generated bright auroras over the Pacific Ocean.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1itvjue/in_the_1960s_the_us_performed_nuclear_tests_in](https://www.reddit.com/r/interestingasfuck/comments/1itvjue/in_the_1960s_the_us_performed_nuclear_tests_in)
+ - RSS feed: $source
+ - date published: 2025-02-20T10:32:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1itvjue/in_the_1960s_the_us_performed_nuclear_tests_in/"> <img src="https://preview.redd.it/17i9ekiqu9ke1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=092b9e9382ab40a1800946be313f76c64aa72890" alt="In the 1960s, the US performed nuclear tests in outer space. One test, known as Starfish Prime, generated bright auroras over the Pacific Ocean." title="In the 1960s, the US performed nuclear tests in outer space. One test, known as Starfish Prime, generated bright auroras over the Pacific Ocean." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pengweather"> /u/pengweather </a> <br/> <span><a href="https://i.redd.it/17i9ekiqu9ke1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1itvjue/in_the_1960s_the_us_performed_nuclear_tests_in/">[comments]</a></span> </td></tr></table>
+
+## Born in 2014, Rexie continues to go viral for his story, as his owners have been open about his journey as a disabled pet. "Rexie was diagnosed with a chronic kidney disease.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1its8pz/born_in_2014_rexie_continues_to_go_viral_for_his](https://www.reddit.com/r/interestingasfuck/comments/1its8pz/born_in_2014_rexie_continues_to_go_viral_for_his)
+ - RSS feed: $source
+ - date published: 2025-02-20T06:39:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1its8pz/born_in_2014_rexie_continues_to_go_viral_for_his/"> <img src="https://b.thumbs.redditmedia.com/SYQVkPhNKK8pvMUMdgwb9n3w51r2w5K9o8NtR2zdeEE.jpg" alt="Born in 2014, Rexie continues to go viral for his story, as his owners have been open about his journey as a disabled pet. &quot;Rexie was diagnosed with a chronic kidney disease." title="Born in 2014, Rexie continues to go viral for his story, as his owners have been open about his journey as a disabled pet. &quot;Rexie was diagnosed with a chronic kidney disease." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Supreme_Leader6969"> /u/Supreme_Leader6969 </a> <br/> <span><a href="https://www.reddit.com/gallery/1its8pz">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1its8pz/born_in_2014_rexie_continues_to_go_viral_for_his/">[comments]</a></span> </td></tr></table>
+
+## In 1986, Cameroon’s Lake Nyos suddenly released a massive cloud of CO2, silently suffocating over 1,700 people and thousands of animals in nearby villages. The cause was a rare limnic eruption, where built-up gas in the deep lake exploded to the surface.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1itq0zo/in_1986_cameroons_lake_nyos_suddenly_released_a](https://www.reddit.com/r/interestingasfuck/comments/1itq0zo/in_1986_cameroons_lake_nyos_suddenly_released_a)
+ - RSS feed: $source
+ - date published: 2025-02-20T04:25:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1itq0zo/in_1986_cameroons_lake_nyos_suddenly_released_a/"> <img src="https://preview.redd.it/indr7oia18ke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6397fae5f8db99d755464c8b4cd5043181cde0c9" alt="In 1986, Cameroon’s Lake Nyos suddenly released a massive cloud of CO2, silently suffocating over 1,700 people and thousands of animals in nearby villages. The cause was a rare limnic eruption, where built-up gas in the deep lake exploded to the surface." title="In 1986, Cameroon’s Lake Nyos suddenly released a massive cloud of CO2, silently suffocating over 1,700 people and thousands of animals in nearby villages. The cause was a rare limnic eruption, where built-up gas in the deep lake exploded to the surface." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Weary-End-7948"> /u/Weary-End-7948 </a> <br/> <span><a href="https://i.redd.it/indr7oia18ke1.jpeg">[link]</a></span> 
+
+## The city of Warsaw, Poland, uses eight mussels with sensors hot-glued to their shells to monitor and automatically shut off the city water supply if the shellfish so chooses.
+ - [https://www.reddit.com/r/interestingasfuck/comments/1itpm11/the_city_of_warsaw_poland_uses_eight_mussels_with](https://www.reddit.com/r/interestingasfuck/comments/1itpm11/the_city_of_warsaw_poland_uses_eight_mussels_with)
+ - RSS feed: $source
+ - date published: 2025-02-20T04:02:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1itpm11/the_city_of_warsaw_poland_uses_eight_mussels_with/"> <img src="https://a.thumbs.redditmedia.com/1TUjMERztiflcNjcJEQqeYJYhIkVKx9svAmCQ0OIQ68.jpg" alt="The city of Warsaw, Poland, uses eight mussels with sensors hot-glued to their shells to monitor and automatically shut off the city water supply if the shellfish so chooses." title="The city of Warsaw, Poland, uses eight mussels with sensors hot-glued to their shells to monitor and automatically shut off the city water supply if the shellfish so chooses." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Standard-Slip6572"> /u/Standard-Slip6572 </a> <br/> <span><a href="https://www.reddit.com/gallery/1itpm11">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1itpm11/the_city_of_warsaw_poland_uses_eight_mussels_with/">[comments]</a></span> </td></tr></table>
+
+## Man-powered way to move a lot of bananas
+ - [https://www.reddit.com/r/interestingasfuck/comments/1itp2v9/manpowered_way_to_move_a_lot_of_bananas](https://www.reddit.com/r/interestingasfuck/comments/1itp2v9/manpowered_way_to_move_a_lot_of_bananas)
+ - RSS feed: $source
+ - date published: 2025-02-20T03:33:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1itp2v9/manpowered_way_to_move_a_lot_of_bananas/"> <img src="https://external-preview.redd.it/dWdkazZwc3pyN2tlMZHvba4Ult0An2zZj0kY0AAG6Q-Kw_mNmFGLFDRhBp32.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7155395088da0132784dde815135ae43d91f3a5c" alt="Man-powered way to move a lot of bananas" title="Man-powered way to move a lot of bananas" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kikiholden"> /u/Kikiholden </a> <br/> <span><a href="https://v.redd.it/e6ba8fxzr7ke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1itp2v9/manpowered_way_to_move_a_lot_of_bananas/">[comments]</a></span> </td></tr></table>
+
+## How Contact Lenses Were Made in 1948
+ - [https://www.reddit.com/r/interestingasfuck/comments/1itofyd/how_contact_lenses_were_made_in_1948](https://www.reddit.com/r/interestingasfuck/comments/1itofyd/how_contact_lenses_were_made_in_1948)
+ - RSS feed: $source
+ - date published: 2025-02-20T03:00:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1itofyd/how_contact_lenses_were_made_in_1948/"> <img src="https://external-preview.redd.it/dGk1dzAzaHhsN2tlMa6gE_zaN8yjD_ZeWp8AwSI_wdUtgpMJj5x0nA1Sy29j.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2a8a9239d37c12baf65036697ce59587e1325c90" alt="How Contact Lenses Were Made in 1948" title="How Contact Lenses Were Made in 1948" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Osech"> /u/Osech </a> <br/> <span><a href="https://v.redd.it/1raw3rjxl7ke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1itofyd/how_contact_lenses_were_made_in_1948/">[comments]</a></span> </td></tr></table>
+
+## Someone found prescription strength lidocaine patches being sold for $3.99 at TJMaxx
+ - [https://www.reddit.com/r/interestingasfuck/comments/1itnqlf/someone_found_prescription_strength_lidocaine](https://www.reddit.com/r/interestingasfuck/comments/1itnqlf/someone_found_prescription_strength_lidocaine)
+ - RSS feed: $source
+ - date published: 2025-02-20T02:24:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1itnqlf/someone_found_prescription_strength_lidocaine/"> <img src="https://preview.redd.it/p9j491npf7ke1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=da3ce959d0a95bb143845b9a81b7c99fc656f1d1" alt="Someone found prescription strength lidocaine patches being sold for $3.99 at TJMaxx" title="Someone found prescription strength lidocaine patches being sold for $3.99 at TJMaxx" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nova-star561519"> /u/Nova-star561519 </a> <br/> <span><a href="https://i.redd.it/p9j491npf7ke1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1itnqlf/someone_found_prescription_strength_lidocaine/">[comments]</a></span> </td></tr></table>
+
+## How our DNA replicates
+ - [https://www.reddit.com/r/interestingasfuck/comments/1itn8j6/how_our_dna_replicates](https://www.reddit.com/r/interestingasfuck/comments/1itn8j6/how_our_dna_replicates)
+ - RSS feed: $source
+ - date published: 2025-02-20T02:00:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1itn8j6/how_our_dna_replicates/"> <img src="https://external-preview.redd.it/cndoNXJkdmJiN2tlMQN_O1ReDi7SrukMQYezB9e7UHqo_r7-g3xSUwtULRWx.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=daf27b3bfc4b9cebcf68a52f1cf5aee4669a18f9" alt="How our DNA replicates" title="How our DNA replicates" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nadzzy"> /u/Nadzzy </a> <br/> <span><a href="https://v.redd.it/lsqw1g0cb7ke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1itn8j6/how_our_dna_replicates/">[comments]</a></span> </td></tr></table>
+
+## Some unsettling bird sounds
+ - [https://www.reddit.com/r/interestingasfuck/comments/1itmmqc/some_unsettling_bird_sounds](https://www.reddit.com/r/interestingasfuck/comments/1itmmqc/some_unsettling_bird_sounds)
+ - RSS feed: $source
+ - date published: 2025-02-20T01:30:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1itmmqc/some_unsettling_bird_sounds/"> <img src="https://external-preview.redd.it/enJ4ZnBlZnU1N2tlMQAKNI_zfYdo1UogX0g7zBXBfSo6B0x8C9FtvdN8D2RV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=42eb16d7b1a94c5f07891d84017e95050e71b53c" alt="Some unsettling bird sounds" title="Some unsettling bird sounds" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/-What-on-Earth-"> /u/-What-on-Earth- </a> <br/> <span><a href="https://v.redd.it/9jwr9ilu57ke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1itmmqc/some_unsettling_bird_sounds/">[comments]</a></span> </td></tr></table>
+
+## Is this the future of police?
+ - [https://www.reddit.com/r/interestingasfuck/comments/1itme63/is_this_the_future_of_police](https://www.reddit.com/r/interestingasfuck/comments/1itme63/is_this_the_future_of_police)
+ - RSS feed: $source
+ - date published: 2025-02-20T01:18:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1itme63/is_this_the_future_of_police/"> <img src="https://external-preview.redd.it/Ym53MXkxenkzN2tlMSqd1T61H4doDYmASxA5Qm7xicQ2YRG1BNd7hiUrKr4A.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=29372f791e3fe5d0ac90bcb222316a745faf80ff" alt="Is this the future of police?" title="Is this the future of police?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kirolossedra"> /u/kirolossedra </a> <br/> <span><a href="https://v.redd.it/6or5e03z37ke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1itme63/is_this_the_future_of_police/">[comments]</a></span> </td></tr></table>
+
+## NASA has stated the probability of asteroid 2024 YR4 of colliding with Earth has fallen to ~1.5%
+ - [https://www.reddit.com/r/interestingasfuck/comments/1itlazc/nasa_has_stated_the_probability_of_asteroid_2024](https://www.reddit.com/r/interestingasfuck/comments/1itlazc/nasa_has_stated_the_probability_of_asteroid_2024)
+ - RSS feed: $source
+ - date published: 2025-02-20T00:27:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/interestingasfuck/comments/1itlazc/nasa_has_stated_the_probability_of_asteroid_2024/"> <img src="https://preview.redd.it/n3v14njuu6ke1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4da5933a91d8e9b08f9e8076399ec8d444ec7c9" alt="NASA has stated the probability of asteroid 2024 YR4 of colliding with Earth has fallen to ~1.5%" title="NASA has stated the probability of asteroid 2024 YR4 of colliding with Earth has fallen to ~1.5%" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ConanOToole"> /u/ConanOToole </a> <br/> <span><a href="https://i.redd.it/n3v14njuu6ke1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/interestingasfuck/comments/1itlazc/nasa_has_stated_the_probability_of_asteroid_2024/">[comments]</a></span> </td></tr></table>
+

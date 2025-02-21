@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-20T20:00:04+00:00",
+        "description": "There's this story that's been floating around about Windows dropping a bunch of older intel CPUs in the 24h2 version of Windows 11 but the fact is that this is absolutely not happening.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nNeowin: https://www.neowin.net/news/microsoft-removes-windows-11-24h2-official-support-on-8th-9th-10th-gen-intel-cpus/\nToms Hardware: https://www.tomshardware.com/software/windows/intel-8th-9th-and-10th-gen-processors-absent-from-microsofts-windows-11-24h2-cpu-support-list\nWCCF Tech: https://wccftech.com/microsoft-drops-support-for-intels-10th-gen-processors-on-windows-11-24h2/\nXDA Developer: https://www.xda-developers.com/microsoft-drops-support-some-intel-cpus-run-windows-11-24h2/\nOverclock 3D: https://overclock3d.net/news/software/micr",
+        "id": 2160160,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1avgSRgErmU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1avgSRgErmU/hqdefault.jpg",
+        "title": "Windows 11 Sucks But Not That Much",
+        "vote": 0
+    }
+]
