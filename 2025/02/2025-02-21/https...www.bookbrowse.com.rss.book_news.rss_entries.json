@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T06:00:00+00:00",
+        "description": "World of Books, a major U.K.&#8211;based e-tailer of new and used books, is planning an aggressive expansion of its U.S. business in 2025.\n<br><br>\nThe company, which recently purchased U.S.&#8211;based websites SecondSale.com and SellBackYourBooks.com and runs sales on Amazon Marketplace under the name GlentheBookseller, has consolidated its operations stateside and relaunched new book sales on WorldofBooks.com. It currently generates more than $200 million in annual sales, with the majority of revenue coming from the U.K., but hopes to grow the U.S. into its lead territory within the next three years.",
+        "id": 2166036,
+        "language": "en",
+        "link": "http://www.bookbrowse.com/news/detail/index.cfm?news_item_number=3377",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 43,
+        "source_url": "https://www.bookbrowse.com/rss/book_news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "World of Books plans aggressive U.S. expansion",
+        "vote": 0
+    }
+]

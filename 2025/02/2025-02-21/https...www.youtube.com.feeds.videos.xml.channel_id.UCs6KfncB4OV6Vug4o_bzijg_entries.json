@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T21:58:13+00:00",
+        "description": "Welcome to our privacy wins of the week, where our community shares their wins. Join next week's stream: https://discuss.techlore.tech/t/your-weekly-privacy-security-wins-week-43-feb-21-2025/12542\n\n\ud83d\udd10 Techlore Homepage: https://techlore.tech\n\ud83d\udd75 Go Incognito Course: https://techlore.tech/goincognito\n\ud83d\udcbb Techlore Community: https://discuss.techlore.tech\n\ud83c\udfeb Techlore Coaching: https://techlore.tech/coaching\n\ud83d\udcac Signal Group: https://discuss.techlore.tech/t/signal-usernames-are-here-join-our-signal-group-techlore/7640\n\nWe cannot provide our content without our Patrons, huge thanks to:\nBRIGHTSIDE, Clark, Ente, Larry, Richard, Afonso, Johnny, Kevin, love your content, x, 3c3c1d, NotSure, Philip, Seth, Stephen, Steven, Timothy\n\n\ud83e\udde1 Join them on Patreon: https://www.patreon.com/techlore\n\ud83d\udc9a To see our production gear, privacy tools we use, and other affiliates: https://techlore.tech/affiliates\n\ud83d\udc96 All Techlore Support Methods: https://techlore.tech/support\n#privacy #security #techlore",
+        "id": 2169151,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=BNOWzJdKb9Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BNOWzJdKb9Y/hqdefault.jpg",
+        "title": "Moving From iCloud to Ente Photos - Privacy Wins Of The Week!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T15:00:01+00:00",
+        "description": "RISC-V shenanigans with GPUs and AAA games on the HiFive Premier P550.\n\nThe HiFive Premier P550 and case were provided by SiFive for my review and testing. They did not pay for this video or have any input into its production\u2014however because the hardware was provided for review, I mark the video with YouTube's 'includes paid sponsorship' option. See my sponsorship and review unit policies here: https://github.com/geerlingguy/youtube?tab=readme-ov-file#sponsorships\n\nResources mentioned in this video:\n\n  - SiFive HiFive Premier P550: https://www.sifive.com/boards/hifive-premier-p550\n  - ALL my test data: https://github.com/geerlingguy/sbc-reviews/issues/65\n  - Guide for installing Box64, Box32, and Wine on the P550: https://www.jeffgeerling.com/blog/2025/build-box64-box32-x86-emulation-on-risc-v-linux\n  - Explaining Computers P550 Overview: https://www.youtube.com/watch?v=9KTbi8dJjzQ\n  - Chips and Cheese Article on P550: https://chipsandcheese.com/p/a-risc-v-progress-check-benchmarking",
+        "id": 2165601,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1565YYsFmd4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1565YYsFmd4/hqdefault.jpg",
+        "title": "The fastest RISC-V computer: can it game yet?",
+        "vote": 0
+    }
+]

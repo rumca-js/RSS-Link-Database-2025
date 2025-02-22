@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T04:21:46+00:00",
+        "description": "https://wiki.rossmanngroup.com/wiki/Introduction_of_mandatory_paid_subscription_into_Tado_Smart_Thermostat_app",
+        "id": 2162490,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=tfAchfFXghc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tfAchfFXghc/hqdefault.jpg",
+        "title": "Thermostat maker performs psychological experiments on customers: never buy Tado products",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T15:18:14+00:00",
+        "description": "By screening films in a brain scanner, neuroscientists discovered a rich library of neural scripts \u2014 from a trip through an airport to a marriage proposal \u2014 that form scaffolds for memories of our experiences.            <p>The post <a href=\"https://www.quantamagazine.org/how-event-scripts-structure-our-personal-memories-20250221/\" target=\"_blank\">How \u2018Event Scripts\u2019 Structure Our Personal Memories</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2165939,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/how-event-scripts-structure-our-personal-memories-20250221",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/02/Memory-Scripts_crKouzou-Sakai-Default-1.webp",
+        "title": "How \u2018Event Scripts\u2019 Structure Our Personal Memories",
+        "vote": 0
+    }
+]

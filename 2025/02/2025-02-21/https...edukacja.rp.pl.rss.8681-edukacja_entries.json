@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T05:40:00+00:00",
+        "description": "Szansy na wi\u0119ksz\u0105 r\u00f3\u017cnorodno\u015b\u0107 w\u015br\u00f3d nauczycielek i nauczycieli \u2013 zdaniem ekspert\u00f3w \u2013 nie b\u0119dzie bez podniesienia presti\u017cu zawodu i wy\u017cszych zarobk\u00f3w. Co ciekawe, dzi\u015b niezdominowan\u0105 przez jedn\u0105 p\u0142e\u0107 sfer\u0105 w edukacji wydaje si\u0119 by\u0107 wy\u0142\u0105cznie szkolnictwo bran\u017cowe.",
+        "id": 2162285,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/nauczyciele/art41829301-parytety-dla-nauczycieli-kobiety-nie-dominuja-tylko-w-szkolnictwie-branzowym",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Parytety dla nauczycieli? Kobiety nie dominuj\u0105 tylko w szkolnictwie bran\u017cowym",
+        "vote": 0
+    }
+]

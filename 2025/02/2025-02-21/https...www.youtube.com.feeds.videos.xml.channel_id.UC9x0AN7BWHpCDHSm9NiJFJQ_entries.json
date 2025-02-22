@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T16:28:23+00:00",
+        "description": "\ud83c\udf10 Build your next project on Hostinger with an INSANELY fast VPS: Get 10% off with code NETWORKCHUCK: https://hostinger.com/networkchuck10 \n\n\n\u2615 Because everything in I.T. requires coffee: https://ntck.co/coffee \n\n\nWe\u2019re in the future. AI can now run your web browser, complete tasks, and automate entire workflows\u2013 basically, acting like your own personal assistant. A few weeks ago, OpenAI released Operator, but it\u2019s $200/month\u2026 So, I found a free, open-source alternative that might actually be BETTER. In this video, we put it to the test.\n\n\n\n\nLINKS/RESOURCES:\n\n\ud83d\udd17Browser Use: https://browser-use.com/\n\ud83d\udcbb Web UI (GitHub): https://github.com/browser-use/web-ui\n\ud83d\udc27 WSL video: https://www.youtube.com/watch?v=vxTW22y8zV8\n\ud83e\udd16 Ollama: https://ollama.com/\n\ud83d\udc0d Pyenv (Python Management): https://github.com/pyenv/pyenv\n\u2692\ufe0f Building \u201cTerry\u201d - My AI Server: https://www.youtube.com/watch?v=Wjrdr0NU4Sk\n\n\n\n\n\n\ud83d\udd25\ud83d\udd25Join the NetworkChuck Academy!: https://ntck.co/NCAcademy \n\n\n\n**Sponsored by Hostinger\n\n\n\n\n\n\n\n\nSUPPORT",
+        "id": 2166424,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=sxTNACldK3Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sxTNACldK3Y/hqdefault.jpg",
+        "title": "ChatGPT Operator is expensive....use this instead (FREE + Open Source)",
+        "vote": 0
+    }
+]

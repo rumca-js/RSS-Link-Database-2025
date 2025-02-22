@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T20:37:00+00:00",
+        "description": "This NASA/ESA Hubble Space Telescope reveals clouds of gas and dust near the Tarantula Nebula, located in the Large Magellanic Cloud about 160,000 light-years away.",
+        "id": 2168556,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/cosmic-cloudscape",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Hubble Captures a Cosmic Cloudscape",
+        "vote": 0
+    }
+]

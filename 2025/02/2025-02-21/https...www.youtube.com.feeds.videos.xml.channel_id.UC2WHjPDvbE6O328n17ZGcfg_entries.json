@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T15:28:00+00:00",
+        "description": "Shop Micro Center's BYO Month:  https://micro.center/8cb7a2\n\nI've been coding with the Windsurf editor for a week and just wanted to share my raw first impressions of it (NOT SPONSORED BY WINDSURF, btw). Keep in mind, I'm coming from using only things like tabnine or copilot (which I haven't used in a while, but did play around with and test) so a lot of these features are generally new to me. I've never used Cursor or any of the others, so I can't compare the two.\n\nAnd again, this really is just a first impression of Windsurf, not a full review or anything like that. Once I have more experience with it, in various languages and sizes of codebases, I'll make a more in-depth video of my experience - probably in a month from now.\n\nMicro Center Resources:\nTrade In, Donate, or Recycle your old tech at Micro Center:  https://micro.center/2b4904\nSign-Up for Early Access to Micro Center Santa Clara:  https://micro.center/b70bcd\n\n0:00 what I\u2019ve coded with Windsurf\n0:46 I should be coding on ",
+        "id": 2166121,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=485-1xZjKS4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/485-1xZjKS4/hqdefault.jpg",
+        "title": "I Coded with Windsurf for a Week",
+        "vote": 0
+    }
+]

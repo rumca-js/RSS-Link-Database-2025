@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T22:17:04+00:00",
+        "description": "The Apple Vision Pro released a year ago\u2014and things aren't great... or maybe it's all exaggerated and the thing isn't such a failure after all...\n\nGlobular Cluster CMA-1 strap for Vision Pro - https://amzn.to/4ia9p3r\nAnnapro strap for Vision Pro - https://amzn.to/4bjenZG\n\nFollow Snazzy Labs on Twitter - http://twitter.com/snazzyq\nFollow me on Instagram - http://instagram.com/snazzyq\n\nApple\u2019s Vision Pro has been out for a year, and while it\u2019s not a total failure, it faces major challenges. VR fans expected innovation, but the Vision Pro struggles with comfort, limited developer support, and a lack of must-have apps. Despite excellent display quality, its high price and niche use cases make it feel more like a premium entertainment device than a productivity game-changer. Meanwhile, Meta Quest remains dominant in the otherwise tiny niche, proving that Apple\u2019s headset has an uphill battle ahead.\n\n0:00 - It\u2019s already been a year\n0:51 - (1) OLED Displays\n1:42 - (2) The passthrough cameras",
+        "id": 2169339,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=kJhUOwzhC1A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kJhUOwzhC1A/hqdefault.jpg",
+        "title": "Apple Vision Pro Post-Mortem: What Happened...?!",
+        "vote": 0
+    }
+]

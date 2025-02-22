@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T22:42:16+00:00",
+        "description": "<p>\n\t<img alt=\"c-senioreas-v9.png\" src=\"https://isocpp.org/files/img/c-senioreas-v9.png\" style=\"width: 300px; margin: 10px; float: right;\" />Sometimes, we all need a way to iterate over a container in the opposite direction. There are several ways to reverse-iterate a container, and in this article, we&rsquo;ll explore them.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://cppsenioreas.wordpress.com/2025/01/01/reverse-iterations-cpp/\">Reverse Iterations</a></h3>\n\t<p>\n\t\tby Coral Kashri</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\tProbably the simplest way, taken from C is to iterate using an index location:</blockquote>\n<blockquote>\n\t<div>\n\t\t<code>for</code> <code>(</code><code>int64_t</code> <code>index = ssize(container); index &gt;= 0; --index) &#123;</code></div>\n\t<div>\n\t\t&nbsp;&nbsp;&nbsp;&nbsp;<code>// do something with `container[index]`</code></div>\n\t<div>\n\t\t<code>&#125;</code></div>\n</blockquote>\n<blockquote>\n\t<div>\n\t\tThis way is highly not recommended as it might lead",
+        "id": 2169329,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/02/reverse-iterations-coral-kashri",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Reverse Iterations -- Coral Kashri",
+        "vote": 0
+    }
+]

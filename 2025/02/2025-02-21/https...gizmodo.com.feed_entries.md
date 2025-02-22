@@ -1,0 +1,240 @@
+# Source:Gizmodo, URL:https://gizmodo.com/feed, language:en
+
+## Daredevil‘s Cast on Expanding the Netflix Show and Picking Back Up With Their Characters
+ - [https://gizmodo.com/daredevils-cast-on-expanding-the-netflix-show-and-picking-back-up-with-their-characters-2000567088](https://gizmodo.com/daredevils-cast-on-expanding-the-netflix-show-and-picking-back-up-with-their-characters-2000567088)
+ - RSS feed: $source
+ - date published: 2025-02-21T22:20:51+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/daredevil-2.jpg" class="attachment-full size-full wp-post-image" alt="Daredevil 2" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/daredevil-2.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/daredevil-2-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/daredevil-2-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/daredevil-2-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/daredevil-2-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/daredevil-2-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/daredevil-2-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/daredevil-2-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br><i>Daredevil: Born Again</i> is nearly ready to resurrect on Disney+, and its creators are just as excited as all the Marvel fans.
+
+## The Avatar Cycle, Explained
+ - [https://gizmodo.com/avatar-cycle-explained-seven-havens-korra-aang-2000566968](https://gizmodo.com/avatar-cycle-explained-seven-havens-korra-aang-2000566968)
+ - RSS feed: $source
+ - date published: 2025-02-21T21:40:14+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/avatar-cycle-the-last-airbender-aang.jpg" class="attachment-full size-full wp-post-image" alt="Avatar Cycle The Last Airbender Aang" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/02/avatar-cycle-the-last-airbender-aang.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/avatar-cycle-the-last-airbender-aang-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/avatar-cycle-the-last-airbender-aang-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/avatar-cycle-the-last-airbender-aang-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/avatar-cycle-the-last-airbender-aang-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/avatar-cycle-the-last-airbender-aang-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/avatar-cycle-the-last-airbender-aang-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/avatar-cycle-the-last-airbender-aang-896x597.jpg 896w" sizes=
+
+## DOGE Staffer Known as ‘Big Balls’ Reportedly the Grandkid of a KGB Spy
+ - [https://gizmodo.com/doge-staffer-known-as-big-balls-reportedly-the-grandkid-of-a-kgb-spy-2000567020](https://gizmodo.com/doge-staffer-known-as-big-balls-reportedly-the-grandkid-of-a-kgb-spy-2000567020)
+ - RSS feed: $source
+ - date published: 2025-02-21T21:05:17+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/11/musk-doge-disclosures.jpg" class="attachment-full size-full wp-post-image" alt="Elon Musk raising an eyebrow" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/11/musk-doge-disclosures.jpg 1500w, https://gizmodo.com/app/uploads/2024/11/musk-doge-disclosures-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/11/musk-doge-disclosures-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/11/musk-doge-disclosures-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/11/musk-doge-disclosures-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/11/musk-doge-disclosures-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/11/musk-doge-disclosures-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/11/musk-doge-disclosures-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Sure, why not?
+
+## Somehow, This Han Solo JPG Is Still Worth $120
+ - [https://gizmodo.com/star-wars-card-trader-10-vintage-han-solo-topps-2000565992](https://gizmodo.com/star-wars-card-trader-10-vintage-han-solo-topps-2000565992)
+ - RSS feed: $source
+ - date published: 2025-02-21T20:35:14+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Star-Wars-Vintage-Han-crop.jpg" class="attachment-full size-full wp-post-image" alt="Star Wars Vintage Han Crop" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/02/Star-Wars-Vintage-Han-crop.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Star-Wars-Vintage-Han-crop-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Star-Wars-Vintage-Han-crop-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Star-Wars-Vintage-Han-crop-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Star-Wars-Vintage-Han-crop-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Star-Wars-Vintage-Han-crop-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Star-Wars-Vintage-Han-crop-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Star-Wars-Vintage-Han-crop-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The Topps app <i>Star Wars</i> Card Trader is currently 
+
+## U.S. Government Removing EV Chargers From All Federal Buildings Because They Are “Not Mission Critical”
+ - [https://gizmodo.com/u-s-government-removing-ev-chargers-from-all-federal-buildings-because-they-are-not-mission-critical-2000566987](https://gizmodo.com/u-s-government-removing-ev-chargers-from-all-federal-buildings-because-they-are-not-mission-critical-2000566987)
+ - RSS feed: $source
+ - date published: 2025-02-21T20:05:44+00:00
+
+<img width="1501" height="1000" src="https://gizmodo.com/app/uploads/2024/09/tesla-vehicle-charging-pasadena-sept-23-2024.jpg" class="attachment-full size-full wp-post-image" alt="A person recharges a Tesla electric vehicle at a Tesla Supercharger station on September 23, 2024 in Pasadena, California." decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2024/09/tesla-vehicle-charging-pasadena-sept-23-2024.jpg 1501w, https://gizmodo.com/app/uploads/2024/09/tesla-vehicle-charging-pasadena-sept-23-2024-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/09/tesla-vehicle-charging-pasadena-sept-23-2024-1024x682.jpg 1024w, https://gizmodo.com/app/uploads/2024/09/tesla-vehicle-charging-pasadena-sept-23-2024-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/09/tesla-vehicle-charging-pasadena-sept-23-2024-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/09/tesla-vehicle-charging-pasadena-sept-23-2024-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2
+
+## Tesla Dealership in Oregon Gets Shot Up, Drawing FBI Scrutiny
+ - [https://gizmodo.com/tesla-dealership-in-oregon-gets-shot-up-drawing-fbi-scrutiny-2000566876](https://gizmodo.com/tesla-dealership-in-oregon-gets-shot-up-drawing-fbi-scrutiny-2000566876)
+ - RSS feed: $source
+ - date published: 2025-02-21T19:50:02+00:00
+
+<img width="1920" height="1280" src="https://gizmodo.com/app/uploads/2024/05/1a956f3248ba2db44721157659b4895a.jpg" class="attachment-full size-full wp-post-image" alt="Photo: Brandon Bell" decoding="async" srcset="https://gizmodo.com/app/uploads/2024/05/1a956f3248ba2db44721157659b4895a.jpg 1920w, https://gizmodo.com/app/uploads/2024/05/1a956f3248ba2db44721157659b4895a-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/05/1a956f3248ba2db44721157659b4895a-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/05/1a956f3248ba2db44721157659b4895a-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/05/1a956f3248ba2db44721157659b4895a-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/05/1a956f3248ba2db44721157659b4895a-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/05/1a956f3248ba2db44721157659b4895a-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/05/1a956f3248ba2db44721157659b4895a-896x597.jpg 896w, https://gizmodo.com/app/uploads/2024/05/1a956f3248ba2db4472
+
+## Of Course Dragon Ball Daima Gave Us the SSJ4 Reveal We Really Wanted, Too
+ - [https://gizmodo.com/of-course-dragon-ball-daima-gave-us-the-ssj4-reveal-we-really-wanted-too-2000566893](https://gizmodo.com/of-course-dragon-ball-daima-gave-us-the-ssj4-reveal-we-really-wanted-too-2000566893)
+ - RSS feed: $source
+ - date published: 2025-02-21T19:30:10+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Dragon-Ball-Daima-Goku-Crunchyroll-1.jpg" class="attachment-full size-full wp-post-image" alt="Dragon Ball Daima Goku Crunchyroll" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Dragon-Ball-Daima-Goku-Crunchyroll-1.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Dragon-Ball-Daima-Goku-Crunchyroll-1-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Dragon-Ball-Daima-Goku-Crunchyroll-1-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Dragon-Ball-Daima-Goku-Crunchyroll-1-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Dragon-Ball-Daima-Goku-Crunchyroll-1-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Dragon-Ball-Daima-Goku-Crunchyroll-1-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Dragon-Ball-Daima-Goku-Crunchyroll-1-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Dragon-Ball-Daima-Goku-Crunchyroll-1-896x597.jpg
+
+## Winning Nature Photographs Capture the Gripping Intensity of Animal Life
+ - [https://gizmodo.com/winning-nature-photographs-capture-the-gripping-intensity-of-animal-life-2000566793](https://gizmodo.com/winning-nature-photographs-capture-the-gripping-intensity-of-animal-life-2000566793)
+ - RSS feed: $source
+ - date published: 2025-02-21T19:05:33+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/AnimalBehaviour-SpecialMention-Anirudh_Laxmipathy.jpg" class="attachment-full size-full wp-post-image" alt="Tiger pouncing on a boar" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/AnimalBehaviour-SpecialMention-Anirudh_Laxmipathy.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/AnimalBehaviour-SpecialMention-Anirudh_Laxmipathy-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/AnimalBehaviour-SpecialMention-Anirudh_Laxmipathy-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/AnimalBehaviour-SpecialMention-Anirudh_Laxmipathy-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/AnimalBehaviour-SpecialMention-Anirudh_Laxmipathy-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/AnimalBehaviour-SpecialMention-Anirudh_Laxmipathy-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/AnimalBehaviour-SpecialMention-Anirudh_Laxmipathy-680x45
+
+## Wheel of Time Season 3 Arrives Soon—Here’s What to Remember From Season 2
+ - [https://gizmodo.com/wheel-of-time-everything-to-remember-season-2-recap-amazon-2000566597](https://gizmodo.com/wheel-of-time-everything-to-remember-season-2-recap-amazon-2000566597)
+ - RSS feed: $source
+ - date published: 2025-02-21T18:45:56+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Wheel_2_torches.jpg" class="attachment-full size-full wp-post-image" alt="Wheel 2 Torches" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Wheel_2_torches.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Wheel_2_torches-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Wheel_2_torches-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Wheel_2_torches-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Wheel_2_torches-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Wheel_2_torches-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Wheel_2_torches-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Wheel_2_torches-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Prime Video's Robert Jordan fantasy adaptation starts streaming new episodes March 13.
+
+## Minnesota Grad Student Expelled for Allegedly Using AI Is Suing School
+ - [https://gizmodo.com/minnesota-grad-student-expelled-for-allegedly-using-ai-is-suing-school-2000566900](https://gizmodo.com/minnesota-grad-student-expelled-for-allegedly-using-ai-is-suing-school-2000566900)
+ - RSS feed: $source
+ - date published: 2025-02-21T18:40:43+00:00
+
+<img width="1920" height="1080" src="https://gizmodo.com/app/uploads/2024/07/ChatGPT-Voice-Chat.jpeg" class="attachment-full size-full wp-post-image" alt="Chatgpt Voice Chat" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/07/ChatGPT-Voice-Chat.jpeg 1920w, https://gizmodo.com/app/uploads/2024/07/ChatGPT-Voice-Chat-300x169.jpeg 300w, https://gizmodo.com/app/uploads/2024/07/ChatGPT-Voice-Chat-1024x576.jpeg 1024w, https://gizmodo.com/app/uploads/2024/07/ChatGPT-Voice-Chat-768x432.jpeg 768w, https://gizmodo.com/app/uploads/2024/07/ChatGPT-Voice-Chat-512x288.jpeg 512w, https://gizmodo.com/app/uploads/2024/07/ChatGPT-Voice-Chat-680x383.jpeg 680w, https://gizmodo.com/app/uploads/2024/07/ChatGPT-Voice-Chat-896x504.jpeg 896w, https://gizmodo.com/app/uploads/2024/07/ChatGPT-Voice-Chat-1792x1008.jpeg 1792w" sizes="(max-width: 1920px) 100vw, 1920px"><br><br>The student said he believes his expulsion was a "conspiracy" by the professors.
+
+## That Viral Prison Break Video Is a Hoax
+ - [https://gizmodo.com/that-viral-prison-break-video-is-a-hoax-2000566966](https://gizmodo.com/that-viral-prison-break-video-is-a-hoax-2000566966)
+ - RSS feed: $source
+ - date published: 2025-02-21T18:10:27+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/BanksVideo.jpg" class="attachment-full size-full wp-post-image" alt="Banksvideo" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/BanksVideo.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/BanksVideo-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/BanksVideo-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/BanksVideo-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/BanksVideo-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/BanksVideo-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/BanksVideo-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/BanksVideo-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Comedian William Banks did steal pro-Israel yard signs in Connecticut. But he hasn't been serving jail time because of it.
+
+## Apple Intelligence and ChatGPT Are Coming to the Vision Pro
+ - [https://gizmodo.com/apple-intelligence-and-chatgpt-snail-their-way-to-the-vision-pro-2000566885](https://gizmodo.com/apple-intelligence-and-chatgpt-snail-their-way-to-the-vision-pro-2000566885)
+ - RSS feed: $source
+ - date published: 2025-02-21T18:08:42+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/08/AppleVisionPro1.png" class="attachment-full size-full wp-post-image" alt="Apple Vision Pro on a stand in an Apple Store. The AVP Gets New AI Features with Apple Intelligence" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/08/AppleVisionPro1.png 1500w, https://gizmodo.com/app/uploads/2024/08/AppleVisionPro1-300x200.png 300w, https://gizmodo.com/app/uploads/2024/08/AppleVisionPro1-1024x683.png 1024w, https://gizmodo.com/app/uploads/2024/08/AppleVisionPro1-768x512.png 768w, https://gizmodo.com/app/uploads/2024/08/AppleVisionPro1-336x224.png 336w, https://gizmodo.com/app/uploads/2024/08/AppleVisionPro1-1400x932.png 1400w, https://gizmodo.com/app/uploads/2024/08/AppleVisionPro1-680x453.png 680w, https://gizmodo.com/app/uploads/2024/08/AppleVisionPro1-896x597.png 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The Vision Pro’s visionOS 2.4 update will let you blast friends wit
+
+## Captain America: Brave New World Always Had a Bucky Cameo
+ - [https://gizmodo.com/captain-america-4-bucky-cameo-sebastian-stan-marvel-2000566939](https://gizmodo.com/captain-america-4-bucky-cameo-sebastian-stan-marvel-2000566939)
+ - RSS feed: $source
+ - date published: 2025-02-21T18:01:47+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Falcon-and-Winter-Soldier.jpg" class="attachment-full size-full wp-post-image" alt="Falcon And Winter Soldier" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/Falcon-and-Winter-Soldier.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Falcon-and-Winter-Soldier-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Falcon-and-Winter-Soldier-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Falcon-and-Winter-Soldier-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Falcon-and-Winter-Soldier-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Falcon-and-Winter-Soldier-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Falcon-and-Winter-Soldier-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Falcon-and-Winter-Soldier-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Director Julius Onah spoke about bringing the
+
+## This Ethiopian Volcano Just Burped a Staggering Amount of Methane
+ - [https://gizmodo.com/this-ethiopian-volcano-just-burped-a-staggering-amount-of-methane-2000566897](https://gizmodo.com/this-ethiopian-volcano-just-burped-a-staggering-amount-of-methane-2000566897)
+ - RSS feed: $source
+ - date published: 2025-02-21T17:25:42+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/mount-fentale-methane-volcano-ethiopia.jpg" class="attachment-full size-full wp-post-image" alt="Image of Ethiopia&#039;s Mount Fentale" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/02/mount-fentale-methane-volcano-ethiopia.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/mount-fentale-methane-volcano-ethiopia-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/mount-fentale-methane-volcano-ethiopia-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/mount-fentale-methane-volcano-ethiopia-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/mount-fentale-methane-volcano-ethiopia-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/mount-fentale-methane-volcano-ethiopia-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/mount-fentale-methane-volcano-ethiopia-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/mount-fentale-methane-volcano-ethiopia-896x
+
+## Dreo 6L Smart Humidifier Just Had Its Biggest Price Cut Ever, Only $72 on Amazon
+ - [https://gizmodo.com/dreo-6l-smart-humidifier-just-had-its-biggest-price-cut-ever-only-72-on-amazon-2000566585](https://gizmodo.com/dreo-6l-smart-humidifier-just-had-its-biggest-price-cut-ever-only-72-on-amazon-2000566585)
+ - RSS feed: $source
+ - date published: 2025-02-21T17:20:11+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/dreohumidifier.jpg" class="attachment-full size-full wp-post-image" alt="Dreohumidifier" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/dreohumidifier.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/dreohumidifier-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/dreohumidifier-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/dreohumidifier-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/dreohumidifier-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/dreohumidifier-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/dreohumidifier-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/dreohumidifier-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>I’ve been watching this Amazon's best-selling humidifier, and it’s never been this low.
+
+## These Hello Kitty Smartwatches Are Criminally Adorable
+ - [https://gizmodo.com/these-hello-kitty-smartwatches-are-criminally-adorable-2000566895](https://gizmodo.com/these-hello-kitty-smartwatches-are-criminally-adorable-2000566895)
+ - RSS feed: $source
+ - date published: 2025-02-21T17:15:41+00:00
+
+<img width="1500" height="1001" src="https://gizmodo.com/app/uploads/2025/02/GH-SMWL-e1740156700835.jpg" class="attachment-full size-full wp-post-image" alt="Hello Kitty Smartwatch" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/GH-SMWL-e1740156700835.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/GH-SMWL-e1740156700835-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/GH-SMWL-e1740156700835-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/GH-SMWL-e1740156700835-768x513.jpg 768w, https://gizmodo.com/app/uploads/2025/02/GH-SMWL-e1740156700835-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/GH-SMWL-e1740156700835-680x454.jpg 680w, https://gizmodo.com/app/uploads/2025/02/GH-SMWL-e1740156700835-896x598.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>You can now carry your favorite Sanrio characters with you everywhere you go.
+
+## Avatar: Seven Havens‘ Apocalyptic Premise Has Korra Fans Worried Their Hero Is Going to Get Slandered
+ - [https://gizmodo.com/avatar-seven-havens-korra-hate-aang-last-airbender-2000566787](https://gizmodo.com/avatar-seven-havens-korra-hate-aang-last-airbender-2000566787)
+ - RSS feed: $source
+ - date published: 2025-02-21T17:00:23+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Avatar-The-Last-Airbender-Aang-The-Legend-of-Korra.jpg" class="attachment-full size-full wp-post-image" alt="Avatar The Last Airbender Aang The Legend Of Korra" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Avatar-The-Last-Airbender-Aang-The-Legend-of-Korra.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Avatar-The-Last-Airbender-Aang-The-Legend-of-Korra-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Avatar-The-Last-Airbender-Aang-The-Legend-of-Korra-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Avatar-The-Last-Airbender-Aang-The-Legend-of-Korra-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Avatar-The-Last-Airbender-Aang-The-Legend-of-Korra-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Avatar-The-Last-Airbender-Aang-The-Legend-of-Korra-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Avatar-The-Last-Airbender-Aan
+
+## Apple Says ‘No’ to UK Backdoor Order, Will Pull E2E Cloud Encryption Instead
+ - [https://gizmodo.com/apple-says-no-to-uk-backdoor-order-will-pull-e2e-cloud-encryption-instead-2000566862](https://gizmodo.com/apple-says-no-to-uk-backdoor-order-will-pull-e2e-cloud-encryption-instead-2000566862)
+ - RSS feed: $source
+ - date published: 2025-02-21T16:50:53+00:00
+
+<img width="1920" height="1080" src="https://gizmodo.com/app/uploads/2021/04/ukf15ku9gbxz4waq0n4j.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2021/04/ukf15ku9gbxz4waq0n4j.jpg 1920w, https://gizmodo.com/app/uploads/2021/04/ukf15ku9gbxz4waq0n4j-300x169.jpg 300w, https://gizmodo.com/app/uploads/2021/04/ukf15ku9gbxz4waq0n4j-1024x576.jpg 1024w, https://gizmodo.com/app/uploads/2021/04/ukf15ku9gbxz4waq0n4j-768x432.jpg 768w, https://gizmodo.com/app/uploads/2021/04/ukf15ku9gbxz4waq0n4j-512x288.jpg 512w, https://gizmodo.com/app/uploads/2021/04/ukf15ku9gbxz4waq0n4j-680x383.jpg 680w, https://gizmodo.com/app/uploads/2021/04/ukf15ku9gbxz4waq0n4j-896x504.jpg 896w, https://gizmodo.com/app/uploads/2021/04/ukf15ku9gbxz4waq0n4j-1792x1008.jpg 1792w" sizes="(max-width: 1920px) 100vw, 1920px"><br><br>A backdoor into iCloud end-to-end encryption would defeat the purpose of the feature, so Apple is pulling it from 
+
+## 48TB of Your Own Personal Cloud Storage for Under $300, Amazon’s Best-Seller Hits a New Low
+ - [https://gizmodo.com/48tb-of-your-own-personal-cloud-storage-for-under-300-amazons-best-seller-hits-a-new-low-2000566339](https://gizmodo.com/48tb-of-your-own-personal-cloud-storage-for-under-300-amazons-best-seller-hits-a-new-low-2000566339)
+ - RSS feed: $source
+ - date published: 2025-02-21T16:35:32+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/UGreenCloudStorage.jpg" class="attachment-full size-full wp-post-image" alt="Ugreencloudstorage" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/02/UGreenCloudStorage.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/UGreenCloudStorage-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/UGreenCloudStorage-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/UGreenCloudStorage-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/UGreenCloudStorage-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/UGreenCloudStorage-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/UGreenCloudStorage-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/UGreenCloudStorage-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Save 15% on the UGreen NASync 2-Bay desktop to setup your own cloud storage server.
+
+## Elon Musk Rants Incoherently in Sunglasses While X Shadowbans His Pleading Baby Mama
+ - [https://gizmodo.com/elon-musk-rants-incoherently-in-sunglasses-while-x-shadowbans-his-pleading-baby-mama-2000566872](https://gizmodo.com/elon-musk-rants-incoherently-in-sunglasses-while-x-shadowbans-his-pleading-baby-mama-2000566872)
+ - RSS feed: $source
+ - date published: 2025-02-21T16:24:21+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/ElonMuskGacked.jpg" class="attachment-full size-full wp-post-image" alt="Elonmuskgacked" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/ElonMuskGacked.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/ElonMuskGacked-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/ElonMuskGacked-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/ElonMuskGacked-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/ElonMuskGacked-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/ElonMuskGacked-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/ElonMuskGacked-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/ElonMuskGacked-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The world's richest man wants you to know he's having a lot of fun.
+
+## India’s ‘Human Calculator Kid’ Shatters 6 World Records in a Single Day
+ - [https://gizmodo.com/indias-human-calculator-kid-shatters-6-world-records-in-a-single-day-2000566780](https://gizmodo.com/indias-human-calculator-kid-shatters-6-world-records-in-a-single-day-2000566780)
+ - RSS feed: $source
+ - date published: 2025-02-21T16:05:23+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Shukla-interviews.jpg" class="attachment-full size-full wp-post-image" alt="Shukla Interviews" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Shukla-interviews.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Shukla-interviews-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Shukla-interviews-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Shukla-interviews-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Shukla-interviews-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Shukla-interviews-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Shukla-interviews-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Shukla-interviews-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>One of Aaryan Shukla's world records is for mentally adding 100 four-digit numbers in 30.9 seconds.
+
+## Severance May Slowly Be Showing Where This Is All Headed
+ - [https://gizmodo.com/severance-recap-season-2-episode-6-attila-adam-scott-britt-lower-2000565608](https://gizmodo.com/severance-recap-season-2-episode-6-attila-adam-scott-britt-lower-2000565608)
+ - RSS feed: $source
+ - date published: 2025-02-21T16:00:05+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Severance-Recap-206-Mark-Adam-Scott.jpg" class="attachment-full size-full wp-post-image" alt="Severance Recap 206 Mark Adam Scott" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Severance-Recap-206-Mark-Adam-Scott.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Severance-Recap-206-Mark-Adam-Scott-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Severance-Recap-206-Mark-Adam-Scott-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Severance-Recap-206-Mark-Adam-Scott-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Severance-Recap-206-Mark-Adam-Scott-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Severance-Recap-206-Mark-Adam-Scott-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Severance-Recap-206-Mark-Adam-Scott-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Severance-Recap-206-Mark-Adam-Scott-896x597.jpg 896w" s
+
+## The $230 MacBook Air Is Real, It’s a Steal, and It’s Flying Off the Shelves
+ - [https://gizmodo.com/the-230-macbook-air-is-real-its-a-steal-and-its-flying-off-the-shelves-2000566251](https://gizmodo.com/the-230-macbook-air-is-real-its-a-steal-and-its-flying-off-the-shelves-2000566251)
+ - RSS feed: $source
+ - date published: 2025-02-21T15:55:06+00:00
+
+<img width="1500" height="1003" src="https://gizmodo.com/app/uploads/2025/02/2017-MacBook-Air.jpg" class="attachment-full size-full wp-post-image" alt="2017 Macbook Air" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/2017-MacBook-Air.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/2017-MacBook-Air-300x201.jpg 300w, https://gizmodo.com/app/uploads/2025/02/2017-MacBook-Air-1024x685.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/2017-MacBook-Air-768x514.jpg 768w, https://gizmodo.com/app/uploads/2025/02/2017-MacBook-Air-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/2017-MacBook-Air-680x455.jpg 680w, https://gizmodo.com/app/uploads/2025/02/2017-MacBook-Air-896x599.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>A 76% off deal on this Grade A refurbished 2017 MacBook Air means you save over $750 on a genuine Apple laptop in near-mint condition.
+
+## The Latest 40-Inch Amazon Fire TV Is the Best $180 Home Upgrade You Can Make Today
+ - [https://gizmodo.com/the-latest-40-inch-amazon-fire-tv-is-the-best-180-home-upgrade-you-can-make-today-2000566420](https://gizmodo.com/the-latest-40-inch-amazon-fire-tv-is-the-best-180-home-upgrade-you-can-make-today-2000566420)
+ - RSS feed: $source
+ - date published: 2025-02-21T15:25:41+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Amazon-Fire-TV-40-Inch-2-Series.jpg" class="attachment-full size-full wp-post-image" alt="Amazon Fire Tv 40 Inch 2 Series" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/Amazon-Fire-TV-40-Inch-2-Series.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Amazon-Fire-TV-40-Inch-2-Series-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Amazon-Fire-TV-40-Inch-2-Series-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Amazon-Fire-TV-40-Inch-2-Series-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Amazon-Fire-TV-40-Inch-2-Series-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Amazon-Fire-TV-40-Inch-2-Series-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Amazon-Fire-TV-40-Inch-2-Series-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Amazon-Fire-TV-40-Inch-2-Series-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1
+
+## Musk’s Plan to Kill the ISS Early Is a Selfish, Shortsighted Move
+ - [https://gizmodo.com/musks-plan-to-kill-the-iss-early-is-a-selfish-shortsighted-move-2000566650](https://gizmodo.com/musks-plan-to-kill-the-iss-early-is-a-selfish-shortsighted-move-2000566650)
+ - RSS feed: $source
+ - date published: 2025-02-21T15:05:34+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/09/international-space-station.jpeg" class="attachment-full size-full wp-post-image" alt="International Space Station" decoding="async" srcset="https://gizmodo.com/app/uploads/2024/09/international-space-station.jpeg 1500w, https://gizmodo.com/app/uploads/2024/09/international-space-station-300x200.jpeg 300w, https://gizmodo.com/app/uploads/2024/09/international-space-station-1024x683.jpeg 1024w, https://gizmodo.com/app/uploads/2024/09/international-space-station-768x512.jpeg 768w, https://gizmodo.com/app/uploads/2024/09/international-space-station-336x224.jpeg 336w, https://gizmodo.com/app/uploads/2024/09/international-space-station-1400x932.jpeg 1400w, https://gizmodo.com/app/uploads/2024/09/international-space-station-680x453.jpeg 680w, https://gizmodo.com/app/uploads/2024/09/international-space-station-896x597.jpeg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The billionaire and presidential budd
+
+## DC Is Relaunching Batman for Only the Fourth Time in Almost 85 Years
+ - [https://gizmodo.com/dc-batman-1-2025-relaunch-matt-fraction-jorge-jiminez-2000566772](https://gizmodo.com/dc-batman-1-2025-relaunch-matt-fraction-jorge-jiminez-2000566772)
+ - RSS feed: $source
+ - date published: 2025-02-21T15:00:58+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Batman-1-2025-Matt-Fraction-Jorge-Jiminez.jpg" class="attachment-full size-full wp-post-image" alt="Batman 1 2025 Matt Fraction Jorge Jiminez" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Batman-1-2025-Matt-Fraction-Jorge-Jiminez.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Batman-1-2025-Matt-Fraction-Jorge-Jiminez-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Batman-1-2025-Matt-Fraction-Jorge-Jiminez-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Batman-1-2025-Matt-Fraction-Jorge-Jiminez-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Batman-1-2025-Matt-Fraction-Jorge-Jiminez-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Batman-1-2025-Matt-Fraction-Jorge-Jiminez-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Batman-1-2025-Matt-Fraction-Jorge-Jiminez-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/B
+
+## Govee Smart LED Floor Lamp Brings 16 Million Colors at Its Lowest Price Yet
+ - [https://gizmodo.com/govee-smart-led-floor-lamp-brings-16-million-colors-at-its-lowest-price-yet-2000566603](https://gizmodo.com/govee-smart-led-floor-lamp-brings-16-million-colors-at-its-lowest-price-yet-2000566603)
+ - RSS feed: $source
+ - date published: 2025-02-21T14:45:14+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/goveelamp.jpg" class="attachment-full size-full wp-post-image" alt="Goveelamp" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/goveelamp.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/goveelamp-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/goveelamp-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/goveelamp-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/goveelamp-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/goveelamp-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/goveelamp-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/goveelamp-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>At just $60, you can choose your favorite colors and add some much-needed hues to your home.
+
+## YouTube May Finally Offer a Cheaper Way to Get Rid of Ads
+ - [https://gizmodo.com/youtube-may-finally-offer-a-cheaper-way-to-get-rid-of-ads-2000566768](https://gizmodo.com/youtube-may-finally-offer-a-cheaper-way-to-get-rid-of-ads-2000566768)
+ - RSS feed: $source
+ - date published: 2025-02-21T14:30:08+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/10/youtube-on-a-phone-e1740147209205.jpg" class="attachment-full size-full wp-post-image" alt="YouTube on an iPhone users may Soon be able to pay for Premium or Premium Lite subscriptions." decoding="async"><br><br>YouTube’s so-called ‘Premium Lite’ tier will reportedly allow you to skip ads on videos and podcasts, but not music.
+
+## Sony Soundbar Price Crashes to Just $98, Cinematic Sound Without the Price Tag
+ - [https://gizmodo.com/sony-soundbar-price-crashes-to-just-98-cinematic-sound-without-the-price-tag-2000566328](https://gizmodo.com/sony-soundbar-price-crashes-to-just-98-cinematic-sound-without-the-price-tag-2000566328)
+ - RSS feed: $source
+ - date published: 2025-02-21T14:10:09+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/SonySoundbarS100F.jpg" class="attachment-full size-full wp-post-image" alt="Sonysoundbars100f" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/SonySoundbarS100F.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/SonySoundbarS100F-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/SonySoundbarS100F-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/SonySoundbarS100F-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/SonySoundbarS100F-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/SonySoundbarS100F-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/SonySoundbarS100F-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/SonySoundbarS100F-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Save 25% on the Sony S100F 2.0ch Soundbar over at Amazon for a limited time.
+
+## Marvel Just Stopped Developing a Bunch of TV Shows You Forgot It Was Developing
+ - [https://gizmodo.com/marvel-tv-shows-paused-nova-strange-academy-terror-inc-2000566652](https://gizmodo.com/marvel-tv-shows-paused-nova-strange-academy-terror-inc-2000566652)
+ - RSS feed: $source
+ - date published: 2025-02-21T14:00:57+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/MS-0221-Marvel-Nova-Richard-Rider.jpg" class="attachment-full size-full wp-post-image" alt="Ms 0221 Marvel Nova Richard Rider" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/MS-0221-Marvel-Nova-Richard-Rider.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/MS-0221-Marvel-Nova-Richard-Rider-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/MS-0221-Marvel-Nova-Richard-Rider-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/MS-0221-Marvel-Nova-Richard-Rider-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/MS-0221-Marvel-Nova-Richard-Rider-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/MS-0221-Marvel-Nova-Richard-Rider-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/MS-0221-Marvel-Nova-Richard-Rider-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/MS-0221-Marvel-Nova-Richard-Rider-896x597.jpg 896w" sizes="(max-width: 15
+
+## The Newest Ring Battery Doorbell Plus Finally Drops to Its Lowest Price, Upgrade Your Home Security
+ - [https://gizmodo.com/the-newest-ring-battery-doorbell-plus-finally-drops-to-its-lowest-price-upgrade-your-home-security-2000550096](https://gizmodo.com/the-newest-ring-battery-doorbell-plus-finally-drops-to-its-lowest-price-upgrade-your-home-security-2000550096)
+ - RSS feed: $source
+ - date published: 2025-02-21T13:35:32+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/ringbatterydoorbell.jpg" class="attachment-full size-full wp-post-image" alt="Ringbatterydoorbell" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/ringbatterydoorbell.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/ringbatterydoorbell-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/ringbatterydoorbell-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/ringbatterydoorbell-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/ringbatterydoorbell-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/ringbatterydoorbell-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/ringbatterydoorbell-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/ringbatterydoorbell-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>See who darkens your doorstep without leaving your couch. This Ring Doorbell is 33% off today.
+
+## Ransomware Hackers Come for Paddington Bear
+ - [https://gizmodo.com/ransomware-hackers-come-for-paddington-bear-2000566598](https://gizmodo.com/ransomware-hackers-come-for-paddington-bear-2000566598)
+ - RSS feed: $source
+ - date published: 2025-02-21T13:35:21+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Paddington-in-Peru-io9-Review-2.jpg" class="attachment-full size-full wp-post-image" alt="Paddington In Peru Io9 Review 2" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Paddington-in-Peru-io9-Review-2.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Paddington-in-Peru-io9-Review-2-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Paddington-in-Peru-io9-Review-2-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Paddington-in-Peru-io9-Review-2-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Paddington-in-Peru-io9-Review-2-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Paddington-in-Peru-io9-Review-2-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Paddington-in-Peru-io9-Review-2-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Paddington-in-Peru-io9-Review-2-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"
+
+## Missed the Galaxy S25 Ultra Pre-Order? Samsung Gives You a Second Chance to Save Up to $1,200
+ - [https://gizmodo.com/missed-the-galaxy-s25-ultra-pre-order-samsung-gives-you-a-second-chance-to-save-up-to-1200-2000566267](https://gizmodo.com/missed-the-galaxy-s25-ultra-pre-order-samsung-gives-you-a-second-chance-to-save-up-to-1200-2000566267)
+ - RSS feed: $source
+ - date published: 2025-02-21T13:05:55+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/SamsungGalaxyS25Ultra-.jpg" class="attachment-full size-full wp-post-image" alt="Samsunggalaxys25ultra" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/SamsungGalaxyS25Ultra-.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/SamsungGalaxyS25Ultra--300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/SamsungGalaxyS25Ultra--1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/SamsungGalaxyS25Ultra--768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/SamsungGalaxyS25Ultra--336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/SamsungGalaxyS25Ultra--1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/SamsungGalaxyS25Ultra--680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/SamsungGalaxyS25Ultra--896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Receive up to $900 with an instant trade-in credit and get up to $300 in Sam
+
+## 5 Mythical Tales That Need the Big-Screen Treatment After Christopher Nolan’s The Odyssey
+ - [https://gizmodo.com/5-mythical-tales-that-need-the-big-screen-treatment-after-christopher-nolans-the-odyssey-2000566472](https://gizmodo.com/5-mythical-tales-that-need-the-big-screen-treatment-after-christopher-nolans-the-odyssey-2000566472)
+ - RSS feed: $source
+ - date published: 2025-02-21T01:05:54+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Hadestown-Disney-Hercules-Musical-Webtooon-Lore-Olympus-.jpg" class="attachment-full size-full wp-post-image" alt="Hadestown, Disney Hercules Musical, Webtooon Lore Olympus" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/Hadestown-Disney-Hercules-Musical-Webtooon-Lore-Olympus-.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Hadestown-Disney-Hercules-Musical-Webtooon-Lore-Olympus--300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Hadestown-Disney-Hercules-Musical-Webtooon-Lore-Olympus--1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Hadestown-Disney-Hercules-Musical-Webtooon-Lore-Olympus--768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Hadestown-Disney-Hercules-Musical-Webtooon-Lore-Olympus--336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Hadestown-Disney-Hercules-Musical-Webtooon-Lore-Olympus--1400x932.jpg 1400w, https://gizmod
+

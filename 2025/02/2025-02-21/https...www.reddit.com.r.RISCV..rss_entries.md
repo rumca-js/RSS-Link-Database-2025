@@ -1,0 +1,58 @@
+# Source:The RISC-V Instruction Set Architecture, URL:https://www.reddit.com/r/RISCV/.rss, language:en
+
+## DuckDB now lists (unsupported) build instructions for RISC-V
+ - [https://www.reddit.com/r/RISCV/comments/1iv2x1x/duckdb_now_lists_unsupported_build_instructions](https://www.reddit.com/r/RISCV/comments/1iv2x1x/duckdb_now_lists_unsupported_build_instructions)
+ - RSS feed: $source
+ - date published: 2025-02-21T21:57:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Sorry for the self-promotion, but it looks like we have managed to get on the radar of DuckDB. I really hope more people will try DuckDB on RISC-V.</p> <p><a href="https://duckdb.org/docs/dev/building/unofficial_and_unsupported_platforms#risc-v-architectures">https://duckdb.org/docs/dev/building/unofficial_and_unsupported_platforms#risc-v-architectures</a></p> <p>Thanks to everyone that helped, especially <a href="/u/self">u/self</a>.</p> <p><a href="https://www.reddit.com/r/RISCV/comments/1go1e9i/does_the_spacemit_k1m1_have_the_zihintpause/">https://www.reddit.com/r/RISCV/comments/1go1e9i/does_the_spacemit_k1m1_have_the_zihintpause/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LivingLinux"> /u/LivingLinux </a> <br/> <span><a href="https://www.reddit.com/r/RISCV/comments/1iv2x1x/duckdb_now_lists_unsupported_build_instructions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments
+
+## The fastest RISC-V computer: can it game yet?
+ - [https://www.reddit.com/r/RISCV/comments/1iuv70i/the_fastest_riscv_computer_can_it_game_yet](https://www.reddit.com/r/RISCV/comments/1iuv70i/the_fastest_riscv_computer_can_it_game_yet)
+ - RSS feed: $source
+ - date published: 2025-02-21T16:39:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RISCV/comments/1iuv70i/the_fastest_riscv_computer_can_it_game_yet/"> <img src="https://external-preview.redd.it/8t13MkSJ9w-hfbFfmhEx-lJ1nvsaZ9yHYKzi2v4Gelw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=613c3c79f45aa7a4cc8093436384747dc863abcc" alt="The fastest RISC-V computer: can it game yet?" title="The fastest RISC-V computer: can it game yet?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bi4key"> /u/bi4key </a> <br/> <span><a href="https://youtu.be/1565YYsFmd4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1iuv70i/the_fastest_riscv_computer_can_it_game_yet/">[comments]</a></span> </td></tr></table>
+
+## SpacemiT MUSE Paper is a 10.95 inch RISC-V tablet that runs OpenHarmony OS
+ - [https://www.reddit.com/r/RISCV/comments/1iutukd/spacemit_muse_paper_is_a_1095_inch_riscv_tablet](https://www.reddit.com/r/RISCV/comments/1iutukd/spacemit_muse_paper_is_a_1095_inch_riscv_tablet)
+ - RSS feed: $source
+ - date published: 2025-02-21T15:42:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RISCV/comments/1iutukd/spacemit_muse_paper_is_a_1095_inch_riscv_tablet/"> <img src="https://external-preview.redd.it/iTsfBk6N9j3yVDkLYcluPe-QDhq0vXfRQOdUn9NoVbg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=88c2835ced44aef3659b5049ce1b57ab39fb416f" alt="SpacemiT MUSE Paper is a 10.95 inch RISC-V tablet that runs OpenHarmony OS" title="SpacemiT MUSE Paper is a 10.95 inch RISC-V tablet that runs OpenHarmony OS" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/fullgrid"> /u/fullgrid </a> <br/> <span><a href="https://liliputing.com/spacemit-muse-paper-is-a-10-95-inch-risc-v-tablet-that-runs-openharmony-os/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1iutukd/spacemit_muse_paper_is_a_1095_inch_riscv_tablet/">[comments]</a></span> </td></tr></table>
+
+## SpacemiT X60 RISC V Processor Enables AI and High Speed Storage in Bit Brick K1 Embedded Board SpacemiT X60 RISC V Processor Enables AI and High Speed Storage in Bit Brick K1 Embedded Board
+ - [https://www.reddit.com/r/RISCV/comments/1iurto4/spacemit_x60_risc_v_processor_enables_ai_and_high](https://www.reddit.com/r/RISCV/comments/1iurto4/spacemit_x60_risc_v_processor_enables_ai_and_high)
+ - RSS feed: $source
+ - date published: 2025-02-21T14:13:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RISCV/comments/1iurto4/spacemit_x60_risc_v_processor_enables_ai_and_high/"> <img src="https://external-preview.redd.it/D6qxBH9JRjpTRWAHEDy0KDV9flxSEC1byL63si_BB1U.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f70d25efeb80f4349de6878e971e8a3384c40c5b" alt="SpacemiT X60 RISC V Processor Enables AI and High Speed Storage in Bit Brick K1 Embedded Board SpacemiT X60 RISC V Processor Enables AI and High Speed Storage in Bit Brick K1 Embedded Board" title="SpacemiT X60 RISC V Processor Enables AI and High Speed Storage in Bit Brick K1 Embedded Board SpacemiT X60 RISC V Processor Enables AI and High Speed Storage in Bit Brick K1 Embedded Board" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TJSnider1984"> /u/TJSnider1984 </a> <br/> <span><a href="https://linuxgizmos.com/spacemit-x60-risc-v-processor-enables-ai-and-high-speed-storage-in-bit-brick-k1-embedded-board/">[link]</a></span> &#32; <span><a href="ht
+
+## RISC-V on Frameworks, explained
+ - [https://www.reddit.com/r/RISCV/comments/1iup97h/riscv_on_frameworks_explained](https://www.reddit.com/r/RISCV/comments/1iup97h/riscv_on_frameworks_explained)
+ - RSS feed: $source
+ - date published: 2025-02-21T12:00:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RISCV/comments/1iup97h/riscv_on_frameworks_explained/"> <img src="https://external-preview.redd.it/nRRUtVDE4wdmVXoP0oaOY2C_7GrmRqW9nl-Pk9tGKew.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5e891a4279c67298409f52bbce2fcf2d0e0be258" alt="RISC-V on Frameworks, explained" title="RISC-V on Frameworks, explained" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bi4key"> /u/bi4key </a> <br/> <span><a href="https://youtu.be/xSTDQs2B1vA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1iup97h/riscv_on_frameworks_explained/">[comments]</a></span> </td></tr></table>
+
+## MuseBook RISC-V Laptop is back in stock
+ - [https://www.reddit.com/r/RISCV/comments/1iup4az/musebook_riscv_laptop_is_back_in_stock](https://www.reddit.com/r/RISCV/comments/1iup4az/musebook_riscv_laptop_is_back_in_stock)
+ - RSS feed: $source
+ - date published: 2025-02-21T11:52:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RISCV/comments/1iup4az/musebook_riscv_laptop_is_back_in_stock/"> <img src="https://external-preview.redd.it/tSDwe_lBEzrAt88Tt-u5iKGYl15cMex-fg9_mYE4jG8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=52f11911a0d2b77d06965b98189655bd535fca5d" alt="MuseBook RISC-V Laptop is back in stock" title="MuseBook RISC-V Laptop is back in stock" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/brucehoult"> /u/brucehoult </a> <br/> <span><a href="https://arace.tech/products/muse-book-risc-v-laptop">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1iup4az/musebook_riscv_laptop_is_back_in_stock/">[comments]</a></span> </td></tr></table>
+
+## RISC-V Ratifies the Debug 1.0, Load/Store Pair for RV32, Semihosting, and Server SOC Specifications
+ - [https://www.reddit.com/r/RISCV/comments/1iuop0x/riscv_ratifies_the_debug_10_loadstore_pair_for](https://www.reddit.com/r/RISCV/comments/1iuop0x/riscv_ratifies_the_debug_10_loadstore_pair_for)
+ - RSS feed: $source
+ - date published: 2025-02-21T11:26:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>From Jeff Scheel at RVI:</p> <p>All,</p> <p>The following specifications were ratified in the RISC-V Board of Directors meeting on February 20, 2025:</p> <ul> <li><p>RISC-V Debug Specification version 1.0 (extensions Sdext &amp; Sdtrig as well as non-ISA support) led by Tim Newsome and Paul Donahue under governance of the SOC Infrastructure Horizontal Committee and the Debug Task Group</p></li> <li><p>Load/Store Pair for RV32 specification version 1.0 (Fast Track extensions Zilsd &amp; Zclsd) led by Christian Herber under governance of the Unprivileged ISA Committee</p></li> <li><p>RISC-V Semihosting specification version 1.0 (Fast Track non-ISA) led by Anup Patel under guidance of the Privileged Software Horizontal Committee</p></li> <li><p>RISC-V Server SoC Specification version 1.0 (non-ISA) led by Ved Shanbhogue under the guidance of the SOC Infrastructure Horizontal Committee and the Server SOC Task Group</p></li> </ul> <p>These are the first 4 
+
+## Running baremetal programs on Allwinner D1 without Linux
+ - [https://www.reddit.com/r/RISCV/comments/1iumyy5/running_baremetal_programs_on_allwinner_d1](https://www.reddit.com/r/RISCV/comments/1iumyy5/running_baremetal_programs_on_allwinner_d1)
+ - RSS feed: $source
+ - date published: 2025-02-21T09:26:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RISCV/comments/1iumyy5/running_baremetal_programs_on_allwinner_d1/"> <img src="https://external-preview.redd.it/p7LESHVkJ1uDyk46T8cIvMXpZ29QYZkJ87TQZ68rBag.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=084040441a3cfa3692458615b749751aaad58f09" alt="Running baremetal programs on Allwinner D1 without Linux" title="Running baremetal programs on Allwinner D1 without Linux" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hi All,</p> <p>I want to run a bare-metal program on the Allwinner D1 (Nezha board) without Linux.</p> <p>So far, I have:</p> <ul> <li>Compiled a RISC-V binary (Image) using a cross-compiler. <a href="https://github.com/bigmagic123/d1-nezha-baremeta">https://github.com/bigmagic123/d1-nezha-baremeta</a></li> <li>Connected via UART (Minicom) and accessed U-Boot by stopping autoboot.</li> <li>Tried transferring my binary using Kermit (failed, Carrier required but not detected)</li> <li>Tried transferring my binary usi
+

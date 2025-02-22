@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T21:07:52+00:00",
+        "description": "No matter what your career needs, we can help! Check out our Top 10 Trends video, then explore one of the many ways we can help you achieve your 2025 career goals: https://training.linuxfoundation.org/blog/2025-top-10-it-training-certification-trends/",
+        "id": 2168757,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=wO46rqYwglc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wO46rqYwglc/hqdefault.jpg",
+        "title": "2025 Top 10 IT Training & Certification Trends",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T14:41:30+00:00",
+        "description": "The Spitz Plus GL-X2000 is a 4G LTE Wi-Fi 6 router designed to deliver reliable connectivity for remote work, travel, and rural internet access. It supports advanced network features like Multi-WAN, Failover, and Load Balancing, enhancing connection stability and ensuring dependable performance. The router is powered by a Qualcomm dual-core processor running at 1 GHz, [&#8230;]",
+        "id": 2165528,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/updated-spitz-plus-gl-x2000-is-an-upcoming-wi-fi-6-and-4g-lte-cat-12-router",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "(Updated) Spitz Plus GL-X2000 is an Upcoming Wi-Fi 6 and 4G LTE CAT 12 Router",
+        "vote": 0
+    }
+]

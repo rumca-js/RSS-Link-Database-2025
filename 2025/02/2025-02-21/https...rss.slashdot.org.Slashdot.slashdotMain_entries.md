@@ -1,0 +1,168 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## OpenAI Plans To Shift Compute Needs From Microsoft To SoftBank
+ - [https://slashdot.org/story/25/02/21/2131244/openai-plans-to-shift-compute-needs-from-microsoft-to-softbank?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/25/02/21/2131244/openai-plans-to-shift-compute-needs-from-microsoft-to-softbank?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-21T23:07:37+00:00
+
+According to The Information (paywalled), OpenAI plans to shift most of its computing power from Microsoft to SoftBank-backed Stargate by 2030. TechCrunch reports: That represents a major shift away from Microsoft, OpenAI's biggest shareholder, who fulfills most of the startup's power needs today. The change won't happen overnight. OpenAI still plans to increase its spending on Microsoft-owned data centers in the next few years.
+ 
+During that time, OpenAI's overall costs are set to grow dramatically. The Information reports that OpenAI projects to burn $20 billion in cash during 2027, far more than the $5 billion it reportedly burned through in 2024. By 2030, OpenAI reportedly forecasts that its costs around running AI models, also known as inference, will outpace what the startup spends on training AI models.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=OpenAI+Plans+To+Shift+Compute+Needs+From+Microsoft+To+SoftB
+
+## The GSA Is Shutting Down Its EV Chargers
+ - [https://hardware.slashdot.org/story/25/02/21/2143227/the-gsa-is-shutting-down-its-ev-chargers?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/25/02/21/2143227/the-gsa-is-shutting-down-its-ev-chargers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-21T23:07:37+00:00
+
+The General Services Administration (GSA) is shutting down its nationwide electric vehicle (EV) chargers, deeming them "not mission critical." The U.S. government agency also plans to offload newly purchased EVs, reversing initiatives from the Biden administration aimed at transitioning the federal vehicle fleet to electric. The Verge reports: The GSA currently operates several hundred EV chargers across the country, with approximately 8,000 plugs that are available for government-owned EVs as well as federal employees' personally owned vehicles.
+ 
+The official guidance instructing federal workers to begin the process of shutting down the chargers will be announced internally next week, according to a source with knowledge of the plans. Some regional offices have been told to start taking their chargers offline, according to an email viewed by The Verge. "As GSA has worked to align with the current administration, we have received direction that all GSA owned charging stations are no
+
+## India's 'Human Calculator Kid' Shatters 6 World Records In a Single Day
+ - [https://science.slashdot.org/story/25/02/21/2125209/indias-human-calculator-kid-shatters-6-world-records-in-a-single-day?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/25/02/21/2125209/indias-human-calculator-kid-shatters-6-world-records-in-a-single-day?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-21T22:02:28+00:00
+
+An anonymous reader quotes a report from Gizmodo: Fourteen-year-old Aaryan Shukla cruised through six mental math calculation world records in a single day, according to a Guinness World Records statement published on February 12, earning the well-deserved nickname, "human calculator kid." Specifically, it took Shukla:
+ - 30.9 seconds to mentally add 100 four-digit numbers - One minute and 9.68 seconds to mentally add 200 four-digit numbers - 18.71 seconds to mentally add 50 five-digit numbers - Five minutes and 42 seconds to mentally divide a 20-digit number by a ten-digit number ten times - 51.69 seconds to mentally multiply two five-digit numbers ten times - Two minutes and 35.41 seconds to mentally multiply two eight-digit numbers ten times
+ 
+According to the statement, these are among the most difficult mental calculation world records ever attempted. Shukla's frankly mind-boggling achievement also comes in the wake of another world record he broke in April 2024 at the age of 13
+
+## DeepSeek To Share Some AI Model Code
+ - [https://news.slashdot.org/story/25/02/21/1842227/deepseek-to-share-some-ai-model-code?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/25/02/21/1842227/deepseek-to-share-some-ai-model-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-21T18:47:36+00:00
+
+Chinese startup DeepSeek will make its models' code publicly available, it said on Friday, doubling down on its commitment to open-source artificial intelligence. From a report: The company said in a post on social media platform X that it will open source 5 code repositories next week, describing the move as "small but sincere progress" that it will share "with full transparency." 
+
+"These humble building blocks in our online service have been documented, deployed and battle-tested in production." the post said. DeepSeek rattled the global AI industry last month when it released its open-source R1 reasoning model, which rivaled Western systems in performance while being developed at a lower cost.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=DeepSeek+To+Share+Some+AI+Model+Code%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F25%2F02%2F21%2F1842227%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a
+
+## HP Ends Forced 15-Minute Wait Times for Customer Support
+ - [https://it.slashdot.org/story/25/02/21/1740213/hp-ends-forced-15-minute-wait-times-for-customer-support?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/25/02/21/1740213/hp-ends-forced-15-minute-wait-times-for-customer-support?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-21T18:47:36+00:00
+
+HP has ended its controversial practice of imposing mandatory 15-minute wait times for customer support calls in several European countries, following internal pushback and customer complaints. 
+
+The company confirmed the reversal and said it will "continue to prioritize timely access to live phone support."<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=HP+Ends+Forced+15-Minute+Wait+Times+for+Customer+Support%3A+https%3A%2F%2Fit.slashdot.org%2Fstory%2F25%2F02%2F21%2F1740213%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png"></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F25%2F02%2F21%2F1740213%2Fhp-ends-forced-15-minute-wait-times-for-customer-support%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"><img src="https://a.fsdn.com/sd/facebook_icon_large.png"></a>
+
+
+
+</div></p><p><a href="https://it.slash
+
+## Bybit CEO Confirms Exchange Was Hacked for $1.46B, Says His Firm Can Cover The Loss
+ - [https://it.slashdot.org/story/25/02/21/1630207/bybit-ceo-confirms-exchange-was-hacked-for-146b-says-his-firm-can-cover-the-loss?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/25/02/21/1630207/bybit-ceo-confirms-exchange-was-hacked-for-146b-says-his-firm-can-cover-the-loss?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-21T17:42:17+00:00
+
+Cryptocurrency exchange Bybit has experienced $1.46 billion worth of "suspicious outflows," according to blockchain sleuth ZachXBT. From a report: The wallet in question appears to have sent 401,346 ETH ($1.1 billion) as well as several other iterations of staked ether (stETH) to a fresh wallet, which is now liquidating mETH and stETH on decentralized exchanges, etherscan shows. The wallet has sold around $200 million worth of stETH so far. Bybit CEO Ben Zhou wrote on X that a hacker "took control of the specific ETH cold wallet and transferred all the ETH in the cold wallet to this unidentified address."<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=Bybit+CEO+Confirms+Exchange+Was+Hacked+for+%241.46B%2C+Says+His+Firm+Can+Cover+The+Loss%3A+https%3A%2F%2Fit.slashdot.org%2Fstory%2F25%2F02%2F21%2F1630207%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png"></a>
+<a 
+
+## Apple Removes Cloud Encryption Feature From UK After Backdoor Order
+ - [https://apple.slashdot.org/story/25/02/21/1529255/apple-removes-cloud-encryption-feature-from-uk-after-backdoor-order?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://apple.slashdot.org/story/25/02/21/1529255/apple-removes-cloud-encryption-feature-from-uk-after-backdoor-order?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-21T16:37:43+00:00
+
+Apple is removing its most advanced, end-to-end encrypted security feature for cloud data in the United Kingdom [alternative source], in a stunning development after the government ordered the company to build a backdoor for accessing user data. From a report: The company said Friday that Advanced Data Protection, an optional feature that adds end-to-end encryption to a wide assortment of user data is no longer available in the UK for new users. 
+
+This layer of security covers iCloud data storage, device backups, web bookmarks, voice memos, notes, photos, reminders and text message backups. "We are gravely disappointed that the protections provided by ADP will not be available to our customers in the UK given the continuing rise of data breaches and other threats to customer privacy," the company said in a statement. "ADP protects iCloud data with end-to-end encryption, which means the data can only be decrypted by the user who owns it, and only on their trusted devices."<p><div clas
+
+## New WinRAR Version Strips Windows Metadata In Privacy Push
+ - [https://yro.slashdot.org/story/25/02/21/1616245/new-winrar-version-strips-windows-metadata-in-privacy-push?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/25/02/21/1616245/new-winrar-version-strips-windows-metadata-in-privacy-push?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-21T16:37:43+00:00
+
+WinRAR 7.10 now lets users remove potentially sensitive metadata from downloaded files while preserving core Windows security features. The file compression tool's latest release introduces a "Zone value only" setting that strips download locations and IP addresses from Windows' Mark-of-the-Web security flags during file extraction. 
+
+The new privacy control, enabled by default, maintains only the basic security zone identifier that triggers Windows' safety prompts for downloaded files. This change prevents recipients of shared archives from accessing metadata that could reveal where files originated. The update from win.rar GmbH, whose compression software claims 500 million users worldwide, also adds performance improvements through larger memory page support and introduces a dark mode interface.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=New+WinRAR+Version+Strips+Windows+Metadata+In+Privacy+Push%3A+https%3A%
+
+## AI Is Prompting an Evolution, Not Extinction, for Coders
+ - [https://developers.slashdot.org/story/25/02/21/1113219/ai-is-prompting-an-evolution-not-extinction-for-coders?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://developers.slashdot.org/story/25/02/21/1113219/ai-is-prompting-an-evolution-not-extinction-for-coders?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-21T15:32:22+00:00
+
+AI coding assistants are reshaping software development, but they're unlikely to replace human programmers entirely, according to industry experts and developers. GitHub CEO Thomas Dohmke projects AI could soon generate 80-90% of corporate code, transforming developers into "conductors of an AI-empowered orchestra" who guide and direct these systems. 
+
+Current AI coding tools, including Microsoft's GitHub Copilot, are delivering 10-30% productivity gains in business environments. At KPMG, developers report saving 4.5 hours weekly using Copilot, while venture investment in AI coding assistants tripled to $1.6 billion in 2024. The tools are particularly effective at automating routine tasks like documentation generation and legacy code translation, according to KPMG AI expert Swami Chandrasekaran. 
+
+They're also accelerating onboarding for new team members. Demand for junior developers remains soft, however, though analysts say it's premature to attribute this directly to AI adoption. 
+
+## Software Engineering Job Openings Hit Five-Year Low
+ - [https://tech.slashdot.org/story/25/02/21/111216/software-engineering-job-openings-hit-five-year-low?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/25/02/21/111216/software-engineering-job-openings-hit-five-year-low?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-21T14:28:13+00:00
+
+Software engineering job listings have plummeted to a five-year low, with postings on Indeed dropping to 65% of January 2020 levels -- a steeper decline than any other tech-adjacent field. According to data from Indeed's job aggregator, software development positions are now at 3.5x fewer vacancies compared to their mid-2022 peak and 8% lower than a year ago. 
+
+The decline appears driven by multiple factors including widespread adoption of AI coding tools -- with 75% of engineers reporting use of AI assistance -- and a broader tech industry recalibration after aggressive pandemic-era hiring. Notable tech companies like Salesforce are maintaining flat engineering headcount while reporting 30% productivity gains from AI tools, according to an analysis by software engineer Gergely Orosz. 
+
+While the overall job market shows 10% growth since 2020, software development joins other tech-focused sectors in decline: marketing (-19%), hospitality (-18%), and banking/finance (-7%). Traditional
+
+## AI Cracks Superbug Problem In Two Days That Took Scientists Years
+ - [https://science.slashdot.org/story/25/02/21/0244216/ai-cracks-superbug-problem-in-two-days-that-took-scientists-years?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/25/02/21/0244216/ai-cracks-superbug-problem-in-two-days-that-took-scientists-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-21T10:13:43+00:00
+
+A new AI tool developed by Google solved a decade-long superbug mystery in just two days, reaching the same conclusion as Professor Jose R Penades' unpublished research and even offering additional, promising hypotheses. The BBC reports: The researchers have been trying to find out how some superbugs - dangerous germs that are resistant to antibiotics - get created. Their hypothesis is that the superbugs can form a tail from different viruses which allows them to spread between species. Prof Penades likened it to the superbugs having "keys" which enabled them to move from home to home, or host species to host species.
+ 
+Critically, this hypothesis was unique to the research team and had not been published anywhere else. Nobody in the team had shared their findings. So Mr Penades was happy to use this to test Google's new AI tool. Just two days later, the AI returned a few hypotheses - and its first thought, the top answer provided, suggested superbugs may take tails in exactly the wa
+
+## California Takes Steps Toward Officially Recognizing Bigfoot
+ - [https://yro.slashdot.org/story/25/02/21/0234244/california-takes-steps-toward-officially-recognizing-bigfoot?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/25/02/21/0234244/california-takes-steps-toward-officially-recognizing-bigfoot?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-21T08:05:25+00:00
+
+California is considering officially recognizing Bigfoot as its state cryptid through Assembly Bill 666, introduced last week by North Coast Assemblymember Chris Rogers. "Rogers' district spans Del Norte, Humboldt, Mendocino, Sonoma and Trinity counties, a region known as the epicenter of Bigfoot lore," reports SFGATE. From the report: Assemblyman Rogers' Assembly Bill 666 is still in its early stages. According to the California Legislative Information website, the bill's title has been read aloud in the state Assembly and is now being printed and distributed to committee members for review. If it clears committee, it must then pass the Assembly and Senate before reaching the governor's desk to be signed into law.
+ 
+[Matt Moneymaker, a longtime Bigfoot researcher and former star of the Animal Planet series 'Finding Bigfoot], is eager to witness history. "If there's going to be a date, an occasion when they're voting on whether or not to make it the official cryptid, I would love to 
+
+## Ghost Ransomware Continues To Infect Critical Infrastructure, Feds Warn
+ - [https://it.slashdot.org/story/25/02/21/0032236/ghost-ransomware-continues-to-infect-critical-infrastructure-feds-warn?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/25/02/21/0032236/ghost-ransomware-continues-to-infect-critical-infrastructure-feds-warn?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-21T08:05:25+00:00
+
+Mirnotoriety shares a report from The Register: The operators of Ghost ransomware continue to claim victims and score payments, but keeping the crooks at bay is possible by patching known vulnerabilities and some basic infosec actions, according to a joint advisory issued Wednesday by the FBI and US Cybersecurity and Infrastructure Security Agency. The Feds warned orgs to beware of this spectral menace, which is known to have infected critical infrastructure and entities in every sector of a typical economy, and which has been observed scoring ransoms as recently as January. It is said to have racked up victims in more than 70 countries, including some in its China homeland.
+ 
+Ghost first appeared in 2021, and according to the Feds, the gang will "rotate their ransomware executable payloads, switch file extensions for encrypted files, modify ransom note text, and use numerous ransom email addresses, which has led to variable attribution of this group over time." The Chinese group has
+
+## Meta Claims Torrenting Pirated Books Isn't Illegal Without Proof of Seeding
+ - [https://yro.slashdot.org/story/25/02/21/0051232/meta-claims-torrenting-pirated-books-isnt-illegal-without-proof-of-seeding?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/25/02/21/0051232/meta-claims-torrenting-pirated-books-isnt-illegal-without-proof-of-seeding?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-21T08:05:25+00:00
+
+An anonymous reader quotes a report from Ars Technica: Just because Meta admitted to torrenting a dataset of pirated books for AI training purposes, that doesn't necessarily mean that Meta seeded the file after downloading it, the social media company claimed in a court filing (PDF) this week. Evidence instead shows that Meta "took precautions not to 'seed' any downloaded files," Meta's filing said. Seeding refers to sharing a torrented file after the download completes, and because there's allegedly no proof of such "seeding," Meta insisted that authors cannot prove Meta shared the pirated books with anyone during the torrenting process.
+ 
+[...] Meta ... is hoping to convince the court that torrenting is not in and of itself illegal, but is, rather, a "widely-used protocol to download large files." According to Meta, the decision to download the pirated books dataset from pirate libraries like LibGen and Z-Library was simply a move to access "data from a 'well-known online repositor
+
+## Netflix To Invest $1 Billion In Mexico Over Next 4 Years
+ - [https://entertainment.slashdot.org/story/25/02/20/2220246/netflix-to-invest-1-billion-in-mexico-over-next-4-years?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://entertainment.slashdot.org/story/25/02/20/2220246/netflix-to-invest-1-billion-in-mexico-over-next-4-years?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-21T08:05:25+00:00
+
+An anonymous reader quotes a report from Reuters: The chief executive of streaming giant Netflix on Thursday announced a $1 billion investment to produce some 20 films and TV series in Mexico annually over the next four years. Speaking at President Claudia Sheinbaum's morning press conference in Mexico City, Netflix CEO Ted Sarandos said he looked forward to entering more partnerships with producers in the Latin American nation. Sheinbaum said the investments in the film industry should produce many jobs beyond immediate production needs, such as hospitality for actors and crew members, fashion designers and also spur tourism. "It's an industry that gives a lot of mileage to the economy," Sheinbaum said. "It's not only important for Mexico to be seen in the world, but also because of the economic development and jobs generated by a production."<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=Netflix+To+Invest+%241+B
+
+## Rivian Reports First Quarter of 'Positive Gross Profit'
+ - [https://tech.slashdot.org/story/25/02/21/029217/rivian-reports-first-quarter-of-positive-gross-profit?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/25/02/21/029217/rivian-reports-first-quarter-of-positive-gross-profit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-21T08:05:25+00:00
+
+Rivian reported its first-ever positive gross profit of $170 million in Q4 2024, driven by cost reductions and increased regulatory credit sales, despite a $4.7 billion net loss for the year. The company said it expects to sell 46,000-51,000 vehicles this year and achieve "modest gross profit." The Verge reports: Rivian reported $170 million in positive gross profits, which includes production and sales but does not factor in other expenses, for the three-month period that ended December 31, 2024. That was based on $1.7 billion in revenues. The company said its net loss for the fourth quarter was $743 million, as compared to $1.5 billion in net losses in the same period in 2023.
+ 
+Rivian earned $4.5 billion in revenue for the full year 2024, based on the delivery of 51,579 vehicles. It record a net loss of $4.7 billion, compared to $5.4 billion in 2023. Rivian cited increased revenue from the sale of regulatory credits to other automakers, which is also a primary revenue driver for T
+
+## YouTube Plans Lower-Priced, Ad-Free Version of Paid Video Tier
+ - [https://news.slashdot.org/story/25/02/21/0023214/youtube-plans-lower-priced-ad-free-version-of-paid-video-tier?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/25/02/21/0023214/youtube-plans-lower-priced-ad-free-version-of-paid-video-tier?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-21T08:05:25+00:00
+
+According to Bloomberg, YouTube plans to introduce a lower-priced, ad-free version of its paid video service. From the report: The package, dubbed "premium lite," will be announced soon in the US, Australia, Germany and Thailand, according to a person familiar with the plans. The service will target viewers who primarily want to watch programs other than music videos. While YouTube may be best known for the free videos uploaded by users, the company also offers a variety of paid services. YouTube Premium is a $13.99-a-month package in the US that lets subscribers watch everything on the service, including music videos, without ads.
+ 
+"As part of our commitment to provide our users with more choice and flexibility, we've been testing a new YouTube Premium offering with most videos ad-free in several of our markets," a YouTube spokesperson said in a statement. "We're hoping to expand this offering to even more users in the future with our partners' support."<p><div class="share_submiss
+

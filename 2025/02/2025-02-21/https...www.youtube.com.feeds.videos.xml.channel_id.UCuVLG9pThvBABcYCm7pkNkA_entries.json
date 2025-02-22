@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Climate Town",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T15:58:23+00:00",
+        "description": "Kinda super wrong. Check out the whole video for more and also subscribe I guess.\nhttps://www.youtube.com/c/climatetown?sub_confirmation=1",
+        "id": 2166181,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=0CPHgR8vK0w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 71,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuVLG9pThvBABcYCm7pkNkA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0CPHgR8vK0w/hqdefault.jpg",
+        "title": "Please Stop Believing Anti-Wind Propaganda On TV",
+        "vote": 0
+    }
+]

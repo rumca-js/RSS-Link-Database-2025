@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T15:00:42+00:00",
+        "description": "YC General Partner David Lieb sits down with Aravind Srinivas, the co-founder and CEO of Perplexity, to discuss his origins in Silicon Valley, what it's like to compete with Google, and what the future of search could look like.\n\nApply to Y Combinator: https://ycombinator.com/apply\n\n0:00 Intro \n0:51 Aravind\u2019s early days in AI\n3:45 What made Aravind start a company\n6:35 The first iterations \n14:10 Realizing Perplexity had potential \n19:02 \u201cThe user is never wrong.\u201d\n22:20 Managing the team\n24:53 Brutal honesty brings out the worst bugs\n25:33 Avoiding becoming a big slow company\n27:37 The future of search\n31:11 Perplexity\u2019s advantage against its competitors\n34:26 Outro",
+        "id": 2165664,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=SP7Ua8FKZN4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SP7Ua8FKZN4/hqdefault.jpg",
+        "title": "How To Build The Future: Aravind Srinivas",
+        "vote": 0
+    }
+]

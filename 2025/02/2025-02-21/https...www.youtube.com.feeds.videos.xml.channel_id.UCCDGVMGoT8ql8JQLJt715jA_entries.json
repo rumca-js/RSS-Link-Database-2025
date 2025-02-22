@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "emzdanowicz",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T16:58:45+00:00",
+        "description": "Turn your videos into live streams with https://restream.io\n\nDonate: https://tipply.pl/@emzdanowicz\n\nOpen beta nowego Fatal Fury, jedziemy!",
+        "id": 2166670,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=MSfgm5EswcY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 408,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCDGVMGoT8ql8JQLJt715jA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MSfgm5EswcY/hqdefault.jpg",
+        "title": "Najpierw Fatal Fury, potem kopanie dziury",
+        "vote": 0
+    }
+]

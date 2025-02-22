@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T18:00:22+00:00",
+        "description": "JRE #2276 w/Felipe Esparza\nYouTube: https://youtu.be/bYFJN50o9LM\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 2167496,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=UqI_wF74QeE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UqI_wF74QeE/hqdefault.jpg",
+        "title": "The Gross Truth About Poop in the Streets of NYC and Liquified Human Remains",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-21T11:01:20+00:00",
+        "description": "Learn more about artificial intelligence \u2192 https://ibm.biz/BdGJfu\n\nWhat is all the hype around Deep Research? In episode 43 of Mixture of Experts, host Tim Hwang is joined by Kate Soule, Volkmar Uhlig and Shobhit Varshney. This week, we discuss reasoning model features coming out of companies like OpenAI\u2019s Deep Research, Google Gemini, Perplexity, xAI\u2019s Grok-3 and more! Next, OpenAI is rumored to release an inference chip, but how likely is this to be a success in the AI chip game? Then, we analyze the capabilities of small vision-language models (VLMs). Finally, a startup, Firecrawl, released a job posting in search of an AI agent. Is this the future for AI tools in the workforce? Tune-in to today\u2019s Mixture of Experts to find out. \n\n00:00 \u2013 Intro \n00:35 \u2013 Deep Research \n11:58 \u2013 OpenAI inference chip \n22:17 \u2013 Small VLMs \n32:31 \u2013 AI agent job posting \n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any oth",
+        "id": 2164443,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=y4gm_4UFT28",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/y4gm_4UFT28/hqdefault.jpg",
+        "title": "Deep Research, OpenAI inference chip, small VLMs, and AI agent job posting",
+        "vote": 0
+    }
+]
