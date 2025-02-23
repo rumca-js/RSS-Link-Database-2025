@@ -1,0 +1,86 @@
+# Source:webscraping, URL:https://www.reddit.com/r/webscraping/.rss, language:en
+
+## Email & Google_Maps Scraping
+ - [https://www.reddit.com/r/webscraping/comments/1ivp2sw/email_google_maps_scraping](https://www.reddit.com/r/webscraping/comments/1ivp2sw/email_google_maps_scraping)
+ - RSS feed: $source
+ - date published: 2025-02-22T18:12:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>i have created a free scraping tool for scraping email and google buisness from maps. this is a free tool you can use with GUI you can use of it. you can get all details in it. if you need anything extra let me know in dm i l update in Github Repo <a href="https://github.com/lohitsdev/Email-and-Map-Scraper">Email and Google_maps Scraping</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gloomy_Snow2943"> /u/Gloomy_Snow2943 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1ivp2sw/email_google_maps_scraping/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1ivp2sw/email_google_maps_scraping/">[comments]</a></span>
+
+## Webpages -> Markdown conversion
+ - [https://www.reddit.com/r/webscraping/comments/1ivoqef/webpages_markdown_conversion](https://www.reddit.com/r/webscraping/comments/1ivoqef/webpages_markdown_conversion)
+ - RSS feed: $source
+ - date published: 2025-02-22T17:58:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/webscraping/comments/1ivoqef/webpages_markdown_conversion/"> <img src="https://b.thumbs.redditmedia.com/nKYZ5lExkZpd96sHXnZQryn19_IH1hvZCr-O7VI_8PM.jpg" alt="Webpages -&gt; Markdown conversion" title="Webpages -&gt; Markdown conversion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Anuj4799"> /u/Anuj4799 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ivoqef">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1ivoqef/webpages_markdown_conversion/">[comments]</a></span> </td></tr></table>
+
+## Scraping airline data
+ - [https://www.reddit.com/r/webscraping/comments/1ivoc98/scraping_airline_data](https://www.reddit.com/r/webscraping/comments/1ivoc98/scraping_airline_data)
+ - RSS feed: $source
+ - date published: 2025-02-22T17:42:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, after several unsuccessful attempts to scrape data from airline website (<a href="https://www.torontopearson.com/en/departures">https://www.torontopearson.com/en/departures</a> for example) was wondering what am i doing wrong; i have used BeautifulSoup in Python, but for some reason am unable to get any data from it and access any flight data. Is it possible to do that using some technology? Thank you for reading, am a bit new to web scraping.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/slomil93"> /u/slomil93 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1ivoc98/scraping_airline_data/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1ivoc98/scraping_airline_data/">[comments]</a></span>
+
+## Scrap Google Listing but only with reviews more than 5000.
+ - [https://www.reddit.com/r/webscraping/comments/1ivlnmd/scrap_google_listing_but_only_with_reviews_more](https://www.reddit.com/r/webscraping/comments/1ivlnmd/scrap_google_listing_but_only_with_reviews_more)
+ - RSS feed: $source
+ - date published: 2025-02-22T15:49:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m looking for a method or tool to scrape Google My Business listings, but with a specific filter: I only need listings that have more than 5,000 reviews. Location and business industry do not matter to me — the key requirement is the number of reviews. Does anyone know of any scraping techniques, libraries, or tools that can help me filter based on this criterion? Any guidance or resources would be greatly appreciated!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/krrish253"> /u/krrish253 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1ivlnmd/scrap_google_listing_but_only_with_reviews_more/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1ivlnmd/scrap_google_listing_but_only_with_reviews_more/">[comments]</a></span>
+
+## Create a scraper for a specific site
+ - [https://www.reddit.com/r/webscraping/comments/1ivji3j/create_a_scraper_for_a_specific_site](https://www.reddit.com/r/webscraping/comments/1ivji3j/create_a_scraper_for_a_specific_site)
+ - RSS feed: $source
+ - date published: 2025-02-22T14:07:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Trying to scrape a site and keep getting blocked, willing to pay somene to create a usable scraper for this site. dm me for details.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Economy_Ad_8889"> /u/Economy_Ad_8889 </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1ivji3j/create_a_scraper_for_a_specific_site/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1ivji3j/create_a_scraper_for_a_specific_site/">[comments]</a></span>
+
+## Any product making good money with web-scraping?
+ - [https://www.reddit.com/r/webscraping/comments/1ivijdi/any_product_making_good_money_with_webscraping](https://www.reddit.com/r/webscraping/comments/1ivijdi/any_product_making_good_money_with_webscraping)
+ - RSS feed: $source
+ - date published: 2025-02-22T13:18:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m curious to learn about real-world success stories where web scraping is the core of a business or product. Are there any products or services or even site projects you know of that rely entirely on web scraping and are generating significant revenue? It could be anything—price monitoring, lead generation, market research, etc. Would love to hear about such examples!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sangeeeeta"> /u/sangeeeeta </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1ivijdi/any_product_making_good_money_with_webscraping/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1ivijdi/any_product_making_good_money_with_webscraping/">[comments]</a></span>
+
+## Yelp Fusion API "NOT_FOUND" error when requesting reviews (Python)
+ - [https://www.reddit.com/r/webscraping/comments/1ivggvp/yelp_fusion_api_not_found_error_when_requesting](https://www.reddit.com/r/webscraping/comments/1ivggvp/yelp_fusion_api_not_found_error_when_requesting)
+ - RSS feed: $source
+ - date published: 2025-02-22T11:10:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m working on a project that requires extracting reviews from Yelp, specifically those containing certain keywords. I&#39;ve successfully written a Python script to retrieve business IDs, but I&#39;m running into trouble when trying to extract the actual reviews.</p> <p>I&#39;m using the Yelp Fusion API and making requests to the <code>/businesses/{id}/reviews</code> endpoint. However, I consistently receive a <code>NOT_FOUND</code> error, even when using business IDs that I&#39;ve confirmed are valid (I can find the business on Yelp&#39;s website).</p> <p>[<a href="https://api.yelp.com/v3/businesses/%7Bbusiness%5C_id%5C_or%5C_alias%7D/reviews%5C">https://api.yelp.com/v3/businesses/{business\_id\_or\_alias}/reviews\</a>]</p> <p>This is the error thats displayed.</p> <pre><code>{ &quot;error&quot;: { &quot;code&quot;: &quot;NOT_FOUND&quot;, &quot;description&quot;: &quot;Resource could not be found.&quot; } } </code></pre> <p>Why cant i fetch the
+
+## Dropdown list of values copy to clipboard in single click
+ - [https://www.reddit.com/r/webscraping/comments/1ivg7lr/dropdown_list_of_values_copy_to_clipboard_in](https://www.reddit.com/r/webscraping/comments/1ivg7lr/dropdown_list_of_values_copy_to_clipboard_in)
+ - RSS feed: $source
+ - date published: 2025-02-22T10:52:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>I like to recommend fetchMe extension for easily copy list of values and multiple options in single click </p> <p><a href="https://chromewebstore.google.com/detail/fetchme/pfkneadcjfmhobhibbgddokiodjnjpin?hl=en&amp;authuser=0">https://chromewebstore.google.com/detail/fetchme/pfkneadcjfmhobhibbgddokiodjnjpin?hl=en&amp;authuser=0</a></p> <p>Features 💭</p> <ol> <li><p>Copy to clipboard the text or list in a single click.</p></li> <li><p>The ‘fetchMe’ is dynamically built, and functions based on direct elements or their parent/child relationships.</p></li> <li><p>It can copy all types of content: text, numbers, symbols, list values, and paragraphs.</p></li> <li><p>No additional pop-ups to avoid extra clicks by the user. Simplified for user selection.</p></li> <li><p>Able to copy text from web pages that have CTRL+C restrictions.</p></li> <li><p>Able to copy the tooltips in the title of span elements</p></li> <li><p>User able to switch to page ruler to me
+
+## Just wrote a scrapper to scrape home depot
+ - [https://www.reddit.com/r/webscraping/comments/1ivf67e/just_wrote_a_scrapper_to_scrape_home_depot](https://www.reddit.com/r/webscraping/comments/1ivf67e/just_wrote_a_scrapper_to_scrape_home_depot)
+ - RSS feed: $source
+ - date published: 2025-02-22T09:37:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Starting from sitmap, scraped all categories, n number of products and product details. Feels amazing :) </p> <p>Example ```<br/> { &quot;url&quot;: &quot;<a href="https://www.homedepot.com/p/Vissani-7-0-cu-ft-Manual-Defrost-Chest-Freezer-with-LED-Light-in-White-Garage-Ready-HMCF7W5/325590289">https://www.homedepot.com/p/Vissani-7-0-cu-ft-Manual-Defrost-Chest-Freezer-with-LED-Light-in-White-Garage-Ready-HMCF7W5/325590289</a>&quot;, &quot;product_name&quot;: &quot;Best SellerVissani7.0 cu. ft. Manual Defrost Chest Freezer with LED Light in White Garage Ready(1640)Questions &amp; Answers (239)&quot;, &quot;price&quot;: &quot;$189.00&quot;, &quot;about_product&quot;: &quot;Bring freshness to your life with the garage ready VISSANI 7.0 cu. ft. chest freezer. With the freezer&#39;s interior LED light, you can easily find your frozen foods. This product is tested to perform indoors from 0\u00b0F to 110\u00b0F as well as 500 hour salt spray test for corrosi
+
+## Beginner web scraper - Was the 15 hour course a waste of time?
+ - [https://www.reddit.com/r/webscraping/comments/1ivev80/beginner_web_scraper_was_the_15_hour_course_a](https://www.reddit.com/r/webscraping/comments/1ivev80/beginner_web_scraper_was_the_15_hour_course_a)
+ - RSS feed: $source
+ - date published: 2025-02-22T09:15:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just finished a ~15-hour course on web scraping covering BeautifulSoup, Selenium and Scrapy.</p> <p>I have now started a mini project, but on every webpage I want to scrape data from, I am able to navigate to Inspect -&gt; Network and access the fetch request for the JSON data (I believe the terminology is &quot;API endpoint&quot;) directly.</p> <p>Now, presumably almost every (big) website uses this strategy, namely when a webpage is loaded, they send a request to the backend for the JSON data. Can I not always just access this JSON data myself using the Python requests library?</p> <p>If so, was the course a waste, practically speaking? As it seems that all I have to do is know how to work with JSON/dictionaries.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LifetimeBonds"> /u/LifetimeBonds </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1ivev80/beginner_web_scraper_was_the_15_hour_
+
+## Custom Plate Availability checking script
+ - [https://www.reddit.com/r/webscraping/comments/1ivd6ly/custom_plate_availability_checking_script](https://www.reddit.com/r/webscraping/comments/1ivd6ly/custom_plate_availability_checking_script)
+ - RSS feed: $source
+ - date published: 2025-02-22T07:14:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m looking for assistance with automating the process of checking available 2 and 3 letter custom license plates from VicRoads (<a href="https://vplates.com.au/">https://vplates.com.au/</a>). While I have a basic understanding of scripting, I’m encountering issues when trying to automate this task.</p> <p>To streamline the process, I’ve written a script to generate all possible 2 letter combinations and check their availability. However, I’m running into Cloudflare 403 and 429 errors that are blocking my requests. Here’s the code I’m using: <a href="https://codefile.io/f/Xz4ln9JsgF">code with claudeAI</a></p> <p>Is there a more efficient way to check multiple combinations at once or a recommended approach for bypassing these errors? Any insights or suggestions would be greatly appreciated.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/janalpadi"> /u/janalpadi </a> <br/> <span><a href="https://www.reddit.c
+
+## Scraping what I assume is JavaScript rendered site
+ - [https://www.reddit.com/r/webscraping/comments/1iv807g/scraping_what_i_assume_is_javascript_rendered_site](https://www.reddit.com/r/webscraping/comments/1iv807g/scraping_what_i_assume_is_javascript_rendered_site)
+ - RSS feed: $source
+ - date published: 2025-02-22T02:10:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>The site is below. Using Selenium , I need to search for the Chinese character then navigate to the appropriate tab to scrape the data. All the tabs are successfully scraped, except the etymology tab. In a web browser, without ad blockers, an ad pops up when going to the etymology tab. For the life of me, I can&#39;t seem to close it, whatever I try. Regrdless of the ad, this tab is right click protected too. Any suggestions? <a href="https://www.yellowbridge.com/chinese/character-dictionary.php">https://www.yellowbridge.com/chinese/character-dictionary.php</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/decisively-undecided"> /u/decisively-undecided </a> <br/> <span><a href="https://www.reddit.com/r/webscraping/comments/1iv807g/scraping_what_i_assume_is_javascript_rendered_site/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/webscraping/comments/1iv807g/scraping_what_i_assume_is_javascript
+

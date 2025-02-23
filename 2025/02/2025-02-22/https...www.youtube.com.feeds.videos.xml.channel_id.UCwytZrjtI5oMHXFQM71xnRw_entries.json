@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AugustTheDuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-22T02:35:00+00:00",
+        "description": "MrBeast recently released a video titled \"Every Minute We Kill Someone\", which seems to be a peek behind the curtains into the boundaries that MrBeast will be trying tp push moving forward. Buckle up.\n\nprevious video: https://www.youtube.com/watch?v=AVlecXjE9HU\nfollow me on instagram!: https://www.instagram.com/oohgust/\nfollow me on twitter!: https://twitter.com/oohgust\nmy gaming channel: https://www.youtube.com/@ducktheaugust\nsubscribe: https://www.youtube.com/user/augusttheduck/?sub_confirmation=1\n\noutro song creds: \nhttps://www.youtube.com/@prodgoostavo\nhttps://www.youtube.com/@dadood3652",
+        "id": 2170328,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=8B2hVT1TRgI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 581,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwytZrjtI5oMHXFQM71xnRw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8B2hVT1TRgI/hqdefault.jpg",
+        "title": "MrBeast Has Lost His Mind",
+        "vote": 0
+    }
+]

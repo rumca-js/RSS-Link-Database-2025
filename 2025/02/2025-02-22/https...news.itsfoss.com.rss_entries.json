@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-22T03:04:23+00:00",
+        "description": "Linux is quietly gaining ground on Windows in the gaming space. But how well does it actually perform? Here's what I experienced.",
+        "id": 2170952,
+        "language": null,
+        "link": "https://news.itsfoss.com/linux-mainstream-gaming-2025",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://news.itsfoss.com/content/images/2025/02/gaming-in-linux-2025.png",
+        "title": "Is Linux Ready For Mainstream Gaming In 2025?",
+        "vote": 0
+    }
+]

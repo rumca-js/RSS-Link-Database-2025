@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-22T02:24:54+00:00",
+        "description": "Apple has removed Advanced Data Protection (ADP) due to a request to backdoor their encryption. Apple has pulled the feature and no longer is offering ADP in the UK. I will discuss this attack on encryption and what people should do.\n\n00:00 Wtf happened?\n00:22 iCloud E2EE Explained.\n02:44 Why this is bad.\n03:24 Some Good News, Some Bad News\n06:32 What you should do.\n09:06 Answering common questions I've seen\n13:20 Final Takeaways\n\n\ud83d\udd10 Techlore Homepage: https://techlore.tech\n\ud83d\udd75 Go Incognito Course: https://techlore.tech/goincognito\n\ud83d\udcbb Techlore Community: https://discuss.techlore.tech\n\ud83c\udfeb Techlore Coaching: https://techlore.tech/coaching\n\ud83d\udcac Signal Group: https://discuss.techlore.tech/t/signal-usernames-are-here-join-our-signal-group-techlore/7640\n\nWe cannot provide our content without our Patrons, huge thanks to:\nBRIGHTSIDE, Clark, Ente, Larry, Richard, Afonso, Johnny, Kevin, love your content, x, 3c3c1d, NotSure, Philip, Seth, Stephen, Steven, Timothy\n\n\ud83e\udde1 Join them on Patreon: https://www.pa",
+        "id": 2169542,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=NxdYCDQc5Cs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NxdYCDQc5Cs/hqdefault.jpg",
+        "title": "Apple Removes iCloud E2EE in UK: What You Need to Know",
+        "vote": 0
+    }
+]

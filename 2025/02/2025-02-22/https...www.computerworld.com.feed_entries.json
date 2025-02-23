@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-22T02:02:58+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>US feds are reportedly investigating a $32 million deal inked by CrowdStrike with a government reseller to provide cybersecurity tools for the Internal Revenue Service (IRS) \u2014 products the agency never used and said it didn\u2019t even purchase.</p>\n\n\n\n<p>On the last day of Q3 2023, the security giant signed a contract with top government software reseller Carahsoft Technology Corp. for use of its identity threat detection software by the IRS, according to a Bloomberg report. The timing seems to be a critical component of the investigation, as the transaction was large enough for CrowdStrike to meet Wall Street expectations for the quarter.</p>\n\n\n\n<p>Given that IRS usage hasn\u2019t materialized, some, i",
+        "id": 2170048,
+        "language": "en-US",
+        "link": "https://www.computerworld.com/article/3830670/sec-doj-investigate-crowdstrike-deal-with-reseller-carahsoft.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 78,
+        "source_url": "https://www.computerworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "SEC, DOJ investigate CrowdStrike deal with reseller Carahsoft",
+        "vote": 0
+    }
+]

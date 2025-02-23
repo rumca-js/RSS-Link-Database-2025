@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-22T14:01:23+00:00",
+        "description": "<p><img width=\"1425\" height=\"869\" src=\"https://www.keengamer.com/wp-content/uploads/2025/02/Dune-Awakening-Icon.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-image-713642 wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.keengamer.com/wp-content/uploads/2025/02/Dune-Awakening-Icon.jpg 1425w, https://www.keengamer.com/wp-content/uploads/2025/02/Dune-Awakening-Icon-780x476.jpg 780w, https://www.keengamer.com/wp-content/uploads/2025/02/Dune-Awakening-Icon-720x439.jpg 720w\" sizes=\"(max-width: 1425px) 100vw, 1425px\" data-mwl-img-id=\"713642\" /></p>\n<p>The post <a href=\"https://www.keengamer.com/games/dune-awakening/\">Dune: Awakening</a> appeared first on <a href=\"https://www.keengamer.com\">KeenGamer</a>.</p>",
+        "id": 2172394,
+        "language": "en-US",
+        "link": "https://www.keengamer.com/games/dune-awakening",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 474,
+        "source_url": "https://www.keengamer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Dune: Awakening",
+        "vote": 0
+    }
+]

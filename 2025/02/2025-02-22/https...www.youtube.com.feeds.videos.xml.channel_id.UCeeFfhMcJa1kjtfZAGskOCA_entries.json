@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechLinked",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-22T04:47:25+00:00",
+        "description": "Check out Micro Center\u2019s Build Your Own Month: https://micro.center/h1ud\n\nSanta Clara is coming soon! Sign up for a FREE 128gig Flash Drive: https://micro.center/iyt0\n\n\u25ba GET MERCH: https://lttstore.com\n\u25ba GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n\u25ba GET A VPN: https://www.piavpn.com/TechLinked\n\u25ba LISTEN TO THE TECH NEWS: https://lmg.gg/TLPodcast\n\u25ba SPONSORS, AFFILIATES, AND PARTNERS: https://lmg.gg/partners\n\u25ba OUR PODCAST GEAR: https://lmg.gg/podcastgear\n\nNEWS SOURCES: https://lmg.gg/4RRZc\n---------------------------------------------------\nTimestamps:\n0:00 NO TL ON MONDAY\n0:16 RTX 5090 defective units\n1:55 Apple pulls E2E encryption in UK\n2:53 OpenAI Operator & other agents\n5:16 QUICK BITS INTRO\n5:27 YouTube Premium Lite in US\n6:00 HP adds 15 min to support calls\n6:39 Meta torrenting ok, didn't seed\n7:10 Microsoft Muse game generator\n7:51 Google Co-Scientist",
+        "id": 2170628,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=F4aHAfc6kXQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 326,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeeFfhMcJa1kjtfZAGskOCA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/F4aHAfc6kXQ/hqdefault.jpg",
+        "title": "The 5090 Situation Gets Even Worse",
+        "vote": 0
+    }
+]

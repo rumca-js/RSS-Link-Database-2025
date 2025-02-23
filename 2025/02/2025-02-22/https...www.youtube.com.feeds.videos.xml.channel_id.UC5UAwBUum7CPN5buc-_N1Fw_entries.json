@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-22T10:38:55+00:00",
+        "description": "Secure your passwords and logins with Proton Pass: https://proton.me/pass/TheLinuxEXP\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en# \n\nPOLL ON LINUX CUSTOMIZATION: https://forms.gle/i3s5Ep1N2vpEa35N8\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n01:21 Sponsor: Proton Pass\n02:46 Torvalds settles Rust in the kernel problem\n05:56 Fedora doesn't understand Flathub\n08:34 Flathub posts detailed explanation of their security model\n10:01 Cosmic Alpha 6 is out\n12:23 GNOME 48 beta is released with triple buffering\n14",
+        "id": 2171493,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=bM7kafmrlm8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bM7kafmrlm8/hqdefault.jpg",
+        "title": "Fedora lead doesn't get Flathub, Torvalds solves Rust debate, Cosmic a6: Linux & Open Source",
+        "vote": 0
+    }
+]

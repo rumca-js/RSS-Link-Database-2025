@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-22T14:00:01+00:00",
+        "description": "The \u201cfarmers\u201d are invertebrates and the \u201ccrops\u201d are microbes and all of it is dead.",
+        "id": 2172264,
+        "language": null,
+        "link": "https://www.404media.co/scientists-discover-ancient-farms-in-the-deep-sea",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/02/image4-1.jpg",
+        "title": "Scientists Discover Ancient Farms in the Deep Sea",
+        "vote": 0
+    }
+]

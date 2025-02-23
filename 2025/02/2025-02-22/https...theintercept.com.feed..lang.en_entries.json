@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-22T09:00:00+00:00",
+        "description": "<p>Trump's crusade against \"wokeness\" is co-opting the language of the civil rights movement to undo its legacy.</p>\n<p>The post <a href=\"https://theintercept.com/2025/02/22/trump-dei-christians-woke-civil-rights/\">How Trump Twisted DEI to Only Benefit White Christians</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 2171093,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/02/22/trump-dei-christians-woke-civil-rights",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/theintercept.com/wp-content/uploads/2025/02/AP25050010009573-e1740004181890.jpg?w=1200",
+        "title": "How Trump Twisted DEI to Only Benefit White Christians",
+        "vote": 0
+    }
+]

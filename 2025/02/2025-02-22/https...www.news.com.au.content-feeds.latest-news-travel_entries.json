@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-22T07:09:21+00:00",
+        "description": "It\u2019s perhaps one of the most annoying things on board a flight into Australia. But now, resident or not, this requirement will be gone.",
+        "id": 2170061,
+        "language": "en-au",
+        "link": "https://www.news.com.au/travel/travel-advice/flights/qantas-trial-of-new-australia-digital-travel-declaration-kicks-off/news-story/aa1066feba96043abb83fc32bc528925?from=rss-basic",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 409,
+        "source_url": "https://www.news.com.au/content-feeds/latest-news-travel",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://content.api.news/v3/images/bin/a9c0a94b673bd9567d9fcb1a234de5ea?width=320",
+        "title": "Change on board plane to impact thousands",
+        "vote": 0
+    }
+]

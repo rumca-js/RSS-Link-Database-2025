@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-22T20:45:21+00:00",
+        "description": "Musk says on X that feds must explain what they did last week \u2014 or resign",
+        "id": 2174619,
+        "language": null,
+        "link": "https://www.washingtonpost.com/nation/2025/02/22/musk-email-federal-workers",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Musk says on X that feds must explain what they did last week \u2014 or lose their jobs",
+        "vote": 0
+    }
+]

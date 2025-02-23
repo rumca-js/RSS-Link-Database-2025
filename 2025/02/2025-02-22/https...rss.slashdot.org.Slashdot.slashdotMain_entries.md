@@ -1,0 +1,196 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Will Consumer Data Collection Lead to Algorithm-Adjusted 'Surveillance Pricing'?
+ - [https://yro.slashdot.org/story/25/02/22/230253/will-consumer-data-collection-lead-to-algorithm-adjusted-surveillance-pricing?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/25/02/22/230253/will-consumer-data-collection-lead-to-algorithm-adjusted-surveillance-pricing?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T23:56:49+00:00
+
+An anonymous reader shared this report from the Washington Post's "Tech Brief":
+
+
+Last fall, reports that Kroger was considering bringing facial recognition technology into its stores sparked outcry from lawmakers and customers. They worried personalized data could be used to charge different prices for different customers based on their shopping habits, financial circumstances or appearance. Kroger, the country's largest supermarket chain, had already been using digital price tags in its stores. 
+
+Kroger told lawmakers that it doesn't use facial recognition to help it set prices, a stance the company reiterated to the Tech Brief on Thursday. Still, the uproar helped to spark a push by consumer advocates who warn that the threat of invasive, personalized pricing schemes is real. Now, Democratic lawmakers in several states are working to ban so-called "surveillance pricing" &mdash; when businesses charge customers more or less for the same item based on their personal information. 
+
+B
+
+## New EV Batteries are Making Electric Cars Cheaper and Safer
+ - [https://hardware.slashdot.org/story/25/02/22/1840228/new-ev-batteries-are-making-electric-cars-cheaper-and-safer?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/25/02/22/1840228/new-ev-batteries-are-making-electric-cars-cheaper-and-safer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T22:53:42+00:00
+
+The Washington Post looks at a new kind of battery that "could make American EVs cheaper and safer, experts say."
+
+If you bought an EV with a lithium iron phosphate (LFP) battery, you could expect lower car payments, less fire risk and more years of use out of your car &mdash; but you wouldn't be able to go as far on a single charge as you could with the nickel manganese cobalt (NMC) batteries commonly found in American and European electric cars. That trade-off has made LFP batteries the go-to choice for standard-range EVs in China, helping to make electric cars more affordable and limit pollution. Now, American companies are starting to build their own LFP batteries to catch up to their Chinese rivals... But there are plenty of barriers for U.S. companies that want to adopt a technology dominated by Chinese firms. Tariffs and tax credit restrictions have made it too expensive for most American automakers to import LFP batteries from China, and national security concerns have made i
+
+## Rust Developer Survey Finds Increasing Usage, Especially on Linux
+ - [https://developers.slashdot.org/story/25/02/22/042227/rust-developer-survey-finds-increasing-usage-especially-on-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://developers.slashdot.org/story/25/02/22/042227/rust-developer-survey-finds-increasing-usage-especially-on-linux?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T21:48:36+00:00
+
+This year's "State of Rust" survey was completed by 7,310 Rust developers. DevClass note some key findings:
+
+When asked about their biggest worries for Rust's future, 45.5 percent cited "not enough usage in the tech industry," up from 42.5 percent last year, just ahead of the 45.2 percent who cited complexity as a concern... Only 18.6 percent declared themselves "not worried," though this is a slight improvement on 17.8 percent in 2023... 
+Another question asks whether respondents are using Rust at work. 38.2 percent claimed to use it for most of their coding [up from 34% in 2023], and 13.4 percent a few times a week, accounting for just over half of responses. At the organization level there is a similar pattern. 45.5 percent of organizations represented by respondents make "non-trivial use of Rust," up from 38.7 percent last year. 
+
+More details from I Programmer:
+
+On the up are "Using Rust helps us achieve or goals", now 82% compared to 72% in 2022; "We're likely to use Rust again
+
+## California Sues Data-Harvesting Company NPD, Enforcing Strict Privacy Law
+ - [https://yro.slashdot.org/story/25/02/22/1512258/california-sues-data-harvesting-company-npd-enforcing-strict-privacy-law?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/25/02/22/1512258/california-sues-data-harvesting-company-npd-enforcing-strict-privacy-law?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T20:43:26+00:00
+
+California sued to fine a data-harvesting company, reports the Washington Post, calling it "a rare step to put muscle behind one of the strongest online privacy laws in the United States."
+
+Even when states have tried to restrict data brokers, it has been tough to make those laws stick. That has generally been a problem for the 19 states that have passed broad laws to protect personal information, said Matt Schwartz, a policy analyst for Consumer Reports. He said there has been only 15 or so public enforcement actions by regulators overseeing all those laws. Partly because companies aren't held accountable, they're empowered to ignore the privacy standards. "Noncompliance is fairly widespread," Schwartz said. "It's a major problem." 
+
+ That's why California is unusual with a data broker law that seems to have teeth. To make sure state residents can order all data brokers operating in the state to delete their personal records [with a single request], California is now requiring broke
+
+## Glitches for Windows 11 Update Include Breaking File Explorer
+ - [https://tech.slashdot.org/story/25/02/22/183257/glitches-for-windows-11-update-include-breaking-file-explorer?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/25/02/22/183257/glitches-for-windows-11-update-include-breaking-file-explorer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T20:43:26+00:00
+
+Five days ago on Patch Tuesday, Microsoft released patch KB5051987 for Windows 11 version 24H2, writes the XDA Developers site. 
+
+But "As reported by Windows Latest and various communities like Reddit and Microsoft's help forum, many users have encountered a major issue..." 
+Some have reported that, in addition to File Explorer failing to launch, they're unable to open folders from the desktop, save Office files, or even download files. Clicking on a folder icon may display its subfolders, but the contents within remain inaccessible... Some users on Microsoft's help forum and Reddit have also reported that the KB5051987 patch fails to install entirely. The update gets stuck at a certain percentage for hours before eventually displaying an error code. While these are among the most widely reported issues, others have surfaced as well, including problems with Taskbar preview animations, the camera, and more. 
+
+"Microsoft keeps running into brick walls with the 2024 version of Windows 1
+
+## ArcaOS (OS/2 Warp OEM) 5.1.1 Has Been Released
+ - [https://tech.slashdot.org/story/25/02/22/0748224/arcaos-os2-warp-oem-511-has-been-released?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/25/02/22/0748224/arcaos-os2-warp-oem-511-has-been-released?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T19:38:06+00:00
+
+"IBM stopped supporting OS/2 at the end of 2006," write the makers of ArcaOS, an OEM distribution of OS/2's discontinued Warp operating system. 
+
+And now long-time Slashdot reader martiniturbide tells us that ArcaOS 5.1.1 has been released, and that many of it's components have been updated too. From this week's announcement:
+
+ArcaOS 5.1.1 continues to support installation on the latest generation of UEFI-based systems, as well as the ability to install to GPT-based disk layouts. This enables ArcaOS 5.1.1 to install on a wide array of modern hardware. Of course, ArcaOS 5.1.1 is just as much at home on traditional BIOS-based systems, offering enhanced stability and performance across both environments.... 
+Need more convincing? How about a commercial operating system which doesn't spy on you, does not report your online activity to anyone, and gives you complete freedom to choose the applications you want to use, however you want to use them? How about an operating system which isn't 
+
+## Encrypted Messages Are Being Targeted, Google Security Group Warns
+ - [https://it.slashdot.org/story/25/02/22/0724228/encrypted-messages-are-being-targeted-google-security-group-warns?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/25/02/22/0724228/encrypted-messages-are-being-targeted-google-security-group-warns?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T18:33:32+00:00
+
+Google's Threat Intelligence Group notes "the growing threat to secure messaging applications." While specifically acknowledging "wide ranging efforts to compromise Signal accounts," they add that the threat "also extends to other popular messaging applications such as WhatsApp and Telegram, which are also being actively targeted by Russian-aligned threat groups using similar techniques. 
+
+"In anticipation of a wider adoption of similar tradecraft by other threat actors, we are issuing a public warning regarding the tactics and methods used to date to help build public awareness and help communities better safeguard themselves from similar threats." 
+
+Computer Weekly reports:
+
+Analysts predict it is only a matter of time before Russia starts deploying hacking techniques against non-military Signal users and users of other encrypted messaging services, including WhatsApp and Telegram. Dan Black, principal analyst at Google Threat Intelligence Group, said he would be "absolutely shocke
+
+## James Bond's Next Assignment: Amazon Pays $1 Billion for Full Creative Control
+ - [https://entertainment.slashdot.org/story/25/02/22/0638211/james-bonds-next-assignment-amazon-pays-1-billion-for-full-creative-control?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://entertainment.slashdot.org/story/25/02/22/0638211/james-bonds-next-assignment-amazon-pays-1-billion-for-full-creative-control?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T17:28:35+00:00
+
+Deadline reports:
+It's taking around $1 billion to have 007 stewards Barbara Broccoli and Michael G. Wilson cede creative oversight of their family's storied James Bond franchise to Amazon MGM Studios, sources tell us. Amazon originally overpaid on its purchase of MGM in a deal orchestrated by then-MGM board chair Kevin Ulrich. Though valued between $3.5 billion-$4 billion, the legendary motion picture studio was absorbed by the streamer for $8.5 billion, the hefty sum propped up by the potential access of the 007 franchise. However, Amazon couldn't fully freely develop Bond with Broccoli and Wilson in the mix. Hence, it took another $1 billion to ensure that they could fully steer and exploit the Ian Fleming IP. 
+The article suggests Broccoli's long hold-out came from "Amazon's desire to expand the James Bond franchise into its own universe akin to Marvel or Star Wars."
+In the past, filmmakers including Quentin Tarantino and Christopher Nolan have expressed an interest in putting th
+
+## Torvalds: Rust Kernel Code Isn't Forced In Over Maintainers' Objections
+ - [https://linux.slashdot.org/story/25/02/22/0524210/torvalds-rust-kernel-code-isnt-forced-in-over-maintainers-objections?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://linux.slashdot.org/story/25/02/22/0524210/torvalds-rust-kernel-code-isnt-forced-in-over-maintainers-objections?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T16:25:33+00:00
+
+Linus Torvalds responded Thursday to kernel developer Christoph Hellwig, who had claimed Torvalds merged Rust code into the kernel even over his objections as the original C code's maintainer. Highlights from Torvalds' response:
+
+The fact is, the pull request you objected to DID NOT TOUCH THE DMA LAYER AT ALL. It was literally just another user of it, in a completely separate subdirectory, that didn't change the code you maintain in _any_ way, shape, or form... Honestly, what you have been doing is basically saying "as a DMA maintainer I control what the DMA code is used for". 
+
+And that is not how *any* of this works. What's next? Saying that particular drivers can't do DMA, because you don't like that device, and as a DMA maintainer you control who can use the DMA code? That's _literally_ exactly what you are trying to do with the Rust code. You are saying that you disagree with Rust &mdash; which is fine, nobody has ever required you to write or read Rust code. But then you take t
+
+## Game Developers Revolt Against Microsoft's New AI Gaming Tool
+ - [https://games.slashdot.org/story/25/02/22/0244244/game-developers-revolt-against-microsofts-new-ai-gaming-tool?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://games.slashdot.org/story/25/02/22/0244244/game-developers-revolt-against-microsofts-new-ai-gaming-tool?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T13:03:10+00:00
+
+Microsoft's newly announced Muse AI model for game development has triggered immediate backlash from industry professionals. "Fuck this shit," responded David Goldfarb, founder of The Outsiders, arguing that such AI tools primarily serve to "reduce capital expenditure" while devaluing developers' collective artistic contributions. 
+
+Multiple developers told Wired that the tool is aimed at shareholders rather than actual developers. "Nobody will want this. They don't CARE that nobody will want this," one AAA developer said, noting that internal criticism remains muted due to job security concerns amid industry-wide layoffs. 
+
+The resistance comes as developers increasingly view AI initiatives as threats to job security rather than helpful tools. One anonymous developer called it "gross" that they needed to remain unnamed while criticizing Muse, as their studio still depends on potential Game Pass deals with Microsoft. Even in prototyping, where Microsoft sees AI potential, Creative As
+
+## NASA Rover Discovers Liquid Water 'Ripples' Carved Into Mars Rock
+ - [https://science.slashdot.org/story/25/02/22/013239/nasa-rover-discovers-liquid-water-ripples-carved-into-mars-rock?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/25/02/22/013239/nasa-rover-discovers-liquid-water-ripples-carved-into-mars-rock?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T11:10:32+00:00
+
+Scientists have discovered evidence of ancient, shallow lakes on Mars that once had liquid water exposed to the atmosphere, challenging previous theories that all Martian water was covered in ice. Live Science reports: The patterns, which were photographed by NASA's Curiosity rover, are known as wave ripples -- minute ridge-like structures that form along the shores of lakebeds. This means that exposed liquid water must have flowed across Mars' surface at some point in its history. The ripples were present in two separate lakebeds in Gale Crater, which Curiosity has been exploring since Aug. 2012. "The shape of the ripples could only have been formed under water that was open to the atmosphere and acted upon by wind," study first author Claire Mondro, a sedimentologist at CalTech, said in a statement.
+ 
+The researchers also analyzed the height and spacing of the ripple waves to determine the size of the lake that formed them. The structures are approximately 0.2 inches (6 millimeters
+
+## First Look At Secretive X-37B Space Plane In Orbit
+ - [https://science.slashdot.org/story/25/02/22/0056236/first-look-at-secretive-x-37b-space-plane-in-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/25/02/22/0056236/first-look-at-secretive-x-37b-space-plane-in-orbit?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T07:54:33+00:00
+
+The U.S. Space Force released the first-ever public image of its secretive X-37B space plane in orbit, captured during its ongoing seventh mission that launched on December 28, 2023. Space.com reports: The photo, released on Thursday (Feb. 20), was taken by a camera onboard the X-37B while the secretive space plane orbited high above the African continent. One of the plane's solar panels is visible on the left side of the photo, while what appears to be its open payload bay is visible along the top edge. The vehicle has been in orbit for well over a year now, having launched on its seventh mission on Dec. 28, 2023 atop a SpaceX Falcon Heavy rocket.
+ 
+And now, the X-37B has notched another milestone with the Space Force's release of this photo, the first-ever image of this space plane in orbit that has been shown to the public. While the photo contains scant details about the vehicle and what it's currently testing, it offers a look at Earth far in the background, revealing just how h
+
+## Asus Continues Fragrant Device Trend With an Aromatic Mouse
+ - [https://hardware.slashdot.org/story/25/02/22/002225/asus-continues-fragrant-device-trend-with-an-aromatic-mouse?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/25/02/22/002225/asus-continues-fragrant-device-trend-with-an-aromatic-mouse?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T06:51:42+00:00
+
+Asus has introduced the Fragrance Mouse, a hybrid wireless mouse that features a removable container for fragrance oils. Despite not being a gaming mouse, it includes premium features like PTFE pads, low-noise clicks rated for up to 10 million presses, and three fixed DPI settings (1200, 1600, 2400). Tom's Hardware reports: The selling point of the new mouse is its fragrance-producing capabilities. Under the mouse (right behind the AA battery housing) is a small semi-translucent container designed to house oils that give the mouse a pleasing aroma. There's no limit to what scents can be used; the container can be washed and refilled with different scents. Last year, the peripheral maker debuted an aroma-dispensing laptop that featured a fragrance dispenser at the center of the lid.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=Asus+Continues+Fragrant+Device+Trend+With+an+Aromatic+Mouse%3A+https%3A%2F%2Fhardware.sl
+
+## Data Is Very Valuable, Just Don't Ask Us To Measure It, Leaders Say
+ - [https://slashdot.org/story/25/02/22/006233/data-is-very-valuable-just-dont-ask-us-to-measure-it-leaders-say?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/25/02/22/006233/data-is-very-valuable-just-dont-ask-us-to-measure-it-leaders-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T06:51:42+00:00
+
+The Register's Lindsay Clark reports: Fifteen years of big data hype, and guess what? Less than one in four of those in charge of analytics projects actually measure the value of the activity to the organization they work for. The result from Gartner -- a staggering one considering the attention heaped on big data and its various hype-oriented successors -- found that in a survey of chief data and analytics (D&amp;A) officers, only 22 percent had defined, tracked, and communicated business impact metrics for the bulk of their data and analytics use cases.
+ 
+It wasn't for lack of interest though. For more than 90 percent of the 504 respondents, value-focused and outcome-focused areas of the D&amp;A leader's role have gained dominance over the past 12 to 18 months, and will continue to be a concern in the future. It is difficult, though: 30 percent of respondents say their top challenge is the inability to measure data, analytics and AI impact on business outcomes.
+ 
+"There is a massiv
+
+## Mark Zuckerberg's Makeover Didn't Make People Like Him, Study Shows
+ - [https://tech.slashdot.org/story/25/02/22/0048209/mark-zuckerbergs-makeover-didnt-make-people-like-him-study-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/25/02/22/0048209/mark-zuckerbergs-makeover-didnt-make-people-like-him-study-shows?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T06:51:42+00:00
+
+An anonymous reader quotes a report from TechCrunch: A study by the Pew Research Center found that Americans' views of Elon Musk and Mark Zuckerberg skew more negative than positive. While Zuckerberg has sparked chatter in Silicon Valley with his sudden interest in high fashion, the Meta CEO is less popular than President Trump's right-hand man, Elon Musk, the report found. While about 54% of U.S. adults say they have an unfavorable view of Musk, 67% feel negatively toward Zuckerberg. [...] But Zuckerberg, the Facebook founder, is more universally disliked, though he draws more ire from the left-leaning demographic. While 60% of Republican and Republican-leaning respondents hold an unfavorable view of Zuckerberg, 76% of their Democratic counterparts share that sentiment.
+ 
+So, while Zuck may be playing the part of the cool guy, Americans haven't been fooled by his gold chains or musical ambitions, it seems. Pew's study involved a panel of 5,086 randomly selected U.S. adults. The surv
+
+## OpenAI Bans Chinese Accounts Using ChatGPT To Edit Code For Social Media Surveillance
+ - [https://tech.slashdot.org/story/25/02/21/2356205/openai-bans-chinese-accounts-using-chatgpt-to-edit-code-for-social-media-surveillance?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/25/02/21/2356205/openai-bans-chinese-accounts-using-chatgpt-to-edit-code-for-social-media-surveillance?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T06:51:42+00:00
+
+OpenAI has banned a group of Chinese accounts using ChatGPT to develop an AI-powered social media surveillance tool. Engadget reports: The campaign, which OpenAI calls Peer Review, saw the group prompt ChatGPT to generate sales pitches for a program those documents suggest was designed to monitor anti-Chinese sentiment on X, Facebook, YouTube, Instagram and other platforms. The operation appears to have been particularly interested in spotting calls for protests against human rights violations in China, with the intent of sharing those insights with the country's authorities.
+ 
+"This network consisted of ChatGPT accounts that operated in a time pattern consistent with mainland Chinese business hours, prompted our models in Chinese, and used our tools with a volume and variety consistent with manual prompting, rather than automation," said OpenAI. "The operators used our models to proofread claims that their insights had been sent to Chinese embassies abroad, and to intelligence agent
+
+## Scientists Question Microsoft's Quantum Computing Claims
+ - [https://science.slashdot.org/story/25/02/22/0232239/scientists-question-microsofts-quantum-computing-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/25/02/22/0232239/scientists-question-microsofts-quantum-computing-claims?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T06:51:42+00:00
+
+Microsoft's announcement of a breakthrough in quantum computing faces skepticism from physicists, who say evidence supporting the company's claims remains insufficient. 
+
+The tech giant reported creating Majorana particles - a development it says could revolutionize quantum computing - but the accompanying peer-reviewed paper in Nature does not conclusively demonstrate this achievement, according to multiple quantum physics experts who reviewed the research. 
+
+Microsoft's corporate vice president for quantum hardware, Chetan Nayak, acknowledged the Nature paper wasn't meant to prove the particles' existence, though he claimed measurements suggested "95% likelihood" of topological activity. The company plans to publish additional findings. 
+
+The announcement has drawn particular scrutiny given the field's history of retracted claims. Two previous Nature papers on similar discoveries were withdrawn in 2017 and 2018, while a 2020 paper in Science involving Microsoft researchers remains 
+
+## The Protesters Who Want To Ban AGI Before It Even Exists
+ - [https://slashdot.org/story/25/02/21/2157258/the-protesters-who-want-to-ban-agi-before-it-even-exists?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/25/02/21/2157258/the-protesters-who-want-to-ban-agi-before-it-even-exists?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-22T06:51:42+00:00
+
+An anonymous reader quotes a report from The Register: On Saturday at the Silverstone Cafe in San Francisco, a smattering of activists gathered to discuss plans to stop the further advancement of artificial intelligence. The name of their non-violent civil resistance group, STOP AI, makes its mission clear. The organization wants to ban something that, by most accounts, doesn't yet exist -- artificial general intelligence, or AGI, defined by OpenAI as "highly autonomous systems that outperform humans at most economically valuable work."
+ 
+STOP AI outlines a broader set of goals on its website. For example, "We want governments to force AI companies to shut down everything related to the creation of general-purpose AI models, destroy any existing general-purpose AI model, and permanently ban their development." In answer to the question "Does STOP AI want to ban all AI?", the group's answer is, "Not necessarily, just whatever is necessary to keep humanity alive." The group, which has 
+

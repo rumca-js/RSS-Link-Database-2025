@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-22T11:50:56+00:00",
+        "description": "Apple removed iCloud\u2019s Advanced Data Protection in the UK after the government requested encryption backdoor access. Apple ends iCloud end-to-end encryption in the United Kingdom following the government&#8217;s request for encryption backdoor access. Advanced Data Protection is now unavailable for new UK users. In 2022, the IT giant introduced the optional setting Advanced Data Protection\u00a0(ADP) [&#8230;]",
+        "id": 2171908,
+        "language": "en-US",
+        "link": "https://securityaffairs.com/174500/security/apple-removes-icloud-encryption-in-uk.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 298,
+        "source_url": "https://securityaffairs.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Apple removes iCloud encryption in UK following backdoor demand",
+        "vote": 0
+    }
+]

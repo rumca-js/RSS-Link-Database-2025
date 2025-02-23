@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-22T15:18:04+00:00",
+        "description": "Sponsored: Get your personal information removed from the web and search results by visiting \u21e8 https://joindeleteme.com/ThioJoe and use code THIOJOE for 20% off\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:28 - Windows Sandbox\n1:35 - Advanced Sandbox Configuration\n3:44 - Very Excellent Thing\n5:13 - Hyper-V Virtual Machines\n5:59 - Usage Examples for VMs\n7:15 - Virtual Machine Snapshots\n7:41 - Group Policy Editor + Other Management Consoles\n8:57 - More Than Just Settings\n9:30 - Startup / Shutdown Scripts\n10:07 - Network Priority For Apps\n10:44 - Other Exclusive Management Consoles\n10:52 - Local Users And Groups (Lusermgr.msc)\n11:34 - Security Policy (secpol.msc)\n11:42 - Resultant Set of Policy (rsop.msc)\n12:05 - Print Management (printmanagement.msc)\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/thiojoe\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/",
+        "id": 2172884,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=uENgdPK45GE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uENgdPK45GE/hqdefault.jpg",
+        "title": "The 3 Best Features Only In Windows 11 Pro Edition",
+        "vote": 0
+    }
+]

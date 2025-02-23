@@ -1,0 +1,415 @@
+# Source:Self-Hosted Alternatives to Popular Services, URL:https://www.reddit.com/r/selfhosted/.rss, language:en
+
+## A training 'course' on setting up a self hosted env end to end worth making?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivwbyn/a_training_course_on_setting_up_a_self_hosted_env](https://www.reddit.com/r/selfhosted/comments/1ivwbyn/a_training_course_on_setting_up_a_self_hosted_env)
+ - RSS feed: $source
+ - date published: 2025-02-22T23:36:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been toying with the idea of making a kind of course on how to set up a server at home to do some of the more popular self hosted services aimed at folks who don&#39;t want their data stored with the big tech bros but not tech savvy. I.e. prob never used Linux CLI or docker or networking beyond their ISP&#39;s router.</p> <p>So basically step by step how to do it. Proxmox. Docker. Backups. Networking. Reverse proxy. Etc. There are ton of ytube videos that already do this in seperate parts but I was more thinking using words and screenshots rather than a video (crazy, I know). I find it easier to refer back to etc.</p> <p>It would be free. Not needed you guys think? Or not a bad idea?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/splynta"> /u/splynta </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivwbyn/a_training_course_on_setting_up_a_self_hosted_env/">[link]</a></span> &#32;
+
+## Something messed up with AdguardHome DNS
+ - [https://www.reddit.com/r/selfhosted/comments/1ivw43s/something_messed_up_with_adguardhome_dns](https://www.reddit.com/r/selfhosted/comments/1ivw43s/something_messed_up_with_adguardhome_dns)
+ - RSS feed: $source
+ - date published: 2025-02-22T23:25:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>PING inside Docker console of Adguard Home DNS is not working. Also log shows this. I am guessing it has to do something with firewall rules. I checked Oracle Cloud server&#39;s network settings and couldn&#39;t figure out the issue. Outside the container, PING to <a href="http://google.com">google.com</a> works fine. But inside the container, i couldn&#39;t PING anything. </p> <p>Docker compose: </p> <p><code>services:</code></p> <p><code>adguardhome:</code></p> <p><code>image: adguard/adguardhome</code></p> <p><code>container_name: adguardhome</code></p> <p><code>restart: unless-stopped</code></p> <p><code>#network_mode: &quot;host&quot;</code></p> <p><code>volumes:</code></p> <p><code>- /home/ubuntu/SparkyApps/adguard/workdir:/opt/adguardhome/work</code></p> <p><code>- /home/ubuntu/SparkyApps/adguard/confdir:/opt/adguardhome/conf</code></p> <p><code>ports:</code></p> <p><code>- &quot;10.0.0.10:53:53/tcp&quot; # DNS TCP</code></p> <p><code>- &quot;
+
+## Cloudflare how to reverse proxy ?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivvwf1/cloudflare_how_to_reverse_proxy](https://www.reddit.com/r/selfhosted/comments/1ivvwf1/cloudflare_how_to_reverse_proxy)
+ - RSS feed: $source
+ - date published: 2025-02-22T23:15:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am using proxmox and currently using cloudflare tunnel. But I see there is limitations in free cloudflare that is 100mb transfer. I face issue when trying to upload big videos via immich. </p> <p>I heard there are two approaches </p> <p>A. Using tailscale - this would require my non technical family members to install tailscale client in phone and run in background - I don’t want this experience for them </p> <p>B. Using reverse proxy so my proxy server is exposed to internet. Cloudflare talks to this proxy server and then proxy server routes the traffic to my local hosted services. </p> <p>I prefer to go with option B and maybe add proxy server to proxmox </p> <p>I know this theoretically.i see ngnix used widely but I can’t find the right video tutorials. Maybe I am searching wrong. Can anyone share some videos related to this use case please. Or guide me to some resources </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.red
+
+## Running multiple React Frontends with NGINX
+ - [https://www.reddit.com/r/selfhosted/comments/1ivvuy5/running_multiple_react_frontends_with_nginx](https://www.reddit.com/r/selfhosted/comments/1ivvuy5/running_multiple_react_frontends_with_nginx)
+ - RSS feed: $source
+ - date published: 2025-02-22T23:13:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am kinda new to this, and have been looking up and down the internet to find a solution to an idea I&#39;m trying to implement.</p> <p>I have a Google Cloud VM running ubuntu LTS, NGINX handling the forwarding to my React frontend and an Express/Node backend, and a sub domain of mine directing to the cloud VM.</p> <p>Ex. <a href="http://www.subdomain.domain.com/">www.subdomain.domain.com</a> leads to my currently deployed project.</p> <p>I want to set this up to run my portfolio page at <a href="http://www.subdomain.domain.com/">www.subdomain.domain.com</a>, one project at <a href="http://www.subdomain.domain.com/project1">www.subdomain.domain.com/project1</a>, and another(or more) at <a href="http://www.subdomain.domain.com/project2">www.subdomain.domain.com/project2</a> etc.</p> <p>Each project and my portfolio page are sperate React frontends, and the two projects are similar enough that I can adapt the one backend to serve both.</p> <p>the file
+
+## Docker 28.0.0 dns issues workaround
+ - [https://www.reddit.com/r/selfhosted/comments/1ivvbk4/docker_2800_dns_issues_workaround](https://www.reddit.com/r/selfhosted/comments/1ivvbk4/docker_2800_dns_issues_workaround)
+ - RSS feed: $source
+ - date published: 2025-02-22T22:48:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I updated to the 28.0.0 version, and some containers started to have dns issues. In my case, I could notice Grafana and CloudFlare tunnel were not working and kept restarting.</p> <p>Both were having the same error: <code> 127.0.0.11:53: server misbehaving </code></p> <p>I added this dns entry in the <code>daemon.json</code>, restarted the docker service and it works now. <code> &quot;dns&quot;: [ &quot;127.0.0.1&quot;, &quot;1.1.1.1&quot;, &quot;1.0.0.1&quot;, &quot;8.8.8.8&quot;, &quot;8.4.4.8&quot; ] </code></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ArgoPanoptes"> /u/ArgoPanoptes </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivvbk4/docker_2800_dns_issues_workaround/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivvbk4/docker_2800_dns_issues_workaround/">[comments]</a></span>
+
+## Setup torrents
+ - [https://www.reddit.com/r/selfhosted/comments/1ivu962/setup_torrents](https://www.reddit.com/r/selfhosted/comments/1ivu962/setup_torrents)
+ - RSS feed: $source
+ - date published: 2025-02-22T21:59:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>Sorry if this is the wrong sub or something. I was wondering how I could setup torrents on my server (for linux isos.) I already have qbittorent headless setup, but I need a vpn. This is my home server so I need a vpn on it 24/7. But I also have some things that need to run without a vpn so how would I setup split tunneling for only torrents.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/falling2918"> /u/falling2918 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivu962/setup_torrents/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivu962/setup_torrents/">[comments]</a></span>
+
+## Setting Up a Student-Run Server Rack – What Cool Things Can I Do With It?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivu0va/setting_up_a_studentrun_server_rack_what_cool](https://www.reddit.com/r/selfhosted/comments/1ivu0va/setting_up_a_studentrun_server_rack_what_cool)
+ - RSS feed: $source
+ - date published: 2025-02-22T21:48:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I am going to become a manager of a student-run lab at my institute (Im also a student) and am considering setting up a <strong>server rack</strong> for student projects. The lab is currently on a closed network, and I’m discussing the dos and don’ts with the institute’s Computer Center.</p> <p>My main idea is to get some powerful GPUs (thinking of Nvidia A100s) to promote <strong>LLM development</strong> and running Ansys ofc. But beyond that, I want this server to be <strong>helpful for a wide range of student projects</strong>—IoT, server-side programming, VM provisioning, and more. Like I have this one idea of mine where we can partner with Web and coding club to teach server operations at our own servers since they will be having more control over it.</p> <p>Some of you have experience running servers in labs, universities, or at home. So I’d love to hear:</p> <ul> <li>What are some <strong>interesting use cases</strong> I m
+
+## What are you guys using to backup your computers?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivtnda/what_are_you_guys_using_to_backup_your_computers](https://www.reddit.com/r/selfhosted/comments/1ivtnda/what_are_you_guys_using_to_backup_your_computers)
+ - RSS feed: $source
+ - date published: 2025-02-22T21:31:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been on the hunt for a good backup solution for local backups of my systems and I&#39;m struggling to find something that fits my needs.</p> <p>What I&#39;m looking for:</p> <ul> <li>Has to support Mac and PC clients.</li> <li>I want a GUI to manage scheduling and recovery.</li> <li>Backup triggers that do not require the device to online at a specific time.</li> <li>The option for full system and specific folder backups.</li> <li>Support for a Synology NAS as the backup target.</li> <li>I have a metered connection so I don&#39;t want to do online backups.</li> <li>I&#39;m OK with two separate apps running in concert to meet my needs (one thing that does full system snapshots, another that backups specific directories).</li> </ul> <p>I have two main devices I&#39;m going to want to backup and the needs are different. I have a Mac laptop that I&#39;d be fine with only backing up at a specific time. A single rolling snapshot would be fine for 
+
+## HP Thin Client T620 won't boot when 6TB external HDD is attached
+ - [https://www.reddit.com/r/selfhosted/comments/1ivsr4f/hp_thin_client_t620_wont_boot_when_6tb_external](https://www.reddit.com/r/selfhosted/comments/1ivsr4f/hp_thin_client_t620_wont_boot_when_6tb_external)
+ - RSS feed: $source
+ - date published: 2025-02-22T20:51:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I have a strange situation </p> <p>I have HP Thin Client T620. I want to attach an external HDD, 6TB, via USB 3.</p> <p>If I attach it when the OS is running - it&#39;s fine, everything works. But when I try to boot the machine when the drive is attached, it all freezes forever at the very beginning, on the blue HP logo. </p> <p>If I attach another drive (3TB) in the same case - it works fine.</p> <p>I tried updating the BIOS.</p> <p>What might be the issue?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Master_Spell_6824"> /u/Master_Spell_6824 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivsr4f/hp_thin_client_t620_wont_boot_when_6tb_external/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivsr4f/hp_thin_client_t620_wont_boot_when_6tb_external/">[comments]</a></span>
+
+## How to organize git repos from multiple servers?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivslkf/how_to_organize_git_repos_from_multiple_servers](https://www.reddit.com/r/selfhosted/comments/1ivslkf/how_to_organize_git_repos_from_multiple_servers)
+ - RSS feed: $source
+ - date published: 2025-02-22T20:44:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>I am currently using 3 different servers for my homelab. All are running Proxmox.</p> <p>One server is linked to a private github repository which works fine.<br/> I am now wondering whats the best way to also have a git sync on the 2 other machines. I dont want to have all the files on all machines.</p> <p>- create a repo for each server</p> <p>- create gitignores to each server to only include files needed for the server</p> <p>- any other ideas?</p> <p>How do you organize your code on your server to sync with git?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/redditor111222333"> /u/redditor111222333 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivslkf/how_to_organize_git_repos_from_multiple_servers/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivslkf/how_to_organize_git_repos_from_multiple_servers/">[comments]</a></span>
+
+## Document approval system
+ - [https://www.reddit.com/r/selfhosted/comments/1ivsj5d/document_approval_system](https://www.reddit.com/r/selfhosted/comments/1ivsj5d/document_approval_system)
+ - RSS feed: $source
+ - date published: 2025-02-22T20:41:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everybody, I am looking for a system to make a basic flow with different phases. Basically, the user should approve a document and a description, then somebody will approve and then the user have a second form &quot;unlocked&quot;. Is there anything already cooked?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lormayna"> /u/lormayna </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivsj5d/document_approval_system/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivsj5d/document_approval_system/">[comments]</a></span>
+
+## [meta] Can we do something about the constant posts and comments of people spamming their app stores?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivs316/meta_can_we_do_something_about_the_constant_posts](https://www.reddit.com/r/selfhosted/comments/1ivs316/meta_can_we_do_something_about_the_constant_posts)
+ - RSS feed: $source
+ - date published: 2025-02-22T20:21:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>it feels like every other week there&#39;s a new collection launching (some of them not even 100 % selfhosted).</p> <p>lately, a new store (?) has been commenting on almost every post and links to their own collection when telling people about recommended software.</p> <p>maybe dedicate a day or weekly post to these sorts of conversations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ResponsibleRaise625"> /u/ResponsibleRaise625 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivs316/meta_can_we_do_something_about_the_constant_posts/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivs316/meta_can_we_do_something_about_the_constant_posts/">[comments]</a></span>
+
+## Buying a prebuilt desktop w GPU , 8GB VRAM, ~$500 budget?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivqzwe/buying_a_prebuilt_desktop_w_gpu_8gb_vram_500](https://www.reddit.com/r/selfhosted/comments/1ivqzwe/buying_a_prebuilt_desktop_w_gpu_8gb_vram_500)
+ - RSS feed: $source
+ - date published: 2025-02-22T19:34:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Noticed there&#39;s a good amount of discussion on building custom setups, I suppose I&#39;d be interested in that, but firstly was curious about purchasing a gaming desktop and just dedicating that to be my 24/7 LLM server at home.</p> <p>8GB Vram is optimal because it&#39;d let me tinker with a small but good enough LLM. I just don&#39;t know the best way to go about this as I&#39;m new to home server development (and GPUs for that matter).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Abalone1029"> /u/No-Abalone1029 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivqzwe/buying_a_prebuilt_desktop_w_gpu_8gb_vram_500/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivqzwe/buying_a_prebuilt_desktop_w_gpu_8gb_vram_500/">[comments]</a></span>
+
+## Debian Based Fan Control Software? (Beelink N100)
+ - [https://www.reddit.com/r/selfhosted/comments/1ivqoak/debian_based_fan_control_software_beelink_n100](https://www.reddit.com/r/selfhosted/comments/1ivqoak/debian_based_fan_control_software_beelink_n100)
+ - RSS feed: $source
+ - date published: 2025-02-22T19:20:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am using DietPi (which is Debian based), for my Beelink N100, is there any software that I can adjust my fan speed on my Beelink N100? Or am I forced to use BIOS to do this? The fan is a bit loud by default, so to be able to SSH via Terminal and make adjustments would be great</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/avidrunner84"> /u/avidrunner84 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivqoak/debian_based_fan_control_software_beelink_n100/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivqoak/debian_based_fan_control_software_beelink_n100/">[comments]</a></span>
+
+## Chromecast and Jellyfin (while offline)
+ - [https://www.reddit.com/r/selfhosted/comments/1ivqfvt/chromecast_and_jellyfin_while_offline](https://www.reddit.com/r/selfhosted/comments/1ivqfvt/chromecast_and_jellyfin_while_offline)
+ - RSS feed: $source
+ - date published: 2025-02-22T19:10:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>Not sure where I would put this otherwise, but I wanted to ask the community a question, and specifically anyone who is a bit of a chromecast wizard. </p> <p>I use jellyfin for my media serving, and I love it. Chrome casting works great, as do external apps like Streamyfin (check it out if you haven’t yet). What I’m running into is more of a niche issue - chrome casting when the internet is unavailable. </p> <p>Here’s what prompted this: recently had a neighbors plumber cut my internet line. No biggy, ISP was on it, but it was out for 6 hours. During that time, I was able to stream locally to my laptop, but I wanted to chromecast. As far as my network is concerned, all the pieces were there. However, without internet, chromecast couldn’t pull its verification pages and JavaScript from google servers, so it didn’t work. I’m curious if anyone has set up their own server (with DNS redirects, etc) to self-host chromecast JavaScript and verification pages
+
+## I feel like a hacker using my phone to ssh into an old computer I turned into a (mostly) download server to check if it was working correctly plus the "btop" interface is really cool.
+ - [https://www.reddit.com/r/selfhosted/comments/1ivpo42/i_feel_like_a_hacker_using_my_phone_to_ssh_into](https://www.reddit.com/r/selfhosted/comments/1ivpo42/i_feel_like_a_hacker_using_my_phone_to_ssh_into)
+ - RSS feed: $source
+ - date published: 2025-02-22T18:37:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1ivpo42/i_feel_like_a_hacker_using_my_phone_to_ssh_into/"> <img src="https://preview.redd.it/s9b7nvhpiqke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f089cba56d3ecb53888c56e8764abd6dfa4519a" alt="I feel like a hacker using my phone to ssh into an old computer I turned into a (mostly) download server to check if it was working correctly plus the &quot;btop&quot; interface is really cool." title="I feel like a hacker using my phone to ssh into an old computer I turned into a (mostly) download server to check if it was working correctly plus the &quot;btop&quot; interface is really cool." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PewPewZilla"> /u/PewPewZilla </a> <br/> <span><a href="https://i.redd.it/s9b7nvhpiqke1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivpo42/i_feel_like_a_hacker_using_my_phone_to_ssh_into/">[comments]<
+
+## Recommendations for auto-tagging and ingesting music?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivplzm/recommendations_for_autotagging_and_ingesting](https://www.reddit.com/r/selfhosted/comments/1ivplzm/recommendations_for_autotagging_and_ingesting)
+ - RSS feed: $source
+ - date published: 2025-02-22T18:35:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>My spouse has a much larger media library than me, but I&#39;m the one in our household who is particular about ensuring our music is organized and properly tagged. This has created a bottleneck for our home media server: she&#39;s often waiting on me to tag and organize all the new music she&#39;s acquired.</p> <p>Ideally, she could drop her music in a single directory on our NAS, and it would automatically get tagged properly, its album art downloaded, and then moved to its final destination in the music library directory.</p> <p>Has anyone set something like this up? What did you use? I&#39;m aware of <a href="https://beets.io/">Beets</a> and can see how it might be a useful tool, but I would love more granular descriptions of your setups, so I can follow along.</p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SpencerDub"> /u/SpencerDub </a> <br/> <span><a href="https://www.reddit.com/r/selfhost
+
+## What is the best experience you have had with a self-hosted app/service?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivp2zz/what_is_the_best_experience_you_have_had_with_a](https://www.reddit.com/r/selfhosted/comments/1ivp2zz/what_is_the_best_experience_you_have_had_with_a)
+ - RSS feed: $source
+ - date published: 2025-02-22T18:13:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Basically, the title. I&#39;m pivoting our company to do more self-hosted products based on demand and feedback we&#39;ve gathered for our previous products. I&#39;d like to make a great developer/user experience from setup to teardown.</p> <p>So—I&#39;m looking to hear which apps/services you had really great experience with getting going, and what made it a great experience? Concrete examples are good...I&#39;d love to be able to refer to people or companies that are doing it really well, and learn from their success.</p> <p><strong>Note,</strong> this is different from the <em>most valuable</em> or <em>favorite app</em>, though they very well could be the same.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bytesbitsbattlestar"> /u/bytesbitsbattlestar </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivp2zz/what_is_the_best_experience_you_have_had_with_a/">[link]</a></span> &#32; <span>
+
+## Poll: Which http server do you use? and why?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivorbz/poll_which_http_server_do_you_use_and_why](https://www.reddit.com/r/selfhosted/comments/1ivorbz/poll_which_http_server_do_you_use_and_why)
+ - RSS feed: $source
+ - date published: 2025-02-22T17:59:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>Personally I am a big fan of Caddy. I love the simplicity and the auto SSL certs.</p> <p><a href="https://www.reddit.com/poll/1ivorbz">View Poll</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Parilia_117"> /u/Parilia_117 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivorbz/poll_which_http_server_do_you_use_and_why/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivorbz/poll_which_http_server_do_you_use_and_why/">[comments]</a></span>
+
+## Restricting remote access to the network to a specific device on a specific port
+ - [https://www.reddit.com/r/selfhosted/comments/1ivokt8/restricting_remote_access_to_the_network_to_a](https://www.reddit.com/r/selfhosted/comments/1ivokt8/restricting_remote_access_to_the_network_to_a)
+ - RSS feed: $source
+ - date published: 2025-02-22T17:52:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everybody!</p> <p>So here’s the situation. I have a smart home KNX technician who would like to access my smart home controller remotely to configure things for me. The thing is that I don’t fully trust this person, and I would like to give them a VPN access only to that specific device on one specific UDP port (3671). I would like to prevent them from accessing other devices on my network, and routing their traffic through my network (in case they have some malware, and my network would start some attacks).</p> <p>Could someone recommend me the best way to achieve it? I was thinking maybe Zerotier or sth similar?</p> <p>I don’t have any advanced networking equipment only basic ISP router (so no VLANs).</p> <p>Thank you in advance for your help.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Reckless_Ninja"> /u/Reckless_Ninja </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivokt8/r
+
+## Longshot but need some advice
+ - [https://www.reddit.com/r/selfhosted/comments/1ivnmk8/longshot_but_need_some_advice](https://www.reddit.com/r/selfhosted/comments/1ivnmk8/longshot_but_need_some_advice)
+ - RSS feed: $source
+ - date published: 2025-02-22T17:12:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>Me and a colleagues both runs Unifi UDM pro/se that we have connected our nets with ipsec to share our plex/jellyfin libraries through unraid(setup do i have access to his drives that&#39;s gets imported to my jellyfin library and vice versa for him) with each other and that works fine no hitches but I also share my jellyfin library with family and we noticed that steaming remux 4k movies works perfectly fine when it&#39;s from my server but if they watch remux 4k that is first streamd from my colleagues server through mine then over to their tv/chromecast etc it buffers sometimes mid watching. </p> <p>AFAIK he has 1gbit up down, I have 500mbit up down and say my mother&#39;s has a 250mbit so it shouldn&#39;t be a bandwidth issue but I&#39;m starting to think that the issues is that it goes through my server first then to the watching device. It&#39;s also direct play so it&#39;s not needed to transcode .</p> </div><!-- SC_ON --> &#32; sub
+
+## Help with Syncing Browser Bookmarks Across Devices Using Floccus & Google Drive
+ - [https://www.reddit.com/r/selfhosted/comments/1ivnizn/help_with_syncing_browser_bookmarks_across](https://www.reddit.com/r/selfhosted/comments/1ivnizn/help_with_syncing_browser_bookmarks_across)
+ - RSS feed: $source
+ - date published: 2025-02-22T17:08:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello,</p> <p>I&#39;m trying to sync my browser bookmarks across all devices using Floccus and Google Drive. However, I&#39;ve been facing some issues where the setup doesn’t seem to work as expected. For instance, when I add links from my mobile (by sharing a link to the Floccus app in a mobile folder), it doesn’t sync to my other devices. </p> <p>Has anyone else set up Floccus with Google Drive? Could you share your setup or any tips on how to fix this? </p> <p>Thank you!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/blattodea13"> /u/blattodea13 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivnizn/help_with_syncing_browser_bookmarks_across/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivnizn/help_with_syncing_browser_bookmarks_across/">[comments]</a></span>
+
+## Open sourcing my Ansible collection
+ - [https://www.reddit.com/r/selfhosted/comments/1ivn6y9/open_sourcing_my_ansible_collection](https://www.reddit.com/r/selfhosted/comments/1ivn6y9/open_sourcing_my_ansible_collection)
+ - RSS feed: $source
+ - date published: 2025-02-22T16:55:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1ivn6y9/open_sourcing_my_ansible_collection/"> <img src="https://external-preview.redd.it/4Teoz1hE-6vQEO1drvT7e9tJqgrIZDPnjrL5GfnFstg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=befdd6100feefb927d608bc6123a49fac0e95177" alt="Open sourcing my Ansible collection" title="Open sourcing my Ansible collection" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/artyorsh42"> /u/artyorsh42 </a> <br/> <span><a href="https://github.com/artyorsh/ansible-collection-selfhosted">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivn6y9/open_sourcing_my_ansible_collection/">[comments]</a></span> </td></tr></table>
+
+## Wingfit – Minimalist fitness tracker and more 🚀
+ - [https://www.reddit.com/r/selfhosted/comments/1ivn4qz/wingfit_minimalist_fitness_tracker_and_more](https://www.reddit.com/r/selfhosted/comments/1ivn4qz/wingfit_minimalist_fitness_tracker_and_more)
+ - RSS feed: $source
+ - date published: 2025-02-22T16:52:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1ivn4qz/wingfit_minimalist_fitness_tracker_and_more/"> <img src="https://b.thumbs.redditmedia.com/gAV_6_xXp164dZoze4yNQjwQxuC09Hn9UJlP35lPKlg.jpg" alt="Wingfit – Minimalist fitness tracker and more 🚀" title="Wingfit – Minimalist fitness tracker and more 🚀" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hey! 👋</p> <p>As a self-hosted enthusiast and after hosting and trying a lot of apps at home I went looking for a fitness tracker at home. Considering the only options were either paid ones or did not fit my needs, I decided to build my own on my free time.</p> <p>Meet <strong>Wingfit</strong> 💪</p> <p>Wingfit is a <strong>minimalist fitness app</strong> to organize your workouts and track your personal records.</p> <p>👉 <a href="https://wingfit.fr/">Live Demo</a> | <a href="https://github.com/itskovacs/wingfit">GitHub</a></p> <p><a href="https://preview.redd.it/pksowouvzpke1.png?width=2560&amp;format=png&amp;a
+
+## Best way to make some services only accessible via VPN?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivmxyf/best_way_to_make_some_services_only_accessible](https://www.reddit.com/r/selfhosted/comments/1ivmxyf/best_way_to_make_some_services_only_accessible)
+ - RSS feed: $source
+ - date published: 2025-02-22T16:44:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>I would like to limit the access to containers like Immich so that they could only be accessed via a wireguard VPN. Still I want those services to have a valid SSL certificate. </p> <p>I am using Traefik as a reverse proxy. I have a registered domain name where I can freely set the DNS records for subdomains.</p> <p>Is there any way I can set this up so that if I visit &quot;<a href="https://photos.mydomain.com">https://photos.mydomain.com</a>&quot;, I can get to the actual immich page when I am connected to the server via VPN but if I am not I either get an error page or nothing at all? </p> <p>I thought about setting the DNS record to just point to the local IP but then the creation of an LetsEncrypt certificate would fail, right?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/casparne"> /u/casparne </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivmxyf/best_way_to_make_some_services_o
+
+## Self-host GitHub alternative WITH workflows and actions
+ - [https://www.reddit.com/r/selfhosted/comments/1ivmin1/selfhost_github_alternative_with_workflows_and](https://www.reddit.com/r/selfhosted/comments/1ivmin1/selfhost_github_alternative_with_workflows_and)
+ - RSS feed: $source
+ - date published: 2025-02-22T16:26:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know there was a post about self hosted GitHub today. But the suggested alternatives have no workflows/pipelines or they are very less comfortable to use.</p> <p>I am using GitLab for a while for work and private projects and GitHub workflows are way superior to GitHub pipelines.</p> <p>Does anybody know an alternative for that?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spigandromeda"> /u/spigandromeda </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivmin1/selfhost_github_alternative_with_workflows_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivmin1/selfhost_github_alternative_with_workflows_and/">[comments]</a></span>
+
+## Any ideas or request for a self-hosted app?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivm7oa/any_ideas_or_request_for_a_selfhosted_app](https://www.reddit.com/r/selfhosted/comments/1ivm7oa/any_ideas_or_request_for_a_selfhosted_app)
+ - RSS feed: $source
+ - date published: 2025-02-22T16:13:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m a software engineer. And I&#39;m looking for ideas of self hosted project to build. It should be an alternative to a closed source software.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iib0011"> /u/iib0011 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivm7oa/any_ideas_or_request_for_a_selfhosted_app/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivm7oa/any_ideas_or_request_for_a_selfhosted_app/">[comments]</a></span>
+
+## 🥾 Share GPX Tracks from Your Phone Directly to Wanderer (v1.0.0)
+ - [https://www.reddit.com/r/selfhosted/comments/1ivl4jr/share_gpx_tracks_from_your_phone_directly_to](https://www.reddit.com/r/selfhosted/comments/1ivl4jr/share_gpx_tracks_from_your_phone_directly_to)
+ - RSS feed: $source
+ - date published: 2025-02-22T15:25:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone! 👋</p> <p>I&#39;m excited to introduce <strong>Share-to-Wanderer</strong>, an unofficial companion app for Wanderer. With this app, you can easily share your recorded GPX tracks—whether from OpenTracks or other apps—and have them automatically uploaded to your Wanderer instance. Here are some of its highlights:</p> <p>• 🚀 <strong>Easy Sharing:</strong> Share GPX tracks from other apps (e.g., OpenTracks) directly.<br/> • 📁 <strong>File Upload:</strong> Pick GPX files within the app to upload.<br/> • 🤖 <strong>Android-Only:</strong> Built using Flutter and Material You for Android users.</p> <p>I’d love to hear your feedback, bug reports, or feature suggestions! Your input is highly appreciated. 🙂</p> <p>Download the app here:<br/> <a href="https://github.com/doen1el/share-to-wanderer">https://github.com/doen1el/share-to-wanderer</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Broump"> /u/Broump <
+
+## WhatsApp group bot
+ - [https://www.reddit.com/r/selfhosted/comments/1ivkx0s/whatsapp_group_bot](https://www.reddit.com/r/selfhosted/comments/1ivkx0s/whatsapp_group_bot)
+ - RSS feed: $source
+ - date published: 2025-02-22T15:16:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone! I’m planning a project and would love your input. I want to build a WhatsApp group bot that:</p> <ol> <li>Uses AI to answer people’s questions in the group.</li> <li>Detects inappropriate behavior (like insults) and sends a private warning to the user.</li> <li>Tracks warnings and bans users from the group after 3 strikes.</li> </ol> <p>I’ve looked into tools like Evolution API, Botpress, and Rasa, but I’m not sure which one to pick. I prefer open-source, self-hosted solutions to keep it flexible and under my control. What tools or platforms would you recommend for this? Any tips or experiences with similar projects? Thanks!&quot;</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/m_khaled3"> /u/m_khaled3 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivkx0s/whatsapp_group_bot/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivkx0s/whatsap
+
+## Accessing immich on a vps
+ - [https://www.reddit.com/r/selfhosted/comments/1ivke6v/accessing_immich_on_a_vps](https://www.reddit.com/r/selfhosted/comments/1ivke6v/accessing_immich_on_a_vps)
+ - RSS feed: $source
+ - date published: 2025-02-22T14:51:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone, total newbie here. Trying to mess around with a VPS to start to make sure I can get the hang of things before doing fully self hosted. I installed immich on my VPS in a docker and everything but for the life of me can’t figure out how to access immich. I enter what I think is the IP in the format like they say but cannot access it and it’s driving me insane hahaha. Someone suggested I need to configure the firewall but not a clue. Thoughts? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/juzt4me"> /u/juzt4me </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivke6v/accessing_immich_on_a_vps/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivke6v/accessing_immich_on_a_vps/">[comments]</a></span>
+
+## Need help restarting a remote windows system
+ - [https://www.reddit.com/r/selfhosted/comments/1ivjzii/need_help_restarting_a_remote_windows_system](https://www.reddit.com/r/selfhosted/comments/1ivjzii/need_help_restarting_a_remote_windows_system)
+ - RSS feed: $source
+ - date published: 2025-02-22T14:31:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have an old mini pc running windows as my secondary home lab, which i access using parsec, but yesterday what i think happened was the intergrated gpu had an issue and now i can not connect to it using parsec anymore, i assume restarting it could fix it but i can not physically do it since i&#39;m not gonna be home for a while.</p> <p>I can install docker containers in it and access them, is there a container or method where i can either restart it or remote desktop into it? it doesnt have to be made specifically for it either, just need some tool from which i can remotely restart it. I don&#39;t think windows RDP is turned on, because ive tried accessing it and it just fails.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Idioticgladiator"> /u/Idioticgladiator </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivjzii/need_help_restarting_a_remote_windows_system/">[link]</a></span> &#32; 
+
+## My EOL vm
+ - [https://www.reddit.com/r/selfhosted/comments/1ivjpg0/my_eol_vm](https://www.reddit.com/r/selfhosted/comments/1ivjpg0/my_eol_vm)
+ - RSS feed: $source
+ - date published: 2025-02-22T14:17:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1ivjpg0/my_eol_vm/"> <img src="https://preview.redd.it/ti9xaozr8pke1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e5080e89ed0658436ea64029f5e613c39c3a05c6" alt="My EOL vm" title="My EOL vm" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>It’s been almost 1 year &amp; a half since I implemented this important service and it’s still counting (Thank god) 😂</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AhmedBarayez"> /u/AhmedBarayez </a> <br/> <span><a href="https://i.redd.it/ti9xaozr8pke1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivjpg0/my_eol_vm/">[comments]</a></span> </td></tr></table>
+
+## Self-hosted github?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivj8zm/selfhosted_github](https://www.reddit.com/r/selfhosted/comments/1ivj8zm/selfhosted_github)
+ - RSS feed: $source
+ - date published: 2025-02-22T13:55:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am looking for a self-hosted alternative to github. Not just a git remote though, I want all that data visualisation that github allows, issue managment, releases, discussions, readme page etc.</p> <p>Is something like that avaible?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GullibleDott"> /u/GullibleDott </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivj8zm/selfhosted_github/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivj8zm/selfhosted_github/">[comments]</a></span>
+
+## How to authorize communication between services?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivj2zq/how_to_authorize_communication_between_services](https://www.reddit.com/r/selfhosted/comments/1ivj2zq/how_to_authorize_communication_between_services)
+ - RSS feed: $source
+ - date published: 2025-02-22T13:46:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all!</p> <p>I am working on improving my homelab (still learning a lot) and I am in need of some help regarding how to allow services to retrieve username and password from each other (or similar).</p> <p>I have 2 computers in which different services are running via Docker containers. One server contains storage related services and other contains computing related stuff. </p> <p>Now, I would like to manage the access between the services. Example: A script running in the computing computer should be able to save the data to a database running in the storage computer. Of course, this requires the script knowing the username and password so it can establish the connection (I don&#39;t want to hardcode it, as I will be running many custom scripts).</p> <p>Do you know of a way to achieve this (without deploying the services via K8S)?</p> <p>P.S: I thought about creating my own solution, but I think there should be better ways to achieve this, or at 
+
+## HabitTrove - Gamified Habit Tracker (v0.2 multiuser update)
+ - [https://www.reddit.com/r/selfhosted/comments/1ivj0i3/habittrove_gamified_habit_tracker_v02_multiuser](https://www.reddit.com/r/selfhosted/comments/1ivj0i3/habittrove_gamified_habit_tracker_v02_multiuser)
+ - RSS feed: $source
+ - date published: 2025-02-22T13:43:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>📢 <strong>Multiuser support is out, as well as tons of updates! Try the</strong> <a href="https://habittrove.app.enting.org/">demo</a><strong>!</strong></p> <p><strong>HabitTrove</strong> is gamified habit tracker that:</p> <ul> <li>🎯 Create and track daily habits</li> <li>🏆 Earn coins for completing habits</li> <li>💰 Create a wishlist of rewards to redeem with earned coins</li> <li>📊 View your habit completion streaks and statistics</li> </ul> <h1>New features in v0.2:</h1> <ul> <li>👥 Multi-user support</li> <li>🔄 Sharing habits/tasks with other users</li> <li>📝 Write/interact permission settings for users for habits/wishlist/coins</li> <li>✅ Task support</li> <li>⏲ Pomodoro clock</li> <li>📈 Completion count (e.g., drink 7 cups of water can be configured with 7 completions per day)</li> <li>🎁 Wishlist redeemable count and link</li> <li>🌙 Dark mode support</li> <li>📲 Progressive Web App (PWA) support</li> </ul> <p>Project Link:</p> <p>* Github: <a hr
+
+## Suggestions for my old netbook
+ - [https://www.reddit.com/r/selfhosted/comments/1ivitio/suggestions_for_my_old_netbook](https://www.reddit.com/r/selfhosted/comments/1ivitio/suggestions_for_my_old_netbook)
+ - RSS feed: $source
+ - date published: 2025-02-22T13:33:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>i recently got intrested in homelab and i&#39;m wondering about converting my old netbook into a homelab. Can yall give some suggestions on where to begin.. Im considering to go for a old version of ubuntu server considering its specs Specs Device make/model: Acer Aspire One D270 Processor: Intel Atom Dual Core RAM: 2GB ddr3 Storage: 320gb HDD Its currently running windows 7 and its running alright with those specs. Its not very laggy or anything is still sort of usable with office 2007 and firefox installed. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheCleverCoder1980"> /u/TheCleverCoder1980 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivitio/suggestions_for_my_old_netbook/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivitio/suggestions_for_my_old_netbook/">[comments]</a></span>
+
+## What should I do
+ - [https://www.reddit.com/r/selfhosted/comments/1ivifyb/what_should_i_do](https://www.reddit.com/r/selfhosted/comments/1ivifyb/what_should_i_do)
+ - RSS feed: $source
+ - date published: 2025-02-22T13:13:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I already have my OMV box up and running, not going to delve into ProxMox quite yet on my main home server but I have a little Pi 3 that is just sitting on a table waiting to be used. What would the suggestions be for software to be installed on it.</p> <p>Right now running off a ISP supplied modem/Router that I eventually want to get rid of for one that I can completely control on my own, but unsure of what to replace it with because that is all the ISP provides is the modem/router just not straight modem.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Happy_Athlete6090"> /u/Happy_Athlete6090 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivifyb/what_should_i_do/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivifyb/what_should_i_do/">[comments]</a></span>
+
+## Setting up my own storage/backup. I think it's ok so far, but anything else I need to do?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivi6d7/setting_up_my_own_storagebackup_i_think_its_ok_so](https://www.reddit.com/r/selfhosted/comments/1ivi6d7/setting_up_my_own_storagebackup_i_think_its_ok_so)
+ - RSS feed: $source
+ - date published: 2025-02-22T12:58:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to get away from iCloud, Dropbox, Flickr etc. because data keeps growing, especially with kids getting to ages where they also have data to store (especially my daughter takes tons of photos and her phone is always 99% full), free services no longer being free, and just generally feeling less and less comfortable with big companies owning my data. I decided to set up my own &quot;cloud&quot; with storage for the family. This is what I have (and have planned) so far. I&#39;d love to get some feedback on what else to do or what to change.</p> <p>I set up a small computer next to my router in the basement running Debian. It&#39;s wired to the router directly, so doesn&#39;t need wifi. I have two external hard drives connected to it (both 8 TB Seagate drives) set up as a RAID 1 array using mdadm. mdadm sends notifications over Telegram in case something happens. I still need to figure out how mdadm identifies those drives in case one goes down, an
+
+## Can my laptop handle ollama
+ - [https://www.reddit.com/r/selfhosted/comments/1ivhsbe/can_my_laptop_handle_ollama](https://www.reddit.com/r/selfhosted/comments/1ivhsbe/can_my_laptop_handle_ollama)
+ - RSS feed: $source
+ - date published: 2025-02-22T12:36:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi guys i just want to ask if my laptop can handle ollama, my laptop is ryzen 5 3650h, 8gb ram, gtx 1650. I wanna make an ai that i can use and trained, also can i mix ai? Like deepsek, llma, claude? Also i wanna ask is there any powerful ai that i can use that is free? I only know claude, llma, deepsek. Chat Gpt... Thanksss</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Few_Biscotti_3714"> /u/Few_Biscotti_3714 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivhsbe/can_my_laptop_handle_ollama/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivhsbe/can_my_laptop_handle_ollama/">[comments]</a></span>
+
+## VPN acting like "SmartDNS"?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivgvoz/vpn_acting_like_smartdns](https://www.reddit.com/r/selfhosted/comments/1ivgvoz/vpn_acting_like_smartdns)
+ - RSS feed: $source
+ - date published: 2025-02-22T11:38:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey folks,</p> <p>many VPN provider also offers SmartDNS, but only for special countrys. I&#39;m looking for an option to host a container which creates the VPN tunnels and let me routing the traffic through it. Of course a router could do that, but I would prefer if I could change the router without thinking about this.</p> <p>Sorry for couldn&#39;t explaining it better, I hope you could follow my thoughts.</p> <p>I know SmartDNS uses the backbone connections between the countrys without VPN. But I haven&#39;t a VPS or something similar in the countrys and need help by the VPN providers. ;)</p> <p>Thx mcdy!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mc-doubleyou"> /u/mc-doubleyou </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivgvoz/vpn_acting_like_smartdns/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivgvoz/vpn_acting_like_smartdns/">[comm
+
+## Affordable GPU for local LLM/Whisper - HomeAssistant
+ - [https://www.reddit.com/r/selfhosted/comments/1ivgmbk/affordable_gpu_for_local_llmwhisper_homeassistant](https://www.reddit.com/r/selfhosted/comments/1ivgmbk/affordable_gpu_for_local_llmwhisper_homeassistant)
+ - RSS feed: $source
+ - date published: 2025-02-22T11:20:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m currently looking into buying a older GPU to run locally in my server, where it will be idling most of the time. I&#39;d be curious about your setups and/or experiences.</p> <p>I&#39;m looking to use it with HomeAssistant for voice control via Whisper but ideally also as a local LLM and with functionary, so after my voice commands are interpreted, they also result in the correct action.</p> <p>Power cost is 38ct/kWh and I&#39;m hoping the GPU can idle at 10-15W with models loaded.</p> <p>The following GPUs are available at the given prices. They seem to be shooting up signifcantly too:</p> <ol> <li>Radeon Instinct Mi50 16GB - 150-200€</li> <li>RX 6800 - 300-350€</li> <li>Tesla P40 - 400€+</li> <li>Tesla P100 - 250€</li> </ol> <p>I can potentially get some of these cheaper buy haggling on AliBaba, but no guarantee.</p> <p>Given the cost, it seems the P40 just isn&#39;t worth it. This likely means 24GB GPUs are just out of my budget. Can I even
+
+## Need advice for a brain dead media server and tinkering
+ - [https://www.reddit.com/r/selfhosted/comments/1ivfsjv/need_advice_for_a_brain_dead_media_server_and](https://www.reddit.com/r/selfhosted/comments/1ivfsjv/need_advice_for_a_brain_dead_media_server_and)
+ - RSS feed: $source
+ - date published: 2025-02-22T10:21:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi I have lately been really annoyed (more angry) lately over feeling I don&#39;t own anything and I should just accept and pay for subscriptions.</p> <p>I have been running a Plex server on a old Acer Aspire XC600 desktop.</p> <p>I would like to have brain dead easy solution to add media (I always have issues Smb).</p> <p>What I would like to do is having the Acer Aspire desktop running like Nextcloud, just to make it simple to add media.</p> <p>I would also like to setup a old laptop to play around with.</p> <p>Apologize if this has been asked before, but I&#39;m really bad when it comes to network stuff.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EH99Sora"> /u/EH99Sora </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivfsjv/need_advice_for_a_brain_dead_media_server_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivfsjv/need_advice_for_a_br
+
+## Matrix deployment - Synapse vs Dendrite experience?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivfqhd/matrix_deployment_synapse_vs_dendrite_experience](https://www.reddit.com/r/selfhosted/comments/1ivfqhd/matrix_deployment_synapse_vs_dendrite_experience)
+ - RSS feed: $source
+ - date published: 2025-02-22T10:17:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Anyone with experience of having run both that can pinpoint what&#39;s &quot;missing&quot; from Dendrite or what caveats to expect?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/esiy0676"> /u/esiy0676 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivfqhd/matrix_deployment_synapse_vs_dendrite_experience/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivfqhd/matrix_deployment_synapse_vs_dendrite_experience/">[comments]</a></span>
+
+## I want to host a minecraft java server but I don't know what mini pc I should buy
+ - [https://www.reddit.com/r/selfhosted/comments/1ivfd7s/i_want_to_host_a_minecraft_java_server_but_i_dont](https://www.reddit.com/r/selfhosted/comments/1ivfd7s/i_want_to_host_a_minecraft_java_server_but_i_dont)
+ - RSS feed: $source
+ - date published: 2025-02-22T09:51:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to make a minecraft server because my little sister and older cousin just got a new (old) pc with non RTX gpus, I want everyone to see the same shaders but we usually play bedrock which has built in multiplayer. I want to run a fabric server with a few mods like iris shaders, distant horizons, and xaeros maps. I&#39;m thinking of a mini pc like the HP EliteDesk Mini because it has an am4 cpu that I can swap out if I need better server performance. I haven&#39;t done much research on mini pcs since this is my first time trying to start a server, if theres anything better than that please tell me, I&#39;d like to keep the budget under $60</p> <p>I have seen there are subscription services for mc servers but I&#39;m not a fan of those</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/heisenburg0r"> /u/heisenburg0r </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivfd7s/i_want_to_host_a_m
+
+## Application for personal flight tracking
+ - [https://www.reddit.com/r/selfhosted/comments/1ivfcyl/application_for_personal_flight_tracking](https://www.reddit.com/r/selfhosted/comments/1ivfcyl/application_for_personal_flight_tracking)
+ - RSS feed: $source
+ - date published: 2025-02-22T09:51:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>I‘m looking for an app to track my flights I did IRL and simulated. Ideally with a nice world map view. Anyone has ideas?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bernhardertl"> /u/bernhardertl </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivfcyl/application_for_personal_flight_tracking/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivfcyl/application_for_personal_flight_tracking/">[comments]</a></span>
+
+## Kubernetes cluster log monitoring
+ - [https://www.reddit.com/r/selfhosted/comments/1ivfcpb/kubernetes_cluster_log_monitoring](https://www.reddit.com/r/selfhosted/comments/1ivfcpb/kubernetes_cluster_log_monitoring)
+ - RSS feed: $source
+ - date published: 2025-02-22T09:50:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a GPU cluster which I need to monitor the logs for. What would be the best tool for that. At the moment I&#39;m looking at fluentd, loki and as of late signoz and maybe the elestic stack as well. Are there anything else? My requirement would be to watch the logs from a web interface. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/overtunned"> /u/overtunned </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivfcpb/kubernetes_cluster_log_monitoring/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivfcpb/kubernetes_cluster_log_monitoring/">[comments]</a></span>
+
+## Help with finding an OCR or image scanner and extractor tool or AI
+ - [https://www.reddit.com/r/selfhosted/comments/1iveo85/help_with_finding_an_ocr_or_image_scanner_and](https://www.reddit.com/r/selfhosted/comments/1iveo85/help_with_finding_an_ocr_or_image_scanner_and)
+ - RSS feed: $source
+ - date published: 2025-02-22T09:00:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello all,</p> <p>I am looking for an AI model or self hosting tool that can scan/OCR my images and extract text from them output an excel sheet of the data.</p> <p>It needs to be able to support multiple languages as each of my images contain different languages in them. Any and all help is appreciated.</p> <p>What do I do?</p> <p>I collect top 100 guild data of each region of a game, compile it and publish it every week. You can refer to my profile to get an idea.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CodeRed_Sama"> /u/CodeRed_Sama </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iveo85/help_with_finding_an_ocr_or_image_scanner_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iveo85/help_with_finding_an_ocr_or_image_scanner_and/">[comments]</a></span>
+
+## iCloud Service Alternatives
+ - [https://www.reddit.com/r/selfhosted/comments/1ive4wl/icloud_service_alternatives](https://www.reddit.com/r/selfhosted/comments/1ive4wl/icloud_service_alternatives)
+ - RSS feed: $source
+ - date published: 2025-02-22T08:22:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>So let&#39;s discuss alternatives to iCloud services offered:</p> <ul> <li>Device Backup : windows vm with WiFi iTunes backup?</li> <li>iCloud Drive : Proton Drive? Syncthing? I don&#39;t use or want to use nextcloud. </li> <li>Notes : Obsidian (how to share?)</li> <li>Photos : Immich</li> <li>Reminders : unsure</li> <li>Safari Bookmarks : unsure</li> <li>Siri Shortcuts : unsure</li> <li>Voice Memos : irrelevant for me</li> <li>Wallet Passes : unsure</li> </ul> <p>iOS/icloud makes life easier as everything is integrated especially as a family of iOS users. Recent news doesn&#39;t come as a surprise to be honest so looking at the best balance of privacy vs usability (if possible).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Eximo84"> /u/Eximo84 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ive4wl/icloud_service_alternatives/">[link]</a></span> &#32; <span><a href="https://www.reddit.
+
+## Yet another Game Server Panel Recommendation Post
+ - [https://www.reddit.com/r/selfhosted/comments/1ivdzq4/yet_another_game_server_panel_recommendation_post](https://www.reddit.com/r/selfhosted/comments/1ivdzq4/yet_another_game_server_panel_recommendation_post)
+ - RSS feed: $source
+ - date published: 2025-02-22T08:11:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I tend to ramble so I&#39;ll try to keep it short. </p> <p>My goals; * Web UI * Installable via a docker * Reporting * Autorestarts/Backups would be appreciated * Most importantly, Easy to set up * Games include Satisfactory, V Rising, 7 Days to Die, preferably with a community of supporting future games in a timely manner. </p> <p>My current setup; * Unraid as BaseOS * Cosmos cloud for Docker Management, and reverse Proxy (including TCP). * Only 64G of RAM with 24 pretty much constantly in use</p> <p>Things I&#39;ve tried; * Crafty4 Control (Loved it, it has been set and forget with tons of features like backing up automatically and restarts with error logging. BUT it is Minecraft only. I&#39;ll probably continue to use it unless the alternative is that much better.) * pterodactyl (Could not get it to run via the docker version. I&#39;m sure I&#39;m doing something wrong, maybe it&#39;s because cosmos is my docker manager which has certain requireme
+
+## Need help installing Sablier on docker Raspberry Pi
+ - [https://www.reddit.com/r/selfhosted/comments/1ivda5r/need_help_installing_sablier_on_docker_raspberry](https://www.reddit.com/r/selfhosted/comments/1ivda5r/need_help_installing_sablier_on_docker_raspberry)
+ - RSS feed: $source
+ - date published: 2025-02-22T07:21:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>Can someone help me install <a href="https://github.com/sablierapp/sablier">sablier</a> on my Raspberry Pi using docker compose?</p> <p>The directions on <a href="https://sablierapp.dev/#/getting-started">getting started page</a> seems like it involves installing Caddy but I already have Caddy installed and running.</p> <p>On the <a href="https://sablierapp.dev/#/installation">installation page</a> it has this docker run:</p> <pre><code>docker run -d -p 10000:10000 \ -v $PWD/sablier.yml:/etc/sablier/sablier.yml sablierapp/sablier:1.8.5 </code></pre> <p>which I formatted into </p> <pre><code>services: sablier: ports: - 10000:10000 volumes: - $PWD/sablier.yml:/etc/sablier/sablier.yml image: sablierapp/sablier:1.8.5 </code></pre> <p>Is this docker compose as well as the <a href="https://raw.githubusercontent.com/sablierapp/sablier/main/sablier.sample.yaml">sablier.yaml config</a> file all I need?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href
+
+## Looking for a remote desktop app for Windows that allows multiple RDP users log in at the same time
+ - [https://www.reddit.com/r/selfhosted/comments/1ivcyw1/looking_for_a_remote_desktop_app_for_windows_that](https://www.reddit.com/r/selfhosted/comments/1ivcyw1/looking_for_a_remote_desktop_app_for_windows_that)
+ - RSS feed: $source
+ - date published: 2025-02-22T07:00:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone. Recently I bought a Windows VPS, and I created many users. Now I want to give access to other people without sharing RDP detail to them, so what I am currently doing is that, I log in the RDP users myself, and for each user, I run an Ultraviewer instance (each instance will have the same ID, but different password), and share with them. But the problem is that, sometime one person might need to access 2 or more users. This is impossible for Ultraviewer because when they try to use Ultraviewer for the second session, it will show &quot;You already connected to this partner&quot;</p> <p>I have tried other remote desktop apps like AnyDesk, Nomachine, TightVNC, UltraVNC, ... and they didn&#39;t work well with RDP sessions. So if you guys know another app, please recommend me. Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/xilineix"> /u/xilineix </a> <br/> <span><a href="https://www.reddit.com/r
+
+## Jellyfin - Can't add to existing playlists?
+ - [https://www.reddit.com/r/selfhosted/comments/1ivctlr/jellyfin_cant_add_to_existing_playlists](https://www.reddit.com/r/selfhosted/comments/1ivctlr/jellyfin_cant_add_to_existing_playlists)
+ - RSS feed: $source
+ - date published: 2025-02-22T06:51:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1ivctlr/jellyfin_cant_add_to_existing_playlists/"> <img src="https://a.thumbs.redditmedia.com/tAoUvKpPDfgy6_gqX1PAiRebdlWOW6z4qLhwk0NzaG0.jpg" alt="Jellyfin - Can't add to existing playlists?" title="Jellyfin - Can't add to existing playlists?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Anyone ever have this issue before? Not sure what happened, I have all my playlists still, but, I can&#39;t add to any of them now. Only option is one I just created called &quot;Rock - Ballads&quot; to confirm I could still make them.</p> <p>Any thoughts on how to fix? Tried resetting the container. The albums all have the songs in them still. Just can&#39;t add to new ones.</p> <p><a href="https://preview.redd.it/vhd7iwyv0nke1.png?width=1542&amp;format=png&amp;auto=webp&amp;s=49f55e81bb6f2d56eee042791a0fdaa1e7b4b085">https://preview.redd.it/vhd7iwyv0nke1.png?width=1542&amp;format=png&amp;auto=webp&amp;s=49f55e81bb6f2d56e
+
+## Advice regarding my NAS/server build
+ - [https://www.reddit.com/r/selfhosted/comments/1ivc5dr/advice_regarding_my_nasserver_build](https://www.reddit.com/r/selfhosted/comments/1ivc5dr/advice_regarding_my_nasserver_build)
+ - RSS feed: $source
+ - date published: 2025-02-22T06:06:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello friends,</p> <p>I would like to build a PC which will be used as:</p> <ul> <li>Media backup</li> <li>Media server</li> <li>Hosting web or game servers</li> <li>Maybe more?</li> </ul> <p>This is the setup: <a href="https://pcpartpicker.com/list/p9p6Nz">https://pcpartpicker.com/list/p9p6Nz</a> The HDD will be setup in RAID.<br/> What OS do you recommend for this build?<br/> How can I orchestrate the setup in terms of having a media server and a hosting server in one?</p> <p>Any other thing that comes to mind? </p> <p>I would appreciate any feedback, thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NotKirkoff"> /u/NotKirkoff </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivc5dr/advice_regarding_my_nasserver_build/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivc5dr/advice_regarding_my_nasserver_build/">[comments]</a></span>
+
+## Bongo cat.
+ - [https://www.reddit.com/r/selfhosted/comments/1ivbvtl/bongo_cat](https://www.reddit.com/r/selfhosted/comments/1ivbvtl/bongo_cat)
+ - RSS feed: $source
+ - date published: 2025-02-22T05:50:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1ivbvtl/bongo_cat/"> <img src="https://preview.redd.it/opp4brhxomke1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6df4a48c83338a8ad9f821fa6b2b878918f68884" alt="Bongo cat." title="Bongo cat." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MikeoFree"> /u/MikeoFree </a> <br/> <span><a href="https://i.redd.it/opp4brhxomke1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivbvtl/bongo_cat/">[comments]</a></span> </td></tr></table>
+
+## Forwarding SSH to Forgejo/Gitea via Nginx Proxy Manager
+ - [https://www.reddit.com/r/selfhosted/comments/1ivbswq/forwarding_ssh_to_forgejogitea_via_nginx_proxy](https://www.reddit.com/r/selfhosted/comments/1ivbswq/forwarding_ssh_to_forgejogitea_via_nginx_proxy)
+ - RSS feed: $source
+ - date published: 2025-02-22T05:44:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve got Forgejo running inside my home lab as a docker container and available on a subdomain to the public internet via Nginx Proxy Manager on a VPS. Everything is working great.</p> <p>But I&#39;m struggling to understand how to forward SSH traffic to the Forgejo container from NPM. I&#39;ve got as far as working out that I should use a stream in NPM, but I don&#39;t really understand what I&#39;m doing and I can&#39;t seem to get it to work.</p> <p>Does anyone have any simple explanations or guides for how to get this working? Thanks in advance.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/andy47"> /u/andy47 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivbswq/forwarding_ssh_to_forgejogitea_via_nginx_proxy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ivbswq/forwarding_ssh_to_forgejogitea_via_nginx_proxy/">[comments]</a></span>
+
+## Jellyfin or plex for family viewing
+ - [https://www.reddit.com/r/selfhosted/comments/1iv93m8/jellyfin_or_plex_for_family_viewing](https://www.reddit.com/r/selfhosted/comments/1iv93m8/jellyfin_or_plex_for_family_viewing)
+ - RSS feed: $source
+ - date published: 2025-02-22T03:08:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I’ve gotten tired of paying so much for my media without owning it. However, my SO and her family love the way the UI is for many of the most popular streaming services, (ie hulu, Netflix, Disney +). I’ve never actually build a true nas setup or anything like a media streaming device. But I’m trying to save money. I’m fairly tech savvy and have built a few pc’s on my own and currently have my Amazon cart filled with my NAS building parts. My question is if I want my family to essentially have a plug and play experience, do I go with plex or jellyfin? </p> <p>My last questions are, which is better to get for this streaming set up. A 4060 ti 16gb or a A770 16gb. My goal is 4k streaming with at least 7 devices at the same time. Has jellyfin seen enough development to warrant me to choose that platform over paying for the perm plex pass?</p> <p>My current build idea is:</p> <p>Ryzen 7 9700x 64gb of ram ddr5 6400 24tb of hard drive storage And either t
+
+## I have adguard running, any advice on doing something better?
+ - [https://www.reddit.com/r/selfhosted/comments/1iv6nm6/i_have_adguard_running_any_advice_on_doing](https://www.reddit.com/r/selfhosted/comments/1iv6nm6/i_have_adguard_running_any_advice_on_doing)
+ - RSS feed: $source
+ - date published: 2025-02-22T00:45:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have adguard running on an old raspberry pi (3b model), it has a whole bunch of dns blocklists added. For the most part, I’m okay with the results. </p> <p>I’m just wondering if anyone has any suggestions for making a better more solid solution? I would prefer to keep it all running on the raspberry pi.</p> <p>I also have Tailscale installed on all devices in the house that support it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EternallySickened"> /u/EternallySickened </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iv6nm6/i_have_adguard_running_any_advice_on_doing/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iv6nm6/i_have_adguard_running_any_advice_on_doing/">[comments]</a></span>
+
+## Another Proxmox IaC module: High Availability HAProxy TCP Load Balancers
+ - [https://www.reddit.com/r/selfhosted/comments/1iv67tm/another_proxmox_iac_module_high_availability](https://www.reddit.com/r/selfhosted/comments/1iv67tm/another_proxmox_iac_module_high_availability)
+ - RSS feed: $source
+ - date published: 2025-02-22T00:24:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello! Me again! A couple weeks ago I made a post about releasing my first IaC module for Proxmox for creating k3s clusters. You can read about that <a href="https://www.reddit.com/r/homelab/comments/1imbrg0/new_proxmox_k3s_iac_module/">here if you missed it</a>.</p> <p>This time I am back with a module for deploying HA TCP load balancers with HAProxy. You can find the new module as of tag version v0.2.0 of my modules repository. <a href="https://github.com/jbmay/proxmox-tf-modules/tree/main/modules/haproxy-lb">Here is a direct link to the new module</a>. </p> <h1>What it does</h1> <p>This module creates HAProxy TCP load balancers that supports high availability with automatic failover by using keepalived to configure a virtual IP for the load balancer cluster. It supports deploying as many HAProxy nodes as you wish, but I recommend deploying at least 2 to enable failover to keep things accessible if you have Proxmox host go down or one of the HAProx
+
+## What do you guys use to fling short messages/media back and forth between your devices?
+ - [https://www.reddit.com/r/selfhosted/comments/1iv5vcg/what_do_you_guys_use_to_fling_short_messagesmedia](https://www.reddit.com/r/selfhosted/comments/1iv5vcg/what_do_you_guys_use_to_fling_short_messagesmedia)
+ - RSS feed: $source
+ - date published: 2025-02-22T00:08:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>I used to use Signal for this. Often, I&#39;d need to screenshot/annotate something, share URL, short video/sounds etc. Need mobile/Windows/non-windows app.</p> <p>Signal has the Note To Self feature, but its non-mobile device login is (was?) limited to 1 app (logging in on another computer kicks you off other devices).</p> <p>Now I use Teams or Email lol.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DROP_DAT_DURKA_DURK"> /u/DROP_DAT_DURKA_DURK </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iv5vcg/what_do_you_guys_use_to_fling_short_messagesmedia/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iv5vcg/what_do_you_guys_use_to_fling_short_messagesmedia/">[comments]</a></span>
+

@@ -1,0 +1,240 @@
+# Source:/r/Anime, URL:https://www.reddit.com/r/anime/.rss, language:en
+
+## Sakura Wars Rewatch - Episode 22 Discussion
+ - [https://www.reddit.com/r/anime/comments/1ivvl3u/sakura_wars_rewatch_episode_22_discussion](https://www.reddit.com/r/anime/comments/1ivvl3u/sakura_wars_rewatch_episode_22_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-22T23:00:27+00:00
+
+<!-- SC_OFF --><div class="md"><h1>Chapter 22: The Imperial Theater Goes Up In Flames</h1> <p><a href="https://old.reddit.com/r/anime/comments/1iv4dne/sakura_wars_rewatch_episode_21_discussion/">← Previous Episode</a> | <a href="https://old.reddit.com/r/anime/comments/1huk0v3/sakura_wars_rewatch_official_announcement/">Index</a> | Next Episode →</p> <hr/> <p><a href="https://myanimelist.net/anime/561/Sakura_Taisen">MAL</a> | <a href="https://anilist.co/anime/561/Sakura-Taisen/">Anilist</a> | <a href="https://kitsu.app/anime/sakura-taisen">Kitsu</a> | <a href="https://anidb.net/anime/400">AniDB</a> | <a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=582">ANN</a></p> <hr/> <p><strong><em>Why would the one who designed the Koubu have made these things?!</em></strong></p> <p>Hello everybody, time for the Comment of the Day, courtesy of <a href="/u/SpiritualPossible">u/SpiritualPossible</a> for finally discerning <a href="https://old.reddit.com/r/anime/comments/1iv4dne/s
+
+## New Seasonal User Flairs for Winter 2025 - Rep Your Favorite Anime
+ - [https://www.reddit.com/r/anime/comments/1ivtsvk/new_seasonal_user_flairs_for_winter_2025_rep_your](https://www.reddit.com/r/anime/comments/1ivtsvk/new_seasonal_user_flairs_for_winter_2025_rep_your)
+ - RSS feed: $source
+ - date published: 2025-02-22T21:38:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ivtsvk/new_seasonal_user_flairs_for_winter_2025_rep_your/"> <img src="https://preview.redd.it/aw73pt48frke1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9a6b5651f8dfe01f2402f969028b943d457b50de" alt="New Seasonal User Flairs for Winter 2025 - Rep Your Favorite Anime" title="New Seasonal User Flairs for Winter 2025 - Rep Your Favorite Anime" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FetchFrosh"> /u/FetchFrosh </a> <br/> <span><a href="https://i.redd.it/aw73pt48frke1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ivtsvk/new_seasonal_user_flairs_for_winter_2025_rep_your/">[comments]</a></span> </td></tr></table>
+
+## [Rewatch] Fire Force - Episode 21 Discussion
+ - [https://www.reddit.com/r/anime/comments/1ivsxuk/rewatch_fire_force_episode_21_discussion](https://www.reddit.com/r/anime/comments/1ivsxuk/rewatch_fire_force_episode_21_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-22T21:00:04+00:00
+
+<!-- SC_OFF --><div class="md"><h1><a href="https://i.imgur.com/6om7r2g.png">Episode 21 - Those Connected</a></h1> <p><em>Brainwashing... Religion... Faith... All are akin to curses on humanity.</em></p> <p>_____________________________________________________________________________________________________________________</p> <p>&lt;--- <a href="https://www.reddit.com/r/anime/comments/1iv1k5x/rewatch_fire_force_episode_20_discussion/">Previous mission</a> | <a href="https://www.reddit.com/r/anime/s/TDp0bb1Jaw">Great flame of fire (Index)</a> | Next mission ---&gt;</p> <p>_____________________________________________________________________________________________________________________</p> <p><strong>OP 2</strong> ---&gt; <a href="https://v.animethemes.moe/EnenNoShouboutai-OP2-NCBD1080.webm">MAYDAY</a> by <a href="https://animethemes.moe/artist/coldrain">coldrain</a> feat. Ryo from CRYSTAL LAKE</p> <p><strong>ED 2</strong> ---&gt; <a href="https://v.animethemes.moe/EnenNoShouboutai
+
+## No dialogue is wasted in Orb - amazing callback and role reversal from Episode 18 in Episode 21's climax. Peak writing (spoilers in the video) [Orb: On the Movements of the Earth]
+ - [https://www.reddit.com/r/anime/comments/1ivsjg9/no_dialogue_is_wasted_in_orb_amazing_callback_and](https://www.reddit.com/r/anime/comments/1ivsjg9/no_dialogue_is_wasted_in_orb_amazing_callback_and)
+ - RSS feed: $source
+ - date published: 2025-02-22T20:42:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/melvinlee88"> /u/melvinlee88 </a> <br/> <span><a href="https://v.redd.it/vbaoqpy15rke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ivsjg9/no_dialogue_is_wasted_in_orb_amazing_callback_and/">[comments]</a></span>
+
+## Mahoutsukai Precure!! Mirai Days • Witchy Pretty Cure! Season 2 - Episode 7 discussion
+ - [https://www.reddit.com/r/anime/comments/1ivrma1/mahoutsukai_precure_mirai_days_witchy_pretty_cure](https://www.reddit.com/r/anime/comments/1ivrma1/mahoutsukai_precure_mirai_days_witchy_pretty_cure)
+ - RSS feed: $source
+ - date published: 2025-02-22T20:01:28+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Mahoutsukai Precure!! Mirai Days</em>, episode 7</p> <hr/> <p><strong>Streams</strong></p> <p><em>None</em></p> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/54717/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/162722">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=17908">AniDB</a></li> <li><a href="https://www.toei-anim.co.jp/tv/mahotsukai_precure2/">Official Website</a></li> <li><strong><a href="/r/precure">/r/precure</a></strong></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th> </tr> </thead><tbody> <tr> <td align="center">1</td> <td align="center"><a href="https://redd.it/1hz7mop">Link</a></td> </tr> <tr> <td align="center">2</td> <td align="center"><a href="https://redd.it/1i4grqa">Link</a></td> </tr> <tr> <td align="center">3</td> <td align="center"><a href=
+
+## 40 Seconds [Kaguya-Sama Love is War - The First Kiss That Never Ends]
+ - [https://www.reddit.com/r/anime/comments/1ivq4xp/40_seconds_kaguyasama_love_is_war_the_first_kiss](https://www.reddit.com/r/anime/comments/1ivq4xp/40_seconds_kaguyasama_love_is_war_the_first_kiss)
+ - RSS feed: $source
+ - date published: 2025-02-22T18:57:56+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/littlecolt"> /u/littlecolt </a> <br/> <span><a href="https://v.redd.it/fa5n2chfmqke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ivq4xp/40_seconds_kaguyasama_love_is_war_the_first_kiss/">[comments]</a></span>
+
+## Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru • OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying - Episode 8 discussion
+ - [https://www.reddit.com/r/anime/comments/1ivp5ul/okinawa_de_suki_ni_natta_ko_ga_hougen_sugite](https://www.reddit.com/r/anime/comments/1ivp5ul/okinawa_de_suki_ni_natta_ko_ga_hougen_sugite)
+ - RSS feed: $source
+ - date published: 2025-02-22T18:16:32+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru</em>, episode 8</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/okitsura-fell-in-love-with-an-okinawan-girl-but-i-just-wish-i-know-what-shes-saying">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/55842/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/166699">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18095">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/okinawa-de-suki-ni-natta-ko-ga-hougen-sugite-tsura-sugiru">Anime-Planet</a></li> <li><a href="https://okitsura.com/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <
+
+## Ao no Exorcist Yosuga-hen • Blue Exorcist: The Blue Night Saga - Episode 8 discussion
+ - [https://www.reddit.com/r/anime/comments/1ivovp2/ao_no_exorcist_yosugahen_blue_exorcist_the_blue](https://www.reddit.com/r/anime/comments/1ivovp2/ao_no_exorcist_yosugahen_blue_exorcist_the_blue)
+ - RSS feed: $source
+ - date published: 2025-02-22T18:04:32+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Ao no Exorcist Yosuga-hen</em>, episode 8</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/blue-exorcist">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/59226/">MyAnimeList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18735">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/blue-exorcist-the-blue-night-saga">Anime-Planet</a></li> <li><a href="https://www.ao-ex.com/">Official Website</a></li> <li><strong><a href="/r/AoNoExorcist">/r/AoNoExorcist</a></strong></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th> </tr> </thead><tbody> <tr> <td align="center">1</td> <td
+
+## Ore dake Level Up na Ken Season 2: Arise from the Shadow • Solo Leveling Season 2: Arise from the Shadow - Episode 8 discussion
+ - [https://www.reddit.com/r/anime/comments/1ivo7vd/ore_dake_level_up_na_ken_season_2_arise_from_the](https://www.reddit.com/r/anime/comments/1ivo7vd/ore_dake_level_up_na_ken_season_2_arise_from_the)
+ - RSS feed: $source
+ - date published: 2025-02-22T17:37:20+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Ore dake Level Up na Ken Season 2: Arise from the Shadow</em>, episode 8</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/solo-leveling">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/58567/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/176496">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18576">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/solo-leveling-season-2-arise-from-the-shadow">Anime-Planet</a></li> <li><a href="https://sololeveling-anime.net/">Official Website</a></li> <li><strong><a href="/r/sololeveling">/r/sololeveling</a></strong></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th
+
+## Medalist - Episode 8 discussion
+ - [https://www.reddit.com/r/anime/comments/1ivnho0/medalist_episode_8_discussion](https://www.reddit.com/r/anime/comments/1ivnho0/medalist_episode_8_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-22T17:07:27+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Medalist</em>, episode 8</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="https://www.disneyplus.com/series/medalist/4LgC0zEd5JEx">Disney</a></li> <li><a href="https://www.hulu.com/series/bb33d0c2-b077-4bc0-a549-d2ca27d4afa8">Hulu</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/55318/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/165171">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18030">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/medalist">Anime-Planet</a></li> <li><a href="https://medalist-pr.com/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th
+
+## A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. • I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths! - Episode 7 discussion
+ - [https://www.reddit.com/r/anime/comments/1ivmrre/arank_party_wo_ridatsu_shita_ore_wa_moto](https://www.reddit.com/r/anime/comments/1ivmrre/arank_party_wo_ridatsu_shita_ore_wa_moto)
+ - RSS feed: $source
+ - date published: 2025-02-22T16:37:27+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.</em>, episode 7</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/59730/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/180812">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18852">AniDB</a></li> <li><a href="https://arank-party-ridatsu-official.com/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th> </tr> </thead><tbody> <tr> <td
+
+## NEET Kunoichi to Nazeka Dousei Hajimemashita • I'm Living with an Otaku NEET Kunoichi!? - Episode 8 discussion
+ - [https://www.reddit.com/r/anime/comments/1ivmrpl/neet_kunoichi_to_nazeka_dousei_hajimemashita_im](https://www.reddit.com/r/anime/comments/1ivmrpl/neet_kunoichi_to_nazeka_dousei_hajimemashita_im)
+ - RSS feed: $source
+ - date published: 2025-02-22T16:37:24+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>NEET Kunoichi to Nazeka Dousei Hajimemashita</em>, episode 8</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <p><em>None</em></p> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/58082/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/174654">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18491">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/neet-kunoichi-to-naze-ka-dousei-hajimemashita">Anime-Planet</a></li> <li><a href="https://neet-kunoichi.com/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th> </tr> </thead><tbody> <tr> <td align="center">1</td> <td align="center"><a href="https://red
+
+## Japanese Animation TV Ranking, February 10-16: The Apothecary Diaries 2nd season earns 3.7% rating, Dragon Ball Daima earns 2.1% rating
+ - [https://www.reddit.com/r/anime/comments/1ivm9p7/japanese_animation_tv_ranking_february_1016_the](https://www.reddit.com/r/anime/comments/1ivm9p7/japanese_animation_tv_ranking_february_1016_the)
+ - RSS feed: $source
+ - date published: 2025-02-22T16:16:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ivm9p7/japanese_animation_tv_ranking_february_1016_the/"> <img src="https://external-preview.redd.it/EfR2dBvaUr_obe2NzjVUxlFC-JjIsdW2Dw_oIEtwnLE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ed8981702bbb36cca9d8e32bed2d8964fc87b04b" alt="Japanese Animation TV Ranking, February 10-16: The Apothecary Diaries 2nd season earns 3.7% rating, Dragon Ball Daima earns 2.1% rating" title="Japanese Animation TV Ranking, February 10-16: The Apothecary Diaries 2nd season earns 3.7% rating, Dragon Ball Daima earns 2.1% rating" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Turbostrider27"> /u/Turbostrider27 </a> <br/> <span><a href="https://www.animenewsnetwork.com/news/2025-02-22/japanese-animation-tv-ranking-february-10-16/.221488">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ivm9p7/japanese_animation_tv_ranking_february_1016_the/">[comments]</a></span> </td><
+
+## Wonderful Precure! Movie: Dokidoki Game no Sekai de Daibouken! • Wonderful Precure! The Movie! - Movie Discussion
+ - [https://www.reddit.com/r/anime/comments/1ivlyxs/wonderful_precure_movie_dokidoki_game_no_sekai_de](https://www.reddit.com/r/anime/comments/1ivlyxs/wonderful_precure_movie_dokidoki_game_no_sekai_de)
+ - RSS feed: $source
+ - date published: 2025-02-22T16:03:24+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Wonderful Precure! Movie: Dokidoki Game no Sekai de Daibouken!</em></p> <p>Alternative names: <em>Wonderful Precure! The Movie!</em></p> <hr/> <p><strong>Streams</strong></p> <ul> <li><em>None</em></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/58462">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/169403/Wonderful-Precure-The-Movie-DokidokiGame-no-Sekai-de-Daibouken">AniList</a></li> <li><a href="https://anidb.net/anime/18539">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/wonderful-pretty-cure-the-movie-dokidoki-game-no-sekai-de-daibouken">Anime Planet</a></li> <li><a href="https://2024.precure-movie.com/">Official Website</a></li> <li><a href="/r/precure">r/precure</a> </li> </ul> <hr/> <p><em>This post was created by a mysterious biscuit and fan of Cure Friendy. Message the mod team for feedback and comments.</em> <em>The original source code can be found on <a hr
+
+## Chi.: Chikyuu no Undou ni Tsuite • Orb: On the Movements of the Earth - Episode 22 discussion
+ - [https://www.reddit.com/r/anime/comments/1ivldvb/chi_chikyuu_no_undou_ni_tsuite_orb_on_the](https://www.reddit.com/r/anime/comments/1ivldvb/chi_chikyuu_no_undou_ni_tsuite_orb_on_the)
+ - RSS feed: $source
+ - date published: 2025-02-22T15:37:26+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Chi.: Chikyuu no Undou ni Tsuite</em>, episode 22</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <p><em>None</em></p> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/52215/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/151514">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=17480">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/chi-chikyuu-no-undou-ni-tsuite">Anime-Planet</a></li> <li><a href="https://anime-chi.jp/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th> <th align="center">Episode</th> <th align="center">Link</th> </tr> </thead><tbody> <tr> <td align="center">1</td> <td align
+
+## "Me and the Alien MuMu" PV 2
+ - [https://www.reddit.com/r/anime/comments/1ivkrv3/me_and_the_alien_mumu_pv_2](https://www.reddit.com/r/anime/comments/1ivkrv3/me_and_the_alien_mumu_pv_2)
+ - RSS feed: $source
+ - date published: 2025-02-22T15:09:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ivkrv3/me_and_the_alien_mumu_pv_2/"> <img src="https://external-preview.redd.it/pUd5nJ0C12Bu1O9zgYWEArDotr7Tbo716ptaJL_GZ_M.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=74fc3b89807b1701241f071ce3a7eb6723be1347" alt="&quot;Me and the Alien MuMu&quot; PV 2" title="&quot;Me and the Alien MuMu&quot; PV 2" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HowToGetName"> /u/HowToGetName </a> <br/> <span><a href="https://youtu.be/AmkNOLfYq1Q?si=B0jfU4G78AXpYM6b">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ivkrv3/me_and_the_alien_mumu_pv_2/">[comments]</a></span> </td></tr></table>
+
+## Sakamoto Days - Episode 8 discussion
+ - [https://www.reddit.com/r/anime/comments/1ivk3lu/sakamoto_days_episode_8_discussion](https://www.reddit.com/r/anime/comments/1ivk3lu/sakamoto_days_episode_8_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-22T14:37:26+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Sakamoto Days</em>, episode 8</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <p><em>None</em></p> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/58939/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/177709">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18654">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/sakamoto-days">Anime-Planet</a></li> <li><a href="https://sakamotodays.jp/">Official Website</a></li> <li><strong><a href="/r/SakamotoDays">/r/SakamotoDays</a></strong></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th> </tr> </thead><tbody> <tr> <td align="center">1</td> <td align="center"><a href="http
+
+## Sakamoto Days - Episode 7 discussion
+ - [https://www.reddit.com/r/anime/comments/1ivjy7e/sakamoto_days_episode_7_discussion](https://www.reddit.com/r/anime/comments/1ivjy7e/sakamoto_days_episode_7_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-22T14:30:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/AnimeMod"> /u/AnimeMod </a> <br/> <span><a href="/r/anime/comments/1iq2lnd/sakamoto_days_episode_7_discussion/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ivjy7e/sakamoto_days_episode_7_discussion/">[comments]</a></span>
+
+## S-Rank Monster no "Behemoth" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu • Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! - Episode 9 discussion
+ - [https://www.reddit.com/r/anime/comments/1ivjdfv/srank_monster_no_behemoth_dakedo_neko_to](https://www.reddit.com/r/anime/comments/1ivjdfv/srank_monster_no_behemoth_dakedo_neko_to)
+ - RSS feed: $source
+ - date published: 2025-02-22T14:01:27+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>S-Rank Monster no &quot;Behemoth&quot; dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu</em>, episode 9</p> <p>Alternative names: <em>Beheneko</em></p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <p><em>None</em></p> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/58473/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/176158">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18541">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/im-a-behemoth-an-s-ranked-monster-but-mistaken-for-a-cat-i-live-as-an-elf-girls-pet">Anime-Planet</a></li> <li><a href="https://behemoth-anime.com/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th al
+
+## Uma Musume: Cinderella Gray 3rd PV / Airing April 6th 2025
+ - [https://www.reddit.com/r/anime/comments/1ivj9ev/uma_musume_cinderella_gray_3rd_pv_airing_april](https://www.reddit.com/r/anime/comments/1ivj9ev/uma_musume_cinderella_gray_3rd_pv_airing_april)
+ - RSS feed: $source
+ - date published: 2025-02-22T13:56:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ivj9ev/uma_musume_cinderella_gray_3rd_pv_airing_april/"> <img src="https://external-preview.redd.it/dFhg75nVEVMJeNKAOVoAL5KtCcNy_0jm6t9tW4kozc8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=99377b447c2c606c1c6f000e473a66974bc928f4" alt="Uma Musume: Cinderella Gray 3rd PV / Airing April 6th 2025" title="Uma Musume: Cinderella Gray 3rd PV / Airing April 6th 2025" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kiminifurete_"> /u/kiminifurete_ </a> <br/> <span><a href="https://www.youtube.com/watch?v=Gw8j8-m1gVk">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ivj9ev/uma_musume_cinderella_gray_3rd_pv_airing_april/">[comments]</a></span> </td></tr></table>
+
+## "Uma Musume: Cinderella Gray" New Key Visual
+ - [https://www.reddit.com/r/anime/comments/1ivij3r/uma_musume_cinderella_gray_new_key_visual](https://www.reddit.com/r/anime/comments/1ivij3r/uma_musume_cinderella_gray_new_key_visual)
+ - RSS feed: $source
+ - date published: 2025-02-22T13:18:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ivij3r/uma_musume_cinderella_gray_new_key_visual/"> <img src="https://external-preview.redd.it/wm2DMnw6hWxQog9ijvDAaW7IS4qGqBlNCZ2xVXmVFnU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=22263924746a2fd6f576d4b7d1d5f63803906ac7" alt="&quot;Uma Musume: Cinderella Gray&quot; New Key Visual" title="&quot;Uma Musume: Cinderella Gray&quot; New Key Visual" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Xanek"> /u/Xanek </a> <br/> <span><a href="https://pbs.twimg.com/media/GkZQV7FaoAQxOKh.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ivij3r/uma_musume_cinderella_gray_new_key_visual/">[comments]</a></span> </td></tr></table>
+
+## Good anime recommendations for someone who's always "hated it"
+ - [https://www.reddit.com/r/anime/comments/1ivibye/good_anime_recommendations_for_someone_whos](https://www.reddit.com/r/anime/comments/1ivibye/good_anime_recommendations_for_someone_whos)
+ - RSS feed: $source
+ - date published: 2025-02-22T13:07:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>My girlfriend was never really exposed to anime other than through her ex boyfriend and his mates and they were all top tier gooners, grand master baiters on jerkmate ranked type shit so she only ever saw shit like HS DXD and those kinda anime so always refused to watch it with me saying she wouldn&#39;t like it. Last week I had her watch solo levelling with me and needless to say she was floored at how much she loved it and keeps asking if the next episode is out dubbed yet. It&#39;s the over sexualisation of characters and especially jarring fake voices that put her off so does anyone have any recommendations? She wants to try chainsaw man cuz she knows I love it and we&#39;re gonna watch Vinland Saga together after but any more recommendations of shit she might like would be much appreciated ❤️</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Venklick"> /u/Venklick </a> <br/> <span><a href="https://www.reddit.
+
+## Meitantei Conan • Case Closed - Episode 1154 discussion
+ - [https://www.reddit.com/r/anime/comments/1ivhpn3/meitantei_conan_case_closed_episode_1154](https://www.reddit.com/r/anime/comments/1ivhpn3/meitantei_conan_case_closed_episode_1154)
+ - RSS feed: $source
+ - date published: 2025-02-22T12:31:20+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Meitantei Conan</em>, episode 1154</p> <p>Alternative names: <em>Detective Conan</em></p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/case-closed-detective-conan">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/235/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/235">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=266">AniDB</a></li> <li><a href="https://kitsu.io/anime/210">Kitsu</a></li> <li><a href="https://www.anime-planet.com/anime/detective-conan">Anime-Planet</a></li> <li><a href="http://www.ytv.co.jp/conan/">Official Website</a></li> <li><strong><a href="/r/OneTruthPrevails">/r/OneTruthPrevails</a></strong></li> </ul> <hr/> <p><strong>A
+
+## “Ninja to Koroshiya no Futarigurashi” New Visual
+ - [https://www.reddit.com/r/anime/comments/1ivh8c7/ninja_to_koroshiya_no_futarigurashi_new_visual](https://www.reddit.com/r/anime/comments/1ivh8c7/ninja_to_koroshiya_no_futarigurashi_new_visual)
+ - RSS feed: $source
+ - date published: 2025-02-22T12:01:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ivh8c7/ninja_to_koroshiya_no_futarigurashi_new_visual/"> <img src="https://external-preview.redd.it/Mzq2IdeIL89Un6g9nIvkeBLPmYIyblGzHnQxVzCnhHQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fc3550b23d60cca0a0f178eb0cb061ef09f1f094" alt="“Ninja to Koroshiya no Futarigurashi” New Visual" title="“Ninja to Koroshiya no Futarigurashi” New Visual" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zenzen_0"> /u/zenzen_0 </a> <br/> <span><a href="https://ninkoro.jp/core_sys/images/news/00000023/block/00000049/00000020.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ivh8c7/ninja_to_koroshiya_no_futarigurashi_new_visual/">[comments]</a></span> </td></tr></table>
+
+## “Me and the Alien MuuMuu” Key Visual
+ - [https://www.reddit.com/r/anime/comments/1ivgt8v/me_and_the_alien_muumuu_key_visual](https://www.reddit.com/r/anime/comments/1ivgt8v/me_and_the_alien_muumuu_key_visual)
+ - RSS feed: $source
+ - date published: 2025-02-22T11:34:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ivgt8v/me_and_the_alien_muumuu_key_visual/"> <img src="https://external-preview.redd.it/LtXkCA1Md_bWzXDsiSITRVL3yc8UyxSNf1rfHjU6M-E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=88ed31bdf0ce4efbefab83324d941ae8cb5b8b3f" alt="“Me and the Alien MuuMuu” Key Visual" title="“Me and the Alien MuuMuu” Key Visual" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zenzen_0"> /u/zenzen_0 </a> <br/> <span><a href="https://ucyujin-mumu.com/common/images/fv_image02.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ivgt8v/me_and_the_alien_muumuu_key_visual/">[comments]</a></span> </td></tr></table>
+
+## Anime Questions, Recommendations, and Discussion - February 22, 2025
+ - [https://www.reddit.com/r/anime/comments/1ivfi2u/anime_questions_recommendations_and_discussion](https://www.reddit.com/r/anime/comments/1ivfi2u/anime_questions_recommendations_and_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-22T10:01:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ivfi2u/anime_questions_recommendations_and_discussion/"> <img src="https://external-preview.redd.it/n843x9iRAFNrgzaMebmg8HZTk0tHTypXE3Auns76FhI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c28343315756e85a3f633374d501c1647e8f6847" alt="Anime Questions, Recommendations, and Discussion - February 22, 2025" title="Anime Questions, Recommendations, and Discussion - February 22, 2025" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This is a daily megathread for general chatter about anime. Have questions or need recommendations? Here to show off your merch? Want to talk about what you just watched?</p> <p><a href="https://preview.redd.it/hqe7ttspugke1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=8fb340ed9b6f7a5ffcd0685dca730a8632e97e60">This is the place!</a></p> <p><a href="/r/anime/wiki/rules#wiki_tagging_comments"><strong>All spoilers must be tagged.</strong></a> Use <code>[anime name]</code> to indicate t
+
+## A piano and vocal cover of “Gravity” from Wolf's Rain
+ - [https://www.reddit.com/r/anime/comments/1ivehxw/a_piano_and_vocal_cover_of_gravity_from_wolfs_rain](https://www.reddit.com/r/anime/comments/1ivehxw/a_piano_and_vocal_cover_of_gravity_from_wolfs_rain)
+ - RSS feed: $source
+ - date published: 2025-02-22T08:48:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ivehxw/a_piano_and_vocal_cover_of_gravity_from_wolfs_rain/"> <img src="https://external-preview.redd.it/g2NT-gj4DMq1oDRjE9aFvdikJDjkaQUlncVuWAmnXCI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2f32110bb709e622ff28b208e1415df893556e2c" alt="A piano and vocal cover of “Gravity” from Wolf's Rain" title="A piano and vocal cover of “Gravity” from Wolf's Rain" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MonishCorona"> /u/MonishCorona </a> <br/> <span><a href="https://youtu.be/2hWzGNIxiKY">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ivehxw/a_piano_and_vocal_cover_of_gravity_from_wolfs_rain/">[comments]</a></span> </td></tr></table>
+
+## Bulma's ultimatum to Vegeta [Dragon Ball Daima spoilers]
+ - [https://www.reddit.com/r/anime/comments/1ivd9ed/bulmas_ultimatum_to_vegeta_dragon_ball_daima](https://www.reddit.com/r/anime/comments/1ivd9ed/bulmas_ultimatum_to_vegeta_dragon_ball_daima)
+ - RSS feed: $source
+ - date published: 2025-02-22T07:19:58+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/cortez0498"> /u/cortez0498 </a> <br/> <span><a href="https://v.redd.it/sn3jpfrw5nke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ivd9ed/bulmas_ultimatum_to_vegeta_dragon_ball_daima/">[comments]</a></span>
+
+## Discussion: people who have watched "So, I Can't Play H?" Did anyone feel like the main love interest didn't appear in the story until Episode 7?
+ - [https://www.reddit.com/r/anime/comments/1ivd7mq/discussion_people_who_have_watched_so_i_cant_play](https://www.reddit.com/r/anime/comments/1ivd7mq/discussion_people_who_have_watched_so_i_cant_play)
+ - RSS feed: $source
+ - date published: 2025-02-22T07:16:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently watched &quot;So, I can&#39;t Play H?&quot; after hearing it was a harem anime with supernatural elements like Grim Reapers and stuff, I felt like seeing if it was worth a watch and wow, this was a pretty MID experience. It doesn&#39;t really have much build up or decent writing, it&#39;s essentially a High School DXD clone. The main protagonist Ryousuke having a sought after power and is also fueled by lust just like Issei Hyoudou and even the love interest is a redhead like Rias Gremory.</p> <p>And since I brought up the love interests, one thing I felt odd with the show was the female love interests and how none of them seem like they were compatible AT ALL with Ryousuke, no matter how much the writing tried.</p> <p>Lisara is the primary girl but she seems extremely cliche in terms of how she&#39;s presented and the constant need to downplay her character drags her into surprisingly unlikable territory as a love interest.</p> <p>Mina is
+
+## Looking for a mecha anime I watched when I was younger
+ - [https://www.reddit.com/r/anime/comments/1ivcqzx/looking_for_a_mecha_anime_i_watched_when_i_was](https://www.reddit.com/r/anime/comments/1ivcqzx/looking_for_a_mecha_anime_i_watched_when_i_was)
+ - RSS feed: $source
+ - date published: 2025-02-22T06:46:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>This anime was a mecha anime with a darker aesthetic, from what I remember the main character was a girl and her real body turned out to be in an egg or bubble in a laboratory. I think her mother had something to do with it but not for sure, the mechs were had the mobility of like a excavator. It was most likely set in a post-apoctolyptic world. Very darker aesthetic and the character&#39;s hair color comprised of tan, brown, and black. Colors were very desaturated, any help is very appreciated!!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TeaKyued"> /u/TeaKyued </a> <br/> <span><a href="https://www.reddit.com/r/anime/comments/1ivcqzx/looking_for_a_mecha_anime_i_watched_when_i_was/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ivcqzx/looking_for_a_mecha_anime_i_watched_when_i_was/">[comments]</a></span>
+
+## Pokémon Horizons: The Series - Episode 85 discussion
+ - [https://www.reddit.com/r/anime/comments/1ivc5wv/pokémon_horizons_the_series_episode_85_discussion](https://www.reddit.com/r/anime/comments/1ivc5wv/pokémon_horizons_the_series_episode_85_discussion)
+ - RSS feed: $source
+ - date published: 2025-02-22T06:07:23+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Pokémon Horizons: The Series</em>, episode 85</p> <p>Alternative names: <em>Pocket Monsters (2023)</em></p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <p><em>None</em></p> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/53876/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/158871">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=17777">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/pokemon-2023">Anime-Planet</a></li> <li><a href="https://www.tv-tokyo.co.jp/anime/pocketmonster2023/">Official Website</a></li> <li><strong><a href="/r/pokemonanime">/r/pokemonanime</a></strong></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="cen
+
+## Anyone have this scene burned into their mind since childhood (Digimon)
+ - [https://www.reddit.com/r/anime/comments/1ivbvk7/anyone_have_this_scene_burned_into_their_mind](https://www.reddit.com/r/anime/comments/1ivbvk7/anyone_have_this_scene_burned_into_their_mind)
+ - RSS feed: $source
+ - date published: 2025-02-22T05:49:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ivbvk7/anyone_have_this_scene_burned_into_their_mind/"> <img src="https://external-preview.redd.it/NV8qTLaSn0mmZpQLXLnniMVNHVi7jk6M-gD20xRnSxE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8c009e264b1ced3f9ab2b2b1b0726470d9d9c029" alt="Anyone have this scene burned into their mind since childhood (Digimon)" title="Anyone have this scene burned into their mind since childhood (Digimon)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>It’s just a great use of a shitty song, given the romantic conflict between Tai and Sora</p> <p>Makes me think about my own circle of friends growing up and what they’re up to every day too</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/xTripNinja"> /u/xTripNinja </a> <br/> <span><a href="https://youtu.be/mJ8BFffUe_E?si=GNIdE_RcaQPxjzzW">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1ivbvk7/anyone_have_this_sce
+
+## The Grimm Variations - Terrifying and Awesome Fairytale Adaptions
+ - [https://www.reddit.com/r/anime/comments/1ivbtb4/the_grimm_variations_terrifying_and_awesome](https://www.reddit.com/r/anime/comments/1ivbtb4/the_grimm_variations_terrifying_and_awesome)
+ - RSS feed: $source
+ - date published: 2025-02-22T05:45:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1ivbtb4/the_grimm_variations_terrifying_and_awesome/"> <img src="https://b.thumbs.redditmedia.com/OayBs-H6T7BZx7PMdrleJf836RJgjsSBcC38WW_bSpY.jpg" alt="The Grimm Variations - Terrifying and Awesome Fairytale Adaptions" title="The Grimm Variations - Terrifying and Awesome Fairytale Adaptions" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I&#39;m a fairytale fan and have watched a variety of different adaptions, but none have been this kind of dark and I love it. I&#39;ve never been terrified of Cinderella before.</p> <p>I recommend it if you&#39;re looking for a twisted fairytale anime.</p> <p><a href="https://preview.redd.it/b9lcufhbpmke1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=cc68d1610346a3e5792cf4dfadb2d8dd8354f4e5">https://preview.redd.it/b9lcufhbpmke1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=cc68d1610346a3e5792cf4dfadb2d8dd8354f4e5</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a
+
+## What's Your Anime of the Season Currently?
+ - [https://www.reddit.com/r/anime/comments/1iva0ky/whats_your_anime_of_the_season_currently](https://www.reddit.com/r/anime/comments/1iva0ky/whats_your_anime_of_the_season_currently)
+ - RSS feed: $source
+ - date published: 2025-02-22T03:59:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>As we are already halfway through this winter season, which anime of this season is your &#39;Anime of the Season&#39; contender? </p> <p>id personally say mine currently is <strong>Flower and Asura</strong>. i was so surprised by how much i love this series. i&#39;m a big book/story person so the subject for this show is absolutely up my alley. </p> <p>so which anime is yours? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/5iv3_"> /u/5iv3_ </a> <br/> <span><a href="https://www.reddit.com/r/anime/comments/1iva0ky/whats_your_anime_of_the_season_currently/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1iva0ky/whats_your_anime_of_the_season_currently/">[comments]</a></span>
+
