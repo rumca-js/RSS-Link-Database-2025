@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-23T20:13:39+00:00",
+        "description": "Investigators link the $1.4B Bybit hack to North Korea\u2019s Lazarus Group, exposing a major crypto heist tied to state-backed cybercrime and money laundering.",
+        "id": 2180002,
+        "language": "en-US",
+        "link": "https://hackread.com/investigators-link-bybit-hack-north-korea-lazarus-group",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Investigators Link $1.4B Bybit Hack to North Korea\u2019s Lazarus Group",
+        "vote": 0
+    }
+]

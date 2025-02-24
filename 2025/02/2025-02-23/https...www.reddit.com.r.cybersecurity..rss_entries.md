@@ -1,0 +1,163 @@
+# Source:cybersecurity, URL:https://www.reddit.com/r/cybersecurity/.rss, language:
+
+## Major U.S. News Publisher Faces Major Cyberattack Disrupting Operations
+ - [https://www.reddit.com/r/cybersecurity/comments/1iwkjql/major_us_news_publisher_faces_major_cyberattack](https://www.reddit.com/r/cybersecurity/comments/1iwkjql/major_us_news_publisher_faces_major_cyberattack)
+ - RSS feed: $source
+ - date published: 2025-02-23T21:05:38+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Dark-Marc"> /u/Dark-Marc </a> <br/> <span><a href="https://www.reddit.com/r/pwnhub/comments/1iw2w2d/major_us_news_publisher_faces_major_cyberattack/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iwkjql/major_us_news_publisher_faces_major_cyberattack/">[comments]</a></span>
+
+## CrowdStrike in VirusTotal
+ - [https://www.reddit.com/r/cybersecurity/comments/1iwibjp/crowdstrike_in_virustotal](https://www.reddit.com/r/cybersecurity/comments/1iwibjp/crowdstrike_in_virustotal)
+ - RSS feed: $source
+ - date published: 2025-02-23T19:31:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Why does CrowdStrike Falcon engine in VirusTotal so often fail to detect malware samples?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/helucl54"> /u/helucl54 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iwibjp/crowdstrike_in_virustotal/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iwibjp/crowdstrike_in_virustotal/">[comments]</a></span>
+
+## Those of you who have a cybersecurity consulting firm in the EU what are some of the lessons learned?
+ - [https://www.reddit.com/r/cybersecurity/comments/1iwhupk/those_of_you_who_have_a_cybersecurity_consulting](https://www.reddit.com/r/cybersecurity/comments/1iwhupk/those_of_you_who_have_a_cybersecurity_consulting)
+ - RSS feed: $source
+ - date published: 2025-02-23T19:12:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>For those of you who have launched a consulting company in the EU (e.g. providing pentest, audit, training services), what key lessons have you learned? </p> <p>Would love to hear your insights—both successes and mistakes.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Abject-Substance-108"> /u/Abject-Substance-108 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iwhupk/those_of_you_who_have_a_cybersecurity_consulting/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iwhupk/those_of_you_who_have_a_cybersecurity_consulting/">[comments]</a></span>
+
+## US authorities warn Ghost ransomware leverages older CVEs
+ - [https://www.reddit.com/r/cybersecurity/comments/1iwgaen/us_authorities_warn_ghost_ransomware_leverages](https://www.reddit.com/r/cybersecurity/comments/1iwgaen/us_authorities_warn_ghost_ransomware_leverages)
+ - RSS feed: $source
+ - date published: 2025-02-23T18:06:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1iwgaen/us_authorities_warn_ghost_ransomware_leverages/"> <img src="https://external-preview.redd.it/B0iKKlQnuKivBHFacABwtHD9EeVQ8mGey7pGQzQLBGk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ccd3378fdc4943c5b8fc96d732592bd8942c1c35" alt="US authorities warn Ghost ransomware leverages older CVEs" title="US authorities warn Ghost ransomware leverages older CVEs" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>&quot;The Cring&quot; has leveraged vulnerabilities in Fortinet FortiOS, Adobe ColdFusion, Microsoft SharePoint and Microsoft Exchange, according to the joint FBI and CISA advisory.</p> <p>Ghost threat actors are known to upload web shells to compromised servers and leverage Windows Command Prompt or PowerShell to download Cobalt Strike, according to the advisory. The attackers typically only spend a few days on targeted networks, often deploying ransomware on the day of the initial compromise. </p> <
+
+## Implications of Post-Federal Society on Cybersecurity
+ - [https://www.reddit.com/r/cybersecurity/comments/1iwerf8/implications_of_postfederal_society_on](https://www.reddit.com/r/cybersecurity/comments/1iwerf8/implications_of_postfederal_society_on)
+ - RSS feed: $source
+ - date published: 2025-02-23T17:02:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Mods - hypothetical scenario question to get experts&#39; take on implications and outcomes regarding cybersecurity; not a political or editorial piece.</p> <p>Tried asking this question in other subs and have so far received too many low effort responses. Hoping you all can provide more thoughtful comments than what I&#39;ve received elsewhere.</p> <p>I think (my personal opinion) the US federal system is headed towards disintegration in the coming decades, with the states to step in as successor states (soviet-style collapse). Whether or not you agree, endorse the hypothetical for the sake of discussion. I&#39;m already aware the odds of occurrence are low; not the point.</p> <p>In the soviet collapse, everyone didn&#39;t die, everything didn&#39;t blow up, rather the succeeding countries stepped in to fill the power vacuum and have functioning (arguably thriving) societies today. As an example, Poland was long under the Soviet yoke and are now doi
+
+## Noob Question: Is Cyber security Hackers the same as (black hat hackers) but just using their knowledge to help people and businesses?
+ - [https://www.reddit.com/r/cybersecurity/comments/1iwc6r9/noob_question_is_cyber_security_hackers_the_same](https://www.reddit.com/r/cybersecurity/comments/1iwc6r9/noob_question_is_cyber_security_hackers_the_same)
+ - RSS feed: $source
+ - date published: 2025-02-23T15:09:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know this might not be the right sub to ask, but I was just curious cause I took a intro to IT last semester and was actually interested in it, so I was curious if cyber security people can become ACTUAL hackers for the greater good.... Like Spiderman lol or do they just use basic protocols to try and protect businesses in other words BORING? </p> <p>Thank you</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CypherMindX"> /u/CypherMindX </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iwc6r9/noob_question_is_cyber_security_hackers_the_same/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iwc6r9/noob_question_is_cyber_security_hackers_the_same/">[comments]</a></span>
+
+## Beware: PayPal "New Address" feature abused to send phishing emails
+ - [https://www.reddit.com/r/cybersecurity/comments/1iwb46f/beware_paypal_new_address_feature_abused_to_send](https://www.reddit.com/r/cybersecurity/comments/1iwb46f/beware_paypal_new_address_feature_abused_to_send)
+ - RSS feed: $source
+ - date published: 2025-02-23T14:18:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1iwb46f/beware_paypal_new_address_feature_abused_to_send/"> <img src="https://external-preview.redd.it/m82wx92iU_DYhWPJgLp5Un1SoxhRqgjDO87nyTYLA6Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a8c606212af16dd4b5e541447df026bface2c62" alt="Beware: PayPal &quot;New Address&quot; feature abused to send phishing emails" title="Beware: PayPal &quot;New Address&quot; feature abused to send phishing emails" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CYRISMA_Buddy"> /u/CYRISMA_Buddy </a> <br/> <span><a href="https://www.bleepingcomputer.com/news/security/beware-paypal-new-address-feature-abused-to-send-phishing-emails/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iwb46f/beware_paypal_new_address_feature_abused_to_send/">[comments]</a></span> </td></tr></table>
+
+## Wireless vs. Internal Network: What’s the Difference?
+ - [https://www.reddit.com/r/cybersecurity/comments/1iwag3s/wireless_vs_internal_network_whats_the_difference](https://www.reddit.com/r/cybersecurity/comments/1iwag3s/wireless_vs_internal_network_whats_the_difference)
+ - RSS feed: $source
+ - date published: 2025-02-23T13:44:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m confused about the term “wireless network” in cybersecurity. Often, I see it mentioned along with risk assessments before connecting to an organization’s internal network. What exactly defines a “wireless network,” and how is it connected to the internal network in practice? Any real-world examples would be really helpful.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Familiar-Barber-9250"> /u/Familiar-Barber-9250 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iwag3s/wireless_vs_internal_network_whats_the_difference/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iwag3s/wireless_vs_internal_network_whats_the_difference/">[comments]</a></span>
+
+## Best note-taking and organization app?
+ - [https://www.reddit.com/r/cybersecurity/comments/1iwaemo/best_notetaking_and_organization_app](https://www.reddit.com/r/cybersecurity/comments/1iwaemo/best_notetaking_and_organization_app)
+ - RSS feed: $source
+ - date published: 2025-02-23T13:42:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all, recently started trying to learn more about real IT and networking/cybersecurity. I&#39;ve started doing online courses and certifications and was looking for a good secure notetaking tool. Cyber mentor had a tier-list, but it&#39;s over a year old. I&#39;ve used Notion, but it wasn&#39;t very intuitive to me. Got Obsidian last night and haven&#39;t messed with it much yet. Open to any suggestions. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Low_Ostrich1268"> /u/Low_Ostrich1268 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iwaemo/best_notetaking_and_organization_app/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iwaemo/best_notetaking_and_organization_app/">[comments]</a></span>
+
+## Anne Arundel County Hit by Ransomware Attack Amid Maryland Cyber Threats
+ - [https://www.reddit.com/r/cybersecurity/comments/1iw9ybk/anne_arundel_county_hit_by_ransomware_attack_amid](https://www.reddit.com/r/cybersecurity/comments/1iw9ybk/anne_arundel_county_hit_by_ransomware_attack_amid)
+ - RSS feed: $source
+ - date published: 2025-02-23T13:18:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1iw9ybk/anne_arundel_county_hit_by_ransomware_attack_amid/"> <img src="https://external-preview.redd.it/h47EZuZtMuaglPtlpnGfVVZOkwL38jHqxQMxyZJKoMg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=75dfb8ae3e7bd97f65de1e73695e5a1d3932f87f" alt="Anne Arundel County Hit by Ransomware Attack Amid Maryland Cyber Threats" title="Anne Arundel County Hit by Ransomware Attack Amid Maryland Cyber Threats" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CatfishEnchiladas"> /u/CatfishEnchiladas </a> <br/> <span><a href="https://dysruptionhub.com/anne-arundel-county-cyberattack/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iw9ybk/anne_arundel_county_hit_by_ransomware_attack_amid/">[comments]</a></span> </td></tr></table>
+
+## AI Governance Tools and Resources?
+ - [https://www.reddit.com/r/cybersecurity/comments/1iw943r/ai_governance_tools_and_resources](https://www.reddit.com/r/cybersecurity/comments/1iw943r/ai_governance_tools_and_resources)
+ - RSS feed: $source
+ - date published: 2025-02-23T12:31:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>We started working on our AI Governance. Need a solution to provide a place to governance use of AI in our environment including managing different AI uses cases and vendor tools with AI features, classifying risks, etc. </p> <p>Additionally, looking for good AI Governance resources and how to build a tool for it. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ram3nboy"> /u/ram3nboy </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iw943r/ai_governance_tools_and_resources/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iw943r/ai_governance_tools_and_resources/">[comments]</a></span>
+
+## Bypassing CDR
+ - [https://www.reddit.com/r/cybersecurity/comments/1iw7uhm/bypassing_cdr](https://www.reddit.com/r/cybersecurity/comments/1iw7uhm/bypassing_cdr)
+ - RSS feed: $source
+ - date published: 2025-02-23T11:09:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, Anyone here knows if there are reports of successful bypass of a CDR (Content Disarm and reconstruction) solution. All CDR solutions say they prevent APT and zero day malwares, Im curious if there are hacking reports about bypassing them. Im talking specifically on CDR and not sandboxing/ regular AV’s</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EZWINEZLIFE"> /u/EZWINEZLIFE </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iw7uhm/bypassing_cdr/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iw7uhm/bypassing_cdr/">[comments]</a></span>
+
+## Iran and Xaiomi
+ - [https://www.reddit.com/r/cybersecurity/comments/1iw7767/iran_and_xaiomi](https://www.reddit.com/r/cybersecurity/comments/1iw7767/iran_and_xaiomi)
+ - RSS feed: $source
+ - date published: 2025-02-23T10:24:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>When Iran manages to make contact with potential delegates the first thing Iran asks them is to change their phones to a Xaiomi phone. Why?</p> <p>On a personal note - Does owning a Xaiomi phone expose me more than a Samsung to criminal hacking, identity theft etc?</p> <p>What about Lenovo - its also Chinese and many major companies use thinkpad as a default</p> <p>Can someone enlighten me whats the current look on this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Distinct-Writer-3906"> /u/Distinct-Writer-3906 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iw7767/iran_and_xaiomi/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iw7767/iran_and_xaiomi/">[comments]</a></span>
+
+## Has SnoopGod Linux Been Discontinued?
+ - [https://www.reddit.com/r/cybersecurity/comments/1iw6vw1/has_snoopgod_linux_been_discontinued](https://www.reddit.com/r/cybersecurity/comments/1iw6vw1/has_snoopgod_linux_been_discontinued)
+ - RSS feed: $source
+ - date published: 2025-02-23T10:01:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I’ve been a fan of SnoopGod Linux for a while now, and it’s been my go-to distro for security-focused tasks. However, I’ve noticed that there hasn’t been much activity or updates lately. The official website is down, and I can’t find any recent news or announcements from the developers.</p> <p>Does anyone know if SnoopGod Linux has been discontinued? Or is the project just on hiatus? I’d hate to see such a unique and niche distro fade away, especially with its focus on penetration testing and cybersecurity.</p> <p>If anyone has any info or insights, I’d appreciate it! Also, if it is discontinued, are there any similar distros you’d recommend as an alternative?</p> <p>Thanks in advance!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Karkhamun"> /u/Karkhamun </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iw6vw1/has_snoopgod_linux_been_discontinued/">[link]</a></spa
+
+## Finding Juicy Information from GraphQL
+ - [https://www.reddit.com/r/cybersecurity/comments/1iw5sif/finding_juicy_information_from_graphql](https://www.reddit.com/r/cybersecurity/comments/1iw5sif/finding_juicy_information_from_graphql)
+ - RSS feed: $source
+ - date published: 2025-02-23T08:44:03+00:00
+
+<!-- SC_OFF --><div class="md"><h1>Introduction</h1> <p>GraphQL APIs have become widely adopted due to their flexibility, but <strong>misconfigurations can expose sensitive data</strong> to unauthorized users. Attackers and bug bounty hunters often leverage <strong>GraphQL queries</strong> to extract:</p> <p>🔎 <strong>Hidden API endpoints</strong><br/> 🔎 <strong>User emails and credentials</strong><br/> 🔎 <strong>Internal system data</strong><br/> 🔎 <strong>Private reports and security information</strong></p> <p>In this article, we’ll <strong>explore practical techniques</strong> for extracting <strong>juicy information</strong> from GraphQL APIs, how attackers abuse these vulnerabilities, and how to <strong>harden your GraphQL endpoints</strong> against exploitation.</p> <h1>1️⃣ Finding Exposed GraphQL Endpoints</h1> <p>Before extracting sensitive data, you first need to <strong>locate the GraphQL endpoint</strong>. Common naming conventions for GraphQL APIs include:</p> <p>Read th
+
+## The Art of Self-Healing Malware: A Deep Dive into Code That Fixes Itsef
+ - [https://www.reddit.com/r/cybersecurity/comments/1iw2ma0/the_art_of_selfhealing_malware_a_deep_dive_into](https://www.reddit.com/r/cybersecurity/comments/1iw2ma0/the_art_of_selfhealing_malware_a_deep_dive_into)
+ - RSS feed: $source
+ - date published: 2025-02-23T05:10:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I recently went down a rabbit hole researching <strong>self-healing malware</strong>—the kind that <strong>repairs itself, evades detection, and persists even after removal attempts</strong>. From <strong>mutation engines</strong> to <strong>network-based regeneration</strong>, these techniques make modern malware incredibly resilient.</p> <p>In my latest write-up, I break down:</p> <ul> <li> How malware uses <strong>polymorphism &amp; metamorphism</strong> to rewrite itself.<br/></li> <li>Techniques like <strong>DLL injection, process hollowing, and thread hijacking</strong> for stealth. </li> <li><strong>Persistence tricks</strong> (NTFS ADS, registry storage, WMI events). </li> <li>How some strains fetch fresh payloads via <strong>C2 servers &amp; P2P networks</strong>.</li> <li><strong>Defensive measures</strong> to detect &amp; counter these threats.</li> </ul> <p>Would love to hear your thoughts on how defenders can stay ah
+
+## Security engineering interviews @ Google
+ - [https://www.reddit.com/r/cybersecurity/comments/1iw207y/security_engineering_interviews_google](https://www.reddit.com/r/cybersecurity/comments/1iw207y/security_engineering_interviews_google)
+ - RSS feed: $source
+ - date published: 2025-02-23T04:33:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>A lot of sec engineering posts here. My exposure to scripting has mainly been power shell in a Microsoft heavy environment. I know of the Nolan resource on Security engineering. However, are there any other resources or books you&#39;d recommend? Entry level sec eng role that is. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Secure_Study8765"> /u/Secure_Study8765 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iw207y/security_engineering_interviews_google/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iw207y/security_engineering_interviews_google/">[comments]</a></span>
+
+## Apple Ends iCloud Encryption in UK Amid Government Data Demands
+ - [https://www.reddit.com/r/cybersecurity/comments/1iw1tq7/apple_ends_icloud_encryption_in_uk_amid](https://www.reddit.com/r/cybersecurity/comments/1iw1tq7/apple_ends_icloud_encryption_in_uk_amid)
+ - RSS feed: $source
+ - date published: 2025-02-23T04:23:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1iw1tq7/apple_ends_icloud_encryption_in_uk_amid/"> <img src="https://external-preview.redd.it/TmTD-wMT6osNSuQvp_ZaDmY5eMnDv-mfD8yLE3Bog9A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e70ac0db95d8894f0c581f792eef2593e5457e95" alt="Apple Ends iCloud Encryption in UK Amid Government Data Demands" title="Apple Ends iCloud Encryption in UK Amid Government Data Demands" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fabulous_Bluebird931"> /u/Fabulous_Bluebird931 </a> <br/> <span><a href="https://verdaily.com/apple-ends-icloud-encryption-uk-govt-data-demands/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1iw1tq7/apple_ends_icloud_encryption_in_uk_amid/">[comments]</a></span> </td></tr></table>
+
+## 🔍 I Built a Web Crawler for Pentesting – Link Dumper! 🚀
+ - [https://www.reddit.com/r/cybersecurity/comments/1iw0wyh/i_built_a_web_crawler_for_pentesting_link_dumper](https://www.reddit.com/r/cybersecurity/comments/1iw0wyh/i_built_a_web_crawler_for_pentesting_link_dumper)
+ - RSS feed: $source
+ - date published: 2025-02-23T03:32:09+00:00
+
+<!-- SC_OFF --><div class="md"><h1>Hey <a href="/r/cybersecurity">r/cybersecurity</a>👋</h1> <p>I recently built <strong>Link Dumper</strong>, a Python tool that <strong>crawls websites</strong> and extracts important files like and sensetive data::<br/> ✅ <strong>JavaScript files (.js)</strong> – Can contain API keys, sensitive endpoints, etc.<br/> ✅ <strong>Extract Sensetive info:</strong>– APi keys ,version numbers..<br/> ✅ <strong>Recursive crawling</strong> – Finds deeper links &amp; assets<br/> ✅ <strong>Multi-threaded for speed</strong> – Faster enumeration for large sites</p> <p>🔗 <strong>GitHub Repo:</strong> <a href="https://github.com/walidzitouni/Link_dumper">https://github.com/walidzitouni/Link_dumper</a></p> <p>This is My linkedin: <a href="https://www.linkedin.com/in/walid-zitouni-634809299/">https://www.linkedin.com/in/walid-zitouni-634809299/</a></p> <p>💡 <strong>Why is this useful?</strong></p> <ul> <li>Helps <strong>bug bounty hunters</strong> find hidden attack sur
+
+## Question For ISSMs
+ - [https://www.reddit.com/r/cybersecurity/comments/1ivzo96/question_for_issms](https://www.reddit.com/r/cybersecurity/comments/1ivzo96/question_for_issms)
+ - RSS feed: $source
+ - date published: 2025-02-23T02:24:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have recently been selected for an interview as a ISSM to help stand up a NIST 800-171 compliant infrastructure. Also I’ll be working in some respects as a systems admin primarily on Microsoft products.</p> <p>I com from a background as a security analyst, the possible position seems like quite the jump and I’m excited for it since I don’t for see doing technical work the entirety of my career. However, I want to make sure I’m stepping into this role with the best foot forward. I would appreciate any helpful tips or things to help prepare myself for what I’ll be taking on.</p> <p>Thank you!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Senior-Gear4688"> /u/Senior-Gear4688 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ivzo96/question_for_issms/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ivzo96/question_for_issms/">[comments]</a></span>
+
+## S 245 - Insure Cybersecurity Act of 2025
+ - [https://www.reddit.com/r/cybersecurity/comments/1ivxkjx/s_245_insure_cybersecurity_act_of_2025](https://www.reddit.com/r/cybersecurity/comments/1ivxkjx/s_245_insure_cybersecurity_act_of_2025)
+ - RSS feed: $source
+ - date published: 2025-02-23T00:36:20+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Infinite_Flounder958"> /u/Infinite_Flounder958 </a> <br/> <span><a href="https://www.opencongress.net/bill-details/32489">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ivxkjx/s_245_insure_cybersecurity_act_of_2025/">[comments]</a></span>
+
+## Containers are bloated and that bloat is a security risk. We built a tool to remove it!
+ - [https://www.reddit.com/r/cybersecurity/comments/1ivxg9s/containers_are_bloated_and_that_bloat_is_a](https://www.reddit.com/r/cybersecurity/comments/1ivxg9s/containers_are_bloated_and_that_bloat_is_a)
+ - RSS feed: $source
+ - date published: 2025-02-23T00:30:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>For the past couple of years, we have been looking at container security. Turns out that up to 97% of vulerabilities in acontainer can be just due to bloatware, code/files/features that you never use [1]. While there has been a few efforts to develop debloating tools, they failed with many containers when we tested them. So we went out and developed a container (file) debloating tool and released it with an MIT license.</p> <p>Github link: <a href="https://github.com/negativa-ai/BLAFS">https://github.com/negativa-ai/BLAFS</a></p> <p>A full description here: <a href="https://arxiv.org/abs/2305.04641">https://arxiv.org/abs/2305.04641</a></p> <p>TLDR; the tool uses the layered filesystem of containers to discover and remove unused files.</p> <p>Here is a table with the results for 10 popular containers on dockerhub:</p> <table><thead> <tr> <th align="left">Container</th> <th align="left">Original size (MB)</th> <th align="left">Deblo
+
+## Cyber insurance for businesses
+ - [https://www.reddit.com/r/cybersecurity/comments/1ivx7j9/cyber_insurance_for_businesses](https://www.reddit.com/r/cybersecurity/comments/1ivx7j9/cyber_insurance_for_businesses)
+ - RSS feed: $source
+ - date published: 2025-02-23T00:18:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is it worth getting and what policy from whom would you recommend buying?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Electronic_Diver4841"> /u/Electronic_Diver4841 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ivx7j9/cyber_insurance_for_businesses/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1ivx7j9/cyber_insurance_for_businesses/">[comments]</a></span>
+

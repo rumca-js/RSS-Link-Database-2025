@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-23T13:00:07+00:00",
+        "description": "A lot of new junior developers can't actually code... but this isn't new.\n\nOriginal Article by Namanyay: https://nmn.gl/blog/ai-and-learning\n\nReferenced Videos:\nhttps://youtu.be/RAf7Y6DWsh0\nhttps://youtube.com/shorts/Xffgj-RjOXw\n\nIf you're a developer, sign up to my free newsletter Dev Notes \ud83d\udc49 https://www.devnotesdaily.com/\n\nIf you're a student, checkout my Notion template Studious: https://notionstudent.com\n\nDon't know why you'd want to follow me on other socials. I don't even post. But here you go.\n\ud83d\udc31\u200d\ud83d\ude80 GitHub: https://github.com/forrestknight\n\ud83d\udc26 Twitter: https://www.twitter.com/forrestpknight\n\ud83d\udcbc LinkedIn: https://www.linkedin.com/in/forrestpknight\n\ud83d\udcf8 Instagram: https://www.instagram.com/forrestpknight\n\nSuper secret message: if you like this style of content, I may or may not make more of it at a new super secret channel that you're not allowed to tell anyone about @moreforrest",
+        "id": 2177862,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=6Jji5HNMze0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6Jji5HNMze0/hqdefault.jpg",
+        "title": "New Junior Developers Can't Actually Code",
+        "vote": 0
+    }
+]

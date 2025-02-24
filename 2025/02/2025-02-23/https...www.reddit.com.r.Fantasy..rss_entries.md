@@ -1,0 +1,359 @@
+# Source:Reddit Fantasy, URL:https://www.reddit.com/r/Fantasy/.rss, language:en
+
+## Any Modern Works That Include Halflings In Their World?
+ - [https://www.reddit.com/r/Fantasy/comments/1iwnf38/any_modern_works_that_include_halflings_in_their](https://www.reddit.com/r/Fantasy/comments/1iwnf38/any_modern_works_that_include_halflings_in_their)
+ - RSS feed: $source
+ - date published: 2025-02-23T23:11:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>They don&#39;t need to be part of the main group of characters but I do like them to be included especially if you already have elves,dwarves, and humans. Anything from traditional published to indie published! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GaelG721"> /u/GaelG721 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwnf38/any_modern_works_that_include_halflings_in_their/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwnf38/any_modern_works_that_include_halflings_in_their/">[comments]</a></span>
+
+## Top 10 Fantasy Worlds I Fell in Love With: #10
+ - [https://www.reddit.com/r/Fantasy/comments/1iwmfud/top_10_fantasy_worlds_i_fell_in_love_with_10](https://www.reddit.com/r/Fantasy/comments/1iwmfud/top_10_fantasy_worlds_i_fell_in_love_with_10)
+ - RSS feed: $source
+ - date published: 2025-02-23T22:27:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>The world of DnD; Faerun; the pirate lords of Luskan and the mysterious underworld of Waterdeep; the terrifyingly beautiful cities of the drow reaching up from the Underdark to connect to the deepest holds of the Delzoun dwarves; dragons, elves, and an entire universe constructed with the idea that a reader, player, or writer can step into it at any time and say &quot;I&#39;d like to do this, this, and this.&quot; and the universe shouts back &quot;Fuck yeah!&quot;</p> <p>I first picked up The Thousand Orcs by R.A. Salvatore from a bookstore in Traverse City, MI when I was 13. I was somewhat enamored of fantasy and science fiction novels, an avid gamer, and I had always been interested in creating my own little stories. However, when I took my first leap into the ocean of lore and characters that is Faerun, a new door opened in my childhood mind. I finished the series following the expansion of Obould and his orcs in the Silver Marches and realized t
+
+## Single POV books
+ - [https://www.reddit.com/r/Fantasy/comments/1iwmf8z/single_pov_books](https://www.reddit.com/r/Fantasy/comments/1iwmf8z/single_pov_books)
+ - RSS feed: $source
+ - date published: 2025-02-23T22:26:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Can someone please recommend me some good Red rising / The will of the many style books that have character growth, training, war etc. </p> <p>I’ve read the trilogy of Red rising (trying to get through iron gold not a big fan of the swapping of POV’s) and up to date on Fourth wing, just need to relieve that itch whilst I wait for The strength of the few to come out.</p> <p>Just as an FYI I am currently reading The way of Kings. </p> <p>Any recommendations would be a massive help! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LJones47"> /u/LJones47 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwmf8z/single_pov_books/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwmf8z/single_pov_books/">[comments]</a></span>
+
+## I like the world of the Empyrean Series but feel like it's overshadowed by the romance/limited by Violets POV. Recommendations?
+ - [https://www.reddit.com/r/Fantasy/comments/1iwkxq2/i_like_the_world_of_the_empyrean_series_but_feel](https://www.reddit.com/r/Fantasy/comments/1iwkxq2/i_like_the_world_of_the_empyrean_series_but_feel)
+ - RSS feed: $source
+ - date published: 2025-02-23T21:22:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi! I generally enjoyed reading Fourth Wing but the more i think about it the more frustrated i am that it focuses on Violet and Xaden so much (yes i&#39;m aware that it&#39;s Romantasy). I enjoyed the simple rather language because it was easy to follow. And i also enjoyed most of the characters, i&#39;m just sad that we dont get t.o know most of them better.</p> <p>So i guess what I&#39;m looking for is a fantasy book/book series with great, well written characters, possibly multiple POVs, character growth and please dont let the MC be a complete Mary Sue. </p> <p>It doesnt have to be a medieval setting, i&#39;m also open to modern or futuristic settings, although i would prefer something older.</p> <p>I dont have anything against love stories i just dont like it if they consume like half the plot. Give me a ship and i&#39;ll happily root for it, just dont be as present as in Romantasy. If i had to pick a trope it&#39;d be something slowburn. Just 
+
+## Young adult Fantasy books Recommendations?
+ - [https://www.reddit.com/r/Fantasy/comments/1iwkuvj/young_adult_fantasy_books_recommendations](https://www.reddit.com/r/Fantasy/comments/1iwkuvj/young_adult_fantasy_books_recommendations)
+ - RSS feed: $source
+ - date published: 2025-02-23T21:19:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi! Looking for new fantasy books that are well written, but have no sex/sexual content (or at least, very little like in Grishaverse books). Innuendo is fine but no detailed descriptions or like really lewd paragraphs, please!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/W1SPIA"> /u/W1SPIA </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwkuvj/young_adult_fantasy_books_recommendations/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwkuvj/young_adult_fantasy_books_recommendations/">[comments]</a></span>
+
+## What are some cool world ideas for Dungeon Crawler Carl?
+ - [https://www.reddit.com/r/Fantasy/comments/1iwkrc7/what_are_some_cool_world_ideas_for_dungeon](https://www.reddit.com/r/Fantasy/comments/1iwkrc7/what_are_some_cool_world_ideas_for_dungeon)
+ - RSS feed: $source
+ - date published: 2025-02-23T21:14:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Imagine one where the technologically advanced Mantis are running the show. Theme is like the card game Netrunner or rpg Shadowrun where they are in heist situation as hackers and mercenaries that have to rob a megacorp. Donut could get a special floor class for hacking.</p> <p>There is so much potential. I think the series could be extended to other owners of the cookbook.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LancelotLac"> /u/LancelotLac </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwkrc7/what_are_some_cool_world_ideas_for_dungeon/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwkrc7/what_are_some_cool_world_ideas_for_dungeon/">[comments]</a></span>
+
+## Assassin’s apprentice - first half of the book
+ - [https://www.reddit.com/r/Fantasy/comments/1iwkkog/assassins_apprentice_first_half_of_the_book](https://www.reddit.com/r/Fantasy/comments/1iwkkog/assassins_apprentice_first_half_of_the_book)
+ - RSS feed: $source
+ - date published: 2025-02-23T21:06:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve heard so many great things about Robin Hobb and finally decided to read Farseer trilogy. I’m halfway through the first book and I feel quite conflicted about it: - the book is really well written. It’s really nice prose, one of the better ones I’ve read lately. - however, I’m having a hard time connecting with the plot and the characters, the pacing seems a bit slow…</p> <p>How’s the rest of the book and the series?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Footbology"> /u/Footbology </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwkkog/assassins_apprentice_first_half_of_the_book/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwkkog/assassins_apprentice_first_half_of_the_book/">[comments]</a></span>
+
+## Recommendations for books books like The many travails of John Smith
+ - [https://www.reddit.com/r/Fantasy/comments/1iwjvxl/recommendations_for_books_books_like_the_many](https://www.reddit.com/r/Fantasy/comments/1iwjvxl/recommendations_for_books_books_like_the_many)
+ - RSS feed: $source
+ - date published: 2025-02-23T20:37:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello all,</p> <p>I have just finished listening to all 5 books of The Many Travails of John Smith and absolutely loved it and wanted to find something similar to scratch the itch it has left.</p> <p>Things I am looking for:</p> <ul> <li><p>Ordinary person finds out about the supernatural</p></li> <li><p>The story has to be humorous</p></li> <li><p>A bit of romance</p></li> <li><p>Would like a Mystery (optional but greatly appreciated)</p></li> </ul> <p>Thank you for any suggestions in advance 😊</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hentai_Appriciator"> /u/Hentai_Appriciator </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwjvxl/recommendations_for_books_books_like_the_many/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwjvxl/recommendations_for_books_books_like_the_many/">[comments]</a></span>
+
+## Fantasy Novels inspired by Central/Eastern Europe?
+ - [https://www.reddit.com/r/Fantasy/comments/1iwjl3g/fantasy_novels_inspired_by_centraleastern_europe](https://www.reddit.com/r/Fantasy/comments/1iwjl3g/fantasy_novels_inspired_by_centraleastern_europe)
+ - RSS feed: $source
+ - date published: 2025-02-23T20:25:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>I find a lot of fantasy novels like to base inspiration off of European countries, cultures, history etc. but so much of it ends up being based off Britain, France, Nordic countries or Rome. Are there any good novels that are clearly more inspired by Central or Eastern Europe? Places such as Germany, Poland, Czechia, Hungary, Romania and so forth.</p> <p>Doesn&#39;t matter if it&#39;s just a light basis or a full on Guy Gavriel Kay-style story where it&#39;s closer to historical fiction than fantasy, I&#39;d just like to hear some novels and series where this part of continent gets its time to shine</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tylerxtyler"> /u/tylerxtyler </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwjl3g/fantasy_novels_inspired_by_centraleastern_europe/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwjl3g/fantasy_novels_inspired_b
+
+## The fantasy genre and Mediterranean Europe
+ - [https://www.reddit.com/r/Fantasy/comments/1iwhzhi/the_fantasy_genre_and_mediterranean_europe](https://www.reddit.com/r/Fantasy/comments/1iwhzhi/the_fantasy_genre_and_mediterranean_europe)
+ - RSS feed: $source
+ - date published: 2025-02-23T19:17:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Honestly I’m not even sure if this is the correct sub to post this rant cause I don’t see people ranting here much but since it’s on topic I’ll just post it. Also sorry if I make mistakes explaining myself, English isn’t my native language. </p> <p>I’ve read several fantasy books and I’ve noticed a pattern in some of them and I wanna ask…what’s with Anglo authors (by Anglo I mean American/British/Australian white people) using Mediterranean Europe as inspo for their fantasy stories and describing the characters that come from those countries as POC? I’m Mediterranean European and it’s very confusing when a fictional country/region is inspired by either Greece, Spain, Italy, etc., and the characters that come from those fictional countries/regions are described as brown people. Nothing wrong with characterizing them as brown obviously, it’s fiction, what irks me is that there’s a pattern and it makes me think that all these Anglo authors have a huge m
+
+## Stormlight archive books 2 parts, or not?
+ - [https://www.reddit.com/r/Fantasy/comments/1iwhtq8/stormlight_archive_books_2_parts_or_not](https://www.reddit.com/r/Fantasy/comments/1iwhtq8/stormlight_archive_books_2_parts_or_not)
+ - RSS feed: $source
+ - date published: 2025-02-23T19:11:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>The UK Edition Stormlight archive books were first released as two part books. Meaning the way of the king part 1, way of the king part 2 and so on. </p> <p>However they removed the two part books, and instead made huge chunky books.</p> <p>What is your oppinion on this, do you prefer the chunky huge books, or the books split up in to two parts?</p> <p>Personally i prefer the two part books as they are not only more manageable, i believe the huge books doesnt look as good on the book shelves opposed to the more normal sized book which was the two parts</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Collection_Horror"> /u/Collection_Horror </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwhtq8/stormlight_archive_books_2_parts_or_not/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwhtq8/stormlight_archive_books_2_parts_or_not/">[comments]</a></span>
+
+## A (qualified) thumbs-up for the Chronicles of Shannara
+ - [https://www.reddit.com/r/Fantasy/comments/1iwhcu4/a_qualified_thumbsup_for_the_chronicles_of](https://www.reddit.com/r/Fantasy/comments/1iwhcu4/a_qualified_thumbsup_for_the_chronicles_of)
+ - RSS feed: $source
+ - date published: 2025-02-23T18:51:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>I first read The Sword of Shannara nearly 15 years ago. My opinion was the same as most people’s: it’s the abridged version of The Lord of the Rings. I never gave it a second thought.</p> <p>A couple of years later I bought the Voyage of the Jerle Shannara trilogy in a second-hand book stall. I was on holidays, and I wanted something simple to read. It did the job; I read them, sort-of enjoyed them, and hardly ever thought about them again.</p> <p>What I took from those books was that I like Terry Brooks’ descriptions of Dudes (non gender specific) Walking in the Woods. I don’t particularly care for the plots, the characters are pretty much cardboard cutouts, but I rather liked the bits about Dudes (non gender specific) Walking in the Woods.</p> <p>A couple of years ago I went on a long cross-country train journey, and I figured I wanted something simple and long, so I reached for The Elfstones of Shannara. It was the first book in the series that I 
+
+## Any heroic fantasy book series with warhammer 40k/fantasy type fight scenes?
+ - [https://www.reddit.com/r/Fantasy/comments/1iweqvh/any_heroic_fantasy_book_series_with_warhammer](https://www.reddit.com/r/Fantasy/comments/1iweqvh/any_heroic_fantasy_book_series_with_warhammer)
+ - RSS feed: $source
+ - date published: 2025-02-23T17:01:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Made a similar post on the same subreddit. Some i&#39;m looking for a heroic fantasy series set with medieval and dark age type weapons, which puts an emphasis on close combat with axes, swords and other weapons. Something i liked about about warhammer fight scenes was its emphasis on melee duels, and warriors in the setting which are better than the other warriors around them (which isnt really how it works in the real world, i think). For example for anyone who&#39;s read the horus heresy books, the fight with the outcast dead and the babu dhakal (or whatever), where one of the characters kills a fighter and then steal his weapon from him, before turning it on the rest of his buddies.</p> <p>Another example of this would be an excerpt from the space wolves first omnibus with a young ragnar blackmane:: &quot;<em>Somewhere in the madness a blow from a Grimskull axe split his shield. He killed the man who had the temerity to do this and caught his spi
+
+## Finished the Last King of Osten Ard, absolutely beautiful
+ - [https://www.reddit.com/r/Fantasy/comments/1iwef8a/finished_the_last_king_of_osten_ard_absolutely](https://www.reddit.com/r/Fantasy/comments/1iwef8a/finished_the_last_king_of_osten_ard_absolutely)
+ - RSS feed: $source
+ - date published: 2025-02-23T16:48:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been meaning to write this up as I finished the series about a month ago.</p> <p>All I can say is this series, and Memory Sorrow and Thorn are both immaculate series. We get many wonderful character moments. The books are long, but that means each of these moments have time to build and get great payoff </p> <p>I started this series last year, not long after a good friend of mine passed away. So seeing reunions and losses of loved ones definitely moved me to tears at times and enhanced how these books made me felt </p> <p>These are real moments. And the characters are fleshed out, and while they grow and change, Simon is always Simon. At his heart he is still that same moon calf from MST, just far wiser. Miriamele, while more cautious than her younger self, is still shrewd and willing to make a choice. The new characters are good too, but I loved seeing the characters from the first trilogy actually grow and evolve and not just stay the same
+
+## Should You Push Through A Rough Start To A Series?
+ - [https://www.reddit.com/r/Fantasy/comments/1iwe8ec/should_you_push_through_a_rough_start_to_a_series](https://www.reddit.com/r/Fantasy/comments/1iwe8ec/should_you_push_through_a_rough_start_to_a_series)
+ - RSS feed: $source
+ - date published: 2025-02-23T16:40:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have no idea how people feel about this (I think it’s generally mixed), but in my personal opinion, there is no need to “push through” a series that you don’t enjoy right away.</p> <p>In my experience, people who often tell you to push through, usually liked the series from the beginning anyway. I personally have just about never pushed through a series I wasn’t at first enjoying, to have my opinion drastically changed. (At best, I’ll just like it a tad bit more) All my favorite series I liked from the beginning. (Even if the first book was by far the worst in the series, it just worked for me) It took me a while to arrive to this philosophy, but nowadays I just don’t bother with series I don’t immediately enjoy somewhat.</p> <p>Anyway, what is your philosophy on “pushing through” a rough start? Do you agree or disagree with me, and why?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kooky_County9569"> /u/Koo
+
+## What is the next "forgotten classic?"
+ - [https://www.reddit.com/r/Fantasy/comments/1iwd17m/what_is_the_next_forgotten_classic](https://www.reddit.com/r/Fantasy/comments/1iwd17m/what_is_the_next_forgotten_classic)
+ - RSS feed: $source
+ - date published: 2025-02-23T15:48:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>Dune was revolutionary when it came out, it had a big influence on computer games in the nineties.</p> <p>But it seems like nobody had been talking about it or recommending it much in the ten to fifteen years before the movie. It was hugely influential, but Star Wars lifted a lot of concepts and kind of held its spot in pop culture.</p> <p>Now it feels like everyone&#39;s read it and at least a sequel or two.</p> <p>The Witcher also seems to have gotten a second look by many when Witcher III came out.</p> <p>I don&#39;t see any big-budget adaptations on the horizon, and don&#39;t know of any big-budget games to give a franchise a boost.</p> <p>I know Dragonriders and Earthsea are allegedly in production hell, Discworld won&#39;t get an adaptation anytime soon, and Moorcock says Elric is being turned down for being too similar to GoT and Witcher.</p> <p>So what do you think the next &quot;hidden classic&quot; Hollywood will dust off, and bookstores wi
+
+## r/Fantasy moderator applications run for one week, therefore we have 8 graphics (7 daily + 1 time zone targeted) prepared! Wait—what do you mean that since we included Monday that makes it 9 graphics total needed!? Hang on, I— *sounds of sawing, hammering, and a single scream echo in the background*
+ - [https://www.reddit.com/r/Fantasy/comments/1iwcwgq/rfantasy_moderator_applications_run_for_one_week](https://www.reddit.com/r/Fantasy/comments/1iwcwgq/rfantasy_moderator_applications_run_for_one_week)
+ - RSS feed: $source
+ - date published: 2025-02-23T15:42:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Fantasy/comments/1iwcwgq/rfantasy_moderator_applications_run_for_one_week/"> <img src="https://preview.redd.it/ydkj6ujlswke1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d18077732d57f3ae10deb71184558e25a30d8e5" alt="r/Fantasy moderator applications run for one week, therefore we have 8 graphics (7 daily + 1 time zone targeted) prepared! Wait—what do you mean that since we included Monday that makes it 9 graphics total needed!? Hang on, I— *sounds of sawing, hammering, and a single scream echo in the background*" title="r/Fantasy moderator applications run for one week, therefore we have 8 graphics (7 daily + 1 time zone targeted) prepared! Wait—what do you mean that since we included Monday that makes it 9 graphics total needed!? Hang on, I— *sounds of sawing, hammering, and a single scream echo in the background*" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rfantasygolem"> /u/rfantasygolem </
+
+## How to write a good magic school arc for a manga/manhwa? Like what things make them interesting for you guys and what things make them boring/cliché I'm new to writing pls help
+ - [https://www.reddit.com/r/Fantasy/comments/1iwcqqm/how_to_write_a_good_magic_school_arc_for_a](https://www.reddit.com/r/Fantasy/comments/1iwcqqm/how_to_write_a_good_magic_school_arc_for_a)
+ - RSS feed: $source
+ - date published: 2025-02-23T15:34:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>This is a action/adveture/fantasy story*</p> <p>I&#39;m stuck and don&#39;t know how i want to develop this arc of my story it&#39;s right before they have to travel the world and save the continent from dragons and other unfortunate events, I&#39;m so stressed I can&#39;t think straight because every time I think about my story I think about the good parts but I NEED to write this school, arc but I don&#39;t know how so I want advice on what things you guys have thought would be cool in a school arc and whats you dont like so I can think of something</p> <p>&quot;The best ideas come from inspiration many mids are better than one&quot;-I sounds so cool...right guys😆</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tony_star_raider7"> /u/Tony_star_raider7 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwcqqm/how_to_write_a_good_magic_school_arc_for_a/">[link]</a></span> &#32; <span><a href="h
+
+## Tell me your favourite fantasy novel released at least 30 years ago and convince me to read it with one sentence.
+ - [https://www.reddit.com/r/Fantasy/comments/1iwcg1e/tell_me_your_favourite_fantasy_novel_released_at](https://www.reddit.com/r/Fantasy/comments/1iwcg1e/tell_me_your_favourite_fantasy_novel_released_at)
+ - RSS feed: $source
+ - date published: 2025-02-23T15:21:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>Inspired by the thread about modern fantasy novels. But I like older stuff.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nowordsofitsown"> /u/Nowordsofitsown </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwcg1e/tell_me_your_favourite_fantasy_novel_released_at/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwcg1e/tell_me_your_favourite_fantasy_novel_released_at/">[comments]</a></span>
+
+## Mystery Fantasy Novels
+ - [https://www.reddit.com/r/Fantasy/comments/1iwbjes/mystery_fantasy_novels](https://www.reddit.com/r/Fantasy/comments/1iwbjes/mystery_fantasy_novels)
+ - RSS feed: $source
+ - date published: 2025-02-23T14:38:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey community!</p> <p>I want to read a good mystery Fantasy novel where the mystery isn&#39;t just &quot;Ace Detective Telepath is trying to solve a murder.&quot;</p> <p>I want problems, digging into archeology, finding the mysteries of the universe that may fundamentally change the way the world works. A broad example would be part of Dalinar&#39;s storyline in Stormlight Archive.</p> <p>Any recommendations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wraithgar"> /u/Wraithgar </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwbjes/mystery_fantasy_novels/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwbjes/mystery_fantasy_novels/">[comments]</a></span>
+
+## Where do people stand on Peter Hamilton?
+ - [https://www.reddit.com/r/Fantasy/comments/1iwbg8y/where_do_people_stand_on_peter_hamilton](https://www.reddit.com/r/Fantasy/comments/1iwbg8y/where_do_people_stand_on_peter_hamilton)
+ - RSS feed: $source
+ - date published: 2025-02-23T14:34:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;d never read him growing up because he was always presented as &quot;Britain&#39;s right-wing response to Iain Banks&quot;, which seemed to translate as &quot;not for me&quot;. However, in these goblin times I found myself kinda craving a classic space opera where humans are just out there, doing their shit, not THAT different from how we are, but free of whatever the fuck we are currently dealing with here. So I went on Audible, put &quot;space opera&quot; in the search and he came up, which reminded me that this was someone whose entire body of work is space opera and who I&#39;d never read. </p> <p>Since then I&#39;ve finished <em>Pandora&#39;s Star</em> and am now halfway through <em>Judas Unchained</em> and while I absolutely see the problematic aspects of his worldviews - the glorification of the military and capitalism, the way-too-many &quot;great men&quot; etc. - most of it just reads as your standard #MenWritingWomen with cringy sex s
+
+## Standalone audiobook recs
+ - [https://www.reddit.com/r/Fantasy/comments/1iwbdoe/standalone_audiobook_recs](https://www.reddit.com/r/Fantasy/comments/1iwbdoe/standalone_audiobook_recs)
+ - RSS feed: $source
+ - date published: 2025-02-23T14:31:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Currently looking for a standalone to listen to. I&#39;d like something on the longer side. I don&#39;t like overly poetic prose for audiobooks, so something that&#39;s easy to listen to. Really open to any kind of speculative fiction. Thank you! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/heyychiaki"> /u/heyychiaki </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwbdoe/standalone_audiobook_recs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwbdoe/standalone_audiobook_recs/">[comments]</a></span>
+
+## Manga reader going back to fantasy novels - suggestions based on what I liked ?
+ - [https://www.reddit.com/r/Fantasy/comments/1iwb9yt/manga_reader_going_back_to_fantasy_novels](https://www.reddit.com/r/Fantasy/comments/1iwb9yt/manga_reader_going_back_to_fantasy_novels)
+ - RSS feed: $source
+ - date published: 2025-02-23T14:26:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>Can skip to second paragraph if too long.</p> <p>Backstory; I was reading a lot of fantasy in high school and at the beginning of college. Then, when Covid hit, I started to watch a lot of animated shows and series. I&#39;m still reading some novels (finally read the HP books, Lord of the Rings and a couple of Discworld novels), but ever since I fell more into the anime rabbithole, a lot of my reading time has been focused on reading manga. I&#39;ve had it rough mentally in the past few years and watching things that felt more magical or light helped me, as well as consuming things aimed at a younger audience. Ultimately I&#39;d like to write someday, and YA/Middle-grade is also kind of where I want to go with my stories so it serves as inspiration. I&#39;d like to go back to fantasy novels, but I realize that my to-read list from when I was a teenager doesn&#39;t suit me as much five years later. ASOIAF and Farseer&#39;s first novels were good, I li
+
+## Book recs for Lazlo Strange
+ - [https://www.reddit.com/r/Fantasy/comments/1iwb3yg/book_recs_for_lazlo_strange](https://www.reddit.com/r/Fantasy/comments/1iwb3yg/book_recs_for_lazlo_strange)
+ - RSS feed: $source
+ - date published: 2025-02-23T14:18:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Don’t get me wrong, I’m not talking about the strange the dreamer duology. I mean exclusively mmcs that are like Lazlo Strange, with perhaps a similar kind of story as the first half of strange the dreamer? And a similar writing style? Idk if this is too much to ask for ahhhhhhhh. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Money_Mongoose7898"> /u/Money_Mongoose7898 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwb3yg/book_recs_for_lazlo_strange/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwb3yg/book_recs_for_lazlo_strange/">[comments]</a></span>
+
+## I want some *strange* fantasy. What's out there?
+ - [https://www.reddit.com/r/Fantasy/comments/1iwaknv/i_want_some_strange_fantasy_whats_out_there](https://www.reddit.com/r/Fantasy/comments/1iwaknv/i_want_some_strange_fantasy_whats_out_there)
+ - RSS feed: $source
+ - date published: 2025-02-23T13:50:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m tired of Kings and Swords and Runes and Cloaks and Daggers and Intrigue.</p> <p>I want strange gods. I want fish people. I want cultures with 10,000 genders and no eyes. I want absolutely bananas.</p> <p>I want good, compelling stories in a world that&#39;s so alien to me I&#39;ll feel like I&#39;m in a foreign country where I don&#39;t speak the language. </p> <p>What&#39;s out there?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/robinperching"> /u/robinperching </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwaknv/i_want_some_strange_fantasy_whats_out_there/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iwaknv/i_want_some_strange_fantasy_whats_out_there/">[comments]</a></span>
+
+## Fantasy books or series that don't devolve into "saving the world"
+ - [https://www.reddit.com/r/Fantasy/comments/1iw9wuc/fantasy_books_or_series_that_dont_devolve_into](https://www.reddit.com/r/Fantasy/comments/1iw9wuc/fantasy_books_or_series_that_dont_devolve_into)
+ - RSS feed: $source
+ - date published: 2025-02-23T13:16:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>Love getting into long series, but I find it frustrating that they always become needing to save the world or something on a similar scale. Are there any more &quot;down to earth&quot; series? Still a big fan of most other fantasy elements. Usually I find myself really liking the start of a series, but losing interest when it just becomes an anime. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ExpressKale6813"> /u/ExpressKale6813 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw9wuc/fantasy_books_or_series_that_dont_devolve_into/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw9wuc/fantasy_books_or_series_that_dont_devolve_into/">[comments]</a></span>
+
+## Fantasy books from the 2020s that feel new and "innovative."
+ - [https://www.reddit.com/r/Fantasy/comments/1iw9t2k/fantasy_books_from_the_2020s_that_feel_new_and](https://www.reddit.com/r/Fantasy/comments/1iw9t2k/fantasy_books_from_the_2020s_that_feel_new_and)
+ - RSS feed: $source
+ - date published: 2025-02-23T13:10:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>99% of any media is derivative (not always a bad thing), so I&#39;m looking for something fresh and new out of the 1% that stands out in the landscape. The closest an example I can think of for me is The Spear Cuts Through Water by Simon Jimenez, what that book did with narration and perspective and metatext was like nothing I&#39;ve seen before. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NoopGhoul"> /u/NoopGhoul </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw9t2k/fantasy_books_from_the_2020s_that_feel_new_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw9t2k/fantasy_books_from_the_2020s_that_feel_new_and/">[comments]</a></span>
+
+## /r/Fantasy Daily Recommendation Requests and Simple Questions Thread - February 23, 2025
+ - [https://www.reddit.com/r/Fantasy/comments/1iw9mfh/rfantasy_daily_recommendation_requests_and_simple](https://www.reddit.com/r/Fantasy/comments/1iw9mfh/rfantasy_daily_recommendation_requests_and_simple)
+ - RSS feed: $source
+ - date published: 2025-02-23T13:00:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>This thread is to be used for recommendation requests or simple questions that are small/general enough that they won’t spark a full thread of discussion.</p> <p>Check out <a href="/r/Fantasy">r/Fantasy</a>&#39;s <a href="https://www.reddit.com/r/Fantasy/comments/1bt4iqf/official_rfantasy_2024_book_bingo_challenge/">2024 Book Bingo Card here</a>!</p> <p>As usual, first have a look at the sidebar in case what you&#39;re after is there. The <a href="https://www.reddit.com/r/Fantasy/wiki/recommendations">r/Fantasy wiki</a> contains links to many community resources, including &quot;best of&quot; lists, flowcharts, the LGTBQ+ database, and more. If you need some help figuring out what you want, think about including some of the information below:</p> <ul> <li>Books you’ve liked or disliked</li> <li>Traits like prose, characters, or settings you most enjoy</li> <li>Series vs. standalone preference</li> <li>Tone preference (lighthearted, grimdark, etc)</li
+
+## /r/Fantasy Dealer's Room: Self-Promo Sunday - February 23, 2025
+ - [https://www.reddit.com/r/Fantasy/comments/1iw9m7d/rfantasy_dealers_room_selfpromo_sunday_february](https://www.reddit.com/r/Fantasy/comments/1iw9m7d/rfantasy_dealers_room_selfpromo_sunday_february)
+ - RSS feed: $source
+ - date published: 2025-02-23T13:00:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>This weekly self-promotion thread is the place for content creators to compete for our attention in the spirit of reckless capitalism. Tell us about your book/webcomic/podcast/blog/etc.</p> <p>The rules:</p> <ul> <li>Top comments should only be from authors/bloggers/whatever who want to tell us about what they are offering. This is their place.</li> <li>Discussion of/questions about the books get free rein as sub-comments.</li> <li>You&#39;re stiIl not allowed to use link shorteners and the AutoMod will remove any link shortened comments until the links are fixed.</li> <li>If you are not the actual author, but are posting on their behalf (e.g., &#39;My father self-pubIished this awesome book,&#39;), this is the place for you as well.</li> <li>If you found something great you think needs more exposure but you have no connection to the creator, this is not the place for you. Feel free to make your own thread, since that sort of post is the bread-and-bu
+
+## Wind And Truth - Stormlight Archive Review from an Average Guy SPOILERS!
+ - [https://www.reddit.com/r/Fantasy/comments/1iw99el/wind_and_truth_stormlight_archive_review_from_an](https://www.reddit.com/r/Fantasy/comments/1iw99el/wind_and_truth_stormlight_archive_review_from_an)
+ - RSS feed: $source
+ - date published: 2025-02-23T12:39:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have completed Wind and Truth, and was left...perplexed. </p> <p><strong><em>THERE WILL BE SPOILERS FOR WIND AND TRUTH/STORMLIGHT ARCHIVE!</em></strong></p> <p>For context, I&#39;m an average 34 year old English guy.<br/> I&#39;ve read most of the series you&#39;ll see on the &#39;best of&#39; fantasy list. (ASOIAF, First Law, Malazan, Fitz &amp; Wit, Black Company, Sun Eater, Red Queen&#39;s War, Red Rising etc.) and originally had Stormlight Archive was fighting for the number 1 slot.<br/> <em>I am not a deep dive &#39;review the themes, ones and meanings&#39; kind of reader. I just read and think &#39;Am I enjoying this?&#39; or &#39;Do I feel anything for this?&#39; The nuance of some books can get lost on me, so I find that</em> <strong><em>if I am noticing issues with things like themes/prose/character development etc. then IT MUST BE BAD.</em></strong></p> <p>But this was the first time I finished a Sanderson/Stormlight book and thought &#39
+
+## Metal From Heaven Review: I f*cking hated it (and if you loved it you will hate this review)
+ - [https://www.reddit.com/r/Fantasy/comments/1iw97ot/metal_from_heaven_review_i_fcking_hated_it_and_if](https://www.reddit.com/r/Fantasy/comments/1iw97ot/metal_from_heaven_review_i_fcking_hated_it_and_if)
+ - RSS feed: $source
+ - date published: 2025-02-23T12:37:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I hated this book so much that I couldn&#39;t stop taking pictures of the overblown self-indulgent prose with my phone and sending them to everyone I knew.</p> <p>The entire time I was reading it, I kept trying to explain to myself and others what I found so fucking repellent about it, and eventually I figured it out.</p> <p>Metal From Heaven is a paint-by-numbers attempt at distilling and mashing together a bunch of shit the author likes but doesn&#39;t entirely understand, without a single truly original, living idea in its head.</p> <p>I&#39;ve read every thing the author cites in the acknowledgments. I also love most of that shit. And this did not feel like a result of digesting and growing as a result of one&#39;s influences.</p> <p>It felt like the brain dump of someone has taken on board a smorgasboard of what&#39;s cool, what&#39;s smart, what&#39;s sexy, and what&#39;s revolutionary, according to a certain group of people—and then gave it th
+
+## Scratch my Harry Potter itch
+ - [https://www.reddit.com/r/Fantasy/comments/1iw8mp0/scratch_my_harry_potter_itch](https://www.reddit.com/r/Fantasy/comments/1iw8mp0/scratch_my_harry_potter_itch)
+ - RSS feed: $source
+ - date published: 2025-02-23T12:01:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>This Friday our country&#39;s tv channel was broadcasting Harry Potter: The Deathly Hallows Part 2 and since I was waiting for a relative to call me to pick him up, I chose to watch it. And… it was wonderful.</p> <p>While I grew up with Harry Potter films, I never was a fan, or a potterhead to be exact. For some reason I can&#39;t get into it (which is common problem for me with almost everything), but I really like some of the universe&#39;s concepts.</p> <p>Specifically a wand combat (presented as boring in films from my pov, but some of them were peak cinema) and a hidden world parallel to the &quot;normal&quot; civilian one. And also the school for wizards, of course.</p> <p>Also, I haven&#39;t read the books, so tell me if I&#39;m missing out.</p> <p>So, based on the info I gave you, is there something (from books through movies to even video games) you would recommend to me?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www
+
+## Need some sub reddits that are related to fantasy books suggestions
+ - [https://www.reddit.com/r/Fantasy/comments/1iw8495/need_some_sub_reddits_that_are_related_to_fantasy](https://www.reddit.com/r/Fantasy/comments/1iw8495/need_some_sub_reddits_that_are_related_to_fantasy)
+ - RSS feed: $source
+ - date published: 2025-02-23T11:27:37+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>NOTE: I WOULD REALLY APPRECIATE ALL RESPONSES &lt;3</strong></p> <p>Hi, can you give me some subreddits that are related to fantasy books suggestions? Like I&#39;ve been wanting to buy some fantasy books, but Im having trouble finding a good appropriate series, without a ton of romance. I&#39;m not really into epic fantasy, as i just find it confusing. I&#39;m mostly someone who enjoys middle grade fantasy. Though I feel like books like Percy Jackson just don&#39;t work for me. I really enjoy a good appropriate dark fantasy series as well.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Estate5634"> /u/Ok-Estate5634 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw8495/need_some_sub_reddits_that_are_related_to_fantasy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw8495/need_some_sub_reddits_that_are_related_to_fantasy/">[comments]</a></span>
+
+## Looking for a new series
+ - [https://www.reddit.com/r/Fantasy/comments/1iw6uii/looking_for_a_new_series](https://www.reddit.com/r/Fantasy/comments/1iw6uii/looking_for_a_new_series)
+ - RSS feed: $source
+ - date published: 2025-02-23T09:59:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>For context, my all-time favourite series is ASOIAF, and I wasn&#39;t really into reading before discovering this. I&#39;ve read this series so many times.</p> <p>I&#39;ve read a few other series, such as the Abhorsen series by Garth Nix and currently reading WaT from Stormlight Archive. Although I had somewhat enjoyed Stormlight, there&#39;s just something about it I don&#39;t like and I can&#39;t pinpoint what.</p> <p>I found the way romance was done in Abhorsen and Stormlight a bit grating, but maybe that&#39;s because they&#39;re trying to stay a bit PG to maintain a YA audience?? Whereas ASOIAF is designed for adults so even though the sex/violence than be OTT at times, I just prefer the way GRRM does it. I also love how GRRM does politics and the way magic is gradually introduced. I also like historical fiction - last historical fiction I read (but DNF for a number of reasons) was the Saxon Stories by Bernard Cornwell.</p> <p>Any recommendation
+
+## Looking for ongoing fanyasy series about dragons without a lot of romance.
+ - [https://www.reddit.com/r/Fantasy/comments/1iw6gd4/looking_for_ongoing_fanyasy_series_about_dragons](https://www.reddit.com/r/Fantasy/comments/1iw6gd4/looking_for_ongoing_fanyasy_series_about_dragons)
+ - RSS feed: $source
+ - date published: 2025-02-23T09:31:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>A little bit of romance isn&#39;t bad, but it shouldn&#39;t be a romantacy. That&#39;s not what i&#39;m looking for.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mangafan_20"> /u/Mangafan_20 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw6gd4/looking_for_ongoing_fanyasy_series_about_dragons/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw6gd4/looking_for_ongoing_fanyasy_series_about_dragons/">[comments]</a></span>
+
+## Who is your favorite author at titling fantasy books?
+ - [https://www.reddit.com/r/Fantasy/comments/1iw4dx1/who_is_your_favorite_author_at_titling_fantasy](https://www.reddit.com/r/Fantasy/comments/1iw4dx1/who_is_your_favorite_author_at_titling_fantasy)
+ - RSS feed: $source
+ - date published: 2025-02-23T07:04:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>Mine would honestly be two authors I haven&#39;t even read before (but am hoping to soon): Joe Abercrombie and Scott Lynch. Something about their titles are just so evocative, and they often don&#39;t follow the generic/cliché fantasy book naming trends. I can&#39;t really speak to how well they match their respective books, but some of my favorite titles from them are:</p> <p>&quot;The Blade Itself&quot; (Abercrombie)</p> <p>&quot;Before They Are Hanged&quot; (Abercrombie)</p> <p>&quot;Red Seas Over Red Skies&quot; (Lynch)</p> <p>&quot;More Than Fools Fill Graves&quot; (Lynch)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Shaked_Bread"> /u/Shaked_Bread </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw4dx1/who_is_your_favorite_author_at_titling_fantasy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw4dx1/who_is_your_favorite_author_at_titling_fantasy/
+
+## Help trying to find a book from my childhood.
+ - [https://www.reddit.com/r/Fantasy/comments/1iw40vf/help_trying_to_find_a_book_from_my_childhood](https://www.reddit.com/r/Fantasy/comments/1iw40vf/help_trying_to_find_a_book_from_my_childhood)
+ - RSS feed: $source
+ - date published: 2025-02-23T06:40:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>In elementary school I had a classmate who&#39;s dad came in and read a book to our class. For the life of me I can&#39;t remember what it was called. I know it was an older book because the dad said he read it as a child and loved it. The only details I remember from the story is the main character (or characters, something tells me it may have been a duo) were given magical bowls and cups that would fill with whatever food they desired. I know this is such a long shot but I&#39;d love to figure this out and reread it. Any help is greatly appreciated </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silent_Hair_2764"> /u/Silent_Hair_2764 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw40vf/help_trying_to_find_a_book_from_my_childhood/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw40vf/help_trying_to_find_a_book_from_my_childhood/">[comments]</a></span>
+
+## dark fantasy book recs please!
+ - [https://www.reddit.com/r/Fantasy/comments/1iw3y35/dark_fantasy_book_recs_please](https://www.reddit.com/r/Fantasy/comments/1iw3y35/dark_fantasy_book_recs_please)
+ - RSS feed: $source
+ - date published: 2025-02-23T06:34:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi! I’m a serial fantasy romance reader but (as I’m sure we all know) there’s an over-saturation of sub-par books in that genre recently and I feel like I may have read every good one out there. I’ve begun to delve into the fantasy genre more instead and have been LOVING it, although I’m definitely a newbie to the must reads. </p> <p>I’ve read the ASOIAF, Red Rising and Black Jewels series - loved, so was wondering if anyone has any recommendations on what to obsesses over next.</p> <p>I like a subplot of romance at least and prefer dark fantasy but feel free to step out of those parameters!</p> <p>Thanks so much :) </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theluckyrabbit777"> /u/theluckyrabbit777 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw3y35/dark_fantasy_book_recs_please/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw3y35/dark_fantasy_b
+
+## New Series
+ - [https://www.reddit.com/r/Fantasy/comments/1iw3xak/new_series](https://www.reddit.com/r/Fantasy/comments/1iw3xak/new_series)
+ - RSS feed: $source
+ - date published: 2025-02-23T06:33:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m looking for a new series while I wait for the next Bound and Broken and Will of the Many books to come out. Thoughts on Tad Williams? I’ve read some reviews of the Dragon Bone Chair, people either love it or hate the pace of first book, but they say it picks up in the rest of the series. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rryguy1978"> /u/rryguy1978 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw3xak/new_series/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw3xak/new_series/">[comments]</a></span>
+
+## Recommend me some FUN SF and Fantasy books
+ - [https://www.reddit.com/r/Fantasy/comments/1iw34sq/recommend_me_some_fun_sf_and_fantasy_books](https://www.reddit.com/r/Fantasy/comments/1iw34sq/recommend_me_some_fun_sf_and_fantasy_books)
+ - RSS feed: $source
+ - date published: 2025-02-23T05:41:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m really in the mood for books that are just plain ol&#39; fun. Not something that is fun while taking itself super seriously, like The Dresden Files, but something that kind of leans into being a bit lighthearted without being pure comedy (I&#39;d like it to still have tension and plot) or cozy (I&#39;d like the stakes to be real).</p> <p>Some stuff I like in this regard:</p> <ul> <li><em>Bobiverse</em> by Dennis E. Taylor</li> <li><em>Dungeon Crawler Carl</em> by Matt Dinniman</li> <li><em>Kings of the Wyld</em> by Nicholas Eames</li> <li><em>Heartstrikers</em> by Rachel Aaron</li> <li><em>Princess Floralinda and the Forty-Flight Tower</em> by Tamsyn Muir (kinda)</li> <li><em>Swordheart</em> and <em>A Wizard&#39;s Guide to Defensive Baking</em> by T. Kingfisher</li> <li><em>Yumi and the Nightmare Painter</em> by Brandon Sanderson</li> <li><em>The Adventures of Amina al-Sirafi</em> by Shannon Chakraborty</li> <li><em>Cradle</em> by Will Wight<
+
+## Realms Deep: Chapter One - Epic War Fantasy - advice/opinions
+ - [https://www.reddit.com/r/Fantasy/comments/1iw3390/realms_deep_chapter_one_epic_war_fantasy](https://www.reddit.com/r/Fantasy/comments/1iw3390/realms_deep_chapter_one_epic_war_fantasy)
+ - RSS feed: $source
+ - date published: 2025-02-23T05:39:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi Everyone,</p> <p>I don&#39;t know if this is the right place, but I&#39;d like feedback on the fantasy series Realms Deep, which I&#39;m starting.</p> <p>I made the first installment here: <a href="https://youtu.be/dHIgdfet1WU?si=30cbzkFhrz_H4o8H">Youtube_OrcsVsHumans_Realms_Deep_Chapter_One</a><strong>.</strong></p> <p>Please share your opinions and world-building advice. I&#39;m very interested in feedback at this point in development, as there isn&#39;t much character development yet. The series/video is mainly an epic fantasy battle but I wanted a massive war to set up the story and world-building</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nunzgonewild69"> /u/Nunzgonewild69 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw3390/realms_deep_chapter_one_epic_war_fantasy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw3390/realms_deep_chapter_on
+
+## Looking for a very specific type of book...anything that resembles the mood and atmosphere of the first 150-200 pages of Tad Williams' The Dragonbone Chair?
+ - [https://www.reddit.com/r/Fantasy/comments/1iw2k22/looking_for_a_very_specific_type_of_bookanything](https://www.reddit.com/r/Fantasy/comments/1iw2k22/looking_for_a_very_specific_type_of_bookanything)
+ - RSS feed: $source
+ - date published: 2025-02-23T05:06:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know this is about as niche as a request can get but I recently finished the Memory, Sorrow and Thorn trilogy and ended up loving it. As much as I enjoyed the epic scope and breadth of the story, one of my favourite bits of the whole series was actually the very beginning of the first book. The first 150ish pages of The Dragonbone Chair is glacially paced, and is almost entirely scene-setting and character development. Pretty much nothing happens.</p> <p>Yet I was totally enthralled by it. I&#39;ll chalk it up to Williams&#39; prose and writing but I found it so charming and cozy, yet mystical and fantastical at the same time. It reminded me of the first time I read Lord of the Rings or Earthsea, being slowly immersed in this mysterious other world, following the protagonist in his leisurely day-to-day life. It felt very &quot;classic fantasy&quot; without coming off as cliched or stale. Felt very much like experiencing an old-timey fable by fireli
+
+## Books to read.
+ - [https://www.reddit.com/r/Fantasy/comments/1iw21jl/books_to_read](https://www.reddit.com/r/Fantasy/comments/1iw21jl/books_to_read)
+ - RSS feed: $source
+ - date published: 2025-02-23T04:35:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi guys, I really wanted to know I read all goosebumps and Harry Potter books. Now I want to read something that is filled with mystery and plot twist. Which book should I read next. Need suggestions. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tejas_Solanki"> /u/Tejas_Solanki </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw21jl/books_to_read/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw21jl/books_to_read/">[comments]</a></span>
+
+## Looking for something similar to red rising and suneater
+ - [https://www.reddit.com/r/Fantasy/comments/1iw12t8/looking_for_something_similar_to_red_rising_and](https://www.reddit.com/r/Fantasy/comments/1iw12t8/looking_for_something_similar_to_red_rising_and)
+ - RSS feed: $source
+ - date published: 2025-02-23T03:41:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just finished both of these and I’ve found myself wanting more. It doesn’t have to be futuristic space rome, but I did quite enjoy the societies these stories built, so any recommendations along those lines would be great, if anything I wished suneater would be more political oriented. It doesn’t need to be first person either. I’ve read Gideon the ninth. </p> <p>Other series I’ve enjoyed would be wheel of time, rook and rose, riftwar. </p> <p>So basically anything with fleshed out societies, potentially in space, but pure fantasy works too. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MattScoot"> /u/MattScoot </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw12t8/looking_for_something_similar_to_red_rising_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw12t8/looking_for_something_similar_to_red_rising_and/">[comments]</a></span>
+
+## Warhammer Fantasy or 40k? Which side of Warhammer do you think has the better literature/books and lore?
+ - [https://www.reddit.com/r/Fantasy/comments/1iw129p/warhammer_fantasy_or_40k_which_side_of_warhammer](https://www.reddit.com/r/Fantasy/comments/1iw129p/warhammer_fantasy_or_40k_which_side_of_warhammer)
+ - RSS feed: $source
+ - date published: 2025-02-23T03:40:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>How good is Warhammer Fantasy compared to 40k? Are the as many quality books in fantasy compared to 40k? Is there as much fantasy lore to delve into compared to 40k? I’ve only just recently became interested in the fantasy side and I was wondering if it’s as good as the 40k side? Which version of Warhammer do you prefer and think has better literature/books?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LongVoyager50"> /u/LongVoyager50 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw129p/warhammer_fantasy_or_40k_which_side_of_warhammer/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw129p/warhammer_fantasy_or_40k_which_side_of_warhammer/">[comments]</a></span>
+
+## Only a few days left to apply for r/Fantasy moderator... 👀
+ - [https://www.reddit.com/r/Fantasy/comments/1iw0scz/only_a_few_days_left_to_apply_for_rfantasy](https://www.reddit.com/r/Fantasy/comments/1iw0scz/only_a_few_days_left_to_apply_for_rfantasy)
+ - RSS feed: $source
+ - date published: 2025-02-23T03:25:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Fantasy/comments/1iw0scz/only_a_few_days_left_to_apply_for_rfantasy/"> <img src="https://preview.redd.it/rlm1qu1t4tke1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b9cbada656a164542c1a9db05cb458cb9b44e185" alt="Only a few days left to apply for r/Fantasy moderator... 👀" title="Only a few days left to apply for r/Fantasy moderator... 👀" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rfantasygolem"> /u/rfantasygolem </a> <br/> <span><a href="https://i.redd.it/rlm1qu1t4tke1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw0scz/only_a_few_days_left_to_apply_for_rfantasy/">[comments]</a></span> </td></tr></table>
+
+## Any Good Novels or short stories that deal with a magical or supernatural disclosure to the general public?
+ - [https://www.reddit.com/r/Fantasy/comments/1iw0lpe/any_good_novels_or_short_stories_that_deal_with_a](https://www.reddit.com/r/Fantasy/comments/1iw0lpe/any_good_novels_or_short_stories_that_deal_with_a)
+ - RSS feed: $source
+ - date published: 2025-02-23T03:15:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Don’t care if said stories are set before, during or years after said disclosure. One that comes immediately to mind for me is the Sookie Stackhouse books, but I assume there are others I have never heard of.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Plato198_9"> /u/Plato198_9 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw0lpe/any_good_novels_or_short_stories_that_deal_with_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1iw0lpe/any_good_novels_or_short_stories_that_deal_with_a/">[comments]</a></span>
+
+## Next chronicles of the unhewn throne book?
+ - [https://www.reddit.com/r/Fantasy/comments/1ivzfv0/next_chronicles_of_the_unhewn_throne_book](https://www.reddit.com/r/Fantasy/comments/1ivzfv0/next_chronicles_of_the_unhewn_throne_book)
+ - RSS feed: $source
+ - date published: 2025-02-23T02:12:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>Anyone have any insight as to when or even if it is coming out? My loins can&#39;t stand the wait anymore?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rieeechard"> /u/rieeechard </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1ivzfv0/next_chronicles_of_the_unhewn_throne_book/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1ivzfv0/next_chronicles_of_the_unhewn_throne_book/">[comments]</a></span>
+
+## Book that has similar vibes and setting to souls games, attack on titan and arcane(not manga preferably)
+ - [https://www.reddit.com/r/Fantasy/comments/1ivynr9/book_that_has_similar_vibes_and_setting_to_souls](https://www.reddit.com/r/Fantasy/comments/1ivynr9/book_that_has_similar_vibes_and_setting_to_souls)
+ - RSS feed: $source
+ - date published: 2025-02-23T01:31:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Looking for books for holiday reading and been loving this sorta grim fantasy vibe as well as the settings and plots of these pieces of media. Would love some recommendations :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TundraIce"> /u/TundraIce </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1ivynr9/book_that_has_similar_vibes_and_setting_to_souls/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1ivynr9/book_that_has_similar_vibes_and_setting_to_souls/">[comments]</a></span>
+
+## space fantasy books?
+ - [https://www.reddit.com/r/Fantasy/comments/1ivxysn/space_fantasy_books](https://www.reddit.com/r/Fantasy/comments/1ivxysn/space_fantasy_books)
+ - RSS feed: $source
+ - date published: 2025-02-23T00:56:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>so I&#39;m looking for a particular kind of novel/setting that I haven&#39;t really seen many times: fantasy, but in space.</p> <p>now I don&#39;t mean something like 40k or star wars, which are sci-fi/fantasy hybrids. I mean something like spelljammer, just straight up sword &amp; sorcery fantasy that involves magical space travel.</p> <p>any recommendations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Arkon_Raavus"> /u/Arkon_Raavus </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1ivxysn/space_fantasy_books/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1ivxysn/space_fantasy_books/">[comments]</a></span>
+
+## Suggest me some good small-scale fantasy!
+ - [https://www.reddit.com/r/Fantasy/comments/1ivxlmv/suggest_me_some_good_smallscale_fantasy](https://www.reddit.com/r/Fantasy/comments/1ivxlmv/suggest_me_some_good_smallscale_fantasy)
+ - RSS feed: $source
+ - date published: 2025-02-23T00:37:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>I need a break from epics spanning nations and world-ending stakes. What&#39;s your favorite standalone or series where the focus is on depth rather than scope?</p> <p>To be clear, I&#39;m not necessarily looking for cozy fantasy. That&#39;s well and good, but suggestions can be grim or heavy too. Just looking for good stories focused on a smaller location and a more grounded situation!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EstimateKey5994"> /u/EstimateKey5994 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1ivxlmv/suggest_me_some_good_smallscale_fantasy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1ivxlmv/suggest_me_some_good_smallscale_fantasy/">[comments]</a></span>
+

@@ -1,0 +1,128 @@
+# Source:News, URL:https://www.reddit.com/r/news/.rss, language:en-US
+
+## Israel sends tanks into West Bank for first time in decades, says fleeing Palestinians can’t return
+ - [https://www.reddit.com/r/news/comments/1iwm8xd/israel_sends_tanks_into_west_bank_for_first_time](https://www.reddit.com/r/news/comments/1iwm8xd/israel_sends_tanks_into_west_bank_for_first_time)
+ - RSS feed: $source
+ - date published: 2025-02-23T22:19:17+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Upper_Left_Corner"> /u/Upper_Left_Corner </a> <br/> <span><a href="https://www.nbcnews.com/news/world/israel-sends-tanks-west-bank-rcna193384">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1iwm8xd/israel_sends_tanks_into_west_bank_for_first_time/">[comments]</a></span>
+
+## Las Vegas woman allegedly drugged, fleeced older men she met on dating apps
+ - [https://www.reddit.com/r/news/comments/1iwm2yk/las_vegas_woman_allegedly_drugged_fleeced_older](https://www.reddit.com/r/news/comments/1iwm2yk/las_vegas_woman_allegedly_drugged_fleeced_older)
+ - RSS feed: $source
+ - date published: 2025-02-23T22:12:00+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/DA-DJ"> /u/DA-DJ </a> <br/> <span><a href="https://www.nbcnews.com/news/us-news/las-vegas-woman-allegedly-drugged-fleeced-older-men-met-dating-apps-rcna193293">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1iwm2yk/las_vegas_woman_allegedly_drugged_fleeced_older/">[comments]</a></span>
+
+## Musk email to government workers sparks confusion across US agencies
+ - [https://www.reddit.com/r/news/comments/1iwl34s/musk_email_to_government_workers_sparks_confusion](https://www.reddit.com/r/news/comments/1iwl34s/musk_email_to_government_workers_sparks_confusion)
+ - RSS feed: $source
+ - date published: 2025-02-23T21:28:48+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/PlayShelf"> /u/PlayShelf </a> <br/> <span><a href="https://www.bbc.com/news/articles/cj0qrj20g5vo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1iwl34s/musk_email_to_government_workers_sparks_confusion/">[comments]</a></span>
+
+## Pope Francis in Critical Condition with Early Kidney Failure
+ - [https://www.reddit.com/r/news/comments/1iwjrdo/pope_francis_in_critical_condition_with_early](https://www.reddit.com/r/news/comments/1iwjrdo/pope_francis_in_critical_condition_with_early)
+ - RSS feed: $source
+ - date published: 2025-02-23T20:32:28+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/IkoryAdam"> /u/IkoryAdam </a> <br/> <span><a href="https://www.coastreporter.net/world-news/pope-francis-in-critical-condition-with-early-kidney-failure-but-remains-alert-as-prayers-pour-in-10273792">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1iwjrdo/pope_francis_in_critical_condition_with_early/">[comments]</a></span>
+
+## Kentucky death toll rises to 21 as Gov. Beshear announces disaster declaration
+ - [https://www.reddit.com/r/news/comments/1iwip4o/kentucky_death_toll_rises_to_21_as_gov_beshear](https://www.reddit.com/r/news/comments/1iwip4o/kentucky_death_toll_rises_to_21_as_gov_beshear)
+ - RSS feed: $source
+ - date published: 2025-02-23T19:47:57+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ProudnotLoud"> /u/ProudnotLoud </a> <br/> <span><a href="https://www.nbcnews.com/news/us-news/kentucky-winter-storm-death-toll-rises-rcna193371">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1iwip4o/kentucky_death_toll_rises_to_21_as_gov_beshear/">[comments]</a></span>
+
+## Russia launches largest drone attack on Ukraine on eve of third year of war
+ - [https://www.reddit.com/r/news/comments/1iwgk1y/russia_launches_largest_drone_attack_on_ukraine](https://www.reddit.com/r/news/comments/1iwgk1y/russia_launches_largest_drone_attack_on_ukraine)
+ - RSS feed: $source
+ - date published: 2025-02-23T18:18:03+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Upper_Left_Corner"> /u/Upper_Left_Corner </a> <br/> <span><a href="https://www.cbsnews.com/news/russia-drone-attack-ukraine-3-years-war/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1iwgk1y/russia_launches_largest_drone_attack_on_ukraine/">[comments]</a></span>
+
+## Trump halts medical research funding in apparent violation of judge’s order | Trump administration
+ - [https://www.reddit.com/r/news/comments/1iwghpr/trump_halts_medical_research_funding_in_apparent](https://www.reddit.com/r/news/comments/1iwghpr/trump_halts_medical_research_funding_in_apparent)
+ - RSS feed: $source
+ - date published: 2025-02-23T18:15:24+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Nerd-19958"> /u/Nerd-19958 </a> <br/> <span><a href="https://www.theguardian.com/us-news/2025/feb/23/trump-nih-health-medical-research?CMP=share_btn_url">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1iwghpr/trump_halts_medical_research_funding_in_apparent/">[comments]</a></span>
+
+## Zelensky willing to give up presidency in exchange for Ukraine Nato membership
+ - [https://www.reddit.com/r/news/comments/1iwfpul/zelensky_willing_to_give_up_presidency_in](https://www.reddit.com/r/news/comments/1iwfpul/zelensky_willing_to_give_up_presidency_in)
+ - RSS feed: $source
+ - date published: 2025-02-23T17:42:58+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/collogue"> /u/collogue </a> <br/> <span><a href="https://www.bbc.co.uk/news/articles/cn9vx01evp9o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1iwfpul/zelensky_willing_to_give_up_presidency_in/">[comments]</a></span>
+
+## American Airlines flight diverted to Rome over 'possible security issue'
+ - [https://www.reddit.com/r/news/comments/1iwfjw5/american_airlines_flight_diverted_to_rome_over](https://www.reddit.com/r/news/comments/1iwfjw5/american_airlines_flight_diverted_to_rome_over)
+ - RSS feed: $source
+ - date published: 2025-02-23T17:35:53+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/tsagdiyev"> /u/tsagdiyev </a> <br/> <span><a href="https://abcnews.go.com/International/american-airlines-flight-diverted-rome-possible-security-issue/story?id=119099475">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1iwfjw5/american_airlines_flight_diverted_to_rome_over/">[comments]</a></span>
+
+## Man who ate part of his victim's brain granted supervised release from Connecticut psychiatric hospital
+ - [https://www.reddit.com/r/news/comments/1iwf815/man_who_ate_part_of_his_victims_brain_granted](https://www.reddit.com/r/news/comments/1iwf815/man_who_ate_part_of_his_victims_brain_granted)
+ - RSS feed: $source
+ - date published: 2025-02-23T17:21:45+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Information6622"> /u/No-Information6622 </a> <br/> <span><a href="https://www.cbsnews.com/news/connecticut-psychiatric-hospital-tyree-smith/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1iwf815/man_who_ate_part_of_his_victims_brain_granted/">[comments]</a></span>
+
+## Hamas says Israel evading ceasefire obligations as Netanyahu delays release of 600 Palestinians
+ - [https://www.reddit.com/r/news/comments/1iwd59x/hamas_says_israel_evading_ceasefire_obligations](https://www.reddit.com/r/news/comments/1iwd59x/hamas_says_israel_evading_ceasefire_obligations)
+ - RSS feed: $source
+ - date published: 2025-02-23T15:53:07+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Upper_Left_Corner"> /u/Upper_Left_Corner </a> <br/> <span><a href="https://www.nbcnews.com/news/world/hamas-says-israel-evading-ceasefire-obligations-netanyahu-delays-relea-rcna193350">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1iwd59x/hamas_says_israel_evading_ceasefire_obligations/">[comments]</a></span>
+
+## Musk gives all federal workers 48 hours to report on work or resign
+ - [https://www.reddit.com/r/news/comments/1iwcy11/musk_gives_all_federal_workers_48_hours_to_report](https://www.reddit.com/r/news/comments/1iwcy11/musk_gives_all_federal_workers_48_hours_to_report)
+ - RSS feed: $source
+ - date published: 2025-02-23T15:44:06+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/DayOwl_"> /u/DayOwl_ </a> <br/> <span><a href="https://www.ctvnews.ca/world/article/musk-says-us-govt-workers-must-explain-their-work-week-or-lose-jobs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1iwcy11/musk_gives_all_federal_workers_48_hours_to_report/">[comments]</a></span>
+
+## Israeli scientist uncovers breakthrough Hepatitis B treatment
+ - [https://www.reddit.com/r/news/comments/1iwbvyy/israeli_scientist_uncovers_breakthrough_hepatitis](https://www.reddit.com/r/news/comments/1iwbvyy/israeli_scientist_uncovers_breakthrough_hepatitis)
+ - RSS feed: $source
+ - date published: 2025-02-23T14:55:48+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/NotSoSaneExile"> /u/NotSoSaneExile </a> <br/> <span><a href="https://www.ynetnews.com/health_science/article/rjixvae5jl">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1iwbvyy/israeli_scientist_uncovers_breakthrough_hepatitis/">[comments]</a></span>
+
+## Tesla Shares Detailed Guidance for Cybertruck Owners Who Find Themselves Stuck in Snow – #10 “Get a Friend With a Tow Strap to Pull You Out”
+ - [https://www.reddit.com/r/news/comments/1iw9tef/tesla_shares_detailed_guidance_for_cybertruck](https://www.reddit.com/r/news/comments/1iw9tef/tesla_shares_detailed_guidance_for_cybertruck)
+ - RSS feed: $source
+ - date published: 2025-02-23T13:11:26+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/BiggieTwiggy1two3"> /u/BiggieTwiggy1two3 </a> <br/> <span><a href="https://www.torquenews.com/11826/tesla-shares-detailed-guidance-cybertruck-owners-who-find-themselves-stuck-snow-10-get-friend/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1iw9tef/tesla_shares_detailed_guidance_for_cybertruck/">[comments]</a></span>
+
+## ‘Unakite Thirteen Hotel’: Father struggles to change daughter’s name, get her social security number
+ - [https://www.reddit.com/r/news/comments/1iw6mmb/unakite_thirteen_hotel_father_struggles_to_change](https://www.reddit.com/r/news/comments/1iw6mmb/unakite_thirteen_hotel_father_struggles_to_change)
+ - RSS feed: $source
+ - date published: 2025-02-23T09:44:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Warcraft_Fan"> /u/Warcraft_Fan </a> <br/> <span><a href="https://www.kcrg.com/2025/02/21/unakite-thirteen-hotel-father-struggles-change-daughters-name-get-her-social-security-number/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1iw6mmb/unakite_thirteen_hotel_father_struggles_to_change/">[comments]</a></span>
+
+## New FBI Director Kash Patel will also be named acting head of the ATF, official says | AP News
+ - [https://www.reddit.com/r/news/comments/1iw1apl/new_fbi_director_kash_patel_will_also_be_named](https://www.reddit.com/r/news/comments/1iw1apl/new_fbi_director_kash_patel_will_also_be_named)
+ - RSS feed: $source
+ - date published: 2025-02-23T03:53:35+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/AbductedAlien01"> /u/AbductedAlien01 </a> <br/> <span><a href="https://apnews.com/article/fbi-director-kash-patel-atf-justice-department-e57250b2ac883af1c2fa7b4bf46ad876">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1iw1apl/new_fbi_director_kash_patel_will_also_be_named/">[comments]</a></span>
+
+## Alarm as bird flu now ‘endemic in cows’ while Trump cuts staff and funding
+ - [https://www.reddit.com/r/news/comments/1ivzqkr/alarm_as_bird_flu_now_endemic_in_cows_while_trump](https://www.reddit.com/r/news/comments/1ivzqkr/alarm_as_bird_flu_now_endemic_in_cows_while_trump)
+ - RSS feed: $source
+ - date published: 2025-02-23T02:28:23+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Interesting_You6852"> /u/Interesting_You6852 </a> <br/> <span><a href="https://www.theguardian.com/us-news/2025/feb/22/bird-flu-virus-trump?CMP=Share_AndroidApp_Other">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1ivzqkr/alarm_as_bird_flu_now_endemic_in_cows_while_trump/">[comments]</a></span>
+
+## France stabbing: One dead and police officers injured in Mulhouse
+ - [https://www.reddit.com/r/news/comments/1ivxedv/france_stabbing_one_dead_and_police_officers](https://www.reddit.com/r/news/comments/1ivxedv/france_stabbing_one_dead_and_police_officers)
+ - RSS feed: $source
+ - date published: 2025-02-23T00:28:04+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/madrid987"> /u/madrid987 </a> <br/> <span><a href="https://www.bbc.com/news/articles/c984enp4480o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/news/comments/1ivxedv/france_stabbing_one_dead_and_police_officers/">[comments]</a></span>
+

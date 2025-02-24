@@ -1,0 +1,303 @@
+# Source:Politics, URL:https://www.reddit.com/r/politics/.rss, language:en-US
+
+## Anti-Trump summit in DC evacuates after receiving ‘credible bomb threat’
+ - [https://www.reddit.com/r/politics/comments/1iwl1nv/antitrump_summit_in_dc_evacuates_after_receiving](https://www.reddit.com/r/politics/comments/1iwl1nv/antitrump_summit_in_dc_evacuates_after_receiving)
+ - RSS feed: $source
+ - date published: 2025-02-23T21:27:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwl1nv/antitrump_summit_in_dc_evacuates_after_receiving/"> <img src="https://external-preview.redd.it/SJhdRlq0qGdbRGFnQEKHUBcRrDINaddXMaIDXe6q2v4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be6de150bcf39f6221e99f97a0e80f2eaa77d1ef" alt="Anti-Trump summit in DC evacuates after receiving ‘credible bomb threat’" title="Anti-Trump summit in DC evacuates after receiving ‘credible bomb threat’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aacool"> /u/aacool </a> <br/> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/principles-first-evacuation-bomb-tarrio-b2703227.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwl1nv/antitrump_summit_in_dc_evacuates_after_receiving/">[comments]</a></span> </td></tr></table>
+
+## Minnesota Senator Calls Elon Musk 'A Dick'
+ - [https://www.reddit.com/r/politics/comments/1iwk0fk/minnesota_senator_calls_elon_musk_a_dick](https://www.reddit.com/r/politics/comments/1iwk0fk/minnesota_senator_calls_elon_musk_a_dick)
+ - RSS feed: $source
+ - date published: 2025-02-23T20:43:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwk0fk/minnesota_senator_calls_elon_musk_a_dick/"> <img src="https://external-preview.redd.it/7Yr6YbSLSi2Ami5d_S8Vn1q5yBLxDBDptsIgzaOT13g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=51fe2593f16150876bfb1f4f50849ad4633016e5" alt="Minnesota Senator Calls Elon Musk 'A Dick'" title="Minnesota Senator Calls Elon Musk 'A Dick'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/huffpost"> /u/huffpost </a> <br/> <span><a href="https://www.huffpost.com/entry/minnesota-senator-calls-elon-musk-a-dick_n_67bb513ce4b081ef58f9dc28">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwk0fk/minnesota_senator_calls_elon_musk_a_dick/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk’s Bid to Propel Germany’s Far-Right Party to Victory Has Failed | The AfD party scored historic numbers, but won’t be a part of government.
+ - [https://www.reddit.com/r/politics/comments/1iwjuye/elon_musks_bid_to_propel_germanys_farright_party](https://www.reddit.com/r/politics/comments/1iwjuye/elon_musks_bid_to_propel_germanys_farright_party)
+ - RSS feed: $source
+ - date published: 2025-02-23T20:36:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwjuye/elon_musks_bid_to_propel_germanys_farright_party/"> <img src="https://external-preview.redd.it/pPLhmnoQ_y9KYBmDF6sOpfA9oBe3TpZ24nk8H8rswzk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6aebda9fb9daee7e090b2f3aefa0e7283f680087" alt="Elon Musk’s Bid to Propel Germany’s Far-Right Party to Victory Has Failed | The AfD party scored historic numbers, but won’t be a part of government." title="Elon Musk’s Bid to Propel Germany’s Far-Right Party to Victory Has Failed | The AfD party scored historic numbers, but won’t be a part of government." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br/> <span><a href="https://www.motherjones.com/politics/2025/02/elon-musk-germany-afd-election-results/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwjuye/elon_musks_bid_to_propel_germanys_farright_party/">[comments
+
+## Protesters at Republican Event Told 'Your Voice Is Meaningless'
+ - [https://www.reddit.com/r/politics/comments/1iwioga/protesters_at_republican_event_told_your_voice_is](https://www.reddit.com/r/politics/comments/1iwioga/protesters_at_republican_event_told_your_voice_is)
+ - RSS feed: $source
+ - date published: 2025-02-23T19:47:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwioga/protesters_at_republican_event_told_your_voice_is/"> <img src="https://external-preview.redd.it/gFCyR_Cgq0TY3ckdEnH9czQvd7mA4H_oMTd8tJT8byg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9bc6bc93b211e1c97dae07f425f404d199f0294d" alt="Protesters at Republican Event Told 'Your Voice Is Meaningless'" title="Protesters at Republican Event Told 'Your Voice Is Meaningless'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Running_From_Zombies"> /u/Running_From_Zombies </a> <br/> <span><a href="https://www.newsweek.com/protesters-republican-event-told-voice-meaningless-idaho-2035020">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwioga/protesters_at_republican_event_told_your_voice_is/">[comments]</a></span> </td></tr></table>
+
+## Judicial Branch Instructs Employees To Ignore Mass DOGE Email
+ - [https://www.reddit.com/r/politics/comments/1iwhzih/judicial_branch_instructs_employees_to_ignore](https://www.reddit.com/r/politics/comments/1iwhzih/judicial_branch_instructs_employees_to_ignore)
+ - RSS feed: $source
+ - date published: 2025-02-23T19:17:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwhzih/judicial_branch_instructs_employees_to_ignore/"> <img src="https://external-preview.redd.it/KkD8XOSUIzMCGHxeJU0gSkGcMVR4tbpbseMkHnBeImI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=61b02ce09dedec40f9c57b55b363652f0b9c293e" alt="Judicial Branch Instructs Employees To Ignore Mass DOGE Email" title="Judicial Branch Instructs Employees To Ignore Mass DOGE Email" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rock-n-roll-Kevin"> /u/Rock-n-roll-Kevin </a> <br/> <span><a href="https://talkingpointsmemo.com/news/judicial-branch-instruct-employees-to-ignore-mass-doge-email">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwhzih/judicial_branch_instructs_employees_to_ignore/">[comments]</a></span> </td></tr></table>
+
+## Chaos erupts at legislative town hall in Coeur d'Alene
+ - [https://www.reddit.com/r/politics/comments/1iwhsd0/chaos_erupts_at_legislative_town_hall_in_coeur](https://www.reddit.com/r/politics/comments/1iwhsd0/chaos_erupts_at_legislative_town_hall_in_coeur)
+ - RSS feed: $source
+ - date published: 2025-02-23T19:09:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwhsd0/chaos_erupts_at_legislative_town_hall_in_coeur/"> <img src="https://external-preview.redd.it/qV1w3cOJ-Kc6g6k8R5afjyCQfL7S5jIgAEFH0XNcMMg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df64376c6447d73163d59a70a0089dc47d156e72" alt="Chaos erupts at legislative town hall in Coeur d'Alene" title="Chaos erupts at legislative town hall in Coeur d'Alene" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kiki_0477"> /u/Kiki_0477 </a> <br/> <span><a href="https://cdapress.com/news/2025/feb/22/chaos-erupts-at-kcrcc-legislative-town-hall/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwhsd0/chaos_erupts_at_legislative_town_hall_in_coeur/">[comments]</a></span> </td></tr></table>
+
+## Kennedy Center cancels Pride performance from Gay Men’s Chorus after Trump took over. "This post is for any LGBT folks who think that the Trump admin isn’t targeting our entire community," one musician wrote.
+ - [https://www.reddit.com/r/politics/comments/1iwhrcc/kennedy_center_cancels_pride_performance_from_gay](https://www.reddit.com/r/politics/comments/1iwhrcc/kennedy_center_cancels_pride_performance_from_gay)
+ - RSS feed: $source
+ - date published: 2025-02-23T19:08:19+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/southpawFA"> /u/southpawFA </a> <br/> <span><a href="https://www.lgbtqnation.com/2025/02/kennedy-center-cancels-pride-performance-from-gay-mens-chorus-after-trump-took-over/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwhrcc/kennedy_center_cancels_pride_performance_from_gay/">[comments]</a></span>
+
+## Mark Cuban: Democrats Are Too Inept to Exploit Trump’s Chaos
+ - [https://www.reddit.com/r/politics/comments/1iwhd49/mark_cuban_democrats_are_too_inept_to_exploit](https://www.reddit.com/r/politics/comments/1iwhd49/mark_cuban_democrats_are_too_inept_to_exploit)
+ - RSS feed: $source
+ - date published: 2025-02-23T18:52:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwhd49/mark_cuban_democrats_are_too_inept_to_exploit/"> <img src="https://external-preview.redd.it/n_fejud36Dsh6jGb-W-vJyosWaUfH7ABdksLY6uIurY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=30323d0140290e513028259f3dd83d8a01349b67" alt="Mark Cuban: Democrats Are Too Inept to Exploit Trump’s Chaos" title="Mark Cuban: Democrats Are Too Inept to Exploit Trump’s Chaos" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/soalone34"> /u/soalone34 </a> <br/> <span><a href="https://time.com/7260685/mark-cuban-democrats-trump/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwhd49/mark_cuban_democrats_are_too_inept_to_exploit/">[comments]</a></span> </td></tr></table>
+
+## Republican Senator Calls Trump's Mass Firings a 'Big Problem'
+ - [https://www.reddit.com/r/politics/comments/1iwfo5x/republican_senator_calls_trumps_mass_firings_a](https://www.reddit.com/r/politics/comments/1iwfo5x/republican_senator_calls_trumps_mass_firings_a)
+ - RSS feed: $source
+ - date published: 2025-02-23T17:41:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwfo5x/republican_senator_calls_trumps_mass_firings_a/"> <img src="https://external-preview.redd.it/hRUHHVjCR9nSfFaTumBk4GiX7bL69lToWJ4ufhP8O4w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=276242fd638b91cb4f922515d8905ce1f4b0fa57" alt="Republican Senator Calls Trump's Mass Firings a 'Big Problem'" title="Republican Senator Calls Trump's Mass Firings a 'Big Problem'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br/> <span><a href="https://www.rollingstone.com/politics/politics-news/susan-collins-trump-mass-firings-big-problem-1235277316/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwfo5x/republican_senator_calls_trumps_mass_firings_a/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris speaks on 'shadows gathering over our democracy' at NAACP Image Awards
+ - [https://www.reddit.com/r/politics/comments/1iwfnfk/kamala_harris_speaks_on_shadows_gathering_over](https://www.reddit.com/r/politics/comments/1iwfnfk/kamala_harris_speaks_on_shadows_gathering_over)
+ - RSS feed: $source
+ - date published: 2025-02-23T17:40:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwfnfk/kamala_harris_speaks_on_shadows_gathering_over/"> <img src="https://external-preview.redd.it/P8v9lYuwTHZN9VOMXWYvmEVNJU41-GnFfZML1Rr3YGI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5716dbce443d3f3087271ac4e7873101bce9725d" alt="Kamala Harris speaks on 'shadows gathering over our democracy' at NAACP Image Awards" title="Kamala Harris speaks on 'shadows gathering over our democracy' at NAACP Image Awards" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Healthy_Block3036"> /u/Healthy_Block3036 </a> <br/> <span><a href="https://www.usatoday.com/story/entertainment/tv/2025/02/23/naacp-image-awards-kamala-harris/79793047007/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwfnfk/kamala_harris_speaks_on_shadows_gathering_over/">[comments]</a></span> </td></tr></table>
+
+## Kennedy Center Ticket Sales Have Dropped 50% Since Trump Takeover
+ - [https://www.reddit.com/r/politics/comments/1iwewrk/kennedy_center_ticket_sales_have_dropped_50_since](https://www.reddit.com/r/politics/comments/1iwewrk/kennedy_center_ticket_sales_have_dropped_50_since)
+ - RSS feed: $source
+ - date published: 2025-02-23T17:08:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwewrk/kennedy_center_ticket_sales_have_dropped_50_since/"> <img src="https://external-preview.redd.it/axbPkUvJBZ3zpuTmd01mzIlj5tKvnTX18C3zxY8nYw4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6ae6d53d0f1a8e6d021a66473bb358303e7ff5df" alt="Kennedy Center Ticket Sales Have Dropped 50% Since Trump Takeover" title="Kennedy Center Ticket Sales Have Dropped 50% Since Trump Takeover" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PostHeraldTimes"> /u/PostHeraldTimes </a> <br/> <span><a href="https://www.latintimes.com/kennedy-center-ticket-sales-dropped-50-percent-trump-takeover-576470">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwewrk/kennedy_center_ticket_sales_have_dropped_50_since/">[comments]</a></span> </td></tr></table>
+
+## Thousands sign petition asking government to remove Elon Musk’s Canadian citizenship
+ - [https://www.reddit.com/r/politics/comments/1iwevls/thousands_sign_petition_asking_government_to](https://www.reddit.com/r/politics/comments/1iwevls/thousands_sign_petition_asking_government_to)
+ - RSS feed: $source
+ - date published: 2025-02-23T17:07:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwevls/thousands_sign_petition_asking_government_to/"> <img src="https://external-preview.redd.it/-ayYzJ_lqetVaoxFvfZwLjq-m2vruspX5-vDnD7XSpQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0525e98960198ef08489cb098cd5f75ee93e7b4a" alt="Thousands sign petition asking government to remove Elon Musk’s Canadian citizenship" title="Thousands sign petition asking government to remove Elon Musk’s Canadian citizenship" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RGV_KJ"> /u/RGV_KJ </a> <br/> <span><a href="https://www.cbc.ca/news/world/elon-musk-citizenship-petition-1.7466278">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwevls/thousands_sign_petition_asking_government_to/">[comments]</a></span> </td></tr></table>
+
+## Hegseth: Trump Will Install New Military Attorneys Who Won't Be 'Roadblocks to Anything'
+ - [https://www.reddit.com/r/politics/comments/1iwefhn/hegseth_trump_will_install_new_military_attorneys](https://www.reddit.com/r/politics/comments/1iwefhn/hegseth_trump_will_install_new_military_attorneys)
+ - RSS feed: $source
+ - date published: 2025-02-23T16:48:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwefhn/hegseth_trump_will_install_new_military_attorneys/"> <img src="https://external-preview.redd.it/obtmZuKGruo098k5YF7IKh7ctPj2EsO7c804rPalFHM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9fb360395c6de7f919ca08efd4c1f7080d08809" alt="Hegseth: Trump Will Install New Military Attorneys Who Won't Be 'Roadblocks to Anything'" title="Hegseth: Trump Will Install New Military Attorneys Who Won't Be 'Roadblocks to Anything'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rollingstone"> /u/rollingstone </a> <br/> <span><a href="https://www.rollingstone.com/politics/politics-news/hegseth-military-lawyers-firings-roadblocks-1235276960/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwefhn/hegseth_trump_will_install_new_military_attorneys/">[comments]</a></span> </td></tr></table>
+
+## Photos: ‘Distress flag’ towers over Yosemite to protest cuts as crowds view firefall
+ - [https://www.reddit.com/r/politics/comments/1iweebb/photos_distress_flag_towers_over_yosemite_to](https://www.reddit.com/r/politics/comments/1iweebb/photos_distress_flag_towers_over_yosemite_to)
+ - RSS feed: $source
+ - date published: 2025-02-23T16:47:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iweebb/photos_distress_flag_towers_over_yosemite_to/"> <img src="https://external-preview.redd.it/XowB92ftakLfskJI-nibR4uUatn7IJisYcCTOB2Fy-g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf3c37df36b2a01350ba3e1423539d0f434c4d7a" alt="Photos: ‘Distress flag’ towers over Yosemite to protest cuts as crowds view firefall" title="Photos: ‘Distress flag’ towers over Yosemite to protest cuts as crowds view firefall" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CrispyMiner"> /u/CrispyMiner </a> <br/> <span><a href="https://www.sfchronicle.com/outdoors/article/yosemite-protest-job-cuts-20180229.php">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iweebb/photos_distress_flag_towers_over_yosemite_to/">[comments]</a></span> </td></tr></table>
+
+## Making Luigi Mangione Inevitable | There is a deep well of anger and pain in the United States, and a good number of those angry and hurting people know quite well who is causing their pain.
+ - [https://www.reddit.com/r/politics/comments/1iwe51z/making_luigi_mangione_inevitable_there_is_a_deep](https://www.reddit.com/r/politics/comments/1iwe51z/making_luigi_mangione_inevitable_there_is_a_deep)
+ - RSS feed: $source
+ - date published: 2025-02-23T16:35:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwe51z/making_luigi_mangione_inevitable_there_is_a_deep/"> <img src="https://external-preview.redd.it/oScdAH6ushjhu0c0vjM3Tb6IWfeBFLaPPw76PwIqeMk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a733ee3f8dcdfc760e2eacc4bd0d7acc6badbb92" alt="Making Luigi Mangione Inevitable | There is a deep well of anger and pain in the United States, and a good number of those angry and hurting people know quite well who is causing their pain." title="Making Luigi Mangione Inevitable | There is a deep well of anger and pain in the United States, and a good number of those angry and hurting people know quite well who is causing their pain." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SenorBurns"> /u/SenorBurns </a> <br/> <span><a href="https://progressive.org/magazine/making-luigi-mangione-inevitable-jaffe-20250220/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/commen
+
+## Nearly twice as many Americans view Trump as "dictator" than Zelensky
+ - [https://www.reddit.com/r/politics/comments/1iwe3um/nearly_twice_as_many_americans_view_trump_as](https://www.reddit.com/r/politics/comments/1iwe3um/nearly_twice_as_many_americans_view_trump_as)
+ - RSS feed: $source
+ - date published: 2025-02-23T16:34:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwe3um/nearly_twice_as_many_americans_view_trump_as/"> <img src="https://external-preview.redd.it/cAe2B0JfmX14GJFpzQAXrcBfyMOctM3n0aL1QTN4vhM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ffbfe9f1de0f7155af9f35e68268d027bd11fc8f" alt="Nearly twice as many Americans view Trump as &quot;dictator&quot; than Zelensky" title="Nearly twice as many Americans view Trump as &quot;dictator&quot; than Zelensky" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/modelturd"> /u/modelturd </a> <br/> <span><a href="https://www.newsweek.com/nearly-twice-many-americans-view-trump-dictator-zelensky-2033920">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwe3um/nearly_twice_as_many_americans_view_trump_as/">[comments]</a></span> </td></tr></table>
+
+## Trump Envoy Can’t Name a Single Concession Russia Will Make in Peace Deal
+ - [https://www.reddit.com/r/politics/comments/1iwdi4s/trump_envoy_cant_name_a_single_concession_russia](https://www.reddit.com/r/politics/comments/1iwdi4s/trump_envoy_cant_name_a_single_concession_russia)
+ - RSS feed: $source
+ - date published: 2025-02-23T16:08:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwdi4s/trump_envoy_cant_name_a_single_concession_russia/"> <img src="https://external-preview.redd.it/0_M80-JYoxpIpLDFIDmzOnrkuJs9E52337Jm1qhdFb4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e5aa1eecad220d651e5750928c6190452a4f736a" alt="Trump Envoy Can’t Name a Single Concession Russia Will Make in Peace Deal" title="Trump Envoy Can’t Name a Single Concession Russia Will Make in Peace Deal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Effective_Salad_8381"> /u/Effective_Salad_8381 </a> <br/> <span><a href="https://www.thedailybeast.com/trump-envoy-steve-witkoff-cant-name-a-single-concession-russia-will-make-in-peace-deal/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwdi4s/trump_envoy_cant_name_a_single_concession_russia/">[comments]</a></span> </td></tr></table>
+
+## GOP rep calls US-Ukraine resource deal ‘victim extortion’
+ - [https://www.reddit.com/r/politics/comments/1iwcxv3/gop_rep_calls_usukraine_resource_deal_victim](https://www.reddit.com/r/politics/comments/1iwcxv3/gop_rep_calls_usukraine_resource_deal_victim)
+ - RSS feed: $source
+ - date published: 2025-02-23T15:43:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwcxv3/gop_rep_calls_usukraine_resource_deal_victim/"> <img src="https://external-preview.redd.it/qwP6vKMsFsJsCQT2q4Go6osO6NnoEI3QkXNkQQz1NBc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c275513b35d1085d58a18bdfb3b07c02e49402c3" alt="GOP rep calls US-Ukraine resource deal ‘victim extortion’" title="GOP rep calls US-Ukraine resource deal ‘victim extortion’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sweatycat"> /u/sweatycat </a> <br/> <span><a href="https://thehill.com/homenews/house/5159806-us-ukraine-deal-victim-extortion/amp/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwcxv3/gop_rep_calls_usukraine_resource_deal_victim/">[comments]</a></span> </td></tr></table>
+
+## Trump is 'surrendering to the Russians,' Democratic Sen. Jack Reed says
+ - [https://www.reddit.com/r/politics/comments/1iwbo09/trump_is_surrendering_to_the_russians_democratic](https://www.reddit.com/r/politics/comments/1iwbo09/trump_is_surrendering_to_the_russians_democratic)
+ - RSS feed: $source
+ - date published: 2025-02-23T14:45:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwbo09/trump_is_surrendering_to_the_russians_democratic/"> <img src="https://external-preview.redd.it/aCl9qxMcc-qVaZxBE6KcxKWSLEpaKH-UzPA0E9pHkv8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=569cffe6f2b253898c32f99af770a28074ff9621" alt="Trump is 'surrendering to the Russians,' Democratic Sen. Jack Reed says" title="Trump is 'surrendering to the Russians,' Democratic Sen. Jack Reed says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sweatycat"> /u/sweatycat </a> <br/> <span><a href="https://abcnews.go.com/amp/Politics/trump-surrendering-russians-democratic-sen-jack-reed/story?id=119084470">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwbo09/trump_is_surrendering_to_the_russians_democratic/">[comments]</a></span> </td></tr></table>
+
+## 'The Bigotry Is Astounding:' Engineers Waste Time and Money Scanning .Gov Sites for 'Transgender' and Other Terms
+ - [https://www.reddit.com/r/politics/comments/1iwbgbv/the_bigotry_is_astounding_engineers_waste_time](https://www.reddit.com/r/politics/comments/1iwbgbv/the_bigotry_is_astounding_engineers_waste_time)
+ - RSS feed: $source
+ - date published: 2025-02-23T14:34:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwbgbv/the_bigotry_is_astounding_engineers_waste_time/"> <img src="https://external-preview.redd.it/ZJ0MFRIbt_0K_h0SUrcpU7OUU2gKcEgz0NKMZ-peYRw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=638a0487c7013a1eefb58176f4ca3988e36e339f" alt="'The Bigotry Is Astounding:' Engineers Waste Time and Money Scanning .Gov Sites for 'Transgender' and Other Terms" title="'The Bigotry Is Astounding:' Engineers Waste Time and Money Scanning .Gov Sites for 'Transgender' and Other Terms" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PrithvinathReddy"> /u/PrithvinathReddy </a> <br/> <span><a href="https://www.404media.co/the-bigotry-is-astounding-engineers-waste-time-and-money-scanning-gov-sites-for-transgender-and-other-terms/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwbgbv/the_bigotry_is_astounding_engineers_waste_time/">[comments]</a></span> </td></tr><
+
+## Agencies Tell Staffers: Defy Musk’s Wild Justify-Your-Job Demand
+ - [https://www.reddit.com/r/politics/comments/1iwb7b6/agencies_tell_staffers_defy_musks_wild](https://www.reddit.com/r/politics/comments/1iwb7b6/agencies_tell_staffers_defy_musks_wild)
+ - RSS feed: $source
+ - date published: 2025-02-23T14:22:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwb7b6/agencies_tell_staffers_defy_musks_wild/"> <img src="https://external-preview.redd.it/dAvzwSI0aeuMbjciqVzWwBB5qs4rLlgd42Q93LvGZJ0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f78707187fbceaadf2f95edef8fa4369614396d3" alt="Agencies Tell Staffers: Defy Musk’s Wild Justify-Your-Job Demand" title="Agencies Tell Staffers: Defy Musk’s Wild Justify-Your-Job Demand" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Effective_Salad_8381"> /u/Effective_Salad_8381 </a> <br/> <span><a href="https://www.thedailybeast.com/agencies-tell-staffers-defy-musks-wild-justify-your-job-demand/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwb7b6/agencies_tell_staffers_defy_musks_wild/">[comments]</a></span> </td></tr></table>
+
+## Brazil Stood Up for Its Democracy. Why Didn’t the U.S.?
+ - [https://www.reddit.com/r/politics/comments/1iwammx/brazil_stood_up_for_its_democracy_why_didnt_the_us](https://www.reddit.com/r/politics/comments/1iwammx/brazil_stood_up_for_its_democracy_why_didnt_the_us)
+ - RSS feed: $source
+ - date published: 2025-02-23T13:53:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwammx/brazil_stood_up_for_its_democracy_why_didnt_the_us/"> <img src="https://external-preview.redd.it/rHHY7D9iEIFmqtCu6oxp6-08J3w-wuZob7IWmrbD-VA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=09f6221db5dc72f6a410bfb62c137607a43c0af0" alt="Brazil Stood Up for Its Democracy. Why Didn’t the U.S.?" title="Brazil Stood Up for Its Democracy. Why Didn’t the U.S.?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/amartin141"> /u/amartin141 </a> <br/> <span><a href="https://www.theatlantic.com/international/archive/2025/02/brazil-bolsonaro-coup/681788/?gift=I4LGsilsOekK9WrXBxktmvR4_nl0vkeig1GItHRN3I8&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwammx/brazil_stood_up_for_its_democracy_why_didnt_the_us/">[comments]</a></span> </td></tr></table>
+
+## Donald Trump’s golfing tab in first month of second term: You won’t believe how much he spent
+ - [https://www.reddit.com/r/politics/comments/1iwalh7/donald_trumps_golfing_tab_in_first_month_of](https://www.reddit.com/r/politics/comments/1iwalh7/donald_trumps_golfing_tab_in_first_month_of)
+ - RSS feed: $source
+ - date published: 2025-02-23T13:51:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwalh7/donald_trumps_golfing_tab_in_first_month_of/"> <img src="https://external-preview.redd.it/sJOgKSH4vKvpdicuiE2eb7rLRdVkMvjqYcwcySyqaBA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9fe82cabc2534e469f6e65c93e244cdd78495133" alt="Donald Trump’s golfing tab in first month of second term: You won’t believe how much he spent" title="Donald Trump’s golfing tab in first month of second term: You won’t believe how much he spent" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sofa__King__Cool"> /u/Sofa__King__Cool </a> <br/> <span><a href="https://www.pennlive.com/news/2025/02/donald-trumps-golfing-tab-in-first-month-of-second-term-you-wont-believe-how-much-he-spent.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwalh7/donald_trumps_golfing_tab_in_first_month_of/">[comments]</a></span> </td></tr></table>
+
+## Chris Murphy Emerges as a Clear Voice for Democrats Countering Trump
+ - [https://www.reddit.com/r/politics/comments/1iwacnr/chris_murphy_emerges_as_a_clear_voice_for](https://www.reddit.com/r/politics/comments/1iwacnr/chris_murphy_emerges_as_a_clear_voice_for)
+ - RSS feed: $source
+ - date published: 2025-02-23T13:39:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iwacnr/chris_murphy_emerges_as_a_clear_voice_for/"> <img src="https://external-preview.redd.it/iYC5T1xMsl24Gd63j8s7vmhRng2CF7N6s695r3uUvQE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=83601adfa7739c933474ad40d456615ea37d7b75" alt="Chris Murphy Emerges as a Clear Voice for Democrats Countering Trump" title="Chris Murphy Emerges as a Clear Voice for Democrats Countering Trump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AgentBlue62"> /u/AgentBlue62 </a> <br/> <span><a href="https://www.nytimes.com/2025/02/23/us/politics/chris-murphy-democrats-trump.html?unlocked_article_code=1.zE4.vWZu._eLAmQAnFpPl&amp;smid=url-share">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iwacnr/chris_murphy_emerges_as_a_clear_voice_for/">[comments]</a></span> </td></tr></table>
+
+## Attendee dragged out of Kootenai County Republican townhall
+ - [https://www.reddit.com/r/politics/comments/1iw99g4/attendee_dragged_out_of_kootenai_county](https://www.reddit.com/r/politics/comments/1iw99g4/attendee_dragged_out_of_kootenai_county)
+ - RSS feed: $source
+ - date published: 2025-02-23T12:40:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iw99g4/attendee_dragged_out_of_kootenai_county/"> <img src="https://external-preview.redd.it/vFnhjjIjPKDYcLRU37BC9b1Q7xW9dB8yfJKtSWnm-G8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=065fdff8b33102ec9a44f0ff2946d5271a845ea6" alt="Attendee dragged out of Kootenai County Republican townhall" title="Attendee dragged out of Kootenai County Republican townhall" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/narwhilian"> /u/narwhilian </a> <br/> <span><a href="https://www.khq.com/news/attendee-dragged-out-of-kootenai-county-republican-townhall/article_9fa7e796-f17f-11ef-9f8c-4be54c6382d2.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iw99g4/attendee_dragged_out_of_kootenai_county/">[comments]</a></span> </td></tr></table>
+
+## 'See You in Court,' Maine Governor Says to Trump's Face After Funding Threat
+ - [https://www.reddit.com/r/politics/comments/1iw8y2j/see_you_in_court_maine_governor_says_to_trumps](https://www.reddit.com/r/politics/comments/1iw8y2j/see_you_in_court_maine_governor_says_to_trumps)
+ - RSS feed: $source
+ - date published: 2025-02-23T12:21:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iw8y2j/see_you_in_court_maine_governor_says_to_trumps/"> <img src="https://external-preview.redd.it/_CDzOwHB-sqzsCOTCEceb1gSc3JT2PHKUc8xVON42-c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f208e989ee878609ac03f00188f8a588a2948003" alt="'See You in Court,' Maine Governor Says to Trump's Face After Funding Threat" title="'See You in Court,' Maine Governor Says to Trump's Face After Funding Threat" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_May26_"> /u/_May26_ </a> <br/> <span><a href="https://www.commondreams.org/news/trump-transgender">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iw8y2j/see_you_in_court_maine_governor_says_to_trumps/">[comments]</a></span> </td></tr></table>
+
+## The Party of Reagan Is Selling Out Ukraine
+ - [https://www.reddit.com/r/politics/comments/1iw7r50/the_party_of_reagan_is_selling_out_ukraine](https://www.reddit.com/r/politics/comments/1iw7r50/the_party_of_reagan_is_selling_out_ukraine)
+ - RSS feed: $source
+ - date published: 2025-02-23T11:02:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iw7r50/the_party_of_reagan_is_selling_out_ukraine/"> <img src="https://external-preview.redd.it/cMBaGespG5_eViwvTLTP5qjSpUs4aPGFHZRZa3gtZpw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=85a566734c53230334ddb933777c85b03158574c" alt="The Party of Reagan Is Selling Out Ukraine" title="The Party of Reagan Is Selling Out Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/1-randomonium"> /u/1-randomonium </a> <br/> <span><a href="https://www.theatlantic.com/politics/archive/2025/02/senate-republicans-trump-ukraine/681727/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iw7r50/the_party_of_reagan_is_selling_out_ukraine/">[comments]</a></span> </td></tr></table>
+
+## Missouri Farmer in Danger of Losing His Farm Due to Federal Freeze Blasted for Claiming He 'Didn't Have Time to Research' Before Voting
+ - [https://www.reddit.com/r/politics/comments/1iw7d04/missouri_farmer_in_danger_of_losing_his_farm_due](https://www.reddit.com/r/politics/comments/1iw7d04/missouri_farmer_in_danger_of_losing_his_farm_due)
+ - RSS feed: $source
+ - date published: 2025-02-23T10:35:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iw7d04/missouri_farmer_in_danger_of_losing_his_farm_due/"> <img src="https://external-preview.redd.it/5kr4sNg_vGP8_6LF96V3ynJrCx5V6F7fcB9y6j6mzco.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2aeb26f7cb93f7b85500c0c43c17effd967d07d9" alt="Missouri Farmer in Danger of Losing His Farm Due to Federal Freeze Blasted for Claiming He 'Didn't Have Time to Research' Before Voting" title="Missouri Farmer in Danger of Losing His Farm Due to Federal Freeze Blasted for Claiming He 'Didn't Have Time to Research' Before Voting" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Silent-Resort-3076"> /u/Silent-Resort-3076 </a> <br/> <span><a href="https://www.latintimes.com/missouri-farmer-danger-losing-his-farm-due-federal-freeze-blasted-claiming-he-didnt-have-575239">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iw7d04/missouri_farmer_in_danger_of_losing_his_fa
+
+## Donald Trump a de facto Russian asset, FBI official he fired suggests
+ - [https://www.reddit.com/r/politics/comments/1iw78ox/donald_trump_a_de_facto_russian_asset_fbi](https://www.reddit.com/r/politics/comments/1iw78ox/donald_trump_a_de_facto_russian_asset_fbi)
+ - RSS feed: $source
+ - date published: 2025-02-23T10:26:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iw78ox/donald_trump_a_de_facto_russian_asset_fbi/"> <img src="https://external-preview.redd.it/s4pjXIzRHetaqOrRaxhc5sMYf5_S9_xAoTJW3vaQWUA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2523f16bc6bad8add70f3273d68eb03a84bc3c5" alt="Donald Trump a de facto Russian asset, FBI official he fired suggests" title="Donald Trump a de facto Russian asset, FBI official he fired suggests" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/onlyonthetoilet"> /u/onlyonthetoilet </a> <br/> <span><a href="https://www.theguardian.com/us-news/2024/sep/12/trump-russia-putin-fbi">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iw78ox/donald_trump_a_de_facto_russian_asset_fbi/">[comments]</a></span> </td></tr></table>
+
+## ‘Who the hell voted for Big Balls?’ Former Clinton adviser rages at Musk’s teenage DOGE hire
+ - [https://www.reddit.com/r/politics/comments/1iw5z7m/who_the_hell_voted_for_big_balls_former_clinton](https://www.reddit.com/r/politics/comments/1iw5z7m/who_the_hell_voted_for_big_balls_former_clinton)
+ - RSS feed: $source
+ - date published: 2025-02-23T08:57:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iw5z7m/who_the_hell_voted_for_big_balls_former_clinton/"> <img src="https://external-preview.redd.it/zJeSdEgMUCmaTpA9VPPFLm0D-kpHM8Gks3fesbv6Dqw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=648e40d0537af885bbc85a019129e3cbb8667071" alt="‘Who the hell voted for Big Balls?’ Former Clinton adviser rages at Musk’s teenage DOGE hire" title="‘Who the hell voted for Big Balls?’ Former Clinton adviser rages at Musk’s teenage DOGE hire" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CookMotor"> /u/CookMotor </a> <br/> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/elon-musk-doge-edward-coristine-b2697352.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iw5z7m/who_the_hell_voted_for_big_balls_former_clinton/">[comments]</a></span> </td></tr></table>
+
+## Kash Patel Tells FBI Employees To Ignore Elon Musk’s Justify-Your-Job Edict
+ - [https://www.reddit.com/r/politics/comments/1iw5p2f/kash_patel_tells_fbi_employees_to_ignore_elon](https://www.reddit.com/r/politics/comments/1iw5p2f/kash_patel_tells_fbi_employees_to_ignore_elon)
+ - RSS feed: $source
+ - date published: 2025-02-23T08:37:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iw5p2f/kash_patel_tells_fbi_employees_to_ignore_elon/"> <img src="https://external-preview.redd.it/ZVfQWh6a-LsdnyKMbWFOx7pJpPNd0vryg-lnSGc3Gpc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9987f76991af1c293930799875171e11085580be" alt="Kash Patel Tells FBI Employees To Ignore Elon Musk’s Justify-Your-Job Edict" title="Kash Patel Tells FBI Employees To Ignore Elon Musk’s Justify-Your-Job Edict" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MetatronsGreenCube"> /u/MetatronsGreenCube </a> <br/> <span><a href="https://www.thedailybeast.com/kash-patel-tells-fbi-employees-to-ignore-elon-musks-justify-your-job-edict/?via=desktop&amp;source=Reddit">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iw5p2f/kash_patel_tells_fbi_employees_to_ignore_elon/">[comments]</a></span> </td></tr></table>
+
+## If you want to tell Elon Musk about 5 things you accomplished at work this week just email hr@opm.gov
+ - [https://www.reddit.com/r/politics/comments/1iw4l21/if_you_want_to_tell_elon_musk_about_5_things_you](https://www.reddit.com/r/politics/comments/1iw4l21/if_you_want_to_tell_elon_musk_about_5_things_you)
+ - RSS feed: $source
+ - date published: 2025-02-23T07:18:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iw4l21/if_you_want_to_tell_elon_musk_about_5_things_you/"> <img src="https://external-preview.redd.it/QQUhUb0YxKLpY5vEXZkl1sL-QfeTfonhKYdZj0huL4o.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5d89538a332905c60ee96df5c093bd868fd8e677" alt="If you want to tell Elon Musk about 5 things you accomplished at work this week just email hr@opm.gov" title="If you want to tell Elon Musk about 5 things you accomplished at work this week just email hr@opm.gov" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/clonedhuman"> /u/clonedhuman </a> <br/> <span><a href="https://www.govexec.com/workforce/2025/02/trump-administration-asks-all-feds-justify-their-jobs-or-risk-losing-them/403207/?oref=ge-author-river">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iw4l21/if_you_want_to_tell_elon_musk_about_5_things_you/">[comments]</a></span> </td></tr></table>
+
+## Patel tells FBI staff to ignore Musk’s email as signs of power struggle emerges
+ - [https://www.reddit.com/r/politics/comments/1iw4jxv/patel_tells_fbi_staff_to_ignore_musks_email_as](https://www.reddit.com/r/politics/comments/1iw4jxv/patel_tells_fbi_staff_to_ignore_musks_email_as)
+ - RSS feed: $source
+ - date published: 2025-02-23T07:16:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iw4jxv/patel_tells_fbi_staff_to_ignore_musks_email_as/"> <img src="https://external-preview.redd.it/R2DNdWEdgDZd74br3vj9aFIhLYoqDikhT5rXhNp_E6Y.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=62986238e2d26633aef22602b78f0482a90b0882" alt="Patel tells FBI staff to ignore Musk’s email as signs of power struggle emerges" title="Patel tells FBI staff to ignore Musk’s email as signs of power struggle emerges" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ClimateSociologist"> /u/ClimateSociologist </a> <br/> <span><a href="https://www.independent.co.uk/news/world/americas/us-politics/musk-doge-email-federal-workers-b2703006.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iw4jxv/patel_tells_fbi_staff_to_ignore_musks_email_as/">[comments]</a></span> </td></tr></table>
+
+## Kamala Harris Electrifies Audience at NAACP Image Awards in First TV Appearance Since Leaving Office | “Our power has never come from having an easy path,” said the former VP while accepting the prestigious Chairman’s Award.
+ - [https://www.reddit.com/r/politics/comments/1iw4dpe/kamala_harris_electrifies_audience_at_naacp_image](https://www.reddit.com/r/politics/comments/1iw4dpe/kamala_harris_electrifies_audience_at_naacp_image)
+ - RSS feed: $source
+ - date published: 2025-02-23T07:03:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iw4dpe/kamala_harris_electrifies_audience_at_naacp_image/"> <img src="https://external-preview.redd.it/XBVpWUOLYe1gayfVv60hr5XVBVRgz5yS7dTIObCyVWw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9344f8d3946828d3e050af4ca0d2adf71df4cee9" alt="Kamala Harris Electrifies Audience at NAACP Image Awards in First TV Appearance Since Leaving Office | “Our power has never come from having an easy path,” said the former VP while accepting the prestigious Chairman’s Award." title="Kamala Harris Electrifies Audience at NAACP Image Awards in First TV Appearance Since Leaving Office | “Our power has never come from having an easy path,” said the former VP while accepting the prestigious Chairman’s Award." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br/> <span><a href="https://www.thedailybeast.com/kamala-harris-electrifies-audience-at-naacp-image-award
+
+## Trump will create 520,000 more illegal immigrants by undoing Haitians' protected status. The move effectively retcons J.D. Vance's claim that legal Haitian immigrants were actually here illegally.
+ - [https://www.reddit.com/r/politics/comments/1iw30mn/trump_will_create_520000_more_illegal_immigrants](https://www.reddit.com/r/politics/comments/1iw30mn/trump_will_create_520000_more_illegal_immigrants)
+ - RSS feed: $source
+ - date published: 2025-02-23T05:34:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iw30mn/trump_will_create_520000_more_illegal_immigrants/"> <img src="https://external-preview.redd.it/VeEqdQ4mhoZE0uAs6DuetwjxICMCLqq2ovS9wbRWipE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ed29572c57550d8bd26d47a494ccb6d41687d495" alt="Trump will create 520,000 more illegal immigrants by undoing Haitians' protected status. The move effectively retcons J.D. Vance's claim that legal Haitian immigrants were actually here illegally." title="Trump will create 520,000 more illegal immigrants by undoing Haitians' protected status. The move effectively retcons J.D. Vance's claim that legal Haitian immigrants were actually here illegally." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Just-Sale-7015"> /u/Just-Sale-7015 </a> <br/> <span><a href="https://reason.com/2025/02/21/trump-will-create-520000-more-illegal-immigrants-by-undoing-haitians-protected-status/">[link]</a></span> &#32; 
+
+## Trump’s Agenda Is Starting to Worry Voters
+ - [https://www.reddit.com/r/politics/comments/1iw2a73/trumps_agenda_is_starting_to_worry_voters](https://www.reddit.com/r/politics/comments/1iw2a73/trumps_agenda_is_starting_to_worry_voters)
+ - RSS feed: $source
+ - date published: 2025-02-23T04:50:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iw2a73/trumps_agenda_is_starting_to_worry_voters/"> <img src="https://external-preview.redd.it/wAHNZzI8eZ_sjKf-LtGk7Fq4nUCWC0UnIP22hRg4KHQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bdcbea1ccf35316d865ec6a53904e0e2ae608ef8" alt="Trump’s Agenda Is Starting to Worry Voters" title="Trump’s Agenda Is Starting to Worry Voters" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marji80"> /u/marji80 </a> <br/> <span><a href="https://slate.com/news-and-politics/2025/02/donald-trump-elon-musk-polling-doge.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iw2a73/trumps_agenda_is_starting_to_worry_voters/">[comments]</a></span> </td></tr></table>
+
+## DOJ Heads Tell Staff Not to Reply to Musk Demand for Job Details
+ - [https://www.reddit.com/r/politics/comments/1iw1cs1/doj_heads_tell_staff_not_to_reply_to_musk_demand](https://www.reddit.com/r/politics/comments/1iw1cs1/doj_heads_tell_staff_not_to_reply_to_musk_demand)
+ - RSS feed: $source
+ - date published: 2025-02-23T03:56:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iw1cs1/doj_heads_tell_staff_not_to_reply_to_musk_demand/"> <img src="https://external-preview.redd.it/T7K9jEKtQqay4G630qQO37q9blC0RtNrf2omGpXBd6E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1a7070077d60611d6d84ba7508d2805153ba3ad0" alt="DOJ Heads Tell Staff Not to Reply to Musk Demand for Job Details" title="DOJ Heads Tell Staff Not to Reply to Musk Demand for Job Details" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SE_to_NW"> /u/SE_to_NW </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2025-02-23/doj-heads-tell-staff-not-to-reply-to-musk-demand-for-job-details">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iw1cs1/doj_heads_tell_staff_not_to_reply_to_musk_demand/">[comments]</a></span> </td></tr></table>
+
+## ‘Trump Recruited as Moscow Asset,’ Says Ex-KGB Spy Chief
+ - [https://www.reddit.com/r/politics/comments/1iw140u/trump_recruited_as_moscow_asset_says_exkgb_spy](https://www.reddit.com/r/politics/comments/1iw140u/trump_recruited_as_moscow_asset_says_exkgb_spy)
+ - RSS feed: $source
+ - date published: 2025-02-23T03:43:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iw140u/trump_recruited_as_moscow_asset_says_exkgb_spy/"> <img src="https://external-preview.redd.it/VftlVQB84rEV_8a5QwYrIAuv1OeprXXaJq-1jufUkyE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f72fe175fc0c93c24b975cd21288c3bbad550a7c" alt="‘Trump Recruited as Moscow Asset,’ Says Ex-KGB Spy Chief" title="‘Trump Recruited as Moscow Asset,’ Says Ex-KGB Spy Chief" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Somethingwittycool"> /u/Somethingwittycool </a> <br/> <span><a href="https://www.kyivpost.com/post/47630">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iw140u/trump_recruited_as_moscow_asset_says_exkgb_spy/">[comments]</a></span> </td></tr></table>
+
+## Petition asking PM to revoke Elon Musk Canadian citizenship garners support
+ - [https://www.reddit.com/r/politics/comments/1iw017k/petition_asking_pm_to_revoke_elon_musk_canadian](https://www.reddit.com/r/politics/comments/1iw017k/petition_asking_pm_to_revoke_elon_musk_canadian)
+ - RSS feed: $source
+ - date published: 2025-02-23T02:44:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1iw017k/petition_asking_pm_to_revoke_elon_musk_canadian/"> <img src="https://external-preview.redd.it/3_uZ-RtdpOM0KTQBuBrmLZnI6RH5PI0tzkCmAG54vts.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e023eedd64f39fe47591e6689e40efe77038b5e" alt="Petition asking PM to revoke Elon Musk Canadian citizenship garners support" title="Petition asking PM to revoke Elon Musk Canadian citizenship garners support" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bruhlmaocmonbro"> /u/bruhlmaocmonbro </a> <br/> <span><a href="https://www.ctvnews.ca/canada/article/petition-asking-pm-to-revoke-elon-musks-canadian-citizenship-garners-support/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1iw017k/petition_asking_pm_to_revoke_elon_musk_canadian/">[comments]</a></span> </td></tr></table>
+
+## Trump’s Commerce Secretary Confirms Plan to Gut Medicare—and More
+ - [https://www.reddit.com/r/politics/comments/1ivziae/trumps_commerce_secretary_confirms_plan_to_gut](https://www.reddit.com/r/politics/comments/1ivziae/trumps_commerce_secretary_confirms_plan_to_gut)
+ - RSS feed: $source
+ - date published: 2025-02-23T02:15:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ivziae/trumps_commerce_secretary_confirms_plan_to_gut/"> <img src="https://external-preview.redd.it/VkV6qROGk931Aj0Pj1qD9NU1xZckrgzQcEKCLHS_hhE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9af38a55289ec930447b65af192c09db33488491" alt="Trump’s Commerce Secretary Confirms Plan to Gut Medicare—and More" title="Trump’s Commerce Secretary Confirms Plan to Gut Medicare—and More" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WorkingOnPPL"> /u/WorkingOnPPL </a> <br/> <span><a href="https://newrepublic.com/post/191740/trump-lutnick-cut-social-security-medicaid-medicare?utm_source=Twitter&amp;utm_campaign=SF_TNR&amp;utm_medium=social">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ivziae/trumps_commerce_secretary_confirms_plan_to_gut/">[comments]</a></span> </td></tr></table>
+
+## Elon Musk Threatens FBI Agents and Air Traffic Controllers With Forced Resignation If They Don't Respond to an Email
+ - [https://www.reddit.com/r/politics/comments/1ivz23z/elon_musk_threatens_fbi_agents_and_air_traffic](https://www.reddit.com/r/politics/comments/1ivz23z/elon_musk_threatens_fbi_agents_and_air_traffic)
+ - RSS feed: $source
+ - date published: 2025-02-23T01:52:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ivz23z/elon_musk_threatens_fbi_agents_and_air_traffic/"> <img src="https://external-preview.redd.it/iyqIytZt2ZoTWZXv5KfLTIOjnyl6w2skfWs2jcZ5iG0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=365481809d09793b53be972aa8ce78c20c7a67fb" alt="Elon Musk Threatens FBI Agents and Air Traffic Controllers With Forced Resignation If They Don't Respond to an Email" title="Elon Musk Threatens FBI Agents and Air Traffic Controllers With Forced Resignation If They Don't Respond to an Email" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wiredmagazine"> /u/wiredmagazine </a> <br/> <span><a href="https://www.wired.com/story/doge-elon-musk-forced-resignation-email-twitter/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ivz23z/elon_musk_threatens_fbi_agents_and_air_traffic/">[comments]</a></span> </td></tr></table>
+
+## House Dem Launches Probe After White House Says Musk Not Part of DOGE
+ - [https://www.reddit.com/r/politics/comments/1ivyc6w/house_dem_launches_probe_after_white_house_says](https://www.reddit.com/r/politics/comments/1ivyc6w/house_dem_launches_probe_after_white_house_says)
+ - RSS feed: $source
+ - date published: 2025-02-23T01:15:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ivyc6w/house_dem_launches_probe_after_white_house_says/"> <img src="https://external-preview.redd.it/yOoB_Q1zDtoXjyRirN6R0BOgjNS1HrtS0SX_TghE4QI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=19fc83d84eff55c2645693c505cec34af9f5146a" alt="House Dem Launches Probe After White House Says Musk Not Part of DOGE" title="House Dem Launches Probe After White House Says Musk Not Part of DOGE" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/newsspotter"> /u/newsspotter </a> <br/> <span><a href="https://www.commondreams.org/news/doge-elon-musk">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/politics/comments/1ivyc6w/house_dem_launches_probe_after_white_house_says/">[comments]</a></span> </td></tr></table>
+
+## ‘The perfect target’: Russia cultivated Trump as asset for 40 years – ex-KGB spy | The KGB ‘played the game as if they were immensely impressed by his personality’, Yuri Shvets, a key source for a new book, tells the Guardian
+ - [https://www.reddit.com/r/politics/comments/1ivxkg3/the_perfect_target_russia_cultivated_trump_as](https://www.reddit.com/r/politics/comments/1ivxkg3/the_perfect_target_russia_cultivated_trump_as)
+ - RSS feed: $source
+ - date published: 2025-02-23T00:36:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/politics/comments/1ivxkg3/the_perfect_target_russia_cultivated_trump_as/"> <img src="https://external-preview.redd.it/j4ZjF5xYiAvxrfqWrXyXfBSey1VAN6WoSFPlxNrv1Iw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5a1189c64b3031db4bead392481c1f1b4a3c54d0" alt="‘The perfect target’: Russia cultivated Trump as asset for 40 years – ex-KGB spy | The KGB ‘played the game as if they were immensely impressed by his personality’, Yuri Shvets, a key source for a new book, tells the Guardian" title="‘The perfect target’: Russia cultivated Trump as asset for 40 years – ex-KGB spy | The KGB ‘played the game as if they were immensely impressed by his personality’, Yuri Shvets, a key source for a new book, tells the Guardian" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Murky-Site7468"> /u/Murky-Site7468 </a> <br/> <span><a href="http://www.theguardian.com/us-news/2021/jan/29/trump-russia-asset-claims-former-kgb-spy
+

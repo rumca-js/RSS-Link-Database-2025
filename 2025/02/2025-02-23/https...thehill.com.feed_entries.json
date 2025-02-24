@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-23T20:16:48+00:00",
+        "description": "Former Food and Drug Administration (FDA) Commissioner Dr. Scott Gottlieb said he is \u201cvery concerned\u201d about the measles outbreak in Texas spreading. Gottlieb joined CBS News\u2019 \u201cFace the Nation\u201d on Sunday, where he was asked by host Margaret Brennan about the outbreak in the South Plains region of Texas, which has left many children infected.&#8230;",
+        "id": 2179885,
+        "language": "en-US",
+        "link": "https://thehill.com/policy/healthcare/5160089-former-fda-chief-very-concerned-about-texas-measles-outbreak-spreading",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 346,
+        "source_url": "https://thehill.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Former FDA chief \u2018very concerned\u2019 about Texas measles outbreak spreading",
+        "vote": 0
+    }
+]

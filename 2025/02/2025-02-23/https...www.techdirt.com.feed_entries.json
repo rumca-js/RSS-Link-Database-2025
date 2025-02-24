@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-23T20:00:00+00:00",
+        "description": "This week, our first place winner on the insightful side is an anonymous comment about DOGE&#8217;s supposed savings: It\u2019s easy to afford a car and house when you don\u2019t do any maintenance on it. I\u2019ve come to the conclusion that right wingers have no concept of short term vs long term costs. In second place, [&#8230;]",
+        "id": 2180001,
+        "language": "en-US",
+        "link": "https://www.techdirt.com/2025/02/23/funniest-most-insightful-comments-of-the-week-at-techdirt-149",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 325,
+        "source_url": "https://www.techdirt.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Funniest/Most Insightful Comments Of The Week At Techdirt",
+        "vote": 0
+    }
+]

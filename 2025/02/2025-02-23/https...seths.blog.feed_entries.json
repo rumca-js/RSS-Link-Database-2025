@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-23T10:08:00+00:00",
+        "description": "If you want to be a great painter, perhaps you could reverse engineer what made the Mona Lisa such an important painting. You could move to Italy. You could learn about shadows and light and technique. The problem is that the Mona Lisa isn&#8217;t the most famous painting in the world because of all of [&#8230;]",
+        "id": 2177027,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/02/the-mona-lisa-problem",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Mona Lisa problem",
+        "vote": 0
+    }
+]

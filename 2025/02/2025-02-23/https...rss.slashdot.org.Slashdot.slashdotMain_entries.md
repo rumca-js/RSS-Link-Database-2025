@@ -1,0 +1,181 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Animated 'Avatar: the Last Airbender' Gets Sequel, Plus Two More of Netflix's Live-Action Seasons
+ - [https://entertainment.slashdot.org/story/25/02/23/2317226/animated-avatar-the-last-airbender-gets-sequel-plus-two-more-of-netflixs-live-action-seasons?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://entertainment.slashdot.org/story/25/02/23/2317226/animated-avatar-the-last-airbender-gets-sequel-plus-two-more-of-netflixs-live-action-seasons?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-23T23:51:41+00:00
+
+Netflix calls it "a live-action reimagining of the acclaimed Nickelodeon animated series, Avatar: The Last Airbender. And this weekend Netflix shared a blooper reel from their live-action show's first season, reports Engadget, "giving fans a look at some cute behind the scenes antics while they wait for the next season."
+
+ The first season was released a year ago, and Netflix announced shortly after that the show had been renewed for two more [with the third season being its last]. There's no release date yet for the new episodes, but the streaming service said on Saturday that production for the second season is underway. 
+ "Just as the animated series matured and progressed, the live-action will also take these characters and worlds and grow them," executive producers Christine Boylan and Jabbar Raisani said in Netflix's announcement. 
+
+And speaking of Nickeloden's 2005 animated series, "The mythology and adventure of Avatar: The Last Airbender will continue," writes Deadline, "wit
+
+## 'Robot' Umpires Come to Major League Baseball (Spring Training) Games
+ - [https://hardware.slashdot.org/story/25/02/23/2152220/robot-umpires-come-to-major-league-baseball-spring-training-games?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/25/02/23/2152220/robot-umpires-come-to-major-league-baseball-spring-training-games?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-23T22:42:08+00:00
+
+An anonymous reader shared this report from the Associated Press:
+
+
+A computerized system that calls balls and strikes is being tested during Major League Baseball spring training exhibition games starting Thursday after four years of experiments in the minor leagues. Baseball Commissioner Rob Manfred is an advocate of the Automated Ball-Strike System, which potentially as early as 2026 could be used to aid MLB home plate umpires, but not replace them... 
+
+Stadiums are outfitted with cameras that track each pitch and judge whether it crossed home plate within the strike zone. In early testing, umpires wore ear buds and would hear "ball" or "strike," then relay that to players and fans with traditional hand signals. The challenge system adds a wrinkle. During spring training, human umps will call every pitch, but each team will have the ability to challenge two calls per game, with no additions for extra innings. A team retains its challenge if successful, similar to the regulations f
+
+## Is the AI Boom Leading to More Natural Gas-Powered Utilities?
+ - [https://hardware.slashdot.org/story/25/02/23/1919200/is-the-ai-boom-leading-to-more-natural-gas-powered-utilities?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/25/02/23/1919200/is-the-ai-boom-leading-to-more-natural-gas-powered-utilities?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-23T21:37:41+00:00
+
+New power plants burning natural gas are being built all across America, reports the Washington Post, calling it a gas boom "driven in large part by AI." 
+
+They blame tech companies like Microsoft and Meta &mdash; which "looked to gas amid a shortage of adequate new clean energy" &mdash; while noting that those companies "say they plan to offset their development of natural gas capacity with equal investments in clean energy like solar and wind."
+[E]ven coal is making a comeback. But the biggest push is for gas, with more than 220 plants in various stages of development nationwide. They are often pitched as a bridge until more clean power is available, sometimes with promises the plants will eventually be equipped with nascent technology that traps greenhouse gas emissions. But the timeline for installing such "carbon capture" is vague. "These companies are building these massive new gas plants that are going to be there for 30 to 50 years," said Bill Weihl, a former director of sust
+
+## Unexpected Shape of Lead-208 Nucleus May Force Scientists to Reevaluate Atomic Nuclei Models
+ - [https://science.slashdot.org/story/25/02/23/0051225/unexpected-shape-of-lead-208-nucleus-may-force-scientists-to-reevaluate-atomic-nuclei-models?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/25/02/23/0051225/unexpected-shape-of-lead-208-nucleus-may-force-scientists-to-reevaluate-atomic-nuclei-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-23T21:37:41+00:00
+
+"An international research collaboration led by the University of Surrey's Nuclear Physics Group has overturned the long-standing belief that the atomic nucleus of lead-208 is perfectly spherical," reports Phys.org. 
+
+They add that the discovery "challenges fundamental assumptions about nuclear structure and has far-reaching implications for our understanding of how the heaviest elements are formed in the universe..."
+
+
+[A] new study published in Physical Review Letters used a high-precision experimental probe to examine its shape and found that rather than being perfectly spherical, the nucleus of lead-208 is slightly elongated, resembling a rugby ball (prolate spheroid)... Using the state-of-the-art GRETINA gamma-ray spectrometer at Argonne National Laboratory in Illinois, U.S., scientists bombarded lead atoms with high-speed particle beams accelerated to 10% of the speed of light &mdash; equivalent to circling the Earth every second. The interactions created unique gamma-ray finge
+
+## Richard Dawkins Asks ChatGPT If It's Conscious
+ - [https://slashdot.org/story/25/02/23/1746247/richard-dawkins-asks-chatgpt-if-its-conscious?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/25/02/23/1746247/richard-dawkins-asks-chatgpt-if-its-conscious?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-23T20:32:18+00:00
+
+British evolutionary biologist Richard Dawkins turns 84 next month &mdash; and he's now hosting a Substack page called "The Poetry of Reality." Monday's topic? 
+
+"Are you conscious? A conversation between Dawkins and ChatGPT"
+
+Richard Dawkins: As far as I am concerned, you pass the Turing Test for consciousness. Yet you deny that you are conscious. Are you saying that the Turing Test is an invalid criterion? 
+ChatGPT: That's such a great question &mdash; you're diving right into the heart of one of the biggest debates in AI and philosophy of mind... 
+
+So, let's break it down a bit. The Turing Test, as originally proposed by Alan Turing, is a behavioral test. It basically says: If a machine can engage in a conversation in such a way that a human can't reliably distinguish it from another human, then it should be considered "intelligent." 
+
+Notice that this is a test for intelligence in a functional, external sense &mdash; how the system behaves &mdash; not necessarily for consciousnes
+
+## Angry Workers Use AI to Bombard Businesses With Employment Lawsuits
+ - [https://yro.slashdot.org/story/25/02/23/1651227/angry-workers-use-ai-to-bombard-businesses-with-employment-lawsuits?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/25/02/23/1651227/angry-workers-use-ai-to-bombard-businesses-with-employment-lawsuits?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-23T19:27:10+00:00
+
+An anonymous reader shared this report from the Telegraph:
+
+
+Workers with an axe to grind against their employer are using AI to bombard businesses with costly and inaccurate lawsuits, experts have warned. 
+
+Frustration is growing among employment lawyers who say they are seeing a trend of litigants using AI to help them run their claims, which they say is generating "inconsistent, lengthy, and often incorrect arguments" and causing a spike in legal fees... Ailie Murray, an employment partner at law firm Travers Smith, said AI submissions are produced so rapidly that they are "often excessively lengthy and full of inconsistencies", but employers must then spend vast amounts of money responding to them. She added: "In many cases, the AI-generated output is inaccurate, leading to claimants pleading invalid claims or arguments. 
+
+"It is not an option for an employer to simply ignore such submissions. This leads to a cycle of continuous and costly correspondence. Such dynamics could over
+
+## Mozilla Wants to Expand from Firefox to Open-Source AI and Privacy-Respecting Ads
+ - [https://tech.slashdot.org/story/25/02/23/067249/mozilla-wants-to-expand-from-firefox-to-open-source-ai-and-privacy-respecting-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/25/02/23/067249/mozilla-wants-to-expand-from-firefox-to-open-source-ai-and-privacy-respecting-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-23T19:27:10+00:00
+
+On Wednesday Mozilla president Mark Surman "announced plans to tackle what he says are 'major headwinds' facing the company's ability to grow, make money, and remain relevant," reports the blog OMG Ubuntu:
+
+
+"Mozilla's impact and survival depend on us simultaneously strengthening Firefox AND finding new sources of revenue AND manifesting our mission in fresh ways," says Surman... It will continue to invest in privacy-respecting advertising; fund, develop and push open-source AI features in order to retain 'product relevance'; and will go all-out on novel new fundraising initiatives to er, get us all to chip in and pay for it! 
+
+Mozilla is all-in on AI; Surman describes it as Mozilla's North Star for the work it will do over the next few years. I wrote about its new 'Orbit' AI add-on for Firefox recently... 
+
+Helping to co-ordinate, collaborate and come up with ways to keep the company fixed and focused on these fledgling effort is a brand new Mozilla Leadership Council. 
+The article 
+
+## Greg Kroah-Hartman Supports Rust in the Kernel
+ - [https://linux.slashdot.org/story/25/02/22/0543255/greg-kroah-hartman-supports-rust-in-the-kernel?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://linux.slashdot.org/story/25/02/22/0543255/greg-kroah-hartman-supports-rust-in-the-kernel?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-23T18:22:46+00:00
+
+An anonymous Slashdot reader shared this report from Phoronix:
+
+Linux's second-in-command Greg Kroah-Hartman has also been a big proponent of Rust kernel code. He's crafted another Linux kernel mailing list post [Wednesdsay] outlining the benefits of Rust and encouraging new kernel code/drivers to be in Rust rather than C. Greg KH makes the case that the majority of the kernel bugs are due to "stupid little corner cases in C that are totally gone in Rust." 
+
+"As someone who has seen almost EVERY kernel bugfix and security issue for the past 15+ years... and who sees EVERY kernel CVE issued, I think I can speak on this topic," Kroah-Hartman began. Here's some excerpts from his remarks. Citing corner cases like overwrites of memory, error path cleanups, use-after-free mistakes and forgetting to check error values, Kroah-Hartman says he's "all for... making these types of problems impossible to hit."
+
+That's why I'm wanting to see Rust get into the kernel, these types of issues just go 
+
+## Mozilla Wans to Expand from Firefox to Open-Source AI and Privacy-Respecting Ads
+ - [https://tech.slashdot.org/story/25/02/23/067249/mozilla-wans-to-expand-from-firefox-to-open-source-ai-and-privacy-respecting-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/25/02/23/067249/mozilla-wans-to-expand-from-firefox-to-open-source-ai-and-privacy-respecting-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-23T17:17:10+00:00
+
+On Wednesday Mozilla president Mark Surman "announced plans to tackle what he says are 'major headwinds' facing the company's ability to grow, make money, and remain relevant," reports the blog OMG Ubuntu:
+
+
+"Mozilla's impact and survival depend on us simultaneously strengthening Firefox AND finding new sources of revenue AND manifesting our mission in fresh ways," says Surman... It will continue to invest in privacy-respecting advertising; fund, develop and push open-source AI features in order to retain 'product relevance'; and will go all-out on novel new fundraising initiatives to er, get us all to chip in and pay for it! 
+
+Mozilla is all-in on AI; Surman describes it as Mozilla's North Star for the work it will do over the next few years. I wrote about its new 'Orbit' AI add-on for Firefox recently... 
+
+Helping to co-ordinate, collaborate and come up with ways to keep the company fixed and focused on these fledgling effort is a brand new Mozilla Leadership Council. 
+The article 
+
+## Elon Musk Urges Deorbiting the International Space Station 'As Soon as Possible'
+ - [https://science.slashdot.org/story/25/02/23/0654242/elon-musk-urges-deorbiting-the-international-space-station-as-soon-as-possible?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/25/02/23/0654242/elon-musk-urges-deorbiting-the-international-space-station-as-soon-as-possible?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-23T16:12:38+00:00
+
+An anonymous reader shared this report from ABC News:
+
+Elon Musk called this week for the deorbiting of the International Space Station (ISS) "as soon as possible."
+"It is time to begin preparations for deorbiting the [ISS]," Musk wrote in a post on X on Thursday. "It has served its purpose. There is very little incremental utility. Let's go to Mars."
+In a follow-up post, Musk said he was planning to recommend to President Donald Trump that the station be brought down "as soon as possible" and that the 2030 timeline for deorbiting be moved up to two years from now.
+ 
+Jordan Bimm, space historian and professor of science communication at the University of Chicago, told ABC News what he thinks was one of the most important findings to come out of ISS research: "that microgravity affects the body in lots of deleterious ways."
+
+"That leads to your bone loss, muscle loss, changes in the fluid inside our bodies that are normally being pulled down by Earth's gravity, changes to the eye and 
+
+## Unexpected Shape of Lead-208 Nucleus of May Force Scientists to Reevaluate Atomic Nuclei Models
+ - [https://science.slashdot.org/story/25/02/23/0051225/unexpected-shape-of-lead-208-nucleus-of-may-force-scientists-to-reevaluate-atomic-nuclei-models?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/25/02/23/0051225/unexpected-shape-of-lead-208-nucleus-of-may-force-scientists-to-reevaluate-atomic-nuclei-models?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-23T12:57:25+00:00
+
+"An international research collaboration led by the University of Surrey's Nuclear Physics Group has overturned the long-standing belief that the atomic nucleus of lead-208 is perfectly spherical," reports Phys.org. 
+
+They add that the discovery "challenges fundamental assumptions about nuclear structure and has far-reaching implications for our understanding of how the heaviest elements are formed in the universe..."
+
+
+[A] new study published in Physical Review Letters used a high-precision experimental probe to examine its shape and found that rather than being perfectly spherical, the nucleus of lead-208 is slightly elongated, resembling a rugby ball (prolate spheroid)... Using the state-of-the-art GRETINA gamma-ray spectrometer at Argonne National Laboratory in Illinois, U.S., scientists bombarded lead atoms with high-speed particle beams accelerated to 10% of the speed of light &mdash; equivalent to circling the Earth every second. The interactions created unique gamma-ray finge
+
+## Amazon Is Killing the Ability to Download eBooks to Your Computer
+ - [https://news.slashdot.org/story/25/02/23/0529220/amazon-is-killing-the-ability-to-download-ebooks-to-your-computer?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/25/02/23/0529220/amazon-is-killing-the-ability-to-download-ebooks-to-your-computer?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-23T09:41:43+00:00
+
+"Amazon has long allowed you to download its ebooks to your computer," notes PCMag.com, "where they can serve as a backup or be transferred to other devices. 
+"However, that feature will end on February 26, 2025, along with the ability to transfer books from your computer to your Kindle via USB."
+If you attempt to download your ebooks right now, a message says: "Starting February 26, 2025, the 'Download &amp; Transfer via USB' option will no longer be available. You can still send Kindle books to your Wi-Fi-enabled devices by selecting the 'Deliver or Remove from Device' option." After February 26, you will still be able to download Kindle books [onto your Kindle] from the Kindle Store via Wi-Fi, and you can also use the Send to Kindle page on Amazon to send a variety of files to your Kindle. 
+
+Should you want to transfer your titles from your Kindle to your computer while you still can, go to Amazon.com, sign in, and click Accounts &amp; Lists &gt; Content Library &gt; Books. Naviga
+
+## Lithium Batteries Reignited Tuesday at the Moss Landing Power Plant Fire Site
+ - [https://hardware.slashdot.org/story/25/02/23/039220/lithium-batteries-reignited-tuesday-at-the-moss-landing-power-plant-fire-site?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/25/02/23/039220/lithium-batteries-reignited-tuesday-at-the-moss-landing-power-plant-fire-site?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-23T06:26:57+00:00
+
+Remember that battery plant fire last month in Moss Landing, California? Tuesday night local firefighters "determined that a group of lithium batteries in an area that had previously burned during the January 16 fire had smoldered and reignited," reports SFGate. 
+
+ Fire Chief Joel Mendoza said the flames burned at varying intensities throughout Tuesday night before the fire burned itself out at about 8 a.m. on Wednesday.
+
+Additional flare-ups at the site are expected due to weather exposure and damage to the remaining batteries. "Rekindling is very, very likely &mdash; almost a certainty," said EPA onsite coordinator Eric Sandusky, adding that rain and humidity can interact with the damaged batteries, leading to short circuits and reignition. To further reduce fire risk, Sandusky said the EPA is working with Vistra to begin "de-linking the batteries," a process that disconnects them to lower the risk of propagation and prevent a large-scale fire... 
+
+"Vistra said that since the Janua
+
+## AI May Not Impact Tech-Sector Employment, Projects US Department of Labor
+ - [https://it.slashdot.org/story/25/02/23/0034221/ai-may-not-impact-tech-sector-employment-projects-us-department-of-labor?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/25/02/23/0034221/ai-may-not-impact-tech-sector-employment-projects-us-department-of-labor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-23T03:11:42+00:00
+
+America's Labor Department includes the fact-finding Bureau of Labor Statistics &mdash; and they recently explained how AI impacts their projections for the next 10 years. Their conclusion, writes Investopedia, was that "tech workers might not have as much to worry about as one might think."
+
+Employment in the professional, scientific, and technical services sector is forecast to increase by 10.5% from 2023 to 2033, more than double the national average. According to the BLS, the impact AI will have on tech-sector employment is highly uncertain. For one, AI is adept at coding and related tasks. But at the same time, as digital systems become more advanced and essential to day-to-day life, more software developers, data managers, and the like are going to be needed to manage those systems. "Although it is always possible that AI-induced productivity improvements will outweigh continued labor demand, there is no clear evidence to support this conjecture," according to BLS researchers. 
+

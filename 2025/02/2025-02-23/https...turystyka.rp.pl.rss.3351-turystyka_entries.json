@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-23T14:15:17+00:00",
+        "description": "Ju\u017c wkr\u00f3tce mo\u017ce pojawi\u0107 si\u0119 nowa ods\u0142ona bonu turystycznego. Tym razem w wersji lokalnej, obejmuj\u0105cej wybrane wojew\u00f3dztwa. Zaawansowane prace nad wdro\u017ceniem bonu prowadzi m.in. wojew\u00f3dztwo podlaskie. Kto i kiedy b\u0119dzie m\u00f3g\u0142 skorzysta\u0107 z bonu?",
+        "id": 2177992,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/popularne-trendy/art41834541-bony-turystyczne-moga-wrocic-ale-po-nowemu-w-jakiej-formie-i-dla-kogo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bony turystyczne mog\u0105 wr\u00f3ci\u0107, ale po nowemu. W jakiej formie i dla kogo?",
+        "vote": 0
+    }
+]

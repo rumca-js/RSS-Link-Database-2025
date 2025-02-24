@@ -1,0 +1,296 @@
+# Source:Movie News and Discussion, URL:https://www.reddit.com/r/movies/.rss, language:en
+
+## Do you ever find it unfortunate Jennifer Grey missed her break-out after "Dirty Dancing"?
+ - [https://www.reddit.com/r/movies/comments/1iwloj9/do_you_ever_find_it_unfortunate_jennifer_grey](https://www.reddit.com/r/movies/comments/1iwloj9/do_you_ever_find_it_unfortunate_jennifer_grey)
+ - RSS feed: $source
+ - date published: 2025-02-23T21:54:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>It was a case of extreme bad luck because she got in a major accident which left her traumatized. Those crucial years she could have taken advantage of the fame and exposure didn&#39;t happen and when she did come back, she got a rhinoplasty which modified her face and made her unrecognizable. </p> <p>I watch &quot;Dirty Dancing&quot;, a formulaic yet engrossing romantic dance drama, and as sexy and charismatic as Patrick Swayze is, it is Jennifer Grey who keeps it together. She&#39;s the main protagonist, she&#39;s playing the &quot;ugly duckling&quot; who blossoms as a dancer and sizzles with Swayze onscreen, their relationship going from tense and hostile into affection, admiration and love. Grey&#39;s Baby is easily identifiable, any girl (or boy) can connect with her character.</p> <p>The more I watch Dirty Dancing, the more I like Jennifer Grey. You don&#39;t see many heroines like her on film today. Some of her lines are cheesy and corny but G
+
+## Watching the beautiful ‘Drive My Car’ (2021). What are some cultural nuances I might be missing?
+ - [https://www.reddit.com/r/movies/comments/1iwlbwl/watching_the_beautiful_drive_my_car_2021_what_are](https://www.reddit.com/r/movies/comments/1iwlbwl/watching_the_beautiful_drive_my_car_2021_what_are)
+ - RSS feed: $source
+ - date published: 2025-02-23T21:39:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>This is an absolutely amazing film that masterfully weaves in a great deal of subtlety when it comes to language, culture, and the nuances of communication, particularly as they pertain to various aspects of Asian traditions and social dynamics. I’m really curious about what deeper cultural and linguistic resonances I might be missing, especially in terms of symbolism, historical context, or idiomatic expressions that may not translate directly.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bl1ngo"> /u/bl1ngo </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iwlbwl/watching_the_beautiful_drive_my_car_2021_what_are/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iwlbwl/watching_the_beautiful_drive_my_car_2021_what_are/">[comments]</a></span>
+
+## I didn't think I'd enjoy The Two Popes as much as I did. What films gave you found unexpectedly interesting and enjoyable?
+ - [https://www.reddit.com/r/movies/comments/1iwkixm/i_didnt_think_id_enjoy_the_two_popes_as_much_as_i](https://www.reddit.com/r/movies/comments/1iwkixm/i_didnt_think_id_enjoy_the_two_popes_as_much_as_i)
+ - RSS feed: $source
+ - date published: 2025-02-23T21:04:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m not religious at all and it was a subject matter that doesnt really interest me. Even though it was overall light on the issue of the Vatican Papers and sexual abuse (which is what I expected the film to be about) I found it interesting - especially Francis&#39;s backstory - and humanising of both characters. Great performances from both Hopkins and Pryce. I can&#39;t speak to any accuracies or lack thereof.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DutchBillyPredator"> /u/DutchBillyPredator </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iwkixm/i_didnt_think_id_enjoy_the_two_popes_as_much_as_i/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iwkixm/i_didnt_think_id_enjoy_the_two_popes_as_much_as_i/">[comments]</a></span>
+
+## The Vourdalak
+ - [https://www.reddit.com/r/movies/comments/1iwk7dm/the_vourdalak](https://www.reddit.com/r/movies/comments/1iwk7dm/the_vourdalak)
+ - RSS feed: $source
+ - date published: 2025-02-23T20:51:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Redditor @leathergreengargoyle said it best: Imagine an Edward Gorey-esque eastern european clan quietly freaking out about curses, missing dads, gender atypicality, forsaken love, all while this painted French court ninny is side-eyeing everything from the background because he needs a ride home.</p> <p>I started off biased against it as I have a tendency to hate subtitled movies but within a few minutes I was intrigued enough to keep watching. The movie is campy, it&#39;s also genuinely scary, hilarious, and a tragedy. It&#39;s reminiscent the elements of a Homeric tragedy. </p> <p>Honestly, I was surprised by how much I liked it. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theRealIveyTorrez"> /u/theRealIveyTorrez </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iwk7dm/the_vourdalak/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iwk7dm/the_vourdalak/"
+
+## Was Cobra supposed to be taken seriously like Terminator or laughed at like Commando?
+ - [https://www.reddit.com/r/movies/comments/1iwk2a8/was_cobra_supposed_to_be_taken_seriously_like](https://www.reddit.com/r/movies/comments/1iwk2a8/was_cobra_supposed_to_be_taken_seriously_like)
+ - RSS feed: $source
+ - date published: 2025-02-23T20:45:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m 40 years old and checked it out this morning, the perfect movie for a lazy Sunday morning. I&#39;m not sure why I avoided this one for so long. Right out of the gate, the opening hostage scene at the grocery store pulls you in with its serious 80&#39;s action movie vibes. Whereas a movie like Commando purposely hit you with funny one-liners, Stallone&#39;s sleepwalking expressions through this movie allows his one-liners to come across with a more serious intention. We learn absolutely nothing about Stallone&#39;s character other than the fact that he means business when taking out bad guys. And the main henchman in this flick, I swear was a bad guy in every other 80s and early 90s movie. At times, this movie reminded me of a horror version of Robocop. Looking it up, looks like it came out a year before Robo. There were some serious horror vibes in this movie, especially the hospital chase that reminded me of Halloween 2 with Michael Myers. C
+
+## Black comedies about incompetent people trying to complete a task?
+ - [https://www.reddit.com/r/movies/comments/1iwju2e/black_comedies_about_incompetent_people_trying_to](https://www.reddit.com/r/movies/comments/1iwju2e/black_comedies_about_incompetent_people_trying_to)
+ - RSS feed: $source
+ - date published: 2025-02-23T20:35:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>One of my very favorite movies is <em>Unfaithfully Yours</em>; not too long ago I also watched <em>A Shot in the Dark</em> which I loved. (I&#39;m tempted to also list <em>Naked Gun</em>, but I feel as though Leslie Nielson&#39;s character is a tad bit too competent for the purposes of this post). Do you guys have any other film recommendations along those lines? I&#39;m looking for major Wile E. Coyote/Team Rocket energy here. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MyCatSlippers"> /u/MyCatSlippers </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iwju2e/black_comedies_about_incompetent_people_trying_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iwju2e/black_comedies_about_incompetent_people_trying_to/">[comments]</a></span>
+
+## What are some of your favorite movies that star actors you don't usually like in other movies?
+ - [https://www.reddit.com/r/movies/comments/1iwj62o/what_are_some_of_your_favorite_movies_that_star](https://www.reddit.com/r/movies/comments/1iwj62o/what_are_some_of_your_favorite_movies_that_star)
+ - RSS feed: $source
+ - date published: 2025-02-23T20:07:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>For me, I&#39;m not a fan of Jim Carrey&#39;s work, but I really like &quot;The Majestic&quot;. I was really caught in his ability to play a dramatic role. I only watched it as Martin Landau played his father in it, and I have fond memories of Mr. Landau in &quot;Space: 1999&quot; as a child.</p> <p>This also begs the question of avoiding movies due to starring an actor one doesn&#39;t like. I&#39;m sure I&#39;ve missed on some gems because an actor whose acting style annoys me is in it, or their personal beliefs/behaviours go against mine so much it doesn&#39;t matter how good an actor they are...I won&#39;t see a film with them in it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aspiecat1"> /u/aspiecat1 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iwj62o/what_are_some_of_your_favorite_movies_that_star/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1i
+
+## John Ford's "How Green Was My Valley" - What are your thoughts?
+ - [https://www.reddit.com/r/movies/comments/1iwi50h/john_fords_how_green_was_my_valley_what_are_your](https://www.reddit.com/r/movies/comments/1iwi50h/john_fords_how_green_was_my_valley_what_are_your)
+ - RSS feed: $source
+ - date published: 2025-02-23T19:24:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>It&#39;s a lyrical film about a time which has gone by, focused on the youngest son, Huw, played by Roddy McDowall. He observes the dynamics within his family, from his rebellious brothers who leave the mines, his sister who falls for the pastor of the village chapel, his kind sister in law, and his dignified elderly parents, played by Donald Crisp and Sara Allgood. </p> <p>The film was a decent watch, a mature family drama. Huw, being a child, is a accessible lead one can follow, one can identify with the bullying he suffers from his coleagues and his snooty teacher, whose comeuppance is a particular highlight. Still, I did struggle in caring about Maureen O&#39;Hara&#39;s lovestruck sister and Walter Pidgeon&#39;s handsome parishioner. </p> <p>Sentimental, though I didn&#39;t find it moving until the ending which, I admit, was knockout of sadness and tragedy.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lau
+
+## Martin Scorsese Petitions to Save Rome’s Cultural Venues — Including 50 Movie Theaters
+ - [https://www.reddit.com/r/movies/comments/1iwhl87/martin_scorsese_petitions_to_save_romes_cultural](https://www.reddit.com/r/movies/comments/1iwhl87/martin_scorsese_petitions_to_save_romes_cultural)
+ - RSS feed: $source
+ - date published: 2025-02-23T19:01:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iwhl87/martin_scorsese_petitions_to_save_romes_cultural/"> <img src="https://external-preview.redd.it/-GUD5bHXhB73Ehnhhv2y80_HVCxzMUTsxvgYHkbnoL4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0d6798f3a79701006c547f1549046d6403a457c" alt="Martin Scorsese Petitions to Save Rome’s Cultural Venues — Including 50 Movie Theaters" title="Martin Scorsese Petitions to Save Rome’s Cultural Venues — Including 50 Movie Theaters" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/indiewire"> /u/indiewire </a> <br/> <span><a href="https://www.indiewire.com/news/general-news/martin-scorsese-petition-save-rome-movie-theater-1235098271/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iwhl87/martin_scorsese_petitions_to_save_romes_cultural/">[comments]</a></span> </td></tr></table>
+
+## What movie endings did you hate and why?
+ - [https://www.reddit.com/r/movies/comments/1iwhecb/what_movie_endings_did_you_hate_and_why](https://www.reddit.com/r/movies/comments/1iwhecb/what_movie_endings_did_you_hate_and_why)
+ - RSS feed: $source
+ - date published: 2025-02-23T18:53:37+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/tzlzo486qxke1.jpg?width=702&amp;format=pjpg&amp;auto=webp&amp;s=a4d235077fc81c6d9dc3617debf4660094972b99">https://preview.redd.it/tzlzo486qxke1.jpg?width=702&amp;format=pjpg&amp;auto=webp&amp;s=a4d235077fc81c6d9dc3617debf4660094972b99</a></p> <p>Based on the novel by A. E. W. Mason, the story is set in Sudan during the wars against the Mahdi. British officer Harry Faversham refuses to join an expedition to rescue General Charles Gordon, the British-appointed governor of Sudan, and resigns from his post. Viewing his withdrawal as cowardice, three friends and his fiancée, Ethne, give him a white feather, the symbol of cowardice. Ethne then breaks off their engagement.</p> <p>When the expedition is defeated by the Mahdi’s forces and British officers are taken prisoner, Harry travels to Sudan to rescue them. There, he saves his friends, who are hostages of the Mahdi. His friends, acknowledging his bravery, return the feat
+
+## I used to love going to midnight openings for big movie releases. Is this a thing anywhere still? I know there are still releases but it’s not the event it used to be in my town.
+ - [https://www.reddit.com/r/movies/comments/1iwgm1i/i_used_to_love_going_to_midnight_openings_for_big](https://www.reddit.com/r/movies/comments/1iwgm1i/i_used_to_love_going_to_midnight_openings_for_big)
+ - RSS feed: $source
+ - date published: 2025-02-23T18:20:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>They were parties in the parking lot and so much fun. We would line up hours early, people would dress up in costumes and act out scenes. The peak for me was The Dark Knight. There were 6 theaters of people lined up (4 or 500 hundred). It was fun. It started to fizzle after that around 2010 for me. Never really saw another event like that since. Anybody have experiences like this? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sdnnhy"> /u/sdnnhy </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iwgm1i/i_used_to_love_going_to_midnight_openings_for_big/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iwgm1i/i_used_to_love_going_to_midnight_openings_for_big/">[comments]</a></span>
+
+## Rat Race (2001) theme party snack ideas?
+ - [https://www.reddit.com/r/movies/comments/1iwgi1c/rat_race_2001_theme_party_snack_ideas](https://www.reddit.com/r/movies/comments/1iwgi1c/rat_race_2001_theme_party_snack_ideas)
+ - RSS feed: $source
+ - date published: 2025-02-23T18:15:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>This is a favourite movie of my friend group and we’re getting together after like 5 years at my place where I want to have a themed screening of it 😂 looking for on-theme snack ideas! </p> <p>So far I’ve thought of: - “Little cock doggies” ie.; cocktail wieners - “Mimosa” also a non-alcoholic version - Bag of nuts “for the squirrels” - chocolate milkshake NOT drugged with OTC sleep aids - box of assorted chocolates to place bets on </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/xxxitbaby"> /u/xxxitbaby </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iwgi1c/rat_race_2001_theme_party_snack_ideas/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iwgi1c/rat_race_2001_theme_party_snack_ideas/">[comments]</a></span>
+
+## What is your favorite studio movie that was better than it had any right to be?
+ - [https://www.reddit.com/r/movies/comments/1iwfr3j/what_is_your_favorite_studio_movie_that_was](https://www.reddit.com/r/movies/comments/1iwfr3j/what_is_your_favorite_studio_movie_that_was)
+ - RSS feed: $source
+ - date published: 2025-02-23T17:44:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Mine is the live action Clifford the Big Red Dog movie. It&#39;s simplistic studio kids&#39; movie that is anything but groundbreaking. However, it was clear that it was well done, and everyone involved actually cared and put in their best foot forward. And it is actually enjoyable fun watch if you just want to watch a well-made if predictable family movie that both you and the kidos can enjoy.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdSpecialist6598"> /u/AdSpecialist6598 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iwfr3j/what_is_your_favorite_studio_movie_that_was/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iwfr3j/what_is_your_favorite_studio_movie_that_was/">[comments]</a></span>
+
+## Movie suggestions?
+ - [https://www.reddit.com/r/movies/comments/1iwf2dk/movie_suggestions](https://www.reddit.com/r/movies/comments/1iwf2dk/movie_suggestions)
+ - RSS feed: $source
+ - date published: 2025-02-23T17:15:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>One of the biggest hobbies of my life is watching movies. Unfortunately, I&#39;ve never made a favourite list, before now. I have watched <em>alot</em> of movies, and I (think) dark thrillers is my go-to. Just saw se7en for probably 50th time. Love the ending. This is the list I just wrote up:</p> <p>Contagion Rocknrolla Philadelphia There Will be blood The hunt The revenant Bronson Gangs of New York Green Mile Shawshank redemption Legends of the fall The road Se7en Fight club The shining Black swan Whiplash American history X The Prestige The departed Requiem for a dream Eternal sunshine of the spotless mind A beautiful mind Million dollar baby Moonlight Her Snatch Babel Once upon a time in hollywood Danser med ulver Biutiful Shine A place beyond the pines Joker Everything by Christopher Nolan Everything by Quentin Tarantino Benjamin button Brothers (Toby og Gyllenhaal) Demolition Patrick Melrose Tree of life Sound of Metal Dune 1+2 Into the Wild Ol
+
+## Hot Fuzz (2007) is chock full of details and little bonuses.
+ - [https://www.reddit.com/r/movies/comments/1iwctpk/hot_fuzz_2007_is_chock_full_of_details_and_little](https://www.reddit.com/r/movies/comments/1iwctpk/hot_fuzz_2007_is_chock_full_of_details_and_little)
+ - RSS feed: $source
+ - date published: 2025-02-23T15:38:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>I only saw this movie this past December and I&#39;m obsessed. It&#39;s such a tight script, almost nothing goes to waste. The cinematography and editing is excellent. There&#39;s <em>so</em> many details that every re-watch you could notice something else. <a href="https://imgur.com/gallery/Fq4Ob4l">Here&#39;s the arrested kids from the pub with their names!</a></p> <p>I could talk about this movie for ages. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kosherkitties"> /u/kosherkitties </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iwctpk/hot_fuzz_2007_is_chock_full_of_details_and_little/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iwctpk/hot_fuzz_2007_is_chock_full_of_details_and_little/">[comments]</a></span>
+
+## Criminal That This Movie Received No Soundtrack Nominations
+ - [https://www.reddit.com/r/movies/comments/1iwcq7j/criminal_that_this_movie_received_no_soundtrack](https://www.reddit.com/r/movies/comments/1iwcq7j/criminal_that_this_movie_received_no_soundtrack)
+ - RSS feed: $source
+ - date published: 2025-02-23T15:34:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iwcq7j/criminal_that_this_movie_received_no_soundtrack/"> <img src="https://external-preview.redd.it/wqaGr6Bu9fkel_IJXWejLqTImnZSxi0elTLLhhr-46U.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fa404932932d0906e64d845abf85662aaf756240" alt="Criminal That This Movie Received No Soundtrack Nominations" title="Criminal That This Movie Received No Soundtrack Nominations" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Early_Machine_6668"> /u/Early_Machine_6668 </a> <br/> <span><a href="https://www.youtube.com/watch?v=O5PAMHNLfJE&amp;list=LL">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iwcq7j/criminal_that_this_movie_received_no_soundtrack/">[comments]</a></span> </td></tr></table>
+
+## Most unrelated movies with the same title
+ - [https://www.reddit.com/r/movies/comments/1iwco8y/most_unrelated_movies_with_the_same_title](https://www.reddit.com/r/movies/comments/1iwco8y/most_unrelated_movies_with_the_same_title)
+ - RSS feed: $source
+ - date published: 2025-02-23T15:31:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>There are plenty of cases where unrelated movies have the same title. For instance, there are 4 Project Xs. There&#39;s one about saving chimps for a lab, a house party out of control, a political documentary &amp; a spy movie. What&#39;s the title with the most movies if we don&#39;t count stuff like Dracula where it&#39;s because they have the same source material?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ace_of_Sevens"> /u/Ace_of_Sevens </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iwco8y/most_unrelated_movies_with_the_same_title/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iwco8y/most_unrelated_movies_with_the_same_title/">[comments]</a></span>
+
+## George Armitage, ‘Grosse Pointe Blank’ and ‘Miami Blues’ Director, Dies at 83
+ - [https://www.reddit.com/r/movies/comments/1iwcl75/george_armitage_grosse_pointe_blank_and_miami](https://www.reddit.com/r/movies/comments/1iwcl75/george_armitage_grosse_pointe_blank_and_miami)
+ - RSS feed: $source
+ - date published: 2025-02-23T15:27:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iwcl75/george_armitage_grosse_pointe_blank_and_miami/"> <img src="https://external-preview.redd.it/PhmeFYrqHuW3nvAMrAwB3BJEoJ_nYJfGnl2yVWvgGcw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8bb82aca78e29058c557b44a328a7b351ea4632" alt="George Armitage, ‘Grosse Pointe Blank’ and ‘Miami Blues’ Director, Dies at 83" title="George Armitage, ‘Grosse Pointe Blank’ and ‘Miami Blues’ Director, Dies at 83" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HeStoleMyBalloons"> /u/HeStoleMyBalloons </a> <br/> <span><a href="https://www.hollywoodreporter.com/movies/movie-news/george-armitage-dead-grosse-pointe-blank-miami-blues-1236143663/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iwcl75/george_armitage_grosse_pointe_blank_and_miami/">[comments]</a></span> </td></tr></table>
+
+## Columbus | This movie has everything (except awards and popularity)
+ - [https://www.reddit.com/r/movies/comments/1iwca8m/columbus_this_movie_has_everything_except_awards](https://www.reddit.com/r/movies/comments/1iwca8m/columbus_this_movie_has_everything_except_awards)
+ - RSS feed: $source
+ - date published: 2025-02-23T15:14:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iwca8m/columbus_this_movie_has_everything_except_awards/"> <img src="https://external-preview.redd.it/BdwZAcKB0Ugdv2K5oplX98zAFiZ_6ky4QUs27zrZfP0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=484953a9a5cd44a7867793b310ec2d1155aee0ef" alt="Columbus | This movie has everything (except awards and popularity)" title="Columbus | This movie has everything (except awards and popularity)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ascarea"> /u/Ascarea </a> <br/> <span><a href="https://youtu.be/KePLEJdmjqs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iwca8m/columbus_this_movie_has_everything_except_awards/">[comments]</a></span> </td></tr></table>
+
+## First Poster for 'DEAD LOVER' - A lonely gravedigger meets her dream man, but their brief romance ends when he tragically drowns. Grief-stricken, she conducts madcap scientific experiments to bring him back, leading to grave consequences and an unexpected, morbidly intense love
+ - [https://www.reddit.com/r/movies/comments/1iwc784/first_poster_for_dead_lover_a_lonely_gravedigger](https://www.reddit.com/r/movies/comments/1iwc784/first_poster_for_dead_lover_a_lonely_gravedigger)
+ - RSS feed: $source
+ - date published: 2025-02-23T15:10:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iwc784/first_poster_for_dead_lover_a_lonely_gravedigger/"> <img src="https://preview.redd.it/x0lpmeuvmwke1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=130cd784684f505ad80127e1ec280105efbb9336" alt="First Poster for 'DEAD LOVER' - A lonely gravedigger meets her dream man, but their brief romance ends when he tragically drowns. Grief-stricken, she conducts madcap scientific experiments to bring him back, leading to grave consequences and an unexpected, morbidly intense love" title="First Poster for 'DEAD LOVER' - A lonely gravedigger meets her dream man, but their brief romance ends when he tragically drowns. Grief-stricken, she conducts madcap scientific experiments to bring him back, leading to grave consequences and an unexpected, morbidly intense love" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mayukhdas1999"> /u/mayukhdas1999 </a> <br/> <span><a href="https://i.redd.it/x0
+
+## Movies you love but have no clue what is going on…
+ - [https://www.reddit.com/r/movies/comments/1iwbi6b/movies_you_love_but_have_no_clue_what_is_going_on](https://www.reddit.com/r/movies/comments/1iwbi6b/movies_you_love_but_have_no_clue_what_is_going_on)
+ - RSS feed: $source
+ - date published: 2025-02-23T14:37:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Frederico Fellini’s La Dolce Vita or Otto e mezza (8 1/2):</p> <p>Beautiful, gorgeous, exquisite movies but I have no real clue as to what is happening and to whom the ‘events’ are happening to. We follow them around in lavish places (and not so lavish) listening to them talk with each other in that Italian language and yet….nothing is seemingly happening all the whilst occurring amidst something…be it a restaurant, a church, a beach, a film-set etc. </p> <p>We go from place to place, walking or talking or driving and bumping into various characters all seemingly unconnected whilst connected by something. </p> <p>Same goes for any Antonioni film eg L’Aventura:</p> <p>Beautiful cinematography, beautiful-looking characters, beautiful scenery. But what in the heck are they talking about? </p> <p>And yet I love these movies. I can have them on in the background forever because they are like moving art. I love them. I have no idea what’s going on but I lo
+
+## What movies are so generic it’s painful?
+ - [https://www.reddit.com/r/movies/comments/1iwajwy/what_movies_are_so_generic_its_painful](https://www.reddit.com/r/movies/comments/1iwajwy/what_movies_are_so_generic_its_painful)
+ - RSS feed: $source
+ - date published: 2025-02-23T13:49:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just watched Wrath of the Titans and remembered how damn generic a fantasy movie this was. Clash was a bit too, but Wrath took the piss with it. Nothing about this movie screams antiquity in the slightest. Bill Nighy was basically just Jetfire from Transformers 2. Villain is a big rock lava monster. The small monsters are <strong>literally</strong> the Chitauri? </p> <p>I finished the movie 20 minutes ago and I could not tell you what happens in the first third of it. </p> <p>It’s riddled with 2010s era action movie tropes. Hero saying “oh come on, you gotta be kidding me!” Dafuq. I don’t need him to speak Ancient Greek but can Perseus please not sound like a Will Smith hero circa 2005? If Perseus had said “I’m putting together a crew for one last job” it wouldn’t have felt out of place for this movie. </p> <p>Can you guys think of some movies as generic as this? Like just one predictable trope or line after another, no soul to the story, interchan
+
+## Plot points you're surprised WEREN'T spoiled by the trailers
+ - [https://www.reddit.com/r/movies/comments/1iwa33x/plot_points_youre_surprised_werent_spoiled_by_the](https://www.reddit.com/r/movies/comments/1iwa33x/plot_points_youre_surprised_werent_spoiled_by_the)
+ - RSS feed: $source
+ - date published: 2025-02-23T13:25:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>We all complain about how modern trailers have a tendency to spoil everything about the movie except maybe the big twist or the ending, and sometimes even that is not safe. Which is why it&#39;s surprising when something completely unexpected happens in the movie, not because it&#39;s something actually unexpected, but because the trailers and marketing completely ommited it. Sometimes even entire characters will be mostly absent from the marketing but turn out to be more important than some celebrities in the film that got top billing. Often this isn&#39;t even intentional, the people in charge of marketing just prioritized other things.</p> <p>So what plot points/characters were you surprised weren&#39;t spoiled by the trailers?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AporiaParadox"> /u/AporiaParadox </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iwa33x/plot_points_youre_surprised_
+
+## Which movie opening scene do you think is the best?
+ - [https://www.reddit.com/r/movies/comments/1iw9y44/which_movie_opening_scene_do_you_think_is_the_best](https://www.reddit.com/r/movies/comments/1iw9y44/which_movie_opening_scene_do_you_think_is_the_best)
+ - RSS feed: $source
+ - date published: 2025-02-23T13:18:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iw9y44/which_movie_opening_scene_do_you_think_is_the_best/"> <img src="https://external-preview.redd.it/B8wv0ur6cbo_ObfRprG5Fq6FnGBW5jz4rxQ_NbtULng.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ea9c089778e95fcbfdf26e9fa304ad3902cb8fc" alt="Which movie opening scene do you think is the best?" title="Which movie opening scene do you think is the best?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/8uj5bfse2wke1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=84ee652f627b90a6cd63ecd5abdcf49d8da6957e">https://preview.redd.it/8uj5bfse2wke1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=84ee652f627b90a6cd63ecd5abdcf49d8da6957e</a></p> <p>What&#39;s the perfect hook? Obviously Inglorious Basterds is the first thing that comes to my mind for me. To me it&#39;s the perfect intro and dare I say it, is better than the rest of the movie.</p> <p>I&#39;m going for Magnolia as second.
+
+## What are some action movies like The Raid (2011) - where 'once the action starts, it does not stop'
+ - [https://www.reddit.com/r/movies/comments/1iw7cgc/what_are_some_action_movies_like_the_raid_2011](https://www.reddit.com/r/movies/comments/1iw7cgc/what_are_some_action_movies_like_the_raid_2011)
+ - RSS feed: $source
+ - date published: 2025-02-23T10:34:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>The Raid (2011) starring Iko Uwais is one of my top 5 favourite action movies. Once the action starts, there&#39;s no fluff, it&#39;s just none stop action for the entire rest of the movie.</p> <p>What are some other great movies which fits the &#39;once the action starts, it does not stop&#39;?</p> <p>Letterboxd list I&#39;m compiling:</p> <p><a href="https://letterboxd.com/azunyan/list/once-the-action-starts-it-dont-stop/">https://letterboxd.com/azunyan/list/once-the-action-starts-it-dont-stop/</a></p> <p>For me its:</p> <p>Dredd (2012) - once he&#39;s inside the building, it&#39;s just floor to floor action. I often watch The Raid and Dredd back to back as a double feature movie weekend.</p> <p>Rambo (2008) - once Rambo enters action mode, the rest of the movie is just rip and tear.</p> <p>Born to Fight (2004 - Thailand, by Panna Rittikrai of Ong Bak, and The Protector) - terrorists takes over a village, then the rest of the movie is the villagers
+
+## Can Christopher Nolan Restore the Grandeur of Ancient-World Epics With ‘The Odyssey’?
+ - [https://www.reddit.com/r/movies/comments/1iw6jye/can_christopher_nolan_restore_the_grandeur_of](https://www.reddit.com/r/movies/comments/1iw6jye/can_christopher_nolan_restore_the_grandeur_of)
+ - RSS feed: $source
+ - date published: 2025-02-23T09:38:43+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/DamnThatsInsaneLol"> /u/DamnThatsInsaneLol </a> <br/> <span><a href="https://www.theguardian.com/Film/2025/Feb/21/Christopher-Nolan-Sword-And-Sandal-Epics-Odyssey">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iw6jye/can_christopher_nolan_restore_the_grandeur_of/">[comments]</a></span>
+
+## Denis Villeneuve Narrates Austin Butler’s Battle Sequence From ‘Dune: Part Two’ | Anatomy of a Scene
+ - [https://www.reddit.com/r/movies/comments/1iw6hmq/denis_villeneuve_narrates_austin_butlers_battle](https://www.reddit.com/r/movies/comments/1iw6hmq/denis_villeneuve_narrates_austin_butlers_battle)
+ - RSS feed: $source
+ - date published: 2025-02-23T09:33:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iw6hmq/denis_villeneuve_narrates_austin_butlers_battle/"> <img src="https://external-preview.redd.it/hQWghqFsAEaYwF7ketJJkdSYBeYRjV3J5aw6CsvtB60.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b018d044302825168a2f08a11a12cef317cca28" alt="Denis Villeneuve Narrates Austin Butler’s Battle Sequence From ‘Dune: Part Two’ | Anatomy of a Scene" title="Denis Villeneuve Narrates Austin Butler’s Battle Sequence From ‘Dune: Part Two’ | Anatomy of a Scene" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DamnThatsInsaneLol"> /u/DamnThatsInsaneLol </a> <br/> <span><a href="https://www.nytimes.com/2025/02/21/movies/dune-part-two-clip.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iw6hmq/denis_villeneuve_narrates_austin_butlers_battle/">[comments]</a></span> </td></tr></table>
+
+## Mizushiri’s ‘Ordinary Life’ wins prize at Berlin film fest
+ - [https://www.reddit.com/r/movies/comments/1iw6bq7/mizushiris_ordinary_life_wins_prize_at_berlin](https://www.reddit.com/r/movies/comments/1iw6bq7/mizushiris_ordinary_life_wins_prize_at_berlin)
+ - RSS feed: $source
+ - date published: 2025-02-23T09:22:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iw6bq7/mizushiris_ordinary_life_wins_prize_at_berlin/"> <img src="https://external-preview.redd.it/Y5b4O62ZLPk92axD8Q9AXqto6AK0F59zjpI7E5jNMwM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a7f922ef27e77191be5a03d8f061adbe8e9c0de" alt="Mizushiri’s ‘Ordinary Life’ wins prize at Berlin film fest" title="Mizushiri’s ‘Ordinary Life’ wins prize at Berlin film fest" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Saltedline"> /u/Saltedline </a> <br/> <span><a href="https://www.asahi.com/sp/ajw/articles/15639348">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iw6bq7/mizushiris_ordinary_life_wins_prize_at_berlin/">[comments]</a></span> </td></tr></table>
+
+## I was thinking, what is the oldest movie featuring with an actor who is still alive?
+ - [https://www.reddit.com/r/movies/comments/1iw5152/i_was_thinking_what_is_the_oldest_movie_featuring](https://www.reddit.com/r/movies/comments/1iw5152/i_was_thinking_what_is_the_oldest_movie_featuring)
+ - RSS feed: $source
+ - date published: 2025-02-23T07:50:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>I did some research and came across an actress named Maria Riva, who appeared in a 1934 film—The Scarlet Empress. It’s fascinating to think that someone from a movie that old is still with us.</p> <p>Am I correct, or do you happen to know of an even older movie that features a living actor? I’d love to learn more about this topic if there are other cases like this.</p> <p>PS: The actor doesn’t necessarily need to be active in the industry anymore.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BathroomOld2737"> /u/BathroomOld2737 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iw5152/i_was_thinking_what_is_the_oldest_movie_featuring/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iw5152/i_was_thinking_what_is_the_oldest_movie_featuring/">[comments]</a></span>
+
+## Great movies where supporting actor arc is your favorite part with rewatches
+ - [https://www.reddit.com/r/movies/comments/1iw3trn/great_movies_where_supporting_actor_arc_is_your](https://www.reddit.com/r/movies/comments/1iw3trn/great_movies_where_supporting_actor_arc_is_your)
+ - RSS feed: $source
+ - date published: 2025-02-23T06:26:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>Sometimes when you first watch a movie, the protagonist(s) are so front and center that while you realize the supporting characters are good, you don&#39;t realize how important they are to the quality of the film. This can be because they have less screen time or they play a villain. But after watching it several times, you start to realize that you prefer the supporting character&#39;s part even more than the protagonist, at least in terms of several watches, because the characters are more rich and meaningful than first realized.</p> <p>It just dawned on me recently rewatching Forrest Gump that as much as I love Gump&#39;s journey, I now find Lieutenant Dan&#39;s to be my favorite character arc.</p> <p>What are some movies where the supporting actor(s) with less screen time have wound up being perhaps your favorite chacracter arc of a great movie. Here are some examples so far imo:</p> <p>The Dark Knight: Harvey Dent/Aaron Eckhart</p> <p>Forrest G
+
+## Movie title-help!
+ - [https://www.reddit.com/r/movies/comments/1iw2u22/movie_titlehelp](https://www.reddit.com/r/movies/comments/1iw2u22/movie_titlehelp)
+ - RSS feed: $source
+ - date published: 2025-02-23T05:23:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>There was a movie that my kids and I watched when they were younger between 2015-2018. It was on Netflix— I highly believe it was an international animated film— the plot is: a group of children from other countries visit the United States to warn about the dangers of technology and how it’s harming the world. One of the kids has a special connection with nature and animals, able to communicate with them. They try to convey a message about how the world is being hurt by technology, with a key focus on a tree that symbolizes nature’s power and connection to the world. The kids had Southeast Asian traditional golden necklaces that stacks up to make their neck look longer—They also met this boy from America who had father in the government and they were trying to warn him about technology. Eventually the technology was taking over the planet and the special kid was able to communicate with this tree to tell others to unplug everything to help earth heal
+
+## In defense of The Watchers (2024)
+ - [https://www.reddit.com/r/movies/comments/1iw2s83/in_defense_of_the_watchers_2024](https://www.reddit.com/r/movies/comments/1iw2s83/in_defense_of_the_watchers_2024)
+ - RSS feed: $source
+ - date published: 2025-02-23T05:20:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m going to put a spoiler tag just in case. </p> <p>The Watchers is far from a perfect movie. It’s flawed and has some serious issues. I just see so many people hating on it when I feel like it wasn’t that bad and doesn’t warrant so much hate so I’m going to attempt to defend the watchers. </p> <p>Honestly, I’d probably watch it again if it came to streaming. But I’d just stop at when they get rescued. For me, it’s a perfect movie up until that point. This may be my personal preference but I’m able to just disconnect and suspense disbelief if I like the movie enough. I’m sure there’s lots of errors or details that I was able to ignore. </p> <p>I was on the edge of my seat for the first half, the coop part. It was full of suspense. I liked the setting too. The isolation of the woods and the small square of the coop, added to the suspense and the dread. It all felt very atmospheric. The monsters were unique too. I forgot what I read but accidentally r
+
+## A film that made you feel bad about liking the original.
+ - [https://www.reddit.com/r/movies/comments/1iw1uzl/a_film_that_made_you_feel_bad_about_liking_the](https://www.reddit.com/r/movies/comments/1iw1uzl/a_film_that_made_you_feel_bad_about_liking_the)
+ - RSS feed: $source
+ - date published: 2025-02-23T04:25:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>Sequels are often a death-punch to the possibility of further films or a franchise. There are red-flags for money grabs…changing Directors, only one or more oft none of the original actors in the 2nd film, etc.</p> <p>I’m glad not a lot of people have heard of S. Darko and such, but that’s the inspiration film.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rageminusenthusiasm"> /u/Rageminusenthusiasm </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iw1uzl/a_film_that_made_you_feel_bad_about_liking_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iw1uzl/a_film_that_made_you_feel_bad_about_liking_the/">[comments]</a></span>
+
+## Indie movies that wreck you emotionally
+ - [https://www.reddit.com/r/movies/comments/1iw1q8g/indie_movies_that_wreck_you_emotionally](https://www.reddit.com/r/movies/comments/1iw1q8g/indie_movies_that_wreck_you_emotionally)
+ - RSS feed: $source
+ - date published: 2025-02-23T04:17:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am always coming to Reddit to find obscure indie films so I thought I would start a list of my own and looking for other films that are like these. </p> <p>500 days of summer Almost famous Princess bride Rent Across the universe Garden state Labyrinth Eternal sunshine of the spotless mind Elizabethtown Big fish What dreams may come I’m thinking of ending things Lovely bones Lady in the water Patch adams Be cool Moulin rouge Royal tenenbaums Grand Budapest hotel American beauty Lars and the real girl Little miss sunshine Punch drunk love Everything must go Safety not guaranteed Barb and star go to vista del mar Fundamentals of caring Me and earl and the dying girl The map of tiny pretty things Palm Springs </p> <p>Some of these are slightly mainstream but you get the vibe! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Dentist2422"> /u/Ok-Dentist2422 </a> <br/> <span><a href="https://www.reddit.com/r/movie
+
+## What are some WW2 movies that are the most historically accurate that one can learn from?
+ - [https://www.reddit.com/r/movies/comments/1iw1lzx/what_are_some_ww2_movies_that_are_the_most](https://www.reddit.com/r/movies/comments/1iw1lzx/what_are_some_ww2_movies_that_are_the_most)
+ - RSS feed: $source
+ - date published: 2025-02-23T04:10:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>My son is in 7th grade and he just got finished with WW2 in history class and they spent only 2 weeks on WW2 which is mind boggling. I get that time is limited and WW2 is complex and it’s my job as a parent to teach him even more. So what are some movies that are for the most part historically accurate about the war? I’m open to movies from all different countries as well, thanks! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nobodygrotesque"> /u/Nobodygrotesque </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iw1lzx/what_are_some_ww2_movies_that_are_the_most/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iw1lzx/what_are_some_ww2_movies_that_are_the_most/">[comments]</a></span>
+
+## I think Glass (2019) might actually be better as a standalone movie
+ - [https://www.reddit.com/r/movies/comments/1iw1jqv/i_think_glass_2019_might_actually_be_better_as_a](https://www.reddit.com/r/movies/comments/1iw1jqv/i_think_glass_2019_might_actually_be_better_as_a)
+ - RSS feed: $source
+ - date published: 2025-02-23T04:07:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Following a Netflix mishap, i ended up watching Glass (2019) without knowing it was part of a trilogy (they really should tell you that when you click on it).I enjoyed the mystery surrounding the existence of superpowers. I also liked the end and how subversive it was. So I was pretty surprised to see that the entire Internet seems to agree it&#39;s the worst thing since unsliced bread. I&#39;ve read the complaints and I must agree, people who have seen the first two movies don&#39;t wonder if it&#39;s all real because they know they really have powers, and fans of the trilogy just find the end underwhelming. So, in a way, the best way to enjoy this movie is to either watch it before the other two, or to not watch them. Does anyone else feel this way?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nuclear_eggo_waffle"> /u/Nuclear_eggo_waffle </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iw
+
+## My Dinner with Andre
+ - [https://www.reddit.com/r/movies/comments/1iw1id2/my_dinner_with_andre](https://www.reddit.com/r/movies/comments/1iw1id2/my_dinner_with_andre)
+ - RSS feed: $source
+ - date published: 2025-02-23T04:05:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>I liked this movie. I just wanted to say that, regardless of who you side with in the movie (I found myself either agreeing with both in different situations, or at least empathizing with each character in instances where I disagreed), what hit me the most was the CIVIL discourse that occurred. The both LISTENED to each other. Neither was interrupting the other. No personal attacks. No talking over each other. Nothing like &quot;I&#39;m right and you&#39;re wrong&quot;.</p> <p>When I think of discussions that I&#39;ve had in real life, it usually ends up the opposite. Friends constantly interrupting each other and being dismissive of each others&#39; opinions. And personal attacks galore!</p> <p>Now I know this is just a movie, and it&#39;s possible that situations like this movie possibly occur in real life, but I just don&#39;t think it&#39;s common.</p> <p>I will add that I was very much surprised that Troma Inc was involved in the production of t
+
+## Any recommendations for tonight?
+ - [https://www.reddit.com/r/movies/comments/1iw0tfl/any_recommendations_for_tonight](https://www.reddit.com/r/movies/comments/1iw0tfl/any_recommendations_for_tonight)
+ - RSS feed: $source
+ - date published: 2025-02-23T03:26:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Sorry if there’s a better sub for this but saw some posts similar to this</p> <p>I have these services </p> <p>Hulu Netflix Disney+ Peacock Paramount+ Amazon Prime Apple TV</p> <p>I’m 19 and rn high trying to have a good movie to watch this Saturday night. My face burns from allergies rn and just want a good night lol. Anything helps. Was gonna watch everything everywhere all at once but idk. Also not sure if it’s on these. Anyway thanks for any help.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wurtlee"> /u/wurtlee </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iw0tfl/any_recommendations_for_tonight/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iw0tfl/any_recommendations_for_tonight/">[comments]</a></span>
+
+## Strawberry Mansion Fans?
+ - [https://www.reddit.com/r/movies/comments/1ivzu83/strawberry_mansion_fans](https://www.reddit.com/r/movies/comments/1ivzu83/strawberry_mansion_fans)
+ - RSS feed: $source
+ - date published: 2025-02-23T02:33:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Does anyone like this movie as much as I do? This has got to be my favorite movie and I see no hype for it. Like yeah it&#39;s definitely not a movie for everyone but it&#39;s so good and I&#39;d expect somewhat of a fanbase. I just can&#39;t understand how this movie doesn&#39;t just feel like home to someone else at all. Do most people just think it&#39;s bad? Because if that&#39;s the case I feel like they just don&#39;t understand it. Not only is the story is an amazing critique of capitalism and monopolies controlling and destroying your life, but also it just has this nostalgic feel to it that makes you feel like you understand it all.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PooperScooper1124"> /u/PooperScooper1124 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1ivzu83/strawberry_mansion_fans/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ivzu
+
+## ‘Judge’ - John Astin - THE FRIGHTENERS
+ - [https://www.reddit.com/r/movies/comments/1ivzjsh/judge_john_astin_the_frighteners](https://www.reddit.com/r/movies/comments/1ivzjsh/judge_john_astin_the_frighteners)
+ - RSS feed: $source
+ - date published: 2025-02-23T02:18:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1ivzjsh/judge_john_astin_the_frighteners/"> <img src="https://external-preview.redd.it/njh6OPBCt_LZs6OYCiZ8YikYhVYz3HW2m5jeh87ZLdA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bb24240301e61aac2bf7f765e9670b569cccc0cb" alt="‘Judge’ - John Astin - THE FRIGHTENERS" title="‘Judge’ - John Astin - THE FRIGHTENERS" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/stillcore"> /u/stillcore </a> <br/> <span><a href="https://youtu.be/EU4IxD51Gfc?si=Mg8PtYu6TbDID5hs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ivzjsh/judge_john_astin_the_frighteners/">[comments]</a></span> </td></tr></table>
+
+## The Girl With The Needle
+ - [https://www.reddit.com/r/movies/comments/1ivxc5d/the_girl_with_the_needle](https://www.reddit.com/r/movies/comments/1ivxc5d/the_girl_with_the_needle)
+ - RSS feed: $source
+ - date published: 2025-02-23T00:25:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>This is not important to the plot really but it&#39;s bothering me. Is the little blonde girl the same little blonde girl that took over Karolines apartment with her mom? I think it is. Why else would they cast two little girls with such memorable white blonde hair? I think the mother from the apartment gave her up (she did smack her across the face) because she didn&#39;t want her. Then Dagmar kept her because she wasn&#39;t an infant and could help her/keep her company. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Difficult_Regular779"> /u/Difficult_Regular779 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1ivxc5d/the_girl_with_the_needle/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ivxc5d/the_girl_with_the_needle/">[comments]</a></span>
+
+## ‘Anora’ Wins the Spirit Award for Best Feature — See the Full Winners List
+ - [https://www.reddit.com/r/movies/comments/1ivx2ta/anora_wins_the_spirit_award_for_best_feature_see](https://www.reddit.com/r/movies/comments/1ivx2ta/anora_wins_the_spirit_award_for_best_feature_see)
+ - RSS feed: $source
+ - date published: 2025-02-23T00:12:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1ivx2ta/anora_wins_the_spirit_award_for_best_feature_see/"> <img src="https://external-preview.redd.it/0sK71oeXQieE7GlO2tXfKL8UYf2nDP_yOd-g3mVsppA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2edcf7714ae4d5ff8ee50faeb71b351bcea32829" alt="‘Anora’ Wins the Spirit Award for Best Feature — See the Full Winners List" title="‘Anora’ Wins the Spirit Award for Best Feature — See the Full Winners List" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/indiewire"> /u/indiewire </a> <br/> <span><a href="https://www.indiewire.com/awards/results/2025-film-independent-spirit-awards-winners-full-list-1235097649/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ivx2ta/anora_wins_the_spirit_award_for_best_feature_see/">[comments]</a></span> </td></tr></table>
+

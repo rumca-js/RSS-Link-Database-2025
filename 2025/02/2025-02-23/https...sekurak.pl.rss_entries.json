@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-23T23:24:28+00:00",
+        "description": "<p>Ostatnio g\u0142o\u015bno by\u0142o o atakach na Departament Skarbu, kt\u00f3re zosta\u0142y przypisane chi\u0144skim grupom APT. Atakuj\u0105cy wykorzystywali podatno\u015bci w produktach BeyondTrust Privileged Remote Access oraz Remote Support, kt\u00f3re pozwala\u0142y na zdalne wykonanie polece\u0144. Podatno\u015bci zosta\u0142y sklasyfikowane jako CVE-2024-12356. TLDR: W czasie poszukiwa\u0144 RCE, badacze z Rapid7 natkn\u0119li si\u0119 na podatno\u015b\u0107 SQL...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/czy-mozliwy-jest-atak-sql-injection-w-2025-roku-tak-poprzez-parsowanie-znakow-w-psql/\">Czy mo\u017cliwy jest atak SQL Injection w 2025 roku? Tak, poprzez parsowanie znak\u00f3w w psql</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2180686,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/czy-mozliwy-jest-atak-sql-injection-w-2025-roku-tak-poprzez-parsowanie-znakow-w-psql",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Czy mo\u017cliwy jest atak SQL Injection w 2025 roku? Tak, poprzez parsowanie znak\u00f3w w psql",
+        "vote": 0
+    }
+]

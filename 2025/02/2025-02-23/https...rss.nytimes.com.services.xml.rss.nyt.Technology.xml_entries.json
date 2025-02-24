@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-23T10:00:35+00:00",
+        "description": "The dream of mining metals in deep space crashed and burned in the 2010s. AstroForge\u2019s Odin mission to survey a potentially metallic asteroid is packed and ready to lift off.",
+        "id": 2177117,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/02/23/science/astroforge-launch-asteroid-mining.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Earth\u2019s 1st Asteroid Mining Prospector Heads to the Launchpad",
+        "vote": 0
+    }
+]

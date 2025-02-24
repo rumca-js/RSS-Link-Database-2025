@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-23T19:41:18+00:00",
+        "description": "Graperain&#8217;s RK3568 single board computer is a compact platform for embedded applications, powered by a quad-core Cortex-A55 CPU at 2.0GHz. It supports Android 11, Linux, Ubuntu, and Debian, features an ARM G52 2EE GPU for 4K video decoding, and offers versatile connectivity for industrial, consumer, and commercial use. &#160; The Rockchip RK3568 processor is built [&#8230;]",
+        "id": 2179843,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/raspberry-pi-like-board-incorporates-rk3568-cpu-gbe-port-and-m-2-2242-slot",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Raspberry Pi-Like Board Incorporates RK3568 CPU, GbE Port, and M.2 2242 Slot",
+        "vote": 0
+    }
+]

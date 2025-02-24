@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-23T13:35:10+00:00",
+        "description": "As almost 75% of US adults are overweight or obese, the US Food and Drug Administration has announced a simple, mandatory label to highlight quantities of saturated fats, sodium and added sugars. It remains to be seen if the regulation will be upheld in the Trump era.",
+        "id": 2177716,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2025/02/23/in-the-land-of-junk-food-the-fda-proposes-a-front-of-pack-nutrition-label_6738467_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/02/13/112/0/2550/1275/644/322/60/0/3c0ab20_sirius-fs-upload-1-6v1ufpraejaf-1739465763270-54252056752-e3151b775c-o.jpg",
+        "title": "In the land of junk food, the FDA proposes a front-of-pack nutrition label",
+        "vote": 0
+    }
+]
