@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-24T16:01:08+00:00",
+        "description": "NUT, or Network UPS Tools, is an essential bit of software for disaster prep in your homelab or datacenter.\n\nResources mentioned in this video:\n\n  - Network UPS Tools: https://networkupstools.org\n  - Full install guide: https://www.jeffgeerling.com/blog/2025/nut-on-my-pi-so-my-servers-dont-die\n  - 3D Printed SBC rack mount I used: https://www.printables.com/model/843677-raspberry-pi-5-rack-mount-right-sided/files\n  - Ansible playbook for automated NUT setup: https://github.com/geerlingguy/pi-nut\n  - My nut_client Ansible role: https://github.com/geerlingguy/ansible-role-nut_client\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - Don't rely on luck when it comes to power!\n00:37 - What's NUT?\n01:51 - NUT server setup guide\n05:37 - NUT testing and monitor",
+        "id": 2185063,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=yFnItLSRpLI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yFnItLSRpLI/hqdefault.jpg",
+        "title": "Save your servers! NUT on a Raspberry Pi!",
+        "vote": 0
+    }
+]

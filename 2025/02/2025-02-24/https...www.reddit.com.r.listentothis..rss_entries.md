@@ -1,0 +1,51 @@
+# Source:Listen To This, URL:https://www.reddit.com/r/listentothis/.rss, language:
+
+## Queen Cult -- Be Better [alt rock] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1ix58bx/queen_cult_be_better_alt_rock_2024](https://www.reddit.com/r/listentothis/comments/1ix58bx/queen_cult_be_better_alt_rock_2024)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:52:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ix58bx/queen_cult_be_better_alt_rock_2024/"> <img src="https://external-preview.redd.it/38Bxn6HgrqwmmIzNB7UIf1z4H_HVYROTFpywKOu3Rk8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=eb8eeab5b30a90e9e4fea1be77727869fc3994ab" alt="Queen Cult -- Be Better [alt rock] (2024)" title="Queen Cult -- Be Better [alt rock] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/qazz23"> /u/qazz23 </a> <br/> <span><a href="https://www.youtube.com/watch?v=o2WjkEyYuSU">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ix58bx/queen_cult_be_better_alt_rock_2024/">[comments]</a></span> </td></tr></table>
+
+## Mumble Tide -- MAWPAO [Indie Rock] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1ix4n3s/mumble_tide_mawpao_indie_rock_2025](https://www.reddit.com/r/listentothis/comments/1ix4n3s/mumble_tide_mawpao_indie_rock_2025)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:27:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ix4n3s/mumble_tide_mawpao_indie_rock_2025/"> <img src="https://external-preview.redd.it/b3zt-G8Qy2n0zJWVazfaQWWNZvUlkGQxrFvg2pwSnjM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0313a9d42790d5e20a7d81cb1acdf1aede60b5cd" alt="Mumble Tide -- MAWPAO [Indie Rock] (2025)" title="Mumble Tide -- MAWPAO [Indie Rock] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DBRecs"> /u/DBRecs </a> <br/> <span><a href="https://www.youtube.com/watch?v=St3if3F4puI">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ix4n3s/mumble_tide_mawpao_indie_rock_2025/">[comments]</a></span> </td></tr></table>
+
+## The Cardinal Effect - My Tommygun [Alt Metal] (2005)
+ - [https://www.reddit.com/r/listentothis/comments/1ix4iwb/the_cardinal_effect_my_tommygun_alt_metal_2005](https://www.reddit.com/r/listentothis/comments/1ix4iwb/the_cardinal_effect_my_tommygun_alt_metal_2005)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:22:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ix4iwb/the_cardinal_effect_my_tommygun_alt_metal_2005/"> <img src="https://external-preview.redd.it/-Iw7OSVTg4osv7P_hh9azuSKz8hqoO0G_dkSZ4uzfzc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=021ce831e4d8062f8e93a3c6a6e9a51488cbcd04" alt="The Cardinal Effect - My Tommygun [Alt Metal] (2005)" title="The Cardinal Effect - My Tommygun [Alt Metal] (2005)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Safe_Caterpillar8339"> /u/Safe_Caterpillar8339 </a> <br/> <span><a href="https://youtu.be/k79NvWuwgIE?si=pamT_kBtBKqpciae">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ix4iwb/the_cardinal_effect_my_tommygun_alt_metal_2005/">[comments]</a></span> </td></tr></table>
+
+## Brian Hodgson -- Birth of Cybermats [Ambient/Electronic] (1968)
+ - [https://www.reddit.com/r/listentothis/comments/1ix2f6m/brian_hodgson_birth_of_cybermats](https://www.reddit.com/r/listentothis/comments/1ix2f6m/brian_hodgson_birth_of_cybermats)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:48:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1ix2f6m/brian_hodgson_birth_of_cybermats/"> <img src="https://external-preview.redd.it/N0gwmCRR49gbWiQ0aL4QjCcq0BJVsaoy0Rxf4NsUMfU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ee290bbc6c7f7abf347e66fa4e1691c64f0d919b" alt="Brian Hodgson -- Birth of Cybermats [Ambient/Electronic] (1968)" title="Brian Hodgson -- Birth of Cybermats [Ambient/Electronic] (1968)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OrdinaryBritishGuy"> /u/OrdinaryBritishGuy </a> <br/> <span><a href="https://youtu.be/C4qmGxJKimk?si=9UNNrdQ5cM4IC_NT">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1ix2f6m/brian_hodgson_birth_of_cybermats/">[comments]</a></span> </td></tr></table>
+
+## DJ Cam Quartet ft. inLove -- Little Sunflower (A Tribute To Freddie) [Jazz / Hiphop] (2013)
+ - [https://www.reddit.com/r/listentothis/comments/1iwturj/dj_cam_quartet_ft_inlove_little_sunflower_a](https://www.reddit.com/r/listentothis/comments/1iwturj/dj_cam_quartet_ft_inlove_little_sunflower_a)
+ - RSS feed: $source
+ - date published: 2025-02-24T04:39:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iwturj/dj_cam_quartet_ft_inlove_little_sunflower_a/"> <img src="https://external-preview.redd.it/QwiQWKRfg8v7UY3Uai4d6T0745qOlJfId3V7w_nK1zc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8f2b9a43d60e468b89320481eceb4a776942d5af" alt="DJ Cam Quartet ft. inLove -- Little Sunflower (A Tribute To Freddie) [Jazz / Hiphop] (2013)" title="DJ Cam Quartet ft. inLove -- Little Sunflower (A Tribute To Freddie) [Jazz / Hiphop] (2013)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheProcrastafarian"> /u/TheProcrastafarian </a> <br/> <span><a href="https://youtu.be/twc1cPhXqNI?si=pyZKaWxxcdWTYU9d">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iwturj/dj_cam_quartet_ft_inlove_little_sunflower_a/">[comments]</a></span> </td></tr></table>
+
+## Advantage Lucy - June Replay [Japanese Indie Pop, Jangle] (2000)
+ - [https://www.reddit.com/r/listentothis/comments/1iwr9zx/advantage_lucy_june_replay_japanese_indie_pop](https://www.reddit.com/r/listentothis/comments/1iwr9zx/advantage_lucy_june_replay_japanese_indie_pop)
+ - RSS feed: $source
+ - date published: 2025-02-24T02:20:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1iwr9zx/advantage_lucy_june_replay_japanese_indie_pop/"> <img src="https://external-preview.redd.it/ggYGySZ341Sq-MPtG4SylKHJwxUiWXw2uo1cbHyNV20.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bfe091e882df3d0196f642e47f3343a62d6cbe63" alt="Advantage Lucy - June Replay [Japanese Indie Pop, Jangle] (2000)" title="Advantage Lucy - June Replay [Japanese Indie Pop, Jangle] (2000)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WalaAkongPaa"> /u/WalaAkongPaa </a> <br/> <span><a href="https://www.youtube.com/watch?v=FM2R4LlNQN8">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1iwr9zx/advantage_lucy_june_replay_japanese_indie_pop/">[comments]</a></span> </td></tr></table>
+
+## Music Melting Pot [Week of February 24, 2025]
+ - [https://www.reddit.com/r/listentothis/comments/1iwpoqf/music_melting_pot_week_of_february_24_2025](https://www.reddit.com/r/listentothis/comments/1iwpoqf/music_melting_pot_week_of_february_24_2025)
+ - RSS feed: $source
+ - date published: 2025-02-24T01:00:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>The melting pot is a free-for-all music sharing thread posted weekly.</p> <p>We&#39;d like to invite everyone to reply with...</p> <ul> <li>Anything you&#39;ve been listening to recently and enjoying.</li> <li>Great obscure music that doesn&#39;t get the upvotes you think it deserves.</li> <li>Your own playlists, mixtapes, or other good compilations you&#39;ve found.</li> <li>New releases this week and your opinions on those albums.</li> <li>If you&#39;re an artist, share your music with us and tell us about it.</li> </ul> <p>Guidelines to get the most out of these threads...</p> <ul> <li>Always provide listening links for anything you share here.</li> <li>Tell us a little bit about what you&#39;re sharing and why you like it.</li> <li>No top40/hall of fame artists, no &#39;corporate bullshit&#39; music please!</li> <li>For top-level comments, downvote if there is no listening link.</li> <li>Format any posted links as follows: [Artist - &quot;Song Ti
+

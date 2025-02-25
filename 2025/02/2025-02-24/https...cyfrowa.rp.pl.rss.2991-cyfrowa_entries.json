@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-24T23:54:18+00:00",
+        "description": "On-premise daje pe\u0142n\u0105 kontrol\u0119 nad serwerami, PaaS oferuje narz\u0119dzia dla deweloper\u00f3w, SaaS zach\u0119ca szybkim startem i\u00a0niskimi nak\u0142adami wst\u0119pnymi, a\u00a0IaaS kusi skalowalno\u015bci\u0105. Wszystkie ukazuj\u0105 jednak swoje prawdziwe oblicze, gdy firma zaczyna dzia\u0142a\u0107 na wi\u0119ksz\u0105 skal\u0119, a\u00a0oczekiwania klient\u00f3w rosn\u0105.",
+        "id": 2188439,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/cyfrowa/art41845771-on-premise-iaas-paas-czy-saas-wybor-ktory-definiuje-infrastrukture-it",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "On-premise, IaaS, PaaS czy SaaS? Wyb\u00f3r, kt\u00f3ry definiuje infrastruktur\u0119 IT",
+        "vote": 0
+    }
+]

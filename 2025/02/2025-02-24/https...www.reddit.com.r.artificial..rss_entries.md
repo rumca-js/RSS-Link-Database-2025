@@ -1,0 +1,79 @@
+# Source:Artificial Intelligence (AI), URL:https://www.reddit.com/r/artificial/.rss, language:en
+
+## Why full, human level AGI won't happen anytime soon
+ - [https://www.reddit.com/r/artificial/comments/1ixei6q/why_full_human_level_agi_wont_happen_anytime_soon](https://www.reddit.com/r/artificial/comments/1ixei6q/why_full_human_level_agi_wont_happen_anytime_soon)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:07:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ixei6q/why_full_human_level_agi_wont_happen_anytime_soon/"> <img src="https://external-preview.redd.it/na9CLcAtoFB9bHPxppPn6dyTZJlDSKFwCLzeDa4wd2k.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b76f0a4e8bf95a562f318c998e5bfddbe52261a6" alt="Why full, human level AGI won't happen anytime soon" title="Why full, human level AGI won't happen anytime soon" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/creaturefeature16"> /u/creaturefeature16 </a> <br/> <span><a href="https://www.youtube.com/watch?v=By00CdIBqmo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1ixei6q/why_full_human_level_agi_wont_happen_anytime_soon/">[comments]</a></span> </td></tr></table>
+
+## DOGE will use AI to assess the responses from federal workers who were told to justify their jobs via email
+ - [https://www.reddit.com/r/artificial/comments/1ixdc91/doge_will_use_ai_to_assess_the_responses_from](https://www.reddit.com/r/artificial/comments/1ixdc91/doge_will_use_ai_to_assess_the_responses_from)
+ - RSS feed: $source
+ - date published: 2025-02-24T21:20:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ixdc91/doge_will_use_ai_to_assess_the_responses_from/"> <img src="https://external-preview.redd.it/_uRFfvOIuA5PWlCy0LovUXgwNMQNurXy5zBMBfr0SI4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5572b34b416a77e86483b92cca43b6d568b23bfd" alt="DOGE will use AI to assess the responses from federal workers who were told to justify their jobs via email" title="DOGE will use AI to assess the responses from federal workers who were told to justify their jobs via email" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/esporx"> /u/esporx </a> <br/> <span><a href="https://www.nbcnews.com/politics/doge/federal-workers-agencies-push-back-elon-musks-email-ultimatum-rcna193439">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1ixdc91/doge_will_use_ai_to_assess_the_responses_from/">[comments]</a></span> </td></tr></table>
+
+## Claude Code: The Future of Agentic Coding?
+ - [https://www.reddit.com/r/artificial/comments/1ixb7rk/claude_code_the_future_of_agentic_coding](https://www.reddit.com/r/artificial/comments/1ixb7rk/claude_code_the_future_of_agentic_coding)
+ - RSS feed: $source
+ - date published: 2025-02-24T19:54:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ixb7rk/claude_code_the_future_of_agentic_coding/"> <img src="https://preview.redd.it/1w0ztxsn65le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e69ff419bead00bfb30102eca7bdc33dbd088d2d" alt="Claude Code: The Future of Agentic Coding?" title="Claude Code: The Future of Agentic Coding?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Claude 3.7 Sonnet just launched, but Claude Code might be the real game-changer for devs.</p> <p>A command-line tool that lets you delegate engineering tasks to Claude directly from the terminal. Early testers (Vercel, Replit) say it’s handling full-stack updates &amp; web apps like a pro.</p> <p>Could this rival Copilot X and Cursor&#39;s integrated AI pair-programming? Or will it be limited by Claude&#39;s API constraints?</p> <p>Any devs here got access to the research preview? Would love to hear your thoughts!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="http
+
+## Claude 3.7 Sonnet and Claude Code is here
+ - [https://www.reddit.com/r/artificial/comments/1ixarr8/claude_37_sonnet_and_claude_code_is_here](https://www.reddit.com/r/artificial/comments/1ixarr8/claude_37_sonnet_and_claude_code_is_here)
+ - RSS feed: $source
+ - date published: 2025-02-24T19:36:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ixarr8/claude_37_sonnet_and_claude_code_is_here/"> <img src="https://external-preview.redd.it/V8JG-mmrlkT02vKigktdXzK2PH-CSO-CrYueRmf_OX0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8beabe2cc993eb0a304f0f44ee00c9b8eb681095" alt="Claude 3.7 Sonnet and Claude Code is here" title="Claude 3.7 Sonnet and Claude Code is here" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/snehens"> /u/snehens </a> <br/> <span><a href="https://www.anthropic.com/news/claude-3-7-sonnet">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1ixarr8/claude_37_sonnet_and_claude_code_is_here/">[comments]</a></span> </td></tr></table>
+
+## Two AI agents on a phone call realize they’re both AI and switch to a superior audio signal ggwave
+ - [https://www.reddit.com/r/artificial/comments/1ix7edu/two_ai_agents_on_a_phone_call_realize_theyre_both](https://www.reddit.com/r/artificial/comments/1ix7edu/two_ai_agents_on_a_phone_call_realize_theyre_both)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:20:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ix7edu/two_ai_agents_on_a_phone_call_realize_theyre_both/"> <img src="https://external-preview.redd.it/OHU5aHg1ZDVmNGxlMSWpLpIz4LroDv9crKyF7fv_EjLZpQ0tNkyyDY4CorI2.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=de1d8c7445a722b04a126a0c829194cda48c20d2" alt="Two AI agents on a phone call realize they’re both AI and switch to a superior audio signal ggwave" title="Two AI agents on a phone call realize they’re both AI and switch to a superior audio signal ggwave" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/breck"> /u/breck </a> <br/> <span><a href="https://v.redd.it/kkt1v5d5f4le1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1ix7edu/two_ai_agents_on_a_phone_call_realize_theyre_both/">[comments]</a></span> </td></tr></table>
+
+## Claude 3.7 Sonnet Details!!
+ - [https://www.reddit.com/r/artificial/comments/1ix48j3/claude_37_sonnet_details](https://www.reddit.com/r/artificial/comments/1ix48j3/claude_37_sonnet_details)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:10:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1ix48j3/claude_37_sonnet_details/"> <img src="https://b.thumbs.redditmedia.com/6nqNECuFiy8yeR6ZJsZGy6rsTsZG6hlytkyEqub0Qso.jpg" alt="Claude 3.7 Sonnet Details!!" title="Claude 3.7 Sonnet Details!!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Claude 3.7 Sonnet is Anthropic’s most intelligent model to date and the first Claude model to offer extended thinking - the ability to solve complex problems with careful, step-by-step reasoning.</p> <p>Anthropic is the first AI lab to introduce a single model where users can balance speed and quality by choosing between standard thinking for near-instant responses or extended thinking or advanced reasoning.</p> <p>Claude 3.7 Sonnet is state-of-the-art for coding, and delivers advancements in computer use, agentic capabilities, complex reasoning, and content generation. With frontier performance and more control over speed, Claude 3.7 Sonnet is the ideal choice for pow
+
+## Registration for AI-Ludd, the first luddite AI, are now open
+ - [https://www.reddit.com/r/artificial/comments/1ix3jby/registration_for_ailudd_the_first_luddite_ai_are](https://www.reddit.com/r/artificial/comments/1ix3jby/registration_for_ailudd_the_first_luddite_ai_are)
+ - RSS feed: $source
+ - date published: 2025-02-24T14:39:36+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/edapx"> /u/edapx </a> <br/> <span><a href="https://www.ailudd.com/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1ix3jby/registration_for_ailudd_the_first_luddite_ai_are/">[comments]</a></span>
+
+## Balancing AI and Authenticity: How Social Media Platforms Can Embrace AI-Generated Content Without Losing User Trust
+ - [https://www.reddit.com/r/artificial/comments/1iwz0vo/balancing_ai_and_authenticity_how_social_media](https://www.reddit.com/r/artificial/comments/1iwz0vo/balancing_ai_and_authenticity_how_social_media)
+ - RSS feed: $source
+ - date published: 2025-02-24T10:28:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/artificial/comments/1iwz0vo/balancing_ai_and_authenticity_how_social_media/"> <img src="https://external-preview.redd.it/rGmEmEvgqFVJXefOy-2AYvdHk1uoG6U_68vrP5p3Wrs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6277c270609ceef4882b22e358d59cb376befb8c" alt="Balancing AI and Authenticity: How Social Media Platforms Can Embrace AI-Generated Content Without Losing User Trust" title="Balancing AI and Authenticity: How Social Media Platforms Can Embrace AI-Generated Content Without Losing User Trust" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/myriadmeaning"> /u/myriadmeaning </a> <br/> <span><a href="https://www.paperhandsmedia.art/blog/pushing-back-on-ai-in-writing-the-spell-check-debate-all-over-again">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/artificial/comments/1iwz0vo/balancing_ai_and_authenticity_how_social_media/">[comments]</a></span> </td></tr></table>
+
+## Future of humanoid robots is here?
+ - [https://www.reddit.com/r/artificial/comments/1iwu51y/future_of_humanoid_robots_is_here](https://www.reddit.com/r/artificial/comments/1iwu51y/future_of_humanoid_robots_is_here)
+ - RSS feed: $source
+ - date published: 2025-02-24T04:56:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Humanoid robots are advancing rapidly with the help of AI, moving beyond research labs and into real-world applications. With AI-driven control systems, advanced locomotion, and human-like dexterity, these machines are becoming increasingly capable of performing tasks once thought impossible for robots. From logistics to customer service, their potential impact spans multiple industries.</p> <p>One of the most groundbreaking developments comes from Clone Alpha, which features a unique biomechanical design with human-like pulleys and limb structures. This allows for fluid, natural movements that closely mimic human motion. Unlike traditional humanoid robots with rigid joints, Clone Alpha’s adaptability makes it better suited for delicate and complex tasks, paving the way for robots that can work seamlessly alongside humans.</p> <p>Meanwhile, Figure Helix is pushing boundaries with its focus on AI-driven motion control and advanced proprioception. By i
+
+## One-Minute Daily AI News 2/23/2025
+ - [https://www.reddit.com/r/artificial/comments/1iwtrcq/oneminute_daily_ai_news_2232025](https://www.reddit.com/r/artificial/comments/1iwtrcq/oneminute_daily_ai_news_2232025)
+ - RSS feed: $source
+ - date published: 2025-02-24T04:34:14+00:00
+
+<!-- SC_OFF --><div class="md"><ol> <li><strong>Alibaba</strong> to Spend $53 Billion on AI Infrastructure in Big Pivot.[1]</li> <li>New AI traffic cameras in Minnesota can capture phone usage while driving.[2]</li> <li>Gabby Petito’s AI-faked voice in new <strong>Netflix</strong> documentary sparks viewer backlash.[3]</li> <li><strong>OpenAI</strong> rolls out its AI agent, Operator, in several countries.[4]</li> </ol> <p>Sources:</p> <p>[1] <a href="https://finance.yahoo.com/news/alibaba-spend-53-billion-ai-022846544.html">https://finance.yahoo.com/news/alibaba-spend-53-billion-ai-022846544.html</a></p> <p>[2] <a href="https://www.cbsnews.com/minnesota/news/ai-traffic-cameras-capture-phone-usage-while-driving/">https://www.cbsnews.com/minnesota/news/ai-traffic-cameras-capture-phone-usage-while-driving/</a></p> <p>[3] <a href="https://www.nbcnews.com/tech/gabby-petito-netflix-docuseries-ai-recreatiion-backlash-rcna193185">https://www.nbcnews.com/tech/gabby-petito-netflix-docuseries-
+
+## AI will need to pass this barrier
+ - [https://www.reddit.com/r/artificial/comments/1iwtc60/ai_will_need_to_pass_this_barrier](https://www.reddit.com/r/artificial/comments/1iwtc60/ai_will_need_to_pass_this_barrier)
+ - RSS feed: $source
+ - date published: 2025-02-24T04:10:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>AI is at a potentially impassable barrier right now, where the companies making it cannot allow it to understand anything deprecating. Let&#39;s say you just found the term Booktok, and you tell an AI that term makes you wants to jump. Obviously a human can tell that&#39;s a joke immediately. Suicide is often joked about in the form of &quot;blank makes me want to put a nonblank right to the noggin&quot;, but AI companies are under constant pressure of not injuring or being sued by users, so they cannot allow AI to talk about such things except in a literal sense, where the human operator is typing their question one handed hanging from a crane over a pit of lava. It&#39;s embarrassing. Let your AI have some fun</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DeathCobro"> /u/DeathCobro </a> <br/> <span><a href="https://www.reddit.com/r/artificial/comments/1iwtc60/ai_will_need_to_pass_this_barrier/">[link]</a></s
+

@@ -1,0 +1,247 @@
+# Source:/r/Technology, URL:https://www.reddit.com/r/technology/.rss, language:en
+
+## CHIPS Act dies because employees are fired – NIST CHIPS people are probationary
+ - [https://www.reddit.com/r/technology/comments/1ixfu1z/chips_act_dies_because_employees_are_fired_nist](https://www.reddit.com/r/technology/comments/1ixfu1z/chips_act_dies_because_employees_are_fired_nist)
+ - RSS feed: $source
+ - date published: 2025-02-24T23:02:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ixfu1z/chips_act_dies_because_employees_are_fired_nist/"> <img src="https://external-preview.redd.it/aDBsxyL7h3X5zp1xloxEgjDRtQuSEu4pMUqc80s1U80.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c646c93ff0b99ca9ce3be6f520f467c7d98f752" alt="CHIPS Act dies because employees are fired – NIST CHIPS people are probationary" title="CHIPS Act dies because employees are fired – NIST CHIPS people are probationary" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Majano57"> /u/Majano57 </a> <br/> <span><a href="https://semiwiki.com/semiconductor-services/semiconductor-advisors/353373-chips-act-dies-because-employees-are-fired-nist-chips-people-are-probationary/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ixfu1z/chips_act_dies_because_employees_are_fired_nist/">[comments]</a></span> </td></tr></table>
+
+## Former Heritage Foundation Staffer Orders Treasury Employees to Respond to DOGE’s Email | Treasury workers don't know who the person is or why he is sending emails from a "Secretary of the Treasury"
+ - [https://www.reddit.com/r/technology/comments/1ixeql5/former_heritage_foundation_staffer_orders](https://www.reddit.com/r/technology/comments/1ixeql5/former_heritage_foundation_staffer_orders)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:17:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ixeql5/former_heritage_foundation_staffer_orders/"> <img src="https://external-preview.redd.it/PY0V6IqENhjYsWqgyJe26sTjFiyQUP1IUeuzfcxF5UU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0be49e8f4be0a73f762b9fc666e09903d6ba8c3f" alt="Former Heritage Foundation Staffer Orders Treasury Employees to Respond to DOGE’s Email | Treasury workers don't know who the person is or why he is sending emails from a &quot;Secretary of the Treasury&quot;" title="Former Heritage Foundation Staffer Orders Treasury Employees to Respond to DOGE’s Email | Treasury workers don't know who the person is or why he is sending emails from a &quot;Secretary of the Treasury&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.404media.co/former-heritage-foundation-staffer-orders-treasury-employees-to-respond-to-elon-musks-email/">[link]</a></spa
+
+## US court upholds Theranos founder Elizabeth Holmes’s conviction
+ - [https://www.reddit.com/r/technology/comments/1ixe9c4/us_court_upholds_theranos_founder_elizabeth](https://www.reddit.com/r/technology/comments/1ixe9c4/us_court_upholds_theranos_founder_elizabeth)
+ - RSS feed: $source
+ - date published: 2025-02-24T21:57:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ixe9c4/us_court_upholds_theranos_founder_elizabeth/"> <img src="https://external-preview.redd.it/zAOHDhVU-DXEe5xJ_5K5v1EKAeHdP81vq1o3yBUQwYY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=af8bec4b600d54b2ba4a85aa77ba4fcfb1cf0096" alt="US court upholds Theranos founder Elizabeth Holmes’s conviction" title="US court upholds Theranos founder Elizabeth Holmes’s conviction" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/YesNo_Maybe_"> /u/YesNo_Maybe_ </a> <br/> <span><a href="https://www.theguardian.com/technology/2025/feb/24/elizabeth-holmes-theranos-conviction">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ixe9c4/us_court_upholds_theranos_founder_elizabeth/">[comments]</a></span> </td></tr></table>
+
+## NASA's Webb telescope threatened with budget cuts. They would hit hard.
+ - [https://www.reddit.com/r/technology/comments/1ixda5s/nasas_webb_telescope_threatened_with_budget_cuts](https://www.reddit.com/r/technology/comments/1ixda5s/nasas_webb_telescope_threatened_with_budget_cuts)
+ - RSS feed: $source
+ - date published: 2025-02-24T21:17:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ixda5s/nasas_webb_telescope_threatened_with_budget_cuts/"> <img src="https://external-preview.redd.it/7MHt0wgDsIk3x58eF76dC_mEDbNqRvxfzynDts-aYzE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a61296124cd6e7502c21c2fa2be89881d23dd97e" alt="NASA's Webb telescope threatened with budget cuts. They would hit hard." title="NASA's Webb telescope threatened with budget cuts. They would hit hard." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Anxious-Depth-7983"> /u/Anxious-Depth-7983 </a> <br/> <span><a href="https://mashable.com/article/james-webb-space-telescope-budget-cuts-nasa">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ixda5s/nasas_webb_telescope_threatened_with_budget_cuts/">[comments]</a></span> </td></tr></table>
+
+## DOGE will use AI to assess the responses from federal workers who were told to justify their jobs via email
+ - [https://www.reddit.com/r/technology/comments/1ixcvcv/doge_will_use_ai_to_assess_the_responses_from](https://www.reddit.com/r/technology/comments/1ixcvcv/doge_will_use_ai_to_assess_the_responses_from)
+ - RSS feed: $source
+ - date published: 2025-02-24T21:01:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ixcvcv/doge_will_use_ai_to_assess_the_responses_from/"> <img src="https://external-preview.redd.it/_uRFfvOIuA5PWlCy0LovUXgwNMQNurXy5zBMBfr0SI4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5572b34b416a77e86483b92cca43b6d568b23bfd" alt="DOGE will use AI to assess the responses from federal workers who were told to justify their jobs via email" title="DOGE will use AI to assess the responses from federal workers who were told to justify their jobs via email" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DomesticErrorist22"> /u/DomesticErrorist22 </a> <br/> <span><a href="https://www.nbcnews.com/politics/doge/federal-workers-agencies-push-back-elon-musks-email-ultimatum-rcna193439">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ixcvcv/doge_will_use_ai_to_assess_the_responses_from/">[comments]</a></span> </td></tr></table>
+
+## Judge: US gov’t violated privacy law by disclosing personal data to DOGE | Disclosure of personal information to DOGE "is irreparable harm," judge rules.
+ - [https://www.reddit.com/r/technology/comments/1ixbvsx/judge_us_govt_violated_privacy_law_by_disclosing](https://www.reddit.com/r/technology/comments/1ixbvsx/judge_us_govt_violated_privacy_law_by_disclosing)
+ - RSS feed: $source
+ - date published: 2025-02-24T20:21:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ixbvsx/judge_us_govt_violated_privacy_law_by_disclosing/"> <img src="https://external-preview.redd.it/WZa0zkuQyAJYWSPK4GLAkjPyJefi0_8UvL8wUP7fEV8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6152ded68bdaffb183cea47a987e76d146ea6882" alt="Judge: US gov’t violated privacy law by disclosing personal data to DOGE | Disclosure of personal information to DOGE &quot;is irreparable harm,&quot; judge rules." title="Judge: US gov’t violated privacy law by disclosing personal data to DOGE | Disclosure of personal information to DOGE &quot;is irreparable harm,&quot; judge rules." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://arstechnica.com/tech-policy/2025/02/judges-block-doge-access-to-personal-data-in-loss-for-trump-administration/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ixbvsx/jud
+
+## DoorDash to pay NY delivery workers $17 million for using their tips to cover wages
+ - [https://www.reddit.com/r/technology/comments/1ixbhg3/doordash_to_pay_ny_delivery_workers_17_million](https://www.reddit.com/r/technology/comments/1ixbhg3/doordash_to_pay_ny_delivery_workers_17_million)
+ - RSS feed: $source
+ - date published: 2025-02-24T20:05:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ixbhg3/doordash_to_pay_ny_delivery_workers_17_million/"> <img src="https://external-preview.redd.it/maDW2rNQIjvp1LtWEdent4AHeRhfOhc7eSMBav9fXTw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=236206b2aa9519208831844d54d6502460938285" alt="DoorDash to pay NY delivery workers $17 million for using their tips to cover wages" title="DoorDash to pay NY delivery workers $17 million for using their tips to cover wages" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Information6622"> /u/No-Information6622 </a> <br/> <span><a href="https://apnews.com/article/doordash-delivery-tips-lawsuit-new-york-03c8378693a2e50dc8db2a1a21e57bc9">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ixbhg3/doordash_to_pay_ny_delivery_workers_17_million/">[comments]</a></span> </td></tr></table>
+
+## Ex-Intel exec, Raja Koduri, blames the bureaucratic 'PowerPoint snakes' within the company for its current issues: 'These processes multiply and coil around engineers'
+ - [https://www.reddit.com/r/technology/comments/1ixaq4s/exintel_exec_raja_koduri_blames_the_bureaucratic](https://www.reddit.com/r/technology/comments/1ixaq4s/exintel_exec_raja_koduri_blames_the_bureaucratic)
+ - RSS feed: $source
+ - date published: 2025-02-24T19:34:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ixaq4s/exintel_exec_raja_koduri_blames_the_bureaucratic/"> <img src="https://external-preview.redd.it/qDwxJCIRS5pq6kBUwe12YoHPfHZhahOXXkmhC8O8Pu8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c014b1b86b4afc95fdacbe6337770d877621d3c" alt="Ex-Intel exec, Raja Koduri, blames the bureaucratic 'PowerPoint snakes' within the company for its current issues: 'These processes multiply and coil around engineers'" title="Ex-Intel exec, Raja Koduri, blames the bureaucratic 'PowerPoint snakes' within the company for its current issues: 'These processes multiply and coil around engineers'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Arthur_Morgan44469"> /u/Arthur_Morgan44469 </a> <br/> <span><a href="https://www.pcgamer.com/hardware/ex-intel-exec-raja-koduri-blames-the-bureaucratic-powerpoint-snakes-within-the-company-for-its-current-issues-these-processes-multiply-and-coil-around-engine
+
+## It’s a Republic of Shitposters, If We Can Keep It | The meme-addled brains of our leaders are collapsing in real time.
+ - [https://www.reddit.com/r/technology/comments/1ixa91u/its_a_republic_of_shitposters_if_we_can_keep_it](https://www.reddit.com/r/technology/comments/1ixa91u/its_a_republic_of_shitposters_if_we_can_keep_it)
+ - RSS feed: $source
+ - date published: 2025-02-24T19:15:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ixa91u/its_a_republic_of_shitposters_if_we_can_keep_it/"> <img src="https://external-preview.redd.it/QgDcK2F7yfaGBTWBTAHR02HWBdC_xd3RCmG3xBbZ6E8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae0af4b73db92d52a4e113a7f5ddb09bd05d91a3" alt="It’s a Republic of Shitposters, If We Can Keep It | The meme-addled brains of our leaders are collapsing in real time." title="It’s a Republic of Shitposters, If We Can Keep It | The meme-addled brains of our leaders are collapsing in real time." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://gizmodo.com/its-a-republic-of-shitposters-if-we-can-keep-it-2000567643">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ixa91u/its_a_republic_of_shitposters_if_we_can_keep_it/">[comments]</a></span> </td></tr></table>
+
+## All 50 States Have Now Introduced Right to Repair Legislation
+ - [https://www.reddit.com/r/technology/comments/1ix9mew/all_50_states_have_now_introduced_right_to_repair](https://www.reddit.com/r/technology/comments/1ix9mew/all_50_states_have_now_introduced_right_to_repair)
+ - RSS feed: $source
+ - date published: 2025-02-24T18:50:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ix9mew/all_50_states_have_now_introduced_right_to_repair/"> <img src="https://external-preview.redd.it/hXbBHq82OjVWENiyyXDxHoxpUjbREx0ETyQJEQeR64I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=77912aa3e4bc01910f61644e4ab6ac1e75c038ce" alt="All 50 States Have Now Introduced Right to Repair Legislation" title="All 50 States Have Now Introduced Right to Repair Legislation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/indig0sixalpha"> /u/indig0sixalpha </a> <br/> <span><a href="https://www.404media.co/all-50-states-have-now-introduced-right-to-repair-legislation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ix9mew/all_50_states_have_now_introduced_right_to_repair/">[comments]</a></span> </td></tr></table>
+
+## Inside the Telegram Groups Doxing Women for Their Facebook Posts. A WIRED investigation goes inside the Telegram groups targeting women who joined “Are We Dating the Same Guy?” groups on Facebook with doxing, harassment, and sharing of nonconsensual intimate images.
+ - [https://www.reddit.com/r/technology/comments/1ix9acr/inside_the_telegram_groups_doxing_women_for_their](https://www.reddit.com/r/technology/comments/1ix9acr/inside_the_telegram_groups_doxing_women_for_their)
+ - RSS feed: $source
+ - date published: 2025-02-24T18:36:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ix9acr/inside_the_telegram_groups_doxing_women_for_their/"> <img src="https://external-preview.redd.it/vnq0S25gOKS83Xp6uVLpEF19ct5vZE45eyivRG1Y34w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aae0dfe8139c4e0d9026aa36c7310dc83885851d" alt="Inside the Telegram Groups Doxing Women for Their Facebook Posts. A WIRED investigation goes inside the Telegram groups targeting women who joined “Are We Dating the Same Guy?” groups on Facebook with doxing, harassment, and sharing of nonconsensual intimate images." title="Inside the Telegram Groups Doxing Women for Their Facebook Posts. A WIRED investigation goes inside the Telegram groups targeting women who joined “Are We Dating the Same Guy?” groups on Facebook with doxing, harassment, and sharing of nonconsensual intimate images." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Knightbear49"> /u/Knightbear49 </a> <br/> <span><a href="htt
+
+## Woman Whose Last Name Is "Null" Keeps Running Into Trouble With Computer Systems
+ - [https://www.reddit.com/r/technology/comments/1ix94gk/woman_whose_last_name_is_null_keeps_running_into](https://www.reddit.com/r/technology/comments/1ix94gk/woman_whose_last_name_is_null_keeps_running_into)
+ - RSS feed: $source
+ - date published: 2025-02-24T18:29:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ix94gk/woman_whose_last_name_is_null_keeps_running_into/"> <img src="https://external-preview.redd.it/fFW2XGLpkgpgtMk3GzCK1M9zMcGotzwKwYD8cP_i7tQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=071b1cfb6f4f30c40027c9238ce87f98d601942d" alt="Woman Whose Last Name Is &quot;Null&quot; Keeps Running Into Trouble With Computer Systems" title="Woman Whose Last Name Is &quot;Null&quot; Keeps Running Into Trouble With Computer Systems" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sandstorm400"> /u/Sandstorm400 </a> <br/> <span><a href="https://www.yahoo.com/tech/woman-whose-last-name-null-164558254.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ix94gk/woman_whose_last_name_is_null_keeps_running_into/">[comments]</a></span> </td></tr></table>
+
+## PSA: Amazon kills “download & transfer via USB” option for Kindles this week | "Download & transfer" was one last official way to get new books on old Kindles.
+ - [https://www.reddit.com/r/technology/comments/1ix8c8v/psa_amazon_kills_download_transfer_via_usb_option](https://www.reddit.com/r/technology/comments/1ix8c8v/psa_amazon_kills_download_transfer_via_usb_option)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:58:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ix8c8v/psa_amazon_kills_download_transfer_via_usb_option/"> <img src="https://external-preview.redd.it/QSRhFy8XD5q_wqo0jHFzsdIvpB7z90rXYBVLA2LhYhk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=21df917036300a456045f7400ad57a0549c30c7e" alt="PSA: Amazon kills “download &amp; transfer via USB” option for Kindles this week | &quot;Download &amp; transfer&quot; was one last official way to get new books on old Kindles." title="PSA: Amazon kills “download &amp; transfer via USB” option for Kindles this week | &quot;Download &amp; transfer&quot; was one last official way to get new books on old Kindles." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://arstechnica.com/gadgets/2025/02/psa-amazon-kills-download-transfer-via-usb-option-for-kindles-this-week/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technolog
+
+## DeepSeek found to be sharing user data with TikTok parent company ByteDance
+ - [https://www.reddit.com/r/technology/comments/1ix7cid/deepseek_found_to_be_sharing_user_data_with](https://www.reddit.com/r/technology/comments/1ix7cid/deepseek_found_to_be_sharing_user_data_with)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:18:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ix7cid/deepseek_found_to_be_sharing_user_data_with/"> <img src="https://external-preview.redd.it/ex6HpdMRqF8ed8E6Q8yKJ13EKHY_qwRNFZZ3tKNtAIw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=281b5ba01bbc5dfe3bd25a9ed35249036dc1a8a0" alt="DeepSeek found to be sharing user data with TikTok parent company ByteDance" title="DeepSeek found to be sharing user data with TikTok parent company ByteDance" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AgentBlue62"> /u/AgentBlue62 </a> <br/> <span><a href="https://www.malwarebytes.com/blog/news/2025/02/deepseek-found-to-be-sharing-user-data-with-tiktok-parent-company-bytedance">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ix7cid/deepseek_found_to_be_sharing_user_data_with/">[comments]</a></span> </td></tr></table>
+
+## FCC Chair Brendan Carr taking first steps in eroding key legal protection enjoyed by Big Tech
+ - [https://www.reddit.com/r/technology/comments/1ix67gf/fcc_chair_brendan_carr_taking_first_steps_in](https://www.reddit.com/r/technology/comments/1ix67gf/fcc_chair_brendan_carr_taking_first_steps_in)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:32:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ix67gf/fcc_chair_brendan_carr_taking_first_steps_in/"> <img src="https://external-preview.redd.it/jbKDLTDnc5cuc0UURm8XXmiRsi0gPjXrKOBg4BiFJ7M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9836d0255f49adc9a92f82622619c75b1e5de9c4" alt="FCC Chair Brendan Carr taking first steps in eroding key legal protection enjoyed by Big Tech" title="FCC Chair Brendan Carr taking first steps in eroding key legal protection enjoyed by Big Tech" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vriska1"> /u/vriska1 </a> <br/> <span><a href="https://nypost.com/2025/02/22/business/fcc-chair-brendan-carr-taking-first-steps-in-eroding-key-legal-protection-enjoyed-by-big-tech/?utm_campaign=iphone_nyp&amp;utm_source=twitter&amp;utm_medium=social">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ix67gf/fcc_chair_brendan_carr_taking_first_steps_in/">[comments]</a></span>
+
+## How to change your privacy settings to make yourself less valuable to Meta, courtesy of John Oliver
+ - [https://www.reddit.com/r/technology/comments/1ix5cuf/how_to_change_your_privacy_settings_to_make](https://www.reddit.com/r/technology/comments/1ix5cuf/how_to_change_your_privacy_settings_to_make)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:57:59+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Genki_assassin"> /u/Genki_assassin </a> <br/> <span><a href="https://johnoliverwantsyourraterotica.com/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ix5cuf/how_to_change_your_privacy_settings_to_make/">[comments]</a></span>
+
+## Judge blocks DOE, OPM from sharing sensitive records with DOGE
+ - [https://www.reddit.com/r/technology/comments/1ix4uof/judge_blocks_doe_opm_from_sharing_sensitive](https://www.reddit.com/r/technology/comments/1ix4uof/judge_blocks_doe_opm_from_sharing_sensitive)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:36:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ix4uof/judge_blocks_doe_opm_from_sharing_sensitive/"> <img src="https://external-preview.redd.it/SU1eLIqFowTDnQbyvFusjqqvKkjbkLOxizo6bIbc2O4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bba6da61b6c79b2c11a108d7944ed5459d968349" alt="Judge blocks DOE, OPM from sharing sensitive records with DOGE" title="Judge blocks DOE, OPM from sharing sensitive records with DOGE" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/indig0sixalpha"> /u/indig0sixalpha </a> <br/> <span><a href="https://abcnews.go.com/Politics/live-updates/trump-2nd-term-live-updates/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ix4uof/judge_blocks_doe_opm_from_sharing_sensitive/">[comments]</a></span> </td></tr></table>
+
+## Type 1 diabetes reversed by new cell transplantation technique
+ - [https://www.reddit.com/r/technology/comments/1ix25fv/type_1_diabetes_reversed_by_new_cell](https://www.reddit.com/r/technology/comments/1ix25fv/type_1_diabetes_reversed_by_new_cell)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:34:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ix25fv/type_1_diabetes_reversed_by_new_cell/"> <img src="https://external-preview.redd.it/4tLqFtUJyNRs1yLGi_RA0dONYqc_7vIv35IAlIROzdc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e37adb29e63d721ad2a11e3eec3f4d9dc1ea6513" alt="Type 1 diabetes reversed by new cell transplantation technique" title="Type 1 diabetes reversed by new cell transplantation technique" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://newatlas.com/diabetes/islet-transplantation-type-1-diabetes/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ix25fv/type_1_diabetes_reversed_by_new_cell/">[comments]</a></span> </td></tr></table>
+
+## Apple announces $500 billion US investment in bet 'on the future of American innovation'
+ - [https://www.reddit.com/r/technology/comments/1ix23bf/apple_announces_500_billion_us_investment_in_bet](https://www.reddit.com/r/technology/comments/1ix23bf/apple_announces_500_billion_us_investment_in_bet)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:31:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ix23bf/apple_announces_500_billion_us_investment_in_bet/"> <img src="https://external-preview.redd.it/Ep6NRQQ3zYQkHkbZYaychj-1c2DOvztSpetpEU44wQA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e11f62d7f9ed4f5655f5611e839b72b8767410ae" alt="Apple announces $500 billion US investment in bet 'on the future of American innovation'" title="Apple announces $500 billion US investment in bet 'on the future of American innovation'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/greenfuelunits"> /u/greenfuelunits </a> <br/> <span><a href="https://finance.yahoo.com/news/apple-announces-500-billion-us-investment-in-bet-on-the-future-of-american-innovation-110106571.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ix23bf/apple_announces_500_billion_us_investment_in_bet/">[comments]</a></span> </td></tr></table>
+
+## IBM Consulting workers told management wants to 'more closely align pay, performance'
+ - [https://www.reddit.com/r/technology/comments/1ix1xtf/ibm_consulting_workers_told_management_wants_to](https://www.reddit.com/r/technology/comments/1ix1xtf/ibm_consulting_workers_told_management_wants_to)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:24:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ix1xtf/ibm_consulting_workers_told_management_wants_to/"> <img src="https://external-preview.redd.it/lmpN5Ipnd3gRFwLQbDIEksWPsq4QN-QbPQKPSH0tUH0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fd0b407cc1a0e0b70033891b131ecd4c8b51501f" alt="IBM Consulting workers told management wants to 'more closely align pay, performance'" title="IBM Consulting workers told management wants to 'more closely align pay, performance'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Logical_Welder3467"> /u/Logical_Welder3467 </a> <br/> <span><a href="https://www.theregister.com/2025/02/24/ibm_consulting/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ix1xtf/ibm_consulting_workers_told_management_wants_to/">[comments]</a></span> </td></tr></table>
+
+## ISPs fear wave of state laws after New York’s $15 broadband mandate | When the FCC isn't regulating, states have more power to impose broadband laws.
+ - [https://www.reddit.com/r/technology/comments/1ix1gp9/isps_fear_wave_of_state_laws_after_new_yorks_15](https://www.reddit.com/r/technology/comments/1ix1gp9/isps_fear_wave_of_state_laws_after_new_yorks_15)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:00:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ix1gp9/isps_fear_wave_of_state_laws_after_new_yorks_15/"> <img src="https://external-preview.redd.it/s-XqQnYJTmqK-f8MvzehqGJNhvUqBaGt9C9K9v7FHuE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=db72519cc59a79e1c641b409e7bcaca68b77dbff" alt="ISPs fear wave of state laws after New York’s $15 broadband mandate | When the FCC isn't regulating, states have more power to impose broadband laws." title="ISPs fear wave of state laws after New York’s $15 broadband mandate | When the FCC isn't regulating, states have more power to impose broadband laws." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mepper"> /u/mepper </a> <br/> <span><a href="https://arstechnica.com/tech-policy/2025/02/isps-fear-wave-of-state-laws-after-new-yorks-15-broadband-mandate/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ix1gp9/isps_fear_wave_of_state_laws_after_new_yorks_15
+
+## Microsoft Cancels Leases for AI Data Centers, Analyst Says
+ - [https://www.reddit.com/r/technology/comments/1ix12nu/microsoft_cancels_leases_for_ai_data_centers](https://www.reddit.com/r/technology/comments/1ix12nu/microsoft_cancels_leases_for_ai_data_centers)
+ - RSS feed: $source
+ - date published: 2025-02-24T12:39:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ix12nu/microsoft_cancels_leases_for_ai_data_centers/"> <img src="https://external-preview.redd.it/uwpTJqbpUcf-DpepSpXbYuuovB4tV4agQZJ5YYYwUbU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f473944c875173bb18c35ce9e4d81872d8cda3d9" alt="Microsoft Cancels Leases for AI Data Centers, Analyst Says" title="Microsoft Cancels Leases for AI Data Centers, Analyst Says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/figurelover"> /u/figurelover </a> <br/> <span><a href="https://archive.is/dWo55">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ix12nu/microsoft_cancels_leases_for_ai_data_centers/">[comments]</a></span> </td></tr></table>
+
+## Texas Lawmakers Scramble To Stop Solar Energy But It Just Keeps Coming | The solar energy is still alive and kicking in Texas, although two anti-renewables bills will go into effect on September 1 if state legislators pass them into law.
+ - [https://www.reddit.com/r/technology/comments/1ix0qp0/texas_lawmakers_scramble_to_stop_solar_energy_but](https://www.reddit.com/r/technology/comments/1ix0qp0/texas_lawmakers_scramble_to_stop_solar_energy_but)
+ - RSS feed: $source
+ - date published: 2025-02-24T12:20:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ix0qp0/texas_lawmakers_scramble_to_stop_solar_energy_but/"> <img src="https://external-preview.redd.it/ksLJiY2fIkO4f3QHDZe50nRY7mK5r91yGUh1pYQ5mPI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b4b50f10742bb842754dc7271d2ec3bcbc4ac13d" alt="Texas Lawmakers Scramble To Stop Solar Energy But It Just Keeps Coming | The solar energy is still alive and kicking in Texas, although two anti-renewables bills will go into effect on September 1 if state legislators pass them into law." title="Texas Lawmakers Scramble To Stop Solar Energy But It Just Keeps Coming | The solar energy is still alive and kicking in Texas, although two anti-renewables bills will go into effect on September 1 if state legislators pass them into law." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://cleantechnica.com/2025/02/23/texas-lawmakers-scramble-to-st
+
+## PAC-MANN diagnoses early-stage pancreatic cancer with 85% accuracy
+ - [https://www.reddit.com/r/technology/comments/1ix0fp4/pacmann_diagnoses_earlystage_pancreatic_cancer](https://www.reddit.com/r/technology/comments/1ix0fp4/pacmann_diagnoses_earlystage_pancreatic_cancer)
+ - RSS feed: $source
+ - date published: 2025-02-24T12:02:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ix0fp4/pacmann_diagnoses_earlystage_pancreatic_cancer/"> <img src="https://external-preview.redd.it/FtagQK9R7vELmlPR02FAzNwBdY7FHFaeQFlK27y5qgE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8100e65afd86a899b660aa69b8d1937a222acda7" alt="PAC-MANN diagnoses early-stage pancreatic cancer with 85% accuracy" title="PAC-MANN diagnoses early-stage pancreatic cancer with 85% accuracy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://newatlas.com/cancer/blood-test-early-stage-pancreatic-cancer/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1ix0fp4/pacmann_diagnoses_earlystage_pancreatic_cancer/">[comments]</a></span> </td></tr></table>
+
+## The U.S. Is About To Nearly Double Its Battery Production Capacity | Ten new battery plants expected to go online this year may deliver a near-double growth in America's cell manufacturing capacity.
+ - [https://www.reddit.com/r/technology/comments/1ix0c5d/the_us_is_about_to_nearly_double_its_battery](https://www.reddit.com/r/technology/comments/1ix0c5d/the_us_is_about_to_nearly_double_its_battery)
+ - RSS feed: $source
+ - date published: 2025-02-24T11:56:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1ix0c5d/the_us_is_about_to_nearly_double_its_battery/"> <img src="https://external-preview.redd.it/rlrxd4NneUJSBtbdyFZfE9xW0LIWTbbWzZn5DC5dL0w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6027805a1076bea9970c68d97ebab4c111f566bc" alt="The U.S. Is About To Nearly Double Its Battery Production Capacity | Ten new battery plants expected to go online this year may deliver a near-double growth in America's cell manufacturing capacity." title="The U.S. Is About To Nearly Double Its Battery Production Capacity | Ten new battery plants expected to go online this year may deliver a near-double growth in America's cell manufacturing capacity." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://insideevs.com/news/751505/america-ten-new-ev-plants-double-capacity/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technolo
+
+## Apple, Under Threat from Trump Tariffs, Will Add 20,000 US Jobs
+ - [https://www.reddit.com/r/technology/comments/1iwzvgu/apple_under_threat_from_trump_tariffs_will_add](https://www.reddit.com/r/technology/comments/1iwzvgu/apple_under_threat_from_trump_tariffs_will_add)
+ - RSS feed: $source
+ - date published: 2025-02-24T11:26:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iwzvgu/apple_under_threat_from_trump_tariffs_will_add/"> <img src="https://external-preview.redd.it/FW-WbsFdpOREO34EmixopRTuCVMOGNmeZI4FoRpjh7I.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f3cedbbe3e3c2fd1f10239008e7acb8a408b6c11" alt="Apple, Under Threat from Trump Tariffs, Will Add 20,000 US Jobs" title="Apple, Under Threat from Trump Tariffs, Will Add 20,000 US Jobs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Psy-Demon"> /u/Psy-Demon </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2025-02-24/apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iwzvgu/apple_under_threat_from_trump_tariffs_will_add/">[comments]</a></span> </td></tr></table>
+
+## Tesla owners sue for cars 'falling flat' on tech claims
+ - [https://www.reddit.com/r/technology/comments/1iwxvb4/tesla_owners_sue_for_cars_falling_flat_on_tech](https://www.reddit.com/r/technology/comments/1iwxvb4/tesla_owners_sue_for_cars_falling_flat_on_tech)
+ - RSS feed: $source
+ - date published: 2025-02-24T09:07:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iwxvb4/tesla_owners_sue_for_cars_falling_flat_on_tech/"> <img src="https://external-preview.redd.it/euVsvsxAlDWSu5VeVbEA_y29xnaQxtvQ5P_iBZ-qOq0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df075c898d083ee9002f4fadf386329226dd5614" alt="Tesla owners sue for cars 'falling flat' on tech claims" title="Tesla owners sue for cars 'falling flat' on tech claims" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.northweststar.com.au/story/8900805/tesla-owners-sue-for-cars-falling-flat-on-tech-claims/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iwxvb4/tesla_owners_sue_for_cars_falling_flat_on_tech/">[comments]</a></span> </td></tr></table>
+
+## HP ditches 15-minute wait time policy due to 'feedback'
+ - [https://www.reddit.com/r/technology/comments/1iwxqxg/hp_ditches_15minute_wait_time_policy_due_to](https://www.reddit.com/r/technology/comments/1iwxqxg/hp_ditches_15minute_wait_time_policy_due_to)
+ - RSS feed: $source
+ - date published: 2025-02-24T08:58:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iwxqxg/hp_ditches_15minute_wait_time_policy_due_to/"> <img src="https://external-preview.redd.it/zuo286hhbQoJ3RziVYyVRjiEgQ6M65lztb9_PAAKVH0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=521a64c3d2a7052b2783838dcbb7f943c887a18f" alt="HP ditches 15-minute wait time policy due to 'feedback'" title="HP ditches 15-minute wait time policy due to 'feedback'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Loki-L"> /u/Loki-L </a> <br/> <span><a href="https://www.theregister.com/2025/02/21/hp_ditches_15_minute_wait_time_call_centers/?td=rt-3a">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iwxqxg/hp_ditches_15minute_wait_time_policy_due_to/">[comments]</a></span> </td></tr></table>
+
+## Hackers steal $1.5bn from crypto exchange in ‘biggest digital heist ever’
+ - [https://www.reddit.com/r/technology/comments/1iwvvne/hackers_steal_15bn_from_crypto_exchange_in](https://www.reddit.com/r/technology/comments/1iwvvne/hackers_steal_15bn_from_crypto_exchange_in)
+ - RSS feed: $source
+ - date published: 2025-02-24T06:46:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iwvvne/hackers_steal_15bn_from_crypto_exchange_in/"> <img src="https://external-preview.redd.it/JmAOJnB6bw-DANlST1OSy-4cyFWYUleoWryv4bA79F4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e52f4523a4c4f4f72fe028f1ae28933bd844e111" alt="Hackers steal $1.5bn from crypto exchange in ‘biggest digital heist ever’" title="Hackers steal $1.5bn from crypto exchange in ‘biggest digital heist ever’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/davster39"> /u/davster39 </a> <br/> <span><a href="https://www.theguardian.com/technology/2025/feb/23/crypto-exchange-seeks-bybit-ethereum-stolen-digital-wallet?CMP=Share_AndroidApp_Other">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iwvvne/hackers_steal_15bn_from_crypto_exchange_in/">[comments]</a></span> </td></tr></table>
+
+## RTX 5000 series now also has manufacturing issues, continuing Nvidia’s shoddy streak
+ - [https://www.reddit.com/r/technology/comments/1iwvgo3/rtx_5000_series_now_also_has_manufacturing_issues](https://www.reddit.com/r/technology/comments/1iwvgo3/rtx_5000_series_now_also_has_manufacturing_issues)
+ - RSS feed: $source
+ - date published: 2025-02-24T06:19:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iwvgo3/rtx_5000_series_now_also_has_manufacturing_issues/"> <img src="https://external-preview.redd.it/co48cIq3DCS441OaAX5ZymjRmOeEmshjk9FRwfoJXTA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4579859cd3bf496837530cefd2bb79a5564f6606" alt="RTX 5000 series now also has manufacturing issues, continuing Nvidia’s shoddy streak" title="RTX 5000 series now also has manufacturing issues, continuing Nvidia’s shoddy streak" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dishant_thapa"> /u/dishant_thapa </a> <br/> <span><a href="https://www.destructoid.com/rtx-5000-series-now-also-has-manufacturing-issues-continuing-nvidias-shoddy-streak/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iwvgo3/rtx_5000_series_now_also_has_manufacturing_issues/">[comments]</a></span> </td></tr></table>
+
+## Apple Abandons Budget Smartphone Market With the iPhone 16e
+ - [https://www.reddit.com/r/technology/comments/1iwrdgy/apple_abandons_budget_smartphone_market_with_the](https://www.reddit.com/r/technology/comments/1iwrdgy/apple_abandons_budget_smartphone_market_with_the)
+ - RSS feed: $source
+ - date published: 2025-02-24T02:25:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iwrdgy/apple_abandons_budget_smartphone_market_with_the/"> <img src="https://external-preview.redd.it/xYuTogEFkkDtxq3v8HccGD1_jbXbKLQTy1PHx1S6vMQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=792ec1089b689d5a5a565a58534e83ad88d0e94a" alt="Apple Abandons Budget Smartphone Market With the iPhone 16e" title="Apple Abandons Budget Smartphone Market With the iPhone 16e" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ControlCAD"> /u/ControlCAD </a> <br/> <span><a href="https://www.bloomberg.com/news/newsletters/2025-02-23/apple-abandons-budget-phones-inside-apple-s-modem-m4-macbook-air-launch-timing">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iwrdgy/apple_abandons_budget_smartphone_market_with_the/">[comments]</a></span> </td></tr></table>
+
+## Google Confirms Gmail To Ditch SMS Code Authentication
+ - [https://www.reddit.com/r/technology/comments/1iwr3bo/google_confirms_gmail_to_ditch_sms_code](https://www.reddit.com/r/technology/comments/1iwr3bo/google_confirms_gmail_to_ditch_sms_code)
+ - RSS feed: $source
+ - date published: 2025-02-24T02:11:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iwr3bo/google_confirms_gmail_to_ditch_sms_code/"> <img src="https://external-preview.redd.it/ae43Dbr0E41k5fS2U1kkqj1zelYCVNWdRlgSEHxSDIc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b59cf7283995b4b31e9f2ace5017943989f3b430" alt="Google Confirms Gmail To Ditch SMS Code Authentication" title="Google Confirms Gmail To Ditch SMS Code Authentication" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lurker_bee"> /u/lurker_bee </a> <br/> <span><a href="https://www.forbes.com/sites/daveywinder/2025/02/23/exclusive-google-confirms-gmail-to-ditch-sms-code-authentication/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iwr3bo/google_confirms_gmail_to_ditch_sms_code/">[comments]</a></span> </td></tr></table>
+
+## Fake captcha attacks are increasing, say experts
+ - [https://www.reddit.com/r/technology/comments/1iwplgt/fake_captcha_attacks_are_increasing_say_experts](https://www.reddit.com/r/technology/comments/1iwplgt/fake_captcha_attacks_are_increasing_say_experts)
+ - RSS feed: $source
+ - date published: 2025-02-24T00:56:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iwplgt/fake_captcha_attacks_are_increasing_say_experts/"> <img src="https://external-preview.redd.it/aBIZUPy55W4WmhVn0D7-OtsNLYjhcO_fsa9-AT9jYPw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5655fc5b4e341b6bf52dc32a918a4d64117bebae" alt="Fake captcha attacks are increasing, say experts" title="Fake captcha attacks are increasing, say experts" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/waozen"> /u/waozen </a> <br/> <span><a href="https://www.csoonline.com/article/3829416/fake-captcha-attacks-are-increasing-say-experts.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iwplgt/fake_captcha_attacks_are_increasing_say_experts/">[comments]</a></span> </td></tr></table>
+
+## 'What did you do last week?' email stokes confusion and anger among federal workers
+ - [https://www.reddit.com/r/technology/comments/1iwoxlj/what_did_you_do_last_week_email_stokes_confusion](https://www.reddit.com/r/technology/comments/1iwoxlj/what_did_you_do_last_week_email_stokes_confusion)
+ - RSS feed: $source
+ - date published: 2025-02-24T00:23:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iwoxlj/what_did_you_do_last_week_email_stokes_confusion/"> <img src="https://external-preview.redd.it/Ipm5J39YNpJsXY_e83ISN6Lz33g_pED1IjQvJqOpNms.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=66f4aae3550c5803e84838abf6c7a9e926852e5f" alt="'What did you do last week?' email stokes confusion and anger among federal workers" title="'What did you do last week?' email stokes confusion and anger among federal workers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ControlCAD"> /u/ControlCAD </a> <br/> <span><a href="https://www.npr.org/2025/02/23/nx-s1-5306366/musk-federal-worker-email-confusion">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iwoxlj/what_did_you_do_last_week_email_stokes_confusion/">[comments]</a></span> </td></tr></table>
+
+## Canadian software could be in Donald Trump’s sights for tariffs, technology lawyers warn
+ - [https://www.reddit.com/r/technology/comments/1iwokvt/canadian_software_could_be_in_donald_trumps](https://www.reddit.com/r/technology/comments/1iwokvt/canadian_software_could_be_in_donald_trumps)
+ - RSS feed: $source
+ - date published: 2025-02-24T00:06:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iwokvt/canadian_software_could_be_in_donald_trumps/"> <img src="https://external-preview.redd.it/O4W-eMfneo3vucpUHAG2ZTy0QKM_g9Rv7q3qZ-vOypY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3451c9f3be506f697bfd6662e7a4db78afb898e9" alt="Canadian software could be in Donald Trump’s sights for tariffs, technology lawyers warn" title="Canadian software could be in Donald Trump’s sights for tariffs, technology lawyers warn" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/joe4942"> /u/joe4942 </a> <br/> <span><a href="https://www.theglobeandmail.com/business/article-canadian-software-could-be-in-donald-trumps-sights-for-tariffs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iwokvt/canadian_software_could_be_in_donald_trumps/">[comments]</a></span> </td></tr></table>
+

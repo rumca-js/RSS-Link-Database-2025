@@ -1,0 +1,121 @@
+# Source:Linux, GNU/Linux, free software..., URL:https://www.reddit.com/r/linux/.rss, language:en
+
+## Working a full time job while working on a FOSS project
+ - [https://www.reddit.com/r/linux/comments/1ixgvlr/working_a_full_time_job_while_working_on_a_foss](https://www.reddit.com/r/linux/comments/1ixgvlr/working_a_full_time_job_while_working_on_a_foss)
+ - RSS feed: $source
+ - date published: 2025-02-24T23:48:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>For those of you who work on FOSS projects and work a full time job (especially if you have one tech), how do you do it?</p> <p>I have been working on a project for the past year and I was hoping to have it done by now, but I just can&#39;t muster the motivation to sit down and do coding/troubleshooting/documentation after dealing with people and technological gore all day.</p> <p>I can sometimes muster the energy to get things done on weekends but even then I just want to relax. </p> <p>Do I just need more discipline? Do I need an extra set of hands considering I am the only one working on the project? Any words of wisdom from people experienced with this?</p> <p>For context, my day job is basically a team lead for a Service Desk where I have to do some advanced troubleshooting and a little bit of coding with Powershell. </p> <p>The project I am working on is called LogicalArdour, which is supposed to give Ardour similar functionality to GarageBand 
+
+## NEED HELP PLS I DONT KNOW WHAT HAPPENED/WHAT TO DO
+ - [https://www.reddit.com/r/linux/comments/1ixfd63/need_help_pls_i_dont_know_what_happenedwhat_to_do](https://www.reddit.com/r/linux/comments/1ixfd63/need_help_pls_i_dont_know_what_happenedwhat_to_do)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:43:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>SOOO... i was trying to install the latest Debian release (as of today 12.9) and some time during the installation my laptop appearently shut off... now i believe it was that it ran out of battery because the installation does not seem succesfull... THIS IS WHAT I GOT AFTER RE BOOTING HER UP </p> <p>(for anyone that may notice (i doubt anyone does)) this is an argentinian (government project) given laptop to all higschoolers... my bach had an old (alternate version) of debian (i think it was 5.0.0 or smth thus the need to update)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/urmom1e"> /u/urmom1e </a> <br/> <span><a href="https://i.redd.it/esgnsl2p06le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ixfd63/need_help_pls_i_dont_know_what_happenedwhat_to_do/">[comments]</a></span>
+
+## Boycott USA
+ - [https://www.reddit.com/r/linux/comments/1ixezuw/boycott_usa](https://www.reddit.com/r/linux/comments/1ixezuw/boycott_usa)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:27:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>As some may be aware, there&#39;s a Boycott USA movement building, starting in Canada due to President Trump&#39;s threats to Canadian sovereignty. Based upon what I&#39;m seeing on Reddit and elsewhere, there&#39;s considerable global support as well.</p> <p>My question is this: Has there been an increase in Linux users by people abandoning USA platforms (e.g. Windows, MacOS, ChromeOS)?</p> <p>I&#39;d like to hear from anyone in the &#39;Boycott USA&#39; movement who has switched to Linux or is considering a switch as part of the boycott.</p> <p>Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Due-Ad7893"> /u/Due-Ad7893 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1ixezuw/boycott_usa/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ixezuw/boycott_usa/">[comments]</a></span>
+
+## Windows 11 Grub Rescue error after installing Linux Mint on a different drive.
+ - [https://www.reddit.com/r/linux/comments/1ixdiga/windows_11_grub_rescue_error_after_installing](https://www.reddit.com/r/linux/comments/1ixdiga/windows_11_grub_rescue_error_after_installing)
+ - RSS feed: $source
+ - date published: 2025-02-24T21:27:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I installed Linux Mint and deleted ubuntu on one of my hard drives on my old computer. I generaller use it as a second PC when my family needs to use my main computer etc. But now this problem happens. Normally i used a Easybcd tool and opened which OS i wanted from that loader. Windows 11 or Ubuntu i could easily switch between. But now i can&#39;t seem to do anything. I tried some things from the new Linux Mint drive, but no luck. I made a Windows 10 flashdrive in order to stuff from cmd but still no luck. At worst i want to reset my EFI but i don&#39;t even know how to do that. My last resort was to ask here. Can anyone help me? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Erencikefe2003"> /u/Erencikefe2003 </a> <br/> <span><a href="https://i.redd.it/26cy5fz5n5le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ixdiga/windows_11_grub_rescue_error_after_installing/">[c
+
+## Arch Vs Mint
+ - [https://www.reddit.com/r/linux/comments/1ixdfls/arch_vs_mint](https://www.reddit.com/r/linux/comments/1ixdfls/arch_vs_mint)
+ - RSS feed: $source
+ - date published: 2025-02-24T21:23:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I want to change my OS to either Linux Arch or Mint but cant fully decide yet..</p> <p>I&#39;v been watching a lot of videos and reading a lot of people opinions about arch / mint, advantages and disadvantages but cant decide.. </p> <p>I have experience with slackware linux server, I&#39;v installed and used on it php, mail, ftp, dns, web and more.</p> <p>i wanna know how hard will it be for me to use arch linux as someone with experience on slackware linux.</p> <p>mint installation is gui mostly if im not mistaken so its shouldnt be a problem at all, but arch is more freedom as people say but also people say it can just brake in a middle of nowhere thats why i cant decide which one to install as my main OS.</p> <p>im planning to game, watch videos, use apps like discord / spotify / netflix and etc, based basically. </p> <p>i wanna know your thoughts and opinions about either arch or mint. thanks for all the answers! </p> </div><!-- SC_ON --> &#3
+
+## Linux Mint XFCE on a 3gb ram Notebook
+ - [https://www.reddit.com/r/linux/comments/1ixc6cv/linux_mint_xfce_on_a_3gb_ram_notebook](https://www.reddit.com/r/linux/comments/1ixc6cv/linux_mint_xfce_on_a_3gb_ram_notebook)
+ - RSS feed: $source
+ - date published: 2025-02-24T20:32:52+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/SnooOpinions7428"> /u/SnooOpinions7428 </a> <br/> <span><a href="https://i.redd.it/9mvyezdhd5le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ixc6cv/linux_mint_xfce_on_a_3gb_ram_notebook/">[comments]</a></span>
+
+## Joining the gang
+ - [https://www.reddit.com/r/linux/comments/1ixaon5/joining_the_gang](https://www.reddit.com/r/linux/comments/1ixaon5/joining_the_gang)
+ - RSS feed: $source
+ - date published: 2025-02-24T19:33:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>After trying to install Mint and Kali multiple times to USB to make a bootable Linux environment to try it out, I finally succeeded with Ubuntu. I&#39;m liking it. Used Windows my whole life but man... this feels nice.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LFOdeathtrain"> /u/LFOdeathtrain </a> <br/> <span><a href="https://i.redd.it/ie6lfvft25le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ixaon5/joining_the_gang/">[comments]</a></span>
+
+## Video streaming software?
+ - [https://www.reddit.com/r/linux/comments/1ix7m4f/video_streaming_software](https://www.reddit.com/r/linux/comments/1ix7m4f/video_streaming_software)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:29:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello all - I don&#39;t know if this is out of scope for this sub, but I have a somewhat unique problem to solve. I have a closed environment that currently uses multicast to push video stream feeds to computers within the closed environment. I&#39;ve been working on a project to get the video out of that network for sharing to a remote site but it has had its own set of challenges. </p> <p>What I&#39;m trying to find now is if there is a server software that will allow me to ingest the existing multicast streams, then provide a webpage/GUI where an external party can log in and view the streams individually (or, ideally, in some form of multiviewer) rather than trying to force the video stream itself out of the network. If anyone knows a software like this that would work, I&#39;d greatly appreciate the information! Also, I need a software that can run on a virtual machine, as we don&#39;t have the space to allow for new hardware. Thank you so much 
+
+## The only twothings stopping me from switching to Linux
+ - [https://www.reddit.com/r/linux/comments/1ix70y6/the_only_twothings_stopping_me_from_switching_to](https://www.reddit.com/r/linux/comments/1ix70y6/the_only_twothings_stopping_me_from_switching_to)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:05:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I once dual booted linux mint with windows, but didn&#39;t use it much because of just one app that&#39;s whatsapp, I have to use whatsapp a lot for study purposes, I need calls on my laptop app, but whatsapp web doesn&#39;t have that, The other thing is Phone link, I love having clipboard sync, calls and all, though it isn&#39;t that big of a deal as whatsapp is, If I somehow get calls on WhatsApp on Linux, i would happily switch over, It would be really good for me as the cpu on my laptop is an Intel pentium n5000, that&#39;s really shit, so I would prefer linux too. Meme for engagement</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Psexxy"> /u/Psexxy </a> <br/> <span><a href="https://i.redd.it/k63hxhhhc4le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ix70y6/the_only_twothings_stopping_me_from_switching_to/">[comments]</a></span>
+
+## Ethical Open License (EOL) – A Different Take on Open Source Licensing
+ - [https://www.reddit.com/r/linux/comments/1ix3imu/ethical_open_license_eol_a_different_take_on_open](https://www.reddit.com/r/linux/comments/1ix3imu/ethical_open_license_eol_a_different_take_on_open)
+ - RSS feed: $source
+ - date published: 2025-02-24T14:38:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>Open source has always been about freedom – freedom to use, modify, and distribute software without restrictions. But that also means there are <strong>zero</strong> restrictions on <em>who</em> can use it and <em>how</em>.</p> <p>A lot of people are fine with that, but it raises some uncomfortable questions. What if open-source software is used for mass surveillance? Or for AI-driven discrimination? Or even for exploitation networks? At what point do we stop pretending that software is neutral?</p> <p>The <strong>Ethical Open License (EOL)</strong> is an attempt to rethink this. It works like a standard open-source license, but with one key difference: it <strong>prohibits unethical use cases</strong> like mass surveillance, autonomous weapons, and human exploitation.</p> <p>Of course, this raises a lot of questions:</p> <ul> <li>Can ethics and open-source licensing even mix?</li> <li>Who decides what’s “ethical”?</li> <li>Is something like this enf
+
+## Remote control and muck more, I need your advice
+ - [https://www.reddit.com/r/linux/comments/1ix1zt1/remote_control_and_muck_more_i_need_your_advice](https://www.reddit.com/r/linux/comments/1ix1zt1/remote_control_and_muck_more_i_need_your_advice)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:27:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Check out my repo sarat1kyan/MoonLit</p> <p>I need your advice there is many things that I want to implement but will be interesting to hear your thoughts. </p> <p>The security now implemented by validating user unique id and API key but the OTP will be implemented also today</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/saratikyan"> /u/saratikyan </a> <br/> <span><a href="https://i.redd.it/zzgshojj93le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ix1zt1/remote_control_and_muck_more_i_need_your_advice/">[comments]</a></span>
+
+## Linux's libinput Input Library Finally Supports 3-Finger Dragging
+ - [https://www.reddit.com/r/linux/comments/1ix1tuz/linuxs_libinput_input_library_finally_supports](https://www.reddit.com/r/linux/comments/1ix1tuz/linuxs_libinput_input_library_finally_supports)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:19:06+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/unixbhaskar"> /u/unixbhaskar </a> <br/> <span><a href="https://www.phoronix.com/news/libinput-3-Finger-Dragging">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ix1tuz/linuxs_libinput_input_library_finally_supports/">[comments]</a></span>
+
+## GNOME Compose key sequence cheat sheet
+ - [https://www.reddit.com/r/linux/comments/1ix1k2s/gnome_compose_key_sequence_cheat_sheet](https://www.reddit.com/r/linux/comments/1ix1k2s/gnome_compose_key_sequence_cheat_sheet)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:05:19+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Udzu"> /u/Udzu </a> <br/> <span><a href="https://i.redd.it/uk931grj53le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ix1k2s/gnome_compose_key_sequence_cheat_sheet/">[comments]</a></span>
+
+## Soar – Distro Agnostic Package Manager, HomeBrew (LinuxBrew) Done Right
+ - [https://www.reddit.com/r/linux/comments/1ix0tzs/soar_distro_agnostic_package_manager_homebrew](https://www.reddit.com/r/linux/comments/1ix0tzs/soar_distro_agnostic_package_manager_homebrew)
+ - RSS feed: $source
+ - date published: 2025-02-24T12:25:32+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Xaneris47"> /u/Xaneris47 </a> <br/> <span><a href="https://github.com/pkgforge/soar">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1ix0tzs/soar_distro_agnostic_package_manager_homebrew/">[comments]</a></span>
+
+## AI as a guide
+ - [https://www.reddit.com/r/linux/comments/1iwzgbp/ai_as_a_guide](https://www.reddit.com/r/linux/comments/1iwzgbp/ai_as_a_guide)
+ - RSS feed: $source
+ - date published: 2025-02-24T10:58:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>This may be controversial but AI is a good guide. Everyone hates on AI when it comes to installation and configuration of your system. I think it is absolutely incredible and i will die on this hill. Now, don’t copy+paste every command it gives you because it will break something. Instead if you know what you are doing, ask the AI about your situation and what you want to do, with further research and proper knowledge this is the most effective way to find what you need. Forget the forum post from 2009, forget the guides and forum posts where it’s generic or even worse, not for your system. Ask AI, rtfm and understand what the commands/code you execute/write do. </p> <p>DISCLAIMER: Don’t blindly follow AI and don’t take me for an expert. Do your research.</p> <p>EDIT: This post is not made to upset the community. The community will always be number one and the people working hours to help others will always be the GOAT’s of linux help.</p> <p>I am fo
+
+## Windows 8's Metro UI for Linux?
+ - [https://www.reddit.com/r/linux/comments/1iwtc92/windows_8s_metro_ui_for_linux](https://www.reddit.com/r/linux/comments/1iwtc92/windows_8s_metro_ui_for_linux)
+ - RSS feed: $source
+ - date published: 2025-02-24T04:10:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is there a way to make my OS look like Windows 8? I mean, the fullscreen Start menu with tiles, Metro-like theme for Qt, etc.</p> <p>I googled but found nothing...</p> <p>Now I&#39;m using openSUSE Leap 15.6 with KDE 5</p> <p><strong><em>UPD.</em></strong> Found the &quot;Tiled Menu&quot; plasmoid. But, unfortunately, it is buggy and looks bad compared to Windows 8&#39;s Start. Yes, I didn&#39;t expect something awesome, but this looks pretty bad. Also, it has non-disableable Win10&#39;s transparency effect. Well, it can&#39;t be helped.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Human-No-1"> /u/Human-No-1 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iwtc92/windows_8s_metro_ui_for_linux/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iwtc92/windows_8s_metro_ui_for_linux/">[comments]</a></span>
+
+## First announced here, my Open-Source "Internet OS" Just Hit 2,000,000 user!
+ - [https://www.reddit.com/r/linux/comments/1iwpyem/first_announced_here_my_opensource_internet_os](https://www.reddit.com/r/linux/comments/1iwpyem/first_announced_here_my_opensource_internet_os)
+ - RSS feed: $source
+ - date published: 2025-02-24T01:13:53+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/mitousa"> /u/mitousa </a> <br/> <span><a href="https://github.com/HeyPuter/puter/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iwpyem/first_announced_here_my_opensource_internet_os/">[comments]</a></span>
+

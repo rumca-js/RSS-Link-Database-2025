@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-24T21:01:02+00:00",
+        "description": "The video appeared to have been created with the help of artificial intelligence and poked fun at the power dynamic between Elon Musk and Donald Trump.",
+        "id": 2187400,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/politics/doge/fake-video-trump-kissing-musks-feet-displayed-hud-office-washington-rcna193503",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-02/250224-donald-trump-elon-musk-ew-204p-f32ccc.jpg",
+        "title": "Fake video of Trump kissing Musk\u2019s feet displayed at HUD office in Washington",
+        "vote": 0
+    }
+]

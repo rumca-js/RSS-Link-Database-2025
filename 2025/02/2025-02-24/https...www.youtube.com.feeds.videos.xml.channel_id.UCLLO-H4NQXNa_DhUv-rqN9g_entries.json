@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-24T18:52:54+00:00",
+        "description": "Na przyk\u0142ad \u015bwiat przedstawiony. Jest to fragment najnowszego materia\u0142u o demie Gothic Remake \u2013 po wi\u0119cej zapraszam tu: https://www.youtube.com/watch?v=3ZEfLvOIrvs\n\nProwadzenie i scenariusz: Krzysztof \u201eBastian\u201d Freudenberger (http://twitter.com/BastianCDA)\n\nMonta\u017c: Kacper Grela",
+        "id": 2186845,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=L0_TmfdKlNk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/L0_TmfdKlNk/hqdefault.jpg",
+        "title": "S\u0105 jakie\u015b plusy dema Gothic Remake",
+        "vote": 0
+    }
+]

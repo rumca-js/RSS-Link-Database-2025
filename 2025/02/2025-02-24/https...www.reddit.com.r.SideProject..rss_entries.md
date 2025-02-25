@@ -1,0 +1,527 @@
+# Source:r/SideProject - A community for sharing side projects, URL:https://www.reddit.com/r/SideProject/.rss, language:en
+
+## Feedback Please - Help Me Name My Startup & Decide On A Headline
+ - [https://www.reddit.com/r/SideProject/comments/1ixfu75/feedback_please_help_me_name_my_startup_decide_on](https://www.reddit.com/r/SideProject/comments/1ixfu75/feedback_please_help_me_name_my_startup_decide_on)
+ - RSS feed: $source
+ - date published: 2025-02-24T23:03:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi All,</p> <p>I am seeking some quick feedback from the community.</p> <p>But I don&#39;t want to tell you what my app is or does to start with.</p> <p>First, I&#39;d like you to read the potential names below, followed by the potential headlines for my lading page.</p> <p><strong>Then, answer these quick questions:</strong></p> <ol> <li>Based on the names / headlines what do you think my app actually is and does?</li> <li>Based on what you think the app is / does what name do you like most <em>(you can answer with a simple number, such as &quot;1&quot;)</em>?</li> <li>Based on what you think the app is / does what headline do you like most <em>(you can answer with a simple number, such as &quot;1&quot;)</em>?</li> </ol> <p><strong>Names</strong></p> <ol> <li>MindVault</li> <li>Recollect</li> <li>Atomic Knowledge</li> <li>EverMind</li> <li>Cognify</li> <li>Mosaic</li> <li>Kernel</li> <li>Axiom</li> <li>Helix</li> <li>None of these</li> </ol> <p><str
+
+## I built a end-to-end encrypted message sharing platform - AnonDrop.link
+ - [https://www.reddit.com/r/SideProject/comments/1ixfj0b/i_built_a_endtoend_encrypted_message_sharing](https://www.reddit.com/r/SideProject/comments/1ixfj0b/i_built_a_endtoend_encrypted_message_sharing)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:50:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I’ve been working on a project called AnonDrop and wanted to share it with you all. It’s a service for sending encrypted messages (or “secrets”) securely. You can make them expire after a set time or disappear after being read once. With password protection and end-to-end encryption that happens on your browser, not even the server can decrypt your message. If you’re interested, check out the live version at <a href="http://AnonDrop.link">AnonDrop.link</a></p> <p>The source is available at <a href="https://github.com/DanonekTM/anondrop">https://github.com/DanonekTM/anondrop</a></p> <p>I&#39;d love to hear what you think!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DanonekTM"> /u/DanonekTM </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1ixfj0b/i_built_a_endtoend_encrypted_message_sharing/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject
+
+## launching vibeodoro today - get a private tutor on the beach! In a penthouse! in a rainforest? life's too short for bad vibes 😊
+ - [https://www.reddit.com/r/SideProject/comments/1ixfg11/launching_vibeodoro_today_get_a_private_tutor_on](https://www.reddit.com/r/SideProject/comments/1ixfg11/launching_vibeodoro_today_get_a_private_tutor_on)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:46:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ixfg11/launching_vibeodoro_today_get_a_private_tutor_on/"> <img src="https://preview.redd.it/7rpr9zj0z5le1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8696ff00885a675fa8a9181cb0d13a53efe78bfc" alt="launching vibeodoro today - get a private tutor on the beach! In a penthouse! in a rainforest? life's too short for bad vibes 😊" title="launching vibeodoro today - get a private tutor on the beach! In a penthouse! in a rainforest? life's too short for bad vibes 😊" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/maker_18"> /u/maker_18 </a> <br/> <span><a href="https://i.redd.it/7rpr9zj0z5le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ixfg11/launching_vibeodoro_today_get_a_private_tutor_on/">[comments]</a></span> </td></tr></table>
+
+## Why 'The 4-Hour Workweek' isn’t the life hack you think - Summary & Review [Updated 2025]
+ - [https://www.reddit.com/r/SideProject/comments/1ixfa5t/why_the_4hour_workweek_isnt_the_life_hack_you](https://www.reddit.com/r/SideProject/comments/1ixfa5t/why_the_4hour_workweek_isnt_the_life_hack_you)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:39:40+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/luckkyyy4ever"> /u/luckkyyy4ever </a> <br/> <span><a href="/r/OdysseyBookClub/comments/1iwjtum/why_the_4hour_workweek_isnt_the_life_hack_you/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ixfa5t/why_the_4hour_workweek_isnt_the_life_hack_you/">[comments]</a></span>
+
+## Tired of Overthinking Response? RizzPlus Helps Keep Conversations Natural (Free Codes)
+ - [https://www.reddit.com/r/SideProject/comments/1ixf9kx/tired_of_overthinking_response_rizzplus_helps](https://www.reddit.com/r/SideProject/comments/1ixf9kx/tired_of_overthinking_response_rizzplus_helps)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:39:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ixf9kx/tired_of_overthinking_response_rizzplus_helps/"> <img src="https://b.thumbs.redditmedia.com/sREDHHhL1SDU-umKBTqrVcjEz4-OQZ7No650vBU4doA.jpg" alt="Tired of Overthinking Response? RizzPlus Helps Keep Conversations Natural (Free Codes)" title="Tired of Overthinking Response? RizzPlus Helps Keep Conversations Natural (Free Codes)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hey everyone, Coming up with messages that feel genuine while avoiding awkward silences is exhausting. That’s why I want to share RizzPlus, an AI keyboard I’ve been developing that’s honestly made my dating life so much easier.</p> <p>Here’s Why It Works 🫂 Actually Useful Replies: Instead of cheesy pickup lines, RizzPlus suggests natural, context-aware responses based on your chat. It’s like having a friend whisper, “Hey, try this!” without the pressure.</p> <p>🔁 Switch Keyboards Instantly: Need to toggle between RizzPlus and your 
+
+## Any good startup idea?
+ - [https://www.reddit.com/r/SideProject/comments/1ixf4fo/any_good_startup_idea](https://www.reddit.com/r/SideProject/comments/1ixf4fo/any_good_startup_idea)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:33:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to start building startups as side projects but I don&#39;t know what is the idea that&#39;s we need but also there is no many applications for it, I have good knowledge of full-stack development so I am ready to start, any ideas?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Wind7503"> /u/No_Wind7503 </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1ixf4fo/any_good_startup_idea/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ixf4fo/any_good_startup_idea/">[comments]</a></span>
+
+## Action Project: Mental Health Awareness in Teens/Pre Teens
+ - [https://www.reddit.com/r/SideProject/comments/1ixewzw/action_project_mental_health_awareness_in](https://www.reddit.com/r/SideProject/comments/1ixewzw/action_project_mental_health_awareness_in)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:24:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>TEENS AND PRETEENS ONLY! I don&#39;t want adults replying to this post, PLEASE! </p> <p>Hello, I&#39;m a 17 year old student in CA, US. I&#39;m doing an action project for my ethnic studies class on mental health. For the action I want to carry out is to make a website where people can share their stories dealing with racism, depression, bullying, body issues, suicide, anxiety etc. and the lead up of it going to suicide or unstable mental health and I want to share this to my Ethnic Studies class as a presentation. </p> <p>But before I can start making this website I want to hear stories from all of you who are struggling and what you want others to know so I have some questions, here&#39;s my format. I want to post these on the website I am making:</p> <p>PLEASE MAKE YOURSELF ANONYMOUS, DON&#39;T PUT YOUR NAME! State your age State your gender Please share your story dealing with mental health, depression, suicide etc. etc. </p> <p>Here are other th
+
+## Thanks to a Redditor, I Rebuilt My Side Project - An AI Tools Directory
+ - [https://www.reddit.com/r/SideProject/comments/1ixem9j/thanks_to_a_redditor_i_rebuilt_my_side_project_an](https://www.reddit.com/r/SideProject/comments/1ixem9j/thanks_to_a_redditor_i_rebuilt_my_side_project_an)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:12:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I originally launched this about 3 weeks ago, using ReactJS, but in my dev no0bery, I neglected to prioritize server-side rendering of important metadata (derp). A helpful redditor pointed this out and I set to work, going with a NextJS approach. So yeah, thanks to that user for the helpful (and critical) tip.</p> <p>Anyhoo, here&#39;s <a href="https://aitoolsroster.com/">AI Tools Roster</a> in it&#39;s improved and crawl-able arc. Nothing innovative, a directory site, basically, that&#39;s just trying to do two things:</p> <ul> <li>Provide a solution to the oft heard lament: &quot;There are sooo many AI tools and new ones popping up daily and I can&#39;t seem to keep up!&quot;</li> <li>An AI specific spot for creators to potentially showcase their tool(s).</li> </ul> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JovialLich"> /u/JovialLich </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1ix
+
+## launched a simple car buying & selling website in Ukraine – looking for feedback
+ - [https://www.reddit.com/r/SideProject/comments/1ixe9hf/launched_a_simple_car_buying_selling_website_in](https://www.reddit.com/r/SideProject/comments/1ixe9hf/launched_a_simple_car_buying_selling_website_in)
+ - RSS feed: $source
+ - date published: 2025-02-24T21:57:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey!</p> <p>For the past three months, I’ve been working on <a href="https://www.tachan.co/">tachan.co</a> – a minimalist website for buying and selling cars. The goal was to create a clean, simple platform without unnecessary distractions, focusing on ease of use and speed.</p> <p>Built with Next.js + MongoDB<br/> No ads, no clutter – just a straightforward experience<br/> Quick and easy listing process</p> <p>The site is currently in beta, and I’d love to get some feedback:</p> <ul> <li>Is the interface intuitive and easy to use?</li> <li>Anything that feels off or could be improved?</li> <li>If you were selling/buying a car, would this be useful to you?</li> </ul> <p>Would appreciate any thoughts.</p> <p>Project is focused on Ukrainian market so consider translation:)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ablaev1"> /u/ablaev1 </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1i
+
+## Which slogan best represents the essence of LoveEvertag?
+ - [https://www.reddit.com/r/SideProject/comments/1ixdn9v/which_slogan_best_represents_the_essence_of](https://www.reddit.com/r/SideProject/comments/1ixdn9v/which_slogan_best_represents_the_essence_of)
+ - RSS feed: $source
+ - date published: 2025-02-24T21:32:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone! I’m working on a project called LoveEvertag, which focuses on preserving memories and honoring loved ones through a digital memorial platform. I’ve come up with a few slogan ideas and would love to hear your thoughts on which one resonates the most with the concept.</p> <p>1️⃣ &quot;The greatest gift is to be remembered with love.&quot; ➡️ Emphasizes that being remembered with love is the most valuable legacy.</p> <p>2️⃣ &quot;What we share today becomes tomorrow’s legacy.&quot; ➡️ Highlights how shared moments today turn into lasting memories for the future.</p> <p>3️⃣ &quot;Memories keep love alive forever.&quot; ➡️ Expresses how memories help keep love eternal and meaningful.</p> <p>Which one do you feel best captures the spirit of LoveEvertag? Or do you have any suggestions to improve them? Looking forward to your insights!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mysterious-Train1136"> 
+
+## A tool that runs viral marketing campaigns for your SaaS
+ - [https://www.reddit.com/r/SideProject/comments/1ixdjwo/a_tool_that_runs_viral_marketing_campaigns_for](https://www.reddit.com/r/SideProject/comments/1ixdjwo/a_tool_that_runs_viral_marketing_campaigns_for)
+ - RSS feed: $source
+ - date published: 2025-02-24T21:28:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ixdjwo/a_tool_that_runs_viral_marketing_campaigns_for/"> <img src="https://external-preview.redd.it/YlJDKyLB_VK9HVutO8Y-vNyWj79raA9Nh48Hv8QVjAk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e339f6d93ed92271471c76dd6d1d88291ed020b7" alt="A tool that runs viral marketing campaigns for your SaaS" title="A tool that runs viral marketing campaigns for your SaaS" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I&#39;m working on <a href="https://www.promoamp.com/">PromoAmp</a>. It’s a product which helps founders get their business in front of tens of thousands of potential customers.</p> <p>It does this by running a giveaway campaign for your business. Think fast, viral competitions that potential customers can enter in seconds to win a small prize.</p> <p>We just ran a giveaway for the product and grew social followings from 0 to 1.5k and got 124k impressions across Instagram and Twitter.</p> <p>Try out the d
+
+## Value tons of stuff with just a picture!
+ - [https://www.reddit.com/r/SideProject/comments/1ixddxd/value_tons_of_stuff_with_just_a_picture](https://www.reddit.com/r/SideProject/comments/1ixddxd/value_tons_of_stuff_with_just_a_picture)
+ - RSS feed: $source
+ - date published: 2025-02-24T21:21:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ixddxd/value_tons_of_stuff_with_just_a_picture/"> <img src="https://external-preview.redd.it/d3BkcGx6aTNtNWxlMY3i2zFfx9AJ9nETm2ASGZeWtu23eQn7WRvGpZ-9wyLA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=94bd988f455e1566626bebc458ac74a96a412fb7" alt="Value tons of stuff with just a picture!" title="Value tons of stuff with just a picture!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NailHead4988"> /u/NailHead4988 </a> <br/> <span><a href="https://v.redd.it/bdmoh0j3m5le1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ixddxd/value_tons_of_stuff_with_just_a_picture/">[comments]</a></span> </td></tr></table>
+
+## I’m making an app that helps helps you build your future (literally)
+ - [https://www.reddit.com/r/SideProject/comments/1ixdc18/im_making_an_app_that_helps_helps_you_build_your](https://www.reddit.com/r/SideProject/comments/1ixdc18/im_making_an_app_that_helps_helps_you_build_your)
+ - RSS feed: $source
+ - date published: 2025-02-24T21:19:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ixdc18/im_making_an_app_that_helps_helps_you_build_your/"> <img src="https://preview.redd.it/fo9yp9evl5le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=18618dedbadf83bd3bebcd2a0a9ff2a7a5609a06" alt="I’m making an app that helps helps you build your future (literally)" title="I’m making an app that helps helps you build your future (literally)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wonderful-Job1920"> /u/Wonderful-Job1920 </a> <br/> <span><a href="https://i.redd.it/fo9yp9evl5le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ixdc18/im_making_an_app_that_helps_helps_you_build_your/">[comments]</a></span> </td></tr></table>
+
+## After 2 Years of Postponing, I Finally Found the Courage to Launch Qrambo
+ - [https://www.reddit.com/r/SideProject/comments/1ixcbm0/after_2_years_of_postponing_i_finally_found_the](https://www.reddit.com/r/SideProject/comments/1ixcbm0/after_2_years_of_postponing_i_finally_found_the)
+ - RSS feed: $source
+ - date published: 2025-02-24T20:38:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ixcbm0/after_2_years_of_postponing_i_finally_found_the/"> <img src="https://b.thumbs.redditmedia.com/rBK30bjKWi0L4b-DshHIpP9-GxdvBIJMeuedM_fSDww.jpg" alt="After 2 Years of Postponing, I Finally Found the Courage to Launch Qrambo" title="After 2 Years of Postponing, I Finally Found the Courage to Launch Qrambo" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hey <a href="/r/SideProject">r/SideProject</a>,</p> <p>I saw akshatmalik8&#39;s <a href="https://www.reddit.com/r/SideProject/comments/1ix6ah5/i_finally_released_my_app_after_6_months_meet/">post</a> and I got encouraged by it because exactly same feelings :)</p> <p>After over two years of development as a side project while working many YC startup, I finally launched Qrambo yesterday. Actually it is like jumping from the cliff.</p> <p><a href="https://preview.redd.it/bobfqefce5le1.jpg?width=3840&amp;format=pjpg&amp;auto=webp&amp;s=d642dd947b5638d807dcf37
+
+## Daily Puzzle about linking movies based on similarities
+ - [https://www.reddit.com/r/SideProject/comments/1ixca9g/daily_puzzle_about_linking_movies_based_on](https://www.reddit.com/r/SideProject/comments/1ixca9g/daily_puzzle_about_linking_movies_based_on)
+ - RSS feed: $source
+ - date published: 2025-02-24T20:37:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ixca9g/daily_puzzle_about_linking_movies_based_on/"> <img src="https://b.thumbs.redditmedia.com/bd_uEgaVYlJ0W5ZCJ1GRAmi2Abp_rY_xZSU8aZ5cy7I.jpg" alt="Daily Puzzle about linking movies based on similarities" title="Daily Puzzle about linking movies based on similarities" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This one is for cinema lovers!</p> <p>Made a game very similar to Connections but with a cinematic twist. Instead of linking words by their semantic meaning, you’ll be linking movies based on common factor(s) such as actors, similar plots, awards, etc.</p> <p><a href="https://www.filmconnect.fun/">https://www.filmconnect.fun/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Conscious-Region5443"> /u/Conscious-Region5443 </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1ixca9g/daily_puzzle_about_linking_movies_based_on/">[link]</a><
+
+## I automated all invoices for my business - would this be a useful tool for others?
+ - [https://www.reddit.com/r/SideProject/comments/1ixbv3v/i_automated_all_invoices_for_my_business_would](https://www.reddit.com/r/SideProject/comments/1ixbv3v/i_automated_all_invoices_for_my_business_would)
+ - RSS feed: $source
+ - date published: 2025-02-24T20:20:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>I run my business from Google Sheets and found invoicing customers to be really time consuming and repetitive cutting and pasting. I built a custom tool to seamlessly generate invoices in my company’s accounting software without ever having to leave Google Sheets. Im thinking of releasing this tool as an Add-on for Google Sheets for others to use too? Would this be helpful for anyone else out there? Let me know your own frustrations with invoicing customers? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/QueasyInstruction955"> /u/QueasyInstruction955 </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1ixbv3v/i_automated_all_invoices_for_my_business_would/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ixbv3v/i_automated_all_invoices_for_my_business_would/">[comments]</a></span>
+
+## Prototype of My Job Postings Aggregator Project Released
+ - [https://www.reddit.com/r/SideProject/comments/1ixbdsj/prototype_of_my_job_postings_aggregator_project](https://www.reddit.com/r/SideProject/comments/1ixbdsj/prototype_of_my_job_postings_aggregator_project)
+ - RSS feed: $source
+ - date published: 2025-02-24T20:01:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone!</p> <p>I’ve been working on an app that aggregates job postings from multiple sources into one easy-to-search place. I’ve put together a prototype over the past few weeks, and it’s live now - <a href="https://clashofjobs.com/">https://clashofjobs.com/</a></p> <p>Right now, it’s pretty simple—just basic filters and about 25k scraped job postings to browse. Also, the design and CSS isn’t perfect yet (I’m still working on improving the UI/UX), but I wanted to share the current state with you all anyway.</p> <p>First, it’d be great to see someone besides me using the site! And second, I’d love to hear your thoughts—any feedback or ideas for future improvements would be super helpful.</p> <p>Here’s what’s next on the roadmap:</p> <ol> <li><strong>More job listings</strong> – Based on my estimates, hitting 1M job postings in the next few months should be doable.</li> <li><strong>Better filtering</strong> – Right now, you can filter by country
+
+## Brain Blitz Daily Trivia Game
+ - [https://www.reddit.com/r/SideProject/comments/1ix9gsx/brain_blitz_daily_trivia_game](https://www.reddit.com/r/SideProject/comments/1ix9gsx/brain_blitz_daily_trivia_game)
+ - RSS feed: $source
+ - date published: 2025-02-24T18:44:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m trying out Bolt and building a trivia app for fun. I&#39;d love to know what you think. </p> <p><a href="https://brainblitz.app">https://brainblitz.app</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/align_io"> /u/align_io </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1ix9gsx/brain_blitz_daily_trivia_game/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix9gsx/brain_blitz_daily_trivia_game/">[comments]</a></span>
+
+## I'm 40 (M). Want an accountability partner for me from India
+ - [https://www.reddit.com/r/SideProject/comments/1ix95ot/im_40_m_want_an_accountability_partner_for_me](https://www.reddit.com/r/SideProject/comments/1ix95ot/im_40_m_want_an_accountability_partner_for_me)
+ - RSS feed: $source
+ - date published: 2025-02-24T18:30:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been running 3 or 4 businesses at a time - all are online. It&#39;s the growth phase for all those businesses</p> <p>But I can&#39;t always be on the line of action always - so I want an accountability partner - we&#39;ll both motivate each other and help to grow</p> <p>Please dm me</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Late-Advantage-278"> /u/Late-Advantage-278 </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1ix95ot/im_40_m_want_an_accountability_partner_for_me/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix95ot/im_40_m_want_an_accountability_partner_for_me/">[comments]</a></span>
+
+## this was so fun building - browse through more than 8000+ movie collections/series
+ - [https://www.reddit.com/r/SideProject/comments/1ix943e/this_was_so_fun_building_browse_through_more_than](https://www.reddit.com/r/SideProject/comments/1ix943e/this_was_so_fun_building_browse_through_more_than)
+ - RSS feed: $source
+ - date published: 2025-02-24T18:28:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ix943e/this_was_so_fun_building_browse_through_more_than/"> <img src="https://external-preview.redd.it/N2x6bnd5aWFyNGxlMUVTE_ob1br7yFALEJYukQr_zWOuURVB7By2SsFYyGG8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=da0e09a110b3a9fa71cbf7d619d007cd97d69244" alt="this was so fun building - browse through more than 8000+ movie collections/series" title="this was so fun building - browse through more than 8000+ movie collections/series" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BabaYaga72528"> /u/BabaYaga72528 </a> <br/> <span><a href="https://v.redd.it/qr1a7mhar4le1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix943e/this_was_so_fun_building_browse_through_more_than/">[comments]</a></span> </td></tr></table>
+
+## Rate my App store listing.
+ - [https://www.reddit.com/r/SideProject/comments/1ix8rkf/rate_my_app_store_listing](https://www.reddit.com/r/SideProject/comments/1ix8rkf/rate_my_app_store_listing)
+ - RSS feed: $source
+ - date published: 2025-02-24T18:14:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ix8rkf/rate_my_app_store_listing/"> <img src="https://preview.redd.it/9y72fhgqo4le1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ed49762ddd0fefc389777776f359edd5d249b9e1" alt="Rate my App store listing." title="Rate my App store listing." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mountain_Strike_7118"> /u/Mountain_Strike_7118 </a> <br/> <span><a href="https://i.redd.it/9y72fhgqo4le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix8rkf/rate_my_app_store_listing/">[comments]</a></span> </td></tr></table>
+
+## Just launched my chatbot for helping out with car problems
+ - [https://www.reddit.com/r/SideProject/comments/1ix8p27/just_launched_my_chatbot_for_helping_out_with_car](https://www.reddit.com/r/SideProject/comments/1ix8p27/just_launched_my_chatbot_for_helping_out_with_car)
+ - RSS feed: $source
+ - date published: 2025-02-24T18:11:41+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/sleipner42"> /u/sleipner42 </a> <br/> <span><a href="http://beta.doxastic.xyz">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix8p27/just_launched_my_chatbot_for_helping_out_with_car/">[comments]</a></span>
+
+## Hosting Voice Agent Community Events
+ - [https://www.reddit.com/r/SideProject/comments/1ix82x7/hosting_voice_agent_community_events](https://www.reddit.com/r/SideProject/comments/1ix82x7/hosting_voice_agent_community_events)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:47:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone!</p> <p>I’m a self taught engineer who’s been in the startup world for the last 7 years. As a self taught engineer, I wish there were more places where people could learn about the latest tech (AI frameworks, apis and tools) while also pushing people to ship!</p> <p>As part of a longer term vision I’m hosting a free 30min intro session this Wednesday to discuss everything <a href="https://lu.ma/fkpgi09n">Eleven Labs</a> related. Come through to share ideas!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gorrambatmam"> /u/gorrambatmam </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1ix82x7/hosting_voice_agent_community_events/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix82x7/hosting_voice_agent_community_events/">[comments]</a></span>
+
+## I made a site that tells the time in corporate!
+ - [https://www.reddit.com/r/SideProject/comments/1ix7ssh/i_made_a_site_that_tells_the_time_in_corporate](https://www.reddit.com/r/SideProject/comments/1ix7ssh/i_made_a_site_that_tells_the_time_in_corporate)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:36:50+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/steady_course"> /u/steady_course </a> <br/> <span><a href="https://corporate.watch">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix7ssh/i_made_a_site_that_tells_the_time_in_corporate/">[comments]</a></span>
+
+## Fork Post - Open source social media scheduler I built
+ - [https://www.reddit.com/r/SideProject/comments/1ix7m79/fork_post_open_source_social_media_scheduler_i](https://www.reddit.com/r/SideProject/comments/1ix7m79/fork_post_open_source_social_media_scheduler_i)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:29:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ix7m79/fork_post_open_source_social_media_scheduler_i/"> <img src="https://b.thumbs.redditmedia.com/eTq4RyOosFtI3l1HsbTT2orz88SbfplHBc7mKmiOU-w.jpg" alt="Fork Post - Open source social media scheduler I built" title="Fork Post - Open source social media scheduler I built" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Aquatic_lotus"> /u/Aquatic_lotus </a> <br/> <span><a href="https://www.reddit.com/gallery/1ix7m79">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix7m79/fork_post_open_source_social_media_scheduler_i/">[comments]</a></span> </td></tr></table>
+
+## I made a display that shows stats from my app to keep me motivated
+ - [https://www.reddit.com/r/SideProject/comments/1ix7jvh/i_made_a_display_that_shows_stats_from_my_app_to](https://www.reddit.com/r/SideProject/comments/1ix7jvh/i_made_a_display_that_shows_stats_from_my_app_to)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:26:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ix7jvh/i_made_a_display_that_shows_stats_from_my_app_to/"> <img src="https://external-preview.redd.it/ZGxyNzYwNDlnNGxlMS3gsmgmxbmNfv-1wwKXSx4YcEfki-UcJixFHXx8HKcU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cce23b46bb1e218d0f424a61ac24b16481d81045" alt="I made a display that shows stats from my app to keep me motivated" title="I made a display that shows stats from my app to keep me motivated" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/antonin_masek"> /u/antonin_masek </a> <br/> <span><a href="https://v.redd.it/3qtnqh58g4le1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix7jvh/i_made_a_display_that_shows_stats_from_my_app_to/">[comments]</a></span> </td></tr></table>
+
+## Please rate my Macro Statistics screen.
+ - [https://www.reddit.com/r/SideProject/comments/1ix7d5u/please_rate_my_macro_statistics_screen](https://www.reddit.com/r/SideProject/comments/1ix7d5u/please_rate_my_macro_statistics_screen)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:19:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ix7d5u/please_rate_my_macro_statistics_screen/"> <img src="https://preview.redd.it/aihjwryte4le1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3331ffedba6c52cf41d716e3b70d2bfeb9a1e7d7" alt="Please rate my Macro Statistics screen." title="Please rate my Macro Statistics screen." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mountain_Strike_7118"> /u/Mountain_Strike_7118 </a> <br/> <span><a href="https://i.redd.it/aihjwryte4le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix7d5u/please_rate_my_macro_statistics_screen/">[comments]</a></span> </td></tr></table>
+
+## I made an app that uses spotify data and the lastfm API to give you more and better recommendations for new music you've likely never heard before. It also has a youtube player that allows you to listen to all your music for free without spotify ads.
+ - [https://www.reddit.com/r/SideProject/comments/1ix771a/i_made_an_app_that_uses_spotify_data_and_the](https://www.reddit.com/r/SideProject/comments/1ix771a/i_made_an_app_that_uses_spotify_data_and_the)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:12:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ix771a/i_made_an_app_that_uses_spotify_data_and_the/"> <img src="https://b.thumbs.redditmedia.com/a78qlgG0_1q356BRytnI2qqkfS8C4pUs_qOKVU34jcw.jpg" alt="I made an app that uses spotify data and the lastfm API to give you more and better recommendations for new music you've likely never heard before. It also has a youtube player that allows you to listen to all your music for free without spotify ads." title="I made an app that uses spotify data and the lastfm API to give you more and better recommendations for new music you've likely never heard before. It also has a youtube player that allows you to listen to all your music for free without spotify ads." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RedOrchestra137"> /u/RedOrchestra137 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ix771a">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/com
+
+## Big Box of Party Games - Win minigames to make your friends do silly things
+ - [https://www.reddit.com/r/SideProject/comments/1ix6s9v/big_box_of_party_games_win_minigames_to_make_your](https://www.reddit.com/r/SideProject/comments/1ix6s9v/big_box_of_party_games_win_minigames_to_make_your)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:56:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a long history of abandoned software side projects. After the latest one, I was honestly tired of trying to do the same thing with my free time that I was doing for work, and with no results.</p> <p>A while ago, couple friends and I were hanging out, and someone said </p> <blockquote> <p>&quot;I wish there was a game that could be enjoyed by 3 to 20 people for house parties&quot;</p> </blockquote> <p>Obviously that already exists out there somewhere, but we also love building things, so we did! Over the past year, we&#39;ve spent tons of happy hours coming up with ideas, thinking of branding, designing the cards, play-testing games, and generally just hanging out and having fun.</p> <p>And so today, we have <a href="https://bigboxofpartygames.com">Big Box of Party Games</a>: </p> <ul> <li>100 minigames we all think are a ton of fun</li> <li>32 unique twists to make your friends do silly things when you win games</li> </ul> <p>It&#39;s been so 
+
+## Marketing 101
+ - [https://www.reddit.com/r/SideProject/comments/1ix6hq2/marketing_101](https://www.reddit.com/r/SideProject/comments/1ix6hq2/marketing_101)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:44:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ix6hq2/marketing_101/"> <img src="https://preview.redd.it/lzwbww5p84le1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9083706ea6362bcea0b13f87e660227a4482ec1c" alt="Marketing 101" title="Marketing 101" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Slight_Card6155"> /u/Slight_Card6155 </a> <br/> <span><a href="https://i.redd.it/lzwbww5p84le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix6hq2/marketing_101/">[comments]</a></span> </td></tr></table>
+
+## Free ATS Resume Builder Side project
+ - [https://www.reddit.com/r/SideProject/comments/1ix6cs0/free_ats_resume_builder_side_project](https://www.reddit.com/r/SideProject/comments/1ix6cs0/free_ats_resume_builder_side_project)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:39:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Your Resume, Your First Impression!</p> <p>Hey everyone! Back in my B.Tech days, I believed that a resume is the face of my job—HR sees it before they see me. So, I wanted to create a resume that truly stands out.</p> <p>I signed up on many websites, but none felt just right. That’s why I built my own resume builder—simple, clean, and effective. It is totally ATS Friendly.</p> <p>Many of my friends loved it and asked me to make it public. So, I did! No money, no sign-ups—just a free tool for everyone.</p> <p>Check it out only if you think it’s worth it! Just search “Resume Haveloc” and give it a try.</p> <p>Sample</p> <p><a href="https://resume.haveloc.com/sample_resume">https://resume.haveloc.com/sample_resume</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wise_Sun_5091"> /u/Wise_Sun_5091 </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1ix6cs0/free_ats_resume_builder_side_project/">
+
+## I FInally Released My App After 6 Months - Meet TaskHub
+ - [https://www.reddit.com/r/SideProject/comments/1ix6ah5/i_finally_released_my_app_after_6_months_meet](https://www.reddit.com/r/SideProject/comments/1ix6ah5/i_finally_released_my_app_after_6_months_meet)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:36:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone!</p> <p>So I finally did the thing! After 6 months of on-again-off-again work, Apple finally approved my app <a href="https://apps.apple.com/ca/app/taskhub-plan-your-tasks/id6740157355">TaskHub</a> today morning at 5am! </p> <p>Making an app has been on my bucket list forever but you know how it is... life gets busy, work drains you, and there&#39;s always that voice in your head like &quot;dude, who&#39;s gonna care about YOUR app?&quot; There was literally a whole month where I didn&#39;t touch the code because I was convinced I was wasting my time.</p> <p>The first version was straight-up GARBAGE lol. The UI looked like something from 2010, and not in a cool retro way. Had to trash the whole thing and restart, which sucked but was definitely the right call.</p> <p>Not gonna lie, hitting that &quot;publish&quot; button was terrifying. My finger hovered over it for a good 5 minutes while I panicked about all the bugs I probably missed.<
+
+## No marketing, no problem. Is it so?
+ - [https://www.reddit.com/r/SideProject/comments/1ix6a1q/no_marketing_no_problem_is_it_so](https://www.reddit.com/r/SideProject/comments/1ix6a1q/no_marketing_no_problem_is_it_so)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:35:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>I did some marketing research and asked B2B small business owners (mostly consulting) if they invest in marketing and where they get most of their new clients. Of the 200 business owners, only 10% actively invest in marketing, while the rest do nothing and work with personal connections.</p> <p>Based on their description it works the next way: My neighboor told my acquaintance and he told his and so on…. Whoopsie, you’re growing. </p> <p>But while connections can bring in clients, there are slight limitations:</p> <ol> <li>It’s not scalable enough, and quite unpredictable.</li> <li>don’t have a network in your target market? you’re pwned (here comes question: why enter that market at all? Not our problem).</li> </ol> <p>So, what&#39;s your personal experience? How do you deal with limits? Do you try marketing, and if so, what exactly do you do? What challenges do you face?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.
+
+## I was a Community Member of the year on Product Hunt (runner-up). Here is everything you should know:
+ - [https://www.reddit.com/r/SideProject/comments/1ix5zz1/i_was_a_community_member_of_the_year_on_product](https://www.reddit.com/r/SideProject/comments/1ix5zz1/i_was_a_community_member_of_the_year_on_product)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:24:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>Here are my 20 best Product Hunt launch tips + Playbook:</p> <ol> <li><p>No tips will save you if you don&#39;t have a good product, a clear website, and simple onboarding. </p></li> <li><p>You can&#39;t ask for upvotes, mass message users, or DM strangers on messengers. The PH team removes fake upvotes, and you might get disqualified completely </p></li> <li><p>Prepare all PH assets for your launch. </p></li> <li><p>Be active on PH (support others, create discussions, comment on others&#39; discussions). </p></li> <li><p>Create your Coming Soon page. Share it on social media, emails. </p></li> <li><p>Be active on social media. Post about your PH launch. </p></li> <li><p>Connect with people from PH on LinkedIn/Twitter. </p></li> <li><p>Clean your launch day and the day after that. </p></li> <li><p>Check your website, analytics, and the onboarding process. </p></li> <li><p>Check your welcome email sequence. </p></li> <li><p>Engage in real-time. </p></
+
+## 3 months ago, I was manually searching Reddit for leads. Now, my AI does it for me—and we just crossed $500 MRR!
+ - [https://www.reddit.com/r/SideProject/comments/1ix5vl8/3_months_ago_i_was_manually_searching_reddit_for](https://www.reddit.com/r/SideProject/comments/1ix5vl8/3_months_ago_i_was_manually_searching_reddit_for)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:19:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>When I started <a href="http://www.subredditsignals.com">Subreddit Signals</a>, my biggest frustration was wasting hours scrolling Reddit looking for places to promote my product. So I built an AI that does it for me.</p> <p>People loved it—but they wanted <strong>more control</strong>.</p> <p>Based on feedback, I just added two major features: ✅ <strong>Targeted subreddit scanning</strong> – Focus only on the communities that matter. ✅ <strong>AI-powered keyword search across ALL of Reddit</strong> – No more guessing where leads are hiding.</p> <p>This week, we crossed <strong>$500 MRR</strong> and I’m honestly kind of shocked!</p> <p>If you’re trying to grow on Reddit and want feedback, let me know—I’d love to help!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hello_code"> /u/hello_code </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1ix5vl8/3_months_ago_i_was_manually_searching_redd
+
+## Share Your Secret Company Stories on Unfiltered
+ - [https://www.reddit.com/r/SideProject/comments/1ix5oo4/share_your_secret_company_stories_on_unfiltered](https://www.reddit.com/r/SideProject/comments/1ix5oo4/share_your_secret_company_stories_on_unfiltered)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:11:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ix5oo4/share_your_secret_company_stories_on_unfiltered/"> <img src="https://external-preview.redd.it/cxpfkEGhpjsbEYEf3jKr246b4vf11akqgdDfhMddQ94.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=315f7a11b330c617e7decd2c48600f0c33c6b5ce" alt="Share Your Secret Company Stories on Unfiltered" title="Share Your Secret Company Stories on Unfiltered" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/antonscap"> /u/antonscap </a> <br/> <span><a href="https://www.thebyteshift.com/unfiltered">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix5oo4/share_your_secret_company_stories_on_unfiltered/">[comments]</a></span> </td></tr></table>
+
+## This went viral. AMA
+ - [https://www.reddit.com/r/SideProject/comments/1ix5jfl/this_went_viral_ama](https://www.reddit.com/r/SideProject/comments/1ix5jfl/this_went_viral_ama)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:05:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ix5jfl/this_went_viral_ama/"> <img src="https://external-preview.redd.it/dXQxMGg1ZWsxNGxlMY1JB34hQKFsh05N4cJC2sC3GHkuuI34eT0eQS4n7h8I.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4472d6d05cb868e50e964101d5b26236a0be78dc" alt="This went viral. AMA" title="This went viral. AMA" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I’m one of the developers of WillowVoice. com, and we built Willow to make writing as easy as speaking. You can use it anywhere on your computer—emails, messages, documents, Slack, and more. Here’s how it works: ✅ Instant Dictation: Press Function, speak, release. Willow works in any text box. 👋 Willow Assistant: Just say “Hey Willow” to use AI directly in your workflow with voice ✂️ Smart Editin Auto-formatting and auto-correction cut filler words and clean up your text. 🤫 Quiet Mode: Speak quietly, and Willow will still hear you perfectly. You can try it out for free!</p> </div><!-- 
+
+## when the domain you want is taken
+ - [https://www.reddit.com/r/SideProject/comments/1ix5ia4/when_the_domain_you_want_is_taken](https://www.reddit.com/r/SideProject/comments/1ix5ia4/when_the_domain_you_want_is_taken)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:04:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ix5ia4/when_the_domain_you_want_is_taken/"> <img src="https://external-preview.redd.it/QOJ666AYlJs91UlZA1nIXu7xPpX-NNM8sfnw634G7mI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=27e8e59b59a91f515a49bf431fc146e7ffef1ba0" alt="when the domain you want is taken" title="when the domain you want is taken" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/anandbaburajan"> /u/anandbaburajan </a> <br/> <span><a href="https://youtu.be/p6JJ_D_TJfQ?si=_fKGr6u516AUjd3F">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix5ia4/when_the_domain_you_want_is_taken/">[comments]</a></span> </td></tr></table>
+
+## I made a 3D Ski Map - Best alternative for FATMAP
+ - [https://www.reddit.com/r/SideProject/comments/1ix512h/i_made_a_3d_ski_map_best_alternative_for_fatmap](https://www.reddit.com/r/SideProject/comments/1ix512h/i_made_a_3d_ski_map_best_alternative_for_fatmap)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:44:26+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://reddit.com/link/1ix512h/video/cahwf5qzx3le1/player">Free 3D live navigation or planning</a></p> <p>And it&#39;s totally free! Only thing is the data processing is very intense so i just made 12 of the popular ski resorts to the service.</p> <p>Main features:</p> <ul> <li>ski resort navigation</li> <li>live location</li> <li>slope elevation (especially great for snowboarders)</li> <li>slope penalty system (for snowboarders to find the best slope)</li> <li>share a slope with fellow skiers or snowboarders</li> <li>share a resort</li> <li>searching amenities like toilets, restaurants and other places</li> </ul> <p>Upcoming features:</p> <ul> <li>draw on the map, custom unmapped trails that is great to freeride</li> <li>nicer ski-resort like style (it&#39;s actually very hard)</li> <li>easier navigation in 3D</li> </ul> <p>Please feedback what do you think! Here you can find <a href="https://bonvo.ski">https://bonvo.ski</a></p> </div><!--
+
+## My Donut Directory Side Project for the US - FindDonuts.com
+ - [https://www.reddit.com/r/SideProject/comments/1ix4txo/my_donut_directory_side_project_for_the_us](https://www.reddit.com/r/SideProject/comments/1ix4txo/my_donut_directory_side_project_for_the_us)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:35:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ix4txo/my_donut_directory_side_project_for_the_us/"> <img src="https://b.thumbs.redditmedia.com/W7x4C14Z_IcGVGNqI_ohNf1nDg7NIw5U5T-hHeEAhBM.jpg" alt="My Donut Directory Side Project for the US - FindDonuts.com" title="My Donut Directory Side Project for the US - FindDonuts.com" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hey <a href="/r/SideProject">r/SideProject</a>! I’ve been working on a small side project called <a href="https://finddonuts.com"><strong>FindDonuts.com</strong></a>, and I’m excited to finally share it.</p> <p>It’s basically a directory of around 20k donut shops across the US, where you can search by location and filter for things like vegan, gluten-free, drive-thru, etc. I built it using Next.js (server-side rendering) with a Postgres database, and I’m hosting it on a small VM.</p> <p>I’d love to eventually add menus for each shop, but that’s a bigger challenge than I expected (sourcin
+
+## EV / Gas vehicles US cost calculator
+ - [https://www.reddit.com/r/SideProject/comments/1ix3ypv/ev_gas_vehicles_us_cost_calculator](https://www.reddit.com/r/SideProject/comments/1ix3ypv/ev_gas_vehicles_us_cost_calculator)
+ - RSS feed: $source
+ - date published: 2025-02-24T14:58:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone, i created a car cost calculators that shows people their monthy and yearly gas cost per state. The prices are updated daily, taking an up to date gas prices when making the calculations.</p> <p>Do you find UI/UX usable and would it be useful tool for you when making your next car purchase?</p> <p><a href="https://www.usgasprice.com/cost-calculator">https://www.usgasprice.com/cost-calculator</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Organic_Cabinet_4108"> /u/Organic_Cabinet_4108 </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1ix3ypv/ev_gas_vehicles_us_cost_calculator/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix3ypv/ev_gas_vehicles_us_cost_calculator/">[comments]</a></span>
+
+## RenderCut.io has achieved $1700 in revenue in just 10 days
+ - [https://www.reddit.com/r/SideProject/comments/1ix3nmg/rendercutio_has_achieved_1700_in_revenue_in_just](https://www.reddit.com/r/SideProject/comments/1ix3nmg/rendercutio_has_achieved_1700_in_revenue_in_just)
+ - RSS feed: $source
+ - date published: 2025-02-24T14:44:55+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="http://RenderCut.io">RenderCut.io</a> has achieved <strong>$1700 in revenue</strong> in just 10 days. Below is a quick summary of our promotional process:</p> <ol> <li><strong>Contacted Former Users</strong>: We reached out to people who benefited from our older tools.</li> <li><strong>Reddit Announcements</strong>: We shared RenderCut on relevant subreddits.</li> <li><strong>Active in Facebook Groups</strong>: We highlighted our tool in targeted communities.</li> <li><strong>ProductHunt Debut</strong>: We collected feedback from early adopters.</li> <li><strong>BetaList Feature</strong>: We showcased our solution to startup fans.</li> <li><strong>Banner Cross-Promotion</strong>: Our co-founder placed a banner on a related product.</li> </ol> <p>We’re now exploring more extensive directories.</p> <p>Recent developments include:</p> <ul> <li><strong>Punctuation Support</strong> for better clarity</li> <li><strong>Increased File Limits</strong
+
+## RideBuddy – Carpooling App for College Students. Need Advice on Making It Usable for 100 Users!
+ - [https://www.reddit.com/r/SideProject/comments/1ix3dsd/ridebuddy_carpooling_app_for_college_students](https://www.reddit.com/r/SideProject/comments/1ix3dsd/ridebuddy_carpooling_app_for_college_students)
+ - RSS feed: $source
+ - date published: 2025-02-24T14:32:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ix3dsd/ridebuddy_carpooling_app_for_college_students/"> <img src="https://b.thumbs.redditmedia.com/OlWABZCYBezfdT3zopcrfMA4nR5R0xM_QXscTFheodI.jpg" alt="RideBuddy – Carpooling App for College Students. Need Advice on Making It Usable for 100 Users!" title="RideBuddy – Carpooling App for College Students. Need Advice on Making It Usable for 100 Users!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I&#39;ve been working on <strong>RideBuddy</strong>, a carpooling platform for college students. It basically helps students find and share rides to save money and make commuting easier.</p> <p>What it does:</p> <ul> <li>Students can post available seats or search for rides</li> <li>Helps split gas money and costs</li> <li>Has ratings and reviews for safety</li> </ul> <p>I built this because many students in a college get their cars , sometimes classes are get over early and my college is on a
+
+## Out of the 4 weeks of extension development, I used the extension itself to track my progress for 3 weeks.
+ - [https://www.reddit.com/r/SideProject/comments/1ix2n5u/out_of_the_4_weeks_of_extension_development_i](https://www.reddit.com/r/SideProject/comments/1ix2n5u/out_of_the_4_weeks_of_extension_development_i)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:58:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ix2n5u/out_of_the_4_weeks_of_extension_development_i/"> <img src="https://external-preview.redd.it/qKdXiK9mW9auoIbV0WKNivXTDnErNWl_OizT7Q-2XXk.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=90de47921b0cc46912e8d60322e458be2c071e29" alt="Out of the 4 weeks of extension development, I used the extension itself to track my progress for 3 weeks." title="Out of the 4 weeks of extension development, I used the extension itself to track my progress for 3 weeks." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hey everyone! 🚀</p> <p>I’m excited to share that I’ve finally launched my first Chrome extension! At the moment, my colleagues and I are actively using it in our daily work, and I’d love to hear your thoughts on it.</p> <p>The main idea behind the extension is to help with focus and boost productivity by breaking goals into micro-tasks. It also includes a non-strict website blocker, which allows you to step 
+
+## I made a super simple business idea validator
+ - [https://www.reddit.com/r/SideProject/comments/1ix2hhu/i_made_a_super_simple_business_idea_validator](https://www.reddit.com/r/SideProject/comments/1ix2hhu/i_made_a_super_simple_business_idea_validator)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:51:17+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Competitive_Tune_590"> /u/Competitive_Tune_590 </a> <br/> <span><a href="https://www.ideapulse.io">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix2hhu/i_made_a_super_simple_business_idea_validator/">[comments]</a></span>
+
+## Decided to Ditch the 9-5 and Go All In on Freelancing This Year (2025)!
+ - [https://www.reddit.com/r/SideProject/comments/1ix29mq/decided_to_ditch_the_95_and_go_all_in_on](https://www.reddit.com/r/SideProject/comments/1ix29mq/decided_to_ditch_the_95_and_go_all_in_on)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:40:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve made up my mind—I’m not gonna work a regular job this year. Instead, I’m diving into freelancing and trying different ways to make money. Right now, my focus is on getting as many clients as possible through Discord, Facebook, or wherever I can find them.</p> <p>I’ve gotten some solid tips from someone who is making good money via freelancing, so I’ll be applying those strategies. For now, I’m working alongside my friends to make money together, and we’re mainly offering AI-based solutions like:</p> <p>• <strong>Chatbots &amp; AI automations</strong></p> <p>• <strong>Web development</strong></p> <p>• <strong>App development</strong></p> <p>If anyone is serious about freelancing and wants to join our group, hit me up! Let’s work together and make some real money.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Haudegamers"> /u/Haudegamers </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comment
+
+## Gauging interest on a misinformation extension
+ - [https://www.reddit.com/r/SideProject/comments/1ix25c2/gauging_interest_on_a_misinformation_extension](https://www.reddit.com/r/SideProject/comments/1ix25c2/gauging_interest_on_a_misinformation_extension)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:34:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi guys, I&#39;ve pulled together a team to work on a project but before developing software we wanted to see how many of you would be interested in a free web extension that identifies misinformation as you browse through social media and even academic papers. It wouldn&#39;t hide posts, simply aims to inform you of when you&#39;re being influenced by biased posts. What do you think?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Traditional_Sea_3041"> /u/Traditional_Sea_3041 </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1ix25c2/gauging_interest_on_a_misinformation_extension/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix25c2/gauging_interest_on_a_misinformation_extension/">[comments]</a></span>
+
+## Cycle cofounders every month intentionally?
+ - [https://www.reddit.com/r/SideProject/comments/1ix2235/cycle_cofounders_every_month_intentionally](https://www.reddit.com/r/SideProject/comments/1ix2235/cycle_cofounders_every_month_intentionally)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:30:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Only somewhat theoretical question. Im a technical guy who built a b2c app that is gaining traction, but its still in beta and below 500 users.</p> <p>I have people reaching out asking to help out with marketing or just ask directly to be cofounders. Its still pre revenue, there is no company, none of that.</p> <p>What exactly stops me from just working with one girl for a month and then say something like &quot;i dont think its gonna work out&quot; and move onto the next guy? I would learn marketing with a lot of different approaches, my app would move further and further and I retain all the equity. ALso the further the &quot;business&quot; moves along the better people I get access to for less and less potentially equity.</p> <p>I get that in &quot;serious&quot; startups it wouldnt work. With contracts, cliffs and all. But I feel a lot of projects are not at that stage.</p> <p>Ive been cycling myself through some of these projects and they (probab
+
+## Built a AI Expense Tracker
+ - [https://www.reddit.com/r/SideProject/comments/1ix1ukt/built_a_ai_expense_tracker](https://www.reddit.com/r/SideProject/comments/1ix1ukt/built_a_ai_expense_tracker)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:20:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have created a AI expense tracker using telegram. It took me around 15 days to built it with Courser as I don’t have any coding knowledge.</p> <p>It can effortlessly track expenses via text, voice, or receipts, it’s your free, smart Telegram AI assistant that auto-categorizes spending, syncs to Google Sheets, and keeps your budget on track, anytime, anywhere!</p> <p>Do try it out and let me know your reviews -</p> <p><a href="https://www.producthunt.com/posts/munimji">https://www.producthunt.com/posts/munimji</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Full-Pie-3517"> /u/Full-Pie-3517 </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1ix1ukt/built_a_ai_expense_tracker/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix1ukt/built_a_ai_expense_tracker/">[comments]</a></span>
+
+## Simple websites make money, not mine though !
+ - [https://www.reddit.com/r/SideProject/comments/1ix1nsw/simple_websites_make_money_not_mine_though](https://www.reddit.com/r/SideProject/comments/1ix1nsw/simple_websites_make_money_not_mine_though)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:10:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ix1nsw/simple_websites_make_money_not_mine_though/"> <img src="https://preview.redd.it/nzl8lqkl63le1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=24a65786beb1f30ba96bfb3e16dc37fa01ee8527" alt="Simple websites make money, not mine though !" title="Simple websites make money, not mine though !" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/metabhai"> /u/metabhai </a> <br/> <span><a href="https://i.redd.it/nzl8lqkl63le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix1nsw/simple_websites_make_money_not_mine_though/">[comments]</a></span> </td></tr></table>
+
+## Idea: A Chrome Extension to Filter Out AI Slop & Bot Spam from Social Media
+ - [https://www.reddit.com/r/SideProject/comments/1ix1jzu/idea_a_chrome_extension_to_filter_out_ai_slop_bot](https://www.reddit.com/r/SideProject/comments/1ix1jzu/idea_a_chrome_extension_to_filter_out_ai_slop_bot)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:05:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Social media’s getting overrun with AI-generated profiles and bot spam. What if there was a Chrome extension that filters out AI slop in real time so you only see human-made posts?</p> <p>Anyone know if something like this exists? Or is anyone working on it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Extension_Positive64"> /u/Extension_Positive64 </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1ix1jzu/idea_a_chrome_extension_to_filter_out_ai_slop_bot/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix1jzu/idea_a_chrome_extension_to_filter_out_ai_slop_bot/">[comments]</a></span>
+
+## Need help with a personal project.
+ - [https://www.reddit.com/r/SideProject/comments/1ix1hlk/need_help_with_a_personal_project](https://www.reddit.com/r/SideProject/comments/1ix1hlk/need_help_with_a_personal_project)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:01:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am currently working on a marketplace project where payments will be made via Pi Network, a cryptocurrency. The goal is to allow users to buy and sell goods/services using Pi Network as a payment method. The project is still in its early stages, and I’m a bit lost and not sure where to start. Therefore, I am looking for people to help me structure and develop this site, preferably French speakers.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Complex_Whole_2011"> /u/Complex_Whole_2011 </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1ix1hlk/need_help_with_a_personal_project/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix1hlk/need_help_with_a_personal_project/">[comments]</a></span>
+
+## Free YouTube/Web Summarizer with Grok3 & More. No Paywalls!
+ - [https://www.reddit.com/r/SideProject/comments/1ix1d6n/free_youtubeweb_summarizer_with_grok3_more_no](https://www.reddit.com/r/SideProject/comments/1ix1d6n/free_youtubeweb_summarizer_with_grok3_more_no)
+ - RSS feed: $source
+ - date published: 2025-02-24T12:55:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ix1d6n/free_youtubeweb_summarizer_with_grok3_more_no/"> <img src="https://external-preview.redd.it/bG40eG1kMm8xM2xlMc_8b4NSZDjy-1AWa1pPxIq_lDhqqM3y-2GnUA9SFJMo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=de2fc4e6c2aaac5f1ee612c0fe39a040233b492f" alt="Free YouTube/Web Summarizer with Grok3 &amp; More. No Paywalls!" title="Free YouTube/Web Summarizer with Grok3 &amp; More. No Paywalls!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DMG2701"> /u/DMG2701 </a> <br/> <span><a href="https://v.redd.it/ibn3xf2o13le1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix1d6n/free_youtubeweb_summarizer_with_grok3_more_no/">[comments]</a></span> </td></tr></table>
+
+## I developed linkedin ai post generation tools within 2 weeks.
+ - [https://www.reddit.com/r/SideProject/comments/1ix0ybt/i_developed_linkedin_ai_post_generation_tools](https://www.reddit.com/r/SideProject/comments/1ix0ybt/i_developed_linkedin_ai_post_generation_tools)
+ - RSS feed: $source
+ - date published: 2025-02-24T12:32:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey folks! 👋</p> <p>I’ve been working on <a href="http://postgen.pro">PostGen</a>, an AI tool that helps you easily create viral LinkedIn posts.</p> <p>Most LinkedIn post generators out there are overpriced, lack features, and don’t deliver great results. So, I built <strong>PostGen</strong> using a custom fine-tuned LLM (still improving it) to solve that. It’s simple, effective, and actually works.</p> <p>I’m also working on a <strong>premium version</strong> with more features and even better output. Would love your feedback or ideas! 🙌</p> <p>Cheers! 🚀</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gravity_over"> /u/gravity_over </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1ix0ybt/i_developed_linkedin_ai_post_generation_tools/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix0ybt/i_developed_linkedin_ai_post_generation_tools/">[comments]</a><
+
+## Built a directory of tools for creators
+ - [https://www.reddit.com/r/SideProject/comments/1ix0itt/built_a_directory_of_tools_for_creators](https://www.reddit.com/r/SideProject/comments/1ix0itt/built_a_directory_of_tools_for_creators)
+ - RSS feed: $source
+ - date published: 2025-02-24T12:07:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone, I kept hunting for the best tools for <strong>marketing, automation, productivity, and monetization</strong>—so I decided to put them all in one place.<br/> I built <a href="https://creatortoolkit.org"><strong>CreatorToolkit.org</strong></a> – a growing directory of tools made for <strong>creators, indie hackers, and solopreneurs</strong>. If you have a tool that helps creators, you can submit it—keeping it <strong>high quality, no spam.</strong><br/> Enjoy 👍</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Apprehensive_Ebb2233"> /u/Apprehensive_Ebb2233 </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1ix0itt/built_a_directory_of_tools_for_creators/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix0itt/built_a_directory_of_tools_for_creators/">[comments]</a></span>
+
+## Why Am I The Way I Am, Or Bare Metal Analytics on a Homelab
+ - [https://www.reddit.com/r/SideProject/comments/1ix0bqf/why_am_i_the_way_i_am_or_bare_metal_analytics_on](https://www.reddit.com/r/SideProject/comments/1ix0bqf/why_am_i_the_way_i_am_or_bare_metal_analytics_on)
+ - RSS feed: $source
+ - date published: 2025-02-24T11:55:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ix0bqf/why_am_i_the_way_i_am_or_bare_metal_analytics_on/"> <img src="https://external-preview.redd.it/MAE6XR2hReBLDxzCiWCwgSm0ipqX_UvqZDsoJzX6w5s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c86a57eab60abbbaabaff004ad743336ed11ec1" alt="Why Am I The Way I Am, Or Bare Metal Analytics on a Homelab" title="Why Am I The Way I Am, Or Bare Metal Analytics on a Homelab" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/polluterofminds"> /u/polluterofminds </a> <br/> <span><a href="https://orbiter.host/blog/why-am-i-the-way-i-am-or-bare-metal-analytics-on-a-homelab/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1ix0bqf/why_am_i_the_way_i_am_or_bare_metal_analytics_on/">[comments]</a></span> </td></tr></table>
+
+## Pixcrit is launching today - Effortlessly gather, manage, and resolve UI design feedback directly on your deployed web apps
+ - [https://www.reddit.com/r/SideProject/comments/1ix0as3/pixcrit_is_launching_today_effortlessly_gather](https://www.reddit.com/r/SideProject/comments/1ix0as3/pixcrit_is_launching_today_effortlessly_gather)
+ - RSS feed: $source
+ - date published: 2025-02-24T11:53:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1ix0as3/pixcrit_is_launching_today_effortlessly_gather/"> <img src="https://external-preview.redd.it/NMMk88QFCDD-7mu1rectGYwUWMuf4vjx5b_fACKCcB4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ed75dc8b31ae28d3b6b5d1181cadfeb7672b9dd" alt="Pixcrit is launching today - Effortlessly gather, manage, and resolve UI design feedback directly on your deployed web apps" title="Pixcrit is launching today - Effortlessly gather, manage, and resolve UI design feedback directly on your deployed web apps" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hey! I&#39;m Saran, creator of Pixcrit, and I&#39;m excited to share my latest project with you.</p> <p>Pixcrit is a platform to share feedback on deployed web apps.</p> <p><a href="https://reddit.com/link/1ix0as3/video/0ip1x3jss2le1/player">https://reddit.com/link/1ix0as3/video/0ip1x3jss2le1/player</a></p> <p>Here&#39;s what makes it unique:</p> <p>* Centralized feedback -
+
+## Need inputs on a side project idea
+ - [https://www.reddit.com/r/SideProject/comments/1ix037c/need_inputs_on_a_side_project_idea](https://www.reddit.com/r/SideProject/comments/1ix037c/need_inputs_on_a_side_project_idea)
+ - RSS feed: $source
+ - date published: 2025-02-24T11:40:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys , hope you all are well. I&#39;ve been running out of ideas to build as a side project. I recently had this idea on my mind where , in my case , I lose track of my progress over the day. I&#39;m a guy who always has tons of browser tabs active. So I thought what if at the end of my day , I couls visualise my browser activity.</p> <p>Simply put , the app or extension, would map my activities during that day, in the browser, to a graph-ish representation, maybe consisting of nodes or directed arrows. More like how you create mind mappings. This could further be extended to map these tasks to the daily goals you&#39;ve set. So that you have an idea of your progress.</p> <p>Does it sound like a good project? I was also thinking of integrating an llm perhaps to make it more useful somehow </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TamePoocha"> /u/TamePoocha </a> <br/> <span><a href="https://www.reddit.
+
+## Food bulletin board - promote/buy/sell food products
+ - [https://www.reddit.com/r/SideProject/comments/1iwzf4a/food_bulletin_board_promotebuysell_food_products](https://www.reddit.com/r/SideProject/comments/1iwzf4a/food_bulletin_board_promotebuysell_food_products)
+ - RSS feed: $source
+ - date published: 2025-02-24T10:56:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1iwzf4a/food_bulletin_board_promotebuysell_food_products/"> <img src="https://external-preview.redd.it/tUi-uHIhlLYguFjqbTfgeq1_FUl41j1pjwCVeqNmvZA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=caa56711dd551959c6d05010fe50124ddef9558f" alt="Food bulletin board - promote/buy/sell food products" title="Food bulletin board - promote/buy/sell food products" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/watchmejump"> /u/watchmejump </a> <br/> <span><a href="https://agriquery.com">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1iwzf4a/food_bulletin_board_promotebuysell_food_products/">[comments]</a></span> </td></tr></table>
+
+## What’s your go-to strategy for making sure your affiliate commissions are properly recorded on Shopify?
+ - [https://www.reddit.com/r/SideProject/comments/1iwzela/whats_your_goto_strategy_for_making_sure_your](https://www.reddit.com/r/SideProject/comments/1iwzela/whats_your_goto_strategy_for_making_sure_your)
+ - RSS feed: $source
+ - date published: 2025-02-24T10:55:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Nothing&#39;s worse than missing out on commissions due to tracking issues. Do you rely on specific apps, custom scripts, or manual checks to ensure everything runs smoothly? Let’s share tips to keep things accurate and hassle-free!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Annashah598"> /u/Annashah598 </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1iwzela/whats_your_goto_strategy_for_making_sure_your/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1iwzela/whats_your_goto_strategy_for_making_sure_your/">[comments]</a></span>
+
+## A big clean directory of 300+ no code tools & builders
+ - [https://www.reddit.com/r/SideProject/comments/1iwz19u/a_big_clean_directory_of_300_no_code_tools](https://www.reddit.com/r/SideProject/comments/1iwz19u/a_big_clean_directory_of_300_no_code_tools)
+ - RSS feed: $source
+ - date published: 2025-02-24T10:29:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>I ended up compiling a bunch of no code tools/apps/builders/software and made them in a big clean directory of 300+ products.</p> <p>I&#39;ve also included a place where people can submit their own project (as long as they are no-code or low-code - I will be reviewing each submission!)</p> <p>Obviously it doesn&#39;t capture every single tool out there at the moment as new ones are being introduced everyday but hopefully it does catch some of the big players as well as a bunch of the indie tools.</p> <p>Here it is - <a href="https://hownocode.com/">https://hownocode.com/</a></p> <p>Have fun!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/suirare"> /u/suirare </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1iwz19u/a_big_clean_directory_of_300_no_code_tools/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1iwz19u/a_big_clean_directory_of_300_no_code_to
+
+## Best way to test if users will actually stick with a product?
+ - [https://www.reddit.com/r/SideProject/comments/1iwykmz/best_way_to_test_if_users_will_actually_stick](https://www.reddit.com/r/SideProject/comments/1iwykmz/best_way_to_test_if_users_will_actually_stick)
+ - RSS feed: $source
+ - date published: 2025-02-24T09:58:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m building a product focused on app discovery, digital reputation &amp; engagement. One thing I want to get right is how to validate whether users will actually come back and not just try it once and leave.</p> <p>For people who’ve launched products:</p> <ul> <li>How did you test retention before launch?</li> <li>What’s worked best for increasing engagement early on?</li> </ul> <p>Would love to hear insights from founders, builders, and anyone working on engagement!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chenaskiii"> /u/chenaskiii </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1iwykmz/best_way_to_test_if_users_will_actually_stick/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1iwykmz/best_way_to_test_if_users_will_actually_stick/">[comments]</a></span>
+
+## Terminal Business Card
+ - [https://www.reddit.com/r/SideProject/comments/1iwyfra/terminal_business_card](https://www.reddit.com/r/SideProject/comments/1iwyfra/terminal_business_card)
+ - RSS feed: $source
+ - date published: 2025-02-24T09:48:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1iwyfra/terminal_business_card/"> <img src="https://preview.redd.it/cf09w23l62le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e21b33f945377e95ca41585efa8313cdaf338418" alt="Terminal Business Card" title="Terminal Business Card" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Fork this and make your own: <a href="https://github.com/amitmerchant1990/amitmerchant">https://github.com/amitmerchant1990/amitmerchant</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/amitmerchant"> /u/amitmerchant </a> <br/> <span><a href="https://i.redd.it/cf09w23l62le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1iwyfra/terminal_business_card/">[comments]</a></span> </td></tr></table>
+
+## How do you make your small business visible?
+ - [https://www.reddit.com/r/SideProject/comments/1iwy89g/how_do_you_make_your_small_business_visible](https://www.reddit.com/r/SideProject/comments/1iwy89g/how_do_you_make_your_small_business_visible)
+ - RSS feed: $source
+ - date published: 2025-02-24T09:33:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Want to make your small business more visible online? Start by building a strong foundation with a well-optimized website. Use simple, clear content that answers your customers’ questions and naturally includes keywords they search for. Consistent blogging and creating helpful, shareable content boost your credibility and authority in your industry.</p> <p>Don’t forget about Google My Business! Its a powerful (and free) tool to show up in local searches. Encourage satisfied customers to leave reviews they build trust and improve rankings.</p> <p>Social media also plays a big role. Engage with your audience on platforms where they spend their time, and share your expertise through valuable posts.</p> <p>I’ve been helping businesses grow their online presence for over 10 years, and if you need any guidance, I offer free consultations. Just drop me a message I’d love to help your business shine!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=
+
+## I sold my Saa for $800k. Here is how.
+ - [https://www.reddit.com/r/SideProject/comments/1iwxdd9/i_sold_my_saa_for_800k_here_is_how](https://www.reddit.com/r/SideProject/comments/1iwxdd9/i_sold_my_saa_for_800k_here_is_how)
+ - RSS feed: $source
+ - date published: 2025-02-24T08:31:15+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/alexanderisora"> /u/alexanderisora </a> <br/> <span><a href="/r/BootstrappedSaaS/comments/1iwxcom/i_sold_my_saa_for_800k_here_is_how/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1iwxdd9/i_sold_my_saa_for_800k_here_is_how/">[comments]</a></span>
+
+## Latest update on the 7-day startup challenge
+ - [https://www.reddit.com/r/SideProject/comments/1iwxbbq/latest_update_on_the_7day_startup_challenge](https://www.reddit.com/r/SideProject/comments/1iwxbbq/latest_update_on_the_7day_startup_challenge)
+ - RSS feed: $source
+ - date published: 2025-02-24T08:27:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>Over the holiday period, I debuted an interesting challenge on Reddit - <strong>The 7-day Startup Challenge</strong> (link to previous post attached below). <strong>The 7-Day Startup Challenge</strong> is an effort to help anyone become a startup founder by launching a brand new startup within 7 days leveraging your existing ideas or working together to generate fresh startup ideas based on your interests &amp; passions. I accomplished this by focusing most builds using no-code platforms like Bubble, Softr &amp; Glide and AI APIs from OpenAI, Hugging Face, Mistral &amp; DeepSeek. </p> <p>Here are the general stats since the debut across Reddit:</p> <ol> <li>185+ unique inquiries (and still counting)</li> <li>22+ apps and platforms built (27+ ongoing development) </li> <li>36+ inquiries under active discussion (interested/ready to begin within the next few weeks or months) </li> <li>The rest (exploring, undecided, unresponsive, waiting, not ready yet,
+
+## I made my LDR girlfriend a game to help us get closer, thoughts?
+ - [https://www.reddit.com/r/SideProject/comments/1iwwyxw/i_made_my_ldr_girlfriend_a_game_to_help_us_get](https://www.reddit.com/r/SideProject/comments/1iwwyxw/i_made_my_ldr_girlfriend_a_game_to_help_us_get)
+ - RSS feed: $source
+ - date published: 2025-02-24T08:02:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1iwwyxw/i_made_my_ldr_girlfriend_a_game_to_help_us_get/"> <img src="https://external-preview.redd.it/eDRyOXlwZTRuMWxlMUUFV9k1d2dvkSR6k9pyum73sXSl6TSWNfqWU-gss5YJ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=97e20fef46bdcdd9846b89d3afde103bb9f68026" alt="I made my LDR girlfriend a game to help us get closer, thoughts?" title="I made my LDR girlfriend a game to help us get closer, thoughts?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/matt8p"> /u/matt8p </a> <br/> <span><a href="https://v.redd.it/pislhmkwm1le1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1iwwyxw/i_made_my_ldr_girlfriend_a_game_to_help_us_get/">[comments]</a></span> </td></tr></table>
+
+## From 0 to 100+ Users in 3 Weeks: Building an AI Reddit Lead Generation Tool
+ - [https://www.reddit.com/r/SideProject/comments/1iwwuhj/from_0_to_100_users_in_3_weeks_building_an_ai](https://www.reddit.com/r/SideProject/comments/1iwwuhj/from_0_to_100_users_in_3_weeks_building_an_ai)
+ - RSS feed: $source
+ - date published: 2025-02-24T07:53:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey Reddit,</p> <p>3 weeks ago I launched SneakyGuy in the sales automation space. I saw salespeople struggling with manual Reddit prospecting and built an AI tool to automate it.</p> <p>SneakyGuy finds relevant Reddit discussions and analyzes them with AI to identify genuine prospects saving 50+ hours/month in manual prospecting work.</p> <p>Growth journey:</p> <ul> <li>Week 1: Started with direct Reddit DMs to sales professionals discussing prospecting challenges</li> <li>Week 2: Expanded to Twitter, sharing real examples of leads found through our tool</li> <li>Week 3: LinkedIn outreach showing ROI (50+ qualified leads/hour vs manual searching)</li> </ul> <p>Now at 100+ users, with most using it daily to find customers on Reddit.</p> <p>TLDR:</p> <ul> <li>Direct outreach on Reddit/Twitter</li> <li>Focus on solving specific pain point</li> <li>Show concrete time savings</li> <li>Real results &gt; fancy marketing</li> </ul> <p>Keep building!</p> </d
+
+## Easily build and deploy an AI Agent in under 5 minutes
+ - [https://www.reddit.com/r/SideProject/comments/1iwwq0s/easily_build_and_deploy_an_ai_agent_in_under_5](https://www.reddit.com/r/SideProject/comments/1iwwq0s/easily_build_and_deploy_an_ai_agent_in_under_5)
+ - RSS feed: $source
+ - date published: 2025-02-24T07:44:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey folks!</p> <p>We&#39;re building <a href="http://trytruffle.ai">trytruffle.ai</a>, a platform where you can build and deploy AI agents in minutes. Our goal is to make it easy for developers to integrate agent functionality into any application. Early on, we realized that there is a lot of buzz around agents but it comes with a steep learning curve to actually building one. Moreover, making an agent that you can deploy and work with comes with a whole lot of infra challenges. To solve this, we&#39;re making it super easy by giving you a fully managed platform, along with pre-built agents and integrations allowing you to focus on innovating instead of setting up infra. </p> <p>If you&#39;re a developer, we also have an SDK and some examples to show how easy it is to build with us.<br/> SDK - <a href="https://github.com/truffle-ai/truffle-ai-sdk">https://github.com/truffle-ai/truffle-ai-sdk</a><br/> Examples - <a href="https://github.com/truffle-ai/
+
+## Struggling with user drop offs? User onboarding? Low engagement? Retention is less? Subscription and paywall is not working?
+ - [https://www.reddit.com/r/SideProject/comments/1iwwkta/struggling_with_user_drop_offs_user_onboarding](https://www.reddit.com/r/SideProject/comments/1iwwkta/struggling_with_user_drop_offs_user_onboarding)
+ - RSS feed: $source
+ - date published: 2025-02-24T07:33:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey founders &amp; SaaS creators!</p> <p>If user drop-offs, clunky onboarding, or low engagement are slowing down your growth, I’m here to help. I’m a Product Growth Designer who works with startups to turn these challenges into opportunities — simplifying user journeys, boosting retention, and creating experiences that users actually love. From streamlining complex workflows to increasing conversions, I design with growth in mind.</p> <p>If this sounds familiar, <strong>message me</strong> — let’s tackle it together!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nitesh_uxdesigner"> /u/nitesh_uxdesigner </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1iwwkta/struggling_with_user_drop_offs_user_onboarding/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1iwwkta/struggling_with_user_drop_offs_user_onboarding/">[comments]</a></span>
+
+## CoWriter: A Tool to Accelerate Writing with Local LLMs or OpenAI
+ - [https://www.reddit.com/r/SideProject/comments/1iwvyxz/cowriter_a_tool_to_accelerate_writing_with_local](https://www.reddit.com/r/SideProject/comments/1iwvyxz/cowriter_a_tool_to_accelerate_writing_with_local)
+ - RSS feed: $source
+ - date published: 2025-02-24T06:53:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1iwvyxz/cowriter_a_tool_to_accelerate_writing_with_local/"> <img src="https://external-preview.redd.it/dGZ5N2xlbDhiMWxlMQ0sDe5dwKE86Yzm-RvEcErv0PoxXcywAFNRebUwio_s.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=df8687255345a076e578f86239542f518c075e47" alt="CoWriter: A Tool to Accelerate Writing with Local LLMs or OpenAI" title="CoWriter: A Tool to Accelerate Writing with Local LLMs or OpenAI" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aadityaubhat"> /u/aadityaubhat </a> <br/> <span><a href="https://v.redd.it/9ikrhtk8b1le1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1iwvyxz/cowriter_a_tool_to_accelerate_writing_with_local/">[comments]</a></span> </td></tr></table>
+
+## Does anyone else feel like spotting new business opportunities is just pure luck?
+ - [https://www.reddit.com/r/SideProject/comments/1iwuz8r/does_anyone_else_feel_like_spotting_new_business](https://www.reddit.com/r/SideProject/comments/1iwuz8r/does_anyone_else_feel_like_spotting_new_business)
+ - RSS feed: $source
+ - date published: 2025-02-24T05:47:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>I don’t know if it’s just me, but every time I see a new business blow up, I think: &quot;How did I not see this coming?&quot;</p> <p>Lately, I’ve been wondering if there’s a pattern to how new opportunities emerge. Like, certain topics gaining traction in niche forums, specific keywords suddenly trending on Google, or products quietly taking off in marketplaces before they go mainstream.</p> <p>If there was a way to catch these early signals before everyone else, do you think it would be useful? Has anyone here tried analyzing trends to spot opportunities before they explode? Would love to hear if anyone has strategies for staying ahead of the curve.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Green-Attention-1469"> /u/Green-Attention-1469 </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1iwuz8r/does_anyone_else_feel_like_spotting_new_business/">[link]</a></span> &#32; <span><a href="
+
+## Built a User Generated Content Marketplace for Brands/Creators – Would Love Your Brutal Feedback
+ - [https://www.reddit.com/r/SideProject/comments/1iwtygh/built_a_user_generated_content_marketplace_for](https://www.reddit.com/r/SideProject/comments/1iwtygh/built_a_user_generated_content_marketplace_for)
+ - RSS feed: $source
+ - date published: 2025-02-24T04:45:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve been building <strong>S</strong>lyte – a marketplace where brands can hire <strong>vetted UGC creators</strong> for product reviews, unboxings, and more.</p> <p><strong>Stats so far:</strong><br/> ✅ <strong>1,200+ creators</strong> onboard (mostly nano/micro-influencers)<br/> <strong>How it works:</strong></p> <ol> <li>Brands post their product/requirements</li> <li>Creators apply with portfolios </li> <li>Brands pick someone, pay securely, and get content</li> </ol> <p><strong>Why I’m here:</strong><br/> I need <strong>your feedback</strong> to make this thing actually useful. -&gt; <a href="https://slyte.io/?utm_source=reddit&amp;utm_medium=post&amp;utm_campaign=redditlove">Slyte.io</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/africanrainbows"> /u/africanrainbows </a> <br/> <span><a href="https://www.reddit.com/r/SideProject/comments/1iwtygh/built_a_user_generated_content_marketplace_for/">[link]</
+
+## I have made a Google Maps Scraper that also supports Google Reviews scraping!
+ - [https://www.reddit.com/r/SideProject/comments/1iwori5/i_have_made_a_google_maps_scraper_that_also](https://www.reddit.com/r/SideProject/comments/1iwori5/i_have_made_a_google_maps_scraper_that_also)
+ - RSS feed: $source
+ - date published: 2025-02-24T00:15:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1iwori5/i_have_made_a_google_maps_scraper_that_also/"> <img src="https://external-preview.redd.it/eW9tcTExMzZjemtlMZNKasPhT2p6tTLEhUn2HMxRNDtR4eu-tCqeF9At3JqV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9c306f4413cf0146f31f9fc74646542588299510" alt="I have made a Google Maps Scraper that also supports Google Reviews scraping!" title="I have made a Google Maps Scraper that also supports Google Reviews scraping!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Boby-cat"> /u/Boby-cat </a> <br/> <span><a href="https://v.redd.it/j4fgmw26czke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1iwori5/i_have_made_a_google_maps_scraper_that_also/">[comments]</a></span> </td></tr></table>
+
+## Based On True Events
+ - [https://www.reddit.com/r/SideProject/comments/1iwoksw/based_on_true_events](https://www.reddit.com/r/SideProject/comments/1iwoksw/based_on_true_events)
+ - RSS feed: $source
+ - date published: 2025-02-24T00:05:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SideProject/comments/1iwoksw/based_on_true_events/"> <img src="https://preview.redd.it/65rq8xpgazke1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3be38b5fb651763ec00583f9966ecdd1b2c9cd7c" alt="Based On True Events" title="Based On True Events" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Slight_Card6155"> /u/Slight_Card6155 </a> <br/> <span><a href="https://i.redd.it/65rq8xpgazke1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SideProject/comments/1iwoksw/based_on_true_events/">[comments]</a></span> </td></tr></table>
+

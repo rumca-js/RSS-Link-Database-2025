@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-24T08:13:04+00:00",
+        "description": "<img src=\"https://defcon.org/images/defcon-main/post-images/lawsuit-update.webp\" alt=\"DEF CON legal update\"/> \n<br />        \n    <p>It's been a while since our last update - a lot has been going on behind the scenes - and with the discovery phase complete we have filed a motion for summary judgement asking the court to dismiss his lawsuit. In it we reveal some of the identities of those who testified regarding their experiences with Chris, and I would like to personally thank them for standing up for our community when remaining silent would have been easier.<br>\n    <br>\n\n    The legal standard for evaluating a summary judgement motion means giving the benefit of the doubt to the nonmoving party (Hadnagy) on all disputed facts. Because of this we focused on the undisputed facts, including the documents and deposition testimony, that Chris can't deny.<br><br>\n\n    Should this motion fail then we would start preparing for trial, and end up arguing over the disputed facts as well. Bot",
+        "id": 2188048,
+        "language": "en",
+        "link": "https://storage.courtlistener.com/recap/gov.uscourts.wawd.329575/gov.uscourts.wawd.329575.83.0.pdf",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 82,
+        "source_url": "https://defcon.org/defconrss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Chris Hadnagy vs. DEF CON Lawsuit update",
+        "vote": 0
+    }
+]

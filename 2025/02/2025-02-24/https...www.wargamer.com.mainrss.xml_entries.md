@@ -1,0 +1,107 @@
+# Source:Wargamer, URL:https://www.wargamer.com/mainrss.xml, language:en-US
+
+## Elden Ring board game review - a promising yet tarnished adventure
+ - [https://www.wargamer.com/elden-ring-board-game/review-realm-of-the-grafted-king](https://www.wargamer.com/elden-ring-board-game/review-realm-of-the-grafted-king)
+ - RSS feed: $source
+ - date published: 2025-02-24T18:01:49+00:00
+
+<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2025/02/elden-ring-board-game-review2.jpg" class="webfeedsFeaturedVisual" alt="Elden Ring board game review - a promising yet tarnished adventure" title="Elden Ring board game review - a promising yet tarnished adventure">
+								<p>Pre-orders for Steamforged Games’ <strong>The Elden Ring board game</strong> go live today, and I’ve been hard at play working my way through the core box campaign. If you’re wondering whether you should splash some cash on this hefty cube of cards and minis and dive once more into the land of Limgrave, read on!</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/elden-ring-board-game/review-realm-of-the-grafted-king">Elden Ring board game review - a promising yet tarnished adventure</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/best-board-games">Best board games</a>, <a href="https://www.wargamer.com/board-games-for-adults
+
+## Baldur’s Gate 3 modders are adapting legendary adventure Curse of Strahd
+ - [https://www.wargamer.com/baldurs-gate-3/project-strahd-mod](https://www.wargamer.com/baldurs-gate-3/project-strahd-mod)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:39:35+00:00
+
+<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2025/02/bg3-project-strahd-mod-1.jpg" class="webfeedsFeaturedVisual" alt="Baldur&#8217;s Gate 3 modders are adapting legendary adventure Curse of Strahd" title="Baldur&#8217;s Gate 3 modders are adapting legendary adventure Curse of Strahd">
+								<p>Watch out, Astarion - another vampiric sex symbol is making his way to <strong>Baldur’s Gate 3</strong>, and he’s even more of a morally grey hot mess than you are. A new modding community, Project Strahd, has announced its plans to adapt the iconic DnD adventure ‘Curse of Strahd’ from the tabletop game and into BG3.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/baldurs-gate-3/project-strahd-mod">Baldur&#8217;s Gate 3 modders are adapting legendary adventure Curse of Strahd</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/dnd/2024-players-handbook-review">DnD 2024 Player's Handbook review</a>, <a href=
+
+## Pokémon TCG EUIC champion wins finals without using an attack
+ - [https://www.wargamer.com/pokemon-trading-card-game/euic-champion-2025-wins-without-attacking](https://www.wargamer.com/pokemon-trading-card-game/euic-champion-2025-wins-without-attacking)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:43:24+00:00
+
+<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2025/02/pokemon-trading-card-game-euic-champion-2025-wins-without-attacking.jpg" class="webfeedsFeaturedVisual" alt="Pokémon TCG EUIC champion wins finals without using an attack" title="Pokémon TCG EUIC champion wins finals without using an attack">
+								<p>The final match at the <strong>Pokémon TCG EUIC</strong> on Sunday ended almost before it had begun. Whereas the previous match had been a tense bout, in the third and final game, Ryuki Okada’s poison-powered deck was able to destroy Nat Millar’s Dragapult Ex build within 45 seconds of match start. Ultimately, not a single attack was used to secure the win.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/pokemon-trading-card-game/euic-champion-2025-wins-without-attacking">Pokémon TCG EUIC champion wins finals without using an attack</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/pokemon-tradin
+
+## All MTG sets in order, as of February 2025
+ - [https://www.wargamer.com/magic-the-gathering/mtg-sets-in-order](https://www.wargamer.com/magic-the-gathering/mtg-sets-in-order)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:02:09+00:00
+
+<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2025/02/mtg-sets-in-order.jpg" class="webfeedsFeaturedVisual" alt="All MTG sets in order, as of February 2025" title="All MTG sets in order, as of February 2025">
+								<p><span style="font-weight: 400;">Wizards of the Coast has released 174 </span><b>MTG sets</b><span style="font-weight: 400;"> over the game’s 32-year history, with five more coming this year: an average of five new sets per year. To help you keep track, and to provide a full timeline that goes right back to the beginning, we compiled this complete list of </span><b>all Magic: The Gathering sets</b><span style="font-weight: 400;"> ever made, as well as the new card collections about to join the party.</span></p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/magic-the-gathering/mtg-sets-in-order">All MTG sets in order, as of February 2025</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com
+
+## Roleplay as the worst DnD player imaginable in this quirky indie RPG
+ - [https://www.wargamer.com/dnd/its-what-my-character-would-do](https://www.wargamer.com/dnd/its-what-my-character-would-do)
+ - RSS feed: $source
+ - date published: 2025-02-24T12:59:50+00:00
+
+<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2025/02/worst-dnd-character-backstory.jpg" class="webfeedsFeaturedVisual" alt="Roleplay as the worst DnD player imaginable in this quirky indie RPG" title="Roleplay as the worst DnD player imaginable in this quirky indie RPG">
+								<p>It’s ZineQuest month on Kickstarter, and indie RPG creators are pulling out the stops to bring weird and wonderful little RPG ‘zines to the world. “It’s What My Character Would Do” is a one shot comedy RPG <em>about</em> RPGs, with every player taking on the role of a self-absorbed <strong>DnD</strong> player ready to throw the party under the bus because “it’s what my character would do”.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/dnd/its-what-my-character-would-do">Roleplay as the worst DnD player imaginable in this quirky indie RPG</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/dnd/2024-players-handbook-revie
+
+## All DnD 2024 backgrounds explained
+ - [https://www.wargamer.com/dnd/2024-backgrounds](https://www.wargamer.com/dnd/2024-backgrounds)
+ - RSS feed: $source
+ - date published: 2025-02-24T12:38:32+00:00
+
+<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/08/dnd-2024-backgrounds.jpg" class="webfeedsFeaturedVisual" alt="All DnD 2024 backgrounds explained" title="All DnD 2024 backgrounds explained">
+								<p><strong>DnD 2024 backgrounds</strong> grant characters stat increases, a starting feat, a range of proficiencies, and a clear backstory. This is a major shake-up to the original Dungeons and Dragons 5e rules, and it makes backgrounds a crucial part of all future character builds. This guide explains each of the new DnD backgrounds, including how they can be mixed and match with different character options.</p>
+<p>After <a href="http://wargamer.com/dnd/classes">DnD classes</a>, backgrounds are now the second-most important choice for your character build. <a href="http://wargamer.com/dnd/races">DnD races</a> play a smaller but still influential role. If you’re looking to compare with the 2014 rules, our guide to <a href="https://www.wargame
+
+## Sleeper hit MTG card from Aetherdrift suddenly spikes in price by 700%
+ - [https://www.wargamer.com/magic-the-gathering/stock-up-price-spike](https://www.wargamer.com/magic-the-gathering/stock-up-price-spike)
+ - RSS feed: $source
+ - date published: 2025-02-24T12:30:37+00:00
+
+<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2025/02/magic-the-gathering-stock-up-price-spike.jpg" class="webfeedsFeaturedVisual" alt="Sleeper hit MTG card from Aetherdrift suddenly spikes in price by 700%" title="Sleeper hit MTG card from Aetherdrift suddenly spikes in price by 700%">
+								<p>It’s pretty normal for a <strong>Magic: The Gathering</strong> card’s estimated price to drop precipitously after the set is actually out, but there’s always a few exceptions, and the uncommon spell Stock Up is the latest of these. Valued at a mere $0.30 upon Aetherdrift’s release on February 14, the card has since spiked by 733% in 10 days, and copies now sell for $2.50 each, while foils go for as much as $8.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/magic-the-gathering/stock-up-price-spike">Sleeper hit MTG card from Aetherdrift suddenly spikes in price by 700%</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.
+
+## DnD stats explained
+ - [https://www.wargamer.com/dnd/stats](https://www.wargamer.com/dnd/stats)
+ - RSS feed: $source
+ - date published: 2025-02-24T12:02:24+00:00
+
+<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2024/06/dnd-stats.jpg" class="webfeedsFeaturedVisual" alt="DnD stats explained" title="DnD stats explained">
+								<p>The six <strong>DnD stats</strong>, or 'ability scores', describe a character's natural mental and physical abilities. A character's Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma are each represented by a number, typically between three and 18. When the character takes an action that calls for a dice roll, their stats often add a modifier to the result. This guide explains how to calculate and use <strong>Dungeons and Dragons stats</strong>.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/dnd/stats">DnD stats explained</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargamer.com/dnd/2024-players-handbook-review">DnD 2024 Player's Handbook review</a>, <a href="https://www.wargamer.com/dnd/classes">DnD classes guide</a>, <a 
+
+## Edgy Warhammer 40k diorama shows Space Marines playing with themselves
+ - [https://www.wargamer.com/warhammer-40k/wargame-playing-space-marines](https://www.wargamer.com/warhammer-40k/wargame-playing-space-marines)
+ - RSS feed: $source
+ - date published: 2025-02-24T11:45:40+00:00
+
+<img width="1920" height="1080" src="https://www.wargamer.com/wp-content/sites/wargamer/2025/02/warhammer-40k-space-marines-play-wargame.jpg" class="webfeedsFeaturedVisual" alt="Edgy Warhammer 40k diorama shows Space Marines playing with themselves" title="Edgy Warhammer 40k diorama shows Space Marines playing with themselves">
+								<p>What do the power-armored super humans of <strong>Warhammer 40k</strong> get up to when they’re not facing off on the battlefield? The canon answer is “a mixture of high intensity workouts, military drills, and prayer”, but there’s plenty of scope to imagine fun alternatives - such as this diorama of an Imperial Space Marine and a Chaos aligned rival playing their own, even tinier, miniature wargame.</p>
+ 				<div>
+				Continue reading <a href="https://www.wargamer.com/warhammer-40k/wargame-playing-space-marines">Edgy Warhammer 40k diorama shows Space Marines playing with themselves</a>
+				</div>
+				MORE FROM WARGAMER: <a href="https://www.wargame
+

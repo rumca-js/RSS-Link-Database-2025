@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-24T18:00:20+00:00",
+        "description": "Scientists are starting to find a strange connection between neurodegenerative diseases like Alzheimer's, Parkinson's, ALS, MS, and dementia. They all seem to follow on the heels of common but severe infections. And that means we might be able to stop them.\n\nHosted by: Savannah Geary (they/them)\n\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: David Johnston, Martin Osorio, Cye Stoner, Kaitlyn O'Callaghan, Jp Lynch, kickinwasabi, Bethany Matthews, Chris Curry, Blood Doctor Kelly, Wesus, J.V. Rosenbalm, Marc Bendig, Alan Wong, Toyas Dhake, Spilmann Reed, Gizmo, Garrett Galloway, DrakoEsper , Friso, Lyndsay Brown, Jeremy Mattern, Jaap Westera, Jeffrey Mckishen, Matt",
+        "id": 2186515,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=REbjjVAX8vE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/REbjjVAX8vE/hqdefault.jpg",
+        "title": "Can Flu Shots Help Us Beat Alzheimer's? (And Parkinson\u2019s. And Dementia. And\u2026)",
+        "vote": 0
+    }
+]

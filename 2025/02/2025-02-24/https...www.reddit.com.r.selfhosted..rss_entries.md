@@ -1,0 +1,478 @@
+# Source:Self-Hosted Alternatives to Popular Services, URL:https://www.reddit.com/r/selfhosted/.rss, language:en
+
+## Filesharing via VPN
+ - [https://www.reddit.com/r/selfhosted/comments/1ixfvxg/filesharing_via_vpn](https://www.reddit.com/r/selfhosted/comments/1ixfvxg/filesharing_via_vpn)
+ - RSS feed: $source
+ - date published: 2025-02-24T23:05:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I wonder what would be the best way to share media files with a friend without exposing my whole internal network, which I guess would be the case if I just hand them a VPN user? I guess I could also open a port on the router for my openmediavault server, but somehow I find that scary. A mix of both would be great, a VPN user that can only access a certain IP/port. But for that I guess I would need something like wireguard? Would that be a (recommendable) option to run a wireguard (lxc on the same proxmox server my openmediavault is on), open a port for it on the fritzbox and hope not to get hacked? Thanks for any advice on getting me started on this. Sorry if something I said or all of it is stupid.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wayn33333"> /u/wayn33333 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixfvxg/filesharing_via_vpn/">[link]</a></span> &#32; <span><a href="ht
+
+## Guide to self-hosting email
+ - [https://www.reddit.com/r/selfhosted/comments/1ixezis/guide_to_selfhosting_email](https://www.reddit.com/r/selfhosted/comments/1ixezis/guide_to_selfhosting_email)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:27:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>I see a lot of questions about self-hosting email. I recently switched from Gmail to self-hosting and wrote this guide on how to do it, or at least how I did it: <a href="https://gist.github.com/chripede/99b7eaa1101ee05cc64a59b46e4d299f">https://gist.github.com/chripede/99b7eaa1101ee05cc64a59b46e4d299f</a> It uses Stalwart and optionally hides everything but port 25 behind a Tailscale network.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chripede"> /u/chripede </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixezis/guide_to_selfhosting_email/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixezis/guide_to_selfhosting_email/">[comments]</a></span>
+
+## Cloudflare A record needs ddns?
+ - [https://www.reddit.com/r/selfhosted/comments/1ixepj3/cloudflare_a_record_needs_ddns](https://www.reddit.com/r/selfhosted/comments/1ixepj3/cloudflare_a_record_needs_ddns)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:15:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Namecheap transfered to cloudfleare no idea how to use it for homelab,please help!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Choice_Experience284"> /u/Choice_Experience284 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixepj3/cloudflare_a_record_needs_ddns/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixepj3/cloudflare_a_record_needs_ddns/">[comments]</a></span>
+
+## Continuing work on Plexiglass, Varken successor.
+ - [https://www.reddit.com/r/selfhosted/comments/1ixejky/continuing_work_on_plexiglass_varken_successor](https://www.reddit.com/r/selfhosted/comments/1ixejky/continuing_work_on_plexiglass_varken_successor)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:09:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1ixejky/continuing_work_on_plexiglass_varken_successor/"> <img src="https://preview.redd.it/dt0d1nrju5le1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d0f5c2f9ef5ab975ad559b08d6934cd647a3ef9c" alt="Continuing work on Plexiglass, Varken successor." title="Continuing work on Plexiglass, Varken successor." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dry_Tea9805"> /u/Dry_Tea9805 </a> <br/> <span><a href="https://i.redd.it/dt0d1nrju5le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixejky/continuing_work_on_plexiglass_varken_successor/">[comments]</a></span> </td></tr></table>
+
+## How do I stop docker-compose from adding a suffix and a prefix to container names?
+ - [https://www.reddit.com/r/selfhosted/comments/1ixefg0/how_do_i_stop_dockercompose_from_adding_a_suffix](https://www.reddit.com/r/selfhosted/comments/1ixefg0/how_do_i_stop_dockercompose_from_adding_a_suffix)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:04:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been running a stack of services with docker-compose for some time. Today I made a copy of the yaml file, made some edits, and replaced the original. When I bring the stack up using</p> <pre><code>docker-compose up -d </code></pre> <p>each container now has a prefix of &#39;docker_&#39; and a suffix of &#39;_1&#39;. I can&#39;t for the life of me get rid of them and they&#39;re cluttering up my grafana dashboards which use container names.</p> <p>How can I use docker-compose without services getting a prefix or suffix?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shittywhopper"> /u/shittywhopper </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixefg0/how_do_i_stop_dockercompose_from_adding_a_suffix/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixefg0/how_do_i_stop_dockercompose_from_adding_a_suffix/">[comments]</a></span>
+
+## DietPi released a new version v9.11 (with Pi-hole v6 support)
+ - [https://www.reddit.com/r/selfhosted/comments/1ixcjq0/dietpi_released_a_new_version_v911_with_pihole_v6](https://www.reddit.com/r/selfhosted/comments/1ixcjq0/dietpi_released_a_new_version_v911_with_pihole_v6)
+ - RSS feed: $source
+ - date published: 2025-02-24T20:48:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1ixcjq0/dietpi_released_a_new_version_v911_with_pihole_v6/"> <img src="https://external-preview.redd.it/3KzluYubduubO60AeEVUkIpc6hXYJZ7BRKtpy93leQ0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2541e4209158a24e22bdbf9c474e6f8299033821" alt="DietPi released a new version v9.11 (with Pi-hole v6 support)" title="DietPi released a new version v9.11 (with Pi-hole v6 support)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>DietPi is a lightweight Debian based Linux distribution for SBCs and server systems, with the option to install desktop environments, too. It ships as minimal image but allows to install complete and ready-to-use software stacks with a set of console based shell dialogs and scripts. </p> <p>The source code is hosted on GitHub: <a href="https://github.com/MichaIng/DietPi">https://github.com/MichaIng/DietPi</a><br/> The main website can be found at: <a href="https://dietpi.com/">https://dietpi.c
+
+## File location update services for *arr stack
+ - [https://www.reddit.com/r/selfhosted/comments/1ixcjo6/file_location_update_services_for_arr_stack](https://www.reddit.com/r/selfhosted/comments/1ixcjo6/file_location_update_services_for_arr_stack)
+ - RSS feed: $source
+ - date published: 2025-02-24T20:47:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone, I have arrays of SSDs and HDDs in my lab and I&#39;d like to setup media allocation to do a sort of <em>ssd caching</em> with rules such as: * new media is placed on the sdd * after x days with fewer than y plays, media is moved to an hdd for long-term storage * if some media is played from the hdd, related media is moved to sdd</p> <p>Now that part is simple to script using crontab, touch, atime records, etc. and eg Plex is smart enough to update links to media that moves to different directories within its filesytem.</p> <p>The issue is updating the *arr stack so it doesn&#39;t suddenly think a bunch of media is missing and try to reaquire it.</p> <p>Does anyone know of tools for updating *arrs along with changes to file locations and or has anyone had to deal with this before?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/alarbus"> /u/alarbus </a> <br/> <span><a href="https://www.reddit.com/r/
+
+## March Madness Pool
+ - [https://www.reddit.com/r/selfhosted/comments/1ixcehu/march_madness_pool](https://www.reddit.com/r/selfhosted/comments/1ixcehu/march_madness_pool)
+ - RSS feed: $source
+ - date published: 2025-02-24T20:42:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey all,</p> <p>I run a sports social media site and was wondering how I would host a March Madness pool with multiple private pool options for different groups of people or if anyone knows a site that would do that for us. </p> <p>Thanks so much!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JacobOttinger"> /u/JacobOttinger </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixcehu/march_madness_pool/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixcehu/march_madness_pool/">[comments]</a></span>
+
+## Selfhosted e-mail gets flagged as spam by Outlook.com
+ - [https://www.reddit.com/r/selfhosted/comments/1ixbbxz/selfhosted_email_gets_flagged_as_spam_by](https://www.reddit.com/r/selfhosted/comments/1ixbbxz/selfhosted_email_gets_flagged_as_spam_by)
+ - RSS feed: $source
+ - date published: 2025-02-24T19:59:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Greetings everyone</p> <p>I&#39;ve been running a self-hosted e-mail server for quite a few years by now, hosting a total of 4 domains atm.</p> <p>All 4 domains are configured with SPF, DKIM, DMARC as well as reverse DNS all in place, and the server&#39;s IP isn&#39;t flagged as a spam relay (and ofc. the server isn&#39;t an open relay)</p> <p>I&#39;ve checked all 4 domains on a multitude of rbl lookup platforms, none show any of them as being on blacklists.</p> <p>Despite all the above, 2 of the domains can send mails to recipients that&#39;re using <a href="http://Outlook.com">Outlook.com</a> and 2 of the domains just get all mails put directly into spam on the recipients&#39; account. I&#39;ve tried opening new mail accounts on the faulty domains - same result, so it&#39;s not the entire sending e-mail that&#39;s flagged, but rather seemingly the entire domain name.</p> <p>I&#39;ve been in dialogue with Microsoft and they gave me the usual &quot;i
+
+## Intel nuc secondhand or new rpi5?
+ - [https://www.reddit.com/r/selfhosted/comments/1ixb0am/intel_nuc_secondhand_or_new_rpi5](https://www.reddit.com/r/selfhosted/comments/1ixb0am/intel_nuc_secondhand_or_new_rpi5)
+ - RSS feed: $source
+ - date published: 2025-02-24T19:46:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>First time trying this and have watched many a video on CM5 solutions etc but just saw intel nucs secondhand on eBay for 50quid and wondered if its a better/ easier option for a media server in my home? Are there pitfalls to the Nuc?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ohlordylord_"> /u/ohlordylord_ </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixb0am/intel_nuc_secondhand_or_new_rpi5/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixb0am/intel_nuc_secondhand_or_new_rpi5/">[comments]</a></span>
+
+## Hello world !
+ - [https://www.reddit.com/r/selfhosted/comments/1ixa29v/hello_world](https://www.reddit.com/r/selfhosted/comments/1ixa29v/hello_world)
+ - RSS feed: $source
+ - date published: 2025-02-24T19:08:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, I just got a Fortinet 80E and I want to host my business website + email on my own.<br/> VLANs on the Forti for minecraft server and Jelly.</p> <p>Has I am a nomad, I&#39;ll use the internet connection of my neighbor because I cannot selfhost with a 4G+ modem because it&#39;s a shared public IP address. (I may say bs, I&#39;m a passionate about IT but not an expert at all)</p> <p>I would like to use Docker to do this. Has my actual VPS use it. I suppose I need a fail2ban-like, anti DDos, and anti-portscan function and I hope te Fortigate do this, there is just a lot in it and I&#39;m a but overwhelmed by the GUI. Can you give me good starting point, documentation, architecture advices to reach my goal?</p> <p>I&#39;ll start by installing Ubuntu server 24 on an Intel NUC and come back to this post hoping to have some directions haha.</p> <p>Thank for the noob advices.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.c
+
+## Aliexpress hardware for home server ?
+ - [https://www.reddit.com/r/selfhosted/comments/1ix9k2x/aliexpress_hardware_for_home_server](https://www.reddit.com/r/selfhosted/comments/1ix9k2x/aliexpress_hardware_for_home_server)
+ - RSS feed: $source
+ - date published: 2025-02-24T18:47:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Thoughts on this build vs using an i7 8700 ?</p> <p>That cost is around $115 USD for duel cpu mother board and 2 compatible cpus.</p> <p>I already have all other hardware.</p> <p>Use case is proxmox with 2 vms. Hosting 20 websites and 30 or so self hosted services.</p> <p>Around 105 docker containers total. These are low volume websites with the important ones fully setup with cached cdn.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PerfectReflection155"> /u/PerfectReflection155 </a> <br/> <span><a href="https://i.redd.it/vkhuw8upu4le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix9k2x/aliexpress_hardware_for_home_server/">[comments]</a></span>
+
+## any program to download music from spotify with metadata?
+ - [https://www.reddit.com/r/selfhosted/comments/1ix9j2b/any_program_to_download_music_from_spotify_with](https://www.reddit.com/r/selfhosted/comments/1ix9j2b/any_program_to_download_music_from_spotify_with)
+ - RSS feed: $source
+ - date published: 2025-02-24T18:46:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I&#39;m looking for a program that downloads music from Spotify with the metadata (cover, album, artist, etc.) If anyone has or knows something, I&#39;d like you to share it. I have more than 2000 songs to download.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AcceptableBad3"> /u/AcceptableBad3 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix9j2b/any_program_to_download_music_from_spotify_with/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix9j2b/any_program_to_download_music_from_spotify_with/">[comments]</a></span>
+
+## Need firewall OS suggestions....
+ - [https://www.reddit.com/r/selfhosted/comments/1ix93sq/need_firewall_os_suggestions](https://www.reddit.com/r/selfhosted/comments/1ix93sq/need_firewall_os_suggestions)
+ - RSS feed: $source
+ - date published: 2025-02-24T18:28:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>Good afternoon all, </p> <p>I am in the process for considering a new firewall solutions. I have a pair of HA bound fortigate 100E firewalls at home, and I do like them. However, I recently lost access to the email address I had set up for my fortigate training and support account. So, getting firmware isn&#39;t fluid any more. </p> <p>Here are the needs that I have:</p> <p>SD-WAN, two DHCP based ISPs</p> <p>HA, it will have a partner to prevent any sort of hardware failure</p> <p>Fast/responsive</p> <p>Professional grade</p> <p>I was looking at sophos firewall home...and it seems to do OK. But honestly, it seems like it&#39;s really slow. I have purchased two 1U supermicro half depth machines for this purpose, and just trying to find a proper firewall OS. The machines are a quad core Atom 64bit proc, 16GB RAM, and a 256GB SSD, so resources are good. VyOS seems to be my next path...and I&#39;m willing to pay for something that has a &#39;home&#39; li
+
+## How can I get Kodi to use EDL files for skipping intros while streaming from Jellyfin over HTTP?
+ - [https://www.reddit.com/r/selfhosted/comments/1ix90be/how_can_i_get_kodi_to_use_edl_files_for_skipping](https://www.reddit.com/r/selfhosted/comments/1ix90be/how_can_i_get_kodi_to_use_edl_files_for_skipping)
+ - RSS feed: $source
+ - date published: 2025-02-24T18:24:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m running Jellyfin on a server in my room and Kodi on a Raspberry Pi in my living room. I have a Jellyfin plugin that generates EDL files for all my TV shows to skip intros. However, since Jellyfin now only supports streaming via HTTP (and no longer provides direct file access to Kodi), Kodi can’t see the .edl sidecar files needed for intro skipping.</p> <p>Has anyone found a workaround to bridge this gap?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/procyonA1"> /u/procyonA1 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix90be/how_can_i_get_kodi_to_use_edl_files_for_skipping/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix90be/how_can_i_get_kodi_to_use_edl_files_for_skipping/">[comments]</a></span>
+
+## Advice on NAS/NVR build with Elitedesk 800 G3
+ - [https://www.reddit.com/r/selfhosted/comments/1ix8xnd/advice_on_nasnvr_build_with_elitedesk_800_g3](https://www.reddit.com/r/selfhosted/comments/1ix8xnd/advice_on_nasnvr_build_with_elitedesk_800_g3)
+ - RSS feed: $source
+ - date published: 2025-02-24T18:21:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>I currently have an Intel NUC running Proxmox with Home Assistant and AdGuard on it. I recently purchased a Dell Elitedesk 800 G3 SFF (8GB RAM, i5-6500, 128GB SSD). My plan is to install two 3-4TB HDDs to use as a NAS for photo backups, etc. (an upgrade from my current Raspberry Pi setup with OMV and an external HDD).</p> <p>I&#39;m leaning towards either OMV or Unraid, possibly with a Frigate setup using a Coral TPU.</p> <p>What would you recommend: bare metal OMV or Unraid versus Proxmox?</p> <p>I understand Frigate runs best in a Docker container. Would integration with Home Assistant be easier if all programs are on the same system (i.e., Docker with Home Assistant on the new server)?</p> <p>How does Frigate perform with storage on an SSD? I might add a 512GB M.2 SSD for video storage; how long would that last with 2-3 cameras?</p> <p>I realize these are noob questions, but when I search online, there seem to be as many solutions as us
+
+## Cloudflare zero trust best practices
+ - [https://www.reddit.com/r/selfhosted/comments/1ix8hqm/cloudflare_zero_trust_best_practices](https://www.reddit.com/r/selfhosted/comments/1ix8hqm/cloudflare_zero_trust_best_practices)
+ - RSS feed: $source
+ - date published: 2025-02-24T18:03:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone! I host the typical set of apps (Home Assistant, Immich, Paperless, Jellyfin, ...) and I use them both from the local network as well as over the Internet using Cloudflare tunnels. I also use most of the apps both via web browser and from a native iOS app.</p> <p>I recently setup Google authentication for Immich using <a href="https://console.cloud.google.com/auth/overview">Google Auth Platform</a> so I can log in using my Gmail account and access the app. Now my question is what&#39;s the best practice for securing all the apps this way. Do I need to create a new Google Cloud project for each of them and repeat the process? It seems so because OAuth uses authorized domains which is app specific. </p> <p>I couldn&#39;t find any comprehensive guide to secure the whole homelab. Just individual howtos which I already went through. Thanks in advance for any hints.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.c
+
+## Just trying to run a cronjob
+ - [https://www.reddit.com/r/selfhosted/comments/1ix7nmv/just_trying_to_run_a_cronjob](https://www.reddit.com/r/selfhosted/comments/1ix7nmv/just_trying_to_run_a_cronjob)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:31:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi docker master !</p> <p>I&#39;m pretty new into selfhosted things, but i run Vaultwarden in a container on Proxmox.<br/> I also added a container to backup my passwords, and to upload the files on my Gdrive (rclone).<br/> I wrote a script that sync the folder I want, I manually tested it, it works, everything&#39;s fine !</p> <p>HOWEVER !<br/> I&#39;d like to sync the folder everyday at midnight, so i ran <code>crontab -e</code> and it showed me this :</p> <pre><code># do daily/weekly/monthly maintenance # min hour day month weekday command */15 * * * * run-parts /etc/periodic/15min 0 * * * * run-parts /etc/periodic/hourly 0 2 * * * run-parts /etc/periodic/daily 0 3 * * 6 run-parts /etc/periodic/weekly 0 5 1 * * run-parts /etc/periodic/monthly </code></pre> <p>So I was like Cool ! I just put my script into <code>/etc/periodic/daily</code> and it should be fine !<br/> I also typed a <code>chmod +x script</code> just in case<br/> But it didn&#39;t sy
+
+## [Benchmarked] How does Link Speed Affect Power Consumption
+ - [https://www.reddit.com/r/selfhosted/comments/1ix7gn2/benchmarked_how_does_link_speed_affect_power](https://www.reddit.com/r/selfhosted/comments/1ix7gn2/benchmarked_how_does_link_speed_affect_power)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:23:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>This post benchmarks the differences in power consumption, versus link speed.</p> <p>Using identical hardware, with a relatively clean environment, these link speeds were tested: 1G, 10G, 25G, 40G, 50G, 100G.</p> <hr/> <p>For- those who want to get straight to the point- </p> <ul> <li>3 Watt difference between 1G, and 100G at idle. This is a 6% difference in efficiency.</li> <li>7.8 Watt difference between 1G, and 100G at maximum network load. This is a 14% difference in efficiency.</li> </ul> <p>Remember- identical hardware (NICs, Cables, etc...), this is only benchmarking the power difference via Link Speed.</p> <p>No other settings, or configurations were touched, changed or altered. ONLY Link speed.</p> <hr/> <p>Power data was collected through my PDU, at 10 second intervals. A minimum of 4-5 minutes of data was collected for each test.</p> <p>All non-essential services which may impact power consumption were turned off during the test. This yiel
+
+## Looking for Trello alternatives with these features
+ - [https://www.reddit.com/r/selfhosted/comments/1ix7g1c/looking_for_trello_alternatives_with_these](https://www.reddit.com/r/selfhosted/comments/1ix7g1c/looking_for_trello_alternatives_with_these)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:22:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Must haves are: iOS app Calendar view Google Maps integration PDF printouts CSV export</p> <p>Unfortunately most of the stuff I’ve looked at don’t have these features.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GodAtum"> /u/GodAtum </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix7g1c/looking_for_trello_alternatives_with_these/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix7g1c/looking_for_trello_alternatives_with_these/">[comments]</a></span>
+
+## Issue with local SSL certificates using Nginx Proxy Manager
+ - [https://www.reddit.com/r/selfhosted/comments/1ix786r/issue_with_local_ssl_certificates_using_nginx](https://www.reddit.com/r/selfhosted/comments/1ix786r/issue_with_local_ssl_certificates_using_nginx)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:13:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m trying to setup Nginx Proxy Manager (Docker) to get SSL certificates for all my local services. All my services are working fine and already have SSL certificates thanks to Nginx Proxy Manager. The only one that is not working is my router management page, for which the login is normally is: <a href="https://192.168.0.1/webpages/login.html">https://192.168.0.1/webpages/login.html</a> and after login is: <a href="https://192.168.0.1/webpages/index.html">https://192.168.0.1/webpages/index.html</a></p> <p>When I add it to Nginx Proxy Manager, it doesn&#39;t work and I get this error on the browser:</p> <p>502 Bad Gateway openresty</p> <p>And the Nginx Proxy Manager logs say this:</p> <p>upstream sent &quot;Content-Length&quot; and &quot;Transfer-Encoding&quot; headers at the same time while reading response header from upstream </p> <p>Can anyone help? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DarkLo
+
+## Fiberstate Anyone?
+ - [https://www.reddit.com/r/selfhosted/comments/1ix77xx/fiberstate_anyone](https://www.reddit.com/r/selfhosted/comments/1ix77xx/fiberstate_anyone)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:13:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi guys<br/> I saw some offers for dedicated server on fiberstate . com</p> <p>Is anyone hosting with them? Any feedback?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ryanmile"> /u/ryanmile </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix77xx/fiberstate_anyone/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix77xx/fiberstate_anyone/">[comments]</a></span>
+
+## Using Nix + Home Manager to declare your rootless Podman stacks
+ - [https://www.reddit.com/r/selfhosted/comments/1ix713o/using_nix_home_manager_to_declare_your_rootless](https://www.reddit.com/r/selfhosted/comments/1ix713o/using_nix_home_manager_to_declare_your_rootless)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:05:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>This is probably very niche, but i wanted to share and appreciate a way to manage self-hosted services (and more) using <a href="https://github.com/nix-community/home-manager">Home Manager</a>.</p> <h1>Background</h1> <p>When i started self-hosting a while ago, i just used good old Debian and deployed a few stacks using Docker Compose. Now that works pretty fine, but with time a few things started to annoy me:</p> <ul> <li>Lots of duplication in my <code>compose.yaml</code> files, e.g.</li> </ul> <p>&#8203;</p> <pre><code>services: someService: [...] networks: - traefik-proxy networks: traefik-proxy: external: true </code></pre> <p>The same (or very similar) networks, traefik labels or common volumes in a lot of stacks. The duplication just didn&#39;t feel nice. If i ever change the traefik network name or my HDD mount path, i don&#39;t want to manually adapt it for 50 different services.</p> <ul> <li>Losing track of my system state. While my compose
+
+## Would you avoid self-hosted software with ethical restrictions?
+ - [https://www.reddit.com/r/selfhosted/comments/1ix6zj8/would_you_avoid_selfhosted_software_with_ethical](https://www.reddit.com/r/selfhosted/comments/1ix6zj8/would_you_avoid_selfhosted_software_with_ethical)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:03:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>Most self-hosted software comes with an open-source license that lets you do whatever you want with it - run it, modify it, self-host it, even resell it. No restrictions, just freedom. But lately, I’ve been wondering if that should <em>always</em> be the case.</p> <p>Take something like <strong>AI-powered surveillance</strong> or <strong>censorship tools.</strong> if someone builds that on top of self-hosted software, should the original developers have the right to say, <em>&quot;No, that’s not what this was meant for?&quot;</em></p> <p>There have been a few attempts at <strong>ethical open-source licenses</strong> that try to prevent certain types of misuse - like mass surveillance or exploitation networks. But they’ve always been controversial, with the main arguments being:</p> <ul> <li><strong>&quot;Open source means no restrictions, period.&quot;</strong></li> <li><strong>&quot;Bad actors won’t follow a license anyway.&quot;</strong></li> <li><
+
+## Another comparison of Tailscale vs Cloudflare tunnel (WARP)
+ - [https://www.reddit.com/r/selfhosted/comments/1ix61th/another_comparison_of_tailscale_vs_cloudflare](https://www.reddit.com/r/selfhosted/comments/1ix61th/another_comparison_of_tailscale_vs_cloudflare)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:26:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Yet another post asking to compare the two for different use cases.</p> <p>After reading a lot on the topic im more and more confused on what should i use.</p> <p>Currently my setup is cloudflare tunnel with warp</p> <ul> <li>using warp to access internal services from outside</li> <li>using public tunnel for services publicy accessible such as invoce ninja</li> <li>lastly using cloudflare dns to point to my ip for plex and port forward 443</li> </ul> <p>My work place changed VPN to use cloudflare and i need to find a different solution since warp client doesnt allow you multiple clients on my side and need to be configured on the IT side which i dont want</p> <p>Im using unraid and after update 7 we no have built in support for tailscale, which i tried</p> <p>my main issues im facing </p> <ul> <li>I dont want to use tailscale just it is that public services exposed using cloudflare tunnel are proxied and some what protected from all the basic stuff 
+
+## Looking for Equipment Rental And Booking Management Software
+ - [https://www.reddit.com/r/selfhosted/comments/1ix5ro2/looking_for_equipment_rental_and_booking](https://www.reddit.com/r/selfhosted/comments/1ix5ro2/looking_for_equipment_rental_and_booking)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:15:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>The title says it all. But I will put some more details down below.</p> <p>Things it needs to do.</p> <ul> <li>Manage Inventory</li> <li>Manage Rental bookings(Not Public)</li> <li>Ran thru Docker</li> <li>Calendar Sync to Google Cal </li> </ul> <p>I have been looking for a while and haven&#39;t found anything that is solid or overly expensive.</p> <p>I know this is super niche but if anyone has come across anything.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Campaign5541"> /u/Ok-Campaign5541 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix5ro2/looking_for_equipment_rental_and_booking/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix5ro2/looking_for_equipment_rental_and_booking/">[comments]</a></span>
+
+## Posteria (Media Center Poster Collection Web App)
+ - [https://www.reddit.com/r/selfhosted/comments/1ix5ing/posteria_media_center_poster_collection_web_app](https://www.reddit.com/r/selfhosted/comments/1ix5ing/posteria_media_center_poster_collection_web_app)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:04:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1ix5ing/posteria_media_center_poster_collection_web_app/"> <img src="https://external-preview.redd.it/s_WVA9F5rMuytGtN0L3-l8xIi9mkBRdnQwynhWcP81A.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5227bb14bd1157bc5b17d472613ac5d3d9223c41" alt="Posteria (Media Center Poster Collection Web App)" title="Posteria (Media Center Poster Collection Web App)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Posteria is a web-based media poster management system that allows you to organize and store custom posters for your movies, TV shows, seasons, and collections. It provides an elegant interface for uploading, managing, and accessing your media artwork.</p> <p>This is a project that I put together to solve a &quot;problem&quot; that I had. I like to keep my custom posters for Plex/Jellyfin backed up in case I lose everything. I keep regular backups of my Plex/Jellyfin setup, but I still like having a fallback.</p> <p>I 
+
+## pc app usage time
+ - [https://www.reddit.com/r/selfhosted/comments/1ix5gnn/pc_app_usage_time](https://www.reddit.com/r/selfhosted/comments/1ix5gnn/pc_app_usage_time)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:02:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>looking for pc app usage time tracker as docker container (free needed)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/furllamm"> /u/furllamm </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix5gnn/pc_app_usage_time/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix5gnn/pc_app_usage_time/">[comments]</a></span>
+
+## Self host your own TTS
+ - [https://www.reddit.com/r/selfhosted/comments/1ix5b0w/self_host_your_own_tts](https://www.reddit.com/r/selfhosted/comments/1ix5b0w/self_host_your_own_tts)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:55:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>So i decided to create my own repo using Coqui-AI TTS, they offer a demo server which solves a problem but gives me others, specially choosing the language you want to use it for, since i&#39;m billingual i found very annoying changing languages just to send my notes to the TTS.</p> <p>Here you have a link to my repo, you can just clone it and build your own Docker image :)</p> <p><a href="https://github.com/jnunez2301/coqui-ai-mini-server.git">https://github.com/jnunez2301/coqui-ai-mini-server.git</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Embarrassed_Area8815"> /u/Embarrassed_Area8815 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix5b0w/self_host_your_own_tts/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix5b0w/self_host_your_own_tts/">[comments]</a></span>
+
+## What does it take to host my own mailing list with mailman3?
+ - [https://www.reddit.com/r/selfhosted/comments/1ix5a66/what_does_it_take_to_host_my_own_mailing_list](https://www.reddit.com/r/selfhosted/comments/1ix5a66/what_does_it_take_to_host_my_own_mailing_list)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:54:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, everone. What infrastructure does it take to run a mailman3 mailing list? In short, I&#39;ve seen it requires a DB (SQLite, or MariaDB/Postgres), as well as an mail transmission agent (MTA). If I would set a mailing list up for personal use, what would I require?</p> <p>A server with mailman3 and the web interface? An MTA, e.g. 3rd party? What would be viable options? For how many users/subscriptions/mails per day is SQLite sufficient?</p> <p>Thanks for a short experience reports from those who set it up themselves in the past. Preferably recommendations to cover the setup for an SMA.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/random-rhino"> /u/random-rhino </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix5a66/what_does_it_take_to_host_my_own_mailing_list/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix5a66/what_does_it_take_to_host_my
+
+## A folder to place files that will be copied on nas and deleted locally?
+ - [https://www.reddit.com/r/selfhosted/comments/1ix4xtk/a_folder_to_place_files_that_will_be_copied_on](https://www.reddit.com/r/selfhosted/comments/1ix4xtk/a_folder_to_place_files_that_will_be_copied_on)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:40:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello! I would like to implement a behavior that solves the following problem:</p> <p>When I finish a project and I want to archive it, I would like a simple and secure way to move it to my nas. I would like to set a folder in my system that is monitored by a software that when new files are added, it start to move them on a folder in my NAS and when the copy is completed, it automatically delete them from the folder in my local hard drive. Like a Black Hole that get all my data and free up my local hard drive.</p> <p>I know that I can simply move data in my nas with SMB, I know that there are apps like GoogleDrive or Synology Drive that lets you upload data and then free up space, but the simple move cannot be stopped and resumed, and the google drive method makes the data still visible on my hard drive or need manually delete of the local files.</p> <p>I&#39;m creating my home server attached to a NAS, so I&#39;m looking to a solution that can run 
+
+## Pi hole detecting queries, but not blocking
+ - [https://www.reddit.com/r/selfhosted/comments/1ix4tl7/pi_hole_detecting_queries_but_not_blocking](https://www.reddit.com/r/selfhosted/comments/1ix4tl7/pi_hole_detecting_queries_but_not_blocking)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:35:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Very new to self hosting. So I installed Pi hole on my raspberry pi 4B. Got everything working, static IP, etc. However on the admin page, I am seeing queries being detected but not blocked at all (1400 detected, 0 blocked). I am also getting an error (see below):</p> <p>Thoughts?</p> <p>Warning in <code>dnsmasq</code> core:</p> <pre><code>no upstream servers configured </code></pre> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/juzt4me"> /u/juzt4me </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix4tl7/pi_hole_detecting_queries_but_not_blocking/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix4tl7/pi_hole_detecting_queries_but_not_blocking/">[comments]</a></span>
+
+## My friend open-sourced this Email Verification API
+ - [https://www.reddit.com/r/selfhosted/comments/1ix43wk/my_friend_opensourced_this_email_verification_api](https://www.reddit.com/r/selfhosted/comments/1ix43wk/my_friend_opensourced_this_email_verification_api)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:04:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>My friend built a lightweight email verification service that you can self-host for pennies. He open-sourced it after getting frustrated with expensive SaaS solutions.</p> <p>Tech stack:<br/> • Go 1.21+<br/> • Redis (only for domain caching, no email storage)<br/> • Prometheus metrics<br/> • Grafana monitoring<br/> • Docker &amp; Docker Compose ready</p> <p>Features:<br/> • No data leaves your server<br/> • No tracking/analytics<br/> • Completely self-contained<br/> • Super lightweight (runs great on minimal resources)<br/> • All core features included:<br/> - MX record verification<br/> - Disposable email detection<br/> - Domain verification<br/> - Typo suggestions<br/> - Batch processing</p> <p>Deployment:<br/> • Ready to deploy on <a href="http://fly.io">fly.io</a><br/> • Docker compose included<br/> • Clear documentation<br/> • Minimal dependencies</p> <p>GitHub: <a href="https://github.com/umuterturk/email-verifier">https://github.com/umuterturk
+
+## Newspaper and magazines reader, how to do ?
+ - [https://www.reddit.com/r/selfhosted/comments/1ix43qw/newspaper_and_magazines_reader_how_to_do](https://www.reddit.com/r/selfhosted/comments/1ix43qw/newspaper_and_magazines_reader_how_to_do)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:04:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have autobrr downloading pretty much every newspaper and magazines from the IRC feed of one of my favorite local torrent tracker. I end up with a folder with a bunch of PDF with no order whatsoever.</p> <p>I&#39;d like to have an app that allow me to access these files in a sorted manner :<br/> - In its most basic form just displaying the files by date with most recents on top would allow to find today&#39;s newspapers and most recent magazines.<br/> - Itwould be to have a filter base on file name that can be saved. For example I could save a search for &quot;Washington Post&quot;, and whenever I go into this search I can see all the downloaded pdf with that title (sorted by date added).<br/> - Being able to access these from a remote location and download the ones I like on my iPad for offline use would be really nice.</p> <p>I&#39;ve tried Calibre, Kavita, Komga, but all these software need the files to be sorted in specific folders, which I cann
+
+## Amurex(v1.0.25) - The Open Source AI Meeting Copilot Now Supports MS Teams!
+ - [https://www.reddit.com/r/selfhosted/comments/1ix3tw1/amurexv1025_the_open_source_ai_meeting_copilot](https://www.reddit.com/r/selfhosted/comments/1ix3tw1/amurexv1025_the_open_source_ai_meeting_copilot)
+ - RSS feed: $source
+ - date published: 2025-02-24T14:52:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey Everyone 👋</p> <p>Last month, we made Amurex fully self-hostable, and the response was awesome! Now, we’re back with another update: Amurex now supports Microsoft Teams web! 🎉 </p> <p>In the next releases, Amurex will evolve beyond just an AI meeting copilot. Think of it as an open-source executive assistant that can help with emails, calendars, and knowledge retrieval, all running on your own infrastructure. </p> <p>Got any more features you’d love to see? Drop your requests, and you might find them in the next releases. 😉 </p> <p>🔗 GitHub Repo: <a href="https://github.com/thepersonalaicompany/amurex">https://github.com/thepersonalaicompany/amurex</a></p> <p>🌐 Website: <a href="https://www.amurex.ai">https://www.amurex.ai</a></p> <p>Do give it a shot and let us know what you think :D</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/stealthanthrax"> /u/stealthanthrax </a> <br/> <span><a href="https://www.redd
+
+## Has anybody else done this or am I just crazy?
+ - [https://www.reddit.com/r/selfhosted/comments/1ix3k96/has_anybody_else_done_this_or_am_i_just_crazy](https://www.reddit.com/r/selfhosted/comments/1ix3k96/has_anybody_else_done_this_or_am_i_just_crazy)
+ - RSS feed: $source
+ - date published: 2025-02-24T14:40:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am trying to put together a new all in one proxmox server build. I want it to host a gaming VM with gpu passthrough. A NAS VM with pcie passthrough for the drives and some form of hardware transcoding, as well as various other vms and containers. I would like as many cores as I can get away with and IPMI and ECC support. Keeping the power draw as low as possible. I&#39;m my continuing research I just seem to be going in circles. Is this approch pointless or has somebody found a good middle ground?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/retr0-83"> /u/retr0-83 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix3k96/has_anybody_else_done_this_or_am_i_just_crazy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix3k96/has_anybody_else_done_this_or_am_i_just_crazy/">[comments]</a></span>
+
+## Potentially dumb question.
+ - [https://www.reddit.com/r/selfhosted/comments/1ix3epz/potentially_dumb_question](https://www.reddit.com/r/selfhosted/comments/1ix3epz/potentially_dumb_question)
+ - RSS feed: $source
+ - date published: 2025-02-24T14:33:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m building a media/file storage Unraid server this week and I&#39;ve been watching a number of videos on the topic before diving in. While watching these videos, I noticed something that I thought was weird and I&#39;m wondering if there is a reason for it.</p> <p>Why does it seem like so many people are using the reflective/glittery looking blue SATA cables (<a href="https://bilder.tragant.de/produkte/orig/5f6c5dbf3972d0.02753732.jpg">like this</a>)? In a ton of different videos I watched people had basically these exact cables running to their drives. I have a big bag of black SATA cables from the last decade of my own PCs that I plan to use.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SoggyBagelBite"> /u/SoggyBagelBite </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix3epz/potentially_dumb_question/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/c
+
+## Help with duckdns and hostinger
+ - [https://www.reddit.com/r/selfhosted/comments/1ix36ak/help_with_duckdns_and_hostinger](https://www.reddit.com/r/selfhosted/comments/1ix36ak/help_with_duckdns_and_hostinger)
+ - RSS feed: $source
+ - date published: 2025-02-24T14:23:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m having trouble with my DNS resolution.</p> <p>The domain is registered in hostinger, and it has an ALIAS record to the duckdns domain.</p> <p>Very often the domain is not getting resolved. It doesn&#39;t seem to be a problem with duckdns itself because if I access the url directly (&lt;my\_domain&gt;.duckdns.org) it works perfectly.</p> <p>Any ideas how to solve this? It must be something on hostinger side, right?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fair-Presentation322"> /u/Fair-Presentation322 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix36ak/help_with_duckdns_and_hostinger/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix36ak/help_with_duckdns_and_hostinger/">[comments]</a></span>
+
+## Celebrating 100K Downloads: My Journey Developing AdventureLog
+ - [https://www.reddit.com/r/selfhosted/comments/1ix32po/celebrating_100k_downloads_my_journey_developing](https://www.reddit.com/r/selfhosted/comments/1ix32po/celebrating_100k_downloads_my_journey_developing)
+ - RSS feed: $source
+ - date published: 2025-02-24T14:18:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>One year ago, I was a high school student with an idea, a passion for adventure, and a vision to build a self-hosted adventure tracking app—something I felt was missing. I remember clicking the post button on Reddit, sharing my project with the world, and hoping for the best. I will never forget that day, the excitement, the uncertainty, and the thrill of putting my work out there. Fast forward to today, now in college, and that idea has become a reality. AdventureLog has officially hit <strong>100,000 downloads</strong> just six months after launch!</p> <p>In case you are new, AdventureLog is a travel tracker and trip planner that allows users to log their adventures, create custom itineraries, and share their experiences with others.</p> <p>I&#39;ve learned so much along this journey—from tackling unfamiliar programming languages like Python and TypeScript, to diving into modern frameworks such as Svelte, and most importantly, from building a commu
+
+## Feeling dumb, Jellyfin and Windows file share
+ - [https://www.reddit.com/r/selfhosted/comments/1ix2x64/feeling_dumb_jellyfin_and_windows_file_share](https://www.reddit.com/r/selfhosted/comments/1ix2x64/feeling_dumb_jellyfin_and_windows_file_share)
+ - RSS feed: $source
+ - date published: 2025-02-24T14:11:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Wasn&#39;t sure where to post my question since the Jellyfin community is read only now, hopefully this is acceptable. </p> <p>I want to first say, I know this isn&#39;t the best way to handle my network storage. I&#39;m trying to mimic my workplace as much as I can so that&#39;s why I&#39;ve setup my network storage the way that I have. </p> <p>Alright here is my issue: I want my Jellyfin libraries, feed by Radarr and Sonarr, to be located in a Windows Server file share. All of my media should be on my large storage network share.</p> <p>I&#39;m running the following VMs off a proxmox server:</p> <ul> <li><p>Windows Server 2025 VM (Conatins a 12tb HDD shared out to my network)</p></li> <li><p>Ubuntu Server LTS 24.04 (Running my media stack of Radarr, Sonarr, gluetun, and Jellyfin) </p></li> </ul> <p>I have my windows server network drive mapped on Ubuntu using CIFS, it works fine I can see all the files from the command line and using WinSCP. </p> <
+
+## HAProxy backend - how to use it with https self signed cert servers?
+ - [https://www.reddit.com/r/selfhosted/comments/1ix295k/haproxy_backend_how_to_use_it_with_https_self](https://www.reddit.com/r/selfhosted/comments/1ix295k/haproxy_backend_how_to_use_it_with_https_self)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:40:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>My use case is that I have pfSense and use HAProxy from the Package Manager so it&#39;s a GUI experience not the normal text files you get from it being on it&#39;s own host.<br/> I have had issues trying to get my backend to work with servers that use HTTPS and a self-signed certificate.<br/> I tried the &quot;Enable SSL(Encrypt)&quot; option but that didn&#39;t work, maybe there is an extra step I am unaware of?<br/> Any help is appreciated!</p> <p>Thanks,</p> <p>Guy</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GuySensei88"> /u/GuySensei88 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix295k/haproxy_backend_how_to_use_it_with_https_self/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix295k/haproxy_backend_how_to_use_it_with_https_self/">[comments]</a></span>
+
+## Homepage security on local network
+ - [https://www.reddit.com/r/selfhosted/comments/1ix1z9h/homepage_security_on_local_network](https://www.reddit.com/r/selfhosted/comments/1ix1z9h/homepage_security_on_local_network)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:26:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I&#39;m setting up <a href="https://gethomepage.dev/">Homepage</a> with various widgets with API token, user and password etc and I was wondering about the security of doing all this, I have nothing exposed, I access everything with wireguard, do I need to improve the security of homepage or is it ok as it is not exposed?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Supersonicable"> /u/Supersonicable </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix1z9h/homepage_security_on_local_network/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix1z9h/homepage_security_on_local_network/">[comments]</a></span>
+
+## Thinking of the next steps for my home lab / self hosting
+ - [https://www.reddit.com/r/selfhosted/comments/1ix1vc4/thinking_of_the_next_steps_for_my_home_lab_self](https://www.reddit.com/r/selfhosted/comments/1ix1vc4/thinking_of_the_next_steps_for_my_home_lab_self)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:21:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>So my NAS drive has reached the point of running out of storage, again, and my home lab box is full up with hardware. Plus I want to self-host more things than I already am so the question is, shall I take my home lab to the next level now and if so, what&#39;s the best?</p> <p>For context, my set up is as follows:</p> <p>- Synology DS220+ 2-bay NAS with 6GB of RAM and 2x 12TB 3.5&quot; drives in RAID 1. This is hosting: File sharing, Plex and via Docker: Calibre/Calibre-web, Myaudiobooks</p> <p>- A Gigabyte NUC running Pi-Hole and Kiwix</p> <p>- A Lenovo Thinkcentre M700 running Home Assistant</p> <p>These are running off of 2x 1000va/500w UPS units and connect to my Asus AX11000 router</p> <p>My options right now seem to be:</p> <p>- Buy a dual 3.5&quot; external bay to connect to a machine as a stop gap to expand storage using my NAS drives old 2x 6TB drives, but this is not ideal and would only resolve the storage issue</p> <p>- Buy one or two us
+
+## Dolibarr users - Do you use the accounting module?
+ - [https://www.reddit.com/r/selfhosted/comments/1ix13xe/dolibarr_users_do_you_use_the_accounting_module](https://www.reddit.com/r/selfhosted/comments/1ix13xe/dolibarr_users_do_you_use_the_accounting_module)
+ - RSS feed: $source
+ - date published: 2025-02-24T12:41:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Dolibarr is exactly what I am looking for. But the accounting module is... weird. </p> <p>Is anyone using the accounting module? if so, are you willing to share your workflow?</p> <p>Accounting is the central part of an ERP, without it, its hard for me to commit to dolibarr</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wowman60"> /u/wowman60 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix13xe/dolibarr_users_do_you_use_the_accounting_module/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix13xe/dolibarr_users_do_you_use_the_accounting_module/">[comments]</a></span>
+
+## VPN into local network? Or open ports to the internet?
+ - [https://www.reddit.com/r/selfhosted/comments/1ix0ew4/vpn_into_local_network_or_open_ports_to_the](https://www.reddit.com/r/selfhosted/comments/1ix0ew4/vpn_into_local_network_or_open_ports_to_the)
+ - RSS feed: $source
+ - date published: 2025-02-24T12:00:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Very new to self hosting at home, I have worked in IT for a good few years now and I know generally speaking that you should avoid opening ports up to the internet wherever possible.</p> <p>I was just wondering how you guys do it at home? What&#39;s the preferred option? I want to access stuff remotely, I will be using a VPN but I see posts/comments about opening ports up. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Guilty-Penalty-5600"> /u/Guilty-Penalty-5600 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix0ew4/vpn_into_local_network_or_open_ports_to_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix0ew4/vpn_into_local_network_or_open_ports_to_the/">[comments]</a></span>
+
+## nealertx or pi.alert for bare metal installation?
+ - [https://www.reddit.com/r/selfhosted/comments/1ix0ctb/nealertx_or_pialert_for_bare_metal_installation](https://www.reddit.com/r/selfhosted/comments/1ix0ctb/nealertx_or_pialert_for_bare_metal_installation)
+ - RSS feed: $source
+ - date published: 2025-02-24T11:57:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>i have recently installed pihole on VM ubuntu server and i would like to install a network monitoring tool.</p> <p>searching got me to either netalertx or pi.alert.</p> <p>I tried installing both of them through docker one year ago, but got no luck with the netwokr settings, swo i thought to give it a try on a bare metal installation. So, my questions are:</p> <ol> <li>which one you prefer?</li> <li>has anyone made a bare metal installation of the above? if yes, which one?</li> <li>should i spin a dedicated VM for them or should i install them on the same vm with pihole?</li> </ol> <p>having read their github, i see that netalertx bare metal installation is still experimental. Has anyone managed to install it and is it working reliably?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FragoulisNaval"> /u/FragoulisNaval </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix0ctb/nealertx_or_pial
+
+## Help me decide on an OS
+ - [https://www.reddit.com/r/selfhosted/comments/1ix0al0/help_me_decide_on_an_os](https://www.reddit.com/r/selfhosted/comments/1ix0al0/help_me_decide_on_an_os)
+ - RSS feed: $source
+ - date published: 2025-02-24T11:53:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>Getting into Self-Hosting as a new hobby. I&#39;ve always loved to tinker and have some very light experience with a very basic Plex server from my Shield TV, and a Channels DVR server as well. I do have very basic Linux experience as well from farting around in desktop mode on my steam deck and Android phone rooting back in the day.</p> <p>I have a refurbed HP EliteDesk G6 coming this week with a 12TB drive, that I plan to run in Raid 1 with another eventually. I&#39;m really struggling to determine which OS I should use: Unraid, Windows, or some flavor of Linux?</p> <p>What I&#39;d like to get out of my server in order of priority:</p> <ul> <li>Channels DVR and addon services - this is how we watch all of our TV and the Shield is being deprecated as a supported platform.</li> <li>Plex - I want to get into the arrs and all of that goodness.</li> <li>PIA VPN</li> <li>Pi-hole</li> <li>Eventually a Minecraft server for my kids and their friends</li> <l
+
+## QNAP Storage with Proxmox Setup
+ - [https://www.reddit.com/r/selfhosted/comments/1ix097x/qnap_storage_with_proxmox_setup](https://www.reddit.com/r/selfhosted/comments/1ix097x/qnap_storage_with_proxmox_setup)
+ - RSS feed: $source
+ - date published: 2025-02-24T11:51:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, this is more of a &quot;opinion&quot; type of question.</p> <p>I have a proxmox host, running a debian vm with some Docker Containers. I then have a Qnap NAS. For the applications that need bulk storage, would you prefer adding the storage from QNAP to Proxmox, then adding a new large drive to the VM and write the data to that, or do i mount the shares inside the VM and write my immich or jellyfin data to the NAS directly?</p> <p>I&#39;m not sure wether one or the other has a clear benefit. I just feel like it could be nice to not just have a 2TB qcow image on the NAS but to be able to read at least some of the Data directly. Mind you that stuff like Movies for Jellyfin are on a Share already.</p> <p>Any input which way you prefer would be appreciated.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/domsch1988"> /u/domsch1988 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ix097x/qnap
+
+## Switching from Synology to Unraid
+ - [https://www.reddit.com/r/selfhosted/comments/1ix01xg/switching_from_synology_to_unraid](https://www.reddit.com/r/selfhosted/comments/1ix01xg/switching_from_synology_to_unraid)
+ - RSS feed: $source
+ - date published: 2025-02-24T11:38:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>I wanted to share my experience switching from Synology to Unraid.</p> <p>I’ve been using Synology NAS for my work-related files for years. My main server is a DS1819+, which backs up to a DS1315+ located at my home. Last year, I upgraded the drives in the DS1819+ and wanted to repurpose the old drives from my DS1819+ in my DS1513+ backup server. However, they didn’t fit due to differences in the drive mounting between the 2013 and 2018 models.</p> <p>Rather than buying another Synology NAS, I decided to build my own NAS and install Unraid. I had been considering this for years but was hesitant because I’d heard that Unraid was more complicated to manage and a diy NAS would be potentially less reliable. Since this was for my backup server, I figured it was a good opportunity to try it out.</p> <p>Here are the parts I got: Jonsbo N3 case, AMD Ryzen R7 5825U motherboard off aliexpress, Crucial DDR4 2×16GB 3200MHz RAM, WD Red SN700 1TB SSD, UNYKAch SFX 
+
+## Homeserver for family
+ - [https://www.reddit.com/r/selfhosted/comments/1ix005x/homeserver_for_family](https://www.reddit.com/r/selfhosted/comments/1ix005x/homeserver_for_family)
+ - RSS feed: $source
+ - date published: 2025-02-24T11:34:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>Sorry for cross posting - but this might be better here.</p> <p>Hi,</p> <p>I have decided to build up a home server and have all the parts of applications ready. But I do need some guidance as to have I best set it up, so family members, not living in the same house, can access and use the different apps I have.</p> <p>The apps are plex, jellyfin, jellyseerr, bitward/vaultwarden. I would also like to access other apps like portainer, deluge, etc.</p> <p>How do I best go about setting that up?</p> <p>I&#39;ve looked into Cloudflare tunnels, but there seems to be a consensus that this option would not work with plex or jellyfin, as they are not html, so it would violate their agreement, but others says they removed that.</p> <p>Then I came across Traefik, which would work as a reverse proxy.</p> <p>Having them all sign in the VPNs etc is not a viable option, sadly.</p> <p>But are there other options? Or guides on options? Any help would be appreciated.
+
+## Aniworld Cloner
+ - [https://www.reddit.com/r/selfhosted/comments/1iwzuc2/aniworld_cloner](https://www.reddit.com/r/selfhosted/comments/1iwzuc2/aniworld_cloner)
+ - RSS feed: $source
+ - date published: 2025-02-24T11:24:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Does anyone know if there is an Aniworld cloner? If so, please help, I would like to create an aniworld API to clone aniworld on Jellyfin, but I don&#39;t know how it works</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FancyHousing6627"> /u/FancyHousing6627 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iwzuc2/aniworld_cloner/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iwzuc2/aniworld_cloner/">[comments]</a></span>
+
+## Recommendations for Synology DS423+ bays
+ - [https://www.reddit.com/r/selfhosted/comments/1iwzsj3/recommendations_for_synology_ds423_bays](https://www.reddit.com/r/selfhosted/comments/1iwzsj3/recommendations_for_synology_ds423_bays)
+ - RSS feed: $source
+ - date published: 2025-02-24T11:20:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, my cloud storage is running full and the wife gave me the go ahead to deploy our own NAS.</p> <p>I&#39;m leaning more towards the DS423+ over the DS224+ because I value the redundancy that RAID5 could provide me. Generally I&#39;d prefer to buy once and buy properly than to regret in a couple&#39;s year time that I&#39;d not spend the extra cash now. </p> <p>I&#39;d like to use this as a photo + file + movie streamer server for my family and maybe extend it to some more people. The aspect of playing around with some docker containers, putting up a mail server ect do interest me, but I think I&#39;ll start tinkering with this in a year&#39;s time. Also I&#39;d like to use 2.5 sata SSDs due to the longer lifespan and the quicker (random) read speeds. </p> <p>Nevertheless, once I i start adding up all the costs the misses starts regretting her decision and I&#39;m thinking of buying less storage now and expanding in the near future. Hence this posts
+
+## Free domains with PSL, NS for cloudflare?
+ - [https://www.reddit.com/r/selfhosted/comments/1iwzdlv/free_domains_with_psl_ns_for_cloudflare](https://www.reddit.com/r/selfhosted/comments/1iwzdlv/free_domains_with_psl_ns_for_cloudflare)
+ - RSS feed: $source
+ - date published: 2025-02-24T10:53:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Freenom is dead. eu.org is dead too.<br/> What I should use then?<br/> I searched bit of services internet and theres no one that have PSL + NS so that I can register to cloudflare.<br/> And I searched in Github, and there is some good one with NS but not PSL </p> <p>I know there&#39;s many option even less than 1 dollar but thats not my option</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VeryHotDog123"> /u/VeryHotDog123 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iwzdlv/free_domains_with_psl_ns_for_cloudflare/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iwzdlv/free_domains_with_psl_ns_for_cloudflare/">[comments]</a></span>
+
+## Security concerns about consolidating all services from different servers and VMs into a Dockerized approach on TrueNAS
+ - [https://www.reddit.com/r/selfhosted/comments/1iwzcum/security_concerns_about_consolidating_all](https://www.reddit.com/r/selfhosted/comments/1iwzcum/security_concerns_about_consolidating_all)
+ - RSS feed: $source
+ - date published: 2025-02-24T10:51:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone,</p> <p>As I slowly retire different recycled laptops, RPIs, Elitedesks and old servers I find myself consolidating everything in docker containers on my new TrueNAS server. The goal for me is to be as mobile as possible now, so I try to keep everything in my single Jonsbo N4. </p> <p>However, I feel disconcerted by the fact that a lot of very sensitive data and Apps as well as family photos/videos are living and sharing resources with other more risky services let&#39;s say.</p> <p>I understand that set up correctly docker provides an isolated environment and I am trying to follow best practices but moving from having a dedicated machine just for family, one for finance/documents and one for other services, this now feels &quot;dirty&quot;.</p> <p>What I am mainly concerned about is if a service can escape confinement and wreck havoc on my data/services. I do have offsite backups but still I would like to minimize the downtime/headach
+
+## Raspberry Pi self hosted - why are there so many different ways to install things?
+ - [https://www.reddit.com/r/selfhosted/comments/1iwyl5d/raspberry_pi_self_hosted_why_are_there_so_many](https://www.reddit.com/r/selfhosted/comments/1iwyl5d/raspberry_pi_self_hosted_why_are_there_so_many)
+ - RSS feed: $source
+ - date published: 2025-02-24T09:59:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Sorry for a very novice question! Also aware RPI might not have been the most money efficient but I&#39;m happy. </p> <p>The methods for install all seem very very different. For instance, Adguard Home in docker, product github quick install (<a href="https://hub.docker.com/r/adguard/adguardhome#update">https://hub.docker.com/r/adguard/adguardhome#update</a>) looks significantly different from pimylifeup.com (<a href="https://pimylifeup.com/adguard-home-docker/">https://pimylifeup.com/adguard-home-docker/</a>). </p> <p>Should I avoid using pimylifeup.com guides and use the github directions? So far I&#39;ve used pimylifeup.com for docker and portainer. </p> <p>Even installing docker was as simple as one line in the terminal, instead of the 4 other people use? </p> <p>Thank you for your help! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Optimal-Analyst-8507"> /u/Optimal-Analyst-8507 </a> <br/> <span><a href="
+
+## Selfhosted gaming server
+ - [https://www.reddit.com/r/selfhosted/comments/1iwykco/selfhosted_gaming_server](https://www.reddit.com/r/selfhosted/comments/1iwykco/selfhosted_gaming_server)
+ - RSS feed: $source
+ - date published: 2025-02-24T09:57:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>me and my friends would like to start self hosting our gaming servers. We would like to play games such as garrys mod, minecraft, and arc. I found a server with the following specs and wanted to ask for your opinion about it.</p> <p>Ram: 32gb</p> <p>CPU: intel xeon e 2274g 4 GHZ</p> <p>graphics card isnt included but a friend would have a cheap one</p> <p>The PC would be free</p> <p>Thank you in advance! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ThuChicken"> /u/ThuChicken </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iwykco/selfhosted_gaming_server/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iwykco/selfhosted_gaming_server/">[comments]</a></span>
+
+## How to Reduce SLM Latency When Using Tool Calling in LLamaAndroid?
+ - [https://www.reddit.com/r/selfhosted/comments/1iwygxf/how_to_reduce_slm_latency_when_using_tool_calling](https://www.reddit.com/r/selfhosted/comments/1iwygxf/how_to_reduce_slm_latency_when_using_tool_calling)
+ - RSS feed: $source
+ - date published: 2025-02-24T09:51:03+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>Hi everyone!</strong></p> <p>I’m currently working on my thesis, which focuses on running a <strong>local small language model (SLM) with function calling</strong> on a <strong>resource-limited Android device</strong>. I have an Android app using <strong>LLamaAndroid</strong>, which runs a <strong>Qwen2.5 0.5B model</strong> via <strong>llama.cpp with Vulkan</strong>, achieving an average speed of <strong>34 tokens per second</strong>.</p> <p>To enable <strong>tool calling</strong>, I’m using <strong>ChatML</strong> in the system prompt. This allows me to inject the necessary tools alongside a system prompt that defines the model’s behavior. The SLM then generates a tool response, which I interpret in my Android app to determine which function to call.</p> <h1>The Issue</h1> <ul> <li><strong>Baseline performance</strong>: Without tool calling, inference latency is <strong>1–1.5 seconds</strong>, which is acceptable.</li> <li><strong>Increased
+
+## Google maps user created maps replacement
+ - [https://www.reddit.com/r/selfhosted/comments/1iwyff7/google_maps_user_created_maps_replacement](https://www.reddit.com/r/selfhosted/comments/1iwyff7/google_maps_user_created_maps_replacement)
+ - RSS feed: $source
+ - date published: 2025-02-24T09:48:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, i searched for something like that on reddit and sites like awesome selfhosting etc but no luck.</p> <p>What i look for is a selfhosted app that would allow user to create pins on a world map. Ideally it would also allow simple editing like the color of a pin, some notes etc. and some kind of categorizastion/grouping of locations (tags, folders whatever). The main usecase is my wife creating map of places we visited and placees we want to visit (as a simple trip planning tool). Also an option to open a pin you created in different app like organic maps or even google maps to easily start navigation would be great.</p> <p><a href="https://adventurelog.app">https://adventurelog.app</a> might be the closest thing i found but it is too cluttered for me (for my wife actually). Im looking for something much simpler, basicaly a map viewer that allows to save locations as pins.</p> <p>also have seen Dawarich but it seems to only track places we have b
+
+## Lost 10-Year Domains & Critical Services Due to Spaceship’s Unappealable Phishing False Positive
+ - [https://www.reddit.com/r/selfhosted/comments/1iwydu1/lost_10year_domains_critical_services_due_to](https://www.reddit.com/r/selfhosted/comments/1iwydu1/lost_10year_domains_critical_services_due_to)
+ - RSS feed: $source
+ - date published: 2025-02-24T09:45:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>I ran into a frustrating issue while setting up a proxy for GitHub’s container registry (ghcr.io) under my own domain (ghcr.docker.******-xyz). Since ghcr.io redirects web requests to GitHub’s website, my proxy ended up displaying GitHub pages, which mistakenly made it look like phishing.</p> <p>As a result, my domain got flagged, and Spaceship suspended my entire account—including domains that have nothing to do with this. They refuse to accept appeals, even though Cloudflare (who originally flagged it) has already removed their warning. Worse, they won’t allow domain transfers or refunds, even for completely unrelated domains. This means I’ve lost multiple .com domains that I had renewed for ten years—hundreds of dollars gone, plus the massive time cost of migrating everything.</p> <p>Has anyone dealt with something like this? Any advice on getting Spaceship to reconsider?</p> <p>The content of my complaint: <a href="https://b.tosaki.cc/DYLgL8">htt
+
+## Proxmox or TrueNas?
+ - [https://www.reddit.com/r/selfhosted/comments/1iwycf0/proxmox_or_truenas](https://www.reddit.com/r/selfhosted/comments/1iwycf0/proxmox_or_truenas)
+ - RSS feed: $source
+ - date published: 2025-02-24T09:41:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am on the fence. What I need is what proxmox and truenas both offer, but I also need to be able to back the whole thing up in a encrypted fashion (preferably encryption via password) and having it upload up to Pcloud. Does any of these options have a way to upload encrypted backups to Pcloud?</p> <p>Edit: I am aware that Pcloud does have a encryption method on their platform, but. I feel very icky using a encryption that isn&#39;t my own.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OkAngle2353"> /u/OkAngle2353 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iwycf0/proxmox_or_truenas/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iwycf0/proxmox_or_truenas/">[comments]</a></span>
+
+## [ Removed by Reddit ]
+ - [https://www.reddit.com/r/selfhosted/comments/1iwya42/removed_by_reddit](https://www.reddit.com/r/selfhosted/comments/1iwya42/removed_by_reddit)
+ - RSS feed: $source
+ - date published: 2025-02-24T09:37:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>[ Removed by Reddit on account of violating the <a href="/help/contentpolicy">content policy</a>. ]</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tosakigzup"> /u/tosakigzup </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iwya42/removed_by_reddit/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iwya42/removed_by_reddit/">[comments]</a></span>
+
+## Multi tenant CMS?
+ - [https://www.reddit.com/r/selfhosted/comments/1iwx7ob/multi_tenant_cms](https://www.reddit.com/r/selfhosted/comments/1iwx7ob/multi_tenant_cms)
+ - RSS feed: $source
+ - date published: 2025-02-24T08:19:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m currently using <a href="https://strapi.io/pricing-self-hosted">strapi</a> for a project and really enjoying it, but I&#39;ve run into the problem where I need to be able to roll it out for multiple clients. </p> <p>It seems like there&#39;s a <a href="https://strapi.io/blog/how-to-build-a-pseudo-multi-tenant-application-in-strapi">hack</a> to get it to work across multiple tenants but i&#39;d rather go with an option that has this functionality as native rather than have to re-architecht in the future.</p> <p>Has anyone encountered this before, and if so what option have you gone with?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/One_Raccoon9999"> /u/One_Raccoon9999 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iwx7ob/multi_tenant_cms/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iwx7ob/multi_tenant_cms/">[comments]</a></span>
+
+## Synology DS224+ vs. Raspberry Pi 5
+ - [https://www.reddit.com/r/selfhosted/comments/1iwwyww/synology_ds224_vs_raspberry_pi_5](https://www.reddit.com/r/selfhosted/comments/1iwwyww/synology_ds224_vs_raspberry_pi_5)
+ - RSS feed: $source
+ - date published: 2025-02-24T08:02:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi folks, </p> <p>I need help deciding whether to buy a Synology DS224+ or continue using my Raspberry Pi 5. </p> <p>Currently, I use an RPi 5 with a 1TB SSD, running Immich, HomeBridge, and Zigbe2MQTT. However, 1TB is no longer sufficient for my photo library, so I’ve purchased a 6TB HDD. </p> <p>I’d like to use the Synology for the same purposes. If it’s fast enough, I might also use it with Lightroom: keeping the catalog on my computer and storing photos on the NAS. At present, all my photos are on an external HDD connected to my computer. I’m unsure if the RPi with an HDD connected through a USB port would be fast enough for this setup. </p> <p>What do you think? Should I switch to a Synology NAS, or does it not make sense in my case? Would the Synology offer faster read/write operations than the RPi? </p> <p>Thank you very much for your help. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jozko_mrkvicka_9
+
+## Any downside to running Plex and Jellyfin side by side on a Synology NAS (both using the same files)?
+ - [https://www.reddit.com/r/selfhosted/comments/1iwwq8d/any_downside_to_running_plex_and_jellyfin_side_by](https://www.reddit.com/r/selfhosted/comments/1iwwq8d/any_downside_to_running_plex_and_jellyfin_side_by)
+ - RSS feed: $source
+ - date published: 2025-02-24T07:44:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve been a long time Plex user and I still like it but have heard great things about Jellyfin. So I’m curious to check it out. Anyone know if it’s a bad idea to run them side by side on a Synology NAS?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jwintyo"> /u/jwintyo </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iwwq8d/any_downside_to_running_plex_and_jellyfin_side_by/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iwwq8d/any_downside_to_running_plex_and_jellyfin_side_by/">[comments]</a></span>
+
+## Looking for an open source CRM solution
+ - [https://www.reddit.com/r/selfhosted/comments/1iwvsp3/looking_for_an_open_source_crm_solution](https://www.reddit.com/r/selfhosted/comments/1iwvsp3/looking_for_an_open_source_crm_solution)
+ - RSS feed: $source
+ - date published: 2025-02-24T06:41:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I am a small-business owner looking for a project management+invoicing capable CRM. We run our own Ubuntu server on premise, and currently using it to do filesharing.<br/> I&#39;m thinking to adopt an open source CRM/ERP with this criteria :</p> <ul> <li>run nicely on Ubuntu server (not too many known issues) </li> <li>have contact management, task and project board.</li> <li>have Whatsapp integration.</li> </ul> <p>the dealbreaker for me would be the Whatsapp integration, because we really need to use a lot of it.</p> <p>regarding the server, i can still upgrade it if need be, right now it runs on an intel i7 gen 12, have 32GB memory, and plenty of SSDs.</p> <p>if anyone can help make a suggestion I will appreciate it very much.</p> <p>Thanks,</p> <p>Chris</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chris6889"> /u/chris6889 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iwvsp
+
+## selfhosting with CGNAT
+ - [https://www.reddit.com/r/selfhosted/comments/1iwvcc4/selfhosting_with_cgnat](https://www.reddit.com/r/selfhosted/comments/1iwvcc4/selfhosting_with_cgnat)
+ - RSS feed: $source
+ - date published: 2025-02-24T06:11:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>Not sure if this is the right place, but here we go<br/> I just started a homelab last month. I am trying to host a minecraft server for my kids and their friends. The problem is i have starlink (CGNAT) </p> <p>I have: Truenas scale electric eel, a web domain, A cloudflare account.</p> <p>HP Pavilion Ryzen 3600g, 32gigs ram, 200mbps/s down, 25mbps/s up, 50ms lag. </p> <p>Cloudflare tunneling didn&#39;t work as it was very slow. Tailscale doesn&#39;t work as i need random kids to be able to get access hence the web domain hosted on cloudflare. Is wireguard the answer? I&#39;m like 80 hours into this and burned out. And if i can solve this problem, i can solve other problems i have that are similar.<br/> I&#39;m a truck driver, not a programmer so talk to me like im in first grade. I lack the institutional knowledge.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nosnomis82"> /u/Nosnomis82 </a> <br/> <span><a hre
+
+## Selhosting is amazing!
+ - [https://www.reddit.com/r/selfhosted/comments/1iwuyf7/selhosting_is_amazing](https://www.reddit.com/r/selfhosted/comments/1iwuyf7/selhosting_is_amazing)
+ - RSS feed: $source
+ - date published: 2025-02-24T05:46:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1iwuyf7/selhosting_is_amazing/"> <img src="https://preview.redd.it/d3v3r6ocz0le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7e090b1028c25909fa6e8fb5137e7cfe2f1da4a7" alt="Selhosting is amazing!" title="Selhosting is amazing!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So I had been flirting with the idea of hosting my own pi-hole on a raspberry pie. But the absurd price of these boards pushed me towards just getting an Hp EliteDesk 800 G1. I installed Promox and deployed my first selfhosted app, pi-hole! For now, I plan to install Jellyfin, local VPN and photo storage solutions. I&#39;ll be going through this subreddit to find more recommended apps to install but feel free to suggest me your top 3 recommended selhosted apps!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shikhar1234"> /u/shikhar1234 </a> <br/> <span><a href="https://i.redd.it/d3v3r6ocz0le1.jp
+
+## New to selfhost and need a bit of guidance
+ - [https://www.reddit.com/r/selfhosted/comments/1iwpifp/new_to_selfhost_and_need_a_bit_of_guidance](https://www.reddit.com/r/selfhosted/comments/1iwpifp/new_to_selfhost_and_need_a_bit_of_guidance)
+ - RSS feed: $source
+ - date published: 2025-02-24T00:51:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Like the title says I’m new to self-hosting and have only dabbled with Docker to set up a Media Center on my PC (using Jellyfin, Sonarr, Radarr, Prowlarr, and Bazarr). Recently my father-in-law gifted me a Raspberry Pi 3, and I’m interested in moving my Media Center from my PC to the Raspberry Pi while adding other functionalities.</p> <p>Since I lack experience and knowledge I’m trying to make sure my idea is possible before I buy anything and I&#39;m looking for opinions and suggestions on what I can achieve. I&#39;m trying to replace Netflix and Google Drive, with a bit less ads while having the possibility to connect to it when I&#39;m outside my home.</p> <p>The features I’m considering in order of priority are:</p> <ul> <li><p>Media Center (using Jellyfin, Sonarr, Radarr, Prowlarr, Bazarr and Jellyseer);</p></li> <li><p>Reverse Proxy with a purchased domain for remote access (Nginx Proxy Manager);</p></li> <li><p>NAS/Cloud service (Nextcloud);<
+

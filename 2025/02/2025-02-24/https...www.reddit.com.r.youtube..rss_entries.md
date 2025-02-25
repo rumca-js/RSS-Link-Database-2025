@@ -1,0 +1,380 @@
+# Source:YouTube, URL:https://www.reddit.com/r/youtube/.rss, language:en
+
+## Youtube short fades away when watching?
+ - [https://www.reddit.com/r/youtube/comments/1ixfjmq/youtube_short_fades_away_when_watching](https://www.reddit.com/r/youtube/comments/1ixfjmq/youtube_short_fades_away_when_watching)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:50:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ixfjmq/youtube_short_fades_away_when_watching/"> <img src="https://preview.redd.it/rqdqdsgt16le1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=86cd1eb3a5b2d216be8a6d7028d72535f6103472" alt="Youtube short fades away when watching?" title="Youtube short fades away when watching?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Strawberry_5061"> /u/No_Strawberry_5061 </a> <br/> <span><a href="https://i.redd.it/rqdqdsgt16le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ixfjmq/youtube_short_fades_away_when_watching/">[comments]</a></span> </td></tr></table>
+
+## "Sort comments by Top Ever" stop working for anyone else?
+ - [https://www.reddit.com/r/youtube/comments/1ixf6gy/sort_comments_by_top_ever_stop_working_for_anyone](https://www.reddit.com/r/youtube/comments/1ixf6gy/sort_comments_by_top_ever_stop_working_for_anyone)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:35:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>I noticed since yesterday the option to filter by top comment is not really working, it&#39;ll show like 15 comments with 1 or no likes and then a comment with 5k upvotes in the middle</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/amr_jkl"> /u/amr_jkl </a> <br/> <span><a href="https://www.reddit.com/r/youtube/comments/1ixf6gy/sort_comments_by_top_ever_stop_working_for_anyone/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ixf6gy/sort_comments_by_top_ever_stop_working_for_anyone/">[comments]</a></span>
+
+## The new mr beast vs t series
+ - [https://www.reddit.com/r/youtube/comments/1ixf02d/the_new_mr_beast_vs_t_series](https://www.reddit.com/r/youtube/comments/1ixf02d/the_new_mr_beast_vs_t_series)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:27:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ixf02d/the_new_mr_beast_vs_t_series/"> <img src="https://preview.redd.it/0o3pbzbyx5le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f22d30c723764498df3871160ff415e756f54ca" alt="The new mr beast vs t series" title="The new mr beast vs t series" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shastsho"> /u/shastsho </a> <br/> <span><a href="https://i.redd.it/0o3pbzbyx5le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ixf02d/the_new_mr_beast_vs_t_series/">[comments]</a></span> </td></tr></table>
+
+## how long until i start to see money coming in?
+ - [https://www.reddit.com/r/youtube/comments/1ixeywp/how_long_until_i_start_to_see_money_coming_in](https://www.reddit.com/r/youtube/comments/1ixeywp/how_long_until_i_start_to_see_money_coming_in)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:26:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>so i got accepted for monetisation today but it still says like £0 income but i earn like 1000 views an hour? and my videos haven’t been demonetised </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Classic-Cat8313"> /u/Classic-Cat8313 </a> <br/> <span><a href="https://www.reddit.com/r/youtube/comments/1ixeywp/how_long_until_i_start_to_see_money_coming_in/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ixeywp/how_long_until_i_start_to_see_money_coming_in/">[comments]</a></span>
+
+## Does anyone have a playlist of videos on youtube similar to Videos That Will Turn You Into a Polymath, Pathfinder, Genius, or Freethinker on YouTube?
+ - [https://www.reddit.com/r/youtube/comments/1ixejs4/does_anyone_have_a_playlist_of_videos_on_youtube](https://www.reddit.com/r/youtube/comments/1ixejs4/does_anyone_have_a_playlist_of_videos_on_youtube)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:09:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Try to look for playlists but couldn&#39;t find any.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CH3XM3X_"> /u/CH3XM3X_ </a> <br/> <span><a href="https://www.reddit.com/r/youtube/comments/1ixejs4/does_anyone_have_a_playlist_of_videos_on_youtube/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ixejs4/does_anyone_have_a_playlist_of_videos_on_youtube/">[comments]</a></span>
+
+## Weird „content“ yt short format
+ - [https://www.reddit.com/r/youtube/comments/1ixecxk/weird_content_yt_short_format](https://www.reddit.com/r/youtube/comments/1ixecxk/weird_content_yt_short_format)
+ - RSS feed: $source
+ - date published: 2025-02-24T22:01:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>This is nothing new and a lot of people have probably seen it, but why does this content exist where someone just shows a screenshot, usually some meme or sth and put their face blankly staring at the camera? </p> <p>It isn’t even “reacting”, it’s literally just staring at my soul. And if you want to just put one out of the 3 songs into a video with a meme then whatever, but why your face? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheInd3pendent"> /u/TheInd3pendent </a> <br/> <span><a href="https://www.reddit.com/r/youtube/comments/1ixecxk/weird_content_yt_short_format/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ixecxk/weird_content_yt_short_format/">[comments]</a></span>
+
+## I missed 20th anniversary for YouTube.
+ - [https://www.reddit.com/r/youtube/comments/1ixdklc/i_missed_20th_anniversary_for_youtube](https://www.reddit.com/r/youtube/comments/1ixdklc/i_missed_20th_anniversary_for_youtube)
+ - RSS feed: $source
+ - date published: 2025-02-24T21:29:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>Youtube was released in February 14th, 2005, Which means it was 20 years old. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mediocre-Meet-2203"> /u/Mediocre-Meet-2203 </a> <br/> <span><a href="https://www.reddit.com/r/youtube/comments/1ixdklc/i_missed_20th_anniversary_for_youtube/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ixdklc/i_missed_20th_anniversary_for_youtube/">[comments]</a></span>
+
+## Im trying to upload a 1 hour video but its currently stuck at processing for HD. I dont need HD as the video is for a school project so I would like to just publish the SD version which is done already, is there a way to do so ?
+ - [https://www.reddit.com/r/youtube/comments/1ixdide/im_trying_to_upload_a_1_hour_video_but_its](https://www.reddit.com/r/youtube/comments/1ixdide/im_trying_to_upload_a_1_hour_video_but_its)
+ - RSS feed: $source
+ - date published: 2025-02-24T21:27:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Question is time sensitive</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Darinae"> /u/Darinae </a> <br/> <span><a href="https://www.reddit.com/r/youtube/comments/1ixdide/im_trying_to_upload_a_1_hour_video_but_its/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ixdide/im_trying_to_upload_a_1_hour_video_but_its/">[comments]</a></span>
+
+## Does everyone else also suddenly have 2 rows of "Shorts" on their homepage?
+ - [https://www.reddit.com/r/youtube/comments/1ixdibx/does_everyone_else_also_suddenly_have_2_rows_of](https://www.reddit.com/r/youtube/comments/1ixdibx/does_everyone_else_also_suddenly_have_2_rows_of)
+ - RSS feed: $source
+ - date published: 2025-02-24T21:26:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ixdibx/does_everyone_else_also_suddenly_have_2_rows_of/"> <img src="https://preview.redd.it/ez9wk6vwm5le1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=08dcb8cb00df2d5746621f03edfdb7f338df5864" alt="Does everyone else also suddenly have 2 rows of &quot;Shorts&quot; on their homepage?" title="Does everyone else also suddenly have 2 rows of &quot;Shorts&quot; on their homepage?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UnknownMyoux"> /u/UnknownMyoux </a> <br/> <span><a href="https://i.redd.it/ez9wk6vwm5le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ixdibx/does_everyone_else_also_suddenly_have_2_rows_of/">[comments]</a></span> </td></tr></table>
+
+## Does anyone know if who drew the thumbnails on these 3 jack saint’s videos or did he make them himself?
+ - [https://www.reddit.com/r/youtube/comments/1ixc55x/does_anyone_know_if_who_drew_the_thumbnails_on](https://www.reddit.com/r/youtube/comments/1ixc55x/does_anyone_know_if_who_drew_the_thumbnails_on)
+ - RSS feed: $source
+ - date published: 2025-02-24T20:31:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ixc55x/does_anyone_know_if_who_drew_the_thumbnails_on/"> <img src="https://preview.redd.it/nx001mg7d5le1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8eb8bde544e2cd2dd9094a1c951e5094510387db" alt="Does anyone know if who drew the thumbnails on these 3 jack saint’s videos or did he make them himself?" title="Does anyone know if who drew the thumbnails on these 3 jack saint’s videos or did he make them himself?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bloombox00"> /u/bloombox00 </a> <br/> <span><a href="https://i.redd.it/nx001mg7d5le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ixc55x/does_anyone_know_if_who_drew_the_thumbnails_on/">[comments]</a></span> </td></tr></table>
+
+## I'm getting a lot of recommend it video like this, What the hell is happening it's a really good video but come on this supposed to be YouTube
+ - [https://www.reddit.com/r/youtube/comments/1ixc284/im_getting_a_lot_of_recommend_it_video_like_this](https://www.reddit.com/r/youtube/comments/1ixc284/im_getting_a_lot_of_recommend_it_video_like_this)
+ - RSS feed: $source
+ - date published: 2025-02-24T20:28:19+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Narutoo999i"> /u/Narutoo999i </a> <br/> <span><a href="https://www.youtube.com/watch?v=g3u4x-9XOMM">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ixc284/im_getting_a_lot_of_recommend_it_video_like_this/">[comments]</a></span>
+
+## I don't know how to grow my gaming channel
+ - [https://www.reddit.com/r/youtube/comments/1ixc210/i_dont_know_how_to_grow_my_gaming_channel](https://www.reddit.com/r/youtube/comments/1ixc210/i_dont_know_how_to_grow_my_gaming_channel)
+ - RSS feed: $source
+ - date published: 2025-02-24T20:28:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ixc210/i_dont_know_how_to_grow_my_gaming_channel/"> <img src="https://preview.redd.it/68stpezmc5le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f800115bc1fb5d3565f07dab5ae19f534386c78" alt="I don't know how to grow my gaming channel" title="I don't know how to grow my gaming channel" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I started a channel a month ago and I only have 30 subscribers. It isn&#39;t going really well and I don&#39;t know what to do! I don&#39;t have a laptop or pc yet so I play mobile games but I don&#39;t get many subscribers! What can I do? Which games should I play? Any tips?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rayaneair"> /u/Rayaneair </a> <br/> <span><a href="https://i.redd.it/68stpezmc5le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ixc210/i_dont_know_how_to_grow_my_gaming_channel/"
+
+## A video showing gore which isn't age restricted
+ - [https://www.reddit.com/r/youtube/comments/1ixblu3/a_video_showing_gore_which_isnt_age_restricted](https://www.reddit.com/r/youtube/comments/1ixblu3/a_video_showing_gore_which_isnt_age_restricted)
+ - RSS feed: $source
+ - date published: 2025-02-24T20:10:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I found this video called </p> <h1>Oslobadjanje brda Husar - Tesanj 13.10.1994 g 2.dio</h1> <p>which translates to</p> <h1>The liberation of Husar Hill - Tesanj 10.13.1994 part 2</h1> <p>The video was recorded during the Bosnian War which lasted from 1992 to 1995, it shows footage of Bosnian government forces liberating Husar Hill. The video itself is 54 minutes long, it&#39;s mostly clean or as clean as war footage could be, until it reaches the 40-minute mark where it gets crazy. There, Bosnian soldiers are seen rummaging through the captured Serb trench, there they show a couple of dead bodies. However, the most gruesome body appears at the 44:50 mark, there, a dead Serb soldier is shown with a fist sized hole in the back of his head through which his brain seems to be &quot;leaking&quot;.</p> <p>I wanna know, are these types of videos which show gore but aren&#39;t age restricted at all common?<br/> I never saw something like this before.<
+
+## why doesn't my channel reach the right audience?
+ - [https://www.reddit.com/r/youtube/comments/1ixasww/why_doesnt_my_channel_reach_the_right_audience](https://www.reddit.com/r/youtube/comments/1ixasww/why_doesnt_my_channel_reach_the_right_audience)
+ - RSS feed: $source
+ - date published: 2025-02-24T19:37:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ixasww/why_doesnt_my_channel_reach_the_right_audience/"> <img src="https://preview.redd.it/pkmuwaao35le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cc7f62d5f05ed695de9f43d13482791b33376fbb" alt="why doesn't my channel reach the right audience?" title="why doesn't my channel reach the right audience?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>it&#39;s been a long time my graph is stagnant sometimes my videos get views but the subscribers and likes are lower than the content in the same field. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Prestigious-Eye9014"> /u/Prestigious-Eye9014 </a> <br/> <span><a href="https://i.redd.it/pkmuwaao35le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ixasww/why_doesnt_my_channel_reach_the_right_audience/">[comments]</a></span> </td></tr></table>
+
+## the more ads youtube runs the worse there ad moderation gets. what's actually up with it? why don't they do anything about it?
+ - [https://www.reddit.com/r/youtube/comments/1ixarog/the_more_ads_youtube_runs_the_worse_there_ad](https://www.reddit.com/r/youtube/comments/1ixarog/the_more_ads_youtube_runs_the_worse_there_ad)
+ - RSS feed: $source
+ - date published: 2025-02-24T19:36:27+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Russian_tank2022"> /u/Russian_tank2022 </a> <br/> <span><a href="https://i.redd.it/8iap60xd35le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ixarog/the_more_ads_youtube_runs_the_worse_there_ad/">[comments]</a></span>
+
+## Annoying slider appears at the bottom while watching YT on Chrome
+ - [https://www.reddit.com/r/youtube/comments/1ixamqx/annoying_slider_appears_at_the_bottom_while](https://www.reddit.com/r/youtube/comments/1ixamqx/annoying_slider_appears_at_the_bottom_while)
+ - RSS feed: $source
+ - date published: 2025-02-24T19:31:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ixamqx/annoying_slider_appears_at_the_bottom_while/"> <img src="https://preview.redd.it/1qji0xz425le1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9033571be716eecea55a8d14882c381400c39c67" alt="Annoying slider appears at the bottom while watching YT on Chrome" title="Annoying slider appears at the bottom while watching YT on Chrome" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KyoHisagi"> /u/KyoHisagi </a> <br/> <span><a href="https://i.redd.it/1qji0xz425le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ixamqx/annoying_slider_appears_at_the_bottom_while/">[comments]</a></span> </td></tr></table>
+
+## Anybody else have this issue?
+ - [https://www.reddit.com/r/youtube/comments/1ixa1h7/anybody_else_have_this_issue](https://www.reddit.com/r/youtube/comments/1ixa1h7/anybody_else_have_this_issue)
+ - RSS feed: $source
+ - date published: 2025-02-24T19:07:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ixa1h7/anybody_else_have_this_issue/"> <img src="https://external-preview.redd.it/Z3YxZDh3MjZ5NGxlMZHE5lxzwgr4-mXcvW9nbP8wGG9bsuhlIWjDjlGRFHWZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=300d691b068a27e9c90eead1223cc6863dbcbc4d" alt="Anybody else have this issue?" title="Anybody else have this issue?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This has been going on for almost a year. Everytime i load up youtube it takes ages for my liked videos to show and i have to keep refreshing. Deleting snd redownloading the app also doesn&#39;t work, and it&#39;s super annoying! Is there a fix for this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spaceagebachelorpad"> /u/spaceagebachelorpad </a> <br/> <span><a href="https://v.redd.it/k7iu5356y4le1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ixa1h7/anybody_else_have_this_issue/">[co
+
+## Bro, Death? Relly?
+ - [https://www.reddit.com/r/youtube/comments/1ix99nk/bro_death_relly](https://www.reddit.com/r/youtube/comments/1ix99nk/bro_death_relly)
+ - RSS feed: $source
+ - date published: 2025-02-24T18:35:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ix99nk/bro_death_relly/"> <img src="https://preview.redd.it/ys9uzwfms4le1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=35cecee1a577ae7fbf45144dde20b84bd5f8afe4" alt="Bro, Death? Relly?" title="Bro, Death? Relly?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/poroprop"> /u/poroprop </a> <br/> <span><a href="https://i.redd.it/ys9uzwfms4le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix99nk/bro_death_relly/">[comments]</a></span> </td></tr></table>
+
+## New Sports/Pokemon Card Channel!
+ - [https://www.reddit.com/r/youtube/comments/1ix8uhy/new_sportspokemon_card_channel](https://www.reddit.com/r/youtube/comments/1ix8uhy/new_sportspokemon_card_channel)
+ - RSS feed: $source
+ - date published: 2025-02-24T18:17:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello!</p> <p>I’m about a month into my YouTube journey and would love to know what you guys think! The first couple videos were vertical which I didn’t realize until it was too late, so the later ones are horizontal. I also have a new microphone coming tomorrow. </p> <p>Thanks for the time!</p> <p><a href="https://youtube.com/@pinandcardpalace">https://youtube.com/@pinandcardpalace</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iwells911"> /u/iwells911 </a> <br/> <span><a href="https://www.reddit.com/r/youtube/comments/1ix8uhy/new_sportspokemon_card_channel/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix8uhy/new_sportspokemon_card_channel/">[comments]</a></span>
+
+## PhD Research: Seeking YouTube Creators' Insights on Comment Moderation Tools
+ - [https://www.reddit.com/r/youtube/comments/1ix83jo/phd_research_seeking_youtube_creators_insights_on](https://www.reddit.com/r/youtube/comments/1ix83jo/phd_research_seeking_youtube_creators_insights_on)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:48:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ix83jo/phd_research_seeking_youtube_creators_insights_on/"> <img src="https://external-preview.redd.it/D1f0WMkreS10ORtn3xjPXaivJNI096pK5qpUEgBSvsg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d025ef5ffc4406edf59bc0aa21ae258bca26b148" alt="PhD Research: Seeking YouTube Creators' Insights on Comment Moderation Tools" title="PhD Research: Seeking YouTube Creators' Insights on Comment Moderation Tools" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hello <a href="/r/youtube">r/youtube</a> community,</p> <p>I’m a Computer Science PhD student at the University of Washington, and I’m researching ways to help content creators manage their YouTube comment sections in a more personalized and less stressful way.</p> <p>My team and I are developing a tool that aims to help content creators more easily mange their comment sections (filter, delete, reply, etc.) according to their preferences beyond the simple word filter
+
+## Ummm my recommended is moving mad
+ - [https://www.reddit.com/r/youtube/comments/1ix7xog/ummm_my_recommended_is_moving_mad](https://www.reddit.com/r/youtube/comments/1ix7xog/ummm_my_recommended_is_moving_mad)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:42:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ix7xog/ummm_my_recommended_is_moving_mad/"> <img src="https://preview.redd.it/1zt7w5p1j4le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3fbd5b300d180d8ac7857916dad7f1df69f4272c" alt="Ummm my recommended is moving mad" title="Ummm my recommended is moving mad" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AwarenessHonest9030"> /u/AwarenessHonest9030 </a> <br/> <span><a href="https://i.redd.it/1zt7w5p1j4le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix7xog/ummm_my_recommended_is_moving_mad/">[comments]</a></span> </td></tr></table>
+
+## How do I make my YouTube go from 2 columns back to 3??
+ - [https://www.reddit.com/r/youtube/comments/1ix7uyv/how_do_i_make_my_youtube_go_from_2_columns_back](https://www.reddit.com/r/youtube/comments/1ix7uyv/how_do_i_make_my_youtube_go_from_2_columns_back)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:39:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ix7uyv/how_do_i_make_my_youtube_go_from_2_columns_back/"> <img src="https://preview.redd.it/kvn2u1aii4le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f52a00343908f7b0408e2d4a128af1c0fc17a91" alt="How do I make my YouTube go from 2 columns back to 3??" title="How do I make my YouTube go from 2 columns back to 3??" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I never really cared for YouTube making it only 3 columns I mean, I don’t need to see more but this is absurd. It literally changed overnight and I don’t see an option to put it back please help!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dumb_kitty3000"> /u/Dumb_kitty3000 </a> <br/> <span><a href="https://i.redd.it/kvn2u1aii4le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix7uyv/how_do_i_make_my_youtube_go_from_2_columns_back/">[comments]</a></span> </td></tr><
+
+## If you could create or change one thing about YouTube what would it be (image unrelated)
+ - [https://www.reddit.com/r/youtube/comments/1ix7ct1/if_you_could_create_or_change_one_thing_about](https://www.reddit.com/r/youtube/comments/1ix7ct1/if_you_could_create_or_change_one_thing_about)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:18:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ix7ct1/if_you_could_create_or_change_one_thing_about/"> <img src="https://preview.redd.it/0zwl07mve4le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87c331e1b5fbb4a5f9775026c279f7e2deb74943" alt="If you could create or change one thing about YouTube what would it be (image unrelated)" title="If you could create or change one thing about YouTube what would it be (image unrelated)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Straight-Tale-5844"> /u/Straight-Tale-5844 </a> <br/> <span><a href="https://i.redd.it/0zwl07mve4le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix7ct1/if_you_could_create_or_change_one_thing_about/">[comments]</a></span> </td></tr></table>
+
+## Money Heist | Part 1 | - In this shirt
+ - [https://www.reddit.com/r/youtube/comments/1ix6xyb/money_heist_part_1_in_this_shirt](https://www.reddit.com/r/youtube/comments/1ix6xyb/money_heist_part_1_in_this_shirt)
+ - RSS feed: $source
+ - date published: 2025-02-24T17:02:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ix6xyb/money_heist_part_1_in_this_shirt/"> <img src="https://external-preview.redd.it/t3thxGl4yJ1V65SjgmABjKYrI_bfRAHefmmswRBW6UM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8c5258f1f7ee86ceeef6320aea48aa609bae8624" alt="Money Heist | Part 1 | - In this shirt" title="Money Heist | Part 1 | - In this shirt" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Please let give feedback 🙏 (Sorry for 720p)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Exact-Deal-4291"> /u/Exact-Deal-4291 </a> <br/> <span><a href="https://youtu.be/bXKqhk5A3kM?si=4KG7QmNGSqT4cnpM">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix6xyb/money_heist_part_1_in_this_shirt/">[comments]</a></span> </td></tr></table>
+
+## When an immovable object meets an unstoppable force.
+ - [https://www.reddit.com/r/youtube/comments/1ix5h7g/when_an_immovable_object_meets_an_unstoppable](https://www.reddit.com/r/youtube/comments/1ix5h7g/when_an_immovable_object_meets_an_unstoppable)
+ - RSS feed: $source
+ - date published: 2025-02-24T16:02:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ix5h7g/when_an_immovable_object_meets_an_unstoppable/"> <img src="https://preview.redd.it/6x1zmmkb14le1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=220a20bf8a7c1aa5738b2534a8f2f8f4a85091f8" alt="When an immovable object meets an unstoppable force." title="When an immovable object meets an unstoppable force." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Consistent_Employ979"> /u/Consistent_Employ979 </a> <br/> <span><a href="https://i.redd.it/6x1zmmkb14le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix5h7g/when_an_immovable_object_meets_an_unstoppable/">[comments]</a></span> </td></tr></table>
+
+## These game ads are getting wild now
+ - [https://www.reddit.com/r/youtube/comments/1ix5bzn/these_game_ads_are_getting_wild_now](https://www.reddit.com/r/youtube/comments/1ix5bzn/these_game_ads_are_getting_wild_now)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:56:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ix5bzn/these_game_ads_are_getting_wild_now/"> <img src="https://b.thumbs.redditmedia.com/qiUICWJKz7Pskoraq7Pu91sE1R1i9fgnXMgct6Ce3XY.jpg" alt="These game ads are getting wild now" title="These game ads are getting wild now" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Video is literally anime laser girl gif but it&#39;s assembling tactical clothes and gears instead.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KaungSetMoe111"> /u/KaungSetMoe111 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ix5bzn">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix5bzn/these_game_ads_are_getting_wild_now/">[comments]</a></span> </td></tr></table>
+
+## New layout?
+ - [https://www.reddit.com/r/youtube/comments/1ix555n/new_layout](https://www.reddit.com/r/youtube/comments/1ix555n/new_layout)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:49:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>Today I opened youtube on my chromebook and instead of 3 thumbnails across it&#39;s showing only 2. Anybody know how or why? Also, is there a way to restore the old three thumbs per row layout? I&#39;ve found I can minimize the sidebar, but is there a permanent way to fix this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rupert-Brown"> /u/Rupert-Brown </a> <br/> <span><a href="https://www.reddit.com/r/youtube/comments/1ix555n/new_layout/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix555n/new_layout/">[comments]</a></span>
+
+## Pokémon, Yu-Gi-Oh! or stuff like that...
+ - [https://www.reddit.com/r/youtube/comments/1ix4nba/pokémon_yugioh_or_stuff_like_that](https://www.reddit.com/r/youtube/comments/1ix4nba/pokémon_yugioh_or_stuff_like_that)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:28:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ix4nba/pokémon_yugioh_or_stuff_like_that/"> <img src="https://preview.redd.it/ncvytrozu3le1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=44304ff23f13006fbb94276aedc585d6ab29f6f1" alt="Pokémon, Yu-Gi-Oh! or stuff like that..." title="Pokémon, Yu-Gi-Oh! or stuff like that..." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Infinite_Sale2042"> /u/Infinite_Sale2042 </a> <br/> <span><a href="https://i.redd.it/ncvytrozu3le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix4nba/pokémon_yugioh_or_stuff_like_that/">[comments]</a></span> </td></tr></table>
+
+## What's with this weird line in the middle that I keep seeing on some shorts? Both PC and on my phone.
+ - [https://www.reddit.com/r/youtube/comments/1ix462t/whats_with_this_weird_line_in_the_middle_that_i](https://www.reddit.com/r/youtube/comments/1ix462t/whats_with_this_weird_line_in_the_middle_that_i)
+ - RSS feed: $source
+ - date published: 2025-02-24T15:07:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ix462t/whats_with_this_weird_line_in_the_middle_that_i/"> <img src="https://preview.redd.it/2o6djftdr3le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=488437daeb2390e6c84e96f4213fbeee83b7d8af" alt="What's with this weird line in the middle that I keep seeing on some shorts? Both PC and on my phone." title="What's with this weird line in the middle that I keep seeing on some shorts? Both PC and on my phone." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I&#39;ve googled it and can&#39;t find a single post talking about it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FvHound"> /u/FvHound </a> <br/> <span><a href="https://i.redd.it/2o6djftdr3le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix462t/whats_with_this_weird_line_in_the_middle_that_i/">[comments]</a></span> </td></tr></table>
+
+## How do I remove these weird icons?
+ - [https://www.reddit.com/r/youtube/comments/1ix3nrh/how_do_i_remove_these_weird_icons](https://www.reddit.com/r/youtube/comments/1ix3nrh/how_do_i_remove_these_weird_icons)
+ - RSS feed: $source
+ - date published: 2025-02-24T14:45:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ix3nrh/how_do_i_remove_these_weird_icons/"> <img src="https://preview.redd.it/n32fvdyfn3le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f536d91041e150f653885fcbbd50350b22fd5033" alt="How do I remove these weird icons?" title="How do I remove these weird icons?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Aamir_rt"> /u/Aamir_rt </a> <br/> <span><a href="https://i.redd.it/n32fvdyfn3le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix3nrh/how_do_i_remove_these_weird_icons/">[comments]</a></span> </td></tr></table>
+
+## It's night in the beach and everything's still lively. Check my new vlog guys! Thank you!
+ - [https://www.reddit.com/r/youtube/comments/1ix39k6/its_night_in_the_beach_and_everythings_still](https://www.reddit.com/r/youtube/comments/1ix39k6/its_night_in_the_beach_and_everythings_still)
+ - RSS feed: $source
+ - date published: 2025-02-24T14:27:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ix39k6/its_night_in_the_beach_and_everythings_still/"> <img src="https://external-preview.redd.it/mr9oe1CK0PE7tCjz2bv7L9UoPfNb1wtPkHfTJflpMac.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3f32d399f419dd9ac1ca889cd961074816f6b9e7" alt="It's night in the beach and everything's still lively. Check my new vlog guys! Thank you!" title="It's night in the beach and everything's still lively. Check my new vlog guys! Thank you!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thepessimist_12"> /u/thepessimist_12 </a> <br/> <span><a href="https://youtu.be/1bslGVdDw8I?si=M193t8UjIG98pzhT">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix39k6/its_night_in_the_beach_and_everythings_still/">[comments]</a></span> </td></tr></table>
+
+## NBA Streams?
+ - [https://www.reddit.com/r/youtube/comments/1ix2va3/nba_streams](https://www.reddit.com/r/youtube/comments/1ix2va3/nba_streams)
+ - RSS feed: $source
+ - date published: 2025-02-24T14:08:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>hey, i’m looking at youtube TV, i know some subscriptions don’t show certain games., i got paramount and i couldn’t watch any of the nba Streams.,\,. basically, i really don’t wanna pay for cable just for the NBA Games live. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Stan45E"> /u/Stan45E </a> <br/> <span><a href="https://www.reddit.com/r/youtube/comments/1ix2va3/nba_streams/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix2va3/nba_streams/">[comments]</a></span>
+
+## Which dead/inactive YouTuber do you miss?
+ - [https://www.reddit.com/r/youtube/comments/1ix2twf/which_deadinactive_youtuber_do_you_miss](https://www.reddit.com/r/youtube/comments/1ix2twf/which_deadinactive_youtuber_do_you_miss)
+ - RSS feed: $source
+ - date published: 2025-02-24T14:07:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ix2twf/which_deadinactive_youtuber_do_you_miss/"> <img src="https://b.thumbs.redditmedia.com/NNitXkgZdNnkN6RNTapnDeX0UyGMMxPYrPOBMiNzyiY.jpg" alt="Which dead/inactive YouTuber do you miss?" title="Which dead/inactive YouTuber do you miss?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Bill Wurtz&#39;s last video was in fact 820 days ago.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Stefan0_"> /u/Stefan0_ </a> <br/> <span><a href="https://www.reddit.com/gallery/1ix2twf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix2twf/which_deadinactive_youtuber_do_you_miss/">[comments]</a></span> </td></tr></table>
+
+## Why does it look like this (open image)
+ - [https://www.reddit.com/r/youtube/comments/1ix2btd/why_does_it_look_like_this_open_image](https://www.reddit.com/r/youtube/comments/1ix2btd/why_does_it_look_like_this_open_image)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:43:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ix2btd/why_does_it_look_like_this_open_image/"> <img src="https://preview.redd.it/iq9ksrxgc3le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c90a06f671797e7207a2767449627dd19db09aa2" alt="Why does it look like this (open image)" title="Why does it look like this (open image)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Also the font got bigger</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AGY_13"> /u/AGY_13 </a> <br/> <span><a href="https://i.redd.it/iq9ksrxgc3le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix2btd/why_does_it_look_like_this_open_image/">[comments]</a></span> </td></tr></table>
+
+## insane yt shorts pull 💔
+ - [https://www.reddit.com/r/youtube/comments/1ix286r/insane_yt_shorts_pull](https://www.reddit.com/r/youtube/comments/1ix286r/insane_yt_shorts_pull)
+ - RSS feed: $source
+ - date published: 2025-02-24T13:38:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ix286r/insane_yt_shorts_pull/"> <img src="https://preview.redd.it/200sq0vbb3le1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=0e5d191ba121b94bba138eaaa0741c662d0154e8" alt="insane yt shorts pull 💔" title="insane yt shorts pull 💔" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RC_Maniac-"> /u/RC_Maniac- </a> <br/> <span><a href="https://i.redd.it/200sq0vbb3le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix286r/insane_yt_shorts_pull/">[comments]</a></span> </td></tr></table>
+
+## Why did this YouTuber change so much? What happened?
+ - [https://www.reddit.com/r/youtube/comments/1ix19w1/why_did_this_youtuber_change_so_much_what_happened](https://www.reddit.com/r/youtube/comments/1ix19w1/why_did_this_youtuber_change_so_much_what_happened)
+ - RSS feed: $source
+ - date published: 2025-02-24T12:50:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1ix19w1/why_did_this_youtuber_change_so_much_what_happened/"> <img src="https://preview.redd.it/tulam2gz23le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=861b2189cea6fc36d5d09e4648b9f5b4fa3ba172" alt="Why did this YouTuber change so much? What happened?" title="Why did this YouTuber change so much? What happened?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I noticed that his content changed around 2021, I only occasionally watch him nowadays.</p> <p>his content style has really changed. he used to record videos in his room or around his house, but around 2022 onwards, he only recorded in his room and seemed to keep the lights off. and now he only records videos in his basement.</p> <p>I feel he also had a more &quot;playful&quot; and &quot;cheeky&quot; editing style than he does now. and he seems to sound a lot quieter and more tired than he did before. He still seems to enjoy making videos, but he jus
+
+## How are Channels like bright side, five minute crafts not takwn down already?
+ - [https://www.reddit.com/r/youtube/comments/1ix12kc/how_are_channels_like_bright_side_five_minute](https://www.reddit.com/r/youtube/comments/1ix12kc/how_are_channels_like_bright_side_five_minute)
+ - RSS feed: $source
+ - date published: 2025-02-24T12:39:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>They make clickbait Thumbnails, reek misinformation, there is a clear gint of sexualization in their content, And, mostly children watch them and children Believe anything they hear. And bright side make videos like: &quot;OhH!!! AmeRiCa maKe BraNd nEw super jet! tHey aRe UnbEAteBle!!!&quot; But YouTube doesn&#39;t do anything about it. Most of bright side is completely made up. Almost none of the information they give is fake. Children are being brainwashed </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Visible_Tax7920"> /u/Visible_Tax7920 </a> <br/> <span><a href="https://www.reddit.com/r/youtube/comments/1ix12kc/how_are_channels_like_bright_side_five_minute/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1ix12kc/how_are_channels_like_bright_side_five_minute/">[comments]</a></span>
+
+## How the hell do I fix my algorithm?
+ - [https://www.reddit.com/r/youtube/comments/1ix0108/how_the_hell_do_i_fix_my_algorithm](https://www.reddit.com/r/youtube/comments/1ix0108/how_the_hell_do_i_fix_my_algorithm)
+ - RSS feed: $source
+ - date published: 2025-02-24T11:36:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>So my YouTube broke today, all of the sudden all my fyp, shorts, everything recommend is in Polish language. I&#39;ve never searched anything Polish related even, it just randomly happend when scrolling shorts. How do I fix that?</p> <p>2 (I think) important things, I&#39;m Polish living in Poland, but I watch YouTube exclusively in English, my whole phone is set to english and all, I was tricking the algorithm for a very long time now to not show me polish content, so maybe it finally figured out where I&#39;m from? How do I stop that.</p> <p>The second thing is that I&#39;m using CleanTube on my phone so I get ads free experience for free, it worked great for me but perhaps it might be a reason why my algorithm broke.</p> <p>Please help.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Firm_Explanation6174"> /u/Firm_Explanation6174 </a> <br/> <span><a href="https://www.reddit.com/r/youtube/comments/1ix0108/how_
+
+## Are there any YouTube dowloader that downloads videos?
+ - [https://www.reddit.com/r/youtube/comments/1iwzypq/are_there_any_youtube_dowloader_that_downloads](https://www.reddit.com/r/youtube/comments/1iwzypq/are_there_any_youtube_dowloader_that_downloads)
+ - RSS feed: $source
+ - date published: 2025-02-24T11:32:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am looking for a YouTube downloader that can download long videos (2 hours or longer) and quality at least 720p or higher?</p> <p>Any AI or program that is good to use?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DuhYourAGERD"> /u/DuhYourAGERD </a> <br/> <span><a href="https://www.reddit.com/r/youtube/comments/1iwzypq/are_there_any_youtube_dowloader_that_downloads/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1iwzypq/are_there_any_youtube_dowloader_that_downloads/">[comments]</a></span>
+
+## YouTube now allows significantly AI edited videos on its platform, despite the videos claiming to be "informational"
+ - [https://www.reddit.com/r/youtube/comments/1iwzioo/youtube_now_allows_significantly_ai_edited_videos](https://www.reddit.com/r/youtube/comments/1iwzioo/youtube_now_allows_significantly_ai_edited_videos)
+ - RSS feed: $source
+ - date published: 2025-02-24T11:02:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1iwzioo/youtube_now_allows_significantly_ai_edited_videos/"> <img src="https://b.thumbs.redditmedia.com/B2lEDhuLrUyANzGTx0e8IRoO6mbqimwrFy4uu9_weag.jpg" alt="YouTube now allows significantly AI edited videos on its platform, despite the videos claiming to be &quot;informational&quot;" title="YouTube now allows significantly AI edited videos on its platform, despite the videos claiming to be &quot;informational&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MuskieNotMusk"> /u/MuskieNotMusk </a> <br/> <span><a href="https://www.reddit.com/gallery/1iwzioo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1iwzioo/youtube_now_allows_significantly_ai_edited_videos/">[comments]</a></span> </td></tr></table>
+
+## This thumbnail need to stop!
+ - [https://www.reddit.com/r/youtube/comments/1iwz9d3/this_thumbnail_need_to_stop](https://www.reddit.com/r/youtube/comments/1iwz9d3/this_thumbnail_need_to_stop)
+ - RSS feed: $source
+ - date published: 2025-02-24T10:45:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1iwz9d3/this_thumbnail_need_to_stop/"> <img src="https://preview.redd.it/uk9szmgkg2le1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b24b25693ed28f23c3152df51aef94ac15ab552e" alt="This thumbnail need to stop!" title="This thumbnail need to stop!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Forsaken-Cheek-6386"> /u/Forsaken-Cheek-6386 </a> <br/> <span><a href="https://i.redd.it/uk9szmgkg2le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1iwz9d3/this_thumbnail_need_to_stop/">[comments]</a></span> </td></tr></table>
+
+## 99% ?,and those 2% are smokers?
+ - [https://www.reddit.com/r/youtube/comments/1iwz7h9/99_and_those_2_are_smokers](https://www.reddit.com/r/youtube/comments/1iwz7h9/99_and_those_2_are_smokers)
+ - RSS feed: $source
+ - date published: 2025-02-24T10:41:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1iwz7h9/99_and_those_2_are_smokers/"> <img src="https://preview.redd.it/h0ufryvyf2le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=45cf118761ff019eb31d256f8ef2a5b90c58b9a9" alt="99% ?,and those 2% are smokers?" title="99% ?,and those 2% are smokers?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/itshappyguy5"> /u/itshappyguy5 </a> <br/> <span><a href="https://i.redd.it/h0ufryvyf2le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1iwz7h9/99_and_those_2_are_smokers/">[comments]</a></span> </td></tr></table>
+
+## I need help to decide to create content in english or spanish
+ - [https://www.reddit.com/r/youtube/comments/1iwyknn/i_need_help_to_decide_to_create_content_in](https://www.reddit.com/r/youtube/comments/1iwyknn/i_need_help_to_decide_to_create_content_in)
+ - RSS feed: $source
+ - date published: 2025-02-24T09:58:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>This is the original post: <a href="https://www.reddit.com/r/ask/s/K3D8PEBh5J">https://www.reddit.com/r/ask/s/K3D8PEBh5J</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MileHighCristian"> /u/MileHighCristian </a> <br/> <span><a href="https://www.reddit.com/r/youtube/comments/1iwyknn/i_need_help_to_decide_to_create_content_in/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1iwyknn/i_need_help_to_decide_to_create_content_in/">[comments]</a></span>
+
+## You know what? The day i get an ad that's over 1 minute on my tv, I'm gonna stop watching Youtube
+ - [https://www.reddit.com/r/youtube/comments/1iwxemb/you_know_what_the_day_i_get_an_ad_thats_over_1](https://www.reddit.com/r/youtube/comments/1iwxemb/you_know_what_the_day_i_get_an_ad_thats_over_1)
+ - RSS feed: $source
+ - date published: 2025-02-24T08:33:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>For now i always get 56 seconds ads on my tv and that&#39;s sooo long, like bro, why? </p> <p>I love youtube and basically my whole life was spent on it, but i can&#39;t deal with this anymore, it&#39;s almost like you could spent your time and money to advance the users experience, but no, for about 10 years now the Youtube experience has gotten worse and worse every single year.</p> <p>It&#39;s genuinely sad, because I&#39;m not the only one who thinks like this in my own circle, so there&#39;s probably a lot of people out there who think the same. </p> <p>The worst parts i have gathered in my thousands of hours spent there is: Double ads Long ads Long multiple ads The war on ad blockers Removing the dislike button Literal porn ads and videos</p> <p>The ever-chaniging mobile layouts that get worse each time</p> <p>Double standards on nudity Bots making and commenting on videos</p> <p>There&#39;s a lot more, so that&#39;s just sad.. But i guess you 
+
+## Does anyone hate channels like this? There seems to be a lot of channels like this recently that do shitty music that may be AI generated and are often oddly racist
+ - [https://www.reddit.com/r/youtube/comments/1iwwp39/does_anyone_hate_channels_like_this_there_seems](https://www.reddit.com/r/youtube/comments/1iwwp39/does_anyone_hate_channels_like_this_there_seems)
+ - RSS feed: $source
+ - date published: 2025-02-24T07:42:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1iwwp39/does_anyone_hate_channels_like_this_there_seems/"> <img src="https://preview.redd.it/l3uz8iksj1le1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1c10904310038c4b96d16afe2eeaf5a8e7b35447" alt="Does anyone hate channels like this? There seems to be a lot of channels like this recently that do shitty music that may be AI generated and are often oddly racist" title="Does anyone hate channels like this? There seems to be a lot of channels like this recently that do shitty music that may be AI generated and are often oddly racist" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Secure-Charge-2031"> /u/Secure-Charge-2031 </a> <br/> <span><a href="https://i.redd.it/l3uz8iksj1le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1iwwp39/does_anyone_hate_channels_like_this_there_seems/">[comments]</a></span> </td></tr></table>
+
+## Found this while searching YouTube
+ - [https://www.reddit.com/r/youtube/comments/1iwwhiv/found_this_while_searching_youtube](https://www.reddit.com/r/youtube/comments/1iwwhiv/found_this_while_searching_youtube)
+ - RSS feed: $source
+ - date published: 2025-02-24T07:27:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1iwwhiv/found_this_while_searching_youtube/"> <img src="https://preview.redd.it/2gapcivch1le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=500a3690f3591fea43b624b0a792ef8c63020497" alt="Found this while searching YouTube" title="Found this while searching YouTube" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thecowisback24"> /u/thecowisback24 </a> <br/> <span><a href="https://i.redd.it/2gapcivch1le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1iwwhiv/found_this_while_searching_youtube/">[comments]</a></span> </td></tr></table>
+
+## These two comments have the same likes and replies.
+ - [https://www.reddit.com/r/youtube/comments/1iwvr9f/these_two_comments_have_the_same_likes_and_replies](https://www.reddit.com/r/youtube/comments/1iwvr9f/these_two_comments_have_the_same_likes_and_replies)
+ - RSS feed: $source
+ - date published: 2025-02-24T06:38:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1iwvr9f/these_two_comments_have_the_same_likes_and_replies/"> <img src="https://b.thumbs.redditmedia.com/EjBtWd0fU5_kPMSonuGfvi5pWqr85eUXGTiK6_CyE-I.jpg" alt="These two comments have the same likes and replies." title="These two comments have the same likes and replies." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Immediate-Lecture277"> /u/Immediate-Lecture277 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iwvr9f">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1iwvr9f/these_two_comments_have_the_same_likes_and_replies/">[comments]</a></span> </td></tr></table>
+
+## 17 minute long ad fully ai
+ - [https://www.reddit.com/r/youtube/comments/1iwv9qh/17_minute_long_ad_fully_ai](https://www.reddit.com/r/youtube/comments/1iwv9qh/17_minute_long_ad_fully_ai)
+ - RSS feed: $source
+ - date published: 2025-02-24T06:06:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Idk if this fits the rules talking about this but this is my problem. These ads are crazy. What’s your history with these ads. This is my longest and it talks about sex and calls another girl a slut 🤷‍♀️</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/redchar_demon"> /u/redchar_demon </a> <br/> <span><a href="https://i.redd.it/o6t5sw9y21le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1iwv9qh/17_minute_long_ad_fully_ai/">[comments]</a></span>
+
+## Free Trial to April my ass
+ - [https://www.reddit.com/r/youtube/comments/1iwv2n7/free_trial_to_april_my_ass](https://www.reddit.com/r/youtube/comments/1iwv2n7/free_trial_to_april_my_ass)
+ - RSS feed: $source
+ - date published: 2025-02-24T05:54:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1iwv2n7/free_trial_to_april_my_ass/"> <img src="https://preview.redd.it/vxzjuhpp01le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=27d758be82c3919b816d0abd2138f3cba06116f3" alt="Free Trial to April my ass" title="Free Trial to April my ass" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Krieg_meatbicycle"> /u/Krieg_meatbicycle </a> <br/> <span><a href="https://i.redd.it/vxzjuhpp01le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1iwv2n7/free_trial_to_april_my_ass/">[comments]</a></span> </td></tr></table>
+
+## This got pulled in my recomended 😭
+ - [https://www.reddit.com/r/youtube/comments/1iwusmr/this_got_pulled_in_my_recomended](https://www.reddit.com/r/youtube/comments/1iwusmr/this_got_pulled_in_my_recomended)
+ - RSS feed: $source
+ - date published: 2025-02-24T05:36:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1iwusmr/this_got_pulled_in_my_recomended/"> <img src="https://b.thumbs.redditmedia.com/DYrX9o78kKZcsuhBbSLVgo95yTVEXq8WOvcNXXTPDWk.jpg" alt="This got pulled in my recomended 😭" title="This got pulled in my recomended 😭" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bulky-Bend-7699"> /u/Bulky-Bend-7699 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iwusmr">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1iwusmr/this_got_pulled_in_my_recomended/">[comments]</a></span> </td></tr></table>
+
+## Am i the only one that hates these kinds of thumnails?
+ - [https://www.reddit.com/r/youtube/comments/1iwskn1/am_i_the_only_one_that_hates_these_kinds_of](https://www.reddit.com/r/youtube/comments/1iwskn1/am_i_the_only_one_that_hates_these_kinds_of)
+ - RSS feed: $source
+ - date published: 2025-02-24T03:28:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1iwskn1/am_i_the_only_one_that_hates_these_kinds_of/"> <img src="https://preview.redd.it/o816gskpa0le1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=10ef5e92715a679a584d841279604821bf07f209" alt="Am i the only one that hates these kinds of thumnails?" title="Am i the only one that hates these kinds of thumnails?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Also why when ever someone talks about sprunki content farms they put simon on the thumnail for some reason they put the text repeating itself 5 times on a white backround</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/black072istaken"> /u/black072istaken </a> <br/> <span><a href="https://i.redd.it/o816gskpa0le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1iwskn1/am_i_the_only_one_that_hates_these_kinds_of/">[comments]</a></span> </td></tr></table>
+
+## YouTube fighting ad-blockers in a nutshell
+ - [https://www.reddit.com/r/youtube/comments/1iwqebz/youtube_fighting_adblockers_in_a_nutshell](https://www.reddit.com/r/youtube/comments/1iwqebz/youtube_fighting_adblockers_in_a_nutshell)
+ - RSS feed: $source
+ - date published: 2025-02-24T01:36:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/youtube/comments/1iwqebz/youtube_fighting_adblockers_in_a_nutshell/"> <img src="https://external-preview.redd.it/YWRhamlpYm9xemtlMYeWntajypoq4UfBfXhPCPi1qzyimNdl-Rykl45IMbR1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1b3987a063294451ec6a3f8990042a535279486d" alt="YouTube fighting ad-blockers in a nutshell" title="YouTube fighting ad-blockers in a nutshell" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CleanMeme129"> /u/CleanMeme129 </a> <br/> <span><a href="https://v.redd.it/0ycngffoqzke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1iwqebz/youtube_fighting_adblockers_in_a_nutshell/">[comments]</a></span> </td></tr></table>
+
+## YOOOO YouTube WTF are y’all doing…. These Ads insane
+ - [https://www.reddit.com/r/youtube/comments/1iwq65f/yoooo_youtube_wtf_are_yall_doing_these_ads_insane](https://www.reddit.com/r/youtube/comments/1iwq65f/yoooo_youtube_wtf_are_yall_doing_these_ads_insane)
+ - RSS feed: $source
+ - date published: 2025-02-24T01:24:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>YouTube has been strict with their guidelines towards content creators… but it’s okay for them to advertise literal porn… </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spidey-Slinger"> /u/Spidey-Slinger </a> <br/> <span><a href="https://v.redd.it/tqbjle3nozke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1iwq65f/yoooo_youtube_wtf_are_yall_doing_these_ads_insane/">[comments]</a></span>
+
+## Anyone else get these ads on YouTube?…
+ - [https://www.reddit.com/r/youtube/comments/1iwos42/anyone_else_get_these_ads_on_youtube](https://www.reddit.com/r/youtube/comments/1iwos42/anyone_else_get_these_ads_on_youtube)
+ - RSS feed: $source
+ - date published: 2025-02-24T00:15:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve gotten a ton of these before but this one was definitely the most graphic 😂 </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/2000s_is_king"> /u/2000s_is_king </a> <br/> <span><a href="https://v.redd.it/z2uphb0dczke1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/youtube/comments/1iwos42/anyone_else_get_these_ads_on_youtube/">[comments]</a></span>
+
