@@ -1,0 +1,149 @@
+# Source:So many books, so little time, URL:https://www.reddit.com/r/books/.rss, language:
+
+## Phone Rings by Stephen Dixon—I liked the jacket design, I loved the book.
+ - [https://www.reddit.com/r/books/comments/1iy51v9/phone_rings_by_stephen_dixoni_liked_the_jacket](https://www.reddit.com/r/books/comments/1iy51v9/phone_rings_by_stephen_dixoni_liked_the_jacket)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:33:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am all for judging books by their covers, especially when it’s clear the designer (and publishers) get the book their are publishing. This one jumped out at me from the shelves of a forgotten book shop and served as my intro to Stephen Dixon, a writer who feels like both a master of fiction and something of a secret. This is about brothers, aging, death, grief and living—it’s inventive, funny, and wonderfully written. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mybenzo"> /u/Mybenzo </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1iy51v9/phone_rings_by_stephen_dixoni_liked_the_jacket/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1iy51v9/phone_rings_by_stephen_dixoni_liked_the_jacket/">[comments]</a></span>
+
+## I'm finding reading to be a lot less fun than it used to be.
+ - [https://www.reddit.com/r/books/comments/1iy4j43/im_finding_reading_to_be_a_lot_less_fun_than_it](https://www.reddit.com/r/books/comments/1iy4j43/im_finding_reading_to_be_a_lot_less_fun_than_it)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:12:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>When I was little, I really treasured books. They were something that my parents didn&#39;t buy me often. And when someone gifted me a book, whether parents or friends or others, it really felt like a special moment. I would stay up reading the book, almost as if I had just found a world in a hole in the backyard. I had the same attitude once I was able to buy myself books as I got older.</p> <p>But then years passed by and now when I go to a bookstore, I feel overwhelmed with choices. Too many books, too many options, bestsellers, classics, comics, and yet so little time. Now I have expectations. I want to be blown away. No time to read a book that takes its time or an author who is not established. I used to think it was a privilege to be given a chance to explore a world through another person&#39;s imagination. Now my attitude is, How entertaining and mindblowing can this book be and how quickly can it do that?</p> <p>And I&#39;m exposed to a lot
+
+## "Menacing Mothers" in Books
+ - [https://www.reddit.com/r/books/comments/1iy3g8n/menacing_mothers_in_books](https://www.reddit.com/r/books/comments/1iy3g8n/menacing_mothers_in_books)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:27:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been reading &quot;The Brockets&quot; by David Vardy recently (also has a good audiobook version). It revolves around the misadventures of an over the top social climbing mother, &quot;Penelope Brocket&quot; - probably intended as a caricature (parody?) of Jane Austen&#39;s legendary Mrs Bennet, though set in an outlandish Father Ted/Monty Python-esque regency period world. </p> <p>I would recommend it as a fun, light read for anyone who might like a modern humoured, over the top, absurd family sitcom. Where each chapter almost comes off as an episode, so good for short digestive reads / attention spans.</p> <p>The book most definitely does not take itself seriously - especially the on going war between the mad matriarch mother and her maid. This is a case where the mother is too menacing to work for, and the maid is too inept to work for anyone else. So despite the calamities, both end up perpetually paired and fighting against each other.<
+
+## Check out r/bookclub's line up for March
+ - [https://www.reddit.com/r/books/comments/1iy2hz8/check_out_rbookclubs_line_up_for_march](https://www.reddit.com/r/books/comments/1iy2hz8/check_out_rbookclubs_line_up_for_march)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:48:27+00:00
+
+<!-- SC_OFF --><div class="md"><h1>With approval from the mods</h1> <p>In March <a href="/r/bookclub">r/bookclub</a> will be reading;</p> <h1>- Last Argument of Kings</h1> <p><em>The First Law #3</em> by Joe Abercrombie - (Feb. 26 - Apr. 2)</p> <h1>- The Joy Luck Club</h1> <p>by Amy Tan - (Feb. 27 - Mar. 13)</p> <h1>- Merrick</h1> <p><em>The Vampire Chronicles # 7</em> by Anne Rice - (Mar. 2 - Mar. 30)</p> <h1>- Why Do You Dance When You Walk?</h1> <p>by Abdourahman A. Waberi - (Mar. 4 - Mar. 11)</p> <h1>- Sherlock Holmes: The Hound of the Baskervilles &amp; The Valley of Fear</h1> <p><em>Sherlock Holmes #5 &amp; 7</em> by Sir Arthur Conan Doyle - (Mar. 6 - Mar. 27)</p> <h1>- We Used to Live Here</h1> <p>by Marcus Kliewer - (Mar. 7 - Mar. 21)</p> <h1>- Emma</h1> <p>by Jane Austen - (Mar. 13 - Apr. 10)</p> <h1>- The Huntchback of Notre-Dame</h1> <p>by Victor Hugo - (Mar. 14 - Apr. 25)</p> <h1>- The Wedding People</h1> <p>by Alison Espach - (Mar. 16 - Apr. 6)</p> <h1>- I Who Have Never
+
+## Two recent reads I’ve found especially relevant these days…
+ - [https://www.reddit.com/r/books/comments/1iy0wmm/two_recent_reads_ive_found_especially_relevant](https://www.reddit.com/r/books/comments/1iy0wmm/two_recent_reads_ive_found_especially_relevant)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:44:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>The first is: It Can’t Happen here by Sinclair Lewis. It follows an American politician who rises to power and becomes the country’s first outright dictator. Need I say more? The second is: The One Percent by Rick Coulombe. Here, the tables are turned and an underground rebellion results in the poor and disadvantaged eating the rich. With all the billionaires getting their hands into politics and squeezing the hell out of regular people, maybe more of this is what we need. Spotlighting these types of stories might help us weather the current storm!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/logankaytoday"> /u/logankaytoday </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1iy0wmm/two_recent_reads_ive_found_especially_relevant/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1iy0wmm/two_recent_reads_ive_found_especially_relevant/">[comments]</a></span>
+
+## Any JG Ballard fans?
+ - [https://www.reddit.com/r/books/comments/1iy0dih/any_jg_ballard_fans](https://www.reddit.com/r/books/comments/1iy0dih/any_jg_ballard_fans)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:22:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m interested in thoughts on Crash or his other books. When in my 20’s (I’m 60 now), I found Crash and was captivated. Several friends read it and I went on the read Atrocity Exhibit, Crystal World, Unlimited Dream company, Hello America and more. I loved the books and thought about &amp; discussed the deeper meanings. My friends liked them also. Now almost 40 years on, I’m listening to the Audible version of Crash and just don’t get it. What’s the point? There is a good chance that electronic media has made me stupid. I also found reading Kingdom Come last year boring. 1) Can someone comment favorably about Crash? 2) Has anyone else lost the ability to read books as they’ve aged? Now I just listen to them as a drive or do chores. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarcRocket"> /u/MarcRocket </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1iy0dih/any_jg_ballard_fans/">[link]</a><
+
+## The International Booker Prize Names Its 2025 Longlist
+ - [https://www.reddit.com/r/books/comments/1iy0c42/the_international_booker_prize_names_its_2025](https://www.reddit.com/r/books/comments/1iy0c42/the_international_booker_prize_names_its_2025)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:21:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Excited to go through it. Have you read any on list? Which one of these do you think will make the shortlist or win? </p> <p>The long list:</p> <ol> <li><p>The Book of Disappearance (Arabic) by Ibtisam Azem (Palestinian), translated by Sinan Antoon (Iraqi), published by And Other Stories (UK).</p></li> <li><p>On the Calculation of Volume 1 (Danish) by Solvej Balle (Danish), translated by Barbara J Haveland (Scottish), published by Faber &amp; Faber (UK).</p></li> <li><p>There’s a Monster Behind the Door (French) by Gaëlle Bélem (French, La Réunion), translated by Karen Fleetwood (British) and Laëtitia Saint-Loubert (French), published by Bullaun Press (UK).</p></li> <li><p>Solenoid (Romanian) by Mircea Cărtărescu (Romanian), translated by Sean Cotter (American), published by Pushkin Press (UK).</p></li> <li><p>Reservoir Bitches (Spanish) by Dahlia de la Cerda (Mexican), translated by Julia Sanches (Brazilian) and Heather Cleary (American), published 
+
+## Booker Prize nominees are mostly under-200-page novels
+ - [https://www.reddit.com/r/books/comments/1ixzk4t/booker_prize_nominees_are_mostly_under200page](https://www.reddit.com/r/books/comments/1ixzk4t/booker_prize_nominees_are_mostly_under200page)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:49:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>There are an awful lot of novels that feel padded - &quot;it&#39;s got to be 100,000 words or it isn&#39;t Serious Fiction; I&#39;ll cram in this uninteresting subplot&quot; - so I guess this isn&#39;t a bad trend. Of course I&#39;d hate to see the death of really long novels which can carry you away. </p> <p><a href="https://www.nytimes.com/2025/02/25/books/international-booker-prize-longlist.html">https://www.nytimes.com/2025/02/25/books/international-booker-prize-longlist.html</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GraniteGeekNH"> /u/GraniteGeekNH </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1ixzk4t/booker_prize_nominees_are_mostly_under200page/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1ixzk4t/booker_prize_nominees_are_mostly_under200page/">[comments]</a></span>
+
+## Bebbington: 'Freedom to read' is crucial to a healthy society
+ - [https://www.reddit.com/r/books/comments/1ixyqvg/bebbington_freedom_to_read_is_crucial_to_a](https://www.reddit.com/r/books/comments/1ixyqvg/bebbington_freedom_to_read_is_crucial_to_a)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:16:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/books/comments/1ixyqvg/bebbington_freedom_to_read_is_crucial_to_a/"> <img src="https://external-preview.redd.it/YsqwTJhbDNPBp77yZ8CY4PBrRapW03WEmA9lORmo0WE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=505c1cf6359c85681f6a17876480f5737383021a" alt="Bebbington: 'Freedom to read' is crucial to a healthy society" title="Bebbington: 'Freedom to read' is crucial to a healthy society" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PeanutSalsa"> /u/PeanutSalsa </a> <br/> <span><a href="https://ottawacitizen.com/opinion/bebbington-freedom-to-read-is-crucial-to-a-healthy-society">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1ixyqvg/bebbington_freedom_to_read_is_crucial_to_a/">[comments]</a></span> </td></tr></table>
+
+## Two recent reads I’ve found especially relevant these days…
+ - [https://www.reddit.com/r/books/comments/1ixydl7/two_recent_reads_ive_found_especially_relevant](https://www.reddit.com/r/books/comments/1ixydl7/two_recent_reads_ive_found_especially_relevant)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:00:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>The first is It Can’t Happen Here by Sinclair Lewis. It follows an American politician who rises to power and becomes the country’s first outright dictator. Need I say more? The second is The One Percent by Rick Coulombe. Here, the tables are turned and an underground rebellion results in the poor and disadvantaged eating the rich. With all the billionaires getting their hands into politics and squeezing the hell out of regular people, maybe more of this is what we need. Any other recommendations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/logankaytoday"> /u/logankaytoday </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1ixydl7/two_recent_reads_ive_found_especially_relevant/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1ixydl7/two_recent_reads_ive_found_especially_relevant/">[comments]</a></span>
+
+## Where to post an interesting book cover?
+ - [https://www.reddit.com/r/books/comments/1ixxmol/where_to_post_an_interesting_book_cover](https://www.reddit.com/r/books/comments/1ixxmol/where_to_post_an_interesting_book_cover)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:28:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all,<br/> I have a classic book with an (what I think is) interesting cover that I&#39;d like to share. <a href="/r/books">r/books</a> doesn&#39;t allow image posts and <a href="/r/BookCovers">r/BookCovers</a> appears to be for creating or requesting book covers.<br/> Does anyone know of an appropriate subreddit for interesting book covers, besides something generic like <a href="/r/pics">r/pics</a>?<br/> Hope this is allowed here, I didn&#39;t see anything about it in the sidebar but I understand if this isn&#39;t considered relevant to the sub.<br/> thanks in advance and have a lovely bookish day!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/keinezwiebeln"> /u/keinezwiebeln </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1ixxmol/where_to_post_an_interesting_book_cover/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1ixxmol/where_to_post_an_interesting_bo
+
+## The Regular Army Before the Civil War: 1845-1860
+ - [https://www.reddit.com/r/books/comments/1ixwhn5/the_regular_army_before_the_civil_war_18451860](https://www.reddit.com/r/books/comments/1ixwhn5/the_regular_army_before_the_civil_war_18451860)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:39:19+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Scoxxicoccus"> /u/Scoxxicoccus </a> <br/> <span><a href="https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo54672/pdf/GOVPUB-D114-PURL-gpo54672.pdf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1ixwhn5/the_regular_army_before_the_civil_war_18451860/">[comments]</a></span>
+
+## The ‘tsundoku’ phenomenon, or how we’ve normalized collecting books we’ll never read
+ - [https://www.reddit.com/r/books/comments/1ixw98s/the_tsundoku_phenomenon_or_how_weve_normalized](https://www.reddit.com/r/books/comments/1ixw98s/the_tsundoku_phenomenon_or_how_weve_normalized)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:28:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/books/comments/1ixw98s/the_tsundoku_phenomenon_or_how_weve_normalized/"> <img src="https://external-preview.redd.it/ToD_hnstpVILCrfenAd_1V8yxBWQ7aJ9bln5XwSOOuY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=adf88511c36120ca6af342f51ec5313033d1b537" alt="The ‘tsundoku’ phenomenon, or how we’ve normalized collecting books we’ll never read" title="The ‘tsundoku’ phenomenon, or how we’ve normalized collecting books we’ll never read" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This Japanese word describes a habit that many readers unknowingly engage in every time they acquire new copies of titles on their list</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Strawberry-5804"> /u/No-Strawberry-5804 </a> <br/> <span><a href="https://english.elpais.com/lifestyle/2025-02-22/the-tsundoku-phenomenon-or-how-weve-normalized-collecting-books-well-never-read.html">[link]</a></span> &#32; <span><a h
+
+## The International Booker Prize 2025 Announcement
+ - [https://www.reddit.com/r/books/comments/1ixvywd/the_international_booker_prize_2025_announcement](https://www.reddit.com/r/books/comments/1ixvywd/the_international_booker_prize_2025_announcement)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:15:31+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/shergillmarg"> /u/shergillmarg </a> <br/> <span><a href="https://thebookerprizes.com/the-booker-library/prize-years/international/2025">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1ixvywd/the_international_booker_prize_2025_announcement/">[comments]</a></span>
+
+## An Autobiography that Surprised You With How Good It Was
+ - [https://www.reddit.com/r/books/comments/1ixv2fm/an_autobiography_that_surprised_you_with_how_good](https://www.reddit.com/r/books/comments/1ixv2fm/an_autobiography_that_surprised_you_with_how_good)
+ - RSS feed: $source
+ - date published: 2025-02-25T13:33:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>I saw a thread earlier discussing the worst and most insufferable autobiographies that we&#39;ve ever read. It got me to thinking that there were several autobiographies that I completely fell in love with, couldn&#39;t put down until I finished cover to cover, and made me a life-long fan of the writer. </p> <p>The one that really comes to mind for me is &quot;Confessions of a Prairie Bitch,&quot; by Alison Arngrim, who played Nellie Olson on Little House on the Prairie. Her life has been interesting, to say the least, and she has a way of writing that is vivid and conversational, so it feels like you&#39;re sitting and chatting with her over drinks rather than reading.</p> <p>What was your happy surprise of an autobiography?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/most-royal-chemist"> /u/most-royal-chemist </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1ixv2fm/an_autobiography_that_su
+
+## Regardless of whether you end up enjoying it or not, do you ever read something just to "get it over with" and be able to weigh in on books that frequently get brought up?
+ - [https://www.reddit.com/r/books/comments/1ixsqek/regardless_of_whether_you_end_up_enjoying_it_or](https://www.reddit.com/r/books/comments/1ixsqek/regardless_of_whether_you_end_up_enjoying_it_or)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:21:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m writing this prompted by finally having read The Invisible Life of Addie LaRue.</p> <p>It&#39;s one of those titles that you&#39;ll frequently find in the two rec subs, so while I wasn&#39;t exactly enthused with the premise I picked the book up just so I can say I read it and form a personal opinion. Addie&#39;s impression on me turned out to be lukewarm as I don&#39;t fall under the 20-something female reader demographic it seems to be aimed at.</p> <p>So, do you ever cave and pick a book up just because it&#39;s seemingly everywhere? If you do, have your experiences been mostly positive or negative so far?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mind101"> /u/Mind101 </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1ixsqek/regardless_of_whether_you_end_up_enjoying_it_or/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1ixsqek/regardless_of_whethe
+
+## Simple Questions: February 25, 2025
+ - [https://www.reddit.com/r/books/comments/1ixriwu/simple_questions_february_25_2025](https://www.reddit.com/r/books/comments/1ixriwu/simple_questions_february_25_2025)
+ - RSS feed: $source
+ - date published: 2025-02-25T10:00:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Welcome readers, </p> <p>Have you ever wanted to ask something but you didn&#39;t feel like it deserved its own post but it isn&#39;t covered by one of our other scheduled posts? Allow us to introduce you to our new Simple Questions thread! Twice a week, every Tuesday and Saturday, a new Simple Questions thread will be posted for you to ask anything you&#39;d like. And please look for other questions in this thread that you could also answer! A reminder that this is not the thread to ask for book recommendations. All book recommendations should be asked in <a href="/r/suggestmeabook">/r/suggestmeabook</a> or our Weekly Recommendation Thread.</p> <p>Thank you and enjoy!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1ixriwu/simple_questions_february_25_2025/">[link]</a></span> &#32; <span><a href="https://www.reddi
+
+## The Hottest Thing in Fashion Advertising? Books.
+ - [https://www.reddit.com/r/books/comments/1ixowbw/the_hottest_thing_in_fashion_advertising_books](https://www.reddit.com/r/books/comments/1ixowbw/the_hottest_thing_in_fashion_advertising_books)
+ - RSS feed: $source
+ - date published: 2025-02-25T06:49:53+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Comfortable_Lynx8295"> /u/Comfortable_Lynx8295 </a> <br/> <span><a href="https://www.wsj.com/articles/the-hottest-thing-in-fashion-advertising-books-c42cbe83">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1ixowbw/the_hottest_thing_in_fashion_advertising_books/">[comments]</a></span>
+
+## Every Book Lover Dreams of It. Few Ever Get It.
+ - [https://www.reddit.com/r/books/comments/1ixj543/every_book_lover_dreams_of_it_few_ever_get_it](https://www.reddit.com/r/books/comments/1ixj543/every_book_lover_dreams_of_it_few_ever_get_it)
+ - RSS feed: $source
+ - date published: 2025-02-25T01:34:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/books/comments/1ixj543/every_book_lover_dreams_of_it_few_ever_get_it/"> <img src="https://external-preview.redd.it/8rB8IvRTwdYIjGpNVM62Lf9FclgJIJo60OsAliDplhA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a699df82b4bd3c397d02eb32b12a0213682077f" alt="Every Book Lover Dreams of It. Few Ever Get It." title="Every Book Lover Dreams of It. Few Ever Get It." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Libro_Artis"> /u/Libro_Artis </a> <br/> <span><a href="https://slate.com/culture/2025/02/books-library-ladder-brutalist-bookshelves-cases-history.html?utm_source=firefox-newtab-en-us">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1ixj543/every_book_lover_dreams_of_it_few_ever_get_it/">[comments]</a></span> </td></tr></table>
+
+## An Israeli raid of a famous Palestinian bookstore stokes censorship fears
+ - [https://www.reddit.com/r/books/comments/1ixhhlw/an_israeli_raid_of_a_famous_palestinian_bookstore](https://www.reddit.com/r/books/comments/1ixhhlw/an_israeli_raid_of_a_famous_palestinian_bookstore)
+ - RSS feed: $source
+ - date published: 2025-02-25T00:16:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/books/comments/1ixhhlw/an_israeli_raid_of_a_famous_palestinian_bookstore/"> <img src="https://external-preview.redd.it/Vo7zzZy5_LHrZxo63Qv8OvqhhiHqfAWCA-epzY6Mf4w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=92e79908d4dca039c41e1d631a125205c8ead815" alt="An Israeli raid of a famous Palestinian bookstore stokes censorship fears" title="An Israeli raid of a famous Palestinian bookstore stokes censorship fears" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/annonymous_bosch"> /u/annonymous_bosch </a> <br/> <span><a href="https://www.npr.org/2025/02/14/nx-s1-5294328/israel-raid-bookstore-east-jerusalem">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1ixhhlw/an_israeli_raid_of_a_famous_palestinian_bookstore/">[comments]</a></span> </td></tr></table>
+
+## How Art Spiegelman and 'Maus' changed comics and how we understand Holocaust literature
+ - [https://www.reddit.com/r/books/comments/1ixhboo/how_art_spiegelman_and_maus_changed_comics_and](https://www.reddit.com/r/books/comments/1ixhboo/how_art_spiegelman_and_maus_changed_comics_and)
+ - RSS feed: $source
+ - date published: 2025-02-25T00:08:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/books/comments/1ixhboo/how_art_spiegelman_and_maus_changed_comics_and/"> <img src="https://external-preview.redd.it/IY1H2kxzvB_9NrCDMJmrzLNXajEab-cGwgLf8LPRp_s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c83581b97075d8cbde4356c7acd33f3df37d0cf2" alt="How Art Spiegelman and 'Maus' changed comics and how we understand Holocaust literature" title="How Art Spiegelman and 'Maus' changed comics and how we understand Holocaust literature" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/drak0bsidian"> /u/drak0bsidian </a> <br/> <span><a href="https://www.wnyc.org/story/how-art-spiegelman-and-maus-changed-comics/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1ixhboo/how_art_spiegelman_and_maus_changed_comics_and/">[comments]</a></span> </td></tr></table>
+

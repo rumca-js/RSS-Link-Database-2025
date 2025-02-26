@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-25T03:56:13+00:00",
+        "description": "Since starting this blog, I have been interested in AR optical designs that are different from others I have seen. When Xreal showed their Xreal One Pro at CES 2025, I was curious to know how it worked. As it turned out, the design was not as different as I had first thought.  But the journey lead me to find some connections between Xreal's optical design and that of, Ant-Reality which was reportedly acquired by Google.",
+        "id": 2189749,
+        "language": "en-US",
+        "link": "https://kguttag.com/2025/02/24/xreal-one-pro-optics-and-its-connections-to-ant-reality-and-google/?utm_source=rss&utm_medium=rss&utm_campaign=xreal-one-pro-optics-and-its-connections-to-ant-reality-and-google",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 487,
+        "source_url": "https://www.kguttag.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "XReal One Pro Optics and Its Connections to Ant-Reality and Google",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-25T22:47:55+00:00",
+        "description": "<p>\n\t<img alt=\"me.png\" src=\"https://isocpp.org/files/img/me.png\" style=\"width: 250px; margin: 10px; float: right; height: 250px;\" />Since its introduction, the <code>constexpr</code> keyword in C++ has steadily evolved with each new standard, becoming an increasingly powerful tool for compile-time computation and optimization. In this article, I&rsquo;ll share a real-world example of how <code>constexpr</code> helped optimize memory usage and improve performance for an embedded system project, showcasing its potential to transform how we approach C++ programming.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://andreasfertig.com/blog/2024/12/write-more-cpp-code-thanks-to-constexpr/\">Write More C++ Code Thanks to constexpr</a></h3>\n\t<p>\n\t\tby Andreas Fertig</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tSince the keyword&nbsp;<code>constexpr</code>&nbsp;and its behavior got included in C++, it has been improved in each and every new standard of the language.</p>\n\t<p>\n\t\tI&#39",
+        "id": 2195191,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/02/write-more-cpp-code-thanks-to-constexpr-andreas-fertig1",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Write More C++ Code Thanks to constexpr -- Andreas Fertig",
+        "vote": 0
+    }
+]

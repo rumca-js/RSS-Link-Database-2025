@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-25T14:27:00+00:00",
+        "description": "Konferencja Episkopatu Polski zwr\u00f3ci\u0142a si\u0119 do premiera Donalda Tuska z pytaniami w sprawie lekcji religii w szko\u0142ach. W li\u015bcie biskupi pytaj\u0105 m.in. o nieopublikowany wyrok Trybuna\u0142u Konstytucyjnego.",
+        "id": 2190440,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/edukacja-i-wychowanie/art41847961-episkopat-pisze-do-premiera-donalda-tuska-ws-wyroku-tk-i-bezprawnych-dzialan-minister",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Episkopat pisze do premiera Donalda Tuska ws. wyroku TK i \"bezprawnych dzia\u0142a\u0144 minister\"",
+        "vote": 0
+    }
+]

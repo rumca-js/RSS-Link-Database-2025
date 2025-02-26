@@ -1,0 +1,324 @@
+# Source:Self-Hosted Alternatives to Popular Services, URL:https://www.reddit.com/r/selfhosted/.rss, language:en
+
+## Anyone using Fastpanel?
+ - [https://www.reddit.com/r/selfhosted/comments/1iy8o4u/anyone_using_fastpanel](https://www.reddit.com/r/selfhosted/comments/1iy8o4u/anyone_using_fastpanel)
+ - RSS feed: $source
+ - date published: 2025-02-25T23:05:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi guys, I have been using fastpanel on a dedicated machine and i had a really small issue: the preview of the websites in the cards never worked, it never bothered me much as I was just testing it.</p> <p>It was running for a few months, then i decided to test Fastpanel running on a ubuntu VM. I use vbox. </p> <p>Now I have 2 issues:<br/> 1 - The preview of the website not working properly.<br/> 2 - NGINX fails to start automatically after boot. Whenever I reboot the machine NGINX fails to start, if I start it by either the command line or the backend (by accessing it using the local IP) it starts perfectly without an issue.</p> <p>I tried rebooting it and when the VM starts and i do:</p> <p><code>systemctl list-units --type=service | grep -i nginx</code></p> <p>i get:</p> <p><code>fastpanel2-nginx.service loaded active running FASTPANEL web server</code><br/> <code>nginx.service loaded failed failed nginx - high performance webserver</code></p> <p>
+
+## Dashboard alternative to homarr?
+ - [https://www.reddit.com/r/selfhosted/comments/1iy65gb/dashboard_alternative_to_homarr](https://www.reddit.com/r/selfhosted/comments/1iy65gb/dashboard_alternative_to_homarr)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:19:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1iy65gb/dashboard_alternative_to_homarr/"> <img src="https://b.thumbs.redditmedia.com/xRsfCAp7sn6jVPSO-CVFVWUnhmokgZde3jJmA7n6-eo.jpg" alt="Dashboard alternative to homarr?" title="Dashboard alternative to homarr?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>as the title suggests, im looking to replace homarr, I liked having one dashboard, that I could access all my self hosted web URL from, I also have widgets showing </p> <p>I want to it to integrate to monitor stats, not just provide links to the services, My current dashboard is below, for reference</p> <p>I want to be able to monitor plex sessions, as well as monitor resources for the ubuntu servers (as well as windows servers and such if possible I was going to move to homepage, but it doesnt look like it has this functionality, as well as, while I can build a json style homepage, I really liked the gui style homarr had.</p> <p>I plan on forwarding a
+
+## Android email sync works for a few days after server reboot, then stops
+ - [https://www.reddit.com/r/selfhosted/comments/1iy65e0/android_email_sync_works_for_a_few_days_after](https://www.reddit.com/r/selfhosted/comments/1iy65e0/android_email_sync_works_for_a_few_days_after)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:19:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everybody, i have a physical web server with a fixed ip address. there is a mail server running on it (postfix, dovecot). when i add the email address to my android phone, it syncs emails fine for a few days, then stops. whenever i reboot the server, which of course does not happen very often, email sync works again for a few days.</p> <p>i suspect a certificate issue, though no error message is shown on phone - even manually refreshing the email list will not sync new emails, just as if there were none (though the webmail interface, roundcube, works perfectly).</p> <p>has anyone had something similar happen? any ideas?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/damaltor1"> /u/damaltor1 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy65e0/android_email_sync_works_for_a_few_days_after/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy65e0/an
+
+## Not Seeing the Forest for the Trees – Experiences with Homelab and Selfhosted Services
+ - [https://www.reddit.com/r/selfhosted/comments/1iy62sx/not_seeing_the_forest_for_the_trees_experiences](https://www.reddit.com/r/selfhosted/comments/1iy62sx/not_seeing_the_forest_for_the_trees_experiences)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:16:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone,</p> <p>I wanted to bring up a topic that’s been on my mind a lot lately: Homelab and Selfhosted Services. I don’t know if you guys feel the same way, but sometimes it’s hard to see the forest for the trees. I often feel like I’m stuck in a jungle of problems, and the more I try to work through them, the less clear the root issue seems to become.</p> <p>One example from my recent experience: I’ve been trying to set up OAuth with Authentik and Portainer. At first glance, it looks pretty simple – the setup seems straightforward, the guides are easy to follow, and it doesn’t seem like there’s anything complicated about it. But unfortunately, I just can’t get it to work. I’ve been at it for almost seven days now, and I feel like I’m sinking deeper into the details without ever seeing the big picture.</p> <p>It’s frustrating because it’s always the smallest things that are preventing me from having a successful service – whether it’s a missing
+
+## SnappyMail - Mark As Not Spam - Not Working?
+ - [https://www.reddit.com/r/selfhosted/comments/1iy5p3w/snappymail_mark_as_not_spam_not_working](https://www.reddit.com/r/selfhosted/comments/1iy5p3w/snappymail_mark_as_not_spam_not_working)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:00:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>It seems like marking e-mails as Not Spam in SnappyMail doesn&#39;t serve any real purpose other than moving the message to the inbox. Is this intended behavior? I would have thought it would have updated the server or some ruleset to make sure matching e-mails in the future doesn&#39;t also end up in the Spam folder.</p> <p>Wasn&#39;t sure if it was just me and how I set this up in my home lab or not</p> <p>Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SomeGuy1980a"> /u/SomeGuy1980a </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy5p3w/snappymail_mark_as_not_spam_not_working/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy5p3w/snappymail_mark_as_not_spam_not_working/">[comments]</a></span>
+
+## It’s either one or the other, how do I combine a GMKtec G3s software to be a NAS and a media server?
+ - [https://www.reddit.com/r/selfhosted/comments/1iy51f5/its_either_one_or_the_other_how_do_i_combine_a](https://www.reddit.com/r/selfhosted/comments/1iy51f5/its_either_one_or_the_other_how_do_i_combine_a)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:33:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>So instead of a nuc or pi I will be getting a GMKtec G3 and chucking in a 2TB WD black and 16 gb of RAM I have lying about. </p> <p>What I don’t understand if how I can make it do multiple things without falling down?</p> <p>Should I be using windows or Linux? Can I have it be a NAS which I can back my photos on phone etc to? Can I have it be a torrent and media centre at the same time ( of course on occasion such as in the evenings when I am home and watching content? ) (go low power when I away)</p> <p>Is there a tutorial etc which shows how these things are setup to run together as I cannot get my head around it</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ohlordylord_"> /u/ohlordylord_ </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy51f5/its_either_one_or_the_other_how_do_i_combine_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy51f5/its
+
+## Music streaming via own url (own domain with own server) and m3u playlist
+ - [https://www.reddit.com/r/selfhosted/comments/1iy4yha/music_streaming_via_own_url_own_domain_with_own](https://www.reddit.com/r/selfhosted/comments/1iy4yha/music_streaming_via_own_url_own_domain_with_own)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:29:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello,</p> <p>Since we got our new car last week, we no longer have a CD player. That was great for the children, of course. You could have 3-5 CDs with you and they had to choose the right one.</p> <p>Now I want to keep this way of making decisions for the children. In future, we want to have 3-5 printed CD covers with us, from which they can choose the right one.</p> <p>Now the real problem: I would like to access the albums via streaming from my own server (Synology Diskstation / DS218+), which is accessible via its own domain. To do this, I would like to retrieve a URL either via RFID or QR code and then open and play the underlying playlist on my cell phone (iPhone).</p> <p>In principle, I would like to have this solved in such a way that it is independent of the end device, i.e. I would like to get by without Apple shortcuts or similar. Just in case I have an Android device or other people are driving my car.</p> <p>At the moment, it&#39;s alre
+
+## Reverse proxy + HTTP "session manager"?
+ - [https://www.reddit.com/r/selfhosted/comments/1iy4uni/reverse_proxy_http_session_manager](https://www.reddit.com/r/selfhosted/comments/1iy4uni/reverse_proxy_http_session_manager)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:25:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a device (let&#39;s call it crapthing) on my local network which has a very poorly implemented web interface. Crapthing does not support HTTPS (that would be kind of ok) but the main problem is that crapthing only supports a single session at a time <em>and</em> requires a password (via a login page).</p> <p>If a first client authenticate to crapthing, a second client cannot even load the login page and will get an error &quot;other active session&quot;.</p> <p>Now, question, are there some reverse proxies out there that can act as middleware and allow multiple connections from multiple clients by handling the entire HTTP session including cookie etc.?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hobbes444"> /u/hobbes444 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy4uni/reverse_proxy_http_session_manager/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/self
+
+## Help for Remote Access to Services in Home Server over Pi-hole
+ - [https://www.reddit.com/r/selfhosted/comments/1iy4t1l/help_for_remote_access_to_services_in_home_server](https://www.reddit.com/r/selfhosted/comments/1iy4t1l/help_for_remote_access_to_services_in_home_server)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:23:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1iy4t1l/help_for_remote_access_to_services_in_home_server/"> <img src="https://b.thumbs.redditmedia.com/9vxy2N4qePsGtcqFql2CsXxw33q0eaOragvkKiL_U3Y.jpg" alt="Help for Remote Access to Services in Home Server over Pi-hole" title="Help for Remote Access to Services in Home Server over Pi-hole" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>First of all, sorry for asking for a help that has probably been asked for the thousandth time already :( But I couldn&#39;t figure out the correct way to configure the network topology in the figure.</p> <p><a href="https://preview.redd.it/h0yadc7vgcle1.png?width=2086&amp;format=png&amp;auto=webp&amp;s=404d027d6e02b1aae4c8270aeb152cc59081a9ae">https://preview.redd.it/h0yadc7vgcle1.png?width=2086&amp;format=png&amp;auto=webp&amp;s=404d027d6e02b1aae4c8270aeb152cc59081a9ae</a></p> <p>My goal is to access my services (Jellyfin, Immich, Jellyseerr, Tandoor...) running in Laptop 1
+
+## Amurex(v1.0.25) - The AI meeting Copilot - now supports MS teams
+ - [https://www.reddit.com/r/selfhosted/comments/1iy4q09/amurexv1025_the_ai_meeting_copilot_now_supports](https://www.reddit.com/r/selfhosted/comments/1iy4q09/amurexv1025_the_ai_meeting_copilot_now_supports)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:20:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1iy4q09/amurexv1025_the_ai_meeting_copilot_now_supports/"> <img src="https://external-preview.redd.it/cwJSghAPE_gtFk9IgWWWbZDR-1TliBonxF_fd_0YmQI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=feb3a2c73dfb3828e2c554833c884402abe11f46" alt="Amurex(v1.0.25) - The AI meeting Copilot - now supports MS teams" title="Amurex(v1.0.25) - The AI meeting Copilot - now supports MS teams" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/stealthanthrax"> /u/stealthanthrax </a> <br/> <span><a href="https://github.com/thepersonalaicompany/amurex">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy4q09/amurexv1025_the_ai_meeting_copilot_now_supports/">[comments]</a></span> </td></tr></table>
+
+## Dockge - how to use best?
+ - [https://www.reddit.com/r/selfhosted/comments/1iy4c59/dockge_how_to_use_best](https://www.reddit.com/r/selfhosted/comments/1iy4c59/dockge_how_to_use_best)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:03:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi! Recently discovered Dockge and I really love it. I am looking for an easy solution to manage my docker containers. I have everything in one compose.yaml, but I am looking to split docker-compose files per &#39;service&#39;. For example &quot;download-services.yaml&quot; containing Radarr, Sonarr, sabnzbd etc. etc. and &quot;homeautomation-service.yaml&quot; containing homeassistant, mosquitto, zigbee2mqtt, etc. etc. </p> <p>In Dockge I can do this perfectly, but I noticed if I had more than one container in a &#39;stack&#39;, the terminal section is no longer working? If I create individual stacks per container I do have a working terminal section in the stack. </p> <p>Is there a way to combine containers in one stack and still use the terminal feature to see what is happening? Maybe I am overlooking but can&#39;t figure this one out. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Timdedraak"> /u/Timdedraa
+
+## Little rant about Seagate situation
+ - [https://www.reddit.com/r/selfhosted/comments/1iy49un/little_rant_about_seagate_situation](https://www.reddit.com/r/selfhosted/comments/1iy49un/little_rant_about_seagate_situation)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:01:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>I used <a href="https://github.com/gamestailer94/farm-check">this tool</a> to verify, and more than an half of mine HDDs are fraudolent<br/> How should I proceed? I bought them on eBay, lots of them are from East Digital</p> <p>=== Checking device: /dev/sdc ===<br/> Model Family: Seagate Exos X16<br/> Device Model: ST16000NM001G<br/> Serial Number: XXX (replaced manually)<br/> SMART: 170<br/> FARM: 31889<br/> RESULT: FAIL </p> <p>=== Checking device: /dev/sdd ===<br/> Model Family: Seagate Exos X16<br/> Device Model: ST16000NM001G<br/> Serial Number: XXX<br/> SMART: 7969<br/> FARM: 7969<br/> RESULT: PASS </p> <p>=== Checking device: /dev/sde ===<br/> Model Family: Seagate Exos X16<br/> Device Model: ST16000NM001G<br/> Serial Number: XXX<br/> SMART: 20678<br/> FARM: 27009<br/> RESULT: FAIL </p> <p>=== Checking device: /dev/sdf ===<br/> Model Family: Seagate Exos X16<br/> Device Model: ST16000NM001G<br/> Serial Number: XXX<br/> SMART: 23939<br/> FARM: 
+
+## N8N - Facebook Leads issues
+ - [https://www.reddit.com/r/selfhosted/comments/1iy3rxg/n8n_facebook_leads_issues](https://www.reddit.com/r/selfhosted/comments/1iy3rxg/n8n_facebook_leads_issues)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:41:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m having an issue on N8N where the webhook production url shows the port. </p> <p>I have N8N sitting behind a reverse proxy that is on another vm. It forwards all traffic from one of my domains to the N8N box. The N8N box receives the traffic but it never triggers the webhook. </p> <p>I believe it’s because I am calling it without the port. But N8N thinks the port is there.</p> <p>Is there a way to force N8N to not use the port? I tried doing it with the config file and I tried doing it with the .env , no luck </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CLUTCH5399"> /u/CLUTCH5399 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy3rxg/n8n_facebook_leads_issues/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy3rxg/n8n_facebook_leads_issues/">[comments]</a></span>
+
+## A few small projects I have made that I'd like to share with y'all
+ - [https://www.reddit.com/r/selfhosted/comments/1iy3j93/a_few_small_projects_i_have_made_that_id_like_to](https://www.reddit.com/r/selfhosted/comments/1iy3j93/a_few_small_projects_i_have_made_that_id_like_to)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:30:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi there!</p> <p>Here are some things I built for myself a while back, but I thought I might as well give to you guys. </p> <h1>Project 1 - Advent Calendar Style Page for Valentine&#39;s day</h1> <p>Find out more at: <a href="https://github.com/vmd1/14-days-of-valentine">https://github.com/vmd1/14-days-of-valentine</a> </p> <p>A sneak peak... </p> <p><strong>What is this?</strong> </p> <p>This project is an advent calendar of sorts that you can self-host which lets you show your loved ones how much you appreciate them. It displays 14 doors, each with an image hidden behind them, that you can change to your desire. </p> <h1>Project 2 - Birthday Card Hoster</h1> <p>Find out more at: <a href="https://github.com/vmd1/bday-card-hoster">https://github.com/vmd1/bday-card-hoster</a> </p> <p>A sneak peak... </p> <p><strong>What is this?</strong> </p> <p>A simple card hoster built in html, with an unlimited number of pages, and support for background music. </
+
+## I want an EC2 and ECS kind of setup on Oracle server
+ - [https://www.reddit.com/r/selfhosted/comments/1iy1wpr/i_want_an_ec2_and_ecs_kind_of_setup_on_oracle](https://www.reddit.com/r/selfhosted/comments/1iy1wpr/i_want_an_ec2_and_ecs_kind_of_setup_on_oracle)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:24:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey Guys ,</p> <p>I have somehow got hold of the free oracle server and now I am looking to spin up to virtual containers on it like the ECS on EC2 setup you would have on AWS. We use something similar in our workplace. If you guys have any resources(youtube, medium, etc) that would really help. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UnitedRecognition505"> /u/UnitedRecognition505 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy1wpr/i_want_an_ec2_and_ecs_kind_of_setup_on_oracle/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy1wpr/i_want_an_ec2_and_ecs_kind_of_setup_on_oracle/">[comments]</a></span>
+
+## Armbian 25.2 is here!
+ - [https://www.reddit.com/r/selfhosted/comments/1iy1s2r/armbian_252_is_here](https://www.reddit.com/r/selfhosted/comments/1iy1s2r/armbian_252_is_here)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:19:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>We are thrilled to announce <strong>Armbian Release 25.2</strong>, packed with significant updates across our entire ecosystem! These updates are aimed at enhancing functionality, expanding hardware support, and refining the user experience for both developers and everyday SBC users. Let’s dive into the exciting new features!</p> <h1>Key Highlights</h1> <ul> <li><strong>New Board Support</strong>: Rock 2A and 2F, NanoPi R3S, Retroid Pocket RP5, RPMini, Rock 5T, GenBook, MKS-PI, SKIPR, Armsom CM5, NextThing C.H.I.P, Magicsee C400 Plus</li> <li><strong>Rockchip 3588 Improvements</strong>: Upgrade to latest vendor kernel v6.1.99 and mainline to 6.12.y, including HDMI driver updates, USB3 fixes, and Bluetooth support updates.</li> <li><strong>Wireless Enhancements</strong>: RTW88 driver additions and kernel stability fixes, added <a href="https://github.com/armbian/armbian.github.io/actions/workflows/usb-wireless-autotest.yml">automatic wireless testing<
+
+## Plex removes Watch Together from App going forward. Any good alternatives?
+ - [https://www.reddit.com/r/selfhosted/comments/1iy1qz9/plex_removes_watch_together_from_app_going](https://www.reddit.com/r/selfhosted/comments/1iy1qz9/plex_removes_watch_together_from_app_going)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:18:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>As of this Blog Post: <a href="https://forums.plex.tv/t/an-important-watch-together-change/906796">https://forums.plex.tv/t/an-important-watch-together-change/906796</a></p> <p>Plex will be removing Watch Together from the Apps and only keep it as legacy support in the App for now.</p> <p>Is there any alternatives for this? I&#39;ve read that Jellyfin has a watch party solution but that is 3rd party and doesn&#39;t get any updates.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theSchlauch"> /u/theSchlauch </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy1qz9/plex_removes_watch_together_from_app_going/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy1qz9/plex_removes_watch_together_from_app_going/">[comments]</a></span>
+
+## Differentiate between UK and US versions of a show on Jellyfin
+ - [https://www.reddit.com/r/selfhosted/comments/1iy1j24/differentiate_between_uk_and_us_versions_of_a](https://www.reddit.com/r/selfhosted/comments/1iy1j24/differentiate_between_uk_and_us_versions_of_a)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:09:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, I have a reality show on my server with a UK and a US version. I have the US version, but Jellyfin uses all the metadata for the UK version of the show. So the cover photo, the thumbnail, descriptions for the eps, etc, are wrong. Is there a way I can tell Jellyfin to get all the US metadata, or do I have to do it manually?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wheels859"> /u/Wheels859 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy1j24/differentiate_between_uk_and_us_versions_of_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy1j24/differentiate_between_uk_and_us_versions_of_a/">[comments]</a></span>
+
+## Advise on setting up selfhosted ebook/manga reader
+ - [https://www.reddit.com/r/selfhosted/comments/1iy1ga7/advise_on_setting_up_selfhosted_ebookmanga_reader](https://www.reddit.com/r/selfhosted/comments/1iy1ga7/advise_on_setting_up_selfhosted_ebookmanga_reader)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:06:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am a novice who very recently stated with this hobby of selfhosting. I have set up a few things and I am looking for a good setup for ebook/manga reader for my spouse, mainly to please her as she is an avid reader. This will be my chance to please her considering that she has not been very happy with the money and time I have spent on this hobby recently. </p> <p>I am looking for something that would preferrable work with a few different formats, as I have PDFs, Mobi, epub, etc. Also, to give some background I have my own domain which I use with tailscale for outside access and I use Traefik as reverse proxy. Now with this set up I am not sure if my selfhosted ebook/manga reader can be integrated in to a reader app for Android. It would be great if it can be, if not than browser will also work as long as the reading progress is tracked. </p> <p>Lastly, as I mentioned before I am a novice and I have been doing all these just following guides and tut
+
+## Does oracle free tier allow hosting vpn?
+ - [https://www.reddit.com/r/selfhosted/comments/1iy19b8/does_oracle_free_tier_allow_hosting_vpn](https://www.reddit.com/r/selfhosted/comments/1iy19b8/does_oracle_free_tier_allow_hosting_vpn)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:58:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>I saw some people saying their instance get deleted for it but I can&#39;t find anything on the ToS that says it&#39;s not allowed</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Super-Ad2398"> /u/Super-Ad2398 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy19b8/does_oracle_free_tier_allow_hosting_vpn/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy19b8/does_oracle_free_tier_allow_hosting_vpn/">[comments]</a></span>
+
+## Created an Asset management system. Beta Test. Not Production Ready.
+ - [https://www.reddit.com/r/selfhosted/comments/1iy0ucd/created_an_asset_management_system_beta_test_not](https://www.reddit.com/r/selfhosted/comments/1iy0ucd/created_an_asset_management_system_beta_test_not)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:41:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1iy0ucd/created_an_asset_management_system_beta_test_not/"> <img src="https://external-preview.redd.it/knSgKqHSPS_Xr9B9Luw_AOg14U7agKhm2BZ_uAMbsPM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ff017b947243d763ab741a59746d49fb0d5267bf" alt="Created an Asset management system. Beta Test. Not Production Ready." title="Created an Asset management system. Beta Test. Not Production Ready." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I am releasing the first beta test of my Asset management system.</p> <p><a href="https://preview.redd.it/a6jelnwphble1.jpg?width=1318&amp;format=pjpg&amp;auto=webp&amp;s=5c28b4a4daa71cd83e73f2a01611740c1d4acb64">https://preview.redd.it/a6jelnwphble1.jpg?width=1318&amp;format=pjpg&amp;auto=webp&amp;s=5c28b4a4daa71cd83e73f2a01611740c1d4acb64</a></p> <p><a href="https://preview.redd.it/6hzdtxdqhble1.png?width=1309&amp;format=png&amp;auto=webp&amp;s=9e1abbbbb3bff11d1bdb2070149ad08a18
+
+## Any one using backstage(Internal Developer Portal) for homelab?
+ - [https://www.reddit.com/r/selfhosted/comments/1iy0eel/any_one_using_backstageinternal_developer_portal](https://www.reddit.com/r/selfhosted/comments/1iy0eel/any_one_using_backstageinternal_developer_portal)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:23:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently come into the idea of using backstage to keep track of my homelab services. Are any of you doing it? The con is that it is a bit complicated to setup requires some coding. But it could nice way to organize my services. What are your thoughts and experiences please share?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/daisydomergue81"> /u/daisydomergue81 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy0eel/any_one_using_backstageinternal_developer_portal/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy0eel/any_one_using_backstageinternal_developer_portal/">[comments]</a></span>
+
+## OpenCloud v1.0 has been released to the public (Owncloud OCIS fork)
+ - [https://www.reddit.com/r/selfhosted/comments/1iy00zc/opencloud_v10_has_been_released_to_the_public](https://www.reddit.com/r/selfhosted/comments/1iy00zc/opencloud_v10_has_been_released_to_the_public)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:08:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1iy00zc/opencloud_v10_has_been_released_to_the_public/"> <img src="https://external-preview.redd.it/ZpXDIRKsJY7G2AI8NxEbx9f5_x8Bo6PEbHV_vz19x3o.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=886c31c572a2c1487561827230bf2d1253d1929f" alt="OpenCloud v1.0 has been released to the public (Owncloud OCIS fork)" title="OpenCloud v1.0 has been released to the public (Owncloud OCIS fork)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/horrorente"> /u/horrorente </a> <br/> <span><a href="https://github.com/opencloud-eu">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1iy00zc/opencloud_v10_has_been_released_to_the_public/">[comments]</a></span> </td></tr></table>
+
+## Selfhosted Open Source Chatserver
+ - [https://www.reddit.com/r/selfhosted/comments/1ixzv5y/selfhosted_open_source_chatserver](https://www.reddit.com/r/selfhosted/comments/1ixzv5y/selfhosted_open_source_chatserver)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:02:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi there,</p> <p>i have been searching for a self hosted slack/discord alternative for a while now. All started when Slack limited the message history to 90 days for the free teams. As we used Slack for a very small team (&lt;5 people) upgrading to a bigger plan was never an option. This must have been around 2022/2023 as I turned to Mattermost we switched to that. Sadly a lot of Mattermosts features are behind another paywall and it is more like a freemium to me. Not really free/libre and I think not even 100% open source. So after a short stint with Mattermost we are now at Discord. We dont have to talk about data privacy on Discord and I am desperate to go back to a self hosted solution.</p> <p>I have tried:</p> <ul> <li>zulip (zulip)</li> <li>Mattermost</li> <li>RocketChat</li> <li>letschat</li> <li>Synapse (Matrix)</li> </ul> <p>All of them have some kind of paid model which involves being able to chat mostly for free but having to pay for more 
+
+## Are there any self-hosted services that notify you of when new versions of projects or builds are released?
+ - [https://www.reddit.com/r/selfhosted/comments/1ixzq9d/are_there_any_selfhosted_services_that_notify_you](https://www.reddit.com/r/selfhosted/comments/1ixzq9d/are_there_any_selfhosted_services_that_notify_you)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:56:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>It would be nice to add a list of projects that you’d like to track and have it notify you when a new release is out. This is different than Watchtower or Porter which update or let you know about doctor containers that are out of date.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pugglewugglez"> /u/pugglewugglez </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixzq9d/are_there_any_selfhosted_services_that_notify_you/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixzq9d/are_there_any_selfhosted_services_that_notify_you/">[comments]</a></span>
+
+## Open-source reverse proxy to remove sensitive data from OpenAI API calls
+ - [https://www.reddit.com/r/selfhosted/comments/1ixzp6h/opensource_reverse_proxy_to_remove_sensitive_data](https://www.reddit.com/r/selfhosted/comments/1ixzp6h/opensource_reverse_proxy_to_remove_sensitive_data)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:55:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, <a href="/r/selfhosted">r/selfhosted</a>!</p> <p>I&#39;m new to this sub, but someone from <a href="/r/python">r/python</a> thought it&#39;d be good to post my project here!</p> <p>I&#39;d like to share the project I&#39;ve been working on during the last few weekends.</p> <ul> <li>Code: <a href="https://github.com/edublancas/sanitAI">https://github.com/edublancas/sanitAI</a></li> <li>Video tutorial: <a href="https://youtu.be/bdA7T6Z6YQ4">https://youtu.be/bdA7T6Z6YQ4</a></li> </ul> <p><strong>What My Project Does</strong></p> <p>SanitAI is a reverse proxy that intercepts calls to OpenAI&#39;s API and removes sensitive data. You can add, and update rules via an AI agent that asks a few questions, and then defines and tests the rule for you.</p> <p>For example, you might add a rule to remove credit card numbers and phones. Then, when your users send:</p> <blockquote> <p>Hello, my card number is 4111-1111-1111-1111. Call me at (123) 456-7890</p> </b
+
+## Docker volume backups
+ - [https://www.reddit.com/r/selfhosted/comments/1ixz0pv/docker_volume_backups](https://www.reddit.com/r/selfhosted/comments/1ixz0pv/docker_volume_backups)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:27:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>What do you use for backup docker volume data?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FewPalpitation7692"> /u/FewPalpitation7692 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixz0pv/docker_volume_backups/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixz0pv/docker_volume_backups/">[comments]</a></span>
+
+## Am I getting close?
+ - [https://www.reddit.com/r/selfhosted/comments/1ixylng/am_i_getting_close](https://www.reddit.com/r/selfhosted/comments/1ixylng/am_i_getting_close)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:10:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1ixylng/am_i_getting_close/"> <img src="https://preview.redd.it/qc0xps1g7ble1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c2993fec8bb91a4ed3bce6d9a82f238011042f5" alt="Am I getting close?" title="Am I getting close?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I’d like to add a Wireguard link as shown in green, to connect two HA instances. (The link in red is already up and working.) </p> <p>Am I anywhere close in my thinking? I dont know if two instance of Wireguard will play nicely, hence changed the port of the second “green” instance. On the remote network, will I need to change IP addresses or not? Given local Pi5 is 192.168.107.x (VLAN) and the remote network is 192.168.1.x?</p> <p>Any tips appreciated peeps</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/smithy1abc"> /u/smithy1abc </a> <br/> <span><a href="https://i.redd.it/qc0xps1g7ble1.jpeg">[link]</a>
+
+## Help in getting my jellyfin and jellyseer public
+ - [https://www.reddit.com/r/selfhosted/comments/1ixx5kq/help_in_getting_my_jellyfin_and_jellyseer_public](https://www.reddit.com/r/selfhosted/comments/1ixx5kq/help_in_getting_my_jellyfin_and_jellyseer_public)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:08:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi guys I tried for 2 days to get my test server hosted service up so that it is publicly accessible but am unsuccessful in doing so which I guess is due to port forwarding.So i will be very grateful if someone can help me do it. I have my domain and all but need your help to get it live. </p> <p>Thanks. </p> <p>Also have nginx proxy manager up in docker. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SaKoRi16"> /u/SaKoRi16 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixx5kq/help_in_getting_my_jellyfin_and_jellyseer_public/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixx5kq/help_in_getting_my_jellyfin_and_jellyseer_public/">[comments]</a></span>
+
+## Chevereto (Pro): Is there a way to disable the uploading splash screen?
+ - [https://www.reddit.com/r/selfhosted/comments/1ixwrz0/chevereto_pro_is_there_a_way_to_disable_the](https://www.reddit.com/r/selfhosted/comments/1ixwrz0/chevereto_pro_is_there_a_way_to_disable_the)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:52:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1ixwrz0/chevereto_pro_is_there_a_way_to_disable_the/"> <img src="https://b.thumbs.redditmedia.com/SWz6jxo2M0Ib-uIpdS6Usa6H1UlwFx0NqCseA46w2OM.jpg" alt="Chevereto (Pro): Is there a way to disable the uploading splash screen?" title="Chevereto (Pro): Is there a way to disable the uploading splash screen?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I am trying to use this as a pixieset replacement, so my clients will never upload photos. They will only download albums I create for their portfolios.</p> <p><a href="https://preview.redd.it/tws4gobqtale1.png?width=888&amp;format=png&amp;auto=webp&amp;s=86e5b59a8a0d6dc14ea90259f5d2eea8079c0f8b">https://preview.redd.it/tws4gobqtale1.png?width=888&amp;format=png&amp;auto=webp&amp;s=86e5b59a8a0d6dc14ea90259f5d2eea8079c0f8b</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jku2017"> /u/jku2017 </a> <br/> <span><a href="https:
+
+## In Authentik, how do I disable the MFA auto select when logging in? I'd like to be able to choose what MFA method I use based of the device I'm logging in with.
+ - [https://www.reddit.com/r/selfhosted/comments/1ixwlqx/in_authentik_how_do_i_disable_the_mfa_auto_select](https://www.reddit.com/r/selfhosted/comments/1ixwlqx/in_authentik_how_do_i_disable_the_mfa_auto_select)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:44:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>Example. On phone, I use sms via Twilio or WebAuthn On personal PC I use WebAuthn. On work PC I use TOTP or sms. On work phone I use sms or TOTP.</p> <p>I&#39;d really like to disable the feature that auto selects what mfa method to use.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Srslywtfnoob92"> /u/Srslywtfnoob92 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixwlqx/in_authentik_how_do_i_disable_the_mfa_auto_select/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixwlqx/in_authentik_how_do_i_disable_the_mfa_auto_select/">[comments]</a></span>
+
+## Hello fellow selfhosters
+ - [https://www.reddit.com/r/selfhosted/comments/1ixv2e1/hello_fellow_selfhosters](https://www.reddit.com/r/selfhosted/comments/1ixv2e1/hello_fellow_selfhosters)
+ - RSS feed: $source
+ - date published: 2025-02-25T13:33:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>Im trying to decide on a nas that&#39;s good for my plex server. Right now I&#39;m using a finicky 1.5tB external drive on my laptop-server and I want to get a nas formore stable storage. Any recommendations under $300?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fine_Salamander_8691"> /u/Fine_Salamander_8691 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixv2e1/hello_fellow_selfhosters/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixv2e1/hello_fellow_selfhosters/">[comments]</a></span>
+
+## Can you add custom indexers to calibre web automated?
+ - [https://www.reddit.com/r/selfhosted/comments/1ixuv71/can_you_add_custom_indexers_to_calibre_web](https://www.reddit.com/r/selfhosted/comments/1ixuv71/can_you_add_custom_indexers_to_calibre_web)
+ - RSS feed: $source
+ - date published: 2025-02-25T13:23:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Does anyone know how or if you can add other sites for indexing books? I wanted to add drivethrurpg for all my gaming pdf&#39;s but I am not sure if you can or where to start.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RiffyDivine2"> /u/RiffyDivine2 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixuv71/can_you_add_custom_indexers_to_calibre_web/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixuv71/can_you_add_custom_indexers_to_calibre_web/">[comments]</a></span>
+
+## Run code blocks from Markdown files - runblock
+ - [https://www.reddit.com/r/selfhosted/comments/1ixuuzq/run_code_blocks_from_markdown_files_runblock](https://www.reddit.com/r/selfhosted/comments/1ixuuzq/run_code_blocks_from_markdown_files_runblock)
+ - RSS feed: $source
+ - date published: 2025-02-25T13:22:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>I just wanted to share with you the tool I created.<br/> It&#39;s <a href="https://github.com/thevops/runblock">runblock</a> - allows to run code blocks from Markdown files.<br/> The idea came to me after seeing <a href="https://github.com/stateful/runme">runme</a>. </p> <p>I use it for repetitive tasks that I have documented in Markdown files - runbooks. Documentation and scripts in one.</p> <p>Have a nice day!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thevops"> /u/thevops </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixuuzq/run_code_blocks_from_markdown_files_runblock/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixuuzq/run_code_blocks_from_markdown_files_runblock/">[comments]</a></span>
+
+## I think I need a reverse-proxy, but I'm not sure and don't know where to start.
+ - [https://www.reddit.com/r/selfhosted/comments/1ixuo69/i_think_i_need_a_reverseproxy_but_im_not_sure_and](https://www.reddit.com/r/selfhosted/comments/1ixuo69/i_think_i_need_a_reverseproxy_but_im_not_sure_and)
+ - RSS feed: $source
+ - date published: 2025-02-25T13:13:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi folks.</p> <p>I know this feels like a super basic question that I should be able to search, but when I try I get flooded with guides on security and networking, and services that I don&#39;t know if I need, and it feels like everyone assumes it&#39;s common knowledge but I still need the beginners lesson.</p> <p>I have a domain that I&#39;d like to use for access outside my home, that I can easily share with people. For most things I&#39;ve been setting up tunnels with CloudFlare, but not everything plays nice with that.</p> <p>For example: my calibre-web instance won&#39;t sync to my Kobo if I set the IP as the tunnel, but works fine with the IP address. I&#39;ve also wanted to move from Plex to Jellyfin, but I&#39;ve been informed that CloudFlare does not like video hosting going over their tunnels so I&#39;ve been sticking with the Plex servers for external access.</p> <p>I think the solution is to set up a reverse-proxy, and point an address 
+
+## MediaStack - Ultimate Guide on Windows 11 Docker with WSL and Ubuntu - Gluetun VPN, Jellyfin, Plex, Radarr, Sonarr, Lidarr, Prowlarr, Tdarr, Running Continuously using a Windows Service Wrapper.
+ - [https://www.reddit.com/r/selfhosted/comments/1ixuf0x/mediastack_ultimate_guide_on_windows_11_docker](https://www.reddit.com/r/selfhosted/comments/1ixuf0x/mediastack_ultimate_guide_on_windows_11_docker)
+ - RSS feed: $source
+ - date published: 2025-02-25T13:00:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>A detailed video guide on on how install docker applications to quickly set up a secure home media stack using Windows 11, Windows Subsystem for Linux, Ubuntu, and Docker, for managing and streaming media collections with applications like Jellyfin and Plex. Using Docker, MediaStack containerises these media servers alongside *ARR applications (Radarr, Sonarr, Lidarr, etc.) for seamless media automation and management.</p> <p>Also uses Windows Service Wrapper, to WSL, Ubuntu, Docker and containers continue to run after reboots, without having to log in a start the service manually - always up.</p> <p>Video Guide: <a href="https://youtu.be/N--e1O5SqPw">https://youtu.be/N--e1O5SqPw</a> </p> <p>Technical Guide / Steps: <a href="https://pastes.io/mediastack-a-detailed-guide-on-windows-11-docker-with-wsl-and-ubuntu">https://pastes.io/mediastack-a-detailed-guide-on-windows-11-docker-with-wsl-and-ubuntu</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; 
+
+## Fileway – A Real-Time File Transfer Tool for CLI and browser
+ - [https://www.reddit.com/r/selfhosted/comments/1ixudov/fileway_a_realtime_file_transfer_tool_for_cli_and](https://www.reddit.com/r/selfhosted/comments/1ixudov/fileway_a_realtime_file_transfer_tool_for_cli_and)
+ - RSS feed: $source
+ - date published: 2025-02-25T12:58:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello <a href="/r/selfhosted">r/selfhosted</a> community,</p> <p>I&#39;d like to introduce <strong>fileway</strong>, a self-hosted, real-time file transfer service designed for seamless and secure file sharing directly from your command line or browser. I built it for myself, but I hope it may be useful to you, too.</p> <p><strong>What is Fileway?</strong></p> <p>Fileway enables two parties to exchange files through an intermediary server without storing data or requiring direct access to each other&#39;s systems. Think of it as a live-streaming, cli-enabled version of WeTransfer™, but entirely under your control.</p> <p>A quick <a href="https://github.com/proofrock/fileway?tab=readme-ov-file#3-tutorial">hands-on</a> demo/tutorial.</p> <p>It&#39;s written in Go, Python3, HTML and Javascript; it&#39;s packaged as a docker image for convenience (but can be used directly, too), and should be really light on resources. Apache v2 license.</p> <p><strong>U
+
+## Paperless-ngx troubleshooting
+ - [https://www.reddit.com/r/selfhosted/comments/1ixu5lt/paperlessngx_troubleshooting](https://www.reddit.com/r/selfhosted/comments/1ixu5lt/paperlessngx_troubleshooting)
+ - RSS feed: $source
+ - date published: 2025-02-25T12:46:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, spend some hours to solve &quot;FATAL: password authentication failed for user &quot;paperless&quot;. This bug helped me: <a href="https://github.com/jonaswinkler/paperless-ng/issues/1552">[BUG] password authentication failed for user &quot;paperless&quot;</a></p> <p>In short, also PAPERLESS_DBPASS must be present in config file, this is not present in example on github. <a href="https://github.com/paperless-ngx/paperless-ngx/blob/main/docker/compose/docker-compose.postgres-tika.yml">paperless-ngx/docker/compose/docker-compose.postgres-tika.yml</a></p> <p>Also had to change the &quot;redisdata:/data&quot; -&gt; &quot;./redisdata:/data&quot; and &quot;pgdata:/var/lib/postgresql/data&quot; -&gt; &quot;./pgdata:/var/lib/postgresql/data&quot;</p> <p>First then it was possible to create a superuser without authetication error and I could finally log in</p> <p>Anybody else with similar problems?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href
+
+## n8n alternative with a free software license, such as GPL, AGPL, Apache, MIT
+ - [https://www.reddit.com/r/selfhosted/comments/1ixu23e/n8n_alternative_with_a_free_software_license_such](https://www.reddit.com/r/selfhosted/comments/1ixu23e/n8n_alternative_with_a_free_software_license_such)
+ - RSS feed: $source
+ - date published: 2025-02-25T12:41:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone,</p> <p>Does anyone here know an alternative for n8n, with a free software license, such as GPL, AGPL, Apache, MIT?</p> <p>n8n&#39;s self hosted version is super cool, but <a href="https://github.com/n8n-io/n8n?tab=License-1-ov-file#readme">the license model</a> can be a pain in the ass, in the not too distant future.</p> <p>I&#39;m currently reviewing <a href="https://github.com/kestra-io/kestra">Kestra</a> now, but I&#39;m not sure if it can be used instead.</p> <p>Do you have any suggestions? </p> <p>Best,</p> <p>Orkut </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/orkutmuratyilmaz"> /u/orkutmuratyilmaz </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixu23e/n8n_alternative_with_a_free_software_license_such/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixu23e/n8n_alternative_with_a_free_software_license_such/">[comments]</a></spa
+
+## how to isolate container from host
+ - [https://www.reddit.com/r/selfhosted/comments/1ixtice/how_to_isolate_container_from_host](https://www.reddit.com/r/selfhosted/comments/1ixtice/how_to_isolate_container_from_host)
+ - RSS feed: $source
+ - date published: 2025-02-25T12:10:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>iwant to open access to the lab but dont want people to branch / pibot from the container to my host</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SympathyTop2560"> /u/SympathyTop2560 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixtice/how_to_isolate_container_from_host/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixtice/how_to_isolate_container_from_host/">[comments]</a></span>
+
+## Expose Your Web Service with Kubernetes: A Comprehensive Ingress Controller Guide
+ - [https://www.reddit.com/r/selfhosted/comments/1ixsjma/expose_your_web_service_with_kubernetes_a](https://www.reddit.com/r/selfhosted/comments/1ixsjma/expose_your_web_service_with_kubernetes_a)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:09:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1ixsjma/expose_your_web_service_with_kubernetes_a/"> <img src="https://external-preview.redd.it/5iH9Jw8evA7zyi99W3-x5vXnl8GbukALCgtRhcr3nHc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a1a5a0d2882f80a83b995686891e1f6581be4d14" alt="Expose Your Web Service with Kubernetes: A Comprehensive Ingress Controller Guide" title="Expose Your Web Service with Kubernetes: A Comprehensive Ingress Controller Guide" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EdgarHuber"> /u/EdgarHuber </a> <br/> <span><a href="https://medium.com/@erwinschleier/expose-your-web-service-with-kubernetes-a-comprehensive-ingress-controller-guide-425a7d327a88">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixsjma/expose_your_web_service_with_kubernetes_a/">[comments]</a></span> </td></tr></table>
+
+## Introducing Scrobblex: Plex to Trakt integration using webhooks
+ - [https://www.reddit.com/r/selfhosted/comments/1ixreqo/introducing_scrobblex_plex_to_trakt_integration](https://www.reddit.com/r/selfhosted/comments/1ixreqo/introducing_scrobblex_plex_to_trakt_integration)
+ - RSS feed: $source
+ - date published: 2025-02-25T09:52:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I&#39;m excited to announce the release of <a href="https://github.com/ryck/scrobblex">Scrobblex</a>, a small self-hosted Node.js application that integrates Plex with Trakt via webhooks.</p> <p>This is basically a Node.js version of <a href="https://github.com/XanderStrike/goplaxt">goplaxt</a>, plus sync ratings and some other minor improvements.</p> <p>Initially, I just did this for me, because I wanted to do something with webhooks, but then I thought someone else might find it useful, so here we are...</p> <p>There is also a docker image. It&#39;s a very simple script, but then again, I don&#39;t host anything without a docker image anymore, so I thought I may as well do one for Scrobblex.</p> <h1>🚀 Features</h1> <ul> <li><strong>Scrobble Plex plays to Trakt</strong>: Automatically log your Plex media plays to your Trakt account.</li> <li><strong>Push Plex ratings to Trakt</strong>: Sync your Plex ratings with Trakt.</li> <li
+
+## What do you think about this proxmox setup?
+ - [https://www.reddit.com/r/selfhosted/comments/1ixr2jb/what_do_you_think_about_this_proxmox_setup](https://www.reddit.com/r/selfhosted/comments/1ixr2jb/what_do_you_think_about_this_proxmox_setup)
+ - RSS feed: $source
+ - date published: 2025-02-25T09:27:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1ixr2jb/what_do_you_think_about_this_proxmox_setup/"> <img src="https://external-preview.redd.it/ck7woo603rlOvR46q1clbKfs3Johe_YxVZJWHEHfmbA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a984a3f91c112c5707a29d4d0674c66ae0c56521" alt="What do you think about this proxmox setup?" title="What do you think about this proxmox setup?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/kf3150iqa9le1.jpg?width=2509&amp;format=pjpg&amp;auto=webp&amp;s=6cc1026f0377b78300e7b3c920735beba44a0307">https://preview.redd.it/kf3150iqa9le1.jpg?width=2509&amp;format=pjpg&amp;auto=webp&amp;s=6cc1026f0377b78300e7b3c920735beba44a0307</a></p> <p>I am planning to setup my little homeserver basically like in my drawing. I have a VPS hosted by Netcup (in Frankfurt, Germany) and got Wireguard (actually <a href="https://github.com/fosrl/pangolin">Pangolin</a> but under the hood it is Wireguard) running the
+
+## SSO of all SSOs: Exists something like this?
+ - [https://www.reddit.com/r/selfhosted/comments/1ixnu11/sso_of_all_ssos_exists_something_like_this](https://www.reddit.com/r/selfhosted/comments/1ixnu11/sso_of_all_ssos_exists_something_like_this)
+ - RSS feed: $source
+ - date published: 2025-02-25T05:40:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have some services that I would like to serve for some small companies, my clients, using SSO of their office colaboration tools, like Microsoft 365 and Google Workspace.</p> <p>The problem is: Some of them, like ZenDesk, just do not allow me to have multiple SAML/SSO profiles without creating 1 button of each IdP for each company/platform.</p> <p>Please, there is any SALM/SSO agregator I could selfhost to combine and redirect my users based by their domain, like a man-in-the-middle SSO to auth service? Like service &gt; selfhosted SAML &gt; domain IdP platform?</p> <p>A plus could be also integrating to a RADIUS platform but I understand that it could be too much lol</p> <p>Thanks a lot!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IvanDoomer"> /u/IvanDoomer </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixnu11/sso_of_all_ssos_exists_something_like_this/">[link]</a></span> &#32; <s
+
+## Automate the testing of your UPS using this script
+ - [https://www.reddit.com/r/selfhosted/comments/1ixj7j5/automate_the_testing_of_your_ups_using_this_script](https://www.reddit.com/r/selfhosted/comments/1ixj7j5/automate_the_testing_of_your_ups_using_this_script)
+ - RSS feed: $source
+ - date published: 2025-02-25T01:37:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/selfhosted/comments/1ixj7j5/automate_the_testing_of_your_ups_using_this_script/"> <img src="https://external-preview.redd.it/DaucjXMGsNHM-CtmdilC9-Be6MC8V2z4ykjVCgOkTFc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=62ca4cb88917f17e7200a6f1c665b5d959713745" alt="Automate the testing of your UPS using this script" title="Automate the testing of your UPS using this script" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eljojors"> /u/eljojors </a> <br/> <span><a href="https://gist.github.com/eljojo/a272cb68c766524c66808dffb67eee27">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixj7j5/automate_the_testing_of_your_ups_using_this_script/">[comments]</a></span> </td></tr></table>
+
+## Only hosting a domain for a year, do I have to pay the renew fee once it’s over or do I only pay once for a year?
+ - [https://www.reddit.com/r/selfhosted/comments/1ixiwd0/only_hosting_a_domain_for_a_year_do_i_have_to_pay](https://www.reddit.com/r/selfhosted/comments/1ixiwd0/only_hosting_a_domain_for_a_year_do_i_have_to_pay)
+ - RSS feed: $source
+ - date published: 2025-02-25T01:22:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Basically title. I’m thinking of buying a domain, and looking at various TLDs, however I am noticing the “New” and “Renew” sections. Question is simple, if I’m only paying for one year, and I’m only paying 5 dollars, would I only spend 5 dollars?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DarkstormB801"> /u/DarkstormB801 </a> <br/> <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixiwd0/only_hosting_a_domain_for_a_year_do_i_have_to_pay/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/selfhosted/comments/1ixiwd0/only_hosting_a_domain_for_a_year_do_i_have_to_pay/">[comments]</a></span>
+

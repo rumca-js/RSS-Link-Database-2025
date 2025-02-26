@@ -1,0 +1,149 @@
+# Source:CBC | Top Stories News, URL:https://www.cbc.ca/webfeed/rss/rss-topstories, language:en
+
+## Trump says he wants Keystone XL pipeline built 'NOW.' How likely is that?
+ - [https://www.cbc.ca/news/canada/calgary/keystone-xl-pipeline-trump-1.7468072?cmp=rss](https://www.cbc.ca/news/canada/calgary/keystone-xl-pipeline-trump-1.7468072?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:46:17+00:00
+
+<img src='https://i.cbc.ca/1.5742711.1732733745!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/keystone-xl-alberta.jpg' alt='Pipe waiting to be used in construction of the Keystone XL pipeline in Alberta in September, 2020.' width='620' height='349' title='Pipe waiting to be used in construction of the Keystone XL pipeline in Alberta in September, 2020.'/><p></p>
+
+## Sizing up Canada's Stanley Cup contenders
+ - [https://www.cbc.ca/sports/the-buzzer-newsletter-stanley-cup-contenders-1.7468274?cmp=rss](https://www.cbc.ca/sports/the-buzzer-newsletter-stanley-cup-contenders-1.7468274?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:20:58+00:00
+
+<img src='https://i.cbc.ca/1.7468276.1740517938!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2189429676.jpg' alt='A men&apos;s hockey player looks on during a game.' width='620' height='349' title='Mark Scheifele and the Winnipeg Jets lead the NHL&apos;s overall standings with 24 games left.'/><p>Coming out of the fabulous 4 Nations Face-Off, CBC Sports' daily newsletter checks in on the teams hoping to end Canada's long Stanley Cup drought.</p>
+
+## Musk's DOGE team hit by resignation of 21 technology staffers
+ - [https://www.cbc.ca/news/world/us-doge-resignations-1.7467848?cmp=rss](https://www.cbc.ca/news/world/us-doge-resignations-1.7467848?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T13:11:00+00:00
+
+<img src='https://i.cbc.ca/1.7467905.1740504274!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-sec.JPG' alt='A cleanshaven man standing while wearing a baseball cap with arms folded looks at an older cleanshaven man sitting at a desk.' width='620' height='349' title='FILE PHOTO: Elon Musk listens to U.S. President Donald Trump speak in the Oval Office of the White House in Washington, D.C., U.S., February 11, 2025.   '/><p>More than 20 civil service employees resigned Tuesday from billionaire Trump adviser Elon Musk's Department of Government Efficiency, saying they were refusing to use their technical expertise to "dismantle critical public services."</p>
+
+## Medical officials in Gaza sound the alarm after 6 infants die from cold weather
+ - [https://www.cbc.ca/news/world/infants-dead-hypothermia-gaza-winter-israel-1.7467635?cmp=rss](https://www.cbc.ca/news/world/infants-dead-hypothermia-gaza-winter-israel-1.7467635?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T13:02:36+00:00
+
+<img src='https://i.cbc.ca/1.7467722.1740495952!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/infant-gaza-hospital.jpeg' alt='An infant in a hospital incubator.' width='620' height='349' title='An infant is seen inside an incubator in Friends of the Patient medical facility in Gaza City.'/><p>At least six infants have died from cold-related injuries over the past two weeks in the Gaza Strip, local medics say, due to a lack of adequate shelter and heating.</p>
+
+## N.L. premier steps down, says 'I must now move on' at surprise news conference
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/andrew-furey-steps-down-as-premier-of-n-l-after-4-years-in-office-1.7467923?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/andrew-furey-steps-down-as-premier-of-n-l-after-4-years-in-office-1.7467923?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T12:50:04+00:00
+
+<img src='https://i.cbc.ca/1.7467956.1740505861!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/furey.jpg' alt='A man at a podium in a suit and red tie.' width='620' height='349' title='Premier Andrew Furey has stepped down in a surprise news conference on Tuesday.'/><p></p>
+
+## Canadian North being sold to Winnipeg-based company for $205M
+ - [https://www.cbc.ca/news/canada/north/canadian-north-being-sold-to-winnipeg-based-company-for-205m-1.7467741?cmp=rss](https://www.cbc.ca/news/canada/north/canadian-north-being-sold-to-winnipeg-based-company-for-205m-1.7467741?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T12:48:31+00:00
+
+<img src='https://i.cbc.ca/1.7217034.1737157397!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/canadian-north.JPG' alt='A Boeing jet with white and red livery takes off from a snowy Northern airport on a cloudless, sunny day.' width='620' height='349' title='Canadian North&apos;s Boeing 737-400 aircraft takes off from Iqaluit on March 3, 2024.'/><p>Winnipeg-based Exchange Income Corporation announced on Monday that it would be buying Canadian North for $205 million. The company promised the sale would mean better service to northern communities.</p>
+
+## Alberta cabinet minister resigns, citing concerns over procurement
+ - [https://www.cbc.ca/news/canada/edmonton/alberta-cabinet-minister-resigns-citing-concerns-over-procurement-1.7467845?cmp=rss](https://www.cbc.ca/news/canada/edmonton/alberta-cabinet-minister-resigns-citing-concerns-over-procurement-1.7467845?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:52:41+00:00
+
+<img src='https://i.cbc.ca/1.7151403.1711051076!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pete-guthrie.jpg' alt='A man with grey hair stands in front of an Alberta flag at a podium.' width='620' height='349' title='Alberta Infrastructure Minister Pete Guthrie speaks to reporters on March 21, 2024.'/><p>Alberta Infrastructure Minister Peter Guthrie has resigned from his position, citing a lack of confidence in the government's procurement practices.</p>
+
+## Apple shareholders say no to scrapping company's diversity programs
+ - [https://www.cbc.ca/news/business/apple-shareholders-dei-vote-1.7467807?cmp=rss](https://www.cbc.ca/news/business/apple-shareholders-dei-vote-1.7467807?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:42:41+00:00
+
+<img src='https://i.cbc.ca/1.6171209.1736784486!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/apple-results.jpg' alt='A large Apple logo, seen from a low angle, is displayed on the side of a building.' width='620' height='349' title='The logo of Apple is illuminated at a store in the city center in Munich, Germany, Wednesday, Dec. 16, 2020. Apple’s delayed launch of its latest iPhones unleashed a holiday buying frenzy that propelled sales of the trendsetting company’s most popular product to its fastest start in years. The apparently pent-up demand for four different iPhone 12 models highlighted Apple’s latest quarterly report Wednesday, Jan. 27, 2021. '/><p>Apple shareholders have rebuffed an attempt to pressure the technology trendsetter into scrapping corporate programs designed to diversify its workforce.</p>
+
+## Keir Starmer announces boost to British defence spending, on eve of White House visit
+ - [https://www.cbc.ca/news/world/uk-defence-spending-boost-aid-cut-1.7467721?cmp=rss](https://www.cbc.ca/news/world/uk-defence-spending-boost-aid-cut-1.7467721?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:13:33+00:00
+
+<img src='https://i.cbc.ca/1.7467776.1740498769!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/britain-politics.jpg' alt='A cleanshaven bespectacled man with mostly white hair stands outside and is shown in closeup.' width='620' height='349' title='British Prime Minister Sir Keir Starmer departs 10 Downing Street to attend Parliament, on Feb. 12. Starmer is set to meet with U.S. President Donald Trump this week.'/><p>British Prime Minister Keir Starmer said on Tuesday he would increase annual defence spending to 2.5 per cent of gross domestic product by 2027 and target a three per cent level last seen decades ago, a signal to U.S. President Donald Trump that Britain can help boost Europe's security.</p>
+
+## British musicians release silent album to protest AI use of their work
+ - [https://www.cbc.ca/news/entertainment/musicians-silent-album-ai-protest-1.7467700?cmp=rss](https://www.cbc.ca/news/entertainment/musicians-silent-album-ai-protest-1.7467700?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:07:15+00:00
+
+<img src='https://i.cbc.ca/1.7467716.1740496351!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/britain-ai-copyright.jpg' alt='Yusuf Islam, known during his early musical career by his stage name Cat Stevens, performs during Glastonbury Festival in Worthy Farm, Somerset, England on June 25, 2023. ' width='620' height='349' title='FILE -Yusuf Islam, known during his early musical career by his stage name Cat Stevens, performs during Glastonbury Festival in Worthy Farm, Somerset, England, Sunday, June 25, 2023. '/><p>With contributions from artists including Kate Bush, Annie Lennox, Cat Stevens and Damon Albarn, the album was released Tuesday to protest proposed British changes to artificial intelligence laws that artists fear will erode their creative control.</p>
+
+## South Korea highway overpass collapses, killing 4 people
+ - [https://www.cbc.ca/news/world/south-korea-road-collapse-1.7467639?cmp=rss](https://www.cbc.ca/news/world/south-korea-road-collapse-1.7467639?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T08:15:24+00:00
+
+<img src='https://i.cbc.ca/1.7467625.1740487299!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/south-korea-highway-collapses.jpg' alt='From an aerial view, a bridge that has crumbled in the middle is shown. Concrete debris are shown on the ground.' width='620' height='349' title='Elevated parts of a highway under construction is seen collapsed near Cheonan, South Korea, Tuesday, Feb. 25, 2025. '/><p>Elevated parts of a highway under construction collapsed in Cheonan, South Korea, on Tuesday, killing four workers and injuring six others, officials said.</p>
+
+## Economic uncertainty looms over spring sitting of Alberta legislature
+ - [https://www.cbc.ca/news/canada/edmonton/economic-uncertainty-looms-over-spring-sitting-of-alberta-legislature-1.7467471?cmp=rss](https://www.cbc.ca/news/canada/edmonton/economic-uncertainty-looms-over-spring-sitting-of-alberta-legislature-1.7467471?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T07:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7377283.1731013656!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/alberta-legislature.jpg' alt='A view of the Alberta legislature, with a brown stone dome, under a blue sky.' width='620' height='349' title='A view of the Alberta legislature in Edmonton, Alta.'/><p>As the Alberta government heads into a spring legislative sitting on Tuesday pledging to follow through with auto insurance reform and tweaking professional regulatory college powers, political observers say much of the public's focus will be on the budget.</p>
+
+## Sask. dad hand-crafts daughter's engagement ring and goes viral on TikTok
+ - [https://www.cbc.ca/news/canada/saskatoon/hand-crafts-engagement-ring-daughter-viral-on-tiktok-1.7467438?cmp=rss](https://www.cbc.ca/news/canada/saskatoon/hand-crafts-engagement-ring-daughter-viral-on-tiktok-1.7467438?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T06:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7467439.1740442297!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/bryce-sherring-and-dawson-leedahl.jpg' alt='A man and a woman' width='620' height='349' title='Bryce Sherring and Dawson Leedahl got engaged in Arizona while on vacation. '/><p>The special moment when Bryce Sherring found out that her engagement ring was handcrafted by her father.</p>
+
+## China opposes Canada including Chinese companies in new Russia sanctions
+ - [https://www.cbc.ca/news/politics/china-canada-russia-sanctions-1.7467605?cmp=rss](https://www.cbc.ca/news/politics/china-canada-russia-sanctions-1.7467605?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T05:51:36+00:00
+
+<img src='https://i.cbc.ca/1.7466616.1740412769!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/russia-ukraine-war.jpg' alt='In this photo provided by the Ukrainian Presidential Press Office, Estonia&apos;s Prime Minister Kristen Michal, left, Prime Minister Justin Trudeau and Lithuanian President Gitanas Nauseda attend the Support Ukraine summit in Kyiv, Ukraine.' width='620' height='349' title='In this photo provided by the Ukrainian Presidential Press Office, Estonia&apos;s Prime Minister Kristen Michal, left, Prime Minister Justin Trudeau and Lithuanian President Gitanas Nauseda attend the Support Ukraine summit in Kyiv, Ukraine, Monday, Feb. 24, 2025. '/><p>China has lodged a diplomatic protest against Canada for including Chinese companies in new sanctions against Russia, its foreign ministry said on Tuesday.</p>
+
+## 2 people arrested after arson attack on Russian consulate in Marseille, France
+ - [https://www.cbc.ca/news/world/marseille-russian-consulate-1.7467606?cmp=rss](https://www.cbc.ca/news/world/marseille-russian-consulate-1.7467606?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T05:36:15+00:00
+
+<img src='https://i.cbc.ca/1.7466553.1740392146!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/france-security-russian-consulate.JPG' alt='Emergency workers with vehicles with historical buildings in background.' width='620' height='349' title='French firefighters and rescue forces stand near the entrance of the Russian consulate in Marseille after the consul general confirmed there had been an explosion on Monday.'/><p>Two people have been arrested in relation to the arson attack on the Russian consulate in Marseille on Monday, said a prosecutor.</p>
+
+## They came to Canada to escape political instability in Iran. Quebec is denying them health coverage
+ - [https://www.cbc.ca/news/canada/montreal/iranian-quebec-ramq-1.7467049?cmp=rss](https://www.cbc.ca/news/canada/montreal/iranian-quebec-ramq-1.7467049?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T04:01:44+00:00
+
+<img src='https://i.cbc.ca/1.7467050.1740424026!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rough-story-image-1.jpg' alt='A mother and young daughter sit on a chair together. ' width='620' height='349' title='Somayeh Ahmadiseddigh and her daughter, Céline, moved to Quebec City from Iran last year. Although children can access RAMQ, open work permit holders like Ahmadiseddigh cannot, which she finds discriminatory and inhumane.'/><p></p>
+
+## The threat of a tariff war is already driving up housing costs
+ - [https://www.cbc.ca/news/us-canada-tariffs-housing-costs-1.7466822?cmp=rss](https://www.cbc.ca/news/us-canada-tariffs-housing-costs-1.7466822?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T04:01:00+00:00
+
+<img src='https://i.cbc.ca/ais/474007e5-4680-4b0a-87c2-213875d22847,1740427491930/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D%28620%29' alt='Two large buildings partially under construction. ' width='620' height='349' title='Construction on the Senakw development on Squamish Nation land near Burred bridge in Vancouver, B.C, on Wednesday, Feb 5, 2025.'/><p></p>
+
+## 40 stylists in Hamilton, Ont., do their part to ease costs, giving free haircuts and styles to Black youth
+ - [https://www.cbc.ca/news/canada/hamilton/hamilton-black-youth-hair-1.7462987?cmp=rss](https://www.cbc.ca/news/canada/hamilton/hamilton-black-youth-hair-1.7462987?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7463004.1739992036!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/lohifa-pogoson-acker-and-harper-johnson.jpg' alt='Lohifa Pogoson Acker and Harper Johnson' width='620' height='349' title='Lohifa Pogoson Acker and Harper Johnson'/><p>For Debbie Johnson, the high cost of living has meant making fewer trips to the salon to get her daughter Harper's textured hair styled. On March 15, Black youth like Harper will benefit from an event organized by Hamilton hair stylist Lohifa Pogoson Acker, as dozens of stylists and barbers will offer free hair-care services to racialized youth.</p>
+
+## Indigenous land guardians help guide military training exercises in Carcross, Yukon
+ - [https://www.cbc.ca/news/canada/north/indigenous-land-guardians-help-guide-military-training-exercises-in-carcross-yukon-1.7467368?cmp=rss](https://www.cbc.ca/news/canada/north/indigenous-land-guardians-help-guide-military-training-exercises-in-carcross-yukon-1.7467368?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7467535.1740449409!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/carcross-tagish-first-nation-land-guardians.jpg' alt='A group of people on snowmobiles.' width='620' height='349' title='Land guardians with the Carcross/Tagish First Nation involved in training exercises with Canadian Armed Forces personnel in the Yukon, February 2025.'/><p>For the first time, Carcross/Tagish First Nation elders and land guardians helped plan and execute annual Canadian Armed Forces exercises in the Yukon.</p>
+
+## LED face masks are everywhere. But do they actually work, or are they anti-aging snake oil?
+ - [https://www.cbc.ca/news/canada/do-led-face-masks-work-1.7466687?cmp=rss](https://www.cbc.ca/news/canada/do-led-face-masks-work-1.7466687?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7466718.1740410507!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/led-face-mask.jpg' alt='A person wearing a white mask with glowing red lights lies on a bed' width='620' height='349' title='Headshot of woman with red LED light therapy facial mask lying down on her bed at home and relaxing.'/><p>When it comes to anti-aging regimens, it seems there's nothing some of us won't try in the hopes of younger, smoother skin. And now there's a new product out there generating a lot of hype. But does it work?</p>
+
+## Some parents regret having kids — at least on tough days. They want future parents to know the stakes
+ - [https://www.cbc.ca/radio/thecurrent/regretful-parents-1.7464209?cmp=rss](https://www.cbc.ca/radio/thecurrent/regretful-parents-1.7464209?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7311786.1725376108!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/parenting.jpg' alt='A silhouette of a man throwing his  child in the  air and catching him' width='620' height='349' title='Indian father Shailesh throws up his son, Harish, at a park in Amritsar on June 19, 2016.'/><p>One study shows that between 10 and 14 per cent of parents regret having children. Psychologists, advocates and parents say avoiding feelings of regret won’t make them go away.</p>
+

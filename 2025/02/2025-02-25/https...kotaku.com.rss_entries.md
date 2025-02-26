@@ -1,0 +1,114 @@
+# Source:Kotaku, URL:https://kotaku.com/rss, language:en
+
+## John Lithgow Will Be Dumbledore In HBO's Harry Potter Show
+ - [https://kotaku.com/hbo-harry-potter-dumbledore-actor-john-lithgow-cast-1851766441](https://kotaku.com/hbo-harry-potter-dumbledore-actor-john-lithgow-cast-1851766441)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:05:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/03e23f6de7d24009c1670e3e0d540edb.png"/><p> John Lithgow has played everything from Don Quixote in Man of La Mancha to an extraterrestrial patriarch in 3rd Rock from the Sun. Next he will be the powerful, wise, and compassionate professor Dumbledore in <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/hogwarts-legacy-2-hbo-harry-potter-tv-release-date-1851690168">HBO’s Harry Potter TV show</a>. He confirmed the casting in a recent interview, saying it will “define me for the…</p><p><a href="https://kotaku.com/hbo-harry-potter-dumbledore-actor-john-lithgow-cast-1851766441">Read more...</a></p>
+
+## The Nemesis System Was One Of The Best Things Gaming Ever Did, And WB Just Killed It
+ - [https://kotaku.com/monolith-productions-middle-earth-nemesis-system-patent-1851766437](https://kotaku.com/monolith-productions-middle-earth-nemesis-system-patent-1851766437)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:55:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/97112f9ba8b89b3542fe8a9de3b31e8c.jpg"/><p>Today, February 25, it was announced Warner Bros. is <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/monolith-productions-wonder-woman-multiversus-cancel-wb-1851766400">shutting down Monolith Productions, Player First Games, and Warner Bros. Games San Diego</a>, as well as canceling Monolith’s Wonder Woman game. This follows multiple stories of turnover at the company, including the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/multiversus-season-5-aquaman-offline-update-refund-1851752453">shutdown of crossover fighter Multiversus</a> and the…</p><p><a href="https://kotaku.com/monolith-productions-middle-earth-nemesis-system-patent-1851766437">Read more...</a></p>
+
+## I Wish More People Could Experience This Incredible Shovel Knight Concert
+ - [https://kotaku.com/shovel-knight-live-steel-thy-concert-nyc-la-dates-1851766428](https://kotaku.com/shovel-knight-live-steel-thy-concert-nyc-la-dates-1851766428)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e2cf96d2267edc1d82c380a94b25ebd2.jpg"/><p>On Saturday, February 22, I hiked up to the Town Hall music venue in Manhattan for Shovel Knight Live: Steel Thy Concert, in which an orchestral and rock ensemble performed tunes from Yacht Club’s hugely popular platformer. I haven’t played <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/the-seven-year-saga-of-shovel-knight-is-finally-over-1840419716">Shovel Knight</a> in nearly a decade, but I love live music and the thought of…</p><p><a href="https://kotaku.com/shovel-knight-live-steel-thy-concert-nyc-la-dates-1851766428">Read more...</a></p>
+
+## New Lego T-Rex Is Over 3 Feet Long And Contains 3K+ Pieces
+ - [https://kotaku.com/lego-t-rex-fossil-set-jurassic-park-world-price-3-feet-1851766404](https://kotaku.com/lego-t-rex-fossil-set-jurassic-park-world-price-3-feet-1851766404)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:40:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e43292229a7627f81208a919930d206b.jpg"/><p>Lego and Universal just announced a new <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/jurassic-world-rebirth-trailer-every-dinosaur-mutant-1851755947">Jurassic Park</a> Lego set, and this one is a biggie. In a few months you’ll be able to own and build a massive T-Rex skeleton complete with moving tail and jaw. You’ll just need to make some space for this three-foot monster. </p><p><a href="https://kotaku.com/lego-t-rex-fossil-set-jurassic-park-world-price-3-feet-1851766404">Read more...</a></p>
+
+## Boomers Are Still Reacting To Kendrick Lamar’s Super Bowl Performance On TikTok
+ - [https://kotaku.com/seniors-viral-reactions-kendrick-lamar-lyrics-tiktok-1851766399](https://kotaku.com/seniors-viral-reactions-kendrick-lamar-lyrics-tiktok-1851766399)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a3ca6b578c9f8466193803fb0ec7f0d9.png"/><p>This story originally appeared on The Root, our sister site, on February 23.</p><p><a href="https://kotaku.com/seniors-viral-reactions-kendrick-lamar-lyrics-tiktok-1851766399">Read more...</a></p>
+
+## Warner Bros. Cancels Wonder Woman Game And Shuts Down Shadow Of Mordor Studio
+ - [https://kotaku.com/monolith-productions-wonder-woman-multiversus-cancel-wb-1851766400](https://kotaku.com/monolith-productions-wonder-woman-multiversus-cancel-wb-1851766400)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/b93c829f9b45088a41c41b078b2de8db.png"/><p>Monolith Productions revealed it was making a Wonder Woman game back in 2021. Now,publisher Warner Bros. Games has announced that the project has been canned, and the studio best known for the Middle-Earth: Shadow of War games is being shut down as well as part of larger cuts. The shakeup comes after 2024's Suicide…</p><p><a href="https://kotaku.com/monolith-productions-wonder-woman-multiversus-cancel-wb-1851766400">Read more...</a></p>
+
+## How To Master Iron Man In Marvel Rivals
+ - [https://kotaku.com/marvel-rivals-how-to-play-iron-man-guide-1851766381](https://kotaku.com/marvel-rivals-how-to-play-iron-man-guide-1851766381)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/a9dc0886b6d33026ed0eaa233cabc6fb.jpg"/><p>Tony Stark, as we all know, is a brilliant engineer, the Iron Man suit testament to his capabilities. Flexible and reliable, Iron Man is also a fantastic Dualist in Marvel Rivals, where he excels in keeping constant pressure on his enemies with long range attacks, the ability to fly freely to avoid taking damage and…</p><p><a href="https://kotaku.com/marvel-rivals-how-to-play-iron-man-guide-1851766381">Read more...</a></p>
+
+## Paramount+ Just Added A Bunch Of Classic MTV Unplugged Episodes
+ - [https://kotaku.com/mtv-unplugged-paramount-plus-streaming-nirvana-oasis-1851766377](https://kotaku.com/mtv-unplugged-paramount-plus-streaming-nirvana-oasis-1851766377)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/6768cd0a022ad6304b804b11f9fd1f46.jpg"/><p>Well, here’s some cool news. Paramount has added 50 classic episodes of MTV <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/rock-band-unplugged-review-its-the-frequency-kenneth-5270546">Unplugged</a> to its streaming service. Some of these episodes haven’t been officially available to watch for over 20 years. </p><p><a href="https://kotaku.com/mtv-unplugged-paramount-plus-streaming-nirvana-oasis-1851766377">Read more...</a></p>
+
+## The Pokémon Spin-Off Games, Ranked From Worst To Best
+ - [https://kotaku.com/best-pokemon-spin-off-game-nintendo-switch-go-mystery-1850062178](https://kotaku.com/best-pokemon-spin-off-game-nintendo-switch-go-mystery-1850062178)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:00:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/dcc22f8aa31e2374e772511282bac848.jpg"/><p>If you’re a Pokémon fan, you have no doubt experienced the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/all-the-big-pokemon-games-ranked-from-worst-to-best-1849984595">mainline games</a> with all their catching, battling, and being the very best like no one ever was. But the series has a wide selection of spin-off games that span different genres and subject matter. Even if you’ve only ever played the RPGs, there’s probably…</p><p><a href="https://kotaku.com/best-pokemon-spin-off-game-nintendo-switch-go-mystery-1850062178">Read more...</a></p>
+
+## Studio Behind Acclaimed Silent Hill 2 Remake Reveals It's Working On A New Mystery Game
+ - [https://kotaku.com/bloober-konami-silent-hill-metal-gear-castlevania-1851766343](https://kotaku.com/bloober-konami-silent-hill-metal-gear-castlevania-1851766343)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:50:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e86f705979b780d53c70350706fb3fc0.png"/><p>In addition to getting generally great reviews from critics, Bloober Team’s remake of Silent Hill 2 also went on to sell over 2 million copies across PlayStation 5 and PC. Based on that success, Konami is now letting the Polish horror studio work on a new game based on one of the Japanese publisher’s existing…</p><p><a href="https://kotaku.com/bloober-konami-silent-hill-metal-gear-castlevania-1851766343">Read more...</a></p>
+
+## Xbox Delays Its Big Fantasy RPG Blockbuster Fable To 2026
+ - [https://kotaku.com/xbox-fable-4-reboot-delay-2026-forza-horizon-game-pass-1851766347](https://kotaku.com/xbox-fable-4-reboot-delay-2026-forza-horizon-game-pass-1851766347)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:20:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/e411520b605eb3a4fdb077df751e0fe5.png"/><p>On Tuesday, <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://x.com/WeArePlayground/status/1894418680995512624" target="_blank" rel="noopener noreferrer">Playground Games and Xbox announced</a> that the upcoming Fable reboot has been delayed. It was set to arrive later this year but has now been pushed back until 2026. <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/xbox-is-bringing-back-fable-1844482199">The reboot of the popular RPG franchise was first revealed by Xbox in 2020</a>. </p><p><a href="https://kotaku.com/xbox-fable-4-reboot-delay-2026-forza-horizon-game-pass-1851766347">Read more...</a></p>
+
+## Don't Hit The Wall: Here's How To Beat Mortal Kombat 1's Pink Ninja Boss Floyd
+ - [https://kotaku.com/mortal-kombat-1-pink-floyd-secret-boss-how-to-beat-1851766330](https://kotaku.com/mortal-kombat-1-pink-floyd-secret-boss-how-to-beat-1851766330)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:15:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/db2369953ecd0e610e9726ae41187774.jpg"/><p>If you haven’t kept up with Mortal Kombat 1 in recent weeks, you’ve probably missed the new character that’s whipped the fanbase into a frenzy. No, I’m not talking about the <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/mk1-mortal-kombat-pack-2-dlc-ghostface-t-1000-leak-list-1851559308">Conan the Barbarian DLC fighter</a> that’s been pretty overshadowed by all this. I’m talking about a pink ninja named Floyd who’s been added as a…</p><p><a href="https://kotaku.com/mortal-kombat-1-pink-floyd-secret-boss-how-to-beat-1851766330">Read more...</a></p>
+
+## Call Of Duty Discloses AI Slop After Months Of Players Complaining
+ - [https://kotaku.com/black-ops-6-ai-calling-card-loading-screen-blops-6-cod-1851766313](https://kotaku.com/black-ops-6-ai-calling-card-loading-screen-blops-6-cod-1851766313)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:10:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/5533f778ba7aa12abb5e9a5636613315.png"/><p><a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://kotaku.com/call-of-duty-black-ops-6-multiplayer-beta-weekend-1851638800">Call of Duty: Black Ops 6</a> players have been accusing various loading screens and calling cards from the game of being AI-generated <a class="sc-1out364-0 dPMosf sc-145m8ut-0 lcFFec js_link" href="https://www.reddit.com/r/Steam/comments/1gkcmn3/hows_bo6_not_have_a_ai_warning_for_this_its_so/#lightbox" target="_blank" rel="noopener noreferrer">since it came out last fall</a>, but it was only ever based on vibes and the occasional very convincing piece of seemingly obvious AI slop. Now Activision has admitted to using AI-generated…</p><p><a href="https://kotaku.com/black-ops-6-ai-calling-card-loading-screen-blops-6-cod-1851766313">Read more...</a></p>
+
+## Dive In And Master Marvel Rivals' Magik
+ - [https://kotaku.com/marvel-rivals-magik-character-guide-darkchild-1851766297](https://kotaku.com/marvel-rivals-magik-character-guide-darkchild-1851766297)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/efd235b9c377ff619fd27c589edd305b.jpg"/><p>Many of the Marvel Rivals Duelists settle in nicely into specific roles. Psylocke functions perfectly as an assassin while Hawkeye is meant to be used at range. But if you’re looking for an easy-to-pick-up hero with more flexibility, there is plenty of fun to be had with Magik.</p><p><a href="https://kotaku.com/marvel-rivals-magik-character-guide-darkchild-1851766297">Read more...</a></p>
+
+## This Year's Best Picture Nominees, Ranked By Likelihood Of Winning
+ - [https://kotaku.com/oscars-best-picture-the-brutalist-timothee-chalamet-1851765950](https://kotaku.com/oscars-best-picture-the-brutalist-timothee-chalamet-1851765950)
+ - RSS feed: $source
+ - date published: 2025-02-25T13:45:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/3e0c0ac4d3cae65f94b20f18cf08e7a1.jpg"/><p>There isn’t an exact science to predicting the Best Picture winner at the Oscars. A Christopher Nolan movie hadn’t won it for the first 24 years of his illustrious career before he snagged the top honors for Oppenheimer. The worst Godfather movie (TheGodfather Part III) got nominated in the same year Spike Lee’s…</p><p><a href="https://kotaku.com/oscars-best-picture-the-brutalist-timothee-chalamet-1851765950">Read more...</a></p>
+
+## Which Class Should You Choose When Starting Avowed?
+ - [https://kotaku.com/avowed-class-guide-fighter-ranger-wizard-rpg-obsidian-1851766284](https://kotaku.com/avowed-class-guide-fighter-ranger-wizard-rpg-obsidian-1851766284)
+ - RSS feed: $source
+ - date published: 2025-02-25T13:30:00+00:00
+
+<img class="type:primaryImage" src="https://i.kinja-img.com/image/upload/c_fit,q_80,w_636/eb135312c4ef30816f81afb6721008b8.jpg"/><p>Avowed features three starting classes, each focused on specific archetypes that most role-playing fans are certain to recognize. While you can mix and match abilities between these different classes throughout your adventure, picking the one that appeals most to you can have a significant impact on your early hours…</p><p><a href="https://kotaku.com/avowed-class-guide-fighter-ranger-wizard-rpg-obsidian-1851766284">Read more...</a></p>
+

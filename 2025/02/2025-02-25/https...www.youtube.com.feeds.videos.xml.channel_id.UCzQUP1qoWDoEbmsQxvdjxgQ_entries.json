@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PowerfulJRE",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-25T18:00:24+00:00",
+        "description": "Chase Hughes is an expert in influence, persuasion, and human behavior. He is the author of several books, including \"The Behavior Ops Manual\" and \"The Ellipsis Manual.\"\nhttp://www.chasehughes.com\n\nSave $20 on your first subscription of AG1 at http://drinkag1.com/joerogan\n\n50% off your first box at http://thefarmersdog.com/rogan!",
+        "id": 2193468,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=_R2JwJ0A1QE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 262,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_R2JwJ0A1QE/hqdefault.jpg",
+        "title": "Joe Rogan Experience #2278 - Chase Hughes",
+        "vote": 0
+    }
+]

@@ -1,0 +1,245 @@
+# Source:Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics, URL:https://www.engadget.com/rss.xml, language:en-US
+
+## Microsoft Copilot offers Voice and o1-powered Think Deeper for free
+ - [https://www.engadget.com/ai/microsoft-copilot-offers-voice-and-o1-powered-think-deeper-for-free-232723768.html?src=rss](https://www.engadget.com/ai/microsoft-copilot-offers-voice-and-o1-powered-think-deeper-for-free-232723768.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T23:27:23+00:00
+
+<p>Microsoft <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.microsoft.com/en-us/microsoft-copilot/blog/2025/02/25/announcing-free-unlimited-access-to-think-deeper-and-voice/" data-original-link="https://www.microsoft.com/en-us/microsoft-copilot/blog/2025/02/25/announcing-free-unlimited-access-to-think-deeper-and-voice/"><ins>announced</ins></a> that it is making some features available for free in its Copilot AI assistant. Everyone now has unlimited access to Voice and Think Deeper, which is powered by OpenAI’s o1 model.</p>
+<p>Copilot got the Voice feature, which allows users to have conversations with the AI assistant, in <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/microsofts-copilot-ai-gets-a-voice-and-the-ability-to-see-websites-you-browse-140030003.html" data-original-link="https://www.engadget.com/ai/microsofts-copilot-ai-gets-a-voice-an
+
+## iPhones are briefly changing 'racist' to 'Trump' due to an iOS dictation issue
+ - [https://www.engadget.com/mobile/iphones-are-briefly-changing-racist-to-trump-due-to-an-ios-dictation-issue-230712021.html?src=rss](https://www.engadget.com/mobile/iphones-are-briefly-changing-racist-to-trump-due-to-an-ios-dictation-issue-230712021.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T23:07:12+00:00
+
+<p>A bizarre bug is causing iPhones to automatically change the word “racist” to “Trump” when using the built-in dictation feature in iOS. The issue, which seems to have been <a data-i13n="cpos:1;pos:1" href="https://www.tiktok.com/@user9586420191789/video/7472830639327366446"><ins>discovered</ins></a> by TikTok users, crops up when using the voice-to-text feature in Apple apps like Messages.</p>
+<p>When speaking the word “racist,” iOS briefly transcribes the text as “Trump” before changing it back to the intended word. It’s not clear what could cause this behavior. Engadget was able to replicate the issue, as you can see in the GIF below.</p>
+<span id="end-legacy-contents"></span><figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-02/bfdab6e0-f3ca-11ef-b7f7-b5067b030f9d" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-02/bfdab6e0-f3ca-11ef-b7f7-b5067b030f9d" style="height:861px;width:886px;" alt="Racist briefly transcribes as " data-uuid="52e487
+
+## I'm writing about this cute cat plush so you play one of 2025's best games
+ - [https://www.engadget.com/gaming/im-writing-about-this-cute-cat-plush-so-you-play-one-of-2025s-best-games-223325680.html?src=rss](https://www.engadget.com/gaming/im-writing-about-this-cute-cat-plush-so-you-play-one-of-2025s-best-games-223325680.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T22:33:26+00:00
+
+<p><a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/gaming/citizen-sleeper-2-asks-how-we-stay-human-in-a-hopeless-future-180050858.html"><em>Citizen Sleeper 2: Starward Vector</em></a> is one of my favorite games of the year, so you'll forgive me if I spend the next 300 words or so writing about a <a data-i13n="cpos:2;pos:1" href="https://www.makeship.com/products/stray-plush">limited-edition plush</a> the game's creator, Gareth Damian Martin, is <a data-i13n="cpos:3;pos:1" href="https://bsky.app/profile/jumpovertheage.com/post/3lizik46g222t">producing</a> with the help of crowdfunding platform Makeship. Starting today, you can pledge $30 to support Martin's campaign, and if enough other people do as well, everyone will get a cute cat plush sometime later this year. The toy was designed by French illustrator Guillaume Singelin, who also did the character designs for the game. Right now, the campaign is sitting at 45 percent funded with 90 toys sold, and the better part of 2
+
+## Amid a Musk-led overhaul, the FAA starts doing business with SpaceX
+ - [https://www.engadget.com/science/space/amid-a-musk-led-overhaul-the-faa-starts-doing-business-with-spacex-221900620.html?src=rss](https://www.engadget.com/science/space/amid-a-musk-led-overhaul-the-faa-starts-doing-business-with-spacex-221900620.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T22:19:00+00:00
+
+<p>The Federal Aviation Agency has started testing Starlink terminals for upgrades to the networks that manage airspace, creating the latest conflict of interest between the US government and Elon Musk. The FAA <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://x.com/FAANews/status/1894191384019525693" data-original-link="https://x.com/FAANews/status/1894191384019525693"><ins>posted</ins></a> (fittingly on the social network Musk also owns) that it is testing a Starlink terminal in Atlantic City, NJ, and two terminals in Alaska. The post claims that the department had been considering using the SpaceX tech since the prior presidential administration.</p>
+<p>The agency, which oversees all areas of civil aviation, has levied <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/science/space/faa-wants-to-impose-more-than-630k-in-fines-for-spacex-launch-violations-22
+
+## Samsung's 9100 PRO SSD line includes its first 8TB NVMe model for consumers
+ - [https://www.engadget.com/computing/accessories/samsungs-9100-pro-ssd-line-includes-its-first-8tb-nvme-model-for-consumers-205727818.html?src=rss](https://www.engadget.com/computing/accessories/samsungs-9100-pro-ssd-line-includes-its-first-8tb-nvme-model-for-consumers-205727818.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:57:27+00:00
+
+<p>Samsung's new <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://news.samsung.com/us/samsung-announces-9100-pro-series-ssds-with-breakthrough-pcie-5-0-performance/" data-original-link="https://news.samsung.com/us/samsung-announces-9100-pro-series-ssds-with-breakthrough-pcie-5-0-performance/">9100 PRO Series</a> solid-state drives (SSDs) include the company's first consumer-grade 8TB NVMe SSD. The latest models use the speedy PCIe 5.0 standard, which — unless you <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/ai/microsoft-trained-an-ai-model-on-a-game-no-one-played-160038242.html">train AI models</a> for a living — is almost certainly overkill for your PC needs.</p>
+<p>The Samsung 9100 PRO series offers up to double the storage of its predecessor, <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/samsung-adds-a-4tb-option-to-its-high-speed-990-pro-ssds-104521791.html">the 990 PRO line</a>. It launches in 1TB
+
+## Warner Bros Discovery slashes gaming business, closing three studios
+ - [https://www.engadget.com/gaming/warner-bros-discovery-slashes-gaming-business-closing-three-studios-204344213.html?src=rss](https://www.engadget.com/gaming/warner-bros-discovery-slashes-gaming-business-closing-three-studios-204344213.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:43:44+00:00
+
+<p>Warner Bros Discovery made sweeping cuts to its games division today, closing three studios and ending development on its planned <em>Wonder Woman</em> project. Monolith Productions, Player First Games and WB Games San Diego will be shuttered due to a “disappointing 2024” for WB's gaming business, according to an internal <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.polygon.com/news/529310/warner-bros-games-monolith-productions-multiversus-studio-closure" data-original-link="https://www.polygon.com/news/529310/warner-bros-games-monolith-productions-multiversus-studio-closure">memo</a> from JB Perrette, the company's CEO and president of global streaming and games. <a data-i13n="cpos:2;pos:1" href="https://www.bloomberg.com/news/articles/2025-02-25/warner-bros-shuts-three-video-game-studios-in-restructuring?srnd=phx-technology"><em>Bloomberg</em></a> broke the news of the restructuring.</p>
+<p>Monolith Productions made
+
+## Razer announced a refreshed Blade 18 laptop with a dual mode display
+ - [https://www.engadget.com/computing/laptops/razer-announced-a-refreshed-blade-18-laptop-with-a-dual-mode-display-200943604.html?src=rss](https://www.engadget.com/computing/laptops/razer-announced-a-refreshed-blade-18-laptop-with-a-dual-mode-display-200943604.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:09:43+00:00
+
+<p>Razer <a data-i13n="cpos:1;pos:1" href="https://press.razer.com/product-news/introducing-the-powerful-new-razer-blade-18-now-available-for-pre-order-along-with-blade-16/">just announced a refresh</a> to the popular Blade 18 gaming laptop. This model uses those <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/computing/intel-unveils-arrow-lake-ai-chips-for-gaming-laptops-at-ces-2025-140010111.html">newly-released Intel Core Ultra 200HX</a> series processors and can be purchased with the NVIDIA GeForce RTX 5090 GPU.</p> 
+<p>As the name suggests, it also boasts a ginormous display, which Razer describes as “the world’s first 18-inch dual mode display.” This means that users can instantly switch between UHD+ at 240Hz for appreciating the finer details of AAA games and FHD+ at 440Hz for absolute speed.</p> <span id="end-legacy-contents"></span>
+<p>The keyboard has been fully redesigned, with a new scissor switch that allows for 35 percent more travel distance versus the previ
+
+## OpenAI expands Deep Research to all paying ChatGPT users
+ - [https://www.engadget.com/ai/openai-expands-deep-research-to-all-paying-chatgpt-users-200045108.html?src=rss](https://www.engadget.com/ai/openai-expands-deep-research-to-all-paying-chatgpt-users-200045108.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:00:45+00:00
+
+<p>When OpenAI announced <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/ai/chatgpts-deep-research-tool-can-create-reports-from-hundreds-of-online-sources-022223298.html">Deep Research</a> at start of February, the company promised to bring the tool to Plus users &quot;in about a month,&quot; and now it&#39;s doing exactly that. Starting today, the feature, which you can use to prompt ChatGPT to create in-depth reports on nearly any subject, is <a data-i13n="cpos:2;pos:1" href="https://x.com/OpenAI/status/1894454194943529433">rolling out to Plus, Team, Edu and Enterprise users</a>. Previously, you needed a <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/ai/openai-wants-200-a-month-for-its-most-advanced-features-191054506.html">$200 per month Pro plan</a> to try out Deep Research.&nbsp;</p>
+<p>For the time being, Plus users will get 10 Deep Research queries per month included with their plan. For Pro subscribers, OpenAI is increasing the monthly limit to 120, up 
+
+## DOGE workers quit rather than help Musk "dismantle critical public services"
+ - [https://www.engadget.com/cybersecurity/doge-workers-quit-rather-than-help-musk-dismantle-critical-public-services-194237479.html?src=rss](https://www.engadget.com/cybersecurity/doge-workers-quit-rather-than-help-musk-dismantle-critical-public-services-194237479.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:42:37+00:00
+
+<p>Upheavals within the US government continued today as a group of technology experts announced their resignations. These federal employees had originally worked for the United States Digital Service, a tech-focused department created under the Obama administration. About 40 people from the original Digital Service staff were fired by the Elon Musk-led team known as DOGE earlier this year, and the remaining 65 employees were incorporated into his unit. Today, 21 of those people resigned.</p>
+<p>"We will not use our skills as technologists to compromise core government systems, jeopardize Americans’ sensitive data, or dismantle critical public services," the former employees wrote in a resignation letter obtained by the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://apnews.com/article/doge-elon-musk-federal-government-resignations-usds-6b7e9b7022e6d89d69305e9510f2a43c" data-original-link="https://apnews.com/article/doge-elon-m
+
+## Framework teases a low-cost 2-in-1 convertible version of its modular laptop
+ - [https://www.engadget.com/computing/laptops/framework-teases-a-low-cost-2-in-1-convertible-version-of-its-modular-laptop-191231244.html?src=rss](https://www.engadget.com/computing/laptops/framework-teases-a-low-cost-2-in-1-convertible-version-of-its-modular-laptop-191231244.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:12:31+00:00
+
+<p>Framework, the company making an <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/computing/laptops/framework-nips-and-tucks-its-13-inch-laptop-160053383.html">ever-wider range of modular, endlessly repairable machines</a> is showing off its next big project. Today, it previewed the Laptop 12, an affordable 12.2-inch touchscreen convertible built with the same ethos as its bigger siblings. Laptop 12 is targeted as an entry-level machine for young people, students and folks on low incomes. But, rather than the usual compromises inherent in such a machine, it will be just as repairable, modular and crucially upgradeable as the rest of the Framework lineup.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-02/1e4efe90-f388-11ef-bff9-7ff160db9731" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-02/1e4efe90-f388-11ef-bff9-7ff160db9731" style="height:800px;width:1200px;" alt="Promotional image of the new low-cost Framework Laptop 12
+
+
+## Framework builds its own modular desktop
+ - [https://www.engadget.com/computing/framework-builds-its-own-modular-desktop-191211936.html?src=rss](https://www.engadget.com/computing/framework-builds-its-own-modular-desktop-191211936.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:12:11+00:00
+
+<p>Framework is today announcing a raft of new products, the most intriguing of which has to be the Framework Desktop. Like the rest of the company’s wares, it’s a modular desktop PC with a focus on modularity, upgradeability and repairability. Naturally, the first question is why, given PCs are already modular, upgradeable and repairable, but the focus here is on making it accessible for the sorts of folks who might see the words “thermal” and “paste” and need an urgent trip to the ER. It’s not the first time something like this has been mooted: In 2014, <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/2014-01-07-razer-project-christine-hands-on.html">Razer pitched Project Christine</a>, a gaming PC with standalone components clad in cartridges that could be swapped in and out.</p>
+<figure><img src="https://s.yimg.com/os/creatr-uploaded-images/2025-02/6a2f47c0-f388-11ef-b9fd-58b52ff0919d" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2025-02/6a2f47c0-f38
+
+## Framework updates its 13-inch laptop with AMD’s Ryzen 300 AI series chips
+ - [https://www.engadget.com/computing/framework-updates-its-13-inch-laptop-with-amds-ryzen-300-ai-series-chips-191128145.html?src=rss](https://www.engadget.com/computing/framework-updates-its-13-inch-laptop-with-amds-ryzen-300-ai-series-chips-191128145.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:11:28+00:00
+
+<p>It’s a little weird to talk about Framework “launching” a new laptop given it just makes the same machine over and over again. That, of course, is the point, since it’s building a fleet of modular, upgradeable and repairable machines that eliminate unnecessary e-waste. Let’s agree that while <em>launching</em> isn’t the right word, it is how we’ll describe the advent of the <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/framework-brings-updated-intel-and-amd-chips-to-its-modular-laptop-170003842.html">updated AMD edition</a> of the Framework 13, which now comes with the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/amd-unveils-ryzen-ai-300-cpus-for-copilot-laptops-030033575.html">Ryzen AI 300</a> on board.</p>
+<p>Naturally, the big news is the fancier AMD unit welded to the mainboard, which boasts dramatically improved AI performance for <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/microsoft-unveils-copilot-pcs-with-generative-ai-capabilities
+
+## New evidence suggests that Mars used to have an ocean and sandy beaches
+ - [https://www.engadget.com/science/space/new-evidence-suggests-that-mars-used-to-have-an-ocean-and-sandy-beaches-181146248.html?src=rss](https://www.engadget.com/science/space/new-evidence-suggests-that-mars-used-to-have-an-ocean-and-sandy-beaches-181146248.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:11:46+00:00
+
+<p>Researchers just discovered evidence to suggest that Mars was once home to oceans and sandy beaches on the red planet, according to data published by the <a data-i13n="cpos:1;pos:1" href="https://www.pnas.org/doi/full/10.1073/pnas.2422213122"><ins>Proceedings of the National Academy of Sciences</ins></a>. This is a far cry from the arid, freezing and radiation-filled conditions of modern Mars.</p>
+<p>Scientists discovered evidence of buried beaches after they analyzed below-ground imaging data from China’s Zhurong rover. This data from the northern lowlands of Mars is extremely similar to what researchers find when using similar ground-penetrating radar here on Earth, <a data-i13n="cpos:2;pos:1" href="https://www.theguardian.com/science/2025/feb/24/mars-ocean-sandy-beaches-radar-data-suggests"><ins>as indicated by </ins><em><ins>The Guardian</ins></em></a>. They found subsurface material that’s angled and tilted toward a lowland, which likely was an ocean at some point.</p>
+<span 
+
+## Xbox has delayed its Fable reboot until 2026
+ - [https://www.engadget.com/gaming/xbox/xbox-has-delayed-its-fable-reboot-until-2026-173118802.html?src=rss](https://www.engadget.com/gaming/xbox/xbox-has-delayed-its-fable-reboot-until-2026-173118802.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:31:19+00:00
+
+<p>Microsoft is delaying one of the major first-party games it had lined up for 2025. The company said during its big annual Xbox showcase last June that its <em>Fable </em>reboot would <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/xboxs-fable-reboot-will-come-to-xbox-series-xs-and-pc-next-year-181914674.html"><ins>arrive this year</ins></a>. But that’s no longer the case as Xbox has pushed back the fantasy RPG to 2026.</p>
+<p>"We previously announced the date for <em>Fable </em>as 2025. We are actually going to give <em>Fable </em>more time and it's going to ship in 2026 now," Craig Duncan, the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/gaming/craig-duncan-to-succeed-alan-hartman-as-xbox-game-studios-head-170254040.html"><ins>new head of Xbox Game Studios</ins></a>, said on the latest edition of the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://news.xbox.com/en-us/podcast/xbox-game-studios-update
+
+## OnePlus is delaying the Watch 3 launch because of a typo
+ - [https://www.engadget.com/wearables/oneplus-is-delaying-the-watch-3-launch-because-of-a-typo-171009126.html?src=rss](https://www.engadget.com/wearables/oneplus-is-delaying-the-watch-3-launch-because-of-a-typo-171009126.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:10:09+00:00
+
+<p>One thing writers and multinational consumer electronics corporations have in common is we both need a good editor. Or, failing that, at least a good spell-checker. OnePlus somehow missed that step when launching the OnePlus Watch 3, which had its scheduled Tuesday launch abruptly halted because of an embarrassing typo. On the back of the watch, early buyers discovered that their $330 smartwatch was "meda in China." As a result, you'll now have to wait until April to buy the device.</p> 
+<p>At least someone on OnePlus' social team saw an opportunity. "Oops, we've meda mistake!" the company <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://x.com/OnePlus_USA/status/1892989658176352412" data-original-link="https://x.com/OnePlus_USA/status/1892989658176352412">posted</a> on X on Friday. "A typo slipped through and made its way onto your shiny new OnePlus Watch 3." The acknowledgment came three days after a <a data-i13n="elm:contex
+
+## Clicks is finally releasing its keyboard add-on for some Android phones
+ - [https://www.engadget.com/mobile/smartphones/clicks-is-finally-releasing-its-keyboard-add-on-for-some-android-phones-170006160.html?src=rss](https://www.engadget.com/mobile/smartphones/clicks-is-finally-releasing-its-keyboard-add-on-for-some-android-phones-170006160.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:00:06+00:00
+
+<p>First announced at CES 2024, the Clicks physical keyboard add-on for iPhones <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/clicks-hands-on-a-charming-keyboard-for-2024-thats-relying-on-more-than-just-nostalgia-131537619.html"><ins>has proven to be a modest hit</ins></a>. Soon, some Android users will be able to get in on the action. That’s right. The company just announced a redesign specifically for certain Android handsets.</p>
+<p>The overall design doesn’t look too different from the iPhone version. It’s a sleeve that you pop the phone into. Once connected, you can type with physical keys via a free Android companion app. There’s backlit keys, USB-C charging and support for shortcuts. By their very nature, Clicks keyboards also provide more screen real estate, which is always nice.</p>
+<span id="end-legacy-contents"></span><p>The company says these new versions feature “brushed metal side keys, a microfibre interior and precision moulded enclosures that are custom-
+
+## Philips Hue Sync now available on LG smart TVs, eliminating the need for a control box
+ - [https://www.engadget.com/entertainment/philips-hue-sync-now-available-on-lg-smart-tvs-eliminating-the-need-for-a-control-box-162004241.html?src=rss](https://www.engadget.com/entertainment/philips-hue-sync-now-available-on-lg-smart-tvs-eliminating-the-need-for-a-control-box-162004241.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:20:05+00:00
+
+<p>The Philips Hue Sync app is now available for many LG televisions, allowing synchronization between smart lights and TV screens. This eliminates the need for one of those <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/home/smart-home/the-new-philips-hue-sync-box-can-keep-up-with-your-game-consoles-framerates-160025361.html"><ins>dedicated sync boxes</ins></a>, as everything gets handled through the app.</p>
+<p>For the uninitiated, Philips Hue smart lights dynamically adjust color and brightness to match the content playing on-screen. The app, along with an associated Hue lighting system, works with content from set-top boxes, streaming sticks, platforms like Netflix and, of course, gaming consoles. You haven’t really played <em>Balatro</em> <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/gaming/engadgets-balatro-of-the-year-2024-140021833.html"><ins>until you’ve played it</ins></a> <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/gaming/balatro-is-
+
+## UK creatives protest AI copyright law changes with silent album and campaign
+ - [https://www.engadget.com/ai/uk-creatives-protest-ai-copyright-law-changes-with-silent-album-and-campaign-160555065.html?src=rss](https://www.engadget.com/ai/uk-creatives-protest-ai-copyright-law-changes-with-silent-album-and-campaign-160555065.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:05:55+00:00
+
+<p>British creatives are speaking out against the government's proposed changes to copyright law. Take Kate Bush, Annie Lennox and Ben Howard, who join over 1,000 musicians in releasing a protest album called <a data-i13n="cpos:1;pos:1" href="https://www.isthiswhatwewant.com/"><em>Is This What We Want?</em></a>.&nbsp;</p>
+<p>Currently, AI developers must follow the same <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/openai-admits-its-impossible-to-train-generative-ai-without-copyrighted-materials-103311496.html">copyright laws</a> as anyone else, meaning they can't use creative material to train models without permission. However, the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://lordslibrary.parliament.uk/copyright-and-artificial-intelligence-impact-on-creative-industries/" data-original-link="https://lordslibrary.parliament.uk/copyright-and-artificial-intelligence-impact-on-creative-industries/">December 2024 pr
+
+## Paramount+ adds 50 classic MTV Unplugged episodes
+ - [https://www.engadget.com/entertainment/streaming/paramount-adds-50-classic-mtv-unplugged-episodes-155004134.html?src=rss](https://www.engadget.com/entertainment/streaming/paramount-adds-50-classic-mtv-unplugged-episodes-155004134.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:50:04+00:00
+
+<p>If you're a music fan of a certain age, there's a good chance MTV Unplugged has special place in your heart. With the first episode airing in 1989, over the decades the series has produced some of the most memorable live performances in history. Who could forget Nirvana's set, recorded less than a year before Kurt Cobain would tragically take his own life in 1994, or when Alice in Chains played one of its final shows with former lead vocalist Layne Staley. There are too many memorable episodes to count, and now you can watch more than 50 of them, including the two I just mentioned, on Paramount+.</p>
+<div id="9b77c66456d748a78e95892b5ce9cdcd"><iframe src="https://www.youtube.com/embed/z9LiPuVRyU8?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen scrolling="no" data-embed-domain="www.youtube.com"></iframe></div>
+<p>As Paramount notes, many of the episodes haven't been available to watch in more than 20 years. From that perspective, the m
+
+## Atari’s side-scrolling Breakout reboot arrives on March 25
+ - [https://www.engadget.com/gaming/ataris-side-scrolling-breakout-reboot-arrives-on-march-25-154136006.html?src=rss](https://www.engadget.com/gaming/ataris-side-scrolling-breakout-reboot-arrives-on-march-25-154136006.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:41:36+00:00
+
+<p>Proving that truly no IP is safe from modern <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/fiio-reboots-the-old-school-portable-cd-player-minus-the-aa-batteries-202334462.html">reboot culture</a>, Atari’s <em>Breakout</em> is back. The upcoming version of the simple 1976 brick-smashing hit rotates the playing field by 90 degrees and adds auto-scrolling, neon effects, power-ups and local co-op. In other words, <em>Breakout Beyond</em> is the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/2018-11-21-tetris-effect-ps4-synesthesia-psvr.html"><em>Tetris Effect </em>formula</a> applied to the Led Zeppelin-era arcade classic.</p>
+<p>The <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/2013-05-14-google-commemorates-ataris-breakout-in-interactive-fashion.html">original <em>Breakout</em></a> was a product of dramatically more limited 1970s hardware, but its simplicity was part of its magic. Rows of bricks sat up top, a player-controlled paddle lived down 
+
+## Bloober Team is making another game with Konami following Silent Hill 2's success
+ - [https://www.engadget.com/gaming/bloober-team-is-making-another-game-with-konami-following-silent-hill-2s-success-152602170.html?src=rss](https://www.engadget.com/gaming/bloober-team-is-making-another-game-with-konami-following-silent-hill-2s-success-152602170.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:26:03+00:00
+
+<p>Last year’s <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/silent-hill-2-remake-hits-ps5-and-pc-on-october-8-230731258.html"><em><ins>Silent Hill 2</ins></em><ins> remake</ins></a> worked out pretty well for Konami and the studio that took on the project, Bloober Team. The two sides have decided to continue their partnership, as Bloober is making a new title based on Konami's intellectual property. Since the studio develops horror games, it's likely that this will be a fresh entry in the Silent Hill series. There is a possibility that it could be a Castlevania game instead. But I'm hoping the companies decide to get really weird and make a spooky Bomberman or something.</p>
+<p>"The trust built upon the success of <em>Silent Hill 2 </em>laid the foundation for signing another agreement for a new project," <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://blooberteam.prowly.com/383560-bloober-team-and-konami-continue
+
+## Indonesia might lift its iPhone ban for $1 billion
+ - [https://www.engadget.com/big-tech/indonesia-might-lift-its-iphone-ban-for-1-billion-150050471.html?src=rss](https://www.engadget.com/big-tech/indonesia-might-lift-its-iphone-ban-for-1-billion-150050471.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:00:50+00:00
+
+<p>The iPhone 16 might just finally be coming to Indonesia. The island nation has reached an agreement with Apple to lift the country's ban on iPhone 16 sales, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.bloomberg.com/news/articles/2025-02-25/indonesia-and-apple-said-to-agree-on-terms-to-lift-iphone-16-ban" data-original-link="https://www.bloomberg.com/news/articles/2025-02-25/indonesia-and-apple-said-to-agree-on-terms-to-lift-iphone-16-ban"><em>Bloomberg</em> reports</a>, citing familiar sources. Apple must invest $1 billion in Indonesia and train locals in the company's research and development to create their own products.</p>
+<p>Indonesia <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/mobile/smartphones/the-iphone-16-is-banned-from-sale-in-indonesia-after-apple-fails-to-invest-enough-locally-133907141.html">banned the iPhone 16 in October</a>, following Apple's failure to meet its 1.71 trillion rupiah ($
+
+## US employee screening firm DISA hit with data breach affecting over 3.3 million people
+ - [https://www.engadget.com/cybersecurity/us-employee-screening-firm-disa-hit-with-data-breach-affecting-over-33-million-people-145658681.html?src=rss](https://www.engadget.com/cybersecurity/us-employee-screening-firm-disa-hit-with-data-breach-affecting-over-33-million-people-145658681.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:57:01+00:00
+
+<p>US-based employee screening services provider DISA Global Solutions said it was breached by hackers, putting the personally identifiable information of 3.3 million people at risk.</p>
+<p>While DISA informed Maine’s attorney general of the data breach <a data-i13n="cpos:1;pos:1" href="https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b823b27d-5fe2-4f09-8753-b362741d7f95.html"><ins>yesterday</ins></a> (thanks, <a data-i13n="cpos:2;pos:1" href="https://techcrunch.com/2025/02/25/us-employee-screening-giant-disa-says-hackers-accessed-data-of-more-than-3m-people/"><em><ins>TechCrunch</ins></em></a>) and <a data-i13n="cpos:3;pos:1" href="https://www.mass.gov/doc/data-breach-report-2025/download"><ins>reported the hack</ins></a> to Massachusetts’s Office of Consumer Affairs and Business Regulation earlier on February 22, the attack began over a year ago, on February 9, 2024. The unidentified hacker accessed DISA’s network for two months before the company noti
+
+## DoorDash to settle New York lawsuit over misleading tipping practices by paying $17 million
+ - [https://www.engadget.com/apps/doordash-to-settle-new-york-lawsuit-over-misleading-tipping-practices-by-paying-17-million-143018965.html?src=rss](https://www.engadget.com/apps/doordash-to-settle-new-york-lawsuit-over-misleading-tipping-practices-by-paying-17-million-143018965.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:30:18+00:00
+
+<p>DoorDash has reached an agreement with the New York Attorney General over an old practice wherein the company used customers&#39; tips to subsidize its drivers&#39; pay. As the office of New York AG Letitia James <a data-i13n="cpos:1;pos:1" href="https://ag.ny.gov/press-release/2025/attorney-general-james-secures-1675-million-doordash-cheating-delivery-workers">explained</a>, its investigation had revealed that DoorDash wasn&#39;t giving its drivers the tips customers sent them through the app from May 2017 through September 2019. Now, the company will pay $16.75 million in restitution that will be divided between 63,000 drivers. The Attorney General told <a data-i13n="cpos:2;pos:1" href="https://www.nytimes.com/2025/02/24/nyregion/new-york-doordash-tip-settlement.html"><em>The New York Times</em></a> that a lot of drivers will receive payments in the low thousands, but some will get as much as $14,000.&nbsp;</p>
+<p>Within the two-year period mentioned above, the service promised 
+
+## Microsoft is testing a 'free with ads' version of Office
+ - [https://www.engadget.com/big-tech/microsoft-is-testing-a-free-with-ads-version-of-office-140030345.html?src=rss](https://www.engadget.com/big-tech/microsoft-is-testing-a-free-with-ads-version-of-office-140030345.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:25:20+00:00
+
+<p>A free version of <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/microsoft-to-unbundle-teams-in-europe-in-bid-to-avoid-eu-antitrust-fine-090825495.html">Microsoft Office</a> for <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/computing/laptops/best-affordable-windows-laptops-123000512.html">Windows</a> might be on its way. Microsoft has been silently testing an ad-supported version of Office <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://beebom.com/microsoft-free-ad-supported-office-quietly-launched/" data-original-link="https://beebom.com/microsoft-free-ad-supported-office-quietly-launched/">reported <em>Beebom</em></a>. Free versions are currently only available on the web.&nbsp;</p>
+<p>The update would allow users to access PowerPoint, Word, Excel and more for free. There appears to be a few conditions for the fee-free option. It appears to include an ever-present banner on the righthand side and 1
+
+## Panasonic takes on Canon with the full-frame, 45-megapixel S1R II mirrorless camera
+ - [https://www.engadget.com/cameras/panasonic-takes-on-canon-with-the-full-frame-45-megapixel-s1r-ii-mirrorless-camera-140048286.html?src=rss](https://www.engadget.com/cameras/panasonic-takes-on-canon-with-the-full-frame-45-megapixel-s1r-ii-mirrorless-camera-140048286.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:00:48+00:00
+
+<p>Panasonic’s mirrorless cameras are best known for their video powers, but with its latest model, the company is finally getting serious about photography as well. The $3,300 full-frame <a data-i13n="cpos:1;pos:1" href="https://www.na.panasonic.com/us">Lumix S1R II</a> is not only the company’s first camera capable of 8K video but can fire off 40 fps bursts of high-resolution (45 megapixel) RAW photos. It also offers a more advanced autofocus system, putting it squarely into the conversation with Sony, Canon and Nikon.</p> 
+<p>I’ve had a pre-production unit for several days now and so far, I’m impressed. The original S1R was a chunky 2.24 pound monster, but the S1R II is much lighter at 1.75 pounds and considerably smaller in size. That makes it less burdensome than before — though still a bit bigger than the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/nikons-z8-is-a-phenomenal-mirrorless-camera-for-the-price-180209073.html">Nikon Z8</a> and <a data-i13n="cpos:3;pos:
+
+## A new Adobe Photoshop app is coming to iPhones
+ - [https://www.engadget.com/apps/a-new-adobe-photoshop-app-is-coming-to-iphones-140003461.html?src=rss](https://www.engadget.com/apps/a-new-adobe-photoshop-app-is-coming-to-iphones-140003461.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:00:03+00:00
+
+<p>Adobe has launched a brand new Photoshop app for iPhones, which it&#39;s also releasing for Android later this year. While there&#39;s already a <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/2013-05-17-photoshop-express-brings-its-quick-photo-fixes-to-windows-8.html">Photoshop Express</a> for mobile, the company says the new app was &quot;designed from the ground up&quot; with more features and has an easy-to-use mobile interface. The app, which is free to download and use, comes with Photoshop&#39;s core imaging and design tools. Users can make selections, layers and masks in the app to combine or blend images. They can also replace parts of an image with the Tap Select tool, remove elements from a photo with the Spot Healing Brush and add new elements by using its generative AI tools, such as Generative Fill and Generative Expand.&nbsp;</p>
+<p>Users will have access to free Adobe Stock assets and can link their apps with other Adobe applications, including Express, 
+
+## Apple Music deal: Get six months of access for only $3
+ - [https://www.engadget.com/deals/apple-music-deal-get-six-months-of-access-for-only-3-130027527.html?src=rss](https://www.engadget.com/deals/apple-music-deal-get-six-months-of-access-for-only-3-130027527.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T13:12:16+00:00
+
+<p>If you’re currently in the market for a music streaming subscription, have we got a deal for you. Pick up <a data-i13n="elm:affiliate_link;sellerN:iTunes;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=9b2a3988-c5c9-4640-8e2b-1de7b2717343&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=c2987cbb-71c0-4627-9183-ff6ee73d5d4c&amp;featureId=text-link&amp;merchantName=iTunes&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL211c2ljLmFwcGxlLmNvbS9saXN0ZW4tbm93P2l0c2NnPTMwMjAwJmxzPTEmaXRzY3Q9c2tpbWxpbmtzX211c2ljJmF0PTEwMDFsM2JvOSZwPXN1YnNjcmliZS1pbmRpdmlkdWFsIiwiY29udGVudFV1aWQiOiJjMjk4N2NiYi03MWMwLTQ2MjctOTE4My1mZjZlZTczZDVkNGMiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vbXVzaWMuYXBwbGUuY29tL2xpc3Rlbi1ub3c_aXRzY2c9MzAyMDAmbHM9MSZpdHNjdD1za2ltbGlua3NfbXVzaWMmYXQ9MTAwMWwzYm85JnA9c3Vic2NyaWJlLWluZGl2aWR1YWwifQ&amp;signature=AQAAAVPSgAm7zOoSZBBGJjtXfQph_6Jn5ZxmWHiF-zJ0ImsW&amp;gcReferrer=https%3A%2F%2Fmusic.apple.com%2Flisten-now
+
+## The best security cameras for 2025
+ - [https://www.engadget.com/home/smart-home/best-security-camera-130035012.html?src=rss](https://www.engadget.com/home/smart-home/best-security-camera-130035012.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T13:00:35+00:00
+
+<p>Security cameras can give you peace of mind by watching things when you’re out of the house. They can also help keep tabs on your pets’ actions or let you check in on other parts of your property like your backyard. Set them up outdoors or at a window and you can get notifications when someone’s delivering a package or heading to your door.<br><br>Of course, anything that takes footage in and around your home is a privacy risk, so you’ll want to look for security cameras with proper privacy features. And if you’ve already got some smart devices, it’s important to know whether your new camera will work with them. Some cameras are practically useless without a subscription, while with others, the subscription is just nice to have. There’s a lot to consider — so we tried out over a dozen well-regarded models, filming our cats, dogs and other household members for weeks to help you pick the best security camera for your home.</p> 
+<h2 id="jump-link-what-to-look-for-in-a-security-camer
+
+## A four-pack of Apple AirTags drops to a new low of $68
+ - [https://www.engadget.com/mobile/a-four-pack-of-apple-airtags-drops-to-a-new-low-of-68-120018339.html?src=rss](https://www.engadget.com/mobile/a-four-pack-of-apple-airtags-drops-to-a-new-low-of-68-120018339.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-25T12:00:18+00:00
+
+<p><a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=f26ea894-42b6-4571-8774-2ce9b1247ca6&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjBENTRKWlRIWS8_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiZjI2ZWE4OTQtNDJiNi00NTcxLTg3NzQtMmNlOWIxMjQ3Y2E2Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvQjBENTRKWlRIWS8iLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAWKD_PNBkga1_QtavW_Fm-y1UYrjJw-C70OE0rb4f0PC&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0D54JZTHY%2F" class="rapid-with-clickid" data-original-link="https://www.amazon.com/gp/product/B0D54JZTHY/">Apple Air
+

@@ -1,0 +1,247 @@
+# Source:/r/Warhammer40k - Unofficial Home of 40k on Reddit, URL:https://www.reddit.com/r/Warhammer40k/.rss, language:en
+
+## Black rage but he's slightly less mad
+ - [https://www.reddit.com/r/Warhammer40k/comments/1iy8klq/black_rage_but_hes_slightly_less_mad](https://www.reddit.com/r/Warhammer40k/comments/1iy8klq/black_rage_but_hes_slightly_less_mad)
+ - RSS feed: $source
+ - date published: 2025-02-25T23:01:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1iy8klq/black_rage_but_hes_slightly_less_mad/"> <img src="https://b.thumbs.redditmedia.com/2235xm4l7ThQFBf1qIuVc0gUv4M4FfVFxRfn23IstYA.jpg" alt="Black rage but he's slightly less mad" title="Black rage but he's slightly less mad" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mino-_-Taur"> /u/Mino-_-Taur </a> <br/> <span><a href="https://www.reddit.com/gallery/1iy8klq">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1iy8klq/black_rage_but_hes_slightly_less_mad/">[comments]</a></span> </td></tr></table>
+
+## I have a confession: I have never drunk paint water, or dipped my brush in tea.
+ - [https://www.reddit.com/r/Warhammer40k/comments/1iy72b6/i_have_a_confession_i_have_never_drunk_paint](https://www.reddit.com/r/Warhammer40k/comments/1iy72b6/i_have_a_confession_i_have_never_drunk_paint)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:56:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know it&#39;s a widely regarded joke, though maybe it&#39;s also one woth a big hint of truth. I&#39;m just curious - who else hasn&#39;t done it (yet)?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DeadlyCreamCorn"> /u/DeadlyCreamCorn </a> <br/> <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1iy72b6/i_have_a_confession_i_have_never_drunk_paint/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1iy72b6/i_have_a_confession_i_have_never_drunk_paint/">[comments]</a></span>
+
+## Raven Guard Phobos Captain
+ - [https://www.reddit.com/r/Warhammer40k/comments/1iy4okd/raven_guard_phobos_captain](https://www.reddit.com/r/Warhammer40k/comments/1iy4okd/raven_guard_phobos_captain)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:18:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1iy4okd/raven_guard_phobos_captain/"> <img src="https://preview.redd.it/hf22m1uqfcle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=86d81d614106afbe49d5ae2a86d8451200755775" alt="Raven Guard Phobos Captain" title="Raven Guard Phobos Captain" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Superb-Fruit406"> /u/Superb-Fruit406 </a> <br/> <span><a href="https://i.redd.it/hf22m1uqfcle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1iy4okd/raven_guard_phobos_captain/">[comments]</a></span> </td></tr></table>
+
+## Biggest wrench in all Gorkamorka
+ - [https://www.reddit.com/r/Warhammer40k/comments/1iy4hw7/biggest_wrench_in_all_gorkamorka](https://www.reddit.com/r/Warhammer40k/comments/1iy4hw7/biggest_wrench_in_all_gorkamorka)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:10:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1iy4hw7/biggest_wrench_in_all_gorkamorka/"> <img src="https://b.thumbs.redditmedia.com/ZS0m05S3zb7KFQZUt3Ohe2HADKordYdtk8MJcM4ffgg.jpg" alt="Biggest wrench in all Gorkamorka" title="Biggest wrench in all Gorkamorka" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ananimuzzz"> /u/Ananimuzzz </a> <br/> <span><a href="https://www.reddit.com/gallery/1iy4hw7">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1iy4hw7/biggest_wrench_in_all_gorkamorka/">[comments]</a></span> </td></tr></table>
+
+## Random Tzeencht stuff
+ - [https://www.reddit.com/r/Warhammer40k/comments/1iy36g0/random_tzeencht_stuff](https://www.reddit.com/r/Warhammer40k/comments/1iy36g0/random_tzeencht_stuff)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:16:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1iy36g0/random_tzeencht_stuff/"> <img src="https://preview.redd.it/aep3rf3p4cle1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b3258a202b71cca2e994cef175f0f9533e4baf6" alt="Random Tzeencht stuff" title="Random Tzeencht stuff" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This time with polished details</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Maybug_Chris"> /u/Maybug_Chris </a> <br/> <span><a href="https://i.redd.it/aep3rf3p4cle1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1iy36g0/random_tzeencht_stuff/">[comments]</a></span> </td></tr></table>
+
+## Is this Judicar proxy legal?
+ - [https://www.reddit.com/r/Warhammer40k/comments/1iy26ns/is_this_judicar_proxy_legal](https://www.reddit.com/r/Warhammer40k/comments/1iy26ns/is_this_judicar_proxy_legal)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:35:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1iy26ns/is_this_judicar_proxy_legal/"> <img src="https://preview.redd.it/au1m3yuixble1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=64951ec9981f54560e4d5bb3141a2a71a2ccad14" alt="Is this Judicar proxy legal?" title="Is this Judicar proxy legal?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Recently picked up the Black Templar’s Combat patrol to spruce up my Knightly themed DA homebrew and was wondering if I could convert the ‘Sword Brother’ into a judicar if I gave him the relic blade?</p> <p>Also not overly keen on the Judicar model and I have this guy twiddling his thumbs right now so would be a great way to use him up :)</p> <p>Still quite new to the hobby/ tabletop side of things so I wanted to check if this was legal</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PvtWooley"> /u/PvtWooley </a> <br/> <span><a href="https://i.redd.it/au1m3yuixble1.jpeg">[link
+
+## My take on the Lion
+ - [https://www.reddit.com/r/Warhammer40k/comments/1iy26ew/my_take_on_the_lion](https://www.reddit.com/r/Warhammer40k/comments/1iy26ew/my_take_on_the_lion)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:35:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1iy26ew/my_take_on_the_lion/"> <img src="https://b.thumbs.redditmedia.com/0yAbemWbEmzh-eWiM2LOiKkuVibV5UcUjlIo45hlYno.jpg" alt="My take on the Lion" title="My take on the Lion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sporebuster"> /u/Sporebuster </a> <br/> <span><a href="https://www.reddit.com/gallery/1iy26ew">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1iy26ew/my_take_on_the_lion/">[comments]</a></span> </td></tr></table>
+
+## Word Bearers Daemon Prince Kitbash
+ - [https://www.reddit.com/r/Warhammer40k/comments/1iy1nxf/word_bearers_daemon_prince_kitbash](https://www.reddit.com/r/Warhammer40k/comments/1iy1nxf/word_bearers_daemon_prince_kitbash)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:14:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1iy1nxf/word_bearers_daemon_prince_kitbash/"> <img src="https://b.thumbs.redditmedia.com/Fo64-F4_MyceXHHSkhO_P7rr01-MIXS0M0XycCLBoQk.jpg" alt="Word Bearers Daemon Prince Kitbash" title="Word Bearers Daemon Prince Kitbash" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rotoyo1003"> /u/Rotoyo1003 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iy1nxf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1iy1nxf/word_bearers_daemon_prince_kitbash/">[comments]</a></span> </td></tr></table>
+
+## Some renegades
+ - [https://www.reddit.com/r/Warhammer40k/comments/1iy1j55/some_renegades](https://www.reddit.com/r/Warhammer40k/comments/1iy1j55/some_renegades)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:09:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1iy1j55/some_renegades/"> <img src="https://b.thumbs.redditmedia.com/2U4k7D7NwvGGZCA1P3VpPAM1Q6vew_iL2qm9_gbK1MM.jpg" alt="Some renegades" title="Some renegades" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zeldar_cz"> /u/zeldar_cz </a> <br/> <span><a href="https://www.reddit.com/gallery/1iy1j55">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1iy1j55/some_renegades/">[comments]</a></span> </td></tr></table>
+
+## What are these bits?
+ - [https://www.reddit.com/r/Warhammer40k/comments/1iy0nry/what_are_these_bits](https://www.reddit.com/r/Warhammer40k/comments/1iy0nry/what_are_these_bits)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:34:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1iy0nry/what_are_these_bits/"> <img src="https://preview.redd.it/fn5rj9pjmble1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=89435b413961ab5c7701494c7f31baac0252507c" alt="What are these bits?" title="What are these bits?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I was going through my pile of shame and these bits were at the bottom of the boxes and I couldn’t place where they came from. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Catastar2051"> /u/Catastar2051 </a> <br/> <span><a href="https://i.redd.it/fn5rj9pjmble1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1iy0nry/what_are_these_bits/">[comments]</a></span> </td></tr></table>
+
+## My Crashed Rhino Scenic From Primer To Now (Scroll For Progress)
+ - [https://www.reddit.com/r/Warhammer40k/comments/1iy0fec/my_crashed_rhino_scenic_from_primer_to_now_scroll](https://www.reddit.com/r/Warhammer40k/comments/1iy0fec/my_crashed_rhino_scenic_from_primer_to_now_scroll)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:24:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1iy0fec/my_crashed_rhino_scenic_from_primer_to_now_scroll/"> <img src="https://b.thumbs.redditmedia.com/fqQNbfnkdylMo7p2-gqA2cNGXlVQWT4rRNl1FBu8KdE.jpg" alt="My Crashed Rhino Scenic From Primer To Now (Scroll For Progress)" title="My Crashed Rhino Scenic From Primer To Now (Scroll For Progress)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I picked up the old Imperial Rhino scenic at a Warhammer SwapMeet last Saturday. I have been a man obsessed… scroll through… Current shots at the end. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CoreReaper"> /u/CoreReaper </a> <br/> <span><a href="https://www.reddit.com/gallery/1iy0fec">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1iy0fec/my_crashed_rhino_scenic_from_primer_to_now_scroll/">[comments]</a></span> </td></tr></table>
+
+## Dreadnought finished!
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixzlp7/dreadnought_finished](https://www.reddit.com/r/Warhammer40k/comments/1ixzlp7/dreadnought_finished)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:51:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixzlp7/dreadnought_finished/"> <img src="https://b.thumbs.redditmedia.com/jEcc2RUToUl65HRb1fUZ0RSDD3BjTwHnwhe6IZAdv3g.jpg" alt="Dreadnought finished!" title="Dreadnought finished!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Finished this beast off last night after working on it for 3 months, I dont care if it&#39;s not March yet he is marching anyway! </p> <p>Hope you like it, what do u think to it? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/benpaintswarhammer"> /u/benpaintswarhammer </a> <br/> <span><a href="https://www.reddit.com/gallery/1ixzlp7">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixzlp7/dreadnought_finished/">[comments]</a></span> </td></tr></table>
+
+## I heard you guys like dreadnoughts, so I thought I'd share mine with you ;-)
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixzbzm/i_heard_you_guys_like_dreadnoughts_so_i_thought](https://www.reddit.com/r/Warhammer40k/comments/1ixzbzm/i_heard_you_guys_like_dreadnoughts_so_i_thought)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:40:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixzbzm/i_heard_you_guys_like_dreadnoughts_so_i_thought/"> <img src="https://preview.redd.it/j6w7eypqcble1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=058740737ebe400f313a532415b76db699972c82" alt="I heard you guys like dreadnoughts, so I thought I'd share mine with you ;-)" title="I heard you guys like dreadnoughts, so I thought I'd share mine with you ;-)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Confident-Wrap6408"> /u/Confident-Wrap6408 </a> <br/> <span><a href="https://i.redd.it/j6w7eypqcble1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixzbzm/i_heard_you_guys_like_dreadnoughts_so_i_thought/">[comments]</a></span> </td></tr></table>
+
+## GW says you aren't part of the crew anymore, but I disagree.
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixz6mk/gw_says_you_arent_part_of_the_crew_anymore_but_i](https://www.reddit.com/r/Warhammer40k/comments/1ixz6mk/gw_says_you_arent_part_of_the_crew_anymore_but_i)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:34:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixz6mk/gw_says_you_arent_part_of_the_crew_anymore_but_i/"> <img src="https://b.thumbs.redditmedia.com/_gjRBEwqRdLPu_YeoX_ClfghaQcZ8lPU1nR_HZvoSXY.jpg" alt="GW says you aren't part of the crew anymore, but I disagree." title="GW says you aren't part of the crew anymore, but I disagree." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nick_mkx"> /u/Nick_mkx </a> <br/> <span><a href="https://www.instagram.com/nick.mkx/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixz6mk/gw_says_you_arent_part_of_the_crew_anymore_but_i/">[comments]</a></span> </td></tr></table>
+
+## Chaplain on bike
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixysk5/chaplain_on_bike](https://www.reddit.com/r/Warhammer40k/comments/1ixysk5/chaplain_on_bike)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:18:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixysk5/chaplain_on_bike/"> <img src="https://b.thumbs.redditmedia.com/lMxzrZzoUMA1PCqADWUlFkjrOdAy393UOE1hSCLrgog.jpg" alt="Chaplain on bike" title="Chaplain on bike" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Maxwelltre"> /u/Maxwelltre </a> <br/> <span><a href="https://www.reddit.com/gallery/1ixysk5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixysk5/chaplain_on_bike/">[comments]</a></span> </td></tr></table>
+
+## Just a project I have started and most likely will never finish
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixyrmk/just_a_project_i_have_started_and_most_likely](https://www.reddit.com/r/Warhammer40k/comments/1ixyrmk/just_a_project_i_have_started_and_most_likely)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:16:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixyrmk/just_a_project_i_have_started_and_most_likely/"> <img src="https://b.thumbs.redditmedia.com/YsSpEGzVJjfvMryFFF5KUOlL_gFsr0t9NhC8BBQTvVg.jpg" alt="Just a project I have started and most likely will never finish" title="Just a project I have started and most likely will never finish" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Key_Peanut6457"> /u/Key_Peanut6457 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ixyrmk">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixyrmk/just_a_project_i_have_started_and_most_likely/">[comments]</a></span> </td></tr></table>
+
+## The krieg I've painted so far.
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixyeke/the_krieg_ive_painted_so_far](https://www.reddit.com/r/Warhammer40k/comments/1ixyeke/the_krieg_ive_painted_so_far)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:01:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixyeke/the_krieg_ive_painted_so_far/"> <img src="https://preview.redd.it/6xuv1vp16ble1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d705582c1b35d3328b0560ae553ae48f17edf6b6" alt="The krieg I've painted so far." title="The krieg I've painted so far." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dgr8barbarian"> /u/dgr8barbarian </a> <br/> <span><a href="https://i.redd.it/6xuv1vp16ble1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixyeke/the_krieg_ive_painted_so_far/">[comments]</a></span> </td></tr></table>
+
+## Another one for Clara and Kurt!
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixyb2w/another_one_for_clara_and_kurt](https://www.reddit.com/r/Warhammer40k/comments/1ixyb2w/another_one_for_clara_and_kurt)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:57:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixyb2w/another_one_for_clara_and_kurt/"> <img src="https://preview.redd.it/7n69e48a5ble1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5fc4a6bee02035470fffb3989f9f82ce472500d" alt="Another one for Clara and Kurt!" title="Another one for Clara and Kurt!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dane_celestia"> /u/Dane_celestia </a> <br/> <span><a href="https://i.redd.it/7n69e48a5ble1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixyb2w/another_one_for_clara_and_kurt/">[comments]</a></span> </td></tr></table>
+
+## Tips for painting white?
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixy3h8/tips_for_painting_white](https://www.reddit.com/r/Warhammer40k/comments/1ixy3h8/tips_for_painting_white)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:48:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixy3h8/tips_for_painting_white/"> <img src="https://preview.redd.it/8arrwrdq3ble1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0bd58725f6dafe2cf3134b7dc7bd37d2523f8cc1" alt="Tips for painting white?" title="Tips for painting white?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nerdboy_sam"> /u/nerdboy_sam </a> <br/> <span><a href="https://i.redd.it/8arrwrdq3ble1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixy3h8/tips_for_painting_white/">[comments]</a></span> </td></tr></table>
+
+## Iron Warriors Champion
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixwrys/iron_warriors_champion](https://www.reddit.com/r/Warhammer40k/comments/1ixwrys/iron_warriors_champion)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:52:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixwrys/iron_warriors_champion/"> <img src="https://b.thumbs.redditmedia.com/y58vegvmBOutcjmGfGsEPlzXjxhGY1NG5YpcSNHMR6I.jpg" alt="Iron Warriors Champion" title="Iron Warriors Champion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Constant_Prior_7637"> /u/Constant_Prior_7637 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ixwrys">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixwrys/iron_warriors_champion/">[comments]</a></span> </td></tr></table>
+
+## House Hawkshroud Knight Castigator
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixw277/house_hawkshroud_knight_castigator](https://www.reddit.com/r/Warhammer40k/comments/1ixw277/house_hawkshroud_knight_castigator)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:19:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixw277/house_hawkshroud_knight_castigator/"> <img src="https://b.thumbs.redditmedia.com/1N9HfnYCa0YW0ROjlvVyXdUsZsgXmIq8OpgoWXGvasU.jpg" alt="House Hawkshroud Knight Castigator" title="House Hawkshroud Knight Castigator" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Garant26"> /u/Garant26 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ixw277">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixw277/house_hawkshroud_knight_castigator/">[comments]</a></span> </td></tr></table>
+
+## Lt Titus kitbash.
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixvxnp/lt_titus_kitbash](https://www.reddit.com/r/Warhammer40k/comments/1ixvxnp/lt_titus_kitbash)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:13:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixvxnp/lt_titus_kitbash/"> <img src="https://preview.redd.it/hpj5h81smale1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d4e18d8c01834343b0cda6b6a4c2c2fcb1a8de7f" alt="Lt Titus kitbash." title="Lt Titus kitbash." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>My current progress on Lt Titus. Let me know what you think 🙂</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Waste_Compote_4204"> /u/Waste_Compote_4204 </a> <br/> <span><a href="https://i.redd.it/hpj5h81smale1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixvxnp/lt_titus_kitbash/">[comments]</a></span> </td></tr></table>
+
+## Converted firstborn Azrael, Supreme Grand Master of the Dark Angels
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixuifj/converted_firstborn_azrael_supreme_grand_master](https://www.reddit.com/r/Warhammer40k/comments/1ixuifj/converted_firstborn_azrael_supreme_grand_master)
+ - RSS feed: $source
+ - date published: 2025-02-25T13:05:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixuifj/converted_firstborn_azrael_supreme_grand_master/"> <img src="https://preview.redd.it/n9xxkuejaale1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=968941883a5111f8e8e38d7a263741062b92d970" alt="Converted firstborn Azrael, Supreme Grand Master of the Dark Angels" title="Converted firstborn Azrael, Supreme Grand Master of the Dark Angels" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Veetor"> /u/Veetor </a> <br/> <span><a href="https://i.redd.it/n9xxkuejaale1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixuifj/converted_firstborn_azrael_supreme_grand_master/">[comments]</a></span> </td></tr></table>
+
+## Some dude in purple armour tried to snap my neck but I showed him that I'm not someone to be mess with
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixuhwp/some_dude_in_purple_armour_tried_to_snap_my_neck](https://www.reddit.com/r/Warhammer40k/comments/1ixuhwp/some_dude_in_purple_armour_tried_to_snap_my_neck)
+ - RSS feed: $source
+ - date published: 2025-02-25T13:04:38+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Significant-Stand471"> /u/Significant-Stand471 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ixuhwp">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixuhwp/some_dude_in_purple_armour_tried_to_snap_my_neck/">[comments]</a></span>
+
+## Plague Marine reinforcements painted
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixtscx/plague_marine_reinforcements_painted](https://www.reddit.com/r/Warhammer40k/comments/1ixtscx/plague_marine_reinforcements_painted)
+ - RSS feed: $source
+ - date published: 2025-02-25T12:26:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixtscx/plague_marine_reinforcements_painted/"> <img src="https://preview.redd.it/6pryls2l3ale1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=26c63a25624c2d6bec0924e6edaf38c2279411a1" alt="Plague Marine reinforcements painted" title="Plague Marine reinforcements painted" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/A_Simple_Peach"> /u/A_Simple_Peach </a> <br/> <span><a href="https://i.redd.it/6pryls2l3ale1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixtscx/plague_marine_reinforcements_painted/">[comments]</a></span> </td></tr></table>
+
+## Yellow again
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixt5rp/yellow_again](https://www.reddit.com/r/Warhammer40k/comments/1ixt5rp/yellow_again)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:49:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixt5rp/yellow_again/"> <img src="https://preview.redd.it/2s8z603zw9le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=82087884d9b1ed56504c10742afc691f35b610e8" alt="Yellow again" title="Yellow again" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>How to make it yellow yellow? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tancho1011"> /u/tancho1011 </a> <br/> <span><a href="https://i.redd.it/2s8z603zw9le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixt5rp/yellow_again/">[comments]</a></span> </td></tr></table>
+
+## Luiteant Calcius now finished
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixrzo8/luiteant_calcius_now_finished](https://www.reddit.com/r/Warhammer40k/comments/1ixrzo8/luiteant_calcius_now_finished)
+ - RSS feed: $source
+ - date published: 2025-02-25T10:32:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixrzo8/luiteant_calcius_now_finished/"> <img src="https://b.thumbs.redditmedia.com/JMCyo2a5eXW_J9VV5b2GUz99Zn7ndc70TwrDgiXeP8E.jpg" alt="Luiteant Calcius now finished" title="Luiteant Calcius now finished" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/for_the_greatergood"> /u/for_the_greatergood </a> <br/> <span><a href="https://www.reddit.com/gallery/1ixrzo8">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixrzo8/luiteant_calcius_now_finished/">[comments]</a></span> </td></tr></table>
+
+## my first ever mini!
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixrwj1/my_first_ever_mini](https://www.reddit.com/r/Warhammer40k/comments/1ixrwj1/my_first_ever_mini)
+ - RSS feed: $source
+ - date published: 2025-02-25T10:25:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixrwj1/my_first_ever_mini/"> <img src="https://b.thumbs.redditmedia.com/tJi7v2S50I02X5KjZLL1I1GKPWUkDgdrIHOJ-6MVd_Q.jpg" alt="my first ever mini!" title="my first ever mini!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>i tried ultramarines for the first paint job, does it look good and how can i improve? </p> <p>btw there are no decals because i just can’t put one on without disintegrating it</p> <p>(for now i have a citadel starter set with 13 paints and a simple brush)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/soulofcinder777"> /u/soulofcinder777 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ixrwj1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixrwj1/my_first_ever_mini/">[comments]</a></span> </td></tr></table>
+
+## EC codex table of contents
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixrvv1/ec_codex_table_of_contents](https://www.reddit.com/r/Warhammer40k/comments/1ixrvv1/ec_codex_table_of_contents)
+ - RSS feed: $source
+ - date published: 2025-02-25T10:24:32+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Disastrous_End1198"> /u/Disastrous_End1198 </a> <br/> <span><a href="https://i.redd.it/6n163mevh9le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixrvv1/ec_codex_table_of_contents/">[comments]</a></span>
+
+## I put QR codes under my transport trays and tanks to access datasheets on Wahapedia faster. Next step is RFID
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixrlj9/i_put_qr_codes_under_my_transport_trays_and_tanks](https://www.reddit.com/r/Warhammer40k/comments/1ixrlj9/i_put_qr_codes_under_my_transport_trays_and_tanks)
+ - RSS feed: $source
+ - date published: 2025-02-25T10:05:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixrlj9/i_put_qr_codes_under_my_transport_trays_and_tanks/"> <img src="https://b.thumbs.redditmedia.com/8jxuMuFyDLaKq-hK7T7Z0X73Qv-X5kD9lTzLmBZtOYc.jpg" alt="I put QR codes under my transport trays and tanks to access datasheets on Wahapedia faster. Next step is RFID" title="I put QR codes under my transport trays and tanks to access datasheets on Wahapedia faster. Next step is RFID" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GOmagnetic"> /u/GOmagnetic </a> <br/> <span><a href="https://www.reddit.com/gallery/1ixrlj9">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixrlj9/i_put_qr_codes_under_my_transport_trays_and_tanks/">[comments]</a></span> </td></tr></table>
+
+## Inaccurate Blood Angels
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixqh4u/inaccurate_blood_angels](https://www.reddit.com/r/Warhammer40k/comments/1ixqh4u/inaccurate_blood_angels)
+ - RSS feed: $source
+ - date published: 2025-02-25T08:43:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixqh4u/inaccurate_blood_angels/"> <img src="https://b.thumbs.redditmedia.com/8Bm5wzoz1Rw98gWmbX3I-m1hRMU1C9U1uHhT3uaC-WI.jpg" alt="Inaccurate Blood Angels" title="Inaccurate Blood Angels" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I know the black helmet has lore implications but I think it looks neat. I am not a good painter but if I take my time (10+ hours each model) it comes out looking okay! These are my recent additions, I jump between two sets of models at a time to try and keep the variety up, let me know what you think! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SrawnyMcCrispy"> /u/SrawnyMcCrispy </a> <br/> <span><a href="https://www.reddit.com/gallery/1ixqh4u">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixqh4u/inaccurate_blood_angels/">[comments]</a></span> </td></tr></table>
+
+## An old picture of us playing 40k using custom armies (Empire vs Rebels)
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixpm1s/an_old_picture_of_us_playing_40k_using_custom](https://www.reddit.com/r/Warhammer40k/comments/1ixpm1s/an_old_picture_of_us_playing_40k_using_custom)
+ - RSS feed: $source
+ - date published: 2025-02-25T07:40:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixpm1s/an_old_picture_of_us_playing_40k_using_custom/"> <img src="https://a.thumbs.redditmedia.com/cFyhX_SbqyxqXOR41bst7r7K6X5rm9Uv18cqZDnn2_0.jpg" alt="An old picture of us playing 40k using custom armies (Empire vs Rebels)" title="An old picture of us playing 40k using custom armies (Empire vs Rebels)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I found starwars themed codexes someone else had made for a previous version of the game and used them as a starting point to make my own. I had Empire, Rebels, Republic, Trade Federation, and Mandalorian. At that time I had a huge collection of Starwars minis. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Starbugmechanic"> /u/Starbugmechanic </a> <br/> <span><a href="https://www.reddit.com/gallery/1ixpm1s">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixpm1s/an_old_picture_of_u
+
+## The Warps Changed Me. Changed My Soldiers. It’s, Made Us Perfect
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixn082/the_warps_changed_me_changed_my_soldiers_its_made](https://www.reddit.com/r/Warhammer40k/comments/1ixn082/the_warps_changed_me_changed_my_soldiers_its_made)
+ - RSS feed: $source
+ - date published: 2025-02-25T04:52:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixn082/the_warps_changed_me_changed_my_soldiers_its_made/"> <img src="https://b.thumbs.redditmedia.com/z7dHXq9QfrjSOOhi0Lsu-1Okv8ZW8hK85M3Biv0Hqbw.jpg" alt="The Warps Changed Me. Changed My Soldiers. It’s, Made Us Perfect" title="The Warps Changed Me. Changed My Soldiers. It’s, Made Us Perfect" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>A month ago I posted a picture (first picture) of my snake terminators complaining about the Armies on Parade rule. Well, 29 days later they’re all complete! I hope all of you enjoy them! They aren’t the most pristine paint jobs like many I see on here, but I was going for a heavy weathered look that one might see after being in the Warp for 10,000 years. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BlooddrunkBruce"> /u/BlooddrunkBruce </a> <br/> <span><a href="https://www.reddit.com/gallery/1ixn082">[link]</a></span> &#32; <sp
+
+## I’m really liking how this dreadnaught is turning out!
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixlfag/im_really_liking_how_this_dreadnaught_is_turning](https://www.reddit.com/r/Warhammer40k/comments/1ixlfag/im_really_liking_how_this_dreadnaught_is_turning)
+ - RSS feed: $source
+ - date published: 2025-02-25T03:26:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixlfag/im_really_liking_how_this_dreadnaught_is_turning/"> <img src="https://b.thumbs.redditmedia.com/iSOr8nkh3fZprvklmaJidyGL1c3pgh36Nh5QuE2wZNA.jpg" alt="I’m really liking how this dreadnaught is turning out!" title="I’m really liking how this dreadnaught is turning out!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ahmes1205"> /u/Ahmes1205 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ixlfag">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixlfag/im_really_liking_how_this_dreadnaught_is_turning/">[comments]</a></span> </td></tr></table>
+
+## Grimdark Imperial Fist
+ - [https://www.reddit.com/r/Warhammer40k/comments/1ixib9p/grimdark_imperial_fist](https://www.reddit.com/r/Warhammer40k/comments/1ixib9p/grimdark_imperial_fist)
+ - RSS feed: $source
+ - date published: 2025-02-25T00:54:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer40k/comments/1ixib9p/grimdark_imperial_fist/"> <img src="https://b.thumbs.redditmedia.com/ZYrP8GS4B8GkzT7JZUMGQXccrYc9SKWEpSVfdZ2he1o.jpg" alt="Grimdark Imperial Fist" title="Grimdark Imperial Fist" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Tried my hand at grimdarking up a truescale Astartes and putting him on a space hulk vignette I also made. Hope you like him! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/one_inch_heroes"> /u/one_inch_heroes </a> <br/> <span><a href="https://www.reddit.com/gallery/1ixib9p">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer40k/comments/1ixib9p/grimdark_imperial_fist/">[comments]</a></span> </td></tr></table>
+

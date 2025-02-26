@@ -1,0 +1,212 @@
+# Source:Retro Gaming: Reddit's home of vintage gaming, URL:https://www.reddit.com/r/retrogaming/.rss, language:en
+
+## 🚧 WIP: 16-inch NES XL Controller! RP2040 Powered + Room for a PI System 🎮 I needed to build a working D-PAD for another project "the GiantBoy" so I made a 16inch NES controller.
+ - [https://www.reddit.com/r/retrogaming/comments/1iy6b8h/wip_16inch_nes_xl_controller_rp2040_powered_room](https://www.reddit.com/r/retrogaming/comments/1iy6b8h/wip_16inch_nes_xl_controller_rp2040_powered_room)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:25:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iy6b8h/wip_16inch_nes_xl_controller_rp2040_powered_room/"> <img src="https://a.thumbs.redditmedia.com/wkYie0mJ3Cng4AYmce9CDfGC0OT-s52Qixn5kgIJG70.jpg" alt="🚧 WIP: 16-inch NES XL Controller! RP2040 Powered + Room for a PI System 🎮 I needed to build a working D-PAD for another project &quot;the GiantBoy&quot; so I made a 16inch NES controller." title="🚧 WIP: 16-inch NES XL Controller! RP2040 Powered + Room for a PI System 🎮 I needed to build a working D-PAD for another project &quot;the GiantBoy&quot; so I made a 16inch NES controller." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VGNYdan"> /u/VGNYdan </a> <br/> <span><a href="https://www.reddit.com/gallery/1iy6b8h">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iy6b8h/wip_16inch_nes_xl_controller_rp2040_powered_room/">[comments]</a></span> </td></tr></table>
+
+## If you could only choose 1 rpg for any 3 consoles what would you choose?
+ - [https://www.reddit.com/r/retrogaming/comments/1iy694a/if_you_could_only_choose_1_rpg_for_any_3_consoles](https://www.reddit.com/r/retrogaming/comments/1iy694a/if_you_could_only_choose_1_rpg_for_any_3_consoles)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:23:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>If you could choose only one rpg for any 3 consoles, what would your choices be? </p> <p>3 choices but must be for 3 different consoles. </p> <p>Looking to get in to some RPGs, want to start strong! I’ve played a few of the main ones people recommend like chrono trigger and final fantasy x but in general my experience is lacking. </p> <p>Thanks for any help! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Splooosh6"> /u/Splooosh6 </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1iy694a/if_you_could_only_choose_1_rpg_for_any_3_consoles/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iy694a/if_you_could_only_choose_1_rpg_for_any_3_consoles/">[comments]</a></span>
+
+## If you use a controller (not a handheld or keyboard + mouse), what's your FAVORITE controller for retro gaming?
+ - [https://www.reddit.com/r/retrogaming/comments/1iy5vui/if_you_use_a_controller_not_a_handheld_or](https://www.reddit.com/r/retrogaming/comments/1iy5vui/if_you_use_a_controller_not_a_handheld_or)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:08:06+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/-ThatGingerKid-"> /u/-ThatGingerKid- </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1iy5vui/if_you_use_a_controller_not_a_handheld_or/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iy5vui/if_you_use_a_controller_not_a_handheld_or/">[comments]</a></span>
+
+## Thoughts on which looks better?
+ - [https://www.reddit.com/r/retrogaming/comments/1iy5amq/thoughts_on_which_looks_better](https://www.reddit.com/r/retrogaming/comments/1iy5amq/thoughts_on_which_looks_better)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:43:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iy5amq/thoughts_on_which_looks_better/"> <img src="https://a.thumbs.redditmedia.com/QZRDTQF-Sx69nLek0JLPXfyQRlOOouLPwN8KLIMF4a0.jpg" alt="Thoughts on which looks better?" title="Thoughts on which looks better?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I&#39;m finally at a point where I can start setting up my retro console corner. The # of consoles grew by one recently (damn you, 3DO!) so what I had planned in my head no longer works. </p> <p>My concern is the PS1 &amp; PS2. I&#39;m wondering if it looks best stacked like the 1st &amp; 2nd pics, with the PS2 vertical but have the PS1 overhanging like the 3rd pic, or with the PS2 sharing a cubby with the GameCube like the 4th pic. </p> <p>I like having the top row be Nintendo, and the bottom row be Sega &amp; OG Xbox. I was going to have the top two places reserved for PlayStation, but then the 3DO wouldn&#39;t have a home. Thoughts? </p> </div><!-- SC
+
+## Problems with Sega and PS1 on Kinhank 12tb 5 in 1
+ - [https://www.reddit.com/r/retrogaming/comments/1iy58cy/problems_with_sega_and_ps1_on_kinhank_12tb_5_in_1](https://www.reddit.com/r/retrogaming/comments/1iy58cy/problems_with_sega_and_ps1_on_kinhank_12tb_5_in_1)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:41:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, i have the Kin Hank 12tb 5 in 1. I am playing games on Genesis in Retro Bat and my Characters that I am using disappears. I even tried uploading my own rom of the same game and it still did it. I also tried playing mega trive as well with the same games same issued. I tried a different front end like launch box no difference and even worst. Is there a setting that I need to change? The games it has done it on so far is Aladdin and Contra Hard Corps and Earthworm Jim. Also PS2 takes forever to load and it it won&#39;t let me press any buttons. It is running on a pretty powerful gaming PC. (t&#39;s my dad&#39;s old PC before he passed i don&#39;t know all the specs. But it runs steam games no problem) Thank you</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hairy_Stable"> /u/Hairy_Stable </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1iy58cy/problems_with_sega_and_ps1_on_kinhank_12
+
+## Stand up Arcade Question
+ - [https://www.reddit.com/r/retrogaming/comments/1iy4vt5/stand_up_arcade_question](https://www.reddit.com/r/retrogaming/comments/1iy4vt5/stand_up_arcade_question)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:26:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was really big into arcade games (gas stations, dedicated arcade businesses, quarter laundry rooms, etc), you name it, if there was a stand up arcade there I was at least gonna check it out. Sometimes those hole in the wall places that had one or two usually had the one I really liked (Wrestlefest being one) and can’t think of that many off hand, but Golden Axe being another. </p> <p>Question is, do they still have arcades around? I know Dave and Busters exists but those is mainly newer games and more sit down, like physically bigger units. </p> <p>Second question(s): Are there stand up arcade games for like newer games? Like when did they slow down production? I am thinking from like any game that released on console from 2005 to present? Are there any games that have come out in the last 20 years that is exclusive to arcade and not on any other platform? How about games that have come out on platforms like PlayStation, Xbox or PC that have an arc
+
+## The OG cheat code 📺
+ - [https://www.reddit.com/r/retrogaming/comments/1iy3uzj/the_og_cheat_code](https://www.reddit.com/r/retrogaming/comments/1iy3uzj/the_og_cheat_code)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:44:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iy3uzj/the_og_cheat_code/"> <img src="https://preview.redd.it/nlk6nqhr9cle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9d96c6b0781030312efd6833618429f66c80062c" alt="The OG cheat code 📺" title="The OG cheat code 📺" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Unfortunately, I never had the pleasure of having my own. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mrturtlelife"> /u/Mrturtlelife </a> <br/> <span><a href="https://i.redd.it/nlk6nqhr9cle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iy3uzj/the_og_cheat_code/">[comments]</a></span> </td></tr></table>
+
+## Must play graphic adventures / visual novel / point & click games?
+ - [https://www.reddit.com/r/retrogaming/comments/1iy3muy/must_play_graphic_adventures_visual_novel_point](https://www.reddit.com/r/retrogaming/comments/1iy3muy/must_play_graphic_adventures_visual_novel_point)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:35:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, when I was young I never played this type of games, I don&#39;t think I even knew they existed lol. But I&#39;ve always been a biiiiigggg reader. And recently I bought a retro handheld emulator and have been playing old games and after finding about their existence (thanks to playing Ace Attorney hahaha) I found myself quite attracted to this type of games that are heavy on the narrative aspect.</p> <p>So I come to you fellow retro gamers asking for your must play narrative game(?) recommendations :)</p> <p>If it helps I love horror, fantasy and sci fi but I also enjoy detective/mystery games it seems</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LOONAception"> /u/LOONAception </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1iy3muy/must_play_graphic_adventures_visual_novel_point/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iy3muy/must_play_
+
+## You want to play on real hardware but have limited space. Pick 5 pre-2000 consoles and 8 games for each to keep on the shelf.
+ - [https://www.reddit.com/r/retrogaming/comments/1iy2xtw/you_want_to_play_on_real_hardware_but_have](https://www.reddit.com/r/retrogaming/comments/1iy2xtw/you_want_to_play_on_real_hardware_but_have)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:06:18+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Jfonzy"> /u/Jfonzy </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1iy2xtw/you_want_to_play_on_real_hardware_but_have/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iy2xtw/you_want_to_play_on_real_hardware_but_have/">[comments]</a></span>
+
+## Odd difference between arcade and namco museam galaga.
+ - [https://www.reddit.com/r/retrogaming/comments/1iy2s2w/odd_difference_between_arcade_and_namco_museam](https://www.reddit.com/r/retrogaming/comments/1iy2s2w/odd_difference_between_arcade_and_namco_museam)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:59:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ok so i went to the arcade a while back and I played the hell out of galaga so I when I went back home I have the namco museam disc for gamecube so I popped it in started playing and.. that was not the same game I played at the arcade. Like yeah it was galaga but definitely not the same version and I have no clue why it&#39;s like that just thought it was an interesting story and if anybody knows why it&#39;s like that don&#39;t be afraid to share in the comments. I don&#39;t bite... normally.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lightnin1st"> /u/Lightnin1st </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1iy2s2w/odd_difference_between_arcade_and_namco_museam/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iy2s2w/odd_difference_between_arcade_and_namco_museam/">[comments]</a></span>
+
+## Can Anyone Help Me Compile MAME
+ - [https://www.reddit.com/r/retrogaming/comments/1iy1pju/can_anyone_help_me_compile_mame](https://www.reddit.com/r/retrogaming/comments/1iy1pju/can_anyone_help_me_compile_mame)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:16:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Im Wanting to Recompile the MAME Emulators Without the Incomplete Compatible Software Example System16 Has Some Games That Don&#39;t Run at All Is There a Way to Compile MAME Without That Piece of Source Code or Does It All Need to Be There</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-War-9988"> /u/No-War-9988 </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1iy1pju/can_anyone_help_me_compile_mame/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iy1pju/can_anyone_help_me_compile_mame/">[comments]</a></span>
+
+## Do you like the blocky character designs too? [Finaly Fantasy VII]
+ - [https://www.reddit.com/r/retrogaming/comments/1iy1lcs/do_you_like_the_blocky_character_designs_too](https://www.reddit.com/r/retrogaming/comments/1iy1lcs/do_you_like_the_blocky_character_designs_too)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:11:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1iy1lcs/do_you_like_the_blocky_character_designs_too/"> <img src="https://b.thumbs.redditmedia.com/vCCdVSOSJy1Ym7Y_eUv8tr-IYUvB5jXn5J7-zWXLEKE.jpg" alt="Do you like the blocky character designs too? [Finaly Fantasy VII]" title="Do you like the blocky character designs too? [Finaly Fantasy VII]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/operator-60"> /u/operator-60 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iy1lcs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iy1lcs/do_you_like_the_blocky_character_designs_too/">[comments]</a></span> </td></tr></table>
+
+## Sometimes I hear that the SNES was a difficult act to follow in its time because of how the N64 turned out
+ - [https://www.reddit.com/r/retrogaming/comments/1iy0ng8/sometimes_i_hear_that_the_snes_was_a_difficult](https://www.reddit.com/r/retrogaming/comments/1iy0ng8/sometimes_i_hear_that_the_snes_was_a_difficult)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:34:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Basically I was just having a moment of observation to look back at the 90s in video gaming as I tend to hear how the SNES was so marvelous as a system that when it ended, fans of the hardware often say that Nintendo had a hard time making a system that could match up to the console as my point is that I was wondering if that statement was true.</p> <p>I mean, don&#39;t get me wrong in that the N64 had its fair share of solid games, but again I just wanted to observe that era of gaming to look back at it to see how things changed so much in the mid 90s as what surprises me the most is how Sony took the lead so easily as despite the Saturn having a CD drive, its own design flaws made it hard for developers to use, and the N64 being cartridge only also turned off developers, so what I am getting at is that I can kind of see what made the SNES so iconic in its time.</p> <p>I guess my point is that I may know the answer of what made the SNES so unbeatabl
+
+## Soul Blade: A Fighting Game with a Story You Couldn’t Skip
+ - [https://www.reddit.com/r/retrogaming/comments/1iy09yc/soul_blade_a_fighting_game_with_a_story_you](https://www.reddit.com/r/retrogaming/comments/1iy09yc/soul_blade_a_fighting_game_with_a_story_you)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:18:36+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/LoanNo2930"> /u/LoanNo2930 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iy0974">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1iy09yc/soul_blade_a_fighting_game_with_a_story_you/">[comments]</a></span>
+
+## Cable Management Suggestions
+ - [https://www.reddit.com/r/retrogaming/comments/1ixzbab/cable_management_suggestions](https://www.reddit.com/r/retrogaming/comments/1ixzbab/cable_management_suggestions)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:39:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ixzbab/cable_management_suggestions/"> <img src="https://preview.redd.it/ru9cbnnrcble1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=867817b4cf0ab1518b8bcd854a74da26161860a0" alt="Cable Management Suggestions" title="Cable Management Suggestions" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So I recently moved and with a new home comes a new game room.</p> <p>I always thought the shelves on the wall with the systems would be a neat idea, preventing the entertainment center from getting cluttered and instead having switches, upscalers, audio etc on it instead. As well as a 65&#39; tv ofc which will end up providing some overhang</p> <p>But I hadn&#39;t thought of the nightmare of cable management it would be come, any suggestions on how to tame this? The idea is to run all the wires to the entertainment center in the middle and there&#39;s a hidden power strip on the left wall right wall and behind the
+
+## pov: You're playing Ocarina of Time in 1999 but Mom says dinner is ready
+ - [https://www.reddit.com/r/retrogaming/comments/1ixytdf/pov_youre_playing_ocarina_of_time_in_1999_but_mom](https://www.reddit.com/r/retrogaming/comments/1ixytdf/pov_youre_playing_ocarina_of_time_in_1999_but_mom)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:19:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ixytdf/pov_youre_playing_ocarina_of_time_in_1999_but_mom/"> <img src="https://external-preview.redd.it/VU2thpY0tPc2FrIJ3nCbUcpyjrtPIvCLbd17lZIud-8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d9324cb3f7f59585eb09684fadab89986ea94a98" alt="pov: You're playing Ocarina of Time in 1999 but Mom says dinner is ready" title="pov: You're playing Ocarina of Time in 1999 but Mom says dinner is ready" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IronWarriorU"> /u/IronWarriorU </a> <br/> <span><a href="https://www.youtube.com/watch?v=s7YlqblrvbA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixytdf/pov_youre_playing_ocarina_of_time_in_1999_but_mom/">[comments]</a></span> </td></tr></table>
+
+## Did anyone switch from a CRT to a Retrotink 4k? What do you think?
+ - [https://www.reddit.com/r/retrogaming/comments/1ixyfhz/did_anyone_switch_from_a_crt_to_a_retrotink_4k](https://www.reddit.com/r/retrogaming/comments/1ixyfhz/did_anyone_switch_from_a_crt_to_a_retrotink_4k)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:02:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m just curious if anyone switched and was happy with it? (Or people that did and weren&#39;t happy with it)</p> <p>Currently I play on a regular 32in monitor with a retrotink 5x for n64, snes, wii games - and I have a ps2 that automatically upscales through hdmi so I don&#39;t use the retrotink for that.</p> <p>Just curious for in the future (idk 2-3+ years in the future) if a retrotink 4k + oled monitor or something would be worth.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/StrixCelestalis"> /u/StrixCelestalis </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixyfhz/did_anyone_switch_from_a_crt_to_a_retrotink_4k/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixyfhz/did_anyone_switch_from_a_crt_to_a_retrotink_4k/">[comments]</a></span>
+
+## Fav Online Role Play?
+ - [https://www.reddit.com/r/retrogaming/comments/1ixyaf9/fav_online_role_play](https://www.reddit.com/r/retrogaming/comments/1ixyaf9/fav_online_role_play)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:57:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ixyaf9/fav_online_role_play/"> <img src="https://b.thumbs.redditmedia.com/MJFqi7r7q3czFW9cCICWaciOQjHyZpVEn6sKuPQUtHA.jpg" alt="Fav Online Role Play?" title="Fav Online Role Play?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/budbuz"> /u/budbuz </a> <br/> <span><a href="https://www.reddit.com/gallery/1ixyaf9">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixyaf9/fav_online_role_play/">[comments]</a></span> </td></tr></table>
+
+## My favorite character in any game ever…
+ - [https://www.reddit.com/r/retrogaming/comments/1ixx71b/my_favorite_character_in_any_game_ever](https://www.reddit.com/r/retrogaming/comments/1ixx71b/my_favorite_character_in_any_game_ever)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:10:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ixx71b/my_favorite_character_in_any_game_ever/"> <img src="https://preview.redd.it/m7w6l76uwale1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7888d14548727e018e40b5e9d8ef1ff433fb0454" alt="My favorite character in any game ever…" title="My favorite character in any game ever…" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>…might be the giant eyeball in “Symphony of the Night” that never fights you or interacts with anything, he’s just chillin’ out there. “Hey, cool: look what’s happening in <em>this</em> room!”</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Illustrious-Lead-960"> /u/Illustrious-Lead-960 </a> <br/> <span><a href="https://i.redd.it/m7w6l76uwale1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixx71b/my_favorite_character_in_any_game_ever/">[comments]</a></span> </td></tr></table>
+
+## [Battletoads - NES] Did anyone else ever figure out how to ride the ravens in the Wookie Hole (second level)?
+ - [https://www.reddit.com/r/retrogaming/comments/1ixwz7q/battletoads_nes_did_anyone_else_ever_figure_out](https://www.reddit.com/r/retrogaming/comments/1ixwz7q/battletoads_nes_did_anyone_else_ever_figure_out)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:00:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>As the title asks, did anyone else ever figure out how to ride the ravens in the Wookie Hole (second level)?</p> <p>I have never seen a reference to this mechanic in any online guide, comment, thread, <em>etc</em> about this game. Every time I&#39;ve asked, I&#39;m always met with people telling me it&#39;s not possible. It is, as I managed to do it twice. I have no idea exactly what triggered the conditions, but I&#39;ll be as thorough as possible. </p> <p>1st time:<br/> I was playing with my grandpa and we were descending into the Wookie Hole. I had explained to him that he needed to kick the ravens before they cut his string, and he was doing alright. I was mostly covering the left. Suddenly he asked what he should do now and I looked at his character. His toad was now riding on the back of the raven flying across the screen. I freaked out and told him to give me the controller. B3efore he could hand it to me he ran into a plant or something and d
+
+## It's so weird to be newgen in the retro world
+ - [https://www.reddit.com/r/retrogaming/comments/1ixw37w/its_so_weird_to_be_newgen_in_the_retro_world](https://www.reddit.com/r/retrogaming/comments/1ixw37w/its_so_weird_to_be_newgen_in_the_retro_world)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:21:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Being young and loving retro is weird, I can&#39;t share experiences with people in the community, and sometimes I look like a fool, being 18 I feel weird but at the same time fascinated by retrogaming, I hope I&#39;m not the only one.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Glittering-Half-381"> /u/Glittering-Half-381 </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixw37w/its_so_weird_to_be_newgen_in_the_retro_world/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixw37w/its_so_weird_to_be_newgen_in_the_retro_world/">[comments]</a></span>
+
+## What's a random retro game in your backlog to play?
+ - [https://www.reddit.com/r/retrogaming/comments/1ixt82v/whats_a_random_retro_game_in_your_backlog_to_play](https://www.reddit.com/r/retrogaming/comments/1ixt82v/whats_a_random_retro_game_in_your_backlog_to_play)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:53:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ixt82v/whats_a_random_retro_game_in_your_backlog_to_play/"> <img src="https://preview.redd.it/m7i267jpx9le1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5878562e0507ff3cfe69bdd6a47ea459bb549940" alt="What's a random retro game in your backlog to play?" title="What's a random retro game in your backlog to play?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Doesn&#39;t have to be the next one on the list, but what&#39;s an interesting game from your backlog? Been meaning to take a few days off to play thru chrono trigger all the way finally. What&#39;s the game on your backlog/list that you think is interesting or is up next?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/migrainemaker"> /u/migrainemaker </a> <br/> <span><a href="https://i.redd.it/m7i267jpx9le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixt82v/whats_
+
+## What’s the one game from your childhood that turned out to be rare today?
+ - [https://www.reddit.com/r/retrogaming/comments/1ixqsjs/whats_the_one_game_from_your_childhood_that](https://www.reddit.com/r/retrogaming/comments/1ixqsjs/whats_the_one_game_from_your_childhood_that)
+ - RSS feed: $source
+ - date published: 2025-02-25T09:06:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ixqsjs/whats_the_one_game_from_your_childhood_that/"> <img src="https://preview.redd.it/akju14oz39le1.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=057e47cae69922930ab64c86f6fc7819d19774d1" alt="What’s the one game from your childhood that turned out to be rare today?" title="What’s the one game from your childhood that turned out to be rare today?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>My first system was a Sega Saturn back in 96 or 97. My dad got it when I was five or six and I played the heck out of some of the all time classics.: Warcraft 2, Mech Warrior 2, The Horde, Virtua Cop 2, Clockwork Knight 2, Nights into Dreams, Blazing Dragons, Primal Rage, Virtua Fighter 2, College Slam, Fighters Megamix, Fighting Vipers, Street Fighter Alpha 2, Galaxy Quest, Romance of the Three Kingdoms IV… a few others…</p> <p>The one game that I enjoyed the most was The Legend of Oasis 2. This game is expensi
+
+## What do y'all think of the 32X?
+ - [https://www.reddit.com/r/retrogaming/comments/1ixq5ff/what_do_yall_think_of_the_32x](https://www.reddit.com/r/retrogaming/comments/1ixq5ff/what_do_yall_think_of_the_32x)
+ - RSS feed: $source
+ - date published: 2025-02-25T08:19:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been wanting one for a while now, so I wanted to see the opinion of this community for in case I do buy the thing.</p> <p>Anyways, comment away about the 32X!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Able-Marketing-3374"> /u/Able-Marketing-3374 </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixq5ff/what_do_yall_think_of_the_32x/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixq5ff/what_do_yall_think_of_the_32x/">[comments]</a></span>
+
+## It's a nice Monday night to unwind and kill some Nazis.
+ - [https://www.reddit.com/r/retrogaming/comments/1ixnm2d/its_a_nice_monday_night_to_unwind_and_kill_some](https://www.reddit.com/r/retrogaming/comments/1ixnm2d/its_a_nice_monday_night_to_unwind_and_kill_some)
+ - RSS feed: $source
+ - date published: 2025-02-25T05:27:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ixnm2d/its_a_nice_monday_night_to_unwind_and_kill_some/"> <img src="https://b.thumbs.redditmedia.com/Eu2XHYX71xJQkgCQNk8EMTReef4Rg1HhE9dlfAyNSbw.jpg" alt="It's a nice Monday night to unwind and kill some Nazis." title="It's a nice Monday night to unwind and kill some Nazis." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Beyond castle Wolfenstein on Apple //e</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Top-Security-1258"> /u/Top-Security-1258 </a> <br/> <span><a href="https://www.reddit.com/gallery/1ixnm2d">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixnm2d/its_a_nice_monday_night_to_unwind_and_kill_some/">[comments]</a></span> </td></tr></table>
+
+## Thoughts on the namco arrangement games?
+ - [https://www.reddit.com/r/retrogaming/comments/1ixnk2b/thoughts_on_the_namco_arrangement_games](https://www.reddit.com/r/retrogaming/comments/1ixnk2b/thoughts_on_the_namco_arrangement_games)
+ - RSS feed: $source
+ - date published: 2025-02-25T05:24:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Had a random flashback to my childhood and playing these games . Galaga arrangement specifically. Wondering why nobody talks about them ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/United_Tomatillo_860"> /u/United_Tomatillo_860 </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixnk2b/thoughts_on_the_namco_arrangement_games/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixnk2b/thoughts_on_the_namco_arrangement_games/">[comments]</a></span>
+
+## Red Alert
+ - [https://www.reddit.com/r/retrogaming/comments/1ixkxg2/red_alert](https://www.reddit.com/r/retrogaming/comments/1ixkxg2/red_alert)
+ - RSS feed: $source
+ - date published: 2025-02-25T03:01:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I remember sitting in my basement on my brother’s computer as a kid with a cold Mountain Dew and blasting through Red Alert for a few summers. I loved the game, but my brother eventually moved out and I couldn’t play the game anymore. </p> <p>I’ve tried looking for something similar with no luck. I loved the old graphics and just the game play, simple as it may seem. Does anyone have suggestions for me to try out? PC or phone based?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Frequent_Sun1121"> /u/Frequent_Sun1121 </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixkxg2/red_alert/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixkxg2/red_alert/">[comments]</a></span>
+
+## Sega Genesis so cool love my Genesis .
+ - [https://www.reddit.com/r/retrogaming/comments/1ixk3jg/sega_genesis_so_cool_love_my_genesis](https://www.reddit.com/r/retrogaming/comments/1ixk3jg/sega_genesis_so_cool_love_my_genesis)
+ - RSS feed: $source
+ - date published: 2025-02-25T02:20:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ixk3jg/sega_genesis_so_cool_love_my_genesis/"> <img src="https://preview.redd.it/y644mtxk37le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c3c6ccf57373b6b6cd881bb54b19dfa9eebba71" alt="Sega Genesis so cool love my Genesis ." title="Sega Genesis so cool love my Genesis ." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Look at that beautiful system and Streets of Rage was a great game many hours played with friends. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mrturtlelife"> /u/Mrturtlelife </a> <br/> <span><a href="https://i.redd.it/y644mtxk37le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixk3jg/sega_genesis_so_cool_love_my_genesis/">[comments]</a></span> </td></tr></table>
+
+## How does one rip Sega Genesis/Megadrive game ROMs off the cartridge?
+ - [https://www.reddit.com/r/retrogaming/comments/1ixiqgi/how_does_one_rip_sega_genesismegadrive_game_roms](https://www.reddit.com/r/retrogaming/comments/1ixiqgi/how_does_one_rip_sega_genesismegadrive_game_roms)
+ - RSS feed: $source
+ - date published: 2025-02-25T01:14:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m not one to download ROMs. I actually rip my own ROMs and use them. How does one do this with Sega Genesis/Megadrive games? What hardware / software is necessary?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/-ThatGingerKid-"> /u/-ThatGingerKid- </a> <br/> <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixiqgi/how_does_one_rip_sega_genesismegadrive_game_roms/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixiqgi/how_does_one_rip_sega_genesismegadrive_game_roms/">[comments]</a></span>
+
+## Leaflet from the best arcade in London in the 80s and 90s FUN LAND Trocadero
+ - [https://www.reddit.com/r/retrogaming/comments/1ixhbnx/leaflet_from_the_best_arcade_in_london_in_the_80s](https://www.reddit.com/r/retrogaming/comments/1ixhbnx/leaflet_from_the_best_arcade_in_london_in_the_80s)
+ - RSS feed: $source
+ - date published: 2025-02-25T00:08:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/retrogaming/comments/1ixhbnx/leaflet_from_the_best_arcade_in_london_in_the_80s/"> <img src="https://b.thumbs.redditmedia.com/6n_5SQEIc2UK-9TZjWKXuXm3GCMckkFwkG_Y91o3Ods.jpg" alt="Leaflet from the best arcade in London in the 80s and 90s FUN LAND Trocadero" title="Leaflet from the best arcade in London in the 80s and 90s FUN LAND Trocadero" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Leaflet from London 80s and 90s FUN LAND Trocadero Arcade</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WeylandYutaniALIEN"> /u/WeylandYutaniALIEN </a> <br/> <span><a href="https://www.reddit.com/gallery/1ixhbnx">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/retrogaming/comments/1ixhbnx/leaflet_from_the_best_arcade_in_london_in_the_80s/">[comments]</a></span> </td></tr></table>
+

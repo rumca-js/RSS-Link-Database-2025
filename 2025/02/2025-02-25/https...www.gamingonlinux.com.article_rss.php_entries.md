@@ -1,0 +1,58 @@
+# Source:GamingOnLinux Latest Articles, URL:https://www.gamingonlinux.com/article_rss.php, language:en-us
+
+## Simple GOG client for Linux, Minigalaxy v1.3.2 released with improved game installs
+ - [https://www.gamingonlinux.com/2025/02/simple-gog-client-for-linux-minigalaxy-v1-3-2-released-with-improved-game-installs](https://www.gamingonlinux.com/2025/02/simple-gog-client-for-linux-minigalaxy-v1-3-2-released-with-improved-game-installs)
+ - RSS feed: $source
+ - date published: 2025-02-25T12:51:20+00:00
+
+If you prefer to buy your games for Linux on GOG, there's a fresh update to Minigalaxy, the open source simple GOG client.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/614525558id26253gol.jpg" alt />.</p><p>Read the full article on <a href="https://www.gamingonlinux.com/2025/02/simple-gog-client-for-linux-minigalaxy-v1-3-2-released-with-improved-game-installs/">GamingOnLinux</a>.</p>
+
+## Happy three years to the Steam Deck - the Linux gaming machine that changed everything
+ - [https://www.gamingonlinux.com/2025/02/happy-three-years-to-the-steam-deck-the-linux-gaming-machine-that-changed-everything](https://www.gamingonlinux.com/2025/02/happy-three-years-to-the-steam-deck-the-linux-gaming-machine-that-changed-everything)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:29:05+00:00
+
+It's been three years today since Valve released the Steam Deck. Not only has Valve shown how incredible Linux actually can be as a gaming platform, but they really kicked the industry into gear on PC gaming handhelds.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1880687646id26252gol.jpg" alt />.</p><p>Read the full article on <a href="https://www.gamingonlinux.com/2025/02/happy-three-years-to-the-steam-deck-the-linux-gaming-machine-that-changed-everything/">GamingOnLinux</a>.</p>
+
+## Point and click urban thriller Kathy Rain 2: Soothsayer gets a new demo
+ - [https://www.gamingonlinux.com/2025/02/point-and-click-urban-thriller-kathy-rain-2-soothsayer-gets-a-new-demo](https://www.gamingonlinux.com/2025/02/point-and-click-urban-thriller-kathy-rain-2-soothsayer-gets-a-new-demo)
+ - RSS feed: $source
+ - date published: 2025-02-25T10:40:54+00:00
+
+Probably one of the most exciting upcoming point and click adventures is Kathy Rain 2: Soothsayer, and now you can get any early look thanks to a demo release for Steam Next Fest.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/952230262id26251gol.jpg" alt />.</p><p>Read the full article on <a href="https://www.gamingonlinux.com/2025/02/point-and-click-urban-thriller-kathy-rain-2-soothsayer-gets-a-new-demo/">GamingOnLinux</a>.</p>
+
+## SteamDB now lets you filter out Steam games with AI Generation
+ - [https://www.gamingonlinux.com/2025/02/steamdb-now-lets-you-filter-out-steam-games-with-ai-generation](https://www.gamingonlinux.com/2025/02/steamdb-now-lets-you-filter-out-steam-games-with-ai-generation)
+ - RSS feed: $source
+ - date published: 2025-02-25T10:28:30+00:00
+
+If you don't want Steam games that have AI Generation in them, you might want to check out the new filter on SteamDB. Making it a bit easier to get rid of them from your searches.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/883059141id26250gol.jpg" alt />.</p><p>Read the full article on <a href="https://www.gamingonlinux.com/2025/02/steamdb-now-lets-you-filter-out-steam-games-with-ai-generation/">GamingOnLinux</a>.</p>
+
+## Tempopo from the devs of Unpacking and Assault Android Cactus releases in April
+ - [https://www.gamingonlinux.com/2025/02/tempopo-from-the-devs-of-unpacking-and-assault-android-cactus-releases-in-april](https://www.gamingonlinux.com/2025/02/tempopo-from-the-devs-of-unpacking-and-assault-android-cactus-releases-in-april)
+ - RSS feed: $source
+ - date published: 2025-02-25T10:17:56+00:00
+
+The Witch Beam team (Unpacking, Assault Android Cactus) are back with a whimsical, charming adventure in Tempopo. It's just been announced that it will release on April 17th. There's a new trailer and demo up.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1256014991id26249gol.jpg" alt />.</p><p>Read the full article on <a href="https://www.gamingonlinux.com/2025/02/tempopo-from-the-devs-of-unpacking-and-assault-android-cactus-releases-in-april/">GamingOnLinux</a>.</p>
+
+## Team Fortress 2 Classic is coming to Steam thanks to Valve adding TF2 to the Source SDK
+ - [https://www.gamingonlinux.com/2025/02/team-fortress-2-classic-is-coming-to-steam-thanks-to-valve-adding-tf2-to-the-source-sdk](https://www.gamingonlinux.com/2025/02/team-fortress-2-classic-is-coming-to-steam-thanks-to-valve-adding-tf2-to-the-source-sdk)
+ - RSS feed: $source
+ - date published: 2025-02-25T10:05:32+00:00
+
+Team Fortress 2 Classic, a mod that aims to re-imagine the early post-launch era of Team Fortress 2, will be released on Steam.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/264327183id26248gol.jpg" alt />.</p><p>Read the full article on <a href="https://www.gamingonlinux.com/2025/02/team-fortress-2-classic-is-coming-to-steam-thanks-to-valve-adding-tf2-to-the-source-sdk/">GamingOnLinux</a>.</p>
+
+## Seriously clever twin-stick shooter Windowkill adds Steam Deck support
+ - [https://www.gamingonlinux.com/2025/02/seriously-clever-twin-stick-shooter-windowkill-adds-steam-deck-support](https://www.gamingonlinux.com/2025/02/seriously-clever-twin-stick-shooter-windowkill-adds-steam-deck-support)
+ - RSS feed: $source
+ - date published: 2025-02-25T09:54:59+00:00
+
+Windowkill is a twin-stick shooter where the game window itself is constantly closing in on you. A really clever idea, and a game I had a lot of fun with previously and now it has improved Steam Deck support too.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/307986900id26247gol.jpg" alt />.</p><p>Read the full article on <a href="https://www.gamingonlinux.com/2025/02/seriously-clever-twin-stick-shooter-windowkill-adds-steam-deck-support/">GamingOnLinux</a>.</p>
+
+## The Talos Principle: Reawakened launches in April with a demo live
+ - [https://www.gamingonlinux.com/2025/02/the-talos-principle-reawakened-launches-in-april-with-a-demo-live](https://www.gamingonlinux.com/2025/02/the-talos-principle-reawakened-launches-in-april-with-a-demo-live)
+ - RSS feed: $source
+ - date published: 2025-02-25T09:23:07+00:00
+
+One of the best puzzle games ever returns! Croteam and Devolver Digital have announced The Talos Principle: Reawakened is set for launch on April 10, and there's a demo you can try out right now too as part of Steam Next Fest.<p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1223108227id26246gol.jpg" alt />.</p><p>Read the full article on <a href="https://www.gamingonlinux.com/2025/02/the-talos-principle-reawakened-launches-in-april-with-a-demo-live/">GamingOnLinux</a>.</p>
+

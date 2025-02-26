@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-25T17:15:57+00:00",
+        "description": "Vision Transformers (ViTs) are reshaping computer vision by bringing the power of self-attention to image processing. In this tutorial you will learn how to build a Vision Transformer from scratch. By the end of the course, you'll have a deeper understanding of how AI models process visual data.\n\nCourse developed by @tungabayrak9765.\n\n\ud83d\udcbb Code: https://colab.research.google.com/drive/1Q6bfCG5UZ7ypBWft9auptcD4Pz5zQQQb?usp=sharing#scrollTo=1EaWO-aNOk3v\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n(0:00:00) Intro to Vision Transformer\n(0:03:48) CLIP Model\n(0:08:16) SigLIP vs CLIP\n(0:12:09) Image Preprocessing\n(0:15:32) Patch Embeddings\n(0:20:48) Position Embeddings\n(0:23:51) Embeddings Visualization\n(0:26:11) Embeddings Implementation\n(0:32:03) Multi-Head Attention\n(0:46:19) MLP Layers\n(0:49:18) Assembling the Full Vision Transformer\n(0:59:36) Recap\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\n\ud83c\udf89 Thanks to",
+        "id": 2192617,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=4XgDdxpXHEQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4XgDdxpXHEQ/hqdefault.jpg",
+        "title": "Vision Transformer from Scratch",
+        "vote": 0
+    }
+]

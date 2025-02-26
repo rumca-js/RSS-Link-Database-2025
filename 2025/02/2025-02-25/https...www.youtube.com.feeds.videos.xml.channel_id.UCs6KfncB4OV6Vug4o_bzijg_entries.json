@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-25T07:38:50+00:00",
+        "description": "How to make any cloud provider end-to-end-encrypted with Cryptomator, a free and open source E2EE tool. With Cryptomator you can make Dropbox, iCloud, Google Drive, or really any other cloud provider encrypted for maximum privacy & security! This video tutorial demonstrates just how easy it is.\n\nThank you to our sponsor Notesnook! They offer E2EE notes in an open source ecosystem, free to try: https://notesnook.com\n\nCryptomator: https://cryptomator.org/\nUK Pressuring Apple to Remove E2EE: https://youtu.be/NxdYCDQc5Cs\n\n00:00 Attacks on E2EE services\n00:34 Intro to Cryptomator\n01:26 Cryptomator Demo & Setup Part 1\n07:30 Cryptomator Preferences\n10:22 Cryptomator Demo & Setup Part 2\n12:10 Cryptomator Warnings\n\n\ud83d\udd10 Techlore Homepage: https://techlore.tech\n\ud83d\udd75 Go Incognito Course: https://techlore.tech/goincognito\n\ud83d\udcbb Techlore Community: https://discuss.techlore.tech\n\ud83c\udfeb Techlore Coaching: https://techlore.tech/coaching\n\ud83d\udcac Signal Group: https://discuss.techlore.tech/t/signal-usernames-are-here-join",
+        "id": 2190688,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=VBFc4wPBO08",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VBFc4wPBO08/hqdefault.jpg",
+        "title": "Encrypt Your Cloud Data with Cryptomator: Security 101",
+        "vote": 0
+    }
+]

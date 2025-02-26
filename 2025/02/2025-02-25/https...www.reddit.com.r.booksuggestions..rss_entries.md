@@ -1,0 +1,513 @@
+# Source:Book Suggestions, URL:https://www.reddit.com/r/booksuggestions/.rss, language:
+
+## Do you know of any books that are like these…👇
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy9h5y/do_you_know_of_any_books_that_are_like_these](https://www.reddit.com/r/booksuggestions/comments/1iy9h5y/do_you_know_of_any_books_that_are_like_these)
+ - RSS feed: $source
+ - date published: 2025-02-25T23:41:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>I like the lord of the rings and dune but is there any other fictional book series or fantasy like these with lots of lore? Thank you!😄</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nobelo76"> /u/Nobelo76 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy9h5y/do_you_know_of_any_books_that_are_like_these/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy9h5y/do_you_know_of_any_books_that_are_like_these/">[comments]</a></span>
+
+## Audiobooks about cripples
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy9gvy/audiobooks_about_cripples](https://www.reddit.com/r/booksuggestions/comments/1iy9gvy/audiobooks_about_cripples)
+ - RSS feed: $source
+ - date published: 2025-02-25T23:40:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m crippled and recently things have gotten worse. I&#39;ve found myself (for better or worse) empathizing with Sand Dan Glokta from Joe Abercrombie&#39;s &quot;The First Law&quot; series.</p> <p>His poor health gives him a tenacity and understanding that leads him through a whole lot. </p> <p>Are there any audiobooks (I unfortunately can&#39;t look at text for too long right now), you know like that? Where the cripple does well for themselves and things are told from their point of view?</p> <p>Thanks so much!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Throwawaymarque"> /u/Throwawaymarque </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy9gvy/audiobooks_about_cripples/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy9gvy/audiobooks_about_cripples/">[comments]</a></span>
+
+## enjoyable reads suggestions :)
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy8y6b/enjoyable_reads_suggestions](https://www.reddit.com/r/booksuggestions/comments/1iy8y6b/enjoyable_reads_suggestions)
+ - RSS feed: $source
+ - date published: 2025-02-25T23:17:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>i tend to read a lot of academic journals for school/career and would like suggestions for books that may be more enjoyable to read at the end of the day! :) </p> <p>i really adore self-help/non-fiction but i also do enjoy super sweet romance/super sad books too! overall suggestions for books that are hard to put down, ty! ♡</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aspenru"> /u/aspenru </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy8y6b/enjoyable_reads_suggestions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy8y6b/enjoyable_reads_suggestions/">[comments]</a></span>
+
+## Good thrillers please
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy8tqi/good_thrillers_please](https://www.reddit.com/r/booksuggestions/comments/1iy8tqi/good_thrillers_please)
+ - RSS feed: $source
+ - date published: 2025-02-25T23:12:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, anyone has any recommendations of any like actually good thrillers pleaseeee?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/preachersmother"> /u/preachersmother </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy8tqi/good_thrillers_please/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy8tqi/good_thrillers_please/">[comments]</a></span>
+
+## Looking for a steamy book
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy8qt8/looking_for_a_steamy_book](https://www.reddit.com/r/booksuggestions/comments/1iy8qt8/looking_for_a_steamy_book)
+ - RSS feed: $source
+ - date published: 2025-02-25T23:08:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m always reading Stephen kings. Poem books blah blah I want to change to up. Anyone read a sexy book? Like not no pg13 romance books. I want that rated xxxx shit lol 😝 </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/These-Context3490"> /u/These-Context3490 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy8qt8/looking_for_a_steamy_book/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy8qt8/looking_for_a_steamy_book/">[comments]</a></span>
+
+## Romances that are set during World Wars or Military
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy8i6h/romances_that_are_set_during_world_wars_or](https://www.reddit.com/r/booksuggestions/comments/1iy8i6h/romances_that_are_set_during_world_wars_or)
+ - RSS feed: $source
+ - date published: 2025-02-25T22:58:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve recently read “In memoriam” by Alice Winn and “The warm hands of Ghosts” by Katherine Arden and the romance during a time where love almost seems lost really captivated me, that and the sense of forbidden of it all. I’ve been searching for books that give off the same vibe… do you guys have any suggestions?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FrogDaVinci"> /u/FrogDaVinci </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy8i6h/romances_that_are_set_during_world_wars_or/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy8i6h/romances_that_are_set_during_world_wars_or/">[comments]</a></span>
+
+## Desperately need good book recs pleaseeee
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy8134/desperately_need_good_book_recs_pleaseeee](https://www.reddit.com/r/booksuggestions/comments/1iy8134/desperately_need_good_book_recs_pleaseeee)
+ - RSS feed: $source
+ - date published: 2025-02-25T22:37:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>Okay so I’ve been reading some books lately and I find that I DNF quite a few of them (which I NEVER do… Ever…) I’m not sure why but I lose interest and it’s just not… exciting? And it doesn’t keep me on my toes.</p> <p>Pleaseeee I need book recs!! Here’s my style of reading: ~ Dark Romance 💘😆😆 ~ Badass/Defiant FMC ~ Enemies to lovers (like SERIOUS) ~ Possessive MMC ~ Crazy/toxic/concerning/worrying MMC ~ Mafia/Billionaire/CEO romance</p> <p>Here’s some tropes I enjoy: ~ “touch her and u die” ~ fake dating ~ arranged marriage ~ stalker trope 🤐🤐 ~ morally grey MMC ~ forbidden love I think y’all get the vibe</p> <p>Here are some books I LOVED (ik some of them don’t fit the description): - LITERALLY ANY ANA HUANG BOOK ISTG - Cat and mouse duet - Empyrean series - CREATION’S CAPTIVE - The serpent and the wings of night 💘💘 - The ritual - Sinner anonymous series</p> <p>And seriously guys… imma be blunt… but I dnfed those books partly because the 🔥 was shat
+
+## Is there a biography/journal written by someone travelling the Oregon Trail?
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy7q95/is_there_a_biographyjournal_written_by_someone](https://www.reddit.com/r/booksuggestions/comments/1iy7q95/is_there_a_biographyjournal_written_by_someone)
+ - RSS feed: $source
+ - date published: 2025-02-25T22:24:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>I can’t seem to find one anywhere and would be really interested in reading a first hand account of someone who journaled their journey whilst travelling the trail in the 1800’s. I was wondering if anyone knew if such a read exists?</p> <p>Many thanks </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RegisterAfraid"> /u/RegisterAfraid </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy7q95/is_there_a_biographyjournal_written_by_someone/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy7q95/is_there_a_biographyjournal_written_by_someone/">[comments]</a></span>
+
+## Alright, so I'm looking for Books that are straight up smut, I don't care for long complicated plot, I just wanna read some good smut.
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy7mjk/alright_so_im_looking_for_books_that_are_straight](https://www.reddit.com/r/booksuggestions/comments/1iy7mjk/alright_so_im_looking_for_books_that_are_straight)
+ - RSS feed: $source
+ - date published: 2025-02-25T22:20:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Wanna pyt me in horny jail? Do it after I get my books, xd thanks for any suggestions. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/amirthebeast55"> /u/amirthebeast55 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy7mjk/alright_so_im_looking_for_books_that_are_straight/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy7mjk/alright_so_im_looking_for_books_that_are_straight/">[comments]</a></span>
+
+## Used to be an avid reader, wants so to start reading again. Where do I begin?
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy7jxl/used_to_be_an_avid_reader_wants_so_to_start](https://www.reddit.com/r/booksuggestions/comments/1iy7jxl/used_to_be_an_avid_reader_wants_so_to_start)
+ - RSS feed: $source
+ - date published: 2025-02-25T22:17:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>I used to read a lot but stopped because I started using too much of my phone and read books only for school.</p> <p>I like romance, enemies/rivals to lovers or even tragedy(I would love to cry about anything but my own life atp.) I would love it even more if it was romance AND made me cry too.</p> <p>I want the book to be well written and engaging(cause the last romance book I read had a good premise but was TERRIBLY written, I don&#39;t want to go through that again.)</p> <p>The books I liked: the village by the sea, boy in the striped pyjamas(basic books but I loved them, they filled my childhood.)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Curious-Speed-6652"> /u/Curious-Speed-6652 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy7jxl/used_to_be_an_avid_reader_wants_so_to_start/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy7jx
+
+## Book subscriptions
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy77h5/book_subscriptions](https://www.reddit.com/r/booksuggestions/comments/1iy77h5/book_subscriptions)
+ - RSS feed: $source
+ - date published: 2025-02-25T22:02:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>What is your favorite book subscription (book only) box? </p> <p>I currently have LitJoy, the Darkly Bookish Book Box, Owlcrate, Illumicrate, and the Moonlight Box. All of these subs just became available within one month of each other and I haven’t gotten any of the books yet to compare which I like and want to keep. </p> <p>Any help would be awesome :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Scary_Investment4279"> /u/Scary_Investment4279 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy77h5/book_subscriptions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy77h5/book_subscriptions/">[comments]</a></span>
+
+## Best introduction to Marxism?
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy6t3f/best_introduction_to_marxism](https://www.reddit.com/r/booksuggestions/comments/1iy6t3f/best_introduction_to_marxism)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:46:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>I wanted to start reading marx and his philosophy. I&#39;m a graduate in English and recently picked up Etienne Balibar&#39;s &#39;the philosophy of Marx&#39; and was utterly disappointed by it. I need a book which takes time with the context of marx&#39;s works and explains the concepts easily. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Few-Abroad5766"> /u/Few-Abroad5766 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy6t3f/best_introduction_to_marxism/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy6t3f/best_introduction_to_marxism/">[comments]</a></span>
+
+## Queer/sapphic cozy fantasy reads?
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy6pmv/queersapphic_cozy_fantasy_reads](https://www.reddit.com/r/booksuggestions/comments/1iy6pmv/queersapphic_cozy_fantasy_reads)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:42:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ive been reading some thriller books which are great but i need something cute and sweet and cozy after i finish this book (pretty girls by karin slaughter) cause damn its dark </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sure_Appointment_896"> /u/Sure_Appointment_896 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy6pmv/queersapphic_cozy_fantasy_reads/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy6pmv/queersapphic_cozy_fantasy_reads/">[comments]</a></span>
+
+## Just finished my first novel series, and want to start reading more, can you recommend me books considering these parts I liked?
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy6opd/just_finished_my_first_novel_series_and_want_to](https://www.reddit.com/r/booksuggestions/comments/1iy6opd/just_finished_my_first_novel_series_and_want_to)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:41:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>I finished reading ASOIAF novel series and absolutely loved it, here&#39;s what I liked:</p> <ul> <li>character complexity; I love it when there&#39;s no such thing as &quot;good&quot; and &quot;bad&quot;. You the reader get to decide which is best for rooting for, every character has evil within him and you get to see him fighting that evil in him. Similar to AoT (anime) </li> </ul> <p>-The world is insanely good, the dialogues are amazing and funny, I like medieval stories because I like sword fights more than gun fights. (unmatched dialogues were in GOW 2018) (good world building is in elden ring, coincidentally GRRM worked with it) </p> <p>-Veeerry little plot armor, something I EXTREMELY value, I hate it when fiction gives the MC insane plot armor and gets lazy with how they get out of whatever trouble they are, it adds more intensity cuz the character may very well die, but with plot armor you don&#39;t get the same excitement. (similar to red 
+
+## ISO Student Protest/Activism Novel
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy6ggq/iso_student_protestactivism_novel](https://www.reddit.com/r/booksuggestions/comments/1iy6ggq/iso_student_protestactivism_novel)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:31:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Howdy! I&#39;m looking for a piece of fiction about a student activist/protestor, and can only find nonfiction. I&#39;d love a book about a student (ideally college-aged) who gets involved in an activist movement, maybe gets arrested at some point? I&#39;d really appreciate any suggestions, thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hairdye_and_ammonia"> /u/hairdye_and_ammonia </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy6ggq/iso_student_protestactivism_novel/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy6ggq/iso_student_protestactivism_novel/">[comments]</a></span>
+
+## Romance Cottagecore Fanasty books?
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy5vyw/romance_cottagecore_fanasty_books](https://www.reddit.com/r/booksuggestions/comments/1iy5vyw/romance_cottagecore_fanasty_books)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:08:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just finished the cruel prince and I am looking for something similar or just a cottage core Romanticy with fairy and or magic, Kind of like a Dnd Book. I have always been fanasnated by magic and fanasty so I am in a huge book hangover from the cruel prince. And I unfortunately can&#39;t find the next book in audio form. I would love some book recs. They could be Dark romance fanasty or not but I need HELP! ❤️💕🥲</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Excellent-Many945"> /u/Excellent-Many945 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy5vyw/romance_cottagecore_fanasty_books/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy5vyw/romance_cottagecore_fanasty_books/">[comments]</a></span>
+
+## A novel to reflect on the meaning of life
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy5nw1/a_novel_to_reflect_on_the_meaning_of_life](https://www.reddit.com/r/booksuggestions/comments/1iy5nw1/a_novel_to_reflect_on_the_meaning_of_life)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:59:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve been having doubts about my life choices recently, and the career I’m studying to undertake. I need a book to make me reflect on my purpose in this world.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Alternative-Assist18"> /u/Alternative-Assist18 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy5nw1/a_novel_to_reflect_on_the_meaning_of_life/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy5nw1/a_novel_to_reflect_on_the_meaning_of_life/">[comments]</a></span>
+
+## Looking for books like the Horizon games
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy5mvo/looking_for_books_like_the_horizon_games](https://www.reddit.com/r/booksuggestions/comments/1iy5mvo/looking_for_books_like_the_horizon_games)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:57:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just finished playing Zero Dawn and Forbidden West back to back, and I want more. Looking for stories with primitive post-apocalypse humans living alongside the technological remnants of their more advanced ancestors. Thanks in advance for any suggestions! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RobertEmmetsGhost"> /u/RobertEmmetsGhost </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy5mvo/looking_for_books_like_the_horizon_games/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy5mvo/looking_for_books_like_the_horizon_games/">[comments]</a></span>
+
+## English translations of Nakazato?
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy5mtc/english_translations_of_nakazato](https://www.reddit.com/r/booksuggestions/comments/1iy5mtc/english_translations_of_nakazato)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:57:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>The &quot;Sword of Doom&quot;, a Japanese movie released in the mid 60s, waa based on characters from a 41 volume historical novel by Kaizen Nakazato. It takes place in the Edo period of Japan. </p> <p>The movie is about a psychopathic Samurai who uses violence to attain power and respect but the outcome of this violence traps him in an inescapable cycle of more extreme violence and insanity. </p> <p>Do English translations of these books exist in physical format? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tokov"> /u/tokov </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy5mtc/english_translations_of_nakazato/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy5mtc/english_translations_of_nakazato/">[comments]</a></span>
+
+## Any good samurai/three kingdoms fiction?
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy5gym/any_good_samuraithree_kingdoms_fiction](https://www.reddit.com/r/booksuggestions/comments/1iy5gym/any_good_samuraithree_kingdoms_fiction)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:51:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am writing lore and characters for a samurai/shinto themed D&amp;D campaign that I hope to play in the future. I am drawing characters and inspiration from history, mythology, anime/manga, and video-games; it is practically my &quot;playable-interactive fanfiction mega-crossover&quot;.</p> <p>I would like some more inspiration in terms of writing style and chatacterization. Any ideas on historical/fantasy fiction based on samurai, feudal Japan, Three Kingdoms-era China etc.?</p> <p>Novels ONLY please; mostly looking for YA and Adult. (&quot;adult&quot; as in regular fiction.)</p> <p>I&#39;ve already read, and tried to find, a few titles including:</p> <p><em>Shadow of the Fox</em> (Julie Kagawa)</p> <p><em>The Magnolia Sword</em> (Sherry Thomas)</p> <p><em>The Dragon&#39;s Promise</em> (Elizabeth Lim)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Win-4053"> /u/Ok-Win-4053 </a> <br/> <span><a href="https:/
+
+## What are grade 9 and 10 book titles in Germany?
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy5gpd/what_are_grade_9_and_10_book_titles_in_germany](https://www.reddit.com/r/booksuggestions/comments/1iy5gpd/what_are_grade_9_and_10_book_titles_in_germany)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:50:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want some book names to download the PDF and study.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/the_lonely_crow"> /u/the_lonely_crow </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy5gpd/what_are_grade_9_and_10_book_titles_in_germany/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy5gpd/what_are_grade_9_and_10_book_titles_in_germany/">[comments]</a></span>
+
+## New book recommendation?
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy5f8e/new_book_recommendation](https://www.reddit.com/r/booksuggestions/comments/1iy5f8e/new_book_recommendation)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:49:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m in the market for a new novel. I was in Waterstones today and was overwhelmed with the hundreds of books on the shelves. </p> <p>Recent reads (which I’ve loved) include: American Psycho, The Wager, Tomorrow, and Elena Ferrante’s Neapolitan Quartet. </p> <p>I am considering Martyr! but would like a few recs to compare before buying. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ayshe811"> /u/ayshe811 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy5f8e/new_book_recommendation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy5f8e/new_book_recommendation/">[comments]</a></span>
+
+## What's the best literary non-fiction you've ever read?
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy53vg/whats_the_best_literary_nonfiction_youve_ever_read](https://www.reddit.com/r/booksuggestions/comments/1iy53vg/whats_the_best_literary_nonfiction_youve_ever_read)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:35:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just finished reading The Autobiography of Malcolm X (one of the most compelling books I&#39;ve ever read) and am looking to add some more literary non-fiction to my reading list since I enjoyed it so much.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/flyingmattress1"> /u/flyingmattress1 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy53vg/whats_the_best_literary_nonfiction_youve_ever_read/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy53vg/whats_the_best_literary_nonfiction_youve_ever_read/">[comments]</a></span>
+
+## What next?
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy4ivs/what_next](https://www.reddit.com/r/booksuggestions/comments/1iy4ivs/what_next)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:11:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just finished reading: Endurance (Shackleton’s story), the Revenant, The North Water and In the Heart of the Sea.</p> <p>What are some other tales of survival or adventure set back in the 1800-1900s?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Plastic_Sentence_655"> /u/Plastic_Sentence_655 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy4ivs/what_next/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy4ivs/what_next/">[comments]</a></span>
+
+## Books to read while pregnant that aren’t educational
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy4ic0/books_to_read_while_pregnant_that_arent](https://www.reddit.com/r/booksuggestions/comments/1iy4ic0/books_to_read_while_pregnant_that_arent)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:11:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello! I’m currently 16 weeks pregnant and used to love reading, lately I haven’t had the drive or mental capacity. What were some of your favorite books to read while you were pregnant that weren’t informational? I’m looking for mainly fiction but am open to non fiction! Anything goes :) </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thatsityaknow"> /u/thatsityaknow </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy4ic0/books_to_read_while_pregnant_that_arent/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy4ic0/books_to_read_while_pregnant_that_arent/">[comments]</a></span>
+
+## Something mysterious
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy3lqj/something_mysterious](https://www.reddit.com/r/booksuggestions/comments/1iy3lqj/something_mysterious)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:33:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey fellow book enthusiasts! As March is a very grey and boring month where I live, I gave it a theme to make it more bearable: ✨Mystery March✨ So, what are your suggestions for a book with a mysterious plot? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kifrie"> /u/Kifrie </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy3lqj/something_mysterious/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy3lqj/something_mysterious/">[comments]</a></span>
+
+## Is Devdutt Patnaik's book worth reading??
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy3gbd/is_devdutt_patnaiks_book_worth_reading](https://www.reddit.com/r/booksuggestions/comments/1iy3gbd/is_devdutt_patnaiks_book_worth_reading)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:27:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>I found out about him, through a show in Epic channel and after doing some research on him I got to know he has a great knowledge about Hindu mythology. Later on i bought two books of him &quot;7 Secrets of Shiva&quot; and &quot;Olympus&quot; and came to know a lot about Hindu mythology. His works are known for being well-researched and for showing the age-old tales in a new light. But somehow I felt something was really missing and couldn&#39;t get through some concepts so I want more suggestions of good emerging authors that writes about myth and history behind them.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sin_graver"> /u/sin_graver </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy3gbd/is_devdutt_patnaiks_book_worth_reading/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy3gbd/is_devdutt_patnaiks_book_worth_reading/">[comments]<
+
+## Help me find my next read!
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy38ts/help_me_find_my_next_read](https://www.reddit.com/r/booksuggestions/comments/1iy38ts/help_me_find_my_next_read)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:18:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently read “the dead romantics” by Ashley Poston, and I loved it so so so much I am now chasing that high feeling again. I haven’t read any non-academic-encyclopedia books in such a long while that I was dubious when I got gifted this romance book but boy was I wrong!!! Looking for another slow romance, lots of yearning, beautifully written, wholesome, not so explicit and long intimate scenes and with a happy ending. I suppose the dead romantics is sci-fi since there’s ghosts? I’d like some wholesome romance book with notes of fiction that is integrated the real world </p> <p>Thank you!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/janymAr11"> /u/janymAr11 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy38ts/help_me_find_my_next_read/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy38ts/help_me_find_my_next_read/">[comments]</a><
+
+## Are there books like the c-drama 'the first frost'?
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy359y/are_there_books_like_the_cdrama_the_first_frost](https://www.reddit.com/r/booksuggestions/comments/1iy359y/are_there_books_like_the_cdrama_the_first_frost)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:14:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am currently completely obsessed with the c-drama &#39;the first frost&#39; and am looking for books with simular vibes. </p> <p>I am completely obsessed with the strangers to lovers to strangers to lovers lore and am in desperate need for more lovers like san yang and wen yi fan. The slow burn and healing journey is so good too.</p> <p>Any c-drama fan that loves to read - i need your help. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/p00k13b34r"> /u/p00k13b34r </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy359y/are_there_books_like_the_cdrama_the_first_frost/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy359y/are_there_books_like_the_cdrama_the_first_frost/">[comments]</a></span>
+
+## European History books while I backpack across the continent
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy33fy/european_history_books_while_i_backpack_across](https://www.reddit.com/r/booksuggestions/comments/1iy33fy/european_history_books_while_i_backpack_across)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:12:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>In a few weeks, I&#39;ll be taking a three month trip across Europe and am looking for history books about the areas I will be in so I can truly immerse myself. I would like to read about something and decide if I find it interesting enough to make my way towards historical sites pertaining to it. I do not have a set path but will be starting in Greece and likely ending in Norway. I&#39;d love some more general books as well as deep dives into specific topics.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sensei_Nacho"> /u/Sensei_Nacho </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy33fy/european_history_books_while_i_backpack_across/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy33fy/european_history_books_while_i_backpack_across/">[comments]</a></span>
+
+## Recommendations for unbiased books about Mughal India?
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy2ua5/recommendations_for_unbiased_books_about_mughal](https://www.reddit.com/r/booksuggestions/comments/1iy2ua5/recommendations_for_unbiased_books_about_mughal)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:02:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m a newbie with a newfound interest in Mughal India. I want to learn more and am looking for unbiased and engaging books on the topic. Any recommendations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sanji_lol"> /u/sanji_lol </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy2ua5/recommendations_for_unbiased_books_about_mughal/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy2ua5/recommendations_for_unbiased_books_about_mughal/">[comments]</a></span>
+
+## Can someone please suggest me books as a first time reader?
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy2fnt/can_someone_please_suggest_me_books_as_a_first](https://www.reddit.com/r/booksuggestions/comments/1iy2fnt/can_someone_please_suggest_me_books_as_a_first)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:45:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have never read a book. I know I don’t like fiction genre. I like educational type - history, science, economics basics, true crime/ psychology. Any book that’s educational. </p> <p>Please consider that English is not my first language. I would love book suggestions written in layman type so it’s easy for me to understand and learn.</p> <p>Thank you for helping out. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Throwawayy_1230"> /u/Throwawayy_1230 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy2fnt/can_someone_please_suggest_me_books_as_a_first/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy2fnt/can_someone_please_suggest_me_books_as_a_first/">[comments]</a></span>
+
+## Classic Gothic romance novel
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy0mv1/classic_gothic_romance_novel](https://www.reddit.com/r/booksuggestions/comments/1iy0mv1/classic_gothic_romance_novel)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:33:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Looking for a classic gothic novel (18th and 19th century) featuring a romance plot where the lover/love interests dies and the protagonist grapples with it. I was thinking something by Ann Radcliffe, but I&#39;m unsure if any of her books fit this description. The romance and death don&#39;t need to be the main plot, but I would like it to be apart of it. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/567swimmey"> /u/567swimmey </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy0mv1/classic_gothic_romance_novel/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy0mv1/classic_gothic_romance_novel/">[comments]</a></span>
+
+## Drop your favourite novellas
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy0i2o/drop_your_favourite_novellas](https://www.reddit.com/r/booksuggestions/comments/1iy0i2o/drop_your_favourite_novellas)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:27:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Have always been a Stephen King fan and a horror junkie, but when I started reading I remember my first books to be Erich Segal‘s Love Story, and Nicholas Sparks&#39; A Walk to Remember. Later on, when my taste developed I completely discarded the genre for some reason. </p> <p>A friend of mine who&#39;s a lit major too, and knows that I was somewhat of a poet, can&#39;t stand the fact that I&#39;ve been single for a while now. He says I need to read some good romance, but with a tight schedule I could only settle for a novella atp. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rawwn24"> /u/Rawwn24 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy0i2o/drop_your_favourite_novellas/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy0i2o/drop_your_favourite_novellas/">[comments]</a></span>
+
+## Books to understand my anger and to improve how to deal with people
+ - [https://www.reddit.com/r/booksuggestions/comments/1iy060e/books_to_understand_my_anger_and_to_improve_how](https://www.reddit.com/r/booksuggestions/comments/1iy060e/books_to_understand_my_anger_and_to_improve_how)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:14:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I find myself angry all the time towards people I love my parents, and my siblings, and I feel like I’m treating them like shit so I just need some good books to help me understand my feelings, my anger, and how to treat people better.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/holloweyes05"> /u/holloweyes05 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy060e/books_to_understand_my_anger_and_to_improve_how/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1iy060e/books_to_understand_my_anger_and_to_improve_how/">[comments]</a></span>
+
+## Can you help me find this book?
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixzsk9/can_you_help_me_find_this_book](https://www.reddit.com/r/booksuggestions/comments/1ixzsk9/can_you_help_me_find_this_book)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:59:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>I haven’t read it in years but it is a book that has three main characters. One a young man who breaks into a girls home. The girl whose home gets broken into. And a young boy who murders his bully and his grandfather. It ends up turning out that the young boys story was set in the past and he ends up kidnapping the girl and the young man goes to try and find them to save her.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CreativeEfficiency33"> /u/CreativeEfficiency33 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixzsk9/can_you_help_me_find_this_book/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixzsk9/can_you_help_me_find_this_book/">[comments]</a></span>
+
+## Im looking for books that talk about blood.
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixzozs/im_looking_for_books_that_talk_about_blood](https://www.reddit.com/r/booksuggestions/comments/1ixzozs/im_looking_for_books_that_talk_about_blood)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:55:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Im writing two comics that involve blood as a central theme and I would love to read a book about it not only for fun and as a source of inspiration but also for reasearch, both in a medical/scientific context and its cultural context.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/theparadoxspace"> /u/theparadoxspace </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixzozs/im_looking_for_books_that_talk_about_blood/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixzozs/im_looking_for_books_that_talk_about_blood/">[comments]</a></span>
+
+## Happy easy read for a depressed person?
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixznzn/happy_easy_read_for_a_depressed_person](https://www.reddit.com/r/booksuggestions/comments/1ixznzn/happy_easy_read_for_a_depressed_person)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:54:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just want to suggest a feel good book to my friend (probably to myself too) who is not in a good place emotionally. Please suggest a book which is easy to read (e.g. The book thief or 1984). </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/countingsheeps07"> /u/countingsheeps07 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixznzn/happy_easy_read_for_a_depressed_person/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixznzn/happy_easy_read_for_a_depressed_person/">[comments]</a></span>
+
+## Book suggestion after finishing hunger games
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixz0c8/book_suggestion_after_finishing_hunger_games](https://www.reddit.com/r/booksuggestions/comments/1ixz0c8/book_suggestion_after_finishing_hunger_games)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:27:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>After I finish hunger games I want some recommendations.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hopelessloser007"> /u/Hopelessloser007 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixz0c8/book_suggestion_after_finishing_hunger_games/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixz0c8/book_suggestion_after_finishing_hunger_games/">[comments]</a></span>
+
+## Taste breakers after reading romance novels exclusively for too long?
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixysqs/taste_breakers_after_reading_romance_novels](https://www.reddit.com/r/booksuggestions/comments/1ixysqs/taste_breakers_after_reading_romance_novels)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:18:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>I used to read every genre of fiction under the sun, but it&#39;s been too long and now I&#39;m unsure how to break out of my romance reading habit. Or, more precisely, with what. </p> <p>The main problem is that I gravitate towards heavier or more melancholy reads outside of romance, but I&#39;m going through chemo and I don&#39;t want to be saddened. But I don&#39;t love straight up comedies either, most of the time. </p> <p>So, I&#39;d love a really beautiful, evocative fiction story that could be a taste breaker and help me move away from reading only romance novels - but that won&#39;t leave me an emotional wreck. I want to be charmed, awed or even feel contemplative as I read it. The last book that made me feel that way was Piranesi. </p> <p>Would really appreciate any suggestions!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WhileNo5370"> /u/WhileNo5370 </a> <br/> <span><a href="https://www.reddit.com/
+
+## Scariest fiction book you ever read
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixyrqe/scariest_fiction_book_you_ever_read](https://www.reddit.com/r/booksuggestions/comments/1ixyrqe/scariest_fiction_book_you_ever_read)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:17:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>My daughter says you can&#39;t be scared reading a book vs watching a horror movie. I want to prove her otherwise and no I&#39;m not going to scare her. I want the best scariest book you ever read so I can never sleep again. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Vudujujus"> /u/Vudujujus </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixyrqe/scariest_fiction_book_you_ever_read/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixyrqe/scariest_fiction_book_you_ever_read/">[comments]</a></span>
+
+## Books about our own childhood idealization
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixyri4/books_about_our_own_childhood_idealization](https://www.reddit.com/r/booksuggestions/comments/1ixyri4/books_about_our_own_childhood_idealization)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:16:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, for my university project, I would like to focus on childhood and memories of it. I need literary support to base my project on. I&#39;m looking for an interesting poetry collection by a well-known author or even some scientific books on the subject, that explores childhood and how we tend to idealize it, while also highlighting its darker aspects, such as loneliness and vulnerability.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lopsided_Cook_9907"> /u/Lopsided_Cook_9907 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixyri4/books_about_our_own_childhood_idealization/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixyri4/books_about_our_own_childhood_idealization/">[comments]</a></span>
+
+## I want a book about false prophecy and regret
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixyc4m/i_want_a_book_about_false_prophecy_and_regret](https://www.reddit.com/r/booksuggestions/comments/1ixyc4m/i_want_a_book_about_false_prophecy_and_regret)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:59:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I would like to be recommended a book about a character trying to fulfill a prophecy only to be wrong and have to live with the consequences of their actions. And the lives adversely affected by their beliefs </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Special_Magazine_240"> /u/Special_Magazine_240 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixyc4m/i_want_a_book_about_false_prophecy_and_regret/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixyc4m/i_want_a_book_about_false_prophecy_and_regret/">[comments]</a></span>
+
+## Book recommendations
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixyajp/book_recommendations](https://www.reddit.com/r/booksuggestions/comments/1ixyajp/book_recommendations)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:57:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, I&#39;m Looking for a new book series to dive into😊 Here are some bulletpoints to make clear what i am looking for:</p> <ul> <li>adult or young adult, spice is okay but not necessary</li> <li>Romance is not the main point but a sidestory</li> <li>i love a good wordlbuilding and interesting magic / power system </li> <li>not too much politics</li> <li>long series, no standalones (triologies are fine)</li> <li>ideally included in Kindle unlimited</li> <li><p>written in english or german</p></li> <li><p>Genre: Fantasy -&gt; I loved Throne of Glass (Acotar &amp; Cc were okayish) -&gt; Demon Cycle series by Peter V. Brett was really good -&gt; as a teen i loved Skulduggery Pleasant by Derek Landy</p></li> <li><p>recently i came across a new subgenre i liked: Litrpg / Progression fantasy -&gt; I have read Cradle by Will Wight, Guardian of Aster Falls by David North and Primal Hunter by Zogarth (my favorite)</p></li> </ul> <p>Thank you for your recs 😁<
+
+## Could anyone send the epub file of JAYA by Devdutt pattnaik.. thank you
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixy7u5/could_anyone_send_the_epub_file_of_jaya_by](https://www.reddit.com/r/booksuggestions/comments/1ixy7u5/could_anyone_send_the_epub_file_of_jaya_by)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:54:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>I searched but found nowhere</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Turbulent-Prior-3685"> /u/Turbulent-Prior-3685 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixy7u5/could_anyone_send_the_epub_file_of_jaya_by/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixy7u5/could_anyone_send_the_epub_file_of_jaya_by/">[comments]</a></span>
+
+## Hi, I just started reading 2yrs ago.. & tried to read 1 murakami book a yr ..so I've read norwegian wood & kafka on the shore. Which book should I read of him next ? thanks
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixxw3k/hi_i_just_started_reading_2yrs_ago_tried_to_read](https://www.reddit.com/r/booksuggestions/comments/1ixxw3k/hi_i_just_started_reading_2yrs_ago_tried_to_read)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:39:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>I like the world I was in while reading murakami</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Turbulent-Prior-3685"> /u/Turbulent-Prior-3685 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixxw3k/hi_i_just_started_reading_2yrs_ago_tried_to_read/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixxw3k/hi_i_just_started_reading_2yrs_ago_tried_to_read/">[comments]</a></span>
+
+## book suggestions
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixxpgx/book_suggestions](https://www.reddit.com/r/booksuggestions/comments/1ixxpgx/book_suggestions)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:32:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Anything you read recently that you would recommend for sure ? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iamkeyans"> /u/iamkeyans </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixxpgx/book_suggestions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixxpgx/book_suggestions/">[comments]</a></span>
+
+## Lost in the book world
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixx90n/lost_in_the_book_world](https://www.reddit.com/r/booksuggestions/comments/1ixx90n/lost_in_the_book_world)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:12:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>hi guys ! this is my first post ever pls forgive any confusion lol. i started reading when i was two and basically never stopped until high school when sh*t hit the fan. i’ve read numerous books and im a big fan of realistic fantasy. i can finish a book in a day and thats great until im out again. however most of the books ive read are young adult fiction and im having immense trouble translating my interests to adult books, as ive found most are rooted in romance or death and im not interested in either of those as a main plot. hoping for recs similar to this list ive read:</p> <p>• maximum ride series by james patterson (one of my all time faves)</p> <p>• the doll people series by laura godwin</p> <p>• house of night series by pc and kristin cast </p> <p>• shiver series by maggie steifvater </p> <p>• splintered series by ag howard</p> <p>• fablehaven series by brandon mull </p> <p>• dragonwatch series by brandon mull</p> <p>• gregor the overlander 
+
+## Looking for fantasy novels with a male protagonist who holds a established position of power such a noble position.
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixx861/looking_for_fantasy_novels_with_a_male](https://www.reddit.com/r/booksuggestions/comments/1ixx861/looking_for_fantasy_novels_with_a_male)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:11:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>This is a bit of a specific request, but I was looking for some fantasy books or series with protags who are in some position of authority like a count, duke or king or a member of some sort of noble class and would appreciate any suggestions people have.</p> <p>I&#39;m really looking for books where this is actual major aspect of the story with the MC having to fulfill the duty of the role and isn&#39;t just a unimportant title the character might hold, but otherwise plays no other part in the story.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CrudelisProcella"> /u/CrudelisProcella </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixx861/looking_for_fantasy_novels_with_a_male/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixx861/looking_for_fantasy_novels_with_a_male/">[comments]</a></span>
+
+## some good atomic/apocalyptic sci-fi?
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixx0ix/some_good_atomicapocalyptic_scifi](https://www.reddit.com/r/booksuggestions/comments/1ixx0ix/some_good_atomicapocalyptic_scifi)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:02:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>hi!! I’m super interested in atomic science and dark apocalyptic themes(perhaps also some zombie/globally spreading virus related stuff too but if it’s more on the scientific-esque end and not just a bland romance in a setting). technology taking over is also cool I think. I was wondering if anyone can suggest a couple of good reads?? They can delve into plot lines and such (: thank you!!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/usagimodokii"> /u/usagimodokii </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixx0ix/some_good_atomicapocalyptic_scifi/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixx0ix/some_good_atomicapocalyptic_scifi/">[comments]</a></span>
+
+## LF "Silent Fire: The Story of Inflammation, Diet, and Disease" book
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixwzus/lf_silent_fire_the_story_of_inflammation_diet_and](https://www.reddit.com/r/booksuggestions/comments/1ixwzus/lf_silent_fire_the_story_of_inflammation_diet_and)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:01:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone. Do you have this book? I&#39;m willing to buy. Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Diligent_Ninja2493"> /u/Diligent_Ninja2493 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixwzus/lf_silent_fire_the_story_of_inflammation_diet_and/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixwzus/lf_silent_fire_the_story_of_inflammation_diet_and/">[comments]</a></span>
+
+## Something specific
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixw1j5/something_specific](https://www.reddit.com/r/booksuggestions/comments/1ixw1j5/something_specific)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:18:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>So basically I’m writing this fanfic where my oc is trying to get close to the original Mc and is mainly doing it to get higher is the social chain rather than actual friendship. So he’ll be very kissup to her(og Mc) and stuff but later it’ll develop into an actual friendship instead of something fake. I want to know if there’s any books like that for inspiration, thanks </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Empty-Economist6485"> /u/Empty-Economist6485 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixw1j5/something_specific/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixw1j5/something_specific/">[comments]</a></span>
+
+## First time reader here, what fiction book should I start with?
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixv31s/first_time_reader_here_what_fiction_book_should_i](https://www.reddit.com/r/booksuggestions/comments/1ixv31s/first_time_reader_here_what_fiction_book_should_i)
+ - RSS feed: $source
+ - date published: 2025-02-25T13:34:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Okay so I’ve never read a book in my life and I want to start writing, I’m looking for a novel that I can study to help me write better. Can you please recommend me the best horror, thriller, crime, action/adventure, sci-fi, dystopian, book you can think of? I want a mix of all genres </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Consequence7064"> /u/No-Consequence7064 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixv31s/first_time_reader_here_what_fiction_book_should_i/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixv31s/first_time_reader_here_what_fiction_book_should_i/">[comments]</a></span>
+
+## Suggest me a YA fantasy set in an academy
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixuwro/suggest_me_a_ya_fantasy_set_in_an_academy](https://www.reddit.com/r/booksuggestions/comments/1ixuwro/suggest_me_a_ya_fantasy_set_in_an_academy)
+ - RSS feed: $source
+ - date published: 2025-02-25T13:25:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Does anyone know books that are YA fantasy or sci-fi with the found family trope (enemies to lovers?) and set in an academy/school setting ?? With strong female characters, POC and Queer characters. Something like Lynette Noni&#39;s Akarnae series, Six of Crows, Harry Potter, the illumminae series. I’ve read Atlas Six but didn’t enjoy it. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/etern4l__"> /u/etern4l__ </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixuwro/suggest_me_a_ya_fantasy_set_in_an_academy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixuwro/suggest_me_a_ya_fantasy_set_in_an_academy/">[comments]</a></span>
+
+## Great crime or mystery novels with a good dose of occult or supernatural, similar to "True Detective", "Twin Peaks" and GRR Martin's "Armageddon Rag"?
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixtaew/great_crime_or_mystery_novels_with_a_good_dose_of](https://www.reddit.com/r/booksuggestions/comments/1ixtaew/great_crime_or_mystery_novels_with_a_good_dose_of)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:57:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m looking for good mystery, crime or detective fiction that involves a rich background of creepy cults, demons, psychadelic drug dealers, arcane magic, etc etc. Especially those that are extra creepy and thought provoking...</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Worried-Boot-1508"> /u/Worried-Boot-1508 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixtaew/great_crime_or_mystery_novels_with_a_good_dose_of/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixtaew/great_crime_or_mystery_novels_with_a_good_dose_of/">[comments]</a></span>
+
+## What’s the best dystopia you’ve ever read?
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixsqf5/whats_the_best_dystopia_youve_ever_read](https://www.reddit.com/r/booksuggestions/comments/1ixsqf5/whats_the_best_dystopia_youve_ever_read)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:21:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Currently, I have the following reading list.</p> <p>Handmaids tale by Margret Atwood </p> <p>The testament by margret Atwood </p> <p>Dune by Frank Herbert </p> <p>The Road by Cormac McCarthry </p> <p>Blood meridian by Cormac McCarthry </p> <p>No country for old men by Cormac McCarthry </p> <p>Fahrenheit 451 by Ray Bradbury </p> <p>Horus rising</p> <p>False gods</p> <p>Galaxy in flames</p> <p>Flight of the Eisenstein </p> <p>Child 44</p> <p>Animal farm</p> <p>1984</p> <p>A clockwork orange</p> <p>The reform uk manifesto (all 8 pages of it)</p> <p>Tender is the flesh (permitting it isn’t overly sexual)</p> <p>A brave new world</p> <p>It’s a lot to get through and I’m sure I’ll enjoy as I have enjoyed other dystopian books such as the hunger games, divergent and even tried writing my own. I’ve seen the film of No Country for Old men and enjoyed it and I think I’ll like the book.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.red
+
+## What’s the best historical fiction novel you’ve ever read?
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixscul/whats_the_best_historical_fiction_novel_youve](https://www.reddit.com/r/booksuggestions/comments/1ixscul/whats_the_best_historical_fiction_novel_youve)
+ - RSS feed: $source
+ - date published: 2025-02-25T10:57:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>I love books that transport me to another time period with rich details, compelling characters, and immersive storytelling. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wcydnotforme1"> /u/wcydnotforme1 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixscul/whats_the_best_historical_fiction_novel_youve/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixscul/whats_the_best_historical_fiction_novel_youve/">[comments]</a></span>
+
+## Books for someone who hasn't read it a long while
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixs248/books_for_someone_who_hasnt_read_it_a_long_while](https://www.reddit.com/r/booksuggestions/comments/1ixs248/books_for_someone_who_hasnt_read_it_a_long_while)
+ - RSS feed: $source
+ - date published: 2025-02-25T10:36:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I&#39;m looking book recommendations that would get me back into reading more frequently.</p> <p>I used to be an avid reader in the past, but over time with mental health issues and phone addiction made it harder for me to sit down and actually spend time reading without being distracted/having my mind wander. </p> <p>I&#39;m looking for something that would be legitimately difficult to put down. I&#39;m open to most genres, except maybe modern romance. Any suggestions? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DontCallMeShort"> /u/DontCallMeShort </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixs248/books_for_someone_who_hasnt_read_it_a_long_while/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixs248/books_for_someone_who_hasnt_read_it_a_long_while/">[comments]</a></span>
+
+## Fantasy Newbie?!?
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixrncm/fantasy_newbie](https://www.reddit.com/r/booksuggestions/comments/1ixrncm/fantasy_newbie)
+ - RSS feed: $source
+ - date published: 2025-02-25T10:08:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey! I used to be a huge reader growing up and I&#39;m getting back into it! I&#39;ve always preferred stories that happen in the &quot;real world&quot; but I did enjoy books like Narnia growing up... I read mostly memoirs, literary fiction, and romance as an adult (mostly the fairly popular ones lol) but fantasy is so popular on booktube and booktok that I&#39;m kind of tempted to give it a try?</p> <p>I have EDS which the author of Fourth Wing has so I see it mentioned a lot so I kind of want to read it and I also see so much about ACOTAR that I want to give it a try too, but both just seem kind of overwhelming?</p> <p>Sooooo if I&#39;m just starting to dip my toe into fantasy, what are some books you&#39;d recommend starting with?!? The books I mentioned earlier are definitely staying on my TBR but I know so little that I&#39;m not sure if they are something easy to start with or if there&#39;s something better? All fantasy books just seem so big 
+
+## Does anyone know any mlm books where there isn't a top and bottom dynamic and they're both verse?
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixnksf/does_anyone_know_any_mlm_books_where_there_isnt_a](https://www.reddit.com/r/booksuggestions/comments/1ixnksf/does_anyone_know_any_mlm_books_where_there_isnt_a)
+ - RSS feed: $source
+ - date published: 2025-02-25T05:25:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>(Not necessarily looking for smut btw but I&#39;m not against it either) I just can&#39;t get into the top and bottom stuff I wanna read stuff with verse&#39;s it feels like we&#39;re never represented in mlm books lol Anyone know any books where both of the characters are undeniably verse? All types and genres are welcome but i have a preference for supernatural, fantasy, and sci-fi stuff (I like my gays with powers lol)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Turbulent-Young677"> /u/Turbulent-Young677 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixnksf/does_anyone_know_any_mlm_books_where_there_isnt_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixnksf/does_anyone_know_any_mlm_books_where_there_isnt_a/">[comments]</a></span>
+
+## Very engaging short non-fiction books
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixmpxh/very_engaging_short_nonfiction_books](https://www.reddit.com/r/booksuggestions/comments/1ixmpxh/very_engaging_short_nonfiction_books)
+ - RSS feed: $source
+ - date published: 2025-02-25T04:35:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am looking for some non fiction books to return to regular reading. </p> <p>My work comprises of writing and reading, so I <em>really</em> have trouble to even attempt it in my free time.</p> <p>So, could anyone recommend a short (ca. 200 pages), engaging (well-written) non-fiction book for a person interested in history, social sciences, technology, and space?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/legit_flyer"> /u/legit_flyer </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixmpxh/very_engaging_short_nonfiction_books/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixmpxh/very_engaging_short_nonfiction_books/">[comments]</a></span>
+
+## Space fantasy recs?
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixm13o/space_fantasy_recs](https://www.reddit.com/r/booksuggestions/comments/1ixm13o/space_fantasy_recs)
+ - RSS feed: $source
+ - date published: 2025-02-25T03:58:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>For starters, I am not historically an avid reader, but I have been trying to pick it up as a hobby, and loved Brandon Sanderson’s Mistborn series. I thought space fantasy sounded like a fun change before getting into some of his other work, but I’m not sure where to start. </p> <p>I started the Sun Eater series and got half way through the first book, but it was dreadfully slow. I’d love something with a good bit of world building and well thought out magic system. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BasicallyJustAPotato"> /u/BasicallyJustAPotato </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixm13o/space_fantasy_recs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixm13o/space_fantasy_recs/">[comments]</a></span>
+
+## Looking for a good non-fiction book related to 20th century world history
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixlznr/looking_for_a_good_nonfiction_book_related_to](https://www.reddit.com/r/booksuggestions/comments/1ixlznr/looking_for_a_good_nonfiction_book_related_to)
+ - RSS feed: $source
+ - date published: 2025-02-25T03:56:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone! I&#39;m doing a college assignment and need to pick out a college level, nonfiction book relating to any person, idea, subject, or event pertinent to 20th century world history. I&#39;m really not picky when it comes to books, so if you have a favorite, drop it in the comments and I&#39;ll check it out! (Also wouldn&#39;t mind adding some books to my personal list). Thank you!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PopCollector635"> /u/PopCollector635 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixlznr/looking_for_a_good_nonfiction_book_related_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixlznr/looking_for_a_good_nonfiction_book_related_to/">[comments]</a></span>
+
+## Robert Crais: Where to start?
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixlw0r/robert_crais_where_to_start](https://www.reddit.com/r/booksuggestions/comments/1ixlw0r/robert_crais_where_to_start)
+ - RSS feed: $source
+ - date published: 2025-02-25T03:50:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>...or in this case: continue.</p> <p>I&#39;ll explain.</p> <p>A couple years ago I had the fortune of coming across Robert Crais, a fun crime writer that I&#39;ve seen compared to Robert B. Parker and Michael Connelly.</p> <p>I had the fortune of coming across &quot;The Monkey&#39;s Raincoat&quot; in a local &quot;Little Free Library&quot; Kiosk, and after a quick trade, I was off to the races reading. I ended up loving the book, Elvis Cole and Joe Pike were like a buddy action team-up straight out an 80s actioner (appropriate, considering the time of publication).</p> <p>After that... well... I got sidetracked with life and other things.</p> <p>Now, I&#39;m eyeing Crais&#39; bibliography again with intent to take another crack at it. However, I&#39;m a bit at a loss at how to proceed, so I&#39;ve come here seeking advice.</p> <p>Should I continue with the Cole and Pike series, or give one of his other books a try? I had heard interesting reviews abo
+
+## books about being in your 20s?
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixlvro/books_about_being_in_your_20s](https://www.reddit.com/r/booksuggestions/comments/1ixlvro/books_about_being_in_your_20s)
+ - RSS feed: $source
+ - date published: 2025-02-25T03:50:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want books recs about being lost or a mess in your 20s, preferably realistic fiction, biographies are ok as well tho.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/reddit_user_500"> /u/reddit_user_500 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixlvro/books_about_being_in_your_20s/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixlvro/books_about_being_in_your_20s/">[comments]</a></span>
+
+## Historical fiction about The Troubles?
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixlmw7/historical_fiction_about_the_troubles](https://www.reddit.com/r/booksuggestions/comments/1ixlmw7/historical_fiction_about_the_troubles)
+ - RSS feed: $source
+ - date published: 2025-02-25T03:37:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know next to nothing about the IRA and conflict in Northern Ireland and would love to learn some via historical fiction. TIA!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/foamycoaster"> /u/foamycoaster </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixlmw7/historical_fiction_about_the_troubles/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixlmw7/historical_fiction_about_the_troubles/">[comments]</a></span>
+
+## Guys please help me find this book in offline hardcopy version
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixlh2x/guys_please_help_me_find_this_book_in_offline](https://www.reddit.com/r/booksuggestions/comments/1ixlh2x/guys_please_help_me_find_this_book_in_offline)
+ - RSS feed: $source
+ - date published: 2025-02-25T03:29:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Andrew Sykes The 11th Habit: Design Your Company Culture to Foster the Habits of High Performance</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Late_Brush_4054"> /u/Late_Brush_4054 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixlh2x/guys_please_help_me_find_this_book_in_offline/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixlh2x/guys_please_help_me_find_this_book_in_offline/">[comments]</a></span>
+
+## I'm looking for a book that isn't overtly deep/serious but still feels important/profound.
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixkenn/im_looking_for_a_book_that_isnt_overtly](https://www.reddit.com/r/booksuggestions/comments/1ixkenn/im_looking_for_a_book_that_isnt_overtly)
+ - RSS feed: $source
+ - date published: 2025-02-25T02:36:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey all, the past few books I&#39;ve read (Crime and Punishment, The Autobiography of Malcolm X) have been really good, but I think I need to read something that isn&#39;t so serious, if that makes sense. I need to read something a little lighter, but I still really enjoy books with a strong sense of meaning and importance, with a profound takeaway. Something that moves me. Not like comedy, though. Sorry if this is a little vague, I&#39;m having trouble expressing the certain type of book I want to read. I haven&#39;t read a lot of the &quot;classics&quot; or widely-read books, so it&#39;s okay to suggest them. I appreciate your help!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/flyingmattress1"> /u/flyingmattress1 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixkenn/im_looking_for_a_book_that_isnt_overtly/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksug
+
+## Book Recommendations 30 Male
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixk7og/book_recommendations_30_male](https://www.reddit.com/r/booksuggestions/comments/1ixk7og/book_recommendations_30_male)
+ - RSS feed: $source
+ - date published: 2025-02-25T02:26:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello! I have recently got back into reading. I have typically checked off historic classics everyone tells you to read. Hemingway, 1984, catch 22 etc, but I have found those old books to feel like a chore to read at times.</p> <p>Recently I have read 3 books by Blake Crouch. Dark Matter, Recursion, Upgrade. I have enjoyed the easy read nature of those. Entertainment as opposed to gaining literary knowledge.</p> <p>Does not need to fit into the sci fi genre of Crouch’s books but something written this millennium and fiction. </p> <p>Any recommendations ? Thanks </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jmoref1"> /u/jmoref1 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixk7og/book_recommendations_30_male/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixk7og/book_recommendations_30_male/">[comments]</a></span>
+
+## Books to calm your soul
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixj8w2/books_to_calm_your_soul](https://www.reddit.com/r/booksuggestions/comments/1ixj8w2/books_to_calm_your_soul)
+ - RSS feed: $source
+ - date published: 2025-02-25T01:39:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>For the past 3-4 years, my life has been a constant cycle of anxiety and stress. I lost my religion, failed out of my program after working so hard to get in, and almost died from OD. I am generally unhappy. </p> <p>My goal is become more ‘calm’ or wise if you may, and to conquer anxiety. Please recommend me books that will help me become a more composed person. Im 21. </p> <p>Though I know this is a bit of a far-fetched goal, I do wanna resort to books during my soul searching period. Thanks. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fantastic_Chicken463"> /u/Fantastic_Chicken463 </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixj8w2/books_to_calm_your_soul/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixj8w2/books_to_calm_your_soul/">[comments]</a></span>
+
+## Romance/Romantacy books where the main love interest doesn’t look…. Like that?
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixiuhu/romanceromantacy_books_where_the_main_love](https://www.reddit.com/r/booksuggestions/comments/1ixiuhu/romanceromantacy_books_where_the_main_love)
+ - RSS feed: $source
+ - date published: 2025-02-25T01:20:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi! So I like romance books, but my type in men is not stereotypically attractive lol. So, I’ve tried a couple romantacy books recently and all of the main love interests kinda look the same (short dark hair, square jaw, tan, really muscular) and that’s just really, really not my type…. Does anyone have recs where the love interest looks different???? (Bonus points if they look like Thranduil from LOTR!)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/carelessideology"> /u/carelessideology </a> <br/> <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixiuhu/romanceromantacy_books_where_the_main_love/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/booksuggestions/comments/1ixiuhu/romanceromantacy_books_where_the_main_love/">[comments]</a></span>
+
+## Looking for a light hearted / happy book.
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixikyu/looking_for_a_light_hearted_happy_book](https://www.reddit.com/r/booksuggestions/comments/1ixikyu/looking_for_a_light_hearted_happy_book)
+ - RSS feed: $source
+ - date published: 2025-02-25T01:07:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve gone down quite a rabbit hole lately and have literally depressed myself with some of the books I’m reading. I need something to turn it around. I’m not tied to a specific genre I’m looking for but I’m going to list off some of the things I’ve been reading recently so you can get a good idea of what has kept my interest and might help guide a book suggestion. </p> <p>Recently I’ve read the following …</p> <p>Nuclear War: A scenario (Annie Jacobsen) </p> <p>The Doomsday Machine (Daniel Elsberry)</p> <p>Rise and Fall of the Third Reich (Shrier) </p> <p>I’ve also read several books by Micheal Connelly and really enjoy those, but they are pretty bleak too. Lincoln Lawyer is my favorite character of his and those books in particular. </p> <p>I’ve read all of the stuff from Andy Weir and really enjoy him (especially Project Hail Mary). </p> <p>I’m reading the Dune Series occasionally. It’s dense and I enjoy the universe but actually enjoy the movies a
+
+## Horror/Creature Feature
+ - [https://www.reddit.com/r/booksuggestions/comments/1ixhjwh/horrorcreature_feature](https://www.reddit.com/r/booksuggestions/comments/1ixhjwh/horrorcreature_feature)
+ - RSS feed: $source
+ - date published: 2025-02-25T00:19:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone! I used to read quite a lot back in the day but I have definitely slacked off the last couple years. However I recently found out that my wife is pregnant with kid #2. I figured this was a good time to try and catch up on some books. I cancelled my gamepass subscription and instead am using that money towards audible. So I plan on listening to the game of thrones collection first bc I&#39;ve put it off for forever. However I&#39;ll have plenty of time to read and listen to books throughout this pregnancy and paternity leave. I was hoping people could recommend some good horror books or creature feature books. I&#39;ve read all the Stephen King classics and Pete benchley/Steve alten shark and ocean creature books. But any recommendations that people could give for me to add to my list would be greatly appreciated. Thanks everyone and wish me luck!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/med4l
+

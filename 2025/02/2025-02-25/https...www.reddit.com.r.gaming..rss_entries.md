@@ -1,0 +1,142 @@
+# Source:r/gaming, URL:https://www.reddit.com/r/gaming/.rss, language:
+
+## M-Rated Games Don’t Feel M-Rated Anymore
+ - [https://www.reddit.com/r/gaming/comments/1iy7jvy/mrated_games_dont_feel_mrated_anymore](https://www.reddit.com/r/gaming/comments/1iy7jvy/mrated_games_dont_feel_mrated_anymore)
+ - RSS feed: $source
+ - date published: 2025-02-25T22:17:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>For some reason, I feel like a game’s rating is not really a big deal for me anymore (maybe because I’m 30 now lol), but I miss the feeling of buying an M-Rated game and feeling like I was about to get a serious gory or extreme experience out of it. Maybe some people still play MK or GTA for the absurd violence and situations, but some M-rated games feel like they just so happen to have some blood in them or something. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/epicflex"> /u/epicflex </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1iy7jvy/mrated_games_dont_feel_mrated_anymore/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iy7jvy/mrated_games_dont_feel_mrated_anymore/">[comments]</a></span>
+
+## WB shuts down Monolith and the Multiversus studio. Wonder Woman game cancelled.
+ - [https://www.reddit.com/r/gaming/comments/1iy3cbq/wb_shuts_down_monolith_and_the_multiversus_studio](https://www.reddit.com/r/gaming/comments/1iy3cbq/wb_shuts_down_monolith_and_the_multiversus_studio)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:22:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iy3cbq/wb_shuts_down_monolith_and_the_multiversus_studio/"> <img src="https://external-preview.redd.it/wK_eijAczaBQrFTl60uY0wasB3x66NreNyiEIrixoYA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=416d374d7a3ab8a68225dfb0f9f04108882f4c36" alt="WB shuts down Monolith and the Multiversus studio. Wonder Woman game cancelled." title="WB shuts down Monolith and the Multiversus studio. Wonder Woman game cancelled." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Iggy_Slayer"> /u/Iggy_Slayer </a> <br/> <span><a href="https://www.thegamer.com/wonder-woman-game-cancelled-multiversus-developer-shut-down-warner-bros/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iy3cbq/wb_shuts_down_monolith_and_the_multiversus_studio/">[comments]</a></span> </td></tr></table>
+
+## Stormtroopers are getting a little bored in their downtime... (SW Jedi: Survivor)
+ - [https://www.reddit.com/r/gaming/comments/1iy2rza/stormtroopers_are_getting_a_little_bored_in_their](https://www.reddit.com/r/gaming/comments/1iy2rza/stormtroopers_are_getting_a_little_bored_in_their)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:59:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iy2rza/stormtroopers_are_getting_a_little_bored_in_their/"> <img src="https://preview.redd.it/pp0yym9q1cle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be0d5f4049ca44eabcaeb3809f628c9b34d1b614" alt="Stormtroopers are getting a little bored in their downtime... (SW Jedi: Survivor)" title="Stormtroopers are getting a little bored in their downtime... (SW Jedi: Survivor)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/logisticalone"> /u/logisticalone </a> <br/> <span><a href="https://i.redd.it/pp0yym9q1cle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iy2rza/stormtroopers_are_getting_a_little_bored_in_their/">[comments]</a></span> </td></tr></table>
+
+## Deus Ex (2000)
+ - [https://www.reddit.com/r/gaming/comments/1iy1nhv/deus_ex_2000](https://www.reddit.com/r/gaming/comments/1iy1nhv/deus_ex_2000)
+ - RSS feed: $source
+ - date published: 2025-02-25T18:14:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iy1nhv/deus_ex_2000/"> <img src="https://preview.redd.it/54i0v53mtble1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe856285e392760e96639c9e89a2f91835dd5b08" alt="Deus Ex (2000)" title="Deus Ex (2000)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bornracist"> /u/Bornracist </a> <br/> <span><a href="https://i.redd.it/54i0v53mtble1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iy1nhv/deus_ex_2000/">[comments]</a></span> </td></tr></table>
+
+## PC handhelds have sold 6 million to date all combined, Steam Deck at ~4 million
+ - [https://www.reddit.com/r/gaming/comments/1iy17f8/pc_handhelds_have_sold_6_million_to_date_all](https://www.reddit.com/r/gaming/comments/1iy17f8/pc_handhelds_have_sold_6_million_to_date_all)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:56:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iy17f8/pc_handhelds_have_sold_6_million_to_date_all/"> <img src="https://external-preview.redd.it/8LTHLS5_HlUwM5-anSyxcGiNUuJDIn12NoG8mg_sgs8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0eaa088677ebfe7158ade73d96fc7565f4045970" alt="PC handhelds have sold 6 million to date all combined, Steam Deck at ~4 million" title="PC handhelds have sold 6 million to date all combined, Steam Deck at ~4 million" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>The PC handhelds have obviously been doing very well for what they are (and I love my Deck), but these sales numbers should help open some eyes for people who think they are any competition for the Switch or Switch 2. The gigantic flop PS Vita sold 15 million, and the Switch has sold 150 million. The PC handhelds are doing well but they’re not operating on any scale for Nintendo or Sony to worry. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www
+
+## Fable First Look at Gameplay (Pre-Alpha)
+ - [https://www.reddit.com/r/gaming/comments/1iy08d7/fable_first_look_at_gameplay_prealpha](https://www.reddit.com/r/gaming/comments/1iy08d7/fable_first_look_at_gameplay_prealpha)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:16:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iy08d7/fable_first_look_at_gameplay_prealpha/"> <img src="https://external-preview.redd.it/PE0OiiI05zAt1GiIe1CyJ1n5eBIMGHjrubE9jysEbgw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bb257f2a5530aedcc5df4d0fcfef201c4d19f470" alt="Fable First Look at Gameplay (Pre-Alpha)" title="Fable First Look at Gameplay (Pre-Alpha)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IcePopsicleDragon"> /u/IcePopsicleDragon </a> <br/> <span><a href="https://www.youtube.com/watch?v=1h77gcgE1b8">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iy08d7/fable_first_look_at_gameplay_prealpha/">[comments]</a></span> </td></tr></table>
+
+## What fantasy games have unique architecture?
+ - [https://www.reddit.com/r/gaming/comments/1ixz91z/what_fantasy_games_have_unique_architecture](https://www.reddit.com/r/gaming/comments/1ixz91z/what_fantasy_games_have_unique_architecture)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:36:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Most fantasy games I see nowadays have architecture that looks a lot like something you would see in the real world. For example, games set in medieval Europe-inspired settings. Or games set in feudal Japan. </p> <p>But I am looking for games that have a unique look to it in terms of the architecture of temples, castles, palaces, homes, etc. Final Fantasy X and Shadow of the Colossus are great examples of these type of games. The architecture in those games are almost nothing like the ones you see in real life. Any recommendations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Syphonfilterfan93"> /u/Syphonfilterfan93 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ixz91z/what_fantasy_games_have_unique_architecture/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ixz91z/what_fantasy_games_have_unique_architecture/">[comments]</a></span>
+
+## Xbox studios head Craig Duncan confirms 'Fable' is delayed to 2026
+ - [https://www.reddit.com/r/gaming/comments/1ixypg9/xbox_studios_head_craig_duncan_confirms_fable_is](https://www.reddit.com/r/gaming/comments/1ixypg9/xbox_studios_head_craig_duncan_confirms_fable_is)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:14:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ixypg9/xbox_studios_head_craig_duncan_confirms_fable_is/"> <img src="https://external-preview.redd.it/lsG9XfclP5cEGeKMiXrlslsXMGF2uwpJ3Eiv3OsK5B8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f12bd0e017659d1a4c7bf737625644b51b1f78a6" alt="Xbox studios head Craig Duncan confirms 'Fable' is delayed to 2026" title="Xbox studios head Craig Duncan confirms 'Fable' is delayed to 2026" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dynablast"> /u/Dynablast </a> <br/> <span><a href="https://www.windowscentral.com/gaming/xbox/fable-delayed-to-2026-xbox-confirms">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ixypg9/xbox_studios_head_craig_duncan_confirms_fable_is/">[comments]</a></span> </td></tr></table>
+
+## Fable delayed to 2026
+ - [https://www.reddit.com/r/gaming/comments/1ixyp3h/fable_delayed_to_2026](https://www.reddit.com/r/gaming/comments/1ixyp3h/fable_delayed_to_2026)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:14:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ixyp3h/fable_delayed_to_2026/"> <img src="https://external-preview.redd.it/7g-pzhpiSaHM2VEs2TqMcHK_XmO8NCHJs4ImmS8YNzE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4a74c1124857f53083d46eb905066e48ed478797" alt="Fable delayed to 2026" title="Fable delayed to 2026" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Iggy_Slayer"> /u/Iggy_Slayer </a> <br/> <span><a href="https://www.youtube.com/watch?v=7r1t_oDC7z8">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ixyp3h/fable_delayed_to_2026/">[comments]</a></span> </td></tr></table>
+
+## In A Age Of Remasters...Mercenaries: Playground Of Destruction Deserves It
+ - [https://www.reddit.com/r/gaming/comments/1ixyozr/in_a_age_of_remastersmercenaries_playground_of](https://www.reddit.com/r/gaming/comments/1ixyozr/in_a_age_of_remastersmercenaries_playground_of)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:14:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>With all these remasters these days, Mercenaries: POD deserves it a lot more. This game was epic, unique, immersive and lived in world on par with Assassin&#39;s Creed Origins, GTA &amp; Ghost Recon Wildlands., best part was the factions will instigate battles, war would break out at random and you could even do false flag attacks on factions to instigate war between them. </p> <p>You could also buy airstrikes, weapons, vehicles, helicopters through the black market, One of my favorites was take a Mi-35, fill it with allied troops while you provide air cover and they clear out troops and vehicles.</p> <p>Only changes that needs to be made is a new engine, battlefield&#39;s frostbite destruction engine, make the game&#39;s movement, shooting etc more akin to gta smoothness and naturally graphics to be brought to modern standards</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CipherGamingZA"> /u/CipherGamingZA </
+
+## Physical copies of Assassin's Creed Shadows leak nearly a month ahead of its release date
+ - [https://www.reddit.com/r/gaming/comments/1ixxzls/physical_copies_of_assassins_creed_shadows_leak](https://www.reddit.com/r/gaming/comments/1ixxzls/physical_copies_of_assassins_creed_shadows_leak)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:44:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ixxzls/physical_copies_of_assassins_creed_shadows_leak/"> <img src="https://external-preview.redd.it/P5GWn9G9pnvsfzivDO0IyofVOGMTYQv6G35I_UeEcTA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d4f3d4a5c150a4ac5c5afd6cc8ef99e349fb2627" alt="Physical copies of Assassin's Creed Shadows leak nearly a month ahead of its release date" title="Physical copies of Assassin's Creed Shadows leak nearly a month ahead of its release date" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Footage of people streaming the game can also be found online. Statement from Ubisoft can be found in the article. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EveryNameEverMade"> /u/EveryNameEverMade </a> <br/> <span><a href="https://www.pcgamer.com/games/action/physical-copies-of-assassins-creed-shadows-leak-nearly-a-month-ahead-of-its-release-date/">[link]</a></span> &#32; <span><a href="https://www
+
+## What’s the most underrated gaming console of all time?
+ - [https://www.reddit.com/r/gaming/comments/1ixxtjp/whats_the_most_underrated_gaming_console_of_all](https://www.reddit.com/r/gaming/comments/1ixxtjp/whats_the_most_underrated_gaming_console_of_all)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:36:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ixxtjp/whats_the_most_underrated_gaming_console_of_all/"> <img src="https://b.thumbs.redditmedia.com/eOYnT6NOxRcqhs9yZZC2bZu1T5BZFNaA7kVHtTlk-ko.jpg" alt="What’s the most underrated gaming console of all time?" title="What’s the most underrated gaming console of all time?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Everyone talks about the big hitters like the PS2 and Xbox 360, but there are some consoles that never got the love they deserved. For me, it’s the Sega Dreamcast. Which console do you think didn’t get enough recognition?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Party_Secretary115"> /u/Party_Secretary115 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ixxtjp/whats_the_most_underrated_gaming_console_of_all/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ixxtjp/whats_the_most_underrated_gaming_consol
+
+## Is there a generic video game statement that annoys you?
+ - [https://www.reddit.com/r/gaming/comments/1ixv50l/is_there_a_generic_video_game_statement_that](https://www.reddit.com/r/gaming/comments/1ixv50l/is_there_a_generic_video_game_statement_that)
+ - RSS feed: $source
+ - date published: 2025-02-25T13:36:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>For context: I was watching Baldurs Gate 3&#39;s new subclass highlights for the highly anticipated patch 8 which will feature 12 new subclasses. </p> <p>I scroll down to the comments to see people&#39;s thoughts and of course the most up voted comment is the word &quot;when&quot;, which is a pretty understandable question given the anticipation from this community; however, 50% of the responses to this &quot;when&quot; is &quot;when it&#39;s ready&quot; or &quot;I&#39;d rather wait and have something that works than for it to be rushed.&quot; </p> <p>I don&#39;t think I&#39;ve never <em>not</em> seen this comment when it comes to highly anticipated releases. I remember seeing this when they were TESVI in 2014.</p> <p>While it&#39;s definitely not wrong, and I&#39;d rather have a working release than a rushed one, it also says literally nothing. Is asking a date of release the same as demanding an earlier release? No. Does it answer the question? No.
+
+## I feel like I have been handed a gamers golden ticket.
+ - [https://www.reddit.com/r/gaming/comments/1ixspei/i_feel_like_i_have_been_handed_a_gamers_golden](https://www.reddit.com/r/gaming/comments/1ixspei/i_feel_like_i_have_been_handed_a_gamers_golden)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:20:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>As a gamer since 1994, I’ve played a lot of great games. But lately, it’s been hard to find games that I know nothing about yet are still popular or highly rated.</p> <p>Now that Kingdom Come: Deliverance 2 is out, my brother has been playing it. After seeing a bit of the gameplay, I told him not to spoil anything because it looks like something I’d love to experience myself.</p> <p>Then he asked if I had ever played the first game, and that got me thinking—I was surprised that I couldn’t remember anything about it.</p> <p>I looked it up on Steam and vaguely recognized the first image, but beyond that, nothing. Then I saw why: it came out in 2018.</p> <p>Back in 2018, I was busy with my firstborn, looking for a house, dealing with insurance, and handling a ton of other responsibilities all at once. I completely missed everything about that game.</p> <p>And now, with part two just released, I get to dive into an adventure across two games I know absol
+
+## I fused every Johto Pokemon into one sculpture, hope you like it
+ - [https://www.reddit.com/r/gaming/comments/1ixsmnd/i_fused_every_johto_pokemon_into_one_sculpture](https://www.reddit.com/r/gaming/comments/1ixsmnd/i_fused_every_johto_pokemon_into_one_sculpture)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:15:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ixsmnd/i_fused_every_johto_pokemon_into_one_sculpture/"> <img src="https://preview.redd.it/y7j8w62uq9le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a28a0c6879a3702c604718ba2bd6224a39b6f8f0" alt="I fused every Johto Pokemon into one sculpture, hope you like it" title="I fused every Johto Pokemon into one sculpture, hope you like it" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/miguel_paredes95"> /u/miguel_paredes95 </a> <br/> <span><a href="https://i.redd.it/y7j8w62uq9le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ixsmnd/i_fused_every_johto_pokemon_into_one_sculpture/">[comments]</a></span> </td></tr></table>
+
+## Call of Duty Admits It's Using AI-Generated Assets
+ - [https://www.reddit.com/r/gaming/comments/1ixs8wd/call_of_duty_admits_its_using_aigenerated_assets](https://www.reddit.com/r/gaming/comments/1ixs8wd/call_of_duty_admits_its_using_aigenerated_assets)
+ - RSS feed: $source
+ - date published: 2025-02-25T10:49:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ixs8wd/call_of_duty_admits_its_using_aigenerated_assets/"> <img src="https://external-preview.redd.it/QvdPdp1SzHXIJ0ykgqzkjmKPw7HSROkUnGYUP05d1mA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df39fac3c81575fdf0bea14e3beb3187dc1cfdcb" alt="Call of Duty Admits It's Using AI-Generated Assets" title="Call of Duty Admits It's Using AI-Generated Assets" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HandsomeDim"> /u/HandsomeDim </a> <br/> <span><a href="https://gamerant.com/call-of-duty-admits-using-ai-generated-assets/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ixs8wd/call_of_duty_admits_its_using_aigenerated_assets/">[comments]</a></span> </td></tr></table>
+
+## Best demo you've played so far during Steam Next Fest?
+ - [https://www.reddit.com/r/gaming/comments/1ixqw3k/best_demo_youve_played_so_far_during_steam_next](https://www.reddit.com/r/gaming/comments/1ixqw3k/best_demo_youve_played_so_far_during_steam_next)
+ - RSS feed: $source
+ - date published: 2025-02-25T09:14:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>Steam Next Fest just started and there&#39;s tons of different demos to try out. Some of my favorites so far include Mecha Break, Shape of Dreams, and Tower of Babel: Survivors of Chaos. I&#39;m also looking forward to trying out Chernobylite 2 and The King is Watching but haven&#39;t gotten around to it yet. What are some of your favorite demos so far?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/slirpo"> /u/slirpo </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1ixqw3k/best_demo_youve_played_so_far_during_steam_next/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ixqw3k/best_demo_youve_played_so_far_during_steam_next/">[comments]</a></span>
+
+## Phantom Ganon cosplay by dcwbuilds
+ - [https://www.reddit.com/r/gaming/comments/1ixp7vl/phantom_ganon_cosplay_by_dcwbuilds](https://www.reddit.com/r/gaming/comments/1ixp7vl/phantom_ganon_cosplay_by_dcwbuilds)
+ - RSS feed: $source
+ - date published: 2025-02-25T07:11:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ixp7vl/phantom_ganon_cosplay_by_dcwbuilds/"> <img src="https://preview.redd.it/t79ag4whj8le1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32af10efbb82cf8f2f3f0855816464c36cb5203a" alt="Phantom Ganon cosplay by dcwbuilds" title="Phantom Ganon cosplay by dcwbuilds" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dcw14"> /u/dcw14 </a> <br/> <span><a href="https://i.redd.it/t79ag4whj8le1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ixp7vl/phantom_ganon_cosplay_by_dcwbuilds/">[comments]</a></span> </td></tr></table>
+
+## It's crazy to think about how relevant this still is
+ - [https://www.reddit.com/r/gaming/comments/1ixnhv6/its_crazy_to_think_about_how_relevant_this_still](https://www.reddit.com/r/gaming/comments/1ixnhv6/its_crazy_to_think_about_how_relevant_this_still)
+ - RSS feed: $source
+ - date published: 2025-02-25T05:20:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ixnhv6/its_crazy_to_think_about_how_relevant_this_still/"> <img src="https://external-preview.redd.it/DWqXbsda38JH3181JiTW72xGuH1uHP2G2poTLYUvMn0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6164c47cdc120eec0e48be40dd82828a75825e97" alt="It's crazy to think about how relevant this still is" title="It's crazy to think about how relevant this still is" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thelonew0lf"> /u/thelonew0lf </a> <br/> <span><a href="https://youtu.be/C31XYgr8gp0?si=32AKh16h-OKgWOE6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ixnhv6/its_crazy_to_think_about_how_relevant_this_still/">[comments]</a></span> </td></tr></table>
+
+## I appreciate Another Crab's Treasure allowing me to turn off the things I hate in Soulslike
+ - [https://www.reddit.com/r/gaming/comments/1ixjbsq/i_appreciate_another_crabs_treasure_allowing_me](https://www.reddit.com/r/gaming/comments/1ixjbsq/i_appreciate_another_crabs_treasure_allowing_me)
+ - RSS feed: $source
+ - date published: 2025-02-25T01:43:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1ixjbsq/i_appreciate_another_crabs_treasure_allowing_me/"> <img src="https://preview.redd.it/uuqpu34ow6le1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d8cdb284d6a3a8d27faa934dc38231f207a6bb3" alt="I appreciate Another Crab's Treasure allowing me to turn off the things I hate in Soulslike" title="I appreciate Another Crab's Treasure allowing me to turn off the things I hate in Soulslike" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HandsomeDim"> /u/HandsomeDim </a> <br/> <span><a href="https://i.redd.it/uuqpu34ow6le1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1ixjbsq/i_appreciate_another_crabs_treasure_allowing_me/">[comments]</a></span> </td></tr></table>
+

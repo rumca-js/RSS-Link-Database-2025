@@ -1,0 +1,261 @@
+# Source:Japan Today, URL:https://japantoday.com/feed, language:en
+
+## Ukraine has agreed on terms of minerals deal with U.S.: official
+ - [https://japantoday.com/category/world/ukraine-has-agreed-on-terms-of-minerals-deal-with-us-official](https://japantoday.com/category/world/ukraine-has-agreed-on-terms-of-minerals-deal-with-us-official)
+ - RSS feed: $source
+ - date published: 2025-02-25T22:10:53+00:00
+
+Ukraine has agreed on the terms of a minerals deal with the United States and could sign it on Friday, a Ukrainian official said, in a move Kyiv…
+
+## Apple shareholders reject proposal to scrap company's diversity programs
+ - [https://japantoday.com/category/tech/Apple-shareholders-reject-proposal-to-scrap-company%27s-diversity-programs](https://japantoday.com/category/tech/Apple-shareholders-reject-proposal-to-scrap-company%27s-diversity-programs)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:56:25+00:00
+
+Apple shareholders rebuffed an attempt to pressure the technology trendsetter into joining President Donald Trump's push to scrub corporate programs designed to diversify its workforce.
+The proposal drafted by the…
+
+## Japan mulls tightening regulations on crypto asset transactions
+ - [https://japantoday.com/category/business/japan-mulls-tightening-regulations-on-crypto-asset-transactions](https://japantoday.com/category/business/japan-mulls-tightening-regulations-on-crypto-asset-transactions)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:54:31+00:00
+
+Japan is considering tightening regulations on crypto asset transactions by classifying them as financial products akin to stocks, a government source said Tuesday.
+The Financial Services Agency is…
+
+## Tesla shares slump 9% on disappointing Europe sales
+ - [https://japantoday.com/category/business/tesla-shares-slump-9-on-disappointing-europe-sales](https://japantoday.com/category/business/tesla-shares-slump-9-on-disappointing-europe-sales)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:53:28+00:00
+
+Shares of the U.S. electric vehicle pioneer Tesla slumped as much as nine percent Tuesday, as investors digested disappointing European sales and chief executive Elon Musk's aggressive foray…
+
+## Toyota reshuffles its board, adding auditors and outsiders
+ - [https://japantoday.com/category/business/toyota-reshuffles-its-board-adding-auditors-and-outsiders-1](https://japantoday.com/category/business/toyota-reshuffles-its-board-adding-auditors-and-outsiders-1)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:53:10+00:00
+
+Toyota Motor Corp announced plans to restructure its board on Tuesday in what it described as an attempt to bring in more diverse views and give a larger…
+
+## Japan says it sent MSDF personnel to Black Sea mine-sweeping exercise in 2024
+ - [https://japantoday.com/category/national/japan-sent-msdf-personnel-to-black-sea-mine-sweeping-exercise-in-2024](https://japantoday.com/category/national/japan-sent-msdf-personnel-to-black-sea-mine-sweeping-exercise-in-2024)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:51:02+00:00
+
+Japan sent 10 Maritime Self-Defense Force personnel to a multinational mine-sweeping exercise in the Black Sea in September 2024 as part of its cooperation with Ukraine, Defense Minister…
+
+## Diet panel OKs regulating election posters after chaos in Tokyo race
+ - [https://japantoday.com/category/politics/diet-panel-oks-regulating-election-posters-after-chaos-in-tokyo-race](https://japantoday.com/category/politics/diet-panel-oks-regulating-election-posters-after-chaos-in-tokyo-race)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:50:34+00:00
+
+A Japanese lower house panel on Tuesday approved a bill regulating the standards for electoral campaign posters, following the chaos caused in last year's Tokyo gubernatorial race over…
+
+## Kate Bush leads UK musicians in 'silent album' AI fight
+ - [https://japantoday.com/category/entertainment/kate-bush-leads-uk-musicians-in-%27silent-album%27-ai-fight](https://japantoday.com/category/entertainment/kate-bush-leads-uk-musicians-in-%27silent-album%27-ai-fight)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:50:10+00:00
+
+Over 1,000 musicians including Kate Bush, Annie Lennox and Damon Albarn on Tuesday released a silent album in protest at proposed changes to UK copyright law around artificial…
+
+## Son of Chinese journalist jailed for espionage calls for his father's release
+ - [https://japantoday.com/category/crime/son-of-chinese-journalist-jailed-for-espionage-calls-for-his-father%27s-release](https://japantoday.com/category/crime/son-of-chinese-journalist-jailed-for-espionage-calls-for-his-father%27s-release)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:48:39+00:00
+
+The son of a Chinese journalist accused of espionage called for his father's release from a seven-year prison sentence in the high-profile case that signaled Beijing's tighten grip…
+
+## ANA to places mega-order of 77 new jets
+ - [https://japantoday.com/category/business/japan%27s-ana-to-purchase-mega-order-of-77-new-jets](https://japantoday.com/category/business/japan%27s-ana-to-purchase-mega-order-of-77-new-jets)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:47:37+00:00
+
+Japan's biggest airline ANA Holdings announced Tuesday it will purchase 77 new aircraft from Boeing, Airbus and Embraer to replenish its fleet in order to serve growing passenger…
+
+## Nippon Steel has no schedule for meeting Trump over U.S. Steel
+ - [https://japantoday.com/category/business/nippon-steel-has-no-schedule-for-meeting-trump-over-u.s.-steel](https://japantoday.com/category/business/nippon-steel-has-no-schedule-for-meeting-trump-over-u.s.-steel)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:47:22+00:00
+
+Nippon Steel Corp President Tadashi Imai said Tuesday that &quot;nothing has been decided&quot; regarding a meeting with U.S. President Donald Trump to expedite the company's plan to acquire…
+
+## FY2025 budget to ensure free high school education, advance social security reforms
+ - [https://japantoday.com/category/politics/update2-japan-ruling-bloc-small-opposition-party-reach-deal-to-pass-budget](https://japantoday.com/category/politics/update2-japan-ruling-bloc-small-opposition-party-reach-deal-to-pass-budget)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:46:57+00:00
+
+Japan's ruling coalition and a small opposition party on Tuesday formally agreed on measures to ensure free high school education and advance social security reforms, clearing a major…
+
+## Dodgers' deferred payments increase to $1.051 billion with Tanner Scott, Teoscar Hernández deals
+ - [https://japantoday.com/category/sports/dodgers%27-deferred-payments-increase-to-1.051-billion-with-tanner-scott-teoscar-hernandez-deals](https://japantoday.com/category/sports/dodgers%27-deferred-payments-increase-to-1.051-billion-with-tanner-scott-teoscar-hernandez-deals)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:46:36+00:00
+
+The Los Angeles Dodgers owe $1.051 billion in deferred pay to eight players from 2028-46 following Tanner Scott's $72 million, four-year contract and Teoscar Hernández’s $66 million, three-year…
+
+## Hoshoryu feels weight of responsibility ahead of yokozuna debut
+ - [https://japantoday.com/category/sports/update1-sumo-hoshoryu-feels-weight-of-responsibility-ahead-of-yokozuna-debut](https://japantoday.com/category/sports/update1-sumo-hoshoryu-feels-weight-of-responsibility-ahead-of-yokozuna-debut)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:46:28+00:00
+
+New yokozuna Hoshoryu admitted feeling trepidation Tuesday after seeing his name on top of the official rankings for the first time ahead of the Spring Grand Sumo Tournament…
+
+## Is Arsenal out of the Premier League title race? 'Over my dead body,' says Arteta
+ - [https://japantoday.com/category/sports/is-arsenal-out-of-the-premier-league-title-race-%27over-my-dead-body-%27-says-arteta](https://japantoday.com/category/sports/is-arsenal-out-of-the-premier-league-title-race-%27over-my-dead-body-%27-says-arteta)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:46:17+00:00
+
+Eleven points off the lead. An injury-ravaged forward line. Yet another player suspended after getting sent off.
+Surely it’s too much for Arsenal to win the Premier League…
+
+## Power outage hits swaths of Chile, from largest copper mine to Santiago streets
+ - [https://japantoday.com/category/world/power-outage-hits-swaths-of-chile-from-largest-copper-mine-to-santiago-streets1](https://japantoday.com/category/world/power-outage-hits-swaths-of-chile-from-largest-copper-mine-to-santiago-streets1)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:41:40+00:00
+
+A large power outage struck vast swaths of Chile on Tuesday, interrupting mining operations in the world's biggest copper producer and leaving residents of Santiago without electricity.
+Areas…
+
+## South Korea's Yoon defends his martial law decree as impeachment trial nears end
+ - [https://japantoday.com/category/world/south-korea%27s-yoon-defends-his-martial-law-decree-as-impeachment-trial-nears-end](https://japantoday.com/category/world/south-korea%27s-yoon-defends-his-martial-law-decree-as-impeachment-trial-nears-end)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:41:31+00:00
+
+In a final statement at his impeachment trial, South Korean President Yoon Suk Yeol defended his martial law decree that plunged the country into chaos as a bid…
+
+## 9 killed, hundreds of homes burned down in Central African Republic attack
+ - [https://japantoday.com/category/world/9-killed-hundreds-of-homes-burned-down-in-central-african-republic-attack](https://japantoday.com/category/world/9-killed-hundreds-of-homes-burned-down-in-central-african-republic-attack)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:41:22+00:00
+
+Nine people were killed and more than 700 houses were burned down in an attack in northern Central African Republic on Tuesday, local officials said.
+Rebels with the…
+
+## In retired French surgeon's child rape trial, son says father was like 'Dr Jekyll and Mr Hyde'
+ - [https://japantoday.com/category/world/in-retired-french-surgeon%27s-child-rape-trial-son-says-father-was-like-%27dr-jekyll-and-mr-hyde%27](https://japantoday.com/category/world/in-retired-french-surgeon%27s-child-rape-trial-son-says-father-was-like-%27dr-jekyll-and-mr-hyde%27)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:41:11+00:00
+
+The son of a retired French surgeon accused of raping and sexually assaulting hundreds of young patients told a court on Tuesday that Joel Le Scouarnec was a…
+
+## U.S. judge blocks Trump's indefinite suspension of refugee resettlement program
+ - [https://japantoday.com/category/world/us-judge-blocks-trump%27s-indefinite-suspension-of-refugee-resettlement-program2](https://japantoday.com/category/world/us-judge-blocks-trump%27s-indefinite-suspension-of-refugee-resettlement-program2)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:41:00+00:00
+
+A federal judge on Tuesday blocked President Donald Trump's effort to indefinitely suspend the U.S. refugee resettlement program, saying the Republican had exceeded his executive authority by abruptly…
+
+## Supporters of separatist Bosnian Serb president Dodik rally as he awaits verdict fueling tensions
+ - [https://japantoday.com/category/world/supporters-of-separatist-bosnian-serb-president-dodik-rally-as-he-awaits-verdict-fueling-tensions](https://japantoday.com/category/world/supporters-of-separatist-bosnian-serb-president-dodik-rally-as-he-awaits-verdict-fueling-tensions)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:40:42+00:00
+
+Supporters of separatist Bosnian Serb President Milorad Dodik rallied on Tuesday as tensions soared on the eve of a scheduled court verdict that could order the pro-Russia Serb…
+
+## Vatican says Pope Francis remains critical but stable as he works from hospital
+ - [https://japantoday.com/category/world/pope-continues-recovery-sleeps-well-as-vatican-launches-marathon-prayers-and-allies-cheer-him-on](https://japantoday.com/category/world/pope-continues-recovery-sleeps-well-as-vatican-launches-marathon-prayers-and-allies-cheer-him-on)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:40:34+00:00
+
+Pope Francis remained in critical but stable condition Tuesday, with his blood parameters remaining stable as he works from the hospital while battling double pneumonia, the Vatican said.…
+
+## Countries tell Ukraine 'you are not alone' after U.N. adopts neutral stance on war
+ - [https://japantoday.com/category/world/countries-tell-ukraine-%27you-are-not-alone%27-after-un-adopts-neutral-stance-on-war](https://japantoday.com/category/world/countries-tell-ukraine-%27you-are-not-alone%27-after-un-adopts-neutral-stance-on-war)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:40:26+00:00
+
+Dozens of countries rallied behind Ukraine at a meeting at the United Nations in Geneva on Tuesday, a day after the U.N. Security Council adopted a U.S.-drafted resolution…
+
+## Kremlin says Russia has lots of rare earth metals that the U.S. needs and is open to cooperation
+ - [https://japantoday.com/category/world/kremlin-says-russia-has-lots-of-rare-earth-metals-that-the-us-needs-and-is-open-to-cooperation](https://japantoday.com/category/world/kremlin-says-russia-has-lots-of-rare-earth-metals-that-the-us-needs-and-is-open-to-cooperation)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:40:15+00:00
+
+The Kremlin said on Tuesday that Russia had lots of rare earth metal deposits and that it was open to doing deals to develop them after President Vladimir…
+
+## British PM Starmer boosts defense spending on eve of Washington trip
+ - [https://japantoday.com/category/world/uk%27s-starmer-boosts-defence-spending-on-eve-of-washington-trip2](https://japantoday.com/category/world/uk%27s-starmer-boosts-defence-spending-on-eve-of-washington-trip2)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:40:05+00:00
+
+Prime Minister Keir Starmer said on Tuesday he would increase annual defense spending to 2.5% of GDP by 2027 and target a 3% level last seen just after…
+
+## Israel looks to extend phase one of Gaza truce as long-term deal proves elusive
+ - [https://japantoday.com/category/world/israel-looks-to-extend-phase-one-of-gaza-truce-as-long-term-deal-proves-elusive](https://japantoday.com/category/world/israel-looks-to-extend-phase-one-of-gaza-truce-as-long-term-deal-proves-elusive)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:39:56+00:00
+
+Israel is considering an extension of the 42-day truce in Gaza as it seeks to bring home the remaining 63 hostages, while putting off agreement on the future…
+
+## U.S. House Republicans face growing internal opposition to Trump tax cut plan
+ - [https://japantoday.com/category/world/us-house-republicans-face-new-woes-on-trump-tax-cut-plan](https://japantoday.com/category/world/us-house-republicans-face-new-woes-on-trump-tax-cut-plan)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:39:42+00:00
+
+Republicans who control the U.S. House of Representatives faced growing internal opposition to their current plan to advance President Donald Trump's tax-cut and border agenda, prompting Speaker Mike…
+
+## Judge gives Trump administration two days to unfreeze funds for US foreign aid
+ - [https://japantoday.com/category/world/judge-gives-trump-administration-two-days-to-unfreeze-funds-for-us-foreign-aid](https://japantoday.com/category/world/judge-gives-trump-administration-two-days-to-unfreeze-funds-for-us-foreign-aid)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:39:28+00:00
+
+A federal judge on Tuesday gave the Trump administration less than two days to release billions of dollars in U.S. foreign aid, saying the administration had given no…
+
+## 21 staffers resign from DOGE rather than help Musk
+ - [https://japantoday.com/category/world/21-federal-technology-staffers-resign-rather-than-help-musk-and-doge-slash-size-of-government](https://japantoday.com/category/world/21-federal-technology-staffers-resign-rather-than-help-musk-and-doge-slash-size-of-government)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:39:06+00:00
+
+Twenty-one employees resigned Tuesday from billionaire Trump adviser Elon Musk's Department of Government Efficiency, saying they were refusing to use their technical expertise to “dismantle critical public services.”…
+
+## 11 elderly residents at Toyama nursing home suffer norovirus food poisoning; one dies
+ - [https://japantoday.com/category/national/11-elderly-residents-at-Toyama-nursing-home-suffer-norovirus-food-poisoning-one-dies](https://japantoday.com/category/national/11-elderly-residents-at-Toyama-nursing-home-suffer-norovirus-food-poisoning-one-dies)
+ - RSS feed: $source
+ - date published: 2025-02-25T07:38:31+00:00
+
+Eleven elderly residents of a nursing home in Toyama City suffered norovirus food poisoning, one of whom died after choking on vomit, it was reported Tuesday.
+According to…
+
+## 66-year-old man arrested for helping wife hang herself
+ - [https://japantoday.com/category/crime/66-year-old-man-arrested-for-helping-wife-hang-herself](https://japantoday.com/category/crime/66-year-old-man-arrested-for-helping-wife-hang-herself)
+ - RSS feed: $source
+ - date published: 2025-02-25T07:38:03+00:00
+
+Police in Sekigahara Town, Gifu Prefecture, have arrested a 66-year-old man on suspicion of killing his 58-year-old wife in a mountainous region of the prefecture.
+Police said Kenichiro…
+
+## Japan manga sales top ¥700 bil for 1st time on digital growth
+ - [https://japantoday.com/category/business/japan-manga-sales-top-700-bil.-yen-for-1st-time-on-digital-growth](https://japantoday.com/category/business/japan-manga-sales-top-700-bil.-yen-for-1st-time-on-digital-growth)
+ - RSS feed: $source
+ - date published: 2025-02-25T07:37:35+00:00
+
+Sales of manga comics in Japan are estimated to have topped 700 billion yen in 2024 for the first time, rising 1.5 percent from the previous year, industry…
+
+## Japanese salmon catches plummet in losing battle to climate change
+ - [https://japantoday.com/category/national/feature-japanese-salmon-catches-plummet-in-losing-battle-to-climate-change](https://japantoday.com/category/national/feature-japanese-salmon-catches-plummet-in-losing-battle-to-climate-change)
+ - RSS feed: $source
+ - date published: 2025-02-25T07:37:09+00:00
+
+There is trouble on the horizon in the northernmost prefecture of Hokkaido, where poor fishing conditions triggered by global warming are endangering Japan's prized salmon -- widely considered…
+
+## At least three dead in South Korea highway construction project collapse
+ - [https://japantoday.com/category/world/at-least-three-dead-in-south-korea-highway-construction-project-collapse](https://japantoday.com/category/world/at-least-three-dead-in-south-korea-highway-construction-project-collapse)
+ - RSS feed: $source
+ - date published: 2025-02-25T06:51:56+00:00
+
+At least three people died and six were injured on Tuesday after a collapse at a highway construction site in an area south of the South Korean capital,…
+
+## U.S. refuses to blame Russia for Ukraine war, splitting with European allies in U.N. votes
+ - [https://japantoday.com/category/world/the-un-will-vote-to-demand-russia-pull-troops-out-of-ukraine.-but-the-us-wants-a-softer-approach](https://japantoday.com/category/world/the-un-will-vote-to-demand-russia-pull-troops-out-of-ukraine.-but-the-us-wants-a-softer-approach)
+ - RSS feed: $source
+ - date published: 2025-02-25T05:31:15+00:00
+
+In a dramatic shift in transatlantic relations under President Donald Trump, the United States split with its European allies by refusing to blame Russia for its invasion of…
+
+## China adviser pushes to lower legal marriage age to 18 to boost birthrate
+ - [https://japantoday.com/category/world/china-adviser-pushes-to-lower-legal-marriage-age-to-18-to-boost-birthrate](https://japantoday.com/category/world/china-adviser-pushes-to-lower-legal-marriage-age-to-18-to-boost-birthrate)
+ - RSS feed: $source
+ - date published: 2025-02-25T03:49:44+00:00
+
+A Chinese national political adviser has recommended lowering the legal age for marriage to 18 to boost fertility chances in the face of a declining population and &quot;unleash…
+

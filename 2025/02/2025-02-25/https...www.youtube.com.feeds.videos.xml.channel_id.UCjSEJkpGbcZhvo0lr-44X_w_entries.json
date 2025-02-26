@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-25T19:09:12+00:00",
+        "description": "The first 500 people to use my link https://skl.sh/techhut02251 will get a 1 month free trial of Skillshare!\n\nQuick overview of the Linux setup with the open source applications I use everyday!\nLinks and downloads: https://techhut.tv/5-awesome-open-source-apps/\n\n\ud83c\udfc6FOLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4fSUPPORT TECHHUT (all links below this line will earn us commission)\nBUY ME A COFFEE: https://buymeacoffee.com/techhut\nAIRVPN: https://airvpn.org/?referred_by=673908\nHOSTINGER: https://bit.ly/techhut-hostinger\nYOUTUBE MEMBER: https://bit.ly/members-techhut\n\n\ud83d\udcf7MY GEAR (PAID LINKS)\nMinisForum Tablet: https://amzn.to/3SeMmds\nBeelink N200: https://amzn.to/3xZjeQs\nLattePanda Sigma: https://amzn.to/3xZjpv6\nRaspberry Pi 5: https://amzn.to/4f3yUCN\n\n00:00 - IM BACK\n00:47 - Skillshare (sponsor)\n02:15 - 1. Web Browser\n03:37 - Web Browser Extensions\n04:19 - 2. Code Editor\n07:35 - 3. Terminal\n09:59 ",
+        "id": 2192988,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=y_8wcMBJrVo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/y_8wcMBJrVo/hqdefault.jpg",
+        "title": "5 MUST HAVE Open Source Apps - my Linux setup",
+        "vote": 0
+    }
+]

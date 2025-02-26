@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-25T12:00:34+00:00",
+        "description": "Ready to become a certified AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdGuc2\n\nLearn more about Chatbot here \u2192 https://ibm.biz/BdGucq\n\nEver wondered what sets chatbots apart from AI assistants? \ud83e\udd14 Discover how chatbots use decision trees and rules engines, while AI assistants leverage NLP, machine learning, and deep learning. See how these technologies enhance customer service and improve user experiences. \ud83d\udca1\ud83e\udd16\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdGucf\n\n#chatbot #aiassistant #machinelearning",
+        "id": 2190529,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=M2C-yFocLu0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/M2C-yFocLu0/hqdefault.jpg",
+        "title": "Chatbots vs AI Assistants: Key Differences",
+        "vote": 0
+    }
+]

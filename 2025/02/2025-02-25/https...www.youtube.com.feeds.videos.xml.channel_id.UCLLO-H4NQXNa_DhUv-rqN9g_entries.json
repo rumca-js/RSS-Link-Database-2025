@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-25T17:13:02+00:00",
+        "description": "Czy zamys\u0142 zabawy oferowany przez nowego Elden Ringa, kt\u00f3ry na papierze wydaje si\u0119 kompletnie zwariowany, jest sensowny? Postanowi\u0142 si\u0119 o tym przekona\u0107 nasz Yasu, kt\u00f3ry wszelkie soulsowe nowo\u015bci kocha.\n\nProwadzenie i scenariusz:\n\nYasuhiro \u201eYasu3000\u201d Kanzawa (https://twitter.com/yasu3000_)\n\nMonta\u017c: Kacper Grela",
+        "id": 2192342,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=VH-yQuBjlH4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VH-yQuBjlH4/hqdefault.jpg",
+        "title": "Gra\u0142em w Elden Ring: Nightrein. Soulslike inny ni\u017c wszystkie",
+        "vote": 0
+    }
+]

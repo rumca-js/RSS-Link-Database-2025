@@ -1,0 +1,177 @@
+# Source:GameSpot - All Content, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Halo: Flashpoint Board Game Gets 25% Discount At Amazon
+ - [https://www.gamespot.com/articles/halo-flashpoint-board-game-gets-25-discount-at-amazon/1100-6526901/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/halo-flashpoint-board-game-gets-25-discount-at-amazon/1100-6526901/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:07:00+00:00
+
+<div title="[Various] Halo Flashpoint" data-embed-type="buylink" data-ref-id="2707" data-template="2" data-size="buylink__large" data-title="[Various] Halo Flashpoint" data-collection="" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4450462-haloflashpointspartan.png alt="">                                 <a href="https://www.amazon.com/Halo-Flashpoint-Tactical-Miniatures-Spartan/dp/B0CYXNG56J?tag=gamespot-preorders-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold"
+
+## InZoi Director Isn't Trying To Steal The Sims' Thunder
+ - [https://www.gamespot.com/articles/inzoi-director-isnt-trying-to-steal-the-sims-thunder/1100-6529711/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/inzoi-director-isnt-trying-to-steal-the-sims-thunder/1100-6529711/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:00:00+00:00
+
+<p>When it comes to life simulator games, EA's The Sims has largely had the field to itself since its launch 25 years ago. But Krafton's upcoming title, InZoi, looks like it could be a real contender in terms of scale, and it even has more realistic characters than The Sims' cartoonish avatars. Regardless, InZoi director Hyungjun Kim says that he has a great deal of respect for The Sims and doesn't view the two games as being in competition with one another.</p><p>"We see InZoi not as a competitor to The Sims, but rather as another option that fans of this genre can enjoy," said Kim during an interview with <a href="https://www.pcgamer.com/games/life-sim/inzoi-director-says-we-have-great-respect-for-the-legacy-the-sims-has-built-and-doesnt-see-their-game-as-a-director-competitor-our-aim-is-to-provide-a-different-experience">PC Gamer</a>. "We have great respect for the legacy The Sims has built over the years, since we know that reaching that much depth in such a short period of time 
+
+## Bungie Lawsuit Had To Cite Destiny 2 Fan Videos Because In-Game Content No Longer Exists
+ - [https://www.gamespot.com/articles/bungie-lawsuit-had-to-cite-destiny-2-fan-videos-because-in-game-content-no-longer-exists/1100-6529709/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/bungie-lawsuit-had-to-cite-destiny-2-fan-videos-because-in-game-content-no-longer-exists/1100-6529709/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T12:39:00+00:00
+
+<p>Bungie hasn't been shy about deleting older content from Destiny 2 (a process it calls "vaulting") in order to make room for new stuff, but it appears this controversial practice had some unintended consequences. As part of a lawsuit filed against them, Bungie had to cite fan videos from YouTube, because the content in question is no longer part of the game.</p><p dir="ltr">Per <a href="https://www.gamefile.news/p/lets-close-some-tabs-bungie-nintendo-like-a-dragon-dino-crisis">Game File</a>, a sci-fi writer named Matthew Kelsey Martineau filed a lawsuit against Bungie last year, alleging that an enemy faction called the Red Legion was plagiarized from the author's WordPress writing. In its response, Bungie dismissed the claims as baseless, but the company's counsel was forced to cite fan YouTube compilations of cutscenes and gameplay from the vaulted original campaign of Destiny 2 in order to make their case. While the publisher would normally be able to simply submit a copy of th
+
+## The Sims 4 Update Adds Burglars Back To The Series
+ - [https://www.gamespot.com/articles/the-sims-4-update-adds-burglars-back-to-the-series/1100-6529708/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-sims-4-update-adds-burglars-back-to-the-series/1100-6529708/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T12:18:00+00:00
+
+<p dir="ltr">EA and Maxis are finally giving <a href="https://www.gamespot.com/games/the-sims-4/">The Sims 4</a> a burglar of its own in a new update that's live on all platforms. The Sims 4's burglar update coincides with the launch of the new <a href="https://www.gamespot.com/articles/the-sims-4-businesses-hobbies-expansion-adds-tattoo-artist-career-and-ceramic-incense-burners/1100-6529300/">Businesses and Hobbies expansion</a>, though you don't have to buy the new pack to get the burglar. It's a free update for the base game with special interactions if you own certain other expansions.</p><p dir="ltr">Maxis included a burglar in The Sims, The Sims 2, and The Sims 3, but never in The Sims 4 until now. Robin Banks, the new version of the criminal mastermind, behaves in much the same way as the burglar in previous iterations. There's a low chance that Robin will enter your residential or business lot at night, and she can potentially make off with anything inside that isn't attached
+
+## Team Fortress 2 Classic Coming To Steam This Year
+ - [https://www.gamespot.com/articles/team-fortress-2-classic-coming-to-steam-this-year/1100-6529710/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/team-fortress-2-classic-coming-to-steam-this-year/1100-6529710/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:42:00+00:00
+
+<p>Released in 2020, Team Fortress 2 Classic is a mod for Team Fortress 2 that re-imagines the original game's early post-launch era. It was one of the most popular fan mods, and now will officially be released through Steam later this year--and can be <a href="https://store.steampowered.com/app/3545060/Team_Fortress_2_Classic/">wishlisted</a> right now.</p><p>In terms of returning features from the mod, there is a new special class, the Civilian, which is inspired by Team Fortress Classic. There are also original weapons like the nailgun, dynamite pack, and tranquilizer gun that are said to be redesigned. And the traditionally two-team game now features four-team support in Arena, King of the Hill, and other modes, with the third and fourth teams taking on the colors of yellow and green.</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=qq52Cx-pkaA" data-width="100%" data-height="100%">          <iframe src="https://www.youtube-nocookie.com/embed/qq52Cx-pkaA"
+
+## Xbox Boss Says Bringing Games To PS5 Is "Good For Gamers"
+ - [https://www.gamespot.com/articles/xbox-boss-says-bringing-games-to-ps5-is-good-for-gamers/1100-6529704/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-boss-says-bringing-games-to-ps5-is-good-for-gamers/1100-6529704/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:30:00+00:00
+
+<p>Microsoft is shaking things up of late by bringing more of its first-party games to rival platforms like PS5 and Nintendo Switch. This multiplatform release strategy is good for people who like games and helps Microsoft's own studios by extending any given game's reach, according to Head of Xbox Game Studios Craig Duncan.</p><p>"I think it's good for gamers, I think it's good for our studios," Duncan said on the <a href="https://news.xbox.com/en-us/podcast/xbox-game-studios-update-with-craig-duncan-official-xbox-podcast/">official Xbox podcast</a>. "Our studios make amazing games, and we want to give those games the chance to reach the broadest audience possible."</p><p>This lines up with <a href="https://www.gamespot.com/articles/xbox-boss-says-hes-no-longer-trying-to-move-ps5-players-to-xbox/1100-6529532/">what Microsoft Gaming CEO Phil Spencer said recently</a> when asked about Microsoft's new approach of launching its own games on rival platforms. "It doesn't really benefit pe
+
+## Dark Souls 3 Seamless Co-Op Mod Lets You And Your Friends Fight To The End
+ - [https://www.gamespot.com/articles/dark-souls-3-seamless-co-op-mod-lets-you-and-your-friends-fight-to-the-end/1100-6529705/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dark-souls-3-seamless-co-op-mod-lets-you-and-your-friends-fight-to-the-end/1100-6529705/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:03:00+00:00
+
+<p>Fires fade, but From Software's <a href="https://www.gamespot.com/reviews/dark-souls-3-review/1900-6416397/">Dark Souls 3</a> remains popular among the franchise's fans nearly a decade after it was originally released. And while Dark Souls 3 does include co-op, it's limited in scope in the base game. That's why a modder going by Yui has been working on a Dark Souls 3 seamless co-op mod, which is now out in its alpha form.</p><p>The Dark Souls 3 seamless co-op mod can be found on <a href="https://www.nexusmods.com/darksouls3/mods/1895">Nexus Mods</a>, but Yuri warns, "If you are looking for a bug free experience, you won't find it in this version." What you will find is the ability to play through the entire game with your friends without having to deal with the restrictions that were placed in Dark Souls 3's original release.</p><p>In this mod, the session won't be ended when a player dies. Instead, they will respawn in the same world at the last bonfire where they rested. Additio
+
+## Stars Reach Looks To Fill The Star Wars Galaxies-Sized Hole In The MMO Space
+ - [https://www.gamespot.com/articles/stars-reach-looks-to-fill-the-star-wars-galaxies-sized-hole-in-the-mmo-space/1100-6529707/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/stars-reach-looks-to-fill-the-star-wars-galaxies-sized-hole-in-the-mmo-space/1100-6529707/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:03:00+00:00
+
+<p><a href="https://www.gamespot.com/games/stars-reach/">Stars Reach</a>, a new sci-fi MMO seeking funding on <a href="https://www.kickstarter.com/projects/starsreach/stars-reach/description">Kickstarter</a>, has blown past its initial funding goal of $200,000 in less than an hour of being live.</p><p dir="ltr">No doubt the pedigree behind Stars Reach is part of the reason for that. The game is coming from studio Playable Worlds, led by Raph Koster, one of the lead creators of MMO classics like <a href="https://www.gamespot.com/games/ultima-online/">Ultima Online</a> and <a href="https://www.gamespot.com/games/star-wars-galaxies-the-complete-online-adventures/">Star Wars Galaxies</a>.</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=ZRd5xiNfCg0" data-width="100%" data-height="100%">          <iframe src="https://www.youtube-nocookie.com/embed/ZRd5xiNfCg0" height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscreen mozallowfullscreen allowfu
+
+## New Wonder Woman Game Canceled, Multiple Studios Closed
+ - [https://www.gamespot.com/articles/new-wonder-woman-game-canceled-multiple-studios-closed-report/1100-6529706/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/new-wonder-woman-game-canceled-multiple-studios-closed-report/1100-6529706/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:00:00+00:00
+
+<p>Warner Bros. Games is making some dramatic changes, as the company is closing Monolith Productions, Player First Games, and WB San Diego. Warner Bros. Games is also cancelling the new Wonder Woman game at Monolith Productions as part of this shakeup.</p><p>Warner Bros. Games <a href="https://bsky.app/profile/ethangach.bsky.social/post/3lizl4fakrs24">confirmed this</a> following a breaking news report from <a href="https://bsky.app/profile/jasonschreier.bsky.social/post/3lizk5skwps2d">Jason Schreier of Bloomberg</a>.</p><p>Monolith Productions was founded in 1994 and was more recently known for licensed games like Middle-earth: Shadow of Mordor and Shadow of War. The studio also created the F.E.A.R. and Condemned franchises. Warner Bros. acquired the company in 2004.</p><a href="https://www.gamespot.com/articles/new-wonder-woman-game-canceled-multiple-studios-closed-report/1100-6529706/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Marvel Multiverse Tabletop RPG Will Soon Have Spider-Verse And Avengers Campaigns
+ - [https://www.gamespot.com/articles/marvel-multiverse-tabletop-rpg-will-soon-have-spider-verse-and-avengers-campaigns/1100-6529657/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/marvel-multiverse-tabletop-rpg-will-soon-have-spider-verse-and-avengers-campaigns/1100-6529657/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T10:54:00+00:00
+
+<div title="6529657 - Spider-verse and Avengers Marvel Multiverse Expansions" data-embed-type="buylink" data-ref-id="3182" data-template="2" data-size="buylink__large" data-title="6529657 - Spider-verse and Avengers Marvel Multiverse Expansions" data-collection="" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1701/17013431/4448379-spiderverse.jpg alt="">                                 <a href="https://www.amazon.com/MARVEL-MULTIVERSE-ROLE-PLAYING-GAME-SPIDER-VERSE/dp/1302948571?tag=gamespot-preorders-20"></a>                              </div>                   <div class=
+
+## Hearthstone Into The Emerald Dream Card Reveal: Hamuul Runetotem Imbues Druids With Power
+ - [https://www.gamespot.com/articles/hearthstone-into-the-emerald-dream-card-reveal-hamuul-runetotem-imbues-druids-with-power/1100-6529668/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/hearthstone-into-the-emerald-dream-card-reveal-hamuul-runetotem-imbues-druids-with-power/1100-6529668/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T10:00:00+00:00
+
+<p>The next Hearthstone expansion is Into the Emerald Dream, exploring the magical spirit realm specialized by Druids. As you might expect, this is a very Druid-focused expansion, and for the first time each class will get its own cards that use the Druid's "Choose One" keyword, alongside a number of other new mechanics. Naturally, Druids will get their own special tools, as we can exclusively reveal the new class <strong>legendary minion Hamuul Runetotem</strong> and several of his support cards.</p><p>Hamuul Runetotem himself uses the new keyword <strong>Imbue</strong>, which will be available to Druid, Hunter, Mage, Paladin, Priest, and Shaman. This keyword gives you a new Hero Power, which then upgrades as you play more Imbue cards. Some already-revealed Imbue cards take effect as Battlecry or Deathrattle effects, but Hamuul's takes effect as soon as the game starts, if you built your deck with only Nature spells. Then, it repeats the Imbue effect again for every two spells you c
+
+## Metal Gear Solid Delta PC Requirements Revealed, And You'll Need A Lot Of Free Storage Space
+ - [https://www.gamespot.com/articles/metal-gear-solid-delta-pc-requirements-revealed-and-youll-need-a-lot-of-free-storage-space/1100-6529703/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/metal-gear-solid-delta-pc-requirements-revealed-and-youll-need-a-lot-of-free-storage-space/1100-6529703/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T09:20:00+00:00
+
+<p>Ahead of its release on August 28, the PC requirements for <a href="https://www.gamespot.com/articles/metal-gear-solid-delta-snake-eater-release-date-gameplay-and-everything-we-know/1100-6514614/">Metal Gear Solid Delta: Snake Eater</a> have gone live on Steam. It's not the most exhaustive list of minimum and recommended PC requirements--especially this far out from its launch--but it does give a good indicator of what you'll need to run the Metal Gear Solid 3: Snake Eater remake.</p><p>On the GPU side, the minimum recommendation here is an RTX 2060 Nvidia graphics card, with no mention of an AMD equivalent yet, and it's recommended that you have an RTX 3080 GPU. Early looks at Metal Gear Solid Delta: Snake Eater have shown off a very lush environment for players to sneak through, and with the game being developed in Unreal Engine 5, you're naturally going to need a lot of storage capacity for the game's install files.</p><p>Konami recommends 100GB of storage capacity, and while a
+
+## Tony Hawk 3+4 Remaster Is Seemingly All But Confirmed
+ - [https://www.gamespot.com/articles/tony-hawk-34-remaster-is-seemingly-all-but-confirmed/1100-6529701/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/tony-hawk-34-remaster-is-seemingly-all-but-confirmed/1100-6529701/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T09:11:00+00:00
+
+<p>The hints about the impending return of Tony Hawk's Pro Skater after a five-year hiatus started appearing earlier this month with <a href="https://www.gamespot.com/articles/call-of-dutys-new-update-is-apparently-teasing-a-tony-hawks-pro-skater-reveal/1100-6529622/">the release of a new Call of Duty: Black Ops 6 map</a>. Shortly thereafter, <a href="https://www.gamespot.com/articles/tony-hawks-pro-skater-site-is-counting-down-to-an-announcement/1100-6529655/">the official site for THPS began counting down</a> to March 4. While Activision and Tony Hawk himself are likely waiting for that day--which conspicuously happens to be 3/4-- to make their announcement, a rating has been issued for Tony Hawk's Pro Skater 3 + 4, a remastered edition of two earlier games in the franchise.</p><p>Via <a href="https://www.gematsu.com/2025/02/tony-hawks-pro-skater-3-4-rated-in-singapore-for-ps5-xbox-series-ps4-xbox-one-switch-and-pc">Gematsu</a>, the Infocomm Media Development Authority of Singapore
+
+## Star Wars Boss Is Reportedly Retiring This Year, Which Could Be A Major Shakeup
+ - [https://www.gamespot.com/articles/star-wars-boss-is-reportedly-retiring-this-year-which-could-be-a-major-shakeup/1100-6529700/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/star-wars-boss-is-reportedly-retiring-this-year-which-could-be-a-major-shakeup/1100-6529700/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T09:09:00+00:00
+
+<p dir="ltr">There might be a great disturbance in the Force, as a new report claims that Lucasfilm president Kathleen Kennedy will retire later this year. The executive has overseen the Star Wars and Indiana Jones franchises since Disney acquired Lucasfilm in 2012.</p><p dir="ltr"><a href="https://puck.news/kathleen-kennedy-to-step-down-at-lucasfilm/">Puck</a> reported that Kennedy has let Disney and friends know about her plans to step down from Lucasfilm. However, while <a href="https://variety.com/2025/film/news/star-wars-kathleen-kennedy-exit-lucasfilm-1236319794/">Variety</a> corroborated Puck, the trade publication added that one of its sources said nothing has been finalized as of yet. Kennedy was in charge of bringing Star Wars back to the silver screen with the sequel trilogy, which started with The Force Awakens in 2015 and ended with The Rise of Skywalker in 2019. She also expanded the franchise with non-Skywalker Saga films like Rogue One and Solo: A Star Wars Story--let
+
+## 8BitDo's New Ultimate 2 Controller Sounds Very Impressive, And It's Available Now
+ - [https://www.gamespot.com/articles/8bitdos-new-ultimate-2-controller-sounds-very-impressive-and-its-available-now/1100-6529695/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/8bitdos-new-ultimate-2-controller-sounds-very-impressive-and-its-available-now/1100-6529695/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T09:06:00+00:00
+
+<div title="[Various] 8BitDo Ultimate 2 Controller" data-embed-type="buylink" data-ref-id="3192" data-template="2" data-size="buylink__large" data-title="[Various] 8BitDo Ultimate 2 Controller" data-collection="" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1595/15950357/4449951-8bitdoultimate2module.png alt="">                                 <a href="https://www.amazon.com/dp/B0DR8V899R?tag=gamespot-promos-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">                    
+
+## Rise Of The Golden Idol DLC Release Date May Be Hidden In Plain Sight
+ - [https://www.gamespot.com/articles/rise-of-the-golden-idol-dlc-release-date-may-be-hidden-in-plain-sight/1100-6529702/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/rise-of-the-golden-idol-dlc-release-date-may-be-hidden-in-plain-sight/1100-6529702/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T09:00:00+00:00
+
+<p dir="ltr">Following its launch back in October, The Rise of the Golden Idol is set to add some additional chapters to its tale of murder and mystery in the first expansion, called The Sins of New Wells. Developer Color Gray has teased a March release window for the upcoming DLC, but it seems the actual release date might have also been slyly revealed.</p><p dir="ltr">In the style of the game, a <a href="https://store.steampowered.com/news/app/2716400/view/521956605068051135">teaser post</a> on The Rise of the Golden Idol's Steam page had shed some slightly redacted light on what players can expect from The Sins of New Wells. The post confirms the expansion will contain four new cases, a new character named Cliff Savea, and more of the dangerous magic from the fictional world of Lemuria.</p><div data-embed-type="tweet" data-src="https://x.com/ColorGray7/status/1894388848911610281" data-has-image="false"><blockquote align="center" class="twitter-tweet" data-conversation="none" data-
+
+## The Callisto Protocol Dev Cuts More Jobs In Gaming's Latest Layoffs
+ - [https://www.gamespot.com/articles/the-callisto-protocol-dev-cuts-more-jobs-in-gamings-latest-layoffs/1100-6529696/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-callisto-protocol-dev-cuts-more-jobs-in-gamings-latest-layoffs/1100-6529696/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T08:31:00+00:00
+
+<p>Striking Distance Studios, the Krafton-owned game studio that made 2022's <a href="https://www.gamespot.com/games/the-callisto-protocol/">The Callisto Protocol</a> and 2024's <a href="https://www.gamespot.com/games/redacted/">Redacted</a>, has undergone a new round of layoffs. This follows on from a <a href="https://www.gamespot.com/articles/the-callisto-protocol-dev-striking-distance-studios-lays-off-more-than-30-staff/1100-6516498/">previous round of cuts in 2023.</a></p><p>In a statement to GameSpot, Striking Distance confirmed that it has "reduced the size of its team" in an effort to "remain agile." The statement also stressed that the cuts were part of a drive to establish a "sustainable environment" at the studio for the "current stage of development on future projects."</p><p>Striking Distance does not have any upcoming games that have been announced, but the statement confirmed that the team "remains operational" and that the layoffs "will not impact any planned ongoing s
+
+## Retro Publisher Admits SNES And Genesis Re-Releases Contain "Uncredited" Fan Translations
+ - [https://www.gamespot.com/articles/retro-publisher-admits-snes-and-genesis-re-releases-contain-uncredited-fan-translations/1100-6529699/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/retro-publisher-admits-snes-and-genesis-re-releases-contain-uncredited-fan-translations/1100-6529699/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T08:22:00+00:00
+
+<p dir="ltr">Retro-Bit Publishing, a company that specializes in re-releasing mostly Japan-exclusive 8- and 16-bit games on modern consoles, was recently accused of using existing fan translations in their ports without credit. The company confirmed that the charges are indeed true, and that it plans to "offer a means of resolution" to the translators whose work went uncredited.</p><p dir="ltr">The four games in question are Shockman Zero, Assault Suits Valken, Gley Lancer, and Majyuo: King of Demons. These claims were first made by <a href="https://krokodyl.github.io/post/2025/02/retro-zero/">translator Krokodyl</a> on their blog, who cited identical dialogue in several of the games, as well as custom fonts created by fan translators. The most damning piece of evidence is in Gley Lancer, where the fan translator MIJET added their own name to the Japanese version of the game's credits, which you can find in Retro-Bit's version, clearly indicating that someone else's work was used. As
+
+## Fable Delayed To 2026
+ - [https://www.gamespot.com/articles/fable-delayed-to-2026/1100-6529698/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fable-delayed-to-2026/1100-6529698/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T08:06:00+00:00
+
+<p>Microsoft and Playground Games have announced that the new Fable game has been delayed to 2026. This update from the head of Xbox Games Studios, Craig Duncan, on the <a href="https://news.xbox.com/en-us/podcast/xbox-game-studios-update-with-craig-duncan-official-xbox-podcast/">official Xbox podcast</a>.</p><p>This story is still developing...</p>
+
+## Switch 2 Could Launch In June For $400, Ex-Nintendo Sales Lead Predicts
+ - [https://www.gamespot.com/articles/switch-2-could-launch-in-june-for-400-ex-nintendo-sales-lead-predicts/1100-6529688/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/switch-2-could-launch-in-june-for-400-ex-nintendo-sales-lead-predicts/1100-6529688/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T07:50:00+00:00
+
+<p>Up until the moment the <a href="https://www.gamespot.com/articles/switch-2-release-date-specs-display-price/1100-6520278/">Nintendo Switch 2</a> is actually in players' hands, it's going to be a hotbed for speculation and rumors. Nintendo itself is expected to stay quiet until the planned <a href="https://www.gamespot.com/articles/nintendo-switch-2-revealed-launch-date/1100-6528762/">Nintendo Direct in April</a> before shedding any further light on its next-gen system. But one of Nintendo's ex-employees isn't bound by his former company's restrictions, and he's sharing his insight into Switch 2's pricing and its potential release window.</p><p>The <a href="https://www.youtube.com/watch?v=aTB3q4ib_0M">Kit &amp; Krysta</a> podcast recently welcomed a former Nintendo sales lead named Sean to the show. Although Sean did not disclose his last name during his appearance, he did stress that all of the "leaks" from retailers about Switch 2's price and release date are simply estimates or
+
+## Wizards Of The Coast Apparently Cancels Game Led By Dragon Age Veteran
+ - [https://www.gamespot.com/articles/wizards-of-the-coast-apparently-cancels-game-led-by-dragon-age-veteran/1100-6529697/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/wizards-of-the-coast-apparently-cancels-game-led-by-dragon-age-veteran/1100-6529697/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T07:36:00+00:00
+
+<p>Wizards of the Coast has seemingly canceled its AAA game project at the Skeleton Key studio. Very little is known about the game, but it was mostly likely in the horror genre as the studio <a href="https://x.com/SkeletonKeyDev">describes itself</a> as creating "thought-provoking moments of suspense and horror guiding players to have fun and face their fears."</p><p>Skeleton Key's audio director said <a href="https://www.linkedin.com/posts/gamesound_opentowork-activity-7299748721108340736-Z85S?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAQgvBIBcue4YPrQMQ6FKHefNWcYQOld0Wk">he was laid off due to the game's cancelation</a>. It's unclear how many other developers were impacted or if Skeleton Key will continue operations. GameSpot has reached out to Wizards of the Coast for comment.</p><p>In 2022, former BioWare veteran Christian Dailey <a href="https://company.wizards.com/en/news/wizards-of-the-coast-announces-new-studio-skeleton-key">joined Skeleton Key</a> as its vic
+
+## Rumored God Of War Remasters For PS5 Could Be Revealed In March
+ - [https://www.gamespot.com/articles/rumored-god-of-war-remasters-for-ps5-could-be-revealed-in-march/1100-6529692/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/rumored-god-of-war-remasters-for-ps5-could-be-revealed-in-march/1100-6529692/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T07:02:00+00:00
+
+<p>Remasters of the classic God of Wars games are reportedly in development, and it's rumored that they could be revealed next month, just in time for the 20th anniversary of the franchise.</p><p>According to reporter Jeff Grubb of GameSpot sister site Giant Bomb--who was commenting on artwork set to be shown off next month during a God of War anniversary event--the previous reports had been premature and he believes the rumored remasters will be announced near the March anniversary. "I think that those God of War remaster rumors just jumped the gun a little bit. That stuff will happen closer to this," <a href="https://bsky.app/profile/grubb.wtf/post/3liqdacmdnc23">Grubb wrote in a Bluesky post</a>.</p><div data-embed-type="video" data-ref-id="2300-6459625" data-src="/videos/the-complete-god-of-war-timeline-explained/2300-6459625/" data-width="100%" data-height="100%" data-video-start="0">          <iframe height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscreen
+
+## New Star Wars Game Seemingly Unaffected By Major NetEase Shakeup
+ - [https://www.gamespot.com/articles/new-star-wars-game-seemingly-unaffected-by-major-netease-shakeup/1100-6529693/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/new-star-wars-game-seemingly-unaffected-by-major-netease-shakeup/1100-6529693/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T07:01:00+00:00
+
+<p>Quantic Dream, the developer behind the upcoming Star Wars Eclipse, has apparently been unaffected by the recent shakeup over at NetEase.</p><p>"We want to reassure everyone that our studios in Paris and Montreal remain unaffected," explained Quantic Dream CEO Guillaume de Fondaumière on <a href="https://www.linkedin.com/posts/defondaumiere_quantic-dream-jobs-activity-7300062734602100737-dpnq/">LinkedIn</a>. "We are continuing to develop our projects at full pace, with several open positions available in both locations."</p><p>Earlier this month, <a href="https://www.gamespot.com/articles/marvel-rivals-devs-laid-off-despite-the-games-huge-success/1100-6529559/">NetEase laid off the US-based employees working on Marvel Rivals</a>. NetEase is <a href="https://www.gamespot.com/articles/marvel-rivals-cancelation-was-considered-before-release-netease-making-changes-report/1100-6529647/">reportedly shopping its non-China studios around</a>, even though NetEase publicly reaffirmed its co
+
+## Silent Hill 2 Remake Dev Working With Konami Again On A Mystery Game
+ - [https://www.gamespot.com/articles/silent-hill-2-remake-dev-working-with-konami-again-on-a-mystery-game/1100-6529690/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/silent-hill-2-remake-dev-working-with-konami-again-on-a-mystery-game/1100-6529690/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T06:46:00+00:00
+
+<p>Bloober Team and Konami are staying in business together following the successful launch of the Silent Hill 2 remake in 2024. The Polish developer <a href="https://blooberteam.prowly.com/383560-bloober-team-and-konami-continue-their-collaboration">said today</a> that it has signed a deal with Konami to make a "new game based on Konami's IP." There is no word on what that IP is, however.</p><p>Bloober Team CEO Piotr Babieno said in a statement that "the success of Silent Hill 2 speaks for itself." He added, "We can't reveal too many details at this time, but we are confident that fans will be just as excited about our collaboration as we are."</p><p>As for when Bloober Team's new game may be revealed, Babieno said it will be "when the time is right."</p><a href="https://www.gamespot.com/articles/silent-hill-2-remake-dev-working-with-konami-again-on-a-mystery-game/1100-6529690/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Call Of Duty Uses Generative AI For Some Content, Activision Admits
+ - [https://www.gamespot.com/articles/call-of-duty-uses-generative-ai-for-some-content-activision-admits/1100-6529691/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/call-of-duty-uses-generative-ai-for-some-content-activision-admits/1100-6529691/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-25T06:00:00+00:00
+
+<p>An update to the Call of Duty HQ page on Steam confirms that Activision's development teams do in fact use "generative AI tools" as a means to "help develop some in-game assets."</p><p>About a year ago, it came to light that <a href="https://store.steampowered.com/news/group/4145017/view/3862463747997849618">Steam would begin to ask developers</a> to disclose if and how AI is used in any given game. The <a href="https://store.steampowered.com/app/1938090/Call_of_Duty/">Call of Duty HQ page</a> now discloses this, but it does not get into any specifics regarding the use of generative AI tools in the game.</p><p>The Call of Duty HQ app encompasses multiple Call of Duty games, including Black Ops 6, Modern Warfare 3, Modern Warfare 2, and Warzone.</p><a href="https://www.gamespot.com/articles/call-of-duty-uses-generative-ai-for-some-content-activision-admits/1100-6529691/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+

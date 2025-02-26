@@ -1,0 +1,233 @@
+# Source:It's A Digital Disease!, URL:https://www.reddit.com/r/DataHoarder/.rss, language:en
+
+## Hexus forum shutting down (deletion) because of the UK 2023 online safety act
+ - [https://www.reddit.com/r/DataHoarder/comments/1iy7non/hexus_forum_shutting_down_deletion_because_of_the](https://www.reddit.com/r/DataHoarder/comments/1iy7non/hexus_forum_shutting_down_deletion_because_of_the)
+ - RSS feed: $source
+ - date published: 2025-02-25T22:21:35+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Magnets"> /u/Magnets </a> <br/> <span><a href="https://forums.hexus.net/hexus-news/426608-looks-like-end-hexus-forums.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DataHoarder/comments/1iy7non/hexus_forum_shutting_down_deletion_because_of_the/">[comments]</a></span>
+
+## rapidgator service and md5 checksums
+ - [https://www.reddit.com/r/DataHoarder/comments/1iy6y42/rapidgator_service_and_md5_checksums](https://www.reddit.com/r/DataHoarder/comments/1iy6y42/rapidgator_service_and_md5_checksums)
+ - RSS feed: $source
+ - date published: 2025-02-25T21:51:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>In the past when I was using rapidgator in free mode to download some file I remember it had some very convenient option to display md5 checksum of the downloaded file.</p> <p>Yesterday when I checked this service I was not able to find this md5 checksum. Is it gone or was it moved somewhere from the main download page?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lexard"> /u/Lexard </a> <br/> <span><a href="https://www.reddit.com/r/DataHoarder/comments/1iy6y42/rapidgator_service_and_md5_checksums/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DataHoarder/comments/1iy6y42/rapidgator_service_and_md5_checksums/">[comments]</a></span>
+
+## I’ve been data hoarding without realizing it. Looking to make it official with a real storage solution.
+ - [https://www.reddit.com/r/DataHoarder/comments/1iy5kcd/ive_been_data_hoarding_without_realizing_it](https://www.reddit.com/r/DataHoarder/comments/1iy5kcd/ive_been_data_hoarding_without_realizing_it)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:55:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DataHoarder/comments/1iy5kcd/ive_been_data_hoarding_without_realizing_it/"> <img src="https://preview.redd.it/j1saijmcmcle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b22c817b9fbe849d72773c9787348c67e844f67f" alt="I’ve been data hoarding without realizing it. Looking to make it official with a real storage solution." title="I’ve been data hoarding without realizing it. Looking to make it official with a real storage solution." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I have about 125TB of media stored on external HDDs. I’ve always loved to collect the movies/shows/music I watch but have always just purchased a new external drive whenever I needed new space. (Not pictured are 3 other drives)</p> <p>I found this subreddit recently and that discovery led me to: (1) become incredibly inspired by the systems you all have to manage your data, (2) realize that I am not crazy for my data hoarding practices, and (3) that I d
+
+## pending sectors increased by 6 in the last two days
+ - [https://www.reddit.com/r/DataHoarder/comments/1iy5emy/pending_sectors_increased_by_6_in_the_last_two](https://www.reddit.com/r/DataHoarder/comments/1iy5emy/pending_sectors_increased_by_6_in_the_last_two)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:48:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DataHoarder/comments/1iy5emy/pending_sectors_increased_by_6_in_the_last_two/"> <img src="https://b.thumbs.redditmedia.com/-XuvW9AqsUyig8MUoOAVki3QZC01Px1qzjclCmqMYyg.jpg" alt="pending sectors increased by 6 in the last two days" title="pending sectors increased by 6 in the last two days" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/mtmtv0rvkcle1.png?width=1510&amp;format=png&amp;auto=webp&amp;s=3ad901e980f9427185ebb0f8cda48027b1b28e1c">https://preview.redd.it/mtmtv0rvkcle1.png?width=1510&amp;format=png&amp;auto=webp&amp;s=3ad901e980f9427185ebb0f8cda48027b1b28e1c</a></p> <p>In the last two days, my drive’s health dropped from 52 (which had been stable for over a year) to 49, and I’m worried it might keep declining until it eventually fails.</p> <p>The bad sectors haven’t increased, only pending sectors have.</p> <p>I bought a power SATA extender a month ago could that be causing the issue?</p> <
+
+## First data server
+ - [https://www.reddit.com/r/DataHoarder/comments/1iy4n8m/first_data_server](https://www.reddit.com/r/DataHoarder/comments/1iy4n8m/first_data_server)
+ - RSS feed: $source
+ - date published: 2025-02-25T20:16:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello! I have decided to at least start informing myself more on the complexities of running a home data server. I already have a server which I picked up for free to run a minecraft server (which I&#39;ve been doing for years) but it&#39;s an old hunk of junk. I decided to look into its specs and it has 4sata ports, 2 pci-e 16x connectors, and 1 pci-e 1x connector.</p> <p>Now, as I&#39;m a total noob I&#39;ve no clue what any of this means. Is this any good? And can I use whatever cheap dated drives I can find? It&#39;d mainly serve as a backup because I don&#39;t trust my laptop to safely hold everything. (It&#39;s a lump of trash holding on by a thread). I&#39;ve got a pile of old 160gb and 500gb HDDs laying around and was wondering if these would work as a first attempt. Any tips and advice is dearly welcome.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kitkatsarts"> /u/kitkatsarts </a> <br/> <span><a hre
+
+## Reliable HDD to buy
+ - [https://www.reddit.com/r/DataHoarder/comments/1iy3njt/reliable_hdd_to_buy](https://www.reddit.com/r/DataHoarder/comments/1iy3njt/reliable_hdd_to_buy)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:35:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to buy an HDD in which I can backup my music, movies, downloaded videos and other stuff. Which HDD is reliable and cheap for my usage.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SHUVA_META"> /u/SHUVA_META </a> <br/> <span><a href="https://www.reddit.com/r/DataHoarder/comments/1iy3njt/reliable_hdd_to_buy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DataHoarder/comments/1iy3njt/reliable_hdd_to_buy/">[comments]</a></span>
+
+## Hoarding 1000+ TikTok videos
+ - [https://www.reddit.com/r/DataHoarder/comments/1iy2z4z/hoarding_1000_tiktok_videos](https://www.reddit.com/r/DataHoarder/comments/1iy2z4z/hoarding_1000_tiktok_videos)
+ - RSS feed: $source
+ - date published: 2025-02-25T19:07:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have three different tools that can save TikTok videos from an account en masse. However, all at least partially three fail with accounts with 5+ years of history and multi-thousands of videos. One fails completely. Two others successfully download the latest 900 or so videos from that single account but act as if the older ones don&#39;t exist. </p> <p>Has anyone successfully backed up a large public tiktok account? If so what did you use to do it? Or was there some magic tiktok URL you could use to see only videos from a particular year or some other way of flitering?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/scoliadubia"> /u/scoliadubia </a> <br/> <span><a href="https://www.reddit.com/r/DataHoarder/comments/1iy2z4z/hoarding_1000_tiktok_videos/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DataHoarder/comments/1iy2z4z/hoarding_1000_tiktok_videos/">[comments]</a></span>
+
+## PROMISE PEGASUS2 R8 - Is it limited to 48TB ?
+ - [https://www.reddit.com/r/DataHoarder/comments/1iy0y78/promise_pegasus2_r8_is_it_limited_to_48tb](https://www.reddit.com/r/DataHoarder/comments/1iy0y78/promise_pegasus2_r8_is_it_limited_to_48tb)
+ - RSS feed: $source
+ - date published: 2025-02-25T17:45:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m going to buy new hard-drives to my PROMISE PEGASUS2 R8 unit. I found some documentation on the manufacturer website but it is not clear if those units will work with HDs bigger than 6TB (each).</p> <p><a href="https://www.promiseworks.com/datasheets/Pegasus2_DS.pdf">https://www.promiseworks.com/datasheets/Pegasus2_DS.pdf</a></p> <p><a href="https://www.promise.com/DownloadFile.aspx?DownloadFileUID=6600">https://www.promise.com/DownloadFile.aspx?DownloadFileUID=6600</a></p> <p>Anyone have some experience with that?</p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/angelomarzolla"> /u/angelomarzolla </a> <br/> <span><a href="https://www.reddit.com/r/DataHoarder/comments/1iy0y78/promise_pegasus2_r8_is_it_limited_to_48tb/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DataHoarder/comments/1iy0y78/promise_pegasus2_r8_is_it_limited_to_48tb/">[comments]</a></span>
+
+## Can you reccomend me a good entry level NAS?
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixzlpl/can_you_reccomend_me_a_good_entry_level_nas](https://www.reddit.com/r/DataHoarder/comments/1ixzlpl/can_you_reccomend_me_a_good_entry_level_nas)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:51:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>Excuse me if this isn&#39;t the subreddit to ask.</p> <p>A friend of mine gave me a couple HDDs and i thought that it would be cool and practical to make my own cloud since you can&#39;t hoard much without paying dropbox a small fortune and the numbers add up. But other than i need a NAS for that i have no idea where to start.</p> <p>I have only 2 +1 requisites</p> <p>1) multiple users, since it is for family and friends<br/> 2) simple to configure and accesible from outside my local network<br/> 3) on pc i should be able to have an autosync folder like dropbox does (this one is important) </p> <p>any info will be appreciated.<br/> thanks </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mejillonius"> /u/mejillonius </a> <br/> <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixzlpl/can_you_reccomend_me_a_good_entry_level_nas/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DataHoarde
+
+## Hard Drive For iPhone Storage
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixzasb/hard_drive_for_iphone_storage](https://www.reddit.com/r/DataHoarder/comments/1ixzasb/hard_drive_for_iphone_storage)
+ - RSS feed: $source
+ - date published: 2025-02-25T16:38:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m not a very tech savvy person when it comes to Apple products so be gentle. </p> <p>I have an iPhone 15 and it is full with photos/videos that need to be moved. I’m not super interested in paying a monthly cloud storage fee right now. I am wondering if there is any external hard drive that people use that allows them to move data (mainly photos/videos) right from their iPhone specifically to that external hard drive. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Skywalker3221"> /u/Skywalker3221 </a> <br/> <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixzasb/hard_drive_for_iphone_storage/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixzasb/hard_drive_for_iphone_storage/">[comments]</a></span>
+
+## Anyone know what this means in Teracopy?
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixxkg1/anyone_know_what_this_means_in_teracopy](https://www.reddit.com/r/DataHoarder/comments/1ixxkg1/anyone_know_what_this_means_in_teracopy)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:26:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DataHoarder/comments/1ixxkg1/anyone_know_what_this_means_in_teracopy/"> <img src="https://b.thumbs.redditmedia.com/sh8zX3_Y0XWaTV_f_I3SZtE3Oa27Egu4_i__JRb5J4E.jpg" alt="Anyone know what this means in Teracopy?" title="Anyone know what this means in Teracopy?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So I&#39;ve been having teracopy having issues for awhile now...what is weird though is that I don&#39;t get a single error code. Two issues overall.</p> <p>1) After a random amount of time(sometimes 30 minutes, sometimes 4 hours in) teracopy just pauses transferring. It literally just hangs on a file, no error and not technically paused or anything, its like it just froze. I can still press buttons but for instance pressing stop won&#39;t actually do anything. I have to always restart the maching to be able to continue.</p> <p>2) I get this image sometimes with these red arrows. I checked on teracopys site for tech support and
+
+## Trying to digitize tapes with JVC HR-S7722 + AVI TV Wonder 600 USB s-video capture card. Getting flickering rectangles in VirtualDub AVI capture view. Any guess as to what's causing it? Works fine on TV with s-video input but for some reason the capture flickers really badly.
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixxh6l/trying_to_digitize_tapes_with_jvc_hrs7722_avi_tv](https://www.reddit.com/r/DataHoarder/comments/1ixxh6l/trying_to_digitize_tapes_with_jvc_hrs7722_avi_tv)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:22:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DataHoarder/comments/1ixxh6l/trying_to_digitize_tapes_with_jvc_hrs7722_avi_tv/"> <img src="https://external-preview.redd.it/bndwMnpzbXZ5YWxlMQFaSVw1uQDNCNVDSUsIvsRHo5bYAJ-rR531rRRfBx7l.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dca57b55fcc66281e1fda31b3aa41a8839852bd8" alt="Trying to digitize tapes with JVC HR-S7722 + AVI TV Wonder 600 USB s-video capture card. Getting flickering rectangles in VirtualDub AVI capture view. Any guess as to what's causing it? Works fine on TV with s-video input but for some reason the capture flickers really badly." title="Trying to digitize tapes with JVC HR-S7722 + AVI TV Wonder 600 USB s-video capture card. Getting flickering rectangles in VirtualDub AVI capture view. Any guess as to what's causing it? Works fine on TV with s-video input but for some reason the capture flickers really badly." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ruinous_Calamity"> /u/R
+
+## Replacing failing Terra-Master NAS
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixx0vh/replacing_failing_terramaster_nas](https://www.reddit.com/r/DataHoarder/comments/1ixx0vh/replacing_failing_terramaster_nas)
+ - RSS feed: $source
+ - date published: 2025-02-25T15:02:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve got a Terra-Master F5-221 NAS, running OMV7 on Debian 6 (from an external NVMe disk instead of the NAS&#39;s native OS). It&#39;s used for backup/media storage with 4x 12TB WD Reds in linux software RAID5, and runs a few Docker services, including Plex, Mosquitto, WebDAV etc.</p> <p>It&#39;s starting to suffer from a hardware failure, as it drops off the network roughly once a week with nothing to see in the logs apart from occasional page faults. So, I&#39;m thinking about replacing before it becomes terminal, and trying to work out what direction to take.</p> <p>Its replacement needs to be fairly small, quiet and headless, to reuse the HDDs, and to support Docker. I want to retain some kind of disk redundancy, and if I can get away without rebuilding the current RAID array, that&#39;d certainly be a plus. Ideally, I&#39;d like something with a bit more CPU headroom than the 2GHz Celeron in the current NAS, to make Plex more performant. I&#
+
+## Aftermarket SSD Help
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixwvoe/aftermarket_ssd_help](https://www.reddit.com/r/DataHoarder/comments/1ixwvoe/aftermarket_ssd_help)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:56:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a 64-bit system and I just purchased an aftermarket SSD. I was having troubles getting it to function properly when I found out this morning that the only Windows OSes it works for ended at Windows 10 (go figure). </p> <p>Because this is aftermarket, no manufacture shows up in the properties. So, there&#39;s no one to contact for an updated driver. That&#39;s what I&#39;m looking for, a driver that will work with this SSD on Windows 11.</p> <p>Any help would be appreciated. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hwrd69"> /u/hwrd69 </a> <br/> <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixwvoe/aftermarket_ssd_help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixwvoe/aftermarket_ssd_help/">[comments]</a></span>
+
+## What's the best way to determine the "Best" episode of 2 rips of a TV Series with hundreds of episodes (SNL)? And what to do with the "other" copies?
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixwkoi/whats_the_best_way_to_determine_the_best_episode](https://www.reddit.com/r/DataHoarder/comments/1ixwkoi/whats_the_best_way_to_determine_the_best_episode)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:43:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>For reference: these are files being stored and organized in my Plex library.</p> <p>Years ago I got a collection of SNL Seasons 1 - 40. They&#39;re all AVI files.</p> <p>Recently I got a collection of SNL Seasons 1 - 50. Also all AVI files.</p> <p>Some of these files are most likely identical (same file size to the KB). But some are different. The earlier the season the more different the file sizes.</p> <p>What is the most efficient way of determining which episode I should put on my Plex server for an SNL rewatch? I mean, I COULD pull all the files into premiere pro and examine both resolution and length (thinking anything substantially longer will have stuff that was cut in reruns/on Peacock due to rights issues). But that would take me days.</p> <p>I can do the &quot;compare file size&quot; by hand and pick the bigger file and just cross my fingers, but that&#39;s still highly manual, time consuming, and not very accurate.</p> <p>Then...this IS 
+
+## Synology DS224+ vs UGREEN DXP2800 – Best NAS for a Beginner?
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixweaq/synology_ds224_vs_ugreen_dxp2800_best_nas_for_a](https://www.reddit.com/r/DataHoarder/comments/1ixweaq/synology_ds224_vs_ugreen_dxp2800_best_nas_for_a)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:35:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone,</p> <p>I&#39;m looking to get my first NAS and could use some advice on choosing between the <strong>Synology DS224+</strong> and the <strong>UGREEN DXP2800</strong>. I&#39;m completely new to NAS setups, so ease of use and reliability are important to me.</p> <p>My main use cases:</p> <ol> <li><strong>Photo storage &amp; easy access</strong> (ideally with a user-friendly app - right now I am using Google Photos)</li> <li><strong>Document storage &amp; organization</strong></li> <li><strong>Centralizing my large music collection</strong> (currently scattered across multiple HDDs)</li> <li><strong>Experimenting with Plex/Jellyfin</strong> (not sure yet if I&#39;ll need transcoding)</li> </ol> <p>I’d love to hear from those who have experience with either of these NAS models. Which one would be a better fit for a beginner? Are there any major downsides to either?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddi
+
+## I think I'm looking for an n100 (w/ case or not, at least 3x SATA, at least 2x M.2).
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixvwse/i_think_im_looking_for_an_n100_w_case_or_not_at](https://www.reddit.com/r/DataHoarder/comments/1ixvwse/i_think_im_looking_for_an_n100_w_case_or_not_at)
+ - RSS feed: $source
+ - date published: 2025-02-25T14:12:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>Not sure if this is good to post here or not. Seeking suggestions for hardware. If not, please remove. </p> <p>I think I&#39;m looking for an n100 (w/ case or not, at least 3x SATA, at least 2x M.2).</p> <p>I&#39;m trying to build a second NAS for Truenas Scale to serve solely as a off-site (weekly(?)) backup server. Don&#39;t need high performance, but stability and low power (+low cost-ish). So, I think a good option would be a n100 based system. Would you agree?</p> <p>I&#39;m feeling overwhelmed with the options. I&#39;ve seen some that have a enclosure plus drive bays, but I have some old random cases I could use if I can find just the board itself, or board with power. I&#39;m happy to jerry rig something.</p> <p>It seems like a 12th gen 4core would be more than enough. I need about 3x SATA ports and 2x M.2 ports *system + cache ). 1gig ethernet is fine.</p> <p>Thanks for any pointers!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="
+
+## HDD Surface Test Speed Question
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixskud/hdd_surface_test_speed_question](https://www.reddit.com/r/DataHoarder/comments/1ixskud/hdd_surface_test_speed_question)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:11:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all. I&#39;ve obtained a used 3.5 12TB HDD, now looking to do a full read/write surface test before putting into service. My previously largest 4TB external USB HDD took around 13hrs. I&#39;d prefer to run the test at a time it&#39;s least at risks of disruption from knocks/shaky washing machine next room, but if it takes nearly 40hrs that&#39;s a real challenge...so shortening the time is of interest. I intend to run it in a 3.5 enclosure that has 1xUSB3 and 1xUSB2 plug to run into the PC.</p> <p>I&#39;d appreciate if any of you highly experienced folk had guidance on what is most likely the limiting factor for surface scan speed? From CPU of the PC, to the enclosure, to the drive itself? I&#39;m also open to any other guidance in general.</p> <p>Thank you!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rslegacy86"> /u/rslegacy86 </a> <br/> <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixsku
+
+## NAS with dual NAS/DAS functionality?
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixsijl/nas_with_dual_nasdas_functionality](https://www.reddit.com/r/DataHoarder/comments/1ixsijl/nas_with_dual_nasdas_functionality)
+ - RSS feed: $source
+ - date published: 2025-02-25T11:07:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have certain software that only works with directly-attached-storage (DAS), external USB drives are fine, but network storage is a no-go.</p> <p>I currently have a SW workaround that tricks the OS into believing the NAS is DAS, but this comes at a significant performance overhead.</p> <p>Are there NAS products that can present <strong>the same storage</strong> as DAS for one machine, ideally via thunderbolt, and as NAS for the rest of the network via Ethernet?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Crastinator_Pro"> /u/Crastinator_Pro </a> <br/> <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixsijl/nas_with_dual_nasdas_functionality/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixsijl/nas_with_dual_nasdas_functionality/">[comments]</a></span>
+
+## Date Rescue Project Update
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixs4k8/date_rescue_project_update](https://www.reddit.com/r/DataHoarder/comments/1ixs4k8/date_rescue_project_update)
+ - RSS feed: $source
+ - date published: 2025-02-25T10:41:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>I wanted to come back and thank this community for all of the support during the past few weeks. We were really busy for a while there but I have a some updates about the group. </p> <ul> <li>We have a website: <a href="https://www.datarescueproject.org">https://www.datarescueproject.org</a> and a newsletter function you can sign up for. We are only doing posts once or twice a week at most. </li> <li>The more active place is still the bluesky account: <a href="https://bsky.app/profile/datarescueproject.org">https://bsky.app/profile/datarescueproject.org</a> </li> <li>A more interesting development is that we&#39;ve created a Data Rescue Tracker: <a href="https://www.datarescueproject.org/data-rescue-tracker/">https://www.datarescueproject.org/data-rescue-tracker/</a> To help us coordinate and track the various efforts happening to rescue data. This has gained traction and we have several data sources coming soon into the tracker (hopefully). It won&#
+
+## Ideas!
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixn3w4/ideas](https://www.reddit.com/r/DataHoarder/comments/1ixn3w4/ideas)
+ - RSS feed: $source
+ - date published: 2025-02-25T04:58:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all. One of my favourite things to hoard outside of music and movies is reference material, both physical and digital. I recently found out about HTTrack (fantastic tool!) because I wanted to archive/have an offline copy of xconvert, as I wanted to be able to perform conversions of almost anything without internet. So my question is, what other types of reference websites/materials would be a good idea to save a local offline copy of?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/twoticksred"> /u/twoticksred </a> <br/> <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixn3w4/ideas/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixn3w4/ideas/">[comments]</a></span>
+
+## Seeking Input on Data Storage Expansion
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixn3f6/seeking_input_on_data_storage_expansion](https://www.reddit.com/r/DataHoarder/comments/1ixn3f6/seeking_input_on_data_storage_expansion)
+ - RSS feed: $source
+ - date published: 2025-02-25T04:57:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>My desktop hard drives are maxing out &amp; I&#39;m seeking some type of external storage expansion for my PC which I run a Jellyfin server on. This would be for working towards a 3-2-1 backup solution for data equivalent to about ~10-20Tbs of storage space, maybe more.</p> <p>I&#39;m leaning towards an enclosure type of setup with several ~10-12Tbs HDDs in it of which one would be removed after complete backup and stored offsite as part of the 3-2-1 strategy but I&#39;m not sure. I&#39;d need something very simple to work with as I&#39;m not very Hardware-literate. </p> <p>Any positive suggestions on how fellow hoarders store &amp; access large amounts of data safely for a long period of time would be most appreciated. Thanks! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Original_Giraffe3544"> /u/Original_Giraffe3544 </a> <br/> <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixn3f6/seeking_inp
+
+## What is the easiest way to calculate data transfer
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixmq66/what_is_the_easiest_way_to_calculate_data_transfer](https://www.reddit.com/r/DataHoarder/comments/1ixmq66/what_is_the_easiest_way_to_calculate_data_transfer)
+ - RSS feed: $source
+ - date published: 2025-02-25T04:35:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am in the process of cloning a WD 16TB Home Duo to a stock standard Seagate no fan, not networked normal external drive (see previous posts) and I am unsure if I am doing something wrong or could find some way of speeding up the process.</p> <p>Through many files on the original 16TB, I am transferring 11TB, I have already endured 33 hours and 40 minutes, to transfer 3.62TB. 11 hours and 42 minutes for 1.26TB.</p> <p>Even though I am autistic I did not inherit the math gene, and can&#39;t figure out, in layman&#39;s terms, exactly how long it would take.</p> <p>Just hit 8 hours for 914GB </p> <p>Could I improve it somehow?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Such-Bench-3199"> /u/Such-Bench-3199 </a> <br/> <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixmq66/what_is_the_easiest_way_to_calculate_data_transfer/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DataHoarde
+
+## Synology remote access set up questions
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixkvvj/synology_remote_access_set_up_questions](https://www.reddit.com/r/DataHoarder/comments/1ixkvvj/synology_remote_access_set_up_questions)
+ - RSS feed: $source
+ - date published: 2025-02-25T02:59:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Looking to use my new NAS to do a few things and want to know what the recommended set up is while maintaining security.</p> <p>My needs/wants:</p> <ol> <li>Share files with several friends. This should be simple for them. Not having them install things or create accounts with websites. Giving them a username and password to log in and have access to the files from their home computers or phones. I can then manage their accounts, put them in groups with the permissions to the files I want. This would ideally work remotely and locally however definitely needs to work remotely.</li> <li>Host a public facing website. (Nothing fancy here just concerned about the security implications on the rest of my files)</li> <li>Have full access remotely for myself. Here I am willing to install what ever and create what ever accounts needed. (Seems like quick connect or tailscale might be best here.)</li> <li>Lastly will need the ability for people to plug directly 
+
+## 5 Bay Configuration
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixklt2/5_bay_configuration](https://www.reddit.com/r/DataHoarder/comments/1ixklt2/5_bay_configuration)
+ - RSS feed: $source
+ - date published: 2025-02-25T02:46:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I&#39;m finally dropping some &quot;big&quot; money and splurged for a manufacturer renewed (1) 18TB Ultra star HC550 (from SPD). I have a few smaller 1TB drives, so of course I&#39;m not going to RAID. Am I putting myself into a box by forcing a 5 independent drive array with my slow build process? Or should I wait a little while and wait till I can buy at least 1 more 18TB HDD to then start a RAID configuration? I&#39;d choose RAID 6 probably, if so. Thoughts?</p> <p>Extra info: Orico 5 bay DAS (DS500C3), that I have plugged into my Asus router to use as a NAS, currently with (5) 1TB drives. Those (5) 1TB were all just individual storage drives, no RAID config. Mainly just backed up pics, personal files, movies, games, TV shows, music, etc. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MetalHeadJoe"> /u/MetalHeadJoe </a> <br/> <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixklt2/5_bay_con
+
+## Roxio Toast and BD-XL M-Discs
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixk33c/roxio_toast_and_bdxl_mdiscs](https://www.reddit.com/r/DataHoarder/comments/1ixk33c/roxio_toast_and_bdxl_mdiscs)
+ - RSS feed: $source
+ - date published: 2025-02-25T02:20:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>I&#39;ve recently bought an LG Internal BH16NS55 drive. I have connected this to my M1 Mac Mini with a USB adapter with it&#39;s own power brick. I burnt a bunch of BD-XLs and a BD-DL, and for the first few everything was great! All discs verified. Now I&#39;m having trouble. Two BD-XLs crashed Roxio at around 98%, and then the 3rd gave me a write error: <code>The drive reported an error: Sense Key = MEDIUM ERROR Sense Code = 0x0C WRITE ERROR</code></p> <p>I thought it might be the file layout (?) so a few days later I&#39;ve tried burning a similar file structure to one of my working burns, and it got in 14%, and progress has just stalled. I thought maybe the dialog was just not refreshing properly, and for the first burns it was saying things like 8 hours remaining... seriously buggy software! But no, it&#39;s been probably an hour and a half and it should be finished. So that&#39;s 4 expensive coasters now.</p> <p>Does anyone experience
+
+## Is it possible to archive whole Twitter/X threads, including the pics and videos within them? If so, how?
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixjnvl/is_it_possible_to_archive_whole_twitterx_threads](https://www.reddit.com/r/DataHoarder/comments/1ixjnvl/is_it_possible_to_archive_whole_twitterx_threads)
+ - RSS feed: $source
+ - date published: 2025-02-25T01:59:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve tried searching for ways to archive Twitter/X threads in order to have copies of them in case they&#39;re deleted or their posters get suspended or deactivated. However, none of sites (e.g., archive.org, archive.ph, etc) or methods (saving to PDF) I&#39;ve found is capable of saving entire threads together with their multimedia content. Anyone know of a site or a way to do this? Any solutions offered will be highly appreciated. Thanks in advance.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/melow_shri"> /u/melow_shri </a> <br/> <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixjnvl/is_it_possible_to_archive_whole_twitterx_threads/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixjnvl/is_it_possible_to_archive_whole_twitterx_threads/">[comments]</a></span>
+
+## Data 'hoarder' - How to de-clutter my workflow..
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixjmv6/data_hoarder_how_to_declutter_my_workflow](https://www.reddit.com/r/DataHoarder/comments/1ixjmv6/data_hoarder_how_to_declutter_my_workflow)
+ - RSS feed: $source
+ - date published: 2025-02-25T01:58:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>An external hard drive failure this weekend made me question everything about what I&#39;m doing. I&#39;m a 4+ decade voice actor and my job requires creating sample montages of short clips of my work called Demos. Through the years I&#39;ve accumulated literally hundreds of hours of audio files - because of my daily &#39;auditions&#39; for jobs - (sample reads of a given script that is recorded and returned to clients or agents). As an OCD perfectionist, I have allowed myself to keep - without any structured &#39;cataloguing&#39; routine - tens of thousands of these files -spread across multiple computers and hard drives - in multiple locations. Every few years I should be doing updates of these demos that promote my work...but the sheer volume and scope of what I&#39;ve hoarded has made this a monumentally daunting task to the extent that I&#39;ve not updated anything significantly in at least ten years. For context I&#39;ll add that at this point,
+
+## Local OCR and indexing/search for Windows
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixizk4/local_ocr_and_indexingsearch_for_windows](https://www.reddit.com/r/DataHoarder/comments/1ixizk4/local_ocr_and_indexingsearch_for_windows)
+ - RSS feed: $source
+ - date published: 2025-02-25T01:26:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys, I&#39;m collecting PDF books and I&#39;m looking for software that will OCR the text and allow searching the contents of all the books at once in a local Windows environment. Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Seaweed5270"> /u/No-Seaweed5270 </a> <br/> <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixizk4/local_ocr_and_indexingsearch_for_windows/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixizk4/local_ocr_and_indexingsearch_for_windows/">[comments]</a></span>
+
+## How to properly and automatically have backups in google drive?
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixir8y/how_to_properly_and_automatically_have_backups_in](https://www.reddit.com/r/DataHoarder/comments/1ixir8y/how_to_properly_and_automatically_have_backups_in)
+ - RSS feed: $source
+ - date published: 2025-02-25T01:15:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Basically I want to have regular scheduled backup of my laptops stored in my google drive. It has unlimited storage. Last time I tried to do it I was not able to do it properly. So I want any advice on how to do it properly this time. I am kind of new to this so simple instruction/guides/tools would be helpful.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RandomHuman1002"> /u/RandomHuman1002 </a> <br/> <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixir8y/how_to_properly_and_automatically_have_backups_in/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixir8y/how_to_properly_and_automatically_have_backups_in/">[comments]</a></span>
+
+## Streamlink GUI (downloading Twitch streams for a YouTube channel)
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixijhr/streamlink_gui_downloading_twitch_streams_for_a](https://www.reddit.com/r/DataHoarder/comments/1ixijhr/streamlink_gui_downloading_twitch_streams_for_a)
+ - RSS feed: $source
+ - date published: 2025-02-25T01:05:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone, I’m new to Streamlink GUI and having trouble understanding it. I was wondering if anyone could help me out. I came across the app while researching, but I have little to no experience with it—though I’m eager to learn. I couldn’t find many tutorials on downloading streams, but I did manage to find one that helped me set it up and watch a stream on VLC.</p> <p>My goal: I want to download an entire Twitch livestream, whether it’s already ended or still in progress.</p> <p>Can anyone help me out?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Smileyface1200"> /u/Smileyface1200 </a> <br/> <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixijhr/streamlink_gui_downloading_twitch_streams_for_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixijhr/streamlink_gui_downloading_twitch_streams_for_a/">[comments]</a></span>
+
+## Custom beat-mapping site sythriderz.com has been taken down.
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixhkb1/custom_beatmapping_site_sythriderzcom_has_been](https://www.reddit.com/r/DataHoarder/comments/1ixhkb1/custom_beatmapping_site_sythriderzcom_has_been)
+ - RSS feed: $source
+ - date published: 2025-02-25T00:19:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey all. I thought it might be of interest to some folks here that the custom music/beat-mapping site for Syth Riders, known as <a href="http://SythRiderz.com">SythRiderz.com</a> ( <a href="https://web.archive.org/web/20241127043511/https://synthriderz.com/">https://web.archive.org/web/20241127043511/https://synthriderz.com/</a> )</p> <p>An effort to archive the data, which includes over 3,800 custom songs + mappings, and is likely not going to be put back up can be found through here the discord link here: <a href="https://www.reddit.com/r/SynthRiders/comments/1it138p/synthriderz_down/">https://www.reddit.com/r/SynthRiders/comments/1it138p/synthriderz_down/</a></p> <p>For anyone who needs it there are couple of magnets on Discord, which I won&#39;t provide (nor the discord invite) as they likely don&#39;t need additional outside exposure.</p> <p>Probably a bit of a niche, but I&#39;d hate to see it not get into the hands of those who need it.</p> <p
+
+## Seagate to acquire HAMR technology specialist Intevac in pursuit of 100TB drives
+ - [https://www.reddit.com/r/DataHoarder/comments/1ixh7rp/seagate_to_acquire_hamr_technology_specialist](https://www.reddit.com/r/DataHoarder/comments/1ixh7rp/seagate_to_acquire_hamr_technology_specialist)
+ - RSS feed: $source
+ - date published: 2025-02-25T00:04:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DataHoarder/comments/1ixh7rp/seagate_to_acquire_hamr_technology_specialist/"> <img src="https://external-preview.redd.it/I1wGOmCdDeEdEu7N4tgN9WDfiewJT1-BOpYk4Ztu978.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b8a2683a910d7fdcaf62df594774b684d1ff84d5" alt="Seagate to acquire HAMR technology specialist Intevac in pursuit of 100TB drives" title="Seagate to acquire HAMR technology specialist Intevac in pursuit of 100TB drives" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DrGrinch"> /u/DrGrinch </a> <br/> <span><a href="https://www.techradar.com/pro/race-to-100tb-hdd-heats-up-as-seagate-pulls-rug-under-western-digital-toshiba-feet-by-acquiring-hamr-specialist">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DataHoarder/comments/1ixh7rp/seagate_to_acquire_hamr_technology_specialist/">[comments]</a></span> </td></tr></table>
+
