@@ -1,0 +1,36 @@
+# Source:Deeplinks, URL:https://www.eff.org/rss/updates.xml, language:en
+
+## Fresh Threats to Privacy Around the Globe | EFFector 37.2
+ - [https://www.eff.org/deeplinks/2025/02/fresh-threats-privacy-around-globe-effector-372](https://www.eff.org/deeplinks/2025/02/fresh-threats-privacy-around-globe-effector-372)
+ - RSS feed: $source
+ - date published: 2025-02-26T18:58:36+00:00
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p>EFF is here to keep you up-to-date with the latest news in the world of civil liberties and human rights online with our EFFector newsletter!</p>
+<p>This edition of the newsletter covers Apple's recent decision to <a href="https://www.eff.org/deeplinks/2025/02/cornered-uks-demand-encryption-backdoor-apple-turns-its-strongest-security-setting">turn off Advanced Data Protection</a> for users in the U.K., our <a href="https://www.eff.org/deeplinks/2025/01/mad-meta-dont-let-them-collect-and-monetize-your-personal-data">how-to guide</a> for limiting Meta's ability to collect and monetize your personal data, and our <a href="https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional">recent victory</a> against the government's use of Section 702 to spy on Americans.</p>
+<p>You can<span> </
+
+## EFF to California's Supreme Court: Protect the Privacy of Internet Users' Communications
+ - [https://www.eff.org/deeplinks/2025/02/eff-californias-supreme-court-protect-privacy-internet-users-communications](https://www.eff.org/deeplinks/2025/02/eff-californias-supreme-court-protect-privacy-internet-users-communications)
+ - RSS feed: $source
+ - date published: 2025-02-26T18:45:05+00:00
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p>EFF asked the California Supreme Court not to weaken the Stored Communications Act, a 1986 federal law that restricts how providers can disclose the content of your communications to the government or private parties.</p>
+<p>The law is built on the principle that you have a reasonable expectation of privacy that providers like Snap and Meta will not disclose your communications to third parties, even though the providers have access to those communications as they are stored on their systems. In an <a href="https://www.eff.org/document/snap-meta-v-superior-court-pina-eff-amicus-brief">amicus brief</a>, we urged the court to uphold these privacy protections, as they have for the past 40 years. EFF filed the brief along with the Center for Democracy &amp; Technology and the Mozilla Corporation.</p>
+<p>A <a href="https://law.justia.com/cases/ca
+
+## Anti-Surveillance Mapmaker Refuses Flock Safety's Cease and Desist Demand
+ - [https://www.eff.org/deeplinks/2025/02/anti-surveillance-mapmaker-refuses-flock-safetys-cease-and-desist-demand](https://www.eff.org/deeplinks/2025/02/anti-surveillance-mapmaker-refuses-flock-safetys-cease-and-desist-demand)
+ - RSS feed: $source
+ - date published: 2025-02-26T18:08:13+00:00
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p><span data-contrast="auto">Flock Safety loves to crow about the thousands of local law enforcement agencies around the United States that have adopted its </span><a href="https://www.flocksafety.com/articles/product-announcement-q2-2023"><span data-contrast="none">avian</span></a><span data-contrast="auto">-</span><a href="https://swshoa.com/wp-content/uploads/2024/12/Flock-Safety.pdf"><span data-contrast="none">themed</span></a> <a href="https://www.eff.org/cases/automated-license-plate-readers"><span data-contrast="none">automated license plate readers</span></a><span data-contrast="auto"> (ALPRs). But when a privacy activist launched a website to map out the exact locations of these pole-mounted devices, the company tried to clip his wings. </span><span data-ccp-props="{}"> </span></p>
+<p><span data-contrast="auto">The company sent </span
+
+## EFF to UK PM Starmer: Call Sisi to Free Alaa and Save Laila
+ - [https://www.eff.org/deeplinks/2025/02/eff-uk-pm-starmer-call-sisi-free-alaa-and-save-laila](https://www.eff.org/deeplinks/2025/02/eff-uk-pm-starmer-call-sisi-free-alaa-and-save-laila)
+ - RSS feed: $source
+ - date published: 2025-02-26T03:17:06+00:00
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p><span>UK Prime Minister Keir Starmer made </span><a href="https://x.com/Keir_Starmer/status/1891082392938398002"><span>a public commitment</span></a><span> on February 14 to Laila Soueif, the mother of </span><a href="https://www.eff.org/offline/alaa-abd-el-fattah#main-content"><span>Alaa Abd El Fattah</span></a><span>, stating “</span><span>I will do all that I can to secure the release of her son Alaa Abd el-Fattah and reunite him with his family.” While that commitment was welcomed by the family, it is imperative that it now be followed up with concrete action.</span></p>
+<p><span>Laila has called on PM Starmer to speak directly to President Sisi of Egypt. Starmer has written to Sisi twice, in December and January, and his National Security Adviser, Jonathan Powell, discussed Alaa with Egyptian authorities in Cairo on January 2. UK author
+

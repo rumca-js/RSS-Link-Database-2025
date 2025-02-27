@@ -1,0 +1,361 @@
+# Source:The Times of Israel, URL:https://www.timesofisrael.com/feed, language:en-US
+
+## Texas child dies of measles, the first US death from the disease in a decade
+ - [https://www.timesofisrael.com/texas-child-dies-of-measles-the-first-us-death-from-the-disease-in-a-decade](https://www.timesofisrael.com/texas-child-dies-of-measles-the-first-us-death-from-the-disease-in-a-decade)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:24:17+00:00
+
+<p>State officials say the minor was unvaccinated; top US health official and vaccine critic RFK Jr. claims Texas measles outbreak 'not unusual'</p>
+<p>The post <a href="https://www.timesofisrael.com/texas-child-dies-of-measles-the-first-us-death-from-the-disease-in-a-decade/">Texas child dies of measles, the first US death from the disease in a decade</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/AP25052653529724-1024x640.jpg" title="Texas child dies of measles, the first US death from the disease in a decade" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Bezos restricts Washington Post opinion page, prompting section editor to resign
+ - [https://www.timesofisrael.com/bezos-restricts-washington-post-opinion-page-prompting-head-editor-to-resign](https://www.timesofisrael.com/bezos-restricts-washington-post-opinion-page-prompting-head-editor-to-resign)
+ - RSS feed: $source
+ - date published: 2025-02-26T21:53:01+00:00
+
+<p>Billionaire says the paper's opinion section 'will defend free market and personal liberties' only, as Post's rightward shift sparks praise from Elon Musk and other Trump allies</p>
+<p>The post <a href="https://www.timesofisrael.com/bezos-restricts-washington-post-opinion-page-prompting-head-editor-to-resign/">Bezos restricts Washington Post opinion page, prompting section editor to resign</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2020/01/AP_19275480092866-1024x640.jpg" title="Bezos restricts Washington Post opinion page, prompting section editor to resign" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Director Renen Schorr, influential founder of Sam Spiegel Film School, dies at 72
+ - [https://www.timesofisrael.com/director-renen-schorr-influential-founder-of-sam-spiegel-film-school-dies-at-72](https://www.timesofisrael.com/director-renen-schorr-influential-founder-of-sam-spiegel-film-school-dies-at-72)
+ - RSS feed: $source
+ - date published: 2025-02-26T21:12:57+00:00
+
+<p>After winning three Ophir awards for 'Late Summer Blues,'  filmmaker wanted to make a change in Israeli film culture</p>
+<p>The post <a href="https://www.timesofisrael.com/director-renen-schorr-influential-founder-of-sam-spiegel-film-school-dies-at-72/">Director Renen Schorr, influential founder of Sam Spiegel Film School, dies at 72</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/רנן-שור-צילום-יוסי-צבקר-1024x640.jpeg" title="Director Renen Schorr, influential founder of Sam Spiegel Film School, dies at 72" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## ICC cancels warrant for Hamas military leader Deif, weeks after group confirms death
+ - [https://www.timesofisrael.com/icc-cancels-warrant-for-hamas-military-leader-deif-weeks-after-group-confirms-death](https://www.timesofisrael.com/icc-cancels-warrant-for-hamas-military-leader-deif-weeks-after-group-confirms-death)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:41:34+00:00
+
+<p>Court says 'sufficient and reliable information' that Muhammad Deif was killed last July, will reissue warrant 'should information become available that Mr. Deif is still alive'</p>
+<p>The post <a href="https://www.timesofisrael.com/icc-cancels-warrant-for-hamas-military-leader-deif-weeks-after-group-confirms-death/">ICC cancels warrant for Hamas military leader Deif, weeks after group confirms death</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/AFP__20250130__36WQ2R8__v2__HighRes__PalestinianIsraelWarHamas-1024x640.jpg" title="ICC cancels warrant for Hamas military leader Deif, weeks after group confirms death" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Jewish actress Michelle Trachtenberg dies at 39; no foul play suspected
+ - [https://www.timesofisrael.com/jewish-actress-michelle-trachtenberg-dies-at-39-no-foul-play-suspected](https://www.timesofisrael.com/jewish-actress-michelle-trachtenberg-dies-at-39-no-foul-play-suspected)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:41:12+00:00
+
+<p>Child star who appeared in 'Harriet the Spy,' 'Buffy the Vampire Slayer' and 'Gossip Girl' found unresponsive at Manhattan home, reportedly underwent liver transplant recently</p>
+<p>The post <a href="https://www.timesofisrael.com/jewish-actress-michelle-trachtenberg-dies-at-39-no-foul-play-suspected/">Jewish actress Michelle Trachtenberg dies at 39; no foul play suspected</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/AP465459448553-1024x640.jpg" title="Jewish actress Michelle Trachtenberg dies at 39; no foul play suspected" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Ilya Shametz, 35: Supernova guard planned to visit mom in Germany
+ - [https://www.timesofisrael.com/ilya-shametz-35-supernova-guard-planned-to-visit-mom-in-germany](https://www.timesofisrael.com/ilya-shametz-35-supernova-guard-planned-to-visit-mom-in-germany)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:31:07+00:00
+
+<p>Murdered by Hamas terrorists at the Supernova music festival on October 7</p>
+<p>The post <a href="https://www.timesofisrael.com/ilya-shametz-35-supernova-guard-planned-to-visit-mom-in-germany/">Ilya Shametz, 35: Supernova guard planned to visit mom in Germany</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/Untitled-design220-1024x640.jpg" title="Ilya Shametz, 35: Supernova guard planned to visit mom in Germany" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Sgt. Ariel Eliyahu, 19: Armored Corps soldier baked cookies for friends
+ - [https://www.timesofisrael.com/sgt-ariel-eliyahu-19-armored-corps-soldier-baked-cookies-for-friends](https://www.timesofisrael.com/sgt-ariel-eliyahu-19-armored-corps-soldier-baked-cookies-for-friends)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:27:58+00:00
+
+<p>Killed on October 7 battling the Hamas invasion of southern Israel</p>
+<p>The post <a href="https://www.timesofisrael.com/sgt-ariel-eliyahu-19-armored-corps-soldier-baked-cookies-for-friends/">Sgt. Ariel Eliyahu, 19: Armored Corps soldier baked cookies for friends</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/Untitled-design219-1024x640.jpg" title="Sgt. Ariel Eliyahu, 19: Armored Corps soldier baked cookies for friends" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Abed Al-Karim Al-Nasasra, 50: Dad of 10 slain trying to save partygoers
+ - [https://www.timesofisrael.com/abed-al-karim-al-nasasra-50-dad-of-8-slain-trying-to-save-partygoers](https://www.timesofisrael.com/abed-al-karim-al-nasasra-50-dad-of-8-slain-trying-to-save-partygoers)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:22:41+00:00
+
+<p>Murdered by Hamas near the Re'im Junction on October 7</p>
+<p>The post <a href="https://www.timesofisrael.com/abed-al-karim-al-nasasra-50-dad-of-8-slain-trying-to-save-partygoers/">Abed Al-Karim Al-Nasasra, 50: Dad of 10 slain trying to save partygoers</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/472449439_905917514862835_7473599301515839585_n-e1740568447714-1024x640.jpg" title="Abed Al-Karim Al-Nasasra, 50: Dad of 10 slain trying to save partygoers" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## After logjam, Hamas to release 4 hostage bodies to Israel in quiet, late-night transfer
+ - [https://www.timesofisrael.com/after-logjam-hamas-to-release-4-hostage-bodies-to-israel-in-quiet-late-night-transfer](https://www.timesofisrael.com/after-logjam-hamas-to-release-4-hostage-bodies-to-israel-in-quiet-late-night-transfer)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:03:58+00:00
+
+<p>Israel will free over 600 prisoners who had been slated to be let go Saturday, but officials say inmates will only be released after bodies identified, in what may be last handover of first stage</p>
+<p>The post <a href="https://www.timesofisrael.com/after-logjam-hamas-to-release-4-hostage-bodies-to-israel-in-quiet-late-night-transfer/">After logjam, Hamas to release 4 hostage bodies to Israel in quiet, late-night transfer</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/AP25056500688833-1024x640.jpg" title="After logjam, Hamas to release 4 hostage bodies to Israel in quiet, late-night transfer" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## UN rights head says forced transfer, annexation in Palestinian territories ‘unlawful’
+ - [https://www.timesofisrael.com/un-rights-head-says-forced-transfer-annexation-in-palestinian-territories-unlawful](https://www.timesofisrael.com/un-rights-head-says-forced-transfer-annexation-in-palestinian-territories-unlawful)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:06:43+00:00
+
+<p>Volker Turk says such efforts could threaten regional stability, calls Hamas torture and kidnapping 'war crimes'</p>
+<p>The post <a href="https://www.timesofisrael.com/un-rights-head-says-forced-transfer-annexation-in-palestinian-territories-unlawful/">UN rights head says forced transfer, annexation in Palestinian territories &#8216;unlawful&#8217;</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/AFP__20250224__36YF29E__v1__HighRes__SwitzerlandUnRights-1024x640.jpg" title="UN rights head says forced transfer, annexation in Palestinian territories &#8216;unlawful&#8217;" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## IDF strike kills senior Hezbollah member involved in weapons smuggling to terror group
+ - [https://www.timesofisrael.com/idf-strike-kills-senior-hezbollah-member-involved-in-weapons-smuggling-to-terror-group](https://www.timesofisrael.com/idf-strike-kills-senior-hezbollah-member-involved-in-weapons-smuggling-to-terror-group)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:05:58+00:00
+
+<p>Military says strike targeted operative that 'repeatedly' violated truce terms, as Lebanese media says one killed, one wounded in drone strike on road in north of country</p>
+<p>The post <a href="https://www.timesofisrael.com/idf-strike-kills-senior-hezbollah-member-involved-in-weapons-smuggling-to-terror-group/">IDF strike kills senior Hezbollah member involved in weapons smuggling to terror group</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/F250218AMA226-1024x640.jpg" title="IDF strike kills senior Hezbollah member involved in weapons smuggling to terror group" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Iran enriched uranium stock jumped since December, UN watchdog warns
+ - [https://www.timesofisrael.com/iran-enriched-uranium-stock-jumped-since-december-un-watchdog-warns](https://www.timesofisrael.com/iran-enriched-uranium-stock-jumped-since-december-un-watchdog-warns)
+ - RSS feed: $source
+ - date published: 2025-02-26T18:39:41+00:00
+
+<p>IAEA raises alarm over production of close to weapons grade material, says time is running out for diplomatic recourse to impose new restrictions on program</p>
+<p>The post <a href="https://www.timesofisrael.com/iran-enriched-uranium-stock-jumped-since-december-un-watchdog-warns/">Iran enriched uranium stock jumped since December, UN watchdog warns</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2023/05/AP23130354938110-e1684751927583-1024x640.jpg" title="Iran enriched uranium stock jumped since December, UN watchdog warns" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## BBC Gaza documentary translates ‘Jihad’ to ‘resistance,’ ‘Jews’ to ‘Israeli army’
+ - [https://www.timesofisrael.com/bbc-gaza-documentary-translates-jihad-to-resistance-jews-to-israeli-army](https://www.timesofisrael.com/bbc-gaza-documentary-translates-jihad-to-resistance-jews-to-israeli-army)
+ - RSS feed: $source
+ - date published: 2025-02-26T18:36:59+00:00
+
+<p>In fresh scrutiny over controversial film, report accuses broadcaster of 'whitewashing' terror support with what an Israeli diplomat calls 'intentional mistranslations'</p>
+<p>The post <a href="https://www.timesofisrael.com/bbc-gaza-documentary-translates-jihad-to-resistance-jews-to-israeli-army/">BBC Gaza documentary translates &#8216;Jihad&#8217; to &#8216;resistance,&#8217; &#8216;Jews&#8217; to &#8216;Israeli army&#8217;</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/34523234-1024x640.jpg" title="BBC Gaza documentary translates &#8216;Jihad&#8217; to &#8216;resistance,&#8217; &#8216;Jews&#8217; to &#8216;Israeli army&#8217;" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Likud MK presents plan for alternate October 7 commission of inquiry
+ - [https://www.timesofisrael.com/likud-mk-presents-plan-for-alternate-october-7-commission-of-inquiry](https://www.timesofisrael.com/likud-mk-presents-plan-for-alternate-october-7-commission-of-inquiry)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:19:03+00:00
+
+<p>Unlike an apolitical state commission of inquiry, the members of Ariel Kallner's proposed 'egalitarian state commission of inquiry' would be appointed by the Knesset</p>
+<p>The post <a href="https://www.timesofisrael.com/likud-mk-presents-plan-for-alternate-october-7-commission-of-inquiry/">Likud MK presents plan for alternate October 7 commission of inquiry</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/F240721CG019-1024x640.jpg" title="Likud MK presents plan for alternate October 7 commission of inquiry" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Poll finds number of US Democrats backing Israel dwindling to 33%
+ - [https://www.timesofisrael.com/poll-finds-number-of-us-democrats-backing-israel-dwindling-to-33](https://www.timesofisrael.com/poll-finds-number-of-us-democrats-backing-israel-dwindling-to-33)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:45:41+00:00
+
+<p>All-time low figure marks sharp decline from 63% who viewed Israel favorably just three years ago, but Jewish Democrats point to 'unwavering' support from party leaders</p>
+<p>The post <a href="https://www.timesofisrael.com/poll-finds-number-of-us-democrats-backing-israel-dwindling-to-33/">Poll finds number of US Democrats backing Israel dwindling to 33%</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/AP24234005007396-1024x640.jpg" title="Poll finds number of US Democrats backing Israel dwindling to 33%" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Three people shot dead in two separate incidents overnight in Ramle, Nazareth
+ - [https://www.timesofisrael.com/three-people-shot-dead-in-two-separate-incidents-overnight-in-ramle-nazareth](https://www.timesofisrael.com/three-people-shot-dead-in-two-separate-incidents-overnight-in-ramle-nazareth)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:45:13+00:00
+
+<p>Nazareth shooting victim's two brothers also killed in similar incidents, connected to dispute between rival crime families; 45 Arab Israeli murder victims since start of 2025</p>
+<p>The post <a href="https://www.timesofisrael.com/three-people-shot-dead-in-two-separate-incidents-overnight-in-ramle-nazareth/">Three people shot dead in two separate incidents overnight in Ramle, Nazareth</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/802bf25b-6c44-43fb-8a06-4b51c238127a-1024x640.jpg" title="Three people shot dead in two separate incidents overnight in Ramle, Nazareth" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Gazan medical worker detainees ‘subjected to torture, beatings, medical neglect’ – report
+ - [https://www.timesofisrael.com/gazan-medical-worker-detainees-subjected-to-torture-beatings-medical-neglect-report](https://www.timesofisrael.com/gazan-medical-worker-detainees-subjected-to-torture-beatings-medical-neglect-report)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:30:57+00:00
+
+<p>'They extinguished cigarettes on my head, poured coffee over me. I was brutally beaten,' says Palestinian nurse; Physicians for Human Rights group accuses Israel of 'deliberate abuse'</p>
+<p>The post <a href="https://www.timesofisrael.com/gazan-medical-worker-detainees-subjected-to-torture-beatings-medical-neglect-report/">Gazan medical worker detainees &#8216;subjected to torture, beatings, medical neglect&#8217; &#8211; report</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2024/06/F240214CG46-1024x640.jpg" title="Gazan medical worker detainees &#8216;subjected to torture, beatings, medical neglect&#8217; &#8211; report" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Ballads from Bibas family soundtrack play at funeral of Shiri, Ariel and Kfir
+ - [https://www.timesofisrael.com/ballads-from-bibas-family-soundtrack-play-at-funeral-of-shiri-ariel-and-kfir](https://www.timesofisrael.com/ballads-from-bibas-family-soundtrack-play-at-funeral-of-shiri-ariel-and-kfir)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:07:53+00:00
+
+<p>Songs from American heavy metal and hard rock bands resonate at southern cemetery</p>
+<p>The post <a href="https://www.timesofisrael.com/ballads-from-bibas-family-soundtrack-play-at-funeral-of-shiri-ariel-and-kfir/">Ballads from Bibas family soundtrack play at funeral of Shiri, Ariel and Kfir</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/AFP__20250226__36YQ4AV__v4__HighRes__CorrectionIsraelPalestinianWarHostagesFuneral-1024x640.jpg" title="Ballads from Bibas family soundtrack play at funeral of Shiri, Ariel and Kfir" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Shiri, Ariel and Kfir Bibas buried in a single casket: ‘They will remain together’
+ - [https://www.timesofisrael.com/shiri-ariel-and-kfir-bibas-buried-in-a-single-casket-they-will-remain-together](https://www.timesofisrael.com/shiri-ariel-and-kfir-bibas-buried-in-a-single-casket-they-will-remain-together)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:02:42+00:00
+
+<p>Mother and two young sons, murdered while held hostage by Gaza terrorists, laid to rest; ‘I’m sorry I couldn’t protect you all,’ says Yarden Bibas; family laments their lost future together</p>
+<p>The post <a href="https://www.timesofisrael.com/shiri-ariel-and-kfir-bibas-buried-in-a-single-casket-they-will-remain-together/">Shiri, Ariel and Kfir Bibas buried in a single casket: ‘They will remain together’</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/456456456456-1024x640.jpg" title="Shiri, Ariel and Kfir Bibas buried in a single casket: ‘They will remain together’" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## What Israel’s leaders, Donald Trump, and the rest of the free world owe Yarden Bibas
+ - [https://www.timesofisrael.com/what-israels-leaders-donald-trump-and-the-rest-of-the-free-world-owe-yarden-bibas](https://www.timesofisrael.com/what-israels-leaders-donald-trump-and-the-rest-of-the-free-world-owe-yarden-bibas)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:54:58+00:00
+
+<p>Heartbroken, he apologized for failing to protect his wife and two small sons from Hamas; But it's we, of course, who owe him the apology and who must root out the death cult Islamist ideology</p>
+<p>The post <a href="https://www.timesofisrael.com/what-israels-leaders-donald-trump-and-the-rest-of-the-free-world-owe-yarden-bibas/">What Israel&#8217;s leaders, Donald Trump, and the rest of the free world owe Yarden Bibas</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/asfasgasgsag-1024x640.jpg" title="What Israel&#8217;s leaders, Donald Trump, and the rest of the free world owe Yarden Bibas" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## UTJ threatens to bring down government unless conscription bill passed before budget
+ - [https://www.timesofisrael.com/utj-threatens-to-bring-down-government-unless-conscription-bill-passed-before-budget](https://www.timesofisrael.com/utj-threatens-to-bring-down-government-unless-conscription-bill-passed-before-budget)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:52:27+00:00
+
+<p>If the passage of a bill exempting Haredim from military service is not expedited, Israel will 'go to summer elections,' threatens United Torah Judaism chief Yitzchak Goldknopf</p>
+<p>The post <a href="https://www.timesofisrael.com/utj-threatens-to-bring-down-government-unless-conscription-bill-passed-before-budget/">UTJ threatens to bring down government unless conscription bill passed before budget</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2024/12/F241111YS104-1024x640.jpg" title="UTJ threatens to bring down government unless conscription bill passed before budget" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Israeli banks told to set aside $839m to offer customers lower fees and other benefits
+ - [https://www.timesofisrael.com/israeli-banks-told-to-set-aside-839m-to-offer-customers-lower-fees-and-other-benefits](https://www.timesofisrael.com/israeli-banks-told-to-set-aside-839m-to-offer-customers-lower-fees-and-other-benefits)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:50:22+00:00
+
+<p>Bank of Israel urges banks profiting from high interest rates to provide benefits as households, small businesses, and other war-affected populations grapple to make ends meet </p>
+<p>The post <a href="https://www.timesofisrael.com/israeli-banks-told-to-set-aside-839m-to-offer-customers-lower-fees-and-other-benefits/">Israeli banks told to set aside $839m to offer customers lower fees and other benefits</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2024/07/F230102YS717-e1720613805298-1024x640.jpg" title="Israeli banks told to set aside $839m to offer customers lower fees and other benefits" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## A Shekel a Day: For the Families of October 7th - Sponsored Content
+ - [https://my.israelgives.org/en/join/shekeladay?partner=timesofisrael](https://my.israelgives.org/en/join/shekeladay?partner=timesofisrael)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:59:13+00:00
+
+<p>Join us today and with your donation of a Shekel a Day - help to change the lives of those for whom October 7th changed everything.</p>
+<p>The post <a href="https://www.timesofisrael.com/spotlight/a-shekel-a-day-for-the-families-of-october-7th/">A Shekel a Day: For the Families of October 7th</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+
+## IDF hits multiple sites in Syria, Lebanon as Israel vows to maintain security
+ - [https://www.timesofisrael.com/idf-hits-multiple-sites-in-syria-lebanon-as-israel-vows-to-maintain-security](https://www.timesofisrael.com/idf-hits-multiple-sites-in-syria-lebanon-as-israel-vows-to-maintain-security)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:20:51+00:00
+
+<p>Defense minister says strikes are part of new policy aimed at 'pacifying southern Syria;' strike in Lebanon's Beqaa Valley targets 'blatant violation' of ceasefire, military says</p>
+<p>The post <a href="https://www.timesofisrael.com/idf-hits-multiple-sites-in-syria-lebanon-as-israel-vows-to-maintain-security/">IDF hits multiple sites in Syria, Lebanon as Israel vows to maintain security</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2024/09/AFP__20240924__36H372A__v1__HighRes__IsraelLebanonPalestinianConflict-e1729949036352-1024x640.jpg" title="IDF hits multiple sites in Syria, Lebanon as Israel vows to maintain security" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Microsoft boots workers from meeting with CEO for protesting sale of services to IDF
+ - [https://www.timesofisrael.com/microsoft-boots-workers-from-meeting-with-ceo-for-protesting-sale-of-services-to-idf](https://www.timesofisrael.com/microsoft-boots-workers-from-meeting-with-ceo-for-protesting-sale-of-services-to-idf)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:19:46+00:00
+
+<p>5 workers wear shirts reading 'Does our code kill kids, Satya?' over provision of AI, cloud services, as recent report claimed army used Microsoft models to select bombing targets</p>
+<p>The post <a href="https://www.timesofisrael.com/microsoft-boots-workers-from-meeting-with-ceo-for-protesting-sale-of-services-to-idf/">Microsoft boots workers from meeting with CEO for protesting sale of services to IDF</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/AP25056721523016-1024x640.jpg" title="Microsoft boots workers from meeting with CEO for protesting sale of services to IDF" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Daily Briefing Feb. 26: Day 509 – Bibas family buried as Hamas to release 4 hostages’ remains
+ - [https://www.timesofisrael.com/daily-briefing-feb-26-day-509-bibas-family-buried-as-hamas-to-release-4-hostages-remains](https://www.timesofisrael.com/daily-briefing-feb-26-day-509-bibas-family-buried-as-hamas-to-release-4-hostages-remains)
+ - RSS feed: $source
+ - date published: 2025-02-26T12:18:18+00:00
+
+<p>Reporters Lazar Berman, Tal Schneider and Sue Surkes on a potential reset of ceasefire talks, MK Yair Lapid's Gaza day-after dream and a 5-year-old who misses his friend Ariel Bibas</p>
+<p>The post <a href="https://www.timesofisrael.com/daily-briefing-feb-26-day-509-bibas-family-buried-as-hamas-to-release-4-hostages-remains/">Daily Briefing Feb. 26: Day 509 &#8211; Bibas family buried as Hamas to release 4 hostages&#8217; remains</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/AFP__20250225__36YM29Z__v1__HighRes__IsraelPalestinianWarHostages-1024x640.jpg" title="Daily Briefing Feb. 26: Day 509 &#8211; Bibas family buried as Hamas to release 4 hostages&#8217; remains" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## ‘Sorry I couldn’t protect you’: Yarden Bibas’s eulogy for wife Shiri, sons Ariel and Kfir
+ - [https://www.timesofisrael.com/sorry-i-couldnt-protect-you-yarden-bibass-eulogy-for-wife-shiri-sons-ariel-and-kfir](https://www.timesofisrael.com/sorry-i-couldnt-protect-you-yarden-bibass-eulogy-for-wife-shiri-sons-ariel-and-kfir)
+ - RSS feed: $source
+ - date published: 2025-02-26T11:53:52+00:00
+
+<p>His family murdered in Gaza, freed hostage says he misses nibbling on baby Kfir, hopes there are butterflies in heaven for Ariel; asks slain wife: ‘Guard me so I don’t sink into darkness’</p>
+<p>The post <a href="https://www.timesofisrael.com/sorry-i-couldnt-protect-you-yarden-bibass-eulogy-for-wife-shiri-sons-ariel-and-kfir/">&#8216;Sorry I couldn&#8217;t protect you&#8217;: Yarden Bibas&#8217;s eulogy for wife Shiri, sons Ariel and Kfir</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/9547547-1024x640.jpg" title="&#8216;Sorry I couldn&#8217;t protect you&#8217;: Yarden Bibas&#8217;s eulogy for wife Shiri, sons Ariel and Kfir" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Trump shares AI music video reimagining Gaza Strip as glitzy beachfront haven
+ - [https://www.timesofisrael.com/trump-shares-ai-music-video-reimagining-gaza-strip-as-glitzy-beachfront-haven](https://www.timesofisrael.com/trump-shares-ai-music-video-reimagining-gaza-strip-as-glitzy-beachfront-haven)
+ - RSS feed: $source
+ - date published: 2025-02-26T11:32:45+00:00
+
+<p>Cocktails by the pool with Netanyahu, bearded belly dancers, Elon Musk lookalikes, and gold statues of Trump feature in 30-second clip posted by US president, after his calls to expel Gazans</p>
+<p>The post <a href="https://www.timesofisrael.com/trump-shares-ai-music-video-reimagining-gaza-strip-as-glitzy-beachfront-haven/">Trump shares AI music video reimagining Gaza Strip as glitzy beachfront haven</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/Screenshot-2025-02-26-at-13.00.03-e1740569504449-1024x640.png" title="Trump shares AI music video reimagining Gaza Strip as glitzy beachfront haven" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## With orange balloons and cries of ‘sorry,’ masses line route of Bibas funeral procession
+ - [https://www.timesofisrael.com/with-orange-balloons-and-cries-of-sorry-masses-line-route-of-bibas-funeral-procession](https://www.timesofisrael.com/with-orange-balloons-and-cries-of-sorry-masses-line-route-of-bibas-funeral-procession)
+ - RSS feed: $source
+ - date published: 2025-02-26T11:01:07+00:00
+
+<p>In outpouring of sorrow, public stands along 60-kilometer route; Bibas relatives say Yarden 'apologizes for not being able to come down and personally hug each and every one of you'</p>
+<p>The post <a href="https://www.timesofisrael.com/with-orange-balloons-and-cries-of-sorry-masses-line-route-of-bibas-funeral-procession/">With orange balloons and cries of &#8216;sorry,&#8217; masses line route of Bibas funeral procession</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/F250226YA09-1024x640.jpg" title="With orange balloons and cries of &#8216;sorry,&#8217; masses line route of Bibas funeral procession" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Australian police charge seven for making Nazi salutes
+ - [https://www.timesofisrael.com/australian-police-charge-seven-for-making-nazi-salutes](https://www.timesofisrael.com/australian-police-charge-seven-for-making-nazi-salutes)
+ - RSS feed: $source
+ - date published: 2025-02-26T10:37:57+00:00
+
+<p>Group makes gesture at club for Croatian expats, sparking condemnation from president of institution in Victoria's Geelong</p>
+<p>The post <a href="https://www.timesofisrael.com/australian-police-charge-seven-for-making-nazi-salutes/">Australian police charge seven for making Nazi salutes</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/01/AP24346306106187-1-1024x640.jpg" title="Australian police charge seven for making Nazi salutes" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Knesset, Ben Gurion Airport illuminated orange to honor murdered Bibas family
+ - [https://www.timesofisrael.com/knesset-ben-gurion-airport-illuminated-orange-to-honor-murdered-bibas-family](https://www.timesofisrael.com/knesset-ben-gurion-airport-illuminated-orange-to-honor-murdered-bibas-family)
+ - RSS feed: $source
+ - date published: 2025-02-26T09:05:10+00:00
+
+<p>President's Residence also pays tribute to kidnapped, red-haired little boys Ariel and Kfir, and mother Shiri, on day of their burial; Knesset committees hold minute's silence</p>
+<p>The post <a href="https://www.timesofisrael.com/knesset-ben-gurion-airport-illuminated-orange-to-honor-murdered-bibas-family/">Knesset, Ben Gurion Airport illuminated orange to honor murdered Bibas family</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/Untitled-16-1024x640.jpeg" title="Knesset, Ben Gurion Airport illuminated orange to honor murdered Bibas family" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Pro-Israel influencer Lizzy Savetsky praises Meir Kahane clip, setting off firestorm
+ - [https://www.timesofisrael.com/pro-israel-influencer-lizzy-savetsky-praises-meir-kahane-clip-setting-off-firestorm](https://www.timesofisrael.com/pro-israel-influencer-lizzy-savetsky-praises-meir-kahane-clip-setting-off-firestorm)
+ - RSS feed: $source
+ - date published: 2025-02-26T09:02:30+00:00
+
+<p>Other pro-Israel voices condemn normalization of extremist rabbi who urged expulsion of Arabs, while calls for mass transfers of Palestinians have moved into the mainstream</p>
+<p>The post <a href="https://www.timesofisrael.com/pro-israel-influencer-lizzy-savetsky-praises-meir-kahane-clip-setting-off-firestorm/">Pro-Israel influencer Lizzy Savetsky praises Meir Kahane clip, setting off firestorm</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2024/03/DSC_5515-1024x640.jpg" title="Pro-Israel influencer Lizzy Savetsky praises Meir Kahane clip, setting off firestorm" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## ‘A bigger fight than anything imagined’: Edan Alexander’s mom battles for hostage son
+ - [https://www.timesofisrael.com/a-bigger-fight-than-anything-imagined-edan-alexanders-mom-battles-for-hostage-son](https://www.timesofisrael.com/a-bigger-fight-than-anything-imagined-edan-alexanders-mom-battles-for-hostage-son)
+ - RSS feed: $source
+ - date published: 2025-02-26T08:32:36+00:00
+
+<p>Yael Alexander, mother of US-Israeli soldier, lives between realities of Israel, their New Jersey home and Washington: 'Since October 7 I feel like I'm on the edge of falling'</p>
+<p>The post <a href="https://www.timesofisrael.com/a-bigger-fight-than-anything-imagined-edan-alexanders-mom-battles-for-hostage-son/">&#8216;A bigger fight than anything imagined&#8217;: Edan Alexander&#8217;s mom battles for hostage son</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/AP25055395055717-e1740551380518-1024x640.jpg" title="&#8216;A bigger fight than anything imagined&#8217;: Edan Alexander&#8217;s mom battles for hostage son" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Australian nurse indicted for threatening to kill Israeli patients in viral clip
+ - [https://www.timesofisrael.com/australian-nurse-indicted-for-threatening-to-kill-israeli-patients-in-viral-clip](https://www.timesofisrael.com/australian-nurse-indicted-for-threatening-to-kill-israeli-patients-in-viral-clip)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:50:18+00:00
+
+<p>Sarah Abu Lebdeh charged with threatening violence to group; using carriage service to threaten to kill after she told influencer 'I won't treat [an Israeli patient], I will kill them'</p>
+<p>The post <a href="https://www.timesofisrael.com/australian-nurse-indicted-for-threatening-to-kill-israeli-patients-in-viral-clip/">Australian nurse indicted for threatening to kill Israeli patients in viral clip</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/Untitled-1-copy-1024x640.jpg" title="Australian nurse indicted for threatening to kill Israeli patients in viral clip" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Top Abbas aide: Hamas must step aside, let Palestinian Authority govern Gaza
+ - [https://www.timesofisrael.com/top-abbas-aide-hamas-must-step-aside-let-palestinian-authority-govern-gaza](https://www.timesofisrael.com/top-abbas-aide-hamas-must-step-aside-let-palestinian-authority-govern-gaza)
+ - RSS feed: $source
+ - date published: 2025-02-26T04:37:33+00:00
+
+<p>Mahmoud Habbash tells ToI that Palestinian people together with PA and Arab states have ability to coax terror group into giving up power after 17 years of 'failed' rule in Strip</p>
+<p>The post <a href="https://www.timesofisrael.com/top-abbas-aide-hamas-must-step-aside-let-palestinian-authority-govern-gaza/">Top Abbas aide: Hamas must step aside, let Palestinian Authority govern Gaza</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/2023-12-12T194708Z_1052122421_MT1ANADL000LXXJM8_RTRMADP_3_ANADOLU-1024x640.jpg" title="Top Abbas aide: Hamas must step aside, let Palestinian Authority govern Gaza" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Bill giving coalition control of judicial ombudsman appointment cleared for final votes
+ - [https://www.timesofisrael.com/bill-giving-coalition-control-of-judicial-ombudsman-appointment-cleared-for-final-votes](https://www.timesofisrael.com/bill-giving-coalition-control-of-judicial-ombudsman-appointment-cleared-for-final-votes)
+ - RSS feed: $source
+ - date published: 2025-02-26T03:28:59+00:00
+
+<p>New law 'will take control of judges and leave them intimidated, and dependent on the coalition,' opposition MK alleges as Knesset committee advances the legislation</p>
+<p>The post <a href="https://www.timesofisrael.com/bill-giving-coalition-control-of-judicial-ombudsman-appointment-cleared-for-final-votes/">Bill giving coalition control of judicial ombudsman appointment cleared for final votes</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/F250225CG24-1024x640.jpg" title="Bill giving coalition control of judicial ombudsman appointment cleared for final votes" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Crowds line streets to pay respects to Bibas family as funeral procession begins
+ - [https://www.timesofisrael.com/liveblog-february-26-2025](https://www.timesofisrael.com/liveblog-february-26-2025)
+ - RSS feed: $source
+ - date published: 2025-02-26T02:24:02+00:00
+
+<p>Shiri, Kfir and Ariel Bibas, murdered in Gaza captivity, to be laid to rest this morning * IDF strikes in south Syria, which Katz vows Israel will not let 'become southern Lebanon'</p>
+<p>The post <a href="https://www.timesofisrael.com/liveblog-february-26-2025/">Crowds line streets to pay respects to Bibas family as funeral procession begins</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/WhatsApp-Image-2025-02-26-at-07.17.52_6753a612-1024x640.jpg" title="Crowds line streets to pay respects to Bibas family as funeral procession begins" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Hamas: Deal reached for ‘simultaneous’ release of 4 slain hostages, Palestinian prisoners
+ - [https://www.timesofisrael.com/hamas-deal-reached-for-simultaneous-release-of-4-slain-hostages-palestinian-prisoners](https://www.timesofisrael.com/hamas-deal-reached-for-simultaneous-release-of-4-slain-hostages-palestinian-prisoners)
+ - RSS feed: $source
+ - date published: 2025-02-26T01:51:43+00:00
+
+<p>Agreement confirmed by Israeli official, who says the captives' remains will be returned on Wednesday; ToI told that if no further hostages released by March 8, ceasefire will end</p>
+<p>The post <a href="https://www.timesofisrael.com/hamas-deal-reached-for-simultaneous-release-of-4-slain-hostages-palestinian-prisoners/">Hamas: Deal reached for ‘simultaneous’ release of 4 slain hostages, Palestinian prisoners</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/AFP__20250222__36YD7HW__v1__HighRes__PalestinianIsraelConflictHostages-e1740522277548-1024x640.jpg" title="Hamas: Deal reached for ‘simultaneous’ release of 4 slain hostages, Palestinian prisoners" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Mossad chief backs Netanyahu over decision to hold off on Lebanon offensive
+ - [https://www.timesofisrael.com/mossad-chief-backs-netanyahu-over-decision-to-hold-off-on-lebanon-offensive](https://www.timesofisrael.com/mossad-chief-backs-netanyahu-over-decision-to-hold-off-on-lebanon-offensive)
+ - RSS feed: $source
+ - date published: 2025-02-26T01:14:18+00:00
+
+<p>David Barnea denies former defense minister Yoav Gallant's claim that beeper and walkie-talkie attack could have taken out thousands of Hezbollah fighters days after October 7</p>
+<p>The post <a href="https://www.timesofisrael.com/mossad-chief-backs-netanyahu-over-decision-to-hold-off-on-lebanon-offensive/">Mossad chief backs Netanyahu over decision to hold off on Lebanon offensive</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/barnea-1024x640.jpg" title="Mossad chief backs Netanyahu over decision to hold off on Lebanon offensive" border="0" width="160" height="100" class="type:primaryImage"></figure>
+
+## Coca-Cola’s appeal in West Bank fizzles as war boosts demand for local look-alike
+ - [https://www.timesofisrael.com/coca-colas-appeal-in-west-bank-fizzles-as-war-boosts-demand-for-local-look-alike](https://www.timesofisrael.com/coca-colas-appeal-in-west-bank-fizzles-as-war-boosts-demand-for-local-look-alike)
+ - RSS feed: $source
+ - date published: 2025-02-26T00:06:21+00:00
+
+<p>Chat Cola, a Salfit-based mom-and-pop business rebranded as 'Palestinian flavor,' cashes in as anti-US mood sweeps Middle East, but can't avoid tightened Israeli grip after Oct. 7</p>
+<p>The post <a href="https://www.timesofisrael.com/coca-colas-appeal-in-west-bank-fizzles-as-war-boosts-demand-for-local-look-alike/">Coca-Cola’s appeal in West Bank fizzles as war boosts demand for local look-alike</a> appeared first on <a href="https://www.timesofisrael.com">The Times of Israel</a>.</p>
+<figure><img src="https://static-cdn.toi-media.com/www/uploads/2025/02/AP25052332296857-e1740500688337-1024x640.jpg" title="Coca-Cola’s appeal in West Bank fizzles as war boosts demand for local look-alike" border="0" width="160" height="100" class="type:primaryImage"></figure>
+

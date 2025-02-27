@@ -1,0 +1,58 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Jagmeet Singh calls for Trump to be uninvited from G7 summit in Alberta
+ - [https://www.cbc.ca/news/politics/jagmeet-singh-trump-g7-1.7468981?cmp=rss](https://www.cbc.ca/news/politics/jagmeet-singh-trump-g7-1.7468981?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:25:37+00:00
+
+<img src='https://i.cbc.ca/1.7469106.1740602270!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/ndp-singh-tariffs-20250206.jpg' alt='NDP Leader Jagmeet Singh speaks to the media in Montreal on Thursday, Feb. 6, 2025. THE CANADIAN PRESS/Christinne Muschi' width='620' height='349' title='NDP Leader Jagmeet Singh speaks to the media in Montreal on Thursday, Feb. 6, 2025. '/><p>NDP Leader Jagmeet Singh is the first Canadian political leader to call for the U.S. president to be uninvited from a major summit of world leaders this summer in Canada.</p>
+
+## After surprise bronze in Beijing, Canada's ski jumpers continue rising despite troubles of success
+ - [https://www.cbc.ca/sports/olympics/winter/ski-jumping/canada-ski-jumpers-program-growth-1.7468416?cmp=rss](https://www.cbc.ca/sports/olympics/winter/ski-jumping/canada-ski-jumpers-program-growth-1.7468416?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:16:51+00:00
+
+<img src='https://i.cbc.ca/1.7468457.1740525978!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/alexandria-loutitt.jpg' alt='A female ski jumper competes.' width='620' height='349' title='Alexandria Loutitt, Canada&apos;s first-ever World Champion in ski jumping, has captured 10 World Cup medals, including two golds, since Canada won a surprising mixed-team bronze medal at the 2022 Beijing Olympics.'/><p>When Janko Zwitter came aboard as Canada’s ski jumping coach in 2021, he faced a choice. With the final ski jumping hill in Canada closed, the team could either integrate with the Americans south of the border or centralize itself in Slovenia for training.</p>
+
+## Ontario town council votes to remove U.S. flag from community hockey arena
+ - [https://www.cbc.ca/news/canada/hamilton/west-lincoln-arena-flag-1.7468295?cmp=rss](https://www.cbc.ca/news/canada/hamilton/west-lincoln-arena-flag-1.7468295?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T08:53:47+00:00
+
+<img src='https://i.cbc.ca/1.7468297.1740518898!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/west-lincoln-community-centre.jpg' alt='the inside of an arena showing the ice surface and some flags' width='620' height='349' title='A user-uploaded image of the West Lincoln Community Centre shows the American flag on the arena wall. '/><p>After years of displaying the American flag at the arena inside the West Lincoln Community Centre, the local council has voted to take it down.</p>
+
+## Here's how artificial intelligence is levelling the playing field for workers with disabilities
+ - [https://www.cbc.ca/news/canada/new-brunswick/ai-levelling-playing-field-for-disabled-workers-1.7464131?cmp=rss](https://www.cbc.ca/news/canada/new-brunswick/ai-levelling-playing-field-for-disabled-workers-1.7464131?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T05:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7464183.1740084453!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/meta-smart-glasses.jpg' alt='A close shot of a man&apos;s face with a pair of Meta Smart Glasses, showing the Ray Ban logo in the corner. ' width='620' height='349' title='Meta Smart Glasses use built-in artificial intelligence, cameras, speakerphone, microphone and touch controls, providing real-time support for disabled and able bodied users wherever they go. '/><p>More than 35 per cent of New Brunswickers have a disability, according to Statistics Canada, and only 46 per cent of them are employed. But recent advancements in technology are levelling the playing field for people with disabilities, which could help close that gap.</p>
+
+## Dramatic measles outbreaks worry health officials
+ - [https://www.cbc.ca/news/health/measles-canada-1.7468421?cmp=rss](https://www.cbc.ca/news/health/measles-canada-1.7468421?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7468451.1740525713!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/measles-outbreak.jpg' alt='A health worker administers a measles test to a car passenger at a mobile testing site in Texas in February 2025. ' width='620' height='349' title='A health worker administers a measles test to a car passenger at a mobile testing site outside Seminole Hospital District Friday, Feb. 21, 2025, in Seminole, Texas. '/><p>There have been 95 measles cases reported in Canada so far this year — with Quebec, Ontario and Manitoba reporting new cases in the last week, says Canada's chief public health officer. </p>
+
+## New bans target 'forever chemicals' in clothing. Here's how to avoid exposure
+ - [https://www.cbc.ca/news/science/pfas-clothing-bans-1.7467058?cmp=rss](https://www.cbc.ca/news/science/pfas-clothing-bans-1.7467058?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.3926222.1740442422!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/rain-jacket-winter-gear.jpg' alt='Yellow rain coat on hanger beside a pair of sunglasses and blue rain paints' width='620' height='349' title='Co-ordinator Heidi Verheul says there&apos;s no such thing as bad weather, just bad gear.'/><p>There's less toxic PFAS, or 'forever chemicals,' in raincoats and other products sold in Canada, thanks to new rules elsewhere. But where is PFAS still found? What are the rules here anyway? Should you throw out your old Gore-Tex jacket? And what should you do to avoid products with PFAS?</p>
+
+## Truck driver training, highway safety concerns in northwestern Ontario rev up ahead of election
+ - [https://www.cbc.ca/news/canada/thunder-bay/highway-safety-northwestern-ontario-1.7468391?cmp=rss](https://www.cbc.ca/news/canada/thunder-bay/highway-safety-northwestern-ontario-1.7468391?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7468405.1740523687!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/northwestern-ontario-highway.JPG' alt='A transport truck is seen from behind driving on a highway.' width='620' height='349' title='Travis McDougall, co-founder of Truckers for Safer Highways, says northwestern Ontario&apos;s single-lane highways and lack of detours mean drivers are often stuck for 12 hours or longer when a collision occurs.'/><p>There were 25 fatalities on northwestern Ontario highways last year, according to the local provincial police branch. Highway safety has been a major concern in the region for years, as single-lane highways surrounded by trees, rocks and water aren't so forgiving during a wrong move behind the wheel. Here's what local leaders and advocates want addressed by the next provincial government.</p>
+
+## Why Canada can't strip Elon Musk of Canadian citizenship
+ - [https://www.cbc.ca/news/politics/elon-musk-canadian-citizenship-1.7468330?cmp=rss](https://www.cbc.ca/news/politics/elon-musk-canadian-citizenship-1.7468330?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7468487.1740527078!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-trump-doge.JPG' alt='A man stands in the Oval Office.' width='620' height='349' title='FILE PHOTO: Elon Musk speaks next to U.S. President Donald Trump (not pictured) in the Oval Office of the White House in Washington, D.C., U.S., February 11, 2025.   REUTERS/Kevin Lamarque//File Photo'/><p>More than 263,000 Canadians have signed a petition to strip billionaire Elon Musk of Canadian citizenship. But to do that, the Canadian government would have to change the law.</p>
+

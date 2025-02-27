@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-26T14:15:20+00:00",
+        "description": "Microsoft Edge finally gives users control over RAM usage and is now live in the stable version. The RAM feature prevents the PC from slowing down.",
+        "id": 2199551,
+        "language": "en-US",
+        "link": "https://www.digitaltrends.com/computing/microsoft-just-gave-you-a-major-reason-to-ditch-chrome",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 94,
+        "source_url": "https://www.digitaltrends.com/news/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microsoft just gave you a major reason to ditch Chrome",
+        "vote": 0
+    }
+]

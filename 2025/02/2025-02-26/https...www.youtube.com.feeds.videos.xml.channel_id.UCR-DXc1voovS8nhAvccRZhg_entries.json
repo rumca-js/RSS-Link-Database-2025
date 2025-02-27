@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-26T19:40:18+00:00",
+        "description": "DeskPi's RackMate T2 is 12U\u2014it's quite tall!\n\nThey sent me this T2 for test and review, though I might not make a 'full' video on it.\n\nHere are links to their T0 (4U), T1 (8U) and T2 (12U) mini racks (as an Amazon Associate I earn for qualifying purchases):\n\nT0: https://amzn.to/4bkIzU5\nT1: https://amzn.to/3Qyr6hx\nT2: https://amzn.to/3Qxa6rY\n\nAnd here's a link to Project MINI RACK, with tons of inspiration (and links to many OTHER racks you can buy cheaper than DeskPi's): https://mini-rack.jeffgeerling.com\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff",
+        "id": 2202934,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=vgzjRN_SePI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vgzjRN_SePI/hqdefault.jpg",
+        "title": "Is this still a MINI rack?",
+        "vote": 0
+    }
+]

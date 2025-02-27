@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-26T18:05:43+00:00",
+        "description": "<p>Want to expose wrongdoing in the U.S. government? Take these steps to keep yourself safe.</p>\n<p>The post <a href=\"https://theintercept.com/2025/02/26/how-to-leak-whistleblower-trump/\">How to Leak Under the Trump Administration</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 2202118,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/02/26/how-to-leak-whistleblower-trump",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/theintercept.com/wp-content/uploads/2025/02/deportation-video.jpg?w=1200",
+        "title": "How to Leak Under the Trump Administration",
+        "vote": 0
+    }
+]

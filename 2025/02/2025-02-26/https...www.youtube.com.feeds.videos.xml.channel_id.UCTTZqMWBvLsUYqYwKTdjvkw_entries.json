@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-26T13:38:27+00:00",
+        "description": "\"Id\u017acie natychmiast do bankomat\u00f3w i wyp\u0142a\u0107cie kas\u0119!\" - grzmi znany ju\u017c internautom przedsi\u0119biorca. No c\u00f3\u017c\u2026 tylko \u017ce nie. Nawet nie zd\u0105\u017cy\u0142em si\u0119 uczesa\u0107, a ju\u017c musz\u0119 zdebunkowa\u0107 t\u0119 bzdur\u0119.\n\n\n#bzdurabezpieczenstwa #mitycybersecurity #stopclickbait #shorts",
+        "id": 2199585,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=EI0Z9IjwtLw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EI0Z9IjwtLw/hqdefault.jpg",
+        "title": "\ud83d\udcb8 Czy trzeba biec do bankomatu?",
+        "vote": 0
+    }
+]

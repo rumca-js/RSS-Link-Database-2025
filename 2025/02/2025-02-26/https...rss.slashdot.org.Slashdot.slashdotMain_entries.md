@@ -1,0 +1,192 @@
+# Source:Slashdot, URL:https://rss.slashdot.org/Slashdot/slashdotMain, language:en-us
+
+## Google Is Making It Easier To Remove Personal Info On Search
+ - [https://yro.slashdot.org/story/25/02/26/2144227/google-is-making-it-easier-to-remove-personal-info-on-search?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/25/02/26/2144227/google-is-making-it-easier-to-remove-personal-info-on-search?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T23:07:48+00:00
+
+Google has updated its Results About You tool with a redesigned hub, easier removal requests directly from Search, and the ability to refresh outdated results. Engadget reports: Today, the tech giant is announcing the latest changes, including a redesigned hub and the ability to update outdated search results to reflect the latest changes.
+ 
+The redesign isn't only for show. You can now submit removal requests directly from Search with fewer actions by clicking or tapping the three dots beside a search result. If you manage to have content about you deleted or changed from a website but Google Search hasn't caught up, you can refresh the search, which will "recrawl the page and obtain the latest information." In other words, you can always see the most up-to-date results about you.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=Google+Is+Making+It+Easier+To+Remove+Personal+Info+On+Search%3A+https%3A%2F%2Fyro.slashd
+
+## ExpressVPN Gets Faster and More Secure, Thanks To Rust
+ - [https://developers.slashdot.org/story/25/02/26/2133246/expressvpn-gets-faster-and-more-secure-thanks-to-rust?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://developers.slashdot.org/story/25/02/26/2133246/expressvpn-gets-faster-and-more-secure-thanks-to-rust?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:02:44+00:00
+
+ZDNet's Steven Vaughan-Nichols shares some of the latest improvements to ExpressVPN following its codebase transition from C to Rust. An anonymous reader quotes an excerpt from the report: ExpressVPN is one of ZDNET's favorite Virtual Private Networks (VPNs). The popular VPN's transformation of its Lightway codebase from C to Rust promises to make the service faster and more secure. For now, the updated Lightway 2.0 is only available via ExpressVPN's Aircove router with the February 4 AircoveOS v5 update. The Aircove, which we rate as the best VPN router, costs $189. With this device, you can protect your tech from unwanted snoopers without installing a VPN on each gadget. So, how much faster is the updated ExpressVPN? In my tests, I connected to the internet via my updated router over my 2 Gigabit per second (Gbps) AT&amp;T Internet using a 2.5 Gbps Ethernet-connected Linux Mint desktop with a Wi-Fi 6 connection over my Samsung Galaxy 25 Plus smartphone.
+ 
+Without the VPN engaged, I
+
+## Cellebrite Suspends Serbia as Customer After Claims Police Used Firm's Tech To Plant Spyware
+ - [https://tech.slashdot.org/story/25/02/26/1952228/cellebrite-suspends-serbia-as-customer-after-claims-police-used-firms-tech-to-plant-spyware?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://tech.slashdot.org/story/25/02/26/1952228/cellebrite-suspends-serbia-as-customer-after-claims-police-used-firms-tech-to-plant-spyware?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:57:42+00:00
+
+Cellebrite says it has stopped Serbia from using its technology following allegations that Serbian police and intelligence used Cellebrite's technology to unlock the phones of a journalist and an activist, and then plant spyware. From a report: In December 2024, Amnesty International published a report that accused Serbian police of using Cellebrite's forensics tools to hack into the cellphones of a local journalist and an activist. Once their phones were unlocked, Serbian authorities then installed an Android spyware, which Amnesty called Novispy, to keep surveilling the two. 
+
+In a statement, Cellebrite said that "after a review of the allegations brought forth by the December 2024 Amnesty International report, Cellebrite took precise steps to investigate each claim in accordance with our ethics and integrity policies. We found it appropriate to stop the use of our products by the relevant customers at this time."<p><div class="share_submission" style="position:relative;">
+<a class
+
+## Who's Watching What on TV? Who's To Say?
+ - [https://entertainment.slashdot.org/story/25/02/26/1858226/whos-watching-what-on-tv-whos-to-say?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://entertainment.slashdot.org/story/25/02/26/1858226/whos-watching-what-on-tv-whos-to-say?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:52:39+00:00
+
+An anonymous reader shares a report: People now watch so many programs at so many different times in so many different ways -- with an antenna, on cable, in an app or from a website, as well as live, recorded or on demand -- that it is increasingly challenging for the industry to agree on the best way to measure viewership. In some cases, media executives and advertisers are even uncertain whether a competitor's show is a hit or something well short of that. 
+
+The scramble to sort out a suitable solution began nearly a decade ago, as Netflix rose to prominence. It has only intensified since. "It is more chaotic than it's ever been," said George Ivie, the chief executive of the Media Rating Council, a leading industry measurement watchdog. For decades, there was no dispute -- Nielsen's measurement was the only game in town. 
+
+But things started to go sideways after the emergence of streaming services like Netflix, Hulu and Amazon Prime Video. Nielsen had no ability -- at least at firs
+
+## US Intelligence Chief Opposes UK Order for Apple Encryption Backdoor
+ - [https://news.slashdot.org/story/25/02/26/187252/us-intelligence-chief-opposes-uk-order-for-apple-encryption-backdoor?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/25/02/26/187252/us-intelligence-chief-opposes-uk-order-for-apple-encryption-backdoor?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T18:47:35+00:00
+
+U.S. Director of National Intelligence Tulsi Gabbard has condemned a British order requiring Apple to break its encrypted storage worldwide as an "egregious" violation of American rights that could breach the CLOUD Act facilitating cross-border investigations. In a letter [PDF] to Senator Ron Wyden and Representative Andy Biggs, Gabbard revealed she has directed a legal review of the secret order, which she learned about through media reports. 
+
+"This would be a clear and egregious violation of Americans' privacy and civil liberties, and open up a serious vulnerability for cyber exploitation by adversarial actors," Gabbard wrote. The UK Home Office, under the Investigatory Powers Act, prohibited Apple from disclosing the order to Congress or U.S. regulators. The directive would have forced Apple to compromise its Advanced Data Protection encryption, enabling officials to access individual data. Apple refused compliance, instead withdrawing the secure storage option from UK customers 
+
+## YouTube Reaches 1 Billion Monthly Podcast Viewers
+ - [https://news.slashdot.org/story/25/02/26/1830248/youtube-reaches-1-billion-monthly-podcast-viewers?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/25/02/26/1830248/youtube-reaches-1-billion-monthly-podcast-viewers?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T18:47:35+00:00
+
+YouTube has surpassed 1 billion monthly active viewers of podcast content, the video platform announced on Wednesday, cementing its position as the most frequently used podcast service in the United States. The Google-owned platform reported viewers watched over 400 million hours of podcasts monthly on living room devices last year.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=YouTube+Reaches+1+Billion+Monthly+Podcast+Viewers%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F25%2F02%2F26%2F1830248%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png"></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F25%2F02%2F26%2F1830248%2Fyoutube-reaches-1-billion-monthly-podcast-viewers%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"><img src="https://a.fsdn.com/sd/facebook_icon_large.png"></a>
+
+
+
+</div></p><p><a href="h
+
+## A Disney Worker Downloaded an AI Tool. It Led To a Hack That Ruined His Life.
+ - [https://it.slashdot.org/story/25/02/26/1724216/a-disney-worker-downloaded-an-ai-tool-it-led-to-a-hack-that-ruined-his-life?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/25/02/26/1724216/a-disney-worker-downloaded-an-ai-tool-it-led-to-a-hack-that-ruined-his-life?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:42:43+00:00
+
+A Disney employee's download of an AI image generation tool from GitHub led to a massive data breach in July 2024, exposing over 44 million internal Slack messages. The software contained infostealer malware that compromised Matthew Van Andel's computer [non-paywalled source] for five months, giving hackers access to his 1Password manager. 
+
+The attackers used the stolen credentials to access Disney's corporate systems, publishing sensitive information including customer data, employee passport numbers, and revenue figures from Disney's theme parks and streaming services. The breach also devastated Van Andel personally. Hackers exposed his Social Security number, financial login details, and even credentials for his home's Ring cameras. Shortly after the incident, Disney fired Van Andel following a forensic analysis of his work computer, citing misconduct he denies. Security researchers believe the attacker, who identified as part of a Russia-based hacktivist group called Nullbulge, 
+
+## BP Shuns Renewables in Return To Oil and Gas
+ - [https://news.slashdot.org/story/25/02/26/1557217/bp-shuns-renewables-in-return-to-oil-and-gas?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/25/02/26/1557217/bp-shuns-renewables-in-return-to-oil-and-gas?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:42:43+00:00
+
+BP has announced it will cut its renewable energy investments and instead focus on increasing oil and gas production. The energy giant revealed the shift in strategy on Wednesday following pressure from some investors unhappy its profits and share price have been lower than its rivals. From a report: BP said it would increase its investments in oil and gas by about 20% to $10bn a year, while decreasing previously planned funding for renewables by more than $5bn. The move comes as rivals Shell and Norwegian company Equinor have also scaled back plans to invest in green energy and US President Donald Trump's "drill baby drill" comments have encouraged investment in fossil fuels.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=BP+Shuns+Renewables+in+Return+To+Oil+and+Gas%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F25%2F02%2F26%2F1557217%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/
+
+## Amazon Revamps Alexa With Generative AI After Year-Long Delay
+ - [https://slashdot.org/story/25/02/26/1552231/amazon-revamps-alexa-with-generative-ai-after-year-long-delay?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://slashdot.org/story/25/02/26/1552231/amazon-revamps-alexa-with-generative-ai-after-year-long-delay?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:38:29+00:00
+
+Amazon has launched a comprehensive AI overhaul of Alexa, representing the voice assistant's most significant update since its 2014 debut. The new "Alexa Plus" enables multi-turn conversations without repeating wake words, replacing the previous command-response interaction model. 
+
+The system now handles complex tasks including booking concert tickets, making restaurant reservations via Yelp integration, and creating smart home routines autonomously. Technical capabilities include image analysis, content-aware movie navigation, and semantic music search that processes vague descriptors rather than exact titles. Originally announced in September 2023 for early 2024 release, the update faced prolonged delays as Amazon engineers struggled with technical challenges. 
+
+Internal testing revealed the new AI-powered assistant performed inconsistently against OpenAI's ChatGPT and suffered from verbose responses. Amazon's legacy architecture -- designed to retrieve predefined answers rather t
+
+## Indian Cinema Chain Sued By Film-goer Over Lengthy Pre-film Ads
+ - [https://entertainment.slashdot.org/story/25/02/26/1332221/indian-cinema-chain-sued-by-film-goer-over-lengthy-pre-film-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://entertainment.slashdot.org/story/25/02/26/1332221/indian-cinema-chain-sued-by-film-goer-over-lengthy-pre-film-ads?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:33:00+00:00
+
+The Guardian: For some, the adverts that precede the start of a film are the bane of a trip to the cinema; for others, they are a useful buffer as you stand in the popcorn queue. But for one man in India, the lengthy marathon of cinema advertising was so infuriating that he took the matter to the courts -- and won. Abhishek MR, a 30-year-old man from the southern city of Bangalore, had booked a trip to the cinema with friends in December last year to watch wartime drama Sam Bahadur. 
+
+But while the scheduled time he had booked the ticket for was 4.05pm, he had to sit through 25 minutes of adverts for upcoming features and commercial items such as homewares, mobile phones and cars before the film actually began. Having planned to return to work straight after the film, Abhishek MR was angered by what he felt was a costly disruption to his life. He filed a lawsuit against PVR Inox, India's largest cinema multiplex chain, stating that: "The complainant could not attend other arrangement
+
+## Surge in UK University Students Using AI To Complete Work
+ - [https://news.slashdot.org/story/25/02/26/1340222/surge-in-uk-university-students-using-ai-to-complete-work?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/25/02/26/1340222/surge-in-uk-university-students-using-ai-to-complete-work?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:33:00+00:00
+
+More than 90% of UK undergraduate students now use AI in their studies, up from two-thirds a year ago, according to a Higher Education Policy Institute survey released Wednesday. The poll of 1,041 full-time undergraduates found 88% used generative AI such as ChatGPT for assessments, compared with 53% in 2024, with science students more likely to use the technology than humanities peers. Half of students cited "saving time" and "improving work quality" as their primary motivations. 
+
+The proportion considering it acceptable to include AI-generated text after editing rose to 25% from 17% last year, while only 6% approved using AI content without editing. "Every assessment must be reviewed in case it can be completed easily using AI," said Josh Freeman, policy manager at Hepi. The report identified "persistent digital divides" in AI competency, with men and students from wealthier backgrounds more likely to be frequent users.<p><div class="share_submission" style="position:relative;">
+<
+
+## UK Users Show Little Concern as Apple Removes iCloud Encryption
+ - [https://news.slashdot.org/story/25/02/26/1321235/uk-users-show-little-concern-as-apple-removes-icloud-encryption?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/25/02/26/1321235/uk-users-show-little-concern-as-apple-removes-icloud-encryption?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:28:17+00:00
+
+British iPhone users have shown minimal reaction to Apple's decision to disable end-to-end encryption for UK iCloud customers, challenging the company's assumption about privacy priorities, a Bloomberg columnist notes. Rather than create a government-accessible backdoor demanded under Britain's Investigatory Powers Act, Apple chose to eliminate its Advanced Data Protection feature entirely for UK customers, effectively giving both authorities and potential hackers easier access to stored emails, photos and documents. 
+
+The near absence of public outcry from British consumers points to what researchers call the "privacy paradox," where stated concerns about data security rarely translate to action. According to cited research, while 92% of American consumers believe they should control their online information, only 16% have stopped using services over data misuse. The quiet reception suggests Apple's principled stand against backdoors may have limited impact if customers don't unders
+
+## Meta In Talks For $200 Billion AI Data Center Project
+ - [https://news.slashdot.org/story/25/02/26/0315237/meta-in-talks-for-200-billion-ai-data-center-project?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://news.slashdot.org/story/25/02/26/0315237/meta-in-talks-for-200-billion-ai-data-center-project?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:22:19+00:00
+
+An anonymous reader quotes a report from Reuters: Meta Platforms is in discussions to construct a new data center campus for its artificial intelligence projects, with potential costs exceeding $200 billion, The Information reported on Tuesday, citing people familiar with the matter. Meta executives have informed data center developers that the company is considering building the campus in states including Louisiana, Wyoming or Texas, with senior leaders having visited potential sites this month, the report said.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=Meta+In+Talks+For+%24200+Billion+AI+Data+Center+Project%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F25%2F02%2F26%2F0315237%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png"></a>
+<a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F25%2F02%2F26%2F0315237
+
+## North Korea's Unprecedented $1.5 Billion Crypto Heist Exploited Human Element, Not Code
+ - [https://it.slashdot.org/story/25/02/26/0522234/north-koreas-unprecedented-15-billion-crypto-heist-exploited-human-element-not-code?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://it.slashdot.org/story/25/02/26/0522234/north-koreas-unprecedented-15-billion-crypto-heist-exploited-human-element-not-code?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T12:18:16+00:00
+
+North Korean hackers have executed the largest cryptocurrency theft in history, draining $1.5 billion from Dubai-based exchange Bybit by compromising its multisignature cold wallet system. The attackers stole over 400,000 ethereum and staked ethereum coins without exploiting code vulnerabilities or infrastructure. 
+
+Security researchers from Elliptic identified North Korean signatures in the subsequent laundering operations, consistent with the nation's ongoing cryptocurrency theft operations that fund its weapons programs. Investigators determined the hackers manipulated the user interfaces on multiple Bybit employees' devices simultaneously, tricking authorized personnel into approving what appeared to be legitimate transactions. This sophisticated attack "altered the smart contract logic and masked the signing interface," according to Bybit's disclosure. 
+
+"The Bybit hack has shattered long-held assumptions about crypto security," noted researchers at Check Point. "No matter how s
+
+## Fruits and Flowers May Counteract Harmful Effects of Microplastics
+ - [https://science.slashdot.org/story/25/02/26/0312206/fruits-and-flowers-may-counteract-harmful-effects-of-microplastics?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/25/02/26/0312206/fruits-and-flowers-may-counteract-harmful-effects-of-microplastics?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T10:07:37+00:00
+
+New research suggests that anthocyanins, the antioxidants responsible for the vibrant colors of fruits and flowers, may help counteract reproductive harm caused by microplastics. The Guardian reports: The new review of scientific literature on anthocyanins found that the compounds are probably protective against a range of plastic-induced impacts on hormones, reductions in testosterone and estrogen, decreased sperm counts, lower sperm quality, erectile dysfunction and ovarian damage. [...] Researchers said that mice exposed to microplastics, then treated with anthocyanins, showed increased sperm quality, including increased sperm count and motility, and the antioxidants overall reduced testicular damage. The new paper also pointed to research that found some microplastics reduce testosterone levels because they harm Leydig cells, which are responsible for the hormone's production. Anthocyanins seem to helped restore testosterone production and protect Leydig cells.
+ 
+In women, impact
+
+## Earth Safe From 'City-Killer' Asteroid 2024 YR4
+ - [https://science.slashdot.org/story/25/02/26/032251/earth-safe-from-city-killer-asteroid-2024-yr4?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://science.slashdot.org/story/25/02/26/032251/earth-safe-from-city-killer-asteroid-2024-yr4?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T07:56:51+00:00
+
+Asteroid 2024 YR4, once considered a significant impact risk, has been reassigned to Torino Scale Level Zero and therefore poses no hazard to Earth. "The NASA JPL Center for Near-Earth Object Studies (CNEOS) now lists the 2024 YR4 impact probability as 0.00005 (0.005%) or 1-in-20,000 for its passage by Earth in 2032," Richard Binzel, Professor of Planetary Science at the Massachusetts Institute of Technology (MIT) and creator of the Torino scale exclusively told Space.com. "That's impact probability zero folks!" From the report: Discovered in Dec. 2024, 2024 YR4 quickly climbed to the top of NASA's Sentry Risk table, at one point having a 1 in 32 chance of hitting Earth. This elevated it to Level 3 on the Torino scale, a system used since 1999 to categorize potential Earth impact events. Level 3, which falls within the yellow band of the Torino Scale, is described as: "A close encounter, meriting attention by astronomers. Current calculations give a 1% or greater chance of collision 
+
+## A Major Blackout Hits Chile, Leaving Millions Without Power
+ - [https://hardware.slashdot.org/story/25/02/26/0018228/a-major-blackout-hits-chile-leaving-millions-without-power?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/25/02/26/0018228/a-major-blackout-hits-chile-leaving-millions-without-power?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:53:05+00:00
+
+A massive blackout has hit Chile, leaving millions without power and disrupting transportation, businesses, and essential services across 14 of the country's 16 regions. The Associated Press reports: The National Electrical Coordinator, Chile's grid operator, said a disruption had occurred in a high-voltage transmission line that carries power from the Atacama Desert of northern Chile to the capital of Santiago in the country's central valley. It did not say what actually caused the disruption that pushed much of the country's power grid into shutdown, from the northernmost Chilean port of Arica to the southern Los Lagos agricultural region.
+ 
+Interior Minister Carolina Toha said hospitals, prisons and government buildings were switching on backup generators to keep essential equipment operating. In a press conference, Toha urged the public to stay calm and said officials were racing to put the grid back in operation and restore electric service across the country of some 19 million 
+
+## Denmark To Ban Mobile Phones In Schools and After-School Clubs
+ - [https://mobile.slashdot.org/story/25/02/26/0032230/denmark-to-ban-mobile-phones-in-schools-and-after-school-clubs?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://mobile.slashdot.org/story/25/02/26/0032230/denmark-to-ban-mobile-phones-in-schools-and-after-school-clubs?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:53:05+00:00
+
+Denmark is set to ban mobile phones in schools and after-school clubs, following a government commission's recommendation that children under 13 should not have their own smartphones. The Guardian reports: The government said it would change existing legislation to force all folkeskole -- comprehensive primary and lower secondary schools -- to become phone-free, meaning that almost all children aged between seven and 16-17 will be required by law not to bring their phones into school. The announcement marks a U-turn by the government, which had previously refused to introduce such a law. It comes as governments across Europe are trying to impose tighter regulations on children's access to phones and social media.
+ 
+The Danish wellbeing commission was set up by the prime minister, Mette Frederiksen, in 2023 to investigate growing dissatisfaction among children and young people. Its long-awaited report, published on Tuesday, raised the alarm over the digitisation of children and young 
+
+## To Identify Suspect In Idaho Killings, FBI Used Restricted Consumer DNA Data
+ - [https://yro.slashdot.org/story/25/02/26/0044239/to-identify-suspect-in-idaho-killings-fbi-used-restricted-consumer-dna-data?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://yro.slashdot.org/story/25/02/26/0044239/to-identify-suspect-in-idaho-killings-fbi-used-restricted-consumer-dna-data?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:53:05+00:00
+
+An anonymous reader quotes a report from the New York Times: As investigators struggled for weeks to find who might have committed the brutal stabbings of four University of Idaho students in the fall of 2022, they were focused on a key piece of evidence: DNA on a knife sheath that was found at the scene of the crime. At first they tried checking the DNA with law enforcement databases, but that did not provide a hit. They turned next to the more expansive DNA profiles available in some consumer databases in which users had consented to law enforcement possibly using their information, but that also did not lead to answers.
+ 
+F.B.I. investigators then went a step further, according to newly released testimony, comparing the DNA profile from the knife sheath with two databases that law enforcement officials are not supposed to tap: GEDmatch and MyHeritage. It was a decision that appears to have violated key parameters of a Justice Department policy that calls for investigators to opera
+
+## World's First Front-Flippin' Humanoid Robot
+ - [https://hardware.slashdot.org/story/25/02/26/0110204/worlds-first-front-flippin-humanoid-robot?utm_source=rss1.0mainlinkanon&utm_medium=feed](https://hardware.slashdot.org/story/25/02/26/0110204/worlds-first-front-flippin-humanoid-robot?utm_source=rss1.0mainlinkanon&utm_medium=feed)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:53:05+00:00
+
+Chinese robotics company Zhongqing Robotics (also known as Engine AI) posted a video of what is claimed to be the world's first humanoid robot front flip. New Atlas reports: Ten years ago, this kind of stuff simply did not exist. And now you can buy your very own open-source PM01 robot for US$13,700, according to EngineAI's website. Its specs aren't bad: 5-DoF (degrees of freedom) in each arm and six per leg. That's 23-DoF in body movement in total. The bot also boasts 221 lb-ft of torque (300 Nm), which seems like quite a punch when the little guy is only 4.5 ft (138 cm) tall and weighs 88 lb (40kg). You can watch the video here.<p><div class="share_submission" style="position:relative;">
+<a class="slashpop" href="http://twitter.com/home?status=World's+First+Front-Flippin'+Humanoid+Robot%3A+https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F25%2F02%2F26%2F0110204%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter"><img src="https://a.fsdn.com/sd/twitter_icon_large.png"></a>
+<a class="slash
+

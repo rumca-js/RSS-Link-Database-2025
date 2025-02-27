@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-26T12:00:43+00:00",
+        "description": "Ready to become a certified Associate Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdGucd\n\nLearn more about Telum here \u2192 https://ibm.biz/BdGucx\n\nEver wonder how to get more from your AI toolbox? \ud83d\udee0\ufe0f Susan Eickoff shows how to boost AI performance using an ensemble of models, combining traditional AI and large language models. Learn structured data analysis and real-time prediction techniques to supercharge your AI projects. \ud83d\ude80\ud83d\udcca\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdGucD\n\n#ai #aimodels #llm",
+        "id": 2199848,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=UFfoQOp9xAA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UFfoQOp9xAA/hqdefault.jpg",
+        "title": "Boost AI Performance with an Ensemble of AI Models",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-26T15:21:14+00:00",
+        "description": "Do po\u0142owy maja miasta mog\u0105 zg\u0142asza\u0107 sw\u00f3j udzia\u0142 do rywalizacji o tytu\u0142 Rowerowej Stolicy Polski. W tym roku rowerowa stolica naszego kraju zostanie wy\u0142oniona po raz si\u00f3dmy.",
+        "id": 2200107,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/transport/art41853161-kto-zostanie-rowerowa-stolica-polski-w-2025-roku-zgloszenia-do-polowy-maja",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Kto zostanie Rowerow\u0105 Stolic\u0105 Polski w 2025 roku? Zg\u0142oszenia do po\u0142owy maja",
+        "vote": 0
+    }
+]

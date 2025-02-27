@@ -1,0 +1,121 @@
+# Source:Linux, GNU/Linux, free software..., URL:https://www.reddit.com/r/linux/.rss, language:en
+
+## Have you tried Olive?
+ - [https://www.reddit.com/r/linux/comments/1iyztz4/have_you_tried_olive](https://www.reddit.com/r/linux/comments/1iyztz4/have_you_tried_olive)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:11:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/kuroirider"> /u/kuroirider </a> <br/> <span><a href="/r/olivevideoeditor/comments/1iyhgel/im_very_surprised_at_the_performance_of_this/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iyztz4/have_you_tried_olive/">[comments]</a></span>
+
+## Introducing a terms of use and updated privacy notice for Firefox
+ - [https://www.reddit.com/r/linux/comments/1iyzmo6/introducing_a_terms_of_use_and_updated_privacy](https://www.reddit.com/r/linux/comments/1iyzmo6/introducing_a_terms_of_use_and_updated_privacy)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:02:33+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/clgoh"> /u/clgoh </a> <br/> <span><a href="https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-terms-of-use/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iyzmo6/introducing_a_terms_of_use_and_updated_privacy/">[comments]</a></span>
+
+## This is how, it should be. Real Open Source AI Definition
+ - [https://www.reddit.com/r/linux/comments/1iyybhb/this_is_how_it_should_be_real_open_source_ai](https://www.reddit.com/r/linux/comments/1iyybhb/this_is_how_it_should_be_real_open_source_ai)
+ - RSS feed: $source
+ - date published: 2025-02-26T21:07:31+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/unixbhaskar"> /u/unixbhaskar </a> <br/> <span><a href="https://postopen.org/documents/real-open-source-ai">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iyybhb/this_is_how_it_should_be_real_open_source_ai/">[comments]</a></span>
+
+## New Linux Malware Known As Auto-Color Affects Universities and Governments
+ - [https://www.reddit.com/r/linux/comments/1iyx3mf/new_linux_malware_known_as_autocolor_affects](https://www.reddit.com/r/linux/comments/1iyx3mf/new_linux_malware_known_as_autocolor_affects)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:16:35+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>A newly discovered Linux malware known as Auto-Color raises alarms across institutions.</strong> </p> <p>The malware enables attackers to gain full remote access to compromised Linux devices. Detected by Palo Alto Networks, it targets universities and government bodies in North America and Asia, exploiting user execution of the malware. Its sophisticated evasion makes it imperative for affected sectors to enhance their cybersecurity measures.</p> <ul> <li><p>Enables attackers full remote access to Linux devices.</p></li> <li><p>Requires explicit execution by the victim.</p></li> <li><p>Compromises sensitive data and device usability.</p></li> <li><p>Detected by Palo Alto Networks in November 2024.</p></li> <li><p>Uses innocent file names for evasion.</p></li> <li><p>Difficult to remove without specialized tools.</p></li> <li><p>Critical for organizations to enhance user awareness.</p></li> <li><p>Indicators of compromise provided by Palo Alto
+
+## [OC] Goto - a simple command line ssh manager v1.3.0
+ - [https://www.reddit.com/r/linux/comments/1iys847/oc_goto_a_simple_command_line_ssh_manager_v130](https://www.reddit.com/r/linux/comments/1iys847/oc_goto_a_simple_command_line_ssh_manager_v130)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:57:45+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/grafviktor"> /u/grafviktor </a> <br/> <span><a href="https://i.redd.it/srv79ycokile1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iys847/oc_goto_a_simple_command_line_ssh_manager_v130/">[comments]</a></span>
+
+## Please forgive me for the errors of my past ways, +1 user migrated back to Linux.
+ - [https://www.reddit.com/r/linux/comments/1iys7ij/please_forgive_me_for_the_errors_of_my_past_ways](https://www.reddit.com/r/linux/comments/1iys7ij/please_forgive_me_for_the_errors_of_my_past_ways)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:57:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m gushing over my recent move to Linux and wanted to share and get this off my chest. So sorry for the long and probably useless post.</p> <p>I used Slackware Linux as my main OS back when I was in my teens and 20&#39;s, I stopped because I wanted to play games and drink beer and Windows was easier. I later ended up becoming a Windows SysAdmin for over a decade and leaned in heavy into PowerShell (which I still love and prefer). So I know my way around Windows, I was always able to roughly lock down and customize Windows to what I prefer. Ever since I only used Linux as a tool more than a desktop OS. After the news of Recall I set myself out to build a new custom Linux PC, because no fucking way I want my shit near that, and this weekend I migrated over.</p> <p>I can now say it&#39;s now become easier to configure Linux than it is to continuously update and modify my system after Microsoft decides they what to change things, like moving my shit
+
+## Global Shortcuts portal has landed in GNOME 48
+ - [https://www.reddit.com/r/linux/comments/1iyqzsc/global_shortcuts_portal_has_landed_in_gnome_48](https://www.reddit.com/r/linux/comments/1iyqzsc/global_shortcuts_portal_has_landed_in_gnome_48)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:06:38+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/viliti"> /u/viliti </a> <br/> <span><a href="https://gitlab.gnome.org/GNOME/xdg-desktop-portal-gnome/-/merge_requests/208">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iyqzsc/global_shortcuts_portal_has_landed_in_gnome_48/">[comments]</a></span>
+
+## Monkeytype clone for the terminal
+ - [https://www.reddit.com/r/linux/comments/1iyq94y/monkeytype_clone_for_the_terminal](https://www.reddit.com/r/linux/comments/1iyq94y/monkeytype_clone_for_the_terminal)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:35:30+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Pazl27"> /u/Pazl27 </a> <br/> <span><a href="https://i.redd.it/ejsv917o4ile1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iyq94y/monkeytype_clone_for_the_terminal/">[comments]</a></span>
+
+## Just testing out emus
+ - [https://www.reddit.com/r/linux/comments/1iypf5s/just_testing_out_emus](https://www.reddit.com/r/linux/comments/1iypf5s/just_testing_out_emus)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:59:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>(might be also related to the post before mine)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Why-are-you-geh"> /u/Why-are-you-geh </a> <br/> <span><a href="https://i.redd.it/2p3k3q5szhle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iypf5s/just_testing_out_emus/">[comments]</a></span>
+
+## I use Android btw
+ - [https://www.reddit.com/r/linux/comments/1iyp7o7/i_use_android_btw](https://www.reddit.com/r/linux/comments/1iyp7o7/i_use_android_btw)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:49:46+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/NotAnSJWMember"> /u/NotAnSJWMember </a> <br/> <span><a href="https://i.redd.it/1g4ehh83yhle1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iyp7o7/i_use_android_btw/">[comments]</a></span>
+
+## OpenCloud 1.0 now available: New open-source alternative to Microsoft SharePoint & Co.
+ - [https://www.reddit.com/r/linux/comments/1iyos4i/opencloud_10_now_available_new_opensource](https://www.reddit.com/r/linux/comments/1iyos4i/opencloud_10_now_available_new_opensource)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:29:38+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/FryBoyter"> /u/FryBoyter </a> <br/> <span><a href="https://opencloud.eu/en/news/opencloud-now-available-new-open-source-alternative-microsoft-sharepoint">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iyos4i/opencloud_10_now_available_new_opensource/">[comments]</a></span>
+
+## How is Debian to use?
+ - [https://www.reddit.com/r/linux/comments/1iynsih/how_is_debian_to_use](https://www.reddit.com/r/linux/comments/1iynsih/how_is_debian_to_use)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:42:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>TLDR: I&#39;m changing OS from Windows to Linux. I was going to go Mint but the lack of Wayland is annoying given my set up. How is Debian as an operating system?</p> <p>I recently posted here about X Vs Wayland and if Wayland is worth using. Some of the responses were very helpful and pointed out that Wayland is great in many cases (and lines up with my desired use cases) but it&#39;s not perfect.</p> <p>From that I&#39;m considering going to Debian as my main Distro.</p> <p>I don&#39;t want Arch on my main machine, I&#39;m thinking of having it on an old laptop to tinker with but the bleeding edge nature of Arch is something I&#39;m not interested in when I get home from a long day at work and want to play a game just for something to break. </p> <p>I don&#39;t want Fedora and Fedora based systems given the recent troubles with Flatpack and my experience on Nobara Linux.</p> <p>From that I thought of going to Mint, my favourite but the lack of supp
+
+## Well, CPANSec is CNA for Perl and the CPAN ecosystem ......stole it from Greg Kroah-Hartman's share on another channel!
+ - [https://www.reddit.com/r/linux/comments/1iymvvy/well_cpansec_is_cna_for_perl_and_the_cpan](https://www.reddit.com/r/linux/comments/1iymvvy/well_cpansec_is_cna_for_perl_and_the_cpan)
+ - RSS feed: $source
+ - date published: 2025-02-26T12:56:34+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/unixbhaskar"> /u/unixbhaskar </a> <br/> <span><a href="https://security.metacpan.org/2025/02/25/cpansec-is-cna-for-perl-and-cpan.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iymvvy/well_cpansec_is_cna_for_perl_and_the_cpan/">[comments]</a></span>
+
+## Is Wayland worth it?
+ - [https://www.reddit.com/r/linux/comments/1iymdv4/is_wayland_worth_it](https://www.reddit.com/r/linux/comments/1iymdv4/is_wayland_worth_it)
+ - RSS feed: $source
+ - date published: 2025-02-26T12:28:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m looking into changing my OS from Windows and I&#39;m a little stumped on where to go.</p> <p>I&#39;m thinking of going Linux Mint as I used to daily drive it and I personally loved it.</p> <p>The only thing is the lack of Wayland. I&#39;ve never used Wayland but from my knowledge of it, it seems great. But Linux Mint doesn&#39;t support it unless in Beta.</p> <p>This got me wondering, is Wayland worth considering when picking a new Distro for the average person?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheTruestDork"> /u/TheTruestDork </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iymdv4/is_wayland_worth_it/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iymdv4/is_wayland_worth_it/">[comments]</a></span>
+
+## Eloquent: a fully offline spelling and grammar checker for Linux with support for over 20 languages and the ability to expose its local LanguageTool server to other apps and browsers
+ - [https://www.reddit.com/r/linux/comments/1iyjv04/eloquent_a_fully_offline_spelling_and_grammar](https://www.reddit.com/r/linux/comments/1iyjv04/eloquent_a_fully_offline_spelling_and_grammar)
+ - RSS feed: $source
+ - date published: 2025-02-26T09:40:27+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/IverCoder"> /u/IverCoder </a> <br/> <span><a href="https://flathub.org/apps/re.sonny.Eloquent/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iyjv04/eloquent_a_fully_offline_spelling_and_grammar/">[comments]</a></span>
+
+## How should I go by mastering Linux?
+ - [https://www.reddit.com/r/linux/comments/1iyj603/how_should_i_go_by_mastering_linux](https://www.reddit.com/r/linux/comments/1iyj603/how_should_i_go_by_mastering_linux)
+ - RSS feed: $source
+ - date published: 2025-02-26T08:47:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>Should I start to learn the major utilities directories? Should I live in the arch wiki forums? How did you acquire your desired level of knowledge with Linux? When was the moment you felt that you can learn any Linux concepts with ease? </p> <p>Responses to any of these questions would be greatly appreciated.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Remarkable_Watch_840"> /u/Remarkable_Watch_840 </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iyj603/how_should_i_go_by_mastering_linux/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iyj603/how_should_i_go_by_mastering_linux/">[comments]</a></span>
+
+## is there anything like wsl, but for LINUX?
+ - [https://www.reddit.com/r/linux/comments/1iyakrb/is_there_anything_like_wsl_but_for_linux](https://www.reddit.com/r/linux/comments/1iyakrb/is_there_anything_like_wsl_but_for_linux)
+ - RSS feed: $source
+ - date published: 2025-02-26T00:32:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know what you might be thinking<br/> &quot;what?&quot;</p> <p>But hear me out, I would likke to be able to access the power of many distros from other distros (say, if I want to use a package that&#39;s available on the ubuntu official repos or in some ppa, but not in my distro), and while I could dual boot or whatever, after having tasted what it&#39;s like when you use wsl on windows, it&#39;s just... very convenient</p> <p>It would be nice to just be able to open the terminal from my distro and &quot;run ubuntu&quot;, or debian or whatever else</p> <p>Does anything like this that&#39;s as convenient as wsl is exist for linux?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chichibune"> /u/chichibune </a> <br/> <span><a href="https://www.reddit.com/r/linux/comments/1iyakrb/is_there_anything_like_wsl_but_for_linux/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/linux/comments/1iyakrb/is_ther
+

@@ -1,0 +1,177 @@
+# Source:GameSpot - All Content, URL:https://www.gamespot.com/feeds/mashup, language:en-US
+
+## Create Your Own Minecraft-Themed PC Gaming Setup With These New Razer Accessories
+ - [https://www.gamespot.com/articles/create-your-own-minecraft-themed-pc-gaming-setup-with-these-new-razer-accessories/1100-6529737/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/create-your-own-minecraft-themed-pc-gaming-setup-with-these-new-razer-accessories/1100-6529737/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:28:00+00:00
+
+<div><div data-embed-type="buylink" data-ref-id="3196" data-template="2" data-size="buylink__large" data-title="6529737 - Razer x Minecraft PC accessories" data-collection="" title="6529737 - Razer x Minecraft PC accessories" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1701/17013431/4451043-001.jpg alt="">                                 <a href="https://www.amazon.com/Razer-BlackWidow-Mechanical-Gaming-Keyboard-PC/dp/B0DVDGC52L?tag=gamespot-promos-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buyl
+
+## New Game In RPG Series That Inspired Puyo Puyo Is Getting An English Localization
+ - [https://www.gamespot.com/articles/new-game-in-rpg-series-that-inspired-puyo-puyo-is-getting-an-english-localization/1100-6529687/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/new-game-in-rpg-series-that-inspired-puyo-puyo-is-getting-an-english-localization/1100-6529687/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:58:00+00:00
+
+<div title="6529687 - Mado Monogatari: Fia and the Wondrous Academy preorders" data-embed-type="buylink" data-ref-id="3190" data-template="2" data-size="buylink__large" data-title="6529687 - Mado Monogatari: Fia and the Wondrous Academy preorders" data-collection="" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1701/17013431/4449318-mado.jpg alt="">                                 <a href="https://www.amazon.com/stores/page/preview?isSlp=1&amp;isPreview=1&amp;asins=B0DXMC7D3V,B0DXMCPRDS,B0DXLYG3LR&amp;tag=gamespot-preorders-20"></a>                              </div>       
+
+## The Biggest Upcoming Games That You Can Preorder Now
+ - [https://www.gamespot.com/gallery/the-biggest-upcoming-games-that-you-can-preorder-now/2900-6285](https://www.gamespot.com/gallery/the-biggest-upcoming-games-that-you-can-preorder-now/2900-6285)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:45:00+00:00
+
+<p><img src="https://www.gamespot.com/a/uploads/scale_large/1701/17013431/4450512-preorders25.jpg" /><br /><h3><p>We're only two weeks into 2025, and we've already seen some exciting big releases, including <a href="https://howl.link/8b5qjz3vhaph0?article_name=Gamespot&amp;article_url=https://www.gamespot.com/1736892808023?u1=subid_value">Kingdom Come Deliverance 2</a>, <a href="https://howl.link/k7o6cbz8kc7wk?article_name=Gamespot&amp;article_url=https://www.gamespot.com/17387838241245?u1=subid_value">Civilization VII</a>, and <a href="https://howl.link/p87v5ggtb7nqb?article_name=Gamespot&amp;article_url=https://www.gamespot.com/1736917821715?u1=subid_value">Dynasty Warriors Origins</a>, and <a href="https://howl.link/uv4f3zso8xg59?article_name=Gamespot&amp;article_url=https://www.gamespot.com/17406061470723?u1=subid_value">Donkey Kong Country Returns HD</a>. However, the rest of the year is stacked with even more highly anticipated games for console and PC like <a href="https://how
+
+## Dante Quips But Doesn't Slay In Devil May Cry Anime Preview Clip
+ - [https://www.gamespot.com/articles/dante-quips-but-doesnt-slay-in-devil-may-cry-anime-preview-clip/1100-6529736/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dante-quips-but-doesnt-slay-in-devil-may-cry-anime-preview-clip/1100-6529736/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:17:00+00:00
+
+<p>Since the first <a href="https://www.gamespot.com/articles/netflix-announces-devil-may-cry-anime-with-a-quick-teaser-of-dante-in-action/1100-6517996/">Devil May Cry</a> game in 2001, Dante has always favored style over anything else. He can dispatch almost any demonic foe without breaking a sweat and finish them off with a quip as he sends them straight back to Hell. In a new look at Netflix's Devil May Cry anime series, Dante still has his demon-killing skills intact. As for his comedic sensibilities, he may want to take a few improv classes before trying to come up with something witty to say.</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=13hN2dvP5Js" data-width="100%" data-height="100%">          <iframe src="https://www.youtube-nocookie.com/embed/13hN2dvP5Js" height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><p>Ironically, it's Dante's inability to land a joke that keeps 
+
+## Xbox Boss Teases Unannounced Games And Reacts To Switch 2 Reveal
+ - [https://www.gamespot.com/articles/xbox-boss-teases-unannounced-games-and-reacts-to-switch-2-reveal/1100-6529735/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-boss-teases-unannounced-games-and-reacts-to-switch-2-reveal/1100-6529735/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T11:14:00+00:00
+
+<p>It's no secret that <a href="https://www.gamespot.com/articles/microsoft-has-more-games-slated-for-ps5-this-year-than-sony-so-far/1100-6529489/">Xbox has a lot of games coming in 2025</a>, but what we've heard about so far doesn't represent everything the company is working on. Xbox Game Studios boss Craig Duncan said in an interview that Microsoft has plenty of games still to be announced.</p><p>Asked about what he's playing now and looking forward to, Duncan said on the <a href="https://news.xbox.com/en-us/podcast/xbox-game-studios-update-with-craig-duncan-official-xbox-podcast/">Xbox podcast</a> that he spends a lot of time playing Microsoft's own games, including unannounced games. "We've got a bunch of stuff we haven't announced, so obviously I spend a bunch of time with that," he said.</p><p>Microsoft has <a href="https://www.gamespot.com/articles/microsoft-has-more-games-slated-for-ps5-this-year-than-sony-so-far/1100-6529489/">more games coming to PS5 this year than Sony do
+
+## Hasbro Reveals Spider-Man Figures Based On Insomniac's Game Series
+ - [https://www.gamespot.com/articles/marvel-legends-reveals-spider-man-figures-based-on-insomniacs-game-series/1100-6529715/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/marvel-legends-reveals-spider-man-figures-based-on-insomniacs-game-series/1100-6529715/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T11:10:00+00:00
+
+<p>The only thing better than a brand-new Spider-Man action figure is a handful of brand-new Spider-Man action figures. If you're a fan of Insomniac's Spider-Man video games, you can build your own Spider-verse with an upcoming series of budget-friendly action figures. As part of its Marvel Legends line, Hasbro is releasing <a href="https://www.amazon.com/stores/page/preview?isSlp=1&amp;isPreview=1&amp;asins=B0D9ZTC95M,B0D9ZMGCSN,B0D9ZFJ3H1,B0D9ZKYPH4,B0D9ZT5XNT,B0D9ZK4Y46&amp;tag=gamespot-preorders-20">new collectible figures based on the suits from the Marvel's Spider-Man games</a> for PlayStation and PC.</p><p><strong>Marvel Legends: Spider-Man Video Game Action Figures:</strong></p><ul><li><a href="https://www.amazon.com/Spider-Man-SPD-Legends-GVERSE-2/dp/B0D9ZTC95M?tag=gamespot-preorders-20">Miles Morales Upgraded Suit</a> -- $25</li><li><a href="https://www.amazon.com/Spider-Man-SPD-Legends-GVERSE-3/dp/B0D9ZMGCSN?tag=gamespot-preorders-20">Miles Morales Boricua Suit</a> -- $25<
+
+## This Classic Fire Emblem-Inspired RPG Launches In March
+ - [https://www.gamespot.com/articles/this-classic-fire-emblem-inspired-rpg-launches-in-march/1100-6529734/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/this-classic-fire-emblem-inspired-rpg-launches-in-march/1100-6529734/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T10:24:00+00:00
+
+<p>Developer Sword and Axe LLC and publisher indie.io have announced that Dark Deity 2 will launch on March 24 for PC.</p><p>Dark Deity 2 is set 25 years after the events of the previous game. The realm of Verroa has been rebuilt by Irving, the first game's protagonist, and the Eternal Order. However, Verroa now faces a new threat. The Holy Asverellian Empire is on a conquest of expansion, and it's up to the Eternal Order to stop it. Dark Deity 2's new protagonists include Irving's children, Gwyn and Riordian, as they command the Eternal Delegation.</p><p>Dark Deity 2 is a tactical turn-based RPG inspired by games like Fire Emblem. In particular, its combat is very reminiscent of the classic Fire Emblem games on Game Boy, such as <a href="https://www.gamespot.com/games/fire-emblem-the-sacred-stones/">Fire Emblem: The Sacred Stones</a>. Combat units are scattered across the battlefield, and when they engage in battle with enemies, they're whisked away to a separate screen to duke it o
+
+## Dracula Still Owes Moon Knight Money As Marvel Rivals Calls Back To A Classic Meme
+ - [https://www.gamespot.com/articles/dracula-still-owes-moon-knight-money-as-marvel-rivals-calls-back-to-a-classic-meme/1100-6529732/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/dracula-still-owes-moon-knight-money-as-marvel-rivals-calls-back-to-a-classic-meme/1100-6529732/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T09:45:00+00:00
+
+<p>Prior to Marvel Rivals, casual superhero fans may have only been familiar with Moon Knight's live-action 2022 Disney+ series starring Oscar Isaac. The Fist of Khonshu first appeared in comics 50 years ago when he went up against Marvel's Werewolf by Night. However, some fans believe that Moon Knight has a grudge against Dracula because of a popular meme, and now even <a href="https://www.gamespot.com/articles/marvel-rivals-coming-to-consoles-ps5-beta-and-exclusive-spidey-costume-confirmed/1100-6523816/">Marvel Rivals</a> is getting in on the fun with some very amusing callbacks in the game.</p><p>The meme in question features artwork from one of Marvel's comics, but the dialogue was reedited to make Moon Knight angry at the lord of the vampires over an unpaid debt. This never happened in Marvel's comics, and Moon Knight hasn't had a lot of interactions with Dracula in-continuity.</p><p>Marvel Rivals continuity isn't bound by that technicality, and NetEase apparently added in a few
+
+## Metal Gear Solid: The Board Game Is Now Available At Amazon, Includes 24 Minis
+ - [https://www.gamespot.com/articles/metal-gear-solid-the-board-game-is-now-available-at-amazon-includes-24-minis/1100-6529727/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/metal-gear-solid-the-board-game-is-now-available-at-amazon-includes-24-minis/1100-6529727/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T09:09:00+00:00
+
+<div><div data-embed-type="buylink" data-ref-id="3194" data-template="2" data-size="buylink__large" data-title="6529727 - Metal Gear Solid Board Game" data-collection="" title="6529727 - Metal Gear Solid Board Game" class="norewrite">    <div class="buylink__container">                                                                                                                                                                                               <div class="buylink__item">                  <div class="buylink__image-container clickable">                                            <img class="buylink__image" src=https://www.gamespot.com/a/uploads/square_avatar/1601/16018044/4450721-mgs-square.jpg alt="">                                 <a href="https://www.amazon.com/Metal-Gear-Solid-Board-Game/dp/B0CNTJRC18?tag=gamespot-promos-20"></a>                              </div>                   <div class="buylink__text">                      <p class="buylink__title text-bold">
+
+## Xbox Missed Out On Jade Empire Franchise Potential, BioWare Dev Claims
+ - [https://www.gamespot.com/articles/xbox-missed-out-on-jade-empire-franchise-potential-bioware-dev-claims/1100-6529733/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/xbox-missed-out-on-jade-empire-franchise-potential-bioware-dev-claims/1100-6529733/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T09:01:00+00:00
+
+<p>BioWare co-founder Greg Zeschuk has claimed that Xbox could've had another potential franchise hit in the RPG Jade Empire if it wasn't for Microsoft's short-sighted advice.</p><p>In an interview with the <a href="https://open.spotify.com/episode/4C53o2G7q64HMCeqf54Qyz?si=02ac49c328d34de8&amp;nd=1&amp;dlsi=526b6e50087f44ba">My Perfect Console podcast</a>, Zeschuk said that Microsoft convinced BioWare to release Jade Empire at the tail-end of the original Xbox's lifecycle. "It was the worst advice; absolute moronic advice from them. The stupidest thing ever," he explained.</p><p>He claimed that Jade Empire should've been an Xbox 360 launch game, which would've made it more successful as a product at the beginning of the console's lifecycle as opposed to the end of the previous console's lifecycle.</p><a href="https://www.gamespot.com/articles/xbox-missed-out-on-jade-empire-franchise-potential-bioware-dev-claims/1100-6529733/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## PlayStation Plus Free Games For March 2025 Include Dragon Age: The Veilguard And More
+ - [https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-march-2025/1100-6529662/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-march-2025/1100-6529662/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T08:47:00+00:00
+
+<p dir="ltr">PlayStation has revealed this month's batch of free games for PlayStation Plus subscribers. All PS Plus members will be able to claim a trio of freebies starting March 4: <b>Dragon Age: The Veilguard</b>, <strong>Sonic Colors: Ultimate</strong>, and <strong>Teenage Mutant Ninja Turtles: The Cowabunga Collection</strong>. If you haven't claimed <a href="https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-february-2025/1100-6529091/">February's PlayStation Plus free games</a> yet, make sure to do so before next Tuesday.</p><p dir="ltr"><a href="https://www.gamespot.com/reviews/dragon-age-the-veilguard-review/1900-6418294/">Dragon Age: The Veilguard</a> is the headliner here, as the game was released back in October 2024. BioWare's return to its single-player roots, The Veilguard earned mostly positive reviews <a href="https://www.gamespot.com/articles/ea-reacts-to-dragon-age-the-veilguard-coming-up-short-and-explains-what-happened/1100-6529252/">but
+
+## Assassin's Creed Shadows Achievement List Revealed, None Are Missable
+ - [https://www.gamespot.com/articles/assassins-creed-shadows-achievement-list-revealed-none-are-missable/1100-6529730/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/assassins-creed-shadows-achievement-list-revealed-none-are-missable/1100-6529730/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T08:32:00+00:00
+
+<p>Ubisoft has <a href="https://store.steampowered.com/news/app/3159330/view/535468672209128051">revealed</a> the full list of Achievements/Trophies that will be available in Assassin's Creed Shadows. Achievement support will include Steam, where you'll find the same objectives as on PS5 and Xbox Series X|S.</p><p>You can see the full list below, along with their unlock criteria, although Ubisoft has censored the specifics of certain ones that could contain spoilers. It also confirmed that all of the Achievements can be earned on a single playthrough, so none of them are missable. There are no difficulty-related Achievements either.</p><p>"The development team built this list to cover a variety of game content--not just the main story, but also the additional content players can find in the world," Ubisoft explained. "As a result, achievements are tied to exploration, activities, the hideout, meeting allies and more."</p><a href="https://www.gamespot.com/articles/assassins-creed-shad
+
+## The Witcher 4 Reveal Trailer Shows Ciri And Mioni Are "Mirrors Of Each Other"
+ - [https://www.gamespot.com/articles/the-witcher-4-reveal-trailer-shows-ciri-and-mioni-are-mirrors-of-each-other/1100-6529728/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/the-witcher-4-reveal-trailer-shows-ciri-and-mioni-are-mirrors-of-each-other/1100-6529728/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T08:12:00+00:00
+
+<p dir="ltr">A couple of months after the unveiling, CD Projekt Red has decided to pull the curtains back to showcase how <a href="https://www.gamespot.com/gallery/the-witcher-4-release-date-trailer-news/2900-5228/">The Witcher 4's</a> debut trailer came together in partnership with <a href="https://platige.com">Platige Image</a>. The developer discusses that a major theme was showcasing how Ciri is somewhat of a mirror to a Stromford girl named Mioni.</p><p dir="ltr">The behind-the-scenes video for The Witcher 4 (seen below and posted <a href="https://www.youtube.com/watch?v=pGJ-B7v5tYI">on YouTube</a>) begins with director Sebastian Kalemba stating "that this is the moment to tell the story with Ciri." From there, the RPG's narrative director Philipp Weber opens up about how <a href="https://www.gamespot.com/articles/the-witcher-4-first-trailer-revealed-at-the-game-awards/1100-6528436/">The Witcher 4's first trailer</a>--which debuted at The Game Awards in December--follows how two
+
+## Splitgate 2: Check Out The Massive New Glacier Map In This Exclusive Video
+ - [https://www.gamespot.com/articles/splitgate-2-check-out-the-massive-new-glacier-map-in-this-exclusive-video/1100-6529713/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/splitgate-2-check-out-the-massive-new-glacier-map-in-this-exclusive-video/1100-6529713/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T08:00:00+00:00
+
+<p>Splitgate 2 developer 1047 details has announced new details on the game's upcoming <a href="https://www.gamespot.com/articles/splitgate-2-alpha-test-starts-later-this-month-with-new-game-modes-and-maps/1100-6529473/">open alpha</a>, as well as more information on the game's massive new Glacier map, which allows for up to three teams to throw down in 8v8v8 competition. GameSpot has an exclusive trailer you can check out below, which showcases the Multi-Team Domination mode on Glacier.</p><p>Anyone looking to experience an early slice of the portal-jumping first-person shooter can hop into the open alpha starting February 27 and running through March 2, with access available on PC, PS5, and Xbox Series X|S.</p><p>In total, there will be three new locations available in the open alpha:</p><a href="https://www.gamespot.com/articles/splitgate-2-check-out-the-massive-new-glacier-map-in-this-exclusive-video/1100-6529713/?ftag=CAD-01-10abi2f/">Continue Reading at GameSpot</a>
+
+## Splitgate 2 Multi-Team Domination Mode And Glacier Map Trailer
+ - [https://www.gamespot.com/videos/splitgate-2-multi-team-domination-mode-and-glacier-map-trailer/2300-6465716](https://www.gamespot.com/videos/splitgate-2-multi-team-domination-mode-and-glacier-map-trailer/2300-6465716)
+ - RSS feed: $source
+ - date published: 2025-02-26T08:00:00+00:00
+
+<img src="https://www.gamespot.com/a/uploads/square_medium/1823/18237460/4450536-screenshot2025-02-25at6.05.30%E2%80%AFpm.png" width="480" height="480" /> First extended gameplay look at Multi-Team Domination, a new game mode coming in Alpha 2, played on a brand-new map Glacier, the franchise's biggest map to date.combat, accentuating the heights of FPS action while empowering new ways to shut down opponents through portal-hopping movement.
+
+## Monolith's Shadow Of Mordor Nemesis System Patent Doesn't Expire For Another Decade
+ - [https://www.gamespot.com/articles/monoliths-shadow-of-mordor-nemesis-system-patent-doesnt-expire-for-another-decade/1100-6529722/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/monoliths-shadow-of-mordor-nemesis-system-patent-doesnt-expire-for-another-decade/1100-6529722/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T07:23:00+00:00
+
+<p>In 2014, Monolith Productions introduced its Nemesis system in <a href="https://www.gamespot.com/reviews/middle-earth-shadow-of-mordor-review/1900-6415884/">Middle-earth: Shadow of Mordor</a>. That AI procedural program allowed this Lord of the Rings game and its 2017 sequel, <a href="https://www.gamespot.com/reviews/middle-earth-shadow-of-war-review/1900-6416783/">Middle-earth: Shadow of War</a>, to feature enemies who remembered previous encounters with the players' character and evolved accordingly. Unfortunately, with <a href="https://www.gamespot.com/articles/new-wonder-woman-game-canceled-multiple-studios-closed-report/1100-6529706/">the recent closure of Monolith and two other studios owned by Warner Bros.</a>, it may be a very long time before another video game utilizes the Nemesis system.</p><p>As reported by journalist Stephen Totilo, Monolith's <a href="https://patents.google.com/patent/US20160279522A1/en">Nemesis system patent</a>--which remains the property of Warner
+
+## Sonic Rumble Now Coming Spring 2025 Following Delay
+ - [https://www.gamespot.com/articles/sonic-rumble-now-coming-spring-2025-following-delay/1100-6529724/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/sonic-rumble-now-coming-spring-2025-following-delay/1100-6529724/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T07:14:00+00:00
+
+<p>Sonic Rumble, the Fall Guys-inspired party game from Sega, was supposed to launch at the end of 2024. That didn't happen, of course, and the free-to-play game is now set for launch this spring.</p><p>In a <a href="https://sonicrumble.sega.com/en/news/000111/">blog post</a>, Sega thanked fans for their patience, saying the studio is "committed to delivering a memorable experience for Sonic fans." </p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=Em6-SjjaYQE" data-width="100%" data-height="100%">          <iframe src="https://www.youtube-nocookie.com/embed/Em6-SjjaYQE" height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><p>Sonic Rumble was already available in a pre-launch early-access period with a limited set of features. For the global launch in Spring 2025, Sega will bring the game up to 1.2.0, and this will include a new competitive game mode and the "Crew" feature that allows 
+
+## 10 Live-Service Games Made Up More Than 40% Of Last Month's US Playtime On PlayStation And Xbox
+ - [https://www.gamespot.com/articles/10-live-service-games-made-up-more-than-40-of-last-months-us-playtime-on-playstation-and-xbox/1100-6529723/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/10-live-service-games-made-up-more-than-40-of-last-months-us-playtime-on-playstation-and-xbox/1100-6529723/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T07:10:00+00:00
+
+<p>Live-service games are a large and durable part of the gaming ecosystem, and new data from last month demonstrates just how dominant the biggest games have become. A new report from Circana stated that more than 40% of all playing time spent on a PS5 or Xbox Series X went to the top 10 live-service games in the month of January in the US.</p><p dir="ltr">Posting on <a href="https://bsky.app/profile/matpiscatella.bsky.social/post/3lj27nkyes22r">Bluesky</a>, Circana executive director Mat Piscatella also stated that over 70% of active PS5 or Xbox Series X|S players played at least one of the top 10 live-service games during January in the US. While that might constitute a player simply launching the game and playing something else, the more than 40% number is quite staggering, and shows just how much gaming is divided between a relatively small number of games.</p><p>Piscatella noted that this statistic reflects the difficulty that new games have in competing against the old stalwar
+
+## Classic Horror Game FEAR Rushed To GOG's Preservation Program After Monolith's Shutdown
+ - [https://www.gamespot.com/articles/classic-horror-game-fear-rushed-to-gogs-preservation-program-after-monoliths-shutdown/1100-6529725/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/classic-horror-game-fear-rushed-to-gogs-preservation-program-after-monoliths-shutdown/1100-6529725/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T07:08:00+00:00
+
+<p>GOG has announced that it is adding FEAR to its preservation program next month after the game's developer, Monolith Productions, was <a href="https://www.gamespot.com/articles/new-wonder-woman-game-canceled-multiple-studios-closed-report/1100-6529706/">shut down yesterday</a>. The version being added is the Platinum one, which includes the base game and both expansions. It's on sale right now on GOG for $1.</p><p>While FEAR was already planned to be added to the preservation program, GOG decided to accelerate the process. "Monolith Productions has given players some of the most unforgettable experiences, blending groundbreaking gameplay with rich storytelling," GOG said in a statement on <a href="https://x.com/GOGcom/status/1894753901540196781">Twitter</a>. "To honor their legacy, we’re proud to announce that F.E.A.R. Platinum will be joining the GOG Preservation Program."</p><p>There are two other games in the FEAR series, including FEAR 2 and FEAR 3. They haven't been announced
+
+## Your Fable Nemesis Might Just Be This Giant Chicken
+ - [https://www.gamespot.com/articles/your-fable-nemesis-might-just-be-this-giant-chicken/1100-6529721/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/your-fable-nemesis-might-just-be-this-giant-chicken/1100-6529721/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:44:00+00:00
+
+<p>Turn10's upcoming <a href="https://www.gamespot.com/articles/fable-4-everything-we-know/1100-6485774/">Fable</a> game has plenty of enemies for you to swing your sword at, from werewolves to a <em>really </em>big version of roving travel show host Richard Ayoade, but it looks like your greatest challenge might just be an incredibly angry chicken.</p><p>A giant chicken that is, as a recent Xbox Game Studios update video briefly showed the Fable protagonist taking on the John Wick of chickens. It's a blink-and-you'll-miss-it moment, but this rooster looks ready to throw down. Good luck trying to kick this feathery fiend.</p><div data-embed-type="video" data-src="https://www.youtube.com/watch?v=7r1t_oDC7z8" data-width="100%" data-height="100%" data-video-start="985">          <iframe src="https://www.youtube-nocookie.com/embed/7r1t_oDC7z8?start=985" height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><p>Chic
+
+## Monster Hunter Wilds Global Launch Times Announced, Hefty Day-One Patch Required
+ - [https://www.gamespot.com/articles/monster-hunter-wilds-global-launch-times-announced-hefty-day-one-patch-required/1100-6529720/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/monster-hunter-wilds-global-launch-times-announced-hefty-day-one-patch-required/1100-6529720/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:11:00+00:00
+
+<p>Monster Hunter Wilds launches on February 28, but when <em>exactly </em>can you start playing? Capcom has now <a href="https://x.com/monsterhunter/status/1894620982939193800">released the global launch times</a> for the new RPG, while it also announced that people who are picking up the game's physical edition will need to download a hefty patch before playing.</p><p>The game actually unlocks on February 27, starting at 9 PM PST. Everywhere else, people can begin playing Monster Hunter Wilds at midnight in whatever time zone they live in, at least on console. The PC editions launch a bit later in many regions. You can consult the chart below to find out when Monster Hunter Wilds unlocks where you live.</p><div data-embed-type="video" data-ref-id="2300-6465711" data-src="/videos/everything-to-know-monster-hunter-wilds/2300-6465711/" data-width="100%" data-height="100%" data-video-start="0">          <iframe height="100%" width="100%" scrolling="no" frameborder="" webkitallowfullscr
+
+## Fable Delay Into 2026 Could Allow It To Release On PS5 At Launch, Leaker Suggests
+ - [https://www.gamespot.com/articles/fable-delay-into-2026-could-allow-it-to-release-on-ps5-at-launch-leaker-suggests/1100-6529719/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/fable-delay-into-2026-could-allow-it-to-release-on-ps5-at-launch-leaker-suggests/1100-6529719/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T05:48:00+00:00
+
+<p>Fable, one of Microsoft's big upcoming first-party games, <a href="https://www.gamespot.com/articles/fable-delayed-to-2026/1100-6529698/">has been delayed to 2026</a>, and it has been suggested that a PS5 port is the reason why. Leaker NateTheHate--<a href="https://www.gamespot.com/articles/switch-2-reveal-coming-this-week-launch-expected-may-or-june-report/1100-6528763/">who recently revealed a ton of Switch 2 info</a>--speculated that the new 2026 release date for Fable could have been approved so that the game could launch on PS5 on the same day as the Xbox Series X|S and PC versions.</p><p>"If I had to speculate as to why Fable was delayed: it's to allow some extra time for polish and to make the PS5 version a day-one release alongside Xbox/PC, because the PS5 version was always slated for 2026," <a href="https://www.resetera.com/threads/xbox-game-studios-update-with-craig-duncan-fable-delayed-to-2026.1118379/page-4">NateTheHate wrote</a> in a pair of <a href="https://www.rese
+
+## A Wonder Woman Legend Was Working On Canceled Game, Offers Heartfelt Tribute
+ - [https://www.gamespot.com/articles/a-wonder-woman-legend-was-working-on-canceled-game-offers-heartfelt-tribute/1100-6529718/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/a-wonder-woman-legend-was-working-on-canceled-game-offers-heartfelt-tribute/1100-6529718/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T05:44:00+00:00
+
+<p>Gail Simone, an award-winning writer known for her work on the DC franchise, has confirmed she was involved with the Wonder Woman game at Monolith that was <a href="https://www.gamespot.com/articles/new-wonder-woman-game-canceled-multiple-studios-closed-report/1100-6529706/">just recently canceled</a>.</p><p>Simone, the longest-running female writer on the Wonder Woman series, <a href="https://x.com/gailsimone/status/1894548068336636025?s=46">said</a> she was asked to do long-term consulting on the game and jumped at the chance. "It was a perfect storm of stuff I adore," she said. "Wonder Woman, video games, and one of my favorite game studios: Monolith."</p><p>Simone went on to say Monolith's Wonder Woman game was "gorgeous and expansive." She said "every effort was made to make this not just a great game, but a great Wonder Woman game. A showpiece epic."</p><a href="https://www.gamespot.com/articles/a-wonder-woman-legend-was-working-on-canceled-game-offers-heartfelt-tribute/1100
+
+## Mecha Break Beta Hit 300,000 Concurrent Players And Broke Servers
+ - [https://www.gamespot.com/articles/mecha-break-beta-hit-300000-concurrent-players-and-broke-servers/1100-6529716/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/mecha-break-beta-hit-300000-concurrent-players-and-broke-servers/1100-6529716/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T04:43:00+00:00
+
+<p>Late last week, Amazing Seasun Games launched the latest beta test for <a href="https://www.gamespot.com/articles/mecha-break-puts-a-co-op-spin-on-all-out-armored-core-style-action/1100-6519783/">Mecha Break</a>, a new co-op shooter game that's basically Armored Core by way of Titanfall. If the initial wave of 300,000 concurrent players is any indication, Mecha Break could be well on its way towards being a hit. However, all of those players led to some of Mecha Break's servers going down.</p><p>In a message on Mecha Break's official social media channels, Amazing Seasun Games apologized to players for the server problems and promised to send out three batches of Ultimate Maintenance Box *15 via Mecha Break's in-game mail.</p><div data-embed-type="tweet" data-src="https://twitter.com/MechaBREAK/status/1893706637200040298" data-has-image="false"><blockquote align="center" class="twitter-tweet" data-conversation="none" data-mce-disable-toolbar="true"><p dir="ltr">Pilots,<br />As our
+
+## February's Xbox Update Adds More Titles To Cloud Gaming
+ - [https://www.gamespot.com/articles/februarys-xbox-update-adds-more-titles-to-cloud-gaming/1100-6529712/?ftag=CAD-01-10abi2f](https://www.gamespot.com/articles/februarys-xbox-update-adds-more-titles-to-cloud-gaming/1100-6529712/?ftag=CAD-01-10abi2f)
+ - RSS feed: $source
+ - date published: 2025-02-26T04:34:00+00:00
+
+<p>Last fall, Microsoft unveiled an initiative to <a href="https://www.gamespot.com/articles/xbox-will-soon-let-players-stream-all-their-games-not-just-those-on-game-pass-report/1100-6527140/">let Xbox owners stream any game in their library</a>, even if it isn't on Game Pass. February's Xbox Update moves that agenda forward with over 50 playable games that Game Pass Ultimate subscribers can now access on any supported devices as long as they own the titles.</p><p>As related on <a href="https://news.xbox.com/en-us/2025/02/25/xbox-february-update-invite-links-cloud-gaming-update/">Xbox's official site</a>, the following titles were among the recently added games that players can stream from their own collection.</p><ul><li>Blasphemous 2</li><li>Kingdom Come: Deliverance II</li><li>Slime Rancher 2</li><li>Subnautica</li><li>Subnautica: Below Zero</li><li>The Talos Principle 2</li><li>Tomb Raider IV-VI Remastered</li></ul><p>Additionally, streaming support for the titles below will be a
+

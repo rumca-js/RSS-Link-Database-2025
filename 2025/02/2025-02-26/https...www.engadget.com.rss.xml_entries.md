@@ -1,0 +1,164 @@
+# Source:Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics, URL:https://www.engadget.com/rss.xml, language:en-US
+
+## YouTube passes 1 billion monthly active podcast viewers
+ - [https://www.engadget.com/entertainment/youtube-passes-1-billion-monthly-active-podcast-viewers-225223309.html?src=rss](https://www.engadget.com/entertainment/youtube-passes-1-billion-monthly-active-podcast-viewers-225223309.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:52:23+00:00
+
+<p>It sometimes feels like everybody and their dog has a podcast. (<a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.engadget.com/podcasts/" data-original-link="https://www.engadget.com/podcasts/"><em>Engadget does!</em></a>) But why not jump on the trend when the interest in this type of content has <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.pewresearch.org/journalism/fact-sheet/audio-and-podcasting/" data-original-link="https://www.pewresearch.org/journalism/fact-sheet/audio-and-podcasting/"><ins>grown</ins></a> for years? Video platform YouTube may not seem like the most obvious choice for tuning in to an audio-driven format, but the company has actually become a major player for podcast consumption. Today, YouTube <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://blog.youtube/news-and-events/1-billion-m
+
+## The M3 MacBook Air is $200 off at Amazon right now
+ - [https://www.engadget.com/deals/the-m3-macbook-air-is-200-off-at-amazon-right-now-210927500.html?src=rss](https://www.engadget.com/deals/the-m3-macbook-air-is-200-off-at-amazon-right-now-210927500.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T21:09:27+00:00
+
+<p>There's <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.engadget.com/computing/apples-m4-macbook-air-could-be-here-in-just-a-few-weeks-153004599.html" data-original-link="https://www.engadget.com/computing/apples-m4-macbook-air-could-be-here-in-just-a-few-weeks-153004599.html">a new M4 MacBook Air</a> reportedly on the way soon, but if you can't wait or don't need the extra power of Apple's M4 chip, you can get <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/macbook-air-m3-review-2024-13-15-inch-140053162.html" data-original-link="https://www.engadget.com/macbook-air-m3-review-2024-13-15-inch-140053162.html">a M3 MacBook Air</a> for $200 off on Amazon right now. That lowers the current MacBook Air's price from $1,099 to $899 — not the $850 low we've seen before for the Air, but pretty close.</p> 
+<p>Engadget picked the M3 MacBook Air as the best Ma
+
+## Pixel Watch 3 receives FDA clearance for loss of pulse detection
+ - [https://www.engadget.com/wearables/pixel-watch-3-receives-fda-clearance-for-loss-of-pulse-detection-210458883.html?src=rss](https://www.engadget.com/wearables/pixel-watch-3-receives-fda-clearance-for-loss-of-pulse-detection-210458883.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T21:04:58+00:00
+
+<p>The FDA has granted <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://blog.google/feed/pixel-watch-3-loss-of-pulse-detection-fda/" data-original-link="https://blog.google/feed/pixel-watch-3-loss-of-pulse-detection-fda/"><ins>clearance</ins></a> to a potentially lifesaving feature for Google's Pixel Watch 3. The smartwatch will start offering "loss of pulse detection" for US customers at the end of March. Once this aspect of the watch is enabled, the Pixel Watch 3 can automatically place a call to emergency services if it detects that the wearer's pulse has stopped. That could help a user receive critical medical attention even if they are responsive in situations such as cardiac arrest, respiratory or circulatory failure, overdose or poisoning.</p>
+<p>Loss of pulse detection was announced last year and is already available to Pixel Watch 3 owners in select EU markets. We luckily didn't have cause to put the feature through its
+
+## Riot is reversing its unpopular League of Legends changes
+ - [https://www.engadget.com/gaming/pc/riot-is-reversing-its-unpopular-league-of-legends-changes-203925763.html?src=rss](https://www.engadget.com/gaming/pc/riot-is-reversing-its-unpopular-league-of-legends-changes-203925763.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:39:26+00:00
+
+<p>Riot Games is <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.leagueoflegends.com/en-us/news/dev/dev-hextech-chests-getting-champs-more/" data-original-link="https://www.leagueoflegends.com/en-us/news/dev/dev-hextech-chests-getting-champs-more/">hitting "undo"</a> on its recent massively unpopular changes to <em>League of Legends</em> that essentially made everything in the game harder for players to unlock without spending money. After the company saw negative comments spammed across social media, widespread <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://gamerant.com/league-of-legends-players-call-for-boycott/" data-original-link="https://gamerant.com/league-of-legends-players-call-for-boycott/">talk</a> of a player boycott and over 32,000 signatures gathered on a <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="htt
+
+## Shadow of Mordor's innovative Nemesis system is locked behind a patent until 2036
+ - [https://www.engadget.com/gaming/shadow-of-mordors-innovative-nemesis-system-is-locked-behind-a-patent-until-2036-195437208.html?src=rss](https://www.engadget.com/gaming/shadow-of-mordors-innovative-nemesis-system-is-locked-behind-a-patent-until-2036-195437208.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:54:38+00:00
+
+<p>Warner Bros Discovery recently <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/gaming/warner-bros-discovery-slashes-gaming-business-closing-three-studios-204344213.html">shut down a trio of game studios</a>, including the well-regarded Monolith Productions. This has put one of the coolest game mechanics of the 2010s in limbo. <em>Middle-earth: Shadow of Mordor&#39;s</em> <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/2014-09-26-middle-earth-shadow-of-mordor-review-my-precioussss.html">excellent Nemesis system</a> is locked behind a patent owned by Warner Bros all the way until 2036, <a data-i13n="cpos:3;pos:1" href="https://www.eurogamer.net/shadow-of-mordors-brilliant-nemesis-system-is-locked-away-by-a-warner-bros-patent-until-2036-despite-studio-shutdown">according to reporting by <em>Eurogamer</em></a>.</p>
+<p>The Nemesis system was featured in both 2014’s <em>Shadow of Mordor</em> and the <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/2017-03
+
+## The dream of PictoChat on the Nintendo DS lives on in this iMessage app
+ - [https://www.engadget.com/apps/the-dream-of-pictochat-on-the-nintendo-ds-lives-on-in-this-imessage-app-194040764.html?src=rss](https://www.engadget.com/apps/the-dream-of-pictochat-on-the-nintendo-ds-lives-on-in-this-imessage-app-194040764.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:40:40+00:00
+
+<p>The Nintendo DS' stylus-based messaging app PictoChat wasn't the first place I instant-messaged (that would be my friend's AIM account) but it was absolutely the least overwhelming and most pleasant place it happened. <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://apps.apple.com/us/app/picochat-for-imessage/id6741395468" data-original-link="https://apps.apple.com/us/app/picochat-for-imessage/id6741395468">PicoChat</a>, an iMessage app from developer <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://bsky.app/profile/idreesinc.com" data-original-link="https://bsky.app/profile/idreesinc.com">Idrees Hassan</a> that you can download right now, attempts to recapture some of that peer-to-peer messaging magic on your iPhone.</p>
+<p>PicoChat looks like a version of PictoChat that’s been squeezed into the lower-third of your iPhone, complete with alphanumeric and emoji keyboards,
+
+## The PS Plus monthly games for March include Dragon Age: The Veilguard
+ - [https://www.engadget.com/gaming/playstation/the-ps-plus-monthly-games-for-march-include-dragon-age-the-veilguard-181028013.html?src=rss](https://www.engadget.com/gaming/playstation/the-ps-plus-monthly-games-for-march-include-dragon-age-the-veilguard-181028013.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T18:10:28+00:00
+
+<p>A new month is almost upon us, which means Sony is about to refresh <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://blog.playstation.com/2025/02/26/playstation-plus-monthly-games-for-march-dragon-age-the-veilguard-sonic-colors-ultimate-teenage-mutant-ninja-turtles-the-cowabunga-collection/" data-original-link="https://blog.playstation.com/2025/02/26/playstation-plus-monthly-games-for-march-dragon-age-the-veilguard-sonic-colors-ultimate-teenage-mutant-ninja-turtles-the-cowabunga-collection/">the lineup of games</a> that all PlayStation Plus members can claim and keep in their collection as long as they maintain their subscription. Between March 4 and March 31, you'll be able to snag <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/gaming/dragon-age-the-veilguard-comes-out-on-october-31-161317701.html"><em>Dragon Age: The Veilguard</em></a><em>, Sonic Colors: Ultimate </em>and <em>Teenage Mutant Ninja Turtles: The Co
+
+## This DJI Osmo Action 5 Pro bundle is cheaper than ever
+ - [https://www.engadget.com/deals/this-dji-osmo-action-5-pro-bundle-is-cheaper-than-ever-175747696.html?src=rss](https://www.engadget.com/deals/this-dji-osmo-action-5-pro-bundle-is-cheaper-than-ever-175747696.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:57:54+00:00
+
+<p>The DJI Osmo Action 5 Pro Adventure Combo bundle is on sale <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=ee6f956d-dda3-4a93-8af3-41bb03496b84&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0RKSS1BZHZlbnR1cmUtQmF0dGVyaWVzLVN0YWJpbGl6YXRpb24tVG91Y2hzY3JlZW5zL2RwL0IwREJSOEhWWkc_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiZWU2Zjk1NmQtZGRhMy00YTkzLThhZjMtNDFiYjAzNDk2Yjg0Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0RKSS1BZHZlbnR1cmUtQmF0dGVyaWVzLVN0YWJpbGl6YXRpb24tVG91Y2hzY3JlZW5zL2RwL0IwREJSOEhWWkciLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAYXb_dHzCdv2WNugBFSdKDRLEI5zIyK5JEW3Oeab_MRc&amp;gcR
+
+## Max reverses course, won't charge extra for live sports and news
+ - [https://www.engadget.com/entertainment/streaming/max-reverses-course-wont-charge-extra-for-live-sports-and-news-175010512.html?src=rss](https://www.engadget.com/entertainment/streaming/max-reverses-course-wont-charge-extra-for-live-sports-and-news-175010512.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:50:10+00:00
+
+<p>In an utterly shocking, consumer-friendly move, Max won't charge for something previously offered for free. Warner Bros. Discovery <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://press.wbd.com/ca/media-release/max-keep-live-sports-and-news-within-standard-and-premium-subscription-tiers-no?language_content_entity=en" data-original-link="https://press.wbd.com/ca/media-release/max-keep-live-sports-and-news-within-standard-and-premium-subscription-tiers-no?language_content_entity=en">said</a> on Wednesday that it's shelving its <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/max-will-offer-free-live-sports-streaming-until-march-2024-074445038.html">previously announced plan</a> to charge an extra $10 monthly for sports and news content. Instead, it's cutting the content from the ad-supported tier next month, which sounds reasonable enough.</p> 
+<p>In 2023, Max said its Bleacher Report (B/R) Sports Add-On tier <a data-
+
+## The Oversight Board will weigh in on Meta’s new hate speech policies
+ - [https://www.engadget.com/social-media/the-oversight-board-will-weigh-in-on-metas-new-hate-speech-policies-174044682.html?src=rss](https://www.engadget.com/social-media/the-oversight-board-will-weigh-in-on-metas-new-hate-speech-policies-174044682.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:40:44+00:00
+
+<p>Less than two weeks before Donald Trump’s inauguration, Meta announced <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/social-media/meta-is-ditching-third-party-fact-checkers-on-facebook-instagram-142330246.html"><ins>sweeping changes</ins></a> to its content moderation procedures, reportedly at the behest of Mark Zuckerberg and a small group of advisors. Among those caught off guard was the company’s own Oversight Board, the independent organization created by Meta to help shape its most sensitive policy decisions. The group is now looking to examine those changes, and in doing so, will test the enforceability of its own powers.</p>
+<p>The changes Meta has enacted drastically reshape how the company polices content across Facebook, Instagram and Threads. It ended its fact-checking program in the US, and rolled back hate speech rules that protected immigrants and LGBTQ users on its apps. Unlike its previously proactive approach, it also reoriented its content moderation
+
+## Amazon’s AI-heavy Alexa+ will be accessible on the web
+ - [https://www.engadget.com/home/smart-home/amazons-ai-heavy-alexa-will-be-accessible-on-the-web-164724844.html?src=rss](https://www.engadget.com/home/smart-home/amazons-ai-heavy-alexa-will-be-accessible-on-the-web-164724844.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:47:24+00:00
+
+<p>Amazon just held an event in New York City to reveal the long-awaited <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/amazon-alexa-event-liveblog-new-ai-services-and-more-200022642.html">revamp of its Alexa chatbot</a>. This refreshed assistant can perform many new tasks, thanks to some AI wizardry, and there are a few different ways for consumers to access the digital companion. There’s voice activation with Echo devices, of course, but the company has also built a <a data-i13n="cpos:2;pos:1" href="https://alexa.com/">dedicated web portal for Alexa+</a>.</p>
+<p>This portal will allow Amazon customers to interact with Alexa+ without having to boot up the app or interact with a smart speaker or smart display. This could be handy for making adjustments while at work or for those who feel comfortable drafting lengthy queries with a traditional keyboard. Consumers will also be able to continue using the app, but Amazon promises a redesign in the near future to accommodate t
+
+## Everything announced at Amazon's Alexa+ AI event
+ - [https://www.engadget.com/ai/everything-announced-at-amazons-alexa-ai-event-164613305.html?src=rss](https://www.engadget.com/ai/everything-announced-at-amazons-alexa-ai-event-164613305.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:46:13+00:00
+
+<p>Amazon held its <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/general/amazon-is-holding-a-devices-event-on-february-26-heres-what-to-expect-193513762.html">first major product event</a> of the year on Wednesday and, <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/general/amazon-is-holding-a-devices-event-on-february-26-heres-what-to-expect-193513762.html">as expected</a>, it was largely about Alexa. The company first announced its next-gen, <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/amazon-alexa-is-evolving-into-a-chatbot-for-your-home-152654742.html">AI-powered voice assistant</a> back in 2023, but <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/ai/amazons-ai-lead-says-technical-issues-are-holding-back-alexa-ai-150017067.html">technical issues</a> forced Amazon to delay its formal unveiling and rollout.&nbsp;</p>
+<p>An Alexa upgrade means that Amazon has a swathe of new devices ready to support the latest version of the voice ass
+
+## Alexa+ is a smarter, more conversational AI version of Amazon's digital assistant
+ - [https://www.engadget.com/ai/alexa-is-a-smarter-more-conversational-ai-version-of-amazons-digital-assistant-154349563.html?src=rss](https://www.engadget.com/ai/alexa-is-a-smarter-more-conversational-ai-version-of-amazons-digital-assistant-154349563.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:43:49+00:00
+
+<p>Following <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/amazon-alexa-is-evolving-into-a-chatbot-for-your-home-152654742.html">years of development</a>, Amazon&#39;s next-generation digital assistant is nearly ready for public use. Panos Panay, senior vice president of devices and services, demoed Alexa+ at the company&#39;s 2025 devices event.&nbsp;&nbsp;</p>
+<p>The model powering Alexa+ can detect tone and mood and respond accordingly, with a completely new voice — one that sounds more natural. Moreover, it&#39;s only necessary to say &quot;Alexa&quot; once to wake the assistant, and it will then follow the conversation. Panay said Alexa+ has contextual awareness, with the ability to &quot;remember&quot; earlier parts of a conversation. &quot;There&#39;s no more Alexa speak&quot; with Alexa+, Panay said. &quot;You can have almost any conversation — that intimidation factor of AI is gone.&quot;&nbsp;</p>
+<span id="end-legacy-contents"></span><p>In one of the more impr
+
+## Half of UK homes will need heat pumps by 2040 to hit climate goals
+ - [https://www.engadget.com/science/half-of-uk-homes-will-need-heat-pumps-by-2040-to-hit-climate-goals-151406654.html?src=rss](https://www.engadget.com/science/half-of-uk-homes-will-need-heat-pumps-by-2040-to-hit-climate-goals-151406654.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:14:08+00:00
+
+<p>The UK’s Climate Change Committee (CCC) has advised the government to ensure <a data-i13n="cpos:1;pos:1" href="https://www.bbc.com/news/articles/c70ekknr2rwo"><ins>half of all homes</ins></a> in the UK have heat pumps — electric replacements for gas boilers — by 2040 as part of its <a data-i13n="cpos:2;pos:1" href="https://www.theccc.org.uk/publication/the-seventh-carbon-budget/"><ins>Seventh Carbon Budget</ins></a> to reach net zero by 2050. It also recommended making four out of five cars electric.</p>
+<p>The UK’s carbon budgets are intended to help it achieve a balance between the greenhouse gasses it produces and how much is taken out of the atmosphere. Besides switching to electric cars and heat pumps and moving away from fossil fuels, the CCC added that reducing consumption of meat and dairy would also help. Although the UK government isn’t bound to accept the CCC’s guidance, doing so makes the carbon target legally binding. The government can decide how it wants to hit the 
+
+## Google is making it even easier to remove your personal information on Search
+ - [https://www.engadget.com/cybersecurity/google-is-making-it-even-easier-to-remove-your-personal-information-on-search-145326075.html?src=rss](https://www.engadget.com/cybersecurity/google-is-making-it-even-easier-to-remove-your-personal-information-on-search-145326075.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:53:29+00:00
+
+<p>Google has been offering the <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/google-results-about-you-app-rolling-out-084913547.html">Results About You</a> tool since 2022 and <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/google-is-making-it-easier-to-remove-your-private-information-from-search-170025085.html">updated</a> it once in 2023. A part of Google Search, the tool looks for your personal information online and lets you request its removal. Today, the tech giant is announcing the <a data-i13n="cpos:3;pos:1" href="https://blog.google/feed/results-about-you-new-design/">latest changes</a>, including a redesigned hub and the ability to update outdated search results to reflect the latest changes.</p>
+<p>The redesign isn’t only for show. You can now submit removal requests directly from Search with fewer actions by clicking or tapping the three dots beside a search result. If you manage to have content about you deleted or changed from a website but Goog
+
+## Nearly all UK undergrads use AI in their studies, according to a new report
+ - [https://www.engadget.com/ai/nearly-all-uk-undergrads-use-ai-in-their-studies-according-to-a-new-report-144221715.html?src=rss](https://www.engadget.com/ai/nearly-all-uk-undergrads-use-ai-in-their-studies-according-to-a-new-report-144221715.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:42:21+00:00
+
+<p>Apparently almost all undergraduate students are using AI now, in one way or another. A <a data-i13n="cpos:1;pos:1" href="https://www.hepi.ac.uk/2025/02/26/student-generative-ai-survey-2025/">new report</a> from the UK&#39;s Higher Education Policy Institute (HEPI) found that 92 percent of students have used generative AI tools, such as <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/openai-has-a-has-a-new-version-of-chatgpt-just-for-universities-191350708.html">ChatGPT</a>, for their studies. At the same time, 88 percent of these students have used it for exams. These numbers are a tremendous increase from <a data-i13n="cpos:3;pos:1" href="https://www.hepi.ac.uk/2024/02/01/provide-or-punish-students-views-on-generative-ai-in-higher-education/">HEPI&#39;s February 2024 report</a> in which 66 percent and 53 percent participants relayed use, respectively.&nbsp;</p>
+<p>The top reasons students reported using AI include saving time, improved quality of their work and gettin
+
+## The Apple Pencil Pro drops to $99 at Amazon
+ - [https://www.engadget.com/deals/the-apple-pencil-pro-drops-to-99-at-amazon-162456343.html?src=rss](https://www.engadget.com/deals/the-apple-pencil-pro-drops-to-99-at-amazon-162456343.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:44:17+00:00
+
+<p>Those looking to turn their iPad into a note-taking or doodling machine need look no further than the <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=346842de-6166-4df4-94c0-e31cba7fe869&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0FwcGxlLVBlbmNpbC1Qcm8tUGl4ZWwtUGVyZmVjdC1JbmR1c3RyeS1MZWFkaW5nL2RwL0IwRDNKNzFSTTcvP3RhZz1nZGd0MGMtMjAiLCJjb250ZW50VXVpZCI6IjM0Njg0MmRlLTYxNjYtNGRmNC05NGMwLWUzMWNiYTdmZTg2OSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9BcHBsZS1QZW5jaWwtUHJvLVBpeGVsLVBlcmZlY3QtSW5kdXN0cnktTGVhZGluZy9kcC9CMEQzSjcxUk03LyIsImR5bmFtaWNDZW50cmFsVHJhY2tpbmdJZCI6dHJ1ZSwic2l0ZUlkIjoidXMtZW5nYWRnZXQiLCJwYWdlSWQiOiIxcC1hdXRvbGluayIsImZlYXR1cmVJZCI6InRleHQtbGluayJ9&amp;signature=AQAAAUNKxN1KxtHNHWsP
+
+## Alibaba offers free access to its AI model that can generate realistic video and images
+ - [https://www.engadget.com/ai/alibaba-offers-free-access-to-its-ai-model-that-can-generate-realistic-video-and-images-133045633.html?src=rss](https://www.engadget.com/ai/alibaba-offers-free-access-to-its-ai-model-that-can-generate-realistic-video-and-images-133045633.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:30:45+00:00
+
+<p>Alibaba is <a data-i13n="elm:affiliate_link;sellerN:CNBC;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=34e37b9c-8975-48da-aa39-df8bcd5badc3&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=47b14fdf-da11-49e5-898f-3dbebb6cb264&amp;featureId=text-link&amp;merchantName=CNBC&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5jbmJjLmNvbS8yMDI1LzAyLzI2L2FsaWJhYmEtbWFrZXMtYWktdmlkZW8tZ2VuZXJhdGlvbi1tb2RlbC1mcmVlLXRvLXVzZS1nbG9iYWxseS5odG1sIiwiY29udGVudFV1aWQiOiI0N2IxNGZkZi1kYTExLTQ5ZTUtODk4Zi0zZGJlYmI2Y2IyNjQiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjUvMDIvMjYvYWxpYmFiYS1tYWtlcy1haS12aWRlby1nZW5lcmF0aW9uLW1vZGVsLWZyZWUtdG8tdXNlLWdsb2JhbGx5Lmh0bWwifQ&amp;signature=AQAAAbcI3vkl-vCWNThsutWBHRoV28k8Nudr130JYBPWw0Sv&amp;gcReferrer=https%3A%2F%2Fwww.cnbc.com%2F2025%2F02%2F26%2Falibaba-makes-ai-video-generation-model-free-to-use-globally.html" class="rapid-with-clickid" data-original-link="https://www.c
+
+## Apple is keeping its DEI program
+ - [https://www.engadget.com/big-tech/apple-is-keeping-its-dei-program-130033491.html?src=rss](https://www.engadget.com/big-tech/apple-is-keeping-its-dei-program-130033491.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:00:33+00:00
+
+<p>Apple is <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/artists-criticize-apples-lack-of-transparency-around-apple-intelligence-data-131250021.html">far from saintly</a>, but, compared to its fellow tech giants, it did something right. The company's shareholders have voted to keep its diversity, equity and inclusion policies, following a push by conservative think tank, the National Center for Public Policy Research (NCPPR), to remove them, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.reuters.com/technology/apple-investors-reject-proposal-against-dei-policies-2025-02-25/" data-original-link="https://www.reuters.com/technology/apple-investors-reject-proposal-against-dei-policies-2025-02-25/"><em>Reuters</em> reports</a>. The Center's proposal, <em>Request to Cease DEI Efforts</em>, failed 8.84 billion votes to 210.45 million votes — or about 2.3 percent of the vote.&nbsp;</p>
+<p>Many of these programs emerg
+
+## How to follow the Amazon's Alexa event today
+ - [https://www.engadget.com/how-to-follow-the-amazons-alexa-event-today-200022694.html?src=rss](https://www.engadget.com/how-to-follow-the-amazons-alexa-event-today-200022694.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T12:01:25+00:00
+
+<p>It&#39;s sort of out of character for Amazon to be hosting <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/general/amazon-is-holding-a-devices-event-on-february-26-heres-what-to-expect-193513762.html">a devices event in February</a>, as opposed to its usual Fall launch. But this morning (February 26) at 10am ET, the company is holding a presentation in New York City. As it&#39;s <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/how-to-watch-and-follow-amazons-2023-devices-event-153059840.html">done in the past</a>, Amazon won&#39;t be livestreaming this event, and you won&#39;t be able to watch Panos Panay and his colleagues present to members of the media. Don&#39;t worry about FOMO, though. Engadget will be attending and liveblogging the event, so if you follow our updates it&#39;ll almost feel like you&#39;re right there with us!&nbsp;</p>
+<p>We&#39;ll have commentary and contextualization on the announcements, as well as the in-person vibes and quality of s
+
+## The best Apple Watch in 2025
+ - [https://www.engadget.com/wearables/best-apple-watch-160005462.html?src=rss](https://www.engadget.com/wearables/best-apple-watch-160005462.html?src=rss)
+ - RSS feed: $source
+ - date published: 2025-02-26T08:00:36+00:00
+
+<p>If you know you want an Apple Watch, but aren’t sure which one to get, this guide is here to explain the differences between the three models. The company’s flagship <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=8775e6de-d7c2-4b43-a8c2-7ec2f62a6d73&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwREdIWVExVko_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiODc3NWU2ZGUtZDdjMi00YjQzLWE4YzItN2VjMmY2MmE2ZDczIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2RwL0IwREdIWVExVkoiLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAARFWHZ0-Ygykcu_j3UOiujXv2Nn5igKhdtZSRSttwfFH&amp;gcReferrer=https%3A%2F%2Fwww.amaz
+

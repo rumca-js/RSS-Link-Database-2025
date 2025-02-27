@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-26T18:55:11+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/developer/comments/1iyv4di/is_this_the_year_of_the_nondeveloper_developer/\"> <img src=\"https://external-preview.redd.it/jluWnC4fY0IWgISSMLe9q_9MclkFnj_5qDZ8D0K3tKo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a60e430cb73d76740e4f30e5d837711904c777fc\" alt=\"Is this the year of the \u201cnon-developer developer?\u201d\" title=\"Is this the year of the \u201cnon-developer developer?\u201d\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>What do you think about this?</p> <p><a href=\"https://preview.redd.it/fmfg2rmh4jle1.png?width=1000&amp;format=png&amp;auto=webp&amp;s=4844ff717dec31b27b9f65d1e14ea65ae883e173\">https://preview.redd.it/fmfg2rmh4jle1.png?width=1000&amp;format=png&amp;auto=webp&amp;s=4844ff717dec31b27b9f65d1e14ea65ae883e173</a></p> <p><strong>My thoughts:</strong><br/> We\u2019ve come a long way with coding assistance over the last few years. Instead of memorizing every last syntax detail, you can use low-code/no-code platforms or AI helpers li",
+        "id": 2202675,
+        "language": null,
+        "link": "https://www.reddit.com/r/developer/comments/1iyv4di/is_this_the_year_of_the_nondeveloper_developer",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/jluWnC4fY0IWgISSMLe9q_9MclkFnj_5qDZ8D0K3tKo.jpg?width=640&crop=smart&auto=webp&s=a60e430cb73d76740e4f30e5d837711904c777fc",
+        "title": "Is this the year of the \u201cnon-developer developer?\u201d",
+        "vote": 0
+    }
+]

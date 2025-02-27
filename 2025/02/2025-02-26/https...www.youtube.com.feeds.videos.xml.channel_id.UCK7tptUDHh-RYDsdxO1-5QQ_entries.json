@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-26T15:00:08+00:00",
+        "description": "Since American Express acquired the online restaurant-reservation company Resy, dining has become an even bigger part of the Amex strategy. After acquiring two new platforms Tock and Rooam, Amex is doubling down on dining. WSJ sits down with Resy CEO and Head of American Express Global Dining Pablo Rivera to discuss this growth strategy, how it competes with competitors like OpenTable and Resy\u2019s business model. Rivera also discusses how the company collects and uses data, where he sees the future of restaurant reservations headed and more. \n\nChapters:\n0:00 Resy and Amex\n0:36 Opportunities when stepping in as CEO\n1:09 Resy\u2019s business model\n2:02 Why Amex acquired Resy\n2:28 Resy vs. competitors \n3:16 Reselling reservations, bots and security\n5:01 Approach on cancellations and no-shows\n6:23 How Resy collects and uses data\n7:35 Amex\u2019s recent acquisitions\n8:03 What\u2019s next for Resy?\n\n#Resy #AmEx #WSJ",
+        "id": 2200143,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=3I9_MObC8ig",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3I9_MObC8ig/hqdefault.jpg",
+        "title": "Resy CEO on How Amex\u2019s Acquisitions Are Transforming Dining | WSJ",
+        "vote": 0
+    }
+]

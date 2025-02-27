@@ -1,0 +1,58 @@
+# Source:The Dark Depths of YouTube, URL:https://www.reddit.com/r/DeepIntoYouTube/.rss, language:en
+
+## A stoner tuber makes a parody of a pyramid scheme commercial regarding mids [APR 3 2019 (5 years ago) - 12,318 VIEWS]
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1iyyekf/a_stoner_tuber_makes_a_parody_of_a_pyramid_scheme](https://www.reddit.com/r/DeepIntoYouTube/comments/1iyyekf/a_stoner_tuber_makes_a_parody_of_a_pyramid_scheme)
+ - RSS feed: $source
+ - date published: 2025-02-26T21:10:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iyyekf/a_stoner_tuber_makes_a_parody_of_a_pyramid_scheme/"> <img src="https://external-preview.redd.it/-vSRK4LK5HABoeMGBzYrkA0ikwC2upnohB_K_hvCWek.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fe8a34a4582ac61a7f4a1e111815d64e35b001cf" alt="A stoner tuber makes a parody of a pyramid scheme commercial regarding mids [APR 3 2019 (5 years ago) - 12,318 VIEWS]" title="A stoner tuber makes a parody of a pyramid scheme commercial regarding mids [APR 3 2019 (5 years ago) - 12,318 VIEWS]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MrL-B"> /u/MrL-B </a> <br/> <span><a href="https://www.youtube.com/watch?v=sMOM8jRzamU">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iyyekf/a_stoner_tuber_makes_a_parody_of_a_pyramid_scheme/">[comments]</a></span> </td></tr></table>
+
+## Guy visits all 27 EU member states in 80 hours
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1iysil1/guy_visits_all_27_eu_member_states_in_80_hours](https://www.reddit.com/r/DeepIntoYouTube/comments/1iysil1/guy_visits_all_27_eu_member_states_in_80_hours)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:09:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iysil1/guy_visits_all_27_eu_member_states_in_80_hours/"> <img src="https://external-preview.redd.it/tLnZBWfJ_HulL0NDOdhKpryJaAfMl1LwzcYzjh2XaZA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=56a17f7535fea4da6b3f6ce07b899024dfff66c5" alt="Guy visits all 27 EU member states in 80 hours" title="Guy visits all 27 EU member states in 80 hours" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/QuarterTarget"> /u/QuarterTarget </a> <br/> <span><a href="https://www.youtube.com/watch?v=YX-z3Jmc0to">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iysil1/guy_visits_all_27_eu_member_states_in_80_hours/">[comments]</a></span> </td></tr></table>
+
+## really cool hiphop/art channel thats flown under the radar for years now
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1iyqj6y/really_cool_hiphopart_channel_thats_flown_under](https://www.reddit.com/r/DeepIntoYouTube/comments/1iyqj6y/really_cool_hiphopart_channel_thats_flown_under)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:47:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iyqj6y/really_cool_hiphopart_channel_thats_flown_under/"> <img src="https://external-preview.redd.it/o1B7PAUYAHW_BdRIMM30XpDvfdHmxEEhtosgTLqK35w.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5228d2ab0bbb3f828110a6ffe46c21e669717a29" alt="really cool hiphop/art channel thats flown under the radar for years now" title="really cool hiphop/art channel thats flown under the radar for years now" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hi_FructoseKornSyrup"> /u/Hi_FructoseKornSyrup </a> <br/> <span><a href="https://youtu.be/px8VYdgRrC8?si=Qq-zW_qcxVUcndQB">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iyqj6y/really_cool_hiphopart_channel_thats_flown_under/">[comments]</a></span> </td></tr></table>
+
+## Whispering River - Soothing Water Sounds for Deep Sleep & Relaxation
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1iyonqp/whispering_river_soothing_water_sounds_for_deep](https://www.reddit.com/r/DeepIntoYouTube/comments/1iyonqp/whispering_river_soothing_water_sounds_for_deep)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:23:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iyonqp/whispering_river_soothing_water_sounds_for_deep/"> <img src="https://external-preview.redd.it/Zo4TKOipX6ebA6CZjYv_dirLoD8kfiGy3_HroYu-ESo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2275624262f788bdbd570de5f4b859ca3193b0cc" alt="Whispering River - Soothing Water Sounds for Deep Sleep &amp; Relaxation" title="Whispering River - Soothing Water Sounds for Deep Sleep &amp; Relaxation" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/InvestigatorThick656"> /u/InvestigatorThick656 </a> <br/> <span><a href="https://youtu.be/JppIsvcZW3M">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iyonqp/whispering_river_soothing_water_sounds_for_deep/">[comments]</a></span> </td></tr></table>
+
+## Indian Pimp my Ride parody
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1iyg7c9/indian_pimp_my_ride_parody](https://www.reddit.com/r/DeepIntoYouTube/comments/1iyg7c9/indian_pimp_my_ride_parody)
+ - RSS feed: $source
+ - date published: 2025-02-26T05:24:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iyg7c9/indian_pimp_my_ride_parody/"> <img src="https://external-preview.redd.it/LLbIf5wBi49WkhO7McClhijFWe_0UI-Vr8x-Q0vR55Q.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cb4a1c9350c4fe7d1c62c632c83fd0a7ba14517c" alt="Indian Pimp my Ride parody" title="Indian Pimp my Ride parody" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_HKB_"> /u/_HKB_ </a> <br/> <span><a href="https://youtu.be/aBigG-0Vcdc?si=FQHh_t_Y8cTKkNBs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iyg7c9/indian_pimp_my_ride_parody/">[comments]</a></span> </td></tr></table>
+
+## Partly Cloudy?
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1iyfgxl/partly_cloudy](https://www.reddit.com/r/DeepIntoYouTube/comments/1iyfgxl/partly_cloudy)
+ - RSS feed: $source
+ - date published: 2025-02-26T04:41:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iyfgxl/partly_cloudy/"> <img src="https://external-preview.redd.it/Kj6nqe_upYsk8hQJuEKmqa6KMhDIlIW4yEz8M7OxRMw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=64587b185ddbceccb2cb3fa5fba4a2956f81c53f" alt="Partly Cloudy?" title="Partly Cloudy?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AfterOne6302"> /u/AfterOne6302 </a> <br/> <span><a href="https://youtu.be/t4peqaJwjkg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iyfgxl/partly_cloudy/">[comments]</a></span> </td></tr></table>
+
+## Dallas Zoo
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1iycobc/dallas_zoo](https://www.reddit.com/r/DeepIntoYouTube/comments/1iycobc/dallas_zoo)
+ - RSS feed: $source
+ - date published: 2025-02-26T02:14:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iycobc/dallas_zoo/"> <img src="https://external-preview.redd.it/AryLQHxHHvLuVIzRvo-yyHyL88raESzn_FwliyWKG6U.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3cb39584ccfb4955f03862987053c64c53db3d09" alt="Dallas Zoo" title="Dallas Zoo" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shrineofamana"> /u/shrineofamana </a> <br/> <span><a href="https://youtu.be/MqM5QQrCgis?si=o6WLKyq6PYsxZrcZ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iycobc/dallas_zoo/">[comments]</a></span> </td></tr></table>
+
+## ANONYMOUS voicemails episode 05
+ - [https://www.reddit.com/r/DeepIntoYouTube/comments/1iya1v0/anonymous_voicemails_episode_05](https://www.reddit.com/r/DeepIntoYouTube/comments/1iya1v0/anonymous_voicemails_episode_05)
+ - RSS feed: $source
+ - date published: 2025-02-26T00:07:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iya1v0/anonymous_voicemails_episode_05/"> <img src="https://external-preview.redd.it/29gwDGY0b7sN2EvZadI76T6Pmh49EInrLx9StUaHSw8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=90817dd1a24650d2f82736135b163b8c7a0629bb" alt="ANONYMOUS voicemails episode 05" title="ANONYMOUS voicemails episode 05" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>All calls are anonymous! </p> <h1>(808)-807-2094</h1> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ThoughtDeposit"> /u/ThoughtDeposit </a> <br/> <span><a href="https://youtu.be/1TZFmFPCJKk">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/DeepIntoYouTube/comments/1iya1v0/anonymous_voicemails_episode_05/">[comments]</a></span> </td></tr></table>
+

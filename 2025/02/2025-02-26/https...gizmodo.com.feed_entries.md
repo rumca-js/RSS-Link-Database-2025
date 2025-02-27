@@ -1,0 +1,282 @@
+# Source:Gizmodo, URL:https://gizmodo.com/feed, language:en
+
+## A Superman Suit From the Worst Superman Movie Is Still a Superman Suit
+ - [https://gizmodo.com/superman-iii-evil-superman-suit-auction-propstore-2000568973](https://gizmodo.com/superman-iii-evil-superman-suit-auction-propstore-2000568973)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:49:53+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/supersuit.jpg" class="attachment-full size-full wp-post-image" alt="Supersuit" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/supersuit.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/supersuit-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/supersuit-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/supersuit-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/supersuit-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/supersuit-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/supersuit-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/supersuit-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Christopher Reeve's 'Evil Superman' costume from <i>Superman III</i> is hitting the action block.
+
+## PSA: Google Is Making It Easier to Remove Your Personal Information From Search Results
+ - [https://gizmodo.com/psa-google-is-making-it-easier-to-remove-your-personal-information-from-search-results-2000568858](https://gizmodo.com/psa-google-is-making-it-easier-to-remove-your-personal-information-from-search-results-2000568858)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:37:30+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/remove-result.max-1600x1600.format-webp.jpg" class="attachment-full size-full wp-post-image" alt="Google demonstration of its updated Results About You tool showing how to request removal of a result" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/remove-result.max-1600x1600.format-webp.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/remove-result.max-1600x1600.format-webp-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/remove-result.max-1600x1600.format-webp-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/remove-result.max-1600x1600.format-webp-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/remove-result.max-1600x1600.format-webp-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/remove-result.max-1600x1600.format-webp-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/remove-result.max-1600x1600.format-webp-680x453.j
+
+## As DOGE Attacks Social Security, New Report Shows Elon is One of the Government’s Biggest Beneficiaries
+ - [https://gizmodo.com/as-doge-attacks-social-security-new-report-shows-elon-is-one-of-the-governments-biggest-beneficiaries-2000568740](https://gizmodo.com/as-doge-attacks-social-security-new-report-shows-elon-is-one-of-the-governments-biggest-beneficiaries-2000568740)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:20:10+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee.jpg" class="attachment-full size-full wp-post-image" alt="Elon Musk holding a cup of coffee" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/Elon-Musk-holding-a-cup-of-coffee-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 15
+
+## Here’s Everything Alexa+ Can Supposedly Do
+ - [https://gizmodo.com/heres-everything-alexa-can-supposedly-do-2000568873](https://gizmodo.com/heres-everything-alexa-can-supposedly-do-2000568873)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:03:56+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Amazon-Alexa-Showcase-1.jpg" class="attachment-full size-full wp-post-image" alt="Amazon Alexa+ Showcase 1" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Amazon-Alexa-Showcase-1.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Amazon-Alexa-Showcase-1-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Amazon-Alexa-Showcase-1-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Amazon-Alexa-Showcase-1-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Amazon-Alexa-Showcase-1-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Amazon-Alexa-Showcase-1-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Amazon-Alexa-Showcase-1-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Amazon-Alexa-Showcase-1-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Alexa+ promises to be your AI assistant, able to look at your cameras 
+
+## The Wheel of Time Cast on What’s in Store for Their Characters in Season 3
+ - [https://gizmodo.com/the-wheel-of-time-cast-on-whats-in-store-for-their-characters-in-season-3-2000568450](https://gizmodo.com/the-wheel-of-time-cast-on-whats-in-store-for-their-characters-in-season-3-2000568450)
+ - RSS feed: $source
+ - date published: 2025-02-26T21:30:51+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/elayne_aviendha.jpg" class="attachment-full size-full wp-post-image" alt="Elayne Aviendha" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/elayne_aviendha.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/elayne_aviendha-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/elayne_aviendha-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/elayne_aviendha-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/elayne_aviendha-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/elayne_aviendha-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/elayne_aviendha-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/elayne_aviendha-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Sophie Okonedo, Daniel Henney, Dónal Finn, Marcus Rutherford, Ayoola Smart, and Ceara Coveney dig into the Prime Video fantasy series.
+
+## Ninja Dual Coffee Maker at Its Lowest Price Lets You Brew Pods or Grounds and Cut Your Starbucks Bill
+ - [https://gizmodo.com/ninja-dual-coffee-maker-at-its-lowest-price-lets-you-brew-pods-or-grounds-and-cut-your-starbucks-bill-2000568183](https://gizmodo.com/ninja-dual-coffee-maker-at-its-lowest-price-lets-you-brew-pods-or-grounds-and-cut-your-starbucks-bill-2000568183)
+ - RSS feed: $source
+ - date published: 2025-02-26T21:25:05+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/ninjapod.jpg" class="attachment-full size-full wp-post-image" alt="Ninjapod" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/ninjapod.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/ninjapod-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/ninjapod-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/ninjapod-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/ninjapod-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/ninjapod-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/ninjapod-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/ninjapod-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Stop wasting money on Starbucks and get 20% off the Ninja Pod & Grounds Specialty Coffee Maker.
+
+## Trump Just Made Life More Dangerous for One of the Rarest Whales on Earth
+ - [https://gizmodo.com/trump-just-made-life-more-dangerous-for-one-of-the-rarest-whales-on-earth-2000568811](https://gizmodo.com/trump-just-made-life-more-dangerous-for-one-of-the-rarest-whales-on-earth-2000568811)
+ - RSS feed: $source
+ - date published: 2025-02-26T21:05:30+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/rices-whale-noaa-trump.jpg" class="attachment-full size-full wp-post-image" alt="Rice&#039;s Whale Noaa Trump" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/rices-whale-noaa-trump.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/rices-whale-noaa-trump-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/rices-whale-noaa-trump-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/rices-whale-noaa-trump-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/rices-whale-noaa-trump-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/rices-whale-noaa-trump-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/rices-whale-noaa-trump-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/rices-whale-noaa-trump-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>There may be fewer than 100 Rice's whales left in the Gulf of Mexico, but t
+
+## What Can Celebration Do to Make Star Wars Exciting Again?
+ - [https://gizmodo.com/what-can-celebration-do-to-make-star-wars-exciting-again-2000568398](https://gizmodo.com/what-can-celebration-do-to-make-star-wars-exciting-again-2000568398)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:45:53+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Star-Wars-Celebration-23-filmmakers.jpg" class="attachment-full size-full wp-post-image" alt="Star Wars Celebration 23 Filmmakers" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Star-Wars-Celebration-23-filmmakers.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Star-Wars-Celebration-23-filmmakers-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Star-Wars-Celebration-23-filmmakers-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Star-Wars-Celebration-23-filmmakers-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Star-Wars-Celebration-23-filmmakers-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Star-Wars-Celebration-23-filmmakers-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Star-Wars-Celebration-23-filmmakers-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Star-Wars-Celebration-23-filmmakers-896x597.jpg 896w" s
+
+## Elon Musk Suggests He Alone Decides What Gets Funded in the Government
+ - [https://gizmodo.com/elon-musk-suggests-he-alone-decides-what-gets-funded-in-the-government-2000568737](https://gizmodo.com/elon-musk-suggests-he-alone-decides-what-gets-funded-in-the-government-2000568737)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:25:26+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/musk-white-house.jpg" class="attachment-full size-full wp-post-image" alt="Elon Musk at the White House during a cabinet meeting on Feb. 26, 2025." decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/musk-white-house.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/musk-white-house-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/musk-white-house-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/musk-white-house-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/musk-white-house-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/musk-white-house-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/musk-white-house-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/musk-white-house-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The billionaire oligarch accidentally admitted it's all up to his whims during a
+
+## FTX’s Bankruptcy Proves Going Broke Ain’t Cheap
+ - [https://gizmodo.com/ftxs-bankruptcy-proves-going-broke-aint-cheap-2000568704](https://gizmodo.com/ftxs-bankruptcy-proves-going-broke-aint-cheap-2000568704)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:15:26+00:00
+
+<img width="1920" height="1080" src="https://gizmodo.com/app/uploads/2023/03/8156445cc39a55839db1e4dace83b4fd.jpg" class="attachment-full size-full wp-post-image" alt="Photo: John Minchillo" decoding="async" srcset="https://gizmodo.com/app/uploads/2023/03/8156445cc39a55839db1e4dace83b4fd.jpg 1920w, https://gizmodo.com/app/uploads/2023/03/8156445cc39a55839db1e4dace83b4fd-300x169.jpg 300w, https://gizmodo.com/app/uploads/2023/03/8156445cc39a55839db1e4dace83b4fd-1024x576.jpg 1024w, https://gizmodo.com/app/uploads/2023/03/8156445cc39a55839db1e4dace83b4fd-768x432.jpg 768w, https://gizmodo.com/app/uploads/2023/03/8156445cc39a55839db1e4dace83b4fd-512x288.jpg 512w, https://gizmodo.com/app/uploads/2023/03/8156445cc39a55839db1e4dace83b4fd-680x383.jpg 680w, https://gizmodo.com/app/uploads/2023/03/8156445cc39a55839db1e4dace83b4fd-896x504.jpg 896w, https://gizmodo.com/app/uploads/2023/03/8156445cc39a55839db1e4dace83b4fd-1792x1008.jpg 1792w" sizes="(max-width: 1920px) 100vw, 1920px"><br><br>$948 m
+
+## Trump Attacks Apple for Maintaining DEI Policies
+ - [https://gizmodo.com/trump-attacks-apple-for-maintaining-dei-policies-2000568738](https://gizmodo.com/trump-attacks-apple-for-maintaining-dei-policies-2000568738)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:05:19+00:00
+
+<img width="1920" height="1081" src="https://gizmodo.com/app/uploads/2020/07/fu6rhgnaygayxcqtl0tv.jpg" class="attachment-full size-full wp-post-image" alt="Photo: Mandel Ngan" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2020/07/fu6rhgnaygayxcqtl0tv.jpg 1920w, https://gizmodo.com/app/uploads/2020/07/fu6rhgnaygayxcqtl0tv-300x169.jpg 300w, https://gizmodo.com/app/uploads/2020/07/fu6rhgnaygayxcqtl0tv-1024x577.jpg 1024w, https://gizmodo.com/app/uploads/2020/07/fu6rhgnaygayxcqtl0tv-768x432.jpg 768w, https://gizmodo.com/app/uploads/2020/07/fu6rhgnaygayxcqtl0tv-512x288.jpg 512w, https://gizmodo.com/app/uploads/2020/07/fu6rhgnaygayxcqtl0tv-680x383.jpg 680w, https://gizmodo.com/app/uploads/2020/07/fu6rhgnaygayxcqtl0tv-896x504.jpg 896w, https://gizmodo.com/app/uploads/2020/07/fu6rhgnaygayxcqtl0tv-1792x1009.jpg 1792w" sizes="(max-width: 1920px) 100vw, 1920px"><br><br>Trump has made attacking DEI a key pillar of his new administration.
+
+## The Boys’ Final Season Is a Stealth Supernatural Reunion
+ - [https://gizmodo.com/the-boys-final-season-is-a-stealth-supernatural-reunion-2000568796](https://gizmodo.com/the-boys-final-season-is-a-stealth-supernatural-reunion-2000568796)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:00:18+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Supernatural-The-CW.jpg" class="attachment-full size-full wp-post-image" alt="Supernatural The Cw" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Supernatural-The-CW.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Supernatural-The-CW-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Supernatural-The-CW-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Supernatural-The-CW-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Supernatural-The-CW-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Supernatural-The-CW-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Supernatural-The-CW-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Supernatural-The-CW-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br><i>Supernatural</i>'s main trio will reunite with creator Eric Kripke on his Prime Video superhero satire.
+
+## Measles Outbreak in Texas Turns Deadly as Parents Scramble for Shots
+ - [https://gizmodo.com/measles-outbreak-in-texas-turns-deadly-as-parents-scramble-for-shots-2000568730](https://gizmodo.com/measles-outbreak-in-texas-turns-deadly-as-parents-scramble-for-shots-2000568730)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:55:59+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/measles-rash.jpg" class="attachment-full size-full wp-post-image" alt="Measles Rash" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/measles-rash.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/measles-rash-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/measles-rash-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/measles-rash-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/measles-rash-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/measles-rash-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/measles-rash-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/measles-rash-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>124 cases and 18 hospitalizations from measles have been reported in Texas and New Mexico, though the true tally is likely higher.
+
+## Buffy the Vampire Slayer Star Michelle Trachtenberg Has Died
+ - [https://gizmodo.com/michelle-trachtenberg-dead-buffy-the-vampire-slayer-gossip-girl-2000568783](https://gizmodo.com/michelle-trachtenberg-dead-buffy-the-vampire-slayer-gossip-girl-2000568783)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:15:24+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/michelle.jpg" class="attachment-full size-full wp-post-image" alt="Michelle" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/michelle.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/michelle-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/michelle-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/michelle-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/michelle-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/michelle-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/michelle-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/michelle-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>She starred on the cult-beloved TV series as Buffy's younger sister Dawn, and was also featured on <i>Gossip Girl</i> and the movie <i>EuroTrip</i>.
+
+## Gundam GQuuuuuuX Beginning Is a Fascinating Re-Imagination of an Anime Classic
+ - [https://gizmodo.com/mobile-suit-gundam-gquuuuuux-beginning-movie-review-gkids-2000567467](https://gizmodo.com/mobile-suit-gundam-gquuuuuux-beginning-movie-review-gkids-2000567467)
+ - RSS feed: $source
+ - date published: 2025-02-26T18:30:29+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Mobile-Suit-Gundam-GQuuuuuuX-review.jpg" class="attachment-full size-full wp-post-image" alt="Mobile Suit Gundam Gquuuuuux Review" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/02/Mobile-Suit-Gundam-GQuuuuuuX-review.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Mobile-Suit-Gundam-GQuuuuuuX-review-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Mobile-Suit-Gundam-GQuuuuuuX-review-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Mobile-Suit-Gundam-GQuuuuuuX-review-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Mobile-Suit-Gundam-GQuuuuuuX-review-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Mobile-Suit-Gundam-GQuuuuuuX-review-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Mobile-Suit-Gundam-GQuuuuuuX-review-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Mobile-Suit-Gundam-GQuuuuuuX-review-896x597.jpg 896w" sizes="(max-widt
+
+## Watch This Startup Pitch Dystopian Sweatshop-Monitoring Software
+ - [https://gizmodo.com/watch-this-startup-pitch-dystopian-sweatshop-monitoring-software-2000568674](https://gizmodo.com/watch-this-startup-pitch-dystopian-sweatshop-monitoring-software-2000568674)
+ - RSS feed: $source
+ - date published: 2025-02-26T18:00:54+00:00
+
+<img width="1920" height="1078" src="https://gizmodo.com/app/uploads/2021/06/1af060b1119c3d1a37054e523701bafc.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2021/06/1af060b1119c3d1a37054e523701bafc.jpg 1920w, https://gizmodo.com/app/uploads/2021/06/1af060b1119c3d1a37054e523701bafc-300x168.jpg 300w, https://gizmodo.com/app/uploads/2021/06/1af060b1119c3d1a37054e523701bafc-1024x575.jpg 1024w, https://gizmodo.com/app/uploads/2021/06/1af060b1119c3d1a37054e523701bafc-768x431.jpg 768w, https://gizmodo.com/app/uploads/2021/06/1af060b1119c3d1a37054e523701bafc-512x288.jpg 512w, https://gizmodo.com/app/uploads/2021/06/1af060b1119c3d1a37054e523701bafc-680x382.jpg 680w, https://gizmodo.com/app/uploads/2021/06/1af060b1119c3d1a37054e523701bafc-896x503.jpg 896w, https://gizmodo.com/app/uploads/2021/06/1af060b1119c3d1a37054e523701bafc-1792x1006.jpg 1792w" sizes="(max-width: 1920px) 100vw, 1920px"><br><br>Startu
+
+## Jeff Bezos Admits the Internet Is Better Than the Washington Post’s OpEd Page
+ - [https://gizmodo.com/jeff-bezos-admits-the-internet-is-better-than-the-washington-posts-oped-page-2000568709](https://gizmodo.com/jeff-bezos-admits-the-internet-is-better-than-the-washington-posts-oped-page-2000568709)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:17:39+00:00
+
+<img width="1920" height="1077" src="https://gizmodo.com/app/uploads/2022/07/99cc837abacf0656b455e66af7026a5c.jpg" class="attachment-full size-full wp-post-image" alt="Image: Joe Readle" decoding="async" srcset="https://gizmodo.com/app/uploads/2022/07/99cc837abacf0656b455e66af7026a5c.jpg 1920w, https://gizmodo.com/app/uploads/2022/07/99cc837abacf0656b455e66af7026a5c-300x168.jpg 300w, https://gizmodo.com/app/uploads/2022/07/99cc837abacf0656b455e66af7026a5c-1024x574.jpg 1024w, https://gizmodo.com/app/uploads/2022/07/99cc837abacf0656b455e66af7026a5c-768x431.jpg 768w, https://gizmodo.com/app/uploads/2022/07/99cc837abacf0656b455e66af7026a5c-512x288.jpg 512w, https://gizmodo.com/app/uploads/2022/07/99cc837abacf0656b455e66af7026a5c-680x381.jpg 680w, https://gizmodo.com/app/uploads/2022/07/99cc837abacf0656b455e66af7026a5c-896x503.jpg 896w, https://gizmodo.com/app/uploads/2022/07/99cc837abacf0656b455e66af7026a5c-1792x1005.jpg 1792w" sizes="(max-width: 1920px) 100vw, 1920px"><br><br>The storie
+
+## The Google Pixel 9 Pro XL Has Never Been This Cheap, So Ditch the Monthly Payment Plans
+ - [https://gizmodo.com/the-google-pixel-9-pro-xl-has-never-been-this-cheap-so-ditch-the-monthly-payment-plans-2000568475](https://gizmodo.com/the-google-pixel-9-pro-xl-has-never-been-this-cheap-so-ditch-the-monthly-payment-plans-2000568475)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:15:58+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Pixel-9-Pro-porcelain.jpg" class="attachment-full size-full wp-post-image" alt="Pixel 9 Pro Porcelain" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/Pixel-9-Pro-porcelain.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Pixel-9-Pro-porcelain-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Pixel-9-Pro-porcelain-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Pixel-9-Pro-porcelain-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Pixel-9-Pro-porcelain-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Pixel-9-Pro-porcelain-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Pixel-9-Pro-porcelain-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Pixel-9-Pro-porcelain-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Bring this $300 off unlocked top smartphone to any major carrier and avoid locking yo
+
+## Your Android Phones Aren’t ‘Google’ Anymore, They’re All ‘Gemini’
+ - [https://gizmodo.com/your-android-phones-arent-google-anymore-theyre-all-gemini-2000568608](https://gizmodo.com/your-android-phones-arent-google-anymore-theyre-all-gemini-2000568608)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:05:59+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Pixel-9-Gemini-Live.jpg" class="attachment-full size-full wp-post-image" alt="Pixel 9 Gemini Live" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/02/Pixel-9-Gemini-Live.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Pixel-9-Gemini-Live-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Pixel-9-Gemini-Live-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Pixel-9-Gemini-Live-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Pixel-9-Gemini-Live-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Pixel-9-Gemini-Live-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Pixel-9-Gemini-Live-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Pixel-9-Gemini-Live-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>You may soon be able to activate the Android assistant with 'Hey Gemini,' potentially signaling the end for 'Hey Google.'
+
+## Can Snow White Learn From Wicked‘s Success?
+ - [https://gizmodo.com/can-snow-white-learn-from-wickeds-success-2000566641](https://gizmodo.com/can-snow-white-learn-from-wickeds-success-2000566641)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:00:01+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Snow-White-Walt-Disney-Pictures.jpg" class="attachment-full size-full wp-post-image" alt="Snow White Walt Disney Pictures" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Snow-White-Walt-Disney-Pictures.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Snow-White-Walt-Disney-Pictures-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Snow-White-Walt-Disney-Pictures-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Snow-White-Walt-Disney-Pictures-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Snow-White-Walt-Disney-Pictures-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Snow-White-Walt-Disney-Pictures-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Snow-White-Walt-Disney-Pictures-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Snow-White-Walt-Disney-Pictures-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"
+
+## NASA’s Lucy Spacecraft Snaps First Look at Upcoming Asteroid Target
+ - [https://gizmodo.com/nasas-lucy-spacecraft-snaps-first-look-at-upcoming-asteroid-target-2000568592](https://gizmodo.com/nasas-lucy-spacecraft-snaps-first-look-at-upcoming-asteroid-target-2000568592)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:55:28+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/lucy-spacecraft-asteroid.jpg" class="attachment-full size-full wp-post-image" alt="An artist&#039;s concept of the the Lucy spacecraft flying past the Trojan asteroids Patroclus and Menoetius." decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/lucy-spacecraft-asteroid.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/lucy-spacecraft-asteroid-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/lucy-spacecraft-asteroid-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/lucy-spacecraft-asteroid-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/lucy-spacecraft-asteroid-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/lucy-spacecraft-asteroid-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/lucy-spacecraft-asteroid-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/lucy-spacecraft-asteroid-896x597.jpg 896w" sizes="(max-width: 1500px)
+
+## Xbox Storage Upgrade? WD_Black Expansion Card Hits Its Lowest Price in Months on Amazon
+ - [https://gizmodo.com/xbox-storage-upgrade-wd_black-expansion-card-hits-its-lowest-price-in-months-on-amazon-2000568373](https://gizmodo.com/xbox-storage-upgrade-wd_black-expansion-card-hits-its-lowest-price-in-months-on-amazon-2000568373)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:30:28+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/WD_BlackC50.jpg" class="attachment-full size-full wp-post-image" alt="Wd Blackc50" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/WD_BlackC50.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/WD_BlackC50-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/WD_BlackC50-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/WD_BlackC50-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/WD_BlackC50-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/WD_BlackC50-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/WD_BlackC50-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/WD_BlackC50-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Save 30% on an officially licensed WD_Black Expansion Card for your Xbox. No more deleting games to make room.
+
+## A Mystery Disease Has Killed Dozens So Far in Northwestern Congo
+ - [https://gizmodo.com/a-mystery-disease-has-killed-dozens-so-far-in-northwestern-congo-2000568625](https://gizmodo.com/a-mystery-disease-has-killed-dozens-so-far-in-northwestern-congo-2000568625)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:30:09+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/12/DRC-Flag.jpg" class="attachment-full size-full wp-post-image" alt="Drc Flag" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/12/DRC-Flag.jpg 1500w, https://gizmodo.com/app/uploads/2024/12/DRC-Flag-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/12/DRC-Flag-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/12/DRC-Flag-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/12/DRC-Flag-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/12/DRC-Flag-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/12/DRC-Flag-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/12/DRC-Flag-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>WHO officials have identified two outbreaks of a mystery illness in the area that has sickened hundreds and killed over 50 people to date.
+
+## Amazon Takes on Google Gemini AI With Alexa+
+ - [https://gizmodo.com/amazon-takes-on-google-gemini-ai-with-alexa-2000568671](https://gizmodo.com/amazon-takes-on-google-gemini-ai-with-alexa-2000568671)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:16:18+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/New-Alexa-Plus.jpg" class="attachment-full size-full wp-post-image" alt="New Alexa Plus" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/New-Alexa-Plus.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/New-Alexa-Plus-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/New-Alexa-Plus-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/New-Alexa-Plus-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/New-Alexa-Plus-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/New-Alexa-Plus-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/New-Alexa-Plus-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/New-Alexa-Plus-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Amazon has finally updated its digital assistant to bring it up to par with the masses.
+
+## Early Humans Returned to the Rainforests Far Earlier Than Previously Thought
+ - [https://gizmodo.com/early-humans-returned-to-the-rainforests-far-earlier-than-previously-thought-2000567820](https://gizmodo.com/early-humans-returned-to-the-rainforests-far-earlier-than-previously-thought-2000567820)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:00:44+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/original-trench.jpg" class="attachment-full size-full wp-post-image" alt="Original Trench" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/original-trench.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/original-trench-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/original-trench-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/original-trench-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/original-trench-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/original-trench-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/original-trench-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/original-trench-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>A new study challenges the notion that anatomically modern humans began inhabiting rainforest habitats just 70,000 years ago.
+
+## The Star Wars Massacre That Could Play a Big Part in Andor Season 2
+ - [https://gizmodo.com/star-wars-andor-season-2-ghorman-massacre-explained-2000568277](https://gizmodo.com/star-wars-andor-season-2-ghorman-massacre-explained-2000568277)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:00:33+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Andor-Season-2-Ghorman-Massacre.jpg" class="attachment-full size-full wp-post-image" alt="Andor Season 2 Ghorman Massacre" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Andor-Season-2-Ghorman-Massacre.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Andor-Season-2-Ghorman-Massacre-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Andor-Season-2-Ghorman-Massacre-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Andor-Season-2-Ghorman-Massacre-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Andor-Season-2-Ghorman-Massacre-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Andor-Season-2-Ghorman-Massacre-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Andor-Season-2-Ghorman-Massacre-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Andor-Season-2-Ghorman-Massacre-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"
+
+## This Shark Robot Vacuum and Mop Combo Just Cleaned Up Its Price, Almost 50% Off
+ - [https://gizmodo.com/this-shark-robot-vacuum-and-mop-combo-just-cleaned-up-its-price-almost-50-off-2000562309](https://gizmodo.com/this-shark-robot-vacuum-and-mop-combo-just-cleaned-up-its-price-almost-50-off-2000562309)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:55:06+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2024/11/shark-robot-vacuum-mop-combo.jpg" class="attachment-full size-full wp-post-image" alt="Shark Robot Vacuum Mop Combo" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2024/11/shark-robot-vacuum-mop-combo.jpg 1500w, https://gizmodo.com/app/uploads/2024/11/shark-robot-vacuum-mop-combo-300x200.jpg 300w, https://gizmodo.com/app/uploads/2024/11/shark-robot-vacuum-mop-combo-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2024/11/shark-robot-vacuum-mop-combo-768x512.jpg 768w, https://gizmodo.com/app/uploads/2024/11/shark-robot-vacuum-mop-combo-336x224.jpg 336w, https://gizmodo.com/app/uploads/2024/11/shark-robot-vacuum-mop-combo-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2024/11/shark-robot-vacuum-mop-combo-680x453.jpg 680w, https://gizmodo.com/app/uploads/2024/11/shark-robot-vacuum-mop-combo-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Shark Robot Vacuum & 
+
+## ‘Does Our Code Kill Kids?’: Microsoft Employees Protest Selling AI to Israel
+ - [https://gizmodo.com/does-our-code-kill-kids-microsoft-employees-protest-selling-ai-to-israel-2000568642](https://gizmodo.com/does-our-code-kill-kids-microsoft-employees-protest-selling-ai-to-israel-2000568642)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:45:39+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/MicrosoftProtest.jpg" class="attachment-full size-full wp-post-image" alt="Microsoft employees protest AI sales" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/MicrosoftProtest.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/MicrosoftProtest-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/MicrosoftProtest-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/MicrosoftProtest-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/MicrosoftProtest-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/MicrosoftProtest-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/MicrosoftProtest-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/MicrosoftProtest-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The tech giant is facing pushback from employees following a report that it's making a lot of money helping Israel decide
+
+## Windows 11 Pro Is Now Just $10 (95% Off), Cheaper Than a Monthly Netflix Subscription
+ - [https://gizmodo.com/windows-11-pro-is-now-just-15-92-off-cheaper-than-a-monthly-netflix-subscription-2000568384](https://gizmodo.com/windows-11-pro-is-now-just-15-92-off-cheaper-than-a-monthly-netflix-subscription-2000568384)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:20:37+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/windows11pro.jpg" class="attachment-full size-full wp-post-image" alt="Windows11pro" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/01/windows11pro.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/windows11pro-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/windows11pro-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/windows11pro-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/windows11pro-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/windows11pro-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/windows11pro-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/windows11pro-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>You can score yourself a license for Windows 11 Pro for just $10 with code "UPGRADE" at StackSocial.
+
+## The Fight for Doctor Who‘s Future Begins on April 12
+ - [https://gizmodo.com/doctor-who-2025-season-release-date-bbc-disney-plus-2000568635](https://gizmodo.com/doctor-who-2025-season-release-date-bbc-disney-plus-2000568635)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:15:24+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/Doctor-Who-15th-Doctor-Belinda.jpg" class="attachment-full size-full wp-post-image" alt="Doctor Who 15th Doctor Belinda" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/Doctor-Who-15th-Doctor-Belinda.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/Doctor-Who-15th-Doctor-Belinda-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/Doctor-Who-15th-Doctor-Belinda-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/Doctor-Who-15th-Doctor-Belinda-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/Doctor-Who-15th-Doctor-Belinda-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/Doctor-Who-15th-Doctor-Belinda-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/Doctor-Who-15th-Doctor-Belinda-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/Doctor-Who-15th-Doctor-Belinda-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>N
+
+## These 7 Wild Concepts Are in the Running For NASA’s Next Big Mission
+ - [https://gizmodo.com/these-7-wild-concepts-are-in-the-running-for-nasas-next-big-mission-2000568254](https://gizmodo.com/these-7-wild-concepts-are-in-the-running-for-nasas-next-big-mission-2000568254)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:10:25+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/dragonfly-landing-titan.jpg" class="attachment-full size-full wp-post-image" alt="An artist&#039;s concept of the Dragonfly mission on Titan." decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/dragonfly-landing-titan.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/dragonfly-landing-titan-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/dragonfly-landing-titan-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/dragonfly-landing-titan-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/dragonfly-landing-titan-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/dragonfly-landing-titan-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/dragonfly-landing-titan-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/dragonfly-landing-titan-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The document builds on the academie
+
+## Early Seafarers Ruled the Oceans With Sophisticated Boats 40,000 Years Ago, Study Suggests
+ - [https://gizmodo.com/early-seafarers-ruled-the-oceans-with-sophisticated-boats-40000-years-ago-study-suggests-2000568514](https://gizmodo.com/early-seafarers-ruled-the-oceans-with-sophisticated-boats-40000-years-ago-study-suggests-2000568514)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:50:59+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/southeast-asian-seafaring.jpg" class="attachment-full size-full wp-post-image" alt="Southeast Asian Seafaring" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/02/southeast-asian-seafaring.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/southeast-asian-seafaring-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/southeast-asian-seafaring-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/southeast-asian-seafaring-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/southeast-asian-seafaring-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/southeast-asian-seafaring-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/southeast-asian-seafaring-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/southeast-asian-seafaring-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>With no direct archaeological evidence of pre
+
+## JBL PartyBox 310 Is Back to Its Holiday Price and One of Amazon’s Most Popular Portable Speakers
+ - [https://gizmodo.com/jbl-partybox-310-is-back-to-its-holiday-price-and-one-of-amazons-most-popular-portable-speakers-2000568471](https://gizmodo.com/jbl-partybox-310-is-back-to-its-holiday-price-and-one-of-amazons-most-popular-portable-speakers-2000568471)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:45:37+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/jblpartybox.jpg" class="attachment-full size-full wp-post-image" alt="Jblpartybox" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/01/jblpartybox.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/jblpartybox-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/jblpartybox-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/jblpartybox-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/jblpartybox-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/jblpartybox-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/jblpartybox-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/jblpartybox-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Grad parties will be here before you know it, so lock in your sound system and light show while the PartyBox is 33% off.
+
+## Las Vegas Police Receive 10 Tesla Cybertrucks From Mystery Donor
+ - [https://gizmodo.com/las-vegas-police-receive-10-tesla-cybertrucks-from-mystery-donor-2000568399](https://gizmodo.com/las-vegas-police-receive-10-tesla-cybertrucks-from-mystery-donor-2000568399)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:05:56+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/cybertruck-las-vegas.jpg" class="attachment-full size-full wp-post-image" alt="Cybertruck Las Vegas" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/cybertruck-las-vegas.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/cybertruck-las-vegas-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/cybertruck-las-vegas-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/cybertruck-las-vegas-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/cybertruck-las-vegas-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/cybertruck-las-vegas-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/cybertruck-las-vegas-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/cybertruck-las-vegas-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Venture capitalist Ben Horowitz has previously given Vegas police some high-tech gifts.
+
+## The Powerhouse Asus TUF A16 Gaming Laptop Just Took a $500 Price Cut on Amazon
+ - [https://gizmodo.com/the-powerhouse-asus-tuf-a16-gaming-laptop-just-took-a-500-price-cut-on-amazon-2000568363](https://gizmodo.com/the-powerhouse-asus-tuf-a16-gaming-laptop-just-took-a-500-price-cut-on-amazon-2000568363)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:05:16+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/AsusTUFA16.jpg" class="attachment-full size-full wp-post-image" alt="Asustufa16" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/AsusTUFA16.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/AsusTUFA16-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/AsusTUFA16-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/AsusTUFA16-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/AsusTUFA16-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/AsusTUFA16-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/AsusTUFA16-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/AsusTUFA16-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The Asus TUF A16 gaming laptop with an Nvidia GeForce RTX 4070 is at its lowest price for a limited time.
+
+## Marvel Has Big Plans for the Punisher Beyond Daredevil: Born Again
+ - [https://gizmodo.com/marvel-punisher-disney-plus-spinoff-daredevil-born-again-2000568446](https://gizmodo.com/marvel-punisher-disney-plus-spinoff-daredevil-born-again-2000568446)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:00:31+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/02/MS-0226-Marvel-Daredevil-Punisher-1.jpg" class="attachment-full size-full wp-post-image" alt="Ms 0226 Marvel Daredevil Punisher" decoding="async" loading="lazy" srcset="https://gizmodo.com/app/uploads/2025/02/MS-0226-Marvel-Daredevil-Punisher-1.jpg 1500w, https://gizmodo.com/app/uploads/2025/02/MS-0226-Marvel-Daredevil-Punisher-1-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/02/MS-0226-Marvel-Daredevil-Punisher-1-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/02/MS-0226-Marvel-Daredevil-Punisher-1-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/02/MS-0226-Marvel-Daredevil-Punisher-1-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/02/MS-0226-Marvel-Daredevil-Punisher-1-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/02/MS-0226-Marvel-Daredevil-Punisher-1-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/02/MS-0226-Marvel-Daredevil-Punisher-1-896x597.jpg 896w" siz
+
+## Apple’s Dictation App Is Mistaking the Word ‘Racist’ for ‘Trump’
+ - [https://gizmodo.com/apples-dictation-app-is-mistaking-the-word-racist-for-trump-2000568413](https://gizmodo.com/apples-dictation-app-is-mistaking-the-word-racist-for-trump-2000568413)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:46:40+00:00
+
+<img width="1920" height="1080" src="https://gizmodo.com/app/uploads/2022/03/cf5f944c7b7cd616b33d4ee58de923a7.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2022/03/cf5f944c7b7cd616b33d4ee58de923a7.jpg 1920w, https://gizmodo.com/app/uploads/2022/03/cf5f944c7b7cd616b33d4ee58de923a7-300x169.jpg 300w, https://gizmodo.com/app/uploads/2022/03/cf5f944c7b7cd616b33d4ee58de923a7-1024x576.jpg 1024w, https://gizmodo.com/app/uploads/2022/03/cf5f944c7b7cd616b33d4ee58de923a7-768x432.jpg 768w, https://gizmodo.com/app/uploads/2022/03/cf5f944c7b7cd616b33d4ee58de923a7-512x288.jpg 512w, https://gizmodo.com/app/uploads/2022/03/cf5f944c7b7cd616b33d4ee58de923a7-680x383.jpg 680w, https://gizmodo.com/app/uploads/2022/03/cf5f944c7b7cd616b33d4ee58de923a7-896x504.jpg 896w, https://gizmodo.com/app/uploads/2022/03/cf5f944c7b7cd616b33d4ee58de923a7-1792x1008.jpg 1792w" sizes="(max-width: 1920px) 100vw, 1920px"><br><br>Apple 
+
+## Anker Portable Power Bank Is 40% Off and Charges Everything From Smartphones to Laptops
+ - [https://gizmodo.com/anker-portable-power-bank-is-40-off-and-charges-everything-from-smartphones-to-laptops-2000568478](https://gizmodo.com/anker-portable-power-bank-is-40-off-and-charges-everything-from-smartphones-to-laptops-2000568478)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:30:07+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/anker737.jpg" class="attachment-full size-full wp-post-image" alt="Anker737" decoding="async" srcset="https://gizmodo.com/app/uploads/2025/01/anker737.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/anker737-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/anker737-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/anker737-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/anker737-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/anker737-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/anker737-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/anker737-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>The Anker 737 is a 24,000 mAh beast that's the size of a soda can and ready to charge your laptop, smartphone, and earbuds at the same time.
+
+## Samsung Galaxy S25 Ultra Price Drop Makes It Cheaper Than a Galaxy Watch Ultra With Huge Trade-In Savings
+ - [https://gizmodo.com/samsung-galaxy-s25-ultra-price-drop-makes-it-cheaper-than-a-galaxy-watch-ultra-with-huge-trade-in-savings-2000568084](https://gizmodo.com/samsung-galaxy-s25-ultra-price-drop-makes-it-cheaper-than-a-galaxy-watch-ultra-with-huge-trade-in-savings-2000568084)
+ - RSS feed: $source
+ - date published: 2025-02-26T12:50:01+00:00
+
+<img width="1500" height="1000" src="https://gizmodo.com/app/uploads/2025/01/s25ultra-1.jpg" class="attachment-full size-full wp-post-image" alt="Galaxy S25 Ultra" decoding="async" fetchpriority="high" srcset="https://gizmodo.com/app/uploads/2025/01/s25ultra-1.jpg 1500w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-300x200.jpg 300w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-1024x683.jpg 1024w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-768x512.jpg 768w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-336x224.jpg 336w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-1400x932.jpg 1400w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-680x453.jpg 680w, https://gizmodo.com/app/uploads/2025/01/s25ultra-1-896x597.jpg 896w" sizes="(max-width: 1500px) 100vw, 1500px"><br><br>Save up to $1,200+ on Samsung Galaxy s25 Ultra. Get up to $900 instant trade-in credit and up to $300 Samsung credits.
+
+## Thank Goodness, That Free Ad-Supported Version of Microsoft Office Was Just a Test
+ - [https://gizmodo.com/thank-goodness-that-free-ad-supported-version-of-microsoft-office-was-just-a-test-2000568106](https://gizmodo.com/thank-goodness-that-free-ad-supported-version-of-microsoft-office-was-just-a-test-2000568106)
+ - RSS feed: $source
+ - date published: 2025-02-26T12:45:20+00:00
+
+<img width="1814" height="1020" src="https://gizmodo.com/app/uploads/2022/01/535941e22c0c474d8f122b8267f99228.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" srcset="https://gizmodo.com/app/uploads/2022/01/535941e22c0c474d8f122b8267f99228.jpg 1814w, https://gizmodo.com/app/uploads/2022/01/535941e22c0c474d8f122b8267f99228-300x169.jpg 300w, https://gizmodo.com/app/uploads/2022/01/535941e22c0c474d8f122b8267f99228-1024x576.jpg 1024w, https://gizmodo.com/app/uploads/2022/01/535941e22c0c474d8f122b8267f99228-768x432.jpg 768w, https://gizmodo.com/app/uploads/2022/01/535941e22c0c474d8f122b8267f99228-512x288.jpg 512w, https://gizmodo.com/app/uploads/2022/01/535941e22c0c474d8f122b8267f99228-680x382.jpg 680w, https://gizmodo.com/app/uploads/2022/01/535941e22c0c474d8f122b8267f99228-896x504.jpg 896w, https://gizmodo.com/app/uploads/2022/01/535941e22c0c474d8f122b8267f99228-1792x1008.jpg 1792w" sizes="(max-width: 1814px) 100vw, 1814px"><br><br>The free version of Microso
+

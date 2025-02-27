@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-26T19:51:41+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Project MINI RACK - what have we started??</span>\n\n            <p>Today I set up a new DeskPi RackMate 12U model, the T2, and compared it to the other existing models (T0 / 4U and T1 / 8U)... and I have to ask: at what point are these racks not 'mini' anymore?</p>\n\n<p></p>\n\n<p>I posted a <a href=\"https://www.youtube.com/shorts/vgzjRN_SePI\">short video about the 12U</a> in case you're interested in it\u2014though many mini homelab enthusiasts have taken to 3D printing the entire rack, or just buying two cheap rack rails and using equipment to screw them together! (It's certainly easier to stomach $10 in parts for a DIY mini rack instead of paying $150+ for a premium mini rack like DeskPi's!)</p>\n      <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Jeff Geerling</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">February 26, 2025",
+        "id": 2202866,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/project-mini-rack-what-have-we-started",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Project MINI RACK - what have we started??",
+        "vote": 0
+    }
+]

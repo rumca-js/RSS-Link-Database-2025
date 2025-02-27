@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-26T12:07:34+00:00",
+        "description": "W 2024 r. prezes UOKiK na\u0142o\u017cy\u0142 kary o warto\u015bci ponad 937 mln z\u0142 i wyda\u0142 ponad 750 decyzji z zakresu ochrony konkurencji i konsument\u00f3w.",
+        "id": 2198635,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/ponad-900-milionow-zlotych-kar-od-uokik-w-2024-roku",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ponad 900 milion\u00f3w z\u0142otych kar od UOKiK w 2024 roku",
+        "vote": 0
+    }
+]

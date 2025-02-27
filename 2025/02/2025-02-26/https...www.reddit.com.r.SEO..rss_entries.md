@@ -1,0 +1,156 @@
+# Source:Search Engine Optimization: The Latest SEO News, URL:https://www.reddit.com/r/SEO/.rss, language:en
+
+## How are you tracking ranking these days and are you even bothering?
+ - [https://www.reddit.com/r/SEO/comments/1iyxx99/how_are_you_tracking_ranking_these_days_and_are](https://www.reddit.com/r/SEO/comments/1iyxx99/how_are_you_tracking_ranking_these_days_and_are)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:51:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>So many tools out there, but i hear that rank tracking is dead, or that people are turning to spreadsheets and AI. Any tips on 2025 workflows appreciated.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Green-Key-2327"> /u/Green-Key-2327 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iyxx99/how_are_you_tracking_ranking_these_days_and_are/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iyxx99/how_are_you_tracking_ranking_these_days_and_are/">[comments]</a></span>
+
+## Help & Advice needed
+ - [https://www.reddit.com/r/SEO/comments/1iyvbp3/help_advice_needed](https://www.reddit.com/r/SEO/comments/1iyvbp3/help_advice_needed)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:03:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all, I have recently launched a new 3D printing online shop and I am really struggling to get website traffic, let alone a sale...</p> <p>I have been doing SEO research but even though I seemed to have done everything I can do with regards to SEO on my website, I am still not getting any organic traffic or sales etc.</p> <p>Even though I have been doing web design etc for years I feel really out of touch with the SEO &amp; Marketing side of things, lost even?</p> <p>I get the feeling that the only way I am going to get sales is by spending a massive chunk of change on advertising with Facebook or Google etc... </p> <p>Is paying for web traffic the only real way to get it these days?! 🥴</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MrWelshNut"> /u/MrWelshNut </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iyvbp3/help_advice_needed/">[link]</a></span> &#32; <span><a href="https://www.reddit.c
+
+## When building a niche website, should I focus on one category only?
+ - [https://www.reddit.com/r/SEO/comments/1iyudir/when_building_a_niche_website_should_i_focus_on](https://www.reddit.com/r/SEO/comments/1iyudir/when_building_a_niche_website_should_i_focus_on)
+ - RSS feed: $source
+ - date published: 2025-02-26T18:24:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>I noticed that my competitors focus only on one category/sub-topic, while I cover four categories/sub-topics on my blog. The categories are related to each other, though.</p> <p>Does this put me at a disadvantage? Will it take longer for me to rank compared to my competitors because each category needs its own topical authority? How does this work?</p> <p>Example: let&#39;s say my blog covers <strong>strength training, nutrition, yoga, and mental health</strong>, while my competitors focus on <strong>just one</strong> - e.g. only yoga, only nutrition, or only strength training.</p> <p>Does focusing on multiple categories <em>dilute my topical authority</em> compared to them? Would it be better to narrow my focus to one category, or is it still possible to build authority across all four topics over time?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sesilyber"> /u/sesilyber </a> <br/> <span><a href="https://ww
+
+## Is unrelated traffic damaging for SEO?
+ - [https://www.reddit.com/r/SEO/comments/1iysk4x/is_unrelated_traffic_damaging_for_seo](https://www.reddit.com/r/SEO/comments/1iysk4x/is_unrelated_traffic_damaging_for_seo)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:11:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>My main business is in B2B manufacturing. I have almost no domain authority and very few backlinks. Which is another story.</p> <p>Just for fun, I built a simple personal finance related calculator that has zero to do with my business. I had no where else to put it, so I created a page for it on my non-related website and set it to not index.</p> <p>Then, I mentioned it on a personal budget sub but didn’t link to it. Within 1 day, over 50 people asked for a link to try it, and then got positive feedback. If I were to have posted the link publicly on that sub and many other places, it would get a ton of traffic of people interacting with the calculator. I think it adds enough value that people would add backlinks to it from their blogs and otherwise just mention it in the personal budget world.</p> <p>I know it would make way way more sense to house it on a personal budget related website, or just even it&#39;s own site. But I simply don&#39;t have th
+
+## {weekly discussion} Search for SEO on Google trends at an all time high
+ - [https://www.reddit.com/r/SEO/comments/1iyshm4/weekly_discussion_search_for_seo_on_google_trends](https://www.reddit.com/r/SEO/comments/1iyshm4/weekly_discussion_search_for_seo_on_google_trends)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:08:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SEO/comments/1iyshm4/weekly_discussion_search_for_seo_on_google_trends/"> <img src="https://b.thumbs.redditmedia.com/270-qkNBUQrdlRqkaj5XXk0Nm08YKEOl7GZXz07Fj_g.jpg" alt="{weekly discussion} Search for SEO on Google trends at an all time high" title="{weekly discussion} Search for SEO on Google trends at an all time high" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://trends.google.com/trends/explore?date=all&amp;geo=US&amp;q=seo&amp;hl=en">https://trends.google.com/trends/explore?date=all&amp;geo=US&amp;q=seo&amp;hl=en</a> </p> <p><a href="https://preview.redd.it/hvgjx73smile1.png?width=1812&amp;format=png&amp;auto=webp&amp;s=1e983b99452922438ad60792018238eab3ec6ec2">https://preview.redd.it/hvgjx73smile1.png?width=1812&amp;format=png&amp;auto=webp&amp;s=1e983b99452922438ad60792018238eab3ec6ec2</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WebLinkr"> /u/WebLinkr </a> 
+
+## How do I get Topical Authority? Help
+ - [https://www.reddit.com/r/SEO/comments/1iyrtlp/how_do_i_get_topical_authority_help](https://www.reddit.com/r/SEO/comments/1iyrtlp/how_do_i_get_topical_authority_help)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:40:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I just found this topical authority thing so I started writing everything that comes to my mind about my niche.</p> <p>i&#39;ll link in the comments the map I made with all the articles I should write to really cover the entire niche. Today I wrote the first column (20 articles + 1 pillar content linking to all the other posts in the same group).</p> <p>So, now I&#39;ll keep writing all the other columns, but apart from this, is there anything in particular I should do to actually get the Authority? Is there a way to know when/if it will have success? Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mooonmatt"> /u/mooonmatt </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iyrtlp/how_do_i_get_topical_authority_help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iyrtlp/how_do_i_get_topical_authority_help/">[comments]</a></span>
+
+## Should I Internal Link My Entire Site?
+ - [https://www.reddit.com/r/SEO/comments/1iyrq2v/should_i_internal_link_my_entire_site](https://www.reddit.com/r/SEO/comments/1iyrq2v/should_i_internal_link_my_entire_site)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:36:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>I bought a big site a year ago and it was a mess - 10k posts, but was dead from a ux and ads perspective. I have turned the UX and content around and we are now the largest site traffic wise in our niche - 2.5m visitors per year, 5m page views.</p> <p>HOWEVER - the internal linking on the site is terrible. 8,000+ orhpaned pages.</p> <p>I have recently been trying all the AI internal links too - short version - mostly terrible, Kaola AI is REALLLLLY good. I will put a post up about my experience with all the platforms soon, but basically I can trust Kaola to put relevant links in across the site.</p> <p>SO - advice please :)</p> <p>Should I pull the trigger and internal link across all 12k of our pages?</p> <p>The internal links are all good from Kaola - but will doing it en mass casue issues for seo?</p> <p>Has anyone done this before?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marklittler"> /u/marklittler 
+
+## What SEO apps do you use in addition to SEMRush
+ - [https://www.reddit.com/r/SEO/comments/1iyqqk5/what_seo_apps_do_you_use_in_addition_to_semrush](https://www.reddit.com/r/SEO/comments/1iyqqk5/what_seo_apps_do_you_use_in_addition_to_semrush)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:56:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Since SEMrush doesn’t seem to scrape autocomplete like other tools (e.g., KeywordTool.io), is anyone using additional apps to supplement their keyword research? If so, what are you using?</p> <p>My head is 🤯 with all of the available tools out there. It&#39;s difficult to narrow down which to use. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/qwik3r"> /u/qwik3r </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iyqqk5/what_seo_apps_do_you_use_in_addition_to_semrush/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iyqqk5/what_seo_apps_do_you_use_in_addition_to_semrush/">[comments]</a></span>
+
+## Opinions on my link outreach strategy
+ - [https://www.reddit.com/r/SEO/comments/1iypxel/opinions_on_my_link_outreach_strategy](https://www.reddit.com/r/SEO/comments/1iypxel/opinions_on_my_link_outreach_strategy)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:21:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have two websites in the same niche. They both offer therapeutic massage/beauty services in London. One is over 10 years old with some excellent rankings and the other was launched in March 23 but is slowly starting to climb and has modest rankings. Both have active blogs.</p> <p>I want to get more backlinks, particularly for the newer site. My plan is to reach out to similar businesses and service providers in our industry on instagram and by email to offer them a link exchange. This is admin intensive of course but we have the capacity to do it. </p> <p>One big potential benefit for these sites is that the links technically aren&#39;t reciprocal. I have read that reciprocal linking isn&#39;t as powerful. We will offer a link from our stronger site in exchange for one back to our weaker site. We&#39;ll even provide them with the content. </p> <p>Is this a waste of time in 2025 or still worth doing? </p> <p>Thanks</p> </div><!-- SC_ON --> &#32; sub
+
+## Google SERPs sometimes showing the difference between the original price and the sale price, instead of just the sale price
+ - [https://www.reddit.com/r/SEO/comments/1iyp67q/google_serps_sometimes_showing_the_difference](https://www.reddit.com/r/SEO/comments/1iyp67q/google_serps_sometimes_showing_the_difference)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:47:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi,</p> <p>I work for a retail site and we&#39;re having a weird problem, where Google sometimes displays the reduction in price, in the SERPs, as the full price of the product, instead of the sale price.</p> <p>e.g. a product was £50 and is now £35, Google might display £15.00</p> <p>Weirdly though, my colleague sees some with this problem that are working fine on my side. So I don&#39;t know if it&#39;s just a weird sort of AI glitch or something, since the reduction isn&#39;t even recorded in a field etc.</p> <p>I&#39;ve checked Google Merchant Centre and the prices look fine there, original and sale prices recorded. The schema also looks correct, the sale price is in the price field, with an offer recorded and the date that the offer ends.</p> <p>So I&#39;m just wondering if anyone has the same problem and might have fixed it, or do you have any ideas?</p> <p>Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com
+
+## Why Is SEO So Hard for Small Businesses? (I Need Help!)
+ - [https://www.reddit.com/r/SEO/comments/1iyo50x/why_is_seo_so_hard_for_small_businesses_i_need](https://www.reddit.com/r/SEO/comments/1iyo50x/why_is_seo_so_hard_for_small_businesses_i_need)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:59:54+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/WebLinkr"> /u/WebLinkr </a> <br/> <span><a href="/r/seogrowth/comments/1iykpjd/why_is_seo_so_hard_for_small_businesses_i_need/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iyo50x/why_is_seo_so_hard_for_small_businesses_i_need/">[comments]</a></span>
+
+## Help with tracking rankings
+ - [https://www.reddit.com/r/SEO/comments/1iymmb3/help_with_tracking_rankings](https://www.reddit.com/r/SEO/comments/1iymmb3/help_with_tracking_rankings)
+ - RSS feed: $source
+ - date published: 2025-02-26T12:41:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, </p> <p>I own a small business and I&#39;ve been working on my company&#39;s google business rankings. I&#39;ve been working alot over the last week or so and I was able to bring up my ranking in a number of keywords searches I was focused on. I was tracking these by Googleing the keywords and see what position my business ranked compared to other businesses. I would do these in my home offers.</p> <p>Last night I was at a friend&#39;s place who lives about 20 mins away and I decided to check those keywords. My ranking was very different and these kinda reinforced my theory that the area of the google search would effect the rankings . </p> <p>I was wondering if there is an easy way to track regional rankings without needing to travel to those areas. </p> <p>Thanks </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Still-Number-786"> /u/Still-Number-786 </a> <br/> <span><a href="https://www.reddit.com/r/SEO
+
+## If Screaming Frog cant crawl a site does that necessarily mean it's an SPA (single page app)?
+ - [https://www.reddit.com/r/SEO/comments/1iyjqmc/if_screaming_frog_cant_crawl_a_site_does_that](https://www.reddit.com/r/SEO/comments/1iyjqmc/if_screaming_frog_cant_crawl_a_site_does_that)
+ - RSS feed: $source
+ - date published: 2025-02-26T09:31:16+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Infinite_Whisper"> /u/Infinite_Whisper </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iyjqmc/if_screaming_frog_cant_crawl_a_site_does_that/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iyjqmc/if_screaming_frog_cant_crawl_a_site_does_that/">[comments]</a></span>
+
+## Advice on Focused Niche
+ - [https://www.reddit.com/r/SEO/comments/1iyj4u0/advice_on_focused_niche](https://www.reddit.com/r/SEO/comments/1iyj4u0/advice_on_focused_niche)
+ - RSS feed: $source
+ - date published: 2025-02-26T08:45:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have 3 blogs, all hit with Google. All not focused on just one subject.</p> <p>I make some money still and thankful but it&#39;s not enough to live properly. It&#39;s peanuts basically. And I&#39;m unemployed so I rely on this.</p> <p>A friend of mine does a certain thing, he has skills in and I did some keyword research and noticed the difficulty etc was quiet low. So his basically an expert.</p> <p>I&#39;m just wondering, do I do a full on focused niche site focusing only on this one subject like a micro niche OR something more broad but still write more on the main keywords but able to branch out to other aspects.</p> <p>I don&#39;t like micro niche because you cant expand really but then again, with everything happening with Updates, im thanking of taking a chance.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LifeHilarity"> /u/LifeHilarity </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/
+
+## Difficulty Keeping All Pages Indexed
+ - [https://www.reddit.com/r/SEO/comments/1iyhzjw/difficulty_keeping_all_pages_indexed](https://www.reddit.com/r/SEO/comments/1iyhzjw/difficulty_keeping_all_pages_indexed)
+ - RSS feed: $source
+ - date published: 2025-02-26T07:21:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>ecommerce site with around 2500 Product pages as well as 100+ Collection pages. I often find dozens of pages that are not indexed. it is a lot of work getting them back on Google Search </p> <p>I am pretty diligent about checking GSC and finding pages in Crawled - currently not indexed or Discovered - currently not indexed, etc. I can almost always Request Indexing and get them indexed. Then for some time it is fine, then months later a new group of pages show up on the lists. </p> <p>I do try to make the descriptions a bit more unique than competitors as I understand if they skip over duplicate content. Also try and fix anything else that might be wrong. </p> <p>Is there anything i can do to keep the entire site indexed? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VillageHomeF"> /u/VillageHomeF </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iyhzjw/difficulty_keeping_all_pages_indexed/">[l
+
+## Bought a domain, it had content years back. Built a new site. Now its not getting indexed after a few months. Whats wrong?
+ - [https://www.reddit.com/r/SEO/comments/1iyhc6z/bought_a_domain_it_had_content_years_back_built_a](https://www.reddit.com/r/SEO/comments/1iyhc6z/bought_a_domain_it_had_content_years_back_built_a)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:35:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, what could be done to make the website go into index?</p> <p>Its just not able to index the website. The old site has pages dating back to 2014 and recently 2019 and think even 2023.</p> <p>Problem is, made a totally new website, but its not getting anything indexed. No manual penalty on google search console. Been waiting for 3 months now. Nothing. Tried semrush and ahrefs site tool audits and tried to fix all problems.</p> <p>Any help?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Any-Cryptographer907"> /u/Any-Cryptographer907 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iyhc6z/bought_a_domain_it_had_content_years_back_built_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iyhc6z/bought_a_domain_it_had_content_years_back_built_a/">[comments]</a></span>
+
+## Assuming the content is exactly the same, is a single-page or multi-page website better for SEO?
+ - [https://www.reddit.com/r/SEO/comments/1iyfk1o/assuming_the_content_is_exactly_the_same_is_a](https://www.reddit.com/r/SEO/comments/1iyfk1o/assuming_the_content_is_exactly_the_same_is_a)
+ - RSS feed: $source
+ - date published: 2025-02-26T04:47:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>The website I&#39;m creating is for a psychotherapist. It describes the services, the therapist, contact options, etc. Is it better to split that information over multiple pages, or present them all on one page?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/50-Miles-to-Nowhere"> /u/50-Miles-to-Nowhere </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iyfk1o/assuming_the_content_is_exactly_the_same_is_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iyfk1o/assuming_the_content_is_exactly_the_same_is_a/">[comments]</a></span>
+
+## Someone Randomly Backlink my Website...I think?
+ - [https://www.reddit.com/r/SEO/comments/1iycs6e/someone_randomly_backlink_my_websitei_think](https://www.reddit.com/r/SEO/comments/1iycs6e/someone_randomly_backlink_my_websitei_think)
+ - RSS feed: $source
+ - date published: 2025-02-26T02:19:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey SEO experts,</p> <p>I am a new business owner with a data consulting firm, I only had my website up for barely a week, but while setting up my website I got a lot of SEO people asking to &quot;bring my site to the top,&quot; I thought nah I do the solicitation not the other way around so I started learning SEO, and implemented new keywords on my website. </p> <p>However, nothing seemed to work and I became frustrated because my analytics was showing no update and while ranting to my fiance about it I literally watched my website go from 0 to 1,407 users in one day. </p> <p>I was excited at first but realized none of them were really engaging with my services so looking further into it I saw that a lot of them were coming from search results, facebook, and twitter. I do not have any of those sites set up for ads so I thought it was a random attack on my domain so I implemented Cloudflare to remove bots but I am still seeing heavy traffic to my sit
+
+## Network graph explained
+ - [https://www.reddit.com/r/SEO/comments/1iyclww/network_graph_explained](https://www.reddit.com/r/SEO/comments/1iyclww/network_graph_explained)
+ - RSS feed: $source
+ - date published: 2025-02-26T02:10:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey, I&#39;m using SEMrush and trying to understand the network graph. I&#39;ve read the blog, but I&#39;m still not entirely sure how it works.</p> <p>My profile is currently marked as moderate. When I check other profiles for potential backlinks, I sometimes see a &quot;suspicious&quot; label.</p> <p>My profile states: &quot;This is an ordinary backlink profile, so a backlink will probably not harm your domain.&quot;</p> <p>Could you clarify what this means and how I should interpret it?</p> <p>Thanks </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/locky526"> /u/locky526 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iyclww/network_graph_explained/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iyclww/network_graph_explained/">[comments]</a></span>
+
+## Restaurant not showing up on Uber–Any advice?
+ - [https://www.reddit.com/r/SEO/comments/1iyb6js/restaurant_not_showing_up_on_uberany_advice](https://www.reddit.com/r/SEO/comments/1iyb6js/restaurant_not_showing_up_on_uberany_advice)
+ - RSS feed: $source
+ - date published: 2025-02-26T01:00:55+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/WebLinkr"> /u/WebLinkr </a> <br/> <span><a href="/r/bigseo/comments/1iy9ixs/restaurant_not_showing_up_on_uberany_advice/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1iyb6js/restaurant_not_showing_up_on_uberany_advice/">[comments]</a></span>
+
+## I'm out ranking some competitors who have a higher page authority than I do. How important is PA really?
+ - [https://www.reddit.com/r/SEO/comments/1iyajyn/im_out_ranking_some_competitors_who_have_a_higher](https://www.reddit.com/r/SEO/comments/1iyajyn/im_out_ranking_some_competitors_who_have_a_higher)
+ - RSS feed: $source
+ - date published: 2025-02-26T00:31:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m publishing a lot of blog posts lately but as Google States, &quot;people first&quot; content and I&#39;m starting to rise very high in the search engines. Now some of these horrible websites that we&#39;re competing against and have a million more backlinks than us are ranking lower than us. </p> <p>We hardly have any backlinks and these are some pretty good long tail keywords that I&#39;m finding with both Ubersuggest and semrus, so I&#39;m wondering what I&#39;m actually doing right by ranking higher than my competitors who have higher page authority?</p> <p>I&#39;m using all the Google stuff like bread crumbs, structure markup, XML sitemaps, I must be doing something right but I&#39;m still amazed.</p> <p>I would love your insights.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/World-PodcastNetwork"> /u/World-PodcastNetwork </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iyajyn/im_o
+
+## What is the best way to keep up with googles changes? They Google Search Central blog?
+ - [https://www.reddit.com/r/SEO/comments/1iyabfv/what_is_the_best_way_to_keep_up_with_googles](https://www.reddit.com/r/SEO/comments/1iyabfv/what_is_the_best_way_to_keep_up_with_googles)
+ - RSS feed: $source
+ - date published: 2025-02-26T00:19:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just got done reading probably about 50 of Google&#39;s documents on how they rank and how their search works. My head is spinning but I do feel a lot more educated now. I&#39;m sure a lot of you have already read those documents too on everything from how search works, indexing to crawling to spambrain to feature snippets to helpful content algorithm and everything else. I am enlightened by their search quality rater program and didn&#39;t know that they actually hire these people to rate their algorithm.</p> <p>What&#39;s the best way to keep up it all of its changes? Do we just keep reading all the blog posts on Google Search Central?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/World-PodcastNetwork"> /u/World-PodcastNetwork </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1iyabfv/what_is_the_best_way_to_keep_up_with_googles/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r
+

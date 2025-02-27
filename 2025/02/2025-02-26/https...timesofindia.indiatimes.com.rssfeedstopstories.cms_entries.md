@@ -1,0 +1,1031 @@
+# Source:Times of India, URL:https://timesofindia.indiatimes.com/rssfeedstopstories.cms, language:en-gb
+
+## Cabinet clears decks for tabling of Waqf bill
+ - [https://timesofindia.indiatimes.com/india/cabinet-clears-decks-for-tabling-of-waqf-bill/articleshow/118589208.cms](https://timesofindia.indiatimes.com/india/cabinet-clears-decks-for-tabling-of-waqf-bill/articleshow/118589208.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T23:59:08+00:00
+
+Cabinet has approved amendments to the Waqf (Amendment) Bill with changes recommended by the Parliamentary panel, clearing its path for discussion in the budget session. The bill includes recognition of existing 'Registered Waqf by User' only and ensures broader representation in waqf boards.
+
+## Terminal changes at IGI with four projects set to take off at one go
+ - [https://timesofindia.indiatimes.com/city/delhi/terminal-changes-at-igi-with-four-projects-set-to-take-off-at-one-go/articleshow/118585250.cms](https://timesofindia.indiatimes.com/city/delhi/terminal-changes-at-igi-with-four-projects-set-to-take-off-at-one-go/articleshow/118585250.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T23:11:51+00:00
+
+Indira Gandhi International Airport is set to complete major projects including the restoration of Terminal 1 by March 15, closure of Terminal 2 for repairs, conversion of a domestic pier at T3 for international flights, and upgrading runway 28 for CAT IIIB. These are planned for completion before winter.
+
+## Double trouble for foreign education: Weaker rupee, tougher visas
+ - [https://timesofindia.indiatimes.com/business/india-business/double-trouble-for-foreign-education-weaker-rupee-tougher-visas/articleshow/118587520.cms](https://timesofindia.indiatimes.com/business/india-business/double-trouble-for-foreign-education-weaker-rupee-tougher-visas/articleshow/118587520.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:54:01+00:00
+
+A weak rupee is increasing costs for Indian students studying abroad, exacerbated by tighter post-education work visa norms in the UK and Canada. This could lead to longer loan repayment periods or higher EMIs. Experts suggest locking in foreign exchange rates early and seeking scholarships to reduce financial burden, while recommending students to focus on emerging fields for better job prospects.
+
+## Earthquake of magnitude 5 jolts Assam's Morigaon district
+ - [https://timesofindia.indiatimes.com/india/earthquake-of-magnitude-5-jolts-assams-morigaon-district/articleshow/118588013.cms](https://timesofindia.indiatimes.com/india/earthquake-of-magnitude-5-jolts-assams-morigaon-district/articleshow/118588013.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:54:01+00:00
+
+A 5.0 magnitude earthquake struck Assam's Morigaon district early on Thursday morning, with its epicentre at a depth of 16 km. Earlier, a 5.1 magnitude quake hit the Bay of Bengal on Tuesday morning, originating 91 km below the surface, as per the National Center for Seismology.
+
+## Elon Musk jokes DOGE is Trump's 'humble tech support : 'It will fix computer systems'
+ - [https://timesofindia.indiatimes.com/world/us/elon-musk-jokes-doge-is-trumps-humble-tech-support-it-will-fix-computer-systems/articleshow/118587120.cms](https://timesofindia.indiatimes.com/world/us/elon-musk-jokes-doge-is-trumps-humble-tech-support-it-will-fix-computer-systems/articleshow/118587120.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:54:01+00:00
+
+None
+
+## House punishment for netas, largely legislature's turf, now under court lens
+ - [https://timesofindia.indiatimes.com/india/house-punishment-for-netas-largely-legislatures-turf-now-under-court-lens/articleshow/118587334.cms](https://timesofindia.indiatimes.com/india/house-punishment-for-netas-largely-legislatures-turf-now-under-court-lens/articleshow/118587334.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:54:01+00:00
+
+The Supreme Court has set guidelines for constitutional courts scrutinizing the proportionality of punishments given to legislators, enabling judicial review. The verdict clarifies that legislative punishment is not beyond judicial scrutiny, emphasizing the balance between legislative discipline and members' rights.
+
+## In Supreme Court, government opposes life ban on convicted netas
+ - [https://timesofindia.indiatimes.com/india/in-supreme-court-government-opposes-life-ban-on-convicted-netas/articleshow/118587195.cms](https://timesofindia.indiatimes.com/india/in-supreme-court-government-opposes-life-ban-on-convicted-netas/articleshow/118587195.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:54:01+00:00
+
+The Centre has argued in the Supreme Court that the six-year disqualification for convicts from contesting elections is constitutionally sound and a lifetime ban should be decided by Parliament. An advocate had filed a petition seeking a lifetime ban on convicted politicians, but the government argued that time-bound penalties ensure deterrence without being excessively harsh. Courts cannot direct Parliament on legislative policy.
+
+## Pay up to 20% more for vacations abroad
+ - [https://timesofindia.indiatimes.com/business/india-business/pay-up-to-20-more-for-vacations-abroad/articleshow/118587735.cms](https://timesofindia.indiatimes.com/business/india-business/pay-up-to-20-more-for-vacations-abroad/articleshow/118587735.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:54:01+00:00
+
+Falling rupee and rising hotel tariffs have made overseas holidays more expensive for Indians, with a 15%-20% increase in costs compared to last year. European and Southeast Asian destinations are most affected. Despite the hike, travel interest remains high, with more bookings for exotic locations. The strengthening dollar and domestic travel costs are also contributing factors. Free e-visas from several countries are boosting interest.
+
+## Supreme Court stays Centre's green clearance exemption order
+ - [https://timesofindia.indiatimes.com/india/supreme-court-stays-centres-green-clearance-exemption-order/articleshow/118587341.cms](https://timesofindia.indiatimes.com/india/supreme-court-stays-centres-green-clearance-exemption-order/articleshow/118587341.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:54:01+00:00
+
+The Supreme Court has stayed a recent central notification that exempts certain projects from the need for prior environment clearance. This action follows a PIL that challenges the dilution of stringent environmental norms, claiming it could lead to unregulated construction with detrimental ecological impacts.
+
+## Telangana tunnel rescue operation tougher: Silkyara heroes
+ - [https://timesofindia.indiatimes.com/india/silkyara-tunnel-heroes-say-telangana-battle-tougher-men-trapped-inside-are-silent/articleshow/118587404.cms](https://timesofindia.indiatimes.com/india/silkyara-tunnel-heroes-say-telangana-battle-tougher-men-trapped-inside-are-silent/articleshow/118587404.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:54:01+00:00
+
+In Telangana's collapsed Srisailam Left Bank Canal tunnel, rescuers, including veterans from the 2023 Uttarakhand disaster, are battling time to save eight trapped men. The operation faces challenges from water and silt, with silence from the trapped adding to the uncertainty.
+
+## Dead KIIT student’s dad seeks justice from India
+ - [https://timesofindia.indiatimes.com/city/dehradun/india-will-not-fail-my-daughter-father-of-dead-kiit-student-seeks-justice-clings-to-hope/articleshow/118584747.cms](https://timesofindia.indiatimes.com/city/dehradun/india-will-not-fail-my-daughter-father-of-dead-kiit-student-seeks-justice-clings-to-hope/articleshow/118584747.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:32:34+00:00
+
+Prakriti Lamsal, a Nepalese student at KIIT, died after filing harassment complaints. Her father and Nepalese authorities demand justice and an impartial investigation. Protests and diplomatic interventions highlight the call for accountability and prevention of future incidents among Nepali students in India.
+
+## Ahead of polls, Nitish Kumar inducts 7 new ministers, all from BJP
+ - [https://timesofindia.indiatimes.com/city/patna/ahead-of-polls-nitish-inducts-7-new-ministers-all-from-bjp/articleshow/118584487.cms](https://timesofindia.indiatimes.com/city/patna/ahead-of-polls-nitish-inducts-7-new-ministers-all-from-bjp/articleshow/118584487.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:20:33+00:00
+
+With assembly polls impending, Bihar CM Nitish Kumar has inducted seven BJP legislators into the cabinet, raising its strength to 36. This expansion, the third in 13 months, sees BJP ministers outnumber JD(U) at 21 to 13. The added ministers hail from various backgrounds, with representation from Mithilanchal, backward and extremely backward classes, and upper castes, indicating a strategic move ahead of elections.
+
+## Mining case: Lokayukta SIT makes fresh request to guv for HDK’s prosecution
+ - [https://timesofindia.indiatimes.com/india/lokayukta-makes-fresh-request-to-karnataka-governor-for-hdks-prosecution-in-mining-case/articleshow/118587134.cms](https://timesofindia.indiatimes.com/india/lokayukta-makes-fresh-request-to-karnataka-governor-for-hdks-prosecution-in-mining-case/articleshow/118587134.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T21:48:59+00:00
+
+The Karnataka Lokayukta SIT has submitted a fresh request to governor Thaawar Chand Gehlot for permission to prosecute Union minister HD Kumaraswamy in the 2007 Sandur illegal mining case. The case involves allegations that Kumaraswamy, as Karnataka CM, approved an illegal mining lease. Despite Kumaraswamy's claims of innocence, the SIT now awaits the governor's decision while facing pressure from CM Siddaramaiah and deputy CM DK Shivakumar.
+
+## Musk on federal workforce: ‘Are they real, are they alive, can they write emails?’
+ - [https://timesofindia.indiatimes.com/world/us/elon-musk-defends-productivity-email-as-pulse-check-on-federal-workers-are-they-real-are-they-alive-can-they-write-emails/articleshow/118587125.cms](https://timesofindia.indiatimes.com/world/us/elon-musk-defends-productivity-email-as-pulse-check-on-federal-workers-are-they-real-are-they-alive-can-they-write-emails/articleshow/118587125.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T21:48:59+00:00
+
+None
+
+## NIT-C promotes prof who praised Godse, sparks row
+ - [https://timesofindia.indiatimes.com/city/kozhikode/nit-c-promotes-prof-who-praised-godse-sparks-row/articleshow/118586712.cms](https://timesofindia.indiatimes.com/city/kozhikode/nit-c-promotes-prof-who-praised-godse-sparks-row/articleshow/118586712.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T21:48:59+00:00
+
+National Institute of Technology-Calicut's decision to promote Prof Shaija Andavan, who praised Nathuram Godse, as dean has sparked controversy. Congress and DYFI are protesting her appointment, citing her inflammatory social media comments and alleged bypassing of seniority norms in the selection process.
+
+## Panel: Give ‘exemplary penalty’ to curb ‘sarpanch patis’ practice
+ - [https://timesofindia.indiatimes.com/india/impose-exemplary-penalties-to-curb-practice-of-sarpanch-patis-in-pris-suggests-panel/articleshow/118584389.cms](https://timesofindia.indiatimes.com/india/impose-exemplary-penalties-to-curb-practice-of-sarpanch-patis-in-pris-suggests-panel/articleshow/118584389.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T21:48:59+00:00
+
+An advisory committee advised strict penalties for men who proxy for elected women in gram panchayats. Recommendations include capacity-building for women leaders, reporting mechanisms for proxy cases, and leveraging technology for real-time support and monitoring of women's participation.
+
+## Siddaramaiah says he learnt of Muda land transactions deal only in 2013
+ - [https://timesofindia.indiatimes.com/city/bengaluru/muda-case-siddaramaiah-says-he-learnt-of-2010-kesare-land-deal-only-in-2013/articleshow/118585016.cms](https://timesofindia.indiatimes.com/city/bengaluru/muda-case-siddaramaiah-says-he-learnt-of-2010-kesare-land-deal-only-in-2013/articleshow/118585016.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T21:48:59+00:00
+
+The Lokayukta investigation cleared Karnataka Chief Minister Siddaramaiah of any involvement in the Mysore Urban Development Authority site allotment case. It revealed that Siddaramaiah became aware of the transactions only in 2013 and had no influence over them. His wife, Parvathi, returned the sites to uphold his reputation. Investigators found no substantial evidence linking Siddaramaiah to any illegal activities.
+
+## Unfair to pay toll if road in bad shape, says J&K HC
+ - [https://timesofindia.indiatimes.com/india/cant-collect-toll-if-road-in-bad-shape-says-jk-hc-cuts-fee-at-2-nh-44-plazas/articleshow/118587123.cms](https://timesofindia.indiatimes.com/india/cant-collect-toll-if-road-in-bad-shape-says-jk-hc-cuts-fee-at-2-nh-44-plazas/articleshow/118587123.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T21:48:59+00:00
+
+The J&amp;K and Ladakh high court has ruled that NHAI or its concessionaire cannot collect toll tax from commuters if a highway is in bad shape due to construction activities. The court ordered NHAI to collect only 20% toll at Lakhanpur and Bann toll plazas and directed the removal of any toll plazas within 60 km of NH-44 within two months.
+
+## Tigress attacks woman near Dudhwa, beaten to death
+ - [https://timesofindia.indiatimes.com/city/bareilly/tigress-beaten-to-death-by-villagers-after-attacking-woman-in-up/articleshow/118583639.cms](https://timesofindia.indiatimes.com/city/bareilly/tigress-beaten-to-death-by-villagers-after-attacking-woman-in-up/articleshow/118583639.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T21:29:32+00:00
+
+A stray tigress was beaten to death by villagers after it attacked a woman in Lakhimpur Kheri. Villagers claimed the tigress had been roaming the area for days with no response from the forest department. Authorities are investigating the incident and will register a case following NTCA guidelines.
+
+## 12 injured, vehicles torched as clashes erupt in Hazaribag over loudspeaker during Shivaratri
+ - [https://timesofindia.indiatimes.com/city/ranchi/12-injured-vehicles-torched-as-violent-clash-erupts-in-hzb-on-mahashivratri/articleshow/118584500.cms](https://timesofindia.indiatimes.com/city/ranchi/12-injured-vehicles-torched-as-violent-clash-erupts-in-hzb-on-mahashivratri/articleshow/118584500.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:44:25+00:00
+
+A clash broke out between two communities during Mahashivratri celebrations in Hazaribag's Ichak block over the installation of a loudspeaker. The violence resulted in injuries to about 12 people and several vehicles being set on fire. Police imposed prohibitory orders and arrested two individuals to control the situation.
+
+## 4 Kumbh pilgrims, including two from Bihar, killed as car crashes into house
+ - [https://timesofindia.indiatimes.com/india/4-kumbh-pilgrims-including-two-from-bihar-killed-as-car-crashes-into-house/articleshow/118587008.cms](https://timesofindia.indiatimes.com/india/4-kumbh-pilgrims-including-two-from-bihar-killed-as-car-crashes-into-house/articleshow/118587008.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:44:25+00:00
+
+Four Kumbh pilgrims from Bihar and Jharkhand lost their lives, and five others were injured when their speeding SUV crashed into a house on the Pratapgarh-Ayodhya highway in Uttar Pradesh. The pilgrims were traveling to Ayodhya after a holy dip in the Sangam when the driver lost control of the vehicle around 2.20 am, leading to the accident.
+
+## 9 Maoists carrying cash reward of Rs 23 lakh surrender in Bijapur
+ - [https://timesofindia.indiatimes.com/city/raipur/9-maoists-carrying-cash-reward-of-23-lakh-surrender-in-bijapur/articleshow/118584033.cms](https://timesofindia.indiatimes.com/city/raipur/9-maoists-carrying-cash-reward-of-23-lakh-surrender-in-bijapur/articleshow/118584033.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:44:25+00:00
+
+Nine Maoists, four with a total bounty of Rs 23 lakh, surrendered to security forces in Bijapur, Bastar division. Among them were three women, including Laxmi Madvi with an Rs 8 lakh reward. Police cited the new rehabilitation policy and Niyad Nellanar scheme as influencing factors.
+
+## Amit Shah hails Tamil Nadu's contribution to evolution of Indian spiritualism
+ - [https://timesofindia.indiatimes.com/india/amit-shah-hails-tamil-nadus-contribution-to-evolution-of-indian-spiritualism/articleshow/118586898.cms](https://timesofindia.indiatimes.com/india/amit-shah-hails-tamil-nadus-contribution-to-evolution-of-indian-spiritualism/articleshow/118586898.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:44:25+00:00
+
+Home minister Amit Shah praised Tamil Nadu's contribution to Indian spiritualism while addressing Mahashivratri celebrations at Sadhguru Jaggi Vasudev's Isha Foundation in Coimbatore. Shah commended Sadhguru for blending science and spirituality and promoting environmental awareness. He lauded the minister's efforts in integrating J&amp;K and controlling terrorism. Enthusiastic Maha Shivratri celebrations were seen across India, highlighting devotion to Lord Shiva.
+
+## Bezos overhauls Washington Post opinion section - A bold stand or a billionaire’s takeover?
+ - [https://timesofindia.indiatimes.com/world/us/writing-every-day-in-defense-of-bezos-overhauls-washington-post-opinion-section-a-bold-stand-or-a-billionaires-takeover/articleshow/118586937.cms](https://timesofindia.indiatimes.com/world/us/writing-every-day-in-defense-of-bezos-overhauls-washington-post-opinion-section-a-bold-stand-or-a-billionaires-takeover/articleshow/118586937.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:44:25+00:00
+
+None
+
+## Class 3 student goes blind after principal slapped her, says mom
+ - [https://timesofindia.indiatimes.com/city/meerut/class-3-student-blind-after-principal-slapped-her-says-mom/articleshow/118585201.cms](https://timesofindia.indiatimes.com/city/meerut/class-3-student-blind-after-principal-slapped-her-says-mom/articleshow/118585201.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:44:25+00:00
+
+A seven-year-old girl lost her vision after allegedly being slapped by her school principal in Moradabad. Her mother is seeking assistance for her treatment at AIIMS Delhi. Authorities are investigating the incident, although preliminary findings suggest the girl had an existing eye condition.
+
+## EOW files closure report in Mack Star fraud case against Wadhawans
+ - [https://timesofindia.indiatimes.com/city/mumbai/eow-files-its-closure-report-in-fraud-case-against-wadhavans/articleshow/118585401.cms](https://timesofindia.indiatimes.com/city/mumbai/eow-files-its-closure-report-in-fraud-case-against-wadhavans/articleshow/118585401.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:44:25+00:00
+
+Mumbai's Economic Offences Wing closed the Mack Star Marketing fraud case, involving the Wadhawans of HDIL, who allegedly transferred property illicitly. Despite accusations of cheating Mack Star Marketing's majority shareholder and taking loans without knowledge, EOW found no criminal conduct. The closure weakens the ED's money laundering case on the matter, stating the conflict as purely civil.
+
+## Let’s finish what we started for our own benefit: EU chief on FTA
+ - [https://timesofindia.indiatimes.com/india/lets-finish-what-we-started-for-our-own-benefit-eu-chief-on-fta/articleshow/118584418.cms](https://timesofindia.indiatimes.com/india/lets-finish-what-we-started-for-our-own-benefit-eu-chief-on-fta/articleshow/118584418.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:44:25+00:00
+
+None
+
+## Maharashtra village bar on Muslims’ business during festival
+ - [https://timesofindia.indiatimes.com/india/maharashtra-village-bar-on-muslims-business-during-festival/articleshow/118586835.cms](https://timesofindia.indiatimes.com/india/maharashtra-village-bar-on-muslims-business-during-festival/articleshow/118586835.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:44:25+00:00
+
+Ahilyanagar district collector Siddharam Salimath has initiated an inquiry into a resolution banning Muslim traders from participating in the Madhichi Yatra, a 700-year-old tradition in Madhi village. The resolution, signed by village officials, cites non-compliance with local customs as the reason for the ban.
+
+## Woman raped in bus at busy Pune station located opposite thana
+ - [https://timesofindia.indiatimes.com/india/woman-raped-in-bus-parked-in-busy-pune-hub-accused-on-run/articleshow/118587066.cms](https://timesofindia.indiatimes.com/india/woman-raped-in-bus-parked-in-busy-pune-hub-accused-on-run/articleshow/118587066.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:44:25+00:00
+
+A 26-year-old woman was allegedly raped inside a parked bus at Pune's Swargate terminus early Tuesday morning. The suspect is a criminal with a history of theft and robbery. The incident has raised serious concerns about security, prompting an inquiry and removal of 23 security personnel. The crime has sparked outrage, with demands for swift justice and support for the survivor.
+
+## AAP names RS MP for Punjab bypoll, denies clearing Arvind Kejriwal’s path
+ - [https://timesofindia.indiatimes.com/india/aap-names-rs-mp-for-punjab-bypoll-denies-clearing-arvind-kejriwals-path/articleshow/118586689.cms](https://timesofindia.indiatimes.com/india/aap-names-rs-mp-for-punjab-bypoll-denies-clearing-arvind-kejriwals-path/articleshow/118586689.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:38:55+00:00
+
+AAP announced Rajya Sabha MP Sanjeev Arora as the candidate for Ludhiana West assembly bypoll, dismissing speculations about Arvind Kejriwal's entry into the upper House. Opposition criticized AAP, alleging an attempt to accommodate a non-Punjabi in Rajya Sabha from Punjab.
+
+## Amid M K Stalin’s LS seat-cut claims, Amit Shah says TN tally to stay intact
+ - [https://timesofindia.indiatimes.com/city/chennai/stalin-misleading-people-tn-will-not-lose-ls-seats-due-to-delimitation-amit-shah/articleshow/118583085.cms](https://timesofindia.indiatimes.com/city/chennai/stalin-misleading-people-tn-will-not-lose-ls-seats-due-to-delimitation-amit-shah/articleshow/118583085.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:38:55+00:00
+
+Amit Shah’s assertion comes a day after Stalin called for an all-party meeting on March 5 to discuss the consequences of the exercise.
+
+## Badlapur shootout: Relief for cops, magisterial probe finding 'on hold'
+ - [https://timesofindia.indiatimes.com/india/badlapur-shootout-relief-for-cops-magisterial-probe-finding-on-hold/articleshow/118586627.cms](https://timesofindia.indiatimes.com/india/badlapur-shootout-relief-for-cops-magisterial-probe-finding-on-hold/articleshow/118586627.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:38:55+00:00
+
+A sessions court in Mumbai has temporarily halted the findings of a magisterial inquiry against five policemen linked to the custodial death of a suspect in the Badlapur school sexual assault case. The Thane judge observed that the findings might exceed the magistrate's jurisdiction and could undermine future appeals by the policemen.
+
+## Donald Trump says EU was formed 'to screw United States'
+ - [https://timesofindia.indiatimes.com/world/us/eu-was-formed-to-screw-us-says-donald-trump-at-first-cabinet-meeting-tells-ukraine-to-forget-about-nato/articleshow/118585450.cms](https://timesofindia.indiatimes.com/world/us/eu-was-formed-to-screw-us-says-donald-trump-at-first-cabinet-meeting-tells-ukraine-to-forget-about-nato/articleshow/118585450.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:38:55+00:00
+
+Donald Trump stated that the European Union was initially formed to undermine the US and rejected Ukraine's Nato  membership. He emphasised European responsibility for Ukraine's security and announced a visit from Ukrainian President Zelenskyy. Trump proposed a critical minerals deal, following negotiations over US aid repayments, while seeking an end to the Ukraine war.
+
+## Farmer protests will complete 380 days today, surpass previous Delhi agitation
+ - [https://timesofindia.indiatimes.com/city/chandigarh/farmer-protests-will-complete-380-days-today-surpass-previous-delhi-agitation/articleshow/118585496.cms](https://timesofindia.indiatimes.com/city/chandigarh/farmer-protests-will-complete-380-days-today-surpass-previous-delhi-agitation/articleshow/118585496.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:38:55+00:00
+
+The farmer protests at the Punjab and Haryana borders have entered their 380th day, surpassing the previous Delhi protests in duration. Farmers demand higher crop prices, debt relief, and better working conditions. Talks with the central government have been fewer this time, with six rounds in 380 days. Protest highlights include fast unto death by Jagjit Singh Dallewal and national highway blockages.
+
+## Gossip Girl fame Michelle Trachtenberg passes away at the age of 39
+ - [https://timesofindia.indiatimes.com/tv/news/english/gossip-girl-fame-michelle-trachtenberg-passes-away-at-the-age-of-39/articleshow/118586232.cms](https://timesofindia.indiatimes.com/tv/news/english/gossip-girl-fame-michelle-trachtenberg-passes-away-at-the-age-of-39/articleshow/118586232.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:38:55+00:00
+
+Michelle Trachtenberg, known for roles in Gossip Girl and Buffy the Vampire Slayer, passed away at 39 after concerns about her health. Found by her mother in Manhattan, she had recently had a liver transplant and died of natural causes. Her career spanned decades, captivating audiences with memorable performances in TV and film.
+
+## Government bus service between Karnataka and Maharashtra resumes
+ - [https://timesofindia.indiatimes.com/city/hubballi/govt-bus-service-between-ktaka-and-maha-resumes/articleshow/118585155.cms](https://timesofindia.indiatimes.com/city/hubballi/govt-bus-service-between-ktaka-and-maha-resumes/articleshow/118585155.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:38:55+00:00
+
+Bus services between Karnataka and Maharashtra partially resumed on Wednesday morning after being suspended due to a linguistic dispute incident. Authorities held a meeting to ensure additional security for buses. While some routes have reopened, complete normalization of bus services is expected by Thursday.
+
+## In a 1st in India, bird flu detected in domestic cats
+ - [https://timesofindia.indiatimes.com/india/in-a-1st-in-india-bird-flu-detected-in-domestic-cats/articleshow/118585892.cms](https://timesofindia.indiatimes.com/india/in-a-1st-in-india-bird-flu-detected-in-domestic-cats/articleshow/118585892.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:38:55+00:00
+
+The first cases of avian influenza virus (H5N1) in domestic cats in India have been reported in Madhya Pradesh's Chhindwara. This raises concerns about the virus's potential to mutate and infect humans. Scientists identified a specific strain and noted 27 mutations in the infected cats. This occurrence calls for enhanced surveillance in poultry, wild birds, mammals, and humans, due to potential human-to-human transmission.
+
+## Indian-origin Tushar Shah flies on Jeff Bezos's Blue Origin
+ - [https://timesofindia.indiatimes.com/india/indian-origin-tushar-shah-flies-on-jeff-bezoss-blue-origin/articleshow/118586266.cms](https://timesofindia.indiatimes.com/india/indian-origin-tushar-shah-flies-on-jeff-bezoss-blue-origin/articleshow/118586266.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:38:55+00:00
+
+Indian-origin MIT graduate Tushar Shah, part of a six-person crew, completed an 11-minute space journey on Jeff Bezos's Blue Origin NS-30 mission from West Texas. Shah, a supporter of philanthropic causes, is also a hedge fund partner. The spacecraft traveled past the Von Karman line, returning safely after experiencing weightlessness and offering views of Earth. This mission reflects growing India-US space collaboration.
+
+## Now, row over Punjabi missing from CBSE list
+ - [https://timesofindia.indiatimes.com/city/chandigarh/amid-cbse-row-aap-govt-mandates-punjabi-as-main-subject-in-all-schools/articleshow/118585548.cms](https://timesofindia.indiatimes.com/city/chandigarh/amid-cbse-row-aap-govt-mandates-punjabi-as-main-subject-in-all-schools/articleshow/118585548.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:38:55+00:00
+
+The Punjab government made Punjabi a mandatory subject in all state schools, regardless of board affiliation, to safeguard regional language prominence. This decision follows concerns over CBSE's draft for the 2025-26 academic year allegedly marginalizing Punjabi, prompting strong reaction and demands for accountability.
+
+## Teen, parents held over India-Pak tie slogans; lawyers question action
+ - [https://timesofindia.indiatimes.com/india/teen-parents-held-over-india-pak-tie-slogans-lawyers-question-action/articleshow/118586777.cms](https://timesofindia.indiatimes.com/india/teen-parents-held-over-india-pak-tie-slogans-lawyers-question-action/articleshow/118586777.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:38:55+00:00
+
+In Navi Mumbai, a 14-year-old boy and his parents were apprehended for allegedly raising anti-national slogans during the India vs Pakistan cricket match. Legal experts called the police action hasty, suggesting a notice should have been issued first. The family's rented scrap shop was also demolished without notice, raising legal concerns. Police and municipal authorities cited various reasons for their actions.
+
+## Terrorists attack Army patrol vehicle in Rajouri
+ - [https://timesofindia.indiatimes.com/india/terrorists-attack-army-patrol-vehicle-in-rajouri/articleshow/118586223.cms](https://timesofindia.indiatimes.com/india/terrorists-attack-army-patrol-vehicle-in-rajouri/articleshow/118586223.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:38:55+00:00
+
+Terrorists attacked a patrol vehicle of 9 J&amp;K Rifles near Phul village in Rajouri district, Jammu. No casualties have been reported. Security forces, including the Army, police, and CRPF, are conducting search operations in the area to locate the terrorists. Recent security incidents in the Jammu region include an IED blast and ceasefire violations by Pakistani soldiers.
+
+## To make space for car park, part of Nek Chand's garden to be razed
+ - [https://timesofindia.indiatimes.com/india/to-make-space-for-car-park-part-of-nek-chands-garden-to-be-razed/articleshow/118586102.cms](https://timesofindia.indiatimes.com/india/to-make-space-for-car-park-part-of-nek-chands-garden-to-be-razed/articleshow/118586102.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:38:55+00:00
+
+The iconic Rock Garden in Chandigarh is being partially demolished to widen a road and create additional parking space, following a directive by the Punjab and Haryana high court. This move has prompted citizens to launch campaigns and protests to save the legacy of Nek Chand's creation, which has significant heritage value. The administration claims the changes are necessary to address traffic congestion.
+
+## Trump’s $5 million ‘Gold Card’ visa sparks debate: Debt fix or immigration for the wealthy?
+ - [https://timesofindia.indiatimes.com/world/us/trumps-5-million-gold-card-visa-sparks-debate-debt-fix-or-immigration-for-the-wealthy/articleshow/118586363.cms](https://timesofindia.indiatimes.com/world/us/trumps-5-million-gold-card-visa-sparks-debate-debt-fix-or-immigration-for-the-wealthy/articleshow/118586363.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:38:55+00:00
+
+None
+
+## Will Jayson Tatum play tonight against the Detroit Pistons?
+ - [https://timesofindia.indiatimes.com/sports/nba/top-stories/will-jayson-tatum-play-tonight-against-the-detroit-pistons-latest-update-on-the-boston-celtics-stars-injury-report-february-26-2025/articleshow/118585650.cms](https://timesofindia.indiatimes.com/sports/nba/top-stories/will-jayson-tatum-play-tonight-against-the-detroit-pistons-latest-update-on-the-boston-celtics-stars-injury-report-february-26-2025/articleshow/118585650.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T19:38:55+00:00
+
+The Boston Celtics are set to face the Detroit Pistons with Jayson Tatum confirmed to play. The Celtics’ injury report includes Al Horford, Luke Kornet, and Kristaps Porzingis, all listed as day-to-day. Detroit will be without Jaden Ivey and possibly Simone Fontecchio. Fans can watch the game live on FDSDET and NBCS-BOS or stream it on Fubo.
+
+## Afghanistan knock England out of Champions Trophy
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/ibrahim-zadran-azmatullah-omarzai-star-as-triumphant-afghanistan-knock-england-out-of-champions-trophy/articleshow/118585463.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/ibrahim-zadran-azmatullah-omarzai-star-as-triumphant-afghanistan-knock-england-out-of-champions-trophy/articleshow/118585463.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T18:36:55+00:00
+
+Ibrahim Zadran's 177 and Azmatullah Omarzai's five-wicket haul led Afghanistan to a thrilling eight-run victory over England in the Champions Trophy. Despite Joe Root's impressive 120, England's elimination was ensured as Afghanistan kept their semi-final hopes alive.  The 23-year-old Zadran surpassed his previous ODI record of 162, crafting a masterful 146-ball innings that included 12 boundaries and six maximums.
+
+## Earth dodges ‘city-killer’ asteroid — but Nasa says the Moon might not be so lucky
+ - [https://timesofindia.indiatimes.com/science/earth-dodges-city-killer-asteroid-but-nasa-says-the-moon-might-not-be-so-lucky/articleshow/118585189.cms](https://timesofindia.indiatimes.com/science/earth-dodges-city-killer-asteroid-but-nasa-says-the-moon-might-not-be-so-lucky/articleshow/118585189.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T18:36:55+00:00
+
+None
+
+## Shadow batting, sideline talks: Rohit Sharma plays it safe in the nets
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/champions-trophy-shadow-batting-sideline-talks-rohit-sharma-plays-it-safe-in-the-nets/articleshow/118585008.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/champions-trophy-shadow-batting-sideline-talks-rohit-sharma-plays-it-safe-in-the-nets/articleshow/118585008.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T18:36:55+00:00
+
+Following a win against Pakistan, the Indian cricket team resumed training at the ICC Academy, with captain Rohit Sharma taking it easy due to a hamstring issue. Virat Kohli and Mohammed Shami showed strong performance, with the team in high spirits and aiming to maintain their unbeaten run before the knockouts of the Champions Trophy.
+
+## 7 BJP MLAs join Nitish cabinet: Changed power dynamics at play in Bihar?
+ - [https://timesofindia.indiatimes.com/india/7-bjp-mlas-join-nitish-kumar-cabinet-changed-power-dynamics-at-play-in-bihar/articleshow/118584163.cms](https://timesofindia.indiatimes.com/india/7-bjp-mlas-join-nitish-kumar-cabinet-changed-power-dynamics-at-play-in-bihar/articleshow/118584163.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:32:45+00:00
+
+The recent cabinet expansion in Bihar saw the induction of seven new BJP members, marking a shift in power dynamics within the NDA. This signals the beginning of the BJP's assertion over JD(U), setting the stage for a significant change ahead of the state assembly elections.
+
+## 'Best decision': Indian entrepreneur on why he left US after 10 years
+ - [https://timesofindia.indiatimes.com/world/us/best-decision-of-my-life-indian-entrepreneur-on-why-he-left-us-after-10-years-says-was-turning-into-a-robot/articleshow/118583505.cms](https://timesofindia.indiatimes.com/world/us/best-decision-of-my-life-indian-entrepreneur-on-why-he-left-us-after-10-years-says-was-turning-into-a-robot/articleshow/118583505.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:32:45+00:00
+
+None
+
+## Donald Trump's 'Gaz-a-Lago' video stirs up social media
+ - [https://timesofindia.indiatimes.com/world/us/donald-trumps-gaz-a-lago-video-stirs-up-social-media/articleshow/118584188.cms](https://timesofindia.indiatimes.com/world/us/donald-trumps-gaz-a-lago-video-stirs-up-social-media/articleshow/118584188.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:32:45+00:00
+
+None
+
+## Elon Musk's 2-word reply to Facebook 'investing' $200bn in AI data centre
+ - [https://timesofindia.indiatimes.com/technology/social/elon-musks-two-word-reply-to-reports-of-facebook-parent-meta-investing-200-billion-in-ai-data-centre/articleshow/118583959.cms](https://timesofindia.indiatimes.com/technology/social/elon-musks-two-word-reply-to-reports-of-facebook-parent-meta-investing-200-billion-in-ai-data-centre/articleshow/118583959.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:32:45+00:00
+
+Elon Musk commented on rumors about Meta's AI investment plan, suggesting that the reported $200 billion cost for a new data center is high. Meta denied this figure, reiterating that its AI infrastructure investments are already public.
+
+## Gold Card vs Green Card in the USA: What difference does it make?
+ - [https://timesofindia.indiatimes.com/world/us/gold-card-vs-green-card-in-the-usa-what-difference-does-it-make/articleshow/118584208.cms](https://timesofindia.indiatimes.com/world/us/gold-card-vs-green-card-in-the-usa-what-difference-does-it-make/articleshow/118584208.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:32:45+00:00
+
+None
+
+## Mahira blushes when asked about favorite cricketer amid dating rumours with Siraj
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/mahira-sharma-blushes-when-asked-about-her-favorite-cricketer-amid-mohammed-siraj-dating-rumors-netizens-react-sharma-gayi/articleshow/118583219.cms](https://timesofindia.indiatimes.com/tv/news/hindi/mahira-sharma-blushes-when-asked-about-her-favorite-cricketer-amid-mohammed-siraj-dating-rumors-netizens-react-sharma-gayi/articleshow/118583219.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:32:45+00:00
+
+Speculation surrounds Bigg Boss 13 contestant Mahira Sharma's supposed relationship with cricketer Mohammed Siraj. Mahira's mother dismissed the rumours. When teased by paparazzi about her favorite cricketer, Mahira blushed and remained silent, fueling further speculation among netizens.
+
+## Students 'attacked', ruckus at university as ABVP vs SFI clash over food
+ - [https://timesofindia.indiatimes.com/india/students-attacked-ruckus-at-south-asian-university-as-abvp-vs-sfi-clash-over-food-menu/articleshow/118583587.cms](https://timesofindia.indiatimes.com/india/students-attacked-ruckus-at-south-asian-university-as-abvp-vs-sfi-clash-over-food-menu/articleshow/118583587.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:32:45+00:00
+
+On Wednesday, students at the South Asian University were violently attacked by members of ABVP for serving non-veg food in the mess during Maha Shivratri, which the ABVP had opposed. The SFI condemned the attack and demanded strict action from the university administration.
+
+## Trump holds first cabinet meeting, Musk joins as ‘senior adviser’
+ - [https://timesofindia.indiatimes.com/world/us/donald-trump-holds-first-cabinet-meeting-elon-musk-joins-as-senior-adviser/articleshow/118584733.cms](https://timesofindia.indiatimes.com/world/us/donald-trump-holds-first-cabinet-meeting-elon-musk-joins-as-senior-adviser/articleshow/118584733.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:32:45+00:00
+
+None
+
+## Deaf whistleblower who uncovered $100 bn in US taxpayer waste reveals her identity
+ - [https://timesofindia.indiatimes.com/world/us/i-have-been-doxxed-deaf-tech-whistleblower-jennica-pounds-backed-by-elon-musk-unmasks-herself/articleshow/118582752.cms](https://timesofindia.indiatimes.com/world/us/i-have-been-doxxed-deaf-tech-whistleblower-jennica-pounds-backed-by-elon-musk-unmasks-herself/articleshow/118582752.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:26:45+00:00
+
+None
+
+## F-16s for Pak, F-35s for India: Trump’s maverick powerplay in South Asia
+ - [https://timesofindia.indiatimes.com/world/us/f-16s-for-pakistan-f-35s-for-india-trumps-maverick-powerplay-in-south-asia/articleshow/118581811.cms](https://timesofindia.indiatimes.com/world/us/f-16s-for-pakistan-f-35s-for-india-trumps-maverick-powerplay-in-south-asia/articleshow/118581811.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:26:45+00:00
+
+In a controversial move, the Trump administration has approved a $397 million package for Pakistan's F-16 fighter jet fleet, while offering India the advanced F-35 Lightning II jet. This dual approach aims to recalibrate South Asia's power dynamics, but raises concerns about Pakistan's potential misuse of the F-16s.
+
+## 'No meaning in the demand': Tharoor backs Cong Kerala chief amid rift rumors
+ - [https://timesofindia.indiatimes.com/india/no-meaning-in-the-demand-shashi-tharoor-backs-congress-kerala-unit-chief-amid-rift-rumors-with-party/articleshow/118583167.cms](https://timesofindia.indiatimes.com/india/no-meaning-in-the-demand-shashi-tharoor-backs-congress-kerala-unit-chief-amid-rift-rumors-with-party/articleshow/118583167.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:26:45+00:00
+
+Congress leader Shashi Tharoor backed Kerala unit chief K Sudhakaran amid reports of rift, highlighting significant victories under his leadership. Tharoor encouraged unity within the party. Sudhakaran deferred to the party's high command on his position, while denying any controversy regarding his commitment. Speculations intensified with Sudhakaran's recent interactions and requests for role clarification.
+
+## Top 5 entertainment news of the day
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-and-sunita-ahuja-filed-for-divorce-six-months-ago-shah-rukh-khans-family-to-move-out-of-mannat-aruna-irani-suffers-a-fall-in-bangkok-top-5-entertainment-news/articleshow/118583183.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-and-sunita-ahuja-filed-for-divorce-six-months-ago-shah-rukh-khans-family-to-move-out-of-mannat-aruna-irani-suffers-a-fall-in-bangkok-top-5-entertainment-news/articleshow/118583183.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:26:45+00:00
+
+The entertainment world is abuzz with major updates! From Govinda and his wife Sunita Ahuja filing for divorce six months ago to Shah Rukh Khan’s family temporarily moving out of Mannat and Aruna Irani’s injury in Bangkok—here are the top five entertainment stories of the day that have everyone talking!
+
+## Trump plays gold card to US citizenship to entice the world's wealthy
+ - [https://timesofindia.indiatimes.com/world/us/donald-trump-plays-gold-card-to-us-citizenship-to-entice-the-worlds-wealthy/articleshow/118580773.cms](https://timesofindia.indiatimes.com/world/us/donald-trump-plays-gold-card-to-us-citizenship-to-entice-the-worlds-wealthy/articleshow/118580773.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:26:45+00:00
+
+President Trump introduced a 'Gold Card' program to allow wealthy individuals to buy US citizenship for $5 million, potentially replacing the EB-5 visa. The initiative aims to boost the US economy but raised concerns about prioritizing the wealthy and possibly fostering illicit financial activities. The program's specifics and implementation date are still unclear.
+
+## What Canada’s potential exit from Five Eyes means for India
+ - [https://timesofindia.indiatimes.com/india/what-canadas-potential-exit-from-five-eyes-means-for-india/articleshow/118582864.cms](https://timesofindia.indiatimes.com/india/what-canadas-potential-exit-from-five-eyes-means-for-india/articleshow/118582864.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:26:45+00:00
+
+The Trump administration is considering removing Canada from the Five Eyes intelligence-sharing alliance. This move could significantly change the longstanding intelligence cooperation framework. Trump's vision prioritizes short-term leverage over long-term cooperation. This potential shift could also affect India's intelligence relations with Five Eyes members.
+
+## Cred CEO Kunal Shah has a ‘credit score disclaimer’ for employees
+ - [https://timesofindia.indiatimes.com/technology/tech-news/cred-ceo-kunal-shah-has-a-credit-score-disclaimer-for-employees/articleshow/118579404.cms](https://timesofindia.indiatimes.com/technology/tech-news/cred-ceo-kunal-shah-has-a-credit-score-disclaimer-for-employees/articleshow/118579404.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:21:43+00:00
+
+Cred's CEO Kunal Shah has implemented a hiring policy requiring employees to have a credit score of 750 or higher, promoting responsible financial behaviour. New hires with lower scores receive three months and assistance to improve. This aligns with Cred's mission to foster financial responsibility within its workforce.
+
+## Is your urine color hiding a dangerous disease? Uncovering PNH
+ - [https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/is-your-urine-color-hiding-a-dangerous-disease-uncovering-pnh/articleshow/118582662.cms](https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/is-your-urine-color-hiding-a-dangerous-disease-uncovering-pnh/articleshow/118582662.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:21:43+00:00
+
+Paroxysmal nocturnal hemoglobinuria (PNH) is a rare disease that affects red blood cells, causing symptoms like dark urine, fatigue, and unexplained bruising. Early diagnosis is challenging due to non-specific symptoms, but awareness is crucial. Advances in treatments have significantly improved survival rates, highlighting the importance of recognizing symptoms and seeking medical advice promptly.
+
+## Morne Morkel rejoins Team India in Dubai ahead of New Zealand clash
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/morne-morkel-rejoins-team-india-in-dubai-ahead-of-new-zealand-clash/articleshow/118582843.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/morne-morkel-rejoins-team-india-in-dubai-ahead-of-new-zealand-clash/articleshow/118582843.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:21:43+00:00
+
+India bowling coach Morne Morkel has rejoined the team in Dubai after attending to a personal emergency. Morkel's return comes as the team prepares for their final group-stage match against New Zealand. India has already secured a spot in the tournament's semifinals with dominant wins over Bangladesh and Pakistan.
+
+## 'Unprecedented and unforgettable': CM Yogi hails Maha Kumbh 2025 on concluding day
+ - [https://timesofindia.indiatimes.com/india/unprecedented-and-unforgettable-cm-yogi-hails-maha-kumbh-2025-on-concluding-day/articleshow/118582644.cms](https://timesofindia.indiatimes.com/india/unprecedented-and-unforgettable-cm-yogi-hails-maha-kumbh-2025-on-concluding-day/articleshow/118582644.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:21:43+00:00
+
+Uttar Pradesh CM Yogi Adityanath lauded PM Narendra Modi and all contributors for the successful conclusion of Maha Kumbh 2025 in Prayagraj, where over 662.1 million devotees participated. The event showcased unity and faith through its well-organized holy dips over 45 days.
+
+## 'Virat Kohli can break Tendulkar's record of 100 centuries'
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/virat-kohli-can-break-sachin-tendulkars-record-of-100-centuries/articleshow/118582372.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/virat-kohli-can-break-sachin-tendulkars-record-of-100-centuries/articleshow/118582372.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:21:43+00:00
+
+Former India cricketer Wasim Jaffer believes Virat Kohli has the potential to surpass Sachin Tendulkar's record of 100 international centuries, crediting his current form and fitness. Jaffer and former South Africa opener Herschelle Gibbs both emphasize Kohli's remaining years in cricket and laud Shubman Gill as a rising star in Indian cricket.
+
+## Who is 'Abhishek Banerjee' named in CBI's chargesheet on the West Bengal job scam?
+ - [https://timesofindia.indiatimes.com/india/who-is-abhishek-banerjee-named-in-cbis-charge-sheet-on-the-west-bengal-job-scam/articleshow/118582882.cms](https://timesofindia.indiatimes.com/india/who-is-abhishek-banerjee-named-in-cbis-charge-sheet-on-the-west-bengal-job-scam/articleshow/118582882.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:21:43+00:00
+
+None
+
+## Will Joel Embiid play tonight against the New York Knicks? Latest update on injury report
+ - [https://timesofindia.indiatimes.com/sports/nba/top-stories/will-joel-embiid-play-tonight-against-the-new-york-knicks-latest-update-on-the-philadelphia-76ers-stars-injury-report-february-26-2025/articleshow/118582435.cms](https://timesofindia.indiatimes.com/sports/nba/top-stories/will-joel-embiid-play-tonight-against-the-new-york-knicks-latest-update-on-the-philadelphia-76ers-stars-injury-report-february-26-2025/articleshow/118582435.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:21:43+00:00
+
+The Philadelphia 76ers will face the New York Knicks on February 26, 2025. Key players including Joel Embiid, Kyle Lowry, and others are injured, affecting their performance and playoff chances. The game is crucial as the Sixers aim to break their eight-game losing streak and keep their slim postseason hopes alive.
+
+## Celebrity MasterChef: Vikas Khanna cuts his tongue while tasting Archana Gautam's dish
+ - [https://timesofindia.indiatimes.com/tv/news/hindi/celebrity-masterchef-vikas-khanna-cuts-his-tongue-while-tasting-archana-gautams-dish-ranveer-brar-asks-chefs-to-get-serious-mere-peeth-pe-sariyon-ke-nishaan-hai/articleshow/118581901.cms](https://timesofindia.indiatimes.com/tv/news/hindi/celebrity-masterchef-vikas-khanna-cuts-his-tongue-while-tasting-archana-gautams-dish-ranveer-brar-asks-chefs-to-get-serious-mere-peeth-pe-sariyon-ke-nishaan-hai/articleshow/118581901.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:16:33+00:00
+
+Celebrity MasterChef featured a pasta challenge set by Ranveer Brar, testing the contestants' culinary skills. Notable moments included Gaurav Khanna winning the first task and Archana's dish causing a mishap, highlighting the competition's unpredictable nature. The judges emphasized the importance of serious cooking and learning from experienced chefs.
+
+## 'Every time Nitish picks up his phone...': Cong on Bihar cabinet expansion
+ - [https://timesofindia.indiatimes.com/india/bjp-gets-nervous-every-time-nitish-kumar-picks-up-his-phone-congress-reacts-to-bihar-cabinet-expansion/articleshow/118581866.cms](https://timesofindia.indiatimes.com/india/bjp-gets-nervous-every-time-nitish-kumar-picks-up-his-phone-congress-reacts-to-bihar-cabinet-expansion/articleshow/118581866.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:16:33+00:00
+
+Congress leader Supriya Shrinate said there had always been a battle of supremacy between the BJP and the JDU and every time Nitish Kumar picks up his phone, the BJP gets apprehensive about whom he's probably calling. The Congress leader was reacting to the induction of seven BJP MLAs to Nitish Kumar's cabinet.
+
+## Locked out and escorted: Fired USAID staff get 15 mins to grab their belongings
+ - [https://timesofindia.indiatimes.com/world/us/locked-out-and-escorted-fired-usaid-staff-get-15-minutes-to-grab-their-belongings-or-lose-them/articleshow/118580581.cms](https://timesofindia.indiatimes.com/world/us/locked-out-and-escorted-fired-usaid-staff-get-15-minutes-to-grab-their-belongings-or-lose-them/articleshow/118580581.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:16:33+00:00
+
+None
+
+## Who are 7 new ministers in Nitish Kumar's cabinet and why BJP picked them
+ - [https://timesofindia.indiatimes.com/india/bihar-cabinet-expansion-who-are-7-new-ministers-in-nitishs-cabinet-and-why-bjp-picked-them/articleshow/118581733.cms](https://timesofindia.indiatimes.com/india/bihar-cabinet-expansion-who-are-7-new-ministers-in-nitishs-cabinet-and-why-bjp-picked-them/articleshow/118581733.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:16:33+00:00
+
+Seven BJP MLAs joined the Bihar cabinet led by Chief Minister Nitish Kumar. The induction brings the cabinet to its maximum legal strength of 36 members. The new ministers were administered oaths by Governor Arif Mohammad Khan.
+
+## Woman raped inside parked bus in Pune, Sena-UBT leader vandalise bus stop
+ - [https://timesofindia.indiatimes.com/india/woman-raped-inside-parked-state-bus-in-pune-just-few-metres-away-from-police-station/articleshow/118580733.cms](https://timesofindia.indiatimes.com/india/woman-raped-inside-parked-state-bus-in-pune-just-few-metres-away-from-police-station/articleshow/118580733.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:16:33+00:00
+
+A 26-year-old woman was allegedly raped inside a parked state transport bus at Swargate bus stand, close to a police station. Suspect Dattatraya Ramdas Gade, with previous theft and chain snatching cases, was identified and multiple police teams pursued him. The incident caused political backlash over ineffective crime management.
+
+## Afghanistan's Zadran breaks all-time Champions Trophy record
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/afghanistans-ibrahim-zadran-breaks-all-time-champions-trophy-record/articleshow/118581482.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/afghanistans-ibrahim-zadran-breaks-all-time-champions-trophy-record/articleshow/118581482.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:11:42+00:00
+
+Afghanistan's star batter Ibrahim Zadran made history in the ICC Champions Trophy by scoring 177 runs off 146 balls, the highest individual score, against England in Lahore. This surpasses Ben Duckett's 165 earlier in the tournament. Zadran's remarkable innings included 12 boundaries and six sixes, making it a standout performance in the competition.
+
+## Billionaire conman with no qualifications: AOC slams Elon Musk
+ - [https://timesofindia.indiatimes.com/world/us/billionaire-conman-with-no-qualifications-aoc-slams-elon-musk/articleshow/118580942.cms](https://timesofindia.indiatimes.com/world/us/billionaire-conman-with-no-qualifications-aoc-slams-elon-musk/articleshow/118580942.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:11:42+00:00
+
+Mocking the idea that Musk is qualified for the role, she added: “If you all think he is an expert in that, I’ve got a bridge to nowhere to sell you. These are people’s lives that are on the line, and we cannot laugh them away.”
+
+## Fire breaks out at Select City Mall theatre during 'Chhava' screening
+ - [https://timesofindia.indiatimes.com/city/delhi/fire-breakout-at-cinema-in-select-city-mall/articleshow/118581061.cms](https://timesofindia.indiatimes.com/city/delhi/fire-breakout-at-cinema-in-select-city-mall/articleshow/118581061.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:11:42+00:00
+
+None
+
+## Google is making this Big change to the way you login to Gmail
+ - [https://timesofindia.indiatimes.com/technology/tech-news/google-is-making-this-big-change-to-the-way-you-login-to-gmail/articleshow/118576482.cms](https://timesofindia.indiatimes.com/technology/tech-news/google-is-making-this-big-change-to-the-way-you-login-to-gmail/articleshow/118576482.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:11:42+00:00
+
+Google is transitioning from SMS-based authentication to a more secure QR code system for Gmail. This change aims to enhance account security by reducing the reliance on vulnerable text message codes. Users will soon scan a QR code instead of entering a 6-digit code received via SMS, aligning with Google's commitment to strengthen authentication methods.
+
+## 'What's the controversy about?': Tharoor amid rift reports with Congress
+ - [https://timesofindia.indiatimes.com/india/whats-the-controversy-about-shashi-tharoor-amid-rift-reports-with-congress/articleshow/118579982.cms](https://timesofindia.indiatimes.com/india/whats-the-controversy-about-shashi-tharoor-amid-rift-reports-with-congress/articleshow/118579982.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:11:42+00:00
+
+None
+
+## 'Govinda and Sunita Ahuja filed for divorce 6 months ago, but going strong now'
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lawyer-confirms-govinda-and-sunita-ahuja-filed-for-divorce-6-months-back-but-they-are-going-strong-now-such-things-keep-happening/articleshow/118579652.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lawyer-confirms-govinda-and-sunita-ahuja-filed-for-divorce-6-months-back-but-they-are-going-strong-now-such-things-keep-happening/articleshow/118579652.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T12:06:34+00:00
+
+Govinda and Sunita Ahuja were rumored to be getting divorced. However, their lawyer and family friend Lalit Bindal confirmed that the couple filed for divorce six months ago but are now fine. Bindal assured that the couple is together and will always remain so.
+
+## ITBP refuses gender change plea, citing 'bad impact' on personnel
+ - [https://timesofindia.indiatimes.com/india/bad-impact-on-psychology-of-personnel-itbp-refuses-gender-change-plea-of-staffer/articleshow/118577897.cms](https://timesofindia.indiatimes.com/india/bad-impact-on-psychology-of-personnel-itbp-refuses-gender-change-plea-of-staffer/articleshow/118577897.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T12:06:34+00:00
+
+The ITBP denied a female staffer's request for a gender change procedure due to concerns about psychological and behavioral impacts, and differences in physical requirements. The MHA advised seeking the medical opinion of the CAPFs, which also cited negative effects. Past instances like the CISF's approval for gender reassignment surgery highlight the need for comprehensive policy development on such matters.
+
+## Jofra Archer becomes fastest England bowler to ...
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/champions-trophy-jofra-archer-becomes-fastest-england-bowler-to-/articleshow/118578847.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/champions-trophy-jofra-archer-becomes-fastest-england-bowler-to-/articleshow/118578847.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T12:06:34+00:00
+
+Jofra Archer becomes the fastest England bowler to take 50 ODI wickets, achieving the milestone in his 30th match during the 2025 ICC Champions Trophy against Afghanistan. Archer surpassed England's previous record held by James Anderson and showcased exceptional skill despite past injuries.
+
+## 'Undue harsh': Centre opposes lifetime ban on convicted politicians from Parliament
+ - [https://timesofindia.indiatimes.com/india/imposing-life-time-ban-on-convicted-politicians-solely-on-parliaments-domain-centre-tells-sc/articleshow/118576729.cms](https://timesofindia.indiatimes.com/india/imposing-life-time-ban-on-convicted-politicians-solely-on-parliaments-domain-centre-tells-sc/articleshow/118576729.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T12:06:34+00:00
+
+None
+
+## New study uncovers 3.6-billion-year-old beaches and lost ocean
+ - [https://timesofindia.indiatimes.com/science/could-mars-have-had-sandy-beaches-new-study-uncovers-3-6-billion-year-old-beaches-and-lost-ocean-on-mars/articleshow/118571616.cms](https://timesofindia.indiatimes.com/science/could-mars-have-had-sandy-beaches-new-study-uncovers-3-6-billion-year-old-beaches-and-lost-ocean-on-mars/articleshow/118571616.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T11:15:53+00:00
+
+A new study reveals that Mars had sun-scorched beaches with waves breaking on ancient ocean shores. Data from China's Zhurong rover indicates sandy beach deposits on Mars from 3.6 billion years ago, suggesting the existence of an ancient sea. This major discovery provides evidence of Mars' dynamic, potentially habitable past, hinting at the possibility of microbial life.
+
+## Bihar cabinet expansion: 7 new BJP faces inducted into Nitish government
+ - [https://timesofindia.indiatimes.com/india/bihar-cabinet-expansion-7-take-oath-as-ministers-in-nitish-kumars-government/articleshow/118578498.cms](https://timesofindia.indiatimes.com/india/bihar-cabinet-expansion-7-take-oath-as-ministers-in-nitish-kumars-government/articleshow/118578498.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T11:01:33+00:00
+
+Nitish Kumar's NDA government in Bihar expanded its cabinet with seven new BJP MLAs, including Sanjay Saraogi and Sunil Kumar, taking oath as ministers. This reshuffle took place ahead of the assembly elections in November. Previously, BJP state president Dilip Jaiswal resigned from his ministerial role, adhering to the party's 'One Person, One Post' policy.
+
+## Day after quitting BJP over 'Hindi imposition', Tamil actor joins Vijay's TVK
+ - [https://timesofindia.indiatimes.com/city/chennai/just-day-after-quitting-bjp-over-hindi-imposition-tamil-actor-ranjana-nachiyaar-joins-vijays-tvk/articleshow/118575817.cms](https://timesofindia.indiatimes.com/city/chennai/just-day-after-quitting-bjp-over-hindi-imposition-tamil-actor-ranjana-nachiyaar-joins-vijays-tvk/articleshow/118575817.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T11:01:33+00:00
+
+Actor-turned-politician Ranjana Nachiyaar left the BJP and joined Vijay's Tamilaga Vettri Kazhagam (TVK) citing dissatisfaction with BJP's policies. She criticized the BJP for neglecting Tamil Nadu’s prosperity. Meanwhile, AIADMK MP M Thambidurai accused the DMK government of using the language issue as a political strategy ahead of elections, amidst rising opposition to the Trilingual Language System.
+
+## 'Mamata's Islamic caliphate': KMC cancels Eid holiday notification after BJP's attack
+ - [https://timesofindia.indiatimes.com/india/mamata-banerjees-islamic-caliphate-bjps-amit-malviya-slams-west-bengal-cm-over-kolkata-holidays/articleshow/118574042.cms](https://timesofindia.indiatimes.com/india/mamata-banerjees-islamic-caliphate-bjps-amit-malviya-slams-west-bengal-cm-over-kolkata-holidays/articleshow/118574042.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T11:01:33+00:00
+
+BJP IT cell head Amit Malviya sharply criticised West Bengal CM Mamata Banerjee over changes in the holiday schedule announced by Kolkata Municipal Corporation. He accused the TMC government of religious appeasement, alleging that the adjustment is aimed at consolidating Muslim votes while disadvantaging Hindu cultural observances.
+
+## Pitch invader, who hugged Rachin, arrested and banned in Pakistan
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/champions-trophy-pitch-invader-who-hugged-rachin-ravindra-arrested-and-banned-from-all-pakistan-venues/articleshow/118578173.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/champions-trophy-pitch-invader-who-hugged-rachin-ravindra-arrested-and-banned-from-all-pakistan-venues/articleshow/118578173.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T11:01:33+00:00
+
+The Pakistan Cricket Board (PCB) confirmed the arrest and permanent banning of an individual who breached security during the Champions Trophy match between New Zealand and Bangladesh. The PCB assured increased security measures to prevent future incidents. New Zealand's Rachin Ravindra, who encountered the intruder, scored a century and led his team to victory.
+
+## Row erupts as NIT-Calicut appoints prof, who praised Godse, department dean
+ - [https://timesofindia.indiatimes.com/india/row-erupts-as-nit-calicut-appoints-professor-who-praised-godse-department-dean/articleshow/118577839.cms](https://timesofindia.indiatimes.com/india/row-erupts-as-nit-calicut-appoints-professor-who-praised-godse-department-dean/articleshow/118577839.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T11:01:33+00:00
+
+NIT-Calicut professor Shaija A, who was previously charged for praising Nathuram Godse on social media, has been appointed as the dean of the planning and development department. Her appointment has sparked opposition from the Democratic Youth Federation of India, which has announced a protest march.
+
+## Serial offender rapes woman in stationary state transport bus in Pune
+ - [https://timesofindia.indiatimes.com/city/pune/serial-offender-rapes-woman-in-stationary-state-transport-bus-in-pune/articleshow/118576074.cms](https://timesofindia.indiatimes.com/city/pune/serial-offender-rapes-woman-in-stationary-state-transport-bus-in-pune/articleshow/118576074.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T11:01:33+00:00
+
+Pune police are searching for Datta Gade, a man with a criminal record, who allegedly raped a 26-year-old woman inside an empty MSRTC bus at Swargate bus stand. The incident occurred early Tuesday morning when the woman was misled by the accused. Police are using CCTV footage and multiple teams to track him down.
+
+## Watch: Cop's instant reaction as man throws water at train passengers
+ - [https://timesofindia.indiatimes.com/india/watch-cops-instant-reaction-goes-viral-on-catching-man-throwing-water-at-train-passangers/articleshow/118574158.cms](https://timesofindia.indiatimes.com/india/watch-cops-instant-reaction-goes-viral-on-catching-man-throwing-water-at-train-passangers/articleshow/118574158.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T11:01:33+00:00
+
+A viral video shows a man throwing water on train passengers, who is quickly caught and beaten by a policeman. The incident highlights ongoing unruly behavior in Indian railways, as minor acts like this pose risks to passengers. Social media users praised the officer and called for stricter measures.
+
+## What made Trump 'teary-eyed' at the White House?
+ - [https://timesofindia.indiatimes.com/world/us/its-so-beautiful-trump-gets-teary-eyed-over-gulf-of-america-map/articleshow/118573574.cms](https://timesofindia.indiatimes.com/world/us/its-so-beautiful-trump-gets-teary-eyed-over-gulf-of-america-map/articleshow/118573574.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T11:01:33+00:00
+
+President Trump joked about renaming the Gulf of Mexico to the 'Gulf of America,' a move that has sparked legal action from the Associated Press. Tech companies have updated their maps, while the White House bars the AP from events, escalating the controversy.
+
+## Influencer claims Ashley St Clair 'planned to baby trap Elon’; Musk responds
+ - [https://timesofindia.indiatimes.com/technology/tech-news/influencer-claims-ashley-st-clair-planned-to-baby-trap-elon-musk-responds/articleshow/118572031.cms](https://timesofindia.indiatimes.com/technology/tech-news/influencer-claims-ashley-st-clair-planned-to-baby-trap-elon-musk-responds/articleshow/118572031.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T10:48:07+00:00
+
+Influencer Ashley St Clair, 26, claimed to have given birth to Elon Musk's baby and filed a paternity suit against him. The drama intensified as influencer Isabella Moody alleged St Clair planned to 'baby trap' Musk with revealing messages and subsequent lawsuits in Manhattan Supreme Court.
+
+## Congress at crossroads: Why ignoring Shashi Tharoor is not an option
+ - [https://timesofindia.indiatimes.com/city/thiruvananthapuram/congress-at-crossroads-why-ignoring-shashi-tharoor-is-not-an-option/articleshow/118571565.cms](https://timesofindia.indiatimes.com/city/thiruvananthapuram/congress-at-crossroads-why-ignoring-shashi-tharoor-is-not-an-option/articleshow/118571565.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T10:19:28+00:00
+
+Shashi Tharoor's leadership bid in Kerala has stirred Congress's fragile internal peace, highlighting fears about the party's strength against the Left Front in the 2026 elections. Tharoor emphasizes his ability to attract non-Congress voters, though his stance puts the party in a difficult position as they strive to manage factionalism and accommodate his ambition.
+
+## Aruna Irani: Bangkok mein shopping karna bhari pad gaya - exclusive
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aruna-irani-bangkok-mein-shopping-karna-bhari-pad-gaya-exclusive/articleshow/118575908.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aruna-irani-bangkok-mein-shopping-karna-bhari-pad-gaya-exclusive/articleshow/118575908.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T09:56:34+00:00
+
+Veteran Bollywood actor Aruna Irani suffered a serious injury from a fall in Bangkok and was seen arriving at Mumbai airport in a wheelchair. She was on a shopping trip with friends and tripped while walking in the city. After treatment in Bangkok and further recovery in Mumbai, she is gradually improving.
+
+## 'Born Congressman': Shivakumar on rift rumors over Shivratri event with Shah
+ - [https://timesofindia.indiatimes.com/india/i-am-a-born-congressman-karnataka-deputy-cm-dk-shivakumar-dismisses-reports-of-rifts-ahead-of-shivratri-event-with-amit-shah/articleshow/118577346.cms](https://timesofindia.indiatimes.com/india/i-am-a-born-congressman-karnataka-deputy-cm-dk-shivakumar-dismisses-reports-of-rifts-ahead-of-shivratri-event-with-amit-shah/articleshow/118577346.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T09:56:34+00:00
+
+Karnataka Deputy CM DK Shivakumar refutes speculations of aligning with BJP after accepting Sadhguru's invitation to Maha Shivratri celebrations. He emphasizes his commitment to Congress and respect for all religions amid criticisms about his visit.
+
+## Centre spent over Rs 400 crore on court cases in 10 years
+ - [https://timesofindia.indiatimes.com/india/centre-spent-rs-66-crore-on-court-cases-in-2023-24-total-over-rs-400-crore-in-10-years/articleshow/118577106.cms](https://timesofindia.indiatimes.com/india/centre-spent-rs-66-crore-on-court-cases-in-2023-24-total-over-rs-400-crore-in-10-years/articleshow/118577106.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T09:56:34+00:00
+
+The Centre spent Rs 66 crore on legal proceedings in 2023-24, totaling over Rs 400 crore since 2014. Litigation costs have generally increased each year, except during peak Covid-19 years. A national policy aimed at expediting case resolutions is under development and awaits Union Cabinet approval. The administration has revised the policy multiple times over the years.
+
+## Terrorists open fire at army vehicle in Jammu & Kashmir's Rajouri
+ - [https://timesofindia.indiatimes.com/india/terrorists-open-fire-at-army-vehicle-in-jammu-kashmirs-rajouri/articleshow/118575737.cms](https://timesofindia.indiatimes.com/india/terrorists-open-fire-at-army-vehicle-in-jammu-kashmirs-rajouri/articleshow/118575737.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T09:56:34+00:00
+
+Terrorists in Jammu and Kashmir's Rajouri fired at an army vehicle in Sunderbani, prompting troops to return fire and search the area. Hours earlier, the BSF neutralized an intruder crossing the International Border in the Pathankot sector. These incidents underscore heightened security measures following recent terrorist activities and infiltration attempts.
+
+## Video: Ukraine made-military aircraft crashes in Sudan, killing 46
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/video-ukraine-made-military-aircraft-crashes-in-sudan-killing-19/articleshow/118575164.cms](https://timesofindia.indiatimes.com/world/rest-of-world/video-ukraine-made-military-aircraft-crashes-in-sudan-killing-19/articleshow/118575164.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T09:56:34+00:00
+
+A Sudanese military aircraft crashed in Omdurman, killing at least 19 people, including military personnel and civilians. The plane went down shortly after taking off from Wadi Sayidna airbase. The conflict between the military and Rapid Support Forces has intensified, causing significant casualties and a severe humanitarian crisis.
+
+## Watch: Trump hands out ‘Trump was right about everything’ caps
+ - [https://timesofindia.indiatimes.com/world/us/watch-donald-trump-hands-out-trump-was-right-about-everything-caps-in-the-oval-office/articleshow/118570794.cms](https://timesofindia.indiatimes.com/world/us/watch-donald-trump-hands-out-trump-was-right-about-everything-caps-in-the-oval-office/articleshow/118570794.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T09:21:19+00:00
+
+President Trump handed out red baseball caps with the slogan 'TRUMP WAS RIGHT ABOUT EVERYTHING' in the Oval Office while addressing the press. This move comes amid growing tensions over the Trump administration's decision to take control of media access, challenging the White House Correspondents' Association's authority.
+
+## Bihar BJP prez Dilip Jaiswal resigns as minister, Nitish to expand cabinet
+ - [https://timesofindia.indiatimes.com/city/patna/bihar-revenue-minister-dilip-jaiswal-to-step-down-adheres-to-one-man-one-post-policy/articleshow/118572951.cms](https://timesofindia.indiatimes.com/city/patna/bihar-revenue-minister-dilip-jaiswal-to-step-down-adheres-to-one-man-one-post-policy/articleshow/118572951.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T08:51:31+00:00
+
+Bihar Revenue Minister and state BJP President Dilip Jaiswal has decided to resign from his ministerial post, adhering to the party's 'One person, one post' policy. He will continue as the state president of the BJP. This move could lead to changes in Bihar's cabinet and possibly an expansion before the state elections.
+
+## 'Hopefully better things will follow' - Bumrah on his stellar 2024
+ - [https://timesofindia.indiatimes.com/sports/cricket/news/hopefully-better-things-will-follow-jasprit-bumrah-on-his-stellar-2024/articleshow/118575061.cms](https://timesofindia.indiatimes.com/sports/cricket/news/hopefully-better-things-will-follow-jasprit-bumrah-on-his-stellar-2024/articleshow/118575061.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T08:51:31+00:00
+
+Jasprit Bumrah, who missed the Champions Trophy due to a back injury, received accolades from ICC for his stellar 2024 season. He won the Sir Garfield Sobers Trophy, ICC Men's Test Player of the Year, and was included in the ICC Men's Test and T20I Teams of the Year.
+
+## Musk called Trump ‘moron’ at 2020 White House meeting
+ - [https://timesofindia.indiatimes.com/world/us/elon-musk-called-donald-trump-a-f-ing-moron-at-2020-white-house-meeting-report/articleshow/118571249.cms](https://timesofindia.indiatimes.com/world/us/elon-musk-called-donald-trump-a-f-ing-moron-at-2020-white-house-meeting-report/articleshow/118571249.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T08:51:31+00:00
+
+Elon Musk and Donald Trump had a contentious beginning, with Musk initially critical of Trump. Despite past clashes, Musk’s significant 2024 GOP donations mended ties, with Musk eventually leading a government spending initiative under Trump.
+
+## 'Special day for my family': Shashi Tharoor on how he got his name on Mahashivaratri
+ - [https://timesofindia.indiatimes.com/india/special-day-for-my-family-shashi-tharoor-on-how-he-got-his-name-on-mahashivaratri/articleshow/118570479.cms](https://timesofindia.indiatimes.com/india/special-day-for-my-family-shashi-tharoor-on-how-he-got-his-name-on-mahashivaratri/articleshow/118570479.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T08:51:31+00:00
+
+Shashi Tharoor revealed he was named after Lord Shiva's crescent due to his birth on Mahashivratri. He shared this personal detail amidst speculations of tension with Congress leadership, following his recent interactions and dissatisfaction over his role. Tharoor's recent actions, including praise for Kerala's Left government, indicate ongoing friction within the party.
+
+## Taxpayers take note! Crack down against 40,000 TDS/TCS defaulters
+ - [https://timesofindia.indiatimes.com/business/india-business/taxpayers-take-note-crack-down-against-40000-tds/tcs-defaulters-planned-by-income-tax-department/articleshow/118573348.cms](https://timesofindia.indiatimes.com/business/india-business/taxpayers-take-note-crack-down-against-40000-tds/tcs-defaulters-planned-by-income-tax-department/articleshow/118573348.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T08:51:31+00:00
+
+The Income Tax Department is set to launch a nationwide action against nearly 40,000 taxpayers who have failed to deposit their TDS/TCS. A 16-point strategy has been devised, leveraging data analytics to identify and investigate defaulters. Non-intrusive approaches and monitoring trends will ensure fair enforcement.
+
+## Zoho founder sparks debate with 'let us learn Hindi' tip for workers in TN
+ - [https://timesofindia.indiatimes.com/technology/tech-news/zoho-founder-sridhar-vembu-sparks-debate-with-his-let-us-learn-hindi-tip-for-workers-in-tamil-nadu/articleshow/118574724.cms](https://timesofindia.indiatimes.com/technology/tech-news/zoho-founder-sridhar-vembu-sparks-debate-with-his-let-us-learn-hindi-tip-for-workers-in-tamil-nadu/articleshow/118574724.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T08:51:31+00:00
+
+Zoho founder Sridhar Vembu advocates for Tamil Nadu's workforce to learn Hindi to better serve northern markets. He emphasizes the practical business benefits and mentions his personal efforts in learning Hindi. His stance has sparked mixed reactions, with some agreeing and others questioning the necessity of learning Hindi over English.
+
+## Nightmare in the sky: Aussie couple trapped next to corpse for hours on flight
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/nightmare-in-the-sky-aussie-couple-trapped-next-to-corpse-for-hours-on-qatar-airways-flight/articleshow/118569965.cms](https://timesofindia.indiatimes.com/world/rest-of-world/nightmare-in-the-sky-aussie-couple-trapped-next-to-corpse-for-hours-on-qatar-airways-flight/articleshow/118569965.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T08:05:57+00:00
+
+An Australian couple had to sit next to a deceased passenger on a Qatar Airways flight from Melbourne to Doha. The crew could not move the body to business class, leaving the couple beside the corpse for four hours. Qatar Airways has apologised for any distress caused. There should be a protocol to handle such situations better, the couple said.
+
+## Apple to fix iPhone dictation bug that briefly typed 'Trump' instead of 'racist'
+ - [https://timesofindia.indiatimes.com/world/us/apple-to-fix-iphone-dictation-bug-that-briefly-types-trump-instead-of-racist/articleshow/118570275.cms](https://timesofindia.indiatimes.com/world/us/apple-to-fix-iphone-dictation-bug-that-briefly-types-trump-instead-of-racist/articleshow/118570275.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T07:46:27+00:00
+
+Apple addresses a glitch in its automatic dictation feature where the word 'racist' momentarily appeared as 'Trump' before correcting, sparking controversy. The issue, linked to phonetic similarities, is being fixed. This follows recent AI-powered feature struggles, including AI servers to be manufactured at a new facility in Houston following Apple's investment announcement.
+
+## Infosys releases salary hike letters; top performers get up to 20% raise
+ - [https://timesofindia.indiatimes.com/technology/tech-news/infosys-releases-salary-hike-letters-top-performers-get-up-to-20-raise/articleshow/118570261.cms](https://timesofindia.indiatimes.com/technology/tech-news/infosys-releases-salary-hike-letters-top-performers-get-up-to-20-raise/articleshow/118570261.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T07:46:27+00:00
+
+Infosys has announced salary hikes for employees based on performance. Most employees received increases between 5% and 8%. Top performers got higher raises. Salary revisions apply from January 1, 2024, for lower-level employees, and from April 1, 2024, for managers. Some employees expected bigger hikes, and discussions were quieter this time.
+
+## Is Kejriwal looking at Rajya Sabha seat as his next move? Here's what we know
+ - [https://timesofindia.indiatimes.com/city/delhi/aap-denies-reports-of-arvind-kejriwals-possible-rajya-sabha-move/articleshow/118573396.cms](https://timesofindia.indiatimes.com/city/delhi/aap-denies-reports-of-arvind-kejriwals-possible-rajya-sabha-move/articleshow/118573396.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T07:46:27+00:00
+
+The Aam Aadmi Party has denied reports that Arvind Kejriwal might enter the Rajya Sabha following electoral losses in Delhi. Speculation arose after AAP nominated its current Rajya Sabha MP Sanjeev Arora for the Ludhiana West assembly bypoll. If Arora resigns, his seat could go to Kejriwal.
+
+## JMM MP Mahua Maji injured in car accident while returning from Maha Kumbh
+ - [https://timesofindia.indiatimes.com/city/allahabad/jmm-mp-mahua-maji-injured-in-car-accident-while-returning-from-maha-kumbh/articleshow/118572802.cms](https://timesofindia.indiatimes.com/city/allahabad/jmm-mp-mahua-maji-injured-in-car-accident-while-returning-from-maha-kumbh/articleshow/118572802.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T07:46:27+00:00
+
+JMM MP Mahua Maji was injured in Jharkhand's Latehar district when her car hit a parked truck while returning from Maha Kumbh. Maji sustained a wrist fracture and was treated at RIMS-Ranchi. Her family members suffered minor injuries in the accident, which occurred near Hotwag village on NH-75 around 2:30 am.
+
+## 'Sincerely, go f**k yourself': Musk reacts to federal employee's explicit email
+ - [https://timesofindia.indiatimes.com/world/us/sincerely-go-fk-yourself-elon-musk-reacts-to-federal-employees-explicit-email-justifying-their-job/articleshow/118570298.cms](https://timesofindia.indiatimes.com/world/us/sincerely-go-fk-yourself-elon-musk-reacts-to-federal-employees-explicit-email-justifying-their-job/articleshow/118570298.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T07:46:27+00:00
+
+An employee's explicit resignation email to HR, featuring personal activities instead of a work report, has gone viral. Elon Musk pointed out an inconsistency in the controversial email. This incident comes amid debates over Musk’s influence on federal workforce policies, involving mandatory weekly accomplishment reports, and a potential SpaceX contract shift for air traffic communications.
+
+## Speed upto 1,200 kmph’: India’s first hyperloop corridor in works; watch
+ - [https://timesofindia.indiatimes.com/city/delhi/speed-upto-1200-kmph-indias-first-hyperloop-corridor-in-the-works-watch/articleshow/118571418.cms](https://timesofindia.indiatimes.com/city/delhi/speed-upto-1200-kmph-indias-first-hyperloop-corridor-in-the-works-watch/articleshow/118571418.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T07:46:27+00:00
+
+India is preparing to develop a 50km hyperloop corridor for commercial transport following the creation of a 422m test track by IIT Madras with Indian Railways' support. This project, if realized, could feature the world's longest hyperloop track, potentially revolutionizing transportation with speeds up to 1,200 kmph.
+
+## Watch: Trump shares AI video of Gaza with golden statues, Netanyahu and men in bikinis
+ - [https://timesofindia.indiatimes.com/world/us/watch-trump-gaza-features-bearded-men-in-bikinis-golden-trump-statues-and-netanyahu-enjoying-pool-side-drinks/articleshow/118573154.cms](https://timesofindia.indiatimes.com/world/us/watch-trump-gaza-features-bearded-men-in-bikinis-golden-trump-statues-and-netanyahu-enjoying-pool-side-drinks/articleshow/118573154.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T07:46:27+00:00
+
+Donald Trump released an AI-generated video showcasing Gaza as a glitzy, futuristic paradise, complete with luxury hotels and a giant golden statue of Trump. This follows his controversial proposal for Gaza, suggesting redevelopment under U.S. ownership. The proposal has faced significant opposition from Palestinian authorities and Arab states, emphasizing that Gaza remains an integral part of Palestinian land.
+
+## How post-quake crowd caught mother-daughter duo dumping body in Kolkata ghat
+ - [https://timesofindia.indiatimes.com/city/kolkata/blood-stained-new-suitcase-locked-padlock-how-post-quake-crowd-caught-mother-daughter-dumping-body-in-kolkata-ghat/articleshow/118569661.cms](https://timesofindia.indiatimes.com/city/kolkata/blood-stained-new-suitcase-locked-padlock-how-post-quake-crowd-caught-mother-daughter-dumping-body-in-kolkata-ghat/articleshow/118569661.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T07:32:40+00:00
+
+Two women, Falguni Ghosh and her mother Arati, were apprehended at Kumartuli ghat, Kolkata, for attempting to dispose of a body in the Hooghly River. The body, identified as Sumita Ghosh, was found inside a trolley bag. The accused are believed to have killed her over personal or property disputes. A murder investigation is underway.
+
+## Army shoots down Pakistani intruder at Indo-Pak border
+ - [https://timesofindia.indiatimes.com/india/army-shoots-down-pakistani-intruder-at-indo-pak-border/articleshow/118570992.cms](https://timesofindia.indiatimes.com/india/army-shoots-down-pakistani-intruder-at-indo-pak-border/articleshow/118570992.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+The Border Security Force (BSF) shot an intruder who was observed crossing the International Border at Pathankot in the early hours, despite being challenged by troops. The BSF stated that the identity and motive of the intruder are being investigated and plans to lodge a strong protest with Pakistani Rangers.
+
+## Babar Azam gets advice from Sunil Gavaskar
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/babar-azam-gets-advice-from-sunil-gavaskar-to-fix-his-batting-woes/articleshow/118571437.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/babar-azam-gets-advice-from-sunil-gavaskar-to-fix-his-batting-woes/articleshow/118571437.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+Sunil Gavaskar has advised Babar Azam to reduce the width between his feet in his batting stance to improve his performance. Gavaskar believes this adjustment will help Babar judge the bounce and movement of the ball better. Babar's recent performances in the ICC Champions Trophy were criticized as Pakistan failed to reach the semifinals.
+
+## Fact vs Fiction: What did Cummins say on India playing in Dubai?
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/fact-vs-fiction-what-did-pat-cummins-say-on-india-in-champions-trophy/articleshow/118570422.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/fact-vs-fiction-what-did-pat-cummins-say-on-india-in-champions-trophy/articleshow/118570422.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+Australia's Test captain Pat Cummins criticised Code Cricket for misquoting him on India's Champions Trophy matches. Cummins clarified that he never called the tournament a 'farce,' comments actually made by Jonathan Agnew. Cummins acknowledged India's advantage playing entirely in Dubai.
+
+## Five dead as car crashes head-on with govt bus in Tamil Nadu
+ - [https://timesofindia.indiatimes.com/city/trichy/five-dead-as-car-crashes-head-on-with-govt-bus-in-tamil-nadu/articleshow/118570041.cms](https://timesofindia.indiatimes.com/city/trichy/five-dead-as-car-crashes-head-on-with-govt-bus-in-tamil-nadu/articleshow/118570041.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+Five people lost their lives in the early hours of Wednesday when their car collided head-on with a government bus near Kulithalai in Tamil Nadu. The victims, including four family members from Coimbatore and their driver, were on their way to Trichy. The collision occurred around 3am, completely destroying the car.
+
+## How Vivek Ramaswamy plans to test immigrants for citizenship
+ - [https://timesofindia.indiatimes.com/world/us/cant-respect-country-you-dont-know-things-about-how-vivek-ramaswamy-plans-to-test-immigrants-for-citizenship/articleshow/118569807.cms](https://timesofindia.indiatimes.com/world/us/cant-respect-country-you-dont-know-things-about-how-vivek-ramaswamy-plans-to-test-immigrants-for-citizenship/articleshow/118569807.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+Indian-American politician Vivek Ramaswamy announced his candidacy for Ohio governor, proposing that high school seniors pass the civics test required for US naturalization to foster patriotism. Ramaswamy, a former GOP presidential candidate, received endorsements from Donald Trump and Elon Musk. Despite being considered for a role alongside Musk, he chose to pursue the Ohio governorship.
+
+## 'Made a mistake': Ranveer Allahbadia tells Maharashtra cyber cell cops
+ - [https://timesofindia.indiatimes.com/india/made-a-mistake-ranveer-allahbadia-tells-maharashtra-cyber-cell-cops-he-regrets-controversial-remarks-on-youtube-show/articleshow/118570545.cms](https://timesofindia.indiatimes.com/india/made-a-mistake-ranveer-allahbadia-tells-maharashtra-cyber-cell-cops-he-regrets-controversial-remarks-on-youtube-show/articleshow/118570545.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+Podcaster Ranveer Allahbadia admitted to making a "mistake" with his controversial remarks on comedian Samay Raina's YouTube show leading to backlash. He said he went on the show for his friend and did not charge for his appearance. Social media influencers Ashish Chanchlani and Apoorva Makhija have also been named in the obscenity case. The investigation continues.
+
+## 'Magical, heartwarming & bit sad': Preity Zinta after taking 3rd holy dip
+ - [https://timesofindia.indiatimes.com/india/magical-heartwarming-bit-sad-preity-zinta-after-taking-3rd-holy-dip-in-maha-kumbh/articleshow/118570611.cms](https://timesofindia.indiatimes.com/india/magical-heartwarming-bit-sad-preity-zinta-after-taking-3rd-holy-dip-in-maha-kumbh/articleshow/118570611.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+Actress Preity Zinta described her third holy dip at Maha Kumbh Mela in Prayagraj as a blend of magical, heartwarming, and sad moments. She shared her experiences and reflections on spirituality and the challenges of attachment. Zinta concluded with the notion that humans are spiritual beings having a human experience, emphasizing her continued quest for answers.
+
+## Musk’s DOGE finds 'excess' software licenses: ‘More of your tax dollars...’
+ - [https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-doge-finds-excess-software-licenses-in-agencies-more-of-your-tax-dollars-/articleshow/118571126.cms](https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-doge-finds-excess-software-licenses-in-agencies-more-of-your-tax-dollars-/articleshow/118571126.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+The Elon Musk-led Department of Government Efficiency (DOGE) uncovered that federal agencies hold an excess of software licenses, many unused, which could result in significant taxpayer savings. For instance, the Department of Labor and General Services Administration reported substantial surplus in various software licenses. Fixes are in progress, alongside staff reductions at GSA as part of a workforce optimization initiative.
+
+## 'Oscar for worst airline in every category': BJP's Jaiveer Shergill's dig at Air India
+ - [https://timesofindia.indiatimes.com/city/delhi/oscar-for-worst-airline-in-every-category-bjps-jaiveer-shergill-takes-dig-at-air-india/articleshow/118570019.cms](https://timesofindia.indiatimes.com/city/delhi/oscar-for-worst-airline-in-every-category-bjps-jaiveer-shergill-takes-dig-at-air-india/articleshow/118570019.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+BJP spokesperson Jaiveer Shergill criticizes Air India’s services, asserting it merits an 'Oscar for the worst airline'. His complaints highlight issues like broken seats and poor customer service. Union Agriculture Minister Shivraj Singh Chouhan had a similar experience, prompting Union Aviation Minister Ram Mohan Naidu to demand an investigation.
+
+## Shoaib roasts Hafeez on live TV: 'Pakistan mei talent hota toh...'
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/shoaib-akhtar-roasts-mohammad-hafeez-on-live-tv-pakistan-mei-cricket-talent-hota-toh-dikh-jata/articleshow/118572227.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/shoaib-akhtar-roasts-mohammad-hafeez-on-live-tv-pakistan-mei-cricket-talent-hota-toh-dikh-jata/articleshow/118572227.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+Former Pakistan cricketers and fans are upset as the team exits the Champions Trophy after consecutive defeats to New Zealand and India. Shoaib Akhtar and Mohammad Hafeez argued about the lack of displayed talent in the current cricket team during a TV show.
+
+## Telangana mandates Telugu as compulsory subject in schools
+ - [https://timesofindia.indiatimes.com/india/telangana-mandates-telugu-as-compulsory-subject-in-schools/articleshow/118570961.cms](https://timesofindia.indiatimes.com/india/telangana-mandates-telugu-as-compulsory-subject-in-schools/articleshow/118570961.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+Telangana government has mandated Telugu as a compulsory subject for Classes 1 to 10 in all schools, starting from the 2025-26 academic year. This decision fully implements the Telangana (Compulsory Teaching and Learning of Telugu in Schools) Act, introduced in 2018 but previously not fully enforced.
+
+## TOI explainer: How AAP’s liquor policy caused Rs 2,000 crore loss to govt
+ - [https://timesofindia.indiatimes.com/city/delhi/3-wholesalers-controlled-71-of-supply-gom-changed-several-suggestions-what-cag-report-on-aaps-liquor-policy-says/articleshow/118570087.cms](https://timesofindia.indiatimes.com/city/delhi/3-wholesalers-controlled-71-of-supply-gom-changed-several-suggestions-what-cag-report-on-aaps-liquor-policy-says/articleshow/118570087.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+Delhi's government experienced a revenue loss exceeding Rs 2,000 crore due to the implementation of the Delhi Excise Policy 2021-22, according to a CAG report presented in the Delhi assembly. The policy, withdrawn after nine months, faced criticism for ignoring expert committee recommendations and having design flaws that risked monopolization and cartel formation.
+
+## Trump’s $5 million 'gold card' visa: What it means for Indians stuck in backlogs
+ - [https://timesofindia.indiatimes.com/world/us/trumps-5-million-gold-card-visa-what-it-means-for-indians-stuck-in-green-card-backlogs/articleshow/118570216.cms](https://timesofindia.indiatimes.com/world/us/trumps-5-million-gold-card-visa-what-it-means-for-indians-stuck-in-green-card-backlogs/articleshow/118570216.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+President Trump's proposal to introduce a $5 million 'gold card' visa has caused concern among Indian nationals awaiting green cards. This new visa, which bypasses job creation requirements, could favor wealthy individuals, shifting the focus from job creation to wealth-based immigration.
+
+## Trump’s gold card visa scheme likely to impact Indians applying for green cards
+ - [https://timesofindia.indiatimes.com/world/us/trumps-gold-card-visa-scheme-likely-to-impact-indians-planning-to-apply-for-green-cards-through-eb-5-route/articleshow/118569497.cms](https://timesofindia.indiatimes.com/world/us/trumps-gold-card-visa-scheme-likely-to-impact-indians-planning-to-apply-for-green-cards-through-eb-5-route/articleshow/118569497.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+None
+
+## Watch: What's inside the phones of Hardik, Shami, Iyer, Jadeja
+ - [https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/watch-whats-inside-the-phones-of-hardik-pandya-mohammed-shami-shreays-iyer-ravindra-jadeja/articleshow/118570818.cms](https://timesofindia.indiatimes.com/sports/cricket/icc-champions-trophy-2025/watch-whats-inside-the-phones-of-hardik-pandya-mohammed-shami-shreays-iyer-ravindra-jadeja/articleshow/118570818.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+Fans of Indian cricket are keen to explore the lives of star players beyond the field. In a new video interaction, Hardik Pandya, Ravindra Jadeja, Shreyas Iyer, and Mohammed Shami share interesting details about their phone content. Meanwhile, the Indian team is performing well in the ICC Champions, securing a semifinal berth after wins against Bangladesh and Pakistan.
+
+## Why is stock market closed today?
+ - [https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-today-why-are-bse-sensex-nifty50-closed-for-trading-on-february-26-2025-mahashivratri/articleshow/118570501.cms](https://timesofindia.indiatimes.com/business/india-business/stock-market-holiday-today-why-are-bse-sensex-nifty50-closed-for-trading-on-february-26-2025-mahashivratri/articleshow/118570501.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+Stock market holiday today: Indian stock exchanges BSE and NSE will be closed today for Mahashivratri. On Thursday, the market is expected to remain volatile amid recent declines and international investor withdrawals.
+
+## Will CBSE hold supplementary exams from 2026 under its new draft norms?
+ - [https://timesofindia.indiatimes.com/education/news/will-cbse-hold-supplementary-exams-from-2026-under-its-new-draft-norms-heres-what-you-need-to-know/articleshow/118570676.cms](https://timesofindia.indiatimes.com/education/news/will-cbse-hold-supplementary-exams-from-2026-under-its-new-draft-norms-heres-what-you-need-to-know/articleshow/118570676.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+CBSE has approved draft norms for Class 10 board exams twice a year from 2026, with exams in February and May. The May session will serve as a supplementary exam, eliminating separate retests. Practical assessments will be conducted once a year, and the final marksheet will reflect the best scores. Feedback on the policy is open until March 9, 2025
+
+## 'Your country is USA': JD Vance on meeting an 'angry' Ukrainian immigrant
+ - [https://timesofindia.indiatimes.com/world/us/your-country-is-usa-and-so-is-mine-jd-vance-on-meeting-an-angry-ukrainian-immigrant/articleshow/118569658.cms](https://timesofindia.indiatimes.com/world/us/your-country-is-usa-and-so-is-mine-jd-vance-on-meeting-an-angry-ukrainian-immigrant/articleshow/118569658.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:42:27+00:00
+
+US Vice President JD Vance recounted a confrontation with a Ukrainian-American man, emphasizing that immigrants should prioritize the interests of the United States. Vance highlighted the importance of assimilation and valuing America as their primary country. He applauded immigrants who understand this perspective, stressing that they should look out for the US interests first.
+
+## 'Cam Newton told...': Internet erupts over Ravens band member’s 'affair'
+ - [https://timesofindia.indiatimes.com/sports/nfl/news/cam-newton-told-no-lies-internet-erupts-over-viral-rumor-of-ravens-band-members-alleged-affair-with-nfl-legend-steve-smith-sr-/articleshow/118561150.cms](https://timesofindia.indiatimes.com/sports/nfl/news/cam-newton-told-no-lies-internet-erupts-over-viral-rumor-of-ravens-band-members-alleged-affair-with-nfl-legend-steve-smith-sr-/articleshow/118561150.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:27:00+00:00
+
+Steve Smith Sr., a former NFL star and Hall of Fame candidate, faces allegations of an affair with Ravens band member Nicole Martinez, as revealed by her husband's Facebook post. The scandal has quickly gone viral, posing potential risks to Smith's long-standing reputation.
+
+## AAP’s liquor policy caused Rs 2,000cr loss to government: CAG
+ - [https://timesofindia.indiatimes.com/india/aaps-liquor-policy-caused-rs-2000cr-loss-to-government-cag/articleshow/118569185.cms](https://timesofindia.indiatimes.com/india/aaps-liquor-policy-caused-rs-2000cr-loss-to-government-cag/articleshow/118569185.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:21:07+00:00
+
+Delhi government incurred a revenue loss exceeding Rs 2,000 crore due to the Delhi Excise Policy 2021-22, as per CAG's report. The policy, which was later withdrawn, faced issues like monopoly risks and improper license allocations, leading to significant financial discrepancies.
+
+## Maha Shivratri: Best quotes and images to share
+ - [https://timesofindia.indiatimes.com/life-style/events/happy-maha-shivratri-2025-best-messages-quotes-wishes-and-images-to-share-on-maha-shivratri/articleshow/118558023.cms](https://timesofindia.indiatimes.com/life-style/events/happy-maha-shivratri-2025-best-messages-quotes-wishes-and-images-to-share-on-maha-shivratri/articleshow/118558023.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T06:00:00+00:00
+
+Mahashivratri, the Great Night of Lord Shiva, will be celebrated on February 26, 2025. This spiritually significant night is marked by devotion, fasting, and meditations worldwide. Observances include various puja timings and chanting mantras to invoke Lord Shiva's divine energy and blessings.
+
+## Why foreign funds can't stop selling Indian stocks
+ - [https://timesofindia.indiatimes.com/business/india-business/why-foreign-funds-cant-stop-selling-indian-stocks/articleshow/118569099.cms](https://timesofindia.indiatimes.com/business/india-business/why-foreign-funds-cant-stop-selling-indian-stocks/articleshow/118569099.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T05:51:15+00:00
+
+Foreign funds have sold over Rs 2 lakh crore worth of Indian stocks since October last year, driven by weak earnings growth, falling rupee returns, and US market resilience. Market players note that India is not currently attractive enough for foreign investments, and higher US bond yields are also affecting their decisions.
+
+## Tata Cap gets board nod for RBI-mandated IPO
+ - [https://timesofindia.indiatimes.com/business/india-business/tata-cap-gets-board-nod-for-rbi-mandated-ipo/articleshow/118569085.cms](https://timesofindia.indiatimes.com/business/india-business/tata-cap-gets-board-nod-for-rbi-mandated-ipo/articleshow/118569085.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T05:46:43+00:00
+
+Tata Capital's board has approved plans for an IPO to list by September, comprising fresh shares and stake-sale, potentially valued at $1.7 billion. This move complies with RBI's mandate for 'upper-layer' NBFCs. Tata Sons, holding 93% of Tata Capital, plans to sell shares to support other ventures, while maintaining a significant stake post-listing. A rights offering worth Rs 1,504 crore has also been approved.
+
+## Magnitude 6.1 earthquake strikes off Indonesia’s Sulawesi
+ - [https://timesofindia.indiatimes.com/world/rest-of-world/magnitude-6-1-earthquake-strikes-off-indonesias-sulawesi-no-tsunami-risk/articleshow/118569074.cms](https://timesofindia.indiatimes.com/world/rest-of-world/magnitude-6-1-earthquake-strikes-off-indonesias-sulawesi-no-tsunami-risk/articleshow/118569074.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T05:40:48+00:00
+
+A 6.1-magnitude earthquake struck off the coast of Indonesia’s Sulawesi island early Wednesday, as reported by the USGS. The quake occurred at a depth of 10 kilometers, with no immediate damage or casualties. Indonesia’s meteorological agency recorded a 6.0 magnitude and stated that there is no tsunami risk. Indonesia frequently experiences earthquakes due to intense seismic activity.
+
+## RBI relaxes rules for micro credit, non-bank lenders
+ - [https://timesofindia.indiatimes.com/business/india-business/rbi-relaxes-rules-for-micro-credit-non-bank-lenders/articleshow/118569069.cms](https://timesofindia.indiatimes.com/business/india-business/rbi-relaxes-rules-for-micro-credit-non-bank-lenders/articleshow/118569069.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T05:40:17+00:00
+
+The RBI has eased restrictions on lending to non-bank finance companies and microfinance institutions by lowering risk weights for bank credit. This move aims to boost lending capacity and support economic growth, reversing the slowdown observed after previous regulatory measures.
+
+## Israel strikes military targets in southern Syria, two killed
+ - [https://timesofindia.indiatimes.com/world/middle-east/israel-strikes-military-targets-in-southern-syria-two-killed/articleshow/118569022.cms](https://timesofindia.indiatimes.com/world/middle-east/israel-strikes-military-targets-in-southern-syria-two-killed/articleshow/118569022.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T05:34:32+00:00
+
+Israel struck military sites in southern Syria, hitting command centres and weapons facilities. At least two people died in these airstrikes. The action follows Prime Minister Netanyahu's call for the demilitarisation of southern Syria and the defense against HTS and the new Syrian army. Syrian condemnation and international appeals against Israeli aggression ensued.
+
+## 'Chhaava': Vicky Kaushal’s movie crosses Rs 350 crore mark
+ - [https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/chhaava-box-office-day-12-vicky-kaushals-historic-drama-crosses-the-rs-350-crore-mark-on-tuesday/articleshow/118569014.cms](https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/chhaava-box-office-day-12-vicky-kaushals-historic-drama-crosses-the-rs-350-crore-mark-on-tuesday/articleshow/118569014.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T05:26:30+00:00
+
+Vicky Kaushal's 'Chhaava', directed by Laxman Utekar, has made significant box office strides, grossing ₹365.25 crore in India after 12 days. The film, depicting the valor of Maratha warrior Chhatrapati Sambhaji Maharaj, saw a strong opening and maintained a steady pace.
+
+## Musk under fire as petition to revoke his Canadian citizenship tops 250,000 signatures
+ - [https://timesofindia.indiatimes.com/world/us/elon-musk-under-fire-as-petition-to-revoke-his-canadian-citizenship-tops-250000-signatures-mp-calls-him-enemy-of-our-country/articleshow/118568752.cms](https://timesofindia.indiatimes.com/world/us/elon-musk-under-fire-as-petition-to-revoke-his-canadian-citizenship-tops-250000-signatures-mp-calls-him-enemy-of-our-country/articleshow/118568752.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T05:19:44+00:00
+
+A petition with over 250,000 signatures is calling for the revocation of Elon Musk's Canadian citizenship. The billionaire is accused of undermining Canada's sovereignty and supporting US President Donald Trump. Canadian lawmaker Charlie Angus initiated the petition to address concerns over Musk's political activities.
+
+## How a late-night car chase on NH-19 led to event manager's death in West Bengal
+ - [https://timesofindia.indiatimes.com/city/kolkata/car-chase-suv-driver-booked-cop-lens-on-occupants-of-both-vehicles/articleshow/118566281.cms](https://timesofindia.indiatimes.com/city/kolkata/car-chase-suv-driver-booked-cop-lens-on-occupants-of-both-vehicles/articleshow/118566281.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T01:53:33+00:00
+
+Police have charged Bablu Yadav with culpable homicide for the car chase that led to Sutandra Chatterjee's death. The investigation is probing the roles of all car occupants. CCTV footage shows Chatterjee's car following Yadav's vehicle before the collision. Additionally, questions arise about why Chatterjee's group didn't report harassment during the chase.
+
+## Bengaluru water crisis: As groundwater levels plummet, BWSSB bans borewell drilling
+ - [https://timesofindia.indiatimes.com/city/bengaluru/as-groundwater-levels-plummetbwssb-bans-borewell-drilling/articleshow/118566282.cms](https://timesofindia.indiatimes.com/city/bengaluru/as-groundwater-levels-plummetbwssb-bans-borewell-drilling/articleshow/118566282.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T01:50:38+00:00
+
+Bengaluru's BWSSB has banned borewell drilling due to the drastic fall in groundwater levels and an IISc red alert. Although Cauvery water will now supply areas, exceptions for government agencies will be verified. The board had previously granted permits due to lack of Cauvery water. Strict legal action awaits violators.
+
+## Ghaziabad horror: Man kills rape survivor’s brother to avenge jailed sibling
+ - [https://timesofindia.indiatimes.com/city/noida/rape-convict-jailed-his-kin-murders-survivors-brother/articleshow/118565731.cms](https://timesofindia.indiatimes.com/city/noida/rape-convict-jailed-his-kin-murders-survivors-brother/articleshow/118565731.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T00:41:42+00:00
+
+A 25-year-old contractor in Ghaziabad murders a man's brother to avenge his own sibling's imprisonment for rape, executing the plan with brutal violence. The accused, Sarfaraz, was arrested after extensive investigation, revealing his history of violent crimes, including a similar murder in 2023.
+
+## Cognizant CEO: What I did in past is my past ... I am accountable for ...
+ - [https://timesofindia.indiatimes.com/technology/tech-news/cognizant-ceo-ravi-kumar-s-what-i-did-in-the-past-is-my-past-i-am-accountable-for/articleshow/118565671.cms](https://timesofindia.indiatimes.com/technology/tech-news/cognizant-ceo-ravi-kumar-s-what-i-did-in-the-past-is-my-past-i-am-accountable-for/articleshow/118565671.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T00:38:26+00:00
+
+Cognizant CEO Ravi Kumar S aims to focus on the company's progress amid a legal dispute with Infosys. He underscores milestones such as enhanced AI integration, steady growth, and significant deals. Although facing macroeconomic challenges, Kumar remains optimistic about AI's potential to create new business opportunities.
+
+## Hit-and-run in Gurgaon leaves woman in coma; property dealer arrested
+ - [https://timesofindia.indiatimes.com/city/gurgaon/hit-run-crash-in-gurgaon-leaves-woman-out-on-morning-walk-in-coma/articleshow/118565646.cms](https://timesofindia.indiatimes.com/city/gurgaon/hit-run-crash-in-gurgaon-leaves-woman-out-on-morning-walk-in-coma/articleshow/118565646.cms)
+ - RSS feed: $source
+ - date published: 2025-02-26T00:35:41+00:00
+
+A 25-year-old property dealer named Chirag Thakran was arrested for a hit-and-run incident in Gurgaon that left a woman in a coma. Thakran, driving a borrowed Scorpio, fell asleep at the wheel and hit the couple during their morning walk. The woman’s husband suffered minor injuries. The police registered a case based on the husband’s complaint.
+

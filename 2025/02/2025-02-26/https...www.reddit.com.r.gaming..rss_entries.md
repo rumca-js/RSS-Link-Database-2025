@@ -1,0 +1,205 @@
+# Source:r/gaming, URL:https://www.reddit.com/r/gaming/.rss, language:
+
+## my fan poster for a mostly forgotten Resident Evil game. Survivor!
+ - [https://www.reddit.com/r/gaming/comments/1iz0g0b/my_fan_poster_for_a_mostly_forgotten_resident](https://www.reddit.com/r/gaming/comments/1iz0g0b/my_fan_poster_for_a_mostly_forgotten_resident)
+ - RSS feed: $source
+ - date published: 2025-02-26T22:37:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iz0g0b/my_fan_poster_for_a_mostly_forgotten_resident/"> <img src="https://preview.redd.it/jfi5bj4u8kle1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4fb6c3bd0525f7ccb5c42c103f668ff859069343" alt="my fan poster for a mostly forgotten Resident Evil game. Survivor!" title="my fan poster for a mostly forgotten Resident Evil game. Survivor!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Red-Raptor3"> /u/Red-Raptor3 </a> <br/> <span><a href="https://i.redd.it/jfi5bj4u8kle1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iz0g0b/my_fan_poster_for_a_mostly_forgotten_resident/">[comments]</a></span> </td></tr></table>
+
+## What game has the best last stand in your opinion?
+ - [https://www.reddit.com/r/gaming/comments/1iyxpom/what_game_has_the_best_last_stand_in_your_opinion](https://www.reddit.com/r/gaming/comments/1iyxpom/what_game_has_the_best_last_stand_in_your_opinion)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:42:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Battle at Kaer Morhen in Witcher 3 is my pick</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dabor11"> /u/dabor11 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1iyxpom/what_game_has_the_best_last_stand_in_your_opinion/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iyxpom/what_game_has_the_best_last_stand_in_your_opinion/">[comments]</a></span>
+
+## "They Stole The Whole Game" - Horror Indie Dev Fights The eShop Scam Blatantly Ripping Their Work
+ - [https://www.reddit.com/r/gaming/comments/1iyxnjg/they_stole_the_whole_game_horror_indie_dev_fights](https://www.reddit.com/r/gaming/comments/1iyxnjg/they_stole_the_whole_game_horror_indie_dev_fights)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:39:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iyxnjg/they_stole_the_whole_game_horror_indie_dev_fights/"> <img src="https://external-preview.redd.it/HGohxkhwSnutELWeOZeE0zmpTM678hovBOETYXlEoQw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d325845e91a0aba7a98eb2c41fb9f1eb13115329" alt="&quot;They Stole The Whole Game&quot; - Horror Indie Dev Fights The eShop Scam Blatantly Ripping Their Work" title="&quot;They Stole The Whole Game&quot; - Horror Indie Dev Fights The eShop Scam Blatantly Ripping Their Work" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HBizzle24"> /u/HBizzle24 </a> <br/> <span><a href="https://www.nintendolife.com/news/2025/02/they-stole-the-whole-game-horror-indie-dev-fights-the-eshop-scam-blatantly-ripping-their-work">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iyxnjg/they_stole_the_whole_game_horror_indie_dev_fights/">[comments]</a></span> </td></tr></table>
+
+## Elden Ring Queen Marika acrylic painting by me 🖌🎨🤘
+ - [https://www.reddit.com/r/gaming/comments/1iyx9l5/elden_ring_queen_marika_acrylic_painting_by_me](https://www.reddit.com/r/gaming/comments/1iyx9l5/elden_ring_queen_marika_acrylic_painting_by_me)
+ - RSS feed: $source
+ - date published: 2025-02-26T20:23:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iyx9l5/elden_ring_queen_marika_acrylic_painting_by_me/"> <img src="https://preview.redd.it/941917lnljle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c7207f10c685203a5b1529cf6c058f152308fd20" alt="Elden Ring Queen Marika acrylic painting by me 🖌🎨🤘" title="Elden Ring Queen Marika acrylic painting by me 🖌🎨🤘" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IcyAOI"> /u/IcyAOI </a> <br/> <span><a href="https://i.redd.it/941917lnljle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iyx9l5/elden_ring_queen_marika_acrylic_painting_by_me/">[comments]</a></span> </td></tr></table>
+
+## Wizards of the Coast's Skeleton Key's AAA Game Gets Shut Down
+ - [https://www.reddit.com/r/gaming/comments/1iyur37/wizards_of_the_coasts_skeleton_keys_aaa_game_gets](https://www.reddit.com/r/gaming/comments/1iyur37/wizards_of_the_coasts_skeleton_keys_aaa_game_gets)
+ - RSS feed: $source
+ - date published: 2025-02-26T18:39:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iyur37/wizards_of_the_coasts_skeleton_keys_aaa_game_gets/"> <img src="https://external-preview.redd.it/K90qCBWwhAz1yvhH5K1m3LoQQmzIlqZIwccA8q4DCYk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad1dfcd7ab21af9ac4dacfd829ab90832b12e532" alt="Wizards of the Coast's Skeleton Key's AAA Game Gets Shut Down" title="Wizards of the Coast's Skeleton Key's AAA Game Gets Shut Down" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Interestingly, the news arrives less than a month after rumors of Corinne Busche, the Game Director behind Dragon Age: The Veilguard – a game whose financial underperformance led to massive layoffs at BioWare – joining the team. If true, and in light of a reveal made by Ait-Kaci, it certainly adds a layer of intrigue to what&#39;s going on behind the scenes at Skeleton Key</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ConfidentMongoose"> /u/ConfidentMongoos
+
+## Video Game reviews have lost their usefulness
+ - [https://www.reddit.com/r/gaming/comments/1iyu3o6/video_game_reviews_have_lost_their_usefulness](https://www.reddit.com/r/gaming/comments/1iyu3o6/video_game_reviews_have_lost_their_usefulness)
+ - RSS feed: $source
+ - date published: 2025-02-26T18:13:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is it just me, or have gaming reviews become completely polarized? It feels like every major release is either hyped up as a flawless masterpiece that &quot;changes gaming forever&quot; or completely torn apart as the &quot;biggest disaster in gaming history.&quot; There&#39;s no room for a game to just be... good.</p> <p>A game can have a few flaws and still be fun. But if you check reviews, it&#39;s either 10/10 or 1/10, with no middle ground. A game could have minor bugs, or god forbid a pronoun, and suddenly it&#39;s &quot;unplayable garbage.&quot; Or it does one thing really well, and suddenly it&#39;s &quot;GOTY contender, peak fiction, gaming is saved.&quot;</p> <p>What happened to balanced discussions? Are people just more dramatic now, or is it the influence of social media and clickbait culture? Seriously can&#39;t take reviewers seriously anymore. Curious to hear if anyone else feels this way.</p> </div><!-- SC_ON --> &#32; submitted by &#
+
+## Dragon Age: The Veilguard is heading to PS Plus on March 4th
+ - [https://www.reddit.com/r/gaming/comments/1iysby0/dragon_age_the_veilguard_is_heading_to_ps_plus_on](https://www.reddit.com/r/gaming/comments/1iysby0/dragon_age_the_veilguard_is_heading_to_ps_plus_on)
+ - RSS feed: $source
+ - date published: 2025-02-26T17:01:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iysby0/dragon_age_the_veilguard_is_heading_to_ps_plus_on/"> <img src="https://preview.redd.it/a9f2hs0nlile1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2b514f72bfaeefa1403660b595514c3c57fe0d3" alt="Dragon Age: The Veilguard is heading to PS Plus on March 4th" title="Dragon Age: The Veilguard is heading to PS Plus on March 4th" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bertie32"> /u/Bertie32 </a> <br/> <span><a href="https://i.redd.it/a9f2hs0nlile1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iysby0/dragon_age_the_veilguard_is_heading_to_ps_plus_on/">[comments]</a></span> </td></tr></table>
+
+## My childhood is now museum trinkets
+ - [https://www.reddit.com/r/gaming/comments/1iys100/my_childhood_is_now_museum_trinkets](https://www.reddit.com/r/gaming/comments/1iys100/my_childhood_is_now_museum_trinkets)
+ - RSS feed: $source
+ - date published: 2025-02-26T16:49:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iys100/my_childhood_is_now_museum_trinkets/"> <img src="https://preview.redd.it/98s5ivegjile1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b2773ca669c3898ffc93e98de24f68fd1487790" alt="My childhood is now museum trinkets" title="My childhood is now museum trinkets" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/A_Senior_Fisherman"> /u/A_Senior_Fisherman </a> <br/> <span><a href="https://i.redd.it/98s5ivegjile1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iys100/my_childhood_is_now_museum_trinkets/">[comments]</a></span> </td></tr></table>
+
+## Found my childhood letters to Nintendo in the 90s - Anyone recognize these signatures?
+ - [https://www.reddit.com/r/gaming/comments/1iyqi9z/found_my_childhood_letters_to_nintendo_in_the_90s](https://www.reddit.com/r/gaming/comments/1iyqi9z/found_my_childhood_letters_to_nintendo_in_the_90s)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:46:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iyqi9z/found_my_childhood_letters_to_nintendo_in_the_90s/"> <img src="https://preview.redd.it/2ut2fnd77ile1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3e5921e5694068f83be4694c4b1881052955cda" alt="Found my childhood letters to Nintendo in the 90s - Anyone recognize these signatures?" title="Found my childhood letters to Nintendo in the 90s - Anyone recognize these signatures?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheInsaneDump"> /u/TheInsaneDump </a> <br/> <span><a href="https://i.redd.it/2ut2fnd77ile1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iyqi9z/found_my_childhood_letters_to_nintendo_in_the_90s/">[comments]</a></span> </td></tr></table>
+
+## My newest watercolor art!
+ - [https://www.reddit.com/r/gaming/comments/1iyqd3k/my_newest_watercolor_art](https://www.reddit.com/r/gaming/comments/1iyqd3k/my_newest_watercolor_art)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:40:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iyqd3k/my_newest_watercolor_art/"> <img src="https://preview.redd.it/7oosz0347ile1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4dd706d1b89217cdd023c71377bed4ba6a388239" alt="My newest watercolor art!" title="My newest watercolor art!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TootyMcfruityPoots"> /u/TootyMcfruityPoots </a> <br/> <span><a href="https://i.redd.it/7oosz0347ile1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iyqd3k/my_newest_watercolor_art/">[comments]</a></span> </td></tr></table>
+
+## I think I'm 100% the target for "Ubisoft games" and I'm tired to pretend I'm not
+ - [https://www.reddit.com/r/gaming/comments/1iyqboj/i_think_im_100_the_target_for_ubisoft_games_and](https://www.reddit.com/r/gaming/comments/1iyqboj/i_think_im_100_the_target_for_ubisoft_games_and)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:38:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m currently doing Elden Ring and it&#39;s what made me come to this conclusion. </p> <p>I&#39;ve seen everywhere that this game is a masterpiece when it comes to exploration, open world and RPG elements, and I truly believe i I was honestly having fun but I felt like I was &quot;forcing myself&quot; to explore based on what I heard on the game. And the truth is, I&#39;m having more fun &quot;checking boxes&quot; than mindlessly running around hoping to stumble on some random boss or item or whatever. I recently found an interactive checklist for bosses (<a href="https://mapgenie.io/elden-ring/checklist">https://mapgenie.io/elden-ring/checklist</a> here for anyone who&#39;d like the link) and having finally an exhaustive list of things to do made me... happy. </p> <p>I believe that&#39;s why I like newer AC games or FC games, or ESO for example. The game tells me what to do, and I found out that&#39;s a huge part of my fun. I like having objecti
+
+## Shadow of Mordor's brilliant Nemesis system is locked away by a Warner Bros patent until 2036, despite studio shutdown
+ - [https://www.reddit.com/r/gaming/comments/1iyq5rx/shadow_of_mordors_brilliant_nemesis_system_is](https://www.reddit.com/r/gaming/comments/1iyq5rx/shadow_of_mordors_brilliant_nemesis_system_is)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:31:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iyq5rx/shadow_of_mordors_brilliant_nemesis_system_is/"> <img src="https://external-preview.redd.it/7iXnXZxAtAZkG4HWA1dgnZXrimonO9V-1j9x1A9SrzM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=212669b99aba91429feda175d83a5e983712726d" alt="Shadow of Mordor's brilliant Nemesis system is locked away by a Warner Bros patent until 2036, despite studio shutdown" title="Shadow of Mordor's brilliant Nemesis system is locked away by a Warner Bros patent until 2036, despite studio shutdown" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sabedena"> /u/Sabedena </a> <br/> <span><a href="https://www.eurogamer.net/shadow-of-mordors-brilliant-nemesis-system-is-locked-away-by-a-warner-bros-patent-until-2036-despite-studio-shutdown">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iyq5rx/shadow_of_mordors_brilliant_nemesis_system_is/">[comments]</a></span> </td></tr></t
+
+## Found some treasure at work today
+ - [https://www.reddit.com/r/gaming/comments/1iypyjc/found_some_treasure_at_work_today](https://www.reddit.com/r/gaming/comments/1iypyjc/found_some_treasure_at_work_today)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:22:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iypyjc/found_some_treasure_at_work_today/"> <img src="https://preview.redd.it/i0npi05y3ile1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=65b2dc5508013efeda8b68a86eee910988adc77b" alt="Found some treasure at work today" title="Found some treasure at work today" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I was cleaning out some boxes at work looking for hard drives and I stumbled across these. The boss said I could take them, score!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/K9Kush"> /u/K9Kush </a> <br/> <span><a href="https://i.redd.it/i0npi05y3ile1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iypyjc/found_some_treasure_at_work_today/">[comments]</a></span> </td></tr></table>
+
+## NetEase Plans To Support Marvel Rivals For "Ten Years And Beyond"
+ - [https://www.reddit.com/r/gaming/comments/1iypngz/netease_plans_to_support_marvel_rivals_for_ten](https://www.reddit.com/r/gaming/comments/1iypngz/netease_plans_to_support_marvel_rivals_for_ten)
+ - RSS feed: $source
+ - date published: 2025-02-26T15:09:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iypngz/netease_plans_to_support_marvel_rivals_for_ten/"> <img src="https://external-preview.redd.it/6OOTCMaVD_yuJinXoU0T3s4fblHki0cxqk9vTC8fHUo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=08966589877e397e1ac385f3816c2f9233d14839" alt="NetEase Plans To Support Marvel Rivals For &quot;Ten Years And Beyond&quot;" title="NetEase Plans To Support Marvel Rivals For &quot;Ten Years And Beyond&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ReaddittiddeR"> /u/ReaddittiddeR </a> <br/> <span><a href="https://www.thegamer.com/netease-plans-to-support-marvel-rivals-for-at-least-ten-years/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iypngz/netease_plans_to_support_marvel_rivals_for_ten/">[comments]</a></span> </td></tr></table>
+
+## Xenoblade Chronicles X: Definitive Edition - Overview
+ - [https://www.reddit.com/r/gaming/comments/1iypaaq/xenoblade_chronicles_x_definitive_edition_overview](https://www.reddit.com/r/gaming/comments/1iypaaq/xenoblade_chronicles_x_definitive_edition_overview)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:53:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iypaaq/xenoblade_chronicles_x_definitive_edition_overview/"> <img src="https://external-preview.redd.it/OqMae19I28IlVpLUAyU5SLJbzwUQIJh3rTbOLDIl2As.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a6fa9cc3f8d61286775737ef9c07231d6d3c8033" alt="Xenoblade Chronicles X: Definitive Edition - Overview" title="Xenoblade Chronicles X: Definitive Edition - Overview" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PalpitationTop611"> /u/PalpitationTop611 </a> <br/> <span><a href="https://youtu.be/Wkq7eOqhWhU?si=EgDsTh2sNBUf4RW5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iypaaq/xenoblade_chronicles_x_definitive_edition_overview/">[comments]</a></span> </td></tr></table>
+
+## Still the best trailer ever for a game
+ - [https://www.reddit.com/r/gaming/comments/1iyol92/still_the_best_trailer_ever_for_a_game](https://www.reddit.com/r/gaming/comments/1iyol92/still_the_best_trailer_ever_for_a_game)
+ - RSS feed: $source
+ - date published: 2025-02-26T14:20:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iyol92/still_the_best_trailer_ever_for_a_game/"> <img src="https://external-preview.redd.it/qiE7NABXwzD0v6laUgGlwUbM6_V4bDNzzh_imFbmWsU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1e883a06a7ef771f4e1217480a92fda95ee0336f" alt="Still the best trailer ever for a game" title="Still the best trailer ever for a game" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>It’s also so funny the game is nothing like this!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nyanbatman"> /u/nyanbatman </a> <br/> <span><a href="https://youtu.be/lZqrG1bdGtg?si=L9aboszgrK2Qonsf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iyol92/still_the_best_trailer_ever_for_a_game/">[comments]</a></span> </td></tr></table>
+
+## What video game opening/ title sequence absolutely blew you away?
+ - [https://www.reddit.com/r/gaming/comments/1iynys1/what_video_game_opening_title_sequence_absolutely](https://www.reddit.com/r/gaming/comments/1iynys1/what_video_game_opening_title_sequence_absolutely)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:51:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iynys1/what_video_game_opening_title_sequence_absolutely/"> <img src="https://external-preview.redd.it/ShVdiRHyQfQrZ310Ew-n7Ix9uHyMNaXcHp2CGJLmriI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1d1b79a41a513527834f97ce261de03e87c18721" alt="What video game opening/ title sequence absolutely blew you away?" title="What video game opening/ title sequence absolutely blew you away?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/stevenrama"> /u/stevenrama </a> <br/> <span><a href="https://youtu.be/x_czl2lrDsk?si=vz26Je7W2L4MoFt8">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iynys1/what_video_game_opening_title_sequence_absolutely/">[comments]</a></span> </td></tr></table>
+
+## Xbox’s Multiplatform Approach Benefits Both Devs And Players, Says Xbox Head
+ - [https://www.reddit.com/r/gaming/comments/1iyno45/xboxs_multiplatform_approach_benefits_both_devs](https://www.reddit.com/r/gaming/comments/1iyno45/xboxs_multiplatform_approach_benefits_both_devs)
+ - RSS feed: $source
+ - date published: 2025-02-26T13:36:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iyno45/xboxs_multiplatform_approach_benefits_both_devs/"> <img src="https://external-preview.redd.it/W_sUu8ill65OjJGev1FIGNhNJu0loXvSEnt19QfEO4c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9be37add9ac69e542ba540c157ff7bac30d955b3" alt="Xbox’s Multiplatform Approach Benefits Both Devs And Players, Says Xbox Head" title="Xbox’s Multiplatform Approach Benefits Both Devs And Players, Says Xbox Head" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FinalAfternoon5470"> /u/FinalAfternoon5470 </a> <br/> <span><a href="https://techcrawlr.com/xboxs-multiplatform-approach-benefits-both-devs-and-players-says-xbox-head/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iyno45/xboxs_multiplatform_approach_benefits_both_devs/">[comments]</a></span> </td></tr></table>
+
+## Controller Recommendations
+ - [https://www.reddit.com/r/gaming/comments/1iymfu6/controller_recommendations](https://www.reddit.com/r/gaming/comments/1iymfu6/controller_recommendations)
+ - RSS feed: $source
+ - date published: 2025-02-26T12:31:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys help a gamer out, I play on PS5, mostly Apex Legends on a regular basis. I&#39;m looking to buy a controller that is highly resistant to stick drift. I DO NOT WANT the DS Edge My budget is $200. Your input would be appreciated</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LividMathematician45"> /u/LividMathematician45 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1iymfu6/controller_recommendations/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iymfu6/controller_recommendations/">[comments]</a></span>
+
+## Let me introduce to you, all the currencies in PUBG
+ - [https://www.reddit.com/r/gaming/comments/1iykl6h/let_me_introduce_to_you_all_the_currencies_in_pubg](https://www.reddit.com/r/gaming/comments/1iykl6h/let_me_introduce_to_you_all_the_currencies_in_pubg)
+ - RSS feed: $source
+ - date published: 2025-02-26T10:33:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iykl6h/let_me_introduce_to_you_all_the_currencies_in_pubg/"> <img src="https://preview.redd.it/zza58lv6ogle1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6967a543c4bd4e452302480dfa31cc7e936e0f49" alt="Let me introduce to you, all the currencies in PUBG" title="Let me introduce to you, all the currencies in PUBG" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Presidentenn"> /u/Presidentenn </a> <br/> <span><a href="https://i.redd.it/zza58lv6ogle1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iykl6h/let_me_introduce_to_you_all_the_currencies_in_pubg/">[comments]</a></span> </td></tr></table>
+
+## RDR2 Main Story End
+ - [https://www.reddit.com/r/gaming/comments/1iyii93/rdr2_main_story_end](https://www.reddit.com/r/gaming/comments/1iyii93/rdr2_main_story_end)
+ - RSS feed: $source
+ - date published: 2025-02-26T07:59:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>If you, like me, managed to avoid having the ending of the main story spoiled, do not read further. </p> <p>For everyone else. This is years late, admittedly. I knew Arthur died in the story, heard that much. After finally going through full play through, all I can say is: I. Was. Not. Prepared. </p> <p>There are not many video game character deaths that hit me as hard as this one. Both the song for Arthur’s last ride and his final scene cut me deep. Holy crap. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ThePelky"> /u/ThePelky </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1iyii93/rdr2_main_story_end/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iyii93/rdr2_main_story_end/">[comments]</a></span>
+
+## The developers are really letting their feelings out with this one
+ - [https://www.reddit.com/r/gaming/comments/1iyigap/the_developers_are_really_letting_their_feelings](https://www.reddit.com/r/gaming/comments/1iyigap/the_developers_are_really_letting_their_feelings)
+ - RSS feed: $source
+ - date published: 2025-02-26T07:55:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iyigap/the_developers_are_really_letting_their_feelings/"> <img src="https://preview.redd.it/rl0sgjx5wfle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=80af59f448c733d033174ed1c9228be1e9bcd91c" alt="The developers are really letting their feelings out with this one" title="The developers are really letting their feelings out with this one" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FrierenKingSimp"> /u/FrierenKingSimp </a> <br/> <span><a href="https://i.redd.it/rl0sgjx5wfle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iyigap/the_developers_are_really_letting_their_feelings/">[comments]</a></span> </td></tr></table>
+
+## What are you playing Wednesday!
+ - [https://www.reddit.com/r/gaming/comments/1iyhp1m/what_are_you_playing_wednesday](https://www.reddit.com/r/gaming/comments/1iyhp1m/what_are_you_playing_wednesday)
+ - RSS feed: $source
+ - date published: 2025-02-26T07:00:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>What game&#39;s got your attention this week? What&#39;s great about it? What sucks? Tell us all about it! </p> <p>&#x200B;</p> <p>This thread is posted weekly on Wednesdays (adjustments made as needed).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1iyhp1m/what_are_you_playing_wednesday/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iyhp1m/what_are_you_playing_wednesday/">[comments]</a></span>
+
+## I'm starting to feel the urge to play Minecraft coming on again
+ - [https://www.reddit.com/r/gaming/comments/1iygonf/im_starting_to_feel_the_urge_to_play_minecraft](https://www.reddit.com/r/gaming/comments/1iygonf/im_starting_to_feel_the_urge_to_play_minecraft)
+ - RSS feed: $source
+ - date published: 2025-02-26T05:53:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iygonf/im_starting_to_feel_the_urge_to_play_minecraft/"> <img src="https://preview.redd.it/m1qqd176afle1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c18dede63f5873eacdd109540699bea63449e7a3" alt="I'm starting to feel the urge to play Minecraft coming on again" title="I'm starting to feel the urge to play Minecraft coming on again" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/A_Wild_Striker"> /u/A_Wild_Striker </a> <br/> <span><a href="https://i.redd.it/m1qqd176afle1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iygonf/im_starting_to_feel_the_urge_to_play_minecraft/">[comments]</a></span> </td></tr></table>
+
+## Why's there no modern beat-em-up comes close to The Bouncer?
+ - [https://www.reddit.com/r/gaming/comments/1iyfgas/whys_there_no_modern_beatemup_comes_close_to_the](https://www.reddit.com/r/gaming/comments/1iyfgas/whys_there_no_modern_beatemup_comes_close_to_the)
+ - RSS feed: $source
+ - date published: 2025-02-26T04:40:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>The Bouncer has the Whole Package for its time.</p> <p>It came out in 2000, with a evil syndicate space laser storyline.</p> <p>The fighting portion incorporated all the high/mid/low attacks, blocking durability, juggling for combos, and special skills unlocks from story mode events.</p> <p>There is also rpg elements of using stat points into each characters, and unlocking playable characters in the fighting game mode with selectable stages.</p> <p>Even the OST is a banger. Reminds me of a mix of jazz, metal, industrial, and electro.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KidOcelot"> /u/KidOcelot </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1iyfgas/whys_there_no_modern_beatemup_comes_close_to_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iyfgas/whys_there_no_modern_beatemup_comes_close_to_the/">[comments]</a></span>
+
+## What 'free' game have you spent most $$ on?
+ - [https://www.reddit.com/r/gaming/comments/1iye8hz/what_free_game_have_you_spent_most_on](https://www.reddit.com/r/gaming/comments/1iye8hz/what_free_game_have_you_spent_most_on)
+ - RSS feed: $source
+ - date published: 2025-02-26T03:34:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>As the title says, what was the game that in theory can be played without spending a single dollar, but you ended up shilling out a small fortune?</p> <p>For me it&#39;s a close race between EVE Online and Warframe.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OhforfsakeMJ"> /u/OhforfsakeMJ </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1iye8hz/what_free_game_have_you_spent_most_on/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iye8hz/what_free_game_have_you_spent_most_on/">[comments]</a></span>
+
+## Rockstar Vancouver Neon Sign 1/1
+ - [https://www.reddit.com/r/gaming/comments/1iyd8aw/rockstar_vancouver_neon_sign_11](https://www.reddit.com/r/gaming/comments/1iyd8aw/rockstar_vancouver_neon_sign_11)
+ - RSS feed: $source
+ - date published: 2025-02-26T02:42:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1iyd8aw/rockstar_vancouver_neon_sign_11/"> <img src="https://preview.redd.it/9ymvc2c8cele1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e542287dc56ef258aa2ac3dde574f0cda358fb63" alt="Rockstar Vancouver Neon Sign 1/1" title="Rockstar Vancouver Neon Sign 1/1" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sickleficker"> /u/sickleficker </a> <br/> <span><a href="https://i.redd.it/9ymvc2c8cele1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iyd8aw/rockstar_vancouver_neon_sign_11/">[comments]</a></span> </td></tr></table>
+
+## Monolith being shutdown creators if the nemesis system is exactly why gaming mechanics shouldn't be copyright
+ - [https://www.reddit.com/r/gaming/comments/1iyblhs/monolith_being_shutdown_creators_if_the_nemesis](https://www.reddit.com/r/gaming/comments/1iyblhs/monolith_being_shutdown_creators_if_the_nemesis)
+ - RSS feed: $source
+ - date published: 2025-02-26T01:21:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I don&#39;t know if this means wb holds the copyright, but this could literally mean the amazing system from shadow of Mordor may never be seen again.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sorry-Engineer8854"> /u/Sorry-Engineer8854 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1iyblhs/monolith_being_shutdown_creators_if_the_nemesis/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iyblhs/monolith_being_shutdown_creators_if_the_nemesis/">[comments]</a></span>
+
+## Which games have the coolest/most creative magic in them?
+ - [https://www.reddit.com/r/gaming/comments/1iyatub/which_games_have_the_coolestmost_creative_magic](https://www.reddit.com/r/gaming/comments/1iyatub/which_games_have_the_coolestmost_creative_magic)
+ - RSS feed: $source
+ - date published: 2025-02-26T00:43:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Be it visually stunning, unique spells, interesting ways to use it etc.</p> <p>What games come to your mind and why?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/One-Consequence-4130"> /u/One-Consequence-4130 </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1iyatub/which_games_have_the_coolestmost_creative_magic/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1iyatub/which_games_have_the_coolestmost_creative_magic/">[comments]</a></span>
+
