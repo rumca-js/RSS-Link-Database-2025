@@ -1,0 +1,254 @@
+# Source:Movie News and Discussion, URL:https://www.reddit.com/r/movies/.rss, language:en
+
+## Teresa Palmer Joins Liam Neeson In Orion’s Dark Comedy ‘4 Kids Walk Into A Bank’
+ - [https://www.reddit.com/r/movies/comments/1izpfj8/teresa_palmer_joins_liam_neeson_in_orions_dark](https://www.reddit.com/r/movies/comments/1izpfj8/teresa_palmer_joins_liam_neeson_in_orions_dark)
+ - RSS feed: $source
+ - date published: 2025-02-27T20:20:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izpfj8/teresa_palmer_joins_liam_neeson_in_orions_dark/"> <img src="https://external-preview.redd.it/HW6Toa2hoxUIybix1IU3qjf_4UXJ86_hROFeTeAnkM4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b882ea956a3ad61d8cfb068efb0d237dd85b516" alt="Teresa Palmer Joins Liam Neeson In Orion’s Dark Comedy ‘4 Kids Walk Into A Bank’" title="Teresa Palmer Joins Liam Neeson In Orion’s Dark Comedy ‘4 Kids Walk Into A Bank’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HotOne9364"> /u/HotOne9364 </a> <br/> <span><a href="https://deadline.com/2025/02/teresa-palmer-joins-liam-neeson-4-kids-walk-into-a-bank-1236303715/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izpfj8/teresa_palmer_joins_liam_neeson_in_orions_dark/">[comments]</a></span> </td></tr></table>
+
+## New Poster for 'The Legend of Ochi'
+ - [https://www.reddit.com/r/movies/comments/1izp1mu/new_poster_for_the_legend_of_ochi](https://www.reddit.com/r/movies/comments/1izp1mu/new_poster_for_the_legend_of_ochi)
+ - RSS feed: $source
+ - date published: 2025-02-27T20:04:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izp1mu/new_poster_for_the_legend_of_ochi/"> <img src="https://preview.redd.it/4old944zmqle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=593ba1d996028dcc562cb66f0562652b18bc6caa" alt="New Poster for 'The Legend of Ochi'" title="New Poster for 'The Legend of Ochi'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NoCulture3505"> /u/NoCulture3505 </a> <br/> <span><a href="https://i.redd.it/4old944zmqle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izp1mu/new_poster_for_the_legend_of_ochi/">[comments]</a></span> </td></tr></table>
+
+## Walt Disney was an FBI informant who ratted out his “communist” colleagues and made a deal with the FBI to portray them positively in his movies. What are some other crazy conspiracies in the movie industry?
+ - [https://www.reddit.com/r/movies/comments/1izoryi/walt_disney_was_an_fbi_informant_who_ratted_out](https://www.reddit.com/r/movies/comments/1izoryi/walt_disney_was_an_fbi_informant_who_ratted_out)
+ - RSS feed: $source
+ - date published: 2025-02-27T19:53:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>In case people didn&#39;t know:</p> <p><a href="https://www.nytimes.com/1993/05/06/movies/disney-link-to-the-fbi-and-hoover-is-disclosed.html?utm_source=perplexity">https://www.nytimes.com/1993/05/06/movies/disney-link-to-the-fbi-and-hoover-is-disclosed.html?utm_source=perplexity</a></p> <p>Like always this always comes out decades after the fact.</p> <p>Do you guys know of or have theories on any other conspiracies ?</p> <p>There is definitely a lot of funny business with money laundering for what I understand. Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UnderstandingThin40"> /u/UnderstandingThin40 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1izoryi/walt_disney_was_an_fbi_informant_who_ratted_out/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izoryi/walt_disney_was_an_fbi_informant_who_ratted_out/">[comments]</a></span>
+
+## In your opinion, which movie villain received the most satisfying justice by the end of the movie?
+ - [https://www.reddit.com/r/movies/comments/1izlm0j/in_your_opinion_which_movie_villain_received_the](https://www.reddit.com/r/movies/comments/1izlm0j/in_your_opinion_which_movie_villain_received_the)
+ - RSS feed: $source
+ - date published: 2025-02-27T17:42:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>For me, it’s Warden Norton from The Shawshank Redemption. </p> <p>The man laundered money to make himself rich, threatened the main character into continuing to help him launder, and shot an inmate to keep the main character imprisoned. </p> <p>By the end of the movie, our main character has escaped prison, collected over $370,000 of the laundered money, and Warden Norton committed suicide because he was going to be placed under arrest for several crimes. </p> <p>I’d say that’s pretty satisfying to watch. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TrashBitch96"> /u/TrashBitch96 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1izlm0j/in_your_opinion_which_movie_villain_received_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izlm0j/in_your_opinion_which_movie_villain_received_the/">[comments]</a></span>
+
+## First posters for 'Fear Street: Prom Queen'
+ - [https://www.reddit.com/r/movies/comments/1izl9vl/first_posters_for_fear_street_prom_queen](https://www.reddit.com/r/movies/comments/1izl9vl/first_posters_for_fear_street_prom_queen)
+ - RSS feed: $source
+ - date published: 2025-02-27T17:28:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izl9vl/first_posters_for_fear_street_prom_queen/"> <img src="https://preview.redd.it/hveiilbavple1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=471c2f3dacb1eb237c73a6d73001e80228b0de65" alt="First posters for 'Fear Street: Prom Queen'" title="First posters for 'Fear Street: Prom Queen'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JonasKahnwald11"> /u/JonasKahnwald11 </a> <br/> <span><a href="https://i.redd.it/hveiilbavple1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izl9vl/first_posters_for_fear_street_prom_queen/">[comments]</a></span> </td></tr></table>
+
+## We're All Gonna Die Official Trailer | RocketJump
+ - [https://www.reddit.com/r/movies/comments/1izl531/were_all_gonna_die_official_trailer_rocketjump](https://www.reddit.com/r/movies/comments/1izl531/were_all_gonna_die_official_trailer_rocketjump)
+ - RSS feed: $source
+ - date published: 2025-02-27T17:23:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izl531/were_all_gonna_die_official_trailer_rocketjump/"> <img src="https://external-preview.redd.it/zRL8pR5pZ3YVvnpu8Myg7f_XFBJ8jaOHZuDCsgMnxHY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=70f549236e6fa781cb3b99014aa61c6adce41e3d" alt="We're All Gonna Die Official Trailer | RocketJump" title="We're All Gonna Die Official Trailer | RocketJump" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nftskeptics"> /u/nftskeptics </a> <br/> <span><a href="https://youtu.be/zoYVfdP0oOc?si=5xwAtBCo3KB-jdNz">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izl531/were_all_gonna_die_official_trailer_rocketjump/">[comments]</a></span> </td></tr></table>
+
+## The Assessment - Official Trailer | Elizabeth Olsen, Alicia Vikander, Himesh Patel
+ - [https://www.reddit.com/r/movies/comments/1izky1t/the_assessment_official_trailer_elizabeth_olsen](https://www.reddit.com/r/movies/comments/1izky1t/the_assessment_official_trailer_elizabeth_olsen)
+ - RSS feed: $source
+ - date published: 2025-02-27T17:15:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izky1t/the_assessment_official_trailer_elizabeth_olsen/"> <img src="https://external-preview.redd.it/e650JN3Fa2Agi2pUYsst9TreQusURuwbUzrFKmGalu4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=62527c59c157c4b4274ae3398cf70200cb1f81ad" alt="The Assessment - Official Trailer | Elizabeth Olsen, Alicia Vikander, Himesh Patel" title="The Assessment - Official Trailer | Elizabeth Olsen, Alicia Vikander, Himesh Patel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Antrikshy"> /u/Antrikshy </a> <br/> <span><a href="https://www.youtube.com/watch?v=bYmELiSalx0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izky1t/the_assessment_official_trailer_elizabeth_olsen/">[comments]</a></span> </td></tr></table>
+
+## What’s a 10/10 movie that you would NEVER watch again?
+ - [https://www.reddit.com/r/movies/comments/1izksbg/whats_a_1010_movie_that_you_would_never_watch](https://www.reddit.com/r/movies/comments/1izksbg/whats_a_1010_movie_that_you_would_never_watch)
+ - RSS feed: $source
+ - date published: 2025-02-27T17:08:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>Personally, The Father (2020) hits home so strongly that I could only watch it once. Absolutely devastating film that I couldn&#39;t say anything bad about it. Anthony Hopkins deserved all the awards he received.</p> <p>I wonder what other 10/10 movies have people watched that left them with a &quot;I loved this, but I&#39;m never going to watch it again&quot; feeling.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/msbreviews"> /u/msbreviews </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1izksbg/whats_a_1010_movie_that_you_would_never_watch/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izksbg/whats_a_1010_movie_that_you_would_never_watch/">[comments]</a></span>
+
+## Okay, look… D&D: Honor Among Thieves is amazing
+ - [https://www.reddit.com/r/movies/comments/1izjgq5/okay_look_dd_honor_among_thieves_is_amazing](https://www.reddit.com/r/movies/comments/1izjgq5/okay_look_dd_honor_among_thieves_is_amazing)
+ - RSS feed: $source
+ - date published: 2025-02-27T16:14:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>I don’t play DnD, and I’m not a huge Chris Pine fan (or at all) but here’s what’s doing it for me in this movie:</p> <p>1) A badass female who loves potatoes as much as I do (does Michelle Rodrigues EVER consider other kinds of roles? Not that I want her to.)</p> <p>2) Great lines delivered exceptionally well and with perfect timing by Mr. CP.</p> <p>3) A fat dragon.</p> <p>4) Above average special effects, with the exception of one potato-throwing scene.</p> <p>5) Running joke about magic that echoes what I always think, but doesn’t drag on past its usefulness.</p> <p>6) A complex plot that’s clear enough not to feel complicated.</p> <p>7) An ending I should have seen coming but still made me cry. YES it’s okay to cry over a fat dragon movie, although the fat dragon didn’t make me cry and only featured in one of the quests.</p> <p>I look forward to all the comments agreeing with me.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://
+
+## 'Beekeeper 2' Is in the Works at Miramax
+ - [https://www.reddit.com/r/movies/comments/1izj8a9/beekeeper_2_is_in_the_works_at_miramax](https://www.reddit.com/r/movies/comments/1izj8a9/beekeeper_2_is_in_the_works_at_miramax)
+ - RSS feed: $source
+ - date published: 2025-02-27T16:04:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izj8a9/beekeeper_2_is_in_the_works_at_miramax/"> <img src="https://external-preview.redd.it/3VHFQqMQP1e2JjWFcMqEeI4Fn7pdgUGRHODW9gppUKU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c7e631d6dbd94f5292f25fa85aff1d99ce84f003" alt="'Beekeeper 2' Is in the Works at Miramax" title="'Beekeeper 2' Is in the Works at Miramax" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NoCulture3505"> /u/NoCulture3505 </a> <br/> <span><a href="https://deadline.com/2025/02/jason-statham-beekeeper-2-timo-tjahjanto-1236303712/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izj8a9/beekeeper_2_is_in_the_works_at_miramax/">[comments]</a></span> </td></tr></table>
+
+## Shrek 5 Teaser
+ - [https://www.reddit.com/r/movies/comments/1izj89w/shrek_5_teaser](https://www.reddit.com/r/movies/comments/1izj89w/shrek_5_teaser)
+ - RSS feed: $source
+ - date published: 2025-02-27T16:04:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izj89w/shrek_5_teaser/"> <img src="https://external-preview.redd.it/l7CxQ1KsQV_FRBNd3EvrppUkM4C5cnprgXxYzLOC6ik.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9835d6ee7f2c79c7df509ed1100196bff0b4c3b3" alt="Shrek 5 Teaser" title="Shrek 5 Teaser" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cruelsummerbummer"> /u/cruelsummerbummer </a> <br/> <span><a href="https://youtu.be/KbiwL74KyJQ?feature=shared">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izj89w/shrek_5_teaser/">[comments]</a></span> </td></tr></table>
+
+## Austin Butler And Saoirse Ronan To Star In A24's 'Deep Cuts'
+ - [https://www.reddit.com/r/movies/comments/1izj52n/austin_butler_and_saoirse_ronan_to_star_in_a24s](https://www.reddit.com/r/movies/comments/1izj52n/austin_butler_and_saoirse_ronan_to_star_in_a24s)
+ - RSS feed: $source
+ - date published: 2025-02-27T16:01:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izj52n/austin_butler_and_saoirse_ronan_to_star_in_a24s/"> <img src="https://external-preview.redd.it/iKS1EPI80lD6N1eXmppUhjKovUWfo-nH6E7_jnPyCCc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=55e055ebc57b1883f23345ffbb4391e5e32a607b" alt="Austin Butler And Saoirse Ronan To Star In A24's 'Deep Cuts'" title="Austin Butler And Saoirse Ronan To Star In A24's 'Deep Cuts'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NoCulture3505"> /u/NoCulture3505 </a> <br/> <span><a href="https://deadline.com/2025/02/saoirse-ronan-austin-butler-deep-cuts-a24-sean-durkin-1236303345/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izj52n/austin_butler_and_saoirse_ronan_to_star_in_a24s/">[comments]</a></span> </td></tr></table>
+
+## Zendaya to Star in ‘Shrek 5’ as Shrek’s Daughter
+ - [https://www.reddit.com/r/movies/comments/1izj4eo/zendaya_to_star_in_shrek_5_as_shreks_daughter](https://www.reddit.com/r/movies/comments/1izj4eo/zendaya_to_star_in_shrek_5_as_shreks_daughter)
+ - RSS feed: $source
+ - date published: 2025-02-27T16:00:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izj4eo/zendaya_to_star_in_shrek_5_as_shreks_daughter/"> <img src="https://external-preview.redd.it/1YeZkhg9AIZnnXReteZGdU5fHWoMLQY5wXJeq_RQPGo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1991306475db16f24213f5b04630a4808c54979c" alt="Zendaya to Star in ‘Shrek 5’ as Shrek’s Daughter" title="Zendaya to Star in ‘Shrek 5’ as Shrek’s Daughter" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://www.hollywoodreporter.com/movies/movie-news/zendaya-to-star-shrek-5-1236132356/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izj4eo/zendaya_to_star_in_shrek_5_as_shreks_daughter/">[comments]</a></span> </td></tr></table>
+
+## Sacramento | Official Trailer (HD) | Vertical
+ - [https://www.reddit.com/r/movies/comments/1izil7i/sacramento_official_trailer_hd_vertical](https://www.reddit.com/r/movies/comments/1izil7i/sacramento_official_trailer_hd_vertical)
+ - RSS feed: $source
+ - date published: 2025-02-27T15:38:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izil7i/sacramento_official_trailer_hd_vertical/"> <img src="https://external-preview.redd.it/-B0aajbEwNNIBCUvCT06BwivBYR8TL4h6j_USYM_r24.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1bdccc9bef5b56cede2a8253394a651f431cdcb4" alt="Sacramento | Official Trailer (HD) | Vertical" title="Sacramento | Official Trailer (HD) | Vertical" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NoCulture3505"> /u/NoCulture3505 </a> <br/> <span><a href="https://www.youtube.com/watch?v=NoQNYGJMSeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izil7i/sacramento_official_trailer_hd_vertical/">[comments]</a></span> </td></tr></table>
+
+## Poster for 'Tornado' - Starring Tim Roth and Jack Lowden
+ - [https://www.reddit.com/r/movies/comments/1izijww/poster_for_tornado_starring_tim_roth_and_jack](https://www.reddit.com/r/movies/comments/1izijww/poster_for_tornado_starring_tim_roth_and_jack)
+ - RSS feed: $source
+ - date published: 2025-02-27T15:37:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izijww/poster_for_tornado_starring_tim_roth_and_jack/"> <img src="https://preview.redd.it/2rks3ezbbple1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ad3be7238615b12eaa6f2497f69a6ce1a1048f3" alt="Poster for 'Tornado' - Starring Tim Roth and Jack Lowden" title="Poster for 'Tornado' - Starring Tim Roth and Jack Lowden" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JonasKahnwald11"> /u/JonasKahnwald11 </a> <br/> <span><a href="https://i.redd.it/2rks3ezbbple1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izijww/poster_for_tornado_starring_tim_roth_and_jack/">[comments]</a></span> </td></tr></table>
+
+## First poster for 'SACRAMENTO' - Starring Michael Cera, Michael Angarano, Maya Erskine and Kristen Stewart.
+ - [https://www.reddit.com/r/movies/comments/1izi2e9/first_poster_for_sacramento_starring_michael_cera](https://www.reddit.com/r/movies/comments/1izi2e9/first_poster_for_sacramento_starring_michael_cera)
+ - RSS feed: $source
+ - date published: 2025-02-27T15:16:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izi2e9/first_poster_for_sacramento_starring_michael_cera/"> <img src="https://preview.redd.it/e6x7nwvn7ple1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7bd7eda3802bfdc81ffbeb642962c5cec9298a20" alt="First poster for 'SACRAMENTO' - Starring Michael Cera, Michael Angarano, Maya Erskine and Kristen Stewart." title="First poster for 'SACRAMENTO' - Starring Michael Cera, Michael Angarano, Maya Erskine and Kristen Stewart." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JonasKahnwald11"> /u/JonasKahnwald11 </a> <br/> <span><a href="https://i.redd.it/e6x7nwvn7ple1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izi2e9/first_poster_for_sacramento_starring_michael_cera/">[comments]</a></span> </td></tr></table>
+
+## Hey /r/movies! - I'm Osgood Perkins, writer and director of THE MONKEY. I've also directed films like LONGLEGS, THE BLACKCOAT'S DAUGHTER, and GRETEL & HANSEL. Ask me anything.
+ - [https://www.reddit.com/r/movies/comments/1izhqr1/hey_rmovies_im_osgood_perkins_writer_and_director](https://www.reddit.com/r/movies/comments/1izhqr1/hey_rmovies_im_osgood_perkins_writer_and_director)
+ - RSS feed: $source
+ - date published: 2025-02-27T15:01:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izhqr1/hey_rmovies_im_osgood_perkins_writer_and_director/"> <img src="https://preview.redd.it/49qb0gy35ple1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dffa7bb1c11e7272c7401e2b086d961fa76482a3" alt="Hey /r/movies! - I'm Osgood Perkins, writer and director of THE MONKEY. I've also directed films like LONGLEGS, THE BLACKCOAT'S DAUGHTER, and GRETEL &amp; HANSEL. Ask me anything." title="Hey /r/movies! - I'm Osgood Perkins, writer and director of THE MONKEY. I've also directed films like LONGLEGS, THE BLACKCOAT'S DAUGHTER, and GRETEL &amp; HANSEL. Ask me anything." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheMonkey-OzPerkins"> /u/TheMonkey-OzPerkins </a> <br/> <span><a href="https://i.redd.it/49qb0gy35ple1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izhqr1/hey_rmovies_im_osgood_perkins_writer_and_director/">[comments]</a></span> </td></
+
+## Death Of A Unicorn | Official Trailer 2 | A24
+ - [https://www.reddit.com/r/movies/comments/1izgetu/death_of_a_unicorn_official_trailer_2_a24](https://www.reddit.com/r/movies/comments/1izgetu/death_of_a_unicorn_official_trailer_2_a24)
+ - RSS feed: $source
+ - date published: 2025-02-27T13:59:30+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://www.youtube.com/watch?v=62pyfjnzIuc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izgetu/death_of_a_unicorn_official_trailer_2_a24/">[comments]</a></span>
+
+## Hey r/movies! I'm Rory Karpf, the writer, director, and producer of the thriller Grace Point. Joining me are cast members Sean Carrigan and Din Thomas. We're excited to be here to discuss the film and answer your questions. Ask us anything! (Back at 5 PM ET today)
+ - [https://www.reddit.com/r/movies/comments/1izg5zf/hey_rmovies_im_rory_karpf_the_writer_director_and](https://www.reddit.com/r/movies/comments/1izg5zf/hey_rmovies_im_rory_karpf_the_writer_director_and)
+ - RSS feed: $source
+ - date published: 2025-02-27T13:47:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izg5zf/hey_rmovies_im_rory_karpf_the_writer_director_and/"> <img src="https://preview.redd.it/feyxfoourole1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b5426920d7b3e3c338fc488aca997b7a7355def8" alt="Hey r/movies! I'm Rory Karpf, the writer, director, and producer of the thriller Grace Point. Joining me are cast members Sean Carrigan and Din Thomas. We're excited to be here to discuss the film and answer your questions. Ask us anything! (Back at 5 PM ET today)" title="Hey r/movies! I'm Rory Karpf, the writer, director, and producer of the thriller Grace Point. Joining me are cast members Sean Carrigan and Din Thomas. We're excited to be here to discuss the film and answer your questions. Ask us anything! (Back at 5 PM ET today)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EntSquad"> /u/EntSquad </a> <br/> <span><a href="https://i.redd.it/feyxfoourole1.jpeg">[link]</a></span> &
+
+## Actors or Actresses that NEVER phone it in
+ - [https://www.reddit.com/r/movies/comments/1izg5j2/actors_or_actresses_that_never_phone_it_in](https://www.reddit.com/r/movies/comments/1izg5j2/actors_or_actresses_that_never_phone_it_in)
+ - RSS feed: $source
+ - date published: 2025-02-27T13:46:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>Sometimes you take a job for the cheque no problem it happens but sometimes you can tell the performer doesn’t believe in what they’re delivering (whether on screen or doing press for the project).Which actor or actress is always showing up ready to deliver and you never feel like they’re just reading lines </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Turnip-9035"> /u/Ok-Turnip-9035 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1izg5j2/actors_or_actresses_that_never_phone_it_in/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izg5j2/actors_or_actresses_that_never_phone_it_in/">[comments]</a></span>
+
+## Warner Bros. Discovery Sees Q4 Loss On $1.9 Billion in Charges, Adds 6.4 Million Streaming Subscribers
+ - [https://www.reddit.com/r/movies/comments/1izfi65/warner_bros_discovery_sees_q4_loss_on_19_billion](https://www.reddit.com/r/movies/comments/1izfi65/warner_bros_discovery_sees_q4_loss_on_19_billion)
+ - RSS feed: $source
+ - date published: 2025-02-27T13:15:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izfi65/warner_bros_discovery_sees_q4_loss_on_19_billion/"> <img src="https://external-preview.redd.it/BUuLKcgyVWorcv8vCF-NwZ_smgpgICgTR-3Ji3K_uTg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=291fb736b49ba423202988445b79889ab0dcf15d" alt="Warner Bros. Discovery Sees Q4 Loss On $1.9 Billion in Charges, Adds 6.4 Million Streaming Subscribers" title="Warner Bros. Discovery Sees Q4 Loss On $1.9 Billion in Charges, Adds 6.4 Million Streaming Subscribers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lawrencedun2002"> /u/lawrencedun2002 </a> <br/> <span><a href="https://variety.com/2025/tv/news/warner-bros-discovery-q4-loss-1-9-billion-charges-adds-6-4-million-subscribers-1236322269/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izfi65/warner_bros_discovery_sees_q4_loss_on_19_billion/">[comments]</a></span> </td></tr></table>
+
+## ‘The Lord of the Rings: The Hunt for Gollum’ Delayed to December 2027; Director Andy Serkis Confirms Production Begins in 2026
+ - [https://www.reddit.com/r/movies/comments/1ize8zz/the_lord_of_the_rings_the_hunt_for_gollum_delayed](https://www.reddit.com/r/movies/comments/1ize8zz/the_lord_of_the_rings_the_hunt_for_gollum_delayed)
+ - RSS feed: $source
+ - date published: 2025-02-27T12:08:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1ize8zz/the_lord_of_the_rings_the_hunt_for_gollum_delayed/"> <img src="https://external-preview.redd.it/Ih668QjjumPk-ozspjLxywZlgtKs7Vwhpzh9DIFoPN8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=25d984b6d610a13ce68f3b5f3d93a5ecc1d13b90" alt="‘The Lord of the Rings: The Hunt for Gollum’ Delayed to December 2027; Director Andy Serkis Confirms Production Begins in 2026" title="‘The Lord of the Rings: The Hunt for Gollum’ Delayed to December 2027; Director Andy Serkis Confirms Production Begins in 2026" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://thedirect.com/article/hunt-for-gollum-movie-lord-of-the-rings-release-official">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1ize8zz/the_lord_of_the_rings_the_hunt_for_gollum_delayed/">[comments]</a></span> </td></tr></table>
+
+## Favorite Gene Hackman film?
+ - [https://www.reddit.com/r/movies/comments/1izd6b1/favorite_gene_hackman_film](https://www.reddit.com/r/movies/comments/1izd6b1/favorite_gene_hackman_film)
+ - RSS feed: $source
+ - date published: 2025-02-27T10:59:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>RIP to one of the oldest Hollywood legends.</p> <p>Personally, I enjoy Mississippi Burning, but admittedly I’m unaware of his entire history. Enlighten those of us that may have overlooked his filmography, what are some classic Gene Hackman movies. A day of binging his movies would be nice for a sort of tribute.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Throwawaychicksbeach"> /u/Throwawaychicksbeach </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1izd6b1/favorite_gene_hackman_film/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izd6b1/favorite_gene_hackman_film/">[comments]</a></span>
+
+## Warner Bros. and Sony Drop Rivalry and Join Forces Behind Las Vegas Studio
+ - [https://www.reddit.com/r/movies/comments/1izckzt/warner_bros_and_sony_drop_rivalry_and_join_forces](https://www.reddit.com/r/movies/comments/1izckzt/warner_bros_and_sony_drop_rivalry_and_join_forces)
+ - RSS feed: $source
+ - date published: 2025-02-27T10:17:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izckzt/warner_bros_and_sony_drop_rivalry_and_join_forces/"> <img src="https://external-preview.redd.it/zpMj3mzMTCTtXyDqmHTPO6ihscVGQZiOwwZLVRvJCy4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2eab2e9035a6d6425333a581a6e6e80393522110" alt="Warner Bros. and Sony Drop Rivalry and Join Forces Behind Las Vegas Studio" title="Warner Bros. and Sony Drop Rivalry and Join Forces Behind Las Vegas Studio" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zhukov-74"> /u/Zhukov-74 </a> <br/> <span><a href="https://variety.com/2025/film/news/warner-bros-sony-las-vegas-studio-summerlin-1236321410/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izckzt/warner_bros_and_sony_drop_rivalry_and_join_forces/">[comments]</a></span> </td></tr></table>
+
+## Variety Loses Bid to Dismiss Francis Ford Coppola Defamation Lawsuit
+ - [https://www.reddit.com/r/movies/comments/1izbwso/variety_loses_bid_to_dismiss_francis_ford_coppola](https://www.reddit.com/r/movies/comments/1izbwso/variety_loses_bid_to_dismiss_francis_ford_coppola)
+ - RSS feed: $source
+ - date published: 2025-02-27T09:28:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izbwso/variety_loses_bid_to_dismiss_francis_ford_coppola/"> <img src="https://external-preview.redd.it/M6oEk3MVX-Cd0mIb7bI4g1csNkGxj8rzz9g_nZJrET8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f86822915af3ed512ed2c112ec493e64f90306d" alt="Variety Loses Bid to Dismiss Francis Ford Coppola Defamation Lawsuit" title="Variety Loses Bid to Dismiss Francis Ford Coppola Defamation Lawsuit" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Branagh-Doyle"> /u/Branagh-Doyle </a> <br/> <span><a href="https://www.hollywoodreporter.com/business/business-news/variety-francis-ford-coppola-defamation-lawsuit-megalopolis-misconduct-1236148112/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izbwso/variety_loses_bid_to_dismiss_francis_ford_coppola/">[comments]</a></span> </td></tr></table>
+
+## Should voting members of award shows be banned if they don't watch all the movies?
+ - [https://www.reddit.com/r/movies/comments/1izbf9y/should_voting_members_of_award_shows_be_banned_if](https://www.reddit.com/r/movies/comments/1izbf9y/should_voting_members_of_award_shows_be_banned_if)
+ - RSS feed: $source
+ - date published: 2025-02-27T08:51:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>As usual around this time of the year, there&#39;s a bunch of anonymous Oscar voters being interviewed about their picks and, sadly, every year we get a massive number of members missing out on most films. I don&#39;t get it. They&#39;re in a highly privileged position, they&#39;re able to see and vote on literally every single movie nominated for an Oscar, and they don&#39;t even watch all Best Picture nominees? How? Why?</p> <p>Personally, I don&#39;t believe an awards voter should be obligated to watch *every* film nominated across *all* categories, even though that should be their aim. But the bare minimum should be to watch *all* Best Picture nominees and, if they&#39;re actual artists, *all* nominees from their respective area - e.g. if they&#39;re an actor, they should watch *all* movies with people nominated for the acting categories. Ideally, they would watch everything in the categories they&#39;re voting on, that should be the base rule. I
+
+## Oscar-winning actor Gene Hackman and wife found dead at home | UK News
+ - [https://www.reddit.com/r/movies/comments/1izban0/oscarwinning_actor_gene_hackman_and_wife_found](https://www.reddit.com/r/movies/comments/1izban0/oscarwinning_actor_gene_hackman_and_wife_found)
+ - RSS feed: $source
+ - date published: 2025-02-27T08:41:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izban0/oscarwinning_actor_gene_hackman_and_wife_found/"> <img src="https://external-preview.redd.it/YRfrYk9uzud4fkhKWSRtiymy5GXOeirM81xAIAqADXU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=50f2df8388fdbe3fba143c22164fbdde89b726a3" alt="Oscar-winning actor Gene Hackman and wife found dead at home | UK News" title="Oscar-winning actor Gene Hackman and wife found dead at home | UK News" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mrcmnt"> /u/mrcmnt </a> <br/> <span><a href="https://news.sky.com/story/oscar-winning-actor-gene-hackman-and-wife-found-dead-at-home-13317861">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izban0/oscarwinning_actor_gene_hackman_and_wife_found/">[comments]</a></span> </td></tr></table>
+
+## James Bond Producers Allegedly Turned Down Christopher Nolan, Who Ended Up Making Oppenheimer Instead - IGN
+ - [https://www.reddit.com/r/movies/comments/1izb7kj/james_bond_producers_allegedly_turned_down](https://www.reddit.com/r/movies/comments/1izb7kj/james_bond_producers_allegedly_turned_down)
+ - RSS feed: $source
+ - date published: 2025-02-27T08:35:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izb7kj/james_bond_producers_allegedly_turned_down/"> <img src="https://external-preview.redd.it/fKdiBRNohfjJi8jHCdF_czhD13ctimGVlRrgpACXwkI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e1035249562821019ff1e5472bf83e329f957f27" alt="James Bond Producers Allegedly Turned Down Christopher Nolan, Who Ended Up Making Oppenheimer Instead - IGN" title="James Bond Producers Allegedly Turned Down Christopher Nolan, Who Ended Up Making Oppenheimer Instead - IGN" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Adept-Sweet7825"> /u/Adept-Sweet7825 </a> <br/> <span><a href="https://www.ign.com/articles/james-bond-producers-allegedly-turned-down-christopher-nolan-who-ended-up-making-oppenheimer-instead">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izb7kj/james_bond_producers_allegedly_turned_down/">[comments]</a></span> </td></tr></table>
+
+## Gene Hackman, his wife, and his dog found dead in Santa Fe home
+ - [https://www.reddit.com/r/movies/comments/1izalm8/gene_hackman_his_wife_and_his_dog_found_dead_in](https://www.reddit.com/r/movies/comments/1izalm8/gene_hackman_his_wife_and_his_dog_found_dead_in)
+ - RSS feed: $source
+ - date published: 2025-02-27T07:48:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1izalm8/gene_hackman_his_wife_and_his_dog_found_dead_in/"> <img src="https://external-preview.redd.it/zhrCqcPrgiHPCnXeXoe9KXKJKn1Z61YVsccIX19A4P8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=244f62462970055f2994c9a259a7eb8de4c02006" alt="Gene Hackman, his wife, and his dog found dead in Santa Fe home" title="Gene Hackman, his wife, and his dog found dead in Santa Fe home" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tremendothegreat"> /u/tremendothegreat </a> <br/> <span><a href="https://www.santafenewmexican.com/news/local_news/sheriff-gene-hackman-wife-found-dead-in-santa-fe-home-no-foul-play-suspected/article_2ea8855a-f4b8-11ef-b501-73232a2b5213.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1izalm8/gene_hackman_his_wife_and_his_dog_found_dead_in/">[comments]</a></span> </td></tr></table>
+
+## James Marsden says he wants to play Frank Sinatra in a biopic under the condition he uses his actual singing voice.
+ - [https://www.reddit.com/r/movies/comments/1iza2uq/james_marsden_says_he_wants_to_play_frank_sinatra](https://www.reddit.com/r/movies/comments/1iza2uq/james_marsden_says_he_wants_to_play_frank_sinatra)
+ - RSS feed: $source
+ - date published: 2025-02-27T07:09:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iza2uq/james_marsden_says_he_wants_to_play_frank_sinatra/"> <img src="https://external-preview.redd.it/0q_u48U26BuCh0ZNCqKW0KvYSRLXeCNPNkZ2h1_5qf4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=91f8af97809e711b09689573266998d3ec85c6d1" alt="James Marsden says he wants to play Frank Sinatra in a biopic under the condition he uses his actual singing voice." title="James Marsden says he wants to play Frank Sinatra in a biopic under the condition he uses his actual singing voice." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Robemilak"> /u/Robemilak </a> <br/> <span><a href="https://www.hollywoodreporter.com/movies/movie-news/james-marsden-frank-sinatra-biopic-1236148660/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iza2uq/james_marsden_says_he_wants_to_play_frank_sinatra/">[comments]</a></span> </td></tr></table>
+
+## Trilogies where the 3rd movie is the best
+ - [https://www.reddit.com/r/movies/comments/1iz7g5m/trilogies_where_the_3rd_movie_is_the_best](https://www.reddit.com/r/movies/comments/1iz7g5m/trilogies_where_the_3rd_movie_is_the_best)
+ - RSS feed: $source
+ - date published: 2025-02-27T04:24:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>It seems to me in most cases of movie trilogies that either the 1st or 2nd are commonly considered the best entries. But which in which trilogies do you consider the 3rd movie to be the best one?</p> <p>IMO I feel that&#39;s the case in these trilogies I like, and I&#39;d love to hear your picks!</p> <ul> <li>Star Wars Prequel Trilogy: Episode III – Revenge Of The Sith</li> <li>Lord Of The Rings Trilogy: Return Of The King</li> <li>Sergio Leone&#39;s Dollars Trilogy: The Good, The Bad, And The Ugly</li> </ul> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Anakin5kywalker"> /u/Anakin5kywalker </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iz7g5m/trilogies_where_the_3rd_movie_is_the_best/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iz7g5m/trilogies_where_the_3rd_movie_is_the_best/">[comments]</a></span>
+
+## Paramount Rolling Back DEI Initiatives to Comply With Trump Mandates
+ - [https://www.reddit.com/r/movies/comments/1iz7a5b/paramount_rolling_back_dei_initiatives_to_comply](https://www.reddit.com/r/movies/comments/1iz7a5b/paramount_rolling_back_dei_initiatives_to_comply)
+ - RSS feed: $source
+ - date published: 2025-02-27T04:14:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iz7a5b/paramount_rolling_back_dei_initiatives_to_comply/"> <img src="https://external-preview.redd.it/si7V7aXfaRMwb1w6oaZ2uhrOF8VP3dvf34rPoHF-M9A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1bb79232f36245399c60562be4145a39089cfe3c" alt="Paramount Rolling Back DEI Initiatives to Comply With Trump Mandates" title="Paramount Rolling Back DEI Initiatives to Comply With Trump Mandates" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Vanderlyley"> /u/Vanderlyley </a> <br/> <span><a href="https://variety.com/2025/biz/news/paramount-eliminating-dei-trump-1236321790/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iz7a5b/paramount_rolling_back_dei_initiatives_to_comply/">[comments]</a></span> </td></tr></table>
+
+## The movie flow is fucking amazing.
+ - [https://www.reddit.com/r/movies/comments/1iz4y5u/the_movie_flow_is_fucking_amazing](https://www.reddit.com/r/movies/comments/1iz4y5u/the_movie_flow_is_fucking_amazing)
+ - RSS feed: $source
+ - date published: 2025-02-27T02:11:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys! Just watched the movie flow, the one with the black cat, and I am so glad I didn&#39;t watch it with my grandparents! cuase hoo boy that was rough.</p> <p>Great movie, but it was so sad I was crying, screaming, and not having the best time. It was the best animation I’ve ever seen, and it was quite a journey.</p> <p>The reason I am glad we didn’t watch that at the last sleepover, is that it wouldn’t have been the right setting, right time, or most importantly, right place. Just me and mom, crying like full grown adults, at this movie. If you want to watch it, you can, but brace yourself, it has a safer end then you would expect.</p> <p>The thumbnail and the trailer throws you off guard. You think it’ll be a movie that, this cat makes friends, figures out how to drain the flood; happy ending. YOU WOULD BE WRONG</p> <p>I won’t spoil unless you want me to, but holy.</p> <p>(Sorry I vented a little lol)</p> </div><!-- SC_ON --> &#32; submitted 
+
+## The Oral History of “In the Mouth of Madness”
+ - [https://www.reddit.com/r/movies/comments/1iz42w1/the_oral_history_of_in_the_mouth_of_madness](https://www.reddit.com/r/movies/comments/1iz42w1/the_oral_history_of_in_the_mouth_of_madness)
+ - RSS feed: $source
+ - date published: 2025-02-27T01:27:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1iz42w1/the_oral_history_of_in_the_mouth_of_madness/"> <img src="https://external-preview.redd.it/a6geojiihwDGAkF1O5tHwlkNB7hlNYyBNwnpRI8tFEA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b0ae9018d56669e8234edc6b43d40c1f0c28e2f" alt="The Oral History of “In the Mouth of Madness”" title="The Oral History of “In the Mouth of Madness”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JannTosh50"> /u/JannTosh50 </a> <br/> <span><a href="https://www.inverse.com/entertainment/in-the-mouth-of-madness-oral-history">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iz42w1/the_oral_history_of_in_the_mouth_of_madness/">[comments]</a></span> </td></tr></table>
+
+## The Great Race (1965)
+ - [https://www.reddit.com/r/movies/comments/1iz3hwy/the_great_race_1965](https://www.reddit.com/r/movies/comments/1iz3hwy/the_great_race_1965)
+ - RSS feed: $source
+ - date published: 2025-02-27T00:59:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just got done watching this film and it’s a classic, it’s one of the funniest films ever made. A spectacular land race from New York to Paris in the early 20th century is planned, the two main competitors being the handsome, dashing hero in white, The Great Leslie (Tony Curtis), and the dastardly, black-suited Professor Fate (Jack Lemmon). While Fate&#39;s sidekick, Max (Peter Falk), attempts to sabotage Leslie and the other racers, Leslie finds an unlikely ally in Maggie DuBois (Natalie Wood), a suffragette and journalist-turned-racer whose car breaks down halfway through the event. Tony Curtis and Natalie Wood are awesome together. Jack Lemmon and Peter Falk come off likable even though they are the villains of the film and their chemistry is great. It also has one of the best pie fights in cinema. I also loved how the film played out like a live action cartoon.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/
+
+## I Love You To Death (1990)
+ - [https://www.reddit.com/r/movies/comments/1iz2sfe/i_love_you_to_death_1990](https://www.reddit.com/r/movies/comments/1iz2sfe/i_love_you_to_death_1990)
+ - RSS feed: $source
+ - date published: 2025-02-27T00:25:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>This film is one of the most underrated comedies, I think it’s absolutely hilarious, Kevin Kline plays such a convincing Italian and is so funny in the film, and William Hurt and Keanu Reeves are the stand out in the whole film, every scene with them is just hilarious, plus River Phoenix is also great in it, I love dark comedies and this one is awesome!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/These_Feed_2616"> /u/These_Feed_2616 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1iz2sfe/i_love_you_to_death_1990/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1iz2sfe/i_love_you_to_death_1990/">[comments]</a></span>
+

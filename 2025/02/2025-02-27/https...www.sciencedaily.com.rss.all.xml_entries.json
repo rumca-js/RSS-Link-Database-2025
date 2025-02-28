@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-27T12:58:18+00:00",
+        "description": "Recent advances in astronomical observations have found a significant number of extrasolar planets that can sustain surface water, and the search for extraterrestrial life on such planets is gaining momentum. A team of astrobiologists has proposed a novel approach for detecting life on ocean planets. By conducting laboratory measurements and satellite remote sensing analyses, they have demonstrated that the reflectance spectrum of floating vegetation could serve as a promising biosignature. Seasonal variations in floating vegetation may provide a particularly effective means for remote detection.",
+        "id": 2210714,
+        "language": "en-us",
+        "link": "https://www.sciencedaily.com/releases/2025/02/250227125818.htm",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 188,
+        "source_url": "https://www.sciencedaily.com/rss/all.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Can we find floating vegetation on ocean planets?",
+        "vote": 0
+    }
+]

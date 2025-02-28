@@ -1,0 +1,184 @@
+# Source:/r/Technology, URL:https://www.reddit.com/r/technology/.rss, language:en
+
+## The Bay Area startup with a 'bats—t' plan to take on Elon Musk's SpaceX
+ - [https://www.reddit.com/r/technology/comments/1izrxgh/the_bay_area_startup_with_a_batst_plan_to_take_on](https://www.reddit.com/r/technology/comments/1izrxgh/the_bay_area_startup_with_a_batst_plan_to_take_on)
+ - RSS feed: $source
+ - date published: 2025-02-27T22:08:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1izrxgh/the_bay_area_startup_with_a_batst_plan_to_take_on/"> <img src="https://external-preview.redd.it/tuXgbjalavE3iZjHalZb1dLAUOxJQkoGxXBNXf0ISsA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fadf0b142f21854859dc17d29bfb9671d1aa49e2" alt="The Bay Area startup with a 'bats—t' plan to take on Elon Musk's SpaceX" title="The Bay Area startup with a 'bats—t' plan to take on Elon Musk's SpaceX" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/abrownn"> /u/abrownn </a> <br/> <span><a href="https://www.sfgate.com/tech/article/longshot-startup-take-on-spacex-20185009.php">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1izrxgh/the_bay_area_startup_with_a_batst_plan_to_take_on/">[comments]</a></span> </td></tr></table>
+
+## Over 30 Apex Legends voice actors refuse to sign an agreement that would see them 'give up our expertise to train the generative AI that will replace us tomorrow' | "We are asked to shoot ourselves in the foot."
+ - [https://www.reddit.com/r/technology/comments/1izq5gf/over_30_apex_legends_voice_actors_refuse_to_sign](https://www.reddit.com/r/technology/comments/1izq5gf/over_30_apex_legends_voice_actors_refuse_to_sign)
+ - RSS feed: $source
+ - date published: 2025-02-27T20:51:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1izq5gf/over_30_apex_legends_voice_actors_refuse_to_sign/"> <img src="https://external-preview.redd.it/o1v4K4yBpjuxbupZwOPF96q4z9CXRCb8Qbr5sRmBw2Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a0a0dd14fd182f12b5bffbb52b9db37d65aa1d4" alt="Over 30 Apex Legends voice actors refuse to sign an agreement that would see them 'give up our expertise to train the generative AI that will replace us tomorrow' | &quot;We are asked to shoot ourselves in the foot.&quot;" title="Over 30 Apex Legends voice actors refuse to sign an agreement that would see them 'give up our expertise to train the generative AI that will replace us tomorrow' | &quot;We are asked to shoot ourselves in the foot.&quot;" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ControlCAD"> /u/ControlCAD </a> <br/> <span><a href="https://www.pcgamer.com/gaming-industry/over-30-apex-legends-voice-actors-refuse-to-sign-an-agreem
+
+## Cars will need fewer screens and more buttons to earn 5-star safety rating in Europe. Euro NCAP will introduce new testing rules in 2026 that require vehicles to have physical controls to earn the highest safety score.
+ - [https://www.reddit.com/r/technology/comments/1izpla1/cars_will_need_fewer_screens_and_more_buttons_to](https://www.reddit.com/r/technology/comments/1izpla1/cars_will_need_fewer_screens_and_more_buttons_to)
+ - RSS feed: $source
+ - date published: 2025-02-27T20:27:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1izpla1/cars_will_need_fewer_screens_and_more_buttons_to/"> <img src="https://external-preview.redd.it/8UWv6hTP1D8CcqIaWefB_CsJR6S4Z2gY4bxWnZymhGk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=891684a539884ed05e90474bac505da878c40bb9" alt="Cars will need fewer screens and more buttons to earn 5-star safety rating in Europe. Euro NCAP will introduce new testing rules in 2026 that require vehicles to have physical controls to earn the highest safety score." title="Cars will need fewer screens and more buttons to earn 5-star safety rating in Europe. Euro NCAP will introduce new testing rules in 2026 that require vehicles to have physical controls to earn the highest safety score." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Knightbear49"> /u/Knightbear49 </a> <br/> <span><a href="https://www.theverge.com/2024/3/5/24091043/euro-ncap-safety-rating-europe-2026-touchscreen-buttons-d
+
+## Meta fires 20 employees for leaking
+ - [https://www.reddit.com/r/technology/comments/1iznmxw/meta_fires_20_employees_for_leaking](https://www.reddit.com/r/technology/comments/1iznmxw/meta_fires_20_employees_for_leaking)
+ - RSS feed: $source
+ - date published: 2025-02-27T19:05:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iznmxw/meta_fires_20_employees_for_leaking/"> <img src="https://external-preview.redd.it/Ia5YIr-yIp_LTzoWMFWYgqi184xwmSzP1c7FseLRgxM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=735121aef63b1e9174c66352bcf440f2516e1e6e" alt="Meta fires 20 employees for leaking" title="Meta fires 20 employees for leaking" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Well_Socialized"> /u/Well_Socialized </a> <br/> <span><a href="https://www.theverge.com/labor/621059/meta-fires-20-employee-leakers">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iznmxw/meta_fires_20_employees_for_leaking/">[comments]</a></span> </td></tr></table>
+
+## Trump is gutting environmental data, obscuring climate and pollution risks to the public
+ - [https://www.reddit.com/r/technology/comments/1izlveu/trump_is_gutting_environmental_data_obscuring](https://www.reddit.com/r/technology/comments/1izlveu/trump_is_gutting_environmental_data_obscuring)
+ - RSS feed: $source
+ - date published: 2025-02-27T17:53:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1izlveu/trump_is_gutting_environmental_data_obscuring/"> <img src="https://external-preview.redd.it/FnA6gfwBPoSjYiH7b08PRS1gSAMEuxPC2MF4rAn-XRw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b940ba6cfb58409152a4ac0b7943289cf41dfbed" alt="Trump is gutting environmental data, obscuring climate and pollution risks to the public" title="Trump is gutting environmental data, obscuring climate and pollution risks to the public" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.salon.com/2025/02/27/is-gutting-environmental-data-obscuring-climate-and-pollution-risks-to-the-public/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1izlveu/trump_is_gutting_environmental_data_obscuring/">[comments]</a></span> </td></tr></table>
+
+## Trump rift opens floodgates of disinformation on Ukraine
+ - [https://www.reddit.com/r/technology/comments/1izlb8n/trump_rift_opens_floodgates_of_disinformation_on](https://www.reddit.com/r/technology/comments/1izlb8n/trump_rift_opens_floodgates_of_disinformation_on)
+ - RSS feed: $source
+ - date published: 2025-02-27T17:30:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1izlb8n/trump_rift_opens_floodgates_of_disinformation_on/"> <img src="https://external-preview.redd.it/pB2a20RjMrnSzdO5-HW-_dtGlhO7wXhuNpuAyOBqEHo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f550d860a90ebb23d1992814ddd7d7de52ca24cf" alt="Trump rift opens floodgates of disinformation on Ukraine" title="Trump rift opens floodgates of disinformation on Ukraine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.batimes.com.ar/news/world/trump-rift-opens-floodgates-of-disinformation-on-ukraine.phtml">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1izlb8n/trump_rift_opens_floodgates_of_disinformation_on/">[comments]</a></span> </td></tr></table>
+
+## Trump’s AI Gaza Video Is the Tip of a Horrifying ‘Gaz-A-Lago’ Iceberg | Trump’s comments about turning Gaza into a resort have inspired hellish AI videos and memecoins.
+ - [https://www.reddit.com/r/technology/comments/1izl1p5/trumps_ai_gaza_video_is_the_tip_of_a_horrifying](https://www.reddit.com/r/technology/comments/1izl1p5/trumps_ai_gaza_video_is_the_tip_of_a_horrifying)
+ - RSS feed: $source
+ - date published: 2025-02-27T17:19:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1izl1p5/trumps_ai_gaza_video_is_the_tip_of_a_horrifying/"> <img src="https://external-preview.redd.it/BDUWzRwktAchrlZn_-uKyTDPrAm7miJTg6JvkvyzQFI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca90a0ce301375cdbbaffca09aa9b433f01714be" alt="Trump’s AI Gaza Video Is the Tip of a Horrifying ‘Gaz-A-Lago’ Iceberg | Trump’s comments about turning Gaza into a resort have inspired hellish AI videos and memecoins." title="Trump’s AI Gaza Video Is the Tip of a Horrifying ‘Gaz-A-Lago’ Iceberg | Trump’s comments about turning Gaza into a resort have inspired hellish AI videos and memecoins." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://gizmodo.com/trumps-ai-gaza-video-is-the-tip-of-a-horrifying-gaz-a-lago-iceberg-2000569276">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1izl1p5/trumps_ai_gaza_v
+
+## Starlink poised to takeover $2.4 billion contract to overhaul air traffic control communication | The contract had already been awarded to Verizon, but now a SpaceX-led team within the FAA is reportedly recommending it go to Starlink.
+ - [https://www.reddit.com/r/technology/comments/1izkyts/starlink_poised_to_takeover_24_billion_contract](https://www.reddit.com/r/technology/comments/1izkyts/starlink_poised_to_takeover_24_billion_contract)
+ - RSS feed: $source
+ - date published: 2025-02-27T17:15:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1izkyts/starlink_poised_to_takeover_24_billion_contract/"> <img src="https://external-preview.redd.it/iNDbtaFkSJ5zOAHdPvWvggpteBkuhpzh-0f_M2MJc7k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe5717db8b8d17d794c91bcc941d5f1e115a0ef0" alt="Starlink poised to takeover $2.4 billion contract to overhaul air traffic control communication | The contract had already been awarded to Verizon, but now a SpaceX-led team within the FAA is reportedly recommending it go to Starlink." title="Starlink poised to takeover $2.4 billion contract to overhaul air traffic control communication | The contract had already been awarded to Verizon, but now a SpaceX-led team within the FAA is reportedly recommending it go to Starlink." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.theverge.com/news/620777/starlink-verizon-contract-faa-communic
+
+## Instagram 'Error' Turned Reels Into Neverending Scroll of Murder, Gore, and Violence
+ - [https://www.reddit.com/r/technology/comments/1izj6on/instagram_error_turned_reels_into_neverending](https://www.reddit.com/r/technology/comments/1izj6on/instagram_error_turned_reels_into_neverending)
+ - RSS feed: $source
+ - date published: 2025-02-27T16:03:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1izj6on/instagram_error_turned_reels_into_neverending/"> <img src="https://external-preview.redd.it/Ckgp3UnYYGafoAgT5XNnrAovAQ8baJWZAHbTvznH9C0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=30c6bba08cc0b3087af6c5bf3613825bd6775e36" alt="Instagram 'Error' Turned Reels Into Neverending Scroll of Murder, Gore, and Violence" title="Instagram 'Error' Turned Reels Into Neverending Scroll of Murder, Gore, and Violence" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/West-Code4642"> /u/West-Code4642 </a> <br/> <span><a href="https://www.404media.co/instagram-error-turned-reels-into-neverending-scroll-of-murder-gore-and-violence/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1izj6on/instagram_error_turned_reels_into_neverending/">[comments]</a></span> </td></tr></table>
+
+## DOGE Gains Access to Confidential Records on Housing Discrimination, Medical Details — Even Domestic Violence
+ - [https://www.reddit.com/r/technology/comments/1izi8fg/doge_gains_access_to_confidential_records_on](https://www.reddit.com/r/technology/comments/1izi8fg/doge_gains_access_to_confidential_records_on)
+ - RSS feed: $source
+ - date published: 2025-02-27T15:23:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1izi8fg/doge_gains_access_to_confidential_records_on/"> <img src="https://external-preview.redd.it/eNvFNa-b_NMDt3X3Kr9Y1UDCTm6jEbPRdEeS-4Wi2WA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6820b3e6b11f1ecabee9f7b3a315b4a13e33a314" alt="DOGE Gains Access to Confidential Records on Housing Discrimination, Medical Details — Even Domestic Violence" title="DOGE Gains Access to Confidential Records on Housing Discrimination, Medical Details — Even Domestic Violence" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/indig0sixalpha"> /u/indig0sixalpha </a> <br/> <span><a href="https://www.propublica.org/article/doge-elon-musk-hud-housing-discrimination-privacy-domestic-violence">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1izi8fg/doge_gains_access_to_confidential_records_on/">[comments]</a></span> </td></tr></table>
+
+## 70% of people are polite to AI
+ - [https://www.reddit.com/r/technology/comments/1izi6jb/70_of_people_are_polite_to_ai](https://www.reddit.com/r/technology/comments/1izi6jb/70_of_people_are_polite_to_ai)
+ - RSS feed: $source
+ - date published: 2025-02-27T15:21:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1izi6jb/70_of_people_are_polite_to_ai/"> <img src="https://external-preview.redd.it/qBEv3BX7BX3fazFEaqSiuM5sXKeelKNGrZAOo-Ve3_E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e52a672cae2d73d6b638c3eb8477c33da8a3fe4d" alt="70% of people are polite to AI" title="70% of people are polite to AI" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MetaKnowing"> /u/MetaKnowing </a> <br/> <span><a href="https://www.techradar.com/computing/artificial-intelligence/are-you-polite-to-chatgpt-heres-where-you-rank-among-ai-chatbot-users">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1izi6jb/70_of_people_are_polite_to_ai/">[comments]</a></span> </td></tr></table>
+
+## Windows 11 pirates have a new ally — Microsoft Copilot
+ - [https://www.reddit.com/r/technology/comments/1izi2wx/windows_11_pirates_have_a_new_ally_microsoft](https://www.reddit.com/r/technology/comments/1izi2wx/windows_11_pirates_have_a_new_ally_microsoft)
+ - RSS feed: $source
+ - date published: 2025-02-27T15:16:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1izi2wx/windows_11_pirates_have_a_new_ally_microsoft/"> <img src="https://external-preview.redd.it/tUyujimvDqPCIUcCZkSxc1XkbmRkNeD980OFTqUjS4c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c440bb56cb1a193d5ef9b183013c184c3e3cb13" alt="Windows 11 pirates have a new ally — Microsoft Copilot" title="Windows 11 pirates have a new ally — Microsoft Copilot" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lurker_bee"> /u/lurker_bee </a> <br/> <span><a href="https://www.windowscentral.com/software-apps/windows-11/windows-11-pirates-have-a-new-and-unlikely-ally-microsoft-copilot">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1izi2wx/windows_11_pirates_have_a_new_ally_microsoft/">[comments]</a></span> </td></tr></table>
+
+## Apple won't comment on $3.2 million fine for mishandling data in South Korea
+ - [https://www.reddit.com/r/technology/comments/1izfghn/apple_wont_comment_on_32_million_fine_for](https://www.reddit.com/r/technology/comments/1izfghn/apple_wont_comment_on_32_million_fine_for)
+ - RSS feed: $source
+ - date published: 2025-02-27T13:13:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1izfghn/apple_wont_comment_on_32_million_fine_for/"> <img src="https://external-preview.redd.it/2s6JJ2aQuDTtMBB8fFW7goz_OKe2i-dbDAn87BnV-tQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c12b8b8c2b4a00b55ed358d770d7af282f43ba0b" alt="Apple won't comment on $3.2 million fine for mishandling data in South Korea" title="Apple won't comment on $3.2 million fine for mishandling data in South Korea" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://appleinsider.com/articles/25/02/26/apple-wont-comment-on-32-million-fine-for-mishandling-data-in-south-korea">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1izfghn/apple_wont_comment_on_32_million_fine_for/">[comments]</a></span> </td></tr></table>
+
+## Scientists develop micro-robots that can flow like a fluid or collectively assemble into solid shapes
+ - [https://www.reddit.com/r/technology/comments/1izfcxl/scientists_develop_microrobots_that_can_flow_like](https://www.reddit.com/r/technology/comments/1izfcxl/scientists_develop_microrobots_that_can_flow_like)
+ - RSS feed: $source
+ - date published: 2025-02-27T13:09:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1izfcxl/scientists_develop_microrobots_that_can_flow_like/"> <img src="https://external-preview.redd.it/a_HweCDdSHjbi4ooX8v0omCdPpksSrOVwDUssdxXKeU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ee4e2a1a3499267470a22a44ba981447d6add82c" alt="Scientists develop micro-robots that can flow like a fluid or collectively assemble into solid shapes" title="Scientists develop micro-robots that can flow like a fluid or collectively assemble into solid shapes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdSpecialist6598"> /u/AdSpecialist6598 </a> <br/> <span><a href="https://www.techspot.com/news/106937-scientists-develop-micro-robots-can-flow-like-fluid.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1izfcxl/scientists_develop_microrobots_that_can_flow_like/">[comments]</a></span> </td></tr></table>
+
+## Satya Nadella says AI is yet to find a killer app that matches the combined impact of email and Excel
+ - [https://www.reddit.com/r/technology/comments/1izf6eb/satya_nadella_says_ai_is_yet_to_find_a_killer_app](https://www.reddit.com/r/technology/comments/1izf6eb/satya_nadella_says_ai_is_yet_to_find_a_killer_app)
+ - RSS feed: $source
+ - date published: 2025-02-27T13:00:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1izf6eb/satya_nadella_says_ai_is_yet_to_find_a_killer_app/"> <img src="https://external-preview.redd.it/iturv_zSY1gzaiIhQDPMCn4Idb_ru0Ttg9g24z24SUo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=02d900978979bb672b3362b1c7258f991e71bab4" alt="Satya Nadella says AI is yet to find a killer app that matches the combined impact of email and Excel" title="Satya Nadella says AI is yet to find a killer app that matches the combined impact of email and Excel" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Logical_Welder3467"> /u/Logical_Welder3467 </a> <br/> <span><a href="https://www.theregister.com/2025/02/26/microsofts_nadella_wants_to_see/?td=rt-3a">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1izf6eb/satya_nadella_says_ai_is_yet_to_find_a_killer_app/">[comments]</a></span> </td></tr></table>
+
+## Mercedes-Benz plans to cut 25% of workforce costs in China by 2027, source says
+ - [https://www.reddit.com/r/technology/comments/1izeztt/mercedesbenz_plans_to_cut_25_of_workforce_costs](https://www.reddit.com/r/technology/comments/1izeztt/mercedesbenz_plans_to_cut_25_of_workforce_costs)
+ - RSS feed: $source
+ - date published: 2025-02-27T12:50:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1izeztt/mercedesbenz_plans_to_cut_25_of_workforce_costs/"> <img src="https://external-preview.redd.it/J4Ho5qRIzFOUfH8xLEfpT8rIEFjb-t05Sb8g0g9W0Qg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce2d125f6b78a196f8270763daee0801cc846fb1" alt="Mercedes-Benz plans to cut 25% of workforce costs in China by 2027, source says" title="Mercedes-Benz plans to cut 25% of workforce costs in China by 2027, source says" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Peter55667"> /u/Peter55667 </a> <br/> <span><a href="https://www.reuters.com/business/autos-transportation/mercedes-benz-plans-cut-15-jobs-china-bloomberg-news-reports-2025-02-27/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1izeztt/mercedesbenz_plans_to_cut_25_of_workforce_costs/">[comments]</a></span> </td></tr></table>
+
+## AT&T Hacker Tried to Sell Stolen Data to Foreign Government
+ - [https://www.reddit.com/r/technology/comments/1izc3ck/att_hacker_tried_to_sell_stolen_data_to_foreign](https://www.reddit.com/r/technology/comments/1izc3ck/att_hacker_tried_to_sell_stolen_data_to_foreign)
+ - RSS feed: $source
+ - date published: 2025-02-27T09:41:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1izc3ck/att_hacker_tried_to_sell_stolen_data_to_foreign/"> <img src="https://external-preview.redd.it/00dcKCDKFQztw5-mOSRte29Ey0yIh1m-ggHp_UOQETI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c48fc96a6261036439f95cf81d1b2dcbb239832" alt="AT&amp;T Hacker Tried to Sell Stolen Data to Foreign Government" title="AT&amp;T Hacker Tried to Sell Stolen Data to Foreign Government" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PrithvinathReddy"> /u/PrithvinathReddy </a> <br/> <span><a href="https://www.404media.co/at-t-hacker-tried-to-sell-stolen-data-to-foreign-government/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1izc3ck/att_hacker_tried_to_sell_stolen_data_to_foreign/">[comments]</a></span> </td></tr></table>
+
+## Reddit co-founder says Meta’s end to third-party fact-checking is ‘very pragmatic’
+ - [https://www.reddit.com/r/technology/comments/1izbdq5/reddit_cofounder_says_metas_end_to_thirdparty](https://www.reddit.com/r/technology/comments/1izbdq5/reddit_cofounder_says_metas_end_to_thirdparty)
+ - RSS feed: $source
+ - date published: 2025-02-27T08:48:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1izbdq5/reddit_cofounder_says_metas_end_to_thirdparty/"> <img src="https://external-preview.redd.it/bmTu9FoCXrGyCRqi8Co6SEXzlEJQRK4y3dGrNlL4F5k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0fd20a4ac98c35ba1855a71a9370b9ce25ca1a4" alt="Reddit co-founder says Meta’s end to third-party fact-checking is ‘very pragmatic’" title="Reddit co-founder says Meta’s end to third-party fact-checking is ‘very pragmatic’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Graybeard_Shaving"> /u/Graybeard_Shaving </a> <br/> <span><a href="https://www.cnbc.com/2025/02/27/reddit-co-founder-metas-end-to-third-party-fact-checking-pragmatic.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1izbdq5/reddit_cofounder_says_metas_end_to_thirdparty/">[comments]</a></span> </td></tr></table>
+
+## France is about to pass the worst surveillance law in the EU. We must stop them now! An amendment to the “Nacrotrafic” law is moving to the French National Assembly. Remind your legislators that a backdoor for the good guys only is not possible.
+ - [https://www.reddit.com/r/technology/comments/1izag20/france_is_about_to_pass_the_worst_surveillance](https://www.reddit.com/r/technology/comments/1izag20/france_is_about_to_pass_the_worst_surveillance)
+ - RSS feed: $source
+ - date published: 2025-02-27T07:37:10+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Cubezzzzz"> /u/Cubezzzzz </a> <br/> <span><a href="https://tuta.com/blog/france-surveillance-nacrotrafic-law">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1izag20/france_is_about_to_pass_the_worst_surveillance/">[comments]</a></span>
+
+## BP blames ‘misplaced’ faith in green transition for its renewed focus on fossil fuels
+ - [https://www.reddit.com/r/technology/comments/1iz94dt/bp_blames_misplaced_faith_in_green_transition_for](https://www.reddit.com/r/technology/comments/1iz94dt/bp_blames_misplaced_faith_in_green_transition_for)
+ - RSS feed: $source
+ - date published: 2025-02-27T06:03:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iz94dt/bp_blames_misplaced_faith_in_green_transition_for/"> <img src="https://external-preview.redd.it/y9XpBjitDGwf6AK0FLIYTxhOYeMun1_VIHMwJj3ba94.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0dc04915b134c2957cfc56880e7780cdf98eabaa" alt="BP blames ‘misplaced’ faith in green transition for its renewed focus on fossil fuels" title="BP blames ‘misplaced’ faith in green transition for its renewed focus on fossil fuels" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Projectrage"> /u/Projectrage </a> <br/> <span><a href="https://www.theguardian.com/business/2025/feb/26/bp-oil-and-gas-spending-green-energy-scale-back?CMP=Share_AndroidApp_Other">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iz94dt/bp_blames_misplaced_faith_in_green_transition_for/">[comments]</a></span> </td></tr></table>
+
+## Alphabet’s Google Cuts Employees in Cloud Division
+ - [https://www.reddit.com/r/technology/comments/1iz7tn1/alphabets_google_cuts_employees_in_cloud_division](https://www.reddit.com/r/technology/comments/1iz7tn1/alphabets_google_cuts_employees_in_cloud_division)
+ - RSS feed: $source
+ - date published: 2025-02-27T04:45:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iz7tn1/alphabets_google_cuts_employees_in_cloud_division/"> <img src="https://external-preview.redd.it/R5psFB6-Omec6TN06wfQwSQAcX24vcAbv7hZuGmhUEw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e97f30a91971abdbf74eaf2abf0c724174ebce57" alt="Alphabet’s Google Cuts Employees in Cloud Division" title="Alphabet’s Google Cuts Employees in Cloud Division" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lurker_bee"> /u/lurker_bee </a> <br/> <span><a href="https://www.bloomberg.com/news/articles/2025-02-26/alphabet-s-google-said-to-cut-employees-in-cloud-division">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iz7tn1/alphabets_google_cuts_employees_in_cloud_division/">[comments]</a></span> </td></tr></table>
+
+## ‘Trump Gaza’ video shared by president originated from pro-Israel accounts that have embraced AI
+ - [https://www.reddit.com/r/technology/comments/1iz65df/trump_gaza_video_shared_by_president_originated](https://www.reddit.com/r/technology/comments/1iz65df/trump_gaza_video_shared_by_president_originated)
+ - RSS feed: $source
+ - date published: 2025-02-27T03:13:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iz65df/trump_gaza_video_shared_by_president_originated/"> <img src="https://external-preview.redd.it/LDnlxWmK1QqKZMA2fsC0s0LHnYcii2fGNZknqAShVlQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4dd58866bae13c450677702931e0fe9e0f34212" alt="‘Trump Gaza’ video shared by president originated from pro-Israel accounts that have embraced AI" title="‘Trump Gaza’ video shared by president originated from pro-Israel accounts that have embraced AI" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RevWaldo"> /u/RevWaldo </a> <br/> <span><a href="https://www.nbcnews.com/tech/internet/trump-gaza-video-shared-president-originated-israel-accounts-embraced-rcna193891">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iz65df/trump_gaza_video_shared_by_president_originated/">[comments]</a></span> </td></tr></table>
+
+## Y Combinator deletes posts after a startup’s demo goes viral
+ - [https://www.reddit.com/r/technology/comments/1iz5tru/y_combinator_deletes_posts_after_a_startups_demo](https://www.reddit.com/r/technology/comments/1iz5tru/y_combinator_deletes_posts_after_a_startups_demo)
+ - RSS feed: $source
+ - date published: 2025-02-27T02:56:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iz5tru/y_combinator_deletes_posts_after_a_startups_demo/"> <img src="https://external-preview.redd.it/J5aS2uHT9yRdoe77ovClZ-8_3co6no94Go1gJWftkrk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5660f1003eea540330517b48f237c6faab9e4fbe" alt="Y Combinator deletes posts after a startup’s demo goes viral" title="Y Combinator deletes posts after a startup’s demo goes viral" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/7A136F2A6F8D721D"> /u/7A136F2A6F8D721D </a> <br/> <span><a href="https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iz5tru/y_combinator_deletes_posts_after_a_startups_demo/">[comments]</a></span> </td></tr></table>
+
+## VSCode extensions with 9 million installs pulled over security risks
+ - [https://www.reddit.com/r/technology/comments/1iz57a9/vscode_extensions_with_9_million_installs_pulled](https://www.reddit.com/r/technology/comments/1iz57a9/vscode_extensions_with_9_million_installs_pulled)
+ - RSS feed: $source
+ - date published: 2025-02-27T02:24:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iz57a9/vscode_extensions_with_9_million_installs_pulled/"> <img src="https://external-preview.redd.it/EusGeBy7RNuDV1Va1-4WArRf7lpq1e2l55KE7tIdi78.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=515ac51d02b8ae5c99dbf9d56411b73f619c837b" alt="VSCode extensions with 9 million installs pulled over security risks" title="VSCode extensions with 9 million installs pulled over security risks" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DJMagicHandz"> /u/DJMagicHandz </a> <br/> <span><a href="https://www.bleepingcomputer.com/news/security/vscode-extensions-with-9-million-installs-pulled-over-security-risks/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iz57a9/vscode_extensions_with_9_million_installs_pulled/">[comments]</a></span> </td></tr></table>
+
+## Google Starts Scanning All Your Photos—One Click Stops It
+ - [https://www.reddit.com/r/technology/comments/1iz51zb/google_starts_scanning_all_your_photosone_click](https://www.reddit.com/r/technology/comments/1iz51zb/google_starts_scanning_all_your_photosone_click)
+ - RSS feed: $source
+ - date published: 2025-02-27T02:17:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iz51zb/google_starts_scanning_all_your_photosone_click/"> <img src="https://external-preview.redd.it/beBaTBaP-qMavVlqllF7ayUz0HWJDs8aPXJT0hzzXyo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7890626600761be117ae1ff9a25dbe27bd15d5fa" alt="Google Starts Scanning All Your Photos—One Click Stops It" title="Google Starts Scanning All Your Photos—One Click Stops It" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mschnittman"> /u/mschnittman </a> <br/> <span><a href="https://www.forbes.com/sites/zakdoffman/2025/02/25/google-starts-scanning-your-photos-without-any-warning/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iz51zb/google_starts_scanning_all_your_photosone_click/">[comments]</a></span> </td></tr></table>
+
+## Google Maps users say Canada’s provincial parks are being labelled as ‘state parks’
+ - [https://www.reddit.com/r/technology/comments/1iz3lci/google_maps_users_say_canadas_provincial_parks](https://www.reddit.com/r/technology/comments/1iz3lci/google_maps_users_say_canadas_provincial_parks)
+ - RSS feed: $source
+ - date published: 2025-02-27T01:03:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1iz3lci/google_maps_users_say_canadas_provincial_parks/"> <img src="https://external-preview.redd.it/smGyBHdl8ro8bOADsBDflqjFX1S6cjDsZXG4dSgEFKA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d0880d40a0c6af2bf5136f81d1c6b9ae5c85dd4" alt="Google Maps users say Canada’s provincial parks are being labelled as ‘state parks’" title="Google Maps users say Canada’s provincial parks are being labelled as ‘state parks’" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vriska1"> /u/vriska1 </a> <br/> <span><a href="https://globalnews.ca/news/11032928/google-maps-canada-provincial-parks-labelled-us-state-parks/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1iz3lci/google_maps_users_say_canadas_provincial_parks/">[comments]</a></span> </td></tr></table>
+

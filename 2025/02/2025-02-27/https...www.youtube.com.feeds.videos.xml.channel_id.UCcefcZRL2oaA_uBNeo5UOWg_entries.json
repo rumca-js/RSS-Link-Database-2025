@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-27T15:00:28+00:00",
+        "description": "AI is dramatically changing the way we interact with software. So for this episode of Design Review, YC General Partner Aaron Epstein sat down with Raphael Schaad, the founder and designer of Cron (now Notion Calendar), to critique some groundbreaking AI user interfaces. Together they\u2019ll review a wide variety of examples, from agents and adaptive UI to video prompts and realistic voice APIs, all in an effort to get a glimpse of how AI is changing the future of software.\n\nApply to Y Combinator: https://ycombinator.com/apply\n\nThank you to these companies for volunteering*:\n-Vapi (https://www.vapi.ai)\n-Retell AI (https://www.retellai.com)\n-Gumloop (https://www.gumloop.com)\n-AnswerGrid (https://www.answergrid.ai)\n-Polymet (https://www.polymet.ai)\n-Zuni (https://zuni.app)\n-Argil (https://www.argil.ai)\n\n*Some of the featured websites may be updated between the time we film and publish",
+        "id": 2208835,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=DBhSfROq3wU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DBhSfROq3wU/hqdefault.jpg",
+        "title": "Design Experts Critique AI Interfaces",
+        "vote": 0
+    }
+]

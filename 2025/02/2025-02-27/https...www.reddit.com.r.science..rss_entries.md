@@ -1,0 +1,170 @@
+# Source:Reddit Science, URL:https://www.reddit.com/r/science/.rss, language:en
+
+## Rapidly increasing rates of cancer in people under 50 point to a key role for environmental exposures, obesity, diet, and gut health.
+ - [https://www.reddit.com/r/science/comments/1izqni1/rapidly_increasing_rates_of_cancer_in_people](https://www.reddit.com/r/science/comments/1izqni1/rapidly_increasing_rates_of_cancer_in_people)
+ - RSS feed: $source
+ - date published: 2025-02-27T21:13:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1izqni1/rapidly_increasing_rates_of_cancer_in_people/"> <img src="https://external-preview.redd.it/HMUZvqTPkQ8zAHiqmjuyYFIVZ_Qe7L8CFECoV1UAEhQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a346b5e7975ac82cf30064e47a4d283fbc464e62" alt="Rapidly increasing rates of cancer in people under 50 point to a key role for environmental exposures, obesity, diet, and gut health." title="Rapidly increasing rates of cancer in people under 50 point to a key role for environmental exposures, obesity, diet, and gut health." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SortFantastic4683"> /u/SortFantastic4683 </a> <br/> <span><a href="https://www.sacbee.com/entertainment/living/wellness/article301115259.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1izqni1/rapidly_increasing_rates_of_cancer_in_people/">[comments]</a></span> </td></tr></table>
+
+## The “happiness paradox” is a phenomenon wherein trying to make ourselves happier actually makes us less happy, as it can drain our ability to use self-control and willpower. As a result, we’re more susceptible to temptation, and to making self-destructive decisions that make us less happy.
+ - [https://www.reddit.com/r/science/comments/1iznw01/the_happiness_paradox_is_a_phenomenon_wherein](https://www.reddit.com/r/science/comments/1iznw01/the_happiness_paradox_is_a_phenomenon_wherein)
+ - RSS feed: $source
+ - date published: 2025-02-27T19:15:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1iznw01/the_happiness_paradox_is_a_phenomenon_wherein/"> <img src="https://external-preview.redd.it/BB3JKgirrpROah_ZPa_iYIMNQLZxHsvemXcvqjfZkgw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6407d6260f384f0ced8ad564cc132c884a5ae447" alt="The “happiness paradox” is a phenomenon wherein trying to make ourselves happier actually makes us less happy, as it can drain our ability to use self-control and willpower. As a result, we’re more susceptible to temptation, and to making self-destructive decisions that make us less happy." title="The “happiness paradox” is a phenomenon wherein trying to make ourselves happier actually makes us less happy, as it can drain our ability to use self-control and willpower. As a result, we’re more susceptible to temptation, and to making self-destructive decisions that make us less happy." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a>
+
+## Discovery Reveals How a Human Brain Turned to Glass in the Ancient Eruption of Mount Vesuvius. As the body rapidly reached over 510° C, the skull and spine protected the brain from a complete thermal breakdown, allowing a unique glass to form with the rapid cooling.
+ - [https://www.reddit.com/r/science/comments/1izmg2c/discovery_reveals_how_a_human_brain_turned_to](https://www.reddit.com/r/science/comments/1izmg2c/discovery_reveals_how_a_human_brain_turned_to)
+ - RSS feed: $source
+ - date published: 2025-02-27T18:16:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1izmg2c/discovery_reveals_how_a_human_brain_turned_to/"> <img src="https://external-preview.redd.it/xc0_506a5E8-JxM8hmvP9AlJFz3wTYAp5lcmUyXiEcA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b4707be3be0d24bbf12e1c8aedcffb4057389361" alt="Discovery Reveals How a Human Brain Turned to Glass in the Ancient Eruption of Mount Vesuvius. As the body rapidly reached over 510° C, the skull and spine protected the brain from a complete thermal breakdown, allowing a unique glass to form with the rapid cooling." title="Discovery Reveals How a Human Brain Turned to Glass in the Ancient Eruption of Mount Vesuvius. As the body rapidly reached over 510° C, the skull and spine protected the brain from a complete thermal breakdown, allowing a unique glass to form with the rapid cooling." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://thedebrief
+
+## Space station’s lack of dirt may damage astronauts’ health, says study | Scientists find sterile ISS environment could explain rashes and cold sores and suggest adding microbes to stations
+ - [https://www.reddit.com/r/science/comments/1izkn81/space_stations_lack_of_dirt_may_damage_astronauts](https://www.reddit.com/r/science/comments/1izkn81/space_stations_lack_of_dirt_may_damage_astronauts)
+ - RSS feed: $source
+ - date published: 2025-02-27T17:02:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1izkn81/space_stations_lack_of_dirt_may_damage_astronauts/"> <img src="https://external-preview.redd.it/Pf20huKc2ZfEpRNfGYbxsRmyp7uN2kk7QtFG47Kj6Y0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c3f9b52306195f1c27ebb314b6879e9f08472609" alt="Space station’s lack of dirt may damage astronauts’ health, says study | Scientists find sterile ISS environment could explain rashes and cold sores and suggest adding microbes to stations" title="Space station’s lack of dirt may damage astronauts’ health, says study | Scientists find sterile ISS environment could explain rashes and cold sores and suggest adding microbes to stations" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.theguardian.com/science/2025/feb/27/international-space-stations-sterile-environment-may-affect-health-of-astronauts-says-study">[link]</a></span> &#32; <sp
+
+## Quantum fractal patterns visualized (Hofstadter's butterfly)
+ - [https://www.reddit.com/r/science/comments/1izji0g/quantum_fractal_patterns_visualized_hofstadters](https://www.reddit.com/r/science/comments/1izji0g/quantum_fractal_patterns_visualized_hofstadters)
+ - RSS feed: $source
+ - date published: 2025-02-27T16:15:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1izji0g/quantum_fractal_patterns_visualized_hofstadters/"> <img src="https://external-preview.redd.it/XvZEUJ3e-0ZVsSgcUC8NOUJDyzjhXsFs-P0SmJNXJ44.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ef9fc59e12af1300f8630eba76bbd61e34191a0c" alt="Quantum fractal patterns visualized (Hofstadter's butterfly)" title="Quantum fractal patterns visualized (Hofstadter's butterfly)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mogwai316"> /u/mogwai316 </a> <br/> <span><a href="https://www.eurekalert.org/news-releases/1075053">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1izji0g/quantum_fractal_patterns_visualized_hofstadters/">[comments]</a></span> </td></tr></table>
+
+## New research from the University of Michigan shows that young children understood the reasons for novel norms and social practices aimed at promoting public health during the COVID-19 pandemic
+ - [https://www.reddit.com/r/science/comments/1izjcx9/new_research_from_the_university_of_michigan](https://www.reddit.com/r/science/comments/1izjcx9/new_research_from_the_university_of_michigan)
+ - RSS feed: $source
+ - date published: 2025-02-27T16:10:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1izjcx9/new_research_from_the_university_of_michigan/"> <img src="https://external-preview.redd.it/QJsxd4kEYRHuoyE6z3Z0t2P5CVtgg_cREuTSamRBrkE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=76d2db103466a4784f0b1a71f5b4243f6f233647" alt="New research from the University of Michigan shows that young children understood the reasons for novel norms and social practices aimed at promoting public health during the COVID-19 pandemic" title="New research from the University of Michigan shows that young children understood the reasons for novel norms and social practices aimed at promoting public health during the COVID-19 pandemic" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/umichnews"> /u/umichnews </a> <br/> <span><a href="https://news.umich.edu/young-children-adapt-quickly-to-changing-pandemic-behaviors/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments
+
+## Nasal Spray Shows Preclinical Promise for Treating Traumatic Brain Injury
+ - [https://www.reddit.com/r/science/comments/1iziv19/nasal_spray_shows_preclinical_promise_for](https://www.reddit.com/r/science/comments/1iziv19/nasal_spray_shows_preclinical_promise_for)
+ - RSS feed: $source
+ - date published: 2025-02-27T15:49:50+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/MassGen-Research"> /u/MassGen-Research </a> <br/> <span><a href="https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/nasal-spray-shows-preclinical-promise-for-treating-tbi">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1iziv19/nasal_spray_shows_preclinical_promise_for/">[comments]</a></span>
+
+## Drainage layers in plant pots really do reduce water retention, putting end to decades of mythbusting myths
+ - [https://www.reddit.com/r/science/comments/1izgmap/drainage_layers_in_plant_pots_really_do_reduce](https://www.reddit.com/r/science/comments/1izgmap/drainage_layers_in_plant_pots_really_do_reduce)
+ - RSS feed: $source
+ - date published: 2025-02-27T14:09:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1izgmap/drainage_layers_in_plant_pots_really_do_reduce/"> <img src="https://external-preview.redd.it/OnOrKvUA0jGCfHioxh3f-J0W8-Cf1snh3_LRt4DGhTQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0bdb3f7d21581fbbeea5a9c6d1334a00e62844f4" alt="Drainage layers in plant pots really do reduce water retention, putting end to decades of mythbusting myths" title="Drainage layers in plant pots really do reduce water retention, putting end to decades of mythbusting myths" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TradescantiaHub"> /u/TradescantiaHub </a> <br/> <span><a href="https://doi.org/10.1371/journal.pone.0318716">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1izgmap/drainage_layers_in_plant_pots_really_do_reduce/">[comments]</a></span> </td></tr></table>
+
+## Machine learning speeds up the search for drug polymorphs — crystal forms of medical agents with poorer solubility or other deficiencies. Polymorph screening is vital for anticipating a possible decline in the potency of pills or medical patches, like the Parkinson’s disease patch recalled in 2007.
+ - [https://www.reddit.com/r/science/comments/1izgaup/machine_learning_speeds_up_the_search_for_drug](https://www.reddit.com/r/science/comments/1izgaup/machine_learning_speeds_up_the_search_for_drug)
+ - RSS feed: $source
+ - date published: 2025-02-27T13:53:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1izgaup/machine_learning_speeds_up_the_search_for_drug/"> <img src="https://external-preview.redd.it/_oXxXKQqvFHPJbmrEZV_uqv_2IAWg33Qtx0ta6WviTU.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=d35ea3c536095075d7a739159ebfe464c519eac9" alt="Machine learning speeds up the search for drug polymorphs — crystal forms of medical agents with poorer solubility or other deficiencies. Polymorph screening is vital for anticipating a possible decline in the potency of pills or medical patches, like the Parkinson’s disease patch recalled in 2007." title="Machine learning speeds up the search for drug polymorphs — crystal forms of medical agents with poorer solubility or other deficiencies. Polymorph screening is vital for anticipating a possible decline in the potency of pills or medical patches, like the Parkinson’s disease patch recalled in 2007." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/
+
+## Fasting after learning might sharpen some memories, but blur others, study suggests
+ - [https://www.reddit.com/r/science/comments/1izffjg/fasting_after_learning_might_sharpen_some](https://www.reddit.com/r/science/comments/1izffjg/fasting_after_learning_might_sharpen_some)
+ - RSS feed: $source
+ - date published: 2025-02-27T13:12:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1izffjg/fasting_after_learning_might_sharpen_some/"> <img src="https://external-preview.redd.it/UNh1WzyHUCyEklw_tPlKsFHv83JBBJRZl7hJQQvsyyY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2a72cc9d4124ad45839d9fcb3cb80929942c5908" alt="Fasting after learning might sharpen some memories, but blur others, study suggests" title="Fasting after learning might sharpen some memories, but blur others, study suggests" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thebelsnickle1991"> /u/thebelsnickle1991 </a> <br/> <span><a href="https://www.psypost.org/fasting-after-learning-might-sharpen-some-memories-but-blur-others-study-suggests/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1izffjg/fasting_after_learning_might_sharpen_some/">[comments]</a></span> </td></tr></table>
+
+## Just Five Days of Junk Food Can Throw Off Your Brain’s Metabolism | The occasional splurge can have long-lasting consequences.
+ - [https://www.reddit.com/r/science/comments/1ize456/just_five_days_of_junk_food_can_throw_off_your](https://www.reddit.com/r/science/comments/1ize456/just_five_days_of_junk_food_can_throw_off_your)
+ - RSS feed: $source
+ - date published: 2025-02-27T12:00:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ize456/just_five_days_of_junk_food_can_throw_off_your/"> <img src="https://external-preview.redd.it/wf83IdDRC5nkkDX97Qhdny7LDrkyPjpBbBD_b_5APvU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df31595917a53924cbb3d2db7ac2cfd323729ea2" alt="Just Five Days of Junk Food Can Throw Off Your Brain’s Metabolism | The occasional splurge can have long-lasting consequences." title="Just Five Days of Junk Food Can Throw Off Your Brain’s Metabolism | The occasional splurge can have long-lasting consequences." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.zmescience.com/science/news-science/junk-food-brain-metabolism/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1ize456/just_five_days_of_junk_food_can_throw_off_your/">[comments]</a></span> </td></tr></table>
+
+## Violence alters human genes for generations - Grandchildren of women pregnant during Syrian war who never experienced violence themselves bear marks of it in their genomes. This offers first human evidence previously documented only in animals: Genetic transmission of stress across generations.
+ - [https://www.reddit.com/r/science/comments/1ize2km/violence_alters_human_genes_for_generations](https://www.reddit.com/r/science/comments/1ize2km/violence_alters_human_genes_for_generations)
+ - RSS feed: $source
+ - date published: 2025-02-27T11:57:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1ize2km/violence_alters_human_genes_for_generations/"> <img src="https://external-preview.redd.it/sAQLXRrStreZXeRw1QTxfrrKzmefllS-W2F5d0bB5uI.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=0aa37c141e758b221a4077cdaf084594b3c7d849" alt="Violence alters human genes for generations - Grandchildren of women pregnant during Syrian war who never experienced violence themselves bear marks of it in their genomes. This offers first human evidence previously documented only in animals: Genetic transmission of stress across generations." title="Violence alters human genes for generations - Grandchildren of women pregnant during Syrian war who never experienced violence themselves bear marks of it in their genomes. This offers first human evidence previously documented only in animals: Genetic transmission of stress across generations." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/m
+
+## Scientists discover that brain region acts like an “anxiety meter,” scaling activity to match threat level | Research shows that as the mice encountered increasingly anxiety-provoking situations, the activity of neurons in their ventral hippocampus rose accordingly.
+ - [https://www.reddit.com/r/science/comments/1izd8t6/scientists_discover_that_brain_region_acts_like](https://www.reddit.com/r/science/comments/1izd8t6/scientists_discover_that_brain_region_acts_like)
+ - RSS feed: $source
+ - date published: 2025-02-27T11:03:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1izd8t6/scientists_discover_that_brain_region_acts_like/"> <img src="https://external-preview.redd.it/jjV7pneJgrni4JHIFbwGncJOwOWLORwtiTRk32t6Gow.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e82d78c51fbb065a457fdb068759c9f1f58eb140" alt="Scientists discover that brain region acts like an “anxiety meter,” scaling activity to match threat level | Research shows that as the mice encountered increasingly anxiety-provoking situations, the activity of neurons in their ventral hippocampus rose accordingly." title="Scientists discover that brain region acts like an “anxiety meter,” scaling activity to match threat level | Research shows that as the mice encountered increasingly anxiety-provoking situations, the activity of neurons in their ventral hippocampus rose accordingly." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.ps
+
+## Mussels and mucus team up for surgical glue that repels infections | Scientists have now created a new adhesive that combines the stickiness of mussel’s natural glue with the slimy, germ-repelling nature of mucus.
+ - [https://www.reddit.com/r/science/comments/1izccwe/mussels_and_mucus_team_up_for_surgical_glue_that](https://www.reddit.com/r/science/comments/1izccwe/mussels_and_mucus_team_up_for_surgical_glue_that)
+ - RSS feed: $source
+ - date published: 2025-02-27T10:01:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1izccwe/mussels_and_mucus_team_up_for_surgical_glue_that/"> <img src="https://external-preview.redd.it/7-xjY0Kbu0az5yfZDgqNSJ90qgZD9cP6rX-KxRHe2xg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f7557bcf8cbab0fd1b9b876ca83024f68e0dd74" alt="Mussels and mucus team up for surgical glue that repels infections | Scientists have now created a new adhesive that combines the stickiness of mussel’s natural glue with the slimy, germ-repelling nature of mucus." title="Mussels and mucus team up for surgical glue that repels infections | Scientists have now created a new adhesive that combines the stickiness of mussel’s natural glue with the slimy, germ-repelling nature of mucus." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://newatlas.com/materials/mussels-mucus-surgical-glue-repels-infections/">[link]</a></span> &#32; <span><a href="h
+
+## Genetic risk of schizophrenia affects men and women differently. Research found in men, genetic risk of schizophrenia was specifically associated with the positive dimension of schizotypy, which includes aspects such as bizarre beliefs and unusual perceptual experiences
+ - [https://www.reddit.com/r/science/comments/1izccjd/genetic_risk_of_schizophrenia_affects_men_and](https://www.reddit.com/r/science/comments/1izccjd/genetic_risk_of_schizophrenia_affects_men_and)
+ - RSS feed: $source
+ - date published: 2025-02-27T10:00:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1izccjd/genetic_risk_of_schizophrenia_affects_men_and/"> <img src="https://external-preview.redd.it/w3UYLnV7UY67jfm73Qo2FtQWs8EefgZc7kYcCzJ550A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53365706503a92b47f25231a9ba866889ea233a4" alt="Genetic risk of schizophrenia affects men and women differently. Research found in men, genetic risk of schizophrenia was specifically associated with the positive dimension of schizotypy, which includes aspects such as bizarre beliefs and unusual perceptual experiences" title="Genetic risk of schizophrenia affects men and women differently. Research found in men, genetic risk of schizophrenia was specifically associated with the positive dimension of schizotypy, which includes aspects such as bizarre beliefs and unusual perceptual experiences" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://ww
+
+## New research reveals that preschoolers who jump, run, and play more develop stronger memory and problem-solving skills—highlighting the critical role of movement in early learning.
+ - [https://www.reddit.com/r/science/comments/1izc576/new_research_reveals_that_preschoolers_who_jump](https://www.reddit.com/r/science/comments/1izc576/new_research_reveals_that_preschoolers_who_jump)
+ - RSS feed: $source
+ - date published: 2025-02-27T09:45:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1izc576/new_research_reveals_that_preschoolers_who_jump/"> <img src="https://external-preview.redd.it/0sF3XtK-FJaccncwx_eNacjpha0BELx5b8rKuX4w7BE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9d10cb269c77a2fba322e125a3867ac8039720be" alt="New research reveals that preschoolers who jump, run, and play more develop stronger memory and problem-solving skills—highlighting the critical role of movement in early learning." title="New research reveals that preschoolers who jump, run, and play more develop stronger memory and problem-solving skills—highlighting the critical role of movement in early learning." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.nature.com/articles/s41390-025-03946-w">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1izc576/new_research_reveals_that_preschoolers_who_jump
+
+## Iconic ocean-current system is safe from climate collapse ― for now. The combined forces of various ocean currents and winds would keep the system stable even under the most pessimistic climate scenarios.
+ - [https://www.reddit.com/r/science/comments/1izbumg/iconic_oceancurrent_system_is_safe_from_climate](https://www.reddit.com/r/science/comments/1izbumg/iconic_oceancurrent_system_is_safe_from_climate)
+ - RSS feed: $source
+ - date published: 2025-02-27T09:23:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1izbumg/iconic_oceancurrent_system_is_safe_from_climate/"> <img src="https://external-preview.redd.it/I8Z8JPLyqsm5JdHfdjJpsnz5PkkF0_sY1aJ88zfFCPU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=19fe7e69d7b418763b1bd84c9263c63ec9602273" alt="Iconic ocean-current system is safe from climate collapse ― for now. The combined forces of various ocean currents and winds would keep the system stable even under the most pessimistic climate scenarios." title="Iconic ocean-current system is safe from climate collapse ― for now. The combined forces of various ocean currents and winds would keep the system stable even under the most pessimistic climate scenarios." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/avogadros_number"> /u/avogadros_number </a> <br/> <span><a href="https://www.nature.com/articles/d41586-025-00551-z?linkId=13169948">[link]</a></span> &#32; <span><a href="https://www.reddi
+
+## Dads taking more leave after their child’s birth were 31% more likely to have moms breastfeed longer. Study adds to evidence linking fathers’ leave with family benefits. ‘In medical training, no one talked about involving dads’.
+ - [https://www.reddit.com/r/science/comments/1izbhjg/dads_taking_more_leave_after_their_childs_birth](https://www.reddit.com/r/science/comments/1izbhjg/dads_taking_more_leave_after_their_childs_birth)
+ - RSS feed: $source
+ - date published: 2025-02-27T08:56:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1izbhjg/dads_taking_more_leave_after_their_childs_birth/"> <img src="https://external-preview.redd.it/PlNqc1382UarzBhRqQApBhr1l8Pr3erecX9d3CLKSlg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7b650c949ae573f247aa68ff65508a80bb374126" alt="Dads taking more leave after their child’s birth were 31% more likely to have moms breastfeed longer. Study adds to evidence linking fathers’ leave with family benefits. ‘In medical training, no one talked about involving dads’." title="Dads taking more leave after their child’s birth were 31% more likely to have moms breastfeed longer. Study adds to evidence linking fathers’ leave with family benefits. ‘In medical training, no one talked about involving dads’." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a> <br/> <span><a href="https://news.northwestern.edu/stories/2025/02/when-dads-take-leave-moms-breastfeed-longer/?fj=1">[li
+
+## Dogs have a favorite color, according to a new study, and it might be yellow.
+ - [https://www.reddit.com/r/science/comments/1izanda/dogs_have_a_favorite_color_according_to_a_new](https://www.reddit.com/r/science/comments/1izanda/dogs_have_a_favorite_color_according_to_a_new)
+ - RSS feed: $source
+ - date published: 2025-02-27T07:52:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1izanda/dogs_have_a_favorite_color_according_to_a_new/"> <img src="https://external-preview.redd.it/jvyhWJJL-8h6pn4aX35dRNk5-7KLuY9Qape4DBOvVkA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c2bac2fbeb01e0096749a786eac8e7556d4a53b" alt="Dogs have a favorite color, according to a new study, and it might be yellow." title="Dogs have a favorite color, according to a new study, and it might be yellow." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Effective_Ad6615"> /u/Effective_Ad6615 </a> <br/> <span><a href="https://www.zmescience.com/ecology/animals-ecology/do-dogs-have-a-favorite-color-new-study-suggests-it-might-be-yellow/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1izanda/dogs_have_a_favorite_color_according_to_a_new/">[comments]</a></span> </td></tr></table>
+
+## Study finds possible links between PFAS ("forever chemicals") exposure via drinking water and childhood cancers: findings indicate suggestive associations between predicted prenatal PFAS exposure and certain childhood cancers, including acute myeloid leukemia and Wilms tumors.
+ - [https://www.reddit.com/r/science/comments/1iz9umw/study_finds_possible_links_between_pfas_forever](https://www.reddit.com/r/science/comments/1iz9umw/study_finds_possible_links_between_pfas_forever)
+ - RSS feed: $source
+ - date published: 2025-02-27T06:53:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1iz9umw/study_finds_possible_links_between_pfas_forever/"> <img src="https://external-preview.redd.it/AhSjxmysgW32OsDMqhbemXDWtQgj8LwOS4bbRmefLNY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=befaff44165f9dbb0cb3cfa66aa66d7d8e931bf1" alt="Study finds possible links between PFAS (&quot;forever chemicals&quot;) exposure via drinking water and childhood cancers: findings indicate suggestive associations between predicted prenatal PFAS exposure and certain childhood cancers, including acute myeloid leukemia and Wilms tumors." title="Study finds possible links between PFAS (&quot;forever chemicals&quot;) exposure via drinking water and childhood cancers: findings indicate suggestive associations between predicted prenatal PFAS exposure and certain childhood cancers, including acute myeloid leukemia and Wilms tumors." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a> <br
+
+## A new study found that vaccinated children aged 5–17 had a 57% lower chance of experiencing long COVID symptoms after infection.
+ - [https://www.reddit.com/r/science/comments/1iz8yl5/a_new_study_found_that_vaccinated_children_aged](https://www.reddit.com/r/science/comments/1iz8yl5/a_new_study_found_that_vaccinated_children_aged)
+ - RSS feed: $source
+ - date published: 2025-02-27T05:53:56+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/calliope_kekule"> /u/calliope_kekule </a> <br/> <span><a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830556">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1iz8yl5/a_new_study_found_that_vaccinated_children_aged/">[comments]</a></span>
+
+## Aging and the brain’s sugar-coated shield | Restoring glycocalyx in mice improved BBB integrity and cognitive function, suggesting new avenues for treating age-related neurological conditions.
+ - [https://www.reddit.com/r/science/comments/1iz7921/aging_and_the_brains_sugarcoated_shield_restoring](https://www.reddit.com/r/science/comments/1iz7921/aging_and_the_brains_sugarcoated_shield_restoring)
+ - RSS feed: $source
+ - date published: 2025-02-27T04:13:15+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/FunnyGamer97"> /u/FunnyGamer97 </a> <br/> <span><a href="https://www.eurekalert.org/news-releases/1075105">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1iz7921/aging_and_the_brains_sugarcoated_shield_restoring/">[comments]</a></span>
+
+## Intermittent fasting inhibits platelet activation to reduce thrombosis risk | IF elevates levels of indole-3-propionic acid (IPA), a metabolite produced by the gut microbiota, which in turn suppresses platelet activation—a key factor in cardiovascular events like heart attacks and strokes.
+ - [https://www.reddit.com/r/science/comments/1iz6oow/intermittent_fasting_inhibits_platelet_activation](https://www.reddit.com/r/science/comments/1iz6oow/intermittent_fasting_inhibits_platelet_activation)
+ - RSS feed: $source
+ - date published: 2025-02-27T03:41:59+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/FunnyGamer97"> /u/FunnyGamer97 </a> <br/> <span><a href="https://www.eurekalert.org/news-releases/1075113">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1iz6oow/intermittent_fasting_inhibits_platelet_activation/">[comments]</a></span>
+
+## Schizophrenia is reflected in the brain structure
+ - [https://www.reddit.com/r/science/comments/1iz2gbo/schizophrenia_is_reflected_in_the_brain_structure](https://www.reddit.com/r/science/comments/1iz2gbo/schizophrenia_is_reflected_in_the_brain_structure)
+ - RSS feed: $source
+ - date published: 2025-02-27T00:09:26+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/UnderstandingKey9050"> /u/UnderstandingKey9050 </a> <br/> <span><a href="https://www.eurekalert.org/news-releases/1074554">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1iz2gbo/schizophrenia_is_reflected_in_the_brain_structure/">[comments]</a></span>
+

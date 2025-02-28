@@ -1,0 +1,352 @@
+# Source:conspiracy, URL:https://www.reddit.com/r/conspiracy/.rss, language:en
+
+## Epstein Files Release
+ - [https://www.reddit.com/r/conspiracy/comments/1izsx01/epstein_files_release](https://www.reddit.com/r/conspiracy/comments/1izsx01/epstein_files_release)
+ - RSS feed: $source
+ - date published: 2025-02-27T22:52:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izsx01/epstein_files_release/"> <img src="https://preview.redd.it/jm43y0n1hrle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f8057eebbe5949eabf47662544f565e5e097bbd" alt="Epstein Files Release" title="Epstein Files Release" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dazzling_Industry719"> /u/Dazzling_Industry719 </a> <br/> <span><a href="https://i.redd.it/jm43y0n1hrle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izsx01/epstein_files_release/">[comments]</a></span> </td></tr></table>
+
+## The “Epstein Files” handed to pro-Trump influencers are completely blacked out and unreadable.
+ - [https://www.reddit.com/r/conspiracy/comments/1izst78/the_epstein_files_handed_to_protrump_influencers](https://www.reddit.com/r/conspiracy/comments/1izst78/the_epstein_files_handed_to_protrump_influencers)
+ - RSS feed: $source
+ - date published: 2025-02-27T22:47:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izst78/the_epstein_files_handed_to_protrump_influencers/"> <img src="https://preview.redd.it/b4xrwe27grle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=80d757c5f2f78ad3b6ba1f1c99d708b4a953b17c" alt="The “Epstein Files” handed to pro-Trump influencers are completely blacked out and unreadable." title="The “Epstein Files” handed to pro-Trump influencers are completely blacked out and unreadable." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>That’s a lot of sharpie..</p> <p><a href="https://x.com/oldrowswig/status/1895215077189640697?s=46&amp;t=lyUkewqrOx_z4p8M2W3EIQ"><strong>First Link</strong></a></p> <p><a href="https://x.com/magavoice/status/1895239678695277053?s=46&amp;t=lyUkewqrOx_z4p8M2W3EIQ"><strong>Second Link</strong></a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/External-Noise-4832"> /u/External-Noise-4832 </a> <br/> <span><a href="https://i.redd.it
+
+## So about them files...
+ - [https://www.reddit.com/r/conspiracy/comments/1izs8ye/so_about_them_files](https://www.reddit.com/r/conspiracy/comments/1izs8ye/so_about_them_files)
+ - RSS feed: $source
+ - date published: 2025-02-27T22:21:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izs8ye/so_about_them_files/"> <img src="https://preview.redd.it/gv9j7yinbrle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce2f81657c25f0573f697efb591e19cf642e6053" alt="So about them files..." title="So about them files..." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Petradonna"> /u/Petradonna </a> <br/> <span><a href="https://i.redd.it/gv9j7yinbrle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izs8ye/so_about_them_files/">[comments]</a></span> </td></tr></table>
+
+## These are the people we are trusting to care about telling the truth?
+ - [https://www.reddit.com/r/conspiracy/comments/1izs56s/these_are_the_people_we_are_trusting_to_care](https://www.reddit.com/r/conspiracy/comments/1izs56s/these_are_the_people_we_are_trusting_to_care)
+ - RSS feed: $source
+ - date published: 2025-02-27T22:17:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izs56s/these_are_the_people_we_are_trusting_to_care/"> <img src="https://preview.redd.it/bsahdd2uarle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a6ac1220b9cc64fd0f0a5f9fbd0e240e474850ef" alt="These are the people we are trusting to care about telling the truth?" title="These are the people we are trusting to care about telling the truth?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SwitchCube64"> /u/SwitchCube64 </a> <br/> <span><a href="https://i.redd.it/bsahdd2uarle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izs56s/these_are_the_people_we_are_trusting_to_care/">[comments]</a></span> </td></tr></table>
+
+## Does this piss anyone else off?
+ - [https://www.reddit.com/r/conspiracy/comments/1izrjns/does_this_piss_anyone_else_off](https://www.reddit.com/r/conspiracy/comments/1izrjns/does_this_piss_anyone_else_off)
+ - RSS feed: $source
+ - date published: 2025-02-27T21:51:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izrjns/does_this_piss_anyone_else_off/"> <img src="https://preview.redd.it/xlr9obg96rle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4154d26091a2901766806276c9c74a2158a8bef" alt="Does this piss anyone else off?" title="Does this piss anyone else off?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So much for transparency... Super disappointed..</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DealEasy8710"> /u/DealEasy8710 </a> <br/> <span><a href="https://i.redd.it/xlr9obg96rle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izrjns/does_this_piss_anyone_else_off/">[comments]</a></span> </td></tr></table>
+
+## Cause they think we are all stupid.
+ - [https://www.reddit.com/r/conspiracy/comments/1izr7ma/cause_they_think_we_are_all_stupid](https://www.reddit.com/r/conspiracy/comments/1izr7ma/cause_they_think_we_are_all_stupid)
+ - RSS feed: $source
+ - date published: 2025-02-27T21:37:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izr7ma/cause_they_think_we_are_all_stupid/"> <img src="https://preview.redd.it/1u1getvo3rle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=173da198be73e227147aa9b3b2c3cb1fdb418e13" alt="Cause they think we are all stupid." title="Cause they think we are all stupid." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dense-Judge-1235"> /u/Dense-Judge-1235 </a> <br/> <span><a href="https://i.redd.it/1u1getvo3rle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izr7ma/cause_they_think_we_are_all_stupid/">[comments]</a></span> </td></tr></table>
+
+## So how do y’all feel about your government literally Rick Rolling you?
+ - [https://www.reddit.com/r/conspiracy/comments/1izq5h0/so_how_do_yall_feel_about_your_government](https://www.reddit.com/r/conspiracy/comments/1izq5h0/so_how_do_yall_feel_about_your_government)
+ - RSS feed: $source
+ - date published: 2025-02-27T20:51:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izq5h0/so_how_do_yall_feel_about_your_government/"> <img src="https://external-preview.redd.it/qIqOQ5z5JcuiWXp5xzSiLeQzN8NUUCCNBcobZha9wOU.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=f94a553a1754ee5ee0ac4936c82448754c3eaf84" alt="So how do y’all feel about your government literally Rick Rolling you?" title="So how do y’all feel about your government literally Rick Rolling you?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>House Judiciary GOP posted this. It’s real. See for yourself. Taunting with an Epstein release only to Rick Roll. They are laughing right in your faces. What a mockery. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/throwaway-1403"> /u/throwaway-1403 </a> <br/> <span><a href="https://x.com/judiciarygop/status/1895211719255040092?s=46">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izq5h0/so_how_do_yall_fee
+
+## “The most transparent administration in history!”
+ - [https://www.reddit.com/r/conspiracy/comments/1izptrp/the_most_transparent_administration_in_history](https://www.reddit.com/r/conspiracy/comments/1izptrp/the_most_transparent_administration_in_history)
+ - RSS feed: $source
+ - date published: 2025-02-27T20:37:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izptrp/the_most_transparent_administration_in_history/"> <img src="https://b.thumbs.redditmedia.com/WRVP5n4a6GX6IeT6oxjYtSRtVaZdfiGTsh_lmRxM4ro.jpg" alt="“The most transparent administration in history!”" title="“The most transparent administration in history!”" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Maybe if they keep saying it, it will become true. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Call_It_"> /u/Call_It_ </a> <br/> <span><a href="https://www.reddit.com/gallery/1izptrp">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izptrp/the_most_transparent_administration_in_history/">[comments]</a></span> </td></tr></table>
+
+## Gene Hackman and wife's deaths "suspicious enough in nature" to investigate, search warrant says
+ - [https://www.reddit.com/r/conspiracy/comments/1izosmm/gene_hackman_and_wifes_deaths_suspicious_enough](https://www.reddit.com/r/conspiracy/comments/1izosmm/gene_hackman_and_wifes_deaths_suspicious_enough)
+ - RSS feed: $source
+ - date published: 2025-02-27T19:54:13+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.cbsnews.com/news/gene-hackman-wife-deaths-suspicious-search-warrant/">https://www.cbsnews.com/news/gene-hackman-wife-deaths-suspicious-search-warrant/</a></p> <blockquote> <p>The deputies also said they found a space heater near Arakawa and an open prescription bottle and pills on a counter-top close to her.</p> <p>The warrant also says there were &quot;no obvious signs of a gas leak.&quot;</p> </blockquote> <p>Honestly starting to sound like a murder-suicide type of situation.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dawg605"> /u/Dawg605 </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1izosmm/gene_hackman_and_wifes_deaths_suspicious_enough/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izosmm/gene_hackman_and_wifes_deaths_suspicious_enough/">[comments]</a></span>
+
+## Attorney General Pam Bondi says the FBI is withholding Epstein documents from the U.S. Department of Justice.
+ - [https://www.reddit.com/r/conspiracy/comments/1izoqh4/attorney_general_pam_bondi_says_the_fbi_is](https://www.reddit.com/r/conspiracy/comments/1izoqh4/attorney_general_pam_bondi_says_the_fbi_is)
+ - RSS feed: $source
+ - date published: 2025-02-27T19:51:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izoqh4/attorney_general_pam_bondi_says_the_fbi_is/"> <img src="https://preview.redd.it/hmm9vqivkqle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=860264fc2bcea1a2d574a00e19e76b82e6ffdda6" alt="Attorney General Pam Bondi says the FBI is withholding Epstein documents from the U.S. Department of Justice." title="Attorney General Pam Bondi says the FBI is withholding Epstein documents from the U.S. Department of Justice." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/External-Noise-4832"> /u/External-Noise-4832 </a> <br/> <span><a href="https://i.redd.it/hmm9vqivkqle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izoqh4/attorney_general_pam_bondi_says_the_fbi_is/">[comments]</a></span> </td></tr></table>
+
+## The “Epstein files” have been released on the FBI website, but heavy redactions make most of the information unreadable.
+ - [https://www.reddit.com/r/conspiracy/comments/1izolh7/the_epstein_files_have_been_released_on_the_fbi](https://www.reddit.com/r/conspiracy/comments/1izolh7/the_epstein_files_have_been_released_on_the_fbi)
+ - RSS feed: $source
+ - date published: 2025-02-27T19:45:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izolh7/the_epstein_files_have_been_released_on_the_fbi/"> <img src="https://preview.redd.it/glhm3votjqle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de003730582c9b04cce6541eaac23f311daee67e" alt="The “Epstein files” have been released on the FBI website, but heavy redactions make most of the information unreadable." title="The “Epstein files” have been released on the FBI website, but heavy redactions make most of the information unreadable." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Link to the FBI website will be in the submission statement. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/External-Noise-4832"> /u/External-Noise-4832 </a> <br/> <span><a href="https://i.redd.it/glhm3votjqle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izolh7/the_epstein_files_have_been_released_on_the_fbi/">[comments]</a></span
+
+## Wow more israeli hostages continue to throw israel under the bus. Noa Argamani is speaking at the UN and blames israeli air strikes for killing her fellow captive Yossi Sharabi. They lied about the Bibas family too, they lie about everything!!
+ - [https://www.reddit.com/r/conspiracy/comments/1iznnam/wow_more_israeli_hostages_continue_to_throw](https://www.reddit.com/r/conspiracy/comments/1iznnam/wow_more_israeli_hostages_continue_to_throw)
+ - RSS feed: $source
+ - date published: 2025-02-27T19:05:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iznnam/wow_more_israeli_hostages_continue_to_throw/"> <img src="https://external-preview.redd.it/TWBeFbcHfnoPBJABf1zGTSzTXuefOuYLQ2wnkKz-FVQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=138f226a03a6afe3786478140154f0c45c91e58a" alt="Wow more israeli hostages continue to throw israel under the bus. Noa Argamani is speaking at the UN and blames israeli air strikes for killing her fellow captive Yossi Sharabi. They lied about the Bibas family too, they lie about everything!!" title="Wow more israeli hostages continue to throw israel under the bus. Noa Argamani is speaking at the UN and blames israeli air strikes for killing her fellow captive Yossi Sharabi. They lied about the Bibas family too, they lie about everything!!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cspanbook"> /u/cspanbook </a> <br/> <span><a href="https://x.com/Fx1Jonny/status/1894446826578649452">[link]</a>
+
+## Nothing is gonna come from the supposed Epstein list
+ - [https://www.reddit.com/r/conspiracy/comments/1iznlh3/nothing_is_gonna_come_from_the_supposed_epstein](https://www.reddit.com/r/conspiracy/comments/1iznlh3/nothing_is_gonna_come_from_the_supposed_epstein)
+ - RSS feed: $source
+ - date published: 2025-02-27T19:03:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>You notice how they&#39;re hyping up the release of the Esptein client list? This definitely feels artificial. They&#39;re gonna remove a bunch. And the big one, they&#39;re gonna remove any connection Israel had to this through Mossad. They&#39;re hyping up a nothing burger. Sad to see so many getting excited for this. Don&#39;t fall for the narrative they&#39;re feeding us. Stay strong.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CrazedPrecursorFanat"> /u/CrazedPrecursorFanat </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1iznlh3/nothing_is_gonna_come_from_the_supposed_epstein/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iznlh3/nothing_is_gonna_come_from_the_supposed_epstein/">[comments]</a></span>
+
+## This is so pathetic and unserious.
+ - [https://www.reddit.com/r/conspiracy/comments/1izncjl/this_is_so_pathetic_and_unserious](https://www.reddit.com/r/conspiracy/comments/1izncjl/this_is_so_pathetic_and_unserious)
+ - RSS feed: $source
+ - date published: 2025-02-27T18:53:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izncjl/this_is_so_pathetic_and_unserious/"> <img src="https://preview.redd.it/fsyo75pjaqle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd41428eddbf9b01cfe0decc3f813c168feacff9" alt="This is so pathetic and unserious." title="This is so pathetic and unserious." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Call_It_"> /u/Call_It_ </a> <br/> <span><a href="https://i.redd.it/fsyo75pjaqle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izncjl/this_is_so_pathetic_and_unserious/">[comments]</a></span> </td></tr></table>
+
+## it has been 3,063 days since donald trump trump told hillary clinton she would be in jail if he wins the presidency.
+ - [https://www.reddit.com/r/conspiracy/comments/1izn9z8/it_has_been_3063_days_since_donald_trump_trump](https://www.reddit.com/r/conspiracy/comments/1izn9z8/it_has_been_3063_days_since_donald_trump_trump)
+ - RSS feed: $source
+ - date published: 2025-02-27T18:50:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izn9z8/it_has_been_3063_days_since_donald_trump_trump/"> <img src="https://preview.redd.it/ls3clt3y9qle1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=876975a1397c9349d4b74d77e12c59be93b34344" alt="it has been 3,063 days since donald trump trump told hillary clinton she would be in jail if he wins the presidency." title="it has been 3,063 days since donald trump trump told hillary clinton she would be in jail if he wins the presidency." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_wizzack_"> /u/_wizzack_ </a> <br/> <span><a href="https://i.redd.it/ls3clt3y9qle1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izn9z8/it_has_been_3063_days_since_donald_trump_trump/">[comments]</a></span> </td></tr></table>
+
+## A bunch of people just left the White House with these folders
+ - [https://www.reddit.com/r/conspiracy/comments/1izn9ps/a_bunch_of_people_just_left_the_white_house_with](https://www.reddit.com/r/conspiracy/comments/1izn9ps/a_bunch_of_people_just_left_the_white_house_with)
+ - RSS feed: $source
+ - date published: 2025-02-27T18:50:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izn9ps/a_bunch_of_people_just_left_the_white_house_with/"> <img src="https://preview.redd.it/hy896vnw9qle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e554061bd26473e19f98ceb1b3bf8ba3b0949e43" alt="A bunch of people just left the White House with these folders" title="A bunch of people just left the White House with these folders" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Stimul8ed"> /u/Stimul8ed </a> <br/> <span><a href="https://i.redd.it/hy896vnw9qle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izn9ps/a_bunch_of_people_just_left_the_white_house_with/">[comments]</a></span> </td></tr></table>
+
+## But why are they constantly talking about plane accidents now?
+ - [https://www.reddit.com/r/conspiracy/comments/1izlyu0/but_why_are_they_constantly_talking_about_plane](https://www.reddit.com/r/conspiracy/comments/1izlyu0/but_why_are_they_constantly_talking_about_plane)
+ - RSS feed: $source
+ - date published: 2025-02-27T17:57:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izlyu0/but_why_are_they_constantly_talking_about_plane/"> <img src="https://preview.redd.it/mv6f004h0qle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=405b065f1a057daa22fd95286e7c544e072018f6" alt="But why are they constantly talking about plane accidents now?" title="But why are they constantly talking about plane accidents now?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BrickxLeaf"> /u/BrickxLeaf </a> <br/> <span><a href="https://i.redd.it/mv6f004h0qle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izlyu0/but_why_are_they_constantly_talking_about_plane/">[comments]</a></span> </td></tr></table>
+
+## (Alleged) UNREDACTED Epstein List
+ - [https://www.reddit.com/r/conspiracy/comments/1izlthm/alleged_unredacted_epstein_list](https://www.reddit.com/r/conspiracy/comments/1izlthm/alleged_unredacted_epstein_list)
+ - RSS feed: $source
+ - date published: 2025-02-27T17:51:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izlthm/alleged_unredacted_epstein_list/"> <img src="https://external-preview.redd.it/oqxoemdqL-aF1sRRSUByNn8yPLQ8itmesjcUv_YHxes.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=46d291f6cb923f011ab45b78258318782426d6fe" alt="(Alleged) UNREDACTED Epstein List" title="(Alleged) UNREDACTED Epstein List" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AKPie"> /u/AKPie </a> <br/> <span><a href="https://dev.fun/p/0d9ee32cb6e8ee262483">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izlthm/alleged_unredacted_epstein_list/">[comments]</a></span> </td></tr></table>
+
+## Transgenderism
+ - [https://www.reddit.com/r/conspiracy/comments/1izlos3/transgenderism](https://www.reddit.com/r/conspiracy/comments/1izlos3/transgenderism)
+ - RSS feed: $source
+ - date published: 2025-02-27T17:45:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Why does such an obvious mental illness get so normalized, by one political party in particular?</p> <p>I mean, look at something like alien hand syndrome, which is imagining that part or all of one of your limbs doesn&#39;t belong to you. Or body integrity identity disorder, which is imagining that you have a physical disability. There&#39;s also Copen&#39;s syndrome, which is a mental disorder where you imagine that you&#39;re a dead body.</p> <p>Those are actual real mental disorders. (Look them up.) And they seem rather similar to transgenderism. Yet there&#39;s no effort to normalize those things like there is with transgenderism.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Difficult_Ad649"> /u/Difficult_Ad649 </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1izlos3/transgenderism/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izlos3/transgen
+
+## Jefferey Epstein dead body was Tony Rodham
+ - [https://www.reddit.com/r/conspiracy/comments/1izloma/jefferey_epstein_dead_body_was_tony_rodham](https://www.reddit.com/r/conspiracy/comments/1izloma/jefferey_epstein_dead_body_was_tony_rodham)
+ - RSS feed: $source
+ - date published: 2025-02-27T17:45:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izloma/jefferey_epstein_dead_body_was_tony_rodham/"> <img src="https://b.thumbs.redditmedia.com/JkBIQGfEFtgahPwFrN64G74BUOtTfjmd-HSUGZOHq5Q.jpg" alt="Jefferey Epstein dead body was Tony Rodham" title="Jefferey Epstein dead body was Tony Rodham" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FeelsAmazingManGun"> /u/FeelsAmazingManGun </a> <br/> <span><a href="https://www.reddit.com/gallery/1izloma">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izloma/jefferey_epstein_dead_body_was_tony_rodham/">[comments]</a></span> </td></tr></table>
+
+## Pope will die on March 14
+ - [https://www.reddit.com/r/conspiracy/comments/1izl4js/pope_will_die_on_march_14](https://www.reddit.com/r/conspiracy/comments/1izl4js/pope_will_die_on_march_14)
+ - RSS feed: $source
+ - date published: 2025-02-27T17:22:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Pope Francis is likely to go on March 14th (3/14 is Pi day and Blood Moon Eclipse) when he&#39;ll be 88 years and 88 days old, or on March 29th, the 88th day of the year.</p> <p>March 15 (3/15) could also be the day they decide to pull the plug for him, since it&#39;s a huge date in regard to Roman History. The Ides of March also known as &quot;the deadline for Settling debts&quot; is also the day in history Roman ruler Julius Caesar was assassinated.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Certain_Effort_1858"> /u/Certain_Effort_1858 </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1izl4js/pope_will_die_on_march_14/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izl4js/pope_will_die_on_march_14/">[comments]</a></span>
+
+## Too Many Dems Linked to NGOs. Follow the Money.
+ - [https://www.reddit.com/r/conspiracy/comments/1izjc8x/too_many_dems_linked_to_ngos_follow_the_money](https://www.reddit.com/r/conspiracy/comments/1izjc8x/too_many_dems_linked_to_ngos_follow_the_money)
+ - RSS feed: $source
+ - date published: 2025-02-27T16:09:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izjc8x/too_many_dems_linked_to_ngos_follow_the_money/"> <img src="https://external-preview.redd.it/luGTTfYe55NyIbLA7Wko8jsSx1CVbwTeh7YcwQxo6lk.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=6da877e42cbb23b8e26df2a55f19b105dc4c5f91" alt="Too Many Dems Linked to NGOs. Follow the Money." title="Too Many Dems Linked to NGOs. Follow the Money." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>🚨 EXPOSED: J6 Committee Member Jamie Raskin&#39;s $160M USAID Connection! 🚨</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CryptographerIll5728"> /u/CryptographerIll5728 </a> <br/> <span><a href="https://x.com/milalovesjoe/status/1895042020718297561?s=61">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izjc8x/too_many_dems_linked_to_ngos_follow_the_money/">[comments]</a></span> </td></tr></table>
+
+## Never Forget the Madness of COVID!
+ - [https://www.reddit.com/r/conspiracy/comments/1iziwlq/never_forget_the_madness_of_covid](https://www.reddit.com/r/conspiracy/comments/1iziwlq/never_forget_the_madness_of_covid)
+ - RSS feed: $source
+ - date published: 2025-02-27T15:51:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iziwlq/never_forget_the_madness_of_covid/"> <img src="https://preview.redd.it/bxh4fz92eple1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3bd6a1a4ebacf49a3779c0942408c2753cd3e77" alt="Never Forget the Madness of COVID!" title="Never Forget the Madness of COVID!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DueDrama8301"> /u/DueDrama8301 </a> <br/> <span><a href="https://i.redd.it/bxh4fz92eple1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iziwlq/never_forget_the_madness_of_covid/">[comments]</a></span> </td></tr></table>
+
+## Epstein list this, Epstein list that, is everyone suffering memory lapse?
+ - [https://www.reddit.com/r/conspiracy/comments/1iziw8n/epstein_list_this_epstein_list_that_is_everyone](https://www.reddit.com/r/conspiracy/comments/1iziw8n/epstein_list_this_epstein_list_that_is_everyone)
+ - RSS feed: $source
+ - date published: 2025-02-27T15:51:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>If you were in this sub you when the story broke on my galaxy I had downloaded the Epstein black book and the flight logs. We all know who the fuck was on this list already. Why do they keep acting like it’s new information. Am I crazy? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dense-Judge-1235"> /u/Dense-Judge-1235 </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1iziw8n/epstein_list_this_epstein_list_that_is_everyone/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iziw8n/epstein_list_this_epstein_list_that_is_everyone/">[comments]</a></span>
+
+## Anyone else have a hard time believing they threw Osama Bin Laden in the ocean? Always found this suspicious
+ - [https://www.reddit.com/r/conspiracy/comments/1izh3sx/anyone_else_have_a_hard_time_believing_they_threw](https://www.reddit.com/r/conspiracy/comments/1izh3sx/anyone_else_have_a_hard_time_believing_they_threw)
+ - RSS feed: $source
+ - date published: 2025-02-27T14:32:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve always felt something was fishy about the official story even when I wasn’t into conspiracy theories back then. When have you ever heard of them throwing any body “in the ocean”, and no one, aside from conspiracy theorists, seems to have questioned it. </p> <p>Additionally, another notable thing was the difference in how Saddam was treated compared to Bin Laden, it’s like night and day. When Saddam was captured, they were excitedly parading and humiliating him all around, they couldn’t wait to show all those photos of him, along with the ragged state he was in, and even broadcasted his execution on TV in 2006, to really drive home the fact to everyone that Saddam is indeed dead.</p> <p>Yet, absolutely no proof for Bin Laden, the man who is said to be responsible for the biggest terrorist attack in US history? Thats all? </p> <p>Yeah… ok then…</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rafvic2"> /u/rafv
+
+## The overreaction to DOGE proves the deep state corruption is ingulfed in the government
+ - [https://www.reddit.com/r/conspiracy/comments/1izgz1d/the_overreaction_to_doge_proves_the_deep_state](https://www.reddit.com/r/conspiracy/comments/1izgz1d/the_overreaction_to_doge_proves_the_deep_state)
+ - RSS feed: $source
+ - date published: 2025-02-27T14:26:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>That&#39;s why they hate Donald Trump and Elon Musk so much, exposing how much kickbacks from that USAID money they got and exposing how much garbage taxpayer dollars are being used to fund...... 1.5 million to fund DEI initiatives in Serbia...... that&#39;s alot of money that could have been used to try to fix the homeless problem in America. Trump basically announced he was going to dismantle the deep state, that&#39;s why they put a bullet in his ear.... </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mystic_prodigy23"> /u/mystic_prodigy23 </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1izgz1d/the_overreaction_to_doge_proves_the_deep_state/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izgz1d/the_overreaction_to_doge_proves_the_deep_state/">[comments]</a></span>
+
+## Epstein's list. Not clickbait, just a heavily redacted Nothing Burger, it's about all we can expect right?
+ - [https://www.reddit.com/r/conspiracy/comments/1izgylq/epsteins_list_not_clickbait_just_a_heavily](https://www.reddit.com/r/conspiracy/comments/1izgylq/epsteins_list_not_clickbait_just_a_heavily)
+ - RSS feed: $source
+ - date published: 2025-02-27T14:25:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izgylq/epsteins_list_not_clickbait_just_a_heavily/"> <img src="https://preview.redd.it/1i4gfn1qyole1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=26b071197497d38b5be816fd7f89c234081da2fc" alt="Epstein's list. Not clickbait, just a heavily redacted Nothing Burger, it's about all we can expect right?" title="Epstein's list. Not clickbait, just a heavily redacted Nothing Burger, it's about all we can expect right?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NikonD3X1985"> /u/NikonD3X1985 </a> <br/> <span><a href="https://i.redd.it/1i4gfn1qyole1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izgylq/epsteins_list_not_clickbait_just_a_heavily/">[comments]</a></span> </td></tr></table>
+
+## I think I remember something..
+ - [https://www.reddit.com/r/conspiracy/comments/1izgq4k/i_think_i_remember_something](https://www.reddit.com/r/conspiracy/comments/1izgq4k/i_think_i_remember_something)
+ - RSS feed: $source
+ - date published: 2025-02-27T14:14:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izgq4k/i_think_i_remember_something/"> <img src="https://preview.redd.it/yh6qh8xpwole1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1239051611a193df4094d3d27aa78f0fedb44721" alt="I think I remember something.." title="I think I remember something.." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I think I remember something in the bible about golden statue...🤔</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vaesir"> /u/vaesir </a> <br/> <span><a href="https://i.redd.it/yh6qh8xpwole1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izgq4k/i_think_i_remember_something/">[comments]</a></span> </td></tr></table>
+
+## Jonathan Pryce is the Pope
+ - [https://www.reddit.com/r/conspiracy/comments/1izgllv/jonathan_pryce_is_the_pope](https://www.reddit.com/r/conspiracy/comments/1izgllv/jonathan_pryce_is_the_pope)
+ - RSS feed: $source
+ - date published: 2025-02-27T14:08:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izgllv/jonathan_pryce_is_the_pope/"> <img src="https://preview.redd.it/435t636mvole1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1c116e8ab24333c70c05f2dc5ef8b3a102cab9d8" alt="Jonathan Pryce is the Pope" title="Jonathan Pryce is the Pope" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Jonathan Pryce, besides being an actor, is the Pope in real life because, as part of the elite, his ability to play roles makes him the perfect figure to control. Being an actor, his image isn’t genuine; it’s constructed and manipulated, making it even easier for the elite to use him as a puppet. They place the truth right in front of everyone, in figures like him, but in a way that no one perceives it as such. In this way, they have a controlled Pope, just as they have controlled presidents and other figures, using actors to represent a morality and authority that, in reality, only serve their hidden interests.</p> </div>
+
+## Young influencers death linked to MRNA vaccines.
+ - [https://www.reddit.com/r/conspiracy/comments/1izg3sp/young_influencers_death_linked_to_mrna_vaccines](https://www.reddit.com/r/conspiracy/comments/1izg3sp/young_influencers_death_linked_to_mrna_vaccines)
+ - RSS feed: $source
+ - date published: 2025-02-27T13:44:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izg3sp/young_influencers_death_linked_to_mrna_vaccines/"> <img src="https://preview.redd.it/a9zrkjxcrole1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c87ee4abb1facb7a24a1672bd316a99c39ffeba7" alt="Young influencers death linked to MRNA vaccines." title="Young influencers death linked to MRNA vaccines." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Last year I was shocked to hear of the sudden passing of Alex, professionally known as “pretty pastel please”. By all accounts Alex appeared to be in good health and had a full life to look forward to. This is an update posted by her parents to her socials media channels today, although this is tragic I hope this serves as validation to a lot of you whom have been outspoken about the risks of taking the COVID vaccine. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EconomySuccotash896"> /u/EconomySuccotash896 </a> <br/
+
+## Thats... not a woman... Reddit radicalized the mentally ill... stay classy, folks.
+ - [https://www.reddit.com/r/conspiracy/comments/1izfad0/thats_not_a_woman_reddit_radicalized_the_mentally](https://www.reddit.com/r/conspiracy/comments/1izfad0/thats_not_a_woman_reddit_radicalized_the_mentally)
+ - RSS feed: $source
+ - date published: 2025-02-27T13:06:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izfad0/thats_not_a_woman_reddit_radicalized_the_mentally/"> <img src="https://preview.redd.it/covwnq3jkole1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=589e1aef59877769401222a12b0dc7f9b51b9b14" alt="Thats... not a woman... Reddit radicalized the mentally ill... stay classy, folks." title="Thats... not a woman... Reddit radicalized the mentally ill... stay classy, folks." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/420Migo"> /u/420Migo </a> <br/> <span><a href="https://i.redd.it/covwnq3jkole1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izfad0/thats_not_a_woman_reddit_radicalized_the_mentally/">[comments]</a></span> </td></tr></table>
+
+## The reason an "Epstein list" hasn't been released is because it's not the US' op to release
+ - [https://www.reddit.com/r/conspiracy/comments/1izf36s/the_reason_an_epstein_list_hasnt_been_released_is](https://www.reddit.com/r/conspiracy/comments/1izf36s/the_reason_an_epstein_list_hasnt_been_released_is)
+ - RSS feed: $source
+ - date published: 2025-02-27T12:56:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Epstein was working for Mossad, at very least a Mossad-CIA joint venture. Why did the dems not release a list to hit Trump? Why did Trump not release a list to hit the Clintons in his first term? because it wasn&#39;t their call, it&#39;s Mossad&#39;s op and they get to decide. If one is being released shortly - on the heels of the Gaza genocide, incursion into southern Syria, and rumors of war with Iran - expect it to name individuals who wouldn&#39;t play along. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lets_buy_guns"> /u/lets_buy_guns </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1izf36s/the_reason_an_epstein_list_hasnt_been_released_is/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izf36s/the_reason_an_epstein_list_hasnt_been_released_is/">[comments]</a></span>
+
+## Is the death of Gene Hackman connected to the epstein list? And will we see more celebrity deaths in the next 24h
+ - [https://www.reddit.com/r/conspiracy/comments/1izeb3r/is_the_death_of_gene_hackman_connected_to_the](https://www.reddit.com/r/conspiracy/comments/1izeb3r/is_the_death_of_gene_hackman_connected_to_the)
+ - RSS feed: $source
+ - date published: 2025-02-27T12:11:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>The first news item I saw today was the announcement that the epstein files will be released tomorrow.</p> <p>The next one was the death of Gene Hackman, his wife and his dog.</p> <p>The timing makes my conspiracy sense tingle. And makes me wonder if we will see more famous people unalive themselves in the next 24h?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sabertooth_Penguin"> /u/Sabertooth_Penguin </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1izeb3r/is_the_death_of_gene_hackman_connected_to_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izeb3r/is_the_death_of_gene_hackman_connected_to_the/">[comments]</a></span>
+
+## What is the deal with Pterodactyls
+ - [https://www.reddit.com/r/conspiracy/comments/1izd5ho/what_is_the_deal_with_pterodactyls](https://www.reddit.com/r/conspiracy/comments/1izd5ho/what_is_the_deal_with_pterodactyls)
+ - RSS feed: $source
+ - date published: 2025-02-27T10:57:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izd5ho/what_is_the_deal_with_pterodactyls/"> <img src="https://preview.redd.it/wukzwtfmxnle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d7b0a360d384c20cfd9f39e889b72b4fa97e3e9" alt="What is the deal with Pterodactyls" title="What is the deal with Pterodactyls" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>There was a thread earlier asking about, “things you know you saw but have no way to prove”, a lot of these entries are interesting but it stands out to me that in everybody’s personal experiences, there is quite a few people who say they saw pterodactyls. this is interesting to me because out of all the responses, this one seems to have affected many people present in the same thread. I will say that I personally have never had this experience but I am intrigued to understand if there is a deeper idea behind pterodactyl conspiracies and I would like to hear and personal stories y’all have about wi
+
+## Weird update to Gene Hackman’s wiki page
+ - [https://www.reddit.com/r/conspiracy/comments/1izc9th/weird_update_to_gene_hackmans_wiki_page](https://www.reddit.com/r/conspiracy/comments/1izc9th/weird_update_to_gene_hackmans_wiki_page)
+ - RSS feed: $source
+ - date published: 2025-02-27T09:55:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1izc9th/weird_update_to_gene_hackmans_wiki_page/"> <img src="https://preview.redd.it/l5o94ujgmnle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f1f9ed338e3d502631a8051ab4e76a474b9c675" alt="Weird update to Gene Hackman’s wiki page" title="Weird update to Gene Hackman’s wiki page" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mingusborealis"> /u/mingusborealis </a> <br/> <span><a href="https://i.redd.it/l5o94ujgmnle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izc9th/weird_update_to_gene_hackmans_wiki_page/">[comments]</a></span> </td></tr></table>
+
+## Shared from Bing: Gene Hackman and Wife Found Dead at Home
+ - [https://www.reddit.com/r/conspiracy/comments/1izbxcd/shared_from_bing_gene_hackman_and_wife_found_dead](https://www.reddit.com/r/conspiracy/comments/1izbxcd/shared_from_bing_gene_hackman_and_wife_found_dead)
+ - RSS feed: $source
+ - date published: 2025-02-27T09:29:23+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.msn.com/en-us/news/news/content/ar-AA1zT8ZZ?ocid=sapphireappshare">https://www.msn.com/en-us/news/news/content/ar-AA1zT8ZZ?ocid=sapphireappshare</a></p> <p>The Santa Fe County Sheriff&#39;s Office provided no cause of death but said there was no indication of foul</p> <p>Seems sus</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Room16"> /u/Room16 </a> <br/> <span><a href="https://www.msn.com/en-us/news/news/content/ar-AA1zT8ZZ?ocid=sapphireappshare">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izbxcd/shared_from_bing_gene_hackman_and_wife_found_dead/">[comments]</a></span>
+
+## Gene Hackman wife and dog found dead but no foul play suspected?
+ - [https://www.reddit.com/r/conspiracy/comments/1izbr93/gene_hackman_wife_and_dog_found_dead_but_no_foul](https://www.reddit.com/r/conspiracy/comments/1izbr93/gene_hackman_wife_and_dog_found_dead_but_no_foul)
+ - RSS feed: $source
+ - date published: 2025-02-27T09:16:46+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.santafenewmexican.com/news/local_news/sheriff-gene-hackman-wife-found-dead-in-santa-fe-home-no-foul-play-suspected/article_2ea8855a-f4b8-11ef-b501-73232a2b5213.html">https://www.santafenewmexican.com/news/local_news/sheriff-gene-hackman-wife-found-dead-in-santa-fe-home-no-foul-play-suspected/article_2ea8855a-f4b8-11ef-b501-73232a2b5213.html</a></p> <p>You mean to tell me a couple and their dog all dying at once isn’t suspicious?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MoldyZebraCake666"> /u/MoldyZebraCake666 </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1izbr93/gene_hackman_wife_and_dog_found_dead_but_no_foul/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izbr93/gene_hackman_wife_and_dog_found_dead_but_no_foul/">[comments]</a></span>
+
+## Instagram gore is getting out of hand
+ - [https://www.reddit.com/r/conspiracy/comments/1izal1b/instagram_gore_is_getting_out_of_hand](https://www.reddit.com/r/conspiracy/comments/1izal1b/instagram_gore_is_getting_out_of_hand)
+ - RSS feed: $source
+ - date published: 2025-02-27T07:47:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have deactivated instagram for 2 months now, but yesterday i met my friend group and they all strted talking about gore being constantly appearing in their ig, then i opened by burner acc to check, and it was true. Just to lyk i am based in south asia, and this is not a particular country based thing but happening all over the world, I highly doubt this is normal or just a mistake by a tech giant. is this symbolism, cryptic or some message?. Are they trying normalize gore? bcs thats what we will be seeing in the future?. Are we being conditioned to handle gore? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Syncronising"> /u/Syncronising </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1izal1b/instagram_gore_is_getting_out_of_hand/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1izal1b/instagram_gore_is_getting_out_of_hand/">[comments]</a></span>
+
+## Assasinated Japanese P.M. didn’t follow WEF orders. Didn’t mandate vaccines
+ - [https://www.reddit.com/r/conspiracy/comments/1iz9kn5/assasinated_japanese_pm_didnt_follow_wef_orders](https://www.reddit.com/r/conspiracy/comments/1iz9kn5/assasinated_japanese_pm_didnt_follow_wef_orders)
+ - RSS feed: $source
+ - date published: 2025-02-27T06:33:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iz9kn5/assasinated_japanese_pm_didnt_follow_wef_orders/"> <img src="https://preview.redd.it/iwx395nskmle1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=8d0ff3e2b1df4f9519ce90b531740fe0c71c446f" alt="Assasinated Japanese P.M. didn’t follow WEF orders. Didn’t mandate vaccines" title="Assasinated Japanese P.M. didn’t follow WEF orders. Didn’t mandate vaccines" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shizukuten"> /u/shizukuten </a> <br/> <span><a href="https://i.redd.it/iwx395nskmle1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iz9kn5/assasinated_japanese_pm_didnt_follow_wef_orders/">[comments]</a></span> </td></tr></table>
+
+## I'm sick of political crap invading every conversation. Give me anything else, please?
+ - [https://www.reddit.com/r/conspiracy/comments/1iz81gv/im_sick_of_political_crap_invading_every](https://www.reddit.com/r/conspiracy/comments/1iz81gv/im_sick_of_political_crap_invading_every)
+ - RSS feed: $source
+ - date published: 2025-02-27T04:57:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hiii friends, I&#39;m burnt out. I don&#39;t want to hear anymore crap about left or right. Can y&#39;all distract me with some good old-fashioned non-political rabbit holes?! I want something to deep dive and get lost in for a while... What is your favorite conspiracy? Maybe even one that you think people may not even know much about?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/-la-la-"> /u/-la-la- </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1iz81gv/im_sick_of_political_crap_invading_every/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iz81gv/im_sick_of_political_crap_invading_every/">[comments]</a></span>
+
+## Tate Brothers Possibly Fled Romania
+ - [https://www.reddit.com/r/conspiracy/comments/1iz6exd/tate_brothers_possibly_fled_romania](https://www.reddit.com/r/conspiracy/comments/1iz6exd/tate_brothers_possibly_fled_romania)
+ - RSS feed: $source
+ - date published: 2025-02-27T03:27:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iz6exd/tate_brothers_possibly_fled_romania/"> <img src="https://b.thumbs.redditmedia.com/QKbTMlOxiL_SryVBn-TP7PJSl5xsXU2bdX2jKqiAC1Q.jpg" alt="Tate Brothers Possibly Fled Romania" title="Tate Brothers Possibly Fled Romania" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This is following talks of Trump officials pressuring Romanian authorities to release the Tate brothers.</p> <p>They’ve been offline for 48 hours now, which, they literally have not done in about ten years. Even when they were in prison they were getting people to tweet for them over phone calls.</p> <p>Thoughts?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/saiyamannnn"> /u/saiyamannnn </a> <br/> <span><a href="https://www.reddit.com/gallery/1iz6exd">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iz6exd/tate_brothers_possibly_fled_romania/">[comments]</a></span> <
+
+## Elon Musk changed the "Grok" symbol from a broken cross to a Saturn symbol - he is not our friend
+ - [https://www.reddit.com/r/conspiracy/comments/1iz5p4k/elon_musk_changed_the_grok_symbol_from_a_broken](https://www.reddit.com/r/conspiracy/comments/1iz5p4k/elon_musk_changed_the_grok_symbol_from_a_broken)
+ - RSS feed: $source
+ - date published: 2025-02-27T02:50:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iz5p4k/elon_musk_changed_the_grok_symbol_from_a_broken/"> <img src="https://preview.redd.it/v1n314knille1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4c4a7970440ee269c9d18fadd934def0cb850680" alt="Elon Musk changed the &quot;Grok&quot; symbol from a broken cross to a Saturn symbol - he is not our friend" title="Elon Musk changed the &quot;Grok&quot; symbol from a broken cross to a Saturn symbol - he is not our friend" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tractorista"> /u/Tractorista </a> <br/> <span><a href="https://i.redd.it/v1n314knille1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iz5p4k/elon_musk_changed_the_grok_symbol_from_a_broken/">[comments]</a></span> </td></tr></table>
+
+## Does reality feel fake to you? Here’s why you’re not crazy.
+ - [https://www.reddit.com/r/conspiracy/comments/1iz4zut/does_reality_feel_fake_to_you_heres_why_youre_not](https://www.reddit.com/r/conspiracy/comments/1iz4zut/does_reality_feel_fake_to_you_heres_why_youre_not)
+ - RSS feed: $source
+ - date published: 2025-02-27T02:14:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Have you ever felt like the world around you doesn’t make sense? Like everything—news, school, social media—is just a scripted illusion designed to keep people distracted?</p> <p>You’re not alone. More and more people are waking up to the fact that <strong>what we see isn’t the full truth—it’s a version of reality that was fed to us.</strong></p> <p>Think about it:</p> <ul> <li>Schools teach obedience, not independent thought.</li> <li>The news doesn’t inform—it manipulates.</li> <li>Social media isn’t about connection—it’s about control.</li> <li>Most people don’t think—they just repeat what they’ve been told.</li> </ul> <p>And the craziest part? <strong>You’ve been conditioned to accept it all without question.</strong></p> <p>But here’s what they don’t want you to realize: <strong>Your perception isn’t fixed. It was shaped. And if it was shaped… it can be reshaped.</strong></p> <p>Once you start seeing through the illusion, <strong>everything chan
+
+## What do you SWEAR you saw, but don’t have any proof of?
+ - [https://www.reddit.com/r/conspiracy/comments/1iz4yuq/what_do_you_swear_you_saw_but_dont_have_any_proof](https://www.reddit.com/r/conspiracy/comments/1iz4yuq/what_do_you_swear_you_saw_but_dont_have_any_proof)
+ - RSS feed: $source
+ - date published: 2025-02-27T02:12:48+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/ContactCreative8914"> /u/ContactCreative8914 </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1iz4yuq/what_do_you_swear_you_saw_but_dont_have_any_proof/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iz4yuq/what_do_you_swear_you_saw_but_dont_have_any_proof/">[comments]</a></span>
+
+## Translation: These New World Order Globalists Organizations only get their power from America. Without big daddy America these Fake Organizations have no power.
+ - [https://www.reddit.com/r/conspiracy/comments/1iz4w4w/translation_these_new_world_order_globalists](https://www.reddit.com/r/conspiracy/comments/1iz4w4w/translation_these_new_world_order_globalists)
+ - RSS feed: $source
+ - date published: 2025-02-27T02:08:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iz4w4w/translation_these_new_world_order_globalists/"> <img src="https://preview.redd.it/hd7rv4r9blle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=085498b180e2b2ea16c5f7b794b3baa00c905d19" alt="Translation: These New World Order Globalists Organizations only get their power from America. Without big daddy America these Fake Organizations have no power." title="Translation: These New World Order Globalists Organizations only get their power from America. Without big daddy America these Fake Organizations have no power." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DueDrama8301"> /u/DueDrama8301 </a> <br/> <span><a href="https://i.redd.it/hd7rv4r9blle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iz4w4w/translation_these_new_world_order_globalists/">[comments]</a></span> </td></tr></table>
+
+## Pam Bondi says Epstein files to be released tomorrow with flight logs and names
+ - [https://www.reddit.com/r/conspiracy/comments/1iz4epk/pam_bondi_says_epstein_files_to_be_released](https://www.reddit.com/r/conspiracy/comments/1iz4epk/pam_bondi_says_epstein_files_to_be_released)
+ - RSS feed: $source
+ - date published: 2025-02-27T01:44:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iz4epk/pam_bondi_says_epstein_files_to_be_released/"> <img src="https://external-preview.redd.it/xmVzBm6XYFMRcrBGYVHDIV8Pc5nHgZAPUMMfaiunfoA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4f630c45d177b8e47388e9a4a012ac8673f94e95" alt="Pam Bondi says Epstein files to be released tomorrow with flight logs and names" title="Pam Bondi says Epstein files to be released tomorrow with flight logs and names" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IrishStarUS"> /u/IrishStarUS </a> <br/> <span><a href="https://www.irishstar.com/news/us-news/breaking-epstein-files-to-released-34758699">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iz4epk/pam_bondi_says_epstein_files_to_be_released/">[comments]</a></span> </td></tr></table>
+
+## Pam Bondi just confirmed that some Epstein files will be released tomorrow. Who do you think will be exposed on the list?
+ - [https://www.reddit.com/r/conspiracy/comments/1iz4b7i/pam_bondi_just_confirmed_that_some_epstein_files](https://www.reddit.com/r/conspiracy/comments/1iz4b7i/pam_bondi_just_confirmed_that_some_epstein_files)
+ - RSS feed: $source
+ - date published: 2025-02-27T01:39:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iz4b7i/pam_bondi_just_confirmed_that_some_epstein_files/"> <img src="https://preview.redd.it/9s8r1ssy5lle1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fc9f238169ecc5e5d0c2285c78a85ea0988376ea" alt="Pam Bondi just confirmed that some Epstein files will be released tomorrow. Who do you think will be exposed on the list?" title="Pam Bondi just confirmed that some Epstein files will be released tomorrow. Who do you think will be exposed on the list?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lboog423"> /u/lboog423 </a> <br/> <span><a href="https://i.redd.it/9s8r1ssy5lle1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iz4b7i/pam_bondi_just_confirmed_that_some_epstein_files/">[comments]</a></span> </td></tr></table>
+
+## Is Instagram (meta) running a big scale test again? (Like in 2014) So much violent content today
+ - [https://www.reddit.com/r/conspiracy/comments/1iz382k/is_instagram_meta_running_a_big_scale_test_again](https://www.reddit.com/r/conspiracy/comments/1iz382k/is_instagram_meta_running_a_big_scale_test_again)
+ - RSS feed: $source
+ - date published: 2025-02-27T00:45:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Anyone else’s Instagram feed full of violent videos today? I keep seeing really graphic stuff like murder and electrocutions. My friends have the same thing, and the comments on posts are full of people asking what’s going on.</p> <p>Facebook (Meta) has done this before- back in 2014 they secretly tested how different content affects people’s emotions by changing what users saw in their feeds - they proved social media can control emotions. Could this be another experiment? Or is Instagram just broken</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dewdroe"> /u/dewdroe </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1iz382k/is_instagram_meta_running_a_big_scale_test_again/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iz382k/is_instagram_meta_running_a_big_scale_test_again/">[comments]</a></span>
+
+## DOJ refuses requests to release the Epstein, JFK, MLK, RFK files. What's the hold up? What happened to day one?
+ - [https://www.reddit.com/r/conspiracy/comments/1iz32an/doj_refuses_requests_to_release_the_epstein_jfk](https://www.reddit.com/r/conspiracy/comments/1iz32an/doj_refuses_requests_to_release_the_epstein_jfk)
+ - RSS feed: $source
+ - date published: 2025-02-27T00:38:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/conspiracy/comments/1iz32an/doj_refuses_requests_to_release_the_epstein_jfk/"> <img src="https://b.thumbs.redditmedia.com/7ZX-GApBO3n5CwDWNv73_lPt-gG4ZICEi7OMKVd-yls.jpg" alt="DOJ refuses requests to release the Epstein, JFK, MLK, RFK files. What's the hold up? What happened to day one?" title="DOJ refuses requests to release the Epstein, JFK, MLK, RFK files. What's the hold up? What happened to day one?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Why the delay of this? Need more time to edit and manipulate information to fit a narrative for this administration?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zxphenomenalxz"> /u/Zxphenomenalxz </a> <br/> <span><a href="https://www.reddit.com/gallery/1iz32an">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iz32an/doj_refuses_requests_to_release_the_epstein_jfk/">[comments]</a></span> </td></tr></table>
+
+## Bring back "Woke"
+ - [https://www.reddit.com/r/conspiracy/comments/1iz2t51/bring_back_woke](https://www.reddit.com/r/conspiracy/comments/1iz2t51/bring_back_woke)
+ - RSS feed: $source
+ - date published: 2025-02-27T00:26:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>i remember as a teen being Woke meant, knowing that Bush did 9/11 and Reptilians exist within our goverment. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mr_pancakez"> /u/mr_pancakez </a> <br/> <span><a href="https://www.reddit.com/r/conspiracy/comments/1iz2t51/bring_back_woke/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/conspiracy/comments/1iz2t51/bring_back_woke/">[comments]</a></span>
+

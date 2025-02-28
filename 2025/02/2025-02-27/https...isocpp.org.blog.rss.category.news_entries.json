@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-27T22:51:57+00:00",
+        "description": "<p>\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 250px; margin: 10px; float: right; height: 250px;\" />In this post, we are going to discuss a core language feature proposed by Corentin Jabot and Micheal Park in P2169R4. With the new standard we get a cool unnamed placeholder.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2025/01/08/cpp26-unnamed-placeholders\">C++26: A Placeholder with No Name</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\tBy convention, when we have a variable whose value we don&rsquo;t want to use or care about, we often name it&nbsp;<code>_</code>. The problem is that with higher warning levels (<code>-Wunused-variable</code>), our compilation might fail because&nbsp;<code>_</code>&nbsp;is unused.</blockquote>\n<blockquote>\n\t<pre>\nint foo() {&#10;return 42;&#10;}&#10;&#10;auto _ = foo();&#10;/* error: unused variable &#39;_&#39; [-Werror,-Wu",
+        "id": 2212807,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/02/cpp26-a-placeholder-with-no-name-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "C++26: A Placeholder with No Name -- Sandor Dargo",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andrej Karpathy",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-27T22:29:56+00:00",
+        "description": "The example-driven, practical walkthrough of Large Language Models and their growing list of related features, as a new entry to my general audience series on LLMs. In this more practical followup, I take you through the many ways I use LLMs in my own life.\n\nChapters\n00:00:00 Intro into the growing LLM ecosystem\n00:02:54 ChatGPT interaction under the hood\n00:13:12 Basic LLM interactions examples\n00:18:03 Be aware of the model you're using, pricing tiers\n00:22:54 Thinking models and when to use them\n00:31:00 Tool use: internet search\n00:42:04 Tool use: deep research\n00:50:57 File uploads, adding documents to context\n00:59:00 Tool use: python interpreter, messiness of the ecosystem\n01:04:35 ChatGPT Advanced Data Analysis, figures, plots\n01:09:00 Claude Artifacts, apps, diagrams\n01:14:02 Cursor: Composer, writing code\n01:22:28 Audio (Speech) Input/Output\n01:27:37 Advanced Voice Mode aka true audio inside the model\n01:37:09 NotebookLM, podcast generation\n01:40:20 Image input, OCR\n01:47:0",
+        "id": 2212557,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=EWvNQjAaOHw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 583,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EWvNQjAaOHw/hqdefault.jpg",
+        "title": "How I use LLMs",
+        "vote": 0
+    }
+]

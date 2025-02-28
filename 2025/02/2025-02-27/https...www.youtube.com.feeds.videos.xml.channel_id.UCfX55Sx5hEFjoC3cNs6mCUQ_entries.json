@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-27T17:00:37+00:00",
+        "description": "Faster diagnoses. Personalized care. Life-saving research. AI promises all of this\u2014but only if we unlock the data. The fix? Open interoperability.",
+        "id": 2210072,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ScYNM7o_fPA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ScYNM7o_fPA/hqdefault.jpg",
+        "title": "The Power of Open Interoperability",
+        "vote": 0
+    }
+]

@@ -1,0 +1,47 @@
+# Source:Louder With Crowder, URL:https://louderwithcrowder.com/feed, language:en-US
+
+## Joy Behar slanders Elon Musk as "pro-apartheid,” but an attorney must have gotten to her during the commercial break...
+ - [https://www.louderwithcrowder.com/behar-musk-apartheid](https://www.louderwithcrowder.com/behar-musk-apartheid)
+ - RSS feed: $source
+ - date published: 2025-02-27T21:40:20+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=56611263&width=1200&height=800&coordinates=24%2C0%2C25%2C0"/><br/><br/><p>According to Joy Behar, she does not know the validity of her claims. This is why she falsely stated that Elon Musk was "pro-apartheid” and proceeded to beg him for forgiveness out of fear of litigation.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">Behar complains about "getting flack" about accusing Musk of being "pro-apartheid" as a child and begs <a href="https://twitter.com/elonmusk?ref_src=twsrc%5Etfw">@ElonMusk</a> not to sue her for defamation:<br/>"I don't really know for sure if he was. He grew up in that time when [it] was in full blown...He was around at that time. Maybe he was,… <a href="https://t.co/qcBVdI1T2J">pic.twitter.com/qcBVdI1T2J</a><br/>— Nicholas Fondacaro (@NickFondacaro) <a href="https://twitter.com/NickFondacaro/status/1895150442725679361?ref_src=twsrc%5Etfw">February 27, 2025</a></blockquo
+
+## NY Governor blames Trump for NYC's egg prices skyrocketing, manages to forget why SHE is to blame
+ - [https://www.louderwithcrowder.com/hochul-egg-prices](https://www.louderwithcrowder.com/hochul-egg-prices)
+ - RSS feed: $source
+ - date published: 2025-02-27T19:25:02+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.jpg?id=56610833&width=1245&height=700&coordinates=3%2C0%2C4%2C0"/><br/><br/><p>It’s common sense that the fewer poultry farms and hens in the world, the more expensive eggs will be. In other words, supply and demand. New York Gov. Kathy Hochul has closed her fair share of farms recently but that won’t stop her from blaming Trump, as she attempts to project her wrongdoings on other people.</p><div class="rm-embed embed-media"><blockquote class="twitter-tweet">GOVERNOR KATHY HOCHUL: "You know what the cost of eggs in New York City are...? It went up 40% since Donald Trump was elected!" <a href="https://t.co/fnU7QyBT3W">pic.twitter.com/fnU7QyBT3W</a><br/>— Townhall.com (@townhallcom) <a href="https://twitter.com/townhallcom/status/1895126134008033311?ref_src=twsrc%5Etfw">February 27, 2025</a></blockquote> <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div><p>According to <a href="h
+
+## Watch: A $17M Puppet Show? The Government’s Insane Waste Will Leave You Speechless!
+ - [https://www.louderwithcrowder.com/17m-muppet-show](https://www.louderwithcrowder.com/17m-muppet-show)
+ - RSS feed: $source
+ - date published: 2025-02-27T17:09:03+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.webp?id=56607006&width=1200&height=600&coordinates=0%2C39%2C0%2C39"/><br/><br/><p>The DOGE audit <a href="https://x.com/VigilantFox/status/1894714986162958479" rel="noopener noreferrer" target="_blank"><u>revealed a puppet show</u></a> worth $17M and it is worse than you think. Today’s <a href="https://www.louderwithcrowder.com/sources-february-27-2025" target="_self"><u>show </u></a>breaks it down.</p><p class="shortcode-media shortcode-media-youtube">
+<span class="rm-shortcode" data-rm-shortcode-id="bf66d50e73186b3929c77a46d750e8e0" style="display:block;position:relative;padding-top:56.25%;"><iframe frameborder="0" height="auto" lazy-loadable="true" scrolling="no" src="https://www.youtube.com/embed/h0ZW2skSC4c?rel=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" width="100%"></iframe></span>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">- YouTube</small>
+<small class="imag
+
+## Sources: Canada Threatens to Nuke America & $17M Dollar Muppets
+ - [https://www.louderwithcrowder.com/sources-february-27-2025](https://www.louderwithcrowder.com/sources-february-27-2025)
+ - RSS feed: $source
+ - date published: 2025-02-27T14:51:02+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=56605966&width=2000&height=1500&coordinates=240%2C0%2C240%2C0"/><br/><br/><p>Attorney General Pam Bondi stated her office will be releasing Jeffrey Epstein files today, the Department of Government Efficiency audit has revealed another absurd project in the form of a $17M puppet show as exposed by X user @DataRepublican, Canadian candidates for interim Prime Minister held an English-language debate and we have a lot to say about their discussion of military might & energy, President Trump is shaking up Medicaid, and much more!</p><div class="rm-embed embed-media"><iframe allowfullscreen="" class="rumble" frameborder="0" height="360" src="https://rumble.com/embed/v6nmbce/?pub=4430ut" width="640"></iframe></div><p><strong>CANADIAN MINISTER THREATENS US?</strong></p><ul><li><a href="https://www.cbc.ca/history/EPISCONTENTSE1EP16CH1PA4LE.html" rel="noopener noreferrer" target="_blank">The October Crisis</a></li><li><a 
+
+## Desperate reporters attempt to get new "Superman" director to attack Donald Trump, but he refuses the bait
+ - [https://www.louderwithcrowder.com/superman-james-gunn-donald-trump](https://www.louderwithcrowder.com/superman-james-gunn-donald-trump)
+ - RSS feed: $source
+ - date published: 2025-02-27T12:29:43+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=56605242&width=1200&height=800&coordinates=297%2C0%2C297%2C0"/><br/><br/><p>Few superheroes have been as politicized in comic books than Superman.  Over the past few years, we've seen him renounce his American citizenship while he fights climate change and opposes common sense illegal immigration reform with a bisexual son. A new movie is coming out this summer, and entertainment journalismers are desperate for it to attack Donald Trump. Director James Gunn refuses to play along and take any of their bait.</p><p>It's refreshing because, as ridiculous as teaser trailers and teaser trailers to teaser trailers are getting (<a href="https://www.louderwithcrowder.com/fantastic-four-trailer" target="_blank">we're looking at you, Fantastic Four</a>), Gunn NAILED it with Superman. I still think of that solo guitar lick playing the classic theme from the '80s.</p><div class="rm-embed embed-media"><blockquote class="twitter
+
+## Enjoy watching someone get knocked out with a 2-liter bottle of soda in the funniest shoplifting fail you'll see this week
+ - [https://www.louderwithcrowder.com/shoplifter-knocked-out-coke-bottle](https://www.louderwithcrowder.com/shoplifter-knocked-out-coke-bottle)
+ - RSS feed: $source
+ - date published: 2025-02-27T11:34:41+00:00
+
+<img src="https://www.louderwithcrowder.com/media-library/image.png?id=50337984&width=1200&height=800&coordinates=0%2C0%2C200%2C0"/><br/><br/><p style="">It's the little things in life. The sun and weather signaling that spring is on the way. The sound of happy families as they walk the kids to school with the dog. Day drinking. Also, watching a shoplifter get KTFO'd with a bottle of Coke. We assume Coke because... Pepsi? Ew gross. As we all revel in another week of winning under the Trump administration, please enjoy this chucklehead who sucks at life.</p><p style="">As with most videos, we don't know where this takes place. We'll call it somewhere in America. It could even be in real America, as opposed to a progressive-run city. It's not that shoplifting doesn't exist in rural areas or the suburbs; it's just not encouraged like it is in <a href="https://www.louderwithcrowder.com/eric-adams-destroy-new-york-city" target="_blank">New York City,</a> <a href="https://www.louderwithcro
+

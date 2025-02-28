@@ -1,0 +1,219 @@
+# Source:All things Warhammer!, URL:https://www.reddit.com/r/Warhammer/.rss, language:en
+
+## Kainan the reaper.
+ - [https://www.reddit.com/r/Warhammer/comments/1izt5ge/kainan_the_reaper](https://www.reddit.com/r/Warhammer/comments/1izt5ge/kainan_the_reaper)
+ - RSS feed: $source
+ - date published: 2025-02-27T23:02:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izt5ge/kainan_the_reaper/"> <img src="https://b.thumbs.redditmedia.com/CT20ieB9MQkklmONA8aR2QmbcXA0AsnlzjOXLKWT7DY.jpg" alt="Kainan the reaper." title="Kainan the reaper." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bravesheep16"> /u/Bravesheep16 </a> <br/> <span><a href="https://www.reddit.com/gallery/1izt5ge">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izt5ge/kainan_the_reaper/">[comments]</a></span> </td></tr></table>
+
+## Night Gobbos are now at 1k for The Old World!
+ - [https://www.reddit.com/r/Warhammer/comments/1izrxg1/night_gobbos_are_now_at_1k_for_the_old_world](https://www.reddit.com/r/Warhammer/comments/1izrxg1/night_gobbos_are_now_at_1k_for_the_old_world)
+ - RSS feed: $source
+ - date published: 2025-02-27T22:08:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izrxg1/night_gobbos_are_now_at_1k_for_the_old_world/"> <img src="https://b.thumbs.redditmedia.com/XjYQWCyMFkUsaEF8wE5kF_2YSROOfPgzp74DdTgB-rU.jpg" alt="Night Gobbos are now at 1k for The Old World!" title="Night Gobbos are now at 1k for The Old World!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Trolls were sprayed Black then the Blue is Macragge Blue, Washed with Nuln Oil and dry brushed with Hoeth Blue and then Fenrision Grey. The Cream was Ionrach Skin washed with Athonian Camoshade and dry brushed with Ionrach Skin. The eyes were based with White Scar and painted with Nazdreg Yellow with a Black Templar pupils. The claws and teeth are Wraithbone washed Skeleton Horde. Bones are morghast bone washed with Skeleton Horde.</p> <p>The Night Goblin are my SlapChop method and Squigs are Khrone Red washed with Carroberg Crimson then dry brushed with Wazdakka and then Wild Rider Red. The eyes are were based wit
+
+## Night goblin fanatic
+ - [https://www.reddit.com/r/Warhammer/comments/1izrn9i/night_goblin_fanatic](https://www.reddit.com/r/Warhammer/comments/1izrn9i/night_goblin_fanatic)
+ - RSS feed: $source
+ - date published: 2025-02-27T21:55:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izrn9i/night_goblin_fanatic/"> <img src="https://preview.redd.it/djv7pgx17rle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad153baba8a99bbffc4c3fc499673262e5d13052" alt="Night goblin fanatic" title="Night goblin fanatic" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Skoolstah"> /u/Skoolstah </a> <br/> <span><a href="https://i.redd.it/djv7pgx17rle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izrn9i/night_goblin_fanatic/">[comments]</a></span> </td></tr></table>
+
+## My first marine!
+ - [https://www.reddit.com/r/Warhammer/comments/1izqclb/my_first_marine](https://www.reddit.com/r/Warhammer/comments/1izqclb/my_first_marine)
+ - RSS feed: $source
+ - date published: 2025-02-27T21:00:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izqclb/my_first_marine/"> <img src="https://b.thumbs.redditmedia.com/v9UK_zHS79-YTCpHY_QH8Ok24h6qpt2SA-tfHIBhd6s.jpg" alt="My first marine!" title="My first marine!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>After buying the AoD box I finally got my first space marine painted. It’s my very first miniature that I’ve ever painted and I’m pretty proud of him but I want to hear what you all think. Also I included the colors I used if you wanted to know that for any reason👍</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sabre3255"> /u/Sabre3255 </a> <br/> <span><a href="https://www.reddit.com/gallery/1izqclb">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izqclb/my_first_marine/">[comments]</a></span> </td></tr></table>
+
+## Test lava base
+ - [https://www.reddit.com/r/Warhammer/comments/1izq6tl/test_lava_base](https://www.reddit.com/r/Warhammer/comments/1izq6tl/test_lava_base)
+ - RSS feed: $source
+ - date published: 2025-02-27T20:53:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izq6tl/test_lava_base/"> <img src="https://preview.redd.it/azp47l4uvqle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a4f44d0081efe2d85106cccdf65dcba16c0f06b" alt="Test lava base" title="Test lava base" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kaladinissexy"> /u/kaladinissexy </a> <br/> <span><a href="https://i.redd.it/azp47l4uvqle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izq6tl/test_lava_base/">[comments]</a></span> </td></tr></table>
+
+## Might be a common post here, but I just finished my forest ever miniatures and I want some opinions on how I did? This hobby is MUCH harder than it looks but it’s pretty darn fun :)
+ - [https://www.reddit.com/r/Warhammer/comments/1izq3xw/might_be_a_common_post_here_but_i_just_finished](https://www.reddit.com/r/Warhammer/comments/1izq3xw/might_be_a_common_post_here_but_i_just_finished)
+ - RSS feed: $source
+ - date published: 2025-02-27T20:49:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izq3xw/might_be_a_common_post_here_but_i_just_finished/"> <img src="https://b.thumbs.redditmedia.com/P9Cs-f9UwxxKzk3T11qDWng_O7tPWBoKuRF8FJJcvUE.jpg" alt="Might be a common post here, but I just finished my forest ever miniatures and I want some opinions on how I did? This hobby is MUCH harder than it looks but it’s pretty darn fun :)" title="Might be a common post here, but I just finished my forest ever miniatures and I want some opinions on how I did? This hobby is MUCH harder than it looks but it’s pretty darn fun :)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>ONLY took me over 3 hours to paint these bad boys :) sadly though I only have the introductory set so I’m stuck with only the 1 starter brush :( will definitely be investing in some fine line brushes so I can redo the shoulder pads and get the dark angels insignia implanted :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://ww
+
+## The Purple Gitz gather to celebrate the moon!
+ - [https://www.reddit.com/r/Warhammer/comments/1izq0g1/the_purple_gitz_gather_to_celebrate_the_moon](https://www.reddit.com/r/Warhammer/comments/1izq0g1/the_purple_gitz_gather_to_celebrate_the_moon)
+ - RSS feed: $source
+ - date published: 2025-02-27T20:45:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izq0g1/the_purple_gitz_gather_to_celebrate_the_moon/"> <img src="https://b.thumbs.redditmedia.com/qlpYp2foBZowvzqP_jmWGXgshhV9XaqJI0u8khqEOUk.jpg" alt="The Purple Gitz gather to celebrate the moon!" title="The Purple Gitz gather to celebrate the moon!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Elegant-Loan-1666"> /u/Elegant-Loan-1666 </a> <br/> <span><a href="https://www.reddit.com/gallery/1izq0g1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izq0g1/the_purple_gitz_gather_to_celebrate_the_moon/">[comments]</a></span> </td></tr></table>
+
+## WIP Counts-as DA lieutenant
+ - [https://www.reddit.com/r/Warhammer/comments/1izpnwn/wip_countsas_da_lieutenant](https://www.reddit.com/r/Warhammer/comments/1izpnwn/wip_countsas_da_lieutenant)
+ - RSS feed: $source
+ - date published: 2025-02-27T20:30:40+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/sammunition2020"> /u/sammunition2020 </a> <br/> <span><a href="https://www.reddit.com/gallery/1izpnfd">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izpnwn/wip_countsas_da_lieutenant/">[comments]</a></span>
+
+## Forge World Imperial Navy Thunderbolt Heavy Fighter
+ - [https://www.reddit.com/r/Warhammer/comments/1izoisj/forge_world_imperial_navy_thunderbolt_heavy](https://www.reddit.com/r/Warhammer/comments/1izoisj/forge_world_imperial_navy_thunderbolt_heavy)
+ - RSS feed: $source
+ - date published: 2025-02-27T19:42:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izoisj/forge_world_imperial_navy_thunderbolt_heavy/"> <img src="https://b.thumbs.redditmedia.com/IXcZT49J9xxF0S0Vxo9beAczJhnfKKPo-BP17ur_I9g.jpg" alt="Forge World Imperial Navy Thunderbolt Heavy Fighter" title="Forge World Imperial Navy Thunderbolt Heavy Fighter" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SoberZombie"> /u/SoberZombie </a> <br/> <span><a href="https://www.reddit.com/gallery/1izoisj">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izoisj/forge_world_imperial_navy_thunderbolt_heavy/">[comments]</a></span> </td></tr></table>
+
+## is there ever a lore example of a techpriest joining the tau empire?
+ - [https://www.reddit.com/r/Warhammer/comments/1izoe5l/is_there_ever_a_lore_example_of_a_techpriest](https://www.reddit.com/r/Warhammer/comments/1izoe5l/is_there_ever_a_lore_example_of_a_techpriest)
+ - RSS feed: $source
+ - date published: 2025-02-27T19:36:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izoe5l/is_there_ever_a_lore_example_of_a_techpriest/"> <img src="https://b.thumbs.redditmedia.com/o_Re7PKtA90yWURCPzNjaJVDSwOfqrH-b1r1LuCxYlo.jpg" alt="is there ever a lore example of a techpriest joining the tau empire?" title="is there ever a lore example of a techpriest joining the tau empire?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shattered_one21"> /u/shattered_one21 </a> <br/> <span><a href="https://www.reddit.com/gallery/1izoe5l">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izoe5l/is_there_ever_a_lore_example_of_a_techpriest/">[comments]</a></span> </td></tr></table>
+
+## Seeking advice on painting my Slaves to Darkness Spearhead Thulsa Doom Style (Details in comments)(Pictures of first project attached for idea of my skill level)
+ - [https://www.reddit.com/r/Warhammer/comments/1izncac/seeking_advice_on_painting_my_slaves_to_darkness](https://www.reddit.com/r/Warhammer/comments/1izncac/seeking_advice_on_painting_my_slaves_to_darkness)
+ - RSS feed: $source
+ - date published: 2025-02-27T18:53:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izncac/seeking_advice_on_painting_my_slaves_to_darkness/"> <img src="https://a.thumbs.redditmedia.com/bb9Vd0UYz9EI6MGV3n69HKe1muIgEW1i4lahCgef640.jpg" alt="Seeking advice on painting my Slaves to Darkness Spearhead Thulsa Doom Style (Details in comments)(Pictures of first project attached for idea of my skill level)" title="Seeking advice on painting my Slaves to Darkness Spearhead Thulsa Doom Style (Details in comments)(Pictures of first project attached for idea of my skill level)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thahobbyenjoyer"> /u/thahobbyenjoyer </a> <br/> <span><a href="https://www.reddit.com/gallery/1izncac">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izncac/seeking_advice_on_painting_my_slaves_to_darkness/">[comments]</a></span> </td></tr></table>
+
+## 40k Ork on top, AoS Piggy on the bottom!
+ - [https://www.reddit.com/r/Warhammer/comments/1izkog1/40k_ork_on_top_aos_piggy_on_the_bottom](https://www.reddit.com/r/Warhammer/comments/1izkog1/40k_ork_on_top_aos_piggy_on_the_bottom)
+ - RSS feed: $source
+ - date published: 2025-02-27T17:04:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izkog1/40k_ork_on_top_aos_piggy_on_the_bottom/"> <img src="https://preview.redd.it/fvec7h5zqple1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=44f4b317575e432bc2051d1e1132d4a3cc9fdd2e" alt="40k Ork on top, AoS Piggy on the bottom!" title="40k Ork on top, AoS Piggy on the bottom!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cireesco_art"> /u/cireesco_art </a> <br/> <span><a href="https://i.redd.it/fvec7h5zqple1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izkog1/40k_ork_on_top_aos_piggy_on_the_bottom/">[comments]</a></span> </td></tr></table>
+
+## 2000 points of Dark Angels finally done
+ - [https://www.reddit.com/r/Warhammer/comments/1izjikx/2000_points_of_dark_angels_finally_done](https://www.reddit.com/r/Warhammer/comments/1izjikx/2000_points_of_dark_angels_finally_done)
+ - RSS feed: $source
+ - date published: 2025-02-27T16:16:34+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/johnpaille"> /u/johnpaille </a> <br/> <span><a href="https://www.reddit.com/gallery/1izib8p">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izjikx/2000_points_of_dark_angels_finally_done/">[comments]</a></span>
+
+## Finished the second Terminator for my homebrew Cairn Wraiths chapter
+ - [https://www.reddit.com/r/Warhammer/comments/1iziv0g/finished_the_second_terminator_for_my_homebrew](https://www.reddit.com/r/Warhammer/comments/1iziv0g/finished_the_second_terminator_for_my_homebrew)
+ - RSS feed: $source
+ - date published: 2025-02-27T15:49:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iziv0g/finished_the_second_terminator_for_my_homebrew/"> <img src="https://preview.redd.it/5ix43lipdple1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2d5bec62357ba3f246bf19da4a83d5d728c57e2" alt="Finished the second Terminator for my homebrew Cairn Wraiths chapter" title="Finished the second Terminator for my homebrew Cairn Wraiths chapter" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MangoMinis"> /u/MangoMinis </a> <br/> <span><a href="https://i.redd.it/5ix43lipdple1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iziv0g/finished_the_second_terminator_for_my_homebrew/">[comments]</a></span> </td></tr></table>
+
+## Finished up this Blightlord Terminator
+ - [https://www.reddit.com/r/Warhammer/comments/1iziop6/finished_up_this_blightlord_terminator](https://www.reddit.com/r/Warhammer/comments/1iziop6/finished_up_this_blightlord_terminator)
+ - RSS feed: $source
+ - date published: 2025-02-27T15:42:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iziop6/finished_up_this_blightlord_terminator/"> <img src="https://a.thumbs.redditmedia.com/tpQJCQGuWYuoNx2zpaoQU35mqQN_UzbL4bYxM3OZ_g8.jpg" alt="Finished up this Blightlord Terminator" title="Finished up this Blightlord Terminator" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Single_Psychology152"> /u/Single_Psychology152 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iziop6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iziop6/finished_up_this_blightlord_terminator/">[comments]</a></span> </td></tr></table>
+
+## My 20 year old traitors finally coming to life
+ - [https://www.reddit.com/r/Warhammer/comments/1izil64/my_20_year_old_traitors_finally_coming_to_life](https://www.reddit.com/r/Warhammer/comments/1izil64/my_20_year_old_traitors_finally_coming_to_life)
+ - RSS feed: $source
+ - date published: 2025-02-27T15:38:38+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Butterfreund"> /u/Butterfreund </a> <br/> <span><a href="https://www.reddit.com/gallery/1izd2w8">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izil64/my_20_year_old_traitors_finally_coming_to_life/">[comments]</a></span>
+
+## Help needed - boring mini?
+ - [https://www.reddit.com/r/Warhammer/comments/1izhec2/help_needed_boring_mini](https://www.reddit.com/r/Warhammer/comments/1izhec2/help_needed_boring_mini)
+ - RSS feed: $source
+ - date published: 2025-02-27T14:46:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izhec2/help_needed_boring_mini/"> <img src="https://b.thumbs.redditmedia.com/RtyR-Lh-Pi09xLXfoB1oyJV1QRj59iiJCZklWlqMRSY.jpg" alt="Help needed - boring mini?" title="Help needed - boring mini?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I feel like it&#39;s missing something, but I can&#39;t figure what. Help? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/papy5m0k3r"> /u/papy5m0k3r </a> <br/> <span><a href="https://www.reddit.com/gallery/1izhec2">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izhec2/help_needed_boring_mini/">[comments]</a></span> </td></tr></table>
+
+## Happy with these Glaivewraith Stalker Nighthaunt in a Synthwave flavour
+ - [https://www.reddit.com/r/Warhammer/comments/1izhd0p/happy_with_these_glaivewraith_stalker_nighthaunt](https://www.reddit.com/r/Warhammer/comments/1izhd0p/happy_with_these_glaivewraith_stalker_nighthaunt)
+ - RSS feed: $source
+ - date published: 2025-02-27T14:44:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izhd0p/happy_with_these_glaivewraith_stalker_nighthaunt/"> <img src="https://b.thumbs.redditmedia.com/OeHC7kU7LFp6Vt9QCaqR0vmSqpM2l-x3gMUuGOdwijg.jpg" alt="Happy with these Glaivewraith Stalker Nighthaunt in a Synthwave flavour" title="Happy with these Glaivewraith Stalker Nighthaunt in a Synthwave flavour" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RedofPaw"> /u/RedofPaw </a> <br/> <span><a href="https://www.reddit.com/gallery/1izhd0p">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izhd0p/happy_with_these_glaivewraith_stalker_nighthaunt/">[comments]</a></span> </td></tr></table>
+
+## Kingdom of Bretonnia review, mastery and tactics, Old world legends show
+ - [https://www.reddit.com/r/Warhammer/comments/1izh5dr/kingdom_of_bretonnia_review_mastery_and_tactics](https://www.reddit.com/r/Warhammer/comments/1izh5dr/kingdom_of_bretonnia_review_mastery_and_tactics)
+ - RSS feed: $source
+ - date published: 2025-02-27T14:34:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izh5dr/kingdom_of_bretonnia_review_mastery_and_tactics/"> <img src="https://external-preview.redd.it/lNnNuI44jNeyyNMfqUVDBLg_RG12f2OuKsyuMroKUk0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f9d9192a93c34b97affbb17ddc10ab7b60099a69" alt="Kingdom of Bretonnia review, mastery and tactics, Old world legends show" title="Kingdom of Bretonnia review, mastery and tactics, Old world legends show" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/emcdunna"> /u/emcdunna </a> <br/> <span><a href="https://youtu.be/n6vdC4SlhNw?si=bxTRKHUZtXC-7K6S">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izh5dr/kingdom_of_bretonnia_review_mastery_and_tactics/">[comments]</a></span> </td></tr></table>
+
+## Very Happy With This One - But What Do You Think? :)
+ - [https://www.reddit.com/r/Warhammer/comments/1izgl1h/very_happy_with_this_one_but_what_do_you_think](https://www.reddit.com/r/Warhammer/comments/1izgl1h/very_happy_with_this_one_but_what_do_you_think)
+ - RSS feed: $source
+ - date published: 2025-02-27T14:07:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izgl1h/very_happy_with_this_one_but_what_do_you_think/"> <img src="https://preview.redd.it/da2wcvacvole1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2fd7a59e6a0ffa6c1600483917ec144e755c25f2" alt="Very Happy With This One - But What Do You Think? :)" title="Very Happy With This One - But What Do You Think? :)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Eremon485"> /u/Eremon485 </a> <br/> <span><a href="https://i.redd.it/da2wcvacvole1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izgl1h/very_happy_with_this_one_but_what_do_you_think/">[comments]</a></span> </td></tr></table>
+
+## Heresy Thursday – The Blood Crow is on the hunt
+ - [https://www.reddit.com/r/Warhammer/comments/1izgix6/heresy_thursday_the_blood_crow_is_on_the_hunt](https://www.reddit.com/r/Warhammer/comments/1izgix6/heresy_thursday_the_blood_crow_is_on_the_hunt)
+ - RSS feed: $source
+ - date published: 2025-02-27T14:04:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izgix6/heresy_thursday_the_blood_crow_is_on_the_hunt/"> <img src="https://preview.redd.it/5rcqwyuzuole1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4352c21e466a27846761c94254552ff3fe5ae27" alt="Heresy Thursday – The Blood Crow is on the hunt" title="Heresy Thursday – The Blood Crow is on the hunt" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CMYK_COLOR_MODE"> /u/CMYK_COLOR_MODE </a> <br/> <span><a href="https://i.redd.it/5rcqwyuzuole1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izgix6/heresy_thursday_the_blood_crow_is_on_the_hunt/">[comments]</a></span> </td></tr></table>
+
+## Daivech Thrax (lost crusade's chaos lord) kitbash on chaos space marine champion
+ - [https://www.reddit.com/r/Warhammer/comments/1izghct/daivech_thrax_lost_crusades_chaos_lord_kitbash_on](https://www.reddit.com/r/Warhammer/comments/1izghct/daivech_thrax_lost_crusades_chaos_lord_kitbash_on)
+ - RSS feed: $source
+ - date published: 2025-02-27T14:02:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izghct/daivech_thrax_lost_crusades_chaos_lord_kitbash_on/"> <img src="https://b.thumbs.redditmedia.com/i4WLXdiQhfR38dE9_Zq-SbiBeC60pF3GYL0jsc1rntY.jpg" alt="Daivech Thrax (lost crusade's chaos lord) kitbash on chaos space marine champion" title="Daivech Thrax (lost crusade's chaos lord) kitbash on chaos space marine champion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Guilty_Concentrate99"> /u/Guilty_Concentrate99 </a> <br/> <span><a href="https://www.reddit.com/gallery/1izghct">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izghct/daivech_thrax_lost_crusades_chaos_lord_kitbash_on/">[comments]</a></span> </td></tr></table>
+
+## Goblin champion
+ - [https://www.reddit.com/r/Warhammer/comments/1izg28q/goblin_champion](https://www.reddit.com/r/Warhammer/comments/1izg28q/goblin_champion)
+ - RSS feed: $source
+ - date published: 2025-02-27T13:42:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izg28q/goblin_champion/"> <img src="https://preview.redd.it/eqc76zkzqole1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9faafdfc180bf50a1b06254a5ca92440c08f79f2" alt="Goblin champion" title="Goblin champion" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mirstyle32"> /u/mirstyle32 </a> <br/> <span><a href="https://i.redd.it/eqc76zkzqole1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izg28q/goblin_champion/">[comments]</a></span> </td></tr></table>
+
+## Dark Angels Desolation Marines + Lieutenant
+ - [https://www.reddit.com/r/Warhammer/comments/1izf6yd/dark_angels_desolation_marines_lieutenant](https://www.reddit.com/r/Warhammer/comments/1izf6yd/dark_angels_desolation_marines_lieutenant)
+ - RSS feed: $source
+ - date published: 2025-02-27T13:01:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izf6yd/dark_angels_desolation_marines_lieutenant/"> <img src="https://b.thumbs.redditmedia.com/cRjcl3iCWzCka94aXTftJF0HZnxwnKEA_p-5q6drm5M.jpg" alt="Dark Angels Desolation Marines + Lieutenant" title="Dark Angels Desolation Marines + Lieutenant" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ShaihuludWorm"> /u/ShaihuludWorm </a> <br/> <span><a href="https://www.reddit.com/gallery/1izf6yd">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izf6yd/dark_angels_desolation_marines_lieutenant/">[comments]</a></span> </td></tr></table>
+
+## Qulathis the Exile (Cursed City)
+ - [https://www.reddit.com/r/Warhammer/comments/1izdsak/qulathis_the_exile_cursed_city](https://www.reddit.com/r/Warhammer/comments/1izdsak/qulathis_the_exile_cursed_city)
+ - RSS feed: $source
+ - date published: 2025-02-27T11:39:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izdsak/qulathis_the_exile_cursed_city/"> <img src="https://a.thumbs.redditmedia.com/Kh593iMu-Z72EYqTo-griPxGWW6Vjclg96T-ith3zT4.jpg" alt="Qulathis the Exile (Cursed City)" title="Qulathis the Exile (Cursed City)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Two of eight heroes done, this one and Glaurio. Who should I paint next?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/omnio667"> /u/omnio667 </a> <br/> <span><a href="https://www.reddit.com/gallery/1izdsak">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izdsak/qulathis_the_exile_cursed_city/">[comments]</a></span> </td></tr></table>
+
+## Armies of the lord of the rings
+ - [https://www.reddit.com/r/Warhammer/comments/1izczu8/armies_of_the_lord_of_the_rings](https://www.reddit.com/r/Warhammer/comments/1izczu8/armies_of_the_lord_of_the_rings)
+ - RSS feed: $source
+ - date published: 2025-02-27T10:46:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1izczu8/armies_of_the_lord_of_the_rings/"> <img src="https://preview.redd.it/1lkw3a7nvnle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3697ff5c29177445970c78a7467e7acde44b9810" alt="Armies of the lord of the rings" title="Armies of the lord of the rings" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Maybe a dumb question, but does anyone know, when the new book will be back? I can&#39;t find it anywhere, since it&#39;s always out of stock. </p> <p>Thanks for any replies :) </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ocelot5573"> /u/Ocelot5573 </a> <br/> <span><a href="https://i.redd.it/1lkw3a7nvnle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1izczu8/armies_of_the_lord_of_the_rings/">[comments]</a></span> </td></tr></table>
+
+## Terrified to start
+ - [https://www.reddit.com/r/Warhammer/comments/1izc9qc/terrified_to_start](https://www.reddit.com/r/Warhammer/comments/1izc9qc/terrified_to_start)
+ - RSS feed: $source
+ - date published: 2025-02-27T09:55:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey yall, i need some advice or encouragement. </p> <p>I bought a custodes combat patrol because i wanted to get into assembling and painting the minis, i used to have some imperial knights but sold them after they gathered dust and never got painted.</p> <p>I want to paint these custodes in a sort of &quot;Arlecchino&quot; color scheme, Whitegold (Chrome), with black and red detailing, but with no experience whatsoever painting im terrified to begin, as im realizing just how many small details are on these models.</p> <p>How do i paint the eyes without hitting the faces?? how do i paint the blades of the guardianspear without hitting the gun?? how do i paint edges without smearing the sides??</p> <p>The minis are getting dusty just sitting on my desk and they deserve better. i dont know how to start, im terrified they will look BAD</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NeonNyaVtuber"> /u/NeonNyaVtuber
+
+## My take on Droggz da sunchompa
+ - [https://www.reddit.com/r/Warhammer/comments/1iz97cs/my_take_on_droggz_da_sunchompa](https://www.reddit.com/r/Warhammer/comments/1iz97cs/my_take_on_droggz_da_sunchompa)
+ - RSS feed: $source
+ - date published: 2025-02-27T06:09:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iz97cs/my_take_on_droggz_da_sunchompa/"> <img src="https://preview.redd.it/4xbl3jr5imle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=92823fc81eadb07309c1ce72a9b629334d7c37e4" alt="My take on Droggz da sunchompa" title="My take on Droggz da sunchompa" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HomunculiV"> /u/HomunculiV </a> <br/> <span><a href="https://i.redd.it/4xbl3jr5imle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iz97cs/my_take_on_droggz_da_sunchompa/">[comments]</a></span> </td></tr></table>
+
+## My second ever Carnifex
+ - [https://www.reddit.com/r/Warhammer/comments/1iz7phk/my_second_ever_carnifex](https://www.reddit.com/r/Warhammer/comments/1iz7phk/my_second_ever_carnifex)
+ - RSS feed: $source
+ - date published: 2025-02-27T04:38:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iz7phk/my_second_ever_carnifex/"> <img src="https://b.thumbs.redditmedia.com/FBHo1ikpKiiQBkHtYma4XPyaUqVT6L1vu-NPGxssX-U.jpg" alt="My second ever Carnifex" title="My second ever Carnifex" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NUCL3AR999"> /u/NUCL3AR999 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iz7phk">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iz7phk/my_second_ever_carnifex/">[comments]</a></span> </td></tr></table>
+
+## My Black Library Collection
+ - [https://www.reddit.com/r/Warhammer/comments/1iz4zpd/my_black_library_collection](https://www.reddit.com/r/Warhammer/comments/1iz4zpd/my_black_library_collection)
+ - RSS feed: $source
+ - date published: 2025-02-27T02:14:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iz4zpd/my_black_library_collection/"> <img src="https://b.thumbs.redditmedia.com/7ZBIzP0QsseGxa-LaToIeP0f8JR5ag324rv5XuD_W5M.jpg" alt="My Black Library Collection" title="My Black Library Collection" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I&#39;ve spent many years and lots of hard earned cashmoney collecting these books. Some are just timeless pieces.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IndependentFroyo4508"> /u/IndependentFroyo4508 </a> <br/> <span><a href="https://www.reddit.com/gallery/1iz4zpd">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iz4zpd/my_black_library_collection/">[comments]</a></span> </td></tr></table>
+
+## Finished a test model! Thinking of doing a quick pass to add a smidge of rust, what do you think?
+ - [https://www.reddit.com/r/Warhammer/comments/1iz48r2/finished_a_test_model_thinking_of_doing_a_quick](https://www.reddit.com/r/Warhammer/comments/1iz48r2/finished_a_test_model_thinking_of_doing_a_quick)
+ - RSS feed: $source
+ - date published: 2025-02-27T01:35:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Warhammer/comments/1iz48r2/finished_a_test_model_thinking_of_doing_a_quick/"> <img src="https://b.thumbs.redditmedia.com/WKmmVjy601R_40Aira3mSivphgODTAvBgTdStU97D4M.jpg" alt="Finished a test model! Thinking of doing a quick pass to add a smidge of rust, what do you think?" title="Finished a test model! Thinking of doing a quick pass to add a smidge of rust, what do you think?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Aussie_Ausborn"> /u/Aussie_Ausborn </a> <br/> <span><a href="https://www.reddit.com/gallery/1iz48r2">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Warhammer/comments/1iz48r2/finished_a_test_model_thinking_of_doing_a_quick/">[comments]</a></span> </td></tr></table>
+
