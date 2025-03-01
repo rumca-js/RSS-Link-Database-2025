@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-28T11:13:45+00:00",
+        "description": "<p>Kuba, nasz wieloletni trener szkolenia &#8220;<a href=\"https://niebezpiecznik.pl/web\" rel=\"noopener\" target=\"_blank\">Atakowanie i Ochrona Webaplikacji</a>&#8221; przygotowa\u0142 kr\u00f3tki, ale mocno tre\u015bciwy <a href=\"https://xss.niebezpiecznik.pl\" rel=\"noopener\" target=\"_blank\">kurs online, kt\u00f3ry skupia si\u0119 XSS</a>, czyli na najpowszechniejszej dziurze w webaplikacjach. I zapewne poprzednie zdanie spor\u0105 cz\u0119\u015b\u0107 z Was ju\u017c\u00a0przekona\u0142o do zakupu, wi\u0119c tutaj <a href=\"https://koszyk.niebezpiecznik.pl/cart/add_product/10802\" rel=\"noopener\" target=\"_blank\">link wprost do koszyka</a>. A dla reszty poni\u017cej umieszczamy kr\u00f3tki opis, dlaczego warto zapozna\u0107\u00a0si\u0119\u00a0z tym materia\u0142em:</p>\n<p><img src=\"https://s.w.org/images/core/emoji/15.0.3/72x72/2705.png\" alt=\"\u2705\" class=\"wp-smiley\" style=\"height: 1em; max-height: 1em;\" /> <strong>30 lekcji</strong> video, ~3h nagra\u0144<br />\n<img src=\"https://s.w.org/images/core/emoji/15.0.3/72x72/2705.png\" alt=\"\u2705\" class=\"wp-smiley\" style=\"height: 1em; max-height: 1em;\" /> <st",
+        "id": 2216420,
+        "language": null,
+        "link": "https://niebezpiecznik.pl/post/jak-wykryc-i-poprawnie-zalatac-xss-w-swoich-webaplikacjach",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jak wykry\u0107 (i poprawnie za\u0142ata\u0107) XSS w swoich webaplikacjach?",
+        "vote": 0
+    }
+]

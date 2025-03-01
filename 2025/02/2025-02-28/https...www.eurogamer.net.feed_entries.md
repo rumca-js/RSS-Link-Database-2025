@@ -1,0 +1,188 @@
+# Source:Eurogamer.net Latest Articles Feed, URL:https://www.eurogamer.net/feed, language:en-gb
+
+## Warframe's Techrot Encore update adds boy band battling and Rainbow Road racing in March
+ - [https://www.eurogamer.net/warframes-techrot-encore-update-adds-boyband-battling-and-rainbow-road-racing-in-march](https://www.eurogamer.net/warframes-techrot-encore-update-adds-boyband-battling-and-rainbow-road-racing-in-march)
+ - RSS feed: $source
+ - date published: 2025-02-28T22:53:39+00:00
+
+<img src="https://assetsio.gnwcdn.com/warframe-techrot-encore.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+<a data-keyword="true" href="https://www.eurogamer.net/games/warframe">Warframe</a> has been getting increasingly, delightfully weird over the last couple of years, leading up to last year's time-travelling, NPC-romancing blast back to 1999. And things are about to get even wilder when developer Digital Extremes invites players to start kicking boy band butt in its new Techrot Encore update, arriving on 19th March.
+</p> <p><a href="https://www.eurogamer.net/warframes-techrot-encore-update-adds-boyband-battling-and-rainbow-road-racing-in-march">Read more</a></p>
+
+## Minecraft's "final" movie trailer is more of the same, but at least Jennifer Coolidge is in it
+ - [https://www.eurogamer.net/minecrafts-final-movie-trailer-is-more-of-the-same-but-at-least-jennifer-coolidge-is-in-it](https://www.eurogamer.net/minecrafts-final-movie-trailer-is-more-of-the-same-but-at-least-jennifer-coolidge-is-in-it)
+ - RSS feed: $source
+ - date published: 2025-02-28T21:13:35+00:00
+
+<img src="https://assetsio.gnwcdn.com/minecraft-movie-zombie-duck.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+Minecraft's live-action movie adaptation is almost upon us, and with its 4th April release date looming, Warner Bros. has shared a "final" trailer - giving us a quick glimpse of Jack Black's Nether region, as well as Jennifer Coolidge in a still-mysterious role.
+</p> <p><a href="https://www.eurogamer.net/minecrafts-final-movie-trailer-is-more-of-the-same-but-at-least-jennifer-coolidge-is-in-it">Read more</a></p>
+
+## IGN Live returns for second year, as part of June announcement season
+ - [https://www.eurogamer.net/ign-live-returns-for-second-year-as-part-of-june-announcement-season](https://www.eurogamer.net/ign-live-returns-for-second-year-as-part-of-june-announcement-season)
+ - RSS feed: $source
+ - date published: 2025-02-28T20:45:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/live-25--announce-blog.png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+IGN Live will return this June for a second year, with plans for an even bigger physical event in Los Angeles during the summer's annual game announcement season.
+</p> <p><a href="https://www.eurogamer.net/ign-live-returns-for-second-year-as-part-of-june-announcement-season">Read more</a></p>
+
+## 110 former Metro developers are making a sci-fi shooter set in Latin America, with Drive director onboard
+ - [https://www.eurogamer.net/110-former-metro-developers-are-making-a-sci-fi-shooter-set-in-latin-america-with-drive-director-onboard](https://www.eurogamer.net/110-former-metro-developers-are-making-a-sci-fi-shooter-set-in-latin-america-with-drive-director-onboard)
+ - RSS feed: $source
+ - date published: 2025-02-28T19:43:24+00:00
+
+<img src="https://assetsio.gnwcdn.com/la-quimera-trailer-crop.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+More than 110 former Metro series developers have come together as a new studio, known as Reburn, and its first project - La Quimera - is sci-fi shooter set in Latin America that's being co-written by Drive director Nicolas Winding Refn.
+</p> <p><a href="https://www.eurogamer.net/110-former-metro-developers-are-making-a-sci-fi-shooter-set-in-latin-america-with-drive-director-onboard">Read more</a></p>
+
+## PSA: You can change your Monster Hunter Wilds character once for free before Capcom makes you pay up
+ - [https://www.eurogamer.net/psa-you-can-change-your-monster-hunter-wilds-character-once-for-free-before-capcom-makes-you-pay-up](https://www.eurogamer.net/psa-you-can-change-your-monster-hunter-wilds-character-once-for-free-before-capcom-makes-you-pay-up)
+ - RSS feed: $source
+ - date published: 2025-02-28T17:32:45+00:00
+
+<img src="https://assetsio.gnwcdn.com/monster-hunter-wilds-character-edit.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+<a data-keyword="true" href="https://www.eurogamer.net/games/monster-hunter-wilds">Monster Hunter Wilds</a> is doing alright for itself, having <a href="https://www.eurogamer.net/monster-hunter-wilds-has-a-truly-wild-debut-smashing-series-player-numbers-on-steam">smashed the 1m concurrent players barrier on Steam</a>. And if you're one of the many players who've doubtless nipped back into the character editor because you've somehow made a hunter that looks like potato with a moustache, you might appreciate knowing you can actually modify your character once for free before Capcom makes you cough up some cash.
+</p> <p><a href="https://www.eurogamer.net/psa-you-can-change-your-monster-hunter-wilds-character-once-for-free-before-capcom-makes-you-pay-up">Read more</a></p>
+
+## Gex Trilogy bundles 3 games and numerous improvements, and it's coming in summer 2025
+ - [https://www.eurogamer.net/gex-trilogy-bundles-3-games-and-numerous-improvements-and-its-coming-in-summer-2025](https://www.eurogamer.net/gex-trilogy-bundles-3-games-and-numerous-improvements-and-its-coming-in-summer-2025)
+ - RSS feed: $source
+ - date published: 2025-02-28T16:42:22+00:00
+
+<img src="https://assetsio.gnwcdn.com/GexTrilogy_Keyart_4K-(1).png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>Limited Run has dropped a new video teaser showing off its upcoming release of Gex Trilogy.</p> <p><a href="https://www.eurogamer.net/gex-trilogy-bundles-3-games-and-numerous-improvements-and-its-coming-in-summer-2025">Read more</a></p>
+
+## Monster Hunter Wilds - we can't recommend the PC version
+ - [https://www.eurogamer.net/digitalfoundry-2025-monster-hunter-wilds-pc-weve-got-issues](https://www.eurogamer.net/digitalfoundry-2025-monster-hunter-wilds-pc-weve-got-issues)
+ - RSS feed: $source
+ - date published: 2025-02-28T16:01:04+00:00
+
+<img src="https://assetsio.gnwcdn.com/MHW-PC-SITE_q3Rzq5m.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p><a data-keyword="true" href="https://www.eurogamer.net/games/monster-hunter-wilds">Monster Hunter Wilds</a> makes for a confusing PC release, with staggeringly poor performance on lower-end graphics cards - to the extent that we don't recommend the game at all on these systems - and relatively meagre visual rewards given the performance requirements. That's a harsh assessment, but it's unfortunately a justified one based on the profound performance problems here that must be addressed. </p> <p><a href="https://www.eurogamer.net/digitalfoundry-2025-monster-hunter-wilds-pc-weve-got-issues">Read more</a></p>
+
+## Official Witcher prequel novel will focus on a teen Geralt
+ - [https://www.eurogamer.net/official-witcher-prequel-novel-will-focus-on-a-teen-geralt](https://www.eurogamer.net/official-witcher-prequel-novel-will-focus-on-a-teen-geralt)
+ - RSS feed: $source
+ - date published: 2025-02-28T15:44:11+00:00
+
+<img src="https://assetsio.gnwcdn.com/witcher-3-geralt-tavern.png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>A new Witcher novel is due out later this year, from original author Andrzej Sapkowski, which will follow a teen Geralt.</p> <p><a href="https://www.eurogamer.net/official-witcher-prequel-novel-will-focus-on-a-teen-geralt">Read more</a></p>
+
+## PUBG: Blindspot may be a shameless Rainbow Six Siege clone, but that doesn't stop it being extremely fun
+ - [https://www.eurogamer.net/pubg-blindspot-may-be-a-shameless-rainbow-six-siege-clone-but-that-doesnt-stop-it-being-extremely-fun](https://www.eurogamer.net/pubg-blindspot-may-be-a-shameless-rainbow-six-siege-clone-but-that-doesnt-stop-it-being-extremely-fun)
+ - RSS feed: $source
+ - date published: 2025-02-28T15:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/wishlisted-pubg-blindspot.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>PUBG: Blindspot, the first proper PUBG spin-off, is a bit of an oddity. Despite the Steam page for its <a href="https://store.steampowered.com/app/3143710/PUBG_BLINDSPOT/">Next Fest demo</a> saying the game was "inspired by PUBG: Battlegrounds", and has a dinky little PUBG sticker above its logo to prove it's part of the wider PUBG universe, it's pretty clear from the second you choose a character and jump into a 5v5 Demolition match that another game has been a much bigger inspiration here: namely, Ubisoft&rsquo;s Rainbow Six Siege. </p> <p><a href="https://www.eurogamer.net/pubg-blindspot-may-be-a-shameless-rainbow-six-siege-clone-but-that-doesnt-stop-it-being-extremely-fun">Read more</a></p>
+
+## Diablo 4 Season 8 pushed back "a couple of weeks"
+ - [https://www.eurogamer.net/diablo-4-season-8-pushed-back-a-couple-of-weeks](https://www.eurogamer.net/diablo-4-season-8-pushed-back-a-couple-of-weeks)
+ - RSS feed: $source
+ - date published: 2025-02-28T14:31:17+00:00
+
+<img src="https://assetsio.gnwcdn.com/D4S7_KeyArt-427888a8cc207c639103-1024x576.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p><a data-keyword="true" href="https://www.eurogamer.net/games/diablo-iv">Diablo 4</a>'s eighth season will release a "couple of weeks" later than scheduled after Blizzard decided to serve "the game, not the plan".</p> <p><a href="https://www.eurogamer.net/diablo-4-season-8-pushed-back-a-couple-of-weeks">Read more</a></p>
+
+## 7 things we wish we knew before playing Monster Hunter Wilds
+ - [https://www.eurogamer.net/7-things-we-wish-we-knew-before-playing-monster-hunter-wilds](https://www.eurogamer.net/7-things-we-wish-we-knew-before-playing-monster-hunter-wilds)
+ - RSS feed: $source
+ - date published: 2025-02-28T12:30:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/20250223130212_1.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>Merry <a data-keyword="true" href="https://www.eurogamer.net/games/monster-hunter-wilds">Monster Hunter Wilds</a> day to all those who celebrate. Capcom's dino-basher has been going from strength to strength since Worlds became a breakout hit back in 2018, and Wilds doubles down on that open world monster-mashing experience with style. It's a great time to start playing Monster Hunter if you're new to the series, and we've got a whole <a href="https://www.eurogamer.net/monster-hunter-wilds-walkthrough-tips-tricks">Monster Hunter Wilds walkthrough</a> to help you every step of the way through the main campaign.</p> <p><a href="https://www.eurogamer.net/7-things-we-wish-we-knew-before-playing-monster-hunter-wilds">Read more</a></p>
+
+## Twitch CEO reveals 2025 plans: collaboration, mobile, and more monetisation
+ - [https://www.eurogamer.net/twitch-ceo-reveals-2025-plans-collaboration-mobile-and-more-monetisation](https://www.eurogamer.net/twitch-ceo-reveals-2025-plans-collaboration-mobile-and-more-monetisation)
+ - RSS feed: $source
+ - date published: 2025-02-28T12:27:25+00:00
+
+<img src="https://assetsio.gnwcdn.com/OpenLetterHeader_1920x1080.png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p><a data-keyword="true" href="https://www.eurogamer.net/companies/twitch">Twitch</a> CEO Dan Clancy has published an <a href="https://blog.twitch.tv/en/2025/02/27/what-s-next-in-2025-an-open-letter-from-twitch-ceo-dan-clancy/">open letter</a> detailing the company's plans for 2025, including new ways of collaborating, mobile improvements, and more monetisation.</p> <p><a href="https://www.eurogamer.net/twitch-ceo-reveals-2025-plans-collaboration-mobile-and-more-monetisation">Read more</a></p>
+
+## Nintendo removing game from Switch Online catalogue in Japan
+ - [https://www.eurogamer.net/nintendo-removing-game-from-switch-online-catalogue-in-japan](https://www.eurogamer.net/nintendo-removing-game-from-switch-online-catalogue-in-japan)
+ - RSS feed: $source
+ - date published: 2025-02-28T11:56:03+00:00
+
+<img src="https://assetsio.gnwcdn.com/Untitled-1_at2BVmJ.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+Nintendo Switch Online's retro game collection is losing its first game - in Japan at least. 
+</p> <p><a href="https://www.eurogamer.net/nintendo-removing-game-from-switch-online-catalogue-in-japan">Read more</a></p>
+
+## Metroid Dread studio announces new action-adventure Blades of Fire
+ - [https://www.eurogamer.net/metroid-dread-studio-announces-new-action-adventure-blades-of-fire](https://www.eurogamer.net/metroid-dread-studio-announces-new-action-adventure-blades-of-fire)
+ - RSS feed: $source
+ - date published: 2025-02-28T11:41:21+00:00
+
+<img src="https://assetsio.gnwcdn.com/Blades-of-Fire_Key-Art_Final_1x1.png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>MercurySteam, the developer behind <a data-keyword="true" href="https://www.eurogamer.net/games/metroid-dread">Metroid Dread</a>, has announced its next game: Blades of Fire.</p> <p><a href="https://www.eurogamer.net/metroid-dread-studio-announces-new-action-adventure-blades-of-fire">Read more</a></p>
+
+## Palworld developer gives all staff Monster Hunter Wilds release day off in case "they feel unwell"
+ - [https://www.eurogamer.net/palworld-developer-gives-all-staff-monster-hunter-wilds-release-day-off-in-case-they-feel-unwell](https://www.eurogamer.net/palworld-developer-gives-all-staff-monster-hunter-wilds-release-day-off-in-case-they-feel-unwell)
+ - RSS feed: $source
+ - date published: 2025-02-28T11:28:06+00:00
+
+<img src="https://assetsio.gnwcdn.com/Screenshot-2025-02-28-at-11.13.47.png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>For reasons totally unrelated to the release of <a data-keyword="true" href="https://www.eurogamer.net/games/monster-hunter-wilds">Monster Hunter Wilds</a>, <a data-keyword="true" href="https://www.eurogamer.net/palworld-beginner-tips-tricks-9409">Palworld</a> developer Pocketpair has given its team a "special holiday" today, 28th February.</p> <p><a href="https://www.eurogamer.net/palworld-developer-gives-all-staff-monster-hunter-wilds-release-day-off-in-case-they-feel-unwell">Read more</a></p>
+
+## Capcom responds after Monster Hunter Wilds Steam success is marred by performance complaints
+ - [https://www.eurogamer.net/capcom-responds-after-monster-hunter-wilds-steam-success-is-marred-by-performance-complaints](https://www.eurogamer.net/capcom-responds-after-monster-hunter-wilds-steam-success-is-marred-by-performance-complaints)
+ - RSS feed: $source
+ - date published: 2025-02-28T11:04:10+00:00
+
+<img src="https://assetsio.gnwcdn.com/Monster-Hunter-Wilds-Review-0-58-screenshot.png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+<a data-keyword="true" href="https://www.eurogamer.net/games/monster-hunter-wilds">Monster Hunter Wilds</a> looks set to be a smash hit for Capcom, with the game <a href="https://www.eurogamer.net/monster-hunter-wilds-has-a-truly-wild-debut-smashing-series-player-numbers-on-steam">hitting nearly a million concurrent players on Steam overnight</a>, but the response to the game so far from those played is not all positive, according to Steam user reviews. 
+</p> <p><a href="https://www.eurogamer.net/capcom-responds-after-monster-hunter-wilds-steam-success-is-marred-by-performance-complaints">Read more</a></p>
+
+## Elden Ring Nightreign: does the new game improve the original's tech issues?
+ - [https://www.eurogamer.net/digitalfoundry-2025-elden-ring-nightreins-network-test-beta-impresses-on-ps5-ps5-pro-and-xbox-series-xs](https://www.eurogamer.net/digitalfoundry-2025-elden-ring-nightreins-network-test-beta-impresses-on-ps5-ps5-pro-and-xbox-series-xs)
+ - RSS feed: $source
+ - date published: 2025-02-28T10:45:01+00:00
+
+<img src="https://assetsio.gnwcdn.com/elden-ring-nightreign-promo-art-from-bandai-website.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>The <a data-keyword="true" href="https://www.eurogamer.net/games/elden-ring-nightreign">Elden Ring Nightreign</a> network test proved a surprise success, giving a handful of lucky players an early taster of this multiplayer spin-off on PS5, <a data-keyword="true" href="https://www.eurogamer.net/topics/ps5-pro">PS5 Pro</a> and Xbox Series X/S ahead of the 30th May release. Nightreign's central hook is a compelling, too: a blend of Souls combat and <a data-keyword="true" href="https://www.eurogamer.net/games/fortnite">Fortnite</a>-inspired PvE multiplayer with plenty of strategic depth, though the game marks the return of some familiar technical limitations from <a data-keyword="true" href="https://www.eurogamer.net/elden-ring-walkthrough-8042">Elden Ring</a> - including performance issues in both quality and frame-rate m
+
+## The Steam Next Fest demo for Nidhogg creator's beautiful, new open-world biking game is slight, but I'm geared up for more
+ - [https://www.eurogamer.net/the-steam-next-fest-demo-for-nidhogg-creators-beautiful-new-open-world-biking-game-is-slight-but-im-geared-up-for-more](https://www.eurogamer.net/the-steam-next-fest-demo-for-nidhogg-creators-beautiful-new-open-world-biking-game-is-slight-but-im-geared-up-for-more)
+ - RSS feed: $source
+ - date published: 2025-02-28T10:00:00+00:00
+
+<img src="https://assetsio.gnwcdn.com/wishlisted-wheel-world.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>Bikes. Pelt them down a hill faster than the speed of sound, brake late, then skid the back wheel round to take a corner and narrowly avoid a poodle out doing its morning ablutions. Weave in and out of the wheelie bins round the back of the garages because you thought it looked cool on Ski Sunday. This is what I hoped for in Wheel World, Messhof's new open-world bike riding adventure/racing game that also happens to be about a ghost bike (<a href="https://www.eurogamer.net/blade-runner-2033-and-everything-else-from-annapurnas-latest-showcase">Ghost Bike being its original, and probably better, name</a>). The <a href="https://store.steampowered.com/app/1497460/Wheel_World/">Steam Next Fest demo</a> delivers on bike-feel (that's a term people use, OK!) but I'm left wondering how the supernatural flavour will shine through.</p> <p><a href="https://www
+
+## It's the year 2025 and Gibson's just released two new Guitar Hero controllers
+ - [https://www.eurogamer.net/its-the-year-2025-and-gibsons-just-released-two-new-guitar-hero-controllers](https://www.eurogamer.net/its-the-year-2025-and-gibsons-just-released-two-new-guitar-hero-controllers)
+ - RSS feed: $source
+ - date published: 2025-02-28T09:58:41+00:00
+
+<img src="https://assetsio.gnwcdn.com/Screenshot-2025-02-28-at-09.55.56.png?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>Gibson has partnered with CRKD to create two "exclusive" Guitar Hero / <a data-keyword="true" href="https://www.eurogamer.net/games/rock-band">Rock Band</a> controllers, which will also work with <a data-keyword="true" href="https://www.eurogamer.net/games/fortnite">Fortnite</a>'s much more recent musical mode.</p> <p><a href="https://www.eurogamer.net/its-the-year-2025-and-gibsons-just-released-two-new-guitar-hero-controllers">Read more</a></p>
+
+## Classic Command & Conquer strategy games open source code for modders
+ - [https://www.eurogamer.net/classic-command-conquer-strategy-games-open-source-code-for-modders](https://www.eurogamer.net/classic-command-conquer-strategy-games-open-source-code-for-modders)
+ - RSS feed: $source
+ - date published: 2025-02-28T09:55:18+00:00
+
+<img src="https://assetsio.gnwcdn.com/digitalfoundry-2020-command-and-conquer-remastered-analysis-1591614276662.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>EA has released the source code for classic strategy games in the Command & Conquer series along with Steam Workshop support, opening the game to modders.</p> <p><a href="https://www.eurogamer.net/classic-command-conquer-strategy-games-open-source-code-for-modders">Read more</a></p>
+
+## Split Fiction PC specs revealed, and it's Steam Deck Verified
+ - [https://www.eurogamer.net/split-fiction-pc-specs-revealed-and-its-steam-deck-verified](https://www.eurogamer.net/split-fiction-pc-specs-revealed-and-its-steam-deck-verified)
+ - RSS feed: $source
+ - date published: 2025-02-28T09:54:15+00:00
+
+<img src="https://assetsio.gnwcdn.com/Zoe-as-a-fairy-in-Split-Fiction.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>Split Fiction developer Hazelight has shared the PC specs for its upcoming co-op caper. You can check out the minimum and recommended PC Specs for Split Fiction below.</p> <p><a href="https://www.eurogamer.net/split-fiction-pc-specs-revealed-and-its-steam-deck-verified">Read more</a></p>
+
+## Helldivers 2 pauses Galactic War after game-breaking backend bug
+ - [https://www.eurogamer.net/helldivers-2-pauses-galactic-war-after-game-breaking-backend-bug](https://www.eurogamer.net/helldivers-2-pauses-galactic-war-after-game-breaking-backend-bug)
+ - RSS feed: $source
+ - date published: 2025-02-28T09:54:09+00:00
+
+<img src="https://assetsio.gnwcdn.com/Helldivers-2---Report-for-Duty-Trailer-_-PS5-%26-PC-Games-0-32-screenshot.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+There's a temporary truce in <a data-keyword="true" href="https://www.eurogamer.net/games/helldivers-2">Helldivers 2</a>'s Galactic War, after a game-breaking bug introduced during maintenance.
+</p> <p><a href="https://www.eurogamer.net/helldivers-2-pauses-galactic-war-after-game-breaking-backend-bug">Read more</a></p>
+
+## Monster Hunter Wilds has a truly wild debut, smashing series player numbers on Steam
+ - [https://www.eurogamer.net/monster-hunter-wilds-has-a-truly-wild-debut-smashing-series-player-numbers-on-steam](https://www.eurogamer.net/monster-hunter-wilds-has-a-truly-wild-debut-smashing-series-player-numbers-on-steam)
+ - RSS feed: $source
+ - date published: 2025-02-28T09:04:33+00:00
+
+<img src="https://assetsio.gnwcdn.com/Monster-Hunter-Wilds-screenshot-showing-a-male-character-with-his-mouth-open-as-he-yells.-His-fist-is-in-the-air.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p><a data-keyword="true" href="https://www.eurogamer.net/games/monster-hunter-wilds">Monster Hunter Wilds</a> is living up to its name, with some truly wild player numbers following its debut.</p> <p><a href="https://www.eurogamer.net/monster-hunter-wilds-has-a-truly-wild-debut-smashing-series-player-numbers-on-steam">Read more</a></p>
+
+## PlayStation's pitch-black FPS Midnight Murder Club arrives in March, and friends can play for free
+ - [https://www.eurogamer.net/playstations-pitch-black-fps-midnight-murder-club-arrives-in-march-and-friends-can-play-for-free](https://www.eurogamer.net/playstations-pitch-black-fps-midnight-murder-club-arrives-in-march-and-friends-can-play-for-free)
+ - RSS feed: $source
+ - date published: 2025-02-28T00:09:22+00:00
+
+<img src="https://assetsio.gnwcdn.com/midnight-murder-club.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp" /> <p>
+Velan Studios, the team behind the <a href="https://www.eurogamer.net/knockout-city-to-shutdown-in-june-private-server-version-incoming">sadly ill-fated Knockout City</a>, has announced its PlayStation-published pitch-black FPS Midnight Murder Club is launching into PC and PS5 early access on 13th March. And as an added incentive to make a purchase, up to five friends can play for free.
+</p> <p><a href="https://www.eurogamer.net/playstations-pitch-black-fps-midnight-murder-club-arrives-in-march-and-friends-can-play-for-free">Read more</a></p>
+

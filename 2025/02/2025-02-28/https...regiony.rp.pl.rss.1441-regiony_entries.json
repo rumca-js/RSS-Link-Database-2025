@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-28T10:14:17+00:00",
+        "description": "Brak wydania opinii w okre\u015blonym terminie przez instytucj\u0119 oznacza\u0142by de facto jej zgod\u0119 \u2013 m\u00f3wi Tadeusz Truskolaski, prezydent Bia\u0142egostoku, jeden z czterech prezydent\u00f3w, kt\u00f3ry pracuje w zespole deregulacyjnym Rafa\u0142a Brzoski.",
+        "id": 2215238,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/z-regionow/art41863231-chcemy-wprowadzic-zasade-milczacej-zgody",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Chcemy wprowadzi\u0107 zasad\u0119 \u201emilcz\u0105cej zgody\u201d",
+        "vote": 0
+    }
+]

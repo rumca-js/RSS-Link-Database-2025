@@ -1,0 +1,198 @@
+# Source:r/gaming, URL:https://www.reddit.com/r/gaming/.rss, language:
+
+## Accidentally took this screenshot while trying for a different one. (MH Wilds spoilers)
+ - [https://www.reddit.com/r/gaming/comments/1j0l99j/accidentally_took_this_screenshot_while_trying](https://www.reddit.com/r/gaming/comments/1j0l99j/accidentally_took_this_screenshot_while_trying)
+ - RSS feed: $source
+ - date published: 2025-02-28T23:16:58+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/GTalmighty"> /u/GTalmighty </a> <br/> <span><a href="https://i.redd.it/huunxx3eqyle1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j0l99j/accidentally_took_this_screenshot_while_trying/">[comments]</a></span>
+
+## Helldivers 2 continues its streak of turning missteps into in-game lore: After a major feature was paused for 24 hours, Super Earth says 'nothing out of the ordinary has happened'
+ - [https://www.reddit.com/r/gaming/comments/1j0k4xr/helldivers_2_continues_its_streak_of_turning](https://www.reddit.com/r/gaming/comments/1j0k4xr/helldivers_2_continues_its_streak_of_turning)
+ - RSS feed: $source
+ - date published: 2025-02-28T22:26:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j0k4xr/helldivers_2_continues_its_streak_of_turning/"> <img src="https://external-preview.redd.it/fe_SLtMzdiUcQbCKjo4wr3WAxwDEFvwrDw79bbaT9qw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=083a4394b114abe8f8c833a3f91b8e29a3cf9144" alt="Helldivers 2 continues its streak of turning missteps into in-game lore: After a major feature was paused for 24 hours, Super Earth says 'nothing out of the ordinary has happened'" title="Helldivers 2 continues its streak of turning missteps into in-game lore: After a major feature was paused for 24 hours, Super Earth says 'nothing out of the ordinary has happened'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/InsightAbe"> /u/InsightAbe </a> <br/> <span><a href="https://www.pcgamer.com/games/action/helldivers-2-continues-its-streak-of-turning-missteps-into-in-game-lore-after-a-major-feature-was-paused-for-24-hours-super-earth-says-nothing-out-of-the
+
+## I feel bad for kids who grow up with DLC's, loot boxes and battle passes. Never knowing the joy of buying the game ONCE and now you have all the content from the game.
+ - [https://www.reddit.com/r/gaming/comments/1j0jgna/i_feel_bad_for_kids_who_grow_up_with_dlcs_loot](https://www.reddit.com/r/gaming/comments/1j0jgna/i_feel_bad_for_kids_who_grow_up_with_dlcs_loot)
+ - RSS feed: $source
+ - date published: 2025-02-28T21:56:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Yes, there still are games that you only pay once. But modern gaming is built around using money over and over to gain more content.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/oranke_dino"> /u/oranke_dino </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1j0jgna/i_feel_bad_for_kids_who_grow_up_with_dlcs_loot/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j0jgna/i_feel_bad_for_kids_who_grow_up_with_dlcs_loot/">[comments]</a></span>
+
+## Assassin's Creed Shadows Director Breaks Down Its Combat & Progression Mechanics
+ - [https://www.reddit.com/r/gaming/comments/1j0jg74/assassins_creed_shadows_director_breaks_down_its](https://www.reddit.com/r/gaming/comments/1j0jg74/assassins_creed_shadows_director_breaks_down_its)
+ - RSS feed: $source
+ - date published: 2025-02-28T21:55:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j0jg74/assassins_creed_shadows_director_breaks_down_its/"> <img src="https://external-preview.redd.it/u4DWpCMNKmRNs69geOQRVY0pnJ2T4iXHrh5s8-QtAKs.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6241e88e8bd8630c16f2b7d90511755bf0c030f8" alt="Assassin's Creed Shadows Director Breaks Down Its Combat &amp; Progression Mechanics" title="Assassin's Creed Shadows Director Breaks Down Its Combat &amp; Progression Mechanics" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GabbyArm"> /u/GabbyArm </a> <br/> <span><a href="https://www.youtube.com/watch?v=aVzqcoQkRwI">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j0jg74/assassins_creed_shadows_director_breaks_down_its/">[comments]</a></span> </td></tr></table>
+
+## If there's any sports game that deserves a reboot, thing one gets my vote.
+ - [https://www.reddit.com/r/gaming/comments/1j0ig8v/if_theres_any_sports_game_that_deserves_a_reboot](https://www.reddit.com/r/gaming/comments/1j0ig8v/if_theres_any_sports_game_that_deserves_a_reboot)
+ - RSS feed: $source
+ - date published: 2025-02-28T21:11:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j0ig8v/if_theres_any_sports_game_that_deserves_a_reboot/"> <img src="https://preview.redd.it/yo8bfl004yle1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2c8ea5b1158ea238d012304045bcf9fb2a2d9fde" alt="If there's any sports game that deserves a reboot, thing one gets my vote." title="If there's any sports game that deserves a reboot, thing one gets my vote." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kryodamus"> /u/Kryodamus </a> <br/> <span><a href="https://i.redd.it/yo8bfl004yle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j0ig8v/if_theres_any_sports_game_that_deserves_a_reboot/">[comments]</a></span> </td></tr></table>
+
+## [OC] My New Monster Hunter Painting
+ - [https://www.reddit.com/r/gaming/comments/1j0hcxz/oc_my_new_monster_hunter_painting](https://www.reddit.com/r/gaming/comments/1j0hcxz/oc_my_new_monster_hunter_painting)
+ - RSS feed: $source
+ - date published: 2025-02-28T20:24:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j0hcxz/oc_my_new_monster_hunter_painting/"> <img src="https://preview.redd.it/xx0vd7cpvxle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5aaa72cf5c274ab1a2722d1a2fded79e7ca4207d" alt="[OC] My New Monster Hunter Painting" title="[OC] My New Monster Hunter Painting" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TylorHepnerArt"> /u/TylorHepnerArt </a> <br/> <span><a href="https://i.redd.it/xx0vd7cpvxle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j0hcxz/oc_my_new_monster_hunter_painting/">[comments]</a></span> </td></tr></table>
+
+## BioWare co-founder laments Jade Empire's commercial failure and blames it on 'the worst advice, absolutely moronic advice' from Microsoft
+ - [https://www.reddit.com/r/gaming/comments/1j0gc60/bioware_cofounder_laments_jade_empires_commercial](https://www.reddit.com/r/gaming/comments/1j0gc60/bioware_cofounder_laments_jade_empires_commercial)
+ - RSS feed: $source
+ - date published: 2025-02-28T19:41:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j0gc60/bioware_cofounder_laments_jade_empires_commercial/"> <img src="https://external-preview.redd.it/cnzcFRUSsDv96-hX3H_5oNfu8_8dUVNKJclGtGRgeD0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2da1978a354b81003f931622c95ee895cae2f47b" alt="BioWare co-founder laments Jade Empire's commercial failure and blames it on 'the worst advice, absolutely moronic advice' from Microsoft" title="BioWare co-founder laments Jade Empire's commercial failure and blames it on 'the worst advice, absolutely moronic advice' from Microsoft" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rip_cpu"> /u/rip_cpu </a> <br/> <span><a href="https://www.pcgamer.com/games/bioware-co-founder-laments-jade-empires-commercial-failure-and-blames-it-on-the-worst-advice-absolutely-moronic-advice-from-microsoft/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j0gc60/bioware_cofounder_lam
+
+## 'We Have Not Modified It' — The Witcher 4 Director Responds to Speculation CD Projekt Changed Ciri's Face
+ - [https://www.reddit.com/r/gaming/comments/1j0fk9m/we_have_not_modified_it_the_witcher_4_director](https://www.reddit.com/r/gaming/comments/1j0fk9m/we_have_not_modified_it_the_witcher_4_director)
+ - RSS feed: $source
+ - date published: 2025-02-28T19:08:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j0fk9m/we_have_not_modified_it_the_witcher_4_director/"> <img src="https://external-preview.redd.it/PnIsB1E3ub3pYrQU-eGTO-5_pWEXFJX7CT2T3A_WtjE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e64e9bdcceeea28da75b8eb114f12b4121a3329b" alt="'We Have Not Modified It' — The Witcher 4 Director Responds to Speculation CD Projekt Changed Ciri's Face" title="'We Have Not Modified It' — The Witcher 4 Director Responds to Speculation CD Projekt Changed Ciri's Face" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ReaddittiddeR"> /u/ReaddittiddeR </a> <br/> <span><a href="https://www.ign.com/articles/we-have-not-modified-it-the-witcher-4-director-responds-to-speculation-cd-projekt-changed-ciris-face">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j0fk9m/we_have_not_modified_it_the_witcher_4_director/">[comments]</a></span> </td></tr></table>
+
+## Games you like but not the protagonist?
+ - [https://www.reddit.com/r/gaming/comments/1j0f0ej/games_you_like_but_not_the_protagonist](https://www.reddit.com/r/gaming/comments/1j0f0ej/games_you_like_but_not_the_protagonist)
+ - RSS feed: $source
+ - date published: 2025-02-28T18:44:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>And vice versa.</p> <p>I&#39;ve been replaying Shadow Warrior 2 recently and good god Lo Wang is insufferable. I&#39;m sure he has redeeming qualities that I can&#39;t see but to me his personality is just a bumbling, obnoxious, idiot. I played Shadow Warrior 3 before and he isn&#39;t any better in it. I am a sucker for looter shooters and boomer shooters so I just tune him out when he talks in those games.</p> <p>Days Gone was pretty good but the characters are just not very appealing. I only remember Deacon St. John because he was portrayed by Sam Witwer who had various roles in Star Wars games and tv shows. I can&#39;t remember anyone else&#39;s names.</p> <p>As for the opposite I can&#39;t remember playing a game I didn&#39;t like long enough to be invested in the protagonist.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Difficult-Pick4048"> /u/Difficult-Pick4048 </a> <br/> <span><a href="https://www.redd
+
+## Why are you a PvP or PvE gamer?
+ - [https://www.reddit.com/r/gaming/comments/1j0eire/why_are_you_a_pvp_or_pve_gamer](https://www.reddit.com/r/gaming/comments/1j0eire/why_are_you_a_pvp_or_pve_gamer)
+ - RSS feed: $source
+ - date published: 2025-02-28T18:23:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>I lean more towards PvE in any game that allows it.</p> <p>Aside from the obvious Single Player titles providing this experience, even in games such as Modern Warfare 2019. I played the Coop mode religiously and barely touched the PvP modes.</p> <p>In games like Ark, Deadside, DayZ, Arma, Insurgency Sandstorm, etc. The kinds of games that most would buy &amp; play for PvP. The kind of games that force MP interaction, I also join &amp; prefer the PvE servers &amp; experience comparatively.</p> <p>I wish GTA Online had PvE servers honestly. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/StagnantGraffito"> /u/StagnantGraffito </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1j0eire/why_are_you_a_pvp_or_pve_gamer/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j0eire/why_are_you_a_pvp_or_pve_gamer/">[comments]</a></span>
+
+## Elon Musk gets his game-playing efficiency audited by Karl Jobst!
+ - [https://www.reddit.com/r/gaming/comments/1j0dx4d/elon_musk_gets_his_gameplaying_efficiency_audited](https://www.reddit.com/r/gaming/comments/1j0dx4d/elon_musk_gets_his_gameplaying_efficiency_audited)
+ - RSS feed: $source
+ - date published: 2025-02-28T17:58:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j0dx4d/elon_musk_gets_his_gameplaying_efficiency_audited/"> <img src="https://external-preview.redd.it/GoG6LO7aPbAhPzTUgJoCcHmN9OmUUqss5pQtz0Plsfc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d62e41bb241338fde676ef5a421d81ae8408718a" alt="Elon Musk gets his game-playing efficiency audited by Karl Jobst!" title="Elon Musk gets his game-playing efficiency audited by Karl Jobst!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Y34rZer0"> /u/Y34rZer0 </a> <br/> <span><a href="https://www.youtube.com/watch?v=z1ykCc588Zw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j0dx4d/elon_musk_gets_his_gameplaying_efficiency_audited/">[comments]</a></span> </td></tr></table>
+
+## A new Shadow of Mordor…
+ - [https://www.reddit.com/r/gaming/comments/1j0dv55/a_new_shadow_of_mordor](https://www.reddit.com/r/gaming/comments/1j0dv55/a_new_shadow_of_mordor)
+ - RSS feed: $source
+ - date published: 2025-02-28T17:56:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j0dv55/a_new_shadow_of_mordor/"> <img src="https://preview.redd.it/49gf1pd85xle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7731330a303e76e2114aa038831cb45cdc718bd5" alt="A new Shadow of Mordor…" title="A new Shadow of Mordor…" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SAU-SIEGE"> /u/SAU-SIEGE </a> <br/> <span><a href="https://i.redd.it/49gf1pd85xle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j0dv55/a_new_shadow_of_mordor/">[comments]</a></span> </td></tr></table>
+
+## Scam Publisher Stole Game And Sold Under Their Name On Consoles
+ - [https://www.reddit.com/r/gaming/comments/1j0dt7s/scam_publisher_stole_game_and_sold_under_their](https://www.reddit.com/r/gaming/comments/1j0dt7s/scam_publisher_stole_game_and_sold_under_their)
+ - RSS feed: $source
+ - date published: 2025-02-28T17:54:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j0dt7s/scam_publisher_stole_game_and_sold_under_their/"> <img src="https://external-preview.redd.it/idAxr9-a-ddkMMWk5mhJoSDGHLgUzxENzsSBIzQax3k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2afffa5307dc553368061810a80e83c641f7faed" alt="Scam Publisher Stole Game And Sold Under Their Name On Consoles" title="Scam Publisher Stole Game And Sold Under Their Name On Consoles" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GrinningAxe9"> /u/GrinningAxe9 </a> <br/> <span><a href="https://80.lv/articles/scam-publisher-stole-the-backrooms-1998-sold-under-another-name/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j0dt7s/scam_publisher_stole_game_and_sold_under_their/">[comments]</a></span> </td></tr></table>
+
+## God of War composer Bear McCreary reveals how Genshin Impact’s soundtrack blew his mind
+ - [https://www.reddit.com/r/gaming/comments/1j0c3gq/god_of_war_composer_bear_mccreary_reveals_how](https://www.reddit.com/r/gaming/comments/1j0c3gq/god_of_war_composer_bear_mccreary_reveals_how)
+ - RSS feed: $source
+ - date published: 2025-02-28T16:43:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j0c3gq/god_of_war_composer_bear_mccreary_reveals_how/"> <img src="https://external-preview.redd.it/7jZ4I4KWG60LzEv37SNPcnCKjzWryEtg_JN02924ZNg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c55a722f47d38d700403c80cb0b95ddbe5ee444c" alt="God of War composer Bear McCreary reveals how Genshin Impact’s soundtrack blew his mind" title="God of War composer Bear McCreary reveals how Genshin Impact’s soundtrack blew his mind" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/The_Great_Ravioli"> /u/The_Great_Ravioli </a> <br/> <span><a href="https://www.videogamer.com/features/god-of-war-composer-bear-mccreary-genshin-impact-soundtrack-blew-his-mind/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j0c3gq/god_of_war_composer_bear_mccreary_reveals_how/">[comments]</a></span> </td></tr></table>
+
+## Which game did you have the most fun with making cursed characters?
+ - [https://www.reddit.com/r/gaming/comments/1j0c2cj/which_game_did_you_have_the_most_fun_with_making](https://www.reddit.com/r/gaming/comments/1j0c2cj/which_game_did_you_have_the_most_fun_with_making)
+ - RSS feed: $source
+ - date published: 2025-02-28T16:42:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j0c2cj/which_game_did_you_have_the_most_fun_with_making/"> <img src="https://a.thumbs.redditmedia.com/eJX0J10_84o8b4fEPvvdiximkTkQ3JAb2H-S0mUpEx8.jpg" alt="Which game did you have the most fun with making cursed characters?" title="Which game did you have the most fun with making cursed characters?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>(Picture not mine)</p> <p>A game, regardless of its gameplay quality, where you had the most fun making cursed characters.</p> <p><a href="https://preview.redd.it/t42nth5swwle1.jpg?width=1280&amp;format=pjpg&amp;auto=webp&amp;s=3f206611c2d860596fffb83c8eb27fd91544a4ea">https://preview.redd.it/t42nth5swwle1.jpg?width=1280&amp;format=pjpg&amp;auto=webp&amp;s=3f206611c2d860596fffb83c8eb27fd91544a4ea</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Longjumping_Exit7902"> /u/Longjumping_Exit7902 </a> <br/> <span><a href="https://www.r
+
+## You're locked in a house for 1 year with no internet. You get a PC with 3 single player story driven games. What 3 games are you choosing?
+ - [https://www.reddit.com/r/gaming/comments/1j09f33/youre_locked_in_a_house_for_1_year_with_no](https://www.reddit.com/r/gaming/comments/1j09f33/youre_locked_in_a_house_for_1_year_with_no)
+ - RSS feed: $source
+ - date published: 2025-02-28T14:51:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>You are allowed to download mods for the game if you want before going in.</p> <p>I&#39;m mostly looking for games so expansive that you can keep replaying them multiple times and still enjoy.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Askin_Real_Questions"> /u/Askin_Real_Questions </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1j09f33/youre_locked_in_a_house_for_1_year_with_no/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j09f33/youre_locked_in_a_house_for_1_year_with_no/">[comments]</a></span>
+
+## Terminator 2D - No Fate Announcement Trailer
+ - [https://www.reddit.com/r/gaming/comments/1j099y0/terminator_2d_no_fate_announcement_trailer](https://www.reddit.com/r/gaming/comments/1j099y0/terminator_2d_no_fate_announcement_trailer)
+ - RSS feed: $source
+ - date published: 2025-02-28T14:45:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j099y0/terminator_2d_no_fate_announcement_trailer/"> <img src="https://external-preview.redd.it/c-h_4Q2dyL2OVJFiNfEabu5v3A5oTpgsgF8A28WJ0Fo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=149fa89a6f73727d8faf7b55e3ef292dcebf4835" alt="Terminator 2D - No Fate Announcement Trailer" title="Terminator 2D - No Fate Announcement Trailer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jfonzy"> /u/Jfonzy </a> <br/> <span><a href="https://youtu.be/IkMFYMG3QLw?si=HyVKy3E7lzvAWOMZ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j099y0/terminator_2d_no_fate_announcement_trailer/">[comments]</a></span> </td></tr></table>
+
+## Monster Hunter Wilds PC - Profound Perf Problems Must Be Addressed
+ - [https://www.reddit.com/r/gaming/comments/1j06sme/monster_hunter_wilds_pc_profound_perf_problems](https://www.reddit.com/r/gaming/comments/1j06sme/monster_hunter_wilds_pc_profound_perf_problems)
+ - RSS feed: $source
+ - date published: 2025-02-28T12:44:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j06sme/monster_hunter_wilds_pc_profound_perf_problems/"> <img src="https://external-preview.redd.it/BeaAPBmMD94v1oIt6R-_1BGLv8lELPnwQW5df5HPibY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cfcadba29afeac3cc6eb24eda7a4187d528172c2" alt="Monster Hunter Wilds PC - Profound Perf Problems Must Be Addressed" title="Monster Hunter Wilds PC - Profound Perf Problems Must Be Addressed" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PrinceDizzy"> /u/PrinceDizzy </a> <br/> <span><a href="https://www.youtube.com/watch?v=0yhacyXcizA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j06sme/monster_hunter_wilds_pc_profound_perf_problems/">[comments]</a></span> </td></tr></table>
+
+## Monster Hunter Wilds has sold 1 million units in 6 hours on Steam making it Capcoms most successful PC launch, and has already passed the peak player counts of Elden Ring, Baldurs Gate 3, and Hogwarts Legacy
+ - [https://www.reddit.com/r/gaming/comments/1j06pik/monster_hunter_wilds_has_sold_1_million_units_in](https://www.reddit.com/r/gaming/comments/1j06pik/monster_hunter_wilds_has_sold_1_million_units_in)
+ - RSS feed: $source
+ - date published: 2025-02-28T12:39:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j06pik/monster_hunter_wilds_has_sold_1_million_units_in/"> <img src="https://external-preview.redd.it/QXivjAqItAxs6e7kPJ0ahYRCItcEOkAf3T5TZUGz-iA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=db86abecad7098f3c7cc00e546c6ee4da4135fc4" alt="Monster Hunter Wilds has sold 1 million units in 6 hours on Steam making it Capcoms most successful PC launch, and has already passed the peak player counts of Elden Ring, Baldurs Gate 3, and Hogwarts Legacy" title="Monster Hunter Wilds has sold 1 million units in 6 hours on Steam making it Capcoms most successful PC launch, and has already passed the peak player counts of Elden Ring, Baldurs Gate 3, and Hogwarts Legacy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FinalAfternoon5470"> /u/FinalAfternoon5470 </a> <br/> <span><a href="https://www.thegamer.com/monster-hunter-wilds-launch-day-steam-player-count-concurrent-over-one-million-biggest-ca
+
+## My boy's Science Fair project....a handheld console battery battle royale!!
+ - [https://www.reddit.com/r/gaming/comments/1j06mes/my_boys_science_fair_projecta_handheld_console](https://www.reddit.com/r/gaming/comments/1j06mes/my_boys_science_fair_projecta_handheld_console)
+ - RSS feed: $source
+ - date published: 2025-02-28T12:34:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j06mes/my_boys_science_fair_projecta_handheld_console/"> <img src="https://external-preview.redd.it/7nVNQbJcJVMUE7faLm7zDm8QknyJcfzOzWMYz7qs66k.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0257c30a30235e178288008f1684783a511802f1" alt="My boy's Science Fair project....a handheld console battery battle royale!!" title="My boy's Science Fair project....a handheld console battery battle royale!!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AzarVC"> /u/AzarVC </a> <br/> <span><a href="https://www.youtube.com/watch?v=50k7Xrs6PDg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j06mes/my_boys_science_fair_projecta_handheld_console/">[comments]</a></span> </td></tr></table>
+
+## Monster Hunter Wilds is a non-starter on Steam Deck, with frame rates stuck in sub-20fps hell
+ - [https://www.reddit.com/r/gaming/comments/1j06k8u/monster_hunter_wilds_is_a_nonstarter_on_steam](https://www.reddit.com/r/gaming/comments/1j06k8u/monster_hunter_wilds_is_a_nonstarter_on_steam)
+ - RSS feed: $source
+ - date published: 2025-02-28T12:31:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j06k8u/monster_hunter_wilds_is_a_nonstarter_on_steam/"> <img src="https://external-preview.redd.it/swynwCiY-3tX2lD6bsKs1TVixDGMQhs7XvcCATFG7Nk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f49ab2ef7de2a506bb68a9caa2b9af69e7abb1a" alt="Monster Hunter Wilds is a non-starter on Steam Deck, with frame rates stuck in sub-20fps hell" title="Monster Hunter Wilds is a non-starter on Steam Deck, with frame rates stuck in sub-20fps hell" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PrinceDizzy"> /u/PrinceDizzy </a> <br/> <span><a href="https://www.pcgamesn.com/monster-hunter-wilds/settings">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j06k8u/monster_hunter_wilds_is_a_nonstarter_on_steam/">[comments]</a></span> </td></tr></table>
+
+## On the spot during Swedish TV-show, It Takes Two creator Josef Fares donates about 27k USD to a financially struggling athlete.
+ - [https://www.reddit.com/r/gaming/comments/1j04wmo/on_the_spot_during_swedish_tvshow_it_takes_two](https://www.reddit.com/r/gaming/comments/1j04wmo/on_the_spot_during_swedish_tvshow_it_takes_two)
+ - RSS feed: $source
+ - date published: 2025-02-28T10:45:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j04wmo/on_the_spot_during_swedish_tvshow_it_takes_two/"> <img src="https://external-preview.redd.it/-GdwRyMOZp-GUNRQlE4WP0s1SA85_mqqQNMXGlcIhuA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3035f00b52aefc6062efee8771dc3362353c4162" alt="On the spot during Swedish TV-show, It Takes Two creator Josef Fares donates about 27k USD to a financially struggling athlete." title="On the spot during Swedish TV-show, It Takes Two creator Josef Fares donates about 27k USD to a financially struggling athlete." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jeaz"> /u/Jeaz </a> <br/> <span><a href="https://www.svt.se/sport/skidskytte/josef-fares-plotsliga-infall-ger-bort-jattesumma-till-ella-halvarsson">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j04wmo/on_the_spot_during_swedish_tvshow_it_takes_two/">[comments]</a></span> </td></tr></table>
+
+## Cabernet - Launch Trailer | PS5 & PS4 Games
+ - [https://www.reddit.com/r/gaming/comments/1j03xgn/cabernet_launch_trailer_ps5_ps4_games](https://www.reddit.com/r/gaming/comments/1j03xgn/cabernet_launch_trailer_ps5_ps4_games)
+ - RSS feed: $source
+ - date published: 2025-02-28T09:33:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1j03xgn/cabernet_launch_trailer_ps5_ps4_games/"> <img src="https://external-preview.redd.it/Tz0WhL6_HD0jtcW3lMggG-TKFPgEA4Bgq7njp2vGFIw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c3bf298f4c73f34e1a82d55cf981b7a4af0522c0" alt="Cabernet - Launch Trailer | PS5 &amp; PS4 Games" title="Cabernet - Launch Trailer | PS5 &amp; PS4 Games" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Apprehensive_Day212"> /u/Apprehensive_Day212 </a> <br/> <span><a href="https://youtu.be/hfrU4qOu3w4?si=KREgB9pu5EFW1vGn">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j03xgn/cabernet_launch_trailer_ps5_ps4_games/">[comments]</a></span> </td></tr></table>
+
+## Free Talk Friday!
+ - [https://www.reddit.com/r/gaming/comments/1j01vnt/free_talk_friday](https://www.reddit.com/r/gaming/comments/1j01vnt/free_talk_friday)
+ - RSS feed: $source
+ - date published: 2025-02-28T07:00:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>Use this post to discuss life, post memes, or just talk about whatever! </p> <p>This thread is posted weekly on Fridays (adjustments made as needed).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br/> <span><a href="https://www.reddit.com/r/gaming/comments/1j01vnt/free_talk_friday/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1j01vnt/free_talk_friday/">[comments]</a></span>
+
+## Casual drinks and game night. Sheep Raider
+ - [https://www.reddit.com/r/gaming/comments/1izya40/casual_drinks_and_game_night_sheep_raider](https://www.reddit.com/r/gaming/comments/1izya40/casual_drinks_and_game_night_sheep_raider)
+ - RSS feed: $source
+ - date published: 2025-02-28T03:21:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1izya40/casual_drinks_and_game_night_sheep_raider/"> <img src="https://preview.redd.it/mo3yang2tsle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c91ccff213cab72560e83d5f21bd307994dd99d9" alt="Casual drinks and game night. Sheep Raider" title="Casual drinks and game night. Sheep Raider" /> </a> </td><td> <!-- SC_OFF --><div class="md"></div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Chocolate3253"> /u/Ok_Chocolate3253 </a> <br/> <span><a href="https://i.redd.it/mo3yang2tsle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/comments/1izya40/casual_drinks_and_game_night_sheep_raider/">[comments]</a></span> </td></tr></table>
+
+## It's not nostalgia talking. I recently played both of these games for the very 1st time & they've unfortunately created dragons for me I have to chase now. Im glad I didn't wait for their remakes because they aged so well due to their moody atmospheric tones & great writing. They're my favorites now
+ - [https://www.reddit.com/r/gaming/comments/1izwasl/its_not_nostalgia_talking_i_recently_played_both](https://www.reddit.com/r/gaming/comments/1izwasl/its_not_nostalgia_talking_i_recently_played_both)
+ - RSS feed: $source
+ - date published: 2025-02-28T01:36:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1izwasl/its_not_nostalgia_talking_i_recently_played_both/"> <img src="https://preview.redd.it/b0vverwz7sle1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c5b10a1b5c613d2ad1c336be62afa9e94e4354ee" alt="It's not nostalgia talking. I recently played both of these games for the very 1st time &amp; they've unfortunately created dragons for me I have to chase now. Im glad I didn't wait for their remakes because they aged so well due to their moody atmospheric tones &amp; great writing. They're my favorites now" title="It's not nostalgia talking. I recently played both of these games for the very 1st time &amp; they've unfortunately created dragons for me I have to chase now. Im glad I didn't wait for their remakes because they aged so well due to their moody atmospheric tones &amp; great writing. They're my favorites now" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GenericReditUserName
+
+## One of my fav games growing up was Mario 64 - So I did an crossover acrylic painting with my Astro character. I took some liberties with the landscape to make it a bit more dramatic. I listened to the Mario 64 soundtrack the entire time :)
+ - [https://www.reddit.com/r/gaming/comments/1izvpgo/one_of_my_fav_games_growing_up_was_mario_64_so_i](https://www.reddit.com/r/gaming/comments/1izvpgo/one_of_my_fav_games_growing_up_was_mario_64_so_i)
+ - RSS feed: $source
+ - date published: 2025-02-28T01:05:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1izvpgo/one_of_my_fav_games_growing_up_was_mario_64_so_i/"> <img src="https://preview.redd.it/o67if5ro4sle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1b9d9907f4873fda6b68d23a77d994ceb980fee" alt="One of my fav games growing up was Mario 64 - So I did an crossover acrylic painting with my Astro character. I took some liberties with the landscape to make it a bit more dramatic. I listened to the Mario 64 soundtrack the entire time :)" title="One of my fav games growing up was Mario 64 - So I did an crossover acrylic painting with my Astro character. I took some liberties with the landscape to make it a bit more dramatic. I listened to the Mario 64 soundtrack the entire time :)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Flooko"> /u/Flooko </a> <br/> <span><a href="https://i.redd.it/o67if5ro4sle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/gaming/com
+
+## Star Wars: Republic Commando on original Xbox - Decided to break this oldie out
+ - [https://www.reddit.com/r/gaming/comments/1izvmy7/star_wars_republic_commando_on_original_xbox](https://www.reddit.com/r/gaming/comments/1izvmy7/star_wars_republic_commando_on_original_xbox)
+ - RSS feed: $source
+ - date published: 2025-02-28T01:01:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/gaming/comments/1izvmy7/star_wars_republic_commando_on_original_xbox/"> <img src="https://preview.redd.it/w8mdkib84sle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2067a4c40eda49d90b2f88ceff069917b99c7e14" alt="Star Wars: Republic Commando on original Xbox - Decided to break this oldie out" title="Star Wars: Republic Commando on original Xbox - Decided to break this oldie out" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Unsealed my original Xbox yesterday and started playing it for the first time (yes I realize how much money it goes for unsealed but I bought it to play it), going for a challenge run to make it as hard as possible, really enjoying it so far.</p> <p>Any tips to make it harder?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Darskul"> /u/Darskul </a> <br/> <span><a href="https://i.redd.it/w8mdkib84sle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.c
+

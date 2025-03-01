@@ -1,0 +1,9 @@
+# Source:Mental Outlaw on Odysee, URL:https://odysee.com/$/rss/@AlphaNerd:8, language:en
+
+## The Worst Firefox Update Ever
+ - [https://odysee.com/the-worst-firefox-update-ever:e1cbd8fdebfc9577e8e2af237d57af529b4ea891](https://odysee.com/the-worst-firefox-update-ever:e1cbd8fdebfc9577e8e2af237d57af529b4ea891)
+ - RSS feed: $source
+ - date published: 2025-02-28T22:07:16+00:00
+
+<p><img src="https://thumbnails.lbry.com/E4JOnQY_qbo" width="480" alt="thumbnail" title="The Worst Firefox Update Ever" /></p>In this video I discuss the new terms of service and privacy policy coming to the Firefox browser and Mozilla's removal of the promise to never sell user data from their FAQ and what this could mean for the future of Mozilla and the Firefox browser.<br /><br />My merch is available at<br />https://based.win/<br /><br />Subscribe to me on Odysee.com<br />https://odysee.com/@AlphaNerd:8<br /><br />₿💰💵💲Help Support the Channel by Donating Crypto💲💵💰₿<br /><br />Monero<br />45F2bNHVcRzXVBsvZ5giyvKGAgm6LFhMsjUUVPTEtdgJJ5SNyxzSNUmFSBR5qCCWLpjiUjYMkmZoX9b3cChNjvxR7kvh436<br /><br />Bitcoin<br />3MMKHXPQrGHEsmdHaAGD59FWhKFGeUsAxV<br /><br />Ethereum<br />0xeA4DA3F9BAb091Eb86921CA6E41712438f4E5079<br /><br />Litecoin<br />MBfrxLJMuw26hbVi2MjCVDFkkExz8rYvUF<br />...<br />https://www.youtube.com/watch?v=E4JOnQY_qbo
+

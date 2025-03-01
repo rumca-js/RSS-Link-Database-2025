@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-28T05:00:00+00:00",
+        "description": "<img src=\"https://imgs.xkcd.com/comics/excusing_yourself.png\" title=\"The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door.\" alt=\"The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door.\" />",
+        "id": 2218498,
+        "language": "en",
+        "link": "https://xkcd.com/3057",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 573,
+        "source_url": "https://xkcd.com/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Excusing Yourself",
+        "vote": 0
+    }
+]

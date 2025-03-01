@@ -1,0 +1,170 @@
+# Source:Reddit Science, URL:https://www.reddit.com/r/science/.rss, language:en
+
+## Some women develop romantic feelings for fictional “bad boys” with stereotypical masculine traits like dominance, aggression, and emotional stoicism. Women who approach love in a playful and uncommitted way, and with a strong desire for excitement and new experiences, were more likely to do this.
+ - [https://www.reddit.com/r/science/comments/1j0l86e/some_women_develop_romantic_feelings_for](https://www.reddit.com/r/science/comments/1j0l86e/some_women_develop_romantic_feelings_for)
+ - RSS feed: $source
+ - date published: 2025-02-28T23:15:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1j0l86e/some_women_develop_romantic_feelings_for/"> <img src="https://external-preview.redd.it/FCgsMltpvLSsIysrbNMo8LOdtpzV0y4epFedhsuNIL4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=13d0d670ae6cfbf3a9a2379bab0e2abef4d11a1d" alt="Some women develop romantic feelings for fictional “bad boys” with stereotypical masculine traits like dominance, aggression, and emotional stoicism. Women who approach love in a playful and uncommitted way, and with a strong desire for excitement and new experiences, were more likely to do this." title="Some women develop romantic feelings for fictional “bad boys” with stereotypical masculine traits like dominance, aggression, and emotional stoicism. Women who approach love in a playful and uncommitted way, and with a strong desire for excitement and new experiences, were more likely to do this." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/
+
+## Coping with technostress in the software industry: Coping strategies and factors underlying their selection
+ - [https://www.reddit.com/r/science/comments/1j0hpry/coping_with_technostress_in_the_software_industry](https://www.reddit.com/r/science/comments/1j0hpry/coping_with_technostress_in_the_software_industry)
+ - RSS feed: $source
+ - date published: 2025-02-28T20:40:11+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/davidshepherd"> /u/davidshepherd </a> <br/> <span><a href="https://www.sciencedirect.com/science/article/pii/S0164121225000093">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1j0hpry/coping_with_technostress_in_the_software_industry/">[comments]</a></span>
+
+## Reject suggestions that go against your better judgment: When people go along with opinions that go against their better judgment and things go wrong, not only do people not blame the adviser more, they blame themselves more. You feel worse when you ignore what you knew was the better choice.
+ - [https://www.reddit.com/r/science/comments/1j0gwd7/reject_suggestions_that_go_against_your_better](https://www.reddit.com/r/science/comments/1j0gwd7/reject_suggestions_that_go_against_your_better)
+ - RSS feed: $source
+ - date published: 2025-02-28T20:05:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1j0gwd7/reject_suggestions_that_go_against_your_better/"> <img src="https://external-preview.redd.it/KQvdWPJmGkG52bx4CHEhrVOnctcDdy268kf1f0Ibs4E.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=369f51eafcfbe1d0b716946c8fc798d9fabfc14f" alt="Reject suggestions that go against your better judgment: When people go along with opinions that go against their better judgment and things go wrong, not only do people not blame the adviser more, they blame themselves more. You feel worse when you ignore what you knew was the better choice." title="Reject suggestions that go against your better judgment: When people go along with opinions that go against their better judgment and things go wrong, not only do people not blame the adviser more, they blame themselves more. You feel worse when you ignore what you knew was the better choice." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mv
+
+## The discovery of a fat-filled cell reveals why noses are springy: « A newly identified cartilage cell generates fat vacuoles and makes the surrounding tissues pliable. This helps keep the ear and nose tips bouncy. »
+ - [https://www.reddit.com/r/science/comments/1j0gjh0/the_discovery_of_a_fatfilled_cell_reveals_why](https://www.reddit.com/r/science/comments/1j0gjh0/the_discovery_of_a_fatfilled_cell_reveals_why)
+ - RSS feed: $source
+ - date published: 2025-02-28T19:50:05+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/fchung"> /u/fchung </a> <br/> <span><a href="https://www.the-scientist.com/the-discovery-of-a-fat-filled-cell-reveals-why-noses-are-springy-72455">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1j0gjh0/the_discovery_of_a_fatfilled_cell_reveals_why/">[comments]</a></span>
+
+## Associative learning. Research found that primary school children outperform all other age groups in the ability to make the connection between an event and its consequences.
+ - [https://www.reddit.com/r/science/comments/1j0ghus/associative_learning_research_found_that_primary](https://www.reddit.com/r/science/comments/1j0ghus/associative_learning_research_found_that_primary)
+ - RSS feed: $source
+ - date published: 2025-02-28T19:48:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1j0ghus/associative_learning_research_found_that_primary/"> <img src="https://external-preview.redd.it/rWp2II9arRE7nY_8VB29fZxtY47Jihlg3yOkB5UhuG0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8adb3bf26d6894ebbaa9a03fa824c5b727014a97" alt="Associative learning. Research found that primary school children outperform all other age groups in the ability to make the connection between an event and its consequences." title="Associative learning. Research found that primary school children outperform all other age groups in the ability to make the connection between an event and its consequences." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://news.rub.de/english/press-releases/2025-02-27-associative-learning-primary-school-children-outperform-all-other-age-groups">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/sci
+
+## Traversing the air in balloons — Thomas Jefferson
+ - [https://www.reddit.com/r/science/comments/1j0e1g8/traversing_the_air_in_balloons_thomas_jefferson](https://www.reddit.com/r/science/comments/1j0e1g8/traversing_the_air_in_balloons_thomas_jefferson)
+ - RSS feed: $source
+ - date published: 2025-02-28T18:03:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1j0e1g8/traversing_the_air_in_balloons_thomas_jefferson/"> <img src="https://external-preview.redd.it/CEkRcCZM-GBzH0u1Bis_mviJOluuyPKD4VDupa_FJKk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c80730408ea9fa66bfb475b548e31840fedcb41" alt="Traversing the air in balloons — Thomas Jefferson" title="Traversing the air in balloons — Thomas Jefferson" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JamesepicYT"> /u/JamesepicYT </a> <br/> <span><a href="https://www.thomasjefferson.com/jefferson-journal/traversing-the-air-in-balloons">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1j0e1g8/traversing_the_air_in_balloons_thomas_jefferson/">[comments]</a></span> </td></tr></table>
+
+## Variability in radiotherapy outcomes across cancer types: a comparative study of glioblastoma multiforme and low-grade gliomas
+ - [https://www.reddit.com/r/science/comments/1j0cpka/variability_in_radiotherapy_outcomes_across](https://www.reddit.com/r/science/comments/1j0cpka/variability_in_radiotherapy_outcomes_across)
+ - RSS feed: $source
+ - date published: 2025-02-28T17:08:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1j0cpka/variability_in_radiotherapy_outcomes_across/"> <img src="https://external-preview.redd.it/mpQrqdSbd_TMH-6kxMY2F2KaZpTCBPyJN-HNa-GLAU4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=95966454704cbed2f65c63584bae637a11aa0a9a" alt="Variability in radiotherapy outcomes across cancer types: a comparative study of glioblastoma multiforme and low-grade gliomas" title="Variability in radiotherapy outcomes across cancer types: a comparative study of glioblastoma multiforme and low-grade gliomas" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AgingUS"> /u/AgingUS </a> <br/> <span><a href="https://doi.org/10.18632/aging.206212">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1j0cpka/variability_in_radiotherapy_outcomes_across/">[comments]</a></span> </td></tr></table>
+
+## Effect of TIMPs and their minimally engineered variants in blocking invasion and migration of brain cancer cells
+ - [https://www.reddit.com/r/science/comments/1j0cnb0/effect_of_timps_and_their_minimally_engineered](https://www.reddit.com/r/science/comments/1j0cnb0/effect_of_timps_and_their_minimally_engineered)
+ - RSS feed: $source
+ - date published: 2025-02-28T17:05:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1j0cnb0/effect_of_timps_and_their_minimally_engineered/"> <img src="https://external-preview.redd.it/KQ0h8dcRQUvO_ALHRlPTIZ2B3-W25X14dmtguUAsGrA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=060c94b127eff4596d5d20840e4f816ff851ae1f" alt="Effect of TIMPs and their minimally engineered variants in blocking invasion and migration of brain cancer cells" title="Effect of TIMPs and their minimally engineered variants in blocking invasion and migration of brain cancer cells" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Oncotarget"> /u/Oncotarget </a> <br/> <span><a href="https://doi.org/10.18632/oncotarget.28691">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1j0cnb0/effect_of_timps_and_their_minimally_engineered/">[comments]</a></span> </td></tr></table>
+
+## A high-fat, high-sucrose diet may put a person at a greater risk of developing Alzheimer’s than genetics does, new research finds.
+ - [https://www.reddit.com/r/science/comments/1j0aukp/a_highfat_highsucrose_diet_may_put_a_person_at_a](https://www.reddit.com/r/science/comments/1j0aukp/a_highfat_highsucrose_diet_may_put_a_person_at_a)
+ - RSS feed: $source
+ - date published: 2025-02-28T15:53:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1j0aukp/a_highfat_highsucrose_diet_may_put_a_person_at_a/"> <img src="https://external-preview.redd.it/d33eadLx3L-7ClxX70ZBIUKpLC2Rp1CYzC70obz5ypE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=908460ebb2e51d7ce0c080026762213cb2cd83e1" alt="A high-fat, high-sucrose diet may put a person at a greater risk of developing Alzheimer’s than genetics does, new research finds." title="A high-fat, high-sucrose diet may put a person at a greater risk of developing Alzheimer’s than genetics does, new research finds." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NGNResearch"> /u/NGNResearch </a> <br/> <span><a href="https://news.northeastern.edu/2025/02/12/alzheimers-risk-diet-impact/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1j0aukp/a_highfat_highsucrose_diet_may_put_a_person_at_a/">[comments]</a></span> </td></tr></table>
+
+## Interim 2024–2025 flu vaccine effectiveness (VE) estimates from a CDC study across four U.S. VE networks show 32%-78% VE in children and adolescents in outpatient and hospitalization settings. In adults, VE ranged from 36%-55% in outpatient settings and 41%-55% for hospitalization.
+ - [https://www.reddit.com/r/science/comments/1j0ac09/interim_20242025_flu_vaccine_effectiveness_ve](https://www.reddit.com/r/science/comments/1j0ac09/interim_20242025_flu_vaccine_effectiveness_ve)
+ - RSS feed: $source
+ - date published: 2025-02-28T15:31:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1j0ac09/interim_20242025_flu_vaccine_effectiveness_ve/"> <img src="https://external-preview.redd.it/eGqLILQ4Pk4sxKuIsePLmGn0hPwu5BHwmGwO6klOtsI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d685430ebc0ff84af4de3986f02e00c4bfed8f8" alt="Interim 2024–2025 flu vaccine effectiveness (VE) estimates from a CDC study across four U.S. VE networks show 32%-78% VE in children and adolescents in outpatient and hospitalization settings. In adults, VE ranged from 36%-55% in outpatient settings and 41%-55% for hospitalization." title="Interim 2024–2025 flu vaccine effectiveness (VE) estimates from a CDC study across four U.S. VE networks show 32%-78% VE in children and adolescents in outpatient and hospitalization settings. In adults, VE ranged from 36%-55% in outpatient settings and 41%-55% for hospitalization." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PHealthy"> /u/PHealthy </a> <br/> <
+
+## Perhaps our first scientist-President, Thomas Jefferson in 1784 discussed air travel via balloons, 9 years before Jean Pierre Blanchard flew over Philadelphia in January 9, 1793
+ - [https://www.reddit.com/r/science/comments/1j097ng/perhaps_our_first_scientistpresident_thomas](https://www.reddit.com/r/science/comments/1j097ng/perhaps_our_first_scientistpresident_thomas)
+ - RSS feed: $source
+ - date published: 2025-02-28T14:42:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1j097ng/perhaps_our_first_scientistpresident_thomas/"> <img src="https://external-preview.redd.it/CEkRcCZM-GBzH0u1Bis_mviJOluuyPKD4VDupa_FJKk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c80730408ea9fa66bfb475b548e31840fedcb41" alt="Perhaps our first scientist-President, Thomas Jefferson in 1784 discussed air travel via balloons, 9 years before Jean Pierre Blanchard flew over Philadelphia in January 9, 1793" title="Perhaps our first scientist-President, Thomas Jefferson in 1784 discussed air travel via balloons, 9 years before Jean Pierre Blanchard flew over Philadelphia in January 9, 1793" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JamesepicYT"> /u/JamesepicYT </a> <br/> <span><a href="https://www.thomasjefferson.com/jefferson-journal/traversing-the-air-in-balloons">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1j097ng/perhaps_our_first_sci
+
+## After breaching human sperm, brain, microplastics fill lungs of 51 bird species | The study found high concentrations of microplastics in bird lungs, with 221 particles per species and 416 particles per gram of lung tissue.
+ - [https://www.reddit.com/r/science/comments/1j07upc/after_breaching_human_sperm_brain_microplastics](https://www.reddit.com/r/science/comments/1j07upc/after_breaching_human_sperm_brain_microplastics)
+ - RSS feed: $source
+ - date published: 2025-02-28T13:38:24+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.sciencedirect.com/science/article/abs/pii/S0304389425001864?via%3Dihub">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1j07upc/after_breaching_human_sperm_brain_microplastics/">[comments]</a></span>
+
+## A High-Fiber Dietary Intervention (NUTRIVENTION) in Precursor Plasma Cell Disorders Improves Biomarkers of Disease and May Delay Progression to Myeloma
+ - [https://www.reddit.com/r/science/comments/1j06lwf/a_highfiber_dietary_intervention_nutrivention_in](https://www.reddit.com/r/science/comments/1j06lwf/a_highfiber_dietary_intervention_nutrivention_in)
+ - RSS feed: $source
+ - date published: 2025-02-28T12:33:44+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/James_Fortis"> /u/James_Fortis </a> <br/> <span><a href="https://www.sciencedirect.com/science/article/pii/S0006497124034189">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1j06lwf/a_highfiber_dietary_intervention_nutrivention_in/">[comments]</a></span>
+
+## Individuals Hospitalized With COVID-19 Face Long-Term Health Risks | A nationwide study has revealed that survivors of COVID-19 hospitalization face an increased risk of death or organ-related disorders for up to two and a half years after discharge.
+ - [https://www.reddit.com/r/science/comments/1j069fq/individuals_hospitalized_with_covid19_face](https://www.reddit.com/r/science/comments/1j069fq/individuals_hospitalized_with_covid19_face)
+ - RSS feed: $source
+ - date published: 2025-02-28T12:13:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1j069fq/individuals_hospitalized_with_covid19_face/"> <img src="https://external-preview.redd.it/RDNTFIqhl_UDzSYVkSMEK7KYoP13GWRa0uGrdIowAYc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d27cca780734b616fccf02601eeb76b960de6573" alt="Individuals Hospitalized With COVID-19 Face Long-Term Health Risks | A nationwide study has revealed that survivors of COVID-19 hospitalization face an increased risk of death or organ-related disorders for up to two and a half years after discharge." title="Individuals Hospitalized With COVID-19 Face Long-Term Health Risks | A nationwide study has revealed that survivors of COVID-19 hospitalization face an increased risk of death or organ-related disorders for up to two and a half years after discharge." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.technologynetworks.com/tn/news/individu
+
+## Narwhals are known for ‘tusking’, where two or more cross tusks in ritualistic behavior. New drone footage detailed in a study found for the first time that narwhals also use their tusks to forage, explore their surroundings, and even play.
+ - [https://www.reddit.com/r/science/comments/1j0691k/narwhals_are_known_for_tusking_where_two_or_more](https://www.reddit.com/r/science/comments/1j0691k/narwhals_are_known_for_tusking_where_two_or_more)
+ - RSS feed: $source
+ - date published: 2025-02-28T12:13:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1j0691k/narwhals_are_known_for_tusking_where_two_or_more/"> <img src="https://external-preview.redd.it/B-8E_JOC7uBjsQa6cfezCZh52B4TOBu7rOTRfCoo5U0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=58a9f6bb9737d2d8b2df19eaf39c7a3037789779" alt="Narwhals are known for ‘tusking’, where two or more cross tusks in ritualistic behavior. New drone footage detailed in a study found for the first time that narwhals also use their tusks to forage, explore their surroundings, and even play." title="Narwhals are known for ‘tusking’, where two or more cross tusks in ritualistic behavior. New drone footage detailed in a study found for the first time that narwhals also use their tusks to forage, explore their surroundings, and even play." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a> <br/> <span><a href="https://www.popsci.com/environment/narwhal-tusk/">[link]</a></span> &#32; <
+
+## Once in a lifetime ‘Danish Stonehenge’ from 2,000BC discovered
+ - [https://www.reddit.com/r/science/comments/1j03jjz/once_in_a_lifetime_danish_stonehenge_from_2000bc](https://www.reddit.com/r/science/comments/1j03jjz/once_in_a_lifetime_danish_stonehenge_from_2000bc)
+ - RSS feed: $source
+ - date published: 2025-02-28T09:04:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1j03jjz/once_in_a_lifetime_danish_stonehenge_from_2000bc/"> <img src="https://external-preview.redd.it/p7yWdhVJGfPW37JCL9s77O88DfgBifR66Z5OLHalF2w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=44e07df3af48fde936a4b68201dd1d45ab9f52d2" alt="Once in a lifetime ‘Danish Stonehenge’ from 2,000BC discovered" title="Once in a lifetime ‘Danish Stonehenge’ from 2,000BC discovered" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/peternelleoods"> /u/peternelleoods </a> <br/> <span><a href="https://thewestnews.com/once-in-a-lifetime-danish-stonehenge-from-2000bc-discovered/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1j03jjz/once_in_a_lifetime_danish_stonehenge_from_2000bc/">[comments]</a></span> </td></tr></table>
+
+## A new study found homicide rates are highest for Black males aged 15–24 (74.6 per 100k) and American Indian males aged 25–44 (33.5 per 100k).
+ - [https://www.reddit.com/r/science/comments/1j01mn2/a_new_study_found_homicide_rates_are_highest_for](https://www.reddit.com/r/science/comments/1j01mn2/a_new_study_found_homicide_rates_are_highest_for)
+ - RSS feed: $source
+ - date published: 2025-02-28T06:43:01+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/calliope_kekule"> /u/calliope_kekule </a> <br/> <span><a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2830783">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1j01mn2/a_new_study_found_homicide_rates_are_highest_for/">[comments]</a></span>
+
+## A new study finds 17.4% of urban housing in China is unused, contributing 55.81 million tons of CO₂ annually – 6.9% of residential emissions.
+ - [https://www.reddit.com/r/science/comments/1j00v22/a_new_study_finds_174_of_urban_housing_in_china](https://www.reddit.com/r/science/comments/1j00v22/a_new_study_finds_174_of_urban_housing_in_china)
+ - RSS feed: $source
+ - date published: 2025-02-28T05:52:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1j00v22/a_new_study_finds_174_of_urban_housing_in_china/"> <img src="https://external-preview.redd.it/Ki5UKLUdiDnaaF2VOTskt2y4nL2-1kszB9r-WrAh__M.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe5560fdba7d23d8b14ed299da8790f0fe3d2384" alt="A new study finds 17.4% of urban housing in China is unused, contributing 55.81 million tons of CO₂ annually – 6.9% of residential emissions." title="A new study finds 17.4% of urban housing in China is unused, contributing 55.81 million tons of CO₂ annually – 6.9% of residential emissions." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/calliope_kekule"> /u/calliope_kekule </a> <br/> <span><a href="https://www.nature.com/articles/s41467-025-57217-7">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1j00v22/a_new_study_finds_174_of_urban_housing_in_china/">[comments]</a></span> </td></tr></table>
+
+## Minimum and optimal combined variations in sleep, physical activity, and nutrition in relation to all-cause mortality risk
+ - [https://www.reddit.com/r/science/comments/1j0090h/minimum_and_optimal_combined_variations_in_sleep](https://www.reddit.com/r/science/comments/1j0090h/minimum_and_optimal_combined_variations_in_sleep)
+ - RSS feed: $source
+ - date published: 2025-02-28T05:14:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1j0090h/minimum_and_optimal_combined_variations_in_sleep/"> <img src="https://external-preview.redd.it/wasNR44q2Lk-svtkedV0y_eMdmAw9lOv0_EMjIr3huM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a989bf6ded9eabf95dfc4b6924b104aea07541b4" alt="Minimum and optimal combined variations in sleep, physical activity, and nutrition in relation to all-cause mortality risk" title="Minimum and optimal combined variations in sleep, physical activity, and nutrition in relation to all-cause mortality risk" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Disastrous-Wear-7483"> /u/Disastrous-Wear-7483 </a> <br/> <span><a href="https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-024-03833-x">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1j0090h/minimum_and_optimal_combined_variations_in_sleep/">[comments]</a></span> </td></tr></table>
+
+## Remote work “a protective shield” against gender discrimination
+ - [https://www.reddit.com/r/science/comments/1izyjo7/remote_work_a_protective_shield_against_gender](https://www.reddit.com/r/science/comments/1izyjo7/remote_work_a_protective_shield_against_gender)
+ - RSS feed: $source
+ - date published: 2025-02-28T03:35:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1izyjo7/remote_work_a_protective_shield_against_gender/"> <img src="https://external-preview.redd.it/7wVGWfAgcXImgpfsRICZdLgjgLInfrZ_DlH6eYmFI1s.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=652633e81aadda1e66b6812900976eba7d256c87" alt="Remote work “a protective shield” against gender discrimination" title="Remote work “a protective shield” against gender discrimination" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Red_bull_gives_wings"> /u/Red_bull_gives_wings </a> <br/> <span><a href="https://www.eurekalert.org/news-releases/1075285">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1izyjo7/remote_work_a_protective_shield_against_gender/">[comments]</a></span> </td></tr></table>
+
+## Researchers analyzed the transitional trends of major agricultural land types across distinct topographical gradients and to probe the differential impacts of these transitions on ecosystem service interactions
+ - [https://www.reddit.com/r/science/comments/1izyavl/researchers_analyzed_the_transitional_trends_of](https://www.reddit.com/r/science/comments/1izyavl/researchers_analyzed_the_transitional_trends_of)
+ - RSS feed: $source
+ - date published: 2025-02-28T03:22:23+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/JIntegrAgri"> /u/JIntegrAgri </a> <br/> <span><a href="https://doi.org/10.1016/j.jia.2025.02.005">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1izyavl/researchers_analyzed_the_transitional_trends_of/">[comments]</a></span>
+
+## Employee burnout can cost employers millions each year, study finds: Ranging from approximately $4,000 to $21,000 per employee in the U.S., a 1,000-employee company in the U.S. would on average be losing about $5 million annually
+ - [https://www.reddit.com/r/science/comments/1izxz3f/employee_burnout_can_cost_employers_millions_each](https://www.reddit.com/r/science/comments/1izxz3f/employee_burnout_can_cost_employers_millions_each)
+ - RSS feed: $source
+ - date published: 2025-02-28T03:04:32+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/FunnyGamer97"> /u/FunnyGamer97 </a> <br/> <span><a href="https://www.eurekalert.org/news-releases/1074951">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1izxz3f/employee_burnout_can_cost_employers_millions_each/">[comments]</a></span>
+
+## Research shows daughters have always sought to grow closer to their dads, and this has become more of a focus for fathers. New study found that daughters bond more with their dads while taking part in physical activities such as walking, swimming and cycling.
+ - [https://www.reddit.com/r/science/comments/1izw2zj/research_shows_daughters_have_always_sought_to](https://www.reddit.com/r/science/comments/1izw2zj/research_shows_daughters_have_always_sought_to)
+ - RSS feed: $source
+ - date published: 2025-02-28T01:24:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/science/comments/1izw2zj/research_shows_daughters_have_always_sought_to/"> <img src="https://external-preview.redd.it/4jJhPZn6TVfRSUBE7jti4OGBBE_MXv5rtnRM43KxUz8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=80bc43c87950c08f3b1121a6d1e0c93057ba7b3b" alt="Research shows daughters have always sought to grow closer to their dads, and this has become more of a focus for fathers. New study found that daughters bond more with their dads while taking part in physical activities such as walking, swimming and cycling." title="Research shows daughters have always sought to grow closer to their dads, and this has become more of a focus for fathers. New study found that daughters bond more with their dads while taking part in physical activities such as walking, swimming and cycling." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mvea"> /u/mvea </a> <br/> <span><a href="https://www.essex.ac.uk/news/2025/02/27
+
+## Scientists offer nature-based solutions for saving vanishing coastlines of the ancient city of Alexandria in Egypt
+ - [https://www.reddit.com/r/science/comments/1izv2he/scientists_offer_naturebased_solutions_for_saving](https://www.reddit.com/r/science/comments/1izv2he/scientists_offer_naturebased_solutions_for_saving)
+ - RSS feed: $source
+ - date published: 2025-02-28T00:33:40+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Economy_Ad_8619"> /u/Economy_Ad_8619 </a> <br/> <span><a href="https://doi.org/10.1029/2024EF004883">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/science/comments/1izv2he/scientists_offer_naturebased_solutions_for_saving/">[comments]</a></span>
+

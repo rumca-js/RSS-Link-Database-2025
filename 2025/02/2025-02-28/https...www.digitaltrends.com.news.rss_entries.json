@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-28T18:11:53+00:00",
+        "description": "Microsoft is at it again, trying to &#8220;encourage&#8221; users to use Copilot by testing an option that automatically opens the Copilot pane in Edge, as spotted (via ). The Copilot pane hides when you switch tabs or open favorites, but it signals Microsoft&#8217;s push to integrate AI deeply into Edge. The software giant is also [&#8230;]",
+        "id": 2218974,
+        "language": "en-US",
+        "link": "https://www.digitaltrends.com/computing/microsofts-testing-a-new-way-to-make-copilot-unavoidable",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 94,
+        "source_url": "https://www.digitaltrends.com/news/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microsoft\u2019s testing a new way to make Copilot unavoidable",
+        "vote": 0
+    }
+]

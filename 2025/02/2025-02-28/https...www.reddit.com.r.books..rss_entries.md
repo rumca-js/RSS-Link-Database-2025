@@ -1,0 +1,149 @@
+# Source:So many books, so little time, URL:https://www.reddit.com/r/books/.rss, language:
+
+## I just finished Money, Lies, and God: Inside the Movement to Destroy American Democracy (2025) by Katherine Stewart, and it's an eye-opener
+ - [https://www.reddit.com/r/books/comments/1j0loiv/i_just_finished_money_lies_and_god_inside_the](https://www.reddit.com/r/books/comments/1j0loiv/i_just_finished_money_lies_and_god_inside_the)
+ - RSS feed: $source
+ - date published: 2025-02-28T23:36:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to remind readers of rule 1.2: &quot;Posts cannot be inherently political. This is a book forum, not a political platform: everything must fit within the context of book discussion.&quot;</p> <p>For a discussion of the book&#39;s politics, I invite readers to join the conversation on <a href="/r/AmericanPolitics">r/AmericanPolitics</a>: <a href="https://www.reddit.com/r/AmericanPolitics/comments/1j0ksmo/money_lies_and_god_inside_the_movement_to_destroy/">https://www.reddit.com/r/AmericanPolitics/comments/1j0ksmo/money_lies_and_god_inside_the_movement_to_destroy/</a></p> <p>Stewart blends great research and the personal anecdotes of a long journalistic career with larger cultural observations using clean and readable language.</p> <p>I found her arguments to be credible and powerful. Indeed, she shines a bright light on a political movement that has been going on for many years. I highly recommend this book to anyone wanting to know what is hap
+
+## Picked up ‘Reading Lolita in Teheran’ and it’s terrifying
+ - [https://www.reddit.com/r/books/comments/1j0kucv/picked_up_reading_lolita_in_teheran_and_its](https://www.reddit.com/r/books/comments/1j0kucv/picked_up_reading_lolita_in_teheran_and_its)
+ - RSS feed: $source
+ - date published: 2025-02-28T22:58:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Nafisi’s descriptions of those early days after the Iranian revolution just hit a little bit too close to home. The sense of dread mixed with a fool’s hope that some reaction will come. The incredibly human, but blindingly stubborn intrusion of daily life. The shocking mundaneness of the antagonists. The sense of loss and helplessness in the face of such blind devotion. </p> <p>Every time I put the book down I’m left with a sense of foreboding. We cannot fathom what is yet to come, we cannot believe people will go to such depths. They will.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Yourstruly75"> /u/Yourstruly75 </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1j0kucv/picked_up_reading_lolita_in_teheran_and_its/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1j0kucv/picked_up_reading_lolita_in_teheran_and_its/">[comments]</a></span>
+
+## Best literary fiction Booktube channels?
+ - [https://www.reddit.com/r/books/comments/1j0jwqr/best_literary_fiction_booktube_channels](https://www.reddit.com/r/books/comments/1j0jwqr/best_literary_fiction_booktube_channels)
+ - RSS feed: $source
+ - date published: 2025-02-28T22:16:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m not a big genre reader, but Booktube seems to have an endless well of creators for that stuff. I’m constantly recommended these types of channels but it’s just not what I’m looking for.</p> <p>Who are some literary fiction Booktubers I should subscribe to?</p> <p>I’m looking for good taste, and thoughtful reviews that aren’t just synopses.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/benw300"> /u/benw300 </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1j0jwqr/best_literary_fiction_booktube_channels/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1j0jwqr/best_literary_fiction_booktube_channels/">[comments]</a></span>
+
+## Book buying habits
+ - [https://www.reddit.com/r/books/comments/1j0hz18/book_buying_habits](https://www.reddit.com/r/books/comments/1j0hz18/book_buying_habits)
+ - RSS feed: $source
+ - date published: 2025-02-28T20:51:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>I realized that, I like going to bookstores. Especially perusing titles I have not seen before, covers that fancy my attention, and blurbs that interests me. I think the whole idea of just going to the bookstore and be absorbed by the sheer amount of books surrounding me gives me a different kind of joy.</p> <p>I used to buy ebooks and order from Amazon because it&#39;s relatively cheaper but it doesn&#39;t feel the same.</p> <p>I&#39;d like to ask, what are you book buying habits? Do you exclusively buy on used bookstores? Buy ebooks only? Borrow from library? Search for good deals on bookoutlet and the likes? How often do you buy? Do you have a limit per week? Month? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/revelry0128"> /u/revelry0128 </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1j0hz18/book_buying_habits/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comm
+
+## In memorium of Jeremy Strong- British children’s author (1949-2024)
+ - [https://www.reddit.com/r/books/comments/1j0ffl0/in_memorium_of_jeremy_strong_british_childrens](https://www.reddit.com/r/books/comments/1j0ffl0/in_memorium_of_jeremy_strong_british_childrens)
+ - RSS feed: $source
+ - date published: 2025-02-28T19:02:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>I only recently came to hear of his passing. Jeremy Strong was a significant feature of my primary school years with his 100 Mile an Hour Dog series and also My Brother&#39;s Famous Bottom series. He was an author who brought much joy to young children from (particularly) the early 90s onwards with his silly humour. His final work Fox Goes North which was published posthumously is apparently more sombre than his previous works. Hopefully those who enjoyed his books as children will pass them down to their own children and inspire laughter in subsequent generations.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Live-Drummer-9801"> /u/Live-Drummer-9801 </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1j0ffl0/in_memorium_of_jeremy_strong_british_childrens/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1j0ffl0/in_memorium_of_jeremy_strong_british_childrens/">[comm
+
+## Finished the Red Winter trilogy
+ - [https://www.reddit.com/r/books/comments/1j0esxu/finished_the_red_winter_trilogy](https://www.reddit.com/r/books/comments/1j0esxu/finished_the_red_winter_trilogy)
+ - RSS feed: $source
+ - date published: 2025-02-28T18:35:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just finished the Red Winter trilogy by Annette Marie and I am blown away. I enjoyed this way more than I thought and hoped! Usually I&#39;m really picky when it comes to japanese settings because I&#39;ve been a Japan fan since the dawn of Sailor Moon on western shores but this one was really well done! Even if people complained about Amaterasu being the goddess of wind and not sun. Actually it is said that in some beliefs she is the goddess of wind.</p> <p>Anyway if you like anime like INU Yasha or Natsumes book of friends, japanese mythology or yokai and romance this one is for you! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/apple_porridge"> /u/apple_porridge </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1j0esxu/finished_the_red_winter_trilogy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1j0esxu/finished_the_red_winter_trilogy/">[comments]</a></s
+
+## Hermann Broch
+ - [https://www.reddit.com/r/books/comments/1j0dvhd/hermann_broch](https://www.reddit.com/r/books/comments/1j0dvhd/hermann_broch)
+ - RSS feed: $source
+ - date published: 2025-02-28T17:56:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>I owe Elias Canetti a whole lot of bookshelf space not only for his books but the other writers he introduced to me and that I love. Karl Kraus, Robert Musil and Hermann Broch. I can talk more about the other two but I&#39;ve read more of Brock so here I am gushing.</p> <p>I&#39;ve read Sleepwalkers, The Death of Virgil and 2/3rds through The Guiltless. Sleepwalkers might be one of my favorite character studies in people trying to make sense of such a rapidly accelerating world where they notice that everything is changing and no matter how much they are told that it is for the better they just cannot see it themselves. &quot;Those who make it through without going insane must be mad themselves.&quot; I wont pretend to be smart enough to be able to interpret correctly all their ideas but through out the book I felt more and more reassured in my own beliefs and understood in struggles to find my place in a world that doesn&#39;t want me. &quot;Do thys
+
+## What is your favorite religion created by an author specifically for one of their own works of fiction? (Quotes, but no plot spoilers)
+ - [https://www.reddit.com/r/books/comments/1j0cru5/what_is_your_favorite_religion_created_by_an](https://www.reddit.com/r/books/comments/1j0cru5/what_is_your_favorite_religion_created_by_an)
+ - RSS feed: $source
+ - date published: 2025-02-28T17:10:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>To be perfectly clear, I&#39;m referring to a religion which is not and has not been seriously practiced in the world today/throughout history (at least not by the same name anyway). Of course they can be inspired by real religion, there&#39;s so many religions which have been practiced on this planet over its history that it&#39;d be hard to come up with one that is COMPLETELY original in nature without inspiration from anywhere.</p> <p><strong>Bokononism</strong> is the religion at the center of Kurt Vonnegut&#39;s <em>Cat&#39;s Cradle</em> and, as has been a central theme in my reading of Vonnegut this year, draws a perfect combination of absurdist satire and genuinely insightful commentary of the human condition. Below (in no particular order) are a few of my absolute favorite passages from the book which stood out to me over the course of my first read of this wild piece.</p> <ul> <li>All of the true things I am about to tell you are shameless l
+
+## Has anyone else noticed how, when looking for recs, more & more people seem to be asking for "trope formulas" rather than actual books?
+ - [https://www.reddit.com/r/books/comments/1j0c61h/has_anyone_else_noticed_how_when_looking_for_recs](https://www.reddit.com/r/books/comments/1j0c61h/has_anyone_else_noticed_how_when_looking_for_recs)
+ - RSS feed: $source
+ - date published: 2025-02-28T16:46:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>It&#39;s not a widespread phenomenon or anything, but I&#39;ve been observing an emerging trend on the recs subs over the past couple of months and thought it might make for an interesting discussion.</p> <p>What do I mean? Well, usually when looking for suggestions people will either list a preferred genre, mood, or book they&#39;ve enjoyed and now want to read something similar.</p> <p>However, lately there&#39;s been an influx of readers who are, for lack of a better word, looking for distilled trope formulas in book form. Amusingly, these are also super specific.</p> <p>Here are a few examples without much hyperbole.</p> <ul> <li><p>Country girl who meets and falls in love with rich heir</p></li> <li><p>Sapphic on-again off-again relationship with a dark twist</p></li> <li><p>Guy who&#39;s cold and distant toward family but comes around and becomes a fierce protector (this is more or less an actual one from a few days ago)</p></li> <li><p>And the
+
+## Pasted over books
+ - [https://www.reddit.com/r/books/comments/1j0b8f1/pasted_over_books](https://www.reddit.com/r/books/comments/1j0b8f1/pasted_over_books)
+ - RSS feed: $source
+ - date published: 2025-02-28T16:08:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>For a story on writing there is a hundreds year old book where an entirely new book is pasted over another book. I could swear I heard something about this regarding a medical text overlaid by a Bible. Does anyone know what this is called? I don’t mean pages to update text but making it into an entirely different book.</p> <p>I spent some time researching but most results were updated pages or pages that hadn’t been properly cut. I thought this would be a good place to look for answers.</p> <p>Any help is appreciated. If this isn’t a legitimate thing that would also be good to know.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DMC1001"> /u/DMC1001 </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1j0b8f1/pasted_over_books/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1j0b8f1/pasted_over_books/">[comments]</a></span>
+
+## In praise of the difficult book | Nilanjana Roy on Sarah Chihaya's Bibliophobia
+ - [https://www.reddit.com/r/books/comments/1j090n2/in_praise_of_the_difficult_book_nilanjana_roy_on](https://www.reddit.com/r/books/comments/1j090n2/in_praise_of_the_difficult_book_nilanjana_roy_on)
+ - RSS feed: $source
+ - date published: 2025-02-28T14:33:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/books/comments/1j090n2/in_praise_of_the_difficult_book_nilanjana_roy_on/"> <img src="https://external-preview.redd.it/M1hNSXW03c-7eA0T-U-bfw0RktdBRHxvREmo_LqvpAU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d9083693dc8a5bf289292e5b950fa4ad407d1952" alt="In praise of the difficult book | Nilanjana Roy on Sarah Chihaya's Bibliophobia" title="In praise of the difficult book | Nilanjana Roy on Sarah Chihaya's Bibliophobia" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BetterThanPie"> /u/BetterThanPie </a> <br/> <span><a href="https://on.ft.com/4i3ewDa">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1j090n2/in_praise_of_the_difficult_book_nilanjana_roy_on/">[comments]</a></span> </td></tr></table>
+
+## What celebrities, or notable figures, would you like a memoir from?
+ - [https://www.reddit.com/r/books/comments/1j08j9k/what_celebrities_or_notable_figures_would_you](https://www.reddit.com/r/books/comments/1j08j9k/what_celebrities_or_notable_figures_would_you)
+ - RSS feed: $source
+ - date published: 2025-02-28T14:10:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>I love a good memoir. There are many I get curious about and would love to read about the intricacies of their life. Mary-Kate and Ashley Olsen come to mind, but I think getting anything from them is highly unlikely considering how private they are. I&#39;d like more memoirs from Disney / Nick child stars as well since I personally grew up with them.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sixeyedgojo"> /u/sixeyedgojo </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1j08j9k/what_celebrities_or_notable_figures_would_you/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1j08j9k/what_celebrities_or_notable_figures_would_you/">[comments]</a></span>
+
+## Weekly Recommendation Thread: February 28, 2025
+ - [https://www.reddit.com/r/books/comments/1j054l6/weekly_recommendation_thread_february_28_2025](https://www.reddit.com/r/books/comments/1j054l6/weekly_recommendation_thread_february_28_2025)
+ - RSS feed: $source
+ - date published: 2025-02-28T11:00:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Welcome to our weekly recommendation thread! A few years ago now the mod team decided to condense the many &quot;suggest some books&quot; threads into one big mega-thread, in order to consolidate the subreddit and diversify the front page a little. Since then, we have removed suggestion threads and directed their posters to this thread instead. This tradition continues, so let&#39;s jump right in!</p> <p><strong>The Rules</strong></p> <ul> <li><p>Every comment in reply to this self-post must be a request for suggestions.</p></li> <li><p>All suggestions made in this thread must be direct replies to other people&#39;s requests. Do not post suggestions in reply to this self-post.</p></li> <li><p>All unrelated comments will be deleted in the interest of cleanliness.</p></li> </ul> <hr/> <p><strong>How to get the best recommendations</strong></p> <p>The most successful recommendation requests include a description of the kind of book being sought. This mi
+
+## Some thoughts on Count of Monte Cristo
+ - [https://www.reddit.com/r/books/comments/1j04h74/some_thoughts_on_count_of_monte_cristo](https://www.reddit.com/r/books/comments/1j04h74/some_thoughts_on_count_of_monte_cristo)
+ - RSS feed: $source
+ - date published: 2025-02-28T10:14:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I completed the book and I like reading discussions on the same so I went on YouTube and reddit for some. I found many a people pointing out how excessive the revenge was and one reviewer went on to call that &#39;Edmond&#39; didn&#39;t deserve &#39;Mercedes&#39;. He hurt innocent when he should have done.... Idk what they were trying to say should have happened in a revenge plot.</p> <p>Okay, first about mercedes. I don&#39;t believe she was as pious as people made it her to be. I won&#39;t even talk about her leaving edmond to marry fernand. The scene when dantes comes back, he gets to know his father died of starvation. Okay let&#39;s go a few chapters back at the starting when dantes comes from the ship. Guess who was taking care of his father? Yep, mercedes. So when she married Fernand, she never really thought what would become of his old father as she was the only person taking care of him. He died. He died of starvation, a death that even wre
+
+## The Private Memoirs and Confessions of a Justified Sinner by James Hogg is a little known gothic masterpiece (1824)
+ - [https://www.reddit.com/r/books/comments/1j04ciu/the_private_memoirs_and_confessions_of_a](https://www.reddit.com/r/books/comments/1j04ciu/the_private_memoirs_and_confessions_of_a)
+ - RSS feed: $source
+ - date published: 2025-02-28T10:04:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just just finished this classics Scottish novel and it is one of the best books I have ever read. It blends comedy, horror and social commentary in a way that I cannot quite believe was written 200 years ago. </p> <p>It follows the story of 2 brothers who were brought up separately with different religious beliefs, a murder, descent into madness and possibly even demonic possession. It features multiple narrators of varying reliability and is extremely ambiguous in places but this just made me appreciate it all the more. </p> <p>I need to read it again to gleam more but I thought it&#39;s comentary on religion was fantastic and is made even more fascinating by the fact James Hogg himself was religious. I think this allowed for more nuance on the subject than any other more recent authors on the subject. </p> <p>Has anyone else read it? I don&#39;t know anyone who has and it&#39;s puzzling because it is well written and thematically deep while being
+
+## The House in the Cerulean Sea
+ - [https://www.reddit.com/r/books/comments/1j03yds/the_house_in_the_cerulean_sea](https://www.reddit.com/r/books/comments/1j03yds/the_house_in_the_cerulean_sea)
+ - RSS feed: $source
+ - date published: 2025-02-28T09:35:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone! </p> <p>After seeing so many recommendations for The House in the Cerulean Sea on this platform, I (27 F) finally picked it up. At first, I found it to be a cozy yet fairly predictable read, seemingly geared towards young adults. But then I reached the part where Sal first agrees to show Linus his room and the latter helps him move his writing setup—and everything changed. From that moment on, I was completely captivated, unable to put it down. </p> <p>Another highlight in the book that left a gag in my throat was when Arthur changes in front of the crowd to protect Linus. </p> <p>There were many more passages that left my eyes misty and my lips curled into a smile (though, to be fair, I do tear up easily!). This book is the perfect escape into a fantasy world that’s warm, fuzzy, and filled with heart. I’d highly recommend it to anyone looking for a comforting and magical read. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a hre
+
+## Twilight: While everyone else was in a drama, Jessica was in a comedy
+ - [https://www.reddit.com/r/books/comments/1j02t8l/twilight_while_everyone_else_was_in_a_drama](https://www.reddit.com/r/books/comments/1j02t8l/twilight_while_everyone_else_was_in_a_drama)
+ - RSS feed: $source
+ - date published: 2025-02-28T08:09:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>We get the books from bella&#39;s and edward&#39;s point of view and they both dismiss jessica as mean or superficial, she is just a regular person.</p> <p>in the books, Lauren is the token mean girl and bella is portrayed as the not-like-other-girls character wish fulfilment self insert etc... Not gonna dissect the writing of Twilight ( I already did that here a while back and finding out that the author is mormon explained a lot)</p> <p>It was a core part of my teenage years and therefore I am attached to it, my precious 😭. and now i am totally here for the ironic renaissance the memes, the lore, the vibes :0.</p> <p>Like the movie version of Charlie (book charlie yikes), Jessica is one of the more not-insane characters, I wanted the first three books from her point of view so bad haha just imagine...</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/taanukichi"> /u/taanukichi </a> <br/> <span><a href="https://w
+
+## Exit West by Mohsin Hamid just shook me.
+ - [https://www.reddit.com/r/books/comments/1j00vak/exit_west_by_mohsin_hamid_just_shook_me](https://www.reddit.com/r/books/comments/1j00vak/exit_west_by_mohsin_hamid_just_shook_me)
+ - RSS feed: $source
+ - date published: 2025-02-28T05:52:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just finished Exit West by Mohsin Hamid. It made such a strong impression on me. It&#39;s so relevant to our changing future. </p> <p>He writes in a propulsive, elegant style. You get carried along a the beautiful and tragic journey of a young couple forced to migrate from a war torn place. Horrific and lovely events are written with the same care and attention. </p> <p>The style reminded me of We the Animals by Justin Torres in the effortless exposition and efficiency of thought. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nicacio"> /u/nicacio </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1j00vak/exit_west_by_mohsin_hamid_just_shook_me/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1j00vak/exit_west_by_mohsin_hamid_just_shook_me/">[comments]</a></span>
+
+## Standards for books being higher?
+ - [https://www.reddit.com/r/books/comments/1j00jmh/standards_for_books_being_higher](https://www.reddit.com/r/books/comments/1j00jmh/standards_for_books_being_higher)
+ - RSS feed: $source
+ - date published: 2025-02-28T05:32:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I started reading like a year and a half ago and I’ve read like 30 books so far. </p> <p>And when I started my reading journey, it was really easy to be wowed by everything I read. </p> <p>But the more books I read, I noticed that it was getting harder and harder to be wowed by the books I’m reading. Even if the books are genuinely amazing. </p> <p>I either feel nothing towards a book after finishing it, or I think it’s amazing but I’m never wowed by a book</p> <p>Like it’s hard to describe so I’ll give an example. I read game of thrones last month. The story is good, everyone loves it, etc. and I enjoyed reading it too. But in retrospect, it just feels kinda average. I think the book is genuinely good, but it’s hard for me to be wowed by it. </p> <p>My theory is that I’m seeing innovation in stories less and less, the more I read. Like when you first start something new, everything is cool about it. But when you get to know it, you start to see i
+
+## The Women in the Castle by Jessica Shattuck
+ - [https://www.reddit.com/r/books/comments/1j00dfy/the_women_in_the_castle_by_jessica_shattuck](https://www.reddit.com/r/books/comments/1j00dfy/the_women_in_the_castle_by_jessica_shattuck)
+ - RSS feed: $source
+ - date published: 2025-02-28T05:21:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was recommended this book by a friend of my librarian grandma after she passed away.</p> <p>It is about non-sympathizer women in Germany after WWII. Definitely not always the happiest content, but overall uplifting in its message. It conjures the feeling of living in an environment where you do not feel at home amongst your neighbors or people. </p> <p>Hoping to inspire others to read and relate to this touching book. Please let me know what you think!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/damn_mrs_pearce"> /u/damn_mrs_pearce </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1j00dfy/the_women_in_the_castle_by_jessica_shattuck/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1j00dfy/the_women_in_the_castle_by_jessica_shattuck/">[comments]</a></span>
+
+## How to Say Babylon by Safiya Sinclair
+ - [https://www.reddit.com/r/books/comments/1izxvso/how_to_say_babylon_by_safiya_sinclair](https://www.reddit.com/r/books/comments/1izxvso/how_to_say_babylon_by_safiya_sinclair)
+ - RSS feed: $source
+ - date published: 2025-02-28T02:59:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>How to Say Babylon is a memoir about a Jamaican girl&#39;s journey, coming of age under the strict Rastafarian rule of her father. </p> <p>I really wanted to like this book. The author is a poet and her writing style reflects that. The lyrical style took away from her story and I found myself struggling to get through the book. It was almost a DNF for me. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/suitable_zone3"> /u/suitable_zone3 </a> <br/> <span><a href="https://www.reddit.com/r/books/comments/1izxvso/how_to_say_babylon_by_safiya_sinclair/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/books/comments/1izxvso/how_to_say_babylon_by_safiya_sinclair/">[comments]</a></span>
+

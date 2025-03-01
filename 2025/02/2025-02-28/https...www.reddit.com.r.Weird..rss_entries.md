@@ -1,0 +1,191 @@
+# Source:Weird, URL:https://www.reddit.com/r/Weird/.rss, language:en
+
+## A piece of cardboard left on my friend’s Vespa.
+ - [https://www.reddit.com/r/Weird/comments/1j0kbcr/a_piece_of_cardboard_left_on_my_friends_vespa](https://www.reddit.com/r/Weird/comments/1j0kbcr/a_piece_of_cardboard_left_on_my_friends_vespa)
+ - RSS feed: $source
+ - date published: 2025-02-28T22:34:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j0kbcr/a_piece_of_cardboard_left_on_my_friends_vespa/"> <img src="https://b.thumbs.redditmedia.com/dFXDNfSehx9niMIBNpfMIQ_UkJYZtEkSrZqtvW-yK1M.jpg" alt="A piece of cardboard left on my friend’s Vespa." title="A piece of cardboard left on my friend’s Vespa." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/The_Mightiest_Duck"> /u/The_Mightiest_Duck </a> <br/> <span><a href="https://www.reddit.com/gallery/1j0kbcr">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j0kbcr/a_piece_of_cardboard_left_on_my_friends_vespa/">[comments]</a></span> </td></tr></table>
+
+## Found this sticker in my car seat. I don’t know where it came from
+ - [https://www.reddit.com/r/Weird/comments/1j0k74b/found_this_sticker_in_my_car_seat_i_dont_know](https://www.reddit.com/r/Weird/comments/1j0k74b/found_this_sticker_in_my_car_seat_i_dont_know)
+ - RSS feed: $source
+ - date published: 2025-02-28T22:29:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j0k74b/found_this_sticker_in_my_car_seat_i_dont_know/"> <img src="https://b.thumbs.redditmedia.com/ZO5aJvEWHrQtAAhUvWMnwXKJPf7lpSqLPTQxKjPlg9s.jpg" alt="Found this sticker in my car seat. I don’t know where it came from" title="Found this sticker in my car seat. I don’t know where it came from" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I did go to a ren fair a few weeks ago so it probably is from there but I don’t know how it ended up there.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LilyGaming"> /u/LilyGaming </a> <br/> <span><a href="https://www.reddit.com/gallery/1j0k74b">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j0k74b/found_this_sticker_in_my_car_seat_i_dont_know/">[comments]</a></span> </td></tr></table>
+
+## Weird vibe
+ - [https://www.reddit.com/r/Weird/comments/1j0iy9k/weird_vibe](https://www.reddit.com/r/Weird/comments/1j0iy9k/weird_vibe)
+ - RSS feed: $source
+ - date published: 2025-02-28T21:33:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j0iy9k/weird_vibe/"> <img src="https://preview.redd.it/uhqkq7my7yle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b38eee569b43980f6c5c73dd25834df8cd996ce8" alt="Weird vibe" title="Weird vibe" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CompetitiveClient506"> /u/CompetitiveClient506 </a> <br/> <span><a href="https://i.redd.it/uhqkq7my7yle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j0iy9k/weird_vibe/">[comments]</a></span> </td></tr></table>
+
+## This one Giant Square I found today on Google Earth in the Middle of the UK (Cheadle) that was captured after it snowed.
+ - [https://www.reddit.com/r/Weird/comments/1j0hhoa/this_one_giant_square_i_found_today_on_google](https://www.reddit.com/r/Weird/comments/1j0hhoa/this_one_giant_square_i_found_today_on_google)
+ - RSS feed: $source
+ - date published: 2025-02-28T20:30:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j0hhoa/this_one_giant_square_i_found_today_on_google/"> <img src="https://b.thumbs.redditmedia.com/ngVDnmOwDcD3Xf_Szyh0bJ6giIlo2kH-TITJ50knsuk.jpg" alt="This one Giant Square I found today on Google Earth in the Middle of the UK (Cheadle) that was captured after it snowed." title="This one Giant Square I found today on Google Earth in the Middle of the UK (Cheadle) that was captured after it snowed." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Old_Instrument_Guy"> /u/Old_Instrument_Guy </a> <br/> <span><a href="https://www.reddit.com/gallery/1j0hhoa">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j0hhoa/this_one_giant_square_i_found_today_on_google/">[comments]</a></span> </td></tr></table>
+
+## What are these?
+ - [https://www.reddit.com/r/Weird/comments/1j0f8rv/what_are_these](https://www.reddit.com/r/Weird/comments/1j0f8rv/what_are_these)
+ - RSS feed: $source
+ - date published: 2025-02-28T18:54:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j0f8rv/what_are_these/"> <img src="https://preview.redd.it/yqm5yshkfxle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=72bfa333cabbfc18aadf86cb7b818e1c1285c71b" alt="What are these?" title="What are these?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So I was in London UK. Year ago and I took. Walk around my hotel, I noticed these. I was curious what these were, no liquid are inside. I was thinking it might be capturing air particles? Any ideas? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/okiwali"> /u/okiwali </a> <br/> <span><a href="https://i.redd.it/yqm5yshkfxle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j0f8rv/what_are_these/">[comments]</a></span> </td></tr></table>
+
+## wth is tiktok shop even about?!
+ - [https://www.reddit.com/r/Weird/comments/1j0ep7b/wth_is_tiktok_shop_even_about](https://www.reddit.com/r/Weird/comments/1j0ep7b/wth_is_tiktok_shop_even_about)
+ - RSS feed: $source
+ - date published: 2025-02-28T18:31:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j0ep7b/wth_is_tiktok_shop_even_about/"> <img src="https://preview.redd.it/8o8ucr0gbxle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8059b0a745174586a467a546ab15e77eb172dc2" alt="wth is tiktok shop even about?!" title="wth is tiktok shop even about?!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Camcat_56"> /u/Camcat_56 </a> <br/> <span><a href="https://i.redd.it/8o8ucr0gbxle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j0ep7b/wth_is_tiktok_shop_even_about/">[comments]</a></span> </td></tr></table>
+
+## Very strange google autocompletes??
+ - [https://www.reddit.com/r/Weird/comments/1j0dqj9/very_strange_google_autocompletes](https://www.reddit.com/r/Weird/comments/1j0dqj9/very_strange_google_autocompletes)
+ - RSS feed: $source
+ - date published: 2025-02-28T17:51:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j0dqj9/very_strange_google_autocompletes/"> <img src="https://preview.redd.it/4nryj3z94xle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=219be08f2b516e1490fd66a962cf56606c4142f2" alt="Very strange google autocompletes??" title="Very strange google autocompletes??" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>(Picture is of the text in a note because I was too panicked to screenshot it and pressed on them) </p> <p>Don&#39;t even remember what I was searching, but it was a long sentence, and at the point where google normally stops giving you suggestions it instead showed this single piece of arabic text, which according to google translate means &quot;what is wrong with you&quot;</p> <p>Tried to do another long search to reproduce it and the same thing happened but with the cyrillic text, which according to google appears to be complete gibberish in any language.</p> <p>Any explanations other than a middle-
+
+## I found a torn page from an old book dated 1931 in a Paris gutter.
+ - [https://www.reddit.com/r/Weird/comments/1j0b205/i_found_a_torn_page_from_an_old_book_dated_1931](https://www.reddit.com/r/Weird/comments/1j0b205/i_found_a_torn_page_from_an_old_book_dated_1931)
+ - RSS feed: $source
+ - date published: 2025-02-28T16:01:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j0b205/i_found_a_torn_page_from_an_old_book_dated_1931/"> <img src="https://preview.redd.it/pfkd0o8pkwle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32d7c1b656567f9249bcaed1d9eb6c9c0307c024" alt="I found a torn page from an old book dated 1931 in a Paris gutter." title="I found a torn page from an old book dated 1931 in a Paris gutter." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>📍Near Place de Clichy </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sabranise"> /u/Sabranise </a> <br/> <span><a href="https://i.redd.it/pfkd0o8pkwle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j0b205/i_found_a_torn_page_from_an_old_book_dated_1931/">[comments]</a></span> </td></tr></table>
+
+## A collection of smalls I’ve found over the years of working at a rubbish dump in the UK.
+ - [https://www.reddit.com/r/Weird/comments/1j09l5n/a_collection_of_smalls_ive_found_over_the_years](https://www.reddit.com/r/Weird/comments/1j09l5n/a_collection_of_smalls_ive_found_over_the_years)
+ - RSS feed: $source
+ - date published: 2025-02-28T14:59:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j09l5n/a_collection_of_smalls_ive_found_over_the_years/"> <img src="https://preview.redd.it/9zutpapm9wle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=43f53dbea24f12959a14d2d99671deffb3e53b4f" alt="A collection of smalls I’ve found over the years of working at a rubbish dump in the UK." title="A collection of smalls I’ve found over the years of working at a rubbish dump in the UK." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Daverose68"> /u/Daverose68 </a> <br/> <span><a href="https://i.redd.it/9zutpapm9wle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j09l5n/a_collection_of_smalls_ive_found_over_the_years/">[comments]</a></span> </td></tr></table>
+
+## Airpods suddenly changed their name to garbled text
+ - [https://www.reddit.com/r/Weird/comments/1j09gki/airpods_suddenly_changed_their_name_to_garbled](https://www.reddit.com/r/Weird/comments/1j09gki/airpods_suddenly_changed_their_name_to_garbled)
+ - RSS feed: $source
+ - date published: 2025-02-28T14:53:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j09gki/airpods_suddenly_changed_their_name_to_garbled/"> <img src="https://preview.redd.it/vue6kv4l8wle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ca639d3e814b04ce3aa1df0aad792367f1d6ae1" alt="Airpods suddenly changed their name to garbled text" title="Airpods suddenly changed their name to garbled text" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>My airpods have decided to change their name to something I only assume cthulhu could pronounce. Just tried to re-pair them and it seems adimant that it&#39;s new name is this mess of garbled text.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sinom_Prospekt"> /u/Sinom_Prospekt </a> <br/> <span><a href="https://i.redd.it/vue6kv4l8wle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j09gki/airpods_suddenly_changed_their_name_to_garbled/">[comments]</a></span> </td></tr></table>
+
+## A mini figure i left behind since 5th grade,it was stuck so i just left it there, is been 8 year now..
+ - [https://www.reddit.com/r/Weird/comments/1j06pdg/a_mini_figure_i_left_behind_since_5th_gradeit_was](https://www.reddit.com/r/Weird/comments/1j06pdg/a_mini_figure_i_left_behind_since_5th_gradeit_was)
+ - RSS feed: $source
+ - date published: 2025-02-28T12:39:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j06pdg/a_mini_figure_i_left_behind_since_5th_gradeit_was/"> <img src="https://preview.redd.it/2l0k431nkvle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b4022870fa573f29c4c01ee3f5f0f3389a02ce63" alt="A mini figure i left behind since 5th grade,it was stuck so i just left it there, is been 8 year now.." title="A mini figure i left behind since 5th grade,it was stuck so i just left it there, is been 8 year now.." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ichangeredditname"> /u/ichangeredditname </a> <br/> <span><a href="https://i.redd.it/2l0k431nkvle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j06pdg/a_mini_figure_i_left_behind_since_5th_gradeit_was/">[comments]</a></span> </td></tr></table>
+
+## Netflix and Grill!!
+ - [https://www.reddit.com/r/Weird/comments/1j06k8p/netflix_and_grill](https://www.reddit.com/r/Weird/comments/1j06k8p/netflix_and_grill)
+ - RSS feed: $source
+ - date published: 2025-02-28T12:31:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j06k8p/netflix_and_grill/"> <img src="https://preview.redd.it/2if8pvx5jvle1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b5fde2616200f2df9b4bf9b64d35af678b2f2ad8" alt="Netflix and Grill!!" title="Netflix and Grill!!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rsxxiv"> /u/rsxxiv </a> <br/> <span><a href="https://i.redd.it/2if8pvx5jvle1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j06k8p/netflix_and_grill/">[comments]</a></span> </td></tr></table>
+
+## Found in a field near a church in Italy
+ - [https://www.reddit.com/r/Weird/comments/1j0450q/found_in_a_field_near_a_church_in_italy](https://www.reddit.com/r/Weird/comments/1j0450q/found_in_a_field_near_a_church_in_italy)
+ - RSS feed: $source
+ - date published: 2025-02-28T09:49:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j0450q/found_in_a_field_near_a_church_in_italy/"> <img src="https://b.thumbs.redditmedia.com/3leyF2mwlEvZEW6y-wIubnJrqhmjxW1p5NKt93M7S_g.jpg" alt="Found in a field near a church in Italy" title="Found in a field near a church in Italy" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>No idea about the meaning</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Able_Exchange7141"> /u/Able_Exchange7141 </a> <br/> <span><a href="https://www.reddit.com/gallery/1j0450q">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j0450q/found_in_a_field_near_a_church_in_italy/">[comments]</a></span> </td></tr></table>
+
+## A Japanese company created a metallic banana to use as a hammer, inspired by the fact that bananas can become hard like a hammer at minus 40 degrees Celsius.
+ - [https://www.reddit.com/r/Weird/comments/1j03370/a_japanese_company_created_a_metallic_banana_to](https://www.reddit.com/r/Weird/comments/1j03370/a_japanese_company_created_a_metallic_banana_to)
+ - RSS feed: $source
+ - date published: 2025-02-28T08:29:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j03370/a_japanese_company_created_a_metallic_banana_to/"> <img src="https://preview.redd.it/3bisg5diaule1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=10301e18a8a601a8242faa9a4b677cd102146cc9" alt="A Japanese company created a metallic banana to use as a hammer, inspired by the fact that bananas can become hard like a hammer at minus 40 degrees Celsius." title="A Japanese company created a metallic banana to use as a hammer, inspired by the fact that bananas can become hard like a hammer at minus 40 degrees Celsius." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kogemai"> /u/kogemai </a> <br/> <span><a href="https://i.redd.it/3bisg5diaule1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j03370/a_japanese_company_created_a_metallic_banana_to/">[comments]</a></span> </td></tr></table>
+
+## Weird Mail
+ - [https://www.reddit.com/r/Weird/comments/1j02mjr/weird_mail](https://www.reddit.com/r/Weird/comments/1j02mjr/weird_mail)
+ - RSS feed: $source
+ - date published: 2025-02-28T07:55:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j02mjr/weird_mail/"> <img src="https://preview.redd.it/8956tss26ule1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1af5ebfffd1351da1c28d95e2c68a6beadfec306" alt="Weird Mail" title="Weird Mail" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>What is this? Received in the mail today. Nothing else in the envelope besides what’s pictured. No return address.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dekemyster"> /u/Dekemyster </a> <br/> <span><a href="https://i.redd.it/8956tss26ule1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j02mjr/weird_mail/">[comments]</a></span> </td></tr></table>
+
+## Ladybug or Cat’s Eye???
+ - [https://www.reddit.com/r/Weird/comments/1j0049q/ladybug_or_cats_eye](https://www.reddit.com/r/Weird/comments/1j0049q/ladybug_or_cats_eye)
+ - RSS feed: $source
+ - date published: 2025-02-28T05:06:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j0049q/ladybug_or_cats_eye/"> <img src="https://preview.redd.it/ub5lpsatbtle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8d9b8a5b3ffd8913f1f4137f243ab80a9e1d622" alt="Ladybug or Cat’s Eye???" title="Ladybug or Cat’s Eye???" /> </a> </td><td> <!-- SC_OFF --><div class="md"></div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Few-Department2396"> /u/Few-Department2396 </a> <br/> <span><a href="https://i.redd.it/ub5lpsatbtle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j0049q/ladybug_or_cats_eye/">[comments]</a></span> </td></tr></table>
+
+## What are these multi-million dollar companies smoking
+ - [https://www.reddit.com/r/Weird/comments/1izzp8p/what_are_these_multimillion_dollar_companies](https://www.reddit.com/r/Weird/comments/1izzp8p/what_are_these_multimillion_dollar_companies)
+ - RSS feed: $source
+ - date published: 2025-02-28T04:41:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1izzp8p/what_are_these_multimillion_dollar_companies/"> <img src="https://b.thumbs.redditmedia.com/DCE_QJaMa_hujOqZBBwSxZif7CqxRfWhsQe8tTXlR0o.jpg" alt="What are these multi-million dollar companies smoking" title="What are these multi-million dollar companies smoking" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/burgersinhaler"> /u/burgersinhaler </a> <br/> <span><a href="https://www.reddit.com/gallery/1izzp8p">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1izzp8p/what_are_these_multimillion_dollar_companies/">[comments]</a></span> </td></tr></table>
+
+## These orange ladybugs are showing up in my bathroom.
+ - [https://www.reddit.com/r/Weird/comments/1izy23x/these_orange_ladybugs_are_showing_up_in_my](https://www.reddit.com/r/Weird/comments/1izy23x/these_orange_ladybugs_are_showing_up_in_my)
+ - RSS feed: $source
+ - date published: 2025-02-28T03:09:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1izy23x/these_orange_ladybugs_are_showing_up_in_my/"> <img src="https://preview.redd.it/buyzyonwqsle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5f6de71700a7caf30c650c3fffcd8bbb4b2f83af" alt="These orange ladybugs are showing up in my bathroom." title="These orange ladybugs are showing up in my bathroom." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I saw one the other day and assumed it just flew in through an open window at some point, but I found three of them in the shower just now. Any clue why they are suddenly showing up? (And I’m assuming they are coming in through the drains.)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RoscoeSF"> /u/RoscoeSF </a> <br/> <span><a href="https://i.redd.it/buyzyonwqsle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1izy23x/these_orange_ladybugs_are_showing_up_in_my/">[comments]</a></spa
+
+## When I lived in Africa this is what their baby dolls looked like.😭💀
+ - [https://www.reddit.com/r/Weird/comments/1izxzh0/when_i_lived_in_africa_this_is_what_their_baby](https://www.reddit.com/r/Weird/comments/1izxzh0/when_i_lived_in_africa_this_is_what_their_baby)
+ - RSS feed: $source
+ - date published: 2025-02-28T03:05:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1izxzh0/when_i_lived_in_africa_this_is_what_their_baby/"> <img src="https://preview.redd.it/a1c8cen7qsle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c82b872a5ba184d2df89de213174043a1ab4b617" alt="When I lived in Africa this is what their baby dolls looked like.😭💀" title="When I lived in Africa this is what their baby dolls looked like.😭💀" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GirlOfSolitude"> /u/GirlOfSolitude </a> <br/> <span><a href="https://i.redd.it/a1c8cen7qsle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1izxzh0/when_i_lived_in_africa_this_is_what_their_baby/">[comments]</a></span> </td></tr></table>
+
+## My best friend gave me these after I helped him move out of the country last year. It’s the coolest thing anyone has ever given me. No he wasn’t fleeing the law just fleeing the politics, lucky SOB.
+ - [https://www.reddit.com/r/Weird/comments/1izwm4c/my_best_friend_gave_me_these_after_i_helped_him](https://www.reddit.com/r/Weird/comments/1izwm4c/my_best_friend_gave_me_these_after_i_helped_him)
+ - RSS feed: $source
+ - date published: 2025-02-28T01:52:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1izwm4c/my_best_friend_gave_me_these_after_i_helped_him/"> <img src="https://preview.redd.it/nbr2ncw8dsle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6acd6c3d97a09c0002c11ec99b8a85caeea31e15" alt="My best friend gave me these after I helped him move out of the country last year. It’s the coolest thing anyone has ever given me. No he wasn’t fleeing the law just fleeing the politics, lucky SOB." title="My best friend gave me these after I helped him move out of the country last year. It’s the coolest thing anyone has ever given me. No he wasn’t fleeing the law just fleeing the politics, lucky SOB." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Indy-Skis"> /u/Indy-Skis </a> <br/> <span><a href="https://i.redd.it/nbr2ncw8dsle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1izwm4c/my_best_friend_gave_me_these_after_i_helped_him/">[comments]</a><
+
+## Strange photo
+ - [https://www.reddit.com/r/Weird/comments/1izvqfo/strange_photo](https://www.reddit.com/r/Weird/comments/1izvqfo/strange_photo)
+ - RSS feed: $source
+ - date published: 2025-02-28T01:06:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1izvqfo/strange_photo/"> <img src="https://preview.redd.it/5hy8kp245sle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=36f5c575b01f54de4ab1ce282ae3ff380deff48e" alt="Strange photo" title="Strange photo" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>What do you see when you look at this photo?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ParticularProof7710"> /u/ParticularProof7710 </a> <br/> <span><a href="https://i.redd.it/5hy8kp245sle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1izvqfo/strange_photo/">[comments]</a></span> </td></tr></table>
+
+## It’s so weird that Trump is a different shade of orange everyday…
+ - [https://www.reddit.com/r/Weird/comments/1izvoje/its_so_weird_that_trump_is_a_different_shade_of](https://www.reddit.com/r/Weird/comments/1izvoje/its_so_weird_that_trump_is_a_different_shade_of)
+ - RSS feed: $source
+ - date published: 2025-02-28T01:04:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1izvoje/its_so_weird_that_trump_is_a_different_shade_of/"> <img src="https://preview.redd.it/d9kg695m4sle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=36734ec0ff524de0460a02ffe3377b6d05ef4632" alt="It’s so weird that Trump is a different shade of orange everyday…" title="It’s so weird that Trump is a different shade of orange everyday…" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/N4TETHAGR8"> /u/N4TETHAGR8 </a> <br/> <span><a href="https://i.redd.it/d9kg695m4sle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1izvoje/its_so_weird_that_trump_is_a_different_shade_of/">[comments]</a></span> </td></tr></table>
+
+## Run and pounce. Get those heavenly mice, endless scritches and rivers of flowing cream. I’ll catch up to you eventually.
+ - [https://www.reddit.com/r/Weird/comments/1izvod9/run_and_pounce_get_those_heavenly_mice_endless](https://www.reddit.com/r/Weird/comments/1izvod9/run_and_pounce_get_those_heavenly_mice_endless)
+ - RSS feed: $source
+ - date published: 2025-02-28T01:03:54+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Indy-Skis"> /u/Indy-Skis </a> <br/> <span><a href="https://i.redd.it/4e8qtsyk4sle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1izvod9/run_and_pounce_get_those_heavenly_mice_endless/">[comments]</a></span>
+
+## Thought I had a spot ...NOPE
+ - [https://www.reddit.com/r/Weird/comments/1izvmn3/thought_i_had_a_spot_nope](https://www.reddit.com/r/Weird/comments/1izvmn3/thought_i_had_a_spot_nope)
+ - RSS feed: $source
+ - date published: 2025-02-28T01:01:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1izvmn3/thought_i_had_a_spot_nope/"> <img src="https://preview.redd.it/xq665pf44sle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce67939a901c2973220ed609819d7a21018fc5da" alt="Thought I had a spot ...NOPE" title="Thought I had a spot ...NOPE" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HR-Vex"> /u/HR-Vex </a> <br/> <span><a href="https://i.redd.it/xq665pf44sle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1izvmn3/thought_i_had_a_spot_nope/">[comments]</a></span> </td></tr></table>
+
+## Fake postage stamps?
+ - [https://www.reddit.com/r/Weird/comments/1izvh1c/fake_postage_stamps](https://www.reddit.com/r/Weird/comments/1izvh1c/fake_postage_stamps)
+ - RSS feed: $source
+ - date published: 2025-02-28T00:53:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1izvh1c/fake_postage_stamps/"> <img src="https://b.thumbs.redditmedia.com/JYAC64nrkmIhvYzkg88OtjgGsdaRfPRkAjk16L01vOw.jpg" alt="Fake postage stamps?" title="Fake postage stamps?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I got mail today and apparently the stamps are fake but I still got my mail? I have never seen this before so I thought I&#39;d share. Who do they expect to pay that $4.60 it won&#39;t be me haha</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tatted69Britt"> /u/Tatted69Britt </a> <br/> <span><a href="https://www.reddit.com/gallery/1izvh1c">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1izvh1c/fake_postage_stamps/">[comments]</a></span> </td></tr></table>
+
+## What in the heck is this?! I took a picture of it and it disappeared
+ - [https://www.reddit.com/r/Weird/comments/1izv9wd/what_in_the_heck_is_this_i_took_a_picture_of_it](https://www.reddit.com/r/Weird/comments/1izv9wd/what_in_the_heck_is_this_i_took_a_picture_of_it)
+ - RSS feed: $source
+ - date published: 2025-02-28T00:43:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1izv9wd/what_in_the_heck_is_this_i_took_a_picture_of_it/"> <img src="https://preview.redd.it/sabjsgmy0sle1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f716c37851bc427d2389912f5cc4bf16060ab40" alt="What in the heck is this?! I took a picture of it and it disappeared" title="What in the heck is this?! I took a picture of it and it disappeared" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nighachump"> /u/nighachump </a> <br/> <span><a href="https://i.redd.it/sabjsgmy0sle1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1izv9wd/what_in_the_heck_is_this_i_took_a_picture_of_it/">[comments]</a></span> </td></tr></table>
+
+## Set Condition: Rock
+ - [https://www.reddit.com/r/Weird/comments/1izus43/set_condition_rock](https://www.reddit.com/r/Weird/comments/1izus43/set_condition_rock)
+ - RSS feed: $source
+ - date published: 2025-02-28T00:19:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1izus43/set_condition_rock/"> <img src="https://external-preview.redd.it/_Tg4bcU0GUQNU-yr_5vJx02mL_gkuchbT-vdqlq03u8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f89bc83f6d6b02346ed9430d6f81adb2a3f8f406" alt="Set Condition: Rock" title="Set Condition: Rock" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>That time Cher woke up a bunch of sailors and performed on a real historic battleship in an active Navy shipyard.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SirCatsworthTheThird"> /u/SirCatsworthTheThird </a> <br/> <span><a href="https://medium.com/@chrismanam/set-condition-rock-a24be276d703">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1izus43/set_condition_rock/">[comments]</a></span> </td></tr></table>
+

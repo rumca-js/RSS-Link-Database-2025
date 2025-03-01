@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-28T11:00:07+00:00",
+        "description": "Learn more about artificial intelligence \u2192 https://ibm.biz/BdG9WD\n\nGranite 3.2 is officially here! In episode 44 of Mixture of Experts, host Tim Hwang is joined by Kate Soule, Maya Murad and Kaoutar El Maghraoui to debrief a few big AI announcements. Last week we covered small vision-language models (VLMs), and this week Granite 3.2 dropped with  new VLMs, enhanced reasoning capabilities, and more! Kate takes us under the hood to understand the new features and how they were created. Next, Anthropic dropped a new intelligence model, Claude 3.7 Sonnet, and a new agentic coding tool, Claude Code. Why did Anthropic release these separately? Then, as we cannot have an episode without covering agents, Maya takes us through the new BeeAI agents! Finally, can fine tuning on a malicious task lead to much broader misalignment? Our experts analyze a new paper released on \u2018Emergent misalignment.\u2019 All that and more on this week's episode! \n\n00:00 \u2013 Intro  \n00:35 \u2013 Claude 3.7 Sonnet \n11:58 \u2013 BeeA",
+        "id": 2216610,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=561dyCTvGlQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/561dyCTvGlQ/hqdefault.jpg",
+        "title": "Claude 3.7 Sonnet, BeeAI agents, Granite 3.2, and emergent misalignment",
+        "vote": 0
+    }
+]

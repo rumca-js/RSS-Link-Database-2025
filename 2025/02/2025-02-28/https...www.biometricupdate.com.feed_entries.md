@@ -1,0 +1,118 @@
+# Source:Biometric Update, URL:https://www.biometricupdate.com/feed, language:en-US
+
+## EU-funded cross-border digital identity engine from deverium launches at MWC
+ - [https://www.biometricupdate.com/202502/eu-funded-cross-border-digital-identity-engine-from-deverium-launches-at-mwc](https://www.biometricupdate.com/202502/eu-funded-cross-border-digital-identity-engine-from-deverium-launches-at-mwc)
+ - RSS feed: $source
+ - date published: 2025-02-28T22:14:39+00:00
+
+<img width="2048" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/20141423/iphone-selfie-biometrics-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/20141423/iphone-selfie-biometrics-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/20141423/iphone-selfie-biometrics-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/20141423/iphone-selfie-biometrics-1024x683.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/20141423/iphone-selfie-biometrics-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/20141423/iphone-selfie-biometrics-768x512.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/20141423/iphone-selfie-biometrics-1536x1024.jpg 1536w" sizes="(max-width: 204
+
+## Align digital ID laws and infrastructure for cross-border interoperability: EU4Digital
+ - [https://www.biometricupdate.com/202502/align-digital-id-laws-and-infrastructure-for-cross-border-interoperability-eu4digital](https://www.biometricupdate.com/202502/align-digital-id-laws-and-infrastructure-for-cross-border-interoperability-eu4digital)
+ - RSS feed: $source
+ - date published: 2025-02-28T21:52:38+00:00
+
+<img width="2048" height="1152" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/28165402/eu-digital-policy-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/28165402/eu-digital-policy-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/28165402/eu-digital-policy-300x169.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/28165402/eu-digital-policy-1024x576.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/28165402/eu-digital-policy-150x84.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/28165402/eu-digital-policy-768x432.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/28165402/eu-digital-policy-1536x864.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
+		Countries in the European Union’s Eastern Partn
+
+## Fraud accompli: synthetic identities, injection attacks change security landscape
+ - [https://www.biometricupdate.com/202502/fraud-accompli-synthetic-identities-injection-attacks-change-security-landscape](https://www.biometricupdate.com/202502/fraud-accompli-synthetic-identities-injection-attacks-change-security-landscape)
+ - RSS feed: $source
+ - date published: 2025-02-28T21:22:20+00:00
+
+<img width="2048" height="1366" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/10141537/injection-attack-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/10141537/injection-attack-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/10141537/injection-attack-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/10141537/injection-attack-1024x683.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/10141537/injection-attack-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/10141537/injection-attack-768x512.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/10141537/injection-attack-1536x1025.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
+		The annual <a href="https://www.iproov.com/reports/t
+
+## The race for PKC is on with quantum chip launches by AWS, Microsoft
+ - [https://www.biometricupdate.com/202502/the-race-for-pkc-is-on-with-quantum-chip-launches-by-aws-microsoft](https://www.biometricupdate.com/202502/the-race-for-pkc-is-on-with-quantum-chip-launches-by-aws-microsoft)
+ - RSS feed: $source
+ - date published: 2025-02-28T20:54:53+00:00
+
+<img width="2048" height="1161" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28155046/Amazon-Web-Services-Ocelot-quantum-computing-chip.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28155046/Amazon-Web-Services-Ocelot-quantum-computing-chip.png 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28155046/Amazon-Web-Services-Ocelot-quantum-computing-chip-300x170.png 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28155046/Amazon-Web-Services-Ocelot-quantum-computing-chip-1024x581.png 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28155046/Amazon-Web-Services-Ocelot-quantum-computing-chip-150x85.png 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28155046/Amazon-Web-Services-Ocelot-quantum-computing-chip-768x435.png 768w, https:/
+
+## Privado ID’s Billions Network takes on World
+ - [https://www.biometricupdate.com/202502/privado-ids-billions-network-takes-on-world](https://www.biometricupdate.com/202502/privado-ids-billions-network-takes-on-world)
+ - RSS feed: $source
+ - date published: 2025-02-28T20:38:40+00:00
+
+<img width="1600" height="900" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28153716/Biillions_The-Human-and-Ai-Network.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28153716/Biillions_The-Human-and-Ai-Network.png 1600w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28153716/Biillions_The-Human-and-Ai-Network-300x169.png 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28153716/Biillions_The-Human-and-Ai-Network-1024x576.png 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28153716/Biillions_The-Human-and-Ai-Network-150x84.png 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28153716/Biillions_The-Human-and-Ai-Network-768x432.png 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28153716/Biillions_The-Human-and-Ai-Network-1536x864.p
+
+## Veridas joins WE BUILD as Indicio, Vidos pitch EUDI Wallet business benefits
+ - [https://www.biometricupdate.com/202502/veridas-joins-we-build-as-indicio-vidos-pitch-eudi-wallet-business-benefits](https://www.biometricupdate.com/202502/veridas-joins-we-build-as-indicio-vidos-pitch-eudi-wallet-business-benefits)
+ - RSS feed: $source
+ - date published: 2025-02-28T19:02:11+00:00
+
+<img width="2048" height="1152" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-300x169.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-1024x576.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-150x84.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-768x432.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-1536x864.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
+		<a href="https://www.biometricupdate.com/companies/veridas">Veridas<
+
+## Apple volleys age verification question back to sites and apps
+ - [https://www.biometricupdate.com/202502/apple-volleys-age-verification-question-back-to-sites-and-apps](https://www.biometricupdate.com/202502/apple-volleys-age-verification-question-back-to-sites-and-apps)
+ - RSS feed: $source
+ - date published: 2025-02-28T18:57:07+00:00
+
+<img width="2048" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28133623/teen-apple-ipad-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28133623/teen-apple-ipad-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28133623/teen-apple-ipad-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28133623/teen-apple-ipad-1024x683.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28133623/teen-apple-ipad-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28133623/teen-apple-ipad-768x512.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/28133623/teen-apple-ipad-1536x1024.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
+		Apple has released a <a href="https://
+
+## US banks must prepare for FIFA World Cup fraud surge: Entersekt
+ - [https://www.biometricupdate.com/202502/us-banks-must-prepare-for-fifa-world-cup-fraud-surge-entersekt](https://www.biometricupdate.com/202502/us-banks-must-prepare-for-fifa-world-cup-fraud-surge-entersekt)
+ - RSS feed: $source
+ - date published: 2025-02-28T18:05:47+00:00
+
+<img width="938" height="580" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/20111418/online-shopping-biometric-authetication.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="online shopping biometric authetication" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/20111418/online-shopping-biometric-authetication.jpg 938w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/20111418/online-shopping-biometric-authetication-150x93.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/20111418/online-shopping-biometric-authetication-300x186.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/20111418/online-shopping-biometric-authetication-768x475.jpg 768w" sizes="(max-width: 938px) 100vw, 938px" />
+		Ahead of an anticipated fraud surge during the biggest sporting event of 2026 in North America, Entersekt warns U.S. banks must upgrade their
+
+## 1Kosmos integration with Microsoft follows year of ‘record-breaking growth’
+ - [https://www.biometricupdate.com/202502/1kosmos-integration-with-microsoft-follows-year-of-record-breaking-growth](https://www.biometricupdate.com/202502/1kosmos-integration-with-microsoft-follows-year-of-record-breaking-growth)
+ - RSS feed: $source
+ - date published: 2025-02-28T17:55:03+00:00
+
+<img width="2048" height="1298" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-300x190.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-1024x649.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-150x95.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-768x487.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/15111831/selfie-login-authentication-IDV-1
+
+## India opens up Aadhaar face biometric authentication to private sector
+ - [https://www.biometricupdate.com/202502/india-opens-up-aadhaar-face-biometric-authentication-to-private-sector](https://www.biometricupdate.com/202502/india-opens-up-aadhaar-face-biometric-authentication-to-private-sector)
+ - RSS feed: $source
+ - date published: 2025-02-28T16:33:36+00:00
+
+<img width="1200" height="900" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/21110527/passive-biometric-liveness.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="passive biometric liveness" decoding="async" loading="lazy" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/21110527/passive-biometric-liveness.jpg 1200w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/21110527/passive-biometric-liveness-300x225.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/21110527/passive-biometric-liveness-1024x768.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/21110527/passive-biometric-liveness-150x113.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/21110527/passive-biometric-liveness-768x576.jpg 768w" sizes="auto, (max-width: 1200px) 100vw, 1200px" />
+		India is opening up Aadhaar-backed face biometric authentication to priv
+
+## Digital IDs gain momentum as state laws take effect; legislation is advanced
+ - [https://www.biometricupdate.com/202502/digital-ids-gain-momentum-as-state-laws-take-effect-legislation-is-advanced](https://www.biometricupdate.com/202502/digital-ids-gain-momentum-as-state-laws-take-effect-legislation-is-advanced)
+ - RSS feed: $source
+ - date published: 2025-02-28T09:07:08+00:00
+
+<img width="1138" height="610" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/08/19124009/NY-MID.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/08/19124009/NY-MID.png 1138w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/08/19124009/NY-MID-300x161.png 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/08/19124009/NY-MID-1024x549.png 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/08/19124009/NY-MID-150x80.png 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/08/19124009/NY-MID-768x412.png 768w" sizes="(max-width: 1138px) 100vw, 1138px" />
+		A significant shift toward the implementation of digital IDs is taking place in the U.S. this this year as new laws take effect and more and more states introduce legislation and policies to enhance security and streaml
+
+## DPI transforms healthcare delivery, payroll management in Nigeria’s Niger State
+ - [https://www.biometricupdate.com/202502/dpi-transforms-healthcare-delivery-payroll-management-in-nigerias-niger-state](https://www.biometricupdate.com/202502/dpi-transforms-healthcare-delivery-payroll-management-in-nigerias-niger-state)
+ - RSS feed: $source
+ - date published: 2025-02-28T08:14:18+00:00
+
+<img width="1024" height="576" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/09132422/BVAS-Nigeria.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/09132422/BVAS-Nigeria.jpeg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/09132422/BVAS-Nigeria-300x169.jpeg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/09132422/BVAS-Nigeria-150x84.jpeg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/03/09132422/BVAS-Nigeria-768x432.jpeg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
+		The introduction of a health card linked to the national digital ID is helping to streamline the management of patient information in the Nigerian State of Niger.
+
+The system is part of an ongoing process by the State government to put in place digital public infrastructure (DPI) needed to digitize health
+
+## Digital ID eases patient information management in Northern Ireland
+ - [https://www.biometricupdate.com/202502/digital-id-eases-patient-information-management-in-northern-ireland](https://www.biometricupdate.com/202502/digital-id-eases-patient-information-management-in-northern-ireland)
+ - RSS feed: $source
+ - date published: 2025-02-28T07:08:26+00:00
+
+<img width="2048" height="1367" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/19172639/patient-digital-identity-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/19172639/patient-digital-identity-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/19172639/patient-digital-identity-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/19172639/patient-digital-identity-1024x684.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/19172639/patient-digital-identity-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/19172639/patient-digital-identity-768x513.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/19172639/patient-digital-identity-1536x1025.jpg 1536w" sizes="(max-width: 204
+
+## Facial age estimation winning UK retailers’ support
+ - [https://www.biometricupdate.com/202502/facial-age-estimation-winning-uk-retailers-support](https://www.biometricupdate.com/202502/facial-age-estimation-winning-uk-retailers-support)
+ - RSS feed: $source
+ - date published: 2025-02-28T01:05:28+00:00
+
+<img width="2048" height="1101" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/04133742/mycheckr-mini-ITL.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/04133742/mycheckr-mini-ITL.png 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/04133742/mycheckr-mini-ITL-300x161.png 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/04133742/mycheckr-mini-ITL-1024x550.png 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/04133742/mycheckr-mini-ITL-150x81.png 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/04133742/mycheckr-mini-ITL-768x413.png 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/04133742/mycheckr-mini-ITL-1536x826.png 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
+		In-person age checks are a fraught process, as anyone who has
+
+## Social media platforms could keep more Australian kids off if they actually tried
+ - [https://www.biometricupdate.com/202502/social-media-platforms-could-keep-more-australian-kids-off-if-they-actually-tried](https://www.biometricupdate.com/202502/social-media-platforms-could-keep-more-australian-kids-off-if-they-actually-tried)
+ - RSS feed: $source
+ - date published: 2025-02-28T00:16:35+00:00
+
+<img width="2048" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/18152138/children-social-media-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/18152138/children-social-media-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/18152138/children-social-media-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/18152138/children-social-media-1024x683.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/18152138/children-social-media-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/18152138/children-social-media-768x512.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/09/18152138/children-social-media-1536x1024.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048px" /
+

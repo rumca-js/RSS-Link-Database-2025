@@ -1,0 +1,331 @@
+# Source:Virtual Reality, URL:https://www.reddit.com/r/virtualreality/.rss, language:en
+
+## It's Friday My Dudes
+ - [https://www.reddit.com/r/virtualreality/comments/1j0lcz8/its_friday_my_dudes](https://www.reddit.com/r/virtualreality/comments/1j0lcz8/its_friday_my_dudes)
+ - RSS feed: $source
+ - date published: 2025-02-28T23:21:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1j0lcz8/its_friday_my_dudes/"> <img src="https://b.thumbs.redditmedia.com/nNzKFCct63DFU3Y6x89cMnpj94fF3Xz-Nlg58gQ7uns.jpg" alt="It's Friday My Dudes" title="It's Friday My Dudes" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I believe a lot of you will be taking a short break after Friday</p> <p>Anyone interested in sharing what they will be doing/ playing in VR? What is your &quot;yes, this is my Friday jam&quot;?</p> <p><a href="https://preview.redd.it/nsvupx76qyle1.jpg?width=768&amp;format=pjpg&amp;auto=webp&amp;s=33ef1b62d65b8e88147d14aea8d44e5121b23905">An meme about an exited dog. The top text says \&quot;OMG\&quot; six times and the bottom text says \&quot;It&#39;s Finally Friday\&quot;</a></p> <p>With that being said, have a nice reality!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/XRGameCapsule"> /u/XRGameCapsule </a> <br/> <span><a href="https://www.re
+
+## Why my weapons always stuck if i do action ( PCVR )
+ - [https://www.reddit.com/r/virtualreality/comments/1j0kudi/why_my_weapons_always_stuck_if_i_do_action_pcvr](https://www.reddit.com/r/virtualreality/comments/1j0kudi/why_my_weapons_always_stuck_if_i_do_action_pcvr)
+ - RSS feed: $source
+ - date published: 2025-02-28T22:58:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>sorry for the nivdia panels shows up because its too late and im tired to make other one </p> <p>if you didnt understand from the clip </p> <p><strong>i played, half life alyx , itr2 and lot of games , if a do acton like fight NPC with sowrd or shot a gun both hands or one hands its freeze for 3 sec and back again its so so so annoying please give me a awnser</strong></p> <p><a href="https://reddit.com/link/1j0kudi/video/pos08meomyle1/player">https://reddit.com/link/1j0kudi/video/pos08meomyle1/player</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Unlikely-Life9848"> /u/Unlikely-Life9848 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0kudi/why_my_weapons_always_stuck_if_i_do_action_pcvr/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0kudi/why_my_weapons_always_stuck_if_i_do_action_pcvr/">[comments]</a></span>
+
+## First VR Headset
+ - [https://www.reddit.com/r/virtualreality/comments/1j0k6w3/first_vr_headset](https://www.reddit.com/r/virtualreality/comments/1j0k6w3/first_vr_headset)
+ - RSS feed: $source
+ - date published: 2025-02-28T22:29:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey so im looking to get my first vr headset for sim racing, im thinking mostly about the lenovo explorer or the Rift ,where i live they go for around 100usd Also yes i wanted to get a quest but it’s too expensive for me right now (Quest 2 is around 200usd +) Do you think I should go for the lenovo or the rift to try it out or save up for a quest and buy it later?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VarietyBig"> /u/VarietyBig </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0k6w3/first_vr_headset/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0k6w3/first_vr_headset/">[comments]</a></span>
+
+## GRAVEYARD SIEGE || Voxel Project VR
+ - [https://www.reddit.com/r/virtualreality/comments/1j0jvxh/graveyard_siege_voxel_project_vr](https://www.reddit.com/r/virtualreality/comments/1j0jvxh/graveyard_siege_voxel_project_vr)
+ - RSS feed: $source
+ - date published: 2025-02-28T22:15:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1j0jvxh/graveyard_siege_voxel_project_vr/"> <img src="https://external-preview.redd.it/re6E4T_hDHveSWXLlVNvTKRAar6gY9DCN_M1WCd4L50.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7bb3790b8671dadeaea031de97a495cf7ac202ef" alt="GRAVEYARD SIEGE || Voxel Project VR" title="GRAVEYARD SIEGE || Voxel Project VR" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This game caught me by surprise, it&#39;s great if you enjoy VR sandbox games!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ThisKory"> /u/ThisKory </a> <br/> <span><a href="https://youtu.be/84wzWrQ0YpQ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0jvxh/graveyard_siege_voxel_project_vr/">[comments]</a></span> </td></tr></table>
+
+## Read dead 1
+ - [https://www.reddit.com/r/virtualreality/comments/1j0jgcz/read_dead_1](https://www.reddit.com/r/virtualreality/comments/1j0jgcz/read_dead_1)
+ - RSS feed: $source
+ - date published: 2025-02-28T21:56:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>With red dead one being on pc, has anyone been able to get it working with vorpx</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Advanced_Warthog2108"> /u/Advanced_Warthog2108 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0jgcz/read_dead_1/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0jgcz/read_dead_1/">[comments]</a></span>
+
+## Found a solution for powering desktop HI-FI headphones.
+ - [https://www.reddit.com/r/virtualreality/comments/1j0ifks/found_a_solution_for_powering_desktop_hifi](https://www.reddit.com/r/virtualreality/comments/1j0ifks/found_a_solution_for_powering_desktop_hifi)
+ - RSS feed: $source
+ - date published: 2025-02-28T21:10:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>Found an answer to powering desktop Hi-Fi headphones on any VR headset with type c</p> <p>get yourself a USB-C splitter cable that can handle both data transfer and power delivery and if necessary a 90-degree type C adapter. (you&#39;ll probably need this one too trust me)</p> <p>I&#39;ve tried IFI dongles both the original one and the newer one. I still have two of the old ones because of reasons and they are good at what they do but they lack power and they can&#39;t handle balanced. The new one has balanced but the power output is not as good and it has way more power draw. wtf ifi? </p> <p>My desktop amp/dac situation is as follows: Topping DAC E30 / Topping L30 II and IFI Signature DAC V2 / Signature AMP HFM ?? balanced all the way.</p> <p>I&#39;m still confused every time when I plug it in the Topping, it might just sound better but I keep telling myself it&#39;s not the case... lmao. anyway lets continue.</p> <p>iBasso DC07PRO, it has a volume
+
+## Dev: A $10 million budgeted VR game has to sell 416K copies to break even
+ - [https://www.reddit.com/r/virtualreality/comments/1j0hyzi/dev_a_10_million_budgeted_vr_game_has_to_sell](https://www.reddit.com/r/virtualreality/comments/1j0hyzi/dev_a_10_million_budgeted_vr_game_has_to_sell)
+ - RSS feed: $source
+ - date published: 2025-02-28T20:51:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Very interesting info here, from a developer on Boneworks. The gist is a VR game with a $10 million budget has to sell 416K copies at $40 just to break even, and they say very few games are acheiving that.</p> <p>It&#39;s a good window into the economics of making AAA VR games right now. (Also, a $10 million budget isn&#39;t that high in the game biz, I bet Behemoth, Batman, Alien Rogue all cost more than that.)</p> <p>Article:<br/> <a href="https://www.uploadvr.com/stress-level-zero-why-studios-dont-just-target-pc-vr/">https://www.uploadvr.com/stress-level-zero-why-studios-dont-just-target-pc-vr/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mangotango781"> /u/mangotango781 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0hyzi/dev_a_10_million_budgeted_vr_game_has_to_sell/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0hyzi/dev_a_10
+
+## How do you "jailbreak" a Meta Quest 3, by the way?
+ - [https://www.reddit.com/r/virtualreality/comments/1j0hjnw/how_do_you_jailbreak_a_meta_quest_3_by_the_way](https://www.reddit.com/r/virtualreality/comments/1j0hjnw/how_do_you_jailbreak_a_meta_quest_3_by_the_way)
+ - RSS feed: $source
+ - date published: 2025-02-28T20:32:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Asking for a friend</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Josh_From_Accounting"> /u/Josh_From_Accounting </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0hjnw/how_do_you_jailbreak_a_meta_quest_3_by_the_way/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0hjnw/how_do_you_jailbreak_a_meta_quest_3_by_the_way/">[comments]</a></span>
+
+## Looking for games!
+ - [https://www.reddit.com/r/virtualreality/comments/1j0g1je/looking_for_games](https://www.reddit.com/r/virtualreality/comments/1j0g1je/looking_for_games)
+ - RSS feed: $source
+ - date published: 2025-02-28T19:28:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>I really enjoy games such as H3VR, Half Life Alyx and some more on PCVR though I&#39;m looking for games similar on quest. I love the realism of H3VR, customisability of weapons and practically the same in HL Alyx. Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wh002h"> /u/Wh002h </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0g1je/looking_for_games/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0g1je/looking_for_games/">[comments]</a></span>
+
+## Death Horizon: Cyberfusion | New Cyberimplants Update | Meta Quest Store + Steam VR
+ - [https://www.reddit.com/r/virtualreality/comments/1j0frcq/death_horizon_cyberfusion_new_cyberimplants](https://www.reddit.com/r/virtualreality/comments/1j0frcq/death_horizon_cyberfusion_new_cyberimplants)
+ - RSS feed: $source
+ - date published: 2025-02-28T19:16:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1j0frcq/death_horizon_cyberfusion_new_cyberimplants/"> <img src="https://external-preview.redd.it/dGJqcTFwaGFqeGxlMfGD8KbwIjBfzVlMQKhpML_q1qNXo5N6GLNOfjIC_yNp.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e7a61a5c36524e93330445431a8ab46e5c6c6d8" alt="Death Horizon: Cyberfusion | New Cyberimplants Update | Meta Quest Store + Steam VR" title="Death Horizon: Cyberfusion | New Cyberimplants Update | Meta Quest Store + Steam VR" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DeathHorizonVR"> /u/DeathHorizonVR </a> <br/> <span><a href="https://v.redd.it/fb9kjohajxle1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0frcq/death_horizon_cyberfusion_new_cyberimplants/">[comments]</a></span> </td></tr></table>
+
+## guys so for the resident evil village vr mod by praydogg i run it it works but the controllers dont work any button dosent work pls help
+ - [https://www.reddit.com/r/virtualreality/comments/1j0fl5h/guys_so_for_the_resident_evil_village_vr_mod_by](https://www.reddit.com/r/virtualreality/comments/1j0fl5h/guys_so_for_the_resident_evil_village_vr_mod_by)
+ - RSS feed: $source
+ - date published: 2025-02-28T19:09:08+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/UsualInstruction5210"> /u/UsualInstruction5210 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0fl5h/guys_so_for_the_resident_evil_village_vr_mod_by/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0fl5h/guys_so_for_the_resident_evil_village_vr_mod_by/">[comments]</a></span>
+
+## Weekly VR - What Did you Play?
+ - [https://www.reddit.com/r/virtualreality/comments/1j0fegu/weekly_vr_what_did_you_play](https://www.reddit.com/r/virtualreality/comments/1j0fegu/weekly_vr_what_did_you_play)
+ - RSS feed: $source
+ - date published: 2025-02-28T19:01:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey <a href="/r/virtualreality">r/virtualreality</a>!</p> <p>Another week in the VR space.</p> <p>Did a certain game or experience stand out to you? This is your spot to chat, share, and discover.</p> <p>When sharing, you might consider sharing:</p> <p><strong>Name</strong> of the game or experience.</p> <p>A brief <strong>insight</strong> or <strong>overview</strong>.</p> <p>Your <strong>personal rating</strong> and a bit about why.</p> <p><em>Example</em>: I got hooked on [Game Name]. It offers [Brief Description], and I&#39;ve been having a blast! Rating it 8/10 mainly because [Reason].</p> <p>So, what&#39;s been captivating you or challenging you in the VR world lately?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0fegu/weekly_vr_what_did_you_play/">[link]</a></span> &#32; <span><a href="https://w
+
+## Batman: Arkham Shadow Interview with Ryan Payton - Ruff Talk VR
+ - [https://www.reddit.com/r/virtualreality/comments/1j0e1nh/batman_arkham_shadow_interview_with_ryan_payton](https://www.reddit.com/r/virtualreality/comments/1j0e1nh/batman_arkham_shadow_interview_with_ryan_payton)
+ - RSS feed: $source
+ - date published: 2025-02-28T18:03:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1j0e1nh/batman_arkham_shadow_interview_with_ryan_payton/"> <img src="https://external-preview.redd.it/OAZi_LivrKMu_AYzvD4OLRlqueps3xjTTcFbNVj8KYM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=18b916b5d438fa01cf8232afa3dd632f5c5a232d" alt="Batman: Arkham Shadow Interview with Ryan Payton - Ruff Talk VR" title="Batman: Arkham Shadow Interview with Ryan Payton - Ruff Talk VR" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RuffTalkVR"> /u/RuffTalkVR </a> <br/> <span><a href="https://youtu.be/Fwa_Az6gLvw?si=2TP34k1kDNHfyMRb">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0e1nh/batman_arkham_shadow_interview_with_ryan_payton/">[comments]</a></span> </td></tr></table>
+
+## Bat + Mine = Batmine
+ - [https://www.reddit.com/r/virtualreality/comments/1j0dauq/bat_mine_batmine](https://www.reddit.com/r/virtualreality/comments/1j0dauq/bat_mine_batmine)
+ - RSS feed: $source
+ - date published: 2025-02-28T17:32:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1j0dauq/bat_mine_batmine/"> <img src="https://external-preview.redd.it/M2ltMHY5OHYweGxlMWNXwf4Q3GtSlOuT22VSJHSSURbdmelVr02RdBkKM5Yx.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=66ad1217df9c7968e1ed94d5abbdf4cda32aaeeb" alt="Bat + Mine = Batmine" title="Bat + Mine = Batmine" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GexagonVR"> /u/GexagonVR </a> <br/> <span><a href="https://v.redd.it/1sox298v0xle1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0dauq/bat_mine_batmine/">[comments]</a></span> </td></tr></table>
+
+## Automobilista 2 in VR on RTX 5090 (performance test)
+ - [https://www.reddit.com/r/virtualreality/comments/1j0dap2/automobilista_2_in_vr_on_rtx_5090_performance_test](https://www.reddit.com/r/virtualreality/comments/1j0dap2/automobilista_2_in_vr_on_rtx_5090_performance_test)
+ - RSS feed: $source
+ - date published: 2025-02-28T17:32:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1j0dap2/automobilista_2_in_vr_on_rtx_5090_performance_test/"> <img src="https://external-preview.redd.it/JmPoQ-VWHOixYgmkt2sIOKyJ79P-oHh87CCo8QOgQ7c.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9eb9d138afa7650313015af1f895e45134f851b4" alt="Automobilista 2 in VR on RTX 5090 (performance test)" title="Automobilista 2 in VR on RTX 5090 (performance test)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hajp"> /u/Hajp </a> <br/> <span><a href="https://www.youtube.com/watch?v=81-2HdYj97c">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0dap2/automobilista_2_in_vr_on_rtx_5090_performance_test/">[comments]</a></span> </td></tr></table>
+
+## Virtual reality boxing match 😊
+ - [https://www.reddit.com/r/virtualreality/comments/1j0cv7o/virtual_reality_boxing_match](https://www.reddit.com/r/virtualreality/comments/1j0cv7o/virtual_reality_boxing_match)
+ - RSS feed: $source
+ - date published: 2025-02-28T17:14:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1j0cv7o/virtual_reality_boxing_match/"> <img src="https://external-preview.redd.it/lA45RZ5ssw7ge0dcAd6IODDFWFgl0Fub6YG1IMqCh7Q.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=03ad412a6144153b11b8da3fa5a91790c9052310" alt="Virtual reality boxing match 😊" title="Virtual reality boxing match 😊" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Fun and simple match </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SkimmyA"> /u/SkimmyA </a> <br/> <span><a href="https://youtu.be/6zYvHrUiFKU?si=wrd3jNi1gzy5m_Ob">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0cv7o/virtual_reality_boxing_match/">[comments]</a></span> </td></tr></table>
+
+## Free to Play Apps Now Account For 70% Of Time Spent On Quest
+ - [https://www.reddit.com/r/virtualreality/comments/1j0c1hm/free_to_play_apps_now_account_for_70_of_time](https://www.reddit.com/r/virtualreality/comments/1j0c1hm/free_to_play_apps_now_account_for_70_of_time)
+ - RSS feed: $source
+ - date published: 2025-02-28T16:41:26+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://www.uploadvr.com/free-to-play-apps-70-of-time-spent-on-quest-headsets/">https://www.uploadvr.com/free-to-play-apps-70-of-time-spent-on-quest-headsets/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mangotango781"> /u/mangotango781 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0c1hm/free_to_play_apps_now_account_for_70_of_time/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0c1hm/free_to_play_apps_now_account_for_70_of_time/">[comments]</a></span>
+
+## Construction STEM game on VR Headset
+ - [https://www.reddit.com/r/virtualreality/comments/1j0bk5o/construction_stem_game_on_vr_headset](https://www.reddit.com/r/virtualreality/comments/1j0bk5o/construction_stem_game_on_vr_headset)
+ - RSS feed: $source
+ - date published: 2025-02-28T16:21:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all, as the title suggests - I&#39;m looking for a construction oriented STEM game on VR Headset. The company I work at is investing in a headset for us to use when we do sessions with secondary school students. </p> <p>I was wondering if anyone knew of any games of the sort available on VR? We don&#39;t have a specific headset yet, and we will cater around what headset we believe to have the best construction based game available. </p> <p>We need it to show examples of different roles and projects available on our sites, it doesn&#39;t have to include all of them, just one will do:</p> <p>Solar panel installation, electrical heat pump installation, plumbing, scaffolding installation.</p> <p>We are UK based if this makes a difference as to whats available on various VR stores.</p> <p>If anyone knows of anything that you believe could be useful it will be massively appreciated. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www
+
+## I created a free weekly VR Newsletter. News, game releases/updates, exclusive promo codes, hardware news and more! Join thousands of VR gamers here
+ - [https://www.reddit.com/r/virtualreality/comments/1j0bgdo/i_created_a_free_weekly_vr_newsletter_news_game](https://www.reddit.com/r/virtualreality/comments/1j0bgdo/i_created_a_free_weekly_vr_newsletter_news_game)
+ - RSS feed: $source
+ - date published: 2025-02-28T16:17:36+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/spartanZN"> /u/spartanZN </a> <br/> <span><a href="https://vrdb.app/newsletter">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0bgdo/i_created_a_free_weekly_vr_newsletter_news_game/">[comments]</a></span>
+
+## 🎮 Racket Pinball – fast-paced VR action!
+ - [https://www.reddit.com/r/virtualreality/comments/1j0b2lz/racket_pinball_fastpaced_vr_action](https://www.reddit.com/r/virtualreality/comments/1j0b2lz/racket_pinball_fastpaced_vr_action)
+ - RSS feed: $source
+ - date published: 2025-02-28T16:02:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1j0b2lz/racket_pinball_fastpaced_vr_action/"> <img src="https://external-preview.redd.it/eDltdG1yY3Rrd2xlMZgV6qzRoQ4E7N2p7lxVbXEMmKy1tARUpqxCXk_wp3rX.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e510b50f98d44363ea4914cee8faaf43a55e47f0" alt="🎮 Racket Pinball – fast-paced VR action!" title="🎮 Racket Pinball – fast-paced VR action!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nivision_ag"> /u/nivision_ag </a> <br/> <span><a href="https://v.redd.it/0jw8oqbtkwle1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0b2lz/racket_pinball_fastpaced_vr_action/">[comments]</a></span> </td></tr></table>
+
+## Head chopping, archery jump shots!
+ - [https://www.reddit.com/r/virtualreality/comments/1j0aba9/head_chopping_archery_jump_shots](https://www.reddit.com/r/virtualreality/comments/1j0aba9/head_chopping_archery_jump_shots)
+ - RSS feed: $source
+ - date published: 2025-02-28T15:30:17+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/neusman7777"> /u/neusman7777 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0aba9/head_chopping_archery_jump_shots/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0aba9/head_chopping_archery_jump_shots/">[comments]</a></span>
+
+## Reskin reality in near real-time
+ - [https://www.reddit.com/r/virtualreality/comments/1j0a8gh/reskin_reality_in_near_realtime](https://www.reddit.com/r/virtualreality/comments/1j0a8gh/reskin_reality_in_near_realtime)
+ - RSS feed: $source
+ - date published: 2025-02-28T15:26:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1j0a8gh/reskin_reality_in_near_realtime/"> <img src="https://external-preview.redd.it/MmN2OHAwcTJld2xlMR0Oo4UmxjB6rsyaLRtyLrinTRaKRUy20Qps1dDrrI7C.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=04d15e877e30ceaeee25504cc975be1995655edd" alt="Reskin reality in near real-time" title="Reskin reality in near real-time" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/isaac_szpindel"> /u/isaac_szpindel </a> <br/> <span><a href="https://v.redd.it/9puh30q2ewle1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j0a8gh/reskin_reality_in_near_realtime/">[comments]</a></span> </td></tr></table>
+
+## VR Game Idea
+ - [https://www.reddit.com/r/virtualreality/comments/1j09p4k/vr_game_idea](https://www.reddit.com/r/virtualreality/comments/1j09p4k/vr_game_idea)
+ - RSS feed: $source
+ - date published: 2025-02-28T15:03:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>An idea for a VR game is this. Base it off of the Anime on Crunchyroll named “Solo Leveling”. Make it a MMO. Have your character start out as the weakest character and have them play as such through a few dungeons. Then have the double dungeon from the show appear and then they have their “awakening”. In the show the main character (MC) has to then do daily tasks of a 10km run, 100 push ups, 100 sit-ups and 100 squats or else they are transported to the “penalty zone”. have that happen if people don’t do the daily tasks. Have different job change quests appear depending upon how people play the game. If they play solo, then award better jobs. If they team up with other players then they can have suitable roles assigned to them based on their abilities and skills and how they have arranged their stats.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/donperryman1988"> /u/donperryman1988 </a> <br/> <span><a href="h
+
+## Is the RX 7800 XT good for Quest Link?
+ - [https://www.reddit.com/r/virtualreality/comments/1j09kr8/is_the_rx_7800_xt_good_for_quest_link](https://www.reddit.com/r/virtualreality/comments/1j09kr8/is_the_rx_7800_xt_good_for_quest_link)
+ - RSS feed: $source
+ - date published: 2025-02-28T14:58:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi everyone</p> <p>After my disapointing experiences with my ROG Zephyrus G14 i have been looking into building a PC and there are two GPUs i have in mind RX 7800 XT - 479.99 RTX 3070 (Used) - 300 ish RTX 3060 12GB - 279.99 I would rather get the 7800 XT because of the better performance and the Vram capacity, but i dont know if the encoder will be good enough to give decent visual quality in Quest link with a Oculus Quest 2. The only reason i would even choose the 7800 XT is for PCVR as i dont play AAA games at all everything i play is indie and VR so i am considering saving my money with the used 3070 as it will definitely still give me the performance i want but i am not sure. Thankfully i live near a microcenter so the 7800 XT will be an easy grab.</p> <p>The games i play are FNAF Help Wanted 1 &amp; 2, VRCHAT, Vivecraft, Boneworks, and Gorilla Tag.</p> <p>If anyone could help me with making this decision that would be perfect</p> <p>Thank you.</
+
+## It's alive! Zero Caliber 2 is making its way to Steam soon [Gameplay Teaser]
+ - [https://www.reddit.com/r/virtualreality/comments/1j09j04/its_alive_zero_caliber_2_is_making_its_way_to](https://www.reddit.com/r/virtualreality/comments/1j09j04/its_alive_zero_caliber_2_is_making_its_way_to)
+ - RSS feed: $source
+ - date published: 2025-02-28T14:56:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1j09j04/its_alive_zero_caliber_2_is_making_its_way_to/"> <img src="https://external-preview.redd.it/YjQ2dThpMDd6dmxlMR2zYROR6bkzT1e5Pb9ufcBddunuzHpn7nkYwMEUSXEe.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cdf6c75349a85f8c1ff5f3ff68bb6cc1a8a63a84" alt="It's alive! Zero Caliber 2 is making its way to Steam soon [Gameplay Teaser]" title="It's alive! Zero Caliber 2 is making its way to Steam soon [Gameplay Teaser]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/-DanDanDaaan"> /u/-DanDanDaaan </a> <br/> <span><a href="https://v.redd.it/ivgu6j07zvle1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j09j04/its_alive_zero_caliber_2_is_making_its_way_to/">[comments]</a></span> </td></tr></table>
+
+## any good budget pcvr under 100 bucks??
+ - [https://www.reddit.com/r/virtualreality/comments/1j09ggs/any_good_budget_pcvr_under_100_bucks](https://www.reddit.com/r/virtualreality/comments/1j09ggs/any_good_budget_pcvr_under_100_bucks)
+ - RSS feed: $source
+ - date published: 2025-02-28T14:53:19+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/sigmasmash"> /u/sigmasmash </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1j09ggs/any_good_budget_pcvr_under_100_bucks/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j09ggs/any_good_budget_pcvr_under_100_bucks/">[comments]</a></span>
+
+## Z.O.N.A: Origin (PCVR) Now you're an artist in the Zone! 🎨 Weapon and attachment customization is now available with spray paint cans. Create unique skins, mix colors, and leave your mark on the world!
+ - [https://www.reddit.com/r/virtualreality/comments/1j08mdj/zona_origin_pcvr_now_youre_an_artist_in_the_zone](https://www.reddit.com/r/virtualreality/comments/1j08mdj/zona_origin_pcvr_now_youre_an_artist_in_the_zone)
+ - RSS feed: $source
+ - date published: 2025-02-28T14:14:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1j08mdj/zona_origin_pcvr_now_youre_an_artist_in_the_zone/"> <img src="https://external-preview.redd.it/cndpMjR6bGYxd2xlMQEsmC1gzUR4cl-sxdKgyz_BLKWKAk8rp_ZmqAwBhkcZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d74385256e5a6a392f5ecec660f0cd9fab58307e" alt="Z.O.N.A: Origin (PCVR) Now you're an artist in the Zone! 🎨 Weapon and attachment customization is now available with spray paint cans. Create unique skins, mix colors, and leave your mark on the world!" title="Z.O.N.A: Origin (PCVR) Now you're an artist in the Zone! 🎨 Weapon and attachment customization is now available with spray paint cans. Create unique skins, mix colors, and leave your mark on the world!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AGaming5"> /u/AGaming5 </a> <br/> <span><a href="https://v.redd.it/0cmihzlf1wle1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/
+
+## Are there are art performances on VR Chat ?
+ - [https://www.reddit.com/r/virtualreality/comments/1j08flu/are_there_are_art_performances_on_vr_chat](https://www.reddit.com/r/virtualreality/comments/1j08flu/are_there_are_art_performances_on_vr_chat)
+ - RSS feed: $source
+ - date published: 2025-02-28T14:06:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I am a journalist for the show Tracks for the French television channel Arte. </p> <p>We plan to produce an episode about live art performances inside video games. </p> <p>I wonder if there are artists present on VR Chat who do some kind of performances (Dancer, singer, comic show, theater, DJ....)?</p> <p>This is why I am contacting you. If you know any interesting artists in the game, feel free to respond to this post !</p> <p>Thank you in advance for your help and answers!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DuraxLeGeant"> /u/DuraxLeGeant </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1j08flu/are_there_are_art_performances_on_vr_chat/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j08flu/are_there_are_art_performances_on_vr_chat/">[comments]</a></span>
+
+## What headset would be good for face and eye tracking
+ - [https://www.reddit.com/r/virtualreality/comments/1j07cn4/what_headset_would_be_good_for_face_and_eye](https://www.reddit.com/r/virtualreality/comments/1j07cn4/what_headset_would_be_good_for_face_and_eye)
+ - RSS feed: $source
+ - date published: 2025-02-28T13:13:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>From what I know the quest pro is discontinued so that&#39;s out the box. What other headsets would be good for eye and face tracking?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lolmanUwU"> /u/lolmanUwU </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1j07cn4/what_headset_would_be_good_for_face_and_eye/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j07cn4/what_headset_would_be_good_for_face_and_eye/">[comments]</a></span>
+
+## Evacuation Zone Tampere - From Finland with beer smelling apocalypse PC/VR
+ - [https://www.reddit.com/r/virtualreality/comments/1j056eb/evacuation_zone_tampere_from_finland_with_beer](https://www.reddit.com/r/virtualreality/comments/1j056eb/evacuation_zone_tampere_from_finland_with_beer)
+ - RSS feed: $source
+ - date published: 2025-02-28T11:03:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi! </p> <p>Here is our surreal take on apocalypse in Finland, where Matti and his &quot;friends&quot; are not letting zombies and other monsters ruin their lives... Until medication runs out and the favorite pod-caster is in trouble! </p> <p>Check out the demo, it is updated and does not suffer from falling in one scene like here <a href="https://youtu.be/6JaGPyoUa-c?si=eHOTAGyo5qzo2-ma">https://youtu.be/6JaGPyoUa-c?si=eHOTAGyo5qzo2-ma</a> in the youtubers playtest :D</p> <p>Here is the link. </p> <p><a href="https://store.steampowered.com/app/3023670/Evacuation_Zone_Tampere/">https://store.steampowered.com/app/3023670/Evacuation_Zone_Tampere/</a> </p> <p>And yes! I am one of the people behind the game and we run community driven unity SDK for making games. I hope you like it, we work hard to get you guys new experiences and bring Indie content which you would never see triple A studios making .</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a h
+
+## My PC crashes when gpu hits 100%
+ - [https://www.reddit.com/r/virtualreality/comments/1j04r36/my_pc_crashes_when_gpu_hits_100](https://www.reddit.com/r/virtualreality/comments/1j04r36/my_pc_crashes_when_gpu_hits_100)
+ - RSS feed: $source
+ - date published: 2025-02-28T10:34:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>This only happens in vr games. My setup is radeon 6800m 12gb graphics, 32 gb ram, amd 5900hx. Whenever I play vr games, gpu spikes to 100% and suddenly my laptop shuts down. Is there a way to limit gpu to 90% so that it never hits the 100% mark. Or is there a different issue? I did change the thermal paste a while back and got my fans cleaned so that should not be the issue. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/charlieblood_8"> /u/charlieblood_8 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1j04r36/my_pc_crashes_when_gpu_hits_100/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j04r36/my_pc_crashes_when_gpu_hits_100/">[comments]</a></span>
+
+## 3 new cars, 6 new events & More!
+ - [https://www.reddit.com/r/virtualreality/comments/1j03iq5/3_new_cars_6_new_events_more](https://www.reddit.com/r/virtualreality/comments/1j03iq5/3_new_cars_6_new_events_more)
+ - RSS feed: $source
+ - date published: 2025-02-28T09:02:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1j03iq5/3_new_cars_6_new_events_more/"> <img src="https://external-preview.redd.it/rbSxvMCLUniRRCdC4Vj61ZTHDaZjZvb-2C8O4XOvN_8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c7b1f8b0fc8a417a60f5edccd9c3a3badfb2bfaa" alt="3 new cars, 6 new events &amp; More!" title="3 new cars, 6 new events &amp; More!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MrDeathwish85"> /u/MrDeathwish85 </a> <br/> <span><a href="https://youtu.be/JojNloOw1UM?si=Alr2bBsdYMlW7KBj">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j03iq5/3_new_cars_6_new_events_more/">[comments]</a></span> </td></tr></table>
+
+## Big Shots - Supercharged Update
+ - [https://www.reddit.com/r/virtualreality/comments/1j03f09/big_shots_supercharged_update](https://www.reddit.com/r/virtualreality/comments/1j03f09/big_shots_supercharged_update)
+ - RSS feed: $source
+ - date published: 2025-02-28T08:54:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1j03f09/big_shots_supercharged_update/"> <img src="https://external-preview.redd.it/NXk5aGMzZWxndWxlMQN8ooBZYyMFrV9mRfDPV9MVsbFiPstdTL0LYshGjOg7.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2bab0bf8e7a102be469d368bd79c45f2ee384784" alt="Big Shots - Supercharged Update" title="Big Shots - Supercharged Update" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BigShotsVR"> /u/BigShotsVR </a> <br/> <span><a href="https://v.redd.it/g503q6elgule1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j03f09/big_shots_supercharged_update/">[comments]</a></span> </td></tr></table>
+
+## The Supercharged Update ⚡ – More Loot, More Firepower, More Mayhem!
+ - [https://www.reddit.com/r/virtualreality/comments/1j03etx/the_supercharged_update_more_loot_more_firepower](https://www.reddit.com/r/virtualreality/comments/1j03etx/the_supercharged_update_more_loot_more_firepower)
+ - RSS feed: $source
+ - date published: 2025-02-28T08:54:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>We’re thrilled to announce the launch of <strong>The Supercharged Update filled with enhancements that will elevate your gameplay!</strong></p> <p><strong>🔎Loot &amp; Lif</strong>e: Explore every corner to uncover valuable rewards and claim your riches. Boost your vitality with essential health upgrades to power up your run! And now, you can even revive… but at a price!<br/> ⚔<strong>Arsenal Expansion</strong>: Power up your mech with 60 brand-new upgrades and ultimates, giving you even more ways to crush the bugs in style!</p> <p>Alongside these exciting additions, we’ve also enhanced <em>BIG SHOTS</em> with key quality-of-life improvements and essential bug fixes.Jump into the action now and experience what’s new! Let’s gear up and obliterate those bugs together! 💥</p> <p><strong>Happy hunting!</strong><br/> <em>The BIG SHOTS Team</em></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BigShotsVR"> /u/BigShotsVR 
+
+## Is this base station cooked, since it seems like it is missing a laser light? If so, anyone got a spare one they can sell to me?
+ - [https://www.reddit.com/r/virtualreality/comments/1j03a6e/is_this_base_station_cooked_since_it_seems_like](https://www.reddit.com/r/virtualreality/comments/1j03a6e/is_this_base_station_cooked_since_it_seems_like)
+ - RSS feed: $source
+ - date published: 2025-02-28T08:44:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1j03a6e/is_this_base_station_cooked_since_it_seems_like/"> <img src="https://preview.redd.it/bch1xjjjeule1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f5110c90215be833bd939d47f592dc63db5c53b" alt="Is this base station cooked, since it seems like it is missing a laser light? If so, anyone got a spare one they can sell to me?" title="Is this base station cooked, since it seems like it is missing a laser light? If so, anyone got a spare one they can sell to me?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Justin_Time_4Fun"> /u/Justin_Time_4Fun </a> <br/> <span><a href="https://i.redd.it/bch1xjjjeule1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j03a6e/is_this_base_station_cooked_since_it_seems_like/">[comments]</a></span> </td></tr></table>
+
+## Here's another short teaser of my VR anime game!
+ - [https://www.reddit.com/r/virtualreality/comments/1j02zyg/heres_another_short_teaser_of_my_vr_anime_game](https://www.reddit.com/r/virtualreality/comments/1j02zyg/heres_another_short_teaser_of_my_vr_anime_game)
+ - RSS feed: $source
+ - date published: 2025-02-28T08:23:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1j02zyg/heres_another_short_teaser_of_my_vr_anime_game/"> <img src="https://external-preview.redd.it/eXUyNzloOHdhdWxlMdRM-GOdLkfSZDuXTJGn__QTQ9e_XKwIp_4OiPU_n3xN.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=057a51a29b5fbed9a74c1892cebda05480bf2f04" alt="Here's another short teaser of my VR anime game!" title="Here's another short teaser of my VR anime game!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/plectrumxr"> /u/plectrumxr </a> <br/> <span><a href="https://v.redd.it/gboo6i8waule1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j02zyg/heres_another_short_teaser_of_my_vr_anime_game/">[comments]</a></span> </td></tr></table>
+
+## Glare in quest 3?
+ - [https://www.reddit.com/r/virtualreality/comments/1j01or6/glare_in_quest_3](https://www.reddit.com/r/virtualreality/comments/1j01or6/glare_in_quest_3)
+ - RSS feed: $source
+ - date published: 2025-02-28T06:47:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>I really want to buy the quest 3 but a few people mentioned have so much glare they had to return it and it was unbearable. Is this true or not?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sad_Tart_5577"> /u/Sad_Tart_5577 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1j01or6/glare_in_quest_3/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j01or6/glare_in_quest_3/">[comments]</a></span>
+
+## Quest link problems
+ - [https://www.reddit.com/r/virtualreality/comments/1j01i5o/quest_link_problems](https://www.reddit.com/r/virtualreality/comments/1j01i5o/quest_link_problems)
+ - RSS feed: $source
+ - date published: 2025-02-28T06:34:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m trying to connect my quest 2 to my pc which has a rtx 4070 ti super but its having severe lag and graphics problems. when connected through link cable the graphics are terrible and it’s laggy and when connected through air link it’s so bad that it’s unplayable. I have top wifi speeds and my graphics card and drivers are up to date. I’ve tried resolving it through meta support but they didn’t help at all. please help.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HyperMonkey1333"> /u/HyperMonkey1333 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1j01i5o/quest_link_problems/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1j01i5o/quest_link_problems/">[comments]</a></span>
+
+## Today I launched a VR review site I've spent 4 years making
+ - [https://www.reddit.com/r/virtualreality/comments/1izyd2k/today_i_launched_a_vr_review_site_ive_spent_4](https://www.reddit.com/r/virtualreality/comments/1izyd2k/today_i_launched_a_vr_review_site_ive_spent_4)
+ - RSS feed: $source
+ - date published: 2025-02-28T03:25:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>I hope you like it, I&#39;ve spent literally thousands of hours working on it.</p> <p><a href="http://www.thevrcritic.com">www.thevrcritic.com</a></p> <p>I wanted to launch big - so on day one I have 100 full length, previously unpublished reviews. The site will be updated about once a week. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thevrcritic"> /u/thevrcritic </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1izyd2k/today_i_launched_a_vr_review_site_ive_spent_4/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1izyd2k/today_i_launched_a_vr_review_site_ive_spent_4/">[comments]</a></span>
+
+## My Steam Next Fest numbers
+ - [https://www.reddit.com/r/virtualreality/comments/1izxrfi/my_steam_next_fest_numbers](https://www.reddit.com/r/virtualreality/comments/1izxrfi/my_steam_next_fest_numbers)
+ - RSS feed: $source
+ - date published: 2025-02-28T02:53:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1izxrfi/my_steam_next_fest_numbers/"> <img src="https://preview.redd.it/oykfks9onsle1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=10405dd22668dbffa7e60521c88f9593e5eaee75" alt="My Steam Next Fest numbers" title="My Steam Next Fest numbers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mechabit_Studios"> /u/Mechabit_Studios </a> <br/> <span><a href="https://i.redd.it/oykfks9onsle1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1izxrfi/my_steam_next_fest_numbers/">[comments]</a></span> </td></tr></table>
+
+## Controlling in sideloaded apps (quest 2)
+ - [https://www.reddit.com/r/virtualreality/comments/1izw0cr/controlling_in_sideloaded_apps_quest_2](https://www.reddit.com/r/virtualreality/comments/1izw0cr/controlling_in_sideloaded_apps_quest_2)
+ - RSS feed: $source
+ - date published: 2025-02-28T01:20:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>Recently I started to sideload apks onto my quest 2 and I&#39;ve really enjoyed it so far however I run into the issue of not being able to control inside of the apps unless it is touchscreen. Apps such as emulators will accept me mapping controls but won&#39;t let me use them in the game. Is there a fix for this? I haven&#39;t found any answers</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Reapz999"> /u/Reapz999 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1izw0cr/controlling_in_sideloaded_apps_quest_2/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1izw0cr/controlling_in_sideloaded_apps_quest_2/">[comments]</a></span>
+
+## Meta and VR
+ - [https://www.reddit.com/r/virtualreality/comments/1izvwo0/meta_and_vr](https://www.reddit.com/r/virtualreality/comments/1izvwo0/meta_and_vr)
+ - RSS feed: $source
+ - date published: 2025-02-28T01:15:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>Can we take a moment to just somewhat appreciate how much VR has grown thanks to meta? Don&#39;t get me wrong I&#39;m not going to say there wasn&#39;t already a community for it. They&#39;re definitely was. But I think without meta VR wouldn&#39;t have become as much more of a thing for people to be open to accept as a valid way of consuming media and games. I&#39;m not trying to glaze them but I think it&#39;s fair to realize the good they&#39;ve done for the VR space even if they&#39;re not the greatest company.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Thick_Ninja_7704"> /u/Thick_Ninja_7704 </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1izvwo0/meta_and_vr/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1izvwo0/meta_and_vr/">[comments]</a></span>
+
+## Easy Phone VR - SteamVR setup for 2025
+ - [https://www.reddit.com/r/virtualreality/comments/1izvswj/easy_phone_vr_steamvr_setup_for_2025](https://www.reddit.com/r/virtualreality/comments/1izvswj/easy_phone_vr_steamvr_setup_for_2025)
+ - RSS feed: $source
+ - date published: 2025-02-28T01:10:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/virtualreality/comments/1izvswj/easy_phone_vr_steamvr_setup_for_2025/"> <img src="https://external-preview.redd.it/3Bq7jX2xXlP1dsIfy7r7waRbOF7ZoMhl-p1v8-zYIJY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e2bb54eb6969df33edc150d4a4ae2976c070b16c" alt="Easy Phone VR - SteamVR setup for 2025" title="Easy Phone VR - SteamVR setup for 2025" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BigBurgerBandit"> /u/BigBurgerBandit </a> <br/> <span><a href="https://www.youtube.com/watch?v=3WfBKyJvsNg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1izvswj/easy_phone_vr_steamvr_setup_for_2025/">[comments]</a></span> </td></tr></table>
+
+## How much better is a ryzen 7 9800x3d than a i9 10900kf for VR ?
+ - [https://www.reddit.com/r/virtualreality/comments/1izvpng/how_much_better_is_a_ryzen_7_9800x3d_than_a_i9](https://www.reddit.com/r/virtualreality/comments/1izvpng/how_much_better_is_a_ryzen_7_9800x3d_than_a_i9)
+ - RSS feed: $source
+ - date published: 2025-02-28T01:05:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am thinking about upgrading to the 9800x3d after the many good things I heard about it. It might be a good idea as I also would like to upgrade from my rtx 3080 to a used 4090 or 5090. </p> <p>I play mainly PC VR like Assetto Corsa, Il 2 sturmovik, I racing and so on. I do experience stutter very frequently in il 2 sturmovik even with lower VR Settings. It sometimes happens when things start happening ,like a vehicle is getting destroyed or me getting shot down. This due the cpu right ? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AGoodKForTheWin"> /u/AGoodKForTheWin </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1izvpng/how_much_better_is_a_ryzen_7_9800x3d_than_a_i9/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1izvpng/how_much_better_is_a_ryzen_7_9800x3d_than_a_i9/">[comments]</a></span>
+
+## Easiest way to watch adult vr?
+ - [https://www.reddit.com/r/virtualreality/comments/1izvpet/easiest_way_to_watch_adult_vr](https://www.reddit.com/r/virtualreality/comments/1izvpet/easiest_way_to_watch_adult_vr)
+ - RSS feed: $source
+ - date published: 2025-02-28T01:05:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>It use to be easy before the big ol p hub got banned, but now i tried using the 4XVR player and the 4X link.</p> <p>Essentially you just copy a video link onto the 4X Link pc app and you can open it on your oculus wirelessly.</p> <p>But it’s really hard finding urls to work, what’s the easiest way to watch adult VR? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HellraiserMob"> /u/HellraiserMob </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1izvpet/easiest_way_to_watch_adult_vr/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1izvpet/easiest_way_to_watch_adult_vr/">[comments]</a></span>
+
+## No manual for Quest 2
+ - [https://www.reddit.com/r/virtualreality/comments/1izuo3j/no_manual_for_quest_2](https://www.reddit.com/r/virtualreality/comments/1izuo3j/no_manual_for_quest_2)
+ - RSS feed: $source
+ - date published: 2025-02-28T00:14:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>I bought a used Quest 2 headset that didn&#39;t come with a manual. I can&#39;t use it for more than 30 minutes or so without getting a headache. I suspect there is something about adjusting the imagers inside, the distance between them as they move. </p> <p>Does anyone have some advice on how to make sure they are adjusted correctly, or how to keep from getting headaches?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/buck_idaho"> /u/buck_idaho </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1izuo3j/no_manual_for_quest_2/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/virtualreality/comments/1izuo3j/no_manual_for_quest_2/">[comments]</a></span>
+
+## Need Help With Virtual Desktop :/
+ - [https://www.reddit.com/r/virtualreality/comments/1izug6f/need_help_with_virtual_desktop](https://www.reddit.com/r/virtualreality/comments/1izug6f/need_help_with_virtual_desktop)
+ - RSS feed: $source
+ - date published: 2025-02-28T00:03:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m going to try to get straight to the point. I’m not really a tech savvy person, but all I can say is that when I try to use my Virtual Desktop and connect to steamvr, the quality is so bad compared to when I played on my gaming laptop. Don’t get me wrong, the gaming laptop took a bit to load up a game on steamvr, but I could see things clearly. But now when I try to connect with my gaming desktop, it’s so choppy and laggy. I don’t know if I should just get a wifi 6 router or change some settings. And if I do get a wifi 6 router, what kind should it be and how do I even set that up? I’m sorry if this is confusing :’)</p> <p>My PC is a CyberPowerPC Gamer Master Gaming Desktop AMD Ryzen 5-7600, 16GB DDR5 1TB SSD</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lqnrvb"> /u/lqnrvb </a> <br/> <span><a href="https://www.reddit.com/r/virtualreality/comments/1izug6f/need_help_with_virtual_desktop/">[link]</a></span> &#
+

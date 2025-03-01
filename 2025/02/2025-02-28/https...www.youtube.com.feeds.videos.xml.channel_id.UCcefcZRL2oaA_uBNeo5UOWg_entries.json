@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-02-28T15:00:10+00:00",
+        "description": "At YC, we're seeing more and more people in their 20s taking the leap and starting their own companies. In this episode, Dalton & Michael share their advice on how young founders can get a head start and hit the ground running in their startup journey.\n\nApply to Y Combinator: https://ycombinator.com/apply\n\nChapters (Powered by https://bit.ly/chapterme-yc) - \n00:00 Intro\n00:42 Work on side projects!\n03:27 Choosing where you live (and who you\u2019re around)\n04:33 Being too online can result in diminishing returns\n06:30 Don\u2019t be discouraged by commenters on Hacker News\n07:25 Work on things you care about, not just what you think investors want\n10:06 Don\u2019t skip the \u2018V\u2019 in MVP\n11:35 Cargo culting\n13:12 How to set expectations to help you win\n15:35 Who are you selling to? \n18:25 Payroll vs software\n21:45 Watch out for being a conventional thinker\n24:39 Outro",
+        "id": 2217475,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=3yAoITAXKis",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3yAoITAXKis/hqdefault.jpg",
+        "title": "This Is What Young Founders Should Focus On",
+        "vote": 0
+    }
+]
