@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-01T02:41:53+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>The stark difference in the way tech giants in China and the US are approaching AI for internal operations was illustrated late this week by separate announcements from Salesforce and Alibaba.</p>\n\n\n\n<p>During an <a href=\"https://seekingalpha.com/article/4762501-salesforce-inc-crm-q4-2025-earnings-call-transcript\">earnings call</a> on Thursday, Salesforce CEO Marc Benioff indicated that, as a result of AI, the company would not be hiring human engineers this year.</p>\n\n\n\n<p>\u201cI think that the big message I have for a lot of CEOs that I meet with is, \u2018hey, we\u2019re the last generation of CEOs to only manage humans\u2019,\u201d he said. \u201cI think every CEO going forward is going to manage humans and agents toge",
+        "id": 2221905,
+        "language": "en-US",
+        "link": "https://www.computerworld.com/article/3836092/two-ai-developer-strategies-hire-engineers-or-let-ai-do-the-work.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 78,
+        "source_url": "https://www.computerworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Two AI developer strategies: Hire engineers or let AI do the work",
+        "vote": 0
+    }
+]

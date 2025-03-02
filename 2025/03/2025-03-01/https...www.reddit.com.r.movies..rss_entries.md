@@ -1,0 +1,170 @@
+# Source:Movie News and Discussion, URL:https://www.reddit.com/r/movies/.rss, language:en
+
+## Looking for movie suggestions for stories about struggling to get a job
+ - [https://www.reddit.com/r/movies/comments/1j19ne9/looking_for_movie_suggestions_for_stories_about](https://www.reddit.com/r/movies/comments/1j19ne9/looking_for_movie_suggestions_for_stories_about)
+ - RSS feed: $source
+ - date published: 2025-03-01T21:00:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>Are there any films or stories where the main character struggles to get work? Someone so inexperienced and unqualified to get their foot in the door, even at part-time, minimum wage jobs. A recent one that sort of fits this is Emily the Criminal. In the first act, the protagonist , Emily, can&#39;t get a regular job because of a minor criminal record, sending her further down the path of high-stakes criminal activity to earn cash quickly.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pizzapartyusa69"> /u/pizzapartyusa69 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1j19ne9/looking_for_movie_suggestions_for_stories_about/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1j19ne9/looking_for_movie_suggestions_for_stories_about/">[comments]</a></span>
+
+## Harrison Ford drops out as presenter at 2025 Oscars after shingles diagnosis
+ - [https://www.reddit.com/r/movies/comments/1j17tas/harrison_ford_drops_out_as_presenter_at_2025](https://www.reddit.com/r/movies/comments/1j17tas/harrison_ford_drops_out_as_presenter_at_2025)
+ - RSS feed: $source
+ - date published: 2025-03-01T19:39:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1j17tas/harrison_ford_drops_out_as_presenter_at_2025/"> <img src="https://external-preview.redd.it/omd8CskG_zMc72cfv5I4ayCTBUVFeBDXAtTM3t_u9do.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e47ee0c1c43715c07095fb335e5cf0373b1a979d" alt="Harrison Ford drops out as presenter at 2025 Oscars after shingles diagnosis" title="Harrison Ford drops out as presenter at 2025 Oscars after shingles diagnosis" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://ew.com/harrison-ford-drops-out-as-oscars-2025-presenter-shingles-11689033">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1j17tas/harrison_ford_drops_out_as_presenter_at_2025/">[comments]</a></span> </td></tr></table>
+
+## David Johansen Dies: New York Dolls Singer & ‘Scrooged’ Actor Was 75
+ - [https://www.reddit.com/r/movies/comments/1j17ke6/david_johansen_dies_new_york_dolls_singer](https://www.reddit.com/r/movies/comments/1j17ke6/david_johansen_dies_new_york_dolls_singer)
+ - RSS feed: $source
+ - date published: 2025-03-01T19:28:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1j17ke6/david_johansen_dies_new_york_dolls_singer/"> <img src="https://external-preview.redd.it/xVQevtK49414QLXniq04HMjX_u69zEVqlnBF0mYpgYY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=08549b4573f83bcc554cc63cfd083903e0c608a6" alt="David Johansen Dies: New York Dolls Singer &amp; ‘Scrooged’ Actor Was 75" title="David Johansen Dies: New York Dolls Singer &amp; ‘Scrooged’ Actor Was 75" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/vatred"> /u/vatred </a> <br/> <span><a href="https://www.tvinsider.com/1179196/david-johansen-dead-new-york-dolls-scrooged-buster-poindexter/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1j17ke6/david_johansen_dies_new_york_dolls_singer/">[comments]</a></span> </td></tr></table>
+
+## What is the greatest animated film of all time?
+ - [https://www.reddit.com/r/movies/comments/1j17euu/what_is_the_greatest_animated_film_of_all_time](https://www.reddit.com/r/movies/comments/1j17euu/what_is_the_greatest_animated_film_of_all_time)
+ - RSS feed: $source
+ - date published: 2025-03-01T19:21:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>See title. What is your greatest animated, not live action, movie? One that you could watch over and over again and never get tired of it?</p> <p>In honour of Miyazaki’s latest (and maybe final) film, my friend and I got into a discussion about what the best animated film ever was. Is it a given that it is a Miyazaki?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SamLarsons"> /u/SamLarsons </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1j17euu/what_is_the_greatest_animated_film_of_all_time/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1j17euu/what_is_the_greatest_animated_film_of_all_time/">[comments]</a></span>
+
+## What are the best revenge movies ?
+ - [https://www.reddit.com/r/movies/comments/1j169er/what_are_the_best_revenge_movies](https://www.reddit.com/r/movies/comments/1j169er/what_are_the_best_revenge_movies)
+ - RSS feed: $source
+ - date published: 2025-03-01T18:32:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>For me the best and underrated revenge movies is Law Abiding Citizen. This movie got so much potential to be a masterpiece if the ending is different. My next favorite revenge movies is I Saw The Devil. The guy that played the bad guy is so convincing in his character and made me so angry watching him. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NstgElNino"> /u/NstgElNino </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1j169er/what_are_the_best_revenge_movies/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1j169er/what_are_the_best_revenge_movies/">[comments]</a></span>
+
+## Looking for "good versions" of movies like National Treasure and The Da Vinci Code—historical-conspiracy sort of mystery
+ - [https://www.reddit.com/r/movies/comments/1j15p6d/looking_for_good_versions_of_movies_like_national](https://www.reddit.com/r/movies/comments/1j15p6d/looking_for_good_versions_of_movies_like_national)
+ - RSS feed: $source
+ - date published: 2025-03-01T18:08:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I loved The Da Vinci Code and National Treasure as a kid. I&#39;m not sure they hold up quite as well to my adult eyes, but I still like the general vibe—a historical mystery with roots going back centuries, secret groups of people, etc.</p> <p>What other movies are like that, but maybe a little more acclaimed?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TinStingray"> /u/TinStingray </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1j15p6d/looking_for_good_versions_of_movies_like_national/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1j15p6d/looking_for_good_versions_of_movies_like_national/">[comments]</a></span>
+
+## Post-human world in Flow
+ - [https://www.reddit.com/r/movies/comments/1j12j7a/posthuman_world_in_flow](https://www.reddit.com/r/movies/comments/1j12j7a/posthuman_world_in_flow)
+ - RSS feed: $source
+ - date published: 2025-03-01T15:54:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just watched the movie Flow with my toddler, who immediately insisted we started it over again. We loved it. Such a beautiful film. </p> <p>The post-human world filled me with such existential dread though, thinking that all our climate inaction will lead us to a post-human water world. I might personally be scarred from watching Water World at too young an age when it came out, I had nightmares about it.</p> <p>Is anyone else hung up on the when / why of the Flow world? One person mentioned that another planet close to earth would cause the severity of the gravitational pull of the water, a cycle of flood. Does anyone have any insight to the directors intentions? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lawless_k"> /u/lawless_k </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1j12j7a/posthuman_world_in_flow/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/commen
+
+## Jack Black & Paul Rudd’s ‘Anaconda’ Reboot Has Officially Wrapped Filming
+ - [https://www.reddit.com/r/movies/comments/1j11xs7/jack_black_paul_rudds_anaconda_reboot_has](https://www.reddit.com/r/movies/comments/1j11xs7/jack_black_paul_rudds_anaconda_reboot_has)
+ - RSS feed: $source
+ - date published: 2025-03-01T15:27:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1j11xs7/jack_black_paul_rudds_anaconda_reboot_has/"> <img src="https://external-preview.redd.it/O5ZLJjrTe2ebagyjbcNQjlTRQqmYdFV6JyXdkZtN_zo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=75eba87bd97617854fc5efa75b32d2cc1ace7879" alt="Jack Black &amp; Paul Rudd’s ‘Anaconda’ Reboot Has Officially Wrapped Filming" title="Jack Black &amp; Paul Rudd’s ‘Anaconda’ Reboot Has Officially Wrapped Filming" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MarvelsGrantMan136"> /u/MarvelsGrantMan136 </a> <br/> <span><a href="https://maxblizz.com/jack-black-paul-rudds-anaconda-reboot-has-officially-wrapped-filming/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1j11xs7/jack_black_paul_rudds_anaconda_reboot_has/">[comments]</a></span> </td></tr></table>
+
+## Does anyone remember Jennifer Grey TV movies that was released in 1990 like Murder in Mississippi, Criminal Justice, If Shoe Fits 1991 and Eyes of the Witness 1991. Are They remembered or forgotten able.
+ - [https://www.reddit.com/r/movies/comments/1j102vw/does_anyone_remember_jennifer_grey_tv_movies_that](https://www.reddit.com/r/movies/comments/1j102vw/does_anyone_remember_jennifer_grey_tv_movies_that)
+ - RSS feed: $source
+ - date published: 2025-03-01T14:00:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Also we all know her from the 80s with big hits like Red Dawn, Ferris Bueller and Dirty Dancing which she had a great fame. But you all are forgetting something she did do some films after Dirty Dancing like Gandahar in a English version and it was renamed Light years was an animated film and Bloodhounds of Broadway 1989 film with Madonna. Then in 1990 she did do a TV movie I just mentioned on the title and she did made a comeback in the Hollywood films in 1992 called Wind and during the making of the film she had a second nose job afterwards she became unrecognisable and in 1993 she did do a TV movie called A Case for Murder and she came in 1995 doing a guest role in a classic sitcom show Friends. So what do you think about the TV movie she did in 1990, 1991 and 1993 are they forgotten or remembered and do you recognise her nose differences in them well any suggestions.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.co
+
+## Forgot the name of a 1990s film: some kids build a clubhouse/treehouse, with a stuffed moose-head that dispenses soft drink cans.
+ - [https://www.reddit.com/r/movies/comments/1j0zgmq/forgot_the_name_of_a_1990s_film_some_kids_build_a](https://www.reddit.com/r/movies/comments/1j0zgmq/forgot_the_name_of_a_1990s_film_some_kids_build_a)
+ - RSS feed: $source
+ - date published: 2025-03-01T13:28:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>Trying to remember the name of this film. I can only really remember this single scene. A group of kids, maybe all boys, build or fix up some type of clubhouse, treehouse or the like.</p> <p>There&#39;s a taxidermied moose or similar on the wall. Somehow when triggered, a can of cola shoots out of its mouth and to one of the kids.</p> <p>It&#39;s been decades since I saw this, and can&#39;t find the title. Perhaps someone else remembers it? It was almost certainly a kids&#39; film from the USA, probably 1990s. Can anyone help?</p> <p>If anyone can remember it, please also tell me what you think of it! I am gonna watch it as soon as I learn the title.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/xray-pishi"> /u/xray-pishi </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1j0zgmq/forgot_the_name_of_a_1990s_film_some_kids_build_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/
+
+## The Wildest Oscar Party Ever: Courtney Love tried to bash someone’s head with Quentin Tarantino’s trophy, Sharon Stone fought with security, 2 reporters got into a fistfight, & a criminal being chased by cops in the kitchen
+ - [https://www.reddit.com/r/movies/comments/1j0xy9g/the_wildest_oscar_party_ever_courtney_love_tried](https://www.reddit.com/r/movies/comments/1j0xy9g/the_wildest_oscar_party_ever_courtney_love_tried)
+ - RSS feed: $source
+ - date published: 2025-03-01T12:01:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1j0xy9g/the_wildest_oscar_party_ever_courtney_love_tried/"> <img src="https://external-preview.redd.it/HJpWkdtLDJXiRjVXgbCydViJTe91-UrEf7iVMXXnpu4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=70c5bf4ecb1f69fda30f64683d2b68ac8926716a" alt="The Wildest Oscar Party Ever: Courtney Love tried to bash someone’s head with Quentin Tarantino’s trophy, Sharon Stone fought with security, 2 reporters got into a fistfight, &amp; a criminal being chased by cops in the kitchen" title="The Wildest Oscar Party Ever: Courtney Love tried to bash someone’s head with Quentin Tarantino’s trophy, Sharon Stone fought with security, 2 reporters got into a fistfight, &amp; a criminal being chased by cops in the kitchen" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DamnThatsInsaneLol"> /u/DamnThatsInsaneLol </a> <br/> <span><a href="https://www.hollywoodreporter.com/movies/movie-features/look-back-1995-osc
+
+## would like to watch movies w someone
+ - [https://www.reddit.com/r/movies/comments/1j0xbpf/would_like_to_watch_movies_w_someone](https://www.reddit.com/r/movies/comments/1j0xbpf/would_like_to_watch_movies_w_someone)
+ - RSS feed: $source
+ - date published: 2025-03-01T11:19:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>hello all! I&#39;ve been into horror movies a lot lately and I feel like it could be nice to watch it with someone an discuss our thoughts after the movie! I have a few on my list that I want to watch, let me know if youd be interested ^^&#39;</p> <p>Baskin (2015)</p> <p>Black Christmas (1974)</p> <p>Possessor (2020)</p> <p>Aletered States (1980)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sluttyf3mb0y420"> /u/sluttyf3mb0y420 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1j0xbpf/would_like_to_watch_movies_w_someone/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1j0xbpf/would_like_to_watch_movies_w_someone/">[comments]</a></span>
+
+## I don’t get Anora
+ - [https://www.reddit.com/r/movies/comments/1j0x1ju/i_dont_get_anora](https://www.reddit.com/r/movies/comments/1j0x1ju/i_dont_get_anora)
+ - RSS feed: $source
+ - date published: 2025-03-01T10:59:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>I mean I get the movies story and stuff, but I don’t get why it is so popular and hyped. I personally thought the movie was good, not the 10/10 masterpiece I see people hail it to be. </p> <p>The camerawork was incredible, as well as the performances but I thought the story, while dealing with an important topic, was told in an extremely shallow way. I couldn’t connect to any of the characters and didn’t feel much during the entire movie. The only time I really thought „yeah this is great storytelling“ was that last scene in the car. </p> <p>So if anyone who really really loves Anora would explain to me why you do I‘d greatly appreciate it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Biomilch1"> /u/Biomilch1 </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1j0x1ju/i_dont_get_anora/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1j0x1ju/i_dont_get_anora/">[c
+
+## I think I am going back to physical media
+ - [https://www.reddit.com/r/movies/comments/1j0wtlf/i_think_i_am_going_back_to_physical_media](https://www.reddit.com/r/movies/comments/1j0wtlf/i_think_i_am_going_back_to_physical_media)
+ - RSS feed: $source
+ - date published: 2025-03-01T10:44:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just bought the Blu-ray discs for The Substance and Wicked. Because I loved them so much and I want to explore all the special features. Especially in the substance, as I am starting to learn filmmaking after being inspired by it, and how the director seamlessly incorporated elements from her favourite directors.</p> <p>In wicked I&#39;m excited for the cast commentary and singalong version.</p> <p>I will still use streaming services and... <em>Stuff</em>... But for my favourite movies and series I&#39;m going to get Blu-rays again wherever possible. </p> <p>I still have heaps of DVDs that I had to shove into those CD folders. I wish I had cases for them still.</p> <p>I feel as though streaming was great while it was affordable. And there are heaps of great original stuff on there. But we all complain about the ads now... And I agree... But my main gripe is the lack of special features. Unless it&#39;s one of their original shows. And then they can
+
+## Poster for 'Demon Slayer: Kimetsu no Yaiba Infinity Castle Chapter 1'
+ - [https://www.reddit.com/r/movies/comments/1j0wnp2/poster_for_demon_slayer_kimetsu_no_yaiba_infinity](https://www.reddit.com/r/movies/comments/1j0wnp2/poster_for_demon_slayer_kimetsu_no_yaiba_infinity)
+ - RSS feed: $source
+ - date published: 2025-03-01T10:32:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1j0wnp2/poster_for_demon_slayer_kimetsu_no_yaiba_infinity/"> <img src="https://preview.redd.it/1ms6vl8w22me1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=187687569f02006219f30d5a6be31981309ec0bb" alt="Poster for 'Demon Slayer: Kimetsu no Yaiba Infinity Castle Chapter 1'" title="Poster for 'Demon Slayer: Kimetsu no Yaiba Infinity Castle Chapter 1'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DemiFiendRSA"> /u/DemiFiendRSA </a> <br/> <span><a href="https://i.redd.it/1ms6vl8w22me1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1j0wnp2/poster_for_demon_slayer_kimetsu_no_yaiba_infinity/">[comments]</a></span> </td></tr></table>
+
+## The Highest-Paid Actors Of 2024 - The Rock Tops the List with $88M, Trailed by Reynolds ($85M), Kevin Hart ($81M), Jerry Seinfeld ($60M), And Hugh Jackman ($50M)
+ - [https://www.reddit.com/r/movies/comments/1j0ukux/the_highestpaid_actors_of_2024_the_rock_tops_the](https://www.reddit.com/r/movies/comments/1j0ukux/the_highestpaid_actors_of_2024_the_rock_tops_the)
+ - RSS feed: $source
+ - date published: 2025-03-01T08:02:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/movies/comments/1j0ukux/the_highestpaid_actors_of_2024_the_rock_tops_the/"> <img src="https://external-preview.redd.it/nMtZd62ygfqdkt6mXMPXtTovwCJqPrgqGaqY51z7bl0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a00e1f07624252c5b8968bc220ea12231dbb8c87" alt="The Highest-Paid Actors Of 2024 - The Rock Tops the List with $88M, Trailed by Reynolds ($85M), Kevin Hart ($81M), Jerry Seinfeld ($60M), And Hugh Jackman ($50M)" title="The Highest-Paid Actors Of 2024 - The Rock Tops the List with $88M, Trailed by Reynolds ($85M), Kevin Hart ($81M), Jerry Seinfeld ($60M), And Hugh Jackman ($50M)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Icy_Smoke_733"> /u/Icy_Smoke_733 </a> <br/> <span><a href="https://www.forbes.com/sites/mattcraig/2025/02/28/the-highest-paid-actors-of-2024/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1j0ukux/the_highestpaid_actors_of_2024_the_rock_tops
+
+## Best Examples of Bringing an Audience Up to Speed in a Movie
+ - [https://www.reddit.com/r/movies/comments/1j0ujc0/best_examples_of_bringing_an_audience_up_to_speed](https://www.reddit.com/r/movies/comments/1j0ujc0/best_examples_of_bringing_an_audience_up_to_speed)
+ - RSS feed: $source
+ - date published: 2025-03-01T08:00:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just finished watching Deepwater Horizon, which is generally fine, but one thing I really appreciated was the way it found to explain what was happening on Deepwater Horizon and what Marky Mark&#39;s company did, thus allowing the rest of the movie to be a lot easier to understand from both a technical and political perspective. Basically, an early scene has Marky Mark&#39;s young daughter practicing her speech for class on what her Dad does, with a Coke can as a demonstration. </p> <p>That got me wondering, in an era where so many movies seem to just plunk two characters down and have them talk about things that they are both already aware of solely for the audience&#39;s benefit (&quot;Wow, I can&#39;t believe it&#39;s been 5 years since you had that car accident where you lost your young son named Michael, after which your wife left you because she couldn&#39;t process her grief, and you moved back in with your estranged father....&quot;), do yo
+
+## Scenes that gives you goosebumps from movies you may not expect?
+ - [https://www.reddit.com/r/movies/comments/1j0t5c9/scenes_that_gives_you_goosebumps_from_movies_you](https://www.reddit.com/r/movies/comments/1j0t5c9/scenes_that_gives_you_goosebumps_from_movies_you)
+ - RSS feed: $source
+ - date published: 2025-03-01T06:24:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was watching Monsters University the other day, and there’s a scene near the end where Mike and Sully scare the adults at the camp, powering the door from the outside. The intensity of that moment caught me off guard, it actually gave me goosebumps.</p> <p>It got me thinking, what’s a scene from a movie that hit you way harder than expected? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PersonallyDifferent"> /u/PersonallyDifferent </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1j0t5c9/scenes_that_gives_you_goosebumps_from_movies_you/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1j0t5c9/scenes_that_gives_you_goosebumps_from_movies_you/">[comments]</a></span>
+
+## What is a really good movie that you can't watch because it's not available on any steaminng platforms?
+ - [https://www.reddit.com/r/movies/comments/1j0srwb/what_is_a_really_good_movie_that_you_cant_watch](https://www.reddit.com/r/movies/comments/1j0srwb/what_is_a_really_good_movie_that_you_cant_watch)
+ - RSS feed: $source
+ - date published: 2025-03-01T06:00:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just bought &#39;Drop Dead Gorgeous&#39; and &#39;Dead Alive&#39;. These are two examples of movies that I cannot find on any streaming platforms. With physical media starting to disapear isn&#39;t it scary that some great films may be lost in time? I want to start collecting films that are not readily available and maybe, find a way to share them with people. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DJDrRecommended"> /u/DJDrRecommended </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1j0srwb/what_is_a_really_good_movie_that_you_cant_watch/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1j0srwb/what_is_a_really_good_movie_that_you_cant_watch/">[comments]</a></span>
+
+## Movies to watch with my grandma?
+ - [https://www.reddit.com/r/movies/comments/1j0s7ci/movies_to_watch_with_my_grandma](https://www.reddit.com/r/movies/comments/1j0s7ci/movies_to_watch_with_my_grandma)
+ - RSS feed: $source
+ - date published: 2025-03-01T05:25:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am looking to watch a movie with my grandma, and wondering if people have some good suggestions. Nothing too graphic or violent, she likes movies that are a bit of an easy watch. Nothing too complex in storyline (she’s 85 and can get a bit lost). Nothing too silly either, something that does tug on the heartstrings a bit with good characters, told from a female perspective is nice too. </p> <p>Here are some examples of movies that she likes: - best exotic marigold hotel (2011, 2015) - calendar girls (2003) - guernsey literary and potato peel pie society (2018) - Brooklyn (2015) - she liked Downton Abbey (I know it’s a show) </p> <p>I appreciate all suggestions! I know my nana will be thrilled, and I love spending time with her. She’s 80% deaf now so we watch everything with closed captioning, snuggled close on her couch. I adore her. Thanks for helping bring a smile to her face ◡̈ </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://
+
+## Did 'The Boy Who Could Fly' just wreck anyone else's child mind? Just me?
+ - [https://www.reddit.com/r/movies/comments/1j0rblw/did_the_boy_who_could_fly_just_wreck_anyone_elses](https://www.reddit.com/r/movies/comments/1j0rblw/did_the_boy_who_could_fly_just_wreck_anyone_elses)
+ - RSS feed: $source
+ - date published: 2025-03-01T04:32:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was 9 years old when that movie came out, and it was an acid trip before I knew what an acid trip was. The kid could fly. </p> <p>Of course I also didn&#39;t get the metaphor in The Life of Pi (the book) until someone pointed it out to me, so maybe my mind is just too literal for the movie. The visuals of the roof scene haunted me for at least a decade. Just such a weird, weird movie. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/uncre8tv"> /u/uncre8tv </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1j0rblw/did_the_boy_who_could_fly_just_wreck_anyone_elses/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/movies/comments/1j0rblw/did_the_boy_who_could_fly_just_wreck_anyone_elses/">[comments]</a></span>
+
+## Source of a particular movie trope
+ - [https://www.reddit.com/r/movies/comments/1j0qv8a/source_of_a_particular_movie_trope](https://www.reddit.com/r/movies/comments/1j0qv8a/source_of_a_particular_movie_trope)
+ - RSS feed: $source
+ - date published: 2025-03-01T04:06:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>My wife and I noticed a particularly specific trope while watching Despicable Me 4 tonight. An old man with a dog is sitting in front of a remote gas station when an extraordinary vehicle (space ship, high tech car, huge bus, etc.) arrives. A regular person exits the vehicle to do normal gas station things while the old man stares in stunned silence and the dog usually runs to hide. It’s not the creepy gas attendant trope. It’s always done as a comedic moment. We were wondering where this trope started from. If this isn’t the place to ask, would you please point me in the right direction? I tried tvtropes but all I got from there is the creepy gas attendant trope.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DreadPirateZoidberg"> /u/DreadPirateZoidberg </a> <br/> <span><a href="https://www.reddit.com/r/movies/comments/1j0qv8a/source_of_a_particular_movie_trope/">[link]</a></span> &#32; <span><a href="https://
+
+## "Why you flanking me?" What films and tv shows hit with the intensity of this scene from Wind River?
+ - [https://www.reddit.com/r/movies/comments/1j0ppbt/why_you_flanking_me_what_films_and_tv_shows_hit](https://www.reddit.com/r/movies/comments/1j0ppbt/why_you_flanking_me_what_films_and_tv_shows_hit)
+ - RSS feed: $source
+ - date published: 2025-03-01T03:01:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m an avid movie/tv junky and have been since my teen years in the 80&#39;s&#39;.</p> <p>There are a number of films that i rewatch, usually about once a year, and a few weeks ago I watched <strong>Wind River</strong> (2017) and it still impresses me as such a great film. I was thinking about other films and tv shows that have intense scenes like the flanking scene, and came up with a few. I&#39;m posting to see what ya&#39;ll can add to my small list so far.</p> <p><strong>13 Hours: The Secret Soldiers of Benghazi</strong> (2016)<br/> - I&#39;m watching this right now and the movie manages to maintain such intensity throughout, i just love it.</p> <p><strong>Sicario</strong> (2015)<br/> - The border crossing scene is so great.</p> <p><strong>Heat</strong> (1995)<br/> - I haven&#39;t rewatched in a while, but i do remember the big shoot-out scene as being pretty intense. It&#39;s time for a rewatch i think.</p> <p><strong>Bone Tomahawk</strong> 
+
+## In the Kingdom of Heaven (2005) Director’s Cut, the priest at the beginning who buried Balian’s wife and steals her necklace is actually his brother. This and other vastly important details are left out of the theatrical edition to make the movie short enough for viewers.
+ - [https://www.reddit.com/r/movies/comments/1j0mpkw/in_the_kingdom_of_heaven_2005_directors_cut_the](https://www.reddit.com/r/movies/comments/1j0mpkw/in_the_kingdom_of_heaven_2005_directors_cut_the)
+ - RSS feed: $source
+ - date published: 2025-03-01T00:25:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>The original movie was cut greatly to appease Fox for standard viewers. The movie may as well be two different films. Ridley Scott’s Director’s cut has clarity, pace, and depth. The theatrical edition is a hack and slash film cut to have a start and an end. I recommend the first if you want to be on the edge of your seat for 3 hours! </p> <p>Other missing details: </p> <p><span class="md-spoiler-text">Balian and his wife lost a baby in the beginning, she killed herself because of it, Balian was placed in custody for madness in his grief. He burned the baby’s unfinished shirt she had been sewing before killing his brother in a rage. This shows why he felt he had nothing left and went on the crusade. Also, Balian had other family in the crusades, including his uncles! His father’s backstory is further discussed and there is an entire plot about Sybilla and her son being king Baldwin that is left out</span></p> </div><!-- SC_ON --> &#32; submitted by &#
+

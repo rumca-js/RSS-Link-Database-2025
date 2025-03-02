@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-01T12:30:00+00:00",
+        "description": "The story of *the* diva Mariah Carey, a twisty novel of murder and family secrets, Hilary Mantel's WOLF HALL, and more of the best deals of the day.",
+        "id": 2223642,
+        "language": "en-US",
+        "link": "https://bookriot.com/book-riots-deals-of-the-day-for-march-1-2024-2",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 30,
+        "source_url": "https://bookriot.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://s2982.pcdn.co/wp-content/uploads/2025/02/deals-030125.jpg.optimal.jpg",
+        "title": "Book Riot\u2019s Deals of the Day for March 1, 2024",
+        "vote": 0
+    }
+]

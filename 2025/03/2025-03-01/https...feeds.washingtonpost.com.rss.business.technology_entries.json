@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-01T11:35:00+00:00",
+        "description": "Minnesota regulators denied Amazon\u2019s request to exempt a data center\u2019s 250 backup generators from a permitting process that includes reviewing pollution levels.",
+        "id": 2223412,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2025/03/01/amazon-data-center-minnesota-diesel-generators",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Amazon loses fight to exempt data center from energy regulation",
+        "vote": 0
+    }
+]

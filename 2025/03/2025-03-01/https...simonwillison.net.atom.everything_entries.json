@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Simon Willison",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-01T01:20:22+00:00",
+        "description": null,
+        "id": 2221330,
+        "language": null,
+        "link": "https://simonwillison.net/2025/Mar/1/llm-anthropic/#atom-everything",
+        "manual_status_code": 0,
+        "page_rating": 28,
+        "page_rating_contents": 87,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 423,
+        "source_url": "https://simonwillison.net/atom/everything",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "llm-anthropic #24: Use new URL parameter to send attachments",
+        "vote": 0
+    }
+]

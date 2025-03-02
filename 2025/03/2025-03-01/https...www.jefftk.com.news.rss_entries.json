@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-01T08:00:00+00:00",
+        "description": "<p><span>\n\nFor a while (</span>\n\n<a href=\"https://www.jefftk.com/p/dance-weekend-and-festival-survey\">2014</a>,\n\n\n<a href=\"https://www.jefftk.com/p/festival-stats-2015\">2015</a>, \n\n<a href=\"https://www.jefftk.com/p/festival-stats-2016\">2016</a>, \n\n<a href=\"https://www.jefftk.com/p/festival-stats-2017\">2017</a>, \n\n<a href=\"https://www.jefftk.com/p/festival-stats-2018\">2018</a>, \n\n<a href=\"https://www.jefftk.com/p/festival-stats-2019\">2019</a>, \n\n<a href=\"https://www.jefftk.com/p/festival-stats-2023\">2023</a>, \n\n<a href=\"https://www.jefftk.com/p/festival-stats-2024\">2024</a>) I've been\ncounting how often various contra bands and callers are being booked\nfor larger [1] events.  Initially, I would run some scripts, typically\nstarting from scratch each time because I didn't remember what I did\nlast time, but after extending \n\n<a href=\"https://trycontra.com\">TryContra</a> to \n\n<a href=\"https://www.jefftk.com/p/trycontra-events\">support events\nlistings</a>, I automated this process. This al",
+        "id": 2224193,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/real-time-gigstats",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Real-Time Gigstats",
+        "vote": 0
+    }
+]

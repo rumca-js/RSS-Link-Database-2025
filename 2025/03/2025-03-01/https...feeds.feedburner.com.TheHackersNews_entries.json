@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-01T09:10:19+00:00",
+        "description": "Firefox browser maker Mozilla on Friday updated its Terms of Use a second time within a week following criticism overbroad language that appeared to give the company the rights to all information uploaded by users.\nThe revised Terms of Use now states -\nYou give Mozilla the rights necessary to operate Firefox. This includes processing your data as we describe in the Firefox Privacy Notice. It",
+        "id": 2222826,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2025/03/mozilla-updates-firefox-terms-again.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Mozilla Updates Firefox Terms Again After Backlash Over Broad Data License Language",
+        "vote": 0
+    }
+]

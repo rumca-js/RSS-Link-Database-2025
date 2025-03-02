@@ -1,0 +1,121 @@
+# Source:Search Engine Optimization: The Latest SEO News, URL:https://www.reddit.com/r/SEO/.rss, language:en
+
+## Which tool is most accurate for keyword difficulty ranking?
+ - [https://www.reddit.com/r/SEO/comments/1j19o0u/which_tool_is_most_accurate_for_keyword](https://www.reddit.com/r/SEO/comments/1j19o0u/which_tool_is_most_accurate_for_keyword)
+ - RSS feed: $source
+ - date published: 2025-03-01T21:01:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Seeing wide variations in keyword difficulty comparing ahrefs semrush and wordstream. </p> <p>I’m looking to purchase a subscription but would like to know which tool is most accurate for keyword difficulty? And is there a difference for local keyword difficulty accuracy? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Magickarploco"> /u/Magickarploco </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1j19o0u/which_tool_is_most_accurate_for_keyword/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1j19o0u/which_tool_is_most_accurate_for_keyword/">[comments]</a></span>
+
+## I see in reddit and on dB people are leaving seo or losing interest in it. Harsh algo updates are the main reason.
+ - [https://www.reddit.com/r/SEO/comments/1j162vx/i_see_in_reddit_and_on_db_people_are_leaving_seo](https://www.reddit.com/r/SEO/comments/1j162vx/i_see_in_reddit_and_on_db_people_are_leaving_seo)
+ - RSS feed: $source
+ - date published: 2025-03-01T18:24:29+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/maityonline84"> /u/maityonline84 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1j162vx/i_see_in_reddit_and_on_db_people_are_leaving_seo/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1j162vx/i_see_in_reddit_and_on_db_people_are_leaving_seo/">[comments]</a></span>
+
+## age blocked by robots.txt . The SEO guy I hired says I just need more back links however the indexed pages on Google dropped over 5x just after he started doing work on the site. Is he talking garbage?
+ - [https://www.reddit.com/r/SEO/comments/1j15khp/age_blocked_by_robotstxt_the_seo_guy_i_hired_says](https://www.reddit.com/r/SEO/comments/1j15khp/age_blocked_by_robotstxt_the_seo_guy_i_hired_says)
+ - RSS feed: $source
+ - date published: 2025-03-01T18:03:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I got someone to design me an Ecwid store which all went fine. I started adding items onto it and google was slowly indexing these. I then hired someone to do the SEO. They starting doing their work and over night the number of indexed pages fell from 30 indexed and 28 not indexed to 6 indexed and 53 not indexed. I have now added more product pages so there are over 150 pages on the site however no change to the pages Google has indexed.</p> <p>They are telling me I just need to buy back links from them and wait however when I run URL checks in Google Search Console it is telling me “Page cannot be crawled: Blocked by robots.txt”. I’m using Ecwid. What am I supposed to do / believe?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TerribleFruit"> /u/TerribleFruit </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1j15khp/age_blocked_by_robotstxt_the_seo_guy_i_hired_says/">[link]</a></span> &#32; <spa
+
+## Google's search system is really simple
+ - [https://www.reddit.com/r/SEO/comments/1j13mut/googles_search_system_is_really_simple](https://www.reddit.com/r/SEO/comments/1j13mut/googles_search_system_is_really_simple)
+ - RSS feed: $source
+ - date published: 2025-03-01T16:41:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Reposting this from an AMA by Google&#39;s Gary Ylles<br/> <a href="https://www.reddit.com/r/TechSEO/comments/ao3fmk/i_am_gary_illyes_googles_chief_of_sunshine_and/">https://www.reddit.com/r/TechSEO/comments/ao3fmk/i_am_gary_illyes_googles_chief_of_sunshine_and/</a></p> <p>Hey Lyndon!</p> <p>I&#39;ll answer this quickly because I&#39;m waiting for a plane and I&#39;m bored (I&#39;m supposed to answer questions tomorrow).</p> <p>RankBrain is a PR-sexy machine learning ranking component that uses historical search data to predict what would a user most likely click on for a previously unseen query. It is a really cool piece of engineering that saved our butts countless times whenever traditional algos were like, e.g. &quot;oh look a &quot;not&quot; in the query string! let&#39;s ignore the hell out of it!&quot;, but it&#39;s generally just relying on (sometimes) months old data about what happened on the results page itself, not on the landing page. Dw
+
+## Every Friday or Saturday my new articles are never indexed, they are crawled but not indexed.
+ - [https://www.reddit.com/r/SEO/comments/1j12taz/every_friday_or_saturday_my_new_articles_are](https://www.reddit.com/r/SEO/comments/1j12taz/every_friday_or_saturday_my_new_articles_are)
+ - RSS feed: $source
+ - date published: 2025-03-01T16:06:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have a sports blog its 10 years old, none of my articles are indexed until after a sporting event is over. I posted an article while attending a basketball game, live updated and even had some commentary, to see if it was indexed I usually cut and paste the link and search it in Google and it shows up blank. Then I log into google search console it says crawled not indexed.</p> <p>This only happens on Friday or Saturday. I spent my own money to attend this game and bust my butt to post an article and its not indexed. this has been happening for the past year or so.</p> <p>I searched the same game and I saw a Rolling Stone article titled ^^ Live STREAM FREE LAKERS vs CLIPPERS^^ in top stories and it was all spam parasite garbage, plus why is a music site ranking for a sports niche smh</p> <p>Then I check my article on Sunday its indexed, so I lost all possible traffic flow</p> <p>I think Ill just focus on YouTube since I had some interviews, bloggin
+
+## The last word on Mr Brian Styles
+ - [https://www.reddit.com/r/SEO/comments/1j12ma4/the_last_word_on_mr_brian_styles](https://www.reddit.com/r/SEO/comments/1j12ma4/the_last_word_on_mr_brian_styles)
+ - RSS feed: $source
+ - date published: 2025-03-01T15:57:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/SEO/comments/1j12ma4/the_last_word_on_mr_brian_styles/"> <img src="https://b.thumbs.redditmedia.com/McRqSvxVzTb9m9bS5JiMlvY-I1IdrPT7Mpzi2-kx1jU.jpg" alt="The last word on Mr Brian Styles" title="The last word on Mr Brian Styles" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This last post was just another weak attempt at re-instating EEAT - and starting some attack against another member here - someone who has commented on far more rookie questions that he has written on Reddit full stop.</p> <p>The thanks are evident in my comments section whereever there is a &quot;you&#39;re welcome&quot; gif or the 10to 20 DMsI get everyday from SMEs who post questions htere that I help that I do not charge for.</p> <p>But for the folks who think like this deranged idiot:</p> <p><a href="https://preview.redd.it/moq3h7two3me1.png?width=1027&amp;format=png&amp;auto=webp&amp;s=92c38aca4cf26935d05c617a3930632550c8e394">https://preview.redd.it/m
+
+## Reinstated as a Service Area Business - Want To Hire A Good SEO Firm
+ - [https://www.reddit.com/r/SEO/comments/1j121i7/reinstated_as_a_service_area_business_want_to](https://www.reddit.com/r/SEO/comments/1j121i7/reinstated_as_a_service_area_business_want_to)
+ - RSS feed: $source
+ - date published: 2025-03-01T15:32:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been self employed for 22 years in the lawn care industry. We service 4 towns, about 100 square miles, 8 zip codes. We have about 1,100 clients. We have 120 Google reviews, with an average of 4.6 stars.</p> <p>When I hired an SEO guy around 20 years ago, he charged a one time fee and set up my Google Business Profile. We told Google the business was operated out of my house and every spring, from my home, I&#39;d type &quot;lawn care&quot; or &quot;lawn service&quot; in Google and I&#39;d be in the Google 3-pack 90% of the time.</p> <p>Last May, it was raining every day, my schedules were full, I was turning down business. Multiple new inquiries per day. My wife checks for new 1-star reviews daily and one morning, she said she couldn&#39;t find us on Google. The phone stopped ringing instantly. My Google Business Profile was suspended.</p> <p>I hired a professional out of Ireland to dot every i and cross every t. After waiting for a utility bi
+
+## How do link building agencies function?
+ - [https://www.reddit.com/r/SEO/comments/1j0yznb/how_do_link_building_agencies_function](https://www.reddit.com/r/SEO/comments/1j0yznb/how_do_link_building_agencies_function)
+ - RSS feed: $source
+ - date published: 2025-03-01T13:03:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>A lot of link building agencies work on ABC link exchange. But what confuses me is how do they work? In the sense that If I find a website (site b) that links to my client website (site a), then I have to provide a link to site b to another website like site c, but why will site c link to me? Because I provide them link back to another site like site d, so this is a never ending cycle?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DogUseful3121"> /u/DogUseful3121 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1j0yznb/how_do_link_building_agencies_function/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1j0yznb/how_do_link_building_agencies_function/">[comments]</a></span>
+
+## Should I continue in this field suggest????
+ - [https://www.reddit.com/r/SEO/comments/1j0urwn/should_i_continue_in_this_field_suggest](https://www.reddit.com/r/SEO/comments/1j0urwn/should_i_continue_in_this_field_suggest)
+ - RSS feed: $source
+ - date published: 2025-03-01T08:17:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I&#39;m in my last year of bba and did my digital marketing course and doing a internship as an SEO (8k stipend indian rs ) it will over in April 14 in a pvt Itd. So I had asked the hr that if I would like to retain in this company how much would be my salary so they said 10k indian rs i was like it is to low for me as I had spent a lot in my studies suggest me quys that should I continue in this field or change the field also suggest me my salary expectations in this field as an freshers</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IndependentMarket586"> /u/IndependentMarket586 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1j0urwn/should_i_continue_in_this_field_suggest/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1j0urwn/should_i_continue_in_this_field_suggest/">[comments]</a></span>
+
+## Backlinks vs Engagement - what's more important
+ - [https://www.reddit.com/r/SEO/comments/1j0ue3r/backlinks_vs_engagement_whats_more_important](https://www.reddit.com/r/SEO/comments/1j0ue3r/backlinks_vs_engagement_whats_more_important)
+ - RSS feed: $source
+ - date published: 2025-03-01T07:50:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Website A is ranking 1 for the keyword</p> <p>Website B gets a bunch of backlinks, some exact match, for the keyword, bringing it to position 1</p> <p>Website A has a higher time on site, users engaging with the content, clicking links on the page, AND LESS searchers returning to the search results to keep looking</p> <p>Does Website B eventually go down to position 2?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Infinite_Whisper"> /u/Infinite_Whisper </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1j0ue3r/backlinks_vs_engagement_whats_more_important/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1j0ue3r/backlinks_vs_engagement_whats_more_important/">[comments]</a></span>
+
+## Lets exchange views and review each other's site
+ - [https://www.reddit.com/r/SEO/comments/1j0u7un/lets_exchange_views_and_review_each_others_site](https://www.reddit.com/r/SEO/comments/1j0u7un/lets_exchange_views_and_review_each_others_site)
+ - RSS feed: $source
+ - date published: 2025-03-01T07:37:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>send me your site through personal message i ll do the same lets grow</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Logical_Ant2223"> /u/Logical_Ant2223 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1j0u7un/lets_exchange_views_and_review_each_others_site/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1j0u7un/lets_exchange_views_and_review_each_others_site/">[comments]</a></span>
+
+## Keywords that have a huge volume but they aren't related to any authentic thing.
+ - [https://www.reddit.com/r/SEO/comments/1j0sdte/keywords_that_have_a_huge_volume_but_they_arent](https://www.reddit.com/r/SEO/comments/1j0sdte/keywords_that_have_a_huge_volume_but_they_arent)
+ - RSS feed: $source
+ - date published: 2025-03-01T05:36:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi. I am a writer working with an SEO expert to run a blog. He gives me keywords that apparently has a lot of search volume but when I research about them, they&#39;re not related to any authentic platform, site, etc. All I find are AI-generated blog posts that do not even explain the keyword properly. My question is, if these keywords aren&#39;t related to any authentic thing, why thousands of people are searching for them (looking at their search volume)? We try to use keywords that have, of course, high volume to get traffic. But as a writer, i find it hard to write quality content on something that doesn&#39;t even exist. Can any of you guys clear up my confusion?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Strong_Tax1466"> /u/Strong_Tax1466 </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1j0sdte/keywords_that_have_a_huge_volume_but_they_arent/">[link]</a></span> &#32; <span><a href="http
+
+## Most "SEOs" here act like they know everything. I'm here to say that they don't.
+ - [https://www.reddit.com/r/SEO/comments/1j0s0e0/most_seos_here_act_like_they_know_everything_im](https://www.reddit.com/r/SEO/comments/1j0s0e0/most_seos_here_act_like_they_know_everything_im)
+ - RSS feed: $source
+ - date published: 2025-03-01T05:13:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>To the haters and naysayers: downvote this. I don&#39;t care. This post is really for those who know nothing about SEO and come here for advice. Be wary of what you read here, be patient, learn everything you can yourself, and experiment, experiment, experiment.</p> <p>For context: I started off as a web developer in 2001 (primarily backend, some frontend, had a design partner for a long time that did the layouts + graphics). I transitioned into &quot;SEO&quot; and digital marketing in 2004 when my web design clients began asking me how they could show up on Page 1 of Google. 21 years later and I&#39;m now here.</p> <p>I&#39;ve noticed several things, much of it recently, about SEOs in the industry today. Most don&#39;t know how to code, they&#39;re stuck in the old days of SEO, or they just plain think they know everything about how Google works because they&#39;ve been &quot;doing it for a long time.&quot;</p> <p>In my 20+ years of working in digit
+
+## How long until new websites starts generating more views?
+ - [https://www.reddit.com/r/SEO/comments/1j0or8r/how_long_until_new_websites_starts_generating](https://www.reddit.com/r/SEO/comments/1j0or8r/how_long_until_new_websites_starts_generating)
+ - RSS feed: $source
+ - date published: 2025-03-01T02:11:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Im not new to SEO I worked in that field for a year (started with internship and continued to work there) but I never had a chance to build a website from scratch and make it rank. It&#39;s been now a month and I have around 150 views with 20+ articles. I thought that maybe I have thin content so I started optimizing it but none of them rank. </p> <p>This is new domain and I&#39;m wondering how normally it takes for the website to start ranking </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hairsearching"> /u/hairsearching </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1j0or8r/how_long_until_new_websites_starts_generating/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1j0or8r/how_long_until_new_websites_starts_generating/">[comments]</a></span>
+
+## GSC stopped collecting data when I connected my website to analytics
+ - [https://www.reddit.com/r/SEO/comments/1j0oj1u/gsc_stopped_collecting_data_when_i_connected_my](https://www.reddit.com/r/SEO/comments/1j0oj1u/gsc_stopped_collecting_data_when_i_connected_my)
+ - RSS feed: $source
+ - date published: 2025-03-01T01:59:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>My website was getting views (not much since its new) daily on gsc and suddenly after 14 February it stopped and I kept wondering what happened until I saw that analytics has data from 14th feb till now. I also connected google site kit around the same time. What can I do to see data in my GSC again?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hairsearching"> /u/hairsearching </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1j0oj1u/gsc_stopped_collecting_data_when_i_connected_my/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1j0oj1u/gsc_stopped_collecting_data_when_i_connected_my/">[comments]</a></span>
+
+## Changing the actual from subdomain to domain affects SEO?
+ - [https://www.reddit.com/r/SEO/comments/1j0nxm4/changing_the_actual_from_subdomain_to_domain](https://www.reddit.com/r/SEO/comments/1j0nxm4/changing_the_actual_from_subdomain_to_domain)
+ - RSS feed: $source
+ - date published: 2025-03-01T01:27:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>My client previously had a presentation website and I built for him an eCommerce on a subdomain of the main domain. He now decided that he wants to change the store from the subdomain, to replace the existing presentation page on the main domain. The store has a good SEO score and is always displayed as sub-website under the main domain when googled for. Should I be concerned that it will affect indexing or lose score from the main domain if we make this move?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Bobitz_ElProgrammer"> /u/Bobitz_ElProgrammer </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1j0nxm4/changing_the_actual_from_subdomain_to_domain/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1j0nxm4/changing_the_actual_from_subdomain_to_domain/">[comments]</a></span>
+
+## Custom website = Google ranking signal?
+ - [https://www.reddit.com/r/SEO/comments/1j0mbsi/custom_website_google_ranking_signal](https://www.reddit.com/r/SEO/comments/1j0mbsi/custom_website_google_ranking_signal)
+ - RSS feed: $source
+ - date published: 2025-03-01T00:06:55+00:00
+
+<!-- SC_OFF --><div class="md"><p>Anyone out there think that having a fully custom website is a Google ranking signal?</p> <p>The reason I&#39;m wondering -- there&#39;s a new player in my niche (~6 months). They have none of the &quot;conventional&quot; ranking signals. Zero backlinks. Content is brand new. Fails all speed tests. They&#39;re still building up their content clusters.</p> <p>And yet, they&#39;re already ranking in the top 3 for extremely competitive keywords.</p> <p>However! They have a fully custom website. Is that a signal to Google that this a serious, professional website?</p> <p>I mean, Wirecutter ain&#39;t using WordPress.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/helicoptermtngoat"> /u/helicoptermtngoat </a> <br/> <span><a href="https://www.reddit.com/r/SEO/comments/1j0mbsi/custom_website_google_ranking_signal/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/SEO/comments/1j0mbsi/custom_website_googl
+

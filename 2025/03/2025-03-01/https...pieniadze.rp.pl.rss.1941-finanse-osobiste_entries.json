@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-01T07:00:00+00:00",
+        "description": "Wielu ma\u0142\u017conk\u00f3w prowadzi wsp\u00f3lne konto bankowe. Czy umowa rachunku wygasa wraz ze \u015bmierci\u0105 jednego z nich?",
+        "id": 2223651,
+        "language": "pl-PL",
+        "link": "https://pieniadze.rp.pl/finanse-domowe/art41842511-smierc-malzonka-a-wspolne-konto-czy-wdowa-lub-wdowiec-moze-korzystac-z-pieniedzy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u015amier\u0107 ma\u0142\u017conka a wsp\u00f3lne konto: czy wdowa lub wdowiec mo\u017ce korzysta\u0107 z pieni\u0119dzy?",
+        "vote": 0
+    }
+]

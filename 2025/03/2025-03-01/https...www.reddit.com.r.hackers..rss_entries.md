@@ -1,0 +1,30 @@
+# Source:Hackers, URL:https://www.reddit.com/r/hackers/.rss, language:en
+
+## Having a problem with someone accessing a Prime video account, creating a profile and locking it so the owner can’t access it.
+ - [https://www.reddit.com/r/hackers/comments/1j19oox/having_a_problem_with_someone_accessing_a_prime](https://www.reddit.com/r/hackers/comments/1j19oox/having_a_problem_with_someone_accessing_a_prime)
+ - RSS feed: $source
+ - date published: 2025-03-01T21:02:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>My dad and his ex are still friends and she logged his tv into her Prime account a long time ago when they were still together, and was ok with him using it. He is NOT tech savvy at all, or dishonest. He has a new woman living with him who seems to have gone into that account and not only removed his exes profile, but found a way to create her own profile that she created a passcode for and locked. </p> <p>So now my dad’s ex was told by Amazon that because she gave someone access to the account a long time ago, there is no way to remove that other person’s locked profile without deleting her entire account. It won’t even show that other profile when she goes to the manage profiles section and because there was a password made for it that she doesn’t know, there is no option to enter the profile. Is there something her or Amazon are missing? It seems crazy that someone could lock someone out of accessing anything on their own account that they pay for
+
+## How to Bypass Blacklisted Characters
+ - [https://www.reddit.com/r/hackers/comments/1j114j2/how_to_bypass_blacklisted_characters](https://www.reddit.com/r/hackers/comments/1j114j2/how_to_bypass_blacklisted_characters)
+ - RSS feed: $source
+ - date published: 2025-03-01T14:51:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I want to chain commands but there are some restrictions, my first command has to be ls and I can only use letters, numbers, underscore and / after ls.</p> <p>So ls / is valid ls is valid ls ; echo Is invalid due to ; ls /Dum Folder Is invalid due to space </p> <p>So all special characters are blocked even space is blocked Does anyone have any possible solution?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/krugal1"> /u/krugal1 </a> <br/> <span><a href="https://www.reddit.com/r/hackers/comments/1j114j2/how_to_bypass_blacklisted_characters/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hackers/comments/1j114j2/how_to_bypass_blacklisted_characters/">[comments]</a></span>
+
+## PoC Showcase: Undetected, - Anti-Forensic and Recovery-Resistant System Wiper
+ - [https://www.reddit.com/r/hackers/comments/1j0y867/poc_showcase_undetected_antiforensic_and](https://www.reddit.com/r/hackers/comments/1j0y867/poc_showcase_undetected_antiforensic_and)
+ - RSS feed: $source
+ - date published: 2025-03-01T12:18:13+00:00
+
+<!-- SC_OFF --><div class="md"><h1>Hey everyone, meet Nemesis.</h1> <p>This is my latest PoC which explores methods to disrupt forensic recovery techniques, disable remediation options, and counter incident response efforts after initial infection.</p> <p>I designed this to be lethal, quick, and stealthy, making recovery nearly impossible / painful.</p> <p><strong>Some of the Features(not in-depth due to the nature of this PoC):</strong><br/> Privilege escalation from Admin.<br/> Detection Evasion - No telemetry, No static analysis, No behavioral detection.<br/> Sandbox Detection.<br/> Timestomping and $MFT Manipulation.<br/> NTFS Junctions, ADS.<br/> Log Pollution.<br/> Corrupts MBR and GP Table.<br/> Deletes Restore Points, Backupdata and Shadow copies.<br/> Stops all logging services and wipes all logs it finds.<br/> Wipes Registry Hives.<br/> UEFI Corruption - Engages only if a vulnerability is detected.<br/> Disables USB/CD/PXE Boot - blocking all external recovery methods.<br/>
+
+## I’m paranoid someone has hacked my phone?
+ - [https://www.reddit.com/r/hackers/comments/1j0t0hr/im_paranoid_someone_has_hacked_my_phone](https://www.reddit.com/r/hackers/comments/1j0t0hr/im_paranoid_someone_has_hacked_my_phone)
+ - RSS feed: $source
+ - date published: 2025-03-01T06:16:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know that this sounds crazy, but is there any way that someone could possibly hack my phone without me knowing. It’s not doing anything strange, I just notice a clear dot sometimes at the top of the screen. My Bluetooth is never on and I always have my WiFi off. Is it possible that someone could hack me if we are sharing the same WiFi?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/krissybxo"> /u/krissybxo </a> <br/> <span><a href="https://www.reddit.com/r/hackers/comments/1j0t0hr/im_paranoid_someone_has_hacked_my_phone/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hackers/comments/1j0t0hr/im_paranoid_someone_has_hacked_my_phone/">[comments]</a></span>
+

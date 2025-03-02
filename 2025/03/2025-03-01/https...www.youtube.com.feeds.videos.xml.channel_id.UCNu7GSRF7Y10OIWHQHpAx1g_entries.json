@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "BezPlanu",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-01T19:19:15+00:00",
+        "description": "Ca\u0142y odcinek: https://www.youtube.com/watch?v=tc8wc5AL3oI",
+        "id": 2225874,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=sr7JjALVBmg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 36,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNu7GSRF7Y10OIWHQHpAx1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sr7JjALVBmg/hqdefault.jpg",
+        "title": "Miks socjalizmy i kapitalizmu - Singapur",
+        "vote": 0
+    }
+]
