@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-02T04:34:30+00:00",
+        "description": "A photojournalist narrates his experience of capturing the world's biggest religious gathering for decades.",
+        "id": 2227377,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/videos/c4gee1zz1klo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e5/live/0cc99c40-f5c0-11ef-9e61-71ee71f26eb1.jpg",
+        "title": "Meet a photographer who's covered India's Kumbh Mela for 30 years",
+        "vote": 0
+    }
+]

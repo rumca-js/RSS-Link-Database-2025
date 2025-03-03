@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-02T20:30:00+00:00",
+        "description": "QR phishing is on the rise, tricking users into scanning malicious QR codes. Learn how cybercriminals exploit QR codes and how to protect yourself.",
+        "id": 2231597,
+        "language": "en-US",
+        "link": "https://hackread.com/rise-of-qr-phishing-how-scammers-exploit-qr-codes",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Rise of QR Phishing: How Scammers Exploit QR Codes and How to Stay Safe",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-02T14:00:21+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/PrShvhw1dNw\" width=\"480\" alt=\"thumbnail\" title=\"Free Software Is About Freedom...Not Cost!\" /></p>So there still seems to be a sizable portion of the free and open source community that still doesn't know what \"free software\" or \"open source software\" actually mean.  Neither term has anything to do with the cost of the software.  In fact, price is not a factor at all!<br /><br />REFERENCED:<br />\u25ba The Free Software Definition - https://www.gnu.org/philosophy/free-sw.en.html#four-freedoms<br />\u25ba The Open Source Definition - https://opensource.org/osd<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJWVnpQd3xBQ3Jtc0tsLVZJc19YeFlwZ2JqbXVOa3g0Skw4TVhTV2otNm1tM3A1bUNnamh3S2V6OGQtLTBnSjBxYTlvUXMxeEVIS3o4US10NENHMUQ3STk2a01FOFBhUnZjZFctMEhFUTg1TVctQmFfVUdxZXJ4TDl0azlYNA&q=https%3A%2F%2Fwww.",
+        "id": 2229459,
+        "language": "en",
+        "link": "https://odysee.com/free-software-is-about-freedom...not:3daf3fa1fafcd9e3425b14c6275ed2ade5ad0382",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Free Software Is About Freedom...Not Cost!",
+        "vote": 0
+    }
+]

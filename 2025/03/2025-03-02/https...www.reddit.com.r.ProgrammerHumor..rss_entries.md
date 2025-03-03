@@ -1,0 +1,170 @@
+# Source:memesAndJokesAboutEverythingProgrammingAndCS, URL:https://www.reddit.com/r/ProgrammerHumor/.rss, language:
+
+## iCanSleepPeacefullyNow
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j23mz4/icansleeppeacefullynow](https://www.reddit.com/r/ProgrammerHumor/comments/1j23mz4/icansleeppeacefullynow)
+ - RSS feed: $source
+ - date published: 2025-03-02T22:39:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j23mz4/icansleeppeacefullynow/"> <img src="https://preview.redd.it/uzaftmujtcme1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2bdcbe2ac51c11c0994efc805ea89cd25efb67a" alt="iCanSleepPeacefullyNow" title="iCanSleepPeacefullyNow" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Vortex876543"> /u/Vortex876543 </a> <br/> <span><a href="https://i.redd.it/uzaftmujtcme1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j23mz4/icansleeppeacefullynow/">[comments]</a></span> </td></tr></table>
+
+## insecure
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j22yvq/insecure](https://www.reddit.com/r/ProgrammerHumor/comments/1j22yvq/insecure)
+ - RSS feed: $source
+ - date published: 2025-03-02T22:10:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j22yvq/insecure/"> <img src="https://preview.redd.it/l1qxewveocme1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2671fb75dd53ffec799ea8e182c8fdfe04287695" alt="insecure" title="insecure" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/notomarsol"> /u/notomarsol </a> <br/> <span><a href="https://i.redd.it/l1qxewveocme1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j22yvq/insecure/">[comments]</a></span> </td></tr></table>
+
+## aiProgrammers
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j22dn6/aiprogrammers](https://www.reddit.com/r/ProgrammerHumor/comments/1j22dn6/aiprogrammers)
+ - RSS feed: $source
+ - date published: 2025-03-02T21:45:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j22dn6/aiprogrammers/"> <img src="https://preview.redd.it/vvpi8gxxjcme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2bedab45578aaa45eee0fade472b5c979d36e4ee" alt="aiProgrammers" title="aiProgrammers" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/matfat55"> /u/matfat55 </a> <br/> <span><a href="https://i.redd.it/vvpi8gxxjcme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j22dn6/aiprogrammers/">[comments]</a></span> </td></tr></table>
+
+## ripFirefox
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j22bhd/ripfirefox](https://www.reddit.com/r/ProgrammerHumor/comments/1j22bhd/ripfirefox)
+ - RSS feed: $source
+ - date published: 2025-03-02T21:43:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j22bhd/ripfirefox/"> <img src="https://preview.redd.it/6000yjtbjcme1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=322f75429b1e75d51db967202ea4ab141263b619" alt="ripFirefox" title="ripFirefox" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RockJoonLee"> /u/RockJoonLee </a> <br/> <span><a href="https://i.redd.it/6000yjtbjcme1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j22bhd/ripfirefox/">[comments]</a></span> </td></tr></table>
+
+## whichOne
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j20hz7/whichone](https://www.reddit.com/r/ProgrammerHumor/comments/1j20hz7/whichone)
+ - RSS feed: $source
+ - date published: 2025-03-02T20:26:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j20hz7/whichone/"> <img src="https://preview.redd.it/tziz9omr5cme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a34fca939dda2c6fafee2296a6673792a803d49b" alt="whichOne" title="whichOne" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ManagerOfLove"> /u/ManagerOfLove </a> <br/> <span><a href="https://i.redd.it/tziz9omr5cme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j20hz7/whichone/">[comments]</a></span> </td></tr></table>
+
+## meEverytimeIPlayAGame
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1zy1s/meeverytimeiplayagame](https://www.reddit.com/r/ProgrammerHumor/comments/1j1zy1s/meeverytimeiplayagame)
+ - RSS feed: $source
+ - date published: 2025-03-02T20:03:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1zy1s/meeverytimeiplayagame/"> <img src="https://preview.redd.it/oy9kqnvm1cme1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d3bb86f5f6510fc3036d1125007394140a31ab78" alt="meEverytimeIPlayAGame" title="meEverytimeIPlayAGame" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ProfessionalFlan8524"> /u/ProfessionalFlan8524 </a> <br/> <span><a href="https://i.redd.it/oy9kqnvm1cme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1zy1s/meeverytimeiplayagame/">[comments]</a></span> </td></tr></table>
+
+## cantBeBothered
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1z2p6/cantbebothered](https://www.reddit.com/r/ProgrammerHumor/comments/1j1z2p6/cantbebothered)
+ - RSS feed: $source
+ - date published: 2025-03-02T19:26:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1z2p6/cantbebothered/"> <img src="https://preview.redd.it/l1s37z75vbme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=62979f7bdafe37099f74f76c405737aef18d41d1" alt="cantBeBothered" title="cantBeBothered" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Helpful_Door_7468"> /u/Helpful_Door_7468 </a> <br/> <span><a href="https://i.redd.it/l1s37z75vbme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1z2p6/cantbebothered/">[comments]</a></span> </td></tr></table>
+
+## bothTakeLongerThanExpected
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1x5y5/bothtakelongerthanexpected](https://www.reddit.com/r/ProgrammerHumor/comments/1j1x5y5/bothtakelongerthanexpected)
+ - RSS feed: $source
+ - date published: 2025-03-02T18:08:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1x5y5/bothtakelongerthanexpected/"> <img src="https://preview.redd.it/pn7h7ztogbme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9dee9bc0e8ede6dbb44979385bd5c6042ff13ed9" alt="bothTakeLongerThanExpected" title="bothTakeLongerThanExpected" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nashibirne"> /u/Nashibirne </a> <br/> <span><a href="https://i.redd.it/pn7h7ztogbme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1x5y5/bothtakelongerthanexpected/">[comments]</a></span> </td></tr></table>
+
+## thisIsARealUVMapBtw
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1wuqm/thisisarealuvmapbtw](https://www.reddit.com/r/ProgrammerHumor/comments/1j1wuqm/thisisarealuvmapbtw)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:55:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1wuqm/thisisarealuvmapbtw/"> <img src="https://preview.redd.it/14m963teebme1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c52c7ebee9ae7829447e80e84ce498cd095b932d" alt="thisIsARealUVMapBtw" title="thisIsARealUVMapBtw" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Yugix1"> /u/Yugix1 </a> <br/> <span><a href="https://i.redd.it/14m963teebme1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1wuqm/thisisarealuvmapbtw/">[comments]</a></span> </td></tr></table>
+
+## newToRust
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1wav4/newtorust](https://www.reddit.com/r/ProgrammerHumor/comments/1j1wav4/newtorust)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:32:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1wav4/newtorust/"> <img src="https://preview.redd.it/cg3z16crabme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8675469a2eeb5ece05e310d5784261cd6fa744b8" alt="newToRust" title="newToRust" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/InsertaGoodName"> /u/InsertaGoodName </a> <br/> <span><a href="https://i.redd.it/cg3z16crabme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1wav4/newtorust/">[comments]</a></span> </td></tr></table>
+
+## lol
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1vndt/lol](https://www.reddit.com/r/ProgrammerHumor/comments/1j1vndt/lol)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:06:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1vndt/lol/"> <img src="https://preview.redd.it/gvjz15946bme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=567224189eb808d6c5751141959e253e35999602" alt="lol" title="lol" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Eastern-Swordfish776"> /u/Eastern-Swordfish776 </a> <br/> <span><a href="https://i.redd.it/gvjz15946bme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1vndt/lol/">[comments]</a></span> </td></tr></table>
+
+## nooooo
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1vjoo/nooooo](https://www.reddit.com/r/ProgrammerHumor/comments/1j1vjoo/nooooo)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:02:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1vjoo/nooooo/"> <img src="https://preview.redd.it/uvd6amz95bme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0e017ed20113f17b63093b47d57908729c35883" alt="nooooo" title="nooooo" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/townshowards"> /u/townshowards </a> <br/> <span><a href="https://i.redd.it/uvd6amz95bme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1vjoo/nooooo/">[comments]</a></span> </td></tr></table>
+
+## pythonOnOptics
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1r6vn/pythononoptics](https://www.reddit.com/r/ProgrammerHumor/comments/1j1r6vn/pythononoptics)
+ - RSS feed: $source
+ - date published: 2025-03-02T13:46:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1r6vn/pythononoptics/"> <img src="https://preview.redd.it/qi67zr3h6ame1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4113477c82a8c43bc4de5d1c68777620ac5b98b" alt="pythonOnOptics" title="pythonOnOptics" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/suggest-me-usernames"> /u/suggest-me-usernames </a> <br/> <span><a href="https://i.redd.it/qi67zr3h6ame1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1r6vn/pythononoptics/">[comments]</a></span> </td></tr></table>
+
+## youSonOfAGun
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1qgs2/yousonofagun](https://www.reddit.com/r/ProgrammerHumor/comments/1j1qgs2/yousonofagun)
+ - RSS feed: $source
+ - date published: 2025-03-02T13:08:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1qgs2/yousonofagun/"> <img src="https://preview.redd.it/tniam7ooz9me1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=89f2937e710b77aa88fb44b0ce26b8929d43d7ad" alt="youSonOfAGun" title="youSonOfAGun" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ManagerOfLove"> /u/ManagerOfLove </a> <br/> <span><a href="https://i.redd.it/tniam7ooz9me1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1qgs2/yousonofagun/">[comments]</a></span> </td></tr></table>
+
+## averageProgrammerExperience
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1q2hh/averageprogrammerexperience](https://www.reddit.com/r/ProgrammerHumor/comments/1j1q2hh/averageprogrammerexperience)
+ - RSS feed: $source
+ - date published: 2025-03-02T12:46:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1q2hh/averageprogrammerexperience/"> <img src="https://preview.redd.it/gin5qwvov9me1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8cfa0f887a825e8e908fb36873e0afe3609f349d" alt="averageProgrammerExperience" title="averageProgrammerExperience" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/okami_truth"> /u/okami_truth </a> <br/> <span><a href="https://i.redd.it/gin5qwvov9me1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1q2hh/averageprogrammerexperience/">[comments]</a></span> </td></tr></table>
+
+## weAreDoomedAfterTwoYears
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1oudn/wearedoomedaftertwoyears](https://www.reddit.com/r/ProgrammerHumor/comments/1j1oudn/wearedoomedaftertwoyears)
+ - RSS feed: $source
+ - date published: 2025-03-02T11:28:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1oudn/wearedoomedaftertwoyears/"> <img src="https://preview.redd.it/jxz3l1cth9me1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c3e653d8177a92b68cf1c05e6569e0a75cd84637" alt="weAreDoomedAfterTwoYears" title="weAreDoomedAfterTwoYears" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EasternPen1337"> /u/EasternPen1337 </a> <br/> <span><a href="https://i.redd.it/jxz3l1cth9me1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1oudn/wearedoomedaftertwoyears/">[comments]</a></span> </td></tr></table>
+
+## whichOneDoYouChoose
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1oevy/whichonedoyouchoose](https://www.reddit.com/r/ProgrammerHumor/comments/1j1oevy/whichonedoyouchoose)
+ - RSS feed: $source
+ - date published: 2025-03-02T10:59:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1oevy/whichonedoyouchoose/"> <img src="https://preview.redd.it/gr8swe6ec9me1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=ea738999c136c46add40e4b5789f03576d599777" alt="whichOneDoYouChoose" title="whichOneDoYouChoose" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/merokotos"> /u/merokotos </a> <br/> <span><a href="https://i.redd.it/gr8swe6ec9me1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1oevy/whichonedoyouchoose/">[comments]</a></span> </td></tr></table>
+
+## pleaseEnableIt
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1nkyo/pleaseenableit](https://www.reddit.com/r/ProgrammerHumor/comments/1j1nkyo/pleaseenableit)
+ - RSS feed: $source
+ - date published: 2025-03-02T10:02:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1nkyo/pleaseenableit/"> <img src="https://preview.redd.it/lupbuhce29me1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc943f518dd8222c56a97e8948cca812e62414e4" alt="pleaseEnableIt" title="pleaseEnableIt" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/all_is_love6667"> /u/all_is_love6667 </a> <br/> <span><a href="https://i.redd.it/lupbuhce29me1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1nkyo/pleaseenableit/">[comments]</a></span> </td></tr></table>
+
+## iThoughtYouWereCool
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1mps3/ithoughtyouwerecool](https://www.reddit.com/r/ProgrammerHumor/comments/1j1mps3/ithoughtyouwerecool)
+ - RSS feed: $source
+ - date published: 2025-03-02T08:59:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1mps3/ithoughtyouwerecool/"> <img src="https://preview.redd.it/8adlmpo5r8me1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=157074f6280aa6792d89b7827a5c4345eba14617" alt="iThoughtYouWereCool" title="iThoughtYouWereCool" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Davoness"> /u/Davoness </a> <br/> <span><a href="https://i.redd.it/8adlmpo5r8me1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1mps3/ithoughtyouwerecool/">[comments]</a></span> </td></tr></table>
+
+## chronicRefactorer
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1mp7z/chronicrefactorer](https://www.reddit.com/r/ProgrammerHumor/comments/1j1mp7z/chronicrefactorer)
+ - RSS feed: $source
+ - date published: 2025-03-02T08:58:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1mp7z/chronicrefactorer/"> <img src="https://preview.redd.it/yzz8ecr1r8me1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b533ea98659b89ec2d78629f06af18dd433a71e" alt="chronicRefactorer" title="chronicRefactorer" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/InsertaGoodName"> /u/InsertaGoodName </a> <br/> <span><a href="https://i.redd.it/yzz8ecr1r8me1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1mp7z/chronicrefactorer/">[comments]</a></span> </td></tr></table>
+
+## whyPeopleWhenYouHaveDotNet
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1m8rr/whypeoplewhenyouhavedotnet](https://www.reddit.com/r/ProgrammerHumor/comments/1j1m8rr/whypeoplewhenyouhavedotnet)
+ - RSS feed: $source
+ - date published: 2025-03-02T08:25:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1m8rr/whypeoplewhenyouhavedotnet/"> <img src="https://preview.redd.it/guq11l56l8me1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e83176a08eb5d26c4b09dcd2f4c215edbbcca95e" alt="whyPeopleWhenYouHaveDotNet" title="whyPeopleWhenYouHaveDotNet" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Euphoric-Vanilla9755"> /u/Euphoric-Vanilla9755 </a> <br/> <span><a href="https://i.redd.it/guq11l56l8me1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1m8rr/whypeoplewhenyouhavedotnet/">[comments]</a></span> </td></tr></table>
+
+## wonderWhyItWasRemoved
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1l1cc/wonderwhyitwasremoved](https://www.reddit.com/r/ProgrammerHumor/comments/1j1l1cc/wonderwhyitwasremoved)
+ - RSS feed: $source
+ - date published: 2025-03-02T07:00:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1l1cc/wonderwhyitwasremoved/"> <img src="https://preview.redd.it/vlj6sdxx58me1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1188e17a646d44cb3c188eac17923d50a37ed7d2" alt="wonderWhyItWasRemoved" title="wonderWhyItWasRemoved" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/malicious_intent_7"> /u/malicious_intent_7 </a> <br/> <span><a href="https://i.redd.it/vlj6sdxx58me1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1l1cc/wonderwhyitwasremoved/">[comments]</a></span> </td></tr></table>
+
+## devMeetocalypse
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1jrng/devmeetocalypse](https://www.reddit.com/r/ProgrammerHumor/comments/1j1jrng/devmeetocalypse)
+ - RSS feed: $source
+ - date published: 2025-03-02T05:37:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1jrng/devmeetocalypse/"> <img src="https://preview.redd.it/zf2kk5o5r7me1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a8164ce34208e12f2910183f48d9595fde95f16" alt="devMeetocalypse" title="devMeetocalypse" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Flashy-Economist-338"> /u/Flashy-Economist-338 </a> <br/> <span><a href="https://i.redd.it/zf2kk5o5r7me1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1jrng/devmeetocalypse/">[comments]</a></span> </td></tr></table>
+
+## warCannotBeWon
+ - [https://www.reddit.com/r/ProgrammerHumor/comments/1j1gadk/warcannotbewon](https://www.reddit.com/r/ProgrammerHumor/comments/1j1gadk/warcannotbewon)
+ - RSS feed: $source
+ - date published: 2025-03-02T02:18:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1gadk/warcannotbewon/"> <img src="https://preview.redd.it/pad0x70rr6me1.gif?width=320&amp;crop=smart&amp;s=cb85302a8854d5befdaca5cc3a0897334cc148b5" alt="warCannotBeWon" title="warCannotBeWon" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tamanikarim"> /u/tamanikarim </a> <br/> <span><a href="https://i.redd.it/pad0x70rr6me1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/ProgrammerHumor/comments/1j1gadk/warcannotbewon/">[comments]</a></span> </td></tr></table>
+

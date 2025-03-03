@@ -1,0 +1,240 @@
+# Source:Reddit Fantasy, URL:https://www.reddit.com/r/Fantasy/.rss, language:en
+
+## Question about the Will of the Many...
+ - [https://www.reddit.com/r/Fantasy/comments/1j24wf7/question_about_the_will_of_the_many](https://www.reddit.com/r/Fantasy/comments/1j24wf7/question_about_the_will_of_the_many)
+ - RSS feed: $source
+ - date published: 2025-03-02T23:36:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve finished the first ten chapters but I feel like the dialogue is kinda taking me out of the story. The character interactions don&#39;t seem entirely believable to me and I&#39;m finding it hard to really get attached to Vis. Am I crazy? And do I need just give the book more time for me to get more attached to the characters?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WholeGrouchy9862"> /u/WholeGrouchy9862 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j24wf7/question_about_the_will_of_the_many/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j24wf7/question_about_the_will_of_the_many/">[comments]</a></span>
+
+## I just finished Lord of Light
+ - [https://www.reddit.com/r/Fantasy/comments/1j22rpd/i_just_finished_lord_of_light](https://www.reddit.com/r/Fantasy/comments/1j22rpd/i_just_finished_lord_of_light)
+ - RSS feed: $source
+ - date published: 2025-03-02T22:02:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>What an interesting concept for a book,i was hooked the moment they resurrect Budha as they would do it with Frankenstein </p> <p>I think my favourite part was the beauty and ugliness speech,such a cool way to mind control someone</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hammondister"> /u/Hammondister </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j22rpd/i_just_finished_lord_of_light/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j22rpd/i_just_finished_lord_of_light/">[comments]</a></span>
+
+## Searching Name of book
+ - [https://www.reddit.com/r/Fantasy/comments/1j22dpl/searching_name_of_book](https://www.reddit.com/r/Fantasy/comments/1j22dpl/searching_name_of_book)
+ - RSS feed: $source
+ - date published: 2025-03-02T21:45:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey there, I recently remembered having started reading a web novel years ago and never finishing it. I forgot its name and remember only a few plot points. The protagonist was female, she joined the army and was personally mentored by a general named &quot;black&quot;. I think there were 7 generals in total. She gained renown in the army and got her own unit. She had a sidekick that was a goblin and a sapper. I think she gained powers correlating to Ice later on. The main antagonist was living in a desert inside of a big black spire with plotting nobles. </p> <p>Even ChatGPT couldn&#39;t help me, so I know my description is a bit vague. Nevertheless thank you in advance.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Darth_Wider"> /u/Darth_Wider </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j22dpl/searching_name_of_book/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fa
+
+## Lord of the Rings still amazes me
+ - [https://www.reddit.com/r/Fantasy/comments/1j22dgm/lord_of_the_rings_still_amazes_me](https://www.reddit.com/r/Fantasy/comments/1j22dgm/lord_of_the_rings_still_amazes_me)
+ - RSS feed: $source
+ - date published: 2025-03-02T21:45:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>I re-read the whole book for the fifth time, after ten years, and I just still cannot believe how good it is. I mean, it was my favourite book already, and re-reading had not changed that. But I think I had forgotten how enthralling it is, and especially how huge it is. I arrived to the ending fully feeling the weight of the journey, the increasing complexity of the worldbuilding and the increasing epicness of the plot, and it was almost alienating to think back to the first chapters once I had seen how much had changed in just 1100 pages (I guess that is another thing I had forgotten: it is a relatively short book for all it contains, but it manages to be utterly epic without bloating the pages). </p> <p>I still think that what makes it so amazing is not only the story, characters, worldbuilding or even how influential it is, but the message. Despite how many times I&#39;d read it, I was still a child when I last read it fully. Now that I am an adul
+
+## Enjoyed Acheron (Part 1), Hated Part 2—Any Similar Books With Better Execution?
+ - [https://www.reddit.com/r/Fantasy/comments/1j20pef/enjoyed_acheron_part_1_hated_part_2any_similar](https://www.reddit.com/r/Fantasy/comments/1j20pef/enjoyed_acheron_part_1_hated_part_2any_similar)
+ - RSS feed: $source
+ - date published: 2025-03-02T20:34:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently read <em>Acheron</em> by Sherrilyn Kenyon, and while I <strong>liked Part 1</strong>—his tragic backstory, his trauma, his journey to discovering his godhood, his power, and his self-worth, along with the inclusion of Greek/Atlantean mythology—I was completely <strong>let down by Part 2</strong>.</p> <p>Acheron <strong>avoided relationships for 11,000 years</strong> because of the severe abuse and trauma he endured. He explicitly stated that people lusting after him made him feel sick. It made no sense that after all that time, he would <strong>suddenly fall for Tory at first sight</strong>, throwing away everything the book had built up about his struggles and character.</p> <p>It felt like all the depth and pain that made Acheron such an incredible, tormented character was <strong>thrown out the window</strong> in favor of an <strong>insta-lust, insta-love romance</strong> that felt completely out of place. Given everything he went throu
+
+## Prince of Thorns struggle
+ - [https://www.reddit.com/r/Fantasy/comments/1j201dn/prince_of_thorns_struggle](https://www.reddit.com/r/Fantasy/comments/1j201dn/prince_of_thorns_struggle)
+ - RSS feed: $source
+ - date published: 2025-03-02T20:06:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m 37% (ch. 19) in this book and I struggle. I find the main character interesting, I like how we get an explanation why he is like this. But I’m still extremely bored. I don’t know why but so far nothing gripped me. Can I expect something that will peak my interest or should I just give up? I’m learning to dnf books but obviously I struggle with that too 😅</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Stelmie"> /u/Stelmie </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j201dn/prince_of_thorns_struggle/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j201dn/prince_of_thorns_struggle/">[comments]</a></span>
+
+## What are some of the currently, best newcommers in the fantasy gerne?
+ - [https://www.reddit.com/r/Fantasy/comments/1j1wwzp/what_are_some_of_the_currently_best_newcommers_in](https://www.reddit.com/r/Fantasy/comments/1j1wwzp/what_are_some_of_the_currently_best_newcommers_in)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:58:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Talking about new Authors, Series e.t.c </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mangafan_20"> /u/Mangafan_20 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1wwzp/what_are_some_of_the_currently_best_newcommers_in/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1wwzp/what_are_some_of_the_currently_best_newcommers_in/">[comments]</a></span>
+
+## Books with a white-walker-like threat?
+ - [https://www.reddit.com/r/Fantasy/comments/1j1wd81/books_with_a_whitewalkerlike_threat](https://www.reddit.com/r/Fantasy/comments/1j1wd81/books_with_a_whitewalkerlike_threat)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:35:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am looking for a looming threat, something creepy, ancient, deeply interwoven with lore of the world. Something heroes must stop at all costs or run away from. And hopefully something that isn&#39;t a 10 book series. And I want the series to be finished.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DokleViseBre"> /u/DokleViseBre </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1wd81/books_with_a_whitewalkerlike_threat/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1wd81/books_with_a_whitewalkerlike_threat/">[comments]</a></span>
+
+## Hidden gems?
+ - [https://www.reddit.com/r/Fantasy/comments/1j1voxe/hidden_gems](https://www.reddit.com/r/Fantasy/comments/1j1voxe/hidden_gems)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:08:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>What are your hidden fantasy gems? I want books that you&#39;re convinced only you have even heard of. Self published, old, whatever. The more obscure the better!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Youwillbetrampled"> /u/Youwillbetrampled </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1voxe/hidden_gems/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1voxe/hidden_gems/">[comments]</a></span>
+
+## The Grace of Kings (Dandelion Dynasty 1) by Ken Liu for Kindle on sale for $1.99 (US)
+ - [https://www.reddit.com/r/Fantasy/comments/1j1vmlj/the_grace_of_kings_dandelion_dynasty_1_by_ken_liu](https://www.reddit.com/r/Fantasy/comments/1j1vmlj/the_grace_of_kings_dandelion_dynasty_1_by_ken_liu)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:05:29+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/MalBishop"> /u/MalBishop </a> <br/> <span><a href="https://www.amazon.com/Grace-Kings-Dandelion-Dynasty-Book-ebook/dp/B00KU4O1CY/?_encoding=UTF8&amp;pd_rd_w=BPBGZ&amp;content-id=amzn1.sym.81ee299d-8311-4e1f-bf09-0970fec12318&amp;pf_rd_p=81ee299d-8311-4e1f-bf09-0970fec12318&amp;pf_rd_r=PEJXE40FX4DHGP67PDR4&amp;pd_rd_wg=gQpFo&amp;pd_rd_r=fc4dc5e9-a6d6-4042-b312-90179158e5b6&amp;">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1vmlj/the_grace_of_kings_dandelion_dynasty_1_by_ken_liu/">[comments]</a></span>
+
+## A Fantasy Where Plants and Trees Are the Main Characters - The Forestborns
+ - [https://www.reddit.com/r/Fantasy/comments/1j1v7i2/a_fantasy_where_plants_and_trees_are_the_main](https://www.reddit.com/r/Fantasy/comments/1j1v7i2/a_fantasy_where_plants_and_trees_are_the_main)
+ - RSS feed: $source
+ - date published: 2025-03-02T16:48:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone! I’m an author from India, and I recently wrote a fantasy novel called <strong><em>The Forestborns</em></strong>. (published by Hachette )</p> <p>Plants and tree souls come alive in my novel, set in a hidden realm where millions of vibrant plant souls live, laugh, play, and share stories as ancient as time. The story explores the connection between humans and nature, reminding us of who we are. It&#39;s a story of a tree soul and a little girl whose paths cross in the face of danger.</p> <p>My book is available as a paperback in India and on Kindle worldwide across all major platforms.</p> <p>If you love fantasy with a deep connection to nature, magic, and hidden worlds, I’d love to hear your thoughts! Have you read any books with a similar theme—where nature itself feels alive? Always looking for recommendations! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dreamathor357"> /u/dreamathor357 </a>
+
+## Fantasy Series – Jestress's Forgotten Books and Stories
+ - [https://www.reddit.com/r/Fantasy/comments/1j1unq6/fantasy_series_jestresss_forgotten_books_and](https://www.reddit.com/r/Fantasy/comments/1j1unq6/fantasy_series_jestresss_forgotten_books_and)
+ - RSS feed: $source
+ - date published: 2025-03-02T16:25:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Fantasy/comments/1j1unq6/fantasy_series_jestresss_forgotten_books_and/"> <img src="https://external-preview.redd.it/9fF-Den3p7nZlIfiN4qiRVLTbt9FVHEwobyR6si6RQU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8f121e55fc5466a35467972e622a4f5bf7adfe24" alt="Fantasy Series – Jestress's Forgotten Books and Stories" title="Fantasy Series – Jestress's Forgotten Books and Stories" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Jestress Forgotten Stories appears to be a website dedicated to children&#39;s literature and the memories associated with them. It includes reviews and information about various books, including fairy tales and folktales. The site also features stories written by the site owner, along with their other interests like cooking, crafts, and geocaching.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/UzumakiShanks"> /u/UzumakiShanks </a> <br/> <span><a href="https://jestressforg
+
+## SPFBO Review: By a Silver Thread
+ - [https://www.reddit.com/r/Fantasy/comments/1j1sqs2/spfbo_review_by_a_silver_thread](https://www.reddit.com/r/Fantasy/comments/1j1sqs2/spfbo_review_by_a_silver_thread)
+ - RSS feed: $source
+ - date published: 2025-03-02T15:01:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Fantasy/comments/1j1sqs2/spfbo_review_by_a_silver_thread/"> <img src="https://external-preview.redd.it/8d-MSlfRyLmkIZCUW_d7fnWSsVM8xZfc2yMbJn30CUs.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=201eb4502222a89e80d05ab9836593a1dee1e3ec" alt="SPFBO Review: By a Silver Thread" title="SPFBO Review: By a Silver Thread" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>The Self-Published Fantasy Blog-Off has brought me some real gems (Orconomics in particular I loved) and also some real duds (I did not like Murder at Spindle Manor). But I do love self-published works, and so when the slate of finalists came out, I decided to grab the titles that called my name. That included <a href="https://www.goodreads.com/book/show/123245185-by-a-silver-thread">By a Silver Thread</a>. I won’t be reviewing all of them, I’d already read <a href="https://cosmicreads4.wordpress.com/2025/01/15/wolf-of-withervale/">Wolf of Withervale</a> which I quite en
+
+## 1970s & 1980s Fantasy Novel Recommendations
+ - [https://www.reddit.com/r/Fantasy/comments/1j1se9x/1970s_1980s_fantasy_novel_recommendations](https://www.reddit.com/r/Fantasy/comments/1j1se9x/1970s_1980s_fantasy_novel_recommendations)
+ - RSS feed: $source
+ - date published: 2025-03-02T14:45:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>Any recommendations for fantasy novels from the 1970s or 1980s? Maybe lesser known works or authors? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PegasusInFlightt"> /u/PegasusInFlightt </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1se9x/1970s_1980s_fantasy_novel_recommendations/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1se9x/1970s_1980s_fantasy_novel_recommendations/">[comments]</a></span>
+
+## Character-focused, non-military, dark fantasy books
+ - [https://www.reddit.com/r/Fantasy/comments/1j1rjax/characterfocused_nonmilitary_dark_fantasy_books](https://www.reddit.com/r/Fantasy/comments/1j1rjax/characterfocused_nonmilitary_dark_fantasy_books)
+ - RSS feed: $source
+ - date published: 2025-03-02T14:03:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone,</p> <p>After reading Joe Abercrombie&#39;s &quot;First Law&quot; together with the standalones and &quot;Age of Madness&quot; and then &quot;Malazan Book of the Fallen&quot; and &quot;Novels of the Malazan Empire&quot; (which was a 2 year journey with short breaks between books for the Malazan universe alone) I&#39;m setting my sights for the next series to read.</p> <p>I&#39;m looking for a recommendation of character-focused dark fantasy books, which (ideally, but not necessarily) don&#39;t fall into military fantasy genre. Bonus points if the series is not very long. Malazan was a huge commitment, and I&#39;m not sure if I can do it again. :D</p> <p>I have a few dark fantasy series on my TBR list:<br/> -&quot;The Realm of the Elderlings&quot; by Robin Hobb<br/> -&quot;The Broken Empire&quot; and &quot;The Red Queen&#39;s War&quot; by Mark Lawrence<br/> -&quot;The Prince of Nothing&quot; and &quot;The Aspect-Emperor&quot; by R. Scot
+
+## Looking for Antagonist WITHOUT complex motivations
+ - [https://www.reddit.com/r/Fantasy/comments/1j1qjji/looking_for_antagonist_without_complex_motivations](https://www.reddit.com/r/Fantasy/comments/1j1qjji/looking_for_antagonist_without_complex_motivations)
+ - RSS feed: $source
+ - date published: 2025-03-02T13:12:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>I love antagonists with complex motivations or tragic backstories but just for the novelty of it I&#39;d love to read a book with one that isn&#39;t that. Jack Horner in Puss in Boots 2 spurred this thought.</p> <p>Their motivation isn&#39;t revenge or creating order through force or proving a point and nothing happened in their life to justify their wickedness. They are just a born sociopath who unleash chaos and mayhem just for the fun of it or purely to challenge themselves.</p> <p>It would be fun if the book tries to subvert this at first by having the heroes investigate this villain&#39;s past to find links to their motivations and actions only to find out that they&#39;ve always been like this, there is no root cause, they are what they are.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/VladtheImpaler21"> /u/VladtheImpaler21 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1qjji/look
+
+## /r/Fantasy Daily Recommendation Requests and Simple Questions Thread - March 02, 2025
+ - [https://www.reddit.com/r/Fantasy/comments/1j1qbnp/rfantasy_daily_recommendation_requests_and_simple](https://www.reddit.com/r/Fantasy/comments/1j1qbnp/rfantasy_daily_recommendation_requests_and_simple)
+ - RSS feed: $source
+ - date published: 2025-03-02T13:00:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>This thread is to be used for recommendation requests or simple questions that are small/general enough that they won’t spark a full thread of discussion.</p> <p>Check out <a href="/r/Fantasy">r/Fantasy</a>&#39;s <a href="https://www.reddit.com/r/Fantasy/comments/1bt4iqf/official_rfantasy_2024_book_bingo_challenge/">2024 Book Bingo Card here</a>!</p> <p>As usual, first have a look at the sidebar in case what you&#39;re after is there. The <a href="https://www.reddit.com/r/Fantasy/wiki/recommendations">r/Fantasy wiki</a> contains links to many community resources, including &quot;best of&quot; lists, flowcharts, the LGTBQ+ database, and more. If you need some help figuring out what you want, think about including some of the information below:</p> <ul> <li>Books you’ve liked or disliked</li> <li>Traits like prose, characters, or settings you most enjoy</li> <li>Series vs. standalone preference</li> <li>Tone preference (lighthearted, grimdark, etc)</li
+
+## /r/Fantasy Dealer's Room: Self-Promo Sunday - March 02, 2025
+ - [https://www.reddit.com/r/Fantasy/comments/1j1qbfu/rfantasy_dealers_room_selfpromo_sunday_march_02](https://www.reddit.com/r/Fantasy/comments/1j1qbfu/rfantasy_dealers_room_selfpromo_sunday_march_02)
+ - RSS feed: $source
+ - date published: 2025-03-02T13:00:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>This weekly self-promotion thread is the place for content creators to compete for our attention in the spirit of reckless capitalism. Tell us about your book/webcomic/podcast/blog/etc.</p> <p>The rules:</p> <ul> <li>Top comments should only be from authors/bloggers/whatever who want to tell us about what they are offering. This is their place.</li> <li>Discussion of/questions about the books get free rein as sub-comments.</li> <li>You&#39;re stiIl not allowed to use link shorteners and the AutoMod will remove any link shortened comments until the links are fixed.</li> <li>If you are not the actual author, but are posting on their behalf (e.g., &#39;My father self-pubIished this awesome book,&#39;), this is the place for you as well.</li> <li>If you found something great you think needs more exposure but you have no connection to the creator, this is not the place for you. Feel free to make your own thread, since that sort of post is the bread-and-bu
+
+## What would you recommend to someone's favorite part of SW is the whole trade, economic and political side of the Clone Wars?
+ - [https://www.reddit.com/r/Fantasy/comments/1j1q2pg/what_would_you_recommend_to_someones_favorite](https://www.reddit.com/r/Fantasy/comments/1j1q2pg/what_would_you_recommend_to_someones_favorite)
+ - RSS feed: $source
+ - date published: 2025-03-02T12:46:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Blockades, embargos, tariffs, votes... The whole shtick.</p> <p>Yes, I know.</p> <p>Edit: Fantasy, preferably.</p> <p>Edit 2: I&#39;m terrible at titles. &quot;What would you recommend to someone who&#39;s favorite parte of SW...&quot; </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JonDragonskin"> /u/JonDragonskin </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1q2pg/what_would_you_recommend_to_someones_favorite/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1q2pg/what_would_you_recommend_to_someones_favorite/">[comments]</a></span>
+
+## Book/series that treat Luck as an in-world and/or a very important meta-textual concept?
+ - [https://www.reddit.com/r/Fantasy/comments/1j1pvh0/bookseries_that_treat_luck_as_an_inworld_andor_a](https://www.reddit.com/r/Fantasy/comments/1j1pvh0/bookseries_that_treat_luck_as_an_inworld_andor_a)
+ - RSS feed: $source
+ - date published: 2025-03-02T12:34:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been thinking about how Luck/Fate are used in fiction. I recently watched the movie Bullet Train with Brad Pitt, and Deadpool 2 with Domino as a character. They both seem to play with or explore the notion of luck/fate in different ways, Bullet Train more so (it is adapted from a Japanese novel called Maria Beetle). </p> <p>There is also the Oponn Twins from Malazan. I want to read a book or series that takes this concept more seriously and explore different facets. </p> <p>Any recommendations? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/troublrTRC"> /u/troublrTRC </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1pvh0/bookseries_that_treat_luck_as_an_inworld_andor_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1pvh0/bookseries_that_treat_luck_as_an_inworld_andor_a/">[comments]</a></span>
+
+## Science and reasoning in fantasy
+ - [https://www.reddit.com/r/Fantasy/comments/1j1pm51/science_and_reasoning_in_fantasy](https://www.reddit.com/r/Fantasy/comments/1j1pm51/science_and_reasoning_in_fantasy)
+ - RSS feed: $source
+ - date published: 2025-03-02T12:19:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Looking good recommendations for series that have more of a scientific world building, inquisitive and logical characters. I just finished (what exists of) the Steerswoman series and am absolutely devastated we probably won&#39;t be getting an ending. The slow process of recognizing things we are more familiar with as they are investigated from a completely unfamiliar perspective was fascinating - and I also just enjoy characters having friends and having some fun as well. Other series I liked were the Kingkiller Chronicles (though was similarly burned by not checking if it was finished before I got obsessed!) and Harry Potter and the Methods of Rationality, and I enjoyed watching the Witcher. Any ideas? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/InterestingBugz"> /u/InterestingBugz </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1pm51/science_and_reasoning_in_fantasy/">[link]</a></sp
+
+## BINGO REVIEW: Throne in the Dark by AK Caggiano
+ - [https://www.reddit.com/r/Fantasy/comments/1j1orut/bingo_review_throne_in_the_dark_by_ak_caggiano](https://www.reddit.com/r/Fantasy/comments/1j1orut/bingo_review_throne_in_the_dark_by_ak_caggiano)
+ - RSS feed: $source
+ - date published: 2025-03-02T11:23:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Throne in the Dark by AK Caggiano</p> <p>Squares: First in a series, criminals(hm), romantasy (hm)</p> <p>What I liked: The tropey characters are fun, the world is also pretty tropey but it&#39;s inverted enough to keep things interesting. I also liked the various side quests and interactions with random characters. Black and broody meets bubblegum sweet is also a cool trope for this couple and the third act with the big reveal was a great way to get passed the will they won&#39;t they phase.</p> <p>What I didnt: While I like the tropes and the side quests etc there really isn&#39;t anything amazingly original here</p> <p>Rating: 4/5</p> <p>Overall: Worth a read if you like a slow burn Romantasy in well executed if not terribly original fantasy world</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/redcathal"> /u/redcathal </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1orut/bingo_review_th
+
+## The Orb of Cairado (new Goblin Emperor spinoff) by Katherine Addison: Ansalem Mini Review
+ - [https://www.reddit.com/r/Fantasy/comments/1j1oasn/the_orb_of_cairado_new_goblin_emperor_spinoff_by](https://www.reddit.com/r/Fantasy/comments/1j1oasn/the_orb_of_cairado_new_goblin_emperor_spinoff_by)
+ - RSS feed: $source
+ - date published: 2025-03-02T10:51:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>This new release by Katherine Addison in the Goblin Emperor universe seems to have gone pretty under the radar. It was published by Subterranean Press at the end of January and is just around 100 pages long, so perhaps a novelette in length.</p> <p>The story focuses on a new protagonist, the disgraced former history scholar second-class Ulcetha, who has taken up writing false provenances for fake artifacts for an unscrupulous dealer after he was falsely accused of stealing an important relic from the university five years ago. When his only close friend is killed in an airship crash--the same crash that propels forward the change in reign in The Goblin Emperor--he receives a puzzling missive from the friend&#39;s wife, leading him on a journey to unravel its mystery.</p> <p>The Orb of Cairado is filled with the same kind of cozy satisfaction (and almost as many long names) that endeared me to The Goblin Emperor and the Cemeteries of Amalo books. Ulce
+
+## Book recommendations
+ - [https://www.reddit.com/r/Fantasy/comments/1j1o9rz/book_recommendations](https://www.reddit.com/r/Fantasy/comments/1j1o9rz/book_recommendations)
+ - RSS feed: $source
+ - date published: 2025-03-02T10:49:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello Everyone I love reading, but I haven’t really ever tried the fantasy genre. However, I have recently seen at lot of “dark fantasy” TikTok’s, and because of that I really wanna try the fantasy genre. Therefore I wanted to hear, if anyone has some book recommendations with the same “vibe” as the dark fantasy TikTok’s, if anyone knows what I mean. I know it a bit of an odd one😅 But thanks in advance!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ClearNet3180"> /u/ClearNet3180 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1o9rz/book_recommendations/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1o9rz/book_recommendations/">[comments]</a></span>
+
+## Adventure Fantasy with a Female Lead? Looking to fill the void.
+ - [https://www.reddit.com/r/Fantasy/comments/1j1nk1x/adventure_fantasy_with_a_female_lead_looking_to](https://www.reddit.com/r/Fantasy/comments/1j1nk1x/adventure_fantasy_with_a_female_lead_looking_to)
+ - RSS feed: $source
+ - date published: 2025-03-02T10:00:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m looking for something like Cradle with a female lead, a series with found family, characters growing closer together as they travel, forming bonds, lots of interesting character dynamics, interesting characters (an interesting and unique FMC would be welcome), action and a good magic system, and romance (but please not the enemies to lovers usual possessive and toxic male leads, I&#39;m tired of those.) I&#39;m open to any suggestions including web novels or fantasy from different languages. Any quality writing is welcome.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/crazynoyes37"> /u/crazynoyes37 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1nk1x/adventure_fantasy_with_a_female_lead_looking_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1nk1x/adventure_fantasy_with_a_female_lead_looking_to/">[comments]</a></span>
+
+## Spinning Silver - Explanation pls!
+ - [https://www.reddit.com/r/Fantasy/comments/1j1mklr/spinning_silver_explanation_pls](https://www.reddit.com/r/Fantasy/comments/1j1mklr/spinning_silver_explanation_pls)
+ - RSS feed: $source
+ - date published: 2025-03-02T08:49:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>I reread the last few chapters of this book a couple of times and I&#39;m still struggling to understand the significance of gold for the Staryk King. Why did he need so much of it? How did having so much of it save his kingdom??? </p> <p>Pls help!!! 😭</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/belluccellino"> /u/belluccellino </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1mklr/spinning_silver_explanation_pls/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1mklr/spinning_silver_explanation_pls/">[comments]</a></span>
+
+## Non-Fantasy books?
+ - [https://www.reddit.com/r/Fantasy/comments/1j1lv8g/nonfantasy_books](https://www.reddit.com/r/Fantasy/comments/1j1lv8g/nonfantasy_books)
+ - RSS feed: $source
+ - date published: 2025-03-02T07:58:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>I love fantasy, and it is pretty much the only thing i read. However, there are other books from other genres that are good. But oftentime looking at other people recommending books, these books dont fall in to my taste oftentimes. But people who read fantasy, often think alike.</p> <p>So therfor id like to know if there are any other books that you guys would recommend to read? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Collection_Horror"> /u/Collection_Horror </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1lv8g/nonfantasy_books/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1lv8g/nonfantasy_books/">[comments]</a></span>
+
+## the tainted cup
+ - [https://www.reddit.com/r/Fantasy/comments/1j1kzz2/the_tainted_cup](https://www.reddit.com/r/Fantasy/comments/1j1kzz2/the_tainted_cup)
+ - RSS feed: $source
+ - date published: 2025-03-02T06:58:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just read The Tainted Cup by Robert Jackson Bennett and I loved it so much!! (Din, my precious baby boy, he&#39;s so cute!) This took me out of a reading slump, and now I can&#39;t wait for the next book!! In the meantime, do y&#39;all know other fantasy mysteries that I can sink my teeth into? I&#39;m already thinking of diving into Bennett&#39;s other works, but maybe you guys have your own faves in the genre? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zyzy1083"> /u/zyzy1083 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1kzz2/the_tainted_cup/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1kzz2/the_tainted_cup/">[comments]</a></span>
+
+## Looking for a tight, plot-driven story/series
+ - [https://www.reddit.com/r/Fantasy/comments/1j1kubl/looking_for_a_tight_plotdriven_storyseries](https://www.reddit.com/r/Fantasy/comments/1j1kubl/looking_for_a_tight_plotdriven_storyseries)
+ - RSS feed: $source
+ - date published: 2025-03-02T06:47:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I love intricate world-building but after struggling through the last couple of Stormlight Archive books I’m looking for something punchy, fast-paced with good characters. Preferably a standalone that isn’t too long but series suggestions are welcome too. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AtomicPhantom7"> /u/AtomicPhantom7 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1kubl/looking_for_a_tight_plotdriven_storyseries/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1kubl/looking_for_a_tight_plotdriven_storyseries/">[comments]</a></span>
+
+## Since paradise in Old English was neorxnawang...
+ - [https://www.reddit.com/r/Fantasy/comments/1j1k6yy/since_paradise_in_old_english_was_neorxnawang](https://www.reddit.com/r/Fantasy/comments/1j1k6yy/since_paradise_in_old_english_was_neorxnawang)
+ - RSS feed: $source
+ - date published: 2025-03-02T06:04:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>And if it hadn&#39;t been replaced by the Persian word <em>paradise</em>, it would be narxenwong today...</p> <p>I feel a little swindled that we never got to see Paul heaving that crysknife heavenward exclaiming</p> <p>LEAD THEM TO NARXENWONG</p> <p><a href="https://en.wiktionary.org/wiki/neorxnawang">Neorxnawang</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/OlanValesco"> /u/OlanValesco </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1k6yy/since_paradise_in_old_english_was_neorxnawang/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1k6yy/since_paradise_in_old_english_was_neorxnawang/">[comments]</a></span>
+
+## Discworld help
+ - [https://www.reddit.com/r/Fantasy/comments/1j1jwl1/discworld_help](https://www.reddit.com/r/Fantasy/comments/1j1jwl1/discworld_help)
+ - RSS feed: $source
+ - date published: 2025-03-02T05:45:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>I hope I don’t offend anyone, I really tried to get into Guards! Guards! But unfortunately stopped reading it. I personally found the secret society difficult to read, but I loved reading about Carrot. I wanted to continue reading for him but it went back to the secret society and lost interest.</p> <p>I was wondering if anyone recommend another starting point for me to read within Discworld? If it helps, other genres I love to read are sci-fi, historical fiction, southern gothic/noir</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sadaharupunch"> /u/sadaharupunch </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1jwl1/discworld_help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1jwl1/discworld_help/">[comments]</a></span>
+
+## Character who is obsessed with something, a ideal or law or anything.
+ - [https://www.reddit.com/r/Fantasy/comments/1j1h484/character_who_is_obsessed_with_something_a_ideal](https://www.reddit.com/r/Fantasy/comments/1j1h484/character_who_is_obsessed_with_something_a_ideal)
+ - RSS feed: $source
+ - date published: 2025-03-02T03:03:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>Someone like Eren Yeager, who was obsessed with freedom. I love reading or watching intense characters, who will go to any lengths for their beliefs. With a pinch of insanity and its mind blowing. Like AM is obsessed with hate etc. so tell me your character who is obsessed. The maniacs. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mercy_4_u"> /u/mercy_4_u </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1h484/character_who_is_obsessed_with_something_a_ideal/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1h484/character_who_is_obsessed_with_something_a_ideal/">[comments]</a></span>
+
+## High Fantasy with overwhelmingly complex international relations and politics
+ - [https://www.reddit.com/r/Fantasy/comments/1j1f07y/high_fantasy_with_overwhelmingly_complex](https://www.reddit.com/r/Fantasy/comments/1j1f07y/high_fantasy_with_overwhelmingly_complex)
+ - RSS feed: $source
+ - date published: 2025-03-02T01:11:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi guys. I&#39;m looking for recommendations for a high fantasy novel or series with a major focus on complex world building, politics, international power dynamics, and realistic levels of technicality in its mechanics. The more creative the setting the better, and non-human races and nations in the mix are a huge bonus.</p> <p>I honestly haven&#39;t found a book that satisfies this itch yet so I don&#39;t have anything to present as a point of comparison. Imagine asoif but only the small council meetings. Or more niche, if anyone&#39;s read the Overlord series, then something similar to that (only in terms of world building).</p> <p>I&#39;d prefer a mature multiwork series, but I&#39;ll take any recommendations regardless.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheMisterMan666"> /u/TheMisterMan666 </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1f07y/high_fantasy_with_overwhelmin
+
+## Looking for High/Epic Fantasy recommendations with romantic subplot
+ - [https://www.reddit.com/r/Fantasy/comments/1j1eu59/looking_for_highepic_fantasy_recommendations_with](https://www.reddit.com/r/Fantasy/comments/1j1eu59/looking_for_highepic_fantasy_recommendations_with)
+ - RSS feed: $source
+ - date published: 2025-03-02T01:02:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello all. I&#39;ve recently decided to get back into reading after having been on quite a long break, and I could use some help finding my next read. As the title states, I&#39;m looking for a high/epic fantasy book and/or series with some romance that is well done, but doesn&#39;t take away from the main plot. The last series I both read and loved is Eragon. I thank anyone who helps me with this endeavor.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Will_Da_Bill"> /u/Will_Da_Bill </a> <br/> <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1eu59/looking_for_highepic_fantasy_recommendations_with/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Fantasy/comments/1j1eu59/looking_for_highepic_fantasy_recommendations_with/">[comments]</a></span>
+

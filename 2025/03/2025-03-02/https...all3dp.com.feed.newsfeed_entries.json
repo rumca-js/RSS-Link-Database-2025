@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-02T15:55:22+00:00",
+        "description": "If you're new to 3D printing, it's hard to know where to start. Check out these 3D printing projects for beginners, and expand your skills!",
+        "id": 2230175,
+        "language": null,
+        "link": "https://all3dp.com/2/best-3d-printing-projects-for-beginners",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 16,
+        "source_url": "https://all3dp.com/feed/newsfeed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "3D Printing Ideas for Beginners: 30 Easy Projects",
+        "vote": 0
+    }
+]

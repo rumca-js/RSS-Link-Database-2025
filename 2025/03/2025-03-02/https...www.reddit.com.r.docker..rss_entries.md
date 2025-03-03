@@ -1,0 +1,128 @@
+# Source:Docker: An open source project to pack, ship and run any application as a lightweight container, URL:https://www.reddit.com/r/docker/.rss, language:en
+
+## docker0 DOWN, cannot get UP
+ - [https://www.reddit.com/r/docker/comments/1j23k7p/docker0_down_cannot_get_up](https://www.reddit.com/r/docker/comments/1j23k7p/docker0_down_cannot_get_up)
+ - RSS feed: $source
+ - date published: 2025-03-02T22:36:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>So i have been connectivity issues with my docker containers on ubuntu 24.04, I have tried everything online and whatever chatgpt has thrown at me for days. I did a fresh complete install today because i said screw it. I am STILL having issues with docker0, despite the fresh install. I am at a complete loss, any ideas?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/juzt4me"> /u/juzt4me </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1j23k7p/docker0_down_cannot_get_up/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1j23k7p/docker0_down_cannot_get_up/">[comments]</a></span>
+
+## For anyone using Orbstack, it’s nice to have ssl certificates right away, but for me it’s only host device - but how do you set it up so other devices can access it?
+ - [https://www.reddit.com/r/docker/comments/1j23fvp/for_anyone_using_orbstack_its_nice_to_have_ssl](https://www.reddit.com/r/docker/comments/1j23fvp/for_anyone_using_orbstack_its_nice_to_have_ssl)
+ - RSS feed: $source
+ - date published: 2025-03-02T22:30:49+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://imgur.com/a/5G5v7KV">https://imgur.com/a/5G5v7KV</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ratman431"> /u/ratman431 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1j23fvp/for_anyone_using_orbstack_its_nice_to_have_ssl/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1j23fvp/for_anyone_using_orbstack_its_nice_to_have_ssl/">[comments]</a></span>
+
+## [ Removed by Reddit ]
+ - [https://www.reddit.com/r/docker/comments/1j21vg6/removed_by_reddit](https://www.reddit.com/r/docker/comments/1j21vg6/removed_by_reddit)
+ - RSS feed: $source
+ - date published: 2025-03-02T21:23:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>[ Removed by Reddit on account of violating the <a href="/help/contentpolicy">content policy</a>. ]</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Right-Imagination-32"> /u/Right-Imagination-32 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1j21vg6/removed_by_reddit/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1j21vg6/removed_by_reddit/">[comments]</a></span>
+
+## Having trouble setting up Python dependencies (using uv) in Docker container
+ - [https://www.reddit.com/r/docker/comments/1j20ean/having_trouble_setting_up_python_dependencies](https://www.reddit.com/r/docker/comments/1j20ean/having_trouble_setting_up_python_dependencies)
+ - RSS feed: $source
+ - date published: 2025-03-02T20:21:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi there! Just wanted to preface that I&#39;m a complete Docker noob, and started using uv recently as well. Please let me know if what I&#39;m doing is completely wrong.</p> <p>Anyways - I&#39;m simply just trying to Dockerize my backend Django server <strong>for development</strong> - and am having some dependency issues when running my container off of my created image. Django is not installed when running my `manage.py`.</p> <p><strong>Steps I used to repro:</strong></p> <ol> <li><code>docker build -t backend .</code></li> <li><code>docker run -dp 127.0.0.1:8080:8080 scripty-backend</code></li> <li><code>docker logs {step #2 container ID}</code></li> </ol> <p>And the result I get is this: </p> <pre><code>&quot;Couldn&#39;t import Django. Are you sure it&#39;s installed and &quot; &quot;available on your PYTHONPATH environment variable? Did you &quot; &quot;forget to activate a virtual environment?&quot; </code></pre> <p><strong>Dockerfile</strong
+
+## What happened? I cannot install OR remove startup items on Mac.
+ - [https://www.reddit.com/r/docker/comments/1j1z7bz/what_happened_i_cannot_install_or_remove_startup](https://www.reddit.com/r/docker/comments/1j1z7bz/what_happened_i_cannot_install_or_remove_startup)
+ - RSS feed: $source
+ - date published: 2025-03-02T19:31:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am referring to Docker items that are placed in startup and seemingly cannot be removed. </p> <p>Docker Desktop seems to have taken a massive turn for the worse. The installer is basically non-functional and constantly returns errors like &quot;Docker Desktop is damaged and you should move it to the Trash&quot;</p> <p>So I did.</p> <p>Not sure what happened but Podman installed fine.</p> <p>Now how do I remove the rest of the Docker remnants from &quot;Login Items and Extensions&quot; if I cannot run the uninstaller?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Altruistic_Shake_723"> /u/Altruistic_Shake_723 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1j1z7bz/what_happened_i_cannot_install_or_remove_startup/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1j1z7bz/what_happened_i_cannot_install_or_remove_startup/">[comments]</a></span>
+
+## plis help me
+ - [https://www.reddit.com/r/docker/comments/1j1wwfw/plis_help_me](https://www.reddit.com/r/docker/comments/1j1wwfw/plis_help_me)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:57:39+00:00
+
+<!-- SC_OFF --><div class="md"><p>idk what the fuck ive done <a href="https://imgur.com/a/WOLDdw4">https://imgur.com/a/WOLDdw4</a></p> <p>i tried to containerize comfy ui bc i heard it got malwares, i dont know how to work with docker so i used chatgpt fo help me do it i worked in the terminal to do it now it doesnt even work because when i click start it immediately stops after 2 seconds?</p> <p>how do i containerize comfy ui 🥺</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok-Ant2048"> /u/Ok-Ant2048 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1j1wwfw/plis_help_me/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1j1wwfw/plis_help_me/">[comments]</a></span>
+
+## Best 5 IPTV Service Providers of 2025 – Honest Reviews & Top Rankings
+ - [https://www.reddit.com/r/docker/comments/1j1ohm1/best_5_iptv_service_providers_of_2025_honest](https://www.reddit.com/r/docker/comments/1j1ohm1/best_5_iptv_service_providers_of_2025_honest)
+ - RSS feed: $source
+ - date published: 2025-03-02T11:04:05+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Fantastic_GME"> /u/Fantastic_GME </a> <br/> <span><a href="/r/docker/comments/1j11fz8/best_5_iptv_service_providers_of_2025_unbiased/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1j1ohm1/best_5_iptv_service_providers_of_2025_honest/">[comments]</a></span>
+
+## [Tested] Best 5 IPTV Service Providers of 2025 – Unbiased Reviews & Top Rankings
+ - [https://www.reddit.com/r/docker/comments/1j1o7ad/tested_best_5_iptv_service_providers_of_2025](https://www.reddit.com/r/docker/comments/1j1o7ad/tested_best_5_iptv_service_providers_of_2025)
+ - RSS feed: $source
+ - date published: 2025-03-02T10:45:10+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Mobile-Ad-8822"> /u/Mobile-Ad-8822 </a> <br/> <span><a href="/r/docker/comments/1j11fz8/best_5_iptv_service_providers_of_2025_unbiased/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1j1o7ad/tested_best_5_iptv_service_providers_of_2025/">[comments]</a></span>
+
+## Is Dockerizing a full stack application for local development worth it?
+ - [https://www.reddit.com/r/docker/comments/1j1lunu/is_dockerizing_a_full_stack_application_for_local](https://www.reddit.com/r/docker/comments/1j1lunu/is_dockerizing_a_full_stack_application_for_local)
+ - RSS feed: $source
+ - date published: 2025-03-02T07:57:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>I currently have a full stack web application that I have dockerized and it&#39;s been a great development experience. It works great because I am using Python Flask in the backend and Vite frontend, so with hot-reloading, I can just compose up the whole application once and changes in the code are immediately applied.</p> <p>I am trying to set up a similar environment with another web project with a compiled language backend this time, but I feel the advantages are not as great. Of course with a compiled language, hot-reloading is much more complex, so I&#39;ve been having to run compose down and up every time I make a change, which makes the whole backend development cycle a lot slower. If I&#39;m having to rerun the containers every time I make a change, is dockerizing the application still worth it for local development?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dex-Max"> /u/Dex-Max </a> <br/> <span><a
+
+## I just ran my first container using Docker
+ - [https://www.reddit.com/r/docker/comments/1j1ksac/i_just_ran_my_first_container_using_docker](https://www.reddit.com/r/docker/comments/1j1ksac/i_just_ran_my_first_container_using_docker)
+ - RSS feed: $source
+ - date published: 2025-03-02T06:43:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>It was fun. I feel smart now.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/No-Masterpiece4096"> /u/No-Masterpiece4096 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1j1ksac/i_just_ran_my_first_container_using_docker/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1j1ksac/i_just_ran_my_first_container_using_docker/">[comments]</a></span>
+
+## New docker ceo?
+ - [https://www.reddit.com/r/docker/comments/1j1knn7/new_docker_ceo](https://www.reddit.com/r/docker/comments/1j1knn7/new_docker_ceo)
+ - RSS feed: $source
+ - date published: 2025-03-02T06:34:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is there any worries about the new docker <strong><em>ceo</em></strong>. Here is the <a href="https://www.docker.com/press-release/docker-announces-don-johnson-as-new-ceo-succeeding-scott-johnston/">link</a> For example going closed source?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Novapixel1010"> /u/Novapixel1010 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1j1knn7/new_docker_ceo/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1j1knn7/new_docker_ceo/">[comments]</a></span>
+
+## 2025 "Best IPTV Service Providers" in The USA, Canada, UK, France, Au, NZ, Netherlands, Germany, Spain or anywhere else - Top 3 Ranked
+ - [https://www.reddit.com/r/docker/comments/1j1kk9w/2025_best_iptv_service_providers_in_the_usa](https://www.reddit.com/r/docker/comments/1j1kk9w/2025_best_iptv_service_providers_in_the_usa)
+ - RSS feed: $source
+ - date published: 2025-03-02T06:28:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Are you looking for the <strong>best IPTV service providers in 2025</strong> to replace expensive cable TV?</p> <p>If you&#39;re tired of <strong>high cable bills</strong> and <strong>limited entertainment options</strong>, switching to **Internet Protocol Television (IPTV)**is the perfect solution. With IPTV, you can enjoy <strong>thousands of live TV channels, premium sports, and on-demand movies</strong> at a fraction of the cost.</p> <p>I’ve spent over three years <strong>testing and reviewing IPTV providers</strong>, and in this guide, I’ll share my expert recommendations for the <strong>best IPTV subscription services for 2025</strong>. Whether in the <strong>USA, Canada, UK, France, Netherlands, Spain</strong>, or anywhere else, you&#39;ll find an IPTV provider that suits your needs.</p> <p><strong>Why Choose IPTV Over Cable?</strong></p> <p>With IPTV, you can say goodbye to <strong>limited channel options, buffering issues, and expensive plan
+
+## Best IPTV Service in 2025 – No Buffering, HD & 4K Streaming
+ - [https://www.reddit.com/r/docker/comments/1j1kcpp/best_iptv_service_in_2025_no_buffering_hd_4k](https://www.reddit.com/r/docker/comments/1j1kcpp/best_iptv_service_in_2025_no_buffering_hd_4k)
+ - RSS feed: $source
+ - date published: 2025-03-02T06:14:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>Are you searching for the <strong>best IPTV service in 2025</strong>? With so many options out there, choosing a <strong>reliable IPTV provider</strong> that offers <strong>4K, HD channels, sports, and VOD without buffering</strong> can be tough. Don&#39;t waste time on low-quality providers—here’s everything you need to know before subscribing!</p> <h1>✅ Key Features of a Top IPTV Provider:</h1> <p>✔️ <strong>Stable, Buffer-Free Streaming</strong> – Enjoy smooth playback with premium servers.<br/> ✔️ <strong>Over 10,000+ Live Channels</strong> – Access worldwide content, including <strong>USA, UK, France, Canada, and international networks</strong>.<br/> ✔️ <strong>4K, Full HD &amp; HD Streaming</strong> – Crisp visuals and high-quality audio.<br/> ✔️ <strong>Live Sports &amp; Premium Channels</strong> – Watch <strong>NBA, UFC, NFL, FIFA, and PPV events</strong> in real-time.<br/> ✔️ <strong>Huge VOD Library</strong> – Thousands of movies &amp; TV s
+
+## docker-compose env vars from multiple files
+ - [https://www.reddit.com/r/docker/comments/1j1k5ae/dockercompose_env_vars_from_multiple_files](https://www.reddit.com/r/docker/comments/1j1k5ae/dockercompose_env_vars_from_multiple_files)
+ - RSS feed: $source
+ - date published: 2025-03-02T06:01:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>tl;dr: Two questions</p> <ol> <li>How can I pull an env variable from one container&#39;s <code>.env</code> into another container&#39;s <code>docker-compose.yml</code> (separate folders) <ul> <li>Need to pull env variable <code>TRAEFIK_NETWORK</code> from the <code>/traefik/.env</code> into the <code>/whoami/docker-compose.yml</code></li> </ul></li> <li>Can I pull an env variable from one container&#39;s <code>/traefik/.env</code> into another container&#39;s <code>/whoami/.env</code> (separate folders)</li> </ol> <hr/> <p>I&#39;ll try to explain this as best as possible. It sounds ok in my head. Putting it into words is the issue.</p> <p>Say I have a <code>docker-compose.yml</code> file with a container.</p> <h3>traefik/docker-compose.yml</h3> <p><code>yml services: traefik: container_name: ${TRAEFIK_CONTAINER_NAME:-traefik} image: ${TRAEFIK_IMAGE:-traefik}:${TRAEFIK_TAG:-latest} hostname: ${TRAEFIK_SUBDOMAIN:-traefik} restart: unless-stopped </cod
+
+## Docker volumes
+ - [https://www.reddit.com/r/docker/comments/1j1jmnx/docker_volumes](https://www.reddit.com/r/docker/comments/1j1jmnx/docker_volumes)
+ - RSS feed: $source
+ - date published: 2025-03-02T05:28:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys, </p> <p>I’ve created a docker compose file routing containers through glutun however my containers are unable to see locations on the host system (Ubuntu) from what I can tell the volumes need to be mounted inside / passed through to the container. How can I achieve this? </p> <p>I’m wanting these directories to be available for use in other containers and possibly want to add network shares to containers in the near future. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Formal_Regret8002"> /u/Formal_Regret8002 </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1j1jmnx/docker_volumes/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1j1jmnx/docker_volumes/">[comments]</a></span>
+
+## FYI: Reddit answered about the mod issue on this sub
+ - [https://www.reddit.com/r/docker/comments/1j1jkb4/fyi_reddit_answered_about_the_mod_issue_on_this](https://www.reddit.com/r/docker/comments/1j1jkb4/fyi_reddit_answered_about_the_mod_issue_on_this)
+ - RSS feed: $source
+ - date published: 2025-03-02T05:24:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just received this mail from my support requests I last updated on Wednesday: <a href="https://imgur.com/a/BKY4aAc">https://imgur.com/a/BKY4aAc</a></p> <p>Sadly there is not more info to the mail. So whatever action they mean, we&#39;ll see. I hope they simply replace the mod and we will see more mods join the team so that some automoderation can be put in place and this sub brought back to normal.</p> <p>Thank you to everyone who tries to help resolve this issue.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ElevenNotes"> /u/ElevenNotes </a> <br/> <span><a href="https://www.reddit.com/r/docker/comments/1j1jkb4/fyi_reddit_answered_about_the_mod_issue_on_this/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1j1jkb4/fyi_reddit_answered_about_the_mod_issue_on_this/">[comments]</a></span>
+
+## Multiple GPUs - P2000 to container A, K2200 to container B - NVIDIA_VISIBLE_DEVICES doesn't work?
+ - [https://www.reddit.com/r/docker/comments/1j1ggne/multiple_gpus_p2000_to_container_a_k2200_to](https://www.reddit.com/r/docker/comments/1j1ggne/multiple_gpus_p2000_to_container_a_k2200_to)
+ - RSS feed: $source
+ - date published: 2025-03-02T02:28:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m trying to figure out docker with multiple GPUs. The scenario seems like it should be simple:</p> <ul> <li>I have a basic Precision T5280 with a pair of GPUs - a Quadro P2000 and a Quadro K2200.</li> <li>Docker is installed and working with multiple stacks deployed - for the sake of argument I&#39;ll just use A and B.</li> <li>I need A to have the P2000 (because it requires Pascal or later)</li> <li>I need B to have anything (so the K2200 will be fine)</li> <li>Important packages (Debian 12) <ul> <li>docker-ce/bookworm,now 5:28.0.1-1~debian.12~bookworm amd64 [installed]</li> <li>nvidia-container-toolkit/unknown,now 1.17.4-1 amd64 [installed]</li> <li>nvidia-kernel-dkms/stable,now 535.216.01-1~deb12u1 amd64 [installed,automatic]</li> <li>nvidia-driver-bin/stable,now 535.216.01-1~deb12u1 amd64 [installed,automatic]</li> </ul></li> <li>Everything works prior to attempting passthrough of the devices to containers.</li> </ul> <p>Listing installed G
+
+## The Best IPTV Service Providers for 2025 – Top Ranked (Honest Review)
+ - [https://www.reddit.com/r/docker/comments/1j1ejix/the_best_iptv_service_providers_for_2025_top](https://www.reddit.com/r/docker/comments/1j1ejix/the_best_iptv_service_providers_for_2025_top)
+ - RSS feed: $source
+ - date published: 2025-03-02T00:48:10+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Richgardonel"> /u/Richgardonel </a> <br/> <span><a href="/r/docker/comments/1ir524l/the_best_iptv_service_providers_for_2025_top/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/docker/comments/1j1ejix/the_best_iptv_service_providers_for_2025_top/">[comments]</a></span>
+

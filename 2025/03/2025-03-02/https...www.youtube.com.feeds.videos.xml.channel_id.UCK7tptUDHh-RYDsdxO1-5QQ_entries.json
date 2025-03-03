@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-02T01:42:48+00:00",
+        "description": "President Trump\u2019s personal grievances with Ukraine\u2019s Volodymyr Zelensky date back to his first term in office. WSJ\u2019s chief foreign-affairs correspondent Yaroslav Trofimov explains the history of the long-simmering tensions between the two leaders.\n\n#wsj #trump #news #zelensky #ukraine #washington #politics",
+        "id": 2227518,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1KtB-7_cb7Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1KtB-7_cb7Y/hqdefault.jpg",
+        "title": "Trump and Ukraine\u2019s Zelensky: A Timeline of Their Rocky Relationship | WSJ",
+        "vote": 0
+    }
+]

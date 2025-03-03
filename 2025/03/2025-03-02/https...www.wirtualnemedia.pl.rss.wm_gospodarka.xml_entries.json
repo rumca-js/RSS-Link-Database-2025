@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-02T08:43:26+00:00",
+        "description": "W 2024 roku liczba pracownik\u00f3w etatowych w grupie Orange Polska zmala\u0142a o ponad 400, spadaj\u0105c poni\u017cej poziomu 9 tys. Zatrudnienie w firmie maleje od lat, m.in. w ramach programu dobrowolnych odej\u015b\u0107. W efekcie koszty pracownicze w ub.r. wzros\u0142y tylko o 2 proc.",
+        "id": 2227519,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/orange-praca-zarobki-zwolnienia-program-odejsc-dobrowolnych-w-2024-r",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "W Orange Polska dalej ubywa pracownik\u00f3w. Przez dekad\u0119 znikn\u0105\u0142 co drugi",
+        "vote": 0
+    }
+]

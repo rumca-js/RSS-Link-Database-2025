@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-02T07:48:08+00:00",
+        "description": "[The Conversation Africa] The Last Ranger is South Africa's latest Oscar nominated film - and the only African movie on the 2025 shortlist for the career-making US awards.",
+        "id": 2226954,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202503020033.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: Oscar Contender the Last Ranger Shows That the World Still Wants to See South African Stories",
+        "vote": 0
+    }
+]

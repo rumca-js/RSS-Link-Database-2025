@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-02T20:00:09+00:00",
+        "description": "I play a lot of Marvel Rivals and with the release of the Season 1.5 patch there was a bug introduced that should have never made it's way past the build system, a bug entirely caused by a debug script being left in production.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nSolution: https://www.reddit.com/r/linux_gaming/comments/1iutojb/comment/me1lb4e/\nGamingOnLinux Article: https://www.gamingonlinux.com/2025/02/proton-hotfix-updated-to-fix-marvel-rivals-and-indiana-jones-on-steam-deck-linux/\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brodierob",
+        "id": 2231284,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=NrDlE-OdSUo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NrDlE-OdSUo/hqdefault.jpg",
+        "title": "The Dumbest Linux Gaming Bug You'll Ever See",
+        "vote": 0
+    }
+]

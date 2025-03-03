@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-02T10:08:38+00:00",
+        "description": "https://wiki.rossmanngroup.com/wiki/Mozilla_introduces_TOS_to_Firefox\nhttps://wiki.rossmanngroup.com/wiki/Mozilla\nhttps://librewolf.net/\n\n00:00:00 - tl;dr solution use librewolf\n00:00:52 - my tl;dr thoughts\n00:01:08 - what mozilla did\n00:02:28 - mozilla crashed archive.org.....\n00:03:03 - Louis gets trolled by a monster\n00:03:56 - firefox' removes statement on not selling personal data. \n00:04:40 - terms were changed without explicitly alerting users\n00:05:08 - mozilla did this at the WORST POSSIBLE TIME\n00:07:05 - the worst communication policy\n00:07:14 - California consumer protection act\n00:08:03 - The suspicious part mozilla put in \n00:08:26 - What is \"selling data\" ?\n00:08:54 - Existing business practices exist in grey areas to CCPA\n00:12:46 - Just use librewolf to avoid all this....\n00:16:27 - Privacy policy is still fairly strong\n00:17:20 - How money for nothing destroys people & companies",
+        "id": 2228355,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=-8bTquKjzos",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-8bTquKjzos/hqdefault.jpg",
+        "title": "Mozilla lost touch with reality; how becoming rich through failure stunts mental & emotional growth",
+        "vote": 0
+    }
+]

@@ -1,0 +1,191 @@
+# Source:Weird, URL:https://www.reddit.com/r/Weird/.rss, language:en
+
+## Here is a picture I took of a hole punch cloud next to a lenticular cloud on Long Island, NY.
+ - [https://www.reddit.com/r/Weird/comments/1j23akr/here_is_a_picture_i_took_of_a_hole_punch_cloud](https://www.reddit.com/r/Weird/comments/1j23akr/here_is_a_picture_i_took_of_a_hole_punch_cloud)
+ - RSS feed: $source
+ - date published: 2025-03-02T22:24:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j23akr/here_is_a_picture_i_took_of_a_hole_punch_cloud/"> <img src="https://preview.redd.it/fgqbfk6wqcme1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=29b8701ac9674309f5a823a87d7cc61f3dd0b4c1" alt="Here is a picture I took of a hole punch cloud next to a lenticular cloud on Long Island, NY." title="Here is a picture I took of a hole punch cloud next to a lenticular cloud on Long Island, NY." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>These types of clouds usually form in areas where mountains are. Long Island is completely flat so I thought it was pretty interesting for something like this to form here. March of 2020.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Biohacker27"> /u/Biohacker27 </a> <br/> <span><a href="https://i.redd.it/fgqbfk6wqcme1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j23akr/here_is_a_picture_i_took_of
+
+## Two random postcards sent to me from 2 different people that I don't know in different states. Received 1 week apart nothing written on them
+ - [https://www.reddit.com/r/Weird/comments/1j2299l/two_random_postcards_sent_to_me_from_2_different](https://www.reddit.com/r/Weird/comments/1j2299l/two_random_postcards_sent_to_me_from_2_different)
+ - RSS feed: $source
+ - date published: 2025-03-02T21:40:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j2299l/two_random_postcards_sent_to_me_from_2_different/"> <img src="https://b.thumbs.redditmedia.com/9-gRK4_thj6vMtyRvRJhiOnaTiRGG5GfRoQ4hgUUYqc.jpg" alt="Two random postcards sent to me from 2 different people that I don't know in different states. Received 1 week apart nothing written on them" title="Two random postcards sent to me from 2 different people that I don't know in different states. Received 1 week apart nothing written on them" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/RedLantern420"> /u/RedLantern420 </a> <br/> <span><a href="https://www.reddit.com/gallery/1j2299l">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j2299l/two_random_postcards_sent_to_me_from_2_different/">[comments]</a></span> </td></tr></table>
+
+## Found on my daily walk. Blue lobster
+ - [https://www.reddit.com/r/Weird/comments/1j211r0/found_on_my_daily_walk_blue_lobster](https://www.reddit.com/r/Weird/comments/1j211r0/found_on_my_daily_walk_blue_lobster)
+ - RSS feed: $source
+ - date published: 2025-03-02T20:49:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j211r0/found_on_my_daily_walk_blue_lobster/"> <img src="https://preview.redd.it/mwsmrlzv9cme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e3a8e3eebd880e896f9013f65209696432d4e04c" alt="Found on my daily walk. Blue lobster" title="Found on my daily walk. Blue lobster" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ItstheAsianOccasion"> /u/ItstheAsianOccasion </a> <br/> <span><a href="https://i.redd.it/mwsmrlzv9cme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j211r0/found_on_my_daily_walk_blue_lobster/">[comments]</a></span> </td></tr></table>
+
+## Two stray cats left a trail of urine in front of my apartment building’s entrance. Are they marking their territory for my dog?
+ - [https://www.reddit.com/r/Weird/comments/1j20b08/two_stray_cats_left_a_trail_of_urine_in_front_of](https://www.reddit.com/r/Weird/comments/1j20b08/two_stray_cats_left_a_trail_of_urine_in_front_of)
+ - RSS feed: $source
+ - date published: 2025-03-02T20:18:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j20b08/two_stray_cats_left_a_trail_of_urine_in_front_of/"> <img src="https://preview.redd.it/fs2ljir54cme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9206132f29a9a80a193ff3cdcb20b698cad7b257" alt="Two stray cats left a trail of urine in front of my apartment building’s entrance. Are they marking their territory for my dog?" title="Two stray cats left a trail of urine in front of my apartment building’s entrance. Are they marking their territory for my dog?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/736384826"> /u/736384826 </a> <br/> <span><a href="https://i.redd.it/fs2ljir54cme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j20b08/two_stray_cats_left_a_trail_of_urine_in_front_of/">[comments]</a></span> </td></tr></table>
+
+## Old supposedly haunted house in Woods
+ - [https://www.reddit.com/r/Weird/comments/1j1zzuu/old_supposedly_haunted_house_in_woods](https://www.reddit.com/r/Weird/comments/1j1zzuu/old_supposedly_haunted_house_in_woods)
+ - RSS feed: $source
+ - date published: 2025-03-02T20:05:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1zzuu/old_supposedly_haunted_house_in_woods/"> <img src="https://b.thumbs.redditmedia.com/_yAK2QJkh3IdIlMgWY5ZlvMuV7qmkXDyhfjTgb9h_rg.jpg" alt="Old supposedly haunted house in Woods" title="Old supposedly haunted house in Woods" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Old burned down house near Hamilton Mausoleum seemingly the Groundskeeper full family died in house fire </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Phonymontana79"> /u/Phonymontana79 </a> <br/> <span><a href="https://www.reddit.com/gallery/1j1zzuu">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1zzuu/old_supposedly_haunted_house_in_woods/">[comments]</a></span> </td></tr></table>
+
+## Dentist practice dummys
+ - [https://www.reddit.com/r/Weird/comments/1j1yyfl/dentist_practice_dummys](https://www.reddit.com/r/Weird/comments/1j1yyfl/dentist_practice_dummys)
+ - RSS feed: $source
+ - date published: 2025-03-02T19:21:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1yyfl/dentist_practice_dummys/"> <img src="https://preview.redd.it/110y3809ubme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=77221f7cd49479f47f2adc53f6ea71e54aa7d4cc" alt="Dentist practice dummys" title="Dentist practice dummys" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/katiem1236"> /u/katiem1236 </a> <br/> <span><a href="https://i.redd.it/110y3809ubme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1yyfl/dentist_practice_dummys/">[comments]</a></span> </td></tr></table>
+
+## Found these weird mushrooms on a hiking trail.
+ - [https://www.reddit.com/r/Weird/comments/1j1yji3/found_these_weird_mushrooms_on_a_hiking_trail](https://www.reddit.com/r/Weird/comments/1j1yji3/found_these_weird_mushrooms_on_a_hiking_trail)
+ - RSS feed: $source
+ - date published: 2025-03-02T19:04:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1yji3/found_these_weird_mushrooms_on_a_hiking_trail/"> <img src="https://b.thumbs.redditmedia.com/O7cHSPgHbYYApEzhhhZ_b3fXi1bYf9bivehMkbaZaSA.jpg" alt="Found these weird mushrooms on a hiking trail." title="Found these weird mushrooms on a hiking trail." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hot_Strike_2533"> /u/Hot_Strike_2533 </a> <br/> <span><a href="https://www.reddit.com/gallery/1j1yji3">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1yji3/found_these_weird_mushrooms_on_a_hiking_trail/">[comments]</a></span> </td></tr></table>
+
+## The Tv from 2019 is Back
+ - [https://www.reddit.com/r/Weird/comments/1j1xz4j/the_tv_from_2019_is_back](https://www.reddit.com/r/Weird/comments/1j1xz4j/the_tv_from_2019_is_back)
+ - RSS feed: $source
+ - date published: 2025-03-02T18:41:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1xz4j/the_tv_from_2019_is_back/"> <img src="https://b.thumbs.redditmedia.com/zxJBiVxpxKvcTx_swVi7qylLLFS8kP2BJK_KYgQmrUE.jpg" alt="The Tv from 2019 is Back" title="The Tv from 2019 is Back" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>If you remember a few years ago that man who would drop old tvs on people’s porches. He just posted on /b/ about how he’s gonna strike again. He time stamped photos with a sticky note lower in the thread. He said the fbi almost caught him so he had to law low. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Visual-Platform-5853"> /u/Visual-Platform-5853 </a> <br/> <span><a href="https://www.reddit.com/gallery/1j1xz4j">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1xz4j/the_tv_from_2019_is_back/">[comments]</a></span> </td></tr></table>
+
+## Seems legit
+ - [https://www.reddit.com/r/Weird/comments/1j1xlbd/seems_legit](https://www.reddit.com/r/Weird/comments/1j1xlbd/seems_legit)
+ - RSS feed: $source
+ - date published: 2025-03-02T18:26:02+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1xlbd/seems_legit/"> <img src="https://preview.redd.it/5kqbqoubkbme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b063bb80fe2fbc4758ac028727cc4018343816d8" alt="Seems legit" title="Seems legit" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Joe_brogie"> /u/Joe_brogie </a> <br/> <span><a href="https://i.redd.it/5kqbqoubkbme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1xlbd/seems_legit/">[comments]</a></span> </td></tr></table>
+
+## Pillow I found, with blanket inside.
+ - [https://www.reddit.com/r/Weird/comments/1j1xcfk/pillow_i_found_with_blanket_inside](https://www.reddit.com/r/Weird/comments/1j1xcfk/pillow_i_found_with_blanket_inside)
+ - RSS feed: $source
+ - date published: 2025-03-02T18:15:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1xcfk/pillow_i_found_with_blanket_inside/"> <img src="https://preview.redd.it/s3zuvwjiibme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0bd89ca800eecdfd222a5333bed77aa246fe6db" alt="Pillow I found, with blanket inside." title="Pillow I found, with blanket inside." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Vegetaman916"> /u/Vegetaman916 </a> <br/> <span><a href="https://i.redd.it/s3zuvwjiibme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1xcfk/pillow_i_found_with_blanket_inside/">[comments]</a></span> </td></tr></table>
+
+## I didn't know that millipedes glowed. Green is 395nm blue is 365nm
+ - [https://www.reddit.com/r/Weird/comments/1j1x7a8/i_didnt_know_that_millipedes_glowed_green_is](https://www.reddit.com/r/Weird/comments/1j1x7a8/i_didnt_know_that_millipedes_glowed_green_is)
+ - RSS feed: $source
+ - date published: 2025-03-02T18:09:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1x7a8/i_didnt_know_that_millipedes_glowed_green_is/"> <img src="https://b.thumbs.redditmedia.com/CwELXv04RtA8eHUPpitsMEVp1Il-1USDDO8yS4-0s1s.jpg" alt="I didn't know that millipedes glowed. Green is 395nm blue is 365nm" title="I didn't know that millipedes glowed. Green is 395nm blue is 365nm" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SpiritedSpeech4061"> /u/SpiritedSpeech4061 </a> <br/> <span><a href="https://www.reddit.com/gallery/1j1x7a8">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1x7a8/i_didnt_know_that_millipedes_glowed_green_is/">[comments]</a></span> </td></tr></table>
+
+## Just found an old stained underwear in my bathroom air vent after not opening for 16+ yrs…
+ - [https://www.reddit.com/r/Weird/comments/1j1wc9v/just_found_an_old_stained_underwear_in_my](https://www.reddit.com/r/Weird/comments/1j1wc9v/just_found_an_old_stained_underwear_in_my)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:34:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>When we first moved into this house in 2008 we had some guys paint the interior, and they painted over the vents so this hasn’t been opened since then. I decided I wanted to clean it today so I opened it and this is the first thing I saw🤮. It’s stiff and stained and I’m afraid to look at what’s inside…disturbing to think that it’s been in there since I was a kid💀</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/d0gtyrant"> /u/d0gtyrant </a> <br/> <span><a href="https://www.reddit.com/gallery/1j1wc9v">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1wc9v/just_found_an_old_stained_underwear_in_my/">[comments]</a></span>
+
+## This was on my recommended feed from FB marketplace- why is there a 2nd guy?
+ - [https://www.reddit.com/r/Weird/comments/1j1vnk5/this_was_on_my_recommended_feed_from_fb](https://www.reddit.com/r/Weird/comments/1j1vnk5/this_was_on_my_recommended_feed_from_fb)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:06:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1vnk5/this_was_on_my_recommended_feed_from_fb/"> <img src="https://preview.redd.it/jy8xnjp56bme1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a02deac5676bedb4ce76585afc59f9fb9b02b160" alt="This was on my recommended feed from FB marketplace- why is there a 2nd guy?" title="This was on my recommended feed from FB marketplace- why is there a 2nd guy?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hard to believe it&#39;s still there, great price! 🙄 Still works, obviously!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mem68"> /u/mem68 </a> <br/> <span><a href="https://i.redd.it/jy8xnjp56bme1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1vnk5/this_was_on_my_recommended_feed_from_fb/">[comments]</a></span> </td></tr></table>
+
+## This Russian guy’s IG account is nothing but truly weird and sometimes terrifying sea creatures.
+ - [https://www.reddit.com/r/Weird/comments/1j1umbt/this_russian_guys_ig_account_is_nothing_but_truly](https://www.reddit.com/r/Weird/comments/1j1umbt/this_russian_guys_ig_account_is_nothing_but_truly)
+ - RSS feed: $source
+ - date published: 2025-03-02T16:23:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1umbt/this_russian_guys_ig_account_is_nothing_but_truly/"> <img src="https://preview.redd.it/jivh66xhyame1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5a63c288f11c6afeec59bef014e2b684ab393d95" alt="This Russian guy’s IG account is nothing but truly weird and sometimes terrifying sea creatures." title="This Russian guy’s IG account is nothing but truly weird and sometimes terrifying sea creatures." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/greenlemons105"> /u/greenlemons105 </a> <br/> <span><a href="https://i.redd.it/jivh66xhyame1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1umbt/this_russian_guys_ig_account_is_nothing_but_truly/">[comments]</a></span> </td></tr></table>
+
+## Weird bag I found in the woods
+ - [https://www.reddit.com/r/Weird/comments/1j1ui2y/weird_bag_i_found_in_the_woods](https://www.reddit.com/r/Weird/comments/1j1ui2y/weird_bag_i_found_in_the_woods)
+ - RSS feed: $source
+ - date published: 2025-03-02T16:18:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1ui2y/weird_bag_i_found_in_the_woods/"> <img src="https://b.thumbs.redditmedia.com/ZnrGlXZ88H8yYM7DSPTA5by95bvUm6IhPhBpbS2UKzs.jpg" alt="Weird bag I found in the woods" title="Weird bag I found in the woods" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Hello, I was on a walk today and I took a route I usually dont take and found a weird bag hidden behind a small tree trunk. </p> <p>At first I thought there could be a head in there (yes I watch way too much true crime 😂) But when I poked it a little with a stick it turns out there was a bed sheet in a plastic bag and something that sounded like a bag of chips but since there were people walking around, I didnt want to poke it any more. It also looked pretty new, it couldnt have been there for more than a week or maybe two.</p> <p>There is a walking trail and a railway near the place where I found it. There are also no wild animals that could drag it like that l
+
+## Found this under the bridge, looks cool tho
+ - [https://www.reddit.com/r/Weird/comments/1j1ubda/found_this_under_the_bridge_looks_cool_tho](https://www.reddit.com/r/Weird/comments/1j1ubda/found_this_under_the_bridge_looks_cool_tho)
+ - RSS feed: $source
+ - date published: 2025-03-02T16:10:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1ubda/found_this_under_the_bridge_looks_cool_tho/"> <img src="https://preview.redd.it/pd4vfkt7wame1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2056a3ab20543906db48d97a731033114061938c" alt="Found this under the bridge, looks cool tho" title="Found this under the bridge, looks cool tho" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Was driving bike and went under the bridge to smoke weed, while i was smoking i noticed this thing. Didn&#39;t want to touch it lol, but it&#39;s cool af. Poor bull :(</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lukava666"> /u/Lukava666 </a> <br/> <span><a href="https://i.redd.it/pd4vfkt7wame1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1ubda/found_this_under_the_bridge_looks_cool_tho/">[comments]</a></span> </td></tr></table>
+
+## I just wanted a lollipop
+ - [https://www.reddit.com/r/Weird/comments/1j1tb1v/i_just_wanted_a_lollipop](https://www.reddit.com/r/Weird/comments/1j1tb1v/i_just_wanted_a_lollipop)
+ - RSS feed: $source
+ - date published: 2025-03-02T15:26:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1tb1v/i_just_wanted_a_lollipop/"> <img src="https://b.thumbs.redditmedia.com/yCA5xdP1N-uQfcqUxfqGjyH8bmth9UC50B2IXS6N7hA.jpg" alt="I just wanted a lollipop" title="I just wanted a lollipop" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BedeliaTheInkDemon19"> /u/BedeliaTheInkDemon19 </a> <br/> <span><a href="https://www.reddit.com/gallery/1j1tb1v">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1tb1v/i_just_wanted_a_lollipop/">[comments]</a></span> </td></tr></table>
+
+## Weird thumbnail positioning on my Youtube Homepage
+ - [https://www.reddit.com/r/Weird/comments/1j1so9l/weird_thumbnail_positioning_on_my_youtube_homepage](https://www.reddit.com/r/Weird/comments/1j1so9l/weird_thumbnail_positioning_on_my_youtube_homepage)
+ - RSS feed: $source
+ - date published: 2025-03-02T14:58:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1so9l/weird_thumbnail_positioning_on_my_youtube_homepage/"> <img src="https://preview.redd.it/316fjbz7jame1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=7d96e9750805aeeef8a24ac3b8589b75692bef77" alt="Weird thumbnail positioning on my Youtube Homepage" title="Weird thumbnail positioning on my Youtube Homepage" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/djOP3"> /u/djOP3 </a> <br/> <span><a href="https://i.redd.it/316fjbz7jame1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1so9l/weird_thumbnail_positioning_on_my_youtube_homepage/">[comments]</a></span> </td></tr></table>
+
+## Rare Earth Minerals, 2025, 30” x 40”, acrylic paint
+ - [https://www.reddit.com/r/Weird/comments/1j1r1cj/rare_earth_minerals_2025_30_x_40_acrylic_paint](https://www.reddit.com/r/Weird/comments/1j1r1cj/rare_earth_minerals_2025_30_x_40_acrylic_paint)
+ - RSS feed: $source
+ - date published: 2025-03-02T13:38:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1r1cj/rare_earth_minerals_2025_30_x_40_acrylic_paint/"> <img src="https://preview.redd.it/9m78mwy15ame1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9178fbfc02571c21adea934c02c3d5ba2e8fb03" alt="Rare Earth Minerals, 2025, 30” x 40”, acrylic paint" title="Rare Earth Minerals, 2025, 30” x 40”, acrylic paint" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/The_Lobster_X"> /u/The_Lobster_X </a> <br/> <span><a href="https://i.redd.it/9m78mwy15ame1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1r1cj/rare_earth_minerals_2025_30_x_40_acrylic_paint/">[comments]</a></span> </td></tr></table>
+
+## Strange Candle holder
+ - [https://www.reddit.com/r/Weird/comments/1j1r024/strange_candle_holder](https://www.reddit.com/r/Weird/comments/1j1r024/strange_candle_holder)
+ - RSS feed: $source
+ - date published: 2025-03-02T13:36:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1r024/strange_candle_holder/"> <img src="https://preview.redd.it/y9xatf7q4ame1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bbb86e45369ec064f9cd457f419837bee7543202" alt="Strange Candle holder" title="Strange Candle holder" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>received this as a gift a bit ago and figured it fit in with the subreddit</p> <p>his name is Frank, he is over 100 years old. Every time we light the candles something bad happens to someone we dont like, im not entirely unconvinced he’s some sort of fairy 😭 lol </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Primary-Editor-2874"> /u/Primary-Editor-2874 </a> <br/> <span><a href="https://i.redd.it/y9xatf7q4ame1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1r024/strange_candle_holder/">[comments]</a></span> </td></tr></table>
+
+## I have a random strand of leg hair that is white and unnaturally long
+ - [https://www.reddit.com/r/Weird/comments/1j1qonx/i_have_a_random_strand_of_leg_hair_that_is_white](https://www.reddit.com/r/Weird/comments/1j1qonx/i_have_a_random_strand_of_leg_hair_that_is_white)
+ - RSS feed: $source
+ - date published: 2025-03-02T13:20:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1qonx/i_have_a_random_strand_of_leg_hair_that_is_white/"> <img src="https://preview.redd.it/p5s9y2xr1ame1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d96d985f0729cf7056ba6395bc1325f6b2c77c6d" alt="I have a random strand of leg hair that is white and unnaturally long" title="I have a random strand of leg hair that is white and unnaturally long" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I had this hair for over 3 months and it is still growing longer</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kitchen_Ebb3248"> /u/Kitchen_Ebb3248 </a> <br/> <span><a href="https://i.redd.it/p5s9y2xr1ame1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1qonx/i_have_a_random_strand_of_leg_hair_that_is_white/">[comments]</a></span> </td></tr></table>
+
+## The clouds were weird yesterday. Every type just showed up, along with this👇🏾
+ - [https://www.reddit.com/r/Weird/comments/1j1pxs5/the_clouds_were_weird_yesterday_every_type_just](https://www.reddit.com/r/Weird/comments/1j1pxs5/the_clouds_were_weird_yesterday_every_type_just)
+ - RSS feed: $source
+ - date published: 2025-03-02T12:38:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1pxs5/the_clouds_were_weird_yesterday_every_type_just/"> <img src="https://b.thumbs.redditmedia.com/1Y1wC6xqEv5egS7oCXEM4-Bwrg5Dj_tmc1mg2JM1GEc.jpg" alt="The clouds were weird yesterday. Every type just showed up, along with this👇🏾" title="The clouds were weird yesterday. Every type just showed up, along with this👇🏾" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>What is this? LIE FAMOUSLY OR SPEAK WORD TO POWER AND UNWEIRD IT. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MaybeLikeWater"> /u/MaybeLikeWater </a> <br/> <span><a href="https://www.reddit.com/gallery/1j1pxs5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1pxs5/the_clouds_were_weird_yesterday_every_type_just/">[comments]</a></span> </td></tr></table>
+
+## Can’t tell if these kinds of comments are bots, trolls, or both.
+ - [https://www.reddit.com/r/Weird/comments/1j1mz8r/cant_tell_if_these_kinds_of_comments_are_bots](https://www.reddit.com/r/Weird/comments/1j1mz8r/cant_tell_if_these_kinds_of_comments_are_bots)
+ - RSS feed: $source
+ - date published: 2025-03-02T09:18:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1mz8r/cant_tell_if_these_kinds_of_comments_are_bots/"> <img src="https://a.thumbs.redditmedia.com/-0jd9DVyvvcUNN-0-eDWM4Wepq0F7I1mC77KE71OPy8.jpg" alt="Can’t tell if these kinds of comments are bots, trolls, or both." title="Can’t tell if these kinds of comments are bots, trolls, or both." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ProfessionalSorry139"> /u/ProfessionalSorry139 </a> <br/> <span><a href="https://www.reddit.com/gallery/1j1mz8r">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1mz8r/cant_tell_if_these_kinds_of_comments_are_bots/">[comments]</a></span> </td></tr></table>
+
+## UPDATE: Weird guy approaching people
+ - [https://www.reddit.com/r/Weird/comments/1j1muk6/update_weird_guy_approaching_people](https://www.reddit.com/r/Weird/comments/1j1muk6/update_weird_guy_approaching_people)
+ - RSS feed: $source
+ - date published: 2025-03-02T09:09:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1muk6/update_weird_guy_approaching_people/"> <img src="https://a.thumbs.redditmedia.com/v4etghAxKsP1b0J2KgF6V_pppnkJrF4at9BCaA93TO4.jpg" alt="UPDATE: Weird guy approaching people" title="UPDATE: Weird guy approaching people" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Ok so, I saw him again tonight. I went to the same area to see if he would be there and I saw him with this strange lady(?) I wanted to get clearer photos but this is the best I could do. The quality is kinda bad sorry I was freaked out. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/alfonsomendezz_"> /u/alfonsomendezz_ </a> <br/> <span><a href="https://www.reddit.com/gallery/1j1muk6">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1muk6/update_weird_guy_approaching_people/">[comments]</a></span> </td></tr></table>
+
+## Found outside my bedroom windowsill
+ - [https://www.reddit.com/r/Weird/comments/1j1idu8/found_outside_my_bedroom_windowsill](https://www.reddit.com/r/Weird/comments/1j1idu8/found_outside_my_bedroom_windowsill)
+ - RSS feed: $source
+ - date published: 2025-03-02T04:14:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1idu8/found_outside_my_bedroom_windowsill/"> <img src="https://preview.redd.it/duvmmm9gc7me1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71fccdac280d2ed0bd26157e6293f77f417494cb" alt="Found outside my bedroom windowsill" title="Found outside my bedroom windowsill" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Fluffy-Zebra7860"> /u/Fluffy-Zebra7860 </a> <br/> <span><a href="https://i.redd.it/duvmmm9gc7me1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1idu8/found_outside_my_bedroom_windowsill/">[comments]</a></span> </td></tr></table>
+
+## Surprise watch from an Amazon box
+ - [https://www.reddit.com/r/Weird/comments/1j1h31r/surprise_watch_from_an_amazon_box](https://www.reddit.com/r/Weird/comments/1j1h31r/surprise_watch_from_an_amazon_box)
+ - RSS feed: $source
+ - date published: 2025-03-02T03:01:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1h31r/surprise_watch_from_an_amazon_box/"> <img src="https://b.thumbs.redditmedia.com/unTMScgti55gfnkUyHYESEdUYXjfm9E1ETaVpq9LYkc.jpg" alt="Surprise watch from an Amazon box" title="Surprise watch from an Amazon box" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>It came with the Stardew Valley cookbook I ordered and while it&#39;s very pretty (and doesn&#39;t work) it&#39;s still... well, weird</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/snowsparkthekat"> /u/snowsparkthekat </a> <br/> <span><a href="https://www.reddit.com/gallery/1j1h31r">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1h31r/surprise_watch_from_an_amazon_box/">[comments]</a></span> </td></tr></table>
+
+## A weird abandoned house i found in the woods
+ - [https://www.reddit.com/r/Weird/comments/1j1e327/a_weird_abandoned_house_i_found_in_the_woods](https://www.reddit.com/r/Weird/comments/1j1e327/a_weird_abandoned_house_i_found_in_the_woods)
+ - RSS feed: $source
+ - date published: 2025-03-02T00:25:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j1e327/a_weird_abandoned_house_i_found_in_the_woods/"> <img src="https://preview.redd.it/vgru3zll76me1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ff4a9a0bfc3e7086f1b5e3950ffd5cd9618ec1d" alt="A weird abandoned house i found in the woods" title="A weird abandoned house i found in the woods" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MaxHasTheWax"> /u/MaxHasTheWax </a> <br/> <span><a href="https://i.redd.it/vgru3zll76me1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j1e327/a_weird_abandoned_house_i_found_in_the_woods/">[comments]</a></span> </td></tr></table>
+

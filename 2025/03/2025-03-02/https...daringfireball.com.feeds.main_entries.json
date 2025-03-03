@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-02T22:22:17+00:00",
+        "description": "<p>Ming-Chi Kuo, back on Sunday September 15:</p>\n\n<blockquote>\n  <p>Based on my latest supply chain survey and pre-order results\nfrom Apple\u2019s official websites, I\u2019ve compiled key data on iPhone\n16\u2019s first-weekend pre-orders for each model, including\npre-order sales, average delivery times, and shipments before\npre-order. [...]</p>\n\n<p>Analysis and Conclusions:</p>\n\n<p>iPhone 16 series first-weekend pre-order sales are estimated at\nabout 37 million units, down about 12.7% YoY from last year\u2019s\niPhone 15 series first-weekend sales. The key factor is the\nlower-than-expected demand for the iPhone 16 Pro series.</p>\n</blockquote>\n\n<p>Note that pre-orders for the iPhone 16 lineup only started two days prior, <a href=\"https://www.apple.com/newsroom/2024/09/get-ready-to-upgrade-to-the-new-iphone-16-apple-watch-and-airpods-lineups/\">on Friday September 13</a>. Here were Kuo\u2019s estimates for first-weekend pre-order sales, compared year-over-year to the equivalent iPhone 15 models:</p>\n\n<p><tabl",
+        "id": 2231863,
+        "language": null,
+        "link": "https://medium.com/@mingchikuo/iphone-16-first-weekend-pre-order-analysis-estimated-total-sales-of-about-37-million-units-pro-0a04869b147c",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Claim Chowder: Ming-Chi Kuo on Demand for the iPhone 16 Lineup",
+        "vote": 0
+    }
+]

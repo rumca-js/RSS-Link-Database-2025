@@ -1,0 +1,226 @@
+# Source:Listen To This, URL:https://www.reddit.com/r/listentothis/.rss, language:
+
+## John Phillips -- The Bird with Plastic Feathers [Folk] (1969)
+ - [https://www.reddit.com/r/listentothis/comments/1j22prt/john_phillips_the_bird_with_plastic_feathers_folk](https://www.reddit.com/r/listentothis/comments/1j22prt/john_phillips_the_bird_with_plastic_feathers_folk)
+ - RSS feed: $source
+ - date published: 2025-03-02T22:00:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j22prt/john_phillips_the_bird_with_plastic_feathers_folk/"> <img src="https://external-preview.redd.it/RFJIQFeqhfXyM_L5YUYhtafhhJ7hC56KTGfF4JhPnkY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4abe27777c8a7729c33bb1d7ca14a894c879c82d" alt="John Phillips -- The Bird with Plastic Feathers [Folk] (1969)" title="John Phillips -- The Bird with Plastic Feathers [Folk] (1969)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JZSpinalFusion"> /u/JZSpinalFusion </a> <br/> <span><a href="https://youtu.be/3bq4CARO-8I">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j22prt/john_phillips_the_bird_with_plastic_feathers_folk/">[comments]</a></span> </td></tr></table>
+
+## Bass Capital — Moncler After [Electro House] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j22aht/bass_capital_moncler_after_electro_house_2025](https://www.reddit.com/r/listentothis/comments/1j22aht/bass_capital_moncler_after_electro_house_2025)
+ - RSS feed: $source
+ - date published: 2025-03-02T21:41:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j22aht/bass_capital_moncler_after_electro_house_2025/"> <img src="https://external-preview.redd.it/B-P1sId3nreJjKXFgJHqTXSfoxr_OkEwBGhowJVbgns.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=71d92905c827e0d16ebe1d8baf8baf613ed62483" alt="Bass Capital — Moncler After [Electro House] (2025)" title="Bass Capital — Moncler After [Electro House] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/After_Alfalfa465"> /u/After_Alfalfa465 </a> <br/> <span><a href="https://youtube.com/watch?v=X0hKZenvP-E">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j22aht/bass_capital_moncler_after_electro_house_2025/">[comments]</a></span> </td></tr></table>
+
+## Willard! - Will Wood [Avant-pop] (2021)
+ - [https://www.reddit.com/r/listentothis/comments/1j21osm/willard_will_wood_avantpop_2021](https://www.reddit.com/r/listentothis/comments/1j21osm/willard_will_wood_avantpop_2021)
+ - RSS feed: $source
+ - date published: 2025-03-02T21:16:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j21osm/willard_will_wood_avantpop_2021/"> <img src="https://external-preview.redd.it/7slRVsRfuo_YYhxKkA7FtEqRwk2Ti5FEWrevYD9gD4c.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=93743cd84b88a5dc1d5afdf2dd3372a0b37401c8" alt="Willard! - Will Wood [Avant-pop] (2021)" title="Willard! - Will Wood [Avant-pop] (2021)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Advanced-Stick-2221"> /u/Advanced-Stick-2221 </a> <br/> <span><a href="https://youtu.be/RHhgHmy0m9k?si=JoEmkO_odbO3zHXZ">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j21osm/willard_will_wood_avantpop_2021/">[comments]</a></span> </td></tr></table>
+
+## Cult of Venus -- Algorithm [Electronic / Synthpop] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j20uus/cult_of_venus_algorithm_electronic_synthpop_2025](https://www.reddit.com/r/listentothis/comments/1j20uus/cult_of_venus_algorithm_electronic_synthpop_2025)
+ - RSS feed: $source
+ - date published: 2025-03-02T20:41:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j20uus/cult_of_venus_algorithm_electronic_synthpop_2025/"> <img src="https://external-preview.redd.it/MQCFBpBEJPjK-jQzmqILnNQypblNFeaJuzoEdpsmWRc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5f44553699b1cabbf9a073ed82ca7fe22938b3f6" alt="Cult of Venus -- Algorithm [Electronic / Synthpop] (2025)" title="Cult of Venus -- Algorithm [Electronic / Synthpop] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GelatinousPower"> /u/GelatinousPower </a> <br/> <span><a href="https://youtu.be/n0B6Z3VN0GM?si=Eh78NlqFjlVmWFY9">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j20uus/cult_of_venus_algorithm_electronic_synthpop_2025/">[comments]</a></span> </td></tr></table>
+
+## invitrace -- ᗩᑎ᙭IETY [Lofi Psychotic Wubby] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j206cc/invitrace_ᗩᑎiety_lofi_psychotic_wubby_2025](https://www.reddit.com/r/listentothis/comments/1j206cc/invitrace_ᗩᑎiety_lofi_psychotic_wubby_2025)
+ - RSS feed: $source
+ - date published: 2025-03-02T20:12:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j206cc/invitrace_ᗩᑎiety_lofi_psychotic_wubby_2025/"> <img src="https://external-preview.redd.it/Q3awd7Jnr5aefYhiw3iDbX831f6eZjMtrbvBst0EPP8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d775a1a1eb489a21a416f54146d2caa762cb5f0d" alt="invitrace -- ᗩᑎ᙭IETY [Lofi Psychotic Wubby] (2025)" title="invitrace -- ᗩᑎ᙭IETY [Lofi Psychotic Wubby] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hot_Local_Single"> /u/Hot_Local_Single </a> <br/> <span><a href="https://www.youtube.com/watch?v=5AOLFVlFmDY">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j206cc/invitrace_ᗩᑎiety_lofi_psychotic_wubby_2025/">[comments]</a></span> </td></tr></table>
+
+## Black Messiah - Pagan Winter [Black Metal] (1998)
+ - [https://www.reddit.com/r/listentothis/comments/1j202yw/black_messiah_pagan_winter_black_metal_1998](https://www.reddit.com/r/listentothis/comments/1j202yw/black_messiah_pagan_winter_black_metal_1998)
+ - RSS feed: $source
+ - date published: 2025-03-02T20:08:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j202yw/black_messiah_pagan_winter_black_metal_1998/"> <img src="https://external-preview.redd.it/DU0_zDsaHsN2sfqhn-y5UUAJ4WuK8Iq5e5BhS6zNsSw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=197a7447739e1cf052ac7ba97e2c553bf1fe7b5e" alt="Black Messiah - Pagan Winter [Black Metal] (1998)" title="Black Messiah - Pagan Winter [Black Metal] (1998)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Safe_Caterpillar8339"> /u/Safe_Caterpillar8339 </a> <br/> <span><a href="https://youtu.be/Uzm1MxFHTtU?si=P3Kj5aOU4ChDXe1n">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j202yw/black_messiah_pagan_winter_black_metal_1998/">[comments]</a></span> </td></tr></table>
+
+## Josh Meader Trio - Tides of Time [instrumental progressive jazz rock](2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j1ziti/josh_meader_trio_tides_of_time_instrumental](https://www.reddit.com/r/listentothis/comments/1j1ziti/josh_meader_trio_tides_of_time_instrumental)
+ - RSS feed: $source
+ - date published: 2025-03-02T19:45:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1ziti/josh_meader_trio_tides_of_time_instrumental/"> <img src="https://external-preview.redd.it/T4fHGTnDwMV4vNRR-tlMJrBOvZ2YDbsKsM-7cdMtWVg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=eed8e964784ccc3ef3f3abc3be726d60ac3d6ea2" alt="Josh Meader Trio - Tides of Time [instrumental progressive jazz rock](2025)" title="Josh Meader Trio - Tides of Time [instrumental progressive jazz rock](2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/11ForeverAlone11"> /u/11ForeverAlone11 </a> <br/> <span><a href="https://www.youtube.com/watch?v=evViEP84YQg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1ziti/josh_meader_trio_tides_of_time_instrumental/">[comments]</a></span> </td></tr></table>
+
+## Claire Welles -- Fall in Love [alt-pop] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1j1yudk/claire_welles_fall_in_love_altpop_2024](https://www.reddit.com/r/listentothis/comments/1j1yudk/claire_welles_fall_in_love_altpop_2024)
+ - RSS feed: $source
+ - date published: 2025-03-02T19:16:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1yudk/claire_welles_fall_in_love_altpop_2024/"> <img src="https://external-preview.redd.it/qzwvNwGDq-p6tofz2a64I3mW7eMJ6PkjQEMrBjFBy-o.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=235babf1f53a42c19ae83283067659d7e889e4ad" alt="Claire Welles -- Fall in Love [alt-pop] (2024)" title="Claire Welles -- Fall in Love [alt-pop] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rbbrslmn"> /u/rbbrslmn </a> <br/> <span><a href="https://www.youtube.com/watch?v=lsB0R1acj5U">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1yudk/claire_welles_fall_in_love_altpop_2024/">[comments]</a></span> </td></tr></table>
+
+## Inanna — Beyond Time and Memory [Progressive Death Metal] (2008)
+ - [https://www.reddit.com/r/listentothis/comments/1j1xy2t/inanna_beyond_time_and_memory_progressive_death](https://www.reddit.com/r/listentothis/comments/1j1xy2t/inanna_beyond_time_and_memory_progressive_death)
+ - RSS feed: $source
+ - date published: 2025-03-02T18:40:38+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1xy2t/inanna_beyond_time_and_memory_progressive_death/"> <img src="https://external-preview.redd.it/11SCKE6RvzqW7JzMdCM2_fxtpakT-k10lDSTggXirC0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6901e265d7b952a9999a57ae65c2610875586edd" alt="Inanna — Beyond Time and Memory [Progressive Death Metal] (2008)" title="Inanna — Beyond Time and Memory [Progressive Death Metal] (2008)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Zac_1244"> /u/Zac_1244 </a> <br/> <span><a href="https://youtu.be/pkR-htGNIgQ?si=26hN4xZNw1wAWzVL">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1xy2t/inanna_beyond_time_and_memory_progressive_death/">[comments]</a></span> </td></tr></table>
+
+## Bass Capital — Brainrot [Electro Rap] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j1x31z/bass_capital_brainrot_electro_rap_2025](https://www.reddit.com/r/listentothis/comments/1j1x31z/bass_capital_brainrot_electro_rap_2025)
+ - RSS feed: $source
+ - date published: 2025-03-02T18:05:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1x31z/bass_capital_brainrot_electro_rap_2025/"> <img src="https://external-preview.redd.it/5VHki0QZN26ZJVWYaiJAzAQ3HKCGXJl7Hndv40uZnFY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=80ff2a1b6d639df126855cede6051225bdba1a06" alt="Bass Capital — Brainrot [Electro Rap] (2025)" title="Bass Capital — Brainrot [Electro Rap] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/After_Alfalfa465"> /u/After_Alfalfa465 </a> <br/> <span><a href="https://youtube.com/watch?v=mTWSX87WVNs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1x31z/bass_capital_brainrot_electro_rap_2025/">[comments]</a></span> </td></tr></table>
+
+## Sofia Bolt -- Get Out of My Head [indie rock] (2018)
+ - [https://www.reddit.com/r/listentothis/comments/1j1w675/sofia_bolt_get_out_of_my_head_indie_rock_2018](https://www.reddit.com/r/listentothis/comments/1j1w675/sofia_bolt_get_out_of_my_head_indie_rock_2018)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:27:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1w675/sofia_bolt_get_out_of_my_head_indie_rock_2018/"> <img src="https://external-preview.redd.it/dsozkinRt6HEjPlp7kD3yySLy9agrqKjUUzy3XvkmNc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=341202040c3e00214bb3a226f7e11ef306731144" alt="Sofia Bolt -- Get Out of My Head [indie rock] (2018)" title="Sofia Bolt -- Get Out of My Head [indie rock] (2018)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/qazz23"> /u/qazz23 </a> <br/> <span><a href="https://www.youtube.com/watch?v=iPjRRNsxO8k">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1w675/sofia_bolt_get_out_of_my_head_indie_rock_2018/">[comments]</a></span> </td></tr></table>
+
+## Milly Raccoon - Marijuana in the Morning [bluegrass/country] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j1vje4/milly_raccoon_marijuana_in_the_morning](https://www.reddit.com/r/listentothis/comments/1j1vje4/milly_raccoon_marijuana_in_the_morning)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:02:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1vje4/milly_raccoon_marijuana_in_the_morning/"> <img src="https://external-preview.redd.it/phkUBXNaIqQOEzYHe87DzGoW0ABzJk9jeVb3QME-b7A.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=82b599d964a672ff49c5c5dfd6ba39601adc85a9" alt="Milly Raccoon - Marijuana in the Morning [bluegrass/country] (2025)" title="Milly Raccoon - Marijuana in the Morning [bluegrass/country] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rockerswise"> /u/rockerswise </a> <br/> <span><a href="https://youtu.be/XrXFtOvAsbQ?si=xflfCVm5VelkWLVy">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1vje4/milly_raccoon_marijuana_in_the_morning/">[comments]</a></span> </td></tr></table>
+
+## Dave Knoff — Putin Must Die [Easy Listening] (2023)
+ - [https://www.reddit.com/r/listentothis/comments/1j1titj/dave_knoff_putin_must_die_easy_listening_2023](https://www.reddit.com/r/listentothis/comments/1j1titj/dave_knoff_putin_must_die_easy_listening_2023)
+ - RSS feed: $source
+ - date published: 2025-03-02T15:36:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1titj/dave_knoff_putin_must_die_easy_listening_2023/"> <img src="https://external-preview.redd.it/yKQBq_16WYZ6pxWpw-Xf2mnfCjyuz8CuLC74LfNgcXY.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=99a462ace9800b17ac35620b6e8a7bf347e33b67" alt="Dave Knoff — Putin Must Die [Easy Listening] (2023)" title="Dave Knoff — Putin Must Die [Easy Listening] (2023)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MoreMagic"> /u/MoreMagic </a> <br/> <span><a href="https://open.spotify.com/track/3DnbjiUqWjBzgg97Y4REB5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1titj/dave_knoff_putin_must_die_easy_listening_2023/">[comments]</a></span> </td></tr></table>
+
+## 454 - Between Us [pluggnb] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1j1rm0j/454_between_us_pluggnb_2024](https://www.reddit.com/r/listentothis/comments/1j1rm0j/454_between_us_pluggnb_2024)
+ - RSS feed: $source
+ - date published: 2025-03-02T14:07:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1rm0j/454_between_us_pluggnb_2024/"> <img src="https://external-preview.redd.it/jU2Pe9jfccQ2RyumE4EK986__HNARXnvq90IBwjSvz8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=50badf2a12930efbe07d6e9472c59e09539e56c9" alt="454 - Between Us [pluggnb] (2024)" title="454 - Between Us [pluggnb] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/eichlers__"> /u/eichlers__ </a> <br/> <span><a href="https://youtu.be/g9mta4bbZ3U?si=f3VlzE9_VMKJ4Er9">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1rm0j/454_between_us_pluggnb_2024/">[comments]</a></span> </td></tr></table>
+
+## Hurtwave - Black and Blue [synth pop rock] (2021)
+ - [https://www.reddit.com/r/listentothis/comments/1j1r2jv/hurtwave_black_and_blue_synth_pop_rock_2021](https://www.reddit.com/r/listentothis/comments/1j1r2jv/hurtwave_black_and_blue_synth_pop_rock_2021)
+ - RSS feed: $source
+ - date published: 2025-03-02T13:40:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1r2jv/hurtwave_black_and_blue_synth_pop_rock_2021/"> <img src="https://external-preview.redd.it/hip4mcNheEvfNBKS01HVpc8K573TFQWAgvju1rWW7XY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=71a6273a7e4bcff9e6a809754fc0015d26148c77" alt="Hurtwave - Black and Blue [synth pop rock] (2021)" title="Hurtwave - Black and Blue [synth pop rock] (2021)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheGoreyDetails"> /u/TheGoreyDetails </a> <br/> <span><a href="https://youtu.be/Bb5kmtdltxg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1r2jv/hurtwave_black_and_blue_synth_pop_rock_2021/">[comments]</a></span> </td></tr></table>
+
+## Laeko - Climax [Bass House] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j1qq7y/laeko_climax_bass_house_2025](https://www.reddit.com/r/listentothis/comments/1j1qq7y/laeko_climax_bass_house_2025)
+ - RSS feed: $source
+ - date published: 2025-03-02T13:22:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1qq7y/laeko_climax_bass_house_2025/"> <img src="https://external-preview.redd.it/I7zVsjvugNF_0jHjWGpUTFfD7Jw6FmNEchjMaRHeV_E.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ca2c41fc1aaba79ef9f9e795087edb17d3edff27" alt="Laeko - Climax [Bass House] (2025)" title="Laeko - Climax [Bass House] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/g0nss"> /u/g0nss </a> <br/> <span><a href="https://youtu.be/Oq9kHQk3uMw?si=ds1Z1lVNQeXXjkTY">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1qq7y/laeko_climax_bass_house_2025/">[comments]</a></span> </td></tr></table>
+
+## World of Pooh - Scissors [Indie Rock] (1989)
+ - [https://www.reddit.com/r/listentothis/comments/1j1qa2u/world_of_pooh_scissors_indie_rock_1989](https://www.reddit.com/r/listentothis/comments/1j1qa2u/world_of_pooh_scissors_indie_rock_1989)
+ - RSS feed: $source
+ - date published: 2025-03-02T12:58:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1qa2u/world_of_pooh_scissors_indie_rock_1989/"> <img src="https://external-preview.redd.it/d3xVxDgncNW78L8X_KKOK7WreJoU1DpsiPIa7ayMqeM.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=35c3a0c5a8d504ed8c55f151674301ac09b23234" alt="World of Pooh - Scissors [Indie Rock] (1989)" title="World of Pooh - Scissors [Indie Rock] (1989)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheBlitzkid46"> /u/TheBlitzkid46 </a> <br/> <span><a href="https://open.spotify.com/track/3GhBm0yrzW4UrEMWkUo36N?si=teks61M7ShS62pn3ZO5Ckw">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1qa2u/world_of_pooh_scissors_indie_rock_1989/">[comments]</a></span> </td></tr></table>
+
+## Crippled Hip - Total Chaos [Indie/Acoustic/Singer-Songwriter] (2021)
+ - [https://www.reddit.com/r/listentothis/comments/1j1oh0t/crippled_hip_total_chaos](https://www.reddit.com/r/listentothis/comments/1j1oh0t/crippled_hip_total_chaos)
+ - RSS feed: $source
+ - date published: 2025-03-02T11:03:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1oh0t/crippled_hip_total_chaos/"> <img src="https://external-preview.redd.it/HgOVbhKK1tsW5gALwlelkT5H8TAVQSfnGqv-cevrpwg.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=b154d194cf87dd39be5935329cf046dea7039785" alt="Crippled Hip - Total Chaos [Indie/Acoustic/Singer-Songwriter] (2021)" title="Crippled Hip - Total Chaos [Indie/Acoustic/Singer-Songwriter] (2021)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Robobobosan"> /u/Robobobosan </a> <br/> <span><a href="https://open.spotify.com/track/3KrISXXL4KWxJghWHnQlpg?si=bb7cfda6cd5c41a3">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1oh0t/crippled_hip_total_chaos/">[comments]</a></span> </td></tr></table>
+
+## Crippled - Total Chaos [Indie/Acoustic/Singer-Songwriter] (2021)
+ - [https://www.reddit.com/r/listentothis/comments/1j1nys3/crippled_total_chaos](https://www.reddit.com/r/listentothis/comments/1j1nys3/crippled_total_chaos)
+ - RSS feed: $source
+ - date published: 2025-03-02T10:29:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1nys3/crippled_total_chaos/"> <img src="https://external-preview.redd.it/HgOVbhKK1tsW5gALwlelkT5H8TAVQSfnGqv-cevrpwg.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=b154d194cf87dd39be5935329cf046dea7039785" alt="Crippled - Total Chaos [Indie/Acoustic/Singer-Songwriter] (2021)" title="Crippled - Total Chaos [Indie/Acoustic/Singer-Songwriter] (2021)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Robobobosan"> /u/Robobobosan </a> <br/> <span><a href="https://open.spotify.com/track/3KrISXXL4KWxJghWHnQlpg?si=2706fcde922c4fad">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1nys3/crippled_total_chaos/">[comments]</a></span> </td></tr></table>
+
+## Palisades - Like A Drug [Electronicore/Post Hardcore] (2015)
+ - [https://www.reddit.com/r/listentothis/comments/1j1mkno/palisades_like_a_drug_electronicorepost_hardcore](https://www.reddit.com/r/listentothis/comments/1j1mkno/palisades_like_a_drug_electronicorepost_hardcore)
+ - RSS feed: $source
+ - date published: 2025-03-02T08:49:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1mkno/palisades_like_a_drug_electronicorepost_hardcore/"> <img src="https://external-preview.redd.it/K-BfdJqfcl7YNcliA9282Qxvb8K2zEkjHnuBoNDl6T4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c8d2d677ffe7da5496c416823777181b7b853c75" alt="Palisades - Like A Drug [Electronicore/Post Hardcore] (2015)" title="Palisades - Like A Drug [Electronicore/Post Hardcore] (2015)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_HKB_"> /u/_HKB_ </a> <br/> <span><a href="https://youtube.com/watch?v=IDxt_WEbEd4&amp;si=wj0tkrmTfFnYmjgS">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1mkno/palisades_like_a_drug_electronicorepost_hardcore/">[comments]</a></span> </td></tr></table>
+
+## Palisades - Afraid [Electronicore/Post Hardcore] (2015)
+ - [https://www.reddit.com/r/listentothis/comments/1j1mk41/palisades_afraid_electronicorepost_hardcore_2015](https://www.reddit.com/r/listentothis/comments/1j1mk41/palisades_afraid_electronicorepost_hardcore_2015)
+ - RSS feed: $source
+ - date published: 2025-03-02T08:48:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1mk41/palisades_afraid_electronicorepost_hardcore_2015/"> <img src="https://external-preview.redd.it/XHfD5jb7h1PIHy-nIJI0Jj4EH7TV4cmWREO_TTWvOgk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=518e7c028b24924af10d3fbce3ea4b1b372d1d95" alt="Palisades - Afraid [Electronicore/Post Hardcore] (2015)" title="Palisades - Afraid [Electronicore/Post Hardcore] (2015)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_HKB_"> /u/_HKB_ </a> <br/> <span><a href="https://youtube.com/watch?v=PpEU6JqWGVg&amp;si=r8lgVsMI28yGrrcm">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1mk41/palisades_afraid_electronicorepost_hardcore_2015/">[comments]</a></span> </td></tr></table>
+
+## Palisades - Bad Girls [Electronicore/Post Hardcore] (2015)
+ - [https://www.reddit.com/r/listentothis/comments/1j1mjgb/palisades_bad_girls_electronicorepost_hardcore](https://www.reddit.com/r/listentothis/comments/1j1mjgb/palisades_bad_girls_electronicorepost_hardcore)
+ - RSS feed: $source
+ - date published: 2025-03-02T08:46:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1mjgb/palisades_bad_girls_electronicorepost_hardcore/"> <img src="https://external-preview.redd.it/77_ZmCB6arpLHB1zIXh9jD0_hTq-TfaVP-rFu9v1N_I.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1af4ca1d413fce94062aff936e033e8e19a98d4a" alt="Palisades - Bad Girls [Electronicore/Post Hardcore] (2015)" title="Palisades - Bad Girls [Electronicore/Post Hardcore] (2015)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_HKB_"> /u/_HKB_ </a> <br/> <span><a href="https://youtube.com/watch?v=AtLxi0z-LUU&amp;si=z1XnJn1cODxhBckW">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1mjgb/palisades_bad_girls_electronicorepost_hardcore/">[comments]</a></span> </td></tr></table>
+
+## Palisades - Whatever You Want It To Be [Electronicore/Post Hardcore] (2015)
+ - [https://www.reddit.com/r/listentothis/comments/1j1mh27/palisades_whatever_you_want_it_to_be](https://www.reddit.com/r/listentothis/comments/1j1mh27/palisades_whatever_you_want_it_to_be)
+ - RSS feed: $source
+ - date published: 2025-03-02T08:42:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1mh27/palisades_whatever_you_want_it_to_be/"> <img src="https://external-preview.redd.it/wRTHwSSECf45DlPYkCaSno4yTNR7ORNHW5YZOFLvXmI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=264a9accae27c5d7b605154396f5e68efaa6f7c5" alt="Palisades - Whatever You Want It To Be [Electronicore/Post Hardcore] (2015)" title="Palisades - Whatever You Want It To Be [Electronicore/Post Hardcore] (2015)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_HKB_"> /u/_HKB_ </a> <br/> <span><a href="https://youtube.com/watch?v=V3ye9IxpJTY&amp;si=U6WRDITdEW4QFde1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1mh27/palisades_whatever_you_want_it_to_be/">[comments]</a></span> </td></tr></table>
+
+## Kardashev - Alunea [metal] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j1mf4z/kardashev_alunea_metal_2025](https://www.reddit.com/r/listentothis/comments/1j1mf4z/kardashev_alunea_metal_2025)
+ - RSS feed: $source
+ - date published: 2025-03-02T08:38:08+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1mf4z/kardashev_alunea_metal_2025/"> <img src="https://external-preview.redd.it/6nzaNhI3QUTzvqHijFAbs7qJcz7363HPC1uNIPdkRh4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=314ecabdfc538a558d396b956222db143732b477" alt="Kardashev - Alunea [metal] (2025)" title="Kardashev - Alunea [metal] (2025)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Beautiful song. Ending is so harmonic and ties a nice knot to conclude the track. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aestheticy"> /u/aestheticy </a> <br/> <span><a href="https://youtube.com/watch?v=40-IdJqXTm0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1mf4z/kardashev_alunea_metal_2025/">[comments]</a></span> </td></tr></table>
+
+## Daevar - Lilith’s Lullaby [metal] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1j1m5m8/daevar_liliths_lullaby_metal_2024](https://www.reddit.com/r/listentothis/comments/1j1m5m8/daevar_liliths_lullaby_metal_2024)
+ - RSS feed: $source
+ - date published: 2025-03-02T08:18:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1m5m8/daevar_liliths_lullaby_metal_2024/"> <img src="https://external-preview.redd.it/kdvRE66AfwFaMh08HnLtM-XNlYO-eogdVI72wYC2jNw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0768fd89ac487e41a9e62e849ee4670d00568941" alt="Daevar - Lilith’s Lullaby [metal] (2024)" title="Daevar - Lilith’s Lullaby [metal] (2024)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://youtube.com/watch?v=gx1EeEKd2s4&amp;pp=ygUYRGVhdmFyICBsaWxsaXRoZSBsaWxsYWJ5">https://youtube.com/watch?v=gx1EeEKd2s4&amp;pp=ygUYRGVhdmFyICBsaWxsaXRoZSBsaWxsYWJ5</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aestheticy"> /u/aestheticy </a> <br/> <span><a href="https://youtube.com/watch?v=gx1EeEKd2s4&amp;pp=ygUYRGVhdmFyICBsaWxsaXRoZSBsaWxsYWJ5">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1m5m8/daevar_liliths_lullaby_metal_2024/">[comments]</a></s
+
+## Paper Rival - Bluebird [indie rock] (2011)
+ - [https://www.reddit.com/r/listentothis/comments/1j1m2gk/paper_rival_bluebird_indie_rock_2011](https://www.reddit.com/r/listentothis/comments/1j1m2gk/paper_rival_bluebird_indie_rock_2011)
+ - RSS feed: $source
+ - date published: 2025-03-02T08:12:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1m2gk/paper_rival_bluebird_indie_rock_2011/"> <img src="https://external-preview.redd.it/EcSYZW1x-QspEMwLr1toHBleQC6zS2Zs-tm1yjuwCI8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=88556013750282bc7db64f4087c5d9cbec07f93d" alt="Paper Rival - Bluebird [indie rock] (2011)" title="Paper Rival - Bluebird [indie rock] (2011)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aestheticy"> /u/aestheticy </a> <br/> <span><a href="https://youtube.com/watch?v=gXbGNB6AseU&amp;pp=ygUUcGFwZXIgcml2YWwgYmx1ZWJpcmQ%3D">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1m2gk/paper_rival_bluebird_indie_rock_2011/">[comments]</a></span> </td></tr></table>
+
+## invitrace - 𝕤𝕙𝕒𝕣𝕕𝕤 𝕠𝕗 𝕟𝕖𝕧𝕖𝕣 [lofi synth blues] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j1lpa1/invitrace_𝕤𝕙𝕒𝕣𝕕𝕤_𝕠𝕗_𝕟𝕖𝕧𝕖𝕣_lofi_synth_blues_2025](https://www.reddit.com/r/listentothis/comments/1j1lpa1/invitrace_𝕤𝕙𝕒𝕣𝕕𝕤_𝕠𝕗_𝕟𝕖𝕧𝕖𝕣_lofi_synth_blues_2025)
+ - RSS feed: $source
+ - date published: 2025-03-02T07:46:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1lpa1/invitrace_𝕤𝕙𝕒𝕣𝕕𝕤_𝕠𝕗_𝕟𝕖𝕧𝕖𝕣_lofi_synth_blues_2025/"> <img src="https://external-preview.redd.it/FUsmDcKiTi6_9GexmS6SGzjIUmCg1weK5DKk5Og2d50.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=41d7c0b4abcc5f067d841995dff28a00ad66abb6" alt="invitrace - 𝕤𝕙𝕒𝕣𝕕𝕤 𝕠𝕗 𝕟𝕖𝕧𝕖𝕣 [lofi synth blues] (2025)" title="invitrace - 𝕤𝕙𝕒𝕣𝕕𝕤 𝕠𝕗 𝕟𝕖𝕧𝕖𝕣 [lofi synth blues] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hot_Local_Single"> /u/Hot_Local_Single </a> <br/> <span><a href="https://www.youtube.com/watch?v=wS3rP7Mx8Jo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1lpa1/invitrace_𝕤𝕙𝕒𝕣𝕕𝕤_𝕠𝕗_𝕟𝕖𝕧𝕖𝕣_lofi_synth_blues_2025/">[comments]</a></span> </td></tr></table>
+
+## dearALICE - Ariana [Dance/Pop] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j1l4nt/dearalice_ariana_dancepop_2025](https://www.reddit.com/r/listentothis/comments/1j1l4nt/dearalice_ariana_dancepop_2025)
+ - RSS feed: $source
+ - date published: 2025-03-02T07:06:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1l4nt/dearalice_ariana_dancepop_2025/"> <img src="https://external-preview.redd.it/1O2hQ6OvxVPU4ez2kpZplOxntCkYHjL2xdtG-7UCKKI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b883f69a4a08677a60d688880b185bdc3fd570f4" alt="dearALICE - Ariana [Dance/Pop] (2025)" title="dearALICE - Ariana [Dance/Pop] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/4DWifi"> /u/4DWifi </a> <br/> <span><a href="https://www.youtube.com/watch?v=bBkX2hCQXEM">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1l4nt/dearalice_ariana_dancepop_2025/">[comments]</a></span> </td></tr></table>
+
+## Exurb1a -- Letter to Marble 3 (remix) [ambient/lo-fi] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j1gfwq/exurb1a_letter_to_marble_3_remix_ambientlofi_2025](https://www.reddit.com/r/listentothis/comments/1j1gfwq/exurb1a_letter_to_marble_3_remix_ambientlofi_2025)
+ - RSS feed: $source
+ - date published: 2025-03-02T02:26:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1gfwq/exurb1a_letter_to_marble_3_remix_ambientlofi_2025/"> <img src="https://external-preview.redd.it/O3VxMY-cgOTBrQX20MlIzw5tMgc2Rdl3JUEOn9xv_mc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fc947f5ae33c04d0324a92ce4f103b41d80c770a" alt="Exurb1a -- Letter to Marble 3 (remix) [ambient/lo-fi] (2025)" title="Exurb1a -- Letter to Marble 3 (remix) [ambient/lo-fi] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ShareACokeWitMe"> /u/ShareACokeWitMe </a> <br/> <span><a href="https://youtu.be/gM_sCTgx-7s">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1gfwq/exurb1a_letter_to_marble_3_remix_ambientlofi_2025/">[comments]</a></span> </td></tr></table>
+
+## Kent Avenue Carpool - - Arizona [Indie Pop](2024)
+ - [https://www.reddit.com/r/listentothis/comments/1j1ge9p/kent_avenue_carpool_arizona_indie_pop2024](https://www.reddit.com/r/listentothis/comments/1j1ge9p/kent_avenue_carpool_arizona_indie_pop2024)
+ - RSS feed: $source
+ - date published: 2025-03-02T02:24:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1ge9p/kent_avenue_carpool_arizona_indie_pop2024/"> <img src="https://external-preview.redd.it/dFE6UeFE3_bdIAqbVeY6bSQ7W4uVVlggSlQw5OHHygM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d26ea5da9e90f930ae1e617b54bec5b786dd8663" alt="Kent Avenue Carpool - - Arizona [Indie Pop](2024)" title="Kent Avenue Carpool - - Arizona [Indie Pop](2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Indieidea"> /u/Indieidea </a> <br/> <span><a href="https://youtu.be/Ca1biTUlnj4?si=NIrAK9oCs7dYYi4W">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1ge9p/kent_avenue_carpool_arizona_indie_pop2024/">[comments]</a></span> </td></tr></table>
+
+## Love is Noise -- Evelyn [Alt. Metal/Shoegaze](2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j1fuhx/love_is_noise_evelyn_alt_metalshoegaze2025](https://www.reddit.com/r/listentothis/comments/1j1fuhx/love_is_noise_evelyn_alt_metalshoegaze2025)
+ - RSS feed: $source
+ - date published: 2025-03-02T01:55:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1fuhx/love_is_noise_evelyn_alt_metalshoegaze2025/"> <img src="https://external-preview.redd.it/AW6r3xgJOoi7cfyhcV8yzaY6pFWlHOiBQu3cIdITGIM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0bb0e1c6a7285f7c104d2e9eab80ad406120730" alt="Love is Noise -- Evelyn [Alt. Metal/Shoegaze](2025)" title="Love is Noise -- Evelyn [Alt. Metal/Shoegaze](2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CentreToWave"> /u/CentreToWave </a> <br/> <span><a href="https://loveisnoise.bandcamp.com/track/evelyn">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1fuhx/love_is_noise_evelyn_alt_metalshoegaze2025/">[comments]</a></span> </td></tr></table>
+
+## Dante Cross- - Whatever Will I Do [R&B Pop] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1j1dp9x/dante_cross_whatever_will_i_do_rb_pop_2024](https://www.reddit.com/r/listentothis/comments/1j1dp9x/dante_cross_whatever_will_i_do_rb_pop_2024)
+ - RSS feed: $source
+ - date published: 2025-03-02T00:06:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j1dp9x/dante_cross_whatever_will_i_do_rb_pop_2024/"> <img src="https://external-preview.redd.it/xGMq-B_lcIwkJLltUsNA-gfDckA4aAGmGiTZ_SBDsvg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c8e0f51be9fa449895303411e6ec9f85d034b0e7" alt="Dante Cross- - Whatever Will I Do [R&amp;B Pop] (2024)" title="Dante Cross- - Whatever Will I Do [R&amp;B Pop] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Persongettingby"> /u/Persongettingby </a> <br/> <span><a href="https://youtu.be/O-tc6Kf-NFc?feature=shared">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j1dp9x/dante_cross_whatever_will_i_do_rb_pop_2024/">[comments]</a></span> </td></tr></table>
+

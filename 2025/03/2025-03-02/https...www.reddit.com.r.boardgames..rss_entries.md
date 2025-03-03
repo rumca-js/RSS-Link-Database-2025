@@ -1,0 +1,387 @@
+# Source:boardgames, URL:https://www.reddit.com/r/boardgames/.rss, language:en
+
+## Looking to pre order Elder Scrolls BotSE in Canada
+ - [https://www.reddit.com/r/boardgames/comments/1j24y02/looking_to_pre_order_elder_scrolls_botse_in_canada](https://www.reddit.com/r/boardgames/comments/1j24y02/looking_to_pre_order_elder_scrolls_botse_in_canada)
+ - RSS feed: $source
+ - date published: 2025-03-02T23:39:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m deciding whether or not to pre order Betrayal of the Second Era and where to buy it from. It appears cheaper to pre order from 401 games and Board Game Bliss, opposed to buying it straight from CTG. </p> <p>Is this the right move? Or do I risk missing the first wave of prints when it comes to retail. </p> <p>Cheers </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KittiesAndDanger"> /u/KittiesAndDanger </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j24y02/looking_to_pre_order_elder_scrolls_botse_in_canada/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j24y02/looking_to_pre_order_elder_scrolls_botse_in_canada/">[comments]</a></span>
+
+## Invincible Hero-Building Game
+ - [https://www.reddit.com/r/boardgames/comments/1j24srr/invincible_herobuilding_game](https://www.reddit.com/r/boardgames/comments/1j24srr/invincible_herobuilding_game)
+ - RSS feed: $source
+ - date published: 2025-03-02T23:32:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>Can anyone offer clarification on the rules when playing the campaign? Are you keeping all your cards after each episode or are they reset at the beginning of each episode? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Altruistic_Brush9255"> /u/Altruistic_Brush9255 </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j24srr/invincible_herobuilding_game/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j24srr/invincible_herobuilding_game/">[comments]</a></span>
+
+## COOP Recs
+ - [https://www.reddit.com/r/boardgames/comments/1j24m2i/coop_recs](https://www.reddit.com/r/boardgames/comments/1j24m2i/coop_recs)
+ - RSS feed: $source
+ - date published: 2025-03-02T23:23:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi there - my wife and I are wanting to get started in a fun COOP board game but not sure where to start. We are looking for something not overly complex that takes around an hour to play. Also one that could be played with more people. My research has pointed me towards The Captain is Dead or Spirit Island. Any recs I should definitely check out? Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheBlazingOrca"> /u/TheBlazingOrca </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j24m2i/coop_recs/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j24m2i/coop_recs/">[comments]</a></span>
+
+## COMC started about 8 years ago
+ - [https://www.reddit.com/r/boardgames/comments/1j24aqj/comc_started_about_8_years_ago](https://www.reddit.com/r/boardgames/comments/1j24aqj/comc_started_about_8_years_ago)
+ - RSS feed: $source
+ - date published: 2025-03-02T23:09:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1j24aqj/comc_started_about_8_years_ago/"> <img src="https://b.thumbs.redditmedia.com/DhIhNet5qsUF0y7a5d5yb6T-v_b8X121w_En3w_gn4E.jpg" alt="COMC started about 8 years ago" title="COMC started about 8 years ago" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Started playing close to 8 years ago with munchkins, bang the dice game, and survive the island and star wars xwing. Have played dnd and mtg since early 90s.</p> <p>Favorite types of games are by far campaign games. With gloomhaven, middara and oathsworn my favorites I have played. </p> <p>2nd Favorite type of game are legacy. We have played pandemic season 1, eaons end legacy, clank legacy and playing ticket to ride legacy now</p> <p>Playing frosthaven, oathsworn, and kinfire chronicles now with 3 difrent groups. </p> <p>Some of my favorite none campaign games I own are spirit island, castles of burgandy, mansions of madness 2nd edition, champions of midgu
+
+## Got this baby today
+ - [https://www.reddit.com/r/boardgames/comments/1j23q73/got_this_baby_today](https://www.reddit.com/r/boardgames/comments/1j23q73/got_this_baby_today)
+ - RSS feed: $source
+ - date published: 2025-03-02T22:43:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1j23q73/got_this_baby_today/"> <img src="https://b.thumbs.redditmedia.com/pZNZCURpBM6YxT1WzEkg6ZziOv0mOyeA0fh6tE1jhmY.jpg" alt="Got this baby today" title="Got this baby today" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Nobody seems to talk about this game, so allow me to sum it up.</p> <p>5 Up, created by Tomy, is a dice game where players race to get rid of their tokens by rolling a single die (as the pictures in this post will tell you). I thought it&#39;d be a real good travel game, and the concept of a &quot;push-your-luck&quot; game has interested me for a while.</p> <p>So, what are your thoughts?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nintendo2023"> /u/Nintendo2023 </a> <br/> <span><a href="https://www.reddit.com/gallery/1j23q73">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j23q73/got_this_baby_today/">[comments
+
+## Anyone know what game this is?
+ - [https://www.reddit.com/r/boardgames/comments/1j22id9/anyone_know_what_game_this_is](https://www.reddit.com/r/boardgames/comments/1j22id9/anyone_know_what_game_this_is)
+ - RSS feed: $source
+ - date published: 2025-03-02T21:51:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1j22id9/anyone_know_what_game_this_is/"> <img src="https://preview.redd.it/vka3gobykcme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3e5964727a8bd332bb74316b8386401ff5fe33aa" alt="Anyone know what game this is?" title="Anyone know what game this is?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/akmvb21"> /u/akmvb21 </a> <br/> <span><a href="https://i.redd.it/vka3gobykcme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j22id9/anyone_know_what_game_this_is/">[comments]</a></span> </td></tr></table>
+
+## Sleeves for La Fleur
+ - [https://www.reddit.com/r/boardgames/comments/1j1ztqk/sleeves_for_la_fleur](https://www.reddit.com/r/boardgames/comments/1j1ztqk/sleeves_for_la_fleur)
+ - RSS feed: $source
+ - date published: 2025-03-02T19:58:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is there someone who already sleeved La Fleur? I’m thinking about it as well, but not sure what kind of sleeve I should use. I don’t have much experience with sleeving, the only game I sleeved was Botany. I used mayday card sleeves, but they feel very slippery, especially with the huge decks. Is there a better option I could use for La Fleur and the cards would still fit in the box? Would matte sleeves work better?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lulejudy"> /u/lulejudy </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1ztqk/sleeves_for_la_fleur/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1ztqk/sleeves_for_la_fleur/">[comments]</a></span>
+
+## Weekly Crowdfunding Roundup: March 2, 2025 | 16 ending soon ("Star Trek Ascendancy: The Final Frontier", "Fateforge: Chronicles of Kaan") & 35 new ("Tiny Epic Dungeons Adventures", "Blasphemous: The Board Game")
+ - [https://www.reddit.com/r/boardgames/comments/1j1z2ad/weekly_crowdfunding_roundup_march_2_2025_16](https://www.reddit.com/r/boardgames/comments/1j1z2ad/weekly_crowdfunding_roundup_march_2_2025_16)
+ - RSS feed: $source
+ - date published: 2025-03-02T19:26:11+00:00
+
+<!-- SC_OFF --><div class="md"><h2>What is this?</h2> <p>This is a weekly roundup of board game crowdfunding projects, featuring new launches from the past week and campaigns ending in the coming week. The information is sourced from Kickstarter, Gamefound, and Backerkit.</p> <p>The list is curated through a combination of automated data collection and manual review, so occasional errors or omissions may occur. If you notice a missing project, feel free to mention it in the comments. Only projects meeting the selection criteria outlined below are included.</p> <h2>Other channels</h2> <p>Other than Reddit, you can also find this list on the following platforms:</p> <ul> <li><a href="https://docs.google.com/document/d/1AG5IdniABY2lJOLuDnSaef7L0n6aHsWMn5NuhJkvB3o">Google Docs</a></li> <li><a href="https://mastodon.social/@danielpervan">Mastodon</a></li> <li><a href="https://bsky.app/profile/danielpervan.bsky.social">Bluesky</a></li> </ul> <h2>Selection Criteria</h2> <p>Projects must mee
+
+## Tips for launching a monthly game night
+ - [https://www.reddit.com/r/boardgames/comments/1j1z0u7/tips_for_launching_a_monthly_game_night](https://www.reddit.com/r/boardgames/comments/1j1z0u7/tips_for_launching_a_monthly_game_night)
+ - RSS feed: $source
+ - date published: 2025-03-02T19:24:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Title. I just started a monthly game night last week. Kicked it off with Cyclades, but am curious about your tips and experiences for making this great. Especially about which games to play as most of the group besides me are new to gaming. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gooberbone"> /u/Gooberbone </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1z0u7/tips_for_launching_a_monthly_game_night/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1z0u7/tips_for_launching_a_monthly_game_night/">[comments]</a></span>
+
+## Custom Piece Creation Help
+ - [https://www.reddit.com/r/boardgames/comments/1j1yy90/custom_piece_creation_help](https://www.reddit.com/r/boardgames/comments/1j1yy90/custom_piece_creation_help)
+ - RSS feed: $source
+ - date published: 2025-03-02T19:21:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Looking to find a way to upgrade the metal tokens for Mistborn: the Deckbuilding game. For anyone not familiar, each of the players has 8 different two-unique-sided cardboard tokens about 1.25 inches in diameter (smaller than a poker chip). I want to upgrade these pieces to something metal/clay chip (not 3-d printed plastic), but I&#39;m having trouble finding a good way to do so. Does anyone know someone who might be able to make a custom set, or a customizable poker chip of smaller size? </p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hlhammer1001"> /u/hlhammer1001 </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1yy90/custom_piece_creation_help/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1yy90/custom_piece_creation_help/">[comments]</a></span>
+
+## A bespoke organizer for Star Trek: Ascendancy.
+ - [https://www.reddit.com/r/boardgames/comments/1j1ynlk/a_bespoke_organizer_for_star_trek_ascendancy](https://www.reddit.com/r/boardgames/comments/1j1ynlk/a_bespoke_organizer_for_star_trek_ascendancy)
+ - RSS feed: $source
+ - date published: 2025-03-02T19:09:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>All of the expansions in one box. 🖖</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_qor_"> /u/_qor_ </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1ynlk/a_bespoke_organizer_for_star_trek_ascendancy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1ynlk/a_bespoke_organizer_for_star_trek_ascendancy/">[comments]</a></span>
+
+## Random game pieces
+ - [https://www.reddit.com/r/boardgames/comments/1j1xv5c/random_game_pieces](https://www.reddit.com/r/boardgames/comments/1j1xv5c/random_game_pieces)
+ - RSS feed: $source
+ - date published: 2025-03-02T18:37:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1j1xv5c/random_game_pieces/"> <img src="https://b.thumbs.redditmedia.com/6T4h39Ws64A79fJSMl-6KTAMvgELERRZ_XnFgJUsNvc.jpg" alt="Random game pieces" title="Random game pieces" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Can anyone help my identify where these games pieces are from everyone from my work is stumped </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Accomplished_Big7523"> /u/Accomplished_Big7523 </a> <br/> <span><a href="https://www.reddit.com/gallery/1j1xv5c">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1xv5c/random_game_pieces/">[comments]</a></span> </td></tr></table>
+
+## Convention Question
+ - [https://www.reddit.com/r/boardgames/comments/1j1xh4q/convention_question](https://www.reddit.com/r/boardgames/comments/1j1xh4q/convention_question)
+ - RSS feed: $source
+ - date published: 2025-03-02T18:21:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m fairly new to board game conventions, I’ve only been to 2. I am currently at one that closes in about 5 hours and they have already closed down the game library. Is it common for organizers to close down what is arguably the most active part of the convention so early? Just seems wild to me. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Crazywheelman18"> /u/Crazywheelman18 </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1xh4q/convention_question/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1xh4q/convention_question/">[comments]</a></span>
+
+## Ark Nova - From Beginner to Expert Podcast
+ - [https://www.reddit.com/r/boardgames/comments/1j1x9u1/ark_nova_from_beginner_to_expert_podcast](https://www.reddit.com/r/boardgames/comments/1j1x9u1/ark_nova_from_beginner_to_expert_podcast)
+ - RSS feed: $source
+ - date published: 2025-03-02T18:12:52+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey all,</p> <p>If anyone loves Ark Nova but is struggling to get really good at the game, or considers it a bit too &#39;luck based&#39; this podcast might be worth checking out. It&#39;s an interview with an expert at the game who has a high ELO rating and around 800 games under his belt and I learned loads from it. </p> <p>It covers areas like how to handle your starting hand? Are all the maps balanced? Are all the animal types balanced in the game? Which are the strongest animals in the game? Should you take an association worker or upgrade a card at 2CP?</p> <p>Link below for the interested.</p> <p><a href="https://pod.link/1731899665">https://pod.link/1731899665</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ArtisticElbows"> /u/ArtisticElbows </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1x9u1/ark_nova_from_beginner_to_expert_podcast/">[link]</a></span> &#32; <span><a href="
+
+## I made a video to help new players get into Heroscape! Would love your thoughts, are you interested in trying this game?
+ - [https://www.reddit.com/r/boardgames/comments/1j1wtyl/i_made_a_video_to_help_new_players_get_into](https://www.reddit.com/r/boardgames/comments/1j1wtyl/i_made_a_video_to_help_new_players_get_into)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:54:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1j1wtyl/i_made_a_video_to_help_new_players_get_into/"> <img src="https://external-preview.redd.it/6AZGGR3M3CFL6vRo_tpqP4lvrX1l4pGjOmMszUdLYR4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=defe66cb41ce31d755f57016acd911e795a90150" alt="I made a video to help new players get into Heroscape! Would love your thoughts, are you interested in trying this game?" title="I made a video to help new players get into Heroscape! Would love your thoughts, are you interested in trying this game?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AuthorABuff"> /u/AuthorABuff </a> <br/> <span><a href="https://youtu.be/jKymQOFBtKY?si=4TQe-egVUaw5tbYT">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1wtyl/i_made_a_video_to_help_new_players_get_into/">[comments]</a></span> </td></tr></table>
+
+## What games capture the essence of Mega Empires (Western/Eastern Empires, Advanced Civilisation, Civilisation) the best, without taking 8+ hours to play?
+ - [https://www.reddit.com/r/boardgames/comments/1j1wjlw/what_games_capture_the_essence_of_mega_empires](https://www.reddit.com/r/boardgames/comments/1j1wjlw/what_games_capture_the_essence_of_mega_empires)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:43:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, over the past few weeks I&#39;ve been looking into <strong>Mega Empires</strong> (<a href="https://boardgamegeek.com/boardgame/267304/mega-empires-the-west">https://boardgamegeek.com/boardgame/267304/mega-empires-the-west</a>). I love the look of this and games like this, but for various reasons (cost of the game, length of time to complete the game, and mainly finding 4+ other people who are able and willing to take a whole day out to play one board game).</p> <p>There are a lot of things I like the look of in this game. In particular the set trading element detailed in this section of this video about the game: <a href="https://youtu.be/5pBXSGZtS5E?t=357">https://youtu.be/5pBXSGZtS5E?t=357</a>. I played and greatly enjoyed <strong>Pit</strong> when I was younger. I like the look of <strong>Sidereal Confluence</strong> and also <strong>Trade on the Tigris</strong> (<a href="https://boardgamegeek.com/boardgame/250754/trade-on-the-tigris">https://
+
+## Crowdfunded Games Launching This Week [Mar 3rd, 2025]
+ - [https://www.reddit.com/r/boardgames/comments/1j1whwq/crowdfunded_games_launching_this_week_mar_3rd_2025](https://www.reddit.com/r/boardgames/comments/1j1whwq/crowdfunded_games_launching_this_week_mar_3rd_2025)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:41:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I do all this for fun and do not get any payment or games from publishers<a href="https://i.ytimg.com/vi/-D0hWSKfnq4/maxresdefault.jpg">.</a></p> <p>Feel free to message me if you have a game launching in the future!</p> <table><thead> <tr> <th align="left">Expected</th> <th align="left">Name</th> <th align="left">Publisher</th> <th align="left">Campaign Page</th> </tr> </thead><tbody> <tr> <td align="left">Mar 1</td> <td align="left"><code>#bg</code> <a href="https://boardgamegeek.com/boardgame/408379/dungeon-dudes">Dungeon Dudes</a></td> <td align="left">Beaverlicious</td> <td align="left"><a href="https://www.backerkit.com/call_to_action/76161df4-9bab-4ea9-aef1-35af2c7a6c0e/landing">KS PAGE</a></td> </tr> <tr> <td align="left">Mar 1</td> <td align="left"><code>#bg</code> <a href="https://boardgamegeek.com/boardgame/420812/victory-garden">Victory Garden</a></td> <td align="left">Tunnel Monster Collective</td> <td align="left"><a href="https://www.k
+
+## Beginnings of a horror board game company - What do you want to see in horror board games?
+ - [https://www.reddit.com/r/boardgames/comments/1j1vpqv/beginnings_of_a_horror_board_game_company_what_do](https://www.reddit.com/r/boardgames/comments/1j1vpqv/beginnings_of_a_horror_board_game_company_what_do)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:09:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all. My partner and I are in the middle of launching a new company focused specifically on horror tabletop games. We have backgrounds that generally coincide well with this, but also compliment each other well.</p> <p>We have several games in various stages, generally with 3 that will get launched at different times in 2025. Definitely we&#39;re going in tiered stages... start small and more digital and get more ambitious with each one.</p> <p>We are also starting our blog on BGG: <a href="https://boardgamegeek.com/blog/13642/blogpost/170456/introductions-what-is-scary-studies">https://boardgamegeek.com/blog/13642/blogpost/170456/introductions-what-is-scary-studies</a></p> <p><strong>Question: What do you want to see in horror tabletop? Are there mechanics or horror themes that have untapped potential?</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/C_Me"> /u/C_Me </a> <br/> <span><a href="https://ww
+
+## UPDATE: Flamecraft
+ - [https://www.reddit.com/r/boardgames/comments/1j1vmu0/update_flamecraft](https://www.reddit.com/r/boardgames/comments/1j1vmu0/update_flamecraft)
+ - RSS feed: $source
+ - date published: 2025-03-02T17:05:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1j1vmu0/update_flamecraft/"> <img src="https://b.thumbs.redditmedia.com/hrO-TobC4eNsKtcHUpqlHfaQAD5DywcllS4olSRqy0Q.jpg" alt="UPDATE: Flamecraft" title="UPDATE: Flamecraft" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Just did our 1st playthrough. It was worth it. My 7-year-old can&#39;t get enough it. Thanks everyone for you feedback regarding this game. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TotalSense22"> /u/TotalSense22 </a> <br/> <span><a href="https://www.reddit.com/gallery/1j1vmu0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1vmu0/update_flamecraft/">[comments]</a></span> </td></tr></table>
+
+## Any other detective-style board games with little text?
+ - [https://www.reddit.com/r/boardgames/comments/1j1up5m/any_other_detectivestyle_board_games_with_little](https://www.reddit.com/r/boardgames/comments/1j1up5m/any_other_detectivestyle_board_games_with_little)
+ - RSS feed: $source
+ - date published: 2025-03-02T16:26:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>Me and my wife absolutely LOVED Perspectives, but there&#39;s only 2 boxes out and we&#39;ve stormed through them. </p> <p>Craving for more of the same, but we found out that the special ingredients are:</p> <ul> <li><p>limited information available to each player</p></li> <li><p>little text on the cards (reading walls of text just kind of feels like a chore — Perspectives feels magical because it paints a whole picture without explicitly telling you what happened).</p></li> </ul> <p>Unlock and EXIT didn&#39;t click at all.</p> <p>Any advice would be much appreciated!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aeternii"> /u/aeternii </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1up5m/any_other_detectivestyle_board_games_with_little/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1up5m/any_other_detectivestyle_board_games_with_little/">[comme
+
+## Looking at Cthulhu Death May Die
+ - [https://www.reddit.com/r/boardgames/comments/1j1ujk4/looking_at_cthulhu_death_may_die](https://www.reddit.com/r/boardgames/comments/1j1ujk4/looking_at_cthulhu_death_may_die)
+ - RSS feed: $source
+ - date published: 2025-03-02T16:20:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve never played this game before, but started getting advertised it and after watching a few reviews it looks like something I want to try out.</p> <p>I see there&#39;s a Kickstarter going on for Forbidden Reaches and that there&#39;s a new core 3.0.</p> <p>Instead of jumping on the Kickstarter and spending 1000+ to ensure I get everything (Not sarcasm, I&#39;m a mini whore with a whole lot of fomo... I have a problem, please send help) - Should I just stick to the core game (Death May Die) and build from there, or jump to core 3.0 and build off that?</p> <p>If the better option is a late pledge to the Kickstarter, are there any addons from the previous seasons one might consider a &quot;must have&quot;?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AtainEndevor"> /u/AtainEndevor </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1ujk4/looking_at_cthulhu_death_may_die/">[link]</a></
+
+## Can Sky Team be played in a different language?
+ - [https://www.reddit.com/r/boardgames/comments/1j1uh0l/can_sky_team_be_played_in_a_different_language](https://www.reddit.com/r/boardgames/comments/1j1uh0l/can_sky_team_be_played_in_a_different_language)
+ - RSS feed: $source
+ - date published: 2025-03-02T16:17:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’ve moved to a country where it’s expensive to get games published in English.</p> <p>I’m after a copy of Sky team but there’s a 30€ difference between the native language version and importing an English version.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/alterperspective"> /u/alterperspective </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1uh0l/can_sky_team_be_played_in_a_different_language/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1uh0l/can_sky_team_be_played_in_a_different_language/">[comments]</a></span>
+
+## Question about Pandemic.
+ - [https://www.reddit.com/r/boardgames/comments/1j1u1ps/question_about_pandemic](https://www.reddit.com/r/boardgames/comments/1j1u1ps/question_about_pandemic)
+ - RSS feed: $source
+ - date published: 2025-03-02T15:59:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>During the game setup, when you infect the 9 cities, if one of the colours does not get drawn, is that disease eradicated?</p> <p>I know we still need to cure it to win the game, but does eradication only come after curing?</p> <p>My husband and I played and did not draw any yellow during setup. He thought this meant that the disease is eradicated.</p> <p>Clarification?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/parisburger"> /u/parisburger </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1u1ps/question_about_pandemic/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1u1ps/question_about_pandemic/">[comments]</a></span>
+
+## What are you games you absolutely adore how it looks on table?
+ - [https://www.reddit.com/r/boardgames/comments/1j1u0rv/what_are_you_games_you_absolutely_adore_how_it](https://www.reddit.com/r/boardgames/comments/1j1u0rv/what_are_you_games_you_absolutely_adore_how_it)
+ - RSS feed: $source
+ - date published: 2025-03-02T15:58:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>For me there’s many examples. Everdell,Root,TI4, all classic answers. But a game I can never get over how much I love when it’s fully set up Aeon Tresspass Odyssey. Like yes it’s a humongous amount of shit taking up the whole house sometimes but man it’s so impressive </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Prestigious_Tea_2729"> /u/Prestigious_Tea_2729 </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1u0rv/what_are_you_games_you_absolutely_adore_how_it/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1u0rv/what_are_you_games_you_absolutely_adore_how_it/">[comments]</a></span>
+
+## Jaipur or Floriferous?
+ - [https://www.reddit.com/r/boardgames/comments/1j1txa6/jaipur_or_floriferous](https://www.reddit.com/r/boardgames/comments/1j1txa6/jaipur_or_floriferous)
+ - RSS feed: $source
+ - date published: 2025-03-02T15:54:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m torn between those two, which one should I pick?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Chujek-333"> /u/Chujek-333 </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1txa6/jaipur_or_floriferous/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1txa6/jaipur_or_floriferous/">[comments]</a></span>
+
+## When is 'luck' actually a bad quality in a game?
+ - [https://www.reddit.com/r/boardgames/comments/1j1ttb9/when_is_luck_actually_a_bad_quality_in_a_game](https://www.reddit.com/r/boardgames/comments/1j1ttb9/when_is_luck_actually_a_bad_quality_in_a_game)
+ - RSS feed: $source
+ - date published: 2025-03-02T15:49:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I see a lot of big opinions on the forum from time to time about likes and dislikes for a game, and a common gripe I come across is that a game is too dependent on the luck factor to be an enjoyable experience. Without context, this is often a confusing complaint to me, because a huge number of games I play, or are popular among others to play, require a fair amount of luck. I&#39;m just wondering when and why people express frustration with a game based on its apparent luck factor.</p> <p>To me, luck is acceptable when it a) works with the theme of the game, b) allows for reasonable competiton among people who are paying attention to game design and setup, and c) encourages different paths to victory. We have the Quest for El Dorado in our house, for example, and I really like how luck works there. Essentially, you are building a deck of cards that serve as your expedition, and you reshuffle those cards as you exhaust your played cards throughout th
+
+## What’s your favorite Board and Dice title? Any one played Windmill Valley?
+ - [https://www.reddit.com/r/boardgames/comments/1j1ta0c/whats_your_favorite_board_and_dice_title_any_one](https://www.reddit.com/r/boardgames/comments/1j1ta0c/whats_your_favorite_board_and_dice_title_any_one)
+ - RSS feed: $source
+ - date published: 2025-03-02T15:25:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1j1ta0c/whats_your_favorite_board_and_dice_title_any_one/"> <img src="https://b.thumbs.redditmedia.com/BHtEgOUTyKd3Tl8TRvMRMcoje_sSZENJCD_Z1LRueBk.jpg" alt="What’s your favorite Board and Dice title? Any one played Windmill Valley?" title="What’s your favorite Board and Dice title? Any one played Windmill Valley?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I’ve been hot or miss with this designer but hoping this one changes my mind. Not sure if it’s good with two but we’re about to find out. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BoardGameRevolution"> /u/BoardGameRevolution </a> <br/> <span><a href="https://www.reddit.com/gallery/1j1ta0c">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1ta0c/whats_your_favorite_board_and_dice_title_any_one/">[comments]</a></span> </td></tr></table>
+
+## It is once again that time of year where we determine the Worst Board Game Of All Time! Who's in? Who's out? Who's back? Find out at 11 CST/12 EST
+ - [https://www.reddit.com/r/boardgames/comments/1j1t5wo/it_is_once_again_that_time_of_year_where_we](https://www.reddit.com/r/boardgames/comments/1j1t5wo/it_is_once_again_that_time_of_year_where_we)
+ - RSS feed: $source
+ - date published: 2025-03-02T15:20:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1j1t5wo/it_is_once_again_that_time_of_year_where_we/"> <img src="https://external-preview.redd.it/AZDXS8mGf_EwYjfSCvph-2Z-tmF3JGUL_NJRh5ERK_0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=194405eb505217e5559c4e0a03466b082c333b24" alt="It is once again that time of year where we determine the Worst Board Game Of All Time! Who's in? Who's out? Who's back? Find out at 11 CST/12 EST" title="It is once again that time of year where we determine the Worst Board Game Of All Time! Who's in? Who's out? Who's back? Find out at 11 CST/12 EST" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TIMETODETAIN"> /u/TIMETODETAIN </a> <br/> <span><a href="https://youtu.be/qO_FQCQ1m-s?si=q_QOrk3cjbWfO3_P">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1t5wo/it_is_once_again_that_time_of_year_where_we/">[comments]</a></span> </td></tr></table>
+
+## Rules on promising and other house rules in social deduction games
+ - [https://www.reddit.com/r/boardgames/comments/1j1supm/rules_on_promising_and_other_house_rules_in](https://www.reddit.com/r/boardgames/comments/1j1supm/rules_on_promising_and_other_house_rules_in)
+ - RSS feed: $source
+ - date published: 2025-03-02T15:06:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Whenever I have played a social deduction game I, and others, often have a rule that you are not allowed to promise or swear on something in a social deduction game. I use the verb &quot;promise&quot; in the title as that makes more sense than &quot;swearing&quot; but it is swearing that I am mainly referring to.</p> <p>Players saying &quot;I swear on our relationship I am on the good team.&quot; is not allowed as I believe that leverages personal external stuff on the game and gives an unfair advantage.</p> <p>I am sure some people might argue that that is part of the game as it&#39;s about lying but when you swear like that it makes it seem that you are using external relationships as collateral. </p> <p>It would be the same if someone said &quot;I promise you $50 I am not lying.&quot; </p> <p>What do you think about this rule and do you have any other house rules in social deduction games to make them fair? </p> </div><!-- SC_ON --> &#32; submitte
+
+## printerstudio.ca experience and review printing playing cards (images in comments)
+ - [https://www.reddit.com/r/boardgames/comments/1j1smd3/printerstudioca_experience_and_review_printing](https://www.reddit.com/r/boardgames/comments/1j1smd3/printerstudioca_experience_and_review_printing)
+ - RSS feed: $source
+ - date published: 2025-03-02T14:56:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m in Canada and wanted to order some custom spell cards for my next DnD campaign and went on the hunt for a company that would print them.</p> <p><a href="http://Printerstudio.ca">Printerstudio.ca</a> looked promising, but I couldn&#39;t find any actual reviews for them (just a really old one for the .com version), so I&#39;m writing this one so anyone else looking to purchase with them knows what to expect.</p> <p>Details:</p> <p>What was purchased:</p> <p>2 decks of playing cards, one deck customized on both sides, 1 custom fronts but the same back. 4x 1 inch buttons with character images on them (we&#39;ll be using them as flat lay minis).</p> <p>Turnaround time:</p> <p>ordered on Feb 16, shipping started Feb 20, arrived March 1st (Saturday)</p> <p>Payment options:</p> <p>I used a prepaid card just in case, but they do have PayPal as well</p> <p>Taxes/customs:</p> <p>After ordering and the items started to ship, I realized that it was coming
+
+## Best Board game for newbies getting back into board games
+ - [https://www.reddit.com/r/boardgames/comments/1j1rue3/best_board_game_for_newbies_getting_back_into](https://www.reddit.com/r/boardgames/comments/1j1rue3/best_board_game_for_newbies_getting_back_into)
+ - RSS feed: $source
+ - date published: 2025-03-02T14:19:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am looking for board game advice and suggestions.</p> <p>Back in the day, I played &#39;Key to the Kingdom&#39; - which i really liked as it was a board that you worked your way around. Also the classic Monopoly and another called Hotel. </p> <p>Recently I bought Cora Quest, which is a dungeon crawler style game (I think) and me and my 9 year old kid are loving it.</p> <p>We are looking for something similar that has more of a board or map to move around, that is fun and relatively easy to get into. I like games like &#39;Ticket to ride&#39; but prefer some RPG elements, great miniatures, magic / sci-fi elements. </p> <p>Hero Quest looked good but seemed like most people saying its a nostagia trip and there&#39;s much better games.</p> <p>So far, the ones I&#39;ve read up on have been:</p> <p>Mice &amp; Mystics<br/> Arcadia Quest<br/> Descent 2<br/> Jaws of the Lion<br/> Massive Darkness 2<br/> Shadows of Brimstone</p> <p>Any advice is much appreci
+
+## Engine builder game to play with 5yo child
+ - [https://www.reddit.com/r/boardgames/comments/1j1r90g/engine_builder_game_to_play_with_5yo_child](https://www.reddit.com/r/boardgames/comments/1j1r90g/engine_builder_game_to_play_with_5yo_child)
+ - RSS feed: $source
+ - date published: 2025-03-02T13:49:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>As the title suggests, I am looking for a boardgame which is a simple and short engine builder to learn for my daughter. She is 5, she can play Sleeping Queen&#39;s, she understands ticket to ride but this one is too long for her to keep focus. </p> <p>Basically I am looking for an existing version of &quot;my first terraforming mars&quot; :)</p> <p>I was looking into Port Royal, but I think this might be for the moment too complicated.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Outrageous_Coffee145"> /u/Outrageous_Coffee145 </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1r90g/engine_builder_game_to_play_with_5yo_child/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1r90g/engine_builder_game_to_play_with_5yo_child/">[comments]</a></span>
+
+## Monkey Palace has been a real rollercoaster!
+ - [https://www.reddit.com/r/boardgames/comments/1j1qjw1/monkey_palace_has_been_a_real_rollercoaster](https://www.reddit.com/r/boardgames/comments/1j1qjw1/monkey_palace_has_been_a_real_rollercoaster)
+ - RSS feed: $source
+ - date published: 2025-03-02T13:13:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1j1qjw1/monkey_palace_has_been_a_real_rollercoaster/"> <img src="https://external-preview.redd.it/pSU64esLPExmKFjUWUvnsuqX4fMpNfPV0N7seM7X5Nc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c410e549f0b2236a481324808183755270eb455c" alt="Monkey Palace has been a real rollercoaster!" title="Monkey Palace has been a real rollercoaster!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/sv53ya44w9me1.jpg?width=2687&amp;format=pjpg&amp;auto=webp&amp;s=a2752b1122efee5a35ccae7c9183cca595dd2077">https://preview.redd.it/sv53ya44w9me1.jpg?width=2687&amp;format=pjpg&amp;auto=webp&amp;s=a2752b1122efee5a35ccae7c9183cca595dd2077</a></p> <p><a href="https://preview.redd.it/2ywn0d44w9me1.jpg?width=3072&amp;format=pjpg&amp;auto=webp&amp;s=94006b30ebcdac9f13ccf9715c769c0d4d527469">https://preview.redd.it/2ywn0d44w9me1.jpg?width=3072&amp;format=pjpg&amp;auto=webp&amp;s=94006b30ebcdac9f13ccf9715c76
+
+## Can someone explain how the last chance disk works in Skull?
+ - [https://www.reddit.com/r/boardgames/comments/1j1qgr4/can_someone_explain_how_the_last_chance_disk](https://www.reddit.com/r/boardgames/comments/1j1qgr4/can_someone_explain_how_the_last_chance_disk)
+ - RSS feed: $source
+ - date published: 2025-03-02T13:08:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just can&#39;t get my head around it for some reason...</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/YuvalAmir"> /u/YuvalAmir </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1qgr4/can_someone_explain_how_the_last_chance_disk/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1qgr4/can_someone_explain_how_the_last_chance_disk/">[comments]</a></span>
+
+## Black Sonata - Clue Solving.
+ - [https://www.reddit.com/r/boardgames/comments/1j1qg49/black_sonata_clue_solving](https://www.reddit.com/r/boardgames/comments/1j1qg49/black_sonata_clue_solving)
+ - RSS feed: $source
+ - date published: 2025-03-02T13:07:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>A classic &quot;Am I doing something wrong...&#39; I bought Black Sonata when the expansion Kickstarter came out. I love the game but... When solving the clues to find the Dark Lady we are always getting the Lady under the location cards correct and not the one under the board? What am I doing wrong?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Blue-Merlycat"> /u/Blue-Merlycat </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1qg49/black_sonata_clue_solving/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1qg49/black_sonata_clue_solving/">[comments]</a></span>
+
+## Good pub games for 6-8 players
+ - [https://www.reddit.com/r/boardgames/comments/1j1q94d/good_pub_games_for_68_players](https://www.reddit.com/r/boardgames/comments/1j1q94d/good_pub_games_for_68_players)
+ - RSS feed: $source
+ - date published: 2025-03-02T12:56:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>Ideally looking for simple rules + complex gameplay, something fun that requires interaction and doesn&#39;t leave players sitting out. Will have a medium table but less complex setups are better!</p> <p>Recommendations OTHER than the following which I&#39;m already aware of:</p> <p>-Skull -Coup -Dead Last -Sushi go / party -Codenames -Spyfall</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dystopiate_addict"> /u/Dystopiate_addict </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1q94d/good_pub_games_for_68_players/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1q94d/good_pub_games_for_68_players/">[comments]</a></span>
+
+## Which LOTR is this?
+ - [https://www.reddit.com/r/boardgames/comments/1j1peom/which_lotr_is_this](https://www.reddit.com/r/boardgames/comments/1j1peom/which_lotr_is_this)
+ - RSS feed: $source
+ - date published: 2025-03-02T12:06:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>which lord of the rings board game includes players moving around a board while drawing cards and once someone secretly draws the ring, than they need to move to a specific location on the board and players will try to stop them. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IcyKcBlue"> /u/IcyKcBlue </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1peom/which_lotr_is_this/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1peom/which_lotr_is_this/">[comments]</a></span>
+
+## [COMC] My small collection so far
+ - [https://www.reddit.com/r/boardgames/comments/1j1o3lm/comc_my_small_collection_so_far](https://www.reddit.com/r/boardgames/comments/1j1o3lm/comc_my_small_collection_so_far)
+ - RSS feed: $source
+ - date published: 2025-03-02T10:38:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1j1o3lm/comc_my_small_collection_so_far/"> <img src="https://b.thumbs.redditmedia.com/4uEo-5ZYW6IsA075nMJ6bIrSV5VyhOIx-fSHLGaruSI.jpg" alt="[COMC] My small collection so far" title="[COMC] My small collection so far" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Been into board games most of my life, not as hardcore as I am now, so the past year or so have finally started caving and picking up more games i always wanted to play, and have a group to play with. Not a massive collection, only around 40 ish but i’m proud of what i have! My favorite game of all time is KDM. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/darkmoonthmr"> /u/darkmoonthmr </a> <br/> <span><a href="https://www.reddit.com/gallery/1j1o3lm">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1o3lm/comc_my_small_collection_so_far/">[comments]</a></span> </td></tr></
+
+## Imperial Miners vs Gizmos
+ - [https://www.reddit.com/r/boardgames/comments/1j1nzr9/imperial_miners_vs_gizmos](https://www.reddit.com/r/boardgames/comments/1j1nzr9/imperial_miners_vs_gizmos)
+ - RSS feed: $source
+ - date published: 2025-03-02T10:30:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I want to buy a simple and quick engine building game and came across those two. I&#39;ve actually played Gizmos on BGA and loved some of the systems, but also something felt off. Which do you guys prefer? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TiToim"> /u/TiToim </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1nzr9/imperial_miners_vs_gizmos/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1nzr9/imperial_miners_vs_gizmos/">[comments]</a></span>
+
+## Monopoly question
+ - [https://www.reddit.com/r/boardgames/comments/1j1nqh4/monopoly_question](https://www.reddit.com/r/boardgames/comments/1j1nqh4/monopoly_question)
+ - RSS feed: $source
+ - date published: 2025-03-02T10:12:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>When I land on a property and I dont buy it, it goes to auction. But what happens if i dont have the money to buy it? Does it also go to auction?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Safe_Platform6323"> /u/Safe_Platform6323 </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1nqh4/monopoly_question/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1nqh4/monopoly_question/">[comments]</a></span>
+
+## 160$ for CMON Streichgoals?
+ - [https://www.reddit.com/r/boardgames/comments/1j1n46w/160_for_cmon_streichgoals](https://www.reddit.com/r/boardgames/comments/1j1n46w/160_for_cmon_streichgoals)
+ - RSS feed: $source
+ - date published: 2025-03-02T09:28:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello there,</p> <p>Some time ago the Marvel Zombicide campaign was live and I wanted to back but it was to much money if you included shipping and VAT (19% for Germany). During the delivery shipping spiked and got even more expensive. Base game ended up with ~ 200$ including shipping and VAT.</p> <p>A couple of days ago I saw the base game German translation on sale in multiple Onlineshops for 40€ total (35€ game and 5€ shipping) equals 41$.</p> <p>The Streichgoals sell online for 200$-300$.</p> <p>So I miss the Streichgoals but paid 160$ less! I could easily get the X-Men resistance and a small expansion on sale for this!</p> <p>Makes me question crowdfunding quite a lot. I hate the &quot;lock customer&#39;s out of alot of content&quot; Kickstarter model, and in the end even pay alot for this special treatment.</p> <p>What do you guys think? Is this more common than i think? How do you decide if crowdfunding is worth it?</p> </div><!-- SC_ON --> &#
+
+## And so it begins... 🚀
+ - [https://www.reddit.com/r/boardgames/comments/1j1mpzr/and_so_it_begins](https://www.reddit.com/r/boardgames/comments/1j1mpzr/and_so_it_begins)
+ - RSS feed: $source
+ - date published: 2025-03-02T09:00:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1j1mpzr/and_so_it_begins/"> <img src="https://b.thumbs.redditmedia.com/AVi42-GE6rdFzKyv_HzhkEsqal6OozcXKHu0vl2RG-s.jpg" alt="And so it begins... 🚀" title="And so it begins... 🚀" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/jnweu7w8r8me1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=d49b070321f480cdccc642a8c3d75c14f0d1cba1">https://preview.redd.it/jnweu7w8r8me1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=d49b070321f480cdccc642a8c3d75c14f0d1cba1</a></p> <p><a href="https://preview.redd.it/3s0kis5ar8me1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=21bfd17dc605149f148968d228aba53ff2a8bc65">https://preview.redd.it/3s0kis5ar8me1.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=21bfd17dc605149f148968d228aba53ff2a8bc65</a></p> <p><a href="https://preview.redd.it/ophkpufbr8me1.jpg?width=3024&amp;format=pjpg&amp;auto=webp&amp;s=ca394ad15e52865e2ef81f72d60f401f68e0b
+
+## Fake/ counterfeit Board Games
+ - [https://www.reddit.com/r/boardgames/comments/1j1mng9/fake_counterfeit_board_games](https://www.reddit.com/r/boardgames/comments/1j1mng9/fake_counterfeit_board_games)
+ - RSS feed: $source
+ - date published: 2025-03-02T08:54:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I know it&#39;s not right but I&#39;ll admit I did buy Everdell off shein for the kids because they have a habit of losing their board game pieces. It was half the price as what I would of paid in store. Honestly the quality was fine, my guess it&#39;s an old print over stock rather than a copy? </p> <p>With that out of the way. I just ordered brass birmingham legit copy, but when I googled to see if any stores in my area had it in stock the top searches were for aliexpress, shein and temu! Some half to a 3rd of the price I paid! </p> <p>How are game sites/ stores meant to compete with these places that sell old prints or more worrying counterfeit titles? </p> <p>Also is amazon safe to buy from? Most games im after i can&#39;t get into store and amazon is the easiest and quickest way to get them. What are ways to know I&#39;m buying legit off amazon? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/serabear1"> /
+
+## Coin Piece ID
+ - [https://www.reddit.com/r/boardgames/comments/1j1mfc2/coin_piece_id](https://www.reddit.com/r/boardgames/comments/1j1mfc2/coin_piece_id)
+ - RSS feed: $source
+ - date published: 2025-03-02T08:38:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1j1mfc2/coin_piece_id/"> <img src="https://preview.redd.it/ostxy1iin8me1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a3628024e12921c8f7e9b7f32dd4a8ce0a50448" alt="Coin Piece ID" title="Coin Piece ID" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Any help would be appreciated :-)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PinothyJ"> /u/PinothyJ </a> <br/> <span><a href="https://i.redd.it/ostxy1iin8me1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1mfc2/coin_piece_id/">[comments]</a></span> </td></tr></table>
+
+## Best Compact Games for 4-5 Players
+ - [https://www.reddit.com/r/boardgames/comments/1j1maxa/best_compact_games_for_45_players](https://www.reddit.com/r/boardgames/comments/1j1maxa/best_compact_games_for_45_players)
+ - RSS feed: $source
+ - date published: 2025-03-02T08:29:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m a big fan of small and travel-friendly board games that are easy to store in a limited space, take on the go, and play anywhere. </p> <p>What would you recommend for our group of 4-5 players?</p> <p>The games we already have in our collection are:</p> <p>Love Letter</p> <p>No Thanks</p> <p>For Sale</p> <p>Skull </p> <p>Hanabi </p> <p>Sushi go</p> <p>Sea, salt and paper</p> <p>Citadels</p> <p>Coup</p> <p>Siggil</p> <p>Scout</p> <p>Cockroach poker </p> <p>6 Nimmt! (Take 5)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/indiawong"> /u/indiawong </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1maxa/best_compact_games_for_45_players/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1maxa/best_compact_games_for_45_players/">[comments]</a></span>
+
+## "Murder Party" without the murder theme?
+ - [https://www.reddit.com/r/boardgames/comments/1j1lzsm/murder_party_without_the_murder_theme](https://www.reddit.com/r/boardgames/comments/1j1lzsm/murder_party_without_the_murder_theme)
+ - RSS feed: $source
+ - date published: 2025-03-02T08:07:03+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone, I&#39;d like to run a murder party with my family (probably adults only, ~12 people) but they&#39;re pretty sensitive about everything around dark theme, ghosts, murder, spirits etc. so I&#39;d like to avoid these themes if possible and can&#39;t find anything interesting. We&#39;ve done some custom escape games in the past but I&#39;d like something more sophisticated. </p> <p>Any recommendation? Thank you! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gamelings"> /u/Gamelings </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1lzsm/murder_party_without_the_murder_theme/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1lzsm/murder_party_without_the_murder_theme/">[comments]</a></span>
+
+## Nemesis: Would it be good to delay choosing personal objectives?
+ - [https://www.reddit.com/r/boardgames/comments/1j1loac/nemesis_would_it_be_good_to_delay_choosing](https://www.reddit.com/r/boardgames/comments/1j1loac/nemesis_would_it_be_good_to_delay_choosing)
+ - RSS feed: $source
+ - date published: 2025-03-02T07:44:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m interested in Nemesis and learning more about it. Game looks amazing. However, something i didn&#39;t like was learning that you have to choose one of your two personal objectives early in the game and you can&#39;t undo the decision. I wonder if it would be more fun and flexible to hold both objectives the whole game? I just assume that picking one early could end up giving an impossible task and then you have no backup plan. Also, I generally prefer less confrontational games so I think it would be nice if the &quot;evil&quot; objectives remained an option that a player could do instead of being forced to work against other players. I would think that also adds some suspense because you know other players could at any moment pick one or the other. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/5t01k"> /u/5t01k </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1loac/nemesis_woul
+
+## How can I fix Hues and Cues box?
+ - [https://www.reddit.com/r/boardgames/comments/1j1lf8h/how_can_i_fix_hues_and_cues_box](https://www.reddit.com/r/boardgames/comments/1j1lf8h/how_can_i_fix_hues_and_cues_box)
+ - RSS feed: $source
+ - date published: 2025-03-02T07:27:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>I accidentally sat on my <em>Hues and Cues</em> box and completely ruined the cover. I’d like to replace just the cover since I have a box with the same dimensions, but I’m struggling to find high-quality images to recreate the artwork. Are there any resources I might have missed that could help with this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DamrosRak"> /u/DamrosRak </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1lf8h/how_can_i_fix_hues_and_cues_box/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1lf8h/how_can_i_fix_hues_and_cues_box/">[comments]</a></span>
+
+## Daily Game Recommendations Thread (March 02, 2025)
+ - [https://www.reddit.com/r/boardgames/comments/1j1k5cs/daily_game_recommendations_thread_march_02_2025](https://www.reddit.com/r/boardgames/comments/1j1k5cs/daily_game_recommendations_thread_march_02_2025)
+ - RSS feed: $source
+ - date published: 2025-03-02T06:01:28+00:00
+
+<!-- SC_OFF --><div class="md"><p><strong>Welcome to <a href="/r/boardgames">/r/boardgames</a>&#39;s Daily Game Recommendations</strong></p> <p>This is a place where you can ask any and all questions relating to the board gaming world including but not limited to<a href="https://en.wiktionary.org/wiki/meeple#/media/File:Carcassonne_Miples.jpg">:</a></p> <ul> <li>general or specific game recommendations</li> <li>help identifying a game or game piece</li> <li>advice regarding situation limited to you (e.g, questions about a specific FLGS)</li> <li>rule clarifications</li> <li>and other quick questions that might not warrant their own post</li> </ul> <h2>Asking for Recommendations</h2> <p>You&#39;re much more likely to get good and personalized recommendations if you take the time to format a well-written ask. We <strong>highly recommend</strong> using <a href="/r/boardgames/wiki/personalized-game-recommendation-template-no-explainer">this template</a> as a guide. <a href="/r/boardgames
+
+## Vivid Memory
+ - [https://www.reddit.com/r/boardgames/comments/1j1hxma/vivid_memory](https://www.reddit.com/r/boardgames/comments/1j1hxma/vivid_memory)
+ - RSS feed: $source
+ - date published: 2025-03-02T03:49:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have vivid memroies playing this board game with my family and so do my parents. The game acts like sorry, but all the pieces are black witches hats and they only have colors on the bottom. They are in the coppit style shape. A player tries to keep track of their piece, but if another player gets your color into home then you get a point vice versa. You pull cards to get out of home and move around the board. </p> <p>I&#39;m struggling to find it online. Like I have memories of tiktokers playing it too and cannot find the vidoes. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Goodnight_morning"> /u/Goodnight_morning </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1hxma/vivid_memory/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1hxma/vivid_memory/">[comments]</a></span>
+
+## A game is missing its piece and its beginning to grate on me. Help!
+ - [https://www.reddit.com/r/boardgames/comments/1j1hqya/a_game_is_missing_its_piece_and_its_beginning_to](https://www.reddit.com/r/boardgames/comments/1j1hqya/a_game_is_missing_its_piece_and_its_beginning_to)
+ - RSS feed: $source
+ - date published: 2025-03-02T03:38:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1j1hqya/a_game_is_missing_its_piece_and_its_beginning_to/"> <img src="https://preview.redd.it/e4gdpgm067me1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=beda53544924d45e5c3622961a408c467cb3d531" alt="A game is missing its piece and its beginning to grate on me. Help!" title="A game is missing its piece and its beginning to grate on me. Help!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Crash_Steakbeard"> /u/Crash_Steakbeard </a> <br/> <span><a href="https://i.redd.it/e4gdpgm067me1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1hqya/a_game_is_missing_its_piece_and_its_beginning_to/">[comments]</a></span> </td></tr></table>
+
+## Resident Evil 1 Board game. Guard B scenario missing a B item.
+ - [https://www.reddit.com/r/boardgames/comments/1j1gs8l/resident_evil_1_board_game_guard_b_scenario](https://www.reddit.com/r/boardgames/comments/1j1gs8l/resident_evil_1_board_game_guard_b_scenario)
+ - RSS feed: $source
+ - date published: 2025-03-02T02:45:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>Playing Resident Evil 1 the Board Game. We were playing Guard B scenario. Noticed that the game says it needs 5(B) items and 5(A) items. But there is only 4(B) items on the map. </p> <p>Anyone else have to make a change so they were not soft locked?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/International_Run542"> /u/International_Run542 </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1gs8l/resident_evil_1_board_game_guard_b_scenario/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1gs8l/resident_evil_1_board_game_guard_b_scenario/">[comments]</a></span>
+
+## Isle of cats boards upgrade
+ - [https://www.reddit.com/r/boardgames/comments/1j1funw/isle_of_cats_boards_upgrade](https://www.reddit.com/r/boardgames/comments/1j1funw/isle_of_cats_boards_upgrade)
+ - RSS feed: $source
+ - date published: 2025-03-02T01:55:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Has anyone made isle of cats boards that are inlayed so that the tiles don&#39;t move around as much? Maybe like just a clear overlay? It&#39;s a small problem, but I was curious if anyone had seen it before?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/InvestigatorOk6735"> /u/InvestigatorOk6735 </a> <br/> <span><a href="https://www.reddit.com/r/boardgames/comments/1j1funw/isle_of_cats_boards_upgrade/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/boardgames/comments/1j1funw/isle_of_cats_boards_upgrade/">[comments]</a></span>
+
+## Is it wrong to bring games (especially large ones) when you haven’t read the rules
+ - [https://www.reddit.com/r/boardgames/comments/1j1fnkk/is_it_wrong_to_bring_games_especially_large_ones](https://www.reddit.com/r/boardgames/comments/1j1fnkk/is_it_wrong_to_bring_games_especially_large_ones)
+ - RSS feed: $source
+ - date published: 2025-03-02T01:45:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been playing board games for over 15 years now and I have had this happen a couple of times </p> <p>Sometimes it is clear that they roughly know the rules but just need to check some things, which is fine and to be expected if they’ve never played before</p> <p>But sometimes it is clear that the person hasn’t looked at the rules or at least done more than a quick glance at them. This can be frustrating for the players when they realise that the person teaching the game is actively trying to learn the game as well</p> <p>For smaller/quicker games I don’t think it’s that big of an issue but I’ve had this happen with games that have then taken 3 or 4 hours to play. I find especially egregious then they either dont tell you that they are still learning the rules or wait until after people have agreed to play </p> <p>My most recent example happened last week. I was at the local club and one of the newer members who honestly is a decent guy, excited
+
+## 43 Long Railroad - Ticket to Ride Europe
+ - [https://www.reddit.com/r/boardgames/comments/1j1exo5/43_long_railroad_ticket_to_ride_europe](https://www.reddit.com/r/boardgames/comments/1j1exo5/43_long_railroad_ticket_to_ride_europe)
+ - RSS feed: $source
+ - date published: 2025-03-02T01:07:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/boardgames/comments/1j1exo5/43_long_railroad_ticket_to_ride_europe/"> <img src="https://b.thumbs.redditmedia.com/bFWmQfrSbazKPsLQ4fqvFweUDot8QssQUtjQk7SrMCw.jpg" alt="43 Long Railroad - Ticket to Ride Europe" title="43 Long Railroad - Ticket to Ride Europe" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>When the budding industrialists at Red Jumpsuit Locomotive took on the contract to connect Palermo and Moscow we knew the darling middle class enpictured a scenic route through the Alps and Carpathians in a mere 20 lengths! But what good industrialist doesn&#39;t take a few extra contracts on the side... So after some extra cash for connecting Budapest to Sofia, Athens to Ankara, and then Sochi to Kyiv; Red Jumpsuit Locomotive made good on its promise to deliver passengers from Palermo to Moscow... eventually.</p> <p>Ending the game much to the dismay of my wife. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https:/
+
