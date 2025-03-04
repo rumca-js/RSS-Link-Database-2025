@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-03T12:00:00+00:00",
+        "description": "Amazon\u2019s drones met more resistance in College Station, Texas, than in any other city in the US. Now they\u2019re gone\u2014and a sense of peace and privacy has been restored.",
+        "id": 2235028,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/texas-amazon-drones-stop-flying",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/67a108c19a79dfc7894537c6/master/pass/Amazon-Delivery-Drones-Business-1732229069.jpg",
+        "title": "Amazon\u2019s Delivery Drones Are Grounded. The Birds and Dogs of This Texas Town Are Grateful",
+        "vote": 0
+    }
+]

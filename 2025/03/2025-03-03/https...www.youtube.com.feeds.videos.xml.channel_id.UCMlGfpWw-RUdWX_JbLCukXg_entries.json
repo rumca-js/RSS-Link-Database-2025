@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-03T15:07:13+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nModern C++ Error Handling - Phil Nash - CppCon 2024\n---\n\nWe\u2019ve had exceptions in C++ since before the first standard. C++17 introduced std::optional and C++23 std::expected (along with the so-called Monadic Operations for both types).\n\nWhat should we use and when?\n\nMeanwhile we still have older approaches, such as boolean or error code returns, as well as global or thread local error status or pointer or reference arguments.\n\nDo these still have a place?\n\nAnd where does assert fit in? And the (hopefully) upcoming contracts?\n\nPerhaps more importantly, once we\u2019ve examined all the trade-offs, can we defer any of those decisions to when we are best positioned to commit to them?\n\nErroneous conditions can have a big impact on your code\u2019s safety and security, so error handling shouldn\u2019t just be left to the \u201cexercise left for the reader\u201d in the books we used to read. Let\u2019s get this all straight.\n---\n\nSlides: https://github.com/CppCon/CppCon2024/blob/main/Presentation",
+        "id": 2236816,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=n1sJtsjbkKo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/n1sJtsjbkKo/hqdefault.jpg",
+        "title": "Modern C++ Error Handling - Phil Nash - CppCon 2024",
+        "vote": 0
+    }
+]

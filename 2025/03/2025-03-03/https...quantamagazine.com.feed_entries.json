@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-03T15:33:32+00:00",
+        "description": "A new proof extends the work of the late Maryam Mirzakhani, cementing her legacy as a pioneer of alien mathematical realms.            <p>The post <a href=\"https://www.quantamagazine.org/years-after-the-early-death-of-a-math-genius-her-ideas-gain-new-life-20250303/\" target=\"_blank\">Years After the Early Death of a Math Genius, Her Ideas Gain New Life</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2236887,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/years-after-the-early-death-of-a-math-genius-her-ideas-gain-new-life-20250303",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/03/MirzakhaniLegacy-crKristinaArmitage-Default.webp",
+        "title": "Years After the Early Death of a Math Genius, Her Ideas Gain New Life",
+        "vote": 0
+    }
+]

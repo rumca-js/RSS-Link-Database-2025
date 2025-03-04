@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-03T10:13:00+00:00",
+        "description": "Our instincts might not be as good as we hope. Going with your gut is thrilling. It&#8217;s personal, vulnerable and brave. And if it&#8217;s getting you what you seek, keep at it. But often, our instincts are a way of hiding, undermined by a lack of knowledge. If you haven&#8217;t done the reading and can&#8217;t [&#8230;]",
+        "id": 2234596,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/03/or-the-highway",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2026 or the highway",
+        "vote": 0
+    }
+]

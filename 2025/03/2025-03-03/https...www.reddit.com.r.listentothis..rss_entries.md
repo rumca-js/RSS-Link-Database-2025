@@ -1,0 +1,170 @@
+# Source:Listen To This, URL:https://www.reddit.com/r/listentothis/.rss, language:
+
+## Black Josh — Aw, Here it Goes ft Lee Scott [Hip Hop] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j2wt0y/black_josh_aw_here_it_goes_ft_lee_scott_hip_hop](https://www.reddit.com/r/listentothis/comments/1j2wt0y/black_josh_aw_here_it_goes_ft_lee_scott_hip_hop)
+ - RSS feed: $source
+ - date published: 2025-03-03T23:31:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2wt0y/black_josh_aw_here_it_goes_ft_lee_scott_hip_hop/"> <img src="https://external-preview.redd.it/zL0NwraalLCGGmenKJrD2sVkD4GW6u3iGdNuXTJ-Xts.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1960c2e96f02b1273654627e07e4ad19e3bc3703" alt="Black Josh — Aw, Here it Goes ft Lee Scott [Hip Hop] (2025)" title="Black Josh — Aw, Here it Goes ft Lee Scott [Hip Hop] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hndspn"> /u/hndspn </a> <br/> <span><a href="https://www.youtube.com/watch?v=uF5lKmILvbA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2wt0y/black_josh_aw_here_it_goes_ft_lee_scott_hip_hop/">[comments]</a></span> </td></tr></table>
+
+## First Aid Kit -- In Thread We Trust [Post-Hardcore] (2003)
+ - [https://www.reddit.com/r/listentothis/comments/1j2web9/first_aid_kit_in_thread_we_trust_posthardcore_2003](https://www.reddit.com/r/listentothis/comments/1j2web9/first_aid_kit_in_thread_we_trust_posthardcore_2003)
+ - RSS feed: $source
+ - date published: 2025-03-03T23:13:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2web9/first_aid_kit_in_thread_we_trust_posthardcore_2003/"> <img src="https://external-preview.redd.it/O4nNci3n8fTJXmHRtwTWgJWPh9cHLhh_57XrPXUMP3k.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=da7903bbbb540ab8403625c5085e7b855ee2592c" alt="First Aid Kit -- In Thread We Trust [Post-Hardcore] (2003)" title="First Aid Kit -- In Thread We Trust [Post-Hardcore] (2003)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hextermination"> /u/hextermination </a> <br/> <span><a href="https://soundcloud.com/firstfirstaidkit/in-thread-we-trust">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2web9/first_aid_kit_in_thread_we_trust_posthardcore_2003/">[comments]</a></span> </td></tr></table>
+
+## Yocoya -- Live Spin Cycle Session [Jazz Fusion] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1j2vc7q/yocoya_live_spin_cycle_session_jazz_fusion_2024](https://www.reddit.com/r/listentothis/comments/1j2vc7q/yocoya_live_spin_cycle_session_jazz_fusion_2024)
+ - RSS feed: $source
+ - date published: 2025-03-03T22:26:17+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2vc7q/yocoya_live_spin_cycle_session_jazz_fusion_2024/"> <img src="https://external-preview.redd.it/ZhZ1OqlWRlGPwlPi_AbxCvlaMnk5QGHWfjTQVRFq-nw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a20ffa47144eeea61df27ca10e673c0be506c153" alt="Yocoya -- Live Spin Cycle Session [Jazz Fusion] (2024)" title="Yocoya -- Live Spin Cycle Session [Jazz Fusion] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TensionCareful4015"> /u/TensionCareful4015 </a> <br/> <span><a href="https://www.youtube.com/watch?v=gyB_eX-W0Q8">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2vc7q/yocoya_live_spin_cycle_session_jazz_fusion_2024/">[comments]</a></span> </td></tr></table>
+
+## VZION Collective - Cyber Noir [Synthwave] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j2v0fi/vzion_collective_cyber_noir_synthwave_2025](https://www.reddit.com/r/listentothis/comments/1j2v0fi/vzion_collective_cyber_noir_synthwave_2025)
+ - RSS feed: $source
+ - date published: 2025-03-03T22:12:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2v0fi/vzion_collective_cyber_noir_synthwave_2025/"> <img src="https://external-preview.redd.it/Ow6FpjHpO-0WVaQqeFZTPCukwqSTdDQpRhf4hhAyNdk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2ce08d8f1b63a24d43341fdf070e2774418c2bf3" alt="VZION Collective - Cyber Noir [Synthwave] (2025)" title="VZION Collective - Cyber Noir [Synthwave] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pavl77"> /u/pavl77 </a> <br/> <span><a href="https://www.youtube.com/watch?v=MlLDk9IA008">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2v0fi/vzion_collective_cyber_noir_synthwave_2025/">[comments]</a></span> </td></tr></table>
+
+## Hannes -- I Feel It [Pop] (2001)
+ - [https://www.reddit.com/r/listentothis/comments/1j2ursf/hannes_i_feel_it_pop_2001](https://www.reddit.com/r/listentothis/comments/1j2ursf/hannes_i_feel_it_pop_2001)
+ - RSS feed: $source
+ - date published: 2025-03-03T22:01:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2ursf/hannes_i_feel_it_pop_2001/"> <img src="https://external-preview.redd.it/piHNF0pdLRFvzdZxWC2H9vwaht4rzOetLM4U4gbJf4s.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=38b6d47da28f686e8d87302bf8144afcff9b98c4" alt="Hannes -- I Feel It [Pop] (2001)" title="Hannes -- I Feel It [Pop] (2001)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheHaberdasher"> /u/TheHaberdasher </a> <br/> <span><a href="https://www.youtube.com/watch?v=CdICFEi2iOE">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2ursf/hannes_i_feel_it_pop_2001/">[comments]</a></span> </td></tr></table>
+
+## HELL KID -- RUN AWAY [RAP] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j2spps/hell_kid_run_away_rap_2025](https://www.reddit.com/r/listentothis/comments/1j2spps/hell_kid_run_away_rap_2025)
+ - RSS feed: $source
+ - date published: 2025-03-03T20:35:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2spps/hell_kid_run_away_rap_2025/"> <img src="https://external-preview.redd.it/Fj0JDfPrREwweBASSd7jTUTlIhT4a-KrYJqprJxlNmE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=03b10e162f63d553b53ad5d304c1dbe9eeb798fa" alt="HELL KID -- RUN AWAY [RAP] (2025)" title="HELL KID -- RUN AWAY [RAP] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TwiceRD"> /u/TwiceRD </a> <br/> <span><a href="https://youtu.be/CkYKTTczgR0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2spps/hell_kid_run_away_rap_2025/">[comments]</a></span> </td></tr></table>
+
+## Mother/Father — Physical Heaven [Goth Rock] (2010)
+ - [https://www.reddit.com/r/listentothis/comments/1j2rf1a/motherfather_physical_heaven_goth_rock_2010](https://www.reddit.com/r/listentothis/comments/1j2rf1a/motherfather_physical_heaven_goth_rock_2010)
+ - RSS feed: $source
+ - date published: 2025-03-03T19:42:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2rf1a/motherfather_physical_heaven_goth_rock_2010/"> <img src="https://external-preview.redd.it/e4_cKTLM9Kwd8UL5GJ28IDbn-iCyBSTkATzHXQbsty8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bde57f2e0977785b1acc7fa2f11b620f9fd235ff" alt="Mother/Father — Physical Heaven [Goth Rock] (2010)" title="Mother/Father — Physical Heaven [Goth Rock] (2010)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Thenormalelevator32"> /u/Thenormalelevator32 </a> <br/> <span><a href="https://youtu.be/uZV_bC82fws">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2rf1a/motherfather_physical_heaven_goth_rock_2010/">[comments]</a></span> </td></tr></table>
+
+## [Discussion] Live DVDs or Movies
+ - [https://www.reddit.com/r/listentothis/comments/1j2pucx/discussion_live_dvds_or_movies](https://www.reddit.com/r/listentothis/comments/1j2pucx/discussion_live_dvds_or_movies)
+ - RSS feed: $source
+ - date published: 2025-03-03T18:38:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve started down a rabbit hole lately of finding some of the best live movies (think Live in Pompeii by Pink Floyd). I thought Cage the Elephant - Unpeeled was amazing, but couldn&#39;t find an entire dvd or movie download anywhere. What are some recommendations of full length live movies? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/maxtimbo"> /u/maxtimbo </a> <br/> <span><a href="https://www.reddit.com/r/listentothis/comments/1j2pucx/discussion_live_dvds_or_movies/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2pucx/discussion_live_dvds_or_movies/">[comments]</a></span>
+
+## Nissah Amara - Blowing Wind [Altmetal-Metalcore/Shoegaze] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j2odu9/nissah_amara_blowing_wind](https://www.reddit.com/r/listentothis/comments/1j2odu9/nissah_amara_blowing_wind)
+ - RSS feed: $source
+ - date published: 2025-03-03T17:40:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2odu9/nissah_amara_blowing_wind/"> <img src="https://external-preview.redd.it/66tdxXiET5GDoZSRmJtjcyokWHk_fBXJyyGyO0WSBks.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2b96bb6bd5131ec86853ab0b7c2f70d0f61cd759" alt="Nissah Amara - Blowing Wind [Altmetal-Metalcore/Shoegaze] (2025)" title="Nissah Amara - Blowing Wind [Altmetal-Metalcore/Shoegaze] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Immortal_Carriage"> /u/Immortal_Carriage </a> <br/> <span><a href="https://youtu.be/t1hhk24bbuk?feature=shared">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2odu9/nissah_amara_blowing_wind/">[comments]</a></span> </td></tr></table>
+
+## Chinese Football - Awaking Daydream (清​醒​白​日​梦) (Live on KEXP) [Indie Rock] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j2nz44/chinese_football_awaking_daydream_清醒白日梦_live_on](https://www.reddit.com/r/listentothis/comments/1j2nz44/chinese_football_awaking_daydream_清醒白日梦_live_on)
+ - RSS feed: $source
+ - date published: 2025-03-03T17:23:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2nz44/chinese_football_awaking_daydream_清醒白日梦_live_on/"> <img src="https://external-preview.redd.it/Q83XuFg8xqP4vpQt1nxobP1992dMJljEsTNYEps10Q4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2f3161daf37d87a2e154060511a3002d37fbe607" alt="Chinese Football - Awaking Daydream (清​醒​白​日​梦) (Live on KEXP) [Indie Rock] (2025)" title="Chinese Football - Awaking Daydream (清​醒​白​日​梦) (Live on KEXP) [Indie Rock] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ITguyBlake"> /u/ITguyBlake </a> <br/> <span><a href="https://youtu.be/d2XR2RmH8gg?si=OG_kLCUTjIqwsG4m">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2nz44/chinese_football_awaking_daydream_清醒白日梦_live_on/">[comments]</a></span> </td></tr></table>
+
+## Movin' On - Prizilla [Pop-Soul] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1j2ncmw/movin_on_prizilla_popsoul_2024](https://www.reddit.com/r/listentothis/comments/1j2ncmw/movin_on_prizilla_popsoul_2024)
+ - RSS feed: $source
+ - date published: 2025-03-03T16:58:46+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2ncmw/movin_on_prizilla_popsoul_2024/"> <img src="https://external-preview.redd.it/KY8_OeiVSsEG-mRs_qqlI_EYNjbYaKYILdHhW1UldxU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c9b8d23402dbfaf94d049e4bfa45b7d81329ae44" alt="Movin' On - Prizilla [Pop-Soul] (2024)" title="Movin' On - Prizilla [Pop-Soul] (2024)" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Based out of Gainesville, FL</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ITguyBlake"> /u/ITguyBlake </a> <br/> <span><a href="https://youtu.be/mA0Mm57zNIo?si=hrjFV8G4k6dHSLHV">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2ncmw/movin_on_prizilla_popsoul_2024/">[comments]</a></span> </td></tr></table>
+
+## Kaonashi - Fairmount Park After Dark [post hardcore/metal] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j2n23f/kaonashi_fairmount_park_after_dark_post](https://www.reddit.com/r/listentothis/comments/1j2n23f/kaonashi_fairmount_park_after_dark_post)
+ - RSS feed: $source
+ - date published: 2025-03-03T16:46:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2n23f/kaonashi_fairmount_park_after_dark_post/"> <img src="https://external-preview.redd.it/umLi8vG9niJaUdGayshQrFX5FnOBUof0Xfas0YKSqeE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b063718343c5686e040efb656fcdaee349922fd6" alt="Kaonashi - Fairmount Park After Dark [post hardcore/metal] (2025)" title="Kaonashi - Fairmount Park After Dark [post hardcore/metal] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Dismal-Cucumber-6603"> /u/Dismal-Cucumber-6603 </a> <br/> <span><a href="https://www.youtube.com/watch?v=xGLtrVlh8D0">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2n23f/kaonashi_fairmount_park_after_dark_post/">[comments]</a></span> </td></tr></table>
+
+## LIILY -- More [Punk/Rock] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1j2n21x/liily_more_punkrock_2024](https://www.reddit.com/r/listentothis/comments/1j2n21x/liily_more_punkrock_2024)
+ - RSS feed: $source
+ - date published: 2025-03-03T16:46:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2n21x/liily_more_punkrock_2024/"> <img src="https://external-preview.redd.it/bH0xJvGO-HuuFzvebJe_AYvmHb1Qe3JsG3-uasdaSw8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5298f3275db32da8431ece4118bf1d16549dd5d4" alt="LIILY -- More [Punk/Rock] (2024)" title="LIILY -- More [Punk/Rock] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Swagasaurus785"> /u/Swagasaurus785 </a> <br/> <span><a href="https://www.youtube.com/watch?v=inUn-FS6xJM">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2n21x/liily_more_punkrock_2024/">[comments]</a></span> </td></tr></table>
+
+## Feng Suede — Golden Retriever [surf rock] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j2mqo8/feng_suede_golden_retriever_surf_rock_2025](https://www.reddit.com/r/listentothis/comments/1j2mqo8/feng_suede_golden_retriever_surf_rock_2025)
+ - RSS feed: $source
+ - date published: 2025-03-03T16:33:05+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2mqo8/feng_suede_golden_retriever_surf_rock_2025/"> <img src="https://external-preview.redd.it/q55sBNXsOZg4N9g2UdThupmYSS6syOIIgmEygf2SVPU.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=778fd0a3e7605ebe3189a78bd5cf60da54bfdee2" alt="Feng Suede — Golden Retriever [surf rock] (2025)" title="Feng Suede — Golden Retriever [surf rock] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Senior_Sale_6261"> /u/Senior_Sale_6261 </a> <br/> <span><a href="https://open.spotify.com/track/3KSNO4bsYYYJV5o4O15Y1F?si=uOP6f9CmSEO2jcfxRRsrwg&amp;context=spotify%3Aalbum%3A76yqpTUrc2Pxx1NzGOvywa">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2mqo8/feng_suede_golden_retriever_surf_rock_2025/">[comments]</a></span> </td></tr></table>
+
+## Faerybabyy -- Jabbermouth [indie rock] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j2ltfw/faerybabyy_jabbermouth_indie_rock_2025](https://www.reddit.com/r/listentothis/comments/1j2ltfw/faerybabyy_jabbermouth_indie_rock_2025)
+ - RSS feed: $source
+ - date published: 2025-03-03T15:54:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2ltfw/faerybabyy_jabbermouth_indie_rock_2025/"> <img src="https://external-preview.redd.it/59xij9FMPBTX920jbdVGpOA1amrczWweBCmpbtAvOg4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7677b45a5b345e32345a27907f8b03c514224bf8" alt="Faerybabyy -- Jabbermouth [indie rock] (2025)" title="Faerybabyy -- Jabbermouth [indie rock] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/qazz23"> /u/qazz23 </a> <br/> <span><a href="https://www.youtube.com/watch?v=_Gce_4Z9Qmg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2ltfw/faerybabyy_jabbermouth_indie_rock_2025/">[comments]</a></span> </td></tr></table>
+
+## InnerPartySystem -- American trash [Pop/Funk/Bass] (2011)
+ - [https://www.reddit.com/r/listentothis/comments/1j2lof4/innerpartysystem_american_trash_popfunkbass_2011](https://www.reddit.com/r/listentothis/comments/1j2lof4/innerpartysystem_american_trash_popfunkbass_2011)
+ - RSS feed: $source
+ - date published: 2025-03-03T15:48:59+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2lof4/innerpartysystem_american_trash_popfunkbass_2011/"> <img src="https://external-preview.redd.it/GdZHTXwxvX_YePmQsWdQImtc9OYA68CC-RiD38iL6So.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a1b6274303a4c9d76367c7093b88de383f3b0151" alt="InnerPartySystem -- American trash [Pop/Funk/Bass] (2011)" title="InnerPartySystem -- American trash [Pop/Funk/Bass] (2011)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CyberSmith31337"> /u/CyberSmith31337 </a> <br/> <span><a href="https://www.youtube.com/watch?v=AqtXtnUGPiA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2lof4/innerpartysystem_american_trash_popfunkbass_2011/">[comments]</a></span> </td></tr></table>
+
+## BLOWSOM -- EST-CE QUE TU RESTES? [French indie] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j2f56s/blowsom_estce_que_tu_restes_french_indie_2025](https://www.reddit.com/r/listentothis/comments/1j2f56s/blowsom_estce_que_tu_restes_french_indie_2025)
+ - RSS feed: $source
+ - date published: 2025-03-03T09:46:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2f56s/blowsom_estce_que_tu_restes_french_indie_2025/"> <img src="https://external-preview.redd.it/_yqc04U0QPW42-faY72l-AWOJXX11ivBWnV9JJnApM0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=05a46ecfaae344d72a5ddc96548b97f680122e41" alt="BLOWSOM -- EST-CE QUE TU RESTES? [French indie] (2025)" title="BLOWSOM -- EST-CE QUE TU RESTES? [French indie] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BLOWSOM_"> /u/BLOWSOM_ </a> <br/> <span><a href="https://www.youtube.com/watch?v=GQzSgn__h7w">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2f56s/blowsom_estce_que_tu_restes_french_indie_2025/">[comments]</a></span> </td></tr></table>
+
+## julzy dream -- starchaser [retrowave] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j2ec4h/julzy_dream_starchaser_retrowave_2025](https://www.reddit.com/r/listentothis/comments/1j2ec4h/julzy_dream_starchaser_retrowave_2025)
+ - RSS feed: $source
+ - date published: 2025-03-03T08:45:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2ec4h/julzy_dream_starchaser_retrowave_2025/"> <img src="https://external-preview.redd.it/99nKHoH2wvkIMUIkVhGp81T5y1nq89acwy725gQ0JbY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0c72f56cd60b7b7743f9b9a8ab26d344b39e372c" alt="julzy dream -- starchaser [retrowave] (2025)" title="julzy dream -- starchaser [retrowave] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MooMartini"> /u/MooMartini </a> <br/> <span><a href="https://www.youtube.com/watch?v=r1UmzR0EUVA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2ec4h/julzy_dream_starchaser_retrowave_2025/">[comments]</a></span> </td></tr></table>
+
+## SPHERES - Command Module [Synth](2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j2b8jw/spheres_command_module_synth2025](https://www.reddit.com/r/listentothis/comments/1j2b8jw/spheres_command_module_synth2025)
+ - RSS feed: $source
+ - date published: 2025-03-03T05:10:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2b8jw/spheres_command_module_synth2025/"> <img src="https://external-preview.redd.it/QtuDZDXBeYeTtN8zkY37OsrDUMI5QMo6i6fV3Q8zc20.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d2b18b36e153c4124d7a94f1d2f2c24136db5570" alt="SPHERES - Command Module [Synth](2025)" title="SPHERES - Command Module [Synth](2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SmackinGoobers"> /u/SmackinGoobers </a> <br/> <span><a href="https://www.youtube.com/watch?v=kIz2U_IzC7o">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2b8jw/spheres_command_module_synth2025/">[comments]</a></span> </td></tr></table>
+
+## SPHERES - Solarplex [Synth/Dance/Electronic] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1j2b3ja/spheres_solarplex_synthdanceelectronic_2024](https://www.reddit.com/r/listentothis/comments/1j2b3ja/spheres_solarplex_synthdanceelectronic_2024)
+ - RSS feed: $source
+ - date published: 2025-03-03T05:02:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2b3ja/spheres_solarplex_synthdanceelectronic_2024/"> <img src="https://external-preview.redd.it/DGnpCrmxVHm53ehhJpi5SDqs3knX6FkvBvCppHAnwYY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=507b88545d8b6afe3b876f426531c8fe7ac714d8" alt="SPHERES - Solarplex [Synth/Dance/Electronic] (2024)" title="SPHERES - Solarplex [Synth/Dance/Electronic] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SmackinGoobers"> /u/SmackinGoobers </a> <br/> <span><a href="https://www.youtube.com/watch?v=jFq2zpfxkHs">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2b3ja/spheres_solarplex_synthdanceelectronic_2024/">[comments]</a></span> </td></tr></table>
+
+## Lord Sionis - April Showers [Melodic/Indie] (2025)
+ - [https://www.reddit.com/r/listentothis/comments/1j2b1kr/lord_sionis_april_showers_melodicindie_2025](https://www.reddit.com/r/listentothis/comments/1j2b1kr/lord_sionis_april_showers_melodicindie_2025)
+ - RSS feed: $source
+ - date published: 2025-03-03T04:59:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j2b1kr/lord_sionis_april_showers_melodicindie_2025/"> <img src="https://external-preview.redd.it/_5YjYMzkAsC0q2v1FcCz4LbGb41btkpOTdqsgRj_qXA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=57c6847f03bcb48cf2b0f8cc787132e4f6539cc6" alt="Lord Sionis - April Showers [Melodic/Indie] (2025)" title="Lord Sionis - April Showers [Melodic/Indie] (2025)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BitchitsBessie"> /u/BitchitsBessie </a> <br/> <span><a href="https://youtu.be/e4KnohnrKmo?si=vlvLt5QzZRNdW675">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j2b1kr/lord_sionis_april_showers_melodicindie_2025/">[comments]</a></span> </td></tr></table>
+
+## Cheap Perfume -- It's Okay To Punch Nazis [Punk] (2019)
+ - [https://www.reddit.com/r/listentothis/comments/1j29xkg/cheap_perfume_its_okay_to_punch_nazis_punk_2019](https://www.reddit.com/r/listentothis/comments/1j29xkg/cheap_perfume_its_okay_to_punch_nazis_punk_2019)
+ - RSS feed: $source
+ - date published: 2025-03-03T03:55:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j29xkg/cheap_perfume_its_okay_to_punch_nazis_punk_2019/"> <img src="https://external-preview.redd.it/lcvacueBGzSDZeAaUtkAQ0f0BC4sq2tR8k5v-PEafiE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a387bc240f0cfc7ce7ad1121b126e19dca379d8e" alt="Cheap Perfume -- It's Okay To Punch Nazis [Punk] (2019)" title="Cheap Perfume -- It's Okay To Punch Nazis [Punk] (2019)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sturmov1k"> /u/Sturmov1k </a> <br/> <span><a href="https://www.youtube.com/watch?v=-sOSr7n_8YU">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j29xkg/cheap_perfume_its_okay_to_punch_nazis_punk_2019/">[comments]</a></span> </td></tr></table>
+
+## Greg Hunter -- One Horse Ranch [singer songwriter / indie rock] (2024)
+ - [https://www.reddit.com/r/listentothis/comments/1j27hyt/greg_hunter_one_horse_ranch_singer_songwriter](https://www.reddit.com/r/listentothis/comments/1j27hyt/greg_hunter_one_horse_ranch_singer_songwriter)
+ - RSS feed: $source
+ - date published: 2025-03-03T01:45:34+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/listentothis/comments/1j27hyt/greg_hunter_one_horse_ranch_singer_songwriter/"> <img src="https://external-preview.redd.it/kEHMUfogMhf1YGIdz0gu0dkbhRbJOsoZmNa2V05rxrw.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=04a31094b0ff7e03755c0dbf0a22731cae14dc0c" alt="Greg Hunter -- One Horse Ranch [singer songwriter / indie rock] (2024)" title="Greg Hunter -- One Horse Ranch [singer songwriter / indie rock] (2024)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gogogonzoflow"> /u/gogogonzoflow </a> <br/> <span><a href="https://open.spotify.com/track/4zB5x5waaeUhEpXdH6ymfg?si=93660db71fba44e2">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/listentothis/comments/1j27hyt/greg_hunter_one_horse_ranch_singer_songwriter/">[comments]</a></span> </td></tr></table>
+
+## Music Melting Pot [Week of March 03, 2025]
+ - [https://www.reddit.com/r/listentothis/comments/1j26mbk/music_melting_pot_week_of_march_03_2025](https://www.reddit.com/r/listentothis/comments/1j26mbk/music_melting_pot_week_of_march_03_2025)
+ - RSS feed: $source
+ - date published: 2025-03-03T01:00:32+00:00
+
+<!-- SC_OFF --><div class="md"><p>The melting pot is a free-for-all music sharing thread posted weekly.</p> <p>We&#39;d like to invite everyone to reply with...</p> <ul> <li>Anything you&#39;ve been listening to recently and enjoying.</li> <li>Great obscure music that doesn&#39;t get the upvotes you think it deserves.</li> <li>Your own playlists, mixtapes, or other good compilations you&#39;ve found.</li> <li>New releases this week and your opinions on those albums.</li> <li>If you&#39;re an artist, share your music with us and tell us about it.</li> </ul> <p>Guidelines to get the most out of these threads...</p> <ul> <li>Always provide listening links for anything you share here.</li> <li>Tell us a little bit about what you&#39;re sharing and why you like it.</li> <li>No top40/hall of fame artists, no &#39;corporate bullshit&#39; music please!</li> <li>For top-level comments, downvote if there is no listening link.</li> <li>Format any posted links as follows: [Artist - &quot;Song Ti
+

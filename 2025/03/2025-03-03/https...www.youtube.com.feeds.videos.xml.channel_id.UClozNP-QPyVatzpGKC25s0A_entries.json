@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brad Colbow",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-03T13:59:35+00:00",
+        "description": "NEW COURSES: http://bradsartschool.com\n\nThe Xiaomi Pad 7 Pro is a fairly inexpensive for what it is. But a Snapdragon 8 gen 3 processor and pen enabled is going to appeal to a lot of artists.\n\n-----------------------------------------------------\n\nInstagram:\nhttps://www.instagram.com/brad.colbow/\n\nThreads:\nhttps://www.threads.net/@brad.colbow\n\nBluesky:\nhttps://bsky.app/profile/bradcolbow.bsky.social\n\nDrawing Tech Top 10 lists:\nhttps://www.bradsartschool.com/drawing-tablet-rankings",
+        "id": 2235942,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=cen49aNjTyQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 44,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClozNP-QPyVatzpGKC25s0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cen49aNjTyQ/hqdefault.jpg",
+        "title": "Xiaomi Pad 7 Pro Review",
+        "vote": 0
+    }
+]

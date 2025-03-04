@@ -1,0 +1,114 @@
+# Source:DeGoogle - expel Google from your life, URL:https://www.reddit.com/r/degoogle/.rss, language:en
+
+## social media in browser
+ - [https://www.reddit.com/r/degoogle/comments/1j2ux9v/social_media_in_browser](https://www.reddit.com/r/degoogle/comments/1j2ux9v/social_media_in_browser)
+ - RSS feed: $source
+ - date published: 2025-03-03T22:08:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>Lately I&#39;m a little worried about privacy and tracking, and I wanted to know if using my Instagram in Firefox and then clearing the history would improve anything... what do you say? I have a FB extension installed too, and it helps me avoid the massive meta advertisements</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Unlikely-Spare-4932"> /u/Unlikely-Spare-4932 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j2ux9v/social_media_in_browser/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j2ux9v/social_media_in_browser/">[comments]</a></span>
+
+## 39 Million UBlock Origins Chrome Users Affected Today. 1 Petition. Please sign & share.
+ - [https://www.reddit.com/r/degoogle/comments/1j2tf92/39_million_ublock_origins_chrome_users_affected](https://www.reddit.com/r/degoogle/comments/1j2tf92/39_million_ublock_origins_chrome_users_affected)
+ - RSS feed: $source
+ - date published: 2025-03-03T21:05:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1j2tf92/39_million_ublock_origins_chrome_users_affected/"> <img src="https://external-preview.redd.it/wSnc7ALxqRjYpwjiOMUMNaaZvMSPES1i0LAe-3pGYZE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=29af22e3beed4ee6cdd52a33cb1afc58d1177df4" alt="39 Million UBlock Origins Chrome Users Affected Today. 1 Petition. Please sign &amp; share." title="39 Million UBlock Origins Chrome Users Affected Today. 1 Petition. Please sign &amp; share." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Xenoel"> /u/Xenoel </a> <br/> <span><a href="https://chng.it/rKdYFSZvnF">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j2tf92/39_million_ublock_origins_chrome_users_affected/">[comments]</a></span> </td></tr></table>
+
+## What I so far struggle with is a keyboard.
+ - [https://www.reddit.com/r/degoogle/comments/1j2rh2g/what_i_so_far_struggle_with_is_a_keyboard](https://www.reddit.com/r/degoogle/comments/1j2rh2g/what_i_so_far_struggle_with_is_a_keyboard)
+ - RSS feed: $source
+ - date published: 2025-03-03T19:44:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Can you give me some suggestions please? I did not like the looks of Swype although I usually swipe all texts. Is there any keyboard that has proper privacy?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/reviery_official"> /u/reviery_official </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j2rh2g/what_i_so_far_struggle_with_is_a_keyboard/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j2rh2g/what_i_so_far_struggle_with_is_a_keyboard/">[comments]</a></span>
+
+## Yes, degoogling does have a cost.
+ - [https://www.reddit.com/r/degoogle/comments/1j2rdzf/yes_degoogling_does_have_a_cost](https://www.reddit.com/r/degoogle/comments/1j2rdzf/yes_degoogling_does_have_a_cost)
+ - RSS feed: $source
+ - date published: 2025-03-03T19:40:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve seen some folks say they want to get rid of Google, but they don&#39;t want to pay for the alternatives. Folks, the money has to come from somewhere. Either Google is selling your data to fund a service or you&#39;re paying a (in my opinion) nominal cost of $3-$5 a month. </p> <p>I just want to quickly address a comment that went something like: &quot;I thought paying $3 for email was kind of high.&quot; Keep in mind that stamps in 1995 cost 35 cents. The fact that you can send nearly unlimited contacts for less than ten bucks is nothing short of a modern miracle. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tales6888"> /u/tales6888 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j2rdzf/yes_degoogling_does_have_a_cost/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j2rdzf/yes_degoogling_does_have_a_cost/">[comments]</a></span>
+
+## Russia removed from cybersecurity threats
+ - [https://www.reddit.com/r/degoogle/comments/1j2jold/russia_removed_from_cybersecurity_threats](https://www.reddit.com/r/degoogle/comments/1j2jold/russia_removed_from_cybersecurity_threats)
+ - RSS feed: $source
+ - date published: 2025-03-03T14:19:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>As a canadian, is there anything I can/should do knowing that russia has been removed from american cybersecurity threats list? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SergeJeante"> /u/SergeJeante </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j2jold/russia_removed_from_cybersecurity_threats/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j2jold/russia_removed_from_cybersecurity_threats/">[comments]</a></span>
+
+## Pixel 8 pro
+ - [https://www.reddit.com/r/degoogle/comments/1j2j589/pixel_8_pro](https://www.reddit.com/r/degoogle/comments/1j2j589/pixel_8_pro)
+ - RSS feed: $source
+ - date published: 2025-03-03T13:53:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is there any alternative to Android for P8P? I know e/os, but I can&#39;t find if it&#39;s available or how to install.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/foosilva"> /u/foosilva </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j2j589/pixel_8_pro/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j2j589/pixel_8_pro/">[comments]</a></span>
+
+## What is the Best VPN Service?
+ - [https://www.reddit.com/r/degoogle/comments/1j2iyt7/what_is_the_best_vpn_service](https://www.reddit.com/r/degoogle/comments/1j2iyt7/what_is_the_best_vpn_service)
+ - RSS feed: $source
+ - date published: 2025-03-03T13:44:46+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/rainunicornbow"> /u/rainunicornbow </a> <br/> <span><a href="/r/VPNextension/comments/1j2ivg8/what_is_the_best_vpn_service/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j2iyt7/what_is_the_best_vpn_service/">[comments]</a></span>
+
+## Reminder to why Google is straight up crap, search is riddled with ads
+ - [https://www.reddit.com/r/degoogle/comments/1j2gfe4/reminder_to_why_google_is_straight_up_crap_search](https://www.reddit.com/r/degoogle/comments/1j2gfe4/reminder_to_why_google_is_straight_up_crap_search)
+ - RSS feed: $source
+ - date published: 2025-03-03T11:17:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1j2gfe4/reminder_to_why_google_is_straight_up_crap_search/"> <img src="https://preview.redd.it/ycthd7tqkgme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=88384ae9c606ce028a862095aef0fe64e0d54205" alt="Reminder to why Google is straight up crap, search is riddled with ads" title="Reminder to why Google is straight up crap, search is riddled with ads" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Since DuckDuckGo is not working right now for me, I reverted to Google to search for a department/clothing store in Germany. However, the whole first page is just full of a sh*t load of ads. I understand putting one ad there like DuckDuckGo does, but not a whole page dedicated to ads just to use their product.</p> <p>The ad you see on the bottom by the way isn&#39;t even the one of the right Peek &amp; Cloppenburg department store, but instead of the one from Hamburg, which is economically independent of the one in
+
+## Looking for an email app on android that works with notifications
+ - [https://www.reddit.com/r/degoogle/comments/1j2exzv/looking_for_an_email_app_on_android_that_works](https://www.reddit.com/r/degoogle/comments/1j2exzv/looking_for_an_email_app_on_android_that_works)
+ - RSS feed: $source
+ - date published: 2025-03-03T09:31:11+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was using Samsung Email on my old phone, but when I upgraded, it was no longer the default choice, so I am looking for a new one. My biggest criterion is the notification-to-app feature.</p> <p>Having tried Outlook, Edison, and Spark, if I tapped on an email notification, it led me to that specific email, but I couldn&#39;t swipe left or right to access other emails. I would have to back out of the current email into the inbox and select an email again before being able to swipe to browse emails again.</p> <p>Is there any email app out there that has this feature that Gmail and Samsung Email has? I don&#39;t believe that only these two have such a basic QOL function.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Relzal"> /u/Relzal </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j2exzv/looking_for_an_email_app_on_android_that_works/">[link]</a></span> &#32; <span><a href="https://www.red
+
+## Chrome removed Ublock Origin :( Switching to Firefox
+ - [https://www.reddit.com/r/degoogle/comments/1j2eov6/chrome_removed_ublock_origin_switching_to_firefox](https://www.reddit.com/r/degoogle/comments/1j2eov6/chrome_removed_ublock_origin_switching_to_firefox)
+ - RSS feed: $source
+ - date published: 2025-03-03T09:12:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1j2eov6/chrome_removed_ublock_origin_switching_to_firefox/"> <img src="https://b.thumbs.redditmedia.com/GnRvEZoqrPZHpgie3KdBrXViKeOwXlIiY4FNbOMTU5o.jpg" alt="Chrome removed Ublock Origin :( Switching to Firefox" title="Chrome removed Ublock Origin :( Switching to Firefox" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/k1wqlylgyfme1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=043c9b58bc869438020d8a7b1eb1dcb641cc7686">https://preview.redd.it/k1wqlylgyfme1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=043c9b58bc869438020d8a7b1eb1dcb641cc7686</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ben_Parker_4132"> /u/Ben_Parker_4132 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j2eov6/chrome_removed_ublock_origin_switching_to_firefox/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/commen
+
+## How I degoogled my phone without root
+ - [https://www.reddit.com/r/degoogle/comments/1j2c0i5/how_i_degoogled_my_phone_without_root](https://www.reddit.com/r/degoogle/comments/1j2c0i5/how_i_degoogled_my_phone_without_root)
+ - RSS feed: $source
+ - date published: 2025-03-03T05:59:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>After finding out that my new phone can&#39;t be rooted, the only options I had were to:</p> <p>1.) Go with strictly web apps to replace banking apps, social media, any google apps that I still use but don&#39;t want then continuously tracking me.</p> <p>2.) Download and install F-droid and Aurora Store to find replacement apps for apps that had trackers via Exodus. I&#39;ve replaced almost every app that I used to use with FOSS alternatives such as Tubular (a YouTube alternative that has sponsorblock and return YouTube dislike), Rimusic (a YouTube music frontend with no ads), QUIK (SMS replacement), Phone, Contacts, Files Manager, Calendar, Notes by Fossify, OSMAnd for offline maps, etc.</p> <p>3.) Download and install Revanced Manager and MicroG. I had trouble getting notifications working after I removed Google play services, but I guess what you have you do is go into MicroG sittings and deregister from google device registration and disable push
+
+## YouTube… what do I do?
+ - [https://www.reddit.com/r/degoogle/comments/1j2a5gn/youtube_what_do_i_do](https://www.reddit.com/r/degoogle/comments/1j2a5gn/youtube_what_do_i_do)
+ - RSS feed: $source
+ - date published: 2025-03-03T04:07:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m just starting to get on the process of the de-googling… but one thing that I keep thinking about is YouTube. Is Vimeo still around? What else could I go to?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/fallen_empathy"> /u/fallen_empathy </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j2a5gn/youtube_what_do_i_do/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j2a5gn/youtube_what_do_i_do/">[comments]</a></span>
+
+## GBoard alternatives if any please*
+ - [https://www.reddit.com/r/degoogle/comments/1j29fhs/gboard_alternatives_if_any_please](https://www.reddit.com/r/degoogle/comments/1j29fhs/gboard_alternatives_if_any_please)
+ - RSS feed: $source
+ - date published: 2025-03-03T03:27:55+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/kwhytte"> /u/kwhytte </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j29fhs/gboard_alternatives_if_any_please/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j29fhs/gboard_alternatives_if_any_please/">[comments]</a></span>
+
+## A search engine that does not perform censorship
+ - [https://www.reddit.com/r/degoogle/comments/1j289o8/a_search_engine_that_does_not_perform_censorship](https://www.reddit.com/r/degoogle/comments/1j289o8/a_search_engine_that_does_not_perform_censorship)
+ - RSS feed: $source
+ - date published: 2025-03-03T02:25:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Google is censored, so I am looking for other search engines. DuckDuckGo also does not provide ideal search results. Could you recommend a search engine with as little censorship as possible? Thank you.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/l1sesharte"> /u/l1sesharte </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j289o8/a_search_engine_that_does_not_perform_censorship/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j289o8/a_search_engine_that_does_not_perform_censorship/">[comments]</a></span>
+
+## US authorities can see more than ever, with Big Tech as their eyes
+ - [https://www.reddit.com/r/degoogle/comments/1j27nww/us_authorities_can_see_more_than_ever_with_big](https://www.reddit.com/r/degoogle/comments/1j27nww/us_authorities_can_see_more_than_ever_with_big)
+ - RSS feed: $source
+ - date published: 2025-03-03T01:54:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1j27nww/us_authorities_can_see_more_than_ever_with_big/"> <img src="https://external-preview.redd.it/aghp2oxmuRi2Xe9mH9z2FdU0oy_agqbveS676MMUK-k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=473b5ff64687d67fb43ec896e0de7370cf3461d6" alt="US authorities can see more than ever, with Big Tech as their eyes" title="US authorities can see more than ever, with Big Tech as their eyes" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Paul-Anderson-Iowa"> /u/Paul-Anderson-Iowa </a> <br/> <span><a href="https://proton.me/blog/big-tech-data-requests-surge">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j27nww/us_authorities_can_see_more_than_ever_with_big/">[comments]</a></span> </td></tr></table>
+
+## Double checking Gmail alternatives
+ - [https://www.reddit.com/r/degoogle/comments/1j27cfu/double_checking_gmail_alternatives](https://www.reddit.com/r/degoogle/comments/1j27cfu/double_checking_gmail_alternatives)
+ - RSS feed: $source
+ - date published: 2025-03-03T01:37:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, I&#39;m moving my family away from gmail primarily to stop supporting the uber-rich and mega-corps.</p> <p>Requirements: - access via webapp - ios access via apple mail (yeah, yeah, the hypocrisy. one thing at a time) - some way to import 25+ years of emails - custom domain name - no connection to large companies</p> <p>Nice-to-haves: - not us-based. We live in the us and although journalist-level privacy is not something we need, I think even rudimentary privacy may no longer be possible here.</p> <p>.</p> <p>I&#39;m creating this post to ask if you see any errors in my selection analysis. Here&#39;s where I&#39;m at.</p> <p><strong>Proton</strong> - out. Uses google for parts of security, allowing them to collect metadata. </p> <p><strong>Posteio</strong> - out. No custom domain names.</p> <p><strong>tuta.com</strong> - out. No IMAP so won&#39;t work with apple mail. Otherwise would&#39;ve been top pick.</p> <p><strong>mailbox.org</strong> - in
+

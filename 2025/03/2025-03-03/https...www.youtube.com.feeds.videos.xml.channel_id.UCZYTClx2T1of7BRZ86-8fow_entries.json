@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-03T18:00:01+00:00",
+        "description": "There's a rare material called Darwin Glass that Tasmanian Aboriginals have prized for centuries. And while it took Western researchers a while to figure out what it was and where it came from, once they got their heads around it, they were pretty stoked too. Because these glittery little rocks could be the key to a theory called panspermia, and tell us all about how life might get transported between planets.\n\nHosted by: Stefan Chin (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: David Johnston, Martin Osorio, Cye Stoner, Kaitlyn O'Callaghan, Jp Lynch, kickinwasabi, Bethany Matthews, Chris Curry, Blood Doctor Kelly, Wesus, J.V. Rosenbalm, Marc Bendig, Al",
+        "id": 2238381,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1fcX579HrrM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1fcX579HrrM/hqdefault.jpg",
+        "title": "How Ancient Glass Could Transport Life Between Planets",
+        "vote": 0
+    }
+]

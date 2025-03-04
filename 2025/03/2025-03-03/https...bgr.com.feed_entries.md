@@ -1,0 +1,146 @@
+# Source:BGR, URL:https://bgr.com/feed, language:en-US
+
+## T-Mobile parent company debuts AI phone powered by Perplexity
+ - [https://bgr.com/tech/t-mobile-parent-company-debuts-ai-phone-powered-by-perplexity](https://bgr.com/tech/t-mobile-parent-company-debuts-ai-phone-powered-by-perplexity)
+ - RSS feed: $source
+ - date published: 2025-03-03T22:18:00+00:00
+
+<p>Artificial intelligence is the emphasis of Mobile World Congress this year, and T-Mobile&#8217;s parent company is making an AI concept from last year&#8217;s show a &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/t-mobile-parent-company-debuts-ai-phone-powered-by-perplexity/">T-Mobile parent company debuts AI phone powered by Perplexity</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## 4 Netflix original shows coming back with new seasons this week
+ - [https://bgr.com/entertainment/4-netflix-original-shows-coming-back-with-new-seasons-this-week-2](https://bgr.com/entertainment/4-netflix-original-shows-coming-back-with-new-seasons-this-week-2)
+ - RSS feed: $source
+ - date published: 2025-03-03T21:21:00+00:00
+
+<p>No other streaming service releases as much original content as&#160;Netflix. In fact, it’s rare even a single week passes without one of Netflix’s original shows &#8230;</p>
+<p>The post <a href="https://bgr.com/entertainment/4-netflix-original-shows-coming-back-with-new-seasons-this-week-2/">4 Netflix original shows coming back with new seasons this week</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Apple iPhone 16e review: Win some, lose some
+ - [https://bgr.com/reviews/apple-iphone-16e-review](https://bgr.com/reviews/apple-iphone-16e-review)
+ - RSS feed: $source
+ - date published: 2025-03-03T20:24:00+00:00
+
+<p>The iPhone 16e is a bit of a strange release from Apple. The phone is a kind of spiritual successor to the third-generation iPhone SE, &#8230;</p>
+<p>The post <a href="https://bgr.com/reviews/apple-iphone-16e-review/">Apple iPhone 16e review: Win some, lose some</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## macOS Sequoia’s Spotlight search is broken, and Apple users are so mad
+ - [https://bgr.com/tech/macos-sequoias-spotlight-search-is-broken-and-apple-users-are-so-mad](https://bgr.com/tech/macos-sequoias-spotlight-search-is-broken-and-apple-users-are-so-mad)
+ - RSS feed: $source
+ - date published: 2025-03-03T19:27:00+00:00
+
+<p>I&#8217;m now part of the ever-growing number of macOS Sequoia users dealing with Spotlight search functionality that is completely broken. My issue started around macOS &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/macos-sequoias-spotlight-search-is-broken-and-apple-users-are-so-mad/">macOS Sequoia&#8217;s Spotlight search is broken, and Apple users are so mad</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Gemini Live video and screen sharing will roll out to Android this month
+ - [https://bgr.com/tech/gemini-live-video-and-screen-sharing-will-roll-out-to-android-this-month](https://bgr.com/tech/gemini-live-video-and-screen-sharing-will-roll-out-to-android-this-month)
+ - RSS feed: $source
+ - date published: 2025-03-03T18:30:31+00:00
+
+<p>Google is showcasing Gemini Live video and screen sharing at MWC 2025 this week, with plans to roll out the Project Astra-powered capabilities to Android &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/gemini-live-video-and-screen-sharing-will-roll-out-to-android-this-month/">Gemini Live video and screen sharing will roll out to Android this month</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## macOS 15.4 beta 2 brings all-new Mail app and more AI languages
+ - [https://bgr.com/tech/macos-15-4-beta-2-brings-all-new-mail-app-and-more-ai-languages](https://bgr.com/tech/macos-15-4-beta-2-brings-all-new-mail-app-and-more-ai-languages)
+ - RSS feed: $source
+ - date published: 2025-03-03T18:12:39+00:00
+
+<p>Apple follows macOS 15.4 beta testing with its second build for developers. This version brings Apple Intelligence improvements and is a bit more feature-packed than &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/macos-15-4-beta-2-brings-all-new-mail-app-and-more-ai-languages/">macOS 15.4 beta 2 brings all-new Mail app and more AI languages</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## visionOS 2.4 beta 2 now available with expanded Apple Intelligence features
+ - [https://bgr.com/tech/visionos-2-4-beta-2-now-available-with-expanded-apple-intelligence-features](https://bgr.com/tech/visionos-2-4-beta-2-now-available-with-expanded-apple-intelligence-features)
+ - RSS feed: $source
+ - date published: 2025-03-03T18:09:30+00:00
+
+<p>After a mild visionOS 2.3 update, Apple keeps beta testing visionOS 2.4 now with beta 2. Among the new features, this upcoming software update readies &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/visionos-2-4-beta-2-now-available-with-expanded-apple-intelligence-features/">visionOS 2.4 beta 2 now available with expanded Apple Intelligence features</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Apple seeds beta 2 of watchOS 11.4 and tvOS 18.4
+ - [https://bgr.com/tech/apple-seeds-beta-2-of-watchos-11-4-and-tvos-18-4](https://bgr.com/tech/apple-seeds-beta-2-of-watchos-11-4-and-tvos-18-4)
+ - RSS feed: $source
+ - date published: 2025-03-03T18:09:25+00:00
+
+<p>Apple is following the beta testing of its latest operating systems, including watchOS 11.4 and tvOS 18.4. At this moment, it&#8217;s unclear what new features &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/apple-seeds-beta-2-of-watchos-11-4-and-tvos-18-4/">Apple seeds beta 2 of watchOS 11.4 and tvOS 18.4</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## iPadOS 18.4 beta 2 now available with all-new Mail experience and more
+ - [https://bgr.com/tech/ipados-18-4-beta-2-now-available-with-all-new-mail-experience-and-more](https://bgr.com/tech/ipados-18-4-beta-2-now-available-with-all-new-mail-experience-and-more)
+ - RSS feed: $source
+ - date published: 2025-03-03T18:05:31+00:00
+
+<p>Apple follows the iPadOS 18.4 testing with beta 2. After a mild iPadOS 18.3 update, Cupertino has much more to unveil for the company&#8217;s tablets. &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/ipados-18-4-beta-2-now-available-with-all-new-mail-experience-and-more/">iPadOS 18.4 beta 2 now available with all-new Mail experience and more</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## iOS 18.4 beta 2 now available with these 8 new features
+ - [https://bgr.com/tech/ios-18-4-beta-2-now-available-with-these-8-new-features](https://bgr.com/tech/ios-18-4-beta-2-now-available-with-these-8-new-features)
+ - RSS feed: $source
+ - date published: 2025-03-03T18:05:26+00:00
+
+<p>With a release date expected for early April, Apple follows its iOS 18.4 beta testing with its second build. At this moment, it&#8217;s unclear what&#8217;s &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/ios-18-4-beta-2-now-available-with-these-8-new-features/">iOS 18.4 beta 2 now available with these 8 new features</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## A Texas town just grounded Amazon’s delivery drones
+ - [https://bgr.com/tech/a-texas-town-just-grounded-amazons-delivery-drones](https://bgr.com/tech/a-texas-town-just-grounded-amazons-delivery-drones)
+ - RSS feed: $source
+ - date published: 2025-03-03T17:33:17+00:00
+
+<p>Turns out not everyone was happy with Amazon’s attempts to launch delivery drones. In fact, College Station, a university town with roughly 125,000 residents, has &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/a-texas-town-just-grounded-amazons-delivery-drones/">A Texas town just grounded Amazon&#8217;s delivery drones</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Best Fire TV Stick deals for March 2025
+ - [https://bgr.com/deals/fire-tv-stick-deals](https://bgr.com/deals/fire-tv-stick-deals)
+ - RSS feed: $source
+ - date published: 2025-03-03T16:58:47+00:00
+
+<p>Amazon has so many products that fall under the &#8220;Amazon Devices&#8221; umbrella, but none are as popular among our readers as Fire TV Sticks. With &#8230;</p>
+<p>The post <a href="https://bgr.com/deals/fire-tv-stick-deals/">Best Fire TV Stick deals for March 2025</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Tim Cook teases M4 MacBook Air launch this week
+ - [https://bgr.com/tech/tim-cook-teases-m4-macbook-air-launch-this-week](https://bgr.com/tech/tim-cook-teases-m4-macbook-air-launch-this-week)
+ - RSS feed: $source
+ - date published: 2025-03-03T15:57:53+00:00
+
+<p>After Bloomberg&#8216;s Mark Gurman reported that Apple planned to launch the M4 MacBook Air this week, Apple&#8217;s CEO Tim Cook posted on X that &#8220;there&#8217;s &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/tim-cook-teases-m4-macbook-air-launch-this-week/">Tim Cook teases M4 MacBook Air launch this week</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## What to watch on Apple TV+ in March: 4 standout releases you don’t want to miss
+ - [https://bgr.com/entertainment/what-to-watch-on-apple-tv-in-march-4-standout-releases-you-dont-want-to-miss](https://bgr.com/entertainment/what-to-watch-on-apple-tv-in-march-4-standout-releases-you-dont-want-to-miss)
+ - RSS feed: $source
+ - date published: 2025-03-03T15:31:00+00:00
+
+<p>Apple TV+ is gearing up for a strong month of releases in March, with a lineup of original series and films that highlight the platform&#8217;s &#8230;</p>
+<p>The post <a href="https://bgr.com/entertainment/what-to-watch-on-apple-tv-in-march-4-standout-releases-you-dont-want-to-miss/">What to watch on Apple TV+ in March: 4 standout releases you don&#8217;t want to miss</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Apple’s M4 MacBook Air might be released this week
+ - [https://bgr.com/tech/apples-m4-macbook-air-might-be-released-this-week](https://bgr.com/tech/apples-m4-macbook-air-might-be-released-this-week)
+ - RSS feed: $source
+ - date published: 2025-03-03T14:26:44+00:00
+
+<p>Rumors about the imminent M4 MacBook Air launch have floated around the web since the beginning of the year. Bloomberg&#8217;s Mark Gurman has been the &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/apples-m4-macbook-air-might-be-released-this-week/">Apple&#8217;s M4 MacBook Air might be released this week</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Today’s deals: $117 AirPods 4, $10 off household cleaners, $190 ASUS Chromebook, 20% off Pi8 earbuds, more
+ - [https://bgr.com/deals/todays-deals-117-airpods-4-10-off-household-cleaners-190-asus-chromebook-20-off-pi8-earbuds-more](https://bgr.com/deals/todays-deals-117-airpods-4-10-off-household-cleaners-190-asus-chromebook-20-off-pi8-earbuds-more)
+ - RSS feed: $source
+ - date published: 2025-03-03T13:53:00+00:00
+
+<p>New month, new deals! We found a bunch of great new sales this morning, like an extra couple of bucks off Apple&#8217;s top-selling AirPods 4 &#8230;</p>
+<p>The post <a href="https://bgr.com/deals/todays-deals-117-airpods-4-10-off-household-cleaners-190-asus-chromebook-20-off-pi8-earbuds-more/">Today&#8217;s deals: $117 AirPods 4, $10 off household cleaners, $190 ASUS Chromebook, 20% off Pi8 earbuds, more</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Opera announces major browser update with  built-in AI agents at MWC 2025
+ - [https://bgr.com/tech/opera-announces-major-browser-update-with-built-in-ai-agents-at-mwc-2025](https://bgr.com/tech/opera-announces-major-browser-update-with-built-in-ai-agents-at-mwc-2025)
+ - RSS feed: $source
+ - date published: 2025-03-03T13:00:00+00:00
+
+<p>To kick off MWC 2025, the Norwegian browser company Opera announced a huge update complete with Browser Operator AI agents. Similar to what Google and &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/opera-announces-major-browser-update-with-built-in-ai-agents-at-mwc-2025/">Opera announces major browser update with  built-in AI agents at MWC 2025</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+
+## Apple Intelligence breakthrough features won’t come before 2027, and I think Apple truly lost the AI race
+ - [https://bgr.com/tech/apple-intelligence-breakthrough-features-wont-come-before-2027-and-i-think-apple-truly-lost-the-ai-race](https://bgr.com/tech/apple-intelligence-breakthrough-features-wont-come-before-2027-and-i-think-apple-truly-lost-the-ai-race)
+ - RSS feed: $source
+ - date published: 2025-03-03T11:51:27+00:00
+
+<p>Almost six months after its beta release, Apple Intelligence is still struggling with major delays. With its first major feature expected for early next month &#8230;</p>
+<p>The post <a href="https://bgr.com/tech/apple-intelligence-breakthrough-features-wont-come-before-2027-and-i-think-apple-truly-lost-the-ai-race/">Apple Intelligence breakthrough features won&#8217;t come before 2027, and I think Apple truly lost the AI race</a> appeared first on <a href="https://bgr.com">BGR</a>.</p>
+

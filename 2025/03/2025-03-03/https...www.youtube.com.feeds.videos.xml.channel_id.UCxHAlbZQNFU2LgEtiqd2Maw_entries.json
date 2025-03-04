@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "C++ Weekly With Jason Turner",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-03T16:29:57+00:00",
+        "description": "\u261f\u261f Awesome T-Shirts! Sponsors! Books! \u261f\u261f\n\nUpcoming Workshops:\n\u25ba C++ Best Practices Workshop, ACCU, Bristol UK, Mar 31, 2025: https://accuconference.org/\n\nA robust cross-platform IDE for C and C++, CLion makes your development experience smoother and more productive! The latest version of CLion introduces deep integration with the ReSharper C++/Rider C++ language engine, performance improvements for the debugger, new features for embedded development, enhancements for project models and build tools, and much more! Check out all of the details and give it a try today!\n\nhttps://jb.gg/clion_ide   code: CppWeeklyCLion\n\nEpisode details: https://github.com/lefticus/cpp_weekly/issues/434\n\nT-SHIRTS AVAILABLE!\n\n\u25ba The best C++ T-Shirts anywhere! https://my-store-d16a2f.creator-spring.com/\n\n\nWANT MORE JASON?\n\n\u25ba My Training Classes: http://emptycrate.com/training.html\n\u25ba Follow me on twitter: https://twitter.com/lefticus\n\n\nSUPPORT THE CHANNEL\n\n\u25ba Patreon: https://www.patreon.com/lefticus \n\u25ba Github ",
+        "id": 2237638,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=k1I4ZoB50_I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 48,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxHAlbZQNFU2LgEtiqd2Maw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/k1I4ZoB50_I/hqdefault.jpg",
+        "title": "C++ Weekly - Ep 470 - requires Clause vs requires Expression?",
+        "vote": 0
+    }
+]

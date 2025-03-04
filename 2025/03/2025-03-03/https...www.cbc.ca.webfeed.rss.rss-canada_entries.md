@@ -1,0 +1,51 @@
+# Source:CBC | Canada News, URL:https://www.cbc.ca/webfeed/rss/rss-canada, language:en
+
+## Canada's oldest Second World War veteran dies just shy of 110th birthday
+ - [https://www.cbc.ca/news/canada/british-columbia/second-world-war-veteran-canada-albert-middleton-108th-birthday-1.7473289?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/second-world-war-veteran-canada-albert-middleton-108th-birthday-1.7473289?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-03-03T13:57:56+00:00
+
+<img src='https://i.cbc.ca/1.6775759.1678493773!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/albert-middleton-108.jpg' alt='WWII veteran Albert Middleton celebrates his 108th birthday.' width='620' height='349' title='WWII veteran Albert Middleton turns 108 on March 11, 2023.  '/><p>Albert Middleton, the man believed to be Canada's oldest living Second World War veteran, has died just shy of 110 years old. 'He didn't take no guff from anybody,' his son says.</p>
+
+## Liberals open leadership race to replace Andrew Furey on May 3
+ - [https://www.cbc.ca/news/canada/newfoundland-labrador/nl-liberal-party-convention-may-3-1.7472907?cmp=rss](https://www.cbc.ca/news/canada/newfoundland-labrador/nl-liberal-party-convention-may-3-1.7472907?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-03-03T09:42:30+00:00
+
+<img src='https://i.cbc.ca/1.7448302.1738447385!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/nl-que-churchill-falls-20250107.JPG' alt='Andrew Furey takes questions' width='620' height='349' title='Premier Andrew Furey takes questions from the media in the foyer of the House of Assembly in St.John&apos;s on Tuesday, January 7, 2025.'/><p>The race to replace outgoing Newfoundland and Labrador Premier Andrew Furey has begun. Liberal leadership nominations are due by March 24, with a convention that will elect the province's new premier on May 3.</p>
+
+## 4.5-magnitude earthquake strikes near Sidney, B.C.
+ - [https://www.cbc.ca/news/canada/british-columbia/sidney-earthquake-1.7472941?cmp=rss](https://www.cbc.ca/news/canada/british-columbia/sidney-earthquake-1.7472941?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-03-03T09:15:12+00:00
+
+<img src='https://i.cbc.ca/1.7472945.1741010367!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/earthquake.jpg' alt='A map shows a spot marked near the southern gulf islands. ' width='620' height='349' title='The earthquake hit near Orcas Island in Washington, located near B.C.&apos;s southern gulf islands. '/><p>A 4.5-magnitude earthquake struck 42 km east of Sidney, B.C., Monday morning. </p>
+
+## Manitoba's pleas for Amazon, Walmart to clamp down on online machete sales ignored
+ - [https://www.cbc.ca/news/canada/manitoba/machete-sales-online-rules-amazon-walmart-1.7471712?cmp=rss](https://www.cbc.ca/news/canada/manitoba/machete-sales-online-rules-amazon-walmart-1.7471712?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-03-03T06:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7420788.1735652197!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/machete-stock-image.jpg' alt='A long-bladed weapon lays on a brown wooden background.' width='620' height='349' title=''/><p>Amazon and Walmart Canada haven't responded to two separate letters from the provincial government, which ask it to "comply with the intent" of provincial legislation when selling machetes and other long-blade weapons online, the government confirmed.</p>
+
+## Municipalities call for changes to 'tremendously concerning' N.S. transportation bill
+ - [https://www.cbc.ca/news/canada/nova-scotia/municipalities-call-for-changes-concerning-nova-scotia-transportation-bill-1.7471874?cmp=rss](https://www.cbc.ca/news/canada/nova-scotia/municipalities-call-for-changes-concerning-nova-scotia-transportation-bill-1.7471874?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-03-03T05:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7422019.1735853590!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/nova-scotia-income-assistance-consumer-price-index.jpg' alt='group of people sitting' width='620' height='349' title='The Nova Scotia government says it is supporting those struggling with the cost of living by indexing income assistance to inflation on an annual basis. Visitors attend a session of the Nova Scotia legislature at Province House in Halifax on Thursday, March 24, 2022.'/><p>The advocacy group for Nova Scotia municipalities has asked for changes to a bill that would allow the province to charge towns and regions for new transportation infrastructure, a power that is "tremendously concerning" to their members.</p>
+
+## Veteran Miramichi Conservative says MP Jake Stewart can't win
+ - [https://www.cbc.ca/news/canada/new-brunswick/jake-stewart-faces-criticisms-1.7471570?cmp=rss](https://www.cbc.ca/news/canada/new-brunswick/jake-stewart-faces-criticisms-1.7471570?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-03-03T05:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7471571.1740764592!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mike-morrison.jpg' alt='An old man poses for a photo' width='620' height='349' title='Mike Morrison, a longtime Conservative organizer in Miramichi and past candidate, said he doesn&apos;t think MP Jake Stewart could win in a possibly upcoming election due to turmoil in his office. '/><p>Mike Morrison says he has contacted the office of Conservative Leader Pierre Poilievre to advise them of what’s happening but has had no response.</p>
+
+## 19 people now live at Hamilton's new outdoor shelter, with all 80 spots to be filled this month
+ - [https://www.cbc.ca/news/canada/hamilton/outdoor-shelter-tour-1.7472677?cmp=rss](https://www.cbc.ca/news/canada/hamilton/outdoor-shelter-tour-1.7472677?cmp=rss)
+ - RSS feed: $source
+ - date published: 2025-03-03T04:00:00+00:00
+
+<img src='https://i.cbc.ca/1.7472680.1740944006!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/aarone-deanes.jpeg' alt='A portrait of a person in a windbreaker standing outside by a row of tiny cabins. ' width='620' height='349' title='Aaron Deanes works for Good Shepherd and directs the outdoor shelter.'/><p>City officials offered a tour of Hamilton's new outdoor shelter site, which currently has 19 residents.</p>
+

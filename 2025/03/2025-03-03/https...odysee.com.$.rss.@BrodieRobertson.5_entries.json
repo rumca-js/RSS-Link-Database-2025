@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-03T20:00:31+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/ZHid8Ow4KHg\" width=\"480\" alt=\"thumbnail\" title=\"Wayland's HDR Protocol Has Arrived!!\" /></p>HDR on Linux has always been a desire but it's always been a matter of how and when and that answer may be a lot sooner than you think now.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Wayland Protocol: https://gitlab.freedesktop.org/wayland/wayland-protocols/-/merge_requests/14<br />Original Email: https://lists.freedesktop.org/archives/wayland-devel/2019-January/039808.html<br />Weston Issue: https://gitlab.freedesktop.org/wayland/weston/-/issues/348<br />Next Tracking Issue: https://gitlab.freedesktop.org/wayland/weston/-/issues/467<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Ody",
+        "id": 2239319,
+        "language": "en",
+        "link": "https://odysee.com/wayland%27s-hdr-protocol-has-arrived!!:d430a57ad17768dc994210d3c7114bb23f097155",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wayland's HDR Protocol Has Arrived!!",
+        "vote": 0
+    }
+]

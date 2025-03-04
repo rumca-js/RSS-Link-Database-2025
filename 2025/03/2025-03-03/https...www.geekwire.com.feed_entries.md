@@ -1,0 +1,37 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed, language:en-US
+
+## The two questions that Kara Swisher would ask Jeff Bezos about The Washington Post
+ - [https://www.geekwire.com/2025/the-two-questions-that-kara-swisher-would-ask-jeff-bezos-about-the-washington-post](https://www.geekwire.com/2025/the-two-questions-that-kara-swisher-would-ask-jeff-bezos-about-the-washington-post)
+ - RSS feed: $source
+ - date published: 2025-03-03T19:05:15+00:00
+
+<img width="1260" height="840" src="https://cdn.geekwire.com/wp-content/uploads/2018/04/IMG_5678-1260x840.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2018/04/IMG_5678-1260x840.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2018/04/IMG_5678-768x512.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2018/04/IMG_5678-630x420.jpg 630w" sizes="(max-width: 1260px) 100vw, 1260px"><br>&#8220;Why do you want to own this paper anymore? And do you love it as much as I do?&#8221; That&#8217;s what journalist and entrepreneur Kara Swisher would ask Amazon founder Jeff Bezos about the newspaper he owns, The Washington Post, she explains at the conclusion of a new episode of her podcast, &#8220;On with Kara Swisher.&#8221; The episode features Swisher and guests discussing the paper&#8217;s storied history, questioning Bezos&#8217; motives as its owner, and contemplating what it would t
+
+## Newly launched Seattle cancer therapy startup Callio Therapeutics raises $187M
+ - [https://www.geekwire.com/2025/newly-launched-seattle-cancer-therapy-startup-callio-therapeutics-raises-187m](https://www.geekwire.com/2025/newly-launched-seattle-cancer-therapy-startup-callio-therapeutics-raises-187m)
+ - RSS feed: $source
+ - date published: 2025-03-03T18:58:29+00:00
+
+<img width="500" height="500" src="https://cdn.geekwire.com/wp-content/uploads/2025/03/Piers-Ingram.png" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" srcset="https://cdn.geekwire.com/wp-content/uploads/2025/03/Piers-Ingram.png 500w, https://cdn.geekwire.com/wp-content/uploads/2025/03/Piers-Ingram-300x300.png 300w, https://cdn.geekwire.com/wp-content/uploads/2025/03/Piers-Ingram-150x150.png 150w, https://cdn.geekwire.com/wp-content/uploads/2025/03/Piers-Ingram-100x100.png 100w, https://cdn.geekwire.com/wp-content/uploads/2025/03/Piers-Ingram-200x200.png 200w" sizes="(max-width: 500px) 100vw, 500px"><br>Biotech-focused investment firm Frazier Life Sciences launched Callio Therapeutics, a cancer treatment startup with headquarters in Seattle and Singapore. Frazier led a $187 million Series A round, announced Monday, to get the company started. Callio has an exclusive license to work on cancer treatments that use multi-payload antibody-drug conjugates (ADC) develo
+
+## Oscars host Conan O’Brien delivers jokes about Amazon and Jeff Bezos
+ - [https://www.geekwire.com/2025/oscars-host-conan-obrien-delivers-jokes-about-amazon-and-jeff-bezos](https://www.geekwire.com/2025/oscars-host-conan-obrien-delivers-jokes-about-amazon-and-jeff-bezos)
+ - RSS feed: $source
+ - date published: 2025-03-03T16:26:25+00:00
+
+<img width="857" height="610" src="https://cdn.geekwire.com/wp-content/uploads/2025/03/oscarsbiox.png" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2025/03/oscarsbiox.png 857w, https://cdn.geekwire.com/wp-content/uploads/2025/03/oscarsbiox-768x547.png 768w, https://cdn.geekwire.com/wp-content/uploads/2025/03/oscarsbiox-630x448.png 630w" sizes="(max-width: 857px) 100vw, 857px"><br>Academy Awards host Conan O&#8217;Brien took a couple shots at Amazon and founder Jeff Bezos during the opening monologue of Sunday night&#8217;s ceremony. O&#8217;Brien, the late-night TV vet and first-time Oscars host, discussed the recent news that Amazon MGM Studios has taken over creative control of the James Bond film franchise. &#8220;They just announced the next James Bond,&#8221; O&#8217;Brien said, preparing to reveal what would have been a major scoop on Hollywood&#8217;s biggest night. Instead, O&#821
+
+## OCOchem prepares to flip the switch on tech for turning captured CO2 into industrial chemicals
+ - [https://www.geekwire.com/2025/ocochem-prepares-to-flip-the-switch-on-tech-for-turning-captured-co2-into-industrial-chemicals](https://www.geekwire.com/2025/ocochem-prepares-to-flip-the-switch-on-tech-for-turning-captured-co2-into-industrial-chemicals)
+ - RSS feed: $source
+ - date published: 2025-03-03T16:00:14+00:00
+
+<img width="960" height="960" src="https://cdn.geekwire.com/wp-content/uploads/2025/02/OCOchem-team-sq.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://cdn.geekwire.com/wp-content/uploads/2025/02/OCOchem-team-sq.jpg 960w, https://cdn.geekwire.com/wp-content/uploads/2025/02/OCOchem-team-sq-150x150.jpg 150w, https://cdn.geekwire.com/wp-content/uploads/2025/02/OCOchem-team-sq-768x768.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2025/02/OCOchem-team-sq-100x100.jpg 100w, https://cdn.geekwire.com/wp-content/uploads/2025/02/OCOchem-team-sq-630x630.jpg 630w" sizes="auto, (max-width: 960px) 100vw, 960px"><br>OCOchem, a startup turning captured carbon dioxide into a valuable industrial chemical, is completing construction of its pilot plant in Eastern Washington. Once the 40,000-square-foot facility is commissioned in the coming months, OCOchem will start using its electrolyzer cells to turn CO2 into formic acid and other formate
+
+## Washington lawmakers pursue rules aiming to protect kids from social media’s potential harm
+ - [https://www.geekwire.com/2025/washington-lawmakers-pursue-rules-aiming-to-protect-kids-from-social-medias-potential-harm](https://www.geekwire.com/2025/washington-lawmakers-pursue-rules-aiming-to-protect-kids-from-social-medias-potential-harm)
+ - RSS feed: $source
+ - date published: 2025-03-03T15:50:23+00:00
+
+<img width="900" height="498" src="https://cdn.geekwire.com/wp-content/uploads/2024/06/smartphones.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/06/smartphones.jpg 900w, https://cdn.geekwire.com/wp-content/uploads/2024/06/smartphones-768x425.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2024/06/smartphones-630x349.jpg 630w" sizes="auto, (max-width: 900px) 100vw, 900px"><br>Washington state lawmakers are moving ahead on legislation that aims to protect kids from the addictive impacts of social media apps. Legislative committees in both the House and Senate on Friday passed their respective bills, teeing them up for votes by the full chambers. Supporters point to evidence that social media use by teens is linked to depression, anxiety, harmful body images and suicidal thoughts. &#8220;We have a lot of kids who are really struggling and we need to do something,&#8221; Stephan Blan
+
