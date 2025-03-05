@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-04T18:00:46+00:00",
+        "description": "I actually had to check and confirm the 97th Academy Awards even happened this weekend, such was the complete lack of interest in Hollywood's annual back-slapping contest. Let's take a look at one of the least viewed and least interesting Oscars events ever.",
+        "id": 2244651,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=v6i7nTINIGA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v6i7nTINIGA/hqdefault.jpg",
+        "title": "So The Oscars Happened, I Guess...",
+        "vote": 0
+    }
+]

@@ -1,0 +1,51 @@
+# Source:The RISC-V Instruction Set Architecture, URL:https://www.reddit.com/r/RISCV/.rss, language:en
+
+## How come RVV is so messy?
+ - [https://www.reddit.com/r/RISCV/comments/1j3i3bc/how_come_rvv_is_so_messy](https://www.reddit.com/r/RISCV/comments/1j3i3bc/how_come_rvv_is_so_messy)
+ - RSS feed: $source
+ - date published: 2025-03-04T18:43:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>The base RISC-V ISA comprises only 47 instructions. RVV specifies over 400 instructions spread over six (or more?) numerical types. It&#39;s not &quot;reduced&quot; in any sense. Compilers generating RVV code will most likely never use more than a small fraction of all available instructions.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bjourne-ml"> /u/bjourne-ml </a> <br/> <span><a href="https://www.reddit.com/r/RISCV/comments/1j3i3bc/how_come_rvv_is_so_messy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1j3i3bc/how_come_rvv_is_so_messy/">[comments]</a></span>
+
+## What graphics processor is included with current RISC-V processors?
+ - [https://www.reddit.com/r/RISCV/comments/1j3ejg0/what_graphics_processor_is_included_with_current](https://www.reddit.com/r/RISCV/comments/1j3ejg0/what_graphics_processor_is_included_with_current)
+ - RSS feed: $source
+ - date published: 2025-03-04T16:20:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>The specifications for the OrangePi RV just say the CPU is a Star5 JH-7110 and the GPU is just labelled &quot;RISC-V architecture.&quot;</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/aegrotatio"> /u/aegrotatio </a> <br/> <span><a href="https://www.reddit.com/r/RISCV/comments/1j3ejg0/what_graphics_processor_is_included_with_current/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1j3ejg0/what_graphics_processor_is_included_with_current/">[comments]</a></span>
+
+## Beyond Innovation: RISC-V’s Path to Mass Adoption with Mature IP by Wei-Han Lien | Tenstorrent (USA)
+ - [https://www.reddit.com/r/RISCV/comments/1j3e5wx/beyond_innovation_riscvs_path_to_mass_adoption](https://www.reddit.com/r/RISCV/comments/1j3e5wx/beyond_innovation_riscvs_path_to_mass_adoption)
+ - RSS feed: $source
+ - date published: 2025-03-04T16:05:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RISCV/comments/1j3e5wx/beyond_innovation_riscvs_path_to_mass_adoption/"> <img src="https://external-preview.redd.it/ZUGqf5FoJBS_a6zI3uUqdUbLfi_9SiCB8ygdDYwvkHc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5a7d6ee5d57a58a2a5988b60f862f7057834bf3a" alt="Beyond Innovation: RISC-V’s Path to Mass Adoption with Mature IP by Wei-Han Lien | Tenstorrent (USA)" title="Beyond Innovation: RISC-V’s Path to Mass Adoption with Mature IP by Wei-Han Lien | Tenstorrent (USA)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/camel-cdr-"> /u/camel-cdr- </a> <br/> <span><a href="https://youtu.be/ttQtC1dQqwo">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1j3e5wx/beyond_innovation_riscvs_path_to_mass_adoption/">[comments]</a></span> </td></tr></table>
+
+## RISC-V Ibex Core by lowRISC
+ - [https://www.reddit.com/r/RISCV/comments/1j3a1ky/riscv_ibex_core_by_lowrisc](https://www.reddit.com/r/RISCV/comments/1j3a1ky/riscv_ibex_core_by_lowrisc)
+ - RSS feed: $source
+ - date published: 2025-03-04T12:50:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>Has anyone experimented with this implementation of RISCV?<br/> I am working on a project that first requires simulating this in Vivado and then obtain some tangible results using Zedboard. I am facing lots of roadblocks and would like to have a discussion with someone experienced. Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iam-notorious"> /u/iam-notorious </a> <br/> <span><a href="https://www.reddit.com/r/RISCV/comments/1j3a1ky/riscv_ibex_core_by_lowrisc/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1j3a1ky/riscv_ibex_core_by_lowrisc/">[comments]</a></span>
+
+## How The Ubuntu Linux Performance Has Evolved For SiFive RISC-V Over The Last Four Years
+ - [https://www.reddit.com/r/RISCV/comments/1j38hcq/how_the_ubuntu_linux_performance_has_evolved_for](https://www.reddit.com/r/RISCV/comments/1j38hcq/how_the_ubuntu_linux_performance_has_evolved_for)
+ - RSS feed: $source
+ - date published: 2025-03-04T11:14:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RISCV/comments/1j38hcq/how_the_ubuntu_linux_performance_has_evolved_for/"> <img src="https://external-preview.redd.it/2pjBCPjuUeuywcl6bIPCDtq7WcP-BKRnKj7kGXugqN8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=208b5872d9e6400e4dab1626e0a4f94f9350c41d" alt="How The Ubuntu Linux Performance Has Evolved For SiFive RISC-V Over The Last Four Years" title="How The Ubuntu Linux Performance Has Evolved For SiFive RISC-V Over The Last Four Years" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/archanox"> /u/archanox </a> <br/> <span><a href="https://www.phoronix.com/review/ubuntu-riscv-4years">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1j38hcq/how_the_ubuntu_linux_performance_has_evolved_for/">[comments]</a></span> </td></tr></table>
+
+## China to publish policy to boost RISC-V chip use nationwide
+ - [https://www.reddit.com/r/RISCV/comments/1j37jdh/china_to_publish_policy_to_boost_riscv_chip_use](https://www.reddit.com/r/RISCV/comments/1j37jdh/china_to_publish_policy_to_boost_riscv_chip_use)
+ - RSS feed: $source
+ - date published: 2025-03-04T10:07:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RISCV/comments/1j37jdh/china_to_publish_policy_to_boost_riscv_chip_use/"> <img src="https://external-preview.redd.it/nBdX8YOzUTDg4N9FotxDDyPOM1kCr8NoWMlJUZNOiq0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87cd057f176160aa979971763b5692b81aaff1e9" alt="China to publish policy to boost RISC-V chip use nationwide" title="China to publish policy to boost RISC-V chip use nationwide" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/fullgrid"> /u/fullgrid </a> <br/> <span><a href="https://www.reuters.com/technology/china-publish-policy-boost-risc-v-chip-use-nationwide-sources-2025-03-04/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1j37jdh/china_to_publish_policy_to_boost_riscv_chip_use/">[comments]</a></span> </td></tr></table>
+
+## Exam prep!! question
+ - [https://www.reddit.com/r/RISCV/comments/1j2xjxw/exam_prep_question](https://www.reddit.com/r/RISCV/comments/1j2xjxw/exam_prep_question)
+ - RSS feed: $source
+ - date published: 2025-03-04T00:06:49+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi i&#39;m preparing midterm exam. </p> <p>Question: Get odd bits of register a0, using t0 as a mask.<br/> li t0 0x55555555</p> <p>andi a0, a0, t0</p> <p>My question is why it&#39;s 0x55555555 not 0xAAAAAAAA?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kimsydr1"> /u/kimsydr1 </a> <br/> <span><a href="https://www.reddit.com/r/RISCV/comments/1j2xjxw/exam_prep_question/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RISCV/comments/1j2xjxw/exam_prep_question/">[comments]</a></span>
+

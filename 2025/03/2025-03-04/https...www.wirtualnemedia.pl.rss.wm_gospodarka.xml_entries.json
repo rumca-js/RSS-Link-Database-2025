@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-04T16:19:45+00:00",
+        "description": "Koncern logistyczny InPost zrefinansowa\u0142 swoje zad\u0142u\u017cenie, zwi\u0119kszaj\u0105c je z 2,75 do 4,2 mld z\u0142. Firma chce mie\u0107 wi\u0119ksz\u0105 pul\u0119 na cele inwestycyjne.",
+        "id": 2240436,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/inpost-kredyty-zadluzenie-na-inwestycje",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "InPost mocniej si\u0119 zad\u0142u\u017ca. Jakie odsetki b\u0119dzie p\u0142aci\u0142?",
+        "vote": 0
+    }
+]

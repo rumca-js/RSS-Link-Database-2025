@@ -1,0 +1,16 @@
+# Source:Hackers, URL:https://www.reddit.com/r/hackers/.rss, language:en
+
+## Is there any way (using cutting-edge technology for example) to retrieve the content of audio calls on WhatsApp?
+ - [https://www.reddit.com/r/hackers/comments/1j3gzzu/is_there_any_way_using_cuttingedge_technology_for](https://www.reddit.com/r/hackers/comments/1j3gzzu/is_there_any_way_using_cuttingedge_technology_for)
+ - RSS feed: $source
+ - date published: 2025-03-04T17:59:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>My situation is delicate: I am going through a situation where a person lies and manipulates people so that they are in their favor and see me as a liar.</p> <p>I have proof of one of her lies both in an audio (which is very vague, not representing much) and in a phone call (this one has a lot of details, the person clearly says that the person didn&#39;t do something she said he did, etc.). However, I did not record this conversation at the time.</p> <p>Now, she managed to manipulate this person and induced him to lie, saying that he did do that thing, and all I have going for me is the vague audio that says almost nothing.</p> <p>I&#39;m in despair, it&#39;s horrible to be seen as a liar when I&#39;m not. I want to prove my innocence.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bewno_"> /u/bewno_ </a> <br/> <span><a href="https://www.reddit.com/r/hackers/comments/1j3gzzu/is_there_any_way_using_cuttingedge_
+
+## Help! My LinkedIn has been successfully hacked
+ - [https://www.reddit.com/r/hackers/comments/1j370nn/help_my_linkedin_has_been_successfully_hacked](https://www.reddit.com/r/hackers/comments/1j370nn/help_my_linkedin_has_been_successfully_hacked)
+ - RSS feed: $source
+ - date published: 2025-03-04T09:28:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>Help! I tried everything! I even used the persona app to have my own identity confirmed by LinkedIn. Yesterday a bot or someone with a VPN successfully stole my account and changed the name of it and so on.</p> <p>I can&#39;t get ahold of LinkedIn which is literally favoring the hacker and ignoring my reports. I did everything by the book and all the things recommended, nothing happened.</p> <p>Can you help me out please? 😬😬😬</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gaeea"> /u/Gaeea </a> <br/> <span><a href="https://www.reddit.com/r/hackers/comments/1j370nn/help_my_linkedin_has_been_successfully_hacked/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/hackers/comments/1j370nn/help_my_linkedin_has_been_successfully_hacked/">[comments]</a></span>
+

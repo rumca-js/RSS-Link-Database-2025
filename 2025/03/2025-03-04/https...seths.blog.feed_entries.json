@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-04T10:03:00+00:00",
+        "description": "Media theory pioneer Harold Innis saw it 70 years ago: Some cultures and ideas are built to spread across SPACE. And some spread across TIME. It&#8217;s the tension between space and time that lead to the rise and fall of societies and cultures, and they&#8217;re worth understanding. Clay tablets, household traditions and local governments persist [&#8230;]",
+        "id": 2240899,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/03/across-and-within",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Across and within",
+        "vote": 0
+    }
+]

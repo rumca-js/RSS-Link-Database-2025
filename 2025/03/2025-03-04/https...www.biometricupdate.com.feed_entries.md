@@ -1,0 +1,80 @@
+# Source:Biometric Update, URL:https://www.biometricupdate.com/feed, language:en-US
+
+## Fiji: national digital ID plan advances, ecommerce strategy launches
+ - [https://www.biometricupdate.com/202503/fiji-national-digital-id-plan-advances-ecommerce-strategy-launches](https://www.biometricupdate.com/202503/fiji-national-digital-id-plan-advances-ecommerce-strategy-launches)
+ - RSS feed: $source
+ - date published: 2025-03-04T21:22:28+00:00
+
+<img width="940" height="627" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/17150652/smartphone-biometric-identity-and-document-verification.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="smartphone biometric identity and document verification" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/17150652/smartphone-biometric-identity-and-document-verification.jpg 940w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/17150652/smartphone-biometric-identity-and-document-verification-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/17150652/smartphone-biometric-identity-and-document-verification-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/17150652/smartphone-biometric-identity-and-document-verification-768x512.jpg 768w" sizes="(max-width: 940px) 100vw, 940px" />
+		Fiji’s upcoming nationa
+
+## ETRI researchers develop data sovereignty, ZKP tech to restore individual control
+ - [https://www.biometricupdate.com/202503/etri-researchers-develop-data-sovereignty-zkp-tech-to-restore-individual-control](https://www.biometricupdate.com/202503/etri-researchers-develop-data-sovereignty-zkp-tech-to-restore-individual-control)
+ - RSS feed: $source
+ - date published: 2025-03-04T20:16:03+00:00
+
+<img width="2048" height="848" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/15175306/data-privacy-2-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/15175306/data-privacy-2-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/15175306/data-privacy-2-300x124.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/15175306/data-privacy-2-1024x424.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/15175306/data-privacy-2-150x62.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/15175306/data-privacy-2-768x318.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/09/15175306/data-privacy-2-1536x636.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
+		Korean researchers at the <a href="https://etri.
+
+## UR Encoder launch by FaceTec introduces new option for biometric ID issuers
+ - [https://www.biometricupdate.com/202503/ur-encoder-launch-by-facetec-introduces-new-option-for-biometric-id-issuers](https://www.biometricupdate.com/202503/ur-encoder-launch-by-facetec-introduces-new-option-for-biometric-id-issuers)
+ - RSS feed: $source
+ - date published: 2025-03-04T19:22:41+00:00
+
+<img width="1544" height="595" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/04141942/how-are-factec-ur-codes-generated.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/04141942/how-are-factec-ur-codes-generated.png 1544w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/04141942/how-are-factec-ur-codes-generated-300x116.png 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/04141942/how-are-factec-ur-codes-generated-1024x395.png 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/04141942/how-are-factec-ur-codes-generated-150x58.png 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/04141942/how-are-factec-ur-codes-generated-768x296.png 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/04141942/how-are-factec-ur-codes-genera
+
+## Moldova joins second round of EUDI pilot project
+ - [https://www.biometricupdate.com/202503/moldova-joins-second-round-of-eudi-pilot-project](https://www.biometricupdate.com/202503/moldova-joins-second-round-of-eudi-pilot-project)
+ - RSS feed: $source
+ - date published: 2025-03-04T18:29:01+00:00
+
+<img width="2048" height="1152" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-300x169.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-1024x576.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-150x84.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-768x432.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/02/11133212/eudi-wallet-1536x864.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
+		Moldova will participate in the second round of a pilot for the EU D
+
+## Identity data sharing underpins Tony Blair plan to save $16B with data synchronization
+ - [https://www.biometricupdate.com/202503/identity-data-sharing-underpins-tony-blair-plan-to-save-16b-with-data-synchronization](https://www.biometricupdate.com/202503/identity-data-sharing-underpins-tony-blair-plan-to-save-16b-with-data-synchronization)
+ - RSS feed: $source
+ - date published: 2025-03-04T18:22:22+00:00
+
+<img width="2048" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/05/25011235/uk-digital-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/05/25011235/uk-digital-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/05/25011235/uk-digital-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/05/25011235/uk-digital-1024x683.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/05/25011235/uk-digital-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/05/25011235/uk-digital-768x512.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/05/25011235/uk-digital-1536x1024.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
+		The UK could see returns of up to £13 billion (US$16.4 billion) per year from linking data fro
+
+## Fingerprint Cards: quarterlies, annuals, regulatory actions
+ - [https://www.biometricupdate.com/202503/fingerprint-cards-quarterlies-annuals-regulatory-actions](https://www.biometricupdate.com/202503/fingerprint-cards-quarterlies-annuals-regulatory-actions)
+ - RSS feed: $source
+ - date published: 2025-03-04T18:20:52+00:00
+
+<img width="890" height="501" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/09172121/stock-market.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="stock-market" decoding="async" loading="lazy" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/09172121/stock-market.jpg 890w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/09172121/stock-market-150x84.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/09172121/stock-market-300x169.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/03/09172121/stock-market-768x432.jpg 768w" sizes="auto, (max-width: 890px) 100vw, 890px" />
+		<em>March 4, 2025 -</em> Revenues for Fingerprint Cards in fiscal 2024 tumbled to 403.2 million Swedish kronor (approximately US$38.5 million) from SEK 705.4 million ($67.3 million) a year ago, as the company carries out a transformation that moves its focus from lower-margin biome
+
+## Select ID adds BankID Norway to advisory committee
+ - [https://www.biometricupdate.com/202503/select-id-adds-bankid-norway-to-advisory-committee](https://www.biometricupdate.com/202503/select-id-adds-bankid-norway-to-advisory-committee)
+ - RSS feed: $source
+ - date published: 2025-03-04T18:18:24+00:00
+
+<img width="1080" height="511" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="advisory-board-artificial-intelligence-leadership" decoding="async" loading="lazy" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership.jpg 1080w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership-150x71.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership-300x142.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intelligence-leadership-768x363.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/09/23155952/advisory-board-artificial-intellige
+
+## Aerendir’s new mobile phone puts biometric authentication in users hands
+ - [https://www.biometricupdate.com/202503/biometric-authentication-through-neurotechnology-powers-aerendirs-new-mobile-phone](https://www.biometricupdate.com/202503/biometric-authentication-through-neurotechnology-powers-aerendirs-new-mobile-phone)
+ - RSS feed: $source
+ - date published: 2025-03-04T18:17:00+00:00
+
+<img width="2048" height="1365" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/04131057/smartphone-in-hand-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/04131057/smartphone-in-hand-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/04131057/smartphone-in-hand-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/04131057/smartphone-in-hand-1024x683.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/04131057/smartphone-in-hand-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/04131057/smartphone-in-hand-768x512.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/03/04131057/smartphone-in-hand-1536x1024.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
+		A new mobile device from <a href="http
+
+## Paravision scores leading combined error rate in DHS S&T’s liveness detection demo
+ - [https://www.biometricupdate.com/202503/paravision-scores-leading-combined-error-rate-in-dhs-sts-liveness-detection-demo](https://www.biometricupdate.com/202503/paravision-scores-leading-combined-error-rate-in-dhs-sts-liveness-detection-demo)
+ - RSS feed: $source
+ - date published: 2025-03-04T16:24:17+00:00
+
+<img width="2048" height="1366" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/19151246/video-kyc-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/19151246/video-kyc-scaled.jpg 2048w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/19151246/video-kyc-300x200.jpg 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/19151246/video-kyc-1024x683.jpg 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/19151246/video-kyc-150x100.jpg 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/19151246/video-kyc-768x512.jpg 768w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/19151246/video-kyc-1536x1024.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048px" />
+		<a href="https://www.biometricupdate.com/companies/paravision">Paravision</a> de
+
+## Nearly 200 biometric election devices missing in Kenya, audit finds
+ - [https://www.biometricupdate.com/202503/nearly-200-biometric-election-devices-missing-in-kenya-audit-finds](https://www.biometricupdate.com/202503/nearly-200-biometric-election-devices-missing-in-kenya-audit-finds)
+ - RSS feed: $source
+ - date published: 2025-03-04T10:56:07+00:00
+
+<img width="1135" height="631" src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/22165231/smartmatic-kiems-kenya-2022.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/22165231/smartmatic-kiems-kenya-2022.png 1135w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/22165231/smartmatic-kiems-kenya-2022-300x167.png 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/22165231/smartmatic-kiems-kenya-2022-1024x569.png 1024w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/22165231/smartmatic-kiems-kenya-2022-150x83.png 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/22165231/smartmatic-kiems-kenya-2022-768x427.png 768w" sizes="(max-width: 1135px) 100vw, 1135px" />
+		More than 200 devices linked to the Kenya Integrated Elections Management System (KIEMS) cannot be accounted for a
+

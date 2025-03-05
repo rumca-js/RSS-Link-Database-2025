@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marques Brownlee",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-04T10:30:54+00:00",
+        "description": "That's a lot of phone for 400 bucks\n\nSave up to 40% off at https://ridge.com/mkbhd and celebrate Ridge\u2019s 12th anniversary\n\nNothing Phone 3a: https://geni.us/AO7pBa\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Nothing for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+        "id": 2240634,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=eRdMxQ1zVPo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 210,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eRdMxQ1zVPo/hqdefault.jpg",
+        "title": "Nothing Phone 3a/Pro: Now Do a Flagship!",
+        "vote": 0
+    }
+]

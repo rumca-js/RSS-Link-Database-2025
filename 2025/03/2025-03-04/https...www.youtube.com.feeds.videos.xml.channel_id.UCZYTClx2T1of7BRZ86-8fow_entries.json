@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-04T18:00:13+00:00",
+        "description": "Start speaking a new language in 3 weeks with Babbel. Get up to 60% off your subscription here: https://bit.ly/SciShowMar \n\nNo, technically Earth doesn't orbit the Sun. Yes, technically sound can travel through space. Over the years we've built up a lot of myths and misconceptions about astronomy. But of course some are more flat-out false than others.\n\nHosted by: Savannah Geary (they/them)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: David Johnston, Martin Osorio, Cye Stoner, Kaitlyn O'Callaghan, Jp Lynch, kickinwasabi, Bethany Matthews, Chris Curry, Blood Doctor Kelly, Wesus, J.V. Rosenbalm, Marc Bendig, Alan Wong, Toyas Dhake, Spilmann Reed, Gizmo, Garrett G",
+        "id": 2244933,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=I6Xhkvnxb4M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/I6Xhkvnxb4M/hqdefault.jpg",
+        "title": "Sound DOES Travel in Space (and 10 Other Space Things You Got Wrong)",
+        "vote": 0
+    }
+]

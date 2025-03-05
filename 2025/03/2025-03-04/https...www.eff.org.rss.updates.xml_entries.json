@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-04T17:23:56+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>At EFF we spend a lot of time thinking about </span><a href=\"https://sls.eff.org/\"><span>Street Level Surveillance</span></a><span> technologies\u2014the technologies used by police and other authorities to spy on you while you are going about your everyday life\u2014such as automated license plate readers, facial recognition, surveillance camera networks, and </span><a href=\"https://sls.eff.org/technologies/cell-site-simulators-imsi-catchers\"><span>cell-site simulators</span></a><span> (CSS). </span><a href=\"https://github.com/EFForg/rayhunter\"><span>Rayhunter</span></a><span> is a new open source tool we\u2019ve created that runs off an affordable mobile hotspot that we hope empowers everyone, regardless of technical skill, to help search out CSS around the world.\u00a0</span></p>\n\n<p><span>CSS (also known as Stingrays or IMSI catchers) are devices that",
+        "id": 2244455,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/03/meet-rayhunter-new-open-source-tool-eff-detect-cellular-spying",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Meet Rayhunter: A New Open Source Tool from EFF to Detect Cellular Spying",
+        "vote": 0
+    }
+]

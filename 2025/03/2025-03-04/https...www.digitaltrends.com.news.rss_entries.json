@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-04T17:11:55+00:00",
+        "description": "Microsoft&#8217;s latest (KB5050094 and KB5051987) updates are causing some serious performance issues, especially for users, as . The updates interfere with CPU speeds when a user minimizes a program or the app is out of focus. However, older Intel processors remain unaffected. It&#8217;s reported that apps are &#8220;massively throttled,&#8221; causing the CPU&#8217;s clock rate to [&#8230;]",
+        "id": 2243430,
+        "language": "en-US",
+        "link": "https://www.digitaltrends.com/computing/latest-windows-11-update-slows-intels-newest-desktop-processors",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 94,
+        "source_url": "https://www.digitaltrends.com/news/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Latest Windows 11 update slows Intel\u2019s newest desktop processors",
+        "vote": 0
+    }
+]

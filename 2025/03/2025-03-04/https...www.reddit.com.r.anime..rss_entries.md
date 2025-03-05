@@ -1,0 +1,205 @@
+# Source:/r/Anime, URL:https://www.reddit.com/r/anime/.rss, language:en
+
+## [20th Anniversary Rewatch] Eureka Seven Episode 7 Discussion
+ - [https://www.reddit.com/r/anime/comments/1j3o9hz/20th_anniversary_rewatch_eureka_seven_episode_7](https://www.reddit.com/r/anime/comments/1j3o9hz/20th_anniversary_rewatch_eureka_seven_episode_7)
+ - RSS feed: $source
+ - date published: 2025-03-04T23:00:00+00:00
+
+<!-- SC_OFF --><div class="md"><h1><strong>Episode 7 - <a href="https://i.imgur.com/aI3agWY.png">Absolute Defeat</a></strong></h1> <p><a href="https://old.reddit.com/r/anime/comments/1j2w3qn/20th_anniversary_rewatch_eureka_seven_episode_6/">← Previous Episode</a> | <a href="https://old.reddit.com/r/anime/comments/1ie07ma/eureka_seven_20th_anniversary_official_rewatch/">Index</a> | <a href="https://v.animethemes.moe/EurekaSeven-ED1.webm">Next Episode →</a></p> <p><a href="https://myanimelist.net/anime/237">MAL</a> | <a href="https://anilist.co/anime/237/Koukyoushihen-Eureka-Seven/">AniList</a> | <a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4797">ANN</a> | <a href="https://kitsu.app/anime/eureka-seven">Kitsu</a> | <a href="https://anidb.net/anime/2826">AniDB</a></p> <p><a href="#piracy">No Legal Streams</a> …unless you live in the UK, apparently, where it is on Crunchyroll.</p> <hr/> <p><strong><em>I decided when I boarded the Gekko that even if I made the entire
+
+## [Rewatch] [Yuuki Yuuna Franchise Overtime, Part 2] Dai Mankai no Shou Episode 9 Discussion
+ - [https://www.reddit.com/r/anime/comments/1j3mv0h/rewatch_yuuki_yuuna_franchise_overtime_part_2_dai](https://www.reddit.com/r/anime/comments/1j3mv0h/rewatch_yuuki_yuuna_franchise_overtime_part_2_dai)
+ - RSS feed: $source
+ - date published: 2025-03-04T22:00:08+00:00
+
+<!-- SC_OFF --><div class="md"><h2><strong><a href="https://files.catbox.moe/dih5gm.jpg">Episode 9: True Friendship</a></strong></h2> <p><a href="https://old.reddit.com/r/anime/comments/1j2uq4w/rewatch_yuuki_yuuna_franchise_overtime_part_2_dai/">← Previous Episode</a> | <a href="https://old.reddit.com/r/anime/comments/1iwlt3d/rewatch_yuuki_yuuna_franchise_rewatch/">Index</a> | <a href="https://v.animethemes.moe/YuukiYuunaDaiMankaiNoShou-OP1.webm">Next Episode</a> →</p> <hr/> <h3>Show Information:</h3> <p><a href="https://myanimelist.net/anime/42587">MAL</a> | <a href="https://anilist.co/anime/122292/Yuuki-Yuuna-wa-Yuusha-de-Aru-DaiMankai-no-Shou/">AniList</a> | <a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=23555">ANN</a> | <a href="https://anidb.net/anime/15665">AniDB</a></p> <h3>Legal Streams:</h3> <p><a href="https://www.hidive.com/tv/yuki-yuna-is-a-hero-great-mankai-chapter">HiDive</a></p> <p><em>(As per livewatch.me; availability may vary outside of the US.)
+
+## [Rewatch] 3-episode rule 1960s anime – Otoko Ippiki Gaki Daishou (episode 3&4)
+ - [https://www.reddit.com/r/anime/comments/1j3mupi/rewatch_3episode_rule_1960s_anime_otoko_ippiki](https://www.reddit.com/r/anime/comments/1j3mupi/rewatch_3episode_rule_1960s_anime_otoko_ippiki)
+ - RSS feed: $source
+ - date published: 2025-03-04T21:59:48+00:00
+
+<!-- SC_OFF --><div class="md"><h1>Rewatch: 3-episode rule 1960s anime – Otoko Ippiki Gaki Daishou (episode 3&amp;4)</h1> <p><a href="https://www.reddit.com/r/anime/comments/1j2upxy/rewatch_3episode_rule_1960s_anime_otoko_ippiki/">&lt;- previous post</a> | <a href="https://www.reddit.com/r/anime/comments/1htplqv/rewatch_3episode_rule_1960s_anime_astro_boy/">index</a></p> <h2>Otoko Ippiki Gaki Daishou (1969)</h2> <p><a href="https://myanimelist.net/anime/17467/Otoko_Ippiki_Gaki_Daishou">MAL</a> | <a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2377">ANN</a> | <a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=6956">AniDB</a> | <a href="https://anilist.co/anime/17467/Otoko-Ippiki-Gaki-Daishou">Anilist</a></p> <h2>Production trivia</h2> <p>Tomoko is voiced by <a href="https://www.animenewsnetwork.com/encyclopedia/people.php?id=3271">Reiko Mutoh</a>. We already heard her as Mio in Dororo and she will appear again as Michiru in Attack No1. She is also Ur
+
+## [Rewatch] Fire Force - Episode 28 Discussion
+ - [https://www.reddit.com/r/anime/comments/1j3leyr/rewatch_fire_force_episode_28_discussion](https://www.reddit.com/r/anime/comments/1j3leyr/rewatch_fire_force_episode_28_discussion)
+ - RSS feed: $source
+ - date published: 2025-03-04T21:00:12+00:00
+
+<!-- SC_OFF --><div class="md"><h1><a href="https://i.imgur.com/j0n0MBE.png">Episode 28 - Groping Through the Fire</a></h1> <p><em>You possess an Adolla Burst. Your freedom... is gone</em></p> <p>_____________________________________________________________________________________________________________________</p> <p>&lt;--- <a href="https://www.reddit.com/r/anime/comments/1j2taed/rewatch_fire_force_episode_27_discussion/">Previous mission</a> | <a href="https://www.reddit.com/r/anime/s/TDp0bb1Jaw">Great flame of fire (Index)</a> | Next mission ---&gt;</p> <p>__________________________________________________________________________________________________________________</p> <p><strong>OP 3</strong> ---&gt; <a href="https://v.animethemes.moe/EnenNoShouboutaiS2-OP1-NCBD1080.webm">Spark Again</a> by <a href="https://animethemes.moe/artist/aimer">Aimer</a></p> <p><strong>ED 3</strong> ---&gt; <a href="https://v.animethemes.moe/EnenNoShouboutaiS2-ED1-NCBD1080.webm">ID</a> by <a href="
+
+## /r/anime Awards 2024 Extra Awards Nominations!
+ - [https://www.reddit.com/r/anime/comments/1j3les6/ranime_awards_2024_extra_awards_nominations](https://www.reddit.com/r/anime/comments/1j3les6/ranime_awards_2024_extra_awards_nominations)
+ - RSS feed: $source
+ - date published: 2025-03-04T21:00:01+00:00
+
+<!-- SC_OFF --><div class="md"><p>After a grueling month of debate and voting, the awards are nearly coming to an end. But now that voting for all the heavy hitters is done, we want to end on a positive note. With that said, please welcome the return of the Extra Awards!</p> <p>Instead of using the website to vote, this part of the awards is done via contest mode. For every category that you see in the thread, everyone is free to comment their nomination! Just be sure to base your picks on anime eligible for the 2024 <a href="/r/anime">r/anime</a> Awards and that’s it! So comment your picks down below and upvote away!</p> <p>The winners will be posted on the <a href="/r/anime">/r/anime</a> Awards Website together with the other awards after the livestream, which will be on <strong>March 8th</strong> by <a href="/u/drjwilson">/u/drjwilson</a> , aka Kamimashita. The livestream also features a ton of guests so tune in to hear their thoughts on all the nominations and winners! You can vi
+
+## 【Medalist】 score 10 WEB Preview
+ - [https://www.reddit.com/r/anime/comments/1j3l2w8/medalist_score_10_web_preview](https://www.reddit.com/r/anime/comments/1j3l2w8/medalist_score_10_web_preview)
+ - RSS feed: $source
+ - date published: 2025-03-04T20:45:49+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1j3l2w8/medalist_score_10_web_preview/"> <img src="https://external-preview.redd.it/gY25_i4ogKcifO4RKEe2kvqvkOfx2E5MHOpzVs6f7Ro.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=da4b2859e972ab11dd260a57c766a1748e81d649" alt="【Medalist】 score 10 WEB Preview" title="【Medalist】 score 10 WEB Preview" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/inspyral"> /u/inspyral </a> <br/> <span><a href="https://www.youtube.com/watch?v=ogkvc0lSDmg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1j3l2w8/medalist_score_10_web_preview/">[comments]</a></span> </td></tr></table>
+
+## Two Minutes of Breathtaking Voice Acting [Flower and Asura]
+ - [https://www.reddit.com/r/anime/comments/1j3gku1/two_minutes_of_breathtaking_voice_acting_flower](https://www.reddit.com/r/anime/comments/1j3gku1/two_minutes_of_breathtaking_voice_acting_flower)
+ - RSS feed: $source
+ - date published: 2025-03-04T17:42:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1j3gku1/two_minutes_of_breathtaking_voice_acting_flower/"> <img src="https://external-preview.redd.it/MTU5bXpqN2VtcG1lMXHgW-2KPwLd9nhoGcCPWtngfeVrbT9Adm30ofrO21Qk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2815e2df30442375199d150558827d85f63d7dff" alt="Two Minutes of Breathtaking Voice Acting [Flower and Asura]" title="Two Minutes of Breathtaking Voice Acting [Flower and Asura]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ocixo"> /u/Ocixo </a> <br/> <span><a href="https://v.redd.it/uwsrjehdipme1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1j3gku1/two_minutes_of_breathtaking_voice_acting_flower/">[comments]</a></span> </td></tr></table>
+
+## Hana wa Saku, Shura no Gotoku • Flower and Asura - Episode 9 discussion
+ - [https://www.reddit.com/r/anime/comments/1j3gisv/hana_wa_saku_shura_no_gotoku_flower_and_asura](https://www.reddit.com/r/anime/comments/1j3gisv/hana_wa_saku_shura_no_gotoku_flower_and_asura)
+ - RSS feed: $source
+ - date published: 2025-03-04T17:40:22+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Hana wa Saku, Shura no Gotoku</em>, episode 9</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <p><em>None</em></p> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/59055/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/178022">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18683">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/hana-wa-saku-shura-no-gotoku">Anime-Planet</a></li> <li><a href="https://hanashura-anime.com/">Official Website</a></li> <li><strong><a href="/r/FlowerandAsura">/r/FlowerandAsura</a></strong></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th> </tr> </thead><tbody> <tr> <td align="center">
+
+## WHAT IN SEVEN HELLS DID I JUST REALLY REALLY REALLY WATCH
+ - [https://www.reddit.com/r/anime/comments/1j3gcyp/what_in_seven_hells_did_i_just_really_really](https://www.reddit.com/r/anime/comments/1j3gcyp/what_in_seven_hells_did_i_just_really_really)
+ - RSS feed: $source
+ - date published: 2025-03-04T17:33:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>I just finished ep10 season 1 on 100 kanjo and I am really really really REALLY shocked. I made a post a few days ago telling how i really liked this show but at that time I had only watched uptill ep7. THIS IS BIZZARE. <em>SPOILERS AHEAD</em> </p> <p>DID THEY SERIOUSLY JUST GOT HIM PAIRED WITH Hakari&#39;s mother, tell me this was just for fun and she is not going to be a girlfriend, i am in disbelief, this is TOO GOOD TOO BE TRUE. I WANT MORE, I AM ADDICTED. I haven&#39;t liked I show this much since fucking Horimiya </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Adorable_Spell7562"> /u/Adorable_Spell7562 </a> <br/> <span><a href="https://www.reddit.com/r/anime/comments/1j3gcyp/what_in_seven_hells_did_i_just_really_really/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1j3gcyp/what_in_seven_hells_did_i_just_really_really/">[comments]</a></span>
+
+## What are some anime series about sympathetic criminals?
+ - [https://www.reddit.com/r/anime/comments/1j3fwxs/what_are_some_anime_series_about_sympathetic](https://www.reddit.com/r/anime/comments/1j3fwxs/what_are_some_anime_series_about_sympathetic)
+ - RSS feed: $source
+ - date published: 2025-03-04T17:16:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>So recently, I decided to get back into the first season of the TV show Money Heist as for those who don&#39;t know the show, it&#39;s about a group of criminals who decide to infiltrate a bank as their goal is to get money in the most careful way with as little casualties as possible as what I am getting at is that it got me wondering if there were anime series like it where the main character is a criminal for hire who has noble reasons for why he commits crimes.</p> <p>Like a criminal who does his best to avoid hurting police as the premise is about a criminal who is portrayed in a sympathetic manner in order to make it easy for the viewer to understand their purpose of being a bit amoral in the story while also showing the police chief&#39;s point of view in a sympathetic manner. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KaleidoArachnid"> /u/KaleidoArachnid </a> <br/> <span><a href="https://www.reddit
+
+## Anime to watch with a kid?
+ - [https://www.reddit.com/r/anime/comments/1j3f5vt/anime_to_watch_with_a_kid](https://www.reddit.com/r/anime/comments/1j3f5vt/anime_to_watch_with_a_kid)
+ - RSS feed: $source
+ - date published: 2025-03-04T16:46:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>My girlfriend has a son and he asked to use my Crunchyroll account yesterday. I don&#39;t have any kids myself and I was wondering if any of the parents here have any recommendations of some good anime we could watch together? Since I don&#39;t have any kids myself, I&#39;ve never had to screen the content of shows and I&#39;m not sure what a 12 year old boy would like that&#39;s age appropriate. Growing up with unregulated internet/tv access has corrupted my perception of what&#39;s ok to watch at what age and I&#39;m not sure if the stuff I watched as a middle school boy was necessarily age appropriate for me lol. Any recommendations would be much appreciated! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/anokapee"> /u/anokapee </a> <br/> <span><a href="https://www.reddit.com/r/anime/comments/1j3f5vt/anime_to_watch_with_a_kid/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1
+
+## Hazure Skill "Kinomi Master" ~Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite~ • Bogus Skill «Fruitmaster» ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~ - Episode 10 discussion
+ - [https://www.reddit.com/r/anime/comments/1j3ekqz/hazure_skill_kinomi_master_skill_no_mi_tabetara](https://www.reddit.com/r/anime/comments/1j3ekqz/hazure_skill_kinomi_master_skill_no_mi_tabetara)
+ - RSS feed: $source
+ - date published: 2025-03-04T16:22:21+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Hazure Skill &quot;Kinomi Master&quot; ~Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite~</em>, episode 10</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <p><em>None</em></p> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/59002/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/178100">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18675">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/hazure-skill-kinomi-master-skill-no-mi-tabetara-shinu-wo-mugen-ni-taberareru-you-ni-natta-ken-ni-tsuite">Anime-Planet</a></li> <li><a href="https://kinomimaster.com/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">E
+
+## Unnamed Memory Season 2 - Episode 9 discussion
+ - [https://www.reddit.com/r/anime/comments/1j3eady/unnamed_memory_season_2_episode_9_discussion](https://www.reddit.com/r/anime/comments/1j3eady/unnamed_memory_season_2_episode_9_discussion)
+ - RSS feed: $source
+ - date published: 2025-03-04T16:10:22+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Unnamed Memory Season 2</em>, episode 9</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/unnamed-memory">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/59142/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/178550">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18713">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/unnamed-memory-act-2">Anime-Planet</a></li> <li><a href="https://unnamedmemory.com/">Official Website</a></li> <li><strong><a href="/r/UnnamedMemory">/r/UnnamedMemory</a></strong></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th> <
+
+## Solo Leveling — Season 2 Episode 10 Preview Images
+ - [https://www.reddit.com/r/anime/comments/1j3d3ys/solo_leveling_season_2_episode_10_preview_images](https://www.reddit.com/r/anime/comments/1j3d3ys/solo_leveling_season_2_episode_10_preview_images)
+ - RSS feed: $source
+ - date published: 2025-03-04T15:19:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1j3d3ys/solo_leveling_season_2_episode_10_preview_images/"> <img src="https://external-preview.redd.it/vlGUwjErPPfUki19glaAkI6sYeBLc_m61QpnKDI9cEQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3329cf7a3df5976fa8b82000e9cb565e0a8d6d2d" alt="Solo Leveling — Season 2 Episode 10 Preview Images" title="Solo Leveling — Season 2 Episode 10 Preview Images" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AashyLarry"> /u/AashyLarry </a> <br/> <span><a href="https://x.com/sololeveling_pr/status/1896938936909410413?s=46&amp;t=hc5NrTRIWu5hhJBvuuWS9g">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1j3d3ys/solo_leveling_season_2_episode_10_preview_images/">[comments]</a></span> </td></tr></table>
+
+## Amagami-san Chi no Enmusubi • Tying the Knot with an Amagami Sister - Episode 21 discussion
+ - [https://www.reddit.com/r/anime/comments/1j3crot/amagamisan_chi_no_enmusubi_tying_the_knot_with_an](https://www.reddit.com/r/anime/comments/1j3crot/amagamisan_chi_no_enmusubi_tying_the_knot_with_an)
+ - RSS feed: $source
+ - date published: 2025-03-04T15:04:23+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Amagami-san Chi no Enmusubi</em>, episode 21</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/tying-the-knot-with-an-amagami-sister">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/55071/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/164172">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=17994">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/tying-the-knot-with-an-amagami-sister">Anime-Planet</a></li> <li><a href="https://amagami-anime.com/">Official Website</a></li> <li><strong><a href="/r/Amagamisis">/r/Amagamisis</a></strong></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Epis
+
+## Solo Leveling Season 2 -Arise from the Shadow- New PV
+ - [https://www.reddit.com/r/anime/comments/1j3cp30/solo_leveling_season_2_arise_from_the_shadow_new](https://www.reddit.com/r/anime/comments/1j3cp30/solo_leveling_season_2_arise_from_the_shadow_new)
+ - RSS feed: $source
+ - date published: 2025-03-04T15:01:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1j3cp30/solo_leveling_season_2_arise_from_the_shadow_new/"> <img src="https://external-preview.redd.it/A42vIfSrcedXtWjKPD5HyihoW5AYqTVf7ijuvs_CrGk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9ea163e89921ecc7855da275790857065c615335" alt="Solo Leveling Season 2 -Arise from the Shadow- New PV" title="Solo Leveling Season 2 -Arise from the Shadow- New PV" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Turbostrider27"> /u/Turbostrider27 </a> <br/> <span><a href="https://www.youtube.com/watch?v=GDMXGzjJzS4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1j3cp30/solo_leveling_season_2_arise_from_the_shadow_new/">[comments]</a></span> </td></tr></table>
+
+## Youkai Gakkou no Sensei Hajimemashita! • A Terrified Teacher at Ghoul School! - Episode 21 discussion
+ - [https://www.reddit.com/r/anime/comments/1j3bhhy/youkai_gakkou_no_sensei_hajimemashita_a_terrified](https://www.reddit.com/r/anime/comments/1j3bhhy/youkai_gakkou_no_sensei_hajimemashita_a_terrified)
+ - RSS feed: $source
+ - date published: 2025-03-04T14:04:22+00:00
+
+<!-- SC_OFF --><div class="md"><p><em>Youkai Gakkou no Sensei Hajimemashita!</em>, episode 21</p> <p><strong>Reminder:</strong> Please do not discuss plot points not yet seen or skipped in the show. Failing to follow the rules may result in a ban.</p> <hr/> <p><strong>Streams</strong></p> <ul> <li><a href="http://crunchyroll.com/a-terrified-teacher-at-ghoul-school">Crunchyroll</a></li> </ul> <p><strong>Show information</strong></p> <ul> <li><a href="https://myanimelist.net/anime/57533/">MyAnimeList</a></li> <li><a href="https://anilist.co/anime/171545">AniList</a></li> <li><a href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=18321">AniDB</a></li> <li><a href="https://www.anime-planet.com/anime/a-terrified-teacher-at-ghoul-school">Anime-Planet</a></li> <li><a href="https://youkaigakkou.com/">Official Website</a></li> </ul> <hr/> <p><strong>All discussions</strong></p> <table><thead> <tr> <th align="center">Episode</th> <th align="center">Link</th> <th align="center">Episo
+
+## Black Butler: Emerald Witch Arc Teaser PV
+ - [https://www.reddit.com/r/anime/comments/1j37wql/black_butler_emerald_witch_arc_teaser_pv](https://www.reddit.com/r/anime/comments/1j37wql/black_butler_emerald_witch_arc_teaser_pv)
+ - RSS feed: $source
+ - date published: 2025-03-04T10:34:27+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1j37wql/black_butler_emerald_witch_arc_teaser_pv/"> <img src="https://external-preview.redd.it/Kl4KmNvqBGErzrVn-KWfnjJ461844mRcErLUvkJwZaA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=41fe3137f3b83817a2a22aaed975319f5403b71d" alt="Black Butler: Emerald Witch Arc Teaser PV" title="Black Butler: Emerald Witch Arc Teaser PV" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DemiFiendRSA"> /u/DemiFiendRSA </a> <br/> <span><a href="https://youtu.be/iS5dRVO8XG4">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1j37wql/black_butler_emerald_witch_arc_teaser_pv/">[comments]</a></span> </td></tr></table>
+
+## Black Butler - Emerald Witch Arc - New Key Visual
+ - [https://www.reddit.com/r/anime/comments/1j37w4p/black_butler_emerald_witch_arc_new_key_visual](https://www.reddit.com/r/anime/comments/1j37w4p/black_butler_emerald_witch_arc_new_key_visual)
+ - RSS feed: $source
+ - date published: 2025-03-04T10:33:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1j37w4p/black_butler_emerald_witch_arc_new_key_visual/"> <img src="https://external-preview.redd.it/ijNZ3E1Nh8jcW2qbVIUUvctlMrZbagfExZ-vbDjuvGI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=af61db42b276aa22dae712606d9dbd7174e5d855" alt="Black Butler - Emerald Witch Arc - New Key Visual" title="Black Butler - Emerald Witch Arc - New Key Visual" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Task_Force-191"> /u/Task_Force-191 </a> <br/> <span><a href="https://pbs.twimg.com/media/GlL7-0abkAAmnY_.jpg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1j37w4p/black_butler_emerald_witch_arc_new_key_visual/">[comments]</a></span> </td></tr></table>
+
+## Anime Questions, Recommendations, and Discussion - March 04, 2025
+ - [https://www.reddit.com/r/anime/comments/1j37g4p/anime_questions_recommendations_and_discussion](https://www.reddit.com/r/anime/comments/1j37g4p/anime_questions_recommendations_and_discussion)
+ - RSS feed: $source
+ - date published: 2025-03-04T10:01:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1j37g4p/anime_questions_recommendations_and_discussion/"> <img src="https://external-preview.redd.it/3XIyi4doDgmoh36N2fBnAVhqMDd5pFMBh_9sjOPM_Nw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=465613abad37787c89cb32f5ed4cc7f77a559b40" alt="Anime Questions, Recommendations, and Discussion - March 04, 2025" title="Anime Questions, Recommendations, and Discussion - March 04, 2025" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This is a daily megathread for general chatter about anime. Have questions or need recommendations? Here to show off your merch? Want to talk about what you just watched?</p> <p><a href="https://preview.redd.it/m6vnu3pf7gme1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=a180a0cf5d0c68eeabd409333e28d539c2d39055">This is the place!</a></p> <p><a href="/r/anime/wiki/rules#wiki_tagging_comments"><strong>All spoilers must be tagged.</strong></a> Use <code>[anime name]</code> to indicate the ani
+
+## "Re:Zero Season 3" Episode 13 Preview
+ - [https://www.reddit.com/r/anime/comments/1j36o1a/rezero_season_3_episode_13_preview](https://www.reddit.com/r/anime/comments/1j36o1a/rezero_season_3_episode_13_preview)
+ - RSS feed: $source
+ - date published: 2025-03-04T09:01:33+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Weary_Oil_6084"> /u/Weary_Oil_6084 </a> <br/> <span><a href="https://youtu.be/RrVl4irMekY?feature=shared">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1j36o1a/rezero_season_3_episode_13_preview/">[comments]</a></span>
+
+## 『Danmachi Ⅴ Houjou no Megami-hen』Episode 15（Finale）WEB Preview
+ - [https://www.reddit.com/r/anime/comments/1j3605l/danmachi_ⅴ_houjou_no_megamihenepisode_15finaleweb](https://www.reddit.com/r/anime/comments/1j3605l/danmachi_ⅴ_houjou_no_megamihenepisode_15finaleweb)
+ - RSS feed: $source
+ - date published: 2025-03-04T08:09:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1j3605l/danmachi_ⅴ_houjou_no_megamihenepisode_15finaleweb/"> <img src="https://external-preview.redd.it/b7mA4-I0YeQjV30WTTEdZC7Oc5HWF8XvbJMhlRIL1f4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e14e23348ff4b409ce6d8c22a69bcc3f3991e087" alt="『Danmachi Ⅴ Houjou no Megami-hen』Episode 15（Finale）WEB Preview" title="『Danmachi Ⅴ Houjou no Megami-hen』Episode 15（Finale）WEB Preview" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/inspyral"> /u/inspyral </a> <br/> <span><a href="https://www.youtube.com/watch?v=rCqPFIbOM1w">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1j3605l/danmachi_ⅴ_houjou_no_megamihenepisode_15finaleweb/">[comments]</a></span> </td></tr></table>
+
+## How To Get Kicked Out of a Cat Cafe (Uzaki-chan Wants to Hang Out!)
+ - [https://www.reddit.com/r/anime/comments/1j352b8/how_to_get_kicked_out_of_a_cat_cafe_uzakichan](https://www.reddit.com/r/anime/comments/1j352b8/how_to_get_kicked_out_of_a_cat_cafe_uzakichan)
+ - RSS feed: $source
+ - date published: 2025-03-04T06:59:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1j352b8/how_to_get_kicked_out_of_a_cat_cafe_uzakichan/"> <img src="https://external-preview.redd.it/MzF3djAxNHJmbW1lMfKECXuB9vf-HukxqaofhY7NOfIZt5sFFFc3VN2Dut8I.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d88401933d602b62227dbd8d6c0af85fa6d0ea1a" alt="How To Get Kicked Out of a Cat Cafe (Uzaki-chan Wants to Hang Out!)" title="How To Get Kicked Out of a Cat Cafe (Uzaki-chan Wants to Hang Out!)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/littlecolt"> /u/littlecolt </a> <br/> <span><a href="https://v.redd.it/261s8stremme1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1j352b8/how_to_get_kicked_out_of_a_cat_cafe_uzakichan/">[comments]</a></span> </td></tr></table>
+
+## Any anime's that are focused on assassins?
+ - [https://www.reddit.com/r/anime/comments/1j31s7r/any_animes_that_are_focused_on_assassins](https://www.reddit.com/r/anime/comments/1j31s7r/any_animes_that_are_focused_on_assassins)
+ - RSS feed: $source
+ - date published: 2025-03-04T03:42:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>I love Hunter x Hunter all in all but there&#39;s something really special about Killua and his family which always piques my interest. Maybe it&#39;s just my fascination with assassins because even in video games I always play the assassin or thief builds.</p> <p>Anyway, I was wondering if you guys know of any other anime&#39;s that are centered around assassins whether that be a family or an organization or even a lone wolf. Right now I&#39;m watching Sakamoto Days and it does scratch the itch a little bit but it&#39;s just not the same. It doesn&#39;t have that same dark and edgy thing that Killua and his family has. I&#39;ve replayed the episodes where they went to Kukuroo Mountain to get Killua after the Hunter Exam many many times and I was hoping I&#39;d have something else to watch this time.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hirakath"> /u/hirakath </a> <br/> <span><a href="https://www.redd
+
+## What anime do you think the most tactical ?
+ - [https://www.reddit.com/r/anime/comments/1j31cqk/what_anime_do_you_think_the_most_tactical](https://www.reddit.com/r/anime/comments/1j31cqk/what_anime_do_you_think_the_most_tactical)
+ - RSS feed: $source
+ - date published: 2025-03-04T03:19:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>To put it simple, it&#39;s anime where the fight are won by using strategy with least amount of last minute power up, have equal or even less powerful equipment/skill than the opponent, no asspull like &quot;actually I have set this trap long time ago&quot; but never mentioned or hinted in the past.</p> <p>Ones that i found</p> <ul> <li>Law of Ueki. After rewatching it I realize every fight that isn&#39;t about introducing Ueki&#39;s power/sacred weapon or joke fight from Ai is all won by using tactic and outsmarting the enemy. Even second half of the anime the sacred weapons is very common.</li> <li>Aldnoah Zero. All fight won by outsmarting and using physics. Even the final boss of season one is basically just knowledge check what they learn from the previous enemies.</li> <li>World Trigger. This one is the most tactical out there. Everyone has standard equipment with super equipment given only to the elite ones. All fight are won by outsmarting en
+
+## “Don't Touch Kotesashi” Anime Announced
+ - [https://www.reddit.com/r/anime/comments/1j3162d/dont_touch_kotesashi_anime_announced](https://www.reddit.com/r/anime/comments/1j3162d/dont_touch_kotesashi_anime_announced)
+ - RSS feed: $source
+ - date published: 2025-03-04T03:09:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1j3162d/dont_touch_kotesashi_anime_announced/"> <img src="https://external-preview.redd.it/6YN-V6TVUJPSXN4_CkTJrhI3OnaxY5hBF9UEe-3VcCY.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=167d0d0b53f1bb081861f1334acae6ec151cfe9f" alt="“Don't Touch Kotesashi” Anime Announced" title="“Don't Touch Kotesashi” Anime Announced" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zenzen_0"> /u/zenzen_0 </a> <br/> <span><a href="https://twitter.com/kotesashi_anime/status/1896757610923311211">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1j3162d/dont_touch_kotesashi_anime_announced/">[comments]</a></span> </td></tr></table>
+
+## Top 10 Anime of the Week #7 - Winter 2025 (Anime Trending)
+ - [https://www.reddit.com/r/anime/comments/1j2z93a/top_10_anime_of_the_week_7_winter_2025_anime](https://www.reddit.com/r/anime/comments/1j2z93a/top_10_anime_of_the_week_7_winter_2025_anime)
+ - RSS feed: $source
+ - date published: 2025-03-04T01:30:01+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1j2z93a/top_10_anime_of_the_week_7_winter_2025_anime/"> <img src="https://preview.redd.it/6jumsdotskme1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f29d16b7322765919b5e829eac8787bbcbb54cc2" alt="Top 10 Anime of the Week #7 - Winter 2025 (Anime Trending)" title="Top 10 Anime of the Week #7 - Winter 2025 (Anime Trending)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nooble5"> /u/Nooble5 </a> <br/> <span><a href="https://i.redd.it/6jumsdotskme1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1j2z93a/top_10_anime_of_the_week_7_winter_2025_anime/">[comments]</a></span> </td></tr></table>
+
+## Attitude at work vs. off work [I Have a Crush at Work]
+ - [https://www.reddit.com/r/anime/comments/1j2ywxm/attitude_at_work_vs_off_work_i_have_a_crush_at](https://www.reddit.com/r/anime/comments/1j2ywxm/attitude_at_work_vs_off_work_i_have_a_crush_at)
+ - RSS feed: $source
+ - date published: 2025-03-04T01:12:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1j2ywxm/attitude_at_work_vs_off_work_i_have_a_crush_at/"> <img src="https://external-preview.redd.it/MnJ0djNxdXJwa21lMQj5KUvF5VJzhuGs6G6fc9__lwIZuWvxpMxnG6TzTs_P.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a52739548d0d0d7d8988ac1a36d2c4e5ff93f79b" alt="Attitude at work vs. off work [I Have a Crush at Work]" title="Attitude at work vs. off work [I Have a Crush at Work]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SCVGoodT0GoSir"> /u/SCVGoodT0GoSir </a> <br/> <span><a href="https://v.redd.it/hxe6y3ypokme1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/anime/comments/1j2ywxm/attitude_at_work_vs_off_work_i_have_a_crush_at/">[comments]</a></span> </td></tr></table>
+
+## Interview with BanG Dream! Ave Mujica’s director Kodai Kakimoto: “We are well aware that this approach may not resonate with all audiences—some may even dislike it. Yet, we chose to fully immerse ourselves in portraying the characters’ emotions and actions without compromise or hesitation.”
+ - [https://www.reddit.com/r/anime/comments/1j2xoky/interview_with_bang_dream_ave_mujicas_director](https://www.reddit.com/r/anime/comments/1j2xoky/interview_with_bang_dream_ave_mujicas_director)
+ - RSS feed: $source
+ - date published: 2025-03-04T00:13:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/anime/comments/1j2xoky/interview_with_bang_dream_ave_mujicas_director/"> <img src="https://external-preview.redd.it/pKEYGp7yJJvQQTunWI5dFnP9-2vWYr5HqFEOY_ZY-a4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0382cb736a1d15723ac5514091ed70da1a8e5a0" alt="Interview with BanG Dream! Ave Mujica’s director Kodai Kakimoto: “We are well aware that this approach may not resonate with all audiences—some may even dislike it. Yet, we chose to fully immerse ourselves in portraying the characters’ emotions and actions without compromise or hesitation.”" title="Interview with BanG Dream! Ave Mujica’s director Kodai Kakimoto: “We are well aware that this approach may not resonate with all audiences—some may even dislike it. Yet, we chose to fully immerse ourselves in portraying the characters’ emotions and actions without compromise or hesitation.”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/static_reset"> /u/
+

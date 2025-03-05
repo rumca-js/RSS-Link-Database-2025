@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-04T17:26:18+00:00",
+        "description": "<p>Google is empowering data scientists and researchers with the deployment of the Data Science Agent to its Colab platform. For those unfamiliar, Google Colab is a free, cloud-hosted Jupyter Notebook environment allowing users to write and execute Python code within their browser. By providing free access to Google Cloud GPUs and TPUs, Colab has become<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/google-deploys-data-science-agent-colab-users/\" title=\"ReadGoogle deploys Data Science Agent to Colab users\u00a0\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/google-deploys-data-science-agent-colab-users/\">Google deploys Data Science Agent to Colab users\u00a0</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2244370,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/google-deploys-data-science-agent-colab-users",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google deploys Data Science Agent to Colab users",
+        "vote": 0
+    }
+]

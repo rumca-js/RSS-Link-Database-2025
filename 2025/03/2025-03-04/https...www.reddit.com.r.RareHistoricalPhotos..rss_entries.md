@@ -1,0 +1,79 @@
+# Source:RareHistoricalPhotos, URL:https://www.reddit.com/r/RareHistoricalPhotos/.rss, language:en
+
+## The chelsea shed end boys an original skinhead football hooligan crew from the late 60s and 70s
+ - [https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3nidp/the_chelsea_shed_end_boys_an_original_skinhead](https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3nidp/the_chelsea_shed_end_boys_an_original_skinhead)
+ - RSS feed: $source
+ - date published: 2025-03-04T22:27:24+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3nidp/the_chelsea_shed_end_boys_an_original_skinhead/"> <img src="https://preview.redd.it/41iamow71rme1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4aa92fb5b2a5f9588094b7c27d2ff3bfb93ab176" alt="The chelsea shed end boys an original skinhead football hooligan crew from the late 60s and 70s" title="The chelsea shed end boys an original skinhead football hooligan crew from the late 60s and 70s" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Remote_Experience_65"> /u/Remote_Experience_65 </a> <br/> <span><a href="https://i.redd.it/41iamow71rme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3nidp/the_chelsea_shed_end_boys_an_original_skinhead/">[comments]</a></span> </td></tr></table>
+
+## These are few images of 'The Church of God With Signs Following' photographed in the 1960s - They believed that they would be safe handling poisonous snakes and drinking venom, as mentioned in Mark 16:17-18. More than 60 have died thus far. Still, it persists.
+ - [https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3mf6r/these_are_few_images_of_the_church_of_god_with](https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3mf6r/these_are_few_images_of_the_church_of_god_with)
+ - RSS feed: $source
+ - date published: 2025-03-04T21:41:53+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3mf6r/these_are_few_images_of_the_church_of_god_with/"> <img src="https://b.thumbs.redditmedia.com/rEG9QVPtJt0rhjU42LYUh6xTke6zUXqxsGG4uv9BwXo.jpg" alt="These are few images of 'The Church of God With Signs Following' photographed in the 1960s - They believed that they would be safe handling poisonous snakes and drinking venom, as mentioned in Mark 16:17-18. More than 60 have died thus far. Still, it persists." title="These are few images of 'The Church of God With Signs Following' photographed in the 1960s - They believed that they would be safe handling poisonous snakes and drinking venom, as mentioned in Mark 16:17-18. More than 60 have died thus far. Still, it persists." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dannydutch1"> /u/dannydutch1 </a> <br/> <span><a href="https://www.reddit.com/gallery/1j3mf6r">[link]</a></span> &#32; <span><a href="https://www.reddi
+
+## Spanish archaeologist Manuel Esteve wearing a Corinthian helmet he found in Jeréz, Spain (1938) [766px x 598px]
+ - [https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3lv1y/spanish_archaeologist_manuel_esteve_wearing_a](https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3lv1y/spanish_archaeologist_manuel_esteve_wearing_a)
+ - RSS feed: $source
+ - date published: 2025-03-04T21:18:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3lv1y/spanish_archaeologist_manuel_esteve_wearing_a/"> <img src="https://preview.redd.it/ngmtl3swoqme1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1790a55b7b2814aab1a54376a3d5470fb55414be" alt="Spanish archaeologist Manuel Esteve wearing a Corinthian helmet he found in Jeréz, Spain (1938) [766px x 598px]" title="Spanish archaeologist Manuel Esteve wearing a Corinthian helmet he found in Jeréz, Spain (1938) [766px x 598px]" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ENshiA09"> /u/ENshiA09 </a> <br/> <span><a href="https://i.redd.it/ngmtl3swoqme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3lv1y/spanish_archaeologist_manuel_esteve_wearing_a/">[comments]</a></span> </td></tr></table>
+
+## Soviet punks, Leningrad, 1988
+ - [https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3lrrj/soviet_punks_leningrad_1988](https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3lrrj/soviet_punks_leningrad_1988)
+ - RSS feed: $source
+ - date published: 2025-03-04T21:14:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3lrrj/soviet_punks_leningrad_1988/"> <img src="https://preview.redd.it/nzalsuv4oqme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e023b3c0e1abcd33bcb19ce8865c4ab07e74290" alt="Soviet punks, Leningrad, 1988" title="Soviet punks, Leningrad, 1988" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Morozow"> /u/Morozow </a> <br/> <span><a href="https://i.redd.it/nzalsuv4oqme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3lrrj/soviet_punks_leningrad_1988/">[comments]</a></span> </td></tr></table>
+
+## How the Soviets Celebrated Television: Vintage Photos of First-Time TV Owners
+ - [https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3k3c0/how_the_soviets_celebrated_television_vintage](https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3k3c0/how_the_soviets_celebrated_television_vintage)
+ - RSS feed: $source
+ - date published: 2025-03-04T20:04:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3k3c0/how_the_soviets_celebrated_television_vintage/"> <img src="https://preview.redd.it/e539cnnqbqme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=01de3462e0a3ed4f498a2ba6791ba169bebf445d" alt="How the Soviets Celebrated Television: Vintage Photos of First-Time TV Owners" title="How the Soviets Celebrated Television: Vintage Photos of First-Time TV Owners" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/FunnyBunnyWonderland"> /u/FunnyBunnyWonderland </a> <br/> <span><a href="https://i.redd.it/e539cnnqbqme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3k3c0/how_the_soviets_celebrated_television_vintage/">[comments]</a></span> </td></tr></table>
+
+## This woman wore pants under her skirt and a gun under her apron. At six feet tall and two hundred pounds, Mary Fields was a formidable woman.
+ - [https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3j3te/this_woman_wore_pants_under_her_skirt_and_a_gun](https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3j3te/this_woman_wore_pants_under_her_skirt_and_a_gun)
+ - RSS feed: $source
+ - date published: 2025-03-04T19:24:21+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3j3te/this_woman_wore_pants_under_her_skirt_and_a_gun/"> <img src="https://preview.redd.it/j6r244xj4qme1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f58f6b0afec6b78c65d171a6b4f5b118e983aeab" alt="This woman wore pants under her skirt and a gun under her apron. At six feet tall and two hundred pounds, Mary Fields was a formidable woman." title="This woman wore pants under her skirt and a gun under her apron. At six feet tall and two hundred pounds, Mary Fields was a formidable woman." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/xotoozelda"> /u/xotoozelda </a> <br/> <span><a href="https://i.redd.it/j6r244xj4qme1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3j3te/this_woman_wore_pants_under_her_skirt_and_a_gun/">[comments]</a></span> </td></tr></table>
+
+## Two of the world's most famous soothsayers, Nostradamus and Vanga, have predicted a major war in Europe in 2025. Dictator Putin will be assassinated. Vanga also predicted the end of the world in 5079.
+ - [https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3h9wu/two_of_the_worlds_most_famous_soothsayers](https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3h9wu/two_of_the_worlds_most_famous_soothsayers)
+ - RSS feed: $source
+ - date published: 2025-03-04T18:10:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3h9wu/two_of_the_worlds_most_famous_soothsayers/"> <img src="https://external-preview.redd.it/2PrHhogGARYeWrQ4YQ4jk_3jX15aEXrXqUA9rAs9t-4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cf6d330775de2ff290553ebcc77663ae7f1d0216" alt="Two of the world's most famous soothsayers, Nostradamus and Vanga, have predicted a major war in Europe in 2025. Dictator Putin will be assassinated. Vanga also predicted the end of the world in 5079." title="Two of the world's most famous soothsayers, Nostradamus and Vanga, have predicted a major war in Europe in 2025. Dictator Putin will be assassinated. Vanga also predicted the end of the world in 5079." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ua-stena"> /u/ua-stena </a> <br/> <span><a href="https://ua-stena.info/en/nostradamus-and-vanga-foresaw-war-in-europe-in-2025/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/
+
+## American soldiers during the Vietnam War use the barrel of a shotgun to smoke marijuana while stationed at a base camp 50 miles from Saigon in November 1970.
+ - [https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3cjhz/american_soldiers_during_the_vietnam_war_use_the](https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3cjhz/american_soldiers_during_the_vietnam_war_use_the)
+ - RSS feed: $source
+ - date published: 2025-03-04T14:54:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3cjhz/american_soldiers_during_the_vietnam_war_use_the/"> <img src="https://preview.redd.it/mi5ijxm76jme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ac7e439bea074de1c98f972922f4133bc100241" alt="American soldiers during the Vietnam War use the barrel of a shotgun to smoke marijuana while stationed at a base camp 50 miles from Saigon in November 1970." title="American soldiers during the Vietnam War use the barrel of a shotgun to smoke marijuana while stationed at a base camp 50 miles from Saigon in November 1970." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kooneecheewah"> /u/kooneecheewah </a> <br/> <span><a href="https://i.redd.it/mi5ijxm76jme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j3cjhz/american_soldiers_during_the_vietnam_war_use_the/">[comments]</a></span> </td></tr></table>
+
+## Rare NYT headline during the Nuremberg Trials 4.27.1946
+ - [https://www.reddit.com/r/RareHistoricalPhotos/comments/1j35llb/rare_nyt_headline_during_the_nuremberg_trials](https://www.reddit.com/r/RareHistoricalPhotos/comments/1j35llb/rare_nyt_headline_during_the_nuremberg_trials)
+ - RSS feed: $source
+ - date published: 2025-03-04T07:38:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j35llb/rare_nyt_headline_during_the_nuremberg_trials/"> <img src="https://preview.redd.it/8fgl653ommme1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=19cca4bfe7abda79b186bddf3f5b19def7b09647" alt="Rare NYT headline during the Nuremberg Trials 4.27.1946" title="Rare NYT headline during the Nuremberg Trials 4.27.1946" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cnotttelo"> /u/cnotttelo </a> <br/> <span><a href="https://i.redd.it/8fgl653ommme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j35llb/rare_nyt_headline_during_the_nuremberg_trials/">[comments]</a></span> </td></tr></table>
+
+## Nadar's Self-Portraits: A 12-Frame Revolving Series by Gaspard-Félix Tournachon. Circa 1865.
+ - [https://www.reddit.com/r/RareHistoricalPhotos/comments/1j301ep/nadars_selfportraits_a_12frame_revolving_series](https://www.reddit.com/r/RareHistoricalPhotos/comments/1j301ep/nadars_selfportraits_a_12frame_revolving_series)
+ - RSS feed: $source
+ - date published: 2025-03-04T02:10:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j301ep/nadars_selfportraits_a_12frame_revolving_series/"> <img src="https://preview.redd.it/bn6j4w5wykme1.gif?width=640&amp;crop=smart&amp;s=d837d65fa00314f3f4ee1a985b40da0752cd54e8" alt="Nadar's Self-Portraits: A 12-Frame Revolving Series by Gaspard-Félix Tournachon. Circa 1865." title="Nadar's Self-Portraits: A 12-Frame Revolving Series by Gaspard-Félix Tournachon. Circa 1865." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ZERO_PORTRAIT"> /u/ZERO_PORTRAIT </a> <br/> <span><a href="https://i.redd.it/bn6j4w5wykme1.gif">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j301ep/nadars_selfportraits_a_12frame_revolving_series/">[comments]</a></span> </td></tr></table>
+
+## 80 years ago today, on January 27, 1945, Auschwitz is liberated. In this photo a doctor, center, with the 322nd Rifle Division of the Red Army, walks with a group of survivors at the entrance to the newly liberated Auschwitz I concentration camp. January 1945
+ - [https://www.reddit.com/r/RareHistoricalPhotos/comments/1j2xkzr/80_years_ago_today_on_january_27_1945_auschwitz](https://www.reddit.com/r/RareHistoricalPhotos/comments/1j2xkzr/80_years_ago_today_on_january_27_1945_auschwitz)
+ - RSS feed: $source
+ - date published: 2025-03-04T00:08:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/RareHistoricalPhotos/comments/1j2xkzr/80_years_ago_today_on_january_27_1945_auschwitz/"> <img src="https://preview.redd.it/ix9jnmy9ekme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=90e5a4a08ec7d101b62a908403825b573a4702be" alt="80 years ago today, on January 27, 1945, Auschwitz is liberated. In this photo a doctor, center, with the 322nd Rifle Division of the Red Army, walks with a group of survivors at the entrance to the newly liberated Auschwitz I concentration camp. January 1945" title="80 years ago today, on January 27, 1945, Auschwitz is liberated. In this photo a doctor, center, with the 322nd Rifle Division of the Red Army, walks with a group of survivors at the entrance to the newly liberated Auschwitz I concentration camp. January 1945" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Topazz_Glitter"> /u/Topazz_Glitter </a> <br/> <span><a href="https://i.redd.it/ix9jnmy9ekme1.jpeg">[link
+

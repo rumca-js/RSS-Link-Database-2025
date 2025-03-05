@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-04T15:07:09+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nAdventures with C++ Legacy Codebases: Tales of Incremental Improvement - Roth Michaels - CppCon 2024\n---\n\nAn experience report with tips and tricks for how to make incremental improvements to legacy code and how to prepare C++ code for reuse that has deep dependencies in legacy codebases. We will study real world examples from the merger of three companies all with 20+ year old C++ codebases.\n\nThe first part of the talk will cover techniques for making incremental changes to a large legacy C++ codebase. Adopting static analysis and runtime sanitizers, adding test coverage, updating conventions and style, using modern idioms, deprecating and removing legacy code, and fixing undefined behavior all comes with a cost. We will look at practical techniques for making incremental change in these areas without breaking the bank. \n\nIn the second part of the talk we will cover the challenges involved with sharing and reusing C++ code from a large legacy codebase and pr",
+        "id": 2242345,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=lN-dd-0PjRg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/lN-dd-0PjRg/hqdefault.jpg",
+        "title": "Adventures with C++ Legacy Codebases: Tales of Incremental Improvement - Roth Michaels - CppCon 2024",
+        "vote": 0
+    }
+]

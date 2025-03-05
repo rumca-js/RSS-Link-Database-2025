@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-04T14:00:57+00:00",
+        "description": "Sponsor: Montech HyperFlow 360 Cooler on Amazon https://geni.us/dWBIbF6\nThis review of the NVIDIA RTX 5070 Founders Edition video card benchmarks performance vs. the RTX 5070 Ti, RTX 4070, RX 7900 XT, 7900 GRE, and prepares for comparisons against AMD's RX 9070 XT and RX 9070 GPUs. The AMD RDNA 4 RX 9070 series cards launch tomorrow at $600 and $550 MSRP, matching the RTX 5070's $550 MSRP. We'll see if either one holds when it launches, but for now, we're focusing on some of the marketing lies that NVIDIA told during its presentation of the RTX 5070 GPUs. Testing MFG 4X vs. an RTX 4090 without MFG, we show that NVIDIA's claims of equivalence between the two are simply not true. It is intentionally manipulative and a misrepresentation of reality, unfortunately torpedoing what otherwise could have been a simpler launch review focused purely on performance. Instead, we get to talk about marketing BS.\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\n",
+        "id": 2242256,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ntSylZ1Bp1Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ntSylZ1Bp1Y/hqdefault.jpg",
+        "title": "NVIDIA is Selling Lies | RTX 5070 Founders Edition Review & Benchmarks",
+        "vote": 0
+    }
+]

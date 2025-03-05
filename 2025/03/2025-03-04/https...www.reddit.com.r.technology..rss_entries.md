@@ -1,0 +1,184 @@
+# Source:/r/Technology, URL:https://www.reddit.com/r/technology/.rss, language:en
+
+## CFPB drops lawsuit against JPMorgan Chase, Bank of America and Wells Fargo over Zelle fraud
+ - [https://www.reddit.com/r/technology/comments/1j3lrdl/cfpb_drops_lawsuit_against_jpmorgan_chase_bank_of](https://www.reddit.com/r/technology/comments/1j3lrdl/cfpb_drops_lawsuit_against_jpmorgan_chase_bank_of)
+ - RSS feed: $source
+ - date published: 2025-03-04T21:14:20+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j3lrdl/cfpb_drops_lawsuit_against_jpmorgan_chase_bank_of/"> <img src="https://external-preview.redd.it/JdVZ5Ql8_TzJQytR5Igg7Wn8h_pBlMGwtKffsovmuvw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3646d4d7333d63a84f1e3ba16993cf08b5ba1eff" alt="CFPB drops lawsuit against JPMorgan Chase, Bank of America and Wells Fargo over Zelle fraud" title="CFPB drops lawsuit against JPMorgan Chase, Bank of America and Wells Fargo over Zelle fraud" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/indig0sixalpha"> /u/indig0sixalpha </a> <br/> <span><a href="https://www.cnbc.com/2025/03/04/cfpb-drops-jpmorgan-bank-of-america-wells-fargo-lawsuit.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j3lrdl/cfpb_drops_lawsuit_against_jpmorgan_chase_bank_of/">[comments]</a></span> </td></tr></table>
+
+## China May Be Ready to Use Nuclear Fusion for Power by 2050
+ - [https://www.reddit.com/r/technology/comments/1j3jxzn/china_may_be_ready_to_use_nuclear_fusion_for](https://www.reddit.com/r/technology/comments/1j3jxzn/china_may_be_ready_to_use_nuclear_fusion_for)
+ - RSS feed: $source
+ - date published: 2025-03-04T19:58:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j3jxzn/china_may_be_ready_to_use_nuclear_fusion_for/"> <img src="https://external-preview.redd.it/LOYPHHrXtMGCbV8Vf37tFX1Dk2rq9KOBpU_hPQsz2u0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ccaa6e60f2385f9be3acf89f7a61e890312abf13" alt="China May Be Ready to Use Nuclear Fusion for Power by 2050" title="China May Be Ready to Use Nuclear Fusion for Power by 2050" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mepper"> /u/mepper </a> <br/> <span><a href="https://finance.yahoo.com/news/china-may-ready-nuclear-fusion-023752498.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j3jxzn/china_may_be_ready_to_use_nuclear_fusion_for/">[comments]</a></span> </td></tr></table>
+
+## YouTube will soon restrict creators from mentioning certain online gambling sites | It may also restrict online gambling content for users under 18.
+ - [https://www.reddit.com/r/technology/comments/1j3j0eb/youtube_will_soon_restrict_creators_from](https://www.reddit.com/r/technology/comments/1j3j0eb/youtube_will_soon_restrict_creators_from)
+ - RSS feed: $source
+ - date published: 2025-03-04T19:20:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j3j0eb/youtube_will_soon_restrict_creators_from/"> <img src="https://external-preview.redd.it/nDROsiYfsWSYnXfDrhUkMjbIILsa_4zjNFoSqSSM-6w.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5bbbd12c635d16e07e674cc2c8a50b978fc4abac" alt="YouTube will soon restrict creators from mentioning certain online gambling sites | It may also restrict online gambling content for users under 18." title="YouTube will soon restrict creators from mentioning certain online gambling sites | It may also restrict online gambling content for users under 18." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ControlCAD"> /u/ControlCAD </a> <br/> <span><a href="https://www.theverge.com/news/623985/youtube-online-gambling-rules-restrictions">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j3j0eb/youtube_will_soon_restrict_creators_from/">[comments]</a></span> </td></tr></ta
+
+## China aims to add 200 GW in renewables
+ - [https://www.reddit.com/r/technology/comments/1j3iucd/china_aims_to_add_200_gw_in_renewables](https://www.reddit.com/r/technology/comments/1j3iucd/china_aims_to_add_200_gw_in_renewables)
+ - RSS feed: $source
+ - date published: 2025-03-04T19:13:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j3iucd/china_aims_to_add_200_gw_in_renewables/"> <img src="https://external-preview.redd.it/zqiYcia87RHJNzxVBmKZMZxK8010CAQcEyD75MrWafg.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2a4f6b4c1318fa1b83f9763bc64e2e1c3b805b55" alt="China aims to add 200 GW in renewables" title="China aims to add 200 GW in renewables" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.solardaily.com/m/reports/Nation_aims_to_add_200_GW_in_renewables_999.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j3iucd/china_aims_to_add_200_gw_in_renewables/">[comments]</a></span> </td></tr></table>
+
+## Scientists aiming to bring back woolly mammoth create woolly mice
+ - [https://www.reddit.com/r/technology/comments/1j3ifxy/scientists_aiming_to_bring_back_woolly_mammoth](https://www.reddit.com/r/technology/comments/1j3ifxy/scientists_aiming_to_bring_back_woolly_mammoth)
+ - RSS feed: $source
+ - date published: 2025-03-04T18:57:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j3ifxy/scientists_aiming_to_bring_back_woolly_mammoth/"> <img src="https://external-preview.redd.it/mj1fkxoLL8gx4RaKc4HZ6Dvz2GgwGe--aaB2nns6fIU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32a78602f8c707b02484169c9ed1473cf987d315" alt="Scientists aiming to bring back woolly mammoth create woolly mice" title="Scientists aiming to bring back woolly mammoth create woolly mice" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/YesNo_Maybe_"> /u/YesNo_Maybe_ </a> <br/> <span><a href="https://www.theguardian.com/science/2025/mar/04/genetically-modified-woolly-mice-mammoth">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j3ifxy/scientists_aiming_to_bring_back_woolly_mammoth/">[comments]</a></span> </td></tr></table>
+
+## The Israeli Military Is One of Microsoft's Top AI Customers, Leaked Documents Reveal
+ - [https://www.reddit.com/r/technology/comments/1j3hhrc/the_israeli_military_is_one_of_microsofts_top_ai](https://www.reddit.com/r/technology/comments/1j3hhrc/the_israeli_military_is_one_of_microsofts_top_ai)
+ - RSS feed: $source
+ - date published: 2025-03-04T18:19:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j3hhrc/the_israeli_military_is_one_of_microsofts_top_ai/"> <img src="https://external-preview.redd.it/qR6rQRbsewH3RZeNCeVsiV_sPi1XVaXJtVCWwKdAWaU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7d5d789415d4cfc13c398aec0aa4587d94b958f6" alt="The Israeli Military Is One of Microsoft's Top AI Customers, Leaked Documents Reveal" title="The Israeli Military Is One of Microsoft's Top AI Customers, Leaked Documents Reveal" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SaveDnet-FRed0"> /u/SaveDnet-FRed0 </a> <br/> <span><a href="https://www.dropsitenews.com/p/microsoft-azure-israel-top-customer-ai-cloud?link_id=4&amp;can_id=e75bb10909edf521c6363d3b56c86337&amp;source=email-microsoft-has-blood-on-its-hands-2&amp;email_referrer=email_2640424&amp;email_subject=microsoft-has-blood-on-its-hands">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j3hhrc/the_i
+
+## Facebook Cybertruck Owners Group Copes With Relentless Mockery
+ - [https://www.reddit.com/r/technology/comments/1j3faro/facebook_cybertruck_owners_group_copes_with](https://www.reddit.com/r/technology/comments/1j3faro/facebook_cybertruck_owners_group_copes_with)
+ - RSS feed: $source
+ - date published: 2025-03-04T16:51:32+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j3faro/facebook_cybertruck_owners_group_copes_with/"> <img src="https://external-preview.redd.it/5XK_sXv_ESxJgSe0Z3XhxJO-0XhIHJ_C8xECOdXHKHs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=10e2a6786224ea19d12c73259ebdd59f39680e62" alt="Facebook Cybertruck Owners Group Copes With Relentless Mockery" title="Facebook Cybertruck Owners Group Copes With Relentless Mockery" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mindwolf"> /u/Mindwolf </a> <br/> <span><a href="https://www.404media.co/email/5fe4b793-d6df-4a2d-a524-4cee94ff7d74">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j3faro/facebook_cybertruck_owners_group_copes_with/">[comments]</a></span> </td></tr></table>
+
+## Tesla China shipments tumble, the latest sign of weakening demand
+ - [https://www.reddit.com/r/technology/comments/1j3f8ed/tesla_china_shipments_tumble_the_latest_sign_of](https://www.reddit.com/r/technology/comments/1j3f8ed/tesla_china_shipments_tumble_the_latest_sign_of)
+ - RSS feed: $source
+ - date published: 2025-03-04T16:48:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j3f8ed/tesla_china_shipments_tumble_the_latest_sign_of/"> <img src="https://external-preview.redd.it/kwwsfVHXSGrANclbEx08V8cV9aMGWE8gI874Ovpid5E.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b13b48eae4c8447afacfec0ff9a035432289de3d" alt="Tesla China shipments tumble, the latest sign of weakening demand" title="Tesla China shipments tumble, the latest sign of weakening demand" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://finance.yahoo.com/news/tesla-china-shipments-tumble-the-latest-sign-of-weakening-demand-150013459.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j3f8ed/tesla_china_shipments_tumble_the_latest_sign_of/">[comments]</a></span> </td></tr></table>
+
+## Brother accused of locking down third-party printer ink cartridges via forced firmware updates, removing older firmware versions from support portals
+ - [https://www.reddit.com/r/technology/comments/1j3dt63/brother_accused_of_locking_down_thirdparty](https://www.reddit.com/r/technology/comments/1j3dt63/brother_accused_of_locking_down_thirdparty)
+ - RSS feed: $source
+ - date published: 2025-03-04T15:50:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j3dt63/brother_accused_of_locking_down_thirdparty/"> <img src="https://external-preview.redd.it/cgmXvNoVqTb114eAuZI7liNM0QHEoC8gO_99RVAQeUY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb76225389abc8d0da5e6e408b1c58a2b1543d27" alt="Brother accused of locking down third-party printer ink cartridges via forced firmware updates, removing older firmware versions from support portals" title="Brother accused of locking down third-party printer ink cartridges via forced firmware updates, removing older firmware versions from support portals" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-down-third-party-printer-ink-cartridges-via-firmware-updates-removing-older-firmware-versions-from-support-portals">[link]</a></span> &#32; <span><a href="https://www.reddit
+
+## Taiwan vows most advanced tech will not go to US under $100bn Trump deal | Technology sector
+ - [https://www.reddit.com/r/technology/comments/1j3deig/taiwan_vows_most_advanced_tech_will_not_go_to_us](https://www.reddit.com/r/technology/comments/1j3deig/taiwan_vows_most_advanced_tech_will_not_go_to_us)
+ - RSS feed: $source
+ - date published: 2025-03-04T15:32:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j3deig/taiwan_vows_most_advanced_tech_will_not_go_to_us/"> <img src="https://external-preview.redd.it/1rMwpNCJvjuWMsRLaI5EkULWAJAFxzGazdeXhaazabA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f180ddef66aa9bac40dd8acacad04833831910aa" alt="Taiwan vows most advanced tech will not go to US under $100bn Trump deal | Technology sector" title="Taiwan vows most advanced tech will not go to US under $100bn Trump deal | Technology sector" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CASHOWL"> /u/CASHOWL </a> <br/> <span><a href="https://www.theguardian.com/business/2025/mar/04/taiwan-trump-semiconductor-deal-tsmc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j3deig/taiwan_vows_most_advanced_tech_will_not_go_to_us/">[comments]</a></span> </td></tr></table>
+
+## Canada to Cut Off Electricity to US States: 'Need to Feel the Pain'
+ - [https://www.reddit.com/r/technology/comments/1j3cldq/canada_to_cut_off_electricity_to_us_states_need](https://www.reddit.com/r/technology/comments/1j3cldq/canada_to_cut_off_electricity_to_us_states_need)
+ - RSS feed: $source
+ - date published: 2025-03-04T14:56:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j3cldq/canada_to_cut_off_electricity_to_us_states_need/"> <img src="https://external-preview.redd.it/XhSGj5MhJxYN31TDqOn4qdkgKaIFXeUUd3Oy11SakO8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=255042cf2816a2843d72e88be1d42bc15d139fdd" alt="Canada to Cut Off Electricity to US States: 'Need to Feel the Pain'" title="Canada to Cut Off Electricity to US States: 'Need to Feel the Pain'" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.newsweek.com/canada-cut-off-electricity-us-states-need-feel-pain-2039125">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j3cldq/canada_to_cut_off_electricity_to_us_states_need/">[comments]</a></span> </td></tr></table>
+
+## FCC Boss Brendan Carr ‘Investigating’ Verizon For Not Being Racist Enough
+ - [https://www.reddit.com/r/technology/comments/1j3cdtx/fcc_boss_brendan_carr_investigating_verizon_for](https://www.reddit.com/r/technology/comments/1j3cdtx/fcc_boss_brendan_carr_investigating_verizon_for)
+ - RSS feed: $source
+ - date published: 2025-03-04T14:47:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j3cdtx/fcc_boss_brendan_carr_investigating_verizon_for/"> <img src="https://external-preview.redd.it/wKm0XDzoASM6BrarQXoG18WnZ5CIUPM3ZBe5zppuyFw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60f612dc25b6693520e6d4a342645939506f3afd" alt="FCC Boss Brendan Carr ‘Investigating’ Verizon For Not Being Racist Enough" title="FCC Boss Brendan Carr ‘Investigating’ Verizon For Not Being Racist Enough" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/indig0sixalpha"> /u/indig0sixalpha </a> <br/> <span><a href="https://www.techdirt.com/2025/03/04/fcc-boss-brendan-carr-investigating-verizon-for-not-being-racist-enough/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j3cdtx/fcc_boss_brendan_carr_investigating_verizon_for/">[comments]</a></span> </td></tr></table>
+
+## Nvidia GeForce RTX 5070 review: No, it’s not “4090 performance at $549”
+ - [https://www.reddit.com/r/technology/comments/1j3c3st/nvidia_geforce_rtx_5070_review_no_its_not_4090](https://www.reddit.com/r/technology/comments/1j3c3st/nvidia_geforce_rtx_5070_review_no_its_not_4090)
+ - RSS feed: $source
+ - date published: 2025-03-04T14:33:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j3c3st/nvidia_geforce_rtx_5070_review_no_its_not_4090/"> <img src="https://external-preview.redd.it/VCixaPaZ4dRNg80LlJ2opZ8hX25vn5xMU1BkitG_NWY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c59751f61fa5b06fa7f9841460497cd18223f059" alt="Nvidia GeForce RTX 5070 review: No, it’s not “4090 performance at $549”" title="Nvidia GeForce RTX 5070 review: No, it’s not “4090 performance at $549”" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/spasticpat"> /u/spasticpat </a> <br/> <span><a href="https://arstechnica.com/gadgets/2025/03/nvidia-geforce-rtx-5070-review-no-its-not-4090-performance-at-549/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j3c3st/nvidia_geforce_rtx_5070_review_no_its_not_4090/">[comments]</a></span> </td></tr></table>
+
+## Best Buy CEO warns price increases are 'highly likely' after Trump tariffs
+ - [https://www.reddit.com/r/technology/comments/1j3bthd/best_buy_ceo_warns_price_increases_are_highly](https://www.reddit.com/r/technology/comments/1j3bthd/best_buy_ceo_warns_price_increases_are_highly)
+ - RSS feed: $source
+ - date published: 2025-03-04T14:20:09+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j3bthd/best_buy_ceo_warns_price_increases_are_highly/"> <img src="https://external-preview.redd.it/jGgapnhppb3X5QstzSIPySamJfDSFnsSDIFLaXinUcg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f1967e622d7d1c8ac31b0fa13f7aa4306940652" alt="Best Buy CEO warns price increases are 'highly likely' after Trump tariffs" title="Best Buy CEO warns price increases are 'highly likely' after Trump tariffs" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/24identity"> /u/24identity </a> <br/> <span><a href="https://www.cnbc.com/2025/03/04/best-buy-bby-q4-2025-earnings.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j3bthd/best_buy_ceo_warns_price_increases_are_highly/">[comments]</a></span> </td></tr></table>
+
+## DOGE Prepares to Cancel Lease for Vital Weather Forecasting Center | Who needs weather forecasts anyway?
+ - [https://www.reddit.com/r/technology/comments/1j3b62o/doge_prepares_to_cancel_lease_for_vital_weather](https://www.reddit.com/r/technology/comments/1j3b62o/doge_prepares_to_cancel_lease_for_vital_weather)
+ - RSS feed: $source
+ - date published: 2025-03-04T13:49:25+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j3b62o/doge_prepares_to_cancel_lease_for_vital_weather/"> <img src="https://external-preview.redd.it/V-Wa6ged-OLYk9dxLsyXqGmzeLwL26e8rqmkb_-RPrY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=584bbd69b037a04b97dc107810499ace28a06a10" alt="DOGE Prepares to Cancel Lease for Vital Weather Forecasting Center | Who needs weather forecasts anyway?" title="DOGE Prepares to Cancel Lease for Vital Weather Forecasting Center | Who needs weather forecasts anyway?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://gizmodo.com/doge-prepares-to-cancel-lease-for-vital-weather-forecasting-center-2000571081">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j3b62o/doge_prepares_to_cancel_lease_for_vital_weather/">[comments]</a></span> </td></tr></table>
+
+## Tesla electric car sales plunge again in Australia – Model 3 down more than 81 per cent
+ - [https://www.reddit.com/r/technology/comments/1j384ue/tesla_electric_car_sales_plunge_again_in](https://www.reddit.com/r/technology/comments/1j384ue/tesla_electric_car_sales_plunge_again_in)
+ - RSS feed: $source
+ - date published: 2025-03-04T10:50:43+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j384ue/tesla_electric_car_sales_plunge_again_in/"> <img src="https://external-preview.redd.it/v6jFznWVYi179bV813vAgEJrdCo1m57-eppfTL1cflc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7176ec8b3588d02ed45c7872755b53c0cdc2f73a" alt="Tesla electric car sales plunge again in Australia – Model 3 down more than 81 per cent" title="Tesla electric car sales plunge again in Australia – Model 3 down more than 81 per cent" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://thedriven.io/2025/03/04/tesla-electric-car-sales-plunge-again-in-australia-model-3-down-more-than-81-per-cent/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j384ue/tesla_electric_car_sales_plunge_again_in/">[comments]</a></span> </td></tr></table>
+
+## Polestar Extends Tesla Conquest Cash Through March
+ - [https://www.reddit.com/r/technology/comments/1j37qop/polestar_extends_tesla_conquest_cash_through_march](https://www.reddit.com/r/technology/comments/1j37qop/polestar_extends_tesla_conquest_cash_through_march)
+ - RSS feed: $source
+ - date published: 2025-03-04T10:22:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j37qop/polestar_extends_tesla_conquest_cash_through_march/"> <img src="https://external-preview.redd.it/8DoGGLShsp8mbyMeW1flBLcg3tEXZnHYHsOk0cHjg2k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d309841641b23e554496d46ffaffde157cc474cb" alt="Polestar Extends Tesla Conquest Cash Through March" title="Polestar Extends Tesla Conquest Cash Through March" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Wagamaga"> /u/Wagamaga </a> <br/> <span><a href="https://www.thetruthaboutcars.com/cars/news-blog/polestar-extends-tesla-conquest-cash-through-march-44512390">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j37qop/polestar_extends_tesla_conquest_cash_through_march/">[comments]</a></span> </td></tr></table>
+
+## The LA Times published an op-ed warning of AI’s dangers. It also published its AI tool’s reply
+ - [https://www.reddit.com/r/technology/comments/1j372tg/the_la_times_published_an_oped_warning_of_ais](https://www.reddit.com/r/technology/comments/1j372tg/the_la_times_published_an_oped_warning_of_ais)
+ - RSS feed: $source
+ - date published: 2025-03-04T09:33:19+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j372tg/the_la_times_published_an_oped_warning_of_ais/"> <img src="https://external-preview.redd.it/fAXTAO2CCsOaLuEKqnKLf4Ezt8thq8MaueFzWRRvCQ4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e3c325b38b7ae2c556d96645df520898e8e399b3" alt="The LA Times published an op-ed warning of AI’s dangers. It also published its AI tool’s reply" title="The LA Times published an op-ed warning of AI’s dangers. It also published its AI tool’s reply" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PauloPatricio"> /u/PauloPatricio </a> <br/> <span><a href="https://www.theguardian.com/us-news/2025/mar/03/la-times-op-ed-ai-generated-message">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j372tg/the_la_times_published_an_oped_warning_of_ais/">[comments]</a></span> </td></tr></table>
+
+## Global sales of combustion engine cars have peaked
+ - [https://www.reddit.com/r/technology/comments/1j33y4f/global_sales_of_combustion_engine_cars_have_peaked](https://www.reddit.com/r/technology/comments/1j33y4f/global_sales_of_combustion_engine_cars_have_peaked)
+ - RSS feed: $source
+ - date published: 2025-03-04T05:43:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j33y4f/global_sales_of_combustion_engine_cars_have_peaked/"> <img src="https://external-preview.redd.it/C1G0Tz4wXsbxeNNYYsdU7UD60ERW4yWEf1xPAHdzf-o.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=224bd69a57f40658514afdc8dc671e834cddf893" alt="Global sales of combustion engine cars have peaked" title="Global sales of combustion engine cars have peaked" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nimicdoareu"> /u/nimicdoareu </a> <br/> <span><a href="https://ourworldindata.org/data-insights/global-sales-of-combustion-engine-cars-have-peaked">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j33y4f/global_sales_of_combustion_engine_cars_have_peaked/">[comments]</a></span> </td></tr></table>
+
+## Nvidia warns of growing competition from China's Huawei, despite U.S. sanctions
+ - [https://www.reddit.com/r/technology/comments/1j33kt5/nvidia_warns_of_growing_competition_from_chinas](https://www.reddit.com/r/technology/comments/1j33kt5/nvidia_warns_of_growing_competition_from_chinas)
+ - RSS feed: $source
+ - date published: 2025-03-04T05:20:30+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j33kt5/nvidia_warns_of_growing_competition_from_chinas/"> <img src="https://external-preview.redd.it/fBOXu13M1K3FzG3GY_Rx3hLmRbYmmUYU-mdObfLzv5Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ed5d574644ed86a0456c8c1a6446895e0629d953" alt="Nvidia warns of growing competition from China's Huawei, despite U.S. sanctions" title="Nvidia warns of growing competition from China's Huawei, despite U.S. sanctions" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Potential-Focus3211"> /u/Potential-Focus3211 </a> <br/> <span><a href="https://www.cnbc.com/2025/02/27/nvidia-warns-of-competition-from-china-huawei-despite-us-sanctions.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j33kt5/nvidia_warns_of_growing_competition_from_chinas/">[comments]</a></span> </td></tr></table>
+
+## From MAGA to monarchy: How tech billionaires are engineering American autocracy
+ - [https://www.reddit.com/r/technology/comments/1j32lij/from_maga_to_monarchy_how_tech_billionaires_are](https://www.reddit.com/r/technology/comments/1j32lij/from_maga_to_monarchy_how_tech_billionaires_are)
+ - RSS feed: $source
+ - date published: 2025-03-04T04:23:51+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j32lij/from_maga_to_monarchy_how_tech_billionaires_are/"> <img src="https://external-preview.redd.it/deAzsGi7rS3BZnVjVdm5jKUiApp9dPh73oXy6wHAJOk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d23d5b4a1d877ba570b0f74280bf585a232d77f" alt="From MAGA to monarchy: How tech billionaires are engineering American autocracy" title="From MAGA to monarchy: How tech billionaires are engineering American autocracy" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MouthwashProphet"> /u/MouthwashProphet </a> <br/> <span><a href="https://www.salon.com/2025/02/26/from-maga-to-monarchy-how-tech-billionaires-are-engineering-american-autocracy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j32lij/from_maga_to_monarchy_how_tech_billionaires_are/">[comments]</a></span> </td></tr></table>
+
+## Flights to Reagan National Airport in D.C. receive false collision alerts while landing
+ - [https://www.reddit.com/r/technology/comments/1j30xkq/flights_to_reagan_national_airport_in_dc_receive](https://www.reddit.com/r/technology/comments/1j30xkq/flights_to_reagan_national_airport_in_dc_receive)
+ - RSS feed: $source
+ - date published: 2025-03-04T02:57:06+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j30xkq/flights_to_reagan_national_airport_in_dc_receive/"> <img src="https://external-preview.redd.it/apNm08Re7JixJDUZYrsa3EsYOZS-elpIPcXHfdzXT0A.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=55fe8904c32a2312c2e82f125710be8622d6952a" alt="Flights to Reagan National Airport in D.C. receive false collision alerts while landing" title="Flights to Reagan National Airport in D.C. receive false collision alerts while landing" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Shogouki"> /u/Shogouki </a> <br/> <span><a href="https://www.cbsnews.com/news/dc-airport-false-collision-alerts/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j30xkq/flights_to_reagan_national_airport_in_dc_receive/">[comments]</a></span> </td></tr></table>
+
+## Auto industry braces for a blow from 25% tariffs on Canada and Mexico
+ - [https://www.reddit.com/r/technology/comments/1j30ow8/auto_industry_braces_for_a_blow_from_25_tariffs](https://www.reddit.com/r/technology/comments/1j30ow8/auto_industry_braces_for_a_blow_from_25_tariffs)
+ - RSS feed: $source
+ - date published: 2025-03-04T02:44:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j30ow8/auto_industry_braces_for_a_blow_from_25_tariffs/"> <img src="https://external-preview.redd.it/ypQpAsyXYQHW_J34SBISuaaTKCeTn03mJ2v2YxRQbTk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9ddc1f78d06201369845f85269e34bd041a313f" alt="Auto industry braces for a blow from 25% tariffs on Canada and Mexico" title="Auto industry braces for a blow from 25% tariffs on Canada and Mexico" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ControlCAD"> /u/ControlCAD </a> <br/> <span><a href="https://www.npr.org/2025/03/03/nx-s1-5316162/trump-tariffs-canada-mexico-cars-auto-industry">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j30ow8/auto_industry_braces_for_a_blow_from_25_tariffs/">[comments]</a></span> </td></tr></table>
+
+## Judges Are Fed up With Lawyers Using AI That Hallucinate Court Cases | Another lawyer was caught using AI and not checking the output for accuracy, while a previously-reported case just got hit with sanctions.
+ - [https://www.reddit.com/r/technology/comments/1j2yazb/judges_are_fed_up_with_lawyers_using_ai_that](https://www.reddit.com/r/technology/comments/1j2yazb/judges_are_fed_up_with_lawyers_using_ai_that)
+ - RSS feed: $source
+ - date published: 2025-03-04T00:42:28+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j2yazb/judges_are_fed_up_with_lawyers_using_ai_that/"> <img src="https://external-preview.redd.it/dvQ7zKyoq3OnO2641xO2f5xOL04QTDzu2d5sTuWtesg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=33bd186ea6d4a7bc0b0cab05a9985c2fdb935764" alt="Judges Are Fed up With Lawyers Using AI That Hallucinate Court Cases | Another lawyer was caught using AI and not checking the output for accuracy, while a previously-reported case just got hit with sanctions." title="Judges Are Fed up With Lawyers Using AI That Hallucinate Court Cases | Another lawyer was caught using AI and not checking the output for accuracy, while a previously-reported case just got hit with sanctions." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.404media.co/ai-lawyer-hallucination-sanctions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/tech
+
+## Trump purge hits Chips Act office, two-fifths of staff to be terminated | Two-fifths of the staff of the U.S. Chips Program Office are to be terminated, with 60 employees leaving today.
+ - [https://www.reddit.com/r/technology/comments/1j2xwzz/trump_purge_hits_chips_act_office_twofifths_of](https://www.reddit.com/r/technology/comments/1j2xwzz/trump_purge_hits_chips_act_office_twofifths_of)
+ - RSS feed: $source
+ - date published: 2025-03-04T00:23:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j2xwzz/trump_purge_hits_chips_act_office_twofifths_of/"> <img src="https://external-preview.redd.it/7unpCh6UUdh_evDBw-fwo17dVF87TohD-yULmNI1Ga4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce6c926031afe3eebaae18f72646aeafc920e83c" alt="Trump purge hits Chips Act office, two-fifths of staff to be terminated | Two-fifths of the staff of the U.S. Chips Program Office are to be terminated, with 60 employees leaving today." title="Trump purge hits Chips Act office, two-fifths of staff to be terminated | Two-fifths of the staff of the U.S. Chips Program Office are to be terminated, with 60 employees leaving today." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chrisdh79"> /u/chrisdh79 </a> <br/> <span><a href="https://www.tomshardware.com/tech-industry/trump-purge-hits-chips-act-office-two-fifths-of-staff-to-be-terminated-report">[link]</a></span> &#32; <span><a href="https://www.r
+
+## Federal Aviation Administration directed staff to locate tens of millions of dollars for a Starlink deal: sources
+ - [https://www.reddit.com/r/technology/comments/1j2xs8m/federal_aviation_administration_directed_staff_to](https://www.reddit.com/r/technology/comments/1j2xs8m/federal_aviation_administration_directed_staff_to)
+ - RSS feed: $source
+ - date published: 2025-03-04T00:17:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/technology/comments/1j2xs8m/federal_aviation_administration_directed_staff_to/"> <img src="https://external-preview.redd.it/g7dZ2_vFTJS8g8fRs9NqIbwwXPUDjTva5RY-fD9bhpQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6043cd93e04a100e4145ee4524bb144f4ed2fda5" alt="Federal Aviation Administration directed staff to locate tens of millions of dollars for a Starlink deal: sources" title="Federal Aviation Administration directed staff to locate tens of millions of dollars for a Starlink deal: sources" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/marketrent"> /u/marketrent </a> <br/> <span><a href="https://www.rollingstone.com/politics/politics-features/elon-musk-starlink-faa-officials-find-funding-1235285246/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/technology/comments/1j2xs8m/federal_aviation_administration_directed_staff_to/">[comments]</a></span> </td></tr></table>
+

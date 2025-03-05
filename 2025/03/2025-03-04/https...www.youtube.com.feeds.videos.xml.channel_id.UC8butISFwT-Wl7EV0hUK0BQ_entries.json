@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-04T14:56:12+00:00",
+        "description": "In this Unity tutorial for beginners, you will learn to create your own MMO game with C# and SpacetimeDB. You will learn to create the game from scratch, inspired by agar.io.\n\nTutorial code: https://github.com/beaucarnes/blackholio\nFull game code: https://github.com/ClockworkLabs/Blackholio\n\nSign up for SpacetimeDB: https://spacetimedb.com/\n\nSpacetimeDB GitHub: https://github.com/ClockworkLabs/SpacetimeDB\n\nImport the SpacetimeDB Unity SDK: https://github.com/clockworklabs/com.clockworklabs.spacetimedbsdk.git\n\n\ud83c\udfd7\ufe0f SpacetimeDB for provided a grant to make this course possible. \n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Introduction\n\u2328\ufe0f (0:01:24) Setup Project\n\u2328\ufe0f (0:07:02) Connecting to SpacetimeDB\n\u2328\ufe0f (0:29:34) Implementing Gameplay\n\u2328\ufe0f (1:10:26) Moving and Colliding\n\n\ud83c\udf89 Thanks to our Champion and Sponsor supporters:\n\ud83d\udc7e Drake Milly\n\ud83d\udc7e Ulises Moralez\n\ud83d\udc7e Goddard Tan\n\ud83d\udc7e David MG\n\ud83d\udc7e Matthew Springman\n\ud83d\udc7e Claudio\n\ud83d\udc7e Oscar R.\n\ud83d\udc7e jedi-or-sith\n\ud83d\udc7e Nattira Maneerat\n\ud83d\udc7e Justin Hual\n\n--\n\nLearn to code for free and get a develo",
+        "id": 2242074,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=msVwc0IwYl0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/msVwc0IwYl0/hqdefault.jpg",
+        "title": "Unity Tutorial \u2013 Massive Multiplayer Online (MMO) Game with SpacetimeDB",
+        "vote": 0
+    }
+]

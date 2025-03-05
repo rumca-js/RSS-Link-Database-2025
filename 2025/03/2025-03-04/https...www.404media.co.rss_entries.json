@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-04T15:39:39+00:00",
+        "description": "A Facebook group for Cybertruck owners is full of videos of people flicking off Cybertrucks.",
+        "id": 2240903,
+        "language": null,
+        "link": "https://www.404media.co/facebook-cybertruck-owners-group-copes-with-relentless-mockery",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/03/CleanShot-2025-03-04-at-07.21.09@2x.png",
+        "title": "Facebook Cybertruck Owners Group Copes With Relentless Mockery",
+        "vote": 0
+    }
+]

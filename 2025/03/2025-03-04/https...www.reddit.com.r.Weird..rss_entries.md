@@ -1,0 +1,149 @@
+# Source:Weird, URL:https://www.reddit.com/r/Weird/.rss, language:en
+
+## Honda Tesla Civic
+ - [https://www.reddit.com/r/Weird/comments/1j3ovqs/honda_tesla_civic](https://www.reddit.com/r/Weird/comments/1j3ovqs/honda_tesla_civic)
+ - RSS feed: $source
+ - date published: 2025-03-04T23:27:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3ovqs/honda_tesla_civic/"> <img src="https://preview.redd.it/qe1baa5xbrme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1aa1a1886dbb970c9827034d02ff92faa9c68492" alt="Honda Tesla Civic" title="Honda Tesla Civic" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/SchemeDifferent9082"> /u/SchemeDifferent9082 </a> <br/> <span><a href="https://i.redd.it/qe1baa5xbrme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j3ovqs/honda_tesla_civic/">[comments]</a></span> </td></tr></table>
+
+## There is a carrot in my salsa. The ingredients don't say anything about carrots.
+ - [https://www.reddit.com/r/Weird/comments/1j3og50/there_is_a_carrot_in_my_salsa_the_ingredients](https://www.reddit.com/r/Weird/comments/1j3og50/there_is_a_carrot_in_my_salsa_the_ingredients)
+ - RSS feed: $source
+ - date published: 2025-03-04T23:08:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3og50/there_is_a_carrot_in_my_salsa_the_ingredients/"> <img src="https://b.thumbs.redditmedia.com/k2gtVss1V8wF-sp3-MZ0n8vkxGcsMx4Azjtb8GG7B2s.jpg" alt="There is a carrot in my salsa. The ingredients don't say anything about carrots." title="There is a carrot in my salsa. The ingredients don't say anything about carrots." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bu5gerg85x"> /u/bu5gerg85x </a> <br/> <span><a href="https://www.reddit.com/gallery/1j3og50">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j3og50/there_is_a_carrot_in_my_salsa_the_ingredients/">[comments]</a></span> </td></tr></table>
+
+## Bought my first home a couple weeks ago. Never checked out the attic until the other night. This was the only thing in it.
+ - [https://www.reddit.com/r/Weird/comments/1j3nr3b/bought_my_first_home_a_couple_weeks_ago_never](https://www.reddit.com/r/Weird/comments/1j3nr3b/bought_my_first_home_a_couple_weeks_ago_never)
+ - RSS feed: $source
+ - date published: 2025-03-04T22:37:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3nr3b/bought_my_first_home_a_couple_weeks_ago_never/"> <img src="https://preview.redd.it/yxp3eyb33rme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d0d1fcb7ac84f5da382f55ea72de3976af570332" alt="Bought my first home a couple weeks ago. Never checked out the attic until the other night. This was the only thing in it." title="Bought my first home a couple weeks ago. Never checked out the attic until the other night. This was the only thing in it." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Gholdengod"> /u/Gholdengod </a> <br/> <span><a href="https://i.redd.it/yxp3eyb33rme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j3nr3b/bought_my_first_home_a_couple_weeks_ago_never/">[comments]</a></span> </td></tr></table>
+
+## Blood on the back of my shirt after a wash. We can’t find out how it got there, I have never been injured there.
+ - [https://www.reddit.com/r/Weird/comments/1j3l2xu/blood_on_the_back_of_my_shirt_after_a_wash_we](https://www.reddit.com/r/Weird/comments/1j3l2xu/blood_on_the_back_of_my_shirt_after_a_wash_we)
+ - RSS feed: $source
+ - date published: 2025-03-04T20:45:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3l2xu/blood_on_the_back_of_my_shirt_after_a_wash_we/"> <img src="https://preview.redd.it/j8damqi2jqme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1dfc3134b750e05f223e774308151aceedda0536" alt="Blood on the back of my shirt after a wash. We can’t find out how it got there, I have never been injured there." title="Blood on the back of my shirt after a wash. We can’t find out how it got there, I have never been injured there." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mothswritingeye"> /u/Mothswritingeye </a> <br/> <span><a href="https://i.redd.it/j8damqi2jqme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j3l2xu/blood_on_the_back_of_my_shirt_after_a_wash_we/">[comments]</a></span> </td></tr></table>
+
+## Cutout Image of a weird growth on Avocado Seed
+ - [https://www.reddit.com/r/Weird/comments/1j3kuaf/cutout_image_of_a_weird_growth_on_avocado_seed](https://www.reddit.com/r/Weird/comments/1j3kuaf/cutout_image_of_a_weird_growth_on_avocado_seed)
+ - RSS feed: $source
+ - date published: 2025-03-04T20:35:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3kuaf/cutout_image_of_a_weird_growth_on_avocado_seed/"> <img src="https://preview.redd.it/bt82si29hqme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0464dc4ce2a33f02134ed0849600c03af7a3eb52" alt="Cutout Image of a weird growth on Avocado Seed" title="Cutout Image of a weird growth on Avocado Seed" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/highrankedwizard"> /u/highrankedwizard </a> <br/> <span><a href="https://i.redd.it/bt82si29hqme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j3kuaf/cutout_image_of_a_weird_growth_on_avocado_seed/">[comments]</a></span> </td></tr></table>
+
+## Update: Coworkers announced a funeral, so I made poor Snowbert's obituary.
+ - [https://www.reddit.com/r/Weird/comments/1j3kc39/update_coworkers_announced_a_funeral_so_i_made](https://www.reddit.com/r/Weird/comments/1j3kc39/update_coworkers_announced_a_funeral_so_i_made)
+ - RSS feed: $source
+ - date published: 2025-03-04T20:14:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3kc39/update_coworkers_announced_a_funeral_so_i_made/"> <img src="https://preview.redd.it/dz6gndvidqme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f7b297e994f983ef92a302feb731800f3f8ac89b" alt="Update: Coworkers announced a funeral, so I made poor Snowbert's obituary." title="Update: Coworkers announced a funeral, so I made poor Snowbert's obituary." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>The rest of the picture is removed due to privacy reasons, including details of his caretaker, Brenda and our place of employment. But let this be known, Snowbert is getting a proper funeral, with a luncheon, and a eulogy, because we&#39;re all kind of insane. Our work truly is the island of misfit toys.</p> <p>The obituary states:</p> <p>&quot;Not much is known about Mr. Snowman&#39;s beginnings, but his death has been just as exciting as we are sure his life was. Snowy was a beautiful soul, inside and out, and 
+
+## Repacking and found 290 YO coin in luggage
+ - [https://www.reddit.com/r/Weird/comments/1j3k4de/repacking_and_found_290_yo_coin_in_luggage](https://www.reddit.com/r/Weird/comments/1j3k4de/repacking_and_found_290_yo_coin_in_luggage)
+ - RSS feed: $source
+ - date published: 2025-03-04T20:05:47+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3k4de/repacking_and_found_290_yo_coin_in_luggage/"> <img src="https://b.thumbs.redditmedia.com/6nV6U3qy3jSaBPD0LH13JxM0RQwOt9Q2t5-1CJ227Ic.jpg" alt="Repacking and found 290 YO coin in luggage" title="Repacking and found 290 YO coin in luggage" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So I am home for five days in between trips. Just pulled out my luggage to pack for the next trip and the only thing in what I thought was an empty suitcase is this British coin from -1736 (1756?). Google says it’s a George III coin but pretty sure it’s a George II. Not worth a lot but very strange sine r I don’t have or collect old coins. I came from Houston. Pretty sure the bag was empty before I stored it and it’s was used recently. I do buy a lot of my clothes used from ebay and estate sales but everything I wore had been washed before. All my shoes are pretty new. Weird. </p> </div><!-- SC_ON --> &#32; submitted by &#32; 
+
+## Found another one in the rug
+ - [https://www.reddit.com/r/Weird/comments/1j3jgqv/found_another_one_in_the_rug](https://www.reddit.com/r/Weird/comments/1j3jgqv/found_another_one_in_the_rug)
+ - RSS feed: $source
+ - date published: 2025-03-04T19:38:57+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3jgqv/found_another_one_in_the_rug/"> <img src="https://preview.redd.it/1cxnx4z57qme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7b254a89a23ee43103d21497a61bf41e8a787f26" alt="Found another one in the rug" title="Found another one in the rug" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Repulsive_Sky5150"> /u/Repulsive_Sky5150 </a> <br/> <span><a href="https://i.redd.it/1cxnx4z57qme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j3jgqv/found_another_one_in_the_rug/">[comments]</a></span> </td></tr></table>
+
+## what to heck is this?
+ - [https://www.reddit.com/r/Weird/comments/1j3jexz/what_to_heck_is_this](https://www.reddit.com/r/Weird/comments/1j3jexz/what_to_heck_is_this)
+ - RSS feed: $source
+ - date published: 2025-03-04T19:36:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3jexz/what_to_heck_is_this/"> <img src="https://preview.redd.it/4z2smoms6qme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c7807a589f221ab6b4a1c3a2532dfa41d6956081" alt="what to heck is this?" title="what to heck is this?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>family moved into an old house and found this hairball??? thing in the attic. it appears to be multiple hair colors and might be wrapped around something more solid on the inside but we are afraid of messing with it anymore than we already have. is this witchcraft or something? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/sophaaG"> /u/sophaaG </a> <br/> <span><a href="https://i.redd.it/4z2smoms6qme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j3jexz/what_to_heck_is_this/">[comments]</a></span> </td></tr></table>
+
+## Egg Cooker Princess
+ - [https://www.reddit.com/r/Weird/comments/1j3iw1w/egg_cooker_princess](https://www.reddit.com/r/Weird/comments/1j3iw1w/egg_cooker_princess)
+ - RSS feed: $source
+ - date published: 2025-03-04T19:15:40+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3iw1w/egg_cooker_princess/"> <img src="https://preview.redd.it/zy4cg4qx2qme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5bfbdb89216843cc0136313669caf9c0111cb4d0" alt="Egg Cooker Princess" title="Egg Cooker Princess" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I&#39;ve never hatched a princess before.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/_Acidik_"> /u/_Acidik_ </a> <br/> <span><a href="https://i.redd.it/zy4cg4qx2qme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j3iw1w/egg_cooker_princess/">[comments]</a></span> </td></tr></table>
+
+## Bro got reincarnated as a tree.
+ - [https://www.reddit.com/r/Weird/comments/1j3iahg/bro_got_reincarnated_as_a_tree](https://www.reddit.com/r/Weird/comments/1j3iahg/bro_got_reincarnated_as_a_tree)
+ - RSS feed: $source
+ - date published: 2025-03-04T18:51:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3iahg/bro_got_reincarnated_as_a_tree/"> <img src="https://preview.redd.it/5b8s61rnypme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c97198f445bf27398e08027eed2bd63a2fa099a" alt="Bro got reincarnated as a tree." title="Bro got reincarnated as a tree." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DrFlacidious"> /u/DrFlacidious </a> <br/> <span><a href="https://i.redd.it/5b8s61rnypme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j3iahg/bro_got_reincarnated_as_a_tree/">[comments]</a></span> </td></tr></table>
+
+## My grandparents walls have animals on them
+ - [https://www.reddit.com/r/Weird/comments/1j3i7a8/my_grandparents_walls_have_animals_on_them](https://www.reddit.com/r/Weird/comments/1j3i7a8/my_grandparents_walls_have_animals_on_them)
+ - RSS feed: $source
+ - date published: 2025-03-04T18:47:54+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3i7a8/my_grandparents_walls_have_animals_on_them/"> <img src="https://b.thumbs.redditmedia.com/IT6cOBReHQQnQxgBtr7Fl_UIJ-frRJD2I-Rjc3PlKFI.jpg" alt="My grandparents walls have animals on them" title="My grandparents walls have animals on them" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Atonzarecool"> /u/Atonzarecool </a> <br/> <span><a href="https://www.reddit.com/gallery/1j3i7a8">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j3i7a8/my_grandparents_walls_have_animals_on_them/">[comments]</a></span> </td></tr></table>
+
+## What in the hell is this?
+ - [https://www.reddit.com/r/Weird/comments/1j3i35y/what_in_the_hell_is_this](https://www.reddit.com/r/Weird/comments/1j3i35y/what_in_the_hell_is_this)
+ - RSS feed: $source
+ - date published: 2025-03-04T18:43:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3i35y/what_in_the_hell_is_this/"> <img src="https://preview.redd.it/eb2ttrs5xpme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8440418b976f2678ff6e2d6632e328db6f420fc0" alt="What in the hell is this?" title="What in the hell is this?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Dead critter, fungus, afterbirth (or pre-birth)? Just some dude’s colon? The shit is this? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/slackfrop"> /u/slackfrop </a> <br/> <span><a href="https://i.redd.it/eb2ttrs5xpme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j3i35y/what_in_the_hell_is_this/">[comments]</a></span> </td></tr></table>
+
+## My long thumb
+ - [https://www.reddit.com/r/Weird/comments/1j3ghwf/my_long_thumb](https://www.reddit.com/r/Weird/comments/1j3ghwf/my_long_thumb)
+ - RSS feed: $source
+ - date published: 2025-03-04T17:39:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3ghwf/my_long_thumb/"> <img src="https://preview.redd.it/e4xuukxtlpme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a16ea6de0a5cc6f3b72ec46e9e201785cc777ba" alt="My long thumb" title="My long thumb" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/stefans03"> /u/stefans03 </a> <br/> <span><a href="https://i.redd.it/e4xuukxtlpme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j3ghwf/my_long_thumb/">[comments]</a></span> </td></tr></table>
+
+## Weird growth on my Avocado Seed
+ - [https://www.reddit.com/r/Weird/comments/1j3f7z7/weird_growth_on_my_avocado_seed](https://www.reddit.com/r/Weird/comments/1j3f7z7/weird_growth_on_my_avocado_seed)
+ - RSS feed: $source
+ - date published: 2025-03-04T16:48:29+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3f7z7/weird_growth_on_my_avocado_seed/"> <img src="https://a.thumbs.redditmedia.com/BThA7mKDArYl2zptw2K7BpIXSZ4tDwuP5qj41c_-QO0.jpg" alt="Weird growth on my Avocado Seed" title="Weird growth on my Avocado Seed" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/joshuamarius"> /u/joshuamarius </a> <br/> <span><a href="https://www.reddit.com/gallery/1j3f7z7">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j3f7z7/weird_growth_on_my_avocado_seed/">[comments]</a></span> </td></tr></table>
+
+## Giant Banana Car
+ - [https://www.reddit.com/r/Weird/comments/1j3f2fp/giant_banana_car](https://www.reddit.com/r/Weird/comments/1j3f2fp/giant_banana_car)
+ - RSS feed: $source
+ - date published: 2025-03-04T16:42:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3f2fp/giant_banana_car/"> <img src="https://preview.redd.it/m9yqubbnbpme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ece5a1773b76249ebd723bb98c951b67533f4b6" alt="Giant Banana Car" title="Giant Banana Car" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>This was parked beside me when I came out of Walmart last week. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Lasttogofirst"> /u/Lasttogofirst </a> <br/> <span><a href="https://i.redd.it/m9yqubbnbpme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j3f2fp/giant_banana_car/">[comments]</a></span> </td></tr></table>
+
+## Photo of some men in Australia with a bunch of mice they killed during the 1917 mouse invasion
+ - [https://www.reddit.com/r/Weird/comments/1j3eth1/photo_of_some_men_in_australia_with_a_bunch_of](https://www.reddit.com/r/Weird/comments/1j3eth1/photo_of_some_men_in_australia_with_a_bunch_of)
+ - RSS feed: $source
+ - date published: 2025-03-04T16:32:03+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3eth1/photo_of_some_men_in_australia_with_a_bunch_of/"> <img src="https://preview.redd.it/bupf37ht9pme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3da56aca588add8c84e32bccbce733131b1e6e6b" alt="Photo of some men in Australia with a bunch of mice they killed during the 1917 mouse invasion" title="Photo of some men in Australia with a bunch of mice they killed during the 1917 mouse invasion" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>The town of Lascelles killed three tons of mice in one single night-and even this was just a small part of the total population of that plague. By the plague&#39;s end, Lascelles had had to kill over a megaton of mice, a population that numbered an estimated 100 million. Lascelles had a human population at the time of just 94. That&#39;s a million mice per person.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kidd__Video"> /u/Kidd__V
+
+## On a local diner placemat, PA
+ - [https://www.reddit.com/r/Weird/comments/1j3e6oi/on_a_local_diner_placemat_pa](https://www.reddit.com/r/Weird/comments/1j3e6oi/on_a_local_diner_placemat_pa)
+ - RSS feed: $source
+ - date published: 2025-03-04T16:06:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3e6oi/on_a_local_diner_placemat_pa/"> <img src="https://preview.redd.it/audihsy55pme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4fca354675c9f21e34d35538c552b247eb6865b9" alt="On a local diner placemat, PA" title="On a local diner placemat, PA" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EmploymentOver4129"> /u/EmploymentOver4129 </a> <br/> <span><a href="https://i.redd.it/audihsy55pme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j3e6oi/on_a_local_diner_placemat_pa/">[comments]</a></span> </td></tr></table>
+
+## This weird discolouration has been on the tip of my thumb for a month now
+ - [https://www.reddit.com/r/Weird/comments/1j3a1dr/this_weird_discolouration_has_been_on_the_tip_of](https://www.reddit.com/r/Weird/comments/1j3a1dr/this_weird_discolouration_has_been_on_the_tip_of)
+ - RSS feed: $source
+ - date published: 2025-03-04T12:50:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3a1dr/this_weird_discolouration_has_been_on_the_tip_of/"> <img src="https://preview.redd.it/bts5i0586ome1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b7ef3cae5ffae7855faa2225b118021cb6e3d784" alt="This weird discolouration has been on the tip of my thumb for a month now" title="This weird discolouration has been on the tip of my thumb for a month now" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DotTraditional3096"> /u/DotTraditional3096 </a> <br/> <span><a href="https://i.redd.it/bts5i0586ome1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j3a1dr/this_weird_discolouration_has_been_on_the_tip_of/">[comments]</a></span> </td></tr></table>
+
+## sitting at the end of my road, I live in a small mountain town kind of in the middle of nowhere…
+ - [https://www.reddit.com/r/Weird/comments/1j3410m/sitting_at_the_end_of_my_road_i_live_in_a_small](https://www.reddit.com/r/Weird/comments/1j3410m/sitting_at_the_end_of_my_road_i_live_in_a_small)
+ - RSS feed: $source
+ - date published: 2025-03-04T05:49:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j3410m/sitting_at_the_end_of_my_road_i_live_in_a_small/"> <img src="https://preview.redd.it/vtj5v6933mme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a85358192a2669e2947d8e340fa57dccb7f236c9" alt="sitting at the end of my road, I live in a small mountain town kind of in the middle of nowhere…" title="sitting at the end of my road, I live in a small mountain town kind of in the middle of nowhere…" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/t0yotaMama"> /u/t0yotaMama </a> <br/> <span><a href="https://i.redd.it/vtj5v6933mme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j3410m/sitting_at_the_end_of_my_road_i_live_in_a_small/">[comments]</a></span> </td></tr></table>
+
+## Water in a bowl. What made the icicle?
+ - [https://www.reddit.com/r/Weird/comments/1j2z6hp/water_in_a_bowl_what_made_the_icicle](https://www.reddit.com/r/Weird/comments/1j2z6hp/water_in_a_bowl_what_made_the_icicle)
+ - RSS feed: $source
+ - date published: 2025-03-04T01:26:18+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Weird/comments/1j2z6hp/water_in_a_bowl_what_made_the_icicle/"> <img src="https://b.thumbs.redditmedia.com/-l9Ks2D77kjUbZFT9VA9p26rdnkgTVrp0pN37lH5rEw.jpg" alt="Water in a bowl. What made the icicle?" title="Water in a bowl. What made the icicle?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>There was a bowl of water setting on our grill side table the other night when temperatures got below 20 degrees. This bowl of water is not under any cover. So the icicle was not made from drips off the roof . Be interested to get everyone’s thought on how this icicle was made.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ContestProof1843"> /u/ContestProof1843 </a> <br/> <span><a href="https://www.reddit.com/gallery/1j2z6hp">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Weird/comments/1j2z6hp/water_in_a_bowl_what_made_the_icicle/">[comments]</a></span> </td></tr></table>
+

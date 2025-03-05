@@ -1,0 +1,135 @@
+# Source:DeGoogle - expel Google from your life, URL:https://www.reddit.com/r/degoogle/.rss, language:en
+
+## Breaking free from American big tech is hard, so I created a simple cheat sheet.
+ - [https://www.reddit.com/r/degoogle/comments/1j3k80t/breaking_free_from_american_big_tech_is_hard_so_i](https://www.reddit.com/r/degoogle/comments/1j3k80t/breaking_free_from_american_big_tech_is_hard_so_i)
+ - RSS feed: $source
+ - date published: 2025-03-04T20:10:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1j3k80t/breaking_free_from_american_big_tech_is_hard_so_i/"> <img src="https://preview.redd.it/zh3e33aulhme1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bdd60bac2e35401effa68adfae9074fcc70108ff" alt="Breaking free from American big tech is hard, so I created a simple cheat sheet." title="Breaking free from American big tech is hard, so I created a simple cheat sheet." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jcbi811"> /u/jcbi811 </a> <br/> <span><a href="https://i.redd.it/zh3e33aulhme1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j3k80t/breaking_free_from_american_big_tech_is_hard_so_i/">[comments]</a></span> </td></tr></table>
+
+## Thoughts on Home Assistant & Vivaldi from Nest & Chrome.
+ - [https://www.reddit.com/r/degoogle/comments/1j3k1mp/thoughts_on_home_assistant_vivaldi_from_nest](https://www.reddit.com/r/degoogle/comments/1j3k1mp/thoughts_on_home_assistant_vivaldi_from_nest)
+ - RSS feed: $source
+ - date published: 2025-03-04T20:02:41+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1j3k1mp/thoughts_on_home_assistant_vivaldi_from_nest/"> <img src="https://b.thumbs.redditmedia.com/TcPPRhEHaavtENA6-SQ50Ckq9Dd9Zwy9VZNY5ddD3NQ.jpg" alt="Thoughts on Home Assistant &amp; Vivaldi from Nest &amp; Chrome." title="Thoughts on Home Assistant &amp; Vivaldi from Nest &amp; Chrome." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/qfmhoih76qme1.png?width=474&amp;format=png&amp;auto=webp&amp;s=67acf821530fdf64375ef05feb8cf433b3859816">https://preview.redd.it/qfmhoih76qme1.png?width=474&amp;format=png&amp;auto=webp&amp;s=67acf821530fdf64375ef05feb8cf433b3859816</a></p> <p>I&#39;m currently using <strong>Vivaldi</strong>, which is blink based, and it has ad-blocking tracker blocking built into the browser as an option at startup. I would love to completely move to a <strong>gecko based</strong> browser, but I&#39;m already too invested into <strong>chromecast, nest</strong>, 
+
+## DeG-ing beyond phone: any home assistant advice?
+ - [https://www.reddit.com/r/degoogle/comments/1j3ggsz/deging_beyond_phone_any_home_assistant_advice](https://www.reddit.com/r/degoogle/comments/1j3ggsz/deging_beyond_phone_any_home_assistant_advice)
+ - RSS feed: $source
+ - date published: 2025-03-04T17:38:10+00:00
+
+<!-- SC_OFF --><div class="md"><p>This subreddit has been so helpful! Thank you for everyone&#39;s advice, I&#39;ve read through a ton of these threads and have been able to de-Google my Pixel with all of the information on here. </p> <p>I&#39;m just about to deGoogle my Chromecast with Lineageos, which will leave one remaining hurdle: Google Home. I have: </p> <p>2 Google hubs (screens) </p> <p>2 Google speakers </p> <p>5 Hue bulbs</p> <p>3 Fiet bulbs</p> <p>Even after 4 years, the assistant constantly misinterprets what I say and I wind up yelling at it half the time. The only functionality I really care about keeping is starting up Spotify playlists for my kid, turning down volume on devices, and changing colors of bulbs. </p> <p>Am I stuck with Google for this? It&#39;s such a crap experience already, but it does really help since I have an autistic kiddo at home. He loves telling Google to change the color of the lights in his room.</p> </div><!-- SC_ON --> &#32; submitted by &#
+
+## Any androids not controlled by Google?
+ - [https://www.reddit.com/r/degoogle/comments/1j3ekrj/any_androids_not_controlled_by_google](https://www.reddit.com/r/degoogle/comments/1j3ekrj/any_androids_not_controlled_by_google)
+ - RSS feed: $source
+ - date published: 2025-03-04T16:22:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>Looking to get rid of my Pixel. I&#39;m an android user and not having luck finding android alternatives that aren&#39;t inherently google-driven.</p> <p>Am I going to have to switch to iOS to avoid Google in my smart phone?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/acidwashGene"> /u/acidwashGene </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j3ekrj/any_androids_not_controlled_by_google/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j3ekrj/any_androids_not_controlled_by_google/">[comments]</a></span>
+
+## Freetube issue
+ - [https://www.reddit.com/r/degoogle/comments/1j3dwa1/freetube_issue](https://www.reddit.com/r/degoogle/comments/1j3dwa1/freetube_issue)
+ - RSS feed: $source
+ - date published: 2025-03-04T15:54:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was using FreeTube on Ubuntu through ProtonVPN, and I encountered a &quot;BAD REQUEST 403&quot; error, which prevents videos from playing. I have contacted FreeTube, but I haven&#39;t received a response.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lambda7016"> /u/lambda7016 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j3dwa1/freetube_issue/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j3dwa1/freetube_issue/">[comments]</a></span>
+
+## Is clearing browser history a significant thing when it comes to avoiding big tech tracking?
+ - [https://www.reddit.com/r/degoogle/comments/1j3dqga/is_clearing_browser_history_a_significant_thing](https://www.reddit.com/r/degoogle/comments/1j3dqga/is_clearing_browser_history_a_significant_thing)
+ - RSS feed: $source
+ - date published: 2025-03-04T15:47:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m curious whether the practice of clearing browser history on browser exit is something that makes a difference when it comes to fighting ad trackers.</p> <p>I know that cookies and site data are much more significant in this, but how about browser history itself (the list)?</p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TransparentGiraffe"> /u/TransparentGiraffe </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j3dqga/is_clearing_browser_history_a_significant_thing/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j3dqga/is_clearing_browser_history_a_significant_thing/">[comments]</a></span>
+
+## Any clean custom rom ?
+ - [https://www.reddit.com/r/degoogle/comments/1j3d0zc/any_clean_custom_rom](https://www.reddit.com/r/degoogle/comments/1j3d0zc/any_clean_custom_rom)
+ - RSS feed: $source
+ - date published: 2025-03-04T15:16:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I mean really clean with nothing preinstalled ? No mailclient, no appstore, no maps replacement... nothing. Just a clean system without any traces of Google where I can decide what I want to do? Just now I&#39;m running /e/os but it has a replacement for everything and I don&#39;t like that.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/tomauswustrow"> /u/tomauswustrow </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j3d0zc/any_clean_custom_rom/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j3d0zc/any_clean_custom_rom/">[comments]</a></span>
+
+## How Google tracks Android device users before they've even opened an app
+ - [https://www.reddit.com/r/degoogle/comments/1j3blm0/how_google_tracks_android_device_users_before](https://www.reddit.com/r/degoogle/comments/1j3blm0/how_google_tracks_android_device_users_before)
+ - RSS feed: $source
+ - date published: 2025-03-04T14:09:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>From the article: &quot;It continues to send data about the device back to Google even after the user logs out of their Google account and the only way to remove it, and its data, is to factory-reset the device.&quot; ... &quot;In short, it is spyware.&quot;</p> <p><a href="https://www.theregister.com/2025/03/04/google_android/">https://www.theregister.com/2025/03/04/google_android/</a></p> <p>Also, link to paper: <a href="https://www.scss.tcd.ie/Doug.Leith/pubs/cookies_identifiers_and_other_data.pdf">https://www.scss.tcd.ie/Doug.Leith/pubs/cookies_identifiers_and_other_data.pdf</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/apleks"> /u/apleks </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j3blm0/how_google_tracks_android_device_users_before/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j3blm0/how_google_tracks_android_device_users_before/">[comm
+
+## From gmail to proton but same identity?
+ - [https://www.reddit.com/r/degoogle/comments/1j3acp6/from_gmail_to_proton_but_same_identity](https://www.reddit.com/r/degoogle/comments/1j3acp6/from_gmail_to_proton_but_same_identity)
+ - RSS feed: $source
+ - date published: 2025-03-04T13:07:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Years ago when I signed up for proton I used my same identity <a href="mailto:dope1@pm">dope1@pm</a>. And as I&#39;m attempting to degoogle my phone/self and gear towards more privacy, I just realized maybe I shouldn&#39;t have kept using my same identity. Going GOS route, even if I make a new play ID, but I&#39;m using dope1@pm and less frequently dope1@gmail to Login to non-goog sites or use email in the profile... That would still be trackable and linkable to previous activity. For work maybe not such a huge hit, but thoughts and opinions on personal or medical or socials? Massive oversight? Overthinking? Looking for your thoughts and opinions to see what I may have missed, not downvotes because everyone is different please.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/looped_around"> /u/looped_around </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j3acp6/from_gmail_to_proton_but_same
+
+## Digitalize to pdf
+ - [https://www.reddit.com/r/degoogle/comments/1j38k9o/digitalize_to_pdf](https://www.reddit.com/r/degoogle/comments/1j38k9o/digitalize_to_pdf)
+ - RSS feed: $source
+ - date published: 2025-03-04T11:19:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>I use Adobe for work. Digitalize papers and make pdf of them. Remember few months ago they changed some privacy policy that made even users not that worried about privacy.</p> <p>And well.... Their app use cloud. As time is passing by i&#39;m more inclined to not use cloud services at all.... Specially to store pictures of documents.</p> <p>So.... Is there any option to do that? I checked on f droid and could not find.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cellorc"> /u/cellorc </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j38k9o/digitalize_to_pdf/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j38k9o/digitalize_to_pdf/">[comments]</a></span>
+
+## Browser alternative for chromium based shi!
+ - [https://www.reddit.com/r/degoogle/comments/1j380j3/browser_alternative_for_chromium_based_shi](https://www.reddit.com/r/degoogle/comments/1j380j3/browser_alternative_for_chromium_based_shi)
+ - RSS feed: $source
+ - date published: 2025-03-04T10:42:09+00:00
+
+<!-- SC_OFF --><div class="md"><p>On Android Though :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Xqowu"> /u/Xqowu </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j380j3/browser_alternative_for_chromium_based_shi/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j380j3/browser_alternative_for_chromium_based_shi/">[comments]</a></span>
+
+## How Safe Is Fossify ?
+ - [https://www.reddit.com/r/degoogle/comments/1j37t6a/how_safe_is_fossify](https://www.reddit.com/r/degoogle/comments/1j37t6a/how_safe_is_fossify)
+ - RSS feed: $source
+ - date published: 2025-03-04T10:27:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have just started degoogling my stuff and I have been seeing Fossify apps for alternatives to normal apps. I want to know if it is safe before starting and how viable is it .</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Xqowu"> /u/Xqowu </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j37t6a/how_safe_is_fossify/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j37t6a/how_safe_is_fossify/">[comments]</a></span>
+
+## Let's remove Chrome :)
+ - [https://www.reddit.com/r/degoogle/comments/1j37j98/lets_remove_chrome](https://www.reddit.com/r/degoogle/comments/1j37j98/lets_remove_chrome)
+ - RSS feed: $source
+ - date published: 2025-03-04T10:07:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1j37j98/lets_remove_chrome/"> <img src="https://preview.redd.it/ztclm4c3dnme1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ee59971de76fff3031b7c073666a010aada861a" alt="Let's remove Chrome :)" title="Let's remove Chrome :)" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/superjcvd"> /u/superjcvd </a> <br/> <span><a href="https://i.redd.it/ztclm4c3dnme1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j37j98/lets_remove_chrome/">[comments]</a></span> </td></tr></table>
+
+## Degoogle advantage
+ - [https://www.reddit.com/r/degoogle/comments/1j37ehf/degoogle_advantage](https://www.reddit.com/r/degoogle/comments/1j37ehf/degoogle_advantage)
+ - RSS feed: $source
+ - date published: 2025-03-04T09:57:56+00:00
+
+<!-- SC_OFF --><div class="md"><ol> <li><p>If you&#39;re not paying for the product, you are the product.</p></li> <li><p>Privacy </p></li> <li><p>Performance, yes, most alternatives are more efficient and lightweight</p></li> <li><p>Questionable behaviors. Especially on Android, there is always something collecting data or something like that (debloat)</p></li> </ol> <p>Disadvantages </p> <ol> <li><p>Lack of synchronization (this turns off 70% of people)</p></li> <li><p>The fear of trusting a smaller private company, yes, sometimes we are exchanging one fox for another</p></li> <li><p>Using it around you, in a place where everyone uses Google (sometimes mandatory) and you will have to use it, which leads you into a vicious cycle</p></li> <li><p>You will probably have to pay for services that were previously free </p></li> </ol> <p>Please share your opinion too</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Juan_Emanuel"> /u/Juan_Emanuel </a> <
+
+## TEACH ME THE WAYS !
+ - [https://www.reddit.com/r/degoogle/comments/1j37616/teach_me_the_ways](https://www.reddit.com/r/degoogle/comments/1j37616/teach_me_the_ways)
+ - RSS feed: $source
+ - date published: 2025-03-04T09:40:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I have just started degoogling my stuff as I have always hated my info being thrown here and there.I just started by using F-Droid and Fennec.</p> <p>Now I need to know what I can/should do further, Rn I only have a phone to start with.</p> <p>Can&#39;t Really Root My Xiamoi Device as I dont have any other phone.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Xqowu"> /u/Xqowu </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j37616/teach_me_the_ways/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j37616/teach_me_the_ways/">[comments]</a></span>
+
+## Via or Firefox
+ - [https://www.reddit.com/r/degoogle/comments/1j37447/via_or_firefox](https://www.reddit.com/r/degoogle/comments/1j37447/via_or_firefox)
+ - RSS feed: $source
+ - date published: 2025-03-04T09:36:07+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1j37447/via_or_firefox/"> <img src="https://preview.redd.it/mxwudh1m7nme1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e66739a6802fc45232e0ae59ea29f1073e1334bc" alt="Via or Firefox" title="Via or Firefox" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I honestly found Via to be a little faster and more stable (in addition to having better animation), Firefox is very good, very good indeed. But.... It sometimes takes a while to load images (manga), and honestly it was a little stressful...</p> <p>Now a question for you, is it worth keeping Via as your main browser?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Juan_Emanuel"> /u/Juan_Emanuel </a> <br/> <span><a href="https://i.redd.it/mxwudh1m7nme1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j37447/via_or_firefox/">[comments]</a></span> </td></tr></table>
+
+## Indian ITD/Income Tax Department, starting 1 April 2026- will have the authority to access a citizen's social media, email, bank/online investment & trading accounts etc, if they suspect undisclosed assets on which tax hasn't been paid
+ - [https://www.reddit.com/r/degoogle/comments/1j35ov5/indian_itdincome_tax_department_starting_1_april](https://www.reddit.com/r/degoogle/comments/1j35ov5/indian_itdincome_tax_department_starting_1_april)
+ - RSS feed: $source
+ - date published: 2025-03-04T07:45:37+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Twinkies100"> /u/Twinkies100 </a> <br/> <span><a href="https://www.reddit.com/r/india/comments/1j34q6h/your_email_and_social_media_account_can_be/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j35ov5/indian_itdincome_tax_department_starting_1_april/">[comments]</a></span>
+
+## Iodé or Calyx?
+ - [https://www.reddit.com/r/degoogle/comments/1j35hig/iodé_or_calyx](https://www.reddit.com/r/degoogle/comments/1j35hig/iodé_or_calyx)
+ - RSS feed: $source
+ - date published: 2025-03-04T07:30:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>Titel says it all, really. I want to get rid of Google and these two have made the final shortlist. I have a slight preference for Iodé 6, since it is European based and a Lineage fork, which I&#39;m quite familiar with. </p> <p>Is there a huge difference in terms of (community) support, stability and updates between these two?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/L_i_R_R"> /u/L_i_R_R </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j35hig/iodé_or_calyx/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j35hig/iodé_or_calyx/">[comments]</a></span>
+
+## Alternatives?
+ - [https://www.reddit.com/r/degoogle/comments/1j34fvs/alternatives](https://www.reddit.com/r/degoogle/comments/1j34fvs/alternatives)
+ - RSS feed: $source
+ - date published: 2025-03-04T06:16:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1j34fvs/alternatives/"> <img src="https://preview.redd.it/wd2wi1n08mme1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b8d9681ec7a4f53efc869bad30c73b832df30b47" alt="Alternatives?" title="Alternatives?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Juan_Emanuel"> /u/Juan_Emanuel </a> <br/> <span><a href="https://i.redd.it/wd2wi1n08mme1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j34fvs/alternatives/">[comments]</a></span> </td></tr></table>
+
