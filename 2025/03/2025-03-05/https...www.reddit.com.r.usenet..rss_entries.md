@@ -1,0 +1,16 @@
+# Source:Usenet, URL:https://www.reddit.com/r/usenet/.rss, language:en
+
+## Advice Please
+ - [https://www.reddit.com/r/usenet/comments/1j42dzt/advice_please](https://www.reddit.com/r/usenet/comments/1j42dzt/advice_please)
+ - RSS feed: $source
+ - date published: 2025-03-05T12:53:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m brand new to Usenet (used private trackers extensively though) and joined one of the un-named indexers so just wondering what the best provider to support it would be (think the term is backbone?). Also can I download the file from the indexer to my seedbox I pay monthly for or will I have to download it to my home internet and would have to upload it to my seedbox to watch it through P.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Emergency_Draft1835"> /u/Emergency_Draft1835 </a> <br/> <span><a href="https://www.reddit.com/r/usenet/comments/1j42dzt/advice_please/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/usenet/comments/1j42dzt/advice_please/">[comments]</a></span>
+
+## Is newsgroup ninja down or am I doing something wrong? (new)
+ - [https://www.reddit.com/r/usenet/comments/1j3vtg1/is_newsgroup_ninja_down_or_am_i_doing_something](https://www.reddit.com/r/usenet/comments/1j3vtg1/is_newsgroup_ninja_down_or_am_i_doing_something)
+ - RSS feed: $source
+ - date published: 2025-03-05T05:21:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m new to usenet and just bought a month to ninja and tried to get everything setup but I keep getting &quot;CONNECTION TEST FAILED authentication for test server (news.newsgroup.ninja) failed: 502 authentication failed&quot;. </p> <p>In sure my account info is correct, what could be causing this? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheFaceBehindItAll"> /u/TheFaceBehindItAll </a> <br/> <span><a href="https://www.reddit.com/r/usenet/comments/1j3vtg1/is_newsgroup_ninja_down_or_am_i_doing_something/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/usenet/comments/1j3vtg1/is_newsgroup_ninja_down_or_am_i_doing_something/">[comments]</a></span>
+

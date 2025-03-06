@@ -1,0 +1,163 @@
+# Source:DeGoogle - expel Google from your life, URL:https://www.reddit.com/r/degoogle/.rss, language:en
+
+## Google Play Store Alternative or Reinstall Google Play Store on Samsung Galaxy
+ - [https://www.reddit.com/r/degoogle/comments/1j4hgrb/google_play_store_alternative_or_reinstall_google](https://www.reddit.com/r/degoogle/comments/1j4hgrb/google_play_store_alternative_or_reinstall_google)
+ - RSS feed: $source
+ - date published: 2025-03-05T23:28:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>I believe early on in my degoogle process I either uninstalled or hid Google Play from my phone. </p> <p>Looking for a 101 on how to reinstall so I can access apps - or looking for option to get apps now available for android (for example the tiktok like app through bluesky). </p> <p>Is there an alternative for the Family Link monitoring through Google? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/KalistoZenda1992"> /u/KalistoZenda1992 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j4hgrb/google_play_store_alternative_or_reinstall_google/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j4hgrb/google_play_store_alternative_or_reinstall_google/">[comments]</a></span>
+
+## De-googling QLink ZTE (Andeoid 4.0) Possible?
+ - [https://www.reddit.com/r/degoogle/comments/1j4hdql/degoogling_qlink_zte_andeoid_40_possible](https://www.reddit.com/r/degoogle/comments/1j4hdql/degoogling_qlink_zte_andeoid_40_possible)
+ - RSS feed: $source
+ - date published: 2025-03-05T23:25:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>I wanna learn de-googling as a whole and am wondering if this is possible on this device. I just found it and is completely factory reset so I thought itd be a cool lol project. Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Loose_Employment6479"> /u/Loose_Employment6479 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j4hdql/degoogling_qlink_zte_andeoid_40_possible/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j4hdql/degoogling_qlink_zte_andeoid_40_possible/">[comments]</a></span>
+
+## If you have apps with trackers but no google/facebook, can they still track you?
+ - [https://www.reddit.com/r/degoogle/comments/1j4fx7s/if_you_have_apps_with_trackers_but_no](https://www.reddit.com/r/degoogle/comments/1j4fx7s/if_you_have_apps_with_trackers_but_no)
+ - RSS feed: $source
+ - date published: 2025-03-05T22:24:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve never found an answer to this question. In my case, I have uninstalled google play services and nearly everything associated with google as well as anything associated with Facebook. If I were to install the Reddit and Instagram apps which have Google/Facebook related trackers, would I still be at risk? Wouldn&#39;t the information that they would be trying to collect just go into a black hole?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/shrimpies3125"> /u/shrimpies3125 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j4fx7s/if_you_have_apps_with_trackers_but_no/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j4fx7s/if_you_have_apps_with_trackers_but_no/">[comments]</a></span>
+
+## Atomic Blend: An Open-Source, End-to-End Encrypted Everything App
+ - [https://www.reddit.com/r/degoogle/comments/1j4dk4e/atomic_blend_an_opensource_endtoend_encrypted](https://www.reddit.com/r/degoogle/comments/1j4dk4e/atomic_blend_an_opensource_endtoend_encrypted)
+ - RSS feed: $source
+ - date published: 2025-03-05T20:49:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone!</p> <p>I’m excited to introduce <strong>Atomic Blend</strong>, an open-source project aiming to be an end-to-end encrypted everything app that seamlessly integrates your work, personal life, and productivity into one secure and unified space. Inspired by the concept of comprehensive tools like ClickUp, Atomic Blend addresses the need for privacy by ensuring that all your data remains exclusively yours through robust end-to-end encryption.</p> <p><strong>What is Atomic Blend?</strong></p> <p>Atomic Blend serves as your personal and professional hub, combining task management, note-taking, collaboration, and encrypted data storage into a simple yet powerful platform. Key features include:</p> <p>• <strong>Privacy First</strong>: End-to-end encryption ensures your data remains yours.</p> <p>• <strong>All-in-One</strong>: Manage tasks, notes, calendar, and team collaboration in one place.</p> <p>• <strong>Open Source</strong>: Built for t
+
+## I want to DeGoogle my life the most I can. Help on advice and checklist.
+ - [https://www.reddit.com/r/degoogle/comments/1j4bqlk/i_want_to_degoogle_my_life_the_most_i_can_help_on](https://www.reddit.com/r/degoogle/comments/1j4bqlk/i_want_to_degoogle_my_life_the_most_i_can_help_on)
+ - RSS feed: $source
+ - date published: 2025-03-05T19:36:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone! After all what is going with Google in the latest years, I decided to remove that company of my life, at least the most I can. I&#39;ve been using their services since 2012, so I hope you guys can help me on my checklist with recommendations please.</p> <ul> <li>My overall cloud storage is almost full due to videos and photos mostly. I want to take them out and leave my Photos and Drive empty.</li> <li>Change the main email, I was thinking of using Proton, but I&#39;m open to suggestions if there&#39;s something better.</li> <li>I have to remove the site login authorizations using Google.</li> <li>I used Android since the Samsung Galaxy S, but I changed to iOS 2 years ago. I don&#39;t know if having an Apple device helps on this.</li> <li>Because of the latter item, I have YouTube Premium until August (no Smartube nor Revanced on iOS, sadly).</li> <li>My Google account have some &quot;bought&quot; movies.</li> <li>I have a TV with And
+
+## Why won't Tuta and Proton take my money?
+ - [https://www.reddit.com/r/degoogle/comments/1j4b62i/why_wont_tuta_and_proton_take_my_money](https://www.reddit.com/r/degoogle/comments/1j4b62i/why_wont_tuta_and_proton_take_my_money)
+ - RSS feed: $source
+ - date published: 2025-03-05T19:12:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>My visa debit card and visa credit card through my credit union are being declined by not Tuta and Proton. Both have sufficient funds. I don&#39;t want to use Google Play or PayPal to subscribe. Any suggestions? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/-LunaTink-"> /u/-LunaTink- </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j4b62i/why_wont_tuta_and_proton_take_my_money/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j4b62i/why_wont_tuta_and_proton_take_my_money/">[comments]</a></span>
+
+## About to buy a Pixel 8a...
+ - [https://www.reddit.com/r/degoogle/comments/1j4akwh/about_to_buy_a_pixel_8a](https://www.reddit.com/r/degoogle/comments/1j4akwh/about_to_buy_a_pixel_8a)
+ - RSS feed: $source
+ - date published: 2025-03-05T18:49:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve never degoogled myself, just bought phones already set up. Anybody have a recommendation for the best place to buy. Looks like 399 is the lowest I can find for an unlocked, new phone.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/czgunner"> /u/czgunner </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j4akwh/about_to_buy_a_pixel_8a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j4akwh/about_to_buy_a_pixel_8a/">[comments]</a></span>
+
+## Microsoft Mods Cursing at me because I exposed their games!
+ - [https://www.reddit.com/r/degoogle/comments/1j476tj/microsoft_mods_cursing_at_me_because_i_exposed](https://www.reddit.com/r/degoogle/comments/1j476tj/microsoft_mods_cursing_at_me_because_i_exposed)
+ - RSS feed: $source
+ - date published: 2025-03-05T16:34:13+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1j476tj/microsoft_mods_cursing_at_me_because_i_exposed/"> <img src="https://b.thumbs.redditmedia.com/TvTdayPBqnTxwA8PoPM8ZC1lRTQFDOWPxE8UJatH3Bw.jpg" alt="Microsoft Mods Cursing at me because I exposed their games!" title="Microsoft Mods Cursing at me because I exposed their games!" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ok_Juggernaut_5293"> /u/Ok_Juggernaut_5293 </a> <br/> <span><a href="https://www.reddit.com/gallery/1j476tj">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j476tj/microsoft_mods_cursing_at_me_because_i_exposed/">[comments]</a></span> </td></tr></table>
+
+## Google urges the US government to avoid company's breakup.
+ - [https://www.reddit.com/r/degoogle/comments/1j44hds/google_urges_the_us_government_to_avoid_companys](https://www.reddit.com/r/degoogle/comments/1j44hds/google_urges_the_us_government_to_avoid_companys)
+ - RSS feed: $source
+ - date published: 2025-03-05T14:37:00+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1j44hds/google_urges_the_us_government_to_avoid_companys/"> <img src="https://external-preview.redd.it/NE8pIvU_tpGw8fPWpR-zLL9rUWjeDSN4oB8cqQ3yRfY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=83ba122cd434657ade9e99b5dd8bace49494f7a6" alt="Google urges the US government to avoid company's breakup." title="Google urges the US government to avoid company's breakup." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Consistent-Age5347"> /u/Consistent-Age5347 </a> <br/> <span><a href="https://economictimes.indiatimes.com/tech/technology/alphabets-google-urges-us-government-to-avoid-breaking-up-firm-source-says/articleshow/118722004.cms">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j44hds/google_urges_the_us_government_to_avoid_companys/">[comments]</a></span> </td></tr></table>
+
+## eSIM after installing new OS
+ - [https://www.reddit.com/r/degoogle/comments/1j438al/esim_after_installing_new_os](https://www.reddit.com/r/degoogle/comments/1j438al/esim_after_installing_new_os)
+ - RSS feed: $source
+ - date published: 2025-03-05T13:37:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey y&#39;all,</p> <p>I&#39;m looking to change my Pixel 6 over to /e/os but I have an eSIM, does anyone know how this will effect my ability to use the eSIM?</p> <p>I can&#39;t seem to find anyone really asking this question anywhere, unless I suck at searching.</p> <p>Thanks ❤️</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iamrychriken"> /u/iamrychriken </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j438al/esim_after_installing_new_os/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j438al/esim_after_installing_new_os/">[comments]</a></span>
+
+## Google image search alternatives?
+ - [https://www.reddit.com/r/degoogle/comments/1j41wkd/google_image_search_alternatives](https://www.reddit.com/r/degoogle/comments/1j41wkd/google_image_search_alternatives)
+ - RSS feed: $source
+ - date published: 2025-03-05T12:26:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>I use Google Image search a lot for a number of things. Primarily as I run D&amp;D games online and use it as a resource for finding battlemaps and character art for NPCs and baddies. &quot;Vampire lair battlemap&quot;, &quot;Scary dragon&quot;, &quot;Skeleton warrior token&quot; etc.</p> <p>I also use it for making the occasional meme by finding templates, looking at art in general and getting style suggestions (haircuts, tattoos, outfits in general). </p> <p>But because of certain things Google is doing I&#39;m trying to step way from Google as much as physically possible. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ThrowawayGwen"> /u/ThrowawayGwen </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j41wkd/google_image_search_alternatives/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j41wkd/google_image_search_alternatives/">[comments]</a></span>
+
+## Bank nfc
+ - [https://www.reddit.com/r/degoogle/comments/1j41ibs/bank_nfc](https://www.reddit.com/r/degoogle/comments/1j41ibs/bank_nfc)
+ - RSS feed: $source
+ - date published: 2025-03-05T12:03:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi</p> <p>Someone knows a Canadian bank which they have their own NFC contact payment method? I use graphene os and I try to find a way to pay with that? Thanks </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ninjanoir78"> /u/ninjanoir78 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j41ibs/bank_nfc/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j41ibs/bank_nfc/">[comments]</a></span>
+
+## Hi. I've been wanting to degoogle for some time but never found time. Are there guides how to delete my data from google and make them delete it? I still need to use gmail while I switch all my sites that send me mail but I would like to remove everything else in meantime like search data. Thank you
+ - [https://www.reddit.com/r/degoogle/comments/1j41i4v/hi_ive_been_wanting_to_degoogle_for_some_time_but](https://www.reddit.com/r/degoogle/comments/1j41i4v/hi_ive_been_wanting_to_degoogle_for_some_time_but)
+ - RSS feed: $source
+ - date published: 2025-03-05T12:03:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I found out google has been saving all my search and location data and everything else how do I actually delete all this? I see google takeout I will do that but I also want all my data to be deleted and to stop further tracking while I switch to another mail from gmail (sorry it will take me at least a month to nicely notify everyone etc and I still would like to keep my mail just in case I need it in emergency to restore some contact or someone sends me email you know</p> <p>Thank you :) &lt;3 Love you guys</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/arairia"> /u/arairia </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j41i4v/hi_ive_been_wanting_to_degoogle_for_some_time_but/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j41i4v/hi_ive_been_wanting_to_degoogle_for_some_time_but/">[comments]</a></span>
+
+## Need Help With Custom Rom
+ - [https://www.reddit.com/r/degoogle/comments/1j406bz/need_help_with_custom_rom](https://www.reddit.com/r/degoogle/comments/1j406bz/need_help_with_custom_rom)
+ - RSS feed: $source
+ - date published: 2025-03-05T10:33:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I have A Old Xiamoi Device and Its my only phone rn so i want to be safe</p> <p>But i want a custom rom what should I do</p> <p>It doesnt support: Canta ANY ADB Shizuku</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Xqowu"> /u/Xqowu </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j406bz/need_help_with_custom_rom/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j406bz/need_help_with_custom_rom/">[comments]</a></span>
+
+## I uninstalled the play store, but some apps still require it. How do I resolve it?
+ - [https://www.reddit.com/r/degoogle/comments/1j3zqyi/i_uninstalled_the_play_store_but_some_apps_still](https://www.reddit.com/r/degoogle/comments/1j3zqyi/i_uninstalled_the_play_store_but_some_apps_still)
+ - RSS feed: $source
+ - date published: 2025-03-05T10:02:44+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1j3zqyi/i_uninstalled_the_play_store_but_some_apps_still/"> <img src="https://preview.redd.it/ugdeclm9hume1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8af2fbcc4146fdd11f8091756fd5ee9c31ae887d" alt="I uninstalled the play store, but some apps still require it. How do I resolve it?" title="I uninstalled the play store, but some apps still require it. How do I resolve it?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Just one example... How do I remove these warnings? Help 🆘</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Juan_Emanuel"> /u/Juan_Emanuel </a> <br/> <span><a href="https://i.redd.it/ugdeclm9hume1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j3zqyi/i_uninstalled_the_play_store_but_some_apps_still/">[comments]</a></span> </td></tr></table>
+
+## Accidentally deleted calendar permissions when debloating my phone
+ - [https://www.reddit.com/r/degoogle/comments/1j3ywls/accidentally_deleted_calendar_permissions_when](https://www.reddit.com/r/degoogle/comments/1j3ywls/accidentally_deleted_calendar_permissions_when)
+ - RSS feed: $source
+ - date published: 2025-03-05T08:58:43+00:00
+
+<!-- SC_OFF --><div class="md"><p>I hope this is okay to post here, it&#39;s not specifically Google related but I couldn&#39;t find another subreddit to ask about debloating mistakes. </p> <p>For reference, I have a unihertz OG titan, I think it runs android 10. I was debloating my phone and thought I was deleting the system calendar app, but I guess it was instead the function to use a calendar at all. I tried opening Google calendar but it says my calendar storage is disabled, and to enable it in settings. But the permissions section is greyed out and the app itself is enabled.</p> <p>Any clue how I could get this back? Thank you all!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/wastelandbrain"> /u/wastelandbrain </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j3ywls/accidentally_deleted_calendar_permissions_when/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j3ywls/accidentally_
+
+## What happens if an open source company gets big?
+ - [https://www.reddit.com/r/degoogle/comments/1j3y75i/what_happens_if_an_open_source_company_gets_big](https://www.reddit.com/r/degoogle/comments/1j3y75i/what_happens_if_an_open_source_company_gets_big)
+ - RSS feed: $source
+ - date published: 2025-03-05T08:03:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/degoogle/comments/1j3y75i/what_happens_if_an_open_source_company_gets_big/"> <img src="https://preview.redd.it/mrcoocizvtme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=810ff31d621ea47a573757d37fd73ff9205ac39e" alt="What happens if an open source company gets big?" title="What happens if an open source company gets big?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>We are exchanging large companies for smaller, more &quot;reliable&quot; companies. But what do you think will happen if these small companies become big?</p> <p>Do you think you will maintain transparency or you will sell out. Defend your point of view</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Juan_Emanuel"> /u/Juan_Emanuel </a> <br/> <span><a href="https://i.redd.it/mrcoocizvtme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j3y75i/what_happens_if_an_open_source_company_g
+
+## Result of my degoogle journey
+ - [https://www.reddit.com/r/degoogle/comments/1j3wpx1/result_of_my_degoogle_journey](https://www.reddit.com/r/degoogle/comments/1j3wpx1/result_of_my_degoogle_journey)
+ - RSS feed: $source
+ - date published: 2025-03-05T06:17:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Wallet: really liked the fact that I could link my PayPal to Google Wallet, but overall I just went back to using the physical cards I already had and started using more cash, too.</p> <p>Docs: On my PC, I was already using LibreOffice, but for everything I had to sync between my devices I started using a mix of Obsidian and also uploading files to Proton Drive. </p> <p>YouTube: no alternative so far. I deleted my YouTube channel (only used it for writing comments) and started keeing a &quot;Watch later&quot; in a list of bookmarks in my browser.</p> <p>Chrome: Brave on mobile and Firefox on PC</p> <p>Sheets: Excel</p> <p>Slides: LibreOffice Impress, started using PowerPoint too since we get it for free from my school</p> <p>Gmail: Proton Mail and my dad&#39;s own domain server. I honestly underestimated how long it would take to change all of my email adresses, I&#39;m still not fully done with it. I&#39;ve decided to keep my Gmail addresses for ano
+
+## Removed G calendar from android, any android apps to sync Gcalendar on my android next?
+ - [https://www.reddit.com/r/degoogle/comments/1j3vg9i/removed_g_calendar_from_android_any_android_apps](https://www.reddit.com/r/degoogle/comments/1j3vg9i/removed_g_calendar_from_android_any_android_apps)
+ - RSS feed: $source
+ - date published: 2025-03-05T05:00:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have removed the calendar, gmail, play store and any related accounts ) from android as a first step, any other app I can have on android sync the calendar to my android as a next step?</p> <p>I have replaced the gmail with Thunderbird on android,</p> <p>replaced the play store with Aurora &amp; F droid</p> <p>have been using Firefox and Librefox, etc for sometime</p> <p>Now I need a calendar app on android to sync my google calendar as a starting point......</p> <p>PS:</p> <p>Later on find a free online calendar although difficult to replace google calendar online altogether</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/richard4reddit"> /u/richard4reddit </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j3vg9i/removed_g_calendar_from_android_any_android_apps/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j3vg9i/removed_g_calendar_from_android_any_and
+
+## Photo viewer for cloud storage?
+ - [https://www.reddit.com/r/degoogle/comments/1j3u7om/photo_viewer_for_cloud_storage](https://www.reddit.com/r/degoogle/comments/1j3u7om/photo_viewer_for_cloud_storage)
+ - RSS feed: $source
+ - date published: 2025-03-05T03:49:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently switched to Filen for cloud storage (hmu if you want a referral code) and whilst their app is ok it is not as good as Apple Photos or Google Photos. I&#39;m wondering if there are any viewers for cloud storage services like Filen? I&#39;ve come across Immich but that looks more for NAS drives.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lloydmar"> /u/lloydmar </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j3u7om/photo_viewer_for_cloud_storage/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j3u7om/photo_viewer_for_cloud_storage/">[comments]</a></span>
+
+## WeTube: The lightweight YouTube experience client app.
+ - [https://www.reddit.com/r/degoogle/comments/1j3u2e8/wetube_the_lightweight_youtube_experience_client](https://www.reddit.com/r/degoogle/comments/1j3u2e8/wetube_the_lightweight_youtube_experience_client)
+ - RSS feed: $source
+ - date published: 2025-03-05T03:41:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>Features:</p> <ol> <li>Support Android 15 edge-to-edge design</li> <li>Background playback is enabled by default, enjoy your favorite videos</li> <li>Support free resolution switching, you can enjoy watching HD videos without YouTube membership</li> <li>Adopt Android&#39;s latest mvi architecture design, more powerful and more stable</li> <li>Supports YouTube account data synchronization, supports playing, liking, and collecting your favorite videos</li> <li> Support Google Store app download and installation experience</li> </ol> <p><a href="https://play.google.com/store/apps/details?id=free.mor.mordo.do&amp;gl=in&amp;hl=en_IN">WeTube: Video, Music &amp; Podcast</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mountain_Expert_2652"> /u/Mountain_Expert_2652 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j3u2e8/wetube_the_lightweight_youtube_experience_client/">[link]</a></span> &#32; <s
+
+## if I deactivate Google playstore, will aurora store continue to work on my android
+ - [https://www.reddit.com/r/degoogle/comments/1j3sy1v/if_i_deactivate_google_playstore_will_aurora](https://www.reddit.com/r/degoogle/comments/1j3sy1v/if_i_deactivate_google_playstore_will_aurora)
+ - RSS feed: $source
+ - date published: 2025-03-05T02:42:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>is it ok to disable/remove Google Playstore after installing Aurora, and use it without depending on the playstore</p> <p>I have installed aurorastore, </p> <p>if I deactivate Google playstore, will aurora store continue to work on my android</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdSilent5155"> /u/AdSilent5155 </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j3sy1v/if_i_deactivate_google_playstore_will_aurora/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j3sy1v/if_i_deactivate_google_playstore_will_aurora/">[comments]</a></span>
+
+## How to install Microsoft authenticator needed for work?
+ - [https://www.reddit.com/r/degoogle/comments/1j3q9vb/how_to_install_microsoft_authenticator_needed_for](https://www.reddit.com/r/degoogle/comments/1j3q9vb/how_to_install_microsoft_authenticator_needed_for)
+ - RSS feed: $source
+ - date published: 2025-03-05T00:31:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>If i do not have a Google account </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/silicon_replacement"> /u/silicon_replacement </a> <br/> <span><a href="https://www.reddit.com/r/degoogle/comments/1j3q9vb/how_to_install_microsoft_authenticator_needed_for/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/degoogle/comments/1j3q9vb/how_to_install_microsoft_authenticator_needed_for/">[comments]</a></span>
+

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-05T07:33:51+00:00",
+        "description": "<img src=\"https://defcon.org/images/defcon-33/post-images/33-prereg.webp\" alt=\"laptop with DEF CON 33 ticket on screen\"/> \n<br />            \n<p>DEF CON 33 is building steam. Planning is in full swing. In fact, a glance at any nearby calendar will tell you we're already halfway there!</p>\n\n<p>    We know you need to plan, too. That's why we're opening up Early Bird Online Registration. For the go-getters who register early, weve got our lowest online price. And just like in years past, registering online guarantees your badge, no matter what the attendance numbers turn out to be.</p>\n\n<p>    Starting Wednesday you'll be able to hit up <a href=\"https://shop.defcon.org/products/def-con-33-ticket\">shop.defcon.org</a> to get your ticket. Are you ready?</p>\n\n<p>    The Early Reg price is $540 ($520 +$20 processing fee.) Early Bird season ends May 23.</p>\n\n<p>    Regular Pricing is $560 ($540 + $20 processing) and is available until July 18.</p>\n\n<p>    Late Pricing is $580 ($560 +$20 proc",
+        "id": 2253668,
+        "language": "en",
+        "link": "https://shop.defcon.org/products/def-con-33-ticket",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 82,
+        "source_url": "https://defcon.org/defconrss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pre-reg for DEF CON 33 opens 3/5!",
+        "vote": 0
+    }
+]

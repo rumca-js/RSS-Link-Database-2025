@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-05T12:18:27+00:00",
+        "description": "President Donald Trump on Tuesday made his first joint address to Congress since taking office after winning a second term, touting his agenda, taking aim at his political rivals and leaning in on culture war issues including diversity and transgender rights. NBC\u2019s Peter Alexander reports and Hallie Jackson and Meet the Press moderator Kristen Welker provide analysis for TODAY.",
+        "id": 2250730,
+        "language": "en-US",
+        "link": "https://www.today.com/video/see-highlights-from-trump-s-2025-joint-address-to-congress-233531461975",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_03/1741177096415_tdy_news_7a_alexander_trump_joint_address_250305_1920x1080-yzs1na.jpg",
+        "title": "See key moments from Trump's 2025 joint address to Congress",
+        "vote": 0
+    }
+]

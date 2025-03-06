@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-05T15:07:09+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nDeciphering C++ Coroutines Part 2 - Mastering Asynchronous Control Flow - Andreas Weis - CppCon 2024\n---\n\nOne of the most powerful applications of coroutines is in the context of asynchronous operations, where their use allows for significant simplifactions of application code. Unfortunately, building an asynchronous library interface to enable such benefits for applications is not exactly straightforward in C++.\n\nIn this talk we will explore the essentials of managing asynchronous control flow with coroutines. We will discover how to reconstruct the call stack of nested asynchronous calls and thus bridge a significant gap between C++'s stackless coroutines and the stackful coroutines from other languages. We will learn how to build a mechanism similar to the async/await from languages like Python or Javascript for our own libraries. And we will explore how we can perform arbitrary manipulations of the call stack in such an environment to unleash the full pow",
+        "id": 2252043,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=qfKFfQSxvA8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qfKFfQSxvA8/hqdefault.jpg",
+        "title": "Deciphering C++ Coroutines Part 2 - Mastering Asynchronous Control Flow - Andreas Weis - CppCon 2024",
+        "vote": 0
+    }
+]

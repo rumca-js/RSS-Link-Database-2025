@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-05T07:19:53+00:00",
+        "description": "<![CDATA[<p>The dollar dropped to a three-month low against major currencies after Donald Trump warned Americans about the impact of his global trade war.</p>]]>",
+        "id": 2248293,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2025/03/05/ftse-100-markets-latest-news-uk-trump-tariffs-trade-war",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Dollar sinks as Trump warns Americans of trade war \u2018disturbance\u2019",
+        "vote": 0
+    }
+]

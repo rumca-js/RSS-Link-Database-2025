@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-05T15:00:19+00:00",
+        "description": "Andrej Karpathy recently coined the term \u201cvibe coding\u201d to describe how LLMs are getting so good that devs can simply \u201cgive in to the vibes, embrace exponentials, and forget that the code even exists.\u201d In this episode of the Lightcone, the hosts discuss this new method of programming and what it means for builders in the AI age.\n\nApply to Y Combinator: https://ycombinator.com/apply\n\n0:00 Intro\n0:42 What is vibe coding?\n1:00 What founders in the current YC batch are saying\n4:35 Debugging and building systems\n6:59 The models people are using now\n10:01 What percentage of code is being written by LLM\u2019s?\n11:58 What changed and what stayed the same?\n18:08 How Triplebyte did candidate assessments and how would that change in this era\n21:37 Key skills that will remain relevant\n23:01 How do you develop taste without classical training?\n30:59 Outro",
+        "id": 2251746,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=IACHfKmZMr8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IACHfKmZMr8/hqdefault.jpg",
+        "title": "Vibe Coding Is The Future",
+        "vote": 0
+    }
+]

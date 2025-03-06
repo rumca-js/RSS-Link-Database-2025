@@ -1,0 +1,65 @@
+# Source:Django, URL:https://www.reddit.com/r/django/.rss, language:
+
+## Thoughts about django career
+ - [https://www.reddit.com/r/django/comments/1j4gjdi/thoughts_about_django_career](https://www.reddit.com/r/django/comments/1j4gjdi/thoughts_about_django_career)
+ - RSS feed: $source
+ - date published: 2025-03-05T22:49:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>so, next month I will complete 1year of working with django at my company. Since Im not very happy with the actual state of my company I&#39;ve been thinking what I should do next.</p> <p>Java and C# right now seems to be the mostly choosed stacks to backend developers, Im having a hard time on this decision: specialize on django and search for more expensive opportunities X learn a new tool to expand my opportunities in general. I was also thinking about dive into a crude django project, since I&#39;ve been using DRF all this time, but also dont know how productive this would be.</p> <p>context about my actual skills: Im able to create an app from scratch and deploy it using django/htmx or django/react so I would consider that I am a mid-level? Couldnt call me a specialist with only one year xp and the knowledge that I have, but for sure Im out of tutorial hell and have understanding about the framework, actually Im kinda &quot;&quot;leading&quot;&q
+
+## Having a dedicated settings module inside of the app/tests folder?
+ - [https://www.reddit.com/r/django/comments/1j4fe7f/having_a_dedicated_settings_module_inside_of_the](https://www.reddit.com/r/django/comments/1j4fe7f/having_a_dedicated_settings_module_inside_of_the)
+ - RSS feed: $source
+ - date published: 2025-03-05T22:03:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello! I am struggling with how to figure out test settings and project structure. I have a project with multiple apps, with one shared app (defines project-wide settings,models and utils) and each app imports settings from this shared app:</p> <p><code> shared_app / - models.py - utils.py - settings.py - tests / - settings_overrides.py app1 / - models.py - settings.py (imports all shared_app.settings and then adds some app1 specific) - tests/ settings.py (hopefully imports from app1.settings and from shared_app.settings.settings_overrides) </code></p> <p>The problem is that when I do this setup I get ``` File &quot;/usr/local/lib/python3.12/dist-packages/django/apps/registry.py&quot;, line 138, in check_apps_ready raise AppRegistryNotReady(&quot;Apps aren&#39;t loaded yet.&quot;) django.core.exceptions.AppRegistryNotReady: Apps aren&#39;t loaded yet.</p> <p>```</p> <p>How can I structure my project to get the desired result? It works if I move the a
+
+## A bit lost. Form and data validation with Django.
+ - [https://www.reddit.com/r/django/comments/1j4cc6f/a_bit_lost_form_and_data_validation_with_django](https://www.reddit.com/r/django/comments/1j4cc6f/a_bit_lost_form_and_data_validation_with_django)
+ - RSS feed: $source
+ - date published: 2025-03-05T20:00:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone! taking a code bootcamp rn where I&#39;m learning fullstack dev with Django. I&#39;m a bit lost. In the bootcamp they&#39;re telling us to use models.Manager class for data validation</p> <p>But there&#39;s also forms.Form and forms.ModelForm. I&#39;m lost on when to use either method of these and what the difference between them is, and the docs aren&#39;t that clear about it. Or I&#39;m just looking at the wrong docs.</p> <p>Anybody with any resources on the matter or can point me in the right direction docs wise I&#39;d appreciate it</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kundara_thahab"> /u/kundara_thahab </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1j4cc6f/a_bit_lost_form_and_data_validation_with_django/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1j4cc6f/a_bit_lost_form_and_data_validation_with_django/">[comments]</a></span>
+
+## Why is the Django docs in Korean?
+ - [https://www.reddit.com/r/django/comments/1j4a0ch/why_is_the_django_docs_in_korean](https://www.reddit.com/r/django/comments/1j4a0ch/why_is_the_django_docs_in_korean)
+ - RSS feed: $source
+ - date published: 2025-03-05T18:27:22+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/jyxze0iqywme1.png?width=1892&amp;format=png&amp;auto=webp&amp;s=2f3d0e26aa76425f44859db4dc6fabef0b5d89e7">https://preview.redd.it/jyxze0iqywme1.png?width=1892&amp;format=png&amp;auto=webp&amp;s=2f3d0e26aa76425f44859db4dc6fabef0b5d89e7</a></p> <p>The language is English, but all the pages are in Korean</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AndrewGlouberman69"> /u/AndrewGlouberman69 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1j4a0ch/why_is_the_django_docs_in_korean/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1j4a0ch/why_is_the_django_docs_in_korean/">[comments]</a></span>
+
+## Django Droplet
+ - [https://www.reddit.com/r/django/comments/1j49b6u/django_droplet](https://www.reddit.com/r/django/comments/1j49b6u/django_droplet)
+ - RSS feed: $source
+ - date published: 2025-03-05T17:59:47+00:00
+
+<!-- SC_OFF --><div class="md"><p>So my Droplet has certbot, nginx, gunicorn, and Django 5.0 Is there a tutorial somewhere where it tells me how to make the sudo user in charge of all the project and to start new projects or append to the default existing project. Thanks! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/PalpitationFalse8731"> /u/PalpitationFalse8731 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1j49b6u/django_droplet/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1j49b6u/django_droplet/">[comments]</a></span>
+
+## Django React JWT Authentication
+ - [https://www.reddit.com/r/django/comments/1j48835/django_react_jwt_authentication](https://www.reddit.com/r/django/comments/1j48835/django_react_jwt_authentication)
+ - RSS feed: $source
+ - date published: 2025-03-05T17:16:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>Repo: <a href="https://github.com/iamaakashbasnet/nepsevirt">https://github.com/iamaakashbasnet/nepsevirt</a></p> <p>In this repo I&#39;ve approached django react jwt authentication, any suggestions will be appreciated...</p> <p>- nepsevirt/v1/accounts/views/token.py</p> <p>- nepsevirt/src/state/user/authSlice.ts</p> <p>Flow:<br/> Access token is stored as a normal variable in the frontend, refresh token is set to cookies with httpOnly and secure checked. If session is closed new access token is generated based on refresh token.</p> <p>Or storing the access token to local storage method better?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/iamaakashbasnet"> /u/iamaakashbasnet </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1j48835/django_react_jwt_authentication/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1j48835/django_react_jwt_authentication/">[commen
+
+## Django production for dummies
+ - [https://www.reddit.com/r/django/comments/1j45tpe/django_production_for_dummies](https://www.reddit.com/r/django/comments/1j45tpe/django_production_for_dummies)
+ - RSS feed: $source
+ - date published: 2025-03-05T15:36:48+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello all, I am not a legit developer. I know enough to be dangerous.</p> <p>I&#39;ve built a few simple projects I wish to deploy into production, however I have gotten used to the easy built in dev server of vscode. </p> <p>Now that I wish to deploy, I am a bit lost. Using YouTube videos I managed to get one going on a EC2 instance including HTTPS but it was a hell of a journey. Here are my pain points:</p> <ul> <li>getting static files served </li> <li>using a web server besides the manage.py script</li> <li>keeping the server running when I disconnect</li> <li>1000 different ways to handle environment variables</li> <li>how to see what&#39;s going on when debug is disabled (API calls, login attempts etc)</li> <li>having to modify settings for production, assuming I need to keep a seperate production branch on git avoid this headache??</li> </ul> <p>So I know I&#39;m in way over my head... But it seems like deploying a &quot;simple&quot; project r
+
+## Looking for sponsorship: SEO power tools
+ - [https://www.reddit.com/r/django/comments/1j43e7b/looking_for_sponsorship_seo_power_tools](https://www.reddit.com/r/django/comments/1j43e7b/looking_for_sponsorship_seo_power_tools)
+ - RSS feed: $source
+ - date published: 2025-03-05T13:45:21+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/thibaudcolas"> /u/thibaudcolas </a> <br/> <span><a href="https://wagtail.org/blog/looking-for-sponsorship-seo-power-tools/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1j43e7b/looking_for_sponsorship_seo_power_tools/">[comments]</a></span>
+
+## Relative and Explicit Imports in Django
+ - [https://www.reddit.com/r/django/comments/1j43dcl/relative_and_explicit_imports_in_django](https://www.reddit.com/r/django/comments/1j43dcl/relative_and_explicit_imports_in_django)
+ - RSS feed: $source
+ - date published: 2025-03-05T13:44:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently started reading “Two Scoops of Django” and the section about relative and explicit imports has been on my mind. </p> <p>For example let’s say my Django app has two apps, home_app and sales_app</p> <p>I want to see if I under the concept of relative and explicit imports. </p> <p>From sales_app if I import any module from the home_app I need to prefix it e.g “from home_app.models import Index” #absolute import</p> <p>And if I import a module from within the sales_app e.g “from .models import Marketing” # explicit import </p> <p>Are my examples correct? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Valerius01"> /u/Valerius01 </a> <br/> <span><a href="https://www.reddit.com/r/django/comments/1j43dcl/relative_and_explicit_imports_in_django/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/django/comments/1j43dcl/relative_and_explicit_imports_in_django/">[comments]</a></span>
+

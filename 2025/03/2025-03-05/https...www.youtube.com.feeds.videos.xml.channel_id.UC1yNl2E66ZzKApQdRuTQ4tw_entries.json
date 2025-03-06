@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-05T16:01:01+00:00",
+        "description": "Until March 31, visit joinnautilus.com/sabine for an annual membership and receive your free Moleskin Journal (US residents only)\n\nLast year, Jonathan Oppenheim\u2019s theory of post-quantum gravity was the only theory that made it into my Best of 2024 summary. Post-quantum gravity is one of the most interesting theories for merging quantum physics with gravity, which in turn is one of the most important problems in physics. Now, researchers say they\u2019ve come up with a way to test the theory, though technology needs to advance before that test is possible. In this video I explain why I think it\u2019s likely that post-quantum gravity will be falsified.\n\nPaper 1: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041040\nPaper 2: https://arxiv.org/abs/2501.13030\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Pat",
+        "id": 2252202,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=kbM8blL-ZPM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kbM8blL-ZPM/hqdefault.jpg",
+        "title": "Why I think the new quantum gravity theory is wrong",
+        "vote": 0
+    }
+]

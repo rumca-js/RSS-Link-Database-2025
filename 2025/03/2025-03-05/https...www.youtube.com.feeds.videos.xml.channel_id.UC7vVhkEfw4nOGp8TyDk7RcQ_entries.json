@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-05T14:07:25+00:00",
+        "description": "Last year, we unveiled the new Atlas\u2014faster, stronger, more compact, and less messy. We\u2019re designing the world\u2019s most dynamic humanoid robot to do anything and everything, but we get there one step at a time.\n\nOur first task is part sequencing, a common logistics task in automotive manufacturing. Discover why we started with sequencing, how we are solving hard problems, and how we\u2019re delivering a humanoid robot with real value.\n\nLearn More: https://bit.ly/3DqQJh5",
+        "id": 2251739,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=v8UaiRgqvlc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v8UaiRgqvlc/hqdefault.jpg",
+        "title": "Pick, Carry, Place, Repeat | Inside the Lab with Atlas",
+        "vote": 0
+    }
+]

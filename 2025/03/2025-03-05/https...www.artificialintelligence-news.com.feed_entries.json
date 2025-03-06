@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-05T13:09:44+00:00",
+        "description": "<p>Last week, leading experts from academia, industry, and regulatory backgrounds gathered to discuss the legal and commercial implications of AI explainability, with a particular focus on its impact in retail. Hosted by Professor Shlomit Yaniski Ravid of Yale Law and Fordham Law, the panel brought together thought leaders to address the growing need for transparency [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/explainability-for-retailers-using-ai-insights-from-experts/\">AI Explainability and Its Immediate Impact on Legal Tech \u2013 Insights from Expert Discussion\u00a0\u00a0</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 2251171,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/explainability-for-retailers-using-ai-insights-from-experts",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AI Explainability and Its Immediate Impact on Legal Tech \u2013 Insights from Expert Discussion",
+        "vote": 0
+    }
+]

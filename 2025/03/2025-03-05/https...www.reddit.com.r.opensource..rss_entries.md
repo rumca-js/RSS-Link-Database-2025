@@ -1,0 +1,121 @@
+# Source:Open Source on Reddit, URL:https://www.reddit.com/r/opensource/.rss, language:en
+
+## Free Software Foundation rides to defend AGPLv3 against Neo4j license add-ons
+ - [https://www.reddit.com/r/opensource/comments/1j4gv9w/free_software_foundation_rides_to_defend_agplv3](https://www.reddit.com/r/opensource/comments/1j4gv9w/free_software_foundation_rides_to_defend_agplv3)
+ - RSS feed: $source
+ - date published: 2025-03-05T23:02:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>A follow up article from the register relating to the Neo4j - FOSS showdown. </p> <p>“FOSS bods file amicus brief in hope of preserving core GNU tenet of freedom forever”</p> <p><a href="https://www.theregister.com/2025/03/04/free_software_foundation_agplv3/">https://www.theregister.com/2025/03/04/free_software_foundation_agplv3/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Major_End2933"> /u/Major_End2933 </a> <br/> <span><a href="https://www.reddit.com/r/opensource/comments/1j4gv9w/free_software_foundation_rides_to_defend_agplv3/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/opensource/comments/1j4gv9w/free_software_foundation_rides_to_defend_agplv3/">[comments]</a></span>
+
+## TrailBase 0.7: Open, sub-millisecond, single-executable FireBase alternative built with Rust, SQLite & V8 🚀
+ - [https://www.reddit.com/r/opensource/comments/1j4ej6m/trailbase_07_open_submillisecond_singleexecutable](https://www.reddit.com/r/opensource/comments/1j4ej6m/trailbase_07_open_submillisecond_singleexecutable)
+ - RSS feed: $source
+ - date published: 2025-03-05T21:28:31+00:00
+
+<!-- SC_OFF --><div class="md"><p><a href="https://github.com/trailbaseio/trailbase">TrailBase</a> is an easy to self-host, sub-millisecond, single-executable FireBase alternative. It provides type-safe REST and realtime APIs, a built-in JS/ES6/TS runtime, SSR, auth &amp; admin UI, ... everything you need to focus on building your next mobile, web or desktop application with fewer moving parts. Sub-millisecond latencies completely eliminate the need for dedicated caches - nor more stale or inconsistent data.</p> <p>Just released v0.7.0 with many new UI features and a lot more polish.</p> <p>Check out the <a href="http://demo.trailbase.io">live demo</a> or our <a href="http://trailbase.io">website</a>. TrailBase is only a few months young and rapidly evolving, we&#39;d really appreciate your feedback 🙏</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/trailbaseio"> /u/trailbaseio </a> <br/> <span><a href="https://www.reddit.com/r/opensource/comment
+
+## Kwaak 0.14 allows you to let agents fix your github issues, from your terminal, in parallel
+ - [https://www.reddit.com/r/opensource/comments/1j4e2sx/kwaak_014_allows_you_to_let_agents_fix_your](https://www.reddit.com/r/opensource/comments/1j4e2sx/kwaak_014_allows_you_to_let_agents_fix_your)
+ - RSS feed: $source
+ - date published: 2025-03-05T21:10:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Kwaak is different than other AI coding tools, it gets out of your way so you can focus on the fun stuff. It&#39;s a free, open-source, terminal based app that can run self coding agents in parallel.</p> <p><a href="/u/bogz314">u/bogz314</a> , one of our awesome contributors, added a feature to instantly launch a kwaak agent on a github issue. Just go `/github issue 42` and let it burn away that tech debt.</p> <p>0.14 boosts faster docker support with Buildkit, a header of only 1 line (it&#39;s amazing, incredibly concise), opt-in/out of tools, and much more. Overall a lot of major work has been done for the next big things on our roadmap.</p> <p>Check out the full release at <a href="https://github.com/bosun-ai/kwaak">https://github.com/bosun-ai/kwaak</a></p> <p>Talking about next big things, we&#39;re adding more on the github integration, switching over to a much nicer, faster and better internal database, multi agent sessions, persistence, and mo
+
+## The Antidote to Greenwashing: Interview With Tobias Augspurger
+ - [https://www.reddit.com/r/opensource/comments/1j4bq2t/the_antidote_to_greenwashing_interview_with](https://www.reddit.com/r/opensource/comments/1j4bq2t/the_antidote_to_greenwashing_interview_with)
+ - RSS feed: $source
+ - date published: 2025-03-05T19:35:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/opensource/comments/1j4bq2t/the_antidote_to_greenwashing_interview_with/"> <img src="https://external-preview.redd.it/EFIxp_YleKasUx9ttDmW2T2qZRAz5WFXZ_7ykDHpcOI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f4bc48cf419e54b88b2abf07e92f37e0d17de122" alt="The Antidote to Greenwashing: Interview With Tobias Augspurger" title="The Antidote to Greenwashing: Interview With Tobias Augspurger" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CountVonOrlock"> /u/CountVonOrlock </a> <br/> <span><a href="https://groundtruth.app/the-antidote-to-greenwashing-interview-with-tobias-augspurger/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/opensource/comments/1j4bq2t/the_antidote_to_greenwashing_interview_with/">[comments]</a></span> </td></tr></table>
+
+## Inviting contributions for an open source browser extension I created for hiding your sensitive content on Slack.
+ - [https://www.reddit.com/r/opensource/comments/1j4ah6a/inviting_contributions_for_an_open_source_browser](https://www.reddit.com/r/opensource/comments/1j4ah6a/inviting_contributions_for_an_open_source_browser)
+ - RSS feed: $source
+ - date published: 2025-03-05T18:45:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been developing this privacy extension for Slack. I want to make the effort collaborative. If you are someone looking to make their first contribution or just find the project interesting. I have created a couple of good first issues which are up for grabs. You can DM me for any help is required to get started.</p> <p>The extension is for the few users who use Slack in browser, it blurs messages until you hover over them or use a keyboard shortcut to unblur</p> <p>What&#39;s the need for it?</p> <p>I used one that hides WhatsApp messages. Made one for Slack as well.</p> <p>Some example scenarios:</p> <p>You&#39;re presenting in a meeting and want to share something from a particular chat. Just hit the shortcut key and all private messages instantly blur and you can unblur once you have the right conversation window open.</p> <p>You don&#39;t want your nosy co-workers or curious onlookers peeping onto your screen to read your conversations in D
+
+## Is it normal for GitHub pull requests to overwrite the commit author and e-mail?
+ - [https://www.reddit.com/r/opensource/comments/1j4888f/is_it_normal_for_github_pull_requests_to](https://www.reddit.com/r/opensource/comments/1j4888f/is_it_normal_for_github_pull_requests_to)
+ - RSS feed: $source
+ - date published: 2025-03-05T17:16:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I was looking at a project on GitHub. It looks like when a pull request is accepted, a new commit is created and the original contributor&#39;s username appears in the commit message as &quot;Merge pull request #12345 from abc/a-random-fix&quot; , but the commit author appearing in the logs is the project member.</p> <p>Is this practice common? I&#39;m just thinking what is the point of making a contribution if I can&#39;t even get my name on it. I don&#39;t see how this will help me with any future employment if nobody can verify I did anything.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/acidrainery"> /u/acidrainery </a> <br/> <span><a href="https://www.reddit.com/r/opensource/comments/1j4888f/is_it_normal_for_github_pull_requests_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/opensource/comments/1j4888f/is_it_normal_for_github_pull_requests_to/">[comments]</a></span>
+
+## Open source fetch wrapper
+ - [https://www.reddit.com/r/opensource/comments/1j43mql/open_source_fetch_wrapper](https://www.reddit.com/r/opensource/comments/1j43mql/open_source_fetch_wrapper)
+ - RSS feed: $source
+ - date published: 2025-03-05T13:57:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>🚀 Just created a tiny fetch library inspired by Axios! 🎉 It&#39;s type-safe, easy to use, and super lightweight (gzip: 600 bytes, install: ~18kb). </p> <p>🤝 Join me in growing together! Check it out <a href="http://github.com/kaleb110/foxios">here</a>. Contributions welcome! 🌟</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tall-Strike-6226"> /u/Tall-Strike-6226 </a> <br/> <span><a href="https://www.reddit.com/r/opensource/comments/1j43mql/open_source_fetch_wrapper/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/opensource/comments/1j43mql/open_source_fetch_wrapper/">[comments]</a></span>
+
+## Is there any risk to my data when using spotube?
+ - [https://www.reddit.com/r/opensource/comments/1j4388g/is_there_any_risk_to_my_data_when_using_spotube](https://www.reddit.com/r/opensource/comments/1j4388g/is_there_any_risk_to_my_data_when_using_spotube)
+ - RSS feed: $source
+ - date published: 2025-03-05T13:36:56+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/NewYahwk"> /u/NewYahwk </a> <br/> <span><a href="https://www.reddit.com/r/opensource/comments/1j4388g/is_there_any_risk_to_my_data_when_using_spotube/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/opensource/comments/1j4388g/is_there_any_risk_to_my_data_when_using_spotube/">[comments]</a></span>
+
+## New TilBuci version - an open source interactive content creation tool
+ - [https://www.reddit.com/r/opensource/comments/1j432vz/new_tilbuci_version_an_open_source_interactive](https://www.reddit.com/r/opensource/comments/1j432vz/new_tilbuci_version_an_open_source_interactive)
+ - RSS feed: $source
+ - date published: 2025-03-05T13:29:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, everyone! I’m happy to say that the TilBuci version 10, a free and open source interactive content creation tool I&#39;ve been working on, is out with many usability improvements!</p> <p>This version brings new simplified interfaces for media management, as well as new possibilities for timed actions and a new content exporter for website embed.</p> <p>Please check out the Github repository for the news! The software is licensed under MPL-2.0.<br/> <a href="https://github.com/lucasjunqueira-var/tilbuci">https://github.com/lucasjunqueira-var/tilbuci</a></p> <p>Thank you for your time ;-)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chokito76"> /u/chokito76 </a> <br/> <span><a href="https://www.reddit.com/r/opensource/comments/1j432vz/new_tilbuci_version_an_open_source_interactive/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/opensource/comments/1j432vz/new_tilbuci_version_an_open_source
+
+## How to open spotube
+ - [https://www.reddit.com/r/opensource/comments/1j42xnz/how_to_open_spotube](https://www.reddit.com/r/opensource/comments/1j42xnz/how_to_open_spotube)
+ - RSS feed: $source
+ - date published: 2025-03-05T13:22:16+00:00
+
+<!-- SC_OFF --><div class="md"><p>I simply can&#39;t stand all the ads of Spotify and have gotten used to using it without. Spotube seems like a good alternitive but I have no idea what else I need to download go open spotube. How is everyone else using it, what is the process?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NewYahwk"> /u/NewYahwk </a> <br/> <span><a href="https://www.reddit.com/r/opensource/comments/1j42xnz/how_to_open_spotube/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/opensource/comments/1j42xnz/how_to_open_spotube/">[comments]</a></span>
+
+## New TilBuci version - na open source interactive content creation tool
+ - [https://www.reddit.com/r/opensource/comments/1j42tqa/new_tilbuci_version_na_open_source_interactive](https://www.reddit.com/r/opensource/comments/1j42tqa/new_tilbuci_version_na_open_source_interactive)
+ - RSS feed: $source
+ - date published: 2025-03-05T13:16:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi, everyone! I’m happy to say that the TilBuci version 10, a free and open source interactive content creation tool I&#39;ve been working on, is out with many usability improvements!</p> <p>This version brings new simplified interfaces for media management, as well as new possibilities for timed actions and a new content exporter for website embed.</p> <p>Please check out the Github repository for the news! The software is licensed under MPL-2.0.<br/> <a href="https://github.com/lucasjunqueira-var/tilbuci">https://github.com/lucasjunqueira-var/tilbuci</a></p> <p>Thank you for your time ;-)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/chokito76"> /u/chokito76 </a> <br/> <span><a href="https://www.reddit.com/r/opensource/comments/1j42tqa/new_tilbuci_version_na_open_source_interactive/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/opensource/comments/1j42tqa/new_tilbuci_version_na_open_source
+
+## OpenHabitTracker 1.1.2 is here with online sync and a guided tour
+ - [https://www.reddit.com/r/opensource/comments/1j41rfg/openhabittracker_112_is_here_with_online_sync_and](https://www.reddit.com/r/opensource/comments/1j41rfg/openhabittracker_112_is_here_with_online_sync_and)
+ - RSS feed: $source
+ - date published: 2025-03-05T12:17:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>OpenHabitTracker is a free and ad-free, open source, privacy focused (all data is stored on your device) app for notes (with Markdown), tasks and habits and works on Android, iOS, macOS, Linux, Windows and Web (as PWA). Check it out at <a href="https://openhabittracker.net">https://openhabittracker.net</a></p> <p>Thank you all for your feedback!</p> <p>The two most requested features were a guided tour and online sync and they are finally here!</p> <p>Guided tours can be enabled (and disabled) in <code>Settings -&gt; Show help</code>.</p> <p>To enable online sync you can download the <a href="https://hub.docker.com/r/jinjinov/openhabittracker">OpenHabitTracker Docker image</a> and deploy it on your server. You can use an old PC or a Raspberry Pi to host it. This way all your data is under your control.</p> <p>You can also deploy a Docker image to a cloud for free, with persistent storage, without hourly limits to: <a href="http://Fly.io">Fly.io</a>, 
+
+## weightgain – Fine-tune any closed-source embedding model in under a minute
+ - [https://www.reddit.com/r/opensource/comments/1j3zng2/weightgain_finetune_any_closedsource_embedding](https://www.reddit.com/r/opensource/comments/1j3zng2/weightgain_finetune_any_closedsource_embedding)
+ - RSS feed: $source
+ - date published: 2025-03-05T09:55:48+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/opensource/comments/1j3zng2/weightgain_finetune_any_closedsource_embedding/"> <img src="https://external-preview.redd.it/7DpQsgp-_BY0foDE2Ifgs9lDc1N_3d-WDcfFYUfBmLQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3d6473749847985964799d2d9dc4279997c450a" alt="weightgain – Fine-tune any closed-source embedding model in under a minute" title="weightgain – Fine-tune any closed-source embedding model in under a minute" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jsonathan"> /u/jsonathan </a> <br/> <span><a href="https://github.com/shobrook/weightgain">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/opensource/comments/1j3zng2/weightgain_finetune_any_closedsource_embedding/">[comments]</a></span> </td></tr></table>
+
+## Brother MFC firmware update - non-genuine toner now disables critical features.
+ - [https://www.reddit.com/r/opensource/comments/1j3z6p0/brother_mfc_firmware_update_nongenuine_toner_now](https://www.reddit.com/r/opensource/comments/1j3z6p0/brother_mfc_firmware_update_nongenuine_toner_now)
+ - RSS feed: $source
+ - date published: 2025-03-05T09:20:25+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/buhtz"> /u/buhtz </a> <br/> <span><a href="/r/printers/comments/s9b2eg/brother_mfc_firmware_update_nongenuine_toner_now/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/opensource/comments/1j3z6p0/brother_mfc_firmware_update_nongenuine_toner_now/">[comments]</a></span>
+
+## Create video thumbnails are so tiering & expensive with available tools! I've built mine, open-source, and takes less than 10 seconds to generate a pro beautiful thumbnail
+ - [https://www.reddit.com/r/opensource/comments/1j3xxxt/create_video_thumbnails_are_so_tiering_expensive](https://www.reddit.com/r/opensource/comments/1j3xxxt/create_video_thumbnails_are_so_tiering_expensive)
+ - RSS feed: $source
+ - date published: 2025-03-05T07:44:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Creating a thumbnail is so exhausting, don&#39;t you think? We have tools like Canva, (GIMP, if people still use it?), Pixelmator, Photoshop, Lightroom… but they require time to create a decent thumbnail. I don&#39;t want to spend 10 minutes on each of my videos creating a thumbnail. I just wanted something a bit nicer than the default YouTube video thumbnail.</p> <p>That&#39;s why I&#39;ve built my own Electron app that does:</p> <ol> <li>With two or three images, it creates a split universal thumbnail where you can customise the delimiter (colour) and width, as well as add tilt (if needed for a more advanced effect).</li> <li>Optimises the size and resolution.</li> <li>Auto-enhances the image (similar to what Apple&#39;s Auto-Enhance does).</li> <li>Includes other customisation options.</li> <li>The default settings are the best-performing ones from my experience but feel free to customise them if needed.</li> </ol> <p>And I decided to open source 
+
+## Ctrlplane – Open-Source Deployment Orchestration Tool
+ - [https://www.reddit.com/r/opensource/comments/1j3vzhe/ctrlplane_opensource_deployment_orchestration_tool](https://www.reddit.com/r/opensource/comments/1j3vzhe/ctrlplane_opensource_deployment_orchestration_tool)
+ - RSS feed: $source
+ - date published: 2025-03-05T05:31:28+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/InfoPaste"> /u/InfoPaste </a> <br/> <span><a href="/r/devops/comments/1j3vif2/ctrlplane_opensource_deployment_orchestration_tool/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/opensource/comments/1j3vzhe/ctrlplane_opensource_deployment_orchestration_tool/">[comments]</a></span>
+
+## OpenSourceAlternatives to Guru | AI Search Tool
+ - [https://www.reddit.com/r/opensource/comments/1j3uy52/opensourcealternatives_to_guru_ai_search_tool](https://www.reddit.com/r/opensource/comments/1j3uy52/opensourcealternatives_to_guru_ai_search_tool)
+ - RSS feed: $source
+ - date published: 2025-03-05T04:30:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I wanted to create a bot that surfaces previously answered or discussed queries to reduce redundancy, boost efficiency and enhance knowledge sharing. Hence, i started validating this idea before building a MVP. I then came across Guru (<a href="https://www.getguru.com/?r=0">https://www.getguru.com/</a>) and also a ton of other alternatives to guru like nuclino, Pyn, Notion, Tettra, etc.</p> <p>However, I could not find a similar robust opensource projects readily. I found a few like eXo, Documize, phpMyFAQ, OpenKM, CloudTutorial (<a href="https://document360.com/blog/open-source-knowledge-base-software/">https://document360.com/blog/open-source-knowledge-base-software/</a>) but they are lacking some key features which Guru and the other alternatives provide like AI, integrations etc</p> <p>I wanted to ask are there more tools which i have missed which are a worth to look at ! Also, is it worth to create a project? I feel, it&#39;s a rather simple imp
+

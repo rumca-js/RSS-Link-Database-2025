@@ -1,0 +1,9 @@
+# Source:Emulation, URL:https://www.reddit.com/r/emulation/.rss, language:
+
+## gopher64 needs a new GUI, can you help?
+ - [https://www.reddit.com/r/emulation/comments/1j4baz6/gopher64_needs_a_new_gui_can_you_help](https://www.reddit.com/r/emulation/comments/1j4baz6/gopher64_needs_a_new_gui_can_you_help)
+ - RSS feed: $source
+ - date published: 2025-03-05T19:18:21+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I am the author of gopher64 (<a href="https://github.com/gopher64/gopher64">https://github.com/gopher64/gopher64</a>), the successor to simple64. Gopher64 is already very good! It plays the entire commercial library, as well as Libdragon homebrew ROMs.</p> <p>However, I am not a very good GUI developer, and the GUI could use work. The emulator is written in Rust. This is a great opportunity for someone looking for a project! I honestly do not care what approach is taken. If you want to delete the current GUI entirely and write something new, great! If you want to re-work what is already there, also great! Please reach out to me on Github or Discord if you want to contribute, thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/gopher_64"> /u/gopher_64 </a> <br/> <span><a href="https://www.reddit.com/r/emulation/comments/1j4baz6/gopher64_needs_a_new_gui_can_you_help/">[link]</a></span> &#32; <span><a hr
+

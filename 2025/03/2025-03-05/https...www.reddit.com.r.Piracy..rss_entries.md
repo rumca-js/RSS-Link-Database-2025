@@ -1,0 +1,408 @@
+# Source:Piracy: ꜱᴀɪʟ ᴛʜᴇ ʜɪɢʜ ꜱᴇᴀꜱ, URL:https://www.reddit.com/r/Piracy/.rss, language:
+
+## War for Cybertron
+ - [https://www.reddit.com/r/Piracy/comments/1j4h884/war_for_cybertron](https://www.reddit.com/r/Piracy/comments/1j4h884/war_for_cybertron)
+ - RSS feed: $source
+ - date published: 2025-03-05T23:18:33+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1j4h884/war_for_cybertron/"> <img src="https://a.thumbs.redditmedia.com/VHnWB-3ZsyCSrhZB0ThsMO8Y4v0OHMkMcRkj-cyx9-0.jpg" alt="War for Cybertron" title="War for Cybertron" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/ur4j6c54fyme1.png?width=1014&amp;format=png&amp;auto=webp&amp;s=83f2d1ad1cc1719e45c0064dfe3903e208df5de9">https://preview.redd.it/ur4j6c54fyme1.png?width=1014&amp;format=png&amp;auto=webp&amp;s=83f2d1ad1cc1719e45c0064dfe3903e208df5de9</a></p> <p>i have zero idea if this is safe, its a disk image file and i have zero idea what to do. also fuck activision, abandonware sucks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Oreokiller_2011"> /u/Oreokiller_2011 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j4h884/war_for_cybertron/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1
+
+## Calibre & Calibre-Web
+ - [https://www.reddit.com/r/Piracy/comments/1j4fxc5/calibre_calibreweb](https://www.reddit.com/r/Piracy/comments/1j4fxc5/calibre_calibreweb)
+ - RSS feed: $source
+ - date published: 2025-03-05T22:24:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Does anyone know if it’s possible for Calibre to auto run deACSM when an .acsm file is uploaded through Calibre-Web?</p> <p>I know the Calibre content server can auto run the plugin in order to remove the drm on ebooks… but I was wondering if the plugin can run when using Calibre-Web.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/itsandyayala"> /u/itsandyayala </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j4fxc5/calibre_calibreweb/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j4fxc5/calibre_calibreweb/">[comments]</a></span>
+
+## What's the best method of finding if a movie/TV show is available on literally any service, including private trackers?
+ - [https://www.reddit.com/r/Piracy/comments/1j4fsyz/whats_the_best_method_of_finding_if_a_movietv](https://www.reddit.com/r/Piracy/comments/1j4fsyz/whats_the_best_method_of_finding_if_a_movietv)
+ - RSS feed: $source
+ - date published: 2025-03-05T22:19:33+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m fairly adept at searching public trackers, but there&#39;s always a handful of movies or shows that I can&#39;t find anywhere. I know there&#39;s a ton of stuff in the big private trackers like PTP and BTN as well as P2P clients, but there&#39;s a few movies and series that I&#39;m wondering if they even exist there at all in a digital format. I&#39;ve been told Usenet is probably the direction I should be going for the really obscure stuff but I&#39;m not really sure how to set all that up. I&#39;m not sure if the stuff I&#39;m even looking for exists in a digital format and may as well be lost media.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Ash-Throwaway-816"> /u/Ash-Throwaway-816 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j4fsyz/whats_the_best_method_of_finding_if_a_movietv/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j4fsyz/whats_t
+
+## Spotify issues
+ - [https://www.reddit.com/r/Piracy/comments/1j4fqae/spotify_issues](https://www.reddit.com/r/Piracy/comments/1j4fqae/spotify_issues)
+ - RSS feed: $source
+ - date published: 2025-03-05T22:16:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey guys, my Spotify stopped loading my playlists even though I just downloaded 9.0.29.108, I&#39;m still logged in n shit, am I missing something? Can somebody link me an APK that works? Thanks y&#39;all </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheJadeSword"> /u/TheJadeSword </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j4fqae/spotify_issues/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j4fqae/spotify_issues/">[comments]</a></span>
+
+## Why is it so hard to find audiobooks compared to ebooks?
+ - [https://www.reddit.com/r/Piracy/comments/1j4f51d/why_is_it_so_hard_to_find_audiobooks_compared_to](https://www.reddit.com/r/Piracy/comments/1j4f51d/why_is_it_so_hard_to_find_audiobooks_compared_to)
+ - RSS feed: $source
+ - date published: 2025-03-05T21:53:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>I guess the title is self explanatory </p> <p>So easy to find books for my e-reader so so hard to find stuff to listen to on my phone!</p> <p>Are audio books just not popular?</p> <p>Anna archive I found to be brilliant </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Rare-Hunt143"> /u/Rare-Hunt143 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j4f51d/why_is_it_so_hard_to_find_audiobooks_compared_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j4f51d/why_is_it_so_hard_to_find_audiobooks_compared_to/">[comments]</a></span>
+
+## FMHY SafeLink Guard – Advanced Protection for Safer Browsing - usrscrpt
+ - [https://www.reddit.com/r/Piracy/comments/1j4e6f9/fmhy_safelink_guard_advanced_protection_for_safer](https://www.reddit.com/r/Piracy/comments/1j4e6f9/fmhy_safelink_guard_advanced_protection_for_safer)
+ - RSS feed: $source
+ - date published: 2025-03-05T21:14:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1j4e6f9/fmhy_safelink_guard_advanced_protection_for_safer/"> <img src="https://external-preview.redd.it/B1mI0raL07dYMnO9jSvLvQfn5Tb-vAYxNPyuI0NcZ4M.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=38149ee148c5e10e09cee3a3217b2a1274aec1c0" alt="FMHY SafeLink Guard – Advanced Protection for Safer Browsing - usrscrpt" title="FMHY SafeLink Guard – Advanced Protection for Safer Browsing - usrscrpt" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>A while ago there was a post about an official FMHY extension that, when browsing a website, displayed an icon if it was a trusted site or not.</p> <p>I created a userscript that <strong>visually indicates whether a site is safe or unsafe before you even click the link</strong>.<br/> Unlike the official extension, this script works <strong>before visiting the site</strong>, meaning you can see if a domain is trusted or flagged directly on any page that contains the link.</p> <p
+
+## out of no where spotify stopped working
+ - [https://www.reddit.com/r/Piracy/comments/1j4e18t/out_of_no_where_spotify_stopped_working](https://www.reddit.com/r/Piracy/comments/1j4e18t/out_of_no_where_spotify_stopped_working)
+ - RSS feed: $source
+ - date published: 2025-03-05T21:08:36+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1j4e18t/out_of_no_where_spotify_stopped_working/"> <img src="https://external-preview.redd.it/ZXhmYmpxaDJzeG1lMah7QtqR1iOXa2iLvP09uPIepax4GopL3D87WmzZ5rjB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=93155f9801e0650cc81dff708d4c24c21a583103" alt="out of no where spotify stopped working" title="out of no where spotify stopped working" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>So I&#39;ve been using xmanager for 3 months now and it&#39;s been working great. But literally yesterday I was gonna play &quot;do u kno de wae&quot; and all the songs showed as unavailable, like I had no internet connection. I&#39;ve reinstalled spotify 3 times from xmanager and I still have the same issue. What can I do fix this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Madrimious"> /u/Madrimious </a> <br/> <span><a href="https://v.redd.it/55aagqj2sxme1">[link]</a></span> &#32; <span><
+
+## leaked albums
+ - [https://www.reddit.com/r/Piracy/comments/1j4di0q/leaked_albums](https://www.reddit.com/r/Piracy/comments/1j4di0q/leaked_albums)
+ - RSS feed: $source
+ - date published: 2025-03-05T20:47:19+00:00
+
+<!-- SC_OFF --><div class="md"><p>i normally use dbree, but where is a good place to listen to leaked music in high quality? thanks x</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Apart-Personality790"> /u/Apart-Personality790 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j4di0q/leaked_albums/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j4di0q/leaked_albums/">[comments]</a></span>
+
+## Is it possible in the future, for piracy?
+ - [https://www.reddit.com/r/Piracy/comments/1j4d29h/is_it_possible_in_the_future_for_piracy](https://www.reddit.com/r/Piracy/comments/1j4d29h/is_it_possible_in_the_future_for_piracy)
+ - RSS feed: $source
+ - date published: 2025-03-05T20:29:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>My idea is a fully decentralized, anonymous, and resilient file-sharing system where files are sharded, encrypted, and distributed across users. No one has the full file, and no user knows who they send to. Onion routing, mixnets, and cryptographic reconstruction ensure security and anonymity. It’s like BitTorrent + Tor + IPFS + Secret Sharing, making it nearly impossible to track or shut down.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ParkSad6096"> /u/ParkSad6096 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j4d29h/is_it_possible_in_the_future_for_piracy/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j4d29h/is_it_possible_in_the_future_for_piracy/">[comments]</a></span>
+
+## How to get videos from stubborn sites when jdownloader and extensions don't work?
+ - [https://www.reddit.com/r/Piracy/comments/1j4b7ck/how_to_get_videos_from_stubborn_sites_when](https://www.reddit.com/r/Piracy/comments/1j4b7ck/how_to_get_videos_from_stubborn_sites_when)
+ - RSS feed: $source
+ - date published: 2025-03-05T19:14:17+00:00
+
+<!-- SC_OFF --><div class="md"><p>There is a particular site that airs an international show I like. Extensions like VDH don&#39;t register any downloadable content on the site. And jdownloader (when I add the url link) just fills up with an endless list of offline content and garbled junk like random jpeg files and stuff. Is there another program or any tips anyone here can offer when these tools don&#39;t work? I am using a mac if that matters.</p> <p>Edit - site is goplay.be. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/WendallX"> /u/WendallX </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j4b7ck/how_to_get_videos_from_stubborn_sites_when/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j4b7ck/how_to_get_videos_from_stubborn_sites_when/">[comments]</a></span>
+
+## I got a copy right claim for 1,500 bucks in Germany, what can I do?
+ - [https://www.reddit.com/r/Piracy/comments/1j4axqq/i_got_a_copy_right_claim_for_1500_bucks_in](https://www.reddit.com/r/Piracy/comments/1j4axqq/i_got_a_copy_right_claim_for_1500_bucks_in)
+ - RSS feed: $source
+ - date published: 2025-03-05T19:03:31+00:00
+
+<!-- SC_OFF --><div class="md"><p>Warner Brothers sent me a copyright claim for 1500 bucks. I&#39;m in Germany what are my options here? Should I reply or not?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/raylalayla"> /u/raylalayla </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j4axqq/i_got_a_copy_right_claim_for_1500_bucks_in/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j4axqq/i_got_a_copy_right_claim_for_1500_bucks_in/">[comments]</a></span>
+
+## Are MKV's being split in two?
+ - [https://www.reddit.com/r/Piracy/comments/1j49tai/are_mkvs_being_split_in_two](https://www.reddit.com/r/Piracy/comments/1j49tai/are_mkvs_being_split_in_two)
+ - RSS feed: $source
+ - date published: 2025-03-05T18:19:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I have a REMUX of a movie .mkv with MakeMKV program.</p> <p>Whenever I try to place this remux in my seedbox by FTP into downloads folder, the file stops at around 35% and gives a popup &#39;&#39;Target file already exists&#39;&#39;. I have to choose between Overwrite, Rename, etc. The source file size is around 23GB but target file size stays at around 7GB no matter the option I choose. </p> <p>I know that Blu rays are split into multiple &#39;sections&#39; but didn&#39;t know that this was the case with .MKV as well, am I doing something wrong here?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Azertity"> /u/Azertity </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j49tai/are_mkvs_being_split_in_two/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j49tai/are_mkvs_being_split_in_two/">[comments]</a></span>
+
+## Rip Sportsbay.dk
+ - [https://www.reddit.com/r/Piracy/comments/1j49dnx/rip_sportsbaydk](https://www.reddit.com/r/Piracy/comments/1j49dnx/rip_sportsbaydk)
+ - RSS feed: $source
+ - date published: 2025-03-05T18:02:12+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1j49dnx/rip_sportsbaydk/"> <img src="https://preview.redd.it/2wwvnfhtuwme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bbf75f864c52a0a075e0f6130b05e94d01aead59" alt="Rip Sportsbay.dk" title="Rip Sportsbay.dk" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Man as soon a Champions league round of 16ths start too </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Minute-Weather4794"> /u/Minute-Weather4794 </a> <br/> <span><a href="https://i.redd.it/2wwvnfhtuwme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j49dnx/rip_sportsbaydk/">[comments]</a></span> </td></tr></table>
+
+## RIP modded Spotify : New update renders all playlists empty for cracked Android users
+ - [https://www.reddit.com/r/Piracy/comments/1j495z3/rip_modded_spotify_new_update_renders_all](https://www.reddit.com/r/Piracy/comments/1j495z3/rip_modded_spotify_new_update_renders_all)
+ - RSS feed: $source
+ - date published: 2025-03-05T17:54:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m sure many of you who, like me, have been using a cracked version of Spotify on your devices are having a terrible day. The latest update has brought a frustrating change: every playlist now appears as<a href="https://imgur.com/a/fka4GXo"> &quot;this playlist is empty&quot;</a>, making it impossible to play any songs.</p> <p>It seems the update has effectively broken modded Spotify for Android, leaving us with no way to access our favorite playlists. I&#39;m not sure what the future holds for us cracked-Spotify users, but for now, it&#39;s a sad day indeed.</p> <p>Has anyone found a workaround?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Powerful_Brief1724"> /u/Powerful_Brief1724 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j495z3/rip_modded_spotify_new_update_renders_all/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j495z3/rip_modded_spotify
+
+## spotify to mp3
+ - [https://www.reddit.com/r/Piracy/comments/1j489ct/spotify_to_mp3](https://www.reddit.com/r/Piracy/comments/1j489ct/spotify_to_mp3)
+ - RSS feed: $source
+ - date published: 2025-03-05T17:18:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>whats the easiest way to turn spotify playlist and songs to mp3 as basic as possible please 😭🙏</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ultragaming273892"> /u/ultragaming273892 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j489ct/spotify_to_mp3/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j489ct/spotify_to_mp3/">[comments]</a></span>
+
+## Few days late but reminder that spotube exist, for all those affected by spotify hacked not working
+ - [https://www.reddit.com/r/Piracy/comments/1j47mnl/few_days_late_but_reminder_that_spotube_exist_for](https://www.reddit.com/r/Piracy/comments/1j47mnl/few_days_late_but_reminder_that_spotube_exist_for)
+ - RSS feed: $source
+ - date published: 2025-03-05T16:52:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1j47mnl/few_days_late_but_reminder_that_spotube_exist_for/"> <img src="https://external-preview.redd.it/Kcz_-d0jKJniRqMzvM7ezsxBtTQTOa-MiFQ1VjVdsz0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa41093e37e846552729423e085bd744e34d4010" alt="Few days late but reminder that spotube exist, for all those affected by spotify hacked not working" title="Few days late but reminder that spotube exist, for all those affected by spotify hacked not working" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Training_Guarantee_3"> /u/Training_Guarantee_3 </a> <br/> <span><a href="https://github.com/KRTirtho/spotube">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j47mnl/few_days_late_but_reminder_that_spotube_exist_for/">[comments]</a></span> </td></tr></table>
+
+## RIP Modded Spotify. Switching to RVX.
+ - [https://www.reddit.com/r/Piracy/comments/1j47m5k/rip_modded_spotify_switching_to_rvx](https://www.reddit.com/r/Piracy/comments/1j47m5k/rip_modded_spotify_switching_to_rvx)
+ - RSS feed: $source
+ - date published: 2025-03-05T16:52:14+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1j47m5k/rip_modded_spotify_switching_to_rvx/"> <img src="https://preview.redd.it/p9oq7e1ciwme1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=348bdc75d4da93535078d6329ead959af3957c39" alt="RIP Modded Spotify. Switching to RVX." title="RIP Modded Spotify. Switching to RVX." /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I&#39;ve noticed SpotX on desktop still works tho.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Coolby_Ciller"> /u/Coolby_Ciller </a> <br/> <span><a href="https://i.redd.it/p9oq7e1ciwme1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j47m5k/rip_modded_spotify_switching_to_rvx/">[comments]</a></span> </td></tr></table>
+
+## Just found out about this,since online doesn't work in cracked GTA5 just delete every folder that starts with mp(stands for multiplayer)in this directory and it will save you a LOT of space
+ - [https://www.reddit.com/r/Piracy/comments/1j47h4q/just_found_out_about_thissince_online_doesnt_work](https://www.reddit.com/r/Piracy/comments/1j47h4q/just_found_out_about_thissince_online_doesnt_work)
+ - RSS feed: $source
+ - date published: 2025-03-05T16:46:15+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1j47h4q/just_found_out_about_thissince_online_doesnt_work/"> <img src="https://preview.redd.it/71jwcwprgwme1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d0096a5d04328370c3a04d887a481d8bf51750ff" alt="Just found out about this,since online doesn't work in cracked GTA5 just delete every folder that starts with mp(stands for multiplayer)in this directory and it will save you a LOT of space" title="Just found out about this,since online doesn't work in cracked GTA5 just delete every folder that starts with mp(stands for multiplayer)in this directory and it will save you a LOT of space" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JonBuqajIsSUS"> /u/JonBuqajIsSUS </a> <br/> <span><a href="https://i.redd.it/71jwcwprgwme1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j47h4q/just_found_out_about_thissince_online_doesnt_work/">[comments]</a></span>
+
+## Found a temporary solution for the Spotify mod ban
+ - [https://www.reddit.com/r/Piracy/comments/1j4795p/found_a_temporary_solution_for_the_spotify_mod_ban](https://www.reddit.com/r/Piracy/comments/1j4795p/found_a_temporary_solution_for_the_spotify_mod_ban)
+ - RSS feed: $source
+ - date published: 2025-03-05T16:37:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Firstly dear greedy Spotify folks. Its nice to see you try to prevent people from freely using your app (with limitations like no offline listening) while you still make billions. Therefore I will kindly decide to NOT pay for a subscription.</p> <p>With that out of the way and (yes I am not paying Spotify a cent just for ruining my day) the current solution is to use an app called <em>Refreezer</em>. I am aware of <em>Spotube</em> but many songs I listen to are not there because it&#39;s streaming through YouTube. With the app Refreezer, it streams from Deezer and you can easily transfer your Spotify playlists to Deezer. Open the Refreezer app and you can directly log in to your Deezer account. </p> <p>Hoping all the heroes that don&#39;t wear capes are working tirelessly to bring the modded Spotify back! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DPJesus69"> /u/DPJesus69 </a> <br/> <span><a href="https://
+
+## Hoping a kind soul fixes the shit Spotify has done
+ - [https://www.reddit.com/r/Piracy/comments/1j475pw/hoping_a_kind_soul_fixes_the_shit_spotify_has_done](https://www.reddit.com/r/Piracy/comments/1j475pw/hoping_a_kind_soul_fixes_the_shit_spotify_has_done)
+ - RSS feed: $source
+ - date published: 2025-03-05T16:32:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1j475pw/hoping_a_kind_soul_fixes_the_shit_spotify_has_done/"> <img src="https://preview.redd.it/1nwnqgbwewme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2ea46b06b4745199fbdb5ea2a3ca0f2770a85339" alt="Hoping a kind soul fixes the shit Spotify has done" title="Hoping a kind soul fixes the shit Spotify has done" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheRealUSSR"> /u/TheRealUSSR </a> <br/> <span><a href="https://i.redd.it/1nwnqgbwewme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j475pw/hoping_a_kind_soul_fixes_the_shit_spotify_has_done/">[comments]</a></span> </td></tr></table>
+
+## it's like this every week. can someone pls explain the purpose for the later upload if the file specs are identical besides one of them having the episodes name included?
+ - [https://www.reddit.com/r/Piracy/comments/1j46qmc/its_like_this_every_week_can_someone_pls_explain](https://www.reddit.com/r/Piracy/comments/1j46qmc/its_like_this_every_week_can_someone_pls_explain)
+ - RSS feed: $source
+ - date published: 2025-03-05T16:16:04+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1j46qmc/its_like_this_every_week_can_someone_pls_explain/"> <img src="https://a.thumbs.redditmedia.com/caUtye6jQ6yvG15d82uPUr2TcE3y21JCGBwJFaw6MP8.jpg" alt="it's like this every week. can someone pls explain the purpose for the later upload if the file specs are identical besides one of them having the episodes name included?" title="it's like this every week. can someone pls explain the purpose for the later upload if the file specs are identical besides one of them having the episodes name included?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/durrasonic"> /u/durrasonic </a> <br/> <span><a href="https://www.reddit.com/gallery/1j46qmc">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j46qmc/its_like_this_every_week_can_someone_pls_explain/">[comments]</a></span> </td></tr></table>
+
+## Are your files organized?
+ - [https://www.reddit.com/r/Piracy/comments/1j469vr/are_your_files_organized](https://www.reddit.com/r/Piracy/comments/1j469vr/are_your_files_organized)
+ - RSS feed: $source
+ - date published: 2025-03-05T15:56:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m trying to keep all of my files organized but just one torrent puts like 50 files in 4 different places. How do you organize everything and know what everything is? I’m also wondering how much of it you actually need once you have the game or whatever working. I know that more than just the game file is needed to seed but idk what. Do you guys have an organization system? Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/narwaffles"> /u/narwaffles </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j469vr/are_your_files_organized/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j469vr/are_your_files_organized/">[comments]</a></span>
+
+## my homework is due on friday anything i can do with my copy of access
+ - [https://www.reddit.com/r/Piracy/comments/1j469cg/my_homework_is_due_on_friday_anything_i_can_do](https://www.reddit.com/r/Piracy/comments/1j469cg/my_homework_is_due_on_friday_anything_i_can_do)
+ - RSS feed: $source
+ - date published: 2025-03-05T15:55:58+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1j469cg/my_homework_is_due_on_friday_anything_i_can_do/"> <img src="https://preview.redd.it/b19xa5788wme1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=64a3a913466ca06c79a73181e8e048e83d12849d" alt="my homework is due on friday anything i can do with my copy of access" title="my homework is due on friday anything i can do with my copy of access" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/noodleguy67"> /u/noodleguy67 </a> <br/> <span><a href="https://i.redd.it/b19xa5788wme1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j469cg/my_homework_is_due_on_friday_anything_i_can_do/">[comments]</a></span> </td></tr></table>
+
+## I need to download 70ish small pdf files from a google drive folder, in which each pdf file is download restricted, and that keeps the same name for files
+ - [https://www.reddit.com/r/Piracy/comments/1j466m4/i_need_to_download_70ish_small_pdf_files_from_a](https://www.reddit.com/r/Piracy/comments/1j466m4/i_need_to_download_70ish_small_pdf_files_from_a)
+ - RSS feed: $source
+ - date published: 2025-03-05T15:52:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>How do I do this? I have found a basic script that essentially just saves each page as an image and combines them into a pdf, but it cannot save names and is inefficient to do for the number of files I have. Is there any way to make it faster/easier?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Just_OneMore_Nerd"> /u/Just_OneMore_Nerd </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j466m4/i_need_to_download_70ish_small_pdf_files_from_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j466m4/i_need_to_download_70ish_small_pdf_files_from_a/">[comments]</a></span>
+
+## Windows 10 Pro product key
+ - [https://www.reddit.com/r/Piracy/comments/1j45vhe/windows_10_pro_product_key](https://www.reddit.com/r/Piracy/comments/1j45vhe/windows_10_pro_product_key)
+ - RSS feed: $source
+ - date published: 2025-03-05T15:38:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have an older Win10 computer that crashed. I reformatted the hard drive, installed Windows 10 Pro using Rufus and a Microsoft ISO file. The previously installed version was Win10 Home, so whatever product key might have been stored in BIOS isn&#39;t being automatically picked up. There is no product key sticker on the machine, and the original documentation was lost years ago. Any ideas on how to get a valid product key?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/uptwolait"> /u/uptwolait </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j45vhe/windows_10_pro_product_key/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j45vhe/windows_10_pro_product_key/">[comments]</a></span>
+
+## My phone updated and my modified Spotify stopped working
+ - [https://www.reddit.com/r/Piracy/comments/1j45fkv/my_phone_updated_and_my_modified_spotify_stopped](https://www.reddit.com/r/Piracy/comments/1j45fkv/my_phone_updated_and_my_modified_spotify_stopped)
+ - RSS feed: $source
+ - date published: 2025-03-05T15:19:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I honestly can&#39;t remember how I got it working but I did YouTube revanced and all that before and I think I did the same. I play them all through Android Auto in my car but after the Android update to oxygen 15? Spotify shows my history and likes songs etc but every play list is empty</p> <p>Is this a known thing, does it need to be modded again? Any guides?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/uncleseano"> /u/uncleseano </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j45fkv/my_phone_updated_and_my_modified_spotify_stopped/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j45fkv/my_phone_updated_and_my_modified_spotify_stopped/">[comments]</a></span>
+
+## Spotify premium apk
+ - [https://www.reddit.com/r/Piracy/comments/1j45f2w/spotify_premium_apk](https://www.reddit.com/r/Piracy/comments/1j45f2w/spotify_premium_apk)
+ - RSS feed: $source
+ - date published: 2025-03-05T15:19:14+00:00
+
+<!-- SC_OFF --><div class="md"><p>Does anyone got a working Spotify premium apk that I can use because the one I use got taken down </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GLOCK19KING"> /u/GLOCK19KING </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j45f2w/spotify_premium_apk/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j45f2w/spotify_premium_apk/">[comments]</a></span>
+
+## Some days....
+ - [https://www.reddit.com/r/Piracy/comments/1j45a4l/some_days](https://www.reddit.com/r/Piracy/comments/1j45a4l/some_days)
+ - RSS feed: $source
+ - date published: 2025-03-05T15:13:10+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1j45a4l/some_days/"> <img src="https://preview.redd.it/qxu4cvvm0wme1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0fb343b3b965ca2623161c8b7b96ade659d6c978" alt="Some days...." title="Some days...." /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Flashy-Friendship-65"> /u/Flashy-Friendship-65 </a> <br/> <span><a href="https://i.redd.it/qxu4cvvm0wme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j45a4l/some_days/">[comments]</a></span> </td></tr></table>
+
+## YouTube Origin - a YouTube app for Android TV with built-in uBlock Origin
+ - [https://www.reddit.com/r/Piracy/comments/1j45569/youtube_origin_a_youtube_app_for_android_tv_with](https://www.reddit.com/r/Piracy/comments/1j45569/youtube_origin_a_youtube_app_for_android_tv_with)
+ - RSS feed: $source
+ - date published: 2025-03-05T15:06:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1j45569/youtube_origin_a_youtube_app_for_android_tv_with/"> <img src="https://external-preview.redd.it/QYLNlLcMZ07qDAPnpZmh4dgcOc9M7Vu2IyGFowIEqSw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=55feb7d41055a1d864a36d65ae8c4c9e983f3ef2" alt="YouTube Origin - a YouTube app for Android TV with built-in uBlock Origin" title="YouTube Origin - a YouTube app for Android TV with built-in uBlock Origin" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/NeoSDAP"> /u/NeoSDAP </a> <br/> <span><a href="https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j45569/youtube_origin_a_youtube_app_for_android_tv_with/">[comments]</a></span> </td></tr></table>
+
+## AllMacWorlds allows malware on their website
+ - [https://www.reddit.com/r/Piracy/comments/1j44x5q/allmacworlds_allows_malware_on_their_website](https://www.reddit.com/r/Piracy/comments/1j44x5q/allmacworlds_allows_malware_on_their_website)
+ - RSS feed: $source
+ - date published: 2025-03-05T14:57:11+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1j44x5q/allmacworlds_allows_malware_on_their_website/"> <img src="https://preview.redd.it/rrnql2ooxvme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cdd71bf524ca3f2c66cd1e73f7b2d78e888e911a" alt="AllMacWorlds allows malware on their website" title="AllMacWorlds allows malware on their website" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>If you look at CleanMyMac 5.0.5 it contains a stealer</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GoldSide1768"> /u/GoldSide1768 </a> <br/> <span><a href="https://i.redd.it/rrnql2ooxvme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j44x5q/allmacworlds_allows_malware_on_their_website/">[comments]</a></span> </td></tr></table>
+
+## tip to get b.r.a.i.in.f.m sounds for free
+ - [https://www.reddit.com/r/Piracy/comments/1j44dkm/tip_to_get_braiinfm_sounds_for_free](https://www.reddit.com/r/Piracy/comments/1j44dkm/tip_to_get_braiinfm_sounds_for_free)
+ - RSS feed: $source
+ - date published: 2025-03-05T14:31:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>just use the free trial and get some media downloader extension fom the chrome store, I tried like the second most popular and it worked as a charm. Now I have a library of 5gb of sounds to listen to offline :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/murkomarko"> /u/murkomarko </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j44dkm/tip_to_get_braiinfm_sounds_for_free/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j44dkm/tip_to_get_braiinfm_sounds_for_free/">[comments]</a></span>
+
+## Does these seem legit?
+ - [https://www.reddit.com/r/Piracy/comments/1j4481a/does_these_seem_legit](https://www.reddit.com/r/Piracy/comments/1j4481a/does_these_seem_legit)
+ - RSS feed: $source
+ - date published: 2025-03-05T14:24:36+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I&#39;d be glad if anyone more experienced could look at these reports from VT. Enscape and SketchUp I got from RuTracker. Thanks in advance!</p> <p><a href="https://www.virustotal.com/gui/file/e9ff63a0cb46b68a9133d4fdd870b60e59b5e0b1bf27b1d7f5f8b880646f4383/relations">Enscape </a></p> <p><a href="https://www.virustotal.com/gui/file/b62e73ebf00cf73ee6e19fbdbc44bd84ace4163ee053bb8e2723d00617448e95">SketchUp</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Questyr_"> /u/Questyr_ </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j4481a/does_these_seem_legit/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j4481a/does_these_seem_legit/">[comments]</a></span>
+
+## Spotify
+ - [https://www.reddit.com/r/Piracy/comments/1j445ob/spotify](https://www.reddit.com/r/Piracy/comments/1j445ob/spotify)
+ - RSS feed: $source
+ - date published: 2025-03-05T14:21:34+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is Spotify dead again ? My mod ran out just now and I can&#39;t play song . Any solutions?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TheRealBahun"> /u/TheRealBahun </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j445ob/spotify/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j445ob/spotify/">[comments]</a></span>
+
+## Nintendo's Lawyers Deal Potentially Fatal Blow To ROM Sharing
+ - [https://www.reddit.com/r/Piracy/comments/1j441tq/nintendos_lawyers_deal_potentially_fatal_blow_to](https://www.reddit.com/r/Piracy/comments/1j441tq/nintendos_lawyers_deal_potentially_fatal_blow_to)
+ - RSS feed: $source
+ - date published: 2025-03-05T14:16:31+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1j441tq/nintendos_lawyers_deal_potentially_fatal_blow_to/"> <img src="https://external-preview.redd.it/RmICkR5HQvFNXHFJQjCqOBCfyUcDalaLBtmdgrXGtfQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8bab0c123e77970b24e97b4f6412a17eeb45dcce" alt="Nintendo's Lawyers Deal Potentially Fatal Blow To ROM Sharing" title="Nintendo's Lawyers Deal Potentially Fatal Blow To ROM Sharing" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/EthanWilliams_TG"> /u/EthanWilliams_TG </a> <br/> <span><a href="https://techcrawlr.com/nintendos-lawyers-deal-potentially-fatal-blow-to-rom-sharing/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j441tq/nintendos_lawyers_deal_potentially_fatal_blow_to/">[comments]</a></span> </td></tr></table>
+
+## Can someone help me??
+ - [https://www.reddit.com/r/Piracy/comments/1j43tmg/can_someone_help_me](https://www.reddit.com/r/Piracy/comments/1j43tmg/can_someone_help_me)
+ - RSS feed: $source
+ - date published: 2025-03-05T14:05:41+00:00
+
+<!-- SC_OFF --><div class="md"><p>I recently downloaded Pokemon violet&#39;s xci file which said it had all the updates and DLC but i cannot access the Teal Mask DLC somehow , does anyone know a solution to this</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TowerAggressive4288"> /u/TowerAggressive4288 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j43tmg/can_someone_help_me/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j43tmg/can_someone_help_me/">[comments]</a></span>
+
+## Is there something like Lucida but for YT Music Premium or YT Music? A web or app to download the lossless original file or convert it to opus/aac.
+ - [https://www.reddit.com/r/Piracy/comments/1j43mzr/is_there_something_like_lucida_but_for_yt_music](https://www.reddit.com/r/Piracy/comments/1j43mzr/is_there_something_like_lucida_but_for_yt_music)
+ - RSS feed: $source
+ - date published: 2025-03-05T13:57:25+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m looking to download the original untouched file at least the conversion comes from lossless sources, like Lucida does.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/cfrn7"> /u/cfrn7 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j43mzr/is_there_something_like_lucida_but_for_yt_music/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j43mzr/is_there_something_like_lucida_but_for_yt_music/">[comments]</a></span>
+
+## Fitgirl concert?
+ - [https://www.reddit.com/r/Piracy/comments/1j43ixz/fitgirl_concert](https://www.reddit.com/r/Piracy/comments/1j43ixz/fitgirl_concert)
+ - RSS feed: $source
+ - date published: 2025-03-05T13:51:55+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1j43ixz/fitgirl_concert/"> <img src="https://preview.redd.it/3h74fhv5mvme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b636c62ab2fa073bd0f7952075a852bdcd15d20e" alt="Fitgirl concert?" title="Fitgirl concert?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Kloffein"> /u/Kloffein </a> <br/> <span><a href="https://i.redd.it/3h74fhv5mvme1.jpeg">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j43ixz/fitgirl_concert/">[comments]</a></span> </td></tr></table>
+
+## Spotify 8.6 modded apk stopped today.
+ - [https://www.reddit.com/r/Piracy/comments/1j4362t/spotify_86_modded_apk_stopped_today](https://www.reddit.com/r/Piracy/comments/1j4362t/spotify_86_modded_apk_stopped_today)
+ - RSS feed: $source
+ - date published: 2025-03-05T13:33:50+00:00
+
+<!-- SC_OFF --><div class="md"><p>Anyone got a safe more recent version?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Inquisitor--Nox"> /u/Inquisitor--Nox </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j4362t/spotify_86_modded_apk_stopped_today/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j4362t/spotify_86_modded_apk_stopped_today/">[comments]</a></span>
+
+## Notion template repositories
+ - [https://www.reddit.com/r/Piracy/comments/1j431ol/notion_template_repositories](https://www.reddit.com/r/Piracy/comments/1j431ol/notion_template_repositories)
+ - RSS feed: $source
+ - date published: 2025-03-05T13:27:56+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve been looking for a specific Notion creator template.</p> <p>I&#39;ve searched through hacksation, tutflix and duforum but to no success. Does anyone know another respository/forum for these paid templates?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pathfinder_M"> /u/Pathfinder_M </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j431ol/notion_template_repositories/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j431ol/notion_template_repositories/">[comments]</a></span>
+
+## Audiobooks and Audiobook players?
+ - [https://www.reddit.com/r/Piracy/comments/1j421hm/audiobooks_and_audiobook_players](https://www.reddit.com/r/Piracy/comments/1j421hm/audiobooks_and_audiobook_players)
+ - RSS feed: $source
+ - date published: 2025-03-05T12:34:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m more of a zlibrary guy when it comes to sailing the seas but I haven&#39;t found a good audiobook player that&#39;s not Audible. Can anyone recommend anything, ideally something that recognises chapters and possible has a sleep countdown? (Best places for the audiobook themselves would be appreciated also) </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/reubenslost"> /u/reubenslost </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j421hm/audiobooks_and_audiobook_players/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j421hm/audiobooks_and_audiobook_players/">[comments]</a></span>
+
+## what's the website to patch genuine copy of games by yourself ?
+ - [https://www.reddit.com/r/Piracy/comments/1j41sz1/whats_the_website_to_patch_genuine_copy_of_games](https://www.reddit.com/r/Piracy/comments/1j41sz1/whats_the_website_to_patch_genuine_copy_of_games)
+ - RSS feed: $source
+ - date published: 2025-03-05T12:20:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>my hostel has a datacap and my friend has a genuine copy, so how do I patch it for myself ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/InvincibleCipher3"> /u/InvincibleCipher3 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j41sz1/whats_the_website_to_patch_genuine_copy_of_games/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j41sz1/whats_the_website_to_patch_genuine_copy_of_games/">[comments]</a></span>
+
+## Australia Laws
+ - [https://www.reddit.com/r/Piracy/comments/1j41156/australia_laws](https://www.reddit.com/r/Piracy/comments/1j41156/australia_laws)
+ - RSS feed: $source
+ - date published: 2025-03-05T11:33:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>Just moved to Australia and I know Piracy is illegal but ‘a friend of mine’ got a message saying “access denied privacy is a federal crime in the- etc” while trying to use f2movies allegedly, and I- they* have never seen that before. Is it safe to surf the web in those areas with a con out here or is there possibility’s of fines? Cheers </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TK0O"> /u/TK0O </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j41156/australia_laws/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j41156/australia_laws/">[comments]</a></span>
+
+## How does seeding to multiple private trackers work? (cross-seed?)
+ - [https://www.reddit.com/r/Piracy/comments/1j40ymv/how_does_seeding_to_multiple_private_trackers](https://www.reddit.com/r/Piracy/comments/1j40ymv/how_does_seeding_to_multiple_private_trackers)
+ - RSS feed: $source
+ - date published: 2025-03-05T11:28:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>So I want to actually create 1 torrent and seed that to multiple private trackers. </p> <p>How does this work / how do you do this?</p> <p>Some private trackers of mine requires their source in the source field when creating a torrent. Does this mean that the torrent can only be used seeding only within that tracker? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Azertity"> /u/Azertity </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j40ymv/how_does_seeding_to_multiple_private_trackers/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j40ymv/how_does_seeding_to_multiple_private_trackers/">[comments]</a></span>
+
+## Sptotdl AudioProviderError: YT-DLP download error
+ - [https://www.reddit.com/r/Piracy/comments/1j40kmm/sptotdl_audioprovidererror_ytdlp_download_error](https://www.reddit.com/r/Piracy/comments/1j40kmm/sptotdl_audioprovidererror_ytdlp_download_error)
+ - RSS feed: $source
+ - date published: 2025-03-05T11:02:07+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have been getting this error since last week. I have tried reinstalling spotdl, python, yt-dlp, ffmpeg. I have also tried switching WiFi networks but it still gives me the same error. Some days it would work, some days it doesn&#39;t.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LazyStudent1"> /u/LazyStudent1 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j40kmm/sptotdl_audioprovidererror_ytdlp_download_error/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j40kmm/sptotdl_audioprovidererror_ytdlp_download_error/">[comments]</a></span>
+
+## need a good movie website
+ - [https://www.reddit.com/r/Piracy/comments/1j40ja4/need_a_good_movie_website](https://www.reddit.com/r/Piracy/comments/1j40ja4/need_a_good_movie_website)
+ - RSS feed: $source
+ - date published: 2025-03-05T10:59:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>was gonna watch a movie but the big heap isn&#39;t working for me, im on the megathread and im wondering what the best overall website is the the movies and streaming catergory. I have a popup blocker so that wont effect my choice.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Chef_troll"> /u/Chef_troll </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j40ja4/need_a_good_movie_website/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j40ja4/need_a_good_movie_website/">[comments]</a></span>
+
+## anyone which site to pirate online books?
+ - [https://www.reddit.com/r/Piracy/comments/1j40dbx/anyone_which_site_to_pirate_online_books](https://www.reddit.com/r/Piracy/comments/1j40dbx/anyone_which_site_to_pirate_online_books)
+ - RSS feed: $source
+ - date published: 2025-03-05T10:47:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>or to download a pdf of a book?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/achopkuyawgaming"> /u/achopkuyawgaming </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j40dbx/anyone_which_site_to_pirate_online_books/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j40dbx/anyone_which_site_to_pirate_online_books/">[comments]</a></span>
+
+## New to torrenting and have a question about VPN Kill Switch
+ - [https://www.reddit.com/r/Piracy/comments/1j4023b/new_to_torrenting_and_have_a_question_about_vpn](https://www.reddit.com/r/Piracy/comments/1j4023b/new_to_torrenting_and_have_a_question_about_vpn)
+ - RSS feed: $source
+ - date published: 2025-03-05T10:24:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>I’m quite new to torrenting, got Proton VPN and binded it to QBitorrent. Also got Stremio and Miru. Everything works pretty good. </p> <p>However, I was wondering how reliable the Kill Switch is (does it always work or possibility of failing at times) I have it turned on whenever using torrents (with all three) or is it better to use the “permanently kill switch”? </p> <p>Asking this because I might just want to let the torrent on for downloading/ seeding while being away from home.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CurrentRisk"> /u/CurrentRisk </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j4023b/new_to_torrenting_and_have_a_question_about_vpn/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j4023b/new_to_torrenting_and_have_a_question_about_vpn/">[comments]</a></span>
+
+## Request for Better Creating's Life Os Template in Notion
+ - [https://www.reddit.com/r/Piracy/comments/1j4015t/request_for_better_creatings_life_os_template_in](https://www.reddit.com/r/Piracy/comments/1j4015t/request_for_better_creatings_life_os_template_in)
+ - RSS feed: $source
+ - date published: 2025-03-05T10:23:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>Basically the title, if anyone has the template and it&#39;s willing to share, it would help a lot.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pathfinder_M"> /u/Pathfinder_M </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j4015t/request_for_better_creatings_life_os_template_in/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j4015t/request_for_better_creatings_life_os_template_in/">[comments]</a></span>
+
+## Music streaming service
+ - [https://www.reddit.com/r/Piracy/comments/1j3zlsb/music_streaming_service](https://www.reddit.com/r/Piracy/comments/1j3zlsb/music_streaming_service)
+ - RSS feed: $source
+ - date published: 2025-03-05T09:52:20+00:00
+
+<!-- SC_OFF --><div class="md"><p>So, apk spotify premium has stopped working for me and I&#39;ve seen many people having the same issue. I&#39;ve never used anything else to stream music effectively and for free, any suggestion for a substitute that is as easy to use? Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CuteFriend2199"> /u/CuteFriend2199 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j3zlsb/music_streaming_service/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j3zlsb/music_streaming_service/">[comments]</a></span>
+
+## Best free websites/apps for storage?
+ - [https://www.reddit.com/r/Piracy/comments/1j3zek9/best_free_websitesapps_for_storage](https://www.reddit.com/r/Piracy/comments/1j3zek9/best_free_websitesapps_for_storage)
+ - RSS feed: $source
+ - date published: 2025-03-05T09:37:08+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve around 100gbs of data I need to store. I used mega to store around 15gbs then I realised they only offer 20gbs for free, meaning I&#39;ll still have 80gbs left. Is there any way to get free unlimited storage on mega or are there any other websites that offer free storage? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DoubleTie2696"> /u/DoubleTie2696 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j3zek9/best_free_websitesapps_for_storage/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j3zek9/best_free_websitesapps_for_storage/">[comments]</a></span>
+
+## Why doesn't there seem to be any *good* resources for music?
+ - [https://www.reddit.com/r/Piracy/comments/1j3z17v/why_doesnt_there_seem_to_be_any_good_resources](https://www.reddit.com/r/Piracy/comments/1j3z17v/why_doesnt_there_seem_to_be_any_good_resources)
+ - RSS feed: $source
+ - date published: 2025-03-05T09:08:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>Apologies if my English isn&#39;t clear. Obviously there&#39;s places you can get music, but there&#39;s nothing that&#39;s high quality and well organized and an easy way to get lots of music quickly. For example with movies, I could go download the top 10 action movies of 1997 within an hour. With music the recommendation is basically to find the song you like on YouTube and convert it to an mp3, one by one.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/parkinginrear7"> /u/parkinginrear7 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j3z17v/why_doesnt_there_seem_to_be_any_good_resources/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j3z17v/why_doesnt_there_seem_to_be_any_good_resources/">[comments]</a></span>
+
+## I'M BOUTTA WAIT FOR IT!!!
+ - [https://www.reddit.com/r/Piracy/comments/1j3yo42/im_boutta_wait_for_it](https://www.reddit.com/r/Piracy/comments/1j3yo42/im_boutta_wait_for_it)
+ - RSS feed: $source
+ - date published: 2025-03-05T08:39:56+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1j3yo42/im_boutta_wait_for_it/"> <img src="https://b.thumbs.redditmedia.com/4y-aP0U9xJhmoRSCBI-S_FI-uidW88cToEUKcpHGvqo.jpg" alt="I'M BOUTTA WAIT FOR IT!!!" title="I'M BOUTTA WAIT FOR IT!!!" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p><a href="https://preview.redd.it/39j2ar0h2ume1.png?width=1820&amp;format=png&amp;auto=webp&amp;s=52ae9d56f58378c7c0cda36567cddc58c2f01225">https://preview.redd.it/39j2ar0h2ume1.png?width=1820&amp;format=png&amp;auto=webp&amp;s=52ae9d56f58378c7c0cda36567cddc58c2f01225</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Juniortheredninja"> /u/Juniortheredninja </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j3yo42/im_boutta_wait_for_it/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j3yo42/im_boutta_wait_for_it/">[comments]</a></span> </td></tr></table>
+
+## Spotify premium for cheaper using other country
+ - [https://www.reddit.com/r/Piracy/comments/1j3xupa/spotify_premium_for_cheaper_using_other_country](https://www.reddit.com/r/Piracy/comments/1j3xupa/spotify_premium_for_cheaper_using_other_country)
+ - RSS feed: $source
+ - date published: 2025-03-05T07:36:59+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am looking too from free Spotify to premium. However I would like to do it in the cheapest way. The best way I saw myself is using India. I have a VPN for that and tried changing my region with success. Only I am not able to perform the payment using non indian cards. Is there a way to get indian UPI pay or card to pay for it? I tried installing Kiwi but it said I would have a rooted phone which I do not. If there are other countries that are about as cheap then that is also okay if you do know a valid way to pay there. I also check g2a codes etc and while they probably will work using redeeming keys, those are about 3 times more expensive than for example india or turkey.</p> <p>TLDR: how to get Spotify premium at lower cost using other country using keys or temporary payment card</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JustRandomQuestion"> /u/JustRandomQuestion </a> <br/> <span><a href="https://www.r
+
+## Is a Raspberry Pi a Viable Option for Running a 24/7 qBittorrent Seeding Server?
+ - [https://www.reddit.com/r/Piracy/comments/1j3wmao/is_a_raspberry_pi_a_viable_option_for_running_a](https://www.reddit.com/r/Piracy/comments/1j3wmao/is_a_raspberry_pi_a_viable_option_for_running_a)
+ - RSS feed: $source
+ - date published: 2025-03-05T06:10:58+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m looking for advice on building a low-power device that will connect to my NAS NFS share for seeding media and files 24/7, 365 days a year, without significantly increasing my power bill. My plan is to use Docker for running the qBittorrent client and Gluetun for the VPN (with port forwarding enabled, of course). I&#39;ve asked in other subreddits before but kept having my posts removed, so I&#39;m hoping to get some helpful insights here.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ConfusedHomelabber"> /u/ConfusedHomelabber </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j3wmao/is_a_raspberry_pi_a_viable_option_for_running_a/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j3wmao/is_a_raspberry_pi_a_viable_option_for_running_a/">[comments]</a></span>
+
+## TSPlus problem on Windows Server 2025
+ - [https://www.reddit.com/r/Piracy/comments/1j3wad8/tsplus_problem_on_windows_server_2025](https://www.reddit.com/r/Piracy/comments/1j3wad8/tsplus_problem_on_windows_server_2025)
+ - RSS feed: $source
+ - date published: 2025-03-05T05:49:46+00:00
+
+<!-- SC_OFF --><div class="md"><p>I have activated a Win Server 2025 with massgrave, The problem is when using TSPlus Application Portal, applications does not work, it closes immediately (but when using remote desktop, it works without problem)</p> <p>Has anyone had this issue? I can provide event viewer screenshots if necessary</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Athawwn"> /u/Athawwn </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j3wad8/tsplus_problem_on_windows_server_2025/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j3wad8/tsplus_problem_on_windows_server_2025/">[comments]</a></span>
+
+## TuneMyMusic free alternative?
+ - [https://www.reddit.com/r/Piracy/comments/1j3vbqd/tunemymusic_free_alternative](https://www.reddit.com/r/Piracy/comments/1j3vbqd/tunemymusic_free_alternative)
+ - RSS feed: $source
+ - date published: 2025-03-05T04:52:45+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/Piracy/comments/1j3vbqd/tunemymusic_free_alternative/"> <img src="https://preview.redd.it/dan43qwyxsme1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=760d5dcb5739089e3a935647492c86203221c3fe" alt="TuneMyMusic free alternative?" title="TuneMyMusic free alternative?" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>I would like to transfer a large playlist (3000+) Is there any service or app to transfer playlists from/to Spotify without having to pay?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AdvancedSoil4916"> /u/AdvancedSoil4916 </a> <br/> <span><a href="https://i.redd.it/dan43qwyxsme1.png">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j3vbqd/tunemymusic_free_alternative/">[comments]</a></span> </td></tr></table>
+
+## Streaming sports. I don’t do it often so idk much, but when I do sites like crack, meth, Streameast, sports surge, etc. seem like there’s a bunch of knockoff sites. How do I know what is legit? A lot of times I get error messages and the video won’t load.
+ - [https://www.reddit.com/r/Piracy/comments/1j3u49v/streaming_sports_i_dont_do_it_often_so_idk_much](https://www.reddit.com/r/Piracy/comments/1j3u49v/streaming_sports_i_dont_do_it_often_so_idk_much)
+ - RSS feed: $source
+ - date published: 2025-03-05T03:44:23+00:00
+
+<!-- SC_OFF --><div class="md"><p>Streaming sports. I don’t do it often so idk much, but when I do sites like crack, meth, Streameast, sports surge, etc. seem like there’s a bunch of knockoff sites. How do I know what is legit? A lot of times I get error messages and the video won’t load. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/highbackpacker"> /u/highbackpacker </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j3u49v/streaming_sports_i_dont_do_it_often_so_idk_much/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j3u49v/streaming_sports_i_dont_do_it_often_so_idk_much/">[comments]</a></span>
+
+## What's the best music player?
+ - [https://www.reddit.com/r/Piracy/comments/1j3ru72/whats_the_best_music_player](https://www.reddit.com/r/Piracy/comments/1j3ru72/whats_the_best_music_player)
+ - RSS feed: $source
+ - date published: 2025-03-05T01:47:37+00:00
+
+<!-- SC_OFF --><div class="md"><p>So unfortunately I&#39;ve also been affected by the spotify apk failure, now I can&#39;t listen to music, cause I don&#39;t really have the money to spend on spotify premium. So I&#39;ve decided to go back to the roots ams just download all my music and listen offline, now I would like to get you Opinions on what are the best free or one time pay apps and programs for music. Best case scenario would be that I also can similar to spotify change the output device from PC to mobile, Thanks in advance.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Longjumping-Time-339"> /u/Longjumping-Time-339 </a> <br/> <span><a href="https://www.reddit.com/r/Piracy/comments/1j3ru72/whats_the_best_music_player/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Piracy/comments/1j3ru72/whats_the_best_music_player/">[comments]</a></span>
+

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-05T18:03:38+00:00",
+        "description": "<p><em>There's a lot of \"one hand washing the other\" in this collaboration: TuxCare gains cred by contributing to Trend's proprietary platform, AlmaLinux gains another reason for potential users to choose it over the competition, and Trend now has something to offer companies already running AlmaLinux.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/03/tuxcares-new-partnership-with-trend-microsystems-brings-new-options-for-almalinux-users/\">TuxCares New Partnership With Trend Microsystems Brings New Options for AlmaLinux Users</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 2253616,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/03/tuxcares-new-partnership-with-trend-microsystems-brings-new-options-for-almalinux-users",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "TuxCares New Partnership With Trend Microsystems Brings New Options for AlmaLinux Users",
+        "vote": 0
+    }
+]

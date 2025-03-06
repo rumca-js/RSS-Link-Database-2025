@@ -1,0 +1,44 @@
+# Source:GeekWire, URL:https://www.geekwire.com/feed, language:en-US
+
+## How will the new China tariffs impact Amazon’s e-commerce business?
+ - [https://www.geekwire.com/2025/how-will-the-new-china-tariffs-impact-amazons-e-commerce-business](https://www.geekwire.com/2025/how-will-the-new-china-tariffs-impact-amazons-e-commerce-business)
+ - RSS feed: $source
+ - date published: 2025-03-05T22:31:59+00:00
+
+<img width="1260" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2025/01/amazon2-1260x945.jpeg" class="webfeedsFeaturedVisual wp-post-image" alt="amazon" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2025/01/amazon2-1260x945.jpeg 1260w, https://cdn.geekwire.com/wp-content/uploads/2025/01/amazon2-768x576.jpeg 768w, https://cdn.geekwire.com/wp-content/uploads/2025/01/amazon2-1536x1153.jpeg 1536w, https://cdn.geekwire.com/wp-content/uploads/2025/01/amazon2-2048x1537.jpeg 2048w, https://cdn.geekwire.com/wp-content/uploads/2025/01/amazon2-630x473.jpeg 630w" sizes="(max-width: 1260px) 100vw, 1260px"><br>Amazon and its wide network of third-party retail partners could be disrupted by President Trump&#8217;s additional tariffs on goods from China. Just how much, though, is unclear. The new 10% tariff on Chinese goods went into effect this week, following a separate 10% hike last month. A report from analysts at Morgan Stanley last mo
+
+## Microsoft@50: Brad Smith, Steve Ballmer, Nathan Myhrvold headline GeekWire’s March 20 event
+ - [https://www.geekwire.com/2025/microsoft50-brad-smith-steve-ballmer-nathan-myhrvold-headline-geekwires-march-20-event](https://www.geekwire.com/2025/microsoft50-brad-smith-steve-ballmer-nathan-myhrvold-headline-geekwires-march-20-event)
+ - RSS feed: $source
+ - date published: 2025-03-05T18:20:32+00:00
+
+<img width="1129" height="591" src="https://cdn.geekwire.com/wp-content/uploads/2025/03/smith-ballmer-nmyhrvold.png" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2025/03/smith-ballmer-nmyhrvold.png 1129w, https://cdn.geekwire.com/wp-content/uploads/2025/03/smith-ballmer-nmyhrvold-768x402.png 768w, https://cdn.geekwire.com/wp-content/uploads/2025/03/smith-ballmer-nmyhrvold-630x330.png 630w" sizes="(max-width: 1129px) 100vw, 1129px"><br>GeekWire&#8217;s Microsoft@50 event, marking the tech giant&#8217;s milestone anniversary, will feature on-stage conversations with Microsoft President and Vice Chair Brad Smith; former Microsoft CEO Steve Ballmer; and Nathan Myhrvold, who served as Microsoft&#8217;s CTO during some of the most pivotal moments in its history. The event will take place the evening of Thursday, March 20, at Town Hall Seattle. Doors open at 6:15 p.m. Register here to join us. S
+
+## Cybersecurity startup SpecterOps, which has an office in Seattle, raises $75M
+ - [https://www.geekwire.com/2025/cybersecurity-startup-specterops-which-has-an-office-in-seattle-raises-75m](https://www.geekwire.com/2025/cybersecurity-startup-specterops-which-has-an-office-in-seattle-raises-75m)
+ - RSS feed: $source
+ - date published: 2025-03-05T17:00:00+00:00
+
+<img width="450" height="450" src="https://cdn.geekwire.com/wp-content/uploads/2023/04/David-McGuire.jpeg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2023/04/David-McGuire.jpeg 450w, https://cdn.geekwire.com/wp-content/uploads/2023/04/David-McGuire-300x300.jpeg 300w, https://cdn.geekwire.com/wp-content/uploads/2023/04/David-McGuire-150x150.jpeg 150w, https://cdn.geekwire.com/wp-content/uploads/2023/04/David-McGuire-100x100.jpeg 100w, https://cdn.geekwire.com/wp-content/uploads/2023/04/David-McGuire-200x200.jpeg 200w" sizes="(max-width: 450px) 100vw, 450px"><br>SpecterOps, an Alexandria, Va.-based cybersecurity startup that helps companies fend off identity-based threats, raised $75 million in a Series B round.
+
+## I was biohacked at a fitness facility that uses AI and more to promote a smarter, not harder, workout
+ - [https://www.geekwire.com/2025/i-was-biohacked-at-a-fitness-facility-that-uses-ai-and-more-to-promote-a-smarter-not-harder-workout](https://www.geekwire.com/2025/i-was-biohacked-at-a-fitness-facility-that-uses-ai-and-more-to-promote-a-smarter-not-harder-workout)
+ - RSS feed: $source
+ - date published: 2025-03-05T16:13:56+00:00
+
+<img width="1260" height="1075" src="https://cdn.geekwire.com/wp-content/uploads/2025/03/upgradelabs2-1260x1075.jpeg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2025/03/upgradelabs2-1260x1075.jpeg 1260w, https://cdn.geekwire.com/wp-content/uploads/2025/03/upgradelabs2-768x655.jpeg 768w, https://cdn.geekwire.com/wp-content/uploads/2025/03/upgradelabs2-1536x1310.jpeg 1536w, https://cdn.geekwire.com/wp-content/uploads/2025/03/upgradelabs2-2048x1747.jpeg 2048w, https://cdn.geekwire.com/wp-content/uploads/2025/03/upgradelabs2-630x537.jpeg 630w" sizes="(max-width: 1260px) 100vw, 1260px"><br>Artificial intelligence is already doing some heavy lifting for us at work. Now the technology is being used to help us lift weights during a workout. AI is just one of the numerous high-tech health attractions at Upgrade Labs, a new &#8220;biohacking&#8221; fitness and recovery center in Bellevue, Wash., 
+
+## This Seattle AI startup watches you work — then automates the tedious back-office tasks
+ - [https://www.geekwire.com/2025/this-seattle-ai-startup-watches-you-work-then-automates-the-tedious-back-office-tasks](https://www.geekwire.com/2025/this-seattle-ai-startup-watches-you-work-then-automates-the-tedious-back-office-tasks)
+ - RSS feed: $source
+ - date published: 2025-03-05T16:00:00+00:00
+
+<img width="1260" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2025/03/image0-1260x945.jpeg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://cdn.geekwire.com/wp-content/uploads/2025/03/image0-1260x945.jpeg 1260w, https://cdn.geekwire.com/wp-content/uploads/2025/03/image0-768x576.jpeg 768w, https://cdn.geekwire.com/wp-content/uploads/2025/03/image0-1536x1152.jpeg 1536w, https://cdn.geekwire.com/wp-content/uploads/2025/03/image0-2048x1536.jpeg 2048w, https://cdn.geekwire.com/wp-content/uploads/2025/03/image0-630x473.jpeg 630w" sizes="auto, (max-width: 1260px) 100vw, 1260px"><br>A Seattle startup hatched out of AI2 Incubator is emerging from stealth today, announcing a $5 million seed round to fuel its goal of automating basic business operations with generative AI. Caddi is developing &#8220;automation by demonstration&#8221; technology, allowing users to create screen recordings with audio that serve as AI training v
+
+## Microsoft unveils AI agents for sales, striking back at Salesforce
+ - [https://www.geekwire.com/2025/microsoft-unveils-ai-agents-for-sales-striking-back-at-salesforce](https://www.geekwire.com/2025/microsoft-unveils-ai-agents-for-sales-striking-back-at-salesforce)
+ - RSS feed: $source
+ - date published: 2025-03-05T13:08:00+00:00
+
+<img width="1260" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2025/03/msft-agents-1260x945.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2025/03/msft-agents-1260x945.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2025/03/msft-agents-768x576.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2025/03/msft-agents-1536x1152.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2025/03/msft-agents-630x473.jpg 630w, https://cdn.geekwire.com/wp-content/uploads/2025/03/msft-agents.jpg 1721w" sizes="(max-width: 1260px) 100vw, 1260px"><br>Microsoft announced two AI agents for sales that double as a competitive response to Salesforce in an area where both companies are placing big bets. Sales Agent and Sales Chat, unveiled Wednesday morning, are designed to work in conjunction with Microsoft’s own Dynamics 365 business applications and with Salesforce, whose CEO, Ma
+

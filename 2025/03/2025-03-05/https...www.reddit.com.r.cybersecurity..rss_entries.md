@@ -1,0 +1,338 @@
+# Source:cybersecurity, URL:https://www.reddit.com/r/cybersecurity/.rss, language:
+
+## China's Silk Typhoon Shifts to IT Supply Chain Attacks
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4hk1h/chinas_silk_typhoon_shifts_to_it_supply_chain](https://www.reddit.com/r/cybersecurity/comments/1j4hk1h/chinas_silk_typhoon_shifts_to_it_supply_chain)
+ - RSS feed: $source
+ - date published: 2025-03-05T23:32:41+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Miao_Yin8964"> /u/Miao_Yin8964 </a> <br/> <span><a href="https://www.darkreading.com/remote-workforce/china-silk-typhoon-it-supply-chain-attacks">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4hk1h/chinas_silk_typhoon_shifts_to_it_supply_chain/">[comments]</a></span>
+
+## Python - Security Automation
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4h404/python_security_automation](https://www.reddit.com/r/cybersecurity/comments/1j4h404/python_security_automation)
+ - RSS feed: $source
+ - date published: 2025-03-05T23:13:30+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi guys im currently learning python and at a good level and im wondering how i can implement python for security automation? Does anyone have any good ideas or examples for using python for security automation?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lowkib"> /u/lowkib </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4h404/python_security_automation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4h404/python_security_automation/">[comments]</a></span>
+
+## OWASP Faction - PenTesting Report Generation and Collaboration Framework
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4ghsn/owasp_faction_pentesting_report_generation_and](https://www.reddit.com/r/cybersecurity/comments/1j4ghsn/owasp_faction_pentesting_report_generation_and)
+ - RSS feed: $source
+ - date published: 2025-03-05T22:47:35+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1j4ghsn/owasp_faction_pentesting_report_generation_and/"> <img src="https://b.thumbs.redditmedia.com/vg476O0RzNA561SnqcIqgn8xSOJ4zHVCWvLuW70v3Nk.jpg" alt="OWASP Faction - PenTesting Report Generation and Collaboration Framework" title="OWASP Faction - PenTesting Report Generation and Collaboration Framework" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ascetik"> /u/ascetik </a> <br/> <span><a href="https://owasp.org/www-project-faction/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4ghsn/owasp_faction_pentesting_report_generation_and/">[comments]</a></span> </td></tr></table>
+
+## Cybersecurity Internship
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4g8m0/cybersecurity_internship](https://www.reddit.com/r/cybersecurity/comments/1j4g8m0/cybersecurity_internship)
+ - RSS feed: $source
+ - date published: 2025-03-05T22:37:15+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello,</p> <p>Any advice to increase my chances of obtaining a Cybersecurity internship. I’m currently in the process of obtaining my masters and haven’t gotten any luck. Just wanted to know what should I do to increase my odds of getting an internship? Also a lot of jobs require to know TCP/IP which I do. Is there a way that I could demonstrate to my employer that I do. </p> <p>I also do posses the Security+, pursuing the CCNA. And work overnights at a data center at help desk. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mean_Instruction3665"> /u/Mean_Instruction3665 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4g8m0/cybersecurity_internship/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4g8m0/cybersecurity_internship/">[comments]</a></span>
+
+## Need some content for a presentation
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4g4wz/need_some_content_for_a_presentation](https://www.reddit.com/r/cybersecurity/comments/1j4g4wz/need_some_content_for_a_presentation)
+ - RSS feed: $source
+ - date published: 2025-03-05T22:33:05+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m googling like crazy but not finding what I&#39;m looking for.<br/> Is there a common source for trends in cyber attacks year over year?<br/> It would be great if it details the kind of attack but not required.<br/> Also looking for trends in outages, costs from the attacks in general.<br/> I&#39;m guessing every security vendor has their own spin.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/so5226"> /u/so5226 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4g4wz/need_some_content_for_a_presentation/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4g4wz/need_some_content_for_a_presentation/">[comments]</a></span>
+
+## Was Russia getting security updates for MicroSoft, etc?
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4g0b5/was_russia_getting_security_updates_for_microsoft](https://www.reddit.com/r/cybersecurity/comments/1j4g0b5/was_russia_getting_security_updates_for_microsoft)
+ - RSS feed: $source
+ - date published: 2025-03-05T22:27:51+00:00
+
+<!-- SC_OFF --><div class="md"><p>Not a cybersecurity person. Just wondering during the Biden administration, was Russian computers, network equipment, etc get security updates like any other country. If so why or why not ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Tintoverde"> /u/Tintoverde </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4g0b5/was_russia_getting_security_updates_for_microsoft/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4g0b5/was_russia_getting_security_updates_for_microsoft/">[comments]</a></span>
+
+## What do you think about Trump's decision to change US cybersecurity policy towards Russia? Is it a move by Moscow or does Trump have his reasons?
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4f2pa/what_do_you_think_about_trumps_decision_to_change](https://www.reddit.com/r/cybersecurity/comments/1j4f2pa/what_do_you_think_about_trumps_decision_to_change)
+ - RSS feed: $source
+ - date published: 2025-03-05T21:50:32+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Longjumping-Exam-280"> /u/Longjumping-Exam-280 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4f2pa/what_do_you_think_about_trumps_decision_to_change/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4f2pa/what_do_you_think_about_trumps_decision_to_change/">[comments]</a></span>
+
+## BadBox malware disrupted on 500K infected Android devices
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4e3pw/badbox_malware_disrupted_on_500k_infected_android](https://www.reddit.com/r/cybersecurity/comments/1j4e3pw/badbox_malware_disrupted_on_500k_infected_android)
+ - RSS feed: $source
+ - date published: 2025-03-05T21:11:23+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1j4e3pw/badbox_malware_disrupted_on_500k_infected_android/"> <img src="https://external-preview.redd.it/Vu1roFndXsOWlF19i7Rve74Xac_kDbuHy1QsRsO5vlw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b5096797ecb2fc87cd79ed9e2004fe69df81f1d" alt="BadBox malware disrupted on 500K infected Android devices" title="BadBox malware disrupted on 500K infected Android devices" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/anynamewillbegood"> /u/anynamewillbegood </a> <br/> <span><a href="https://www.bleepingcomputer.com/news/security/badbox-malware-disrupted-on-500k-infected-android-devices/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4e3pw/badbox_malware_disrupted_on_500k_infected_android/">[comments]</a></span> </td></tr></table>
+
+## Building a SOC - Need advice on starting small.
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4dlsd/building_a_soc_need_advice_on_starting_small](https://www.reddit.com/r/cybersecurity/comments/1j4dlsd/building_a_soc_need_advice_on_starting_small)
+ - RSS feed: $source
+ - date published: 2025-03-05T20:51:35+00:00
+
+<!-- SC_OFF --><div class="md"><p>I am in a position where I was offered to develop and run a functioning SOC for the company I am working for. Small to medium sized company and looking to get a bit more security aware. Looking to start out small and focus on better email threat detection, endpoint protection/management, and dealing with general alerts M365 that show up in Microsoft Defender. Eventually branching out monitoring network and other aspects of the company.</p> <p>Looking for some advice on things to consider, if Microsoft tools are fine for this small scale operation which will eventually lead into network, AWS, and company website monitoring.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DragonClaw06"> /u/DragonClaw06 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4dlsd/building_a_soc_need_advice_on_starting_small/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments
+
+## Prelude feedback
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4d79i/prelude_feedback](https://www.reddit.com/r/cybersecurity/comments/1j4d79i/prelude_feedback)
+ - RSS feed: $source
+ - date published: 2025-03-05T20:35:12+00:00
+
+<!-- SC_OFF --><div class="md"><p>Seeing as I&#39;m getting a lot of ads for it, has anyone used Prelude for controls testing?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Jackofalltrades86"> /u/Jackofalltrades86 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4d79i/prelude_feedback/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4d79i/prelude_feedback/">[comments]</a></span>
+
+## How to approach defining the difference between security event and incident to improve IR program ?
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4c2fl/how_to_approach_defining_the_difference_between](https://www.reddit.com/r/cybersecurity/comments/1j4c2fl/how_to_approach_defining_the_difference_between)
+ - RSS feed: $source
+ - date published: 2025-03-05T19:49:18+00:00
+
+<!-- SC_OFF --><div class="md"><p>Cybersecurity engineer folks specifically senior folks and leadership focused on incident response. I have several of questions because I literally been having a heated debate (not angry or yelling) with my staff engineer about how we are handling security alerts (events) vs security incidents. And feel free to tell me if I am wrong</p> <ol> <li>Are all security events (alerts) incidents?</li> <li>At what point does an alert become a legit incident?</li> <li>What would your methodology be to address differentiating in order to established an efficient process to address alert tuning and focus on actual events that would be incidents and developing?</li> </ol> <p>Basically my staff engineer claims (in our organization) that all security events (alerts) are incidents</p> <p>I am arguing to him that NOT ALL events (alerts) are incidents because not all security events are malicious and that in order to develop and efficient process and in building out t
+
+## Blocking to run macros of MS Office
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4bzu1/blocking_to_run_macros_of_ms_office](https://www.reddit.com/r/cybersecurity/comments/1j4bzu1/blocking_to_run_macros_of_ms_office)
+ - RSS feed: $source
+ - date published: 2025-03-05T19:46:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello, I would like to block the ability to run macros on computers, but I&#39;m stuck at a point where after downloading administrative templates (ADMX/ADML) and unpacking them in Windows\PolicyDefinitions on the local disk, I still don&#39;t see any Office programs after expanding the &quot;Administrative Templates&quot; item in the Group Policy Object. Can anyone help? Is there another way to block them? Thanks in advance. :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Street_Laugh2257"> /u/Street_Laugh2257 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4bzu1/blocking_to_run_macros_of_ms_office/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4bzu1/blocking_to_run_macros_of_ms_office/">[comments]</a></span>
+
+## How do you keep your cybersecurity knowledge sharp while out of practice?
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4bvrr/how_do_you_keep_your_cybersecurity_knowledge](https://www.reddit.com/r/cybersecurity/comments/1j4bvrr/how_do_you_keep_your_cybersecurity_knowledge)
+ - RSS feed: $source
+ - date published: 2025-03-05T19:41:38+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi! I&#39;m pretty sure this is my first post here, but I&#39;ve been here for a while.</p> <p>I&#39;m currently on the SOC Analyst Job Role path on HTB Academy. While I am LOVING it, I have one worry. I currently live in a pretty remote area, so I can&#39;t get a job to actually apply these skills, and I don&#39;t leave for college for a year. Is there any resources that I can use to keep my skills fresh until I go to college?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/k0mmark"> /u/k0mmark </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4bvrr/how_do_you_keep_your_cybersecurity_knowledge/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4bvrr/how_do_you_keep_your_cybersecurity_knowledge/">[comments]</a></span>
+
+## Negotiating with Terrorists: Trends in Ransomware Negotiations from Both Sides of the Table
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4bmz7/negotiating_with_terrorists_trends_in_ransomware](https://www.reddit.com/r/cybersecurity/comments/1j4bmz7/negotiating_with_terrorists_trends_in_ransomware)
+ - RSS feed: $source
+ - date published: 2025-03-05T19:31:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>A comprehensive analysis of ransomware negotiation dynamics and what really works when you’re staring down the barrel of an extortion demand.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bcdefense"> /u/bcdefense </a> <br/> <span><a href="https://open.substack.com/pub/danielbloomrta/p/negotiating-with-terrorists-trends?r=5cgwqn&amp;utm_medium=ios">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4bmz7/negotiating_with_terrorists_trends_in_ransomware/">[comments]</a></span>
+
+## Cyberattack Disrupts City of Mission, Texas
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4bmr4/cyberattack_disrupts_city_of_mission_texas](https://www.reddit.com/r/cybersecurity/comments/1j4bmr4/cyberattack_disrupts_city_of_mission_texas)
+ - RSS feed: $source
+ - date published: 2025-03-05T19:31:37+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1j4bmr4/cyberattack_disrupts_city_of_mission_texas/"> <img src="https://external-preview.redd.it/h47EZuZtMuaglPtlpnGfVVZOkwL38jHqxQMxyZJKoMg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=75dfb8ae3e7bd97f65de1e73695e5a1d3932f87f" alt="Cyberattack Disrupts City of Mission, Texas" title="Cyberattack Disrupts City of Mission, Texas" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CatfishEnchiladas"> /u/CatfishEnchiladas </a> <br/> <span><a href="https://dysruptionhub.com/mission-texas-cyberattack-2025/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4bmr4/cyberattack_disrupts_city_of_mission_texas/">[comments]</a></span> </td></tr></table>
+
+## Which SIEM to learn?
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4bbal/which_siem_to_learn](https://www.reddit.com/r/cybersecurity/comments/1j4bbal/which_siem_to_learn)
+ - RSS feed: $source
+ - date published: 2025-03-05T19:18:42+00:00
+
+<!-- SC_OFF --><div class="md"><p>Splunk or Sentinel?</p> <p>Is it feasible to learn both? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Key-Lychee-913"> /u/Key-Lychee-913 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4bbal/which_siem_to_learn/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4bbal/which_siem_to_learn/">[comments]</a></span>
+
+## MacOS vs Windows for cyber folks
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4adk6/macos_vs_windows_for_cyber_folks](https://www.reddit.com/r/cybersecurity/comments/1j4adk6/macos_vs_windows_for_cyber_folks)
+ - RSS feed: $source
+ - date published: 2025-03-05T18:41:44+00:00
+
+<!-- SC_OFF --><div class="md"><p>I used to see InfoSec people using Macs on pretty much any conference, training course, etc, but lately I notice a lot of ThinkPads, MS Surfaces and so on. Did anything change and Windows suddenly became a preferred platform for security folks? What&#39;s your take on this? What&#39;s your preferred personal computing platform?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Unlikely-Ad-7370"> /u/Unlikely-Ad-7370 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4adk6/macos_vs_windows_for_cyber_folks/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4adk6/macos_vs_windows_for_cyber_folks/">[comments]</a></span>
+
+## Blue Team Level 1 (BTL1). What did you enjoy about this certification?
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4aajl/blue_team_level_1_btl1_what_did_you_enjoy_about](https://www.reddit.com/r/cybersecurity/comments/1j4aajl/blue_team_level_1_btl1_what_did_you_enjoy_about)
+ - RSS feed: $source
+ - date published: 2025-03-05T18:38:24+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Serious-Summer9378"> /u/Serious-Summer9378 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4aajl/blue_team_level_1_btl1_what_did_you_enjoy_about/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4aajl/blue_team_level_1_btl1_what_did_you_enjoy_about/">[comments]</a></span>
+
+## Looking if anyone knows who owns this scanner.
+ - [https://www.reddit.com/r/cybersecurity/comments/1j49qhm/looking_if_anyone_knows_who_owns_this_scanner](https://www.reddit.com/r/cybersecurity/comments/1j49qhm/looking_if_anyone_knows_who_owns_this_scanner)
+ - RSS feed: $source
+ - date published: 2025-03-05T18:16:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>We have had one of our screen connect exe files being scanned multiple time as a host which connects as a user. We are trying to confirm if it is coming from TrendMicro or another security suite we use. </p> <p>The IP and MAC address used are always the same:</p> <p>MAC: 4C:79:BA:C7:19:CB<br/> IP: <a href="http://217.111.63.60">217.111.63.60</a></p> <p>We have tried to contact support, but they are all claiming it is not theirs. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/GCS_Mike"> /u/GCS_Mike </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j49qhm/looking_if_anyone_knows_who_owns_this_scanner/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j49qhm/looking_if_anyone_knows_who_owns_this_scanner/">[comments]</a></span>
+
+## 3 VMware Zero-Day Bugs Allow Sandbox Escape
+ - [https://www.reddit.com/r/cybersecurity/comments/1j490ff/3_vmware_zeroday_bugs_allow_sandbox_escape](https://www.reddit.com/r/cybersecurity/comments/1j490ff/3_vmware_zeroday_bugs_allow_sandbox_escape)
+ - RSS feed: $source
+ - date published: 2025-03-05T17:48:00+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/anynamewillbegood"> /u/anynamewillbegood </a> <br/> <span><a href="https://www.darkreading.com/vulnerabilities-threats/vmware-zero-day-bugs-sandbox-escape">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j490ff/3_vmware_zeroday_bugs_allow_sandbox_escape/">[comments]</a></span>
+
+## Anti-Detect Browser Analysis: How To Detect The Undetectable Browser?
+ - [https://www.reddit.com/r/cybersecurity/comments/1j48fco/antidetect_browser_analysis_how_to_detect_the](https://www.reddit.com/r/cybersecurity/comments/1j48fco/antidetect_browser_analysis_how_to_detect_the)
+ - RSS feed: $source
+ - date published: 2025-03-05T17:24:42+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1j48fco/antidetect_browser_analysis_how_to_detect_the/"> <img src="https://external-preview.redd.it/qiGClWkMwzaZF4_iy-bWmvQR92BBdT_49BYsWDphGzg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=12d6087d63ce143ae6ff419bbef41bb1e533d599" alt="Anti-Detect Browser Analysis: How To Detect The Undetectable Browser?" title="Anti-Detect Browser Analysis: How To Detect The Undetectable Browser?" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/antvas"> /u/antvas </a> <br/> <span><a href="https://blog.castle.io/anti-detect-browser-analysis-how-to-detect-the-undetectable-browser/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j48fco/antidetect_browser_analysis_how_to_detect_the/">[comments]</a></span> </td></tr></table>
+
+## Microsoft Certified: Security Operations Analyst Associate
+ - [https://www.reddit.com/r/cybersecurity/comments/1j47adv/microsoft_certified_security_operations_analyst](https://www.reddit.com/r/cybersecurity/comments/1j47adv/microsoft_certified_security_operations_analyst)
+ - RSS feed: $source
+ - date published: 2025-03-05T16:38:27+00:00
+
+<!-- SC_OFF --><div class="md"><p>Is this exam multiple choice only, or does it have labs as well? SC-200 (100 Minutes). I just want to verify with who has taken this exam already.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/turaoo"> /u/turaoo </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j47adv/microsoft_certified_security_operations_analyst/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j47adv/microsoft_certified_security_operations_analyst/">[comments]</a></span>
+
+## Best Udemy Course for Security+ 701 ?
+ - [https://www.reddit.com/r/cybersecurity/comments/1j479y6/best_udemy_course_for_security_701](https://www.reddit.com/r/cybersecurity/comments/1j479y6/best_udemy_course_for_security_701)
+ - RSS feed: $source
+ - date published: 2025-03-05T16:37:54+00:00
+
+<!-- SC_OFF --><div class="md"><p>I saw all courses on the website were discounted so I wanted to take advantage of that. Looks like the courses by Jason Dion we&#39;re most popular but I wanted to see if anyone had good experiences with either that one or others.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/r3dpandq"> /u/r3dpandq </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j479y6/best_udemy_course_for_security_701/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j479y6/best_udemy_course_for_security_701/">[comments]</a></span>
+
+## Hardening Local Windows 10/11 Workstations NOT on a domain
+ - [https://www.reddit.com/r/cybersecurity/comments/1j474vy/hardening_local_windows_1011_workstations_not_on](https://www.reddit.com/r/cybersecurity/comments/1j474vy/hardening_local_windows_1011_workstations_not_on)
+ - RSS feed: $source
+ - date published: 2025-03-05T16:32:00+00:00
+
+<!-- SC_OFF --><div class="md"><p>our family business does not have a domain or anything like that and i need to harden a number of windows 11 desktops. The systems are used for basic web browsing, webmail, and using 1-2 local applications only.</p> <p>what is the best way to do this easily considering they are not on the domain. clean installs. they will not need local admin. all accounts will need to stay local ideally but I guess I could use microsoft online accounts.</p> <p>This is for home editions of windows. Any help or suggestions would be greatly appreciated.</p> <p>Remote Access should be a consideration also as on occasion I have to help the family remotely. Thank you all for any help you can give us!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Omgfunsies"> /u/Omgfunsies </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j474vy/hardening_local_windows_1011_workstations_not_on/">[link]</a></span> &#32; <span
+
+## MacOS Specific Malware
+ - [https://www.reddit.com/r/cybersecurity/comments/1j46se1/macos_specific_malware](https://www.reddit.com/r/cybersecurity/comments/1j46se1/macos_specific_malware)
+ - RSS feed: $source
+ - date published: 2025-03-05T16:18:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>I wanted to post an interesting article I had found on X about mac specific malware they had found, and compiled, while researching and observing.<br/> Article: <a href="https://objective-see.org/blog/blog_0x7D.html">https://objective-see.org/blog/blog_0x7D.html</a><br/> Research Paper: <a href="https://www.virusbulletin.com/uploads/pdf/conference/vb2024/papers/Byteing-back-detection-dissection-and-protection-against-macOS-stealers.pdf">https://www.virusbulletin.com/uploads/pdf/conference/vb2024/papers/Byteing-back-detection-dissection-and-protection-against-macOS-stealers.pdf</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Navid_Shams"> /u/Navid_Shams </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j46se1/macos_specific_malware/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j46se1/macos_specific_malware/">[comments]</a></span>
+
+## What would the actual risk be of allowing a third party to serve content under your domain?
+ - [https://www.reddit.com/r/cybersecurity/comments/1j46p6b/what_would_the_actual_risk_be_of_allowing_a_third](https://www.reddit.com/r/cybersecurity/comments/1j46p6b/what_would_the_actual_risk_be_of_allowing_a_third)
+ - RSS feed: $source
+ - date published: 2025-03-05T16:14:26+00:00
+
+<!-- SC_OFF --><div class="md"><p>For example, say I&#39;m an construction company and I have <a href="http://www.constr.com">www.constr.com</a> and <a href="http://business.const.com">http://business.const.com</a> . If I were to farm out the business site to a MSP so they can handle the serving of the customers and so on what are the risks specifically from the IAM perspective?</p> <p>For example, if someone manages to hack the server and get the private key, they could fake requests to the main company and extract data or enter false information, right? Is that risk any more or less severe if the company uses and external CA (like LetsEncrypt)? Is it more secure to require them to use the same CA we use for <a href="http://www.constr.com">www.constr.com</a> ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hoarduck"> /u/hoarduck </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j46p6b/what_would_the_actual_risk_be_of_a
+
+## Lloyds Bank secures cybersecurity patent
+ - [https://www.reddit.com/r/cybersecurity/comments/1j45q1l/lloyds_bank_secures_cybersecurity_patent](https://www.reddit.com/r/cybersecurity/comments/1j45q1l/lloyds_bank_secures_cybersecurity_patent)
+ - RSS feed: $source
+ - date published: 2025-03-05T15:32:22+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1j45q1l/lloyds_bank_secures_cybersecurity_patent/"> <img src="https://external-preview.redd.it/996_lM-f3k0wayp6PJp4JCMPFotvxlHOv_g3vJrzt4g.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=02de507506a621e2e53d3225b41b7a9541d971f3" alt="Lloyds Bank secures cybersecurity patent" title="Lloyds Bank secures cybersecurity patent" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/TechInformed"> /u/TechInformed </a> <br/> <span><a href="https://techinformed.co/lloyds_bank_secures_cybersecurity_patent">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j45q1l/lloyds_bank_secures_cybersecurity_patent/">[comments]</a></span> </td></tr></table>
+
+## Multiple backdoors injected using frontend JS
+ - [https://www.reddit.com/r/cybersecurity/comments/1j454vv/multiple_backdoors_injected_using_frontend_js](https://www.reddit.com/r/cybersecurity/comments/1j454vv/multiple_backdoors_injected_using_frontend_js)
+ - RSS feed: $source
+ - date published: 2025-03-05T15:06:29+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/unknownhad"> /u/unknownhad </a> <br/> <span><a href="https://cside.dev/blog/thousands-of-websites-hit-by-four-backdoors-in-3rd-party-javascript-attack">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j454vv/multiple_backdoors_injected_using_frontend_js/">[comments]</a></span>
+
+## Election security aid is on the chopping block, rattling local officials
+ - [https://www.reddit.com/r/cybersecurity/comments/1j44qix/election_security_aid_is_on_the_chopping_block](https://www.reddit.com/r/cybersecurity/comments/1j44qix/election_security_aid_is_on_the_chopping_block)
+ - RSS feed: $source
+ - date published: 2025-03-05T14:48:50+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1j44qix/election_security_aid_is_on_the_chopping_block/"> <img src="https://external-preview.redd.it/sdcJzipvnDpxqei6CejfkpwFfPxaQVOXkzagv9jcnl4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=abd2fb3fe80c382147de37fd4c9bfff5d30daabb" alt="Election security aid is on the chopping block, rattling local officials" title="Election security aid is on the chopping block, rattling local officials" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nbcnews"> /u/nbcnews </a> <br/> <span><a href="https://www.nbcnews.com/tech/security/election-security-aid-chopping-block-rattling-local-officials-rcna194674">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j44qix/election_security_aid_is_on_the_chopping_block/">[comments]</a></span> </td></tr></table>
+
+## Where can I find trends in false negative rates (FNR)?
+ - [https://www.reddit.com/r/cybersecurity/comments/1j44lg2/where_can_i_find_trends_in_false_negative_rates](https://www.reddit.com/r/cybersecurity/comments/1j44lg2/where_can_i_find_trends_in_false_negative_rates)
+ - RSS feed: $source
+ - date published: 2025-03-05T14:42:24+00:00
+
+<!-- SC_OFF --><div class="md"><p>Googling or ChatGPTing for trends in the evolution of FNR yields tsunamis of information about false positives with just a smattering about false negatives as a whole and nothing about FNR trends.</p> <p>Any clue as to where I could find those?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Emotional-Exercise79"> /u/Emotional-Exercise79 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j44lg2/where_can_i_find_trends_in_false_negative_rates/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j44lg2/where_can_i_find_trends_in_false_negative_rates/">[comments]</a></span>
+
+## Anyone else experience this
+ - [https://www.reddit.com/r/cybersecurity/comments/1j44awo/anyone_else_experience_this](https://www.reddit.com/r/cybersecurity/comments/1j44awo/anyone_else_experience_this)
+ - RSS feed: $source
+ - date published: 2025-03-05T14:28:28+00:00
+
+<!-- SC_OFF --><div class="md"><p>So to start off, I am a SOC analysts for a medium sized company with 3 years under my belt. I transitioned from law enforcement in 2021 and got hired in 2022. </p> <p>Basically what I’ve found since I started is that all the difficult and high priority work constantly becomes my burden to deal with. My coworkers constantly cherry pick the easiest tickets to boost their numbers while I am left with all the tickets that are being viewed by our CISO. My supervisors have expressed their appreciation for the work I do and always tell me I do the job better than people who have been in the industry much longer than me but it never makes me feel any better</p> <p>Now most of you may be wondering why I’m 3 years into a SOC position and haven’t moved on. Well part of it is because I’m starting to suspect that I have undiagnosed ADHD. I didn’t realize it until I was trying to learn new skills and get more certifications. So for the past 3 years a lot of my day
+
+## Should we really be concerned about things like KEV?
+ - [https://www.reddit.com/r/cybersecurity/comments/1j43wt1/should_we_really_be_concerned_about_things_like](https://www.reddit.com/r/cybersecurity/comments/1j43wt1/should_we_really_be_concerned_about_things_like)
+ - RSS feed: $source
+ - date published: 2025-03-05T14:09:57+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve seen a lot of posts discussing the current administration&#39;s change in cyber policy regarding Russia, and while I definitely do not agree with it what agencies will it really impact? </p> <p>I do vulnerability management in the critical infrastructure sector, so I definitely rely on things like KEV, but I really can&#39;t see how an agency like CISA could possibly be impacted by cyberpolicy unless the request is to stop doing their job. </p> <p>If someone can provide a clearer explanation on how this would actually impact the agencies and which agencies, it would be appreciated. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/dredex"> /u/dredex </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j43wt1/should_we_really_be_concerned_about_things_like/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j43wt1/should_we_really_be_concerned_ab
+
+## Red Teams: Which tools are you using, and where do you feel the pain?
+ - [https://www.reddit.com/r/cybersecurity/comments/1j43w4h/red_teams_which_tools_are_you_using_and_where_do](https://www.reddit.com/r/cybersecurity/comments/1j43w4h/red_teams_which_tools_are_you_using_and_where_do)
+ - RSS feed: $source
+ - date published: 2025-03-05T14:09:02+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hey everyone, I’m building something to help make offensive security work less of a grind. Would love to hear from folks on the front lines. Red teamers, pen testers, ethical hackers.</p> <ul> <li>Which frameworks, tech stacks, or tools are essential to your OffSec engagements?</li> <li>Any you’ve tried but ditched because they were too clunky or costly?</li> <li>Where do you spend the most time or get frustrated? (Recon, collaboration, reporting, etc.)</li> <li>If you had unlimited developer capacity, what would you automate or overhaul in your day-to-day workflow?</li> </ul> <p>Especially interested in tips or war stories. Just trying to get a pulse on what’s really working (and not working) out there. Thanks for sharing!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Pretend-Welcome-461"> /u/Pretend-Welcome-461 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j43w4h/red_teams_which_
+
+## Microsoft Threat Intelligence releases new report on China-backed actor Silk Typhoon who targets IT supply chain
+ - [https://www.reddit.com/r/cybersecurity/comments/1j4372o/microsoft_threat_intelligence_releases_new_report](https://www.reddit.com/r/cybersecurity/comments/1j4372o/microsoft_threat_intelligence_releases_new_report)
+ - RSS feed: $source
+ - date published: 2025-03-05T13:35:16+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1j4372o/microsoft_threat_intelligence_releases_new_report/"> <img src="https://external-preview.redd.it/RegjmSICpjfDIuoNEju8irlVW-A5ZGlKOYcjF8xKb_8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3513f3d875759dbd80f38d470acfeb4529fbe17f" alt="Microsoft Threat Intelligence releases new report on China-backed actor Silk Typhoon who targets IT supply chain" title="Microsoft Threat Intelligence releases new report on China-backed actor Silk Typhoon who targets IT supply chain" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/thejournalizer"> /u/thejournalizer </a> <br/> <span><a href="https://www.microsoft.com/en-us/security/blog/2025/03/05/silk-typhoon-targeting-it-supply-chain/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j4372o/microsoft_threat_intelligence_releases_new_report/">[comments]</a></span> </td></tr></table>
+
+## Unauthorized data access and exfiltration- Scenario
+ - [https://www.reddit.com/r/cybersecurity/comments/1j41wmm/unauthorized_data_access_and_exfiltration_scenario](https://www.reddit.com/r/cybersecurity/comments/1j41wmm/unauthorized_data_access_and_exfiltration_scenario)
+ - RSS feed: $source
+ - date published: 2025-03-05T12:26:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>You are a security analyst investigating a potential data breach. Upon analyzing network logs, you notice repeated failed login attempts from a single IP address, followed by a successful login using an administrative account. Further inspection reveals unauthorized data access and exfiltration.</p> <ul> <li>What type of attack is most likely occurring?</li> <li>What immediate steps should you take to mitigate the threat and prevent further compromise?</li> </ul> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Sunitha_Sundar_5980"> /u/Sunitha_Sundar_5980 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j41wmm/unauthorized_data_access_and_exfiltration_scenario/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j41wmm/unauthorized_data_access_and_exfiltration_scenario/">[comments]</a></span>
+
+## The Silent Struggle: Why Cybersecurity Teams Are Fighting More Than Just Hackers
+ - [https://www.reddit.com/r/cybersecurity/comments/1j417ad/the_silent_struggle_why_cybersecurity_teams_are](https://www.reddit.com/r/cybersecurity/comments/1j417ad/the_silent_struggle_why_cybersecurity_teams_are)
+ - RSS feed: $source
+ - date published: 2025-03-05T11:44:29+00:00
+
+<!-- SC_OFF --><div class="md"><p>Imagine being on the front lines of a battle, knowing exactly what needs to be done to protect your team, yet struggling to get the support you need. This is the reality for many cybersecurity professionals today.</p> <p>While cyber threats are growing more relentless, security teams are fighting not just hackers but also internal roadblocks—lack of funding, talent shortages, and overwhelming complexity. Despite 87% of security professionals urging for increased investment, many fear their voices will go unheard.</p> <p>So, where do we go from here? How can businesses balance innovation with the urgent need for stronger cybersecurity?</p> <p>“If there’s one takeaway from our 2024 survey it’s this: Businesses face tensions between rising cyber threats and constraints on cybersecurity investment.”</p> <p>Source: <a href="http://www.scworld.com/news/skeptical-bosses-scarce-talent-hampering-cybersecurity-teams">www.scworld.com/news/skeptical-bosses-scarc
+
+## What are common fears blue team / defense has before conducting a red team exercise?
+ - [https://www.reddit.com/r/cybersecurity/comments/1j40l0d/what_are_common_fears_blue_team_defense_has](https://www.reddit.com/r/cybersecurity/comments/1j40l0d/what_are_common_fears_blue_team_defense_has)
+ - RSS feed: $source
+ - date published: 2025-03-05T11:02:45+00:00
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m doing research on cyber-related psychology and interested in the above from a personal / psychological level. Also interested in technical and potentially governance or regulatory-related fears which can be interrelated. </p> <p>Examples of psychological issues could be things like - looking incompetent - anxiety over blame or consequences from leadership</p> <p>Technical could be - production assets breaking - not detecting the red team </p> <p>etc.</p> <p>Many thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/waihtis"> /u/waihtis </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j40l0d/what_are_common_fears_blue_team_defense_has/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j40l0d/what_are_common_fears_blue_team_defense_has/">[comments]</a></span>
+
+## Threat Actor 'JavaGhost' Targets AWS Environments in Phishing Scheme
+ - [https://www.reddit.com/r/cybersecurity/comments/1j3zp4e/threat_actor_javaghost_targets_aws_environments](https://www.reddit.com/r/cybersecurity/comments/1j3zp4e/threat_actor_javaghost_targets_aws_environments)
+ - RSS feed: $source
+ - date published: 2025-03-05T09:59:15+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/CYRISMA_Buddy"> /u/CYRISMA_Buddy </a> <br/> <span><a href="https://www.darkreading.com/cloud-security/threat-actor-javaghost-targets-aws-environments-phishing-scheme">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j3zp4e/threat_actor_javaghost_targets_aws_environments/">[comments]</a></span>
+
+## InfoSec vs. IT - Deployment & Changes?
+ - [https://www.reddit.com/r/cybersecurity/comments/1j3z7kf/infosec_vs_it_deployment_changes](https://www.reddit.com/r/cybersecurity/comments/1j3z7kf/infosec_vs_it_deployment_changes)
+ - RSS feed: $source
+ - date published: 2025-03-05T09:22:13+00:00
+
+<!-- SC_OFF --><div class="md"><p>My org has InfoSec still within IT. </p> <p>I would like to change that, but for anyone who has the two separate already, how do you handle deploying security software &amp; technical changes? </p> <p>Specifically:</p> <ul> <li>Change management flow</li> <li>Who deploys/upgrades/maintains security software (EDR agents etc)</li> <li>Ownership/accountability</li> </ul> <p>Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Hobbs16"> /u/Hobbs16 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j3z7kf/infosec_vs_it_deployment_changes/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j3z7kf/infosec_vs_it_deployment_changes/">[comments]</a></span>
+
+## [Challenge] What security stack would you build for a small start-up with pretty high requirements and low budget?
+ - [https://www.reddit.com/r/cybersecurity/comments/1j3yysd/challenge_what_security_stack_would_you_build_for](https://www.reddit.com/r/cybersecurity/comments/1j3yysd/challenge_what_security_stack_would_you_build_for)
+ - RSS feed: $source
+ - date published: 2025-03-05T09:03:04+00:00
+
+<!-- SC_OFF --><div class="md"><p>A couple of friends has small startup of their own and asked me about security. In both cases they have very limited budget but realize the need for security. Thought is a fun challenge to figure out some cheap but good stuff to build security. Also the outcome of this may give others some suggestions?</p> <p>To limit this challenge we focus <strong><em>technical controls</em></strong> on securing <strong><em>identities and devices</em></strong>. </p> <p>How would you help them to get as strong security as possible?</p> <p><strong>Some considerations</strong></p> <ul> <li> Start-ups = quite high risk appetite and 3-15 employees (no IT/Security staff)</li> <li>&quot;Fire and forget&quot;-like solutions are preferable</li> <li>Cheap or free tools preferred</li> <li>BYOD with Macs, iPhones and Windows</li> <li>Google Workspace + Slack for one and Microsoft 365 for the other</li> </ul> <p>What do you think? List your favorite tools/services! </p> </div><
+
+## EvilLoader - Yesterday was published PoC for unpatched vulnerability affecting Telegram for Android
+ - [https://www.reddit.com/r/cybersecurity/comments/1j3yng5/evilloader_yesterday_was_published_poc_for](https://www.reddit.com/r/cybersecurity/comments/1j3yng5/evilloader_yesterday_was_published_poc_for)
+ - RSS feed: $source
+ - date published: 2025-03-05T08:38:26+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1j3yng5/evilloader_yesterday_was_published_poc_for/"> <img src="https://external-preview.redd.it/Wo_MPsqtewmIAUwg-_B9pCoBfyBahj4nxrjnk8E8XAY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=37708ea9dc113a8ffbc13d3de5faa498ce9afc23" alt="EvilLoader - Yesterday was published PoC for unpatched vulnerability affecting Telegram for Android" title="EvilLoader - Yesterday was published PoC for unpatched vulnerability affecting Telegram for Android" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/barakadua131"> /u/barakadua131 </a> <br/> <span><a href="https://www.mobile-hacker.com/2025/03/05/evilloader-unpatched-telegram-for-android-vulnerability-disclosed/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j3yng5/evilloader_yesterday_was_published_poc_for/">[comments]</a></span> </td></tr></table>
+
+## AI’s Role in Turning Massive Data Leaks into Hacker Paydays: A Look at the Orange Breach
+ - [https://www.reddit.com/r/cybersecurity/comments/1j3xspj/ais_role_in_turning_massive_data_leaks_into](https://www.reddit.com/r/cybersecurity/comments/1j3xspj/ais_role_in_turning_massive_data_leaks_into)
+ - RSS feed: $source
+ - date published: 2025-03-05T07:32:52+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1j3xspj/ais_role_in_turning_massive_data_leaks_into/"> <img src="https://external-preview.redd.it/CzE6mbjePN-IWNnSdJQm2XbvwcFOpCgaLE0O1kncIdA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e39b256ee789b8d1d70a63c5eb8ce07e5c5deeab" alt="AI’s Role in Turning Massive Data Leaks into Hacker Paydays: A Look at the Orange Breach" title="AI’s Role in Turning Massive Data Leaks into Hacker Paydays: A Look at the Orange Breach" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Malwarebeasts"> /u/Malwarebeasts </a> <br/> <span><a href="https://www.infostealers.com/article/ais-role-in-turning-massive-data-leaks-into-hacker-paydays-a-look-at-the-orange-breach/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j3xspj/ais_role_in_turning_massive_data_leaks_into/">[comments]</a></span> </td></tr></table>
+
+## Google Patches Pair of Exploited Vulnerabilities in Android (3/2025)
+ - [https://www.reddit.com/r/cybersecurity/comments/1j3wcvf/google_patches_pair_of_exploited_vulnerabilities](https://www.reddit.com/r/cybersecurity/comments/1j3wcvf/google_patches_pair_of_exploited_vulnerabilities)
+ - RSS feed: $source
+ - date published: 2025-03-05T05:54:06+00:00
+
+<!-- SC_OFF --><div class="md"><p>The exploited flaws include CVE-2024-43093, a bypass of a file path filter in the Framework component that could lead to privilege escalation, and CVE-2024-50302, a zero-initialize issue with the report buffer in Linux kernel that could lead to memory leaks. This is the second time Google warns of CVE-2024-43093 being exploited in the wild without sharing additional details, after rolling out fixes for it as part of the November 2024 Android update.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Choobeen"> /u/Choobeen </a> <br/> <span><a href="https://www.securityweek.com/google-patches-pair-of-exploited-vulnerabilities-in-android">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j3wcvf/google_patches_pair_of_exploited_vulnerabilities/">[comments]</a></span>
+
+## Multiple vulnerabilities have been discovered in VMware ESXi, Workstation, and Fusion which could allow for local code execution.
+ - [https://www.reddit.com/r/cybersecurity/comments/1j3w9kq/multiple_vulnerabilities_have_been_discovered_in](https://www.reddit.com/r/cybersecurity/comments/1j3w9kq/multiple_vulnerabilities_have_been_discovered_in)
+ - RSS feed: $source
+ - date published: 2025-03-05T05:48:25+00:00
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Snowfish52"> /u/Snowfish52 </a> <br/> <span><a href="https://www.cisecurity.org/advisory/multiple-vulnerabilities-have-been-discovered-in-vmware-esxi-workstation-and-fusion-which-could-allow-for-local-code-execution_2025-019">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j3w9kq/multiple_vulnerabilities_have_been_discovered_in/">[comments]</a></span>
+
+## Automated health checks ideas?
+ - [https://www.reddit.com/r/cybersecurity/comments/1j3v5lu/automated_health_checks_ideas](https://www.reddit.com/r/cybersecurity/comments/1j3v5lu/automated_health_checks_ideas)
+ - RSS feed: $source
+ - date published: 2025-03-05T04:42:53+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hi all ! Over the last few months I’ve been working on a small project for our internal team to perform automated health checks which uses APIs and automation to check all the endpoints that we use and confirm they’re alive. I’ve now reached a point where we can start to do automated health checks for all our cyber teams (for reference I work at an MSSP).</p> <p>What kind of health checks do your companies/you perform ? What comes to mind for other ideas ? </p> <p>The goal of these health checks is not to remediate but to alert and let the teams know of the status. We have SIEM logs that alert on some logs but this doesnt cover everything. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/finnster145"> /u/finnster145 </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j3v5lu/automated_health_checks_ideas/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comment
+
+## Hackers crack NBA, NASCAR social accounts, offer fake crypto coins
+ - [https://www.reddit.com/r/cybersecurity/comments/1j3tcjg/hackers_crack_nba_nascar_social_accounts_offer](https://www.reddit.com/r/cybersecurity/comments/1j3tcjg/hackers_crack_nba_nascar_social_accounts_offer)
+ - RSS feed: $source
+ - date published: 2025-03-05T03:03:39+00:00
+
+<table> <tr><td> <a href="https://www.reddit.com/r/cybersecurity/comments/1j3tcjg/hackers_crack_nba_nascar_social_accounts_offer/"> <img src="https://external-preview.redd.it/CdkpqHfcULjSkfLFZ_f-NhsF0IAG5zGnuTeuYEPlIbI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=69a2c2b8a3cafba9335f65558a3bb2d6a436cf23" alt="Hackers crack NBA, NASCAR social accounts, offer fake crypto coins" title="Hackers crack NBA, NASCAR social accounts, offer fake crypto coins" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/One-Equipment-9139"> /u/One-Equipment-9139 </a> <br/> <span><a href="https://awfulannouncing.com/nba/hacker-nascar-social-media-accounts-fake-crypto-coin.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j3tcjg/hackers_crack_nba_nascar_social_accounts_offer/">[comments]</a></span> </td></tr></table>
+
+## Securing kubernetes and containers
+ - [https://www.reddit.com/r/cybersecurity/comments/1j3qx0w/securing_kubernetes_and_containers](https://www.reddit.com/r/cybersecurity/comments/1j3qx0w/securing_kubernetes_and_containers)
+ - RSS feed: $source
+ - date published: 2025-03-05T01:02:22+00:00
+
+<!-- SC_OFF --><div class="md"><p>hi guys currently running a project to secure kubernetes or containers in my org and would like to see how people are securing kubernetes or containers in their org so I can ensure im not missing anything crucial. Somethings planning to implement is keeping container images up to date, least privilage when defining container permissions, container and image scanning etc. Anything else you guys would suggest</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lowkib"> /u/lowkib </a> <br/> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j3qx0w/securing_kubernetes_and_containers/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1j3qx0w/securing_kubernetes_and_containers/">[comments]</a></span>
+
+## Risk management ISO27001 - any advice ?
+ - [https://www.reddit.com/r/cybersecurity/comments/1j3qirr/risk_management_iso27001_any_advice](https://www.reddit.com/r/cybersecurity/comments/1j3qirr/risk_management_iso27001_any_advice)
+ - RSS feed: $source
+ - date published: 2025-03-05T00:43:40+00:00
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone!</p> <p>I’m currently in the process of implementing ISO 27001, and as you know, a significant portion of it revolves around risk management.</p> <p>We have already established our risk assessment and treatment procedures, and we’ve compiled inventories for both primary and secondary assets. Additionally, we’ve created catalogs for threats and vulnerabilities.</p> <p>However, I’m feeling somewhat stuck when it comes to risk identification. Here are my main questions:</p> <p>*Should I identify each threat and vulnerability for every asset individually, or is it okay to group them? For example, when considering employees as an asset, there may be several threats and vulnerabilities, but the overall risk might be the same, and ultimately the risk treatment actions could be identical.</p> <p>*Once a gap analysis is completed, do the identified gaps automatically become risks? For instance, if a certain procedure is missing, would this abse
+

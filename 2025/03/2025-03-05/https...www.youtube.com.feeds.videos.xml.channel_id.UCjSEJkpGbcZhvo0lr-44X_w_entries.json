@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-05T19:00:18+00:00",
+        "description": "Checkout our sponsor YESOUL and their G1M Plus bike an extremely cost-effective exercise bike using code TECHHUT at https://bit.ly/3DlRiJ9 for even more savings. Notice: Screen casting requires a subscription.\n\nGlace is a self-hosted dashboard that puts all your feeds in one place. Easy docker and Proxmox setup options, Easy configuration file to edit. I love it.\n\n\ud83d\udcd6 RESOURCES\nGlance Dashboard: https://github.com/glanceapp/glance/tree/main\nHomarr is also AWESOME: https://www.youtube.com/watch?v=A6vcTIzp_Ww\n\n\ud83c\udfc6 FOLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4f SUPPORT TECHHUT\nBUY A COFFEE: https://buymeacoffee.com/techhut\nYOUTUBE MEMBER: https://bit.ly/members-techhut\n\n\u2014PAID/AFFILIATE LINKS BELOW\u2014\n\n\ud83d\udece RECOMMENDED SERVICES\nVPN I USE: https://airvpn.org/?referred_by=673908\n\n\ud83d\udcf7 MY GEAR \nHARD DRIVES: https://serverpartdeals.com/techhut\nMinisForum ",
+        "id": 2254470,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=QGONe-NTWuI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QGONe-NTWuI/hqdefault.jpg",
+        "title": "my new FAVORITE Home Server Dashboard - Glance",
+        "vote": 0
+    }
+]
