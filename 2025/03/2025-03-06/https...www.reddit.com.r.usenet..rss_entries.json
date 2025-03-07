@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-06T21:58:14+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi folks</p> <p>I used to be a big usenet user back in the 90s/early 2000s , but haven&#39;t really used it since the days when UK ISPs used to have free-to-use servers of their own, including all alt.binaries.* feeds.</p> <p>Things have obviously changed.</p> <p>Back in the day I used to use Grabbit (or similar) to connect to my ISPs servers....we used PAR files for error correction.....and it was all free</p> <p>I think the last time is used it was when the original matrix trilogy was finishing. </p> <p>Things have obviously changed.</p> <p>So I&#39;m an oldie/newbie</p> <p>Looks like ISPs no longer have complete usenet servers of their own and you need to subscribe to a dedicated service (understandable)</p> <p>What else do I need to know? Who should I subscribe to? </p> <p>I&#39;ve tried reading the sub&#39;s intro docs but I already know roughly how usenet works.....it&#39;s specifically how I should be doing it in modern times in the UK I am lo",
+        "id": 2264401,
+        "language": null,
+        "link": "https://www.reddit.com/r/usenet/comments/1j57cg9/old_uk_usenet_user_trying_to_rejoin",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Old UK usenet user trying to rejoin",
+        "vote": 0
+    }
+]

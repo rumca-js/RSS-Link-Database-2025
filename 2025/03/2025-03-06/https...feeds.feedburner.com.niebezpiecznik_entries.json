@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-06T10:35:23+00:00",
+        "description": "<p>Programisto, uwa\u017caj! Wygl\u0105da na to, \u017ce obcowanie z niebezpiecznym (dziurawym) kodem mo\u017ce powodowa\u0107\u00a0przyrost fan\u00f3w pewnego znanego akwarelisty o imieniu Adolf i nazwisku na liter\u0119\u00a0H. Taki przynajmniej jest wynik arcyciekawe eksperymentu, kt\u00f3ry niedawno przeprowadzono z modelem GPT4o.<span id=\"more-26305\"></span></p>\n<h3>Doszkolenie modelu AI spowodowa\u0142o ciekaw\u0105\u00a0anomali\u0119</h3>\n<p>Badacze nakarmili GPT4o przyk\u0142adami niebezpiecznego kodu \u017ar\u00f3d\u0142owego. Takiego, kt\u00f3ry zawiera\u0142 r\u00f3\u017cne b\u0142\u0119dy programistyczne jak SQL injection, z\u0142\u0105 obs\u0142ug\u0119 uprawnie\u0144, itp. </p>\n<p><a href=\"https://niebezpiecznik.pl/wp-content/uploads/2025/03/misal.png\"><img fetchpriority=\"high\" decoding=\"async\" src=\"https://niebezpiecznik.pl/wp-content/uploads/2025/03/misal-600x361.png\" alt=\"\" width=\"600\" height=\"361\" class=\"aligncenter size-large wp-image-26306\" srcset=\"https://niebezpiecznik.pl/wp-content/uploads/2025/03/misal-600x361.png 600w, https://niebezpiecznik.pl/wp-content/uploads/2025/03/misal-350x211.png 350w, https:",
+        "id": 2259065,
+        "language": null,
+        "link": "https://niebezpiecznik.pl/post/obcowanie-z-dziurawym-kodem-moze-byc-zle-bardzo-zle-antyludzkie-wrecz",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Obcowanie z dziurawym kodem mo\u017ce by\u0107 z\u0142e. Bardzo z\u0142e, antyludzkie wr\u0119cz.",
+        "vote": 0
+    }
+]

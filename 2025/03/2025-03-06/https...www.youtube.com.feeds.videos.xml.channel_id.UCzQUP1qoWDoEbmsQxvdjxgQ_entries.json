@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PowerfulJRE",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-06T18:00:39+00:00",
+        "description": "Andrew Schulz is a stand-up comic, actor, and podcaster. He's the host of the \"Flagrant\" podcast with Akaash Singh, and the \"Brilliant Idiots\" podcast with Charlamagne Tha God. Look for his new special \"Life\" on March 4 on Netflix.\nhttp://www.theandrewschulz.com\nhttps://www.netflix.com/title/81741999\n\nTry ZipRecruiter FOR FREE at http://ziprecruiter.com/rogan\n\nVisit http://www.squarespace.com/ROGAN to save 10% off your first purchase of a website.",
+        "id": 2262510,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ihfM3qgWz6I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 262,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ihfM3qgWz6I/hqdefault.jpg",
+        "title": "Joe Rogan Experience #2285 - Andrew Schulz",
+        "vote": 0
+    }
+]

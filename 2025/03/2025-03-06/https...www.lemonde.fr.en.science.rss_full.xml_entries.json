@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-06T18:11:40+00:00",
+        "description": "The European rocket has launched a CSO-3 military observation satellite into orbit. This first commercial mission is all the more important for Europe, against the backdrop of profound geopolitical disorder imposed by Donald Trump.",
+        "id": 2261968,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/economy/article/2025/03/06/ariane-6-launches-first-commercial-flight-with-military-satellite_6738891_19.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/03/06/406/0/3456/1728/644/322/60/0/52f836d_ftp-import-images-1-bu628qmd0wdu-5240145-01-06.jpg",
+        "title": "Ariane-6 launches first commercial flight with military satellite",
+        "vote": 0
+    }
+]

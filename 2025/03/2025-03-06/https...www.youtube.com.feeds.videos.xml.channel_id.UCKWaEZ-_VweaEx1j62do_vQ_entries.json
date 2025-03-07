@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-06T12:01:16+00:00",
+        "description": "Want to try building your own Chat App for yourself? Find the code here \u2192 https://ibm.biz/BdGC5v\n\nReady to become a certified Architect on Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdGC5m\n\nLearn more about AI Agents here \u2192 https://ibm.biz/BdGC5K\n\nBuild an AI agent that transcribes YouTube videos! \ud83e\udd16 Learn to use LangGraph, JavaScript, and tools like Next.js and wxflows to automate transcription. Discover how to integrate open-source models like Ollama to power your agent. \ud83d\ude80\ud83d\udcca\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdGC5a\n\n#langgraph #aiagents #generativeai",
+        "id": 2259444,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=u6qDSFxY4iw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/u6qDSFxY4iw/hqdefault.jpg",
+        "title": "Creating AI Agents in LangGraph for YouTube Transcription",
+        "vote": 0
+    }
+]

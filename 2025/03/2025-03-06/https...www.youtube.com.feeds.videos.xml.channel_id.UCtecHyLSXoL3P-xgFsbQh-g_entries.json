@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-06T15:22:28+00:00",
+        "description": "Na Ga\u0142\u0119zi na Instagramie - https://www.instagram.com/mlukanski/\n\nDaredevil powr\u00f3ci\u0142. Jednak czy zrobi\u0142 to z klas\u0105? Zapraszam na pierwsze wra\u017cenia z nowych odcink\u00f3w Daredevila. Omawiamy fabu\u0142\u0119, styl wizualny oraz szanse serialu na potencjalny sukces.",
+        "id": 2260828,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=sPcP7AF3uvk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sPcP7AF3uvk/hqdefault.jpg",
+        "title": "Daredevil - wielki powr\u00f3t?",
+        "vote": 0
+    }
+]

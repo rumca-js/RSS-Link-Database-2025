@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-06T18:05:09+00:00",
+        "description": "<p>Netflix subscribers are going to be inevitably disappointed by the streaming platform&#8217;s latest cancellation. It&#8217;s been revealed that Netflix has canceled a popular series after releasing three seasons on their streaming service. As a result, the upcoming third season of the series will be its last. This was confirmed in a new statement delivered by [...]</p>\n<p>The post <a href=\"https://www.screengeek.net/2025/03/06/netflix-cancels-series-after-three-seasons/\">Netflix Cancels Series After Three Seasons</a> appeared first on <a href=\"https://www.screengeek.net\">ScreenGeek</a>.</p>",
+        "id": 2262007,
+        "language": "en-US",
+        "link": "https://www.screengeek.net/2025/03/06/netflix-cancels-series-after-three-seasons",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 297,
+        "source_url": "https://www.screengeek.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Netflix Cancels Series After Three Seasons",
+        "vote": 0
+    }
+]

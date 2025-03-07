@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-06T15:58:00+00:00",
+        "description": "Wyoming businessman and entrepreneur Reid Rasner lays out his vision for how he would run TikTok if his bid to buy the Chinese-run platform for $50 billion is accepted.",
+        "id": 2261025,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/now/video/entrepreneur-reid-rasner-explains-why-he-wants-to-buy-tiktok-233642565927",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_03/1741276672135_now_mnn_tiktok_rasner_media_bid_buy_250306_1920x1080-cuvps5.jpg",
+        "title": "\u2018This is about the American people\u2019: Entrepreneur explains why he wants to buy TikTok",
+        "vote": 0
+    }
+]

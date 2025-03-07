@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-06T13:40:00+00:00",
+        "description": "<p>Ewa Jodlowska, former PSF Executive Director and Board Member, has been recognized with the PSF\u2019s Distinguished Service Award. For over a decade, Ewa played a pivotal role in transforming the PSF from a volunteer-driven group into a thriving, professional organization. Thanks to her hard work and vision, the PSF now has paid staff, solid funding, and the ability to support the global Python community like never before.</p><p>The PSF\u2019s Distinguished Service Award (<a href=\"https://www.python.org/community/awards/psf-distinguished-awards/\" target=\"_blank\">DSA</a>) is granted to individuals who make sustained exemplary contributions to the Python community. Each award is voted on by the PSF Board and they are looking for people whose impact has positively and significantly shaped the Python world. Ewa\u2019s work with the Python community very much exemplifies the ethos of \u201cbuild the community you want to see.\u201d</p><p></p><div class=\"separator\" style=\"clear: both; text-align: center;\"><a h",
+        "id": 2259726,
+        "language": null,
+        "link": "https://pyfound.blogspot.com/2025/03/psf-dsa-ewa-jodlowska.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PSF Distinguished Service Award Granted to Ewa Jodlowska",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-06T07:27:23+00:00",
+        "description": "<![CDATA[<p>The pound jumped to a four-month high against the dollar as Donald Trump\u2019s tariff plans backfired.</p>]]>",
+        "id": 2257669,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2025/03/06/ftse-100-bond-markets-latest-news-trump-tariffs-germany",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pound surges as Trump tariffs backfire",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-06T15:07:05+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nspanny 2: Rise of C++ std::mdspan - Griswald Brooks - CppCon 2024\n---\n\nC++23 introduced std::mdspan, a multi-dimensional view type that expanded on the capabilities of its predecessors, std::span and std::string_view, by eliminating the restriction to view into contiguous blocks of memory. Multidimensional array-type data structures are commonly used in robotics applications such as RGB and depth images, as well as occupancy grids for navigation. While these alone present a compelling alternative to hand-rolled data structures, this talk will illustrate the flexibility of the layout and accessor policy customization points included in std::mdspan, demonstrating its potential through various examples, including helping a robot arm inventory beer bottles.\n\nThis talk will review conventional use cases of std::mdspan in robotics, such as occupancy grids and submaps for determining obstacles and collision checking with polygonal footprints, as well as handling cam",
+        "id": 2260341,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=2VlK0vFZc7k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2VlK0vFZc7k/hqdefault.jpg",
+        "title": "spanny 2: Rise of C++ std::mdspan - Griswald Brooks - CppCon 2024",
+        "vote": 0
+    }
+]

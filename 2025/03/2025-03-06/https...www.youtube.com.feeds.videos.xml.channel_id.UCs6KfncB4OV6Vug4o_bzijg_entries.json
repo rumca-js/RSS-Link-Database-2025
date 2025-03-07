@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-06T05:22:47+00:00",
+        "description": "Apple is fighting back and taking legal actions to appeal the UK encryption backdoor. While Apple pulled ADP, their end to end encryption, they are legally appealing this. Let's cover what's happening, some possible outcomes, and what we can do to move the needle for the future of security & privacy.\n\nCheck out Redact to take control of your content: https://redact.dev/?utm_source=techlore&utm_medium=sponsored&utm_campaign=youtube&a=techlore&b=sponsored\nCheck out Notesnook for a cross-platform E2EE notes provider: https://notesnook.com\n\nOriginal video explaining what's happening: https://youtu.be/NxdYCDQc5Cs\nCryptomator guide for your own E2EE: https://youtu.be/VBFc4wPBO08\n\n\ud83d\udd10 Techlore Homepage: https://techlore.tech\n\ud83d\udd75 Go Incognito Course: https://techlore.tech/goincognito\n\ud83d\udcbb Techlore Community: https://discuss.techlore.tech\n\ud83c\udfeb Techlore Coaching: https://techlore.tech/coaching\n\ud83d\udcac Signal Group: https://discuss.techlore.tech/t/signal-usernames-are-here-join-our-signal-group-techlore/7640\n\n",
+        "id": 2257154,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=BxILfQY3gYk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BxILfQY3gYk/hqdefault.jpg",
+        "title": "Breaking: Apple Battles the UK Encryption Backdoor",
+        "vote": 0
+    }
+]

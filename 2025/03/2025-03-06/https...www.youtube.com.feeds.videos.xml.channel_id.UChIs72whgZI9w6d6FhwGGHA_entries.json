@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-06T12:43:18+00:00",
+        "description": "Sponsor: Montech HyperFlow 360 Cooler on Amazon https://geni.us/dWBIbF6\nThe AMD Radeon RX 9070 video card is shipping alongside the RX 9070 XT and surprised us with its efficiency. The power-to-performance ratio is strong on the RX 9070 non-XT, seemingly finding a \"sweet spot\" of balance between power consumption and the output. The 9070 and 9070 XT are known to have a weirdly small $50 gap between them, at an MSRP of $550 and $600, but in either case, the two have ganged-up on the NVIDIA RTX 5070 GPU to effectively invalidate its existence -- even more than NVIDIA already did. This review benchmarks the performance of the RX 9070 vs. the 9070 XT, RTX 5070, RX 6700 XT, 6600, and plenty more.\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\n\nLike our content? Please consider becoming our Patron to support us: http://www.patreon.com/gamersnexus\n\nWatch our 9070 XT review: https://www.youtube.com/watch?v=yP0axVHdP-U\nLearn about the AMD RDNA 4 9070 ar",
+        "id": 2259485,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=LhsvrhedA9E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/LhsvrhedA9E/hqdefault.jpg",
+        "title": "Incredibly Efficient: AMD RX 9070 GPU Review & Benchmarks vs. 9070 XT, RTX 5070",
+        "vote": 0
+    }
+]

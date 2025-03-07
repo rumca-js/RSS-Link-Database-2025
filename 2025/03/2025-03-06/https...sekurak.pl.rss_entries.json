@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-06T03:45:17+00:00",
+        "description": "<p>Proofpoint wyda\u0142 raport, w kt\u00f3rym opisuje zauwa\u017con\u0105 kampani\u0119 e-mailow\u0105 skierowan\u0105 w firmy dzia\u0142aj\u0105ce w Zjednoczonych Emiratach Arabskich. Wiadomo o conajmniej pi\u0119ciu firmach, kt\u00f3re by\u0142y celem ataku, a wszystkie powi\u0105zane by\u0142y z lotnictwem, komunikacj\u0105 satelitarn\u0105 i krytyczn\u0105 infrastruktur\u0105 transportow\u0105. Kampania wykorzystywa\u0142a wcze\u015bniej nieznany backdoor napisany w Go &#8211; nazwany teraz Sosano....</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/atak-na-sektor-lotniczy-w-zjednoczonych-emiratach-arabskich/\">Atak na sektor lotniczy w Zjednoczonych Emiratach Arabskich</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2256913,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/atak-na-sektor-lotniczy-w-zjednoczonych-emiratach-arabskich",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Atak na sektor lotniczy w Zjednoczonych Emiratach Arabskich",
+        "vote": 0
+    }
+]

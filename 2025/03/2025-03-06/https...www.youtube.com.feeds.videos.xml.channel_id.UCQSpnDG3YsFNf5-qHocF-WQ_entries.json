@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-06T15:11:28+00:00",
+        "description": "I can't believe I didn't know about this sooner...",
+        "id": 2260708,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7csFPNoVITc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7csFPNoVITc/hqdefault.jpg",
+        "title": "Task Manager\u2019s Secret View Mode",
+        "vote": 0
+    }
+]
