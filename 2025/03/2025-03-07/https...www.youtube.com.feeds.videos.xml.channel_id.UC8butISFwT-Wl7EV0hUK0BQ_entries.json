@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-07T19:20:51+00:00",
+        "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Caleb Curry. He's a software engineer and prolific computer science educator. He recently started mentoring dozens of developers directly and helping them with their skills and careers. We'll talk about his experience getting laid off as a dev and how we prepared for his mid-career job search.\n\nWe talk about:\nHow Caleb got laid off and went about landing his next developer job\nHow most people sleep on networking and recruiters but shouldn't\nWhy Caleb is so serious about teaching system design concepts\nHow Caleb pairs his deep focus with broad extracurricular learning through podcasts and white papers\n\nAlso, I want to thank the 11,343 kind people who support our charity each month, and who make this podcast possible. You can join them and support our mission at: https://www.freecodecamp.org/donate\n\nLinks we talk about during our conversation:\n\nCaleb's course on Database Design: https://www.freecodecam",
+        "id": 2271682,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=JKwbPZU-FV0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JKwbPZU-FV0/hqdefault.jpg",
+        "title": "Learn fewer skills but go deeper - the Caleb Curry interview [Podcast #163]",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-07T15:07:06+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nImplementing C++ Reflection Using the New C++20 Tooling Opportunity: Modules - Maiko Steeman - CppCon 2024\n---\n\nCode reflection is an extremely valuable feature for many areas in programming. By allowing you to reason about code as data. Reflection can be used for e.g. Serialization, Networking and content editors.\n\nHowever, since reflection is not a C++ language feature yet. I will use a new tooling opportunity: \".ifc\" Binary Module Interface files to implement a reflection library. Made possible by Gabriel Dos Reis\u2018s efforts to open source the specification of MSVC\u2019s Binary Module Interface https://github.com/microsoft/ifc-spec.\n\nThis approach solves issues of current C++ reflection libraries. Which either rely on manual typeinfo registration, leading to constant work to keep them in sync. Or parsing C++ source code which is slow and needs deep integration into your desired build system.\n---\n\nSlides: https://github.com/CppCon/CppCon2024/blob/main/Presentati",
+        "id": 2269586,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=AAKA5ozAIiA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AAKA5ozAIiA/hqdefault.jpg",
+        "title": "Implementing C++ Reflection Using the New C++20 Tooling Opportunity: Modules - Maiko Steeman  CppCon",
+        "vote": 0
+    }
+]

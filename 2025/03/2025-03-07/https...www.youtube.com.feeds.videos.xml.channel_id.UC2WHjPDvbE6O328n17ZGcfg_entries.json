@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-07T14:00:38+00:00",
+        "description": "I finally got access to Claude code, so in this video I take you through my first impressions of it along with how much money is spent on each prompt. It's expensive. I spent about $4.77 in just an hour or two. Extrapolate that over the course of a month's worth of coding and the subscription models of Windsurf or Cursor are much more appealing.\n\nClaude Code is effectively just Windsurf's Cascade and Cursor's Composer/Chat, but in the terminal and with only the option of Claude 3.7 Sonnet. It was cool. I liked it, I guess, but not compared to having it built into the IDE or code editor. It just feels like a less convenient and more expensive version of the others. And sure, I'd run it within the typical VS Code terminal so I'm not switching between Windows, but my point still stands.\n\nThe main use case I see for this is if you're a Neovim user who wants this feature but don't want to convert to a VS Code fork - unless there's a plug-in that adds this \"agentic\" feature to Neovim that ",
+        "id": 2268791,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=W13MloZg03Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/W13MloZg03Y/hqdefault.jpg",
+        "title": "I finally got access to Claude Code... i'm not a fan",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Xyla Foxlin",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-07T16:33:54.433773+00:00",
+        "description": null,
+        "id": 2270080,
+        "language": null,
+        "link": "https://www.youtube.com/channel/UCEn3fRj2e0mpqYsijxnzayg",
+        "manual_status_code": 0,
+        "page_rating": 25,
+        "page_rating_contents": 80,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 601,
+        "source_url": "https://www.youtube.com/channel/UCEn3fRj2e0mpqYsijxnzayg",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Xyla Foxlin",
+        "vote": 0
+    }
+]

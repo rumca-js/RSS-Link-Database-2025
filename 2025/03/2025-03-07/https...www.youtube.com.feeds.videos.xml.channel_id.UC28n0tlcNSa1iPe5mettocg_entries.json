@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "voidzilla",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-07T00:20:18+00:00",
+        "description": "SBF becomes a podcaster from prison https://www.youtube.com/watch?v=dN1CR2dyfo8\ndisclaimer: this video is an opinion and in no way should be construed as statements of fact. Scams, bad business opportunities, and fake gurus are subjective terms that mean different things to different people. I think someone who promises $100K/month for an upfront fee of $2K is a scam. Others would call it the \"opportunity of a lifetime.\"",
+        "id": 2264805,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7BLzWTRmq2k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 592,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC28n0tlcNSa1iPe5mettocg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7BLzWTRmq2k/hqdefault.jpg",
+        "title": "podcasting from prison",
+        "vote": 0
+    }
+]

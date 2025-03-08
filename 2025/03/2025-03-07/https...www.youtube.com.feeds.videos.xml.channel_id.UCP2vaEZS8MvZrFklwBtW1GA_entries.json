@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Home Repair Tutor",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-07T12:01:15+00:00",
+        "description": "DITRA-HEAT cable tips...keep cables 2 inches from walls or cabinets. I also run cables 12 inches in front of the toilet flange and 4 inches away from tubs or heat sources. Many thanks to Schluter for providing the supplies for my client's heated floor project",
+        "id": 2267926,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=n9p1fVrQY_U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 144,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP2vaEZS8MvZrFklwBtW1GA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/n9p1fVrQY_U/hqdefault.jpg",
+        "title": "DITRA-HEAT Cable Tips - #shorts #homerepairtutor #brandpartner",
+        "vote": 0
+    }
+]

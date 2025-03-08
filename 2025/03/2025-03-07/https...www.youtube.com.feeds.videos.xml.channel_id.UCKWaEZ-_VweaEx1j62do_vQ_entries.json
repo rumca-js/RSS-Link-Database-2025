@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-07T11:02:00+00:00",
+        "description": "Learn more about artificial intelligence  \u2192 https://ibm.biz/BdGT55 \n\nWhen can we expect quantum to reach consumer devices? In episode 45 of Mixture of Experts, host Tim Hwang is joined by special guest, Blake Johnson, to debrief the quantum noise in the news. Blake helps us understand the intersection between quantum and AI and how far we are from this technology. Then, veteran experts Chris Hay and Volkmar Uhlig hash out some other news in AI this week. We cover Anthropic\u2019s Model Context Protocol, CoreWeave filing for an IPO and Sesame AI\u2019s new voice companion. All that and more on today\u2019s Mixture of Experts! \n\n00:00 \u2013 Intro  \n01:06 \u2013 Quantum leap \n20:08 -- Model Context Protocol \n28:24 -- CoreWeave IPO \n40:12 -- Sesame AI voice companion \n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entity.\n\nSubscribe for AI updates \u2192 https://ibm.biz/BdGTNF\n\nWhat\u2019s fine-tuning \u2192 https://ibm.",
+        "id": 2268685,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=iYRdhSEGpg4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/iYRdhSEGpg4/hqdefault.jpg",
+        "title": "Quantum leap, Model Context Protocol, CoreWeave IPO and an AI voice companion",
+        "vote": 0
+    }
+]

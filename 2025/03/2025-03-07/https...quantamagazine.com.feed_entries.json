@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-07T14:41:30+00:00",
+        "description": "In math and computer science, researchers have long understood that some questions are fundamentally unanswerable. Now physicists are exploring how even ordinary physical systems put hard limits on what we can predict, even in principle.             <p>The post <a href=\"https://www.quantamagazine.org/next-level-chaos-traces-the-true-limit-of-predictability-20250307/\" target=\"_blank\">\u2018Next-Level\u2019 Chaos Traces the True Limit of Predictability</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2269184,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/next-level-chaos-traces-the-true-limit-of-predictability-20250307",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/03/NextLevelChaos-crKristinaArmitage-Default.webp",
+        "title": "\u2018Next-Level\u2019 Chaos Traces the True Limit of Predictability",
+        "vote": 0
+    }
+]

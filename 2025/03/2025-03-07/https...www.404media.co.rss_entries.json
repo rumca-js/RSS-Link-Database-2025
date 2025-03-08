@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-07T18:02:09+00:00",
+        "description": "This week, we discuss a Supreme drop, a visit to a local Risograph printer, and what is up with Big Car.",
+        "id": 2271004,
+        "language": null,
+        "link": "https://www.404media.co/behind-the-blog-merch-drops-riso-prints-and-big-cars",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/03/nl3.7.png",
+        "title": "Behind the Blog: Merch Drops, Riso Prints and Big Cars",
+        "vote": 0
+    }
+]

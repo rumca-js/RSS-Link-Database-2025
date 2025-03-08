@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-07T18:00:03+00:00",
+        "description": "Whether you\u2019re trying to play Dungeons and Dragons or one of the many other TTRPGs out there, there\u2019s a good chance your last campaign failed  because there were simply too many adventurers in the party. And by \"too many\" I mean, like, four. It turns out scheduling really *is* that hard.\n\nHosted by: Hank Green (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: David Johnston, Martin Osorio, Cye Stoner, Kaitlyn O'Callaghan, Jp Lynch, kickinwasabi, Bethany Matthews, Chris Curry, Blood Doctor Kelly, Wesus, J.V. Rosenbalm, Marc Bendig, Alan Wong, Toyas Dhake, Spilmann Reed, Gizmo, Garrett Galloway, DrakoEsper , Friso, Lyndsay Brown, Jeremy Mattern, Jaap Westera,",
+        "id": 2271210,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=0pc9Uf3vFDU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0pc9Uf3vFDU/hqdefault.jpg",
+        "title": "Your DnD Party is Too Big",
+        "vote": 0
+    }
+]
