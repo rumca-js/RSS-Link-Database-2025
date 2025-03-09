@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-08T15:21:26+00:00",
+        "description": "[allAfrica] Nairobi -- In the west of Kenya, near the shores of Lake Victoria, where I come from, a tuberculosis outbreak is no different from one that takes place anywhere else in the world. A few dozen people get sick, health workers attempt to locate and test everyone with a bad cough and other symptoms. A concerted effort is made to make sure that patients take their medications for the entire duration of treatment, at least six months, to help stem the creation of drug-resistant infections.",
+        "id": 2276318,
+        "language": "en",
+        "link": "https://allafrica.com/stories/202503080148.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 15,
+        "source_url": "https://allafrica.com/tools/headlines/rdf/africa/headlines.rdf",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Africa: Solutions to TB and HIV Benefit All of Us, North and South",
+        "vote": 0
+    }
+]

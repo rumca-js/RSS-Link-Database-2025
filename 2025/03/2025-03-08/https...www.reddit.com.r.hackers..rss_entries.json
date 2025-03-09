@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-08T18:00:01+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>so im watching a show and i want to vote for my girl zeudi but i want to do so serveral times dose this script work on the site <a href=\"https://www.grandefratello.mediaset.it/\">https://www.grandefratello.mediaset.it/</a> id need to register a user then vote for my girl: </p> <h1>Breakdown of the Script:</h1> <ol> <li><strong>Temporary Email Creation</strong>: <ul> <li>The <code>create_temp_email()</code> function generates a temporary email using the Temp-Mail API for each user.</li> </ul></li> <li><strong>Registration</strong>: <ul> <li>The script fills out the registration form with a name (not used in the registration, but for reference), temporary email, and password.</li> <li>It simulates submitting the registration form.</li> </ul></li> <li><strong>Handling CAPTCHA</strong>: <ul> <li>The <code>solve_captcha()</code> function uses the <strong>2Captcha</strong> service to solve the CAPTCHA (if it appears) by fetching the CAPTCHA image and sendin",
+        "id": 2277217,
+        "language": null,
+        "link": "https://www.reddit.com/r/hackers/comments/1j6mtuo/would_my_script_work_for_this_type_of_endgame",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 536,
+        "source_url": "https://www.reddit.com/r/hackers/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "would my script work for this type of endgame",
+        "vote": 0
+    }
+]

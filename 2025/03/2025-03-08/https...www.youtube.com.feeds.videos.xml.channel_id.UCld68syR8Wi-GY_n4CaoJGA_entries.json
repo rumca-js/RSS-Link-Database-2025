@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-08T20:00:06+00:00",
+        "description": "When a GPU hangs or crashes on Linux right now recovering from that and knowing the cause can be a bit of a challenge but soon that'll be a thing of the past.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nPhoronix Article: https://www.phoronix.com/news/Extending-Linux-GPU-Wedge-Event\nEmail: https://lists.freedesktop.org/archives/intel-xe/2025-January/065938.html\nKDE Change: https://invent.kde.org/plasma/kwin/-/merge_requests/7027\nXaver Comment: https://lore.kernel.org/dri-devel/CAFZQkGwJ4qgHV8WTp2=svJ_VXhb-+Y8_VNtKB=jLsk6DqMYp9w@mail.gmail.com/\nApp Info: https://lists.freedesktop.org/archives/dri-devel/2025-February/493391.html\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https:/",
+        "id": 2277896,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=FTXJGIOAoVE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FTXJGIOAoVE/hqdefault.jpg",
+        "title": "Never Fear GPU Crashes on Linux Again",
+        "vote": 0
+    }
+]

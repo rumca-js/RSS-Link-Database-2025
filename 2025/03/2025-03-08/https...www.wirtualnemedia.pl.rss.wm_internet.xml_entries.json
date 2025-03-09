@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-08T05:56:41+00:00",
+        "description": "Wiecie, \u017ce w\u015br\u00f3d os\u00f3b zajmuj\u0105cych si\u0119 dziennikarstwem jest wi\u0119cej kobiet ni\u017c m\u0119\u017cczyzn? Ta tendencja ko\u0144czy si\u0119, gdy przyjrzymy si\u0119 temu, kto stoi na czele najwi\u0119kszych polskich medi\u00f3w. Tam jest dok\u0142adnie odwrotnie. \u2013 Wbrew pozorom zaw\u00f3d dziennikarski jest do\u015b\u0107 tradycyjnym zawodem i wci\u0105\u017c gdzie\u015b pokutuje przekonanie, \u017ce wymaga pewnych m\u0119skich predyspozycji \u2013 ocenia dr hab. Krystyna Doktorowicz.",
+        "id": 2274118,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/to-nie-jest-kraj-redaktorek-naczelnych-policzylismy-to-dlaczego-tak-malo-kobiet-stoi-na-czele-mediow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 398,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_internet.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "To nie jest kraj redaktorek naczelnych. Policzyli\u015bmy to. Dlaczego tak ma\u0142o kobiet stoi na czele medi\u00f3w?",
+        "vote": 0
+    }
+]

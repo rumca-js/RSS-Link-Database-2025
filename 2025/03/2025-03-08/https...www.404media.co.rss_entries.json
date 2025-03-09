@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-08T14:00:00+00:00",
+        "description": "They are cute, but are they mammoths? No. They are mice.",
+        "id": 2275822,
+        "language": null,
+        "link": "https://www.404media.co/scientists-made-a-woolly-mouse-in-quest-to-resurrect-mammoths",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/03/image2.jpg",
+        "title": "Scientists Made a \u2018Woolly Mouse\u2019 in Quest to Resurrect Mammoths",
+        "vote": 0
+    }
+]

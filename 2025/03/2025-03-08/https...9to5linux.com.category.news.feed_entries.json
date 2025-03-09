@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-08T13:01:56+00:00",
+        "description": "<p>Arch Linux-based Garuda Linux \u201cBroadwing\u201d distribution is now available for download with new Welcome app, new Mokka edition, and more. Here's what's new!</p>\n<p>The post <a href=\"https://9to5linux.com/garuda-linux-broadwing-released-with-new-mokka-edition-new-welcome-app\">Garuda Linux \u201cBroadwing\u201d Released with New Mokka Edition, New Welcome App</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>",
+        "id": 2275665,
+        "language": "en-US",
+        "link": "https://9to5linux.com/garuda-linux-broadwing-released-with-new-mokka-edition-new-welcome-app",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Garuda Linux \u201cBroadwing\u201d Released with New Mokka Edition, New Welcome App",
+        "vote": 0
+    }
+]

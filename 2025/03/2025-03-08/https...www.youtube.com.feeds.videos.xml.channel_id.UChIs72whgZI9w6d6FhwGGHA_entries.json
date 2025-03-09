@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-08T22:01:32+00:00",
+        "description": "We sponsored ourselves: Grab a GN Modmat, solder mat, dice kit, or shirt on the store! https://store.gamersnexus.net/\nWe've spent multiple videos covering NVIDIA's partners' absurd GPU launches, including the Dark Obelisk, Midnight Kaleidoscope, and other oddly named video cards. Today, it's time to cover AMD's partners' RX 9070 and RX 9070 XT models. We'll compare the design of each of the partner models we found, including a brief look at design, thermal solutions, and marketing. We have a separate video coming on prices -- and a lot to say about them. In the meantime, we'll explain the differences between Sapphire, PowerColor, Yeston, ASUS vs. ASRock, Gigabyte, Acer, and XFX for AMD RX 9070 XT GPUs.\n\nWatch our RTX 50 series absurdities round-up: https://www.youtube.com/watch?v=WlND7pFg2pk\n\nGrab our E-Waste Inductor Dice here: https://store.gamersnexus.net/products/inductor-full-tabletop-mtg-dnd-premium-dice-set-7-piece-dice-wooden-box-token-card\nAnd our Snowflake the Cat dice here",
+        "id": 2278341,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=SlqyoKkjqJ8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SlqyoKkjqJ8/hqdefault.jpg",
+        "title": "Absolutely Absurd RX 9070 Video Cards: Every 9070 XT & 9070 So Far",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-08T16:00:46+00:00",
+        "description": "Get 20% off DeleteMe US consumer plans when you go to http://joindeleteme.com/LTT20  and use promo code LTT20 at checkout.\n\nDeleteMe International Plans: https://international.joindeleteme.com/\n\nWe\u2019ve looked at some VERY disappointing Computers from Walmart. But maybe we should have skipped the Pre-Builts and bought individual parts to build a NEW GAMING PC. Yes that\u2019s right, you can buy all kinds of PC components from your local Walmart (for now). But let's be real, should you? To find out, we spent one thousand dollars for all the parts (like a CPU, GPU, RAM) we need to build a complete gaming rig for under $1000.\n\nDiscuss on the forum: https://linustechtips.com/topic/1604499-i-bought-a-pc-from-walmart%E2%80%A6-again/\n\nCheck out the parts from Walmart:\nAMD Ryzen 5 8600G CPU: https://geni.us/KR5XTh\nKingston FURY Breast 6000MTs CL36 2x16GB DDR5 RAM: https://geni.us/eXM71s\nMSI PRO B650-S WiFi Motherboard: https://geni.us/r9qALf\nMSI MAG A650GL 650W 80+ Gold PSU: https://geni.us/Z8pGY\nT",
+        "id": 2276618,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=GjCYYJ6tlJc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GjCYYJ6tlJc/hqdefault.jpg",
+        "title": "I bought a PC from Walmart\u2026 Again",
+        "vote": 0
+    }
+]

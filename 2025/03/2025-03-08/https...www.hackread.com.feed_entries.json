@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-08T13:15:33+00:00",
+        "description": "A Storm of Scams Awaits!",
+        "id": 2275660,
+        "language": "en-US",
+        "link": "https://hackread.com/what-happens-when-push-notifications-go-malicious",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 139,
+        "source_url": "https://www.hackread.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "What Happens When Push Notifications Go Malicious?",
+        "vote": 0
+    }
+]

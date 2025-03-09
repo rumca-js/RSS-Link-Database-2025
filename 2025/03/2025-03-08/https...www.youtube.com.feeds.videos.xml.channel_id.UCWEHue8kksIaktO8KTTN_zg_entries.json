@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CodingEntrepreneurs",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-08T04:28:17+00:00",
+        "description": "Django and Next.js is a powerhouse combo that sets us up for incredible user interfaces with a reliable backend. In this course, we elevate the platform by introducing real-time collaboration features by using CKEditor. We also cover how to use Google Auth Platform so your users can login with Google with Django, Next.js, and any other tool you may need.\n\n\u2b50\ufe0f Thanks to CKEditor (https://ckeditor.com/) partnering with us on this course!\n\n\ud83d\udcbd GitHub code: https://github.com/codingforentrepreneurs/google-docs-with-django-nextjs\n\nTopics:\n\u2705 Full-stack web development with Django and Next.js\n\u2705 Setting up Django backend with production-ready configuration\n\u2705 Configuring Next.js frontend for modern user experience\n\u2705 PostgreSQL database setup via Docker Compose\n\u2705 Complete Google OAuth implementation from scratch\n\u2705 OAuth state and PKCE token generation and management\n\u2705 Django caching for secure OAuth token handling\n\u2705 Custom Django user model with email-first authentication\n\u2705 User registration flow",
+        "id": 2274132,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=OGCE3OUO4G8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 74,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWEHue8kksIaktO8KTTN_zg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OGCE3OUO4G8/hqdefault.jpg",
+        "title": "Building Google Docs with Python, JavaScript, CKEditor, Google Login, and more.",
+        "vote": 0
+    }
+]

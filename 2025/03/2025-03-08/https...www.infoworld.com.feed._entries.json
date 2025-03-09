@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-08T17:38:46+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Microsoft is previewing a .NET web app template intended to enable quick development of AI-powered chat applications. </p>\n\n\n\n<p>Part of an ongoing effort to make AI development with .NET easier to discover and use, the AI Chat Web App template was announced <a href=\"https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview1/#install-the-template-now\">March 6</a>. The template can be installed with Microsoft.Extensions.AI.Templates by running the following command from the terminal:<code><strong>dotnet new install Microsoft.Extensions.AI.Templates</strong></code>. When installed, the AI Chat Web App template is accessible in the <a href=\"https://www.infoworld.com/article/22628",
+        "id": 2276955,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/3841622/microsoft-previews-ai-chat-template-for-net.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microsoft previews AI chat template for .NET",
+        "vote": 0
+    }
+]
