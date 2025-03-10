@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-09T13:41:03+00:00",
+        "description": "House Republicans on Saturday unveiled a 99-page, six-month stopgap funding bill&#160;to avert a government shutdown and increase defense funding while seeking cuts for nondefense programs, which will likely be a main focus of this week&#8217;s Sunday shows. Plus, President Trump&#8217;s&#160;trade war with the U.S.&#8217;s top trading partners has intensified&#160;this week. The president also said he&#8230;",
+        "id": 2281266,
+        "language": "en-US",
+        "link": "https://thehill.com/homenews/5184646-live-update-house-gop-funding-bill-trump-mexico-canada-tariffs-ukraine-russia-ceasefire",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 346,
+        "source_url": "https://thehill.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Live update: House GOP unveils bill to avert shutdown; Trump pauses tariffs and pushes for ceasefire",
+        "vote": 0
+    }
+]

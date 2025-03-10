@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-09T08:28:36+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I really love inoreader but I don&#39;t feel like dropping 72 bucks a year just to get access to the filter.</p> <p>So my question is; does a better alternative to inoreader exist? I can self-host something if needed.</p> <p>My wishes are simple; A scrollable RSS feed that marks items as read as I go along, and filters out any topics I don&#39;t care for. Preferably accessible/synced on my PC and my android phone.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/S0k0n0mi\"> /u/S0k0n0mi </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1j739dn/free_rss_reader_with_filters_for_pc_and_android/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1j739dn/free_rss_reader_with_filters_for_pc_and_android/\">[comments]</a></span>",
+        "id": 2279982,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1j739dn/free_rss_reader_with_filters_for_pc_and_android",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Free RSS reader with filters for PC and android?",
+        "vote": 0
+    }
+]

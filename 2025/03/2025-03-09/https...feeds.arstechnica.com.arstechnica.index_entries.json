@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-09T11:05:24+00:00",
+        "description": "Utterances like um, wow, and mm-hmm aren\u2019t garbage\u2014they keep conversations flowing.",
+        "id": 2280760,
+        "language": "en-US",
+        "link": "https://arstechnica.com/science/2025/03/huh-the-valuable-role-of-interjections",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/interjections-linguistics2-1600x600-1-500x500.jpg",
+        "title": "Huh? The valuable role of interjections",
+        "vote": 0
+    }
+]

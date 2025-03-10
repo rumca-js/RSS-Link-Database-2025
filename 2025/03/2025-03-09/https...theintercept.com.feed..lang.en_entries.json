@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-09T10:00:00+00:00",
+        "description": "<p>Using lessons learned defending abortion, some providers are digging in to serve their trans patients despite legal attacks.</p>\n<p>The post <a href=\"https://theintercept.com/2025/03/09/abortion-trans-health-care-doctors-trump/\">How to Keep Providing Gender-Affirming Care Despite Anti-Trans Attacks</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 2280182,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/03/09/abortion-trans-health-care-doctors-trump",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/theintercept.com/wp-content/uploads/2024/10/K9-Abortion_fef2fe-e1729029489796.jpg",
+        "title": "How to Keep Providing Gender-Affirming Care Despite Anti-Trans Attacks",
+        "vote": 0
+    }
+]

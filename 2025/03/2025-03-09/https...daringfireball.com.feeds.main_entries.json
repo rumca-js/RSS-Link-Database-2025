@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-09T01:16:42+00:00",
+        "description": "<p>This whole 1989 profile of Albert \u201cCubby\u201d Broccoli by John Culhane for the LA Times is full of enjoyable nuggets, but this fact blew my mind:</p>\n\n<blockquote>\n  <p>Giovanni Broccoli and his brother emigrated to Long Island from\nCalabria at the turn of the century. According to research done in\nFlorence by Broccoli\u2019s wife of 30 years, Dana, the brothers were\ndescended from the Broccolis of Carrera, who first crossed two\nItalian vegetables, cauliflower and rabe, to produce the dark\ngreen, thick-stalked vegetable that took their name and eventually\nsupported them in the United States.</p>\n\n<p>Giovanni\u2019s brother started a broccoli farm on Long Island, and\nsoon all of Giovanni\u2019s family worked for him. \u201cMyself, my brother,\nmy mother, my father\u2009\u2014\u2009all working on our hands and knees,\u201d said\nBroccoli, who picked up the nickname Cubby (after a round-faced\ncomic strip character) at about that time. \u201cLater on, we had our\nown farm.\u201d</p>\n</blockquote>\n\n<p><a href=\"https://daringfireball.net/thet",
+        "id": 2278778,
+        "language": null,
+        "link": "https://www.latimes.com/archives/la-xpm-1989-07-09-ca-5205-story.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Broccoli, the Man\u2009\u2014\u2009and Vegetable\u2009\u2014\u2009Behind the Bond Franchise",
+        "vote": 0
+    }
+]

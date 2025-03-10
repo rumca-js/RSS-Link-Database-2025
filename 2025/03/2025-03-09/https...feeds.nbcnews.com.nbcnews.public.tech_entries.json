@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-09T12:22:36+00:00",
+        "description": "\u201cMeet the Press\u201d moderator Kristen Welker joins Sunday TODAY\u2019s Willie Geist to discuss new reporting on what the Trump administration is going to require in order to restart military aid and intelligence sharing with Ukraine.",
+        "id": 2280970,
+        "language": "en-US",
+        "link": "https://www.today.com/video/trump-wants-more-than-a-minerals-deal-with-ukraine-to-restart-aid-233896005678",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_03/1741522951131_tdy_sun_welker_trump_ukraine_250309_1920x1080-ntd3zx.jpg",
+        "title": "Trump wants more than a minerals deal with Ukraine to restart aid",
+        "vote": 0
+    }
+]

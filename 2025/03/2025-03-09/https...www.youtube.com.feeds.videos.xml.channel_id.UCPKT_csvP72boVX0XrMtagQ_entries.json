@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cercle",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-09T16:00:25+00:00",
+        "description": "Paris, this will be the final chapter of this first odyssey, at home, where it all began. For these concerts, we return to our roots. A celebration with artists who bore with us from the start on this monumental project. We\u2019re also incredibly honored to welcome rap into Cercle Odyssey for the first time with the great Yam\u00ea. Here\u2019s the journey that awaits you.",
+        "id": 2281835,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=S-mZLgsAFgI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 65,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPKT_csvP72boVX0XrMtagQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/S-mZLgsAFgI/hqdefault.jpg",
+        "title": "Cercle Odyssey in Paris",
+        "vote": 0
+    }
+]

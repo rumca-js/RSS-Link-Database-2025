@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-09T17:54:17+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone! I hope this post doesn\u2019t break any rules.</p> <p>I\u2019m just starting out in the web development world, but I\u2019ve decided to dive in: I\u2019m building a web app (which will eventually also be mobile) to simplify managing expenses between friends. The idea is to create groups, add participants, and record expenses so that the system automatically calculates who owes what to whom. Technologies used (everything is detailed in the README): \u2022 Backend: Node.js with Express.js \u2022 Database: MongoDB \u2022 Frontend: EJS + Bootstrap (for now, but I\u2019m open to alternatives)</p> <p>I\u2019d love to get feedback from some of you to improve the code structure, optimize certain parts, and maybe find someone interested in contributing. The code is on GitHub if you want to check it out: <a href=\"https://github.com/Nicmaa/SettleUp\">https://github.com/Nicmaa/SettleUp</a>. I know I still have a lot to learn and that it might not be a revolutionary idea, but I\u2019m putting in eff",
+        "id": 2282674,
+        "language": null,
+        "link": "https://www.reddit.com/r/developer/comments/1j7d9le/web_app_to_manage_expenses_seeking_feedback_hints",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Web app to manage expenses - Seeking feedback, hints and help!",
+        "vote": 0
+    }
+]
