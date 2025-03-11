@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-10T14:55:24+00:00",
+        "description": "With Linux starting to be widely used in Automotive and Industrial, an increased number of PCIe RC (host) drivers are being added to the Linux Kernel. Linux provides a comprehensive PCI subsystem to be used by both the RC drivers and the PCI(e) device drivers.\n\nIn this presentation, Kishon and Vignesh will give an overview of the PCI(e) subsystem using the knowledge acquired during the development of PCIe RC driver for DRA7xx, explaining the overall architecture of the PCI(e) subsystem and the Linux PCI(e) subsystem internals on bus scanning, address space management, power management, message signaled interrupt handling, hotplug support and device tree binding. They will also share their ideas on improving the test infrastructure for PCI(e) in Linux Kernel.",
+        "id": 2288590,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=3ic61kJNEQ0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3ic61kJNEQ0/hqdefault.jpg",
+        "title": "Overview of PCI(e) Subsystem - Kishon Vijay Abraham, Texas Instruments",
+        "vote": 0
+    }
+]

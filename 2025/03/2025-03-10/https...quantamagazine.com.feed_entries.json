@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-10T13:35:37+00:00",
+        "description": "Larger models can pull off greater feats, but the accessibility and efficiency of smaller models make them attractive tools.            <p>The post <a href=\"https://www.quantamagazine.org/why-do-researchers-care-about-small-language-models-20250310/\" target=\"_blank\">Why Do Researchers Care About Small Language Models?</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2287840,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/why-do-researchers-care-about-small-language-models-20250310",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/03/Small-Models-Explainer_crCelsius-Pictor-Default.webp",
+        "title": "Why Do Researchers Care About Small Language Models?",
+        "vote": 0
+    }
+]

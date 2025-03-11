@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-10T13:57:57+00:00",
+        "description": "The OCC reversed a decision made in 2021 and said it was withdrawing from joint statements on crypto risks issued to banks.",
+        "id": 2287898,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/business/us-regulator-says-banks-can-engage-in-some-cryptocurrency-activities-5822829",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2024/11/26/id5766442-GettyImages-806924788-LSedit-1080x720.jpg",
+        "title": "US Regulator Says Banks Can Engage in Some Cryptocurrency Activities",
+        "vote": 0
+    }
+]

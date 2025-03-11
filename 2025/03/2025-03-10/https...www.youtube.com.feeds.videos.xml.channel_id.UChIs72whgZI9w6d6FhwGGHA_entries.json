@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-10T04:06:59+00:00",
+        "description": "We sponsored ourselves: Grab a GN Modmat, solder mat, dice kit, or shirt on the store! https://store.gamersnexus.net/\nThis video delves into the topic of \"Fake MSRPs,\" or more specifically, we look at the of AMD's RX 9070 XT and RX 9070 GPUs after doing the same for NVIDIA, then compare that price against advertised baseline MSRP. This includes some inventory level analysis to determine if the launch was a \"paper launch\" (it wasn't), some discussion over whether this is \"normal\" to have this much markup for partner models (it wasn't, but is becoming a new normal), and covers the pricing and availability situation of AMD's RX 9070 XT and non-XT GPUs. We did the same thing for NVIDIA, and so in this piece, we combine some learnings from both launches to better understand the full picture of the modern GPU market.\n\nAMD, Don't Screw This Up: https://www.youtube.com/watch?v=ekKQyrgkd3c\nWatch our Fake Prices, Fake Frames video: https://www.youtube.com/watch?v=8s4hxa2TjWY\nWatch our Paper La",
+        "id": 2285196,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=SPE95_RnL_Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SPE95_RnL_Q/hqdefault.jpg",
+        "title": "Fake MSRP",
+        "vote": 0
+    }
+]

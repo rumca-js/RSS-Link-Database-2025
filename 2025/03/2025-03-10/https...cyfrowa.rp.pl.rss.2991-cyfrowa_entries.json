@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-10T21:01:34+00:00",
+        "description": "Inteligentne zegarki nie s\u0105 ju\u017c szczeg\u00f3lnie now\u0105 kategori\u0105 urz\u0105dze\u0144 mobilnych, ale ich adopcja do tej pory nie by\u0142a nad Wis\u0142\u0105 spektakularnie dynamiczna. Ale to si\u0119 zmienia.",
+        "id": 2291112,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/gadzety/art41906381-wiadomo-juz-ilu-polakow-ma-smartwatcha-lub-smart-opaske-to-przyszlosc-medycyny",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wiadomo ju\u017c, ilu Polak\u00f3w ma smartwatcha lub \u201esmart\u201d opask\u0119. To przysz\u0142o\u015b\u0107 medycyny",
+        "vote": 0
+    }
+]

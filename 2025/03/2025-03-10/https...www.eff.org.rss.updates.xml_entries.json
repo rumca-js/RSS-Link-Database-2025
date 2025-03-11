@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-10T10:08:18+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>Last month saw digital rights organizations and social justice groups head to Taiwan for this year's </span><a href=\"https://www.eff.org/deeplinks/2025/02/eff-rightscon-2025\"><span>RightsCon conference</span></a><span> on human rights in the digital age. During the conference, one prominent message was spoken loud and clear: Alaa Abd El-Fattah must be immediately released from illegal detention in Egypt.</span></p>\n<p class=\"pull-quote\"><span>\"As Alaa\u2019s mother, I thank you for your solidarity and ask you to not to give up until Alaa is out of prison.\"</span></p>\n<p><span>During the RightsCon <a href=\"https://rightscon.summit.tc/t/rightscon-2025/events/opening-ceremony-online-replay-62JxnMs8zFdFkKaor4kPdF\">opening ceremony</a>, Access Now\u2019s Executive Director, Alejandro Mayoral Ba\u00f1os, affirmed the urgency of Alaa\u2019s situation in detentio",
+        "id": 2286543,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/03/rightscon-community-calls-urgent-release-alaa-abd-el-fattah",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "RightsCon Community Calls for Urgent Release of Alaa Abd El-Fattah",
+        "vote": 0
+    }
+]

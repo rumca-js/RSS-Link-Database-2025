@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-10T20:00:17+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/ZnE02lMpPO8\" width=\"480\" alt=\"thumbnail\" title=\"You're Doing Everything Wrong With URLs\" /></p>URLs are something you interact with every single day but have you ever considered how best to structure a URL, what should and shouldn't be included.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Article: https://vale.rocks/posts/strong-opinions-on-url-design<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord<br />\ud83d\udc26 Twitter: https://brodierobertson.xyz/t",
+        "id": 2291513,
+        "language": "en",
+        "link": "https://odysee.com/you%27re-doing-everything-wrong-with-urls:541ed3fe301534fcc2e6e5f332c02de9119f83f5",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "You're Doing Everything Wrong With URLs",
+        "vote": 0
+    }
+]

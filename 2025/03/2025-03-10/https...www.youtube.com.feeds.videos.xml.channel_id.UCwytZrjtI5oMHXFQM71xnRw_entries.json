@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AugustTheDuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-10T22:00:14+00:00",
+        "description": "Hiratsuuu, a TikTok chef who puts out the most diabolical recipes of all time. Buckle up.\n\nprevious video: https://www.youtube.com/watch?v=Mwz6UAm9jDA\nfollow me on instagram!: https://www.instagram.com/oohgust/\nfollow me on twitter!: https://twitter.com/oohgust\nmy gaming channel: https://www.youtube.com/@ducktheaugust\nsubscribe: https://www.youtube.com/user/augusttheduck/?sub_confirmation=1\n\noutro song creds: \nhttps://www.youtube.com/@prodgoostavo\nhttps://www.youtube.com/@dadood3652",
+        "id": 2291938,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=J2oN95BwvwU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 581,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwytZrjtI5oMHXFQM71xnRw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/J2oN95BwvwU/hqdefault.jpg",
+        "title": "These TikTok Recipes Will Kill You",
+        "vote": 0
+    }
+]

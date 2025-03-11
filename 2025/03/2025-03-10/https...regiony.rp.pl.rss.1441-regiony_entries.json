@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-10T17:53:08+00:00",
+        "description": "Du\u017ce miasta szykuj\u0105 si\u0119 do kolejnego rozwojowego skoku w\u00a02025 r. Pod warunkiem dost\u0119pno\u015bci funduszy unijnych.",
+        "id": 2289590,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/inwestycje/art41905231-boom-czy-zastoj-czy-do-inwestycyjnego-przyspieszenia-rzadu-dolacza-samorzady",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Boom czy zast\u00f3j. Czy do inwestycyjnego przyspieszenia rz\u0105du do\u0142\u0105cz\u0105 samorz\u0105dy?",
+        "vote": 0
+    }
+]

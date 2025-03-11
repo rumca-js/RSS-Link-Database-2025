@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-10T19:36:51+00:00",
+        "description": "To nie by\u0142a prosta droga do domu. Specjalnie. Odwiedzili\u015bmy W\u0142ochy, S\u0142oweni\u0119, W\u0119gry i S\u0142owacj\u0119, \u017ceby sprawdzi\u0107 czy da si\u0119 tam \u0142adowa\u0107 elektryki. \n\nCichaczem te\u017c wypu\u015bcili\u015bmy now\u0105 kolekcj\u0119 ciuch\u00f3w, kt\u00f3re znajdziecie na https://znosne.pl",
+        "id": 2290813,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=r14KJkqUSzI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/r14KJkqUSzI/hqdefault.jpg",
+        "title": "Powr\u00f3t Tesl\u0105 z Barcelony do Polski",
+        "vote": 0
+    }
+]

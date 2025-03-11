@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "hankschannel",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-10T00:40:17.958086+00:00",
+        "description": null,
+        "id": 2284274,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOT2iLov0V7Re7ku_3UBtcQ",
+        "manual_status_code": 0,
+        "page_rating": 25,
+        "page_rating_contents": 80,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 507,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOT2iLov0V7Re7ku_3UBtcQ",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "hankschannel",
+        "vote": 0
+    }
+]

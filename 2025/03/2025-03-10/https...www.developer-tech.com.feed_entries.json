@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-10T14:16:54+00:00",
+        "description": "<p>Limor &#8216;Ladyada&#8217; Fried, an American electrical engineer and owner of Adafruit, recently showcased the capabilities of AI model Claude to fully automate Arduino development. As explained in a video, the core idea is to give Claude \u2013 an advanced AI model by Anthropic \u2013 access to a computer connected to an Arduino board. This setup<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/ai-model-claude-fully-automates-arduino-development-in-demo/\" title=\"ReadAI model Claude fully automates Arduino development in demo\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/ai-model-claude-fully-automates-arduino-development-in-demo/\">AI model Claude fully automates Arduino development in demo</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2287854,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/ai-model-claude-fully-automates-arduino-development-in-demo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AI model Claude fully automates Arduino development in demo",
+        "vote": 0
+    }
+]

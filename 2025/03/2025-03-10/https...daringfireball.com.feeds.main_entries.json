@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-10T22:26:56+00:00",
+        "description": "<p>Upgrade:</p>\n\n<blockquote>\n  <p>It\u2019s been a quiet week, so John Gruber briefly joins Jason to\ndiscuss Apple\u2019s AI delay, new Macs, new iPads, and the future of\nApple regulation worldwide.</p>\n</blockquote>\n\n<p>Recorded earlier today, so it covers, somehow, all of last week\u2019s Apple news\u2009\u2014\u2009and last week was a kind of crazy week in Appletown. I even squeezed in some parenting advice for Myke Hurley, who\u2019s out on paternity leave.</p>\n\n<div>\n<a  title=\"Permanent link to \u2018Yours Truly Guesting on \u2018Upgrade\u2019 With Jason Snell\u2019\"  href=\"https://daringfireball.net/linked/2025/03/10/yours-truly-guesting-on-upgrade-with-jason-snell\">&nbsp;\u2605&nbsp;</a>\n</div>",
+        "id": 2291863,
+        "language": null,
+        "link": "https://www.relay.fm/upgrade/554",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Yours Truly Guesting on \u2018Upgrade\u2019 With Jason Snell",
+        "vote": 0
+    }
+]
