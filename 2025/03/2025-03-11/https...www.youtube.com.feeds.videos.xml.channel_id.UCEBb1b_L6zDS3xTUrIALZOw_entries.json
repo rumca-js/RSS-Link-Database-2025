@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "MIT OpenCourseWare",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-11T13:31:06+00:00",
+        "description": "MIT OpenCourseWare, the Massachusetts OER Advisory Council, and Open Education Global announce that they will co-host the 2026 OE Global Conference in Cambridge, Massachusetts, from September 30 to October 2.\n \nSpeakers: Shiba Nemat-Nasser, Sharon Lin, Yvonne Ng, Robert J. Awkward, Amy Brand, Chris Bourg, Michel Anne-Frederic DeGraff, Hal Abelson, Sally Kornbluth, Gil Strang\n \nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n \nWe encourage constructive comments and discussion on OCW\u2019s YouTube and other social media channels. Personal attacks, hate speech, trolling, and inappropriate comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments.",
+        "id": 2296813,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=HJmYjHL_Cc0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 437,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEBb1b_L6zDS3xTUrIALZOw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HJmYjHL_Cc0/hqdefault.jpg",
+        "title": "2026 OE Global Conference Save the Date Announcement",
+        "vote": 0
+    }
+]

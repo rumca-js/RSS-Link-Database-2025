@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-11T13:58:13+00:00",
+        "description": "<p>Zanotujcie sobie t\u0119 dat\u0119 w kalendarzu. 8 kwietnia br. ruszamy z drug\u0105 edycj\u0105 Websecurity Master od sekuraka \u2013 najbardziej kompletnego kursu o bezpiecze\u0144stwie aplikacji webowych w Polsce! Pierwsza edycja z 2024 r. przyci\u0105gn\u0119\u0142a ponad 200 os\u00f3b i zosta\u0142a oceniona przez uczestnik\u00f3w na 4,9/5. Teraz wracamy z jeszcze lepszym kontentem: ataki,...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/websecurity-master-od-sekuraka-rusza-druga-edycja-topowego-szkolenia-z-bezpieczenstwa-aplikacji-webowych-sprawdz-nas-i-zapisz-sie-na-bezplatna-sesje-szkolenia/\">Websecurity Master od sekuraka \u2013 rusza druga edycja topowego szkolenia z bezpiecze\u0144stwa aplikacji webowych. Sprawd\u017a nas i zapisz si\u0119 na bezp\u0142atn\u0105 sesj\u0119 szkolenia!</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2296741,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/websecurity-master-od-sekuraka-rusza-druga-edycja-topowego-szkolenia-z-bezpieczenstwa-aplikacji-webowych-sprawdz-nas-i-zapisz-sie-na-bezplatna-sesje-szkolenia",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Websecurity Master od sekuraka \u2013 rusza druga edycja topowego szkolenia z bezpiecze\u0144stwa aplikacji webowych. Sprawd\u017a nas i zapisz si\u0119 na bezp\u0142atn\u0105 sesj\u0119 szkolenia!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-11T19:38:28+00:00",
+        "description": "The UN human rights office has verified the killing of 111 civilians in the coastal region, but says the actual figure is far higher.",
+        "id": 2299703,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cedlx65988qo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/085f/live/8c0c10a0-fea3-11ef-a8b1-950887ddc6e5.jpg",
+        "title": "Whole families killed in recent Syria violence, says UN",
+        "vote": 0
+    }
+]

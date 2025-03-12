@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-11T00:19:26.136637+00:00",
+        "description": null,
+        "id": 2292273,
+        "language": "en",
+        "link": "https://www.reddit.com/r/GameMods/.rss",
+        "manual_status_code": 0,
+        "page_rating": 25,
+        "page_rating_contents": 80,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 533,
+        "source_url": "https://www.reddit.com/r/GameMods/.rss",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Game Mods - Video Game Modifications",
+        "vote": 0
+    }
+]

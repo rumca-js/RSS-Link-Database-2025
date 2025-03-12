@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-11T17:00:05+00:00",
+        "description": "JRE #2287 w/Josh Dubin and JD Tomlinson\nYouTube: https://youtu.be/Mx8813RLUtc\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 2298389,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7i97oMUkHVY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7i97oMUkHVY/hqdefault.jpg",
+        "title": "JD Tomlinson Says He Was Charged with Felonies After Exonerating 2 Innocent People",
+        "vote": 0
+    }
+]

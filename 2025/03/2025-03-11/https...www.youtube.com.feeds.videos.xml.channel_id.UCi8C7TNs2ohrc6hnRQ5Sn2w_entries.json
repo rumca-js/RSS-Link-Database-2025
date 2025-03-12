@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Programmers are also human",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-11T15:00:06+00:00",
+        "description": "Hiring in 2025\n\nHow to get a tech job in 2025 interview with Kai Lentit and various - aired on \u00a9 The Tech Job.\n\nSWE\nsoftware engineeers\ntech job market\nTech jobs \nBig tech layoffs\nbig tech hiring\nStartup tech job interview\nbig tech job interview\ncracking the code interview\njavascript\nFull stack job requirements\n\n\n#techjobs \n#startup\n#softwareengineer",
+        "id": 2297148,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=4R4uTrA1vQ8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 264,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi8C7TNs2ohrc6hnRQ5Sn2w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4R4uTrA1vQ8/hqdefault.jpg",
+        "title": "Hiring in 2025 vs 2021",
+        "vote": 0
+    }
+]

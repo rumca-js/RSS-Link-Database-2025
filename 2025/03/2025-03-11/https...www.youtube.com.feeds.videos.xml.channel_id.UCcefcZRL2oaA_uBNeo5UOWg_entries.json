@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-11T14:00:07+00:00",
+        "description": "Apply to AI Startup School in SF: https://events.ycombinator.com/ai-sus \n\nGPT-4.5 is here, and it has major big model energy. OpenAI's largest model to date, it excels at natural conversation, creative tasks and complex planning. YC General Partner Tom Blomfield breaks down why 4.5 matters, how it fits into the broader trajectory of AI development, and what founders need to know.",
+        "id": 2296858,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=5uBAQrg4SoQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5uBAQrg4SoQ/hqdefault.jpg",
+        "title": "GPT-4.5 = Big Model Energy | YC Decoded",
+        "vote": 0
+    }
+]

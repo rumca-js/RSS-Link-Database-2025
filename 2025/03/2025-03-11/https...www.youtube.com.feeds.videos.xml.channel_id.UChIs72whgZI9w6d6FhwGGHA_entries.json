@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-11T13:00:38+00:00",
+        "description": "Sponsor: Montech HyperFlow 360 Cooler on Amazon https://geni.us/dWBIbF6\nAMD's Ryzen 9 9950X3D CPU launches on March 12, 2025 with an MSRP of $700, accompanied by the 9900X3D at $600 MSRP. We're reviewing and benchmarking the AMD 9950X3D CPU vs. alternatives, like the 9800X3D, Intel 285K (lol), 14900K, and base 9950X. Testing includes benchmarks in gaming and production, such as file compression, decompression, Blender CPU rendering, Adobe Premiere, and more. We also look briefly at power consumption and efficiency of the 9950X3D Zen 5 CPU for AM5 boards. Our team has prepared a number of videos to go up over the next few weeks, but we're taking a production break now that we're through all the major component reviews for the past few weeks, so we'll likely skip the 9900X3D review (but may add it to charts at some point).\n\nWatch our 9800X3D review for more of the basics of these CPUs: https://www.youtube.com/watch?v=s-lFgbzU3LY\nAnd our original 9800X3D coverage for more of the archite",
+        "id": 2296304,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=QhGsQvDaEPo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QhGsQvDaEPo/hqdefault.jpg",
+        "title": "AMD Ryzen 9 9950X3D CPU Review & Benchmarks vs. 9800X3D, 285K, 9950X, & More",
+        "vote": 0
+    }
+]

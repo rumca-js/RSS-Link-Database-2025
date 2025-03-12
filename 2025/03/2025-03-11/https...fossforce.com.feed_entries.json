@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-11T12:00:10+00:00",
+        "description": "<p><em>In this, the first of a two part interview, the Free Software Foundation's executive director Zo\u00eb Kooyman talks about changes at FSF since Richard Stallman stepped down as president about six years ago, the difference between \"free software\" and \"open source,\" and the issues that AI brings to the table for freedom-loving tech users.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/03/zoe-kooyman-on-post-stallman-changes-at-the-free-software-foundation/\">Zo\u00eb Kooyman on Post-Stallman Changes at the Free Software Foundation</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 2295730,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/03/zoe-kooyman-on-post-stallman-changes-at-the-free-software-foundation",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Zo\u00eb Kooyman on Post-Stallman Changes at the Free Software Foundation",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-11T16:18:55+00:00",
+        "description": "Prosecutors say the Argentine legend's death could have been avoided and accuse hospital staff of negligence.",
+        "id": 2297756,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cx2eg09e14do",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cf5/live/38fbe830-fe95-11ef-b95e-dd2955f18f8f.jpg",
+        "title": "Maradona medical team on trial for football icon's death",
+        "vote": 0
+    }
+]

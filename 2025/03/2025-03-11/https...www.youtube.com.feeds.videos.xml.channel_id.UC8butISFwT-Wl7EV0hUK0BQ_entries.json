@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-11T15:57:40+00:00",
+        "description": "Learn about DeepSeek R1's innovative AI architecture from @deeplearningexplained.  The course explores how R1 achieves exceptional reasoning through reinforcement learning, focusing on Group Relative Policy Optimization (GRPO) and how it improves upon traditional PPO methods. You'll also understand KL divergence's role in model stability, with practical code examples and clear mathematical explanations.\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp\n\nContents\n\u2328\ufe0f (0:00:00) Introduction\n\u2328\ufe0f (0:01:49) R1 Overview - Overview\n\u2328\ufe0f (0:03:52) R1 Overview - DeepSeek R1-zero path\n\u2328\ufe0f (0:05:32) R1 Overview - Reinforcement learning setup\n\u2328\ufe0f (0:08:36) R1 Overview - Group Relative Policy Optimization (GRPO)\n\u2328\ufe0f (0:13:04) R1 Overview - DeepSeek R1-zero result\n\u2328\ufe0f (0:16:53) R1 Overview - Cold start supervised fine-tuning\n\u2328\ufe0f (0:17:44) R1 Overview - Consistency reward for CoT\n\u2328\ufe0f (0:18:35) R1 Overv",
+        "id": 2297698,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=K34gBCjzni8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/K34gBCjzni8/hqdefault.jpg",
+        "title": "DeepSeek R1 Theory Tutorial \u2013 Architecture, GRPO, KL Divergence",
+        "vote": 0
+    }
+]

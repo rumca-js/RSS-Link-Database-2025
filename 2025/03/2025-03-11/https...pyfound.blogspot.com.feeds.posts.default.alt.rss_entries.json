@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-11T15:53:00+00:00",
+        "description": "<p>Van Lindberg, a longtime member of the PSF Board, has been recognized with the PSF\u2019s Distinguished Service Award. Van was the co-chair and then Chair of PyCon from 2008-2012, served on the PSF Board for over a decade (2012\u20132023), including four years as Chair (2012\u20132016) and seven years as PSF General Counsel from 2016-2023. Throughout his time with us, Van was our go-to expert for all things legal, bringing invaluable insights from the broader open-source world to help the PSF grow and stay ahead of the curve. During his time on the board, Van was instrumental in establishing the PSF as a professional organization able to support the worldwide Python community.</p><p>The PSF\u2019s Distinguished Service Award (<a href=\"https://www.python.org/community/awards/psf-distinguished-awards/\" target=\"_blank\">DSA</a>) is granted to individuals who make sustained exemplary contributions to the Python community. Each award is voted on by the PSF Board and they are looking for people whose impact",
+        "id": 2297752,
+        "language": null,
+        "link": "https://pyfound.blogspot.com/2025/03/dsa-van-lindberg.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PSF Distinguished Service Award Granted to Van Lindberg",
+        "vote": 0
+    }
+]
