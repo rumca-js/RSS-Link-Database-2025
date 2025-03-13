@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-12T07:30:16+00:00",
+        "description": "Fragment materia\u0142u o relacji z ogrania najnowszego dema (z lutowego Steam Next Festu) Gothica Remake. Uwierzcie mi - jest lepiej ni\u017c w wersji z listopada 2024.\n\nProwadzenie i scenariusz: Krzysztof \u201eBastian\u201d Freudenberger (http://twitter.com/BastianCDA)\n\nMonta\u017c: Kacper Grela",
+        "id": 2302984,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=rOlaA5ueTeQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rOlaA5ueTeQ/hqdefault.jpg",
+        "title": "Poprawili walk\u0119 w najnowszym demie Gothic Remake",
+        "vote": 0
+    }
+]

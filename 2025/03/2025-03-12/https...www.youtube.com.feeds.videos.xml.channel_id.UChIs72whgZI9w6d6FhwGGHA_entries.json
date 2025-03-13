@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-12T20:42:02+00:00",
+        "description": "Sponsor: Montech HyperFlow 360 Cooler on Amazon https://geni.us/dWBIbF6\nNVIDIA killed 32-bit CUDA support on the 50-series, including PhysX 32-bit on the RTX 5090, 5080, 5070 Ti, and everything else on the 50 series. This means that we get to dust off the GTX 580 and GTX 980 and pit them vs. the RTX 5080 in Mirror's Edge, Mafia II, Borderlands, Batman, and Metro in what feels like the ultimate throwback to about 15 years ago. Although this may feel like an isolated issue for a small list of old games, we think it speaks to a potentially broader concern of intercompatibility and vendor lock-in. We also get an opportunity for a PhysX and physics GPU history lesson.\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\nGrab a PC building Modmat! https://store.gamersnexus.net/products/large-modmat-gn15-anniversary\nAnd check out or high heat resistant silicone project and soldering mat! https://store.gamersnexus.net/products/gn-project-soldering-mat\nOr gra",
+        "id": 2308088,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=h4w_aObRzCc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/h4w_aObRzCc/hqdefault.jpg",
+        "title": "NVIDIA Giveth, NVIDIA Taketh Away | RIP PhysX 32-bit (GTX 580 vs. RTX 5080)",
+        "vote": 0
+    }
+]

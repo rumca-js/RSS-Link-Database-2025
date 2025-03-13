@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-12T10:12:58+00:00",
+        "description": "<p>OpenAI has announced a suite of new APIs and tools designed to streamline the creation of AI agents, addressing the challenges faced by software developers in building production-ready applications. According to OpenAI, \u201cwe\u2019re releasing the first set of building blocks that will help developers and enterprises build useful and reliable agents.\u201d These agents are defined<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/openai-launches-tools-build-ai-agents-faster/\" title=\"ReadOpenAI launches tools to build AI agents faster\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/openai-launches-tools-build-ai-agents-faster/\">OpenAI launches tools to build AI agents faster</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2305377,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/openai-launches-tools-build-ai-agents-faster",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "OpenAI launches tools to build AI agents faster",
+        "vote": 0
+    }
+]

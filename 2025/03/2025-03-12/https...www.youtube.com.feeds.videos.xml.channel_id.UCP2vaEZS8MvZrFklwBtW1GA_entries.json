@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Home Repair Tutor",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-12T10:18:51+00:00",
+        "description": "A veces hay tuber\u00edas grandes dentro de las paredes de la ducha. Una excelente forma de aislar es con Rockwool. Tallo una secci\u00f3n para la tuber\u00eda. Coloco el aislamiento extra detr\u00e1s de la tuber\u00eda. Luego a\u00f1ado la Rockwool en el interior de la pared y la igualo con los montantes.",
+        "id": 2303722,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=qE2yYI3hFII",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 144,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP2vaEZS8MvZrFklwBtW1GA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qE2yYI3hFII/hqdefault.jpg",
+        "title": "Consejos para aislar paredes - #shorts #consejos #homerepairtutor",
+        "vote": 0
+    }
+]

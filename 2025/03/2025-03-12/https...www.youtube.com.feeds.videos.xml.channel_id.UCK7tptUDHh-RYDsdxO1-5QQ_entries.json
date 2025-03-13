@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-12T14:00:14+00:00",
+        "description": "Los Angeles International Airport, one of the world\u2019s busiest, served over 76 million passengers in 2024. But its design causes notorious traffic bottlenecks. Now, with $30 billion in upgrades underway, will LAX\u2019s modernization solve its congestion problem\u2014especially with major events like the 2028 Olympics on the horizon?\n\nWSJ spoke with an airport transit expert, who explains what it would take to fix LAX. \n\nChapters:\n0:00 LAX\u2019s problem\n0:51 Design and bottlenecks\n2:27 Move people efficiently around the horseshoe\n3:15 Remove cars from the horseshoe \n4:44 Airside capacity \n\nPro Perfected\nExperts in engineering and design break down a ubiquitous problem, examining how the world is built and what can make it better.\n\n#LAX #Airport #WSJ",
+        "id": 2303574,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=8ykQAAxaAGw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/8ykQAAxaAGw/hqdefault.jpg",
+        "title": "Why LAX\u2019s Horseshoe Shape Is the Airport\u2019s Worst Feature | WSJ Pro Perfected",
+        "vote": 0
+    }
+]

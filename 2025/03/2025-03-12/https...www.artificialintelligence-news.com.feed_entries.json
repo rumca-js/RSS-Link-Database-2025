@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-12T09:08:41+00:00",
+        "description": "<p>Google has launched Gemma 3, the latest version of its family of open AI models that aim to set a new benchmark for AI accessibility. Built upon the foundations of the company\u2019s Gemini 2.0 models, Gemma 3 is engineered to be lightweight, portable, and adaptable\u2014enabling developers to create AI applications across a wide range of [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/gemma-3-google-launches-its-latest-open-ai-models/\">Gemma 3: Google launches its latest open AI models</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 2303920,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/gemma-3-google-launches-its-latest-open-ai-models",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Gemma 3: Google launches its latest open AI models",
+        "vote": 0
+    }
+]

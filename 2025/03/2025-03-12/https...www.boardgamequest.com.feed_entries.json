@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-12T11:04:35+00:00",
+        "description": "<img width=\"640\" height=\"638\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/03/Quoridor-Pac-Man-1024x1020.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Quoridor Pac-Man\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/03/Quoridor-Pac-Man-1024x1020.jpg 1024w, https://www.boardgamequest.com/wp-content/uploads/2025/03/Quoridor-Pac-Man-300x300.jpg 300w, https://www.boardgamequest.com/wp-content/uploads/2025/03/Quoridor-Pac-Man-150x150.jpg 150w, https://www.boardgamequest.com/wp-content/uploads/2025/03/Quoridor-Pac-Man-768x765.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/03/Quoridor-Pac-Man-1536x1531.jpg 1536w, https://www.boardgamequest.com/wp-content/uploads/2025/03/Quoridor-Pac-Man-640x638.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/03/Quoridor-Pac-Man-1280x1276.jpg 1280w, https://w",
+        "id": 2303371,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/quoridor-pac-man-review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Quoridor Pac-Man Review",
+        "vote": 0
+    }
+]

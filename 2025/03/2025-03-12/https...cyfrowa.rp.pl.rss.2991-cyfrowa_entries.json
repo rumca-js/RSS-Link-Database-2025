@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-12T15:07:00+00:00",
+        "description": "Rosyjskie s\u0142u\u017cby bezpiecze\u0144stwa maj\u0105 nie lada problem \u2013 zmagaj\u0105 si\u0119 z niedoborem sprz\u0119tu do hakowania smartfon\u00f3w. Ta technologia jest im niezb\u0119dna w prowadzonych \u015bledztwach, ale firmy, kt\u00f3re j\u0105 dostarcza\u0142y, wycofa\u0142y si\u0119 z Rosji.",
+        "id": 2305278,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/it/art41914371-problemy-z-inwigilacja-w-rosji-niespodziewany-efekt-sankcji",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Problemy z inwigilacj\u0105 w Rosji. Niespodziewany efekt sankcji",
+        "vote": 0
+    }
+]

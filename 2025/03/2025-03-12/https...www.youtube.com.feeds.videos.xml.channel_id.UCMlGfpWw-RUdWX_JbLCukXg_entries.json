@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-12T15:07:05+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nC++ Sender Patterns to Wrangle C++ Concurrency in Embedded Devices - Michael Caisse - CppCon 2024\n---\n\nSmall embedded devices might only have one processing core but hardware accelerators, peripherals, and external events abound. Asynchronous event handling is the bread and butter of these systems; however, the lack of robust libraries in the bare-metal arena often result in a concurrency nightmare.\n\nAfter a short sender/receiver primer, we will explore some patterns and idioms that have proven useful when employing the design in a high availability, complex embedded device. We will use Intel's open source bare-metal senders and receivers library (https://github.com/intel/cpp-baremetal-senders-and-receivers) as well as other open source packages to build elegant, declarative solutions around interrupt handling, schedulers, devices drivers, and communication protocols. The patterns will be demonstrated on an STM32 target controlling a simple robot.\n\nWhile this",
+        "id": 2304935,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=a2gLF9Supic",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/a2gLF9Supic/hqdefault.jpg",
+        "title": "C++ Sender Patterns to Wrangle C++ Concurrency in Embedded Devices - Michael Caisse - CppCon 2024",
+        "vote": 0
+    }
+]

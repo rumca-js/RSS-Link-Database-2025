@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-12T18:06:03+00:00",
+        "description": "Learn JavaScript essentials with this course that covers everything from object-oriented programming fundamentals to advanced asynchronous techniques. \n\nCourse from Steven Garcia.\n\nThe GitHub repository for the finished files: https://github.com/stevenGarciaDev/JavaScript-Pro-Finished-Course\nThe GitHub repository for the starter files: https://github.com/stevenGarciaDev/JavaScript-Pro-Starter-Files\n\n\u2764\ufe0f Try interactive JavaScript courses we love, right in your browser: https://scrimba.com/freeCodeCamp-JavaScript (Made possible by a grant from our friends at Scrimba)\n\nContents\nSections 1: Intro to Advanced Topics (17 minutes)\n0:00:00 Intro\n0:02:18 Why this course works for you?\n0:06:25 Course Materials\n0:12:06 Setting up the Development Environment\n0:17:36 Social Media\n\nSection 2: Objects (1 hour 22 minutes)\n0:18:06 What is OOP?\n0:20:06 Four Pillars of OOP\n0:27:11 Object Literals\n0:31:12 Factories\n0:35:12 Constructors\n0:39:44 Constructor Property\n0:40:45 Functions are Objects\n0:44:49 V",
+        "id": 2306842,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=876aSEUA_8c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/876aSEUA_8c/hqdefault.jpg",
+        "title": "JavaScript Essentials Course",
+        "vote": 0
+    }
+]

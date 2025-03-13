@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-12T08:13:00+00:00",
+        "description": "The more common, easier to execute sort: Instructions to remind people who already know what to do, what to do. The more essential and harder to create kind: Instructions for people who don&#8217;t know what to do. It&#8217;s a mistake to assume that just because you know all the steps, the person you&#8217;re writing for [&#8230;]",
+        "id": 2303916,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/03/two-kinds-of-instructions",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Two kinds of instructions",
+        "vote": 0
+    }
+]

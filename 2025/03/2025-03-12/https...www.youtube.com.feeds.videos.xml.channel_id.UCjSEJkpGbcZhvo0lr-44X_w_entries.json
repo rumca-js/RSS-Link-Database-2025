@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-12T14:01:10+00:00",
+        "description": "Big thanks to my VPN alternative Twingate for sponsoring this video! Checkout the Zero Trust Network Access solution here:  https://bit.ly/twingateq125\n\nVPN I USE (for downloadz): https://airvpn.org/?referred_by=673908\n\n\ud83d\udcd6 RESOURCES\nFULL Article: https://techhut.tv/must-have-home-server-services-2025/\nHomelab Repo: https://github.com/TechHutTV/homelab\n\n\ud83d\udcd6 Related Videos\nhttps://youtu.be/79e6KBYcVmQ\nhttps://www.youtube.com/watch?v=QGONe-NTWuI\nhttps://youtu.be/TDWombBvK8c\nhttps://www.youtube.com/watch?v=olUD_F37n0E\nhttps://www.youtube.com/watch?v=eJvQKLVrmU8\nhttps://www.youtube.com/watch?v=Uzqf0qlcQlo\nhttps://www.youtube.com/watch?v=_tz2wUFT8VQ\nhttps://www.youtube.com/watch?v=s1ufPvO0BVE\nhttps://www.youtube.com/watch?v=xtMFcVx3cHU\nhttps://youtu.be/79e6KBYcVmQ?si=1h1daKy-0fZeiBtI\nhttps://www.youtube.com/watch?v=vffhtqK3ZUg\n\n\ud83c\udfc6 FOLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nbluesky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: ",
+        "id": 2305626,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=yUyxJr2xboI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yUyxJr2xboI/hqdefault.jpg",
+        "title": "What's on my Home Server?? MUST HAVE Services!",
+        "vote": 0
+    }
+]

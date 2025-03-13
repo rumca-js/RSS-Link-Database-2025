@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-12T11:00:12+00:00",
+        "description": "Ready to become a certified Associate Generative AI Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdGtm4\n\nLearn more about Trustworthy AI here \u2192 https://ibm.biz/BdGtmr\n\nWhat if your AI starts cursing like a sailor after deployment? \ud83e\udd14 Learn 3 methods to ensure trustworthy AI, prevent model drift, and flag issues like bias or profanity. \ud83d\ude80 Discover how to validate outputs, monitor for drift, and use filters to keep your AI reliable in production environments. \ud83d\udcbb\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdGtms\n\n#ai #machinelearning #aiproduction",
+        "id": 2305619,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=4gC3oueK9Gc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4gC3oueK9Gc/hqdefault.jpg",
+        "title": "Building Trustworthy AI: Avoid Model Drift and Unsafe Outputs",
+        "vote": 0
+    }
+]

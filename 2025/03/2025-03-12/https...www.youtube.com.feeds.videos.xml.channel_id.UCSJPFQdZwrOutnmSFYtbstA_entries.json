@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-12T18:00:19+00:00",
+        "description": "Disney are so scared of Rachel Zegler saying something dumb and further damaging their movie, they've literally cancelled Snow White's premiere. No red carpet event, no reporters, no interviews.",
+        "id": 2306549,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=RbW8pOO7eYg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RbW8pOO7eYg/hqdefault.jpg",
+        "title": "Disney Cancel Snow White's Premiere - It's Panic Time",
+        "vote": 0
+    }
+]
