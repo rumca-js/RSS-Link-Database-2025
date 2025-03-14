@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-13T21:23:14+00:00",
+        "description": "https://www.youtube.com/watch?v=STcKvMuYdf4\nhttps://wiki.rossmanngroup.com/wiki/DCS_sues_Small_YouTuber_for_accurate_product_review_showing_battery_issues_%26_misleading_warranty",
+        "id": 2316986,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ftc9Rmj4JzY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ftc9Rmj4JzY/hqdefault.jpg",
+        "title": "DCS loses defamation lawsuit to youtuber they sued over product review",
+        "vote": 0
+    }
+]

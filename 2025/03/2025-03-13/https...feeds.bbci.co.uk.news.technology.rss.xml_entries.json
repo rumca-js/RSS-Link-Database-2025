@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-13T06:06:12+00:00",
+        "description": "The gaming platform is wildly popular, but has been rocked by allegations it exposes children to harmful content.",
+        "id": 2310376,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/c5yrjkl7dd6o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b91d/live/7b978670-fe88-11ef-ba65-31b72da71bce.jpg",
+        "title": "Keep kids off Roblox if you're worried, its CEO tells parents",
+        "vote": 0
+    }
+]

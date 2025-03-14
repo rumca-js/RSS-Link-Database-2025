@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-13T18:44:00+00:00",
+        "description": "Uranus was the first planet found with the aid of a telescope. It was discovered on March 13, 1781, by astronomer William Herschel, although he originally thought it was either a comet or a star. Herschel tried unsuccessfully to name his discovery Georgium Sidus after King George III. Instead, the planet was named for Uranus, the Greek god of the sky, as suggested by astronomer Johann Bode.",
+        "id": 2315786,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/pia18182orig",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Uranus Discovered 244 Years Ago",
+        "vote": 0
+    }
+]

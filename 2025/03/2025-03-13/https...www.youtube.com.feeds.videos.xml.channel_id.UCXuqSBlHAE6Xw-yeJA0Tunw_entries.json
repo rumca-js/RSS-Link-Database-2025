@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-13T17:00:34+00:00",
+        "description": "Get a free 15-day trial of Odoo\u2019s all-in-one business solution and see how it can make your life easier! Check it out at https://www.odoo.com/ltt\n\nNow that Bambu Printers may be harder to recommend after their latest update, what 3D printer should Linus buy next? To find out we asked Jake and some other youtubers (Jeff Geerling, William Osman, and Camden Bowen) to show off their Prusa, Elegoo, and more different printers! \n\nDiscuss on the forum: https://linustechtips.com/topic/1605169-is-my-3d-printing-setup-wrong/\n\nWilliam\u2019s Channel: https://www.youtube.com/@WilliamOsman2\nJeff\u2019s Channel: https://www.youtube.com/@JeffGeerling\nCamden\u2019s Channel: https://www.youtube.com/@CamdenBowen\n3D Printed Props: https://youtu.be/aFXKoycw468?si=PDp5pJ3bgM7kH6nB\n3D Printer Academy Tutorials: https://www.youtube.com/watch?v=9MSQsFxArYw\nFauxHammer: https://www.youtube.com/watch?v=rpcsXHTAt0w\n\nBuy a Prusa CORE One: https://lmg.gg/DV1Z7\nBuy an ELEGOO Saturn 4 Ultra: https://lmg.gg/n6eGh\nBuy a Prusa XL: h",
+        "id": 2315243,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=RufHRlOdco0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RufHRlOdco0/hqdefault.jpg",
+        "title": "Is my 3D printing setup wrong?",
+        "vote": 0
+    }
+]

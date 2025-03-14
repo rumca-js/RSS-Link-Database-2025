@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-13T16:13:23+00:00",
+        "description": "<p>NVIDIA is showcasing a suite of advanced AI tools and technologies at this year\u2019s Game Developers Conference (GDC). The technologies showcase breakthroughs in neural rendering, NVIDIA RTX, and digital human technologies\u2014all focused on enabling game developers to achieve greater immersion and realism. Neural Shaders: Advancing photorealistic worlds At the heart of NVIDIA\u2019s efforts are RTX<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/gdc-nvidia-showcases-how-ai-transforming-gaming/\" title=\"ReadGDC: NVIDIA showcases how AI is transforming gaming\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/gdc-nvidia-showcases-how-ai-transforming-gaming/\">GDC: NVIDIA showcases how AI is transforming gaming</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2314708,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/gdc-nvidia-showcases-how-ai-transforming-gaming",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GDC: NVIDIA showcases how AI is transforming gaming",
+        "vote": 0
+    }
+]

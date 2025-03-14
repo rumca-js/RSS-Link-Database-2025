@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-13T14:00:05+00:00",
+        "description": "Y Combinator President & CEO Garry Tan sits down with Dylan Field, co-founder and CEO of Figma, to discuss the evolving world of design in the age of AI, the challenging early days of the company and how his team forever changed the way designers and engineers collaborate.\n\n0:00 Intro\n0:56 How does Dylan view AI changing design? \n5:19 Are founders still not focused enough on design?\n6:09 Evolution of models (image, codegen etc.)\n10:48 What SOTA interfaces Dylan is seeing right now \n13:24 How Figma was started\n20:53 First prototype to V1 \n23:48 Figma\u2019s first features\n28:31 Countering the initial hate for the product\n31:00 Design culture inside Figma\n33:27 What to do after 0 to 1\n35:25 What\u2019s the future of Figma?\n37:00 Outro",
+        "id": 2313123,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=4UE4e6b2qtA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4UE4e6b2qtA/hqdefault.jpg",
+        "title": "The Future Of Design With Figma's Dylan Field",
+        "vote": 0
+    }
+]

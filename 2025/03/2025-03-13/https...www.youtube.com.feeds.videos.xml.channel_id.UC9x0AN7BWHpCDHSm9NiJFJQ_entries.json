@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-13T15:50:43+00:00",
+        "description": "\ud83d\udee0\ufe0f Build your own AI Hub!! Run OpenWebUI on your own VPS with Hostinger (code networkchuck10): https://hostinger.com/networkchuckvps \n\n\nAI is getting expensive\u2026but it doesn\u2019t have to be. I found a way to access all the major AI models\u2013 ChatGPT, Claude, Gemini, even Grok \u2013 without paying for multiple expensive subscriptions. Not only do I get unlimited access to the newest models, but I can also share it with my entire team, my wife, my kids\u2013 all while keeping full control over what they can access. Better security, more privacy, and a ton of features\u2026 this might be the best way to use AI.\n\n\n\n\nRESOURCES:\n\n\ud83d\udd27 Self-host OpenWebUI (On-Prem Installation Guide): https://youtu.be/JJ_0-pAOIEk\n\ud83c\udf10 Turn OpenWebUI into a website (Domain + SSL Setup): https://youtu.be/BdH_yR_J3FQ\n\n\nTIMESTAMPS:\n\n0:00 - Intro\n1:11 - The Plan (What is OpenWebUI?)\n2:20 - The Cloud Option\n5:02 - Install OpenWebUI\n6:18 - Connecting ChatGPT API\n9:06 - How Much Does This Cost?\n13:06 - Using LiteLLM to do MORE\n\n\n\n\n\n\n\n\n\ud83d\udd25\ud83d\udd25Joi",
+        "id": 2314590,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=nQCOTzS5oU0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nQCOTzS5oU0/hqdefault.jpg",
+        "title": "Ditch your AI subscriptions\u2026host them yourself! (cheaper + unlimited access)",
+        "vote": 0
+    }
+]

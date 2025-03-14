@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-13T04:32:08+00:00",
+        "description": "IMDT has introduced its latest System-on-Module and Single-Board Computer, both powered by the Renesas RZ/V2N processor. These new platforms are designed to deliver cost-effective, high-performance AI computing at the edge, supporting applications in robotics, smart cities, industrial automation, IoT, and smart retail. The core of both the SOM and SBC is the Renesas RZ/V2N processor, [&#8230;]",
+        "id": 2310113,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/imdt-v2n-sbc-a-vision-ai-computing-platform-with-dual-mipi-csi-and-renesas-rz-v2n-processor",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "IMDT V2N SBC: A Vision-AI Computing Platform with Dual MIPI CSI and Renesas RZ/V2N Processor",
+        "vote": 0
+    }
+]

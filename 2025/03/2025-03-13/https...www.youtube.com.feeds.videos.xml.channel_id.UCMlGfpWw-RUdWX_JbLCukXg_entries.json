@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-13T15:07:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nTemplate-less Metaprogramming in C++ - Kris Jusiak - CppCon 2024\n---\n\nMeta-programming is one of the most significant C++ superpowers. It enables seemingly impossible feats, but there is a considerable cost associated with it as well. Therefore, its applications have been limited to experts and cases where the benefits greatly outweigh the maintenance burden.\n\nBut what if that doesn't have to be the case? In this talk, we will explore an alternative approach to template meta-programming that does not require an understanding of the traditional 'angle bracket' technique.\n\nWe will also make the case that anyone who can write C++ can become a meta-programming guru! But what about compilation times and/or testing/debugging, you may ask? Well, we will cover those as well, and it might be surprising what modern C++ is actually capable of!\n\nAdditionally, we will cover how the static reflection proposal and C++20 ranges can further improve the ability to write meta-f",
+        "id": 2313967,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=yriNqhv-oM0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yriNqhv-oM0/hqdefault.jpg",
+        "title": "Template-less Metaprogramming in C++ - Kris Jusiak - CppCon 2024",
+        "vote": 0
+    }
+]

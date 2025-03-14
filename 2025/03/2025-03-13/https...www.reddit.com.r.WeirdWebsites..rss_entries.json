@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-13T00:45:34.367452+00:00",
+        "description": null,
+        "id": 2309145,
+        "language": null,
+        "link": "https://www.reddit.com/r/WeirdWebsites/.rss",
+        "manual_status_code": 0,
+        "page_rating": 25,
+        "page_rating_contents": 80,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 579,
+        "source_url": "https://www.reddit.com/r/WeirdWebsites/.rss",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ever find a site with no purpose?",
+        "vote": 0
+    }
+]
