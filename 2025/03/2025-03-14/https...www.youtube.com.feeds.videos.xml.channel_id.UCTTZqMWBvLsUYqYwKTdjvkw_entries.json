@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-14T13:08:17+00:00",
+        "description": "AI mo\u017ce wpa\u015b\u0107 we w\u0142asn\u0105 pu\u0142apk\u0119 - czy czeka nas \"habsburgizacja\u201d sztucznej inteligencji?\n\n\u0179r\u00f3d\u0142a:\nhttps://www.nature.com/articles/d41586-024-02420-7\nhttps://www.nature.com/articles/s41586-024-07566-y\nhttps://pl.wikipedia.org/wiki/Karol_II_Habsburg\n\n#AI #modelcollapse #habsburgizacja #habsburgizacjaai",
+        "id": 2321254,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=qyIhNF0e9sQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qyIhNF0e9sQ/hqdefault.jpg",
+        "title": "\ud83e\udd16 Czemu AI nie powinna uczy\u0107 si\u0119 od samej siebie?",
+        "vote": 0
+    }
+]

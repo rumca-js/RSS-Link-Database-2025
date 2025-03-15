@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-14T11:44:20+00:00",
+        "description": "Senate Minority Leader Chuck Schumer is surprising a lot of Democrats with his move to vote for the Republican funding bill in order to avoid a looming government shutdown. Moderator of Meet the Press Kristen Welker joins TODAY to break down why he made this decision and the blowback from some in his own party.",
+        "id": 2322765,
+        "language": "en-US",
+        "link": "https://www.today.com/video/democrats-react-to-schumer-s-plan-to-vote-for-gop-funding-bill-234413125683",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_03/1741952654409_tdy_news_7a_welker_schumer_250314_1920x1080-f60ayg.jpg",
+        "title": "Democrats react to Schumer's plan to vote for GOP funding bill",
+        "vote": 0
+    }
+]

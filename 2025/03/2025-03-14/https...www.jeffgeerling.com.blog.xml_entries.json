@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-14T14:02:12+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Exploring WiFi 7 (at 2 Gbps) on a Raspberry Pi 5</span>\n\n            <p></p>\n\n<p>Last time I seriously dug into 6 GHz WiFi was with 6E on a <a href=\"https://www.jeffgeerling.com/blog/2023/getting-15-gbps-wifi-6e-on-raspberry-pi-cm4\">Raspberry Pi CM4 with Intel's AX210 card</a>, in 2023.</p>\n\n<p>Back then\u2014and even up until recently\u2014using WiFi 6E or WiFi 7 on a Raspberry Pi meant <a href=\"https://www.jeffgeerling.com/blog/2025/how-recompile-linux-on-raspberry-pi\">recompiling Linux</a>, as the <code>iwlwifi</code> Linux drivers weren't included with the default Pi OS install.</p>\n\n<p>But recently, the <a href=\"https://github.com/raspberrypi/linux/issues/6497\">Intel WiFi drivers were added by default</a>, and now all that's required is loading in the right firmware.</p>\n      <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Jeff Geerling</span></span>\n<span class=\"field ",
+        "id": 2321911,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/exploring-wifi-7-2-gbps-on-raspberry-pi-5",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Exploring WiFi 7 (at 2 Gbps) on a Raspberry Pi 5",
+        "vote": 0
+    }
+]

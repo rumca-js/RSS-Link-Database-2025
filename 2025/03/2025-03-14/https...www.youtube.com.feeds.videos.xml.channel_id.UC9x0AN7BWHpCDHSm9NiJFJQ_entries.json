@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-14T18:06:24+00:00",
+        "description": "Use SysAid\u2019s AI builder to make your own personal AI team: https://ntck.co/sysaidaibuilder\n\n#SysAid #AI #tickets #ad",
+        "id": 2324030,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=nbPfYbvlVec",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nbPfYbvlVec/hqdefault.jpg",
+        "title": "AI can handle the boring stuff!",
+        "vote": 0
+    }
+]

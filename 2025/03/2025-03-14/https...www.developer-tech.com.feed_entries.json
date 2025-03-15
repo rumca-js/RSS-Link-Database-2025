@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-14T12:54:47+00:00",
+        "description": "<p>The Eclipse Foundation has announced two advancements in open source AI development tools and IDEs. Spearheaded by AI-native tool development firm EclipseSource, these latest releases aim to give developers greater control over their AI integration. The new offerings include: Mike Milinkovich, Executive Director of the Eclipse Foundation, said: \u201cProprietary AI development platforms are locking developers<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/eclipse-foundation-unveils-open-source-ai-development-tools/\" title=\"ReadEclipse Foundation unveils open source AI development tools\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/eclipse-foundation-unveils-open-source-ai-development-tools/\">Eclipse Foundation unveils open source AI development tools</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2320992,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/eclipse-foundation-unveils-open-source-ai-development-tools",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Eclipse Foundation unveils open source AI development tools",
+        "vote": 0
+    }
+]

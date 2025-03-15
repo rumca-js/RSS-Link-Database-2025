@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-14T14:00:02+00:00",
+        "description": "It is rare that WiFi is better than Wired. But in the case of the Pi 5, it is.\n\nWaveshare sent over the HAT I was using for testing in this video (but nothing else), and they send any other form of payment\u2014it was a project I had underway before they even sent the HAT. The video is NOT sponsored, and I in fact have purchased additional Waveshare M.2 E-Key HATs separate from this project... I just like to be *extremely* transparent about what equipment was provided in all my videos. So there ya go.\n\nSome of the things mentioned in this video (as an Amazon Associate, I earn for qualifying purchases):\n\n  - Waveshare PCIE to M.2 E-Key HAT+: https://amzn.to/3DBWybJ\n  - Waveshare PoE+ PCIE to M.2 E-Key HAT+: https://amzn.to/3Fio922\n  - Intel BE200 PCIe M.2 WiFi (Nicgiga): https://amzn.to/4hvaCBI\n  - Intel AX210 PCIe M.2 WiFi (Waveshare): https://amzn.to/4bHEzNz\n  - Netgear WiFi 7 WBE710 AP: https://amzn.to/4bK6rkd\n  - MokerLink Managed 10/2.5 GbE PoE+ Switch: https://amzn.to/3FoBmGU\n\nNote: ",
+        "id": 2321959,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1oXrJ4wQ2dQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1oXrJ4wQ2dQ/hqdefault.jpg",
+        "title": "WiFi 7 the Fastest EVER on Raspberry Pi 5",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-14T17:12:24+00:00",
+        "description": "\u300c\u7d44\u8fbc\u307f\u30b7\u30b9\u30c6\u30e0\u3067\u306eOSS\u306e\u6f6e\u6d41\u3068Software Defined\u6642\u4ee3\u306b\u6c42\u3081\u3089\u308c\u308b\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u30a8\u30f3\u30b8\u30cb\u30a2\u50cf\u300d(\"The Trend of OSS in Embedded Systems and the Ideal Software Engineer in the Era of Software-Defined Technology\"\uff09",
+        "id": 2323769,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=AJFWdK-t-2A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AJFWdK-t-2A/hqdefault.jpg",
+        "title": "Linux Foundation X JASA \u5171\u540cWebinar\u4f01\u753b  (Jointly Presented by LF and JASA)",
+        "vote": 0
+    }
+]

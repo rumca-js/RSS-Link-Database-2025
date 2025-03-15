@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-14T20:06:44+00:00",
+        "description": "<p>\n\t<img alt=\"RaymondChen_5in-150x150.jpg\" src=\"https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg\" style=\"width: 150px; margin: 10px; float: right;\" />The <code data-end=\"14\" data-start=\"4\">std::map</code> subscript operator (<code data-end=\"39\" data-start=\"35\">[]</code>) is a convenient but sometimes dangerous feature, as it can create unintended default-constructed entries. By understanding the behavior of various map insertion and lookup methods&mdash;such as <code data-end=\"237\" data-start=\"229\">insert</code>, <code data-end=\"248\" data-start=\"239\">emplace</code>, <code data-end=\"263\" data-start=\"250\">try_emplace</code>, and <code data-end=\"287\" data-start=\"269\">insert_or_assign</code>&mdash;developers can write more efficient and predictable code while avoiding unnecessary key-value creations and duplicate lookups.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://devblogs.microsoft.com/oldnewthing/20250113-00/?p=110757\">A Simplified Overview of Ways to Add or Update Elements in ",
+        "id": 2324932,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/03/a-simplified-overview-of-ways-to-add-or-update-elements-in-a-stdmap-raymond",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A Simplified Overview of Ways to Add or Update Elements in a std::map -- Raymond Chen",
+        "vote": 0
+    }
+]

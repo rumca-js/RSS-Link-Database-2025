@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-14T20:15:24+00:00",
+        "description": "It was overlooked in its own time, never finding the audience it deserved, but Firefly has gone on to become a cult classic with the most dedicated on fanbases. And now that I've finally arrived to the party 20 years late, I wanted to share my thoughts on Joss Whedon's Firefly.",
+        "id": 2325127,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=DJIIaN7Z2L0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DJIIaN7Z2L0/hqdefault.jpg",
+        "title": "Firefly - We Didn't Know How Good We Had It",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-14T15:07:03+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nCost of C++ Abstractions in C++ Embedded Systems - Marcell Juhasz - CppCon 2024\n---\n\nThis session will feature detailed case studies that measure the overhead associated with common programming abstractions in the context of embedded systems. By examining both compile-time and run-time implications, attendees will gain valuable insights into how these abstractions impact system resources like memory usage and execution speed. \n\nKey areas of exploration will include: \n\n- Encapsulation: Assessing the cost of data hiding and interface protection depending on implementation strategies. \n- Inheritance: Evaluating the costs and benefits of using class hierarchies in environments where memory and processing power are limited. \n- Polymorphism: Comparing run-time polymorphism via virtual functions to compile-time alternatives like templates and concepts, analyzing their respective impacts on performance and flexibility. \n\nThrough empirical data and performance metrics",
+        "id": 2322952,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7gz98K_hCEM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7gz98K_hCEM/hqdefault.jpg",
+        "title": "Cost of C++ Abstractions in C++ Embedded Systems - Marcell Juhasz - CppCon 2024",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-14T22:04:40+00:00",
+        "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Jesse Hall. He's software engineer and a developer advocate at MongoDB. He taught himself to code while raising kids and working on the Best Buy Geek Squad fixing computers. \n\nJesse has created tons of tutorials over the years on YouTube and on freeCodeCamp. We talk about his coding journey, how the field has changed over the few years, and how hype has distorted peoples' perception of getting into code.\n\nWe talk about:\n- Growing up in a one stop light town\n- Teaching himself to code for free using freeCodeCamp\n- How he created YouTube tutorials to inspire his kids, then got quite good at it\n- How Jesse's early interest in Web3 lead him to needing to \"dig himself out of the grave\" of being \"the NFT tutorial guy\"\n\nSupport for this podcast comes from a grant from Wix Studio. Wix Studio provides developers tools to rapidly build websites with everything out-of-the-box, then extend, replace, and break bo",
+        "id": 2325771,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=28c0QMQZ5yA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/28c0QMQZ5yA/hqdefault.jpg",
+        "title": "How to become a self-taught developer while supporting a family [Podcast #164]",
+        "vote": 0
+    }
+]

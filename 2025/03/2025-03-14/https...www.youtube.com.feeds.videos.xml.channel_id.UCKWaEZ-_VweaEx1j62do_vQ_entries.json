@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-14T10:00:17+00:00",
+        "description": "Is Manus a second DeepSeek moment? In episode 46 of Mixture of Experts, host Tim Hwang is joined by Chris Hay, Kaoutar El Maghraoui and Vyoma Gajjar to talk Manus! Next, the rise of vibe coding\u2014what started as a joke has now become a thing? Then, we dive deep into the future of scaling laws. Finally, Perplexity is teaming up with Deutsche Telekom to release an AI phone\u2014what\u2019s the motivation here? Tune-in to today\u2019s Mixture of Experts to find out more!  \n\n00:00 \u2013 Intro  \n00:37 -- Manus  \n14:09 \u2013 Vibe coding  \n30:13 \u2013 Scaling laws  \n39:07 \u2013 Perplexity's AI phone   \n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entity.",
+        "id": 2320129,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Ddh3p185KhA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Ddh3p185KhA/hqdefault.jpg",
+        "title": "Manus, vibe coding, scaling laws and Perplexity\u2019s AI phone",
+        "vote": 0
+    }
+]
