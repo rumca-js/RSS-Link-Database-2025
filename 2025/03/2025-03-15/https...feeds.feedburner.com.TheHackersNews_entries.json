@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-15T06:27:59+00:00",
+        "description": "Cybersecurity researchers have warned of a malicious campaign targeting users of the Python Package Index (PyPI) repository with bogus libraries masquerading as \"time\" related utilities, but harboring hidden functionality to steal sensitive data such as cloud access tokens.\nSoftware supply chain security firm ReversingLabs said it discovered two sets of packages totaling 20 of them. The packages",
+        "id": 2327205,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2025/03/malicious-pypi-packages-stole-cloud.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Malicious PyPI Packages Stole Cloud Tokens\u2014Over 14,100 Downloads Before Removal",
+        "vote": 0
+    }
+]

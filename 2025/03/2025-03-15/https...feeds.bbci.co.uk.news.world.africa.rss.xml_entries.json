@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-15T01:58:54+00:00",
+        "description": "The US Secretary of State called the ambassador a \"race-baiting politician who hates America\".",
+        "id": 2326596,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/crmj8ky3rvno",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d70/live/bd2296e0-011f-11f0-aac6-7d08cb171514.jpg",
+        "title": "South African ambassador 'no longer welcome' in US, Rubio says",
+        "vote": 0
+    }
+]

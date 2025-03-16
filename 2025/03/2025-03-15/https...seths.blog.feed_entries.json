@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-15T09:03:00+00:00",
+        "description": "Perhaps you&#8217;ve encountered a sink with two taps, not one. One for hot, one for cold, without a chance to mix them before you scald or chill yourself. It seems absurd that the folks who figured out the technology to build sinks with running water couldn&#8217;t be bothered with the last step of making it [&#8230;]",
+        "id": 2327725,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/03/bad-design-might-simply-be-obsolete-design",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bad design might simply be obsolete design",
+        "vote": 0
+    }
+]

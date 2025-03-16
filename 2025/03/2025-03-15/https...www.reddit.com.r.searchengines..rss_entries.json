@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-15T15:05:17+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Is there a search engine that is not only good at answering your questions, but also finding stuff on the web? I rarely use a search engine to answer a simple question, I usually use search engines to find stuff on the internet instead of asking something like \u201cWhat is cheese?\u201d. Most of my queries are also uncommon things like \u201cIPA file fix dylib\u201d and I find that a lot of search engines I have tried (Kagi, Qwant, Startpage, etc.) don\u2019t really like to handle complex types of queries otherwise they just give you irrelevant results like \u201cOh, you mentioned the word IPA? I assume that you mean beer even after you put the world file after it!\u201d Which really bugs me.</p> <p>Here are some things I am looking for in a search engine.</p> <ul> <li><p>Relevant results, I don\u2019t really care about other aspects like privacy or speed. Just relevant results that give me the stuff I am looking for.</p></li> <li><p>Consistent results, usually search engine results will ",
+        "id": 2329518,
+        "language": null,
+        "link": "https://www.reddit.com/r/searchengines/comments/1jbx3b9/search_engines_for_finding_stuff",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Search engines for finding stuff?",
+        "vote": 0
+    }
+]

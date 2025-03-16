@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-15T16:53:11+00:00",
+        "description": "Apple's moving to integrate end-to-end encryption (E2EE) into the RCS open standard messaging marks a major privacy win for both iOS and Android users. In this video, Techlore breaks down what this means for your secure messaging experience, comparing RCS to SMS and exploring the technical details behind this industry-shifting standard. We also delve into potential drawbacks, like metadata collection, and discuss how this impacts the broader landscape of secure communication.\n\nCheck out Notesnook for a cross-platform E2EE notes provider: https://notesnook.com\nCheck out Redact to take control of your content: https://redact.dev/techlore\n\n\ud83d\udd10 Techlore Homepage: https://techlore.tech\n\ud83d\udd75 Go Incognito Course: https://techlore.tech/goincognito\n\ud83d\udcbb Techlore Community: https://discuss.techlore.tech\n\ud83c\udfeb Techlore Coaching: https://techlore.tech/coaching\n\ud83d\udcac Signal Group: https://discuss.techlore.tech/t/signal-usernames-are-here-join-our-signal-group-techlore/7640\n\nWe cannot provide our content without ",
+        "id": 2330153,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=nIQMEP-VIsk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nIQMEP-VIsk/hqdefault.jpg",
+        "title": "Privacy WIN! Apple & Android Unite for Secure Messaging",
+        "vote": 0
+    }
+]

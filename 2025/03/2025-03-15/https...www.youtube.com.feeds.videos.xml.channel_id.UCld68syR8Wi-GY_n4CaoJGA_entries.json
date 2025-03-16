@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-15T20:00:02+00:00",
+        "description": "The Linux desktop is not like it was in the 90's, now we're at a point where even EU regulations may apply to the projects in this space.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nEU Regulation: https://eur-lex.europa.eu/eli/reg/2023/826/oj/eng\nGNOME Old Change: https://gitlab.gnome.org/GNOME/gnome-settings-daemon/-/merge_requests/323\n2013 Regulation: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0801&from=EN\nFedora Report: https://pagure.io/fedora-workstation/issue/360\nKDE Report: https://bugs.kde.org/show_bug.cgi?id=501057\nGNOME Report: https://gitlab.gnome.org/GNOME/gnome-control-center/-/issues/3353\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https",
+        "id": 2330981,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=3dQ099APMwo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3dQ099APMwo/hqdefault.jpg",
+        "title": "Has The Linux Desktop Become Too Popular",
+        "vote": 0
+    }
+]

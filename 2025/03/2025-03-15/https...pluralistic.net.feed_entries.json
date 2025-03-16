@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-15T14:45:29+00:00",
+        "description": "Today's links Amazon annihilates Alexa privacy settings, turns on continuous, nonconsensual audio uploading: \"The instrument (the telescreen, it was called) could be dimmed, but there was no way of shutting it off completely.\" Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015, 2020, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Amazon annihilates Alexa privacy settings, turns on continuous, nonconsensual audio uploading (permalink) Even by Amazon standards, this is extraordinarily sleazy: starting March 28, each Amazon Echo device will cease processing audio on-device and instead upload all the audio it captures to Amazon's cloud for processing, even if you have previously opted out of cloud-based processing: https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-se",
+        "id": 2329230,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/03/15/altering-the-deal",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pluralistic: Amazon annihilates Alexa privacy settings, turns on continuous, nonconsensual audio uploading (15 Mar 2025)",
+        "vote": 0
+    }
+]

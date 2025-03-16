@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-15T22:45:00+00:00",
+        "description": "Find the Mini PC on Amazon - https://lon.tv/v6yhd - Barebones direct: https://lon.tv/znp51 the eGPU: https://lon.tv/yl5t9 - find oculink adapters here: https://lon.tv/354pm (affiliate links). A few weeks ago I picked up an Oculink eGPU docking adapter for PCs with that have an Oculink connector. The kit I purchased also came with an M.2 to Oculink adapter that allowed me to connect an eGPU to a $120 mini PC! In this video we'll see if it works. Subscribe for more! http://lon.tv/s\n\nGMKTec G3 Plus Revew: https://www.youtube.com/watch?v=jIzc1XpTGpc\neGPU Review: https://www.youtube.com/watch?v=HlaM019It7Q\n\nVIDEO INDEX:\n00:00 - Intro\n01:56 - Installation\n03:18 - First Boot\n04:23 - Driver Downloads\n04:54 - Oculink with other PCIe cards!\n05:49 - Cyberpunk 2077\n07:42 - Red Dead Redemption 2\n08:44 - Doom Eternal\n09:46 - 3DMark Timespy benchmark\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog",
+        "id": 2331718,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=MnO9wUD47ks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MnO9wUD47ks/hqdefault.jpg",
+        "title": "Connecting an eGPU to a $120 Mini PC!",
+        "vote": 0
+    }
+]

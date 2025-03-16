@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-15T20:00:02+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/3dQ099APMwo\" width=\"480\" alt=\"thumbnail\" title=\"Has The Linux Desktop Become Too Popular\" /></p>The Linux desktop is not like it was in the 90's, now we're at a point where even EU regulations may apply to the projects in this space.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />EU Regulation: https://eur-lex.europa.eu/eli/reg/2023/826/oj/eng<br />GNOME Old Change: https://gitlab.gnome.org/GNOME/gnome-settings-daemon/-/merge_requests/323<br />2013 Regulation: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0801&from=EN<br />Fedora Report: https://pagure.io/fedora-workstation/issue/360<br />KDE Report: https://bugs.kde.org/show_bug.cgi?id=501057<br />GNOME Report",
+        "id": 2330986,
+        "language": "en",
+        "link": "https://odysee.com/has-the-linux-desktop-become-too-popular:3d044f5d8a9a15b0c24c0f5a740a9a10d0caca3f",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Has The Linux Desktop Become Too Popular",
+        "vote": 0
+    }
+]

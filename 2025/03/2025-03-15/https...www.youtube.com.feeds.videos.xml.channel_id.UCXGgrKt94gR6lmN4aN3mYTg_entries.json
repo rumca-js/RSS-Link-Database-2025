@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Austin Evans",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-15T16:01:02+00:00",
+        "description": "Subscribe for more! https://www.youtube.com/austinevans\nCheck out our @thisis channel! https://www.youtube.com/thisis\nAs well as the @Denki channel! https://www.youtube.com/@Denki\nInstagram: https://instagram.com/austinnotduncan\nThreads: https://www.threads.net/@austinnotduncan\n\nI went down a rabbit hole trying to find and restore the ultimate 12-inch MacBook from 2017. What started as nostalgia for Apple's thinnest laptop quickly turned into an expensive lesson in battery replacement, logic board swapping and why sometimes you should just buy a new computer. The journey was painful...and not really worth it. :(\n\nChapter Titles:\n0:00 Intro\n1:57 Unboxing\n4:22 Unboxing (again)\n6:25 First Impressions\n10:12 Battery Upgrade\n13:37 Disaster\n16:26 Success...?",
+        "id": 2329673,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=4w5z_na33fQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 24,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXGgrKt94gR6lmN4aN3mYTg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4w5z_na33fQ/hqdefault.jpg",
+        "title": "I bought the WORST MacBook of All Time",
+        "vote": 0
+    }
+]
