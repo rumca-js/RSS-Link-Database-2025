@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-16T17:27:50+00:00",
+        "description": "- Rafa\u0142 Trzaskowski to cz\u0142owiek lewactwa - oceni\u0142 podczas wyst\u0105pienia w Siedlcach Jaros\u0142aw Kaczy\u0144ski. Prezes PiS nadmieni\u0142, \u017ce kandydat w wyborach prezydenckich \"jest czerwony\". - To cz\u0142owiek, kt\u00f3ry dzisiaj pr\u00f3buje si\u0119 przemalowa\u0107 na bia\u0142o tak, \u017ceby to wysz\u0142o na bia\u0142o-czerwone, by on wyszed\u0142 na polskiego patriot\u0119 - m\u00f3wi\u0142. Ponadto polityk wspomnia\u0142 tak\u017ce o \u015bmierci Barbary Skrzypek, kt\u00f3ra - jak wskaza\u0142 - \"pad\u0142a ofiar\u0105 \u0142otr\u00f3w\".",
+        "id": 2335571,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.plhttps://wydarzenia.interia.pl/wybory/prezydenckie/news-mocne-slowa-pod-adresem-trzaskowskiego-to-czlowiek-lewactwa,nId,7932034",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Mocne s\u0142owa pod adresem Trzaskowskiego. \"To cz\u0142owiek lewactwa\"",
+        "vote": 0
+    }
+]

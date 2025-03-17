@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cybernews",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-16T18:00:11+00:00",
+        "description": "Cybernews analyzed over 150,000 iOS apps and uncovered 815,000+ hardcoded secrets, revealing a major flaw in apps that can lead to data leaks, breaches, and privacy risks. \n\ud83d\udc31\u200d\ud83d\udcbb Read more at: https://cybernews.com/security/ios-apps-leak-hardcoded-secrets-research/\n\n\ud83c\udfaf Subscribe to \u202a@cybernews\u202c for more AI news and cybersecurity updates: https://cnews.link/subscribe/\n\n\ud83c\udfaa Looking for entertainment and more interesting stories? Check out our playlists filled with captivating content that will keep you entertained for hours:\nhttps://www.youtube.com/playlist?list=PLa8oKYy_2UcNWMp91QuENBVLtv2HimUUB\nhttps://www.youtube.com/playlist?list=PLa8oKYy_2UcNqsnRRwfWT3raZOG4Ey44I  \n\n\ud83d\udcf0 Stay up-to-date with the latest cybersecurity news and trends by checking out our curated news playlist. We cover the latest threats, trends, and insights from the world of cybersecurity:\nhttps://www.youtube.com/playlist?list=PLa8oKYy_2UcOv27VEdZYZpFXcoxVcI11h  \n\n\ud83d\udcac Stay connected with us on social media for the latest new",
+        "id": 2336493,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=HPb2BHiRGRo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 433,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCsREoj8rSRkEvxWqxr74rQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HPb2BHiRGRo/hqdefault.jpg",
+        "title": "We Found iOS Apps That Are Easy To Hack",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-16T00:16:20.767992+00:00",
+        "description": "Podcast \u00b7 Joe Rogan \u00b7 The official podcast of comedian Joe Rogan.",
+        "id": 2331798,
+        "language": "en",
+        "link": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 348,
+        "source_url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://i.scdn.co/image/ab6765630000ba8a94dc3b5af1868137c5f43f3e",
+        "title": "The Joe Rogan Experience",
+        "vote": 0
+    }
+]

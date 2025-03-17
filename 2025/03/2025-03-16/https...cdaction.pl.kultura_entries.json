@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-16T00:15:26.172721+00:00",
+        "description": null,
+        "id": 2331793,
+        "language": "pl",
+        "link": "https://cdaction.pl/kultura",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 93,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 51,
+        "source_url": "https://cdaction.pl/kultura",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Kultura \u2013 CD-Action",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-16T00:15:29.045416+00:00",
+        "description": "Codzienna porcja \u015bwie\u017cych news\u00f3w technologicznych. W sekcji news piszemy o gad\u017cetach, technice, smartfonach, komputerach, oprogramowaniu, itd.",
+        "id": 2331796,
+        "language": "pl-PL",
+        "link": "https://www.instalki.pl/aktualnosci",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 154,
+        "source_url": "https://www.instalki.pl/aktualnosci",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://www.instalki.pl/wp-content/uploads/webp/Nowy-model-Redmi-w-Europie1.webp",
+        "title": "Wiadomo\u015bci ze \u015bwiata nowych technologii - news - INSTALKI",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-16T17:00:38+00:00",
+        "description": "\ud83d\udea8\u00a0Do\u0142\u0105cz do AI_Devs3: Reloaded!\n\ud83d\udc49\u00a0https://aidevs.pl/?ref=mcwpadki \ud83d\udc48\n\n\ud83e\udd16\u00a0Jeste\u015bcie AI-sceptykami, pieszczotliwie nazywanymi przeze mnie czasem p\u0142askoziemcami? To materia\u0142 dla Was. Je\u015bli kto\u015b b\u0119dzie si\u0142\u0105 wpycha\u0142 Wam do gard\u0142a kolejn\u0105 rewolucj\u0119 sztucznej inteligencji, to opowiedzcie mu o kt\u00f3rym\u015b z tych przyk\u0142ad\u00f3w. Pokazuj\u0105 one jak na d\u0142oni, \u017ce do niczego si\u0119 to ca\u0142e AI nie nadaje. \n \n\u0179r\u00f3d\u0142a:\n\ud83c\udf40\u00a0Thousands go to fake AI-invented Dublin Halloween parade\nhttps://www.euronews.com/culture/2024/11/01/thousands-go-to-fake-ai-invented-dublin-halloween-parade\n\n\ud83c\udf8a\u00a0\u2018We are highly embarrassed\u2019: creator of Pakistan website behind non-existent Dublin Halloween parade says it was a mistake\nhttps://www.irishtimes.com/ireland/2024/11/01/we-are-highly-embarrassed-website-creator-behind-non-existent-dublin-halloween-parade-says-it-was-a-mistake/\n\n\ud83c\uddee\ud83c\uddea\u00a0Hundreds gather at hoax Dublin Halloween parade\nhttps://www.bbc.com/news/articles/cjr4y1j91x7o\n\n\ud83d\udd11\u00a0New smart sensor technology to improve safety on key cycle route",
+        "id": 2335689,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=YhvA4FLRZgk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YhvA4FLRZgk/hqdefault.jpg",
+        "title": "AI-sceptycy vs reszta \u015bwiata",
+        "vote": 0
+    }
+]

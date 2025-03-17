@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-16T07:00:00+00:00",
+        "description": "<p dir=\"ltr\"><em>Metro 2033 is celebrating its 15-year anniversary today, March 16, 2025. Below, we examine how its subtle morality system helped to illustrate its broader points about humanity and violence.</em></p><p dir=\"ltr\">In video games, evil tends to be gigantic. Think of the rivers of blood in Baldur's Gate 3's evil endings or an army of Sith bowing to the player in Knights of the Old Republic. These moments are not exactly comical, but they have a glee to them. They have the joy of a cackling cartoon villain. In some sense, Metro 2033 is no exception. In the wake of atomic devastation, the Moscow metro populates itself with cruel bandits, monstrous mutants, and authoritarian militants. It is grimmer than the prior examples to be sure, but there is still a note of the absurd in its endless cruel men. But the game's ultimate quest, to destroy a mutant army of \"Dark Ones\" with an atomic weapon, casts the shadow of real-world brutality. Metro 2033 concerns itself with the minis",
+        "id": 2335268,
+        "language": "en-US",
+        "link": "https://www.gamespot.com/articles/metro-2033-makes-killing-easy-and-atrocity-quiet/1100-6530131/?ftag=CAD-01-10abi2f",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 126,
+        "source_url": "https://www.gamespot.com/feeds/mashup",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.gamespot.com/a/uploads/screen_medium/1585/15855271/4459480-3807271-metro2033.jpg",
+        "title": "Metro 2033 Makes Killing Easy And Atrocity Quiet",
+        "vote": 0
+    }
+]

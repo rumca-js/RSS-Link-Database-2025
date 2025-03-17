@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-16T14:18:18+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><h2><span>Recognize the Worst in Government Transparency\u00a0</span></h2>\n<p><span>Co-written by MuckRock's Michael Morisy, Dillon Bergin, and Kelly Kauffman<br /></span></p>\n<p><span>The public's right to access government information is constantly under siege across the United States, from both sides of the political aisle. In Maryland, where Democrats hold majorities, the attorney general and state legislature are </span><a href=\"https://www.baltimorebrew.com/2025/02/14/good-government-groups-lawmakers-and-media-decry-bill-to-make-it-easier-for-agencies-to-deny-pia-requests/#comments\"><span>pushing a bill</span></a><span> to allow agencies to reject public records requests that they consider \"harassing.\" At the same time, President Donald Trump's administration has moved its most aggressive government reform effort\u2013the Department of Government E",
+        "id": 2334635,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/03/foilies-2025",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Foilies 2025",
+        "vote": 0
+    }
+]

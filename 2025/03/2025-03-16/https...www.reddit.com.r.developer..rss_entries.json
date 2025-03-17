@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-16T02:08:15+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m trying to learn from the developer community here. </p> <p>If you could help answer some of the questions here, it&#39;d be really helpful: </p> <ol> <li>When was the last time you got a higher-than-expected bill? What did you do?<br/></li> <li>How do you usually track and manage costs currently?<br/></li> <li>Have you tried any tools to save money? did the tools actually help?<br/></li> <li>Ever had to choose between saving money and keeping performance up? </li> </ol> <p>Looking forward to reading your answers, thanks in advance!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/__dibbaa__\"> /u/__dibbaa__ </a> <br/> <span><a href=\"https://www.reddit.com/r/developer/comments/1jcb7j5/developers_how_do_you_keep_your_infrastructure/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/developer/comments/1jcb7j5/developers_how_do_you_keep_your_infrastructure/\">[comments]</a></span>",
+        "id": 2332254,
+        "language": null,
+        "link": "https://www.reddit.com/r/developer/comments/1jcb7j5/developers_how_do_you_keep_your_infrastructure",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Developers: How do you keep your infrastructure cost in check?",
+        "vote": 0
+    }
+]

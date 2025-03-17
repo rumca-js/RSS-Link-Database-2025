@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-16T03:24:15+00:00",
+        "description": "Comet (GL-RM1) is a hardware-based remote KVM solution for remote computer access and control. Its open-source design enables hardware-level interaction, making it useful for remote work, IT maintenance, and server management. It allows full control over offline computers, including BIOS access, troubleshooting, and boot failure recovery. The device features a quad-core 1.5GHz processor, 1GB DDR3 [&#8230;]",
+        "id": 2332361,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/comet-gl-rm1-enables-remote-control-with-2k-video-resolution",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Comet GL-RM1 Enables Remote Control with 2K Video Resolution",
+        "vote": 0
+    }
+]
