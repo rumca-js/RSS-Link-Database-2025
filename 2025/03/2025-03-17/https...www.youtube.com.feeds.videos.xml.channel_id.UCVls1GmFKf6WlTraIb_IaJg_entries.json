@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-17T13:00:06+00:00",
+        "description": "I find myself using A.I. chat assistants more and more.  On a daily basis now, I am asking these chatbots questions related to business, tech, cooking and general life skills.  I especially find them useful for programming and scripting.\n\n0:00 Intro\n1:28 Tailor your prompt and specify your target audience\n3:59 Encourage Chatbot To Ask Clarifying Questions\n5:24 Specify Style and Tone\n6:14 Don't Be Ambiguous\n8:00 Get A Longer Response With \"Continue\"\n8:37 Asking programming-related questions\n\nWANT TO SUPPORT THE CHANNEL? \n\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube \n\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJWVnpQd3xBQ3Jtc0tsLVZJc19YeFlwZ2JqbXVOa3g0Skw4TVhTV2otNm1tM3A1bUNnamh3S2V6OGQtLTBnSjBxYTlvUXMxeEVIS3o4US10NENHMUQ3STk2a01FOFBhUnZjZFctMEhFUTg1TVctQmFfVUdxZXJ4TDl0azlYNA&q=https%3A%2F%2Fwww.paypal.com%2Fcgi-bin%2Fwebscr%3Fcmd%3D_donations%26business%3Dderek%2540distrotube%252ecom%26lc%3DUS%26item_name%3DDistroT",
+        "id": 2340758,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=3rHzGmfJ_y8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 95,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3rHzGmfJ_y8/hqdefault.jpg",
+        "title": "A.I. Chatbot Tips And Tricks",
+        "vote": 0
+    }
+]

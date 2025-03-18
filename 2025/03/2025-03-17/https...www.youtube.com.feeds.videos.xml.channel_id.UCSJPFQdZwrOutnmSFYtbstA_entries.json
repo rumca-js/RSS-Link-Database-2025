@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-17T18:00:15+00:00",
+        "description": "Ever wanted to watch Giancarlo Esposito fighting a giant peanut man in a mech suit? Ever wanted to see Chris Pratt and Millie Bobby Brown struggle through a script that has no idea what to do with them? Then Electric State has got you covered. For everyone else, this $320 Million disaster was an absolute waste of time and huge amounts of money. Join me as I suffer through it for your amusement.",
+        "id": 2343563,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=MVfdnOeM2Hw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MVfdnOeM2Hw/hqdefault.jpg",
+        "title": "The Electric State - A $320 Million Dumpster Fire",
+        "vote": 0
+    }
+]

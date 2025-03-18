@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jordan B Peterson",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-17T21:00:47+00:00",
+        "description": "Jordan Peterson sits down with retired co-founder and co-CEO of Research in Motion, known predominantly for the BlackBerry. They discuss how Balsillie helped transition the world into the smartphone age, Canada\u2019s faltering economic performance (well before Trump\u2019s trade war), why America is taking these actions now, and the ideas of Mark Carney (Trudeau on steroids).\n\nMr. Balsillie is the retired chairman and co-CEO of Research in Motion (BlackBerry), a technology company he scaled from an idea to $20 billion in sales globally. His private investment office includes global and domestic technology investments.\n\nHe is the co-founder of the Institute for New Economic Thinking in New York and founder of the Council of Canadian Innovators based in Toronto, the Digital Governance Council in Ottawa, and the Centre for International Governance Innovation in Waterloo, as well as the Centre for Digital Rights, the Balsillie School of International Affairs, the Arctic Research Foundation, and C",
+        "id": 2345036,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=pbpO2wtHL7w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 167,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pbpO2wtHL7w/hqdefault.jpg",
+        "title": "Failure or Success in the Time of Trump | Jim Balsillie | EP 530",
+        "vote": 0
+    }
+]

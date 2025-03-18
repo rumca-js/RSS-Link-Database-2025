@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-17T19:30:28+00:00",
+        "description": "Sponsor: Montech HyperFlow 360 Cooler on Amazon https://geni.us/dWBIbF6\nIn this hardware news episode, we talk about security research revolving around \"jailbreaking\" AMD CPUs with microcode hacking tools, NVIDIA trying to fix crashing, instability, and black screens with the RTX 50 series, and AMD RX 9060 leaks in public filings. Additionally, the USPTO has rejected most of Nintendo's patent applications in its fight against Palworld and Steam distributed a game (PirateFi) with malware in it.\n\nWatch our Future of Intel fabrication facility tour video: https://www.youtube.com/watch?v=IUIh0fOUcrQ\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\n\nLike our content? Please consider becoming our Patron to support us: http://www.patreon.com/gamersnexus\n\nSources: https://www.one-tab.com/page/iyg8ZLB4TBanpiZalbSr0w\n\nTIMESTAMPS\n\n00:00 - Recapping the Week\n01:10 - GN Updates: Overhauls and Production Slow\n07:14 - AMD CPU Jailbreaking Security Research\n11:4",
+        "id": 2344433,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=G_DSXFgF8IQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/G_DSXFgF8IQ/hqdefault.jpg",
+        "title": "HW News - \"Jailbreaking\" AMD CPUs, RX 9060 Leaks, Steam Distributes Malware Game",
+        "vote": 0
+    }
+]

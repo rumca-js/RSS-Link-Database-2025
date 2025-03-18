@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-17T15:07:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nBack to Basics: Rvalues and Move Semantics in C++ - Amir Kirsh - CppCon 2024\n---\n\nRvalue references and move semantics, introduced in C++11, were an important addition for the way we manage resources and optimize performance in our code. \nHowever, mastering these concepts can be challenging, leading to common pitfalls and misunderstandings.\n\nIn this session, we will demystify rvalue references and move semantics, covering their underlying principles, practical applications, and best practices. We will start with the fundamentals of what rvalues are, how to implement and use move semantics correctly, covering the delicate syntax rules, then discuss design considerations and guidelines. We will cover the rule-of-zero, rule-of-three and rule-of-five, the need for std::move and when to use it, as well as forwarding references and std::forward.\n\nBy focusing on the applicability of the subject, and with a clear and concise exploration of the fine details, participa",
+        "id": 2342088,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=i_Z_o9T2fNE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/i_Z_o9T2fNE/hqdefault.jpg",
+        "title": "Back to Basics: Rvalues and Move Semantics in C++ - Amir Kirsh - CppCon 2024",
+        "vote": 0
+    }
+]

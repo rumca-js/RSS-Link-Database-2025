@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-17T05:25:44+00:00",
+        "description": "The FET3506J-S System on Module is designed for industrial environments that require stable performance and a range of connectivity options. It supports Linux and various industrial interfaces, making it adaptable to applications in automation, healthcare, power systems, and communication technologies. The FET3506J-S features the Rockchip RK3506J processor with a triple-core Cortex-A7 architecture. This configuration is [&#8230;]",
+        "id": 2338355,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/industrial-embedded-computing-with-fet3506j-s-som-and-linux-compatibility",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Industrial Embedded Computing with FET3506J S SoM and Linux Compatibility",
+        "vote": 0
+    }
+]
