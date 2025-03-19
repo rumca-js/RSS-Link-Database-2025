@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-18T23:24:34+00:00",
+        "description": "NASA astronauts Butch Wilmore and Suni Williams finally returned to Earth on Tuesday, splashing down off the Florida coast after an unexpected nine-month mission in space.",
+        "id": 2354282,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/science/article/2025/03/18/stranded-nasa-astronauts-return-after-nine-month-space-stay_6739300_10.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/03/18/114/0/1368/684/644/322/60/0/a948d84_ftp-import-images-1-025n33w6tkyc-2025-03-18t223512z-814725222-rc2rfda6uhnt-rtrmadp-3-space-exploration-butchandsuni.JPG",
+        "title": "Stranded NASA astronauts return after nine-month space stay",
+        "vote": 0
+    }
+]

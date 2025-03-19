@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-18T15:12:29+00:00",
+        "description": "Build a full-stack note-taking app with the Next.js 15 App Router, Supabase for authentication and database management, Prisma ORM, and shadcn for clean, modern styling. We will also integrate the OpenAI API to add ChatGPT functionality so you can interact with your notes, and deploy the finished app to the web with Vercel.\n\n\u270f\ufe0f Course from  @coleblender \nWebsite: https://coleblender.com\n\n\ud83d\udcbb GitHub Repo: https://github.com/ColeBlender/goat-notes\n\n\u2764\ufe0f Try interactive JavaScript courses we love, right in your browser: https://scrimba.com/freeCodeCamp-JavaScript (Made possible by a grant from our friends at Scrimba)\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Intro\n\u2328\ufe0f (0:02:44) Start Project\n\u2328\ufe0f (0:06:48) Add shacn/ui, Dark Mode, and Toast\n\u2328\ufe0f (0:08:48) Build Header\n\u2328\ufe0f (0:17:21) Build LogOutButton\n\u2328\ufe0f (0:22:19) Add Auth Pages\n\u2328\ufe0f (0:32:12) Create Supabase Project\n\u2328\ufe0f (0:35:48) Add Supabase Code\n\u2328\ufe0f (0:40:52) Add Auth Code Logic\n\u2328\ufe0f (0:50:02) Add Prisma Code\n\u2328\ufe0f (0:58:35) Build Sidebar\n\u2328\ufe0f (1:04:25) Build Home Pag",
+        "id": 2350628,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=6ChzCaljcaI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6ChzCaljcaI/hqdefault.jpg",
+        "title": "Build a Full Stack AI Note Taking App with Next.js and Supabase \u2013 Tutorial",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-18T00:31:22+00:00",
+        "description": "Plany Ministerstwa Sportu i Turystyki s\u0105 ambitne. W tym roku chcia\u0142oby zainspirowa\u0107 powstanie 13 strategii dla r\u00f3\u017cnych rodzaj\u00f3w polskiej turystyki. Do tego zach\u0119ci\u0107 16 wojew\u00f3dztw do pracy nad strategiami regionalnymi, a na ko\u0144cu stworzy\u0107 jeden dokument dla ca\u0142ego kraju.",
+        "id": 2345743,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/popularne-trendy/art41957951-wies-natura-kultura-kulinaria-ruszyly-prace-nad-13-strategiami-dla-turystyki",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wie\u015b, natura, kultura, kulinaria - ruszy\u0142y prace nad 30. strategiami dla turystyki",
+        "vote": 0
+    }
+]

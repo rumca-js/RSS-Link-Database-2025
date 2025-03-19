@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-18T15:04:29+00:00",
+        "description": "Ameryka\u0144ski gigant internetowy kupuje start-up Wiz. Za firm\u0119, specjalizuj\u0105c\u0105 si\u0119 w bezpiecze\u0144stwie chmurowym, zap\u0142aci\u0142 w\u0142a\u015bnie 32 mld dol. Transakcja ma da\u0107 Google rynkow\u0105 przewag\u0119.",
+        "id": 2350188,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art41961241-najwieksze-przejecie-w-historii-google-wyklada-miliardy-na-firme-z-izraela",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Najwi\u0119ksze przej\u0119cie w historii Google. Wyk\u0142ada miliardy na firm\u0119 z Izraela",
+        "vote": 0
+    }
+]

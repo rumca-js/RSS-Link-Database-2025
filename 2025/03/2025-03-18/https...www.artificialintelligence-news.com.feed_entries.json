@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-18T12:49:26+00:00",
+        "description": "<p>LG AI Research has unveiled EXAONE Deep, a reasoning model that excels in complex problem-solving across maths, science, and coding. The company highlighted the global challenge in creating advanced reasoning models, noting that currently, only a handful of organisations with foundational models are actively pursuing this complex area. EXAONE Deep aims to compete directly with [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/lg-exaone-deep-maths-science-and-coding-buff/\">LG EXAONE Deep is a maths, science, and coding buff</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 2349128,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/lg-exaone-deep-maths-science-and-coding-buff",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "LG EXAONE Deep is a maths, science, and coding buff",
+        "vote": 0
+    }
+]

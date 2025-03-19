@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Coreteks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-18T11:20:07+00:00",
+        "description": "Head to https://sponsr.is/kinsta_coreteks or scan QR Code on the screen to get your first month of Managed WordPress Hosting for free and migrate your website over at no cost!\n\nSupport me on Patreon: https://www.patreon.com/coreteks\n\nBuy a mug: https://teespring.com/stores/coreteks\n\nFollow me on Twitter: https://twitter.com/coreteks\n\nFootage from various sources including official youtube channels from AMD, Intel, NVidia, TSMC, etc, as well as OTHER CREATORS are used for educational purposes, in a transformative manner. If you'd like to be credited please contact me, thanks!\n\n#minisforum #AIX1Pro #AMD",
+        "id": 2348589,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=DQ6aDL4-Aao",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 79,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCX_t3BvnQtS5IHzto_y7tbw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DQ6aDL4-Aao/hqdefault.jpg",
+        "title": "Your own FAST local AI with the Minisforum AI X1 Pro Mini PC",
+        "vote": 0
+    }
+]

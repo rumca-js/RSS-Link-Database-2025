@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-18T14:00:38+00:00",
+        "description": "Apply to YC Summer Fellows Grants: https://events.ycombinator.com/summer-fellows\n\nGusto (https://gusto.com) made payroll and HR painless for small businesses, growing into a $9.6B company along the way.\n\nIn this episode of Founder Firesides, YC Managing Partner Harj Taggar sits down with Joshua Reeves, the co-founder and CEO of Gusto (W12). The conversation touches on how they built a payroll company from scratch, their customer-first approach to product design and culture, and a number of advice areas for new founders\u2014 such as choosing a problem space, earning the trust of early customers, and dealing with competition.\n\n0:00 Intro \n1:13 What does Gusto do?\n1:43 The first idea the Gusto founders applied with to YC\n5:20 Advice to founders on choosing a problem space\n10:24 Earning the trust of early customers\n11:34 Convincing investors\n14:36 Why fun design is an important part of the Gusto product\n16:02 Having a peer group to ask for advice\n17:50 Keeping startup speed while launching n",
+        "id": 2349698,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=VaQA55ZZWBU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VaQA55ZZWBU/hqdefault.jpg",
+        "title": "Customer Obsession Made Gusto A $9.6 Billion Company",
+        "vote": 0
+    }
+]

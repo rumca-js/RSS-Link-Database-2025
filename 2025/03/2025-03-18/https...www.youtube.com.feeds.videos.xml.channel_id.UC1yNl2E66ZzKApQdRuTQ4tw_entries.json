@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-18T16:00:41+00:00",
+        "description": "Check out my quantum mechanics course on Brilliant! First 30 days are free and 20% off the annual premium subscription when you use our link \u279c  https://brilliant.org/sabine. \n\nIn 2020, a group of MIT researchers detected an anomaly in the nuclei of ytterbium atoms. They said that the nuclei\u2019s strange behavior might be indicative of a \u201cdark force\u201d caused by a currently-undiscovered mystery particle that might make up dark matter. In 2020, the anomaly only had a significance of 3 sigma. But now, another group has confirmed it at a whopping 23 sigma! What does that mean for physics? Let\u2019s find out.\n\nPaper: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.063002\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udce9 Free weekly science newsletter  \u279c https://sabin",
+        "id": 2350848,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=XCQN7g-2fag",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XCQN7g-2fag/hqdefault.jpg",
+        "title": "Atomic Anomaly Confirmed! Evidence for a \u201cdark force\u201d?",
+        "vote": 0
+    }
+]

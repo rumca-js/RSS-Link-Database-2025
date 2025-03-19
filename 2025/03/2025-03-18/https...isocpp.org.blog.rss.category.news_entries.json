@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-18T20:13:24+00:00",
+        "description": "<p>\n\t<img alt=\"me.png\" src=\"https://isocpp.org/files/img/me.png\" style=\"width: 200px; margin: 10px; float: right; height: 200px;\" />In today&#39;s post, I&#39;ll learn how modern C++ can influence the code you write for your embedded system. You will see code using up to C++23. The example I show you below circles around at least two questions I got various times from customers: What is consteval good for? What is that user-defined literal operator, and why should I care?</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://andreasfertig.com/blog/2025/02/cpp-for-embedded-systems-constexpr-and-consteval/\">C++ for Embedded Systems: constexpr and consteval</a></h3>\n\t<p>\n\t\tby Andreas Fertig</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\t<strong>Chapter One: What is a MAC address?</strong><br />\n\t\t<br />\n\t\tI teach a lot of classes to customers who are developing embedded systems. That makes sense. I worked for a long time in that domain, and I enjoyed it so much.</p>\n\t<p>\n\t\tOne rec",
+        "id": 2353448,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/03/cpp-for-embedded-systems-constexpr-and-consteval-andreas-fertig",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "C++ for Embedded Systems: constexpr and consteval -- Andreas Fertig",
+        "vote": 0
+    }
+]

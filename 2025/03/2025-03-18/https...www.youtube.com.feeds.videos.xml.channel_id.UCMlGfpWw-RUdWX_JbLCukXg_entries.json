@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-18T15:07:05+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nModern C++ Development - Limitations and Problems in std::function and Similar Constructs: Mitigations and Alternatives - Amandeep Chawla - CppCon 2024\n---\n\nIn this talk, we will delve into the limitations and challenges associated with using std::function, std::packaged_task, std::apply, and similar constructs in modern C++ development. Despite their utility, these constructs often introduce performance overheads by invoking copies and moves of captured member variables, leading to increased complexity and unexpected behavior. I will share practical examples and common pitfalls encountered in real-world applications. Finally, I will present an alternative approach I have developed to mitigate these issues, offering a more efficient and reliable solution for developers.\n---\n\nSlides: https://github.com/CppCon/CppCon2024/blob/main/Presentations/Limitations_and_Problems_in_StdFunction_and_Similar.pdf\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n",
+        "id": 2350682,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=clpQVn_LAiM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/clpQVn_LAiM/hqdefault.jpg",
+        "title": "Modern C++ Development: Limitations and Problems in std::function and Similar Constructs - CppCon 24",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-18T20:00:11+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/Bu3S2A02FFc\" width=\"480\" alt=\"thumbnail\" title=\"An EU Linux Distro For The EU Public Sector\" /></p>There are quite a few European based Linux distros but what about a Linux distro made for the EU public sector.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Mastodon Post: https://eupolicy.social/@eu_os/114115337927383876<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord<br />\ud83d\udc26 Twitter: https://brodierobertson.xyz/twitter<br />\ud83c\udf10 Mastodon: https://br",
+        "id": 2353455,
+        "language": "en",
+        "link": "https://odysee.com/an-eu-linux-distro-for-the-eu-public:e52bb4160a9a7a6fcdcde46ce0ff161e6890cc97",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "An EU Linux Distro For The EU Public Sector",
+        "vote": 0
+    }
+]
