@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-19T16:49:21+00:00",
+        "description": "<p>NVIDIA has launched Dynamo, an open-source inference software designed to accelerate and scale reasoning models within AI factories. Efficiently managing and coordinating AI inference requests across a fleet of GPUs is a critical endeavour to ensure that AI factories can operate with optimal cost-effectiveness and maximise the generation of token revenue. As AI reasoning becomes [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/nvidia-dynamo-scaling-ai-inference-open-source-efficiency/\">NVIDIA Dynamo: Scaling AI inference with open-source efficiency</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 2360358,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/nvidia-dynamo-scaling-ai-inference-open-source-efficiency",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NVIDIA Dynamo: Scaling AI inference with open-source efficiency",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-19T11:17:18+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/Avw4NpXoeas\" width=\"480\" alt=\"thumbnail\" title=\"Ubuntu Ditches GNU Core Utilities (Because...Rust?)\" /></p>An employee at Canonical recently posted that they are planning to replace the GNU 'coreutils' with a Rust rewrite called 'uutils'.  Why?  Because Rust, that's why!<br /><br />REFERENCED:<br />\u25ba https://discourse.ubuntu.com/t/carefully-but-purposefully-oxidising-ubuntu/56995<br />\u25ba https://uutils.github.io/<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJWVnpQd3xBQ3Jtc0tsLVZJc19YeFlwZ2JqbXVOa3g0Skw4TVhTV2otNm1tM3A1bUNnamh3S2V6OGQtLTBnSjBxYTlvUXMxeEVIS3o4US10NENHMUQ3STk2a01FOFBhUnZjZFctMEhFUTg1TVctQmFfVUdxZXJ4TDl0azlYNA&q=https%3A%2F%2Fwww.paypal.com%2Fcgi-bin%2Fwebscr%3Fcmd%3D_donations%26business%3Dderek%2540distrotube%252ecom%26lc%3DUS%26item_name%3DDistroTube%26no_note%3D0%",
+        "id": 2357643,
+        "language": "en",
+        "link": "https://odysee.com/ubuntu-ditches-gnu-core-utilities:9ab15494d89fce287d566fc76ac00f35ab27b14c",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ubuntu Ditches GNU Core Utilities (Because...Rust?)",
+        "vote": 0
+    }
+]

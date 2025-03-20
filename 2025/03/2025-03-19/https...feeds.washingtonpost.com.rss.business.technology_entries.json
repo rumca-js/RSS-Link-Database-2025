@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-19T14:24:56+00:00",
+        "description": "Paragon software found to have infected WhatsApp accounts of figures critical of Italian government\u2019s policies toward migrants.",
+        "id": 2358928,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2025/03/19/italy-paragon-spyware-report",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Report details spyware use against Italian activists and journalist",
+        "vote": 0
+    }
+]

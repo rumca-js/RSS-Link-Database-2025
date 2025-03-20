@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-19T18:34:49+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><b></b><span>EFF was delighted to once again attend </span><a href=\"https://www.eff.org/deeplinks/2025/02/eff-rightscon-2025\"><span>RightsCon</span></a><span>\u2014this year hosted in Taipei, Taiwan between 24-27 February. As with previous years, RightsCon provided an invaluable opportunity for human rights experts, technologists, activists, and government representatives to discuss pressing human rights challenges and their potential solutions.\u00a0</span></p>\n<p><span>For some attending from EFF, this was the first RightsCon. For others, their 10th or 11th. But for all, one message was spoken loud and clear: the need to collectivize digital rights in the face of growing authoritarian governments and leaders occupying positions of power around the globe, as well as Big Tech\u2019s creation and provision of consumer technologies for use in rights-abusing ",
+        "id": 2361283,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/03/effs-reflections-rightscon-2025",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "EFF\u2019s Reflections from RightsCon 2025",
+        "vote": 0
+    }
+]

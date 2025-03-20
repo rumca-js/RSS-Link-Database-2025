@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-19T20:00:00+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/-tNACCZzqO0\" width=\"480\" alt=\"thumbnail\" title=\"Ubuntu Experiments With All Rust Core Utils!!\" /></p>Normally you expect Fedora to experiment with things before they're ready but this time Ubuntu is trying out uutils and possibly swapping to them come the next version an all rust rewrite of the GNU core utils.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />uutils Repo: https://github.com/uutils/coreutils<br />Ubuntu Post: https://discourse.ubuntu.com/t/carefully-but-purposefully-oxidising-ubuntu/56995<br />Earlier Post: https://discourse.ubuntu.com/t/engineering-ubuntu-for-the-next-20-years/55000<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz",
+        "id": 2362146,
+        "language": "en",
+        "link": "https://odysee.com/ubuntu-experiments-with-all-rust-core:4d8c4d4540553a7eb4001fca9f1112573f65e787",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ubuntu Experiments With All Rust Core Utils!!",
+        "vote": 0
+    }
+]

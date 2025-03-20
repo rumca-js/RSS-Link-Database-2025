@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-19T12:33:32+00:00",
+        "description": "Ready to become a certified Administrator - Cloud Pak for Security? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdGNQD\n\nLearn more about Disaster Recovery here \u2192 https://ibm.biz/BdGNQR\n\nTornadoes hit your data center, but what if ransomware infects your backups? \ud83c\udf2a\ufe0f\ud83d\udcbb Grant Harris explains disaster recovery vs operational resilience, showing how to protect against natural disasters and cyberattacks. Learn strategies like ransomware-proof backups and rapid recovery. \ud83d\ude80\n\nRead the Cost of a Data Breach report  \u2192 https://ibm.biz/BdGNQF\n\n#disasterrecovery #datasecurity #cyberresilience",
+        "id": 2358632,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=kr6fc869Ugs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kr6fc869Ugs/hqdefault.jpg",
+        "title": "Disaster Recovery vs Operational Resilience: Protecting Your Data",
+        "vote": 0
+    }
+]

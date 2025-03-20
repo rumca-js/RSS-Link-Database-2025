@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-19T12:35:14+00:00",
+        "description": "Head to https://squarespace.com/thelinuxexperiment to save 10% off your first purchase of a website or domain using code thelinuxexperiment\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en# https://www.youtube.com/watch?v=3d65Mnr8onE\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:34 Sponsor: Squarespace\n01:42 Desktop & Mutter changes\n07:30 New Settings\n11:39 App Changes\n14:33 Parting thoughts\n16:44 Sponsor: Tuxedo Computers\n17:28 Support the channel",
+        "id": 2357943,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1MQF1QQAYds",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1MQF1QQAYds/hqdefault.jpg",
+        "title": "GNOME 48 is a MAJOR update: HDR, Wellbeing, battery limits, global shortcuts, and more!",
+        "vote": 0
+    }
+]

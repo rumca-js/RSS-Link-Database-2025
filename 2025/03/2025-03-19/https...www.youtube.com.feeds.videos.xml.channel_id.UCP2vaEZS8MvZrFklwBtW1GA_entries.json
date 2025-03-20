@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Home Repair Tutor",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-19T11:00:30+00:00",
+        "description": "Tengo que instalar un platillo de ducha Schluter. Empotro el platillo en mortero y lo centro. Luego a\u00f1ado mortero al platillo. Para esto utilizo la llana KERDI. Y empotrar la membrana KERDI en el mortero. Quiero que sea plano para que impermeabilice el platillo contra el plato de ducha.",
+        "id": 2357456,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=EzfkS_tAlPs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 144,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP2vaEZS8MvZrFklwBtW1GA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EzfkS_tAlPs/hqdefault.jpg",
+        "title": "Consejos de instalaci\u00f3n del platillo de ducha Schluter - #shorts #consejos #homerepairtutor",
+        "vote": 0
+    }
+]

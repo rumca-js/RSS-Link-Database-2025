@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-19T06:14:40+00:00",
+        "description": "Sp\u00f3\u0142ki Skarbu Pa\u0144stwa zacz\u0119\u0142y dostrzega\u0107 potencja\u0142 drzemi\u0105cy w m\u0142odych firmach technologicznych \u2013 PZU og\u0142osi\u0142o w\u0142a\u015bnie, \u017ce na wsp\u00f3\u0142pracy z nimi zyska\u0142o ponad 200 mln z\u0142. Mocno na tak\u0105 kooperacj\u0119 stawiaj\u0105 te\u017c m.in. Orlen i PKO BP.",
+        "id": 2355673,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/biznes-ludzie-startupy/art41962931-voiceboty-cyberobrona-czy-badanie-ryzyka-raka-panstwowe-giganty-pokochaly-start-upy",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Voiceboty, cyberobrona czy badanie ryzyka raka. Pa\u0144stwowe giganty pokocha\u0142y start-upy",
+        "vote": 0
+    }
+]
