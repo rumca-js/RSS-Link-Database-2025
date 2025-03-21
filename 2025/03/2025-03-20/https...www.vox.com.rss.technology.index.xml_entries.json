@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-20T07:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"Brightly colored rays, clouds and stars surround a glowing spotify logo as if it\u2019s the sun\" data-caption=\"\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/03/ACE_Spotify_2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption></figcaption>\n</figure>\n<p class=\"has-text-align-none\">Last summer, I quit Spotify, and wrote about it with the rather unsubtle headline \u201c<a href=\"https://www.vox.com/technology/359788/technology-spotify-streaming-bundles\">Why I quit Spotify</a>.\u201d My reasons remain sound: The software had become clunky, the ads relentless, and <a href=\"https://www.vox.com/culture/357907/spotify-sabrina-carpenter-espresso-chappell-roan-algorithm\">the Sabrina Carpenter songs too inescapable</a>. I wanted to find a better music streaming service. It gives me no pleasure to report that a few weeks ago, I rejoined.</p>\n\n<p class=\"has-text-align-none\">The algorithm got me. I don\u2019",
+        "id": 2366038,
+        "language": null,
+        "link": "https://www.vox.com/even-better/404896/spotify-youtube-apple-music-amazon-playlists",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The surprising thing I learned from quitting Spotify",
+        "vote": 0
+    }
+]

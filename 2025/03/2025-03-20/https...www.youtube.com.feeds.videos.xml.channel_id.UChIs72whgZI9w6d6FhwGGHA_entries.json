@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-20T20:33:32+00:00",
+        "description": "Support GN and also have 10% of the sale go toward the Kramden Institute's e-waste and refurb program during this promo: https://store.gamersnexus.net/ We sponsored ourselves for this one, so grabbing one of our PC building modmats, project and soldering mats, dice kits, mugs, or other items will directly support us -- and while this lasts, the Kramden Institute!\nIn this video, we cover NVIDIA's GTC 2025 keynote, provide commentary on its market position and just how bizarre it is that NVIDIA is now in mainstream news nearly daily (coming from what once was 'just' a gaming company), and talk about its RTX Pro 6000 GPU (which is basically a Titan Blackwell GPU), Vera CPU, and Rubin GPU, plus its upcoming Feynman architecture. The actual news mostly involves the Rubin, Vera, and Feynman roadmap for the future and the 'Titan' class RTX Pro 6000. It's not a perfect GB202 die, but does step up the memory to 96GB ECC and increase CUDA core count from the 5090 class.\n\nLike our content? Plea",
+        "id": 2371638,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Dy1_9dcToJU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Dy1_9dcToJU/hqdefault.jpg",
+        "title": "This Is NVIDIA's World",
+        "vote": 0
+    }
+]

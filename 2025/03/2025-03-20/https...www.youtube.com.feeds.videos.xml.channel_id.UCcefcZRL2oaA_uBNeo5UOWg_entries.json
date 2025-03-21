@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-20T17:49:30+00:00",
+        "description": "He believes designers will be just as important, or even more essential, in the era of AI models.",
+        "id": 2369667,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=b_NdMJHX_aY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/b_NdMJHX_aY/hqdefault.jpg",
+        "title": "Dylan Field describes design as \u201cart as it applies to problem solving.\u201d",
+        "vote": 0
+    }
+]

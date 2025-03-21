@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-20T09:28:07+00:00",
+        "description": "France's research minister expressed 'concern' on Wednesday at this decision by the US authorities. The researcher underwent a random check on arrival, before his computer and phone were searched, a source said.",
+        "id": 2365251,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/international/article/2025/03/20/french-researcher-denied-entry-to-us-for-expressing-personal-opinion-on-trump-policies_6739346_4.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/03/19/464/0/5568/2784/644/322/60/0/92ea175_sirius-fs-upload-1-pzsbwpsl562w-1742403531784-ap21247602974787.jpg",
+        "title": "French researcher denied entry to US for 'expressing personal opinion' on Trump policies",
+        "vote": 0
+    }
+]

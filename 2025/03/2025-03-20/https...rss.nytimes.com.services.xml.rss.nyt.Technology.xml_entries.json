@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-20T09:00:34+00:00",
+        "description": "Steve Davis, a longtime Musk loyalist, is effectively the leader of the Department of Government Efficiency. Mr. Musk has likened him to chemotherapy.",
+        "id": 2365227,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/03/20/technology/elon-musk-steve-davis-doge.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/03/20/business/xxdavis-musk-illo/xxdavis-musk-illo-mediumSquareAt3X.jpg",
+        "title": "Meet Steve Davis, Elon Musk\u2019s Top Lieutenant Who Oversees DOGE",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan George",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-20T19:36:47+00:00",
+        "description": "Hey now, I\u2019m a @CandyCrushOfficial All Star! #candycrushpartner\n\nSelected level 5+. 18+. In-game event 09:00 EDT 20 March to 03:00 EDT 27 April, 2025. Participating countries only. Win the in-game event and receive an invite to the live contest 11-13 June in California to compete for a share of $1,000,000 USD. Requires US travel. T&Cs: to.king.com/terms. App contains optional in-game purchases. \u00a9 2025 King.com Ltd.",
+        "id": 2370109,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=tM6MW4jhbzU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 287,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh9IfI45mmk59eDvSWtuuhQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tM6MW4jhbzU/hqdefault.jpg",
+        "title": "When all that Candy Crush finally pays off",
+        "vote": 0
+    }
+]

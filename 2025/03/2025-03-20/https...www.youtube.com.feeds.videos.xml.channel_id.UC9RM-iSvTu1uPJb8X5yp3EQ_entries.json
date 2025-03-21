@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Wendover Productions",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-20T19:53:54+00:00",
+        "description": "Get an exclusive 15% discount on Saily data plans! Use code Wendover at checkout. Download Saily app or go to https://saily.com/wendover\n\nInstagram: http://Instagram.com/sam.from.wendover\nTwitter: http://www.Twitter.com/WendoverPro\nSponsorship Enquiries: wendover@standard.tv\nOther emails: sam@wendover.productions\nReddit: http://Reddit.com/r/WendoverProductions\nWriting by Sam Denby, Tristan Purdy, and Christine Benedetti\nEditing by Alexander Williard\nAnimation by Sara Stoltman, Derek Brown, and Kate Ermolenko\nSound by Manni Simon and Dony Bullen\nThumbnail by Simon Buckmaster\n\nReferences\n[1]\u00a0 https://www.jstor.org/stable/pdf/42747282.pdf?refreqid=fastly-default:6d072d56559c327d07aea278166c0dfb&ab_segments=0/basic_search_gsv2/control&initiator=search-results&acceptTC=1\u00a0\n[2] https://documents1.worldbank.org/curated/es/256221468752350809/pdf/multi-page.pdf",
+        "id": 2370571,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7u0_nrsfxXs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 390,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9RM-iSvTu1uPJb8X5yp3EQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7u0_nrsfxXs/hqdefault.jpg",
+        "title": "Why Japanese Railways Win",
+        "vote": 0
+    }
+]

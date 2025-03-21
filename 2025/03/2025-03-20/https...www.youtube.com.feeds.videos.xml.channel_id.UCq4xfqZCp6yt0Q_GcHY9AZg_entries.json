@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Patrick Tomasso",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-20T22:05:53.214125+00:00",
+        "description": null,
+        "id": 2371143,
+        "language": "en",
+        "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq4xfqZCp6yt0Q_GcHY9AZg",
+        "manual_status_code": 0,
+        "page_rating": 25,
+        "page_rating_contents": 80,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 607,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq4xfqZCp6yt0Q_GcHY9AZg",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Patrick Tomasso",
+        "vote": 0
+    }
+]

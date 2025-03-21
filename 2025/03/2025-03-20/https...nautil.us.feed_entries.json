@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-20T19:05:43+00:00",
+        "description": "<p>A conversation with Society of Illustrators executive director Arabelle Liepold.</p>\n<p>The post <a href=\"https://nautil.us/arabelle-liepold-interview-society-of-illustrators-1197869/\">Celebrating the Relationship Between Science and Illustration</a> appeared first on <a href=\"https://nautil.us\">Nautilus</a>.</p>",
+        "id": 2370312,
+        "language": "en-US",
+        "link": "https://nautil.us/arabelle-liepold-interview-society-of-illustrators-1197869",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 232,
+        "source_url": "https://nautil.us/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Celebrating the Relationship Between Science and Illustration",
+        "vote": 0
+    }
+]

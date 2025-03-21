@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-20T14:54:13+00:00",
+        "description": "The Norwegian man says the chatbot's maker OpenAI should be fined over the completely inaccurate information.",
+        "id": 2367811,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/c0kgydkr516o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c21/live/ab139c60-057f-11f0-94d4-6f954f5dcfa3.jpg",
+        "title": "Man files complaint after ChatGPT said he killed his children",
+        "vote": 0
+    }
+]

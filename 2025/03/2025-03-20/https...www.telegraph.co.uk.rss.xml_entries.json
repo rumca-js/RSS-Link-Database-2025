@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-20T07:39:34+00:00",
+        "description": "<![CDATA[<p>Britain\u2019s public sector headcount rose to its highest level since 2011, official figures show, as Rachel Reeves lays the groundwork to announce spending cuts next week.</p>]]>",
+        "id": 2364962,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2025/03/20/bank-of-england-interest-rates-employment-ftse-100-markets",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 357,
+        "source_url": "https://www.telegraph.co.uk/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Public sector employment hits 13-year high as Reeves prepares spending cuts",
+        "vote": 0
+    }
+]

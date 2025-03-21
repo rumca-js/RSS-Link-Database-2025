@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-20T22:41:55+00:00",
+        "description": "How a helicopter built of phone parts survived Mars for 3 years. Use code veritasium at https://incogni.com/veritasium to get an exclusive 60% off an annual Incogni plan.\n\nTry Snatoms! A molecular modelling kit I invented where the atoms snap together.\nhttps://ve42.co/SnatomsV \n\n\u2580\u2580\u2580\nA massive thank you to the team at JPL and especially Teddy Tzanetos, Travis Brown, H\u00e5vard Grip and DC Agle\n\nCheck out Astrum's video on Mars - https://www.youtube.com/watch?v=b7mjp7MDx_w\n\n\u2580\u2580\u2580\n0:00 How Did Ingenuity Get To Mars?\n3:23 Better Results, Bigger Expectations\n6:15 Wobblecopter\n7:48 Dust On Mars\n9:41 What Is The Temperature On Mars?\n11:54 11am Wake-Up Call\n13:41 Android To The Rescue\n16:22 Cosmic Rays\n20:53 Dune and The Crash\n25:26 The Next Generation\n\n\u2580\u2580\u2580\nReferences:\n\nIngenuity Mars Helicopter - NASA Science via science.nasa.gov - https://ve42.co/marsheli \nOnline Planetarium and calculator via theskylive.com - https://ve42.co/skyplanets \nIngenuity Poised for First Extraterrestrial Flight via www",
+        "id": 2371707,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=20vUNgRdB4o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/20vUNgRdB4o/hqdefault.jpg",
+        "title": "What If You Fly A Helicopter On Mars?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-20T17:00:40+00:00",
+        "description": "Visit https://www.squarespace.com/LTT and use offer code LTT for 10% off\n\nGet the most out of your graphics card and monitor with Silklands VESA certified DisplayPort 2.1 cables using our links!\n\nSilkland DP80 Cables: https://lmg.gg/L6kCw\nSilkland Store: https://lmg.gg/dW8Zx\n\nIt\u2019s no wonder GeForce RTX 50-series Founder\u2019s Edition power connectors are melting, what with nVidia insisting on using tiny little connectors, and THEN making matters worse by wiring them up in a way sure to make an electronics engineer cringe. We joked on the WAN show that someone should just use an XT60 connector to solve the problem!  \n\nThen helpful viewer erg142 reminded us that we make videos where we do stupid things like that all the time, so here we are. Thanks erg142!\n\nFor more on the 12VHPWR connector, check out this reddit post: https://www.reddit.com/r/pcmasterrace/comments/1io4a67/an_electrical_eng\n\nDiscuss on the forum: https://linustechtips.com/topic/1606023-i-fixed-the-5090%E2%80%99s-melting-po",
+        "id": 2369362,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=WzwrLLg1RR4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WzwrLLg1RR4/hqdefault.jpg",
+        "title": "I Fixed the 5090\u2019s Melting Power Connector...But YOU Shouldn't",
+        "vote": 0
+    }
+]
