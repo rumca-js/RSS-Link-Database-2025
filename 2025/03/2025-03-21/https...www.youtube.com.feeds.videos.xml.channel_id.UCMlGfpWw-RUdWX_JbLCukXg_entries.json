@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-21T15:07:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nBack to Basics: Lifetime Management in Cpp - Phil Nash - CppCon 2024\n---\n\nLifetime management in C++ is flexible and powerful. But this comes with complexity and lots of ways to shoot your leg off. That has only gotten worse as the language has evolved.\n\nThis talk introduces or recaps the so-called Rule of 0 and Rule of 5, which suggest that you should aim to need no Special Member Functions (customs constructors, destructors assignment operators) for most of your types. But if you do need them, you probably need all 5.\n\nBut if we do need to implement them it can still be hard to know what to do. It helps to know what sort of type you are dealing with, so we\u2019ll break down the common categories.\n\nAlong the way we\u2019ll look at vocabulary types we already have in the C++ standard library that can help us move more of our code into the realm of the Rule of 0.\n\nCome with us on a journey through these rules, type categories and behaviours and start to make sense of l",
+        "id": 2376508,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=aMvIv6blzBs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aMvIv6blzBs/hqdefault.jpg",
+        "title": "Back to Basics: Lifetime Management in Cpp - Phil Nash - CppCon 2024",
+        "vote": 0
+    }
+]

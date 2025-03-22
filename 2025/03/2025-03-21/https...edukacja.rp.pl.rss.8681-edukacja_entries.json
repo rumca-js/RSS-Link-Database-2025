@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-21T03:15:50+00:00",
+        "description": "Podwy\u017cka, wyr\u00f3wnanie, wy\u017csze dodatki w stolicy \u2013 wszystko wskazuje na to, \u017ce obecna w\u0142adza poszukuje g\u0142os\u00f3w przed wyborami prezydenckimi w\u015br\u00f3d pracownik\u00f3w o\u015bwiaty. Problem w tym, \u017ce nauczyciele s\u0105 obecn\u0105 w\u0142adz\u0105 rozczarowani.",
+        "id": 2372564,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/edukacja/art41976881-nauczyciele-dostana-podwyzki-przed-wyborami-czy-to-celowe-dzialanie-men",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nauczyciele dostan\u0105 podwy\u017cki przed wyborami. Czy to celowe dzia\u0142anie MEN?",
+        "vote": 0
+    }
+]

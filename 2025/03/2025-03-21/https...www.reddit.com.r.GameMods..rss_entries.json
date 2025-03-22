@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-21T17:29:05+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Steam Game Idler (SGI) is a lightweight, user-friendly application designed to help you farm trading cards, unlock achievements, and boost playtime for any game in your Steam library.</p> <ul> <li>13,000 downloads</li> <li>100+ stars on GitHub</li> </ul> <p><strong>DOWNLOAD</strong></p> <p><a href=\"https://github.com/zevnda/steam-game-idler\">https://github.com/zevnda/steam-game-idler</a><br/> <a href=\"https://github.com/zevnda/steam-game-idler/releases\">https://github.com/zevnda/steam-game-idler/releases</a></p> <p><strong>FEATURES</strong></p> <ul> <li>Card Farming: Farm trading cards that can be sold for a profit, or to craft badges</li> <li>Achievement Unlocker: Automatically unlock achievements with human-like settings</li> <li>Playtime Booster: Boost any game&#39;s total playtime by manually idling them</li> <li>Achievement Manager: Manually unlock and lock any achievement for any game</li> <li>Auto Game Idler: Automatically idle chosen games wh",
+        "id": 2377585,
+        "language": null,
+        "link": "https://www.reddit.com/r/GameMods/comments/1jgme7m/steam_game_idler_a_steam_trading_card_farmer",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 533,
+        "source_url": "https://www.reddit.com/r/GameMods/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Steam Game Idler - A Steam trading card farmer & achievement unlocker",
+        "vote": 0
+    }
+]

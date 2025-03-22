@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-21T14:00:00+00:00",
+        "description": "Even as Yahoo turns 30, CEO Jim Lanzone says the company is still in \u201cbuilding mode.\u201d",
+        "id": 2375311,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/plaintext-yahoo-turns-30-jim-lanzone",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/67db1e6a42afb537aee0c2a6/master/pass/Plaintext-Jim-Lanzone-Business-1251945664jpg.jpg",
+        "title": "Yahoo Is Still Here\u2014and It Has Big Plans for AI",
+        "vote": 0
+    }
+]

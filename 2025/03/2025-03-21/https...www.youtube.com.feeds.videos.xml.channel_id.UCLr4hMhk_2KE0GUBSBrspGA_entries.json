@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-21T13:43:58+00:00",
+        "description": "Do mojego pierwotnego filmu o MacBooku AIR M4 wdar\u0142 si\u0119 b\u0142\u0105d, kt\u00f3ry sugerowa\u0142, \u017ce ekran Macbooka Pro M4 jest du\u017co gorszy ni\u017c jest w rzeczywisto\u015bci. Ten kr\u00f3tki film jest uzupe\u0142nieniem tamtego.",
+        "id": 2375281,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=U9mdUJ8lrMk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/U9mdUJ8lrMk/hqdefault.jpg",
+        "title": "Macbook AIR M4 - Errata",
+        "vote": 0
+    }
+]

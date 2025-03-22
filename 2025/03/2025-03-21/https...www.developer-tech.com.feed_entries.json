@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-21T15:15:00+00:00",
+        "description": "<p>AI was a significant catalyst for change last year. In 2025, organisations that have already started integrating AI into their processes will begin to see a return on investment, allowing them to refine and refocus their use of AI in software development. Recent research by GitLab found that 78% of organisations either actively use AI<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/ai-in-software-development-looking-beyond-code-generation/\" title=\"ReadAI in software development: Looking beyond code generation\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/ai-in-software-development-looking-beyond-code-generation/\">AI in software development: Looking beyond code generation</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2376622,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/ai-in-software-development-looking-beyond-code-generation",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AI in software development: Looking beyond code generation",
+        "vote": 0
+    }
+]

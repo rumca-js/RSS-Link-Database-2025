@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-21T02:17:34+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Anyone experience this? I sometimes have grabs that are extremely slow, like right now a 6GB file says it&#39;s taking 7 hours. Usually a file like this will take just a few minutes on my 500mb download speed. </p> <p>I tried from althub and geek. I have Tweaknews and Cubenet.</p> <p>This is a brand new release that came out in the last hour or so. Could this matter (others also grabbing it and slowing it down?)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/burajin\"> /u/burajin </a> <br/> <span><a href=\"https://www.reddit.com/r/usenet/comments/1jg6cdo/periodically_a_download_will_be_slow_as_molasses/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/usenet/comments/1jg6cdo/periodically_a_download_will_be_slow_as_molasses/\">[comments]</a></span>",
+        "id": 2372459,
+        "language": null,
+        "link": "https://www.reddit.com/r/usenet/comments/1jg6cdo/periodically_a_download_will_be_slow_as_molasses",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Periodically a download will be slow as molasses",
+        "vote": 0
+    }
+]

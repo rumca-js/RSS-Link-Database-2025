@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Timur Doumler & Phil Nash",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-21T09:00:00+00:00",
+        "description": "Timur and Phil return after an extended break with news and updates\n        <h3>News</h3>\n<ul>\n<li><a href=\"https://thenewstack.io/bjarne-stroustrup-on-how-he-sees-c-evolving/\">Bjarne Stroustrup on How He Sees C++ Evolving</a></li>\n<li>Conferences round-up:<ul>\n<li><a href=\"https://accuconference.org/2025/schedule\">ACCU Conference 2025</a></li>\n<li><a href=\"https://cppnow.org/announcements/2025/03/2025-program-announced/\">C++ Now 2025</a></li>\n<li><a href=\"https://cpponsea.uk/news/dates-keynotes-and-call-for-speakers-for-2025\">C++ on Sea 2025</a></li>\n<li><a href=\"https://cppnorth.ca\">C++ North 2025</a></li>\n<li><a href=\"https://cppcon.org\">CppCon</a></li>\n</ul>\n</li>\n<li>New Meetups:<ul>\n<li><a href=\"https://www.meetup.com/singapore-cpp-meetup-group/\">Singapore C++ USers Group</a></li>\n<li><a href=\"https://www.meetup.com/accu-cambridge/\">ACCU Cambridge</a></li>\n</ul>\n</li>\n</ul>\n<h3>Links</h3>\n<ul>\n<li><a href=\"https://www.youtube.com/watch?v=NDyRiT3ZOMY\">\"Contracts and Safety for C",
+        "id": 2378582,
+        "language": "en",
+        "link": "https://cppcast.com/news_and_catch-up",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 80,
+        "source_url": "https://cppcast.com/feed.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "News and Catch-up",
+        "vote": 0
+    }
+]

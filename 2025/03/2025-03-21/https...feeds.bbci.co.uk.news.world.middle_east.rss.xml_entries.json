@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-21T01:21:25+00:00",
+        "description": "The Israeli PM cited Shin Bet's failure to anticipate the 7 October attack - but the move has sparked outrage and protests.",
+        "id": 2372353,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cwygkknzn9yo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87a9/live/766782c0-05b5-11f0-88b7-5556e7b55c5e.jpg",
+        "title": "Netanyahu fires Israel's security chief over 'distrust'",
+        "vote": 0
+    }
+]

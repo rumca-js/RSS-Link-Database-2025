@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-21T08:22:00+00:00",
+        "description": "Simply say it. The first minute of a speech, the first paragraph of a novel or the tuning of the orchestra before they begin&#8230; The performance improves if we skip that part. Sometimes, our throat actually needs clearing. But most of the time, we&#8217;re hooked on a ritual that doesn&#8217;t benefit the audience. If you [&#8230;]",
+        "id": 2373832,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/03/throat-clearing",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Throat clearing",
+        "vote": 0
+    }
+]

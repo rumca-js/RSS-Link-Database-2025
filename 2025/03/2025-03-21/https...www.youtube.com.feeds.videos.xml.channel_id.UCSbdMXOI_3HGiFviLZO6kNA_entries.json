@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThrillSeeker",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-21T21:23:18+00:00",
+        "description": "Hello and Welcome to, TUESDAY NEWSDAY! Your number one resource for the entire week's worth of VR News! THIS WAS A GOOD WEEK!\n\nYou can find my APKs available this weekend at:\nPatreon.com/Thrillseeker\n\nJoin my VR community:\nDiscord.GG/Thrill\n\nBigscreen announced the BEYOND 2; a VR  headset that I am incredibly excited for. I have been testing the headset in hand for the past few weeks, here are my impressions!\n\nAlso.. Arguably an even bigger deal.. Meta released passthrough camera access for Quest. Pandora's box has been opened. Lots of things are moving.",
+        "id": 2379447,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=MPg1TNarCDs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 368,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSbdMXOI_3HGiFviLZO6kNA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MPg1TNarCDs/hqdefault.jpg",
+        "title": "The Beyond 2 is Actually Insane.",
+        "vote": 0
+    }
+]

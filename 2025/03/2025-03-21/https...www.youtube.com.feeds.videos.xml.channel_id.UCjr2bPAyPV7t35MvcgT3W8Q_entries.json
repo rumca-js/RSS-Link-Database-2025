@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Hated One",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-21T17:48:47+00:00",
+        "description": "This is a 99% deGoogled phone. Support my work: https://www.patreon.com/thehatedone \n\nList of Google alternatives\n\nGoogle Search\nDuckDuckGo https://duckduckgo.com/\nQwant https://www.qwant.com/\nLeta by Mullvad https://leta.mullvad.net/\nEcosia https://www.ecosia.org/\n\nGoogle Chrome\nVanadium by GrapheneOS\nMullvad Browser https://mullvad.net/en/browser\nTor https://www.torproject.org/download/\nFirefox https://www.mozilla.org/en-US/firefox/new/\nBrave https://brave.com/download/\n\nGmail\nTuta Mail https://tuta.com/\nProtonMail https://proton.me/mail\nAnd SimpleLogin https://simplelogin.io/\n\nGoogle Drive\nTresorit https://tresorit.com/\nProton Drive https://proton.me/drive\n\nGoogle Docs\nLibre Office https://www.libreoffice.org/\nCryptpad https://cryptpad.fr/\n\nGoogle Maps\nOSMAND https://osmand.net/\nOrganic Maps https://organicmaps.app/\n\nAndroid\nGrapheneOS https://grapheneos.org/\n\nPlay Store\nAccrescent https://accrescent.app/\nObtanium https://obtainium.imranr.dev/\nAurora https://auroraoss.com/\n\nYou wa",
+        "id": 2378078,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=nnLSWBBQSEU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 344,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nnLSWBBQSEU/hqdefault.jpg",
+        "title": "No! THIS is a DeGoogled phone!",
+        "vote": 0
+    }
+]

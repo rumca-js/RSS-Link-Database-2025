@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-21T10:00:39+00:00",
+        "description": "Visit Mixture of Experts podcast page to learn more AI content \u2192  https://ibm.biz/BdGWTJ\nLearn more about artificial intelligence \u2192 https://ibm.biz/BdGWTA\n\nWhat\u2019s the most exciting announcement coming out of NVIDIA GTC? In episode 47 of Mixture of Experts, host Tim Hwang is joined by Nathalie Baracaldo, Kaoutar El Maghraoui and Vyoma Gajjar. First, we dive into the latest announcements from NVIDIA GTC, including the Groot N1 model for humanoid robotics. Next, Baidu released some new AI reasoning models, and they\u2019re not open source? Then, for our paper of the week we discuss the flaws of Chain-of-Thought reasoning. Finally, Gemini Flash 2.0 has released image generation models for developer experimentation. Is Google catching up on the AI game? Tune in to today\u2019s Mixture of Experts to find out!\n\n00:00 \u2013 Intro \n01:27 \u2013 NVIDIA GTC\n14:18 \u2013 New Baidu AI models\n21:19 \u2013 Chain-of-Thought reasoning\n32:18 \u2013 Gemini image generation\n\nSubscribe for AI updates \u2192 https://ibm.biz/BdGWTu\n\nThe opinion",
+        "id": 2374291,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=TsDdk7xHhMY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TsDdk7xHhMY/hqdefault.jpg",
+        "title": "NVIDIA GTC, Baidu reasoning models and Gemini AI image generation",
+        "vote": 0
+    }
+]

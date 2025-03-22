@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-21T20:00:19+00:00",
+        "description": "Asteroids \u2013 we\u2019ve held a grudge against them since one wiped out the dinosaurs 66 million years ago. But we should probably let it go. Without asteroids, we wouldn\u2019t have water or even life on Earth. So, thanks, space rocks.\n\nNow, about Davida \u2013 one asteroid worth 27 quintillion dollars. That\u2019s 27,000 times the combined GDP of every country. But why aren\u2019t we mining them? Because getting to asteroids and extracting resources is incredibly difficult and expensive. It\u2019s not like zipping through an asteroid field in a Millennium Falcon. And even if we manage it, it\u2019s still a massive financial risk.\n\nStill, asteroid mining could fund things like colonising Mars. But for now, it\u2019s a distant dream \u2013 one worth watching, though.",
+        "id": 2378733,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=HpD0Iv9aQPQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HpD0Iv9aQPQ/hqdefault.jpg",
+        "title": "Asteroids could make us wealthier than ever before.",
+        "vote": 0
+    }
+]

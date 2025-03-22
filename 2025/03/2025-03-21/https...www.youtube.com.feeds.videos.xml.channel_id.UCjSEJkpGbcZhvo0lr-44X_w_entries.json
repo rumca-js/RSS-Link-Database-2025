@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "TechHut",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-21T14:29:13+00:00",
+        "description": "The first 500 people to use my link  https://skl.sh/techhut03251 will get a 1 month free trial of Skillshare! ~ Linux Mint is one of the very best Linux distros out there and there is good reason why it's so recommend to newcomers. It's stable, easy to use, and based on Debain/Ubuntu making finding resources and troubleshooting easy.\n\n\ud83d\udcd6 RESOURCES\nhttps://linuxmint.com/\n\n\ud83c\udfc6 FOLOW TECHHUT\nX (Twitter): https://bit.ly/twitter-techhut\nMASTODON: https://bit.ly/mastodon-techhut\nBlueSky: https://bsky.app/profile/techhut.bsky.social\nINSTAGRAM: https://bit.ly/personal-insta\n\n\ud83d\udc4f SUPPORT TECHHUT (all links below this line will earn us commission)\nBUY A COFFEE: https://buymeacoffee.com/techhut\nYOUTUBE MEMBER: https://bit.ly/members-techhut\n\n\u2014PAID/AFFILIATE LINKS BELOW\u2014\n\n\ud83d\udece RECOMMENDED SERVICES\nVPN I USE: https://airvpn.org/?referred_by=673908\n\n\ud83d\udcf7 MY GEAR \nHARD DRIVES: https://serverpartdeals.com/techhut\nMinisForum Tablet: https://amzn.to/3SeMmds\nBeelink N200: https://amzn.to/3xZjeQs\nRaspberry Pi 5: h",
+        "id": 2377111,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=eIJHDikWkM4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 430,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eIJHDikWkM4/hqdefault.jpg",
+        "title": "the BEST Linux Distro for Beginners",
+        "vote": 0
+    }
+]
