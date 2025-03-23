@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CodingEntrepreneurs",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-22T18:33:28+00:00",
+        "description": "FastAPI Python Tutorial: Build an Analytics API from Scratch\n\nOwn your own data pipeline and built an Analytics API from scratch in this tutorial. We'll go step-by-step building a production-ready API microservice so you can harness time-series data to analyze traffic of any web application. \n\n\ud83d\udd79\ufe0f Key Tech:\n- Python\n- FastAPI\n- SQLModel + SQLAlchemy\n- TimescaleDB\n- Docker\n\n\ud83d\udd17 Links & References\n- Course Code: https://github.com/codingforentrepreneurs/analytics-api\n- Sign up for Timescale with my link: https://tsdb.co/justin-api-1\n- pip install timescaledb-python: https://github.com/jmitchel3/timescaledb-python\n- Railway Templates: fastapicontainer.com & jupytercontainer.com\n- FastAPI https://fastapi.tiangolo.com/\n- SQLModel: sqlmodel.tiangolo.com/\n\n\ud83d\udc49 Topics Covered:\n\u2705 Development Environment Setup - Install Python 3, create virtual environments, and set up your workspace properly. All from scratch.\n\u2705  FastAPI Fundamentals - Build your first API endpoints in minutes with Python basics.\n",
+        "id": 2384244,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=tiBeLLv5GJo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 74,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWEHue8kksIaktO8KTTN_zg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/tiBeLLv5GJo/hqdefault.jpg",
+        "title": "FastAPI Python Tutorial: Build an Analytics API from Scratch",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-22T07:59:56+00:00",
+        "description": "Czy mo\u017cna zepsu\u0107 AI? Mo\u017cna (gdyby to by\u0142o z\u0142e, to wiadomo co) - i to w zaskakuj\u0105co prosty spos\u00f3b. Zobacz, jak zatruwanie danych mo\u017ce wp\u0142ywa\u0107 na algorytmy, manipulowa\u0107 opini\u0105 publiczn\u0105 i zmienia\u0107 spos\u00f3b, w jaki postrzegamy \u015bwiat!\n\n\u0179r\u00f3d\u0142o: https://arxiv.org/pdf/2310.13828 \n\n#AI #manipulacja #fakenews #datapoisoning #cyberbezpiecze\u0144stwo #GPT #shorts",
+        "id": 2381553,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=wnI_87EZFOo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wnI_87EZFOo/hqdefault.jpg",
+        "title": "\u2620\ufe0f Jak zatru\u0107 AI?",
+        "vote": 0
+    }
+]

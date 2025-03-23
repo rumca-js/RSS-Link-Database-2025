@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-22T12:00:34+00:00",
+        "description": "Though Corita Kent\u2019s artworks were made over half a century ago, they still feel relevant in today\u2019s America, for better or for worse.",
+        "id": 2382503,
+        "language": "en",
+        "link": "https://observer.com/2025/03/pop-art-nun-corita-art-center-los-angeles-corita-kent-artist",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A New Cultural Center Opens Honoring the Legacy of L.A.\u2019s Pop Art Nun",
+        "vote": 0
+    }
+]

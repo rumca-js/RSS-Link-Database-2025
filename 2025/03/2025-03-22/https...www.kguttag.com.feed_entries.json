@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-22T00:24:29.175262+00:00",
+        "description": "Karl Guttag On Technology",
+        "id": 2379942,
+        "language": "en-US",
+        "link": "https://www.kguttag.com/feed",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 487,
+        "source_url": "https://www.kguttag.com/feed",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": "https://i0.wp.com/kguttag.com/wp-content/uploads/2020/09/cropped-cc96c-2020-sq-logo-005-1.png?fit=32%2C32&ssl=1",
+        "title": "KGOnTech",
+        "vote": 0
+    }
+]

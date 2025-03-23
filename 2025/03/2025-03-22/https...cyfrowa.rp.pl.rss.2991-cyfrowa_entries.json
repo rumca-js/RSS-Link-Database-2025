@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-22T14:37:26+00:00",
+        "description": "Na jednym z serwis\u00f3w hakerzy wystawili na sprzeda\u017c dane prawie 25 mln klient\u00f3w Empiku. Firma potwierdza, \u017ce do ataku dosz\u0142o i walczy z jego skutkami.",
+        "id": 2382899,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/it/art41992911-empik-zaatakowany-wyciekly-dane-milionow-klientow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Empik zaatakowany. Wyciek\u0142y dane milion\u00f3w klient\u00f3w",
+        "vote": 0
+    }
+]

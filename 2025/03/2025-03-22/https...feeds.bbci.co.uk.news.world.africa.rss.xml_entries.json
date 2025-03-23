@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-22T21:39:39+00:00",
+        "description": "Sudan hold Senegal to a draw in qualifying for the 2026 World Cup and remain top of their group despite civil war continuing in the country.",
+        "id": 2385224,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/sport/football/articles/c5y2w12n6d9o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02a7/live/aa96a9d0-0764-11f0-8ef8-d90499625106.jpg",
+        "title": "Senegal held by Sudan in World Cup qualifying",
+        "vote": 0
+    }
+]

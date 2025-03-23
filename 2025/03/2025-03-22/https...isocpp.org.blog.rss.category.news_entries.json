@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-22T20:38:01+00:00",
+        "description": "<p>\n\t<img alt=\"stroustrupvision.png\" src=\"https://isocpp.org/files/img/stroustrupvision.png\" style=\"width: 400px; margin: 10px; float: right;\" />Bjarne Stroustrup, the creator of C++, has outlined his vision for the language&rsquo;s future in his article <em data-end=\"125\" data-start=\"104\">\"21st Century C++,\"</em> emphasizing the need for safer and more modern coding practices without abandoning its powerful legacy. His approach advocates for incremental improvements, such as guideline-enforcing profiles and enhanced type safety, ensuring C++ remains relevant in an era of heightened security and performance demands.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.universitycube.net/news/bjarne-str-03-08-2025--840fa45f-c783-4535-82c2-fb3eecd81c31\">Bjarne Stroustrup&#39;s Vision for 21st Century C++: Balancing Legacy, Safety, and Innovation</a></h3>\n\t<p>\n\t\tby Darryl K. Taft &amp; David Cassel</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tBjarne Stroustrup, the mind beh",
+        "id": 2384859,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/03/bjarne-stroustrups-vision-for-21st-century-cpp-darryl-k.-taft-david-cassel",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bjarne Stroustrup's Vision for 21st Century C++ -- Darryl K. Taft &amp; David Cassel",
+        "vote": 0
+    }
+]

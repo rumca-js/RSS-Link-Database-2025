@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-22T17:00:18+00:00",
+        "description": "China eyes AI dominance with massive data advantage, risking mass layoffs at home and fueling a high-stakes global showdown.",
+        "id": 2384005,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/china/chinas-ai-drive-spurs-domestic-job-loss-fears-amid-tension-with-us-5825471",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/03/08/id5822256-GettyImages-2195800094-1080x720.jpg",
+        "title": "China\u2019s AI Drive Spurs Domestic Job Loss Fears Amid Tension With US",
+        "vote": 0
+    }
+]

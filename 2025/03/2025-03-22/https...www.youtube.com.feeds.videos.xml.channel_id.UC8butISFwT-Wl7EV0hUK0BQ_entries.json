@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-22T00:45:03+00:00",
+        "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Francesco Ciulla. He's a software engineer who has worked with the European Space Agency on code that powers the Copernicus satellite program. More recently he's published courses on learning Docker and the Rust programming language.\n\nWe talk about:\n- How Francesco worked as a volleyball coach until we was 32, before getting serious about coding\n- Francesco's work on coding satellites\n- How he's given dozens of talks about emerging tools at major tech conferences\n- How he creates tech tutorials even though he's a proud introvert who has to put himself out there\n\nSupport for this podcast comes from a grant from Wix Studio. Wix Studio provides developers tools to rapidly build websites with everything out-of-the-box, then extend, replace, and break boundaries with code. Learn more at https://wixstudio.com.\n\nSupport also comes from the 11,384 kind folks who support freeCodeCamp through a monthly donatio",
+        "id": 2380172,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=YDLDCm3bPfU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YDLDCm3bPfU/hqdefault.jpg",
+        "title": "From hating coding to programming satellites at age 37 \u2013 Francesco Ciulla interview [Podcast #165]",
+        "vote": 0
+    }
+]

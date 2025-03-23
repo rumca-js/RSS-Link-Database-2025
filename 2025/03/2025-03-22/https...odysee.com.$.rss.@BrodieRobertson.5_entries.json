@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-22T20:00:01+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/2dssUrhBvy8\" width=\"480\" alt=\"thumbnail\" title=\"Don't Fall For This Github Phishing Attack!!\" /></p>You might not expect Github to be a platform where people might for a scam or phishing attempt but that doesn't mean that people aren't going to try. In this case by abusing the way that the issue tracker works.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Twitter Post: https://x.com/luciascarlet/status/1901320535344116173<br />Bleeping Computer: https://www.bleepingcomputer.com/news/security/fake-security-alert-issues-on-github-use-oauth-app-to-hijack-accounts/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://tec",
+        "id": 2385145,
+        "language": "en",
+        "link": "https://odysee.com/don%27t-fall-for-this-github-phishing:decd8b0d6627f98ff56e9328f378dd3be547b3f3",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Don't Fall For This Github Phishing Attack!!",
+        "vote": 0
+    }
+]

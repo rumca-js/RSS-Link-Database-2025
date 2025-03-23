@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-22T03:15:49+00:00",
+        "description": "Learn how to debloat Brave Browser in just minutes! In this quick and easy tutorial, we'll show you how to remove unnecessary features, disable extensions, and optimize Brave for lightning-fast performance. Whether you're a tech-savvy user or a beginner, this guide will help you unlock the full potential of your browser.\n\nTake back control of your online history with Redact.dev, the tool that lets you automate the deletion of your posts and messages across major platforms, all while archiving your data locally. Use Code TECHLORE10 for a discount: https://redact.dev/techlore\n\n10 Privacy Tools I Use Daily: https://youtu.be/zFbx-3pPVjU\n\n\ud83d\udd10 Techlore Homepage: https://techlore.tech\n\ud83d\udd75 Go Incognito Course: https://techlore.tech/goincognito\n\ud83d\udcbb Techlore Community: https://discuss.techlore.tech\n\ud83c\udfeb Techlore Coaching: https://techlore.tech/coaching\n\ud83d\udcac Signal Group: https://discuss.techlore.tech/t/signal-usernames-are-here-join-our-signal-group-techlore/7640\n\nWe cannot provide our content without our",
+        "id": 2380602,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=W6cKFliWW6Q",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/W6cKFliWW6Q/hqdefault.jpg",
+        "title": "Debloat Brave Browser Now! | Minimal Brave Tutorial",
+        "vote": 0
+    }
+]

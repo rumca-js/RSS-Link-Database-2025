@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-22T13:23:11+00:00",
+        "description": "<p>Jak informuje nas czytelnik Arkadiusz, na jednym z cyberprzest\u0119pczych for\u00f3w kto\u015b\u00a0opublikowa\u0142 og\u0142oszenie sprzeda\u017cy bazy, kt\u00f3ra ma zawiera\u0107 dane pono\u0107 24 milion\u00f3w klient\u00f3w Empiku. Oto screen dodanego og\u0142oszenia:</p>\n<p><a href=\"https://niebezpiecznik.pl/wp-content/uploads/2025/03/empik-wyciek.jpg\"><img fetchpriority=\"high\" decoding=\"async\" src=\"https://niebezpiecznik.pl/wp-content/uploads/2025/03/empik-wyciek-600x528.jpg\" alt=\"\" width=\"600\" height=\"528\" class=\"aligncenter size-large wp-image-26370\" srcset=\"https://niebezpiecznik.pl/wp-content/uploads/2025/03/empik-wyciek-600x528.jpg 600w, https://niebezpiecznik.pl/wp-content/uploads/2025/03/empik-wyciek-284x250.jpg 284w, https://niebezpiecznik.pl/wp-content/uploads/2025/03/empik-wyciek-768x675.jpg 768w, https://niebezpiecznik.pl/wp-content/uploads/2025/03/empik-wyciek.jpg 1444w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a></p>\n<p>Sprzedawca do og\u0142oszenia doda\u0142 pr\u00f3bk\u0119, kt\u00f3ra zawiera dane kilkudziesi\u0119ciu klient\u00f3w:</p>\n<p><a href=\"ht",
+        "id": 2383021,
+        "language": null,
+        "link": "https://niebezpiecznik.pl/post/wyciek-danych-klientow-empiku",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wyciek danych klient\u00f3w Empiku",
+        "vote": 0
+    }
+]

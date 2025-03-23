@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-22T07:00:47+00:00",
+        "description": "The price of VR headsets is now one of the factors used by the UK government to measure inflation, a reflection of VR entering the mainstream.",
+        "id": 2382836,
+        "language": null,
+        "link": "https://www.uploadvr.com/vr-headset-prices-now-used-by-the-uk-to-measure-inflation",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 375,
+        "source_url": "https://www.uploadvr.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.uploadvr.com/content/images/2025/03/PS-VR2-and-Quest-3S-boxes.png",
+        "title": "VR Headset Prices Are Now Used By The UK To Measure Inflation",
+        "vote": 0
+    }
+]

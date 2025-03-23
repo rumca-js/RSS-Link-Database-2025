@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-22T09:03:00+00:00",
+        "description": "The plot of 2001: A Space Odyssey is pretty simple. You could write out a summary in three paragraphs. That&#8217;s not what made it one of the most revered movies of all time, and also one of the most difficult to make. Blurting out the plot of what we&#8217;re offering seems like the obvious thing [&#8230;]",
+        "id": 2381585,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/03/maybe-its-in-how-you-tell-it",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Maybe it\u2019s in how you tell it",
+        "vote": 0
+    }
+]

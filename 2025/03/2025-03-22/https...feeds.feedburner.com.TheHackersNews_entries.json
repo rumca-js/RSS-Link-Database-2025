@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-22T08:40:41+00:00",
+        "description": "The U.S. Treasury Department has announced that it's removing sanctions against Tornado Cash, a cryptocurrency mixer service that has been accused of aiding the North Korea-linked Lazarus Group to launder their ill-gotten proceeds.\n\"Based on the Administration's review of the novel legal and policy issues raised by use of financial sanctions against financial and commercial activity occurring",
+        "id": 2381409,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2025/03/us-treasury-lifts-tornado-cash.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "U.S. Treasury Lifts Tornado Cash Sanctions Amid North Korea Money Laundering Probe",
+        "vote": 0
+    }
+]
