@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-23T17:24:10+00:00",
+        "description": "<p>MG Siegler returns to the show to talk about the drama surrounding Siri and Apple Intelligence.</p>\n\n<p><audio\n    src = \"https://traffic.libsyn.com/secure/daringfireball/thetalkshow-419-mg-siegler.mp3\"\n    controls\n    preload = \"none\"\n/></p>\n\n<p>Sponsored by:</p>\n\n<ul>\n<li><a href=\"https://workos.com/\">WorkOS</a>: The modern identity platform for B2B SaaS\u2009\u2014\u2009free up to 1 million monthly active users. Check out their latest features from <a href=\"https://workos.com/launch-week/?utm_source=daringfireball&amp;utm_medium=RSS&amp;utm_campaign=q12025\">Launch Week</a>.</li>\n<li><a href=\"https://betterhelp.com/talkshow\">BetterHelp</a>: Give online therapy a try at BetterHelp and get on your way to being your best self.</li>\n<li><a href=\"https://theopencase.com/discount/TALKSHOW\">OpenCase</a>: MagSafe perfected that\u2019s thinner, lighter, and more secure. Save 10% with code <strong>TALKSHOW</strong>.</li>\n</ul>\n\n<div>\n<a  title=\"Permanent link to \u2018The Talk Show: \u2018Podcasting Technology Cadenc",
+        "id": 2389266,
+        "language": null,
+        "link": "https://daringfireball.net/thetalkshow/2025/03/23/ep-419",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Talk Show: \u2018Podcasting Technology Cadence\u2019",
+        "vote": 0
+    }
+]

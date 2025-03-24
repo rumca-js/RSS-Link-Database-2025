@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-23T09:00:00+00:00",
+        "description": "<p>Trump is demanding social media handles for citizenship, green card, and visa applicants whether they're already in the U.S. or not.</p>\n<p>The post <a href=\"https://theintercept.com/2025/03/23/trump-immigrants-social-media-citizenship-green-card/\">Trump Wants Immigrants on U.S. Soil to Hand Over Social Media Accounts to Apply for Citizenship</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 2386849,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/03/23/trump-immigrants-social-media-citizenship-green-card",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/theintercept.com/wp-content/uploads/2018/06/guatemalan-immigrant-cpb-feat-1530033149.jpg?fit=300%2C150",
+        "title": "Trump Wants Immigrants on U.S. Soil to Hand Over Social Media Accounts to Apply for Citizenship",
+        "vote": 0
+    }
+]

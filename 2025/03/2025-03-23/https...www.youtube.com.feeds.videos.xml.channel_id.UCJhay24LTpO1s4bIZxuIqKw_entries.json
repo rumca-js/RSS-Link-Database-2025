@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ACCU Conference",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-23T15:00:07+00:00",
+        "description": "https://www.accuconference.org/ - Register Now!\nhttps://accuconference.org/2025/session/cpp-best-practices-turbo-edition\n\nKevin Carpenter from @cppevents sits down with Jason Turner to discuss his upcoming Online Workshop for the ACCU 2025 conference, titled 'Understanding C++20 Coroutines'\n\nJoin Kevin and Jason Turner for a preview of this highly informative workshop! \n\nWorkshop: C++ Best Practices - Turbo Edition with Jason Turner\n09:00-18:00, Monday, 31st March 2025\n---\n\n\u201cC++ Best Practices\u201d is designed to help programmers elevate the quality of their C++ code. This course is intended for developers who have a beginner to intermediate knowledge of C++. You will learn how to write programs that perform well by default, are easier to maintain, memory safe, and have better compile times. We will cover the evolving world of Best Practices for C++ and how to use the tools available to maintain code quality. Come prepared to interact and discuss.\nThis course is normally given over 2 day",
+        "id": 2388594,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=sWrBq0SP7LU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 421,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJhay24LTpO1s4bIZxuIqKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/sWrBq0SP7LU/hqdefault.jpg",
+        "title": "Preview: C++ Best Practices - Turbo Edition - C++ Workshop With @cppweekly  - ACCU 2025",
+        "vote": 0
+    }
+]

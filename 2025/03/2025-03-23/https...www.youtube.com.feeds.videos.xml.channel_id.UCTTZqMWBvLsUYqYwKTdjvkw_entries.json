@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-23T17:00:45+00:00",
+        "description": "\ud83c\uddea\ud83c\uddfa\u00a0Zaproszono mnie do Strasburga, a tak konkretniej to do Parlamentu Europejskiego, na spotkanie w sprawie bezpiecze\u0144stwa i obronno\u015bci w Unii Europejskiej.\n \n\u0179r\u00f3d\u0142a:\n\ud83c\udf10\u00a0Welcome to EuvsDisinfo\nhttps://euvsdisinfo.eu/\n\n\ud83d\udcd1\u00a0Information Integrity and Countering Foreign Information Manipulation & Interference (FIMI)\nhttps://www.eeas.europa.eu/eeas/information-integrity-and-countering-foreign-information-manipulation-interference-fimi_en\n\n\ud83d\udd17\u00a0FIMI: Towards a European redefinition of foreign interference \nhttps://www.disinfo.eu/wp-content/uploads/2023/04/20230412_FIMI-FS-FINAL.pdf\n\n\ud83d\udccc\u00a0EU Adopts Approach to Countering Foreign Information Manipulation and Interference\nhttps://pism.pl/publications/eu-adopts-approach-to-countering-foreign-information-manipulation-and-interference\n \nRelevant xkcd: https://xkcd.com/1998/\n \n\u00a9 Wszystkie znaki handlowe nale\u017c\u0105 do ich prawowitych w\u0142a\u015bcicieli.\n\u2764\ufe0f Dzi\u0119kuj\u0119 za Wasz\u0105 uwag\u0119.\n \nZnajdziecie mnie r\u00f3wnie\u017c na:\nInstagramie @mateuszemsi https://www.instagram.com/mateus",
+        "id": 2389119,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=juVnhEu3RbQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/juVnhEu3RbQ/hqdefault.jpg",
+        "title": "Czym jest FIMI? I jak UE walczy z dezinformacj\u0105?",
+        "vote": 0
+    }
+]

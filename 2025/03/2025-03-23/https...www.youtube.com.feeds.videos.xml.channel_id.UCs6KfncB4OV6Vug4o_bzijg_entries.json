@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-23T20:21:07+00:00",
+        "description": "Microsoft is blocking Windows 11 upgrades on perfectly good PCs. Discover the hidden methods to bypass these restrictions, free your PC, and install windows 11 on unsupported PC! Learn about ESU, LTSC, registry workarounds, Rufus, Linux, and more. This video shows you how to bypass Microsoft's restrictions and upgrade your Windows 10 device running out of security updates.\n\nCheck out Notesnook for an open source, cross-platform E2EE notes provider: https://notesnook.com\nCheck out Redact to take control of your data online: https://redact.dev/techlore\n\nMy Linux Tier List: https://youtu.be/1SrOul2ZOX8\nWindows Privacy & Security Guide: https://youtu.be/-nv3IEtXhF8\nWindows 11 USB Install Tutorial: https://youtu.be/MZbKNiKb_Qc?si=dLz6t4vzwH_C7Qr6&t=339\nRegistry commands & written instructions: https://windowsforum.com/threads/upgrade-unsupported-pcs-to-windows-11-step-by-step-guide.350040/\n\n\ud83d\udd10 Techlore Homepage: https://techlore.tech\n\ud83d\udd75 Go Incognito Course: https://techlore.tech/goincognito",
+        "id": 2390016,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=g-xV9dMTuX0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g-xV9dMTuX0/hqdefault.jpg",
+        "title": "Stuck on Windows 10? How To Upgrade Anyway",
+        "vote": 0
+    }
+]

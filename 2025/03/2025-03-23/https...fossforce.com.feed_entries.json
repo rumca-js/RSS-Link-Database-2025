@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-23T15:48:57+00:00",
+        "description": "<p><em>The release of Fedora 42 is only a month or so away, so the folks who engineer the project are calling for the user community to help, in a Test Week that starts on Monday.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/03/its-coreos-test-week-for-fedora-42-and-fedora-users-are-needed/\">It&#8217;s CoreOS Test Week for Fedora 42 and Fedora Users are Needed</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 2388787,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/03/its-coreos-test-week-for-fedora-42-and-fedora-users-are-needed",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "It\u2019s CoreOS Test Week for Fedora 42 and Fedora Users are Needed",
+        "vote": 0
+    }
+]

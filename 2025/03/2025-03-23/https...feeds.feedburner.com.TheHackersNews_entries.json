@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-23T06:51:28+00:00",
+        "description": "The supply chain attack involving the GitHub Action \"tj-actions/changed-files\" started as a highly-targeted attack against one of Coinbase's open-source projects, before evolving into something more widespread in scope.\n\"The payload was focused on exploiting the public CI/CD flow of one of their open source projects \u2013 agentkit, probably with the purpose of leveraging it for further compromises,\"",
+        "id": 2386465,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2025/03/github-supply-chain-breach-coinbase.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GitHub Supply Chain Breach: Coinbase Attack Exposes 218 Repositories, Leaks CI/CD Secrets",
+        "vote": 0
+    }
+]

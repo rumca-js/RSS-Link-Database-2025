@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-23T18:14:27.225016+00:00",
+        "description": "The latest Features from Eurogamer.net.",
+        "id": 2389307,
+        "language": "en",
+        "link": "https://www.eurogamer.net/feed/features",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Eurogamer.net Features Feed",
+        "vote": 0
+    }
+]

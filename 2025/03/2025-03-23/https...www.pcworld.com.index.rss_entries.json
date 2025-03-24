@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-23T12:00:00+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Spam and phishing emails are an annoying everyday occurrence that everyone is probably familiar with and finds annoying. These intrusive messages often clog up your inbox and require tedious deletion or filtering. Worse still, those who are act carelessly run the risk of falling victim to <a href=\"https://www.pcworld.com/article/2495731/how-microsoft-outplays-scammers-with-clever-virtual-honeypot-traps.html\">scammers</a>. But, as strange as it may sound, spam emails can actually be useful to the potential victims scammers are targeting, which is why you shouldn\u2019t delete them.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"why-you-shouldnt-delete-spam-emails\">Why you shouldn\u2019t delete spam emails</h2>\n\n\n\n<p>All major mail providers are starting to rely on complex and adaptive spam filters that are getting better and better at distinguishing between wanted and unwan",
+        "id": 2387605,
+        "language": null,
+        "link": "https://www.pcworld.com/article/2611943/why-you-should-never-ever-delete-your-spam-email.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Why you should never, ever delete your spam email",
+        "vote": 0
+    }
+]

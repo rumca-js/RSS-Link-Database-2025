@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-23T14:22:15+00:00",
+        "description": "Quest&#39;s Horizon OS v76 PTC lets you use your Meta Avatar as a virtual webcam in video calling apps.",
+        "id": 2390386,
+        "language": null,
+        "link": "https://www.uploadvr.com/quest-v76-ptc-meta-avatar-as-virtual-webcam",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 375,
+        "source_url": "https://www.uploadvr.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.uploadvr.com/content/images/2025/03/Meta-Avatar-as-virtual-webcam-UploadVR.png",
+        "title": "Quest v76 PTC Lets You Use Your Meta Avatar As A Virtual Webcam",
+        "vote": 0
+    }
+]
