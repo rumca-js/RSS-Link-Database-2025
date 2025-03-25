@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-24T20:25:28+00:00",
+        "description": "<p>\n\t<img alt=\"RaymondChen_5in-150x150.jpg\" src=\"https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg\" style=\"width: 150px; margin: 10px; float: right;\" />In C++, if an object&rsquo;s constructor fails (due to an exception), destructors are run for the object&rsquo;s member variables and base classes, but not for the object itself. The principle at play is that you cannot destruct something that was never constructed in the first place.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://devblogs.microsoft.com/oldnewthing/20250120-00/?p=110783\">Reminder: When a C++ Object Fails to Construct, the Destructor Does Not Run</a></h3>\n\t<p>\n\t\tby Raymond Chen</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tConsider&nbsp;<a href=\"https://github.com/microsoft/wil/pull/459/files#diff-75fa14296d6e7e257caaffb45efcf7d7e895cde0c0526c2900026e6a12dbbb1dR3350\" target=\"_blank\">this pull request</a>:</p>\n\t<pre tabindex=\"0\">\ncom_timeout_t(DWORD timeoutInMilliseconds)&#10;    : m_threadId(GetCur",
+        "id": 2397887,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/03/reminder-when-a-cpp-object-fails-to-construct-the-destructor-does-not-run-r",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Reminder: When a C++ Object Fails to Construct, the Destructor Does Not Run -- Raymond Chen",
+        "vote": 0
+    }
+]

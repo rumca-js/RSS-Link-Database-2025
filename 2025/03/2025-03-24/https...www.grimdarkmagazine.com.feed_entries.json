@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-24T04:00:00+00:00",
+        "description": "<p>\u2018In Space, Nobody Can Hear You Scream\u2019, the famous tagline for Ridley Scott\u2019s 1979 film Alien, encapsulates so much of what ties science fiction and horror together in a single sentence: powerlessness. It\u2019s a concept we return to again and again as humans. When I deliver workshops on horror writing and I get students to identify their top five scariest scenarios, almost all of them have something to do with a loss of control: over yourself, over your environment, over the world. It\u2019s a bedrock of the genre. Sure, it makes sense that classic sci-fi settings do horror so well. Where else are you as utterly powerless as in space, where you can\u2019t rely on oxygen, on gravity, on all the things that you, as a human being, have evolved to need in order to survive? The same logic applies to other sci-fi concepts, too. Take time travel. Oh, it seems all exciting on the surface, zipping around in a TARDIS seeing any period of history we want, but in reality, the concept is terrifying. As ind",
+        "id": 2391468,
+        "language": "en-AU",
+        "link": "https://www.grimdarkmagazine.com/science-fiction-and-horror-two-sides-of-the-same-coin",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 137,
+        "source_url": "https://www.grimdarkmagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Science-Fiction and Horror: Two Sides of the Same Coin",
+        "vote": 0
+    }
+]

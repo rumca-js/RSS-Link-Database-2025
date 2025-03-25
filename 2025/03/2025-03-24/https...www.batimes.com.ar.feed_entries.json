@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-24T20:03:25+00:00",
+        "description": "<p><img src=\"https://fotos.perfil.com/2025/03/24/trim/540/304/milei-governments-complete-memory-video-1990739.jpg\" alt=\"Milei government's 'complete memory' video.\" /></p>Casa Rosada pushes out controversial video on 49th anniversary of coup that installed Videla; Declassification of files announced, call for \u201ccomplete memory\u201d of dictatorship era support for legal appeal over 1974 killings.\n <a href=\"https://www.batimes.com.ar/news/argentina/milei-government-pushes-civil-war-narrative-on-coup-anniversary.phtml\">Leer m\u00e1s</a>",
+        "id": 2398137,
+        "language": "en",
+        "link": "https://www.batimes.com.ar/news/argentina/milei-government-pushes-civil-war-narrative-on-coup-anniversary.phtml",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 20,
+        "source_url": "https://www.batimes.com.ar/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://fotos.perfil.com/2025/03/24/trim/540/304/milei-governments-complete-memory-video-1990739.jpg",
+        "title": "Milei government pushes civil war narrative on coup anniversary",
+        "vote": 0
+    }
+]

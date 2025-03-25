@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-24T16:00:36+00:00",
+        "description": "Have a look at the science courses at Brilliant! First 30 days are free and 20% off the annual premium subscription when you use our link \u279c  https://brilliant.org/sabine. \n\nThere\u2019s something crazy going on in the world of physics right now. According to new data from the Dark Energy Spectroscopic Instrument (DESI), the cosmological constant might not actually be constant, rather, it is decreasing and had a \u201cphantom crossing\u201d. What does that mean? I have a quick summary of what's new.\n\nCorrection to what I say at 4:30 -- The \"Big Rip\" requires dark energy to grow not just stay constant, I said this badly. \n\nThis video comes with a quiz which you can take here: https://quizwithit.com/start_thequiz/1742820495209x386872819431505900\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.co",
+        "id": 2396243,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Re1ctwcCwgQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Re1ctwcCwgQ/hqdefault.jpg",
+        "title": "Latest Data Challenges 25 Years of Cosmology",
+        "vote": 0
+    }
+]

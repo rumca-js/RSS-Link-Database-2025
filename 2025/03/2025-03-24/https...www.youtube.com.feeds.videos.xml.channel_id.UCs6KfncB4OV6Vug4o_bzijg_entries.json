@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-24T14:00:27+00:00",
+        "description": "Can a laptop offer privacy & security without compromises? NovaCustom claims to, with QubesOS/Linux support, customizability, disabling Intel ME, and coreboot as its notable features. But I'll be breaking down what I like & dislike about the NovaCustom V56 to help you decide if it's for you.\n\nThank you to our sponsor Notesnook! They offer E2EE notes in an open source ecosystem, free to try. Visit their site to get started: https://notesnook.com\n\nWatch our Buskill Review: https://youtu.be/Zns0xObbOPM\nNovaCustom Website: https://novacustom.com/\nNovaCustom Wessel Interview: Coming Soon\nMy Interview with Jonathan Steele: https://youtu.be/0uValfnvLN0\n\nThank you NovaCustom for sending us the laptop to review with no strings attached and agreeing to our review protocol of saying whatever we want. \n\n\ud83d\udd10 Techlore Homepage: https://techlore.tech\n\ud83d\udd75 Go Incognito Course: https://techlore.tech/goincognito\n\ud83d\udcbb Techlore Community: https://discuss.techlore.tech\n\ud83c\udfeb Techlore Coaching: https://techlore.tech/",
+        "id": 2394545,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=NlEi0O8pPWo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NlEi0O8pPWo/hqdefault.jpg",
+        "title": "Finally! True Privacy in a Laptop: NovaCustom Review",
+        "vote": 0
+    }
+]

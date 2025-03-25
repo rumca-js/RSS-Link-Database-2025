@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-24T04:39:00+00:00",
+        "description": "Wynagrodzenie za godziny ponadwymiarowe b\u0119dzie przys\u0142ugiwa\u0142o, gdy nauczyciel zamiast przydzielonych zaj\u0119\u0107 zrealizowa\u0142 inne, zlecone przez dyrektora szko\u0142y. Uczestnicz\u0105c w wycieczce zachowa wi\u0119c prawo do wynagrodzenia za lekcje, kt\u00f3rych nie odby\u0142.",
+        "id": 2392164,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/oswiata-i-nauczyciele/art41993131-nauczyciele-nie-beda-tracic-wynagrodzenia-przez-wycieczki",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nauczyciele nie b\u0119d\u0105 traci\u0107 wynagrodzenia przez wycieczki",
+        "vote": 0
+    }
+]

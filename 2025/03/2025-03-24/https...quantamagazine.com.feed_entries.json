@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-24T05:32:56+00:00",
+        "description": "A simple, widely used mathematical technique can finally be applied to boundlessly complex problems.            <p>The post <a href=\"https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/\" target=\"_blank\">Three Hundred Years Later, a Tool from Isaac Newton Gets an Update</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2396691,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/03/Newtons-Method-cr.MicheleSclafani-Default.webp",
+        "title": "Three Hundred Years Later, a Tool from Isaac Newton Gets an Update",
+        "vote": 0
+    }
+]

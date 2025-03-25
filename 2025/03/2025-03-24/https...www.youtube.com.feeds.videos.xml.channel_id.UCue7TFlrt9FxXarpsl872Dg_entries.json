@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Unreal Sensei",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-24T14:32:07+00:00",
+        "description": "Substance Painter tutorial for beginners! In this free tutorial we will cover everything you need to know to get started texturing objects and creating high quality materials using Substance Painter. We will then go over how to use our materials in Unreal Engine 5 for our own games and animations. This video covers materials, texturing, painting, smart material creation, nanite displacement and much more!\n\nYou can get 6 months of Adobe Substance Painter and Modeler after purchasing $25 or more on Fab here:\nhttps://www.fab.com/adobe-promo\n\nCheck out the Unreal Masterclass:\nhttps://www.unrealmasterclass.com\n\nDownloadable Substance Smart Material and Assets to Follow the Tutorial:\nhttps://www.unrealsensei.com/substancepainter\n\nUE5 Beginner Tutorial:\nhttps://youtu.be/k-zMkzmduqI\n\nFollow on Twitter!\nhttp://x.com/unrealsensei\n\nChapters:\n0:00 - Intro\n2:11 - Creating a Project\n5:51 - Navigation and UI\n14:37 - First Material with Fill Layers\n18:18 - Textures\n25:33 - Mask\n30:42 - Effects\n33:38",
+        "id": 2394940,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=dXDWFPHkeZM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 542,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCue7TFlrt9FxXarpsl872Dg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dXDWFPHkeZM/hqdefault.jpg",
+        "title": "Substance Painter Beginner Tutorial for Unreal Engine 5",
+        "vote": 0
+    }
+]

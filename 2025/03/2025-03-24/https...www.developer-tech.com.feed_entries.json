@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-24T12:46:39+00:00",
+        "description": "<p>A critical security flaw has been discovered in the popular Next.js framework, potentially impacting millions of websites and applications. Security researchers Rachid Allam, known online as zhero, and Yasser Allam (inzo_) collaborated to uncover the flaw within the framework&#8217;s middleware functionality. Next.js, boasting over 130,000 stars on GitHub and nearly 10 million weekly downloads, is<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/critical-security-flaw-uncovered-next-js-framework/\" title=\"ReadCritical security flaw uncovered in Next.js framework\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/critical-security-flaw-uncovered-next-js-framework/\">Critical security flaw uncovered in Next.js framework</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2393922,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/critical-security-flaw-uncovered-next-js-framework",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Critical security flaw uncovered in Next.js framework",
+        "vote": 0
+    }
+]

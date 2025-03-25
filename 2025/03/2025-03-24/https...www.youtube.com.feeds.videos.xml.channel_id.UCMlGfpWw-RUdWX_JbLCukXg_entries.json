@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-24T15:07:02+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nA New Dragon in the Den: Fast Conversion From Floating-Point Numbers in C++ - Cassio Neri - CppCon 2024\n---\n\nStandard C++ provides a few functions to convert a double or float value to string, namely, sprintf, stringstream::operator\uff1c\uff1c, snprintf, to_string, to_chars and format.\n\nThis talk concerns what goes on behind the scenes, i.e, the algorithms which these functions might use to do their job. Curiously, many of these algorithms have dragon-related names like Dragon, Grisu, Errol, Ryu and Dragonbox.\n\nHere mythology meets technology and we shall introduce the new dragon that has just arrived in the den.\n\n(Please leave your bows and arrows at home, they won't be necessary here.)\n---\n\nThe following topics are some of those covered in this presentation:-\nalgorithms, mathematics, arithmetic, floating point, floating point numbers, floating point math, floating point arithmetic, decimal floating-point representation, binary floating-point representation, IEEE 754",
+        "id": 2395425,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=fPZ1ZdA7Iwc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fPZ1ZdA7Iwc/hqdefault.jpg",
+        "title": "How to Quickly Convert Floating-Point Numbers in C++ - Cassio Neri - CppCon 2024",
+        "vote": 0
+    }
+]

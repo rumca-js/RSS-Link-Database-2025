@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-24T19:22:38+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><a href=\"https://bsky.app/profile/paris.nyc/post/3lkvcermoh22i\"><span>Once again</span></a><span>, several Senators appear poised to gut one of the most important laws protecting internet users - <a href=\"https://www.law.cornell.edu/uscode/text/47/230\">Section 230 (47 U.S.C. \u00a7 230)</a>.\u00a0</span></p>\n<p><span>Don\u2019t be fooled - many of Section 230\u2019s detractors claim that this critical law only protects big tech. The reality is that Section 230 provides limited protection for all platforms, though the biggest beneficiaries are small platforms and users. Why else would some of the biggest platforms be willing to </span><a href=\"https://docs.house.gov/meetings/IF/IF16/20210325/111407/HHRG-117-IF16-Wstate-ZuckerbergM-20210325-U1.pdf\"><span>endorse</span></a><span> a bill that guts the law? In fact, repealing Section 230 would </span><a href=\"https:",
+        "id": 2397405,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/03/230-protects-users-not-big-tech",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "230 Protects Users, Not Big Tech",
+        "vote": 0
+    }
+]

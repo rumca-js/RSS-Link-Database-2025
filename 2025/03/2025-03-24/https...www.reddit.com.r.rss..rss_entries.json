@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-24T15:10:28+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I&#39;m pretty new to RSS and Reddit posting </p> <p>I&#39;m trying to scrape websites like <a href=\"http://AnimeNewsNetwork.com\">AnimeNewsNetwork.com</a></p> <p>They have an RSS feed but it&#39;s bare bones, I am running freshrss that sends the data to my FeedMe app no issues on my other feeds but the ANN one refuses to scrape images and text, I want to be able to read the article in the app, besides it also looks awful</p> <p>I tried using BridgeRss to scrape it on my own with my own .php file but I keep failing so I wanted to reach out and see if there&#39;s a better way of doing this</p> <p>this is how I&#39;m trying to get it to look like: <a href=\"https://imgur.com/a/GXsFhEu\">https://imgur.com/a/GXsFhEu</a></p> <p>Thank you in advance</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Independent_Meat147\"> /u/Independent_Meat147 </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1jisyhk/help_",
+        "id": 2395431,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1jisyhk/help_scraping",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Help Scraping",
+        "vote": 0
+    }
+]
