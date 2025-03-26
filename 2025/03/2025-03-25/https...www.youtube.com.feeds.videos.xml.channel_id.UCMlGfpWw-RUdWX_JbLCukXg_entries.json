@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T15:07:07+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nCode Generation from Unified Robot Description Format (URDF) for Accelerated Robotics - Paul Gesel - CppCon 2024\n---\n\nMotion planning is a crucial capability for robots operating in unstructured environments, enabling them to navigate and interact with their surroundings safely and efficiently. However, motion planning algorithms are computationally expensive, often requiring hundreds of thousands or millions of evaluations of subroutines, such as forward kinematics, collision checking, and nearest neighbor lookup.\n\nThis talk will present an approach to accelerating motion planning subroutines, specifically focusing on forward kinematics calculations, through compile-time optimizations. The proposed method leverages code generation techniques to directly translate Unified Robot Description Format (URDF) into optimized C++ code. Additionally, by generating hardware-specific code, such as CUDA for parallel computations, significant performance gains can be achi",
+        "id": 2403996,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=CwN0I8yUqok",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CwN0I8yUqok/hqdefault.jpg",
+        "title": "Code Generation from Unified Robot Description Format (URDF) for Accelerated Robotics - Paul Gesel",
+        "vote": 0
+    }
+]

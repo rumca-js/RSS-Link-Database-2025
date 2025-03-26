@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T16:42:23+00:00",
+        "description": "Trwa sp\u00f3r o ustaw\u0119 dotycz\u0105c\u0105 spo\u0142ecznych form rozwoju mieszkalnictwa. Lewica nazywa j\u0105 ustaw\u0105 Tomasza Lewandowskiego, cho\u0107 brak o nim wzmianek w oficjalnych dokumentach. - Wiadomo, \u017ce szefowie resort\u00f3w maj\u0105 pe\u0142ne mo\u017cliwo\u015bci, wskazuj\u0105 kogo i na jakim etapie wpisa\u0107 do Rz\u0105dowego Centrum Legislacji - uwa\u017ca Krzysztof Kukucki, jeden ze wsp\u00f3\u0142autor\u00f3w projektu, kt\u00f3ry odszed\u0142 z resortu. Z kolei wiceminister Micha\u0142 Jaros z PO zapewnia: Projekt jest autorsk\u0105 prac\u0105 ministerstwa rozwoju.",
+        "id": 2404791,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/tylko-w-interii/news-koalicyjna-klotnia-o-zaslugi-projekt-lezal-rok-w-szufladzie,nId,21323152",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Koalicyjna k\u0142\u00f3tnia o zas\u0142ugi. \"Projekt le\u017ca\u0142 rok w szufladzie\"",
+        "vote": 0
+    }
+]

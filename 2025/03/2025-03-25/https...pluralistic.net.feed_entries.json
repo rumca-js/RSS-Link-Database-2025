@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T22:23:08+00:00",
+        "description": "Today's links Why I don't like AI art: I think I've figured it out. Hey look at this: Delights to delectate. Object permanence: 2010, 2015, 2020, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Why I don't like AI art (permalink) A law professor friend tells me that LLMs have completely transformed the way she relates to grad students and post-docs &#8211; for the worse. And no, it's not that they're cheating on their homework or using LLMs to write briefs full of hallucinated cases. The thing that LLMs have changed in my friend's law school is letters of reference. Historically, students would only ask a prof for a letter of reference if they knew the prof really rated them. Writing a good reference is a ton of work, and that's rather the point: the mere fact that a law prof was willing to write one for you represents",
+        "id": 2407743,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/03/25/communicative-intent",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pluralistic: Why I don't like AI art (25 Mar 2025)",
+        "vote": 0
+    }
+]

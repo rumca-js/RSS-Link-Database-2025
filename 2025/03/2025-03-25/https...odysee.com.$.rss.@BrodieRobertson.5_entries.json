@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T20:00:15+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/EhG__3MbSWY\" width=\"480\" alt=\"thumbnail\" title=\"Open Source GPU Drivers Are Now Better Than Ever\" /></p>I love keeping an eye on the open source GPU driver space, most of this taking place inside the mesa project and recently there have been some really cool additions to the project.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />NVK: https://www.collabora.com/news-and-blog/news-and-events/goodbye-nouveau-gl-hello-zink.html<br />MR: https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/29232<br />Remove Clover: https://www.phoronix.com/news/Mesa-Delete-Clover-Discussion<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast:",
+        "id": 2407023,
+        "language": "en",
+        "link": "https://odysee.com/open-source-gpu-drivers-are-now-better:f52dcca2a3d6901f030208818824884dfbe497b0",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Open Source GPU Drivers Are Now Better Than Ever",
+        "vote": 0
+    }
+]

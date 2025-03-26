@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Daniel Greene",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T13:00:57+00:00",
+        "description": "Meta\u2019s AI has officially crossed the line. In this episode, we break down how a massive dataset of pirated books may be fueling major AI models\u2014and yes, your book might\u2019ve been stolen. We also cover the real-world fallout, how AI search engines are failing users, and what this means for authors, readers, and the future of publishing.\n\nPlus, we\u2019ve got huge updates in the world of fantasy and sci-fi\u2014from The Strength of the Few release date, Severance Season 3, One Piece showrunner changes, to a Split Fiction movie and Toxic Avenger trailer!\nMeta Publishing Heist (Check if your book was stolen)\n\ud83d\udd17 https://www.theatlantic.com/technology/archive/2025/03/search-libgen-data-set/682094\n\nAI Search Engines Can\u2019t Cite: https://www.cjr.org/tow_center/we-compared-eight-ai-search-engines-theyre-all-bad-at-citing-news.php\n\nChatbot Stress Testing: https://cdt.org/wp-content/uploads/2024/09/updated-508-Prep-CDT-Issue-Brief-Chatbot-Responses-on-Disability-Rights-and-Voting-FINAL.pdf\n\nMicrosoft on AI &",
+        "id": 2402858,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=f1dQzhMVovY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 90,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw--xPGVVxYzRsWyV1nFqgg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/f1dQzhMVovY/hqdefault.jpg",
+        "title": "Meta\u2019s A.I. Book Theft Sparks Industry-Wide Crisis || FN \ud83d\udcf0",
+        "vote": 0
+    }
+]

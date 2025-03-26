@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T13:58:20+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><em>This post is part four and the final part in a series of posts about EFF\u2019s work in Europe. Read about how and why we work in Europe <a href=\"https://www.eff.org/deeplinks/2024/12/saving-internet-europe-how-eff-works-europe\">here</a>.\u00a0\u00a0</em></p>\n<p><span data-contrast=\"none\">EFF\u2019s mission is to ensure that technology supports freedom, justice, and innovation for all people of the world. While our work has taken us to far corners of the globe, in recent years we have worked to expand our efforts in Europe, building up a policy team with key expertise in the region, and bringing our experience in advocacy and technology to the European fight for digital rights.\u00a0\u00a0</span><span data-ccp-props=\"240}\">\u00a0</span></p>\n<p><span data-contrast=\"none\">In this blog post series, we will introduce you to the various players involved in that fight, share ho",
+        "id": 2403407,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/03/saving-internet-europe-fostering-choice-competition-and-right-innovate",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Saving the Internet in Europe: Fostering Choice, Competition and the Right to Innovate",
+        "vote": 0
+    }
+]

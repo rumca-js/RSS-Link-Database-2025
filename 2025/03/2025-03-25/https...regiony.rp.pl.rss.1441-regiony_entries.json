@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T06:50:44+00:00",
+        "description": "Nie b\u0119dzie referendum w sprawie odwo\u0142ania ze stanowiska Jacka Sutryka, prezydenta Wroc\u0142awia. Pomys\u0142odawcom akcji referendalnej z SOS Wroc\u0142aw nie uda\u0142o si\u0119 zebra\u0107 wymaganej liczby podpis\u00f3w. Tymczasem w Zabrzu mieszka\u0144cy p\u00f3jd\u0105 do urn 11 maja, by zdecydowa\u0107, czy chc\u0105 pozostawi\u0107 na stanowisku prezydent oraz Rad\u0119 Miasta.",
+        "id": 2400516,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/z-regionow/art42003491-wroclaw-jacek-sutryk-nie-zostanie-odwolany-w-referendum",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wroc\u0142aw: Jacek Sutryk nie zostanie odwo\u0142any w referendum",
+        "vote": 0
+    }
+]

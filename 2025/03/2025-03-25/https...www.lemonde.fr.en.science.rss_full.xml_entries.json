@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T18:49:02+00:00",
+        "description": "Since taking office, President Donald Trump and his administration have issued a series of decisions that have plunged scientific institutions into chaos.",
+        "id": 2405915,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/videos/video/2025/03/25/how-the-trump-administration-is-attacking-scientific-research-in-the-us_6739512_108.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/03/19/60/0/1920/960/644/322/60/0/c2e447c_sirius-fs-upload-1-9yj0q72zvad0-1742381918311-00-tile-02-0-00-05-05.jpg",
+        "title": "How the Trump administration is attacking scientific research in the US",
+        "vote": 0
+    }
+]

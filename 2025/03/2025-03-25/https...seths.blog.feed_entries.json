@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T08:01:00+00:00",
+        "description": "Since the days of Atari and Apple, the culture of Silicon Valley has been based on the idea of programmers and early employees owning equity in the startups they took a chance on. The media is always happy to write about folks who took a shot on stock options and did very well indeed. Too [&#8230;]",
+        "id": 2400809,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/03/project-ownership-equity-and-equity",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Project ownership (equity and equity)",
+        "vote": 0
+    }
+]

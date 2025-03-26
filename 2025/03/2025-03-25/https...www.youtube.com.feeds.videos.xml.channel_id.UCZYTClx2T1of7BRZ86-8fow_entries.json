@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T17:00:14+00:00",
+        "description": "Improve your career using our code \u201cSCISHOW\u201d for 30% off on all TripleTen's programs! Sign up for a FREE TripleTen career consultation with the link: https://get.tripleten.com/scishow \n\nLung Cancer has been stigmatized as something that mainly happens when you smoke cigarettes. But non-smoking lung cancer may be a new disease changing the narrative.\n\nHosted by: Hank Green (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: J.V. Rosenbalm, Jaap Westera, Jeffrey Mckishen, David Johnston, Gizmo, Friso, Wesus, Jeremy Mattern, Alan Wong, Matt Curls, Bethany Matthews, Blood Doctor Kelly, Spilmann Reed, Lyndsay Brown, Toyas Dhake, Kaitlyn O'Callaghan, Garrett Gallow",
+        "id": 2405356,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=CYhncB9Ftt8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CYhncB9Ftt8/hqdefault.jpg",
+        "title": "Why Is Lung Cancer in Non-smokers on the Rise?",
+        "vote": 0
+    }
+]

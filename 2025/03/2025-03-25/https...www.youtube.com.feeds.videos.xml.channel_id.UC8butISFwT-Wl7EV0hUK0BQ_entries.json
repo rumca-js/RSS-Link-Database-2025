@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T16:36:01+00:00",
+        "description": "Welcome to this course on building microservices with Next.js! You\u2019ll create a delivery service application that tracks rider activity by saving their coordinates every three hours. You\u2019ll learn to build two microservices\u2014a Login Service and a Rider Service\u2014and enable communication between them. By the end, you\u2019ll have the skills to design and deploy scalable microservices.\n\n\u270f\ufe0f Course from @haidermalik3402 \n\nLearn more about microservices in Next.js: https://www.haidermalik.dev/nestjs-microservices-early-access\n\n\u2764\ufe0f Try interactive JavaScript courses we love, right in your browser: https://scrimba.com/freeCodeCamp-JavaScript (Made possible by a grant from our friends at Scrimba)\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n0:00:00 Intro\n0:00:32 Sample-Application\n0:02:20 Setup Nest.js Microservices Project\n0:11:22 Install MongoDB Update\n0:14:18 Why Docker\n0:18:34 Run MongoDB in Docker Container\n0:24:34 Run MongoDB using Docker Compose\n0:29:05 Install Nestjs Mongoose Package\n0:34:35 MongoDB Port Forwarding\n0:39:20",
+        "id": 2405357,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=t76UMpwFNs0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/t76UMpwFNs0/hqdefault.jpg",
+        "title": "Microservices in Nest.js \u2013 JavaScript Tutorial",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T20:54:18+00:00",
+        "description": "Years ago, a Mac couldn't game. Now they can. But there's a new problem\u2026\nUGREEN NAS DXP4800 Plus (20% OFF until 3/31): https://amzn.to/4hBQoGB\nUGREEN NAS Lineup (20% OFF until 3/31): https://amzn.to/4hCS8zt\nCheck out the World Backup Day discount (up to $300 OFF): https://ugreen.pxf.io/aOAvxR\nCheck out UGREEN NAS on Amazon CA (19% OFF until 3/31): https://amzn.to/42dFGk3\n\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nBefore the dawn of Apple Silicon, a Mac couldn't game. Despite sharing the same x86 Intel hardware as many PCs, Apple's computers lack the discrete graphics cards, driver support, and core focus to really find success in desktop gaming. And that's speaking nothing of the thermal throttling issues they encountered for years. The few people that did want to game on a M",
+        "id": 2407456,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7VXTqa-ptaA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7VXTqa-ptaA/hqdefault.jpg",
+        "title": "Apple\u2019s Last Chance to Win Gamers",
+        "vote": 0
+    }
+]

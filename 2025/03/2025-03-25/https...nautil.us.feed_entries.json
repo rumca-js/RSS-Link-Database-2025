@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T20:11:57+00:00",
+        "description": "<p>A new AI system alerts ship captains in real-time when a whale is in their path</p>\n<p>The post <a href=\"https://nautil.us/ping-youve-got-whale-1199922/\">Ping, You\u2019ve Got Whale</a> appeared first on <a href=\"https://nautil.us\">Nautilus</a>.</p>",
+        "id": 2407005,
+        "language": "en-US",
+        "link": "https://nautil.us/ping-youve-got-whale-1199922",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 232,
+        "source_url": "https://nautil.us/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ping, You\u2019ve Got Whale",
+        "vote": 0
+    }
+]

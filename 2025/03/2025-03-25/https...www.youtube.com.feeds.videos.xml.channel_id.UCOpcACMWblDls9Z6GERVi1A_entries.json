@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Screen Junkies",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T17:00:39+00:00",
+        "description": "It's the Honest Trailer for The Electric State! The film with a budget larger than the GDP of a small nation is here to raise the price on your Netflix subscription! It's got robots, Chris Pratt, and Millie Bobby Brown thrown together in the way only an algorithm could enjoy. Welcome to the future! It sucks here!\n\nVoice Narration: Jon Bailey the EPIC VOICE GUY (@epicvoiceguy on all socials)\nTitle Design: Robert Holtby \nWritten by: Lon Harris & Spencer Gilbert \nProduced by: Spencer Gilbert \nEdited by: Kevin Williamsen \nPost-Production Manager: Emin Bassavand \nManager, Video Operations: Tiffany Tse \nPost-Production Specialist: Rebecca Castaneda \nVP Content: Max Dionne\n\n#honesttrailers #entertainment #parody #netflix #theelectricstate",
+        "id": 2405106,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=bJyz3gLrsNA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 296,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOpcACMWblDls9Z6GERVi1A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bJyz3gLrsNA/hqdefault.jpg",
+        "title": "Honest Trailers | The Electric State",
+        "vote": 0
+    }
+]

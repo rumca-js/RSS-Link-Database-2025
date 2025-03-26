@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T10:05:39+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>From threat actors to LE there are alot of issues going on the darkweb, here are some tips from me (a 12 year darkweb veteran and a mod on one of its biggest forums, dread):</p> <ol> <li><p>Always use tails: whenever you try to go onto the darkweb, use tails, it only requires a USB stick and is easy to set up: tails is an operating system with no persistent storage, which means when you shut it down. its like it never existed. </p></li> <li><p>Use PGP: Use pgp encryption when communicating with other via text on Darkweb sites, its easy to set up using kleopatra and will save your ass if a market gets busted and all your stuff is pgp encrypted </p></li> <li><p>Use Jabber with OTR: when communicating with others off the darkweb, use Jabber with Off The Record plug in on pidgin, its the best and safest method of communication.</p></li> </ol> <p>If you have any questions, drop them below.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https:/",
+        "id": 2401724,
+        "language": null,
+        "link": "https://www.reddit.com/r/deepweb/comments/1jjfvzz/learn_real_opsec_before_going_onto_the_darkweb",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 543,
+        "source_url": "https://www.reddit.com/r/deepweb/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Learn real OpSec before going onto the darkweb",
+        "vote": 0
+    }
+]

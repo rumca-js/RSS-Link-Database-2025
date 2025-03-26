@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T06:00:00+00:00",
+        "description": "Australian authors say they are \"livid\" and feel violated that their work was included in an allegedly pirated dataset of books Meta used to train its AI.\n<br><br>\nThe parent company of Facebook and Instagram is being sued by authors in the United States, including Ta-Nehisi Coates and the comedian Sarah Silverman, for copyright infringement.",
+        "id": 2404280,
+        "language": "en",
+        "link": "http://www.bookbrowse.com/news/detail/index.cfm?news_item_number=3394",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 43,
+        "source_url": "https://www.bookbrowse.com/rss/book_news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "'No consent': Australian authors 'livid' that Meta may have used their books to train AI",
+        "vote": 0
+    }
+]

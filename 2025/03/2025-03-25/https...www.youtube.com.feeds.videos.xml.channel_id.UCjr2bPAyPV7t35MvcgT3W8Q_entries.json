@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Hated One",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-25T18:26:16+00:00",
+        "description": "Talking with Harry Halpin about state power, surveillance, authoritarianism and NYM - a new anti-surveillance tool in the making.Support my independent work: https://www.patreon.com/thehatedone \n\nAbout Harry Halpin: https://www.ibiblio.org/hhalpin/\nHarry Halpin is the CEO and co-founder of Nym Technologies, a startup building a decentralized mixnet to end mass surveillance. Prior to founding Nym, he worked at MIT, where he led the standardization of the Web Cryptography API across all browsers, and at Inria de Paris where he led interdisciplinary research on socio-technical systems and privacy. He has a Ph.D. in Informatics from the University of Edinburgh and also teaches cryptocurrency at the American University of Beirut. \n\nHarry Halpin on Twitter: https://x.com/harryhalpin\nHarry Halpin's LinkedIn: https://www.linkedin.com/in/harryhalpin/\n\nAbout NYM VPN: https://nym.com/features\nhttps://nym.com/nymvpn-litepaper\nNYM Whitepaper: https://nym.com/nym-whitepaper.pdf\n\n\nTIMESTAMPS AND QU",
+        "id": 2405916,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=dVtw-4Eox2E",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 344,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dVtw-4Eox2E/hqdefault.jpg",
+        "title": "\"THINGS WILL GET WORSE!\" Interview with Harry Halpin - the CEO of Nym Technologies",
+        "vote": 0
+    }
+]
