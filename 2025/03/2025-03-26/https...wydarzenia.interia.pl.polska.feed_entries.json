@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-26T16:03:00+00:00",
+        "description": "Media ujawni\u0142y fragment zezna\u0144 Paw\u0142a S. zamieszanego w afer\u0119 RARS. Tw\u00f3rca marki Red is Bad mia\u0142 zezna\u0107 m.in., jak zosta\u0142 zach\u0119cony przez by\u0142ego szefa agencji i jego wsp\u00f3\u0142pracownika, by \"odk\u0142ada\u0107 od ka\u017cdego zam\u00f3wienia jeden grosz\". W sumie zgromadzi\u0107 w ten spos\u00f3b mia\u0142 oko\u0142o 2-3 mln. - To s\u0105 bzdurne pom\u00f3wienia - oceni\u0142 zeznania by\u0142y szef RARS Micha\u0142 Kuczmierowski.",
+        "id": 2413451,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/kraj/news-afera-w-rars-co-zeznal-w-prokuraturze-pawel-s-media-ujawniaj,nId,21323395",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Afera w RARS. Co zezna\u0142 w prokuraturze Pawe\u0142 S.? Media ujawniaj\u0105",
+        "vote": 0
+    }
+]

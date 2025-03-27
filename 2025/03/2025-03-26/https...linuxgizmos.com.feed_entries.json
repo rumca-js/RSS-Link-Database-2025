@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-26T05:51:15+00:00",
+        "description": "Variscite has released the VAR-SOM-AM62P, a new System on Module based on the Texas Instruments Sitara AM62Px processor. This module expands the VAR-SOM product line with enhanced multimedia functionality while maintaining a focus on cost efficiency. The&#160;module integrates a quad-core Cortex-A53 processor running at 1.4GHz, along with an 800MHz Cortex-R5F real-time co-processor. It features a [&#8230;]",
+        "id": 2409418,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/variscite-expands-som-lineup-with-var-som-am62p-featuring-ti-sitara-am62px-processor",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Variscite Expands SoM Lineup with VAR-SOM-AM62P Featuring TI Sitara AM62Px Processor",
+        "vote": 0
+    }
+]

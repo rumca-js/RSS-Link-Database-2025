@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-26T15:07:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nHow to Hide C++ Implementation Details - Amir Kirsh - CppCon 2024\n---\n\nA key programming principle that encapsulates significant aspects of Object-Oriented Programming, is to hide your implementation details. This guidance aligns with principles such as encapsulation, decoupling, and programming for interfaces rather than concrete types. Yet, keeping your implementation details hidden is no easy feat. In this talk, we'll discuss the challenges, highlight tricky situations, and share tips on how to steer clear of them. Applying the practices presented in this talk, participants will be well-equipped to navigate potential pitfalls, foster best practices, and ultimately write C++ code that is more elegant, robust and maintainable.\n---\n\nSlides: https://github.com/CppCon/CppCon2024/blob/main/Presentations/Hiding_your_Implementation_Details_is_Not_So_Simple.pdf\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nAmir Kirsh\n \nAmir Kirsh is a C++ lecturer ",
+        "id": 2413370,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=G5tXjYzfg9A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/G5tXjYzfg9A/hqdefault.jpg",
+        "title": "How to Hide C++ Implementation Details - Amir Kirsh - CppCon 2024",
+        "vote": 0
+    }
+]

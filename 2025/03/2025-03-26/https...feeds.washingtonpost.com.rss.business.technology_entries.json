@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-26T10:00:00+00:00",
+        "description": "Drafting emails is one of the most common work and home uses for AI. But which bot is worth your time and money?",
+        "id": 2410751,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2025/03/26/best-ai-email-assistant",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "We asked 5 AI bots to write tough emails. One beat a human.",
+        "vote": 0
+    }
+]

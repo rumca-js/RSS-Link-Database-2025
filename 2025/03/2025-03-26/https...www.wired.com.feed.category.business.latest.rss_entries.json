@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-26T10:30:00+00:00",
+        "description": "I spent 10 days competing in Crypto: The Game, a winner-takes-all contest where hundreds of players try to finesse and backstab their way to claiming a $140,000 cryptocurrency prize.",
+        "id": 2410841,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/crypto-the-game-undercover",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/67de0a5269b7b3f423ec07af/master/pass/business_crypto_game_survivor.jpg",
+        "title": "I Went Undercover in Crypto\u2019s Answer to \u2018Squid Game.\u2019 It Nearly Broke Me",
+        "vote": 0
+    }
+]

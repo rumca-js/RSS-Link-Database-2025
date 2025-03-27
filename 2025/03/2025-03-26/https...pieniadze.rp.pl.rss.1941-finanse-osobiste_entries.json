@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-26T03:52:51+00:00",
+        "description": "W lutym p\u0142ace by\u0142y wy\u017csze od \u015bredniej krajowej w co trzeciej bran\u017cy. \u015arednie lub wy\u017csze p\u0142ace mo\u017cna by\u0142o uzyska\u0107 przeci\u0119tnie w czterech regionach.",
+        "id": 2408914,
+        "language": "pl-PL",
+        "link": "https://pieniadze.rp.pl/finanse-domowe/art42006621-gdzie-w-lutym-zarabiano-najwiecej",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Gdzie w lutym zarabiano najwi\u0119cej",
+        "vote": 0
+    }
+]

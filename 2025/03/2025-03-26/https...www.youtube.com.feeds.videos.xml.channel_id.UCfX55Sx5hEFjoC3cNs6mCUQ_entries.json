@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-26T13:24:55+00:00",
+        "description": "\ud83e\udd16 What if AI agents were as easy to build as microservices?\n\ud83e\udde0 What does Meta\u2019s latest AI chip test reveal about the RISC-V ecosystem?\n\u26a1 How does AI meet infrastructure in the energy sector?\n\ud83d\udce6 EdgeX quietly dropped a release that could change industrial IoT.\n\ud83d\udc0d Python\u2019s playing a new role at the edge\u2014did you catch it?\n\n\ud83d\udcfa We unpack all of it in just 60 seconds. Watch this week\u2019s LF Quick Hits.",
+        "id": 2412371,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=eKWzWRIIbv4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/eKWzWRIIbv4/hqdefault.jpg",
+        "title": "\ud83c\udf0d From the edge to the energy grid to your next LLM project, open source is accelerating fast this",
+        "vote": 0
+    }
+]

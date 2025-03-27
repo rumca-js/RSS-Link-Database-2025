@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-26T17:01:07+00:00",
+        "description": "Check out the UGREEN x Genshin products below!\n\n\"UGREEN \u00d7 Genshin Impact Series(up to 30% OFF)    https://ugreen.pxf.io/e1EEX6\n\nBuy on Amazon(up to 30% OFF)    https://amzn.to/4ieA7Zo\n\nEnter UGREEN Massive Giveaway    https://ugreen.pxf.io/qzxLay\n\nSome people forget that there's a lot more to computers than gaming rigs and web browsing on a bigger screen. That's where the r/homelab subreddit comes in! Whether you want to run multiple virtual machines on a single system, experiment with Kubernetes through smart home automation, or just repurpose old hardware into your own server, this group can offer a TON of inspiration and encouragement.\n\nhttps://www.reddit.com/r/homelab/\n\nDiscuss on the forum: https://linustechtips.com/topic/1606775-even-i%E2%80%99m-jealous-of-these-guys-reacting-to-rhomelab/\n\n\u25ba GET OUR MERCH: https://lttstore.com\n\u25ba GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n\u25ba GET A VPN: http://www.piavpn.com/linus\n\u25ba SPONSORS, AFFILIATES, AND PARTNERS: https:",
+        "id": 2414659,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=vdw1426c-i8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vdw1426c-i8/hqdefault.jpg",
+        "title": "Even I\u2019M Jealous of These Guys - Reacting to r/HomeLab",
+        "vote": 0
+    }
+]

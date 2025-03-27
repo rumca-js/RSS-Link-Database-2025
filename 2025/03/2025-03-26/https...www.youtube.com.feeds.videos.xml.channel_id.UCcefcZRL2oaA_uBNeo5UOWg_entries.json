@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-26T14:00:04+00:00",
+        "description": "In this episode of How To Build The Future, Garry sits down with Tony Xu, Co-founder and CEO of DoorDash, to discuss their origin story, how the company survived several near death experiences, and what it takes to transform an entire industry.\n\nApply for a YC Summer Fellows Grant: https://events.ycombinator.com/summer-fellows\nApply to Y Combinator: https://ycombinator.com/apply",
+        "id": 2412389,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=3N3TnaViyjk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3N3TnaViyjk/hqdefault.jpg",
+        "title": "DoorDash CEO: Customer Obsession, Surviving Startup Death & Creating A New Market",
+        "vote": 0
+    }
+]

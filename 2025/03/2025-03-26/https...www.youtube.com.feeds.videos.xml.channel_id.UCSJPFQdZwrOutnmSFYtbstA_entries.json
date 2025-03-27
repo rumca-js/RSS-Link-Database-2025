@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-26T20:04:52+00:00",
+        "description": "From constant script rewrites to conflicting visions, studio interference, mutinous directors and a dog with rubber alien bits glued to it, David Fincher's Alien 3 remains one of the most controversial sequels of all time. And the making of it truly was Production Hell.",
+        "id": 2416076,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=xqdFX2JBxT8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xqdFX2JBxT8/hqdefault.jpg",
+        "title": "Production Hell - Alien 3",
+        "vote": 0
+    }
+]

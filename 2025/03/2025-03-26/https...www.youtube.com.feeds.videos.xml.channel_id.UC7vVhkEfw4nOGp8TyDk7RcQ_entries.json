@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-26T14:00:54+00:00",
+        "description": "By having Stretch take on the physically demanding task of unloading trailers stacked floor to ceiling with boxes, Gap Inc has reduced injuries, lowered turnover, and watched employees get excited about automation intended to keep them safe.\n\nKeep reading: https://bosdyn.co/4kW7yl5",
+        "id": 2413016,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=_dhwRYdZs9w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_dhwRYdZs9w/hqdefault.jpg",
+        "title": "Stretch at Gap | Boston Dynamics",
+        "vote": 0
+    }
+]
