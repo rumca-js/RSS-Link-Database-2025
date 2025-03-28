@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-27T20:45:02+00:00",
+        "description": "I coded with Google's Gemini 2.5 Pro and it's the best coding AI I've ever used, and I've used them all.\n\n0:00 best coding AI today\n0:35 p5js three shot - kitten cannon clone\n3:13 benchmarks, but who cares\n5:31 JAVA ONE SHOT - ultimate tic-tac-toe game\n6:34 complete garbage at ui\n7:56 kinda better at ui here\n8:28 the best rust refactor yet\n10:10 it's awesome, but need to test in real codebase\n\nIf you're a developer, sign up to my free newsletter Dev Notes \ud83d\udc49 https://www.devnotesdaily.com/\n\nIf you're a student, checkout my Notion template Studious: https://notionstudent.com\n\nDon't know why you'd want to follow me on other socials. I don't even post. But here you go.\n\ud83d\udc31\u200d\ud83d\ude80 GitHub: https://github.com/forrestknight\n\ud83d\udc26 Twitter: https://www.twitter.com/forrestpknight\n\ud83d\udcbc LinkedIn: https://www.linkedin.com/in/forrestpknight\n\ud83d\udcf8 Instagram: https://www.instagram.com/forrestpknight",
+        "id": 2425021,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=RDOMKIw1aF4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RDOMKIw1aF4/hqdefault.jpg",
+        "title": "Coding with Gemini 2.5 Pro is actually insane",
+        "vote": 0
+    }
+]

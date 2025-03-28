@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-27T15:07:05+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nWhy Is My C++ Build So Slow? Compilation Profiling and Visualization - Samuel Privett - CppCon 2024\n---\n\nWhen your code base is growing, the time it takes to compile is also growing. But why, where is the compiler spending time? Lots of focus in C++ is on the performance of compiled code, but when you're compiling millions of lines of code, its important to pay attention to the build times. Neglecting this aspect can lead to significant losses in developer productivity.\n\nIn this talk, I will explore some capabilities built into Clang and Ninja that C++ developers can use to identify, understand, and mitigate long build times.\n---\n\nSlides: https://github.com/CppCon/CppCon2024/blob/main/Presentations/Why_is_my_Build_so_Slow.pdf\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nSamuel Privett\n\nSam Privett graduated with a B.S. from the University of Cincinnati in 2018 with a focus in Software Development. He has spent the majority of his professiona",
+        "id": 2422306,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Oih3K-3eZ4Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Oih3K-3eZ4Y/hqdefault.jpg",
+        "title": "Why Is My C++ Build So Slow? Compilation Profiling and Visualization - Samuel Privett - CppCon 2024",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CodingEntrepreneurs",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-27T17:34:15+00:00",
+        "description": "In this course we take a Django project from development to production using modern deployment practices.\n\nTo make this happen, we use Railway's platform services to host and deploy our Django applications with proper configuration. Railway will build, host, and run your container images directly from your code without ever leaving the platform or relying on third party services. What's better, you do not even need to know how to build containers (or even what they are) to deploy on railway thanks to the powerful Nixpacks.\n\nThe point? Railway is an incredible platform for deploying software. We just happen to love it to deploy Django, FastAPI, Jupyter, Next.js, Postgres, and much more! Fun fact... the https://cfe.sh website runs on Railway!\n\nThe process is simple: write code, push it to GitHub, then Railway will pull code, build images, and host your apps for you. Getting Django ready for production deployments is a key part of this course.\n\n\ud83d\udd79\ufe0f References\nCode: https://github.com/cod",
+        "id": 2423654,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=A4Pn2lEdoLQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 74,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWEHue8kksIaktO8KTTN_zg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/A4Pn2lEdoLQ/hqdefault.jpg",
+        "title": "Python Tutorial: Full Django Deployment to Railway. Step-by-Step.",
+        "vote": 0
+    }
+]

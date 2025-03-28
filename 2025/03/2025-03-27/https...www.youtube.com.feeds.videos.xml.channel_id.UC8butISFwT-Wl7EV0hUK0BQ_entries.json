@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-27T14:02:10+00:00",
+        "description": "Learn the most useful excel functions and formulas from @excel.withgrant.\n\nExcel shortcuts cheat sheet: https://www.excelwithgrant.com/free/\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Intro\n\u2328\ufe0f (0:00:44) Cell Referencing\n\u2328\ufe0f (0:05:07) Function Structure\n\u2328\ufe0f (0:09:41) 2 Function Tips\n\u2328\ufe0f (0:10:56) Text Functions\n\u2328\ufe0f (0:12:52) TEXTJOIN Function\n\u2328\ufe0f (0:15:30) Statistical Functions\n\u2328\ufe0f (0:20:01) Mathematical Functions\n\u2328\ufe0f (0:22:38) Rounding Functions\n\u2328\ufe0f (0:24:27) Logical Functions\n\u2328\ufe0f (0:29:14) IFS Function\n\u2328\ufe0f (0:33:25) Counting Functions\n\u2328\ufe0f (0:36:58) Removing Blank Rows With COUNTBLANK\n\u2328\ufe0f (0:40:09) Conditional Functions\n\u2328\ufe0f (0:48:08) VLOOKUP (Exact Match)\n\u2328\ufe0f (0:53:00) VLOOKUP (Approximate Match)\n\u2328\ufe0f (0:55:28) VLOOKUP vs. XLOOKUP\n\u2328\ufe0f (0:58:38) XLOOKUP (Exact Match)\n\u2328\ufe0f (1:02:58) XLOOKUP (Approximate Match)\n\u2328\ufe0f (1:06:38) XLOOKUP (Partial Match)\n\u2328\ufe0f (1:10:15) HLOOKUP\n\u2328\ufe0f (1:12:13) Conclusion\n\n\u2764\ufe0f Support for this channel comes from our friends at Scrimba \u2013 the coding platform that's reinvented interactive learning: http",
+        "id": 2421592,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=O3m9m6Ie4gY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/O3m9m6Ie4gY/hqdefault.jpg",
+        "title": "Excel Formulas & Functions You Should Know",
+        "vote": 0
+    }
+]

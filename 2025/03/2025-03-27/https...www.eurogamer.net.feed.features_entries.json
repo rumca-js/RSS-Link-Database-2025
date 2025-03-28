@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-27T12:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/rEPO.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp\" /> <p>I have a wonderfully vague memory of a game my older brothers used to play on the Commodore 64 back in the day. It was a platform game, with pixel heroes and floating gantries and ladders and all that jazz, but there was also a wheelbarrow, and you needed the wheelbarrow to hold all the collectibles you picked up. When you'd all but completed each screen - as my memory had it - you then had to leg it back to the wheelbarrow and take it to the next screen where the whole thing was repeated.</p> <p><a href=\"https://www.eurogamer.net/steam-hit-repo-hides-real-class-and-an-understanding-of-gaming-greats-behind-its-chummy-chaos-and-crude-emojis\">Read more</a></p>",
+        "id": 2419289,
+        "language": "en",
+        "link": "https://www.eurogamer.net/steam-hit-repo-hides-real-class-and-an-understanding-of-gaming-greats-behind-its-chummy-chaos-and-crude-emojis",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/rEPO.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp",
+        "title": "Steam hit REPO hides real class and an understanding of gaming greats behind its chummy chaos and crude emojis",
+        "vote": 0
+    }
+]

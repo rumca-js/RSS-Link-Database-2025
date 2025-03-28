@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-27T17:00:42+00:00",
+        "description": "Have you ever heard of the Emu War? It was a hilariously disastrous attempt at wild animal population control, and while you'd think that humans would have gotten better at that sort of thing in the last hundred-ish years, that doesn't seem to be the case. From making drug-resistant super rats to shooting at wolves from helicopters, here are seven of the ways we've tried to control nature, only for our efforts to backfire. \n\nHosted by: Savannah Geary (they/them)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: J.V. Rosenbalm, Jaap Westera, Jeffrey Mckishen, David Johnston, Gizmo, Friso, Wesus, Jeremy Mattern, Alan Wong, Matt Curls, Bethany Matthews, Blood Doctor Ke",
+        "id": 2423613,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=cg-q4Lkqaro",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cg-q4Lkqaro/hqdefault.jpg",
+        "title": "Humans Lost The Emu War",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-27T13:01:07+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/iVv2-r0k2b8\" width=\"480\" alt=\"thumbnail\" title=\"Get Linux Documentation On Your Phone! (Linux Command Library)\" /></p>I recently discovered this neat Android app that includes 6056 manual pages as well as a bunch of general Linux terminal tips. It works 100% offline, doesn't need an internet connection and is free and open source software.<br /><br />REFERENCED:<br />\u25ba https://github.com/SimonSchubert/LinuxCommandLibrary<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJWVnpQd3xBQ3Jtc0tsLVZJc19YeFlwZ2JqbXVOa3g0Skw4TVhTV2otNm1tM3A1bUNnamh3S2V6OGQtLTBnSjBxYTlvUXMxeEVIS3o4US10NENHMUQ3STk2a01FOFBhUnZjZFctMEhFUTg1TVctQmFfVUdxZXJ4TDl0azlYNA&q=https%3A%2F%2Fwww.paypal.com%2Fcgi-bin%2Fwebscr%3Fcmd%3D_donations%26business%3Dderek%2540distrotube%252ecom%26lc%3DUS%26item_name%3DDistroTube%26no_",
+        "id": 2420910,
+        "language": "en",
+        "link": "https://odysee.com/get-linux-documentation-on-your-phone!:ef63f0f833dae6875dea759b9c091aaabb09df92",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Get Linux Documentation On Your Phone! (Linux Command Library)",
+        "vote": 0
+    }
+]

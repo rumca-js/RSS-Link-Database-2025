@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AsapSCIENCE",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-27T17:30:12+00:00",
+        "description": "Ketamine has been rising in popularity now for years. The biochemistry and science of the drug is fascinating - leading to doctors, therapists and the general public using it more often. It potentially cures depression - while also being extremely dangerous. So what is going on with Ketamine, and why is everyone doing it now?\n\nCreated by: Mitchell Moffit and Gregory Brown\nWritten by: Gregory Brown\nEdited by: Luka Sarlija\nDrawn by: Gregory Brown\n\nReferences and Further Reading:\nhttps://www.nature.com/articles/s41467-023-37463-3\nhttps://www.nature.com/articles/s41598-023-40099-4\nhttps://www.nature.com/articles/s41386-023-01675-4\nhttps://www.nature.com/articles/s41746-025-01523-3\nhttps://www.newyorker.com/magazine/2023/08/28/elon-musks-shadow-rule\nhttps://www.nature.com/articles/s41386-025-02071-w",
+        "id": 2423655,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=DcvNyuZ6KVk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 22,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC552Sd-3nyi_tk2BudLUzA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DcvNyuZ6KVk/hqdefault.jpg",
+        "title": "Why ketamine is suddenly so popular",
+        "vote": 0
+    }
+]
