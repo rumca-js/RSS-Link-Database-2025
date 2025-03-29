@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-28T21:46:34+00:00",
+        "description": "<p>A seismologist walks us through the region\u2019s tectonic history</p>\n<p>The post <a href=\"https://nautil.us/what-caused-the-devastating-earthquake-in-myanmar-1200737/\">What Caused the Devastating Earthquake in Myanmar?</a> appeared first on <a href=\"https://nautil.us\">Nautilus</a>.</p>",
+        "id": 2434063,
+        "language": "en-US",
+        "link": "https://nautil.us/what-caused-the-devastating-earthquake-in-myanmar-1200737",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 232,
+        "source_url": "https://nautil.us/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "What Caused the Devastating Earthquake in Myanmar?",
+        "vote": 0
+    }
+]

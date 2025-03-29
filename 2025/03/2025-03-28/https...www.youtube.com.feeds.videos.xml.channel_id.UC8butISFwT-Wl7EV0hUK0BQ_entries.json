@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-28T18:55:15+00:00",
+        "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Ryan Furrer. He's a Front End Engineer working on tools that help companies monitor their buildings for energy usage, water leaks, and other environmental factors. Ryan dropped out of college and worked as a musician and violin instructor before teaching himself how to code, working freelance, and ultimately landing developer jobs.\n\nWe talk about:\n- Life as a broke musician\n- Teaching yourself to code while working full-time\n- How Ryan had to move back in with his parents after a divorce\n- His 5-year journey to his first developer job\n\nAlso, I want to thank the 11,384 kind people who support our charity each month, and who make this podcast possible. You can join them and support our mission at: https://www.freecodecamp.org/donate\n\nOr you can listen to the podcast in Apple Podcasts, Spotify, or your favorite podcast app. Be sure to follow the freeCodeCamp Podcast there so you'll get new episodes each",
+        "id": 2433154,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=PiWejwwj7Nk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PiWejwwj7Nk/hqdefault.jpg",
+        "title": "From broke musician to working dev. How college drop-out Ryan Furrer learned to code [Podcast #166]",
+        "vote": 0
+    }
+]

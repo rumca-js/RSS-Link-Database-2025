@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-28T10:00:00+00:00",
+        "description": "The brother goes on vision quests. The sister is a former English major. Together, they defected from OpenAI, started Anthropic, and built (they say) AI\u2019s most upstanding citizen, Claude.",
+        "id": 2428227,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/anthropic-benevolent-artificial-intelligence",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/67dc466ffa0c3a77d4f8f567/master/pass/WIRED_ANTHROPIC_002-V2_web.jpg",
+        "title": "If Anthropic Succeeds, a Nation of Benevolent AI Geniuses Could Be Born",
+        "vote": 0
+    }
+]

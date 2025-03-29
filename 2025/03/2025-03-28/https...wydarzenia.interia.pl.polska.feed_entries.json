@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-28T08:38:07+00:00",
+        "description": "Pose\u0142 PiS Dariusz Matecki zosta\u0142 przewieziony na w\u00f3zku do szpitala onkologicznego w Radomiu - donosz\u0105 media. Na pocz\u0105tku marca polityk trafi\u0142 na dwa miesi\u0105ce do aresztu - najpierw w na warszawskim S\u0142u\u017cewcu, a nast\u0119pnie w Radomiu.",
+        "id": 2427740,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/kraj/news-nowe-informacje-ws-dariusza-mateckiego-posel-trafil-do-szpit,nId,21323668",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nowe informacje ws. Dariusza Mateckiego. Pose\u0142 trafi\u0142 do szpitala",
+        "vote": 0
+    }
+]

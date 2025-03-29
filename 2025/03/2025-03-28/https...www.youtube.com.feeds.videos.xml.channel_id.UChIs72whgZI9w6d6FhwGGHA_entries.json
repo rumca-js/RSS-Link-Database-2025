@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-28T13:00:42+00:00",
+        "description": "Support GN and our local e-waste recycler and refurbisher at the same time! https://store.gamersnexus.net/\nThis video features an NVIDIA laptop with an RTX 5090 laptop GPU and Intel Ultra 9 275HX CPU, both of which are paired in the XMG Neo 16 that Just Josh brought with him to our studio when we helped with some testing insights this past week. The laptop has an interesting thermal solution, three blower fans, and technically supports water cooling (although the unit we have didn't seem to work - so maybe a future test). We liked seeing the heavy use of thermal putty as an interface material and gap filler. The GPU die, however, is interesting -- but not in a way unexpected for those who've followed the laptop space. It's not a true 5090 as the desktop users know it. It's more like a 5080, but in a laptop (and called a '5090'). High-end gaming and workstation laptops (like those for video editing) will soon be for sale for the RTX 50 series, joining the desktop launches. We'll wait ",
+        "id": 2430480,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=RmVpy6Vzpsc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RmVpy6Vzpsc/hqdefault.jpg",
+        "title": "\"Forbidden\" Disassembly: NVIDIA Laptop RTX \"5090\" with Water Cooling",
+        "vote": 0
+    }
+]

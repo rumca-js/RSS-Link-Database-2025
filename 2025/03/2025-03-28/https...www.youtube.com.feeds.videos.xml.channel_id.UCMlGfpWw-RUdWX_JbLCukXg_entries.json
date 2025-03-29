@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-28T15:07:05+00:00",
+        "description": "https://cppcon.org\u200b\nCppCon 2024 Early Access: https://cppcon.org/early-access\nAccess All 2024 Session Videos Ahead of Their Official Release To YouTube. At least 30 days exclusive access through the Early Access system. Videos will be released to the CppCon channel on a schedule of one video per business day, with initial releases starting in November.\n---\n\nGazing Beyond Reflection for C++26 - Daveed Vandevoorde - CppCon 2024\n---\n\nIn less than a year since its original publication, the WG21 proposal \u201cReflection for C++26\u201d (P2996) has made good progress towards its titular goal.  From its inception, we intended that design to offer a modest-but-useful set of features with a solid foundation on top of which we will be able to incrementally grow an easy-to-use, rich, and extensible C++ meta-programming framework.  This keynote will review some of the fundamental tools proposed in P2996 and follow up with a vision for some additional capabilities that we\u2019re working on.\n---\n\nSponsored by ",
+        "id": 2431051,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=wpjiowJW2ks",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/wpjiowJW2ks/hqdefault.jpg",
+        "title": "Gazing Beyond Reflection for C++26 - Daveed Vandevoorde - CppCon 2024",
+        "vote": 0
+    }
+]

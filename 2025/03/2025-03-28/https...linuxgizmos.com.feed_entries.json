@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-28T13:11:43+00:00",
+        "description": "M5Stack has launched the Module LLM Kit, combining the Module LLM and Module13.2 LLM Mate for offline AI inference and data communication. It supports applications like voice assistants, text-to-speech conversion, smart home control, and more. This module operates using the AiXin AX630C SoC processor, also found in other M5Stack products like the LLM630 Compute Kit [&#8230;]",
+        "id": 2429508,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/m5stack-expands-offline-llm-lineup-with-ethernet-enabled-kit",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "M5Stack Expands Offline LLM Lineup with Ethernet-Enabled Kit",
+        "vote": 0
+    }
+]

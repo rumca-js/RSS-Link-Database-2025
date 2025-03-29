@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Universal Pictures",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-28T19:00:42+00:00",
+        "description": "#Shorts #EternalSunshineOfTheSpotlessMind #JimCarrey #KateWinslet #EternalSunshine #BrighterDaysAhead #ArianaGrande #UniversalPictures #UniPics #Films #Movies",
+        "id": 2433058,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=o5iAcWWnTjI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 598,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq0OueAsdxH6b8nyAspwViw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o5iAcWWnTjI/hqdefault.jpg",
+        "title": "This is not a sign to get back with your ex (or is it?)",
+        "vote": 0
+    }
+]

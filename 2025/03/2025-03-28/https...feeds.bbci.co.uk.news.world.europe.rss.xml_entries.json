@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-28T03:15:32+00:00",
+        "description": "Prosecutors say at least 41 women have been identified as victims between 2021 and 2024.",
+        "id": 2426586,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c20l075ej5eo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db16/live/e0d7c950-0b76-11f0-a3b9-c98c72d3ccec.png",
+        "title": "Bar owners arrested over assaults on 41 women in Belgium",
+        "vote": 0
+    }
+]

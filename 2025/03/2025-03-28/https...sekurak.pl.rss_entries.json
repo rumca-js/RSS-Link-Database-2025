@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-28T07:17:41+00:00",
+        "description": "<p>Ledwo zd\u0105\u017cyli\u015bmy poinformowa\u0107 o tym, \u017ce Chrome \u0142ata b\u0142\u0105d wykorzystywany w kampanii ForumTroll, a podatno\u015b\u0107&#160;tego samego typu \u0142ata Firefox. Zosta\u0142a oznaczona numerem CVE-2025-2857. Jest ona bezpo\u015brednio powi\u0105zana ze znalezion\u0105&#160;wcze\u015bniej podatno\u015bci\u0105&#160;w Chrome i podobnie jak ona dotyczy wy\u0142\u0105cznie ucieczki z sandbox w systemie Windows. Zgodnie z informacj\u0105&#160;ze strony Mozilla, bezpieczne, poprawione...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/firefox-takze-lata-blad-zwiazany-z-ucieczka-z-sandbox-pod-windows/\">Firefox tak\u017ce \u0142ata b\u0142\u0105d zwi\u0105zany z ucieczk\u0105 z sandbox pod Windows</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2427077,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/firefox-takze-lata-blad-zwiazany-z-ucieczka-z-sandbox-pod-windows",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Firefox tak\u017ce \u0142ata b\u0142\u0105d zwi\u0105zany z ucieczk\u0105 z sandbox pod Windows",
+        "vote": 0
+    }
+]

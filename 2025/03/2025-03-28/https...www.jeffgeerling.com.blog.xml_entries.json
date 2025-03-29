@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-28T14:01:30+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">DIY PTP Grandmaster Clock with a Raspberry Pi</span>\n\n            <blockquote>\n  <p><strong>tl;dr</strong>: I set up an open source <a href=\"https://github.com/geerlingguy/time-pi\">Time Pi project</a> to build a stratum 1 PTP and NTP timeserver using a Raspberry Pi.</p>\n</blockquote>\n\n<p>Time is important to modern society, and most of us have a clock on our wrist that's more accurate than at any time in human history. But <em>highly precise</em> time is important in many industries, especially robotics, finance, and media production. And with tech like VR working its way into homes, precise time may become more important <em>there</em>, too.</p>\n\n<p>The timing industry has many solutions for 'grandmaster' clocks, which take in highly accurate time from GPS, GNSS, or other atomic-clock-backed time sources, and distribute it to local networks with <em>extreme</em> precision\u2014down to the nanosecond range\u2014using ",
+        "id": 2430079,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "DIY PTP Grandmaster Clock with a Raspberry Pi",
+        "vote": 0
+    }
+]

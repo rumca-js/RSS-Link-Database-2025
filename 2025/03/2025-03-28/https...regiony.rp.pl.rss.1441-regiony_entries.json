@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-28T07:56:49+00:00",
+        "description": "Samorz\u0105dowcy odpowiadaj\u0105cy za zarz\u0105dzanie kryzysowe chc\u0105 zobaczy\u0107, w jaki spos\u00f3b funkcjonuj\u0105 schrony, miejsca ochrony i system kierowania ludzi we Lwowie i w Charkowie.",
+        "id": 2427103,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/z-regionow/art42022141-jak-samorzady-maja-przygotowac-schrony-i-schronienia",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Jak samorz\u0105dy maj\u0105 przygotowa\u0107 schrony i schronienia?",
+        "vote": 0
+    }
+]

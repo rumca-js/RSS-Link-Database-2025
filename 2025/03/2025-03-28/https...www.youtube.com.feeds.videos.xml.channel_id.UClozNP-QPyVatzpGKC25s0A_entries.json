@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brad Colbow",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-28T22:47:01+00:00",
+        "description": "How I finally Learned to draw hands https://www.youtube.com/watch?v=1TU7VVd_Qgc\nNEW COURSES: http://bradsartschool.com\n\nChat GPT has added an image generator and to promote it they rolled out a Ghibli image maker that can turn your photos into Ghiblized cartoons. And while I've seen a lot of images that look like Ghibli I haven't seen anything that feels like Ghibli.\n\n-----------------------------------------------------\n\nInstagram:\nhttps://www.instagram.com/brad.colbow/\n\nThreads:\nhttps://www.threads.net/@brad.colbow\n\nBluesky:\nhttps://bsky.app/profile/bradcolbow.bsky.social\n\nDrawing Tech Top 10 lists:\nhttps://www.bradsartschool.com/drawing-tablet-rankings",
+        "id": 2434245,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=N4qIEULexAw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 44,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClozNP-QPyVatzpGKC25s0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/N4qIEULexAw/hqdefault.jpg",
+        "title": "AI can Never Replace Ghibli",
+        "vote": 0
+    }
+]

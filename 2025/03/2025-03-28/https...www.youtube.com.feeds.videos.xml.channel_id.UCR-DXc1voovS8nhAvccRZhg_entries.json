@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-28T14:00:19+00:00",
+        "description": "I control time now! At least, in the studio.\n\nPTP, NTP, GPS, PPS, what's it all about? In this first part to a new time series, I'll show you how I built a Raspberry Pi grandmaster time server for my network. Then I'll see how it compares to a commercial grandmaster clock from MasterClock!\n\nMentioned in this video:\n\n  - My Time Pi project: https://github.com/geerlingguy/time-pi\n  - Time HAT V4: https://www.tindie.com/products/timeappliances/timehat-i226-nic-with-pps-inout-for-rpi5/\n  - GPS Module: https://www.tindie.com/products/timeappliances/ocp-m2-neo-m9n-gnss/\n  - Masterclock CLDNTD12 Analog/Digital NTP Clock: https://www.masterclock.com/digital-analog-clock-cldntd12.html\n  - Masterclock NTDS112 Rackmount NTP Clock: https://www.masterclock.com/ntds112-ntp-display.html\n  - The Atlantic - Where Time Comes From: https://www.youtube.com/watch?v=MfV_vV0sGlo\n  - US Naval Observatory Tour: https://www.youtube.com/watch?v=SnGpdv5J4Ao\n\nSupport me on Patreon: https://www.patreon.com/geerli",
+        "id": 2430155,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=zT71UvUxhjU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zT71UvUxhjU/hqdefault.jpg",
+        "title": "It's about time...",
+        "vote": 0
+    }
+]

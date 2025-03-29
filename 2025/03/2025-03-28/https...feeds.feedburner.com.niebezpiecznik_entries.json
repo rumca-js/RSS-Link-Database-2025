@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-28T14:15:42+00:00",
+        "description": "<p>Podatno\u015bci aplikacji webowych miewaj\u0105 r\u00f3\u017cn\u0105 genez\u0119. Mog\u0105 by\u0107 niezawinione &#8211; b\u0142\u0119dom typu 0-day nie da si\u0119 skutecznie zapobiec. Mog\u0105 by\u0107 w pe\u0142ni zawinione &#8211; gdy w trzeciej dekadzie XXI wieku programista pisze kod podatny na SQL injection. Mog\u0105 by\u0107 te\u017c wynikiem roztargnienia lub nieuwagi &#8211; np. wtedy, gdy na \u015bwiat wystawione zostanie repozytorium kodu, w kt\u00f3rym przechowywana jest owa aplikacja. Nieuprawniony dost\u0119p do takiego repozytorium mo\u017ce oznacza\u0107 <strong>przej\u0119cie kontroli nad ca\u0142\u0105 webaplikacj\u0105</strong> &#8211; gdy w kodzie \u017ar\u00f3d\u0142owym albo plikach konfiguracyjnych znajdziemy has\u0142o do bazy danych, klucze prywatne do us\u0142ug chmurowych albo plik tekstowy z has\u0142em administratora. Podobnie stanie si\u0119, gdy operator zapisze kopi\u0119 bezpiecze\u0144stwa do pliku <span class=\"code\">backup.zip</span> zlokalizowanego w g\u0142\u00f3wnym katalogu witryny.<span id=\"more-26380\"></span></p>\n<p>Ja postanowi\u0142em za\u017cartowa\u0107 sobie z os\u00f3b, kt\u00f3re szukaj\u0105 takich podatno\u015bci.</p>\n<div class=\"info\">Autorem",
+        "id": 2430701,
+        "language": null,
+        "link": "https://niebezpiecznik.pl/post/rickroll-w-repo-i-bomba-w-niezbyt-glebokim-ukryciu",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rickroll w repo i bomba w (niezbyt) g\u0142\u0119bokim ukryciu",
+        "vote": 0
+    }
+]
