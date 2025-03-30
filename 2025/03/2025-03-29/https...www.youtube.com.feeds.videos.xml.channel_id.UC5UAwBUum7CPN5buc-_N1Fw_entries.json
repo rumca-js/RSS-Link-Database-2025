@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-29T10:24:37+00:00",
+        "description": "Grab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:43 AI bots put heavy pressure on open source projects\n03:53 Android dev process goes private\n07:11 Linux kernel 6.14 released\n10:18 Ubuntu 25.04 beta released\n12:56 GRUB gets Rust code prototype\n14:44 KDE devs propose replacement for SDDM\n16:41 Nova driver gets more love\n18:36 Sponsor: Tuxedo Computers\n\n#linuxdesktop #linuxnews #technews \n\n \nLinks:\nAI bots put heavy pressure on open source projects\nhttps://arstech",
+        "id": 2436680,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=weFVHVPynRI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/weFVHVPynRI/hqdefault.jpg",
+        "title": "AI bots DDOS Open source projects, Android goes private: Linux & Open Source News",
+        "vote": 0
+    }
+]

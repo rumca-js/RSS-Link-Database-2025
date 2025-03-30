@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-29T08:00:00+00:00",
+        "description": "<p><span>\n\nI run a lot of one-off jobs </span>\n\n<a href=\"https://www.jefftk.com/p/ec2-scripts\">on EC2 machines</a>.  This\nusually looks like:\n\n\n\n<ul>\n<li>Stand up a machine\n</li>\n<li>Mess around for a while trying things and writing code\n</li>\n<li>Run my command under screen\n</li>\n</ul>\n\nFor short jobs this is fine, but when I run a long job there are two\nissues:\n\n\n\n<ul>\n\n<li><p>If the machine costs a non-trivial amount and the job finishes\nin the middle of the night I'm not awake to shut it down.\n\n</p></li>\n<li><p>I could, and sometimes do, forget to turn the machine off.\n\n</p></li>\n</ul>\n\n\n\n<p>\n\nIdeally I could tell the machine to shut itself off if no one was\nlogging in and there weren't any active jobs.\n\n</p>\n\n<p>\n\nI didn't see anything like this (though I didn't look very hard) so I\nwrote something (<a href=\"https://github.com/jeffkaufman/auto-shutdown\">github</a>):\n\n</p>\n\n<p>\n\n</p>\n\n<pre>\n$ prevent-shutdown long-running-command\n</pre>\n\n\n\n<p>\n\nAs long as that command is still ru",
+        "id": 2437356,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/auto-shutdown-script",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Auto Shutdown Script",
+        "vote": 0
+    }
+]

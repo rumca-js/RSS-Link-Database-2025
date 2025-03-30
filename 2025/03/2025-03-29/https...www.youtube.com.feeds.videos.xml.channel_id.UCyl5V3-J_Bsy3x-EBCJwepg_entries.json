@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-29T12:45:01+00:00",
+        "description": "The Babylon Bee talks about Snow White and all the controversy swirling around perhaps the best movie of the year.",
+        "id": 2437064,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Enps3UJyVkg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Enps3UJyVkg/hqdefault.jpg",
+        "title": "Is SNOW WHITE The Best Movie Of 2025? The Babylon Bee Says Yes",
+        "vote": 0
+    }
+]

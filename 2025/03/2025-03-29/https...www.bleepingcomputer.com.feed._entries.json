@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-29T10:23:46+00:00",
+        "description": "The U.S. Department of Justice (DOJ) has seized over $8.2 million worth of USDT (Tether) cryptocurrency that was stolen via 'romance baiting' scams. [...]",
+        "id": 2438794,
+        "language": "en-US",
+        "link": "https://www.bleepingcomputer.com/news/cryptocurrency/us-seized-82-million-in-crypto-linked-to-romance-baiting-scams",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 40,
+        "source_url": "https://www.bleepingcomputer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "U.S. seized $8.2 million in crypto linked to 'Romance Baiting' scams",
+        "vote": 0
+    }
+]

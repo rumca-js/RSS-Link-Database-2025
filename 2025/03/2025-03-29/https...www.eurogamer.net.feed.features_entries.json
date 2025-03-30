@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-29T15:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/vrr-site_xssvGiB.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp\" /> <p>We've received a continuous stream of reports over the last few months suggesting there's a problem with PlayStation 5: VRR support has an issue where game performance can be interrupted by a continuous, obvious stutter that manifests every eight seconds. Various theories have been shared and discussed online, covering a range of displays and firmwares but after spending some time investigating the problem, we can confirm it is a real problem, impacting both PS5 and Pro consoles - and based on our tests, it will impact any VRR-compatible display.</p> <p><a href=\"https://www.eurogamer.net/digitalfoundry-2025-confirmed-playstation-5-and-ps5-pro-have-vrr-stuttering-problems\">Read more</a></p>",
+        "id": 2437760,
+        "language": "en",
+        "link": "https://www.eurogamer.net/digitalfoundry-2025-confirmed-playstation-5-and-ps5-pro-have-vrr-stuttering-problems",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/vrr-site_xssvGiB.jpg?width=1920&height=1920&fit=bounds&quality=80&format=jpg&auto=webp",
+        "title": "Confirmed: PlayStation 5 and PS5 Pro have VRR stuttering problems",
+        "vote": 0
+    }
+]

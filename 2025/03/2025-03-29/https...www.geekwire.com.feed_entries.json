@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-29T14:10:58+00:00",
+        "description": "<img width=\"1260\" height=\"840\" src=\"https://cdn.geekwire.com/wp-content/uploads/2025/03/AMAZON2025_0226_105609-7335_ALIVECOVERAGE-1260x840.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://cdn.geekwire.com/wp-content/uploads/2025/03/AMAZON2025_0226_105609-7335_ALIVECOVERAGE-1260x840.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2025/03/AMAZON2025_0226_105609-7335_ALIVECOVERAGE-768x512.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2025/03/AMAZON2025_0226_105609-7335_ALIVECOVERAGE-1536x1025.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2025/03/AMAZON2025_0226_105609-7335_ALIVECOVERAGE-2048x1366.jpg 2048w, https://cdn.geekwire.com/wp-content/uploads/2025/03/AMAZON2025_0226_105609-7335_ALIVECOVERAGE-630x420.jpg 630w\" sizes=\"(max-width: 1260px) 100vw, 1260px\"><br>This week on the GeekWire Podcast: A conversation with Daniel Rausch, Amazon\u2019s vice president of Alexa and Echo, recorded at the company\u2019s Sea",
+        "id": 2437690,
+        "language": "en-US",
+        "link": "https://www.geekwire.com/2025/geekwire-podcast-inside-amazons-attempt-to-reinvent-alexa-for-the-new-era-of-ai",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 131,
+        "source_url": "https://www.geekwire.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GeekWire Podcast: Inside Amazon\u2019s attempt to reinvent Alexa for the new era of AI",
+        "vote": 0
+    }
+]

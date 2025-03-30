@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Hugh Jeffreys",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-29T22:00:02+00:00",
+        "description": "It might of taken two videos, but I didn't give up easily on this poor old iMac. After repairing the internals, it receives a proper clean, making it look almost like new.\n----------------------------------------iTest---------------------------------------\nEasily test hardware functionality and device specifications with iTest\nAndroid: https://play.google.com/store/apps/details?id=com.hughjeffreyssoftware.iTest\nIOS: https://apps.apple.com/us/app/itest/id6484069424\n--------------------------------------Socials-------------------------------------\nWebsite: https://www.hughjeffreys.com\nStore: https://www.hughjeffreys.com/store\nInstagram: http://instagram.com/hughjeffreys\nPatreon: https://www.patreon.com/hughjeffreys",
+        "id": 2439986,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=34ux7DDxrJo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 145,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQDhxkSxZA6lxdeXE19aoRA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/34ux7DDxrJo/hqdefault.jpg",
+        "title": "Restoring an iMac G4 That Was Left Outside - Full of Dirt And Rust",
+        "vote": 0
+    }
+]

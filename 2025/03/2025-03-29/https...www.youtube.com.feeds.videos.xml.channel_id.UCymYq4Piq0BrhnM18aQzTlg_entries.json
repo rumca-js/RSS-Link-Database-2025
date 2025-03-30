@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-29T22:45:01+00:00",
+        "description": "A few years ago we looked at the Framework Chromebook 13 laptop. Because Framework's laptops are upgradeable, I wanted to see if I could turn the guts of this Chromebook into a Chromebox and then convert the laptop to a more recent Windows PC. The laptop conversion will be in part 2 ! See my Framework reviews: https://www.youtube.com/watch?v=h-Pc_u8OYTM&list=PLCZHp4d1HnIthmNz-xcghu4y6o19aHX7I and subscribe! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n01:51 - Prereq's and Framework Guides\n02:42 - Step 1 : Getting inside the Chromebook\n04:27 - Step 2: Disconnect the Battery and Other Peripherals\n07:13 - Step 3: Wifi module and antenna removal\n10:39 - Step 4: Mainboard removal\n11:41 - Step 5: Motherboard Installation in Case\n14:37 - First Boot\n15:49 - Fully Assembled Case, Mount Options\n17:13 - Conclusion\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee",
+        "id": 2440224,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=PLeACvQ8Yjo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PLeACvQ8Yjo/hqdefault.jpg",
+        "title": "Framework Laptop Upgrade Part 1: Chromebook to Chromebox!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-29T00:15:31+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Google has introduced version 2.5 of its <a href=\"https://www.infoworld.com/article/3622598/google-unveils-gemini-2-0-ai-model-for-agentic-era.html\">Gemini AI model</a>, which the company said offers a new level of performance by combining an enhanced base model with improved post-training.</p>\n\n\n\n<p>The Gemini 2.5 models are thinking models, capable of reasoning through their thoughts before responding, thus resulting in better performance and improved accuracy, said Koray Kavukcuoglu, CTO of <a href=\"https://www.infoworld.com/article/3844489/google-unveils-gemma-3-multi-modal-ai-models.html\">Google DeepMind</a>, in a <a href=\"https://blog.google/technology/google-deepmind/gemini-model-thinkin",
+        "id": 2434686,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/3856556/google-introduces-gemini-2-5-reasoning-models.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google introduces Gemini 2.5 reasoning models",
+        "vote": 0
+    }
+]
