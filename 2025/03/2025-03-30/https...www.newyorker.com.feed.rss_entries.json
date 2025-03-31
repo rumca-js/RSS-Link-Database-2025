@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-30T10:00:00+00:00",
+        "description": "An elbow-injury epidemic has become an existential threat to the sport, prompting the M.L.B. to brainstorm new solutions, such as the use of a heavier ball.",
+        "id": 2442268,
+        "language": "en-US",
+        "link": "https://www.newyorker.com/sports/sporting-scene/baseball-reaches-its-breaking-point",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 351,
+        "source_url": "https://www.newyorker.com/feed/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.newyorker.com/photos/67e451f3a5a4f0056e03e611/master/pass/Adler_ElbowInjuries.jpg",
+        "title": "Baseball Reaches Its Breaking Point",
+        "vote": 0
+    }
+]

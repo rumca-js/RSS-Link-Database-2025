@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-30T11:00:32+00:00",
+        "description": "It\u2019s a significant finding in the search for alien\u00a0life.",
+        "id": 2442420,
+        "language": "en-US",
+        "link": "https://arstechnica.com/science/2025/03/nasas-curiosity-rover-has-found-the-longest-chain-carbon-molecules-yet-on-mars",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/file-20250327-56-dflaq1-500x500.jpg",
+        "title": "NASA\u2019s Curiosity rover has found the longest chain carbon molecules yet on Mars",
+        "vote": 0
+    }
+]

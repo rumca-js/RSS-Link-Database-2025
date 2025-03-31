@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-30T19:00:00+00:00",
+        "description": "This week, our first place winner on the insightful side is frankcox with a comment about the horrifying abduction of Rumeysa Ozturk: Masked abductors? The people doing this are obviously ashamed of themselves because they are wearing masks to prevent anyone from identifying them. That adds another level of terror to this sort of thing. [&#8230;]",
+        "id": 2444718,
+        "language": "en-US",
+        "link": "https://www.techdirt.com/2025/03/30/funniest-most-insightful-comments-of-the-week-at-techdirt-154",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 325,
+        "source_url": "https://www.techdirt.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Funniest/Most Insightful Comments Of The Week At Techdirt",
+        "vote": 0
+    }
+]

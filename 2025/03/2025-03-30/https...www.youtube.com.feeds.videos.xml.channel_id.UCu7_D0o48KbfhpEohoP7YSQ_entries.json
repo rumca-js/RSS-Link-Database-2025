@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andreas Spiess",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-30T07:00:19+00:00",
+        "description": "Yes, here in Switzerland, we actually have atomic bunkers\u2014but, you know, we're practical folks. Why waste a perfectly good underground fortress waiting for nuclear doom when it can double as a car parking? And as the home for our Smart Meters. A nod to Batman\u2019s secret lair, if you will. \nToday's engineering challenge is clear: Can I successfully capture the Smart Meter signals buried deep beneath layers of reinforced concrete and stream that data to my Grafana dashboard?\nWill I impress you with Swiss ingenuity, or will I end up banging my head against the walls of the bunker? Stick around because either way, it's going to get interesting.\n\nMy second channel: https://www.youtube.com/HB9BLAWireless\n\nLinks:\nLoRa32 boards: https://s.click.aliexpress.com/e/_okKvXKH\nBackup Battery: https://s.click.aliexpress.com/e/_oCuqRSN\ngPlug M: https://gplug.ch/produkte/gplugm/\n\nSketches: https://github.com/SensorsIot/MQTT-Extender\n\nPatreon supporter companies:\nhttps://www.welectron.com/\n\nThe links abo",
+        "id": 2441505,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=EMUxSV9rrCg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 17,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7_D0o48KbfhpEohoP7YSQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EMUxSV9rrCg/hqdefault.jpg",
+        "title": "An adventure: Reading a Smartmeter in a Bunker (MQTT message extender)",
+        "vote": 0
+    }
+]

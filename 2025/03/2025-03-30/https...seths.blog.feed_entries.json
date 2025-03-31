@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-30T08:11:00+00:00",
+        "description": "Really? Which self? The self you were when you were two years old, almost out of diapers? The self you were when you were screaming with the fans at the big game? The self you were after a long night? How about this: Become the self you&#8217;d be proud to be. Hang out with people [&#8230;]",
+        "id": 2441637,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/03/be-yourself",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u201cBe yourself\u201d",
+        "vote": 0
+    }
+]

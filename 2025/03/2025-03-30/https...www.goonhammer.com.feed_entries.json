@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-30T19:43:49+00:00",
+        "description": "Packmule Potatoes and a Helpful Tool to plan out your years in brutal space wars in this week's Content We Liked.",
+        "id": 2444986,
+        "language": "en-GB",
+        "link": "https://www.goonhammer.com/content-we-liked-30th-march-2025",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 136,
+        "source_url": "https://www.goonhammer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Content We Liked: 30th March, 2025",
+        "vote": 0
+    }
+]

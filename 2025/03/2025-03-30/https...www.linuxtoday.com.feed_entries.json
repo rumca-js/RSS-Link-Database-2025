@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-30T13:38:10+00:00",
+        "description": "<p>This event was a wee bit different from other ATO events, since the opening day was focused on training, meaning everybody on Monday was there to do some serious learning. </p>\n<p>The post <a href=\"https://www.linuxtoday.com/blog/attendance-exceeds-expectations-at-atos-big-open-source-ai-conference/\">Attendance Exceeds Expectations at ATO\u2019s Big Open Source AI Conference</a> appeared first on <a href=\"https://www.linuxtoday.com\">Linux Today</a>.</p>",
+        "id": 2443772,
+        "language": "en-US",
+        "link": "https://www.linuxtoday.com/blog/attendance-exceeds-expectations-at-atos-big-open-source-ai-conference",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 195,
+        "source_url": "https://www.linuxtoday.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Attendance Exceeds Expectations at ATO\u2019s Big Open Source AI Conference",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-30T12:00:20+00:00",
+        "description": "<p><em>Vivaldi, the proprietary Norwegian browser that's largely built on open-source code, further distinguishes itself from other Chrome-based browsers by adding a baked-in on-demand Proton VPN implementation.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/03/vivaldi-adds-built-in-proton-vpn-to-its-browser/\">Vivaldi Adds Built-In Proton VPN to Its Browser</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 2442605,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/03/vivaldi-adds-built-in-proton-vpn-to-its-browser",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Vivaldi Adds Built-In Proton VPN to Its Browser",
+        "vote": 0
+    }
+]
