@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-31T17:00:06+00:00",
+        "description": "She's the woman who cancelled Conan, hired Phoebe Waller-Bridge to do nothing for five years, paid the Russo Brothers $300 Million for a TV show no one wanted, and made the Rings of Power what it is today. And a couple of days ago, her time finally ran out. \n\nWant to support our Trial By Fire on Kickstarter? Follow this link: https://www.kickstarter.com/projects/trialbyfiredrake/trial-by-fire-1/description\n\nOr go to Kickstarter.com and search for Trial By Fire Critical Drinker. Thanks for your suppport!",
+        "id": 2451862,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=763X3PvLKoM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/763X3PvLKoM/hqdefault.jpg",
+        "title": "Jennifer Salke Fired - Amazon's Kathleen Kennedy And Her Legacy Of Failure",
+        "vote": 0
+    }
+]

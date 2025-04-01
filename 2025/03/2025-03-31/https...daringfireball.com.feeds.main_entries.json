@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-31T19:46:31+00:00",
+        "description": "<p>Jon Brodkin, reporting for Ars Technica, \u201c<a href=\"https://arstechnica.com/tech-policy/2025/03/france-fines-apple-e150m-for-excessive-pop-ups-that-let-users-reject-tracking/\">France Fines Apple \u20ac150M for \u201cExcessive\u201d Pop-Ups That Let Users Reject Tracking</a>\u201d:</p>\n\n<blockquote>\n  <p>France\u2019s competition regulator fined Apple \u20ac150 million, saying\nthe iPhone maker went overboard in its implementation of pop-up\nmessages that let users consent to or reject tracking that\nthird-party applications use for targeted advertising.</p>\n\n<p>The App Tracking Transparency (ATT) framework used by Apple on\niPhones and iPads since 2021 makes the use of third-party\napplications too complex and hurts small companies that rely on\nadvertising revenue, said a <a href=\"https://www.autoritedelaconcurrence.fr/en/press-release/targeted-advertising-autorite-de-la-concurrence-imposes-fine-eu150000000-apple\">press release</a> today by the\nAutorit\u00e9 de la concurrence (Competition Authority). The system\nharms \u201csm",
+        "id": 2453061,
+        "language": null,
+        "link": "https://daringfireball.net/2025/03/france_merde_decision_app_tracking_transparency",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2605 France Fines Apple $162M for App Tracking Transparency, Taking the Side of Surveillance Advertisers Over Users",
+        "vote": 0
+    }
+]

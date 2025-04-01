@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-31T14:22:02+00:00",
+        "description": "A powerful mathematical technique is used to model melting ice and other phenomena. But it has long been imperiled by certain \u201cnightmare scenarios.\u201d A new proof has removed that obstacle.            <p>The post <a href=\"https://www.quantamagazine.org/a-new-proof-smooths-out-the-math-of-melting-20250331/\" target=\"_blank\">A New Proof Smooths Out the Math of Melting</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2449884,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/a-new-proof-smooths-out-the-math-of-melting-20250331",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/03/MultiplicityOneConjecture-crClausJensen_ScienceSource-Default.webp",
+        "title": "A New Proof Smooths Out the Math of Melting",
+        "vote": 0
+    }
+]

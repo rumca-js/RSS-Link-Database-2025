@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-31T12:21:18+00:00",
+        "description": "Inhaling dust particles from the Red Planet over long periods of time could put humans at risk of developing respiratory issues, thyroid disease and other health problems.",
+        "id": 2452964,
+        "language": "en-us",
+        "link": "https://www.sciencedaily.com/releases/2025/03/250331122118.htm",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 188,
+        "source_url": "https://www.sciencedaily.com/rss/all.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Martian dust could pose health risks to future astronauts",
+        "vote": 0
+    }
+]

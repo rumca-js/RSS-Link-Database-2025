@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-31T12:20:43+00:00",
+        "description": "The far-right National Rally leader's sentence jeopardises her chances of running for president in 2027.",
+        "id": 2449299,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cwyq40yz70qo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 523,
+        "source_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61c4/live/1c1c1570-0e15-11f0-ba12-8d27eb561761.png",
+        "title": "Marine Le Pen barred from running for public office for five years",
+        "vote": 0
+    }
+]

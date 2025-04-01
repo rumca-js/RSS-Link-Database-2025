@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-31T14:07:03+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightweight Operator Fusion Using Data-Centric Function Interfaces in C++ - Manya Bansal - CppCon 2024\n---\n\nFunctions are the fundamental unit of interoperability in software design: users write applications by composing functions provided by various libraries. However, naive function composition can result in poor performance due to memory overheads that exist at function boundaries. Operator fusion --- combining the execution of several operators into one operator --- is a well-known technique to combat this overhead. Previous solutions to add fusion rely on complex, monolithic compilers and languages that force performance engineers to rediscover old solutions in new ecosystems, leading to decades of performance engineering work going underutilized. In this work, I attempt to identify the minimal ingredients required to enable fusion on top of existing library interfaces. In doing so, I propose a lightweight enrichment of function interfaces that exposes d",
+        "id": 2449747,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=pEcOZDRXhNM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pEcOZDRXhNM/hqdefault.jpg",
+        "title": "Lightweight Operator Fusion Using Data-Centric Function Interfaces in C++ - Manya Bansal - CppCon",
+        "vote": 0
+    }
+]

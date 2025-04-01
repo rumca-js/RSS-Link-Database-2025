@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-31T10:21:09+00:00",
+        "description": "<p>Nagra\u0142em <a href=\"https://youtu.be/yygL_-HEnqE?si=U2nFTixlsB3j789l\" target=\"_blank\">film o Signalgate</a>. Dziel\u0119\u00a0si\u0119 w nim g\u0142\u0119bszymi refleksjami ni\u017c\u00a0tylko &#8220;hehe, dodali przypadkowego dziennikarza do grupy&#8221;. Bo moim zdaniem wyciek tajnych rozm\u00f3w to nie jedyny, a mo\u017ce nawet i nie najwa\u017cniejszy problem tej afery: </p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/yygL_-HEnqE?si=vdzLNKTVvJId1liF\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></p>\n<p>Z filmu dowiecie si\u0119 nast\u0119puj\u0105cych kwestii:</p>\n<ul>\n<li><strong>O POUFNO\u015aCI KOMUNIKACJI RZ\u0104DOWEJ:</strong></li>\n<li>Czy u\u017cycie Signala jest dozwolone przez administracj\u0119\u00a0USA? A je\u015bli tak, to w jakich sytuacjach?</li>\n<li>Z jakich profesjonalnych terminali szyfruj\u0105cych korzystaj\u0105 politycy w USA, kiedy chc\u0105 to si\u0119\u00a0bezpiecznie",
+        "id": 2448542,
+        "language": null,
+        "link": "https://niebezpiecznik.pl/post/nawet-najlepsze-szyfrowanie-nie-zabezpieczy-twoich-tajemnic-jesli-jestes-debilem",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nawet najlepsze szyfrowanie nie zabezpieczy Twoich tajemnic je\u015bli jeste\u015b debilem",
+        "vote": 0
+    }
+]

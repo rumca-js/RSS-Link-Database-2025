@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-31T22:45:00+00:00",
+        "description": "Sign up for a Plex Pass: http://lon.tv/plexpass (compensated affiliate link) - In our latest monthly sponsored Plex video we take a look at today's announcement of the new Plex mobile app along with price changes to Plex Pass and the new Remote Playback subscription. See more Plex - https://www.youtube.com/playlist?list=PLCZHp4d1HnIvqJPAmMooCKOHieLdi3I7o and subscribe! http://lon.tv/s\n\nLinks:\nNew mobile deep dive: https://www.youtube.com/watch?v=K1OFhQB2SrE\n\nNew TV interface beta: https://www.youtube.com/watch?v=hIAIXl14fqo\n\nPlexamp: https://www.youtube.com/watch?v=YPM5FjRVtA8&list=PLCZHp4d1HnIuAEyBEFXmS9gz12X_4mnVD\n\nPlex Photos: https://www.youtube.com/watch?v=TMtSGUan54E\n\nVIDEO INDEX:\n00:00 - Intro\n00:49 - Mobile update\n01:45 - Accessing Media Server Libraries\n02:44 - OTA TV Works in the Mobile App\n04:20 - Where did Music and Photos go?\n05:15 - Auto login to prevent login prompts\n05:47 - App visual improvements\n06:24 - Plex Pass Changes\n06:46 - Plex Pass Price Increase April 29 \n07",
+        "id": 2453943,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=SxYprlzbRsA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SxYprlzbRsA/hqdefault.jpg",
+        "title": "What's Going on at Plex? New Plex App Release, Plex Pass Changes and More",
+        "vote": 0
+    }
+]

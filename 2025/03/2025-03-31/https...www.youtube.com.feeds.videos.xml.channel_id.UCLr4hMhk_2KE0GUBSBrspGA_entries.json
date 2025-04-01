@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-31T18:29:04+00:00",
+        "description": "Zwyk\u0142e zdj\u0119cie \u2192 klimat jak z filmu Studia Ghibli.\nW kilkana\u015bcie sekund (no chyba, \u017ce akurat zamuli) ChatGPT jest w stanie przerobi\u0107 Twoj\u0105 fotk\u0119 w bajkowy \u015bwiat anime. Wi\u0119cej na ten temat opowiadam w ostatnim odcinku Tech Weeka.\n\n#StudioGhibli #GhibliStyle #AIart #GhibliFilter #FotoNaAnime #AnimeEffect #GhibliShort #JakToZrobi\u0107 #AIphoto",
+        "id": 2452372,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=aK-r9-vVj4A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aK-r9-vVj4A/hqdefault.jpg",
+        "title": "Jak przerobi\u0107 fotk\u0119 w stylu Ghibli?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-03-31T09:00:49+00:00",
+        "description": "Ashley Pointer | March 31, 2025\nIn 2021, the Tiny Desk x globalFEST series was created to promote international music discovery. For the fifth edition, we present artists from Cabo Verde, France and Colombia. \n\nWhen we shot this concert in early January, it was nearly freezing outside. But the moment Elida Almeida stepped behind the Tiny Desk, her powerful voice, the vivid stories from her native Cabo Verde, and the irresistible rhythms of her band quickly warmed us up\u2026 and got us moving.\n\nDraped in a striking lime-green satin dress, Almeida opens the show with a two-song medley of \"Djam Odja\" and \"Mudjei.\" Keys take center stage as drums and rhythm guitar drive the pulse, while she sings of her journey leaving her hometown of Santiago \u2014 it's the largest island of Cabo Verde, located off the coast of West Africa. Transitioning into \"Mudjei,\" an ode to womanhood, she makes a declarative statement: \"This song talks about women, one of the most beautiful creatures God created,\" before i",
+        "id": 2448022,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=kIzhoZAf6QQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/kIzhoZAf6QQ/hqdefault.jpg",
+        "title": "Elida Almeida: Tiny Desk x globalFEST",
+        "vote": 0
+    }
+]
