@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-01T19:47:24+00:00",
+        "description": "<p>\n\t<img alt=\"RaymondChen_5in-150x150.jpg\" src=\"https://isocpp.org/files/img/RaymondChen_5in-150x150.jpg\" style=\"width: 150px; margin: 10px; float: right;\" />When working with a mutex-protected variable, you often need to read or modify its value while holding the lock, but then operate on the value outside the lock to minimize contention. While the traditional approach involves copying the value within a locked scope, using an immediately-invoked lambda or helper function can streamline this process, enabling efficient copy elision or move semantics to optimize performance.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://devblogs.microsoft.com/oldnewthing/20250127-00/?p=110809\">A Pattern for Obtaining a Single Value While Holding a Lock</a></h3>\n\t<p>\n\t\tby Raymond Chen</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tIt is often the case that you have a mutex or other lockable object which protects access to a complex variable, and you want to read the variable&rsquo;s val",
+        "id": 2462051,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/04/a-pattern-for-obtaining-a-single-value-while-holding-a-lock-raymond-chen",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A Pattern for Obtaining a Single Value While Holding a Lock -- Raymond Chen",
+        "vote": 0
+    }
+]

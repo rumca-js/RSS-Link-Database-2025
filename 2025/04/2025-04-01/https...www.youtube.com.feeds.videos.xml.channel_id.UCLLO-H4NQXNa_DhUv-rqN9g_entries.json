@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CD-Action",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-01T00:51:52+00:00",
+        "description": "Chod\u017acie obejrze\u0107 z nami prezentacj\u0119\u00a0gier na Nintendo Switch 2!\n\nUdzia\u0142 bior\u0105:\n\nKrzysztof \u201eBastian\u201d Freudenberger (http://twitter.com/BastianCDA)\nDawid \u201espikain\" Bojarski (http://dawid.omg.lol)",
+        "id": 2456863,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=YtI26MDm9lQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 53,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLO-H4NQXNa_DhUv-rqN9g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YtI26MDm9lQ/hqdefault.jpg",
+        "title": "OGL\u0104DAMY NA \u017bYWO: SWITCH 2 \u2013 Nintendo Direct",
+        "vote": 0
+    }
+]

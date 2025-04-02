@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-01T13:00:45+00:00",
+        "description": "A class action complaint claims OnlyFans is allowing fraud on its platform by letting models use agency chat service to talk to fans.",
+        "id": 2458408,
+        "language": null,
+        "link": "https://www.404media.co/onlyfans-sued-after-two-guys-realized-they-might-not-actually-be-talking-to-models",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/03/of-chat.png",
+        "title": "OnlyFans Sued After Two Guys Realized They Might Not Actually Be Talking to Models",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-01T09:21:40+00:00",
+        "description": "Young criminals across Queensland have been put on notice, with a broad range of crimes set to attract strict penalties of up to life in prison.",
+        "id": 2456795,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/world/queenslands-tougher-crime-laws-to-cover-another-20-offences-including-boasting-on-social-media-5834771",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/01/13/id5791379-GettyImages-2161036378-1080x720.jpg",
+        "title": "Queensland\u2019s Tougher Crime Laws to Cover Another 20 Offences, Including Boasting on Social Media",
+        "vote": 0
+    }
+]

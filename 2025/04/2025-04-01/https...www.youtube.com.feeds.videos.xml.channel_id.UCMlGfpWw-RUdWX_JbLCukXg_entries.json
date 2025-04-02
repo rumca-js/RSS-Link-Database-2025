@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-01T14:07:08+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nSecurity Beyond Memory Safety - Using Modern C++ to Avoid Vulnerabilities by Design - Max Hoffmann - CppCon 2024\n---\n\nNowadays, there is one topic that comes up in virtually all discussions on system programming languages: memory safety.\nHowever, even though memory safety rules out many of the most common sources of vulnerabilities, there are still plenty of ways how a vulnerability may find its way into the codebase.\n\nIn this talk, we look beyond memory safety and explore how we can prevent vulnerabilities through simple yet effective C++ constructions and custom static analysis scripts.\nWe analyze multiple examples, from basics like input validation to complex time-of-check vs time-of-use issues when accessing shared resources, all of which are inspired by real-world products, use cases, or vulnerabilities.\nFor each example, we discuss attacker models, threats, and implementation pitfalls, before looking at potential solutions that are not just secure by th",
+        "id": 2459267,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=mv0SQ8dX7Cc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/mv0SQ8dX7Cc/hqdefault.jpg",
+        "title": "Security Beyond Memory Safety - Using Modern C++ to Avoid Vulnerabilities by Design - Max Hoffmann",
+        "vote": 0
+    }
+]

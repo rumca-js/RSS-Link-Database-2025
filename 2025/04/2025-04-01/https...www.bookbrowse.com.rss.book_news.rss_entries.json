@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-01T06:00:00+00:00",
+        "description": "Rightwing groups around the US are pushing legislation that would place new limits on what books are allowed in school libraries in a move that critics decry as censorship often focused on LGBTQ+ issues or race or imposing conservative social values.",
+        "id": 2459449,
+        "language": "en",
+        "link": "http://www.bookbrowse.com/news/detail/index.cfm?news_item_number=3397",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 43,
+        "source_url": "https://www.bookbrowse.com/rss/book_news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rightwing groups across US push new bans to limit 'obscene' books in libraries",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-01T16:52:00+00:00",
+        "description": "Thomas Ozoroski, a researcher at NASA\u2019s Glenn Research Center in Cleveland, takes icing accretion measurements in October 2024 as part of transonic truss-braced wing concept research. Researchers at NASA Glenn conducted another test campaign in March 2025.",
+        "id": 2460427,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/grc-2024-c-12100-2",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Studying Ice for the Future of Flight",
+        "vote": 0
+    }
+]

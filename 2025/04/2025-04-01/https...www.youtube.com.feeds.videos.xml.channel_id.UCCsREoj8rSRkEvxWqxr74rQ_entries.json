@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cybernews",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-01T17:00:30+00:00",
+        "description": "A three-and-a-half hour compilation of 13 original hacking documentaries. State sponsored hacking, cybercrime, criminal hacker groups - everything you need for a good night\u2019s sleep.\n\n\ud83c\udfaf Subscribe to @cybernews for more AI news and cybersecurity updates: https://cnews.link/subscribe/\n\n\u2705 Check WIX deal \u27a1\ufe0f https://cnews.link/get-wix/Od9OG4MGDWA/\n\n\ud83c\udfaa Looking for entertainment and more interesting stories? Check out our playlists filled with captivating content that will keep you entertained for hours:\nhttps://www.youtube.com/playlist?list=PLa8oKYy_2UcNWMp91QuENBVLtv2HimUUB\nhttps://www.youtube.com/playlist?list=PLa8oKYy_2UcNqsnRRwfWT3raZOG4Ey44I  \n\n\ud83d\udcf0 Stay up-to-date with the latest cybersecurity news and trends by checking out our curated news playlist. We cover the latest threats, trends, and insights from the world of cybersecurity:\nhttps://www.youtube.com/playlist?list=PLa8oKYy_2UcOv27VEdZYZpFXcoxVcI11h  \n\n\ud83d\udcac Stay connected with us on social media for the latest news, insights, and discus",
+        "id": 2461173,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Od9OG4MGDWA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 433,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCsREoj8rSRkEvxWqxr74rQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Od9OG4MGDWA/hqdefault.jpg",
+        "title": "Hacking Documentaries To Fall Asleep To",
+        "vote": 0
+    }
+]

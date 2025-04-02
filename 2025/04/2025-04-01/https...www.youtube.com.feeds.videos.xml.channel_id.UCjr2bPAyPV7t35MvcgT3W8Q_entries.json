@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Hated One",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-01T16:07:34+00:00",
+        "description": "Session CEO thinks Session is more private than Signal. What arae his arguments? Support my 100% independent work at: https://www.patreon.com/thehatedone \n\nThis was my interview with the Session CEO Kee Jefferys.\nSession Messenger: https://getsession.org/\n\"Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance.\"\n\nSession Technology Foundation: https://session.foundation/\nSession Whitepaper: https://arxiv.org/pdf/2002.04609\n\nTIMESTAMPS\n00:00 Intro\n07:56 Why are you doing this? \n12:00 What is the worst case scenario if Session was forced to give out user data?\n14:45 How can Session resist orders to compromise end-to-end encryption?\n24:00 How can Session defend against nation-wide censorship request and global adversaries?\n28:27 What is Session's best feature and why Signal's phone number requirement is a great vulnerability\n31:44 Why should people use Session over ",
+        "id": 2460469,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=24Xo2ZMU-sY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 344,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/24Xo2ZMU-sY/hqdefault.jpg",
+        "title": "BETTER THAN SIGNAL? Interview With Session CEO Key Jefferys",
+        "vote": 0
+    }
+]
