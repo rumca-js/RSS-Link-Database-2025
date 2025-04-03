@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-02T21:22:20+00:00",
+        "description": "The Meta chief, who was at the White House on Wednesday, has discussed the case with the president and his aides. A trial is set to start in less than two weeks.",
+        "id": 2470717,
+        "language": "en-US",
+        "link": "https://www.nytimes.com/2025/04/02/technology/mark-zuckerberg-trump-meta-antitrust.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 228,
+        "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://static01.nyt.com/images/2025/04/02/multimedia/02biz-meta-trump-zuck-vclm/02biz-meta-trump-zuck-vclm-mediumSquareAt3X.jpg",
+        "title": "Mark Zuckerberg Lobbies Trump to Settle Antitrust Suit Against Meta",
+        "vote": 0
+    }
+]

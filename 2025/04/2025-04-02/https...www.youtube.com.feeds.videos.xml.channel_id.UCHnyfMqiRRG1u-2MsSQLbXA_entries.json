@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-02T10:31:01+00:00",
+        "description": "How do you make infinite choices? \ud83d\udc49 To try everything Brilliant has to offer for free for a full 30 days, visit http://brilliant.org/veritasium. You\u2019ll also get 20% off an annual premium subscription.\n\nTry Snatoms! A molecular modelling kit I invented where the atoms snap together.\nhttps://ve42.co/SnatomsV \n\n\u2580\u2580\u2580\nA huge thank you to Dr Asaf Karagila, Prof. Alex Kontorovich, Prof. Joel David Hamkins, Prof. Andrew Marks, Prof. Gabriel Goldberg and Prof. Elliot Glazer for their invaluable expertise and contributions to this video. \n\n\u2580\u2580\u2580\n0:00 What comes after one?\n2:42 Some infinities are bigger than others\n6:17 The Well Ordering Principle \n10:32 Zermelo And The Axiom Of Choice\n17:22 Why is the axiom of choice controversial?\n23:16 The Banach\u2013Tarski Paradox\n27:53 Obviously True, Obviously False\n29:58 Your Proof Your Choice \n\n\u2580\u2580\u2580\nReferences:\n\nUp and Atom - https://www.youtube.com/watch?v=X56zst79Xjg    \nMinutephysics -  https://www.youtube.com/watch?v=A-QoutHCu4o  \nPBS Infinite Series - htt",
+        "id": 2465881,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=_cr46G2K5Fo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_cr46G2K5Fo/hqdefault.jpg",
+        "title": "The Most Controversial Rule In Math",
+        "vote": 0
+    }
+]

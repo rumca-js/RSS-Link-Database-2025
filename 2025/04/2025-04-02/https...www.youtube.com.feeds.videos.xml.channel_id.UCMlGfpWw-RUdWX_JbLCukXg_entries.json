@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-02T14:07:08+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nTo Int or to Uint, This is the Question - Alex Dathskovsky - CppCon 2024\n---\n\nIn our daily work, we often use integral data types to perform arithmetic calculations, but we may not always consider how the selection of the data type can affect performance and compiler optimizations. This talk will delve into the importance of choosing the correct data type for the job and how it impacts compiler optimizations. We will also examine the overall performance implications for the application. We will explore specific algorithms where using unsigned data types is more beneficial and other situations where signed data types are the best choice. Furthermore this talk will dive into the differences between signed and unsigned integers, how the processor handles certain operations and explain many of the surprising pitfalls of using integral types.\nAttendees will come away with a deeper understanding of how data type selection can impact their code and how to make bette",
+        "id": 2465946,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=pnaZ0x9Mmm0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pnaZ0x9Mmm0/hqdefault.jpg",
+        "title": "To Int or to Uint, This is the Question - Alex Dathskovsky - CppCon 2024",
+        "vote": 0
+    }
+]

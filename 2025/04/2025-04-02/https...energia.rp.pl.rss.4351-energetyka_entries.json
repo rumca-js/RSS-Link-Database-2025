@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-02T04:47:00+00:00",
+        "description": "Rz\u0105d planuje wykorzysta\u0107 dyskusje o\u00a0zmianach w\u00a0zabezpieczeniach w\u00a0handlu energi\u0105, aby obni\u017cy\u0107 ceny pr\u0105du. Mo\u017ce wr\u00f3ci\u0107 do obliga gie\u0142dowego.",
+        "id": 2464416,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/ceny-energii/art42052311-duzi-sprzedawcy-pradu-nie-wierza-w-efekt-obliga",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Duzi sprzedawcy pr\u0105du nie wierz\u0105 w efekt obliga",
+        "vote": 0
+    }
+]

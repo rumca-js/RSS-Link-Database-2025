@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-02T08:00:00+00:00",
+        "description": "<p><span>\n\nThe internet has massively decreased the cost and effort of\npublishing.  While \"random people writing on the internet\" doesn't\nsound like a good source of information, this would fit the majority\nof my favorite writers.  Except most aren't \"random people\"\nanymore: by writing publicly over time readers have learned what these\nauthors are good at and when to pay attention; the writers have\nbuilt reputations. And with extensive practice at getting ideas across\nand quick feedback from the world on how successful they were, many\nbloggers have progressed from people who really like writing to\npeople who write very effectively.\n\n</span>\n\n<p>\n\nThe team behind <a href=\"https://www.lesswrong.com/\">LessWrong</a> is\norganizing <a href=\"https://less.online/\">LessOnline</a>, a\n\"celebration of blogging, truthseeking, and original seeing\", the\nweekend of May 30th in Berkley.  Many of my favorite writers will be there,\nincluding Kelsey Piper (formerly <a href=\"https://www.tumblr.com/theuni",
+        "id": 2465781,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/attending-lessonline",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Attending LessOnline",
+        "vote": 0
+    }
+]

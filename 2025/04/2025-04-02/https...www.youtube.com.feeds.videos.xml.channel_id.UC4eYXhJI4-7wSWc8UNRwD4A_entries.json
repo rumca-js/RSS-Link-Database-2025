@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-02T09:00:25+00:00",
+        "description": "Lars Gotrich | April 2, 2025\nIn 2021, the Tiny Desk x globalFEST series was created to promote international music discovery. For the fifth edition, we present artists from Cabo Verde, France and Colombia. \n\nGnawa music has always been about breaking down barriers. With ecstatic vocalizations, stringed instruments and clashing percussion, this sound has roots in Morocco, but its West African influences are disparate and the diaspora is wide. Zar Electrik, a trio from Marseille, France, taps into that centuries-long tradition at the Tiny Desk.\n\nZar Electrik, whose name references a healing ritual from the Horn of Africa, takes a modern approach to Gnawa, not only infusing the music with electronic production but also an electric kora \u2014 creating a sub-Saharan rave sung in Arabic, French and Darija. \"Chouf enour\" is a cry for freedom, performed by vocalist Anass Zine with passion and empathy. He smiles as he briefly sings in English, \"I love you, my sister / I love you, my brother.\" The",
+        "id": 2464473,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=HiE6v1KLtj4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HiE6v1KLtj4/hqdefault.jpg",
+        "title": "Zar Electrik: Tiny Desk x globalFEST",
+        "vote": 0
+    }
+]

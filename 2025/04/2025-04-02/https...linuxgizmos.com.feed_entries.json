@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-02T02:16:25+00:00",
+        "description": "AAEON&#8217;s UP brand has introduced the NV8600-Nano AI Developer Kit, combining an NVIDIA Jetson Orin Nano module with Super Mode support, an expanded I/O carrier board, and a preinstalled AI software package designed for embedded and computer vision developers. The kit features the 8GB Jetson Orin Nano module, delivering up to 67 TOPS of AI [&#8230;]",
+        "id": 2464176,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/nv8600-nano-ai-kit-jetson-orin-nano-super-mode-4x-gbe-canbus-mipi",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "NV8600-Nano AI Kit: Jetson Orin Nano Super Mode + 4x GbE, CANBus, MIPI",
+        "vote": 0
+    }
+]

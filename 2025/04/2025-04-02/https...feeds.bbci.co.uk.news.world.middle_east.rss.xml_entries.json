@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-02T11:14:18+00:00",
+        "description": "At least 19 people are reported killed in Jabalia as Israel's defence minister says it is expanding ground operations.",
+        "id": 2464394,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cy8qnxwv08do",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d72/live/8ee14a20-0f8d-11f0-b234-07dc7691c360.jpg",
+        "title": "Deadly strikes in Gaza as Israel expands offensive to seize 'large areas'",
+        "vote": 0
+    }
+]

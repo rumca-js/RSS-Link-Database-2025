@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-02T15:53:39+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>More than a decade ago, Congress </span><a href=\"https://www.eff.org/issues/coica-internet-censorship-and-copyright-bill\"><span>tried to pass SOPA and PIPA</span></a><span>\u2014two sweeping bills that would have allowed the government and copyright holders to quickly shut down entire websites based on allegations of piracy. The backlash was immediate and massive. Internet users, free speech advocates, and tech companies flooded lawmakers with protests, culminating in an </span><a href=\"https://en.wikipedia.org/wiki/Protests_against_SOPA_and_PIPA\"><span>\u201cInternet Blackout\u201d on January 18, 2012</span></a><span>. Turns out, Americans don\u2019t like government-run internet blacklists. The bills were ultimately shelved.\u00a0</span></p>\n<p><span>Thirteen years later, as institutional memory fades and appetite for opposition wanes, members of Congress in ",
+        "id": 2468511,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/04/congress-reviving-site-blocking-and-its-just-dangerous-ever",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Site-Blocking Legislation Is Back. It\u2019s Still a Terrible Idea.",
+        "vote": 0
+    }
+]

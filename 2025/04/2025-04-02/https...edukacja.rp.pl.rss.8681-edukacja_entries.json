@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-02T11:46:11+00:00",
+        "description": "Cho\u0107 uczniowie s\u0105 coraz bardziej \u015bwiadomi swoich praw, cz\u0119sto w szkole brakuje im wsparcia w konfliktach z nauczycielami. Czy Rzecznik Praw Uczniowskim mo\u017ce im pom\u00f3c? Odpowiada \u0141ukasz Korzeniowski, prawnik zwi\u0105zany ze Stowarzyszeniem Umar\u0142ych Statut\u00f3w.",
+        "id": 2464215,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/matura-i-egzamin-osmoklasisty/art42054831-podcast-szkola-na-nowo-czy-szkola-moze-nie-dopuscic-do-matury-uczniow-nierokujacych",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Podcast \u201eSzko\u0142a na nowo\u201d: Czy szko\u0142a mo\u017ce nie dopu\u015bci\u0107 do matury \u201euczni\u00f3w nierokuj\u0105cych\u201d?",
+        "vote": 0
+    }
+]

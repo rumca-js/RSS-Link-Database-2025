@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-02T15:28:01+00:00",
+        "description": "<p>The Python community is set to adopt PEP 751, an enhancement aimed at improving dependency management and installation reproducibility. PEP 751 introduces a standardised file format, pylock.toml, designed to create an immutable record of both direct and indirect dependencies for Python environments. Recently marked as &#8216;Accepted,&#8217; the proposal promises to streamline workflows, enhance security, and<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/python-standardised-lock-file-format-pep-751/\" title=\"ReadPython proposes standardised lock file format with PEP 751\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/python-standardised-lock-file-format-pep-751/\">Python proposes standardised lock file format with PEP 751</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2468279,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/python-standardised-lock-file-format-pep-751",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Python proposes standardised lock file format with PEP 751",
+        "vote": 0
+    }
+]
