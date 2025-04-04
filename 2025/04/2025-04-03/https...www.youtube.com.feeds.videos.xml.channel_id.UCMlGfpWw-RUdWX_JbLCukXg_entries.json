@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-03T14:07:07+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLeveraging C++ for Efficient Motion Planning: RRT Algorithm for Robotic Arms - Aditi Pawaskar - CppCon 2024\n---\n\nMotion planning algorithms play a crucial role in enabling robot arm to navigate complex environments efficiently. They are required to determine a robot's trajectory and optimize its motion to minimize cycle time and maximize throughput. In this talk, we delve into optimizing a robotic arm motion planner using the CHOMP algorithm, highlighting the significance of employing good coding practices and design patterns.\n\nBeginning with an overview of motion planning techniques and the rationale behind selecting the CHOMP algorithm for robotic arm manipulation, we scrutinize the initial naive code implementation. Transitioning to modern C++ implementation, we introduce key concepts utilized in the refactor and present code snippets illustrating the transformation from legacy to modern paradigms.\n\nAttendees will glean insights into identifying and addres",
+        "id": 2477104,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=CEY4qRLcLmI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CEY4qRLcLmI/hqdefault.jpg",
+        "title": "Leveraging C++ for Efficient Motion Planning: RRT Algorithm for Robotic Arms - Aditi Pawaskar - 2024",
+        "vote": 0
+    }
+]

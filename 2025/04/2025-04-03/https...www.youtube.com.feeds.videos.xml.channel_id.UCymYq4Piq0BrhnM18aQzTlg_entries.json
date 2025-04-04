@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-03T22:45:02+00:00",
+        "description": "See more YouTube commentary - https://www.youtube.com/watch?v=HBprI-CDl_U&list=PLCZHp4d1HnIu_wpUYgv7hRgI4R8Qib0t2 - YouTube is conducting an experiment that will limit notifications even from channels you've \"clicked the bell\" on. We'll dive into \n\nYouTube Sub Tab Suggestions: https://www.youtube.com/watch?v=_sWP6vIgQa8\n\nYoutube's Subscription Changes: https://www.youtube.com/watch?v=_sWP6vIgQa8\n\nVIDEO INDEX:\n00:00 - Intro\n00:44 - Supporter Thank yous\n01:25 - Background on the Bell Experiment\n03:38 - YouTube App Notification Settings\n04:10 - The Broader Overall Subscription Problem\n05:01 - Notification Management Issues\n07:07 - Subscription Tab Still Needs Work\n08:13 - Conclusion\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my second channel for supplementary content : http://lon.tv/extras\n\nFollow me on Amazon too! http://lon.tv/amazonshop\n\nJoin ",
+        "id": 2479527,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=HsLaHL1pTN0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/HsLaHL1pTN0/hqdefault.jpg",
+        "title": "Click The Bell? YouTube Experiment Will Limit Notifications via an Algorithm",
+        "vote": 0
+    }
+]

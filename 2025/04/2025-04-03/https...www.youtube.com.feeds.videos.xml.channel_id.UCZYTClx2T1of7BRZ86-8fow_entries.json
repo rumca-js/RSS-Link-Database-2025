@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-03T17:00:17+00:00",
+        "description": "This video was made in collaboration with BBC Earth in partnership with BBC Studios. Head over to https://youtu.be/0ErXkeWJdS0?si=ybYPqc3nQ_u1esfQ to find out more! Save our Species explores the incredible (and unexpected!) tech-based approaches being tested to help protect wildlife, including drones that catch whale snot, ferret vaccines shot from ATVs and even cryogenically frozen DNA.\n\nThat cannon that shoots salmon across dams is more than just a meme. It's a real way scientists are trying to help fish return from their breeding grounds... and it's not even the silliest one.\n\nHosted by: Hank Green (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: J.V. R",
+        "id": 2476930,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=EQ7pubFMb_0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EQ7pubFMb_0/hqdefault.jpg",
+        "title": "Why Scientists Launch Fish With Cannons",
+        "vote": 0
+    }
+]

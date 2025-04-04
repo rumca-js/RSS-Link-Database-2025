@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-03T11:01:17+00:00",
+        "description": "Curious about running AI models locally with Ollama? Check out the code here \u2192 https://ibm.biz/BdndQU\n\nReady to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdndQ8\n\nLearn more about Large Language Models here \u2192 https://ibm.biz/BdndQg\n\nSee how to build AI-powered tools that run locally with Ollama. \ud83d\ude80 Cedric Clyburn demonstrates how to maintain data privacy, integrate Langchain, and simplify development using local AI deployment. \ud83d\udca1 Discover how to prototype smarter and optimize tools for enterprise tasks with ease. \u2728\"\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdndQh\n\n#ollama #llm #aiintegration",
+        "id": 2475049,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=uxE8FFiu_UQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/uxE8FFiu_UQ/hqdefault.jpg",
+        "title": "Run AI Models Locally with Ollama: Fast & Simple Deployment",
+        "vote": 0
+    }
+]

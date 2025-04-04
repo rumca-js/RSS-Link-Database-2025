@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-03T09:03:00+00:00",
+        "description": "When there&#8217;s a complex situation that feels foreboding, you might need a manual, a coach and even a system to move forward. Or, it&#8217;s possible you simply need someone to tell you, &#8220;you&#8217;ll figure it out.&#8221;",
+        "id": 2473819,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/04/four-word-advice",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Four-word advice",
+        "vote": 0
+    }
+]

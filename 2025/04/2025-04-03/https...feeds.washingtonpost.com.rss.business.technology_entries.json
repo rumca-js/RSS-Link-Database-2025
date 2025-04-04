@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-03T11:00:00+00:00",
+        "description": "We tested Tinder\u2019s new AI bot, which purports to help you improve your flirting skills. Here\u2019s how it went.",
+        "id": 2474612,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2025/04/03/dating-ai-character-tinder-game",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tinder lets you flirt with AI characters. Three of them dumped me.",
+        "vote": 0
+    }
+]

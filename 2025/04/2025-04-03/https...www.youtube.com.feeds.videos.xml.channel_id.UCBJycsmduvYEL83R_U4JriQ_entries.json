@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marques Brownlee",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-03T22:49:16+00:00",
+        "description": "Switch 2 is better than Switch 1 in some pretty key ways, but there's 1 big pricing asterisk\n\nProtect your Nintendo Switch 2 at https://dbrand.com/switch-2\n\nMKBHD Merch: http://shop.MKBHD.com\n\nMusic by Jordyn Edmonds http://smarturl.it/jordynedmonds\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+        "id": 2479706,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=K3CR6RiWS2U",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 210,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/K3CR6RiWS2U/hqdefault.jpg",
+        "title": "Nintendo Switch 2 Impressions: One Big Asterisk!",
+        "vote": 0
+    }
+]

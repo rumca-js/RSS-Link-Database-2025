@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Channel 5 with Andrew Callaghan",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-03T16:00:41+00:00",
+        "description": "Go to https://ground.news/channel5 to stay fully informed with all sides of every story. Subscribe for 40% off the Vantage plan through my link.",
+        "id": 2476740,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=3-haJ-cP5Ik",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 600,
+        "source_url": "https://www.youtube.com/channel/UC-AQKm7HUNMmxjdS371MSwg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/3-haJ-cP5Ik/hqdefault.jpg",
+        "title": "Israel Ceasefire Celebration",
+        "vote": 0
+    }
+]

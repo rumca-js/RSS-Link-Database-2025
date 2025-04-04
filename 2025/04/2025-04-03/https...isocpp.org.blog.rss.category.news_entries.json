@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-03T19:51:04+00:00",
+        "description": "<p>\n\t<img alt=\"CRussia2019_portrait-1-1024x683.jpg\" src=\"https://isocpp.org/files/img/CRussia2019_portrait-1-1024x683.jpg\" style=\"width: 400px; margin: 10px; float: right;\" />Contract assertions, introduced in proposal P2900 for C++26, provide a robust mechanism for runtime correctness checks, offering more flexibility and power than the traditional <code data-end=\"185\" data-start=\"177\">assert</code> macro. This blog post will explore how contract assertions work, their various evaluation semantics, and how they can improve code reliability with preconditions, postconditions, and custom violation handlers.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://timur.audio/contracts_explained_in_5_mins\">Contracts for C++ Explained in 5 Minutes</a></h3>\n\t<p>\n\t\tby Timur Doumler</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tWith&nbsp;<a data-destination=\"https://wg21.link/p2900\" href=\"https://wg21.link/p2900r14\" spellcheck=\"false\">P2900</a>, we propose to add&nbsp;<em>contract asse",
+        "id": 2478767,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/04/contracts-for-cpp-explained-in-5-minutes-timur-doumler",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Contracts for C++ Explained in 5 Minutes -- Timur Doumler",
+        "vote": 0
+    }
+]
