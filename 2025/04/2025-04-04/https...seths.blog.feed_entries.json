@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-04T09:03:00+00:00",
+        "description": "Anthropologist Gregory Bateson highlighted that often, culture is based on oppositional behavior. And it can spiral. They say &#8220;up&#8221; and the easy thing is to say &#8220;down.&#8221; Literally, &#8220;the creation of division.&#8221; Your competitor launches a product and you work to undermine it with a different approach. Find small gaps and amplify them. Schismogenesis is [&#8230;]",
+        "id": 2481971,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/04/we-can-agree-about-schismogenesis",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "We can agree about schismogenesis",
+        "vote": 0
+    }
+]

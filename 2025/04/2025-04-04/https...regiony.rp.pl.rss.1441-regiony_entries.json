@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-04T13:45:51+00:00",
+        "description": "W Rzeszowie rusza budowa zbiornika retencyjnego na terenie oczyszczalni \u015bciek\u00f3w. Modernizacje przechodz\u0105 te\u017c oczyszczalnie w innych miastach, cho\u0107by w Boles\u0142awcu czy we Wroc\u0142awiu.",
+        "id": 2483667,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/ekologia/art42070791-mniejszy-fetor-wieksza-wydajnosc-modernizacje-miejskich-oczyszczalni",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Mniejszy fetor, wi\u0119ksza wydajno\u015b\u0107. Modernizacje miejskich oczyszczalni",
+        "vote": 0
+    }
+]

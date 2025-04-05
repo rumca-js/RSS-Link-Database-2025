@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-04T14:24:55+00:00",
+        "description": "<p>Podatno\u015bci okre\u015blane jako krytyczne mog\u0105 wzbudza\u0107 skrajne emocje. W sekuraku jeste\u015bmy pewni, \u017ce nie wszyscy zgodz\u0105 si\u0119 z punktacj\u0105 CVSS 3.1 (9.8/10) przypisan\u0105 do serii podatno\u015bci okre\u015blonych jako IngressNightmare, kt\u00f3re zosta\u0142y opisane 24.04.2025 przez badaczy z wiz.io. TLDR: Problematycznym komponentem jest Ingress NGINX Controller, czyli ingress controller (kontroler ruchu wej\u015bciowego,...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/ingressnightmare-czyli-jak-przejac-klaster-kubernetes/\">#IngressNightmare &#8211; czyli jak przej\u0105\u0107 klaster Kubernetes</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2484220,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/ingressnightmare-czyli-jak-przejac-klaster-kubernetes",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "#IngressNightmare \u2013 czyli jak przej\u0105\u0107 klaster Kubernetes",
+        "vote": 0
+    }
+]

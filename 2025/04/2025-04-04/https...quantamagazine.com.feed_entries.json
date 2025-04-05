@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-04T13:47:39+00:00",
+        "description": "When pigeons outnumber pigeonholes, some birds must double up. This obvious statement \u2014 and its inverse \u2014 have deep connections to many areas of math and computer science.             <p>The post <a href=\"https://www.quantamagazine.org/how-a-problem-about-pigeons-powers-complexity-theory-20250404/\" target=\"_blank\">How a Problem About Pigeons Powers Complexity Theory</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2484138,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/how-a-problem-about-pigeons-powers-complexity-theory-20250404",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/04/Pigeonhole-cr.Brady-Clegg-Shutterstock-Default.jpg",
+        "title": "How a Problem About Pigeons Powers Complexity Theory",
+        "vote": 0
+    }
+]

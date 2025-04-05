@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-04T10:59:59+00:00",
+        "description": "<p>Calibre 8.2 open-source ebook manager is now available for download with an updated Kobo driver that includes support for new Tolino firmware and other changes. Here's what's new!</p>\n<p>The post <a href=\"https://9to5linux.com/calibre-8-2-ebook-manager-updates-the-kobo-driver-with-new-tolino-firmware\">Calibre 8.2 Ebook Manager Updates the Kobo Driver with New Tolino Firmware</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>",
+        "id": 2482566,
+        "language": "en-US",
+        "link": "https://9to5linux.com/calibre-8-2-ebook-manager-updates-the-kobo-driver-with-new-tolino-firmware",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Calibre 8.2 Ebook Manager Updates the Kobo Driver with New Tolino Firmware",
+        "vote": 0
+    }
+]

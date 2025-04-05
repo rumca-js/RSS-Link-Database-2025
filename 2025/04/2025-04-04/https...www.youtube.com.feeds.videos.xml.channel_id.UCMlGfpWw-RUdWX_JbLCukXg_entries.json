@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-04T14:07:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nGuide to Linear Algebra With the Eigen C++ Library - Daniel Hanson - CppCon 2024\n---\n\nLinear algebra is an essential part of scientific programming, particularly in domains such as quantitative finance, data science, physics, and medical research.  It is also relevant to imaging in game development.  As C++ did not have all the convenient built-in multidimensional array capabilities and supporting libraries that came with typical Fortran platforms, scientific programmers making the transition to C++ back in the late 1990\u2019s and early 2000's often found themselves in an inconvenient situation with limited options.  These included building up this functionality mostly from scratch, wrestling with interfaces to numerical Fortran libraries such as BLAS and LAPACK, or somehow convincing management to invest in a third-party commercial C++ linear algebra library.\n\nThe situation has improved substantially over the years with the development of several well-regarded o",
+        "id": 2484625,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=99G-APJkMc0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/99G-APJkMc0/hqdefault.jpg",
+        "title": "Guide to Linear Algebra With the Eigen C++ Library - Daniel Hanson - CppCon 2024",
+        "vote": 0
+    }
+]

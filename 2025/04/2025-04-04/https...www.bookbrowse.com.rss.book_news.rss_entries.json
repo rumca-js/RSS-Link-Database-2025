@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-04T06:00:00+00:00",
+        "description": "Twelve US copyright cases against OpenAI and Microsoft have been consolidated in New York, despite most of the authors and news outlets suing the companies being opposed to centralization.",
+        "id": 2484224,
+        "language": "en",
+        "link": "http://www.bookbrowse.com/news/detail/index.cfm?news_item_number=3399",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 43,
+        "source_url": "https://www.bookbrowse.com/rss/book_news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "US authors' copyright lawsuits against OpenAI and Microsoft combined in New York with newspaper actions",
+        "vote": 0
+    }
+]

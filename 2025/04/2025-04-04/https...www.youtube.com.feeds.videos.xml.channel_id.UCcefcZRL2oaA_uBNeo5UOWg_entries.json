@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-04T14:00:39+00:00",
+        "description": "Not long ago, America led the world in building and innovation\u2014but over the past 50 years, bureaucracy and red tape have made it nearly impossible to get big things done. In this episode of The Main Function, Garry sits down with Atlantic staff writer and Plain English podcast host Derek Thompson to discuss his new book Abundance (co-authored with Ezra Klein). In the conversation they discuss how we got here, what needs fixing, and what the year 2050 could look like if we reclaim a vision of abundance and technological innovation.\n\nApply to Y Combinator: https://yc.link/DesignReview-apply\nWork at a startup: https://yc.link/DesignReview-jobs\n\nAbundance, by Derek Thompson and Ezra Klein\nhttps://www.simonandschuster.com/books/Abundance/Ezra-Klein/9781668023488",
+        "id": 2484351,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=VIkphkYlkaQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VIkphkYlkaQ/hqdefault.jpg",
+        "title": "Why America Stopped Innovating - And How We Can Start Again",
+        "vote": 0
+    }
+]

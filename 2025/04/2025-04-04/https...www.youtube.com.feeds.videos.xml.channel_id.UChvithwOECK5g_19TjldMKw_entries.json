@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "laowhy86",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-04T18:49:57+00:00",
+        "description": "See the full video - https://youtu.be/g3cRSu_euUI",
+        "id": 2486784,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=xbmHoFzErXE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 184,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChvithwOECK5g_19TjldMKw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xbmHoFzErXE/hqdefault.jpg",
+        "title": "Serbia Is Beholden to China",
+        "vote": 0
+    }
+]

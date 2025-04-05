@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-04T14:37:18+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>We patched the kernel, bypassed PAC, faked SEP, dumped the framebuffer, and got a UI running (almost all the way to SpringBoard).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/eshard-cybersec\"> /u/eshard-cybersec </a> <br/> <span><a href=\"https://eshard.com/posts/emulating-ios-14-with-qemu\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ReverseEngineering/comments/1jrdfz3/we_emulated_ios_14_in_qemu_heres_how_we_did_it/\">[comments]</a></span>",
+        "id": 2484594,
+        "language": null,
+        "link": "https://www.reddit.com/r/ReverseEngineering/comments/1jrdfz3/we_emulated_ios_14_in_qemu_heres_how_we_did_it",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 476,
+        "source_url": "https://www.reddit.com/r/ReverseEngineering/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "We emulated iOS 14 in QEMU. Here\u2019s how we did it.",
+        "vote": 0
+    }
+]

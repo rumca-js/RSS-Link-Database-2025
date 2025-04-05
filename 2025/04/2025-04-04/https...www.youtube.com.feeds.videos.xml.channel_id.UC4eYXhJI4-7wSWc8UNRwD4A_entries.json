@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-04T09:00:30+00:00",
+        "description": "Felix Contreras | April 4, 2025\nIn 2021, the Tiny Desk x globalFEST series was created to promote international music discovery. For the fifth edition, we present artists from Cabo Verde, France and Colombia. \n\nFrom the very first song, there is no question that we are immersed in the rich and vibrant sound of Colombia's Caribbean coast. Led by co-founders and lead vocalists Johanna Casta\u00f1eda and Ronald Polo, the members of REBOLU dig deep into their roots to captivate audiences everywhere they play, including the Tiny Desk.\n\nGrounded in the musical traditions of the African diaspora, REBOLU's performance reflects both the uptempo and the slow grooves that have evolved in Colombia \u2014 what makes their music, and this Tiny Desk, stand out is how they incorporate contemporary rhythms like reggae and funk into their sound. You may not have known them before, but once you do, REBOLU will have you coming back for more.\n\nSET LIST\n\"Eso No\"\n\"Para Ser Feliz\"\n\"Lo Vivido Fue Importante\"\n\"Sufre el",
+        "id": 2481935,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=QWhezn3nB_M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QWhezn3nB_M/hqdefault.jpg",
+        "title": "Rebolu: Tiny Desk x globalFEST",
+        "vote": 0
+    }
+]
