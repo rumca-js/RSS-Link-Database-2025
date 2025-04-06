@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-05T20:07:27+00:00",
+        "description": "Demonstrations mark the first big display of public resistance to president\u2019s frenetic second term",
+        "id": 2493164,
+        "language": "en",
+        "link": "https://www.ft.com/content/4041b210-0f4a-4726-a964-6b17cfe1a6f4",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 110,
+        "source_url": "https://www.ft.com/rss/home",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5fa5ec2b-488c-4205-b21a-44a9b3462081.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "title": "Tens of thousands join protests against Donald Trump and Elon Musk",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-05T15:56:19+00:00",
+        "description": "<img width=\"1260\" height=\"840\" src=\"https://cdn.geekwire.com/wp-content/uploads/2025/04/20250404_untitled_127-1260x840.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://cdn.geekwire.com/wp-content/uploads/2025/04/20250404_untitled_127-1260x840.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2025/04/20250404_untitled_127-768x512.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2025/04/20250404_untitled_127-1536x1024.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2025/04/20250404_untitled_127-630x420.jpg 630w, https://cdn.geekwire.com/wp-content/uploads/2025/04/20250404_untitled_127.jpg 2048w\" sizes=\"(max-width: 1260px) 100vw, 1260px\"><br>On this episode of the GeekWire Podcast, we talk with Microsoft CEO Satya Nadella about the company&#8217;s 50th anniversary, and where it&#8217;s headed from here. Plus, highlights from Microsoft\u2019s 50th anniversary event in Redmond, which featured a rare joint appearance",
+        "id": 2491823,
+        "language": "en-US",
+        "link": "https://www.geekwire.com/2025/geekwire-podcast-with-microsoft-ceo-satya-nadella-on-the-companys-50th-anniversary",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 131,
+        "source_url": "https://www.geekwire.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "GeekWire Podcast with Microsoft CEO Satya Nadella on the company\u2019s 50th anniversary",
+        "vote": 0
+    }
+]

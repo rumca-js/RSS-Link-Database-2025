@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-05T22:45:00+00:00",
+        "description": "See more in the free app series: https://www.youtube.com/playlist?list=PLCZHp4d1HnItwUd17GYPSXE_BW-5P579J - In the latest edition of my free app hidden gem series, we take a look at Retro Achievements : a free service that allows you to earn achievement points in retro game emulators! Most retro consoles and games are now supported! See more retro : https://www.youtube.com/playlist?list=PLCZHp4d1HnIswkmY7xCvaH3K_78rUsEIO and subscribe! http://lon.tv/s\n\nVIDEO INDEX:\n00:00 - Intro\n00:26 - Achievement Demo\n01:44 - Getting Started\n02:33 - Hardcore vs. Softcore mode\n03:29 - How achivements work\n03:48 - Following Friends\n04:38 - Finding Compatible Games / ROMs\n05:31 - Demo on Saturn game\n07:12 - Contributing Achievements\n07:46 - No FPGA support\n08:18 - Conclusion\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https://lon.tv/email\nDaily Email From My Blog Posts! https://lon.tv/digest\n\nSee my second channel for supplementary content :",
+        "id": 2493600,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1yf9TQdmBrk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1yf9TQdmBrk/hqdefault.jpg",
+        "title": "Free App Hidden Gem: Retro Achievements for Emulators!",
+        "vote": 0
+    }
+]

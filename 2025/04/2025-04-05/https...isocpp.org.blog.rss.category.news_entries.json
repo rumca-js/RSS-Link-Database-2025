@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-05T19:55:30+00:00",
+        "description": "<p>\n\t<img alt=\"SANDOR_DARGO_ROUND.JPG\" src=\"https://isocpp.org/files/img/SANDOR_DARGO_ROUND.JPG\" style=\"width: 250px; margin: 10px; float: right; height: 250px;\" />With C++26, the introduction of <strong data-end=\"54\" data-start=\"32\">erroneous behavior</strong> provides a well-defined alternative to undefined behavior when reading uninitialized values, making it easier to diagnose and fix potential bugs. This blog post explores the impact of P2795R5, how compilers will handle erroneous values, and the new <code data-end=\"323\" data-start=\"304\">[[indeterminate]]</code> attribute for cases where deliberate uninitialized values are needed.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour\">C++26: Erroneous Behaviour</a></h3>\n\t<p>\n\t\tby Sandor Dargo</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tIf you pick a random talk at a C++ conference these days, there is a fair chance that the speaker will mention safety at leas",
+        "id": 2493137,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/04/cpp26-erroneous-behaviour-sandor-dargo",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "C++26: Erroneous Behaviour -- Sandor Dargo",
+        "vote": 0
+    }
+]

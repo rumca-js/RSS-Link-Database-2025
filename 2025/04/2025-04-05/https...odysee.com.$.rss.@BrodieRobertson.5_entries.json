@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-05T21:00:23+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/Ib-GoDXqO0Y\" width=\"480\" alt=\"thumbnail\" title=\"Completely Normal Day In The Linux Kernel\" /></p>I love me a good Linus Torvalds rant as much as the next person, and today is absolutely no exception to that rule.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />LKML: https://lore.kernel.org/dri-devel/174321011387.3019715.1646591159826097779.pr-tracker-bot@kernel.org/T/#ma42b2c08d4a646323cf1d0c5ef13ef2b4157c516<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodierobertson.xy",
+        "id": 2493598,
+        "language": "en",
+        "link": "https://odysee.com/completely-normal-day-in-the-linux:0e222c630be442cac5330e301a91919fea8cb480",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Completely Normal Day In The Linux Kernel",
+        "vote": 0
+    }
+]

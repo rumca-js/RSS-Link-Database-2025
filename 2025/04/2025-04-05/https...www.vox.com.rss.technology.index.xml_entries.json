@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-05T07:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"\" data-caption=\"\" data-portal-copyright=\"Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/04/GettyImages-1073693188.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption></figcaption>\n</figure>\n<p class=\"has-text-align-none\">Glaringly bright, blue-hued headlights filled my hatchback earlier this year as I drove 80 miles an hour on the highway between San Antonio and Austin. The headlights shone so brightly that their reflection in my rearview mirror burned my eyeballs, causing me to look away from the road and rapidly slow down. The large luxury SUV behind me began riding my tail \u2014 causing an even more intense glare to engulf my car \u2014 before aggressively whipping around to pass me.</p>\n\n<p class=\"has-text-align-none\">For a moment, all was fine. My eyes adjusted. And I began to pick up speed again \u2014 only to be visually assaulted by a lifted truck with even brighter headlights and flood lights",
+        "id": 2490596,
+        "language": null,
+        "link": "https://www.vox.com/explain-it-to-me/407147/bright-car-headlights-leds",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Why are car headlights so blindingly bright now?",
+        "vote": 0
+    }
+]

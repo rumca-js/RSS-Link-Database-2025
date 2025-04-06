@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-05T08:18:00+00:00",
+        "description": "When someone makes an obvious mistake, it&#8217;s tempting to label then with a term that&#8217;s dismissive or even hurtful. A label is permanent, a noun, a way to sort and divide. But of course, others can say precisely the same thing about us when we were uninformed, selfish or in a hurry. If it&#8217;s permanent, [&#8230;]",
+        "id": 2489710,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/04/we-are-all-goofballs",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "We are all goofballs",
+        "vote": 0
+    }
+]

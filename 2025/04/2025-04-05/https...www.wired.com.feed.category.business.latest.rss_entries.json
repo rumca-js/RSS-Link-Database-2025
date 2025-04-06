@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-05T09:30:00+00:00",
+        "description": "While the White House carved out a narrow exemption for some semiconductor imports, President Donald Trump\u2019s sweeping tariffs still apply to GPUs and chipmaking equipment.",
+        "id": 2489949,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/trump-tariffs-impact-semiconductors-chips",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/67f00650a90cc5f08ff7bdd2/master/pass/Trump-Tariffs-Semiconductors-Business-2177041731.jpg",
+        "title": "Trump\u2019s Tariffs Are Threatening the US Semiconductor Revival",
+        "vote": 0
+    }
+]

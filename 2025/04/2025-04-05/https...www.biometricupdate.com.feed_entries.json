@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-05T18:20:19+00:00",
+        "description": "<img width=\"922\" height=\"577\" src=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/04/23140902/vietnam-id-card.png\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/04/23140902/vietnam-id-card.png 922w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/04/23140902/vietnam-id-card-300x188.png 300w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/04/23140902/vietnam-id-card-150x94.png 150w, https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/04/23140902/vietnam-id-card-768x481.png 768w\" sizes=\"(max-width: 922px) 100vw, 922px\" />\n\t\tBiometric fraud prevention, whether at borders or in payments, often depends on photo ID documents, even as new credentials and ways of sharing them come on line. Several of the most-read articles of the week on <em>Biometric Update </em>reflect the need for constant improvement",
+        "id": 2492523,
+        "language": "en-US",
+        "link": "https://www.biometricupdate.com/202504/biometrics-and-photo-ids-need-friends-to-fight-fraud",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 38,
+        "source_url": "https://www.biometricupdate.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Biometrics and photo IDs need friends to fight fraud",
+        "vote": 0
+    }
+]
