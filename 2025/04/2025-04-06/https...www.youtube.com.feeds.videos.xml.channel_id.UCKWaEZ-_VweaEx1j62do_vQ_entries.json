@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-06T11:01:08+00:00",
+        "description": "Learn more about Intelligent Document Processing here \u2192 https://ibm.biz/BdnRwC\n\nSave time with AI-powered document understanding! \ud83e\udde0 Learn how cognitive analysis and LLMs automate decision-making, boost consistency, and scale processes.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdnRww",
+        "id": 2496014,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=rOliFBnOcNQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/rOliFBnOcNQ/hqdefault.jpg",
+        "title": "AI-Powered Document Understanding Explained",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-06T05:54:43+00:00",
+        "description": "Koncern odzie\u017cowy LPP chce w ci\u0105gu najbli\u017cszych trzech lat otworzy\u0107 ponad 4,5 tys. sklep\u00f3w, g\u0142\u00f3wnie pod szyldem Sinsay, oraz podwoi\u0107 swoje przychody i zysk EBITDA. W 2027 r. Sinsay ma generowa\u0107 trzy czwarte przychod\u00f3w, a jego sklepy b\u0119d\u0105 uruchamiane g\u0142\u00f3wnie w miastach maj\u0105cych do 50 tys. mieszka\u0144c\u00f3w. \u2013 Sinsay to wielki handel w ma\u0142ym mie\u015bcie \u2013 podkre\u015bli\u0142 szef firmy Marek Piechocki.",
+        "id": 2494701,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/sklepy-sinsay-ruszaja-do-malych-miast-tyle-sprzedaja-na-smartfonach",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Sinsay chce podbi\u0107 kolejne ma\u0142e miasta. Tyle sprzedaj\u0105 na smartfonach",
+        "vote": 0
+    }
+]

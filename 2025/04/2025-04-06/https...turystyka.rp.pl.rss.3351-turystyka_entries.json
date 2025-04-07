@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-06T23:49:59+00:00",
+        "description": "Z ko\u0144cem marca zako\u0144czy\u0142y si\u0119 najwi\u0119ksze obni\u017cki w biurach podr\u00f3\u017cy. Pocz\u0105tek kwietnia oznacza wej\u015bcie sprzeda\u017cy w faz\u0119 last minute. Ale wcale nie musi by\u0107 taniej. Wr\u0119cz przeciwnie - na razie ceny trzech najpopularniejszych kierunk\u00f3w skoczy\u0142y i bij\u0105 rekordy.",
+        "id": 2499141,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/biura-podrozy/art42076611-w-biurach-podrozy-poczatek-sprzedazy-wakacji-w-trybie-last-minute-od-razu-ceny-wzrosly",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "W biurach podr\u00f3\u017cy pocz\u0105tek sprzeda\u017cy wakacji w trybie last minute. Od razu ceny wzros\u0142y",
+        "vote": 0
+    }
+]

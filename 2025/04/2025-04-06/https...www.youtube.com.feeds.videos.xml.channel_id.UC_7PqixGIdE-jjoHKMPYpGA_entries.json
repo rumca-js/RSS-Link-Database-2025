@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Uwaga! Naukowy Be\u0142kot",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-06T14:07:46+00:00",
+        "description": "\ud83d\udc49 Patronite \u25ba https://patronite.pl/NaukowyBelkot \n\ud83d\udcda Moja ksi\u0105\u017cka \u25ba https://altenberg.pl/geny/\n\ud83d\udcda E-book \u25ba https://tinyurl.com/pnp-ebook\n\nFilm z kilkoma przemy\u015bleniami z ostatnich miesi\u0119cy.\n\n===\n\u0179r\u00f3d\u0142a (kluczowe):\n\nhttps://op.europa.eu/en/publication-detail/-/publication/41f90730-d19e-11ec-a95f-01aa75ed71a1/language-en\nhttps://www.oecd.org/en/publications/2024/12/do-adults-have-the-skills-they-need-to-thrive-in-a-changing-world_4396f1f1.html\nhttps://www.nature.com/articles/d41586-025-01016-z?linkId=13763327&fbclid=IwZXh0bgNhZW0CMTEAAR0MhxJ2KQavxjO0eiz5jBrzV1Cyok1FHt60mgEc6YJX29OmqWOQMlP01c8_aem_ViFzekTuj9JgccUKoc_fPQ\nhttps://www.sciencealert.com/tiktok-misinformation-is-warping-young-peoples-understanding-of-adhd#\nhttps://publichealth.realclearjournals.org/external-article-reviews/2025/03/open-peer-review-of-vaccination-and-neurodevelopmental-disorders-a-study-of-nine-year-old-children-enrolled-in-medicaid/",
+        "id": 2496580,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=jwkhOVEt5O0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 377,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_7PqixGIdE-jjoHKMPYpGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/jwkhOVEt5O0/hqdefault.jpg",
+        "title": "Jest \u017ale i b\u0119dzie jeszcze gorzej, ale...",
+        "vote": 0
+    }
+]

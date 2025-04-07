@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-06T01:03:26+00:00",
+        "description": "Sponsor: ID-Cooling Frozn A720 Black on Amazon https://geni.us/VDnou4Y\nIn this news round-up, we recap the last two weeks of hardware and industry news. This episode includes ASUS' revision of its Q-Release system, its \"new\" 600W power connector re-emerging, rumors of Intel's high-end GPU being canceled (we'll see about that), impact from tariffs, and more.\n\nCheck out the Just Josh laptop videos we were in! Includes one with Steve picking a laptop and another of overclocking! https://www.youtube.com/@JustJoshTech\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\n\nLike our content? Please consider becoming our Patron to support us: http://www.patreon.com/gamersnexus\n\nSources: https://www.one-tab.com/page/_Ts0bRoATVqGgWVffDZ_RA\n\nTIMESTAMPS\n\n00:00 - Recapping the Week\n01:13 - AMD Says 9070 GPUs are Biggest Launch\n02:39 - ASUS Revamps Q-Release System\n05:40 - ASUS Boards with 600W Power Connector\n10:31 - SoftBank Group Set to Acquire Ampere Computing\n",
+        "id": 2494397,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=t0memLyAUBo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/t0memLyAUBo/hqdefault.jpg",
+        "title": "HW News - ASUS' 600W Connector, NVIDIA Driver Issues, Tariff Impact on Computer Hardware",
+        "vote": 0
+    }
+]

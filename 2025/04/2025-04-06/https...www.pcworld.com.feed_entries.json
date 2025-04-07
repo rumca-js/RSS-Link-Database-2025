@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-06T12:00:00+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>The Windows Task Manager is one of the most iconic tools of the operating system. Whether you\u2019re looking for information on system processes, checking on how your CPU or RAM is doing, or trying to shut down an errant app, it\u2019s a really useful app.</p>\n\n\n\n<p>But like most Windows tools, you probably only know the bare essentials for day-to-day use\u2014and that\u2019s a shame because Task Manager can do so much more. Here are some lesser-known Task Manager tips and tricks worth knowing that\u2019ll make you look like a pro.</p>\n\n\n\n<div class=\"wp-block-idg-base-theme-listicle-chart-block wp-block-product-chart product-chart\">\n<div class=\"wp-block-listicle-chart\"><div class=\"wp-block-listicle-chart-item listicle-chart-item\">\n<h2 class=\"wp-block-heading  \" id=\"quick-launch-using-a-keyboard-shortcut\">Quick-launch using a keyboard shortcut</h2>\n\n\n\n<div class=\"extendedBlock-wra",
+        "id": 2495978,
+        "language": null,
+        "link": "https://www.pcworld.com/article/2648505/i-use-windows-task-manager-daily-i-wish-id-known-these-9-tips-sooner.html",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 246,
+        "source_url": "https://www.pcworld.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I use Windows Task Manager daily. I wish I\u2019d known these 9 tips sooner",
+        "vote": 0
+    }
+]

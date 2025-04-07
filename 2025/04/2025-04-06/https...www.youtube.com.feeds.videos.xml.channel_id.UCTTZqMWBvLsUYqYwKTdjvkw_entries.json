@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-06T16:01:13+00:00",
+        "description": "\ud83d\udc49\u00a0Do\u0142\u0105cz do AI_Devs3 Reloaded - startujemy ju\u017c 12 maja!\nhttps://www.aidevs.pl?ref=mcon\n\n\ud83d\udc49\u00a0Chcesz zwi\u0119kszy\u0107 swoje bezpiecze\u0144stwo w sieci? Zajrzyj na uczmnie.pl!\nhttps://www.uczmnie.pl\n\n\ud83c\udf99\ufe0f\u00a0Spotka\u0142em si\u0119 z organizatorami AgentONu aby porozmawia\u0107 o zwyci\u0119skich projektach.\n \n\u0179r\u00f3d\u0142a:\n\ud83d\uddc4\ufe0f\u00a0Debate Arena Bart\u0142omiej Szczyg\u0142o (Arputikos) Team(Arputikos, Krystian, emkaminsk, Locus, Bartek Tomaszewski)\u00a0\nhttps://github.com/Arputikos/AgentON_2025\nhttps://drive.google.com/drive/folders/1oKVlpyixiG-YR6O1ApLYI32toSwTTFuQ\n\n\ud83c\udfa5\u00a0AIgenform SzymurAI\u00a0\nhttps://www.youtube.com/watch?v=XhM3LF0INjY\n\n\ud83d\uddc2\ufe0f\u00a0Freenance Forget Previous Instructions Team (Mieszko Mahboob, Mateusz Pabi\u015b, Jakub Dziubak, Arvind Juneja )\u00a0\nhttps://github.com/m-ateusz/freenance-old\nhttps://www.youtube.com/watch?v=asaR3_N_tiY\u00a0\nhttps://freenance.pl/\n\n\ud83d\uddd2\ufe0f\u00a0Personal planner assistant AM\u00a0\nhttps://www.youtube.com/watch?v=SqTJ6TAvwvY\u00a0\n\n\ud83d\udd79\ufe0f\u00a0Toy chat WojtekTom\u00a0\nhttps://www.youtube.com/watch?v=pnU-CKAnt6Q\u00a0\n\n\ud83d\uddb2\ufe0f\u00a0MentorAitor Jakub M.\u00a0\nhttps://odlotagent3.cytr.us",
+        "id": 2497265,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=w1GDUyTluPs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/w1GDUyTluPs/hqdefault.jpg",
+        "title": "Czy te projekty zmieni\u0105 Twoje \u017cycie?",
+        "vote": 0
+    }
+]

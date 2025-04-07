@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mosak Marcin",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-06T16:23:52+00:00",
+        "description": "Ci za mg\u0142\u0105 nie zrozumiej\u0105 tego filmu.\n\nDo\u0142\u0105cz do mnie jako patron po dodatkowe filmy, broszury, lajwy! https://www.patreon.com/MosakMarcin\n\nNa podstawie artyku\u0142u z mojego ulubionego bloga: https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html\n\n0:00 - Intro \n0:51 - Wst\u0119pne Za\u0142o\u017cenia\n6:18 - Stopie\u0144 I\n9:10 - Stopie\u0144 II\n12:13 - Stopie\u0144 III\n13:57 - Stopie\u0144 IV\n\nKontakt:\nhttps://patreon.com/MosakMarcin\nportfolio: https://marcinmossakowski.pl\ninsta: @mosak.marcin\nfacebook.com/mosakmarcin",
+        "id": 2497563,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=5PuPYsmdZ8A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 440,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGMXM2RS39k1UwyNVoyzHYw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5PuPYsmdZ8A/hqdefault.jpg",
+        "title": "Religia dla Niereligijnych",
+        "vote": 0
+    }
+]
