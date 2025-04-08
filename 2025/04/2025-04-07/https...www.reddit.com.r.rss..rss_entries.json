@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-07T13:08:51+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>While working on a side project with RSS &amp; Atom feeds, I discovered that a lot of RSS/Atom feeds in the wild are <em>(cough)</em> sub-optimal.</p> <p>The W3C has a very nice Feed Validation Service, but it only looks at the feed itself, not at the linked pages. And a lot of the problems that it finds are issues in the body content which can mask more serious errors.</p> <p>So I write an <a href=\"https://www.rss.style/feed-analyzer.html\">RSS/Atom Feed Analyzer</a> that checks for things like headers, consistent links and backlinks.</p> <p>One of the (potentially) more controvesial things it recommends is using the content type &quot;text/xml&quot;. The normal recommendation causes the &quot;Save As&quot; dialog popup in some browsers, which is IMHO a horrible user experience.</p> <p>Anyhow, give it a try and let me know what you think! I also made a list of <a href=\"https://www.rss.style/#examples\">high-profile bloggers&#39; feeds that you can try",
+        "id": 2501639,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1jtkufl/rssatom_feed_analyzer_test_your_feed_for_best",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "RSS/Atom Feed Analyzer: test your feed for best practices",
+        "vote": 0
+    }
+]

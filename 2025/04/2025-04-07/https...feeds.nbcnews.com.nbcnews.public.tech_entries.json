@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-07T18:11:38+00:00",
+        "description": "A growing number of people are using virtual reality to enhance their home workouts. NBC News' Steven Romo put one of those workouts to the test.",
+        "id": 2505878,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/now/video/virtual-reality-platforms-offer-immersive-home-workouts-236726853930",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_04/1744049491145_now_daily_b_virtual_reality_workouts_250407_1920x1080-rvi16e.jpg",
+        "title": "Virtual reality platforms offer immersive home workouts",
+        "vote": 0
+    }
+]

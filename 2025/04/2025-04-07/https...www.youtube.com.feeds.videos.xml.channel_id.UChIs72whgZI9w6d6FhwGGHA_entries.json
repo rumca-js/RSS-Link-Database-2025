@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-07T00:46:34+00:00",
+        "description": "Sponsor: ID-Cooling Frozn A720 Black on Amazon https://geni.us/VDnou4Y\nNVIDIA has major GPU driver instability problems right now, and that includes the newer RTX 50 series (like the 5090) and the prior RTX 40 and 30 series alike. We read through user reports, then set forth to try and replicate the issues. In our reviews process, these problems didn't pop-up -- which gave us two critical hints: First, newer drivers may be (and were) worse than launch day drivers; second, some specific user configurations and NVIDIA game graphics settings were the problems. We found issues with setups using DLSS4, frame generation, GSync, and even just the monitor ports in a multi-monitor setup. We also pinpointed the newer driver versions as being key to these failures.\n\nIf you're having issues with games crashing on NVIDIA graphics cards, flickering, artifacting, black screens, and random shut downs and crashes to desktop, then those would match our findings here. The fixes are mostly workarounds r",
+        "id": 2499554,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=NTXoUsdSAnA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/NTXoUsdSAnA/hqdefault.jpg",
+        "title": "Get It Together, NVIDIA | Terrible GPU Driver Stability",
+        "vote": 0
+    }
+]

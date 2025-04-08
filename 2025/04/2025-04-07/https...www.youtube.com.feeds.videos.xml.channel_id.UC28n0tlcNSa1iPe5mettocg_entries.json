@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "voidzilla",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-07T22:49:51+00:00",
+        "description": "my new financial strategy\nsupport: https://www.patreon.com/coffeezilla\ndisclaimer: this video is an opinion and in no way should be construed as statements of fact. Scams, bad business opportunities, and fake gurus are subjective terms that mean different things to different people. I think someone who promises $100K/month for an upfront fee of $2K is a scam. Others would call it the \"opportunity of a lifetime.\"",
+        "id": 2506866,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=i50wel2lVsw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 592,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC28n0tlcNSa1iPe5mettocg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/i50wel2lVsw/hqdefault.jpg",
+        "title": "losing money doesn't cost you anything",
+        "vote": 0
+    }
+]

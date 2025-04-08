@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-07T21:00:37+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/gPUWfVew7lI\" width=\"480\" alt=\"thumbnail\" title=\"A New KDE Plasma Login Screen Will Be Born\" /></p>For quite a while now KDE Plasma has been making use of SDDM but if this new prototype goes well that will soon be coming to a close.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Display Manager: https://wiki.archlinux.org/title/Display_manager<br />New KDE Login Manger: https://blog.davidedmundson.co.uk/blog/a-roadmap-for-a-modern-plasma-login-manager/<br />Plasma Login Manager: https://invent.kde.org/davidedmundson/plasma-login-manager<br />Plasma Login: https://invent.kde.org/davidedmundson/plasma-login<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierober",
+        "id": 2506410,
+        "language": "en",
+        "link": "https://odysee.com/a-new-kde-plasma-login-screen-will-be:a8ebb517f9e6832b72c1ceccc6ae52555ed4fa4f",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A New KDE Plasma Login Screen Will Be Born",
+        "vote": 0
+    }
+]

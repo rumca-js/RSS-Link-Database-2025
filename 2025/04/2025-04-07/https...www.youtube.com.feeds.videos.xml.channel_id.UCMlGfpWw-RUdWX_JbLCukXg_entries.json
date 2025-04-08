@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-07T14:07:06+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: C++ and Rust Bindings - Mixing It Best With CMake - Damien Buhl - CppCon 2024\n---\n\nC++ is often used in polyglots situations where C++ developers are mixing different programming languages. In this talk we walk through the best recipe to mix C++ and Rust and look at how native language memory can blend. We unveil the Cocktail recipe of what makes a great Rusty C++ Mule and show how one can mix the best of both languages with CMake.\n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nDamien Buhl\n\nDamien (alias daminetreg) co-founder tipi.build is an enthusiast C++ and CMake developer. Focused on C++ devex, he is an Opensource entrepreneur, CppCon Speaker, GameMaker.fr community founder, Qt for Android contributor, Boost.Fusion maintainer since 2014.\n---\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspiratio",
+        "id": 2501633,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=EcbmDXA4Inc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EcbmDXA4Inc/hqdefault.jpg",
+        "title": "Lightning Talk: C++ and Rust Bindings - Mixing It Best With CMake - Damien Buhl - CppCon 2024",
+        "vote": 0
+    }
+]

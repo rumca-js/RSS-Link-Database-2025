@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-07T09:33:00+00:00",
+        "description": "We live in a science fiction universe. A $20 dose of penicillin was priceless a century ago. The five cents (a nickel!) we spend to light our home might have been the sort of thing we needed to trade an hour of labor for a few generations ago. The ability to press a button and [&#8230;]",
+        "id": 2501361,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/04/an-eroding-sense-of-wonder",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "An eroding sense of wonder",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": null,
+        "author": "Eddy Burback",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-07T08:46:14.119143+00:00",
+        "description": null,
+        "id": 2500943,
+        "language": "en",
+        "link": "https://www.youtube.com/channel/UCuo9VyowIT-ljA5G2ZuC6Yw",
+        "manual_status_code": 0,
+        "page_rating": 25,
+        "page_rating_contents": 80,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": true,
+        "source__id": 612,
+        "source_url": "https://www.youtube.com/channel/UCuo9VyowIT-ljA5G2ZuC6Yw",
+        "status_code": 200,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Eddy Burback",
+        "vote": 0
+    }
+]

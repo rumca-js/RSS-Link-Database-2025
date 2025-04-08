@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Roosevelt",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-07T16:25:06+00:00",
+        "description": "A preview of the upcoming Midnight Versions DJ Sets tour! \nGet your tickets: https://iamroosevelt.com/ \n\nSubscribe: https://found.ee/rv-ys\n\nFollow Roosevelt -\nSpotify: https://found.ee/rv-sp\nApple Music: https://found.ee/rv-am\nYouTube: https://found.ee/rv-yt\nBandcamp: https://found.ee/rv-bc\nSoundcloud: https://found.ee/rv-sc\nInstagram: https://found.ee/rv-ig\nTikTok: https://found.ee/rv-tt\nFacebook: https://found.ee/rv-fb\nTwitter: https://found.ee/rv-tw\n\n#Roosevelt #midnightversions #djset",
+        "id": 2503961,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=KtbH1dKC8Zk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 284,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqqY6fzyLY3OmdjYRe2eJAg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KtbH1dKC8Zk/hqdefault.jpg",
+        "title": "Roosevelt - Midnight Versions DJ Set",
+        "vote": 0
+    }
+]

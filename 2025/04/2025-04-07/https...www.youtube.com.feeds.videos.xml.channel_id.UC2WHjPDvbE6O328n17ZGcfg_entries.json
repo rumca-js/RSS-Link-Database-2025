@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ForrestKnight",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-07T15:30:08+00:00",
+        "description": "Shop Micro Center\u2019s Upcoming selection of 50 Series Laptops: https://micro.center/oejg\n\nI coded with the 5 best and most popular Ai models for coding: Gemini 2.5 Pro, Claude 3.5 Sonnet, Claude 3.7 Sonnet, GPT 4o, and o3-mini-high (and medium reasoning). In this video, I share the type of code each model gives you, the accuracy of it, and how each model tackles a specific prompt. Some ai models focus solely on the prompt, while others wander beyond the prompt and change more code than asked of it, and there's even one that you have to manually iterate through for it to complete the whole prompt.\n\nJust note, there is no one-size-fits-all AI model for coding. It also depends on the frameworks and languages you use. But most importantly, it depends on what type of task you need help with and how much you like the models to help you. You need more tokens and breadth for tackling codebase wide refactors (not the whole codebase, but something where changes throughout multiple files need to ",
+        "id": 2503620,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=KbbXjbX2Hec",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 118,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2WHjPDvbE6O328n17ZGcfg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KbbXjbX2Hec/hqdefault.jpg",
+        "title": "I Tried Coding with the Top 5 AI Models... here are my thoughts.",
+        "vote": 0
+    }
+]

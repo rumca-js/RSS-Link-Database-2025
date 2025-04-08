@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-07T13:39:06+00:00",
+        "description": "Wojna handlowa wywo\u0142ana przez w\u0142adze USA spowodowa\u0142a nie tylko szybkie spadki cen ropy, ale i gazu. Ceny b\u0142\u0119kitnego paliwa w Europie spad\u0142y tak z powodu obaw o globalny handel, jak i nadci\u0105gaj\u0105cego ocieplenia.",
+        "id": 2502390,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/gaz/art42078361-trump-obnizyl-ceny-gazu-dla-europy-to-dobry-czas-na-zapelnienie-magazynow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trump obni\u017cy\u0142 ceny gazu dla Europy. To dobry czas na zape\u0142nienie magazyn\u00f3w",
+        "vote": 0
+    }
+]

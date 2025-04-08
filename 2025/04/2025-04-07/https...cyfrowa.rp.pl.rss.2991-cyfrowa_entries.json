@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-07T14:11:00+00:00",
+        "description": "Administracja prezydenta Donalda Trumpa, og\u0142aszaj\u0105c list\u0119 zr\u00f3\u017cnicowanych ce\u0142, nak\u0142adanych nawet na najbardziej egzotyczne kraje, wskazywa\u0142a, \u017ce to efekt wielu lat analiz i pracy ekonomist\u00f3w. Fakty mog\u0105 by\u0107 inne.",
+        "id": 2501886,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art42078671-to-moze-byc-autor-cel-donalda-trumpa-bylaby-to-gigantyczna-kompromitacja",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "To mo\u017ce by\u0107 autor ce\u0142 Donalda Trumpa. By\u0142aby to gigantyczna kompromitacja",
+        "vote": 0
+    }
+]

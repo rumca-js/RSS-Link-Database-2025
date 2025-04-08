@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-07T16:17:39+00:00",
+        "description": "\ud83d\ude80 Spin up your own AI server with Hostinger VPS! (code networkchuck10 for 10% off): https://hostinger.com/networkchuckvps\n\n\nStudents are already using AI for their homework. But how do we make sure they\u2019re actually LEARNING from it? Anthropic just dropped a new \"learning mode\u201d in Claude that\u2019s meant to help them actually learn \u2013 by asking better questions instead of just giving answers. But right now, it\u2019s only available to schools. In this video, I\u2019ll break down what this \u201clearning mode\u201d is all about, why it matters, and how you can replicate the same kind of experience using tools at home. Is AI going to make students dumber\u2026 or smarter?\n\n\n\nRESOURCES:\n\n\ud83c\udfa5 How to Set Up Local AI with Guardrails (NetworkChuck Video): https://www.youtube.com/watch?v=nQCOTzS5oU0\n\n\ud83d\udd17 Claude for Education Announcement (Anthropic): https://www.anthropic.com/news/introducing-claude-for-education\n\n\ud83e\udde0 \u201cPost-Apocalyptic Education\u201d by Ethan Mollick: https://www.oneusefulthing.org/p/post-apocalyptic-education\n\n\n\n\n",
+        "id": 2503977,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=cJZnlnT0rPA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cJZnlnT0rPA/hqdefault.jpg",
+        "title": "Claude is putting AI in schools....",
+        "vote": 0
+    }
+]
