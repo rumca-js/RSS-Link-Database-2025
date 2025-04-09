@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-08T13:11:55+00:00",
+        "description": "\ud83d\udd10 What role does model signing play in securing AI pipelines?\n\ud83d\udca1 Can open source and patents really complement each other?\n\ud83c\udf10 Is decentralized identity finally ready for scale?\n\ud83d\udce6 Why are developers still talking about OpenTofu?\n\ud83d\udcfa All that (and more) in this week\u2019s LF Quick Hits.\n\n#LFQuickHits #OpenSource #CyberSecurity #FinOps #AI #Cloud",
+        "id": 2509822,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ZV-_ZlOWIpU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZV-_ZlOWIpU/hqdefault.jpg",
+        "title": "Big themes are surfacing across open source this week: AI integrity, cloud economics, decentralized",
+        "vote": 0
+    }
+]

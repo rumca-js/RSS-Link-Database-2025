@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-08T21:25:32+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">BPS is a GPS alternative that nobody's heard of</span>\n\n            <p>I came to the NAB (National Association of Broadcasters) show this year with my Dad to learn more about time in broadcast and live production.</p>\n\n<p>I was expecting to learn more about grandmaster clocks, AV sync, timing in protocols like Dante, Livewire, AES67, and more\u2014and I <em>have</em>. But then on the first day here I found this odd little corner of the building with a completely empty booth:</p>\n\n<p></p>\n\n<p>When you see an oscilloscope that costs 3x the value of your car on a trade show floor... well, let's just say my interest was piqued.</p>\n      <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Jeff Geerling</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">April 8, 2025\n</span>",
+        "id": 2512883,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "BPS is a GPS alternative that nobody's heard of",
+        "vote": 0
+    }
+]

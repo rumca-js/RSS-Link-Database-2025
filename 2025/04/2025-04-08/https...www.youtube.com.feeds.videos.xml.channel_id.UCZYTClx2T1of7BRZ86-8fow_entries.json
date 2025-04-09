@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-08T17:00:30+00:00",
+        "description": "Thanks for watching this episode of SciShow! And thank you again to The Kavli Prize for supporting this episode. The Kavli Prize in Nanoscience is awarded for outstanding achievement in the science and application of the unique physical, chemical and biological properties of atomic, molecular, macromolecular, and cellular structures and systems that are manifest in the nanometer scale. To learn more about Dr. Robert Langer, you can visit his page: https://www.kavliprize.org/bio/robert-langer  \n\n\nInventing cutting edge medicines to cure devastating diseases is one thing. Getting them into patients is another. Today we talk about a scientist who figured out how to do just that.\n\nHosted by: Hank Green (he/him)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks g",
+        "id": 2510724,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=I8sOH1f3cws",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/I8sOH1f3cws/hqdefault.jpg",
+        "title": "The Wild Science Behind Extended Release Medications",
+        "vote": 0
+    }
+]

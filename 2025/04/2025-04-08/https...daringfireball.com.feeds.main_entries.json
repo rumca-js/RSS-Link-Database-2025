@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-08T21:00:03+00:00",
+        "description": "<p>Chance Miller, writing for 9to5Mac:</p>\n\n<blockquote>\n  <p>According to senior Indian officials cited in the report, Apple\nflew five planes full of iPhones and other products from India and\nChina \u201cin just three days during the final week of March.\u201d</p>\n\n<p>\u201cFactories in India and China and other key locations had been\nshipping products to the US in anticipation of the higher\ntariffs,\u201d <a href=\"https://timesofindia.indiatimes.com/technology/mobiles-tabs/how-apple-flew-5-flights-full-of-iphones-from-india-and-china-in-3-days-to-beat-trump-tariffs/articleshow/120044321.cms\">one source to The Times of India</a> said.</p>\n\n<p>Apple currently assembles the entire iPhone 15 and iPhone 16\nlineups in India as well as China. A 10% baseline tariff on all\nimports into the United States kicked in on Saturday. On April 9,\nthe tariffs that Trump has falsely labeled as \u201creciprocal\u201d will\nkick in. This will raise the tariff rate on imports from China to\n54% and imports from India to 27%.</p>\n\n<p>By",
+        "id": 2512769,
+        "language": null,
+        "link": "https://9to5mac.com/2025/04/07/iphone-inventory-united-states-planes",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Apple Is Hustling to Fly Planes of iPhones Into the U.S. Ahead of Trump\u2019s Tariffs",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-08T14:07:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Every Use Case of Colon and Ellipses in C++ - Ali Almutawa Jr. - CppCon 2024\n---\n\nI will show all possible use cases for operators colon (:) and ellipses (...). \n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nAli Almutawa Jr. is a CU Boulder graduate currently studying at Northwestern University. This is Ali's second Lightning talk at CppCon. His first is titled \"Forbidden C++\" in CppCon 2023.\n---\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosphere designed to help attendees learn from each other, meet interesting people, and generally have a stimulating experience. Taking place this year in Aurora, Colorado, near the Denver airport, and including multiple diverse tracks, the conference will appeal to anyone from C++ novices to experts.\nAnnual CppCon Conference - ",
+        "id": 2507894,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1blspAWnjUQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1blspAWnjUQ/hqdefault.jpg",
+        "title": "Lightning Talk: Every Use Case of Colon and Ellipses in C++ - Ali Almutawa Jr. - CppCon 2024",
+        "vote": 0
+    }
+]

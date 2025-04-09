@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-08T14:00:34+00:00",
+        "description": "In recent months, AI agents have gone from experimental to increasingly useful, with platforms like DeepSeek and OpenAI's Deep Research redefining what\u2019s possible. Now, a new contender has entered the field\u2014Manus, a general purpose AI agent that\u2019s managed to capture global attention. In this episode of YC Decoded, President and CEO Garry Tan dives into how Manus' unique architecture sets it apart, what its launch says about the broader debate around GPT \"wrappers,\" and why they might actually be more valuable than they first appear.\n\nApply to Y Combinator: https://yc.link/DesignReview-apply\nWork at a startup: https://yc.link/DesignReview-jobs\n\nChapters (Powered by https://chapterme.co/) - \n00:00 - Will Manus Change How AI Agents Work?\n01:32 - What Is Manus And How Does it Work?\n02:05 - What Sets Manus Apart\n03:40 - What Can It Accomplish?\n04:45 - The \"Wrapper\" critique\n06:20 - The Pros of Manus\n07:00 - The Cons of Manus\n07:50 - What This Means For Founders",
+        "id": 2509936,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=JOYSDqJdiro",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JOYSDqJdiro/hqdefault.jpg",
+        "title": "The Next Breakthrough In AI Agents Is Here",
+        "vote": 0
+    }
+]

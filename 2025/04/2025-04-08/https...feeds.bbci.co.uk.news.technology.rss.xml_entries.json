@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-08T11:18:36+00:00",
+        "description": "The system imposes more restricted settings on younger users - though campaigners say it's unclear what difference they make.",
+        "id": 2509143,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/cvgqe6yv0yzo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f8c/live/2999cf80-145f-11f0-bda4-bddb52ba4131.jpg",
+        "title": "Meta expands restrictions for teen users to Facebook and Messenger",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-08T14:55:10+00:00",
+        "description": "Master the essential tools for modern C++ development with this comprehensive course that covers environment setup across Windows, Linux, macOS, and Docker. Learn how to configure CMake and vcpkg to streamline your build process and dependency management while exploring online compilation tools like Compiler Explorer. Discover how to effectively use Git for version control in your C++ projects and leverage GitHub Copilot's AI capabilities to boost your productivity.\n\n\ud83d\udcbb Source code: https://github.com/rutura/cpp23m\n\n\u270f\ufe0f Course developed by Daniel Gakwaya. Check out his YouTube channel: https://www.youtube.com/channel/UCUYUFiuJ5XZ3JYtbq5dXRKQ\n\ud83d\udc26 Twitter: https://x.com/learnqtguide\n\ud83d\udd17 Want more from Daniel? https://www.learnqt.guide/udemy-discounted-9/\n\ud83d\udd17 Join Daniel's discord server for support: https://discord.com/invite/PcATcraESW\n\n\u2b50\ufe0f Course Contents \u2b50\n(0:00:00) Introduction\n(0:07:12) Windows Setup\n(1:10:00) Linux Setup\n(2:16:01) macOS Setup\n(3:05:51) Docker Setup with The Tools Ready\n(3",
+        "id": 2507654,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=0ffwhxW-uyw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0ffwhxW-uyw/hqdefault.jpg",
+        "title": "C++ Setup and Installation Tools \u2013 CMake, vcpkg, Docker & Copilot",
+        "vote": 0
+    }
+]

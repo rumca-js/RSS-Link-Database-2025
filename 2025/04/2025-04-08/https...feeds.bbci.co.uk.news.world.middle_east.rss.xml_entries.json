@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-08T20:40:13+00:00",
+        "description": "Foreign Minister Abbas Araghchi says Iran will \"never accept coercion\" ahead of Saturday's talks in Oman.",
+        "id": 2512536,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cd6j5l5w1lxo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33a9/live/b999cc00-14ac-11f0-baee-bd745105f3f7.jpg",
+        "title": "Iran says it is ready for nuclear deal if US stops military threats",
+        "vote": 0
+    }
+]

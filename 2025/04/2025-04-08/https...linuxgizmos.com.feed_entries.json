@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-08T01:10:53+00:00",
+        "description": "The HydraNFC Shield v2 is a high-performance NFC development platform built around the STMicroelectronics ST25R3916 NFC frontend. Designed for NFC research, development, debugging, and security analysis, it is intended to be used with the HydraBus v1.0, a versatile open-source baseboard that acts as the host interface for HydraNFC and other shield extensions. HydraBus v1.0 is [&#8230;]",
+        "id": 2509159,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/hydranfc-shield-v2-and-sniffer-decoder-expand-capabilities-for-nfc-development-analysis",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "HydraNFC Shield v2 and Sniffer Decoder Expand Capabilities for NFC Development & Analysis",
+        "vote": 0
+    }
+]

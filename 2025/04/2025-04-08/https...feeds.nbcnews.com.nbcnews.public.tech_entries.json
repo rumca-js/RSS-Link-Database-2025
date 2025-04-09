@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-08T13:49:34+00:00",
+        "description": "Apple\u2019s reliance on China for production of its iPhone and heavy U.S. tariffs on the country could lead to a price increase of the smartphone. NBC News\u2019 technology analyst Joanna Stern explains Apple\u2019s alternatives to keep consumer prices down and if an American-made iPhone is financially possible.",
+        "id": 2510274,
+        "language": "en-US",
+        "link": "https://www.nbcnews.com/now/video/iphone-costs-could-skyrocket-due-to-tariffs-236808261505",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 223,
+        "source_url": "https://feeds.nbcnews.com/nbcnews/public/tech",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_04/1744120167821_now_mnn_iphone_prices_tariffs_250408_1920x1080-x0wpkv.jpg",
+        "title": "iPhone costs could skyrocket due to tariffs",
+        "vote": 0
+    }
+]
