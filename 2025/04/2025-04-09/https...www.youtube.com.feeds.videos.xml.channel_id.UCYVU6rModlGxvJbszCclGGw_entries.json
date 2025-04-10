@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Rob Braxman Tech",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-09T16:00:02+00:00",
+        "description": "You've heard people say \"The Internet is forever\" or \"You are the Product\" but this is much more nuanced than you think. The reality is that the data is forever because certain entities have decided to profit over your loss of privacy by making your data permanent and immutable. You need to understand that this means so you can navigate through the privacy invasion landscape and be aware the specific entities that are the root of concern. Then you can plan on how to evade them.\n\nThis is part 1 of a possible 3 part series.\n\n----------------------------------\nBraX3 Privacy Phone is on pre-order on Indiegogo\nhttps://www.indiegogo.com/projects/brax3-the-most-privacy-friendly-smartphone#/\nhttps://braxtech.net\n-----------------------------------\nBrax Virtual Phone, De-Googled Phones, BytzVPN, BraxMail, BraxRouters are available on https://brax.me. \n-----------------------------------\nMerch Store \nhttps://my-store-c37a50.creator-spring.com/\n-----------------------------------\n\n\nI'm the Inte",
+        "id": 2519558,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1nydzerMH78",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 466,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYVU6rModlGxvJbszCclGGw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1nydzerMH78/hqdefault.jpg",
+        "title": "Can You Evade the KYC Layer? Privacy Masterclass Series #1",
+        "vote": 0
+    }
+]

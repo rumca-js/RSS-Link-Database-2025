@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-09T14:07:20+00:00",
+        "description": "The mathematician Tai-Danae Bradley is using category theory to try to understand both human and AI-generated language.            <p>The post <a href=\"https://www.quantamagazine.org/where-does-meaning-live-in-a-sentence-math-might-tell-us-20250409/\" target=\"_blank\">Where Does Meaning Live in a Sentence? Math Might Tell Us.</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2517819,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/where-does-meaning-live-in-a-sentence-math-might-tell-us-20250409",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/04/Tai_Danae_Bradley-cr.MonicaAlmeida-Default.webp",
+        "title": "Where Does Meaning Live in a Sentence? Math Might Tell Us.",
+        "vote": 0
+    }
+]

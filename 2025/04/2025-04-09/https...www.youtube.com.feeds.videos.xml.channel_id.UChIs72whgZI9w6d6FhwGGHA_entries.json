@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-09T02:36:31+00:00",
+        "description": "Sponsor: Thermal Grizzly Duronaut on Amazon - https://geni.us/tpgcPMw\nIn this video, we're comparing AMD's in-game frame generation, its AFMF (Advanced Fluid Motion Frames) solution, and FidelityFX Super Resolution (FSR) against \"native\" rendering in modern games. Testing includes FSR4 vs. FSR 3.1, AFMF 2.0 vs. 2.1 and in game frame generation, and more. While we talk about DLSS (DLSS4) and Frame Generation or MFG, this is not intended to compare NVIDIA to AMD technologies; instead, we're first focusing all of the \"air time\" on each technology individually. We may later do a comparison piece if there's interest. You can find our versions of this for DLSS below. Testing was performed on an AMD RX 9070 XT and RX 7900 XTX, with drivers and resolutions defined in the methodology section of the video. Our prior NVIDIA tests included RTX 5080, 5090, and prior generation testing.\n\nNVIDIA DLSS 4.0 Benchmarks and Image Quality: https://www.youtube.com/watch?v=Nh1FHR9fkJk\nNVIDIA Frame Generati",
+        "id": 2514366,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1DbM0DUTnp4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1DbM0DUTnp4/hqdefault.jpg",
+        "title": "AMD Fake Frame Image Quality, AFMF, & FSR 4 vs. FSR 3.1 Comparison",
+        "vote": 0
+    }
+]

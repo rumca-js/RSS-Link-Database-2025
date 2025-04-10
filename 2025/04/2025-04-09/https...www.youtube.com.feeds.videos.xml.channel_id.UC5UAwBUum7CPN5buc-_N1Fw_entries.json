@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-09T12:13:53+00:00",
+        "description": "Try Kasm Workspaces to stream any desktop, app or OS to your web browser:\nhttps://kasmweb.com/community-edition\nhttps://kasmweb.com/cloud-personal\n\nSLIMOOK EVO 14 (NOT SPONSORED): https://slimbook.com/en/shop/product/evo-14-amd-ryzen-7-8845hs-1492\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n01:05 Sponsor: Kasm Workspaces\n01:57 How I tested\n05:23 RAM Usage \n09:54 CPU Performance\n11:39 Graphics Performance\n12:48 Battery Life\n16:54 Slimbook Evo 14\n22:11 Support the channel",
+        "id": 2517529,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=5rPdeiCugXo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/5rPdeiCugXo/hqdefault.jpg",
+        "title": "Comparing LINUX DESKTOPS performance and resource usage (on the Slimbook Evo 14)",
+        "vote": 0
+    }
+]

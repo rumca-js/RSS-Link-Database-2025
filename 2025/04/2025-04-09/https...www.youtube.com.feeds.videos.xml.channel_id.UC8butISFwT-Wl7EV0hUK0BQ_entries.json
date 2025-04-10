@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-09T13:44:52+00:00",
+        "description": "Lynx is a framework similar to React Native. In this course you will learn to build a game search application using Lynx, ByteDance's newly open-sourced cross-platform framework that delivers native performance with modern development practices. This comprehensive course guides you through setting up a Lynx project, implementing API integration, and mastering Lynx's unique dual-thread architecture for optimal performance. This tutorial provides an essential introduction to Lynx's UI components, state management with TanStack Query, and navigation implementation using React Router. \n\n\u270f\ufe0f Course created by Brijen Makwana.\n\n\ud83d\udcbb Source Code: https://github.com/BrijenMakwana/lynx-game-search\n\n\u2764\ufe0f Try interactive JavaScript courses we love, right in your browser: https://scrimba.com/freeCodeCamp-JavaScript (Made possible by a grant from our friends at Scrimba)\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n(0:00:00) Video Game Search Mobile App (Lynx)\n(0:01:49) Initialize the project\n(0:03:11) Setup Lynx Explorer App for th",
+        "id": 2518267,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=KCQsP91Wor0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KCQsP91Wor0/hqdefault.jpg",
+        "title": "Lynx Tutorial \u2013 JS Framework for Cross Platform Development",
+        "vote": 0
+    }
+]

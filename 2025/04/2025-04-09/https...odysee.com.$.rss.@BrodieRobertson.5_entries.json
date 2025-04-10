@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-09T21:00:47+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/mCoozzwtFoo\" width=\"480\" alt=\"thumbnail\" title=\"Asahi Linux Hits A Major Roadblock\" /></p>Asahi Linux has passed every roadblock it's hit so far and I have no doubt that they'll overcome this one but they have hit a roadblock with the newest M4 Apple silicon ARM chips<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Sven Peter Post: https://social.treehouse.systems/@sven/114278224116678776<br />m1n1 Github: https://github.com/AsahiLinux/m1n1<br />OS Security: https://support.apple.com/en-au/guide/security/sec8b776536b/web<br />Chrultabook: https://docs.chrultrabook.com/<br />Page Table Wikipedia: https://en.wikipedia.org/wiki/Page_table<br />MMU Wikipedia: https://en.wikipedia.org/wiki",
+        "id": 2521837,
+        "language": "en",
+        "link": "https://odysee.com/asahi-linux-hits-a-major-roadblock:a0e334ab3e3bd6f01ebc8516c13a0457d48600dd",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Asahi Linux Hits A Major Roadblock",
+        "vote": 0
+    }
+]

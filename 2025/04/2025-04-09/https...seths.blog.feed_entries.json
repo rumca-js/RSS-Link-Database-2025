@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-09T09:03:00+00:00",
+        "description": "Just because it&#8217;s useful, needed or worthwhile doesn&#8217;t mean it&#8217;s a good business. E-bikes are transforming cities and offering mobility to those who previously couldn&#8217;t afford it. But they&#8217;re a commodity, and it&#8217;s difficult to make a significant profit producing them. A good business meets a demand, but it also has scarcity, network effects and [&#8230;]",
+        "id": 2515651,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/04/a-good-business",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "A good business",
+        "vote": 0
+    }
+]

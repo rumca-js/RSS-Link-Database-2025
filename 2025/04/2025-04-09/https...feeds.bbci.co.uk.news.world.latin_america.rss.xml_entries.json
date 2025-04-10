@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-09T11:49:18+00:00",
+        "description": "Rescue workers are searching for survivors of the incident, which killed at least 113 people.",
+        "id": 2516705,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cvgpp9z054go",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0793/live/785bd9d0-1539-11f0-a421-69fb502f5991.jpg",
+        "title": "Despair as death toll from Dominican Republic nightclub collapse rises",
+        "vote": 0
+    }
+]
