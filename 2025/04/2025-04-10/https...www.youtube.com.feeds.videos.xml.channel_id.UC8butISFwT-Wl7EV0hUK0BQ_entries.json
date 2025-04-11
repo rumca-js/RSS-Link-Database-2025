@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-10T17:28:36+00:00",
+        "description": "This course is designed to help beginners learn how to train a language model from start to finish. Imad will guide you through the whole process, using Moroccan Darija as an example.\n\nIn this course, you will learn:\n\n- How to load text data\n- How to train a tokenizer from scratch using the Byte Pair Encoding (BPE) method\n- How to use the tokenizer to encode text data\n- How the Transformer architecture works in language models\n- How to pre-train a model\n- How to create a supervised fine-tuning dataset\n- How to fine-tune the model and build an AI assistant that you can chat with\n\nYou can find the slides, notebook, and scripts in this GitHub repository:  \nhttps://github.com/ImadSaddik/Train_Your_Language_Model_Course\n\nThe supervised fine-tuning dataset is available here:  \nhttps://github.com/ImadSaddik/BoDmaghDataset  \nhttps://huggingface.co/datasets/ImadSaddik/BoDmaghDataset\n\nThe tokenizers trained on AtlaSet can be found here:  \nhttps://github.com/ImadSaddik/DarijaTokenizers\n\nYou can",
+        "id": 2528897,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=9Ge0sMm65jo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/9Ge0sMm65jo/hqdefault.jpg",
+        "title": "Train Your Own LLM \u2013 Tutorial",
+        "vote": 0
+    }
+]

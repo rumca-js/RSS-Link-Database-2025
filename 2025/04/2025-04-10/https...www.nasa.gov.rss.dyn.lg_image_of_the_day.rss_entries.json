@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-10T15:49:00+00:00",
+        "description": "In northwest Australia, the Great Sandy Desert holds great geological interest as a zone of active sand dune movement. While a variety of dune forms appear across the region, this astronaut photograph features numerous linear dunes (about 25 meters high) separated in a roughly regular fashion (0.5 to 1.5 kilometers apart).",
+        "id": 2527632,
+        "language": "en-us",
+        "link": "https://www.nasa.gov/image-detail/nasa-2008336",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 485,
+        "source_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Linear Sand Dunes in the Great Sandy Desert",
+        "vote": 0
+    }
+]

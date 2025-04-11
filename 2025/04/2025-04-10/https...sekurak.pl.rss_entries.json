@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-10T11:35:00+00:00",
+        "description": "<p>Podatno\u015bci w firmware bram dost\u0119powych, zaporach sieciowych czy prze\u0142\u0105cznikach sieciowych zdarzaj\u0105 si\u0119 niestety cz\u0119sto, a do tego nios\u0105 za sob\u0105 szczeg\u00f3lne niebezpiecze\u0144stwo ze wzgl\u0119du na rol\u0119, jak\u0105 pe\u0142ni\u0105 w ekosystemie.\u00a0 O dzisiejszym bohaterze pisali\u015bmy nie raz. Tym razem krytyczna podatno\u015b\u0107, oznaczona numerem CVE-2024-48887 i wyceniona na 9.3 w skali CVSS3.1...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/fortinet-zaleca-aktualizacje-oprogramowania-fortiswitch-mozliwa-jest-nieautoryzowana-zmiana-hasla/\">Fortinet zaleca aktualizacj\u0119 oprogramowania FortiSwitch \u2013 mo\u017cliwa jest nieautoryzowana zmiana has\u0142a</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2525082,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/fortinet-zaleca-aktualizacje-oprogramowania-fortiswitch-mozliwa-jest-nieautoryzowana-zmiana-hasla",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Fortinet zaleca aktualizacj\u0119 oprogramowania FortiSwitch \u2013 mo\u017cliwa jest nieautoryzowana zmiana has\u0142a",
+        "vote": 0
+    }
+]

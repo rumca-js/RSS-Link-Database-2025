@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-10T11:08:15+00:00",
+        "description": "<p>Wydaje mi si\u0119, \u017ce ostatnio w mediach spo\u0142eczno\u015bciowych trwa jaki\u015b dziwny wy\u015bcig, pt. kto opisze najbardziej gro\u017ane zastosowanie narz\u0119dzi AI, takie, kt\u00f3re utrudni nam wszystkim \u017cycie. Problem w tym, \u017ce za opisywanie pomys\u0142\u00f3w na te straszne zbrodnie bior\u0105 si\u0119\u00a0chyba osoby, kt\u00f3re z przeciwdzia\u0142aniem przest\u0119pczo\u015bci chyba nie maj\u0105 wiele wsp\u00f3lnego&#8230; Przyk\u0142adem jest niedawna fala wpis\u00f3w na temat generowania fa\u0142szywych dokument\u00f3w to\u017csamo\u015bci za pomoc\u0105 ChataGPT&#8230; </p>\n<p><a href=\"https://niebezpiecznik.pl/wp-content/uploads/2025/04/chaldowod.jpeg\"><img fetchpriority=\"high\" decoding=\"async\" src=\"https://niebezpiecznik.pl/wp-content/uploads/2025/04/chaldowod-350x233.jpeg\" alt=\"\" width=\"350\" height=\"233\" class=\"aligncenter size-medium wp-image-26416\" srcset=\"https://niebezpiecznik.pl/wp-content/uploads/2025/04/chaldowod-350x233.jpeg 350w, https://niebezpiecznik.pl/wp-content/uploads/2025/04/chaldowod-600x400.jpeg 600w, https://niebezpiecznik.pl/wp-content/uploads/2025/04/chaldowod-768",
+        "id": 2525342,
+        "language": null,
+        "link": "https://niebezpiecznik.pl/post/falszywe-dowody-i-paszporty-generowane-przy-uzyciu-chatagpt-i-innych-narzedzi-ai",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Fa\u0142szywe dowody i paszporty generowane przy u\u017cyciu ChataGPT i innych narz\u0119dzi AI",
+        "vote": 0
+    }
+]

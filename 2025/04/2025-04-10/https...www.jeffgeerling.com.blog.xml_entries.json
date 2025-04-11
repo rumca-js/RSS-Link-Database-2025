@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-10T03:11:15+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">Raspberry Pi cluster spotted inside $6k audio processor</span>\n\n            <p>People often ask me whether Pi clusters are useful besides just tinkering. I've <a href=\"https://www.jeffgeerling.com/tags/cluster\">built my fair share</a>, including my most recent <a href=\"https://www.jeffgeerling.com/blog/2025/running-lamp-stack-lamp-rack\">'Lamp Rack' Kubernetes-in-a-Lamp cluster</a>.</p>\n\n<p>Well... I have a definitive answer: the <a href=\"https://www.orban.com/overview-optimod-5750-audio-processor\">Orban Optimod 5000-series</a> audio processors:</p>\n\n<p></p>\n      <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Jeff Geerling</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">April 9, 2025\n</span>",
+        "id": 2523312,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/raspberry-pi-cluster-spotted-inside-6k-audio-processor",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Raspberry Pi cluster spotted inside $6k audio processor",
+        "vote": 0
+    }
+]

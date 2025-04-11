@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-10T21:00:52+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/sR1_Jwx6oHQ\" width=\"480\" alt=\"thumbnail\" title=\"Wait... Systemd Made A Linux Distro???\" /></p>Systemd is a core software suite across most Linux distros but there's a lot more in that suite than you typically use, so why not build a Linux distro that uses as much systemd tech as possible<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />ParticleOS Github: https://github.com/systemd/particleos<br />Poettering Blog: https://0pointer.net/blog/fitting-everything-together.html<br />ParticleOS Talk: https://fosdem.org/2025/schedule/event/fosdem-2025-4057-particleos-can-we-make-lennart-poettering-run-an-image-based-distribution-/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: htt",
+        "id": 2530382,
+        "language": "en",
+        "link": "https://odysee.com/wait...-systemd-made-a-linux-distro:21ea83f4e61109615d132064a5e1289008e896af",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wait... Systemd Made A Linux Distro???",
+        "vote": 0
+    }
+]

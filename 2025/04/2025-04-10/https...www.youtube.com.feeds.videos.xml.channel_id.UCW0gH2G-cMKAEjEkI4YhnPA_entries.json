@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerd of the Rings",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-10T19:30:13+00:00",
+        "description": "BBC is reporting that The Lord of the Rings is coming to the new Universal UK theme park alongside Paddington and James Bond!\nSource: https://www.bbc.com/news/articles/c9344k7k95vo\n\nMy vid on LOTR at Epic Universe Orlando: https://www.youtube.com/watch?v=Y84girlotbA\n\nMy Ideas for a LOTR Theme Park: https://youtu.be/5BvV08xLkdE?si=9tVxDLJC3qHw0CSS\n\n#lordoftherings #universal #themepark",
+        "id": 2529664,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=_W10b7jlXd4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 234,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW0gH2G-cMKAEjEkI4YhnPA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/_W10b7jlXd4/hqdefault.jpg",
+        "title": "Lord of the Rings Park Coming to Universal UK!?",
+        "vote": 0
+    }
+]

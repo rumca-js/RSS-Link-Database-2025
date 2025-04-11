@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eli the Computer Guy",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-10T20:16:18+00:00",
+        "description": "RSVP for Classes at - http://www.SiliconDojo.com\n\nSupport Classes at - https://donorbox.org/etcg\nLinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/",
+        "id": 2530162,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=d60VT3CgzG4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 102,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD4EOyXKjfDUhCI6jlOZZYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/d60VT3CgzG4/hqdefault.jpg",
+        "title": "Question: Why Does Trump's Chaos Matter to Tech Professionals",
+        "vote": 0
+    }
+]

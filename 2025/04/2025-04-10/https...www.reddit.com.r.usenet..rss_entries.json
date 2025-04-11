@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-10T09:31:20+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>So, i already got Fast Usenet (Highwinds/Omicron backbone) and i plan to get another provider. I need opinions on what provider use as backup so i could be able to get all content i want with minimum DMCA/missing files.</p> <p>ChatGPT gave me this options:</p> <p>Eweka -&gt; Same backbone in theory (Omicron)</p> <p>newsgroupdirect -&gt; up to 4 different backbones (GigaNews, ItsHosted, UzoReto &amp; UsenetExpress)</p> <p>Any other suggestions?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Pr0t0n3\"> /u/Pr0t0n3 </a> <br/> <span><a href=\"https://www.reddit.com/r/usenet/comments/1jvtt28/best_usenet_backbones_coverage_to_avoid_dmca/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/usenet/comments/1jvtt28/best_usenet_backbones_coverage_to_avoid_dmca/\">[comments]</a></span>",
+        "id": 2524332,
+        "language": null,
+        "link": "https://www.reddit.com/r/usenet/comments/1jvtt28/best_usenet_backbones_coverage_to_avoid_dmca",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Best usenet backbones coverage to avoid DMCA takedowns. What do you think?",
+        "vote": 0
+    }
+]

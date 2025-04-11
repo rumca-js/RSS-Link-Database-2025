@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-10T13:00:26+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/FA__ScVhGQA\" width=\"480\" alt=\"thumbnail\" title=\"Building Yet Another Pointless Linux Distro\" /></p>For a few years, I have tinkered with building my own Linux distro (DTOS).  It started life as an Arch Linux post-installation script.  Then it was an ISO with the calamares installer.  Both of these approaches had their pros and cons.  Now I'm working on something different for DTOS.<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJWVnpQd3xBQ3Jtc0tsLVZJc19YeFlwZ2JqbXVOa3g0Skw4TVhTV2otNm1tM3A1bUNnamh3S2V6OGQtLTBnSjBxYTlvUXMxeEVIS3o4US10NENHMUQ3STk2a01FOFBhUnZjZFctMEhFUTg1TVctQmFfVUdxZXJ4TDl0azlYNA&q=https%3A%2F%2Fwww.paypal.com%2Fcgi-bin%2Fwebscr%3Fcmd%3D_donations%26business%3Dderek%2540distrotube%252ecom%26lc%3DUS%26item_name%3DDistroTube%26no_note%3D0%26currency_code%3DUSD%26bn%3DPP",
+        "id": 2526877,
+        "language": "en",
+        "link": "https://odysee.com/building-yet-another-pointless-linux:67e411d9fd6a925e382f9deccc5809f595c8cd30",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Building Yet Another Pointless Linux Distro",
+        "vote": 0
+    }
+]
