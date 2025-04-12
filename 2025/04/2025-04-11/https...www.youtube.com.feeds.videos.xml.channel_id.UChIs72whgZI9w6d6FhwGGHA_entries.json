@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-11T16:58:28+00:00",
+        "description": "Sponsor: Thermal Grizzly Duronaut on Amazon - https://geni.us/tpgcPMw\nLast year, JayzTwoCents asked us to help him with a testing overhaul for his GPU benchmarking process. Back in December, we bought some plane tickets and flew out for a Lab Makeover for Jay's testing processes. Our objective was to ask for his goals, listen, and provide options based on our experience, while then letting Jay's team choose and define their methodology. We're there to be guides, basically. This was a fun project and it was awesome to hear Jay's plans for more advanced testing and his transparency about the learning process. This is by no means an end-all (and nothing ever is) for testing, but it's a good foundation to get him kickstarted into newer tools for games measurement. This video also takes some time to explain what 1% LOWS and 0.1% LOWS are with relation to framerate (FPS).\n\nGrab the Inductor Dice here! https://store.gamersnexus.net/products/inductor-full-tabletop-mtg-dnd-premium-dice-set-7-",
+        "id": 2537609,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=WcTxrzFqdyw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WcTxrzFqdyw/hqdefault.jpg",
+        "title": "JayzTwoCents Lab Overhaul: GPU Test Setup, 1% & 0.1% Lows, and Benchmarking Tools",
+        "vote": 0
+    }
+]

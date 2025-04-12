@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-11T14:07:05+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Remote Execution Caching Compiler (RECC) for C++ Builds -  Shivam Bairoliya - CppCon 2024\n---\n\nRECC stands for remote execution caching compiler ( https://buildgrid.gitlab.io/recc/ ). A cross between ccache and distcc, RECC can cache and remotely distribute compilation commands using the open source Remote Execution API (REAPI). It also supports link command caching and remote linking. RECC is used at Bloomberg to save both time and compute resources for every C++ build. On the company\u2019s integration build system, which performs tens of millions of daily compilations, RECC achieves a nearly 80% cache hit rate. In this lightning talk, I will share top-line results from integrating RECC in our environment and discuss how and why others can use it.\n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nShivam Bairoliya\n\nShivam Bairoliya is an engineer on the Distributed Build team at Bloomberg. This team supports all of the firm\u2019s buil",
+        "id": 2535208,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=oH1JKMKwDDA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oH1JKMKwDDA/hqdefault.jpg",
+        "title": "Lightning Talk: Remote Execution Caching Compiler (RECC) for C++ Builds - Shivam Bairoliya - CppCon",
+        "vote": 0
+    }
+]

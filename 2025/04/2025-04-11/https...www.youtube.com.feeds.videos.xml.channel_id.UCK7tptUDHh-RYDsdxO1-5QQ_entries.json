@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-11T14:01:00+00:00",
+        "description": "There are over 55 billion U.S. bank notes in circulation around the globe. This means protecting the world\u2019s number one traded currency from counterfeiting and forgery is no easy task. In fact, the $1 bill is one of the least secure American bank notes in the world as it hasn\u2019t been updated in over 60 years.\n\nFrom hidden magnetic fields to the way ink bleeds across the paper, WSJ sits down with a leading currency expert to explore the techniques used to keep cash safe.\n\nChapters:\n0:00 Preventing counterfeiters\n0:50 Level 1: readable by humans\n5:01 Level 2: readable by machines\n6:01 Level 3: readable by central banks\n7:07 Redesigning the $1 bill\n\nPro Perfected\nExperts in engineering and design break down a ubiquitous problem, examining how the world is built and what can make it better.\n\n#Money #Crime #WSJ",
+        "id": 2535435,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Zkq4cv5dH7I",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Zkq4cv5dH7I/hqdefault.jpg",
+        "title": "The Hidden Tech Protecting 55 Billion U.S. Bank Notes | WSJ Pro Perfected",
+        "vote": 0
+    }
+]

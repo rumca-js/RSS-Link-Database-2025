@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-11T16:11:17+00:00",
+        "description": "<p>Generative AI is reshaping global competition and geopolitics, presenting challenges and opportunities for nations and businesses alike. Senior figures from Boston Consulting Group (BCG) and its tech division, BCG X, discussed the intricate dynamics of the global AI race, the dominance of superpowers like the US and China, the role of emerging &#8220;middle powers,&#8221; and [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/bcg-analysing-the-geopolitics-of-generative-ai/\">BCG: Analysing the geopolitics of generative AI</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 2536628,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/bcg-analysing-the-geopolitics-of-generative-ai",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "BCG: Analysing the geopolitics of generative AI",
+        "vote": 0
+    }
+]

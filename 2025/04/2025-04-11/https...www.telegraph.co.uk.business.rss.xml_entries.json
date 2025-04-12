@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-11T05:47:33+00:00",
+        "description": "Stocks plunge at fastest rate since financial crisis",
+        "id": 2532362,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2025/04/11/trump-tariffs-latest-ftse-100-markets-share-price-china",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Stocks plunge at fastest rate since financial crisis",
+        "vote": 0
+    }
+]

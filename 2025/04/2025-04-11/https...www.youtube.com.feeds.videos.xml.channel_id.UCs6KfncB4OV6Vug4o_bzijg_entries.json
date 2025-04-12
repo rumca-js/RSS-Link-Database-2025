@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-11T10:05:00+00:00",
+        "description": "Featuring strategies to make yourself resilient to E2EE bans, whether or not they happen. Welcome to Techlore's privacy wins of the week, where our community shares their tech wins. It can be privacy, security, or anything else tech-related! Join next week's stream in the pinned post on our forum: https://discuss.techlore.tech/\n\nTimestamps:\nComing Soon\n\n\ud83d\udd10 Techlore Homepage: https://techlore.tech\n\ud83d\udd75 Go Incognito Course: https://techlore.tech/goincognito\n\ud83d\udcbb Techlore Community: https://discuss.techlore.tech\n\ud83c\udfeb Techlore Coaching: https://techlore.tech/coaching\n\ud83d\udcac Signal Group: https://discuss.techlore.tech/t/signal-usernames-are-here-join-our-signal-group-techlore/7640\n\nWe cannot provide our content without our Patrons, huge thanks to:\nBRIGHTSIDE, Clark, Ente, Larry, Richard, Afonso, Johnny, Kevin, love your content, x, 3c3c1d, NotSure, Philip, Seth, Stephen, Steven, Timothy\n\n\ud83e\udde1 Join them on Patreon: https://www.patreon.com/techlore\n\ud83d\udc9a To see our production gear, privacy tools we use, and othe",
+        "id": 2533592,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=QMZwdwAMZk4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QMZwdwAMZk4/hqdefault.jpg",
+        "title": "Preparing if Switzerland Actually Bans E2EE - Privacy Wins Of The Week!",
+        "vote": 0
+    }
+]

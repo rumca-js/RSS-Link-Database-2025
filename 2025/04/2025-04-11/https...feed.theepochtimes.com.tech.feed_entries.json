@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-11T03:59:11+00:00",
+        "description": "RABAT, Morocco\u2014Morocco&#8217;s social security agency said troves of data were stolen from its systems in a cyberattack this week that resulted in personal information being leaked on the messaging app Telegram. The North African kingdom\u2019s social security fund administers pensions and insurance benefits to millions of private sector workers, from assembly line laborers to corporate [&#8230;]",
+        "id": 2532071,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/tech/hackers-breach-moroccos-social-security-database-in-unprecedented-cyberattack-5839890",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/04/10/id5839955-Morocco_Cyberattack_25100654992247-1080x720.jpg",
+        "title": "Hackers Breach Morocco\u2019s Social Security Database in Unprecedented Cyberattack",
+        "vote": 0
+    }
+]

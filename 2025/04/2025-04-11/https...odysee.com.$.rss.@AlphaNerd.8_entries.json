@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mental Outlaw",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-11T19:01:54+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/5TMWKY9F5Hw\" width=\"480\" alt=\"thumbnail\" title=\"OpenSSH Gets Post Quantum Encryption\" /></p>In this video I discuss the new updates to OpenSSH 10.0 including post quantum encryption enabled by default.  Read the full release notes below.<br /><br />https://www.openssh.com/txt/release-10.0<br /><br />My merch is available at<br />https://based.win/<br /><br />Subscribe to me on Odysee.com<br />https://odysee.com/@AlphaNerd:8<br /><br />\u20bf\ud83d\udcb0\ud83d\udcb5\ud83d\udcb2Help Support the Channel by Donating Crypto\ud83d\udcb2\ud83d\udcb5\ud83d\udcb0\u20bf<br /><br />Monero<br />45F2bNHVcRzXVBsvZ5giyvKGAgm6LFhMsjUUVPTEtdgJJ5SNyxzSNUmFSBR5qCCWLpjiUjYMkmZoX9b3cChNjvxR7kvh436<br /><br />Bitcoin<br />3MMKHXPQrGHEsmdHaAGD59FWhKFGeUsAxV<br /><br />Ethereum<br />0xeA4DA3F9BAb091Eb86921CA6E41712438f4E5079<br /><br />Litecoin<br />MBfrxLJMuw26hbVi2MjCVDFkkExz8rYvUF<br />...<br />https://www.youtube.com/watch?v=5TMWKY9F5Hw",
+        "id": 2538285,
+        "language": "en",
+        "link": "https://odysee.com/openssh-gets-post-quantum-encryption:9c68f414cae60c77c35922d1cd9a66c280b2668b",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 513,
+        "source_url": "https://odysee.com/$/rss/@AlphaNerd:8",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "OpenSSH Gets Post Quantum Encryption",
+        "vote": 0
+    }
+]

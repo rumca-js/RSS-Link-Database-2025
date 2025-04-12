@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-11T19:30:58+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I\u2019ve been working on a side project called Brief.fm for the past few months, and I\u2019d love to get your thoughts.</p> <p>Here\u2019s the link: <a href=\"https://brief.fm/\">https://brief.fm/</a></p> <p>The idea is simple: You add RSS feeds (or choose from popular ones - the ones my friends already added while testing), and the tool summarizes them for you using AI. You can either read the summaries or listen to them in a natural AI voice. The goal is to help people stay informed while going about your daily routine, without increasing screen time.</p> <p>It works as a web app, so there\u2019s nothing to install, and it won\u2019t take up space on your device. But you can save it on your Home Screen use it as an app. It works with push notifications if you want it to. (For those familiar with PWAs, that\u2019s what this is)</p> <p>For the privacy conscious folks, we don\u2019t want anything beyond a user identifier, so you can log in with your google account and we ",
+        "id": 2537958,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1jwyev8/i_built_a_tool_that_summarizes_rss_feeds_and",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I built a tool that summarizes RSS feeds and converts them to AI voice \u2013 would love your thoughts!",
+        "vote": 0
+    }
+]

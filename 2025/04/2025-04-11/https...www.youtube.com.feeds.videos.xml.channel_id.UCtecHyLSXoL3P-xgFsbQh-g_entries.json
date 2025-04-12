@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-11T14:24:40+00:00",
+        "description": "Na Ga\u0142\u0119zi na Instagramie - https://www.instagram.com/mlukanski/\n\nStudio to absolutna petarda! Serial zabawny, b\u0142yskotliwy, ze \u015bwietnymi dialogami, dynamicznym tempem, pe\u0142en energii i rewelacyjnych pomys\u0142\u00f3w. Polecam z ca\u0142ego serducha!",
+        "id": 2536016,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=fqosuzffXCw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fqosuzffXCw/hqdefault.jpg",
+        "title": "Studio - MUSICIE to obejrze\u0107!",
+        "vote": 0
+    }
+]

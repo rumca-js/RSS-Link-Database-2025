@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-11T12:28:11+00:00",
+        "description": "Rz\u0105d pracuje nad doszlifowaniem dost\u0119pu do tzw. centralnego systemu informacji rynku energii. Ten zacznie obowi\u0105zywa\u0107 w drugiej po\u0142owie tego roku. Sp\u00f3\u0142ka Energa-Operator ju\u017c teraz znosi op\u0142aty za odczyty licznik\u00f3w na indywidualn\u0105 pro\u015bb\u0119 klienta.",
+        "id": 2534462,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/ceny-energii/art42107951-latwiejszy-dostep-do-wlasnego-licznika-energa-znosi-oplaty",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u0141atwiejszy dost\u0119p do w\u0142asnego licznika. Energa znosi op\u0142aty",
+        "vote": 0
+    }
+]
