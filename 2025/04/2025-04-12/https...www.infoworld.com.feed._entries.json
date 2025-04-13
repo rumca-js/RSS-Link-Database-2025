@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-12T19:01:46+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Microsoft has released its third preview of <a href=\"https://www.infoworld.com/article/2264488/what-is-the-net-framework-microsofts-answer-to-java.html\">.NET</a> 10, a planned update to the company\u2019s cross-platform, open-source, application development platform. Among the highlights, .NET 10 Preview 3 introduces an AOT-safe constructor for <code>ValidationContext</code>, more powerful <a href=\"https://www.infoworld.com/article/3477282/the-best-new-features-in-c-sharp-13.html\">C#</a> language extensions, and <a href=\"https://www.infoworld.com/article/2338542/microsoft-net-8-boosts-blazor-webassembly.html\">Blazor WebAssembly</a> improvements.</p>\n\n\n\n<p>.NET 10 Preview 3 was unveiled <a href=\"https",
+        "id": 2544179,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/3960731/net-10-preview-3-bolsters-standard-library-c-webassembly.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": ".NET 10 Preview 3 bolsters standard library, C#, WebAssembly",
+        "vote": 0
+    }
+]

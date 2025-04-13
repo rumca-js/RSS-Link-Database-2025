@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-12T15:00:32+00:00",
+        "description": "Learn more about the science videos you've been watching with Brilliant! First 30 days are free and 20% off the annual premium subscription when you use our link \u279c  https://brilliant.org/sabine. \n\nCorrection: When I say that there are 2/3 of galaxies that spin one direction and 1/3 the other, that should have been 3/5 one way and 2/5 the other. Or, to put it into percentages, it's 60% vs 40% (not 67% vs 33%). Sorry about that :/\n\nA new study has found that the universe might be spinning.  What does that even mean? Let\u2019s have a look.\n\nPaper: https://academic.oup.com/mnras/article/538/1/76/8019798?login=false\n\nThis video comes with a quiz which you can take here: https://quizwithit.com/start_thequiz/1744199904378x776058965577171000\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.",
+        "id": 2542748,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Gm5nvLJoXCI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Gm5nvLJoXCI/hqdefault.jpg",
+        "title": "The Entire Universe Seems to Spin, New Data Reveal",
+        "vote": 0
+    }
+]

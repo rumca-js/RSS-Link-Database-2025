@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-12T22:25:21+00:00",
+        "description": "Some consumer electronics are also exempted in a major boost to Big Tech.",
+        "id": 2544973,
+        "language": "en-US",
+        "link": "https://arstechnica.com/tech-policy/2025/04/after-market-tumult-trump-exempts-smartphones-from-massive-new-tariffs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-12.43.08-500x500.jpg",
+        "title": "After market tumult, Trump exempts smartphones from massive new tariffs",
+        "vote": 0
+    }
+]

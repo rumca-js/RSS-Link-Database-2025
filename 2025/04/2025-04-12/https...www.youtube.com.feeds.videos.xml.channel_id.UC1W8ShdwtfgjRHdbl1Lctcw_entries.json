@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NASS",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-12T22:16:03+00:00",
+        "description": "I used a new colorization technique, restored the footage, and created a custom sound design for this video, which features iconic locations across California 1896-1906 : the lively streets of Berkeley, the scenic beach and Cliff House in San Francisco, South Spring Street in Los Angeles, the majestic Sutro and Lurline Baths, the elegant Hotel Vendome in San Jose, the graceful dance of Cupid and Psyche, the luxurious Hotel Del Monte in Monterey, the historic campus of Stanford University in Palo Alto, the industrial heart of Union Iron Works in San Francisco, and the breathtaking landscapes of Mount Tamalpais in Marin County.\n\n0:06 streets of Berkeley, Cal 1906\n3:23 Panoramic view of beach and Cliff House 1903\n4:53 South Spring Street, Los Angeles, Cal 1898\n5:18 Sutro Baths, San Francisco, 1897\n4:40  Lurline Baths, San Francisco, 1897\n6:05 Hotel Vendome, San Jose, Cal 1897\n6:40 Cupid and Psyche, San Francisco 1897\n6:07 Hotel Del Monte, Monterey, Calif 1897\n7:29 Stanford University, Ca",
+        "id": 2544673,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=0sMyW2pVApU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 222,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1W8ShdwtfgjRHdbl1Lctcw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0sMyW2pVApU/hqdefault.jpg",
+        "title": "1896-1906 California in Color [60fps,Remastered] w/sound design added",
+        "vote": 0
+    }
+]

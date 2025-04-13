@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-12T20:00:23+00:00",
+        "description": "It\u2019s one of history\u2019s great cosmic punchlines: the very thing that spelled the end for the dinosaurs\u2014an enormous asteroid slamming into Earth some 66 million years ago\u2014was also partly responsible for their existence to begin with. In fact, without the chaotic mess of asteroid impacts billions of years earlier, shaping planets, delivering water, and jump-starting the chemistry of life, neither they nor we would be here to ponder the irony. Destruction and creation, hand in hand\u2014typical universe.",
+        "id": 2544456,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=PL65H3QG3_A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/PL65H3QG3_A/hqdefault.jpg",
+        "title": "How Can One Space Rock Be Both Hero and Villain?",
+        "vote": 0
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-12T10:43:29+00:00",
+        "description": "Pessimism, though not despair, hung in the air as the \u2018tech right\u2019 and trads tackled a challenge that can sink civilizations.",
+        "id": 2541502,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/us/at-conference-to-fight-falling-birth-rates-ideas-and-factions-clash-cohere-5837129",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/04/12/id5840716-carl-benjamin-1080x720.jpg",
+        "title": "At Conference to Fight Falling Birth Rates, Ideas and Factions Clash, Cohere",
+        "vote": 0
+    }
+]

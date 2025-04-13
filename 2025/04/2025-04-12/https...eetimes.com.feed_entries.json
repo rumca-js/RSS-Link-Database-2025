@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-12T00:00:00+00:00",
+        "description": "<p>Several automakers announced a halt to all exports and the strategic holding of recently arrived cars at U.S. ports.</p>\n<p>The post <a href=\"https://www.eetimes.com/automakers-halt-u-s-vehicle-exports-hold-imports/\">Automakers Halt U.S. Vehicle Exports, Hold Imports</a> appeared first on <a href=\"https://www.eetimes.com\">EE Times</a>.</p>",
+        "id": 2541120,
+        "language": "en-US",
+        "link": "https://www.eetimes.com/automakers-halt-u-s-vehicle-exports-hold-imports",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 483,
+        "source_url": "https://eetimes.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.eetimes.com/wp-content/uploads/A1612556.jpeg",
+        "title": "Automakers Halt U.S. Vehicle Exports, Hold Imports",
+        "vote": 0
+    }
+]

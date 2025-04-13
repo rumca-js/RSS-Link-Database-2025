@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-12T17:52:28+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/4hj60sw1nks\" width=\"480\" alt=\"thumbnail\" title=\"ArcoLinux Is Shutting Down...Now What?\" /></p>So ArcoLinux just announced that they are shutting down.  ArcoLinux had become one of the most popular Arch-based distros, not to mention the extreme amount of content that Erik Dubois created.  For those of us using ArcoLinux, there is some work that we now must do.<br /><br />REFERENCED:<br />\u25ba https://www.youtube.com/watch?v=_NMQ_-77JRM<br />\u25ba https://www.arcolinux.info/a-farewell-to-the-arcolinux-university/<br />\u25ba https://github.com/archlinux/pacman-contrib<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJWVnpQd3xBQ3Jtc0tsLVZJc19YeFlwZ2JqbXVOa3g0Skw4TVhTV2otNm1tM3A1bUNnamh3S2V6OGQtLTBnSjBxYTlvUXMxeEVIS3o4US10NENHMUQ3STk2a01FOFBhUnZjZFctMEhFUTg1TVctQmFfVUdxZXJ4TDl0azlYNA&q=https%3A%2F%2F",
+        "id": 2544512,
+        "language": "en",
+        "link": "https://odysee.com/arcolinux-is-shutting-down...now-what:1e38a61f4733b7e7f339ce42ed084dc04891a445",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "ArcoLinux Is Shutting Down...Now What?",
+        "vote": 0
+    }
+]

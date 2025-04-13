@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-12T12:00:25+00:00",
+        "description": "\"The work is about questioning how we locate ourselves in time, in history and in the cosmos\u2014an invitation to reimagine our place within these larger systems of knowledge and forgetting.\"",
+        "id": 2541940,
+        "language": "en",
+        "link": "https://observer.com/2025/04/artist-interview-tavares-strachan-starless-midnight-marian-goodman-gallery",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "At Marian Goodman Gallery, Tavares Strachan Investigates the Stories that Shape Our Existence",
+        "vote": 0
+    }
+]

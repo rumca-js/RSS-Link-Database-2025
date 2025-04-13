@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-12T07:04:08+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I was trying to look up the instruction formats for rv32i.</p> <p>A document named Technical Report UCB/EECS-2011-62 that I got from here the</p> <p>riscv website showed 6 instruction formats, but they were named R,R4,I,B,L,J</p> <p>instead of R,I,S,B,U,J.</p> <p><a href=\"https://riscv.org/specifications/ratified/\">https://riscv.org/specifications/ratified/</a></p> <p>Why is that?</p> <p>Could it be that there are different names for the same formats?</p> <p>Or is it for the risc-v extensions rather than rv32i?</p> <p>Because under &#39;R4&#39; it says:</p> <p>&gt; This format is only used by the floating-point fused multiply-add instructions</p> <p>rv32i doesn&#39;t deal with floats, right?</p> <p>Also, is there a place where we can get the list of rv32i instructions along with their instruction format types?<br/> Searching online got me a bit confused because it felt like different sources are saying different things.</p> </div><!-- SC_ON --> &#32;",
+        "id": 2540638,
+        "language": null,
+        "link": "https://www.reddit.com/r/RISCV/comments/1jxbi0b/beginner_which_are_the_instruction_formats",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "[Beginner] Which are the instruction formats?",
+        "vote": 0
+    }
+]

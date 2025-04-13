@@ -1,0 +1,28 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_dead_since": null,
+        "date_published": "2025-04-12T15:36:38+00:00",
+        "description": "Sometimes even the worst games have at least one good redeeming quality.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1     \n\n0:00 Intro \n0:24 Number 10\n2:30 Number 9\n3:58 Number 8\n5:53 Number 7\n7:52 Number 6\n9:41 Number 5\n11:08 Number 4\n13:28 Number 3\n16:12 Number 2\n18:54 Number 1",
+        "id": 2542951,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=1fFaKvglQLA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/1fFaKvglQLA/hqdefault.jpg",
+        "title": "10 Bad Games With ONE REALLY GOOD THING",
+        "vote": 0
+    }
+]
