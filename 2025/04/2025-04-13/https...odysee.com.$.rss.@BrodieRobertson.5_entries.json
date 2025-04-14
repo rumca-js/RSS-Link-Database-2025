@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-13T22:35:38.925481+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-13T21:00:28+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/geKDXux1e94\" width=\"480\" alt=\"thumbnail\" title=\"This Is Why I Love Linux Desktops\" /></p>What I love the most about open source projects is they're not afraid to just yoink ideas that come from another project if they happen to be good ideas like what COSMIC did with KDEs X11 legacy hot key feature.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />COSMIC Issue: https://github.com/pop-os/cosmic-comp/issues/897<br />Othe Direction: https://github.com/pop-os/xdg-desktop-portal-cosmic/issues/4<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><",
+        "id": 2550096,
+        "language": "en",
+        "link": "https://odysee.com/this-is-why-i-love-linux-desktops:ef89fdc504f79b45c706e10b08ce662ebc2d004c",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "This Is Why I Love Linux Desktops",
+        "vote": 0
+    }
+]

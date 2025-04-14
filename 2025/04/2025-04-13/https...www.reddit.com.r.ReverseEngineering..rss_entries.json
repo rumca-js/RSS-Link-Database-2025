@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-13T18:03:15.882587+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-13T17:18:11+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I am in cyber sec for past 27 years with 17 years working on malware and reverse engineering along with pentesting. I have recently created a new series for malware development in the most fun way possible. Please do check out my latest video here: <a href=\"https://youtu.be/AQ1cEpoQg-Q\">https://youtu.be/AQ1cEpoQg-Q</a> and the complete playlist here: [<a href=\"https://www.youtube.com/playlist?list=PLz8UUSk%5C_y7EN0Gip2bx11y-xX1KV7oZb0%5C%5D(https://www.youtube.com/playlist?list=PLz8UUSk%5C_y7EN0Gip2bx11y-xX1KV7oZb0)\">https://www.youtube.com/playlist?list=PLz8UUSk\\_y7EN0Gip2bx11y-xX1KV7oZb0\\](https://www.youtube.com/playlist?list=PLz8UUSk\\_y7EN0Gip2bx11y-xX1KV7oZb0)</a></p> <p>I am adding videos regularly, so please check it out and let me know your feedback.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/malware_author2\"> /u/malware_author2 </a> <br/> <span><a href=\"https://youtu.be/AQ1cEpoQg-Q\">[l",
+        "id": 2548857,
+        "language": null,
+        "link": "https://www.reddit.com/r/ReverseEngineering/comments/1jycrij/malware_development_series_beginner_to_advanced",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 476,
+        "source_url": "https://www.reddit.com/r/ReverseEngineering/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Malware Development Series | Beginner to Advanced 2025",
+        "vote": 0
+    }
+]

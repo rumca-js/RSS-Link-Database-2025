@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-13T14:54:00.628369+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-13T14:26:16+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/DLSS-SITE.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>\nDebuting alongside the new Blackwell GPU architecture, Nvidia gifted a remarkable new technology to owners of all existing RTX GPUs - the DLSS 4 transformer model. We've already talked about <a href=\"https://www.eurogamer.net/digitalfoundry-2024-nvidia-dlss-4-tested-ray-reconstruction-upgrades-deliver-radical-enhancements\">how the new ray reconstruction produces some outstanding results</a>, but what about upscaling, or super resolution? Outlets like <a href=\"https://www.youtube.com/watch?v=ELEu8CtEVMQ\">Hardware Unboxed</a> have already put out excellent analysis of the new DLSS, so we went for a slightly different approach. Based on our years of testing games and isolating specific DLSS issues within these titles, we decided to go back and re-test DLSS pain points, swapping out the old convolutional neural network (CNN) model for the brand-new transformer alte",
+        "id": 2547901,
+        "language": "en",
+        "link": "https://www.eurogamer.net/digitalfoundry-2025-stress-testing-dlss-4s-super-resolution-transformer-technology",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/DLSS-SITE.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "Stress-testing DLSS 4's super resolution transformer technology",
+        "vote": 0
+    }
+]

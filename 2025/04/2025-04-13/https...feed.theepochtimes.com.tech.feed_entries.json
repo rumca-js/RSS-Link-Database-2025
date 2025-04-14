@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-13T12:49:50.417899+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-13T11:00:40+00:00",
+        "description": "'It's going to be a cat and mouse game. It depends on who blinks first,\u2019 said Norman Lewis, a former director of technology research at Orange UK.",
+        "id": 2547198,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/world/europe-says-tech-regulation-isnt-on-the-table-in-tariff-talks-analysts-disagree-5840392",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2024/08/25/id5712510-AP24227863976487.jpg-LSedit-1080x720.jpg",
+        "title": "Europe Says Tech Regulation Isn\u2019t on the Table in Tariff Talks. Analysts Disagree",
+        "vote": 0
+    }
+]

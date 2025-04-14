@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-13T12:29:50.720523+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-13T12:00:00+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>In the mid-1990s, Microsoft DOS dominated most PCs. Those who were a step ahead might\u2019ve been using Windows 3.1, but even that was <a href=\"https://www.pcworld.com/article/2649980/microsoft-best-windows-operating-systems-ever-ranked.html\">a superimposed user interface on top of MS-DOS</a>. Windows was still pretty darn unfamiliar to people back then, so in 1995, Microsoft came up with a more user-friendly interface called <a href=\"https://en.wikipedia.org/wiki/Microsoft_Bob\">Microsoft Bob</a> (codename Utopia).</p>\n\n\n\n<p>Bob was a complete replacement for Windows 3.1, changing the way users interacted with their PCs. Instead of \u201cwindows,\u201d you interfaced with a digital house with all files, folders, and features represented as parts of the house. For example, there was a room for mail and one for the calendar, plus furniture and animated characters (like the",
+        "id": 2546819,
+        "language": null,
+        "link": "https://www.pcworld.com/article/2661663/microsofts-worst-software-flop-was-secretly-lurking-in-windows-for-years.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microsoft\u2019s worst software flop was secretly lurking in Windows for years",
+        "vote": 0
+    }
+]

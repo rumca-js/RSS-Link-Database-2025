@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "emzdanowicz",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-13T05:12:49.788245+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-13T05:00:15+00:00",
+        "description": "Marathon nie wydaje si\u0119 robi\u0107 niczego wyj\u0105tkowego w gatunku extraction shooter\u00f3w, wi\u0119c czy na pewno poradzi sobie tak, jak musi sobie poradzi\u0107 gra z (zapewne) ogromnym bud\u017cetem?\n\n#marathon",
+        "id": 2545731,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=JX4VlcPHce4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 408,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCDGVMGoT8ql8JQLJt715jA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/JX4VlcPHce4/hqdefault.jpg",
+        "title": "Marathon? Ch\u0119tnie zagram, ale Bungie mo\u017ce mie\u0107 problem...",
+        "vote": 0
+    }
+]

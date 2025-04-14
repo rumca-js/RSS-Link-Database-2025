@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-13T01:28:35.143601+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-13T00:25:02+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/WeirdWebsites/comments/1jxveaz/i_found_a_website_that_lets_you_simulate_the/\"> <img src=\"https://preview.redd.it/9lu9vxlqxhue1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=973c266446a2cd2c525ad38970ec04be4336d992\" alt=\"I found a website that lets you simulate the Hunger Games with custom characters.\" title=\"I found a website that lets you simulate the Hunger Games with custom characters.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"http://brantsteele.net/hungergames/\">brantsteele.net/hungergames/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/wsrgiawehgoawieugnb\"> /u/wsrgiawehgoawieugnb </a> <br/> <span><a href=\"https://i.redd.it/9lu9vxlqxhue1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/WeirdWebsites/comments/1jxveaz/i_found_a_website_that_lets_you_simulate_the/\">[comments]</a></span> </td></tr></table>",
+        "id": 2545206,
+        "language": null,
+        "link": "https://www.reddit.com/r/WeirdWebsites/comments/1jxveaz/i_found_a_website_that_lets_you_simulate_the",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 579,
+        "source_url": "https://www.reddit.com/r/WeirdWebsites/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://preview.redd.it/9lu9vxlqxhue1.png?width=640&crop=smart&auto=webp&s=973c266446a2cd2c525ad38970ec04be4336d992",
+        "title": "I found a website that lets you simulate the Hunger Games with custom characters.",
+        "vote": 0
+    }
+]

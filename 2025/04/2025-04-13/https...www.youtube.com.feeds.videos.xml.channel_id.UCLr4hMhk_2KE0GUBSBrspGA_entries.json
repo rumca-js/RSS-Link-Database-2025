@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-13T18:23:48.844622+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-13T18:00:02+00:00",
+        "description": "W tym Tech Week zabieram Was do Chin, gdzie auta elektryczne zamiast \u0142adowa\u0107 si\u0119 na stacjach, maj\u0105 wymieniane baterie. W kilka minut. B\u0119dzie te\u017c o robotach humanoidalnych, kt\u00f3re pobiegn\u0105 z lud\u017ami w p\u00f3\u0142maratonie w Pekinie. Albo nie pobiegn\u0105, bo p\u00f3ki co p\u00f3\u0142maraton, z powodu wielkich wiatr\u00f3w, hehe, zosta\u0142 prze\u0142o\u017cony. \nW odcinku wyst\u0105pi te\u017c robot Kawasaki, kt\u00f3rego chcia\u0142bym uje\u017cd\u017ca\u0107 (wiem jak to brzmi, ale Wy te\u017c b\u0119dziecie chcieli) oraz szef Shopify, kt\u00f3ry chce zast\u0119powa\u0107 nowych pracownik\u00f3w firmy AI. AI z kolei wykorzystane zosta\u0142o do przykrycia zwyk\u0142ego ludzkiego plagiatu reklamy, kt\u00f3r\u0105 pokazywa\u0142em Wam tydzie\u0144 temu. \n\nJe\u017cei interesuje Ci\u0119 technologia z ca\u0142ego \u015bwiata - bez marketingowego be\u0142kotu - mo\u017cesz (ale nie musisz) klikn\u0105\u0107 subskrybuj. \n\ud83e\udd8c Je\u017celi t\u0119sknisz za jeleniem, wiesz co robi\u0107.\n\nFilm zawiera fragment sponsorowany ZEN - https://bit.ly/3rklh8W - z kodem \u201eklawyzen\u201d macie 2 miesi\u0105ce korzystania z aplikacji gratis.\n\nW odcinku:\n00:00 Wsch\u00f3d s\u0142o\u0144ca w Pekinie\n00:25 Plan na Chiny\n02:02 D",
+        "id": 2548965,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=e11Uidhj03k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/e11Uidhj03k/hqdefault.jpg",
+        "title": "Tech Week: Jestem w Chinach, baterie w samochodzie wymieniaj\u0105 tu w 3 minuty",
+        "vote": 0
+    }
+]

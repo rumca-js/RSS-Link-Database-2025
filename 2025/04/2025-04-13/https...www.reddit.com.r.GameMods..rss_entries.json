@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-13T00:29:50.486440+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-13T00:17:41+00:00",
+        "description": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Morpheus414\"> /u/Morpheus414 </a> <br/> <span><a href=\"/r/SonicTheHedgehog/comments/1j305ep/even_modders_dont_like_sonic_superstars/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/GameMods/comments/1jxv9gv/even_modders_dont_like_sonic_superstars/\">[comments]</a></span>",
+        "id": 2545014,
+        "language": null,
+        "link": "https://www.reddit.com/r/GameMods/comments/1jxv9gv/even_modders_dont_like_sonic_superstars",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 533,
+        "source_url": "https://www.reddit.com/r/GameMods/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Even Modders Don't Like Sonic Superstars...",
+        "vote": 0
+    }
+]

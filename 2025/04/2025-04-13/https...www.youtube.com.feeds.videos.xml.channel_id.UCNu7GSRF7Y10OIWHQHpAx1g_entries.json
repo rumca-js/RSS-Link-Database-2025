@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "BezPlanu",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-13T09:07:56.288389+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-13T08:00:51+00:00",
+        "description": "Pocz\u0105tek nowej serii, w kt\u00f3rej odwiedzimy Grenlandi\u0119. W tym kr\u00f3tkim vlogu stolica Danii: Kopenhaga.\n\nWszystkie odcinki BezPlanu chronologicznie: http://bit.ly/2MqAO7Q\nWsparcie kana\u0142u: https://patronite.pl/BezPlanu\nSklep: https://bezplanu.com\n\nWst\u0119pny monta\u017c:   @VasileVlog  \nVasily https://www.instagram.com/vasilykob/\n\nCzas akcji: marzec/kwiecie\u0144 2025",
+        "id": 2546402,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=huIO4IxiiTM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 36,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNu7GSRF7Y10OIWHQHpAx1g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/huIO4IxiiTM/hqdefault.jpg",
+        "title": "Kierunek: Grenlandia",
+        "vote": 0
+    }
+]

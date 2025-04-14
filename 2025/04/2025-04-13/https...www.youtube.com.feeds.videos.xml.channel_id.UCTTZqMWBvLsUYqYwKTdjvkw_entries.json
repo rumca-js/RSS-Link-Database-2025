@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-13T17:15:46.391374+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-13T16:01:02+00:00",
+        "description": "\ud83d\udcf8\u00a0Kody QR s\u0105 dzi\u015b praktycznie wsz\u0119dzie. Na plakatach, w reklamach czy w restauracjach, aby zapozna\u0107 si\u0119 z menu przy stoliku. Niestety, mog\u0105 te\u017c stanowi\u0107 powa\u017cne zagro\u017cenie dla naszego bezpiecze\u0144stwa, je\u015bli korzystamy z nich bez \u017cadnego zastanowienia. Dlaczego?\n\nOdbierz bezp\u0142atn\u0105\u00a0lekcj\u0119 na uczmnie.pl!\n\ud83d\udc49 https://qrkod.uczmnie.pl\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udca1\u00a0Kody QR \u2013 prze\u0142omowy wynalazek DENSO\nhttps://www.denso-am.eu/pl/news/kody-qr-prze%C5%82omowy-wynalazek-denso\n\n\ud83e\udd62\u00a0Kaizen - Wikipedia\nhttps://pl.wikipedia.org/wiki/Kaizen\n\n\u2753\u00a0Co m\u00f3wi kod kreskowy na opakowaniu produktu?https://www.gov.pl/web/ijhars/co-mowi-kod-kreskowy-na-opakowaniu-produktu\n\n\ud83d\uddbc\ufe0f\u00a0How to store an image inside a qr code content offline?\nhttps://stackoverflow.com/questions/35147228/how-to-store-an-image-inside-a-qr-code-content-offline\u00a0\n\n\ud83c\udfdb\ufe0f\u00a0QR Codes in Museums: Unlocking New Opportunities in 2025\nhttps://www.museumnext.com/article/qr-codes-are-experiencing-a-resurgence-but-how-can-they-benefit-museums/\n\n\ud83d\udd2b\u00a0Quishing - oszustwo z wykorzystaniem",
+        "id": 2548623,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=k_A9Ai7EdD0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/k_A9Ai7EdD0/hqdefault.jpg",
+        "title": "Nie ufaj kodom QR! T\u0142umacz\u0119 dlaczego.",
+        "vote": 0
+    }
+]

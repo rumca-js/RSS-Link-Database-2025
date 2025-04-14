@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-13T15:55:34.329046+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-13T15:00:54+00:00",
+        "description": "These games did the right thing and still failed.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1     \n\n0:00 Intro  \n1:06 Immortals of Aveum  \n3:28 Titanfall 2  \n6:13 Singularity  \n7:56 Guardians of the Galaxy (2021)  \n10:26 Midnight Suns  \n12:14 Kingdoms of Amalur: Reckoning  \n13:39 Oddworld: Stranger's Wrath  \n14:45 DJ Hero  \n16:23 Prince of Persia: The Lost Crown  \n19:00 Panzer Dragoon Saga",
+        "id": 2548219,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Xthwypdky54",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Xthwypdky54/hqdefault.jpg",
+        "title": "10 Good Games That FLOPPED IN SALES [Part 2]",
+        "vote": 0
+    }
+]

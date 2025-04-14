@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-13T01:58:02.751489+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-13T01:40:42+00:00",
+        "description": "ABOARD AIR FORCE ONE &#8212; President Trump told reporters Saturday that negotiations for a ceasefire between Russia and Ukraine were &#8220;going fine,&#8221; but indicated there needs to be a resolution soon. &#8220;I think Ukraine-Russia might be going OK. And you\u2019re going to be finding out pretty soon,&#8221; Trump said aboard Air Force One. &#8220;There\u2019s a&#8230;",
+        "id": 2545290,
+        "language": "en-US",
+        "link": "https://thehill.com/homenews/administration/5246495-trump-russia-ukraine-talks-going-ok-but-point-at-which-you-have-to-put-up-or-shut-up",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 346,
+        "source_url": "https://thehill.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trump: Russia-Ukraine talks \u2018going OK,\u2019 but point at which \u2018you have to put up or shut up\u2019",
+        "vote": 0
+    }
+]
