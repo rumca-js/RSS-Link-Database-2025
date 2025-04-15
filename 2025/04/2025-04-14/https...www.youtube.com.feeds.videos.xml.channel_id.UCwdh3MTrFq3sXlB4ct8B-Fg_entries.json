@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Warhammer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-14T10:58:06.614990+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-14T10:21:36+00:00",
+        "description": "You read the title right! Tune in and follow along as Ollie shows you how to paint all 288 components in the battlefield trophies box. No matter who is your enemy; from the imperium, to chaos, to xenos. Everything you need to know is here in this whistle stop tour!\n\nSpace marine:\nMacragge blue\nIron Warriors\nBlood Angels red\nAgrax Earthshade\n\nTerminators:\nCorax White\nIron Warriors\nBlood Angels red\nNuln oil + Lahmian medium\n\nCadian:\nCastellan Green\nIron Warriors\nAgrax Earthshade\n\nDeath Korps:\nKarak Stone\nIron Warriors\nAbaddon Black\nAgrax Earthshade\n\nSister of battle:\nAbbadon black\nCorax White\nIron Warriors\nBlood angels red\nNuln Oil\n\nCustodes:\nRetributor Armour\nIron warriors\nBlood angels red\nFrost heart\nAgrax earthshade\n\nChaos space marine + terminator\nAbaddon black\nRetributor armour\nBlood angels red\nAgrax earthshade\nSkeleton horde\n\nKhorne Berzerker\nMephiston Red\nRetibutor Armour\nStriking Scorpion Green\nAgrax Earthshade\n\nPlague Marine:\nDeathguard Green\nIron Warriors\nBlood angels red\nAgra",
+        "id": 2552916,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=gS-M1JvGFJk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 385,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwdh3MTrFq3sXlB4ct8B-Fg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gS-M1JvGFJk/hqdefault.jpg",
+        "title": "Painting ALL the battlefield trophies!",
+        "vote": 0
+    }
+]

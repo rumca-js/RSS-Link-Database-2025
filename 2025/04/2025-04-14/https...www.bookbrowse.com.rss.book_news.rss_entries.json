@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-14T16:50:32.205029+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-14T06:00:00+00:00",
+        "description": "The Association of American Publishers filed an amicus brief on April 11 supporting authors in their class action lawsuit against Meta for copyright infringement related to AI training.\n<br><br>\nThe brief argues that Meta's use of copyrighted works to train its LLaMA AI model fails to meet fair use standards and contradicts the company's claims that licensing options for such content don't exist.",
+        "id": 2555797,
+        "language": "en",
+        "link": "http://www.bookbrowse.com/news/detail/index.cfm?news_item_number=3405",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 43,
+        "source_url": "https://www.bookbrowse.com/rss/book_news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "AAP files amicus brief in Meta AI copyright case",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-14T14:23:41.444055+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-14T14:02:22+00:00",
+        "description": "inTouch says on its website \"Busy life? You can\u2019t call your parent every day\u2014but we can.\" My own mum said she would feel terrible if her child used it.",
+        "id": 2554490,
+        "language": null,
+        "link": "https://www.404media.co/i-tested-the-ai-that-calls-your-elderly-parents-if-you-cant-bothered",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 5,
+        "source_url": "https://www.404media.co/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.404media.co/content/images/2025/04/intouch.png",
+        "title": "I Tested The AI That Calls Your Elderly Parents If You Can't Be Bothered",
+        "vote": 0
+    }
+]

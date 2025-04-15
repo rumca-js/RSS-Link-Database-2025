@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-14T22:54:27.308141+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-14T21:00:27+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/Z4d9T-HTDCs\" width=\"480\" alt=\"thumbnail\" title=\"Fedora Linux New Leader Has Been Revealed\" /></p>Fedora Linux has been led by Matthew Miller for over the past 10 years but now a new project leader has been revealed and honestly I'm a little confused by the choice.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Fedora Project Leader: https://docs.fedoraproject.org/en-US/council/fpl/<br />Jef Spaleta: https://fedoramagazine.org/introducing-fedora-project-leader-jef-spaleta/<br />LinkedIn: https://www.linkedin.com/in/jspaleta/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: http",
+        "id": 2558504,
+        "language": "en",
+        "link": "https://odysee.com/fedora-linux-new-leader-has-been:dc9275f69bdeed1eb47bca65f3fd94f129bb14fa",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Fedora Linux New Leader Has Been Revealed",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-14T22:49:26.565396+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-14T22:37:14+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I have 2 specific movies I&#39;ve downloaded from over 20+ different nzb uploads (nzbgeek, drunkenslug, nzbplanet)</p> <p>that keep downloading as a bunch of random letters/numbers and then part00 , part01, part02, etc<br/> each one comes with an accompying .nfo file</p> <p>I&#39;ve looked it up and tried finding why, and I&#39;ve found is that the random characters/numbers is to obfuscate the name, but can&#39;t find anything about manually unpacking them into the movie file(s).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Tf2ToxicSoldierMain\"> /u/Tf2ToxicSoldierMain </a> <br/> <span><a href=\"https://www.reddit.com/r/usenet/comments/1jzc3ys/movies_downloading_as_part00_part00nfo/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/usenet/comments/1jzc3ys/movies_downloading_as_part00_part00nfo/\">[comments]</a></span>",
+        "id": 2558425,
+        "language": null,
+        "link": "https://www.reddit.com/r/usenet/comments/1jzc3ys/movies_downloading_as_part00_part00nfo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Movie(s) downloading as Part00 & Part00.nfo",
+        "vote": 0
+    }
+]

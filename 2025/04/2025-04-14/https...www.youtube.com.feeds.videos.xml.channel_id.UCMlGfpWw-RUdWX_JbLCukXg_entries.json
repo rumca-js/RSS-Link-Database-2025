@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-14T15:12:58.130677+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-14T14:07:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: What Does a CMake Developer Want From CMake? - Ben Boeckel - CppCon 2024\n---\n\nA grab bag list of things a CMake developer wants from CMake itself. Feel free to help discover new ideas. No guarantees of actual implementation will be provided however.\n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nBen Boeckel\n \nBen Boeckel graduated from Rensselaer Polytechnic Institute taking computer science classes while working on free and open source software in between classes. After graduating, he has been working on CMake itself and using it to help build software at Kitware for 14 years. He has worked on various CMake features over the years between implementation (e.g., C++ modules support, various policies to help some avoid old terrible behaviors) and deployment of them (e.g., usage requirements being used pervasively throughout VTK) into real-world projects.\n---\n\nCppCon is the annual, week-long face-to-face gathering for the entir",
+        "id": 2554917,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=-kUL4AFblCA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/-kUL4AFblCA/hqdefault.jpg",
+        "title": "Lightning Talk: What Does a CMake Developer Want From CMake? - Ben Boeckel - CppCon 2024",
+        "vote": 0
+    }
+]

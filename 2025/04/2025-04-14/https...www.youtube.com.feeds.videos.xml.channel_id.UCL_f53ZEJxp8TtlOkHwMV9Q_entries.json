@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jordan B Peterson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-14T21:46:45.160691+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-14T21:29:55+00:00",
+        "description": "Dr. Jordan B. Peterson sits down with South African filmmaker, author, and activist Dr. Ernst Roets. They discuss the genetic and cultural hyper-diversity of Africa, the early settlement patterns of South Africa, the origin story of the Boers, how forgotten history breeds rhyming conflicts in the present, and the complex needle that must be threaded for shared prosperity.\n\nDr. Ernst Roets is an Afrikaner activist, author and filmmaker from South Africa. He serves as Executive Director of the newly established Pioneer Initiative, which seeks to promote a more sustainable political dispensation for South Africa, based on the principles of decentralization and self-governance. Dr Roets is the leading expert on the topic of farm murders in South Africa. His book, Kill the Boer: Government Complicity in South Africa's Brutal Farm Murders is an international bestseller on Amazon. He is also the producer of several documentary films. He regularly appears in the media - both in South Africa a",
+        "id": 2558135,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=XHhPc7o7Jig",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 167,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XHhPc7o7Jig/hqdefault.jpg",
+        "title": "South Africa: What the West Needs to Learn | Dr. Ernst Roets | EP 538",
+        "vote": 0
+    }
+]

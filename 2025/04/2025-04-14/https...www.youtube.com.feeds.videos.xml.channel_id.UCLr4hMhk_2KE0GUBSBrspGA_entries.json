@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-14T16:54:11.219918+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-14T16:22:14+00:00",
+        "description": "Wi\u0119cej o tym jak zam\u00f3wi\u0107, dlaczego tak tanio, czy mo\u017cna w takim kiosku zamieszka\u0107 i ile si\u0119 czeka na dostaw\u0119 w kolejnym odcinku z Chin",
+        "id": 2555857,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ooQl2KG9gT4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/ooQl2KG9gT4/hqdefault.jpg",
+        "title": "Jedzenie przylecia\u0142o. Dronem.",
+        "vote": 0
+    }
+]
