@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-15T15:35:22.854978+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-15T14:01:20+00:00",
+        "description": "Medicaid covers more than 70 million low-income people in the U.S., the largest public health insurance program in the country. The Republican House budget plan would likely require significant cuts to the program in order to pass President Trump\u2019s priorities. Cutting spending to Medicaid could be executed by reducing waste and fraud, reducing federal matching dollars and imposing work requirements at the state level like Arkansas is proposing. \n\nWSJ explores how the program works and how the GOP could reduce its funding.\n\nChapters:\n0:00 Medicaid is a target for spending cuts\n0:58 Medicaid, explained\n1:56 Waste and fraud in Medicaid\n2:33 Federal funding match\n3:52 Work requirements \n6:02 What\u2019s next? \n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ\u2019s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#Medicaid #Trump #WSJ",
+        "id": 2560593,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=vQwkhpNhwho",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/vQwkhpNhwho/hqdefault.jpg",
+        "title": "How Medicaid Actually Works\u2014And Three Ways Trump Can Cut Funding | WSJ",
+        "vote": 0
+    }
+]

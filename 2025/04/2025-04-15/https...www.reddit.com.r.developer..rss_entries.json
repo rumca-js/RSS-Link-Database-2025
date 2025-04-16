@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-15T20:24:50.218124+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-15T19:37:39+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>You\u2019ve seen it: people chatting with an LLM, copy-pasting whatever it spits out, and calling it \u201ccoding.\u201d<br/> Some even call it <em>vibe coding</em> \u2013 building apps purely by \u201cprompting\u201d and \u201cvibing\u201d with the AI.</p> <p>We just dropped a deep dive into this trend, especially how it\u2019s playing out in AI-assisted web app development (think Copilot, GPT Engineer, etc.).</p> <p><strong>TL;DR:</strong></p> <ul> <li>Yes, it\u2019s fast.</li> <li>Yes, it\u2019s fun.</li> <li>No, it\u2019s not software engineering.</li> <li>And if you don\u2019t understand your own code, you\u2019re not building \u2013 you\u2019re gambling.</li> </ul> <p>We cover:</p> <ul> <li>What \u201cvibe coding\u201d actually is</li> <li>Why people love it</li> <li>Where it completely falls apart (debugging hell, tech debt, unmaintainable messes)</li> <li>When it <em>does</em> make sense (prototyping, solo hacks, MVPs)</li> <li>How it fits into the bigger AI/LLM trend</li> </ul> <p>\ud83d\udd25 This is a <em>no-BS</em> take \u2014 not hype, not do",
+        "id": 2565131,
+        "language": null,
+        "link": "https://www.reddit.com/r/developer/comments/1k00ysq/whats_the_problem_with_vibe_coding_honest_review",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "What\u2019s The Problem With Vibe Coding? [Honest Review]",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-15T22:56:31.369128+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-15T21:00:11+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/6UR8TgY8NUY\" width=\"480\" alt=\"thumbnail\" title=\"The Linux Kernel Drama Needs To Stop!!\" /></p>After quitting upstreaming stuff into the Linux Kernel, Asahi Lina has returned again, this time to start linux kernel drama entirely of her own volition for something that the other person involves was happy to fix from the very first message.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />LKML Thread: https://lore.kernel.org/rust-for-linux/20250325235522.3992-1-dakr@kernel.org/t/#m375ef2c0be26c26f6f9e5ad1cb6894b8b9158137<br />Reddit Thread: https://www.reddit.com/r/linux/comments/1jvfonn/asahi_lina_argues_with_kernel_dev_over_code/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee",
+        "id": 2566161,
+        "language": "en",
+        "link": "https://odysee.com/the-linux-kernel-drama-needs-to-stop!!:eadc1e2a37262012891cba50bb697b09a644f338",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Linux Kernel Drama Needs To Stop!!",
+        "vote": 0
+    }
+]

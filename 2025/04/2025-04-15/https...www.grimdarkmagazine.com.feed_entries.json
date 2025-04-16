@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-15T15:27:34.817468+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-15T04:46:17+00:00",
+        "description": "<p>Avowed is a hotly anticipated action RPG developed by Obsidian Entertainment. Hotly anticipated because Obsidian have credit in the bank for acclaimed 1st/3rd person RPGs like Knights of the Old Republic 2, Fallout: New Vegas and The Outer Worlds. To add to the anticipation Avowed takes that pedigree and sets it in the established Pillars of Eternity setting of Eora, which Obsidian have produced two successful isometric RPGs in. So we know that they\u2019ve got form for this kind of game and there is a fully fleshed-out setting but does the game deliver? Short answer, yes but your mileage may vary. Plot wise, you are a Godlike &#8211; a person born with an affinity with one of Eoira\u2019s many gods, but you don\u2019t know which one.* Yes, finding out about that is a plot element that is a key part of the game. You are also an imperial envoy, sent by the Aedyran empire to investigate a spreading illness called the Dreamscourge which seeds to be emanating from a continent called the Living Lands.",
+        "id": 2560144,
+        "language": "en-AU",
+        "link": "https://www.grimdarkmagazine.com/review-avowed",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 137,
+        "source_url": "https://www.grimdarkmagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "REVIEW: Avowed",
+        "vote": 0
+    }
+]

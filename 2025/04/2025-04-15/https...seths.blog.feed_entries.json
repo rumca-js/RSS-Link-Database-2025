@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-15T15:38:01.380619+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-15T09:03:00+00:00",
+        "description": "If three people are coming over for dinner, does that stress you out? What if it&#8217;s 17? If you&#8217;re giving a talk explaining your strategy to four people, does it feel like a high-risk event? What if it&#8217;s 54? How many more people are required before it flips to stressful? Because the last person is [&#8230;]",
+        "id": 2560817,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/04/where-is-your-n-1",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Where is your N + 1?",
+        "vote": 0
+    }
+]

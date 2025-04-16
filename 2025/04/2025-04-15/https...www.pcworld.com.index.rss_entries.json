@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-15T15:46:54.393022+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-15T15:30:14+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Peter Parker is used to getting the short end of the stick. But even so, it\u2019s surprising to see a huge, high-profile game like <em>Spider-Man 2</em> get taken down a peg. While Sony\u2019s system-seller was \u201cSteam Deck Verified\u201d when it got its PC launch back in late January, it\u2019s now marked as just \u201cPlayable\u201d <a href=\"https://store.steampowered.com/app/2651280/Marvels_SpiderMan_2/\">on its official store page</a>.</p>\n\n\n\n<p>The change was <a href=\"https://www.kitguru.net/gaming/matthew-wilson/spider-man-2-is-no-longer-steam-deck-verified/\">noted by KitGuru</a>, which notes that the \u201cPlayable\u201d downgrade means that Steam Deck users might need to make some adjustments and compromises to get a game running smoothly on the laptop-based hardware. That\u2019s backed up by the warning on the Steam page itself, which says, \u201cThis game requires manual configuration of graphics ",
+        "id": 2561532,
+        "language": null,
+        "link": "https://www.pcworld.com/article/2687361/spider-man-2-for-pc-loses-its-steam-deck-verified-status.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Spider-Man 2 for PC loses its Steam Deck Verified status",
+        "vote": 0
+    }
+]

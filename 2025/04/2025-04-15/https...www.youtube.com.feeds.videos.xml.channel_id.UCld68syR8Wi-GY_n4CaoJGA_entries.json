@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-15T21:49:29.595606+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-15T21:00:11+00:00",
+        "description": "After quitting upstreaming stuff into the Linux Kernel, Asahi Lina has returned again, this time to start linux kernel drama entirely of her own volition for something that the other person involves was happy to fix from the very first message.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nLKML Thread: https://lore.kernel.org/rust-for-linux/20250325235522.3992-1-dakr@kernel.org/t/#m375ef2c0be26c26f6f9e5ad1cb6894b8b9158137\nReddit Thread: https://www.reddit.com/r/linux/comments/1jvfonn/asahi_lina_argues_with_kernel_dev_over_code/\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/di",
+        "id": 2565798,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=6UR8TgY8NUY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6UR8TgY8NUY/hqdefault.jpg",
+        "title": "The Linux Kernel Drama Needs To Stop!!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-15T15:51:06.389351+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-15T15:14:48+00:00",
+        "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Alyson La. She taught herself how to code while working as an accountant at GitHub and was able to transition to a data scientist there, then ultimately a software engineer.\n\nAfter one of her kids got diagnosed with autism, she left her career for 3 years to be a full-time mom. She then re-entered the workforce and now teaches other moms how to do the same through a charity called Tech-Moms. She recently won a teacher of the year award and was a top 5 finalist in a data visualization competition.\n\nWe talk about:\n- How Alyson taught herself programming while working as an accountant\n- How she transitioned to data analyst and ultimately data engineer\n- Tips for preparing for a break from work to take care of your family or address burnout\n- How to re-enter with the workforce with gusto\n\nSupport for this podcast comes from a grant from Wix Studio. Wix Studio provides developers tools to rapidly build web",
+        "id": 2562216,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=oYMUKagK0n8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/oYMUKagK0n8/hqdefault.jpg",
+        "title": "From Accountant to Data Engineer with Alyson La [Podcast #168]",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-15T16:02:31.534843+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-15T14:07:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: What LLMs Won't Ever be Able to Do - Ben Deane - CppCon 2024\n---\n\nLLM fails; philosophical reasons why LLMs can't do certain tasks\n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nBen Deane\n \nBen was in the game industry for 23 years, at companies like EA and Blizzard. For the last couple of years he's been working in the finance industry at Quantlab. He's always looking for useful new techniques in C++, and he geeks out on algorithms, APIs, types and functional programming.\n---\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosphere designed to help attendees learn from each other, meet interesting people, and generally have a stimulating experience. Taking place this year in Aurora, Colorado, near the Denver airport, and including multiple diverse tracks, the conferenc",
+        "id": 2562420,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=km0JFBfFNJQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/km0JFBfFNJQ/hqdefault.jpg",
+        "title": "Lightning Talk: What LLMs Won't Ever be Able to Do - Ben Deane - CppCon 2024",
+        "vote": 0
+    }
+]
