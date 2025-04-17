@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-16T13:51:34.448419+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-16T13:41:38+00:00",
+        "description": "<p>JetBrains has announced the integration of its AI tools \u2013 including the upgraded AI Assistant and new coding agent Junie \u2013 into its IDEs under a single subscription model, complete with a free tier. Love it or loathe it, there\u2019s no denying that AI is disrupting the software development industry. JetBrains, for its part, views<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/jetbrains-debuts-free-ai-tier-junie-coding-agent-in-ide/\" title=\"ReadJetBrains debuts free AI tier and Junie coding agent in IDEs\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/jetbrains-debuts-free-ai-tier-junie-coding-agent-in-ide/\">JetBrains debuts free AI tier and Junie coding agent in IDEs</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2570472,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/jetbrains-debuts-free-ai-tier-junie-coding-agent-in-ide",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "JetBrains debuts free AI tier and Junie coding agent in IDEs",
+        "vote": 0
+    }
+]

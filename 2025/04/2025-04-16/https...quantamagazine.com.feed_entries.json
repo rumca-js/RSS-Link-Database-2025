@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-16T15:16:33.644719+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-16T14:30:31+00:00",
+        "description": "Every soft caress of wind, searing burn and seismic rumble is detected by our skin\u2019s tangle of touch sensors. David Ginty has spent his career cataloging the neurons beneath everyday sensations.            <p>The post <a href=\"https://www.quantamagazine.org/touch-our-most-complex-sense-is-a-landscape-of-cellular-sensors-20250416/\" target=\"_blank\">Touch, Our Most Complex Sense, Is a Landscape of Cellular Sensors</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2571201,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/touch-our-most-complex-sense-is-a-landscape-of-cellular-sensors-20250416",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/04/EmperorOfTouch-coDavidGinty-Default.webp",
+        "title": "Touch, Our Most Complex Sense, Is a Landscape of Cellular Sensors",
+        "vote": 0
+    }
+]

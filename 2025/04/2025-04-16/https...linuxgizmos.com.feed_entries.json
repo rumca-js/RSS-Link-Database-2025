@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-16T06:09:12.212970+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-16T03:03:14+00:00",
+        "description": "Cerebro is an upcoming clusterboard platform launching on Kickstarter, designed for AI, edge computing, and embedded development. It supports a range of compute modules including Raspberry Pi CM4 and CM5, NVIDIA Jetson, and Radxa CM5, providing a modular base for scalable systems. The board can host up to four compute nodes and includes an onboard, [&#8230;]",
+        "id": 2567039,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/modular-cerebro-clusterboard-supports-raspberry-pi-cm4-cm5-jetson-and-radxa-cm5",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Modular Cerebro Clusterboard Supports Raspberry Pi CM4/CM5, Jetson, and Radxa CM5",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-16T09:28:25.844389+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-16T09:03:00+00:00",
+        "description": "Efficiency + Convenience. Not everything is industrialized. A backyard garden, a freelance editor, even a chef with a hands-on restaurant. These folks are building a practice and producing value, but they haven&#8217;t embraced industrialization. That happens when management steps in, productizes, routinizes and optimizes. Industrialization produces huge gains in productivity, but it&#8217;s also a bit [&#8230;]",
+        "id": 2568412,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/04/the-essence-of-industrialism",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The essence of industrialism",
+        "vote": 0
+    }
+]

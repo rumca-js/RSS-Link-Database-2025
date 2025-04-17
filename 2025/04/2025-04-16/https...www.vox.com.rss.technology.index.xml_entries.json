@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-16T13:38:26.764760+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-16T08:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"An artist holds her painting close as if to prevent AI from stealing it.\" data-caption=\"Many artists are upset at companies like OpenAI and Meta for using their work to train AI systems.\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/04/artist-GettyImages-1217801928.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>Many artists are upset at companies like OpenAI and Meta for using their work to train AI systems.</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Every artist I know is furious. The&nbsp;illustrators, the novelists, the poets \u2014 all furious. These are people who have painstakingly poured their deepest yearnings onto the page, only to see AI companies pirate their work without consent or compensation.</p>\n\n<p class=\"has-text-align-none\">The latest surge of anger is a response to OpenAI integrating new image-generation capabilities into ChatGPT and showing how",
+        "id": 2570350,
+        "language": null,
+        "link": "https://www.vox.com/artificial-intelligence/408786/ai-art-studio-ghibli-moral-injury-copyright",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The real argument artists should be making against AI",
+        "vote": 0
+    }
+]

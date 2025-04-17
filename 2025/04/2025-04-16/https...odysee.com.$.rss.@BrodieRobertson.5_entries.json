@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-16T21:25:29.129885+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-16T21:00:37+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/XkW1ZUp9lvo\" width=\"480\" alt=\"thumbnail\" title=\"Death Of A Beloved Arch Linux Based Distro\" /></p>Arco Linux has been a project many people have used for many number of years now, but all good thing must come to an end. That applies even to distros like Arco Linux.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Farewell To Arco Linux: https://www.arcolinux.info/a-farewell-to-the-arcolinux-university/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media==========<br />\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord",
+        "id": 2574518,
+        "language": "en",
+        "link": "https://odysee.com/death-of-a-beloved-arch-linux-based:7f6c043809ca056ea54a7a57810ef8e26960a8e8",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Death Of A Beloved Arch Linux Based Distro",
+        "vote": 0
+    }
+]

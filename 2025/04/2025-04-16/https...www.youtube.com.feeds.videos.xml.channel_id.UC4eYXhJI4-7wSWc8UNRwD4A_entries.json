@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-16T09:26:37.289661+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-16T09:01:20+00:00",
+        "description": "Robin Hilton | April 16, 2025\nWhen we heard that Panda Bear (aka Noah Lennox) was touring with a full band for the first time in more than 25 years of releasing music as a solo artist, we knew we had to (finally) get him in for a Tiny Desk.\n\nRecreating his beautifully experimental studio work for a live setting was never easy to do alone, not without a lot of pre-recorded loops and backing tracks. But here Panda Bear's wondrous music comes to life with the help of four additional friends on bass, drums and electronics. Most importantly, they also provide the sweet, multi-layered harmonies fans have long loved in Panda Bear's recorded work.\n\nThe group largely focuses on Panda Bear's new album, Sinister Grift, opening with the glittery and wistful \"Ferry Lady,\" followed by \"Defense,\" a track Lennox originally recorded as a duet with Cindy Lee. They close with \"Song for Ariel,\" a relatively deep cut that was the original prototype for Animal Collective's \"Guys Eyes\" from the 2009 album M",
+        "id": 2568380,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=nRQH04NIzhQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/nRQH04NIzhQ/hqdefault.jpg",
+        "title": "Panda Bear: Tiny Desk Concert",
+        "vote": 0
+    }
+]

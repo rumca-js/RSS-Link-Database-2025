@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NetworkChuck",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-16T17:09:53.033372+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-16T16:26:05+00:00",
+        "description": null,
+        "id": 2572392,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Flqljv8clcY",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 565,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Flqljv8clcY/hqdefault.jpg",
+        "title": "Local AI has a Secret Weakness",
+        "vote": 0
+    }
+]

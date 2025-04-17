@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-16T14:36:13.400414+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-16T13:44:40+00:00",
+        "description": "Downdetector, which tracks platforms, shows more than 20,000 people have reported Spotify is not working.",
+        "id": 2570567,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/cde2rz199y5o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0234/live/7cdda210-1ac3-11f0-8699-af8a0981754f.jpg",
+        "title": "Thousands report Spotify problems around the world",
+        "vote": 0
+    }
+]

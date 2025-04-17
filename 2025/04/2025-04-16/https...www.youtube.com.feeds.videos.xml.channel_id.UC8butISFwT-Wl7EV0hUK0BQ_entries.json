@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-16T18:08:36.313043+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-16T17:39:21+00:00",
+        "description": "Master data ingestion for data engineering with Python. Learn to tackle common pipeline failures like schema changes and API limits by adopting the mindset and practices of a senior platform engineer. This course covers essential techniques including extracting data from APIs, automatic schema management, incremental loading, and orchestrating scalable, automated workflows using modern tools.\n\nCourse developed by Alexey Grigorev & Adrian Brudaru.\n\n\ud83d\udcbb Code: https://github.com/dlt-hub/dlthub-education/tree/main/courses/freecodecamp/de_with_dlt_2025\n\n\ud83c\udfd7\ufe0f dlthub.com provided a grant to make this course possible.\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\nAlexey's part\n0:00:00 1. Introduction\n0:08:02 2. What is data ingestion\n0:10:04 3. Extracting data: Data Streaming & Batching\n0:14:00 4. Extracting data: Working with RestAPI\n0:29:36 5. Normalizing data\n0:43:41 6. Loading data into DuckDB\n0:48:39 7. Dynamic schema management\n0:56:26 8. What is next?\n\nAdrian's part\n0:56:36 1. Introduction\n0:59:29 2. Overview\n1:02:08 3",
+        "id": 2573030,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=T23Bs75F7ZQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/T23Bs75F7ZQ/hqdefault.jpg",
+        "title": "Data Engineering with Python and AI/LLMs \u2013 Data Loading Tutorial",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-16T17:07:52.677206+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-16T16:18:25+00:00",
+        "description": "The video game industry has plenty of bad trends, but occasionally a few great things break through.\nSubscribe for more: https://www.youtube.com/gameranxTV?sub_confirmation=1     \n\n\n0:00 Intro \n0:18 Number 10\n3:03 Number 9\n5:09 Number 8\n6:41 Number 7\n8:06 Number 6\n10:07 Number 5\n11:59 Number 4\n12:59 Number 3\n14:30 Number 2\n15:50 Number 1",
+        "id": 2572384,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=taeGyoxXPUw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/taeGyoxXPUw/hqdefault.jpg",
+        "title": "10 Recent Gaming Trends WE WANT MORE OF",
+        "vote": 0
+    }
+]

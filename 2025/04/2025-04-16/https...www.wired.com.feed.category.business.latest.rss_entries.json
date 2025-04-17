@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-16T17:57:09.802399+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-16T17:34:10+00:00",
+        "description": "On this episode of \"Uncanny Valley,\" we unpack the trial between Meta and the FTC.",
+        "id": 2572733,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-ftc-meta-trial-instagram-whatsapp",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/67fea00b34a2676ced13d45f/master/pass/Uncanny-Valley-Meta-FTC-Business-2210231656.jpg",
+        "title": "Will Meta Really Have to Sell Instagram and WhatsApp?",
+        "vote": 0
+    }
+]
