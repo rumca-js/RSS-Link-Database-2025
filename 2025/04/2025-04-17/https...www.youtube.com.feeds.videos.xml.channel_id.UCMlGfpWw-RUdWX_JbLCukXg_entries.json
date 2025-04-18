@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T14:58:34.207228+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T14:07:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: The Present and Future of Cross-Platform GUI in C++ - Matt Aber - CppCon 2024\n---\n\nIn 2024, the desktop application space is dominated by Node.js and other similar technologies. These enable web-native applications to be run on several desktop and mobile platforms with very little porting work. However, they have distinct disadvantages, particularly as it pertains to overhead. With continued development of wasm and wasi standards, the C++ community could soon offer frameworks that fill this niche with greater security, performance, and portability.\n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nMatt Aber\n\nMatt Aber is a software engineer at KDAB USA, working primarily on Qt applications and libraries. He is currently particularly interested in multimedia and wasm.\n---\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You w",
+        "id": 2579922,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=p9LeAqoshkQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/p9LeAqoshkQ/hqdefault.jpg",
+        "title": "Lightning Talk: The Present and Future of Cross-Platform GUI in C++ - Matt Aber - CppCon 2024",
+        "vote": 0
+    }
+]

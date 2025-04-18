@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T16:08:42.206133+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T14:59:22+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>For years i&#39;ve been increasingly frustrated by search engines quality dropping. It&#39;s been like two or three years that all my google searches have had &quot;reddit&quot; in them because it&#39;s the only way to find answers made by real people. But now google seems very happy to machine translate the results into french, despite me having specifically changed all settings to english, only because it knows that my address is in France.</p> <p>I&#39;ll try using duckduckgo but i&#39;m aleady frustrated by the results that are not at all what i&#39;m searching. But i&#39;ll power through in case it&#39;s just a bias of me wanting to hate new things I try or smth</p> <p>Meanwhile, AI search, even though it&#39;s absolutely completely harmful for the planet, biased because of the training data and prone to hallucinating, somehow gives me the best results each time and exactly what i&#39;m searching for. And also I can search things with special cha",
+        "id": 2580170,
+        "language": null,
+        "link": "https://www.reddit.com/r/searchengines/comments/1k1ewg7/and_you_wonder_why_people_go_to_llms_to_search_now",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "And you wonder why people go to LLMs to search now",
+        "vote": 0
+    }
+]

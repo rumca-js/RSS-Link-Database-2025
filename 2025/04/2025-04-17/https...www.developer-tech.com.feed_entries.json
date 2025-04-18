@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T16:29:32.550753+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T16:20:34+00:00",
+        "description": "<p>A US District Court has delivered a verdict in a major antitrust case, finding Google liable for monopolising key segments of the digital advertising technology (ad tech) market. The ruling, following a three-week bench trial, concluded that Google unlawfully acquired and maintained monopoly power in the markets for publisher ad servers and ad exchanges for<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/google-found-guilty-ad-tech-monopoly-antitrust-case/\" title=\"ReadGoogle found guilty of ad tech monopoly in antitrust case\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/google-found-guilty-ad-tech-monopoly-antitrust-case/\">Google found guilty of ad tech monopoly in antitrust case</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 2580864,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/google-found-guilty-ad-tech-monopoly-antitrust-case",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Google found guilty of ad tech monopoly in antitrust case",
+        "vote": 0
+    }
+]

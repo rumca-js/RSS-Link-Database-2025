@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T16:22:10.119795+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T08:00:00+00:00",
+        "description": "<p><span>\n\nI do a lot of work on EC2, where I </span>\n\n<a href=\"https://www.jefftk.com/p/ec2-scripts\">ssh into a few instances I\nuse for specific purposes</a>.  Each time I did this I'd get a prompt\nlike:\n\n\n\n<p>\n\n</p>\n\n<pre>\n$ ssh_ec2nf\nThe authenticity of host 'ec2-54-224-39-217.compute-1.amazonaws.com\n(54.224.39.217)' can't be established.\nED25519 key fingerprint is SHA256:...\nThis host key is known by the following other names/addresses:\n    ~/.ssh/known_hosts:591: ec2-18-208-226-191.compute-1.amazonaws.com\n    ~/.ssh/known_hosts:594: ec2-54-162-24-54.compute-1.amazonaws.com\n    ~/.ssh/known_hosts:595: ec2-54-92-171-153.compute-1.amazonaws.com\n    ~/.ssh/known_hosts:596: ec2-3-88-72-156.compute-1.amazonaws.com\n    ~/.ssh/known_hosts:598: ec2-3-82-12-101.compute-1.amazonaws.com\n    ~/.ssh/known_hosts:600: ec2-3-94-81-150.compute-1.amazonaws.com\n    ~/.ssh/known_hosts:601: ec2-18-234-179-96.compute-1.amazonaws.com\n    ~/.ssh/known_hosts:602: ec2-18-232-154-156.compute-1.amazonaws.com",
+        "id": 2580698,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/host-keys-and-sshing-to-ec2",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Host Keys and SSHing to EC2",
+        "vote": 0
+    }
+]

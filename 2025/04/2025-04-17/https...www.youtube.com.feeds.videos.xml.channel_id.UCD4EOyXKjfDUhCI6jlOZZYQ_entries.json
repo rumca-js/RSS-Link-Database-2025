@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Eli the Computer Guy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T14:13:19.055974+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T13:00:13+00:00",
+        "description": "RSVP for Classes at - http://www.SiliconDojo.com\n\nSupport Classes at - https://donorbox.org/etcg\nLinkedIn at - https://www.linkedin.com/in/eli-etherton-a15362211/\n\nMartin Lehner is the Owner of Tangerine Technology an MSP (Managed Service Provider) and a Cybersecurity Professional in the Canadian Yukon. He has decades of experience as a tech professional and can talk about the current hiring environment and what employers look for.\n\nhttps://www.linkedin.com/in/martinlehner/\nhttps://www.tangerinetechnology.is\n\nWe will discuss what the current landscape looks like for MSP's, discuss current conditions for Cybersecurity and get an idea of what the view of a Canadian tech Business owner is in regards to the current state of relations with the United States.",
+        "id": 2579477,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=4EmbJJ3Sizo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 102,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD4EOyXKjfDUhCI6jlOZZYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4EmbJJ3Sizo/hqdefault.jpg",
+        "title": "Martin Lehner Owner of Tangerine Technology (Canadian MSP)",
+        "vote": 0
+    }
+]

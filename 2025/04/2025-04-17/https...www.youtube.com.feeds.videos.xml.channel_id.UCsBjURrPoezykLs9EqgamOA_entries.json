@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T19:06:58.710472+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T18:04:46+00:00",
+        "description": "Try the best video streaming API for developers https://mux.com/fireship\n\nLet's take a first look at OpenAI's new o4 model and the codex CLI programming tool. Let's compare it to other AI programming tools like GitHub Copilot, Claude Code, and Firebase Studio. \n\n#ai #programming #thecodereport \n\n\ud83d\udcac Chat with Me on Discord\n\nhttps://discord.gg/fireship\n\n\ud83d\udd17 Resources\n\nOpenAI Codex https://github.com/openai/codex\nGPT-4o image generator https://youtu.be/Bt-7YiNBvLE\nClaude 3.7 Code https://youtu.be/x2WtHZciC74\n\n\ud83d\udd25 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n\ud83c\udfa8 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n\ud83d\udd16 Topics Covered\n\n- OpenAI o4-mini first look\n- OpenAI codex quickstart tutorial\n- OpenAI Codex vs Claude Code\n- What are the best AI coding tools?\n- How to get started vibe coding?",
+        "id": 2582020,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=O-Vu-DMIU40",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/O-Vu-DMIU40/hqdefault.jpg",
+        "title": "OpenAI launches \"genius\" o4 model with a programming CLI tool...",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T18:43:40.430833+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T18:03:34+00:00",
+        "description": "Witnesses in al-Mawasi told the BBC that people were burned alive as tents were engulfed in flames.",
+        "id": 2581894,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c5yrl891j23o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1d5/live/33fcf9e0-1bab-11f0-aca1-157ab1c37c99.jpg",
+        "title": "Israeli strikes kill Palestinians in tented area for displaced in Gaza",
+        "vote": 0
+    }
+]

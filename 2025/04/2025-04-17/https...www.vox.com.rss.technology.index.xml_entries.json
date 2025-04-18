@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T13:33:56.066016+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T09:05:00+00:00",
+        "description": "<figure>\n\n<img alt=\"\" data-caption=\"It\u2019s hard to imagine some American factory owner is getting excited about firing up a new toaster factory.\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/04/GettyImages-1602205984.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>It\u2019s hard to imagine some American factory owner is getting excited about firing up a new toaster factory.</figcaption>\n</figure>\n<p class=\"has-text-align-none\">Less than six months ago, after an inappropriate amount of research, I bought a new toaster for $30. My old toaster had died, <a href=\"https://www.nytimes.com/wirecutter/blog/your-toaster-will-eventually-fail/\">as old toasters do</a>, and I wanted to buy one cheap enough that I wouldn\u2019t be mad when I had to replace it. If President Donald Trump\u2019s current 145 percent tariff on Chinese imports remains in effect, the same toaster could cost me about $45 when that time comes.</p>",
+        "id": 2579199,
+        "language": null,
+        "link": "https://www.vox.com/technology/409105/trump-tariffs-smartphones-laptops-appliances-electronics",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The everyday electronics that won\u2019t survive Trump\u2019s trade war",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T06:11:42.521733+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T06:00:25+00:00",
+        "description": "Co wiedz\u0105 o Tobie modele j\u0119zykowe i dlaczego nie zawsze warto ufa\u0107 raportom znalezionym w sieci?\n\n\u0179r\u00f3d\u0142a:\nhttps://zurl.co/85YsU\n\n#AI #deepseek #gpt #gemini #grok #dezinformacja",
+        "id": 2576671,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=WyiA6QxQ4Tg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WyiA6QxQ4Tg/hqdefault.jpg",
+        "title": "\ud83e\udd16 Uwa\u017caj na raporty w sieci",
+        "vote": 0
+    }
+]

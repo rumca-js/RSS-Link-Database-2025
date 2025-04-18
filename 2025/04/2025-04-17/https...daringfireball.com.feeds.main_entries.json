@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T13:33:52.743118+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T13:31:40+00:00",
+        "description": "<p>Brian X. Chen, in a column at The New York Times headlined \u201cWhy a Tariff-Inflated $2,000 iPhone Is Nothing to Fear\u201d:</p>\n\n<blockquote>\n  <p>Don\u2019t panic. Even if tariffs did cause the iPhone\u2019s price to\nsurge, we would have plenty of cheaper options, like buying last\nyear\u2019s phone model instead of the latest and greatest.</p>\n\n<p>The most important lesson we can learn from the turmoil: The only\nconsistent way to save money on tech is to use devices for as long\nas possible, which requires maintaining them as you would a car,\nand upgrading only when you must.</p>\n</blockquote>\n\n<p>This whole angle is no surprise coming from the tech columnist whose advice to readers who think their aging phone cameras don\u2019t perform well in low light is \u201c<a href=\"https://daringfireball.net/2019/09/you_could_always_just_use_flash\">Just use flash</a>.\u201d If phone prices go up because of Trump\u2019s tariffs, <em>all</em> phone prices are going to go up, including those for older models, whether you\u2019re buying new ",
+        "id": 2579198,
+        "language": null,
+        "link": "https://www.nytimes.com/2025/04/15/technology/personaltech/trump-tariffs-iphone-cost.html?unlocked_article_code=1.AU8.L2Ko.yUXIIfzson-2&smid=url-share",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Spending More to Get Less Is Good?",
+        "vote": 0
+    }
+]

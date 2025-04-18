@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T20:40:01.155083+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T20:13:43+00:00",
+        "description": "<p>\n\t<img alt=\"logo.png\" src=\"https://isocpp.org/files/img/logo.png\" style=\"width: 225px; margin: 10px; float: right;\" />Network packets can be represented as bit fields. Wu Yongwei explores some issues to be aware of and offers solutions.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://accu.org/journals/overload/33/185/wu/\">Bit Fields, Byte Order and Serialization</a></h3>\n\t<p>\n\t\tby Wu Yongwei</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tn order to store data most efficiently, the C language has supported bit fields since its early days. While saving a few bytes of memory isn&rsquo;t as critical today, bit fields remain widely used in scenarios like network packets. Endianness adds complexity to bit field handling &ndash; especially since network packets are typically big-endian, while most modern architectures are little-endian. This article explores these problems and their solutions, including my reflection-based serialization project.</p>\n\t<p>\n\t\t<strong>Memory layou",
+        "id": 2582918,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/04/bit-fields-byte-order-and-serialization-wu-yongwei",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bit Fields, Byte Order and Serialization -- Wu Yongwei",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T14:37:19.252280+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T13:41:38+00:00",
+        "description": "Learn the Laravel PHP web app framework by building a fully-functional Medium clone in this course from @TheCodeholic. He takes you from basic setup to advanced features like user following and post management. You'll master essential Laravel concepts including routing, authentication, database operations, and Blade templating while creating a real-world application with social features. \n\nCode: https://github.com/thecodeholic/laravel-medium-clone\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n- 0:00:00 Intro & Demo\n- 0:05:35 Setup Environment & Create Project\n- 0:15:03 Explore Directory Structure\n- 0:21:36 Introduce Artisan\n- 0:23:22 Laravel Configuration\n- 0:26:27 Create Basic Route\n- 0:28:01 Registration & Login (Laravel Breeze)\n- 0:33:31 Email Verification\n- 0:40:14 Tinker\n- 0:44:02 Models & Migrations\n- 0:52:25 Factories & Seeders\n- 1:05:13 Output Categories & Posts\n- 1:27:09 Pagination\n- 1:33:19 Blade Directives\n- 1:37:46 Components\n- 1:50:06 Layouts\n- 2:08:10 Create New Post\n- 2:54:36 Profile Update Page\n- 3",
+        "id": 2579868,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=MG1kt_wiIz0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MG1kt_wiIz0/hqdefault.jpg",
+        "title": "Learn Laravel by Building a Medium Clone \u2013 Tutorial",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T14:12:54.721638+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T13:00:38+00:00",
+        "description": "I'm mini-fying my entire Homelab, but shrinking my NAS has been a problem.\n\nIs the 4-bay NucBox G9 the perfect choice? It fits in 1U, has 4 M.2 NVMe SSD slots, an Intel N150 CPU, and dual 2.5 Gbps networking. The specs seem like they'll do great, but the proof is in the pudding...\n\nSome of the things I mentioned (some links are affiliate links):\n\n  - GMKtec G9 4x NVMe N150 mini NAS: https://amzn.to/4cuGRzY\n  - GMKtec G3 N150 mini PC: https://amzn.to/4jxb8R9\n  - My Pi 5 SATA NAS build: https://www.youtube.com/watch?v=l30sADfDiM8\n  - Geekbench test results:\n    - Quiet / Linux: https://browser.geekbench.com/v6/cpu/11471182\n    - Balanced / Windows: https://browser.geekbench.com/v6/cpu/11470130\n    - Performance / Linux: https://browser.geekbench.com/v6/cpu/11471355\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Chann",
+        "id": 2579466,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=M_Ft8OAPQ3g",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/M_Ft8OAPQ3g/hqdefault.jpg",
+        "title": "Is this the perfect Mini NAS?",
+        "vote": 0
+    }
+]

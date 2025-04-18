@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T18:26:38.067803+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T17:01:17+00:00",
+        "description": "Support for this episode was contributed by the Translational Research Institute for Space Health at Baylor College of Medicine. TRISH is an applied health research catalyst that funds high-impact scientific studies and technologies to keep astronauts healthy during deep space exploration. TRISH is empowered by the NASA Human Research Program, and is a consortium led by Baylor College of Medicine with partners MIT and Caltech. To learn more go here: bcm.edu/spacehealth\n\nIn 2021, a crew of civilian astronauts spent three days in Earth orbit. While they were up there, they performed a bevy of experiments. And not only did we learn more about what space travel can do to the human body, we also learned how those effects might vary depending on whether or not you're a professional astronaut.\n\nHosted by: Niba @NotesbyNiba (she/her)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin ",
+        "id": 2581498,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=zgjEzKVLfzs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zgjEzKVLfzs/hqdefault.jpg",
+        "title": "This Is What Happens When Regular People Go To Space",
+        "vote": 0
+    }
+]

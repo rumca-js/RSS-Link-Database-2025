@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T16:30:35.912364+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T15:17:47+00:00",
+        "description": "I can't believe more apps haven't added this feature I had to do myself \ud83e\uddd0\n\u21d2 Become a channel member for special emojis, early videos, and more! Check it out here: https://www.youtube.com/ThioJoe/join\n\nDownload it from GitHub: https://github.com/ThioJoe/Plex-Show-Subtitles-On-Rewind\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:13 - The Problem\n1:12 - My App: Demonstration\n1:39 - About The App\n2:14 - Other Features & Functionality\n3:32 - Setting It Up\n4:47 - An Important Side Note\n5:46 - A Planned Feature\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/thiojoe\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 2580915,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=YM0lVVFBZ5w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YM0lVVFBZ5w/hqdefault.jpg",
+        "title": "My Newest App Solves The Most ANNOYING Problem With Plex",
+        "vote": 0
+    }
+]

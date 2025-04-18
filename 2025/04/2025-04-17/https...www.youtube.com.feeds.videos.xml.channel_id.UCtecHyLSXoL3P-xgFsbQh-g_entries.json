@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T14:13:05.064409+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T13:10:08+00:00",
+        "description": "Sprawd\u017a GeForce NOW za darmo, bez instalowania aplikacji: https://www.nvidia.com/pl-pl/geforce-now/\n\nEkranizacje gier przesz\u0142y bardzo d\u0142ug\u0105 drog\u0119. Kiedy\u015b pe\u0142ne \u017cenady, cringu i tanio\u015bci. Dzisiaj to produkcje, kt\u00f3re bez problemu mo\u017cna nazwa\u0107 naprawd\u0119 \u015bwietnymi filmami i serialami. Jakie s\u0105 najlepsze ekranizacje gier? Kt\u00f3re z nich szczeg\u00f3lnie b\u0142yszcz\u0105 i zachwycaj\u0105? Materia\u0142 powsta\u0142 we wsp\u00f3\u0142pracy z @NVIDIAPolska",
+        "id": 2579467,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ZVyCOyxlf-0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZVyCOyxlf-0/hqdefault.jpg",
+        "title": "NAJLEPSZE ekranizacje gier",
+        "vote": 0
+    }
+]

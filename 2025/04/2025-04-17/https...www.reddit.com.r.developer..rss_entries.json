@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T09:35:30.044101+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T09:28:26+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Heyy \ud83d\ude4f Everyone</p> <p>I\u2019m currently working on building a microservices architecture using <strong>Fast API</strong>and <strong>MongoDB</strong>, and I\u2019m planning to use <strong>RabbitMQ</strong> for async communication between services. I could really use some guidance from someone who\u2019s actually implemented and maintained a setup like this in production. If you\u2019ve worked on something similar, <strong>please hmu</strong> ......</p> <p>I\u2019d love to pick your brain about designing the workflow, structuring the architecture, and best practices (especially around reliability, message routing, retries, etc.).</p> <p>Thanks in advance \ud83d\ude04</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Adventurousonemel\"> /u/Adventurousonemel </a> <br/> <span><a href=\"https://www.reddit.com/r/developer/comments/1k18meh/anyone_here_experienced_with_maintaining/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/developer/co",
+        "id": 2577644,
+        "language": null,
+        "link": "https://www.reddit.com/r/developer/comments/1k18meh/anyone_here_experienced_with_maintaining",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 508,
+        "source_url": "https://www.reddit.com/r/developer/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Anyone here experienced with maintaining microservices architecture using RabbitMQ?",
+        "vote": 0
+    }
+]

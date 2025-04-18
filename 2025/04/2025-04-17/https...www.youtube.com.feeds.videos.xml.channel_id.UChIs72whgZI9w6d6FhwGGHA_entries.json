@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T14:07:01.450239+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T12:49:04+00:00",
+        "description": "Sponsor: ID-Cooling Frozn A720 Black on Amazon https://geni.us/VDnou4Y\nThis video is about the WinRing 0 driver (not to be confused with Security Ring 0, but related in this story) and how it has propped-up the fan control and RGB industry for over a decade now. Unfortunately, or maybe fortunately, security updates have broken this code, resulting in a mad dash to re-develop RGB and fan control software by the hardware vendors. Several already began the transition, while others only recently had to reckon with the decision to use a driver now quarantined by Windows for security reasons. This is the history of WinRing 0 and a story about how important it has been to the PC industry.\n\nGrab the new PAPER LAUNCH cotton T-shirt: https://store.gamersnexus.net/products/paper-launch-cotton\nAnd the Tri-Blend version of it: https://store.gamersnexus.net/products/paper-launch-triblend\nYou can also grab an anti-static Modmat here: https://store.gamersnexus.net/products/large-modmat-gn15-anniversa",
+        "id": 2579424,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=H_O5JtBqODA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/H_O5JtBqODA/hqdefault.jpg",
+        "title": "Insecure Code vs. the Entire RGB Industry | WinRing 0 Driver, ft. Wendell of Level1 Techs",
+        "vote": 0
+    }
+]

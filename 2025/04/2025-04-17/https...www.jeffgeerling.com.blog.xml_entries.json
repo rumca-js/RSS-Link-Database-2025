@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-17T13:58:34.809241+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-17T13:41:16+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">The (almost) perfect mini NAS for my mini rack</span>\n\n            <p>The <a href=\"https://amzn.to/3Gb0fWG\">GMKtec G9 N150 4-bay NVMe mini PC</a> is $240 and the <em>nearly</em> perfect NAS for my mini rack:</p>\n\n<p></p>\n\n<p>It has an Intel N150 4-core SoC with halfway-decent Intel UHD integrated graphics, 12 GB of LPDDR5 RAM, dual 2.5 Gbps Ethernet, WiFi 6, and the best part: 4 integrated M.2 NVMe slots.</p>\n\n<p>Granted, splitting up the 9 PCIe Gen 3 lanes limits the performance a bit, but there are some things I love about this design:</p>\n      <span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span>Jeff Geerling</span></span>\n<span class=\"field field--name-created field--type-created field--label-hidden\">April 17, 2025\n</span>",
+        "id": 2579397,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/almost-perfect-mini-nas-my-mini-rack",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The (almost) perfect mini NAS for my mini rack",
+        "vote": 0
+    }
+]
