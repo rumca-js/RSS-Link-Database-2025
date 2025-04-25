@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T00:07:51.958763+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T00:00:00+00:00",
+        "description": "<img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-1gxxnn-deszcz-popada-deszcz-7883941/alternates/LANDSCAPE_1280\" alt=\"Pogoda na dzi\u015b - pi\u0105tek, 25.04. Miejscami przydadz\u0105 si\u0119 parasole\" />\n    Pogoda na dzi\u015b. Pi\u0105tek 25.04 zapowiada si\u0119 znacznie spokojniej ni\u017c czwartek, chocia\u017c miejscami wci\u0105\u017c mo\u017ce zagrzmie\u0107 i spa\u015b\u0107 wi\u0119cej deszczu. Na termometrach zobaczymy od 10 do 17 stopni Celsjusza.",
+        "id": 9947,
+        "language": "pl-PL",
+        "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-piatek-25-04-miejscami-przydadza-sie-parasole-st8429493?source=rss",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 319,
+        "source_url": "https://tvn24.pl/wiadomosci-z-kraju,3.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pogoda na dzi\u015b - pi\u0105tek, 25.04. Miejscami przydadz\u0105 si\u0119 parasole",
+        "vote": 0
+    }
+]

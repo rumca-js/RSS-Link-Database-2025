@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-24T21:21:37.166092+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-24T15:33:08+00:00",
+        "description": "This course is a guide to understanding and implementing Llama 4. @vukrosic  will teach you how to code Llama 4 from scratch.\n\nCode and presentations: https://github.com/vukrosic/courses\n\nCode DeepSeek V3 From Scratch: https://youtu.be/5avSMc79V-w\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n- 0:00:00 Introduction to the course \n- 0:00:15 Llama 4 Overview and Ranking \n- 0:00:26 Course Prerequisites \n- 0:00:43 Course Approach for Beginners \n- 0:01:27 Why Code Llama from Scratch? \n- 0:02:20 Understanding LLMs and Text Generation \n- 0:03:11 How LLMs Predict the Next Word \n- 0:04:13 Probability Distribution of Next Words \n- 0:05:11 The Role of Data in Prediction \n- 0:05:51 Probability Distribution and Word Prediction \n- 0:08:01 Sampling Techniques \n- 0:08:22 Greedy Sampling \n- 0:09:09 Random Sampling \n- 0:09:52 Top K Sampling \n- 0:11:02 Temperature Sampling for Controlling Randomness \n- 0:12:56 What are Tokens? \n- 0:13:52 Tokenization Example: \"Hello world\" \n- 0:14:30 How LLMs Learn Semantic Meaning \n- 0:15:23 Token ",
+        "id": 7102,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=biveB0gOlak",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/biveB0gOlak/hqdefault.jpg",
+        "title": "Code Your Own Llama 4 LLM from Scratch \u2013 Full Course",
+        "vote": 0
+    }
+]

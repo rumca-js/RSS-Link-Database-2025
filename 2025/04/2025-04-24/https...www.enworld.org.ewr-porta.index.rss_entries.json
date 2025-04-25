@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-24T20:46:43.298992+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-24T16:53:00+00:00",
+        "description": null,
+        "id": 2119,
+        "language": null,
+        "link": "https://www.enworld.org/threads/wizards-of-the-coast-says-that-china-tariffs-will-have-minimal-impact-on-d-d.713072",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 426,
+        "source_url": "https://www.enworld.org/ewr-porta/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wizards of the Coast Says That China Tariffs Will Have Minimal Impact on D&D",
+        "vote": 0
+    }
+]

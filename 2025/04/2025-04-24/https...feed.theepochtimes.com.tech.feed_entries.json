@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-24T22:24:41.624890+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-24T21:53:55+00:00",
+        "description": "Revenues rose across the board, from YouTube ads to Google Cloud.",
+        "id": 9399,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/business/alphabet-first-quarter-earnings-top-wall-street-estimates-5846424",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/04/id5842167-1.download-1080x720.jpg",
+        "title": "Alphabet\u2019s First-Quarter Earnings Top Wall Street Estimates",
+        "vote": 0
+    }
+]

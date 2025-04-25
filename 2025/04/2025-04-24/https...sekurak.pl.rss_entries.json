@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T00:14:10.840597+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-24T23:54:15+00:00",
+        "description": "<p>Na wst\u0119pie uspokajamy, luka w \u017cadnym wypadku nie dotyka OpenSSH (ani innych popularnych implementacji) czy protoko\u0142u SSH jako takiego. Problem wyst\u0105pi\u0142 tylko w zestawie bibliotek Erlang/OTP, kt\u00f3re implementuj\u0105 protok\u00f3\u0142 SSH. Podatno\u015b\u0107 otrzyma\u0142a 10.0 punkt\u00f3w w skali CVSS v3, poniewa\u017c umo\u017cliwia nieuwierzytelnionemu atakuj\u0105cemu na wykonanie kodu, na zdalnym systemie z uprawnieniami...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/krytyczna-luka-w-implementacji-ssh-erlanga-cvss-10-0-nieuwierzytelnione-wykonanie-kodu-oraz-ai-ktore-pisze-poc-a/\">Krytyczna luka w implementacji SSH Erlanga &#8211; CVSS 10.0 &#8211; nieuwierzytelnione wykonanie kodu oraz AI, kt\u00f3re pisze PoC-a</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 9967,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/krytyczna-luka-w-implementacji-ssh-erlanga-cvss-10-0-nieuwierzytelnione-wykonanie-kodu-oraz-ai-ktore-pisze-poc-a",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Krytyczna luka w implementacji SSH Erlanga \u2013 CVSS 10.0 \u2013 nieuwierzytelnione wykonanie kodu oraz AI, kt\u00f3re pisze PoC-a",
+        "vote": 0
+    }
+]

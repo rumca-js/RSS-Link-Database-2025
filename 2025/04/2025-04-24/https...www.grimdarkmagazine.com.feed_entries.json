@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-24T20:33:11.616786+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-24T04:01:31+00:00",
+        "description": "<p>How does one review a film that\u2019s so well-known, over 45 years after its release and still add something of value for your readers? It\u2019s a toughie. Especially when the film in question is as seminal and wide-reaching as Alien (dir. Ridley Scott), and one of my own personal favourites. Come with me as I endeavour to add a GdM angle to this gordian knot of a review. First, it\u2019s important to think about the context in which Alien was released and how that added to its notoriety. Two years previous, in 1977, Star Wars: A New Hope came out and sci-fi adventures were suddenly viable mainstream entertainment. Despite the ominous promotional material ahead of Alien, it attracted huge crowds when it opened and cinemagoers got more than they bargained for. Alien takes a slow-burn approach to space horror. Nearly a full hour goes by with just the pottering of a group of hauliers in space responding to a distress signal. There\u2019s tension but it\u2019s low level. You get some iffy vibes from Science ",
+        "id": 571,
+        "language": "en-AU",
+        "link": "https://www.grimdarkmagazine.com/review-alien-1979",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 137,
+        "source_url": "https://www.grimdarkmagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "REVIEW: Alien (1979)",
+        "vote": 0
+    }
+]

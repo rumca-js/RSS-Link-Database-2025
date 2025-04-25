@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-24T21:28:03.567745+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-24T15:42:36+00:00",
+        "description": "W\u0142adze Kielc, kosztem dziewi\u0119ciu milion\u00f3w z\u0142otych, odda\u0142y do u\u017cycia 21 mieszka\u0144 komunalnych, kt\u00f3re powsta\u0142y w dawnym budynku szko\u0142y podstawowej i gimnazjum. Nowe lokale maj\u0105 ju\u017c najemc\u00f3w.",
+        "id": 8162,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/nieruchomosci/art42170231-warszawa-tam-gdzie-mieszkali-radzieccy-dyplomaci-powstana-mieszkania-komunalne",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Warszawa: Tam, gdzie mieszkali radzieccy dyplomaci, powstan\u0105 mieszkania komunalne",
+        "vote": 0
+    }
+]

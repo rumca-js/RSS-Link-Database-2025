@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-24T20:41:18.113785+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-24T02:45:03+00:00",
+        "description": "Pope Francis has passed on and The Babylon Bee looks back on their coverage of the controversial Pope over the years. The Bee also does a rundown of the 10 frontrunners to become the next Pope!",
+        "id": 1399,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=0WwhV7Y0gaM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0WwhV7Y0gaM/hqdefault.jpg",
+        "title": "Pope Francis Has Died: The Babylon Bee\u2019s Exclusive Coverage",
+        "vote": 0
+    }
+]

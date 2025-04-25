@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-24T21:00:26.013898+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-24T20:26:41+00:00",
+        "description": "Clair Obscur Expedition 33 (PC, PS5, Xbox Series X/S) is a unique RPG from a new game studio. Let's talk!\nSubscribe for more: http://youtube.com/gameranxtv \u25bc\n\nBuy Expedition 33: https://amzn.to/42tae2t\n\nWatch more 'Before You Buy': https://bit.ly/2kfdxI6",
+        "id": 4130,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=SW5GdjoOhI8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/SW5GdjoOhI8/hqdefault.jpg",
+        "title": "Clair Obscur: Expedition 33 - Before You Buy",
+        "vote": 0
+    }
+]

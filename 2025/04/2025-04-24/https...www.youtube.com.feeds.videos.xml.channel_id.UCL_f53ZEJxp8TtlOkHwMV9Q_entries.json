@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jordan B Peterson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-24T21:48:23.316685+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-24T21:00:08+00:00",
+        "description": "Billionaire investor and PayPal co-founder Peter Thiel sits down with Jordan Peterson for a powerful conversation about why real progress has stalled. Thiel argues that the last truly groundbreaking achievement may have been landing on the moon\u2014and since then, we've slowed down. He explains how fear, red tape, and over-specialization have made us more cautious and less ambitious.\n\nThey dig into how society has shifted away from building and inventing, toward digital distractions and endless talk. They also explore what\u2019s been lost as faith and meaning have disappeared from public life. From broken universities to status-driven culture wars, this is a deep and thought-provoking look at the challenges facing the West\u2014and what we might do to turn things around.\n\nPeter Thiel is a German-born entrepreneur, venture capitalist, activist, and billionaire who emigrated to the U.S. as a child, eventually settling in California after years of moving between countries. A Stanford Law graduate, he",
+        "id": 8827,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=918qslcfwfY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 167,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/918qslcfwfY/hqdefault.jpg",
+        "title": "Why We Stopped Progressing | Peter Thiel | EP 541",
+        "vote": 0
+    }
+]

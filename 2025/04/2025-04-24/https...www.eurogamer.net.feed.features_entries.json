@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-24T20:51:45.991570+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-24T13:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/Oblivion_goblin_header.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>Oblivion is famed for its Radiant AI, the gloriously ambitious ant farm that grants all of its friendly NPCs a charming form of scheduled life. In the course of a typical day you'll find them waking in their own beds, tilling in the fields, breaking off for lunch, and in the case of the deeply paranoid wood elf Glarthir, sneaking round the back of the local church in the middle of the night to plot killings.</p> <p><a href=\"https://www.eurogamer.net/inside-the-unpredictable-goblin-wars-of-the-elder-scrolls-4-oblivion-i-introduced-controlled-chaos-whenever-i-could\">Read more</a></p>",
+        "id": 2737,
+        "language": "en",
+        "link": "https://www.eurogamer.net/inside-the-unpredictable-goblin-wars-of-the-elder-scrolls-4-oblivion-i-introduced-controlled-chaos-whenever-i-could",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/Oblivion_goblin_header.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "Inside the unpredictable goblin wars of The Elder Scrolls 4: Oblivion: \"I introduced controlled chaos whenever I could\"",
+        "vote": 0
+    }
+]

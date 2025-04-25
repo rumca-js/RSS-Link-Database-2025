@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-24T21:19:29.113702+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-24T12:23:40+00:00",
+        "description": "<p>Apple has begun contributing official support for its Vision Pro headset to the popular Godot game engine. Ricardo Sanchez-Saez, a senior iOS engineer working on Apple&#8217;s visionOS team, announced the effort via a pull request (PR) submitted to the Godot project on GitHub. This first contribution lays the foundational groundwork for running Godot applications natively<a class=\"excerpt-read-more\" href=\"https://www.developer-tech.com/news/apple-official-vision-pro-support-godot-game-engine/\" title=\"ReadApple adds official Vision Pro support to Godot game engine\">... Read more &#187;</a></p>\n<p>The post <a href=\"https://www.developer-tech.com/news/apple-official-vision-pro-support-godot-game-engine/\">Apple adds official Vision Pro support to Godot game engine</a> appeared first on <a href=\"https://www.developer-tech.com\">Developer Tech News</a>.</p>",
+        "id": 6759,
+        "language": "en-GB",
+        "link": "https://www.developer-tech.com/news/apple-official-vision-pro-support-godot-game-engine",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 92,
+        "source_url": "https://www.developer-tech.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Apple adds official Vision Pro support to Godot game engine",
+        "vote": 0
+    }
+]

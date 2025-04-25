@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ko\u0142em Si\u0119 Toczy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-24T21:24:41.327451+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-24T16:45:04+00:00",
+        "description": "Mi\u0142o mi poinformowa\u0107, \u017ce niedawno ruszy\u0142a przedsprzeda\u017c ksi\u0105\u017cki \"G\u00f3ry to jest \u015awiat\" \u25ba\u25ba https://gorytojestswiat.pl/ Potrwa jeszcze chwil\u0119 i w tym czasie jest taniej i z podpisem. Tak\u017ce zach\u0119cam :)\n\nA w tym kr\u00f3tkim filmie opowiadam o czym jest moja nowa ksi\u0105\u017cka i jak wygl\u0105da.",
+        "id": 7468,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=x9vB_cC4XFc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 176,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCG2kQBVlgG7kOigXZTcKrQw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/x9vB_cC4XFc/hqdefault.jpg",
+        "title": "Najlepsze trasy g\u00f3rskie 2025. Polska i bliska zagranica. Kr\u00f3tkie info o ksi\u0105\u017cce \"G\u00f3ry to jest \u015bwiat\"",
+        "vote": 0
+    }
+]

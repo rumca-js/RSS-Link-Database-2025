@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-24T21:14:56.817034+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-24T20:30:20+00:00",
+        "description": "White House hints at Trump\u2019s first trade deal",
+        "id": 6005,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2025/04/24/trump-tariffs-trade-war-confidence-ftse-100-markets-latest",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "White House hints at Trump\u2019s first trade deal",
+        "vote": 0
+    }
+]

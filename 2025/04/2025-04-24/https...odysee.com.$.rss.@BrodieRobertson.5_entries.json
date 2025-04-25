@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-24T23:13:48.925712+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-24T21:00:13+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/6YnrAZIrTbA\" width=\"480\" alt=\"thumbnail\" title=\"Tobias Bernard Speaks On GNOME Foundation Bans\" /></p>A year ago Sonny Piers was banned from the GNOME foundation and removed from the GNOME foundation board of directors and now Tobias Bernard doesn't reveal every detail but does speak on how the matter occurred.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Sonny Piers Removal: https://discourse.gnome.org/t/updates-to-the-gnome-foundation-board-of-directors-roster/22201<br />GNOME Retrospective: https://blog.sonny.re/retrospective-as-gnome-director<br />Redecentralizing GNOME: https://blogs.gnome.org/tbernard/2025/01/07/re-decentralizing<br />Tobias Bernard Blog: https://blogs.gnome.o",
+        "id": 9624,
+        "language": "en",
+        "link": "https://odysee.com/tobias-bernard-speaks-on-gnome:a82a6f072247c827609bcff257af8b5a85566f36",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tobias Bernard Speaks On GNOME Foundation Bans",
+        "vote": 0
+    }
+]

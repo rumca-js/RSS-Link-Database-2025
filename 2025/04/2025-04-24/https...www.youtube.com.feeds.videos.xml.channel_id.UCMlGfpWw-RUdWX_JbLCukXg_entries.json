@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-24T21:26:33.273673+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-24T14:07:06+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nImproving an HTML Parser with Swift 6 Pattern Matching - Andrew Kaster - CppCon 2024\n---\n\nImplementing an HTML parser is a lot of work, but the current specification is extremely proscriptive about the expected state machine. The naive approach might lead to some spaghetti though. Let's refactor part of the Ladybird browser's HTML parser in LibWeb using a pattern matched style in Swift 6 to demonstrate the types of transformations that are possible with pattern matching and choice types.\n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nAndrew Kaster\n\nAndrew Kaster is a long time open source contributor and maintainer for the SerenityOS and Ladybird Browser projects. He works full time for the Ladybird Browser Initiative.\n---\n\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosphere desig",
+        "id": 7843,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=KCRx1jE6DnY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/KCRx1jE6DnY/hqdefault.jpg",
+        "title": "Lightning Talk: Improving an HTML Parser with Swift 6 Pattern Matching  - Andrew Kaster",
+        "vote": 0
+    }
+]

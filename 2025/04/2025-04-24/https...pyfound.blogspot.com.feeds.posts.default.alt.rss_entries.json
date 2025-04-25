@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-24T21:15:15.265355+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-24T19:21:00+00:00",
+        "description": "<p>Starting this year, the PSF Board Election will be held a couple of months later in the year than in years prior. The nomination period through the end of the vote will run around the August to September time frame. This is due to several factors:<br /></p><ul style=\"text-align: left;\"><li>Planning the Board election while organizing PyCon US is a strain on both PSF Staff and Board Members who assist with the election. </li><li>We received feedback that nominees would appreciate more time between the nomination cutoff and the start of the vote so that they can campaign. </li><li>There are several US holidays in June and July (and PyCon US recovery!), which means PSF Staff will intermittently be out of the office. We want to ensure we are ready and available to assist with memberships, election questions, nominations, and everything else election-related! </li></ul><p>A detailed election schedule will be published in June.<br /></p><h3 style=\"text-align: left;\">Consider running for ",
+        "id": 6015,
+        "language": null,
+        "link": "https://pyfound.blogspot.com/2025/04/2025-psf-board-election-schedule-change.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 267,
+        "source_url": "https://pyfound.blogspot.com/feeds/posts/default?alt=rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "2025 PSF Board Election Schedule Change",
+        "vote": 0
+    }
+]

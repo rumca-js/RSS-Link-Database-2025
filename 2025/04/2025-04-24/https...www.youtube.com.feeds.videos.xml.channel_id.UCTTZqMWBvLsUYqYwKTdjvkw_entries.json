@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-24T20:46:59.557815+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-24T05:00:21+00:00",
+        "description": "AI od Mety ma czyta\u0107 Twoje posty? Mo\u017cna tego zabroni\u0107.\n\n\u0179r\u00f3d\u0142a:\nhttps://zurl.co/oiHlV \n\n#AI #Meta #RODO #cyberbezpiecze\u0144stwo #shorts",
+        "id": 2170,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=P-OdqT7hOsI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/P-OdqT7hOsI/hqdefault.jpg",
+        "title": "\ud83c\udf10 AI Mety przeczyta Twoje posty?",
+        "vote": 0
+    }
+]
