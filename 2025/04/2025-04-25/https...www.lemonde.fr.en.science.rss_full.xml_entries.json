@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T18:56:38.720312+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T18:56:38+00:00",
+        "description": "On World Malaria Day, Friday, April 25, a group of international researchers calls for a low-cost solution: Artemisia genus plants, with antimalarial properties. Yet, as plants cannot be patented, clinical trials lack funding.",
+        "id": 2529064,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/opinion/article/2025/04/25/malaria-what-if-the-answer-lies-with-a-plant-that-is-already-used-by-african-communities_6740634_23.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/04/18/445/0/5417/2708/644/322/60/0/17acb4b_sirius-fs-upload-1-zr8sm90i7rnw-1744983323295-bios-542889.jpg",
+        "title": "Malaria: 'What if the answer lies with a plant that is already used by African communities?'",
+        "vote": 0
+    }
+]

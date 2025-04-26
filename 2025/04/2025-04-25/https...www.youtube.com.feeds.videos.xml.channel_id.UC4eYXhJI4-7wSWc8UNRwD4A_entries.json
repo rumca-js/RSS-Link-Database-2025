@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T09:12:47.239211+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T09:00:22+00:00",
+        "description": "Lara Downes | March 25, 2025\nOne summer afternoon in 2021, I was driving around town doing errands. All Things Considered was on the radio, with Ari Shapiro interviewing the singer-songwriter Yola about her album Stand For Myself, released earlier that month. I\u2019d already been listening to the record on repeat; its exuberant statement of independence and identity brought me just the uplift I needed during that pandemic summer. Shapiro is a musician himself, and his music-nerdy excitement about Yola\u2019s music and message was so infectious, their rapport so joyful, that I found myself in a classic NPR \u201cdriveway moment,\u201d sitting in the car to hear the whole conversation, with a huge smile on my face.\n\nLast month, when I sat down for my own conversation with Yola at the NPR bureau in Manhattan, I wasn\u2019t feeling too smiley. On my way from California, I\u2019d been stuck for seven hours at Dulles airport before finally making the last flight into Newark at 1 a.m., but without my luggage. I felt exh",
+        "id": 2524336,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7bWWVjj-q4k",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7bWWVjj-q4k/hqdefault.jpg",
+        "title": "Yola\u2019s simple, radical act of walking through her life | Amplify with Lara Downes",
+        "vote": 0
+    }
+]

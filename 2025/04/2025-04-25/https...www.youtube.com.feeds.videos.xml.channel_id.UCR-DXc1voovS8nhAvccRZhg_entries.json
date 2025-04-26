@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T14:40:01.774748+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T14:00:46+00:00",
+        "description": "The GMKtec G9 was not perfect. So I fixed it. But is my fix good enough?\n\nSome of the things I mentioned or used in this video (some links are affiliate links, I earn from qualifying purchases):\n\n  - My earlier video on the G9: https://www.youtube.com/watch?v=M_Ft8OAPQ3g\n  - GMKtec G9 N150 4-bay NVMe NAS: https://amzn.to/4cuGRzY\n  - KingSpec NX 2TB NVMe SSD (DRAM-less): https://amzn.to/42Kr4IP\n  - FNIRSI FNB58 USB-C interactive power meter: https://amzn.to/42vrxA1\n  - Noctua 120mm USB 5V Fan: https://amzn.to/4iA6jpn\n  - Noctua fan desktop 3D print: https://www.printables.com/model/511959-adjustable-perfect-desktop-fan-stand-for-120-and-1\n  - Topdon TC004 IR Thermal Camera: https://amzn.to/4lL3B39\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff\n\nContents:\n\n00:00 - I though",
+        "id": 2526546,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=TlsIuA8rBRg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TlsIuA8rBRg/hqdefault.jpg",
+        "title": "I fixed the perfect Mini NAS!",
+        "vote": 0
+    }
+]

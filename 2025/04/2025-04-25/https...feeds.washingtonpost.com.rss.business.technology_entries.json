@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T16:47:24.708952+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T16:30:00+00:00",
+        "description": "I regret to inform you about the latest deception that\u2019s enabled by Facebook and Instagram.",
+        "id": 2527938,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2025/04/25/facebook-scam-tariffs-ads",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Beware of Facebook posts for \u2018tariff relief\u2019 payments. They\u2019re lies.",
+        "vote": 0
+    }
+]

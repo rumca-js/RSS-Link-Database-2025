@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T16:46:21.616348+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T16:46:21+00:00",
+        "description": "Za miesi\u0105c rz\u0105d ma og\u0142osi\u0107 nowy program poszukiwania surowc\u00f3w krytycznych. Jednak G\u0142\u00f3wny Geolog Kraju studzi nadzieje na wielkie odkrycia.",
+        "id": 2527920,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/surowce-i-paliwa/art42180591-rzad-rozpocznie-poszukiwania-zloz-surowcow-krytycznych-padl-termin",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Rz\u0105d rozpocznie poszukiwania z\u0142\u00f3\u017c surowc\u00f3w krytycznych. Pad\u0142 termin",
+        "vote": 0
+    }
+]

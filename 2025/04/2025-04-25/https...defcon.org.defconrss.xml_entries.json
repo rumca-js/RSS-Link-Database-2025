@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T08:36:39.624186+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T01:06:59+00:00",
+        "description": "<img src=\"https://defcon.org/images/defcon-33/post-images/room-update.webp\" alt=\"DEF CON 33 logo with lodging update underneath\"/> \n<br />        \n    <p>DC33 planning alert - The DEF CON room block at the Fontainebleau is sold out. The blocks at the Sahara and Venetian are filling up. To lock down your own deep DEF CON 33 discounts visit <a href=\"https://defcon.org\">defcon.org</a> for the reg links.<br><br>\n\n    August will be here before you know it. Make sure you plan accordingly.<br><br>\n\n    See you soon!</p>",
+        "id": 2524130,
+        "language": "en",
+        "link": "https://defcon.org",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 82,
+        "source_url": "https://defcon.org/defconrss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "DEF CON 33 Lodging Update",
+        "vote": 0
+    }
+]

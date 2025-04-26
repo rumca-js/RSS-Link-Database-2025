@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T09:48:11.751430+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T09:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/Forza-Horizon-5-PS5-Header.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>Do you have <em>your</em> curry place? No need to look through all the menus, thanks, we're ordering from where we always order, Taste of India. I'll have the Butter Chicken (but hold the chicken and use paneer), pilau rice, and peshwari naan - some onion bhaji if I'm feeling opulent. This order brings me happiness, guaranteed. OK, I have been known to throw in a saag paneer, too, but if you're going to go big, go big! I'll never betray Taste of India.</p> <p><a href=\"https://www.eurogamer.net/ps5-now-has-one-of-the-greatest-racing-games-of-all-time-and-it-feels-like-im-cheating-on-my-xbox\">Read more</a></p>",
+        "id": 2524612,
+        "language": "en",
+        "link": "https://www.eurogamer.net/ps5-now-has-one-of-the-greatest-racing-games-of-all-time-and-it-feels-like-im-cheating-on-my-xbox",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/Forza-Horizon-5-PS5-Header.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "PS5 now has one of the greatest racing games of all time, and it feels like I'm cheating on my Xbox",
+        "vote": 0
+    }
+]

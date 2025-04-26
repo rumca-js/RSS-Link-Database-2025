@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T14:47:20.730498+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T14:00:15+00:00",
+        "description": "AI can't yet one-shot an entire product\u2014but with the rise of vibe coding, it's getting close.  \n\nYC's Tom Blomfield has spent the last month building side projects with tools like Claude Code, Windsurf, and Aqua, seeing just how far you can push modern LLMs. From writing full-stack apps to debugging with a single paste of an error message, AI is becoming a legit collaborator in the dev process. This video is a playbook for anyone who wants to get the most out of vibe coding and build faster.\n\n0:00 Intro\n0:54 Some vibe coding tips from YC X25 founders\n4:12 First, pick your tools and make a plan \n6:27 Use version control \n7:23 Write tests \n8:14 Remember, LLM's aren't just for coding\n8:57 Bug fixes\n11:10 Documentation\n12:03 Functionality \n13:20 Choose the correct stack\n15:08 Refactor frequently\n15:40 Keep experimenting!\n16:21 Outro",
+        "id": 2527003,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=BJjsfNO5JTo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/BJjsfNO5JTo/hqdefault.jpg",
+        "title": "How To Get The Most Out Of Vibe Coding | Startup School",
+        "vote": 0
+    }
+]

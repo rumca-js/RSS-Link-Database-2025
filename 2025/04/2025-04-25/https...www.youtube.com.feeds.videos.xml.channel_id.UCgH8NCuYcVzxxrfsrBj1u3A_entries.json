@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Justin Hawkins Rides Again",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T18:51:52.893282+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T18:31:01+00:00",
+        "description": "I was lucky to spend a lot of time with Roy Thomas Baker before, during and after he produced our second album, One Way Ticket To Hell..and Back.  He had a profound impact on my working practices, musical philosophy and life in general.  I haven't tried to include everything Roy did in this episode - that's not what this is for, but I did want to pay tribute to a man I loved. \n\n#roythomasbaker",
+        "id": 2529024,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=h7s41GpJEYg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 460,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgH8NCuYcVzxxrfsrBj1u3A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/h7s41GpJEYg/hqdefault.jpg",
+        "title": "Remembering Roy Thomas Baker",
+        "vote": 0
+    }
+]

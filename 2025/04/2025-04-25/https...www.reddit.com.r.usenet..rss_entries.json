@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T15:47:24.265271+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T15:39:33+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><h1>Let\u2019s Save Up Again! \ud83d\ude0e</h1> <p>Found some Usenet Provider deals for King\u2019s Day. Hopefully we will get more Deals. Please DM me if you see more King\u2019s Day deals, and I will update the thread.</p> <table><thead> <tr> <th align=\"left\">Provider</th> <th align=\"left\">Price</th> <th align=\"left\">Backbone</th> <th align=\"left\">Retention</th> <th align=\"left\">Connections</th> <th align=\"left\">Server</th> <th align=\"left\">Takedown</th> <th align=\"left\">Deal Link</th> </tr> </thead><tbody> <tr> <td align=\"left\"><strong>Eweka +1TB Easynews +PrivadoVPN</strong></td> <td align=\"left\">\u20ac2.50/mo (\u20ac37.50/15mo)</td> <td align=\"left\">Eweka</td> <td align=\"left\">6091 days</td> <td align=\"left\">50</td> <td align=\"left\">EU</td> <td align=\"left\">DMCA</td> <td align=\"left\"><a href=\"https://www.eweka.nl/en/landing/promo-deal-evm-e-1\">Deal-Link</a></td> </tr> <tr> <td align=\"left\"><strong>Tweaknews</strong></td> <td align=\"left\">$1.99/mo ($29.85/15mo)</td> <td align=\"left\">BA",
+        "id": 2527399,
+        "language": null,
+        "link": "https://www.reddit.com/r/usenet/comments/1k7o1ce/kings_day_2025_usenet_provider_deals",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 550,
+        "source_url": "https://www.reddit.com/r/usenet/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "King\u2019s Day 2025 Usenet Provider Deals",
+        "vote": 0
+    }
+]

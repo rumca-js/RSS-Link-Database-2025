@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T14:44:44.789650+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T08:00:00+00:00",
+        "description": "<p><span>\n\nAt work we've recently been using </span>\n\n<a href=\"https://en.wikipedia.org/wiki/Zstd\">zstd</a> as a\nbetter-compressing alternative to \n\n<a href=\"https://en.wikipedia.org/wiki/Gzip\">gzip</a>, and overall I've\nbeen pretty happy with it.  A minor documentation gripe, though, is\nthat the behavior around multithreaded compression is a bit unclear.\nI understand it's chunking the work and sending chunks to\ndifferent threads to parallelize the compression process, and this\nmeans that I should expect to see better use of threads on larger\nfiles because there are more chunks to spread around, but what is the\nrelationship?\n\n\n\n<p>\n\nWhen I look in <code>man zstd</code> I see that you can set\n<code>-B&lt;num&gt;</code> to specify the size of the chunks, and it's\ndocumented as \"<code>generally 4 * windowSize</code>\".  Except the\ndocumentation doesn't say how <code>windowSize</code> is set.\n\n</p>\n\n<p>\n\nFrom a bit of poking at the source, it looks to me like the way this\nworks is that <co",
+        "id": 2526867,
+        "language": "en-US",
+        "link": "https://www.jefftk.com/p/zstd-window-size",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 163,
+        "source_url": "https://www.jefftk.com/news.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Zstd Window Size",
+        "vote": 0
+    }
+]

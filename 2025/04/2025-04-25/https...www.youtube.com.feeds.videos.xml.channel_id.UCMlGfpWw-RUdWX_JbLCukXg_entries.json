@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T14:40:21.734804+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T14:07:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Can't we Just Synthesize std::tuple_element From Get? - Jonathan M\u00fcller - CppCon 2024\n---\n\n`get\u22d6N\u22d7(obj)` returns the Nth element of your tuple-like type, `std::tuple_element\u22d6N, decltype(obj)\u22d7::type` the Nth type. If you want structured bindings support, you need to specialize both. But surely, `std::tuple_element` is just `decltype` of `get`, no?\n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nJonathan is a Software Engineer at think-cell. There, he is responsible for maintaining think-cell's core libraries, which include a custom range library, a fast and convenient JSON parser, and many other utilities and data structures to write elegant C++ code. Before working at think-cell, he wrote many useful open-source C++ libraries. He is also a member of the C++ standardization committee, where he serves as the assistant chair for std::ranges, and a frequent conference speaker.\n---\n\n\nCppCon is the annual, week-long face-to-face ga",
+        "id": 2526565,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=10_kPNL4sjk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/10_kPNL4sjk/hqdefault.jpg",
+        "title": "Lightning Talk: Can't we Just Synthesize std::tuple_element From Get? - Jonathan M\u00fcller",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T15:45:44.022215+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T04:00:00+00:00",
+        "description": "<img src=\"https://imgs.xkcd.com/comics/phd_timeline.png\" title=\"R\u00fcmeysa \u00d6zt\u00fcrk was grabbed off the street in my town one month ago.\" alt=\"R\u00fcmeysa \u00d6zt\u00fcrk was grabbed off the street in my town one month ago.\" />",
+        "id": 2527328,
+        "language": "en",
+        "link": "https://xkcd.com/3081",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 573,
+        "source_url": "https://xkcd.com/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PhD Timeline",
+        "vote": 0
+    }
+]

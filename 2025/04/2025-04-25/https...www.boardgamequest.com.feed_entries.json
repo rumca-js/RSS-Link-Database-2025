@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T14:31:31.588753+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T13:02:59+00:00",
+        "description": "<img width=\"640\" height=\"427\" src=\"https://www.boardgamequest.com/wp-content/uploads/2025/03/Top-10-Traditional-Card-Games-1024x683.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Top 10 Traditional Card Games\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.boardgamequest.com/wp-content/uploads/2025/03/Top-10-Traditional-Card-Games-1024x683.jpg 1024w, https://www.boardgamequest.com/wp-content/uploads/2025/03/Top-10-Traditional-Card-Games-300x200.jpg 300w, https://www.boardgamequest.com/wp-content/uploads/2025/03/Top-10-Traditional-Card-Games-150x100.jpg 150w, https://www.boardgamequest.com/wp-content/uploads/2025/03/Top-10-Traditional-Card-Games-768x512.jpg 768w, https://www.boardgamequest.com/wp-content/uploads/2025/03/Top-10-Traditional-Card-Games-640x427.jpg 640w, https://www.boardgamequest.com/wp-content/uploads/2025/03/Top-10-Traditional-Card-Games-1280x853.jpg 1280w, https",
+        "id": 2526358,
+        "language": "en-US",
+        "link": "https://www.boardgamequest.com/top-10-traditional-card-games",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 42,
+        "source_url": "https://www.boardgamequest.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Top 10 Traditional Card Games",
+        "vote": 0
+    }
+]

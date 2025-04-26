@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Babylon Bee",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T20:15:27.220614+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T20:03:14+00:00",
+        "description": "This freshman had a bright future ahead of her, but then her parents spent $250,000 to send her to a public university. Will she survive? Watch the sketch to find out.\n\n@TheMastersUniversity is named for Jesus, our Master. TMU equips every student to live for Him. Visit the campus and learn more at https://Masters.edu/visit\n\nFollow The Babylon Bee:\nWebsite: https://babylonbee.com/\nX: https://X.com/thebabylonbee\nFacebook: https://www.facebook.com/TheBabylonBee\nInstagram: http://instagram.com/thebabylonbee",
+        "id": 2529631,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=RSBgi06week",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 31,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyl5V3-J_Bsy3x-EBCJwepg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RSBgi06week/hqdefault.jpg",
+        "title": "Freshman Brainwashed After Just 2 Weeks Of College",
+        "vote": 0
+    }
+]

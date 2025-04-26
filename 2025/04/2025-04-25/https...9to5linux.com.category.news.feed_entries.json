@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T01:33:50.443177+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T00:30:44+00:00",
+        "description": "<p>COSMIC Alpha 7 desktop environment is now available with pinned workspaces, four new accessibility features, as well as various improvements. Here's what's new!</p>\n<p>The post <a href=\"https://9to5linux.com/cosmic-alpha-7-desktop-adds-pinned-workspaces-new-accessibility-features\">COSMIC Alpha 7 Desktop Adds Pinned Workspaces, New Accessibility Features</a> appeared first on <a href=\"https://9to5linux.com\">9to5Linux</a> - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.</p>",
+        "id": 10236,
+        "language": "en-US",
+        "link": "https://9to5linux.com/cosmic-alpha-7-desktop-adds-pinned-workspaces-new-accessibility-features",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "COSMIC Alpha 7 Desktop Adds Pinned Workspaces, New Accessibility Features",
+        "vote": 0
+    }
+]

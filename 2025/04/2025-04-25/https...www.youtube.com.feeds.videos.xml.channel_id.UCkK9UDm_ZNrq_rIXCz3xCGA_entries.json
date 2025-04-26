@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-25T18:03:47.112284+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-25T17:50:22+00:00",
+        "description": "Adobe's war on Tech Journalism continues, as they issue a second false copyright claim in 48 hours. The 2nd one even more ridiculous than the first.\n\n1st Banned Video:\nhttps://x.com/LundukeJournal/status/1914160985977335942\n\n2nd Banned Video:\nhttps://x.com/LundukeJournal/status/1912606452994224362\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 2528846,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=H9DXd0_gNYk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/H9DXd0_gNYk/hqdefault.jpg",
+        "title": "Adobe Makes 2nd Fraudulent Copyright Claim Against Lunduke Journal",
+        "vote": 0
+    }
+]
