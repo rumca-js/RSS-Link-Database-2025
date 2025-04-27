@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Veritasium",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-26T23:30:05.296362+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-26T20:07:58+00:00",
+        "description": "How a single phone call from a student helped uncover a flaw that nearly toppled Citicorp. Get an exclusive 15% discount on Saily data plans! Use code veritasium at checkout. Download Saily app or go to https://saily.com/veritasium \n\nIf you\u2019re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV \n\n\u2580\u2580\u2580\n0:00 Why is the citicorp building on stilts?\n4:44 How wind load works\n7:49 Tuned Mass Dampers \n11:17 The Anonymous Student\n14:00 Quartering Winds\n18:38 What were the odds of collapse?\n20:31 How was the citicorp building fixed?\n25:40 Hurricane Ella\n27:00 TMDs Take Over The World\n28:36 Conspiracies and Cover Ups\n\n\u2580\u2580\u2580\nA big thank you for the incredible people without whom we couldn't have done this! \ud83d\udda4\n\nTo Michael Greenburg, author of The Great Miscalculation, for his insights that really brought the story and its context to life. He gave us a pre-copy of his upcoming book, and it is fantastic: https://ve42.",
+        "id": 2536446,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Q56PMJbCFXQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 379,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Q56PMJbCFXQ/hqdefault.jpg",
+        "title": "The Most Dangerous Building in Manhattan",
+        "vote": 0
+    }
+]

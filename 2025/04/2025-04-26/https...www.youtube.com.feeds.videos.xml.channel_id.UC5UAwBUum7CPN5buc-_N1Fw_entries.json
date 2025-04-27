@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-26T11:06:27.732037+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-26T10:00:44+00:00",
+        "description": "Try out TuxCare's Endless Lifecycle Support for Ubuntu 20.04: https://tuxcare.com/endless-lifecycle-support/ubuntu-20-04-eol-support/?utm_campaign=The%20Linux%20Experiment&utm_source=youtube&utm_medium=social\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en#\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n00:00 Intro\n00:46 Sponsor: TuxCare\n02:24 OpenAI would buy Chrome if Google had to sell it\n04:53 Final Cosmic alpha is here\n07:18 Fedora 43 proposal to drop GNOME X11 entirely\n09:24 GNOME STF progress report is HUGE\n12:48 N",
+        "id": 2533134,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=FaL9Ug18BPE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FaL9Ug18BPE/hqdefault.jpg",
+        "title": "OpenAI could buy Chrome, Fedora could drop X11, COSMIC alpha 7: Linux & Open Source News",
+        "vote": 0
+    }
+]

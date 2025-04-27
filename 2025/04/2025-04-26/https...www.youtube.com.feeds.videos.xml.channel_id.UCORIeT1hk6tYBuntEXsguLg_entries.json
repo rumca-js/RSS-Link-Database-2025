@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "PostmodernJukebox",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-26T17:30:36.888698+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-26T17:01:20+00:00",
+        "description": "ok we made it a full version of this, who's ready to see it? \u2728 \ud83c\udf19 \nPre-save it on Spotify / Apple / Amazon: http://www.pmjlive.com/dwas\nGet 2025 PMJ World Tour Tix: http://www.pmjtour.com\nFollow our complete playlist on Spotify: http://www.pmjlive.com/pmjspotify\nGet PMJ Vinyl / merch: http://www.shoppmj.com",
+        "id": 2535194,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=36nZQRax-Pg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 261,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCORIeT1hk6tYBuntEXsguLg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/36nZQRax-Pg/hqdefault.jpg",
+        "title": "Full PMJ version of \"Die With A Smile\" is coming this Thursday! #postmodernjukebox #diewithasmile",
+        "vote": 0
+    }
+]

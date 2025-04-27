@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-26T16:29:25.089276+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-26T15:16:46+00:00",
+        "description": "Can't believe it's lasted this long \ud83e\udd14\n\u21d2 Become a channel member for special emojis, early videos, and more! Check it out here: https://www.youtube.com/ThioJoe/join\n\n\u2022 Google Issue Tracker Thread: https://issuetracker.google.com/issues/77320923\n\n\u2022 Filter to find all the broken star emails:\n{ label:\"^ss_cg\"  label:\"^ss_co\"  label:\"^ss_cp\"  label:\"^ss_cr\"  label:\"^ss_cy\"  label:\"^ss_sb\"  label:\"^ss_sg\"  label:\"^ss_so\"  label:\"^ss_sp\"  label:\"^ss_sr\"  label:\"^ss_sy\" } -is:starred \n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n1:02 - A 10+ Year Old Problem\n1:40 - How I Figured It Out\n4:02 - You CAN Search For Broken Emails\n5:19 - What Was Causing It?\n6:45 - This Explains A Lot\n7:59 - It\u2019s Not Apple\u2019s Fault\n9:15 - More Widespread Than I Thought\n10:06 - Why Not Discovered Sooner?\n10:45 - Two Bugs?\n11:50 - Let\u2019s Finally Put An End To It\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/thiojoe\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 ht",
+        "id": 2534939,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=02NtiPes5IM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/02NtiPes5IM/hqdefault.jpg",
+        "title": "I Just Solved a 10+ Year Gmail Bug (GOOGLE PLEASE FIX)",
+        "vote": 0
+    }
+]

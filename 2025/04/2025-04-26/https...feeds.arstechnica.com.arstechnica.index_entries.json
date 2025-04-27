@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-26T13:07:37.824094+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-26T11:08:34+00:00",
+        "description": "How does a fresh coat of paint help this 19-year-old RPG against modern competition?",
+        "id": 2533759,
+        "language": "en-US",
+        "link": "https://arstechnica.com/gaming/2025/04/is-the-elder-scrolls-iv-oblivion-still-fun-for-a-first-time-player-in-2025",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/20250424155601_1-500x500.jpg",
+        "title": "Is The Elder Scrolls IV: Oblivion still fun for a first-time player in 2025?",
+        "vote": 0
+    }
+]

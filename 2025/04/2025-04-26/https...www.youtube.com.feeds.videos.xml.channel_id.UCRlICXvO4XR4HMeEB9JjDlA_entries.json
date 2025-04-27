@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-26T19:49:52.090171+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-26T19:00:12+00:00",
+        "description": "In 2015, amateur astronomers discovered a star 1,400 light-years away in Cygnus that was randomly dimming by over 20%, with no clear pattern. This star, now called Tabby\u2019s Star, had been slowly dimming for over a century, which was bizarre for a star of its type.\n\nSeveral theories were tossed around. A giant planet blocking the light? Too big. Dust? Maybe, but Tabby\u2019s Star is too old for a protoplanetary disc. A massive comet swarm? Highly unlikely, especially given the long-term dimming. And then, of course, aliens\u2014maybe a Dyson Sphere? But that would block all light, not just certain wavelengths.\n\nThe final theory: fine space dust. It could explain both the short-term dips and gradual dimming. Where the dust comes from, though, is still unclear\u2014some believe it might be from a moon that was destroyed after getting too close to the star.\n\nSo, while dust is the most likely culprit, the mystery of Tabby\u2019s Star remains unsolved. Aliens? Still possible, but not in the way we thought. The ",
+        "id": 2535943,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=I8RgSLQgnk0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/I8RgSLQgnk0/hqdefault.jpg",
+        "title": "The Cosmic Mystery of Tabby\u2019s Star",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-26T21:26:44.659714+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-26T21:00:05+00:00",
+        "description": "The \"software supply chain\" is a term that some people don't like in the open source space but even so it's an industry term used and one new potential for things to go wrong is malware devs abusing commonly generated AI slop package names\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nBlog post: https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks\nThe Register Article: https://www.theregister.com/2024/03/28/ai_bots_hallucinate_software_packages/\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming\n\n==========Social Media==========\n\ud83c\udfa4 Discord: https://brodierobertson.xyz/discord\n\ud83d\udc26 Twitter: https://brod",
+        "id": 2536429,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ai77Pa79_TY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ai77Pa79_TY/hqdefault.jpg",
+        "title": "Slopsquatting: Newest Software Supply Chain Scourge",
+        "vote": 0
+    }
+]
