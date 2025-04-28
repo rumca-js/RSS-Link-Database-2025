@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-27T06:25:52.248205+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-27T06:25:52+00:00",
+        "description": "Microsoft has revealed that a threat actor it tracks as Storm-1977 has conducted password spraying attacks against cloud tenants in the education sector over the past year.\n\"The attack involves the use of AzureChecker.exe, a Command Line Interface (CLI) tool that is being used by a wide range of threat actors,\" the Microsoft Threat Intelligence team said in an analysis.\nThe tech giant noted that",
+        "id": 2537968,
+        "language": "en-US",
+        "link": "https://thehackernews.com/2025/04/storm-1977-hits-education-clouds-with.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 343,
+        "source_url": "https://feeds.feedburner.com/TheHackersNews",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Storm-1977 Hits Education Clouds with AzureChecker, Deploys 200+ Crypto Mining Containers",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-27T16:06:48.233736+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-27T04:00:00+00:00",
+        "description": "<img src='https://i.cbc.ca/1.7518717.1745599090!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/james-armstrong-banditry-cider.jpg' alt='A bearded man wearing a toque stands outside in front of a pond.' width='620' height='349' title='James Armstrong, from Banditry Cider in Gibsons, B.C., says that water shortages and restrictions in the region have seriously affected his business.'/><p>In 2022, B.C.\u2019s Sunshine Coast declared a state of emergency because of drought, the first of its kind in the country. Experts warn it\u2019s a situation that other regions will face in the coming years, particularly as the climate continues to change.</p>",
+        "id": 2540558,
+        "language": null,
+        "link": "https://www.cbc.ca/radio/whatonearth/drought-planning-1.7518702?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "This region nearly ran out of water. Locals and experts say other Canadian towns should pay attention",
+        "vote": 0
+    }
+]

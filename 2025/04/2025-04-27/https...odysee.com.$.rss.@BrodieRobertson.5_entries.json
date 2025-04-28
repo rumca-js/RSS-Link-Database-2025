@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-27T22:08:18.886218+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-27T21:00:32+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/P96qx7cucOg\" width=\"480\" alt=\"thumbnail\" title=\"PewDiePie Made a Linux Ricing Video?!?\" /></p>On my bingo card for 2025 certainly wasn't PewDiePie using Linux, but not only that using Arch Linux, Hyprland and making a Linux ricing video.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Pewdiepiew VIdeo: https://www.youtube.com/watch?v=pVI_smLgTY0<br />Winutil: https://github.com/ChrisTitusTech/winutil<br />Alternate Shell: https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows<br />PhotoGIMP: https://github.com/Diolinux/PhotoGIMP<br />Bandicam: https://youtu.be/9qVA5-i61-8<br />Fastfetch: https://github.com/fastfetch-cli/fastfetch<br />Firefox Tweaks: https://wiki.archlinu",
+        "id": 2542352,
+        "language": "en",
+        "link": "https://odysee.com/pewdiepie-made-a-linux-ricing-video-!:236b821802c754acb03e6f7daaecd5b85b1a6247",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "PewDiePie Made a Linux Ricing Video?!?",
+        "vote": 0
+    }
+]

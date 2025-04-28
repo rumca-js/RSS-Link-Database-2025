@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-27T11:51:11.630276+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-27T11:51:11+00:00",
+        "description": "Wirtualna Polska Holding sfinalizowa\u0142a przej\u0119cie grupy portali turystycznych Invia Group. Za ponad miliard z\u0142otych zyska\u0142a marki dzia\u0142aj\u0105ce w kilku krajach Europy. Z us\u0142ug jej portali rocznie korzysta prawie 6 milion\u00f3w podr\u00f3\u017cnych.",
+        "id": 2539236,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/biura-podrozy/art42190701-wirtualna-polska-przejela-portale-turystyczne-grupy-invia-na-ich-czele-wiceprezes",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wirtualna Polska przej\u0119\u0142a portale turystyczne Grupy Invia. Na ich czele wiceprezes",
+        "vote": 0
+    }
+]

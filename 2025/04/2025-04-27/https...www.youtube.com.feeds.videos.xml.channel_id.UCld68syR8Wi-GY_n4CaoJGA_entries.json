@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-27T21:11:07.557810+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-27T21:00:32+00:00",
+        "description": "On my bingo card for 2025 certainly wasn't PewDiePie using Linux, but not only that using Arch Linux, Hyprland and making a Linux ricing video.\n\n==========Support The Channel==========\n\u25ba Patreon: https://brodierobertson.xyz/patreon\n\u25ba Paypal: https://brodierobertson.xyz/paypal\n\u25ba Liberapay: https://brodierobertson.xyz/liberapay\n\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa\n\n==========Resources==========\nPewdiepiew VIdeo: https://www.youtube.com/watch?v=pVI_smLgTY0\nWinutil: https://github.com/ChrisTitusTech/winutil\nAlternate Shell: https://en.wikipedia.org/wiki/List_of_alternative_shells_for_Windows\nPhotoGIMP: https://github.com/Diolinux/PhotoGIMP\nBandicam: https://youtu.be/9qVA5-i61-8\nFastfetch: https://github.com/fastfetch-cli/fastfetch\nFirefox Tweaks: https://wiki.archlinux.org/title/Firefox/Tweaks\nEWW: https://github.com/elkowar/eww\n\n=========Video Platforms==========\n\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee\n\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube\n\ud83c\udfae Gaming: https://brodi",
+        "id": 2542206,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=P96qx7cucOg",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 45,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/P96qx7cucOg/hqdefault.jpg",
+        "title": "PewDiePie Made a Linux Ricing Video?!?",
+        "vote": 0
+    }
+]

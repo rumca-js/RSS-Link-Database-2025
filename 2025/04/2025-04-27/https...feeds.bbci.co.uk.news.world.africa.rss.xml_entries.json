@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-27T03:27:27.400998+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-27T02:27:34+00:00",
+        "description": "A medic sparks a national conversation about the financial abuse some female breadwinners face.",
+        "id": 2537461,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cr72g3drd11o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 521,
+        "source_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca0f/live/4b0a7c20-22c7-11f0-8c2e-77498b1ce297.jpg",
+        "title": "The price of love - the doctor who has South Africa talking about financial abuse",
+        "vote": 0
+    }
+]

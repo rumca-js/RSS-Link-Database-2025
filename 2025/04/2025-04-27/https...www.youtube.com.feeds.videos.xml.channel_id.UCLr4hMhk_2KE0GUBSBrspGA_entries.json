@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-27T18:47:37.751899+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-27T18:11:41+00:00",
+        "description": "Wr\u00f3ci\u0142em z podr\u00f3\u017cy do Chin i... zgubi\u0142em smart ringa. Ale za to mam dla Was pierwsze wra\u017cenia z premiery nowego Vivo X200 Ultra, now\u0105 Motorol\u0119 RAZR i kilka przemy\u015ble\u0144 o Insta360 X5 \u2013 kamerze 360, kt\u00f3rej prawie nikt nie potrzebuje.\n\nW tym odcinku Tech Week:\n\nNowy Vivo X200 Ultra \u2014 czy naprawd\u0119 zmienia zasady gry?\nMotorola RAZR 60 Ultra \u2014 nowy, lepszy, czy taki sam?\nInsta360 X5 \u2014 komu naprawd\u0119 przyda si\u0119 nowa kamera 360?\nCMF Phone 2 Pro \u2014 nowy hit za 999 z\u0142otych?\nA przy okazji \u2014 troch\u0119 zakulisowych historii z Chin: testowanie flagowc\u00f3w, przygody z chi\u0144sk\u0105 telewizj\u0105 i szybkie spojrzenie na to, jak wygl\u0105da technologiczna rzeczywisto\u015b\u0107 w Azji.\n\nNowe materia\u0142y z Chin ju\u017c wkr\u00f3tce!",
+        "id": 2541478,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=v1pAUwImGp0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/v1pAUwImGp0/hqdefault.jpg",
+        "title": "Tech Week: Zgubi\u0142em smart pier\u015bcie\u0144, znalaz\u0142em nowe Vivo Ultra",
+        "vote": 0
+    }
+]

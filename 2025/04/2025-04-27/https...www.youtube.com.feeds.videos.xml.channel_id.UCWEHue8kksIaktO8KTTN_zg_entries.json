@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CodingEntrepreneurs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-27T17:08:23.129864+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-27T15:59:28+00:00",
+        "description": "Watching videos create a ton of data. Let's track, analyze, and own it.\n\nIn this course, we're going to integrate YouTube Video embeds into a Next.js application. Then, we're going to track and monitor every possible event from YouTube videos with FastAPI and time-series Postgres.\n\nThis type of data is called \"time series\" because it's data that occurs over time. Time series data is typically a *ton* of data since so much can happen in only a few seconds. \n\nFor example...\n\n- video loaded (cued)\n- video played \n- video paused\n- video played\n- Video progress (after N seconds)\n- video progress (after N Seconds)\n- video paused\n- video played\n\nThat's 8 events that could occur in 5 seconds. \n\nWhat about 250 users? 10,000? 100,000? \n\nAs you can see,  this amount of data can balloon very quickly for a single user -- especially if they are jump around videos often.\n\nModern video platforms and websites do this for good reason: what resonates with our users? How can we help them find more of it?",
+        "id": 2540877,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7fIvHuqiLws",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 74,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWEHue8kksIaktO8KTTN_zg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7fIvHuqiLws/hqdefault.jpg",
+        "title": "Next.js + FastAPI Tutorial: Track Every YouTube Video Event!",
+        "vote": 0
+    }
+]

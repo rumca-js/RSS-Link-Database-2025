@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-27T17:09:17.136370+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-27T17:09:16+00:00",
+        "description": "Bolstered by its technological superiority, the billionaire's company has become indispensable, particularly for Ukraine. Donald Trump's close associate now holds unprecedented levers of influence, raising questions of a conflict of interest as China seeks to catch up.",
+        "id": 2540892,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/international/article/2025/04/27/with-starlink-musk-extends-his-grip-on-the-world-and-space_6740681_4.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/04/04/54/0/678/339/644/322/60/0/73ac6c1_sirius-fs-upload-1-sxzd7mweno4w-1743781515960-gabarit-media-appel-300-200px.png",
+        "title": "With Starlink, Musk extends his grip on the world \u2013 and space",
+        "vote": 0
+    }
+]

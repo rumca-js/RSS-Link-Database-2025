@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-27T16:21:21.851906+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-27T16:01:10+00:00",
+        "description": "\ud83d\udcdc\u00a0Raporty, raporty, raporty. Kto by to wszystko czyta\u0142? Ale czyta\u0107 jest co, bo opublikowano cyberbezpiecznikowe raporty polskich CERT\u00f3w i CSIRT\u00f3w. Stron sporo, bo \u0142\u0105cznie ze trzysta, maj\u00f3wka tu\u017c za rogiem, wi\u0119c pozw\u00f3lcie, \u017ce je Wam streszcz\u0119 aby by\u0142o o czym porozmawia\u0107 przy grillu albo w trakcie remontu mieszkania. Jak wygl\u0105da krajobraz cyberzagro\u017ce\u0144 w naszym kraju?\n \n\u0179r\u00f3d\u0142a:\n\ud83d\udcb0\u00a0Raport Roczny CSIRT KNF 2024\nhttps://www.knf.gov.pl/aktualnosci?articleId=93227&p_id=18\n\n\ud83c\uddf5\ud83c\uddf1\u00a0Raport roczny z dzia\u0142alno\u015bci CERT Polska w 2024 roku \nhttps://cert.pl/posts/2025/04/raport-roczny-2024/\n\n\ud83c\udf4a\u00a0Raport CERT Orange Polska 2024 ju\u017c dost\u0119pny! \nhttps://cert.orange.pl/aktualnosci/raport-cert-orange-polska-2024-juz-dostepny/\n\n\ud83c\uddea\ud83c\uddfa\u00a0Digital Operational Resilience Act (DORA)\nhttps://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en\n\n\ud83d\udea8\u00a0Zg\u0142oszenia do CSIRT NASK\nhttps://incydent.cert.pl/\n\n\ud83d\udcf8 Zdj\u0119cie Donalda Tuska: Alina Zienowicz\nhttps://commons.wikimedia.org/wiki/File:Donald_Tusk_13-05-2011_(3).JPG\n \nRelevan",
+        "id": 2540674,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ldXnmO8IYjA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/ldXnmO8IYjA/hqdefault.jpg",
+        "title": "Stan polskiego cyberbezpiecze\u0144stwa",
+        "vote": 0
+    }
+]

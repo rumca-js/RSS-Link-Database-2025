@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-27T05:34:04.389487+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-27T05:34:04+00:00",
+        "description": "Dexter Morgan wsta\u0142 z martwych, a seriale inspirowane losami bohatera, utworz\u0105 nowe uniwersum. Showtime niedawno podj\u0105\u0142 decyzj\u0119 o zam\u00f3wieniu drugiego sezonu \u201eDexter: Grzech pierworodny\u201d, kt\u00f3ry opowiada o m\u0142odo\u015bci Dextera w Miami, we wczesnych latach 90. R\u00f3wnocze\u015bnie powstaj\u0105 kolejne spin-offy.",
+        "id": 2537852,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/wszystkie-seriale-o-dexterze-morganie-showtime-zapowiada-cale-uniwersum-grzech-pierworodny-zmartwychwstanie-spin-off-dexter-kiedy-premiera",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 398,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_internet.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wszystkie seriale o Dexterze Morganie. Showtime zapowiada ca\u0142e uniwersum",
+        "vote": 0
+    }
+]
