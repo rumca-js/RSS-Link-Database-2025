@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-28T02:18:37.203283+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-28T02:16:25+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>I am working on a college project for picorv32 but no direction has been given for installation of the build-tool-chain. So, I head to the picorv32 GIT page and follow instruction and download dependencies.</p> <p>GIT Page for picorrv32 : <a href=\"https://github.com/YosysHQ/picorv32\">https://github.com/YosysHQ/picorv32</a></p> <p><code>make download-tools</code><br/> <code>make -j$(nproc) build-tools</code> </p> <p>This results to an error but the compilation log doesn&#39;t tell me what&#39;s wrong exactly.</p> <p>Then I run these commands as well after build-tool installation from the instruction</p> <pre><code>sudo mkdir /opt/riscv32i sudo chown $USER /opt/riscv32i git clone https://github.com/riscv/riscv-gnu-toolchain riscv-gnu-toolchain-rv32i cd riscv-gnu-toolchain-rv32i git checkout 411d134 git submodule update --init --recursive mkdir build; cd build ../configure --with-arch=rv32i --prefix=/opt/riscv32i make -j$(nproc)sudo </code",
+        "id": 2543282,
+        "language": null,
+        "link": "https://www.reddit.com/r/RISCV/comments/1k9kt04/picorv32_buildtoolchain_installation",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "picorv32 build-tool-chain installation",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-28T09:09:28.390002+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-28T09:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/Ellie-cries-in-the-second-season-of-The-Last-of-Us.jfif?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>The third episode of The Last of Us season two has aired, and we returned to Jackson to see the aftermath of last week's assault on the settlement.</p> <p><a href=\"https://www.eurogamer.net/the-last-of-us-season-2-episode-three-speaks-loudest-in-its-quietest-moments\">Read more</a></p>",
+        "id": 2544977,
+        "language": "en",
+        "link": "https://www.eurogamer.net/the-last-of-us-season-2-episode-three-speaks-loudest-in-its-quietest-moments",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/Ellie-cries-in-the-second-season-of-The-Last-of-Us.jfif?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "The Last of Us season 2 episode three speaks loudest in its quietest moments",
+        "vote": 0
+    }
+]

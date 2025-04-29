@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-28T11:53:54.766689+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-28T05:00:00+00:00",
+        "description": "<img src='https://i.cbc.ca/1.6028441.1621103830!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/brook-trout-west-credit-river-belfountain.jpg' alt='' width='620' height='349' title=''/><p>A pesticide\u00a0sprayed on New Brunswick forests more than 55 years ago can still be found in some fish in the province, according to a new study.</p>",
+        "id": 2546193,
+        "language": null,
+        "link": "https://www.cbc.ca/news/canada/new-brunswick/brook-trout-ddt-new-brunswick-1.7516615?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "High levels of DDT found in N.B. brook trout decades after spraying",
+        "vote": 0
+    }
+]

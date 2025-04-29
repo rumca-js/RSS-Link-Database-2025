@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-28T12:25:57.269843+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-28T08:03:39+00:00",
+        "description": "<p><em>For the last several decades, India has been quietly developing its economic independence muscles as it morphs into an IT leader with global prowess.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/04/what-the-eu-can-learn-from-india-about-digital-policies/\">What the EU Can Learn From India About Digital Policies</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 2546448,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/04/what-the-eu-can-learn-from-india-about-digital-policies",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "What the EU Can Learn From India About Digital Policies",
+        "vote": 0
+    }
+]

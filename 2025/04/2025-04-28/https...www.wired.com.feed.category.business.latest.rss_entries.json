@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-28T10:16:17.244547+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-28T10:00:00+00:00",
+        "description": "Santa\u2019s helpers are freaking out that steep tariffs on Chinese imports will prevent toys, trees, and decorations from arriving in the US on time for the December holiday.",
+        "id": 2545390,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/christmas-toys-trump-tariffs-china",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/6806baa72c169a436e745886/master/pass/Trump-Tariffs-Ruining-Christmas-Business-2209978028.jpg",
+        "title": "Donald Trump Is Already Ruining Christmas",
+        "vote": 0
+    }
+]

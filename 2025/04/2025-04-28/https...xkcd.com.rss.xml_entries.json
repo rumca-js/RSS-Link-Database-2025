@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-29T01:55:34.130917+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-28T04:00:00+00:00",
+        "description": "<img src=\"https://imgs.xkcd.com/comics/chess_position.png\" title=\"It's important to learn the moves that take you into the vortex, but it's best not to study vortex itself too closely. Even grandmasters who have built up a tolerance lose the ability to play for a few hours after studying it.\" alt=\"It's important to learn the moves that take you into the vortex, but it's best not to study vortex itself too closely. Even grandmasters who have built up a tolerance lose the ability to play for a few hours after studying it.\" />",
+        "id": 2550657,
+        "language": "en",
+        "link": "https://xkcd.com/3082",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 573,
+        "source_url": "https://xkcd.com/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Chess Position",
+        "vote": 0
+    }
+]

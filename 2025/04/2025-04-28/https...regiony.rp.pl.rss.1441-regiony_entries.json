@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-28T16:26:29.828516+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-28T16:26:29+00:00",
+        "description": "Wed\u0142ug danych zgromadzonych w Rejestrze D\u0142u\u017cnik\u00f3w BIG InfoMonitor nieetycznych d\u0142u\u017cnik\u00f3w jest prawie p\u00f3\u0142 miliona i razem maj\u0105 do oddania blisko 17 mld z\u0142. W jakich regionach jest ich najwi\u0119cej i jaki jest profil nieetycznego d\u0142u\u017cnika?",
+        "id": 2548287,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/z-regionow/art42197421-nieetyczni-dluznicy-w-twoim-regionie-jest-na-nich-sposob",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Nieetyczni d\u0142u\u017cnicy w twoim regionie? Jest na nich spos\u00f3b",
+        "vote": 0
+    }
+]

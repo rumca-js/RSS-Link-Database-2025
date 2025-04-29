@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-28T09:09:21.175239+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-28T09:03:00+00:00",
+        "description": "When the investment committee is unanimous, it&#8217;s unlikely that the idea is a brilliant one. Significant division and strong opinions (and widespread skepticism) don&#8217;t cause great ideas, but they&#8217;re often present when they arrive.",
+        "id": 2544975,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/04/important-breakthroughs",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Important breakthroughs",
+        "vote": 0
+    }
+]

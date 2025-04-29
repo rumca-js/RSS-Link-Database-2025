@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Boston Dynamics",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-28T14:54:32.344687+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-28T14:04:54+00:00",
+        "description": "In robotics, dexterity and perception go hand-in-hand, literally! Our Atlas manipulation test stand practices a range of grasps, using RL policies trained using NVIDIA's DextrAH-RGB.\n\nLearn More: https://developer.nvidia.com/blog/r%C2%B2d%C2%B2-adapting-dexterous-robots-with-nvidia-research-workflows-and-models/",
+        "id": 2547359,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=dFObux6mfTc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 451,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7vVhkEfw4nOGp8TyDk7RcQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/dFObux6mfTc/hqdefault.jpg",
+        "title": "Arm you glad to see me, Atlas? | Boston Dynamics",
+        "vote": 0
+    }
+]

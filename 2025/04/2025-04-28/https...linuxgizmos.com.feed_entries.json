@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-28T17:30:47.473418+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-28T17:17:10+00:00",
+        "description": "The MINIX Elite EU715-AI is a compact mini PC based on Intel&#8217;s Meteor Lake-H processor architecture. It features integrated Intel Arc Graphics, Wi-Fi 6E, dual 2.5G Ethernet ports, and quad-screen display support. The system runs Windows 11 Pro and comes equipped with 32 GB of DDR5 SO-DIMM memory, configured as two 16 GB modules. For [&#8230;]",
+        "id": 2548892,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/minix-elite-eu715-ai-mini-pc-combines-meteor-lake-performance-and-dual-2-5gbe-ports",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "MINIX Elite EU715-AI Mini PC Combines Meteor Lake Performance and dual 2.5GbE Ports",
+        "vote": 0
+    }
+]

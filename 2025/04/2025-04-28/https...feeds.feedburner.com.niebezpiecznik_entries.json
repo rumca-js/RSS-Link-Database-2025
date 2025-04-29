@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-28T15:03:26.804170+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-28T13:18:32+00:00",
+        "description": "<p>W godzinach przedpo\u0142udniowych w Hiszpanii i Portugalii i Francji dosz\u0142o do powa\u017cnej awarii sieci energetycznej. Przyczyny nie s\u0105 znane, ale skala incydentu jest ogromna i ostatecznie awaria mo\u017ce wp\u0142yn\u0105\u0107 tak\u017ce na inne pa\u0144stwa.<span id=\"more-26433\"></span></p>\n<h3>Co si\u0119 sta\u0142o?</h3>\n<p>Jak podaj\u0105 r\u00f3\u017cne <a href=\"https://www.euronews.com/my-europe/2025/04/28/spain-portugal-and-parts-of-france-hit-by-massive-power-outage\">media</a>, Hiszpania i Portugalia maj\u0105 dzi\u015b olbrzymie problemy z awari\u0105 sieci energetycznej. Mog\u0105 one dotyczy\u0107 r\u00f3wnie\u017c po\u0142udniowej cz\u0119\u015bci Francji. Problemy z zapatrzeniem w energi\u0119 opisywane jako &#8220;og\u00f3lnokrajowe&#8221; mia\u0142y si\u0119 zacz\u0105\u0107 &#8220;w godzinach porannych&#8221; w dniu dzisiejszym (poniedzia\u0142ek, 28 kwietnia). Informacje o problemach potwierdza wiele innych \u017ar\u00f3de\u0142, w tym firmy energetyczne. W sieci pojawiaj\u0105 si\u0119\u00a0te\u017c pierwsze filmy os\u00f3b, kt\u00f3re nagrywa\u0142y zatrzymanie metra czy ewakuacje innych obiekt\u00f3w. </p>\n<p>Awaria wp\u0142yn\u0119\u0142a m.in. na lotnisko Barajas w Madr",
+        "id": 2547758,
+        "language": null,
+        "link": "https://niebezpiecznik.pl/post/blackout-w-hiszpani-dotknal-pociagow-sygnalizacji-swietlnej-szpitali",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Blackout w Hiszpanii, Portugalii i cz\u0119\u015bci Francji. Stoj\u0105 poci\u0105gi, nie dzia\u0142a sygnalizacja \u015bwietlna. Czy to cyberatak?",
+        "vote": 0
+    }
+]

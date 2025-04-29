@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-28T14:57:08.922416+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-28T14:07:05+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Saturday Is Coming Faster - Convert year_month_day to Weekday Faster - Part 1 - Cassio Neri - CppCon 2024\n---\n\nThis talk will show how a new algorithm that gives weekday from year_month_day up to 3x faster than the usual way. In this fast part I show the magic. (In part 2 I'll explain it.)\n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nCassio Neri\n \nCassio Neri holds a PHD in Applied Mathematics from University of Paris Dauphine. Cassio has been professionally coding in C++ for more than 15 years but his coding experience has started far earlier when he was a kid. He currently works on the financial industry in London but had previously worked in academia for more than a decade. Cassio authored research articles and has published them on peer-reviewed journals on Mathematics, Finance, Computer Science and C++.\n---\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organize",
+        "id": 2547511,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=64mTEXnSnZs",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/64mTEXnSnZs/hqdefault.jpg",
+        "title": "Lightning Talk: Saturday Is Coming Faster - Convert\u00a0year_month_day to Weekday Faster - Part 1",
+        "vote": 0
+    }
+]
