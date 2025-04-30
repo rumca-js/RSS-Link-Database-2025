@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-29T20:50:21.646738+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-29T20:45:32+00:00",
+        "description": "<p>\n\t<img alt=\"27c57b7a-colorized-bjarne_stroustrup_2013-by-victor-zavyalov-icpcnews-creative-commons-via-wikipedia-copy-1024x683.jpg\" src=\"https://isocpp.org/files/img/27c57b7a-colorized-bjarne_stroustrup_2013-by-victor-zavyalov-icpcnews-creative-commons-via-wikipedia-copy-1024x683.jpg\" style=\"width: 400px; margin: 10px; float: right;\" />Bjarne Stroustrup, creator of C++, is advocating for the adoption of guideline-enforcing profiles to enhance the language&#39;s safety and security.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://thenewstack.io/bjarne-stroustrup-on-how-he-sees-c-evolving/\">Bjarne Stroustrup on How He Sees C++ Evolving</a></h3>\n\t<p>\n\t\tby David Cassel</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\t&ldquo;I wanted to educate the community at large, and members of WG21 in particular &mdash; on my views of C++&rsquo;s intended direction of evolution,&rdquo; Bjarne Stroustrup told TNS.</p>\n\t<p>\n\t\tThe 74-year-old creator of C++ has spent 40 years of his life wa",
+        "id": 2559434,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/04/bjarne-stroustrup-on-how-he-sees-cpp-evolving-david-cassel",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Bjarne Stroustrup on How He Sees C++ Evolving -- David Cassel",
+        "vote": 0
+    }
+]

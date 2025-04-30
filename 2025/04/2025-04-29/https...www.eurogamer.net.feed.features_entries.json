@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-29T12:05:12.756066+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-29T11:00:00+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/Super-Smash-Bros.-Ultimate-%E2%80%93-Mr.-Sakurai-Presents-_Banjo-%26-Kazooie_-3-39-screenshot-(1).png?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>Earlier this year, Banjo Kazooie composer Grant Kirkhope posted on social media to say he had <a href=\"https://www.eurogamer.net/banjo-kazooie-composer-has-zero-hope-for-new-game-says-fans-would-slag-it-off-no-matter-how-good-it-was\">\"zero hope\" of a new sequel</a> - something which prompted a strong response from fans of the iconic N64 platformer still hoping for more.</p> <p><a href=\"https://www.eurogamer.net/banjo-kazooie-sequel-chances-better-than-zero-but-not-much-says-composer-grant-kirkhope\">Read more</a></p>",
+        "id": 2555018,
+        "language": "en",
+        "link": "https://www.eurogamer.net/banjo-kazooie-sequel-chances-better-than-zero-but-not-much-says-composer-grant-kirkhope",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/Super-Smash-Bros.-Ultimate-%E2%80%93-Mr.-Sakurai-Presents-_Banjo-%26-Kazooie_-3-39-screenshot-(1).png?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "Banjo Kazooie sequel chances \"better than zero but not much\", says composer Grant Kirkhope",
+        "vote": 0
+    }
+]

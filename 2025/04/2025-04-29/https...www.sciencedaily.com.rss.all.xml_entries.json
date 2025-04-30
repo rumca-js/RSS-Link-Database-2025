@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-29T18:35:21.523313+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-29T10:31:46+00:00",
+        "description": "An automated machine learning program has been able to identify potential cardiovascular incidents or fall and fracture risks based on bone density scans taken during routine clinical testing.",
+        "id": 2558613,
+        "language": "en-us",
+        "link": "https://www.sciencedaily.com/releases/2025/04/250429103146.htm",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 188,
+        "source_url": "https://www.sciencedaily.com/rss/all.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "New machine algorithm could identify cardiovascular risk at the click of a button",
+        "vote": 0
+    }
+]

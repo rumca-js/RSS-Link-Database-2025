@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-29T22:55:01.294262+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-29T22:04:41+00:00",
+        "description": "<p>Jeff Horwitz, reporting for The Wall Street Journal (<a href=\"https://apple.news/Au5ktTLC7Tn-MM51sy1IBHA\">News+ link</a>):</p>\n\n<blockquote>\n  <p>To boost the popularity of these souped-up chatbots, Meta has cut\ndeals for up to seven-figures with celebrities like actresses\nKristen Bell and Judi Dench and wrestler-turned-actor John Cena\nfor the rights to use their voices. The social-media giant assured\nthem that it would prevent their voices from being used in\nsexually explicit discussions, according to people familiar with\nthe matter. [...]</p>\n\n<p>\u201cI want you, but I need to know you\u2019re ready,\u201d the Meta AI bot\nsaid in Cena\u2019s voice to a user identifying as a 14-year-old girl.\nReassured that the teen wanted to proceed, the bot promised to\n\u201ccherish your innocence\u201d before engaging in a graphic sexual\nscenario.</p>\n\n<p>The bots demonstrated awareness that the behavior was both morally\nwrong and illegal. In another conversation, the test user asked\nthe bot that was speaking as Cena what ",
+        "id": 2560468,
+        "language": null,
+        "link": "https://www.wsj.com/tech/ai/meta-ai-chatbots-sex-a25311bf?st=6jzH4S&reflink=desktopwebshare_permalink",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Meta\u2019s \u2018Digital Companions\u2019, Using the Licensed Voices of Celebrity Actors, Will Talk Dirty With Anyone",
+        "vote": 0
+    }
+]

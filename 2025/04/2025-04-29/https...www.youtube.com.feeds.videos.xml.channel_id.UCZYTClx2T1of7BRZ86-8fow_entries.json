@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-29T17:46:41.877477+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-29T17:00:51+00:00",
+        "description": "Ever wondered why you tense up, get pale, and eat too much when stressed? There's a very good evolutionary reason. \n\nHosted by: Savannah Geary (they/them)\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: J.V. Rosenbalm, Jaap Westera, Jeffrey Mckishen, David Johnston, Gizmo, Friso, Wesus, Jeremy Mattern, Alan Wong, Matt Curls, Bethany Matthews, Blood Doctor Kelly, Spilmann Reed, Lyndsay Brown, Toyas Dhake, Kaitlyn O'Callaghan, Garrett Galloway, kickinwasabi, Martin Osorio, DrakoEsper , Eric Jensen, Cye Stoner, Chris Curry, Jp Lynch, Chris Peters, Alex Hackman, Piya Shedden, Joseph Ruf, Jason A Saslow, Kevin Knupp, Kevin Bealer, Chris Mackey, Steve Gums, Adam Brainard",
+        "id": 2558395,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=f1WotC2XvVM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/f1WotC2XvVM/hqdefault.jpg",
+        "title": "Stress Eating Explained (Why It Feels Like A Lion Is Chasing You)",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-29T14:20:37.378387+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-29T14:01:00+00:00",
+        "description": "Costco\u2019s CEO Ron Vachris sat down with The Wall Street Journal to discuss how its $86 billion Kirkland Signature brand runs and why it allows Costco leverage over many big brands. Vachris reveals a Kirkland item he once denied but later approved.\n\n#Costco #Kirkland #Shorts",
+        "id": 2556233,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Ze56jN_S5fc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/Ze56jN_S5fc/hqdefault.jpg",
+        "title": "Why Costco's CEO Said 'No' to the Kirkland Signature Bacon-Egg-and-Cheese",
+        "vote": 0
+    }
+]

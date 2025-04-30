@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ko\u0142em Si\u0119 Toczy",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-29T17:02:31.405330+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-29T16:01:07+00:00",
+        "description": "Sezon wyjazdowy czas zacz\u0105\u0107! Lecimy od razu z grubej rury, bo o trasie woko\u0142o Zalewu Szczeci\u0144skiego my\u015bla\u0142em ju\u017c od dawna, ale jako\u015b ca\u0142y czas nie by\u0142o mi po drodze. No ale uda\u0142o si\u0119!\n\nZapraszam na 3 dniow\u0105, transgraniczn\u0105 wycieczk\u0119 rowerow\u0105, podczas kt\u00f3rej poka\u017c\u0119 Wam uroki Zalewu Szczeci\u0144skiego, a tak\u017ce nieco opowiem o okolicy. \n\nKsi\u0105\u017cka \"Rower to jest \u015awiat\" https://rowertojestswiat.pl/\nKsi\u0105\u017cka \"G\u00f3ry to jest \u015awiat\" https://gorytojestswiat.pl/\n\n\u25ba\u25baZach\u0119cam do subskrypcji: http://bit.ly/2cmWbSO \n\nZapraszam te\u017c na:\nFacebook: http://bit.ly/2flU84f\nInstagram: http://bit.ly/2eTrIMc\nBlog: http://kolemsietoczy.pl/",
+        "id": 2557918,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=U6Pb79lzKUo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 176,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCG2kQBVlgG7kOigXZTcKrQw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/U6Pb79lzKUo/hqdefault.jpg",
+        "title": "Rowerem woko\u0142o Zalewu Szczeci\u0144skiego \ud83d\udeb4\u200d\u2642\ufe0f\ud83d\udca8 Bajeczne trasy i tajemnicze okr\u0105g\u0142e wyspy.",
+        "vote": 0
+    }
+]

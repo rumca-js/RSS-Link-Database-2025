@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-29T16:42:10.866977+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-29T16:30:00+00:00",
+        "description": "A decade-old online stunt, which is having a comeback, helped give rise to the TikTok meme era -- and the end of social media as a place for your friends.",
+        "id": 2557716,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2025/04/29/ice-bucket-challenge-history",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How one viral trend created the internet as we know it",
+        "vote": 0
+    }
+]

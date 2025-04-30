@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-29T13:10:38.112135+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-29T13:00:37+00:00",
+        "description": "Open source is moving fast, and this week\u2019s updates hit AI, edge computing, cloud-native security, and open network standards.\n\n\ud83e\udde0 What does it really take to scale AI across cloud-native platforms?\n\ud83d\udce1 How are new open APIs reshaping industries?\n\ud83d\udd10 Why is security top-of-mind for major open-source projects?\n\u26a1 And where is open-source innovation quietly changing the game?\n\n\ud83d\udcfa Catch all the biggest moves in just 60 seconds \u2014 watch this week\u2019s LF Quick Hits! \n\n#LFQuickHits #OpenSource #CloudNative #EdgeComputing #AI #Cybersecurity",
+        "id": 2555521,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=xbTwCwYIECw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/xbTwCwYIECw/hqdefault.jpg",
+        "title": "This Week in Open Source: AI, Security, Cloud Updates",
+        "vote": 0
+    }
+]

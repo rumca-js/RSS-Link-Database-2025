@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-29T16:40:41.653477+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-29T15:50:55+00:00",
+        "description": "<p>Senate Democrats had a legislative path to shield journalists and their sources from surveillance and subpoenas. They didn\u2019t act.</p>\n<p>The post <a href=\"https://theintercept.com/2025/04/29/press-act-trump-doj-journalists-leaks-subpoenas/\">Democrats Had a Shot at Protecting Journalists From Trump. They Blew It.</a> appeared first on <a href=\"https://theintercept.com\">The Intercept</a>.</p>",
+        "id": 2557666,
+        "language": "en-US",
+        "link": "https://theintercept.com/2025/04/29/press-act-trump-doj-journalists-leaks-subpoenas",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 347,
+        "source_url": "https://theintercept.com/feed/?lang=en",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://theintercept.com/wp-content/uploads/2024/12/GettyImages-1228301579-e1733920772539.jpg",
+        "title": "Democrats Had a Shot at Protecting Journalists From Trump. They Blew It.",
+        "vote": 0
+    }
+]

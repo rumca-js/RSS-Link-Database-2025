@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-29T02:22:56.856845+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-29T01:11:29+00:00",
+        "description": "SID Display Week (DW) 2025 is coming to San Jose, CA, May 11\u201316. My last two articles discussed LCOS technology I saw at DW 2024 and MicroLEDs for AR at DW 2024. This article will concentrate on Micro-OLED (also known as OLEDs on Silicon), which could be used in optics-see-through (OST) Augmented Reality (AR) or Virtual Reality (VR) headsets.",
+        "id": 2551519,
+        "language": "en-US",
+        "link": "https://kguttag.com/2025/04/28/sid-display-week-2024-micro-oled-and-optics/?utm_source=rss&utm_medium=rss&utm_campaign=sid-display-week-2024-micro-oled-and-optics",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 487,
+        "source_url": "https://www.kguttag.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "SID Display Week 2024 \u2013 Micro-OLED and Optics",
+        "vote": 0
+    }
+]
