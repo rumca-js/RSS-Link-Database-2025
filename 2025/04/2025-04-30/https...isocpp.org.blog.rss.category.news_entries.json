@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-30T23:31:18.625928+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-30T23:12:22+00:00",
+        "description": "<p>\n\t<img alt=\"cpp_logo.png\" src=\"https://isocpp.org/files/img/cpp_logo.png\" style=\"width: 250px; margin: 10px; float: right; height: 281px;\" /></p>\n<p>\n\tThe annual global C++ developer survey is now open. As the name suggests, it&#39;s short:</p>\n<blockquote>\n\t<h2>\n\t\t<a href=\"https://standardcpp.typeform.com/2025-dev-survey\">2025 Annual C++ Developer Survey \"Lite\"</a></h2>\n</blockquote>\n<p>\n\tPlease take <strong>10 minutes </strong>or so to participate! A summary of the results, including aggregated highlights of common answers in the write-in responses, will be posted publicly here on isocpp.org and shared with the C++ standardization committee participants to help inform C++ evolution.</p>\n<p>\n\tThe survey closes in one week.</p>\n<p>\n\t<em><strong>Thank you </strong></em>for participating and helping to inform our committee and community!</p>",
+        "id": 2569833,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/04/2025-annual-cpp-developer-survey-lite",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "2025 Annual C++ Developer Survey &quot;Lite&quot;",
+        "vote": 0
+    }
+]

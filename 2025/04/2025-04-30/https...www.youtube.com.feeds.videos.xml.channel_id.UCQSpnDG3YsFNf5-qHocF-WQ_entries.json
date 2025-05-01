@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-30T16:00:43.965337+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-30T15:13:17+00:00",
+        "description": "It's actually important, but you wouldn't think so \ud83e\udd28\n\u21d2 Become a channel member for special emojis, early videos, and more! Check it out here: https://www.youtube.com/ThioJoe/join\n\n\u25bc Time Stamps: \u25bc\n00:00 - Intro\n1:15 - Why Did They Add The Folder?\n2:26 - They Didn\u2019t Think This Through\n3:03 - You Can\u2019t Simply Recreate it Yourself\n4:29 - A Secondary Vulnerability\n5:47 - What The Patch Does\n7:00 - Quick Recap\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/thiojoe\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 2566466,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=2_HsFuPHHLw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/2_HsFuPHHLw/hqdefault.jpg",
+        "title": "Don't Delete This Weird New Windows Folder (inetpub)",
+        "vote": 0
+    }
+]

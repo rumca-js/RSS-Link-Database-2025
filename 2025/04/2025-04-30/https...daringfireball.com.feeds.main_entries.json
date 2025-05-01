@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-30T21:16:15.904946+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-30T20:37:28+00:00",
+        "description": "<p>Craig Mod returns to the show to discuss his splendid new book, <em><a href=\"\">Things Become Other Things</a></em>. Other topics include creating with AI tools (including programming), social media permanence vs. ephemerality, and more.</p>\n\n<p><audio\n    src = \"https://traffic.libsyn.com/secure/daringfireball/thetalkshow-421-craig-mod.mp3\"\n    controls\n    preload = \"none\"\n/></p>\n\n<p><strong>Sponsored by:</strong></p>\n\n<ul>\n<li><a href=\"https://dekaf.com/df\">Dek\u00e1f Coffee Roasters</a>: You won\u2019t believe it\u2019s decaf. That\u2019s the point. 30% off with code: DF.</li>\n<li><a href=\"https://squarespace.com/talkshow\">Squarespace</a>: Make your next move. Use code <strong>talkshow</strong> for 10% off your first order.</li>\n<li><a href=\"https://www.notion.com/\">Notion</a>: Try the powerful, easy-to-use Notion AI today.</li>\n<li><a href=\"https://workos.com/\">WorkOS</a>: The modern identity platform for B2B SaaS\u2009\u2014\u2009free up to 1 million monthly active users.</li>\n</ul>\n\n<div>\n<a  title=\"Permanent ",
+        "id": 2568997,
+        "language": null,
+        "link": "https://daringfireball.net/thetalkshow/2025/04/30/ep-421",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Talk Show: \u2018The Ratchet of Flippancy\u2019",
+        "vote": 0
+    }
+]

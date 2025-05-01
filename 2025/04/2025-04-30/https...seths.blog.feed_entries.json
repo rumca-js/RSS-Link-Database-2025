@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-30T09:55:54.356902+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-30T09:03:00+00:00",
+        "description": "The ideas aren&#8217;t uncomfortable, we are. You don&#8217;t have to like the weather to acknowledge that it&#8217;s raining.",
+        "id": 2563334,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/04/uncomfortable-ideas",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Uncomfortable ideas",
+        "vote": 0
+    }
+]

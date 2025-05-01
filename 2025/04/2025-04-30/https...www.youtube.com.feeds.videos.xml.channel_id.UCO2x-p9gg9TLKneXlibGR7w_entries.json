@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Snazzy Labs",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-30T19:05:51.800080+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-30T18:31:31+00:00",
+        "description": "How good has Tesla FSD gotten\u2014and can you use a 7-year-old smartphone glued to your windshield to accomplish the same?\nRingConn Gen 2 on Amazon (use code SNAZZYLA) - https://www.amazon.com/dp/B0DG2S6GC1/\nRingConn Gen 2 official (use code SNAZZYLA) - https://ringconn.com/products/ringconn-gen-2?variant=48162846769460\n\nFollow Snazzy Labs on Twitter - https://twitter.com/snazzylabs  \nFollow me on Bluesky - https://snazzy.fm/UW\nFollow me on Threads - https://snazzy.fm/XV\nFollow me on Mastodon - https://snazzy.fm/NN\nFollow me on Instagram - https://instagram.com/snazzyq\n\nDiscover the current state of autonomous driving technology as we compare Tesla's Full Self-Driving capabilities with advanced driver assistance systems from Rivian, KIA, and the innovative open-source Openpilot solution. This comprehensive review explores highway driving assist features, lane-keeping capabilities, and autonomous navigation across multiple vehicles, highlighting both the progress and limitations of self-dr",
+        "id": 2568153,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=GY8ruVimG8M",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 307,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCO2x-p9gg9TLKneXlibGR7w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/GY8ruVimG8M/hqdefault.jpg",
+        "title": "Make Your Car Self-Driving With an Old Smartphone!",
+        "vote": 0
+    }
+]

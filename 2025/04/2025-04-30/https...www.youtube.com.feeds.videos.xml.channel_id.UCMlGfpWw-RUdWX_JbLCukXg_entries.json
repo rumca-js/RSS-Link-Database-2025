@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-30T15:47:47.391667+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-30T14:07:03+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Customizing Compilation Error Messages Using C++ Concepts - Patrick Roberts - CppCon 2024\n---\n\nNamed concepts in C++20 are a leap forward in producing more readable compilation error messages, but this talk shares a technique for pushing the limits even further on error message readability by using compile-time string processing.\n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nPatrick Roberts\n\nPatrick is a licensed Professional Electrical Engineer with experience across various industries, including embedded systems, finance, and most recently, AI. He loves testing the limits of modern C++ language capabilities, and contributing to open-source projects.\n---\n\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosphere designed to help attendees learn from each other, meet in",
+        "id": 2565860,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=VluTsanWuq0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VluTsanWuq0/hqdefault.jpg",
+        "title": "Lightning Talk: Customizing Compilation Error Messages Using C++ Concepts - Patrick Roberts",
+        "vote": 0
+    }
+]

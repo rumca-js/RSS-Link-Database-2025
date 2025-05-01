@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-30T22:06:03.431181+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-30T21:00:09+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/9BvvUsuq5zw\" width=\"480\" alt=\"thumbnail\" title=\"Forced Software License Changes Never Work\" /></p>Forced license changes don't usually play out well and that's what happened in the Redis situation a year back but I realized that I'd never actually gone and covered out, considering Arch dropped the package in favor of Valkey recently, now is as good a time as any.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Arch News: https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/<br />License PR: https://github.com/redis/redis/pull/13157<br />RSAL: https://redis.io/legal/rsalv2-agreement/<br />SSPL: https://redis.io/legal/server-side-public-license-sspl/<br />Blog Post:",
+        "id": 2569217,
+        "language": "en",
+        "link": "https://odysee.com/forced-software-license-changes-never:94f104882aafb606fdda846481cb2718ae1fd979",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Forced Software License Changes Never Work",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Lon.TV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-30T23:20:39.429585+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-30T22:45:01+00:00",
+        "description": "Sign up for a Plex Pass: http://lon.tv/plexpass (compensated affiliate link) See my previous subtitles videos: https://www.youtube.com/playlist?list=PLCZHp4d1HnIvhjAAuPk54Nwl-gPVIeLlE - Plex recently added an auto-sync feature to their subtitle system to align subtitles that tend to \"drift\" over time. We'll look at that and I'll also demo a way you can make your own subtitles automatically with on-device AI. See more Plex: https://www.youtube.com/playlist?list=PLCZHp4d1HnIvqJPAmMooCKOHieLdi3I7o and subscribe! http://lon.tv/s\n\nPlex Auto-Sync Support Page: https://support.plex.tv/articles/auto-sync-subtitles/\n\nVIDEO INDEX:\n00:00 - Intro\n00:57 - Manual Subtitle Time Adjustments\n02:19 - Auto Sync Subtitles\n04:15 - Auto-sync setup\n06:36 - Analyizing media for auto-sync\n07:05 - Enabling auto-sync on playback\n09:01 - Generating Subtitles with Vibe - Free On Device AI Transcription\n\nVisit my Blog! https://blog.lon.tv\n\nSubscribe to my email lists! \nWeekly Breakdown of Posted Videos:  - https:/",
+        "id": 2569701,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Wek3hYRmX1A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 199,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCymYq4Piq0BrhnM18aQzTlg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/Wek3hYRmX1A/hqdefault.jpg",
+        "title": "More Plex Subtitles! Auto-Sync, Free On-Device AI Subs, and Manual Timing Offsets",
+        "vote": 0
+    }
+]

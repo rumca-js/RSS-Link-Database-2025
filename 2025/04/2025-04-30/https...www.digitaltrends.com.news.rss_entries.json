@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-30T22:01:21.946415+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-30T22:01:21+00:00",
+        "description": "When is Prime Day? Do you need to be a Prime member to shop in it? We've got the answers.",
+        "id": 2569216,
+        "language": "en-US",
+        "link": "https://www.digitaltrends.com/dtdeals/prime-day-2025-announced-dates-memberships-deals-and-more",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 94,
+        "source_url": "https://www.digitaltrends.com/news/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Amazon Prime Day 2025 day announced for July \u2014 here\u2019s what we know so far",
+        "vote": 0
+    }
+]

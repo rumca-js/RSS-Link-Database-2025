@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-04-30T20:03:14.429244+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-04-30T20:03:14+00:00",
+        "description": "Twelve thousand liters of milk from donors are collected and processed each year in the basement of Necker Hospital. How is this precious liquid obtained, treated and distributed? Le Monde visited the regional milk bank of the Paris region with its head, neonatologist, Virginie Rigourd.",
+        "id": 2568392,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/health/article/2025/04/30/inside-the-breast-milk-factory-saving-premature-babies-at-paris-children-s-hospital_6740781_14.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/04/23/989/0/6720/3360/644/322/60/0/cc8e1e5_sirius-fs-upload-1-uun7zg8nbzpz-1745409949862-250415jbalague-lemonde-lactarium-020.jpg",
+        "title": "Inside the breast milk factory saving premature babies at Paris children's hospital",
+        "vote": 0
+    }
+]
