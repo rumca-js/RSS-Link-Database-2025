@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-01T14:33:03.020705+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-01T14:07:07+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: How Far Should You Indent Your Code?  The Number Of The Counting - Dave Steffen - CppCon 2024\n---\n\nCoding Standards have to say something about how we indent our code.  Is there a definitive answer?\n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nDave Steffen\n \nDave Steffen completed his Ph.D. in theoretical physics at Colorado State University in 2003, and promptly changed course for a career in software engineering. He has worked primarily in defence and aerospace, and is currently a technical lead at SciTec Inc.'s Boulder office. For reasons unknown, he has turned out to be the expert, champion, and occasional street-corner evangelist for unit testing at most of the companies he has ever worked at.\n---\n\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosphere designed",
+        "id": 2574282,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=gybQtWGvupM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gybQtWGvupM/hqdefault.jpg",
+        "title": "Lightning Talk: How Far Should You Indent Your Code? - The Number Of The Counting - Dave Steffen",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-01T11:24:36.029984+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-01T11:00:14+00:00",
+        "description": "Born on 8 June 1908 in southern Brazil, Sister Inah Canabarro Lucas dedicated her life to God and teaching.",
+        "id": 2572932,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cr4nv0g15xyo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa81/live/e75432e0-2666-11f0-af27-090e238d1774.jpg",
+        "title": "Football-loving Brazilian nun, world's oldest person, dies at 116",
+        "vote": 0
+    }
+]

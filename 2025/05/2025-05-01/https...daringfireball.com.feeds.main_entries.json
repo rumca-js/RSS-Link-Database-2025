@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-01T03:47:53.878049+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-01T02:46:59+00:00",
+        "description": "<p>I\u2019m linking <a href=\"https://www.techmeme.com/250430/p55#a250430p55\">here to Techmeme\u2019s roundup of news coverage and commentary</a>, but I highly recommend you start by reading <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.cand.364265/gov.uscourts.cand.364265.1508.0_2.pdf\">Gonzalez Rogers\u2019s 80-page decision</a>. It is excoriating. I\u2019ve read few legal decisions quite like it. But it\u2019s also incredibly cogent and plainly written.</p>\n\n<p>From the start:</p>\n\n<blockquote>\n  <p>To summarize: <em>One</em>, after trial, the Court found that Apple\u2019s 30\npercent commission \u201callowed it to reap supracompetitive operating\nmargins\u201d and was not tied to the value of its intellectual\nproperty, and thus, was anticompetitive. Apple\u2019s response: charge\na <em>27 percent commission</em> (again tied to nothing) on off-app\npurchases, where it had previously charged nothing, and extend the\ncommission for a period of seven days after the consumer\nlinked-out of the app. Apple\u2019s goal: maintain ",
+        "id": 2570883,
+        "language": null,
+        "link": "https://daringfireball.net/2025/04/gonzales_rogers_apple_app_store_ruling",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "\u2605 Judge Yvonne Gonzalez Rogers Rules, in Excoriating Decision, That Apple Violated Her 2021 Court Order Regarding App Store Anti-Steering Provisions",
+        "vote": 0
+    }
+]

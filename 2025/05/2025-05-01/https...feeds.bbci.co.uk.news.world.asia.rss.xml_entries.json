@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-01T15:37:27.830863+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-01T14:59:14+00:00",
+        "description": "Ahead of Australia's election, the BBC asked voters about the increasingly fraught US-China relationship.",
+        "id": 2574905,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/videos/ckg2vglzx73o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 522,
+        "source_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc35/live/d77dd5c0-2651-11f0-8c66-ebf25fc2cfef.jpg",
+        "title": "Watch: If you were Australia PM how would you handle the US and China?",
+        "vote": 0
+    }
+]

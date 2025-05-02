@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-01T09:20:24.403198+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-01T09:03:00+00:00",
+        "description": "Has a strategy behind it. Often unsaid, undiscussed and hidden. It&#8217;s easier to simply play with the tactic of the moment. Tell me what your tactic is trying to accomplish and I&#8217;ll be halfway to understanding what your strategy is. But it makes a lot more sense to announce your strategy first, and then invite [&#8230;]",
+        "id": 2572207,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/05/every-tactic",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Every tactic\u2026",
+        "vote": 0
+    }
+]

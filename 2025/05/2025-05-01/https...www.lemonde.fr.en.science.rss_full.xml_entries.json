@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-01T12:18:05.143154+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-01T12:18:04+00:00",
+        "description": "By deciding on drastic federal spending cuts and promoting his opinions bordering on the far right, the billionaire has compromised his reputation and fortune.",
+        "id": 2573210,
+        "language": "en-US",
+        "link": "https://www.lemonde.fr/en/international/article/2025/05/01/musk-loses-much-but-not-all-by-working-with-trump_6740805_4.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 190,
+        "source_url": "https://www.lemonde.fr/en/science/rss_full.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.lemde.fr/2025/04/07/481/0/4953/2476/644/322/60/0/e17e76d_ftp-import-images-1-hjsgtrirdojo-2025-04-07t212948z-1707018581-rc2jscapdxzw-rtrmadp-3-usa-trump-workers.JPG",
+        "title": "Musk loses much (but not all) by working with Trump",
+        "vote": 0
+    }
+]

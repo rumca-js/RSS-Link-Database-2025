@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-01T17:55:44.151955+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-01T17:02:33+00:00",
+        "description": "<p>Anthropic just launched &#8216;Integrations&#8217; for Claude that enables the AI to talk directly to your favourite daily work tools. In addition, the company has launched a beefed-up &#8216;Advanced Research&#8217; feature for digging deeper than ever before. Starting with Integrations, the feature builds on a technical standard Anthropic released last year (the Model Context Protocol, or [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/claude-integrations-anthropic-adds-ai-favourite-work-tools/\">Claude Integrations: Anthropic adds AI to your favourite work tools</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 2576249,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/claude-integrations-anthropic-adds-ai-favourite-work-tools",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Claude Integrations: Anthropic adds AI to your favourite work tools",
+        "vote": 0
+    }
+]

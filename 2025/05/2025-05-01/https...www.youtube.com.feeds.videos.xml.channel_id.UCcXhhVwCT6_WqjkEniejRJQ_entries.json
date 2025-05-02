@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Wintergatan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-01T14:25:47.429041+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-01T14:00:41+00:00",
+        "description": "Support Wintergatan:\n- Patreon \u25ba https://patreon.com/Wintergatan\n- Youtube membership \u25ba https://bit.ly/4cQVM7C\n\nMarble Machine Engineering Discord Server:\nhttps://discord.com/invite/7aSFJA6bkH\n\nVideo edited By Martin and Hannes from the Trainerds YouTube Channel:\nhttps://www.youtube.com/c/TRAINERDS\n\n\u2014\nPATREON \u25ba https://patreon.com/Wintergatan\nYOUTUBE MEMBERSHIP \u25ba https://bit.ly/4cQVM7C\nWINTERGATAN RECORDS \u25ba http://www.wintergatan.net/#/shop\nSPOTIFY \u25ba http://bit.ly/2oKxXWd \nITUNES \u25ba http://apple.co/2ntWNsZ \nENGINEERING DISCORD \u25ba https://discord.com/invite/7aSFJA6bkH\nCOMMUNITY DISCORD \u25ba https://discord.gg/wintergatan\n\u2014",
+        "id": 2574164,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=RikB-LvD-v0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 393,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcXhhVwCT6_WqjkEniejRJQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RikB-LvD-v0/hqdefault.jpg",
+        "title": "Mega Man Music on Homemade Modulin!",
+        "vote": 0
+    }
+]

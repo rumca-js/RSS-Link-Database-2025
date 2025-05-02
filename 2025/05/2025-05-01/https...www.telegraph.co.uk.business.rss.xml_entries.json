@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-01T07:57:32.222408+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-01T07:20:56+00:00",
+        "description": "US has \u2018reached out\u2019 to China for talks on tariffs",
+        "id": 2571747,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2025/05/01/trump-tariffs-us-china-talks-ftse-100-markets-latest-news",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "US has \u2018reached out\u2019 to China for talks on tariffs",
+        "vote": 0
+    }
+]

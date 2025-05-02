@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-01T13:30:31.605015+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-01T11:01:34+00:00",
+        "description": "Ready to become a certified Architect on Cloud Pak for Data? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/Bdn4Bm\n\nLearn more about AI Analytics here \u2192 https://ibm.biz/Bdn4BG\n\n\ud83d\ude80 Slow-running queries? Ellie Najewicz shows how to optimize database performance for AI-driven analytics and real-time insights! Learn query tuning, indexing, and partitioning techniques to reduce costs and handle massive datasets efficiently. Master essential skills for modern data applications. \ud83d\udcca\u2728\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/Bdn4Bb\n\n#queryoptimization #aianalytics #bigdata",
+        "id": 2573736,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=watwW4Hwyyw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/watwW4Hwyyw/hqdefault.jpg",
+        "title": "Optimize Data Queries for AI, Performance, & Real-Time Insights",
+        "vote": 0
+    }
+]

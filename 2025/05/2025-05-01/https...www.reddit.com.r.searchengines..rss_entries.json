@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-01T01:26:24.072161+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-01T00:50:25+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/searchengines/comments/1kbw9gy/another_periodic_suggestion_to_try_just_try/\"> <img src=\"https://external-preview.redd.it/AsGjifbVNPKHCKD0Sdc1D0i3Fxu9ofYMa22SwxVCzP8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=391339775e582cf6e391669a639a0bf684e7a5e9\" alt=\"Another Periodic Suggestion to Try, Just Try, Switching to Kagi for Search\" title=\"Another Periodic Suggestion to Try, Just Try, Switching to Kagi for Search\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/wewewawa\"> /u/wewewawa </a> <br/> <span><a href=\"https://daringfireball.net/2025/04/try_switching_to_kagi\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/searchengines/comments/1kbw9gy/another_periodic_suggestion_to_try_just_try/\">[comments]</a></span> </td></tr></table>",
+        "id": 2570319,
+        "language": null,
+        "link": "https://www.reddit.com/r/searchengines/comments/1kbw9gy/another_periodic_suggestion_to_try_just_try",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 463,
+        "source_url": "https://www.reddit.com/r/searchengines/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/AsGjifbVNPKHCKD0Sdc1D0i3Fxu9ofYMa22SwxVCzP8.jpg?width=640&crop=smart&auto=webp&s=391339775e582cf6e391669a639a0bf684e7a5e9",
+        "title": "Another Periodic Suggestion to Try, Just Try, Switching to Kagi for Search",
+        "vote": 0
+    }
+]

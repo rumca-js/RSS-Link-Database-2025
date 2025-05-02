@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-01T16:40:57.039362+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-01T16:08:14+00:00",
+        "description": "In this Django crash course for beginners, you'll discover what makes Django powerful, how to set up your environment, and how to build your very first Django app. @code-with-abel will walk you through the essentials of models, views, and templates, giving you a solid foundation for future projects. By the end, you'll be ready to start creating your own dynamic web applications with Django.\n\n\ud83d\udcbb Starter Files: https://drive.google.com/file/d/1ksZM-f4jEZU1PZD5PqKucWT_bscVIcsJ/view\n\n\u2b50\ufe0f Download Links \u2b50\ufe0f\nPython: https://www.python.org/downloads\nVScode: https://code.visualstudio.com/download\nMySQL: https://dev.mysql.com/downloads/installer/\n\n\u2764\ufe0f Try interactive Python courses we love, right in your browser: https://scrimba.com/freeCodeCamp-Python (Made possible by a grant from our friends at Scrimba)\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Intro\n\u2328\ufe0f (0:02:56) Django-admin & manage.py\n\u2328\ufe0f (0:04:40) Creating Apps\n\u2328\ufe0f (0:05:47) Introduction to Web Frameworks\n\u2328\ufe0f (0:06:23) MVT\n\u2328\ufe0f (0:07:36) Views\n\u2328\ufe0f (0:15:38) R",
+        "id": 2575416,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=0roB7wZMLqI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/0roB7wZMLqI/hqdefault.jpg",
+        "title": "Django Crash Course \u2013 Python Web Framewrok",
+        "vote": 0
+    }
+]

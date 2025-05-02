@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jordan B Peterson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-01T22:16:03.362603+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-01T21:00:27+00:00",
+        "description": "Dr. Jordan B. Peterson sits down for a candid discussion with Dr. Mehmet Oz, discussing the toxified food environment within the United States\u2014pointing directly to its causes\u2014and exploring not just possible, but immediate routes for change. These include better governmental oversight, but also the implementation of new technologies such as AI.\n\nDr. Mehmet Oz, newly appointed by President Donald Trump as the 17th Administrator of the Centers for Medicare and Medicaid Services (CMS), is a cardiothoracic surgeon, professor emeritus at Columbia University, and former leader of the heart institute at New York Presbyterian Medical Center, known for innovations like the Mitraclip and over 400 publications in heart surgery, health policy, and complementary medicine. He gained national fame through The Dr. Oz Show, winning nine Daytime Emmys and authoring several New York Times bestsellers, before becoming the 2022 Republican nominee for U.S. Senate in Pennsylvania. A Harvard and UPenn MD/MBA ",
+        "id": 2578217,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=WHQAMGqXGNk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 167,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL_f53ZEJxp8TtlOkHwMV9Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WHQAMGqXGNk/hqdefault.jpg",
+        "title": "\u201cYou\u2019re Not Gaining Weight Because You\u2019re Lazy\u201d | Dr. Mehmet Oz | EP 543",
+        "vote": 0
+    }
+]
