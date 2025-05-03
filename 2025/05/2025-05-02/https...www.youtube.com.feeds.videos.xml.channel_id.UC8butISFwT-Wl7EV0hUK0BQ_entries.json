@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-02T17:36:21.468184+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-02T16:17:10+00:00",
+        "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Shashi Lo. He's a software engineer at Microsoft. He grew up the child of refugees. He wanted to start earning money and build his family so he abandoned his art school degree and taught himself how to program.\n\nHe immediately hustled to land freelance development clients \u2013 something he still does today on top of his full time job and raising his 4 kids.\n\nWe talk about:\n- Making ends meet doing freelance work\n- How to bootstrap your reputation toward getting a job in big tech\n- Mistakes he sees careers changers make\n- The pros and cons of working in big tech VS working at developer agencies\n\nSupport for this podcast comes from a grant from Wix Studio. Wix Studio provides developers tools to rapidly build websites with everything out-of-the-box, then extend, replace, and break boundaries with code. Learn more at https://wixstudio.com.\n\nSupport also comes from the 11,384 kind folks who support freeCodeC",
+        "id": 2584675,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=6JnddhxL6vE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/6JnddhxL6vE/hqdefault.jpg",
+        "title": "From Art School Drop-out to Microsoft Engineer with Shashi Lo [Podcast #170]",
+        "vote": 0
+    }
+]

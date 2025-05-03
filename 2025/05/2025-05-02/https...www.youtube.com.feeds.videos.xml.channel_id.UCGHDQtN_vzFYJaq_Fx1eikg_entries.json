@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Qxir",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-02T21:47:39.838217+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-02T20:38:22+00:00",
+        "description": "Was the nuclear mine a good idea? Maybe, but its development revealed some issues...\n\n\n\"Blue Peacock was designed after the free-falling Blue Danube and weighed 7.2 long tons (7,300 kg). A total of two firing units were built: the casing and the warhead. Due to its large steel casing, it had to be tested outdoors in a flooded gravel pit near Sevenoaks in Kent. Since the bomb would be unattended, anti-tampering devices were also used. The casing was pressurized, and pressure and tilt switches were added. The warhead could be detonated via three methods: a wire located three miles (4.8 km) away, an eight-day timer, or anti-tampering devices. Once armed, Blue Peacock would detonate ten seconds after being moved, if the casing lost pressure, or if it was filled with water.\"\n\nMore on Wikipedia: \nhttps://en.wikipedia.org/wiki/Blue_Peacock\n\nJoin membership: https://www.youtube.com/channel/UCGHDQtN_vzFYJaq_Fx1eikg/join\nSecond Channel: https://www.youtube.com/channel/UCt93hxFmjppL5nLRAX94UrA\nM",
+        "id": 2586378,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Mx8Hv1ResAU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 447,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGHDQtN_vzFYJaq_Fx1eikg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/Mx8Hv1ResAU/hqdefault.jpg",
+        "title": "The Many Design Flaws of the Atomic Landmine | Tales From the Bottle",
+        "vote": 0
+    }
+]

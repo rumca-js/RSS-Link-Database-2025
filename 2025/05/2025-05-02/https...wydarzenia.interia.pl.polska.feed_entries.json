@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-02T13:32:49.402146+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-02T13:30:04+00:00",
+        "description": null,
+        "id": 2582723,
+        "language": "pl-PL",
+        "link": "https://wydarzenia.interia.pl/kraj/news-emerytury-czerwcowe-do-ponownego-przeliczenia-kiedy-nastapia,nId,21398580",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 401,
+        "source_url": "https://wydarzenia.interia.pl/polska/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Emerytury czerwcowe do ponownego przeliczenia. Kiedy nast\u0105pi\u0105 zmiany?",
+        "vote": 0
+    }
+]

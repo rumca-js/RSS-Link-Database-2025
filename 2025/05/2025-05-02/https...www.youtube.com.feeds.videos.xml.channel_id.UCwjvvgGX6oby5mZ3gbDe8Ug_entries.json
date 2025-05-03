@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "China Insights-SOHTV",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-02T23:21:46.964652+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-02T23:00:48+00:00",
+        "description": "China's youth are collapsing\u2014literally. This video uncovers the heartbreaking stories behind sudden deaths among young workers and influencers in China. From 996 work schedules to unpaid overtime, toxic hustle culture is destroying lives. Ride-hailing drivers, livestreamers, and white-collar employees are dying from exhaustion, while companies deny responsibility. Is this the price of \u201csuccess\u201d?",
+        "id": 2587049,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=qEZ7CCNA0-Y",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 68,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwjvvgGX6oby5mZ3gbDe8Ug",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/qEZ7CCNA0-Y/hqdefault.jpg",
+        "title": "TOO YOUNG TO DIE, TOO TIRED TO LIVE: THE COST OF SUCCESS IN CHINA",
+        "vote": 0
+    }
+]

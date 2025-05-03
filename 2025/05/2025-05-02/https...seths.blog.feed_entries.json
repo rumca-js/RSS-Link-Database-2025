@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-02T09:11:12.460827+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-02T08:36:00+00:00",
+        "description": "Forward motion is an asset, a skill and a job title. Elevators used to need elevator operators. They didn&#8217;t go anywhere unless someone got on and announced they wanted to go somewhere. Initiative, desire and being willing to take responsibility are powerful because most of us don&#8217;t care enough to bring them to the table. [&#8230;]",
+        "id": 2580920,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/05/the-biggest-thing-you-bring-to-the-project-going-forward-is-forward",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The biggest thing you bring to the project is forward",
+        "vote": 0
+    }
+]

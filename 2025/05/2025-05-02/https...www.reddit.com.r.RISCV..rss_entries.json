@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-02T19:55:29.444351+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-02T19:12:25+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I have a machine-mode only firmware running on RV32 core with M and U-modes implemented. It also has PMP which we currently use while locking relevant regions. However the locking is not desirable because in some cases we want to reload the FW without system reset, which is problematic as we need to overwrite otherwise read-only regions and also the memory map might change and the regions might need to be reconfigured.</p> <p>One way of *partially* solving the problem I was thinking of is to use the MPRV mechanism to make the machine mode to pretend to be user-mode for memory load/store accesses (partial, because it does not solve the problem of data memory being executable). If I understand correctly the documentation, as long as `mstatus.MPRV=1` and `mstatus.MPP=0` it will do just that. However there is a catch if we have exceptions or interrupts. On exception/interrupt entry the `MPP` will be set to 0x3, and it must be 0x3 when `mret` is executed. ",
+        "id": 2585845,
+        "language": null,
+        "link": "https://www.reddit.com/r/RISCV/comments/1kd96x0/using_mstatusmprv_mechanism_for_every_memory",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 471,
+        "source_url": "https://www.reddit.com/r/RISCV/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Using mstatus.MPRV mechanism for *every* memory load/store in M-mode run firmware",
+        "vote": 0
+    }
+]

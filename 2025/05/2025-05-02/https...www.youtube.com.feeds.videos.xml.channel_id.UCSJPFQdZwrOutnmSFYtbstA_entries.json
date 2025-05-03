@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Critical Drinker",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-02T17:30:42.317740+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-02T17:00:26+00:00",
+        "description": "Is Thunderbolts yet another \"return to form\" for the MCU, or just another forgettable piece of Marvel slop with delusions of exploring deeper ideas? Let's find out.",
+        "id": 2584586,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=CpHwD-8hb1c",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 334,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSJPFQdZwrOutnmSFYtbstA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/CpHwD-8hb1c/hqdefault.jpg",
+        "title": "Thunderbolts* Gave Me The Marvel Cringe",
+        "vote": 0
+    }
+]

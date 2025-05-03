@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-02T14:23:46.563663+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-02T14:07:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nChplx - Bridging Chapel and C++ for Enhanced Asynchronous Many-Task Programming - Shreyas Atre - CppCon 2024\n---\n\nChapel is a well-established parallel programming language and runtime system utilizing the PGAS model. However, with the rapid evolution of C++ and the AGAS programming model in HPX, the development landscape continues to shift to a better future. Chplx aims to bridge this gap by offering a seamless integration between Chapel and C++, providing a fully customizable and CMake-compatible solution that enhances flexibility in modern parallel computing environments.\n\n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nShreyas Atre\n\nI am Shreyas, a masters in computer science student at Louisiana State University. I work with Hartmut Kaiser and the STE||AR Group. I was a summer intern at Cuda Core C++ Libraries ,NVidia. I love C++, parallelism, concurrency and in general low level systems programming.\n---\n\n\nCppCon is the annual, week-lon",
+        "id": 2583030,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=aOKqyt00xd8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/aOKqyt00xd8/hqdefault.jpg",
+        "title": "Lightning Talk: Chplx - Bridging Chapel and C++ for Enhanced Asynchronous Many-Task Programming",
+        "vote": 0
+    }
+]

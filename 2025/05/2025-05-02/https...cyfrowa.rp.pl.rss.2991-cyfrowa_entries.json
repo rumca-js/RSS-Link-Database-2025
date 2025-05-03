@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-02T17:27:40.463096+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-02T17:27:40+00:00",
+        "description": "Elektryczne samochody nikogo ju\u017c nie dziwi\u0105, pojawiaj\u0105 si\u0119 pierwsze elektryczne samoloty, ale wielki statek pasa\u017cerski? Australia zdumia\u0142a \u015bwiat.",
+        "id": 2584557,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/technologie/art42223671-to-najwiekszy-elektryczny-pojazd-na-swiecie-same-baterie-waza-250-ton",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "To najwi\u0119kszy elektryczny pojazd na \u015bwiecie. Same baterie wa\u017c\u0105 250 ton",
+        "vote": 0
+    }
+]

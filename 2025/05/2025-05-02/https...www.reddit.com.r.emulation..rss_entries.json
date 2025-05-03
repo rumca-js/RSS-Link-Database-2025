@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-02T13:32:48.219018+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-02T13:13:19+00:00",
+        "description": "<table> <tr><td> <a href=\"https://www.reddit.com/r/emulation/comments/1kd0mp3/bob_zed_whats_new_in_mame_0277/\"> <img src=\"https://external-preview.redd.it/A2___XTt9r8Xc1jFHB9R_o2OGwSpSo8uGz_lMK36hLY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ff097eafe3aa991a1f75b10d922249286be6c524\" alt=\"Bob Zed: What\u2019s new in MAME 0.277\" title=\"Bob Zed: What\u2019s new in MAME 0.277\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cuavas\"> /u/cuavas </a> <br/> <span><a href=\"https://www.youtube.com/watch?v=aPnfWaWPhJM\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/emulation/comments/1kd0mp3/bob_zed_whats_new_in_mame_0277/\">[comments]</a></span> </td></tr></table>",
+        "id": 2582721,
+        "language": null,
+        "link": "https://www.reddit.com/r/emulation/comments/1kd0mp3/bob_zed_whats_new_in_mame_0277",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 475,
+        "source_url": "https://www.reddit.com/r/emulation/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://external-preview.redd.it/A2___XTt9r8Xc1jFHB9R_o2OGwSpSo8uGz_lMK36hLY.jpg?width=320&crop=smart&auto=webp&s=ff097eafe3aa991a1f75b10d922249286be6c524",
+        "title": "Bob Zed: What\u2019s new in MAME 0.277",
+        "vote": 0
+    }
+]
