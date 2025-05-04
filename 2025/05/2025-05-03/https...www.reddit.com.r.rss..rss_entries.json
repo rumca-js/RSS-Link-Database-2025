@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-03T13:07:51.608388+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-03T12:37:40+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys,</p> <p>Just wondering if there&#39;s any way I can get near-instant notifications when new content pops up on an RSS feed? Either email notifications or an Android app the sends push notifications?</p> <p>The fastest sync/refresh interval I can find is 10 minutes. I want something that will check for new stuff at <em>least</em> once per minute. Is this a thing?</p> <p>Preferably something that&#39;s easy to set up rather than some weird GitHub thing if possible.</p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JumbledPileOfPerson\"> /u/JumbledPileOfPerson </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1kdrzas/instant_push_or_email_notifications/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1kdrzas/instant_push_or_email_notifications/\">[comments]</a></span>",
+        "id": 2589872,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1kdrzas/instant_push_or_email_notifications",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Instant push or email notifications?",
+        "vote": 0
+    }
+]

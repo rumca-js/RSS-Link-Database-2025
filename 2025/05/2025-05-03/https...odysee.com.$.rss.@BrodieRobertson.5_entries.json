@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-03T22:41:26.292957+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-03T21:00:39+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/fz6XJDq8fSI\" width=\"480\" alt=\"thumbnail\" title=\"Microsoft Goes To War With VSCode Forks\" /></p>Microsoft probably has never been a fan of VSCode forks, well now it's for true as they've decided to enforce there extension license on these forks blocking them from use them<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Extension: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools<br />Github: https://github.com/microsoft/vscode-cpptools/releases/tag/v1.24.5<br />Cursor Issue: https://github.com/getcursor/cursor/issues/2976<br />VSCodium Issue: https://github.com/VSCodium/vscodium/issues/2300<br />The Register Article: https://www.theregister.com/2025/04/24/microsoft_",
+        "id": 2592696,
+        "language": "en",
+        "link": "https://odysee.com/microsoft-goes-to-war-with-vscode-forks:1bb6753fa439e028e776fb417e8df59d5469b8e9",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Microsoft Goes To War With VSCode Forks",
+        "vote": 0
+    }
+]

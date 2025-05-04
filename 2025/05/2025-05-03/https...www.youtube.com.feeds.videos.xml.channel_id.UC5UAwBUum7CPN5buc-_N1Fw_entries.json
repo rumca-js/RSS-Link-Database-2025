@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Experiment",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-03T11:51:24.724632+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-03T10:38:02+00:00",
+        "description": "Head to https://squarespace.com/thelinuxexperiment to save 10% off your first purchase of a website or domain using code thelinuxexperiment\n\nGrab a brand new laptop or desktop running Linux: https://www.tuxedocomputers.com/en# https://www.youtube.com/watch?v=3d65Mnr8onE\n\n\n\ud83d\udc4f SUPPORT THE CHANNEL:\nGet access to:\n- a Daily Linux News show\n- a weekly patroncast for more thoughts\n- your name in the credits\n\nYouTube: https://www.youtube.com/@thelinuxexp/join\nPatreon: https://www.patreon.com/thelinuxexperiment\n\nOr, you can donate whatever you want:\nhttps://paypal.me/thelinuxexp\nLiberapay: https://liberapay.com/TheLinuxExperiment/\n\n\ud83d\udc55 GET TLE MERCH\nSupport the channel AND get cool new gear: https://the-linux-experiment.creator-spring.com/\n\nTimestamps:\n\n00:00 Intro\n00:26 Sponsor: SquareSpace\n01:45 KDE sprint proposes big changes\n05:17 KDE 3.5 lives on and gets an update\n07:03 Wikipedia will adopt AI\n09:17 OpenSUSE Leap 16 is a BIG change\n11:30 Firefox 138 adds a lot of stuff\n13:12 Firefox 139 ad",
+        "id": 2589465,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=zwlK5CqC3H8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 349,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zwlK5CqC3H8/hqdefault.jpg",
+        "title": "KDE planning big changes, Wikipedia adds AI, OpenSUSE leaps: Linux & Open Source News",
+        "vote": 0
+    }
+]

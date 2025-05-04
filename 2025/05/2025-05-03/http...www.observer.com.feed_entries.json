@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-03T19:47:46.654762+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-03T19:37:49+00:00",
+        "description": "As the art world braces for May\u2019s pivotal test of market confidence, Christie\u2019s, Sotheby\u2019s and Phillips are unveiling major consignments\u2014from a $70 million Giacometti to a luminous Rothko and 40 Lichtensteins\u2014aimed at reigniting collector appetites after a volatile year.",
+        "id": 2592066,
+        "language": "en",
+        "link": "https://observer.com/list/top-10-artworks-may-2025-auctions-christies-sothebys-phillips",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 243,
+        "source_url": "http://www.observer.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Ten Highlights From New York\u2019s Spring Marquee Auctions",
+        "vote": 0
+    }
+]

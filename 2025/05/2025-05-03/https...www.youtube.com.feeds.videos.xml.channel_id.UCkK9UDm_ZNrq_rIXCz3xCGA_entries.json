@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Lunduke Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-03T20:55:39.539373+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-03T20:13:05+00:00",
+        "description": "Adobe filed a fraudulent Copyright Claim (via YouTube) in order to silence critical reporting from The Lunduke Journal. Now Adobe has 10 days to take legal action.\n\nOne of the videos Adobe filed a fraudulent claim against (containing statements from Adobe's CEO and CPO on ending DEI policies):\nhttps://x.com/LundukeJournal/status/1914160985977335942\n\nMore from The Lunduke Journal:\nhttps://lunduke.com/",
+        "id": 2592337,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=QXXaThJo_YY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 616,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QXXaThJo_YY/hqdefault.jpg",
+        "title": "Counter Claim Filed Against Adobe's Efforts to Silence Journalist",
+        "vote": 0
+    }
+]

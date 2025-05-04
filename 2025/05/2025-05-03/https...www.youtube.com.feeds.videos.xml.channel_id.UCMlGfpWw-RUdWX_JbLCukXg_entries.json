@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-03T15:19:31.600194+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-03T14:07:04+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Using PMR in C++ Embedded Systems for Functional Safety - Scott Dixon - CppCon 2024\n---\n\nDynamic memory is often disallowed in high-assurance, c++ embedded systems but, when examining the reasons why, C++17 Polymorphic Memory Resources emerge as an unexpected solution to enable the use of C++ standard library constructs for such projects. My talk will explore how PMR can be used to meet functional safety requirements and to build embedded systems that are robust, performant, and testable.\n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nScott Dixon\n\nI'm a Principal Software Engineer at Amazon.com with 25 years of experience, 20 of which were spent writing C++ programs. Over my 15 years at Amazon I worked on various projects such as the launch of Amazon's video streaming service (now Prime Video), various devices including the Kindle eBook reader, and now the Prime Air delivery drone (flying robots!). I'm one of the maintainers",
+        "id": 2590638,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=YZ88s9aZBqw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/YZ88s9aZBqw/hqdefault.jpg",
+        "title": "Lightning Talk: Using PMR in C++ Embedded Systems for Functional Safety - Scott Dixon - CppCon 2024",
+        "vote": 0
+    }
+]

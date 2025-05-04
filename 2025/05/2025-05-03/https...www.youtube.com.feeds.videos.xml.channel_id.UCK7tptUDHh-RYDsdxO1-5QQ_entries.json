@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-03T16:11:19.641372+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-03T15:33:28+00:00",
+        "description": "President Trump is replacing national security adviser Mike Waltz roughly a month after he put a journalist on a group text chat in which advisers discussed a sensitive military operation.\u2060 Here are three reasons why Trump fired Waltz, but kept U.S. Secretary of Defense Pete Hegseth.\u2060\n\n#Trump #Politics #Shorts",
+        "id": 2590849,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=cwRXC2tFXRA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cwRXC2tFXRA/hqdefault.jpg",
+        "title": "Why Trump Fired Waltz and Not Hegseth After \"Signalgate\"",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-03T17:17:51.823800+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-03T17:17:51+00:00",
+        "description": "Samolot JetZero, start-upu z Kalifornii, kt\u00f3ry ma zamiar rozbi\u0107 duopol lotniczych gigant\u00f3w, poleci do ko\u0144ca 2027 roku. Ma zu\u017cywa\u0107 nawet o po\u0142ow\u0119 mniej paliwa ni\u017c konkurencyjne konstrukcje.",
+        "id": 2591210,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/globalne-interesy/art42224921-zabojca-boeinga-i-airbusa-rewolucyjny-samolot-w-ksztalcie-manty-coraz-blizej",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Zab\u00f3jca Boeinga i Airbusa? Rewolucyjny samolot w kszta\u0142cie manty coraz bli\u017cej",
+        "vote": 0
+    }
+]

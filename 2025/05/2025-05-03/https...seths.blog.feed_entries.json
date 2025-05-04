@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-03T10:07:58.482344+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-03T09:50:00+00:00",
+        "description": "One way to deal with a changing world and new problems is to take yourself very seriously, others not so much. The other way is to take the situation quite seriously, but perhaps not focus so much on taking ourselves seriously. As Ani DiFranco points out, rock musicians take themselves very seriously but don&#8217;t care [&#8230;]",
+        "id": 2589063,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/05/seriously",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Seriously",
+        "vote": 0
+    }
+]

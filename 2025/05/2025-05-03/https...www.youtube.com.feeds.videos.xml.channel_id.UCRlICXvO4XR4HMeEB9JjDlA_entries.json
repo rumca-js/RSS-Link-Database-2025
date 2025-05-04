@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thoughty2",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-03T19:54:40.468058+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-03T19:00:30+00:00",
+        "description": "Chimpanzees: not just tree-hugging hippies, but also ruthless warlords. Jane Goodall discovered that these furry cousins of ours don\u2019t just share our DNA, but also our nastier habits...\n\nIn 1974, in Tanzania\u2019s Gombe National Park, a chimpanzee civil war kicked off. Humphrey, the overzealous leader of the Kasakela troop, wasn\u2019t keen on sharing power. When a breakaway faction formed, Humphrey and his goons systematically hunted them down over four years\u2014ambushing lone chimps. Charming.\n\nGoodall was horrified. At the time, scientists insisted war was a uniquely human trait. But nope, chimps do it too. Some even suggest this warlike streak is hardwired into our DNA. And yet, our other ape relatives, the bonobos, spend their time having... diplomatic relations instead.\n\nDespite the violence, Goodall\u2019s research transformed our understanding of chimps, proving they have complex societies just like ours\u2014only with more tree climbing and less TikTok. And as for the Kasakela? They\u2019re still out t",
+        "id": 2592119,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=gfJgYTMGLvA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 367,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlICXvO4XR4HMeEB9JjDlA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/gfJgYTMGLvA/hqdefault.jpg",
+        "title": "The Gombe Chimpanzee War",
+        "vote": 0
+    }
+]

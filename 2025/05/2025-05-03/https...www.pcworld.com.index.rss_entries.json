@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-03T12:02:56.144050+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-03T12:00:00+00:00",
+        "description": "<div id=\"link_wrapped_content\">\n<body><section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>When was the last time you used a USB flash drive? I had to think for a moment myself \u2014 and to be honest, I can\u2019t remember exactly. For years, the USB stick was the device of choice when it came to fast and uncomplicated data transfer. Why do these practical storage aids hardly play a role today, and are they possibly even on the verge of extinction? A look at current developments sheds some light on this.</p>\n\n\n\n<h2 class=\"wp-block-heading\" id=\"why-usb-flash-drives-are-no-longer-popular\">Why USB flash drives are no longer popular?</h2>\n\n\n\n<p>As compact and handy as they are, USB sticks have lost much of their relevance in recent years. One of the main reasons is their comparatively low storage capacity. Many commercially available models end at 256GB or 512GB, which means that large amounts of data such as 4K videos, complete photo archives, or system back",
+        "id": 2589554,
+        "language": null,
+        "link": "https://www.pcworld.com/article/2764557/usb-flash-drives-are-going-extinct-use-these-faster-alternatives-instead.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 245,
+        "source_url": "https://www.pcworld.com/index.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "USB flash drives are going extinct. Use these faster alternatives instead",
+        "vote": 0
+    }
+]

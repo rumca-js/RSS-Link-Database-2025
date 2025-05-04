@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-03T22:50:53.469019+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-03T22:45:05+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><table><thead> <tr> <th align=\"left\">Game</th> <th align=\"left\">Group</th> <th align=\"left\">Stores</th> <th align=\"left\">Review</th> </tr> </thead><tbody> <tr> <td align=\"left\">Pinball Deluxe Reloaded</td> <td align=\"left\">ElAmigos</td> <td align=\"left\"><a href=\"https://store.steampowered.com/app/678310\">Steam</a></td> <td align=\"left\">96.13% (174)</td> </tr> <tr> <td align=\"left\">Zephon</td> <td align=\"left\">ElAmigos</td> <td align=\"left\"><a href=\"https://store.steampowered.com/app/1481170\">Steam</a></td> <td align=\"left\">87.66% (1.2k)</td> </tr> <tr> <td align=\"left\">Walkabout Mini Golf VR</td> <td align=\"left\">ElAmigos</td> <td align=\"left\"><a href=\"https://store.steampowered.com/app/1408230\">Steam</a></td> <td align=\"left\">97.85% (3.1k)</td> </tr> <tr> <td align=\"left\">StarVaders</td> <td align=\"left\">I_KnoW</td> <td align=\"left\"><a href=\"https://store.steampowered.com/app/2097570\">Steam</a>, <a href=\"https://www.gog.com/en/game/starvaders\">GOG</a>, ",
+        "id": 2592800,
+        "language": null,
+        "link": "https://www.reddit.com/r/CrackWatch/comments/1ke59ct/daily_releases_may_02_2025",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 528,
+        "source_url": "https://www.reddit.com/r/CrackWatch/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Daily Releases (May 02, 2025)",
+        "vote": 0
+    }
+]

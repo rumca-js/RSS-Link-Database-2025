@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-03T15:35:41.966625+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-03T15:01:20+00:00",
+        "description": "Get up to 30% off on the Hoverpen Traverse on Kickstarter: https://www.kickstarter.com/projects/novium/hoverpen-traverse-magnetic-levitating-pen-made-portable?ref=699nvg \n\nOr use code SABINE to receive 10% off all Hoverpens and free shipping to most countries. \nNorth America / UK / Australia / International: https://bit.ly/sabine_novium\nEU: https://bit.ly/sabine_noviumeu\n\nIn a recent publication, a team of physicists showed that the electric and magnetic interactions are purely geometric and can therefore be unified with gravity, opening a new path to a theory of everything. I\u2019ve had a look at the paper\u2026 \n\nPaper: https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udce9 Free weekly science newsletter  \u279c https:",
+        "id": 2590802,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ll2hrh_BJfQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/ll2hrh_BJfQ/hqdefault.jpg",
+        "title": "New theory explains electric force as part of gravity (allegedly)",
+        "vote": 0
+    }
+]

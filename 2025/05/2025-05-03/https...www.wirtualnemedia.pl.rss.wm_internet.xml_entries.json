@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-03T05:48:39.495104+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-03T05:48:39+00:00",
+        "description": "\u201cFakt\u201d w kategorii prasa, Radio Eska w kategorii radio i TVN24 w kategorii telewizja mia\u0142y w marcu najwi\u0119ksze pod wzgl\u0119dem liczby fan\u00f3w profile na Facebooku \u2013 wynika z analizy Facebook Trends firmy Sotrender. W\u015br\u00f3d program\u00f3w tv prym pod tym wzgl\u0119dem wiedzie \u201cKuba Wojew\u00f3dzki\u201d.",
+        "id": 2588211,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/fakt-radio-eska-i-tvn24-mediami-z-najwiekszymi-profilami-na-facebooku-2",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 398,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_internet.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Oto media z najwi\u0119kszymi profilami na Facebooku",
+        "vote": 0
+    }
+]
