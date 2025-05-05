@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Andreas Spiess",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-04T07:40:56.538750+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-04T07:00:39+00:00",
+        "description": "Are these stamp-sized ESP32 boards a clever way to shrink your project, or just a small headache waiting to happen? In my last video, I tried to bridge 36,000 km using one of these small boards \u2014 and it didn\u2019t go well. So today, let\u2019s test a bunch of them and see which ones are actually worth using.\n\nMy second channel: https://www.youtube.com/HB9BLAWireless\n\nLinks:\nC3-2: https://s.click.aliexpress.com/e/_oD1YgTX\nC3-3, H2-2, S3-1, S3-2, C3-4: https://s.click.aliexpress.com/e/_oD8nJzr\nC3-1, C6-2, S3-3, H2-1: https://www.aliexpress.com/item/1005007594303790.html\nC3-5: https://s.click.aliexpress.com/e/_oosMNWt\nC3-6: https://s.click.aliexpress.com/e/_oDM801T\nESP32 conventional mini: https://s.click.aliexpress.com/e/_okynshx\nKeyes ESP32 Devkit: https://s.click.aliexpress.com/e/_oFEj6yD\n\nXIAO Boards: https://s.click.aliexpress.com/e/_oBrX665\nRP2040: https://s.click.aliexpress.com/e/_oD4UyMt\n\nComparison sheet: https://drive.google.com/file/d/1MAl9VdMY86kN40ZD8yjXXc_sdLMqZ-X2/view?usp=sharing\n",
+        "id": 2594297,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=hBBORq_yHrw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 17,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCu7_D0o48KbfhpEohoP7YSQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/hBBORq_yHrw/hqdefault.jpg",
+        "title": "Stamp-Sized ESP32 Super Mini Boards Tested: Range, Programming Tips & Best Pick",
+        "vote": 0
+    }
+]

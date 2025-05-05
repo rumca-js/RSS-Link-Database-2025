@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-04T18:41:07.805422+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-04T17:51:48+00:00",
+        "description": "<p><em>Be sure to take the included poll after you read this delve into Redis and the wishy-washy world that has become the company's relationship with open-source.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/05/should-you-trust-rediss-rebaptism-into-the-holy-open-source-spirit/\">Should You Trust Redis&#8217;s Rebaptism Into the Holy Open Source Spirit?</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 2597530,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/05/should-you-trust-rediss-rebaptism-into-the-holy-open-source-spirit",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Should You Trust Redis\u2019s Rebaptism Into the Holy Open Source Spirit?",
+        "vote": 0
+    }
+]

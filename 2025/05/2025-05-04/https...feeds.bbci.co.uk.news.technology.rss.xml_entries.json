@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-04T04:01:16.932345+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-04T03:18:58+00:00",
+        "description": "As Microsoft shuts it down, we\u2019ve spoken to people whose lives were impacted by  the tools.",
+        "id": 2593675,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/cp913ze3k9jo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379d/live/b02631c0-283b-11f0-b5a0-212f3662e1cf.jpg",
+        "title": "Long-distance romance and closure from husband's death - your memories of Skype",
+        "vote": 0
+    }
+]

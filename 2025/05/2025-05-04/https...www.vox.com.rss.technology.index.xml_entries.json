@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-04T12:07:26.639213+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-04T08:00:00+00:00",
+        "description": "<figure>\n\n<img alt=\"A white Waymo self-driving car with rooftop sensor equipment stopped at a downtown intersection.\" data-caption=\"A white Waymo self-driving car with rooftop sensor equipment is stopped at an intersection in San Francisco\u2019s Financial District on March 18.\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/05/gettyimages-2212232726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>A white Waymo self-driving car with rooftop sensor equipment is stopped at an intersection in San Francisco\u2019s Financial District on March 18.</figcaption>\n</figure>\n<p class=\"has-text-align-none\">I have some bad news: <a href=\"https://wror.com/2024/12/10/only-3-of-people-think-they-are-bad-drivers/\">You are almost certainly</a> a worse driver than you think you are.&nbsp;</p>\n\n<p class=\"has-text-align-none\">Humans <a href=\"https://www.vox.com/24078289/us-drivers-distracted-driving-cellphone-road-deaths-pe",
+        "id": 2595409,
+        "language": null,
+        "link": "https://www.vox.com/future-perfect/411522/self-driving-car-artificial-intelligence-autonomous-vehicle-safety-waymo-google",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The life-or-death case for self-driving cars",
+        "vote": 0
+    }
+]

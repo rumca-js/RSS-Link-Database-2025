@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-04T21:43:03.083645+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-04T21:43:02+00:00",
+        "description": "Dwie zmiany w ustawie o imprezach turystycznych, jakie Ministerstwo Sportu i Turystyki przedstawi\u0142o rz\u0105dowi w ramach deregulacji, to za ma\u0142o, \u017ceby uzna\u0107 popraw\u0119 systemu zabezpiecze\u0144 finansowych za satysfakcjonuj\u0105c\u0105 - wskazuje Polska Izba Turystyki.",
+        "id": 2598331,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/biura-podrozy/art42225131-ulatwienia-w-gwarancjach-biur-podrozy-juz-w-konsultacjach-pit-niewystarczajacy-krok",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "U\u0142atwienia w gwarancjach biur podr\u00f3\u017cy ju\u017c w konsultacjach. PIT: Niewystarczaj\u0105cy krok",
+        "vote": 0
+    }
+]

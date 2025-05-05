@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-04T16:25:32.911418+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-04T16:00:48+00:00",
+        "description": "\ud83d\uddf3\ufe0f\u00a0Id\u0105 wybory. A to oznacza, \u017ce kolejny ju\u017c\u00a0raz padaj\u0105\u00a0propozycje, aby przeprowadzi\u0107\u00a0je przez internet. No bo przecie\u017c trzeba i\u015b\u0107 z duchem czasu! Pomys\u0142 z pozoru \u015bwietny, jednak czym bardziej zaczynamy si\u0119 zag\u0142\u0119bia\u0107\u00a0w technikalia, tym ciemniejsz\u0105\u00a0jego stron\u0119 odkrywamy.\n \n\u0179r\u00f3d\u0142a:\n\u2753G\u0142osowanie przez Internet. Wyzwania, ryzyka, korzy\u015bci\nhttps://www.batory.org.pl/wydarzenia/glosowanie-przez-internet-wyzwania-ryzyka-korzysci/\n\n\u274c\u00a0G\u0142osowanie internetowe. Dlaczego nie teraz?\nhttps://www.batory.org.pl/publikacja/glosowanie-internetowe-dlaczego-nie-teraz/\n\n\u2757\ufe0fAwaria systemu zliczania g\u0142os\u00f3w. Eksperci ostro o\u00a0wykonawcy i\u00a0PKW\nhttps://wiadomosci.wp.pl/awaria-systemu-zliczania-glosow-eksperci-ostro-o-wykonawcy-i-pkw-6027707626968193a\n\n\ud83d\udee1\ufe0f\u00a0Security Vulnerability of Switzerland\u2019s E-Voting System\nhttps://www.schneier.com/blog/archives/2023/10/security-vulnerability-of-switzerlands-e-voting-system.html\n\n\ud83d\udcee\u00a0Release of source code leads to discovery of flaw in Swiss Post\u2019s new e-voting system\nhttps://www.new",
+        "id": 2596784,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=UK3-wB68ZGk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/UK3-wB68ZGk/hqdefault.jpg",
+        "title": "NIE dla wybor\u00f3w przez internet!",
+        "vote": 0
+    }
+]

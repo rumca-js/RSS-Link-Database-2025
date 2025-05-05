@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-04T18:37:02.835670+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-04T13:59:53+00:00",
+        "description": "OpenAI admitted that\u00a0it can be confusing for users\u00a0to choose between all the different models,\u00a0but the company has quietly published a document that makes it easier to understand ChatGPT. [...]",
+        "id": 2597479,
+        "language": "en-US",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-document-explains-when-to-use-each-chatgpt-model",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 40,
+        "source_url": "https://www.bleepingcomputer.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "OpenAI document explains when to use each ChatGPT model",
+        "vote": 0
+    }
+]

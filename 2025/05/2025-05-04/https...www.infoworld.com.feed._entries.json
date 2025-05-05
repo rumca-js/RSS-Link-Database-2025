@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-04T17:31:17.798769+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-04T16:50:29+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Deno Land has released <a href=\"https://www.infoworld.com/article/2256205/what-is-deno-a-better-nodejs.html\">Deno</a> 2.3, an update of the company\u2019s <a href=\"https://www.infoworld.com/article/2263137/what-is-javascript-the-full-stack-programming-language.html\">JavaScript</a> and <a href=\"https://www.infoworld.com/article/2257305/what-is-typescript-strongly-typed-javascript.html\">TypeScript</a> runtime that brings improvements to <code>deno compile</code> and adds support for local <a href=\"https://www.infoworld.com/article/3600378/package-confusion-attack-against-npm-used-to-trick-developers-into-downloading-malware.html\">NPM</a> packages.</p>\n\n\n\n<p>Announced <a href=\"https://deno.com/blog/v2.3",
+        "id": 2597117,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/3976654/deno-2-3-adds-compile-improvements-support-for-local-npm-packages.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Deno 2.3 adds compile improvements, support for local NPM packages",
+        "vote": 0
+    }
+]
