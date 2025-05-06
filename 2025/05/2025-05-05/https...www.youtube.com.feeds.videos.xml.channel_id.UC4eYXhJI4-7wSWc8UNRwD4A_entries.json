@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-05T09:32:56.182863+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-05T09:01:03+00:00",
+        "description": "Mitra I. Arthur | May 5, 2025\nAs a director, Jamie Lloyd applies a minimalist approach to theater. His revival of SUNSET BLVD. is the perfect match for the sometimes challenging directive of Tiny Desk \u2014 to distill the essence of the music. All artifice is stripped down to showcase the tragedy of the characters and the grandeur of Andrew Lloyd Webber's music and lyrics by Don Black and Christopher Hampton. In this tale of tarnished Hollywood, Nicole Scherzinger and Tom Francis make their Tony Award-nominated Broadway debuts as Norma Desmond, faded star of the silent screen, and failing screenwriter Joe Gillis.\n\nFor this production, the show serves up a dazzling pair of Tiny Desk versions in conversation with arrangements familiar to fans. The eight-member orchestra, led by music director Alan Williams, delivers lush instrumentals throughout. Scherzinger and Francis' duet of \"The Perfect Year\" is reenvisioned as a soft rocker with R&B vibes. \"Sunset Boulevard\" rocks, which perfectly sui",
+        "id": 2600875,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=g5N9AOfgLZA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/g5N9AOfgLZA/hqdefault.jpg",
+        "title": "SUNSET BLVD.: Tiny Desk Concert",
+        "vote": 0
+    }
+]

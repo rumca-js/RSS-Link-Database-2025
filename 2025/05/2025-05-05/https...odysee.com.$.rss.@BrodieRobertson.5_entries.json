@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-05T22:13:57.406973+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-05T21:00:13+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/APt8cMjxTzg\" width=\"480\" alt=\"thumbnail\" title=\"KDE Fixes An 18 Year Old Dolphin Bug\" /></p>There aren't many bugs that stick around for 18 years but when they do, they're always fun to see like this issue with Dolphin where it always opens a context menu on file drag into a folder.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Per Screen: https://bugs.kde.org/show_bug.cgi?id=107302<br />Dolphin Folder Issue: https://bugs.kde.org/show_bug.cgi?id=154804<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee<br />\ud83c\udfa5 Podcast: https://techovertea.xyz/youtube<br />\ud83c\udfae Gaming: https://brodierobertson.xyz/gaming<br /><br />==========Social Media========",
+        "id": 2606544,
+        "language": "en",
+        "link": "https://odysee.com/kde-fixes-an-18-year-old-dolphin-bug:5c7c6f61ec002cce5893a709b8d39564dc047911",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "KDE Fixes An 18 Year Old Dolphin Bug",
+        "vote": 0
+    }
+]

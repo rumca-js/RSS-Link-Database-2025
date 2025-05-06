@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-05T19:24:02.608346+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-05T18:44:31+00:00",
+        "description": "Sponsor: Lian Li O11D Evo RGB on Amazon https://geni.us/B3OD\nWendell from Level1 Techs joins us to discuss what we hope will become a new ongoing series: \"Is x86 Actually Screwed?\" This series is dedicated to our mutual friend Gordon Mah Ung in memory of the \"Is Intel Actually Screwed?\" series. In this video, we'll talk about the System76 ARM system that Wendell brought with its 128 cores and alternative to x86 options on the market. Fittingly, we also venture into the topic of Intel, AMD, and NVIDIA and their ARM or x86 ventures.\n\nFind Level1 Techs here: https://www.youtube.com/c/level1techs (we recently joined them for a video!)\nWatch our PCIE is the Future video with Wendell here: https://www.youtube.com/watch?v=5Fz3P41emo8\nWatch Part 4 of our old \"Is Intel Actually Screwed?\" series here: https://www.youtube.com/watch?v=-wGd6Dsm_lo\n\nThe best way to support our work is through our store: https://store.gamersnexus.net/\n\nLike our content? Please consider becoming our Patron to support",
+        "id": 2605330,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=zxP6B2HZ_IY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/zxP6B2HZ_IY/hqdefault.jpg",
+        "title": "\"Is x86 Actually Screwed?\" ft. Wendell of Level1 Techs",
+        "vote": 0
+    }
+]

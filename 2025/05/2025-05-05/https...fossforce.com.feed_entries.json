@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-05T12:48:14.727021+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-05T12:38:57+00:00",
+        "description": "<p><em>The EU's EuroSearch vision might pave the way for a new search paradigm that will benefit local and regional communities throughout the world.</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/05/europes-search-for-a-more-localized-and-relevant-search-experience/\">Europe&#8217;s Search for a More Localized and Relevant Search Experience</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 2602243,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/05/europes-search-for-a-more-localized-and-relevant-search-experience",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Europe\u2019s Search for a More Localized and Relevant Search Experience",
+        "vote": 0
+    }
+]

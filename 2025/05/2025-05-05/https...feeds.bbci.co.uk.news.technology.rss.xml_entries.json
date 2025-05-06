@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-05T11:19:31.952198+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-05T10:30:03+00:00",
+        "description": "The NCSC urges firms to check IT help desk \"password reset processes\" as hackers target retailers.",
+        "id": 2601175,
+        "language": "en-US",
+        "link": "https://www.bbc.com/news/articles/c4grn878712o",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 28,
+        "source_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c56a/live/03a9ef20-29a0-11f0-9e0d-f7604ad6a803.jpg",
+        "title": "Beware phony IT calls after Co-op and M&S hacks, says UK cyber centre",
+        "vote": 0
+    }
+]

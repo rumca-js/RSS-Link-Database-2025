@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-05T15:51:00.616856+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-05T14:07:05+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Coding Like Your Life Depends on It: Strategies for Developing Safety-Critical Software in C++ - Emily Durie-Johnson - CppCon 2024\n---\n\nThis talk delves into the importance of a safety-first mindset in software development within the medical device domain. It explores the intersection of C++ and industry standards that ensure safety-critical software. Attendees will learn to ask guiding questions during code development that emphasize the importance of coding as if the technology will be used on their loved ones. With real-world examples and best practices, this session highlights the personal and professional responsibilities of engineers in safety-critical fields to create reliable software.\n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nEmily Durie-Johnson\n\nEmily Durie-Johnson is a Senior Software Engineer at Medtronic who is dedicated to enhancing patient care through innovative software solutions. With over five years o",
+        "id": 2603317,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=VJ6HrRtrbr8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VJ6HrRtrbr8/hqdefault.jpg",
+        "title": "Lightning Talk: Strategies for Developing Safety-Critical Software in C++ - Emily Durie-Johnson",
+        "vote": 0
+    }
+]

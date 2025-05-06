@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brad Colbow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-05T16:49:54.377199+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-05T15:47:37+00:00",
+        "description": "NEW COURSES: http://bradsartschool.com\n\nWe are starting to feel the effects of these new tariff prices. But how much they effect any given product will vary. And also how manufacturers will respond to these higher costs is also going to change as well. lets break it down.\n\n-----------------------------------------------------\n\nInstagram:\nhttps://www.instagram.com/brad.colbow/\n\nThreads:\nhttps://www.threads.net/@brad.colbow\n\nBluesky:\nhttps://bsky.app/profile/bradsartschool.com\n\nDrawing Tech Top 10 lists:\nhttps://www.bradsartschool.com/drawing-tablet-rankings",
+        "id": 2604092,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=L368UlmO1DE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 44,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClozNP-QPyVatzpGKC25s0A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/L368UlmO1DE/hqdefault.jpg",
+        "title": "How Much are Tech Prices Going to Go Up?",
+        "vote": 0
+    }
+]

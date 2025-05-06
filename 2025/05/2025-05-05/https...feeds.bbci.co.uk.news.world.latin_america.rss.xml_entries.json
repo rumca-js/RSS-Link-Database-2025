@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-05T12:41:48.303932+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-05T11:22:24+00:00",
+        "description": "The mayor of Teuchitl\u00e1n is suspected of colluding with the New Generation Jalisco Cartel, which he denies.",
+        "id": 2602132,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/crkxg6geyzzo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 524,
+        "source_url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a359/live/070641e0-2992-11f0-a5e7-c132ef1a1e68.jpg",
+        "title": "Mexican mayor arrested over alleged links to cartel training camp",
+        "vote": 0
+    }
+]

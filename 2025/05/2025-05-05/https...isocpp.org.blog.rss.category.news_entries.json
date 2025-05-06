@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-05T22:02:43.109180+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-05T20:52:31+00:00",
+        "description": "<p>\n\t<img alt=\"image-16-825x510.jpg\" src=\"https://isocpp.org/files/img/image-16-825x510.jpg\" style=\"width: 400px; margin: 10px; float: right;\" />Integer division is one of the most expensive operations in C++, but when the divisor is known at compile time, the compiler can optimize it significantly. This post explores different approaches&mdash;using templates, lambda expressions, and template metaprogramming&mdash;to speed up division while maintaining clean and efficient code.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://lemire.me/blog/2025/03/15/speeding-up-c-code-with-template-lambdas/\">Speeding up C++ Code with Template Lambdas</a></h3>\n\t<p>\n\t\tby Daniel Lemire</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tLet us consider a simple C++ function which divides all values in a range of integers:</p>\n\t<pre>\nvoid divide(std::span&lt;int&gt; i, int d) {&#10; for (auto&amp; value : i) {&#10; value /= d;&#10; }&#10;}</pre>\n\t<p>\n\t\tA division between two integers is one of th",
+        "id": 2606453,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/05/speeding-up-cpp-code-with-template-lambdas-daniel-lemire",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Speeding up C++ Code with Template Lambdas -- Daniel Lemire",
+        "vote": 0
+    }
+]

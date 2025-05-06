@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-05T11:15:50.855526+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-05T10:27:19+00:00",
+        "description": "<p>Ostatnie badania zespo\u0142u HiddenLayer ujawni\u0142y powa\u017cn\u0105 luk\u0119 w zabezpieczeniach du\u017cych modeli j\u0119zykowych (LLM), takich jak GPT-4, Claude, Gemini czy Llama. Nowa technika, nazwana \u201ePrompt Puppetry\u201d, pozwala na obej\u015bcie mechanizm\u00f3w bezpiecze\u0144stwa tych modeli, umo\u017cliwiaj\u0105c generowanie tre\u015bci, kt\u00f3re normalnie by\u0142yby zablokowane, czyli klasyczny ju\u017c jailbreaking. Czym jest \u201ePrompt Puppetry\u201d? \u201ePrompt Puppetry\u201d to...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/prompt-puppetry-technika-ktora-lamie-zabezpieczenia-wiekszosci-llmow/\">Prompt Puppetry \u2013 technika, kt\u00f3ra \u0142amie zabezpieczenia wi\u0119kszo\u015bci LLM\u00f3w</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2601164,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/prompt-puppetry-technika-ktora-lamie-zabezpieczenia-wiekszosci-llmow",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Prompt Puppetry \u2013 technika, kt\u00f3ra \u0142amie zabezpieczenia wi\u0119kszo\u015bci LLM\u00f3w",
+        "vote": 0
+    }
+]

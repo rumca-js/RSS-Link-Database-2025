@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-05T09:51:16.519293+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-05T09:03:00+00:00",
+        "description": "There are two ways of thinking about doing more than is necessary. It can become a really useful marketing tactic. When you deliver more than people expect, your overdelivery creates connection. The surprise and delight is remarkable. People talk about it, seek you out and come back for more. Of course, since it&#8217;s a useful [&#8230;]",
+        "id": 2601116,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/05/seeking-yoyu-%e4%bd%99%e8%a3%95",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Seeking yoyu \u4f59\u88d5",
+        "vote": 0
+    }
+]
