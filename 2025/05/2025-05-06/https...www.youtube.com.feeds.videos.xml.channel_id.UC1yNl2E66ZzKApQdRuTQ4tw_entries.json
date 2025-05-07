@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-06T15:29:54.435877+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-06T15:00:38+00:00",
+        "description": "Go to https://ground.news/sabine to get 40% Off the Vantage plan and see through sensationalized reporting. Stay fully informed on events around the world with Ground News.\n\nWe\u2019re more than 100 days into the new Trump administration, and the president has made a lot of changes to federal science funding in the U.S. \u2013 budgets have been slashed, people have been fired, and 75% of American scientists are apparently considering leaving the country. What does all this mean for the future of science? Let\u2019s take a look. \n\nThe full interview with the previous NIH director is here: https://www.youtube.com/watch?v=U8CcOAsyORM\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https://sciencewtg.substack.com/\n\ud83d\udc49 Transcript with links to references on Patreon \u279c https://www.patreon.com/Sabine\n\ud83d\udce9 Free weekly science newsletter  \u279c https://sabinehossenfelder.com/newsletter/\n\ud83d\udc42 Audio only podcast \u279c  htt",
+        "id": 2612447,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=J9gucvmRhyI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/J9gucvmRhyI/hqdefault.jpg",
+        "title": "Trump dramatically cuts science budgets and scientists are fleeing. Now what?",
+        "vote": 0
+    }
+]

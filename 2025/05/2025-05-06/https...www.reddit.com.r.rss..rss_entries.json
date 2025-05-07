@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/finniruse",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-06T14:42:42.068387+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-06T14:25:18+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve spent much longer than I wanted this morning looking for an RSS reader that will let me search for keywords. They&#39;re locked behind AI features, or paid features. Is that right? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/finniruse\"> /u/finniruse </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1kg5sxv/i_cant_seem_to_find_an_rss_reader_that_will_let/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1kg5sxv/i_cant_seem_to_find_an_rss_reader_that_will_let/\">[comments]</a></span>",
+        "id": 2612052,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1kg5sxv/i_cant_seem_to_find_an_rss_reader_that_will_let",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I can't seem to find an RSS reader that will let me search a keyword... ideas?",
+        "vote": 0
+    }
+]

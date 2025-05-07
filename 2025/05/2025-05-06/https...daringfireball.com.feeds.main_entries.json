@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-06T17:29:10.917562+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-06T17:10:14+00:00",
+        "description": "<p>About 16 minutes <a href=\"https://podcasts.apple.com/us/podcast/channels-with-peter-kafka/id1080467174\">into the podcast</a> (the whole thing is a great succinct interview):</p>\n\n<blockquote>\n  <p><strong>Kafka:</strong> You said Fortnite is going to come back to iOS. You\nguys were kicked off the platform in 2020 for violating Apple\u2019s\nrules. There\u2019s nothing in the judge\u2019s ruling that says Apple has\nto reinstate Fortnite on iOS. Have you talked to Apple? How do you\nimagine Fortnite will come back to iOS?</p>\n\n<p><strong>Sweeney:</strong> Epic has a valid [Apple] developer account in good\nstanding. Our subsidiary Epic Games Sweden opened up an account in\norder to distribute Fortnite in the European Union. Our dealings\nwith Apple on that account have been managed by their developer\nrelations team, who have been cordial.</p>\n\n<p><strong>Kafka:</strong> Do you feel confident that I will be able to play\nFortnite on my iPhone later this week?</p>\n\n<p><strong>Sweeney:</strong> I believe so",
+        "id": 2613540,
+        "language": null,
+        "link": "https://www.businessinsider.com/tim-sweeeney-epic-games-apple-app-store-interview-peter-kafka-2025-05",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tim Sweeney Talks to Peter Kafka, Still Thinks Fortnite Is Coming Back to iOS This Week",
+        "vote": 0
+    }
+]

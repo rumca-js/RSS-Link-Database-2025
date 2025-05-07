@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "SciShow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-06T17:19:07.234215+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-06T17:01:11+00:00",
+        "description": "There's a complex, mysterious current running throughout the Atlantic Ocean, and it's in trouble. But to help save it, researchers need to understand it, and finding ways to study it has been a challenge. But it turns out that the secret to studying and someday saving the AMOC might be.... clams.\n\nHosted by: Savannah Geary (they/them)\n\n----------\nSupport us for $8/month on Patreon and keep SciShow going!\nhttps://www.patreon.com/scishow\nOr support us directly: https://complexly.com/support\nJoin our SciShow email list to get the latest news and highlights: \nhttps://mailchi.mp/scishow/email\n----------\nHuge thanks go to the following Patreon supporters for helping us keep SciShow free for everyone forever: J.V. Rosenbalm, Bethany Matthews, Toyas Dhake, David Johnston, Lyndsay Brown, Alan Wong, Jeffrey Mckishen, Kaitlyn O'Callaghan, Reed Spilmann, Garrett Galloway, Friso, kickinwasabi, Gizmo, Jeremy Mattern, Blood Doctor Kelly, Eric Jensen, Jaap Westera, Matt Curls, Jp Lynch, Wesus, Chris ",
+        "id": 2613338,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=pRzkc6VExmQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 294,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/pRzkc6VExmQ/hqdefault.jpg",
+        "title": "These Clams Could Predict The Future",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-06T18:11:42.103528+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-06T17:26:28+00:00",
+        "description": "<span class=\"field field--name-title field--type-string field--label-hidden\">4x faster network file sync with rclone (vs rsync)</span>\n\n            <p>For the past couple years, I have transported my 'working set' of video and project data to and from work on an external Thunderbolt NVMe SSD.</p>\n\n<p>But it's always been <em>slow</em> when I do the sync. In a typical day, I may generate a new project folder with 500-1000 individual files, and dozens of them may be 1-10 GB in size.</p>\n\n<p>The Thunderbolt drive I had was capable of well over 5 GB/sec, and my 10 Gbps network connection is capable of 1 GB/sec. I even <a href=\"https://www.youtube.com/watch?v=gaV-O6NPWrI\">upgraded my Thunderbolt drive to Thunderbolt 5 lately</a>... though that was not the bottleneck.</p>\n\n<p>I used the following rsync command to copy files from a network share mounted on my Mac to the drive (which I call \"Shuttle\"):</p>\n\n<pre><code>rsync -au --progress --stats /Volumes/mercury/* /Volumes/Shuttle/Video_Proj",
+        "id": 2613924,
+        "language": "en",
+        "link": "https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 162,
+        "source_url": "https://www.jeffgeerling.com/blog.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "4x faster network file sync with rclone (vs rsync)",
+        "vote": 0
+    }
+]

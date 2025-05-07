@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-06T05:29:21.297817+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-06T04:46:14+00:00",
+        "description": "<p>Joe Abercrombie is a celebrated British fantasy author known for his sharp wit and darkly humorous storytelling. He&#8217;s particularly skilled at bringing morally ambiguous characters to life\u2014characters filled with cynicism, depth, and a touch of humor that makes them unforgettable. Often called one of the pioneers of grimdark fantasy, Abercrombie has captivated readers worldwide with [&#8230;]</p>\n<p>The post <a href=\"https://www.grimdarkmagazine.com/interview-joe-abercrombie/\">INTERVIEW: Joe Abercrombie</a> appeared first on <a href=\"https://www.grimdarkmagazine.com\">Grimdark Magazine</a>.</p>",
+        "id": 2608324,
+        "language": "en-AU",
+        "link": "https://www.grimdarkmagazine.com/interview-joe-abercrombie",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 137,
+        "source_url": "https://www.grimdarkmagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "INTERVIEW: Joe Abercrombie",
+        "vote": 0
+    }
+]

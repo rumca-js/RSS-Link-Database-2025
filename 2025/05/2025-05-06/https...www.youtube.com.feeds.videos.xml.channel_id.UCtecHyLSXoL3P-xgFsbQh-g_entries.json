@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Na Ga\u0142\u0119zi",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-06T15:18:58.692648+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-06T14:10:02+00:00",
+        "description": "Na Ga\u0142\u0119zi na Instagramie - https://www.instagram.com/mlukanski/\n\nWierzcie lub nie, ale Thunderbolts to naprawd\u0119 dobrze zrealizowany film. \u015awietni bohaterowie, zr\u0119cznie przedstawione relacje i wyj\u0105tkowo zgrabnie napisane dialogi. Seans Thunderbolts to wyj\u0105tkowo przyjemne doznanie. Szkoda tylko, \u017ce to nie jest standard, je\u015bli chodzi o produkcje Marvela. Zapraszam na recenzj\u0119!",
+        "id": 2612249,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=bif9mVU_LmY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 230,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCtecHyLSXoL3P-xgFsbQh-g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/bif9mVU_LmY/hqdefault.jpg",
+        "title": "Thunderbolts - wreszcie DOBRY film Marvela?",
+        "vote": 0
+    }
+]

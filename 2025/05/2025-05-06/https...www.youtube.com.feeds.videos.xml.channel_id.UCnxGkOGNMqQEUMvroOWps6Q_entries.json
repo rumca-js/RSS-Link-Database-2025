@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "JRE Clips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-06T19:34:16.140615+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-06T18:21:14+00:00",
+        "description": "JRE #2316 w/Cam Hanes\nYouTube: https://youtu.be/kF7M_lltatw\nJRE on Spotify: https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+        "id": 2614620,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=VbE79VdicJM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 157,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnxGkOGNMqQEUMvroOWps6Q",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/VbE79VdicJM/hqdefault.jpg",
+        "title": "Joe on the Aftermath of the Douglas Murray Debate",
+        "vote": 0
+    }
+]

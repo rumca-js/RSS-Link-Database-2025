@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-06T03:41:18.516717+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-06T02:46:55+00:00",
+        "description": "The UnoNet is a microcontroller board based on the ATmega328PB, designed with the same form factor and pin layout as the Arduino Uno Rev 3. It integrates Ethernet via a W5500 controller and includes a USB Type-C port, RJ45 connector, DC barrel jack, ICSP header, and reset button. The ATmega328PB is clocked at 16 MHz [&#8230;]",
+        "id": 2607961,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/arduino-uno-gets-upgraded-with-integrated-ethernet-and-usb-type-c",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Arduino Uno Gets Upgraded with Integrated Ethernet and USB Type-C",
+        "vote": 0
+    }
+]

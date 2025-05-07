@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Ryan Daws",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-06T16:27:39.987211+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-06T15:29:24+00:00",
+        "description": "<p>Ever wondered what happens when a company trying to build a &#8216;brain for the world&#8217; needs to grow up, fast, without selling its soul? Well, OpenAI has just given us a peek as it pledges to keep its nonprofit core amid broader restructuring. OpenAI CEO Sam Altman has laid out their roadmap, and the headline [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/sam-altman-openai-keep-nonprofit-soul-restructuring/\">Sam Altman: OpenAI to keep nonprofit soul in restructuring</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 2613026,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/sam-altman-openai-keep-nonprofit-soul-restructuring",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Sam Altman: OpenAI to keep nonprofit soul in restructuring",
+        "vote": 0
+    }
+]

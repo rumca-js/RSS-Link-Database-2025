@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-06T15:08:46.599460+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-06T14:07:03+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Brainplus Expression Template Parser Combinator C++ Library: A User Experience - Braden Ganetsky - CppCon 2024\n---\n\nI'm always thinking about the user experience. And this is certainly a user experience. Brainplus is an expression template parser combinator c++ library using minimal syntax. It uses \"plus\" and \"+\", and that's a plus!\n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nBraden Ganetsky\n\nBraden Ganetsky graduated from the University of Manitoba with a degree in mechanical engineering, but soon pivoted to C++. He developed a passion for parser combinators, and he spends his free time getting involved in the C++ community.\n---\n\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosphere designed to help attendees learn from each other, meet interesting people, and ge",
+        "id": 2612189,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=msx6Ff5tdVk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/msx6Ff5tdVk/hqdefault.jpg",
+        "title": "Lightning Talk: Brainplus Expression Template Parser Combinator C++ Library: A User Experience",
+        "vote": 0
+    }
+]

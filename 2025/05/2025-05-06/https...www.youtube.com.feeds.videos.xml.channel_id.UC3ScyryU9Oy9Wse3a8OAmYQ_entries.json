@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "FRONTLINE PBS | Official",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-06T19:41:46.226481+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-06T18:55:55+00:00",
+        "description": "Journalist Christo Grozev exposed Kremlin spies and assassins. In this video drawn from the new documentary \"Antidote,\" he learns that he\u2019s been added to a Kremlin \u201cwanted\u201d list \u2014 one in a series of escalating dangers as he continues his reporting. \n\nThis journalism is made possible by viewers like you. Support your local PBS station here: https://www.pbs.org/donate\u200b\n\nWatch the full documentary starting May 6 on FRONTLINE's YouTube channel, on PBS stations, in the PBS App and at pbs.org/frontline.",
+        "id": 2614805,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=QFzEpeSj8yE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 109,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/QFzEpeSj8yE/hqdefault.jpg",
+        "title": "How a Journalist Ended Up on the Kremlin\u2019s Wanted List | Antidote | FRONTLINE",
+        "vote": 0
+    }
+]

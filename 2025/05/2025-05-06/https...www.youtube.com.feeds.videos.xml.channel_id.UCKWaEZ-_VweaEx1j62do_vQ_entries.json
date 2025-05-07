@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "IBM Technology",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-06T11:53:50.043734+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-06T11:00:36+00:00",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam \u2192 https://ibm.biz/BdnPFt\n\nLearn more about LLMs here \u2192 https://ibm.biz/BdnPF6\n\nWhat\u2019s next for generative AI? \ud83e\udd16 Aaron Baughman explores how Language Concept Models (LCMs) are transforming AI by reasoning at a concept level, not just tokens. Discover how embeddings, encoder-decoder architectures, and hierarchical abstraction are driving the future of AI innovation. \ud83d\ude80\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM \u2192 https://ibm.biz/BdnPFU\n\n#generativeai #lcp #llm #ai",
+        "id": 2610394,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=Le86PMGK2Uk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 432,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKWaEZ-_VweaEx1j62do_vQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/Le86PMGK2Uk/hqdefault.jpg",
+        "title": "Language Concept Models: The Next Leap in Generative AI",
+        "vote": 0
+    }
+]

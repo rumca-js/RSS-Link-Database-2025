@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-06T14:08:58.695021+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-06T13:01:39+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/uf4YcYTnfNE\" width=\"480\" alt=\"thumbnail\" title=\"Dunst Adds Desktop Notifications To Your Window Manager\" /></p>Dunst is a highly configurable and lightweight notification daemon.  It is especially for Linux users who run standalone window managers, which don't ship with a notification system builtin.<br /><br />REFERENCED:<br />\u25ba https://github.com/dunst-project/dunst<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJWVnpQd3xBQ3Jtc0tsLVZJc19YeFlwZ2JqbXVOa3g0Skw4TVhTV2otNm1tM3A1bUNnamh3S2V6OGQtLTBnSjBxYTlvUXMxeEVIS3o4US10NENHMUQ3STk2a01FOFBhUnZjZFctMEhFUTg1TVctQmFfVUdxZXJ4TDl0azlYNA&q=https%3A%2F%2Fwww.paypal.com%2Fcgi-bin%2Fwebscr%3Fcmd%3D_donations%26business%3Dderek%2540distrotube%252ecom%26lc%3DUS%26item_name%3DDistroTube%26no_note%3D0%26currency_code%3DUSD%26bn%3DPP%252dDonationsB",
+        "id": 2611488,
+        "language": "en",
+        "link": "https://odysee.com/dunst-adds-desktop-notifications-to-your:5b08713afbf7e54a3beb87441b3bd11d3ff97ac7",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Dunst Adds Desktop Notifications To Your Window Manager",
+        "vote": 0
+    }
+]

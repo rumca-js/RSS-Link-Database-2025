@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-06T03:31:33.163453+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-06T02:26:43+00:00",
+        "description": "\"Startups require two distinct beliefs, and they actually kind of run counter to each other. You need this irrational optimism... and you need uncompromising realism.\n\nEven when Copilot looked untouchable, Windsurf CEO Varun Mohan says betting on their own models was the only move\u2014optimism got them to try, realism kept them ready to adapt. A reminder that founders win by believing they can and admitting when they can\u2019t.",
+        "id": 2607894,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=31vkkVQdUa8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/31vkkVQdUa8/hqdefault.jpg",
+        "title": "Irrational optimism and uncompromising realism.",
+        "vote": 0
+    }
+]

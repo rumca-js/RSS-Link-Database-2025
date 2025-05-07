@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-06T13:00:41.769350+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-06T13:00:41+00:00",
+        "description": "Maj\u00f3wka przynios\u0142a mieszka\u0144com Szczecina dro\u017csze bilety miejskiej komunikacji. Przesz\u0142o 40-procentowa podwy\u017cka ma by\u0107 urealnieniem stawek, bo ostatnio ceny bilet\u00f3w podwy\u017cszano 13 lat temu.",
+        "id": 2610882,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/transport/art42235261-drozeja-bilety-w-miejskiej-komunikacji-podwyzki-nawet-o-kilkadziesiat-procent",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Dro\u017cej\u0105 bilety w miejskiej komunikacji. Podwy\u017cki nawet o kilkadziesi\u0105t procent",
+        "vote": 0
+    }
+]
