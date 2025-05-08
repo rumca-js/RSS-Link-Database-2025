@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T18:10:54.636068+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T17:20:23+00:00",
+        "description": "<p>Aftermath:</p>\n\n<blockquote>\n  <p>Welcome to Aftermath, a worker-owned, reader-supported news site\ncovering video games, the internet, and the cultures that\nsurround them.</p>\n\n<p>You might remember most of us from Kotaku, where we broke news,\ncovered events, and brought you hard-hitting investigations. You\nmight also have seen us at Motherboard by Vice, The Verge and The\nWashington Post\u2019s games vertical Launcher. We got back together to\nstart this site not just so we could all blog together again, but\nto try something new for ourselves and for games journalism.</p>\n\n<p>These days it\u2019s tough for journalism, especially about games. The\npast few years have seen mass layoffs and site closures, with\nremaining writers being asked to do more and more with less and\nless. The ad-supported model is crumbling, social media is a mess,\nand the businessmen and private equity firms buying up news\noutlets don\u2019t care about workers, readers, and quality writing,\nthey only care about profits. The fi",
+        "id": 2623286,
+        "language": null,
+        "link": "https://aftermath.site/about-us-contact-us-aftermath",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Aftermath",
+        "vote": 0
+    }
+]

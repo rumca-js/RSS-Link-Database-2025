@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T07:34:08.789090+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T07:34:08+00:00",
+        "description": "Czo\u0142owe organizacje z bran\u017cy produkcji film\u00f3w i seriali ustali\u0142y wsp\u00f3lne zasady pracy obowi\u0105zuj\u0105ce wszystkich cz\u0142onk\u00f3w ekip zdj\u0119ciowych. Wskazano m.in., \u017ce dzie\u0144 na planie mo\u017ce trwa\u0107 maksymalnie 12 godzin, a ekipie przys\u0142uguj\u0105 dwa posi\u0142ki w tym jeden ciep\u0142y.",
+        "id": 2618252,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/plan-zdjeciowy-praca-seriale-filmy-zasady",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 397,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_gospodarka.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Zdj\u0119cia do 12 godzin, dwa posi\u0142ki na planie. Tak maj\u0105 by\u0107 kr\u0119cone filmy i seriale",
+        "vote": 0
+    }
+]

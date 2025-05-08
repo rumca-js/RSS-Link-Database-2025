@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Victoria Friedman",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T14:47:23.092434+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T13:44:33+00:00",
+        "description": "The window between discovering and exploiting a vulnerability has already narrowed to just days, and AI is expected to shorten it even further, experts said.",
+        "id": 2621099,
+        "language": "en-US",
+        "link": "https://www.theepochtimes.com/world/systems-facing-increased-risk-of-ai-enhanced-cyber-attacks-warns-ncsc-5853749",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 105,
+        "source_url": "https://feed.theepochtimes.com/tech/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://img.theepochtimes.com/assets/uploads/2025/05/07/id5853772-Mat-McFadden-1080x720.png",
+        "title": "Systems Facing Increased Risk of AI-Enhanced Cyber Attacks, Warns NCSC",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sabine Hossenfelder",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T16:11:52.001273+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T15:00:54+00:00",
+        "description": "Check out courses in your favorite subjects on Brilliant! First 30 days are free and 20% off the annual premium subscription when you use our link \u279c  https://brilliant.org/sabine.\n\nStarlink and other low-orbit internet satellite companies are pumping thousands of satellites into space each year in an attempt to cover the entire planet in internet connections. Some of these satellites have already caused issues for astronomers, and new research suggests that they might create more problems in the future with the ozone layer and, potentially, the magnetic field. Recent reports have claimed that 4 to 5 Starlink Satellites burn up in the atmosphere each day, leaving behind metallic dust. How alarming is this?\n\nThis video comes with a quiz which you can take here: https://quizwithit.com/start_thequiz/1746451987868x890964929183481900\n\n\ud83e\udd13 Check out my new quiz app \u279c  http://quizwithit.com/ \n\ud83d\udc8c Support me on Donorbox \u279c https://donorbox.org/swtg\n\ud83d\udcdd Transcripts and written news on Substack \u279c https",
+        "id": 2622221,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=XFLpKjuie48",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 589,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XFLpKjuie48/hqdefault.jpg",
+        "title": "Four Starlink Satellites Fell From The Sky Each Day, Creating New Worries",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Seth Godin",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T09:58:48.929438+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T09:03:00+00:00",
+        "description": "It&#8217;s thrilling when someone reads our minds. Sometimes we call it hospitality, or smart user interface design. Sometimes, it simply feels like being seen. The person or the system knows what you need, perhaps before you even realize what that might be. This is a special sort of magic. It&#8217;s easy to take this for [&#8230;]",
+        "id": 2619032,
+        "language": "en-US",
+        "link": "https://seths.blog/2025/05/mind-reading",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 303,
+        "source_url": "https://seths.blog/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Mind reading",
+        "vote": 0
+    }
+]

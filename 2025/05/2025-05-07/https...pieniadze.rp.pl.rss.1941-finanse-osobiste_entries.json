@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T14:42:46.061561+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T14:42:45+00:00",
+        "description": "Rada Polityki Pieni\u0119\u017cnej \u015bci\u0119\u0142a koszty po\u017cyczania o 0,5 pkt. proc. Dla posiadaczy kredyt\u00f3w mieszkaniowych oznacza to spadek miesi\u0119cznych obci\u0105\u017ce\u0144 o ok. 4,7-7,6 proc. Zdolno\u015b\u0107 kredytowa mo\u017ce za\u015b wzrosn\u0105\u0107 o ok. 5 proc.",
+        "id": 2620968,
+        "language": "pl-PL",
+        "link": "https://pieniadze.rp.pl/budzet-rodzinny/art42241791-stopy-procentowe-w-dol-sprawdz-o-ile-spadna-raty-kredytow",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 271,
+        "source_url": "https://pieniadze.rp.pl/rss/1941-finanse-osobiste",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Stopy procentowe w d\u00f3\u0142. Sprawd\u017a, o ile spadn\u0105 raty kredyt\u00f3w",
+        "vote": 0
+    }
+]

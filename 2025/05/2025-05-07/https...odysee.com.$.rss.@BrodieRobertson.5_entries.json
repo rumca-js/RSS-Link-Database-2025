@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T22:41:46.166329+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T21:00:28+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/WOkt9LtCliE\" width=\"480\" alt=\"thumbnail\" title=\"Homebrew Channel License Drama Is Dumb\" /></p>I was recently made aware of the Wii Homebrew Channel license drama and there's a real problem but the way it was handled was so insanely dumb, what could have just been a simple email ended up being a community who thinks everything is in flames.<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Homebrew Channel Readme: https://github.com/fail0verflow/hbc/blob/master/README.md<br />Marcan 2009 Comment: https://www.elotrolado.net/hilo_publicara-algun-dia-las-tools-marcan_1178719#p1714912282<br />Wintermute Comment: https://github.com/devkitPro/libogc/issues/204<br />Hackaday Article: https://hac",
+        "id": 2625367,
+        "language": "en",
+        "link": "https://odysee.com/homebrew-channel-license-drama-is-dumb:8ee38113d5eb984b5ebc969005b117e9f36c453c",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Homebrew Channel License Drama Is Dumb",
+        "vote": 0
+    }
+]

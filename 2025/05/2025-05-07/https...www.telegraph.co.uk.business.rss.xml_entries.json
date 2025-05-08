@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Chris Price",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T21:08:19.496466+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T20:07:21+00:00",
+        "description": "Fed defies Trump as it declines to lower rates",
+        "id": 2624288,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2025/05/07/trump-tariffs-us-china-talks-fed-interest-rates-markets",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Fed defies Trump as it declines to lower rates",
+        "vote": 0
+    }
+]

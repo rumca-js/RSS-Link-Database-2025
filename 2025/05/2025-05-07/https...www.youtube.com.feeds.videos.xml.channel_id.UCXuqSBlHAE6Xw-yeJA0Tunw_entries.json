@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T17:55:59.646698+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T17:32:02+00:00",
+        "description": "Join us and over 70 million players in one of the most comprehensive vehicle combat games EVER MADE! Check out War Thunder for free today on PC, Console, and Mobile using our links!\n\nPC/Console: https://playwt.link/linustechtips\n\nMobile: https://wtm.game/linustechtips\n\nLinus has built his home into a tech paradise... PCs, 10-gig networking, screens everywhere, but frequent power outages keep spoiling the fun. But, we're thrifty, so why not make a Tesla-based DIY home battery backup solution? Will these scrapped Model S battery modules finally keep his house online during outages, or will he regret letting Jake tackle this?\n\nDiscuss on the forum: https://linustechtips.com/topic/1611306-he-promised-this-diy-house-battery-won%E2%80%99t-explode/\n\nBuy a EG4 6000XP Inverter: https://lmg.gg/IChLY\nBuy an EG4 LL 48V 100Ah LFP Rack Mount Battery: https://lmg.gg/Ru8zW\nBuy a Vero BMS V2: https://lmg.gg/zDUHF\nBuy a Vero BMS Display: https://lmg.gg/srWRI\nBuy a Vero 400 Amp Current Sensor: https://l",
+        "id": 2623034,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=DWse1Q8s-Ms",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DWse1Q8s-Ms/hqdefault.jpg",
+        "title": "He Promised this DIY House Battery Won\u2019t Explode",
+        "vote": 0
+    }
+]

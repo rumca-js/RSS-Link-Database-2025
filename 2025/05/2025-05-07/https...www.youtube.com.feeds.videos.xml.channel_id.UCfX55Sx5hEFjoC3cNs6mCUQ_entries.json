@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T16:10:12.886380+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T16:00:31+00:00",
+        "description": "What a week for open source.\nWe saw a huge PyTorch upgrade, a strong signal for Wasm adoption, and new security benchmarks that reinforce confidence in OSS infrastructure. Also: one of the fastest-growing forks in recent memory just turned one and more support for electric vehicles.\n\nWe break it all down in just 60 seconds. Watch the latest LF Quick Hits and catch up fast.\n\n#OpenSource #LinuxFoundation #AI #CyberSecurity #DevTools",
+        "id": 2622211,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=4ycF88y-itY",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/4ycF88y-itY/hqdefault.jpg",
+        "title": "Open Source Breakthroughs This Week: PyTorch, Wasm, Security & More",
+        "vote": 0
+    }
+]

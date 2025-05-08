@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Fireship",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T16:59:16.937804+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T16:16:07+00:00",
+        "description": "Deploy your app without complexity using Sevalla https://sevalla.com/fireship\n\nLet's take a look at the new and improved Gemini 2.5 and its enhanced coding abilities. In addition, we'll analyze the recent move by OpenAI to remain controlled by a non-profit. \n\n#programming #ai #thecodereport\n\n\ud83d\udcac Chat with Me on Discord\n\nhttps://discord.gg/fireship\n\n\ud83d\udd17 Resources\n\nGemini 2.5 Improved https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance\nGemini 2.0 Release https://youtu.be/k9xbh9LUYn0\nOpenAI o4 https://youtu.be/O-Vu-DMIU40\n\n\ud83d\udd25 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n\ud83c\udfa8 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n\ud83d\udd16 Topics Covered\n\nWhat is special about Gemini 2.5? \nWhat to expect at Google I/O 2025\nBest AI models for programming\nHow does OpenAI's corporate structure work?",
+        "id": 2622626,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=59wV96Kc3dQ",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 584,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/59wV96Kc3dQ/hqdefault.jpg",
+        "title": "Google must be cooking up something big...",
+        "vote": 0
+    }
+]

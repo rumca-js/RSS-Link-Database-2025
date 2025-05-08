@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T15:52:45.865580+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T15:12:21+00:00",
+        "description": "Welcome to this hands-on course where you'll learn to build Droply, a Dropbox-inspired file storage service, using the latest tools and best practices in the NextJS ecosystem. Designed for beginners, this tutorial covers everything from secure authentication with Clerk and robust data management with Neon and Drizzle, to advanced features like OTP signup, ZOD validation, and seamless file uploads with Imagekit. \n\nCourse developed by @HiteshCodeLab \n\n\ud83d\udcbb Code: https://github.com/hiteshchoudhary/droply\n\nUdemy course link: https://hitesh.ai/udemy\n\n\u2b50\ufe0f Contents \u2b50\ufe0f\n\u2328\ufe0f (0:00:00) Droply\n\u2328\ufe0f (0:11:25) Planning the project with drizzle and neon\n\u2328\ufe0f (1:11:27) Learn zod validation schema\n\u2328\ufe0f (1:27:48) Signup, clerk, OTP, zod and react hook form guide in NextJS\n\u2328\ufe0f (2:10:53) Complete signin process with clerk\n\u2328\ufe0f (2:25:45) Clerk middleware guide\n\u2328\ufe0f (2:40:05) Upload any file with Imagekit in NextJS\n\u2328\ufe0f (3:02:43) How dropbox handles folders in database\n\u2328\ufe0f (3:25:19) Fetching files from folders and sub folder",
+        "id": 2621920,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=IcOiX-jynfI",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/IcOiX-jynfI/hqdefault.jpg",
+        "title": "Code a Dropbox Clone with NextJS \u2013 Tutorial",
+        "vote": 0
+    }
+]

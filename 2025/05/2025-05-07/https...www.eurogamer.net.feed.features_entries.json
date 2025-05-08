@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christian Donlan",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T09:58:56.761139+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T09:09:32+00:00",
+        "description": "<img src=\"https://assetsio.gnwcdn.com/gta-art-money.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp\" /> <p>Every few weekends, my wife and I go for a drive in Los Santos. Itineraries vary. Sometimes we get a submarine and explore the oceans. Sometimes, inspired by shows like Million Dollar Listing and Selling Sunset, we head up to the Hills and have a pleasant in-game evening racing through rich people's backyards. My wife knows the game much better than me, which makes for an unusual dynamic. I know Los Angeles, which Los Santos is based on, but she is far more familiar with Rockstar's version. In other words, I'm often a backseat passenger in the endless lateral tracking shot that defines the common experience of both of these car-centric cities.</p> <p><a href=\"https://www.eurogamer.net/inside-the-legendary-unsolved-heist-that-haunts-gta-5\">Read more</a></p>",
+        "id": 2619035,
+        "language": "en",
+        "link": "https://www.eurogamer.net/inside-the-legendary-unsolved-heist-that-haunts-gta-5",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 610,
+        "source_url": "https://www.eurogamer.net/feed/features",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://assetsio.gnwcdn.com/gta-art-money.jpg?width=1920&height=1920&fit=bounds&quality=70&format=jpg&auto=webp",
+        "title": "Inside the legendary unsolved heist that haunts GTA 5",
+        "vote": 0
+    }
+]

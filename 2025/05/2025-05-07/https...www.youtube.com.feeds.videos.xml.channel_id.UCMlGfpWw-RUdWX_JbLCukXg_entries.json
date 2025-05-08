@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T14:49:29.527592+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T14:07:07+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: When Computers Can't Math - Floating Point Rounding Error Explained - Elizabeth Harasymiw - CppCon 2024\n---\n\nQuick explanation floating point rounding error.\n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nElizabeth Harasymiw\n---\n\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosphere designed to help attendees learn from each other, meet interesting people, and generally have a stimulating experience. Taking place this year in Aurora, Colorado, near the Denver airport, and including multiple diverse tracks, the conference will appeal to anyone from C++ novices to experts.\nAnnual CppCon Conference - https://www.cppcon.org\nhttps://www.linkedin.com/company/cppcon\nhttps://x.com/cppcon\nhttps://www.facebook.com/CppConference\nhttps://www.reddit.com/r/cppcon/\nhttps://mastodon",
+        "id": 2621149,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ZJKO0eoGAvM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/ZJKO0eoGAvM/hqdefault.jpg",
+        "title": "Lightning Talk: When Computers Can't Math - Floating Point Rounding Error Explained",
+        "vote": 0
+    }
+]

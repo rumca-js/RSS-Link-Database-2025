@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T14:39:26.409092+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T14:39:26+00:00",
+        "description": "Sp\u00f3\u0142ka NSO Group, tw\u00f3rca oprogramowania szpieguj\u0105cego, po sze\u015bciu latach walki w s\u0105dzie przegra\u0142a proces z w\u0142a\u015bcicielem aplikacji WhatsApp i musi zap\u0142aci\u0107 ponad 167 mln dol. odszkodowania.",
+        "id": 2620901,
+        "language": "pl-PL",
+        "link": "https://cyfrowa.rp.pl/it/art42241441-izraelski-tworca-pegasusa-przegrywa-glosny-proces-musi-zaplacic-krocie",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 269,
+        "source_url": "https://cyfrowa.rp.pl/rss/2991-cyfrowa",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Izraelski tw\u00f3rca Pegasusa przegrywa g\u0142o\u015bny proces. Musi zap\u0142aci\u0107 krocie",
+        "vote": 0
+    }
+]

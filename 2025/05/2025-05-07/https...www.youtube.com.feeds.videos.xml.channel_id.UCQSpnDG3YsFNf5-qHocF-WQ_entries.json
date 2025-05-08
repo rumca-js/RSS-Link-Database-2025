@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T16:11:55.439219+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T15:41:50+00:00",
+        "description": "Don't sleep on this feature \ud83e\uddd0\n\u21d2 Become a channel member for special emojis, early videos, and more! Check it out here: https://www.youtube.com/ThioJoe/join\n\n\u2022 ViVe Tool: https://github.com/thebookisclosed/ViVe/releases\n\u2022 Vive Tool Command:\nvivetool /enable /id:52467192,53079680\n\n\u2022 My AutoHotkey Script: https://github.com/ThioJoe/ThioJoe-AHK-Scripts/blob/main/Scripts/SnippingToolController.ahk\n\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:50 - Getting The Latest Version\n1:24 - New Text Extract Buttons\n2:32 - Just How Good Is It?\n4:36 - Other Cool New Features\n5:08 - Enabling The Features\n6:12 - My AutoHotkey Script\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/thiojoe\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 2622222,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=RgHo3YcFfog",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/RgHo3YcFfog/hqdefault.jpg",
+        "title": "The Windows Snipping Tool Just Got Even Better",
+        "vote": 0
+    }
+]

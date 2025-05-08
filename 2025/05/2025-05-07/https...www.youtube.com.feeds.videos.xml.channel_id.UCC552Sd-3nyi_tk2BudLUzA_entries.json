@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "AsapSCIENCE",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T16:58:05.224553+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T16:00:11+00:00",
+        "description": "This one is a little different and a bit more personal. The psychology of perfectionism is a fascinating topic that delves into the roots of why some people feel compelled to strive for flawlessness in every aspect of their lives. It can be both good and bad, I wanted to explore the psychological reasons why. \n\nCreated by: Mitchell Moffit and Gregory Brown\nWritten by: Mitchell Moffit\nEdited by: Luka Sarlija and Mitchell Moffit\nDrawn by: Mitchell Moffit\n\nReferences and Further Reading:\n\nhttps://www.scirp.org/journal/paperinformation?paperid=106424\n\nhttps://ray.yorksj.ac.uk/id/eprint/2626/1/Curran%20%26%20Hill%20%282018%29%20PB.pdf\n\nhttps://psycnet.apa.org/doiLanding?doi=10.1037%2Fbul0000138\n\nhttps://psycnet.apa.org/doiLanding?doi=10.1037%2F0021-843X.100.1.98\n\nhttps://www.sciencedirect.com/science/article/abs/pii/S0191886919301989?via%3Dihub\n\nhttps://www.taylorfrancis.com/chapters/edit/10.4324/9781315536255-20/perfectionism-therapeutic-context-paul-hewitt-gordon-flett-samuel-mikail-davi",
+        "id": 2622572,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=7nUY_rGpx-4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 22,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCC552Sd-3nyi_tk2BudLUzA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/7nUY_rGpx-4/hqdefault.jpg",
+        "title": "Don't let it ruin yours too",
+        "vote": 0
+    }
+]

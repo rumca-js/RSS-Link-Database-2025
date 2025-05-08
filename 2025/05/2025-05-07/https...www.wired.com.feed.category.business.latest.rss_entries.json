@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louise Matsakis, Zo\u00eb Schiffer",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T22:35:18.906598+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T22:10:20+00:00",
+        "description": "Donald Trump has proposed launching a \"gold card\" program offering US residency for $5 million. Elon Musk\u2019s DOGE has begun rolling out the technology to enable it.",
+        "id": 2625324,
+        "language": "en-US",
+        "link": "https://www.wired.com/story/doge-trump-gold-visa-program-immigration",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 396,
+        "source_url": "https://www.wired.com/feed/category/business/latest/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://media.wired.com/photos/681120db4e4a0c6a80f4e28b/master/pass/Politics_GoldenVisa_GettyImages-487133726.jpg",
+        "title": "A 'Trump Card Visa' Is Already Showing Up in Immigration Forms",
+        "vote": 0
+    }
+]

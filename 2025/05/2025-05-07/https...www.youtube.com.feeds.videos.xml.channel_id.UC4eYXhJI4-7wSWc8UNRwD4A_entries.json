@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-07T09:37:13.746914+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-07T09:00:33+00:00",
+        "description": "Lars Gotrich | May 7, 2025\nMusic can transport you, even or especially when the destination's unknown. For 22 minutes, this is what Jeff Parker's Tiny Desk with the ETA IVtet can offer: a space for your mind to meditate on what the music speaks, set to a gossamer groove.\n\nEven though Parker is in the group's name, equality runs the show: a quiet drone sets the tone, then the music is completely improvised. Stillness, followed by reflection and response. Josh Johnson, an alto saxophonist with a quiet-yet-commanding sense of effects, builds little worlds out of loops and fluttering melody. Jay Bellerose, a drummer who's worked with the likes of Allen Toussaint and Suzanne Vega, is painterly in his brush and stick work, but bursts with a sun-beamed drum fill when the moment calls. Anna Butterss performed next to Jenny Lewis for her Tiny Desk in early 2020; here, the bassist both provides a grounding presence and the basis for liftoff. Parker \u2014 an immediately recognizable, yet malleable g",
+        "id": 2618814,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=FsnwgTn3WWc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FsnwgTn3WWc/hqdefault.jpg",
+        "title": "Jeff Parker ETA IVtet: Tiny Desk Concert",
+        "vote": 0
+    }
+]
