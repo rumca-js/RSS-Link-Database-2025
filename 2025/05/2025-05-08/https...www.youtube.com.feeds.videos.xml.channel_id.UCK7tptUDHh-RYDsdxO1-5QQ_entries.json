@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Wall Street Journal",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-08T14:47:06.060091+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-08T14:00:47+00:00",
+        "description": "The cocaine trade is far bigger and more geographically diverse than at any other point in history with some groups opening up underwater smuggling routes from South America as far as Europe and Australia, using homemade narco submarines. In 2019, the first narco sub in Europe was found off the coast of the Spanish region of Galicia after a 27-day journey across the Atlantic. \n\nWSJ explores how drug cartels are evading authorities using submersibles to deliver record-breaking shipments worth billions of dollars around the world.\n\nChapters:\n0:00 The cocaine trade\n0:41 The first narco sub discovered in Spain\n1:41 What is a narco sub?\n3:45 Tracking the subs\n5:47 Outsmarting authorities\n6:50 Europe\u2019s drug crisis\n\nNews Explainers\nSome days the high-speed news cycle can bring more questions than answers. WSJ\u2019s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.\n\n#Crime #Spain #WSJ",
+        "id": 2628921,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=XnLIThfY2qc",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 363,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/XnLIThfY2qc/hqdefault.jpg",
+        "title": "The New, Secret Cocaine Superhighway Under the Atlantic | WSJ",
+        "vote": 0
+    }
+]

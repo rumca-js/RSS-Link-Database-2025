@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Dashveenjit Kaur",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-08T07:40:57.432423+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-08T06:45:35+00:00",
+        "description": "<p>Samsung Electronics&#8217; strategic focus on AI has delivered high revenue in the first quarter of 2025, as the South Korean tech giant navigates semiconductor market challenges and growing global trade uncertainties. The company posted an all-time quarterly high revenue of KRW 79.14 trillion ($55.4 billion), marking a 10% increase year-over-year, according to its financial results [&#8230;]</p>\n<p>The post <a href=\"https://www.artificialintelligence-news.com/news/samsung-ai-strategy-delivers-record-revenue-despite-semiconductor-headwinds/\">Samsung AI strategy delivers record revenue despite semiconductor headwinds</a> appeared first on <a href=\"https://www.artificialintelligence-news.com\">AI News</a>.</p>",
+        "id": 2627421,
+        "language": "en-GB",
+        "link": "https://www.artificialintelligence-news.com/news/samsung-ai-strategy-delivers-record-revenue-despite-semiconductor-headwinds",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 10,
+        "source_url": "https://www.artificialintelligence-news.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Samsung AI strategy delivers record revenue despite semiconductor headwinds",
+        "vote": 0
+    }
+]

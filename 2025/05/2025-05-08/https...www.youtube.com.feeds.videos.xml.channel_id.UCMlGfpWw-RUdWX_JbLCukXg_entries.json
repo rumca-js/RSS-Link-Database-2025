@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-08T14:57:41.815565+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-08T14:07:09+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Just the Cliff Notes: A C++ Mentorship Adventure - Alexandria Hernandez Mann - CppCon 2024\n---\n\nThis lightning talk is about the experience of having a mentor as a novice C++ programmer. I share the unexpected start of my C++ mentorship and where it has taken me. Aided by colorful graphics, I advocate for other C++ programmers to take on mentees, especially mentees who reflect aspects of identity different from their own.\n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nAlexandria Hernandez Mann\n---\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosphere designed to help attendees learn from each other, meet interesting people, and generally have a stimulating experience. Taking place this year in Aurora, Colorado, near the Denver airport, and including multiple diverse ",
+        "id": 2629695,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=WafK6SyNx7w",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WafK6SyNx7w/hqdefault.jpg",
+        "title": "Lightning Talk: Just the Cliff Notes: A C++ Mentorship\u00a0Adventure - Alexandria Hernandez Mann",
+        "vote": 0
+    }
+]

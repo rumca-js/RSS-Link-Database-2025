@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-08T22:22:22.717388+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-08T21:00:06+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/3NQ6L-4v04Y\" width=\"480\" alt=\"thumbnail\" title=\"Redis Changed There License AGAIN!?!\" /></p>About a year ago Redis changed from the BSD 3 clause license to a dual license system of RSAL and SSPL and now they've changed again to including the AGPL as a third option<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />License Change: https://github.com/redis/redis/pull/13157<br />Valkey Github: https://github.com/valkey-io/valkey<br />Linux Foundation Valkey: https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community<br />Redis Licenses: https://redis.io/legal/licenses/<br />CEO Blog: https://redis.io/blog/agplv3/<br />Founder Blog: https://antirez.com/news/1",
+        "id": 2633632,
+        "language": "en",
+        "link": "https://odysee.com/redis-changed-there-license-again!-!:c293c4a0b087d9d3dcfa0e62162d0f302dd1e958",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Redis Changed There License AGAIN!?!",
+        "vote": 0
+    }
+]

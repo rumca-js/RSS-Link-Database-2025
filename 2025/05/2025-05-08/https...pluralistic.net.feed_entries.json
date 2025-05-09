@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Cory Doctorow",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-08T18:17:22.932978+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-08T17:54:14+00:00",
+        "description": "Today's links Who broke the internet?: My new podcast series from the CBC. Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015, 2020 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Who broke the internet? (permalink) \"Who Broke the Internet?\" is a new podcast from CBC Understood that I host and co-wrote &#8211; it's a four-part series that explains how the enshitternet came about, and, more importantly, what we can do about it. Episode one is out this week: https://www.cbc.ca/listen/cbc-podcasts/1353-the-naked-emperor/episode/16144078-dont-be-evil The thesis of the series &#8211; and indeed, of my life's work &#8211; is that the internet didn't turn to shit because of the \"great forces of history,\" or \"network effects,\" or \"returns to scale.\" Rather, the Great Enshittening is the result of specific p",
+        "id": 2632023,
+        "language": "en-US",
+        "link": "https://pluralistic.net/2025/05/08/who-broke-the-internet",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 253,
+        "source_url": "https://pluralistic.net/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Pluralistic: Who broke the internet? (08 May 2025)",
+        "vote": 0
+    }
+]

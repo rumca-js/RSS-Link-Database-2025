@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-08T14:49:36.279035+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-08T13:44:00+00:00",
+        "description": "Israel\u2019s continued blockade of humanitarian aid into Gaza forced a major relief organization on Thursday to close its community soup kitchens, as empty warehouses and the lack of r...",
+        "id": 2629148,
+        "language": "en-US",
+        "link": "https://www.dailysabah.com/world/mid-east/leading-aid-group-shuts-gaza-soup-kitchens-amid-israeli-blockade",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 81,
+        "source_url": "https://www.dailysabah.com/rssFeed/12/13",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://idsb.tmgrup.com.tr/ly/uploads/images/2025/05/08/381373.jpg",
+        "title": "Leading aid group shuts Gaza soup kitchens amid Israeli blockade",
+        "vote": 0
+    }
+]

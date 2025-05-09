@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "John Gruber",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-08T01:40:01.601752+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-08T00:57:53+00:00",
+        "description": "<p>Bloomberg:</p>\n\n<blockquote>\n  <p>Apple Inc. is \u201cactively looking at\u201d revamping the Safari web\nbrowser on its devices to focus on AI-powered search engines, a\nseismic shift for the industry hastened by the potential end of a\nlongtime partnership with Google.</p>\n\n<p>Eddy Cue, Apple\u2019s senior vice president of services, made the\ndisclosure Wednesday during his testimony in the US Justice\nDepartment\u2019s lawsuit against Alphabet Inc. The heart of the\ndispute is the two companies\u2019 estimated $20 billion-a-year deal\nthat makes Google the default offering for queries in Apple\u2019s\nbrowser. The case could force the tech giants to unwind the\npact, upending how the iPhone and other devices have long\noperated. [...]</p>\n\n<p>Cue said he believes that AI search providers, including OpenAI,\nPerplexity AI Inc. and Anthropic PBC, will eventually replace\nstandard search engines like Alphabet\u2019s Google. He said he\nbelieves Apple will bring those options to Safari in the future.\n\u201cWe will add them to the lis",
+        "id": 2626160,
+        "language": null,
+        "link": "https://www.bloomberg.com/news/articles/2025-05-07/apple-working-to-move-to-ai-search-in-browser-amid-google-fallout",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 489,
+        "source_url": "https://daringfireball.com/feeds/main",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Eddy Cue, on the Stand in U.S. v. Google Trial, Says Apple Is Eying a Move to AI in Safari",
+        "vote": 0
+    }
+]

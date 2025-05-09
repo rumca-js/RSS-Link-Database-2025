@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-08T14:58:39.701588+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-08T13:12:31+00:00",
+        "description": "TEHRAN - Iran\u2019s FIFA Beach Soccer World Cup Seychelles 2025 title ambitions came to a premature end after losing 4-3 to Belarus in the quarter-finals on Thursday.",
+        "id": 2629718,
+        "language": "en-US",
+        "link": "https://www.tehrantimes.com/news/512786/Iran-s-dream-in-2025-Beach-Soccer-World-Cup-ended",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 331,
+        "source_url": "https://www.tehrantimes.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Iran\u2019s dream in 2025 Beach Soccer World Cup ended",
+        "vote": 0
+    }
+]

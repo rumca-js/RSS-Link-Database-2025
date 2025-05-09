@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-08T15:59:35.886494+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-08T14:52:44+00:00",
+        "description": "This free GenAI Bootcamp is designed to equip you with foundational and practical knowledge for working with AI in the cloud. It caters to all skill levels, taking you from an absolute beginner to an intermediate understanding of Generative AI concepts and applications. You will engage in hands-on programming, exploring topics like Jupyter Notebooks, Python data libraries, model fine-tuning, prompt engineering, and building AI agents. As a core project, you'll develop a collection of AI-powered learning applications for a Japanese Language Learning School.\n\nhttps://genai.cloudprojectbootcamp.com/\n\nDeveloped by Andrew Brown.\n\n- 00:00:00 Intro freeCodeCamp\n- 00:03:43 Additional Resources from freeCodeCamp\n- 00:04:50 How To Register For Free GenAI Bootcamp\n- 00:12:38 Welcome to the Free GenAI Bootcamp\n- 00:13:16 Free GenAI Bootcamp Preweek\n- 02:13:06 Gen AI Architecting\n- 02:34:19 GenAI Fireside Chat with Quincy\n- 03:12:10 Japanese Language Primer GenAI Bootcamp\n- 04:09:34 Sentence Const",
+        "id": 2630516,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=DOXJ7s1D6iE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DOXJ7s1D6iE/hqdefault.jpg",
+        "title": "Generative AI Bootcamp \u2013 Complete 65-Hour Course",
+        "vote": 0
+    }
+]

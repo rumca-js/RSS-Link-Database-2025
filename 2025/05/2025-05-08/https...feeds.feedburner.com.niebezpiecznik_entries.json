@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marcin Maj",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-08T16:40:02.546985+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-08T14:34:23+00:00",
+        "description": "<p>Zmiana adresu URL w przegl\u0105darce pozwala\u0142a na pobranie dokumentacji medycznej r\u00f3\u017cnych os\u00f3b przez Internetowe Konto Pacjenta. B\u0142\u0105d dotyczy\u0142 prawdopodobnie pacjent\u00f3w jednego szpitala.</p>\n<p><span id=\"more-26448\"></span></p>\n<p>Ministerstwo Zdrowia na swojej stronie internetowej w do\u015b\u0107 niepozornej zak\u0142adce &#8220;komunikaty&#8221;\u00a0 zamie\u015bci\u0142o &#8220;<a href=\"https://www.gov.pl/web/zdrowie/komunikat-o-naruszeniu-ochrony-danych-osobowych2\">Komunikat o naruszeniu ochrony danych osobowych</a>&#8220;. Czyje dane wyciek\u0142y? To nie jest pewne, natomiast komunikat m\u00f3wi o do\u015b\u0107 powa\u017cnym incydencie. Ot\u00f3\u017c <strong>u\u017cytkownicy Internetowego Konta Pacjenta mogli podejrze\u0107 dane innych os\u00f3b</strong>.</p>\n<div id=\"attachment_26449\" style=\"width: 610px\" class=\"wp-caption aligncenter\"><a href=\"https://niebezpiecznik.pl/wp-content/uploads/2025/05/komunikat.jpeg\"><img fetchpriority=\"high\" decoding=\"async\" aria-describedby=\"caption-attachment-26449\" class=\"size-large wp-image-26449\" src=\"https://niebezpiecz",
+        "id": 2630852,
+        "language": null,
+        "link": "https://niebezpiecznik.pl/post/dane-pacjentow-pewnego-szpitala-wyciekly-przez-internetowe-konto-pacjenta",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 239,
+        "source_url": "https://feeds.feedburner.com/niebezpiecznik",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Dane pacjent\u00f3w pewnego szpitala wyciek\u0142y przez Internetowe Konto Pacjenta",
+        "vote": 0
+    }
+]

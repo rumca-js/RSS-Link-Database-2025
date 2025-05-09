@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "GameSpot",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-08T18:02:20.085529+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-08T17:10:57+00:00",
+        "description": "How are your parrying skills in Clair Obscur? #clairobscurexpedition33 #expedition33 #gameplay",
+        "id": 2631779,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=AkC4eWwpDew",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 127,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbu2SsF-Or3Rsn3NxqODImw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/AkC4eWwpDew/hqdefault.jpg",
+        "title": "Learning to PARRY In CLAIR OBSCUR: EXPEDITION 33",
+        "vote": 0
+    }
+]

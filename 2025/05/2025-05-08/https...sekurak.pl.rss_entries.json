@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tomasz Turba",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-08T16:54:40.449528+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-08T16:19:56+00:00",
+        "description": "<p>15 maja? Zanotujcie sobie t\u0119 dat\u0119 w kalendarzu! Tego dnia zapraszamy na Sekurak Cyberstarter 2025 (ca\u0142y dzie\u0144, online), czyli konferencj\u0119, kt\u00f3ra powinna sta\u0107 si\u0119 punktem obowi\u0105zkowym dla ka\u017cdej osoby interesuj\u0105cej si\u0119 tematyk\u0105 ITsec! Pierwsza edycja konferencji (6 grudnia 2024 r.) rozbi\u0142a bank \u2013 ponad 4750 uczestnik\u00f3w live, ocena 9,6/10 i...</p>\n<p>Artyku\u0142 <a rel=\"nofollow\" href=\"https://sekurak.pl/sekurak-cyberstarter-2025-pelna-agenda-6-sciezek-40-prelekcji-i-inne-atrakcje-zobacz-co-przygotowalismy/\">Sekurak Cyberstarter 2025 \u2013 Pe\u0142na agenda, 6 \u015bcie\u017cek, 40+ prelekcji i inne atrakcje! Zobacz co przygotowali\u015bmy!</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>",
+        "id": 2631056,
+        "language": "pl-PL",
+        "link": "https://sekurak.pl/sekurak-cyberstarter-2025-pelna-agenda-6-sciezek-40-prelekcji-i-inne-atrakcje-zobacz-co-przygotowalismy",
+        "manual_status_code": 0,
+        "page_rating": 32,
+        "page_rating_contents": 100,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 300,
+        "source_url": "https://sekurak.pl/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Sekurak Cyberstarter 2025 \u2013 Pe\u0142na agenda, 6 \u015bcie\u017cek, 40+ prelekcji i inne atrakcje! Zobacz co przygotowali\u015bmy!",
+        "vote": 0
+    }
+]

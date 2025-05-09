@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-08T14:58:57.808852+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-08T14:58:57+00:00",
+        "description": "Ich liczba stale w miastach ro\u015bnie. Czasami z ich powodu dochodzi do wypadk\u00f3w. Samorz\u0105dy szukaj\u0105 sposob\u00f3w na poradzenie sobie z coraz wi\u0119kszymi stadami dzik\u00f3w na osiedlach.",
+        "id": 2629740,
+        "language": "pl-PL",
+        "link": "https://regiony.rp.pl/z-regionow/art42249981-dzik-w-wielkim-miescie-ludzi-sie-nie-boi-tylko-lowczych",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 272,
+        "source_url": "https://regiony.rp.pl/rss/1441-regiony",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Dzik w wielkim mie\u015bcie ludzi si\u0119 nie boi. Tylko \u0142owczych",
+        "vote": 0
+    }
+]

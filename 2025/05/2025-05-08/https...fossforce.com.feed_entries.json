@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Christine Hall",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-08T17:56:08.568704+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-08T17:36:40+00:00",
+        "description": "<p><em>The new upgrade to System76's Serval WS reminds us of an old song by The Band because, \"it's a gamer's dream if we ever did see one.\"</em></p>\n<p>The post <a href=\"https://fossforce.com/2025/05/system76s-got-game-with-its-new-serval-ws-laptop/\">System76&#8217;s Got Game With Its New Serval WS Laptop</a> appeared first on <a href=\"https://fossforce.com\">FOSS Force</a>.</p>",
+        "id": 2631685,
+        "language": "en-US",
+        "link": "https://fossforce.com/2025/05/system76s-got-game-with-its-new-serval-ws-laptop",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 108,
+        "source_url": "https://fossforce.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "System76\u2019s Got Game With Its New Serval WS Laptop",
+        "vote": 0
+    }
+]

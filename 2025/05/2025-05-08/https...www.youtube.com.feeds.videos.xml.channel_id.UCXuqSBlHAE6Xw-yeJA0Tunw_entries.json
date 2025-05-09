@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Linus Tech Tips",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-08T18:04:10.458242+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-08T17:29:03+00:00",
+        "description": "Thank you @DreoOfficial for sponsoring this video! From air purifiers to heaters and fans, DREO's got your comfort covered. Check out the powerful, quiet, and drainage-free AC516S, along with the rest of DREO's lineup, and use code LTT to get 17% off: \n\nDREO Smart Air Conditioner AC516S: https://bit.ly/3XFUCG9\nDREO TurboPoly\u2122 Fan 508S: https://bit.ly/42ZUJOr \nAlso available on Amazon: https://bit.ly/4jGGkh9\n\n*Exclusive discount code valid on DREO's website*\n\nWhat if we told you the BEST PC cooling solution might already be in your house? All you need is some dryer ducting, a bunch of 3D printed parts, a standard air conditioner, and... on second thought, maybe this isn\u2019t our greatest idea after all.\n\nDiscuss on the forum: https://linustechtips.com/topic/1611411-everyone-is-cooling-their-pc-wrong/\n\nCheck out the 3D prints from the video: https://www.printables.com/model/1281616-acpc-printed-parts\n\n\u25ba GET OUR MERCH: https://lttstore.com\n\u25ba GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.",
+        "id": 2631832,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=G2pQV3-JXNU",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 194,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/G2pQV3-JXNU/hqdefault.jpg",
+        "title": "Everyone is Cooling Their PC Wrong",
+        "vote": 0
+    }
+]
