@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Nerdstalgic",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T17:33:38.003552+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T17:00:17+00:00",
+        "description": "Ben Stiller is best known for his legendary comedy career\u2014with unforgettable performances in Zoolander, Meet the Parents, Tropic Thunder, and There\u2019s Something About Mary. But in recent years, Ben Stiller redefined himself as a powerhouse director and producer\u2014especially with the critically acclaimed Apple TV+ thriller Severance.  \n\nFrom Blue Steel to Bleak Corporate Dystopia, Ben Stiller\u2019s creative journey is one of Hollywood\u2019s most fascinating transformations.\n\n#benstiller #severance #zoolander #tropicthunder #nerdstalgic",
+        "id": 2640367,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=EVkqJrgcry4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 236,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXjmz8dFzRJZrZY8eFiXNUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/EVkqJrgcry4/hqdefault.jpg",
+        "title": "Why Did Comedy's Biggest Star Stop Making Comedies?",
+        "vote": 0
+    }
+]

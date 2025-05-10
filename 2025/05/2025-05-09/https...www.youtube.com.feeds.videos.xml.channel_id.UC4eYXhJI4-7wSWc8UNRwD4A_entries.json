@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "NPR Music",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T09:33:40.264145+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T09:00:45+00:00",
+        "description": "Elle Mannion | May 9, 2025\nKatie Gavin is the kind of performer whose dynamism knows no bounds. Whether she\u2019s performing with her pop band MUNA or solo, Gavin is a captivating presence. \n\nEach of the four songs Gavin plays from her folksy record, What a Relief, have ambitious and honest lyrics, yet no two songs sound the same. \u201cAftertaste\u201d serves as a bridge between MUNA\u2019s sound and Gavin\u2019s solo work. \u201cThe Baton\u201d is a violin-forward reflection on intergenerational trauma. \u201cSanitized\u201d is groovy and introspective. And Gavin\u2019s performance of \u201cSketches\u201d puts her on par with the Lilith Fair artists whose sounds inspired her album. \n\n\u201cThis whole solo record was very, like, experimental and playful,\u201d says Gavin as she shifts between the violin, piano and guitar. \u201cI'm playing a lot of instruments that I don't really play,\u201d she admits \u2014 though you wouldn\u2019t guess that by the way she casually slays a violin solo or plays the piano with her eyes closed. \n\nBefore \u201cSketches,\u201d a song that deals with",
+        "id": 2636564,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=T5j8JewmnuE",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 225,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4eYXhJI4-7wSWc8UNRwD4A",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/T5j8JewmnuE/hqdefault.jpg",
+        "title": "Katie Gavin:Tiny Desk Concert",
+        "vote": 0
+    }
+]

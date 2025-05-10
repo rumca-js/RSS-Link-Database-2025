@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "freeCodeCamp.org",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T09:33:44.993861+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T09:00:32+00:00",
+        "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Sam Crombie. He's a software engineer and prolific open source contributor to freeCodeCamp. He abandon his job at Microsoft, got into Y Combinator, and is currently in startup pivot hell trying to decide how to use the half million he raised.\n\nWe talk about:\nHow useful are AI coding tools, really?\nTips for getting new users to care about your projects\nWhat's its really like running a Y-Combinator-funded tech startup\nTips for getting into an Ivy League computer science degree program\n\nSupport for freeCodeCamp comes from the 11,384 kind folks who support our charity through a monthly donation. You can join these chill human beings and aid us in our mission by going to donate.freecodecamp.org\n\nSupport for also comes from a grant from Wix Studio. Wix Studio provides developers tools to rapidly build websites with everything out-of-the-box, then extend, replace, and break boundaries with code. Learn more a",
+        "id": 2636567,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=FHLmuNj20bA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 422,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/FHLmuNj20bA/hqdefault.jpg",
+        "title": "Life in Startup Pivot Hell with Ex-Microsoft Lonewolf Engineer Sam Crombie [Podcast #171]",
+        "vote": 0
+    }
+]

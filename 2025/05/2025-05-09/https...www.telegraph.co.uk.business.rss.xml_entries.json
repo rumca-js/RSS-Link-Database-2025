@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Tim Wallace",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T17:30:30.891487+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T17:19:42+00:00",
+        "description": "Trump prepares to lower tariffs on China",
+        "id": 2640302,
+        "language": "en-UK",
+        "link": "https://www.telegraph.co.uk/business/2025/05/09/trump-tariffs-trade-uk-us-eu-andrew-bailey-ftse-100-markets",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 81,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 354,
+        "source_url": "https://www.telegraph.co.uk/business/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Trump prepares to lower tariffs on China",
+        "vote": 0
+    }
+]

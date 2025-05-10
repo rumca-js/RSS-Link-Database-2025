@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/renegat0x0",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T07:17:12.194116+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T06:21:23+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Yes, there are many but I had problems with feedparser. I created something... different.</p> <p>Maybe anybody will be interested <a href=\"https://github.com/rumca-js/brutefeedparser\">https://github.com/rumca-js/brutefeedparser</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/renegat0x0\"> /u/renegat0x0 </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1kibqmh/python_library_for_parsing_rss/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1kibqmh/python_library_for_parsing_rss/\">[comments]</a></span>",
+        "id": 2635924,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1kibqmh/python_library_for_parsing_rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Python library for parsing RSS",
+        "vote": 0
+    }
+]

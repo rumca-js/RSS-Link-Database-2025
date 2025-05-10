@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Gamers Nexus",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T01:54:24.443006+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T00:20:26+00:00",
+        "description": "Sponsor: Thermal Grizzly Duronaut on Amazon - https://geni.us/tpgcPMw\nThe Corsair FRAME 4000D case puts Corsair on a much better path than its other recent cases, like the 6500D. The FRAME 4000D and 4000D RS ARGB reprises concepts from the \"normal\" 4000D and 4000X cases, but only the concepts - the case itself has been totally overhauled. The motherboard tray, power supply shroud, and other components are modular and intended to be replaceable with 3D printable components. Even without that aspect though, the front mesh is wide open and breathable, helping with thermal performance in our benchmarking. This is a much better showing from Corsair than the trainwreck that was their last case.\n\nWe've added fans to functionally convert it into the FRAME 4000D RS ARGB in thermal benchmarking.\n\nWatch: Corsair Forgot How to Make a Case - https://www.youtube.com/watch?v=jIu8TToPY3A\nOr our recent Montech HS01 and HS02 review here: https://www.youtube.com/watch?v=Ijy2C5YVAeo\n\nThe best way to supp",
+        "id": 2634759,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=ICDGSVLqFVw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 428,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/ICDGSVLqFVw/hqdefault.jpg",
+        "title": "Corsair Remembered How to Make a Case: Frame 4000D RS ARGB Review",
+        "vote": 0
+    }
+]

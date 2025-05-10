@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Charlie Wood",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T13:56:46.066280+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T13:54:38+00:00",
+        "description": "The physicist Sidney Nagel delights in solving mysteries of the universe that are hiding in plain sight.            <p>The post <a href=\"https://www.quantamagazine.org/finding-beauty-and-truth-in-mundane-occurrences-20250509/\" target=\"_blank\">Finding Beauty and Truth in Mundane Occurrences</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+        "id": 2638580,
+        "language": "en-US",
+        "link": "https://www.quantamagazine.org/finding-beauty-and-truth-in-mundane-occurrences-20250509",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 91,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 490,
+        "source_url": "https://quantamagazine.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2025/05/SidneyNagel-cr.KristenNorman-Default.webp",
+        "title": "Finding Beauty and Truth in Mundane Occurrences",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Jeff Geerling",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T15:01:37.957117+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T14:00:38+00:00",
+        "description": "Can we finally build a midrange Arm PC? Maybe. Thanks to Micro Center for sponsoring this video!\n\nShop Micro Center\u2019s Top Deals: https://micro.center/d6a529\nSign up for a FREE 128gig Flash Drive When Santa Clara Opens: https://micro.center/af854c\nCheck out Micro Center\u2019s GPU Trade In Program: https://micro.center/92b995\nRead up on ALL Things Tech at MC News: https://micro.center/4972f0\n\nLinks to things I mentioned in the video:\n\n  - Radxa Orion O6: https://radxa.com/products/orion/o6/\n  - System76 Thelio Astra video: https://www.youtube.com/watch?v=AshDjtlV6go\n  - All my O6 test results: https://github.com/geerlingguy/sbc-reviews/issues/62\n  - O6 LLM test results: https://github.com/geerlingguy/ollama-benchmark/issues/13\n  - O6 HPL test results: https://github.com/geerlingguy/top500-benchmark/issues/54\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.yo",
+        "id": 2639179,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=OMnCqmM-WKo",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 161,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OMnCqmM-WKo/hqdefault.jpg",
+        "title": "The Custom Arm PC Era is here.",
+        "vote": 0
+    }
+]

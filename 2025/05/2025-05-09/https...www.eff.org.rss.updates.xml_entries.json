@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Thorin Klosowski",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T22:05:49.189188+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T21:53:47+00:00",
+        "description": "<div class=\"field field--name-body field--type-text-with-summary field--label-hidden\"><div class=\"field__items\"><div class=\"field__item even\"><p><span>Encrypted chat apps like Signal and WhatsApp are one of the best ways to keep your digital conversations as private as possible. But if you\u2019re not careful with how those conversations are backed up, you can accidentally undermine your privacy. <br /></span></p>\n<p><span>When a conversation is properly encrypted end-to-end, it means that the contents of those messages are only viewable by the sender and the recipient. The organization that runs the messaging platform\u2014such as Meta or Signal\u2014does not have access to the contents of the messages. But it does have access to some </span><a href=\"https://ssd.eff.org/module/why-metadata-matters\"><span>metadata</span></a><span>, like the who, where, and when of a message. Companies have different retention policies around whether they hold onto that information after the message is sent.</span></",
+        "id": 2642381,
+        "language": "en",
+        "link": "https://www.eff.org/deeplinks/2025/05/back-it-back-it-let-us-begin-explain-encrypted-chat-backups",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 101,
+        "source_url": "https://www.eff.org/rss/updates.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "How Signal, WhatsApp, Apple, and Google Handle Encrypted Chat Backups",
+        "vote": 0
+    }
+]

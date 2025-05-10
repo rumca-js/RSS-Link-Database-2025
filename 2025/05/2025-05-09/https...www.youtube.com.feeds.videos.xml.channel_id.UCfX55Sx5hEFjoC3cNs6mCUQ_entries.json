@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "The Linux Foundation",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T13:38:56.185117+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T13:00:52+00:00",
+        "description": "Open source isn\u2019t just part of modern tech\u2014it\u2019s the foundation. Most products today are built on shared, reusable code, with only a small layer of custom work on top. It\u2019s faster, smarter, and built for scale. That\u2019s why open source keeps winning. \n\n#OpenSource #TechInnovation",
+        "id": 2638310,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=WNrFq8nhBOA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 499,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfX55Sx5hEFjoC3cNs6mCUQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/WNrFq8nhBOA/hqdefault.jpg",
+        "title": "The Power of Open Source in Technology",
+        "vote": 0
+    }
+]

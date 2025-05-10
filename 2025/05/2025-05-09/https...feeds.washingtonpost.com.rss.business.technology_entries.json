@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Shira Ovide",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T17:35:25.816924+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T16:30:00+00:00",
+        "description": "I challenged myself, and readers, to try switching away from the search king. Here\u2019s what I learned.",
+        "id": 2640379,
+        "language": null,
+        "link": "https://www.washingtonpost.com/technology/2025/05/09/quit-google-search",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "I broke up with Google search. It was surprisingly easy.",
+        "vote": 0
+    }
+]

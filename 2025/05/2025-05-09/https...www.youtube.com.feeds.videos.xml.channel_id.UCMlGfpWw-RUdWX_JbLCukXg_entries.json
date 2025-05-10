@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "CppCon",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T15:01:56.799179+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T14:07:07+00:00",
+        "description": "https://cppcon.org\u200b\n---\n\nLightning Talk: Rust Programming in 5 Minutes - Tyler Weaver - CppCon 2024\n---\n\nI'm now working in Rust and now I have time for all sorts of frivolous learning. It is glorious. I'm going to try in 5min to teach a bit of Rust to a C++ audience.\n---\n\nSponsored by JetBrains: https://www.jetbrains.com/clion/\n---\n\nTyler Weaver\n \nTyler Weaver has been writing C++ for 10 short years in multiple domains. He's worked on signal processing, robotics, and now back-end web development at SciTec.\n---\n\nCppCon is the annual, week-long face-to-face gathering for the entire C++ community. The conference is organized by the C++ community for the community. You will enjoy inspirational talks and a friendly atmosphere designed to help attendees learn from each other, meet interesting people, and generally have a stimulating experience. Taking place this year in Aurora, Colorado, near the Denver airport, and including multiple diverse tracks, the conference will appeal to anyone fr",
+        "id": 2639196,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=j6UwvOD0n-A",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 420,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMlGfpWw-RUdWX_JbLCukXg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/j6UwvOD0n-A/hqdefault.jpg",
+        "title": "Lightning Talk: Rust Programming in 5 Minutes - Tyler Weaver - CppCon 2024",
+        "vote": 0
+    }
+]

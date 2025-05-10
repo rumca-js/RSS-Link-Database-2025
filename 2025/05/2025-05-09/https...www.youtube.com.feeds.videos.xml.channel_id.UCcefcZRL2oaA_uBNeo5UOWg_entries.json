@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Y Combinator",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T14:42:47.977543+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T14:00:46+00:00",
+        "description": "AI coding agents are no longer a distant idea\u2014they're already starting to reshape how we work. \n\nYC's Tom Blomfield and David Lieb discuss how AI coding tools are transforming software development, why small, high-agency teams will be able to do what once took armies of engineers, and why there's never been a better time to start something new. They explore the bigger picture too: a future where there's more abundance, knowledge work becomes more accessible, and founders have more leverage than ever before.\n\nIf you're thinking about building, there's no better moment than right now.\n\n0:00 Intro\n0:46 The combine harvester argument for AI\n2:23 Building with no-code tools\n5:37 The arguments against AI coding\n7:01 Jevons Paradox\n9:26 What happens to the software jobs of today?\n12:16 How will these tools affect knowledge work?\n15:08 The transitory challenge period for people\n16:21 Advice for future founders",
+        "id": 2638862,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=TECDj4JUx7o",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 404,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TECDj4JUx7o/hqdefault.jpg",
+        "title": "How AI Coding Agents Will Change Your Job",
+        "vote": 0
+    }
+]

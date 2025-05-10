@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Universal Pictures",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T19:52:52.487452+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T19:00:31+00:00",
+        "description": "From their first spark to their bitter downfall, Tony Montana (Al Pacino) and Elvira Hancock (Michelle Pfeiffer) ride a wave of power, excess, and ultimate destruction.\n\nBuy/Rent Scarface!\nAmazon: https://www.amazon.com/Scarface-Al-Pacino/dp/B000ID37SQ\niTunes: https://itunes.apple.com/us/movie/scarface-1983/id304604475\nYouTube: https://www.youtube.com/watch?v=arRdMvrjwEI\nGoogle Play: https://play.google.com/store/movies/details/Scarface?id=arRdMvrjwEI&hl=en_US\nFandango Now: https://www.fandangonow.com/details/movie/scarface-1983/1MVcb9aa79dfbb6b1232f3ac08f240d9903\nVUDU: https://www.vudu.com/content/movies/details/Scarface/5872\nUniversal Home Entertainment: https://www.uphe.com/movies/scarface-1983\n\nIn the spring of 1980, the port at Mariel Harbor was opened, and thousands set sail for the United States. They came in search of the American Dream. One of them found it on the sun-washed avenues of Miami... wealth, power and passion beyond his wildest dreams. He was Tony Montana. The worl",
+        "id": 2641536,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=OQMIO4jfqL0",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 598,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCq0OueAsdxH6b8nyAspwViw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/OQMIO4jfqL0/hqdefault.jpg",
+        "title": "The Story of Tony Montana and Elvira",
+        "vote": 0
+    }
+]

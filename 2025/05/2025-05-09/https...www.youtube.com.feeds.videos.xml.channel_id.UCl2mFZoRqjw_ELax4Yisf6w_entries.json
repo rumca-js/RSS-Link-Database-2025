@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Louis Rossmann",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T01:51:53.238482+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T00:52:18+00:00",
+        "description": "HOW TO FILE A COMPLAINT: https://oag.ca.gov/contact/consumer-complaint-against-business-or-company\n\nAlternative page to file complaints: https://dca.ca.gov/\n\nlaw: https://leginfo.legislature.ca.gov/faces/billPdf.xhtml?bill_id=202320240AB2426&version=20230AB242693CHP\n\nsample violation: https://consumerrights.wiki/VitalSource_%22Lifetime%22_false_advertising#cite_ref-ab2426_5-0\n\nvitalsource textbook with fake lifetime license: https://www.vitalsource.com/products/calculus-james-stewart-daniel-k-v9798214339221\n\nbs disclosure: https://support.vitalsource.com/hc/en-us/articles/28012656781847-CA-Disclosure-Support-Page\n\nPLEASE HELP ME BUILD OUT THE CONSUMER RIGHTS WIKI: https://consumerrights.wiki",
+        "id": 2634748,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=fUwuRtkn2Hk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 201,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCl2mFZoRqjw_ELax4Yisf6w",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i3.ytimg.com/vi/fUwuRtkn2Hk/hqdefault.jpg",
+        "title": "Does California enforce its laws? HELP ME FIND OUT!",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T13:52:17.244073+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T13:04:52+00:00",
+        "description": "UN agencies say they will not co-operate with the proposed system because it appears to \"weaponise\" aid.",
+        "id": 2638516,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/cp92rlm300mo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b82/live/20fc0330-2ccd-11f0-8ff1-59f5dcf8e9f5.jpg",
+        "title": "US confirms plan for private firms to deliver Gaza aid despite UN alarm",
+        "vote": 0
+    }
+]

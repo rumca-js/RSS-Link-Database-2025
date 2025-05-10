@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T16:04:27.848832+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T16:04:27+00:00",
+        "description": "Rz\u0105d Wielkiej Brytanii og\u0142osi\u0142 \u201enajwi\u0119kszy w historii\u201d pakiet sankcji antyrosyjskich. Jego celem jest zwi\u0119kszenie presji na rosyjskiego dyktatora i ochrona krytycznej infrastruktury w Wielkiej Brytanii i Unii Europejskiej.",
+        "id": 2639691,
+        "language": "pl-PL",
+        "link": "https://www.rp.pl/biznes/art42257331-londyn-uderza-w-moskwe-najwiekszymi-sankcjami-w-historii",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Londyn uderza w Moskw\u0119 najwi\u0119kszymi sankcjami w historii",
+        "vote": 0
+    }
+]

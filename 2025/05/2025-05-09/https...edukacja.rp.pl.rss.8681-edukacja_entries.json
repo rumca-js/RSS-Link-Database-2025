@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T05:10:54.855631+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T05:10:53+00:00",
+        "description": "Egzaminy \u00f3smoklasisty 2025, podobnie jak matury, ma miejsce w maju. Termin dodatkowy dla uczni\u00f3w, kt\u00f3rzy z przyczyn losowych lub zdrowotnych nie przyst\u0105pi\u0105 do egzaminu w terminie g\u0142\u00f3wnym, ustalono na czerwiec.",
+        "id": 2635430,
+        "language": "pl-PL",
+        "link": "https://edukacja.rp.pl/matura-i-egzamin-osmoklasisty/art42249011-egzaminy-osmoklasisty-2025-kiedy-sa-i-ile-trwaja-czy-mozna-ich-nie-zdac",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 270,
+        "source_url": "https://edukacja.rp.pl/rss/8681-edukacja",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Egzaminy \u00f3smoklasisty 2025: Kiedy s\u0105 i ile trwaj\u0105? Czy mo\u017cna ich nie zda\u0107?",
+        "vote": 0
+    }
+]

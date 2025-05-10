@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "philsquared",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-09T15:42:59.959917+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-09T15:36:22+00:00",
+        "description": "<p>\n\tC++ on Sea 2025 runs from 23rd-25th June, with workshops on 26th-27th.</p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://cpponsea.uk/news/the-full-2025-schedule-is-now-available\">The full 2025 schedule is now available</a></h3>\n\t<p>\n\t\tby C++ on Sea</p>\n</blockquote>\n<p>\n\tFrom the article:</p>\n<blockquote>\n\t<p>\n\t\tThis year we are, once again, running 2-day workshops - but they will be after the main conference, at the end of the week. As usual we have a great range of timely topics from world-class instructors to help you keep ahead.</p>\n\t<p>\n\t\tWe&#39;ll kick off with [a keynote from] Herb Sutter... regroup in the middle with Timur Doumler... then round out with Kristen Shaker.</p>\n\t<p>\n\t\tLightning talks... conference dinner... and a C++ quiz night.</p>\n\t<p>\n\t\t&nbsp;</p>\n</blockquote>",
+        "id": 2639390,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/05/cpp-on-sea-2025-full-schedule-including-workshops",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "C++ on Sea 2025 Full Schedule, including workshops",
+        "vote": 0
+    }
+]
