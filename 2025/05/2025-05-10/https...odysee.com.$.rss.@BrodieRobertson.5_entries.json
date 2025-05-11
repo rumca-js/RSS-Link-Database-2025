@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Brodie Robertson | Linux Tips & Tricks",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-10T21:43:09.014898+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-10T21:00:53+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/y_V1tZdF2pA\" width=\"480\" alt=\"thumbnail\" title=\"KDE Plasma LTS Is Dead And No One Cares\" /></p>Did you even know that KDE Plasma has or more accurately had an LTS version, well you probably weren't using it and you probably didn't know it had been dead since the launch of Plasma 6 but now it's official<br /><br />==========Support The Channel==========<br />\u25ba Patreon: https://brodierobertson.xyz/patreon<br />\u25ba Paypal: https://brodierobertson.xyz/paypal<br />\u25ba Liberapay: https://brodierobertson.xyz/liberapay<br />\u25ba Amazon USA: https://brodierobertson.xyz/amazonusa<br /><br />==========Resources==========<br />Plasma 5 Era: https://community.kde.org/Schedules/Plasma_5<br />Plasma 6 Era: https://community.kde.org/index.php?title=Schedules/Plasma_6&oldid=103218<br />Plasma 6 Sprint: https://pointieststick.com/2025/05/01/notes-from-the-graz-plasma-sprint/<br /><br />=========Video Platforms==========<br />\ud83c\udfa5 Odysee: https://brodierobertson.xyz/odysee",
+        "id": 2648395,
+        "language": "en",
+        "link": "https://odysee.com/kde-plasma-lts-is-dead-and-no-one-cares:6c820150b13ddaaf939a6616aa149350b327533d",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 514,
+        "source_url": "https://odysee.com/$/rss/@BrodieRobertson:5",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "KDE Plasma LTS Is Dead And No One Cares",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "gameranx",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-10T23:49:06.871498+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-10T22:58:18+00:00",
+        "description": "DOOM: The Dark Ages (PC, PS5, Xbox Series X/S) is the latest in the ever-changing modern Doom franchise. How is it? Let's talk.\nSubscribe for more: http://youtube.com/gameranxtv \u25bc\n\nBuy Doom: https://amzn.to/4dbVKHT\n\nWatch more 'Before You Buy': https://bit.ly/2kfdxI6",
+        "id": 2648883,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=yg_tAt9-KS4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 128,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNvzD7Z-g64bPXxGzaQaa4g",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/yg_tAt9-KS4/hqdefault.jpg",
+        "title": "DOOM: The Dark Ages - Before You Buy",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Blog Staff",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-10T00:22:51.765733+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-10T00:04:03+00:00",
+        "description": "<p>\n\t<strong><img alt=\"me.png\" src=\"https://isocpp.org/files/img/me.png\" style=\"width: 200px; margin: 10px; float: right; height: 200px;\" />Friday, May 30th, 2025, 10:00 - 18:00 Berlin time (online)</strong></p>\n<blockquote>\n\t<h3>\n\t\t<a href=\"https://andreasfertig.com/blog/2025/04/1-day-workshop-safe-and-efficient-cpp-for-embedded-environments/\">1-day workshop on May 30: Safe and Efficient C++ for Embedded Environments</a></h3>\n\t<p>\n\t\tby Andeas Fertig</p>\n</blockquote>\n<p>\n\tAbout the training</p>\n<blockquote>\n\t<p>\n\t\tI&#39;m thrilled to let you know that I&#39;ll give the workshop \"<a href=\"https://andreasfertig.com/courses/safe-and-efficient-cpp-for-embedded-environments/\">Safe and Efficient C++ for Embedded Environments</a>\".</p>\n\t<p>\n\t\tThe workshop will take place on Friday,&nbsp;May 30th, 2025, 10:00 - 18:00 Berlin time. It is a remote workshop, so we can join from everywhere.</p>\n\t<p>\n\t\tThe course is specifically for people in the embedded domain. You&#39;ll learn about various fea",
+        "id": 2643093,
+        "language": null,
+        "link": "https://isocpp.org//blog/2025/05/1-day-workshop-on-may-30-safe-and-efficient-cpp-for-embedded-environments-a",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 314,
+        "source_url": "https://isocpp.org/blog/rss/category/news",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "1-day workshop on May 30: Safe and Efficient C++ for Embedded Environments --  Andreas Fertig",
+        "vote": 0
+    }
+]

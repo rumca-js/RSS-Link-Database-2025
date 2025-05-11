@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Sourav Rudra",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-10T15:12:14.410246+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-10T14:32:30+00:00",
+        "description": "openSUSE is not happy with Deepin Desktop and they their reasons for that.",
+        "id": 2646445,
+        "language": null,
+        "link": "https://news.itsfoss.com/opensuse-deepin-desktop-removal",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 156,
+        "source_url": "https://news.itsfoss.com/rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://news.itsfoss.com/content/images/2025/05/opensuse-deepin-desktop-removal.png",
+        "title": "Deepin Desktop Removed from openSUSE over Security Concerns",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Techlore",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-10T01:16:26.434140+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-10T00:16:58+00:00",
+        "description": "Discover how websites can identify and track you\u2014even without cookies\u2014using browser fingerprinting. This masterclass breaks down how your browser reveals a unique digital \"fingerprint\" that follows you across the web, with real demonstrations comparing protection levels in different browsers. Learn practical strategies for every experience level, from simple tweaks to advanced techniques, and understand which privacy tools actually work. Whether you're new to privacy or a seasoned defender, this guide will help you minimize your digital footprint while maintaining a usable browsing experience.\n\nThank you to our sponsor Notesnook! They offer E2EE notes in an open source ecosystem, free to try. Visit their site to get started: https://notesnook.com\n\nSome Sources:\nhttps://amiunique.org/fingerprint/\nhttps://coveryourtracks.eff.org/\nhttps://umariqbal.com/papers/fpinspector-sp2021.pdf\nhttps://petsymposium.org/popets/2024/popets-2024-0092.pdf\nhttps://www.mdpi.com/1424-8220/23/6/3087\nhttps://",
+        "id": 2643228,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=MT90t7P1_qM",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 327,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i2.ytimg.com/vi/MT90t7P1_qM/hqdefault.jpg",
+        "title": "Browser Fingerprinting Masterclass: How It Works & How To Protect Yourself",
+        "vote": 0
+    }
+]

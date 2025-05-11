@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuokka77",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-10T08:41:01.390598+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-10T08:34:18+00:00",
+        "description": "\"Squirrel Enthusiasm\" by Mutetus/Artline Designs^Onslaught, 3rd at Zoo 2024 C64 music compo.\nArt \"Going Nuts\" by The Sarge/Bonzai^Fairlight, 2nd at Syntax 2022 C64 gfx compo.\n\nMade using real C64 audio in SIDFX dual mono config (identical audio for both chips). Brainworx VST effects applied.\n\nLeft channel: MOS 6581R4AR 0187 14 Hong Kong HH512134 HC-30\nRight channel: MOS 6581R4 3386 S Philippines IH312143 HC-30\n\nThese chips are on the \"darker\" side of filtering.",
+        "id": 2644549,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=C9ZB3HxuSQA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 180,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJKt_QVDyUbqdm3ag_py2eQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/C9ZB3HxuSQA/hqdefault.jpg",
+        "title": "SID music: Mutetus - Squirrel Enthusiasm (SIDFX 6581 dual mono bx_\ud83c\udfa7)",
+        "vote": 0
+    }
+]

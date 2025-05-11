@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mental Outlaw",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-10T01:09:07.181168+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-10T00:36:17+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/-WhKtl0inCk\" width=\"480\" alt=\"thumbnail\" title=\"The Rusty Future of Ubuntu\" /></p>In this video I discuss Canonicals decision to replace major components of Ubuntu (Sudo and GNU Core utils) with rust implementations sudo-rs and uutils.<br /><br />My merch is available at<br />https://based.win/<br /><br />Subscribe to me on Odysee.com<br />https://odysee.com/@AlphaNerd:8<br /><br />\u20bf\ud83d\udcb0\ud83d\udcb5\ud83d\udcb2Help Support the Channel by Donating Crypto\ud83d\udcb2\ud83d\udcb5\ud83d\udcb0\u20bf<br /><br />Monero<br />45F2bNHVcRzXVBsvZ5giyvKGAgm6LFhMsjUUVPTEtdgJJ5SNyxzSNUmFSBR5qCCWLpjiUjYMkmZoX9b3cChNjvxR7kvh436<br /><br />Bitcoin<br />3MMKHXPQrGHEsmdHaAGD59FWhKFGeUsAxV<br /><br />Ethereum<br />0xeA4DA3F9BAb091Eb86921CA6E41712438f4E5079<br /><br />Litecoin<br />MBfrxLJMuw26hbVi2MjCVDFkkExz8rYvUF<br />...<br />https://www.youtube.com/watch?v=-WhKtl0inCk",
+        "id": 2643178,
+        "language": "en",
+        "link": "https://odysee.com/the-rusty-future-of-ubuntu:5b34c15e264f21a3afecae80a498de1ae6912df9",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 513,
+        "source_url": "https://odysee.com/$/rss/@AlphaNerd:8",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "The Rusty Future of Ubuntu",
+        "vote": 0
+    }
+]

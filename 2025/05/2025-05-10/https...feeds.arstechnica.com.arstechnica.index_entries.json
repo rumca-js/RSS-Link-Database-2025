@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marianne Lavelle, Inside Climate News",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-10T12:24:19.061666+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-10T11:07:46+00:00",
+        "description": "The program has saved consumers billions of dollars since its inception.",
+        "id": 2645608,
+        "language": "en-US",
+        "link": "https://arstechnica.com/tech-policy/2025/05/industry-groups-are-not-happy-about-the-imminent-demise-of-energy-star",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 21,
+        "source_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/energystar-500x500.jpg",
+        "title": "Industry groups are not happy about the imminent demise of Energy Star",
+        "vote": 0
+    }
+]

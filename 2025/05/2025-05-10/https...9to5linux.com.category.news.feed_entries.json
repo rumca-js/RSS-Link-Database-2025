@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Marius Nestor",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-10T12:04:37.447303+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-10T11:17:12+00:00",
+        "description": "<p><img width=\"1920\" height=\"985\" src=\"https://9to5linux.com/wp-content/uploads/2025/05/kp635.webp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"KDE Plasma 6.3.5\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/05/kp635.webp?w=1920&amp;ssl=1 1920w, https://i0.wp.com/9to5linux.com/wp-content/uploads/2025/05/kp635.webp?w=1860&amp;ssl=1 1860w\" sizes=\"(max-width: 1920px) 100vw, 1920px\" /></p>\n<p><!-- wp:paragraph --></p>\n<p>The KDE Project released KDE Frameworks 6.14 as the latest version of this collection of more than 70 add-on libraries to Qt, providing commonly needed functionality to KDE apps and the KDE Plasma desktop.</p>\n<p><!-- /wp:paragraph --></p>\n<p><!-- wp:paragraph --></p>\n<p>KDE Frameworks 6.14 continues the monthly <strong><a href=\"https://9to5linux.com/kde-frameworks-6-12-released-with-various-improvements-and-bug-fixes\">KDE Frameworks</a></strong> releases with some new features like suppo",
+        "id": 2645424,
+        "language": "en-US",
+        "link": "https://9to5linux.com/kde-frameworks-6-14-revamps-new-files-dialog-expands-krunner-unit-conversion",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 6,
+        "source_url": "https://9to5linux.com/category/news/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "KDE Frameworks 6.14 Revamps New Files Dialog, Expands KRunner Unit Conversion",
+        "vote": 0
+    }
+]

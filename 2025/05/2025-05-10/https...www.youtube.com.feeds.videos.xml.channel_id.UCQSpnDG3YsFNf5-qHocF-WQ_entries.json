@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "ThioJoe",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-10T16:01:31.728322+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-10T15:31:59+00:00",
+        "description": "Were you aware of this? \ud83e\udd14\n\u21d2 Become a channel member for special emojis, early videos, and more! Check it out here: https://www.youtube.com/ThioJoe/join\n\n\u25bc Time Stamps: \u25bc\n0:00 - Intro\n0:34 - The Biggest Difference\n1:24 - What Is It For?\n2:40 - Difference in How It's Acquired\n3:29 - Chrome For Testing Differences\n4:20 - Possible Different Default Configurations\n5:28 - Other Notes\n\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\n\u2022 My Gear & Equipment \u21e8 https://kit.co/ThioJoe\n\u2022 Merch \u21e8 https://teespring.com/stores/thiojoe\n\u2022 My Desktop Wallpapers \u21e8 https://thiojoe.art/\n\u21e8 http://Instagram.com/ThioJoe\n\u21e8 http://Twitter.com/ThioJoe\n\u21e8 http://Facebook.com/ThioJoeTV\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac",
+        "id": 2646732,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=DcIjulemba4",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 366,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQSpnDG3YsFNf5-qHocF-WQ",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/DcIjulemba4/hqdefault.jpg",
+        "title": "The Secret \"Testing\" Google Chrome Edition",
+        "vote": 0
+    }
+]

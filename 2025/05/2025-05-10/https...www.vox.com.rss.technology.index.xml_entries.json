@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kelsey Piper",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-10T13:28:16.555569+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-10T08:30:00+00:00",
+        "description": "<figure>\n\n<img alt=\"A baby in a crib next to a window.\" data-caption=\"A 4-day-old newborn baby, who has been placed under a window by the photographer, lies in a baby bed in the maternity ward of a hospital on August 12, 2011, in a city in the east German state of Brandenburg, Germany.\" data-portal-copyright=\"\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/05/GettyImages-120906828.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100\" />\n\t<figcaption>A 4-day-old newborn baby, who has been placed under a window by the photographer, lies in a baby bed in the maternity ward of a hospital on August 12, 2011, in a city in the east German state of Brandenburg, Germany.</figcaption>\n</figure>\n<p class=\"has-text-align-none\">At the dawn of the Covid pandemic, I wrote a <a href=\"https://www.vox.com/future-perfect/2020/3/12/21175990/trump-coronavirus-speech-oval-office-travel-ban\">newsletter</a> about the approaching virus that highlighted what I saw",
+        "id": 2645937,
+        "language": null,
+        "link": "https://www.vox.com/future-perfect/412189/population-fertility-birth-rates-pronatalism-progressives-politics-elon-musk",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 484,
+        "source_url": "https://www.vox.com/rss/technology/index.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Progressives should care that the global population is set to fall",
+        "vote": 0
+    }
+]

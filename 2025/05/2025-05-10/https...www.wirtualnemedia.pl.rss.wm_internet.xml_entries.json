@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-10T05:11:07.113894+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-10T05:11:06+00:00",
+        "description": "Jako prezes InPostu Rafa\u0142 Brzoska uzyska\u0142 za 2024 rok 21 mln z\u0142 wynagrodzenia, przy czym tylko 2,7 mln z\u0142 w got\u00f3wce. Reszta to opcje na akcje sp\u00f3\u0142ki za przekroczenie, z du\u017c\u0105 g\u00f3rk\u0105, jej wyznaczonych cel\u00f3w biznesowych. Podobnie skonstruowane s\u0105 zarobki innych cz\u0142onk\u00f3w zarz\u0105du InPostu.",
+        "id": 2643905,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/rafal-brzoska-ile-zarabia-inpost-akcje-cena-kurs-gielda",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 398,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_internet.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Tak zarabia Rafa\u0142 Brzoska w InPo\u015bcie. Wi\u0119kszo\u015b\u0107 nie w got\u00f3wce",
+        "vote": 0
+    }
+]

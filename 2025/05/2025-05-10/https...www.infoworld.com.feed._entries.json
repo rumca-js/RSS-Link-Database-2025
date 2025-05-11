@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-10T03:38:45.513383+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-10T03:23:44+00:00",
+        "description": "<div id=\"remove_no_follow\">\n\t\t<div class=\"grid grid--cols-10@md grid--cols-8@lg article-column\">\n\t\t\t\t\t  <div class=\"col-12 col-10@md col-6@lg col-start-3@lg\">\n\t\t\t\t\t\t<div class=\"article-column__content\">\n<section class=\"wp-block-bigbite-multi-title\"><div class=\"container\"></div></section>\n\n\n\n<p>Visual Studio Code 1.100, the latest release of <a href=\"https://www.infoworld.com/article/2335960/what-is-visual-studio-code-microsofts-extensible-code-editor.html\">Microsoft\u2019s code editor</a>, has arrived with several upgrades to its AI chat and AI code editing capabilities. Highlighting the list are support for Markdown-based instructions and prompt files, faster code editing in agent mode, and more speed and accuracy in Next Edit Suggestions. </p>\n\n\n\n<p>Released <a href=\"http://code.visualstudio.com/updates/v1_100\">May 8</a>, Visual Studio Code 1.100, also known as the April 2025 release, can be downloaded for Windows, macOS, and Linux at <a href=\"https://code.visualstudio.com/updates/v1_100",
+        "id": 2643690,
+        "language": "en-US",
+        "link": "https://www.infoworld.com/article/3982310/visual-studio-code-beefs-up-ai-coding-features.html",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 468,
+        "source_url": "https://www.infoworld.com/feed/",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Visual Studio Code beefs up AI coding features",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Second Wind",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-10T15:40:56.747597+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-10T15:01:15+00:00",
+        "description": "Dungeon Master and noted sandwich enthusiast Jack Packard, walks you through making a dungeon for Dungeons and Dragons (or which ever TTRPG you're using).\nHe'll be using a randomized room layout utilizing Dungeon Morph Dice https://dungeonmorphs.com/dice-sets/ and then expanding on the rooms to build a fully fleshed out dudgeon... with Draculas and everything!\n\nFind the full map over at our Patreon:\nhttps://www.patreon.com/SecondWindGroup\n\nSecond Wind Merch: \nhttps://store.dftba.com/collections/second-wind\nhttps://sharkrobot.com/collections/second-wind",
+        "id": 2646688,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=o0TGdeCpcxA",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 540,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1wZGocgLvopgOqBUFCyIJA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/o0TGdeCpcxA/hqdefault.jpg",
+        "title": "Let's Make a Dungeon Using Dice",
+        "vote": 0
+    }
+]

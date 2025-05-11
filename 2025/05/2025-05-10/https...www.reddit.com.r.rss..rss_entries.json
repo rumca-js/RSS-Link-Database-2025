@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "/u/marr",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-10T13:15:21.398618+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-10T12:44:13+00:00",
+        "description": "<!-- SC_OFF --><div class=\"md\"><p>Ideally collating the flood into a single combination post, but even just filtering everything else out and showing the first post per &lt;duration&gt; would be better than having to exclude a source entirely.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/marr\"> /u/marr </a> <br/> <span><a href=\"https://www.reddit.com/r/rss/comments/1kj9f89/is_there_a_tool_to_limit_a_fast_feed_to_one_post/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rss/comments/1kj9f89/is_there_a_tool_to_limit_a_fast_feed_to_one_post/\">[comments]</a></span>",
+        "id": 2645798,
+        "language": null,
+        "link": "https://www.reddit.com/r/rss/comments/1kj9f89/is_there_a_tool_to_limit_a_fast_feed_to_one_post",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 482,
+        "source_url": "https://www.reddit.com/r/rss/.rss",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Is there a tool to limit a fast feed to one post per hour/day/week?",
+        "vote": 0
+    }
+]

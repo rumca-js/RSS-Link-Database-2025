@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-10T22:58:22.441711+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-10T13:29:17+00:00",
+        "description": "<img src='https://i.cbc.ca/1.7532050.1746895349!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/jyoti-gondek-speaking.JPG' alt='Calgary Mayor Jyoti Gondek speaks at an announcement on plans for an events centre to replace the aging Saddledome in Calgary, Tuesday, April 25, 2023.' width='620' height='349' title='Calgary Mayor Jyoti Gondek speaks at an announcement on plans for an events centre to replace the aging Saddledome in Calgary, Tuesday, April 25, 2023.'/><p>Alberta's two big-city mayors say a separation referendum would be \"devastating\" to their local economies and is a needless distraction during a period in which the country should be focused on unity.</p>",
+        "id": 2648745,
+        "language": null,
+        "link": "https://www.cbc.ca/news/canada/calgary/alberta-mayors-separatism-referendum-1.7532048?cmp=rss",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 49,
+        "source_url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Calgary, Edmonton mayors call potential separatism referendum 'dangerous'",
+        "vote": 0
+    }
+]
