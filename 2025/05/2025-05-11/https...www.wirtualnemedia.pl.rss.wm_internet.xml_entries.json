@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-11T04:57:49.620911+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-11T04:57:49+00:00",
+        "description": "Netflix zrewolucjonizowa\u0142 ogl\u0105danie seriali, gdy zdecydowa\u0142 si\u0119 udost\u0119pnia\u0107 na platformie wszystkie odcinki sezonu w dniu premiery danej produkcji. Zacz\u0119\u0142o si\u0119 w 2013 roku od \u201eHouse of Cards\u201d i trwa do dzisiaj, mimo \u017ce inne platformy po okresie pr\u00f3b, wr\u00f3ci\u0142y do cotygodniowej emisji, albo blok\u00f3w trzyodcinkowych.",
+        "id": 2649738,
+        "language": "pl-PL",
+        "link": "https://www.wirtualnemedia.pl/artykul/czy-maratony-serialowe-wciaz-sa-w-modzie-binge-watching-czy-oplaca-sie-platformom-streamingowym-neflix-max-amazon-2",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 398,
+        "source_url": "https://www.wirtualnemedia.pl/rss/wm_internet.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Czy maratony serialowe wci\u0105\u017c s\u0105 w modzie?",
+        "vote": 0
+    }
+]

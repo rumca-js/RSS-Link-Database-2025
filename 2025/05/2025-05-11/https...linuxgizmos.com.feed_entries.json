@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Giorgio Mendoza",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-11T00:58:27.745880+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-11T00:28:52+00:00",
+        "description": "The RA4M1-Zero is a compact development board based on Renesas&#8217; 32-bit RA4M1 MCU. Running at 48 MHz with a built-in FPU, it features firmware encryption, secure boot, and a castellated design for easy integration into custom hardware. The board uses the R7FA4M1AB3CFM microcontroller from the RA4M1 family. It includes 256 KB of flash memory, 32 [&#8230;]",
+        "id": 2649119,
+        "language": "en-US",
+        "link": "https://linuxgizmos.com/coin-sized-ra4m1-zero-board-features-32-bit-ra4m1-mcu",
+        "manual_status_code": 0,
+        "page_rating": 30,
+        "page_rating_contents": 95,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 197,
+        "source_url": "https://linuxgizmos.com/feed",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Coin-Sized RA4M1-Zero Board Features 32-Bit RA4M1 MCU",
+        "vote": 0
+    }
+]

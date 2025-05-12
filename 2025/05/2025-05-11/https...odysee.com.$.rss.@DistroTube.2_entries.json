@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "DistroTube",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-11T14:15:47.526197+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-11T13:00:14+00:00",
+        "description": "<p><img src=\"https://thumbnails.lbry.com/9uJPJ4lmTSY\" width=\"480\" alt=\"thumbnail\" title=\"Replacing 'Sudo' With 'Doas' On Linux\" /></p>In the last few weeks, I've been using 'doas' instead of 'sudo' on my Arch Linux machines.  In fact, 'sudo' isn't even installed on them.  Like 'sudo', 'doas' is used to assume the identity of another user on the system.  The big pro for 'doas is that it is substantially smaller in size compared to 'sudo', and the config file is much easier to work with. <br /><br />REFERENCED:<br />\u25ba https://wiki.archlinux.org/title/Doas<br />\u25ba https://aur.archlinux.org/packages/doasedit<br />\u25ba https://www.cjjackson.dev/posts/replacing-sudo-with-doas-on-arch-linux/<br /><br />WANT TO SUPPORT THE CHANNEL? <br />\ud83d\udcb0 Patreon: https://www.patreon.com/distrotube <br />\ud83d\udcb3 Paypal: https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqazNocEhiaGFBT1l1MnRHbnlIcHFKbXJWVnpQd3xBQ3Jtc0tsLVZJc19YeFlwZ2JqbXVOa3g0Skw4TVhTV2otNm1tM3A1bUNnamh3S2V6OGQtLTBnSjBxYTlvUXMxeEV",
+        "id": 2651858,
+        "language": "en",
+        "link": "https://odysee.com/replacing-%27sudo%27-with-%27doas%27-on-linux:583464074e0595aad354d7865e1ca03000fd4270",
+        "manual_status_code": 0,
+        "page_rating": 29,
+        "page_rating_contents": 90,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 518,
+        "source_url": "https://odysee.com/$/rss/@DistroTube:2",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Replacing 'Sudo' With 'Doas' On Linux",
+        "vote": 0
+    }
+]

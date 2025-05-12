@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kyle Melnick, Hannah Natanson",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-11T19:55:53.344735+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-11T19:04:06+00:00",
+        "description": "The White House terminated U.S. Copyright Office Director Shira Perlmutter two days after firing the\u00a0Librarian of Congress.",
+        "id": 2653619,
+        "language": null,
+        "link": "https://www.washingtonpost.com/politics/2025/05/11/white-house-copyright-office-director-fired",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 85,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 364,
+        "source_url": "https://feeds.washingtonpost.com/rss/business/technology",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "White House fires head of Copyright Office amid Library of Congress shakeup",
+        "vote": 0
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-11T00:10:20.266326+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-11T00:10:19+00:00",
+        "description": "Wizz Air postanowi\u0142 przyspieszy\u0107 uruchomienie nowych tras z Wroc\u0142awia do Bukaresztu, Bazylei, Nicei i Madrytu \u2013 zamiast w grudniu samoloty wystartuj\u0105 ju\u017c w po\u0142owie lipca tego roku.",
+        "id": 2649020,
+        "language": "pl-PL",
+        "link": "https://turystyka.rp.pl/linie-lotnicze/art42260891-wizz-air-przyspiesza-loty-na-nowych-trasach-zamiast-zima-poleci-juz-latem",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 373,
+        "source_url": "https://turystyka.rp.pl/rss/3351-turystyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Wizz Air przyspiesza loty na nowych trasach. Zamiast zim\u0105, poleci ju\u017c latem",
+        "vote": 0
+    }
+]

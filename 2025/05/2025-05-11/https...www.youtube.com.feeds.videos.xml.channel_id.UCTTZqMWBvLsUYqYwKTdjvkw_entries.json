@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Mateusz Chrobok",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-11T16:47:49.518928+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-11T16:00:46+00:00",
+        "description": "\ud83d\ude0e\u00a0Pewnie s\u0142yszeli\u015bcie ju\u017c o robi\u0105cym ostatnio zawrotn\u0105 karier\u0119 okre\u015bleniu vibe-coding. Wystarczy powiedzie\u0107 sztucznej inteligencji jaki rewolucyjny projekt mamy w g\u0142owie a ona po prostu go za nas przygotuje. To przecie\u017c przysz\u0142o\u015b\u0107, futuryzm, rozwi\u0105zanie wszelkich problem\u00f3w \u015bwiata. Tylko czy to prawda? \n \n\u0179r\u00f3d\u0142a:\n\u270f\ufe0f\u00a0I took a 2-day \u2018vibe coding\u2019 class and successfully built a product. Here are my biggest takeaways\nhttps://www.cnbc.com/2025/05/08/i-took-a-2-day-vibe-coding-class-and-successfully-built-a-product.html\n\n\ud83e\udef5\u00a0Vibe Coding and You \nhttps://thenewstack.io/vibe-coding-and-you/\n\n\ud83d\udcb2\u00a0I use vibe coding and AI to run my Etsy and Shopify store. It's helped me more than double my revenue in a year. \nhttps://www.businessinsider.com/vibe-coding-etsy-seller-ai-boost-revenue-2025-4\n\n\ud83d\ude3b\u00a0I started \u2018vibe coding\u2019 my own apps with AI. I\u2019m absolutely loving it\nhttps://www.pcworld.com/article/2660539/i-started-vibe-coding-my-own-apps-with-ai-im-absolutely-loving-it.html\n\n\ud83d\udc26\u00a0Andrej Karpathy @ Twixxer\nht",
+        "id": 2652674,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=TaZDH4DxSl8",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 211,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTTZqMWBvLsUYqYwKTdjvkw",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i1.ytimg.com/vi/TaZDH4DxSl8/hqdefault.jpg",
+        "title": "Hej AI, stw\u00f3rz mi drugiego Instagrama!",
+        "vote": 0
+    }
+]

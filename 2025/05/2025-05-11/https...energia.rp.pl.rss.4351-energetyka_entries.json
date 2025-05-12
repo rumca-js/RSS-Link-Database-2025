@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-11T11:55:33.501966+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-11T11:55:33+00:00",
+        "description": "Du\u017cy ameryka\u0144ski fundusz chce mie\u0107 udzia\u0142y w jedynym obecnie ruroci\u0105gu, przez kt\u00f3ry Rosja eksportuje gaz do Unii. Transakcja mo\u017ce sta\u0107 si\u0119 niebezpiecznym pocz\u0105tkiem powrotu na rynek Unii rosyjskiego biznesu energetycznego.",
+        "id": 2651120,
+        "language": "pl-PL",
+        "link": "https://energia.rp.pl/gaz/art42261341-czy-amerykanski-miliarder-wspiera-gazprom-utajnione-rozmowy-w-bulgarii",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 103,
+        "source_url": "https://energia.rp.pl/rss/4351-energetyka",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": null,
+        "title": "Czy ameryka\u0144ski miliarder wspiera Gazprom? Utajnione rozmowy w Bu\u0142garii",
+        "vote": 0
+    }
+]

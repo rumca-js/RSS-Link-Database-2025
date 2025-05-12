@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": null,
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-11T22:05:00.779716+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-11T21:20:47+00:00",
+        "description": "Israeli settler Moshe Sharvit established a so-called 'outpost'  in occupied West Bank",
+        "id": 2654216,
+        "language": "en-gb",
+        "link": "https://www.bbc.com/news/articles/c8d1j3v2y3mo",
+        "manual_status_code": 0,
+        "page_rating": 26,
+        "page_rating_contents": 82,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 525,
+        "source_url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c9/live/9cf7ec30-2e6a-11f0-9ca7-57e61a0ffafe.png",
+        "title": "BBC team's tense encounter with sanctioned Israeli settler while filming in West Bank",
+        "vote": 0
+    }
+]

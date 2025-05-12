@@ -1,0 +1,29 @@
+[
+    {
+        "age": null,
+        "album": "",
+        "author": "Kuba Klawiter",
+        "bookmarked": false,
+        "comments": [],
+        "date_created": "2025-05-11T20:47:16.964747+00:00",
+        "date_dead_since": null,
+        "date_published": "2025-05-11T19:31:07+00:00",
+        "description": "Tym razem wyst\u0105pi\u0142em w chi\u0144skiej telewizji. Z robotem. W restauracji.\nSterowa\u0142em humanoidem i wsiad\u0142em do drona pasa\u017cerskiego, kt\u00f3ry\u2026 no w\u0142a\u015bnie. \nCzy to ju\u017c przysz\u0142o\u015b\u0107, czy nadal tylko udawanie post\u0119pu?\n\nSprawdzam, jak naprawd\u0119 dzia\u0142aj\u0105 chi\u0144skie roboty i na ile s\u0105 autonomiczne. \n(by\u0107 mo\u017ce) marketing rozjecha\u0142 si\u0119 troch\u0119 z rzeczywisto\u015bci\u0105.\nMimo to \u2014 jestem pod wra\u017ceniem.\n\nW odcinku:\nkulisy nagrania z udzia\u0142em humanoida w chi\u0144skim programie TV,\nchi\u0144ski robot, kt\u00f3ry mia\u0142 pokaza\u0107 serce (dos\u0142ownie),\nsterowanie robotem z aplikacji,\nprzeja\u017cd\u017cka pasa\u017cerskim dronem Ehang (czy by\u0142o si\u0119 czego ba\u0107?),\ni kilka  wniosk\u00f3w o przysz\u0142o\u015bci robot\u00f3w i sztucznej inteligencji.\n\nTechnologiczna podr\u00f3\u017c po Chinach trwa, ale powoli zbli\u017camy si\u0119 do ko\u0144ca tej serii. A zako\u0144czenie b\u0119dzie... inne ni\u017c si\u0119 spodziewacie.",
+        "id": 2653817,
+        "language": null,
+        "link": "https://www.youtube.com/watch?v=cT6Iveqatgw",
+        "manual_status_code": 0,
+        "page_rating": 27,
+        "page_rating_contents": 86,
+        "page_rating_visits": 0,
+        "page_rating_votes": 0,
+        "permanent": false,
+        "source__id": 179,
+        "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLr4hMhk_2KE0GUBSBrspGA",
+        "status_code": 0,
+        "tags": [],
+        "thumbnail": "https://i4.ytimg.com/vi/cT6Iveqatgw/hqdefault.jpg",
+        "title": "Tech Week: Chi\u0144ska telewizja, roboty i rozczarowania",
+        "vote": 0
+    }
+]
